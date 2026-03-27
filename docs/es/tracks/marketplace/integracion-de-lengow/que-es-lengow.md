@@ -11,7 +11,7 @@ productTeam: Apps
 slugEN: what-is-lengow
 locale: es
 trackId: 2KDrouPiE4HDKUFFSG3KdN
-trackSlugEN: integracion-de-lengow
+trackSlugEN: lengow-integration
 order: 1
 ---
 

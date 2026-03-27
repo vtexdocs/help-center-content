@@ -1,5 +1,5 @@
 ---
-title: 'Viewing reports on the platform'
+title: "Viewing reports on the platform"
 id: 336oZVyzWmvheGQC1cGnpN
 status: PUBLISHED
 createdAt: 2025-09-17T14:08:47.929Z
@@ -17,20 +17,21 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 After we build and run our flows, our next longing without a doubt is to be able to analyze the results we are geting. How many people have gone through my flow? what decisions have they made? These and others questions permeate our heads a lot and so we have the options to view results and reports on the platform.
 
-### Accessing flow results
+## Accessing flow results
 
 To access the flow results, simply open the flow in question, click on the burger menu next to the **Start Flow button** and select the **Results** option
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_1.png)
 
 In the **_Results_** tab we have two report options:
-  1. **Overview:**
+
+1. **Overview:**
 
 This option allows us to have an overview of users who have passed through the flow.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_2.png)
 
-  2. **Runs:**
+2. **Runs:**
 
 The ""Runs"" tab provides access to all raw data, which can be exported and used in other applications for data validation. In the ""Runs"" tab, you can choose to view all data or only the contacts who responded. The results saved in the cards are displayed in columns.
 

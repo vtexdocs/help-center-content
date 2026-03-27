@@ -1,5 +1,5 @@
 ---
-title: 'Introducción a Weni Agentic AI'
+title: 'Introducción a Weni agentic ai'
 id: 50MhPxb5jmKTOyW1UcWER3
 status: PUBLISHED
 createdAt: 2025-09-23T16:56:02.600Z

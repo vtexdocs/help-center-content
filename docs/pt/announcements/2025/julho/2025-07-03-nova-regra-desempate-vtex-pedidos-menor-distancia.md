@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-regra-desempate-vtex-pedidos-menor-distancia
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova regra de desempate na VTEX prioriza sellers com entregas de menor distância até o comprador.'
+tags:
+  - Melhoria
+  - Logística
 ---
 
 Pensando em aprimorar a experiência dos compradores, implementamos uma nova regra para o último critério de desempate na [alocação de pedidos na VTEX](/pt/docs/tutorials/selecao-de-sellers-white-label). A partir de 07/07/2025, em vez de uma escolha aleatória, o desempate será determinado pela menor distância entre o seller e o comprador.

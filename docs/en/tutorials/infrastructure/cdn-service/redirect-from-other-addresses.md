@@ -15,65 +15,60 @@ locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-An online store must have a single main address [pointing to VTEX's servers](/en/docs/tracks/pre-go-live) before the store is officially launched. Read the [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain) article to understand the rules the address must comply with and the process for adding it.
+An online store must have a single main address [pointing to VTEX servers](/docs/tracks/pre-go-live) before the store is officially launched. Check the [Configuring the store domain](/docs/tutorials/configuring-the-store-domain) article to learn the rules the address must follow and the process for adding it.
 
-To allow access to the store through other addresses and versions without a subdomain, you need to configure these addresses to redirect to the store's main address, which is listed in **Account settings > Account > Stores** in the VTEX Admin. See examples below:
+To allow access to the store through other addresses and versions without a subdomain, you need to configure them to redirect to the main store address, which is listed in **Account settings > Account > Stores** in the VTEX Admin. See examples below:
 
-| Address | Type |
-|---|---|
-| `www.mystore.com ` | Main domain |
-| `www.previousaddress.com ` | Redirect |
-| `mystore.com `  | Redirect |
+| Address                    | Type        |
+| -------------------------- | ----------- |
+| `www.mystore.com `         | Main domain |
+| `www.previousaddress.com ` | Redirect    |
+| `mystore.com `             | Redirect    |
 
 ## Configuring redirects
 
-You can configure redirects in different ways; one of the most popular is using[ htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess) on the server. You can also use a DNS redirect from many services, including domain providers such as [domain.com](http://domain.com/).
+You can configure redirects in different ways. One of the most popular ways is using `[htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess)` on the server. You can also use a DNS redirect from many services, including domain providers such as [domain.com](https://domain.com/).
 
-Below are instructions for setting up redirects to your store's main address using the [Redirect Center](http://redirect.center/) tool.
+Follow the instructions below to configure redirects to the main store address using the [Redirect-301](https://www.redirect-301.com/en/) tool, which is easy to use.
 
-> ⚠️ [Redirect Center](http://redirect.center/) is not a service provided by VTEX and does not support HTTPS. While there are other similar services available, VTEX does not endorse any specific one. VTEX is not liable for any issues caused by external redirect services.
+> ⚠️ [Redirect-301](https://www.redirect-301.com/en/) is not a VTEX service and operates under a subscription model. While there are other similar solutions in the market, VTEX does not recommend any specific tool. VTEX is not liable for any issues arising from the use of external redirect services.
 
 ### Address redirects without a subdomain (such as www)
 
-To visit your store from an address without subdomains, such as `www`, you need to create a redirect to your store's main address. For example, to access `http://www.mysite.com` from the address without a subdomain `http://mysite.com`, you need to create a redirect in your DNS provider by following the instructions below:
+To visit your store from an address without subdomains, such as `www`, you need to create a redirect to the main store address. For example, to access `http://www.mysite.com` using the address without a subdomain `http://mysite.com`, you need to create a redirect in your DNS provider by following the instructions below:
 
-1.	Create an A record for the domain root, usually represented by `.`, `@`, or just `mysite.com`, pointing to `54.84.55.102` ([Redirect Center's](http://redirect.center/) IP).
+1. Go to the [Redirect-301](https://www.redirect-301.com/en/) site and purchase a subscription. After your subscription is confirmed, you'll receive a token in your email. This token will be used in the domain configuration.
+2. Create an A record for the domain root, usually represented by `.`, `@`, or just `mysite.com`, pointing to `18.215.89.131` ([Redirect-301 IP](https://www.redirect-301.com/en/)).
 
-   |   |   |   |
-   |---|---|---|
-   | Host Record: <leave-empty\> | Type: A | To: 54.84.55.102 |
+   |                                                                       |                         |                                                                                   |
+   | --------------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------- |
+   | Host Record: <leave-empty\> | Type: A | To: 18.215.89.131 |
+3. Create a TXT record of type `redirect-301` (or `redirect-301.mysite.com`), with the following value: `token=YOUR_TOKEN;to=https://www.mysite.com/`
 
-2. Create a `redirect` CNAME record (or `redirect.mysite.com`) pointing to `www.mysite.com.redirect.center`.
+|                                           |                           |                                                                                                                                         |
+| ----------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Host Record: redirect-301 | Type: TXT | Value: token=YOUR_TOKEN;to=https://www.mysite.com/ |
 
-  |   |   |   |
-  |---|---|---|
-  | Host Record: redirect | Type: CNAME | To: www.mysite.com.redirect.center |
-
-Learn more about such situations in [Best practices for accessing the store without www](/en/docs/tutorials/best-practices-for-accessing-the-store-without-www).
+Learn more about these cases in [Best practices for accessing the store without www](/docs/tutorials/best-practices-for-accessing-the-store-without-www).
 
 Depending on the DNS provider, redirect propagation may take a few minutes to complete.
 
 ### Redirecting from one address to another
 
-To redirect from one address to another that doesn't share the same domain root, create a CNAME entry in the old address (access origin), following the pattern `{newAddress}.opts-uri.redirect.center`.
-
 For example, to redirect from `www.previousdomain.com` to `www.newdomain.com`:
 
-* Create a `www` entry in the domain `previousdomain.com` with the CNAME `www.newdomain.com.opts-uri.redirect.center`.
+- Create a `www` type A entry in the `previousdomain.com` domain pointing to `18.215.89.131` ([Redirect-301 IP](https://www.redirect-301.com/en/)).
+- Create a TXT record named redirect-301.www (or redirect-301.www.previousdomain.com) with the following value: token=YOUR_TOKEN;to=https://www.newdomain.com/
 
-To redirect from `store.anaddress.com` to `www.site.com`:
+To redirect from `store.anyaddress.com` to `www.site.com`:
 
-*	Create a `store` entry in the `anaddress.com` domain with the CNAME `www.site.com.opts-uri.redirect.center`.
+- Create a `store` type A entry in the `anyaddress.com` domain pointing to `18.215.89.131` ([Redirect-301 IP](https://www.redirect-301.com/en/)).
+- Create a TXT record named `redirect-301.store` (or redirect-301.store.anyaddress.com) with the following value: token=YOUR_TOKEN;to=https://www.site.com/;
 
 ### Redirecting access with HTTPS
 
-VTEX automatically directs `http://` addresses to `https://`. However, it may still be necessary to redirect an `https://` address, such as a version of the address without a subdomain or one with a different domain, to an `https://` address.
+VTEX automatically directs `http://` addresses to `https://`. However, you may still need to redirect an `https://` address, such as a version of the address without a subdomain or one with a different domain, to an `https://` address.
 
-When accessing an HTTPS page, the server responding to the address must have an SSL certificate installed. Not having an SSL certificate means the browser will recognize the connection as not secure and block the request. This prevents access to the desired page and makes it impossible to redirect to a different address.
+When accessing an HTTPS page, the server responding to the address must have an SSL certificate installed. Not having an SSL certificate means the browser will interpret the connection as not being secure and block the request. This prevents access to the desired page and makes it impossible to redirect to a different address.
 
-In [Redirect Center](http://redirect.center/), you cannot install an SSL certificate for each domain you point to. Therefore, it does not redirect accesses coming from HTTPS.
-
-To deal with this limitation, consider the following aspects:
-
-1. If the source domain does not have a subdomain, such as `site.com`, point it to a server managed by the store itself, i.e., a physical or virtual server managed by the user or company itself. This server must have an **SSL certificate installed for the source domain**, enabling secure access via HTTPS. Read the[ Security certificate (SSL)](/en/docs/tutorials/security-certificate-ssl) article for more information.
-2. Define a **redirect rule**. To use a self-managed server to redirect HTTPS traffic, you must define a redirect rule on the server, which can vary depending on the type of server used (Apache, ASP, nginx). Therefore, to configure this rule, you must know which server type is being used and apply the corresponding settings.
+In [Redirect-301](https://www.redirect-301.com/en/), an SSL certificate is installed for each pointed domain. This way, it will normally redirect accesses originating from HTTP and HTTPS, ensuring secure connections when applicable.

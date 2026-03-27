@@ -1,5 +1,5 @@
 ---
-title: 'Construtor de Vendas API-Integrated Chatbot'
+title: 'Construtor de Vendas API-integrated chatbot'
 id: 31l91LHeVDM8I2ldGxrrAn
 status: PUBLISHED
 createdAt: 2025-09-17T14:25:32.909Z
@@ -15,14 +15,14 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-### Template Construtor de Vendas
+## Construtor de Vendas template
 
 This is a communication solution for **listing projects, sending addresses, campaign materials, floor plans, creating leads with conversation history, and opening customer service cases in the Relationship module**. Weni provides digital solutions to automate conscious, open, and accessible communication. This template is a chatbot developed by Weni, using the [Construtor de Vendas API](https://docs.cvcrm.com.br/).
 
 Watch a demonstration to understand how the chatbot works and its business rules:
 [**Demonstration of the Chatbot Template CV @cvcrm | Weni**](https://www.youtube.com/watch?v=Pdis7GPSeiU)
 
-#### Requirements
+### Requirements
 
 To begin using the integration, some information is needed to set up your chatbot:
   1. **Email and API Token for CV API Consumption**

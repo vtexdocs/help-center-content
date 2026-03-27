@@ -12,6 +12,9 @@ locale: pt
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Nova permissão obrigatória para acessar o app da Livelo na versão 1.3.1 do conector.'
+tags:
+  - Breaking change
+  - Integrações
 ---
 
 Para melhorar a segurança de acessos e fortalecer os controles de permissão, implementamos uma atualização no conector da Livelo. A partir da versão 1.3.1 do conector, foi implementada uma nova permissão de acesso obrigatória.

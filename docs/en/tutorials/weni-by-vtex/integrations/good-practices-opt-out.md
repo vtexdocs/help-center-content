@@ -1,5 +1,5 @@
 ---
-title: 'Good practices: Opt-Out'
+title: "Good practices: Opt-out"
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
@@ -19,7 +19,7 @@ The practice of opt-out refers to the process by which a user can cancel or stop
 
 This practice involves providing clear and accessible methods for users to easily stop communication whenever they wish. Opt-out is typically done through keywords sent by the user themselves (like ""STOP,"" ""CANCEL,"" ""UNSUBSCRIBE"") or through buttons or clickable links that remove the contact from the sending list.
 
-**Key Features of the Opt-Out Practice:**
+## Key features of the opt-out practice
 
 - User Control: The customer has the power to choose when to stop receiving communications.
 - Easy to Use: It should be simple and quick for the user to request to unsubscribe.
@@ -40,7 +40,7 @@ This can result in the company's image being tarnished in the eyes of that custo
 
 Therefore, if they need new solutions or services from the institution in the future, they may not feel comfortable, which could be enough to prevent new business deals from being closed.
 
-**Improving Quality Rating**
+## Improving quality rating
 
 To avoid customer opt-outs, you can improve the quality rating of your account.
 

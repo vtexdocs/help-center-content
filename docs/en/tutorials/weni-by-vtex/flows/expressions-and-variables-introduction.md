@@ -1,5 +1,5 @@
 ---
-title: 'Expressions and Variables Introduction'
+title: "Expressions and variables introduction"
 id: 4MDzN6Z7Sau2Xt1eyyQ4Ik
 status: PUBLISHED
 createdAt: 2025-09-16T16:14:16.027Z
@@ -30,7 +30,8 @@ When using flow variables, it is also possible to specify subtopics you want. Se
 
 All variables and expressions show their actual value when the contact is active in the flow. If you enter a variable or expression incorrectly, the message will not be replaced, and the incorrect formula will be displayed to the user.
 
-##### Other Variables
+## Other variables
+
 In addition to the `@results` expression, there are other commonly used expressions:
 **`@contact`**
 This expression is used to retrieve values saved in standard contact fields on the Weni Platform and is updated through the **Update Contact** card. Examples:

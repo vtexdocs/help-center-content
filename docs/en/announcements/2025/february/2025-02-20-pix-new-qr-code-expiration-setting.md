@@ -13,6 +13,9 @@ locale: en
 legacySlug: pix-new-qr-code-expiration-setting
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Setting the PIX QR Code expiration time is available for VTEX stores.'
+tags:
+  - Improvement
+  - Payments
 ---
 
 To improve payment operations on the platform, VTEX will implement a new setting for customizing the expiration time of the Pix QR Code (a Brazilian payment method).

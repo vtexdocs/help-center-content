@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-offer-model-on-mercado-libre
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Learn about the offer model that allows different sales conditions for the same product.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 The new offer model on **Mercado Libre** allows sellers to configure different sales conditions for each product SKU, such as individual pricing for variations.    

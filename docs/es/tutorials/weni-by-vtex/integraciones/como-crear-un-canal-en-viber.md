@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal en Viber'
+title: "Cómo crear un canal en Viber"
 id: 4FnOuBsgb3OlRTxGFxeRWf
 status: PUBLISHED
 createdAt: 2025-09-15T14:06:26.972Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Usted podrá agregar su cuenta pública de Viber como un canal en la plataforma.
 
-### Proceso inicial de integración del canal Viber
+## Proceso inicial de integración del canal Viber
 
 1. Dentro de tu proyecto, haz clic en **Aplicaciones > Descubrimiento**, busca el canal de **Viber** y luego haz clic en el signo \+.
 
@@ -33,38 +33,38 @@ Usted podrá agregar su cuenta pública de Viber como un canal en la plataforma.
 
 3. El único requisito es el **Token de autorización** (llamado ""token de aplicación"" por el equipo de Viber).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_4.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_4.png)
 
-#### Crear una cuenta en Viber
+### Crear una cuenta en Viber
 
 Instale la aplicación del Viber y pase por el proceso de registro con su número de celular.
 
 Teniendo una cuenta válida ya puede acceder al panel de administración de Viber y vincularla con una cuenta pública.
 
- ![PhonesNumber](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_5.png) 
+![PhonesNumber](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_5.png)
 
- Usted recibirá un token de verificación en su celular, el cual debe confirmar.
+Usted recibirá un token de verificación en su celular, el cual debe confirmar.
 
- ![VerifyToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_6.png) 
+![VerifyToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_6.png)
 
- En el panel izquierdo, seleccione ""Create bot account"".
+En el panel izquierdo, seleccione ""Create bot account"".
 
- ![CreateBot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_7.png) 
+![CreateBot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_7.png)
 
- Llene los requisitos y haga click en ""create"" al final de la página.
+Llene los requisitos y haga click en ""create"" al final de la página.
 
- ![FillBotForm](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_8.png) 
+![FillBotForm](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_8.png)
 
- Llevará algunos segundos para procesar y una nueva ventana será exhibida con el token necesario.
+Llevará algunos segundos para procesar y una nueva ventana será exhibida con el token necesario.
 
- ![FinalToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_9.png) 
+![FinalToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_9.png)
 
- #### Concluir la configuración del canal
+#### Concluir la configuración del canal
 
 Ahora vuelva al proceso de edición de canal, pegue el Token y presione ""Guardar los Cambios"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_10.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_10.png)
 
-#### Publica la cuenta
+### Publica la cuenta
 
 Una etapa final es necesaria. Acceda a la aplicación de Viber en el celular, abra ""Más"", seleccione ""Descubra"" y abra la guía Mina. Seleccione la página que acabó de crear y verá la opción ""Publicar"".

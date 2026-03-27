@@ -1,5 +1,5 @@
 ---
-title: 'Buenas prácticas: Opt-In'
+title: "Buenas prácticas: Opt-in"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### OPT-IN
-
 Las empresas deben obtener la aceptación del WhatsApp Business API antes de iniciar conversaciones sobre marketing, servicios y autenticación con clientes fuera de la ventana de 24 horas. Esto puede hacerse de varias maneras, tanto dentro como fuera de WhatsApp.
 
 El Opt-In es una autorización que el usuario o cliente otorga para que una empresa pueda enviarle comunicaciones, notificaciones y contenido en general.
@@ -25,7 +23,7 @@ Su finalidad es garantizar que la persona tiene un interés genuino en recibir m
 
 La aceptación es imprescindible para el uso de WhatsApp Business API. La solicitud es obligatoria y es uno de los principales requisitos para obtener una cuenta comercial en WhatsApp.
 
-#### Requisitos
+## Requisitos
 
 Para obtener el Opt-In, es necesario cumplir con algunos requisitos:
 
@@ -33,7 +31,7 @@ Para obtener el Opt-In, es necesario cumplir con algunos requisitos:
 - Exponer claramente el nombre de la empresa a la persona que está aceptando recibir los mensajes.
 - Cumplir con la **LGPD** (Ley General de Protección de Datos Personales).
 
-#### Métodos de aceptación
+## Métodos de aceptación
 
 Una vez cumplidos los requisitos, se puede elegir el método de aceptación. Los más comunes son:
 
@@ -44,7 +42,7 @@ Una vez cumplidos los requisitos, se puede elegir el método de aceptación. Los
 - Teléfono (utilizando un flujo de IVR).
 - Formulario en una aplicación.
 
-#### Clasificación por calidad
+## Clasificación por calidad
 
 Es importante contar con el Opt-In de los usuarios para evitar comentarios negativos de los clientes que podrían llevar tus mensajes a la carpeta de spam o resultar en bloqueos.
 

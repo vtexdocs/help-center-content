@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-feature-seller-opt-in-for-promotions
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New feature for managing seller opt-in and opt-out of promotions via API.'
+tags:
+  - New feature
+  - Promotions
+  - Marketplace
 ---
 
 VTEX launched a new seller opt-in feature for promotions, allowing merchants to configure promotions in their marketplaces, so sellers can choose whether to participate. With this change, sellers can now define their level of participation, giving them more control over promotional campaigns.

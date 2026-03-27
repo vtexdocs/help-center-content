@@ -1,5 +1,5 @@
 ---
-title: 'Web Chat Channel'
+title: "Web Chat Channel"
 id: 3Y0MyNe0kPEngpYOJG1qpo
 status: PUBLISHED
 createdAt: 2025-09-15T14:12:38.155Z
@@ -16,8 +16,6 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 If you have a website and would like to integrate your bot into it, the solution is our **Web Chat** channel, which enables you to assist visitors on your site who wish to get more information or human assistance.
-
-### How to Create a Web Chat Channel
 
 1. In your project, click on **Applications > Discoveries > Add the Weni Web Chat channel**.
 
@@ -37,7 +35,7 @@ If you have a website and would like to integrate your bot into it, the solution
 
 **Appearance**: Allows you to upload custom CSS, a bot image, and adjust the color palette.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/web-chat-channel_5.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/web-chat-channel_5.png)
 
 After finalizing your Web Chat customization, click on the Save changes button to save the modifications and generate the script code.- **Script Code**: Once the information is saved, a script code will be generated, which you should add to your website.
 

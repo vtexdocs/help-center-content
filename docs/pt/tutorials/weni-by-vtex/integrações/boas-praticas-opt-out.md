@@ -1,5 +1,5 @@
 ---
-title: 'Boas práticas: Opt-Out'
+title: 'Boas práticas: Opt-out'
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z

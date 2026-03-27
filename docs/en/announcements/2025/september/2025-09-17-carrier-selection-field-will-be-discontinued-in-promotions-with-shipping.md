@@ -13,6 +13,9 @@ locale: en
 legacySlug: carrier-selection-field-will-be-discontinued-in-promotions-with-shipping
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Carrier selection field disabled in promotions with shipping method since July 2025.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 To simplify the configuration of shipping methods, the VTEX development team has deprecated the `isSlaSelected` field.  Manual configuration of this field has been disabled to ensure predictable behavior.

@@ -19,7 +19,7 @@ In this guide, you'll learn how to manage buying policies through the following 
 - Editing a buying policy
 - Deleting a buying policy
 
-> ⚠️ To configure buying policies, the user's [Storefront permissions](https://developers.vtex.com/docs/guides/storefront-permissions) role must have the `ManageBuyingPolicies` resource. To authorize orders, the `ApproveOrders` resource is required.
+> ⚠️ To configure buying policies, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) role must have the `ManageBuyingPolicies` resource. To authorize orders, the `ApproveOrders` resource is required.
 
 ## Adding a buying policy
 

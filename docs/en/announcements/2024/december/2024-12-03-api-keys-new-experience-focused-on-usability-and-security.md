@@ -13,6 +13,9 @@ locale: en
 legacySlug: api-keys-new-experience-focused-on-usability-and-security
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Manage your API keys with more security: A new interface, token duration settings, and options for renewal and deletion.'
+tags:
+  - Security update
+  - Identity
 ---
 
 We've introduced a new [API Key](/en/docs/tutorials/api-keys) management experience to give you more efficient control over your credentials.

@@ -1,5 +1,5 @@
 ---
-title: 'Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones'
+title: "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones"
 id: 4bc7imLyUicKHtCIJVGNSE
 status: PUBLISHED
 createdAt: 2025-09-15T15:07:41.131Z
@@ -17,21 +17,21 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Aquí podrás ver soluciones para posibles obstáculos, rechazos y errores en el proceso de creación, envío y cambios en los mensajes de plantilla de WhatsApp. A continuación, se presentan los siguientes temas para obtener más información.
 
-#### **Proceso de aprobación (Responsabilidad de Meta)**
+## Proceso de aprobación (responsabilidad de Meta)
 
 Una vez que hayas creado el modelo, podrás enviarlo para su aprobación. Puede tomar hasta 24 horas para que se tome una decisión de aprobación. Una vez tomada la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, META enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, META también enviará una notificación de webhook. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
 
 Si es aprobado, el modelo de mensaje tendrá el estado **Activo \- Calidad pendiente.** Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo de mensaje puede ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviado para su aprobación. Otra opción es [apelar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) la decisión.
 
-#### **Ejemplos**
+## Ejemplos
 
- Te recomendamos que incluyas un ejemplo antes de enviar el modelo para su aprobación. Los ejemplos te permiten enviar ejemplos de activos multimedia y valores de texto para variables multimedia o de texto requeridos por el modelo. Esto facilita la visualización de cómo aparecerá el modelo para los clientes.
+Te recomendamos que incluyas un ejemplo antes de enviar el modelo para su aprobación. Los ejemplos te permiten enviar ejemplos de activos multimedia y valores de texto para variables multimedia o de texto requeridos por el modelo. Esto facilita la visualización de cómo aparecerá el modelo para los clientes.
 
 Además, si el envío es rechazado y decides apelar, será necesario incluir un ejemplo en tu apelación. Por lo tanto, es mejor incluirlo en el envío inicial.
 
 Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las variables necesarias. Luego, haz clic en el botón Agregar ejemplo. El panel de vista previa mostrará los ejemplos de activos multimedia o valores de texto proporcionados.
 
-#### **Motivos comunes de rechazo**
+## Motivos comunes de rechazo
 
 - Estos son los errores más comunes que conducen al rechazo del envío y deben evitarse:
 - Faltan parámetros variables o tienen claves incompatibles. El formato correcto es {{1}}.
@@ -42,11 +42,11 @@ Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las vari
 - El contenido es potencialmente abusivo o amenazante. Por ejemplo, amenaza al cliente con acciones legales o vergüenza pública.
 - El modelo de mensaje es una duplicata de uno existente. Si se envía un modelo con el mismo texto que uno existente en el cuerpo y el pie de página, la duplicata será rechazada. Se mostrará una notificación de rechazo que incluye el motivo en la Calidad de la cuenta en el Administrador de WhatsApp y se enviará por correo electrónico. En la notificación de Calidad de la cuenta, puedes consultar el nombre y el idioma del modelo existente que tiene el mismo contenido del duplicado rechazado. También puedes editar y reenviar el modelo. Es importante tener en cuenta que esta verificación no se aplica a los modelos de OTP.
 
-#### **Edición**
+## Edición
 
 Puedes editar el modelo a través del Administrador de WhatsApp o del punto de extremo de Modelo de mensaje. Si se edita y se reenvía para su aprobación, el modelo de mensaje tendrá el estado En revisión y no podrá ser enviado a los clientes hasta que esté Activo.
 
-#### **Cómo enviar modelos de mensaje**
+## Cómo enviar modelos de mensaje
 
 Una vez aprobado el modelo, podrás enviarlo a los clientes. Para enviar un modelo de mensaje, consulta Cómo enviar modelos de mensaje a usuarios de la API de Nube o Cómo enviar modelos de mensaje a usuarios de la API Local.
 
@@ -54,7 +54,7 @@ Solo los modelos con estado **Activo (por ejemplo, Activo \- Calidad pendiente, 
 
 El estado puede cambiar automáticamente de **Activo** a **Pausado** o **Desactivado** según los comentarios de los clientes. Por lo tanto, te recomendamos que monitorees los cambios de estado y tomes las medidas apropiadas cuando un modelo de mensaje en el que dependes sea pausado o desactivado o corra ese riesgo.
 
-#### **Estado**
+## Estado
 
 Los modelos pueden tener los siguientes estados.
 
@@ -78,7 +78,7 @@ Los modelos pueden tener los siguientes estados.
 
 Puedes consultar el estado de un modelo en **Administrador de WhatsApp > Resumen**. Luego, pasa el cursor sobre el icono del sobre **(Herramientas de la cuenta)** y haz clic en **Modelos de mensaje**. Si tienes más de una cuenta de WhatsApp Business, selecciona la cuenta cuyo estado de modelo quieras consultar en la lista de cuentas en el menú desplegable en la esquina superior derecha.
 
-#### **Cómo monitorear cambios de estado**
+## Cómo monitorear cambios de estado
 
 El estado de un modelo puede cambiar automáticamente según decisiones de revisión, resultados de apelaciones o cambios en la clasificación de calidad. Si el estado de un modelo cambia, recibirás una notificación por correo electrónico, en el Administrador de Negocios y en el webhook.
 
@@ -86,7 +86,7 @@ Dado que solo puedes enviar modelos de mensaje con estado **Activo**, te recomen
 
 Si has configurado los webhooks y ves que la calidad de un modelo está disminuyendo, ve a Administrador de **WhatsApp > Modelos de mensaje** y pasa el cursor sobre el modelo de mensaje en cuestión. Se mostrará un mensaje con información sobre el problema. Con base en esta información, puedes optar por editar el modelo y enviarlo para su reaprobación, usar un modelo diferente o cambiar la lógica comercial de tu aplicación. Si editas el modelo de mensaje y es aprobado, la clasificación de calidad mejorará gradualmente si no recibe comentarios negativos con frecuencia.
 
-#### **Clasificación de calidad**
+## Clasificación de calidad
 
 Los modelos de mensaje tienen una clasificación de calidad basada en el uso y los comentarios de los clientes. Cuando el estado sea Activo, la clasificación del modelo de mensaje aparecerá en el Administrador de WhatsApp junto al estado:
 
@@ -99,7 +99,7 @@ Inicialmente, los modelos de mensaje aprobados tienen la clasificación **Calida
 
 No ofrecemos webhooks para comentarios de modelo de mensaje o cambios en la clasificación de calidad. Sin embargo, podemos enviar una notificación de webhook cuando haya cambios en el estado de los modelos. Por lo tanto, te recomendamos que configures los webhooks, estés atento a los cambios en el estado del modelo y tomes las medidas apropiadas antes de que el modelo sea pausado o desactivado. Consulta Cómo monitorear cambios de estado.
 
-#### **Pausa en el modelo**
+## Pausa en el modelo
 
 Disponible para empresas configuradas en Brasil, México y Colombia el 7 de septiembre de 2022 y en todos los demás países el 6 de octubre de 2022\.
 
@@ -119,11 +119,11 @@ También puedes cambiar la lógica comercial (definición de público objetivo, 
 
 Inicialmente, la pausa no afectará el número de teléfono comercial ni reducirá el límite de mensajes. Otros modelos de mensaje con alta calidad pueden seguir siendo enviados desde el número de teléfono. Sin embargo, si la empresa continúa usando modelos con **Calidad baja** después de que se hayan pausado, el número de teléfono podría verse afectado en algún momento.
 
-#### **Notificaciones de pausa**
+## Notificaciones de pausa
 
 Cuando se pausa un modelo de mensaje, enviaremos una notificación en el Administrador de WhatsApp, por correo electrónico y webhook (si has suscrito webhooks de cambios en modelos de mensaje). Consulta Cómo monitorear cambios de estado para ver información sobre la configuración del webhook y Ejemplos \- Modelo pausado para ver un ejemplo de carga de webhook.
 
-#### **Reanudar**
+## Reanudar
 
 El modelo se reanudará automáticamente después de que se complete la pausa descrita anteriormente. Una vez reanudado, el modelo tendrá el estado **Activo** y podrá ser enviado a los clientes nuevamente. Si no has detenido las campañas de mensajes automáticos que dependían del modelo, volverán a funcionar. Sin embargo, te recomendamos que detengas las campañas que dependan de modelos suspendidos hasta que se retiren de la pausa, ya que nuestras API las rechazarán.
 
@@ -131,7 +131,7 @@ La clasificación de calidad del modelo también se establecerá en un valor bas
 
 Así como con las notificaciones de pausa, enviaremos notificaciones a través del Administrador de WhatsApp, por correo electrónico y webhook cuando el estado del modelo se establezca como **Activo.**
 
-#### **Apelaciones**
+## Apelaciones
 
 Si el envío es rechazado, puedes hacer una apelación. Ten en cuenta que las apelaciones deben incluir un ejemplo. Si se desactiva un modelo aprobado, también puedes editarlo y reenviarlo para su aprobación.
 
@@ -146,7 +146,7 @@ En el **Administrador de WhatsApp:**
 
 META analizará y tomará una decisión en un plazo de 24 horas.
 
-#### **Conoce más**
+## Conoce más
 
 [Política de WhatsApp Business:](https://www.whatsapp.com/legal/business-policy/) aprende más sobre las políticas para empresas.
 

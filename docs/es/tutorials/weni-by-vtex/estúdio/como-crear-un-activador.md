@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un Activador'
+title: "Cómo crear un activador"
 id: 4bo1N0wsONdFMVDMlIPU9T
 status: PUBLISHED
 createdAt: 2025-09-12T17:40:04.331Z
@@ -19,20 +19,20 @@ En este punto, tu chatbot está conectado a algún canal, pero para iniciar un f
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-un-activador_1.png)
 
--    Haz clic en el botón ""Cree una palabra clave de mensaje que lance un flujo""
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-un-activador_2.png)
+- Haz clic en el botón ""Cree una palabra clave de mensaje que lance un flujo""
+  ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-un-activador_2.png)
 
--    En la palabra clave, definirás la palabra que funcionará como activador.
+- En la palabra clave, definirás la palabra que funcionará como activador.
 
--    En el activador, puedes elegir entre activar cuando:
+- En el activador, puedes elegir entre activar cuando:
 
 El mensaje comienza con la palabra clave: Si la frase escrita por el usuario comienza con la palabra clave, el flujo seleccionado se activará.
 
 El mensaje contiene solo la palabra clave: El flujo seleccionado se ejecutará si el usuario escribe **únicamente **el conjunto de palabras clave registrado.
 
--    En ""Flujo"" se define el flujo que se iniciará.
+- En ""Flujo"" se define el flujo que se iniciará.
 
--    En ""Solo Grupos"" es posible incluir o no las reglas de este activador a un grupo de contactos específico; deja el espacio en blanco si deseas aplicar esta regla a todos.
+- En ""Solo Grupos"" es posible incluir o no las reglas de este activador a un grupo de contactos específico; deja el espacio en blanco si deseas aplicar esta regla a todos.
 
--    Haz clic en la caja ""Crear activador"".
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-un-activador_3.png)"
+- Haz clic en la caja ""Crear activador"".
+  ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-un-activador_3.png)"

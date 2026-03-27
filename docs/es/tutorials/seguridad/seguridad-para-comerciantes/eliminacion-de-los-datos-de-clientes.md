@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-De acuerdo con normativas de protección de datos como [RGPD (Reglamento General de Protección de Datos de la Unión Europea) y LGPD (Ley General de Protección de Datos Personales de Brasil)](https://vtex.com/mx-es/privacy-and-agreements/vtex-commitment/), las empresas que utilizan datos personales de clientes deben aceptar sus solicitudes de eliminación de datos registrados. Por eso, VTEX te permite solicitar la eliminación de los datos de los clientes de tu tienda a través de Copilot.
+De acuerdo con normativas de protección de datos como RGPD (Reglamento General de Protección de Datos de la Unión Europea) y LGPD (Ley General de Protección de Datos Personales de Brasil), las empresas que utilizan datos personales de clientes deben aceptar sus solicitudes de eliminación de datos registrados. Por eso, VTEX te permite solicitar la eliminación de los datos de los clientes de tu tienda a través de Copilot.
 
 ## 1. Comprobar datos almacenados en Master Data
 

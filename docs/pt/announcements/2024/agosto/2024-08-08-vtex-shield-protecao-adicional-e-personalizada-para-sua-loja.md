@@ -13,6 +13,9 @@ locale: pt
 legacySlug: vtex-shield-protecao-adicional-e-personalizada-para-sua-loja
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Apresentamos o VTEX Shield, uma solução que proporciona camadas adicionais e personalizáveis de proteção.'
+tags:
+  - Nova funcionalidade
+  - VTEX Shield
 ---
 
 Apresentamos o [VTEX Shield](/pt/docs/tutorials/vtex-shield), uma solução que proporciona camadas adicionais e personalizáveis de segurança para sua loja, complementando os padrões já garantidos pelas [certificações e práticas de segurança da VTEX](https://vtex.com/br-pt/security/security-practices/).
@@ -39,5 +42,5 @@ O Data Protection Plus oferece uma arquitetura avançada de proteção de dados,
 
 ## Como obter acesso?
 
-Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).
 

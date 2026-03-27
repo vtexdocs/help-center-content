@@ -22,7 +22,7 @@ Para adicionar um usuário, é necessário estar cadastrado na loja como membro 
 
 Siga as instruções a seguir para adicionar um usuário:
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), siga **a** ou **b** para acessar o painel de criação de usuário:  
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), siga **a** ou **b** para acessar o painel de criação de usuário:  
 
    1. Clique no botão **\+** e depois em **Add user**,  
       ou  
@@ -54,7 +54,7 @@ Ele passará a operar dentro da Organization Unit à qual foi vinculado e poder�
 
 Ao adicionar um usuário sem email cadastrado, o administrador da organização precisa gerar um código de acesso e repassar para o usuário realizar o primeiro acesso, seguindo as instruções abaixo.
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), acesse **Organization > Users**.  
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), acesse **Organization > Users**.  
 2. Clique no menu ⋮ e depois em **Reset password**.  
 3. Clique em **Reset** para confirmar.  
 4. Copie o código gerado e envie para o usuário.

@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-funcionalidad-permite-importar-en-masa-los-datos-de-organizaciones-y
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Gestión de organizaciones: importar en masa simplifica la actualización y mantenimiento de los datos'
+tags:
+  - Nueva funcionalidad
+  - B2B
 ---
 
 VTEX ofrece una nueva funcionalidad de importar en masa que simplifica el proceso de actualización y mantenimiento de los datos de las organizaciones compradoras, sus usuarios (miembros) y los centros de costo.

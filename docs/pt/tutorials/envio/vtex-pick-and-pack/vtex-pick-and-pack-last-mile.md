@@ -17,5 +17,5 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ⚠️ Conteúdo em tradução.
 
-> ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
+> ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/pt-br/contato/) apontando no campo `Comentários` o nome do produto desejado.
 

@@ -13,6 +13,9 @@ locale: pt
 legacySlug: simulador-de-promocoes-entenda-as-promocoes-aplicadas-ao-carrinho
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Visualize e gerencie as promoções aplicadas no carrinho com o Simulador de promoções.'
+tags:
+  - Nova funcionalidade
+  - Promoções
 ---
 
 

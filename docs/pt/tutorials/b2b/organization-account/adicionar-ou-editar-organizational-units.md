@@ -1,7 +1,7 @@
 ---
 title: 'Adicionar ou editar Organizational Units'
-createdAt: '2026-03-03T10:00:00.000Z'
-updatedAt: '2026-03-03T10:00:00.000Z'
+createdAt: '2026-03-10T10:00:00.000Z'
+updatedAt: '2026-03-10T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-or-editing-organizational-units
@@ -20,13 +20,13 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 * [Adicionar organizational unit filha (subordinada)](#adicionar-organizational-unit-filha-subordinada)
 * [Remover organizational unit](#remover-organizational-unit)
 
-> ⚠️ Para configurar organizational units, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Organizational Unit Admin`, `Super Buyer Admin`, ou ter o recurso `ManageOrganizationHierarchy`.
+> ⚠️ Para configurar organizational units, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ser `Organizational Unit Admin`, `Super Buyer Admin`, ou ter o recurso `ManageOrganizationHierarchy`.
 
 ## Adicionar organizational unit
 
 1. Na página inicial da Organization Account, na seção **Organization**, clique em `Organizational Units`.
 
-    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
+    ![organization_units_image_initial_org_account_page_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. Na tela **Organizational Units**, clique no ícone `+`.
 3. Verifique no campo **Parent** se está correta a identificação da organizational unit à qual a nova unidade estará subordinada, ou seja, da qual será filha. Este campo não permite edição.
@@ -51,7 +51,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
     * Username
 3. Selecione os perfis de acesso que deseja atribuir ao usuário.
 
-    > ℹ️ Para mais informações sobre perfis de acesso no **B2B Buyer Portal**, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+    > ℹ️ Para mais informações sobre perfis de acesso no **B2B Buyer Portal**, veja o artigo [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 4. Clique em `Add`.
 
 ## Adicionar organizational unit filha (subordinada)

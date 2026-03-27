@@ -1,5 +1,5 @@
 ---
-title: 'Como utilizar o módulo Aplicativos'
+title: 'Como utilizar o módulo aplicativos'
 id: 6Nd01r7zysXn1tvmoq1XHY
 status: PUBLISHED
 createdAt: 2025-09-15T14:55:25.130Z

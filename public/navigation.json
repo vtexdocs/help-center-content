@@ -4,8 +4,8 @@
       "documentation": "announcements",
       "name": {
         "en": "Announcements",
-        "es": "Anuncios",
-        "pt": "Anúncios"
+        "es": "Comunicados",
+        "pt": "Comunicados"
       },
       "slugPrefix": "announcements",
       "categories": [
@@ -37,6 +37,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
+                    "es": "VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
+                    "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform",
+                    "es": "2026-03-27-vtex-agentic-cx-platform-nuevo-nombre-y-actualizaciones-en-la-plataforma-weni-by-vtex",
+                    "pt": "2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Amazon: Price suggestion",
@@ -194,13 +209,13 @@
                 {
                   "name": {
                     "en": "Granular permissions for Seller Register and Marketplace Network",
-                    "es": "Granular permissions for Seller Register and Marketplace Network",
-                    "pt": "Granular permissions for Seller Register and Marketplace Network"
+                    "es": "Permisos granulares para Seller Register y Marketplace Network",
+                    "pt": "Permissões granulares para Seller Register e Marketplace Network"
                   },
                   "slug": {
                     "en": "2025-12-23-granular-permissions-seller-marketplace-network",
-                    "es": "",
-                    "pt": ""
+                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
+                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -246,37 +261,6 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Diciembre",
-                "es": "Diciembre",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "diciembre",
-                "es": "2025-diciembre",
-                "pt": "2025-dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Permisos granulares para Seller Register y Marketplace Network",
-                    "pt": "Permissões granulares para Seller Register e Marketplace Network",
-                    "en": "Permisos granulares para Seller Register y Marketplace Network"
-                  },
-                  "slug": {
-                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
-                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -7685,8 +7669,8 @@
       "documentation": "faq",
       "name": {
         "en": "FAQ",
-        "es": "FAQ",
-        "pt": "FAQ"
+        "es": "Preguntas frecuentes",
+        "pt": "Perguntas frequentes"
       },
       "slugPrefix": "faq",
       "categories": [
@@ -9580,7 +9564,7 @@
       "documentation": "tracks",
       "name": {
         "en": "Start here",
-        "es": "Comece aqui",
+        "es": "Comienza aquí",
         "pt": "Comece aqui"
       },
       "slugPrefix": "docs/tracks",
@@ -11749,12 +11733,12 @@
                 {
                   "name": {
                     "en": "6. Define payment methods displayed on VTEX Sales App",
-                    "es": "6. Definir los métodos de pago mostrados en VTEX Sales App",
+                    "es": "6. Definir los medios de pago mostrados en VTEX Sales App",
                     "pt": "6. Definir meios de pagamento exibidos no VTEX Sales App"
                   },
                   "slug": {
                     "en": "define-payment-methods-displayed-on-vtex-sales-app",
-                    "es": "definir-los-metodos-de-pago-mostrados-en-vtex-sales-app",
+                    "es": "definir-los-medios-de-pago-mostrados-en-vtex-sales-app",
                     "pt": "definir-meios-de-pagamento-exibidos-no-vtex-sales-app"
                   },
                   "origin": "",
@@ -15379,95 +15363,35 @@
       "documentation": "troubleshooting",
       "name": {
         "en": "Troubleshooting",
-        "es": "Troubleshooting",
-        "pt": "Troubleshooting"
+        "es": "Resolución de problemas",
+        "pt": "Resolução de problemas"
       },
       "slugPrefix": "troubleshooting",
       "categories": [
         {
           "name": {
-            "en": "Integrations",
-            "es": "Integraciones",
-            "pt": "Integrações"
+            "en": "B2B",
+            "es": "B2B",
+            "pt": "B2B"
           },
           "slug": {
-            "en": "integrations",
-            "es": "integraciones",
-            "pt": "integrações"
+            "en": "b2b",
+            "es": "b2b",
+            "pt": "b2b"
           },
           "origin": "",
           "type": "category",
           "children": [
             {
               "name": {
-                "en": "Integration errors in Amazon orders",
-                "es": "Pedidos de Amazon muestran errores de integración",
-                "pt": "Pedidos com a Amazon apresentam erros de integração"
+                "en": "I can't fix the schema error in B2B apps",
+                "es": "Cómo corregir el error de esquema en aplicaciones B2B",
+                "pt": "Não consigo corrigir o erro de schema em aplicativos B2B"
               },
               "slug": {
-                "en": "integration-errors-in-amazon-orders",
-                "es": "pedidos-de-amazon-muestran-errores-de-integracion",
-                "pt": "pedidos-com-a-amazon-apresentam-erros-de-integracao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My order was closed with the wrong price",
-                "es": "Pedido finalizado con precio incorrecto",
-                "pt": "Meu pedido foi fechado com o preço errado"
-              },
-              "slug": {
-                "en": "my-order-was-closed-with-the-wrong-price",
-                "es": "pedido-finalizado-con-precio-incorrecto",
-                "pt": "meu-pedido-foi-fechado-com-o-preco-errado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My orders in Mercado Libre have errors",
-                "es": "Errores en mis pedidos de Mercado Libre",
-                "pt": "Meus pedidos do Mercado Livre apresentam erros"
-              },
-              "slug": {
-                "en": "my-orders-in-mercado-libre-have-errors",
-                "es": "errores-en-mis-pedidos-de-mercado-libre",
-                "pt": "meus-pedidos-do-mercado-livre-apresentam-erros"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why don't marketplace orders integrate with my store?",
-                "es": "¿Por qué los pedidos del marketplace no se integran con mi tienda?",
-                "pt": "Por que os pedidos do marketplace não integram com minha loja?"
-              },
-              "slug": {
-                "en": "why-dont-marketplace-orders-integrate-with-my-store",
-                "es": "por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda",
-                "pt": "por-que-os-pedidos-do-marketplace-nao-integram-com-minha-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why haven't my product prices been sent to the marketplace?",
-                "es": "¿Por qué no se enviaron los precios de los productos de mi tienda al marketplace?",
-                "pt": "Por que os preços dos produtos da minha loja não foram enviados ao marketplace?"
-              },
-              "slug": {
-                "en": "why-havent-my-product-prices-been-sent-to-the-marketplace",
-                "es": "por-que-no-se-enviaron-los-precios-de-los-productos-de-mi-tienda-al",
-                "pt": "precos-dos-produtos-nao-foram-enviados-ao-marketplace"
+                "en": "i-cant-fix-the-schema-error-in-b2b-apps",
+                "es": "como-corregir-el-error-de-esquema-en-aplicaciones-b2b",
+                "pt": "nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b"
               },
               "origin": "",
               "type": "markdown",
@@ -15477,14 +15401,45 @@
         },
         {
           "name": {
-            "en": "Store operations",
-            "es": "Operaciones de la tienda",
-            "pt": "Operações da loja"
+            "en": "Checkout and financial",
+            "es": "Checkout y financiero",
+            "pt": "Checkout e financeiro"
           },
           "slug": {
-            "en": "store-operations",
-            "es": "operaciones-de-la-tienda",
-            "pt": "operações-da-loja"
+            "en": "checkout-and-financial",
+            "es": "checkout-y-financiero",
+            "pt": "checkout-e-financeiro"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "My store order was not created",
+                "es": "No se ha creado el pedido de mi tienda",
+                "pt": "O pedido da minha loja não foi criado"
+              },
+              "slug": {
+                "en": "my-store-order-was-not-created",
+                "es": "no-se-ha-creado-el-pedido-de-mi-tienda",
+                "pt": "o-pedido-da-minha-loja-nao-foi-criado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Data access and security",
+            "es": "Acceso a datos y seguridad",
+            "pt": "Acesso a dados e segurança"
+          },
+          "slug": {
+            "en": "data-access-and-security",
+            "es": "acceso-a-datos-y-seguridad",
+            "pt": "acesso-a-dados-e-segurança"
           },
           "origin": "",
           "type": "category",
@@ -15536,24 +15491,9 @@
             },
             {
               "name": {
-                "en": "Error when trying to import SKUs via spreadsheet in the VTEX Admin",
-                "es": "Error al intentar importar SKUs vía plantilla en el Admin VTEX",
-                "pt": "Erro ao tentar importar SKUs por planilha no Admin VTEX"
-              },
-              "slug": {
-                "en": "error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin",
-                "es": "error-al-intentar-importar-skus-via-plantilla-en-el-admin-vtex",
-                "pt": "erro-ao-tentar-importar-skus-por-planilha-no-admin-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "How to remove the error message \"Request headers must only contain ASCII characters\"",
                 "es": "Cómo remover el mensaje de error \"Request headers must contain only ASCII characters\"",
-                "pt": "Como remover a mensagem de erro \"Request headers must contain only ASCII characters\""
+                "pt": "Como remover a mensagem de erro \"Request headers must contain only ASCII characters"
               },
               "slug": {
                 "en": "removing-error-message-request-headers-must-only-contain-ascii",
@@ -15566,14 +15506,226 @@
             },
             {
               "name": {
-                "en": "I can't fix the schema error in B2B apps",
-                "es": "Cómo corregir el error de esquema en aplicaciones B2B",
-                "pt": "Não consigo corrigir o erro de schema em aplicativos B2B"
+                "en": "I can't receive emails from VTEX",
+                "es": "¿Por qué no recibo emails de VTEX?",
+                "pt": "Não consigo receber emails da VTEX"
               },
               "slug": {
-                "en": "i-cant-fix-the-schema-error-in-b2b-apps",
-                "es": "como-corregir-el-error-de-esquema-en-aplicaciones-b2b",
-                "pt": "nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b"
+                "en": "i-cant-receive-emails-from-vtex",
+                "es": "por-que-no-recibo-emails-de-vtex",
+                "pt": "nao-consigo-receber-emails-da-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "I can't view a page in the Admin",
+                "es": "No puedo acceder a una página del Admin",
+                "pt": "Não consigo visualizar uma página no Admin"
+              },
+              "slug": {
+                "en": "i-cant-view-a-page-in-the-admin",
+                "es": "no-puedo-acceder-a-una-pagina-del-admin",
+                "pt": "nao-consigo-visualizar-uma-pagina-no-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "I haven't received the email with the report exported from Master Data v1",
+                "es": "No recibí el email con el informe exportado de Master Data v1",
+                "pt": "Não recebi o email com o relatório exportado do Master Data v1"
+              },
+              "slug": {
+                "en": "i-havent-received-the-email-with-the-report-exported-from-master-data-v1",
+                "es": "no-recibi-el-email-con-el-informe-exportado-de-master-data-v1",
+                "pt": "nao-recebi-o-email-com-o-relatorio-exportado-do-master-data-v1"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My store’s Site Editor is not working",
+                "es": "Problemas con Site Editor en mi tienda",
+                "pt": "O Site Editor da minha loja não está funcionando"
+              },
+              "slug": {
+                "en": "my-stores-site-editor-is-not-working",
+                "es": "problemas-con-site-editor-en-mi-tienda",
+                "pt": "o-site-editor-da-minha-loja-nao-esta-funcionando"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Trigger in Master Data v2 is not working",
+                "es": "No funciona el trigger en Master Data v2",
+                "pt": "Trigger no Master Data v2 não funciona"
+              },
+              "slug": {
+                "en": "trigger-in-master-data-v2-is-not-working",
+                "es": "no-funciona-el-trigger-en-master-data-v2",
+                "pt": "trigger-no-master-data-v2-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Integrations and channels",
+            "es": "Integraciones y canales",
+            "pt": "Integrações e canais"
+          },
+          "slug": {
+            "en": "integrations-and-channels",
+            "es": "integraciones-y-canales",
+            "pt": "integrações-e-canais"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Integration errors in Amazon orders",
+                "es": "Pedidos de Amazon muestran errores de integración",
+                "pt": "Pedidos com a Amazon apresentam erros de integração"
+              },
+              "slug": {
+                "en": "integration-errors-in-amazon-orders",
+                "es": "pedidos-de-amazon-muestran-errores-de-integracion",
+                "pt": "pedidos-com-a-amazon-apresentam-erros-de-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My ad is not displayed on Mercado Livre",
+                "es": "Mi anuncio no aparece en Mercado Libre",
+                "pt": "Meu anúncio não é exibido no Mercado Livre"
+              },
+              "slug": {
+                "en": "my-ad-is-not-displayed-on-mercado-livre",
+                "es": "mi-anuncio-no-aparece-en-mercado-libre",
+                "pt": "meu-anuncio-nao-e-exibido-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My order was closed with the wrong price",
+                "es": "Pedido finalizado con precio incorrecto",
+                "pt": "Meu pedido foi fechado com o preço errado"
+              },
+              "slug": {
+                "en": "my-order-was-closed-with-the-wrong-price",
+                "es": "pedido-finalizado-con-precio-incorrecto",
+                "pt": "meu-pedido-foi-fechado-com-o-preco-errado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My orders in Mercado Libre have errors",
+                "es": "Errores en mis pedidos de Mercado Libre",
+                "pt": "Meus pedidos do Mercado Livre apresentam erros"
+              },
+              "slug": {
+                "en": "my-orders-in-mercado-libre-have-errors",
+                "es": "errores-en-mis-pedidos-de-mercado-libre",
+                "pt": "meus-pedidos-do-mercado-livre-apresentam-erros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion not applied to the marketplace",
+                "es": "Promoción no aplicada en Marketplace",
+                "pt": "Promoção não aplicada ao Marketplace"
+              },
+              "slug": {
+                "en": "promotion-not-applied-to-the-marketplace",
+                "es": "promocion-no-aplicada-en-marketplace",
+                "pt": "promocao-nao-aplicada-ao-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why don't marketplace orders integrate with my store?",
+                "es": "¿Por qué los pedidos del marketplace no se integran con mi tienda?",
+                "pt": "Por que os pedidos do marketplace não integram com minha loja?"
+              },
+              "slug": {
+                "en": "why-dont-marketplace-orders-integrate-with-my-store",
+                "es": "por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda",
+                "pt": "por-que-os-pedidos-do-marketplace-nao-integram-com-minha-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why haven't my product prices been sent to the marketplace?",
+                "es": "¿Por qué no se enviaron los precios de los productos de mi tienda al marketplace?",
+                "pt": "Por que os preços dos produtos da minha loja não foram enviados ao marketplace?"
+              },
+              "slug": {
+                "en": "why-havent-my-product-prices-been-sent-to-the-marketplace",
+                "es": "por-que-no-se-enviaron-los-precios-de-los-productos-de-mi-tienda-al",
+                "pt": "precos-dos-produtos-nao-foram-enviados-ao-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Merchandising and search",
+            "es": "Merchandising y búsqueda",
+            "pt": "Merchandising e busca"
+          },
+          "slug": {
+            "en": "merchandising-and-search",
+            "es": "merchandising-y-búsqueda",
+            "pt": "merchandising-e-busca"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Error when trying to import SKUs via spreadsheet in the VTEX Admin",
+                "es": "Error al intentar importar SKUs vía plantilla en el Admin VTEX",
+                "pt": "Erro ao tentar importar SKUs por planilha no Admin VTEX"
+              },
+              "slug": {
+                "en": "error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin",
+                "es": "error-al-intentar-importar-skus-via-plantilla-en-el-admin-vtex",
+                "pt": "erro-ao-tentar-importar-skus-por-planilha-no-admin-vtex"
               },
               "origin": "",
               "type": "markdown",
@@ -15611,21 +15763,6 @@
             },
             {
               "name": {
-                "en": "I can't receive emails from VTEX",
-                "es": "¿Por qué no recibo emails de VTEX?",
-                "pt": "Não consigo receber emails da VTEX"
-              },
-              "slug": {
-                "en": "i-cant-receive-emails-from-vtex",
-                "es": "por-que-no-recibo-emails-de-vtex",
-                "pt": "nao-consigo-receber-emails-da-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "I can't update the EAN of my SKUs via API",
                 "es": "No logro actualizar el EAN de mis SKU vía API",
                 "pt": "Não consigo atualizar o EAN dos meus SKUs por API"
@@ -15634,21 +15771,6 @@
                 "en": "i-cant-update-the-ean-of-my-skus-via-api",
                 "es": "no-logro-actualizar-el-ean-de-mis-sku-via-api",
                 "pt": "nao-consigo-atualizar-o-ean-dos-meus-skus-por-api"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "I can't view a page in the Admin",
-                "es": "No puedo acceder a una página del Admin",
-                "pt": "Não consigo visualizar uma página no Admin"
-              },
-              "slug": {
-                "en": "i-cant-view-a-page-in-the-admin",
-                "es": "no-puedo-acceder-a-una-pagina-del-admin",
-                "pt": "nao-consigo-visualizar-uma-pagina-no-admin"
               },
               "origin": "",
               "type": "markdown",
@@ -15671,14 +15793,45 @@
             },
             {
               "name": {
-                "en": "I haven't received the email with the report exported from Master Data v1",
-                "es": "No recibí el email con el informe exportado de Master Data v1",
-                "pt": "Não recebi o email com o relatório exportado do Master Data v1"
+                "en": "The promotion wasn't applied to the customer cluster",
+                "es": "La promoción no se aplicó al clúster de clientes",
+                "pt": "Promoção não foi aplicada ao cluster de clientes"
               },
               "slug": {
-                "en": "i-havent-received-the-email-with-the-report-exported-from-master-data-v1",
-                "es": "no-recibi-el-email-con-el-informe-exportado-de-master-data-v1",
-                "pt": "nao-recebi-o-email-com-o-relatorio-exportado-do-master-data-v1"
+                "en": "the-promotion-wasnt-applied-to-the-customer-cluster",
+                "es": "la-promocion-no-se-aplico-al-cluster-de-clientes",
+                "pt": "promocao-nao-foi-aplicada-ao-cluster-de-clientes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Orders and fulfillment",
+            "es": "Pedidos y fulfillment",
+            "pt": "Pedidos e fulfillment"
+          },
+          "slug": {
+            "en": "orders-and-fulfillment",
+            "es": "pedidos-y-fulfillment",
+            "pt": "pedidos-e-fulfillment"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "​'​My store's order still has the status \"Verifying invoice\"'",
+                "es": "El pedido de mi tienda presenta el status \"Verificando factura\"",
+                "pt": "O pedido da minha loja está parado no status \"Verificando nota fiscal\""
+              },
+              "slug": {
+                "en": "my-stores-order-still-has-the-status-verifying-invoice",
+                "es": "el-pedido-de-mi-tienda-presenta-el-status-verificando-factura",
+                "pt": "o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal"
               },
               "origin": "",
               "type": "markdown",
@@ -15701,14 +15854,14 @@
             },
             {
               "name": {
-                "en": "My ad is not displayed on Mercado Livre",
-                "es": "Mi anuncio no aparece en Mercado Libre",
-                "pt": "Meu anúncio não é exibido no Mercado Livre"
+                "en": "My carrier isn't showing at checkout",
+                "es": "Mi transportadora no se muestra en el checkout",
+                "pt": "Minha transportadora não aparece no Checkout"
               },
               "slug": {
-                "en": "my-ad-is-not-displayed-on-mercado-livre",
-                "es": "mi-anuncio-no-aparece-en-mercado-libre",
-                "pt": "meu-anuncio-nao-e-exibido-no-mercado-livre"
+                "en": "my-carrier-isnt-showing-at-checkout",
+                "es": "mi-transportadora-no-se-muestra-en-el-checkout",
+                "pt": "minha-transportadora-nao-aparece-no-checkout"
               },
               "origin": "",
               "type": "markdown",
@@ -15746,51 +15899,6 @@
             },
             {
               "name": {
-                "en": "My store order was not created",
-                "es": "No se ha creado el pedido de mi tienda",
-                "pt": "O pedido da minha loja não foi criado"
-              },
-              "slug": {
-                "en": "my-store-order-was-not-created",
-                "es": "no-se-ha-creado-el-pedido-de-mi-tienda",
-                "pt": "o-pedido-da-minha-loja-nao-foi-criado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "​​My store's order still has the status \"Verifying invoice\"",
-                "es": "El pedido de mi tienda presenta el status \"Verificando factura\"",
-                "pt": "O pedido da minha loja está parado no status \"Verificando nota fiscal\""
-              },
-              "slug": {
-                "en": "my-stores-order-still-has-the-status-verifying-invoice",
-                "es": "el-pedido-de-mi-tienda-presenta-el-status-verificando-factura",
-                "pt": "o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My store’s Site Editor is not working",
-                "es": "Problemas con Site Editor en mi tienda",
-                "pt": "O Site Editor da minha loja não está funcionando"
-              },
-              "slug": {
-                "en": "my-stores-site-editor-is-not-working",
-                "es": "problemas-con-site-editor-en-mi-tienda",
-                "pt": "o-site-editor-da-minha-loja-nao-esta-funcionando"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Product remains available in stock after the order has been invoiced",
                 "es": "El producto continúa reservado tras la facturación del pedido",
                 "pt": "Produto continua reservado em estoque após faturamento do pedido"
@@ -15799,21 +15907,6 @@
                 "en": "product-remains-available-in-stock-after-the-order-has-been-invoiced",
                 "es": "el-producto-continua-reservado-tras-la-facturacion-del-pedido",
                 "pt": "produto-continua-reservado-em-estoque-apos-faturamento-do-pedido"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Promotion not applied to the marketplace",
-                "es": "Promoción no aplicada en Marketplace",
-                "pt": "Promoção não aplicada ao Marketplace"
-              },
-              "slug": {
-                "en": "promotion-not-applied-to-the-marketplace",
-                "es": "promocion-no-aplicada-en-marketplace",
-                "pt": "promocao-nao-aplicada-ao-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -15863,36 +15956,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "The promotion wasn't applied to the customer cluster",
-                "es": "La promoción no se aplicó al clúster de clientes",
-                "pt": "Promoção não foi aplicada ao cluster de clientes"
-              },
-              "slug": {
-                "en": "the-promotion-wasnt-applied-to-the-customer-cluster",
-                "es": "la-promocion-no-se-aplico-al-cluster-de-clientes",
-                "pt": "promocao-nao-foi-aplicada-ao-cluster-de-clientes"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Trigger in Master Data v2 is not working",
-                "es": "No funciona el trigger en Master Data v2",
-                "pt": "Trigger no Master Data v2 não funciona"
-              },
-              "slug": {
-                "en": "trigger-in-master-data-v2-is-not-working",
-                "es": "no-funciona-el-trigger-en-master-data-v2",
-                "pt": "trigger-no-master-data-v2-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         }
@@ -15923,64 +15986,48 @@
           "children": [
             {
               "name": {
-                "en": "Admin - Overview",
-                "es": "Admin - Información general",
-                "pt": "Visão do geral do Admin"
+                "en": "Accessing the beta environment through the myvtex.com domain",
+                "es": "Accede al entorno beta a través del dominio myvtex.com",
+                "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
               },
               "slug": {
-                "en": "admin-overview-subcategory",
-                "es": "vision-general-del-admin-subcategoria",
-                "pt": "visão-do-geral-do-admin-subcategoria"
+                "en": "accessing-the-beta-environment",
+                "es": "acceder-al-ambiente-beta",
+                "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Accessing the beta environment through the myvtex.com domain",
-                    "es": "Accede al entorno beta a través del dominio myvtex.com",
-                    "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
-                  },
-                  "slug": {
-                    "en": "accessing-the-beta-environment",
-                    "es": "acceder-al-ambiente-beta",
-                    "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Compatibility with browsers in VTEX Admin",
-                    "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
-                    "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
-                  },
-                  "slug": {
-                    "en": "compatibility-with-browsers-in-the-admin-module",
-                    "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
-                    "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Marketplace - Overview",
-                    "es": "Marketplace - Información general",
-                    "pt": "Marketplace - Visão geral"
-                  },
-                  "slug": {
-                    "en": "marketplace-overview",
-                    "es": "vision-general-marketplace",
-                    "pt": "visao-geral-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Compatibility with browsers in VTEX Admin",
+                "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
+                "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
+              },
+              "slug": {
+                "en": "compatibility-with-browsers-in-the-admin-module",
+                "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
+                "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Marketplace - Overview",
+                "es": "Marketplace - Información general",
+                "pt": "Marketplace - Visão geral"
+              },
+              "slug": {
+                "en": "marketplace-overview",
+                "es": "vision-general-marketplace",
+                "pt": "visao-geral-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -16167,13 +16214,13 @@
                 {
                   "name": {
                     "en": "Changing the store domain",
-                    "es": "Cambiar el dominio de la tienda",
-                    "pt": "Alterar o domínio da loja"
+                    "es": "Changing the store domain",
+                    "pt": "Changing the store domain"
                   },
                   "slug": {
-                    "en": "change-the-store-domain",
-                    "es": "cambiar-el-dominio-de-la-tienda",
-                    "pt": "alterar-o-dominio-da-loja"
+                    "en": "changing-the-store-domain",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16355,6 +16402,37 @@
                     "en": "renewing-api-tokens",
                     "es": "renovar-token-de-api",
                     "pt": "renovar-token-de-api"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Cuentas",
+                "es": "Cuentas",
+                "pt": "Contas"
+              },
+              "slug": {
+                "en": "cuentas",
+                "es": "cuentas-subcategoria",
+                "pt": "contas-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Cambiar el dominio de la tienda",
+                    "pt": "Alterar o domínio da loja",
+                    "en": "Cambiar el dominio de la tienda"
+                  },
+                  "slug": {
+                    "es": "cambiar-el-dominio-de-la-tienda",
+                    "pt": "alterar-o-dominio-da-loja",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17099,6 +17177,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Accounting fields",
+                    "es": "Campos contables",
+                    "pt": "Campos contábeis"
+                  },
+                  "slug": {
+                    "en": "accounting-fields",
+                    "es": "campos-contables",
+                    "pt": "campos-contabeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
@@ -17159,14 +17252,14 @@
                 },
                 {
                   "name": {
-                    "en": "Custom checkout fields",
-                    "es": "Campos personalizables del checkout",
-                    "pt": "Campos customizáveis no checkout"
+                    "en": "Contracts Manager Agent",
+                    "es": "Agente de Gestión de Contratos",
+                    "pt": "Agente de Gerenciamento de Contratos"
                   },
                   "slug": {
-                    "en": "custom-checkout-fields",
-                    "es": "campos-personalizables-del-checkout",
-                    "pt": "campos-customizaveis-do-checkout"
+                    "en": "contracts-manager-agent",
+                    "es": "agente-de-gestion-de-contratos",
+                    "pt": "agente-de-gerenciamento-de-contratos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17186,6 +17279,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Scopes overview",
+                    "es": "Visión general de Scopes",
+                    "pt": "Visão geral de Scopes"
+                  },
+                  "slug": {
+                    "en": "scopes-overview",
+                    "es": "vision-general-de-scopes",
+                    "pt": "visao-geral-de-scopes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -17193,16 +17301,31 @@
               "name": {
                 "en": "Organization Account",
                 "es": "Organization Account",
-                "pt": "Organization Account"
+                "pt": "Conta da Organização"
               },
               "slug": {
                 "en": "organization-account-subcategory",
                 "es": "organization-account-subcategoria-es",
-                "pt": "organization-account-subcategoria-pt"
+                "pt": "conta-da-organizacao-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Adding or editing accounting fields",
+                    "es": "Agregar o editar campos contables",
+                    "pt": "Adicionar ou editar campos contábeis"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-accounting-fields",
+                    "es": "agregar-o-editar-campos-contables",
+                    "pt": "adicionar-ou-editar-campos-contabeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Adding or editing budgets",
@@ -17235,14 +17358,14 @@
                 },
                 {
                   "name": {
-                    "en": "Adding or editing custom checkout fields",
-                    "es": "Agregar o editar campos personalizables del checkout",
-                    "pt": "Adicionar ou editar campos customizáveis do checkout"
+                    "en": "Adding or editing Organizational Units",
+                    "es": "Agregar o editar Organizational Units",
+                    "pt": "Adicionar ou editar Organizational Units"
                   },
                   "slug": {
-                    "en": "adding-or-editing-custom-checkout-fields",
-                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
-                    "pt": "adicionar-ou-editar-campos-customizaveis"
+                    "en": "adding-or-editing-organizational-units",
+                    "es": "agregar-o-editar-organizational-units",
+                    "pt": "adicionar-ou-editar-organizational-units"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17265,12 +17388,12 @@
                 },
                 {
                   "name": {
-                    "pt": "Adicionar ou editar Organizational Units",
-                    "en": "Adicionar ou editar Organizational Units",
-                    "es": "Adicionar ou editar Organizational Units"
+                    "pt": "Conta da Organização",
+                    "en": "Conta da Organização",
+                    "es": "Conta da Organização"
                   },
                   "slug": {
-                    "pt": "adicionar-ou-editar-organizational-units",
+                    "pt": "conta-da-organizacao",
                     "en": "",
                     "es": ""
                   },
@@ -17280,14 +17403,29 @@
                 },
                 {
                   "name": {
-                    "en": "Organization Account",
-                    "es": "Organization Account",
-                    "pt": "Organization Account"
+                    "en": "Contract settings",
+                    "es": "Configuraciones del contrato",
+                    "pt": "Configurações do contrato"
+                  },
+                  "slug": {
+                    "en": "contract-settings",
+                    "es": "configuraciones-del-contrato",
+                    "pt": "configuracoes-do-contrato"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization account",
+                    "es": "Cuenta de la organización",
+                    "pt": "Organization account"
                   },
                   "slug": {
                     "en": "organization-account",
-                    "es": "organization-account-es",
-                    "pt": "organization-account-pt"
+                    "es": "cuenta-de-la-organizacion",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17813,66 +17951,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product and SKU images using a spreadsheet (Beta)",
-                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product specifications using a spreadsheet (Beta)",
-                    "es": "Importar y exportar especificaciones de productos mediante plantilla (Beta)",
-                    "pt": "Importar e exportar especificações de produtos via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting products and SKUs using a spreadsheet (Beta)",
-                    "es": "Importar y exportar productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importar e exportar produtos e SKUs via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting SKU specifications using a spreadsheet (Beta)",
-                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla (Beta)",
-                    "pt": "Importar e exportar especificações de SKUs via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -18008,6 +18086,21 @@
                     "en": "product-recommendations-beta",
                     "es": "recomendaciones-de-productos-beta",
                     "pt": "recomendacoes-de-produtos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Recommendations dashboard (beta)",
+                    "es": "Dashboard de recomendaciones (beta)",
+                    "pt": "Dashboard de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "recommendations-dashboard",
+                    "es": "dashboard-de-recomendaciones",
+                    "pt": "dashboard-de-recomendacoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18493,6 +18586,37 @@
                     "en": "order-to-delivery",
                     "es": "pedidos-de-entrega",
                     "pt": "pedidos-para-entrega"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "CMS BETA",
+                "es": "CMS BETA",
+                "pt": "CMS BETA"
+              },
+              "slug": {
+                "en": "cms-beta",
+                "es": "cms-beta",
+                "pt": "cms-beta"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview-beta",
+                    "es": "cms-informacion-general-beta",
+                    "pt": "cms-visao-geral-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19452,21 +19576,21 @@
               "slug": {
                 "en": "import-and-export-subcategory",
                 "es": "importacion-y-exportacion-subcategoria",
-                "pt": "importação-e-exportação-subcategoria"
+                "pt": "importacao-e-exportacao-subcategoria"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Exporting and importing product and SKU specifications",
-                    "es": "Exportar y importar especificaciones de producto y SKU",
-                    "pt": "Exportar e importar especificações de produto e de SKU"
+                    "en": "Importing and exporting product and SKU images using a spreadsheet",
+                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
                   },
                   "slug": {
-                    "en": "exporting-and-importing-product-and-sku-specifications",
-                    "es": "exportar-y-importar-especificaciones-de-producto-y-sku",
-                    "pt": "exportar-e-importar-especificacoes-de-produto-e-de-sku"
+                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
+                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19474,14 +19598,14 @@
                 },
                 {
                   "name": {
-                    "en": "Filling in fields in the product and SKU import spreadsheet",
-                    "es": "Rellenar campos de la planilla de importación de productos y SKUs",
-                    "pt": "Preencher campos da planilha de importação de produtos e SKUs"
+                    "en": "Importing and exporting product specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
+                    "pt": "Importar e exportar especificações de produtos via planilha"
                   },
                   "slug": {
-                    "en": "filling-in-fields-in-the-import-spreadsheet",
-                    "es": "rellenar-campos-de-la-planilla-de-importacion",
-                    "pt": "preencher-campos-da-planilha-de-importacao"
+                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19489,14 +19613,14 @@
                 },
                 {
                   "name": {
-                    "en": "How to export a product spreadsheet",
-                    "es": "Cómo exportar planilla de productos",
-                    "pt": "Como exportar planilha de produtos"
+                    "en": "Importing and exporting products and SKUs using a spreadsheet",
+                    "es": "Importar y exportar productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar produtos e SKUs via planilha"
                   },
                   "slug": {
-                    "en": "how-to-export-a-product-spreadsheet",
-                    "es": "como-exportar-planilla-de-productos",
-                    "pt": "como-exportar-planilha-de-produtos"
+                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
+                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19504,14 +19628,14 @@
                 },
                 {
                   "name": {
-                    "en": "Importing images from a spreadsheet",
-                    "es": "Importar imágenes por plantilla",
-                    "pt": "Importar imagens por planilha"
+                    "en": "Importing and exporting SKU specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
+                    "pt": "Importar e exportar especificações de SKUs via planilha"
                   },
                   "slug": {
-                    "en": "importing-images-from-a-spreadsheet",
-                    "es": "importando-imagenes-por-plantilla",
-                    "pt": "importando-imagens-por-planilha"
+                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21273,79 +21397,63 @@
           "children": [
             {
               "name": {
-                "en": "Dashboards in the VTEX Admin",
-                "es": "Dashboards en el Admin VTEX",
-                "pt": "Dashboards no Admin VTEX"
+                "en": "Dashboards - Overview",
+                "es": "Vista General Dashboards",
+                "pt": "Dashboards - Visão geral"
               },
               "slug": {
-                "en": "dashboards-in-the-vtex-admin-subcategory",
-                "es": "dashboards-en-el-admin-vtex-subcategoria",
-                "pt": "dashboards-no-admin-vtex-subcategoria"
+                "en": "dashboards-overview",
+                "es": "vista-general-dashboards",
+                "pt": "visao-geral-dashboards"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Dashboards - Overview",
-                    "es": "Vista General Dashboards",
-                    "pt": "Dashboards - Visão geral"
-                  },
-                  "slug": {
-                    "en": "dashboards-overview",
-                    "es": "vista-general-dashboards",
-                    "pt": "visao-geral-dashboards"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales Performance",
-                    "es": "Desempeño de Ventas",
-                    "pt": "Performance de Vendas"
-                  },
-                  "slug": {
-                    "en": "sales-performance",
-                    "es": "desempeno-de-ventas",
-                    "pt": "performance-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Store - Overview",
-                    "es": "Vista General de la Tienda",
-                    "pt": "Visão Geral da Loja"
-                  },
-                  "slug": {
-                    "en": "store-overview",
-                    "es": "vista-general-de-la-tienda",
-                    "pt": "visao-geral-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX dashboard guide for Black Week: FAQ",
-                    "es": "Guía de los dashboards VTEX para la Black Week: FAQ",
-                    "pt": "Guia dos dashboards VTEX para a Black Week: FAQ"
-                  },
-                  "slug": {
-                    "en": "vtex-dashboard-guide-for-black-week-faq",
-                    "es": "guia-de-los-dashboards-vtex-para-la-black-week-faq",
-                    "pt": "guia-dos-dashboards-vtex-para-a-black-week-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales Performance",
+                "es": "Desempeño de Ventas",
+                "pt": "Performance de Vendas"
+              },
+              "slug": {
+                "en": "sales-performance",
+                "es": "desempeno-de-ventas",
+                "pt": "performance-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Store - Overview",
+                "es": "Vista General de la Tienda",
+                "pt": "Visão Geral da Loja"
+              },
+              "slug": {
+                "en": "store-overview",
+                "es": "vista-general-de-la-tienda",
+                "pt": "visao-geral-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX dashboard guide for Black Week: FAQ",
+                "es": "Guía de los dashboards VTEX para la Black Week: FAQ",
+                "pt": "Guia dos dashboards VTEX para a Black Week: FAQ"
+              },
+              "slug": {
+                "en": "vtex-dashboard-guide-for-black-week-faq",
+                "es": "guia-de-los-dashboards-vtex-para-la-black-week-faq",
+                "pt": "guia-dos-dashboards-vtex-para-a-black-week-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -31691,244 +31799,228 @@
           "children": [
             {
               "name": {
-                "en": "Integration with monitoring tools",
-                "es": "Integración con herramientas de monitoreo",
-                "pt": "Integração com ferramentas de monitoramento"
+                "en": "Changing a Cookie",
+                "es": "Modificar un Cookie",
+                "pt": "Alterar um Cookie"
               },
               "slug": {
-                "en": "integration-with-monitoring-tools-subcategory",
-                "es": "integracion-con-herramientas-de-monitoreo-subcategoria",
-                "pt": "integração-com-ferramentas-de-monitoramento-subcategoria"
+                "en": "how-to-change-a-cookie",
+                "es": "como-modificar-un-cookie",
+                "pt": "como-alterar-um-cookie"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Changing a Cookie",
-                    "es": "Modificar un Cookie",
-                    "pt": "Alterar um Cookie"
-                  },
-                  "slug": {
-                    "en": "how-to-change-a-cookie",
-                    "es": "como-modificar-un-cookie",
-                    "pt": "como-alterar-um-cookie"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Checking the ownership of a VTEX store on Google Search Console",
-                    "es": "Verificar propiedad en el Google Search Console de tienda VTEX",
-                    "pt": "Verificar propriedade no Google Search Console para loja VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-check-the-ownership-of-vtex-store-on-google-search-console",
-                    "es": "como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex",
-                    "pt": "como-verificar-propriedade-no-google-search-console-de-loja-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring Google Analytics 4 in VTEX stores",
-                    "es": "Configurar Google Analytics 4 en una tienda VTEX",
-                    "pt": "Configurar Google Analytics 4 em loja VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-setup-google-analytics-in-vtex-store",
-                    "es": "como-configurar-el-google-analytics-en-tienda-vtex",
-                    "pt": "como-configurar-google-analytics-em-loja-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Confirming the ownership of your store on Google Search Console (Webmaster Tools)",
-                    "es": "Confirmar la propiedad de su tienda en Google Search Console (Webmaster Tools)",
-                    "pt": "Confirmar a propriedade da sua loja no Google Search Console (Webmaster Tools)"
-                  },
-                  "slug": {
-                    "en": "confirming-the-ownership-of-your-store-on-google-search-console-webmaster-tools",
-                    "es": "confirmar-la-propiedad-de-su-tienda",
-                    "pt": "confirmar-a-propriedade-da-sua-loja-no-google-webmaster-tools"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Finding Google-indexed URLs that are inactive or contain errors",
-                    "es": "Localizar URLs indexadas por Google que están inactivas o con errores",
-                    "pt": "Localizar URLs indexadas pelo Google que estão inativas ou com erros"
-                  },
-                  "slug": {
-                    "en": "how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors",
-                    "es": "como-localizar-urls-indexadas-por-google-que-estan-inactivas-o-con-errores",
-                    "pt": "como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Analytics: FAQ",
-                    "es": "Google Analytics: preguntas frecuentes",
-                    "pt": "Google Analytics: FAQ"
-                  },
-                  "slug": {
-                    "en": "google-analytics-faq",
-                    "es": "google-analytics-preguntas-frecuentes",
-                    "pt": "google-analytics-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Search Console Tracking - robots.txt",
-                    "es": "Rastreo Google Search Console - robots.txt",
-                    "pt": "Rastreamento Google Search Console - robots.txt"
-                  },
-                  "slug": {
-                    "en": "google-search-console-tracking-robots-txt",
-                    "es": "rastreo-google-search-console-robots-txt",
-                    "pt": "rastreamento-google-search-console-robots-txt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Search Console Tracking - Sitemap",
-                    "es": "Rastreo Google Search Console  - Sitemap",
-                    "pt": "Rastreamento Google Search Console - Sitemap"
-                  },
-                  "slug": {
-                    "en": "google-search-console-tracking-sitemap",
-                    "es": "rastreo-google-search-console-sitemap",
-                    "pt": "rastreamento-google-search-console-sitemap"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Search Console Tracking – Tracking errors",
-                    "es": "Rastreo Google Search Console - Errores de rastreo",
-                    "pt": "Rastreamento Google Search Console - Erros de rastreamento"
-                  },
-                  "slug": {
-                    "en": "google-search-console-tracking-tracking-errors",
-                    "es": "rastreo-google-search-console-errores-de-rastreo",
-                    "pt": "rastreamento-google-search-console-erros-de-rastreamento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up Google Adwords",
-                    "es": "Configurar Google Adwords",
-                    "pt": "Configurar Google Adwords"
-                  },
-                  "slug": {
-                    "en": "setting-up-google-adwords",
-                    "es": "etiqueta-de-remarketing-del-google-adwords",
-                    "pt": "configuracao-do-google-adwords"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up the sales funnel on Google Analytics",
-                    "es": "Configurar embudo de ventas en Google Analytics",
-                    "pt": "Configurar funil de vendas no Google Analytics"
-                  },
-                  "slug": {
-                    "en": "setting-up-the-sales-funnel-on-google-analytics",
-                    "es": "configuracion-funnel-de-ventas-google-analytics",
-                    "pt": "configurar-funil-de-vendas-no-google-analytics"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sharing your store access to Google Webmaster Tools",
-                    "es": "Compartir acceso al Google Webmaster Tools de su tienda",
-                    "pt": "Compartilhar acesso ao Google Webmaster Tools da sua loja"
-                  },
-                  "slug": {
-                    "en": "sharing-your-store-access-to-google-webmaster-tools",
-                    "es": "compartir-acceso-al-google-webmaster-tools-de-su-tienda",
-                    "pt": "compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Structured data through Google Search Console Data Markers",
-                    "es": "Datos estructurados a través del Marcador de Datos del Google Search Console",
-                    "pt": "Dados estruturados através do Marcador de Dados do Google Search Console"
-                  },
-                  "slug": {
-                    "en": "structured-data-through-google-search-console-data-markers",
-                    "es": "datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console",
-                    "pt": "dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Using Google Search Console",
-                    "es": "Cómo usar el Google Search Console",
-                    "pt": "Como usar o Google Search Console"
-                  },
-                  "slug": {
-                    "en": "about-google-search-console",
-                    "es": "como-usar-el-google-search-console",
-                    "pt": "informacoes-sobre-google-search-console"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Why don't Cookies support special characters?",
-                    "es": "¿Por qué las Cookies no soportan caracteres especiales?",
-                    "pt": "Por que os Cookies não suportam caracteres especiais"
-                  },
-                  "slug": {
-                    "en": "why-dont-cookies-support-special-characters",
-                    "es": "por-que-las-cookies-no-soportan-caracteres-especiales",
-                    "pt": "cookie-nao-suporta-caracteres-especiais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checking the ownership of a VTEX store on Google Search Console",
+                "es": "Verificar propiedad en el Google Search Console de tienda VTEX",
+                "pt": "Verificar propriedade no Google Search Console para loja VTEX"
+              },
+              "slug": {
+                "en": "how-to-check-the-ownership-of-vtex-store-on-google-search-console",
+                "es": "como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex",
+                "pt": "como-verificar-propriedade-no-google-search-console-de-loja-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Configuring Google Analytics 4 in VTEX stores",
+                "es": "Configurar Google Analytics 4 en una tienda VTEX",
+                "pt": "Configurar Google Analytics 4 em loja VTEX"
+              },
+              "slug": {
+                "en": "how-to-setup-google-analytics-in-vtex-store",
+                "es": "como-configurar-el-google-analytics-en-tienda-vtex",
+                "pt": "como-configurar-google-analytics-em-loja-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Confirming the ownership of your store on Google Search Console (Webmaster Tools)",
+                "es": "Confirmar la propiedad de su tienda en Google Search Console (Webmaster Tools)",
+                "pt": "Confirmar a propriedade da sua loja no Google Search Console (Webmaster Tools)"
+              },
+              "slug": {
+                "en": "confirming-the-ownership-of-your-store-on-google-search-console-webmaster-tools",
+                "es": "confirmar-la-propiedad-de-su-tienda",
+                "pt": "confirmar-a-propriedade-da-sua-loja-no-google-webmaster-tools"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Finding Google-indexed URLs that are inactive or contain errors",
+                "es": "Localizar URLs indexadas por Google que están inactivas o con errores",
+                "pt": "Localizar URLs indexadas pelo Google que estão inativas ou com erros"
+              },
+              "slug": {
+                "en": "how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors",
+                "es": "como-localizar-urls-indexadas-por-google-que-estan-inactivas-o-con-errores",
+                "pt": "como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Analytics: FAQ",
+                "es": "Google Analytics: preguntas frecuentes",
+                "pt": "Google Analytics: FAQ"
+              },
+              "slug": {
+                "en": "google-analytics-faq",
+                "es": "google-analytics-preguntas-frecuentes",
+                "pt": "google-analytics-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Search Console Tracking - robots.txt",
+                "es": "Rastreo Google Search Console - robots.txt",
+                "pt": "Rastreamento Google Search Console - robots.txt"
+              },
+              "slug": {
+                "en": "google-search-console-tracking-robots-txt",
+                "es": "rastreo-google-search-console-robots-txt",
+                "pt": "rastreamento-google-search-console-robots-txt"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Search Console Tracking - Sitemap",
+                "es": "Rastreo Google Search Console  - Sitemap",
+                "pt": "Rastreamento Google Search Console - Sitemap"
+              },
+              "slug": {
+                "en": "google-search-console-tracking-sitemap",
+                "es": "rastreo-google-search-console-sitemap",
+                "pt": "rastreamento-google-search-console-sitemap"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Search Console Tracking – Tracking errors",
+                "es": "Rastreo Google Search Console - Errores de rastreo",
+                "pt": "Rastreamento Google Search Console - Erros de rastreamento"
+              },
+              "slug": {
+                "en": "google-search-console-tracking-tracking-errors",
+                "es": "rastreo-google-search-console-errores-de-rastreo",
+                "pt": "rastreamento-google-search-console-erros-de-rastreamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Setting up Google Adwords",
+                "es": "Configurar Google Adwords",
+                "pt": "Configurar Google Adwords"
+              },
+              "slug": {
+                "en": "setting-up-google-adwords",
+                "es": "etiqueta-de-remarketing-del-google-adwords",
+                "pt": "configuracao-do-google-adwords"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Setting up the sales funnel on Google Analytics",
+                "es": "Configurar embudo de ventas en Google Analytics",
+                "pt": "Configurar funil de vendas no Google Analytics"
+              },
+              "slug": {
+                "en": "setting-up-the-sales-funnel-on-google-analytics",
+                "es": "configuracion-funnel-de-ventas-google-analytics",
+                "pt": "configurar-funil-de-vendas-no-google-analytics"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sharing your store access to Google Webmaster Tools",
+                "es": "Compartir acceso al Google Webmaster Tools de su tienda",
+                "pt": "Compartilhar acesso ao Google Webmaster Tools da sua loja"
+              },
+              "slug": {
+                "en": "sharing-your-store-access-to-google-webmaster-tools",
+                "es": "compartir-acceso-al-google-webmaster-tools-de-su-tienda",
+                "pt": "compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Structured data through Google Search Console Data Markers",
+                "es": "Datos estructurados a través del Marcador de Datos del Google Search Console",
+                "pt": "Dados estruturados através do Marcador de Dados do Google Search Console"
+              },
+              "slug": {
+                "en": "structured-data-through-google-search-console-data-markers",
+                "es": "datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console",
+                "pt": "dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Using Google Search Console",
+                "es": "Cómo usar el Google Search Console",
+                "pt": "Como usar o Google Search Console"
+              },
+              "slug": {
+                "en": "about-google-search-console",
+                "es": "como-usar-el-google-search-console",
+                "pt": "informacoes-sobre-google-search-console"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why don't Cookies support special characters?",
+                "es": "¿Por qué las Cookies no soportan caracteres especiales?",
+                "pt": "Por que os Cookies não suportam caracteres especiais"
+              },
+              "slug": {
+                "en": "why-dont-cookies-support-special-characters",
+                "es": "por-que-las-cookies-no-soportan-caracteres-especiales",
+                "pt": "cookie-nao-suporta-caracteres-especiais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -36471,37 +36563,6 @@
             },
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview-subcategory",
-                "es": "vision-general-storefront-subcategoria",
-                "pt": "visão-geral-storefront-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Storefront - Overview",
-                    "es": "Storefront - Información general",
-                    "pt": "Storefront - Visão geral"
-                  },
-                  "slug": {
-                    "en": "storefront-overview",
-                    "es": "vision-general-storefront",
-                    "pt": "visao-geral-storefront"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Styles",
                 "es": "Estilos",
                 "pt": "Estilos"
@@ -36564,184 +36625,168 @@
           "children": [
             {
               "name": {
-                "en": "Subscription Guides",
-                "es": "Guía de Suscripciones",
-                "pt": "Guias de Assinatura"
+                "en": "Creating a subscription plan",
+                "es": "Cómo crear un plan de suscripción",
+                "pt": "Como criar um plano de assinatura"
               },
               "slug": {
-                "en": "subscription-guides-subcategory",
-                "es": "guia-de-suscripciones-subcategoria",
-                "pt": "guias-de-assinatura-subcategoria"
+                "en": "creating-a-subscription-plan",
+                "es": "como-crear-un-plan-de-suscripcion",
+                "pt": "como-criar-um-plano-de-assinatura"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating a subscription plan",
-                    "es": "Cómo crear un plan de suscripción",
-                    "pt": "Como criar um plano de assinatura"
-                  },
-                  "slug": {
-                    "en": "creating-a-subscription-plan",
-                    "es": "como-crear-un-plan-de-suscripcion",
-                    "pt": "como-criar-um-plano-de-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How subscriptions work",
-                    "es": "Cómo funciona Suscripciones",
-                    "pt": "Como funciona a assinatura"
-                  },
-                  "slug": {
-                    "en": "how-subscriptions-work",
-                    "es": "como-funciona-suscripciones",
-                    "pt": "como-funciona-a-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to configure Subscriptions in your store",
-                    "es": "Cómo configurar Suscripciones en su tienda",
-                    "pt": "Como configurar Assinaturas na sua loja"
-                  },
-                  "slug": {
-                    "en": "how-to-configure-subscriptions",
-                    "es": "como-configurar-suscripciones",
-                    "pt": "como-configurar-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a subscription attachment via the Catalog module",
-                    "es": "Cómo crear un anexo de suscripción en el módulo Catálogo",
-                    "pt": "Como criar um anexo de assinatura pelo módulo Catálogo"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-subscription-attachment-via-the-catalog-module",
-                    "es": "como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo",
-                    "pt": "como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to manage Subscriptions",
-                    "es": "Cómo Gestionar Suscripciones",
-                    "pt": "Como gerenciar Assinaturas"
-                  },
-                  "slug": {
-                    "en": "how-to-manage-subscriptions",
-                    "es": "como-gestionar-suscripciones",
-                    "pt": "como-gerenciar-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Pickup points for subscription orders",
-                    "es": "Puntos de recogida para pedidos de suscripción",
-                    "pt": "Pontos de retirada para pedidos de assinatura"
-                  },
-                  "slug": {
-                    "en": "pickup-points-for-subscription-orders",
-                    "es": "puntos-de-recogida-para-pedidos-de-suscripcion",
-                    "pt": "pontos-de-retirada-para-pedidos-de-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Subscription plans",
-                    "es": "Planes de suscripción",
-                    "pt": "Planos de assinatura"
-                  },
-                  "slug": {
-                    "en": "subscription-plans",
-                    "es": "planes-de-suscripcion",
-                    "pt": "planos-de-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Subscriptions: FAQ",
-                    "es": "Suscripciones: FAQ",
-                    "pt": "Assinaturas: FAQ"
-                  },
-                  "slug": {
-                    "en": "subscriptions-faq",
-                    "es": "suscripciones-faq",
-                    "pt": "assinaturas-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Transactional emails for subscriptions orders",
-                    "es": "Correos electrónicos transaccionales para pedidos de suscripciones",
-                    "pt": "Emails transacionais para pedidos de assinaturas"
-                  },
-                  "slug": {
-                    "en": "transactional-emails-for-subscriptions-orders",
-                    "es": "correos-electronicos-transaccionales-para-pedidos-de-suscripciones",
-                    "pt": "emails-transacionais-para-pedidos-de-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Troubleshooting errors in subscription orders",
-                    "es": "Cómo solucionar errores en pedidos de suscripción",
-                    "pt": "Como solucionar erros em pedidos de assinaturas"
-                  },
-                  "slug": {
-                    "en": "troubleshooting-errors-in-subscription-orders",
-                    "es": "como-solucionar-errores-en-pedidos-de-suscripcion",
-                    "pt": "como-solucionar-erros-em-pedidos-de-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Understanding the subscription report",
-                    "es": "Descripción del informe de suscripciones",
-                    "pt": "Entendendo o relatório de assinaturas"
-                  },
-                  "slug": {
-                    "en": "understanding-the-subscription-report",
-                    "es": "descripcion-del-informe-de-suscripciones",
-                    "pt": "entendendo-o-relatorio-de-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How subscriptions work",
+                "es": "Cómo funciona Suscripciones",
+                "pt": "Como funciona a assinatura"
+              },
+              "slug": {
+                "en": "how-subscriptions-work",
+                "es": "como-funciona-suscripciones",
+                "pt": "como-funciona-a-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to configure Subscriptions in your store",
+                "es": "Cómo configurar Suscripciones en su tienda",
+                "pt": "Como configurar Assinaturas na sua loja"
+              },
+              "slug": {
+                "en": "how-to-configure-subscriptions",
+                "es": "como-configurar-suscripciones",
+                "pt": "como-configurar-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to create a subscription attachment via the Catalog module",
+                "es": "Cómo crear un anexo de suscripción en el módulo Catálogo",
+                "pt": "Como criar um anexo de assinatura pelo módulo Catálogo"
+              },
+              "slug": {
+                "en": "how-to-create-a-subscription-attachment-via-the-catalog-module",
+                "es": "como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo",
+                "pt": "como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to manage Subscriptions",
+                "es": "Cómo Gestionar Suscripciones",
+                "pt": "Como gerenciar Assinaturas"
+              },
+              "slug": {
+                "en": "how-to-manage-subscriptions",
+                "es": "como-gestionar-suscripciones",
+                "pt": "como-gerenciar-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pickup points for subscription orders",
+                "es": "Puntos de recogida para pedidos de suscripción",
+                "pt": "Pontos de retirada para pedidos de assinatura"
+              },
+              "slug": {
+                "en": "pickup-points-for-subscription-orders",
+                "es": "puntos-de-recogida-para-pedidos-de-suscripcion",
+                "pt": "pontos-de-retirada-para-pedidos-de-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Subscription plans",
+                "es": "Planes de suscripción",
+                "pt": "Planos de assinatura"
+              },
+              "slug": {
+                "en": "subscription-plans",
+                "es": "planes-de-suscripcion",
+                "pt": "planos-de-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Subscriptions: FAQ",
+                "es": "Suscripciones: FAQ",
+                "pt": "Assinaturas: FAQ"
+              },
+              "slug": {
+                "en": "subscriptions-faq",
+                "es": "suscripciones-faq",
+                "pt": "assinaturas-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactional emails for subscriptions orders",
+                "es": "Correos electrónicos transaccionales para pedidos de suscripciones",
+                "pt": "Emails transacionais para pedidos de assinaturas"
+              },
+              "slug": {
+                "en": "transactional-emails-for-subscriptions-orders",
+                "es": "correos-electronicos-transaccionales-para-pedidos-de-suscripciones",
+                "pt": "emails-transacionais-para-pedidos-de-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Troubleshooting errors in subscription orders",
+                "es": "Cómo solucionar errores en pedidos de suscripción",
+                "pt": "Como solucionar erros em pedidos de assinaturas"
+              },
+              "slug": {
+                "en": "troubleshooting-errors-in-subscription-orders",
+                "es": "como-solucionar-errores-en-pedidos-de-suscripcion",
+                "pt": "como-solucionar-erros-em-pedidos-de-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Understanding the subscription report",
+                "es": "Descripción del informe de suscripciones",
+                "pt": "Entendendo o relatório de assinaturas"
+              },
+              "slug": {
+                "en": "understanding-the-subscription-report",
+                "es": "descripcion-del-informe-de-suscripciones",
+                "pt": "entendendo-o-relatorio-de-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -36978,731 +37023,152 @@
         },
         {
           "name": {
-            "en": "Unified Commerce",
-            "es": "Comercio Unificado",
-            "pt": "Comércio Unificado"
+            "en": "VTEX Sales App",
+            "es": "VTEX Sales App",
+            "pt": "VTEX Sales App"
           },
           "slug": {
-            "en": "unified-commerce-category",
-            "es": "comercio-unificado-categoria",
-            "pt": "comércio-unificado-categoria"
+            "en": "vtex-sales-app-subcategory",
+            "es": "vtex-sales-app-subcategoria",
+            "pt": "vtex-sales-app-subcategoria"
           },
           "origin": "",
           "type": "category",
           "children": [
             {
               "name": {
-                "en": "VTEX Sales App",
-                "es": "VTEX Sales App",
-                "pt": "VTEX Sales App"
+                "en": "Assembly Options in VTEX Sales App",
+                "es": "Assembly Options en VTEX Sales App",
+                "pt": "Assembly Options no VTEX Sales App"
               },
               "slug": {
-                "en": "vtex-sales-app-subcategory",
-                "es": "vtex-sales-app-subcategoria",
-                "pt": "vtex-sales-app-subcategoria"
+                "en": "assembly-options-in-vtex-sales-app",
+                "es": "assembly-options-en-vtex-sales-app",
+                "pt": "assembly-options-no-vtex-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Assembly Options in VTEX Sales App",
-                    "es": "Assembly Options en VTEX Sales App",
-                    "pt": "Assembly Options no VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "assembly-options-in-vtex-sales-app",
-                    "es": "assembly-options-en-vtex-sales-app",
-                    "pt": "assembly-options-no-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Enabling Local stock sale in VTEX Sales App",
-                    "es": "Habilitar Venta de inventario local en VTEX Sales App",
-                    "pt": "Habilitar Venda de estoque local do VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "enabling-local-stock-sale-in-vtex-sales-app",
-                    "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
-                    "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Issuing sales receipts in Sales App via thermal printer",
-                    "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
-                    "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
-                  },
-                  "slug": {
-                    "en": "issuing-sales-receipts-in-sales-app-via-thermal-printer",
-                    "es": "emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica",
-                    "pt": "emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions on the Sales App search page",
-                    "es": "Promociones en la página de búsqueda de Sales App",
-                    "pt": "Promoção na página de busca do Sales App"
-                  },
-                  "slug": {
-                    "en": "promotions-on-the-sales-app-search-page",
-                    "es": "promociones-en-la-pagina-de-busqueda-de-sales-app",
-                    "pt": "promocao-na-pagina-de-busca-do-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Registering product additional tax data (NCM and ICMS) on VTEX Sales App",
-                    "es": "Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App",
-                    "pt": "Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app",
-                    "es": "guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app",
-                    "pt": "guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales App card entry (without payment terminal)",
-                    "es": "Pago con tarjeta vía VTEX Sales App (sin terminal)",
-                    "pt": "Pagamento com cartão via Sales App (sem maquininha)"
-                  },
-                  "slug": {
-                    "en": "sales-app-card-entry-without-payment-terminal",
-                    "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
-                    "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App Offers",
-                    "es": "Anuncios de VTEX Sales App",
-                    "pt": "Anúncios do VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "ads-from-vtex-sales-app",
-                    "es": "anuncios-de-vtex-sales-app",
-                    "pt": "anuncios-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: FAQ",
-                    "es": "VTEX Sales App: preguntas frecuentes",
-                    "pt": "VTEX Sales App: FAQ"
-                  },
-                  "slug": {
-                    "en": "vtex-sales-app-faq",
-                    "es": "vtex-sales-app-preguntas-frecuentes",
-                    "pt": "vtex-sales-app-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: Sales Performance",
-                    "es": "VTEX Sales App: Desempeño de Ventas",
-                    "pt": "VTEX Sales App: Performance de vendas"
-                  },
-                  "slug": {
-                    "en": "sales-app-sales-performance",
-                    "es": "sales-app-rendimiento-de-ventas",
-                    "pt": "sales-app-performance-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "VTEX Tracking",
-            "es": "VTEX Tracking",
-            "pt": "VTEX Tracking"
-          },
-          "slug": {
-            "en": "vtex-tracking-category",
-            "es": "vtex-tracking-categoria",
-            "pt": "vtex-tracking-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Indicators",
-                "es": "Indicadores",
-                "pt": "Indicadores"
-              },
-              "slug": {
-                "en": "indicators-subcategory",
-                "es": "indicadores-subcategoria",
-                "pt": "indicadores-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Deadline Indicators",
-                    "es": "Indicadores de fecha límite",
-                    "pt": "Indicadores de Data Limite"
-                  },
-                  "slug": {
-                    "en": "deadline-indicators",
-                    "es": "indicadores-de-fecha-limite",
-                    "pt": "indicadores-de-data-limite"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Service Indicators",
-                    "es": "Indicadores de servicio",
-                    "pt": "Indicadores de Serviço"
-                  },
-                  "slug": {
-                    "en": "service-indicators",
-                    "es": "indicadores-de-servicio",
-                    "pt": "indicadores-de-servico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Support indicators",
-                    "es": "Indicadores de apoyo",
-                    "pt": "Indicadores de Suporte"
-                  },
-                  "slug": {
-                    "en": "support-indicators",
-                    "es": "indicadores-de-apoyo",
-                    "pt": "indicadores-de-suporte"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Mobile App",
-                "es": "Aplicación Móvil",
-                "pt": "Aplicativo Móvel"
+                "en": "Enabling Local stock sale in VTEX Sales App",
+                "es": "Habilitar Venta de inventario local en VTEX Sales App",
+                "pt": "Habilitar Venda de estoque local do VTEX Sales App"
               },
               "slug": {
-                "en": "mobile-app-subcategory",
-                "es": "aplicacion-movil-subcategoria",
-                "pt": "aplicativo-móvel-subcategoria"
+                "en": "enabling-local-stock-sale-in-vtex-sales-app",
+                "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
+                "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Using the app",
-                    "es": "Uso de la aplicación",
-                    "pt": "Uso do Aplicativo"
-                  },
-                  "slug": {
-                    "en": "tutorial-vtex-tracking-mobile-app",
-                    "es": "tutorial-aplicacion-movil-de-tracking-vtex",
-                    "pt": "tutorial-aplicativo-movel-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "VTEX Tracking - Overview",
-                "es": "VTEX Tracking - Información general",
-                "pt": "Visão geral VTEX Tracking"
+                "en": "Issuing sales receipts in Sales App via thermal printer",
+                "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
+                "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
               },
               "slug": {
-                "en": "overview-vtex-tracking-subcategory",
-                "es": "vision-general-vtex-tracking-subcategoria",
-                "pt": "visão-geral-vtex-tracking-subcategoria"
+                "en": "issuing-sales-receipts-in-sales-app-via-thermal-printer",
+                "es": "emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica",
+                "pt": "emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Integration with VTEX Tracking",
-                    "es": "Integración con VTEX Tracking",
-                    "pt": "Integração com o VTEX Tracking"
-                  },
-                  "slug": {
-                    "en": "integration-with-vtex-tracking",
-                    "es": "integracion-con-vtex-tracking",
-                    "pt": "integracao-com-o-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Tracking - Overview",
-                    "es": "VTEX Tracking - Información general",
-                    "pt": "VTEX Tracking - Visão geral"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-overview",
-                    "es": "vision-general-vtex-tracking",
-                    "pt": "visao-geral-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "VTEX Tracking Reports",
-                "es": "VTEX Tracking Informes",
-                "pt": "Relatórios VTEX Tracking"
+                "en": "Promotions on the Sales App search page",
+                "es": "Promociones en la página de búsqueda de Sales App",
+                "pt": "Promoção na página de busca do Sales App"
               },
               "slug": {
-                "en": "vtex-tracking-reports-subcategory",
-                "es": "vtex-tracking-informes-subcategoria",
-                "pt": "relatórios-vtex-tracking-subcategoria"
+                "en": "promotions-on-the-sales-app-search-page",
+                "es": "promociones-en-la-pagina-de-busqueda-de-sales-app",
+                "pt": "promocao-na-pagina-de-busca-do-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Indicators Report",
-                    "es": "Informe de indicadores",
-                    "pt": "Relatório de Indicadores"
-                  },
-                  "slug": {
-                    "en": "indicators-report",
-                    "es": "informe-de-indicadores",
-                    "pt": "relatorio-de-indicadores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Reports",
-                    "es": "Informes",
-                    "pt": "Relatórios"
-                  },
-                  "slug": {
-                    "en": "reports",
-                    "es": "informes",
-                    "pt": "relatorios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Scheduling Report",
-                    "es": "Informe de programaciones",
-                    "pt": "Relatório de Agendamentos"
-                  },
-                  "slug": {
-                    "en": "scheduling-report",
-                    "es": "informe-de-programaciones",
-                    "pt": "relatorio-de-agendamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Services Report",
-                    "es": "Informe de servicios",
-                    "pt": "Relatório de Serviços"
-                  },
-                  "slug": {
-                    "en": "services-report",
-                    "es": "informe-de-servicios",
-                    "pt": "relatorio-de-servicos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "SMS and Email Report",
-                    "es": "Informe de emails y SMS",
-                    "pt": "Relatório de SMS e Email"
-                  },
-                  "slug": {
-                    "en": "sms-and-email-report",
-                    "es": "informe-de-emails-y-sms",
-                    "pt": "relatorio-de-sms-e-email"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Routes",
-                "es": "Rutes",
-                "pt": "Rotas"
+                "en": "Registering product additional tax data (NCM and ICMS) on VTEX Sales App",
+                "es": "Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App",
+                "pt": "Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App"
               },
               "slug": {
-                "en": "routes-subcategory",
-                "es": "rutes-subcategoria",
-                "pt": "rotas-subcategoria"
+                "en": "guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app",
+                "es": "guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app",
+                "pt": "guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "New Route",
-                    "es": "Nueva Ruta",
-                    "pt": "Nova Rota"
-                  },
-                  "slug": {
-                    "en": "new-route",
-                    "es": "nueva-ruta",
-                    "pt": "nova-rota"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Routes",
-                    "es": "Rutas",
-                    "pt": "Rotas - Visão geral"
-                  },
-                  "slug": {
-                    "en": "routes",
-                    "es": "rutas",
-                    "pt": "visao-geral-de-rotas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Routing Monitoring",
-                    "es": "Monitoreo de Rutas",
-                    "pt": "Monitoramento de Rotas"
-                  },
-                  "slug": {
-                    "en": "routing-monitoring",
-                    "es": "monitoreo-de-rutas",
-                    "pt": "monitoramento-de-rotas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Services",
-                "es": "Servicios",
-                "pt": "Serviços"
+                "en": "Sales App card entry (without payment terminal)",
+                "es": "Pago con tarjeta vía VTEX Sales App (sin terminal)",
+                "pt": "Pagamento com cartão via Sales App (sem maquininha)"
               },
               "slug": {
-                "en": "services-subcategory",
-                "es": "servicios-subcategoria",
-                "pt": "serviços-subcategoria"
+                "en": "sales-app-card-entry-without-payment-terminal",
+                "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
+                "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Service Management",
-                    "es": "Gestión de servicios",
-                    "pt": "Gerenciamento de Serviços"
-                  },
-                  "slug": {
-                    "en": "service-management",
-                    "es": "gestion-de-servicios",
-                    "pt": "gerenciamento-de-servicos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Services Import",
-                    "es": "Importación de servicios",
-                    "pt": "Importação de Serviços"
-                  },
-                  "slug": {
-                    "en": "services-import",
-                    "es": "importacion-de-servicios",
-                    "pt": "importacao-de-servicos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Services Scheduling",
-                    "es": "Programación de servicios",
-                    "pt": "Agendamento de Serviços"
-                  },
-                  "slug": {
-                    "en": "services-scheduling",
-                    "es": "programacion-de-servicios",
-                    "pt": "agendamento-de-servicos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "VTEX Tracking - All articles",
-                "es": "VTEX Tracking - Todos los artículos",
-                "pt": "VTEX Tracking - Todos os artigos"
+                "en": "VTEX Sales App Offers",
+                "es": "Anuncios de VTEX Sales App",
+                "pt": "Anúncios do VTEX Sales App"
               },
               "slug": {
-                "en": "vtex-tracking---all-articles-subcategory",
-                "es": "vtex-tracking---todos-los-articulos-subcategoria",
-                "pt": "vtex-tracking---todos-os-artigos-subcategoria"
+                "en": "ads-from-vtex-sales-app",
+                "es": "anuncios-de-vtex-sales-app",
+                "pt": "anuncios-do-vtex-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Agencies (VTEX Tracking)",
-                    "es": "Agencias (VTEX Tracking)",
-                    "pt": "Agências (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-agencies",
-                    "es": "agencias-vtex-tracking",
-                    "pt": "agencias-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Branch (VTEX Tracking)",
-                    "es": "Filial (VTEX Tracking)",
-                    "pt": "Filial (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-branch",
-                    "es": "filial-vtex-tracking",
-                    "pt": "filial-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Carriers (VTEX Tracking)",
-                    "es": "Transportadoras (VTEX Tracking)",
-                    "pt": "Transportadoras (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-carriers",
-                    "es": "transportadoras-vtex-tracking",
-                    "pt": "transportadoras-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Chat Incidences (VTEX Tracking)",
-                    "es": "Reclamaciones de Chat (VTEX Tracking)",
-                    "pt": "Ocorrências de Chat (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-chat-incidences",
-                    "es": "reclamaciones-de-chat-vtex-tracking",
-                    "pt": "ocorrencias-de-chat-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Clients (VTEX Tracking)",
-                    "es": "Clientes (VTEX Tracking)",
-                    "pt": "Clientes (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "clientes-vtex-tracking",
-                    "es": "clientes-vtex-tracking",
-                    "pt": "clientes-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Holidays (VTEX Tracking)",
-                    "es": "Feriados (VTEX Tracking)",
-                    "pt": "Feriados (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-holidays",
-                    "es": "feriados-vtex-tracking",
-                    "pt": "feriados-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to install and setup the VTEX Tracking app",
-                    "es": "Como instalar y configurar la app de VTEX Tracking",
-                    "pt": "Como instalar e configurar a app VTEX Tracking"
-                  },
-                  "slug": {
-                    "en": "how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin",
-                    "es": "como-instalar-y-configurar-la-app-de-vtex-tracking-en-su-admin-vtex",
-                    "pt": "como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Partners (VTEX Tracking)",
-                    "es": "Partners (VTEX Tracking)",
-                    "pt": "Parceiros (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-partners",
-                    "es": "partners-vtex-tracking",
-                    "pt": "parceiros-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Portadores (VTEX Tracking)",
-                    "es": "Portadores (VTEX Tracking)",
-                    "pt": "Portadores (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "portadores-vtex-tracking",
-                    "es": "portadores-vtex-tracking",
-                    "pt": "portadores-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Status change (VTEX Tracking 0",
-                    "es": "Motivo de alteración de status (VTEX Tracking)",
-                    "pt": "Justificativa de status (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-status-change",
-                    "es": "motivo-de-alteracion-de-status-vtex-tracking",
-                    "pt": "justificativa-de-status-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Users (VTEX Tracking)",
-                    "es": "Usuários (VTEX Tracking)",
-                    "pt": "Usuários (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "usuarios-vtex-tracking",
-                    "es": "usuarios-vtex-tracking",
-                    "pt": "usuarios-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Vehicles (VTEX Tracking)",
-                    "es": "Vehículos (VTEX Tracking)",
-                    "pt": "Veículos (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "veiculos-vtex-tracking",
-                    "es": "veiculos-vtex-tracking",
-                    "pt": "veiculos-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App: FAQ",
+                "es": "VTEX Sales App: preguntas frecuentes",
+                "pt": "VTEX Sales App: FAQ"
+              },
+              "slug": {
+                "en": "vtex-sales-app-faq",
+                "es": "vtex-sales-app-preguntas-frecuentes",
+                "pt": "vtex-sales-app-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App: Sales Performance",
+                "es": "VTEX Sales App: Desempeño de Ventas",
+                "pt": "VTEX Sales App: Performance de vendas"
+              },
+              "slug": {
+                "en": "sales-app-sales-performance",
+                "es": "sales-app-rendimiento-de-ventas",
+                "pt": "sales-app-performance-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -37798,8 +37264,8 @@
                 {
                   "name": {
                     "en": "Attendance distribution rule",
-                    "es": "Distribución y Enrutamiento de las atenciones",
-                    "pt": "Distribuição e Roteamento dos atendimentos"
+                    "es": "Distribución y enrutamiento de las atenciones",
+                    "pt": "Regras de distribuição e roteamento dos atendimentos"
                   },
                   "slug": {
                     "en": "attendance-distribution-rule",
@@ -37857,9 +37323,9 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Human Service Dashboard",
-                    "es": "Weni Chats: Dashboard de Atención Humana",
-                    "pt": "Weni Chats: Dashboard de Atendimento humano"
+                    "en": "Weni Chats: Human service dashboard",
+                    "es": "Weni Chats: Dashboard de atención humana",
+                    "pt": "Weni Chats: Dashboard de atendimento humano"
                   },
                   "slug": {
                     "en": "weni-chats-human-service-dashboard",
@@ -37888,9 +37354,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Code Action First Steps",
-                    "es": "Primeros pasos Code Action",
-                    "pt": "Primeiros passos Code Action"
+                    "en": "Code action first steps",
+                    "es": "Primeros pasos - Code Action",
+                    "pt": "Primeiros passos - Code Action"
                   },
                   "slug": {
                     "en": "code-action-first-steps",
@@ -37934,9 +37400,9 @@
                 },
                 {
                   "name": {
-                    "en": "Adding Media to the message",
+                    "en": "Adding media to the message",
                     "es": "Agregar mídias a su mensaje",
-                    "pt": "Adicionando mídias ao cartão de Enviar Mensagem"
+                    "pt": "Adicionando mídias ao cartão de enviar mensagem"
                   },
                   "slug": {
                     "en": "adding-media-to-the-message",
@@ -37949,9 +37415,9 @@
                 },
                 {
                   "name": {
-                    "en": "Call Webhook: Making requests to external services",
-                    "es": "Call Webhook: Cómo hacer llamadas a sistemas externos",
-                    "pt": "Call Webhook: Como fazer chamadas para sistemas externos"
+                    "en": "Call webhook: Making requests to external services",
+                    "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
+                    "pt": "Call webhook: Como fazer chamadas para sistemas externos"
                   },
                   "slug": {
                     "en": "call-webhook-making-requests-to-external-services",
@@ -37964,9 +37430,9 @@
                 },
                 {
                   "name": {
-                    "en": "Chatbot Integrado a API Omie",
-                    "es": "Chatbot Integrado a API Omie",
-                    "pt": "Chatbot Integrado a API Omie"
+                    "en": "Chatbot integrado a API Omie",
+                    "es": "Chatbot integrado a API Omie",
+                    "pt": "Chatbot integrado a API Omie"
                   },
                   "slug": {
                     "en": "chatbot-integrado-a-api-omie",
@@ -37979,9 +37445,9 @@
                 },
                 {
                   "name": {
-                    "en": "Construtor de Vendas API-Integrated Chatbot",
-                    "es": "Chatbot Integrado a la API del Constructor de Ventas",
-                    "pt": "Chatbot Integrado a API do Construtor de Vendas"
+                    "en": "Construtor de Vendas API-integrated chatbot",
+                    "es": "Chatbot integrado a la API del Constructor de Ventas",
+                    "pt": "Chatbot integrado a API do Construtor de Vendas"
                   },
                   "slug": {
                     "en": "construtor-de-vendas-api-integrated-chatbot",
@@ -38009,7 +37475,7 @@
                 },
                 {
                   "name": {
-                    "en": "Expressions and Variables Introduction",
+                    "en": "Expressions and variables introduction",
                     "es": "Introducción a expresiones y variables",
                     "pt": "Introdução a expressões e variáveis"
                   },
@@ -38024,9 +37490,9 @@
                 },
                 {
                   "name": {
-                    "en": "Expressions Glossary",
+                    "en": "Expressions glossary",
                     "es": "Glosario de expresiones",
-                    "pt": "Glossário de Expressões"
+                    "pt": "Glossário de expressões"
                   },
                   "slug": {
                     "en": "expressions-glossary",
@@ -38054,7 +37520,7 @@
                 },
                 {
                   "name": {
-                    "en": "Flows Creation",
+                    "en": "Flows creation",
                     "es": "Creación de flujos",
                     "pt": "Criação de fluxos"
                   },
@@ -38114,9 +37580,9 @@
                 },
                 {
                   "name": {
-                    "en": "Sienge API-Integrated Chatbot",
-                    "es": "Chatbot Integrado a la API Sienge",
-                    "pt": "Chatbot Integrado a API Sienge"
+                    "en": "Sienge API-integrated chatbot",
+                    "es": "Chatbot integrado a la API Sienge",
+                    "pt": "Chatbot integrado a API Sienge"
                   },
                   "slug": {
                     "en": "sienge-api-integrated-chatbot",
@@ -38144,9 +37610,9 @@
                 },
                 {
                   "name": {
-                    "en": "Variables Glossary",
-                    "es": "Glosario de Variables",
-                    "pt": "Glossário de Variáveis"
+                    "en": "Variables glossary",
+                    "es": "Glosario de variables",
+                    "pt": "Glossário de variáveis"
                   },
                   "slug": {
                     "en": "variables-glossary",
@@ -38174,9 +37640,9 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp Message Card",
-                    "es": "Tarjeta de Mensaje de WhatsApp",
-                    "pt": "Cartão de Mensagem do WhatsApp"
+                    "en": "WhatsApp message card",
+                    "es": "Tarjeta de mensaje de WhatsApp",
+                    "pt": "Cartão de mensagem do WhatsApp"
                   },
                   "slug": {
                     "en": "whatsapp-message-card",
@@ -38189,9 +37655,9 @@
                 },
                 {
                   "name": {
-                    "en": "Zero Shot Learning",
-                    "es": "Aprendizaje Zero Shot",
-                    "pt": "Classificação e Resposta Inteligente"
+                    "en": "Zero shot learning",
+                    "es": "Aprendizaje zero shot",
+                    "pt": "Classificação e resposta inteligente"
                   },
                   "slug": {
                     "en": "zero-shot-learning",
@@ -38222,7 +37688,7 @@
                   "name": {
                     "en": "Insights",
                     "es": "Insights",
-                    "pt": "Insights: Dashboard de Atendimento humano"
+                    "pt": "Insights: Dashboard de atendimento humano"
                   },
                   "slug": {
                     "en": "insights",
@@ -38253,7 +37719,7 @@
                   "name": {
                     "en": "Active message dispatch on WhatsApp",
                     "es": "Envío activo de mensajes en WhatsApp",
-                    "pt": "Disparo Ativo no WhatsApp"
+                    "pt": "Disparo ativo no WhatsApp"
                   },
                   "slug": {
                     "en": "active-message-dispatch-on-whatsapp",
@@ -38266,7 +37732,7 @@
                 },
                 {
                   "name": {
-                    "en": "Adding a Facebook Channel",
+                    "en": "Adding a Facebook channel",
                     "es": "Cómo crear un canal en Facebook",
                     "pt": "Como criar um canal no Facebook"
                   },
@@ -38371,9 +37837,9 @@
                 },
                 {
                   "name": {
-                    "en": "Creating a Slack Channel",
-                    "es": "Creando un Canal de Slack",
-                    "pt": "Criando um Canal do Slack"
+                    "en": "Creating a Slack channel",
+                    "es": "Creando un canal de Slack",
+                    "pt": "Criando um canal do Slack"
                   },
                   "slug": {
                     "en": "creating-a-slack-channel",
@@ -38386,9 +37852,9 @@
                 },
                 {
                   "name": {
-                    "en": "External Service",
+                    "en": "External service",
                     "es": "Servicio externo",
-                    "pt": "Serviço Externo"
+                    "pt": "Serviço externo"
                   },
                   "slug": {
                     "en": "external-service",
@@ -38401,9 +37867,9 @@
                 },
                 {
                   "name": {
-                    "en": "Good practices: Opt-Out",
-                    "es": "Buenas prácticas: Opt-Out",
-                    "pt": "Boas práticas: Opt-Out"
+                    "en": "Good practices: Opt-out",
+                    "es": "Buenas prácticas: Opt-out",
+                    "pt": "Boas práticas: Opt-out"
                   },
                   "slug": {
                     "en": "good-practices-opt-out",
@@ -38462,8 +37928,8 @@
                 {
                   "name": {
                     "en": "How to create a channel with WhatsApp Demo",
-                    "es": "Cómo crear un canal en WhatsApp Demo",
-                    "pt": "Como criar um canal no WhatsApp Demo"
+                    "es": "Cómo crear un canal en WhatsApp demo",
+                    "pt": "Como criar um canal no WhatsApp demo"
                   },
                   "slug": {
                     "en": "how-to-create-a-channel-with-whatsapp-demo",
@@ -38506,8 +37972,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to Create an SMS Channel - For Developers (RapidPro)",
-                    "es": "Cómo crear un canal de SMS - Para desarrolladores (RapidPro)",
+                    "en": "How to create an SMS channel - for developers (RapidPro)",
+                    "es": "Cómo crear un canal de SMS - para desarrolladores (RapidPro)",
                     "pt": "Como criar um canal SMS - para desenvolvedores (RapidPro)"
                   },
                   "slug": {
@@ -38521,9 +37987,9 @@
                 },
                 {
                   "name": {
-                    "en": "How to Use the Applications Module",
-                    "es": "Como utilizar el módulo de Aplicaciones",
-                    "pt": "Como utilizar o módulo Aplicativos"
+                    "en": "How to use the applications module",
+                    "es": "Como utilizar el módulo de aplicaciones",
+                    "pt": "Como utilizar o módulo aplicativos"
                   },
                   "slug": {
                     "en": "how-to-use-the-applications-module",
@@ -38536,9 +38002,9 @@
                 },
                 {
                   "name": {
-                    "en": "Native ChatGPT Integration",
-                    "es": "Integración Nativa ChatGPT",
-                    "pt": "Integração Nativa ChatGPT"
+                    "en": "Native ChatGPT integration",
+                    "es": "Integración nativa ChatGPT",
+                    "pt": "Integração nativa ChatGPT"
                   },
                   "slug": {
                     "en": "native-chatgpt-integration",
@@ -38551,9 +38017,9 @@
                 },
                 {
                   "name": {
-                    "en": "Opt-In: Obtaining Consent for WhatsApp",
-                    "es": "Buenas prácticas: Opt-In",
-                    "pt": "Opt-In: Obter aceitação para o WhatsApp"
+                    "en": "Opt-in: Obtaining consent for WhatsApp",
+                    "es": "Buenas prácticas: Opt-in",
+                    "pt": "Opt-in: Obter aceitação para o WhatsApp"
                   },
                   "slug": {
                     "en": "opt-in-obtaining-consent-for-whatsapp",
@@ -38566,9 +38032,9 @@
                 },
                 {
                   "name": {
-                    "en": "Regaining Access to Business Manager",
-                    "es": "Recuperando el acceso al Administrador de Negocios",
-                    "pt": "Recuperando acesso ao Gerenciador de Negócios"
+                    "en": "Regaining access to Business Manager",
+                    "es": "Recuperando el acceso al Administrador de negocios",
+                    "pt": "Recuperando acesso ao Gerenciador de negócios"
                   },
                   "slug": {
                     "en": "regaining-access-to-business-manager",
@@ -38581,9 +38047,9 @@
                 },
                 {
                   "name": {
-                    "en": "Supported Media Sending - WhatsApp Cloud",
+                    "en": "Supported media sending - WhatsApp Cloud",
                     "es": "WhatsApp business API: Envio de mídias",
-                    "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
+                    "pt": "Envio de mídias suportadas - WhatsApp cloud"
                   },
                   "slug": {
                     "en": "supported-media-sending-whatsapp-cloud",
@@ -38596,9 +38062,9 @@
                 },
                 {
                   "name": {
-                    "en": "The Basics of Integrations",
-                    "es": "Conceptos básicos sobre Integraciones",
-                    "pt": "Noções básicas sobre Integrações"
+                    "en": "The basics of integrations",
+                    "es": "Conceptos básicos sobre integraciones",
+                    "pt": "Noções básicas sobre integrações"
                   },
                   "slug": {
                     "en": "the-basics-of-integrations",
@@ -38627,8 +38093,8 @@
                 {
                   "name": {
                     "en": "Web Chat Channel",
-                    "es": "Canal Weni Web chat",
-                    "pt": "Canal de Web Chat"
+                    "es": "Canal Weni web chat",
+                    "pt": "Canal de web chat"
                   },
                   "slug": {
                     "en": "web-chat-channel",
@@ -38641,9 +38107,9 @@
                 },
                 {
                   "name": {
-                    "en": "Webhook Configuration: Message Delivery Status",
-                    "es": "Configuración del Webhook: Estado del envío de mensajes",
-                    "pt": "Configuração do Webhook: Status de envio das mensagens"
+                    "en": "Webhook configuration: Message delivery status",
+                    "es": "Configuración del webhook: Estado del envío de mensajes",
+                    "pt": "Configuração do webhook: Status de envio das mensagens"
                   },
                   "slug": {
                     "en": "webhook-configuration-message-delivery-status",
@@ -38656,9 +38122,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp business API pricing",
-                    "es": "Precificación de WhatsApp Business API",
-                    "pt": "Precificação do Whatsapp Business API"
+                    "en": "WhatsApp business API pricing",
+                    "es": "Precificación de WhatsApp business API",
+                    "pt": "Precificação do WhatsApp business API"
                   },
                   "slug": {
                     "en": "whatsapp-business-api-pricing",
@@ -38671,9 +38137,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp Bussiness API: How to Verify My Business",
-                    "es": "Whatsapp Bussiness API: ¿Cómo verificar mi negocio?",
-                    "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
+                    "en": "WhatsApp Bussiness API: How to verify my business",
+                    "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
+                    "pt": "WhatsApp bussiness API: Como verificar o meu negócio"
                   },
                   "slug": {
                     "en": "whatsapp-bussiness-api-how-to-verify-my-business",
@@ -38686,9 +38152,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp Bussiness API: WhatsApp message triggering limitation",
-                    "es": "WhatsApp Business API: Limitación de Envios Masivos en WhatsApp",
-                    "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
+                    "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
+                    "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
+                    "pt": "WhatsApp bussiness API: Limitação de disparos em massa do WhatsApp"
                   },
                   "slug": {
                     "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
@@ -38701,9 +38167,9 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp Template Messages: Impediments and Configurations",
+                    "en": "WhatsApp template messages: Impediments and configurations",
                     "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
-                    "pt": "Whatsapp Template Messages: impedimentos e configurações"
+                    "pt": "WhatsApp template messages: Impedimentos e configurações"
                   },
                   "slug": {
                     "en": "whatsapp-template-messages-impediments-and-configurations",
@@ -38716,9 +38182,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp: How to create Template Messages",
+                    "en": "WhatsApp: How to create template messages",
                     "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "Whatsapp: Como criar Template Messages"
+                    "pt": "WhatsApp: Como criar template messages"
                   },
                   "slug": {
                     "en": "whatsapp-how-to-create-template-messages",
@@ -38731,9 +38197,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp: Weni Express Integration",
-                    "es": "WhatsApp: Integración Express Weni",
-                    "pt": "WhatsApp: Integração Expressa Weni"
+                    "en": "WhatsApp: Weni Express integration",
+                    "es": "WhatsApp: Integración express Weni",
+                    "pt": "WhatsApp: Integração expressa Weni"
                   },
                   "slug": {
                     "en": "whatsapp-weni-express-integration",
@@ -38746,9 +38212,9 @@
                 },
                 {
                   "name": {
-                    "en": "Zendesk - Human Support",
-                    "es": "Zendesk - Atención Humana",
-                    "pt": "Zendesk - Atendimento Humano"
+                    "en": "Zendesk - human support",
+                    "es": "Zendesk - atención humana",
+                    "pt": "Zendesk - atendimento humano"
                   },
                   "slug": {
                     "en": "zendesk-human-support",
@@ -38778,7 +38244,7 @@
                 {
                   "name": {
                     "en": "Adding a trigger",
-                    "es": "Cómo crear un Activador",
+                    "es": "Cómo crear un activador",
                     "pt": "Como criar um disparador"
                   },
                   "slug": {
@@ -38793,8 +38259,8 @@
                 {
                   "name": {
                     "en": "Campaign introduction",
-                    "es": "Introducción a Campañas",
-                    "pt": "Introdução a Campanhas"
+                    "es": "Introducción a campañas",
+                    "pt": "Introdução a campanhas"
                   },
                   "slug": {
                     "en": "campaign-introduction",
@@ -38807,7 +38273,7 @@
                 },
                 {
                   "name": {
-                    "en": "Contact Fields",
+                    "en": "Contact fields",
                     "es": "Campo de contactos",
                     "pt": "Campos de contato"
                   },
@@ -38823,8 +38289,8 @@
                 {
                   "name": {
                     "en": "Contact history",
-                    "es": "Historial de Contacto",
-                    "pt": "Histórico de Contato"
+                    "es": "Historial de contacto",
+                    "pt": "Histórico de contato"
                   },
                   "slug": {
                     "en": "contact-history",
@@ -38852,9 +38318,9 @@
                 },
                 {
                   "name": {
-                    "en": "Creating contact from an external Webhook",
-                    "es": "Creando contactos con Webhooks externos",
-                    "pt": "Criando contatos com Webhooks externos"
+                    "en": "Creating contact from an external webhook",
+                    "es": "Creando contactos con webhooks externos",
+                    "pt": "Criando contatos com webhooks externos"
                   },
                   "slug": {
                     "en": "creating-contact-from-an-external-webhook",
@@ -38897,7 +38363,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create a Campaign",
+                    "en": "How to create a campaign",
                     "es": "Cómo crear una campaña",
                     "pt": "Como criar uma campanha"
                   },
@@ -38912,9 +38378,9 @@
                 },
                 {
                   "name": {
-                    "en": "How to Download and Extract Archived Data",
+                    "en": "How to download and extract archived data",
                     "es": "Cómo descargar y extraer datos archivados",
-                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Weni Flows"
+                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Weni flows"
                   },
                   "slug": {
                     "en": "how-to-download-and-extract-archived-data",
@@ -38927,7 +38393,7 @@
                 },
                 {
                   "name": {
-                    "en": "Importing Contacts",
+                    "en": "Importing contacts",
                     "es": "Cómo importar contactos",
                     "pt": "Como importar contatos"
                   },
@@ -38942,7 +38408,7 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Contacts",
+                    "en": "Introduction to contacts",
                     "es": "Introducción a contactos",
                     "pt": "Introdução a contatos"
                   },
@@ -38957,7 +38423,7 @@
                 },
                 {
                   "name": {
-                    "en": "Select a Message to Schedule for Later",
+                    "en": "Select a message to schedule for later",
                     "es": "Agendando envio de mensajes",
                     "pt": "Agendando envio de mensagens"
                   },
@@ -38972,7 +38438,7 @@
                 },
                 {
                   "name": {
-                    "en": "Static Groups",
+                    "en": "Static groups",
                     "es": "Grupos estáticos",
                     "pt": "Grupos estáticos"
                   },
@@ -39002,9 +38468,9 @@
                 },
                 {
                   "name": {
-                    "en": "Triggers Types",
-                    "es": "Tipos de Activadores",
-                    "pt": "Tipos de Gatilho"
+                    "en": "Triggers types",
+                    "es": "Tipos de activadores",
+                    "pt": "Tipos de gatilho"
                   },
                   "slug": {
                     "en": "triggers-types",
@@ -39035,7 +38501,7 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criando Agentes Ativos"
+                    "pt": "Criando agentes ativos"
                   },
                   "slug": {
                     "en": "create-active-agents",
@@ -39048,9 +38514,9 @@
                 },
                 {
                   "name": {
-                    "en": "First Steps",
+                    "en": "First steps",
                     "es": "Primeros pasos",
-                    "pt": "Primeiros passos e configuração com o App"
+                    "pt": "Primeiros passos e configuração com o app"
                   },
                   "slug": {
                     "en": "first-steps",
@@ -39064,7 +38530,7 @@
                 {
                   "name": {
                     "en": "Installing Weni Agentic AI",
-                    "es": "Instalando a Weni Agentic AI",
+                    "es": "Instalando a Weni agentic ai",
                     "pt": "Instalando Weni Agentic AI"
                   },
                   "slug": {
@@ -39079,7 +38545,7 @@
                 {
                   "name": {
                     "en": "Introduction to Weni Agentic AI",
-                    "es": "Introducción a Weni Agentic AI",
+                    "es": "Introducción a Weni agentic ai",
                     "pt": "Introdução ao Weni Agentic AI"
                   },
                   "slug": {
@@ -39109,22 +38575,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "2-Factor Authentication",
-                    "es": "Autenticación de 2 Factores",
-                    "pt": "Autenticação de 2 Fatores"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": "autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Changing the Platform Language",
+                    "en": "Changing the platform language",
                     "es": "Cambiando el idioma de la plataforma",
                     "pt": "Alterando o idioma da plataforma"
                   },
@@ -39154,9 +38605,9 @@
                 },
                 {
                   "name": {
-                    "en": "First Steps - Register and login",
-                    "es": "Primeros pasos - Registro y login",
-                    "pt": "Primeiros passos - Cadastro e login"
+                    "en": "First steps - register and login",
+                    "es": "Primeros pasos - registro y login",
+                    "pt": "Primeiros passos - cadastro e login"
                   },
                   "slug": {
                     "en": "first-steps-register-and-login",
@@ -39169,9 +38620,9 @@
                 },
                 {
                   "name": {
-                    "en": "Getting Started - Create project",
-                    "es": "Primeros Pasos - Crear projeto",
-                    "pt": "Primeiros Passos - Criar projeto"
+                    "en": "Getting started - create project",
+                    "es": "Primeros pasos - crear projeto",
+                    "pt": "Primeiros passos - criar projeto"
                   },
                   "slug": {
                     "en": "create-project",
@@ -39199,7 +38650,7 @@
                 },
                 {
                   "name": {
-                    "en": "Platform Glossary",
+                    "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
                   },
@@ -39229,8 +38680,23 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Permission system",
-                    "es": "Sistema de Permisos Weni",
+                    "en": "Two-factor authentication",
+                    "es": "Autenticación de 2 factores",
+                    "pt": "Autenticação de dois fatores"
+                  },
+                  "slug": {
+                    "en": "2-factor-authentication",
+                    "es": "autenticacion-de-2-factores",
+                    "pt": "autenticacao-de-2-fatores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Weni permission system",
+                    "es": "Sistema de permisos Weni",
                     "pt": "Sistema de permissões Weni"
                   },
                   "slug": {
@@ -39260,9 +38726,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "General Project Settings",
-                    "es": "Configuraciones generales de Proyecto",
-                    "pt": "Configurações gerais do Projeto"
+                    "en": "General project settings",
+                    "es": "Configuraciones generales de proyecto",
+                    "pt": "Configurações gerais do projeto"
                   },
                   "slug": {
                     "en": "general-project-settings",
@@ -39275,9 +38741,9 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Human Service Management",
-                    "es": "Weni Chats: Gestión de la Atención Humana",
-                    "pt": "Weni Chats: Gestão do Atendimento Humano"
+                    "en": "Weni Chats: Human service management",
+                    "es": "Weni Chats: Gestión de la atención humana",
+                    "pt": "Weni Chats: Gestão do atendimento humano"
                   },
                   "slug": {
                     "en": "weni-chats-human-service-management",
@@ -39290,9 +38756,9 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Setting Up Human Attendance",
-                    "es": "Weni Chats: Configurando el Atención Humana",
-                    "pt": "Weni Chats: Configurando o Atendimento humano"
+                    "en": "Weni Chats: Setting up human attendance",
+                    "es": "Weni Chats: Configurando el atención humana",
+                    "pt": "Weni Chats: Configurando o atendimento humano"
                   },
                   "slug": {
                     "en": "weni-chats-setting-up-human-attendance",
@@ -39781,6 +39247,21 @@
                 "en": "back-button-is-not-rendered-in-my-organization",
                 "es": "el-boton-atras-no-aparece-en-mi-organizacion",
                 "pt": "o-botao-voltar-nao-e-renderizado-em-minha-organizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "“New user” action disabled in My Organization on public domain",
+                "es": "La acción «Nuevo usuario» está desactivada en «Mi organización» en el dominio público",
+                "pt": "A ação “Novo usuário” está desativada em “Minha organização” no domínio público"
+              },
+              "slug": {
+                "en": "new-user-action-disabled-in-my-organization-on-public-domain",
+                "es": "la-accion-nuevo-usuario-esta-desactivada-en-mi-organizacion-en-el-dominio-publico",
+                "pt": "a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico"
               },
               "origin": "",
               "type": "markdown",
@@ -40734,6 +40215,21 @@
             },
             {
               "name": {
+                "en": "API allows registering many EANs to the same SKU",
+                "es": "La API permite registrar muchos EAN en el mismo SKU.",
+                "pt": "A API permite registrar vários EANs para o mesmo SKU."
+              },
+              "slug": {
+                "en": "api-allows-registering-many-eans-to-the-same-sku",
+                "es": "la-api-permite-registrar-muchos-ean-en-el-mismo-sku",
+                "pt": "a-api-permite-registrar-varios-eans-para-o-mesmo-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
                 "es": "Las API \"Quién vio también vio\", \"Quién vio también compró\" y \"Quién compró también compró\" no siempre funcionan como se esperaba.",
                 "pt": "As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado"
@@ -41605,13 +41101,13 @@
             {
               "name": {
                 "en": "Collections named with special characters cannot be exported",
-                "es": "Las colecciones nombradas con caracteres especiales no se pueden exportar",
-                "pt": "As coleções nomeadas com caracteres especiais não podem ser exportadas"
+                "es": "Las colecciones cuyos nombres contengan caracteres especiales no se pueden exportar",
+                "pt": "Coleções com nomes que contenham caracteres especiais não podem ser exportadas"
               },
               "slug": {
                 "en": "collections-named-with-special-characters-cannot-be-exported",
-                "es": "las-colecciones-nombradas-con-caracteres-especiales-no-se-pueden-exportar",
-                "pt": "as-colecoes-nomeadas-com-caracteres-especiais-nao-podem-ser-exportadas"
+                "es": "las-colecciones-cuyos-nombres-contengan-caracteres-especiales-no-se-pueden-exportar",
+                "pt": "colecoes-com-nomes-que-contenham-caracteres-especiais-nao-podem-ser-exportadas"
               },
               "origin": "",
               "type": "markdown",
@@ -41702,6 +41198,21 @@
                 "en": "cost-price-rounding-logic-diverges-on-computed-prices-api",
                 "es": "la-logica-de-redondeo-de-precios-de-coste-diverge-en-la-api-de-precios-calculados",
                 "pt": "a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Coupon not working with message \"coupon has expired\"",
+                "es": "El cupón no funciona y aparece el mensaje «El cupón ha caducado»",
+                "pt": "O cupom não está funcionando e aparece a mensagem \"o cupom expirou\""
+              },
+              "slug": {
+                "en": "coupon-not-working-with-message-coupon-has-expired",
+                "es": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
+                "pt": "o-cupom-nao-esta-funcionando-e-aparece-a-mensagem-o-cupom-expirou"
               },
               "origin": "",
               "type": "markdown",
@@ -43382,6 +42893,21 @@
                 "en": "promotions-microrounding-divergence",
                 "es": "promociones-divergencia-microrredonda",
                 "pt": "promocoes-divergencia-de-microrredes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
+                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
+                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+              },
+              "slug": {
+                "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
+                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -45476,6 +45002,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI breaks after new address is added on Address Form in Chile B2B stores",
+                "es": "La interfaz de pago deja de funcionar tras añadir una nueva dirección en el formulario de direcciones de las tiendas B2B de Chile",
+                "pt": "A interface do checkout apresenta falhas após a adição de um novo endereço no formulário de endereço nas lojas B2B do Chile"
+              },
+              "slug": {
+                "en": "checkout-ui-breaks-after-new-address-is-added-on-address-form-in-chile-b2b-stores",
+                "es": "la-interfaz-de-pago-deja-de-funcionar-tras-anadir-una-nueva-direccion-en-el-formulario-de-direcciones-de-las-tiendas-b2b-de-chile",
+                "pt": "a-interface-do-checkout-apresenta-falhas-apos-a-adicao-de-um-novo-endereco-no-formulario-de-endereco-nas-lojas-b2b-do-chile"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -45484,6 +45025,21 @@
                 "en": "checkout-ui-changes-the-selected-address-when-more-than-1-address-available",
                 "es": "la-interfaz-de-usuario-de-la-caja-cambia-la-direccion-seleccionada-cuando-hay-mas-de-1-direccion-disponible",
                 "pt": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout UI does not display an error message when user with complete profile triggers gift unavailability",
+                "es": "La interfaz de pago no muestra un mensaje de error cuando un usuario con el perfil completo activa la opción de que el regalo no está disponible",
+                "pt": "A interface do checkout não exibe uma mensagem de erro quando um usuário com perfil completo aciona a indisponibilidade do presente"
+              },
+              "slug": {
+                "en": "checkout-ui-does-not-display-an-error-message-when-user-with-complete-profile-triggers-gift-unavailability",
+                "es": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
+                "pt": "a-interface-do-checkout-nao-exibe-uma-mensagem-de-erro-quando-um-usuario-com-perfil-completo-aciona-a-indisponibilidade-do-presente"
               },
               "origin": "",
               "type": "markdown",
@@ -49603,21 +49159,6 @@
             },
             {
               "name": {
-                "en": "Amazon integration is not cancelling orders in VTEX",
-                "es": "La integración de Amazon no cancela los pedidos en VTEX",
-                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX"
-              },
-              "slug": {
-                "en": "amazon-integration-is-not-cancelling-orders-in-vtex",
-                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
-                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon integration stock reservations for KITS",
                 "es": "Integración de Amazon reservas de stock para KITS",
                 "pt": "Reservas de estoque de integração da Amazon para KITS"
@@ -49693,14 +49234,14 @@
             },
             {
               "name": {
-                "en": "Amazon order does not integrate",
-                "es": "El pedido de Amazon no se integra",
-                "pt": "O pedido da Amazon não se integra"
+                "en": "Amazon Order cancellation flow",
+                "es": "Amazon Flujo de cancelación de pedidos",
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
-                "en": "amazon-order-does-not-integrate",
-                "es": "el-pedido-de-amazon-no-se-integra",
-                "pt": "o-pedido-da-amazon-nao-se-integra"
+                "en": "amazon-order-cancellation-flow",
+                "es": "amazon-flujo-de-cancelacion-de-pedidos",
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -49784,7 +49325,7 @@
             {
               "name": {
                 "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
-                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout)",
                 "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
               },
               "slug": {
@@ -50038,6 +49579,21 @@
             },
             {
               "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta Facebook Business Extension (FBE) is enabled",
+                "es": "FBE Las imágenes PLP/PDP a veces no se cargan cuando está activada la extensión Meta Facebook Business (FBE)",
+                "pt": "FBE As imagens do PLP/PDP não carregam ocasionalmente quando a Meta Facebook Business Extension (FBE) está ativada"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
+                "es": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
+                "pt": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "find-marketplaces ERROR 5XX Sorry, something went wrong on our side",
                 "es": "find-marketplaces ERROR 5XX Lo sentimos, algo ha ido mal por nuestra parte.",
                 "pt": "find-marketplaces ERRO 5XX Desculpe, algo deu errado do nosso lado"
@@ -50076,6 +49632,21 @@
                 "en": "integracao-de-pedido-amazon-quantidade-de-item-invalida",
                 "es": "integracion-de-pedidos-amazon-cantidad-de-articulos-no-valida",
                 "pt": "integracao-de-pedido-amazon-quantidade-de-item-invalida"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La integración de Amazon no cancela los pedidos en VTEX",
+                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX",
+                "en": "La integración de Amazon no cancela los pedidos en VTEX"
+              },
+              "slug": {
+                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
+                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -52187,6 +51758,21 @@
             },
             {
               "name": {
+                "en": "Category translation fields being overwritten on catalog graphql",
+                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
+                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
+              },
+              "slug": {
+                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
+                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
+                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Changing synonyms from unidirectional to bidirectional does not work",
                 "es": "El cambio de sinónimos de unidireccional a bidireccional no funciona",
                 "pt": "A alteração de sinônimos de unidirecional para bidirecional não funciona"
@@ -52360,6 +51946,21 @@
                 "en": "explained-search-interface-overlapping-long-texts-between-different-areas-or-products",
                 "es": "interfaz-de-busqueda-explicada-superposicion-de-textos-largos-entre-diferentes-areas-o-productos",
                 "pt": "interface-de-pesquisa-explicada-com-sobreposicao-de-textos-longos-entre-diferentes-areas-ou-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Explained Search returns results from main locale instead of selected secondary locale",
+                "es": "La búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
+                "pt": "A Pesquisa explicada retorna resultados da localidade principal em vez da localidade secundária selecionada."
+              },
+              "slug": {
+                "en": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
+                "es": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+                "pt": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
               },
               "origin": "",
               "type": "markdown",
@@ -53463,13 +53064,13 @@
             {
               "name": {
                 "en": "Specification Values not being translated in Intelligent Search side",
-                "es": "Los valores de especificación no se traducen en la búsqueda inteligente",
-                "pt": "Os valores de especificação não estão sendo traduzidos no lado da Pesquisa Inteligente"
+                "es": "Los valores de las especificaciones no se traducen en la sección de búsqueda inteligente",
+                "pt": "Os valores das especificações não estão sendo traduzidos na seção de Pesquisa Inteligente"
               },
               "slug": {
                 "en": "specification-values-not-being-translated-in-intelligent-search-side",
-                "es": "los-valores-de-especificacion-no-se-traducen-en-la-busqueda-inteligente",
-                "pt": "os-valores-de-especificacao-nao-estao-sendo-traduzidos-no-lado-da-pesquisa-inteligente"
+                "es": "los-valores-de-las-especificaciones-no-se-traducen-en-la-seccion-de-busqueda-inteligente",
+                "pt": "os-valores-das-especificacoes-nao-estao-sendo-traduzidos-na-secao-de-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -54267,6 +53868,21 @@
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
                 "es": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
                 "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping Simulator UI returns empty “Postal code range”, “Weight range” for KITs SKUs",
+                "es": "La interfaz de usuario de Shipping Simulator muestra valores vacíos en los campos «Rango de códigos postales» y «Rango de peso» para las referencias de los kits",
+                "pt": "A interface do Shipping Simulator exibe valores nulos nos campos “Intervalo de CEP” e “Intervalo de peso” para as SKUs dos kits"
+              },
+              "slug": {
+                "en": "shipping-simulator-ui-returns-empty-postal-code-range-weight-range-for-kits-skus",
+                "es": "la-interfaz-de-usuario-de-shipping-simulator-muestra-valores-vacios-en-los-campos-rango-de-codigos-postales-y-rango-de-peso-para-las-referencias-de-los-kits",
+                "pt": "a-interface-do-shipping-simulator-exibe-valores-nulos-nos-campos-intervalo-de-cep-e-intervalo-de-peso-para-as-skus-dos-kits"
               },
               "origin": "",
               "type": "markdown",
@@ -58419,6 +58035,21 @@
             },
             {
               "name": {
+                "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
+                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+              },
+              "slug": {
+                "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
+                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
                 "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
                 "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
@@ -60388,13 +60019,13 @@
             {
               "name": {
                 "en": "Giftcard not getting refund after transaction cancellation",
-                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
-                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
+                "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
+                "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
               },
               "slug": {
                 "en": "giftcard-not-getting-refund-after-transaction-cancellation",
-                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
-                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
+                "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -61707,6 +61338,21 @@
             },
             {
               "name": {
+                "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
+                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+              },
+              "slug": {
+                "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Risk analysis canceled earlier than expected due to fixed retry limit",
                 "es": "El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos",
                 "pt": "Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas"
@@ -62232,6 +61878,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in Approved while payment remains finished or settling",
+                "es": "La transacción se ha quedado bloqueada en «Aprobada», mientras que el pago sigue en estado «Finalizado» o «En liquidación»",
+                "pt": "A transação está parada na etapa \"Aprovada\", enquanto o pagamento continua como \"Concluído\" ou \"Em liquidação\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+                "pt": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -62270,6 +61931,21 @@
                 "en": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
                 "es": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
                 "pt": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
+                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
+                "pt": "Transação travada no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
+                "pt": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
@@ -62901,6 +62577,21 @@
                 "en": "sales-app-barcode-scanner-accepts-only-ean13",
                 "es": "el-escaner-de-codigo-de-barras-de-sales-app-solo-acepta-ean13",
                 "pt": "o-leitor-de-codigo-de-barras-do-aplicativo-de-vendas-aceita-apenas-ean13"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
+                "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+              },
+              "slug": {
+                "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
+                "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
               },
               "origin": "",
               "type": "markdown",
@@ -66599,21 +66290,6 @@
                 "en": "carousel-layout-issue-using-responsivevalues-in-sku-selector",
                 "es": "problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector",
                 "pt": "problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Category translation fields being overwritten on catalog graphql",
-                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
-                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
-              },
-              "slug": {
-                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
-                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
-                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
               },
               "origin": "",
               "type": "markdown",

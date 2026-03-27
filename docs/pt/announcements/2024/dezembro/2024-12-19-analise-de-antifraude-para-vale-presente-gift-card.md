@@ -13,6 +13,9 @@ locale: pt
 legacySlug: analise-de-antifraude-para-vale-presente-gift-card
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Habilite a análise de antifraude em transações com vale-presente em sua loja'
+tags:
+  - Melhoria
+  - Pagamentos
 ---
 
 Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX implementou a funcionalidade de análise de fraude em compras realizadas por meio de [vale-presente](/pt/docs/tutorials/gift-card) (gift card).

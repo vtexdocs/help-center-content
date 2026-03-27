@@ -1,5 +1,5 @@
 ---
-title: 'Criando um Canal do Slack'
+title: 'Criando um canal do Slack'
 id: 6At6Ne3yXdVJqEVR8mUzC8
 status: PUBLISHED
 createdAt: 2025-09-15T14:30:28.340Z
@@ -14,8 +14,6 @@ legacySlug: criando-um-canal-do-slack
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-### Iniciando
 
 1. Com sua conta e seu workspace já criado, acesse <https://api.slack.com/apps> e acione o botão para criar um novo app.
 
@@ -98,7 +96,7 @@ Após esses passos o bot poderá interagir nos Channels do workspace do Slack qu
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/criando-um-canal-do-slack_22.png)
 
-# **Como ativar quick replies/botões no Slack**
+## Como ativar quick replies/botões no Slack
 
 No Slack, você precisa habilitar o envio de quick replies. Vá em **Features > Interactivity \& Shortcuts**, e na aba **Interactivity**, adicione a URL que você copiou das configurações do canal no campo **Request URL**. Depois, salve as alterações.
 

@@ -12,6 +12,9 @@ locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'New mandatory permission to access the Shopee app in connector version 3.x.'
+tags:
+  - Breaking change
+  - Integrations
 ---
 
 >📘 Regional content available only for Brazil.

@@ -5,3 +5,4 @@ netlify.toml
 file-migration-plan.md
 .vscode/settings.json
 local_playground/
+temp/

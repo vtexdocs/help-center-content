@@ -1,5 +1,5 @@
 ---
-title: 'Attendance distribution rule'
+title: "Attendance distribution rule"
 id: 1vxyqKMo6a5JZZUjVuW6Oj
 status: PUBLISHED
 createdAt: 2025-09-12T16:43:27.944Z
@@ -14,8 +14,6 @@ legacySlug: attendance-distribution-rule
 locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
-
-### Support Distribution Rule
 
 The current rules for automatic support distribution are:
 

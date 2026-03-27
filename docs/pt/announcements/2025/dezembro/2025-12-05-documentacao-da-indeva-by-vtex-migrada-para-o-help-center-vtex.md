@@ -12,6 +12,9 @@ locale: pt
 legacySlug:
 announcementImageID:
 announcementSynopsisPT: "Documentação da Indeva by VTEX agora integrada ao Help Center, com navegação unificada e organizada."
+tags:
+  - Melhoria
+  - VTEX Sales App
 ---
 
 Para garantir uma experiência de documentação unificada e de fácil navegação, todas as documentações da **Indeva by VTEX** foram transferidas para o [Help Center VTEX](https://help.vtex.com/pt/docs/tutorials/indeva-by-vtex-categoria).
