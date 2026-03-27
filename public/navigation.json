@@ -32844,6 +32844,21 @@
                 },
                 {
                   "name": {
+                    "en": "Fraud Prevention (Beta)",
+                    "es": "Prevención de Fraude (Beta)",
+                    "pt": "Prevenção de Fraude (Beta)"
+                  },
+                  "slug": {
+                    "en": "fraud-prevention",
+                    "es": "prevencion-de-fraude",
+                    "pt": "prevencao-de-fraude"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mutual Transport Layer Security (mTLS)",
                     "es": "Mutual Transport Layer Security (mTLS)",
                     "pt": "Mutual Transport Layer Security (mTLS)"
