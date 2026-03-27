@@ -41,8 +41,8 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
   ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/request-conditions.png)
 
-7. Marque a opção **Enable blocking and throttling** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções habilitadas para bloqueio.
-8. Agora, atualize a página. Ela será exibida sem os componentes customizados.
+6. Marque a opção **Enable blocking and throttling** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções habilitadas para bloqueio.
+7. Agora, atualize a página. Ela será exibida sem os componentes customizados.
 
 Para voltar a visualizar as customizações, desmarque a opção **Enable blocking and throttling** e atualize a página.
 
