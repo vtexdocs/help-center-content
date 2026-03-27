@@ -39,8 +39,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Amazon: Price suggestion",
-                    "es": "Amazon: Sugerencia de precios",
+                    "en": "Amazon: Price suggestions",
+                    "es": "Amazon: sugerencia de precios",
                     "pt": "Amazon: Sugestão de preços"
                   },
                   "slug": {
@@ -23975,7 +23975,7 @@
                 },
                 {
                   "name": {
-                    "en": "Price suggestion in the Amazon integration",
+                    "en": "Price suggestion in Amazon integration",
                     "es": "Sugerencia de precios en la integración con Amazon",
                     "pt": "Sugestão de preços na integração com a Amazon"
                   },
