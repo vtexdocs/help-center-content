@@ -16033,6 +16033,203 @@
         },
         {
           "name": {
+            "en": "Apps - Overview",
+            "es": "Visión de conjunto de Apps",
+            "pt": "Apps - Visão geral"
+          },
+          "slug": {
+            "en": "apps-overview-subcategory",
+            "es": "vision-de-conjunto-de-apps-subcategoria",
+            "pt": "visão-geral-de-apps-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Apps - Overview",
+                "es": "Vision General Apps",
+                "pt": "Apps - Visão geral"
+              },
+              "slug": {
+                "en": "apps-overview",
+                "es": "vision-general-apps",
+                "pt": "visao-geral-apps"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Canceling payment for the service of an app installed in my store",
+                "es": "Cancelar el pago por el servicio de una app instalada en mi tienda",
+                "pt": "Cancelar o pagamento pelo serviço de uma app instalada na minha loja"
+              },
+              "slug": {
+                "en": "canceling-payment-for-the-service-of-an-app-installed-in-my-store",
+                "es": "cancelar-el-pago-por-el-servicio-de-una-app-instalada-en-mi-tienda",
+                "pt": "cancelar-o-pagamento-pelo-servico-de-uma-app-instalada-na-minha-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Contracts",
+            "es": "Contratos",
+            "pt": "Contratos"
+          },
+          "slug": {
+            "en": "contracts-subcategory",
+            "es": "contratos-subcategoria",
+            "pt": "contratos-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Accounts Payable - Brazil",
+                "es": "Cuentas a Pagar - Brasil",
+                "pt": "Contas a Pagar - Brasil"
+              },
+              "slug": {
+                "en": "accounts-payable-brazil",
+                "es": "cuentas-a-pagar-brasil",
+                "pt": "contas-a-pagar-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Accounts Payable - International",
+                "es": "Cuentas por pagar - Internacional",
+                "pt": "Contas a pagar - Internacional"
+              },
+              "slug": {
+                "en": "accounts-payable-international",
+                "es": "cuentas-por-pagar-internacional",
+                "pt": "contas-a-pagar-internacional"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Consumption tags used in the billing module",
+                "es": "Tags de pedidos utilizadas por el módulo de facturación",
+                "pt": "Marcações de pedidos pelo módulo de cobranças"
+              },
+              "slug": {
+                "en": "consumption-tags-used-in-the-billing-module",
+                "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
+                "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to request a platform SLA verification?",
+                "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
+                "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
+              },
+              "slug": {
+                "en": "how-to-request-sla-verification",
+                "es": "como-solicitar-la-verificacion-de-sla",
+                "pt": "como-solicitar-a-apuracao-de-sla"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Names of VTEX branches worldwide",
+                "es": "Nombres de las sucursales VTEX en el mundo",
+                "pt": "Nomes das filiais VTEX pelo mundo"
+              },
+              "slug": {
+                "en": "names-of-vtex-branches-worldwide",
+                "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
+                "pt": "nomes-das-filiais-vtex-pelo-mundo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requesting a contract termination in Argentina and Colombia",
+                "es": "Solicitar la rescisión contractual en Argentina y Colombia",
+                "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
+              },
+              "slug": {
+                "en": "requesting-a-contract-termination-in-argentina-and-colombia",
+                "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
+                "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requesting a new environment",
+                "es": "Contratar nuevo entorno",
+                "pt": "Contratar novo ambiente"
+              },
+              "slug": {
+                "en": "requesting-a-new-environment",
+                "es": "contratar-nuevo-entorno",
+                "pt": "contratar-novo-ambiente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requesting contract termination in Brazil",
+                "es": "Solicitar rescisión contractual en Brasil",
+                "pt": "Solicitar rescisão contratual no Brasil"
+              },
+              "slug": {
+                "en": "how-to-request-your-contract-termination-in-brazil",
+                "es": "como-solicitar-su-rescision-contractual-en-brasil",
+                "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Agreement",
+                "es": "Contrato VTEX",
+                "pt": "Contrato VTEX"
+              },
+              "slug": {
+                "en": "vtex-agreement",
+                "es": "contrato-vtex",
+                "pt": "contrato-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Account management",
             "es": "Gestión de la cuenta",
             "pt": "Gerenciamento da conta"
@@ -16129,37 +16326,6 @@
                     "en": "roles",
                     "es": "roles",
                     "pt": "perfis-de-acesso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Account settings",
-                "es": "Configuraciones de la cuenta",
-                "pt": "Configurações da conta"
-              },
-              "slug": {
-                "en": "account-settings-subcategory",
-                "es": "configuraciones-de-la-cuenta-subcategoria",
-                "pt": "configurações-da-conta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Account settings - Overview",
-                    "es": "Configuraciones de la cuenta - Información general",
-                    "pt": "Configurações da conta - Visão geral"
-                  },
-                  "slug": {
-                    "en": "account-settings-overview",
-                    "es": "vision-general-configuraciones-de-la-cuenta",
-                    "pt": "visao-geral-configuracoes-da-conta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16595,6 +16761,127 @@
         },
         {
           "name": {
+            "en": "Invoices",
+            "es": "Títulos",
+            "pt": "Títulos"
+          },
+          "slug": {
+            "en": "invoices-subcategory",
+            "es": "titulos-subcategoria",
+            "pt": "títulos-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "How and when do I receive my invoice?",
+                "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
+                "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
+              },
+              "slug": {
+                "en": "how-and-when-do-i-receive-my-invoice",
+                "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
+                "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How do I request a duplicate of my \"boleto\"?",
+                "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
+                "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
+              },
+              "slug": {
+                "en": "how-do-i-request-a-duplicate-of-my-boleto",
+                "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
+                "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to download the VTEX invoices",
+                "es": "Cómo descargar las facturas de VTEX",
+                "pt": "Como fazer download das faturas da VTEX"
+              },
+              "slug": {
+                "en": "how-to-download-the-vtex-invoices",
+                "es": "como-descargar-las-facturas-de-vtex",
+                "pt": "como-fazer-download-faturas-da-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to temporarily unblock the Admin",
+                "es": "Desbloqueio temporal del Admin",
+                "pt": "Como desbloquear temporariamente o Admin"
+              },
+              "slug": {
+                "en": "how-to-temporarily-unblock-the-admin",
+                "es": "desbloqueio-temporal-del-admin",
+                "pt": "como-desbloquear-temporariamente-o-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment was made but not found. What should I do?",
+                "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
+                "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
+              },
+              "slug": {
+                "en": "payment-was-made-but-not-found-what-should-i-do",
+                "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
+                "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "What does VTEX consider as revenues for invoice calculation?",
+                "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
+                "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
+              },
+              "slug": {
+                "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
+                "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
+                "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "What is the period considered for calculating my billing?",
+                "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
+                "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
+              },
+              "slug": {
+                "en": "what-is-the-period-considered-for-calculating-my-billing",
+                "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
+                "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Apps",
             "es": "Apps",
             "pt": "Apps"
@@ -16609,357 +16896,155 @@
           "children": [
             {
               "name": {
-                "en": "Affiliates Program App",
+                "en": "Affiliates Program app",
                 "es": "Aplicación Affiliates Program",
                 "pt": "Aplicativo Affiliates Program"
               },
               "slug": {
-                "en": "affiliates-program-app-subcategory",
-                "es": "aplicacion-affiliates-program-subcategoria",
-                "pt": "aplicativo-affiliates-program-subcategoria"
+                "en": "affiliates-program-app",
+                "es": "aplicacion-affiliates-program",
+                "pt": "aplicativo-affiliates-program"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Affiliates Program app",
-                    "es": "Aplicación Affiliates Program",
-                    "pt": "Aplicativo Affiliates Program"
-                  },
-                  "slug": {
-                    "en": "affiliates-program-app",
-                    "es": "aplicacion-affiliates-program",
-                    "pt": "aplicativo-affiliates-program"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Amazon MCF App",
-                "es": "Aplicación Amazon MCF",
-                "pt": "Aplicativo Amazon MCF"
+                "en": "Amazon Multi-Channel Fulfillment (MCF) App",
+                "es": "Aplicación Amazon Multi-Channel Fulfillment (MCF)",
+                "pt": "Aplicativo Amazon Multi-Channel Fulfillment (MCF)"
               },
               "slug": {
-                "en": "amazon-mcf-app-subcategory",
-                "es": "aplicacion-amazon-mcf-subcategoria",
-                "pt": "aplicativo-amazon-mcf-subcategoria"
+                "en": "amazon-multi-channel-fulfillment-mcf-app",
+                "es": "aplicacion-amazon-multi-channel-fulfillment-mcf",
+                "pt": "aplicativo-amazon-multi-channel-fulfillment-mcf"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Amazon Multi-Channel Fulfillment (MCF) App",
-                    "es": "Aplicación Amazon Multi-Channel Fulfillment (MCF)",
-                    "pt": "Aplicativo Amazon Multi-Channel Fulfillment (MCF)"
-                  },
-                  "slug": {
-                    "en": "amazon-multi-channel-fulfillment-mcf-app",
-                    "es": "aplicacion-amazon-multi-channel-fulfillment-mcf",
-                    "pt": "aplicativo-amazon-multi-channel-fulfillment-mcf"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Apps - Overview",
-                "es": "Visión de conjunto de Apps",
-                "pt": "Apps - Visão geral"
+                "en": "Assembly Options App",
+                "es": "Aplicación Assembly Options",
+                "pt": "App Assembly Options"
               },
               "slug": {
-                "en": "apps-overview-subcategory",
-                "es": "vision-de-conjunto-de-apps-subcategoria",
-                "pt": "visão-geral-de-apps-subcategoria"
+                "en": "assembly-options-app",
+                "es": "aplicacion-assembly-options",
+                "pt": "app-assembly-options"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Apps - Overview",
-                    "es": "Vision General Apps",
-                    "pt": "Apps - Visão geral"
-                  },
-                  "slug": {
-                    "en": "apps-overview",
-                    "es": "vision-general-apps",
-                    "pt": "visao-geral-apps"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Canceling payment for the service of an app installed in my store",
-                    "es": "Cancelar el pago por el servicio de una app instalada en mi tienda",
-                    "pt": "Cancelar o pagamento pelo serviço de uma app instalada na minha loja"
-                  },
-                  "slug": {
-                    "en": "canceling-payment-for-the-service-of-an-app-installed-in-my-store",
-                    "es": "cancelar-el-pago-por-el-servicio-de-una-app-instalada-en-mi-tienda",
-                    "pt": "cancelar-o-pagamento-pelo-servico-de-uma-app-instalada-na-minha-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Assembly Options",
-                "es": "Assembly Options",
-                "pt": "Assembly Options"
+                "en": "Personal Shopper - Overview",
+                "es": "Personal Shopper - Información general",
+                "pt": "Personal Shopper - Visão geral"
               },
               "slug": {
-                "en": "assembly-options-subcategory",
-                "es": "assembly-options-subcategoria",
-                "pt": "assembly-options-subcategoria"
+                "en": "personal-shopper-overview",
+                "es": "personal-shopper-vision-general",
+                "pt": "visao-geral-do-personal-shopper"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Assembly Options App",
-                    "es": "Aplicación Assembly Options",
-                    "pt": "App Assembly Options"
-                  },
-                  "slug": {
-                    "en": "assembly-options-app",
-                    "es": "aplicacion-assembly-options",
-                    "pt": "app-assembly-options"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Customer Credit",
-                "es": "Customer Credit",
-                "pt": "Customer Credit"
+                "en": "Setting up price and availability of SKUs by Region",
+                "es": "Configurar el precio y la disponibilidad de SKUs por Region",
+                "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
               },
               "slug": {
-                "en": "customer-credit-subcategory",
-                "es": "customer-credit-subcategoria",
-                "pt": "customer-credit-subcategoria"
+                "en": "setting-up-price-and-availability-of-skus-by-region",
+                "es": "configurar-el-precio-y-la-disponibilidad-de-skus-por-region",
+                "pt": "configurar-preco-e-disponibilidade-de-skus-por-region"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Credit management through Customer Credit",
-                    "es": "Gestión de crédito a través de Customer Credit",
-                    "pt": "Gestão de crédito por meio do Customer Credit"
-                  },
-                  "slug": {
-                    "en": "managing-credit-with-customer-credit",
-                    "es": "gestion-crediticia-a-traves-del-customer-credit",
-                    "pt": "gestao-de-credito-por-meio-do-customer-credit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Customer Credit - Overview",
-                    "es": "Customer Credit - Información general",
-                    "pt": "Customer Credit - Visão geral"
-                  },
-                  "slug": {
-                    "en": "customer-credit-overview",
-                    "es": "customer-credit-vision-general",
-                    "pt": "customer-credit-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Registration data",
+            "es": "Datos de registro",
+            "pt": "Dados cadastrais"
+          },
+          "slug": {
+            "en": "registration-data-subcategory",
+            "es": "datos-de-registro-subcategoria",
+            "pt": "dados-cadastrais-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Changing my store’s registration details",
+                "es": "Modificar los datos de registro de mi tienda",
+                "pt": "Alterar os dados cadastrais da minha loja"
+              },
+              "slug": {
+                "en": "changing-the-stores-registration-details",
+                "es": "modificar-los-datos-de-registro-de-la-tienda",
+                "pt": "alterar-os-dados-cadastrais-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Customer Credit",
+            "es": "Customer Credit",
+            "pt": "Customer Credit"
+          },
+          "slug": {
+            "en": "customer-credit-subcategory",
+            "es": "customer-credit-subcategoria",
+            "pt": "customer-credit-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Credit management through Customer Credit",
+                "es": "Gestión de crédito a través de Customer Credit",
+                "pt": "Gestão de crédito por meio do Customer Credit"
+              },
+              "slug": {
+                "en": "managing-credit-with-customer-credit",
+                "es": "gestion-crediticia-a-traves-del-customer-credit",
+                "pt": "gestao-de-credito-por-meio-do-customer-credit"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "Live Shopping",
-                "es": "Live Shopping",
-                "pt": "Live Shopping"
+                "en": "Customer Credit - Overview",
+                "es": "Customer Credit - Información general",
+                "pt": "Customer Credit - Visão geral"
               },
               "slug": {
-                "en": "live-shopping-subcategory",
-                "es": "live-shopping-subcategoria",
-                "pt": "live-shopping-subcategoria"
+                "en": "customer-credit-overview",
+                "es": "customer-credit-vision-general",
+                "pt": "customer-credit-visao-geral"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Live Shopping",
-                    "es": "Live Shopping",
-                    "pt": "Live Shopping"
-                  },
-                  "slug": {
-                    "en": "live-shopping",
-                    "es": "live-shopping",
-                    "pt": "live-shopping"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Live Shopping: Configuring a landing page for live shopping events",
-                    "es": "Live Shopping: Configurar landing page para transmisiones en vivo",
-                    "pt": "Live Shopping: Configurar landing page para transmissões ao vivo"
-                  },
-                  "slug": {
-                    "en": "live-shopping-configuring-a-landing-page-for-live-shopping-events",
-                    "es": "live-shopping-configurar-landing-page-para-transmisiones-en-vivo",
-                    "pt": "live-shopping-configurar-landing-page-para-transmissoes-ao-vivo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Live Shopping: Events",
-                    "es": "Live Shopping: Eventos",
-                    "pt": "Live Shopping: Eventos"
-                  },
-                  "slug": {
-                    "en": "live-shopping-events",
-                    "es": "live-shopping-eventos",
-                    "pt": "live-shopping-eventos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "My Account",
-                "es": "My Account",
-                "pt": "My Account"
-              },
-              "slug": {
-                "en": "my-account-subcategory",
-                "es": "my-account-subcategoria",
-                "pt": "my-account-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "How My Account works",
-                    "es": "Cómo funciona Mi Cuenta",
-                    "pt": "Como funciona a Minha Conta"
-                  },
-                  "slug": {
-                    "en": "how-my-account-works",
-                    "es": "como-funciona-mi-cuenta",
-                    "pt": "como-funciona-a-minha-conta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up My Account",
-                    "es": "Configuración de My Account",
-                    "pt": "Configurar o My Account"
-                  },
-                  "slug": {
-                    "en": "setting-up-my-account",
-                    "es": "configuracion-de-my-account",
-                    "pt": "configurar-o-my-account"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
-              },
-              "slug": {
-                "en": "personal-shopper-subcategory",
-                "es": "personal-shopper-subcategoria",
-                "pt": "personal-shopper-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Personal Shopper - Overview",
-                    "es": "Personal Shopper - Información general",
-                    "pt": "Personal Shopper - Visão geral"
-                  },
-                  "slug": {
-                    "en": "personal-shopper-overview",
-                    "es": "personal-shopper-vision-general",
-                    "pt": "visao-geral-do-personal-shopper"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "VTEX Session",
-                "es": "VTEX Session",
-                "pt": "VTEX Session"
-              },
-              "slug": {
-                "en": "vtex-session-subcategory",
-                "es": "vtex-session-subcategoria",
-                "pt": "vtex-session-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Setting up price and availability of SKUs by Region",
-                    "es": "Configurar el precio y la disponibilidad de SKUs por Region",
-                    "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
-                  },
-                  "slug": {
-                    "en": "setting-up-price-and-availability-of-skus-by-region",
-                    "es": "configurar-el-precio-y-la-disponibilidad-de-skus-por-region",
-                    "pt": "configurar-preco-e-disponibilidade-de-skus-por-region"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -17144,6 +17229,67 @@
                   "children": []
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Live Shopping",
+            "es": "Live Shopping",
+            "pt": "Live Shopping"
+          },
+          "slug": {
+            "en": "live-shopping-subcategory",
+            "es": "live-shopping-subcategoria",
+            "pt": "live-shopping-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Live Shopping",
+                "es": "Live Shopping",
+                "pt": "Live Shopping"
+              },
+              "slug": {
+                "en": "live-shopping",
+                "es": "live-shopping",
+                "pt": "live-shopping"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Live Shopping: Configuring a landing page for live shopping events",
+                "es": "Live Shopping: Configurar landing page para transmisiones en vivo",
+                "pt": "Live Shopping: Configurar landing page para transmissões ao vivo"
+              },
+              "slug": {
+                "en": "live-shopping-configuring-a-landing-page-for-live-shopping-events",
+                "es": "live-shopping-configurar-landing-page-para-transmisiones-en-vivo",
+                "pt": "live-shopping-configurar-landing-page-para-transmissoes-ao-vivo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Live Shopping: Events",
+                "es": "Live Shopping: Eventos",
+                "pt": "Live Shopping: Eventos"
+              },
+              "slug": {
+                "en": "live-shopping-events",
+                "es": "live-shopping-eventos",
+                "pt": "live-shopping-eventos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -17911,6 +18057,52 @@
         },
         {
           "name": {
+            "en": "My Account",
+            "es": "My Account",
+            "pt": "My Account"
+          },
+          "slug": {
+            "en": "my-account-subcategory",
+            "es": "my-account-subcategoria",
+            "pt": "my-account-subcategoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "How My Account works",
+                "es": "Cómo funciona Mi Cuenta",
+                "pt": "Como funciona a Minha Conta"
+              },
+              "slug": {
+                "en": "how-my-account-works",
+                "es": "como-funciona-mi-cuenta",
+                "pt": "como-funciona-a-minha-conta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Setting up My Account",
+                "es": "Configuración de My Account",
+                "pt": "Configurar o My Account"
+              },
+              "slug": {
+                "en": "setting-up-my-account",
+                "es": "configuracion-de-my-account",
+                "pt": "configurar-o-my-account"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Beta",
             "es": "Beta",
             "pt": "Beta"
@@ -18647,332 +18839,13 @@
                 "pt": "Faturas - Visão geral"
               },
               "slug": {
-                "en": "billing-overview-subcategory",
-                "es": "facturacion-vision-general-subcategoria",
-                "pt": "faturas-visão-geral-subcategoria"
+                "en": "billing-module-overview",
+                "es": "vision-general-facturacion",
+                "pt": "visao-geral-faturas"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Billing - Overview",
-                    "es": "Facturación - Información general",
-                    "pt": "Faturas - Visão geral"
-                  },
-                  "slug": {
-                    "en": "billing-module-overview",
-                    "es": "vision-general-facturacion",
-                    "pt": "visao-geral-faturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Contracts",
-                "es": "Contratos",
-                "pt": "Contratos"
-              },
-              "slug": {
-                "en": "contracts-subcategory",
-                "es": "contratos-subcategoria",
-                "pt": "contratos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Accounts Payable - Brazil",
-                    "es": "Cuentas a Pagar - Brasil",
-                    "pt": "Contas a Pagar - Brasil"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-brazil",
-                    "es": "cuentas-a-pagar-brasil",
-                    "pt": "contas-a-pagar-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Accounts Payable - International",
-                    "es": "Cuentas por pagar - Internacional",
-                    "pt": "Contas a pagar - Internacional"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-international",
-                    "es": "cuentas-por-pagar-internacional",
-                    "pt": "contas-a-pagar-internacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Consumption tags used in the billing module",
-                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
-                    "pt": "Marcações de pedidos pelo módulo de cobranças"
-                  },
-                  "slug": {
-                    "en": "consumption-tags-used-in-the-billing-module",
-                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
-                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to request a platform SLA verification?",
-                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
-                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
-                  },
-                  "slug": {
-                    "en": "how-to-request-sla-verification",
-                    "es": "como-solicitar-la-verificacion-de-sla",
-                    "pt": "como-solicitar-a-apuracao-de-sla"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Names of VTEX branches worldwide",
-                    "es": "Nombres de las sucursales VTEX en el mundo",
-                    "pt": "Nomes das filiais VTEX pelo mundo"
-                  },
-                  "slug": {
-                    "en": "names-of-vtex-branches-worldwide",
-                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
-                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a contract termination in Argentina and Colombia",
-                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
-                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
-                  },
-                  "slug": {
-                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
-                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
-                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a new environment",
-                    "es": "Contratar nuevo entorno",
-                    "pt": "Contratar novo ambiente"
-                  },
-                  "slug": {
-                    "en": "requesting-a-new-environment",
-                    "es": "contratar-nuevo-entorno",
-                    "pt": "contratar-novo-ambiente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
-                  },
-                  "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Agreement",
-                    "es": "Contrato VTEX",
-                    "pt": "Contrato VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-agreement",
-                    "es": "contrato-vtex",
-                    "pt": "contrato-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Invoices",
-                "es": "Títulos",
-                "pt": "Títulos"
-              },
-              "slug": {
-                "en": "invoices-subcategory",
-                "es": "titulos-subcategoria",
-                "pt": "títulos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "How and when do I receive my invoice?",
-                    "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
-                    "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
-                  },
-                  "slug": {
-                    "en": "how-and-when-do-i-receive-my-invoice",
-                    "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
-                    "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How do I request a duplicate of my \"boleto\"?",
-                    "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
-                    "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
-                  },
-                  "slug": {
-                    "en": "how-do-i-request-a-duplicate-of-my-boleto",
-                    "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
-                    "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to download the VTEX invoices",
-                    "es": "Cómo descargar las facturas de VTEX",
-                    "pt": "Como fazer download das faturas da VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-download-the-vtex-invoices",
-                    "es": "como-descargar-las-facturas-de-vtex",
-                    "pt": "como-fazer-download-faturas-da-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to temporarily unblock the Admin",
-                    "es": "Desbloqueio temporal del Admin",
-                    "pt": "Como desbloquear temporariamente o Admin"
-                  },
-                  "slug": {
-                    "en": "how-to-temporarily-unblock-the-admin",
-                    "es": "desbloqueio-temporal-del-admin",
-                    "pt": "como-desbloquear-temporariamente-o-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Payment was made but not found. What should I do?",
-                    "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
-                    "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
-                  },
-                  "slug": {
-                    "en": "payment-was-made-but-not-found-what-should-i-do",
-                    "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
-                    "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What does VTEX consider as revenues for invoice calculation?",
-                    "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
-                    "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
-                  },
-                  "slug": {
-                    "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
-                    "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
-                    "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the period considered for calculating my billing?",
-                    "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
-                    "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-period-considered-for-calculating-my-billing",
-                    "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
-                    "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Registration data",
-                "es": "Datos de registro",
-                "pt": "Dados cadastrais"
-              },
-              "slug": {
-                "en": "registration-data-subcategory",
-                "es": "datos-de-registro-subcategoria",
-                "pt": "dados-cadastrais-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Changing my store’s registration details",
-                    "es": "Modificar los datos de registro de mi tienda",
-                    "pt": "Alterar os dados cadastrais da minha loja"
-                  },
-                  "slug": {
-                    "en": "changing-the-stores-registration-details",
-                    "es": "modificar-los-datos-de-registro-de-la-tienda",
-                    "pt": "alterar-os-dados-cadastrais-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             }
           ]
         },
