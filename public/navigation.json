@@ -15986,64 +15986,48 @@
           "children": [
             {
               "name": {
-                "en": "Admin - Overview",
-                "es": "Admin - Información general",
-                "pt": "Visão do geral do Admin"
+                "en": "Accessing the beta environment through the myvtex.com domain",
+                "es": "Accede al entorno beta a través del dominio myvtex.com",
+                "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
               },
               "slug": {
-                "en": "admin-overview-subcategory",
-                "es": "vision-general-del-admin-subcategoria",
-                "pt": "visão-do-geral-do-admin-subcategoria"
+                "en": "accessing-the-beta-environment",
+                "es": "acceder-al-ambiente-beta",
+                "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Accessing the beta environment through the myvtex.com domain",
-                    "es": "Accede al entorno beta a través del dominio myvtex.com",
-                    "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
-                  },
-                  "slug": {
-                    "en": "accessing-the-beta-environment",
-                    "es": "acceder-al-ambiente-beta",
-                    "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Compatibility with browsers in VTEX Admin",
-                    "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
-                    "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
-                  },
-                  "slug": {
-                    "en": "compatibility-with-browsers-in-the-admin-module",
-                    "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
-                    "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Marketplace - Overview",
-                    "es": "Marketplace - Información general",
-                    "pt": "Marketplace - Visão geral"
-                  },
-                  "slug": {
-                    "en": "marketplace-overview",
-                    "es": "vision-general-marketplace",
-                    "pt": "visao-geral-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Compatibility with browsers in VTEX Admin",
+                "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
+                "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
+              },
+              "slug": {
+                "en": "compatibility-with-browsers-in-the-admin-module",
+                "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
+                "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Marketplace - Overview",
+                "es": "Marketplace - Información general",
+                "pt": "Marketplace - Visão geral"
+              },
+              "slug": {
+                "en": "marketplace-overview",
+                "es": "vision-general-marketplace",
+                "pt": "visao-geral-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -21413,79 +21397,63 @@
           "children": [
             {
               "name": {
-                "en": "Dashboards in the VTEX Admin",
-                "es": "Dashboards en el Admin VTEX",
-                "pt": "Dashboards no Admin VTEX"
+                "en": "Dashboards - Overview",
+                "es": "Vista General Dashboards",
+                "pt": "Dashboards - Visão geral"
               },
               "slug": {
-                "en": "dashboards-in-the-vtex-admin-subcategory",
-                "es": "dashboards-en-el-admin-vtex-subcategoria",
-                "pt": "dashboards-no-admin-vtex-subcategoria"
+                "en": "dashboards-overview",
+                "es": "vista-general-dashboards",
+                "pt": "visao-geral-dashboards"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Dashboards - Overview",
-                    "es": "Vista General Dashboards",
-                    "pt": "Dashboards - Visão geral"
-                  },
-                  "slug": {
-                    "en": "dashboards-overview",
-                    "es": "vista-general-dashboards",
-                    "pt": "visao-geral-dashboards"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales Performance",
-                    "es": "Desempeño de Ventas",
-                    "pt": "Performance de Vendas"
-                  },
-                  "slug": {
-                    "en": "sales-performance",
-                    "es": "desempeno-de-ventas",
-                    "pt": "performance-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Store - Overview",
-                    "es": "Vista General de la Tienda",
-                    "pt": "Visão Geral da Loja"
-                  },
-                  "slug": {
-                    "en": "store-overview",
-                    "es": "vista-general-de-la-tienda",
-                    "pt": "visao-geral-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX dashboard guide for Black Week: FAQ",
-                    "es": "Guía de los dashboards VTEX para la Black Week: FAQ",
-                    "pt": "Guia dos dashboards VTEX para a Black Week: FAQ"
-                  },
-                  "slug": {
-                    "en": "vtex-dashboard-guide-for-black-week-faq",
-                    "es": "guia-de-los-dashboards-vtex-para-la-black-week-faq",
-                    "pt": "guia-dos-dashboards-vtex-para-a-black-week-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales Performance",
+                "es": "Desempeño de Ventas",
+                "pt": "Performance de Vendas"
+              },
+              "slug": {
+                "en": "sales-performance",
+                "es": "desempeno-de-ventas",
+                "pt": "performance-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Store - Overview",
+                "es": "Vista General de la Tienda",
+                "pt": "Visão Geral da Loja"
+              },
+              "slug": {
+                "en": "store-overview",
+                "es": "vista-general-de-la-tienda",
+                "pt": "visao-geral-da-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX dashboard guide for Black Week: FAQ",
+                "es": "Guía de los dashboards VTEX para la Black Week: FAQ",
+                "pt": "Guia dos dashboards VTEX para a Black Week: FAQ"
+              },
+              "slug": {
+                "en": "vtex-dashboard-guide-for-black-week-faq",
+                "es": "guia-de-los-dashboards-vtex-para-la-black-week-faq",
+                "pt": "guia-dos-dashboards-vtex-para-a-black-week-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -31831,244 +31799,228 @@
           "children": [
             {
               "name": {
-                "en": "Integration with monitoring tools",
-                "es": "Integración con herramientas de monitoreo",
-                "pt": "Integração com ferramentas de monitoramento"
+                "en": "Changing a Cookie",
+                "es": "Modificar un Cookie",
+                "pt": "Alterar um Cookie"
               },
               "slug": {
-                "en": "integration-with-monitoring-tools-subcategory",
-                "es": "integracion-con-herramientas-de-monitoreo-subcategoria",
-                "pt": "integração-com-ferramentas-de-monitoramento-subcategoria"
+                "en": "how-to-change-a-cookie",
+                "es": "como-modificar-un-cookie",
+                "pt": "como-alterar-um-cookie"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Changing a Cookie",
-                    "es": "Modificar un Cookie",
-                    "pt": "Alterar um Cookie"
-                  },
-                  "slug": {
-                    "en": "how-to-change-a-cookie",
-                    "es": "como-modificar-un-cookie",
-                    "pt": "como-alterar-um-cookie"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Checking the ownership of a VTEX store on Google Search Console",
-                    "es": "Verificar propiedad en el Google Search Console de tienda VTEX",
-                    "pt": "Verificar propriedade no Google Search Console para loja VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-check-the-ownership-of-vtex-store-on-google-search-console",
-                    "es": "como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex",
-                    "pt": "como-verificar-propriedade-no-google-search-console-de-loja-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring Google Analytics 4 in VTEX stores",
-                    "es": "Configurar Google Analytics 4 en una tienda VTEX",
-                    "pt": "Configurar Google Analytics 4 em loja VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-setup-google-analytics-in-vtex-store",
-                    "es": "como-configurar-el-google-analytics-en-tienda-vtex",
-                    "pt": "como-configurar-google-analytics-em-loja-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Confirming the ownership of your store on Google Search Console (Webmaster Tools)",
-                    "es": "Confirmar la propiedad de su tienda en Google Search Console (Webmaster Tools)",
-                    "pt": "Confirmar a propriedade da sua loja no Google Search Console (Webmaster Tools)"
-                  },
-                  "slug": {
-                    "en": "confirming-the-ownership-of-your-store-on-google-search-console-webmaster-tools",
-                    "es": "confirmar-la-propiedad-de-su-tienda",
-                    "pt": "confirmar-a-propriedade-da-sua-loja-no-google-webmaster-tools"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Finding Google-indexed URLs that are inactive or contain errors",
-                    "es": "Localizar URLs indexadas por Google que están inactivas o con errores",
-                    "pt": "Localizar URLs indexadas pelo Google que estão inativas ou com erros"
-                  },
-                  "slug": {
-                    "en": "how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors",
-                    "es": "como-localizar-urls-indexadas-por-google-que-estan-inactivas-o-con-errores",
-                    "pt": "como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Analytics: FAQ",
-                    "es": "Google Analytics: preguntas frecuentes",
-                    "pt": "Google Analytics: FAQ"
-                  },
-                  "slug": {
-                    "en": "google-analytics-faq",
-                    "es": "google-analytics-preguntas-frecuentes",
-                    "pt": "google-analytics-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Search Console Tracking - robots.txt",
-                    "es": "Rastreo Google Search Console - robots.txt",
-                    "pt": "Rastreamento Google Search Console - robots.txt"
-                  },
-                  "slug": {
-                    "en": "google-search-console-tracking-robots-txt",
-                    "es": "rastreo-google-search-console-robots-txt",
-                    "pt": "rastreamento-google-search-console-robots-txt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Search Console Tracking - Sitemap",
-                    "es": "Rastreo Google Search Console  - Sitemap",
-                    "pt": "Rastreamento Google Search Console - Sitemap"
-                  },
-                  "slug": {
-                    "en": "google-search-console-tracking-sitemap",
-                    "es": "rastreo-google-search-console-sitemap",
-                    "pt": "rastreamento-google-search-console-sitemap"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Google Search Console Tracking – Tracking errors",
-                    "es": "Rastreo Google Search Console - Errores de rastreo",
-                    "pt": "Rastreamento Google Search Console - Erros de rastreamento"
-                  },
-                  "slug": {
-                    "en": "google-search-console-tracking-tracking-errors",
-                    "es": "rastreo-google-search-console-errores-de-rastreo",
-                    "pt": "rastreamento-google-search-console-erros-de-rastreamento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up Google Adwords",
-                    "es": "Configurar Google Adwords",
-                    "pt": "Configurar Google Adwords"
-                  },
-                  "slug": {
-                    "en": "setting-up-google-adwords",
-                    "es": "etiqueta-de-remarketing-del-google-adwords",
-                    "pt": "configuracao-do-google-adwords"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up the sales funnel on Google Analytics",
-                    "es": "Configurar embudo de ventas en Google Analytics",
-                    "pt": "Configurar funil de vendas no Google Analytics"
-                  },
-                  "slug": {
-                    "en": "setting-up-the-sales-funnel-on-google-analytics",
-                    "es": "configuracion-funnel-de-ventas-google-analytics",
-                    "pt": "configurar-funil-de-vendas-no-google-analytics"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sharing your store access to Google Webmaster Tools",
-                    "es": "Compartir acceso al Google Webmaster Tools de su tienda",
-                    "pt": "Compartilhar acesso ao Google Webmaster Tools da sua loja"
-                  },
-                  "slug": {
-                    "en": "sharing-your-store-access-to-google-webmaster-tools",
-                    "es": "compartir-acceso-al-google-webmaster-tools-de-su-tienda",
-                    "pt": "compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Structured data through Google Search Console Data Markers",
-                    "es": "Datos estructurados a través del Marcador de Datos del Google Search Console",
-                    "pt": "Dados estruturados através do Marcador de Dados do Google Search Console"
-                  },
-                  "slug": {
-                    "en": "structured-data-through-google-search-console-data-markers",
-                    "es": "datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console",
-                    "pt": "dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Using Google Search Console",
-                    "es": "Cómo usar el Google Search Console",
-                    "pt": "Como usar o Google Search Console"
-                  },
-                  "slug": {
-                    "en": "about-google-search-console",
-                    "es": "como-usar-el-google-search-console",
-                    "pt": "informacoes-sobre-google-search-console"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Why don't Cookies support special characters?",
-                    "es": "¿Por qué las Cookies no soportan caracteres especiales?",
-                    "pt": "Por que os Cookies não suportam caracteres especiais"
-                  },
-                  "slug": {
-                    "en": "why-dont-cookies-support-special-characters",
-                    "es": "por-que-las-cookies-no-soportan-caracteres-especiales",
-                    "pt": "cookie-nao-suporta-caracteres-especiais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checking the ownership of a VTEX store on Google Search Console",
+                "es": "Verificar propiedad en el Google Search Console de tienda VTEX",
+                "pt": "Verificar propriedade no Google Search Console para loja VTEX"
+              },
+              "slug": {
+                "en": "how-to-check-the-ownership-of-vtex-store-on-google-search-console",
+                "es": "como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex",
+                "pt": "como-verificar-propriedade-no-google-search-console-de-loja-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Configuring Google Analytics 4 in VTEX stores",
+                "es": "Configurar Google Analytics 4 en una tienda VTEX",
+                "pt": "Configurar Google Analytics 4 em loja VTEX"
+              },
+              "slug": {
+                "en": "how-to-setup-google-analytics-in-vtex-store",
+                "es": "como-configurar-el-google-analytics-en-tienda-vtex",
+                "pt": "como-configurar-google-analytics-em-loja-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Confirming the ownership of your store on Google Search Console (Webmaster Tools)",
+                "es": "Confirmar la propiedad de su tienda en Google Search Console (Webmaster Tools)",
+                "pt": "Confirmar a propriedade da sua loja no Google Search Console (Webmaster Tools)"
+              },
+              "slug": {
+                "en": "confirming-the-ownership-of-your-store-on-google-search-console-webmaster-tools",
+                "es": "confirmar-la-propiedad-de-su-tienda",
+                "pt": "confirmar-a-propriedade-da-sua-loja-no-google-webmaster-tools"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Finding Google-indexed URLs that are inactive or contain errors",
+                "es": "Localizar URLs indexadas por Google que están inactivas o con errores",
+                "pt": "Localizar URLs indexadas pelo Google que estão inativas ou com erros"
+              },
+              "slug": {
+                "en": "how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors",
+                "es": "como-localizar-urls-indexadas-por-google-que-estan-inactivas-o-con-errores",
+                "pt": "como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Analytics: FAQ",
+                "es": "Google Analytics: preguntas frecuentes",
+                "pt": "Google Analytics: FAQ"
+              },
+              "slug": {
+                "en": "google-analytics-faq",
+                "es": "google-analytics-preguntas-frecuentes",
+                "pt": "google-analytics-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Search Console Tracking - robots.txt",
+                "es": "Rastreo Google Search Console - robots.txt",
+                "pt": "Rastreamento Google Search Console - robots.txt"
+              },
+              "slug": {
+                "en": "google-search-console-tracking-robots-txt",
+                "es": "rastreo-google-search-console-robots-txt",
+                "pt": "rastreamento-google-search-console-robots-txt"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Search Console Tracking - Sitemap",
+                "es": "Rastreo Google Search Console  - Sitemap",
+                "pt": "Rastreamento Google Search Console - Sitemap"
+              },
+              "slug": {
+                "en": "google-search-console-tracking-sitemap",
+                "es": "rastreo-google-search-console-sitemap",
+                "pt": "rastreamento-google-search-console-sitemap"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Google Search Console Tracking – Tracking errors",
+                "es": "Rastreo Google Search Console - Errores de rastreo",
+                "pt": "Rastreamento Google Search Console - Erros de rastreamento"
+              },
+              "slug": {
+                "en": "google-search-console-tracking-tracking-errors",
+                "es": "rastreo-google-search-console-errores-de-rastreo",
+                "pt": "rastreamento-google-search-console-erros-de-rastreamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Setting up Google Adwords",
+                "es": "Configurar Google Adwords",
+                "pt": "Configurar Google Adwords"
+              },
+              "slug": {
+                "en": "setting-up-google-adwords",
+                "es": "etiqueta-de-remarketing-del-google-adwords",
+                "pt": "configuracao-do-google-adwords"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Setting up the sales funnel on Google Analytics",
+                "es": "Configurar embudo de ventas en Google Analytics",
+                "pt": "Configurar funil de vendas no Google Analytics"
+              },
+              "slug": {
+                "en": "setting-up-the-sales-funnel-on-google-analytics",
+                "es": "configuracion-funnel-de-ventas-google-analytics",
+                "pt": "configurar-funil-de-vendas-no-google-analytics"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sharing your store access to Google Webmaster Tools",
+                "es": "Compartir acceso al Google Webmaster Tools de su tienda",
+                "pt": "Compartilhar acesso ao Google Webmaster Tools da sua loja"
+              },
+              "slug": {
+                "en": "sharing-your-store-access-to-google-webmaster-tools",
+                "es": "compartir-acceso-al-google-webmaster-tools-de-su-tienda",
+                "pt": "compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Structured data through Google Search Console Data Markers",
+                "es": "Datos estructurados a través del Marcador de Datos del Google Search Console",
+                "pt": "Dados estruturados através do Marcador de Dados do Google Search Console"
+              },
+              "slug": {
+                "en": "structured-data-through-google-search-console-data-markers",
+                "es": "datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console",
+                "pt": "dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Using Google Search Console",
+                "es": "Cómo usar el Google Search Console",
+                "pt": "Como usar o Google Search Console"
+              },
+              "slug": {
+                "en": "about-google-search-console",
+                "es": "como-usar-el-google-search-console",
+                "pt": "informacoes-sobre-google-search-console"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why don't Cookies support special characters?",
+                "es": "¿Por qué las Cookies no soportan caracteres especiales?",
+                "pt": "Por que os Cookies não suportam caracteres especiais"
+              },
+              "slug": {
+                "en": "why-dont-cookies-support-special-characters",
+                "es": "por-que-las-cookies-no-soportan-caracteres-especiales",
+                "pt": "cookie-nao-suporta-caracteres-especiais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -36611,37 +36563,6 @@
             },
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview-subcategory",
-                "es": "vision-general-storefront-subcategoria",
-                "pt": "visão-geral-storefront-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Storefront - Overview",
-                    "es": "Storefront - Información general",
-                    "pt": "Storefront - Visão geral"
-                  },
-                  "slug": {
-                    "en": "storefront-overview",
-                    "es": "vision-general-storefront",
-                    "pt": "visao-geral-storefront"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Styles",
                 "es": "Estilos",
                 "pt": "Estilos"
@@ -36704,184 +36625,168 @@
           "children": [
             {
               "name": {
-                "en": "Subscription Guides",
-                "es": "Guía de Suscripciones",
-                "pt": "Guias de Assinatura"
+                "en": "Creating a subscription plan",
+                "es": "Cómo crear un plan de suscripción",
+                "pt": "Como criar um plano de assinatura"
               },
               "slug": {
-                "en": "subscription-guides-subcategory",
-                "es": "guia-de-suscripciones-subcategoria",
-                "pt": "guias-de-assinatura-subcategoria"
+                "en": "creating-a-subscription-plan",
+                "es": "como-crear-un-plan-de-suscripcion",
+                "pt": "como-criar-um-plano-de-assinatura"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating a subscription plan",
-                    "es": "Cómo crear un plan de suscripción",
-                    "pt": "Como criar um plano de assinatura"
-                  },
-                  "slug": {
-                    "en": "creating-a-subscription-plan",
-                    "es": "como-crear-un-plan-de-suscripcion",
-                    "pt": "como-criar-um-plano-de-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How subscriptions work",
-                    "es": "Cómo funciona Suscripciones",
-                    "pt": "Como funciona a assinatura"
-                  },
-                  "slug": {
-                    "en": "how-subscriptions-work",
-                    "es": "como-funciona-suscripciones",
-                    "pt": "como-funciona-a-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to configure Subscriptions in your store",
-                    "es": "Cómo configurar Suscripciones en su tienda",
-                    "pt": "Como configurar Assinaturas na sua loja"
-                  },
-                  "slug": {
-                    "en": "how-to-configure-subscriptions",
-                    "es": "como-configurar-suscripciones",
-                    "pt": "como-configurar-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a subscription attachment via the Catalog module",
-                    "es": "Cómo crear un anexo de suscripción en el módulo Catálogo",
-                    "pt": "Como criar um anexo de assinatura pelo módulo Catálogo"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-subscription-attachment-via-the-catalog-module",
-                    "es": "como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo",
-                    "pt": "como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to manage Subscriptions",
-                    "es": "Cómo Gestionar Suscripciones",
-                    "pt": "Como gerenciar Assinaturas"
-                  },
-                  "slug": {
-                    "en": "how-to-manage-subscriptions",
-                    "es": "como-gestionar-suscripciones",
-                    "pt": "como-gerenciar-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Pickup points for subscription orders",
-                    "es": "Puntos de recogida para pedidos de suscripción",
-                    "pt": "Pontos de retirada para pedidos de assinatura"
-                  },
-                  "slug": {
-                    "en": "pickup-points-for-subscription-orders",
-                    "es": "puntos-de-recogida-para-pedidos-de-suscripcion",
-                    "pt": "pontos-de-retirada-para-pedidos-de-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Subscription plans",
-                    "es": "Planes de suscripción",
-                    "pt": "Planos de assinatura"
-                  },
-                  "slug": {
-                    "en": "subscription-plans",
-                    "es": "planes-de-suscripcion",
-                    "pt": "planos-de-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Subscriptions: FAQ",
-                    "es": "Suscripciones: FAQ",
-                    "pt": "Assinaturas: FAQ"
-                  },
-                  "slug": {
-                    "en": "subscriptions-faq",
-                    "es": "suscripciones-faq",
-                    "pt": "assinaturas-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Transactional emails for subscriptions orders",
-                    "es": "Correos electrónicos transaccionales para pedidos de suscripciones",
-                    "pt": "Emails transacionais para pedidos de assinaturas"
-                  },
-                  "slug": {
-                    "en": "transactional-emails-for-subscriptions-orders",
-                    "es": "correos-electronicos-transaccionales-para-pedidos-de-suscripciones",
-                    "pt": "emails-transacionais-para-pedidos-de-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Troubleshooting errors in subscription orders",
-                    "es": "Cómo solucionar errores en pedidos de suscripción",
-                    "pt": "Como solucionar erros em pedidos de assinaturas"
-                  },
-                  "slug": {
-                    "en": "troubleshooting-errors-in-subscription-orders",
-                    "es": "como-solucionar-errores-en-pedidos-de-suscripcion",
-                    "pt": "como-solucionar-erros-em-pedidos-de-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Understanding the subscription report",
-                    "es": "Descripción del informe de suscripciones",
-                    "pt": "Entendendo o relatório de assinaturas"
-                  },
-                  "slug": {
-                    "en": "understanding-the-subscription-report",
-                    "es": "descripcion-del-informe-de-suscripciones",
-                    "pt": "entendendo-o-relatorio-de-assinaturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How subscriptions work",
+                "es": "Cómo funciona Suscripciones",
+                "pt": "Como funciona a assinatura"
+              },
+              "slug": {
+                "en": "how-subscriptions-work",
+                "es": "como-funciona-suscripciones",
+                "pt": "como-funciona-a-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to configure Subscriptions in your store",
+                "es": "Cómo configurar Suscripciones en su tienda",
+                "pt": "Como configurar Assinaturas na sua loja"
+              },
+              "slug": {
+                "en": "how-to-configure-subscriptions",
+                "es": "como-configurar-suscripciones",
+                "pt": "como-configurar-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to create a subscription attachment via the Catalog module",
+                "es": "Cómo crear un anexo de suscripción en el módulo Catálogo",
+                "pt": "Como criar um anexo de assinatura pelo módulo Catálogo"
+              },
+              "slug": {
+                "en": "how-to-create-a-subscription-attachment-via-the-catalog-module",
+                "es": "como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo",
+                "pt": "como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "How to manage Subscriptions",
+                "es": "Cómo Gestionar Suscripciones",
+                "pt": "Como gerenciar Assinaturas"
+              },
+              "slug": {
+                "en": "how-to-manage-subscriptions",
+                "es": "como-gestionar-suscripciones",
+                "pt": "como-gerenciar-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pickup points for subscription orders",
+                "es": "Puntos de recogida para pedidos de suscripción",
+                "pt": "Pontos de retirada para pedidos de assinatura"
+              },
+              "slug": {
+                "en": "pickup-points-for-subscription-orders",
+                "es": "puntos-de-recogida-para-pedidos-de-suscripcion",
+                "pt": "pontos-de-retirada-para-pedidos-de-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Subscription plans",
+                "es": "Planes de suscripción",
+                "pt": "Planos de assinatura"
+              },
+              "slug": {
+                "en": "subscription-plans",
+                "es": "planes-de-suscripcion",
+                "pt": "planos-de-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Subscriptions: FAQ",
+                "es": "Suscripciones: FAQ",
+                "pt": "Assinaturas: FAQ"
+              },
+              "slug": {
+                "en": "subscriptions-faq",
+                "es": "suscripciones-faq",
+                "pt": "assinaturas-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactional emails for subscriptions orders",
+                "es": "Correos electrónicos transaccionales para pedidos de suscripciones",
+                "pt": "Emails transacionais para pedidos de assinaturas"
+              },
+              "slug": {
+                "en": "transactional-emails-for-subscriptions-orders",
+                "es": "correos-electronicos-transaccionales-para-pedidos-de-suscripciones",
+                "pt": "emails-transacionais-para-pedidos-de-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Troubleshooting errors in subscription orders",
+                "es": "Cómo solucionar errores en pedidos de suscripción",
+                "pt": "Como solucionar erros em pedidos de assinaturas"
+              },
+              "slug": {
+                "en": "troubleshooting-errors-in-subscription-orders",
+                "es": "como-solucionar-errores-en-pedidos-de-suscripcion",
+                "pt": "como-solucionar-erros-em-pedidos-de-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Understanding the subscription report",
+                "es": "Descripción del informe de suscripciones",
+                "pt": "Entendendo o relatório de assinaturas"
+              },
+              "slug": {
+                "en": "understanding-the-subscription-report",
+                "es": "descripcion-del-informe-de-suscripciones",
+                "pt": "entendendo-o-relatorio-de-assinaturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
