@@ -69,7 +69,7 @@ Las unidades hijas heredan las condiciones comerciales definidas en el contrato.
 
 Para más información sobre configuración y gestión de contratos consulta:
 
-- [Contratos B2B](https://help.vtex.com/docs/tutorials/contratos-b2b-es)
+- [Contratos B2B](https://help.vtex.com/es/docs/tutorials/contratos-b2b)
 
 ## Configuración por unidad organizativa
 

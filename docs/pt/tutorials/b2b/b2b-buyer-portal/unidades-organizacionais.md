@@ -75,18 +75,18 @@ Para entender como contratos são configurados e gerenciados, consulte:
 
 Mesmo compartilhando o mesmo contrato, cada unidade pode operar com regras próprias. Entre as configurações que podem variar por unidade organizacional estão:
 
-* Sortimento de produtos visíveis  
-* Métodos e condições de pagamento  
-* Endereços de entrega e faturamento  
-* Campos customizáveis no checkout  
+* Sortimento de produtos visíveis
+* Métodos e condições de pagamento
+* Endereços de entrega e faturamento
+* Campos customizáveis no checkout
 * Regras de aprovação de pedidos
 
 Essa segmentação permite alinhar a operação da loja às políticas internas da empresa compradora.
 
 Saiba mais na documentação a seguir:
 
-* [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies-overview)  
-* [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)  
+* [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)
+* [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)
 * [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout)
 
 ## Usuários de unidades organizacionais
@@ -100,7 +100,7 @@ O escopo de atuação do usuário membro de uma unidade organizacional em uma lo
 * **Unidades organizacionais**, que determinam o grupo em que o usuário está contido.
 * **Perfis de acesso do storefront**, que definem o papel do usuário na organização reunindo determinadas permissões para realizar ações na frente de loja.
 
-Saiba mais em [Membros da organização compradora](https://help.vtex.com/docs/tutorials/membros-da-organizacao-compradora).
+Saiba mais em [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 
 ## Experiência de compra
 
@@ -108,8 +108,8 @@ As unidades organizacionais garantem que a experiência de navegação reflita a
 
 Cada área da empresa opera com:
 
-* Regras comerciais adequadas  
-* Permissões compatíveis com seu papel  
+* Regras comerciais adequadas
+* Permissões compatíveis com seu papel
 * Governança e autonomia
 
 Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.

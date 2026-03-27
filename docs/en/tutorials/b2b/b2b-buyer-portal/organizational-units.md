@@ -100,7 +100,7 @@ A user's scope of action within an organizational unit in a B2B store is defined
 - **Organizational units**, which determine the group the user belongs to.
 - **Storefront roles**, which define the user's role in the organization by gathering certain permissions to perform actions in the storefront.
 
-Learn more in [Buyer organization members](https://help.vtex.com/docs/tutorials/membros-da-organizacao-compradora).
+Learn more in [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 
 ## Shopping experience
 
