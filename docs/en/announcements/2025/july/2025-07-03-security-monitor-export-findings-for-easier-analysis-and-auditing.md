@@ -13,6 +13,9 @@ locale: en
 legacySlug: security-monitor-export-findings-for-easier-analysis-and-auditing
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Export findings from Security Monitor directly from the interface to facilitate risk monitoring.'
+tags:
+  - New feature
+  - VTEX Shield
 ---
 
 You can now export findings from [Security Monitor](/en/docs/tutorials/security-monitor) to a CSV file. With this new feature, merchants have more control to record, share, and further analyze security risks detected in their accounts.

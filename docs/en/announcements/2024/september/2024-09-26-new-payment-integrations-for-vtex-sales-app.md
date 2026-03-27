@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-payment-integrations-for-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Check out the two new payment integrations available in the VTEX Sales App'
+tags:
+  - New feature
+  - VTEX Sales App
+  - Payments
 ---
 
 To improve the operations of VTEX Sales App in your store, VTEX has made two new payment integration options available: __Cielo__ and __Mercado Pago__.

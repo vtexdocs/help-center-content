@@ -1,9 +1,9 @@
 ---
-title: 'Registar Colecciones (Beta)'
+title: 'Registrar Colecciones (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
 status: PUBLISHED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2025-04-14T19:31:23.563Z
+updatedAt: 2026-03-02T14:42:29.232Z
 publishedAt: 2025-04-14T19:31:23.563Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
@@ -26,7 +26,7 @@ Este artículo explica cómo:
 - Crear una nueva colección.
 - Agregar y eliminar productos en la colección.
 - Alterar la posición de los ítems en la colección.
-- Exportar su colección como una plantilla. 
+- Exportar su colección como una plantilla.
 - Editar y eliminar una colección.
 
 ## Requisito previo
@@ -48,7 +48,7 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 
 ### Campos de registro de la colección
 
-Para entender mejor el significado de los campos de registro de una colección de productos, vea la descripción completa de cada campo a continuación: 
+Para entender mejor el significado de los campos de registro de una colección de productos, vea la descripción completa de cada campo a continuación:
 
 #### Configuración de la nueva colección
 
@@ -60,18 +60,18 @@ Para entender mejor el significado de los campos de registro de una colección d
 
 #### Programación
 
-- **Fecha de inicio:** fecha y hora de inicio de la colección. Si se configuran fecha y hora futuras, la colección quedará registrada con el status programada. 
+- **Fecha de inicio:** fecha y hora de inicio de la colección. Si se configuran fecha y hora futuras, la colección quedará registrada con el status programada.
 - **Establecer fecha final para la colección:** selección que permite configurar la fecha y la hora de finalización de la colección.  
 - **Fecha final:** fecha y hora de finalización de la colección. Este campo sólo se muestra si está activada la opción **Establecer fecha final para la colección**.
 
 #### Activar
 
 - **Agregar etiqueta de la colección:** opción para que la colección tenga una etiqueta de destaque en los productos.  
-- **Permitir que la colección se pueda buscar:** opción para que la colección pueda ser encontrada cuando se busque en la tienda. 
+- **Permitir que la colección se pueda buscar:** opción para que la colección pueda ser encontrada cuando se busque en la tienda.
 
 ### Selección de productos
 
-Los productos pueden ser agregados a través de la selección de ítems en la lista del módulo __Colecciones__ o importando una plantilla en formato CSV o XML. 
+Los productos pueden ser agregados a través de la selección de ítems en la lista del módulo __Colecciones__ o importando una plantilla en formato CSV o XML.
 
 #### Vía Admin VTEX
 
@@ -83,7 +83,7 @@ La selección de productos vía Admin VTEX se puede realizar a través de la lis
 - ID del SKU.
 - Referencia del producto.
 
-Hay una variedad de filtros que se pueden seleccionar para reducir la cantidad de productos que se muestran en la lista. 
+Hay una variedad de filtros que se pueden seleccionar para reducir la cantidad de productos que se muestran en la lista.
 
 ![Colecciones - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_1.PNG)
 
@@ -110,7 +110,7 @@ Usted también puede agregar ítems a una colección mediante una plantilla.
 
 > ℹ️ El límite máximo para la importación e exportación es de 10,000 SKUs por operación.
 
-Para eso, realice los siguientes pasos: 
+Para eso, realice los siguientes pasos:
 
   1. En el panel de su colección, haga clic en el botón `Importar`.
   2. Haga clic en la opción **Incluir productos a la colección**, y luego en el botón `Importar`.
@@ -130,7 +130,7 @@ Los productos se pueden eliminar mediante la selección de los ítems en la list
 
 #### Vía Admin VTEX
 
-Para eliminar un ítem de la colección, solo debe hacer clic en el ícono <i class="fas fa-check-circle" title = "check en círculo"></i> del producto. 
+Para eliminar un ítem de la colección, solo debe hacer clic en el ícono <i class="fas fa-check-circle" title = "check en círculo"></i> del producto.
 
 ![ES-colecao-remover](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_7.gif)
 
@@ -154,16 +154,16 @@ Usted puede excluir los ítems de una colección mediante una plantilla. Para es
 
 ### Alterar el orden de la colección
 
-Para alterar el orden de su colección, siga estos pasos: 
+Para alterar el orden de su colección, siga estos pasos:
 
 1. En el panel de su colección, haga clic en la pestaña **Mi colección**.
-2. Se puede cambiar la posición de los ítems de dos formas: 
+2. Se puede cambiar la posición de los ítems de dos formas:
 
   a. Haga clic en el ícono <i class="fas fa-grip-vertical" title = "arrastrar vertical"></i>, arrastre y suelte el ítem de acuerdo con la posición deseada.
 
   > ℹ️ No se puede utilizar esta opción si un filtro está activo.
 
-  b. Seleccione la caja de los productos que desea alterar y haga clic en `Mover a la posición`. Indique el número de la nueva posición y, para finalizar, haga clic en `Mover`. De esta manera, puede ordenar todos los ítems de la lista de forma masiva. 
+  b. Seleccione la caja de los productos que desea alterar y haga clic en `Mover a la posición`. Indique el número de la nueva posición y, para finalizar, haga clic en `Mover`. De esta manera, puede ordenar todos los ítems de la lista de forma masiva.
 
 ![mover-colecao-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_9.png)
 
@@ -180,7 +180,7 @@ Usted puede tener acceso a todos los productos de su colección a través de una
 
 Para eliminar una colección, haga clic en el ícono <i class="fas fa-trash-alt" title = "papelera"></i> en la lista de colecciones. Si desea editar una colección, siga estos pasos:
 
-1. Seleccione la colección que desea editar. 
+1. Seleccione la colección que desea editar.
 2. Haga clic en el botón `Configuración de la colección`.
 3. Realice las alteraciones que desee.
 4. Haga clic en `Guardar`.
@@ -192,4 +192,3 @@ Las colecciones pueden tener los siguientes status:
 - **Activa**: una colección está activa cuando su fecha de inicio es anterior o igual a la fecha actual, y su fecha de finalización es posterior a la fecha actual.
 - **Inactiva**: una colección está inactiva cuando su fecha de finalización es anterior a la fecha actual.
 - **Programada**: una colección está programada cuando su fecha de inicio es posterior a la fecha actual.
-

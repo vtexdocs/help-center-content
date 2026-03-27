@@ -13,6 +13,9 @@ locale: pt
 legacySlug: migracao-do-catalogo-google
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Realize a integração com o Google Shopping sem perder a relevância dos seus anúncios.'
+tags:
+  - Nova funcionalidade
+  - Integrações
 ---
 
 Desenvolvemos a funcionalidade de **Migração do catálogo Google** para mapear e realizar match entre os produtos do seller no catálogo VTEX e os anúncios do seller no Google shopping.

@@ -6,10 +6,11 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
 
 - [In this repository](#in-this-repository)
 - [Managing Help Center documentation](#managing-help-center-documentation)
+  - [Filling in front matter information](#filling-in-front-matter-information)
+  - [Applying filters to an announcement](#applying-filters-to-an-announcement)
   - [Publishing a new article](#publishing-a-new-article)
     - [Adding images](#adding-images)
     - [Adding a download file to the article](#adding-a-download-file-to-the-article)
-    - [Filling in front matter information](#filling-in-front-matter-information)
   - [Updating a published article](#updating-a-published-article)
   - [Creating a redirect](#creating-a-redirect)
   - [Settings for specific content](#settings-for-specific-content)
@@ -17,19 +18,16 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
   - [Navigation Generation](#navigation-generation)
   - [Broken Page Finder](#broken-page-finder)
   - [Changelog Generation](#changelog-generation)
-  - [Retrieve Docs from Contentful](#retrieve-docs-from-contentful)
 
 ## In this repository
 
 You will find the following folders in this repository:
 
-- **.github/workflows**: Workflows needed to migrate content from Contentful to this repository.
+- **.github/workflows**: Workflows needed to manage the content of this repository.
 - **docs-utils**: Scripts used to perform adjustments to documentation imported from Contentful.
 - **docs**: Documentation files. Contains subfolders corresponding to each locale (PT, EN, and ES), and within each of them, the following categories:
-
   - **announcements**: Announcement markdown files.
   - **faq**: FAQ markdown files.
-  - **known-issues**: Known issues markdown files.
   - **tracks**: Tracks markdown files.
   - **troubleshooting**: Troubleshooting markdown files.
   - **tutorials**: Tutorials markdown files.
@@ -39,10 +37,137 @@ You will find the following folders in this repository:
 
 In this document we will address the following topics related to the Help Center Portal:
 
+- [Filling in front matter information](#filling-in-front-matter-information)
+- [Applying filters to an announcement](#applying-filters-to-an-announcement)
 - [Publishing new articles](#publishing-a-new-article)
 - [Updating published articles](#updating-a-published-article)
 - [Creating redirects](#creating-a-redirect)
 - [Settings for specific content](#settings-for-specific-content)
+
+### Filling in front matter information
+
+The front matter is the table with metadata about the article you are creating. It contains the following fields:
+
+- **title:** Article title with single quotes. E.g. 'Adding SKU specifications or fields'
+- **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **updatedAt:** Update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **contentType:** Content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
+- **productTeam:** Name of the module to which the article is related.
+- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
+- **locale:** Article language (`pt`, `en`, or `es`).
+- **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
+
+In addition to the standard fields for all articles, check the specific fields for each type of article below:
+
+#### Announcements fields
+
+- **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
+- **author:** Technical writer ID in Contentful.
+- **tags**: filters tags of the announcement type (e.g. `New feature`, `Breaking change`) and area(s) (e.g. `Orders`, `Promotions`, `Storefront`, etc). For more information see the section [Applying filters to an announcement](#applying-filters-to-an-announcement).
+
+#### Track fields
+
+- **trackId**: Track article identification.
+- **trackSlugEN**: Track slug identification.
+
+#### Troubleshooting fields
+
+- **tags**: Troubleshooting tag information. This field must be filled in with keywords related to the problem, separated by a comma, the first letter in capital letters, and in the same location as the article (e.g. Catalog, Index, Product, SKU, Trade policy).
+
+### Applying filters to an announcement
+
+The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and **Area**. This is made by adding the applicable filtering values to the announcement [front matter](#filling-in-front-matter-information), in the `tags` field.
+
+#### Type filters
+
+These filters are displayed in the UI in the announcements card, above the title. Each announcement must have one Type filter.
+
+The existing values and their context are:
+
+| Type EN | Tipo PT | Tipo ES | Description |
+| :--- | :--- | :--- | :--- |
+| `New feature` | `Nova funcionalidade` | `Nueva funcionalidad` | New functionality, modules, or capabilities. |
+| `Improvement` | `Melhoria` | `Mejora` | Enhancements, optimizations, UX improvements. |
+| `Breaking change` | `Breaking change` | `Cambio disruptivo` | Platform behavior modifications requiring action. |
+| `Deprecation` | `Descontinuação` | `Descontinuación` | Discontinued features and products. |
+| `Security update` | `Atualização de segurança` | `Actualización de seguridad` | Security updates, compliance, vulnerability fixes. |
+
+#### Area filters
+
+These filters don't appear in the UI. Each announcement should have at least one Area filter, you can add as many as you need.
+
+The existing values and their context are:
+
+| Area EN | Área PT | Área ES | Description |
+| :--- | :--- | :--- | :--- |
+| **Admin** | **Admin** | **Admin** | VTEX Admin. |
+| **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality. |
+| **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications. |
+| **Payments** | **Pagamentos** | **Pagos** | Gateway, Payment Provider Protocol, payment methods. |
+| **Orders** | **Pedidos** | **Pedidos** | Order Management System (OMS), order processing. |
+| **Promotions** | **Promoções** | **Promociones** | Discounts, coupons, campaigns, pricing rules. |
+| **Prices** | **Preços** | **Precios** | Price tables, fixed prices, computed prices, price rules. |
+| **Marketplace** | **Marketplace** | **Marketplace** | Marketplace Network, integration, seller, channels. |
+| **Intelligent Search** | **Intelligent Search** | **Intelligent Search** | Search functionality, merchandising rules. |
+| **Storefront** | **Storefront** | **Storefront** | Store Framework, FastStore, Site Editor, CMS Portal (Legacy). |
+| **Master Data** | **Master Data** | **Master Data** | Data entities, triggers, customer data. |
+| **Audit** | **Audit** | **Audit** | Audit. |
+| **Identity** | **Identity** | **Identity** | License Manager, permissions, authentication. |
+| **Logistics** | **Logística** | **Logística** | Shipping, inventory, fulfillment. |
+| **B2B** | **B2B** | **B2B** | B2B Suit, buyer organizations, cost centers. |
+| **Integrations** | **Integrações** | **Integraciones** | Third-party connectors. |
+| **VTEX Shield** | **VTEX Shield** | **VTEX Shield** | VTEX Shield news. |
+| **VTEX Ads** | **VTEX Ads** | **VTEX Ads** | VTEX Ads news. |
+| **B2B Buyer Portal** | **B2B Buyer Portal** | **B2B Buyer Portal** | B2B Buyer Portal news. |
+| **VTEX Sales App** | **VTEX Sales App** | **VTEX Sales App** | VTEX Sales App news. |
+
+> ℹ️ If you wish to add or remove a filter value, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
+
+##### Example of filters in the front matter
+
+See below an example of filters applied to an announcement front matter for each locale:
+
+English:
+
+```md
+---
+title: 'General availability of new catalog spreadsheet import and export experience'
+(...)
+locale: en
+announcementSynopsisEN: 'The redesigned interface offers export using filters and status tracking.'
+tags:
+  - New feature
+  - Catalog
+---
+```
+
+Portuguese:
+
+```md
+---
+title: 'Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global'
+(...)
+locale: pt
+announcementSynopsisPT: 'Interface redesenhada que oferece exportação por filtros e acompanhamento de status.'
+tags:
+  - Nova funcionalidade
+  - Catálogo
+---
+```
+
+Spanish:
+
+```md
+---
+title: 'Nueva experiencia de importación y exportación de plantillas del módulo Catálogo con disponibilidad general'
+(...)
+locale: es
+announcementSynopsisES: 'La interfaz rediseñada ofrece exportación por filtros y seguimiento del status.'
+tags:
+  - Nueva funcionalidad
+  - Catálogo
+---
+```
 
 ### Publishing a new article
 
@@ -52,39 +177,37 @@ Follow the steps below to create a new article in the Help Center:
 2. Add a new file in the [desired folder](#in-this-repository), and write the content of the article according to the [Template --> TBD](https://github.com/vtexdocs/dev-portal-content/blob/main/templates/guide_template.md).
     > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article slug.
 
-3. [Add images](#adding-an-image-to-the-article) to the article, if necessary.
-3. Fill in the [front matter](#filling-in-front-matter-information) of the article.
-4. Submit your PR for review on GitHub.
-5. Send the PR link in the `#dev-portal-pr` Slack channel for review by another technical writer.
-6. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
-7. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
-8. Approve the PR and apply the merge to publish the article.
-9. Follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#navigation-sidebar) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository to update the portal navigation sidebar, adding the link for the newly published article.
+3. [Add images](#adding-images) to the article, if necessary.
+4. Fill in the [front matter](#filling-in-front-matter-information) of the article.
+5. Submit your PR for review on GitHub.
+6. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
+7. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
+8. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-images) to insert them into the EN and ES versions.
+9. Approve the PR and apply the merge to publish the article.
 
-    >ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository only stores our documentation, it is not automatically synched to be rendered in the Help Center - yet. For now, when a new content is added to it, it is just included in the desired folder. For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
+> ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository is synched to the `helpcenter` repository, so new articles are automatically updated in the Help Center portal's navigation sidebar.
 
 #### Adding images
 
-If you need to use images to help the user understand procedures more easily, follow the steps below to insert them into an article:
+In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
+
+To insert an image to an article follow the steps below:
 
 1. Access the folder where the article is located within the repository.
-2. Save the image inside this folder, naming it according to the markdown file name and slug. For instance, if the article file name and slug is "how-to-create-a-catalog-category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
+2. Save the image (respecting the [maximum image size](#maximum-image-size)) inside this folder, naming it according to the markdown file name and slug. For instance, if the article file name and slug is "how-to-create-a-catalog-category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
 
     > ℹ️ If the article has more than one image, they must be named in numerical sequence. For instance, `how-to-create-a-catalog-category_1.png`, `how-to-create-a-catalog-category_2.png`.
 
 3. Open the article and add `![{{Image name}}](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/{{path}}/{{image-slug-name}})`, replacing:
+    - `{{Image name}}` by an image identification name of your choice
+    - `{{path}}` by the path where you saved the image
+    - `{{image-slug-name}}` by the image slug name
 
-  - `{{Image name}}` by an image identification name of your choice
-  - `{{path}}` by the path where you saved the image
-  - `{{image-slug-name}}` by the image slug name
+Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\b2b\b2b-suite\visao-geral\b2b-suite-visao-geral_1.gif)`.
 
-Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Overview/b2b-suite-visao-geral_1.gif)`.
-
-   >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
+   > ⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
 ##### Maximum image size
-
-In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
 To ensure efficient page load times and adhere to [GitHub space storage best practices](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github), we set a maximum file size limit of **50 MB**.
 
@@ -121,41 +244,6 @@ If you wish to provide a downloadable file directly within your article (such a 
 ![Main branch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/readme-images/readme-download-illustration-5.png)
 
 8. Submit your PR for review.
-
-#### Filling in front matter information
-
-The front matter is the table with metadata about the article you are creating. It contains the following fields:
-
-- **title:** Article title with single quotes. E.g. 'Adding SKU specifications or fields'
-- **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **updatedAt:** Update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **contentType:** Content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
-- **productTeam:** Name of the module to which the article is related.
-- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
-- **locale:** Article language (`pt`, `en`, or `es`).
-- **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
-
-In addition to the standard fields for all articles, check the specific fields for each type of article below:
-
-##### Announcements fields
-
-- **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
-- **author:** Technical writer ID in Contentful.
-
-##### Known issue fields
-
-- **tag**: Name of the module to which the known issue is related (e.g., `B2B`, `Catalog`, `Identity`, etc).
-- **kiStatus**: Known issue status (e.g., `Backlog`,`Fixed`, `No Fix`, `Open`).
-- **internalReference**: Known issue Zendesk ID.
-
-##### Track fields
-
-- **trackId**: Track article identification.
-- **trackSlugEN**: Track slug identification.
-
-##### Troubleshooting fields
-
-- **tags**: Troubleshooting tag information. This field must be filled in with keywords related to the problem, separated by a comma, the first letter in capital letters, and in the same location as the article (e.g. Catalog, Index, Product, SKU, Trade policy).
 
 ### Updating a published article
 
@@ -311,20 +399,3 @@ This repository uses GitHub Actions for automating various tasks related to cont
   - Function: Sets up Node.js environment (version 20)
 - standard-version (npm package)
   - Function: Generates changelogs and manages versioning
-
-### Retrieve Docs from Contentful
-
-**Source**: `.github/workflows/retrieve-docs.yml`
-
-**Summary**: This workflow fetches documentation from Contentful and updates the repository content, creating a pull request with the changes.
-
-**Trigger Conditions**:
-- Manual trigger (workflow_dispatch)
-
-**Dependencies**:
-- actions/checkout@v3
-  - Function: Checks out the repository code
-- actions/setup-node@v2
-  - Function: Sets up Node.js environment (version 18)
-- peter-evans/create-pull-request@v3
-  - Function: Creates a pull request with the updated documentation

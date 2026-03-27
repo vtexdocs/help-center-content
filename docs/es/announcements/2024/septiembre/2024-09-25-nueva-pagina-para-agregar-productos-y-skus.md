@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-pagina-para-agregar-productos-y-skus
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Vea las mejoras en la experiencia para agregar, ver y editar productos y SKUs.'
+tags:
+  - Nueva funcionalidad
+  - Catálogo
 ---
 
 La página de detalles de productos y SKUs ha sido rediseñada con el objetivo de optimizar tu experiencia para agregar, ver y editar productos y SKUs. La nueva página está disponible en beta.

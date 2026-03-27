@@ -38,7 +38,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 2. Em **Filtros**, no menu **Aplicação**, selecione a aplicação relacionada à busca.
 3. No menu **Data**, escolha uma data pré-definida para a busca. Se preferir definir o exato intervalo de datas para a busca, ative a opção **Personalizada** e determine as datas de **Início** e **Fim** para a busca.
 
-   > ℹ️ Apenas registros dos últimos três meses são armazenados.
+   > ℹ️ Apenas registros dos últimos três meses podem ser pesquisados. Se precisar de dados mais antigos, abra um [chamado de suporte](https://help.vtex.com/pt/support).
 
 4. Se desejar, inclua um filtro por Ação. Para isso, no campo ao lado de `Ação deve ser`, digite o nome da ação e tecle `Enter`. Você pode inserir mais de um valor teclando `Enter` após cada seleção. Confira o nome de cada ação em [Eventos disponíveis no Audit](/pt/docs/tutorials/eventos-disponiveis-no-audit).
 5. Se necessário, você pode adicionar filtros mais específicos para realizar a busca por eventos com mais precisão. Para isso, clique no botão `Adicionar Filtro`.
@@ -79,7 +79,7 @@ Ao fazer uma consulta, após aplicar os filtros, o botão <i class="fas fa-arrow
 
 Clique em <i class="fas fa-arrow-down" aria-hidden="true"></i> `Exportar para CSV` para enviar o arquivo com os eventos. O email será enviado para o endereço que está atualmente em uso no Admin VTEX.
 
->ℹ️ O arquivo exportado pode demorar em torno de 20 minutos para ser enviado por email.
+> ℹ️ O arquivo exportado pode demorar em torno de 20 minutos para ser enviado por email.
 
 Veja o exemplo de arquivo que será exportado:
 
@@ -91,7 +91,9 @@ catalog,catalog,admin@example.com,Category,2025-10-28T21:01:01.166Z,catalog-upda
 pricing,pricing,pricing-bot@example.com,Price,2025-10-28T21:01:01.167Z,,,2025-10-28T21:01:01.167Z
 ```
 
->ℹ️ Apenas uma exportação de eventos é realizada por vez. Você deve aguardar o recebimento do email com o arquivo CSV para realizar uma nova exportação de eventos.
+> ⚠️ Os eventos das seguintes aplicações não podem ser exportados: OMS, Catálogo (API), Catálogo (Admin), Assinaturas, Portal CMS e Portal.
+
+> ℹ️ Apenas uma exportação de eventos é realizada por vez. Você deve aguardar o recebimento do email com o arquivo CSV para realizar uma nova exportação de eventos.
 
 ### Exemplos de buscas
 

@@ -13,6 +13,9 @@ locale: pt
 legacySlug: black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Siga nossas recomendações e dicas exclusivas para aproveitar todas as oportunidades de venda da Black Friday.'
+tags:
+  - Atualização de segurança
+  - Admin
 ---
 
 A __Black Friday__ já está chegando. A data oficial este ano é __29 de novembro__, mas muitas lojas vão começar a fazer campanhas promocionais com bastante antecedência. Por isso, para aproveitar ao máximo todas as oportunidades de uma das principais datas do varejo, é bom começar logo a se preparar.

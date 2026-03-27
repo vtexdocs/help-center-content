@@ -13,6 +13,10 @@ locale: pt
 legacySlug: mercado-livre-feriados
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Configure feriados na integração com Mercado Livre'
+tags:
+  - Melhoria
+  - Marketplace
+  - Integrações
 ---
 
 Desenvolvemos essa funcionalidade para permitir que lojas VTEX configurem feriados e dias não úteis em sua integração com o Mercado Livre. Isso garante que os prazos informados aos clientes estejam sempre corretos e alinhados com a operação da loja.

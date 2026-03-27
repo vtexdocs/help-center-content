@@ -53,19 +53,28 @@ To create a delivery option, follow the steps below:
 2. Click `Create delivery option`.
 3. Complete the form fields:
   ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
+
+    ### Basic information
+
     - **Shipping method:** Select the shipping method (**delivery**, **scheduled delivery**, **pickup**, **scheduled pickup**).
     - **Option name:** Enter the name of the option the customer will see when purchasing.
-    - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using[ Intelligent Search filters](/en/docs/tutorials/filters).
-
-   - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using [Intelligent Search filters](https://help.vtex.com/docs/tutorials/filters).
+    - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using [Intelligent Search filters](https://help.vtex.com/docs/tutorials/filters).
 
    > ⚠️ Shipping method filters will only be displayed on the product listing page to the customer if this option is enabled. If disabled, the filters won't be displayed.
+
+   ### Delivery target 
 
    - **Target format**: Select the time unit (**Days** or **Hours**) to be used for shipping.
    - **Condition**: Define the condition (**From**, **Up to**, **Between**) for the delivery target.
    - **Minimum target:** Minimum number of hours or days for the delivery option time frame.
    - **Maximum target:** Maximum number of hours or days for the delivery option time frame.
+
+   ### Delivery zones
+  
    - **Delivery zones**: Click the `+ Add zones` button, then select the zones you want served by the delivery option. You can search for a delivery zone using the search bar. Click `Save` to close the window.
+
+   ### Delivery pricing
+  
    - **Pricing**: Pricing conditions of the delivery option. The pricing models applied to each segmentation are: **Fixed amount**, a single price applied to all carts; **Markup**, a profit percentage added to the shipping amount; and **Cost pass-through**, where the store bears the cost of the delivery option. You can combine pricing options. The pricing conditions are defined based on the following segmentations:
      - **All carts**: The price will be applied to all carts created in the store.
      - **Sales channels**: The price will be applied to a specific sales channel.

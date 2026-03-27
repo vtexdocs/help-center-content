@@ -3,7 +3,7 @@ title: 'Configuring cash payments through VTEX Sales App'
 id: 4ye3bIWldaHJxGTgAziBZo
 status: PUBLISHED
 createdAt: 2020-06-28T16:04:36.122Z
-updatedAt: 2025-11-12T15:48:30.288Z
+updatedAt: 2026-03-25T15:48:30.288Z
 publishedAt: 2023-05-31T15:48:30.288Z
 firstPublishedAt: 2020-06-28T16:19:11.591Z
 contentType: trackArticle
@@ -36,7 +36,7 @@ Now we will create the payment condition.
 1. Still on the **Settings** page of the **Payments** module in the VTEX Admin, click on the **Payment conditions** tab.
 2. Click on the green button with the `+` icon to add a new condition, as shown below.
 
-![en-add-payment-condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-payments/configuring-cash-payments-through-instore_1.png)
+![en-add-payment-condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-sales-app-payments/configuring-cash-payments-through-instore_1.png)
 
 3. In the **Custom payment** section, select the **Cash** option you have created.
 4. Enter a name for this payment condition, change the status to **Active**, and in the **Process with affiliation** field, select the custom payment you created in the previous step.

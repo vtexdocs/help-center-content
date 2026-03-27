@@ -27,4 +27,4 @@ Instead of analyzing individual penetration test requests from customers, we now
 
 This is provided upon request, free of charge, by [opening a ticket to VTEX support](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
-> ⚠️ Please note that our [Master Services Agreement (MSA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) expressly forbids performing penetration tests against the VTEX platform without our prior written consent. Doing so without our authorization would constitute a breach of contract by the customer.
+> ⚠️ Please note that our [Master Services Agreement (MSA)](https://vtex.com/us-en/trust/agreements) expressly forbids performing penetration tests against the VTEX platform without our prior written consent. Doing so without our authorization would constitute a breach of contract by the customer.

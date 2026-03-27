@@ -12,7 +12,7 @@ Budget management allows B2B organizations to plan, allocate, and track their ex
 
 A budget can be subdivided into multiple allocations, and all value movements — such as debits, credits, and refunds — update these balances according to their rules. The feature is designed to support flows in which budgets and allocations are created, balances are consumed by transactions or temporary reservations, and statements are later used to reconcile financial activity over time.
 
->⚠️ The Budgets feature is only available for B2B Buyer Portal. Authorization from the Commerce Engineer of the account is required for usage.
+> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
 ## Key concepts
 

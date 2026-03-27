@@ -13,6 +13,9 @@ locale: pt
 legacySlug: mudancas-na-politica-de-atendimento-do-suporte-vtex
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Agora, o canal principal para abrir um chamado é a VTEX Community.'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 A dinâmica do Suporte VTEX passou por transformações com a transição do canal de atendimento. Agora, a [VTEX Community](https://community.vtex.com/) passa a ser o canal principal de suporte na maioria dos casos.

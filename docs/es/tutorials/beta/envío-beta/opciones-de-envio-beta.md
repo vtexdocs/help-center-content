@@ -54,18 +54,27 @@ Para crear una nueva opción de envío sigue los pasos a continuación:
 3. Completa los campos del formulario:
    ![delivery-options-form-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_2.png)
 
-   - **Método de envío:** selecciona el método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
+   ### Información general
 
+   - **Método de envío:** selecciona el método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
    - **Nombre de la opción:** ingresa el nombre de la opción que se mostrará al cliente durante la compra.
    - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/docs/tutorials/filtros).
 
    > ⚠️ Los filtros de métodos de envío solo se mostrarán al cliente en la lista de productos si esta opción está activada. Si está desactivada, los filtros no se mostrarán.
 
+   ### Meta de entrega
+
    - **Formato de la meta**: selecciona la unidad de tiempo (**Días** u **Horas**) que se debe utilizar para la entrega.
    - **Condición**: define la condición (**Listo en**, **En hasta**, **Entre**) del plazo de la opción de envío.
    - **Meta mínima:** cantidad mínima de horas o días para el plazo de la opción de envío.
    - **Meta máxima:** cantidad máxima de horas o días para el plazo de la opción de envío.
-   - **Zonas de entrega**: haz clic en el botón `+ Agregar zonas` y selecciona las zonas de envío que quieres que sean atendidas por la opción de envío. Puedes buscar por zona de envío utilizando la barra de búsqueda. Haz clic en `Guardar` para cerrar la ventana.
+
+   ### Zonas de envío
+
+   - **Zonas de envío**: haz clic en el botón `+ Agregar zonas` y selecciona las zonas de envío que quieres que sean atendidas por la opción de envío. Puedes buscar por zona de envío utilizando la barra de búsqueda. Haz clic en `Guardar` para cerrar la ventana.
+
+   ### Precios de envío
+   
    - **Precios**: condiciones de precios de la opción de envío. Los modelos de precios aplicados en cada segmentación son: **Valor fijo** para aplicar un mismo precio a todos los carritos, **Markup**, o porcentaje de ganancia sobre el valor del envío, y **Transferencia de costo**, cuando la tienda asume el costo de la opción de envío. Puedes combinar las opciones de precios. Las condiciones de precios se definen según las siguientes segmentaciones:
      - **Todos los carritos**: el precio se aplicará a todos los carritos creados en la tienda.
      - **Políticas comerciales**: el precio se aplicará a una determinada política comercial.

@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevo-proceso-para-solicitar-la-eliminacion-de-datos-personales-via-copilot
 announcementImageID: 'undefined'
 announcementSynopsisES: 'A partir del 9 de abril, los retailers podrán solicitar la eliminación de datos de clientes directamente vía Copilot.'
+tags:
+  - Mejora
+  - Identity
 ---
 
 A partir del **09 de abril de 2025**, los retailers pueden solicitar la eliminación de los datos personales del cliente abriendo un ticket a través de Copilot. Esta nueva funcionalidad se desarrolló para agilizar y facilitar la gestión de solicitudes de eliminación, en cumplimiento con la LGPD (Ley General de Protección de Datos de Brasil) y el RGPD (Reglamento General de Protección de Datos de la Unión Europea).

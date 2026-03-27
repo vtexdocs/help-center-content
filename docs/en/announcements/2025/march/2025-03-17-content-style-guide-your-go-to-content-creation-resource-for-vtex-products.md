@@ -13,6 +13,9 @@ locale: en
 legacySlug: content-style-guide-your-go-to-content-creation-resource-for-vtex-products
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Create consistent VTEX product content with the Content Style Guide.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 In ecommerce, written content is more than words. It’s a crucial part of the customer experience. From product descriptions and help articles to interface labels, well-crafted product content helps merchants connect with customers, build trust, and drive sales. For everyone in the VTEX ecosystem — including employees, and partners — creating clear, consistent, and user-friendly content is key to unlocking the full potential of VTEX products.

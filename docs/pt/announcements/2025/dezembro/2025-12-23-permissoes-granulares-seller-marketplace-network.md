@@ -12,6 +12,10 @@ locale: pt
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Novo modelo de permissões granulares para Seller Register e Marketplace Network exige atualização de perfis de acesso.'
+tags:
+  - Melhoria
+  - Marketplace
+  - Identity
 ---
 
 Implementamos um novo modelo de validação de permissões explícitas para os serviços de Seller e Marketplace Network, oferecendo maior controle e segurança sobre quem pode visualizar e editar dados de sellers na sua operação. Esta mudança está disponível para todos os usuários da plataforma VTEX.

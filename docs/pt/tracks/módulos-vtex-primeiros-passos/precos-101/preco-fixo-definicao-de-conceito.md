@@ -3,12 +3,12 @@ title: 'Preço Fixo - Definição de conceito'
 id: 3HxF2u5VwidqnUGnFoKdDy
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:27.780Z
-updatedAt: 2021-05-26T17:20:58.165Z
+updatedAt: 2026-02-24T17:20:58.165Z
 publishedAt: 2021-05-26T17:20:58.165Z
 firstPublishedAt: 2019-07-17T19:42:19.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slugEN: preco-fixo-definicao-de-conceito
+slugEN: fixed-price-concept-definition
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: precos-101
