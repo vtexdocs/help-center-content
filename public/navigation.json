@@ -16138,37 +16138,6 @@
             },
             {
               "name": {
-                "en": "Account settings",
-                "es": "Configuraciones de la cuenta",
-                "pt": "Configurações da conta"
-              },
-              "slug": {
-                "en": "account-settings-subcategory",
-                "es": "configuraciones-de-la-cuenta-subcategoria",
-                "pt": "configurações-da-conta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Account settings - Overview",
-                    "es": "Configuraciones de la cuenta - Información general",
-                    "pt": "Configurações da conta - Visão geral"
-                  },
-                  "slug": {
-                    "en": "account-settings-overview",
-                    "es": "vision-general-configuraciones-de-la-cuenta",
-                    "pt": "visao-geral-configuracoes-da-conta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Accounts",
                 "es": "Cuentas",
                 "pt": "Contas"
@@ -16590,6 +16559,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Account settings - Overview",
+                "es": "Configuraciones de la cuenta - Información general",
+                "pt": "Configurações da conta - Visão geral"
+              },
+              "slug": {
+                "en": "account-settings-overview",
+                "es": "vision-general-configuraciones-de-la-cuenta",
+                "pt": "visao-geral-configuracoes-da-conta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -16607,68 +16591,6 @@
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "Affiliates Program App",
-                "es": "Aplicación Affiliates Program",
-                "pt": "Aplicativo Affiliates Program"
-              },
-              "slug": {
-                "en": "affiliates-program-app-subcategory",
-                "es": "aplicacion-affiliates-program-subcategoria",
-                "pt": "aplicativo-affiliates-program-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Affiliates Program app",
-                    "es": "Aplicación Affiliates Program",
-                    "pt": "Aplicativo Affiliates Program"
-                  },
-                  "slug": {
-                    "en": "affiliates-program-app",
-                    "es": "aplicacion-affiliates-program",
-                    "pt": "aplicativo-affiliates-program"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Amazon MCF App",
-                "es": "Aplicación Amazon MCF",
-                "pt": "Aplicativo Amazon MCF"
-              },
-              "slug": {
-                "en": "amazon-mcf-app-subcategory",
-                "es": "aplicacion-amazon-mcf-subcategoria",
-                "pt": "aplicativo-amazon-mcf-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Amazon Multi-Channel Fulfillment (MCF) App",
-                    "es": "Aplicación Amazon Multi-Channel Fulfillment (MCF)",
-                    "pt": "Aplicativo Amazon Multi-Channel Fulfillment (MCF)"
-                  },
-                  "slug": {
-                    "en": "amazon-multi-channel-fulfillment-mcf-app",
-                    "es": "aplicacion-amazon-multi-channel-fulfillment-mcf",
-                    "pt": "aplicativo-amazon-multi-channel-fulfillment-mcf"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Apps - Overview",
@@ -16708,37 +16630,6 @@
                     "en": "canceling-payment-for-the-service-of-an-app-installed-in-my-store",
                     "es": "cancelar-el-pago-por-el-servicio-de-una-app-instalada-en-mi-tienda",
                     "pt": "cancelar-o-pagamento-pelo-servico-de-uma-app-instalada-na-minha-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Assembly Options",
-                "es": "Assembly Options",
-                "pt": "Assembly Options"
-              },
-              "slug": {
-                "en": "assembly-options-subcategory",
-                "es": "assembly-options-subcategoria",
-                "pt": "assembly-options-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Assembly Options App",
-                    "es": "Aplicación Assembly Options",
-                    "pt": "App Assembly Options"
-                  },
-                  "slug": {
-                    "en": "assembly-options-app",
-                    "es": "aplicacion-assembly-options",
-                    "pt": "app-assembly-options"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16901,65 +16792,78 @@
             },
             {
               "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
+                "en": "Affiliates Program app",
+                "es": "Aplicación Affiliates Program",
+                "pt": "Aplicativo Affiliates Program"
               },
               "slug": {
-                "en": "personal-shopper-subcategory",
-                "es": "personal-shopper-subcategoria",
-                "pt": "personal-shopper-subcategoria"
+                "en": "affiliates-program-app",
+                "es": "aplicacion-affiliates-program",
+                "pt": "aplicativo-affiliates-program"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Personal Shopper - Overview",
-                    "es": "Personal Shopper - Información general",
-                    "pt": "Personal Shopper - Visão geral"
-                  },
-                  "slug": {
-                    "en": "personal-shopper-overview",
-                    "es": "personal-shopper-vision-general",
-                    "pt": "visao-geral-do-personal-shopper"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
-                "en": "VTEX Session",
-                "es": "VTEX Session",
-                "pt": "VTEX Session"
+                "en": "Amazon Multi-Channel Fulfillment (MCF) App",
+                "es": "Aplicación Amazon Multi-Channel Fulfillment (MCF)",
+                "pt": "Aplicativo Amazon Multi-Channel Fulfillment (MCF)"
               },
               "slug": {
-                "en": "vtex-session-subcategory",
-                "es": "vtex-session-subcategoria",
-                "pt": "vtex-session-subcategoria"
+                "en": "amazon-multi-channel-fulfillment-mcf-app",
+                "es": "aplicacion-amazon-multi-channel-fulfillment-mcf",
+                "pt": "aplicativo-amazon-multi-channel-fulfillment-mcf"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Setting up price and availability of SKUs by Region",
-                    "es": "Configurar el precio y la disponibilidad de SKUs por Region",
-                    "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
-                  },
-                  "slug": {
-                    "en": "setting-up-price-and-availability-of-skus-by-region",
-                    "es": "configurar-el-precio-y-la-disponibilidad-de-skus-por-region",
-                    "pt": "configurar-preco-e-disponibilidade-de-skus-por-region"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Assembly Options App",
+                "es": "Aplicación Assembly Options",
+                "pt": "App Assembly Options"
+              },
+              "slug": {
+                "en": "assembly-options-app",
+                "es": "aplicacion-assembly-options",
+                "pt": "app-assembly-options"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Personal Shopper - Overview",
+                "es": "Personal Shopper - Información general",
+                "pt": "Personal Shopper - Visão geral"
+              },
+              "slug": {
+                "en": "personal-shopper-overview",
+                "es": "personal-shopper-vision-general",
+                "pt": "visao-geral-do-personal-shopper"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Setting up price and availability of SKUs by Region",
+                "es": "Configurar el precio y la disponibilidad de SKUs por Region",
+                "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
+              },
+              "slug": {
+                "en": "setting-up-price-and-availability-of-skus-by-region",
+                "es": "configurar-el-precio-y-la-disponibilidad-de-skus-por-region",
+                "pt": "configurar-preco-e-disponibilidade-de-skus-por-region"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -17358,13 +17262,13 @@
                 },
                 {
                   "name": {
-                    "en": "Adding or editing organizational units",
-                    "es": "Agregar o editar unidades organizativas",
+                    "en": "Adding or editing Organizational Units",
+                    "es": "Agregar o editar Organizational Units",
                     "pt": "Adicionar ou editar Organizational Units"
                   },
                   "slug": {
                     "en": "adding-or-editing-organizational-units",
-                    "es": "agregar-o-editar-unidades-organizativas",
+                    "es": "agregar-o-editar-organizational-units",
                     "pt": "adicionar-ou-editar-organizational-units"
                   },
                   "origin": "",
@@ -18642,37 +18546,6 @@
           "children": [
             {
               "name": {
-                "en": "Billing - Overview",
-                "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
-              },
-              "slug": {
-                "en": "billing-overview-subcategory",
-                "es": "facturacion-vision-general-subcategoria",
-                "pt": "faturas-visão-geral-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Billing - Overview",
-                    "es": "Facturación - Información general",
-                    "pt": "Faturas - Visão geral"
-                  },
-                  "slug": {
-                    "en": "billing-module-overview",
-                    "es": "vision-general-facturacion",
-                    "pt": "visao-geral-faturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Contracts",
                 "es": "Contratos",
                 "pt": "Contratos"
@@ -18973,6 +18846,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Billing - Overview",
+                "es": "Facturación - Información general",
+                "pt": "Faturas - Visão geral"
+              },
+              "slug": {
+                "en": "billing-module-overview",
+                "es": "vision-general-facturacion",
+                "pt": "visao-geral-faturas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -35064,7 +34952,7 @@
             "pt": "Storefront"
           },
           "slug": {
-            "en": "storefront-category-category",
+            "en": "storefront-category",
             "es": "storefront-categoria",
             "pt": "storefront-categoria"
           },
@@ -36614,7 +36502,7 @@
                 "pt": "Storefront - Visão geral"
               },
               "slug": {
-                "en": "storefront-category",
+                "en": "storefront-overview",
                 "es": "vision-general-storefront",
                 "pt": "visao-geral-storefront"
               },

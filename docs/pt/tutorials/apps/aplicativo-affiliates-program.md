@@ -19,7 +19,7 @@ subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 
 No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](/pt/docs/tutorials/o-que-e-afiliado).
 
-O aplicativo **Affiliates Program **cria uma URL específica da sua loja VTEX para os seus [afiliados cadastrados](#adicionar-afiliado). Quando o afiliado compartilha sua URL com um cliente e este realiza uma compra pelo link, o afiliado recebe uma comissão sobre a venda.
+O aplicativo **Affiliates Program** cria uma URL específica da sua loja VTEX para os seus [afiliados cadastrados](#adicionar-afiliado). Quando o afiliado compartilha sua URL com um cliente e este realiza uma compra pelo link, o afiliado recebe uma comissão sobre a venda.
 
 O aplicativo cria dois grupos de página após ser instalado em seu ambiente VTEX:
 
@@ -60,7 +60,7 @@ Após a [instalação](https://developers.vtex.com/vtex-developer-docs/docs/affi
 
 ## Gerenciamento de afiliados
 
-A página **Gerenciamento de afiliados **permite realizar as seguintes ações:
+A página **Gerenciamento de afiliados** permite realizar as seguintes ações:
 
 - [Adicionar afiliado](#adicionar-afiliado)
 - [Pesquisar afiliados](#pesquisar-afiliados)
@@ -78,7 +78,7 @@ Para criar um novo afiliado, clique no botão `Adicionar afiliado`, preencha os 
 
 ### Pesquisar afiliados
 
-Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou* Telefone. *
+Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou *Telefone.*
 
 > ⚠️ No aplicativo **Affiliates Program**, além do termo afiliado ser diferente do [conceito usual de afiliado na VTEX](/pt/docs/tutorials/o-que-e-afiliado), o `ID do Afiliado` também não corresponde ao código padrão. No aplicativo, o `ID do Afiliado` é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
 
@@ -119,7 +119,7 @@ A página **Gerenciamento de pedidos** permite realizar as seguintes ações:
 
 No topo da página, você visualiza as seguintes métricas sobre os pedidos realizados pelos links de um ou mais afiliados:
 
-- **Total de pedidos:** número total dos pedidos dos afiliados.
+- **Total de pedidos:** número total de pedidos dos afiliados.
 - **Total do pedido:** soma dos valores dos pedidos, feita a partir do preço dos itens e sem incluir os custos de envio.
 - **Total da comissão do pedido:** soma dos valores das comissões dos afiliados sobre os pedidos.
 
@@ -142,7 +142,7 @@ O aplicativo **Affiliates Program** permite que você exporte uma lista com exte
 
 > ⚠️ Para habilitar a função de exportar lista, primeiro é necessário configurar templates de email, conforme descrito no guia para desenvolvedores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates).
 
-Após a configuração, para exportar a lista basta clicar em **Exportar**, na página **Gerenciamento de Pedidos**. A seguinte mensagem de confirmação deve aparecer:
+Após a configuração, para exportar a lista, clique em **Exportar** na página **Gerenciamento de Pedidos**. A seguinte mensagem de confirmação deve aparecer:
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
