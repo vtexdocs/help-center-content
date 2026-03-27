@@ -15870,6 +15870,21 @@
             },
             {
               "name": {
+                "en": "My carrier isn’t showing at checkout",
+                "es": "My carrier isn’t showing at checkout",
+                "pt": "My carrier isn’t showing at checkout"
+              },
+              "slug": {
+                "en": "my-carrier-isnt-showing-at-checkout",
+                "es": "",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My inventory is negative",
                 "es": "Mi stock está negativo",
                 "pt": "Meu estoque está negativo"
@@ -15953,6 +15968,37 @@
                 "en": "the-order-was-split-into-packages-with-separate-deliveries",
                 "es": "el-pedido-se-dividio-en-paquetes-con-envios-separados",
                 "pt": "o-pedido-foi-dividido-em-pacotes-com-entregas-distintas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Pedidos y fulfillment",
+            "es": "Pedidos y fulfillment",
+            "pt": "Pedidos e fulfillment"
+          },
+          "slug": {
+            "en": "pedidos-y-fulfillment",
+            "es": "pedidos-y-fulfillment",
+            "pt": "pedidos-e-fulfillment"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "es": "Mi transportadora no se muestra en el checkout",
+                "pt": "Minha transportadora não aparece no Checkout",
+                "en": "Mi transportadora no se muestra en el checkout"
+              },
+              "slug": {
+                "es": "mi-transportadora-no-se-muestra-en-el-checkout",
+                "pt": "minha-transportadora-nao-aparece-no-checkout",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
