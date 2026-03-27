@@ -1,5 +1,5 @@
 ---
-title: 'Bloquear personalizaciones para identificar problemas en el frontend de la tienda'
+title: 'Cómo bloquear personalizaciones para investigar problemas en el front-end de la tienda'
 id: 5c1a4bvVK8rAvKLczhkCnY
 status: PUBLISHED
 createdAt: 2020-04-20T12:59:14.576Z
