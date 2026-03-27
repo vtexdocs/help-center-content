@@ -15870,21 +15870,6 @@
             },
             {
               "name": {
-                "en": "My carrier isn’t showing at checkout",
-                "es": "My carrier isn’t showing at checkout",
-                "pt": "My carrier isn’t showing at checkout"
-              },
-              "slug": {
-                "en": "my-carrier-isnt-showing-at-checkout",
-                "es": "",
-                "pt": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "My inventory is negative",
                 "es": "Mi stock está negativo",
                 "pt": "Meu estoque está negativo"
