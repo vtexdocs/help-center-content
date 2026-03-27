@@ -51,4 +51,4 @@ We developed this update to create visual consistency with the VTEX identity, un
 
 No action is needed. The update is automatic and already available to all users.
 
-To learn more about VTEX Agentic CX Platform and its features, check our [documentation](https://help.vtex.com/docs/tutorials/weni-by-vtex-category).
+To learn more about VTEX Agentic CX Platform and its features, check our [documentation](https://help.vtex.com/en/docs/tutorials/weni-by-vtex-category).
