@@ -27,17 +27,13 @@ Para executar esse teste, você deve remover as customizações por meio da ferr
 Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/), siga os passos a seguir. 
 
 1. Abra o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) no seu computador.
-2. Aperte o botão `F12` do seu teclado ou clique com o botão direito do mouse em qualquer parte da tela e selecione **Inspecionar**.
+2. Clique no botão `F12` do seu teclado ou clique com o botão direito do mouse em qualquer parte da tela e selecione **Inspecionar**.
 3. Clique nos três pontos verticais na parte superior direita da página, conforme indicado na imagem abaixo.
 4. Selecione **Mais ferramentas** e, em seguida, **Condições de solicitação** para bloquear todas as customizações feitas por meio de CSS, JavaScript e Google Tag Manager. 
 
   ![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/legado-02.png) 
 
-5. A aba **Condições de solicitação** abrirá em seguida, como mostra a imagem abaixo:
-
-  ![request-conditions](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/request-conditions.png) 
-
-6. Clique em `Adicionar regra` para definir que o primeiro recurso será bloqueado. Para adicionar mais recursos, clique em `+` e, depois de definir, clique em `Adicionar`. Essa configuração precisa ser feita apenas uma vez no seu navegador. Inclua os itens abaixo:
+5. Na aba **Condições de solicitação**, clique em `Adicionar regra` para definir o primeiro recurso a ser bloqueado. Para adicionar mais recursos, clique em `+` e, depois de definir, clique em `Adicionar`. Essa configuração precisa ser feita apenas uma vez no seu navegador. Inclua os itens abaixo:
 
  * `*:/arquivos/*.js`
  * `*:/files/*js`
@@ -47,8 +43,8 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
   ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/request-conditions.png) 
 
-7. Marque a opção **Ativar bloqueio e limitação** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções de bloqueio habilitadas.
-8. Agora, atualize a página. Ela será exibida sem os componentes customizados.
+6. Marque a opção **Ativar bloqueio e limitação** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções habilitadas para bloqueio.
+7. Agora, atualize a página. Ela será exibida sem os componentes customizados.
 
 Para voltar a visualizar as customizações, desmarque a opção **Ativar bloqueio e limitação** e atualize a página.
 
