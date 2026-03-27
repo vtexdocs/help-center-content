@@ -35064,7 +35064,7 @@
             "pt": "Storefront"
           },
           "slug": {
-            "en": "storefront-category",
+            "en": "storefront-category-category",
             "es": "storefront-categoria",
             "pt": "storefront-categoria"
           },
@@ -36606,6 +36606,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Storefront - Overview",
+                "es": "Storefront - Información general",
+                "pt": "Storefront - Visão geral"
+              },
+              "slug": {
+                "en": "storefront-category",
+                "es": "vision-general-storefront",
+                "pt": "visao-geral-storefront"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
