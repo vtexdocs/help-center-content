@@ -19,7 +19,8 @@ subcategoryId: 6J3wx7KM4oysymsWuUACyY
 
 ## Gerenciar políticas comerciais
 
-A seção Políticas Comerciais do seu Admin apresenta uma tabela com todas as políticas comerciais já cadastradas. Também é possível filtrar os resultados, fazer uma busca por palavra-chave e ordenar na tabela as políticas comerciais já cadastradas. O ID da política comercial é determinado automaticamente pelo sistema, a partir da ordem cronológica de criação de novas políticas.
+No Admin VTEX, a seção Políticas Comerciais apresenta uma tabela com todas as políticas comerciais já cadastradas. Para acessar vá em **Admin VTEX > Configurações da loja > Canais > Políticas Comerciais** ou digite **Políticas Comerciais** na barra de busca.
+Na seção de Políticas Comerciais é possível filtrar, buscar por palavra-chave e ordenar  os resultados da tabela. O ID de cada Política Comercial é determinado automaticamente pelo sistema, a partir da ordem cronológica de criação de novas políticas.
 
 Para definir as configurações de logística aplicadas a essa política comercial, é preciso [criar ou editar uma doca](/pt/docs/tutorials/gerenciar-doca), relacionada às transportadoras desejadas, inserindo o ID da política comercial no formulário de cadastro.
 
