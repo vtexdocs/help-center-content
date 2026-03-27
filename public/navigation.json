@@ -37737,12 +37737,12 @@
                   "name": {
                     "en": "Insights",
                     "es": "Insights",
-                    "pt": "Insights: Dashboard de Atendimento humano"
+                    "pt": "Analytics: Atendimento humano"
                   },
                   "slug": {
                     "en": "insights",
                     "es": "insights",
-                    "pt": "insights-dashboard-de-atendimento-humano"
+                    "pt": "analytics-dashboard-de-atendimento-humano"
                   },
                   "origin": "",
                   "type": "markdown",
