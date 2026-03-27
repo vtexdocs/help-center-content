@@ -23,7 +23,7 @@ A seção Políticas Comerciais do seu Admin apresenta uma tabela com todas as p
 
 Para definir as configurações de logística aplicadas a essa política comercial, é preciso [criar ou editar uma doca](/pt/docs/tutorials/gerenciar-doca), relacionada às transportadoras desejadas, inserindo o ID da política comercial no formulário de cadastro.
 
-Para utilizar o mesmo catálogo em mais de uma política comercial, acesse a documentação [Associate Product with Trade Policy](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).
+Para utilizar o mesmo catálogo em mais de uma Política Comercial, acesse a documentação [Associate Product with Trade Policy](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).
 
 ## Adicionar uma política comercial
 
