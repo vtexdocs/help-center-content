@@ -17749,6 +17749,99 @@
           "children": [
             {
               "name": {
+                "en": "Catalog Beta",
+                "es": "Catálogo Beta",
+                "pt": "Catálogo Beta"
+              },
+              "slug": {
+                "en": "catalog-beta-subcategory",
+                "es": "catalogo-beta-subcategoria",
+                "pt": "catálogo-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Creating or editing categories, attributes, and variations (Beta)",
+                    "es": "Crear o editar categorías, atributos y variaciones (Beta)",
+                    "pt": "Criar ou editar categorias, atributos e variações (Beta)"
+                  },
+                  "slug": {
+                    "en": "creating-or-editing-categories-attributes-and-variations-beta",
+                    "es": "crear-o-editar-categorias-atributos-y-variaciones-beta",
+                    "pt": "criar-ou-editar-categorias-atributos-e-variacoes-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Dashboards Beta",
+                "es": "Dashboards Beta",
+                "pt": "Dashboards Beta"
+              },
+              "slug": {
+                "en": "dashboards-beta-subcategory",
+                "es": "dashboards-beta-subcategoria",
+                "pt": "dashboards-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Store Overview (Beta)",
+                    "es": "Vista General de la Tienda (Beta)",
+                    "pt": "Visão geral da loja (Beta)"
+                  },
+                  "slug": {
+                    "en": "store-overview-beta",
+                    "es": "vista-general-de-la-tienda-beta",
+                    "pt": "visao-geral-da-loja-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Data Insights Agent Beta",
+                "es": "Data Insights Agent Beta",
+                "pt": "Data Insights Agent Beta"
+              },
+              "slug": {
+                "en": "data-insights-agent-beta-subcategory",
+                "es": "data-insights-agent-beta-subcategoria",
+                "pt": "data-insights-agent-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Data Insights Agent",
+                    "es": "Data Insights Agent",
+                    "pt": "Data Insights Agent"
+                  },
+                  "slug": {
+                    "en": "data-insights-agent",
+                    "es": "data-insights-agent",
+                    "pt": "data-insights-agent"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Beta",
                 "es": "Intelligent Search Beta",
                 "pt": "Intelligent Search Beta"
@@ -18326,63 +18419,34 @@
             },
             {
               "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
+                "en": "CMS BETA",
+                "es": "CMS BETA",
+                "pt": "CMS BETA"
               },
               "slug": {
-                "en": "cms-overview-beta",
-                "es": "cms-informacion-general-beta",
-                "pt": "cms-visao-geral-beta"
+                "en": "cms-beta",
+                "es": "cms-beta",
+                "pt": "cms-beta"
               },
               "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Creating or editing categories, attributes, and variations (Beta)",
-                "es": "Crear o editar categorías, atributos y variaciones (Beta)",
-                "pt": "Criar ou editar categorias, atributos e variações (Beta)"
-              },
-              "slug": {
-                "en": "creating-or-editing-categories-attributes-and-variations-beta",
-                "es": "crear-o-editar-categorias-atributos-y-variaciones-beta",
-                "pt": "criar-ou-editar-categorias-atributos-e-variacoes-beta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Data Insights Agent",
-                "es": "Data Insights Agent",
-                "pt": "Data Insights Agent"
-              },
-              "slug": {
-                "en": "data-insights-agent",
-                "es": "data-insights-agent",
-                "pt": "data-insights-agent"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Store Overview (Beta)",
-                "es": "Vista General de la Tienda (Beta)",
-                "pt": "Visão geral da loja (Beta)"
-              },
-              "slug": {
-                "en": "store-overview-beta",
-                "es": "vista-general-de-la-tienda-beta",
-                "pt": "visao-geral-da-loja-beta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview-beta",
+                    "es": "cms-informacion-general-beta",
+                    "pt": "cms-visao-geral-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
