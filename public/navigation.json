@@ -4,8 +4,8 @@
       "documentation": "announcements",
       "name": {
         "en": "Announcements",
-        "es": "Anuncios",
-        "pt": "Anúncios"
+        "es": "Comunicados",
+        "pt": "Comunicados"
       },
       "slugPrefix": "announcements",
       "categories": [
@@ -7654,8 +7654,8 @@
       "documentation": "faq",
       "name": {
         "en": "FAQ",
-        "es": "FAQ",
-        "pt": "FAQ"
+        "es": "Preguntas frecuentes",
+        "pt": "Perguntas frequentes"
       },
       "slugPrefix": "faq",
       "categories": [
@@ -9549,7 +9549,7 @@
       "documentation": "tracks",
       "name": {
         "en": "Start here",
-        "es": "Comece aqui",
+        "es": "Comienza aquí",
         "pt": "Comece aqui"
       },
       "slugPrefix": "docs/tracks",
@@ -15348,8 +15348,8 @@
       "documentation": "troubleshooting",
       "name": {
         "en": "Troubleshooting",
-        "es": "Troubleshooting",
-        "pt": "Troubleshooting"
+        "es": "Resolución de problemas",
+        "pt": "Resolução de problemas"
       },
       "slugPrefix": "troubleshooting",
       "categories": [
@@ -39660,6 +39660,21 @@
                 "en": "back-button-is-not-rendered-in-my-organization",
                 "es": "el-boton-atras-no-aparece-en-mi-organizacion",
                 "pt": "o-botao-voltar-nao-e-renderizado-em-minha-organizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "“New user” action disabled in My Organization on public domain",
+                "es": "La acción «Nuevo usuario» está desactivada en «Mi organización» en el dominio público",
+                "pt": "A ação “Novo usuário” está desativada em “Minha organização” no domínio público"
+              },
+              "slug": {
+                "en": "new-user-action-disabled-in-my-organization-on-public-domain",
+                "es": "la-accion-nuevo-usuario-esta-desactivada-en-mi-organizacion-en-el-dominio-publico",
+                "pt": "a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico"
               },
               "origin": "",
               "type": "markdown",
