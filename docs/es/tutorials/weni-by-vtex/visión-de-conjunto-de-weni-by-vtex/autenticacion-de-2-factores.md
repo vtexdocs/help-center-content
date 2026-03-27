@@ -1,5 +1,5 @@
 ---
-title: 'Autenticación de 2 Factores'
+title: "Autenticación de 2 factores"
 id: 72S15Wb6tXW7z4qG6W1mb
 status: PUBLISHED
 createdAt: 2025-09-12T15:36:07.347Z
@@ -17,7 +17,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 La Plataforma Weni le permite habilitar la autenticación de 2 factores en su cuenta y/o optar por limitar el acceso de su organización solo a usuarios que tengan la autenticación habilitada. Esta funcionalidad es ideal para quienes desean una capa adicional de seguridad para su proyecto.
 
-#### 1 - Habilitar la autenticación en su cuenta
+## 1 - Habilitar la autenticación en su cuenta
 
 La autenticación se puede habilitar en una cuenta haciendo clic en su foto, ubicada en el lado derecho de la pantalla \> cuenta, como se ilustra a continuación:
 
@@ -39,7 +39,7 @@ Listo, ahora la Autenticación de Dos Factores está habilitada para su uso. Cad
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/autenticacion-de-2-factores_4.png)
 
-#### 2 - Solicitar autenticación en su organización
+## 2 - Solicitar autenticación en su organización
 
 Para que los proyectos y datos de su organización tengan una capa adicional de seguridad, puede habilitar la opción para que solo los usuarios con la Autenticación de Dos Factores habilitada puedan acceder a la organización. Para ello, haga clic en el ícono ubicado en la esquina derecha de la tarjeta de la organización y seleccione la opción ""configuraciones"".
 

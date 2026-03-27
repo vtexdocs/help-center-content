@@ -1,5 +1,5 @@
 ---
-title: '2-Factor Authentication'
+title: "Two-factor authentication"
 id: 72S15Wb6tXW7z4qG6W1mb
 status: PUBLISHED
 createdAt: 2025-09-12T15:36:07.347Z
@@ -17,7 +17,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 Weni Platform allows you to enable two\-factor authentication (2FA) on your account and/or restrict access to your organization to only users who have 2FA enabled. This feature is ideal for those looking to add an extra layer of security to their project.
 
-### 1 \- Enabling Two\-Factor Authentication on Your Account
+## Enabling two-factor authentication on your account
 
 You can enable two\-factor authentication on your account by clicking on your profile picture in the upper right corner of the screen \> Account, as illustrated below:
 
@@ -30,6 +30,7 @@ For authentication, Weni Platform uses the Microsoft Authenticator app. Download
 When you try to log in to Weni Platform again, you'll be asked to follow these steps:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/2-factor-authentication_2.png)
+
 - Open the app and scan the QR code shown on the screen;
 - Enter the one\-time code provided by the application;
 - Save to complete the authentication configuration.
@@ -38,7 +39,7 @@ Great! If you get to this point two\-factor authentication is now enabled for us
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/2-factor-authentication_3.PNG)
 
-### 2 - Require Authentication for Your Organization
+## Require authentication for your organization
 
 To add an extra layer of security to your organization's projects and data, you can enable two\-factor authentication (2FA) for all users. This ensures that only users with 2FA enabled can access the organization. To do this, click the icon located on the right side of the organization's card and select ""Settings.""
 

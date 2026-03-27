@@ -37313,8 +37313,8 @@
                 {
                   "name": {
                     "en": "Attendance distribution rule",
-                    "es": "Distribución y Enrutamiento de las atenciones",
-                    "pt": "Distribuição e Roteamento dos atendimentos"
+                    "es": "Distribución y enrutamiento de las atenciones",
+                    "pt": "Regras de distribuição e roteamento dos atendimentos"
                   },
                   "slug": {
                     "en": "attendance-distribution-rule",
@@ -37372,9 +37372,9 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Human Service Dashboard",
-                    "es": "Weni Chats: Dashboard de Atención Humana",
-                    "pt": "Weni Chats: Dashboard de Atendimento humano"
+                    "en": "Weni Chats: Human service dashboard",
+                    "es": "Weni Chats: Dashboard de atención humana",
+                    "pt": "Weni Chats: Dashboard de atendimento humano"
                   },
                   "slug": {
                     "en": "weni-chats-human-service-dashboard",
@@ -37403,9 +37403,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Code Action First Steps",
-                    "es": "Primeros pasos Code Action",
-                    "pt": "Primeiros passos Code Action"
+                    "en": "Code action first steps",
+                    "es": "Primeros pasos - Code Action",
+                    "pt": "Primeiros passos - Code Action"
                   },
                   "slug": {
                     "en": "code-action-first-steps",
@@ -37449,9 +37449,9 @@
                 },
                 {
                   "name": {
-                    "en": "Adding Media to the message",
+                    "en": "Adding media to the message",
                     "es": "Agregar mídias a su mensaje",
-                    "pt": "Adicionando mídias ao cartão de Enviar Mensagem"
+                    "pt": "Adicionando mídias ao cartão de enviar mensagem"
                   },
                   "slug": {
                     "en": "adding-media-to-the-message",
@@ -37464,9 +37464,9 @@
                 },
                 {
                   "name": {
-                    "en": "Call Webhook: Making requests to external services",
-                    "es": "Call Webhook: Cómo hacer llamadas a sistemas externos",
-                    "pt": "Call Webhook: Como fazer chamadas para sistemas externos"
+                    "en": "Call webhook: Making requests to external services",
+                    "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
+                    "pt": "Call webhook: Como fazer chamadas para sistemas externos"
                   },
                   "slug": {
                     "en": "call-webhook-making-requests-to-external-services",
@@ -37479,9 +37479,9 @@
                 },
                 {
                   "name": {
-                    "en": "Chatbot Integrado a API Omie",
-                    "es": "Chatbot Integrado a API Omie",
-                    "pt": "Chatbot Integrado a API Omie"
+                    "en": "Chatbot integrado a API Omie",
+                    "es": "Chatbot integrado a API Omie",
+                    "pt": "Chatbot integrado a API Omie"
                   },
                   "slug": {
                     "en": "chatbot-integrado-a-api-omie",
@@ -37494,9 +37494,9 @@
                 },
                 {
                   "name": {
-                    "en": "Construtor de Vendas API-Integrated Chatbot",
-                    "es": "Chatbot Integrado a la API del Constructor de Ventas",
-                    "pt": "Chatbot Integrado a API do Construtor de Vendas"
+                    "en": "Construtor de Vendas API-integrated chatbot",
+                    "es": "Chatbot integrado a la API del Constructor de Ventas",
+                    "pt": "Chatbot integrado a API do Construtor de Vendas"
                   },
                   "slug": {
                     "en": "construtor-de-vendas-api-integrated-chatbot",
@@ -37524,7 +37524,7 @@
                 },
                 {
                   "name": {
-                    "en": "Expressions and Variables Introduction",
+                    "en": "Expressions and variables introduction",
                     "es": "Introducción a expresiones y variables",
                     "pt": "Introdução a expressões e variáveis"
                   },
@@ -37539,9 +37539,9 @@
                 },
                 {
                   "name": {
-                    "en": "Expressions Glossary",
+                    "en": "Expressions glossary",
                     "es": "Glosario de expresiones",
-                    "pt": "Glossário de Expressões"
+                    "pt": "Glossário de expressões"
                   },
                   "slug": {
                     "en": "expressions-glossary",
@@ -37569,7 +37569,7 @@
                 },
                 {
                   "name": {
-                    "en": "Flows Creation",
+                    "en": "Flows creation",
                     "es": "Creación de flujos",
                     "pt": "Criação de fluxos"
                   },
@@ -37629,9 +37629,9 @@
                 },
                 {
                   "name": {
-                    "en": "Sienge API-Integrated Chatbot",
-                    "es": "Chatbot Integrado a la API Sienge",
-                    "pt": "Chatbot Integrado a API Sienge"
+                    "en": "Sienge API-integrated chatbot",
+                    "es": "Chatbot integrado a la API Sienge",
+                    "pt": "Chatbot integrado a API Sienge"
                   },
                   "slug": {
                     "en": "sienge-api-integrated-chatbot",
@@ -37659,9 +37659,9 @@
                 },
                 {
                   "name": {
-                    "en": "Variables Glossary",
-                    "es": "Glosario de Variables",
-                    "pt": "Glossário de Variáveis"
+                    "en": "Variables glossary",
+                    "es": "Glosario de variables",
+                    "pt": "Glossário de variáveis"
                   },
                   "slug": {
                     "en": "variables-glossary",
@@ -37689,9 +37689,9 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp Message Card",
-                    "es": "Tarjeta de Mensaje de WhatsApp",
-                    "pt": "Cartão de Mensagem do WhatsApp"
+                    "en": "WhatsApp message card",
+                    "es": "Tarjeta de mensaje de WhatsApp",
+                    "pt": "Cartão de mensagem do WhatsApp"
                   },
                   "slug": {
                     "en": "whatsapp-message-card",
@@ -37704,9 +37704,9 @@
                 },
                 {
                   "name": {
-                    "en": "Zero Shot Learning",
-                    "es": "Aprendizaje Zero Shot",
-                    "pt": "Classificação e Resposta Inteligente"
+                    "en": "Zero shot learning",
+                    "es": "Aprendizaje zero shot",
+                    "pt": "Classificação e resposta inteligente"
                   },
                   "slug": {
                     "en": "zero-shot-learning",
@@ -37737,7 +37737,7 @@
                   "name": {
                     "en": "Insights",
                     "es": "Insights",
-                    "pt": "Insights: Dashboard de Atendimento humano"
+                    "pt": "Insights: Dashboard de atendimento humano"
                   },
                   "slug": {
                     "en": "insights",
@@ -37768,7 +37768,7 @@
                   "name": {
                     "en": "Active message dispatch on WhatsApp",
                     "es": "Envío activo de mensajes en WhatsApp",
-                    "pt": "Disparo Ativo no WhatsApp"
+                    "pt": "Disparo ativo no WhatsApp"
                   },
                   "slug": {
                     "en": "active-message-dispatch-on-whatsapp",
@@ -37781,7 +37781,7 @@
                 },
                 {
                   "name": {
-                    "en": "Adding a Facebook Channel",
+                    "en": "Adding a Facebook channel",
                     "es": "Cómo crear un canal en Facebook",
                     "pt": "Como criar um canal no Facebook"
                   },
@@ -37886,9 +37886,9 @@
                 },
                 {
                   "name": {
-                    "en": "Creating a Slack Channel",
-                    "es": "Creando un Canal de Slack",
-                    "pt": "Criando um Canal do Slack"
+                    "en": "Creating a Slack channel",
+                    "es": "Creando un canal de Slack",
+                    "pt": "Criando um canal do Slack"
                   },
                   "slug": {
                     "en": "creating-a-slack-channel",
@@ -37901,9 +37901,9 @@
                 },
                 {
                   "name": {
-                    "en": "External Service",
+                    "en": "External service",
                     "es": "Servicio externo",
-                    "pt": "Serviço Externo"
+                    "pt": "Serviço externo"
                   },
                   "slug": {
                     "en": "external-service",
@@ -37916,9 +37916,9 @@
                 },
                 {
                   "name": {
-                    "en": "Good practices: Opt-Out",
-                    "es": "Buenas prácticas: Opt-Out",
-                    "pt": "Boas práticas: Opt-Out"
+                    "en": "Good practices: Opt-out",
+                    "es": "Buenas prácticas: Opt-out",
+                    "pt": "Boas práticas: Opt-out"
                   },
                   "slug": {
                     "en": "good-practices-opt-out",
@@ -37977,8 +37977,8 @@
                 {
                   "name": {
                     "en": "How to create a channel with WhatsApp Demo",
-                    "es": "Cómo crear un canal en WhatsApp Demo",
-                    "pt": "Como criar um canal no WhatsApp Demo"
+                    "es": "Cómo crear un canal en WhatsApp demo",
+                    "pt": "Como criar um canal no WhatsApp demo"
                   },
                   "slug": {
                     "en": "how-to-create-a-channel-with-whatsapp-demo",
@@ -38021,8 +38021,8 @@
                 },
                 {
                   "name": {
-                    "en": "How to Create an SMS Channel - For Developers (RapidPro)",
-                    "es": "Cómo crear un canal de SMS - Para desarrolladores (RapidPro)",
+                    "en": "How to create an SMS channel - for developers (RapidPro)",
+                    "es": "Cómo crear un canal de SMS - para desarrolladores (RapidPro)",
                     "pt": "Como criar um canal SMS - para desenvolvedores (RapidPro)"
                   },
                   "slug": {
@@ -38036,9 +38036,9 @@
                 },
                 {
                   "name": {
-                    "en": "How to Use the Applications Module",
-                    "es": "Como utilizar el módulo de Aplicaciones",
-                    "pt": "Como utilizar o módulo Aplicativos"
+                    "en": "How to use the applications module",
+                    "es": "Como utilizar el módulo de aplicaciones",
+                    "pt": "Como utilizar o módulo aplicativos"
                   },
                   "slug": {
                     "en": "how-to-use-the-applications-module",
@@ -38051,9 +38051,9 @@
                 },
                 {
                   "name": {
-                    "en": "Native ChatGPT Integration",
-                    "es": "Integración Nativa ChatGPT",
-                    "pt": "Integração Nativa ChatGPT"
+                    "en": "Native ChatGPT integration",
+                    "es": "Integración nativa ChatGPT",
+                    "pt": "Integração nativa ChatGPT"
                   },
                   "slug": {
                     "en": "native-chatgpt-integration",
@@ -38066,9 +38066,9 @@
                 },
                 {
                   "name": {
-                    "en": "Opt-In: Obtaining Consent for WhatsApp",
-                    "es": "Buenas prácticas: Opt-In",
-                    "pt": "Opt-In: Obter aceitação para o WhatsApp"
+                    "en": "Opt-in: Obtaining consent for WhatsApp",
+                    "es": "Buenas prácticas: Opt-in",
+                    "pt": "Opt-in: Obter aceitação para o WhatsApp"
                   },
                   "slug": {
                     "en": "opt-in-obtaining-consent-for-whatsapp",
@@ -38081,9 +38081,9 @@
                 },
                 {
                   "name": {
-                    "en": "Regaining Access to Business Manager",
-                    "es": "Recuperando el acceso al Administrador de Negocios",
-                    "pt": "Recuperando acesso ao Gerenciador de Negócios"
+                    "en": "Regaining access to Business Manager",
+                    "es": "Recuperando el acceso al Administrador de negocios",
+                    "pt": "Recuperando acesso ao Gerenciador de negócios"
                   },
                   "slug": {
                     "en": "regaining-access-to-business-manager",
@@ -38096,9 +38096,9 @@
                 },
                 {
                   "name": {
-                    "en": "Supported Media Sending - WhatsApp Cloud",
+                    "en": "Supported media sending - WhatsApp Cloud",
                     "es": "WhatsApp business API: Envio de mídias",
-                    "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
+                    "pt": "Envio de mídias suportadas - WhatsApp cloud"
                   },
                   "slug": {
                     "en": "supported-media-sending-whatsapp-cloud",
@@ -38111,9 +38111,9 @@
                 },
                 {
                   "name": {
-                    "en": "The Basics of Integrations",
-                    "es": "Conceptos básicos sobre Integraciones",
-                    "pt": "Noções básicas sobre Integrações"
+                    "en": "The basics of integrations",
+                    "es": "Conceptos básicos sobre integraciones",
+                    "pt": "Noções básicas sobre integrações"
                   },
                   "slug": {
                     "en": "the-basics-of-integrations",
@@ -38142,8 +38142,8 @@
                 {
                   "name": {
                     "en": "Web Chat Channel",
-                    "es": "Canal Weni Web chat",
-                    "pt": "Canal de Web Chat"
+                    "es": "Canal Weni web chat",
+                    "pt": "Canal de web chat"
                   },
                   "slug": {
                     "en": "web-chat-channel",
@@ -38156,9 +38156,9 @@
                 },
                 {
                   "name": {
-                    "en": "Webhook Configuration: Message Delivery Status",
-                    "es": "Configuración del Webhook: Estado del envío de mensajes",
-                    "pt": "Configuração do Webhook: Status de envio das mensagens"
+                    "en": "Webhook configuration: Message delivery status",
+                    "es": "Configuración del webhook: Estado del envío de mensajes",
+                    "pt": "Configuração do webhook: Status de envio das mensagens"
                   },
                   "slug": {
                     "en": "webhook-configuration-message-delivery-status",
@@ -38171,9 +38171,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp business API pricing",
-                    "es": "Precificación de WhatsApp Business API",
-                    "pt": "Precificação do Whatsapp Business API"
+                    "en": "WhatsApp business API pricing",
+                    "es": "Precificación de WhatsApp business API",
+                    "pt": "Precificação do WhatsApp business API"
                   },
                   "slug": {
                     "en": "whatsapp-business-api-pricing",
@@ -38186,9 +38186,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp Bussiness API: How to Verify My Business",
-                    "es": "Whatsapp Bussiness API: ¿Cómo verificar mi negocio?",
-                    "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
+                    "en": "WhatsApp Bussiness API: How to verify my business",
+                    "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
+                    "pt": "WhatsApp bussiness API: Como verificar o meu negócio"
                   },
                   "slug": {
                     "en": "whatsapp-bussiness-api-how-to-verify-my-business",
@@ -38201,9 +38201,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp Bussiness API: WhatsApp message triggering limitation",
-                    "es": "WhatsApp Business API: Limitación de Envios Masivos en WhatsApp",
-                    "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
+                    "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
+                    "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
+                    "pt": "WhatsApp bussiness API: Limitação de disparos em massa do WhatsApp"
                   },
                   "slug": {
                     "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
@@ -38216,9 +38216,9 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp Template Messages: Impediments and Configurations",
+                    "en": "WhatsApp template messages: Impediments and configurations",
                     "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
-                    "pt": "Whatsapp Template Messages: impedimentos e configurações"
+                    "pt": "WhatsApp template messages: Impedimentos e configurações"
                   },
                   "slug": {
                     "en": "whatsapp-template-messages-impediments-and-configurations",
@@ -38231,9 +38231,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp: How to create Template Messages",
+                    "en": "WhatsApp: How to create template messages",
                     "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "Whatsapp: Como criar Template Messages"
+                    "pt": "WhatsApp: Como criar template messages"
                   },
                   "slug": {
                     "en": "whatsapp-how-to-create-template-messages",
@@ -38246,9 +38246,9 @@
                 },
                 {
                   "name": {
-                    "en": "Whatsapp: Weni Express Integration",
-                    "es": "WhatsApp: Integración Express Weni",
-                    "pt": "WhatsApp: Integração Expressa Weni"
+                    "en": "WhatsApp: Weni Express integration",
+                    "es": "WhatsApp: Integración express Weni",
+                    "pt": "WhatsApp: Integração expressa Weni"
                   },
                   "slug": {
                     "en": "whatsapp-weni-express-integration",
@@ -38261,9 +38261,9 @@
                 },
                 {
                   "name": {
-                    "en": "Zendesk - Human Support",
-                    "es": "Zendesk - Atención Humana",
-                    "pt": "Zendesk - Atendimento Humano"
+                    "en": "Zendesk - human support",
+                    "es": "Zendesk - atención humana",
+                    "pt": "Zendesk - atendimento humano"
                   },
                   "slug": {
                     "en": "zendesk-human-support",
@@ -38293,7 +38293,7 @@
                 {
                   "name": {
                     "en": "Adding a trigger",
-                    "es": "Cómo crear un Activador",
+                    "es": "Cómo crear un activador",
                     "pt": "Como criar um disparador"
                   },
                   "slug": {
@@ -38308,8 +38308,8 @@
                 {
                   "name": {
                     "en": "Campaign introduction",
-                    "es": "Introducción a Campañas",
-                    "pt": "Introdução a Campanhas"
+                    "es": "Introducción a campañas",
+                    "pt": "Introdução a campanhas"
                   },
                   "slug": {
                     "en": "campaign-introduction",
@@ -38322,7 +38322,7 @@
                 },
                 {
                   "name": {
-                    "en": "Contact Fields",
+                    "en": "Contact fields",
                     "es": "Campo de contactos",
                     "pt": "Campos de contato"
                   },
@@ -38338,8 +38338,8 @@
                 {
                   "name": {
                     "en": "Contact history",
-                    "es": "Historial de Contacto",
-                    "pt": "Histórico de Contato"
+                    "es": "Historial de contacto",
+                    "pt": "Histórico de contato"
                   },
                   "slug": {
                     "en": "contact-history",
@@ -38367,9 +38367,9 @@
                 },
                 {
                   "name": {
-                    "en": "Creating contact from an external Webhook",
-                    "es": "Creando contactos con Webhooks externos",
-                    "pt": "Criando contatos com Webhooks externos"
+                    "en": "Creating contact from an external webhook",
+                    "es": "Creando contactos con webhooks externos",
+                    "pt": "Criando contatos com webhooks externos"
                   },
                   "slug": {
                     "en": "creating-contact-from-an-external-webhook",
@@ -38412,7 +38412,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create a Campaign",
+                    "en": "How to create a campaign",
                     "es": "Cómo crear una campaña",
                     "pt": "Como criar uma campanha"
                   },
@@ -38427,9 +38427,9 @@
                 },
                 {
                   "name": {
-                    "en": "How to Download and Extract Archived Data",
+                    "en": "How to download and extract archived data",
                     "es": "Cómo descargar y extraer datos archivados",
-                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Weni Flows"
+                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Weni flows"
                   },
                   "slug": {
                     "en": "how-to-download-and-extract-archived-data",
@@ -38442,7 +38442,7 @@
                 },
                 {
                   "name": {
-                    "en": "Importing Contacts",
+                    "en": "Importing contacts",
                     "es": "Cómo importar contactos",
                     "pt": "Como importar contatos"
                   },
@@ -38457,7 +38457,7 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Contacts",
+                    "en": "Introduction to contacts",
                     "es": "Introducción a contactos",
                     "pt": "Introdução a contatos"
                   },
@@ -38472,7 +38472,7 @@
                 },
                 {
                   "name": {
-                    "en": "Select a Message to Schedule for Later",
+                    "en": "Select a message to schedule for later",
                     "es": "Agendando envio de mensajes",
                     "pt": "Agendando envio de mensagens"
                   },
@@ -38487,7 +38487,7 @@
                 },
                 {
                   "name": {
-                    "en": "Static Groups",
+                    "en": "Static groups",
                     "es": "Grupos estáticos",
                     "pt": "Grupos estáticos"
                   },
@@ -38517,9 +38517,9 @@
                 },
                 {
                   "name": {
-                    "en": "Triggers Types",
-                    "es": "Tipos de Activadores",
-                    "pt": "Tipos de Gatilho"
+                    "en": "Triggers types",
+                    "es": "Tipos de activadores",
+                    "pt": "Tipos de gatilho"
                   },
                   "slug": {
                     "en": "triggers-types",
@@ -38550,7 +38550,7 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criando Agentes Ativos"
+                    "pt": "Criando agentes ativos"
                   },
                   "slug": {
                     "en": "create-active-agents",
@@ -38563,9 +38563,9 @@
                 },
                 {
                   "name": {
-                    "en": "First Steps",
+                    "en": "First steps",
                     "es": "Primeros pasos",
-                    "pt": "Primeiros passos e configuração com o App"
+                    "pt": "Primeiros passos e configuração com o app"
                   },
                   "slug": {
                     "en": "first-steps",
@@ -38579,7 +38579,7 @@
                 {
                   "name": {
                     "en": "Installing Weni Agentic AI",
-                    "es": "Instalando a Weni Agentic AI",
+                    "es": "Instalando a Weni agentic ai",
                     "pt": "Instalando Weni Agentic AI"
                   },
                   "slug": {
@@ -38594,7 +38594,7 @@
                 {
                   "name": {
                     "en": "Introduction to Weni Agentic AI",
-                    "es": "Introducción a Weni Agentic AI",
+                    "es": "Introducción a Weni agentic ai",
                     "pt": "Introdução ao Weni Agentic AI"
                   },
                   "slug": {
@@ -38624,22 +38624,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "2-Factor Authentication",
-                    "es": "Autenticación de 2 Factores",
-                    "pt": "Autenticação de 2 Fatores"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": "autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Changing the Platform Language",
+                    "en": "Changing the platform language",
                     "es": "Cambiando el idioma de la plataforma",
                     "pt": "Alterando o idioma da plataforma"
                   },
@@ -38669,9 +38654,9 @@
                 },
                 {
                   "name": {
-                    "en": "First Steps - Register and login",
-                    "es": "Primeros pasos - Registro y login",
-                    "pt": "Primeiros passos - Cadastro e login"
+                    "en": "First steps - register and login",
+                    "es": "Primeros pasos - registro y login",
+                    "pt": "Primeiros passos - cadastro e login"
                   },
                   "slug": {
                     "en": "first-steps-register-and-login",
@@ -38684,9 +38669,9 @@
                 },
                 {
                   "name": {
-                    "en": "Getting Started - Create project",
-                    "es": "Primeros Pasos - Crear projeto",
-                    "pt": "Primeiros Passos - Criar projeto"
+                    "en": "Getting started - create project",
+                    "es": "Primeros pasos - crear projeto",
+                    "pt": "Primeiros passos - criar projeto"
                   },
                   "slug": {
                     "en": "create-project",
@@ -38714,7 +38699,7 @@
                 },
                 {
                   "name": {
-                    "en": "Platform Glossary",
+                    "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
                   },
@@ -38744,8 +38729,23 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Permission system",
-                    "es": "Sistema de Permisos Weni",
+                    "en": "Two-factor authentication",
+                    "es": "Autenticación de 2 factores",
+                    "pt": "Autenticação de dois fatores"
+                  },
+                  "slug": {
+                    "en": "2-factor-authentication",
+                    "es": "autenticacion-de-2-factores",
+                    "pt": "autenticacao-de-2-fatores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Weni permission system",
+                    "es": "Sistema de permisos Weni",
                     "pt": "Sistema de permissões Weni"
                   },
                   "slug": {
@@ -38775,9 +38775,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "General Project Settings",
-                    "es": "Configuraciones generales de Proyecto",
-                    "pt": "Configurações gerais do Projeto"
+                    "en": "General project settings",
+                    "es": "Configuraciones generales de proyecto",
+                    "pt": "Configurações gerais do projeto"
                   },
                   "slug": {
                     "en": "general-project-settings",
@@ -38790,9 +38790,9 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Human Service Management",
-                    "es": "Weni Chats: Gestión de la Atención Humana",
-                    "pt": "Weni Chats: Gestão do Atendimento Humano"
+                    "en": "Weni Chats: Human service management",
+                    "es": "Weni Chats: Gestión de la atención humana",
+                    "pt": "Weni Chats: Gestão do atendimento humano"
                   },
                   "slug": {
                     "en": "weni-chats-human-service-management",
@@ -38805,9 +38805,9 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Setting Up Human Attendance",
-                    "es": "Weni Chats: Configurando el Atención Humana",
-                    "pt": "Weni Chats: Configurando o Atendimento humano"
+                    "en": "Weni Chats: Setting up human attendance",
+                    "es": "Weni Chats: Configurando el atención humana",
+                    "pt": "Weni Chats: Configurando o atendimento humano"
                   },
                   "slug": {
                     "en": "weni-chats-setting-up-human-attendance",

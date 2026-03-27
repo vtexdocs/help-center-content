@@ -1,5 +1,5 @@
 ---
-title: 'Visualizando informes en la plataforma'
+title: "Visualizando informes en la plataforma"
 id: 336oZVyzWmvheGQC1cGnpN
 status: PUBLISHED
 createdAt: 2025-09-17T14:08:47.929Z
@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Después de construir y ejecutar nuestros flujos, nuestro próximo deseo, sin duda, es poder analizar los resultados que estamos obteniendo. ¿Cuántas personas pasaron por mi flujo? ¿Qué decisiones tomaron? Estas y otras preguntas nos vienen a la mente, por lo que tenemos opciones para visualizar resultados e informes en la plataforma.
 
-#### Accediendo a los resultados del flujo
+## Accediendo a los resultados del flujo
 
 Para acceder a los resultados del flujo, simplemente abre el flujo en cuestión, haz clic en el menú de hamburguesa junto al botón **Comenzar flujo** y selecciona la opción **Resultados**.
 

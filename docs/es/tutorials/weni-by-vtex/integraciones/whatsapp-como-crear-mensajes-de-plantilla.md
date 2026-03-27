@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp: Cómo crear mensajes de plantilla'
+title: "WhatsApp: Cómo crear mensajes de plantilla"
 id: 3KQizjNnrDY2K3DhPwiPim
 status: PUBLISHED
 createdAt: 2025-09-15T15:05:31.154Z
@@ -19,7 +19,7 @@ Los mensajes de plantilla se utilizan para iniciar conversaciones con los client
 
 Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Además, pueden ser desactivados automáticamente en función de la retroalimentación de los clientes. Si se desactiva, el modelo de mensaje no podrá ser enviado a los clientes hasta que mejore la calificación de calidad y deje de infringir la Política de WhatsApp Business o la Política Comercial de WhatsApp.
 
-#### **Creación**
+## Creación
 
 Puedes usar la plataforma Weni para crear modelos de mensaje manualmente y enviarlos para su aprobación.
 
@@ -38,15 +38,14 @@ Para crear un mensaje de plantilla:
 
 1. Haz clic en Agregar ejemplo para agregar ejemplos de valores al modelo. Esto es opcional, pero muy recomendable. Consulta los Ejemplos.
 2. Haz clic en Enviar para enviar el modelo para su aprobación.
-3.
 
-#### **Proceso de Aprobación (Responsabilidad de la Meta)**
+## Proceso de aprobación (responsabilidad de la Meta)
 
 Después de crear el modelo, podrás enviarlo para su aprobación. Generalmente, las aprobaciones ocurren de forma instantánea o en unos pocos minutos (si se envían directamente desde la plataforma). Tan pronto como se tome la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, se enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, también recibirás una notificación de webhook de Meta. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
 
-Si se aprueba, el modelo de mensaje tendrá el estado **Activo \- Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) .
+Si se aprueba, el modelo de mensaje tendrá el estado **Activo \- Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing).
 
-#### **Ejemplos**
+## Ejemplos
 
 Recomendamos que incluyas un ejemplo antes de enviar el modelo para su aprobación. Los ejemplos te permiten enviar ejemplos de activos multimedia y valores de texto para variables de medios o texto requeridos por el modelo. Esto facilita que Meta visualice cómo aparecerá el modelo para tus clientes.
 
@@ -56,7 +55,7 @@ Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las vari
 
 Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tus mensajes de plantilla, ve a [Mensajes de Plantilla de WhatsApp: Impedimentos y configuraciones](https://help.vtex.com/es/docs/tutorials/mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones) y obtén más información.
 
-#### **Obtén más información**
+## Obtén más información
 
 - [Política de WhatsApp Business:](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fbusiness-policy%2F%3Ffbclid%3DIwAR1jLRqG2MmfXVpoC8OxG2zTl5Ub96hEm-Kq7ucQ9K5dNB8GDFaAupD530Q&h=AT36YeReOstrqxnKTzgq1y-r_1Ob87yrZtjfdejYpzyb5x_-O76Lptsh-I9eddFQhs7ijenYsMuyS_j5f0REQZ8IdJoL5vKaphzynwgfAav-DtNlcnC-iWBZN3KyVY4gdLKezYRLheBfFcg_nzrPaA) obtén más información sobre las políticas para empresas.
 - [Política Comercial de WhatsApp:](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw) obtén más información sobre las políticas comerciales.

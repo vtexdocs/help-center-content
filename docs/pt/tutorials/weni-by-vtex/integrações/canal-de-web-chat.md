@@ -1,5 +1,5 @@
 ---
-title: 'Canal de Web Chat'
+title: "Canal de web chat"
 id: 3Y0MyNe0kPEngpYOJG1qpo
 status: PUBLISHED
 createdAt: 2025-09-15T14:12:38.155Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Se você tem um site e gostaria de integrar seu bot nele, a solução é o nosso canal **Web Chat**, que permite atender as pessoas que visitam seu site e desejam obter mais informações ou assistência humana.
 
-### Como criar um canal Web Chat
+## Como criar um canal web chat
 
 1. No seu projeto, clique em **Aplicações > Descobrimentos > Adicione o canal Weni Web Chat**.
 

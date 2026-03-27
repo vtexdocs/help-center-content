@@ -1,5 +1,5 @@
 ---
-title: 'Call Webhook: Making requests to external services'
+title: 'Call webhook: Making requests to external services'
 id: 2KRA2c41CskapG2IrqMhnO
 status: PUBLISHED
 createdAt: 2025-09-17T14:00:42.361Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-### What is an API?
+## What is an API?
 
 The acronym API corresponds to “Application Programming Interface“. They are a way of integrating systems, enabling benefits such as data security and ease of exchanging information
 
@@ -23,7 +23,7 @@ The acronym API corresponds to “Application Programming Interface“. They are
 
 Today, the ability to connect and integrate with other systems is an essential feature for most solutions today. For this reason, we have an action card to use in flows precisely for this function: Call Webhook
 
-### Call Webhook
+## Call webhook
 
 The Call Webhook card is responsible for the connection between the platform and other external systems, below, we have a little about her anatomy:
 
@@ -34,7 +34,7 @@ The Call Webhook card is responsible for the connection between the platform and
   3. Request header: Where you place the request header along with information such as authorization tokens and content types;
   4. Request body: Where you add a body for your request (used for POST and PUT);
 
-### How to format the request body correctly
+## How to format the request body correctly
 
 Normally, for the POST and PUT requests body we use JSON notation to send the information requested by the API. Below is an example of a JSON body:
 `{""platform"": ""push"", ""author"": ""john""}`
@@ -47,7 +47,7 @@ If you want to use a variable such as `@contact.name` for the ""author"" field i
 
 The request body accepts all variables and expressions supported on the platform.
 
-#### Navigating a Webhook
+### Navigating a webhook
 
 After making the request, you can use some expressions to query information from the response.
 

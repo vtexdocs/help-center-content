@@ -1,5 +1,5 @@
 ---
-title: 'Variables Glossary'
+title: "Variables glossary"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
@@ -15,39 +15,39 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-### Overview
-
 Variables are created to store values on the platform, allowing data to be saved even after a flow has ended.
 
 To use a variable, you should type `@`, and the expression will be replaced by the actual value of the variable, provided it is properly created.
 
 Below, we will list how to reference all types of variables available on Weni Platform:
-  * Contacts and Contact Fields
-  * Results and Flows
-  * Globals
 
-#### Contacts and Contact Fields
+- Contacts and Contact Fields
+- Results and Flows
+- Globals
+
+## Contacts and contact fields
 
 `@contact`: Variables to save values directly related to the contact. Below is a list of commonly used sub-variables:
-  * `@contact.name`: Full name of the contact.
 
-  * `@contact.first_name`: First name of the contact.
+- `@contact.name`: Full name of the contact.
 
-  * `@contact.urns`: List of URNs for the contact. It can also be accessed with **@urns**.
+- `@contact.first_name`: First name of the contact.
 
-  * `@contact.uuid`: Unique ID of the contact.
+- `@contact.urns`: List of URNs for the contact. It can also be accessed with **@urns**.
 
-  * `@contact.created_on`: Date when the contact was created.
+- `@contact.uuid`: Unique ID of the contact.
 
-  * `@contact.language`: Preferred language of the contact.
+- `@contact.created_on`: Date when the contact was created.
 
-  * `@contact.channel`: Preferred channel name of the contact.
+- `@contact.language`: Preferred language of the contact.
 
-  * `@contact.groups`: Names of the groups the contact is part of.
+- `@contact.channel`: Preferred channel name of the contact.
 
-  * `@contact.fields`: Custom contact fields. To access them, use `@contact.fields.field_name` or `@fields.field_name`.
+- `@contact.groups`: Names of the groups the contact is part of.
 
-#### Results and Flows
+- `@contact.fields`: Custom contact fields. To access them, use `@contact.fields.field_name` or `@fields.field_name`.
+
+## Results and flows
 
 `@results`: Variables to save values directly related to flow results. To access a result, use `@results.result_name`. Below is a list of commonly used sub-variables:
 `@results.result_name.category`: Category/route to which the result belongs.
@@ -65,7 +65,7 @@ Below, we will list how to reference all types of variables available on Weni Pl
 
 `@parent`: Allows you to reference all variables from the parent flow, i.e., the flow that called the **Enter another Flow** action card, within the child flow. If you want to access a result from the parent flow during the execution of the child flow, use `@parent.results.result_name`.
 
-#### Globals
+## Globals
 
 Global variables, or **globals** , are variables that can be accessed from any flow at any time, but their value cannot be modified during the flow's execution. They are widely used when the same information needs to be sent to multiple flows, and later that value needs to be updated practically across all the flows where it is used.
 

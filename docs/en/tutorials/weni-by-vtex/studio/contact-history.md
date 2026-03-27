@@ -1,5 +1,5 @@
 ---
-title: 'Contact history'
+title: "Contact history"
 id: 5iIOoqK90mIPUYTyZ32f1Z
 status: PUBLISHED
 createdAt: 2025-09-12T17:07:19.998Z
@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 All messages and actions passing through the channel are logged in the contact and can be viewed by accessing a specific contact. Messages are sorted by date and color-coded according to their origin. In this section, you can see exchanged files, executed flows, and external API calls, along with their respective external and internal call fields. You can choose between a summarized view, which shows only the conversations for quick analysis, or a detailed view with more information.
 
-#### **How to Access a Contact's History**
+## Access a contact's history
 
 All messages and actions transmitted through the channel are recorded in the contact and can be viewed by accessing the specific contact.
 

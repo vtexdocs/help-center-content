@@ -1,5 +1,5 @@
 ---
-title: 'Triggers Types'
+title: "Triggers types"
 id: 6yVuYFp3lrmZL0C7AUdEac
 status: PUBLISHED
 createdAt: 2025-09-12T17:43:13.439Z

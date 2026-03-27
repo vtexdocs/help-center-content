@@ -1,5 +1,5 @@
 ---
-title: 'Invalid authentication code'
+title: "Invalid authentication code"
 id: VcKrwtmEDgCHUCFetGjf2
 status: PUBLISHED
 createdAt: 2025-09-12T16:23:34.561Z
@@ -20,12 +20,15 @@ If you have disabled and re\-enabled two\-factor authentication, and when loggin
 1. Access the Microsoft Authenticator app on your phone and select the profile.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_1.jpeg)
-1. When selecting the profile, a new window will open. Click on the gear icon.
+
+2. When selecting the profile, a new window will open. Click on the gear icon.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_2.jpeg)
-1. A new window will open. Click on ""Remove account.""
+
+3. A new window will open. Click on ""Remove account.""
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_3.jpeg)
-1. After completing this process, follow the instructions provided on your login screen, under the section for setting up two\-step verification.
+
+4. After completing this process, follow the instructions provided on your login screen, under the section for setting up two\-step verification.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_4.png)

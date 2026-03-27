@@ -1,5 +1,5 @@
 ---
-title: 'Precificación de WhatsApp Business API'
+title: "Precificación de WhatsApp business API"
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
@@ -19,7 +19,7 @@ WhatsApp cobra por conversación, no por mensaje enviado. Las conversaciones son
 
 Las conversaciones iniciadas por la empresa se dividen en tres categorías: **utilidad**, **autenticación** y **marketing**. Las conversaciones iniciadas por el usuario se denominan **conversaciones de servicio**.
 
-#### **Precios basados en conversación**
+## Precios basados en conversación
 
 Este documento explica cómo funcionan los precios basados en conversación en la plataforma de WhatsApp Business.
 
@@ -27,7 +27,7 @@ Los cargos se aplican por conversación, no por mensaje enviado o recibido.
 
 Las conversaciones son mensajes intercambiados entre tú y tus clientes dentro de un período de 24 horas. Cuando los mensajes que envías son entregados a los clientes, se considera que la conversación ha comenzado y se aplica el cargo. Los criterios que determinan cuándo se inicia una conversación y cómo se categoriza se describen a continuación.
 
-#### **Categorización de modelos**
+## Categorización de modelos
 
 - **Modelos de Marketing**
 
@@ -49,15 +49,15 @@ Los modelos de autenticación son los más restrictivos. Para que un modelo sea 
 
 Para saber más detalles sobre los modelos, incluidos ejemplos de cada uno, accede a la documentación oficial de [Meta](https://developers.facebook.com/docs/whatsapp/updates-to-pricing/new-template-guidelines/).
 
-##### **CONVERSACIONES INICIADAS POR EL USUARIO**
+### Conversaciones iniciadas por el usuario
 
 Servicio: Son las conversaciones iniciadas por el usuario, que ayudan a los clientes a resolver dudas.
 
-##### **COBRO DE LAS CONVERSACIONES**
+### Cobro de las conversaciones
 
 El envío de varios modelos de la misma categoría en una conversación abierta no resultará en cargos adicionales, y las conversaciones de servicio solo se iniciarán cuando no haya ventanas de conversación abiertas, y la empresa puede responder al usuario con un formato libre de mensaje en la ventana de atención al cliente de 24 horas.
 
-##### **EXCEPCIONES**
+### Excepciones
 
 Las conversaciones con punto de entrada gratuito son aquellas en las que el cliente contacta a la empresa a través de un botón de llamada a la acción en anuncios de clic para WhatsApp o en Páginas de Facebook. Dado que el usuario de WhatsApp Business ya está siendo cobrado por el anuncio publicado en las redes sociales, no se le cobrará por ningún modelo de mensaje enviado en esa conversación durante un período de 72 horas.
 
@@ -65,11 +65,11 @@ Las conversaciones con punto de entrada gratuito son aquellas en las que el clie
 
 Recordando que: Cada cuenta de WhatsApp Business (WABA) tiene 1\.000 conversaciones iniciadas por el usuario gratuitas por mes, independientemente de la cantidad de teléfonos incluidos. El límite de conversaciones gratuitas se restablece cada mes según la zona horaria asociada a la WABA.
 
-##### **DURACIÓN DE LA CONVERSACIÓN**
+### Duración de la conversación
 
 Las conversaciones de marketing, utilidad, autenticación y servicio duran 24 horas (a menos que sea una conversación por punto de entrada gratuito \- de anuncios clic para WhatsApp o de páginas de Facebook); después de este período, el tiempo se reiniciará y cualquier mensaje enviado iniciará una nueva ventana y será cobrado de acuerdo con la categoría.
 
-#### **Precios**
+## Precios
 
 **Conversaciones iniciadas por la empresa:**
 
