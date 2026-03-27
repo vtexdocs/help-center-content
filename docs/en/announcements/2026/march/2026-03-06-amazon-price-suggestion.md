@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: Price suggestion'
+title: 'Amazon: Price suggestions'
 status: PUBLISHED
 createdAt: 2026-03-06T18:30:00.000Z
 updatedAt: 2026-03-06T18:30:00.000Z
@@ -16,24 +16,25 @@ tags:
   - Integrations
 ---
 
-We launched the **Price suggestion** feature in the VTEX and Amazon integration to give sellers more visibility into the competitiveness of active SKUs and support in daily pricing decisions.
+We have launched the **Price Suggestion** feature in the integration between VTEX and Amazon to provide greater visibility over the competitiveness of active SKUs and support day-to-day pricing decisions.
 
 ## What has changed?
 
-Sellers can now check **suggestions** logs with SKU-level information, including:
+Now, sellers can query suggestion logs for each SKU, including:
 
-- Current price with indication of winning or losing Buy Box;
-- Current shipping;
-- Buy Box winner price (when applicable);
+- Current price with indication of Buybox win or loss.
+- Current shipping.
+- Price of the Buybox winner (when applicable).
 - Suggested competitive price.
 
-With this information, sellers can diagnose SKU competitiveness in a single place, reducing operational effort and accelerating pricing adjustments.
+This centralizes SKU competitiveness diagnosis in a single place, reducing operational effort and accelerating price adjustment decisions.
 
 ## What needs to be done?
 
-The feature is already active for all clients connected to Amazon and does not require additional enablement. To disable the feature, go to **Marketplace > Amazon > Preferences > Smart Pricing**.
+The feature is already active for all clients connected to Amazon and doesn't require additional activation. To activate the feature, go to **Marketplace > Amazon > Preferences > Smart Pricing**.
 
-For the complete step-by-step guide, see the tutorial [Price suggestion in the Amazon integration](/en/docs/tutorials/amazon-price-suggestion).
+For detailed instructions, see the tutorial [Price suggestions in the Amazon integration](/en/docs/tutorials/sugestao-de-precos-amazon).
 
+## Feedback and questions
 
-We want to continue evolving this feature based on real usage. If you have comments or suggestions for improvement, please fill out the [Amazon price suggestion](https://forms.gle/qeJCXqGGtcNmRyx2A) form.
+We want to improve this feature based on real usage. If you have comments or improvement suggestions, please respond to the [Amazon Price Suggestion](https://forms.gle/qeJCXqGGtcNmRyx2A) form (Portuguese).
