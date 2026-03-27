@@ -94,8 +94,8 @@ Após validar que o novo domínio está totalmente funcional, remova o domínio 
 
 Para garantir que todos os acessos ao domínio antigo sejam direcionados para o novo domínio, siga as instruções abaixo:
 
-* Configure um redirecionamento HTTP 302, que instruirá os navegadores a encaminhar as requisições para o novo domínio.
-* Recomendamos o uso de ferramentas como [direcionar.com.br](https://direcionar.com.br) e [redirect.center](https://redirect.center) para criar o redirecionamento.
+* Configure um redirecionamento HTTP 301, que instruirá os navegadores a encaminhar as requisições ao novo domínio.
+* Recomendamos o uso de ferramentas como [Redirect-301](https://www.redirect-301.com/pt/) para criar o redirecionamento.
 * No painel DNS, evite usar CNAME para redirecionamento, pois essa configuração não garante um redirecionamento adequado.
 
 > ⚠️ É comum que as primeiras navegações no novo domínio sejam mais lentas do que o esperado devido à criação inicial do cache. Esse impacto é temporário e se normaliza com o tempo.

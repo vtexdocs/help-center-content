@@ -94,8 +94,8 @@ Pueden mantenerse ambos dominios (el antiguo y el nuevo) funcionando simultánea
 
 Sigue las instrucciones a continuación para garantizar que todos los accesos al antiguo dominio se redirijan al nuevo:
 
-- Configura una redirección HTTP 302, que indicará a los navegadores que deben redirigir los requests al nuevo dominio.
-- Recomendamos el uso de herramientas como [direcionar.com.br](https://direcionar.com.br) y [redirect.center](https://redirect.center) para crear la redirección.
+- Configura una redirección HTTP 301, que indicará a los navegadores que deben redirigir los requests al nuevo dominio.
+- Recomendamos el uso de herramientas como [Redirect-301](https://www.redirect-301.com/es/) para crear la redirección.
 - En el panel DNS, evita utilizar CNAME para la redirección, ya que esta configuración no garantiza una redirección correcta.
 
 > ⚠️ Es habitual que las primeras visitas al nuevo dominio sean más lentas de lo esperado, debido al proceso inicial de creación de la caché. Este impacto es temporal y se normaliza con el tiempo.

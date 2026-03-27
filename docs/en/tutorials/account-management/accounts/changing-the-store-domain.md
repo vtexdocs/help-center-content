@@ -94,8 +94,8 @@ You can keep both domains (old and new) running simultaneously during the transi
 
 To ensure that all access to the previous domain is directed to the new domain, follow the instructions below:
 
-- Set up an HTTP 302 redirect that instructs browsers to forward requests to the new domain.
-- We recommend using tools such as [redirect.center](https://redirect.center) or [direcionar.com.br](https://direcionar.com.br) to create the redirect.
+- Set up an HTTP 301 redirect that instructs browsers to forward requests to the new domain.
+- We recommend using tools such as [Redirect-301](https://www.redirect-301.com/en/) to create the redirect.
 - Avoid using CNAME for redirects in the DNS dashboard. That setting doesn't guarantee proper redirection.
 
 > ⚠️ The first traffic to the new domain is often slower than expected due to the initial cache creation. This effect is temporary and normalizes over time.
