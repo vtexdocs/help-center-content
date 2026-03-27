@@ -1,5 +1,5 @@
 ---
-title: 'First Steps'
+title: 'First steps'
 id: 4olNwLYbLsNHAcTVs7ZoGI
 status: PUBLISHED
 createdAt: 2025-09-23T17:36:16.107Z

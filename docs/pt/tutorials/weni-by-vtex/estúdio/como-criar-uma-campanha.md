@@ -1,5 +1,5 @@
 ---
-title: 'Como criar uma campanha'
+title: "Como criar uma campanha"
 id: 552TQfDeoedLJoKg6RFBB3
 status: PUBLISHED
 createdAt: 2025-09-12T18:03:34.475Z
@@ -19,23 +19,23 @@ As campanhas permitem o agendamento de mensagens em datas e horários específic
 
 O envio das mensagens segue um cronograma pré-definido, respeitando uma sequência determinada. Essas mensagens podem ser programadas com base em um comportamento específico dos destinatários ou em seu estado atual, garantindo que a comunicação seja relevante e oportuna.
 
-### Criando uma Campanha
+## Instruções
 
--  Acesse a opção ""**Campanhas**"", dentro do módulo ""**Estúdio**"" no menu lateral
+- Acesse a opção ""**Campanhas**"", dentro do módulo ""**Estúdio**"" no menu lateral
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-uma-campanha_1.png)
 
--    Clique em ""**Criar Campanha**"" para criar a campanha
+- Clique em ""**Criar Campanha**"" para criar a campanha
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-uma-campanha_2.png)
 
--    Crie um nome para a sua campanha, e escolha um **Grupo** para o qual as mensagens serão enviadas e uma nova janela será aberta.
+- Crie um nome para a sua campanha, e escolha um **Grupo** para o qual as mensagens serão enviadas e uma nova janela será aberta.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-uma-campanha_3.png)
 
 Cada campanha pode operar **apenas um grupo.** Sendo então necessário uma nova campanha para cada grupo com o qual você deseja interagir.
 
--    Agora defina as regras do evento clicando no botão **Adicionar evento **e uma jenela será aberta
+- Agora defina as regras do evento clicando no botão **Adicionar evento **e uma jenela será aberta
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-uma-campanha_4.png)
 
@@ -47,10 +47,10 @@ Cada campanha pode operar **apenas um grupo.** Sendo então necessário uma nova
 
 4. Em seguida, defina a data e a hora que você quer que seu evento comece. As seguintes informações compõem uma cadência:
 
--    Quantos minutos, horas, dias, semanas, antes ou depois do valor do campo de contato
+- Quantos minutos, horas, dias, semanas, antes ou depois do valor do campo de contato
 
--   O campo de contato selecionado
+- O campo de contato selecionado
 
--  O momento em que o evento irá começar
+- O momento em que o evento irá começar
 
 5. Em ""Entregue"": pode ser utilizado em caso de agendamentos para mais de 24h, aqui você pode definir se as pessoas receberam a mensagem na data e hora exata do evento, ou se você deseja padronizar para todas as mensagens serem disparadas juntas em um horário específico do dia.

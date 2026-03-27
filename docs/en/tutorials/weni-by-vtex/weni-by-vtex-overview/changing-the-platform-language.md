@@ -1,5 +1,5 @@
 ---
-title: 'Changing the Platform Language'
+title: "Changing the platform language"
 id: 7qzaFp6xA3APSiaLNvj6C4
 status: PUBLISHED
 createdAt: 2025-09-12T15:33:34.931Z
@@ -16,8 +16,6 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
 Currently, the platform is available in Portuguese, English, and Spanish. In this guide, we will show you how to select your preferred language.
-
-### How to change the language
 
 1. When you log into the platform, click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
 

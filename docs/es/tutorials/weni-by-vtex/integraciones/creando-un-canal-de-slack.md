@@ -1,5 +1,5 @@
 ---
-title: 'Creando un Canal de Slack'
+title: "Creando un canal de Slack"
 id: 6At6Ne3yXdVJqEVR8mUzC8
 status: PUBLISHED
 createdAt: 2025-09-15T14:30:28.340Z
@@ -14,8 +14,6 @@ legacySlug: creando-un-canal-de-slack
 locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-### Aprende a crear un canal en Slack
 
 1. Con tu cuenta y workspace ya creados, accede a <https://api.slack.com/apps> y pulsa el botón para crear una nueva aplicación.
 
@@ -103,7 +101,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creando-un-canal-de-slack_23.png)
 
-# **Cómo activar respuestas rápidas/botones en Slack**
+## Cómo activar respuestas rápidas/botones en Slack
 
 En Slack, debes habilitar el envío de respuestas rápidas. Ve a **Features** > **Interactivity \& Shortcuts**. En la pestaña de **Interactivity**, añade en el campo **Request URL** la URL de callback del Flows.
 

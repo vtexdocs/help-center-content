@@ -1,5 +1,5 @@
 ---
-title: 'Buenas prácticas: Opt-Out'
+title: "Buenas prácticas: Opt-out"
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
@@ -30,7 +30,7 @@ Si el cliente pierde el interés y la empresa no lo elimina de la lista de enví
 
 Esto puede dañar la imagen de la empresa ante ese cliente. Si en el futuro necesita nuevos servicios o soluciones, podría no sentirse cómodo, lo que bastaría para evitar que se cierren nuevos negocios.
 
-#### Mejorar la clasificación por calidad
+## Mejorar la clasificación por calidad
 
 Para evitar el opt-out de tus clientes, puedes mejorar la clasificación de calidad de tu cuenta.
 

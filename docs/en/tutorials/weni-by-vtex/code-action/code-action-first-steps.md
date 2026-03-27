@@ -1,5 +1,5 @@
 ---
-title: 'Code Action First Steps'
+title: 'Code action first steps'
 id: 2JLD82mkwWbpwkowe790eh
 status: PUBLISHED
 createdAt: 2025-09-16T14:54:03.016Z

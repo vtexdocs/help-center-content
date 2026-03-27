@@ -1,5 +1,5 @@
 ---
-title: "Primeiros passos Code Action"
+title: "Primeiros passos - Code Action"
 id: 2JLD82mkwWbpwkowe790eh
 status: PUBLISHED
 createdAt: 2025-09-16T14:54:03.016Z
@@ -15,11 +15,9 @@ locale: pt
 subcategoryId: 3q6HjVqNcRNNZttPAV93wi
 ---
 
-### O que é o Code Action?
-
 Code action é uma ferramente que possibilita a criação de um microsserviço em Python que pode ser usado diretamente na plataforma ou em um sistema externo.
 
-### Em quais casos utilizar?
+## Casos de uso
 
 O code action pode ser utilizado em diversos cenários, um deles seria o recebimento de webhook. Caso você precise receber algum tipo de webhook para iniciar determinada ação.
 
@@ -37,7 +35,7 @@ Para que seja possível gerar esse token, você deverá fazer uma requisição p
 
 Esse código tem validade de até 12h deverá ser utilizado em algumas das próximas APIs.
 
-#### Como criar um Code Action
+#### Como criar um code action
 
 Você pode ter dois tipos de Code Actions, são eles: JSON e HTML.
 
@@ -168,7 +166,6 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
   ```
 
 - Sempre que for necessário acessar informações presentes no **body** da requisição recebida, elas estarão disponíveis em `engine.body`. No entanto, esse conteúdo **não estará no formato JSON por padrão**. Para convertê-lo em um dicionário Python, utilize a função `json.loads()`. Após essa conversão, os dados estarão prontos para serem manipulados normalmente no formato de objeto JSON.
-
   - No código acima, o JSON esperado é algo parecido com este
   - ```
     {
@@ -184,7 +181,6 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
     ```
 
 - Com isso, é possível pegar o OrderId utilizando as seguintes linhas
-
   - ```
     bd = engine.body
     bd_dict = json.loads(bd)
@@ -204,7 +200,7 @@ print(custom_header) -> ""custom_header_value""
   - O status_code, será responsável por você afirmar para o usuário qual o se seu código deu sucesso (Sendo um status_code 200, 201\...) ou se seu código deu erro (400, 403, 404\...)
 - Caso você precise que seu código exiba algum tipo de registro durante o processamento, você pode utilizar a expressão: `engine.log.debug(”valor a ser exibido”)` , para mais informações de como visualizar essas logs acesse [Logs e Debug](#logs-e-debug).
 
-## Logs e Debug
+## Logs e debug
 
 ### Logs de execução
 

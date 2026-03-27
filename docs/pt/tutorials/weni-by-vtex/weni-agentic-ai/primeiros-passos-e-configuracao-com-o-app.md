@@ -1,5 +1,5 @@
 ---
-title: 'Primeiros passos e configuração com o App'
+title: "Primeiros passos e configuração com o app"
 id: 4olNwLYbLsNHAcTVs7ZoGI
 status: PUBLISHED
 createdAt: 2025-09-23T17:36:16.107Z
@@ -14,8 +14,6 @@ legacySlug: primeiros-passos-e-configuracao-com-o-app
 locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
-
-#### Configurando o app
 
 Após baixar e instalar o app, busque pelo add-on **Weni Agentic AI** dentro do módulo de **Aplicativos**.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Chatbot Integrado a la API Sienge'
+title: 'Chatbot integrado a la API Sienge'
 id: 3ysIw5ORs4JzRTJN92GDx7
 status: PUBLISHED
 createdAt: 2025-09-17T14:23:32.240Z
@@ -14,8 +14,6 @@ legacySlug: chatbot-integrado-a-la-api-sienge
 locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
-
-### Plantilla de Chatbot Sienge
 
 Es un chatbot diseñado para enviar la segunda vía en PDF, extracto en PDF, saldo deudor y realizar cobros a través de canales externos, como WhatsApp. Weni ofrece soluciones digitales para la automatización de la comunicación consciente, abierta y accesible. Este chatbot es un proyecto plantilla desarrollado por Weni utilizando la plataforma Sienge.
 

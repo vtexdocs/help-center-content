@@ -1,5 +1,5 @@
 ---
-title: 'The Basics of Integrations'
+title: "The basics of integrations"
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z
@@ -15,14 +15,12 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Integration via API
-
 Integration is the action to search, modify or send information to a service. The integrations are divided into two:
 
 - **Native**: The Weni platform can integrate with APIs that have REST/Json format through a Webhook card or through a pre-existing application in the Integrations menu.
 - **Non-native**: We do non-native integrations for APIs that are not REST/Json. However, in this case, we must analyze the effort and scope of the request, since we use external services to consume and model the API, for example [Back4app](https://www.back4app.com/#) and [Pipedream](https://pipedream.com/).
 
-### What is API?
+## What is an API?
 
 It is a form of communication between systems, in which one of them provides information and services that can be used by the other (Weni Platform). Typically an API has:
 
@@ -31,7 +29,7 @@ It is a form of communication between systems, in which one of them provides inf
 - Available endpoints/features
 - Authentication forms to use the API, if necessary.
 
-### What is Webhook?
+## What is webhook?
 
 Webhook is a technology used to allow communication between two applications in real time. At Weni Platform we can search and even update information in other systems through the Call Webhook card.
 
@@ -43,13 +41,13 @@ In this image, we can see what the request body would look like to create a cont
 
 > **Tip:** The Call Webhook card allows the use of variables, such as @results, @contact, and @fields. [Learn more about variables here.](/en/docs/tutorials/expressions-and-variables-introduction)
 
-### How to know if the API can be integrated natively?
+## How to know if the API can be integrated natively?
 
 The API documentation works as a manual that helps us understand how to integrate. It will inform you if the requests are in the native architecture of the Weni platform: REST/Json.
 
 > **Note:** If your API architecture is not REST/Json, it is still possible to integrate, but you will need to model this API.
 
-### How to view API call on Weni platform?
+## How to view API call on Weni Platform?
 
 To view the API return, access the Webhooks log in the Flows Module:
 

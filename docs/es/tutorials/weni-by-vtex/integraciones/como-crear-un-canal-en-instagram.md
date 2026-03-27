@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal en Instagram'
+title: "Cómo crear un canal en Instagram"
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z
@@ -23,11 +23,12 @@ Ahora puedes elevar el nivel y potencial de tu atención al cliente integrando t
 
 De esta manera, creas más compromiso e interacción con tus seguidores, clientes potenciales y socios, aumentando las posibilidades de cerrar nuevos proyectos mientras reduces los costos operativos de atención.
 
-### ¿Cómo configurar tu cuenta de Instagram para crear un canal en nuestra plataforma?
+## ¿Cómo configurar tu cuenta de Instagram para crear un canal en nuestra plataforma?
 
 Las configuraciones a continuación son de suma importancia para la creación del canal de Instagram en nuestra plataforma, ya que sin ellas, la creación no será posible. Los siguientes pasos deberán realizarse en la aplicación de Instagram.
 
-##### Paso 1: Primero, es necesario que tu cuenta de Instagram sea empresarial o profesional
+### Paso 1: Primero, es necesario que tu cuenta de Instagram sea empresarial o profesional
+
 Para hacerlo, sigue estos pasos:
 
 1. Para acceder a tu perfil, toca en Perfil o en tu foto de perfil en la esquina inferior derecha > Editar > Cambiar a cuenta profesional.
@@ -39,7 +40,7 @@ Para hacerlo, sigue estos pasos:
 1. Elige la categoría que mejor represente a tu empresa y selecciona Empresa.
 2. ¡Listo, tu cuenta ahora es empresarial!
 
-##### Paso 2: Conectar tu cuenta de Instagram al perfil de Facebook en la **Central de Cuentas**:
+### Paso 2: Conectar tu cuenta de Instagram al perfil de Facebook en la central de cuentas
 
 1. En tu perfil, haz clic en el menú de configuración de tres líneas en la esquina superior derecha.
 
@@ -57,7 +58,8 @@ Para hacerlo, sigue estos pasos:
 
 Para eliminar las cuentas conectadas a Instagram o cambiar la cuenta de Facebook, simplemente entra en **Centro de cuentas** y elimina o cambia las cuentas.
 
-##### Paso 3: Permite el acceso a los mensajes de Instagram
+### Paso 3: Permite el acceso a los mensajes de Instagram
+
 Esta autorización te permite gestionar tus mensajes de Instagram a través de nuestra plataforma. Para habilitarla, sigue los pasos a continuación:
 
 1. En el perfil, haz clic en el menú de tres líneas (Configuración)
@@ -74,9 +76,9 @@ Esta autorización te permite gestionar tus mensajes de Instagram a través de n
 
 4. Habilita la opción Permitir acceso a los mensajes.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-instagram_10.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-instagram_10.png)
 
-### Ahora, es momento de crear el canal en la Plataforma Weni
+## Ahora, es momento de crear el canal en la plataforma Weni
 
 Después de realizar las configuraciones indicadas en la sección anterior, ahora crearemos un canal de Instagram.
 
@@ -95,4 +97,3 @@ Después de realizar las configuraciones indicadas en la sección anterior, ahor
 4. Después de hacer clic en **Conectar**, selecciona la página o perfil de Instagram que deseas integrar y haz clic en **Crear canal**.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-instagram_14.png)
-

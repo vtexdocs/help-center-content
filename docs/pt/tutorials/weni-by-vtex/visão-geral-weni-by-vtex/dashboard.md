@@ -1,5 +1,5 @@
 ---
-title: 'Dashboard'
+title: "Dashboard"
 id: 4oi4f3ojfdc421SfiSRx0M
 status: PUBLISHED
 createdAt: 2025-09-10T15:29:01.982Z
@@ -14,8 +14,6 @@ legacySlug: dashboard
 locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
-
-### Dashboard
 
 Após estar devidamente logado em sua organização e projeto, você terá acesso a esta tela:
 

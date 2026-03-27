@@ -1,5 +1,5 @@
 ---
-title: 'Creación de un canal de Microsoft Teams'
+title: "Creación de un canal de Microsoft Teams"
 id: 6Of4QOVgAa95Z2QjZZYeDR
 status: PUBLISHED
 createdAt: 2025-09-15T14:44:39.171Z
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### **Creación de una Aplicación en Azure**
+## Creación de una aplicación en Azure
 
 1. Para crear tu aplicación de bot, dirígete a <https://portal.azure.com/>. Necesitarás crear una cuenta si aún no tienes una.
 2. Después de iniciar sesión en tu cuenta, selecciona **Crear un recurso**.
@@ -40,7 +40,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 11. Selecciona Ir al recurso. ¡Ahora tu aplicación está creada!
 
-#### **Para crear el secreto de cliente**
+### Para crear el secreto de cliente
 
 1. Desde Configuración, selecciona Configuración. Guarda el ID de aplicación de Microsoft (ID de cliente) para referencia futura.
 
@@ -66,17 +66,17 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_9.png)
 
-#### **Para agregar el canal de Microsoft Teams**
+### Para agregar el canal de Microsoft Teams
 
 1. Ve a Inicio.
 2. En la sección de Recursos Recientes, abre tu bot.
 3. Selecciona Canales en el panel de la izquierda y elige Microsoft Teams de la lista de canales disponibles.
 
-#### **Configurar el perfil del bot**
+### Configurar el perfil del bot
 
 1. Si deseas configurar el perfil del bot, en tu bot ve a Perfil del Bot en el menú de la izquierda y configúralo como desees. Puedes agregar fotos de perfil y otra información.
 
-#### **Para agregar el canal de Microsoft Teams a tu bot**
+### Para agregar el canal de Microsoft Teams a tu bot
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_10.png)
 
@@ -86,7 +86,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 2. Selecciona Guardar.
 
-#### **Creación de un Canal en la Plataforma de Weni**
+### Creación de un canal en la plataforma de Weni
 
 1. Después de iniciar sesión en la plataforma, elige tu organización y proyecto, y ve a Configuración.
 2. Selecciona Agregar Canal.
@@ -106,7 +106,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_13.png)
 
-#### **Configurar el Endpoint en la Aplicación**
+### Configurar el endpoint en la aplicación
 
 1. Regresa a Azure, en Inicio selecciona tu bot en Recursos Recientes y luego ve a Configuración en el menú de la izquierda.
 2. En Endpoint, agrega la URL de abajo; en \[CHANNEL ID] coloca el ID que guardaste en el paso anterior.
@@ -117,7 +117,7 @@ Ejemplo: [https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive]
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_14.png)
 
-#### **Configurar el bot en Teams**
+### Configurar el bot en Teams
 
 1. En la esquina inferior izquierda, selecciona Aplicaciones.
 2. Usa la barra de búsqueda a la izquierda y busca App Studio. Selecciónalo, instálalo y luego haz clic en abrir.

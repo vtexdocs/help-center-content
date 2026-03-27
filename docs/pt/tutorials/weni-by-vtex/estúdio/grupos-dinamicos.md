@@ -1,5 +1,5 @@
 ---
-title: 'Grupos dinâmicos'
+title: "Grupos dinâmicos"
 id: 51C5xzAp6Y00sK42SAGCSL
 status: PUBLISHED
 createdAt: 2025-09-12T17:30:05.020Z
@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-### Grupo dinâmico e pesquisas de contato
-
 Na aba de contatos, existe uma barra de busca. Essa barra de busca pode ser utilizada para achar e filtrar contatos que obedecem às regras definidas na barra. Normalmente, utilizamos campos de contato e alguns operadores para fazer a expressão de busca, ou se
 ja:
 
@@ -30,7 +28,7 @@ Abaixo, seguem alguns dos operadores que podemos utilizar nessas buscas:
 
 - obedece uma das regras)
 
--  > , >= (Maior que, maior ou igual a)
+- > , >= (Maior que, maior ou igual a)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/grupos-dinamicos_1.png)
 

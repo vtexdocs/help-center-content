@@ -1,5 +1,5 @@
 ---
-title: 'Zero Shot Learning'
+title: "Zero shot learning"
 id: 5Qk9g3o19n26jSz7cnbVL8
 status: PUBLISHED
 createdAt: 2025-09-16T16:48:11.308Z
@@ -15,33 +15,33 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-### Zero Shot
-
 Zero Shot is a natural language processing technique that allows intelligent agents to recognize features that have not been previously trained. Zero Shot requires no training data, allowing you to shorten the AI ​​creation process and classify sentences quickly and accurately. Its biggest benefits are: increased customer adoption, better understanding during the conversation with the end user and greater ease in implementing AI in new projects.
 Some important information about the model:
-  * ZeroShot ranks higher in Portuguese, Spanish and English compared to the current market leaders:
 
-Zero Shot| 78.4% Accuracy
----|---
-GPT-4-Turbo| 76.8% Accuracy
-Claude 3 (Sonnet)| 77.6% Accuracy
-  * At least 3x faster in classification (inference);
-  * Efficient model included in your Weni plan, without the need for API calls or additional costs;
-  * Easy and quick implementation.
+- ZeroShot ranks higher in Portuguese, Spanish and English compared to the current market leaders:
+
+| Zero Shot         | 78.4% Accuracy |
+| ----------------- | -------------- |
+| GPT-4-Turbo       | 76.8% Accuracy |
+| Claude 3 (Sonnet) | 77.6% Accuracy |
+
+- At least 3x faster in classification (inference);
+- Efficient model included in your Weni plan, without the need for API calls or additional costs;
+- Easy and quick implementation.
 
 Watch a quick, explanatory video: [Video](https://youtu.be/RDRgSXIJRrM)
 
-#### Application and Features
+## Application and features
 
 The way the Zero Shot application works consists of receiving as input a phrase, which will be categorized, and identifying which category this input belongs to according to the customer's context. Categories are defined through Command Phrases, which serve as context to identify and generate the correct classification. From the input data, the model is expected to return the category of the sentence.
 
 When we talk about context, take into account that whenever you use Zero Shot, we must configure the Command Phrases. **Command phrases will instruct the intelligence to classify your intentions (called ""Classes"") according to rules defined by you.**
 
-#### Zero Shot in Practice
+## Zero shot in practice
 
 There are two ways to create a Zero Shot classification AI on the Weni Platform: through the **Classify automatically** and **Smart Wait for response** flow cards.
 
-##### Smart Wait for response
+### Smart wait for response
 
 With the Smart Wait for response card, you can wait for the user's response and send that response directly to your AI Classification, so you can create your categories and treat each intention as you wish:
 
@@ -59,7 +59,7 @@ Remember, each category must have a Command Phrase. The command phrases will ins
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_3.png)
 
-##### Automatic Classiffy
+### Automatic classify
 
 With the Automatic classify card, you can use an expression or variables as the input for classifying user intent (Class). This card is normally used when you already have a **text** to deal with and do not need to wait for a response from the user before consulting Artificial Intelligence:
 
@@ -67,7 +67,7 @@ With the Automatic classify card, you can use an expression or variables as the 
 
 The difference between the **Smart Wait for response** card and the **Automatic Classify** card is that **Automatic Classify** will not cause a pause in the flow to receive a response from the contact.
 
-##### Use Cases
+### Use cases
 
 Example use case for client context in the financial area:
 **phrase:** ""I want to talk to an attendant""

@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp'
+title: "WhatsApp bussiness API: Limitação de disparos em massa do WhatsApp"
 id: 1mMpu05SPvb9ZDJTSSkTEp
 status: PUBLISHED
 createdAt: 2025-09-15T15:32:11.616Z
@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Limitação de Disparos em Massa do WhatsApp (WhatsApp Rate Limiting)
-
 Após concluir o processo de aprovação e integração do WhatsApp, seu número de telefone com a Weni será ativado para o WhatsApp. Mesmo após a aprovação e habilitação do seu número, o WhatsApp possui uma política de progressão de envio de mensagens, impondo uma limitação.
 
 Os limites de mensagens são o máximo de conversas iniciadas pela empresa (abertas devido ao envio de um modelo de marketing, utilidade ou autenticação a um usuário do WhatsApp) que um número de telefone comercial pode abrir em um período de 24 horas.
@@ -25,15 +23,15 @@ Inicialmente, os números de telefone comercial têm o limite de 250 conversas i
 
 Devido a essa limitação, recomenda-se à empresa que deseja enviar mensagens para mais de 1\.000 usuários únicos (o que na Weni chamamos de contatos ativos) que as envie gradualmente ao longo do período de uma semana.
 
-#### Limitações do WhatsApp
+## Limitações do WhatsApp
 
 Existem diferentes níveis de limitação de disparos de mensagens no WhatsApp:
 
-| Nível 1 | Limitado a 1\.000 destinatários únicos (contatos ativos) por dia. |
-| --- | --- |
-| Nível 2 | Limitado a 10\.000 destinatários únicos (contatos ativos) por dia. |
+| Nível 1 | Limitado a 1\.000 destinatários únicos (contatos ativos) por dia.   |
+| ------- | ------------------------------------------------------------------- |
+| Nível 2 | Limitado a 10\.000 destinatários únicos (contatos ativos) por dia.  |
 | Nível 3 | Limitado a 100\.000 destinatários únicos (contatos ativos) por dia. |
-| Nível 4 | Sem limitações. |
+| Nível 4 | Sem limitações.                                                     |
 
 Números recém-habilitados no WhatsApp iniciam no Nível 1\. O WhatsApp monitora o volume e a qualidade das mensagens e atualiza automaticamente o cliente dentre os níveis com base no número total de contatos ativos nos últimos 7 dias.
 
@@ -51,7 +49,7 @@ Essa limitação **NÃO** se aplica a mensagens enviadas em resposta a uma mensa
 
 Como o WhatsApp criptografa as mensagens, ele depende do feedback do usuário para medir a qualidade das mensagens. O WhatsApp usa esse feedback para definir uma ""classificação de qualidade"" interna que pode afetar como os usuários se movem entre os níveis de limitação. Fatores como a frequência que o seu número é marcado em ""denunciar spam"" e ""bloquear"" podem influenciar a classificação de qualidade. Remetentes com uma baixa classificação de qualidade podem não estar qualificados para subir nos níveis apresentados anteriormente.
 
-#### Para manter uma qualidade alta, o WhatsApp recomenda o seguinte:
+## Para manter uma qualidade alta, o WhatsApp recomenda o seguinte
 
 Caso a verificação da empresa ou de identidade seja rejeitada, verifique se você está enviando mensagens de alta qualidade. Periodicamente, reavaliaremos sua atividade e a qualidade das mensagens. Com base nisso, poderemos [aprovar](https://developers.facebook.com/docs/whatsapp/messaging-limits/#increase-approvals) o aumento.
 

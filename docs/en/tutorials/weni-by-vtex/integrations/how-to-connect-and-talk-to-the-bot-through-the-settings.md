@@ -1,5 +1,5 @@
 ---
-title: 'How to connect and talk to the bot through the settings'
+title: "How to connect and talk to the bot through the settings"
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Reaching the consumer requires a multichannel approach. Multichannel communication involves using available technologies to ensure that the customer receives personalized information through the various channels they already use in their daily life.
 
-#### To add channels to your account, you must:
+To add channels to your account, you must:
 
 1. In your project: **Apps > Other Applications > Add Channel**.
 

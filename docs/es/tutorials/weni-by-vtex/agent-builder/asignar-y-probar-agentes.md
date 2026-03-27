@@ -1,5 +1,5 @@
 ---
-title: 'Asignar y probar agentes'
+title: "Asignar y probar agentes"
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
@@ -22,6 +22,7 @@ Algunos agentes oficiales requieren credenciales. Consulta la lista completa en 
 > ℹ️ Para crear agentes personalizados, utiliza la CLI de Weni by VTEX. Consulta la [documentación](https://weni-ai.github.io/weni-cli/getting-started/installation/) para crear tu propio agente.
 
 Este artículo se divide en dos partes:
+
 - [Asignar un agente al equipo](#como-asignar-un-agente)
 - [Probar un agente](#como-probar-un-agente)
 
@@ -40,6 +41,7 @@ Este artículo se divide en dos partes:
 Para probar un agente, haz clic en `Vista previa`.
 
 En esta pantalla puedes:
+
 - Iniciar una conversación utilizando el cuadro de diálogo.
 - Enviar un mensaje de audio haciendo clic en el ícono de micrófono.
 - Enviar una imagen haciendo clic en el ícono de más <i class="fas fa-plus"></i> y luego en `Fotos`.
@@ -48,15 +50,15 @@ En **Flujo visual** pueden observarse los agentes que se activan a partir de las
 
 En **Logs**, se registra el historial detallado de eventos procesados por la inteligencia artificial (IA). Con esta información, puedes identificar cómo funciona la IA y diagnosticar problemas, mejorando su desempeño. Haz clic en `Filtrar logs` para buscar por palabras clave o buscar entre las siguientes categorías:
 
-| Categoría | Descripción de la etapa |
-| ------------- | :-------------- |
-| Aplicando reglas de seguridad | Aplica protecciones y mecanismos de seguridad. |
-| Conocimientos | Busca información en la base de conocimientos del agente. |
-| Asignando tarea al agente | Activa al agente con tareas. |
-| Redirigiendo al manager | Redirige los mensajes del usuario al manager, el agente principal encargado de elaborar la respuesta final para el usuario. |
-| Enviando respuesta final | Envía la respuesta final al usuario. |
-| Enviando respuesta al manager | Redirige la información al manager, el agente principal que interactúa con el usuario. |
-| Pensando | Analiza los siguientes pasos a realizar. |
-| Herramienta | Activa la herramienta que el agente utiliza para interactuar con otros sistemas. |
+| Categoría                     | Descripción de la etapa                                                                                                     |
+| ----------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| Aplicando reglas de seguridad | Aplica protecciones y mecanismos de seguridad.                                                                              |
+| Conocimientos                 | Busca información en la base de conocimientos del agente.                                                                   |
+| Asignando tarea al agente     | Activa al agente con tareas.                                                                                                |
+| Redirigiendo al manager       | Redirige los mensajes del usuario al manager, el agente principal encargado de elaborar la respuesta final para el usuario. |
+| Enviando respuesta final      | Envía la respuesta final al usuario.                                                                                        |
+| Enviando respuesta al manager | Redirige la información al manager, el agente principal que interactúa con el usuario.                                      |
+| Pensando                      | Analiza los siguientes pasos a realizar.                                                                                    |
+| Herramienta                   | Activa la herramienta que el agente utiliza para interactuar con otros sistemas.                                            |
 
 Para limpiar la conversación, haz clic en el menú <i class="fas fa-ellipsis-v"></i> al lado de **Vista previa de los agentes** y selecciona `Limpiar conversaciones`.

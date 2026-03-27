@@ -1,5 +1,5 @@
 ---
-title: 'Introdução a contatos'
+title: "Introdução a contatos"
 id: 4X4YaqNra4d8PmUYo8MpID
 status: PUBLISHED
 createdAt: 2025-09-12T17:12:46.028Z
@@ -15,12 +15,10 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-### **Introdução a contatos**
-
 Aqui estão todas as pessoas com quem você manterá contato. Existem duas maneiras de um usuário se tornar contato na plataforma:
 
 - De forma ativa, por meio do **envio de uma mensagem** para algum dos canais cadastrados pela organização.
-- - Através do botão **importar contatos** que permite a importação de uma planilha (que deve seguir regras específicas) com contatos que ainda não interagiram com a plataforma. Para acessar essas informações entre no seu projeto e clique no módulo **""Estúdio""** no menu lateral esquerdo.
+- Através do botão **importar contatos** que permite a importação de uma planilha (que deve seguir regras específicas) com contatos que ainda não interagiram com a plataforma. Para acessar essas informações entre no seu projeto e clique no módulo **""Estúdio""** no menu lateral esquerdo.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/introducao-a-contatos_1.png)
 

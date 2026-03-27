@@ -1,5 +1,5 @@
 ---
-title: 'Distribución y Enrutamiento de las atenciones'
+title: 'Distribución y enrutamiento de las atenciones'
 id: 1vxyqKMo6a5JZZUjVuW6Oj
 status: PUBLISHED
 createdAt: 2025-09-12T16:43:27.944Z
@@ -14,8 +14,6 @@ legacySlug: distribucion-y-enrutamiento-de-las-atenciones
 locale: es
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
-
-### Regla de distribución de las atenciones
 
 Las reglas actuales de distribución automática de las atenciones son las
 siguientes:
