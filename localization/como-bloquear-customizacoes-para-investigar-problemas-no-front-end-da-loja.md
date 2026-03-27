@@ -33,7 +33,6 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
 5. A aba **Request conditions** abrirá em seguida, como mostra a imagem abaixo:
 
-  ![request-conditions](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/request-conditions.png)
 
 6. Clique em `Add rule` para definir que o primeiro recurso será bloqueado. Para adicionar mais recursos, clique em `+` e, depois de definir, clique em `Adicionar`. Essa configuração precisa ser feita apenas uma vez no seu navegador. Inclua os itens abaixo:
 
