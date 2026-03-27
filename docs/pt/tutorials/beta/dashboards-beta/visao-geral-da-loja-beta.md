@@ -22,7 +22,7 @@ A página Visão Geral (Beta) em seu Admin VTEX fornece um acompanhamento em tem
 
 Essa ferramenta está disponível no Admin VTEX, na página de início. Para acessá-la, clique em **Dashboards > Visão Geral** no menu de navegação, ou digite _Visão Geral_ na barra de busca no topo da página.
 
-![PT Visão geral Beta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/visao-geral-da-loja-beta_1.png)
+![PT Visão geral Beta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_1.png)
 
 Neste artigo, apresentamos as principais seções e ações presentes na página. Saiba mais sobre:
 
@@ -73,7 +73,7 @@ Caso deseje analisar os resultados gerados por campanhas, promoções ou lançam
 3. Selecione a [visualização](#visualizacao) `Acumulada`.
 4. Acompanhe a performance hora a hora das métricas.
 
-![PT visão geral acumulado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/visao-geral-da-loja-beta_2.png)
+![PT visão geral acumulado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_2.png)
 
 ### Acompanhar impactos de mudanças na loja
 
@@ -86,7 +86,7 @@ Caso deseje ver o impacto de mudanças feitas na loja, para identificar um poss�
 3. Avalie o pulso nas métricas, ou pontos de inflexão no gráfico, ocorridos nas últimas duas horas. 
 4. Compare os horários dos pontos de inflexão, com as mudanças geradas para identificar sua causa e impacto. 
 
-![PT visão geral últimas duas horas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/visao-geral-da-loja-beta_3.png)
+![PT visão geral últimas duas horas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_3.png)
 
 ## Comparar períodos
 
@@ -129,7 +129,7 @@ A tabela abaixo descreve os gráficos incluídos na seção _Monitoramento_ da p
 
 ## Métricas
 
-![PT métricas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/visao-geral-da-loja-beta_4.png)
+![PT métricas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_4.png)
 
 A tabela abaixo descreve as métricas disponíveis no painel da página inicial. Todas as métricas se referem aos fluxos de compra realizados em lojas VTEX no período selecionado.
 
