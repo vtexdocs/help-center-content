@@ -1,12 +1,11 @@
 ---
 title: "Visão geral do CMS"
-slug: "cms-visao-geral-beta"
-hidden: false
 createdAt: "2026-03-27T17:08:52.219Z"
 updatedAt: "2026-03-27T17:08:52.219Z"
-excerpt: "{Insert a synopsis of your article here}"
-hidePaginationPrevious: false
-hidePaginationNext: false
+contentType: tutorial
+productTeam: CMS
+slugEN: "cms-overview-beta"
+locale: pt
 ---
 
 O Sistema de Gerenciamento de Conteúdo (CMS) oferece aos lojistas a flexibilidade e o controle necessários para gerenciar e estruturar o conteúdo da frente de loja de forma independente, permitindo que equipes de negócios e editores de conteúdo criem múltiplas versões de conteúdo, colaborem nas informações, revisem a qualidade e programem a publicação. Para acessar o CMS, abra o Admin VTEX e acesse **Storefront > Conteúdo > Conteúdo**.

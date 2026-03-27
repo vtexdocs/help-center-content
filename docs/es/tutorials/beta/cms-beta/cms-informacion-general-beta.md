@@ -1,12 +1,11 @@
 ---
 title: "Información general de la gestión de contenidos"
-slug: "cms-informacion-general-beta"
-hidden: false
 createdAt: "2026-03-27T17:08:52.219Z"
 updatedAt: "2026-03-27T17:08:52.219Z"
-excerpt: "{Insert a synopsis of your article here}"
-hidePaginationPrevious: false
-hidePaginationNext: false
+contentType: tutorial
+productTeam: CMS
+slugEN: "cms-overview-beta"
+locale: es
 ---
 
 El sistema de gestión de contenidos (CMS) ofrece a las empresas la flexibilidad y el control necesarios para gestionar y estructurar el contenido de su storefront de manera independiente permitiendo que los equipos de negocio y editores de contenido creen múltiples versiones, colaboren en detalles, revisen la calidad y programen la publicación. Accede al CMS desde el Admin VTEX en **Storefront > Contenido > Contenido**.

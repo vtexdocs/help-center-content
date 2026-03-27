@@ -1,12 +1,11 @@
 ---
 title: "Content Management overview"
-slug: "cms-overview-beta"
-hidden: false
 createdAt: "2026-03-27T17:08:52.219Z"
 updatedAt: "2026-03-27T17:08:52.219Z"
-excerpt: "{Insert a synopsis of your article here}"
-hidePaginationPrevious: false
-hidePaginationNext: false
+contentType: tutorial
+productTeam: CMS
+slugEN: "cms-overview-beta"
+locale: en
 ---
 
 The Content Management System (CMS) provides merchants with the flexibility and control needed to manage and structure their storefront content independently. It allows business teams and content editors to create multiple versions of content, collaborate on details, review for quality, and schedule publishing. To access the CMS, open the VTEX Admin and go to **Storefront > Content > Content**.
