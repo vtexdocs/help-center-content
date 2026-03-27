@@ -26,7 +26,7 @@ In this article, you'll learn how to manage organizational units through the fol
 
 1. On the organization account homepage, in the **Organization** section, click `Organizational units`.
 
-   ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
+    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. On the **Organizational units** screen, click the `+` icon.
 
@@ -48,13 +48,13 @@ After creating an organizational unit, it will be listed on the **Organizational
 
 1. On the **Organizational units** page, in the row of the organizational unit you want to add a user to, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add user`.
 2. Complete the new user information:
-   - Name
-   - Email
-   - Phone number (optional)
-   - Username
+    - Name
+    - Email
+    - Phone number (optional)
+    - Username
 3. Select the roles you want to assign to the user.
 
-   > ℹ️ For more information about roles in **B2B Buyer Portal**, see the article [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+    > ℹ️ For more information about roles in **B2B Buyer Portal**, see the article [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
 
 4. Click `Add`.
 

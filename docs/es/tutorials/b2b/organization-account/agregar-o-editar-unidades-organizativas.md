@@ -26,7 +26,7 @@ Este artículo orienta sobre la gestión de las unidades organizativas y está d
 
 1. En la página de inicio de la cuenta de organización, en la sección **Organización**, haz clic en `Unidades organizativas`.
 
-   ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
+    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. En la pantalla de **Unidades organizativas**, haz clic en el ícono `+`.
 
