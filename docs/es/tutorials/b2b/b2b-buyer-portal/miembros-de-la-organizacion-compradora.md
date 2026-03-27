@@ -8,7 +8,7 @@ slugEN: buyer-organization-members
 locale: es
 ---
 
-En una organización compradora B2B, los miembros son las personas que interactúan con la tienda en nombre de la organización. Sus acciones se definen por los roles y permisos que se les asignan y por la forma en que la organización utiliza la **información de contacto** y los **datos del comprador**. Este artículo explica los tipos de miembros y los conceptos relacionados para definir las acciones que diferentes usuarios pueden realizar en la organización.
+En una organización compradora B2B, los miembros son las personas que interactúan con la tienda en nombre de la organización. Sus acciones se definen por los roles y permisos que se les asignan y por la forma en que la organización utiliza los **destinatarios** y los **datos del comprador**. Este artículo explica los tipos de miembros y los conceptos relacionados para definir las acciones que diferentes usuarios pueden realizar en la organización.
 
 > ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
 
@@ -39,11 +39,11 @@ La siguiente tabla resume los principales roles y sus funciones:
 
 ## Destinatarios
 
-**Los destinatarios** o **contactos** son las personas que pueden seleccionarse como destinatarias de los pedidos, es decir, la persona que recibirá el envío. El contacto de un pedido puede ser diferente del usuario que lo realizó. Al realizar un pedido, el comprador puede elegir el contacto destinatario del pedido.
+**Los destinatarios** son las personas que pueden seleccionarse como destinatarias de los pedidos, es decir, la persona que recibirá el envío. El contacto de un pedido puede ser diferente del usuario que lo realizó. Al realizar un pedido, el comprador puede elegir el contacto destinatario del pedido.
 
-La información de contacto se gestiona a nivel de la organización. Los contactos pueden estar vinculados a direcciones para que, al seleccionar una dirección de envío, el usuario pueda elegir entre los contactos asociados a esa dirección. Esto mantiene los datos de los destinatarios centralizados y permite que se reutilicen en otros pedidos.
+La información de los destinatarios se gestiona a nivel de la organización. Los contactos pueden estar vinculados a direcciones para que, al seleccionar una dirección de envío, el usuario pueda elegir entre los contactos asociados a esa dirección. Esto mantiene los datos de los destinatarios centralizados y permite que se reutilicen en otros pedidos.
 
-Para detalles técnicos sobre cómo crear, actualizar e integrar información de contacto vía APIs, consulta la [API B2B Contact Information](https://developers.vtex.com/docs/api-reference/b2b-contact-information-api).
+Para detalles técnicos sobre cómo crear, actualizar e integrar destinatarios vía APIs, consulta la [API de Destinatarios B2B](https://developers.vtex.com/docs/api-reference/b2b-recipients-api).
 
 ## Compradores
 

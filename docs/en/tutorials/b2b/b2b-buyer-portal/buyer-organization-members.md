@@ -8,7 +8,7 @@ slugEN: buyer-organization-members
 locale: en
 ---
 
-In a B2B buyer organization, members are the people who interact with the store on behalf of the organization. Their actions are defined by roles and permissions assigned to them, as well as by how the organization uses **contact details** and **buyer information**. This article describes the types of members and related concepts to explain the actions different users can perform in your organization.
+In a B2B buyer organization, members are the people who interact with the store on behalf of the organization. Their actions are defined by roles and permissions assigned to them, as well as by how the organization uses **recipients** and **buyer information**. This article describes the types of members and related concepts to explain the actions different users can perform in your organization.
 
 > ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
@@ -41,9 +41,9 @@ The table below summarizes the main roles and their functions:
 
 **Recipients** or **Contacts** are the people who can be selected as order recipients — the people who'll receive the shipment. The order contact may be different from the user who placed the order. When placing an order, the buyer can choose the contact (recipient) the order is for.
 
-Contact details are managed at the organization level. Contacts can be linked to addresses so that, when selecting a shipping address, the user can choose from the contacts associated with that address. This keeps recipient information centralized and reusable between orders.
+Recipient information is managed at the organization level. Contacts can be linked to addresses so that, when selecting a shipping address, the user can choose from the contacts associated with that address. This keeps recipient information centralized and reusable between orders.
 
-For technical details on how to create, update, and integrate contact details via APIs, see the [B2B Contact Details API](https://developers.vtex.com/docs/api-reference/b2b-contact-information-api).
+For technical details on how to create, update, and integrate recipients via APIs, see the [B2B Recipients API](https://developers.vtex.com/docs/api-reference/b2b-recipients-api).
 
 ## Buyers
 
