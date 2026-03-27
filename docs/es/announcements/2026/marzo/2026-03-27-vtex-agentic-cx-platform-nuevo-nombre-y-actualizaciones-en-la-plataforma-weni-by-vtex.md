@@ -2,12 +2,12 @@
 title: 'VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX'
 status: PUBLISHED
 createdAt: 2026-03-26T18:30:00.000Z
-updatedAt: 2026-03-27T18:30:00.000Z
-publishedAt: 2026-03-27T18:30:00.000Z
+updatedAt: 2026-03-27T15:00:00.000Z
+publishedAt: 2026-03-27T15:00:00.000Z
 contentType: updates
 productTeam: VTEX Agentic CX Platform
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: 2026-03-26-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform
+slugEN: 2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform
 locale: es
 announcementSynopsisPT: 'Weni by VTEX ahora se llama VTEX Agentic CX Platform y presenta una nueva imagen y una navegación reorganizada.'
 tags:
