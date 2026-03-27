@@ -34952,7 +34952,7 @@
             "pt": "Storefront"
           },
           "slug": {
-            "en": "storefront-category-category",
+            "en": "storefront-category",
             "es": "storefront-categoria",
             "pt": "storefront-categoria"
           },
@@ -36502,7 +36502,7 @@
                 "pt": "Storefront - Visão geral"
               },
               "slug": {
-                "en": "storefront-category",
+                "en": "storefront-overview",
                 "es": "vision-general-storefront",
                 "pt": "visao-geral-storefront"
               },
