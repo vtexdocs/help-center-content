@@ -16562,14 +16562,14 @@
             },
             {
               "name": {
+                "en": "Account settings - Overview",
                 "es": "Configuraciones de la cuenta - Información general",
-                "pt": "Configurações da conta - Visão geral",
-                "en": "Configuraciones de la cuenta - Información general"
+                "pt": "Configurações da conta - Visão geral"
               },
               "slug": {
+                "en": "account-settings-overview",
                 "es": "vision-general-configuraciones-de-la-cuenta",
-                "pt": "visao-geral-configuracoes-da-conta",
-                "en": ""
+                "pt": "visao-geral-configuracoes-da-conta"
               },
               "origin": "",
               "type": "markdown",
