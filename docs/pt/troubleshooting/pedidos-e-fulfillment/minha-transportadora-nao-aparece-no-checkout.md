@@ -9,7 +9,7 @@ firstPublishedAt: 2026-02-20T00:00:00.199Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: my-carrier-does-not-appear-at-checkout
+slugEN: my-carrier-isnt-showing-at-checkout
 legacySlug: minha-transportadora-nao-aparece-no-checkout
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
