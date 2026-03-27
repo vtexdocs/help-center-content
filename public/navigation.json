@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
+                    "es": "VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
+                    "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform",
+                    "es": "2026-03-27-vtex-agentic-cx-platform-nuevo-nombre-y-actualizaciones-en-la-plataforma-weni-by-vtex",
+                    "pt": "2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Amazon: Price suggestion",
                     "es": "Amazon: Sugerencia de precios",
                     "pt": "Amazon: Sugestão de preços"
