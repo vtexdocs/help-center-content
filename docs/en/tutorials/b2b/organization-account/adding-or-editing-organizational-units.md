@@ -15,7 +15,7 @@ locale: en
 In this article, you'll learn how to manage organizational units through the following sections:
 
 - [Adding an organizational unit](#adding-an-organizational-unit)
-- [Renaming an organizational unit](#rename-an-organizational-unit)
+- [Renaming an organizational unit](#renaming-an-organizational-unit)
 - [Adding a user to an organizational unit](#adding-a-user-to-an-organizational-unit)
 - [Adding a child (sub) organizational unit](#adding-a-child-sub-organizational-unit)
 - [Removing an organizational unit](#removing-an-organizational-unit)
@@ -55,6 +55,7 @@ After creating an organizational unit, it will be listed on the **Organizational
 3. Select the roles you want to assign to the user.
 
    > ℹ️ For more information about roles in **B2B Buyer Portal**, see the article [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+
 4. Click `Add`.
 
 ## Adding a child (sub) organizational unit
