@@ -29,7 +29,7 @@ To configure [Chrome DevTools](https://developer.chrome.com/docs/devtools/), fol
 3. Click the vertical ellipsis in the top right corner of the page, as shown in the image below.
 4. Select **More tools** and then **Request conditions** to block all customizations made via CSS, JavaScript, and Google Tag Manager.
 
-![Customizations1 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_1.png)
+![Customizations1 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/legado-02-en.png)
 
 5. In the **Request conditions** tab, Click `Add rule` to set the first resource to be blocked. To add more resources, click `+` and, after defining it, click `Add`. This configuration only needs to be set once in your browser. Include the items below:
 
@@ -39,12 +39,10 @@ To configure [Chrome DevTools](https://developer.chrome.com/docs/devtools/), fol
 - `*:/files/*.css`
 - `*://www.googletagmanager.com/gtm.js*`
 
-![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/legado-02-en.png)
+![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/request-conditions-02-en.png)
 
 6. Check the **Enable blocking and throttling** option and all the checkboxes next to each configured resource. This will be the default configuration, with all options enabled for blocking.
 7. Now refresh the page. It will display without the custom components.
-
-![Customizations4 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/request-conditions-02-en.png)
 
 Check whether the unwanted behavior you initially observed occurs only when the customization is active. If it does, contact your frontend team and have them check the behavior.
 
