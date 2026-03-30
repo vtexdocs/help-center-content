@@ -285,6 +285,68 @@
             },
             {
               "name": {
+                "en": "Diciembre",
+                "es": "Diciembre",
+                "pt": "Diciembre"
+              },
+              "slug": {
+                "en": "diciembre",
+                "es": "2025-diciembre",
+                "pt": "diciembre"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Nuevo VTEX CMS disponible en lista de espera",
+                    "en": "Nuevo VTEX CMS disponible en lista de espera",
+                    "pt": "Nuevo VTEX CMS disponible en lista de espera"
+                  },
+                  "slug": {
+                    "es": "2025-12-15-nuevo-vtex-cms-disponible-en-lista-de-espera",
+                    "en": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Dezembro",
+                "es": "Dezembro",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "dezembro",
+                "es": "dezembro",
+                "pt": "2025-dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "O novo VTEX CMS já está disponível na lista de espera",
+                    "en": "O novo VTEX CMS já está disponível na lista de espera",
+                    "es": "O novo VTEX CMS já está disponível na lista de espera"
+                  },
+                  "slug": {
+                    "pt": "2025-12-15-o-novo-vtex-cms-ja-esta-disponivel-na-lista-de-espera",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "November",
                 "es": "Noviembre",
                 "pt": "Novembro"
