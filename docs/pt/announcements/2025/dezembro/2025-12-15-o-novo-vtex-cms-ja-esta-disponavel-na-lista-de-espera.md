@@ -6,7 +6,7 @@ updatedAt: 2026-03-27T17:08:52.219Z
 contentType: updates
 productTeam: CMS
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: 2025-12-15-o-novo-vtex-cms-ja-esta-disponavel-na-lista-de-espera
+slugEN: 2025-12-15-new-vtex-cms-now-available-for-waitlist
 locale: pt
 announcementSynopsisPT: 'O novo VTEX CMS já está disponível na lista de espera com recursos modernos para criar e distribuir conteúdo de storefront com mais eficiência.'
 tags:
