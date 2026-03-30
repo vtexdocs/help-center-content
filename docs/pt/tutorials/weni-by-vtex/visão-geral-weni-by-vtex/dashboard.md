@@ -15,13 +15,11 @@ locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-### Dashboard
+## Dashboard
 
 Após estar devidamente logado em sua organização e projeto, você terá acesso a esta tela:
 
 Vamos a uma rápida explicação de cada menu:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/dashboard_1.png)
 
 1. **Projetos:** Menu que exibe seus projetos
 2. **Início:** Tela Inicial que mostra os dados da plataforma
@@ -34,8 +32,6 @@ Vamos a uma rápida explicação de cada menu:
 9. **Módulo de** **Configurações**: Altere dados de cadastro e pagamento, adicione canais e confira seu API token, idioma e arquivos.
 
 Além do Menu lateral principal, a tela de início possui outras funcionalidades
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/dashboard_2.png)
 
 1. Central de aprendizado: Aqui irá encontrar meios de aprendizagem no que diz respeito à Plataforma Weni;
 2. Novidades: Nessa aba dispomos das novidades sobre a Plataforma Weni e demais atividades na ORG inteira e não somente no projeto;

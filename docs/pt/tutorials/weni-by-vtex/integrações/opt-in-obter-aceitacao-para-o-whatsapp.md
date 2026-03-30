@@ -15,13 +15,12 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### **Como Obter Aceitação para o WhatsApp**
-
+## Como Obter Aceitação para o WhatsApp
 Antes de iniciar conversas de marketing, serviços ou autenticação com clientes fora da janela de 24 horas, as empresas devem obter o consentimento explícito dos usuários. Esse consentimento pode ser coletado de diversas formas, tanto dentro quanto fora do WhatsApp. O objetivo é garantir que as pessoas recebam informações relevantes, úteis e que estejam alinhadas às expectativas delas em relação à empresa com a qual interagem.
 
 É permitido usar métodos de consentimento por meio de sites, fluxos de resposta de voz interativa (IVR), ou até mesmo diretamente em conversas pelo WhatsApp.
 
-#### Requisitos para Obter Aceitação
+### Requisitos para Obter Aceitação
 
 As empresas devem seguir os seguintes requisitos ao coletar a aceitação dos usuários:
 
@@ -29,7 +28,7 @@ As empresas devem seguir os seguintes requisitos ao coletar a aceitação dos us
 - Informar de maneira visível o nome da empresa para que o cliente saiba com quem está concordando em interagir.
 - Seguir todas as leis e regulamentações locais aplicáveis.
 
-#### Métodos de Coleta de Aceitação
+### Métodos de Coleta de Aceitação
 
 Se o método de coleta cumprir os requisitos acima, ele estará conforme as políticas da Meta. Abaixo estão exemplos de métodos válidos para obter o consentimento:
 
@@ -51,6 +50,6 @@ Para garantir uma experiência positiva e otimizada, as empresas devem seguir as
 - **Explique a Relevância**: Comunique a importância e os benefícios de receber informações pelo WhatsApp, garantindo que os usuários entendam o valor dessas interações.
 - **Monitore a Qualidade Regularmente**: Esteja atento à classificação de qualidade da empresa, especialmente ao implantar novos métodos de coleta de consentimento.
 
-#### Manter Alta Qualidade nas Interações
+### Manter Alta Qualidade nas Interações
 
 Manter a alta qualidade das conversas entre empresas e clientes é uma das maiores prioridades da Meta. Usuários podem bloquear ou denunciar empresas, e se isso ocorrer com frequência, a qualidade da conta da empresa pode ser impactada, resultando em limitações de volume de mensagens. Além disso, a Meta pode, reativamente, avaliar os métodos de coleta de consentimento da empresa, considerando feedbacks de usuários e outras formas de monitoramento, para identificar possíveis violações das políticas.

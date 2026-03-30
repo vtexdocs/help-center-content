@@ -15,8 +15,7 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-#### **Visão geral**
-
+## Visão geral
 Expressões são fórmulas utilizadas na plataforma de forma muito semelhante às usadas em programas de planilha, como a do Microsoft Excel. Embora tenham evoluído com o tempo e essas semelhanças sejam muito menores agora. É uma linguagem de modelagem baseada em expressões que visa facilitar a geração de texto a partir de um contexto de valores.
 
 Nesse artigo trataremos um pouco sobre:
@@ -25,14 +24,12 @@ Nesse artigo trataremos um pouco sobre:
   * Operadores
   * Funções
 
-#### **Modelos**
-
+## Modelos
 Expressões podem ser chamadas usando o seguinte modelo: `@(...)`.
 
 Por exemplo, o modelo `Hi @(""Dr "" & upper(foo))`pega o valor da variável `@foo`, converte para maiúsculas e o prefixa com outra palavra. Observe que dentro de uma expressão complexa você não precisa colocar `@` antes de todas as variáveis.
 
-#### **Tipos**
-
+## Tipos
 Temos os seguintes tipos de expressões aceitos na plataforma:
 Array: usado para a criação de um array de itens:
 
@@ -81,7 +78,7 @@ Tempo: é uma hora do dia
 
     @(time_from_parts(16, 30, 45)) → 16:30:45.000000@(format_time(time_from_parts(16, 30, 45))) → 16:30@(json(time_from_parts(16, 30, 45))) → ""16:30:45.000000""
 
-#### Operadores
+## Operadores
 
 Abaixo, segue a lista de todos os operadores que podem ser utilizados na construção de expressões na plataforma:
 **+** : soma dois números
@@ -140,7 +137,7 @@ Abaixo, segue a lista de todos os operadores que podem ser utilizados na constru
     @(3 - 2) → 1
     @(2 - 3) → -1
 
-#### Funções
+## Funções
 
 As expressões têm acesso a um conjunto de funções internas que podem ser usadas para executar tarefas mais complexas. As funções são chamadas usando a sintaxe `@(function_name(args..))` e podem assumir como argumentos valores literais `@(length(split(""1 2 3"", "" ""))`ou variáveis no contexto`@(title(contact.name)`.
 

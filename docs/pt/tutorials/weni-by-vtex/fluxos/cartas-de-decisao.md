@@ -31,23 +31,19 @@ Para facilitar a navegação por esse artigo, caso queira ir diretamente para al
   * Classificar automaticamente
   * Aguarde por resposta Inteligente
 
-### Rotas e regras de decisão
+## Rotas e regras de decisão
 
-#### O que são rotas?
+### O que são rotas?
 
 O maior diferencial entre as cartas de decisão e as cartas de ação são a criação de rotas. Essas rotas são possíveis caminhos que uma conversa pode tomar de acordo com alguma resposta ou algum dado do contato, ou seja, a finalidade de todas as cartas de decisão é criar rotas para cada regra, e assim criar as ramificações do nosso fluxo.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_1.png)
 
 Cada rota possui um **_nome/categoria_** _e_ obedece uma **_regra de decisão_**. Você pode ver nas conexões de suas rotas a quantidade de contatos que já seguiram aquele caminho pelo seu fluxo.
 
 A rota **_Outro_** é uma rota padrão, que existe para o caso de o valor analisado não corresponder a nenhuma das regras de decisão criadas. Todas as cartas de decisão, ao terem uma regra definida, também criam a rota Other.
 
-#### Regras de decisão
+### Regras de decisão
 
 As regras de decisão são um conjunto de regras que utilizamos para criar rotas, ou seja, parâmetros que vão ser verificados para decidir se um contato deve ou não deve passar por aquele caminho.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_2.png)
 
 Para utilizar uma regra de decisão, basta selecionar o tipo da regra, depois, colocar o valor para comparação e por último definir a categoria/nome da rota a qual essa regra pertence. Cada nome diferente de categoria, gerará uma nova rota com aquele mesmo nome. Caso você crie mais de uma regra, mas nomeie ela com a mesma categoria, todas as regras apontarão para a rota com aquele nome.
 
@@ -108,7 +104,7 @@ As regras são:
 
 Quer validar o formato de um CPF? Essas regras são o caminho.
 
-### Resultados de fluxo
+## Resultados de fluxo
 
 Toda carta de decisão, escolhe uma rota no fim da sua execução, e isso gera para nós um _**resultado de fluxo**_. Cada resultado de fluxo contém informações como:
   * Valor que foi utilizado para a decisão;
@@ -121,89 +117,66 @@ Você pode acessar esses valores de fluxo utilizando as variáveis da plataforma
 
 Por padrão, os nomes dos resultados serão sempre **_(Result + n)_** onde n é o número de resultados que existem no seu fluxo, porém, isso pode ser facilmente mudado no campo de Result name.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_3.png)
-
 Sempre mude o nome dos seus resultados de fluxo para nomes que você consiga entender de forma simples e intuitiva!
 
-### Aguarde a resposta do contato
+## Aguarde a resposta do contato
 
 A primeira e mais usada das cartas de decisão. As rotas são decididas a partir do texto inserido por um contato. Além disso, possui a opção para criar uma rota caso o usuário não responda, marcando a caixa de seleção no rodapé da carta e escolhendo o tempo de espera para a resposta.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_4.png)
 
 Carta muito utilizada para tratar respostas de perguntas feitas para o usuário.
 
 Avançado
 Se estiver usando este card para coletar uma informação obrigatória no fluxo, tenha cuidado ao selecionar a opção ""continuar quando não houver resposta."" Se quiser lembrar o contato de responder, você pode criar um loop, o que evitará que o contato avance para o próximo card sem fornecer a resposta. Caso a opção ""Sem resposta"" não esteja conectada a outro card, o fluxo será encerrado quando o tempo de espera expirar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_5.png)
-
-### Dividir por uma expressão customizada
+## Dividir por uma expressão customizada
 
 As rotas são decididas a partir de uma expressão customizada criada pelo usuário. Essa expressão customizada pode ser construída a partir do uso de variáveis e funções. Para saber mais, visite o artigo sobre [expressões e funções](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_6.png)
-
 Permite personalizar alguns tratamentos, como, verificar o horário de funcionamento para atendimento.
 
-### Dividir por campo de contato
+## Dividir por campo de contato
 
 Aqui, todas as regras de decisão analisam um campo do contato. Basta selecionar qual campo do contato você pretende verificar, e assim definir as regras em questão.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_7.png)
-
 Boa forma para classificar contatos através dos seus dados.
 
-### Dividir por resultado no fluxo
+## Dividir por resultado no fluxo
 
 O foco aqui é criar rotas a partir dos resultados de fluxo, podendo ser tanto os criados por outras cartas de decisão quanto os criados manualmente pela carta de ação responsável. Basta selecionar o nome do resultado de fluxo que vai ser analisado.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_8.png)
-
 Essa carta pode ser usada para analisar se alguma resposta do usuário deve ser salva em um campo de contato.
 
-### Dividir aleatoriamente
+## Dividir aleatoriamente
 
 Aqui, a rota escolhida é feita de forma aleatória, basta escolher a quantidade de rotas que você deseja e esperar o resultado. Nesse caso, não existe regra de decisão, e apenas o nome da rota pode ser personalizado, junto com a quantidade de rotas que vão existir.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_9.png)
-
 Você pode criar várias mensagens de saudação e despedidas que vão ser diferentes a cada execução por um contato.
 
-### Dividir por filiação de grupo
+## Dividir por filiação de grupo
 
 Cria rotas a partir de grupos que o contato participa. Para isso, basta selecionar um dos grupos de contato existentes na organização.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_10.png)
-
 Pode ser usada para limitar o acesso de certos grupos a partes especificas de fluxos.
 
-### Dividir por tipo de URN
+## Dividir por tipo de URN
 
 Cria rotas baseadas em qual canal o contato está utilizando no momento. Basta selecionar o tipo do canal que estão entre os disponíveis e salvar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_11.png)
-
 Deseja fazer tratamentos diferentes de acordo com o canal do contato? Use essa carta
 
-### Classificar automaticamente
+## Classificar automaticamente
 
 Com o cartão **Classificar automaticamente** , você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a Inteligência artificial:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_12.png)
-
 Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/pt/docs/tutorials/classificacao-e-resposta-inteligente).
 
-### Aguarde por resposta Inteligente
+## Aguarde por resposta Inteligente
 
 Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pela resposta do usuário e enviar essa resposta direto para a sua Classificação de IA, assim você cria suas categorias e trata cada intenção como desejar:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_13.png)
-
 Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/pt/docs/tutorials/classificacao-e-resposta-inteligente).
 
-### Dividir por intenção
+## Dividir por intenção
 
 No cartão **Dividir por Intenção**, você selecionará a inteligência de classificação que será utilizada. Com base na intenção(1) e no nível de confiança(2) configurados no card, a entrada/mensagem será devidamente classificada.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_14.png)

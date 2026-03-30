@@ -29,7 +29,7 @@ Para facilitar a navegação neste artigo, caso queira ir diretamente para um ti
 - [Iniciar um fluxo depois de uma chamada perdida](#iniciar-um-fluxo-depois-de-uma-chamada-perdida)
 - [Iniciar um fluxo posterior ao fechamento de ticket com agente humano](#iniciar-um-fluxo-posterior-ao-fechamento-de-ticket-com-agente-humano)
 
-## Para criar uma palavra-chave que inicie um fluxo:
+## Para criar uma palavra-chave que inicie um fluxo
 
 - Clique no botão **Criar uma palavra-chave que inicie um fluxo**
 - Em **palavra-chave**, você pode definir uma palavra para funcionar como palavra-chave
@@ -85,7 +85,6 @@ Use este gatilho para agendar um fluxo em um momento no futuro, o repita diariam
 Use este gatilho após uma chamada perdida.
 
 - Clique no botão "Comece um fluxo após uma chamada perdida"
-
 - Em "Fluxo", você pode escolher qual fluxo será iniciado
 - Em "Somente grupos", você pode escolher o(s) grupo(s) em que o gatilho será incluído ou não incluído
 - se você deixar o campo vazio, o gatilho será aplicado a todos os contatos

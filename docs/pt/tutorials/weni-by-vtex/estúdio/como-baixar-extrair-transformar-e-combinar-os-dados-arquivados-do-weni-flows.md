@@ -43,9 +43,7 @@ Ao fazer a importação do arquivo, você verá que ele já irá expandir todas 
 ## Combinando as tabelas
 
 - Para fazer a combinação das tabelas, basta você selecionar a opção **Combinar** e logo após, **Acrescentar Consultas**,  **Acrescentar Consultas como novas**.
-
 - Feito isso, basta selecionar as tabelas desejadas e finalizar o processo clicando em ok.
-
 - Ao finalizar o processo, será gerada uma nova consulta com todos os dados selecionados em uma única tabela.
 
 > A conexão dos dados ocorre através da API de integração com o Power BI. A data está estruturada no formato JSON. Para acessar todos os campos dos dados, você deve expandir as colunas no Power Query no Power BI.

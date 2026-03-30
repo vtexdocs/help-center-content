@@ -17,13 +17,11 @@ subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 
 Atualmente, é possível instalar o IO da Weni diretamente no módulo de administração da VTEX. Com essa instalação, os agentes adicionados ao seu time passam a ser conectados automaticamente ao ambiente da VTEX.
 
-### Qual a vantagem disso?
+## Qual a vantagem disso?
 Em alguns casos, não será mais necessário solicitar as credenciais da VTEX. Por meio desse IO, a Weni consegue se integrar ao ambiente de forma nativa, eliminando a necessidade de informar credenciais manualmente.
 
-### Por que usar o IO da Weni na VTEX?
+## Por que usar o IO da Weni na VTEX?
 - **Integração simplificada:** os agentes oficiais são conectados automaticamente ao seu ambiente VTEX, sem necessidade da informação das credenciais.
-
 - **Segurança:** reduz a exposição de credenciais, já que a autenticação passa a ser feita diretamente pelo IO.
-
 - **Agilidade:** elimina etapas burocráticas no processo de integração, acelerando a operação.
 

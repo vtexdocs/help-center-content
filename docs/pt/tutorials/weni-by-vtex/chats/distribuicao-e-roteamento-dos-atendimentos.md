@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-### Regra de distribuição dos atendimentos
+## Regra de distribuição dos atendimentos
 
 As regras atuais de distribuição automática dos atendimentos são:
 

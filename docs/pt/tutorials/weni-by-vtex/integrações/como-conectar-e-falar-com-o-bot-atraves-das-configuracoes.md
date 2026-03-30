@@ -17,26 +17,18 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Alcançar o consumidor requer uma abordagem multicanal. A comunicação multicanal envolve utilizar as tecnologias disponíveis para garantir que o cliente receba informações personalizadas através dos diversos canais que ele já utiliza em seu dia a dia.
 
-#### Para adicionar canais em sua conta, você deve:
+## Para adicionar canais em sua conta, você deve
 
 1. Em seu projeto: Configurações > Canais > Outras Aplicações > Add Channel
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-conectar-e-falar-com-o-bot-atraves-das-configuracoes_1.png)
 
 2. Uma nova janela será aberta onde poderá escolher o tipo de canal que deseja integrar.
 3. Aqui, poderá analisar todos os canais disponíveis para conexão.
 
 **Provedores de ligação e SMS:**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-conectar-e-falar-com-o-bot-atraves-das-configuracoes_2.gif) 
-
 **Redes sociais:**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-conectar-e-falar-com-o-bot-atraves-das-configuracoes_3.gif) 
-
 **APIs:**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-conectar-e-falar-com-o-bot-atraves-das-configuracoes_4.png)
 
 Agora é só escolher os canais que você deseja utilizar e fazer a integração.
 

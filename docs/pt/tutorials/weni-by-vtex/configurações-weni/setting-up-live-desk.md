@@ -25,12 +25,10 @@ O gerente de atendimento poderá realizar alterações no setor que gerencia, ta
 
 Todo esse gerenciamento é realizado dentro do projeto em **Configurações > Live Desk**.
 
-### **Setor**
-
+### Setor
 No setor, você define o horário de funcionamento do Live Desk e o limite de atendimento simultâneos por agente. Além disso, é possível adicionar tags para que os agentes, ao finalizar um atendimento, classifiquem o chat de acordo com o assunto, facilitando pesquisas e relatórios posteriores.
 
-### **Fila**
-
+### Fila
 Um setor precisa ter pelo menos uma fila. As filas servem para subdividir um setor, caso haja interesse em ter um setor com mais de um grupo de agentes. Caso não precise desta subdivisão, basta criar uma única fila.
 
 É possível exemplificar o uso de filas pensando em um setor Suporte Técnico, para este setor pode ser interessante ter as filas Básico, Intermediário e Avançado onde através da filtragem do bot o contato é encaminhado para a fila de acordo com sua necessidade.
@@ -39,6 +37,5 @@ Caso o setor não precise de subdivisão basta criar uma única fila.
 
 Caso um agente esteja inserido em mais de uma fila, indiferente se as mesmas pertencem ao mesmo setor ou setores diferentes, o Chats encaminhará os atendimentos de acordo com a ordem de chegada para o agente.
 
-### **Tags**
-
+### Tags
 As tags são usadas para classificar características do atendimento e possibilitar a pesquisa e filtragem dos chats a partir delas, ao encerrar um chat o agente utilizará as tags para classificar o chat de acordo com assunto e outras características.

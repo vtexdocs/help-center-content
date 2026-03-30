@@ -17,8 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Abaixo, você encontrará os limites suportados no WhatsApp Cloud para cada tipo de mídia.
 
-#### **Tipos de mídia suportados**
-
+## Tipos de mídia suportados
 | **Tipo de m****ídia** | **Extensão** | **Tipos de mídia compatíveis (MIME Type)** | **Tamanho** |
 | --- | --- | --- | --- |
 | audio | .aac.amr.mp3.m4a.ogg | audio/aacaudio/amraudio/mpegaudio/mp4audio/ogg (OPUS codecs only; base audio/ogg not supported.) | 16 MB |
@@ -31,8 +30,7 @@ As mídias enviadas por meio de mensagens são armazenadas nos servidores do Wha
 
 Não é seguro supor que o download foi concluído apenas com base nos recibos de entrega e leitura. Em geral, as mídias enviadas podem ser removidas após 30 dias, mas é importante adotar a estratégia que melhor se adapta à sua empresa.
 
-#### **Restrições**
-
+## Restrições
 Caso você utilize o processo de carregamento de mídia em vez de um link para a URL da mídia, o arquivo precisará ser carregado no volume de mídia. Quando o carregamento for concluído, envie uma mensagem usando o ID de mídia.
 
 O aplicativo processa a mídia carregada antes que ela seja enviada para o servidor. O tamanho máximo da mídia que pode ser carregada no nó *media* é de 100 MB. No entanto, há limites após o processamento para os vários tipos de mídia, conforme descrito na tabela de ""Tamanho de mídia após o processamento"" mencionada anteriormente.
@@ -44,14 +42,12 @@ Não há suporte para as seguintes ações:
 - Envio de mídia por streams de bytes.
 - Envio de mensagens com figurinhas animadas.
 
-#### **Como carregar**
-
+## Como carregar
 Faça uma solicitação `POST` para `/v1/media` a fim de carregar a mídia. O corpo da solicitação local deve conter os dados de mídia binária, e o cabeçalho `Content-Type` precisa ser definido de acordo com o tipo de mídia carregado. Consulte os tipos de conteúdo compatíveis para ver as opções aceitas.
 
 Enviar os dados binários em uma solicitação `POST HTTP` é o método-padrão para carregar dados binários. Por exemplo, se quiser carregar uma imagem, envie uma solicitação `POST` com os bytes reais da imagem na carga. Outra opção é usar `--data-binary` caso você queira que `cURL` leia e use o arquivo fornecido em binários exatamente como ele está.
 
-#### **Exemplo**
-
+## Exemplo
 Carregamento de mídia:
 
 ```

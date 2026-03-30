@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 O acesso ao gerenciador de negócios é fundamental para que uma empresa possa criar ou migrar sua conta de WhatsApp utilizando um BSP. Se você perdeu acesso ao gerenciador de negócios saiba como recuperar este acesso lendo esse artigo.
 
-### Processo de recuperação
+## Processo de recuperação
 
 Primeiro é importante procurar e entrar em contato com os possíveis administradores do Gerenciador De Negócios, por exemplo, funcionários ou pessoas que podem ter criado ou administrado o Gerenciador de Negócios anteriormente. Se encontrar o Administrador do Gerenciador de Negócios, basta solicitar que ele siga os seguintes passos:
 

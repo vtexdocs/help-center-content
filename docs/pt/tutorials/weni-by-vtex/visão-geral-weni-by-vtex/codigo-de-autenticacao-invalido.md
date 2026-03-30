@@ -19,13 +19,9 @@ Se você desabilitou e habilitou novamente a autenticação de dois fatores, e a
 
 1. Acesse o aplicativo Microsoft Authenticator no seu celular e escolha o perfil.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/codigo-de-autenticacao-invalido_1.png)
 1. Ao escolher o perfil uma nova janela será aberta. Clique no ícone da engrenagem.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/codigo-de-autenticacao-invalido_2.png)
 1. Uma nova janela será aberta. Clique no em **remover conta.**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/codigo-de-autenticacao-invalido_3.jpeg)
 1. Após realizar este processo, siga as instruções dadas na sua tela de login, no campo a baixo de **configurar verificação de duas etapas.**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/codigo-de-autenticacao-invalido_4.png)

@@ -23,17 +23,11 @@ Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e pr
 
 Para começar, acesse a Weni Plataforma. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Serviços Externos**, clique no botão ""\+"" para adicionar o ChatGPT:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_1.png)
-
 Preencha os campos com **Nome**, **Token** (seu token de consumo da API do chatGPT) e **Versão**. E para concluir essa etapa clique em continuar: 
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_2.png)
 
 Após concluir os passos acima é necessário configurar o funcionamento do ChatGPT na aba **Canais**. Dessa maneira nessa etapa é preciso **definir como o ChatGPT vai se comportar** quando for responder as pessoas na área de fluxos.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_3.png)
-
-#### Regras
+## Regras
 
 Preencha o primeiro campo definindo as regras que são **instruções ou diretrizes definidas de forma explícita para orientar como o seu chatbot deve se portar**. As regras são usadas para definir uma personalidade e tom de voz do seu chatbot. Veja um exemplo:
 
@@ -43,7 +37,7 @@ Preencha o primeiro campo definindo as regras que são **instruções ou diretri
 
 > Você também é uma vendedora das soluções da empresa, mas não compra nada de outra empresa e nem faz solicitações de compra. Suas respostas são sempre formais e diretas.
 
-#### Base de conhecimento
+## Base de conhecimento
 
 O campo **base de conhecimento precisa ser preenchido com perguntas e respostas frequentes**, podendo conter até **10 mil caracteres** de resumo do seu negócio. No caso de e-commerces, por exemplo, podem ser incluídos conteúdos como:
 
@@ -55,7 +49,7 @@ Faça a adaptação do exemplo ao seu negócio levando em consideração o intui
 
 O exemplo foi formatado em texto corrido, sem interrupções, mas pode ser escrito seguindo uma ordem de perguntas e respostas, como um FAQ. E não se preocupe, o chatGPT vai formatar suas respostas da melhor forma.
 
-#### Prompts
+## Prompts
 
 Os prompts são **instruções específicas fornecidas para orientar o chatGPT a gerar respostas direcionadas** a contextos ou tarefas específicas.
 
@@ -91,15 +85,11 @@ Após definir a base de conteúdo é preciso inserir os prompts, que são a inst
 
 Você pode inserir mais de um Prompt nas configurações do chatGPT, podendo escolher no fluxo qual prompt usar, de acordo com a jornada conversacional. 
 
-#### Como usar a integração nos fluxos
+## Como usar a integração nos fluxos
 
 Para usar a integração do chatGPT nos fluxos, você deve usar o cartão “Call External Service” após receber uma mensagem ou resposta do usuário. Seu fluxo pode ser construído dessa forma:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_4.png)
-
 De acordo com a imagem, você deve configurar o cartão da seguinte forma:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_5.png)
 
 1. Escolher o Nome do seu canal configurado em **Configurações > Canais**;
 2. Escolher a ação Consultar Chat GPT (por enquanto só temos essa função liberada);

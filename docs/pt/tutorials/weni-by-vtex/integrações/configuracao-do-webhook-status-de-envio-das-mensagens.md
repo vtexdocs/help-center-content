@@ -25,19 +25,15 @@ Existem diversos serviços externos e eles são usados como uma **infraestrutura
 
 Isso quer dizer que, nessas plataformas externas, você pode **configurar uma URL para receber os dados do Webhook da Weni** e criar um código para tratar esses dados.
 
-#### Como configurar
+## Como configurar
 
 Para configurar seu webhook vá em **Configurações > Canais > Canal WhatsApp que deseja configurar > Webhook > Configure Método, URL e Cabeçalho da requisição**:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/configuracao-do-webhook-status-de-envio-das-mensagens_1.png)
-
 Após configurar o serviço de webhooks, você poderá criar soluções via código ou aplicação externa de acordo com sua necessidade.
 
-#### Retorno de Dados
+## Retorno de Dados
 
 Os dados que os webhooks vão enviar para seu serviço externo (URL) seguem o formato Json:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/configuracao-do-webhook-status-de-envio-das-mensagens_2.png)
 
 O parâmetro ""status"" vai informar o status da mensagem, se foi lida aparecerá como ""read"".
 

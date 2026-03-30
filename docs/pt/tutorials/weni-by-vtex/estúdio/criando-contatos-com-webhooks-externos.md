@@ -25,8 +25,7 @@ Normalmente, os webhooks são disparados a partir de um determinado evento dentr
 
 - Ao criar, atualizar e deletar um registro de cliente;- Ao mudar o status de um registro de lead em uma plataforma CRM.Quando tais eventos ocorrem, devem ser disparadas requisições para a Plataforma Weni atualizar os registros de contatos, permitindo que toda a automação de comunicação seja modificada em tempo real.
 
-#### **Adicionando Contatos**
-
+## Adicionando Contatos
 Você pode adicionar um novo contato enviando uma requisição **POST** para essa URL com os seguintes dados:
 
 - **Name** - o nome completo do contato (string, opcional)
@@ -55,8 +54,7 @@ POST /api/v2/contacts.json
 }
 ```
 
-#### **Atualizando Contatos**
-
+## Atualizando Contatos
 Uma requisição **POST** também pode ser usada para atualizar um contato existente se você especificar pela URL tanto o seu UUID quanto uma de suas URNs. Apenas aqueles campos incluídos no corpo serão atualizados no contato, os demais permanecerão intactos.
 
 Se estiver passando uma URN na URL, então não inclua ela no corpo. Também note que nós criaremos um novo contato caso não exista nenhum com essa URN, você receberá uma resposta 201 caso isso aconteça.
@@ -84,8 +82,7 @@ POST ​/​api​/​v2​/​contacts​.​json​?​urn​=​tel​%​3A�
 }
 ```
 
-#### **Deletando Contatos**
-
+## Deletando Contatos
 Uma requisição **DELETE** também pode ser usada para deletar um contato existente se você especificar na URL tanto o seu UUID quanto uma de suas URNs.
 
 Exemplo:
@@ -98,8 +95,7 @@ DELETE /api/v2/contacts.json?urn=tel%3A%2B250783835665
 
 Você receberá uma resposta 204 se seu contato for deletado, ou uma resposta 404 se nenhum contato for encontrado com os parâmetros passados.
 
-#### **Adicionando campos personalizados**
-
+## Adicionando campos personalizados
 Uma requisição **POST** pode ser usada para criar um novo campo de contato. Você não precisa especificar uma chave, nós geraremos uma para você.
 
 - **label** - A label de exibição (string)
@@ -128,7 +124,7 @@ Você receberá um objeto (com a nova chave do campo) se a resposta for bem suce
 }
 ```
 
-#### Adicionando um Grupo de Contato
+## Adicionando um Grupo de Contato
 
 Uma requisição **POST** pode ser usada para criar um novo grupo de contato. Não especifique um UUID, nós geraremos um pra você.
 
@@ -152,8 +148,7 @@ Você receberá um objeto de grupo se a resposta for bem sucedida:
 }
 ```
 
-#### **Atualizando um grupo**
-
+## Atualizando um grupo
 Uma requisição **POST** pode ser usada para atualizar um grupo de contatos existente se você especificar na URL o seu UUID.
 
 Exemplo:
@@ -176,7 +171,7 @@ Você receberá um objeto de grupo atualizado se a resposta for bem sucedida:
 }
 ```
 
-#### Deletando um Grupo
+## Deletando um Grupo
 
 Uma requisição **DELETE** pode ser usada para deletar um grupo de contato se você especificar na URL o seu UUID.
 
@@ -190,6 +185,5 @@ Exemplo:
 
 Você receberá uma resposta 204 se o grupo for deletado, ou uma resposta 404 caso nenhum grupo seja encontrado.
 
-#### **Conclusão**
-
+## Conclusão
 Ao final, a sua plataforma estará apta para sincronizar em tempo real os dados com a nossa plataforma, permitindo assim que o usuário use o poder das automações e da Inteligência Artificial para se comunicar de forma mais próxima e contínua com o seu público.

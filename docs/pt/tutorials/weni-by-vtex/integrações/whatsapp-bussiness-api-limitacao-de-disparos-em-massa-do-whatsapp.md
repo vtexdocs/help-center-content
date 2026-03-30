@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Limitação de Disparos em Massa do WhatsApp (WhatsApp Rate Limiting)
+## Limitação de Disparos em Massa do WhatsApp (WhatsApp Rate Limiting)
 
 Após concluir o processo de aprovação e integração do WhatsApp, seu número de telefone com a Weni será ativado para o WhatsApp. Mesmo após a aprovação e habilitação do seu número, o WhatsApp possui uma política de progressão de envio de mensagens, impondo uma limitação.
 
@@ -25,7 +25,7 @@ Inicialmente, os números de telefone comercial têm o limite de 250 conversas i
 
 Devido a essa limitação, recomenda-se à empresa que deseja enviar mensagens para mais de 1\.000 usuários únicos (o que na Weni chamamos de contatos ativos) que as envie gradualmente ao longo do período de uma semana.
 
-#### Limitações do WhatsApp
+### Limitações do WhatsApp
 
 Existem diferentes níveis de limitação de disparos de mensagens no WhatsApp:
 
@@ -51,7 +51,7 @@ Essa limitação **NÃO** se aplica a mensagens enviadas em resposta a uma mensa
 
 Como o WhatsApp criptografa as mensagens, ele depende do feedback do usuário para medir a qualidade das mensagens. O WhatsApp usa esse feedback para definir uma ""classificação de qualidade"" interna que pode afetar como os usuários se movem entre os níveis de limitação. Fatores como a frequência que o seu número é marcado em ""denunciar spam"" e ""bloquear"" podem influenciar a classificação de qualidade. Remetentes com uma baixa classificação de qualidade podem não estar qualificados para subir nos níveis apresentados anteriormente.
 
-#### Para manter uma qualidade alta, o WhatsApp recomenda o seguinte:
+### Para manter uma qualidade alta, o WhatsApp recomenda o seguinte
 
 Caso a verificação da empresa ou de identidade seja rejeitada, verifique se você está enviando mensagens de alta qualidade. Periodicamente, reavaliaremos sua atividade e a qualidade das mensagens. Com base nisso, poderemos [aprovar](https://developers.facebook.com/docs/whatsapp/messaging-limits/#increase-approvals) o aumento.
 

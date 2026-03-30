@@ -18,21 +18,12 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 Para editar quando uma mensagem ou fluxo serão enviados, escolher outro fluxo ou mudar a ação de Enviar uma mensagem para Começar um fluxo (e vice-versa):
 
 - Clique no menu **Campanhas**, dentro de **Contatos** (em **Operações**) no menu lateral, e clique na campanha que contém o(s) evento(s) que você gostaria de editar.
-
 - Para editar nome da Campanha e o grupo, clique no menu de 3 listras e em Editar
-
 - Para Editar um evento, da lista de eventos dentro da Campanha, clique no evento e uma janela será aberta
-
 - Clique no botão ""Editar"" no canto superior direito da tela
-
 - Na caixa de diálogo de atualização de eventos você pode realizar as seguintes alterações:
-
 - Selecionar a opção de enviar uma mensagem ou iniciar um fluxo
-
 - No campo em branco você pode digitar uma mensagem
-
 - Ao seguir, determine uma das opções para quando o contato já estiver ativo em um fluxo
-
 - Em seguida, defina o tempo que você quer que seu evento comece.
-
 - Clique em ""Atualizar evento"" para salvar as alterações.

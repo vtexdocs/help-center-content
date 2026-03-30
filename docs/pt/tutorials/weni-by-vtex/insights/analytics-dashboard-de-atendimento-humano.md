@@ -19,13 +19,9 @@ A ferramenta Analytics: Atendimento humano fornece dados e métricas sobre os at
 
 Essa ferramenta tem 10 seções principais:
 
-![Dashboard de atendimento humano](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\weni-by-vtex\insights\analytics-dashboard-de-atendimento-humano_1.png)
-
 1. Chats abertos por hora: Informa a quantidade de chats iniciados ao longo do dia, permitindo a análise dos horários de maior demanda.
 2. Agentes online: Exibe os agentes ativos no momento e indica o número de atendimentos em andamento e finalizados por cada um.
 3. Filtros: Você pode filtrar os atendimentos pelos seguintes filtros:
-
-![Filtros](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\weni-by-vtex\insights\analytics-dashboard-de-atendimento-humano_2.png)
 
   - Contato: Nome ou URN do contato.
   - Data: Período de tempo.
