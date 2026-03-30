@@ -38109,8 +38109,8 @@
           },
           "slug": {
             "en": "cms",
-            "es": "cms",
-            "pt": "cms"
+            "es": "cms-categoria-es",
+            "pt": "cms-categoria-pt"
           },
           "origin": "",
           "type": "category",
