@@ -13,7 +13,7 @@ tags:
   - Storefront
 ---
 
-The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for Waitlist. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
+The new [VTEX CMS](https://help.vtex.com/en/docs/tutorials/cms-overview) is now available for Waitlist. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
 | ![All content](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif) |
 |:---:|
