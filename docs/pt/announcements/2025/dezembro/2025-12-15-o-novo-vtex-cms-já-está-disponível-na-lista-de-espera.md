@@ -3,10 +3,15 @@ title: "O novo VTEX CMS já está disponível na lista de espera"
 excerpt: ""
 createdAt: "2025-12-15T17:08:52.219Z"
 updatedAt: "2026-03-27T17:08:52.219Z"
-contentType: announcement
+contentType: updates
 productTeam: CMS
+author: 4oTZzwYoyhy1tDBwLuemdG
 slugEN: "2025-12-15-o-novo-vtex-cms-já-está-disponível-na-lista-de-espera"
 locale: pt
+announcementSynopsisPT: 'O novo VTEX CMS já está disponível na lista de espera com recursos modernos para criar e distribuir conteúdo de storefront com mais eficiência.'
+tags:
+  - Improvement
+  - Storefront
 ---
 
 O novo [CMS da VTEX](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já está disponível para a lista de espera. Apresentamos um sistema moderno e escalável de gerenciamento de conteúdo, desenvolvido para ajudar lojistas a criar, colaborar e distribuir conteúdo de storefront com mais eficiência.
