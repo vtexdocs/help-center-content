@@ -14,7 +14,7 @@ slugEN: scopes-overview
 
 Cada unidad organizativa tiene un scope propio, que no se hereda de la unidad organizativa a la que está subordinada, sino que se configura individualmente. La siguiente imagen muestra un ejemplo con todas las dimensiones de la cuenta de la organización para el conjunto ABC y tres unidades hijas:
 
-![scopes-overview_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/scopes-overview_1_ES.png)
+![scopes-overview_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-buyer-portal/scopes-overview_1_ES.png)
 
 Los escenarios presentados son:
 
