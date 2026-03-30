@@ -223,6 +223,21 @@
                 },
                 {
                   "name": {
+                    "en": "New VTEX CMS now available for waitlist",
+                    "es": "New VTEX CMS now available for waitlist",
+                    "pt": "New VTEX CMS now available for waitlist"
+                  },
+                  "slug": {
+                    "en": "2025-12-15-new-vtex-cms-now-available-for-waitlist",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Skyhub: New shipping model ",
                     "es": "Skyhub: nuevo modelo de cálculo de envío ",
                     "pt": "Skyhub: novo modelo de simulação de frete "
