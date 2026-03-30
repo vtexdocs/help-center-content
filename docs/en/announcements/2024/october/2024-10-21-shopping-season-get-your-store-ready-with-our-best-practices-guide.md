@@ -13,6 +13,9 @@ locale: en
 legacySlug: shopping-season-get-your-store-ready-with-our-best-practices-guide
 announcementImageID: 'undefined'
 announcementSynopsisEN: "Follow our recommendations and exclusive tips to make the most out of this year's Black Friday."
+tags:
+  - Security update
+  - Admin
 ---
 
 __Black Friday__ is coming. Despite its official date (__November 29__), many stores will start their campaigns a lot earlier. To make sure you'll make the most out of one of the main events on the retail calendar, start prepping soon.

@@ -1,5 +1,5 @@
 ---
-title: 'Glosário de la plataforma'
+title: "Glosário de la plataforma"
 id: 7rMzZk0t1uHVfkKgtxc1z6
 status: PUBLISHED
 createdAt: 2025-09-12T15:31:28.664Z

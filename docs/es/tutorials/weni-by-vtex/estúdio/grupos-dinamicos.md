@@ -1,5 +1,5 @@
 ---
-title: 'Grupos dinámicos'
+title: "Grupos dinámicos"
 id: 51C5xzAp6Y00sK42SAGCSL
 status: PUBLISHED
 createdAt: 2025-09-12T17:30:05.020Z
@@ -15,10 +15,7 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-### Grupo dinámico y búsquedas de contacto
-
-En la pestaña de contactos, existe una barra de búsqueda. Esta barra puede utilizarse para encontrar y filtrar contactos que cumplan con las reglas definidas en dicha barra. Normalmente, usamos campos de contacto y algunos operadores para crear la expresión de búsqueda, es dec
-ir:
+En la pestaña de contactos, existe una barra de búsqueda. Esta barra puede utilizarse para encontrar y filtrar contactos que cumplan con las reglas definidas en dicha barra. Normalmente, usamos campos de contacto y algunos operadores para crear la expresión de búsqueda, es decir:
 
 Si en mi grupo existe el campo de contacto ""Edad"" y el campo de contacto ""Sexo"", y quiero saber cuántos contactos del sexo masculino son mayores de 18 años, puedo utilizar la siguiente expresión en la búsqueda:
 
@@ -26,15 +23,15 @@ Si en mi grupo existe el campo de contacto ""Edad"" y el campo de contacto ""Sex
 
 A continuación, se muestran algunos de los operadores que podemos utilizar en estas búsquedas:
 
--    AND (-y
+- AND (-y
 
--  cumple ambas reglas al mismo tiempo)
+- cumple ambas reglas al mismo tiempo)
 
--    OR (-o
+- OR (-o
 
--  cumple una de las reglas)
+- cumple una de las reglas)
 
--    > , >= (Mayor que, mayor o igual a)
+- > , >= (Mayor que, mayor o igual a)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/grupos-dinamicos_1.png)
 

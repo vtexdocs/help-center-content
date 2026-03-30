@@ -13,6 +13,9 @@ locale: pt
 legacySlug: content-style-guide-sua-fonte-de-referencia-em-criacao-de-conteudo-para
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Crie conteúdo consistente para produtos VTEX com o Content Style Guide.'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 No ecommerce, o conteúdo escrito é muito mais do que palavras, é uma parte crucial da experiência do cliente. Seja em descrições de produtos, artigos de ajuda ou textos da interface, um conteúdo bem elaborado ajuda os lojistas a se conectarem com os clientes, criar confiança e aumentar as vendas. Para todos no ecossistema da VTEX, incluindo funcionários e parceiros, criar um conteúdo claro, consistente e intuitivo é fundamental para destacar o potencial dos produtos VTEX.

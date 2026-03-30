@@ -1,18 +1,18 @@
 ---
 title: 'Miembros de la organización compradora'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-03-03T10:00:00.000Z'
+updatedAt: '2025-03-12T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
 locale: es
 ---
 
-En una organización compradora B2B, los miembros son las personas que interactúan con la tienda en nombre de la organización. Sus acciones se definen por los roles y permisos que se les asignan y por la forma en que la organización utiliza la **información de contacto** y los **datos del comprador**. Este artículo explica los tipos de miembros y los conceptos relacionados para definir las acciones que diferentes usuarios pueden realizar en la organización.
+En una organización compradora B2B, los miembros son las personas que interactúan con la tienda en nombre de la organización. Sus acciones se definen por los roles y permisos que se les asignan y por la forma en que la organización utiliza los **destinatarios** y los **datos del comprador**. Este artículo explica los tipos de miembros y los conceptos relacionados para definir las acciones que diferentes usuarios pueden realizar en la organización.
 
 > ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
 
-## Roles basados en permisos
+## Roles del storefront
 
 Los roles definen lo que cada usuario puede hacer en la tienda, incluyendo la gestión de la cuenta de la organización. Cada rol tiene un conjunto de permisos. Cuando se asignan uno o más roles a un usuario, este obtiene los permisos combinados a dichos roles. El uso de permisos en la tienda permite restringir el aceso de los usuarios para que vean y usen únicamente los recursos autorizados.
 
@@ -35,13 +35,15 @@ La siguiente tabla resume los principales roles y sus funciones:
 | **Gerente de cotizaciones** | Puede crear, editar y eliminar cotizaciones. |
 | **Usuario de tarjetas personales**          | Puede usar una nueva tarjeta de crédito en el checkout que no se guarda en el contrato de forma predeterminada.                                                                                                         |
 
-## Información de contacto
+> ℹ️ Obtén más información sobre los roles del storefront y los recursos en la guía para desarrolladores [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
-**La información de contacto** se refiere a las personas que pueden seleccionarse como destinatarias de los pedidos, es decir, la persona que recibirá el envío. El contacto de un pedido puede ser diferente del usuario que lo realizó. Al realizar un pedido, el comprador puede elegir el contacto destinatario del pedido.
+## Destinatarios
 
-La información de contacto se gestiona a nivel de la organización. Los contactos pueden estar vinculados a direcciones para que, al seleccionar una dirección de envío, el usuario pueda elegir entre los contactos asociados a esa dirección. Esto mantiene los datos de los destinatarios centralizados y permite que se reutilicen en otros pedidos.
+**Los destinatarios** son las personas que pueden seleccionarse como destinatarias de los pedidos, es decir, la persona que recibirá el envío. El contacto de un pedido puede ser diferente del usuario que lo realizó. Al realizar un pedido, el comprador puede elegir el contacto destinatario del pedido.
 
-Para detalles técnicos sobre cómo crear, actualizar e integrar información de contacto vía APIs, consulta la [API B2B Contact Information](https://developers.vtex.com/docs/api-reference/b2b-contact-information-api).
+La información de los destinatarios se gestiona a nivel de la organización. Los contactos pueden estar vinculados a direcciones para que, al seleccionar una dirección de envío, el usuario pueda elegir entre los contactos asociados a esa dirección. Esto mantiene los datos de los destinatarios centralizados y permite que se reutilicen en otros pedidos.
+
+Para detalles técnicos sobre cómo crear, actualizar e integrar destinatarios vía APIs, consulta la [API de Destinatarios B2B](https://developers.vtex.com/docs/api-reference/b2b-recipients-api).
 
 ## Compradores
 

@@ -1,5 +1,5 @@
 ---
-title: 'Active message dispatch on WhatsApp'
+title: "Active message dispatch on WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
@@ -21,7 +21,7 @@ Passive dispatch occurs when the end user voluntarily contacts the company. At t
 
 On the other hand, active dispatch occurs when the company takes the initiative to start a conversation with the user. For active dispatch to take place, the message to be sent needs to go through a validation process guided by Meta, and only after its pre-approval can it be sent to users. On the Weni Platform, we call this message model a Template Message.
 
-#### **Dispatching through the flow module**
+## Dispatching through the flow module
 
 After the pre-approval of the Template Message, the conversational flow can begin to be built. The first step is to add the ""Update Contact"" card and choose the ""Channel"" option, as it will define which channel the dispatch will be sent from. At this stage, select your WhatsApp channel.
 
@@ -45,7 +45,7 @@ After selecting the message, simply click the ""Trigger Flow"" button located in
 
 Finally, to check if everything went correctly, just access the ""Studio"" module, and in the ""Flow"" tab, you can track the sending history, gaining access to important information such as errors, initiated flows, and much more. This management is essential, especially for implementing improvements to your chatbot.
 
-#### **Triggering a flow through the studio module**
+## Triggering a flow through the studio module
 
 It is also possible to send a Template Message through the ""Studio"" module by selecting the contact to whom you want to send the message and clicking on the options menu located in the upper right corner. Then, simply select ""Start in Flow,"" choose the flow, and send. This is another option that the Weni Platform offers for performing active dispatch. See the image below:
 

@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-gift-card-events-available-in-the-audit-module
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New gift card events added to Audit records.'
+tags:
+  - New feature
+  - Audit
 ---
 
 [Audit](/en/docs/tutorials/audit) is a module that records events that happen in your VTEX store, enabling future auditing. VTEX has improved Audit by adding three new events related to gift card operations.

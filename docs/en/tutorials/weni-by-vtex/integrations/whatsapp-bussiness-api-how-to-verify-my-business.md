@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp Bussiness API: How to Verify My Business'
+title: "WhatsApp Bussiness API: How to verify my business"
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
@@ -23,7 +23,7 @@ While not all businesses need verification on Facebook, verification may be requ
 
 WhatsApp Business: When creating a WhatsApp Business account, business verification will be required.Weni, as an official Meta Business Partner (BPS), enables the business verification button for your company after the number integration. (It’s important to remember that Business Verification is the document verification process, not related to the Official Account Badge).
 
-**How to access Business Manager**
+## How to access Business Manager
 
 - Access the Business Manager as an administrator via this link: \[https://business.facebook.com/settings/](https://business.facebook.com/settings/)
 - \- Select the business account to be used.
@@ -31,7 +31,7 @@ WhatsApp Business: When creating a WhatsApp Business account, business verificat
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_1.png)
 
-### **Step 1**
+### Step 1
 
 Click on **WhatsApp Accounts** and select the account you want to verify.
 
@@ -51,13 +51,13 @@ Here are some important links for the Business Verification process:
 
 [Upload Official Documents to Verify Your Business](https://www.facebook.com/business/help/159334372093366)
 
-### **Step 2**
+### Step 2
 
 If you have already integrated your number into our platform via the **Integrations Menu \> My Apps** or if the link between your Meta Business and Weni has been accepted, the **Start Verification** button will be available for you in the new page opened through **View Details**.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_5.png)
 
-### **Step 3**
+### Step 3
 
 Follow Meta’s instructions carefully, read the requirements thoroughly, and enter the information that matches your company documentation/tax ID (CNPJ) or as requested by Meta.
 

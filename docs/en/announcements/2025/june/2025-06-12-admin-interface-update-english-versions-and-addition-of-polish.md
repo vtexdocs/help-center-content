@@ -13,6 +13,9 @@ locale: en
 legacySlug: admin-interface-update-english-versions-and-addition-of-polish
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'English versions and addition of Polish'
+tags:
+  - Improvement
+  - Admin
 ---
 
 ## What has changed?

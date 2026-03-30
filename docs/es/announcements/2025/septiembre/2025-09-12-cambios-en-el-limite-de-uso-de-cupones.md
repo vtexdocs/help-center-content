@@ -13,6 +13,9 @@ locale: es
 legacySlug: cambios-en-el-limite-de-uso-de-cupones
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Actualizamos el límite de cupones ahora cuenta usos totales, no productos aplicables.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 Hemos actualizado la forma de aplicar [cupones](/es/docs/tutorials/crear-cupon-beta) en promociones. A partir del 2 de septiembre de 2025, el límite de usos de un cupón se calculará según la cantidad total de veces que se aplique en la tienda, en lugar de basarse en la cantidad de productos beneficiados en diferentes compras.

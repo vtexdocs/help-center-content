@@ -1,5 +1,5 @@
 ---
-title: 'Dashboard'
+title: "Dashboard"
 id: 4oi4f3ojfdc421SfiSRx0M
 status: PUBLISHED
 createdAt: 2025-09-10T15:29:01.982Z
@@ -14,8 +14,6 @@ legacySlug: dashboard
 locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
-
-### Dashboard
 
 After logging into your organization and project, you will have access to this screen:
 
@@ -33,7 +31,7 @@ Let's go through a quick explanation of each menu:
 8. Applications Module: Access our integration channels and external services and add them to your project.
 9. Settings Module: Change registration and payment details, add channels, and check your API token, language, and files.
 
-##### In addition to the main side menu, the home screen has other features.
+In addition to the main side menu, the home screen has other features.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/dashboard_2.png)
 

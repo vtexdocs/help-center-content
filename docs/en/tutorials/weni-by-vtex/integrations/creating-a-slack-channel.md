@@ -1,5 +1,5 @@
 ---
-title: 'Creating a Slack Channel'
+title: "Creating a Slack channel"
 id: 6At6Ne3yXdVJqEVR8mUzC8
 status: PUBLISHED
 createdAt: 2025-09-15T14:30:28.340Z
@@ -15,29 +15,27 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Begin
-
 1. With your account and workspace already created, **https://api.slack.com/apps** and press the button to create a new app.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_1.png)
 
 2. Select the `From scratch` option.
 
- ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_2.png)
 
-3. In `Basic Information` go to the Bots feature. 
+3. In `Basic Information` go to the Bots feature.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_3.png)
 
 4. Trigger `the Review Scopes to Add` button to add the bot token scopes required for integration.
 
- ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_4.png)
 
 5. Walk the page down to the Scopes content block.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_5.png)
 
-6. For ""Bot Token Scopes"" add the scopes of `chat:write`, `files:read`, `files:write`, `users:read`. For ""User Token Scopes"" add the scopes of `files:read` and `files:write` 
+6. For ""Bot Token Scopes"" add the scopes of `chat:write`, `files:read`, `files:write`, `users:read`. For ""User Token Scopes"" add the scopes of `files:read` and `files:write`
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_6.png)
 
@@ -77,7 +75,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 14. Go down the page and add the events indicated in the image.
 
- ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_17.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_17.png)
 
 15. Save modifications.
 
@@ -95,7 +93,7 @@ After these steps the bot will be able to interact in the Slack Workspace Channe
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/creating-a-slack-channel_21.png)
 
-# How to activate quick replies/buttons in slack
+## How to activate quick replies/buttons in Slack
 
 In slack you need to enable sending quick responses in Features > Interactivity \& Shortcuts in the Interactivity tab add in the Request URL field the Flows callback URL.
 

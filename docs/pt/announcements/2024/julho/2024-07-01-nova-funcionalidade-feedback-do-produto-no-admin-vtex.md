@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-funcionalidade-feedback-do-produto-no-admin-vtex
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova funcionalidade "Feedback do Produto" no Admin VTEX permite que você compartilhe seu feedback com nossa equipe.'
+tags:
+  - Nova funcionalidade
+  - Admin
 ---
 
 Estamos lançando uma nova funcionalidade no Admin VTEX: o botão Feedback do Produto. 

@@ -13,6 +13,9 @@ locale: en
 legacySlug: optimize-logistics-with-operational-capacity-beta
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New VTEX Operational capacity (Beta) module optimizes logistics and distributes orders between sellers.'
+tags:
+  - New feature
+  - Logistics
 ---
 
 VTEX is launching the new [Operational Capacity (Beta)](/en/docs/tutorials/operational-capacity-beta) module, designed to help retailers manage the capacity of [sellers](/en/docs/tutorials/what-is-a-seller) to receive and handle orders. This tool allows you to monitor order distribution among sellers and make adjustments to optimize operational flow, promoting a more efficient logistics network.

@@ -12,6 +12,9 @@ locale: es
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Nuevo permiso obligatorio para acceder a la aplicación de Shopee en la versión 3.x del conector.'
+tags:
+  - Cambio disruptivo
+  - Integraciones
 ---
 
 >📘 Contenido regional disponible solo para Brasil.

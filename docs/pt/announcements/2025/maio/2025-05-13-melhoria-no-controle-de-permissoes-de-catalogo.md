@@ -13,6 +13,10 @@ locale: pt
 legacySlug: melhoria-no-controle-de-permissoes-de-catalogo
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novos recursos do License Manager de Catálogo, agora mais intuitivos e que unificam acessos via Admin VTEX ou API.'
+tags:
+  - Melhoria
+  - Catálogo
+  - Identity
 ---
 
 Atualizamos os [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager) relacionados ao Catálogo para aprimorar o gerenciamento de permissões. Veja a seguir as principais mudanças: 

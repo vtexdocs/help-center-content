@@ -1,5 +1,5 @@
 ---
-title: 'Introducción a contactos'
+title: "Introducción a contactos"
 id: 4X4YaqNra4d8PmUYo8MpID
 status: PUBLISHED
 createdAt: 2025-09-12T17:12:46.028Z
@@ -34,6 +34,6 @@ Al seleccionar la opción ""**Contactos**"" te encontrarás con las siguientes f
 - Crear grupo: Posibilita crear un nombre para un agrupamiento de contactos.
 - Grupos: Lista de grupos, con los respectivos agrupamientos creados en esa organización. Pueden ser Grupo Estático (cuando añadimos el contacto manualmente o por flujos) y Grupo Dinámico (barra de búsqueda que utiliza expresiones específicas y añade de forma ""automática"" el resultado de la búsqueda al grupo).
 - Lista de Contactos: Lista con los respectivos tipos de contactos que podemos encontrar (bloqueado, detenido y todos los contactos disponibles).
--  Gestionar Campos: Se utiliza para crear campos de contacto, donde podemos crear los campos variados para información del contacto.
--  Exportar: Permite exportar todos los contactos de la organización.
--  Campo de Búsqueda Personalizada: Donde podemos construir consultas para buscar contactos, ya sea por nombre, campo o incluso reglas lógicas.Entendemos por contacto activo el contacto que tuvo su último intercambio de mensajes con la plataforma en los últimos 30 días.
+- Gestionar Campos: Se utiliza para crear campos de contacto, donde podemos crear los campos variados para información del contacto.
+- Exportar: Permite exportar todos los contactos de la organización.
+- Campo de Búsqueda Personalizada: Donde podemos construir consultas para buscar contactos, ya sea por nombre, campo o incluso reglas lógicas.Entendemos por contacto activo el contacto que tuvo su último intercambio de mensajes con la plataforma en los últimos 30 días.

@@ -13,6 +13,9 @@ locale: en
 legacySlug: discover-the-new-feature-that-allows-bulk-data-import-for-organizations-and
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Make organization management easier: Bulk Import streamlines data updates and maintenance'
+tags:
+  - New feature
+  - B2B
 ---
 
 VTEX now offers a new feature for bulk data import, designed to streamline the process of updating and maintaining information for buyer organizations, their users (members), and cost centers.

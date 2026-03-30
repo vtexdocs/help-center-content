@@ -13,6 +13,9 @@ locale: es
 legacySlug: fastcheckout-aumenta-tu-conversion-con-el-nuevo-checkout
 announcementImageID: 'undefined'
 announcementSynopsisES: 'FastCheckout: innovación en el checkout para experiencias personalizadas y de alta conversión.'
+tags:
+  - Nueva funcionalidad
+  - Checkout
 ---
 
 Con el compromiso continuo de innovar y ofrecer calidad de excelencia a nuestros clientes, VTEX presenta **FastCheckout**, la evolución más reciente de nuestro checkout. La nueva solución permite crear experiencias de checkout personalizadas de alta conversión, que siempre están actualizadas con nuevas funcionalidades.

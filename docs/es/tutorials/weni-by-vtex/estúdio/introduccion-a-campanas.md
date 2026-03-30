@@ -1,5 +1,5 @@
 ---
-title: 'Introducción a Campañas'
+title: "Introducción a campañas"
 id: 17BPSCm7jcrKSvTv3n3kWd
 status: PUBLISHED
 createdAt: 2025-09-12T18:00:29.520Z
@@ -15,13 +15,11 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-### ¿Qué es una campaña?
-
 Una campaña es un conjunto de eventos temporales creados para impactar grupos de contacto. Para crear una campaña, necesitamos un grupo de contactos y al menos una variable de contacto del tipo fecha y hora.
 
 Los eventos temporales que componen una campaña son disparadores programados para activarse en una fecha determinada. Estos disparadores pueden enviar mensajes, iniciar flujos e incluso tener prioridad sobre otras interacciones que el contacto esté realizando con la plataforma.
 
-### ¿Por qué utilizar una campaña?
+## ¿Por qué utilizar una campaña?
 
 Las campañas son nuestra forma de interactuar activamente con el contacto. Es decir, con ellas podemos hacer que la plataforma se comunique con el contacto, en lugar de depender solo de que el contacto inicie la conversación.
 

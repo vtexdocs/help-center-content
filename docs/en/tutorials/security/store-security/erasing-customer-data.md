@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-Under data protection regulations such as the [EU's General Data Protection Regulation (GDPR) and the Brazilian General Data Protection Law (LGPD)](https://vtex.com/us-en/privacy-and-agreements/vtex-commitment/), companies that store customer personal data must accept customer requests to delete their information. VTEX allows merchants to request the deletion of data directly through Copilot.
+Under data protection regulations such as the EU's General Data Protection Regulation (GDPR) and the Brazilian General Data Protection Law (LGPD) companies that store customer personal data must accept customer requests to delete their information. VTEX allows merchants to request the deletion of data directly through Copilot.
 
 ## 1. Checking data stored in Master Data
 

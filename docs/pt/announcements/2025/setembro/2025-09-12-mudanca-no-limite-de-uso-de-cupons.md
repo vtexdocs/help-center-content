@@ -13,6 +13,9 @@ locale: pt
 legacySlug: mudanca-no-limite-de-uso-de-cupons
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Atualizamos o limite de uso de cupons, agora ele considera usos totais na loja, não por produto.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 Atualizamos a forma de aplicar a limitação de uso de [cupons](/pt/docs/tutorials/criar-cupom-beta) em promoções. A partir de 12/09/2025, o campo de restrição que define o número máximo de usos permitidos para um cupom passa a considerar a quantidade total de utilizações do cupom na loja, e não mais a quantidade de produtos beneficiados em diferentes compras.

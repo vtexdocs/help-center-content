@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp Bussiness API: ¿Cómo verificar mi negocio?'
+title: "WhatsApp bussiness API: ¿Cómo verificar mi negocio?"
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
@@ -25,7 +25,7 @@ WhatsApp Business: al crear una cuenta de WhatsApp Business, será necesario ver
 
 Weni es una empresa BPS de Meta, y tras la integración del número, se habilitará el botón para verificación de negocios para tu empresa. (Recordando que la Verificación de Negocios es la comprobación de la documentación necesaria, no se refiere al Sello de Cuenta Oficial).
 
-#### Cómo acceder al Administrador de Negocios
+## Cómo acceder al Administrador de negocios
 
 Accede al Business Manager como administrador a través de este enlace: <https://business.facebook.com/settings/>
 
@@ -47,7 +47,7 @@ A continuación, algunos enlaces importantes para el proceso de Verificación de
 
 [Documentos oficiales](https://www.facebook.com/business/help/159334372093366)
 
-Paso 2
+### Paso 2
 
 Si ya has integrado tu número en nuestra plataforma a través del Menú Integraciones \> Mis Aplicaciones o si se ha aceptado el vínculo entre tu Meta Business y Weni, el botón Iniciar verificación estará disponible para ti en la nueva página que se abre al hacer clic en Ver Detalles.
 

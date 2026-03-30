@@ -15,7 +15,7 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️  This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you're already a VTEX client and would like to adopt VTEX Shield for your business, contact our [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/). 
+> ℹ️  This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you're already a VTEX client and would like to adopt VTEX Shield for your business, contact our [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/pt-br/contato/). 
 
 In system integrations, especially when exchanging sensitive information or controlling business operations, it's essential to ensure that both ends of the communication are secure. mTLS is a feature of [VTEX Shield](/en/docs/tutorials/vtex-shield) that adds an advanced layer of security to integrations between external systems and VTEX.
 

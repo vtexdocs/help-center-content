@@ -15,7 +15,7 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
+> ℹ️ This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/pt-br/contato/).
 
 By default, VTEX uses [SSL certificates](/en/docs/tutorials/security-certificate-ssl) issued by [Let's Encrypt](https://letsencrypt.org/), an open-source solution widely adopted in the market. This approach guarantees security, reliability, and compatibility with most browsers.
 

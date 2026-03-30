@@ -13,6 +13,9 @@ locale: en
 legacySlug: promotion-simulator-understand-the-promotions-applied-to-the-cart
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'View and manage the promotions applied to the cart with the Promotion Simulator.'
+tags:
+  - New feature
+  - Promotions
 ---
 
 
