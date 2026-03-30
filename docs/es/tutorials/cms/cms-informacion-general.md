@@ -4,7 +4,7 @@ createdAt: "2026-03-27T17:08:52.219Z"
 updatedAt: "2026-03-30T17:08:52.219Z"
 contentType: tutorial
 productTeam: CMS
-slugEN: "cms-overview"
+slugEN: cms-overview
 locale: es
 ---
 
@@ -48,6 +48,8 @@ El flujo de colaboración en una rama es el siguiente:
 * **Merge:** una vez aprobada, se le hace merge a la rama para unirla a la rama Main y publicar todas las modificaciones en la tienda en producción.
 
 ## Multimedia
+
+![cms-medi-es](https://vtexhelp.vtexassets.com/assets/docs/src/cms-media-es___f4f4cfae4ad6d3b5318ac01dac6da1a8.png)
 
 El módulo Multimedia te permite gestionar los archivos multimedia de tu tienda, como imágenes y videos. Para imágenes, puedes cargar y organizar archivos de hasta 5 MB en los siguientes formatos: PNG, JPG, GIF, SVG y WebP. Para videos, puedes registrar una URL de un proveedor de videos externo, como YouTube.
 
