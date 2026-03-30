@@ -20,7 +20,7 @@ Este artículo orienta sobre la gestión de las unidades organizativas y está d
 - [Agregar unidad organizativa hija (subordinada)](#agregar-unidad-organizativa-hija-subordinada)
 - [Remover unidad organizativa](#remover-unidad-organizativa)
 
-> ⚠️ Para configurar unidades organizativas, el rol de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) del usuario debe ser `Organizational Unit Admin`, `Super Buyer Admin`, o contar con el recurso `ManageOrganizationHierarchy`.
+> ⚠️ Para configurar unidades organizativas, el rol de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) del usuario debe ser `Organizational Unit Admin`, `Super Buyer Admin`, o contar con el recurso `ManageOrganizationHierarchy`.
 
 ## Agregar unidad organizativa
 
@@ -54,7 +54,7 @@ Después de crear una unidad organizativa, se mostrará en la lista de la pantal
     - Nombre de usuario
 3. Selecciona los roles que deseas asignar al usuario.
 
-    > ℹ️ Para más información sobre roles en **B2B Buyer Portal**, consulta el artículo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+    > ℹ️ Para más información sobre roles en **B2B Buyer Portal**, consulta el artículo [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
 4. Haz clic en `Agregar`.
 

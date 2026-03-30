@@ -20,7 +20,7 @@ In this article, you'll learn how to manage organizational units through the fol
 - [Adding a child (sub) organizational unit](#adding-a-child-sub-organizational-unit)
 - [Removing an organizational unit](#removing-an-organizational-unit)
 
-> ⚠️ To configure organizational units, the user's [Storefront Role](https://developers.vtex.com/docs/guides/storefront-permissions) must be `Organizational Unit Admin`, `Super Buyer Admin`, or have the `ManageOrganizationHierarchy` resource.
+> ⚠️ To configure organizational units, the user's [Storefront Role](https://developers.vtex.com/docs/guides/storefront-roles) must be `Organizational Unit Admin`, `Super Buyer Admin`, or have the `ManageOrganizationHierarchy` resource.
 
 ## Adding an organizational unit
 
@@ -54,7 +54,7 @@ After creating an organizational unit, it will be listed on the **Organizational
     - Username
 3. Select the roles you want to assign to the user.
 
-    > ℹ️ For more information about roles in **B2B Buyer Portal**, see the article [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+    > ℹ️ For more information about roles in **B2B Buyer Portal**, see the article [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
 4. Click `Add`.
 
