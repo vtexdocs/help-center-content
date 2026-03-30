@@ -38109,8 +38109,8 @@
               },
               "slug": {
                 "en": "cms-subcategory",
-                "es": "cms-subcategoria",
-                "pt": "cms-subcategoria"
+                "es": "cms-subcategoria-es",
+                "pt": "cms-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
