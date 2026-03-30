@@ -34450,40 +34450,9 @@
           "children": [
             {
               "name": {
-                "en": "CMS",
-                "es": "CMS",
-                "pt": "CMS"
-              },
-              "slug": {
-                "en": "cms-subcategory",
-                "es": "cms-subcategoria",
-                "pt": "cms-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Content Management overview",
-                    "es": "Información general de la gestión de contenidos",
-                    "pt": "Visão geral do CMS"
-                  },
-                  "slug": {
-                    "en": "cms-overview",
-                    "es": "cms-informacion-general",
-                    "pt": "cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Headless CMS (Legacy)",
-                "es": "Headless CMS (Legado)",
-                "pt": "Headless CMS (Legado)"
+                "en": "Headless CMS",
+                "es": "Headless CMS",
+                "pt": "Headless CMS"
               },
               "slug": {
                 "en": "headless-cms-subcategory",
@@ -36008,6 +35977,37 @@
                     "en": "styles-overview",
                     "es": "estilos-vision-general",
                     "pt": "estilos-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "CMS",
+                "es": "CMS",
+                "pt": "CMS"
+              },
+              "slug": {
+                "en": "cms",
+                "es": "cms",
+                "pt": "cms"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview",
+                    "es": "cms-informacion-general",
+                    "pt": "cms-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
