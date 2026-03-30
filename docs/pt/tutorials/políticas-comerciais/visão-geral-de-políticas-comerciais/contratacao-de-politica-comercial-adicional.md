@@ -3,7 +3,7 @@ title: 'Contratação de política comercial adicional'
 id: 61vuFOw4yGh6nwSmkLJL1X
 status: PUBLISHED
 createdAt: 2021-12-06T23:25:42.650Z
-updatedAt: 2025-08-27T17:01:03.348Z
+updatedAt: 2026-03-30T17:01:03.348Z
 publishedAt: 2025-08-27T17:01:03.348Z
 firstPublishedAt: 2021-12-06T23:51:25.043Z
 contentType: tutorial
@@ -23,9 +23,11 @@ Cada cliente na plataforma VTEX é regido por um contrato que define os parâmet
 
 Para adquirir uma política comercial destinada a um canal de vendas fora do ecossistema VTEX, siga o fluxo [Contratar política comercial](#contratar-politica-comercial-para-mercado-brasileiro)
 
-## Contratar política comercial
+## Adicionar uma política comercial
 
-Para contratar uma política comercial adicional destinada à atuação no mercado internacional, é necessário entrar em contato com o nosso time de Growth Operations em [*Suporte*](https://supporticket.vtex.com/support), escolhendo a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Acesse o Admin da VTEX para adicionar uma nova política comercial. Usuários com o perfil Owner (admin) podem realizar essa ação diretamente pela interface.
+
+ Para mais informações, consulte o artigo [Criar uma política comercial](https://help.vtex.com/pt/docs/tutorials/criar-uma-politica-comercial).
 
 ## Regras de Cobrança
 
