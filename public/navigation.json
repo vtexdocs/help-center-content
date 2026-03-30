@@ -20531,8 +20531,8 @@
           },
           "slug": {
             "en": "cms-subcategory",
-            "es": "cms-subcategoria",
-            "pt": "cms-subcategoria"
+            "es": "cms-subcategoria-es",
+            "pt": "cms-subcategoria-pt"
           },
           "origin": "",
           "type": "category",
@@ -38125,37 +38125,6 @@
                 "en": "insights",
                 "es": "insights",
                 "pt": "insights-dashboard-de-atendimento-humano"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-            {
-              "name": {
-                "en": "CMS",
-                "es": "CMS",
-                "pt": "CMS"
-              },
-              "slug": {
-                "en": "cms-subcategory",
-                "es": "cms-subcategoria-es",
-                "pt": "cms-subcategoria-pt"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
-              },
-              "slug": {
-                "en": "cms-overview",
-                "es": "cms-informacion-general",
-                "pt": "cms-visao-geral"
               },
               "origin": "",
               "type": "markdown",
