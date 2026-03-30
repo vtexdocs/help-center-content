@@ -37,9 +37,9 @@ Todas as criações são registradas nos logs de auditoria do Admin, permitindo 
 Para adicionar uma Política Comercial, siga as intruções a seguir:
 
 1. No Admin da VTEX acesse **Configurações da loja > Canais > Políticas Comerciais** ou digite **Políticas Comerciais** na barra de busca.
-3. Clique em `Nova política comercial`.
-4. Revise as informações exibidas no aviso e confirme para prosseguir.
-5. Preencha os campos da política comercial:
+2. Clique em `Nova política comercial`.
+3. Revise as informações exibidas no aviso e confirme para prosseguir.
+4. Preencha os campos da política comercial:
 
 | Campo                                      | Descrição                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ Para adicionar uma Política Comercial, siga as intruções a seguir:
 | **Herdar catálogo de política comercial:** | permite herdar o catálogo de outra política comercial existente.                                                                                                                                                                                                                                                                                                 |
 
 
-6. Clique em `Salvar`.
+5. Clique em `Salvar`.
 
 ## Saiba mais
 
