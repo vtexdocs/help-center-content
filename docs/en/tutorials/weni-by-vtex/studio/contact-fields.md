@@ -1,5 +1,5 @@
 ---
-title: 'Contact Fields'
+title: "Contact fields"
 id: 5q7gMYEvFCLdk7tYsHXB0x
 status: PUBLISHED
 createdAt: 2025-09-12T17:20:52.053Z
@@ -23,7 +23,7 @@ Regardless of the flow your contact is in, you can access these fields using the
 
 Both variables mentioned above can point to the same contact field.
 
-#### **How to create a field**
+## How to create a field
 
 To access this information, go to your project and click on the ""**Studio**"" module in the left sidebar. Then, click on ""**Contacts**"" and ""\*\*Manage Field
 

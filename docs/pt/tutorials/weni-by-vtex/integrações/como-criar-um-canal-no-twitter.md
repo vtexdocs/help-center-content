@@ -21,7 +21,7 @@ Observe que você pode se inscrever em qualquer nível, uma conta Sandbox (Dev e
 
 Depois de receber a aprovação da sua conta de desenvolvedor, o Twitter enviará um e-mail de boas-vindas. Agora você pode criar seu aplicativo e conectá-lo.
 
-##### Etapas
+## Instruções
 
 1. Seu primeiro passo é criar seu aplicativo. Você será solicitado para o nome do aplicativo, descrição e URL. Preencha\-os de acordo com a funcionalidade do bot que você está construindo.
 

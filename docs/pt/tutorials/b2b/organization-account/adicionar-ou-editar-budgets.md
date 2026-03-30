@@ -26,7 +26,7 @@ Nesta página, é possível realizar as seguintes ações:
 
 Para criar um novo budget para a Organization Unit, você deve acessar a listagem de budgets e preencher as seguintes informações necessárias. 
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), clique em **Budgets**.
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), clique em **Budgets**.
 2. Na página de **Budgets**, clique no botão **`+`** no canto superior direito.
 3. No menu lateral Add new budget, preencha os seguintes campos:
    * **Name:** nome do budget.
@@ -77,7 +77,7 @@ As alocações definem em quais contextos o budget pode ser utilizado no checkou
 
 Após criar um budget, é possível visualizar seus detalhes e realizar ações de gerenciamento. Para acessar e gerenciar um budget, siga as etapas abaixo:
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), clique em **Budgets**.
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), clique em **Budgets**.
 2. Na página de **Budgets**, localize o budget desejado na listagem.
 3. Clique no nome do budget para acessar a página com os detalhes do budget.
 4. Na página de detalhes do budget, visualize as seguintes seções:
@@ -94,7 +94,7 @@ Após criar um budget, é possível visualizar seus detalhes e realizar ações 
 
 Remover alocações impede que um budget seja aplicado a determinados contextos no checkout. Para remover alocações associadas a um budget, siga as etapas abaixo:
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), clique em **Budgets**.
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), clique em **Budgets**.
 2. Na página de **Budgets**, localize o budget desejado na listagem.
 3. Clique no nome do budget para acessar o Budget details.
 4. Na seção Allocations, localize a alocação que deseja remover.

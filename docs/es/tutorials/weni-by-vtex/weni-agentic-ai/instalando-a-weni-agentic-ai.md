@@ -1,5 +1,5 @@
 ---
-title: 'Instalando a Weni Agentic AI'
+title: 'Instalando a Weni agentic ai'
 id: AuYmrZbSbFaTQmcD6qqDb
 status: PUBLISHED
 createdAt: 2025-09-23T17:32:05.839Z

@@ -1,5 +1,5 @@
 ---
-title: 'Adicionando um canal Viber (RapidPro)'
+title: "Adicionando um canal Viber (RapidPro)"
 id: 3mEbPicH5tFMiZ6jVlPIlh
 status: PUBLISHED
 createdAt: 2025-09-15T14:41:38.441Z
@@ -15,11 +15,9 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Como ativar um canal Viber
-
 Você pode adicionar a conta pública do seu Viber como um canal na plataforma.
 
-### Começando
+## Começando
 
 Acesse as configurações do Workspace e clique em **Add Channel**.
 
@@ -33,11 +31,11 @@ Após isso, você verá uma breve descrição do canal. O único requisito para 
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-um-canal-viber-rapidpro_3.png)
 
-##### Agora vamos ver como obter este App token.
+#### Agora vamos ver como obter este app token.
 
 O processo principal consiste em aprovar uma conta pública do Viber e obter o App token.
 
-### Criando uma conta no Viber
+## Criando uma conta no Viber
 
 Instale o aplicativo móvel do Viber e realize o processo de registro através de um número de telefone exclusivo para o projeto. Com sua conta válida, acesse o painel de administração do Viber e vincule\-a a uma conta pública.
 
@@ -59,11 +57,11 @@ Levará alguns segundos para processar e uma nova janela aparecerá com o token 
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-um-canal-viber-rapidpro_8.png)
 
-#### Criar o canal
+### Criar o canal
 
 Agora, volte para o RapidPro, cole o token e clique em Submit.
 
-### Editar mensagem de boas\-vindas
+## Editar mensagem de boas\-vindas
 
 O canal Viber foi criado, mas para que ele seja publicado e esteja disponível para o público, alguns passos são necessários pela equipe de suporte do Viber. O primeiro passo é fornecer uma mensagem de boas-vindas. Para adicionar uma, vá às configurações do seu Workspace e abra as configurações do Canal Viber.
 
@@ -77,7 +75,7 @@ Quando clicar em Editar, uma nova janela aparecerá para você adicionar um e-ma
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-um-canal-viber-rapidpro_11.png)
 
-### **Publicar a conta**
+## Publicar a conta
 
 Para que o canal seja exibido completamente, será necessário entrar em contato com a equipe de suporte do Viber. Em geral, qualquer pessoa pode abrir e construir um chatbot na plataforma Viber. No entanto, por padrão, os usuários não podem encontrá-lo. Portanto, para que o perfil seja descoberto, por exemplo, pesquisável e verificado, ele deve ser acompanhado por uma campanha promocional com stickers ou anúncios no Viber.
 

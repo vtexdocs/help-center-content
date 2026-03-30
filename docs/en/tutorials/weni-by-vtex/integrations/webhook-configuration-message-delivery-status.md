@@ -1,5 +1,5 @@
 ---
-title: 'Webhook Configuration: Message Delivery Status'
+title: "Webhook configuration: Message delivery status"
 id: 4Vz0SFzmpK8tTsA2CUbWAp
 status: PUBLISHED
 createdAt: 2025-09-15T15:38:30.364Z
@@ -25,7 +25,7 @@ There are various external services, and they act as a cloud infrastructure that
 
 This means that on these external platforms, you can **set up a URL to receive data from Weni's Webhook** and create code to process this data.
 
-#### How to configure
+## How to configure
 
 To configure your webhook, go to **Applications \> My Apps \> WhatsApp Channel you want to configure \> Webhook \> Configure Method, URL, and Request Header:**
 
@@ -33,7 +33,7 @@ To configure your webhook, go to **Applications \> My Apps \> WhatsApp Channel y
 
 After setting up the webhook service, you can create solutions via code or external applications as needed.
 
-#### Data Return
+## Data return
 
 The data that the webhooks will send to your external service (URL) is in JSON format:
 

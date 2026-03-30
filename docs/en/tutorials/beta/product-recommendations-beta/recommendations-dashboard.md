@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [commercial support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the <a href="https://vtex.com/br-pt/contato/">contact form</a>.
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [commercial support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the <a href="https://vtex.com/pt-br/contato/">contact form</a>.
 
 The **Recommendations** page provides a dashboard to track and analyze the performance of product recommendation strategies in your store through consolidated metrics or divided by shelves.
 

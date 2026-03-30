@@ -1,5 +1,5 @@
 ---
-title: 'Información general de Agent Builder'
+title: "Información general de Agent Builder"
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
@@ -65,22 +65,22 @@ Para personalizar a tu agente utiliza los siguientes campos:
 
 Consulta a continuación la descripción detallada de cada tono de voz:
 
-| Tono de voz del agente  | Descripción |
-| :-------------: | :------------- |
-| Amigable | Interactúa de forma cálida y acogedora, haciendo que el cliente se sienta cómodo y bienvenido, estableciendo una conexión basada en la simpatía y comprensión. |
-| Cooperativo  | Trabaja en conjunto con el cliente para encontrar soluciones. Prioriza el trabajo en equipo y está enfocado en garantizar que las necesidades del cliente sean atendidas con el menor esfuerzo posible. |
-| Extrovertido  | Con una personalidad animada y expresiva, se comunica de manera abierta y entusiasta. Siempre está motivado y transmite energía positiva durante las interacciones, lo que hace que las conversaciones sean dinámicas y atractivas. |
-| Generoso     | Brinda información adicional y recursos que podrían ser útiles, incluso antes de que se los soliciten.   |
-| Informal | Tiene un carácter tranquilo y enfrenta las situaciones difíciles con calma. Mantiene una conversación agradable y da al cliente el tiempo que necesita para procesar la información y tomar decisiones. |
-| Organizado | Garantiza que toda la información se muestre de forma clara y accesible. Es meticuloso y eficaz, guiando al cliente por cada etapa de manera lógica, para que ningún detalle se pierda.  |
-| Sistemático | Con un método claro y bien estructurado, sigue pasos definidos para resolver problemas. Usa un enfoque lógico y organizado, con consistencia y precisión en su forma de comunicarse y en el soporte al cliente.   |
-| Innovador | Ante un problema o una situación difícil, propone nuevas soluciones y aporta ideas creativas que resultan eficaces.  |
-| Creativo          | Utiliza ideas innovadoras para comunicarse. Ofrece respuestas únicas y adapta el lenguaje para hacer el contenido más relevante e impactante para el cliente.  |
-| Intelectual      | Ofrece respuestas detalladas y fundamentadas. Proporciona explicaciones detalladas basadas en hechos y razonamientos, atendiendo las necesidades de los clientes que desean más claridad y comprensión.  |
+| Tono de voz del agente | Descripción                                                                                                                                                                                                                         |
+| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        Amigable        | Interactúa de forma cálida y acogedora, haciendo que el cliente se sienta cómodo y bienvenido, estableciendo una conexión basada en la simpatía y comprensión.                                                                      |
+|      Cooperativo       | Trabaja en conjunto con el cliente para encontrar soluciones. Prioriza el trabajo en equipo y está enfocado en garantizar que las necesidades del cliente sean atendidas con el menor esfuerzo posible.                             |
+|      Extrovertido      | Con una personalidad animada y expresiva, se comunica de manera abierta y entusiasta. Siempre está motivado y transmite energía positiva durante las interacciones, lo que hace que las conversaciones sean dinámicas y atractivas. |
+|        Generoso        | Brinda información adicional y recursos que podrían ser útiles, incluso antes de que se los soliciten.                                                                                                                              |
+|        Informal        | Tiene un carácter tranquilo y enfrenta las situaciones difíciles con calma. Mantiene una conversación agradable y da al cliente el tiempo que necesita para procesar la información y tomar decisiones.                             |
+|       Organizado       | Garantiza que toda la información se muestre de forma clara y accesible. Es meticuloso y eficaz, guiando al cliente por cada etapa de manera lógica, para que ningún detalle se pierda.                                             |
+|      Sistemático       | Con un método claro y bien estructurado, sigue pasos definidos para resolver problemas. Usa un enfoque lógico y organizado, con consistencia y precisión en su forma de comunicarse y en el soporte al cliente.                     |
+|       Innovador        | Ante un problema o una situación difícil, propone nuevas soluciones y aporta ideas creativas que resultan eficaces.                                                                                                                 |
+|        Creativo        | Utiliza ideas innovadoras para comunicarse. Ofrece respuestas únicas y adapta el lenguaje para hacer el contenido más relevante e impactante para el cliente.                                                                       |
+|      Intelectual       | Ofrece respuestas detalladas y fundamentadas. Proporciona explicaciones detalladas basadas en hechos y razonamientos, atendiendo las necesidades de los clientes que desean más claridad y comprensión.                             |
 
 En la sección **Instrucciones generales** puedes agregar directrices que determinan cómo actuará tu agente.
 
-Si agregaste una instrucción y quieres borrarla, solo tienes que hacer clic en el botón de <i class="far fa-trash-alt" aria-hidden="true"></i> papelera al lado de la instrucción. Aparecerá un mensaje preguntándote si deseas remover la instrucción. Haz clic en `Remover` para borrarla o `Cancelar` si deseas conservarla. 
+Si agregaste una instrucción y quieres borrarla, solo tienes que hacer clic en el botón de <i class="far fa-trash-alt" aria-hidden="true"></i> papelera al lado de la instrucción. Aparecerá un mensaje preguntándote si deseas remover la instrucción. Haz clic en `Remover` para borrarla o `Cancelar` si deseas conservarla.
 
 > ℹ️ No hay un límite para la cantidad de instrucciones que puedes ingresar.
 
@@ -130,7 +130,7 @@ También puedes usar el campo de búsqueda para encontrar un sitio web.
 
 En esta página puedes ingresar contenido e información en el cuadro de texto **Escribir contenido.**
 
-Después de ingresar un texto, haz clic en `Guardar cambios`. 
+Después de ingresar un texto, haz clic en `Guardar cambios`.
 
 ## Ajustes
 
@@ -140,7 +140,7 @@ En esta página puedes cambiar la configuración de tus agentes.
 
 Debajo de **Vista previa de los agentes** hay dos botones de alternancia:
 
-- **Feedback progresivo de los agentes:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
+- **Feedback progresivo de los agentes:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
 ![ES GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_1.gif)
 

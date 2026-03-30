@@ -1,5 +1,5 @@
 ---
-title: 'How to create a channel on Twitter'
+title: "How to create a channel on Twitter"
 id: 105ZDpGE4db4bOwN4IGjEL
 status: PUBLISHED
 createdAt: 2025-09-15T14:14:31.530Z
@@ -21,7 +21,7 @@ Note that you can sign up at any level, a Sandbox account (Dev environments) is 
 
 After you receive approval from your developer account, Twitter will send you a welcome email. You can now build your app and connect it.
 
-#### Steps
+## Instructions
 
 1. Your first step is to create your app. You will be prompted for the application name, description, and URL. Fill them in according to the functionality of the bot you are building.
 

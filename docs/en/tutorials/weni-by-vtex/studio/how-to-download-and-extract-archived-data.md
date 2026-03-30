@@ -1,5 +1,5 @@
 ---
-title: 'How to Download and Extract Archived Data'
+title: "How to download and extract archived data"
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z
@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Something very important to know about data collection on the Weni platform is that the data is stored for 180 days. After this period, the data is archived on the platform and stored in JSON format in the Archives menu.
 
-#### **Obtaining Files through Weni Flows**
+## Instructions
 
 You can download these archived data by accessing the settings panel. At the bottom of the page, it will show the number of files and their records, as shown in the following image:
 

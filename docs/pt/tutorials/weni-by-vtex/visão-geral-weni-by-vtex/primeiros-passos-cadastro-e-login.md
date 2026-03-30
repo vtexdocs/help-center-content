@@ -1,5 +1,5 @@
 ---
-title: 'Primeiros passos - Cadastro e login'
+title: "Primeiros passos - cadastro e login"
 id: 2h3YeiQG0EY9hMi6txHtnT
 status: PUBLISHED
 createdAt: 2025-10-16T18:24:49.333Z
@@ -15,19 +15,19 @@ locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
- Plataforma Weni fornece uma experiência intuitiva de criação de chatbots inteligentes. Com ela você poderá criar toda interação que o robô terá com seus usuários, assim como definir os canais pelo qual ele irá se comunicar.
+Plataforma Weni fornece uma experiência intuitiva de criação de chatbots inteligentes. Com ela você poderá criar toda interação que o robô terá com seus usuários, assim como definir os canais pelo qual ele irá se comunicar.
 
-### Cadastro e Login
+## Cadastro e login
 
-#### Ao acessar a plataforma, você verá uma tela semelhante a esta:
+Ao acessar a plataforma, você verá uma tela semelhante a esta:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/primeiros-passos-cadastro-e-login_1.png)
 
 Nela teremos um botão para login (1), e um campo para cadastro grátis (2).
 
-1) Caso você já tenha uma conta cadastrada basta adicionar seu email (x), sua senha (x) e clicar no botão "entrar". Se você tiver esquecido sua senha, basta clicar em "esqueceu a senha?" e um e-mail será enviado para que você possa redefinir sua senha.
+1. Caso você já tenha uma conta cadastrada basta adicionar seu email (x), sua senha (x) e clicar no botão "entrar". Se você tiver esquecido sua senha, basta clicar em "esqueceu a senha?" e um e-mail será enviado para que você possa redefinir sua senha.
 
-2) Se você nunca se cadastrou na Weni Plataforma, clique no botão Cadastre-se grátis ou escolha o provedor do seu e-mail, você será redirecionado para a seguinte página:
+2. Se você nunca se cadastrou na Weni Plataforma, clique no botão Cadastre-se grátis ou escolha o provedor do seu e-mail, você será redirecionado para a seguinte página:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/primeiros-passos-cadastro-e-login_2.png)
 
@@ -40,7 +40,7 @@ Se realizou o passo anterior ou recebeu um convite para uma Organização, mas n
 
 **Após preencher os campos clique em avançar**
 
-##### Preenchendo os dados de Organização e Projeto
+#### Preenchendo os dados de organização e projeto
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/primeiros-passos-cadastro-e-login_4.png)
 

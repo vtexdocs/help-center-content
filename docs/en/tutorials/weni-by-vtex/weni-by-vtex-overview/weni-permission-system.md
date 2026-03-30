@@ -1,5 +1,5 @@
 ---
-title: 'Weni Permission system'
+title: "Weni permission system"
 id: 5m0IcoiGe9A9gnyKTKUrrO
 status: PUBLISHED
 createdAt: 2025-09-10T15:14:23.490Z
@@ -15,10 +15,10 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-### Permission System
 Within the Weni platform, you can manage different permissions for each user, divided into two groups:
 
-#### Organization Permissions
+## Organization permissions
+
 These permissions can be set during the organization creation stage or at any time by using the icon located in the upper right corner within the organization. The organization permissions will apply to all projects within it.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_1.png)
@@ -31,7 +31,8 @@ Currently, there are 3 types of permissions:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_2.png)
 
-#### Project Permissions
+## Project permissions
+
 It is also possible to assign permissions to a specific project, without granting access to the entire organization. To access these options, simply click on the "Manage Members" option located in the upper right corner of the specific project.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_3.png)

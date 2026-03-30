@@ -1,5 +1,5 @@
 ---
-title: 'Chatbot Integrado a API do Construtor de Vendas'
+title: "Chatbot integrado a API do Construtor de Vendas"
 id: 31l91LHeVDM8I2ldGxrrAn
 status: PUBLISHED
 createdAt: 2025-09-17T14:25:32.909Z
@@ -15,20 +15,20 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-### Template Construtor de Vendas
-
-É uma solução em comunicação para **Listagem dos Empreendimentos** , **Envio de Endereço, Materiais de campanha, Plantas**, **Criação de Leads com histórico de conversa** e **Abertura de atendimentos no módulo Relacionamento**. A Weni fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. O template é um chatbot desenvolvido pela Weni, utilizando a [API do Construtor de Vendas](https://docs.cvcrm.com.br/).
+O **Template Construtor de Vendas** é uma solução em comunicação para **Listagem dos Empreendimentos** , **Envio de Endereço, Materiais de campanha, Plantas**, **Criação de Leads com histórico de conversa** e **Abertura de atendimentos no módulo Relacionamento**. A Weni fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. O template é um chatbot desenvolvido pela Weni, utilizando a [API do Construtor de Vendas](https://docs.cvcrm.com.br/).
 
 Veja uma demonstração para entender como o chatbot funciona e suas regras de negócio:
 [Demonstração do Chatbot Template CV @cvcrm | Weni](https://www.youtube.com/watch?v=Pdis7GPSeiU)
 
-#### Requisitos
+## Requisitos
 
 Para iniciar o uso da integração, alguns dados são necessários para configurar seu chatbot:
-  1. **Email e Token de consumo da API CV **
+
+1. **Email e Token de consumo da API CV **
 
 Crie um Token e Email para consumir a API do CV. [Veja como criar.](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor)
-  1. **Assuntos e Subassuntos que serão usados no atendimento**
+
+1. **Assuntos e Subassuntos que serão usados no atendimento**
 
 Os assuntos e subassuntos são obrigatórios para abertura de um atendimento no CV. Sendo assim, para cada opção do menu que for abrir um atendimento no CV, informe qual será o ID do assunto e o ID do subassunto.
 

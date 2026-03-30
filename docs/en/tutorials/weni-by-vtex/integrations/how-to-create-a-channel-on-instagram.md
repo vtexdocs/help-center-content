@@ -1,5 +1,5 @@
 ---
-title: 'How to create a channel on Instagram'
+title: "How to create a channel on Instagram"
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z
@@ -23,11 +23,12 @@ And now you can raise the level and potential of your service by creating a chan
 
 This creates more engagement and interaction with your followers and potential customers and partners, increasing the chances of closing new projects while reducing operational costs with service.
 
-#### How do I set up your Instagram account to create a channel on our platform?
+## How do I set up your Instagram account to create a channel on our platform?
 
 The settings below are extremely important for the creation of the Instagram channel on our platform, because without them the creation will be impossible. The following steps should be performed in the Instagram app.
 
-##### First, your Instagram account must be business or professional.
+### First, your Instagram account must be business or professional.
+
 To do this, do the following steps:
 
 1. Go to **settings**, find **Account type and tools**, tap **Switch to professional account**.
@@ -39,7 +40,7 @@ To do this, do the following steps:
 2. Choose the category that best represents your business and select Company.
 3. Done, your account is business now!
 
-##### Now, connect your Instagram account to Facebook profile in Account Center:
+Now, connect your Instagram account to Facebook profile in account center:
 
 1. Go to **Settings**.
 2. Go to **Accounts Center** by clicking ""See more in Account Center""
@@ -62,14 +63,15 @@ If you want to remove a Facebook account from Account Center, take the steps bel
 5. Tap **Continue** and **Remove \[Username].**
 6. After that, you can link the account you want.
 
-##### Add or change the Facebook Page connected to your Instagram account:
+Add or change the Facebook page connected to your Instagram account:
 
 1. Access your profile.
 2. Select **Edit profile.**
 3. Under Public Business Information, select **Page.**
 4. Choose the Page you want to connect to, or select **Create a new Facebook Page.**
 
-##### Allow access to Instagram messages
+### Allow access to Instagram messages
+
 This permission makes it possible for you to manage your Instagram messages through our platform. To enable it to perform the steps below:
 
 1. Access your **profile**, or in your profile picture, in the lower right corner,
@@ -79,7 +81,7 @@ This permission makes it possible for you to manage your Instagram messages thro
 
 Done, after performing these steps your Instagram account is already able to create channel on our platform.
 
-#### How to create an Instagram Channel on our platform?
+## How to create an Instagram channel on our platform?
 
 After performing the settings indicated in the previous section we will now create an Instagram channel.
 

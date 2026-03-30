@@ -1,5 +1,5 @@
 ---
-title: 'Flow editor and tools'
+title: "Flow editor and tools"
 id: 5vaaCPNxAy3f21esjfeb84
 status: PUBLISHED
 createdAt: 2025-09-16T16:40:08.008Z
@@ -21,7 +21,7 @@ The flow editor is the environment where we create the charts and set up our flo
 
 In this article, we will talk about the tools that exist within this editor to facilitate the creation of our flows.
 
-### Simulator
+## Simulator
 
 One of the most used tools in creating and editing flows is the simulator. With it, we can simulate in real time a conversation that would happen with the execution of the flow we are creating.
 
@@ -40,7 +40,7 @@ If you want a more complete version of the simulator, just press the @ (5) butto
 
 Allowing you to be able to follow in real time the changes in the expressions that are involved with that flow execution. To learn more about expressions, read the [expressions](/en/docs/tutorials/expressions-glossary) article.
 
-### Edition Versions
+## Edition versions
 
 Another very useful tool is the edition version registration. Each change you make to a flow, from the creation of a new letter, to aesthetically realigning your flowchart, has your change recorded in a list of edition versions. Using this list, we were able to return the modifications of a flow to any past moment, avoiding rework to undo unwanted modifications.
 
@@ -52,7 +52,8 @@ You can select one of the options from the list to see the old versions of the f
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flow-editor-and-tools_6.png)
 
-### Start Flow button
+## Start flow button
+
 The start flow button is important for some tests and validations. With it, we were able to start a flow manually with contacts or groups that already exist on the platform. This flow, unlike the simulator, will actually be executed by the contact on your preferred channel.
 
 The button is located in the right corner, just above the other tools shown in the article.
@@ -60,35 +61,38 @@ The button is located in the right corner, just above the other tools shown in t
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flow-editor-and-tools_7.png)
 
 Before we launch these contacts in the flow, we can configure some details:
-  1. Decide if we prefer to choose contacts / groups in a specific way, or if we prefer to create a rule to filter the contacts we want;
-  2. Decide if a contact is already active in the flow in question, that flow will be restarted or not;
-  3. Decide if a contact is already active in some other flow, that flow will be interrupted or not;
+
+1. Decide if we prefer to choose contacts / groups in a specific way, or if we prefer to create a rule to filter the contacts we want;
+2. Decide if a contact is already active in the flow in question, that flow will be restarted or not;
+3. Decide if a contact is already active in some other flow, that flow will be interrupted or not;
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flow-editor-and-tools_8.png)
 
-### Settings menu
+## Settings menu
+
 In addition, we have a number of options in the settings menu, which we can easily find next to the Start Flow button.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flow-editor-and-tools_9.png)
 
-  1. **Results:** Option to analyze and export flow results, based on contact usage. A way to verify which contacts have passed through the flow.
-  2. **Copy UUID:** Option that allows you to obtain the flow's identifier. Each flow has a specific UUID.
-  3. **Edit:** Option to edit the initial settings of the flow, such as the name, triggers, and expiration of the flow (how long it will wait for a response).
-  4. **Copy:** Option that creates an exact copy of the flow. This copied flow will appear in your flow list following the naming pattern ""Copy - Name of the copied flow.""
-  5. **Delete:** Option to delete the selected flow. Be careful, as this operation cannot be undone.
-  6. **Export Definition:** Option that redirects you to the flow export page. For more information, visit the article on [flow export and import](/en/docs/tutorials/import-and-export-flows).
-  7. **Export Translation:** Option that allows you to export the language translation from the platform.
-  8. **Import Translation:** Option that allows you to import the language translation into the platform.
+1. **Results:** Option to analyze and export flow results, based on contact usage. A way to verify which contacts have passed through the flow.
+2. **Copy UUID:** Option that allows you to obtain the flow's identifier. Each flow has a specific UUID.
+3. **Edit:** Option to edit the initial settings of the flow, such as the name, triggers, and expiration of the flow (how long it will wait for a response).
+4. **Copy:** Option that creates an exact copy of the flow. This copied flow will appear in your flow list following the naming pattern ""Copy - Name of the copied flow.""
+5. **Delete:** Option to delete the selected flow. Be careful, as this operation cannot be undone.
+6. **Export Definition:** Option that redirects you to the flow export page. For more information, visit the article on [flow export and import](/en/docs/tutorials/import-and-export-flows).
+7. **Export Translation:** Option that allows you to export the language translation from the platform.
+8. **Import Translation:** Option that allows you to import the language translation into the platform.
 
-### Toolbar
+## Toolbar
+
 In this part of the Flow Editor, you will find some tools to make your work easier. Just click and use them.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flow-editor-and-tools_10.png)
 
-  1. **Select and Drag:** These functions help select cards (arrow-shaped button) and navigate through the flow (hand-shaped button). You can also use the ""v"" key to switch between these functions more easily.
-  2. **Create Block:** Use this button to create any card for your flow.
-  3. **Copy:** Select one or more cards and click this button to copy them. Use the Ctrl + V keys to paste. This function allows you to paste copied cards into another flow. You can also copy using the Ctrl + C keys.
-  4. **Search:** Search for elements within cards, such as the card name, message text, or result name. This function can be activated with the Ctrl + F keys.
-  5. **Zoom:** Allows you to zoom in or out. By clicking the up arrow, you will be directed to the beginning of the flow. It can also be activated with Ctrl + Scroll.
+1. **Select and Drag:** These functions help select cards (arrow-shaped button) and navigate through the flow (hand-shaped button). You can also use the ""v"" key to switch between these functions more easily.
+2. **Create Block:** Use this button to create any card for your flow.
+3. **Copy:** Select one or more cards and click this button to copy them. Use the Ctrl + V keys to paste. This function allows you to paste copied cards into another flow. You can also copy using the Ctrl + C keys.
+4. **Search:** Search for elements within cards, such as the card name, message text, or result name. This function can be activated with the Ctrl + F keys.
+5. **Zoom:** Allows you to zoom in or out. By clicking the up arrow, you will be directed to the beginning of the flow. It can also be activated with Ctrl + Scroll.
 
 With that, you can now create your flows using all the resources that our editor can offer!

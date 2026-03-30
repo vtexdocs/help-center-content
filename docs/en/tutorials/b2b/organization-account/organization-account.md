@@ -1,18 +1,18 @@
 ---
-title: 'Organization Account'
+title: 'Organization account'
 createdAt: '2025-03-09T10:00:00.000Z'
-updatedAt: '2026-03-16T10:00:00.000Z'
+updatedAt: '2025-03-26T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: organization-account
 locale: en
 ---
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
+> ⚠️ This feature is only available to stores using B2B Buyer Portal, which is currently available for selected accounts.
 
-The **Organization Account** is the interface where administrators of buyer organizations manage the purchasing structure and settings used in a given B2B store.
+The **organization account** is the interface where buyer organization admins manage the structure and purchase settings used in a given B2B store.
 
-In this area, companies can configure elements that control how their users make purchases, including:
+It also allows companies to configure elements that control how their users make purchases, including:
 
 - Organization users  
 - Organizational units  
@@ -21,85 +21,90 @@ In this area, companies can configure elements that control how their users make
 - Budgets  
 - Buying Policies  
 
-These settings help companies establish governance and internal rules for purchases made in stores using **B2B Buyer Portal.**
+These settings help companies establish governance and internal rules for purchases made in stores using the **B2B Buyer Portal**.
 
-This article covers:
+This article covers the following topics:
 
-- [Accessing the Organization Account](#accessing-the-organization-account)
-- [Organization Account structure](#organization-account-structure)
+- [Accessing the organization account](#acessing-the-organization-account)
+- [Organization account structure](#organization-account-structure)
   - [Contract information](#contract-information)
   - [Organization](#organization)
-  - [Finance and Compliance](#finance-and-compliance)
+  - [Finance and compliance](#finance-and-compliance)
   - [Adding entities](#adding-entities)
-  - [Returning to the store](#returning-to-the-store)
+  - [Back to the store](#back-to-the-store)
 - [Learn more](#learn-more)
 
-## Accessing the Organization Account
+## Accessing the organization account
 
 1. Log in to the store.
 2. In the upper right corner, click **Company.**
-3. The sidebar will be displayed with account and **Organizational Unit** information.
+3. The sidebar will display the account and **organizational unit** information.
 4. Click **Manage.**
 
-After that, the user will be directed to the main **Organization Account** page, where it is possible to manage the organization's settings.
+You will be directed to the main page of the **organization account,** where you can manage organization settings.
 
-## Organization Account structure
+## Organization account structure
 
-The main **Organization Account** page is divided into three main areas, in addition to other actions that can be performed on this screen.
+The main page of the **organization account** is divided into three main sections, in addition to the other actions that can be performed on this screen.
 
-### Contract information
+### Contract details
 
-The contract information section is identified by the name of the [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units) where the settings are being managed.
+The contract details section is identified by the name of the [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units-pt) where the settings are being managed.
 
-In this area, it is possible to access:
+In this section, you can access:
 
-- **Profile** — Organizational unit information.
-- **Addresses** — Registered addresses.
+- **Profile** — Information about the organizational unit.
+- **Addresses** — Existing addresses.
 - **Payment methods** — Available payment methods.
-- **Credit cards** — Cards registered for purchases.
+- **Credit cards** — Cards added for purchases.
 - **Product assortment** — Product catalog available to the unit.
 - **Accounting fields** — [Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the organization, such as **PO Numbers** or **Cost Centers.**
 
 ### Organization
 
-The **Organization** section allows managing the company's organizational structure.
+The **Organization** section allows you to manage the organizational structure of the company.
 
 The options include:
 
-- **Users** — Management of [organization users](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
-- **Roles** — Definition of permissions and roles.
-- **Organizational Units** — Creation and management of [organizational units](https://help.vtex.com/en/docs/tutorials/organization-units).
+- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+- **Roles** — Define permissions and roles.
+- **Organizational units** — Create and manage [organizational units](https://help.vtex.com/en/docs/tutorials/organization-units-pt).
 
-### Finance and Compliance
+### Finance and compliance
 
-The **Finance and Compliance** section brings together tools for financial control and purchasing governance.
+The **Finance and compliance** section brings together tools for financial control and purchasing governance.
 
-In this section it is possible to manage:
+You can manage:
 
-- **Budgets** — Definition of [budgets](https://help.vtex.com/en/docs/tutorials/budgets-overview).
-- **Buying Policies** — [Buying Policies](https://help.vtex.com/en/docs/tutorials/buying-policies) are rules that control order approval, denial, or review.
+- **Budgets** — [Budget](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets) definition.
+- **Buying policies** — [Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies), rules that control approval, denial, or order review.
 
 ### Adding entities
 
-Users can also add new resources to the organization using the **+** button in the upper right corner of the page.
+You can also add new resources to the organization using the **+** button in the upper right corner of the page.
 
-When clicking this button, a menu will be displayed with options to create different entities:
+By clicking this button, a menu displays with options to create different entities:
 
-- **Rename** — Rename the Organizational Unit.
+- **Rename** — Rename the organizational unit.
 - **Add address** — Add an address.
 - **Add credit card** — Add a credit card.
 - **Add user** — Add a user to the organization.
-- **Add organization unit** — Create a new [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units).
-- **Add budget** — Create a [budget](https://help.vtex.com/en/docs/tutorials/budgets-overview).
+- **Add organizational unit** — Create a new [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units-pt).
+- **Add budget** — Create a [budget](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets).
 - **Add buying policy** — Create a [buying policy](https://help.vtex.com/en/docs/tutorials/buying-policies).
 
-### Returning to the store
+### Back to the store
 
-In the upper right corner of the page there is the **Start shopping** option. When clicking it, the user will be redirected to the **storefront,** where users can browse the catalog and place orders.
+In the upper right corner of the page, when you click the **Start shopping** option, you will be redirected to the **storefront**, where you can browse the catalog and place orders.
 
-## Learn more
+## Tasks in the **organization account**
 
-Check the articles below for more details about the various tasks that can be performed in the **Organization Account** interface.
+Check the articles below for more details on the different tasks you can perform in the **organization account** interface.
+
+- [Adding users to a buyer organization](https://help.vtex.com/en/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
+- [Adding or editing budgets](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-budgets)
+- [Adding or editing buying policies](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-buying-policies)
+- [Adding or editing custom checkout fields](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-campos-customizaveis)
 
 - [Add users to the buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
 - [Add or edit budgets](https://help.vtex.com/docs/tutorials/adding-or-editing-budgets)

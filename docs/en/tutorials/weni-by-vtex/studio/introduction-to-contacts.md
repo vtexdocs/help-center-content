@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to Contacts'
+title: "Introduction to contacts"
 id: 4X4YaqNra4d8PmUYo8MpID
 status: PUBLISHED
 createdAt: 2025-09-12T17:12:46.028Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-ere are all the people you will be in contact with. There are two ways for a user to become a contact on the platform:
+Here are all the people you will be in contact with. There are two ways for a user to become a contact on the platform:
 
 - **Actively**, by sending a message to one of the channels registered by the organization.
 
@@ -30,8 +30,8 @@ When selecting the ""Contacts"" option, you will encounter the following feature
 - **Create Group**: Enables the creation of a name for a group of contacts.
 - **Groups**: A list of groups, with the respective groupings created in that organization. These can be Static Groups (when contacts are added manually or through flows) or Dynamic Groups (a search bar that uses specific expressions and automatically adds the search results to the group).
 - **Contact List**: A list of the various types of contacts available (blocked, stopped, and all available contacts).
--  **Manage Fields**: Used to create contact fields, allowing the creation of varied fields for storing contact information.
--  **Export**: Allows you to export all contacts from the organization.
--  **Custom Search Field**: Enables the construction of queries to search for contacts by name, field, or even using logical rules.
+- **Manage Fields**: Used to create contact fields, allowing the creation of varied fields for storing contact information.
+- **Export**: Allows you to export all contacts from the organization.
+- **Custom Search Field**: Enables the construction of queries to search for contacts by name, field, or even using logical rules.
 
 An active contact is understood as a contact whose last message exchange with the platform occurred within the past 30 days.

@@ -1,5 +1,5 @@
 ---
-title: 'Weni Chats: Configurando o Atendimento humano'
+title: 'Weni Chats: Configurando o atendimento humano'
 id: 2MnTerJXgAfJMRi0EqfTpp
 status: PUBLISHED
 createdAt: 2025-09-16T15:05:01.763Z
@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
-### Configurando o atendimento humano no módulo Chats
-
 Assim como os outros módulos da Plataforma Weni, o Chats fica dentro de um projeto, sendo assim necessário que o usuário que irá configurar o Chats seja administrador ou moderador deste projeto.
 
 Para que um agente possa utilizar o Chats é necessário que esteja inserido em um setor, setor é como é chamado um grupo de atendimento, cada setor é composto de pelo menos um gerente, uma fila, um agente.
@@ -27,13 +25,13 @@ Todo esse gerenciamento é realizado dentro do projeto em **Configurações > C
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-configurando-o-atendimento-humano_1.png)
 
-### **Setor**
+## Setor
 
 No setor é onde é definido o horário de funcionamento do atendimento humano, o limite de atendimento simultâneos por agente, e é possível adicionar tags para que os agentes ao finalizar um atendimento classifiquem o chat de acordo com o assunto, facilitando pesquisas e relatórios posteriores.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-configurando-o-atendimento-humano_2.png)
 
-### **Fila**
+## Fila
 
 Um setor precisa ter pelo menos uma fila. As filas servem para subdividir um setor, caso haja interesse em ter um setor com mais de um grupo de agentes. Caso não precise desta subdivisão, basta criar uma única fila. 
 
@@ -45,7 +43,7 @@ Caso o setor não precise de subdivisão basta criar uma única fila.
 
 Caso um agente esteja inserido em mais de uma fila, indiferente se as mesmas pertencem ao mesmo setor ou setores diferentes, o Chats encaminhará os atendimentos de acordo com a ordem de chegada para o agente. 
 
-### **Tags**
+## Tags
 
 As tags são usadas para classificar características do atendimento e possibilitar a pesquisa e filtragem dos chats a partir delas, ao encerrar um chat o agente utilizará as tags para classificar o chat de acordo com assunto e outras características.
 

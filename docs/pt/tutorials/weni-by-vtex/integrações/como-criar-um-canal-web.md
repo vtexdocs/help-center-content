@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal web'
+title: "Como criar um canal web"
 id: 1E5AfNZbC5NzbUokYCICW4
 status: PUBLISHED
 createdAt: 2025-09-15T14:56:55.893Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, tempo de espaçamento entre mensagens, indicadores de mensagem, avatar e muito mais! Assim, garantindo tudo que a Weni Plataforma tem a oferecer com a cara da sua marca. Logo abaixo iremos te mostrar o passo a passo para realizar a integração.
 
-#### **Criando um canal web**
+## Instruções
 
 1. Para integrar seu chatbot a um canal web, primeiramente você precisa entrar na organização que está localizado o projeto, para que então possamos integrar o canal.
 2. Localize o projeto que você deseja integrar.
@@ -31,6 +31,7 @@ Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, t
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-web_2.png)
 
 6. Ao abrir o painel de customização da Weni Web Chat, você terá as seguintes opções para configurar:
+
 - Título do seu chat;
 - Subtítulo do chat (opcional);
 - Mensagem de disparo: quando ativada é a primeira mensagem que seu chatbot envia (opcional);

@@ -1,5 +1,5 @@
 ---
-title: 'Primeiros Passos - Criar projeto'
+title: "Primeiros passos - criar projeto"
 id: 6s7Y3xsQSOTGxufA9bY8IP
 status: PUBLISHED
 createdAt: 2025-09-01T15:32:25.883Z
@@ -14,8 +14,6 @@ legacySlug: criar-projeto
 locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
-
-### Primeiros Passos - Criando Seu Projeto
 
 Na etapa de [cadastro e login](/pt/docs/tutorials/primeiros-passos-cadastro-e-login), você já criou sua primeira organização e projeto. Para criar uma nova organização, basta clicar em Adicionar Organização.
 
@@ -51,7 +49,7 @@ Os templates são fluxos prontoscom finalidades específicas, eles são dividido
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_4.png)
 
-Escolha entre criar um agente personalizada ou criar um template para concluir a última etapa do seu projeto. A Dóris irá aparecer na sua tela, sinalizando que seu projeto foi criado com sucesso.  Veja a imagem:
+Escolha entre criar um agente personalizada ou criar um template para concluir a última etapa do seu projeto. A Dóris irá aparecer na sua tela, sinalizando que seu projeto foi criado com sucesso. Veja a imagem:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_5.png)
 
@@ -59,13 +57,13 @@ Após seguir os passos para criação de organização e projeto você pode come
 
 As pessoas adicionadas a Org terão acesso a todos os projetos criados dentro dela.
 
-Para saber mais sobre o sistema de permissões,  [clique aqui](/pt/docs/tutorials/sistema-de-permissoes-weni).
+Para saber mais sobre o sistema de permissões, [clique aqui](/pt/docs/tutorials/sistema-de-permissoes-weni).
 
 Adicione membros a sua organização clicando no menu dropdown e depois em Gerenciar membros, veja a imagem:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_6.png)
 
-Insira o e-mail(1) da pessoa que deseja convidar, escolha a Permissão(2) e clique em Adicionar  (3).
+Insira o e-mail(1) da pessoa que deseja convidar, escolha a Permissão(2) e clique em Adicionar (3).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_7.png)
 
@@ -73,6 +71,6 @@ Os membros que forem adicionados receberão um e-mail de convite para entrar na 
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_8.png)
 
-Para saber mais sobre o sistema de permissões,  [clique aqui](/pt/docs/tutorials/sistema-de-permissoes-weni).
+Para saber mais sobre o sistema de permissões, [clique aqui](/pt/docs/tutorials/sistema-de-permissoes-weni).
 
 Após criar sua organização, projeto e adicionar os membros da sua equipe você estará pronto para aproveitar ao máximo o potencial da Weni Plataforma.

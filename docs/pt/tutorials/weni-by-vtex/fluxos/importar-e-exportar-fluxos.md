@@ -1,5 +1,5 @@
 ---
-title: 'Importar e exportar fluxos'
+title: "Importar e exportar fluxos"
 id: 2jwPSnXsL3wniLWt9i7IA5
 status: PUBLISHED
 createdAt: 2025-09-17T14:03:45.539Z
@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Existem muitos motivos para querermos importar e exportar fluxos, desde querer passar para um amigo alguma solução que criamos na plataforma até mesmo criar um template para divulgar dentro da nossa comunidade. Aqui, vamos explicar um pouco mais sobre como esse processo funciona.
 
-### Exportação
+## Exportação
 
 Existem dois caminhos de chegarmos na página de exportação de fluxos.
 
@@ -47,7 +47,7 @@ Já na página de exportação, ela irá te exibir todos os fluxos e campanhas d
 
 Para exportar os fluxos que deseja, basta selecionar os de seu interesse e depois apertar no botão _**exportar**_ no fim da página, ele irá gerar um arquivo `.json` que você poderá utilizar na próxima etapa, a importação.
 
-### Importação
+## Importação
 
 Para chegarmos na página de importação de fluxo basta ir ao menu de opções e clicar no botão **_importar_** nas configurações gerais da organização.
 

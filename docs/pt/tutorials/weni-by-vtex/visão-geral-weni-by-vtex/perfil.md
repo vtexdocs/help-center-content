@@ -1,5 +1,5 @@
 ---
-title: 'Perfil'
+title: "Perfil"
 id: 6XYzUP45cu0ALmHtVXzXP0
 status: PUBLISHED
 createdAt: 2025-09-02T15:42:38.566Z
@@ -15,13 +15,11 @@ locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-#### Visão geral
-
 Sendo uma comunidade, a Weni é feita por seus usuários e colaboradores! Então, a seção Perfil permite que você gerencie sua conta e visualize todas as suas inteligências.
 
 Abaixo, você aprenderá como administrar sua conta na Weni.
 
-#### Editar perfil
+## Editar perfil
 
 Para acessar a página de Perfil, vá para a página inicial e clique no ícone do lado superior direito da tela.
 
@@ -33,7 +31,7 @@ Clicando no ícone à esquerda clique em Seu perfil, nessa sessão pode editar s
 
 Complete os campos para salvar os dados que serão atualizados, imagem demonstrativa não contém o contato completo para respeitar a Lei Geral de Proteção de Dados.
 
-#### Trocar senha
+## Trocar senha
 
 Para trocar a senha da sua conta na Weni, siga os passos abaixo:
 
@@ -45,7 +43,7 @@ Para trocar a senha da sua conta na Weni, siga os passos abaixo:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/perfil_3.png)
 
-#### Resetar Senha
+## Resetar senha
 
 Você também pode resetar sua senha!
 

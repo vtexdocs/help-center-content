@@ -1,5 +1,5 @@
 ---
-title: 'Zendesk - Human Support'
+title: "Zendesk - human support"
 id: 3FSQwdnzAX3jah8euPD1Ah
 status: PUBLISHED
 createdAt: 2025-09-15T15:13:03.117Z
@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Steps for Integration
-
 The integration between the Weni platform and Zendesk provides a powerful tool for managing customer service efficiently and automatically. After completing the configuration and installation, it is essential to monitor the integration's operation to ensure that all tickets are managed correctly and that automatic triggers function as expected.
+
+## Instructions
 
 1. Create an account on Zendesk
 
@@ -28,15 +28,15 @@ Access: <https://www.zendesk.com/>
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_1.png)
 
 1. Access the Project on the Weni Platform
-Within your project on the Weni platform, go to the **Applications > Other Apps** module.
-Click on the hamburger menu and select **Add Ticketing Service**, choosing **Zendesk**.
+   Within your project on the Weni platform, go to the **Applications > Other Apps** module.
+   Click on the hamburger menu and select **Add Ticketing Service**, choosing **Zendesk**.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_2.png)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_3.png)
 
 1. Fill in the Subdomain and Capture the Request URL
-You will be asked to enter your subdomain. Before submitting it, press **F12** to open developer mode and go to the **Network** module.
+   You will be asked to enter your subdomain. Before submitting it, press **F12** to open developer mode and go to the **Network** module.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_4.png)
 
@@ -45,6 +45,7 @@ You will be asked to enter your subdomain. Before submitting it, press **F12** t
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_5.png)
 
 **Fill in the Subdomain**, which is the value before ""zendesk.com"" in the URL. Example: **weni5623** from https://weni5623\.zendesk.com/.
+
 - When you click **Connect**, two new lines will appear in developer mode.
 - Click on the second line, where the **Request URL** will start with your subdomain, for example, https://weni5623\...
 - Copy the entire URL and open it in another browser tab.
@@ -65,7 +66,7 @@ Authorize the use of the application in your Zendesk account.
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_9.png)
 
 1. Install the Weni Application in Zendesk
-Access the [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) and install the **Weni** application.
+   Access the [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) and install the **Weni** application.
 
 If the Weni app is already installed in Zendesk, there is no need to reinstall it. Proceed to the next step to **add account.**
 
@@ -92,25 +93,25 @@ Assign a name to your integration/account and add the secret saved in **Step 5**
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_14.png)
 
 1. Verify the Connection on the Weni Platform
-If all the steps have been followed correctly, under **Applications > Other Apps** on the Weni Platform, the service with Zendesk should appear as connected.
+   If all the steps have been followed correctly, under **Applications > Other Apps** on the Weni Platform, the service with Zendesk should appear as connected.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_15.png)
 
 1. Use the ""Open a Ticket"" Card in the Flow
-You can now use the **Open a Ticket** card in your flow on the Weni Platform.
-See: [Creating Custom Fields](/en/docs/tutorials/adding-ticket-creation-fields-in-zendesk) .
+   You can now use the **Open a Ticket** card in your flow on the Weni Platform.
+   See: [Creating Custom Fields](/en/docs/tutorials/adding-ticket-creation-fields-in-zendesk) .
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_16.png)
 
 1. Set Up Triggers
-Configure a trigger so that when a ticket is closed, a completion flow is initiated for the user.
-Additionally, create triggers to prevent users in support from initiating other unwanted flows.
+   Configure a trigger so that when a ticket is closed, a completion flow is initiated for the user.
+   Additionally, create triggers to prevent users in support from initiating other unwanted flows.
 
 This is a test for opening tickets in Zendesk:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_17.png)
 
-##### Next Steps:
+## Next steps
 
 - Test the Integration: Perform tests to ensure that ticket creation and automatic responses are functioning as planned.
 - Continuous Monitoring: Establish a regular review process for triggers and flows to ensure they align with business needs.

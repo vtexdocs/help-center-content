@@ -1,5 +1,5 @@
 ---
-title: 'Profile'
+title: "Profile"
 id: 6XYzUP45cu0ALmHtVXzXP0
 status: PUBLISHED
 createdAt: 2025-09-02T15:42:38.566Z
@@ -15,12 +15,12 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-### Overview
 As a community, Weni is built by its users and collaborators! Therefore, the Profile section allows you to manage your account and view all your intelligences.
 
 Below, you will learn how to manage your account on Weni.
 
-#### Edit Profile
+## Edit profile
+
 To access the Profile page, go to the home page and click the icon in the top right corner of the screen.
 
 ![Profile menu icon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/profile_1.png)
@@ -29,7 +29,8 @@ By clicking the icon on the left, select **Profile**. In this section, you can e
 
 ![Profile edit form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/profile_2.png)
 
-#### Tap password
+## Tap password
+
 To change your Weni account password, follow the steps below:
 
 ![Change password section](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/profile_3.png)
@@ -38,7 +39,8 @@ To change your Weni account password, follow the steps below:
 2. Click New password
 3. Enter your new password, then confirm.
 
-#### Reset Password
+## Reset password
+
 You can also reset your password!
 
 Go to the home page > Forgot Password and enter your email.

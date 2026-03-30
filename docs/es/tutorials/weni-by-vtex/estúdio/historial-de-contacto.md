@@ -1,5 +1,5 @@
 ---
-title: 'Historial de Contacto'
+title: "Historial de contacto"
 id: 5iIOoqK90mIPUYTyZ32f1Z
 status: PUBLISHED
 createdAt: 2025-09-12T17:07:19.998Z
@@ -21,7 +21,7 @@ Los mensajes están ordenados por fechas y separados por colores según su orige
 
 Puedes tener una vista resumida que solo muestra las conversaciones para un análisis rápido o una vista detallada con más información.
 
-#### **Cómo acceder al historial de un contacto**
+## Cómo acceder al historial de un contacto
 
 En la página de inicio, haz clic en **Estudio** > **Contactos**, luego selecciona un contacto de la lista o utiliza el **campo de búsqueda** para encontrarlo por nombre, número de teléfono, WhatsApp u otro dato único del cliente que esté registrado en un campo de contacto, como correo electrónico o número de identificación.
 

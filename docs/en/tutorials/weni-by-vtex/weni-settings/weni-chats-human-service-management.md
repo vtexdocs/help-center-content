@@ -1,5 +1,5 @@
 ---
-title: 'Weni Chats: Human Service Management'
+title: "Weni Chats: Human service management"
 id: 6KZfFfE7oB8w0dvicZnI5p
 status: PUBLISHED
 createdAt: 2025-09-16T15:19:00.468Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
-### **How to Add Users to the Weni Platform Organization**
+## How to add users to the Weni Platform organization
 
 To add or remove new users, such as agents, first add the user to the Weni platform. Enter your organization on the Weni platform and click on the ""manage members"" icon, where you can input the names and emails to be added or removed.
 
@@ -25,7 +25,7 @@ Click the **manage members** button in the **Weni platform organization > Enter 
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_2.png)
 
-### Adding Agents to Your Project
+## Adding agents to your project
 
 To add users who will be part of the human support team, they must be added to the project.
 
@@ -51,7 +51,7 @@ To learn more about permissions, [read this article](/en/docs/tutorials/weni-cha
 
 After assigning the correct permission to the user, the chat module will be available, and they will be a support agent. Now, simply add them to the queue, they will manage.
 
-### How to Add a Support Department in Weni Chats
+## How to add a support department in Weni Chats
 
 To add a department in Weni Chats, you need to go to the **Settings module > Chats > New Department**.
 
@@ -61,15 +61,15 @@ After that, fill in the information to create the department:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_6.png)
 
-* Department Name;
-* Support Managers (who will view the support history, agent activities, and dashboard);
-* Additional options for the department;
-* Definition of working hours (the time during which support requests can be opened if the user asks);
-* Number of simultaneous support sessions.
+- Department Name;
+- Support Managers (who will view the support history, agent activities, and dashboard);
+- Additional options for the department;
+- Definition of working hours (the time during which support requests can be opened if the user asks);
+- Number of simultaneous support sessions.
 
 After configuring the department, set up the queues.
 
-### How to Add Support Queues in Weni Chats
+## How to add support queues in Weni Chats
 
 Every department requires at least one queue to be configured in order to function. So, you must set it up when creating the department. When creating your queue, provide a name for the queue and add one or more agents:
 
@@ -77,7 +77,7 @@ Every department requires at least one queue to be configured in order to functi
 
 After configuring the department and queue, it's time to create your support tags.
 
-### How to Add a Support Tag
+## How to add a support tag
 
 Support tags are selected when closing a support session and are used to filter support histories and dashboards through these tags. Tags can be related to the topic discussed during the session, but it's up to you to decide how best to use them. Remember, when closing a support session, at least one tag is required.
 
