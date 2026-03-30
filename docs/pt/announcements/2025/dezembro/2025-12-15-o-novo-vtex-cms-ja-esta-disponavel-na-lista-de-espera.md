@@ -1,12 +1,12 @@
 ---
 title: "O novo VTEX CMS já está disponível na lista de espera"
 excerpt: ""
-createdAt: "2025-12-15T17:08:52.219Z"
-updatedAt: "2026-03-27T17:08:52.219Z"
+createdAt: 2025-12-15T17:08:52.219Z
+updatedAt: 2026-03-27T17:08:52.219Z
 contentType: updates
 productTeam: CMS
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: "2025-12-15-o-novo-vtex-cms-já-está-disponível-na-lista-de-espera"
+slugEN: 2025-12-15-o-novo-vtex-cms-ja-esta-disponavel-na-lista-de-espera
 locale: pt
 announcementSynopsisPT: 'O novo VTEX CMS já está disponível na lista de espera com recursos modernos para criar e distribuir conteúdo de storefront com mais eficiência.'
 tags:

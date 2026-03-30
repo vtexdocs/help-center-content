@@ -1,11 +1,11 @@
 ---
 title: "New VTEX CMS now available for waitlist"
-createdAt: "2025-12-15T17:08:52.219Z"
-updatedAt: "2026-03-30T17:08:52.219Z"
+createdAt: 2025-12-15T17:08:52.219Z
+updatedAt: 2026-03-30T17:08:52.219Z
 contentType: updates
 productTeam: CMS
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: "2025-12-15-new-vtex-cms-now-available-for-waitlist"
+slugEN: 2025-12-15-new-vtex-cms-now-available-for-waitlist
 locale: en
 announcementSynopsisEN: 'The new VTEX CMS is now available for waitlist with modern features to create and distribute storefront content more efficiently.'
 tags:
