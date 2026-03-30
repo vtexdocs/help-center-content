@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Headless CMS: Stores will be upgraded to the new VTEX CMS",
+                    "es": "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS",
+                    "pt": "Headless CMS: lojas serão atualizadas para o novo CMS da VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms",
+                    "es": "2026-03-30-headless-cms-las-tiendas-seran-migradas-al-nuevo-vtex-cms",
+                    "pt": "2026-03-30-headless-cms-lojas-serao-atualizadas-para-o-novo-vtex-cms"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
                     "es": "VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
                     "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
