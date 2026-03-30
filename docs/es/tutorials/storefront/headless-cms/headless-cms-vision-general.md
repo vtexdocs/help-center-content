@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS (Legacy) - Información general'
+title: 'Headless CMS (Legado) - Información general'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED
 createdAt: 2023-12-15T20:27:39.404Z
