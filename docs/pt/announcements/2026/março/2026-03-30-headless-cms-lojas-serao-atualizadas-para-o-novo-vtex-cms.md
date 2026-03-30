@@ -17,8 +17,7 @@ A partir de **30 de março de 2026**, a VTEX começará a atualizar automaticame
 
 Essa atualização traz um sistema moderno e mais robusto de gerenciamento de conteúdo, desenvolvido para melhorar a forma como as equipes criam, colaboram e distribuem conteúdo, possibilitando fluxos de trabalho mais rápidos, maior colaboração e maior escalabilidade.
 
-
-| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
+| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
 |:---:|
 | **Todos os conteúdos:** Crie, gerencie e publique todas as páginas, layouts, templates e seções globais do seu storefront a partir de um único dashboard. |
 

@@ -16,7 +16,7 @@ tags:
 
 O novo [CMS da VTEX](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já está disponível para a lista de espera. Apresentamos um sistema moderno e escalável de gerenciamento de conteúdo, desenvolvido para ajudar lojistas a criar, colaborar e distribuir conteúdo de storefront com mais eficiência.
 
-| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
+| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-conteudo-pt___0073aa95aa1b4f68a49ffcb635ea66ea.gif) |
 |:---:|
 | **Todos os conteúdos:** Crie, gerencie e publique todas as páginas, layouts, templates e seções globais do seu storefront a partir de um único dashboard. |
 
