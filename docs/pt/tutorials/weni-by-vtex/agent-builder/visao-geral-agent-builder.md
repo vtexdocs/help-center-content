@@ -20,7 +20,7 @@ O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em 
 
 A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
 
-> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais da Weni by VTEX](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
+> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais da VTEX Agentic CX Platform](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
@@ -81,11 +81,7 @@ Em **Prévia dos agentes**, há dois botões de alternância:
 
 - **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_2.gif)
-
 - **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-![Formato de mensagem múltipla](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_3.png)
 
 #### Editar instruções
 

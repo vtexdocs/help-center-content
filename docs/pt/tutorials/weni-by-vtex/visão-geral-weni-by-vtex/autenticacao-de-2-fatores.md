@@ -17,7 +17,8 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 A Plataforma Weni permite que você habilite a autenticação de 2 fatores na sua conta e/ou opte por limitar o acesso da sua organização a somente usuários que possuem a autenticação habilitada. A funcionalidade é o ideal para você que deseja uma camada a mais de segurança para o seu projeto.
 
-## 1 - Habilitar a autenticação na sua conta
+## Habilitar a autenticação na sua conta
+
 A autenticação pode ser habilitada em uma conta clicando na sua foto, ao lado direito da tela \> conta, conforme ilustrado a seguir:
 
 Na tela de configurações de conta, selecione a opção ""privacidade e segurança"", habilite a verificação de 2FA e salve.
@@ -32,7 +33,7 @@ Ao tentar realizar o login na Plataforma Weni novamente, será solicitado que vo
 
 Pronto, agora a Autenticação de dois fatores já está habilitada para uso. Toda vez que você tentar realizar o login na plataforma, será solicitado que você submeta o código de verificação mostrado no aplicativo da Microsoft Authenticator, conforme ilustrado a seguir:
 
-## 2 **- Solicitar autenticação em sua organização**
+## Solicitar autenticação em sua organização
 
 Para que os projetos e dados da sua organização tenham uma camada a mais de segurança, você pode habilitar para que somente usuários que possuem a Autenticação de Dois Fatores habilitada entrem na org. Para isso, clique no ícone localizado no canto direito no card da organização e selecione a opção ""configurações"".
 

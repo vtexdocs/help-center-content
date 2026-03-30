@@ -24,5 +24,5 @@ As regras atuais de distribuição automática dos atendimentos são:
 - Um atendente pode pegar um atendimento manualmente mesmo se estiver com status Offline.
 - Um atendente pode pegar um atendimento manualmente mesmo se estiver no limite de atendimentos simultâneos.
 
-O Weni Chats ainda não permite a escolha de diferentes regras de distribuição e
+O Live Desk ainda não permite a escolha de diferentes regras de distribuição e
 roteamento dos atendimentos para agentes humanos.

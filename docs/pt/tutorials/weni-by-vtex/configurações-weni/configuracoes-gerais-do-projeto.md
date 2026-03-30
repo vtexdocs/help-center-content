@@ -41,7 +41,7 @@ Aqui você poderá definir o e-mail da sua organização. Todos os e-mails envia
 3. Em Porta, insira a porta do seu serviço SMTP (provavelmente será 587).
 4. Em Nome de usuário, insira o nome de usuário do seu e-mail.
 5. Em Senha, insira a senha do seu e-mail.
-6. Clique em Salvar.
+6. Clique em `Salvar`.
 
 Se não desejar configurar, pode deixar os campos em branco para enviar e-mails através do host padrão da VTEX Agentic CX Platform.
 
