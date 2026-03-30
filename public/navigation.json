@@ -34450,9 +34450,9 @@
           "children": [
             {
               "name": {
-                "en": "Headless CMS",
-                "es": "Headless CMS",
-                "pt": "Headless CMS"
+                "en": "Headless CMS (Legacy)",
+                "es": "Headless CMS (Legado)",
+                "pt": "Headless CMS (Legado)"
               },
               "slug": {
                 "en": "headless-cms-subcategory",
@@ -35991,9 +35991,9 @@
                 "pt": "CMS"
               },
               "slug": {
-                "en": "cms",
-                "es": "cms",
-                "pt": "cms"
+                "en": "cms-subcategory",
+                "es": "cms-subcategoria",
+                "pt": "cms-subcategoria"
               },
               "origin": "",
               "type": "category",
