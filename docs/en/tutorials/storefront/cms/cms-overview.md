@@ -8,6 +8,10 @@ slugEN: "cms-overview"
 locale: en
 ---
 
+<div style="background-color:#EBF5FB; border-left: 2px solid #3498DB; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+ The CMS is available for FastStore stores from v3 and above, and Headless Stores. If your store uses FastStore v1 or v2, refer to <a href="/en/docs/tutorials/headless-cms-overview">Headless CMS (Legacy)</a>.
+</div>
+
 The Content Management System (CMS) provides merchants with the flexibility and control needed to manage and structure their storefront content independently. It allows business teams and content editors to create multiple versions of content, collaborate on details, review for quality, and schedule publishing. To access the CMS, open the VTEX Admin and go to **Storefront > Content > Content**.
 
 Below are the main parts of the CMS:

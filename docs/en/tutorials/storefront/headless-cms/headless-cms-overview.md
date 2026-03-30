@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS - Overview'
+title: 'Headless CMS (Legacy) - Overview'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED
 createdAt: 2023-12-15T20:27:39.404Z
@@ -16,6 +16,10 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 order: 1
 ---
 
+<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+  Headless CMS (Legacy) is available only for FastStore stores (v1, v2, and v3) and Headless Stores. We recommend migrating to the new <a href="/en/docs/tutorials/cms-overview">CMS</a>, which offers improved performance, collaboration, and scalability.
+</div>
+
 The Headless CMS is a content management system designed by VTEX to empower businesses with the flexibility to create and deliver content across various channels, such as websites and mobile apps.
 
 The term *Headless* refers to the separation between the interface that displays content to the user, the frontend, and the system responsible for managing and storing that content, the backend. This approach allows content management to occur independently of the user interface, providing flexibility and scalability. For example, a merchant can update a product page through Headless CMS without affecting the user experience on the website. This simplifies content maintenance and enables the reuse of data.
@@ -28,9 +32,10 @@ To access the Headless CMS, log in to the VTEX Admin and navigate to **Storefron
 
 The headless CMS allows you to:
 
-- [Manage Projects](#managing-projects)
-- [Manage pages](#managing-pages)
-- [Manage singleton content types](#managing-singleton-content-types)
+- [Managing Projects](#managing-projects)
+- [Managing pages](#managing-pages)
+- [Managing Singleton content types](#managing-singleton-content-types)
+- [Next steps](#next-steps)
 
 ## Managing Projects
 

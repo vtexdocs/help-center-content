@@ -8,6 +8,10 @@ slugEN: "cms-overview"
 locale: pt
 ---
 
+<div style="background-color:#EBF5FB; border-left: 2px solid #3498DB; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+  O CMS está disponível para lojas FastStore a partir da v3 e Headless Stores. Se sua loja utiliza FastStore v1 ou v2, consulte o <a href="/pt/docs/tutorials/headless-cms-overview">Headless CMS (Legacy)</a>.
+</div>
+
 O Sistema de Gerenciamento de Conteúdo (CMS) oferece aos lojistas a flexibilidade e o controle necessários para gerenciar e estruturar o conteúdo da frente de loja de forma independente, permitindo que equipes de negócios e editores de conteúdo criem múltiplas versões de conteúdo, colaborem nas informações, revisem a qualidade e programem a publicação. Para acessar o CMS, abra o Admin VTEX e acesse **Storefront > Conteúdo > Conteúdo**.
 
 Abaixo estão as principais partes do CMS:
