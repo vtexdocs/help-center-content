@@ -38101,23 +38101,23 @@
             }
           ]
         },
-        {
-          "name": {
-            "en": "CMS",
-            "es": "CMS",
-            "pt": "CMS"
-          },
-          "slug": {
-            "en": "cms",
-            "es": "cms",
-            "pt": "cms"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
             {
               "name": {
-                "en": "Content Management overview",
+                "en": "CMS",
+                "es": "CMS",
+                "pt": "CMS"
+              },
+              "slug": {
+                "en": "cms-subcategory",
+                "es": "cms-subcategoria",
+                "pt": "cms-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
                 "es": "Información general de la gestión de contenidos",
                 "pt": "Visão geral do CMS"
               },
