@@ -1,7 +1,7 @@
 ---
 title: 'Scopes overview'
 createdAt: '2026-03-04T10:00:00.000Z'
-updatedAt: '2026-03-04T10:00:00.000Z'
+updatedAt: '2026-03-30T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: scopes-overview
@@ -37,6 +37,6 @@ The restrictions that can be imposed on **organizational units** are related to:
 
 ## Storefront permissions
 
-To view and manage the scope of an organizational unit, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) role must have the `View_Organization_Unit` and `Edit_Organization_Unit` resources.
+To view and manage the scope of an organizational unit, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) role must have the `View_Organization_Unit` and `Edit_Organization_Unit` resources.
 
 > ℹ️ For more information, see the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
