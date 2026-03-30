@@ -224,13 +224,13 @@
                 {
                   "name": {
                     "en": "New VTEX CMS now available for waitlist",
-                    "es": "New VTEX CMS now available for waitlist",
-                    "pt": "New VTEX CMS now available for waitlist"
+                    "es": "Nuevo VTEX CMS disponible en lista de espera",
+                    "pt": "O novo VTEX CMS já está disponível na lista de espera"
                   },
                   "slug": {
                     "en": "2025-12-15-new-vtex-cms-now-available-for-waitlist",
-                    "es": "",
-                    "pt": ""
+                    "es": "2025-12-15-nuevo-vtex-cms-disponible-en-lista-de-espera",
+                    "pt": "2025-12-15-o-novo-vtex-cms-ja-esta-disponavel-na-lista-de-espera"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -276,68 +276,6 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Diciembre",
-                "es": "Diciembre",
-                "pt": "Diciembre"
-              },
-              "slug": {
-                "en": "diciembre",
-                "es": "2025-diciembre",
-                "pt": "diciembre"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Nuevo VTEX CMS disponible en lista de espera",
-                    "en": "Nuevo VTEX CMS disponible en lista de espera",
-                    "pt": "Nuevo VTEX CMS disponible en lista de espera"
-                  },
-                  "slug": {
-                    "es": "2025-12-15-nuevo-vtex-cms-disponible-en-lista-de-espera",
-                    "en": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Dezembro",
-                "es": "Dezembro",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "dezembro",
-                "es": "dezembro",
-                "pt": "2025-dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "O novo VTEX CMS já está disponível na lista de espera",
-                    "en": "O novo VTEX CMS já está disponível na lista de espera",
-                    "es": "O novo VTEX CMS já está disponível na lista de espera"
-                  },
-                  "slug": {
-                    "pt": "2025-12-15-o-novo-vtex-cms-ja-esta-disponavel-na-lista-de-espera",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
