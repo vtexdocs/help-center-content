@@ -17502,12 +17502,12 @@
                     },
                     {
                       "name": {
-                        "en": "B2B trade policies - Overview (B2B Suite)",
+                        "en": "B2B sales channels - Overview (B2B Suite)",
                         "es": "Políticas comerciales en B2B - Información general (B2B Suite)",
                         "pt": "Política comercial no B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
-                        "en": "b2b-trade-policies-overview",
+                        "en": "b2b-sales-channels-overview",
                         "es": "vista-general-de-las-politicas-comerciales-en-b2b",
                         "pt": "visao-geral-da-politica-comercial-no-b2b"
                       },
