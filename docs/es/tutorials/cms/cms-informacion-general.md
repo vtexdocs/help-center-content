@@ -49,6 +49,8 @@ El flujo de colaboración en una rama es el siguiente:
 
 ## Multimedia
 
+![cms-medi-es](https://vtexhelp.vtexassets.com/assets/docs/src/cms-media-es___f4f4cfae4ad6d3b5318ac01dac6da1a8.png)
+
 El módulo Multimedia te permite gestionar los archivos multimedia de tu tienda, como imágenes y videos. Para imágenes, puedes cargar y organizar archivos de hasta 5 MB en los siguientes formatos: PNG, JPG, GIF, SVG y WebP. Para videos, puedes registrar una URL de un proveedor de videos externo, como YouTube.
 
 Para más detalles, consulta la guía [Multimedia](https://newhelp.vtex.com/docs/tutorials/media-overview).
