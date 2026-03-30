@@ -40,11 +40,11 @@ https://discord.com/developers/applications
 
 ### Adicione o canal à plataforma Weni
 
-1. Dentro do projeto, vá em: Aplicativos \-> Descoberta \-> Adicione o Discord
+1. Dentro do projeto, vá em: Configurações > Canais e adicione o Discord
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-o-discord-como-um-canal_3.png)
 
-2. Após adicionar em ""Meus Aplicativos"", insira o seu discord\_bot\_token fornecido pela página Discord Developer e a URL do Proxy, que é a URL onde o proxy do Discord está rodando.
+2. Após adicionar o canal em **Canais**, insira o seu discord\_bot\_token fornecido pela página Discord Developer e a URL do Proxy, que é a URL onde o proxy do Discord está rodando.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-o-discord-como-um-canal_4.png)
 

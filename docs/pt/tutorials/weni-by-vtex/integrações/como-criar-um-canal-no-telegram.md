@@ -39,9 +39,9 @@ Pronto! Você criou seu novo chatbot e já recebeu o seu token! Copie e guarde e
 
 1. Com o token em mãos, agora você já pode realizar a integração com o Telegram dentro do seu projeto.
 2. Localize o projeto ao qual você deseja integrar.
-3. Na barra lateral, clique em **aplicativos**.
+3. Na barra lateral, clique em **Canais** (em **Configurações**).
 4. Selecione a opção ""Telegram"" e adicione o canal ao seu projeto.
-5. Após adicionado, vá até a aba de **Meus Aplicativos** e clique no ícone do Telegram para adicionar o *token* que foi adquirido no passo anterior pelo **Botfather** e clique em **""validar""**
+5. Após adicionado, vá até a aba de **Canais** e clique no ícone do Telegram para adicionar o *token* que foi adquirido no passo anterior pelo **Botfather** e clique em **""validar""**
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-telegram_4.png)
 

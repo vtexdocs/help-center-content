@@ -21,14 +21,7 @@ No entanto, se preferir manter os contatos em um fluxo até que concluam ou que 
 
 Para configurar um fluxo para ignorar gatilhos e palavras-chave enquanto um contato ainda estiver participando, basta ajustar as configurações adequadamente.
 
--    Acesse o módulo de Fluxos e clique no fluxo que você deseja realizar esta ação
-
--   Clique no ícone de 3 listras no canto superior direito do editor de fluxo e depois clique na opção ""**Editar**""
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-ignorar-um-gatilho-em-um-fluxo_1.png)
-
--    Marque a caixa ""Ignorar disparadores""
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-ignorar-um-gatilho-em-um-fluxo_2.png)
-
--    Clique em Salvar interações.
+- Acesse **Fluxo de automação** (em **Agent Builder**) e clique no fluxo desejado.
+- Clique no ícone de três listras no canto superior direito e depois em `Editar`.
+- Marque a caixa Ignorar disparadores.
+- Clique em `Salvar interações`.

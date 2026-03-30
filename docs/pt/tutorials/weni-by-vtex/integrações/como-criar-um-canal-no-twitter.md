@@ -36,11 +36,11 @@ Depois de receber a aprovação da sua conta de desenvolvedor, o Twitter enviar�
 
 Verifique se sua conta está habilitada para receber mensagens diretas de qualquer pessoa. Você pode fazer isso nas configurações de segurança/privacidade do Twitter.##### Conectando na plataforma
 
-1. Para criar o canal na plataforma, dentro do seu projeto entre em Aplicativos > Descoberta na sessão de Canais de Comunicação e adicione clicando no \+:
+1. Para criar o canal na plataforma, dentro do seu projeto acesse **Configurações > Canais** e adicione o canal clicando no \+:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-twitter_3.png)
 
-4. Logo após clique na aba Meus aplicativos o app estará na sessão Aplicativos instalados. Preencha a página com os dados coletados anteriormente, não se esqueça de colocar o ""Environment Name"" da mesma forma que foi configurado na etapa 2\. Ao terminar de preencher clique em Submit e o seu canal estará conectado.
+4. Logo após, o canal estará disponível em **Configurações > Canais**. Preencha a página com os dados coletados anteriormente, não se esqueça de colocar o ""Environment Name"" da mesma forma que foi configurado na etapa 2\. Ao terminar de preencher clique em Submit e o seu canal estará conectado.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-twitter_4.png)
 

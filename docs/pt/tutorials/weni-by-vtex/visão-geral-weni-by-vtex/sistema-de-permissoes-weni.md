@@ -53,6 +53,6 @@ No total temos 4 permissões, divididas em 2 grupos:
 - **Contribuidor:** Consegue editar o projeto
 - **Visualizador:** Consegue apenas visualizar o projeto
 
-**Permissões do Módulo Chat**
+**Permissões do Live Desk**
 
-- **Atendimento humano:** Realiza atendimentos no Weni Chats
+- **Live Desk:** Realiza atendimentos no Live Desk

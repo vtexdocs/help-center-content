@@ -51,6 +51,6 @@ A documentação da API funciona como um manual que nos ajuda a entender como in
 
 ### Como visualizar a chamada de API na Weni plataforma?
 
-Para visualizar o retorno da API, acesse o log de Webhooks no Módulo Fluxos:
+Para visualizar o retorno da API, acesse o log de Webhooks em **Fluxo de automação**:
 
 Tem mais dúvidas sobre API? Joga na nossa [comunidade](https://comunidade.weni.ai/) 😉 Temos uma equipe especialista para tirar suas dúvidas.

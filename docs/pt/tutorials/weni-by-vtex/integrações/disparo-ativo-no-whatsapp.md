@@ -21,7 +21,7 @@ O **disparo passivo** ocorre quando o usuário final entra em contato com a empr
 
 Por outro lado, o **disparo ativo** ocorre quando a empresa toma a iniciativa de iniciar uma conversa com o usuário. Para que o disparo ativo seja realizado, a mensagem a ser enviada precisa passar por um processo de validação guiado pela Meta e, somente após sua pré-aprovação, é possível enviá-la aos usuários. Na Plataforma Weni, chamamos esse modelo de mensagem de Template Message.
 
-#### **Disparando pelo módulo de fluxos**
+#### **Disparando pelo Fluxo de automação**
 
 Após a pré-aprovação da Template Message, o fluxo conversacional pode começar a ser construído. O primeiro passo é adicionar o cartão/ card de ""Atualizar Contato"" e escolher a opção ""Channel"" (Canal), pois ela definirá de qual canal será feito o disparo. Nesta etapa, escolha o seu canal do WhatsApp.
 
@@ -43,11 +43,11 @@ Este processo é sempre realizado para a primeira mensagem e é exclusivo para o
 
 Após selecionar a mensagem, basta clicar no botão ""*Disparar Fluxo*"", localizado no canto superior direito da tela, e fazer o disparo para um contato específico ou um grupo de contatos.
 
-Por fim, para verificar se tudo ocorreu corretamente, basta acessar o módulo ""*Estúdio*"" e, na aba ""*Fluxo*"", é possível acompanhar o histórico de envio, tendo acesso a informações importantes como erros, fluxos iniciados e muito mais. Esse gerenciamento é essencial, principalmente para a implementação de melhorias no seu chatbot.
+Por fim, para verificar se tudo ocorreu corretamente, basta acessar **Contatos** (em **Operações**) e, na aba ""*Fluxo*"", é possível acompanhar o histórico de envio, tendo acesso a informações importantes como erros, fluxos iniciados e muito mais. Esse gerenciamento é essencial, principalmente para a implementação de melhorias no seu chatbot.
 
-#### **Disparando fluxo pelo módulo estúdio**
+#### **Disparando fluxo por Contatos**
 
-Também é possível enviar uma Template Message pelo módulo ""*Estúdio*"", selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, basta selecionar ""*Iniciar no Fluxo*"", escolher o fluxo e enviar. Esta é mais uma possibilidade que a Weni Plataforma oferece para realizar o disparo ativo. Veja na imagem abaixo:
+Também é possível enviar uma Template Message em **Contatos** (em **Operações**), selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, basta selecionar ""*Iniciar no Fluxo*"", escolher o fluxo e enviar. Esta é mais uma possibilidade que a Weni Plataforma oferece para realizar o disparo ativo. Veja na imagem abaixo:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/disparo-ativo-no-whatsapp_5.png)
 

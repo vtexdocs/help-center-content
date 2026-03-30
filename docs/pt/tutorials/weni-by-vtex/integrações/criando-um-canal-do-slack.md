@@ -55,7 +55,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/criando-um-canal-do-slack_10.png)
 
-10. Vá em **Aplicativos > Descoberta** e adicione o app do Slack. Depois de adicionar o app, você poderá preencher os tokens.
+10. Vá em **Configurações > Canais** e adicione o app do Slack. Depois de adicionar o canal, você poderá preencher os tokens.
 11. Após preencher todos os campos do formulário abaixo, User OAuth Token, Bot User OAuth Token e Verification Token, acione o botão ""Salvar alterações"" para finalizar.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/criando-um-canal-do-slack_11.png)

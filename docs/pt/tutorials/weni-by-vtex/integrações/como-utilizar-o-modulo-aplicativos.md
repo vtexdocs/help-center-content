@@ -1,5 +1,5 @@
 ---
-title: 'Como utilizar o módulo Aplicativos'
+title: 'Como utilizar Canais (em Configurações)'
 id: 6Nd01r7zysXn1tvmoq1XHY
 status: PUBLISHED
 createdAt: 2025-09-15T14:55:25.130Z
@@ -23,4 +23,4 @@ Para facilitar e agilizar o atendimento de seus clientes, a Weni permite que voc
 
 [**Weni Web Chat**](https://docs.weni.ai/l/pt/m-dulo-integra-es/como-criar-um-canal-web) , para ter a experiência de atendimento humanizado da Weni Plataforma no seu site ou plataforma web. Ao integrar o canal, você consegue customizar aspectos como: Cor, espaçamento entre mensagens, indicadores de mensagem, avatar, e muito mais! Assim, garantindo um chatbot com a cara da sua marca.
 
-Você também pode se conectar com o Facebook, e vários outros canais por meio da seção ""configurações"", que foram listados na documentação, como criar um canal.
+Você também pode se conectar com o Facebook, e vários outros canais por meio de **Configurações > Canais**, que foram listados na documentação, como criar um canal.

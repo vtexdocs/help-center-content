@@ -27,7 +27,7 @@ Logo após, clique no botão de adicionar e uma janela de confirmação será ab
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber_2.png)
 
-Poderá encontrar o aplicativo em Meus Aplicativos. Ao clicar no local indicado na imagem > Configurar, uma nova janela será aberta
+Poderá encontrar o canal em **Configurações > Canais**. Ao clicar no local indicado na imagem > Configurar, uma nova janela será aberta
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber_3.png)
 

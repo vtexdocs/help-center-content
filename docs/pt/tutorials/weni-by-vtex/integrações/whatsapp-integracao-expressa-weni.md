@@ -27,7 +27,7 @@ Existem algumas premissas para adicionar um número de WhatsApp pelo método de 
 
 #### **Pronto, com essas premissas cumpridas chegou a hora de iniciar a integração!**
 
-Dentro do projeto ao qual irá ser feita a integração vá até o módulo aplicativos e na aba descoberta encontrará o *card* de integração do WhatsApp, clique no símbolo de **\+**, para adicionar a integração.
+Dentro do projeto ao qual irá ser feita a integração acesse **Configurações > Canais**, onde encontrará o *card* de integração do WhatsApp, clique no símbolo de **\+**, para adicionar a integração.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-integracao-expressa-weni_1.png)
 
@@ -95,7 +95,7 @@ Caso nesse momento você perceba alguma inconsistência, não desista, inicie o 
 
 #### **Agora o seu canal WhatsApp está integrado e pronto para ser customizado!**
 
-Na sequencia um *card* com o número do telefone irá aparecer na aba **Meus Aplicativos.**
+Na sequência, um *card* com o número do telefone irá aparecer em **Configurações > Canais**.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-integracao-expressa-weni_14.png)
 

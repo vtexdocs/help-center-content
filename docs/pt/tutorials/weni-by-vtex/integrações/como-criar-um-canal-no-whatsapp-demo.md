@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-A Weni Plataforma permite que você teste o bot do WhatsApp de uma maneira rápida e prática através do nosso **Módulo Aplicativos**! Para utilizar essa ferramenta, basta seguir os passos:
+A Weni Plataforma permite que você teste o bot do WhatsApp de uma maneira rápida e prática através de **Configurações > Canais**! Para utilizar essa ferramenta, basta seguir os passos:
 
 1. Primeiramente **acesse a organização** que está localizado o projeto no qual irá ser integrado.
 2. **Localize o projeto** que você deseja integrar.
-3. Na barra lateral esquerda, **clique em Aplicativos**. A seguinte tela aparecerá:
+3. Na barra lateral esquerda, **clique em Configurações > Canais**. A seguinte tela aparecerá:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-whatsapp-demo_1.png)
 

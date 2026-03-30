@@ -19,7 +19,7 @@ O Facebook atualizou suas políticas de integração, então agora você pode co
 
 ### Adicionar uma página
 
-1. Em seu projeto, acesse o módulo de **Aplicativos > Descobertas**
+1. Em seu projeto, acesse **Configurações > Canais**
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-facebook_1.png)
 

@@ -25,7 +25,7 @@ Você pode usar a Plataforma Weni para criar modelos de mensagem manualmente e e
 
 Para criar um Template Message:
 
-1. Acesse o Painel **Aplicativos** e vá na aba **Meus Aplicativos**;
+1. Acesse **Configurações > Canais**;
 2. Clique no cartão que contém a conta de WhatsApp que receberá o Template.
 3. Clique na aba **Template** no lado direito.
 4. Irá abrir um painel onde você clicará em Novo Template para adicionar a mensagem:

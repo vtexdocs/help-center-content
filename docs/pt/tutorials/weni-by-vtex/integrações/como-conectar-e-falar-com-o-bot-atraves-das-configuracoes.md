@@ -19,7 +19,7 @@ Alcançar o consumidor requer uma abordagem multicanal. A comunicação multican
 
 #### Para adicionar canais em sua conta, você deve:
 
-1. Em seu projeto: Aplicativos > Outras Aplicações > Add Channel
+1. Em seu projeto: Configurações > Canais > Outras Aplicações > Add Channel
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-conectar-e-falar-com-o-bot-atraves-das-configuracoes_1.png)
 
@@ -40,4 +40,4 @@ Alcançar o consumidor requer uma abordagem multicanal. A comunicação multican
 
 Agora é só escolher os canais que você deseja utilizar e fazer a integração.
 
-Oferecemos um tratamento padronizado para todos os canais, ou seja, mesmo que você escolha mais de uma opção, a plataforma vai tratar os contatos exatamente da mesma forma. Outra forma de integrar canais é na aba Descoberta no módulo de Aplicativos.
+Oferecemos um tratamento padronizado para todos os canais, ou seja, mesmo que você escolha mais de uma opção, a plataforma vai tratar os contatos exatamente da mesma forma. Outra forma de integrar canais é em **Configurações > Canais**.

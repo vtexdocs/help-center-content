@@ -21,7 +21,7 @@ Com o ChatGPT é possível proporcionar aos seus clientes respostas instantânea
 
 Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pela Weni, ajuda você a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
 
-Para começar, acesse a Weni Plataforma. No menu lateral esquerdo, clique em **Aplicativos > Descoberta**. Em seguida, na seção **Serviços Externos**, clique no botão ""\+"" para adicionar o ChatGPT:
+Para começar, acesse a Weni Plataforma. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Serviços Externos**, clique no botão ""\+"" para adicionar o ChatGPT:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_1.png)
 
@@ -29,7 +29,7 @@ Preencha os campos com **Nome**, **Token** (seu token de consumo da API do chatG
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_2.png)
 
-Após concluir os passos acima é necessário configurar o funcionamento do ChatGPT na aba Meus aplicativos. Dessa maneira nessa etapa é preciso **definir como o ChatGPT vai se comportar** quando for responder as pessoas na área de fluxos.
+Após concluir os passos acima é necessário configurar o funcionamento do ChatGPT na aba **Canais**. Dessa maneira nessa etapa é preciso **definir como o ChatGPT vai se comportar** quando for responder as pessoas na área de fluxos.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_3.png)
 
@@ -101,7 +101,7 @@ De acordo com a imagem, você deve configurar o cartão da seguinte forma:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-nativa-chatgpt_5.png)
 
-1. Escolher o Nome do seu aplicativo configurado no Menu de Aplicativos;
+1. Escolher o Nome do seu canal configurado em **Configurações > Canais**;
 2. Escolher a ação Consultar Chat GPT (por enquanto só temos essa função liberada);
 3. Escolher qual prompt usar: Se você só tiver 1 prompt configurado, pode ignorar essa etapa.
 4. Marcar um check se deseja enviar o histórico das mensagens do usuário com o bot na requisição;

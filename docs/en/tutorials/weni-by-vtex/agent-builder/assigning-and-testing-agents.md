@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-The **Agents** section allows users to assign agents to the team and test them.
+The **My agents** section allows users to assign agents to the team and test them.
 
 Some official agents require credentials. See the full list in the article [Official agents from Weni by VTEX and their credentials](/en/docs/tutorials/official-agents-from-weni-by-vtex).
 

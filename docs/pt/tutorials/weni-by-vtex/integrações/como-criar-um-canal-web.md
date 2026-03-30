@@ -24,9 +24,9 @@ Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, t
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-web_1.png)
 
-3. Na barra lateral, clique em **Aplicativos**.
-4. Ao clicar em **Aplicativos > Descoberta**, você seleciona a opção **Weni Web Chat.**
-5. Clique no botão **acessar meus aplicativos** e clique mais uma vez no card Weni Web Chat para ter acesso as configurações de customização.
+3. Na barra lateral, clique em **Canais** (em **Configurações**).
+4. Ao clicar em **Configurações > Canais**, você seleciona a opção **Weni Web Chat.**
+5. Clique no botão **acessar meus canais** e clique mais uma vez no card Weni Web Chat para ter acesso as configurações de customização.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-web_2.png)
 

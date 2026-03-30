@@ -31,7 +31,7 @@ Nesse artigo trataremos um pouco sobre:
 ##### Habilitando um fluxo existente para envio no Chats
 
 Qualquer fluxo já existente pode ser disparado através do chats, para isso
-basta acessar **Fluxos;**
+basta acessar **Fluxo de automação** (em **Agent Builder**);
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/utilizando-disparo-ativo-de-fluxos_1.png) 
 

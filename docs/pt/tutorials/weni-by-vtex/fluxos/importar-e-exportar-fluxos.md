@@ -27,7 +27,7 @@ Para acessar a página de exportação pelo editor de fluxos, basta ir ao menu d
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_1.png)
 
-Ou também no módulo de fluxos
+Ou também em **Fluxo de automação**
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_2.png)
 

@@ -18,7 +18,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 Você pode adicionar mídias à sua mensagem na nossa plataforma. Sejam **imagens, áudios ou vídeos**, existem duas maneiras diferentes de adicioná-los: **usando uma URL** ou **fazendo upload do arquivo** direto do seu computador.
 
 ### **Usando uma URL**
-  1. Dentro do seu projeto, clique no **Módulo de Fluxos**;
+  1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**);
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/adicionando-midias-ao-cartao-de-enviar-mensagem_1.png)
 

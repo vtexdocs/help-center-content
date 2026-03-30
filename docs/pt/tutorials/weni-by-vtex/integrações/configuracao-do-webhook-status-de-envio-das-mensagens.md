@@ -27,7 +27,7 @@ Isso quer dizer que, nessas plataformas externas, você pode **configurar uma UR
 
 #### Como configurar
 
-Para configurar seu webhook vá em **Aplicativos** **\> Meus Aplicativos \> Canal Whatsapp que deseja configurar \> Webhook \> Configure Método, URL e Cabeçalho da requisição**:
+Para configurar seu webhook vá em **Configurações > Canais > Canal WhatsApp que deseja configurar > Webhook > Configure Método, URL e Cabeçalho da requisição**:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/configuracao-do-webhook-status-de-envio-das-mensagens_1.png)
 

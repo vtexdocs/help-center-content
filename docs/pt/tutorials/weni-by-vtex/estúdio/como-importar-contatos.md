@@ -17,24 +17,17 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Quando uma pessoa interage por algum dos canais conectados na Weni Plataforma, automaticamente ela vira um contato. Porém, muitas vezes, já temos informações dos futuros contatos que vão interagir pelos canais, então, como podemos importar esses contatos para a plataforma?
 
-É um processo bem simples, primeiro, basta acessar o **Estúdio** e ir para a aba de **contatos **onde você vai encontrar o botão de ***Importar Contatos*** no canto esquerdo.
+1. Acesse **Contatos** (em **Operações**) e vá para a aba de **contatos**.
+2. Clique em `Importar contatos` no canto esquerdo.
+3. Na página de importação, você pode escolher uma planilha do Excel, no formato `.xls`, e importar os contatos dessa planilha. Para que isso funcione, é necessário nomear corretamente o nome das colunas. No final da página, disponibilizamos um modelo de template.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-importar-contatos_1.png)
+Utilize as seguintes regras para as colunas:
 
-Depois disso, você será direcionado para a página de importação, onde poderá escolher uma planilha do Excel, no formato .XLS, e importar os contatos que existem na planilha para a plataforma. No entanto, para que isso funcione, é necessário nomear corretamente o cabeçalho da planilha, ou seja, o nome das colunas. No final da página, disponibilizamos um modelo de template para que você possa utilizá-lo.
+- Name: nome do contato
+- Language: língua que o contato interage
+- URN: URN do canal que o contato vai se comunicar. O contato só é válido se possuir pelo menos uma URN. A **URN:whatsapp** é extremamente importante e necessária para o envio de mensagens template. Se essa coluna, juntamente com os números de telefone abaixo dela, não estiver presente ao importar os contatos, o envio de mensagens via WhatsApp para esses contatos ficará indisponível posteriormente.
+- Field: campos customizados dos contatos.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-importar-contatos_2.png)
+4. Depois de selecionar o arquivo, clique em `Prévia` e seus contatos serão importados para a plataforma.
 
-As regras para nomear as colunas são:
-
--    ***Name:*** coluna do nome do contato
-
--  ***Language:*** coluna da língua que o contato interage
-
--  ***URN:*** coluna para a URN do canal que o contato vai se comunicar, lembrando, que o contato só é válido se possuir pelo menos uma URN.A **URN:whatsapp** é extremamente importante e necessária para o envio de mensagens template. Se essa coluna, juntamente com os números de telefone abaixo dela, não estiver presente ao importar os contatos, o envio de mensagens via WhatsApp para esses contatos ficará indisponível posteriormente.
-
--    ***Field:*** coluna para os campos customizados dos contatos.
-
-Depois de selecionar o arquivo basta clicar em ***(Prévia)*** e seus contatos serão importados para a plataforma. Todos os contatos aparecerão vinculados a um grupo estático, que possui o mesmo nome do arquivo da planilha, caso você não deseje manter o grupo, basta exclui-lo.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-importar-contatos_3.png)
+Todos os contatos aparecerão vinculados a um grupo estático, com o mesmo nome do arquivo da planilha. Caso você não deseje manter o grupo, basta exclui-lo.

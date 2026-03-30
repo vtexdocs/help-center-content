@@ -25,12 +25,12 @@ Vamos a uma rápida explicação de cada menu:
 
 1. **Projetos:** Menu que exibe seus projetos
 2. **Início:** Tela Inicial que mostra os dados da plataforma
-3. **Insights (versão Beta):** Módulo que fornece dados detalhados sobre os recursos disponíveis na Weni Plataforma
+3. **Analytics:** Módulo que fornece dados detalhados sobre os recursos disponíveis na Weni Plataforma
 4. **Inteligência Artificial:** Adicione mais camadas de inteligência ao seu projeto, com o Agent Builder e IAs de classificação/conteúdo.
-5. **Módulo de** **Fluxos**: Módulo para criar e modificar fluxos de conversação, seguindo a lógica de interação entre o chatbot e o usuário.
-6. **Módulo de Estúdio**: Gerencie, importe e exporte mensagens e informações dos usuários que interagiram com seu chatbot, além de criar campanhas e disparadores.
-7. **Módulo de Chats:** Explore todos os recursos disponíveis no módulo de atendimento humano.
-8. **Módulo de Aplicativos:** Acesse nossos canais de integração e serviços externos e adicione-os ao seu projeto.
+5. **Módulo de** **Fluxo de automação**: Módulo para criar e modificar fluxos de conversação, seguindo a lógica de interação entre o chatbot e o usuário.
+6. **Contatos** (em **Operações**): Gerencie, importe e exporte mensagens e informações dos usuários que interagiram com seu chatbot, além de criar campanhas e disparadores.
+7. **Live Desk** (em **Operações**): Explore todos os recursos disponíveis no Live Desk.
+8. **Canais** (em **Configurações**): Acesse nossos canais de integração e serviços externos e adicione-os ao seu projeto.
 9. **Módulo de** **Configurações**: Altere dados de cadastro e pagamento, adicione canais e confira seu API token, idioma e arquivos.
 
 Além do Menu lateral principal, a tela de início possui outras funcionalidades
