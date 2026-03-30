@@ -1,6 +1,5 @@
 ---
 title: "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS"
-excerpt: "A partir del 30 de marzo de 2026, VTEX comenzará a migrar automáticamente las tiendas que utilizan Headless CMS (Legacy) al nuevo VTEX CMS"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-03-30T17:08:52.219Z
 contentType: updates
@@ -17,6 +16,19 @@ tags:
 A partir del 30 de marzo de 2026, VTEX comenzará a actualizar automáticamente las cuentas existentes de [Headless CMS (legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) a la nueva experiencia de [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general).
 
 Esta actualización introduce un sistema de gestión de contenido moderno y más potente, diseñado para mejorar la forma en que los equipos crean, colaboran y distribuyen contenido, habilitando flujos de trabajo más rápidos, mejor colaboración y mayor escalabilidad.
+
+
+| ![Todo el contenido](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif) |
+|:---:|
+| **Todo el contenido:** Crea, gestiona y publica todas las páginas, layouts, plantillas y secciones globales de tu storefront desde un único dashboard. |
+
+| ![Ramas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif) |
+|:---:|
+| **Ramas:** Trabaja en cambios de contenido en entornos aislados y fusiónalo al storefront en producción solo cuando esté listo, sin interrumpir tu tienda. |
+
+| ![Tiendas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
+|:---:|
+| **Tiendas:** Vincula y gestiona múltiples storefronts desde un solo lugar, configurando URLs de vista previa, integraciones de repositorio y ajustes de idioma para cada uno. |
 
 > ℹ️ Más información sobre [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general).
 
