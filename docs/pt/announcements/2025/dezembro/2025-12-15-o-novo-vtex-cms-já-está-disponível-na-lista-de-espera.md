@@ -11,9 +11,17 @@ locale: pt
 
 O novo [CMS da VTEX](https://help.vtex.com/pt/docs/tutorials/cms-visao-geral) já está disponível para a lista de espera. Apresentamos um sistema moderno e escalável de gerenciamento de conteúdo, desenvolvido para ajudar lojistas a criar, colaborar e distribuir conteúdo de storefront com mais eficiência.
 
-| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) | ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) | ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
-|:---:|:---:|:---:|
-| **Todos os conteúdos:** Crie, gerencie e publique todas as páginas, layouts, templates e seções globais do seu storefront a partir de um único dashboard. | **Branches:** Trabalhe em alterações de conteúdo em ambientes isolados e faça merge para o storefront em produção somente quando estiver pronto, sem impactar sua loja. | **Lojas:** Vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de idioma para cada um. |
+| ![Todos os conteúdos](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
+|:---:|
+| **Todos os conteúdos:** Crie, gerencie e publique todas as páginas, layouts, templates e seções globais do seu storefront a partir de um único dashboard. |
+
+| ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-pt___dff883f3564a889019d09e2e63be7e6e.gif) |
+|:---:|
+| **Branches:** Trabalhe em alterações de conteúdo em ambientes isolados e faça merge para o storefront em produção somente quando estiver pronto, sem impactar sua loja. |
+
+| ![Lojas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-lojas-pt___bc5511d01dded18f5ae1acd1bff4569b.gif) |
+|:---:|
+| **Lojas:** Vincule e gerencie múltiplos storefronts em um só lugar, configurando URLs de pré-visualização, integrações de repositório e configurações de idioma para cada um. |
 
 ## O que mudou?
 

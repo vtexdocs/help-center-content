@@ -11,9 +11,17 @@ locale: en
 
 The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for Waitlist. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
-| ![All content](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif) | ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-en___272f576d902675bf18196cd6b14069d7.gif) | ![Stores](https://vtexhelp.vtexassets.com/assets/docs/src/cms-stores-en___e6c0ac29c68d6a8db05011c294cf0a57.gif) |
-|:---:|:---:|:---:|
-| **All content:** Create, manage, and publish all your storefront pages, layouts, templates, and global sections from a single dashboard. | **Branches:** Work on content changes in isolated environments and merge them to the live storefront only when ready, without disrupting your production store. | **Stores:** Link and manage multiple storefronts from one place, configuring preview URLs, repository integrations, and locale settings for each. |
+| ![All content](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif) |
+|:---:|
+| **All content:** Create, manage, and publish all your storefront pages, layouts, templates, and global sections from a single dashboard. |
+
+| ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-en___272f576d902675bf18196cd6b14069d7.gif) |
+|:---:|
+| **Branches:** Work on content changes in isolated environments and merge them to the live storefront only when ready, without disrupting your production store. |
+
+| ![Stores](https://vtexhelp.vtexassets.com/assets/docs/src/cms-stores-en___e6c0ac29c68d6a8db05011c294cf0a57.gif) |
+|:---:|
+| **Stores:** Link and manage multiple storefronts from one place, configuring preview URLs, repository integrations, and locale settings for each. |
 
 ## What has changed?
 
