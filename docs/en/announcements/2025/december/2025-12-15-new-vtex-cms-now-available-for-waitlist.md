@@ -9,29 +9,11 @@ slugEN: "2025-12-15-new-vtex-cms-now-available-for-waitlist"
 locale: en
 ---
 
-The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview-beta) is now available for Waitlist. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
+The new [VTEX CMS](https://help.vtex.com/docs/tutorials/cms-overview) is now available for Waitlist. Introducing a modern, scalable content management system designed to help merchants create, collaborate, and distribute storefront content more efficiently and collaboratively.
 
-## Highlights
-
-<div style="display:flex; gap:16px; overflow-x:auto; padding:8px 0;">
-
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif" alt="AI-assisted interface in VTEX CMS" style="width:100%; border-radius:8px;" />
-    <p><strong>AI-assisted interface</strong></p>
-    <p>Create, manage, and publish content faster.</p>
-  </div>
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif" alt="AI-assisted interface in VTEX CMS" style="width:100%; border-radius:8px;" />
-    <p><strong>AI-assisted interface</strong></p>
-    <p>Create, manage, and publish content faster.</p>
-  </div>
-  <div style="min-width:280px; max-width:280px; border:1px solid #e5e7eb; border-radius:12px; padding:12px;">
-    <img src="https://vtexhelp.vtexassets.com/assets/docs/src/cms-announcement-en___f7e039f7b37341efc376a3abff9e5d80.gif" alt="AI-assisted interface in VTEX CMS" style="width:100%; border-radius:8px;" />
-    <p><strong>AI-assisted interface</strong></p>
-    <p>Create, manage, and publish content faster.</p>
-  </div>
-
-</div>
+| ![All content](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-en___108e1b75ad01d77748ea800882bfc610.gif) | ![Branches](https://vtexhelp.vtexassets.com/assets/docs/src/cms-branches-en___272f576d902675bf18196cd6b14069d7.gif) | ![Stores](https://vtexhelp.vtexassets.com/assets/docs/src/cms-stores-en___e6c0ac29c68d6a8db05011c294cf0a57.gif) |
+|:---:|:---:|:---:|
+| **All content:** Create, manage, and publish all your storefront pages, layouts, templates, and global sections from a single dashboard. | **Branches:** Work on content changes in isolated environments and merge them to the live storefront only when ready, without disrupting your production store. | **Stores:** Link and manage multiple storefronts from one place, configuring preview URLs, repository integrations, and locale settings for each. |
 
 ## What has changed?
 
