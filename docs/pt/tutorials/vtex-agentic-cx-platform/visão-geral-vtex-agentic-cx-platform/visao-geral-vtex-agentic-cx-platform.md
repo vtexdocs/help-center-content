@@ -23,6 +23,8 @@ Criamos este tutorial para ajudar você a navegar pela plataforma. Este artigo e
 - [Perfil](#perfil)
 - [Sistema de permissões](#sistema-de-permissões)
 - [Criação de projeto](#criação-de-projeto)
+- [Alteração do idioma da plataforma](#alteração-do-idioma-da-plataforma)
+- [Autenticação de dois fatores](#autenticação-de-dois-fatores)
 
 ## Cadastro e login
 
@@ -167,3 +169,37 @@ Os membros que forem adicionados receberão um e-mail de convite para entrar na 
 
 Após criar sua organização, projeto e adicionar os membros da sua equipe você estará pronto para aproveitar ao máximo o potencial da Weni Plataforma.
 
+## Alteração do idioma da plataforma
+
+Para alterar o idioma, siga os passos abaixo:
+
+1. Clique no botão de com seu nome de usuário do lado superior direito na tela.
+2. Escolha entre as opções de idioma: EN (inglês), PT-BR (português brasileiro) e ES (espanhol).
+
+> ℹ️ Talvez seja necessário reiniciar o navegador ou sair e entrar novamente no sistema.
+
+## Autenticação de dois fatores
+
+Para habilitar a autenticação de dois fatores na sua conta, siga os passos abaixo:
+
+1. Clique no seu nome de usuário, no canto superior direito.
+2. Em seguida, clique em `Perfil`.
+3. Selecione a seção de **Privacidade e segurança**.
+4. Ative o botão `Habilitar autenticação`.
+5. Clique em `Salvar alterações`.
+
+Após salvar a autenticação, você será deslogado da plataforma automaticamente.
+
+Ao tentar realizar o login novamente, será solicitado que você siga os seguintes passos:
+
+- Abrir o aplicativo e escaneie o código QR code mostrado na tela.
+- Digitar o código de uso único fornecido pelo aplicativo.
+- Salvar para concluir a configuração da autenticação.
+
+O login precisará do código de verificação mostrado no aplicativo da Microsoft Authenticator.
+
+## Solicitar autenticação em sua organização
+
+Para que os projetos e dados da sua organização tenham uma camada a mais de segurança, você pode habilitar para que somente usuários que possuem a Autenticação de Dois Fatores habilitada entrem na org. Para isso, clique no ícone localizado no canto direito no card da organização e selecione a opção ""configurações"".
+
+Dentro de configurações, clique na aba **Segurança**, habilite a autenticação e salve.

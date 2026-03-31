@@ -1,5 +1,5 @@
 ---
-title: 'Configurações gerais do Projeto'
+title: 'Configurações gerais do projeto'
 id: 3nSppEH6dMTGElFBtrhHGb
 status: PUBLISHED
 createdAt: 2025-09-16T15:01:05.207Z
