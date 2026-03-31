@@ -3,7 +3,7 @@ title: 'Como funciona uma Política Comercial'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2025-04-09T12:57:02.151Z
+updatedAt: 2026-03-31T12:57:02.151Z
 publishedAt: 2025-04-09T12:57:02.151Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
