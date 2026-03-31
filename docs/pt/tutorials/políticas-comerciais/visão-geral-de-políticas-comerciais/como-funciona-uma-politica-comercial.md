@@ -31,9 +31,9 @@ Confira como diferentes configurações da VTEX se relacionam com políticas com
 - [Master data](#master-data)  
 - [Gerenciamento da Conta](#gerenciamento-da-conta)  
 
-Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via ticket em [*Suporte*](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`, o tempo estimado de resposta (SLA) é de 48 horas úteis.
+Para adicionar uma nova política comercial, acesse o Admin da VTEX. Usuários com o perfil Owner (admin) podem realizar essa ação diretamente pela interface.
 
-A contratação de política comercial adicional para integrar com [conector certificado](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+Para mais informações, consulte o artigo [Criar uma política comercial](https://help.vtex.com/pt/docs/tutorials/criar-uma-politica-comercial).
 
 Cada cliente na plataforma VTEX é regido por um contrato que define os parâmetros para a contratação de políticas comerciais. Essas políticas são projetadas para oferecer benefícios específicos, complementando a política comercial nativa incluída automaticamente em cada conta. A VTEX estabelece [Regras de Cobrança](#regras-de-cobranca) e [Regras de Isenção](#regras-de-isencao) para algumas políticas comerciais adicionais, promovendo o fortalecimento das integrações dentro do seu ecossistema.
 

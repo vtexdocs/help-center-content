@@ -3,7 +3,7 @@ title: 'How trade policies work'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2025-04-09T12:57:02.151Z
+updatedAt: 2026-03-31T12:57:02.151Z
 publishedAt: 2025-04-09T12:57:02.151Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-On the VTEX platform, trade policies contain configurations of catalog, pricing, promotions, logistics, customer segmentation, and payments for different sales strategies. You have to [create a new trade policy](/en/docs/tutorials/creating-a-trade-policy) when one of these settings is different between the sales channels in which your store operates. The response time (SLA) for creating a trade policy is three business days.
+On the VTEX platform, trade policies contain configurations of catalog, pricing, promotions, logistics, customer segmentation, and payments for different sales strategies. You have to [create a new sales channel](/en/docs/tutorials/creating-a-trade-policy) when one of these settings is different between the sales channels in which your store operates. The response time (SLA) for creating a sales channel is three business days.
 
 Trade policies differentiate between sales conditions for [marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy), sellers, stores with their own ecommerce, physical stores, or B2B stores, for example. 
 
-They adapt your ecommerce website navigation according to the type of user who accesses it, segmenting sales conditions for each audience. Therefore, even though different sales channels can share the same trade policy, it is not possible to have more than one trade policy per sales channel.
+They adapt your ecommerce website navigation according to the type of user who accesses it, segmenting sales conditions for each audience. Therefore, even though different sales channels can share the same sales channel, it is not possible to have more than one sales channel per sales channel.
 
 See how different VTEX configurations relate to trade policies:
 
@@ -31,31 +31,31 @@ See how different VTEX configurations relate to trade policies:
 - [Master data](#master-data)  
 - [Account management](#account-management)  
 
-To [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through Support by selecting **Commercial** and `Create a trade policy`.
+To [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through Support by selecting **Commercial** and `Create a sales channel`.
 
 Additional trade policies to integrate with [certified connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
 
-> ⚠️ If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.
+> ⚠️ If the same sales channel is applied to a certified connector and a partner connector, there is no fee exemption.
 
 ## Catalog
 You can restrict which products are available for certain trade policies when [adding new products](/en/docs/tutorials/adding-or-editing-products) to the catalog. In doing so, the catalog will be segmented according to different business strategies. These strategies can have products segmented by region, marketplace, or specific types of customers, such as employees. Learn more about how to configure your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
 
 ## Prices
-You can set different prices for the same SKU based on the trade policy. This use of the trade policy is not equivalent to creating a promotion, as it depends on your business's pricing strategy. Trade policies can be used to differentiate prices between B2C and B2B customers or between physical stores and marketplaces. There is also the option to apply [pricing rules](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy) and [fixed prices](/en/docs/tracks/preco-fixo-definicao-de-conceito) to differentiate prices and markups between specific products, categories, or brands. Learn more about how to configure [prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP).
+You can set different prices for the same SKU based on the sales channel. This use of the sales channel is not equivalent to creating a promotion, as it depends on your business's pricing strategy. Trade policies can be used to differentiate prices between B2C and B2B customers or between physical stores and marketplaces. There is also the option to apply [pricing rules](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy) and [fixed prices](/en/docs/tracks/preco-fixo-definicao-de-conceito) to differentiate prices and markups between specific products, categories, or brands. Learn more about how to configure [prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP).
 
 ## Promotions
-You can restrict which promotions are available for certain trade policies. When creating an exclusive promotion for your sales app, physical stores, or selected marketplaces, the trade policy is what determines [which products will be included in the promotion](/en/tutorial/promocao-regular--tutorials_327?&utm_source=autocomplete#politica-comercial). Learn more about how to configure [promotions](/en/docs/tracks/campaigns-what-are-they-and-how-to-create-them). 
+You can restrict which promotions are available for certain trade policies. When creating an exclusive promotion for your sales app, physical stores, or selected marketplaces, the sales channel is what determines [which products will be included in the promotion](/en/tutorial/promocao-regular--tutorials_327?&utm_source=autocomplete#politica-comercial). Learn more about how to configure [promotions](/en/docs/tracks/campaigns-what-are-they-and-how-to-create-them). 
 
 ## Shipping strategy
-You can define specific [logistics routes](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/1xo0jmMDcnAUU5ZOavdQ7M) for each sales channel by linking them to different trade policies. [Loading docks](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj) and [warehouses](/en/tutorial/gerenciar-estoque) connect logistics routes with the trade policies in which they will be applied. Through this connection, the different features of the Inventory & shipping module identify to which products they apply. Additionally, the time zone is an important setting in the trade policy, as it directly affects the order dispatch process. Learn more about how to configure your [shipping strategy](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx). 
+You can define specific [logistics routes](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/1xo0jmMDcnAUU5ZOavdQ7M) for each sales channel by linking them to different trade policies. [Loading docks](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj) and [warehouses](/en/tutorial/gerenciar-estoque) connect logistics routes with the trade policies in which they will be applied. Through this connection, the different features of the Inventory & shipping module identify to which products they apply. Additionally, the time zone is an important setting in the sales channel, as it directly affects the order dispatch process. Learn more about how to configure your [shipping strategy](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx). 
 
 ## Payments
 When you create a payment condition, you can restrict its availability in certain trade policies by creating [special conditions](/en/docs/tutorials/special-conditions). This allows you to determine a specific installment payment condition for employees, restrict a payment method to certain sellers, or provide specific payment methods to your store's acquiring partners.
 
-When you create different payment conditions for the same product, the checkout system will select the most suitable option according to the audience. If there are no restrictions, the trade policy will be applied to all sales channels. Learn more about how to configure [payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG). 
+When you create different payment conditions for the same product, the checkout system will select the most suitable option according to the audience. If there are no restrictions, the sales channel will be applied to all sales channels. Learn more about how to configure [payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG). 
 
 ## Master data
-You can limit access to the store to specific audiences, for example, a B2B site where only registered companies can browse, or a site that has an exclusive area for certain customers. This can be set by creating a [customer cluster in Master Data](/en/tutorial/como-criar-um-cluster-de-clientes) or via trade policy. Learn more about [Master Data](/en/docs/tutorials/master-data) settings. 
+You can limit access to the store to specific audiences, for example, a B2B site where only registered companies can browse, or a site that has an exclusive area for certain customers. This can be set by creating a [customer cluster in Master Data](/en/tutorial/como-criar-um-cluster-de-clientes) or via sales channel. Learn more about [Master Data](/en/docs/tutorials/master-data) settings. 
 
 ## Account management
 
@@ -65,6 +65,6 @@ Having too many trade policies in a VTEX environment slows down the process of i
 
 ## Learn more
 
-- [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
-- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)
+- [Configuring a marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
+- [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)
 
