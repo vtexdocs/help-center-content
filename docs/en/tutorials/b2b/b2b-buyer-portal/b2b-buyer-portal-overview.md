@@ -35,23 +35,23 @@ A [contract](https://help.vtex.com/en/docs/tutorials/b2b-contracts) defines the 
 - Which prices apply (price tables).
 - Which payment methods are available.
 
-Contracts serve as the foundation of the buyer's experience. All [organizational units](#organizational-units) within the company inherit the contract's conditions, ensuring consistency across the entire organization. The [scopes](#scopes) feature can then control which of these attributes each unit can see and use.organization.
+Contracts serve as the foundation of the buyer's experience. All [organizational units](#organizational-units) within the company inherit the contract's conditions, ensuring consistency across the entire organization. The [scopes](#scopes) feature can then control which of these attributes each unit can see and use.
 
 To streamline contract management at scale, the [Contracts Manager Agent](https://help.vtex.com/en/docs/tutorials/contracts-manager-agent) allows store operators to update contracts in bulk using natural language instructions, such as adding collections or changing payment methods across hundreds of contracts at once.
 
 ## Organization management
 
-B2B Buyer Portal allows buyer organizations to replicate their internal structure within the platform, so each department, branch, or cost center can operate with its own rules while sharing a single contract.
+B2B Buyer Portal allows buyer organizations to replicate their internal structure within the platform, so each department, branch, or subsidiary can operate with its own rules while sharing a single contract.
 
 ### Organizational Units
 
-[Organization Units](https://help.vtex.com/en/docs/tutorials/organization-units) represent the subdivisions within a buyer organization, such as departments, regional offices, or cost centers. They follow a hierarchical tree model. A root unit represents the organization as a whole, and child units reflect its internal areas.
+[Organization Units](https://help.vtex.com/en/docs/tutorials/organization-units) represent the subdivisions within a buyer organization, such as departments, regional offices, or subsidiaries. They follow a hierarchical tree model. A root unit represents the organization as a whole, and child units reflect its internal areas.
 
-Each unit can have specific configurations for product visibility, payment methods, delivery addresses, accounting fields, and order approval rules, allowing the store to align with the buyer company's internal policies without requiring multiple contracts or accounts.
+Each unit can have specific configurations for product visibility, payment methods, delivery addresses, accounting fields, and order approval rules, allowing the store to align with the buyer company’s internal policies without requiring multiple contracts or accounts. Unit-specific settings are always subject to the contract conditions.
 
 ### Scopes
 
-[Scopes](https://help.vtex.com/en/docs/tutorials/scopes-overview) control which organization-level attributes are visible and available to each organizational unit. Administrators can restrict access to contracts, payment methods, credit cards, collections, addresses, and accounting fields per unit, ensuring that buyers only see what is relevant to their department.
+[Scopes](https://help.vtex.com/en/docs/tutorials/scopes-overview) control which organization-level attributes are visible and available to each organizational unit. Administrators can restrict access to contracts, payment methods, credit cards, collections, addresses, and accounting fields per unit, ensuring that buyers only see what is relevant to their organizational unit.
 
 ### Members and roles
 
@@ -71,7 +71,7 @@ B2B Buyer Portal provides tools for financial governance and purchasing complian
 
 ### Budgets
 
-[Budgets](https://help.vtex.com/en/docs/tutorials/budgets-overview) let organizations define spending limits and distribute them across allocations tied to specific entities, such as users, addresses, or cost centers. Key capabilities include:
+[Budgets](https://help.vtex.com/en/docs/tutorials/budgets-overview) let organizations define spending limits and distribute them across allocations tied to specific entities, such as users, addresses, or accounting fields. Key capabilities include:
 
 - Setting total amounts and validity periods for each budget.
 - Subdividing budgets into allocations for different departments or projects.
