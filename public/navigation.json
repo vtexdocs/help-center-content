@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Headless CMS: Stores will be upgraded to the new VTEX CMS",
+                    "es": "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS",
+                    "pt": "Headless CMS: lojas serão atualizadas para o novo CMS da VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms",
+                    "es": "2026-03-30-headless-cms-las-tiendas-seran-migradas-al-nuevo-vtex-cms",
+                    "pt": "2026-03-30-headless-cms-lojas-serao-atualizadas-para-o-novo-vtex-cms"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
                     "es": "VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
                     "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
@@ -216,6 +231,21 @@
                     "en": "2025-12-23-granular-permissions-seller-marketplace-network",
                     "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
                     "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New VTEX CMS now available for waitlist",
+                    "es": "Nuevo VTEX CMS disponible en lista de espera",
+                    "pt": "O novo VTEX CMS já está disponível na lista de espera"
+                  },
+                  "slug": {
+                    "en": "2025-12-15-new-vtex-cms-now-available-for-waitlist",
+                    "es": "2025-12-15-nuevo-vtex-cms-disponible-en-lista-de-espera",
+                    "pt": "2025-12-15-o-novo-vtex-cms-ja-esta-disponavel-na-lista-de-espera"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17182,6 +17212,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organizational units",
+                    "es": "Unidades organizativas",
+                    "pt": "Unidades organizacionais"
+                  },
+                  "slug": {
+                    "en": "organizational-units",
+                    "es": "unidades-organizativas",
+                    "pt": "unidades-organizacionais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -17472,12 +17517,12 @@
                     },
                     {
                       "name": {
-                        "en": "B2B trade policies - Overview (B2B Suite)",
+                        "en": "B2B sales channels - Overview (B2B Suite)",
                         "es": "Políticas comerciales en B2B - Información general (B2B Suite)",
                         "pt": "Política comercial no B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
-                        "en": "b2b-trade-policies-overview",
+                        "en": "b2b-sales-channels-overview",
                         "es": "vista-general-de-las-politicas-comerciales-en-b2b",
                         "pt": "visao-geral-da-politica-comercial-no-b2b"
                       },
