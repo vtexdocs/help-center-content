@@ -21,6 +21,8 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 O módulo **Capacidade operacional (Beta)** permite que você gerencie a capacidade dos sellers de receberem e prepararem os pedidos da loja, de forma a otimizar sua malha logística. Você acompanha a distribuição de pedidos entre os sellers e pode realizar [ações](#acoes-na-pagina-de-detalhes-da-capacidade-do-seller) para melhorar a distribuição dos pedidos entre eles.
 
+> ⚠️ O módulo **Capacidade operacional (Beta)** não gerencia a entrega de pedidos. Este gerenciamento é realizado pelo módulo [**Capacidade de entrega**](https://help.vtex.com/pt/docs/tutorials/gerenciar-capacidade-de-entrega).
+
 O bom gerenciamento da capacidade operacional dos sellers traz os seguintes benefícios:
 
 * Redistribui melhor a demanda de produtos entre estoques de diferentes sellers.
@@ -73,11 +75,6 @@ Quando você clica em um seller, você é redirecionado para a [página de detal
 
 No Admin VTEX, na página **Envio > Capacidade operacional**, você pode realizar as seguintes ações:
 
-* [Buscar seller](#buscar-seller)
-* [Filtrar sellers](#filtrar-sellers)
-* [Ativar e pausar capacidade operacional de sellers](#ativar-e-pausar-capacidade-operacional-de-sellers)
-* [Editar unidade da capacidade operacional do seller](#editar-unidade-da-capacidade-operacional-do-seller)
-
 ### Buscar seller
 
 Utilizando a barra de busca, você pode usar o nome do seller para encontrá-lo.
@@ -115,6 +112,14 @@ A capacidade operacional do seller pode ser contabilizada em número de pedidos 
 5. Clique em `Salvar alterações`.
 
 > ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), saiba mais na seção [Comportamento de sellers abrangentes](#comportamento-de-sellers-abrangentes).
+
+## Desativar módulo Capacidade operacional (Beta)
+
+Para desabilitar o módulo **Capacidade operacional (Beta)**, siga os passos a seguir:
+
+1. No Admin VTEX, acesse **Envio > Capacidade operacional**, ou digite **Capacidade operacional** na barra de busca no topo da página.
+2. Clique no botão <i class="fa-solid fa-ellipsis-vertical"></i>.
+3. Clique em <i class="fa-regular fa-circle-xmark"></i> `Desabilitar módulo`.
 
 ## Ações na página de detalhes da capacidade do seller
 
@@ -158,7 +163,6 @@ Na seção **Capacidade operacional**, você visualiza as configurações atuais
 4. Clique em `+ Adicionar capacidade por política comercial` para configurar a segmentação da capacidade operacional por política comercial. Selecione na seção **Segmentação por política comercial** as políticas comerciais que deseja incluir.
 5. Clique em `Salvar alterações`.
 
-
 Veja a seguir as descrições dos campos mencionados no passo a passo.
 
 #### I - Unidade da capacidade operacional
@@ -187,8 +191,9 @@ Ainda na seção **Capacidade operacional**, você pode configurar o seller para
 Para configurar a capacidade ilimitada do seller, siga os passos abaixo:
 
 1. Na página de detalhes da capacidade do seller, encontre a seção **Capacidade operacional**.
-2. Clique em `Tornar a capacidade ilimitada`.
-3. Clique em `Continuar`.
+2. Clique em **Configurações**
+3. Na seção, **Capacidade operacional**, clique em <i class="fa fa-link" aria-hidden="true"></i> `Definir como ilimitada`.
+4. Clique em `Confirmar`.
 
 > ℹ️ A capacidade ilimitada do seller é o comportamento padrão de sellers para lojas que não utilizam o **Capacidade operacional (Beta)**. Quando o seller é configurado com capacidade ilimitada, o módulo não computa o consumo da sua capacidade operacional.
 
