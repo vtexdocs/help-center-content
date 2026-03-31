@@ -19,10 +19,12 @@ announcementSynopsisEN: 'Performance Monitor allows your sales associates to kno
 It also shows your sales associates how their performance compares to your store average.
 
 These data are also available to managers accessing the VTEX Admin to closely monitor the performance of their sales associates and stores.
-# What has changed?
+## What has changed?
+
 The Sales App's side menu now features the Sales Performance option, where sales associates can view their own sales performance and that of other employees.
 
-# What needs to be done?
+## What needs to be done?
+
 The feature is enabled by default for all accounts using the app. The only exception is for brands that already use the Indeva by VTEX solution, which requires contacting support to activate the feature.
 
 For more information about Sales App, see the following documentation:
