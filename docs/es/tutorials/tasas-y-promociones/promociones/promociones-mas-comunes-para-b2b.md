@@ -31,8 +31,6 @@ Para esto, el administrador de la tienda debe tener cuidado de no hacer promocio
 - __Rebate del fabricante__: crédito ofrecido por el proveedor a la tienda que se transformará en un descuento para el cliente final.  Esto permite un precio más competitivo sin renunciar a su margen y rentabilidad.
 - __Aumento del margen de contribución__: Las acciones promocionales deben estar siempre alineadas con el crecimiento del EBITDA de la tienda (Earnings Before Interest, Taxes, Depreciation and Amortization).
 
-# Promociones
-
 ## Inventario antiguo o aging de inventario
 
 Hacer promociones es una buena manera de rotar el inventario almacenado. Mantener un inventario antiguo durante mucho tiempo es suficiente para perder ventas con nuevos productos.
