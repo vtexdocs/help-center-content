@@ -15,7 +15,7 @@ trackSlugEN: cms
 order: 2
 ---
 
-Para lojas desenvolvidas com Store Framework, o gerenciamento de conteúdo é realizado de um [Content Management System - CMS](https://help.vtex.com/pt/docs/tracks/o-que-e-o-cms) (Sistema de Gerenciamento de Conteúdo, em português) que tem integração com o [Site Editor](https://help.vtex.com/pt/docs/tutorials/site-editor-visao-geral). Além disso, esse sistema possui outras funciounalidades, como o gerenciamento de Páginas, Estilos e Banners.
+Para lojas desenvolvidas com Store Framework, o gerenciamento de conteúdo é realizado por meio de um [Content Management System - CMS](https://help.vtex.com/pt/docs/tracks/o-que-e-o-cms) (Sistema de Gerenciamento de Conteúdo, em português) que tem integração com o [Site Editor](https://help.vtex.com/pt/docs/tutorials/site-editor-visao-geral). Além disso, esse sistema possui outras funcionalidades, como o gerenciamento de Páginas, Estilos e Banners.
 
 Para criar e configurar o site da sua loja Store Framework usando o CMS, você usará os seguintes recursos:
 
