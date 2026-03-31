@@ -23,8 +23,8 @@ Nesse artigo trataremos um pouco sobre:
 
 - [Habilitando um fluxo existente para envio no Live Desk](#habilitando-um-fluxo-existente-para-envio-no-live-desk)
 - [Criando um fluxo que envie um modelo de mensagem](#criando-um-fluxo-que-envie-um-modelo-de-mensagem)
-- [Ativando a função de disparo de fluxos em configuração do Live Desk](#ativando-a-função-de-disparo-de-fluxos-em-configurações-do-live-desk)
-- [Disparando um fluxo de chats](#disparando-um-fluxo-no-chats)
+- [Ativando a função de disparo de fluxos em configuração do Live Desk](#ativando-a-função-de-disparo-de-fluxos)
+- [Disparando um fluxo](#disparando-um-fluxo)
 
 ### Habilitando um fluxo existente para envio no Live Desk
 
