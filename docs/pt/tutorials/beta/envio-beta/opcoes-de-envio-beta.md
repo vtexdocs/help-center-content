@@ -17,7 +17,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
-**Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente.
+A **Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente.
 
 Assim, os lojistas ganham autonomia para criar, configurar e gerenciar opções de entrega como um conteúdo estratégico dentro da plataforma VTEX. Essa abordagem oferece mais flexibilidade para alinhar as capacidades logísticas com os objetivos comerciais, aprimorando a experiência de compra dos clientes.
 
