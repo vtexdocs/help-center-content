@@ -31,7 +31,7 @@ The property is filled with one of the [Master Data](/en/tutorial/entendendo-o-f
 
 As some fields are native to Master Data, these are created in advance and already exist once retailers gain access to their store’s Admin. However, these fields are not of consequence. 
 
-Besides these native fields, retailers can [create any field they want](/en/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete). 
+Besides these native fields, retailers can [create any field they want](/en/docs/tutorials/how-can-i-create-a-field-in-master-data). 
 
 Hence, retailers can create the properties - which can be text, numeric, true/false, by date - that they find most suitable to apply to the special payment condition for each cluster. 
 
