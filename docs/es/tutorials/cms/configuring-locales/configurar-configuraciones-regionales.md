@@ -1,5 +1,5 @@
 ---
-title: "Configuraciones regionales"
+title: "Configurar configuraciones regionales"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-04-01T17:08:52.219Z
 contentType: tutorial
@@ -22,7 +22,7 @@ En esta guía, aprenderás cómo configurar las configuraciones regionales para 
 | Concepto | Descripción |
 | :---- | :---- |
 | **[Estrategias de configuración regional de resguardo](/es/docs/tutorials/understanding-locale-fallback-rules):** | Decide qué contenido muestra el sistema cuando una configuración regional no tiene su propio contenido localizado. |
-| [**Conexión de configuración regional con bindings:**](#cómo-se-conectan-las-configuraciones-regionales-con-los-bindings) | Clarifica cómo el storefront elige la configuración regional correcta según la configuración del binding. |
+| [**Conexión de configuración regional con bindings:**](#como-se-conectan-las-configuraciones-regionales-con-los-bindings) | Clarifica cómo el storefront elige la configuración regional correcta según la configuración del binding. |
 
 * Para storefronts de [FastStore](https://developers.vtex.com/docs/guides/faststore): Debes implementar la función de Localización en el proyecto de la tienda. Para hacerlo, sigue las instrucciones de Manejo de la internacionalización con la función de Localización.
 

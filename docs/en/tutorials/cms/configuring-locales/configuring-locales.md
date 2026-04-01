@@ -17,12 +17,12 @@ In this guide, you'll learn how to configure locales for your store.
 
 ## Before you begin
 
-* Before configuring locales, you should understand two key concepts that determine how content appears in the storefront. Knowing these concepts helps you develop an effective localization strategy and avoid unnecessary content duplication.  
-  
-| Concept |  Description |
+* Before configuring locales, you should understand two key concepts that determine how content appears in the storefront. Knowing these concepts helps you develop an effective localization strategy and avoid unnecessary content duplication.
+
+| Concept | Description |
 | :---- | :---- |
 | **[Locale fallback strategies](/en/docs/tutorials/understanding-locale-fallback-rules):** | Decide what content the system shows when a locale lacks its own localized content. |
-| **Locale-binding connection:** | Clarify how the storefront chooses the correct locale based on the binding configuration. |
+| [**Locale-binding connection:** ](#understanding-how-locales-are-connected-to-bindings)| Clarify how the storefront chooses the correct locale based on the binding configuration. |
 
 * For [FastStore](https://developers.vtex.com/docs/guides/faststore) storefronts: You must implement the Localization feature in the store project. To do so, follow the instructions in Handling internationalization with the Localization feature.
 
@@ -49,8 +49,8 @@ The following table shows the options available on the page:
 | **Region** | Specifies the region or country associated with the language (for example, United States or Brazil). |
 | **Default locale** | Defines the default locale the system will select if no locale is provided. |
 | **Fallback** | Defines the locale the system displays when content isn't provided in the selected locale. |
-| **Status** | Indicates whether a locale is **Active** or **Inactive**. When a locale is inactive, content can’t be published or displayed in the storefront for that specific locale. |
-| **Options ( \`⋮\` )** | Opens a menu with the options: **Edit:** Edit the locale's specific configuration. **Deactivate:** Change the locale status to **Inactive**. |
+| **Status** | Indicates whether a locale is **Active** or **Inactive**. When a locale is inactive, content can't be published or displayed in the storefront for that specific locale. |
+| **Options (`⋮`)** | Opens a menu with the options: **Edit:** Edit the locale's specific configuration. **Deactivate:** Change the locale status to **Inactive**. |
 
 ## Creating a new locale
 
@@ -85,6 +85,6 @@ Locales are matched to storefront bindings using ISO [language](https://www.iso.
 
 For example:
 
-* If a binding is configured with `en-US`, CMS returns content from the English-US locale.  
-* If a binding is configured with `pt-BR`, CMS returns content from the Portuguese-BR locale.  
-* If no locale matches the binding’s ISO code, the system returns content from the default locale.
+* If a binding is configured with `en-US`, CMS returns content from the English-US locale.
+* If a binding is configured with `pt-BR`, CMS returns content from the Portuguese-BR locale.
+* If no locale matches the binding's ISO code, the system returns content from the default locale.

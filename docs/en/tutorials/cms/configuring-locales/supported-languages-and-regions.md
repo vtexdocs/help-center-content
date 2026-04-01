@@ -13,8 +13,8 @@ When [creating a locale](/en/docs/tutorials/configuring-locales) for your store,
 
 The following technical specifications apply to all supported locales:
 
-* Encoding: UTF-8  
-* Text direction: Left-to-right (LTR)  
+* Encoding: UTF-8
+* Text direction: Left-to-right (LTR)
 * Supported scripts: Latin, Cyrillic
 
 Below is the complete list of supported languages and regions.
@@ -23,30 +23,30 @@ Below is the complete list of supported languages and regions.
 
 You can configure locales using the following languages:
 
-* Bulgarian (bg)  
-* Croatian (hr)  
-* Czech (cs)  
-* Danish (da)  
-* Dutch (nl)  
-* English (en)  
-* Estonian (et)  
-* Finnish (fi)  
-* French (fr)  
-* German (de)  
-* Greek (el)  
-* Hungarian (hu)  
-* Irish (ga)  
-* Italian (it)  
-* Latvian (lv)  
-* Lithuanian (lt)  
-* Maltese (mt)  
-* Polish (pl)  
-* Portuguese (pt)  
-* Romanian (ro)  
-* Serbian (sr)  
-* Slovak (sk)  
-* Slovenian (sl)  
-* Spanish (es)  
+* Bulgarian (bg)
+* Croatian (hr)
+* Czech (cs)
+* Danish (da)
+* Dutch (nl)
+* English (en)
+* Estonian (et)
+* Finnish (fi)
+* French (fr)
+* German (de)
+* Greek (el)
+* Hungarian (hu)
+* Irish (ga)
+* Italian (it)
+* Latvian (lv)
+* Lithuanian (lt)
+* Maltese (mt)
+* Polish (pl)
+* Portuguese (pt)
+* Romanian (ro)
+* Serbian (sr)
+* Slovak (sk)
+* Slovenian (sl)
+* Spanish (es)
 * Swedish (sv)
 
 ## Supported regions
