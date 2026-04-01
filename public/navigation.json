@@ -17200,21 +17200,6 @@
                 },
                 {
                   "name": {
-                    "en": "Organizational units",
-                    "es": "Unidades organizativas",
-                    "pt": "Unidades organizacionais"
-                  },
-                  "slug": {
-                    "en": "organizational-units",
-                    "es": "unidades-organizativas",
-                    "pt": "unidades-organizacionais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Scopes overview",
                     "es": "Visión general de Scopes",
                     "pt": "Visão geral de Scopes"
@@ -20584,22 +20569,7 @@
           "children": [
             {
               "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
-              },
-              "slug": {
-                "en": "cms-overview",
-                "es": "cms-informacion-general",
-                "pt": "cms-visao-geral"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Branching and versioning",
+                "en": "Branching AND versioning",
                 "es": "Ramificacion y versionado",
                 "pt": "Branching e versionamento"
               },
@@ -20627,6 +20597,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Content Management overview",
+                "es": "Información general de la gestión de contenidos",
+                "pt": "Visão geral do CMS"
+              },
+              "slug": {
+                "en": "cms-overview",
+                "es": "cms-informacion-general",
+                "pt": "cms-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
