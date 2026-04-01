@@ -20583,9 +20583,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring locales - Overview",
-                    "es": "Configurar configuraciones regionales - Descripción general",
-                    "pt": "Configurar localidades - Visão geral"
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
                   },
                   "slug": {
                     "en": "configuring-locales",
