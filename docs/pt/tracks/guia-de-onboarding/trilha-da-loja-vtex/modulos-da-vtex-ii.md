@@ -15,7 +15,7 @@ trackSlugEN: trilha-da-loja-vtex
 order: 6
 ---
 
-Além dos módulos abordados no artigo anterior, como [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos), [Promoções](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#promocoes) e [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), a plataforma VTEX possui outros módulos necessários à operação da loja. Este artigo apresenta uma visão geral e as principais configurações dos seguintes módulos:
+Além dos módulos abordados no artigo anterior, como [Catálogo](/pt/docs/tracks/modulos-da-vtex-i#catalogo), [Preços](/pt/docs/tracks/modulos-da-vtex-i#precos), [Promoções](/pt/docs/tracks/modulos-da-vtex-i#promocoes) e [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica), a plataforma VTEX possui outros módulos necessários à operação da loja. Este artigo apresenta uma visão geral e as principais configurações dos seguintes módulos:
 
 - [Pagamentos](#pagamentos)
 - [Pedidos](#pedidos)
@@ -31,7 +31,7 @@ Para processar e receber os pagamentos das compras realizadas em uma loja VTEX, 
 
 > ⚠️ É recomendável utilizar mais de um provedor de pagamento na loja para prover uma boa experiência ao cliente por meio diversos tipos de meios e condições de pagamento, e ao mesmo tempo, operar com diferentes taxas e custos, melhorando o desempenho do negócio.
 
-As configurações de pagamento descritas nesta trilha podem ser realizadas a qualquer momento durante o processo de onboarding. Entretanto, para que a loja possa realizar qualquer tipo de transação de pagamento, é necessário que os módulos de [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) e [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica) tenham sido previamente configurados.
+As configurações de pagamento descritas nesta trilha podem ser realizadas a qualquer momento durante o processo de onboarding. Entretanto, para que a loja possa realizar qualquer tipo de transação de pagamento, é necessário que os módulos de [Catálogo](/pt/docs/tracks/modulos-da-vtex-i#catalogo), [Preços](/pt/docs/tracks/modulos-da-vtex-i#precos) e [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica) tenham sido previamente configurados.
 
 ### Como funciona o módulo Pagamentos
 
@@ -147,7 +147,7 @@ Para mais informações, acesse [Customer Credit - Visão geral](/pt/docs/tutori
 
 ## Pedidos
 
-A partir do momento em que o cliente conclui a compra, é gerado um [pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) na VTEX. O gerenciamento de pedidos pode ser feito pelo Admin VTEX, em **Pedidos > [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos)**, acessando-se uma [página de detalhes](/pt/docs/tutorials/pagina-de-detalhes-do-pedido) da compra, ou via API. Uma visão geral de conteúdo para desenvolvedor sobre a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#overview) pode ser encontrada no guia [Orders](https://developers.vtex.com/docs/guides/orders-overview).
+A partir do momento em que o cliente conclui a compra, é gerado um [pedido](/pt/docs/tracks/o-que-e-um-pedido-na-vtex) na VTEX. O gerenciamento de pedidos pode ser feito pelo Admin VTEX, em **Pedidos > [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos)**, acessando-se uma [página de detalhes](/pt/docs/tutorials/pagina-de-detalhes-do-pedido) da compra, ou via API. Uma visão geral de conteúdo para desenvolvedor sobre a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#overview) pode ser encontrada no guia [Orders](https://developers.vtex.com/docs/guides/orders-overview).
 
 ### Antes de começar em Pedidos
 
@@ -155,9 +155,9 @@ Para a loja ser capaz de gerenciar seus pedidos, a plataforma VTEX não exige co
 
 No entanto, para o cliente ser capaz de realizar a compra e gerar um pedido, a loja precisa ter produtos cadastrados e precificados, oferecer [meios de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento) e garantir o envio do pedido. Para isso, é necessário realizar as configurações obrigatórias dos seguintes módulos:
 
-- [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo)
-- [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos)
-- [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica)
+- [Catálogo](/pt/docs/tracks/modulos-da-vtex-i#catalogo)
+- [Preços](/pt/docs/tracks/modulos-da-vtex-i#precos)
+- [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica)
 - [Pagamentos](#pagamentos)
 
 ### Integração de pedidos
@@ -228,7 +228,7 @@ O checkout é a etapa final no processo de compras online e contribui de maneira
 
 ### Antes de começar no Checkout
 
-Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito), [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](/pt/docs/tracks/o-que-e-um-pedido-na-vtex).
+Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito), [Logística](/pt/docs/tracks/primeiros-passos-da-logistica), [Preços](/pt/docs/tracks/modulo-de-precos-visao-geral), [Promoções](/pt/docs/tracks/como-funcionam-as-promocoes), [Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos) e [Pedidos](/pt/docs/tracks/o-que-e-um-pedido-na-vtex).
 
 ![checkout-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_4.jpg)
 
