@@ -13,8 +13,8 @@ Ao [configurar localidades](/pt/docs/tutorials/configuring-locales), alguns tipo
 
 | Caso de uso | Descrição |
 | :---- | :---- |
-| [Localidade padrão como fallback para outras localidades](#localidade-padrão-como-fallback-para-outras-localidades) | Use quando a maior parte do conteúdo é compartilhada e outras localidades apenas substituem diferenças específicas. |
-| [Fallback de idioma principal com variações regionais](#fallback-de-idioma-principal-com-variações-regionais) | Use ao gerenciar variações regionais que herdam de uma localidade de idioma principal. |
+| [Localidade padrão como fallback para outras localidades](#localidade-padrao-como-fallback-para-outras-localidades) | Use quando a maior parte do conteúdo é compartilhada e outras localidades apenas substituem diferenças específicas. |
+| [Fallback de idioma principal com variações regionais](#fallback-de-idioma-principal-com-variacoes-regionais) | Use ao gerenciar variações regionais que herdam de uma localidade de idioma principal. |
 
 ## Localidade padrão como fallback para outras localidades
 
@@ -27,7 +27,6 @@ No exemplo abaixo, temos duas localidades:
 
 * `Inglês-EUA` (padrão)
 * `Português-BR`
-
   * Fallback: `Inglês-EUA`
 
 Se uma descrição não estiver traduzida para o português, o sistema exibe automaticamente o conteúdo em `Inglês-EUA`. Você só localiza campos em `Português-BR` quando o conteúdo precisar ser diferente (por exemplo, texto promocional ou mensagens específicas da região).
