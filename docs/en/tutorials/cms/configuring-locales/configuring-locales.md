@@ -1,5 +1,5 @@
 ---
-title: "Configuring locales - Overview"
+title: "Configuring locales"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-04-01T17:08:52.219Z
 contentType: tutorial
