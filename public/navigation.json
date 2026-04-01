@@ -17170,21 +17170,6 @@
                 },
                 {
                   "name": {
-                    "en": "Organization Units",
-                    "es": "Unidades de organización",
-                    "pt": "Organization Units"
-                  },
-                  "slug": {
-                    "en": "organization-units",
-                    "es": "organization-units-es",
-                    "pt": "organization-units-pt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Organizational units",
                     "es": "Unidades organizativas",
                     "pt": "Unidades organizacionais"
@@ -17208,6 +17193,21 @@
                     "en": "scopes-overview",
                     "es": "vision-general-de-scopes",
                     "pt": "visao-geral-de-scopes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Unidades de organización",
+                    "pt": "Organization Units",
+                    "en": "Unidades de organización"
+                  },
+                  "slug": {
+                    "es": "organization-units-es",
+                    "pt": "organization-units-pt",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
