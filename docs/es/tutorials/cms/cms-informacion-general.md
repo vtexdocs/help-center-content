@@ -6,6 +6,7 @@ contentType: tutorial
 productTeam: CMS
 slugEN: cms-overview
 locale: es
+order: 1
 ---
 
 <div style="background-color:#EBF5FB; border-left: 2px solid #3498DB; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
