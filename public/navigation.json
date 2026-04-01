@@ -20554,6 +20554,67 @@
           "children": [
             {
               "name": {
+                "en": "Configuring locales",
+                "es": "Configuring locales",
+                "pt": "Configuring locales"
+              },
+              "slug": {
+                "en": "configuring-locales-subcategory",
+                "es": "configuring-locales",
+                "pt": "configuring-locales"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring locales",
+                    "es": "Configuring locales",
+                    "pt": "Configuring locales"
+                  },
+                  "slug": {
+                    "en": "configuring-locales",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Supported languages and regions",
+                    "pt": "Supported languages and regions"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Understanding locale fallback rules",
+                    "pt": "Understanding locale fallback rules"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Branching AND versioning",
                 "es": "Ramificacion y versionado",
                 "pt": "Branching e versionamento"
