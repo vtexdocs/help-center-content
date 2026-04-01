@@ -17212,21 +17212,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "es": "Unidades de organización",
-                    "pt": "Organization Units",
-                    "en": "Unidades de organización"
-                  },
-                  "slug": {
-                    "es": "organization-units-es",
-                    "pt": "organization-units-pt",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
