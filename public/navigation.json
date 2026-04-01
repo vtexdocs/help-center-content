@@ -17200,21 +17200,6 @@
                 },
                 {
                   "name": {
-                    "en": "Scopes overview",
-                    "es": "Visión general de Scopes",
-                    "pt": "Visão geral de Scopes"
-                  },
-                  "slug": {
-                    "en": "scopes-overview",
-                    "es": "vision-general-de-scopes",
-                    "pt": "visao-geral-de-scopes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Organizational units",
                     "es": "Unidades organizativas",
                     "pt": "Unidades organizacionais"
@@ -17223,6 +17208,21 @@
                     "en": "organizational-units",
                     "es": "unidades-organizativas",
                     "pt": "unidades-organizacionais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Scopes overview",
+                    "es": "Visión general de Scopes",
+                    "pt": "Visão geral de Scopes"
+                  },
+                  "slug": {
+                    "en": "scopes-overview",
+                    "es": "vision-general-de-scopes",
+                    "pt": "visao-geral-de-scopes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20582,6 +20582,37 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Branching AND versioning",
+                "es": "Ramificacion y versionado",
+                "pt": "Branching e versionamento"
+              },
+              "slug": {
+                "en": "branching-and-versioning",
+                "es": "ramificacion-y-versionado",
+                "pt": "branching-e-versionamento"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Managing versions and branches",
+                    "es": "Gestionar versiones y ramas",
+                    "pt": "Gerenciando versões e branches"
+                  },
+                  "slug": {
+                    "en": "managing-versions-and-branches",
+                    "es": "gestionando-versiones-y-branches",
+                    "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "Content Management overview",
@@ -46371,6 +46402,21 @@
             },
             {
               "name": {
+                "en": "Race condition with GET OrderForm when user is authenticated and email is null",
+                "es": "Condición de carrera con GET OrderForm cuando el usuario está autenticado y el correo electrónico es nulo",
+                "pt": "Condição de corrida com GET OrderForm quando o usuário está autenticado e o e-mail é nulo"
+              },
+              "slug": {
+                "en": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+                "es": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+                "pt": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Region API returns seller list due to cache",
                 "es": "La API de la región devuelve la lista de vendedores debido a la caché",
                 "pt": "A API da região retorna a lista de vendedores devido ao cache"
@@ -65138,6 +65184,21 @@
                 "en": "comment-vtexcrm-field-is-not-showing-its-content",
                 "es": "el-campo-vtexcrm-no-muestra-su-contenido",
                 "pt": "comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CRM UI relationship field search fails when related field is Auto Increment",
+                "es": "La búsqueda en el campo de relación de la interfaz de usuario de CRM falla cuando el campo relacionado es de autoincremento",
+                "pt": "A pesquisa no campo de relação da interface do usuário do CRM falha quando o campo relacionado é de incremento automático"
+              },
+              "slug": {
+                "en": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+                "es": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+                "pt": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico"
               },
               "origin": "",
               "type": "markdown",
