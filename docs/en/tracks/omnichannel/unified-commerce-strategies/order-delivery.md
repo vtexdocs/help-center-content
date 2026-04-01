@@ -28,7 +28,7 @@ In this case, items usually come from the warehouse of a distribution center, as
 
 Another shipping possibility that can optimize your store’s operation and reduce costs is implementing the [Ship From Store](/en/docs/tracks/configuring-ship-from-store) strategy. This strategy refers to in-store fulfillment, meaning items can also be shipped from physical stores' inventories.
 
-To configure the shipping strategy, see our walkthrough on [Inventory & Shipping](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07).
+To configure the shipping strategy, see our walkthrough on [Inventory & Shipping](/en/docs/tracks/inventory).
 
 To learn how to implement the Ship From Store strategy, click on `NEXT` at the bottom of the page.
 
