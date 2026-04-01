@@ -20599,29 +20599,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring locales - Overview",
-                    "es": "Configurar configuraciones regionales - Descripción general",
-                    "pt": "Configurar localidades - Visão geral"
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
                   },
                   "slug": {
                     "en": "configuring-locales",
                     "es": "configurar-configuraciones-regionales",
                     "pt": "configurar-localidades"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Understanding locale fallback rules",
-                    "es": "Estrategias de configuración regional de resguardo",
-                    "pt": "Entendendo as regras de fallback de localidade"
-                  },
-                  "slug": {
-                    "en": "understanding-locale-fallback-rules",
-                    "es": "estrategias-de-configuracion-regional-de-resguardo",
-                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20637,6 +20622,21 @@
                     "en": "supported-languages-and-regions",
                     "es": "idiomas-y-regiones-admitidos",
                     "pt": "idiomas-e-regioes-compativeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Entendendo as regras de fallback de localidade"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
                   },
                   "origin": "",
                   "type": "markdown",
