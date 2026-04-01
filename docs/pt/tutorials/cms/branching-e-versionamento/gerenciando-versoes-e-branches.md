@@ -17,7 +17,7 @@ Neste guia, saiba como usar versões e branches para rastrear mudanças de conte
 
 ## Versões
 
-As versões mantêm um histórico de cada alteração salva em uma entrada para que você possa revisar como o conteúdo evoluiu, comparar estados anteriores e restaurar uma versão anterior quando necessário. Cada vez que você salva uma entrada no branch `main` ou em outro branch, o CMS armazena uma nova versão no histórico de versões, junto com o nome do usuário que fez a alteração e a data. Com o tempo, isso cria um histórico de versões para a entrada.
+As versões mantêm um histórico de cada alteração salva em uma entrada para que você possa revisar como o conteúdo evoluiu, comparar estados anteriores e restaurar uma versão anterior quando necessário. Cada vez que você salva uma entrada na branch `main` ou em outro branch, o CMS armazena uma nova versão no histórico de versões, junto com o nome do usuário que fez a alteração e a data. Com o tempo, isso cria um histórico de versões para a entrada.
 
 > ℹ️ O **Tipo de Conteúdo** funciona como um modelo (por exemplo, `Landing Page`). Uma **entrada**, como a **Landing Page** mostrada no vídeo abaixo, é uma página específica ou item de conteúdo derivado desse modelo para uma determinada loja e localidade, contendo valores únicos para seus campos (como `path`, `title` e `sections`).
 
@@ -27,7 +27,7 @@ As versões mostram onde a entrada existe (por exemplo, qual versão está publi
 
 O controle de versões oferece várias vantagens para o gerenciamento de conteúdo:
 
-* **Capacidade de reversão:** [Restaure rapidamente](#restaurar-versoes-anteriores) uma versão publicada anteriormente para corrigir problemas como layouts quebrados ou edições incorretas.  
+* **Capacidade de reversão:** [Restaure rapidamente](#restaurar-versões-anteriores) uma versão publicada anteriormente para corrigir problemas como layouts quebrados ou edições incorretas.  
 * **Rastreamento de alterações:** Mantenha um registro claro de quem fez alterações e quando, para apoiar revisões e aprovações.  
 * **Experimentação segura:** Teste novos textos, layouts ou campanhas sem risco, sabendo que você pode reverter para a versão anterior se os resultados forem insatisfatórios.  
 * **Reutilização de conteúdo:** Economize tempo reutilizando conteúdo de uma campanha anterior em vez de começar do zero.
@@ -48,15 +48,15 @@ Após fazer as alterações, você tem as seguintes ações disponíveis:
 
 | Ação | Descrição |
 | :---- | :---- |
-| `Salvar no main` | Salva suas edições atuais diretamente no branch `main`, atualizando a versão publicada dessa entrada e atualizando a vitrine visível para os Compradores. |
-| `Salvar no branch` | Salva suas edições como uma nova versão apenas no branch selecionado (por exemplo, `black-friday`), mantendo o branch `main` inalterado. Use isso para trabalhar em rascunhos ou campanhas sem afetar o que está publicado na vitrine. |
+| `Salvar na main` | Salva suas edições atuais diretamente na branch `main`, atualizando a versão publicada dessa entrada e atualizando a vitrine visível para os Compradores. |
+| `Salvar na branch` | Salva suas edições como uma nova versão apenas na branch selecionado (por exemplo, `black-friday`), mantendo o branch `main` inalterado. Use isso para trabalhar em rascunhos ou campanhas sem afetar o que está publicado na vitrine. |
 | `Descartar` | Exclui todas as alterações não salvas no formulário e restaura a entrada para sua última versão salva no `main` ou em outro branch, sem criar uma nova versão. Esta ação não pode ser desfeita. |
 
 > ℹ️ Para mais informações sobre branches, consulte a seção [Branches](#branches).
 
 ### Restaurar versões anteriores
 
-As versões salvas no branch `main` podem ser visualizadas e restauradas para publicar conteúdo do passado. No painel de Histórico de versões, ao passar o cursor sobre uma versão publicada anteriormente, é exibida a ação **Ver versão**.
+As versões salvas na branch `main` podem ser visualizadas e restauradas para publicar conteúdo do passado. No painel de Histórico de versões, ao passar o cursor sobre uma versão publicada anteriormente, é exibida a ação **Ver versão**.
 
 ![restore-past-versions](https://vtexhelp.vtexassets.com/assets/docs/src/restore-versions-pt___4a13ed35567902a81081448e5c0e09ef.png)
 
@@ -64,8 +64,8 @@ Após visualizar, você pode escolher entre as seguintes ações:
 
 | Ação | Descrição |
 | :---- | :---- |
-| `Restaurar no Main` | Duplica a versão e a publica no branch `main` como uma nova versão na vitrine. |
-| `Restaurar no branch` | Duplica a versão e a adiciona a um branch de destino para edição adicional, sem impactar a vitrine. |
+| `Restaurar na main` | Duplica a versão e a publica na branch `main` como uma nova versão na vitrine. |
+| `Restaurar na branch` | Duplica a versão e a adiciona a um branch de destino para edição adicional, sem impactar a vitrine. |
 | `Fechar` | Fecha a versão anterior e retorna ao branch `main` sem aplicar nenhuma restauração. |
 
 > ℹ️ Para mais informações sobre branches, consulte a seção [Branches](#branches).
@@ -81,29 +81,29 @@ Os branches facilitam a colaboração em equipe, alterações de conteúdo em ma
 | Funcionalidade | Descrição |
 | :---- | :---- |
 | **Branches (`+`)** | Lista todos os branches da loja. Use o **`+`** para criar um novo branch. |
-| **Busca** | Encontra entradas por nome dentro do branch e loja atuais. |
+| **Busca** | Encontra entradas por nome dentro da branch e loja atuais. |
 | **Filtro por tipo de conteúdo** | Filtra a lista de entradas por tipo de conteúdo (por exemplo, `home`, `pdp`, `landingPage`). |
 | **Filtro de última atualização** | Ordena ou filtra entradas pelo tempo de atualização mais recente. |
-| **Tabela de entradas** | Exibe as entradas no branch, incluindo informações de **Nome**, **Tipo de Conteúdo**, **Loja** e **Última atualização**. |
-| **Mostrar apenas alterações** | Filtra a lista para mostrar apenas entradas modificadas no branch ativo. |
+| **Tabela de entradas** | Exibe as entradas na branch, incluindo informações de **Nome**, **Tipo de Conteúdo**, **Loja** e **Última atualização**. |
+| **Mostrar apenas alterações** | Filtra a lista para mostrar apenas entradas modificadas na branch ativo. |
 | **Ícone de paginação** | Navega entre páginas de entradas. |
-| **Criar conteúdo** | Cria uma nova entrada no branch e loja atuais. |
+| **Criar conteúdo** | Cria uma nova entrada na branch e loja atuais. |
 | **Pré-visualização** (ícone de olho) | Abre uma pré-visualização para revisar o conteúdo de rascunho na vitrine. |
-| **Mesclar** | Mescla as alterações do branch no `main`, imediatamente ou em uma data agendada. Para mais detalhes, consulte \[\](). |
+| **Mergear** | Mescla as alterações da branch no `main`, imediatamente ou em uma data agendada. Para mais detalhes, consulte [Publicar e agendar alterações](#publicar-e-agendar-alterações). |
 
 ### Entendendo o branch `main` e outros branches
 
-O branch `main` contém o conteúdo publicado na vitrine. Quando você clica em `Salvar no main`, suas alterações são publicadas imediatamente.
+O branch `main` contém o conteúdo publicado na vitrine. Quando você clica em `Salvar na main`, suas alterações são publicadas imediatamente.
 
-Outros branches são usados para desenvolver e revisar conteúdo antes de publicá-lo no main. Quando você clica em `Salvar no branch`, suas alterações são salvas como uma [nova versão](#criar-uma-nova-versao) dentro desse branch, sem afetar a vitrine.
+Outros branches são usados para desenvolver e revisar conteúdo antes de publicá-lo na `main`. Quando você clica em `Salvar na branch`, suas alterações são salvas como uma [nova versão](#criar-uma-nova-versão) dentro desse branch, sem afetar a vitrine.
 
 ### Publicar e agendar alterações
 
-A página de **Branches** inclui a capacidade de `Mesclar` o branch atual com o branch `main`, oferecendo duas formas de publicar conteúdo na vitrine:
+A página de **Branches** inclui a capacidade de `Mergear` o branch atual com o branch `main`, oferecendo duas formas de publicar conteúdo na vitrine:
 
-* `Mesclar agora` pega as alterações contidas no branch e as mescla no branch `main`. Esta ação publica as alterações imediatamente na vitrine.
+* `Mergear agora` pega as alterações contidas na branch e as mescla na branch `main`. Esta ação publica as alterações imediatamente na vitrine.
 
-* `Mesclagem agendada` permite planejar a mesclagem de um branch no branch main para uma data e hora futuras. O CMS executará automaticamente a mesclagem assim que a data e hora agendadas chegarem.
+* `Agendar merge` permite planejar a mesclagem de um branch na branch main para uma data e hora futuras. O CMS executará automaticamente a mesclagem assim que a data e hora agendadas chegarem.
 
 ![publish-and-schedule-changes](https://vtexhelp.vtexassets.com/assets/docs/src/merge-schedule-pt___46148bf41908dd2a2d9842237174cb9f.gif)
 
@@ -111,7 +111,7 @@ A página de **Branches** inclui a capacidade de `Mesclar` o branch atual com o 
 
 ### Excluir branch
 
-Este processo exclui todas as versões que contêm alterações dentro do branch. Entradas e outras versões de branches não serão afetadas.
+Este processo exclui todas as versões que contêm alterações dentro da branch. Entradas e outras versões de branches não serão afetadas.
 
 ## Gerenciamento de remoção de conteúdo
 
@@ -133,8 +133,8 @@ Descarta suas alterações em um branch e restaura a entrada para sua última ve
 
 ![undo-changes](https://vtexhelp.vtexassets.com/assets/docs/src/undo-changes-pt___021dac72f282e4b9209ca08d52e907a3.png)
 
-### Excluir do `main`
+### Excluir da `main`
 
-Remove a entrada do branch `main` mantendo as versões em outros branches. Isso cancela a publicação do conteúdo na vitrine.
+Remove a entrada da branch `main` mantendo as versões em outros branches. Isso cancela a publicação do conteúdo na vitrine.
 
 ![delete-from-main](https://vtexhelp.vtexassets.com/assets/docs/src/delete-from-main-pt___18c247ceaee82219b1aebddd28c6cb39.png)

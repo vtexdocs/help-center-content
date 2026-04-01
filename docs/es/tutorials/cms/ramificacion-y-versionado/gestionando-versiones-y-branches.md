@@ -89,13 +89,13 @@ Las ramas facilitan la colaboración en equipo, los cambios de contenido masivos
 | **Ícono de paginación** | Navega entre páginas de entradas. |
 | **Crear contenido** | Crea una nueva entrada en la rama y la tienda actuales. |
 | **Previsualización** (ícono de ojo) | Abre una previsualización para revisar el contenido en borrador en la tienda. |
-| **Merge** | Fusiona los cambios de la rama en `main`, de forma inmediata o en una fecha programada. Para más detalles, consulta \[\](). |
+| **Hacer merge** | Fusiona los cambios de la rama en `main`, de forma inmediata o en una fecha programada. Para más detalles, consulta [Publicar y programar cambios](#publicar-y-programar-cambios). |
 
 ### Comprender la rama `main` y otras ramas
 
 La rama `main` contiene el contenido publicado en la tienda. Cuando haces clic en `Guardar en main`, tus cambios se publican de inmediato.
 
-Otras ramas se utilizan para desarrollar y revisar contenido antes de publicarlo en main. Cuando haces clic en `Guardar en branch`, tus cambios se guardan como una [nueva versión](#crear-una-nueva-version) dentro de esa rama, sin afectar la tienda.
+Otras ramas se utilizan para desarrollar y revisar contenido antes de publicarlo en main. Cuando haces clic en `Guardar en branch`, tus cambios se guardan como una [nueva versión](#crear-una-nueva-versión) dentro de esa rama, sin afectar la tienda.
 
 ### Publicar y programar cambios
 
