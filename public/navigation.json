@@ -20554,6 +20554,37 @@
           "children": [
             {
               "name": {
+                "en": "Content Management overview",
+                "es": "Información general de la gestión de contenidos",
+                "pt": "Visão geral do CMS"
+              },
+              "slug": {
+                "en": "content-management-overview-category",
+                "es": "informacion-general-cms-categoria",
+                "pt": "visao-geral-cms-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview",
+                    "es": "cms-informacion-general",
+                    "pt": "cms-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Configuring locales",
                 "es": "Configurar configuraciones regionales",
                 "pt": "Configurar localidades"
@@ -20568,29 +20599,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring locales",
-                    "es": "Configurar configuraciones regionales",
-                    "pt": "Configurar localidades"
+                    "en": "Configuring locales - Overview",
+                    "es": "Configurar configuraciones regionales - Descripción general",
+                    "pt": "Configurar localidades - Visão geral"
                   },
                   "slug": {
                     "en": "configuring-locales",
                     "es": "configurar-configuraciones-regionales",
                     "pt": "configurar-localidades"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Supported languages and regions",
-                    "es": "Idiomas y regiones admitidos",
-                    "pt": "Idiomas e regiões compatíveis"
-                  },
-                  "slug": {
-                    "en": "supported-languages-and-regions",
-                    "es": "idiomas-y-regiones-admitidos",
-                    "pt": "idiomas-e-regioes-compativeis"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20606,6 +20622,21 @@
                     "en": "understanding-locale-fallback-rules",
                     "es": "estrategias-de-configuracion-regional-de-resguardo",
                     "pt": "entendendo-as-regras-de-fallback-de-localidade"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Idiomas y regiones admitidos",
+                    "pt": "Idiomas e regiões compatíveis"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "idiomas-y-regiones-admitidos",
+                    "pt": "idiomas-e-regioes-compativeis"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20643,21 +20674,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
-              },
-              "slug": {
-                "en": "cms-overview",
-                "es": "cms-informacion-general",
-                "pt": "cms-visao-geral"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
