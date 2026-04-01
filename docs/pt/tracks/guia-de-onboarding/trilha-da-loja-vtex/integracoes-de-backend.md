@@ -15,14 +15,14 @@ trackSlugEN: trilha-da-loja-vtex
 order: 4
 ---
 
-Normalmente, as integrações começam com os softwares de back-office, permitindo o gerenciamento de partes essenciais da operação relacionadas a [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos), [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), [Pedidos](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#pedidos). Os principais tipos de software presentes no back-office são:
+Normalmente, as integrações começam com os softwares de back-office, permitindo o gerenciamento de partes essenciais da operação relacionadas a [Catálogo](/pt/docs/tracks/modulos-da-vtex-i#catalogo), [Preços](/pt/docs/tracks/modulos-da-vtex-i#precos), [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica), [Pedidos](/pt/docs/tracks/modulos-da-vtex-ii#pedidos). Os principais tipos de software presentes no back-office são:
 
 - ERP (Enterprise Resource Planning)
 - WMS (Warehouse Management System)
 - PIM (Product Information Manager)
 - CRM (Customer Relationship Management)
 
-Além do back-office, pode-se integrar a plataforma de comércio eletrônico a outros sistemas que adicionam novos recursos. Um exemplo são os [provedores de pagamento](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagamentos), que permitem a comunicação entre a plataforma VTEX e os provedores para realizar o processamento dos pagamentos e incluir métodos de pagamento adicionais no [Checkout](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout).
+Além do back-office, pode-se integrar a plataforma de comércio eletrônico a outros sistemas que adicionam novos recursos. Um exemplo são os [provedores de pagamento](/pt/docs/tracks/modulos-da-vtex-ii#pagamentos), que permitem a comunicação entre a plataforma VTEX e os provedores para realizar o processamento dos pagamentos e incluir métodos de pagamento adicionais no [Checkout](/pt/docs/tracks/modulos-da-vtex-ii#checkout).
 
 ## Integração com ERP
 
@@ -34,7 +34,7 @@ A configuração tem duas fases: a **configuração inicial** e a **configuraç�
 
 ### Configuração inicial
 
-Nesta fase são feitos os procedimentos para que a [conta VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex) receba todas as informações relacionadas aos produtos. Aqui serão integrados o catálogo, os produtos, os preços e o inventário da loja. Em geral, as configurações desta fase podem ser feita de três formas: 
+Nesta fase são feitos os procedimentos para que a [conta VTEX](/pt/docs/tracks/contas-e-arquitetura#tipos-de-conta-na-vtex) receba todas as informações relacionadas aos produtos. Aqui serão integrados o catálogo, os produtos, os preços e o inventário da loja. Em geral, as configurações desta fase podem ser feita de três formas: 
 
 - Integração com ferramentas externas.
 - Importação de planilhas.
@@ -113,7 +113,7 @@ Nesta seção, serão abordadas as principais integrações para o funcionamento
 
 ### Arquitetura do Catálogo
 
-Na VTEX, o [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) é o módulo para configurar as características dos produtos da loja de forma a tornar estes produtos disponíveis para os clientes. O Catálogo deve ser criado seguindo a ordem dos passos abaixo:
+Na VTEX, o [Catálogo](/pt/docs/tracks/modulos-da-vtex-i#catalogo) é o módulo para configurar as características dos produtos da loja de forma a tornar estes produtos disponíveis para os clientes. O Catálogo deve ser criado seguindo a ordem dos passos abaixo:
 
 1. Criação da [árvore de categorias](#arvore-de-categorias).
 2. Cadastro de [Marcas](#marcas).
@@ -126,7 +126,7 @@ Mais informações sobre configuração do Catálogo com back-office nos artigos
 
 #### Árvore de categorias
 
-Após compreender e planejar a [Arquitetura do Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#arquitetura-do-catalogo) da loja, a criação das categorias pode ser realizada pelas seguintes formas:
+Após compreender e planejar a [Arquitetura do Catálogo](/pt/docs/tracks/modulos-da-vtex-i#arquitetura-do-catalogo) da loja, a criação das categorias pode ser realizada pelas seguintes formas:
 
 1. __Admin VTEX:__ criar cada categoria usando a interface de usuário. Veja os detalhes em [Cadastrar Categorias](/pt/docs/tracks/cadastrar-categorias).
 2. __API do Catálogo:__ criar cada categoria fazendo chamadas de API. Veja os detalhes na [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category).
@@ -191,7 +191,7 @@ A importação de produtos segue os passos na ordem da tabela abaixo:
 | [1. Importar produtos](https://developers.vtex.com/docs/guides/products) | Registrar os produtos no catálogo. | <ul><li>Integração pela [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product)</li><li>Importação de planilhas ([método clássico](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#spreadsheet) e [app google-drive-import](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x)).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tracks/cadastrar-produto).</li></ul>|
 | [2. Importar especificações dos produtos](https://developers.vtex.com/docs/guides/product-specifications) | Preencher as especificações dos produtos no catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#preencher-especificacoes-de-produto).</li></ul> |
 | [3. Adicionar os produtos à política comercial](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-polic) | Associar os produtos às devidas [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), definindo regras específicas (Preços, Pagamentos, estratégia de envio, etc.) de acordo com o canal de venda ou público. No mínimo, deve-se adicionar todos os produtos à política comercial principal. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Entrada manual no [Admin VTEX ao cadastrar um produto](/pt/docs/tracks/cadastrar-produto).</li></ul> |
-| [4. Importar SKUs](https://developers.vtex.com/docs/guides/skus) | Adicionar SKUs aos produtos no Catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit).</li><li>Entrada manual no [Admin VTEX](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#adicionar-novo-sku-a-um-produto-ja-cadastrado).</li></ul> |
+| [4. Importar SKUs](https://developers.vtex.com/docs/guides/skus) | Adicionar SKUs aos produtos no Catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tracks/cadastrar-sku#admin-vtex).</li></ul> |
 | [5. Importar especificações dos SKUs](https://developers.vtex.com/docs/guides/sku-specifications) | Preencher as especificações dos SKUs no Catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/specification).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku#preencher-especificacoes-de-sku).</li></ul> |
 | [6. Importar imagens dos SKUs](https://developers.vtex.com/docs/guides/images) | Adicionar imagens aos SKUs. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tutorials/como-atualizar-a-imagem-de-um-sku).</li></ul> |
 
@@ -203,12 +203,12 @@ Mais informações sobre importação para back-office de produtos no artigo [Im
 
 ### Preços
 
-[Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) são as informações dos valores de venda dos SKUs, os quais são armazenados em [tabelas de preços](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito). Para garantir que os produtos da loja tenham preços competitivos e adaptados aos diferentes canais de vendas, é necessário compreender como as informações de preços são integradas à VTEX. 
+[Preços](/pt/docs/tracks/modulos-da-vtex-i#precos) são as informações dos valores de venda dos SKUs, os quais são armazenados em [tabelas de preços](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito). Para garantir que os produtos da loja tenham preços competitivos e adaptados aos diferentes canais de vendas, é necessário compreender como as informações de preços são integradas à VTEX. 
 
 Em operações de venda, é comum delegar o cálculo do preço para o ERP, de onde esses dados podem ser importados. Os preços têm um valor base definido para cada SKU e podem variar de acordo com o contexto. Os passos para realizar a importação de preços são:
 
-1. **Definir preço-base:** o preço-base serve como referência para determinar o preço de um produto no sistema de precificação da VTEX. O preço-base de um SKU pode ser importado por integração utilizando a [API de Preços](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) ou [criado pelo Admin VTEX](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#admin).
-2. **Definir preços fixos para contextos específicos:** o preço-base pode ser ajustado ou modificado com base em regras específicas, cálculos ou preços fixos para chegar ao preço final de varejo do SKU em diferentes contextos, a depender da [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial), [grupo de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes), [promoção](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR), entre outros fatores. Os preços fixos para contextos específicos podem ser importados por integração utilizando a [API de Preços](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-), [importados por planilha](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D#importacao-de-precos) ou [criados pelo Admin VTEX](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj#admin).
+1. **Definir preço-base:** o preço-base serve como referência para determinar o preço de um produto no sistema de precificação da VTEX. O preço-base de um SKU pode ser importado por integração utilizando a [API de Preços](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) ou [criado pelo Admin VTEX](/pt/docs/tracks/cadastrar-preco-base).
+2. **Definir preços fixos para contextos específicos:** o preço-base pode ser ajustado ou modificado com base em regras específicas, cálculos ou preços fixos para chegar ao preço final de varejo do SKU em diferentes contextos, a depender da [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial), [grupo de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes), [promoção](/pt/docs/tracks/como-funcionam-as-promocoes), entre outros fatores. Os preços fixos para contextos específicos podem ser importados por integração utilizando a [API de Preços](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-), [importados por planilha](/pt/docs/tracks/exportacao-e-importacao-via-planilha-de-precos#importacao-de-precos) ou [criados pelo Admin VTEX](/pt/docs/tracks/cadastrar-preco-fixo#admin).
 
 Após a importação, também é importante garantir que as informações sobre preços se mantenham atualizadas. Veja as instruções no artigo [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information#pricing-updates).
 
@@ -216,7 +216,7 @@ Mais informações sobre importação para back-office de preços no artigo [Imp
 
 ### Inventário
 
-No módulo [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica) da VTEX, o [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) é a relação entre os itens de venda de uma loja (SKUs) e os locais onde estes itens estão armazenados, conhecidos como [estoques](/pt/docs/tutorials/estoque). Gerenciar com eficiência o inventário de uma loja é uma etapa essencial para importar o inventário para a VTEX e garantir que os clientes possam acessar informações precisas de disponibilidade de produtos, agilizando o processo de [logística e envio](/pt/docs/tutorials/fulfillment-logistica-vtex).
+No módulo [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica) da VTEX, o [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) é a relação entre os itens de venda de uma loja (SKUs) e os locais onde estes itens estão armazenados, conhecidos como [estoques](/pt/docs/tutorials/estoque). Gerenciar com eficiência o inventário de uma loja é uma etapa essencial para importar o inventário para a VTEX e garantir que os clientes possam acessar informações precisas de disponibilidade de produtos, agilizando o processo de [logística e envio](/pt/docs/tutorials/fulfillment-logistica-vtex).
 
 Os passos para realizar a importação de inventário são:
 
@@ -242,7 +242,7 @@ Mais informações sobre importação para back-office de dados de clientes no a
 
 ## Integração de pedidos
 
-[Pedidos](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos) são gerados na plataforma VTEX assim que um cliente clica no botão de finalizar a compra no checkout. Cada pedido carrega várias informações, incluindo os itens do carrinho, o valor da compra, o método de pagamento, entre outros.
+[Pedidos](/pt/docs/tracks/modulos-da-vtex-ii#pedidos) são gerados na plataforma VTEX assim que um cliente clica no botão de finalizar a compra no checkout. Cada pedido carrega várias informações, incluindo os itens do carrinho, o valor da compra, o método de pagamento, entre outros.
 
 A integração de pedidos permite a comunicação entre a aplicação de back-office, ERP ou WMS, e o OMS (_Order Management System_) da VTEX. Tal integração desempenha um papel fundamental para:
 
@@ -303,7 +303,7 @@ Mais informações no artigo [Login (SSO)](https://developers.vtex.com/docs/guid
 
 ### Pagamentos
 
-Os sistemas de [Pagamento]() da VTEX oferecem recursos extensivos para dar suporte a vários [métodos de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-methods), [condições](/pt/docs/tutorials/condicoes-de-pagamento) e integrações. Os pagamentos na VTEX possuem as seguintes opções de [fluxo de compra](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows):
+Os sistemas de [Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos) da VTEX oferecem recursos extensivos para dar suporte a vários [métodos de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-methods), [condições](/pt/docs/tutorials/condicoes-de-pagamento) e integrações. Os pagamentos na VTEX possuem as seguintes opções de [fluxo de compra](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows):
 
 - **Transparente:** o pagamento acontece diretamente no checkout, e o comprador escolhe o método de pagamento.
 - **Redirecionamento:** abre uma nova janela no navegador do comprador, onde o pagamento é processado por um serviço externo. Após finalizar o pagamento, o comprador retorna ao checkout para finalizar a compra.
@@ -311,7 +311,7 @@ Os sistemas de [Pagamento]() da VTEX oferecem recursos extensivos para dar supor
 
 Para adicionar pagamentos em uma loja VTEX, existem as seguintes opções:
 
-- **Provedor de pagamentos suportado nativamente:** caso a VTEX ofereça a integração com o provedor de pagamentos desejado, é necessário possuir um contrato com o provedor e configurar as opções de pagamento através do Admin VTEX. Veja os detalhes sobre configurações no artigo [Pagamentos](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagamentos) e os provedores de pagamentos suportados pela VTEX na [Lista de Provedores de Pagamentos por País](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
+- **Provedor de pagamentos suportado nativamente:** caso a VTEX ofereça a integração com o provedor de pagamentos desejado, é necessário possuir um contrato com o provedor e configurar as opções de pagamento através do Admin VTEX. Veja os detalhes sobre configurações no artigo [Pagamentos](/pt/docs/tracks/modulos-da-vtex-ii#pagamentos) e os provedores de pagamentos suportados pela VTEX na [Lista de Provedores de Pagamentos por País](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
 - **Provedor de pagamentos personalizado:** Caso o provedor de pagamentos desejado não possua uma integração com a VTEX, é necessário criar uma integração de pagamento utilizando o [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol) contendo os [endpoints da API](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) para se conectar com o nosso [gateway de pagamentos](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos). O conector pode ser implementado por uma [agência parceira da VTEX](https://vtex.com/pt-br/parceiros/). Para que o provedor seja disponibilizado na VTEX, é necessário testar a integração criada e passar pelo [processo de homologação](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation). 
 
 Mais informações sobre integrar um novo provedor de pagamentos no artigo [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).
@@ -323,7 +323,7 @@ Na VTEX, vales-presente, também conhecidos como gift cards, podem ser usados co
 Para adicionar vales-presente em uma loja VTEX, existem as seguintes opções:
 
 - **Solução nativa de vales-presente:** caso deseje utilizar a solução nativa de vales-presente da VTEX ou alguma integração já existente, deve-se configurar os vales-presente pelo Admin VTEX seguindo os passos do artigo [Configurar Vale-presente](/pt/docs/tutorials/gift-card).
-- **Provedor de vales-presente personalizado:** caso o provedor de vales-presente desejado não possua uma integração com a VTEX, é necessário implementar a própria integração utilizando o [Gift Card Provider Protocol](/pt/tutorial/integrando-com-gift-card). Através deste protocolo, provedores podem desenvolver uma integração contendo os endpoints descritos na nossa [Gift Card Provider Protocol API](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol#overview) e conectar com o nosso [Gift Card Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api#overview).
+- **Provedor de vales-presente personalizado:** caso o provedor de vales-presente desejado não possua uma integração com a VTEX, é necessário implementar a própria integração utilizando o [Gift Card Provider Protocol](/pt/docs/tutorials/como-integrar-um-provedor-de-gift-card-externo-a-vtex). Através deste protocolo, provedores podem desenvolver uma integração contendo os endpoints descritos na nossa [Gift Card Provider Protocol API](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol#overview) e conectar com o nosso [Gift Card Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api#overview).
 
 ### Antifraude
 
@@ -346,7 +346,7 @@ Um [app](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a
 
 Os tipos de apps disponíveis na VTEX são:
 
-- [Storefront](/pt/docs/tracks/implementacao-de-frontend): temas de loja desenvolvidos com o [Store Framework](/pt/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework).
+- [Storefront](/pt/docs/tracks/implementacao-de-frontend): temas de loja desenvolvidos com o [Store Framework](/pt/docs/tracks/frontend#store-framework).
 - [Frontend](https://developers.vtex.com/docs/guides/vtex-io-documentation-1-developing-storefront-apps-using-react-and-vtex-io): componentes [React](https://react.dev/) que compõem temas de loja desenvolvidos com Store Framework.
 - [Admin VTEX](https://learn.vtex.com/docs/course-admin-lang-en): módulos e funcionalidades para o [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui).
 - [Serviços (backend)](https://developers.vtex.com/docs/guides/vtex-io-documentation-service): serviços [Node](https://nodejs.org/en) ou [.NET Core](https://dotnet.microsoft.com/en-us/) capazes de lidar com eventos e gatilhos, exportar rotas HTTP, e expor resolvedores GraphQL.
@@ -359,7 +359,7 @@ Mais informações no artigo [O que é um App VTEX](https://developers.vtex.com/
 
 ### O que levar em consideração ao escolher um app para ser instalado na sua loja?
 
-Antes de iniciar o processo de desenvolvimento de um novo app, é recomendável explorar as soluções prontas para instalação na sua loja. Essas soluções podem ser encontradas no [Hub de Extensões](/pt/tracks/extensions-hub--AW7klkYMh557y5IUOgzco), o painel do Admin VTEX que centraliza o gerenciamento de extensões. No Hub de Extensões estão disponíveis os seguintes painéis:
+Antes de iniciar o processo de desenvolvimento de um novo app, é recomendável explorar as soluções prontas para instalação na sua loja. Essas soluções podem ser encontradas no [Hub de Extensões](/pt/docs/tracks/hub-de-extensoes-1), o painel do Admin VTEX que centraliza o gerenciamento de extensões. No Hub de Extensões estão disponíveis os seguintes painéis:
 
 - **App Store:** marketplace onde estão disponíveis apps desenvolvidos pela VTEX e por terceiros. Neste painel é possível visualizar, adquirir e instalar apps para uma conta VTEX. Existem apps gratuitos e pagos, que possuem diversas formas de cobrança.
 - **Gerenciamento de Aplicativos:** página que permite instalar, desinstalar, remover e configurar apps na loja.
@@ -377,7 +377,7 @@ Veja alguns exemplos de soluções disponíveis na App Store:
 
 Se a loja VTEX não encontrar um app que atenda às necessidades do seu modelo de negócio, existe a alternativa de desenvolver uma solução própria. Neste sentido, existem vários aspectos a serem considerados para desenvolver apps na VTEX:
 
-- **Quem será responsável pelo desenvolvimento e manutenção?** Os apps podem ser desenvolvidos e mantidos pelo time de desenvolvimento interno da empresa ou por uma agência certificada VTEX. Os [parceiros de implementação da VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) podem ser encontrados no nosso [Partner Portal](https://vtex.com/pt-br/parceiros/) (somente português). Além do desenvolvimento, o responsável pelo app é encarregado da sua manutenção e atualizações.
+- **Quem será responsável pelo desenvolvimento e manutenção?** Os apps podem ser desenvolvidos e mantidos pelo time de desenvolvimento interno da empresa ou por uma agência certificada VTEX. Os [parceiros de implementação da VTEX](/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao) podem ser encontrados no nosso [Partner Portal](https://vtex.com/pt-br/parceiros/) (somente português). Além do desenvolvimento, o responsável pelo app é encarregado da sua manutenção e atualizações.
 - **Que tipo de app deve ser desenvolvido?** É importante saber o contexto em que a solução desejada irá atuar. Os tipos de apps disponíveis estão descritos [acima](#o-que-e-um-app-na-vtex). Nós temos guias de “desenvolvimento para alguns tipos de apps como [storefront](https://developers.vtex.com/docs/guides/vtex-io-documentation-1-developing-storefront-apps-using-react-and-vtex-io), [serviço](https://developers.vtex.com/docs/guides/vtex-io-documentation-developing-service-configuration-apps) e [Pixel](https://developers.vtex.com/docs/guides/vtex-io-documentation-1-developnativeintegrationswithpixelapps).
 - **Como desenvolver um app?** O desenvolvimento de um app é feito em várias etapas. Em geral, o processo de desenvolvimento segue os seguintes passos:
 

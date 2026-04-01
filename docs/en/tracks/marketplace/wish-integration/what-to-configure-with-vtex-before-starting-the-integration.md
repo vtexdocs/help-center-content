@@ -39,8 +39,8 @@ Once the trade policy is created, you'll need to link the new trade policy to pr
 To ensure that order integrate successfully, you'll need to link, on the VTEX platform, the logistics between inventory, warehouse and carrier . For more context on VTEX logistics, read [this article](/en/docs/tracks/getting-started-with-logistics). Follow the step-by-step below to perform the setup:
 
   1. Check whether your [inventories](/en/docs/tracks/inventory) are linked to the correct warehouses;
-  2. Check whether the chosen [warehouses](/en/docs/tracks/inventory) have the associated Wish trade policy;
-  3. Set the [carriers](/en/docs/tracks/inventory) that will ship from Wish;
+  2. Check whether the chosen [warehouses](/en/docs/tutorials/warehouse) have the associated Wish trade policy;
+  3. Set the [carriers](/en/docs/tutorials/carriers-on-vtex) that will ship from Wish;
   4. Link carriers to warehouses.
  
 > ℹ️ NOTE: Wish transfers the commission by confirming order delivery, obtaining this information by directly consulting its partner carriers. ***However, in order to sell on Wish, you need to use partner carriers for order delivery.*** [ Check out the Wish accepted carriers here.](https://merchant.wish.com/documentation/shippingproviders)
