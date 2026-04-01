@@ -25,7 +25,7 @@ The feature allows actions in the purchase flow whenever the transaction risk is
 
 To access the page, follow the steps below:
 
-1. In VTEX Admin, go to **Store settings**.
+1. In VTEX Admin, go to **Store Settings**.
 2. Under **Shield**, click **Fraud Prevention**.
 
 ![fraud-prevention-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/fraud-prevention.png)
@@ -93,6 +93,7 @@ To deactivate automatic blocking:
 
 1. Click the **⋮** menu.
 2. Click **Deactivate blocking**.
+3. Click **Confirm**.
 
 Attempts will continue to be analyzed and displayed in the history but won't be blocked automatically. When automatic blocking is deactivated, the feature operates in watch mode, recording and analyzing attempts without preventing checkout.
 
