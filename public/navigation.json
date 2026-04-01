@@ -20569,21 +20569,6 @@
           "children": [
             {
               "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
-              },
-              "slug": {
-                "en": "cms-overview",
-                "es": "cms-informacion-general",
-                "pt": "cms-visao-geral"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Configuring locales",
                 "es": "Configurar configuraciones regionales",
                 "pt": "Configurar localidades"
@@ -20591,7 +20576,7 @@
               "slug": {
                 "en": "configuring-locales-subcategory",
                 "es": "configurar-configuraciones-regionales-subcategoria",
-                "pt": "configurar-locales-subcategoria-pt"
+                "pt": "configurar-localidades-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20613,21 +20598,6 @@
                 },
                 {
                   "name": {
-                    "en": "Understanding locale fallback rules",
-                    "es": "Estrategias de configuración regional de resguardo",
-                    "pt": "Entendendo as regras de fallback de localidade"
-                  },
-                  "slug": {
-                    "en": "understanding-locale-fallback-rules",
-                    "es": "estrategias-de-configuracion-regional-de-resguardo",
-                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Supported languages and regions",
                     "es": "Idiomas y regiones admitidos",
                     "pt": "Idiomas e regiões compatíveis"
@@ -20636,6 +20606,21 @@
                     "en": "supported-languages-and-regions",
                     "es": "idiomas-y-regiones-admitidos",
                     "pt": "idiomas-e-regioes-compativeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Entendendo as regras de fallback de localidade"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20650,9 +20635,9 @@
                 "pt": "Branching and versionamento"
               },
               "slug": {
-                "en": "branching-and-versioning",
-                "es": "ramificacion-y-versionado",
-                "pt": "branching-e-versionamento"
+                "en": "branching-and-versioning-subcategory",
+                "es": "ramificacion-y-versionado-subcategoria",
+                "pt": "branching-and-versionamento-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20673,6 +20658,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Content Management overview",
+                "es": "Información general de la gestión de contenidos",
+                "pt": "Visão geral do CMS"
+              },
+              "slug": {
+                "en": "cms-overview",
+                "es": "cms-informacion-general",
+                "pt": "cms-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
