@@ -20615,9 +20615,9 @@
             },
             {
               "name": {
-                "en": "Branching AND versioning",
-                "es": "Ramificacion y versionado",
-                "pt": "Branching e versionamento"
+                "en": "Branching and versioning",
+                "es": "Ramificación y versionado",
+                "pt": "Branching and versionamento"
               },
               "slug": {
                 "en": "branching-and-versioning",
