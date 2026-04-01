@@ -20555,13 +20555,13 @@
             {
               "name": {
                 "en": "Configuring locales",
-                "es": "Configuring locales",
-                "pt": "Configuring locales"
+                "es": "Configurar configuraciones regionales",
+                "pt": "Configurar localidades"
               },
               "slug": {
                 "en": "configuring-locales-subcategory",
-                "es": "configuring-locales",
-                "pt": "configuring-locales"
+                "es": "configurar-configuraciones-regionales-subcategoria",
+                "pt": "configurar-locales-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
@@ -20569,28 +20569,13 @@
                 {
                   "name": {
                     "en": "Configuring locales",
-                    "es": "Configuring locales",
-                    "pt": "Configuring locales"
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
                   },
                   "slug": {
                     "en": "configuring-locales",
-                    "es": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Supported languages and regions",
-                    "es": "Supported languages and regions",
-                    "pt": "Supported languages and regions"
-                  },
-                  "slug": {
-                    "en": "supported-languages-and-regions",
-                    "es": "",
-                    "pt": ""
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20599,13 +20584,28 @@
                 {
                   "name": {
                     "en": "Understanding locale fallback rules",
-                    "es": "Understanding locale fallback rules",
-                    "pt": "Understanding locale fallback rules"
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Entendendo as regras de fallback de localidade"
                   },
                   "slug": {
                     "en": "understanding-locale-fallback-rules",
-                    "es": "",
-                    "pt": ""
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Idiomas y regiones admitidos",
+                    "pt": "Idiomas e regiões compatíveis"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "idiomas-y-regiones-admitidos",
+                    "pt": "idiomas-e-regioes-compativeis"
                   },
                   "origin": "",
                   "type": "markdown",
