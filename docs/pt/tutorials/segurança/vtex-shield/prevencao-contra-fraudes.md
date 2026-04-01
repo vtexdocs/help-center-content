@@ -1,5 +1,5 @@
 ---
-title: 'Prevenção de Fraude (Beta)'
+title: 'Prevenção contra fraudes (Beta)'
 status: PUBLISHED
 createdAt: 2026-03-27T00:00:00.000Z
 updatedAt: 2026-03-27T00:00:00.000Z
@@ -13,7 +13,7 @@ subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 
 >ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](https://help.vtex.com/pt/docs/tutorials/vtex-shield). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
-A **Prevenção de fraude** é uma funcionalidade do **VTEX Shield** que protege sua loja contra ataques de esquenta cartão (*card attack*).
+A **Prevenção contra fraudes** é uma funcionalidade do **VTEX Shield** que protege sua loja contra ataques de esquenta cartão (*card attack*).
 
 Ataques de esquenta cartão acontecem quando fraudadores testam diversas combinações de cartões roubados em um curto intervalo de tempo para identificar quais estão ativos. Esse tipo de prática pode gerar alto volume de tentativas de pagamento malsucedidas, custos adicionais com adquirentes e ferramentas antifraude, além de impacto na operação da loja.
 
@@ -26,9 +26,9 @@ O objetivo da funcionalidade é permitir ações no fluxo de compra sempre que o
 Para acessar a página, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja**.
-2. Em **Shield**, clique em **Prevenção de fraude**.
+2. Em **Shield**, clique em **Prevenção de Fraude**.
 
-![prevencao-de-fraude-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/prevencao-de-fraude.png)
+![prevencao-de-fraude-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/prevencao-contra-fraudes.png)
 
 ## Visão geral
 
@@ -37,9 +37,9 @@ A página apresenta os seguintes indicadores:
 * **Tentativas de transações:** total de tentativas de transações processadas no período selecionado.
 * **Tentativas de transações suspeitas:** transações identificadas como potencialmente fraudulentas pelo algoritmo.
 
-### Histórico de detecção
+### Histórico de detecções
 
-A tabela **Histórico de detecção** exibe os detalhes das tentativas analisadas:
+A tabela **Histórico de detecções** exibe os detalhes das tentativas analisadas:
 
 | Colunas | Descrição |
 | :---- | :---- |
@@ -59,7 +59,7 @@ Esta página permite que você realize as seguintes ações:
 
 ## Permissões necessárias
 
-Para acessar e gerenciar a funcionalidade de Prevenção de fraude, o usuário deve ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) listados a seguir:
+Para acessar e gerenciar a funcionalidade de Prevenção contra fraudes, o usuário deve ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) com os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) listados a seguir:
 
 * **Produto:** *Fraud Prevention*
 * **Categoria:** *Transaction Attempts*
@@ -71,10 +71,10 @@ Por padrão, a página exibe os dados dos **Últimos 7 dias**.
 
 Para alterar o período, clique no período atual e depois na opção desejada:
 
-* Hoje
-* Últimos 7 dias
-* Últimos 30 dias
-* Personalizada: selecione a data de Início e a data de Término, depois clique em Aplicar.
+* **Hoje**
+* **Últimos 7 dias**
+* **Últimos 30 dias**
+* **Personalizada:** selecione a data de Início e a data de Término, depois clique em `Aplicar`.
 
 A listagem será atualizada automaticamente com as tentativas de transação no período selecionado.
 
@@ -93,6 +93,7 @@ Para desativar o bloqueio automático:
 
 1. Clique no menu **⋮**.
 2. Clique em **Desativar bloqueio**.
+3. Clique em **Confirmar**.
 
 As tentativas continuarão sendo analisadas e exibidas no histórico, mas não serão bloqueadas automaticamente. Quando o bloqueio automático está desativado, a funcionalidade opera em modo de monitoramento (escuta), registrando e analisando as tentativas sem impedir o checkout.
 
