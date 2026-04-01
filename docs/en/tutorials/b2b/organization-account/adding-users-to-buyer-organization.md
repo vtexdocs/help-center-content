@@ -44,7 +44,7 @@ Follow the instructions below to add a user:
    - **Email (optional)**: Email address that can be used for login and communications related to the purchase process.
    - **Phone (optional)**: User's phone number. It can be used for login and for communications related to purchases.
    - **Username**: Unique identifier for the user within the organization. Used to log in to the store. Special characters are not allowed.
-   - **Roles**: Defines the user's role on the storefront, such as Buyer, Approver, or Organization Admin. For more information about roles and permissions, see the documentation on [Buyer Organization Members](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+   - **Roles**: Defines the user's role on the storefront, such as Buyer, Approver, or Organization Admin. For more information about roles and permissions, see the documentation on [Buyer Organization Members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 
      > ⚠️ Adding buyer users whose roles allow making purchases requires an additional step. Learn more at [Activating buyer users](#activating-buyer-users).
 
