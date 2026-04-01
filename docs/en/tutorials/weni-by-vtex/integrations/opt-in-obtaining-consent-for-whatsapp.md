@@ -1,5 +1,5 @@
 ---
-title: 'Opt-In: Obtaining Consent for WhatsApp'
+title: 'Opt-in: Obtaining consent for WhatsApp'
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
@@ -15,13 +15,11 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### How to Obtain Consent for WhatsApp
-
 Before initiating marketing, service, or authentication conversations with customers outside the 24-hour window, businesses must obtain the user's explicit consent. This consent can be collected in various ways, both inside and outside of WhatsApp. The goal is to ensure that people receive relevant, useful information that aligns with their expectations of the company they are interacting with.
 
 It is allowed to use consent methods through websites, interactive voice response (IVR) flows, or even directly in WhatsApp conversations.
 
-##### Requirements for Obtaining Consent
+### Requirements for obtaining consent
 
 Businesses must follow these requirements when collecting user consent:
 
@@ -29,7 +27,7 @@ Businesses must follow these requirements when collecting user consent:
 - Visibly display the company's name so that the customer knows who they are agreeing to interact with.
 - Comply with all applicable local laws and regulations.
 
-##### Methods for Collecting Consent
+### Methods for collecting consent
 
 If the collection method meets the above requirements, it will comply with Meta's policies. Below are examples of valid methods for obtaining consent:
 
@@ -51,6 +49,6 @@ To ensure a positive and optimized experience, businesses should follow these be
 - Explain the Relevance: Communicate the importance and benefits of receiving information via WhatsApp, ensuring users understand the value of these interactions.
 - Regularly Monitor Quality: Pay attention to the business’s quality rating, especially when implementing new consent collection methods.
 
-##### Maintaining High Quality in Interactions
+### Maintaining high quality in interactions
 
 Maintaining high-quality conversations between businesses and customers is one of Meta's top priorities. Users can block or report businesses, and if this happens frequently, the business's account quality may be impacted, resulting in messaging volume limitations. Additionally, Meta may reactively review a business's consent collection methods, considering user feedback and other forms of monitoring to identify potential policy violations.

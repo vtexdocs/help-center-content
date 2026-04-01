@@ -13,6 +13,9 @@ locale: es
 legacySlug: master-data-v1-descontinuacion-de-configuraciones-dinamicas
 announcementImageID: 'undefined'
 announcementSynopsisES: 'El "Campo calculado" y la acción de trigger "Editar el valor del campo” serán descontinuados en Master Data v1.'
+tags:
+  - Descontinuación
+  - Master Data
 ---
 
 El día 17 de junio de 2024 desactivaremos las siguientes configuraciones en Master Data v1: **Campo calculado** y acción de trigger **Editar el valor del campo**.

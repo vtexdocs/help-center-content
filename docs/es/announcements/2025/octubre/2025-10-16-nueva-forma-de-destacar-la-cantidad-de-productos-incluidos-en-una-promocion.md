@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-forma-de-destacar-la-cantidad-de-productos-incluidos-en-una-promocion
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Se muestra de forma más destacada el porcentaje de productos incluidos al revisar y guardar una promoción.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 Ahora la notificación sobre el alcance de promociones se muestra de forma más clara en el Admin VTEX. A partir del 16 de octubre de 2025, la etapa de revisión de promociones destacará con mayor visibilidad la cantidad de productos incluidos en cada promoción activa.

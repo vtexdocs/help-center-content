@@ -1,5 +1,5 @@
 ---
-title: 'Campos de contato'
+title: "Campos de contato"
 id: 5q7gMYEvFCLdk7tYsHXB0x
 status: PUBLISHED
 createdAt: 2025-09-12T17:20:52.053Z
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Campos de contatos são variáveis criadas na plataforma onde salvamos valores sobre as pessoas com quem interagimos. Os valores adicionados nesses campos irão ser salvos junto a outras informações do contato, como sua ***URN*** e Data de criação de algum contato.
+Campos de contatos são variáveis criadas na plataforma onde salvamos valores sobre as pessoas com quem interagimos. Os valores adicionados nesses campos irão ser salvos junto a outras informações do contato, como sua **_URN_** e Data de criação de algum contato.
 
 Independente do fluxo em que seu contato esteja, você pode acessar seus campos utilizando a variável `@fields.nome_do_campo` ou `@contact.fields.nome_do_campo`
 
@@ -23,11 +23,11 @@ Independente do fluxo em que seu contato esteja, você pode acessar seus campos 
 
 As duas variáveis mencionadas acima podem levar para o mesmo campo de contato.
 
-#### **Como criar um campo**
+## Como criar um campo
 
-Para acessar essas informações, entre no seu projeto e clique no módulo **""Estúdio""** no menu lateral esquerdo. Em seguida, clique em ""**Contatos**"" e em ""**Gerenciar Campo
+Para acessar essas informações, entre no seu projeto e clique no módulo **""Estúdio""** no menu lateral esquerdo. Em seguida, clique em ""**Contatos**"" e em ""\*\*Gerenciar Campo
 
-s**"".
+s\*\*"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/campos-de-contato_2.png)
 
@@ -37,11 +37,11 @@ Você será direcionado para a página de gerenciamento de campos de contato, on
 
 Depois, basta:
 
--    Escolher o rótulo do seu campo de contato, preenchendo o campo **Nome**
+- Escolher o rótulo do seu campo de contato, preenchendo o campo **Nome**
 
--   O tipo de valor que o campo pode salvar, na seleção **Tipo de Dados**. Os tipos de valores aceitos são: **Texto, Número, Data & Horário, Estado, Distrito** e **Divisão**
+- O tipo de valor que o campo pode salvar, na seleção **Tipo de Dados**. Os tipos de valores aceitos são: **Texto, Número, Data & Horário, Estado, Distrito** e **Divisão**
 
--  Se você deseja ou não que esse campo apareça na pré-visualização da página de contatos, selecionando a caixa de seleção **Destaque**.
+- Se você deseja ou não que esse campo apareça na pré-visualização da página de contatos, selecionando a caixa de seleção **Destaque**.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/campos-de-contato_4.png)
 

@@ -13,6 +13,9 @@ locale: pt
 legacySlug: descontinuacao-do-modulo-performance-de-paginas-web
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'O módulo Performance de Páginas Web será descontinuada.'
+tags:
+  - Descontinuação
+  - Storefront
 ---
 
 No dia **04 de junho de 2024,** desabilitaremos o __módulo Performance de Páginas Web__ do Admin VTEX. O módulo permitia ao lojista monitorar as métricas de desempenho das URLs de seu ecommerce apresentadas pelo [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) diretamente na plataforma VTEX.

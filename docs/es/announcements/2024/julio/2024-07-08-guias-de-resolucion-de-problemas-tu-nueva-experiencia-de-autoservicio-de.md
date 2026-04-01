@@ -13,6 +13,9 @@ locale: es
 legacySlug: guias-de-resolucion-de-problemas-tu-nueva-experiencia-de-autoservicio-de
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Resuelve problemas con mayor rapidez y autonomía con nuestras guías de resolución de problemas reformuladas.'
+tags:
+  - Mejora
+  - Admin
 ---
 
 VTEX está en constante evolución para mejorar la experiencia de soporte al cliente, capacitándolo para resolver problemas de manera más eficaz y autónoma. 

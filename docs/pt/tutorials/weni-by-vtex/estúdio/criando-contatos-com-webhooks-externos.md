@@ -1,5 +1,5 @@
 ---
-title: 'Criando contatos com Webhooks externos'
+title: "Criando contatos com webhooks externos"
 id: 2uiciJ2WsW6G9tfSDpvE12
 status: PUBLISHED
 createdAt: 2025-09-12T16:55:38.856Z
@@ -25,7 +25,7 @@ Normalmente, os webhooks são disparados a partir de um determinado evento dentr
 
 - Ao criar, atualizar e deletar um registro de cliente;- Ao mudar o status de um registro de lead em uma plataforma CRM.Quando tais eventos ocorrem, devem ser disparadas requisições para a Plataforma Weni atualizar os registros de contatos, permitindo que toda a automação de comunicação seja modificada em tempo real.
 
-#### **Adicionando Contatos**
+## Adicionando contatos
 
 Você pode adicionar um novo contato enviando uma requisição **POST** para essa URL com os seguintes dados:
 
@@ -55,7 +55,7 @@ POST /api/v2/contacts.json
 }
 ```
 
-#### **Atualizando Contatos**
+## Atualizando contatos
 
 Uma requisição **POST** também pode ser usada para atualizar um contato existente se você especificar pela URL tanto o seu UUID quanto uma de suas URNs. Apenas aqueles campos incluídos no corpo serão atualizados no contato, os demais permanecerão intactos.
 
@@ -84,7 +84,7 @@ POST ​/​api​/​v2​/​contacts​.​json​?​urn​=​tel​%​3A�
 }
 ```
 
-#### **Deletando Contatos**
+## Deletando contatos
 
 Uma requisição **DELETE** também pode ser usada para deletar um contato existente se você especificar na URL tanto o seu UUID quanto uma de suas URNs.
 
@@ -98,7 +98,7 @@ DELETE /api/v2/contacts.json?urn=tel%3A%2B250783835665
 
 Você receberá uma resposta 204 se seu contato for deletado, ou uma resposta 404 se nenhum contato for encontrado com os parâmetros passados.
 
-#### **Adicionando campos personalizados**
+## Adicionando campos personalizados
 
 Uma requisição **POST** pode ser usada para criar um novo campo de contato. Você não precisa especificar uma chave, nós geraremos uma para você.
 
@@ -106,7 +106,7 @@ Uma requisição **POST** pode ser usada para criar um novo campo de contato. 
 - **value_type** - um dos tipos de dados aceitos (string)
 - **text:** Campos do tipo texto
 - **datetime:** Campos com informação de data e hora (exemplo do formato: 2020-01-31T09:27:39.071299-03:00)
-- **numeric:** Campos numéricos. 
+- **numeric:** Campos numéricos.
 
 Exemplo:
 
@@ -128,7 +128,7 @@ Você receberá um objeto (com a nova chave do campo) se a resposta for bem suce
 }
 ```
 
-#### Adicionando um Grupo de Contato
+## Adicionando um grupo de contato
 
 Uma requisição **POST** pode ser usada para criar um novo grupo de contato. Não especifique um UUID, nós geraremos um pra você.
 
@@ -152,7 +152,7 @@ Você receberá um objeto de grupo se a resposta for bem sucedida:
 }
 ```
 
-#### **Atualizando um grupo**
+## Atualizando um grupo
 
 Uma requisição **POST** pode ser usada para atualizar um grupo de contatos existente se você especificar na URL o seu UUID.
 
@@ -176,7 +176,7 @@ Você receberá um objeto de grupo atualizado se a resposta for bem sucedida:
 }
 ```
 
-#### Deletando um Grupo
+## Deletando um grupo
 
 Uma requisição **DELETE** pode ser usada para deletar um grupo de contato se você especificar na URL o seu UUID.
 
@@ -190,6 +190,6 @@ Exemplo:
 
 Você receberá uma resposta 204 se o grupo for deletado, ou uma resposta 404 caso nenhum grupo seja encontrado.
 
-#### **Conclusão**
+## Conclusão
 
 Ao final, a sua plataforma estará apta para sincronizar em tempo real os dados com a nossa plataforma, permitindo assim que o usuário use o poder das automações e da Inteligência Artificial para se comunicar de forma mais próxima e contínua com o seu público.

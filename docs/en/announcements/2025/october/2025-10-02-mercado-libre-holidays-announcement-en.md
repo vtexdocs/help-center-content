@@ -13,6 +13,10 @@ locale: en
 legacySlug: mercado-libre-holidays
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Configure holidays in the Mercado Libre integration.'
+tags:
+  - Improvement
+  - Marketplace
+  - Integrations
 ---
 
 We developed this feature to allow VTEX stores to configure holidays and non-business days in their integration with Mercado Libre, ensuring that deadlines shown to customers are always accurate and aligned with the store's operations.

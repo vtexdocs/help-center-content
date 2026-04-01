@@ -1,5 +1,5 @@
 ---
-title: 'Configuração do Webhook: Status de envio das mensagens'
+title: "Configuração do webhook: Status de envio das mensagens"
 id: 4Vz0SFzmpK8tTsA2CUbWAp
 status: PUBLISHED
 createdAt: 2025-09-15T15:38:30.364Z
@@ -25,7 +25,7 @@ Existem diversos serviços externos e eles são usados como uma **infraestrutura
 
 Isso quer dizer que, nessas plataformas externas, você pode **configurar uma URL para receber os dados do Webhook da Weni** e criar um código para tratar esses dados.
 
-#### Como configurar
+## Como configurar
 
 Para configurar seu webhook vá em **Aplicativos** **\> Meus Aplicativos \> Canal Whatsapp que deseja configurar \> Webhook \> Configure Método, URL e Cabeçalho da requisição**:
 
@@ -33,7 +33,7 @@ Para configurar seu webhook vá em **Aplicativos** **\> Meus Aplicativos \> Cana
 
 Após configurar o serviço de webhooks, você poderá criar soluções via código ou aplicação externa de acordo com sua necessidade.
 
-#### Retorno de Dados
+## Retorno de dados
 
 Os dados que os webhooks vão enviar para seu serviço externo (URL) seguem o formato Json:
 

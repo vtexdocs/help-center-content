@@ -1,5 +1,5 @@
 ---
-title: 'Adding a trigger'
+title: "Adding a trigger"
 id: 4bo1N0wsONdFMVDMlIPU9T
 status: PUBLISHED
 createdAt: 2025-09-12T17:40:04.331Z
@@ -42,7 +42,7 @@ In this section, we will create a standard trigger that can be configured in bot
 In ""Groups to Exclude"": you can prevent people from certain groups from entering this flow.
 If your Agent Builder is active, the triggers **WILL NOT** work, as the flows are activated by the intelligent agent and not by triggers.
 
-#### Creating triggers in a flow
+## Creating triggers in a flow
 
 - Click on ""Flows"" choose your flow, and open it.
   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/adding-a-trigger_4.png)

@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### **Integração com o Microsoft Teams**
+### Integração com o Microsoft Teams
 
 Devido às recentes atualizações nos serviços da Microsoft Azure, o processo de criação e integração de Bots pelo Portal do Azure passou por diversas modificações, tornando necessário o desenvolvimento de uma nova documentação, atualizada, para a integração com o Microsoft Teams. O objetivo desta documentação é orientar os usuários na criação, implementação e integração do Chatbot no ambiente corporativo, Microsoft Azure e Teams, da Raízen.
 
 As informações e orientações contidas nesta documentação estão sujeitas a alterações conforme futuras atualizações das plataformas e ferramentas da Microsoft.
 
-#### **Etapas para integração do Chatbot no Teams:**
+#### Etapas para integração do chatbot no Teams
 
 1. Comunicação com a Weni;
 2. Registro do aplicativo no Portal da Azure;
@@ -30,11 +30,11 @@ As informações e orientações contidas nesta documentação estão sujeitas a
 5. Criação da Aplicação na AppStudio;
 6. Publicar a Aplicação no Teams.
 
-#### **1. Comunicação com a Weni**
+#### 1. Comunicação com a Weni
 
 No Microsoft Teams, a comunicação do Chatbot com a Weni ocorre pela URL de callback. Essa URL deve ser pega assim que a integração do canal do Teams na plataforma Weni ocorrer.
 
-#### **2. Registro do aplicativo no Portal do Azure**
+#### 2. Registro do aplicativo no Portal do Azure
 
 A criação do registro do aplicativo no Portal do Azure deve ser realizada pelo cliente, é recomendado que o usuário tenha *permissões administrativas* para criar o Bot. No Portal do Azure, pesquise por **Registros de aplicativo:**
 
@@ -70,7 +70,7 @@ Após a criação do **Segredos do cliente**, é gerado um **Valor** e um **ID s
 
 OBS: É recomendando salvar o **Valor** e o **ID secreto**, essas informações são sigilosas e não é possível visualizar seus valores após atualização da página.
 
-#### **3. Criação do Bot no Portal do Azure**
+#### 3. Criação do bot no Portal do Azure
 
 A criação do Bot no Portal do Azure deve ser realizada pelo cliente, é recomendado que o usuário tenha permissões administrativas para criar o Bot.
 
@@ -110,7 +110,7 @@ Um pop-up sobre os **Termos do Serviço** da Microsoft deve aparecer, com os **T
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-com-o-microsoft-teams_15.png)
 
-#### **4. Criação da Aplicação na App**
+#### 4. Criação da aplicação na app
 
 No momento, o usuário apenas consegue interagir com o Chatbot através do **Link para divulgação do Bot**, para que o Chatbot fique disponível para todos os usuários no Teams é Interno necessário a criação do Aplicativo, através do **Portal de desenvolvimento ou Developer Tools** em inglês.
 
@@ -120,7 +120,7 @@ Temos dois passos: **Portal de Desenvolvimento no Microsoft Teams e Microsoft Te
 
 • Microsoft Teams Admin Center \= https://admin.teams.microsoft.com/dashboard
 
-##### **4.1 Portal do Desenvolvimento**
+##### 4.1 Portal do desenvolvimento
 
 Para criar a app utilizando o **Portal do Desenvolvimento**, é necessário seguir os seguintes passos:
 
@@ -140,7 +140,7 @@ Esse nome definirá o nome do Chatbot/assistente virtual, após insierir, clique
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-com-o-microsoft-teams_18.png)
 
-###### **4.1.1 Informação Básica**
+###### 4.1.1 Informação básica
 
 Após adicionar o nome do Bot, abrirá uma sessão para configuração denominada: Informação Básica.
 
@@ -168,11 +168,11 @@ Após o preenchimento das informações básicas, clique em **salvar**. Em segui
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/integracao-com-o-microsoft-teams_21.png)
 
-###### **4.1.2 Marca**
+###### 4.1.2 Marca
 
 Para inserir a Imagem da persona do Bot, clique em Marca, onde abrirá um pop-up para fazer upload das imagens do Bot, o qual tem que obedecer as especificações de tamanho.
 
-###### **4.1.3 Recursos do Aplicativo**
+###### 4.1.3 Recursos do aplicativo
 
 Após inserir as imagens, clique em **Recursos do aplicativo** e em seguida **Bot**.
 
@@ -186,7 +186,7 @@ No campo (**Identificar seu bot**), clique em **Insira um ID de bot** e em segui
 
 Ao concluir as configurações, clique em **Salvar**.
 
-#### **5. Publicar a Aplicação no Teams**
+#### 5. Publicar a aplicação no Teams
 
 Clique no botão publicar.
 
@@ -202,7 +202,7 @@ Logo em seguida, aparecerá uma mensagem notificando que a **publicação foi en
 
 **O App será enviada para aprovação**, **caso seja aprovado**, estará disponível para os usuários Teams da empresa.
 
-#### **6. Realizar a aprovação da publicação do App no Teams**
+#### 6. Realizar a aprovação da publicação do app no Teams
 
 Para aprovar a App, acesse: https://admin.teams.microsoft.com/dashboard, em seguida, clique em Teams apps.
 

@@ -12,6 +12,9 @@ locale: pt
 legacySlug:
 announcementImageID:
 announcementSynopsisPT: "Documentação da Indeva by VTEX agora integrada ao Help Center, com navegação unificada e organizada."
+tags:
+  - Melhoria
+  - VTEX Sales App
 ---
 
 Para garantir uma experiência de documentação unificada e de fácil navegação, todas as documentações da **Indeva by VTEX** foram transferidas para o [Help Center VTEX](https://help.vtex.com/pt/docs/tutorials/indeva-by-vtex-categoria).
@@ -49,6 +52,6 @@ No Help Center VTEX, você encontra as seguintes subcategorias:
 | [Usabilidade Indeva](https://help.vtex.com/pt/docs/tutorials/usabilidade-indeva-subcategoria)                 | Dicas e orientações sobre navegação e experiência de uso do produto.       | Todos os perfis            |
 | [Suporte Indeva](https://help.vtex.com/pt/docs/tutorials/suporte-indeva-subcategoria)                         | Informações sobre canais de contato e abertura de tickets.                 | Todos os perfis            |
 
-# O que precisa ser feito?
+## O que precisa ser feito?
 
 Nenhuma ação é necessária por parte dos lojistas. As documentações da Indeva já estão disponíveis no Help Center VTEX e podem ser acessadas pela categoria [Indeva by VTEX](https://help.vtex.com/pt/docs/tutorials/indeva-by-vtex-categoria).

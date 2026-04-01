@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp: Weni Express Integration'
+title: "WhatsApp: Weni Express integration"
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -25,7 +25,7 @@ There are a few prerequisites for adding a WhatsApp number via the Express Integ
 2. The number should not be installed on another app or associated with any WhatsApp account (business or personal). If it is, you will need to delete the number from the app before starting the process. See how to delete it here.
 3. The number must be enabled by the carrier to receive a call or SMS, with the SIM card inserted in a phone ready to receive the verification code that will be sent during the channel integration process.
 
-#### **Now that these prerequisites are met, it's time to start the integration!**
+## Now that these prerequisites are met, it's time to start the integration!
 
 Within the project where the integration will take place, go to the **Applications** module, and in the **Discovery** tab, you will find the WhatsApp integration card. Click on the **\+** symbol to add the integration.
 
@@ -93,7 +93,7 @@ Once you complete step 3 of the number verification and click **OK**, a new scre
 
 If at this point you notice any inconsistency, do not give up, start the process again and now it will be easier, because the information will already be filled, if you does not works, please contact our support: **suporte@weni.ai**Next, select the number that will be linked to whatsApp integration into the Weni Platform and that's it! Your new channel on the platform has already been created and you can use all the automation features.
 
-#### **Now your WhatsApp channel is integrated and ready to be customized!**
+## Now your WhatsApp channel is integrated and ready to be customized!
 
 Next, a card with your phone number will appear in the **My Apps** tab.
 

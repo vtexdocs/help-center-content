@@ -4,7 +4,7 @@ createdAt: '2026-03-05T10:00:00.000Z'
 updatedAt: '2026-03-05T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: adding-users-to-buyer-organization
+slugEN: adding-users-to-buyer-organizations
 locale: pt
 ---
 
@@ -31,9 +31,9 @@ Siga as instruções a seguir para adicionar um usuário:
 3. Clique em **Manage.**  
 4. Siga **a** ou **b** para acessar o painel de criação de usuário:  
 
-   1. Clique no botão **\+** e depois em **Add user**,  
+   a. Clique no botão **+** e depois em **Add user**,  
       ou  
-   2. Clique em **Users** e depois no botão **\+**.
+   b. Clique em **Users** e depois no botão **+**.
 
    ![adicionar-usuarios-a-organizacao-compradora_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/organization-account/adicionar-usuarios-a-organizacao-compradora_2.png)
 
@@ -61,7 +61,7 @@ Ele passará a operar dentro da Organization Unit à qual foi vinculado e poder�
 
 Ao adicionar um usuário sem email cadastrado, o administrador da organização precisa gerar um código de acesso e repassar para o usuário realizar o primeiro acesso, seguindo as instruções abaixo.
 
-1. Acesse **Organization > Users**.  
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), acesse **Organization > Users**.  
 2. Clique no menu ⋮ e depois em **Reset password**.  
 3. Clique em **Reset** para confirmar.  
 4. Copie o código gerado e envie para o usuário.

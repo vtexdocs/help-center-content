@@ -1,5 +1,5 @@
 ---
-title: 'Primeros pasos - Registro y login'
+title: "Primeros pasos - registro y login"
 id: 2h3YeiQG0EY9hMi6txHtnT
 status: PUBLISHED
 createdAt: 2025-10-16T18:24:49.333Z
@@ -17,7 +17,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 Ilhasoft ofrece una plataforma intuitiva de fácil creación de chatbots inteligentes. Con ella podrás crear toda la interacción que el robot tendra con sus usuários, asi como la definicion de los canales por el cual se comunicará.
 
-### Primeros Pasos
+## Primeros pasos
 
 Al accesar a la plataforma, usted visualizará una imagen de pantalla semejante a esta:
 
@@ -58,7 +58,7 @@ Después de elegir, podrás continuar
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_7.png)
 
-### Menus
+## Menus
 
 Después de estar debidamente registrado en su organización usted tendrá acceso a esta imagen de pantalla:
 

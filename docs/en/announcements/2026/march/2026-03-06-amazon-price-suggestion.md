@@ -10,6 +10,10 @@ author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: 2026-03-06-amazon-price-suggestion
 locale: en
 announcementSynopsisEN: 'The Amazon integration now includes price suggestions to support pricing decisions with Buy Box context.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 We launched the **Price suggestion** feature in the VTEX and Amazon integration to give sellers more visibility into the competitiveness of active SKUs and support in daily pricing decisions.

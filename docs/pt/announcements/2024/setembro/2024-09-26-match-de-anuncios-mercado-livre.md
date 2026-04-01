@@ -13,6 +13,10 @@ locale: pt
 legacySlug: match-de-anuncios-mercado-livre
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Vincule seus anúncios às oportunidades de catálogo do Mercado Livre para ganhar relevância dos produtos.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
+  - Integrações
 ---
 
 Ao realizar a [integração](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) com o Mercado Livre, o seller envia seu catálogo ao marketplace. Com os produtos enviados e anúncios criados, o Mercado Livre oferece ao seller oportunidades de match com anúncios do tipo **catálogo,** que pode ocupar um espaço de destaque no marketplace. Para analisar uma oportunidade o seller deve acessar no Admin VTEX **Marketplace > Mercado Livre> Match de anúncios** ou digite **Match de anúncios.**  

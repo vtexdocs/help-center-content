@@ -1,5 +1,5 @@
 ---
-title: 'External Service'
+title: 'External service'
 id: 26X76IsTismURqqELr6R2v
 status: PUBLISHED
 createdAt: 2025-09-15T15:46:29.264Z

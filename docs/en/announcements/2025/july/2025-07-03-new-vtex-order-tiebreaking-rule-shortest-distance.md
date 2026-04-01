@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-vtex-order-tiebreaking-rule-shortest-distance
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'A new tie-breaking rule on VTEX prioritizes sellers with closer delivery to buyers.'
+tags:
+  - Improvement
+  - Logistics
 ---
 
 To enhance buyer experience, we've implemented a new rule for the last tie-breaker criterion in [VTEX order allocation](/en/docs/tutorials/white-label-sellers-selection). Starting July 7, 2025, instead of selecting a seller randomly, the system will prioritize the shortest distance between seller and buyer.

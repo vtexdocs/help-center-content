@@ -1,5 +1,5 @@
 ---
-title: 'Agregando campos de creación de ticket en Zendesk'
+title: "Agregando campos de creación de ticket en Zendesk"
 id: 7F2pd5FE5KWPQbgcGaWVSC
 status: PUBLISHED
 createdAt: 2025-09-15T14:25:44.625Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Al crear un ticket en Zendesk, podemos enviar información adicional a través del cuerpo del mismo. Ahora es posible agregar **prioridad, asunto, descripción, campos personalizados, tags y mensaje.**
 
-### Campos:
+## Campos
 
 - **Prioridad**: Existen cuatro valores para la prioridad: Baja, Normal, Alta y Urgente. Por defecto, los cuatro valores están disponibles, pero puedes permitir que solo aparezcan los valores Normal y Alto. Para hacer esto, edita el campo de prioridad y cambia la configuración en Valores de Campo. La prioridad no es un campo obligatorio, por lo que no siempre es necesario seleccionar un valor.
 - **Asunto**: El campo Asunto es obligatorio y puede tener hasta 150 caracteres. Si el título del ticket no aparece en el asunto del ticket, este campo puede no estar visible para los usuarios finales.
@@ -33,6 +33,7 @@ Al crear un ticket en Zendesk, podemos enviar información adicional a través d
 4. Selecciona el tipo de campo que deseas crear; hay varias opciones, asegúrate de enviar el valor correctamente de acuerdo con lo que elijas.
 5. Después de esto, agrega el Nombre de visualización del campo, Descripción si lo deseas, si el campo es obligatorio, marca la casilla ""Se requiere para resolver un ticket"". Elige el permiso adecuado, generalmente la segunda opción, y haz clic en Guardar en la esquina inferior derecha.
 6. Listo, ahora ya tienes un nuevo campo personalizado, solo necesitarás el ID del campo, este ID está disponible junto al nombre de visualización de tu campo creado.
+
 - **Tags:** Las etiquetas se usan para agregar información adicional a los tickets, que se puede utilizar en el flujo de trabajo del ticket. Se envían como una lista de palabras, donde cada palabra es una etiqueta.
 - **Mensaje**: El mensaje inicial del ticket si tu ticket no tiene descripción.
 

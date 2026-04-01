@@ -13,6 +13,9 @@ locale: pt
 legacySlug: vtex-io-apps-fim-do-suporte-tecnico-para-aplicativos-legados
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'VTEX não oferece mais suporte para aplicativos legados.'
+tags:
+  - Descontinuação
+  - Storefront
 ---
 
 Como parte de nossos esforços contínuos para melhorar o desempenho da plataforma, estamos encerrando oficialmente o suporte a alguns aplicativos legados e de terceiros. Esses aplicativos não receberão mais atualizações, patches de segurança ou suporte técnico da VTEX.

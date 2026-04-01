@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp Bussiness API: Como Verificar o meu Negócio'
+title: 'WhatsApp bussiness API: Como verificar o meu negócio'
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
@@ -25,7 +25,7 @@ Embora nem todas as empresas precisem de verificação no Facebook, a verificaç
 
 A Weni, como empresa parceira oficial (BPS) da Meta, habilita o botão de verificação de negócios para sua empresa após a integração do número. (Vale lembrar que a Verificação de Negócios é o processo de checagem de documentos, não relacionado ao Selo de Conta Oficial).
 
-#### **Como acessar o Gerenciador de negócios**
+## Como acessar o Gerenciador de negócios
 
 - Acesse o Business Manager como administrador via este link: <https://business.facebook.com/settings/>
 - Selecione a conta empresarial a ser utilizada
@@ -33,7 +33,7 @@ A Weni, como empresa parceira oficial (BPS) da Meta, habilita o botão de verifi
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_1.png)
 
-#### **Passo 1**
+## Passo 1
 
  Clique em Contas de WhatsApp e escolha a conta que deseja verificar
 
@@ -52,7 +52,7 @@ Seguem alguns links importantes para o processo de Verificação de Negócios:
 - [Processo de verificação](https://www.facebook.com/business/help/2058515294227817?id=180505742745347) (é **obrigatório** ter site com a razão social, telefone, endereço comercial e CNPJ estampados na primeira página)
 - [Documentos oficiais](https://www.facebook.com/business/help/159334372093366)
 
-#### **Passo 2**
+## Passo 2
 
 Caso já tenha integrado seu número na nossa plataforma através do Menu Integrações \> Meus Aplicativos ou tenha sido aceito o vínculo entre o seu Meta Business e a Weni, o botão Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
 
@@ -60,7 +60,7 @@ Caso este botão não esteja visível, contate o suporte/seu analista responsáv
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_5.png)
 
-#### **Passo 3**
+## Passo 3
 
 Siga as instruções da Meta, leia atentamente as solicitações e preencha com dados compatíveis a sua documentação de empresa/CNPJ ou aos indicados pela Meta.
 

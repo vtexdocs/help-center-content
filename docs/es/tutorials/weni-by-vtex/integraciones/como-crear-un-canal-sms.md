@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal SMS'
+title: "Cómo crear un canal SMS"
 id: 27vYYO5fWrfZM0I4SsjHGX
 status: PUBLISHED
 createdAt: 2025-09-15T14:24:32.351Z
@@ -14,8 +14,6 @@ legacySlug: como-crear-un-canal-sms
 locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
-
-### Cómo crear un canal SMS
 
 La plataforma Weni tiene varios canales SMS que pueden configurarse para recibir y enviar mensajes y, de acuerdo con la aplicación elegida, tendrán diferentes configuraciones a realizar. Para activar un canal, ve al módulo **Aplicaciones> Otras Aplicaciones > Agregar Canal**
 

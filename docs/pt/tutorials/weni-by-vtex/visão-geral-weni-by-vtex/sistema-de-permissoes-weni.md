@@ -1,5 +1,5 @@
 ---
-title: 'Sistema de permissões Weni'
+title: "Sistema de permissões Weni"
 id: 5m0IcoiGe9A9gnyKTKUrrO
 status: PUBLISHED
 createdAt: 2025-09-10T15:14:23.490Z
@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-### Sistema de Permissões
 Dentro da plataforma Weni você é capaz de gerenciar diferentes permissões para cada usuário, divididas em dois grupos:
 
 - [Permissões da organização](#permissoes-da-organizacao)
 - [Permissões do projeto](#permissoes-do-projeto)
 
-#### Permissões da organização
+## Permissões da organização
+
 Essas permissões podem ser adicionadas na etapa de criação da ORG ou a qualquer momento pelo ícone localizado no canto superior direito dentro da ORG. **As permissões da ORG se aplicarão a todos os projetos dentro dela.**
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/sistema-de-permissoes-weni_1.png)
@@ -34,7 +34,8 @@ Atualmente, existem 3 tipos de permissões:
 - **Financeiro:** Possui acesso somente à área de faturamento.
 - **Contribuidor:** Permissão para criar novos projetos e editar conteúdo.
 
-#### Permissões do projeto
+## Permissões do projeto
+
 Também é possível adicionar permissão somente a um projeto específico e não necessariamente a ORG inteira. Para acessar as opções, basta clicar na opção "**gerenciar membros**" localizada na parte superior direita do projeto específico:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/sistema-de-permissoes-weni_3.png)

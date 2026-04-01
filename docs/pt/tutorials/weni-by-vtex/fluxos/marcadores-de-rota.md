@@ -1,5 +1,5 @@
 ---
-title: 'Marcadores de rota'
+title: "Marcadores de rota"
 id: 6Ik6WA9HMhGvPr1IsfQPJE
 status: PUBLISHED
 createdAt: 2025-09-17T14:12:14.855Z
@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Depois que criamos nossos fluxos, o nosso objetivo e ansiedade vira saber como as pessoas estão usando e reagindo as conversas. Para que você consiga em tempo real analisar como está a interação e engajamento nos seus fluxos, quais caminhos os usuários estão preferindo e conseguir utilizar esses dados para tomada de decisão, a plataforma tem algumas ferramentas para ajudar com isso.
 
-### Marcadores de rota
+## Marcadores de rota
 
 Os marcadores de rota são números guias que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Ferramenta bem interessante para identificar qual o caminho está sendo o mais procurado pelos seus usuários, além de sempre ser atualizada em tempo real. Também é possível identificar certos gargalos, como quando uma pergunta segurar um usuário tempo demais no fluxo.
 

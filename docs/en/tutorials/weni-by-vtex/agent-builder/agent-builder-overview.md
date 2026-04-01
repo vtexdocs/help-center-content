@@ -127,7 +127,7 @@ By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical el
 
 You can also use the search field to find a website.
 
-### Texts:
+### Texts
 
 On this page, you can add content and information in the **Write content** text box.
 

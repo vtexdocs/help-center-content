@@ -1,5 +1,5 @@
 ---
-title: 'Cómo conectar y hablar con el bot'
+title: "Cómo conectar y hablar con el bot"
 id: 2bL4YkQxhUVZcRuyWRcTNs
 status: PUBLISHED
 createdAt: 2025-09-15T14:00:06.153Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Alcanzar al consumidor requiere un acceso multicanal. La **comunicación multicanal** consiste en utilizar la tecnología disponible para garantizar que tu cliente reciba información personalizada a través de diferentes canales que ya utiliza en su día a día.
 
-#### Para agregar canales a tu cuenta, debes:
+Para agregar canales a tu cuenta, debes:
 
 1. Acceder a tu proyecto y hacer clic en **Aplicaciones**.
 

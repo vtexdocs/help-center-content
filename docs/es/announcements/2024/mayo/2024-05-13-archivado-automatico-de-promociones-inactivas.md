@@ -13,6 +13,9 @@ locale: es
 legacySlug: archivado-automatico-de-promociones-inactivas
 announcementImageID: 'undefined'
 announcementSynopsisES: 'La nueva función de archivado automático de promociones inactivas mejora la gestión de promociones en tu tienda.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 Con el objetivo de optimizar la experiencia de gestión de promociones, VTEX está implementando el archivado automático de promociones inactivas. Esta funcionalidad facilita la organización y el monitoreo de las promociones disponibles en tu tienda. 

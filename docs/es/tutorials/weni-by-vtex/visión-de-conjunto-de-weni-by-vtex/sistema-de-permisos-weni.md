@@ -1,5 +1,5 @@
 ---
-title: 'Sistema de Permisos Weni'
+title: "Sistema de permisos Weni"
 id: 5m0IcoiGe9A9gnyKTKUrrO
 status: PUBLISHED
 createdAt: 2025-09-10T15:14:23.490Z
@@ -15,10 +15,10 @@ locale: es
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-### Sistema de Permisos
 Dentro de la plataforma Weni, puedes gestionar diferentes permisos para cada usuario, los cuales se dividen en dos grupos:
 
-#### Permisos de la organización
+## Permisos de la organización
+
 Estos permisos pueden ser añadidos en la etapa de creación de la organización o en cualquier momento desde el ícono ubicado en la esquina superior derecha de la organización. Los permisos de la organización se aplicarán a todos los proyectos dentro de ella.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/sistema-de-permisos-weni_1.png)
@@ -31,7 +31,8 @@ Actualmente, existen 3 tipos de permisos:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/sistema-de-permisos-weni_2.png)
 
-#### Permisos del Proyecto
+## Permisos del proyecto
+
 Además de los permisos generales de la organización, puedes asignar diferentes permisos a los colaboradores de cada uno de tus proyectos. Para acceder a las opciones, simplemente haz clic en la opción "gestionar miembros" ubicada en la parte superior derecha de la tarjeta del proyecto.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/sistema-de-permisos-weni_3.png)
@@ -42,10 +43,12 @@ Se abrirá una nueva pantalla que mostrará todos los colaboradores del proyecto
 
 En total, tenemos 4 permisos, divididos en 2 grupos:
 
-##### Permisos Generales del Proyecto
+### Permisos generales del proyecto
+
 - **Moderador:** Gestiona a los miembros del proyecto y administra el proyecto.
 - **Contribuyente:** Puede editar el proyecto.
 - **Visualizador:** Solo puede visualizar el proyecto.
 
-##### Permisos del Módulo Chat
+### Permisos del módulo Chats
+
 - **Servicio humano:** Realiza atenciones en Weni Chats.

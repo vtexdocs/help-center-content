@@ -13,17 +13,20 @@ locale: en
 legacySlug: vtex-insurance-discontinuity
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX Insurance has been discontinued as a VTEX product, but will continue to exist as Assurant Digital.'
+tags:
+  - Deprecation
+  - Payments
 ---
 
 As of December 11, 2023, VTEX Insurance was deprecated as a VTEX product, but its features will be migrated to Assurant Digital.
 
 **VTEX Insurance** was an app that allowed merchants to associate their store products with warranty offers from the partner warranty company [Assurant](https://www.assurant.com.br/). This feature allowed your store to offer custom warranties to customers, providing financial protection against faulty or defective products or services.
 
-# What has changed?
+## What has changed?
 
 There will be no contractual or commercial changes since the contract was between the customers and Assurant. The main change concerns support services, which were previously provided by both companies and will now be exclusively provided by Assurant.
 
-# What needs to be done?
+## What needs to be done?
 
 No action is required, as the update will be applied automatically to all VTEX stores. Any technical questions or issues related to the product should be addressed directly with [Assurant](https://www.assurant.com.br/).
 

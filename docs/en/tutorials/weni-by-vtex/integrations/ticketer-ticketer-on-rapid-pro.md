@@ -24,7 +24,7 @@ The Ticketer Service is used to provide human assistance to users who contact yo
 - Transfer services
 - Contact information
 
-#### **Opening a ticket in a flow**
+## Opening a ticket in a flow
 
 You can quickly start a ticket at any point in your flow by adding the 'open a ticket with a human agent' action.
 
@@ -42,7 +42,7 @@ You can quickly start a ticket at any point in your flow by adding the 'open a t
 
 4\. Add any information you want your agents to see while interacting with the contact by referencing any result in the flow using '@results'.
 
-#### **Adding agents**
+## Adding agents
 
 Now, you should  add agents to handle the ticket. First, go to your workspace settings page by clicking on your name at the top right.
 
@@ -58,7 +58,7 @@ On this page you can invite your agents by entering their email address(1\), ass
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_5.png)
 
-#### **Viewing and handling tickets**
+## Viewing and handling tickets
 
 Click the ‘tickets’ tab(1\) in your workspace to view all tickets. The all folder is for all tickets while the unassigned folder is for tickets that are yet to be assigned(2\).
 
@@ -66,7 +66,7 @@ Once you choose a folder, toggle open or closed using the drop-down menu to view
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_6.png)
 
-#### **Opening and closing tickets**
+## Opening and closing tickets
 
 Once the ticket has been resolved, you can mark the tickets as resolved by clicking the checkmark on the open ticket.
 
@@ -76,13 +76,13 @@ If you need to reopen a ticket, all closed tickets have a button to reopen them 
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_8.png)
 
-#### **Contact details**
+## Contact details
 
 All customed fields for contacts are visible from the contact’s details pane, along with any information entered from the flow. To open the pane, click on the small square icon on the right of the conversation.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_9.png)
 
-#### **Assigning tickets to another agent**
+## Assigning tickets to another agent
 
 Aside from assigning tickets from the flow, you can always assign tickets directly from the Tickets tab. Right under the details icon, you will see the icon to assign.
 
@@ -92,7 +92,7 @@ Once you clock on the assign icon, you will be able to select the agent (1\), ad
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_11.png)
 
-#### **Starting a flow after a ticket is closed**
+## Starting a flow after a ticket is closed
 
 It is essential to follow up with your contacts once an agent has resolved an open ticket. You can start the contact in a flow immediately after closing a ticket. Navigate to the ""Triggers"" tab then scroll down to find Start a flow after a ticket is closed and choose your flow.
 

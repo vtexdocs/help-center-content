@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-page-for-adding-products-and-skus
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Check the improvements in your experience when adding, viewing and editing merchandise.'
+tags:
+  - New feature
+  - Catalog
 ---
 
 The product and SKU details page was redesigned to improve your experience when adding, viewing and editing products and SKUs. The new page is available in beta.

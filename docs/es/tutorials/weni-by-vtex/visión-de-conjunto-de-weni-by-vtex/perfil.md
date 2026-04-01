@@ -1,5 +1,5 @@
 ---
-title: 'Perfil'
+title: "Perfil"
 id: 6XYzUP45cu0ALmHtVXzXP0
 status: PUBLISHED
 createdAt: 2025-09-02T15:42:38.566Z
@@ -15,12 +15,12 @@ locale: es
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-#### Visión General
 Siendo una comunidad, Weni está hecha por sus usuarios y colaboradores. Por ello, la sección de Perfil le permite gestionar su cuenta y visualizar todas sus inteligencias.
 
 A continuación, aprenderá cómo administrar su cuenta en Weni.
 
-#### Editar perfil
+## Editar perfil
+
 Para acceder a la página de Perfil, vaya a la página de inicio y haga clic en el ícono en la parte superior derecha de la pantalla.
 
 ![Página de perfil](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/perfil_1.png)
@@ -31,7 +31,8 @@ Haciendo clic en el ícono a la derecha, seleccione Cuenta. En esta sección, pu
 
 > Nota: Complete los campos para guardar los datos que se actualizarán. La imagen demostrativa no contiene el contacto completo para cumplir con la Ley General de Protección de Datos.
 
-#### Cambiar contraseña
+## Cambiar contraseña
+
 Para cambiar la contraseña de su cuenta en Weni, siga los siguientes pasos:
 
 1. Acceda a la página de Perfil
@@ -42,7 +43,8 @@ Para cambiar la contraseña de su cuenta en Weni, siga los siguientes pasos:
 
 ![Cambio de contraseña 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/perfil_4.png)
 
-#### Restablecer Contraseña
+## Restablecer contraseña
+
 ¡También puede restablecer su contraseña!
 
 Vaya a la página de inicio -> Iniciar sesión -> Olvidé mi contraseña e ingrese su correo electrónico.

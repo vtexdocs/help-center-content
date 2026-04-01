@@ -1,5 +1,5 @@
 ---
-title: 'Adding Discord as a channel'
+title: "Adding Discord as a channel"
 id: 2s5uqsnula0RiNQXXJDDrL
 status: PUBLISHED
 createdAt: 2025-09-15T14:27:46.594Z
@@ -38,13 +38,13 @@ https://discord.com/developers/applications
 
 4.Click ""Reset Token"" and get your token.
 
-### Add the channel to the Weni platform
+### Add the channel to the Weni Platform
 
 1. Within the project, go to: Applications \-> Discovery \-> Add Discord.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_3.png)
 
-2. After adding it to ""My Applications,"" insert your discord\_bot\_token provided by the Discord Developer page and the Proxy URL, which is the URL where the Discord proxy is running.
+2. After adding it to ""My Applications,"" insert your discord_bot_token provided by the Discord Developer page and the Proxy URL, which is the URL where the Discord proxy is running.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_4.png)
 

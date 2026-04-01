@@ -1,5 +1,5 @@
 ---
-title: 'Configuraciones generales de Proyecto'
+title: "Configuraciones generales de proyecto"
 id: 3nSppEH6dMTGElFBtrhHGb
 status: PUBLISHED
 createdAt: 2025-09-16T15:01:05.207Z
@@ -19,7 +19,7 @@ En este artículo explicaremos cada opción de las **configuraciones generales**
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/configuraciones-generales-de-proyecto_1.png)
 
-### 1 - Configuraciones:
+## 1 - Configuraciones
 
 Al hacer clic en el ícono de la rueda dentada, accederá a un menú con 2 opciones:
 
@@ -28,7 +28,7 @@ Al hacer clic en el ícono de la rueda dentada, accederá a un menú con 2 opcio
 1. En **Exportar**, podrá exportar un flujo creado para ser utilizado en otra organización.
 2. En **Importar**, podrá importar un flujo de otra organización a la suya.
 
-### 2 - Idioma del Proyecto:
+## 2 - Idioma del proyecto
 
 Aquí podrá configurar dos o más idiomas para su organización: uno principal (utilizado por defecto en los flujos) y otros secundarios (definidos al crear el flujo).
 
@@ -36,13 +36,13 @@ Aquí podrá configurar dos o más idiomas para su organización: uno principal 
 
 Para añadir los idiomas, simplemente, ingrese el primer idioma en el campo de Flujo Predeterminado y los demás en el campo de idiomas adicionales.
 
-### 3 - Ubicación de la Organización:
+## 3 - Ubicación de la organización
 
 En esta opción, podrá elegir la ubicación donde operará su organización.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/configuraciones-generales-de-proyecto_4.png)
 
-### 4 - Correo Electrónico de la Organización
+## 4 - Correo electrónico de la organización
 
 Aquí podrá definir el correo electrónico de su organización. Todos los correos electrónicos enviados en los flujos o campañas se enviarán en nombre del correo definido aquí. Para configurarlo correctamente, siga los pasos a continuación:
 
@@ -57,30 +57,30 @@ Aquí podrá definir el correo electrónico de su organización. Todos los corre
 
 Si no desea configurar, puede dejar los campos en blanco para enviar correos electrónicos a través del HOST predeterminado de Weni.
 
-#### 5 - DT1:
+## 5 - DT1
 
 DT1 es una plataforma que realiza transferencias digitales B2B para recargas de celular y soluciones de datos. Al configurar esta opción, aparecerá una opción adicional en el flujo.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/configuraciones-generales-de-proyecto_6.png)
 
-### 6 - Token de acceso de la organización:
+## 6 - Token de acceso de la organización
 
 Aquí podrá verificar el token de su API. El token es la clave de acceso para que aplicaciones externas puedan interactuar con la API de la Plataforma Weni.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/configuraciones-generales-de-proyecto_7.png)
 
-### 7 - Prometheus
+## 7 - Prometheus
 
 Con Prometheus, puede monitorear el contador de grupo de contacto y el contador de mensajes del canal en su área de trabajo utilizando su endpoint de Prometheus. Esto le permite hacer un seguimiento a lo largo del tiempo, utilizando gráficos y alertas en un panel de control como el de Grafana.
 
-### 8 - Eventos de flujo:
+## 8 - Eventos de flujo
 
 Son eventos utilizados para la integración con algunas herramientas externas, como Zapier.
 
-### 9 - Globals:
+## 9 - Globals
 
 Son variables de almacenamiento que pueden guardar datos para ser utilizados posteriormente dentro de los flujos. Para obtener más información sobre Globals, visite el artículo sobre variables.
 
-### 10 - Archivo de Mensajes:
+## 10 - Archivo de mensajes
 
 Aquí se almacenarán los contenidos relacionados con los datos de ejecución de sus flujos."

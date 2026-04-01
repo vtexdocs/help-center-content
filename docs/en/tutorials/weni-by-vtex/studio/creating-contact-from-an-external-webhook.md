@@ -1,5 +1,5 @@
 ---
-title: 'Creating contact from an external Webhook'
+title: 'Creating contact from an external webhook'
 id: 2uiciJ2WsW6G9tfSDpvE12
 status: PUBLISHED
 createdAt: 2025-09-12T16:55:38.856Z
@@ -29,7 +29,9 @@ Webhooks are typically triggered from a particular event within the partner soft
 
 - When you create, update, and delete a Customer record;- By changing the status of a Lead record on a CRM platform;When such events are called, requests must be fired for the flow platform to update contact records, thus allowing all communication automation to be modified in real time.
 
-### **Adding Contacts**You can add a new contact by sending a POST request to that URL with the following data:
+## Adding contacts
+
+You can add a new contact by sending a POST request to that URL with the following data:
 
 - **Name** - the full name of the contact (string, optional)
 - **Language** - the preferred contact language (3-digit ISO Code, optional)
@@ -57,7 +59,7 @@ POST /api/v2/contacts.json
 }
 ```
 
-#### **Updating Contacts**
+### Updating contacts
 
 A **POST** request can also be used to update an existing contact if you specify by URL both your UUID and one of its URNs. Only those fields included in the body will be updated in the contact, the remaining ones will remain intact.
 
@@ -86,7 +88,7 @@ POST ​/​api​/​v2​/​contacts​.​json​?​urn​=​tel​%​3A�
 }
 ```
 
-#### **Delete Contacts**
+### Delete contacts
 
 A DELETE request can also be used to delete an existing contact if you specify in the URL both your UUID and one of your URNs.
 
@@ -100,7 +102,7 @@ DELETE /api/v2/contacts.json?urn=tel%3A%2B250783835665
 
 You will receive a 204 response if your contact is deleted, or a 404 response if no contact is found with the passed parameters.
 
-#### **Adding custom fields**
+### Adding custom fields
 
 A POST request can be used to create a new contact field. You don't need to specify a key, we'll generate one for you.
 
@@ -128,7 +130,7 @@ You will receive an object (with the new field key) if the response is successfu
 }
 ```
 
-#### **Adding a Contact Group**
+### Adding a contact group
 
 A **POST** request can be used to create a new contact group. Do not specify a UUID, we will generate one for you.
 
@@ -154,7 +156,7 @@ You will receive a group object if the response is successful:
 }
 ```
 
-#### **Updating a group**
+### Updating a group
 
 A **POST** request can be used to update an existing contact group if you specify your UUID in the URL.
 
@@ -178,7 +180,7 @@ You will receive an updated group object if the response is successful:
 }
 ```
 
-#### **Deleting a Group**
+### Deleting a group
 
 A DELETE request can be used to delete a contact group if you specify your UUID in the URL.
 
@@ -192,6 +194,6 @@ Example:
 
 You will receive a 204 response if the group is deleted, or a 404 response if no group is found.
 
-#### **Conclusion**
+### Conclusion
 
 In the end, your platform will be able to synchronize data in real time with our flow platform, thus allowing the user to use the power of automations and Artificial Intelligence to communicate more closely and continuously with their audience.

@@ -13,6 +13,10 @@ locale: es
 legacySlug: nuevo-flujo-de-cancelacion-de-pedidos-en-amazon
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora, los pedidos cancelados en Amazon se cancelan automáticamente en el Admin VTEX.'
+tags:
+  - Mejora
+  - Marketplace
+  - Integraciones
 ---
 
 Hemos desarrollado un nuevo flujo de cancelación de pedidos en la integración entre VTEX y [Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP), automatizando el proceso y eliminando la necesidad de realizar cancelaciones manuales.  

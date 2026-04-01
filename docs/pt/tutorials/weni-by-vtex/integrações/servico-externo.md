@@ -1,5 +1,5 @@
 ---
-title: 'Serviço Externo'
+title: "Serviço externo"
 id: 26X76IsTismURqqELr6R2v
 status: PUBLISHED
 createdAt: 2025-09-15T15:46:29.264Z
@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-# Configuração de Canal Externo
-
 Esta documentação descreve como configurar e integrar um **canal externo** para que a plataforma receba e envie mensagens usando um serviço externo. Ela complementa o material existente e detalha os campos e opções disponíveis para que a conexão funcione corretamente.
 
 ## Visão geral
 
 Um **canal externo** é uma integração que permite que o sistema de atendimento se conecte a serviços de mensageria de terceiros (ex.: telefones, redes sociais, bots, etc.). Para cada canal é preciso configurar alguns campos básicos e opções, como o tipo de identificador (URN Type), endereço, método HTTP, codificação e tipo de conteúdo. Este documento explica o propósito de cada campo, quando usá-los e quais são os valores disponíveis.
 
-## Tipo de URN (URN Type)
+## Tipo de URN (URN type)
 
 O campo **Tipo de URN** indica qual forma de identificador será usada para enviar ou receber mensagens. Cada tipo corresponde à forma como o contato do usuário é representado no canal externo (por exemplo, número de telefone, identificador do WhatsApp, handle do Twitter, etc.). A lista completa de opções é exibida na interface e inclui diversos canais suportados.
 
@@ -31,18 +29,18 @@ O valor **Identificador Externo** (destacado na lista) é o mais indicado quando
 
 ### Principais tipos disponíveis
 
-| Tipo de URN | Exemplo de uso |
-|-------------|----------------|
-| **Número de telefone** | Mensagens SMS ou ligações |
-| **Identificador do Facebook** | Messenger/Chat do Facebook |
-| **Instagram identifier** | Instagram Direct |
-| **Twitter handle / ID** | Contas no Twitter |
-| **Identificador Viber / LINE** | Apps de mensagens variados |
-| **Identificador do Telegram** | Bots/usuários do Telegram |
-| **Email** | Contato via correio eletrônico |
-| **Identificador do WhatsApp** | Integrações via WhatsApp |
-| **Identificador do Discord / Slack / Teams** | Plataformas de chat corporativo |
-| **Identificador Freshchat, VK, Rocket.Chat, JioChat, WeChat, Firebase Cloud Messaging, WeniWebChat, etc.** | Outros serviços suportados |
+| Tipo de URN                                                                                                | Exemplo de uso                  |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **Número de telefone**                                                                                     | Mensagens SMS ou ligações       |
+| **Identificador do Facebook**                                                                              | Messenger/Chat do Facebook      |
+| **Instagram identifier**                                                                                   | Instagram Direct                |
+| **Twitter handle / ID**                                                                                    | Contas no Twitter               |
+| **Identificador Viber / LINE**                                                                             | Apps de mensagens variados      |
+| **Identificador do Telegram**                                                                              | Bots/usuários do Telegram       |
+| **Email**                                                                                                  | Contato via correio eletrônico  |
+| **Identificador do WhatsApp**                                                                              | Integrações via WhatsApp        |
+| **Identificador do Discord / Slack / Teams**                                                               | Plataformas de chat corporativo |
+| **Identificador Freshchat, VK, Rocket.Chat, JioChat, WeChat, Firebase Cloud Messaging, WeniWebChat, etc.** | Outros serviços suportados      |
 
 > **Recomendação:** se você não tiver certeza de qual tipo escolher ou se o canal não se enquadrar em nenhuma categoria específica, selecione **Identificador Externo**. Esse tipo é genérico e permite identificar contatos de diferentes origens.
 
@@ -60,25 +58,25 @@ O campo **HTTP Method** define como as mensagens serão enviadas ao serviço ext
 
 > **Nota:** ao escolher **POST** ou **PUT** você deve definir também o **Content-Type** (veja a seção 5). Para **GET** o campo Content-Type não é obrigatório.
 
-## Codificação (Encoding)
+## Codificação (encoding)
 
 O campo **Codificação** controla como os caracteres da mensagem são processados antes do envio. Isso é útil para evitar erros em plataformas que têm limitações de caracteres ou de texto. As opções são:
 
-| Codificação | Quando utilizar |
-|-------------|-----------------|
-| **Codificação Padrão** | Envia o texto sem alterações ou codificações extras. Indicado para a maioria dos canais. |
+| Codificação                 | Quando utilizar                                                                                                                                                                                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Codificação Padrão**      | Envia o texto sem alterações ou codificações extras. Indicado para a maioria dos canais.                                                                                                                         |
 | **Codificação Inteligente** | Efetua substituições e remoção de símbolos potencialmente problemáticos (por exemplo, convertendo emojis em textos). Útil quando o canal externo possui limitações de caracteres ou não suporta certos símbolos. |
-| **Codificação Unicode** | Converte a mensagem para a forma unicode, preservando todos os caracteres especiais. Use quando o canal exige envio de caracteres em formato unicode |
+| **Codificação Unicode**     | Converte a mensagem para a forma unicode, preservando todos os caracteres especiais. Use quando o canal exige envio de caracteres em formato unicode                                                             |
 
-## Content-Type
+## Content-type
 
 O campo **Content type** informa ao serviço externo em qual formato os dados estão sendo enviados. Ele **só é obrigatório** quando o método HTTP selecionado é **POST** ou **PUT**. Para requisições **GET** o campo pode ficar em branco. As opções disponíveis são:
 
-| Content-Type | Descrição |
-|--------------|-----------|
+| Content-Type                                           | Descrição                                                                                                                            |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **URL codificado – application/x-www-form-urlencoded** | Envia os dados no corpo da requisição usando pares chave=valor, codificados como formulário. É o formato padrão de formulários HTML. |
-| **JSON – application/json** | Formato JSON, recomendável para APIs modernas. |
-| **XML – text/xml; charset=utf-8** | Formato XML, utilizado em algumas integrações legadas. |
+| **JSON – application/json**                            | Formato JSON, recomendável para APIs modernas.                                                                                       |
+| **XML – text/xml; charset=utf-8**                      | Formato XML, utilizado em algumas integrações legadas.                                                                               |
 
 > **Dica:** sempre verifique a documentação do serviço externo para saber qual Content-Type ele espera. Para APIs REST é comum utilizar application/json.
 
@@ -109,15 +107,15 @@ Abaixo está um exemplo de corpo de requisição (request body) enviado para o c
 
 Esses campos significam:
 
-| Campo | Descrição |
-|-------|-----------|
-| ID | identificador único da mensagem ou interação |
-| text | conteúdo da mensagem que está sendo enviada ao serviço externo |
-| to / to_no_plus | identificador do destinatário, podendo incluir (to) ou não (to_no_plus) o sinal +. O formato depende do tipo de URN escolhido |
-| from / from_no_plus | identificador do remetente, no mesmo padrão de to |
-| quick_replies | estrutura de botões rápidos caso o canal suporte respostas pré-definidas |
+| Campo               | Descrição                                                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ID                  | identificador único da mensagem ou interação                                                                                  |
+| text                | conteúdo da mensagem que está sendo enviada ao serviço externo                                                                |
+| to / to_no_plus     | identificador do destinatário, podendo incluir (to) ou não (to_no_plus) o sinal +. O formato depende do tipo de URN escolhido |
+| from / from_no_plus | identificador do remetente, no mesmo padrão de to                                                                             |
+| quick_replies       | estrutura de botões rápidos caso o canal suporte respostas pré-definidas                                                      |
 
-## Cabeçalho de autorização (Authorization)
+## Cabeçalho de autorização (authorization)
 
 Alguns serviços externos exigem um token ou chave para autenticação. Se este for o caso, utilize o campo **Valor de Autorização do Cabeçalho** para informar o valor do token. Esse valor será enviado no cabeçalho HTTP com a chave Authorization em todas as requisições originadas do canal.
 
@@ -129,11 +127,11 @@ Authorization: Bearer 12345
 
 Deixe este campo em branco caso o serviço externo não exija autenticação via cabeçalho.
 
-## URLs de envio e métodos HTTP
+## Urls de envio e métodos HTTP
 
 A forma de construção da requisição varia de acordo com o método HTTP selecionado:
 
-### GET (somente Enviar URL)
+### Get (somente enviar URL)
 
 Se o método escolhido for **GET**, somente o campo **Enviar URL** estará disponível.
 
@@ -147,7 +145,7 @@ https://send.weni.ai/api/v2?from={{from}}&text={{text}}&to={{to}}{{quick_replies
 
 Na chamada acima, a plataforma realizará um GET para a URL informada sempre que houver uma mensagem de saída, substituindo as variáveis pelos valores reais. Não existe corpo de solicitação no método GET e, portanto, o Content-Type é ignorado.
 
-### POST ou PUT (Enviar URL + Corpo da solicitação)
+### Post ou put (enviar URL + corpo da solicitação)
 
 Quando o método selecionado for **POST** ou **PUT**, além do campo **Enviar URL** surge o campo **Corpo da solicitação**.
 
@@ -187,13 +185,13 @@ id={{id}}&text={{text}}&to={{to}}&to_no_plus={{to_no_plus}}&from={{from}}&from_n
 
 ## Checagem de resposta (mt)
 
-O campo **Checagem de resposta** (por vezes exibido como **MT** ou *match text*) permite definir uma string ou expressão que será procurada na resposta do serviço externo para determinar se a requisição foi bem-sucedida.
+O campo **Checagem de resposta** (por vezes exibido como **MT** ou _match text_) permite definir uma string ou expressão que será procurada na resposta do serviço externo para determinar se a requisição foi bem-sucedida.
 
 Por exemplo, se o serviço externo retorna `{"status":"OK"}` ao receber uma mensagem com sucesso, você pode preencher o campo com OK. Assim, a plataforma considerará a requisição bem-sucedida quando a resposta conter esse texto.
 
 Caso o campo seja deixado em branco, a plataforma validará o sucesso apenas pelo status HTTP 200.
 
-## URLs de retorno (callbacks) da plataforma
+## Urls de retorno (callbacks) da plataforma
 
 Após configurar o canal externo, a plataforma gera um conjunto de URLs que devem ser utilizadas pelo seu serviço para garantir o ciclo completo de mensagens. Essas URLs estão disponíveis na seção **External API Configuration** e correspondem a pontos de retorno (callbacks) que o seu serviço deve chamar quando determinados eventos ocorrerem.
 

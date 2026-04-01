@@ -13,6 +13,9 @@ locale: en
 legacySlug: conversation-tracker-new-email-expiration
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The Conversation Tracker alternate email address now expires when the order flow ends.'
+tags:
+  - Breaking change
+  - Orders
 ---
 
 To improve the VTEX customer experience, the expiration time of the Conversation Tracker's alternate email address has been shortened. This change adds an extra layer of security.

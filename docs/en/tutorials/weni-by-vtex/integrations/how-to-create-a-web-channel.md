@@ -1,5 +1,5 @@
 ---
-title: 'How to Create a Web Channel'
+title: "How to Create a Web Channel"
 id: 1E5AfNZbC5NzbUokYCICW4
 status: PUBLISHED
 createdAt: 2025-09-15T14:56:55.893Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 When integrating the web channel, you can customize aspects of the Web Chat such as color, message spacing time, message indicators, avatar, and much more! This way, you ensure that the Weni Platform offers everything tailored to your brand. Below, we’ll guide you step by step to complete the integration.​
 
-#### **Creating a Web Channel**
+## Creating a Web Channel
 
 1. **Access the organization**: To integrate your chatbot with a web channel, first enter the organization where the project is located.
 2. **Locate the project**: Find the project you want to integrate with the web channel.
@@ -28,6 +28,7 @@ When integrating the web channel, you can customize aspects of the Web Chat such
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-web-channel_1.png)
 
 6. When you open the Weni Web Chat customization panel, you will have the following options to configure:
+
 - **Chat Title**;
 - **Chat Subtitle** (optional);
 - **Trigger Message**: When enabled, it is the first message your chatbot sends (optional);

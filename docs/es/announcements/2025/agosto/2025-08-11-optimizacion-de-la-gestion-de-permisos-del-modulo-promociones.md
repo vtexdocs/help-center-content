@@ -13,6 +13,10 @@ locale: es
 legacySlug: optimizacion-de-la-gestion-de-permisos-del-modulo-promociones
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Cambio en los permisos del Admin para editar promociones con métodos de envío y pago.'
+tags:
+  - Mejora
+  - Promociones
+  - Identity
 ---
 
 Para reforzar la seguridad de la plataforma y garantizar una gestión de acceso adecuada, cambiamos los permisos necesarios para editar ciertas condiciones de promociones. Ahora, ciertas acciones en el formulario de promociones requieren [recursos adicionales de License Manager](/es/docs/tutorials/recursos-del-license-manager).

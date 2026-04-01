@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp business API pricing'
+title: "WhatsApp business API pricing"
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
@@ -21,21 +21,21 @@ WhatsApp charges per conversation, not per message sent. Conversations consist o
 
 Company-initiated conversations are divided into three categories: utility, authentication, and marketing. User-initiated conversations are referred to as service conversations.
 
-#### **Company-initiated conversations**
+## Company-initiated conversations
 
 - **Utility**: This is used to facilitate a request, transaction, or update on ongoing transactions, including post-sale notifications and recurring invoice statements.
 - **Authentication**: This is used for user authentication with one-time passwords in various stages of the login process. For example, account verification, account recovery, and integrity challenges.
 - **Marketing**: This is used for promotions or offers, information updates, or invitations. Conversations that do not fall under the utility or authentication categories will be considered marketing.
 
-#### **User-initiated conversations**
+## User-initiated conversations
 
 - **Service**: These are conversations initiated by the user, which help customers resolve their questions.
 
-#### **Conversation charges**
+## Conversation charges
 
 Sending multiple templates of the same category in an open conversation will not result in additional charges, and service conversations will only be initiated when there are no open conversation windows. The company can respond to the user with a free-format message during the 24-hour customer service window.
 
-#### **Exceptions**
+## Exceptions
 
 Free-entry point conversations occur when the customer contacts the company through a call-to-action button in click-to-WhatsApp ads or Facebook Pages. Since the WhatsApp Business user is already being charged for the ad published on social media, they will not be charged for any message templates sent in that conversation within a 72-hour period.
 
@@ -43,11 +43,11 @@ The initiated conversation is free, but the ad is charged.
 
 Remember that: Each WhatsApp Business account (WABA) has 1,000 free user-initiated conversations per month, regardless of the number of phone numbers included. The free conversation limit is reset each month, according to the time zone associated with the WABA.
 
-#### **Conversation duration**
+## \*\*Conversation duration
 
 Marketing, utility, authentication, and service conversations last for 24 hours (unless they are free-entry point conversations — from click-to-WhatsApp ads or Facebook Pages). After this period, the time will reset, and any message sent will start a new window, being charged according to the category.
 
-#### **Pricing**
+## Pricing
 
 Company-initiated conversations:
 

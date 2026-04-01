@@ -13,6 +13,9 @@ locale: en
 legacySlug: google-catalog-migration
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Integrate with Google Shopping without losing the relevance of your ads.'
+tags:
+  - New feature
+  - Integrations
 ---
 
 We have developed the **Google catalog migration** feature to map and match sellers' products in the VTEX catalog with their ads on Google Shopping.
