@@ -20569,14 +20569,14 @@
           "children": [
             {
               "name": {
-                "en": "Branching AND versioning",
-                "es": "Ramificacion y versionado",
-                "pt": "Branching e versionamento"
+                "en": "Branching and versioning",
+                "es": "Ramificación y versionado",
+                "pt": "Branching and versioning"
               },
               "slug": {
-                "en": "branching-and-versioning",
-                "es": "ramificacion-y-versionado",
-                "pt": "branching-e-versionamento"
+                "en": "branching-and-versioning-subcategory",
+                "es": "ramificacion-y-versionado-subcategoria",
+                "pt": "branching-and-versioning"
               },
               "origin": "",
               "type": "category",
