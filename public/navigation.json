@@ -20569,6 +20569,37 @@
           "children": [
             {
               "name": {
+                "en": "Branching AND versioning",
+                "es": "Ramificacion y versionado",
+                "pt": "Branching e versionamento"
+              },
+              "slug": {
+                "en": "branching-and-versioning",
+                "es": "ramificacion-y-versionado",
+                "pt": "branching-e-versionamento"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Managing versions and branches",
+                    "es": "Gestionar versiones y ramas",
+                    "pt": "Gerenciando versões e branches"
+                  },
+                  "slug": {
+                    "en": "managing-versions-and-branches",
+                    "es": "gestionando-versiones-y-branches",
+                    "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Content Management overview",
                 "es": "Información general de la gestión de contenidos",
                 "pt": "Visão geral do CMS"
