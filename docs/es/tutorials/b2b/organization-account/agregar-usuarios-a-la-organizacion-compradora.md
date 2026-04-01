@@ -26,7 +26,7 @@ Sigue las instrucciones a continuación para agregar un usuario:
 
 2. En el menú superior, haz clic en **Empresa**. Se mostrará el panel de la organización.
 
-   ![adicionar-usuarios-a-organizacao-compradora_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/organization-account/agregar-usuarios-a-la-organizacion-compradora_1.png)
+   ![agregar-usuarios-a-la-organizacion-compradora_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/agregar-usuarios-a-la-organizacion-compradora_1.png)
 
 3. Haz clic en **Gestionar.**
 
@@ -36,7 +36,7 @@ Sigue las instrucciones a continuación para agregar un usuario:
       o
    2. Haciendo clic en **Usuarios** y luego en el botón **\+**.
 
-   ![adicionar-usuarios-a-organizacao-compradora_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/organization-account/agregar-usuarios-a-la-organizacion-compradora_2.png)
+   ![agregar-usuarios-a-la-organizacion-compradora_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/agregar-usuarios-a-la-organizacion-compradora_2.png)
 
 5. Completa la información del nuevo usuario:
 
