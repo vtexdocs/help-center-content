@@ -19,7 +19,7 @@ O Instagram já atingiu o marco de 1.4 bilhão de usuários ativos, sendo que ma
 
 Agora, imagine se sua instituição não é presente, ativa e eficiente nesse canal? Essa não é mais uma mera rede social para compartilhar fotos e vídeos da rotina, mas sim uma vitrine de fazer negócios e parcerias importantes.
 
-E agora você pode elevar o nível e o potencial do seu atendimento criando um canal que integra o seu Instagram à Weni Plataforma.
+E agora você pode elevar o nível e o potencial do seu atendimento criando um canal que integra o seu Instagram à VTEX Agentic CX Platform Plataforma.
 
 Dessa forma, você cria mais engajamento e interação com seus seguidores e potenciais clientes e parceiros, aumentando as chances de fechar novos projetos enquanto reduz custos operacionais com atendimento.
 

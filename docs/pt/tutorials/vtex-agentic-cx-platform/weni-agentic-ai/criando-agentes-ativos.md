@@ -195,6 +195,6 @@ Após o pré‑processamento, o agente percorre as regras definidas no YAML em o
 
 ## Conclusão
 
-Agentes ativos permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável entre Weni e VTEX para informar seus clientes no momento certo.
+Agentes ativos permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável para informar seus clientes no momento certo.
 
 > [Aqui](https://github.com/weni-ai/weni-active-agents-example) você encontrará um exemplo de código de agente ativo.

@@ -15,15 +15,15 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Neste artigo, mostraremos de forma simples como trazer contatos da sua plataforma externa para a Plataforma Weni.
+Neste artigo, mostraremos de forma simples como trazer contatos da sua plataforma externa para a Plataforma VTEX Agentic CX Platform.
 
-A Plataforma Weni possui dezenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que podem ser consumidas para diversas funcionalidades. Neste artigo, focaremos estritamente na integração de contatos para automatizar sua comunicação.
+A Plataforma VTEX Agentic CX Platform possui dezenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que podem ser consumidas para diversas funcionalidades. Neste artigo, focaremos estritamente na integração de contatos para automatizar sua comunicação.
 
 Contatos são os registros de cada pessoa dentro de um determinado canal de comunicação. Neles, podem ser salvos campos padrão, como nome, e-mail, telefone e WhatsApp, assim como diversos campos personalizados que podem ser criados e utilizados livremente na comunicação.
 
 Normalmente, os webhooks são disparados a partir de um determinado evento dentro do software parceiro, como, por exemplo:
 
-- Ao criar, atualizar e deletar um registro de cliente;- Ao mudar o status de um registro de lead em uma plataforma CRM.Quando tais eventos ocorrem, devem ser disparadas requisições para a Plataforma Weni atualizar os registros de contatos, permitindo que toda a automação de comunicação seja modificada em tempo real.
+- Ao criar, atualizar e deletar um registro de cliente;- Ao mudar o status de um registro de lead em uma plataforma CRM.Quando tais eventos ocorrem, devem ser disparadas requisições para a Plataforma VTEX Agentic CX Platform atualizar os registros de contatos, permitindo que toda a automação de comunicação seja modificada em tempo real.
 
 ## Adicionando Contatos
 Você pode adicionar um novo contato enviando uma requisição **POST** para essa URL com os seguintes dados:

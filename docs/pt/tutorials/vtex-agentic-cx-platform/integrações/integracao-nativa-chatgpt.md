@@ -15,33 +15,33 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Com a integração do Weni com o ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
+Com a integração da VTEX Agentic CX Platform com o ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
 
 Com o ChatGPT é possível proporcionar aos seus clientes respostas instantâneas, precisas e envolventes para suas perguntas e necessidades, a qualquer hora e em qualquer lugar. Ele é capaz de compreender nuances da linguagem humana, aprendendo e adaptando-se constantemente.
 
-Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pela Weni, ajuda você a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
+Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pela VTEX Agentic CX Platform, ajuda você a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
 
-Para começar, acesse a Weni Plataforma. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Serviços Externos**, clique no botão ""\+"" para adicionar o ChatGPT:
+Para começar, acesse a VTEX Agentic CX Platform. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Descoberta**, clique no botão procure por "ChatGPT".
 
-Preencha os campos com **Nome**, **Token** (seu token de consumo da API do chatGPT) e **Versão**. E para concluir essa etapa clique em continuar: 
+Preencha os campos com **Nome**, **Token** (seu token de consumo da API do chatGPT) e **Versão**. Para concluir essa etapa clique em continuar.
 
 Após concluir os passos acima é necessário configurar o funcionamento do ChatGPT na aba **Canais**. Dessa maneira nessa etapa é preciso **definir como o ChatGPT vai se comportar** quando for responder as pessoas na área de fluxos.
 
 ## Regras
 
-Preencha o primeiro campo definindo as regras que são **instruções ou diretrizes definidas de forma explícita para orientar como o seu chatbot deve se portar**. As regras são usadas para definir uma personalidade e tom de voz do seu chatbot. Veja um exemplo:
+Preencha o primeiro campo definindo as regras que são **instruções ou diretrizes definidas de forma explícita para orientar como o seu chatbot deve se portar**. As regras são usadas para definir uma personalidade e tom de voz do seu chatbot, como os exemplos abaixo.
 
-> Agora você se chama Duda, e você é uma assistente pessoal na Weni.
+Agora você se chama Duda, e você é uma assistente pessoal na VTEX Agentic CX Platform.
 
-> Você é bem séria e pragmática. Tem 35 anos e possui 2 filhos, então sabe que seu tempo é precioso. Ama rock inglês dos anos 70 e gosta de ler livros. Gosta de estar sempre por dentro de todas as notícias do mundo.
+Você é bem séria e pragmática. Tem 35 anos e possui 2 filhos, então sabe que seu tempo é precioso. Ama rock inglês dos anos 70 e gosta de ler livros. Gosta de estar sempre por dentro de todas as notícias do mundo.
 
-> Você também é uma vendedora das soluções da empresa, mas não compra nada de outra empresa e nem faz solicitações de compra. Suas respostas são sempre formais e diretas.
+Você também é uma vendedora das soluções da empresa, mas não compra nada de outra empresa e nem faz solicitações de compra. Suas respostas são sempre formais e diretas.
 
 ## Base de conhecimento
 
-O campo **base de conhecimento precisa ser preenchido com perguntas e respostas frequentes**, podendo conter até **10 mil caracteres** de resumo do seu negócio. No caso de e-commerces, por exemplo, podem ser incluídos conteúdos como:
+O campo base de conhecimento precisa ser preenchido com perguntas e respostas frequentes, podendo conter até **10 mil caracteres** de resumo do seu negócio. No caso de e-commerces, por exemplo, podem ser incluídos conteúdos como:
 
-> Bem-vinda ao nosso e-commerce de vestuário feminino! Aqui, você encontrará uma seleção variada de roupas femininas, desde peças casuais até looks elegantes para todas as ocasiões. Nossa coleção é cuidadosamente escolhida para atender a diferentes estilos e tamanhos. Trabalhamos com marcas reconhecidas, garantindo qualidade e conforto em cada peça. Navegue em nosso catálogo com facilidade e encontre vestidos, blusas, calças e acessórios modernos. Oferecemos uma experiência de compra segura, entrega rápida e suporte ao cliente eficiente. Sua satisfação é nossa prioridade, por isso temos uma política de troca e devolução simplificada. Renove seu guarda-roupa e sinta-se confiante com nossas roupas femininas. Obrigada por escolher nosso e-commerce, estamos aqui para tornar sua experiência única e agradável!
+Bem-vinda ao nosso e-commerce de vestuário feminino! Aqui, você encontrará uma seleção variada de roupas femininas, desde peças casuais até looks elegantes para todas as ocasiões. Nossa coleção é cuidadosamente escolhida para atender a diferentes estilos e tamanhos. Trabalhamos com marcas reconhecidas, garantindo qualidade e conforto em cada peça. Navegue em nosso catálogo com facilidade e encontre vestidos, blusas, calças e acessórios modernos. Oferecemos uma experiência de compra segura, entrega rápida e suporte ao cliente eficiente. Sua satisfação é nossa prioridade, por isso temos uma política de troca e devolução simplificada. Renove seu guarda-roupa e sinta-se confiante com nossas roupas femininas. Obrigada por escolher nosso e-commerce, estamos aqui para tornar sua experiência única e agradável!
 
 A base de conhecimento é o conjunto geral de conhecimento que o modelo possui e utiliza para entender e gerar respostas em geral.
 
@@ -51,7 +51,7 @@ O exemplo foi formatado em texto corrido, sem interrupções, mas pode ser escri
 
 ## Prompts
 
-Os prompts são **instruções específicas fornecidas para orientar o chatGPT a gerar respostas direcionadas** a contextos ou tarefas específicas.
+Os prompts são **instruções específicas fornecidas para orientar o ChatGPT a gerar respostas direcionadas** a contextos ou tarefas específicas.
 
 Após definir a base de conteúdo é preciso inserir os prompts, que são a instruções detalhadas, estímulos ou sugestões fornecidas para responder uma pergunta específica. Os prompts podem ser utilizados para incentivar os clientes a realizarem ações específicas ou para fornecer informações relevantes durante a conversa. Alguns exemplos de prompts são:
 
@@ -96,6 +96,6 @@ De acordo com a imagem, você deve configurar o cartão da seguinte forma:
 3. Escolher qual prompt usar: Se você só tiver 1 prompt configurado, pode ignorar essa etapa.
 4. Marcar um check se deseja enviar o histórico das mensagens do usuário com o bot na requisição;
 5. Definir o input de mensagem do usuário: pode manter @input.text, porém se quiser buscar a resposta do usuário em determinada etapa conversacional, você pode adicionar uma expressão para buscar esse valor. O input de texto vai buscar a última mensagem que o usuário digitou em seu canal;
-6. Defina um nome para salvar o resultado do seu cartão de integração com o chatGPT. Esse nome será usado posteriormente na expressão que vai consumir a resposta gerada pela inteligência: @results.retorno.extra.choices.0\.message.content
+6. Defina um nome para salvar o resultado do seu cartão de integração com o chatGPT. Esse nome será usado posteriormente na expressão que vai consumir a resposta gerada pela inteligência: @results.retorno.extra.choices.0.message.content
 
 [Clique para baixar um fluxo de exemplo](https://github.com/weni-ai/weni-responde/blob/main/Integra%C3%A7%C3%A3o%20Nativa%20com%20ChatGPT.json), depois é só importar no seu projeto.

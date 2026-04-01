@@ -35,7 +35,7 @@ Na criação de ticket no Zendesk podemos enviar algumas informações extras vi
 - **Tags**: As tags são usadas para adicionar informações adicionais aos tickets, que podem ser usadas no fluxo de trabalho do ticket. São enviadas como uma lista de palavras, onde cada palavra é uma tag.
 - **Message**: Mensagem inicial do Ticket caso seu ticket não possua descrição.
 
-No JSON abaixo está um exemplo de como você deverá enviar no body do card de Open ticket da plataforma Weni:
+No JSON abaixo está um exemplo de como você deverá enviar no body do card de Open ticket da plataforma VTEX Agentic CX Platform:
 
 ```
 {""message"" : ""Cookies"", ""priority"": ""high"", ""subject"": ""Where are my cookies?"", ""description"": ""I want to know where is my cookie."", ""custom_fields"": [{""id"":""11457109235981"",""value"":""field01""}], ""tags"": [""tag01"",""tag02""]}

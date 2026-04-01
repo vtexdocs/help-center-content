@@ -60,7 +60,7 @@ Para que o canal seja exibido completamente, será necessário entrar em contato
 
 Depois de promovido, você pode compartilhá-lo por meio dos canais de mídia social do cliente para alcançar o público de forma orgânica. Com ferramentas como stickers e anúncios no Viber, você poderá reunir centenas de milhares de inscritos no seu chatbot, aos quais é possível enviar mensagens diretas e personalizadas.
 
-Através do chatbot, você também terá um período de 24 horas a partir da última interação do usuário com o bot para enviar mensagens gratuitas pela plataforma Weni, onde os usuários podem não só consultar e obter informações, mas também optar por comprar produtos, por exemplo. Você também pode enviar mensagens de saída, mas elas são pagas.
+Através do chatbot, você também terá um período de 24 horas a partir da última interação do usuário com o bot para enviar mensagens gratuitas pela plataforma VTEX Agentic CX Platform, onde os usuários podem não só consultar e obter informações, mas também optar por comprar produtos, por exemplo. Você também pode enviar mensagens de saída, mas elas são pagas.
 
 Em relação ao pacote de stickers, aqui estão os passos que você precisa seguir com a equipe de suporte do Viber:
 

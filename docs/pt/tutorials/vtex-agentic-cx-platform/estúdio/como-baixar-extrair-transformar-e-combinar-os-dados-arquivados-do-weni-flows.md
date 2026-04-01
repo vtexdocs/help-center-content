@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Algo muito importante para você saber sobre a coleta de dados na plataforma Weni é que os dados ficam armazenados por 180 dias. Logo, após este período os dados são arquivados na plataforma e armazenados em formato Json no menu Archives.
+Algo muito importante para você saber sobre a coleta de dados na plataforma VTEX Agentic CX Platform é que os dados ficam armazenados por 180 dias. Logo, após este período os dados são arquivados na plataforma e armazenados em formato Json no menu Archives.
 
 ## Obtendo os arquivos através do Fluxo de automação
 

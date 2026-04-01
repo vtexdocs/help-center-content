@@ -24,7 +24,7 @@ Aqui estão todas as pessoas com quem você manterá contato. Existem duas manei
 
 Ao selecionar a opção **Contatos**, você irá se deparar com as seguintes funcionalidades:
 
-- **Importar Contatos**: Botão para importar uma planilha (com algumas regras de construção) com contatos externos a plataforma. Se o usuário estiver nessa planilha, a plataforma Weni o reconhece e consegue tratá-lo pelo nome cadastrado desde a primeira mensagem enviada pela plataforma.
+- **Importar Contatos**: Botão para importar uma planilha (com algumas regras de construção) com contatos externos a plataforma. Se o usuário estiver nessa planilha, a plataforma VTEX Agentic CX Platform o reconhece e consegue tratá-lo pelo nome cadastrado desde a primeira mensagem enviada pela plataforma.
 - **Criar Contatos**: Permite criar um contato novo do zero dentro da plataforma.
 - **Criar grupo**: Possibilita criar um nome para um agrupamento de contatos.
 - **Grupos**: Lista de grupos, com os respectivos agrupamentos criados naquela organização. Podem ser **Grupos Estáticos** e **Grupos Dinâmicos**.

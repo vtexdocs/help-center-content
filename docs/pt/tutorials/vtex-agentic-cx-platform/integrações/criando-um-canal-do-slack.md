@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Iniciando
+## Iniciando
 
 1. Com sua conta e seu workspace já criado, acesse <https://api.slack.com/apps> e acione o botão para criar um novo app.
 
@@ -31,7 +31,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 7. Suba a página até encontrar o botão `Install to Workspace` e o acione para instalar o app do bot para o seu workspace.
 
-8. Copie os tokens ""User OAuth Token"" e ""Bot User OAuth Token"" para inserir no formulário de criação do canal para o bot do Slack na plataforma Weni.
+8. Copie os tokens ""User OAuth Token"" e ""Bot User OAuth Token"" para inserir no formulário de criação do canal para o bot do Slack na VTEX Agentic CX Platform.
 
 9. Na página de apps do Slack, acesse o menu Basic Information para copiar o `Verification Token`.
 
@@ -55,6 +55,7 @@ Após esses passos o bot poderá interagir nos Channels do workspace do Slack qu
 1. Para ativar a permissão de troca de mensagens diretas acesse App Home e marque o check box indicado na imagem.
 
 # Como ativar quick replies/botões no Slack
+
 No Slack, você precisa habilitar o envio de quick replies. Vá em **Features > Interactivity \& Shortcuts**, e na aba **Interactivity**, adicione a URL que você copiou das configurações do canal no campo **Request URL**. Depois, salve as alterações.
 
 Com todos esses passos o seu canal com bot do Slack estará integrado e apto a enviar e receber mensagens nos canais do Slack que o bot está adicionado ou em mensagens diretas.

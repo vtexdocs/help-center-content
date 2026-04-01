@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp: Integração Expressa Weni'
+title: 'WhatsApp: Integração Expressa no VTEX Agentic CX Platform'
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Agora ficou muito mais simples adicionar um canal WhatsApp na organização da sua empresa na Weni Plataforma e se conectar com seus clientes em poucos cliques. Esse é o modo de Integração Expressa Weni.
+Agora ficou muito mais simples adicionar um canal WhatsApp na organização da sua empresa na VTEX Agentic CX Platform e se conectar com seus clientes em poucos cliques. Esse é o modo de Integração Expressa VTEX Agentic CX Platform.
 
-O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal na Weni Plataforma permite que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
+O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal na VTEX Agentic CX Platform permite que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
 
 Existem algumas premissas para adicionar um número de WhatsApp pelo método de Integração Expressa:
 
@@ -38,7 +38,7 @@ Depois, basta seguir os passos que você será**direcionado para vincular a sua 
 
 Para iniciar esses passos, após acessar a sua conta do Facebook, é só**clicar em “Começar”** na tela que você será redirecionado a próxima página.
 
-Aceite as permissões, elas são necessárias para que Weni Plataforma possa ter acesso a sua conta do WhatsApp Business e, assim, você consiga usar nossas integrações. **Mas não se preocupe! Nenhum dado será compartilhado e todo esse processo é bastante seguro!**
+Aceite as permissões, elas são necessárias para que VTEX Agentic CX Platform possa ter acesso a sua conta do WhatsApp Business e, assim, você consiga usar nossas integrações. **Nenhum dado será compartilhado.**
 
 Primeiro, você precisa criar a sua conta empresarial que será vinculada à Meta, ou selecionar uma das empresas já cadastradas. Após selecionar a opção que você precisa, é só clicar em “Continuar”:
 
@@ -46,7 +46,7 @@ Ainda nesta etapa, você verá uma tela para configurar o nome e fuso horário d
 
 Após isso você será direcionado para a próxima página onde clicará em ""continuar para o passo 2""
 
-Iniciando a etapa 2, você irá criar o seu perfil no WhatsApp Business. Para isso, preencha o campo de nome que será exibido no seu perfil do WhatsApp Business. Caso este nome seja diferente da razão social da sua empresa, o mesmo deverá ser de alguma forma exibido no site da sua organização. O nome de exibição deve seguir as regras da Meta e estar em acordo com o seu negócio, principalmente se sua conta já for anteriormente verificada ( [veja aqui](https://www.facebook.com/business/help/338047025165344#display-name-guidelines) ).
+Iniciando a etapa 2, você irá criar o seu perfil no WhatsApp Business. Para isso, preencha o campo de nome que será exibido no seu perfil do WhatsApp Business. Caso este nome seja diferente da razão social da sua empresa, o mesmo deverá ser de alguma forma exibido no site da sua organização. O nome de exibição deve seguir as regras da Meta e estar em acordo com o seu negócio, principalmente se sua conta já for anteriormente verificada ([veja aqui](https://www.facebook.com/business/help/338047025165344#display-name-guidelines)).
 
 Ainda nesta etapa, será necessário selecionar a categoria que representa o seu negócio. Você também pode fazer uma descrição sobre ele, que é opcional. Depois disso, clique em ""continuar para a etapa 3"".
 
@@ -62,14 +62,15 @@ Caso contrario pode continuar imediatamente!#### **Passo final para integração
 
 Com a sua conta vinculada à Meta e o seu número de WhatsApp Business verificado, agora é hora de integrá-los na plataforma. Os passos são bem simples e rápidos.
 
-Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela da Weni Plataforma. Basta clicar em **Criar Canal**, como mostrado na imagem:
+Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela da VTEX Agentic CX Platform Plataforma. Basta clicar em **Criar Canal**, como mostrado na imagem:
 
-Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>Na sequência, selecione o número que será vinculado à integração do WhatsApp na Weni Plataforma e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
+Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>Na sequência, selecione o número que será vinculado à integração do WhatsApp na VTEX Agentic CX Platform e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
 
 ## Agora o seu canal WhatsApp está integrado e pronto para ser customizado!
 Na sequência, um *card* com o número do telefone irá aparecer em **Configurações > Canais**.
 
 Ao clicar neste *card* aparecerá as opções de customização, siga as dicas e personalize o seu número com foto de perfil, descrição, e-mail e site da sua empresa ou organização.
 
-### Para aproveitar ainda mais do canal, caso não o tenha feito, inicie o processo de verificação do seu negócio junto a Meta.
+Para aproveitar ainda mais do canal, inicie o processo de verificação do seu negócio junto a Meta.
+
 Para iniciar a verificação siga esse passo [link](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio).

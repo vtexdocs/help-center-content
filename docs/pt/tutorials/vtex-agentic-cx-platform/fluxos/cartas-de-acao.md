@@ -46,7 +46,7 @@ O envio de mensagens por um canal do WhatsApp exige que um template seja usado s
   3. **Respostas rápidas**
 Existe a possibilidade de enviar _repostas rápidas_ (botões de texto) para os usuários, assim facilitando a resposta e servindo como uma possibilidade de guia para sua conversa. Atualmente, você pode adicionar até 10 botões de texto por carta.
 
-Fique atento! Nem todos os canais tem suporte para botões de texto. Atualmente os canais que possuem os botões são: Telegram, Weni Web Chat, Facebook Messenger e WhatsApp.
+Fique atento! Nem todos os canais tem suporte para botões de texto. Atualmente os canais que possuem os botões são: Telegram, VTEX Agentic CX Platform Web Chat, Facebook Messenger e WhatsApp.
   1. **Arquivos**
 
 Também é possível enviar _arquivos_ (anexos) para um usuário. Esses anexos podem ser fotos, vídeos, áudios e documentos. Para enviar esses anexos, basta colocar o link das mídias, ou escolher o arquivo pelo seletor de arquivos do seu computador. Atualmente, você pode adicionar até 3 anexos por carta.
@@ -100,7 +100,7 @@ Perguntou a idade do seu contato? Você pode salvar o valor para consultar mais 
 
 ## Envie um email
 
-Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do contato que está executando o fluxo, como qualquer outro. Lembrando que o e-mail não é um canal de conversa na Weni Plataforma, ou seja, caso alguém responda o e-mail enviado, ele irá cair na caixa de entrada do e-mail configurado na organização para saber mais, visite o artigo de [configurações do projeto](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do contato que está executando o fluxo, como qualquer outro. Lembrando que o e-mail não é um canal de conversa na VTEX Agentic CX Platform Plataforma, ou seja, caso alguém responda o e-mail enviado, ele irá cair na caixa de entrada do e-mail configurado na organização para saber mais, visite o artigo de [configurações do projeto](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
 Para enviar o e-mail, basta colocar o destinatário, o assunto e o corpo da mensagem nos campos correspondentes.
 

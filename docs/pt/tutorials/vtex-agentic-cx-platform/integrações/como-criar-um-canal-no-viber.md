@@ -39,7 +39,7 @@ Você receberá um token de verificação no celular, confirme\-o também.
 
   Preencha todos os requisitos apresentados e clique em *Criar* no final da página.
 
-Levará alguns segundos para processar e uma nova janela será exibida com o token necessário. copie e guarde este token para o próximo passo de integração do canal com a plataforma Weni.
+Levará alguns segundos para processar e uma nova janela será exibida com o token necessário. copie e guarde este token para o próximo passo de integração do canal com a plataforma VTEX Agentic CX Platform.
 
 ## Concluir a configuração do canal
 

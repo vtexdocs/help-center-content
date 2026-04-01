@@ -24,7 +24,7 @@ O BotFather é um chatbot que cria e gerencia outros chatbots para o Telegram. P
 Assim que iniciar a conversa com o BotFather, envie a mensagem **/newbot** para criar um novo chatbot. Em seguida escolha um nome e um Username (os usernames devem sempre acabar com “\_bot”, Ex. test\_bot).
 
 ## Receba o Token de acesso
-Pronto! Você criou seu novo chatbot e já recebeu o seu token! Copie e guarde ele para usarmos na Plataforma Weni.
+Pronto! Você criou seu novo chatbot e já recebeu o seu token! Copie e guarde ele para usarmos na Plataforma VTEX Agentic CX Platform.
 
 ## Cadastrando o Telegram na plataforma
 1. Com o token em mãos, agora você já pode realizar a integração com o Telegram dentro do seu projeto.

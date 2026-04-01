@@ -15,15 +15,17 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Para receber informações sobre o **status de envio e visualização das mensagens enviadas pelo seu Chatbot**, é possível configurar o serviço webhook diretamente na Weni Plataforma.
+Para receber informações sobre o **status de envio e visualização das mensagens enviadas pelo seu Chatbot**, é possível configurar o serviço webhook diretamente na VTEX Agentic CX Platform.
 
 Esse serviço webhook vai funcionar da seguinte forma: **Sempre que uma mensagem for enviada, recebida ou lida esse webhook vai disparar uma notificação para um serviço externo (URL) que poderá tratar esses dados**.
 
-O tratamento dos dados não é feito dentro da Weni plataforma, e sim no seu serviço externo de acordo com a tratativa criada.#### O que é um serviço externo e qual usar?
+O tratamento dos dados não é feito dentro da VTEX Agentic CX Platform, e sim no seu serviço externo de acordo com a tratativa criada.
+
+## O que é um serviço externo e qual usar?
 
 Existem diversos serviços externos e eles são usados como uma **infraestrutura em nuvem que armazena um código** que executa alguma ação. Você pode escolher qual serviço usar: [Back4app](https://www.back4app.com/#), [Pipedream](https://pipedream.com/) ou outros.
 
-Isso quer dizer que, nessas plataformas externas, você pode **configurar uma URL para receber os dados do Webhook da Weni** e criar um código para tratar esses dados.
+Isso quer dizer que, nessas plataformas externas, você pode **configurar uma URL para receber os dados do Webhook da VTEX Agentic CX Platform** e criar um código para tratar esses dados.
 
 ## Como configurar
 
@@ -36,5 +38,3 @@ Após configurar o serviço de webhooks, você poderá criar soluções via cód
 Os dados que os webhooks vão enviar para seu serviço externo (URL) seguem o formato Json:
 
 O parâmetro ""status"" vai informar o status da mensagem, se foi lida aparecerá como ""read"".
-
-**Tem dúvidas? Fala com a gente na** [**Weni comunidade**](https://comunidade.weni.ai/)**.**

@@ -20,7 +20,8 @@ Os Template Messages (mensagens modelo) são usados para iniciar conversas com o
 Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovados. Além disso, eles podem ser desabilitados automaticamente com base no feedback dos clientes. Se for desabilitado, o Template Message não poderá ser enviado aos clientes até que a classificação de qualidade melhore e deixe de violar a [Política do WhatsApp Business](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fbusiness-policy%2F&h=AT0oPctfHF7h359jza8YKEuZHFoYe87mcVbI5TT-nE2gyAcTKsdBggYsmA570ItHOiI_eZsjN3f3UDOwdu1-mm9ArVPb69CTBFkgMZ-bKeojp1o8DwA3A15HZaGqHkUBkxLvDFfn7f4vXe75v0koUw)  ou a [Política Comercial do WhatsApp](https://www.whatsapp.com/legal/commerce-policy/) .
 
 ## Criação
-Você pode usar a Plataforma Weni para criar modelos de mensagem manualmente e enviá-los para aprovação.
+
+Você pode usar a VTEX Agentic CX Platform para criar modelos de mensagem manualmente e enviá-los para aprovação.
 
 Para criar um Template Message:
 

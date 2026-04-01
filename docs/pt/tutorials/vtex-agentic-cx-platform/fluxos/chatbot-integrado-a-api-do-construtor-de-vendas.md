@@ -17,10 +17,10 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 ## Template Construtor de Vendas
 
-É uma solução em comunicação para **Listagem dos Empreendimentos** , **Envio de Endereço, Materiais de campanha, Plantas**, **Criação de Leads com histórico de conversa** e **Abertura de atendimentos no módulo Relacionamento**. A Weni fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. O template é um chatbot desenvolvido pela Weni, utilizando a [API do Construtor de Vendas](https://docs.cvcrm.com.br/).
+É uma solução em comunicação para **Listagem dos Empreendimentos** , **Envio de Endereço, Materiais de campanha, Plantas**, **Criação de Leads com histórico de conversa** e **Abertura de atendimentos no módulo Relacionamento**. A VTEX Agentic CX Platform fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. O template é um chatbot desenvolvido pela VTEX Agentic CX Platform, utilizando a [API do Construtor de Vendas](https://docs.cvcrm.com.br/).
 
 Veja uma demonstração para entender como o chatbot funciona e suas regras de negócio:
-[Demonstração do Chatbot Template CV @cvcrm | Weni](https://www.youtube.com/watch?v=Pdis7GPSeiU)
+[Demonstração do Chatbot Template CV @cvcrm | VTEX Agentic CX Platform](https://www.youtube.com/watch?v=Pdis7GPSeiU)
 
 ### Requisitos
 

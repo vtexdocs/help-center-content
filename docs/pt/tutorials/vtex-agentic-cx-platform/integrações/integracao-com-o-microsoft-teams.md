@@ -16,22 +16,26 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 ## Integração com o Microsoft Teams
+
 Devido às recentes atualizações nos serviços da Microsoft Azure, o processo de criação e integração de Bots pelo Portal do Azure passou por diversas modificações, tornando necessário o desenvolvimento de uma nova documentação, atualizada, para a integração com o Microsoft Teams. O objetivo desta documentação é orientar os usuários na criação, implementação e integração do Chatbot no ambiente corporativo, Microsoft Azure e Teams, da Raízen.
 
 As informações e orientações contidas nesta documentação estão sujeitas a alterações conforme futuras atualizações das plataformas e ferramentas da Microsoft.
 
 ### Etapas para integração do Chatbot no Teams
-1. Comunicação com a Weni;
+
+1. Comunicação com a VTEX Agentic CX Platform;
 2. Registro do aplicativo no Portal da Azure;
 3. Criação do Bot no Portal do Azure;
-4. Habilitar o Canal de Atendimento do Teams na Weni;
+4. Habilitar o Canal de Atendimento do Teams na VTEX Agentic CX Platform;
 5. Criação da Aplicação na AppStudio;
 6. Publicar a Aplicação no Teams.
 
-### 1. Comunicação com a Weni
-No Microsoft Teams, a comunicação do Chatbot com a Weni ocorre pela URL de callback. Essa URL deve ser pega assim que a integração do canal do Teams na plataforma Weni ocorrer.
+### 1. Comunicação com a VTEX Agentic CX Platform
+
+No Microsoft Teams, a comunicação do Chatbot com a VTEX Agentic CX Platform ocorre pela URL de callback. Essa URL deve ser pega assim que a integração do canal do Teams na VTEX Agentic CX Platform ocorrer.
 
 ### 2. Registro do aplicativo no Portal do Azure
+
 A criação do registro do aplicativo no Portal do Azure deve ser realizada pelo cliente, é recomendado que o usuário tenha *permissões administrativas* para criar o Bot. No Portal do Azure, pesquise por **Registros de aplicativo:**
 
 Na seção de Registros de aplicativo, selecione **Novo Registro:**
@@ -48,11 +52,12 @@ Dentro do aplicativo, selecione **Certificados e segredos**:
 
 Em **Certificados e segredos**, selecione **Novo segredo do cliente**, insira uma **Descrição** e defina o tempo de expiração (**Expira em**, recomendado: 24 meses), clique em **Adicionar:**
 
-Após a criação do **Segredos do cliente**, é gerado um **Valor** e um **ID secreto**, essas informações serão utilizadas para habilitar o canal de atendimento na Weni.
+Após a criação do **Segredos do cliente**, é gerado um **Valor** e um **ID secreto**, essas informações serão utilizadas para habilitar o canal de atendimento na VTEX Agentic CX Platform.
 
 OBS: É recomendando salvar o **Valor** e o **ID secreto**, essas informações são sigilosas e não é possível visualizar seus valores após atualização da página.
 
 ### 3. Criação do Bot no Portal do Azure
+
 A criação do Bot no Portal do Azure deve ser realizada pelo cliente, é recomendado que o usuário tenha permissões administrativas para criar o Bot.
 
 No campo de pesquisa da página inicial, pesquise por **Azure bot.**
@@ -76,6 +81,7 @@ Em **Canais**, adicione o canal do **Microsoft Teams**, depois clique em Salvar:
 Um pop-up sobre os **Termos do Serviço** da Microsoft deve aparecer, com os **Termos de Publicação dos Canais da Microsoft** e **Políticas de Privacidade da Microsoft,** contendo informações de interesse para a equipe de Segurança da Informação.
 
 ### 4. Criação da Aplicação na App
+
 No momento, o usuário apenas consegue interagir com o Chatbot através do **Link para divulgação do Bot**, para que o Chatbot fique disponível para todos os usuários no Teams é Interno necessário a criação do Aplicativo, através do **Portal de desenvolvimento ou Developer Tools** em inglês.
 
 Temos dois passos: **Portal de Desenvolvimento no Microsoft Teams e Microsoft Teams Admin Center**:
@@ -85,6 +91,7 @@ Temos dois passos: **Portal de Desenvolvimento no Microsoft Teams e Microsoft Te
 • Microsoft Teams Admin Center \= https://admin.teams.microsoft.com/dashboard
 
 #### 4.1 Portal do Desenvolvimento
+
 Para criar a app utilizando o **Portal do Desenvolvimento**, é necessário seguir os seguintes passos:
 
 1º \- Acesse o Portal do Desenvolvedor, digitando (Portal de desenvolvimento) no campo pesquisar.
@@ -98,6 +105,7 @@ Para criar a app utilizando o **Portal do Desenvolvimento**, é necessário segu
 Esse nome definirá o nome do Chatbot/assistente virtual, após insierir, clique em adicionar.
 
 ##### 4.1.1 Informação Básica
+
 Após adicionar o nome do Bot, abrirá uma sessão para configuração denominada: Informação Básica.
 
 Preencha o campo **Breve descrição**. Você pode usar o exemplo a seguir: (ex: AssistenteVirtual)
@@ -119,9 +127,11 @@ A imagem a seguir representa a inserção dessa informação.
 Após o preenchimento das informações básicas, clique em **salvar**. Em seguida, deve-se configurar algumas informações localizadas abaixo do nome do BOT. Iniciando na aba **Configurar**, onde temos os seguintes pontos.
 
 ##### 4.1.2 Marca
+
 Para inserir a Imagem da persona do Bot, clique em Marca, onde abrirá um pop-up para fazer upload das imagens do Bot, o qual tem que obedecer as especificações de tamanho.
 
 ##### 4.1.3 Recursos do Aplicativo
+
 Após inserir as imagens, clique em **Recursos do aplicativo** e em seguida **Bot**.
 
 Em seguida, será aberta uma tela para configuração de alguns parâmetros do Bot.
@@ -131,6 +141,7 @@ No campo (**Identificar seu bot**), clique em **Insira um ID de bot** e em segui
 Ao concluir as configurações, clique em **Salvar**.
 
 ### 5. Publicar a Aplicação no Teams
+
 Clique no botão publicar.
 
 Ao clicarmos em publicar, abrirá um pop-up \- (**Publicar seu aplicativo**) Clique na opção (**Publicar para sua organização**)
@@ -142,6 +153,7 @@ Logo em seguida, aparecerá uma mensagem notificando que a **publicação foi en
 **O App será enviada para aprovação**, **caso seja aprovado**, estará disponível para os usuários Teams da empresa.
 
 ### 6. Realizar a aprovação da publicação do App no Teams
+
 Para aprovar a App, acesse: https://admin.teams.microsoft.com/dashboard, em seguida, clique em Teams apps.
 
 Em seguida clique em Manage apps. Após isso, deve-se clicar em Search by name.

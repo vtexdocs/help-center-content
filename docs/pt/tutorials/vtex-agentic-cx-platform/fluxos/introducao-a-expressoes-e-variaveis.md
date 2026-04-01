@@ -34,21 +34,21 @@ Além da expressão `@results` existem também outras expressões que usamos bas
 
 ### `@contact`
 
-Essa expressão é usada para resgatar valores salvos em campos de contatos-*padr ão** na Weni Plataforma e são atualizados através do cartão Update Contact (Atualizar o Contato). Exemplos:
+Essa expressão é usada para resgatar valores salvos em campos de contatos-*padr ão** na VTEX Agentic CX Platform Plataforma e são atualizados através do cartão Update Contact (Atualizar o Contato). Exemplos:
 
 - `@contact.name:`Nome do contato
 - `@contact.first_name:`Primeiro nome do contato
 
 ### `@fields`
 
-Essa expressão é usada para resgatar valores salvos em campos de contatos que-*n ão são padrões** na Weni Plataforma, através do cartão Update Contact (Atualizar o Contato). Campos de contato são muito utilizados para armazenar informações gerais sobre o contato, pois essas informações podem ser resgatadas em qualquer fluxo usando a expressão `@fields.`⁣, por exemplo:
+Essa expressão é usada para resgatar valores salvos em campos de contatos que-*n ão são padrões** na VTEX Agentic CX Platform Plataforma, através do cartão Update Contact (Atualizar o Contato). Campos de contato são muito utilizados para armazenar informações gerais sobre o contato, pois essas informações podem ser resgatadas em qualquer fluxo usando a expressão `@fields.`⁣, por exemplo:
 
 - `@fields.idade:`Idade do contato
 - `@fields.email:`Email do contato, caso esteja sendo salvo em campo de contato ao invés de URN
 
 ### `@urns`
 
-Essa expressão é usada para resgatar o identificador do canal principal do contato na Weni Plataforma (se o projeto não for anônimo), por exemplo:
+Essa expressão é usada para resgatar o identificador do canal principal do contato na VTEX Agentic CX Platform Plataforma (se o projeto não for anônimo), por exemplo:
 
 - `@urns.whatsapp:`Número do WhatsApp
 - `@urns.mailto:`Email do contato
@@ -60,4 +60,4 @@ Essa expressão é usada para resgatar valores retornados da última chamada web
 - `@webhook.results.cliente:`Nome do cliente retornado da API, caso retorne somente 1 objeto
 - `@webhook.results.0.cliente:`Nome do cliente retornado da API. Caso retorne em array é necessário dizer a posição do array que deseja na expressão, usando 0, 1, 2 e assim por diante.
 
-Para entender mais sobre expressões, assista nosso [Weni Responde sobre esse assunto](https://comunidade.weni.ai/t/expressoes-e-variaveis/248).
+Para entender mais sobre expressões, assista nosso [VTEX Agentic CX Platform Responde sobre esse assunto](https://comunidade.weni.ai/t/expressoes-e-variaveis/248).

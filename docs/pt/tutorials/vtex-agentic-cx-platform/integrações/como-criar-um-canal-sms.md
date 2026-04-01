@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 ## Como criar um canal SMS
 
-A Weni plataforma tem vários canais SMS para serem configurados para receber e enviar mensagens e, de acordo com o aplicativo escolhido, terá configurações diferenciadas a serem feitas. Para ativar um canal vá a **Configurações > Canais > Outras Aplicações > Adicionar Canal**
+A VTEX Agentic CX Platform plataforma tem vários canais SMS para serem configurados para receber e enviar mensagens e, de acordo com o aplicativo escolhido, terá configurações diferenciadas a serem feitas. Para ativar um canal vá a **Configurações > Canais > Outras Aplicações > Adicionar Canal**
 
 Na nova aba procure por **Canais de Voz e SMS:**
 

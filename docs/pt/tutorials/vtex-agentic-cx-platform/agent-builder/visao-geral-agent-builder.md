@@ -24,11 +24,11 @@ A funcionalidade se concentra em um agente orquestrador (ou manager), que é o p
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
-> ⚠️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
+> ⚠️ Para criar agentes customizados, use o CLI da VTEX Agentic CX Platform by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
 
 ## Agent Builder
 
-Para acessar o **Agent Builder**, selecione a Organização na página inicial da Weni by VTEX e, em seguida, o projeto que deseja gerenciar.
+Para acessar o **Agent Builder**, selecione a Organização na página inicial da VTEX Agentic CX Platform by VTEX e, em seguida, o projeto que deseja gerenciar.
 
 Em **Agent Builder**, as seguintes páginas estão disponíveis:
 

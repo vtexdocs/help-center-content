@@ -21,7 +21,7 @@ As variáveis são locais criados para armazenar valores na plataforma, permitin
 
 Para utilizar uma variável deve se colocar o `@` e a expressão digitada será substituída pelo real valor da variável, desde que seja criada de forma adequada.
 
-Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis existentes na Weni Plataforma, sendo eles:
+Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis existentes na VTEX Agentic CX Platform Plataforma, sendo eles:
   * Contatos e campos de contato
   * Resultados e fluxos
   * Globals

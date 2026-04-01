@@ -19,7 +19,7 @@ A seção **Meus agentes** permite que o usuário atribua agentes ao time e test
 
 Alguns agentes oficiais solicitam credenciais. Veja a lista completa no artigo [Agentes oficiais da VTEX Agentic CX Platform e suas credenciais](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
 
-> ℹ️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
+> ℹ️ Para criar agentes customizados, use o CLI da VTEX Agentic CX Platform by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
 
 Este artigo está dividido em duas partes:
 

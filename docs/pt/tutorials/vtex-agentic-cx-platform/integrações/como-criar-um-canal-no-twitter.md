@@ -25,7 +25,7 @@ Depois de receber a aprovação da sua conta de desenvolvedor, o Twitter enviar�
 
 1. Seu primeiro passo é criar seu aplicativo. Você será solicitado para o nome do aplicativo, descrição e URL. Preencha\-os de acordo com a funcionalidade do bot que você está construindo.
 2. Em seguida, você precisará [criar um ambiente de desenvolvimento](https://developer.twitter.com/en/account/environments) para que seu aplicativo seja executado. Você desejará criar um ambiente para a ""Account Activity API / Sandbox"". Você pode nomeá\-lo como quiser, recomendamos ""production"", certifique\-se de selecionar o aplicativo que você criou na etapa
-- Esse nome deverá ser utilizado ao conectar a conta na Plataforma Weni.
+- Esse nome deverá ser utilizado ao conectar a conta na Plataforma VTEX Agentic CX Platform.
 
 3. Agora você precisa criar as chaves e os tokens para seu aplicativo, que serão necessários ao criar seu canal. Volte ao seu aplicativo e selecione a guia Chaves e Tokens. Clique em Regenerate para as seções Consumer API Keys e Access token \& access token secret. As chaves e tokens devem ser geradas com as permissões ""Ler, escrever e direcionar mensagens"".
 

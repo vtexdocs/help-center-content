@@ -50,14 +50,14 @@ A plataforma se conecta facilmente a muitos canais usando uma API HTTP, que esta
 
 1. **Conexão SMSC (Kannel)**
 
-No caso de uma conexão SMSC, é necessário conectar\-se a uma Rede Privada Virtual (VPN), devido a problemas de segurança, para que a Weni guie o processo para ajudar os clientes a fazer essas conexões com segurança. Existem muitos protocolos que podem ser integrados como SMPP, UCP/EMI e CIMD3, dependendo do que o agregador de SMS fornece para integração de terceiros. A primeira etapa para integrar depende do agregador de SMS, portanto, é necessário fornecer os seguintes itens:
+No caso de uma conexão SMSC, é necessário conectar\-se a uma Rede Privada Virtual (VPN), devido a problemas de segurança, para que a VTEX Agentic CX Platform guie o processo para ajudar os clientes a fazer essas conexões com segurança. Existem muitos protocolos que podem ser integrados como SMPP, UCP/EMI e CIMD3, dependendo do que o agregador de SMS fornece para integração de terceiros. A primeira etapa para integrar depende do agregador de SMS, portanto, é necessário fornecer os seguintes itens:
 
 \- Documentação: a documentação necessária para conectar\-se ao agregador VPN, enviar e receber mensagens através de seus serviços;
 
 \- Formulário de Rede Virtual Privada (VPN): normalmente o agregador de SMS possui um formulário que requer informações da empresa que deseja se comunicar com seus serviços por meio de uma conexão VPN.
 
-\- Credenciais SMSC: A Weni precisa de nome de usuário, senha, porta e qualquer outra informação necessária para enviar e receber mensagens para o agregador.
+\- Credenciais SMSC: A VTEX Agentic CX Platform precisa de nome de usuário, senha, porta e qualquer outra informação necessária para enviar e receber mensagens para o agregador.
 
-Depois que os itens acima estiverem totalmente preenchidos, a Weni se conecta à VPN e notifica o agregador para rotear as mensagens recebidas para o servidor da Weni e a fase de teste é iniciada. Durantes essas fases, é necessário entrar em contato diretamente com os membros da equipe da Weni, para que os seguintes contatos possam ser usados:
+Depois que os itens acima estiverem totalmente preenchidos, a VTEX Agentic CX Platform se conecta à VPN e notifica o agregador para rotear as mensagens recebidas para o servidor da VTEX Agentic CX Platform e a fase de teste é iniciada. Durantes essas fases, é necessário entrar em contato diretamente com os membros da equipe da VTEX Agentic CX Platform, para que os seguintes contatos possam ser usados:
 
 - Email: suporte@weni.ai

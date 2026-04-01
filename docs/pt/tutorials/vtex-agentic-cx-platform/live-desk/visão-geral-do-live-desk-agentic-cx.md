@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-O Live Desk é o módulo de atendimento humano oficial da plataforma Weni. Foi desenvolvido com base nas necessidades e dores de nossos clientes, é nativo em todo projeto na plataforma Weni, e possibilita uma experiência auto-service.
+O Live Desk é o módulo de atendimento humano oficial da VTEX Agentic CX Platform. Foi desenvolvido com base nas necessidades e dores de nossos clientes, é nativo em todo projeto na VTEX Agentic CX Platform, e possibilita uma experiência auto-service.
 
 Nas próximas seções você poderá conhecer mais conceitos e funções deste módulo.
 
@@ -74,7 +74,7 @@ A função de transferir chat serve para direcionar o contato para um setor, fil
 
 ### Emojis
 
-Emojis podem tornar a comunicação mais envolvente, isso porque eles facilitam a compreensão do tom e a intenção da mensagem. O Weni Live Desk tem uma página completa de emojis.
+Emojis podem tornar a comunicação mais envolvente, isso porque eles facilitam a compreensão do tom e a intenção da mensagem. O Live Desk tem uma página completa de emojis.
 
 ### Quebra de texto
 

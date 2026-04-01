@@ -23,7 +23,7 @@ Quando falamos de contexto, leve em consideração que sempre que for usar o Zer
 
 ## Na Prática
 
-Existem duas formas de se criar uma IA de classificação na Weni Plataforma: através dos cards de fluxo **Classificar automaticamente** e **Aguarde por resposta inteligente**.
+Existem duas formas de se criar uma IA de classificação na VTEX Agentic CX Platform Plataforma: através dos cards de fluxo **Classificar automaticamente** e **Aguarde por resposta inteligente**.
 
 ### Aguarde por resposta inteligente
 

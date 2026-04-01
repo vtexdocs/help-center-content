@@ -17,14 +17,14 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 ## Passos para Integração
 
-A integração entre a Plataforma Weni e o Zendesk oferece uma ferramenta poderosa para gerenciar o atendimento ao cliente de forma eficiente e automática. Após concluir a configuração e instalação, é essencial monitorar o funcionamento da integração para garantir que todos os tickets sejam gerenciados corretamente e que os gatilhos automáticos funcionem conforme o esperado.
+A integração entre a VTEX Agentic CX Platform e o Zendesk oferece uma ferramenta poderosa para gerenciar o atendimento ao cliente de forma eficiente e automática. Após concluir a configuração e instalação, é essencial monitorar o funcionamento da integração para garantir que todos os tickets sejam gerenciados corretamente e que os gatilhos automáticos funcionem conforme o esperado.
 
 1. Crie uma conta no Zendesk
 Se você ainda não possui uma conta, crie uma no Zendesk. Para este exemplo, estamos usando uma conta de teste gratuita. (https://weni5623\.zendesk.com/)
 Acesse: <https://www.zendesk.com/>
 
-1. Acesse o Projeto na Plataforma Weni
-Dentro do seu projeto na plataforma Weni, vá até o módulo **Aplicações > Outros Apps**.
+1. Acesse o Projeto na VTEX Agentic CX Platform
+Dentro do seu projeto na VTEX Agentic CX Platform, vá até o módulo **Aplicações > Outros Apps**.
 Clique no menu de três linhas (hambúrguer) e selecione **Adicionar Serviço de Tickets**, escolhendo **Zendesk**.
 
 1. Preencha o Subdomínio e Capture a URL da Solicitação
@@ -56,11 +56,11 @@ Após a integração, configure e salve as informações.
 
 Atribua um nome à sua integração/conta e adicione o **segredo** salvo na Etapa 5\.
 
-1. Verifique a Conexão na Plataforma Weni
-Se todos os passos foram seguidos corretamente, em **Aplicações > Outros Apps** na Plataforma Weni, o serviço com o Zendesk deverá aparecer como conectado.
+1. Verifique a Conexão na VTEX Agentic CX Platform
+Se todos os passos foram seguidos corretamente, em **Aplicações > Outros Apps** na VTEX Agentic CX Platform, o serviço com o Zendesk deverá aparecer como conectado.
 
 1. Use o Card ""**Abrir um Ticket**"" no Fluxo
-Agora você pode usar o card **Abrir um Ticket** no seu fluxo na Plataforma Weni.
+Agora você pode usar o card **Abrir um Ticket** no seu fluxo na VTEX Agentic CX Platform.
 Consulte: **Criando Campos Personalizados**.
 
 1. Configurar Gatilhos

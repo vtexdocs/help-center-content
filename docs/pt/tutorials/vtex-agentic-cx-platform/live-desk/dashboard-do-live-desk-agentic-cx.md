@@ -19,7 +19,7 @@ subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 
 O Dashboard é a ferramenta que irá mostrar os dados relativos ao Live Desk, trazendo métricas importantes que tem como objetivo oferecer o acompanhamento de qualidade e eficiência dos atendimentos. Esta ferramenta permite auxiliar os gestores em melhorias da tomada de decisões e também aos agentes a visualizarem suas métricas individuais.
 
-Para acessá-la, basta ir em **Live Desk** (em **Operações**) na plataforma Weni e dentro do menu de Opções clicar no botão `Dashboard`. Por enquanto esta ferramenta está disponível somente para gestores e administradores.
+Para acessá-la, basta ir em **Live Desk** (em **Operações**) na VTEX Agentic CX Platform e dentro do menu de Opções clicar no botão `Dashboard`. Por enquanto esta ferramenta está disponível somente para gestores e administradores.
 
 ### Tela principal
 

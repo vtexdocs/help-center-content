@@ -15,17 +15,17 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, tempo de espaçamento entre mensagens, indicadores de mensagem, avatar e muito mais! Assim, garantindo tudo que a Weni Plataforma tem a oferecer com a cara da sua marca. Logo abaixo iremos te mostrar o passo a passo para realizar a integração.
+Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, tempo de espaçamento entre mensagens, indicadores de mensagem, avatar e muito mais! Assim, garantindo tudo que a VTEX Agentic CX Platform Plataforma tem a oferecer com a cara da sua marca. Logo abaixo iremos te mostrar o passo a passo para realizar a integração.
 
 ## Criando um canal web
 1. Para integrar seu chatbot a um canal web, primeiramente você precisa entrar na organização que está localizado o projeto, para que então possamos integrar o canal.
 2. Localize o projeto que você deseja integrar.
 
 3. Na barra lateral, clique em **Canais** (em **Configurações**).
-4. Ao clicar em **Configurações > Canais**, você seleciona a opção **Weni Web Chat.**
-5. Clique no botão **acessar meus canais** e clique mais uma vez no card Weni Web Chat para ter acesso as configurações de customização.
+4. Ao clicar em **Configurações > Canais**, você seleciona a opção **VTEX Agentic CX Platform Web Chat.**
+5. Clique no botão **acessar meus canais** e clique mais uma vez no card VTEX Agentic CX Platform Web Chat para ter acesso as configurações de customização.
 
-6. Ao abrir o painel de customização da Weni Web Chat, você terá as seguintes opções para configurar:
+6. Ao abrir o painel de customização da VTEX Agentic CX Platform Web Chat, você terá as seguintes opções para configurar:
 - Título do seu chat;
 - Subtítulo do chat (opcional);
 - Mensagem de disparo: quando ativada é a primeira mensagem que seu chatbot envia (opcional);
@@ -37,5 +37,5 @@ Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, t
 
 7. Seguindo para a aba de aparências, você tem a opção de customizar o chat através do formato CSS. Além disso, você pode importar uma imagem em png, jpg ou jpeg para ser seu avatar e também alterar a cor do seu chat.
 
-8. Ao finalizar a customização, para instalar o Weni Web Chat no seu site, copie este código, que aparecerá ao clicar em **código script** e cole acima da última tag \<**/body**> no seu site.
+8. Ao finalizar a customização, para instalar o VTEX Agentic CX Platform Web Chat no seu site, copie este código, que aparecerá ao clicar em **código script** e cole acima da última tag \<**/body**> no seu site.
 
