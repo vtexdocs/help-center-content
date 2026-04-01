@@ -13,7 +13,7 @@ subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 
 >ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/suporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
 
-La **prevención de fraude** es una funcionalidad de **VTEX Shield** que protege tu tienda contra ataques de pruebas de tarjetas (card testing).
+La **Prevención de fraude** es una funcionalidad de **VTEX Shield** que protege tu tienda contra ataques de pruebas de tarjetas (card testing).
 
 Los ataques de pruebas de tarjetas ocurren cuando los estafadores prueban diferentes combinaciones de tarjetas robadas en un corto periodo de tiempo para identificar las que están activas. Este tipo de práctica puede generar un alto volumen de intentos de pago fallidos, costos adicionales con adquirentes y herramientas antifraude, además de impactar la operación de la tienda.
 
@@ -26,7 +26,7 @@ El objetivo de la funcionalidad es permitir acciones en el flujo de compra siemp
 Para acceder a la página sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda**.
-2. En **Shield**, haz clic en **Prevención de fraude**.
+2. En **Shield**, haz clic en **Prevención de Fraude**.
 
 ![prevencion-de-fraude-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/prevencion-de-fraude.png)
 
@@ -93,6 +93,7 @@ Para desactivar el bloqueo automático:
 
 1. Haz clic en el menú **⋮**.
 2. Haz clic en **Desactivar bloqueo**.
+3. Haz clic en **Confirmar**. 
 
 Los intentos seguirán analizándose y mostrándose en el historial, pero no se bloquearán automáticamente. Cuando el bloqueo automático está desactivado, la funcionalidad opera en modo de monitoreo (observación), registrando y analizando los intentos sin impedir el checkout.
 
