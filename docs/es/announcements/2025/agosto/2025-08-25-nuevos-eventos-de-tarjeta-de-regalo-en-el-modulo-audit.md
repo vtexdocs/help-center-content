@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevos-eventos-de-tarjeta-de-regalo-en-el-modulo-audit
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Agregamos eventos de tarjeta de regalo a los logs de Audit.'
+tags:
+  - Nueva funcionalidad
+  - Audit
 ---
 
 [Audit](/es/docs/tutorials/audit) es el módulo que registra los eventos de acciones en tu tienda VTEX para propósitos de auditoría. VTEX ha optimizado Audit con tres nuevos eventos relacionados con operaciones de tarjetas de regalo.

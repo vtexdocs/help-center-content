@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp Template Messages: Impediments and Configurations'
+title: "WhatsApp template messages: Impediments and configurations"
 id: 4bc7imLyUicKHtCIJVGNSE
 status: PUBLISHED
 createdAt: 2025-09-15T15:07:41.131Z
@@ -17,9 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Here you will find solutions for potential obstacles, rejections, and errors in the creation, sending, and modification of WhatsApp Template Messages. Follow the topics below for more information.
 
-​
-
-#### **Approval Process (Meta’s Responsibility)**
+## Approval process (Meta’s responsibility)
 
 Once you create a template, you can submit it for approval. It may take up to 24 hours for a decision to be made. Once a decision is reached, a notification will appear in the WhatsApp Manager. Additionally, Meta will send an email to the Business Manager administrators. If you have subscribed to updates on message template status changes, Meta will also send a notification via webhook. Refer to [**How to Monitor Status Changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) for more details.
 
@@ -27,7 +25,7 @@ If approved, the message template will have the status ""Active – Quality Pend
 
 ​
 
-#### **Common Reasons for Rejection**
+## Common reasons for rejection
 
 These are the most common errors leading to rejection and should be avoided:
 
@@ -39,11 +37,11 @@ These are the most common errors leading to rejection and should be avoided:
 - The content is potentially abusive or threatening, such as threatening legal action or public embarrassment for the customer.
 - The message template is a duplicate of an existing one. If a template is submitted with the same body and footer text as an existing one, the duplicate will be rejected. A rejection notification, including the reason, will appear in the Account Quality section of WhatsApp Manager and be sent via email. In the Account Quality notification, you can review the name and language of the existing template with the same content as the rejected duplicate. You can also edit and resubmit the template. Note that this verification does not apply to OTP templates.
 
-#### **Editing**
+## Editing
 
 You can edit the template through the WhatsApp Manager or the [**Message Template Endpoint**](https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates#edit-a-message-template) . If edited and resubmitted for approval, the message template will have the status **In Review** and cannot be sent to customers until it is **Active**.
 
-#### **How to Send Message Templates**
+## How to send message templates
 
 Once the template is approved, you can send it to customers. For instructions on sending message templates, refer to [**Sending Message Templates**](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/send-message-templates) for Cloud API users or [**How to Send Message Templates**](https://developers.facebook.com/docs/whatsapp/message-templates/creation) for Local API users.
 
@@ -51,7 +49,7 @@ Only templates with the **Active** status (e.g., **Active – Quality Pending**,
 
 The status may automatically change from **Active** to **Paused** or **Disabled** based on customer feedback. Therefore, we recommend you [**monitor status changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) and take appropriate action when a template you depend on is paused or disabled, or is at risk of being paused or disabled.
 
-#### **Status**
+## Status
 
 Templates can have the following statuses:
 
@@ -67,15 +65,15 @@ Templates can have the following statuses:
 
 You can check the status of a template in **WhatsApp Manager > Overview**. Then hover over the suitcase icon (Account Tools) and click **Message Templates**. If you have more than one WhatsApp Business account, select the account whose template status you want to check from the list of accounts in the top-right drop-down menu.
 
-#### **How to Monitor Status Changes**
+## How to monitor status changes
 
 A template's status can automatically change based on review decisions, appeal outcomes, or changes in the [**quality rating**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) . If the status of a template changes, you will receive a notification via email, in the Business Manager, and through the webhook.
 
-Since you can only send message templates with an **Active** status, we recommend subscribing to the **message\_template\_status\_update** webhook to receive notifications about status changes in templates. Refer to [**Webhook Setup**](https://developers.facebook.com/docs/whatsapp/business-management-api/guides/set-up-webhooks) for how to subscribe to this field, and **Message Template Updates** for webhook payload examples.
+Since you can only send message templates with an **Active** status, we recommend subscribing to the **message_template_status_update** webhook to receive notifications about status changes in templates. Refer to [**Webhook Setup**](https://developers.facebook.com/docs/whatsapp/business-management-api/guides/set-up-webhooks) for how to subscribe to this field, and **Message Template Updates** for webhook payload examples.
 
 If you have webhooks set up and notice that a template’s quality is dropping, access **WhatsApp Manager > Message Templates** and hover over the relevant template. A tooltip will display details about the issue. Based on this information, you can choose to [**edit the template**](https://developers.facebook.com/docs/whatsapp/business-management-api/webhooks/components#message-template-updates) and resubmit it for approval, use a different template, or change your app’s business logic. If you edit the message template and it’s approved, its quality rating will gradually improve as long as it doesn’t receive frequent negative feedback.
 
-#### **Quality Rating**
+## Quality rating
 
 Message templates are rated based on usage and customer feedback. When the status is **Active**, the template’s quality rating will appear in WhatsApp Manager alongside the status:
 
@@ -88,7 +86,7 @@ Initially, approved templates are rated as **Quality Pending**. If a template co
 
 While webhooks for template status changes exist, webhooks for customer feedback or quality rating changes are not provided. We recommend setting up webhooks and monitoring status changes closely to take corrective actions before the template is paused or deactivated. Refer to [**How to Monitor Status Changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) for more information.
 
-#### **Template Pauses**
+## Template pauses
 
 Available for businesses in Brazil, Mexico, and Colombia from September 7, 2022, and globally from October 6, 2022\.
 
@@ -106,11 +104,11 @@ It’s also possible to adjust your business logic (target audience, delivery pa
 
 Initially, the pause will not affect the business phone number or reduce the message limit. Other high-quality message templates can still be sent from the phone number. However, if the business continues to use low-quality templates after they are paused, the phone number may eventually be affected.
 
-#### **Pause Notifications**
+## Pause notifications
 
 When a message template is paused, a notification will be sent in WhatsApp Manager, via email, and through the webhook (if you subscribed to the template status change webhooks). Refer to [**How to Monitor Status Changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) for webhook setup information, and see [**Examples – Paused Template**](https://developers.facebook.com/docs/whatsapp/business-management-api/webhooks/components#template-paused) for an example of a webhook payload.
 
-#### **Resumption**
+## Resumption
 
 The template will automatically resume after the pause period described above. Once resumed, the template will have the **Active** status and can be sent to customers again. If you did not stop automated messaging campaigns that relied on the paused template, they will start functioning again. However, we recommend stopping these campaigns while the template is paused, as the API will reject requests.
 
@@ -118,7 +116,7 @@ The template’s quality rating will also be updated based on recent feedback.
 
 Similar to pause notifications, notifications will be sent via WhatsApp Manager, email, and webhook when the template status changes to **Active**.
 
-#### **Appeals**
+## Appeals
 
 If the template submission is rejected, you can file an appeal. It’s important to note that appeals must include an example. If an approved template is later deactivated, you can also **edit** it and resubmit it for approval.
 
@@ -133,7 +131,7 @@ In **WhatsApp Manager**:
 
 Meta reviews and makes a decision within 24 hours.
 
-#### **Learn More**
+## Learn more
 
 - [**WhatsApp Business Policy**](https://business.whatsapp.com/policy) : Learn about policies for businesses.
 - [**WhatsApp Commerce Policy**](https://www.whatsapp.com/legal/commerce-policy/?fbclid=IwY2xjawGDLzsBHeEliiVkByMLSqVGgPfICfHEOpwV9lYL1yR8yyjCeUuaZM0yYJZQFEETBA) : Learn about commerce-related policies.

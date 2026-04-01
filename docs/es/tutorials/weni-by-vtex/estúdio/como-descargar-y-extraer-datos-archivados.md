@@ -1,5 +1,5 @@
 ---
-title: 'Cómo descargar y extraer datos archivados'
+title: "Cómo descargar y extraer datos archivados"
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z
@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Cómo descargar y extraer datos archivados**Algo muy importante que debes saber sobre la recolección de datos en la plataforma Weni es que los datos se almacenan durante 180 días. Después de ese período, los datos se archivan en la plataforma y se almacenan en formato **JSON** en el menú **Archives**.
+Algo muy importante que debes saber sobre la recolección de datos en la plataforma Weni es que los datos se almacenan durante 180 días. Después de ese período, los datos se archivan en la plataforma y se almacenan en formato **JSON** en el menú **Archives**.
 
-#### **Obteniendo los archivos a través de Weni Flows**
+## Obteniendo los archivos a través de Weni flows
 
 Es posible descargar estos datos archivados accediendo al panel de configuración. Al final de la página se informará la cantidad de archivos y sus registros, como se muestra en la imagen a continuación:
 

@@ -1,5 +1,5 @@
 ---
-title: 'Envío activo de mensajes en WhatsApp'
+title: "Envío activo de mensajes en WhatsApp"
 id: 20E0eUtogj84N0vf6nZeia
 status: PUBLISHED
 createdAt: 2025-09-15T15:27:41.354Z
@@ -15,13 +15,13 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Antes que nada, es importante entender la diferencia entre *envío activo* y *pasivo*.
+Antes que nada, es importante entender la diferencia entre _envío activo_ y _pasivo_.
 
 El **envío pasivo** ocurre cuando el usuario final se pone en contacto con la empresa de forma voluntaria. En ese momento, se inicia un flujo de conversación a partir del primer mensaje enviado por el usuario a la empresa.
 
 Por otro lado, el **envío activo** ocurre cuando la empresa toma la iniciativa de iniciar una conversación con el usuario. Para que el envío activo sea realizado, el mensaje a enviar debe pasar por un proceso de validación guiado por Meta y, solo después de su preaprobación, es posible enviarlo a los usuarios. En la Plataforma Weni, llamamos a este modelo de mensaje ""Template Message"".
 
-#### **Envío a través del módulo de flujos**
+## Envío a través del módulo de flujos
 
 Después de la preaprobación del Template Message, se puede comenzar a construir el flujo conversacional. El primer paso es agregar la tarjeta ""Actualizar Contacto"" y elegir la opción ""Canal"", ya que esta definirá desde qué canal se realizará el envío. En esta etapa, elige tu canal de WhatsApp.
 
@@ -45,7 +45,7 @@ Después de seleccionar el mensaje, basta con hacer clic en el botón ""Enviar F
 
 Finalmente, para verificar si todo ocurrió correctamente, basta con acceder al módulo ""Estudio"" y, en la pestaña ""Flujo"", es posible seguir el historial de envíos, obteniendo información importante como errores, flujos iniciados y mucho más. Esta gestión es esencial, especialmente para implementar mejoras en tu chatbot.
 
-#### **Enviando flujo desde el módulo de estudio**
+## Enviando flujo desde el módulo de estudio
 
 También es posible enviar un Template Message desde el módulo ""Estudio"", seleccionando el contacto al que deseas enviar el mensaje y haciendo clic en el menú de opciones, ubicado en la esquina superior derecha. Luego, simplemente selecciona ""Iniciar en el Flujo"", elige el flujo y envía. Esta es otra posibilidad que ofrece la Plataforma Weni para realizar el envío activo. Observa la imagen a continuación:
 

@@ -12,6 +12,10 @@ locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'New granular permissions model for Seller Register and Marketplace Network requires user role updates.'
+tags:
+  - Improvement
+  - Marketplace
+  - Identity
 ---
 
 We have implemented a new explicit permission validation model for Seller and Marketplace Network services, offering greater control and security over who can view and edit seller data in your operation. This change is available to all users of the VTEX platform.

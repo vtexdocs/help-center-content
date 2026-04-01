@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-license-manager-resources-order-configurations
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New permissions required to access order configurations in the VTEX Admin'
+tags:
+  - Breaking change
+  - Orders
+  - Identity
 ---
 
 To provide more secure and controlled authentication, we have updated how [License Manager](/en/docs/tutorials/roles) validates access to store order configurations. New features are now required for users to access specific pages in the VTEX Admin. 

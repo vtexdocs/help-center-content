@@ -13,6 +13,9 @@ locale: en
 legacySlug: automatic-archiving-inactive-promotions
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new auto-archive feature for inactive promotions helps you manage promotions in your store.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 To enhance the promotion management experience, VTEX is introducing an automatic archiving feature for inactive promotions. This feature helps you organize and monitor the promotions available in your store.

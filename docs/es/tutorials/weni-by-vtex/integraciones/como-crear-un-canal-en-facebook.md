@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal en Facebook'
+title: "Cómo crear un canal en Facebook"
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z
@@ -19,7 +19,7 @@ Facebook ha actualizado sus políticas de integración, por lo que ahora puedes 
 
 Si ya integraste un bot de acuerdo con las políticas antiguas de Facebook, no necesitas hacer nada más. Tu canal seguirá funcionando como siempre.
 
-#### Añadir una página
+## Añadir una página
 
 1. En tu proyecto, haz clic en Aplicaciones > Descubrimientos > Haz clic en el signo \+
 

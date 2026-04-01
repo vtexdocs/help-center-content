@@ -13,6 +13,9 @@ locale: en
 legacySlug: webservice-legacy-api-service-deprecation
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'As of September 1, 2025, WebService will be deprecated on the VTEX platform.'
+tags:
+  - Deprecation
+  - Catalog
 ---
 
 As of **September 1, 2025**, the Webservice API will be permanently deprecated on the VTEX platform. Therefore, clients using this legacy service must migrate their operations to the current set of VTEX APIs — see our [API Reference](https://developers.vtex.com/docs/api-reference).

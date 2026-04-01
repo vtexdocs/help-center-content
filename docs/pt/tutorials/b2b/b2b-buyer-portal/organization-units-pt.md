@@ -1,7 +1,7 @@
 ---
 title: 'Organization Units'
 createdAt: '2026-03-06T10:00:00.000Z'
-updatedAt: '2026-03-06T10:00:00.000Z'
+updatedAt: '2026-03-16T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: organization-units
@@ -57,7 +57,7 @@ Mesmo compartilhando o mesmo contrato, cada unidade pode operar com regras próp
 * Sortimento de produtos visíveis  
 * Métodos e condições de pagamento  
 * Endereços de entrega e faturamento  
-* Campos customizáveis no checkout  
+* Campos contábeis  
 * Regras de aprovação de pedidos
 
 Essa segmentação permite alinhar a operação da loja às políticas internas da empresa compradora.
@@ -66,7 +66,7 @@ Saiba mais na documentação a seguir:
 
 * [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)  
 * [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)  
-* [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout)
+* [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis)
 
 ## Usuários de Organization Units
 

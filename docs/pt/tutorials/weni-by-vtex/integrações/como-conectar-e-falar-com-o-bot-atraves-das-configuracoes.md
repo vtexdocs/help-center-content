@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Alcançar o consumidor requer uma abordagem multicanal. A comunicação multicanal envolve utilizar as tecnologias disponíveis para garantir que o cliente receba informações personalizadas através dos diversos canais que ele já utiliza em seu dia a dia.
 
-#### Para adicionar canais em sua conta, você deve:
+Para adicionar canais em sua conta, você deve:
 
 1. Em seu projeto: Aplicativos > Outras Aplicações > Add Channel
 

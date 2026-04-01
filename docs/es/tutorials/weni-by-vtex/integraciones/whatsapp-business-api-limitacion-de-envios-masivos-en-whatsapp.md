@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp Business API: Limitación de Envios Masivos en WhatsApp'
+title: "WhatsApp business API: Limitación de envios masivos en WhatsApp"
 id: 1mMpu05SPvb9ZDJTSSkTEp
 status: PUBLISHED
 createdAt: 2025-09-15T15:32:11.616Z
@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Limitación de Envios Masivos en WhatsApp (WhatsApp Rate Limiting)
-
 Después de completar el proceso de aprobación e integración de WhatsApp, tu número de teléfono con Weni será activado para WhatsApp. Incluso después de la aprobación y activación de tu número, WhatsApp tiene una política de progresión en el envío de mensajes, imponiendo una limitación.
 
 Debido a esta limitación, se recomienda a las empresas que desean enviar mensajes a más de 1,000 usuarios únicos (lo que en Weni llamamos contactos activos) que los envíen gradualmente a lo largo de una semana.
@@ -25,15 +23,15 @@ Los límites de mensajes son el número máximo de conversaciones iniciadas por 
 
 Inicialmente, los números de teléfono comercial tienen un límite de 250 conversaciones iniciadas por la empresa en un período de 24 horas, pero este límite puede ser aumentado.
 
-##### Limitaciones de WhatsApp
+## Limitaciones de WhatsApp
 
 Existen diferentes niveles de limitación para el envío de mensajes en WhatsApp:
 
-| Nivel 1 | Limitado a 1\.000 destinatarios únicos (contactos activos) por día. |
-| --- | --- |
-| Nivel 2 | Limitado a 10\.000 destinatarios únicos (contactos activos) por día. |
+| Nivel 1 | Limitado a 1\.000 destinatarios únicos (contactos activos) por día.   |
+| ------- | --------------------------------------------------------------------- |
+| Nivel 2 | Limitado a 10\.000 destinatarios únicos (contactos activos) por día.  |
 | Nivel 3 | Limitado a 100\.000 destinatarios únicos (contactos activos) por día. |
-| Nivel 4 | Sin limitaciones. |
+| Nivel 4 | Sin limitaciones.                                                     |
 
 Los números recién habilitados en WhatsApp comienzan en el Nivel 1\. WhatsApp monitorea el volumen y la calidad de los mensajes y actualiza automáticamente el cliente entre los niveles según el número total de contactos activos en los últimos 7 días.
 
@@ -45,11 +43,11 @@ Ejemplo 2: Un número de teléfono aprobado por WhatsApp comienza en el nivel 1\
 
 Esta limitación **NO** se aplica a los mensajes enviados en respuesta a un mensaje iniciado por el usuario dentro de un período de 24 horas.
 
-##### Clasificación de Calidad de WhatsApp
+## Clasificación de calidad de WhatsApp
 
 Dado que WhatsApp cifra los mensajes, depende de los comentarios de los usuarios para medir la calidad de los mensajes. WhatsApp utiliza este feedback para definir una ""clasificación de calidad"" interna que puede afectar cómo los usuarios avanzan entre los niveles de limitación. Factores como la frecuencia con la que tu número es marcado como ""denunciar spam"" o ""bloquear"" pueden influir en la clasificación de calidad. Los remitentes con una clasificación de calidad baja pueden no ser elegibles para subir de nivel, según los niveles presentados anteriormente.
 
-##### Para mantener una alta calidad, WhatsApp recomienda lo siguiente:
+## Para mantener una alta calidad, WhatsApp recomienda lo siguiente
 
 - Asegúrate de que tus mensajes cumplen con la [Política de Negocios de WhatsApp](https://www.whatsapp.com/legal/business-policy/?fbclid=IwAR1ec4FMqKNTvk3K6ZQ7jzrKhrZjqVl9JF8nheX_gnjSt5io8Jrj2hbBJXE).
 - Envía mensajes solo a usuarios que han optado por recibir comunicaciones de tu empresa.

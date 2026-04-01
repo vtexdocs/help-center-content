@@ -17,11 +17,11 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 In this article we will see a practical example of how using expressions and variables can be useful for your chatbot. Here, we will focus on a very simple example, but also can be very useful for everyone: **Being able to capture the user 's location by the conversation, and can use this data later.**
 
-### Step one: Identify the channel
+## Step one: Identify the channel
 
 How to capture the location changes depending on the channel you are using on the platform.
 
-#### Web channel:
+### Web channel
 
 To capture a user's location via the web channel, simply create a ""Send Message"" action letter with a ""Quick Reply"" with the prefix ""[Loc]"", so the user can reach that button, we can capture the location via browser. After that, simply save the result in the ""Wait for response"" decision letter.
 
@@ -31,7 +31,7 @@ The message received by the web channel will always begin with: ""My Location is
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/using-expressions-to-capture-the-users-location_2.png)
 
-#### Telegram channel:
+### Telegram channel
 
 To send the location via telegram, the user needs to click the button 📎, select ""Location"" and then ""Send my current location"".
 
@@ -39,7 +39,7 @@ With this, simply create a ""Wait for response"" decision letter and save the va
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/using-expressions-to-capture-the-users-location_3.png)
 
-#### Whatsapp Channel:
+### WhatsApp channel
 
 To send the location via WhatsApp, the user needs to click the 📎 button or ➕ the, select ""Location"" and then ""Fixed location"".
 
@@ -50,4 +50,3 @@ This variable is the location in the format ""geo: latitude, longitude"", so we 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/using-expressions-to-capture-the-users-location_4.png)
 
 This way, we are able to create a flow with support to capture the user's location across three different channels, using the expressions and variables available on the platform.",
-

@@ -13,6 +13,9 @@ locale: pt
 legacySlug: skus-recebidos-nova-experiencia-no-gerenciamento-de-skus
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Explore as novas funcionalidades da página  SKUs recebidos, desenvolvidas para facilitar o dia a dia da sua operação.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
 ---
 
 Desenvolvemos novas funcionalidades para a página de SKUs recebidos para melhorar a experiência da interação entre marketplace e seller no momento de aprovação de SKUs.  

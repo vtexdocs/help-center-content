@@ -13,6 +13,9 @@ locale: pt
 legacySlug: modulo-status-dos-anuncios-para-integracoes-com-marketplaces-vtex
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Acompanhe seus anúncios com o novo módulo Status dos anúncios'
+tags:
+  - Nova funcionalidade
+  - Marketplace
 ---
 
 __Status dos anúncios__ é o novo módulo no Admin VTEX que permite ao seller acompanhar o envio e a sincronização dos anúncios de integrações com marketplaces VTEX de todas as regiões do mundo. Para acessar o módulo, vá em __Marketplace > Conexões > Status de anúncios,__ ou digite __Status de anúncios__ na barra de busca.

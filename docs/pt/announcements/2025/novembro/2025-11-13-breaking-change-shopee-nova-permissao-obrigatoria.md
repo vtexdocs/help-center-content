@@ -12,6 +12,9 @@ locale: pt
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Nova permissão obrigatória para acessar o app da Shopee na versão 3.x do conector.'
+tags:
+  - Breaking change
+  - Integrações
 ---
 
 Para melhorar a segurança de acessos e fortalecer os controles de permissão, implementamos uma atualização no conector da Shopee. A partir da versão 3.x do conector, foi implementada uma nova permissão de acesso obrigatória.

@@ -1,5 +1,5 @@
 ---
-title: 'Getting Started - Create project'
+title: "Getting started - create project"
 id: 6s7Y3xsQSOTGxufA9bY8IP
 status: PUBLISHED
 createdAt: 2025-09-01T15:32:25.883Z
@@ -14,8 +14,6 @@ legacySlug: create-project
 locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
-
-### Getting Started - Creating Your Project
 
 During the registration and login step, you already created your first organization and project. To add a new organization, simply click on "Create Organization" button.
 
@@ -38,9 +36,9 @@ After filling in the fields above, click the "Next" button and proceed to the ne
 2. Goal;
 3. Content (Optional).
 
-> **Note:** Clearly define the main objective of your agent when interacting with customers. For example: "Help customers find products that meet their needs" or "Provide technical support." This will guide conversations in a direct and assertive manner.
+> Clearly define the main objective of your agent when interacting with customers. For example: "Help customers find products that meet their needs" or "Provide technical support." This will guide conversations in a direct and assertive manner.
 
-> **Note:** By adding a content base, you enable your intelligent agent to respond effectively to users. Easily import essential information by dragging and dropping files, with the text automatically integrated. Additionally, you can add content directly from websites or copy and paste what you need into the database.
+> By adding a content base, you enable your intelligent agent to respond effectively to users. Easily import essential information by dragging and dropping files, with the text automatically integrated. Additionally, you can add content directly from websites or copy and paste what you need into the database.
 
 **Templates** are pre-built flows with specific purposes, divided into three categories: support, integrations, and sales. When you click on any of the cards related to a template category, a pop-up will appear detailing its general use.
 
@@ -52,9 +50,9 @@ Choose between creating a personalized agent or using a template to complete the
 
 After following the steps to create an organization and project, you can start **adding your team** by configuring permissions.
 
-> **Note:** People added to the organization will have access to all projects created within it.
+> People added to the organization will have access to all projects created within it.
 
-> **Note:** To learn more about the permissions' system, click here.
+> To learn more about the permissions' system, click here.
 
 Add members to your organization by clicking the dropdown menu and then "Manage Members." See the image:
 
@@ -68,7 +66,6 @@ The members you add will receive an invitation email to join the organization. S
 
 ![Invitation Email](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/create-project_8.png)
 
-> **Note:** To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
+> To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
 
 After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the Weni Platform.
-

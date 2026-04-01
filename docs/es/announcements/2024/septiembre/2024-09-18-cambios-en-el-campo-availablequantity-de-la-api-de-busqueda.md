@@ -13,6 +13,9 @@ locale: es
 legacySlug: cambios-en-el-campo-availablequantity-de-la-api-de-busqueda
 announcementImageID: 'undefined'
 announcementSynopsisES: 'VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de búsqueda legada.'
+tags:
+  - Cambio disruptivo
+  - Intelligent Search
 ---
 
 VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de búsqueda legada. Este cambio puede impactar el funcionamiento de las integraciones existentes.

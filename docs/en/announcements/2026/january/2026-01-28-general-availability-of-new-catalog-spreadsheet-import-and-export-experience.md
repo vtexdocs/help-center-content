@@ -2,7 +2,7 @@
 title: 'General availability of new catalog spreadsheet import and export experience'
 status: PUBLISHED
 createdAt: 2026-01-28T00:00:00.000Z
-updatedAt: 2026-04-02T00:00:00.000Z
+updatedAt: 2026-03-24T00:00:00.000Z
 publishedAt: 2026-01-28T00:00:00.000Z
 contentType: updates
 productTeam: Catalog
@@ -11,11 +11,8 @@ slugEN: 2026-01-28-general-availability-of-new-catalog-spreadsheet-import-and-ex
 locale: en
 announcementSynopsisEN: 'The redesigned interface offers export using filters and status tracking.'
 tags:
+  - New feature
   - Catalog
-  - Importing
-  - Product
-  - Products
-  - SKU
 ---
 
 By the end of February 2026, all VTEX stores will have access to the new spreadsheet import and export experience for products and SKUs, specifications, and images. Account migration is being done gradually and will be applied to stores in all regions.

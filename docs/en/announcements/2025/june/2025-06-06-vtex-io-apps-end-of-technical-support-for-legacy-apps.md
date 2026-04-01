@@ -13,6 +13,9 @@ locale: en
 legacySlug: vtex-io-apps-end-of-technical-support-for-legacy-applications
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX no longer offers support for legacy apps.'
+tags:
+  - Deprecation
+  - Storefront
 ---
 
 As part of our ongoing efforts to enhance platform performance, we’re officially ending support for specific legacy and third-party apps. These apps will no longer receive updates, security patches, or technical support from VTEX.

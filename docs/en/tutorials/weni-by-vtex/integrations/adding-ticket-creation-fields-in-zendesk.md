@@ -1,5 +1,5 @@
 ---
-title: 'Adding ticket creation fields in Zendesk'
+title: "Adding ticket creation fields in Zendesk"
 id: 7F2pd5FE5KWPQbgcGaWVSC
 status: PUBLISHED
 createdAt: 2025-09-15T14:25:44.625Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 When creating a ticket in Zendesk, we can send some extra information via the body about it. Now it is possible to add **priority, subject, description, custom fields, tags, and message.**
 
-### Fields:
+## Fields
 
 - **Priority:** There are four priority levels: Low, Normal, High, and Urgent. By default, all four values are available, but you can choose to display only Normal and High. To do this, edit the priority field and change the setting in Field Values. Priority is not a required field, so it is not always necessary to select a value.
 - **Subject:** The subject field is mandatory and can contain up to 150 characters. If the ticket title does not appear in the ticket's subject, this field might not be visible to end users.
@@ -35,6 +35,7 @@ When creating a ticket in Zendesk, we can send some extra information via the bo
 4. Select the type of field you want to create; there are several options, so make sure to send the value correctly according to your choice.
 5. After that, add the field's Display Name, Description (optional), and if the field is required, check the box for ""Required to Solve a Ticket."" Choose the appropriate permission, usually the second option, and click Save at the bottom\-right corner.
 6. You're all set, and now you have a new custom field. You will just need the field's ID, which is available next to the display name of your created field.
+
 - **Tags:** Tags are used to add additional information to tickets, which can be utilized in the ticket workflow. They are sent as a list of words, where each word is a tag.
 
 - **Message:** The initial message of the ticket, if your ticket does not have a description.

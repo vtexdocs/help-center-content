@@ -1,5 +1,5 @@
 ---
-title: 'Adding a Facebook Channel'
+title: "Adding a Facebook channel"
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z
@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-**Facebook has updated its integration policies**, so now you can easily connect a Facebook page to create a Messenger channel in just a few moments.
+Facebook has updated its integration policies so now you can easily connect a Facebook page to create a Messenger channel in just a few moments.
 
-### Adding a Page
+## Adding a page
 
 1. In your project, go to **Apps > Discovery**
 
@@ -37,7 +37,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 5. Choose the page you want to add and click **Create Channel**.
 
- ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_5.png)
 
 If you need to log into the platform, you will be asked to give permissions to allow. You should allow all to complete the process. Then, you will be directed back to the previous step.
 

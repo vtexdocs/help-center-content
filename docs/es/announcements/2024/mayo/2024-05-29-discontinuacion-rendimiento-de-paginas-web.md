@@ -13,6 +13,9 @@ locale: es
 legacySlug: discontinuacion-del-modulo-rendimiento-de-paginas-web
 announcementImageID: 'undefined'
 announcementSynopsisES: 'El módulo Rendimiento de Página Web quedará obsoleto.'
+tags:
+  - Descontinuación
+  - Storefront
 ---
 
 El **04 de junio de 2024** deshabilitaremos el **módulo Rendimiento de Página Web** del VTEX Admin. El módulo permitió a los retailer monitorear las métricas de desempeño de las URL de sus ecommerce presentadas por [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) directamente en la plataforma VTEX.  
