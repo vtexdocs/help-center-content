@@ -20569,6 +20569,67 @@
           "children": [
             {
               "name": {
+                "en": "Configuring locales",
+                "es": "Configurar configuraciones regionales",
+                "pt": "Configurar localidades"
+              },
+              "slug": {
+                "en": "configuring-locales-subcategory",
+                "es": "configurar-configuraciones-regionales-subcategoria",
+                "pt": "configurar-localidades-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
+                  },
+                  "slug": {
+                    "en": "configuring-locales",
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Idiomas y regiones admitidos",
+                    "pt": "Idiomas e regiões compatíveis"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "idiomas-y-regiones-admitidos",
+                    "pt": "idiomas-e-regioes-compativeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Entendendo as regras de fallback de localidade"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Branching and versioning",
                 "es": "Ramificación y versionado",
                 "pt": "Branching and versionamento"
@@ -20576,7 +20637,7 @@
               "slug": {
                 "en": "branching-and-versioning-subcategory",
                 "es": "ramificacion-y-versionado-subcategoria",
-                "pt": "branching-and-versioning-subcategoria-pt"
+                "pt": "branching-and-versionamento-subcategoria"
               },
               "origin": "",
               "type": "category",
