@@ -44,7 +44,7 @@ Sigue las instrucciones a continuación para agregar un usuario:
    - **Email (opcional)**: dirección de email que puede utilizarse para iniciar sesión y recibir comunicaciones relacionadas con el proceso de compra.
    - **Teléfono (opcional)**: teléfono de contacto del usuario. Puede utilizarse tanto para iniciar sesión como para recibir comunicaciones relacionadas con las compras realizadas.
    - **Nombre de usuario**: identificador único del usuario dentro de la organización. Utilizado para iniciar sesión en la tienda. No se permiten caracteres especiales.
-   - **Roles**: define el acceso del usuario en el storefront, como Comprador, Aprobador de pedidos u Administrador de la unidad organizativa. Para más información sobre roles y permisos, consulta la documentación de [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/membros-da-organizacao-compradora).
+   - **Roles**: define el acceso del usuario en el storefront, como Comprador, Aprobador de pedidos u Administrador de la unidad organizativa. Para más información sobre roles y permisos, consulta la documentación de [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
 
      > ⚠️ Para registrar usuarios compradores, es decir, con roles que permiten realizar compras, es necesario un paso adicional. Más información en [Habilitar usuarios compradores](#habilitar-usuarios-compradores).
 
@@ -74,5 +74,5 @@ El código será válido durante 12 horas. El usuario podrá iniciar sesión por
 A diferencia de otros tipos de usuarios, para registrar un usuario con permiso para realizar compras en la tienda, no basta con crear el usuario y asignarle determinados roles: también es necesario registrar al usuario como comprador vía API. Para habilitar a un usuario para hacer compras en la tienda sigue los pasos a continuación:
 
 1. Agrega el usuario a la organización compradora como se describe en las [instrucciones](#instrucciones).
-2. Asigna un rol que permita realizar compras. Consulta roles y permisos en el artículo [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/membros-da-organizacao-compradora).
+2. Asigna un rol que permita realizar compras. Consulta roles y permisos en el artículo [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
 3. Registra al usuario como comprador. Para saber cómo agregar y gestionar datos de compradores, consulta la [API de datos del comprador B2B](https://developers.vtex.com/docs/api-reference/b2b-buyer-data-api).
