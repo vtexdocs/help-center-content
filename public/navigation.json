@@ -17185,14 +17185,14 @@
                 },
                 {
                   "name": {
-                    "en": "Organization Units",
-                    "es": "Unidades de organización",
-                    "pt": "Organization Units"
+                    "en": "Organizational units",
+                    "es": "Unidades organizativas",
+                    "pt": "Unidades organizacionais"
                   },
                   "slug": {
-                    "en": "organization-units",
-                    "es": "organization-units-es",
-                    "pt": "organization-units-pt"
+                    "en": "organizational-units",
+                    "es": "unidades-organizativas",
+                    "pt": "unidades-organizacionais"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17306,12 +17306,12 @@
                 },
                 {
                   "name": {
-                    "en": "Adding users to a buyer organization",
+                    "en": "Adding users to buyer organizations",
                     "es": "Agregar usuarios a la organización compradora",
                     "pt": "Adicionar usuários à organização compradora"
                   },
                   "slug": {
-                    "en": "adding-users-to-buyer-organization",
+                    "en": "adding-users-to-buyer-organizations",
                     "es": "agregar-usuarios-a-la-organizacion-compradora",
                     "pt": "adicionar-usuarios-a-organizacao-compradora"
                   },
