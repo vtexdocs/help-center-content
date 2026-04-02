@@ -40,7 +40,7 @@ Para cada política comercial adicional, é cobrado um valor mensal, seja ela ut
 
 ## Definição da Estratégia de Envio
 
-Para vender seus produtos na Amazon é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
+Para vender seus produtos na Amazon é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/docs/tutorials/gerenciar-doca).
 
 A Política de Envio estabelece o conjunto de regras das condições de frete, ou seja, informações de custo, transporte e tempo de entrega. Além disso, é também por meio Política de Envio que é feita a associação de qual será o local de armazenamento dos seus produtos (Estoque), e qual será o espaço de escoamento desses produtos (Doca).
 
@@ -56,6 +56,6 @@ Caso você queira conferir se as configurações foram realizadas corretamente, 
 
 ### Tempo de custo
 
-Na Amazon existe o campo *"fulfillment latency"*, que é usado para configurar o tempo de preparo da entrega de determinado produto. Para utilizá-lo na configuração com a Amazon, é necessário preencher o campo **Tempo de Custo** no [cadastro da doca](/pt/tutorial/como-cadastrar-doca) associada à [política comercial](#definicao-da-politica-comercial-na-amazon) usada para a Amazon. Caso esse campo não esteja preenchido, a Amazon usará o valor padrão deles (2 dias).
+Na Amazon existe o campo *"fulfillment latency"*, que é usado para configurar o tempo de preparo da entrega de determinado produto. Para utilizá-lo na configuração com a Amazon, é necessário preencher o campo **Tempo de Custo** no [cadastro da doca](/pt/docs/tutorials/gerenciar-doca) associada à [política comercial](#definicao-da-politica-comercial-na-amazon) usada para a Amazon. Caso esse campo não esteja preenchido, a Amazon usará o valor padrão deles (2 dias).
 
 > ⚠️ O preenchimento desse campo é fundamental, porque caso sua loja esteja atrasando na entrega do pedido, sua conta pode ser bloqueada.

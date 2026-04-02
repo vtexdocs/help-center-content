@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp: Integração Expressa Weni'
+title: 'WhatsApp: Integração expressa Weni'
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -25,7 +25,7 @@ Existem algumas premissas para adicionar um número de WhatsApp pelo método de 
 2. O número **não deve** estar instalado em outro aplicativo ou a uma conta de WhatsApp (Business ou pessoal), caso esteja este número deverá ser excluir do aplicativo antes do início do processo. [Veja aqui](https://faq.whatsapp.com/605464643328528/?cms_platform=android&locale=pt_BR) como excluir.
 3. O número deve estar habilitado pela operadora para receber uma ligação ou SMS, com o chip inserido em um telefone pronto para receber o código de verificação que será enviado durante o processo de integração do canal.
 
-#### **Pronto, com essas premissas cumpridas chegou a hora de iniciar a integração!**
+**Pronto, com essas premissas cumpridas chegou a hora de iniciar a integração!**
 
 Dentro do projeto ao qual irá ser feita a integração vá até o módulo aplicativos e na aba descoberta encontrará o *card* de integração do WhatsApp, clique no símbolo de **\+**, para adicionar a integração.
 
@@ -93,7 +93,7 @@ Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK,
 
 Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>Na sequência, selecione o número que será vinculado à integração do WhatsApp na Weni Plataforma e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
 
-#### **Agora o seu canal WhatsApp está integrado e pronto para ser customizado!**
+**Agora o seu canal WhatsApp está integrado e pronto para ser customizado!**
 
 Na sequencia um *card* com o número do telefone irá aparecer na aba **Meus Aplicativos.**
 
@@ -103,6 +103,6 @@ Ao clicar neste *card* aparecerá as opções de customização, siga as dicas e
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-integracao-expressa-weni_15.png)
 
-##### **Para aproveitar ainda mais do canal, caso não o tenha feito, inicie o processo de verificação do seu negócio junto a Meta.**
+**Para aproveitar ainda mais do canal, caso não o tenha feito, inicie o processo de verificação do seu negócio junto a Meta.**
 
 Para iniciar a verificação siga esse passo [link](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio).

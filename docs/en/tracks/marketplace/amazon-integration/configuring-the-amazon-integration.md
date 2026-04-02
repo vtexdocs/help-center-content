@@ -23,7 +23,7 @@ Once you have configured your VTEX store and your Amazon account, you must confi
 4. In the Amazon card, click on `Integrate`.
 5. Fill in the fields according to the descriptions below, then click on the `Save configuration` button. Fields marked with an asterisk are mandatory.
 
-- __Affiliate Id*__: identification code for creating an [affiliate](/en/tutorial/o-que-e-afiliado) bthat is not yet registered in your system. The code must consist of three consonants, repeated or not. Vowels are not accepted. Suggestion: MZN. Once the connector is created, the affiliate is automatically created.
+- __Affiliate Id*__: identification code for creating an [affiliate](/en/docs/tutorials/what-is-an-affiliate) bthat is not yet registered in your system. The code must consist of three consonants, repeated or not. Vowels are not accepted. Suggestion: MZN. Once the connector is created, the affiliate is automatically created.
 - __Affiliate Email*__: fill in an email address for the affiliate you are creating.
 - __Sales Channel*__: the [trade policy](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#defining-the-trade-policy-in-amazon) that will define the catalog assortment and the prices of the items that will be sent to Amazon. 
 - __Amazon Seller Id*__: fill in the **seller ID** informed by Amazon at the step in which you [Authorize VTEX in your Amazon dashboard](/en/docs/tracks/amazon-account-settings). 

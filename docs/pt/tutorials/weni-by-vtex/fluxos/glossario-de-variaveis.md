@@ -1,5 +1,5 @@
 ---
-title: 'Glossário de Variáveis'
+title: "Glossário de variáveis"
 id: MOTwhIJlY251TLzK3UUPl
 status: PUBLISHED
 createdAt: 2025-09-16T16:20:16.591Z
@@ -15,47 +15,46 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-### Visão geral
-
 As variáveis são locais criados para armazenar valores na plataforma, permitindo assim que os dados sejam salvos mesmo após a finalização de um fluxo.
 
 Para utilizar uma variável deve se colocar o `@` e a expressão digitada será substituída pelo real valor da variável, desde que seja criada de forma adequada.
 
 Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis existentes na Weni Plataforma, sendo eles:
-  * Contatos e campos de contato
-  * Resultados e fluxos
-  * Globals
 
-### Contatos e campos de contato
+- Contatos e campos de contato
+- Resultados e fluxos
+- Globals
 
-  * `@contact`: variáveis para salvar valores ligados diretamente com o contato. Abaixo, segue a lista de sub-variáveis mais utilizadas:
-    * `@contact.name`: Nome completo do contato;
-    * `@contact.first_name`: Primeiro nome do contato;
-    * `@contact.urns`: lista de URNs do contato. Também pode ser acessado pelo `@urns`;
-    * `@contact.uuid`: ID único do contato;
-    * `@contact.created_on`: Data em que o contato foi criado;
-    * `@contact.language`: Língua preferencial do contato;
-    * `@contact.channel`: Nome do canal preferencial do contato;
-    * `@contact.groups`: Nome dos grupos que o contato participa;
-    * `@contact.fields`: Campos de contato personalizados do contato. Para acessar basta utilizar `@contact.fields.nome_do_campo` ou `@fields.nome_do_campo`.
+## Contatos e campos de contato
 
-### Resultados e fluxos
+- `@contact`: variáveis para salvar valores ligados diretamente com o contato. Abaixo, segue a lista de sub-variáveis mais utilizadas:
+  - `@contact.name`: Nome completo do contato;
+  - `@contact.first_name`: Primeiro nome do contato;
+  - `@contact.urns`: lista de URNs do contato. Também pode ser acessado pelo `@urns`;
+  - `@contact.uuid`: ID único do contato;
+  - `@contact.created_on`: Data em que o contato foi criado;
+  - `@contact.language`: Língua preferencial do contato;
+  - `@contact.channel`: Nome do canal preferencial do contato;
+  - `@contact.groups`: Nome dos grupos que o contato participa;
+  - `@contact.fields`: Campos de contato personalizados do contato. Para acessar basta utilizar `@contact.fields.nome_do_campo` ou `@fields.nome_do_campo`.
 
-  * `@results`: variáveis para salvar valores ligados diretamente aos resultados de fluxo. Para acessar um resultado basta utilizar `@results.nome_do_resultado`. Abaixo, segue a lista de sub-variáveis mais utilizadas:
-    * `@results.nome_do_resultado.category`: categoria/rota a qual aquele resultado pertence;
-    * `@results.nome_do_resultado.value`: valor de texto exato do resultado;
-    * `@results.nome_do_resultado.extra`: valores além de texto que um resultado pode possuir, como anexos ou informações de requisição.
+## Resultados e fluxos
 
-  * `@input`: variáveis que contêm o valor de entrada do contato. Abaixo, segue a lista de sub-variáveis mais utilizadas:
-    * `@input.text`: valor de texto inserido pelo contato em sua última interação com a plataforma.
+- `@results`: variáveis para salvar valores ligados diretamente aos resultados de fluxo. Para acessar um resultado basta utilizar `@results.nome_do_resultado`. Abaixo, segue a lista de sub-variáveis mais utilizadas:
+  - `@results.nome_do_resultado.category`: categoria/rota a qual aquele resultado pertence;
+  - `@results.nome_do_resultado.value`: valor de texto exato do resultado;
+  - `@results.nome_do_resultado.extra`: valores além de texto que um resultado pode possuir, como anexos ou informações de requisição.
 
-    * `@input.attachments`: anexos inseridos pelo contato em sua última interação com a plataforma.
+- `@input`: variáveis que contêm o valor de entrada do contato. Abaixo, segue a lista de sub-variáveis mais utilizadas:
+  - `@input.text`: valor de texto inserido pelo contato em sua última interação com a plataforma.
 
-  * `@child`: permite referenciar todas as variáveis do fluxo filho, ou seja, o fluxo chamado pela carta de ação Entrar em um Fluxo, dentro do fluxo pai. Caso você queira acessar um resultado do fluxo filho após a sua finalização, por exemplo, basta utilizar `@child.results.nome_do_resultado`. Ao utilizar outra carta de Entrar em um Fluxo, o valor de `@child` é sobrescrito.
+  - `@input.attachments`: anexos inseridos pelo contato em sua última interação com a plataforma.
 
-  * `@parent`: permite referenciar todas as variáveis do fluxo pai, ou seja, o fluxo que chamou a carta de ação Entrar em um Fluxo, dentro do fluxo filho. Caso você queira acessar um resultado do fluxo pai durante a execução do fluxo filho, por exemplo, basta utilizar `@parent.results.nome_do_resultado`.
+- `@child`: permite referenciar todas as variáveis do fluxo filho, ou seja, o fluxo chamado pela carta de ação Entrar em um Fluxo, dentro do fluxo pai. Caso você queira acessar um resultado do fluxo filho após a sua finalização, por exemplo, basta utilizar `@child.results.nome_do_resultado`. Ao utilizar outra carta de Entrar em um Fluxo, o valor de `@child` é sobrescrito.
 
-### Globals
+- `@parent`: permite referenciar todas as variáveis do fluxo pai, ou seja, o fluxo que chamou a carta de ação Entrar em um Fluxo, dentro do fluxo filho. Caso você queira acessar um resultado do fluxo pai durante a execução do fluxo filho, por exemplo, basta utilizar `@parent.results.nome_do_resultado`.
+
+## Globals
 
 Variáveis globais, ou globals, são variáveis criadas que podem ser acessadas de qualquer fluxo, a qualquer momento, porém não podem ter o seu valor modificado durante uma execução de fluxo. São muito utilizadas quando precisamos mandar a mesma informação para vários fluxos diferentes, e depois precisamos modificar esse valor de forma prática para todos os fluxos onde ela está inserida.
 

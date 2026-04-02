@@ -1,5 +1,5 @@
 ---
-title: 'Campo de contactos'
+title: "Campo de contactos"
 id: 5q7gMYEvFCLdk7tYsHXB0x
 status: PUBLISHED
 createdAt: 2025-09-12T17:20:52.053Z
@@ -23,7 +23,7 @@ Independientemente del flujo en el que esté tu contacto, puedes acceder a sus c
 
 Las dos variables pueden llevar al mismo campo de contacto.
 
-#### **¿Cómo crear un campo?**
+## ¿Cómo crear un campo?
 
 Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo **""Estudio""** en el menú lateral izquierdo. Luego, haz clic en **""Contactos""** y en **""Manejar Campos""**.
 
@@ -35,10 +35,10 @@ Serás dirigido a la página de gestión de campos de contacto, donde encontrar�
 
 Luego, simplemente:
 
--    Elige la **etiqueta** de tu campo de contacto llenando el campo **Nombre**.
+- Elige la **etiqueta** de tu campo de contacto llenando el campo **Nombre**.
 
--  Selecciona el **tipo de valor** que el campo puede almacenar en la opción **Tipo de Datos**. Los tipos de valores aceptados son: **Texto**, **Número**, **Fecha y Hora**, **Estado**, **Distrito** y **División**.
+- Selecciona el **tipo de valor** que el campo puede almacenar en la opción **Tipo de Datos**. Los tipos de valores aceptados son: **Texto**, **Número**, **Fecha y Hora**, **Estado**, **Distrito** y **División**.
 
--  Decide si deseas que este campo aparezca o no en la vista previa de la página de contactos, marcando la casilla de **Destacados**.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/campo-de-contactos_4.png)
+- Decide si deseas que este campo aparezca o no en la vista previa de la página de contactos, marcando la casilla de **Destacados**.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/campo-de-contactos_4.png)
 
 Si deseas editar alguna información, simplemente haz clic sobre el campo de contacto ya existente, y el pop-up de edición se abrirá nuevamente.

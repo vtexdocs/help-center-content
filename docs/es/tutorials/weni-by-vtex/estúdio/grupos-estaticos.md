@@ -1,5 +1,5 @@
 ---
-title: 'Grupos estáticos'
+title: "Grupos estáticos"
 id: NpZX08omekZDgF95308Le
 status: PUBLISHED
 createdAt: 2025-09-12T17:27:13.619Z
@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Como vimos en nuestra [Introducción a contactos](https://help.vtex.com/es/docs/tutorials/introduccion-a-contactos), existen dos tipos de grupos para los contactos en la plataforma. Ahora explicaremos cómo funcionan y cómo crear tus grupos.
 
-#### **Grupo estático**
+## Grupo estático
 
 El grupo estático es el tipo de grupo donde los contactos deben ser añadidos y/o eliminados manualmente. Para que un contacto entre o salga de un grupo estático, debe ser añadido/eliminado por el usuario de la plataforma en la pestaña de contactos, o añadido/eliminado a través de flujos durante la conversación con tu automatización.
 

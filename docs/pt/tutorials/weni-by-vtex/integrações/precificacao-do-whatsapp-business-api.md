@@ -1,5 +1,5 @@
 ---
-title: 'Precificação do Whatsapp Business API'
+title: "Precificação do WhatsApp business API"
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
@@ -21,7 +21,7 @@ O WhatsApp cobra por conversa, e não por mensagem enviada. As conversas são co
 
 As conversas iniciadas pela empresa são divididas em três categorias: utilidade, autenticação e marketing. As conversas iniciadas pelo usuário são chamadas de conversas de serviço.
 
-#### **Conversas iniciadas pela empresa**
+## Conversas iniciadas pela empresa
 
 - **Utilidade**:  Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
 
@@ -35,15 +35,15 @@ As conversas iniciadas pela empresa são divididas em três categorias: utilidad
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/precificacao-do-whatsapp-business-api_3.png)
 
-#### **Conversas iniciadas pelo usuário**
+## Conversas iniciadas pelo usuário
 
 - **Serviço**: São as conversas iniciadas pelo usuário, que ajudam os clientes a tirarem dúvidas.
 
-#### **Cobrança das conversas**
+## Cobrança das conversas
 
 O envio de vários modelos da mesma categoria em uma conversa aberta não irá resultar em cobranças adicionais e as conversas de serviço só serão iniciadas quando não houver janelas de conversas abertas e a empresa pode responder ao usuário com um formato livre de mensagem na janela de atendimento ao cliente de 24 horas.
 
-#### **Exceções**
+## Exceções
 
 As conversas com ponto de entrada gratuito ocorrem quando o cliente entra em contato com a empresa através de um botão de chamada para ação em anúncios de clique para o WhatsApp ou em Páginas do Facebook. Como o usuário do WhatsApp Business já está sendo cobrado pelo anúncio publicado nas redes sociais, ele não será cobrado por nenhum modelo de mensagem enviado nessa conversa durante um período de 72 horas.
 
@@ -51,13 +51,13 @@ A conversa iniciada é gratuita, porém o anúncio é cobrado.
 
 Lembrando que: Cada conta do WhatsApp Business (WABA) tem 1\.000 conversas iniciadas pelo usuário gratuitas por mês, independentemente da quantidade de telefones incluídos. O limite de conversas gratuitas é restaurado a cada mês, de acordo com o fuso horário associado à WABA.
 
-#### **Duração da Conversa**
+## Duração da conversa
 
 As conversas de marketing, utilidade, autenticação e serviço têm uma duração de 24 horas (caso não sejam conversas por ponto de entrada gratuito — de anúncios de clique para o WhatsApp ou de Páginas do Facebook). Após esse período, o tempo será reiniciado, e qualquer mensagem enviada iniciará uma nova janela, sendo cobrada de acordo com a categoria.
 
-#### **Precificação**
+## Precificação
 
-##### Conversas iniciadas pela empresa:
+### Conversas iniciadas pela empresa
 
 - **Utilidade**: Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
 - **Autenticação**: Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.

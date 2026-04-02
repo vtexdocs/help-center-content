@@ -1,5 +1,5 @@
 ---
-title: 'Recuperando el acceso al Administrador de Negocios'
+title: "Recuperando el acceso al Administrador de negocios"
 id: 2kj7yKJWbEx2CsdWG50QNN
 status: PUBLISHED
 createdAt: 2025-09-15T15:34:21.608Z
@@ -37,6 +37,7 @@ Si después de realizar todos estos procedimientos aún no encuentras a la perso
 
 1. Una copia de un documento de identificación con foto válido emitido por el gobierno del individuo que firma la declaración.
 2. [UNA DECLARACIÓN FIRMADA](https://docs.google.com/document/d/19KjVuEGSMHlm30BLw6SJJXpkLEipR3WO4Me83M4KVb4/edit) en formato de archivo PDF de una persona con suficiente conocimiento y autoridad sobre el asunto, que incluya todos los siguientes elementos:
+
 - El correo electrónico de Facebook y la URL del perfil asociados con la cuenta de Facebook que deseas agregar como el nuevo administrador.
 - Una descripción de la relación del solicitante con la Empresa y la ID de la Empresa (y autoridad para solicitar acceso a la Empresa, según corresponda).
 - Una explicación de tu solicitud (por ejemplo: hubo una terminación de la relación laboral y/o comercial con la(s) persona(s)/Empresa designada(s), y otra persona debe ser añadida como Administrador).

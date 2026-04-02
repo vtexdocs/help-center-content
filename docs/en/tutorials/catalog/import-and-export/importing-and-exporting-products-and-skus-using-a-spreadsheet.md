@@ -1,7 +1,7 @@
 ---
 title: 'Importing and exporting products and SKUs using a spreadsheet'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-09T15:30:32.980Z
+updatedAt: 2026-03-30T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -28,6 +28,9 @@ To import products and SKUs using a spreadsheet, follow these steps:
 3. Click `Products and SKUs`.
 4. In the window that opens, click **Download the import spreadsheet template here** to get the file.
 5. Complete the spreadsheet details as described in the section [Product specification spreadsheet fields](#product-specification-spreadsheet-fields).
+
+  > ⚠️ The spreadsheet import limit is 10,000 lines.
+
 6. Add a spreadsheet with the `.xls` or `.xlsx` extension. You can drag and drop the file into the upload area, or click the window and select the file locally.
 7. Click `Import`.
 
@@ -45,7 +48,7 @@ To export a `.xlsx` file with product and SKU information, follow these steps:
 2. (Optional) If you want to export a subset of products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
 3. At the top of the page, click `Export`.
 
-  > ⚠️ The export limit is 100,000 products.
+  > ⚠️ The export limit is 300,000 products.
 
 4. Click `Products and SKUs`.
 5. In the **Export** modal, select the checkboxes for **Product fields** and/or **SKU fields** as desired. Required fields can't be unchecked.
@@ -101,18 +104,19 @@ The following table describes and includes an example of each field in the produ
 | Trade policies | Unique identifier number for the [trade policy](/en/docs/tutorials/creating-a-trade-policy). This information can be found in the VTEX Admin, under **Store settings > Trade policies**. For multiple trade policies, separate the numbers with a comma, without using spaces. | 1,2,7 |
 | Global category ID | Identifier code for the product’s [global category](/en/docs/tutorials/setting-up-the-global-category), which is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=en-US), predefined as a unique tree in the VTEX platform. This field is important for [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes. | 166 |
 | Global categories | [Global category](/en/docs/tutorials/setting-up-the-global-category) name. | Apparel & Accessories |
+| Product URL | Final part of the URL (slug) of the product details page (PDP). | corebiz-tshirt |
 | Page title | Name that will be displayed both on the product details page (PDP) and in the browser tab. This field is crucial for SEO. The limit is 150 characters. | Corebiz blue round neck t-shirt |
 | Meta description | Brief product description, preferably under 160 characters. This allows search engines to display the description correctly on results pages. | Corebiz blue t-shirt with round neck in polyester and lycra made with 70% recycled material |
-| Show on site* | If you want the product to be visible in the product listing, enter `yes`. If you prefer to hide it, enter `no`. | yes |
-| Show when out of stock* | If you want out-of-stock products to be visible in the listing, enter `yes`. This allows customers to use the [Notify me](https://help.vtex.com/docs/tutorials/setting-up-the-notify-me-option) feature, which allows them to enter their email and receive a notification when the product is available. If you want the out-of-stock product to become hidden in the listing, enter `no`. | no |
+| Show on site* | If you want the product to be visible in the product listing, enter `yes`. If you prefer to hide it, enter `no`. This field accepts the following values: true, TRUE, yes, YES, sim, SIM, si, SI, sí, SÍ / false, FALSE, no, NO, não, NÃO, nao, NAO. | yes |
+| Show when out of stock* | If you want out-of-stock products to be visible in the listing, enter `yes`. This allows customers to use the [Notify me](https://help.vtex.com/docs/tutorials/setting-up-the-notify-me-option) feature, which allows them to enter their email and receive a notification when the product is available. If you want the out-of-stock product to become hidden in the listing, enter `no`. This field accepts the following values: true, TRUE, yes, YES, sim, SIM, si, SI, sí, SÍ / false, FALSE, no, NO, não, NÃO, nao, NAO. | no |
 | Release date | Date and time when the product will be available for sale. The value of this field helps sort site search results, influences the creation of [automatic collections](/en/docs/tutorials/creating-collections-beta), and determines the product [indexing](/en/docs/tutorials/understanding-how-indexation-works) date. The accepted format is `YYYY-MM-DD`. | 2025-11-25 |
 | Substitute words | Product name synonyms that allow more comprehensive searches. The limit is 8,000 characters, including special characters. To add several words, separate them with commas, without using spaces. | shirt,blouse |
 | Product reference code | Unique product reference code, for internal store use only. To complete this field, use a combination of letters and/or numbers. | 68ce4_blue |
 | Tax code | Numerical sequence that identifies the product. | 84509010 |
 | SKU ID | Unique numerical code that identifies the SKU. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310119261 |
 | SKU name* | Name which identifies the product variation. | M |
-| Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/why-is-the-product-not-visible-on-the-website), enter `yes`. If you don't want it to be activated, enter `no`. | yes |
-| Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. | no |
+| Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/why-is-the-product-not-visible-on-the-website), enter `yes`. If you don't want it to be activated, enter `no`. This field accepts the following values: true, TRUE, yes, YES, sim, SIM, si, SI, sí, SÍ / false, FALSE, no, NO, não, NÃO, nao, NAO. | yes |
+| Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. This field accepts the following values: true, TRUE, yes, YES, sim, SIM, si, SI, sí, SÍ / false, FALSE, no, NO, não, NÃO, nao, NAO. | no |
 | Bundle | This field defines if the SKU is a [bundle](/en/docs/tutorials/what-is-a-bundle). Converting a SKU into a bundle can't be undone. If you're creating a new SKU, leave the field empty. | |
 | SKU reference code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet.This field is required unless the **EAN/UPC** field has a value. | |
 | EAN/UPC | EAN (European Article Number) and UPC (Universal Product Code) are international identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for EAN and 12 for UPC.This field is required unless the **SKU reference code** field has a value. | 8456971345604 |

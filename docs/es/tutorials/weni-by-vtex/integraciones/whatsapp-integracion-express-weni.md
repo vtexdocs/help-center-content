@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp: Integración Express Weni'
+title: "WhatsApp: Integración express Weni"
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -25,7 +25,7 @@ Existen algunas premisas para agregar un número de WhatsApp mediante el método
 2. El número no debe estar registrado en otra aplicación ni vinculado a una cuenta de WhatsApp (Business o personal). Si lo está, deberás eliminarlo de la aplicación antes de comenzar el proceso. [Aquí](https://faq.whatsapp.com/605464643328528/?cms_platform=android&locale=pt_BR) puedes ver cómo eliminarlo.
 3. El número debe estar habilitado por la operadora para recibir una llamada o SMS, con el chip insertado en un teléfono listo para recibir el código de verificación que se enviará durante el proceso de integración del canal.
 
-#### **¡Con estas premisas cumplidas, ha llegado el momento de iniciar la integración!**
+Con estas premisas cumplidas, ha llegado el momento de iniciar la integración.
 
 Dentro del proyecto en el que se realizará la integración, ve al módulo **Aplicaciones** y en la pestaña de **Descubrimiento** encontrarás la tarjeta de integración de **WhatsApp**, haz clic en el símbolo \+ para añadir la integración.
 

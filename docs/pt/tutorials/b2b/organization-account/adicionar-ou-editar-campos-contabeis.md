@@ -24,9 +24,9 @@ Este artigo aborda:
 
 ## Editar campo contábil
 
-![Buyer Portal B2B organization unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buyer-portal-b2b-organization-unit-information-page.png)
+![Buyer Portal B2B organization unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/conta-da-organizacao/buyer-portal-b2b-organization-unit-information-page.png)
 
-1. Acesse a [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account).
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
 2. Clique sobre o nome do campo contábil desejado.
 3. Na tela do campo contábil, clique no ícone <i class="fas fa-cog"></i> no topo da tela para editar informações do campo contábil.
 4. Em **List type**, selecione se os valores do campo contábil devem ser utilizados unicamente na organization unit (`Custom List`) ou se devem ser compartilhados por outras organization units do contrato (`Synchronized List`).
@@ -38,7 +38,7 @@ Este artigo aborda:
 
 ## Adicionar valor a um campo contábil
 
-1. Acesse a [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account).
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
 2. Clique sobre o nome do campo contábil desejado.
 3. Na tela do campo contábil, clique no ícone `+` no topo da tela.
 4. No modal exibido, informe o valor a ser atribuído no campo contábil, como número de pedido ou do centro de custo.
@@ -48,7 +48,7 @@ Feito isso, você verá a mensagem de confirmação que o valor foi criado com s
 
 ## Editar valor em um campo contábil
 
-1. Acesse a [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account).
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
 2. Clique sobre o nome do campo contábil desejado.
 3. Na tela do campo contábil, clique no ícone <i class="fas fa-ellipsis-v"></i> ao lado do valor que deseja editar.
 4. Selecione uma das opções abaixo, de acordo com a ação desejada:

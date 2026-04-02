@@ -1,5 +1,5 @@
 ---
-title: 'Regaining Access to Business Manager'
+title: "Regaining access to Business Manager"
 id: 2kj7yKJWbEx2CsdWG50QNN
 status: PUBLISHED
 createdAt: 2025-09-15T15:34:21.608Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Access to the business manager is essential for a company to be able to create or migrate its whatsapp account using a BSP. If you lost access to the business manager, learn how to recover this access by reading this article.
 
-#### Recovery process
+## Recovery process
 
 First, it's important to look for and contact potential Business Manager administrators, for example employees or people who may have previously created or administered Business Manager. If you find the Business Manager Admin, simply ask them to follow these steps:
 
@@ -37,6 +37,7 @@ If it is necessary to follow this path, open a ticket in business suites with th
 
 1. A copy of a valid government-issued photo ID of the individual signing the declaration
 2. A SIGNED STATEMENT in PDF file format from a person with sufficient knowledge and authority on this matter that includes all of the following:
+
 - The Facebook email address and profile URL associated with the Facebook account you want to add as the new admin
 - A description of the requester's relationship to the Company and the Company ID (and authority to request access to the Company, as applicable)
 - An explanation of your request (example: there has been a termination of employment and/or business relationship with the named person(s)/Company and another person needs to be added as Administrator)

@@ -1,5 +1,5 @@
 ---
-title: 'Importar y exportar flujos'
+title: "Importar y exportar flujos"
 id: 2jwPSnXsL3wniLWt9i7IA5
 status: PUBLISHED
 createdAt: 2025-09-17T14:03:45.539Z
@@ -17,12 +17,12 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Hay muchas razones por las que podríamos querer importar y exportar flujos, desde compartir una solución que creamos en la plataforma con un amigo hasta crear una plantilla para compartir dentro de nuestra comunidad. Aquí explicaremos un poco más sobre cómo funciona este proceso.
 
-### Exportación
+## Exportación
 
 Existen dos maneras de acceder a la página de exportación de flujos.
 
 1. **Primer Camino: A través del Editor de Flujos**
-Para acceder a la página de exportación a través del editor de flujos, simplemente ve al menú de opciones y haz clic en el botón ""Exportar Definición"".
+   Para acceder a la página de exportación a través del editor de flujos, simplemente ve al menú de opciones y haz clic en el botón ""Exportar Definición"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_1.png)
 
@@ -32,8 +32,8 @@ O también desde el módulo de flujos
 
 Puedes aprender más sobre el [Editor de Flujos y sus herramientas](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas) haciendo clic en el enlace.
 
-  2. **Segundo Camino: A través de Configuraciones Generales de la Organización**
-Para acceder a la página de exportación desde las configuraciones generales de la organización, simplemente ve al menú de opciones y haz clic en el botón ""Exportar"".
+2. **Segundo Camino: A través de Configuraciones Generales de la Organización**
+   Para acceder a la página de exportación desde las configuraciones generales de la organización, simplemente ve al menú de opciones y haz clic en el botón ""Exportar"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_3.png)
 
@@ -47,14 +47,15 @@ Si exportas solo un flujo de un grupo, puedes tener problemas con su funcionamie
 
 Para exportar los flujos deseados, simplemente selecciona los que te interesen y luego haz clic en el botón ""Exportar"" al final de la página, esto generará un archivo `.json` que podrás utilizar en la siguiente etapa, la importación.
 
-### Importación
+## Importación
 
 Para acceder a la página de importación de flujos, simplemente ve al menú de opciones y haz clic en el botón ""Importar"" en el módulo de Flujos.
-  1. Haz clic en el módulo de **Flujos > Botón Importar**
+
+1. Haz clic en el módulo de **Flujos > Botón Importar**
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_5.png)
 
-  1. Después, al acceder a la página de importación, selecciona el archivo `.json` creado en la página de exportación y presiona el botón ""Importar"".
+1. Después, al acceder a la página de importación, selecciona el archivo `.json` creado en la página de exportación y presiona el botón ""Importar"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_6.png)
 

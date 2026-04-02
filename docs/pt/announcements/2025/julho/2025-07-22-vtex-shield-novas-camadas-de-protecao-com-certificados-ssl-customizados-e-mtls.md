@@ -64,4 +64,4 @@ Essas funcionalidades alinham o VTEX Shield às práticas mais avançadas do mer
 
 Se você já é cliente da VTEX e deseja ativar Certificados SSL customizados, mTLS ou outras funcionalidades do VTEX Shield na sua loja, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial) para solicitar a habilitação e realizar as configurações adequadas. É possível que taxas adicionais se apliquem.
 
-Se ainda não é cliente, mas tem interesse nessas funcionalidades, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+Se ainda não é cliente, mas tem interesse nessas funcionalidades, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).

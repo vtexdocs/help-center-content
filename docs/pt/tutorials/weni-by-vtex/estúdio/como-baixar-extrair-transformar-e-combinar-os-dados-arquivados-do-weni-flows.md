@@ -1,5 +1,5 @@
 ---
-title: 'Como baixar, extrair, transformar e combinar os dados arquivados do Weni Flows'
+title: "Como baixar, extrair, transformar e combinar os dados arquivados do Weni flows"
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z
@@ -37,7 +37,7 @@ Os arquivos da tabela Runs virão com a inicial **run**. Para realizar o downloa
 
 Por fim, em cada arquivo você poderá verificar qual o conteúdo, período(mês) e quantidade de registros do arquivo.
 
-## **Carregando e transformando os dados arquivados no Power BI**
+## Carregando e transformando os dados arquivados no power bi
 
 - Após baixar os arquivos e extraí-los no Power BI, através do Power Query, você conseguirá carregá-los ao selecionar nova fonte e escolhendo a opção **JSON**.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_1.png)
 
@@ -65,10 +65,10 @@ Ao fazer a importação do arquivo, você verá que ele já irá expandir todas 
 
 - Ao finalizar o processo, será gerada uma nova consulta com todos os dados selecionados em uma única tabela.Esperamos que este tutorial seja útil para gerar mais insights para seu negócio.
 
-## **É importante que você saiba!**
+## É importante que você saiba!
 
 A conexão dos dados ocorre através da API de integração com o Power BI. A data está estruturada no formato JSON. Para acessar todos os campos dos dados, você deve expandir as colunas no Power Query no Power BI.
 
-## **Boas Práticas**
+## Boas práticas
 
 - Selecione apenas os dados relevantes para otimizar o processo de extração;- Transforme seus dados para tornar eles úteis;- Certifique-se de que seus dados estejam bem formatados, limpos e organizados antes de começar a criar seus dashboards, relatórios e etc..;- Mantenha um catálogo de dados com todos os campos de dados, descrições e tipos do seu projeto de chatbot. Além disso, certifique-se de que suas variáveis, como campos de contato e resultados, descrevam claramente sua finalidade;- Entenda os conceitos como flows, runs, contacts e messages para interpretar e criar insights de projeto adequadamente;- Explore a documentação [RapidPro API documentation](https://rapidpro.ilhasoft.mobi/api/v2/) para se familiarizar com a disponibilidade dos dados e como eles estão estruturados.

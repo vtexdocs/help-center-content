@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Instagram'
+title: "Como criar um canal no Instagram"
 id: 2OIxJaBTkfZbTAvGh0Ykuv
 status: PUBLISHED
 createdAt: 2025-09-15T14:18:02.785Z
@@ -23,11 +23,12 @@ E agora você pode elevar o nível e o potencial do seu atendimento criando um c
 
 Dessa forma, você cria mais engajamento e interação com seus seguidores e potenciais clientes e parceiros, aumentando as chances de fechar novos projetos enquanto reduz custos operacionais com atendimento.
 
-#### Como configurar sua conta do Instagram para criar um canal em nossa plataforma?
+## Configurar sua conta do Instagram para criar um canal em nossa plataforma
 
 As configurações abaixo são de extrema importância para a criação do canal do Instagram em nossa plataforma, pois sem elas a criação ficará impossibilitada. Os passos a seguir deverão ser realizados no aplicativo do Instagram.
 
-##### Passo 1: 
+### Passo 1
+
 Primeiramente é necessário que sua conta do Instagram seja empresarial ou profissional. Para isso, faça os seguintes passos:
 
 1. Vá em **Configurações > Para profissionais >** toque em **Mudar para conta profissional**.
@@ -39,7 +40,7 @@ Primeiramente é necessário que sua conta do Instagram seja empresarial ou prof
 1. Escolha a categoria que melhor represente a sua empresa e selecione Empresa.
 2. Pronto, sua conta é empresarial agora!
 
-##### Passo 2: Conectar conta do Instagram ao perfil do Facebook na Central de Contas:
+### Passo 2: Conectar conta do Instagram ao perfil do Facebook na central de contas
 
 1. Acesse **Configurações.**
 2. Toque em **Central de Contas** na parte inferior e, depois, em **Configurar a Central de Contas**.
@@ -62,14 +63,15 @@ Caso queira remover uma conta do Facebook da Central de Contas realize os passos
 5. Toque em **Continuar** e em **Remover \[Nome de Usuário].**
 6. Após isso, poderá vincular a conta que deseja.
 
-##### Passo 3: Adicione ou altere a Página do Facebook conectada à conta do Instagram:
+### Passo 3: Adicione ou altere a página do Facebook conectada à conta do Instagram
 
 1. Acesso o seu perfil.
 2. Selecione **Editar perfil.**
 3. Sob Informações comerciais públicas, selecione **Página**.
 4. Escolha a Página a qual deseja se conectar ou selecione **Criar uma nova Página do Facebook**.
 
-##### Passo 4: Permita acesso às mensagens do Instagram
+### Passo 4: Permita acesso às mensagens do Instagram
+
 Essa permissão faz com que você consiga gerenciar suas mensagens do Instagram através de nossa plataforma. Para habilitá-la realize os passos abaixo:
 
 1. Acesse o seu perfil, ou na sua foto do perfil, no canto inferior direito,
@@ -79,7 +81,7 @@ Essa permissão faz com que você consiga gerenciar suas mensagens do Instagram 
 
 Pronto, após realizar estes passos sua conta do Instagram já está apta para a criação de canal em nossa plataforma.
 
-#### Como criar um Canal do Instagram em nossa plataforma?
+## Criar um canal do Instagram na plataforma Weni
 
 Após realizar as configurações indicadas na seção anterior iremos agora criar um canal do Instagram.
 

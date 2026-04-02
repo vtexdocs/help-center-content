@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal de SMS - Para desarrolladores (RapidPro)'
+title: "Cómo crear un canal de SMS - para desarrolladores (RapidPro)"
 id: 3vQxJJOAjRC2eizkGZ4mix
 status: PUBLISHED
 createdAt: 2025-09-15T14:10:36.156Z
@@ -31,7 +31,9 @@ Esta es la forma más rápida de integrar el canal SMS a la plataforma, ya que t
 
 Cuando necesitamos enviar un mensaje saliente, se hará un POST a esta URL con los parámetros 'texto', 'para', 'de', 'canal' e 'id'. Ejemplo:
 
+```
 POST <https://google.com.br> Tipo de contenido: application/json Body: {""id"": 1241244, ""texto"": ""El amor es paciente. El amor es amable."", ""para"": ""\+250788123123"", ""to\_no\_plus"": ""250788123123"", ""from"": ""\+5582999489287"", ""from\_no\_plus"": ""5582999489287"", ""channel"": 346}
+```
 
 **Mensajes Entrantes**
 

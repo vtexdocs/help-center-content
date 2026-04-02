@@ -10,7 +10,7 @@ locale: en
 
 A contract establishes the commercial conditions between a B2B customer and your store. It also centralizes purchase agreement management by defining the products buyers can access, the prices that will apply to them, and the payment methods they can use.
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
+> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to selected accounts.
 
 Contracts are stored in the `CL` data entity of [Master Data v1](https://help.vtex.com/docs/tutorials/master-data). This is the same entity that stores buyer information in B2C scenarios; however, for B2B contracts, it follows specifications that enable the B2B Buyer Portal feature.
 

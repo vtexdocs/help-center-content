@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
+> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact-us).
 
 Intelligent Search combines the precision of lexical techniques with the intelligence of semantic search models to provide a relevant and seamless experience that aligns with user intent.
 

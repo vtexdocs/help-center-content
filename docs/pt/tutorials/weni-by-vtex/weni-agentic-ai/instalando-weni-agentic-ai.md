@@ -1,5 +1,5 @@
 ---
-title: 'Instalando Weni Agentic AI'
+title: "Instalando Weni Agentic AI"
 id: AuYmrZbSbFaTQmcD6qqDb
 status: PUBLISHED
 createdAt: 2025-09-23T17:32:05.839Z
@@ -14,8 +14,6 @@ legacySlug: instalando-weni-agentic-ai
 locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
-
-#### Como instalar
 
 Para realizar a instalação você deve acessar o seu ambiente VTEX e deverá procurar pelo módulo de **Aplicativos,** após isso busque por **loja de aplicativos** e tente procurar por **Weni Agentic AI**. Fazendo isso, será possível encontrar o App da Weni, como segue a imagem abaixo.
 

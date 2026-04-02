@@ -1,5 +1,5 @@
 ---
-title: 'Dynamic groups'
+title: "Dynamic groups"
 id: 51C5xzAp6Y00sK42SAGCSL
 status: PUBLISHED
 createdAt: 2025-09-12T17:30:05.020Z
@@ -15,8 +15,6 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-### Dynamic group and contact searches
-
 In the contacts tab, there is a search bar. This search bar can be used to find and filter contacts that obey the rules defined in the bar. Normally, we use contact fields and some operators to make the search expression, that is:
 
 If my group has the contact field ""Age"" and the contact field ""Gender"" and I want to know how many male contacts are over 18 years old, I can use the following expression in the search:
@@ -25,15 +23,15 @@ If my group has the contact field ""Age"" and the contact field ""Gender"" and I
 
 Below are some of the operators that we can use in these searches:
 
--    AND (-and
+- AND (-and
 
--  obeys both rules at the same time)
+- obeys both rules at the same time)
 
--    OR (-or
+- OR (-or
 
--  obeys one of the rules)
+- obeys one of the rules)
 
--    > , >= (Greater than, greater than or equal to)
+- > , >= (Greater than, greater than or equal to)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/dynamic-groups_1.png)
 

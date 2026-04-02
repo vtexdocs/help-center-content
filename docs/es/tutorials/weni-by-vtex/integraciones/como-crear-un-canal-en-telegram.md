@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal en Telegram'
+title: "Cómo crear un canal en Telegram"
 id: 2HpxHtgeLai6EpgEFxQL2p
 status: PUBLISHED
 createdAt: 2025-09-15T14:59:37.246Z
@@ -25,17 +25,17 @@ Botfather es un chatbot que crea y controla otros chatbots para Telegram. Para e
 
 2. Cree un nuevo chatbot con BotFather:
 
-Cuando inicie una nueva conversación con BotFather, envie un mensaje /newbot para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en ""\_bot"", por ejemplo, ""test\_bot"").
+Cuando inicie una nueva conversación con BotFather, envie un mensaje /newbot para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en ""\_bot"", por ejemplo, ""test_bot"").
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-telegram_2.png)
 
-##### Reciba el Token de acceso:
+Reciba el Token de acceso:
 
 ¡Listo! Ya creó su nuevo chatbot.
 
 Después de completar toda la información necesaria (como vimos en el último paso), recibirá un Token de acceso (1\). Deje este token copiado para usar en los próximos pasos.
 
-#### Registrar Telegram en la plataforma:
+## Registrar Telegram en la plataforma
 
 1. En tu proyecto, haz clic en \***Aplicaciones > Descubrimientos > Añade la APP de Telegram**.
 

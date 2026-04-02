@@ -31,8 +31,6 @@ Retailers must be careful not to carry out promotions that can harm their busine
 - __Supplier rebate__: credit offered to the store by the supplier that will be transformed into a discount for the end customer. This allows for a more competitive price without compromising margin and profitability;
 - __Increase in your contribution margin__: Promotional actions must always be in line with the store's EBITDA growth (Earnings Before Interest, Taxes, Depreciation and Amortization).
 
-# Promotions
-
 ## Inventory aging
 
 Promotions can help move your inventory. Keeping an old inventory for a long time can make you lose sales of new products.

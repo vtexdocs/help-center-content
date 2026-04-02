@@ -1,5 +1,5 @@
 ---
-title: 'Utilizando expresiones para capturar la ubicación del usuario'
+title: "Utilizando expresiones para capturar la ubicación del usuario"
 id: 1wxT0lnOUwxD5I8jtP3G9H
 status: PUBLISHED
 createdAt: 2025-09-17T14:05:39.961Z
@@ -17,11 +17,11 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 En este artículo, veremos un ejemplo práctico de cómo el uso de expresiones y variables puede ser útil para tu chatbot. Nos enfocaremos en un ejemplo simple pero muy útil para todos: Capturar la ubicación del usuario a través de la conversación, y luego poder utilizar esos datos.
 
-#### Primer paso: Identificar el canal
+## Primer paso: Identificar el canal
 
 La forma de capturar la ubicación varía según el canal que estés utilizando en la plataforma.
 
-#### Canal Web
+## Canal web
 
 Para capturar la ubicación de un usuario a través del canal web, solo necesitas crear una carta de acción ""Send Message"" con una ""Quick Reply"" con el prefijo ""[Loc]"". Una vez que el usuario presione ese botón, podremos captar la ubicación a través del navegador. Después, simplemente guarda el resultado en la carta de decisión ""Esperar por respuesta"".
 
@@ -31,7 +31,7 @@ El mensaje recibido por el canal web siempre comenzará con: ""Mi ubicación es:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_2.png)
 
-#### Canal Telegram
+## Canal Telegram
 
 Para enviar la ubicación por Telegram, el usuario debe hacer clic en el botón 📎, seleccionar ""Ubicación"" y luego ""Enviar mi ubicación actual"".
 
@@ -39,7 +39,7 @@ Después de esto, solo necesitas crear una carta de decisión ""Esperar por resp
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_3.png)
 
-#### Canal WhatsApp
+## Canal WhatsApp
 
 Para enviar la ubicación por WhatsApp, el usuario debe hacer clic en el botón 📎 o en el ➕, seleccionar ""Ubicación"" y luego ""Ubicación fija"".
 
@@ -50,4 +50,3 @@ Esta variable contiene la ubicación en el formato ""geo: latitud, longitud"", p
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_4.png)
 
 De esta manera, podemos crear un flujo con soporte para capturar la ubicación del usuario en tres canales diferentes, utilizando las expresiones y variables disponibles en la plataforma.
-
