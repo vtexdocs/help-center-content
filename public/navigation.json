@@ -20651,12 +20651,12 @@
                 "pt": "Localização de conteúdo"
               },
               "slug": {
-                "en": "localizing-content-subcategory",
-                "es": "localizacion-de-contenido-subcategoria",
-                "pt": "localizacao-de-conteudo-subcategoria"
+                "en": "localizing-content",
+                "es": "localizacion-de-contenido",
+                "pt": "localizacao-de-conteudo"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
