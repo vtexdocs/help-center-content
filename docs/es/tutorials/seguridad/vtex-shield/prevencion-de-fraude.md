@@ -1,14 +1,11 @@
 ---
 title: 'Prevención de Fraude (Beta)'
-status: PUBLISHED
 createdAt: 2026-03-27T00:00:00.000Z
 updatedAt: 2026-03-27T00:00:00.000Z
 contentType: tutorial
 productTeam: Others
 slugEN: fraud-prevention
-legacySlug: fraud-prevention
 locale: es
-subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
 >ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/suporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
