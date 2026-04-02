@@ -95,8 +95,7 @@ Para validar a instrução por IA, siga os passos a seguir:
 
 1. Ative o botão <i class="fas fa-toggle-on" aria-hidden="true"></i> **Validar instrução por IA**.
 2. Digite sua instrução e clique em `Validar instrução`.
-3. 
-4. Ao final, clique em `Publicar`.
+3. Ao final, clique em `Publicar`.
 
 Se não quiser passar a instrução por validação da IA, desative a opção **Validar instrução por IA**. Após digitar sua instrução personalizada, clique em `Publicar instrução`.
 

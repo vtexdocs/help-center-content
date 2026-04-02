@@ -52,13 +52,16 @@ Quando estiver pronto para terminar de configurar, escolha o tipo de ativação 
 - Ativação segura (Recomendado): Ativa os agentes apenas para 10% dos clientes.
 - Ativação completa: Ativa os agentes para todas as interações com seus clientes.
 
+### WhatsApp Store
+
 ## Dashboard
 
 O Dashboard mostra informações sobre o Agentic CX e contém essas seções:
 
 - [Desempenho do time de IA](#desempenho-do-time-de-ia)
 - [Auditoria](#auditoria)
-- [Configurações](#configurações)
+
+Se quiser ler como configurar o seu Agentic CX, acesse [esse artigo]().
 
 ### Desempenho do time de IA
 
@@ -81,39 +84,3 @@ A tabela de Auditoria fornece informações individuais de cada atendimento.
 | Hora | Hora do atendimento |
 
 Para saber mais detalhes, clique em `Ver detalhes`. Você será redirecionado à página de **Auditoria** do VTEX Agentic CX Platform.
-
-### Configurações
-
-- [Webchat](#webchat)
-- [Equipe de agentes](#equipe-de-agentes)
-
-#### Webchat
-
-Para modificar a aparência e o comportamento do assistente inteligente, clique em `Editar`. Essa ação levará você ao VTEX Agentic CX Platform. Para mais informações sobre a plataforma, acesse [esse artigo](docs/pt/tutorials/vtex-agentic-cx-platform/visão-geral-vtex-agentic-cx-platform/visao-geral-vtex-agentic-cx-platform.md).
-
-Você também pode escolher a distribuição de tráfego entre:
-
-- 10% (Canário/Validação): ativa os agentes para apenas 10% dos seus clientes.
-- 100% (Lançamento completo): ativa os agentes para todos os seus clientes.
-
-#### Equipe de agentes
-
-Na seção **Equipe de agentes**, você pode:
-
-- Refinar instruções.
-- Atribuir agentes.
-- Ativar ou desativar agentes já atribuídos.
-- Editar o gerente de atendimento.
-
-Para refinar as instruções, clique em `Refinar instruções`.
-
-Na aba de **Instruções**, você consegue:
-
-- Adicionar e salvar uma instrução personalizada.
-- Ler, editar e remover as instruções personalizadas.
-- Ler as instruções padrão.
-- Ler os tópicos de segurança.
-
-> ❗ As instruções padrão e os tópicos de segurança não podem ser modificados.
-
-Clicar em `Ver na loja` abre uma janela com a sua loja, onde você pode testar como o Agentic CX.

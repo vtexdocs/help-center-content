@@ -15,44 +15,47 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Depois de entender um pouco mais sobre o que são Cartas de ação na nossa [Introdução a fluxos](https://help.vtex.com/pt/docs/tutorials/introducao-a-fluxos), agora iremos avançar sobre quais cartas existem e o que podemos fazer com cada uma delas.
+Nesse artigo, vamos explicar sobre as cartas que existem e o que você pode fazer com cada uma.
 
 Para facilitar a navegação por esse artigo, caso queira ir diretamente para uma carta de ação específica, basta clicar no nome dela abaixo:
-  * Envie uma mensagem ao contato
-  * Envie uma mensagem a outra pessoa
-  * Etiquete uma mensagem recebida
-  * Adicione uma URN ao contato
-  * Remover contato de um grupo
-  * Atualizar o contato
-  * Envie um email
-  * Salve o resultado para este fluxo
-  * Entrar em outro fluxo
-  * Iniciar outra pessoa em um fluxo
-  * Enviar uma mensagem do WhatsApp
-  * Adicione um contato a um grupo
-  * Abrir um ticket com um agente humano
-  * Chamar um webhook
+
+- Envie uma mensagem ao contato
+- Envie uma mensagem a outra pessoa
+- Etiquete uma mensagem recebida
+- Adicione uma URN ao contato
+- Remover contato de um grupo
+- Atualizar o contato
+- Envie um email
+- Salve o resultado para este fluxo
+- Entrar em outro fluxo
+- Iniciar outra pessoa em um fluxo
+- Enviar uma mensagem do WhatsApp
+- Adicione um contato a um grupo
+- Abrir um ticket com um agente humano
+- Chamar um webhook
 
 ## Envie uma mensagem ao contato
 
 A carta de ação mais conhecida e mais utilizada da plataforma. Sua função é a de mandar uma mensagem para o contato. Essa mensagem será recebida independentemente do canal que o usuário está conversando, basta escrevê-la na caixa de texto.
 
-  1. **Facebook**
+- **Facebook**
 O envio de mensagens em massa por um canal do Facebook exige que um tópico seja especificado se o usuário não tiver enviado uma mensagem nas últimas 24 horas. Definir um tópico para usar no Facebook é especialmente importante para a primeira mensagem no seu fluxo.
 
-  2. **WhatsApp**
+- **WhatsApp**
 O envio de mensagens por um canal do WhatsApp exige que um template seja usado se você não recebeu uma mensagem de um contato nas últimas 24 horas. A configuração de template para uso no WhatsApp é especialmente importante para a primeira mensagem no seu fluxo. Leia o artigo sobre [disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp)
 
-  3. **Respostas rápidas**
+- **Respostas rápidas**
 Existe a possibilidade de enviar _repostas rápidas_ (botões de texto) para os usuários, assim facilitando a resposta e servindo como uma possibilidade de guia para sua conversa. Atualmente, você pode adicionar até 10 botões de texto por carta.
 
 Fique atento! Nem todos os canais tem suporte para botões de texto. Atualmente os canais que possuem os botões são: Telegram, VTEX Agentic CX Platform Web Chat, Facebook Messenger e WhatsApp.
-  1. **Arquivos**
+
+- **Arquivos**
 
 Também é possível enviar _arquivos_ (anexos) para um usuário. Esses anexos podem ser fotos, vídeos, áudios e documentos. Para enviar esses anexos, basta colocar o link das mídias, ou escolher o arquivo pelo seletor de arquivos do seu computador. Atualmente, você pode adicionar até 3 anexos por carta.
 
 Sempre verifique se o canal em que seu público está trabalhando tem suporte para a mídia que você quer enviar.
-  1. **Avançado**
+  
+- **Avançado**
 
 A opção _Avançados_ (Configuração avançada) permite ativarmos o envio de mensagens para todos os destinos, ou seja, enviar mensagens para todos os canais que o contato possui vínculo, e não apenas para o canal preferencial. Depois disso, o canal escolhido pelo usuário para responder virará o canal preferencial para aquela conversa.
 
