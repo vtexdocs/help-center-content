@@ -20631,7 +20631,7 @@
                   "name": {
                     "en": "Understanding locale fallback rules",
                     "es": "Estrategias de configuración regional de resguardo",
-                    "pt": "Entendendo as regras de fallback de localidade"
+                    "pt": "Estratégias de fallback de localidade"
                   },
                   "slug": {
                     "en": "understanding-locale-fallback-rules",
