@@ -36,18 +36,18 @@ Once the trade policy is created, you'll need to link the new trade policy to pr
 
 ## Defining the logistics
 
-To ensure that order integrate successfully, you'll need to link, on the VTEX platform, the logistics between inventory, warehouse and carrier . For more context on VTEX logistics, read [this article](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx). Follow the step-by-step below to perform the setup:
+To ensure that order integrate successfully, you'll need to link, on the VTEX platform, the logistics between inventory, warehouse and carrier . For more context on VTEX logistics, read [this article](/en/docs/tracks/getting-started-with-logistics). Follow the step-by-step below to perform the setup:
 
-  1. Check whether your [inventories](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3mlfDHjikOgUna1SS2Nr1Y) are linked to the correct warehouses;
-  2. Check whether the chosen [warehouses](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/5XvQ1yLpxLlIKWRw1pSiyA) have the associated Wish trade policy;
-  3. Set the [carriers](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3fLedVI57srjBDDxxGgOWe) that will ship from Wish;
+  1. Check whether your [inventories](/en/docs/tracks/inventory) are linked to the correct warehouses;
+  2. Check whether the chosen [warehouses](/en/docs/tutorials/warehouse) have the associated Wish trade policy;
+  3. Set the [carriers](/en/docs/tutorials/carriers-on-vtex) that will ship from Wish;
   4. Link carriers to warehouses.
  
 > ℹ️ NOTE: Wish transfers the commission by confirming order delivery, obtaining this information by directly consulting its partner carriers. ***However, in order to sell on Wish, you need to use partner carriers for order delivery.*** [ Check out the Wish accepted carriers here.](https://merchant.wish.com/documentation/shippingproviders)
 
 ## Defining prices
 
-In order to sell your products on Wish, it's important to set a pricing strategy. For more on the overall pricing context at VTEX, read [this article](/en/tracks/precing-101--6f8pwCns3PJHqMvQSugNfP). Follow the step-by-step below to configure prices:
+In order to sell your products on Wish, it's important to set a pricing strategy. For more on the overall pricing context at VTEX, read [this article](/en/docs/tracks/prices-101). Follow the step-by-step below to configure prices:
 
   1. Create a [price table](/en/docs/tracks/cadastrar-tabelas-de-preco) for the trade policy linked to Wish;
   2. Set the [base prices](/en/docs/tracks/preco-base-definicao-de-conceito) based on the new table

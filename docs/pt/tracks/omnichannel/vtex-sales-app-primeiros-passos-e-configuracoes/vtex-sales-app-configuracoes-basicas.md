@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-O **VTEX Sales App** é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
+O **VTEX Sales App** é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
 
 > ℹ️ Verifique se a sua loja cumpre todos os [pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/pre-requisitos-para-usar-o-vtex-sales-app).
 
@@ -76,7 +76,7 @@ Após selecionar as opções desejadas, clique em `Continuar`.
 
 ## Configurar condições de pagamento
 
-Após fazer as configurações básicas descritas, você precisa configurar as condições de pagamento no módulo de **Pagamentos**. Para isso, leia o guia [Configurar os métodos de pagamento para o VTEX Sales App](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Após fazer as configurações básicas descritas, você precisa configurar as condições de pagamento no módulo de **Pagamentos**. Para isso, leia o guia [Configurar os métodos de pagamento para o VTEX Sales App](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app).
 
 ## Vincular o catálogo de produtos a uma vitrine de loja
 
@@ -95,4 +95,4 @@ Para configurar o binding e garantir que o catálogo da loja seja exibido no **V
 
 ## Configurar logística
 
-Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar. Saiba mais em [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) e [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx) para mais informações.
+Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar. Saiba mais em [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) e [Logística](/pt/docs/tracks/logistica-101) para mais informações.

@@ -90,7 +90,7 @@ VTEX has a standard contract with these partners to facilitate the implementatio
 
 ### Payments
 
-To configure the acquirer that will process your store payments, go to [Configuring Payment Methods for VTEX Sales App](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+To configure the acquirer that will process your store payments, go to [Configuring Payment Methods for VTEX Sales App](/en/docs/tracks/vtex-sales-app-payments).
 
 ### Invoicing
 
