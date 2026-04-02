@@ -1,10 +1,10 @@
 ---
 title: 'Agente de Gerenciamento de Contratos'
 createdAt: 2026-03-06T00:00:00.000Z
-updatedAt: 2026-03-06T00:00:00.000Z
+updatedAt: 2026-04-02T00:00:00.000Z
 contentType: tutorial
 productTeam: B2B
-slugEN: contracts-manager-agent
+slugEN: contract-manager-agent
 locale: pt
 ---
 
