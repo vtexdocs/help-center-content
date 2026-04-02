@@ -24,4 +24,3 @@ Se você desabilitou e habilitou novamente a autenticação de dois fatores, e a
 1. Uma nova janela será aberta. Clique no em **remover conta.**
 
 1. Após realizar este processo, siga as instruções dadas na sua tela de login, no campo a baixo de **configurar verificação de duas etapas.**
-
