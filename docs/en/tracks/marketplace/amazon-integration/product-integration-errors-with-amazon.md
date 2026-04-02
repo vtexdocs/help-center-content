@@ -39,11 +39,11 @@ To fix this error, [configure the global category](/en/tracks/configurar-integra
 
   **Specification (X) from the mapping spreadsheet was not found in the product or SKU specification in your VTEX catalog**
 
-This error occurs when the spreadsheet contains a specification that does not exist in the VTEX catalog. To fix this error, you need to add a [product](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) or [SKU](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) specification. To view the values supported by Amazon, open the [Amazon mandatory attribute spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) and check the `VALID VALUES` tab.
+This error occurs when the spreadsheet contains a specification that does not exist in the VTEX catalog. To fix this error, you need to add a [product](/en/docs/tracks/adding-products) or [SKU](/en/docs/tracks/adding-skus) specification. To view the values supported by Amazon, open the [Amazon mandatory attribute spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) and check the `VALID VALUES` tab.
 
   **Value (X) from the mapping spreadsheet is not an attribute/specification value supported by Amazon**
 
-This error occurs when specification X is not supported by Amazon. You need to [add a specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) that is supported by Amazon. To view the values supported by Amazon, open the [Amazon mandatory attribute spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) and check the `VALID VALUES` tab.
+This error occurs when specification X is not supported by Amazon. You need to [add a specification](/en/docs/tracks/specifications-concept-definition) that is supported by Amazon. To view the values supported by Amazon, open the [Amazon mandatory attribute spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) and check the `VALID VALUES` tab.
 
   **The VTEX global category ID for this product was not found in the mapping spreadsheet**
 
@@ -87,7 +87,7 @@ For both of these errors, the [VTEX global category](/en/docs/tracks/sending-pro
 
 - **The SKU does not have a value for the "author" attribute or the mapping spreadsheet does not contain a value for it**
 
-  You did not add the mandatory Author attribute to the product you want to submit. To view the values supported by Amazon, open the [Amazon mandatory attribute spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon), check the `VALID VALUES` tab, and [add a product specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) for this attribute.
+  You did not add the mandatory Author attribute to the product you want to submit. To view the values supported by Amazon, open the [Amazon mandatory attribute spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon), check the `VALID VALUES` tab, and [add a product specification](/en/docs/tracks/specifications-concept-definition) for this attribute.
 
 - **The "Size" attribute value from the mapping spreadsheet is not an attribute/specification value supported by Amazon**
 

@@ -81,7 +81,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and **Area**. This is made by adding the applicable filtering values to the announcement [front matter](#filling-in-front-matter-information), in the `tags` field.
 
-#### Type filters
+#### Announcements Type filters
 
 These filters are displayed in the UI in the announcements card, above the title. Each announcement must have one Type filter.
 
@@ -95,7 +95,7 @@ The existing values and their context are:
 | `Deprecation`     | `Descontinuação`            | `Descontinuación`            | Discontinued features and products.                |
 | `Security update` | `Atualização de segurança` | `Actualización de seguridad` | Security updates, compliance, vulnerability fixes. |
 
-#### Area filters
+#### Announcements Area filters
 
 These filters don't appear in the UI. Each announcement should have at least one Area filter, you can add as many as you need.
 
@@ -126,7 +126,7 @@ The existing values and their context are:
 
 > ℹ️ If you wish to add or remove a filter value, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
-##### Example of filters in the front matter
+##### Example of announcements filters in the front matter
 
 See below an example of filters applied to an announcement front matter for each locale:
 
@@ -180,7 +180,7 @@ The [Troubleshooting](https://help.vtex.com/troubleshooting) page allows users t
 - **Type**: values added to `symptomFilters`
 - **Area**: values added to `domainFilters`
 
-#### Primary categories
+#### Troubleshooting primary categories
 
 Troubleshooting primary categories are determined by the folder where the article is saved. Use the category that best matches the broad operational context of the issue.
 
@@ -195,7 +195,7 @@ The current troubleshooting categories are:
 | **Checkout and financial**    | **Checkout e financeiro**       | **Checkout y financiero**      | Checkout, order placement, payment authorization, pricing-total consistency, and other transactional failures.          |
 | **B2B**                       | **B2B**                         | **B2B**                        | B2B organization structure, permissions, and company-specific flows.                                                    |
 
-#### Type filters
+#### Troubleshooting Type filters
 
 These filters appear in the Troubleshooting UI under **Type**. Each troubleshooting article should usually have **1 to 2** values in `symptomFilters`.
 
@@ -211,7 +211,7 @@ The existing values and their context are:
 | **Misconfiguration**   | **Configuração incorreta** | **Configuración incorrecta** | Incorrect setup, missing settings, or misconfigured policies and rules.          |
 | **Notification issue** | **Erro de notificação**    | **Error de notificación**    | Email delivery, alerts, reports, or notification-related failures.               |
 
-#### Area filters
+#### Troubleshooting Area filters
 
 These filters appear in the Troubleshooting UI under **Area**. Each troubleshooting article should usually have **1 to 3** values in `domainFilters`.
 
@@ -293,7 +293,7 @@ symptomFilters:
 ---
 ```
 
-#### Filter governance
+#### Troubleshooting filter governance
 
 When classifying troubleshooting content, apply the following rules:
 
@@ -305,7 +305,7 @@ When classifying troubleshooting content, apply the following rules:
    - the dominant symptom as the main troubleshooting refinement
    - additional domain filters only when they materially improve discovery
 
-#### Taxonomy governance for scale
+#### Troubleshooting taxonomy governance for scale
 
 To keep the troubleshooting taxonomy consistent as the section grows, follow these guidelines:
 

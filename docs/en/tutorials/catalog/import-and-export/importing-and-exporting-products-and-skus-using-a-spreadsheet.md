@@ -1,7 +1,7 @@
 ---
 title: 'Importing and exporting products and SKUs using a spreadsheet'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-26T15:30:32.980Z
+updatedAt: 2026-03-30T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -28,6 +28,9 @@ To import products and SKUs using a spreadsheet, follow these steps:
 3. Click `Products and SKUs`.
 4. In the window that opens, click **Download the import spreadsheet template here** to get the file.
 5. Complete the spreadsheet details as described in the section [Product specification spreadsheet fields](#product-specification-spreadsheet-fields).
+
+  > ⚠️ The spreadsheet import limit is 10,000 lines.
+
 6. Add a spreadsheet with the `.xls` or `.xlsx` extension. You can drag and drop the file into the upload area, or click the window and select the file locally.
 7. Click `Import`.
 
@@ -45,7 +48,7 @@ To export a `.xlsx` file with product and SKU information, follow these steps:
 2. (Optional) If you want to export a subset of products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
 3. At the top of the page, click `Export`.
 
-  > ⚠️ The export limit is 100,000 products.
+  > ⚠️ The export limit is 300,000 products.
 
 4. Click `Products and SKUs`.
 5. In the **Export** modal, select the checkboxes for **Product fields** and/or **SKU fields** as desired. Required fields can't be unchecked.

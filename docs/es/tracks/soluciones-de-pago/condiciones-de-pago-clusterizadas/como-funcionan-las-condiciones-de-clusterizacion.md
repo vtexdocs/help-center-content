@@ -33,7 +33,7 @@ La propiedad se rellena con uno de los campos presentes en el [Master Data](/es/
 
 Recordando que existen algunos campos nativos en el Master Data, lo que significa que en el momento que un cliente obtiene acceso al Admin de su tienda, ya hay algunos campos creados en el Master Data. Sin embargo, estos campos no son determinantes.
 
-Además de los campos nativos, el cliente puede [crear los campos que desee](/es/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete), y cuando así lo desee. 
+Además de los campos nativos, el cliente puede [crear los campos que desee](/es/docs/tutorials/como-crear-un-campo-en-master-data), y cuando así lo desee. 
 
 En consecuencia, puede crear las propiedades (bien sean de texto, numéricas, verdadero/falso, por fecha) que le parezcan más adecuadas para aplicar a la condición especial de pago por clusterización. 
 

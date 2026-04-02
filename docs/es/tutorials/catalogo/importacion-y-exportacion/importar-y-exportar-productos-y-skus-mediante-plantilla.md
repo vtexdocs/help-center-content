@@ -1,7 +1,7 @@
 ---
 title: 'Importar y exportar productos y SKUs mediante plantilla'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-26T15:30:32.980Z
+updatedAt: 2026-03-30T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -28,6 +28,9 @@ Para importar productos y SKUs a partir de una plantilla sigue los pasos a conti
  3. Haz clic en `Productos y SKUs`.
  4. En la ventana modal haz clic en **Descargar modelo de plantilla** para obtener el archivo.
  5. Llena los datos de la plantilla, tal como se indica en la sección [Campos de la plantilla de productos y SKUs](#campos-de-la-plantilla-de-productos-y-skus).
+
+  > ⚠️ El límite de la plantilla de importación es de 10.000 líneas.
+
  6. Agrega la plantilla con extensión `.xls` o `.xlsx`. Puedes arrastrar el archivo y soltarlo en el área indicada, o hacer clic en la ventana modal y seleccionar el archivo desde tu dispositivo.
  7. Haz clic en `Importar`.
 
@@ -45,7 +48,7 @@ Para exportar un archivo `.xlsx` con información sobre tus productos y SKUs sig
 2. (Opcional) Si deseas exportar determinados productos y SKUs, [busca](/es/docs/tutorials/productos-y-skus#buscar-productos) o [filtra](/es/docs/tutorials/productos-y-skus#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar todos los productos y/o SKUs.
 3. En la parte superior de la página, haz clic en `Exportar`.
 
-  > ⚠️ El límite de exportación es de 100.000 productos.
+  > ⚠️ El límite de exportación es de 300.000 productos.
   
 4. Haz clic en `Productos y SKUs`.
 5. En la ventana modal de exportación selecciona el ícono correspondiente a los **Campos de producto** y/o **Campos de SKU**, según lo deseado. Los campos obligatorios no pueden deseleccionarse.

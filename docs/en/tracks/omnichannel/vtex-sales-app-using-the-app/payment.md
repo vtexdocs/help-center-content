@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-using-the-app
 order: 15
 ---
 
-In the VTEX Sales App payment step, the sales associate will see the [payment options that have been configured](/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) for your store.
+In the VTEX Sales App payment step, the sales associate will see the [payment options that have been configured](/en/docs/tracks/vtex-sales-app-payments) for your store.
 
 The top bar of the payment screen displays the following options:
 
@@ -38,7 +38,7 @@ During VTEX Sales App configuration, you can add the following payment methods:
 * [Credit card](#credit-card)
 * [Debit card](#debit-card)
 
-To configure a payment method, follow the [VTEX Sales App - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy) track instructions.
+To configure a payment method, follow the [VTEX Sales App - Payments](/en/docs/tracks/vtex-sales-app-payments) track instructions.
 
 ### Cash
 
