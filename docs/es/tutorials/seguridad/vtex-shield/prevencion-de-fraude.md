@@ -8,7 +8,7 @@ slugEN: fraud-prevention
 locale: es
 ---
 
->ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/suporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+>ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
 
 La **Prevención de fraude** es una funcionalidad de **VTEX Shield** que protege tu tienda contra ataques de pruebas de tarjetas (card testing).
 
@@ -56,7 +56,7 @@ Esta página también te permite realizar las siguientes acciones:
 
 ## Permisos requeridos
 
-Para acceder y gestionar la funcionalidad de prevención de fraude, el usuario debe tener un [rol](https://help.vtex.com/es/docs/tutorials/perfis-de-acesso) con los siguientes [recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-do-license-manager):
+Para acceder y gestionar la funcionalidad de prevención de fraude, el usuario debe tener un [rol](https://help.vtex.com/es/docs/tutorials/roles) con los siguientes [recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager):
 
 * **Producto:** Fraud Prevention
 * **Categoría:** Transaction Attempts
