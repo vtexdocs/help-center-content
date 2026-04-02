@@ -1,5 +1,5 @@
 ---
-title: 'Agentes oficiais da VTEX Agentic CX Platform'
+title: 'Agentes oficiais do VTEX Agentic CX Platform'
 id: 7E8wlD3T41CiOexDVH1SIy
 status: PUBLISHED
 createdAt: 2025-07-18T17:25:54.700Z
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-Este artigo descreve os agentes colaboradores oficiais da VTEX Agentic CX Platform e informa as credenciais necessárias para atribuí-los ao Agent Builder.
+Este artigo descreve os agentes colaboradores oficiais do VTEX Agentic CX Platform e informa as credenciais necessárias para atribuí-los ao Agent Builder.
 
 | Agentes oficiais | Descrição | Credenciais necessárias |
 | :-------------: | :------------- | :------------- |

@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Agora ficou muito mais simples adicionar um canal WhatsApp na organização da sua empresa na VTEX Agentic CX Platform e se conectar com seus clientes em poucos cliques. Esse é o modo de Integração Expressa VTEX Agentic CX Platform.
+Agora ficou muito mais simples  no VTEX Agentic CX Platform e se conectar com seus clientes em poucos cliques. Com o modo de Integração Expressa do VTEX Agentic CX Platform, você adiciona um canal WhatsApp na organização da sua empresa para se comunicar com os clientes.
 
-O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal na VTEX Agentic CX Platform permite que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
+O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal no VTEX Agentic CX Platform permite que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
 
 Existem algumas premissas para adicionar um número de WhatsApp pelo método de Integração Expressa:
 
@@ -62,9 +62,9 @@ Caso contrario pode continuar imediatamente!#### **Passo final para integração
 
 Com a sua conta vinculada à Meta e o seu número de WhatsApp Business verificado, agora é hora de integrá-los na plataforma. Os passos são bem simples e rápidos.
 
-Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela da VTEX Agentic CX Platform Plataforma. Basta clicar em **Criar Canal**, como mostrado na imagem:
+Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela do VTEX Agentic CX Platform. Basta clicar em **Criar Canal**, como mostrado na imagem:
 
-Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>Na sequência, selecione o número que será vinculado à integração do WhatsApp na VTEX Agentic CX Platform e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
+Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>Na sequência, selecione o número que será vinculado à integração do WhatsApp no VTEX Agentic CX Platform e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
 
 ## Agora o seu canal WhatsApp está integrado e pronto para ser customizado!
 Na sequência, um *card* com o número do telefone irá aparecer em **Configurações > Canais**.

@@ -9,7 +9,7 @@ firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: assigning-and-testing-agents
+slugEN: assigning-and-testing-agents-in-agent-builder
 legacySlug: atribuir-e-testar-agentes-no-agent-builder
 locale: pt
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
@@ -17,9 +17,9 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 
 A seção **Meus agentes** permite que o usuário atribua agentes ao time e teste-os.
 
-Alguns agentes oficiais solicitam credenciais. Veja a lista completa no artigo [Agentes oficiais da VTEX Agentic CX Platform e suas credenciais](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
+Alguns agentes oficiais solicitam credenciais. Veja a lista completa no artigo [Agentes oficiais do VTEX Agentic CX Platform e suas credenciais](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
 
-> ℹ️ Para criar agentes customizados, use o CLI da VTEX Agentic CX Platform by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
+> ℹ️ Para criar agentes customizados, use o CLI do VTEX Agentic CX Platform by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
 
 Este artigo está dividido em duas partes:
 

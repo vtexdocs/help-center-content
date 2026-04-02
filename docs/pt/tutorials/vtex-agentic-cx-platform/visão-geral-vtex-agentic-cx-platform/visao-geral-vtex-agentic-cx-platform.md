@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-A VTEX Agentic CX Platform é uma ferramenta de criação de chatbots inteligentes. Com ela, você pode criar toda interação que os agentes de inteligência artifical (IA) terão com seus usuários.
+O VTEX Agentic CX Platform é uma ferramenta de criação de chatbots inteligentes. Com ele, você pode criar toda interação que os agentes de inteligência artifical (IA) terão com seus usuários.
 
 Criamos este tutorial para ajudar você a navegar pela plataforma. Este artigo está dividido nas seguintes seções:
 
@@ -34,7 +34,7 @@ Nela teremos um botão para login (1), e um campo para cadastro grátis (2).
 
 1) Caso você já tenha uma conta cadastrada basta adicionar seu email (x), sua senha (x) e clicar no botão "entrar". Se você tiver esquecido sua senha, basta clicar em "esqueceu a senha?" e um email será enviado para que você possa redefinir sua senha.
 
-2) Se você nunca se cadastrou na VTEX Agentic CX Platform, clique no botão Cadastre-se grátis ou escolha o provedor do seu email, você será redirecionado para a seguinte página:
+2) Se você nunca se cadastrou no VTEX Agentic CX Platform, clique no botão Cadastre-se grátis ou escolha o provedor do seu email, você será redirecionado para a seguinte página:
 
 - Preencha com seu email
 - Crie uma senha
@@ -79,7 +79,7 @@ Complete os campos para salvar os dados que serão atualizados, imagem demonstra
 
 ### Trocar senha
 
-Para trocar a senha da sua conta na VTEX Agentic CX Platform, siga os passos abaixo:
+Para trocar a senha da sua conta no VTEX Agentic CX Platform, siga os passos abaixo:
 
 1. Acesse a página de Perfil
 2. Clique em Nova senha
@@ -96,7 +96,7 @@ Para resetar sua senha, siga os passos abaixo:
 
 ## Sistema de permissões
 
-Dentro da VTEX Agentic CX Platform você é capaz de gerenciar diferentes permissões para cada usuário, divididas em dois grupos:
+Dentro do VTEX Agentic CX Platform você é capaz de gerenciar diferentes permissões para cada usuário, divididas em dois grupos:
 
 - [Permissões da organização](#permissões-da-organização)
 - [Permissões do projeto](#permissões-do-projeto)
@@ -166,8 +166,6 @@ Adicione membros a sua organização clicando no menu dropdown e depois em Geren
 Insira o e-mail da pessoa que deseja convidar, escolha a Permissão(2) e clique em Adicionar (3).
 
 Os membros que forem adicionados receberão um e-mail de convite para entrar na organização.
-
-Após criar sua organização, projeto e adicionar os membros da sua equipe você estará pronto para aproveitar ao máximo o potencial da VTEX Agentic CX Platform.
 
 ## Alteração do idioma da plataforma
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, tempo de espaçamento entre mensagens, indicadores de mensagem, avatar e muito mais! Assim, garantindo tudo que a VTEX Agentic CX Platform Plataforma tem a oferecer com a cara da sua marca. Logo abaixo iremos te mostrar o passo a passo para realizar a integração.
+Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, tempo de espaçamento entre mensagens, indicadores de mensagem, avatar e muito mais! Assim, garantindo tudo que o VTEX Agentic CX Platform tem a oferecer com a cara da sua marca. Logo abaixo iremos te mostrar o passo a passo para realizar a integração.
 
 ## Criando um canal web
 1. Para integrar seu chatbot a um canal web, primeiramente você precisa entrar na organização que está localizado o projeto, para que então possamos integrar o canal.
@@ -25,7 +25,7 @@ Ao integrar o canal, você consegue customizar aspectos do Web Chat como: cor, t
 4. Ao clicar em **Configurações > Canais**, você seleciona a opção **VTEX Agentic CX Platform Web Chat.**
 5. Clique no botão **acessar meus canais** e clique mais uma vez no card VTEX Agentic CX Platform Web Chat para ter acesso as configurações de customização.
 
-6. Ao abrir o painel de customização da VTEX Agentic CX Platform Web Chat, você terá as seguintes opções para configurar:
+6. Ao abrir o painel de customização do VTEX Agentic CX Platform Web Chat, você terá as seguintes opções para configurar:
 - Título do seu chat;
 - Subtítulo do chat (opcional);
 - Mensagem de disparo: quando ativada é a primeira mensagem que seu chatbot envia (opcional);

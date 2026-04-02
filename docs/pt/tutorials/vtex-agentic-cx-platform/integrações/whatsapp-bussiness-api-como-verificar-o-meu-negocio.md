@@ -46,7 +46,7 @@ Seguem alguns links importantes para o processo de Verificação de Negócios:
 
 ## Passo 2
 
-Caso já tenha integrado seu número na nossa plataforma através de **Configurações > Canais > Outras aplicações** ou tenha sido aceito o vínculo entre o seu Meta Business e a VTEX Agentic CX Platform, o botão Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
+Caso já tenha integrado seu número na nossa plataforma através de **Configurações > Canais > Outras aplicações** ou tenha sido aceito o vínculo entre o seu Meta Business e o VTEX Agentic CX Platform, o botão Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
 
 Caso este botão não esteja visível, contate o suporte/seu analista responsável para auxílio da ativação do botão de verificação de negócios.
 

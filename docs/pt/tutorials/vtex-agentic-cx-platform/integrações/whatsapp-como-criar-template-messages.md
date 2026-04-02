@@ -21,7 +21,7 @@ Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovado
 
 ## Criação
 
-Você pode usar a VTEX Agentic CX Platform para criar modelos de mensagem manualmente e enviá-los para aprovação.
+Você pode usar o VTEX Agentic CX Platform para criar modelos de mensagem manualmente e enviá-los para aprovação.
 
 Para criar um Template Message:
 

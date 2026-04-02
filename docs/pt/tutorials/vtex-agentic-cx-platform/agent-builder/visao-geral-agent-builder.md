@@ -20,15 +20,15 @@ O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em 
 
 A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
 
-> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais da VTEX Agentic CX Platform](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
+> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX Agentic CX Platform](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
-> ⚠️ Para criar agentes customizados, use o CLI da VTEX Agentic CX Platform by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
+> ⚠️ Para criar agentes customizados, use o CLI do VTEX Agentic CX Platform by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
 
 ## Agent Builder
 
-Para acessar o **Agent Builder**, selecione a Organização na página inicial da VTEX Agentic CX Platform by VTEX e, em seguida, o projeto que deseja gerenciar.
+Para acessar o **Agent Builder**, selecione a Organização na página inicial do VTEX Agentic CX Platform by VTEX e, em seguida, o projeto que deseja gerenciar.
 
 Em **Agent Builder**, as seguintes páginas estão disponíveis:
 

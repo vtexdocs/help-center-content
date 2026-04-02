@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3q6HjVqNcRNNZttPAV93wi
 ---
 
-### O que é o Code Action?
+## O que é o Code Action?
 
 Code action é uma ferramente que possibilita a criação de um microsserviço em Python que pode ser usado diretamente na plataforma ou em um sistema externo.
 
@@ -29,13 +29,13 @@ Para utilizar esse serviço, é necessário que você possua alguma plataforma p
 
 Com o programa instalado, você deve baixar essa [collection](https://files.helpdocs.io/fjqoxc429v/other/1752841354595/code-acti.json) e importar para dentro do seu Postman.
 
-#### Autenticação
+### Autenticação
 
 Para que seja possível gerar esse token, você deverá fazer uma requisição para a API abaixo, passando seu **login** e **senha** utilizados na plataforma. Caso tenha autenticação de 2 fatores, você deverá preencher no campo de `totp` o código de 2 fatores.
 
 Esse código tem validade de até 12h deverá ser utilizado em algumas das próximas APIs.
 
-#### Como criar um Code Action
+### Como criar um Code Action
 
 Você pode ter dois tipos de Code Actions, são eles: JSON e HTML.
 
@@ -141,7 +141,7 @@ def create_contact(vtex_data, token, order_status, order_domain):
  return uuid
 ```
 
-Esse código tem a função de receber um Webhook da VTEX e conseguir consultar diretamente a API de Orders da VTEX e criar um contato na VTEX Agentic CX Platform Plataforma. Para isso ele segue algumas premissas.
+Esse código tem a função de receber um Webhook da VTEX e conseguir consultar diretamente a API de Orders da VTEX e criar um contato no VTEX Agentic CX Platform. Para isso ele segue algumas premissas.
 
 #### Regras
 

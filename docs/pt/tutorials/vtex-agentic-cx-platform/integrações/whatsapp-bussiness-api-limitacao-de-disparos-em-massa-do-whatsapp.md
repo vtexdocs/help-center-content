@@ -17,13 +17,13 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 ## Limitação de Disparos em Massa do WhatsApp (WhatsApp Rate Limiting)
 
-Após concluir o processo de aprovação e integração do WhatsApp, seu número de telefone com a VTEX Agentic CX Platform será ativado para o WhatsApp. Mesmo após a aprovação e habilitação do seu número, o WhatsApp possui uma política de progressão de envio de mensagens, impondo uma limitação.
+Após concluir o processo de aprovação e integração do WhatsApp, seu número de telefone com o VTEX Agentic CX Platform será ativado para o WhatsApp. Mesmo após a aprovação e habilitação do seu número, o WhatsApp possui uma política de progressão de envio de mensagens, impondo uma limitação.
 
 Os limites de mensagens são o máximo de conversas iniciadas pela empresa (abertas devido ao envio de um modelo de marketing, utilidade ou autenticação a um usuário do WhatsApp) que um número de telefone comercial pode abrir em um período de 24 horas.
 
 Inicialmente, os números de telefone comercial têm o limite de 250 conversas iniciadas pela empresa em um período de 24 horas, mas esse limite pode ser aumentado.
 
-Devido a essa limitação, recomenda-se à empresa que deseja enviar mensagens para mais de 1.000 usuários únicos (o que na VTEX Agentic CX Platform chamamos de contatos ativos) que as envie gradualmente ao longo do período de uma semana.
+Devido a essa limitação, recomenda-se à empresa que deseja enviar mensagens para mais de 1.000 usuários únicos (o que no VTEX Agentic CX Platform chamamos de contatos ativos) que as envie gradualmente ao longo do período de uma semana.
 
 ### Limitações do WhatsApp
 
@@ -39,7 +39,7 @@ Números recém-habilitados no WhatsApp iniciam no Nível 1. O WhatsApp monitora
 
 Se, dentro deste período de 7 dias, um número de telefone habilitado para o WhatsApp se comunicou com 2x a quantidade de contatos ativos do limite do seu nível por dia e tiver uma boa “classificação de qualidade” com o WhatsApp, esse número automaticamente se enquadrará no próximo nível no dia seguinte.
 
-Observe que um número pode ser impedido de passar para o próximo nível, ou até mesmo descer um nível, se a ""classificação de qualidade"" interna do WhatsApp para o número for baixa. A VTEX Agentic CX Platform não pode influenciar nessa classificação e nem apresentá-la aos clientes na Plataforma. Mais a frente, falamos mais detalhes sobre a classificação de qualidade.Se você exceder o limite diário do seu nível, suas mensagens não serão entregues.Aviso Importante: A VTEX Agentic CX Platform não pode mover manualmente ou solicitar que os clientes sejam movidos entre os níveis de limite de mensagens. Além disso, o WhatsApp não iniciará um número em um nível superior ou aumentará manualmente o limite.
+Observe que um número pode ser impedido de passar para o próximo nível, ou até mesmo descer um nível, se a ""classificação de qualidade"" interna do WhatsApp para o número for baixa. O VTEX Agentic CX Platform não pode influenciar nessa classificação e nem apresentá-la aos clientes na Plataforma. Mais a frente, falamos mais detalhes sobre a classificação de qualidade.Se você exceder o limite diário do seu nível, suas mensagens não serão entregues.Aviso Importante: O VTEX Agentic CX Platform não pode mover manualmente ou solicitar que os clientes sejam movidos entre os níveis de limite de mensagens. Além disso, o WhatsApp não iniciará um número em um nível superior ou aumentará manualmente o limite.
 
 **Exemplo 1:** Um número de telefone aprovado pelo WhatsApp começa no nível 1. No dia 1, o número dispara mensagens para 1\.000 contatos ativos. No dia 2, mais 1.000 disparos são realizados para novos contatos ativos. No final do dia 2, esse número seria atualizado para o Nível 2 com base no envio de 2.000 mensagens para contatos ativos distintos nos últimos 2 dias.
 

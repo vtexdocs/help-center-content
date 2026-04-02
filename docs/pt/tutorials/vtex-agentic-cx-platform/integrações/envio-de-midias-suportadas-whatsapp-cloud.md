@@ -82,6 +82,6 @@ Em ambos os casos, uma resposta bem-sucedida retorna o campo `id`
 
 Se você receber uma mensagem de erro, consulte [Mensagens de erro e status](https://developers.facebook.com/docs/whatsapp/on-premises/errors) para saber mais.
 
-Você pode ver que vídeos e áudios possuem um tamanho máximo de 16 MB. Por exemplo, se você fizer o upload de um vídeo de 20 MB na VTEX Agentic CX Platform, o vídeo será salvo na plataforma, mas no momento da execução, o WhatsApp não conseguirá enviá-lo. Para documentos, o limite máximo é de 100 MB, porém, isso não funciona na VTEX Agentic CX Platform, pois ela suporta apenas até 32 MB.
+Você pode ver que vídeos e áudios possuem um tamanho máximo de 16 MB. Por exemplo, se você fizer o upload de um vídeo de 20 MB no VTEX Agentic CX Platform, o vídeo será salvo na plataforma, mas no momento da execução, o WhatsApp não conseguirá enviá-lo. Para documentos, o limite máximo é de 100 MB, porém, isso não funciona no VTEX Agentic CX Platform, pois ele suporta apenas até 32 MB.
 
 Você pode ver mais sobre essas informações na página oficial da [META](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media/)

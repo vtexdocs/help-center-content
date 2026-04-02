@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Com a integração da VTEX Agentic CX Platform com o ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
+Com a integração do VTEX Agentic CX Platform com o ChatGPT, você tem à sua disposição um assistente virtual inteligente, alimentado pela avançada tecnologia de linguagem natural da OpenAI. Atendimento ao cliente totalmente automatizado, porém, com um toque humano e personalizado.
 
 Com o ChatGPT é possível proporcionar aos seus clientes respostas instantâneas, precisas e envolventes para suas perguntas e necessidades, a qualquer hora e em qualquer lugar. Ele é capaz de compreender nuances da linguagem humana, aprendendo e adaptando-se constantemente.
 
-Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pela VTEX Agentic CX Platform, ajuda você a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
+Dessa maneira aprimora o suporte ao cliente, automatiza tarefas repetitivas e proporciona uma experiência personalizada. Esse recurso, impulsionado pelo VTEX Agentic CX Platform, ajuda você a aumentar a eficiência, economizar tempo e conquistar a satisfação dos clientes de forma excepcional.
 
-Para começar, acesse a VTEX Agentic CX Platform. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Descoberta**, clique no botão procure por "ChatGPT".
+Para começar, acesse o VTEX Agentic CX Platform. No menu lateral esquerdo, clique em **Configurações > Canais**. Em seguida, na seção **Descoberta**, clique no botão procure por "ChatGPT".
 
 Preencha os campos com **Nome**, **Token** (seu token de consumo da API do chatGPT) e **Versão**. Para concluir essa etapa clique em continuar.
 
@@ -31,7 +31,7 @@ Após concluir os passos acima é necessário configurar o funcionamento do Chat
 
 Preencha o primeiro campo definindo as regras que são **instruções ou diretrizes definidas de forma explícita para orientar como o seu chatbot deve se portar**. As regras são usadas para definir uma personalidade e tom de voz do seu chatbot, como os exemplos abaixo.
 
-Agora você se chama Duda, e você é uma assistente pessoal na VTEX Agentic CX Platform.
+Agora você se chama Duda, e você é uma assistente pessoal no VTEX Agentic CX Platform.
 
 Você é bem séria e pragmática. Tem 35 anos e possui 2 filhos, então sabe que seu tempo é precioso. Ama rock inglês dos anos 70 e gosta de ler livros. Gosta de estar sempre por dentro de todas as notícias do mundo.
 

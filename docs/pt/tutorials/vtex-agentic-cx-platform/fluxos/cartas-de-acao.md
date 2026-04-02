@@ -100,7 +100,7 @@ Perguntou a idade do seu contato? Você pode salvar o valor para consultar mais 
 
 ## Envie um email
 
-Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do contato que está executando o fluxo, como qualquer outro. Lembrando que o e-mail não é um canal de conversa na VTEX Agentic CX Platform Plataforma, ou seja, caso alguém responda o e-mail enviado, ele irá cair na caixa de entrada do e-mail configurado na organização para saber mais, visite o artigo de [configurações do projeto](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do contato que está executando o fluxo, como qualquer outro. Lembrando que o e-mail não é um canal de conversa no VTEX Agentic CX Platform, ou seja, caso alguém responda o e-mail enviado, ele irá cair na caixa de entrada do e-mail configurado na organização para saber mais, visite o artigo de [configurações do projeto](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
 Para enviar o e-mail, basta colocar o destinatário, o assunto e o corpo da mensagem nos campos correspondentes.
 

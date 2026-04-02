@@ -34,21 +34,21 @@ Além da expressão `@results` existem também outras expressões que usamos bas
 
 ### `@contact`
 
-Essa expressão é usada para resgatar valores salvos em campos de contatos-*padr ão** na VTEX Agentic CX Platform Plataforma e são atualizados através do cartão Update Contact (Atualizar o Contato). Exemplos:
+Essa expressão é usada para resgatar valores salvos em campos de contatos padrão no VTEX Agentic CX Platform e são atualizados através do cartão Update Contact (Atualizar o Contato). Exemplos:
 
 - `@contact.name:`Nome do contato
 - `@contact.first_name:`Primeiro nome do contato
 
 ### `@fields`
 
-Essa expressão é usada para resgatar valores salvos em campos de contatos que-*n ão são padrões** na VTEX Agentic CX Platform Plataforma, através do cartão Update Contact (Atualizar o Contato). Campos de contato são muito utilizados para armazenar informações gerais sobre o contato, pois essas informações podem ser resgatadas em qualquer fluxo usando a expressão `@fields.`⁣, por exemplo:
+Essa expressão é usada para resgatar valores salvos em campos de contatos que não são padrões no VTEX Agentic CX Platform, através do cartão Update Contact (Atualizar o Contato). Campos de contato são muito utilizados para armazenar informações gerais sobre o contato, pois essas informações podem ser resgatadas em qualquer fluxo usando a expressão `@fields.`⁣, por exemplo:
 
 - `@fields.idade:`Idade do contato
 - `@fields.email:`Email do contato, caso esteja sendo salvo em campo de contato ao invés de URN
 
 ### `@urns`
 
-Essa expressão é usada para resgatar o identificador do canal principal do contato na VTEX Agentic CX Platform Plataforma (se o projeto não for anônimo), por exemplo:
+Essa expressão é usada para resgatar o identificador do canal principal do contato no VTEX Agentic CX Platform (se o projeto não for anônimo), por exemplo:
 
 - `@urns.whatsapp:`Número do WhatsApp
 - `@urns.mailto:`Email do contato

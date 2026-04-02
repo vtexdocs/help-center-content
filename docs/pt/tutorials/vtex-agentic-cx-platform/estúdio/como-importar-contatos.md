@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Quando uma pessoa interage por algum dos canais conectados na VTEX Agentic CX Platform Plataforma, automaticamente ela vira um contato. Porém, muitas vezes, já temos informações dos futuros contatos que vão interagir pelos canais, então, como podemos importar esses contatos para a plataforma?
+Quando uma pessoa interage por algum dos canais conectados no VTEX Agentic CX Platform, automaticamente ela vira um contato. Porém, muitas vezes, já temos informações dos futuros contatos que vão interagir pelos canais, então, como podemos importar esses contatos para a plataforma?
 
 1. Acesse **Contatos** (em **Operações**) e vá para a aba de **contatos**.
 2. Clique em `Importar contatos` no canto esquerdo.

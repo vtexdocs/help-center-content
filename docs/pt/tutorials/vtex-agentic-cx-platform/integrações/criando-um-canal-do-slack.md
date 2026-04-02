@@ -31,7 +31,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 7. Suba a página até encontrar o botão `Install to Workspace` e o acione para instalar o app do bot para o seu workspace.
 
-8. Copie os tokens ""User OAuth Token"" e ""Bot User OAuth Token"" para inserir no formulário de criação do canal para o bot do Slack na VTEX Agentic CX Platform.
+8. Copie os tokens "User OAuth Token" e "Bot User OAuth Token" para inserir no formulário de criação do canal para o bot do Slack no VTEX Agentic CX Platform.
 
 9. Na página de apps do Slack, acesse o menu Basic Information para copiar o `Verification Token`.
 

@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 ## Chatbot Template Omie
 
-É um chatbot pronto para envio de **Segunda via em PDF** e **Captura de Leads** (possíveis clientes para o seu negócio). A VTEX Agentic CX Platform fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. Este chatbot é um projeto template desenvolvido pela VTEX Agentic CX Platform, utilizando a API da [Omie](https://www.omie.com.br/).
+É um chatbot pronto para envio de **Segunda via em PDF** e **Captura de Leads** (possíveis clientes para o seu negócio). O VTEX Agentic CX Platform fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. Este chatbot é um projeto template desenvolvido pelo VTEX Agentic CX Platform, utilizando a API da [Omie](https://www.omie.com.br/).
 
 Lembrando que, para consumir a [API da Omie](https://developer.omie.com.br/) é requisito possuir um aplicativo Omie com as seguintes credenciais: [AppKey e AppSecret](https://app.omie.com.br/my-apps/).
 

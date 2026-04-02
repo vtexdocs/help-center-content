@@ -23,16 +23,16 @@ As informações e orientações contidas nesta documentação estão sujeitas a
 
 ### Etapas para integração do Chatbot no Teams
 
-1. Comunicação com a VTEX Agentic CX Platform;
+1. Comunicação com o VTEX Agentic CX Platform;
 2. Registro do aplicativo no Portal da Azure;
 3. Criação do Bot no Portal do Azure;
-4. Habilitar o Canal de Atendimento do Teams na VTEX Agentic CX Platform;
+4. Habilitar o Canal de Atendimento do Teams no VTEX Agentic CX Platform;
 5. Criação da Aplicação na AppStudio;
 6. Publicar a Aplicação no Teams.
 
-### 1. Comunicação com a VTEX Agentic CX Platform
+### 1. Comunicação com o VTEX Agentic CX Platform
 
-No Microsoft Teams, a comunicação do Chatbot com a VTEX Agentic CX Platform ocorre pela URL de callback. Essa URL deve ser pega assim que a integração do canal do Teams na VTEX Agentic CX Platform ocorrer.
+No Microsoft Teams, a comunicação do Chatbot com o VTEX Agentic CX Platform ocorre pela URL de callback. Essa URL deve ser pega assim que a integração do canal do Teams no VTEX Agentic CX Platform ocorrer.
 
 ### 2. Registro do aplicativo no Portal do Azure
 
@@ -52,7 +52,7 @@ Dentro do aplicativo, selecione **Certificados e segredos**:
 
 Em **Certificados e segredos**, selecione **Novo segredo do cliente**, insira uma **Descrição** e defina o tempo de expiração (**Expira em**, recomendado: 24 meses), clique em **Adicionar:**
 
-Após a criação do **Segredos do cliente**, é gerado um **Valor** e um **ID secreto**, essas informações serão utilizadas para habilitar o canal de atendimento na VTEX Agentic CX Platform.
+Após a criação do **Segredos do cliente**, é gerado um **Valor** e um **ID secreto**, essas informações serão utilizadas para habilitar o canal de atendimento no VTEX Agentic CX Platform.
 
 OBS: É recomendando salvar o **Valor** e o **ID secreto**, essas informações são sigilosas e não é possível visualizar seus valores após atualização da página.
 

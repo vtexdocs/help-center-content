@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-A VTEX Agentic CX Platform Plataforma permite que você teste o bot do WhatsApp de uma maneira rápida e prática através de **Configurações > Canais**! Para utilizar essa ferramenta, basta seguir os passos:
+O VTEX Agentic CX Platform permite que você teste o bot do WhatsApp de uma maneira rápida e prática através de **Configurações > Canais**! Para utilizar essa ferramenta, basta seguir os passos:
 
 1. Primeiramente **acesse a organização** que está localizado o projeto no qual irá ser integrado.
 2. **Localize o projeto** que você deseja integrar.
 3. Na barra lateral esquerda, **clique em Configurações > Canais**. A seguinte tela aparecerá:
 
 1. Selecione a opção **Whatsapp Demo** e adicione o canal ao seu projeto, clicando no **ícone \+.**
-2. Em seguida escolha entre ler o QR Code, copiar o link ou abrir uma guia para ser redirecionado ao canal de demonstração da VTEX Agentic CX Platform no WhatsApp. **Envie seu token e você já pode começar a conversar!**
+2. Em seguida escolha entre ler o QR Code, copiar o link ou abrir uma guia para ser redirecionado ao canal de demonstração do VTEX Agentic CX Platform no WhatsApp. **Envie seu token e você já pode começar a conversar!**
 
-E assim, **você poderá testar seus fluxos conversacionais** e garantir que tudo está funcionando como planejado antes de realizar os disparos para seus clientes. Aproveite ao máximo todos os recursos que a VTEX Agentic CX Platform Plataforma oferece!
+E assim, **você poderá testar seus fluxos conversacionais** e garantir que tudo está funcionando como planejado antes de realizar os disparos para seus clientes. Aproveite ao máximo todos os recursos que o VTEX Agentic CX Platform oferece!

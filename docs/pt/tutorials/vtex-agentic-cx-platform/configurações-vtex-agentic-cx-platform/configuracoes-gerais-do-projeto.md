@@ -43,8 +43,8 @@ Aqui você poderá definir o e-mail da sua organização. Todos os e-mails envia
 5. Em Senha, insira a senha do seu e-mail.
 6. Clique em `Salvar`.
 
-Se não desejar configurar, pode deixar os campos em branco para enviar e-mails através do host padrão da VTEX Agentic CX Platform.
+Se não desejar configurar, pode deixar os campos em branco para enviar e-mails através do host padrão do VTEX Agentic CX Platform.
 
 ## Token de acesso da organização
 
-Aqui você poderá verificar o token da sua API. O token é a chave de acesso para que aplicações externas possam interagir com a API da VTEX Agentic CX Platform.
+Aqui você poderá verificar o token da sua API. O token é a chave de acesso para que aplicações externas possam interagir com a API do VTEX Agentic CX Platform.

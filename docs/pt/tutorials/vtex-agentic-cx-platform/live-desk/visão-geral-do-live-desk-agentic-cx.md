@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-O Live Desk é o módulo de atendimento humano oficial da VTEX Agentic CX Platform. Foi desenvolvido com base nas necessidades e dores de nossos clientes, é nativo em todo projeto na VTEX Agentic CX Platform, e possibilita uma experiência auto-service.
+O Live Desk é o módulo de atendimento humano oficial do VTEX Agentic CX Platform. Foi desenvolvido com base nas necessidades e dores de nossos clientes, é nativo em todo projeto no VTEX Agentic CX Platform, e possibilita uma experiência auto-service.
 
 Nas próximas seções você poderá conhecer mais conceitos e funções deste módulo.
 
