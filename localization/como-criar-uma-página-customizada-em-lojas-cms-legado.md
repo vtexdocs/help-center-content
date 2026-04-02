@@ -36,7 +36,7 @@ Agora, você deve criar o caminho da URL da página customizada:
 5. No lado direito da tela, clique em `new folder`.
 6. Preencha os campos conforme as orientações a seguir:
    * **Folder Name:** caminho da URL
-   * **Marketing Context (Default):** define se a página pode ser acessada por utms. Esse campo é opcional.
+   * **Marketing Context (Default):** define se a página pode ser acessada por [utms](https://help.vtex.com/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium). Esse campo é opcional.
    * **Search Context (Default):** adiciona parâmetros de busca.
    * **Protocol:** define o protocolo de comunicação entre um servidor web e um navegador web. Recomendado: `HTTPS`.
    * **Cache Type:** define o comportamento de armazenamento de cache do navegador. Recomendado: `Local and Remote`.
