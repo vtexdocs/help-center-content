@@ -1,6 +1,6 @@
 {
-  "id": "configuring-locales",
-  "name": "Configurar localidades",
-  "slug": "configurar-localidades-subcategoria",
-  "order": 2
+  "id": "localizing-content",
+  "name": "Localização de conteúdo",
+  "slug": "localizacao-de-conteudo-subcategoria",
+  "order": 3
 }

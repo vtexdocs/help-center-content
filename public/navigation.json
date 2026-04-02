@@ -20569,14 +20569,14 @@
           "children": [
             {
               "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
+                "en": "Get started",
+                "es": "Primeros pasos",
+                "pt": "Primeiros passos"
               },
               "slug": {
-                "en": "content-management-overview-category",
-                "es": "informacion-general-cms-categoria",
-                "pt": "visao-geral-cms-categoria"
+                "en": "get-started-category",
+                "es": "primeros-pasos-categoria",
+                "pt": "primeiros-passos-categoria"
               },
               "origin": "",
               "type": "category",
@@ -20591,67 +20591,6 @@
                     "en": "cms-overview",
                     "es": "cms-informacion-general",
                     "pt": "cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configuring locales",
-                "es": "Configurar configuraciones regionales",
-                "pt": "Configurar localidades"
-              },
-              "slug": {
-                "en": "configuring-locales-subcategory",
-                "es": "configurar-configuraciones-regionales-subcategoria",
-                "pt": "configurar-localidades-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring locales",
-                    "es": "Configurar configuraciones regionales",
-                    "pt": "Configurar localidades"
-                  },
-                  "slug": {
-                    "en": "configuring-locales",
-                    "es": "configurar-configuraciones-regionales",
-                    "pt": "configurar-localidades"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Supported languages and regions",
-                    "es": "Idiomas y regiones admitidos",
-                    "pt": "Regiões e idiomas suportados"
-                  },
-                  "slug": {
-                    "en": "supported-languages-and-regions",
-                    "es": "idiomas-y-regiones-admitidos",
-                    "pt": "idiomas-e-regioes-compativeis"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Understanding locale fallback rules",
-                    "es": "Estrategias de configuración regional de resguardo",
-                    "pt": "Estratégias de fallback de localidade"
-                  },
-                  "slug": {
-                    "en": "understanding-locale-fallback-rules",
-                    "es": "estrategias-de-configuracion-regional-de-resguardo",
-                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20683,6 +20622,82 @@
                     "en": "managing-versions-and-branches",
                     "es": "gestionando-versiones-y-branches",
                     "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Localizing content",
+                "es": "Localización de contenido",
+                "pt": "Localização de conteúdo"
+              },
+              "slug": {
+                "en": "localizing-content-subcategory",
+                "es": "localizacion-de-contenido-subcategoria",
+                "pt": "localizacao-de-conteudo-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
+                  },
+                  "slug": {
+                    "en": "configuring-locales",
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Localizing content - Overview",
+                    "es": "Localización de contenido - Descripción general",
+                    "pt": "Localização de conteúdo - Visão geral"
+                  },
+                  "slug": {
+                    "en": "localizing-content",
+                    "es": "localizacion-de-contenido",
+                    "pt": "localizacao-de-conteudo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Idiomas y regiones admitidos",
+                    "pt": "Regiões e idiomas suportados"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "idiomas-y-regiones-admitidos",
+                    "pt": "idiomas-e-regioes-compativeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Estratégias de fallback de localidade"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
                   },
                   "origin": "",
                   "type": "markdown",
