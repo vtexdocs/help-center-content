@@ -24,7 +24,7 @@ Neste guia, você aprenderá como configurar as localidades para a sua loja.
 | **[Estratégias de fallback de localidade](/pt/docs/tutorials/understanding-locale-fallback-rules):** | Define qual conteúdo o sistema exibe quando uma localidade não tem seu próprio conteúdo localizado. |
 | [**Conexão de localidade com bindings:**](#como-as-localidades-se-conectam-aos-bindings)| Explica como o storefront escolhe a localidade correta com base na configuração do binding. |
 
-* Para storefronts [FastStore](https://developers.vtex.com/docs/guides/faststore): Você deve implementar o recurso de Localização no projeto da loja. Para isso, siga as instruções em Gerenciando a internacionalização com o recurso de Localização.
+<!-- * Para storefronts [FastStore](https://developers.vtex.com/docs/guides/faststore): Você deve implementar o recurso de Localização no projeto da loja. Para isso, siga as instruções em Gerenciando a internacionalização com o recurso de Localização. -->
 
 * Certifique-se de que o seguinte [recurso](https://help.vtex.com/pt/docs/tutorials/license-manager-resources) esteja associado ao seu [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/roles):
 

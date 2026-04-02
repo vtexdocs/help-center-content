@@ -30,7 +30,7 @@ The Stores page displays each storefront linked to the account's CMS, allowing y
 
 * View all stores for the account and see which storefronts they are connected to.  
 * Add new stores to link additional storefronts or projects to the CMS.  
-* Open a store’s settings to manage its preview/build URLs, repository integration, and default and fallback locales for content delivery.
+* Open a store's settings to manage its preview/build URLs, repository integration, and default and fallback locales for content delivery.
 
 ## Branches
 

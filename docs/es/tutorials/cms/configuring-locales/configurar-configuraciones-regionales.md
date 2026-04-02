@@ -24,7 +24,7 @@ En esta guía, aprenderás cómo configurar las configuraciones regionales para 
 | **[Estrategias de configuración regional de resguardo](/es/docs/tutorials/understanding-locale-fallback-rules):** | Decide qué contenido muestra el sistema cuando una configuración regional no tiene su propio contenido localizado. |
 | [**Conexión de configuración regional con bindings:**](#como-se-conectan-las-configuraciones-regionales-con-los-bindings) | Clarifica cómo el storefront elige la configuración regional correcta según la configuración del binding. |
 
-* Para storefronts de [FastStore](https://developers.vtex.com/docs/guides/faststore): Debes implementar la función de Localización en el proyecto de la tienda. Para hacerlo, sigue las instrucciones de Manejo de la internacionalización con la función de Localización.
+<!-- * Para storefronts de [FastStore](https://developers.vtex.com/docs/guides/faststore): Debes implementar la función de Localización en el proyecto de la tienda. Para hacerlo, sigue las instrucciones de Manejo de la internacionalización con la función de Localización. -->
 
 * Asegúrate de que el siguiente [recurso](https://help.vtex.com/es/docs/tutorials/license-manager-resources) esté asociado a tu [rol de usuario](https://help.vtex.com/es/docs/tutorials/roles):
 

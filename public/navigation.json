@@ -20569,6 +20569,37 @@
           "children": [
             {
               "name": {
+                "en": "Content Management overview",
+                "es": "Información general de la gestión de contenidos",
+                "pt": "Visão geral do CMS"
+              },
+              "slug": {
+                "en": "content-management-overview-category",
+                "es": "informacion-general-cms-categoria",
+                "pt": "visao-geral-cms-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview",
+                    "es": "cms-informacion-general",
+                    "pt": "cms-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Configuring locales",
                 "es": "Configurar configuraciones regionales",
                 "pt": "Configurar localidades"
@@ -20658,21 +20689,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
-              },
-              "slug": {
-                "en": "cms-overview",
-                "es": "cms-informacion-general",
-                "pt": "cms-visao-geral"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },

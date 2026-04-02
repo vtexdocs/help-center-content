@@ -24,7 +24,7 @@ In this guide, you'll learn how to configure locales for your store.
 | **[Locale fallback strategies](/en/docs/tutorials/understanding-locale-fallback-rules):** | Decide what content the system shows when a locale lacks its own localized content. |
 | [**Locale-binding connection:** ](#understanding-how-locales-are-connected-to-bindings)| Clarify how the storefront chooses the correct locale based on the binding configuration. |
 
-* For [FastStore](https://developers.vtex.com/docs/guides/faststore) storefronts: You must implement the Localization feature in the store project. To do so, follow the instructions in Handling internationalization with the Localization feature.
+<!-- * For [FastStore](https://developers.vtex.com/docs/guides/faststore) storefronts: You must implement the Localization feature in the store project. To do so, follow the instructions in Handling internationalization with the Localization feature. -->
 
 * Make sure the following [resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources) is associated with your [user role](https://help.vtex.com/en/docs/tutorials/roles):
 
