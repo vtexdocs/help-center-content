@@ -20631,7 +20631,7 @@
                   "name": {
                     "en": "Supported languages and regions",
                     "es": "Idiomas y regiones admitidos",
-                    "pt": "Idiomas e regiões compatíveis"
+                    "pt": "Regiões e idiomas suportados"
                   },
                   "slug": {
                     "en": "supported-languages-and-regions",
@@ -20646,7 +20646,7 @@
                   "name": {
                     "en": "Understanding locale fallback rules",
                     "es": "Estrategias de configuración regional de resguardo",
-                    "pt": "Entendendo as regras de fallback de localidade"
+                    "pt": "Estratégias de fallback de localidade"
                   },
                   "slug": {
                     "en": "understanding-locale-fallback-rules",
