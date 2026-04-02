@@ -37,7 +37,7 @@ A [contract](https://help.vtex.com/en/docs/tutorials/b2b-contracts) defines the 
 
 Contracts serve as the foundation of the buyer's experience. All [organizational units](#organizational-units) within the company inherit the contract's conditions, ensuring consistency across the entire organization. The [scopes](#scopes) feature can then control which of these attributes each unit can see and use.
 
-To streamline contract management at scale, the [Contracts Manager Agent](https://help.vtex.com/en/docs/tutorials/contracts-manager-agent) allows store operators to update contracts in bulk using natural language instructions, such as adding collections or changing payment methods across hundreds of contracts at once.
+To streamline contract management at scale, the [Contract Manager Agent](https://help.vtex.com/en/docs/tutorials/contract-manager-agent) allows store operators to update contracts in bulk using natural language instructions, such as adding collections or changing payment methods across hundreds of contracts at once.
 
 ## Organization management
 
