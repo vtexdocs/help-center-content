@@ -1,5 +1,5 @@
 ---
-title: 'How to create a channel with WhatsApp Demo'
+title: "How to create a channel with WhatsApp Demo"
 id: 4AXs746iQgEDFxMDccpdO9
 status: PUBLISHED
 createdAt: 2025-09-15T15:01:29.556Z

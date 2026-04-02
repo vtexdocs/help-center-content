@@ -1,5 +1,5 @@
 ---
-title: 'Zendesk - Atendimento Humano'
+title: 'Zendesk - atendimento humano'
 id: 3FSQwdnzAX3jah8euPD1Ah
 status: PUBLISHED
 createdAt: 2025-09-15T15:13:03.117Z
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### Passos para Integração
+### Passos para integração
 
 A integração entre a Plataforma Weni e o Zendesk oferece uma ferramenta poderosa para gerenciar o atendimento ao cliente de forma eficiente e automática. Após concluir a configuração e instalação, é essencial monitorar o funcionamento da integração para garantir que todos os tickets sejam gerenciados corretamente e que os gatilhos automáticos funcionem conforme o esperado.
 
@@ -102,7 +102,7 @@ Este é um teste para a abertura de tickets no Zendesk:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/zendesk-atendimento-humano_17.png)
 
-#### Próximos Passos:
+#### Próximos passos
 
 - Testar a Integração: Realize testes para garantir que a criação de tickets e as respostas automáticas estejam funcionando conforme planejado.
 - Monitoramento Contínuo: Estabeleça um processo de revisão regular para gatilhos e fluxos, garantindo que estejam alinhados com as necessidades do negócio.

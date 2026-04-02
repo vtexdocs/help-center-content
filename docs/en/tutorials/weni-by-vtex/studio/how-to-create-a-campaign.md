@@ -1,5 +1,5 @@
 ---
-title: 'How to create a Campaign'
+title: "How to create a campaign"
 id: 552TQfDeoedLJoKg6RFBB3
 status: PUBLISHED
 createdAt: 2025-09-12T18:03:34.475Z
@@ -19,23 +19,23 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 The messages are sent following a pre-defined schedule, respecting a determined sequence. These messages can be scheduled based on specific recipient behavior or their current state, ensuring that communication is relevant and timely.
 
-### Creating a Campaign
+## Instructions
 
--  Go to the ""Campaigns"" option in the ""Studio"" module on the side menu
+- Go to the ""Campaigns"" option in the ""Studio"" module on the side menu
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/how-to-create-a-campaign_1.png)
 
--    Click on ""Create Campaign"" to start building your campaign
+- Click on ""Create Campaign"" to start building your campaign
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/how-to-create-a-campaign_2.png)
 
--    Give a name for your campaign, choose a group to which the messages will be sent, and a new window will open.
+- Give a name for your campaign, choose a group to which the messages will be sent, and a new window will open.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/how-to-create-a-campaign_3.png)
 
 Each campaign can only operate with one group. Therefore, a new campaign is required for each group you wish to interact with.
 
--    Now, set the event rules by clicking the ""Add Event"" button, and a new window will appear
+- Now, set the event rules by clicking the ""Add Event"" button, and a new window will appear
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/how-to-create-a-campaign_4.png)
 
@@ -47,10 +47,10 @@ Each campaign can only operate with one group. Therefore, a new campaign is requ
 
 4. Then, set the date and time you want the event to start. The following information makes up a cadence:
 
--    How many minutes, hours, days, or weeks before or after the value of the contact field.
+- How many minutes, hours, days, or weeks before or after the value of the contact field.
 
--    The selected contact field.
+- The selected contact field.
 
--    The time the event will start.
+- The time the event will start.
 
 5. In ""Delivered"": This can be used for schedules over 24 hours. Here, you can specify whether people receive the message at the exact time of the event or if you want to standardize all messages to be sent together at a specific time of day.

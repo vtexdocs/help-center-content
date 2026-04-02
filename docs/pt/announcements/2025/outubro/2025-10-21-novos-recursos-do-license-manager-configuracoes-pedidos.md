@@ -13,6 +13,10 @@ locale: pt
 legacySlug: novos-recursos-do-license-manager-configuracoes-pedidos
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novas permissões exigidos para acessar configurações de pedidos no Admin VTEX'
+tags:
+  - Breaking change
+  - Pedidos
+  - Identity
 ---
 
 Para garantir uma autenticação mais segura e controlada, atualizamos a forma como o [License Manager](/pt/docs/tutorials/perfis-de-acesso) valida o acesso a configurações de pedidos da loja. Agora, os novos recursos passam a ser necessários para que usuários possam acessar determinadas páginas do Admin VTEX. 

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo crear un canal en Twitter'
+title: "Cómo crear un canal en Twitter"
 id: 105ZDpGE4db4bOwN4IGjEL
 status: PUBLISHED
 createdAt: 2025-09-15T14:14:31.530Z
@@ -21,16 +21,16 @@ Ten en cuenta que puedes solicitarlo en cualquier nivel; una cuenta Sandbox (ent
 
 Una vez que aprueben tu cuenta de desarrollador, Twitter enviará un correo electrónico de bienvenida. Ahora puedes crear tu aplicación y conectarla.
 
-**Etapas**
+## Etapas
 
 1. El primer paso es crear tu aplicación. Te pedirán el nombre de la aplicación, la descripción y la URL. Complétalos según la funcionalidad del bot que estás construyendo.
 
 2. Luego, deberás crear un entorno de desarrollo para que tu aplicación se ejecute. Deberás crear un entorno para la **Account Activity API / Sandbox**. Puedes nombrarlo como desees; recomendamos ""producción."" Asegúrate de seleccionar la aplicación que creaste en esta etapa.
-Este nombre se usará al conectar la cuenta en la Plataforma Weni.
+   Este nombre se usará al conectar la cuenta en la Plataforma Weni.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_1.png)
 
-4. Ahora necesitas crear las claves y tokens para tu aplicación, que serán necesarios al crear tu canal. Vuelve a tu aplicación y selecciona la pestaña **Keys and****Tokens**. Haz clic en **Regenerar** en las secciones **Consumer API Keys** y **Access token \& access token secret**. Las claves y tokens deben generarse con los permisos de ""Leer, Escribir y Mensajes Directos"".
+4. Ahora necesitas crear las claves y tokens para tu aplicación, que serán necesarios al crear tu canal. Vuelve a tu aplicación y selecciona la pestaña **Keys and\*\***Tokens**. Haz clic en **Regenerar** en las secciones **Consumer API Keys** y **Access token \& access token secret\*\*. Las claves y tokens deben generarse con los permisos de ""Leer, Escribir y Mensajes Directos"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_2.png)
 

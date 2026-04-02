@@ -1,5 +1,5 @@
 ---
-title: 'Whatsapp Bussiness API: WhatsApp message triggering limitation'
+title: "WhatsApp Bussiness API: WhatsApp message triggering limitation"
 id: 1mMpu05SPvb9ZDJTSSkTEp
 status: PUBLISHED
 createdAt: 2025-09-15T15:32:11.616Z
@@ -15,8 +15,6 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-### WhatsApp Rate Limiting
-
 After completing the approval and integration process, your phone number with Weni will be activated for WhatsApp. Even after the approval and activation of your number, WhatsApp has a message progression policy that imposes a limitation.
 
 Message limits refer to the maximum number of conversations initiated by the business (opened due to sending a marketing, utility, or authentication template to a WhatsApp user) that a business phone number can open within a 24-hour period.
@@ -25,7 +23,7 @@ Initially, business phone numbers are limited to 250 conversations initiated by 
 
 Due to this limitation, businesses looking to send messages to more than 1,000 unique users (which Weni refers to as active contacts) are advised to send them gradually over the course of a week.
 
-#### WhatsApp Message Limitations
+#### WhatsApp message limitations
 
 There are different levels of message rate limiting on WhatsApp:
 

@@ -13,6 +13,10 @@ locale: en
 legacySlug: mercado-libre-flex-and-turbo-shipping
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Faster shipping on Mercado Libre: enable Flex and Turbo in VTEX Admin.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 We created this feature so VTEX clients can enable Envios Flex and Envios Turbo shipping methods for products sold on Mercado Libre.

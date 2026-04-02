@@ -13,6 +13,9 @@ locale: pt
 legacySlug: conversation-tracker-nova-validade-de-email
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'O endereço de email alternativo do Conversation Tracker agora expira no fim do fluxo do pedido.'
+tags:
+  - Breaking change
+  - Pedidos
 ---
 
 Para melhorar a experiência dos clientes VTEX, o endereço de email alternativo do Conversation Tracker agora tem uma validade mais curta. Essa mudança proporciona uma medida adicional de segurança.

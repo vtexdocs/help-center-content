@@ -39,11 +39,11 @@ En este artículo, describimos los siguientes errores:
 
 - **No se encontró la especificación (X) rellenada en la plantilla de mapeo en la especificación del producto o del SKU en tu catálogo VTEX**
 
-  Este error se produce cuando se rellena la plantilla con una especificación que no existe en el catálogo VTEX. Para resolver este error, debes registrar una[ especificación de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) o [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr). Para ver los valores aceptados por Amazon, abre la [Plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) y consulta la pestaña VALORES VÁLIDOS.
+  Este error se produce cuando se rellena la plantilla con una especificación que no existe en el catálogo VTEX. Para resolver este error, debes registrar una[ especificación de producto](/es/docs/tracks/registrar-producto) o [SKU](/es/docs/tracks/registrar-sku). Para ver los valores aceptados por Amazon, abre la [Plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) y consulta la pestaña VALORES VÁLIDOS.
 
 - **El valor (X) en la plantilla de mapeo no es un valor de atributo/especificación aceptado por Amazon**
 
-  Este error se produce cuando la especificación X no es aceptada por Amazon. Debes[ registrar una especificación](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) aceptada por Amazon. Para ver los valores aceptados por Amazon, abre la [Plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) y consulta la pestaña VALORES VÁLIDOS.
+  Este error se produce cuando la especificación X no es aceptada por Amazon. Debes[ registrar una especificación](/es/docs/tracks/registrar-producto) aceptada por Amazon. Para ver los valores aceptados por Amazon, abre la [Plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) y consulta la pestaña VALORES VÁLIDOS.
 
 - **El ID de categoría global VTEX del producto no se encontró en la plantilla de mapeo**
 
@@ -63,7 +63,7 @@ En este artículo, describimos los siguientes errores:
 
 - **El valor de la especificación (X) en la plantilla no existe en la especificación del producto en VTEX**
 
-  En el error anterior, el atributo mencionado no está registrado en el SKU del catálogo VTEX. Debes [registrar el atributo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) y volver a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) del producto enviado.
+  En el error anterior, el atributo mencionado no está registrado en el SKU del catálogo VTEX. Debes [registrar el atributo](/es/docs/tracks/registrar-producto) y volver a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) del producto enviado.
 
 - **La unidad de edad mínima en la plantilla de mapeo no concuerda con la esperada por Amazon**
 
@@ -87,7 +87,7 @@ En este artículo, describimos los siguientes errores:
 
 - **El atributo "author" no está registrado en el SKU o no consta en la plantilla de mapeo**
 
-  No registraste el atributo obligatorio Author para el producto que deseas enviar. Para ver los valores aceptados por Amazon, abre la [Plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon), consulta la pestaña VALORES VÁLIDOS y [registra una especificación de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) para ese atributo.
+  No registraste el atributo obligatorio Author para el producto que deseas enviar. Para ver los valores aceptados por Amazon, abre la [Plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon), consulta la pestaña VALORES VÁLIDOS y [registra una especificación de producto](/es/docs/tracks/registrar-producto) para ese atributo.
 
 - **El valor en la plantilla de mapeo del atributo "Size" no es un atributo/especificación aceptado por Amazon**
 
@@ -102,17 +102,17 @@ En este artículo, describimos los siguientes errores:
 - **El atributo Color no está registrado en el SKU o no consta en la plantilla de mapeo**
 
   El atributo Color es obligatorio para la categoría del producto que estás enviando a Amazon y no está registrado en el SKU o no fue mapeado en la plantilla de mapeo.
-Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) para el atributo Color y/o volver a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) del producto enviado.
+Debes registrar una [especificación de SKU](/es/docs/tracks/registrar-sku) para el atributo Color y/o volver a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) del producto enviado.
 
 - **La especificación de producto "TargetGender" es obligatoria para integrar el producto con Amazon**
 
-  La especificación de producto TargetGender es obligatoria para la categoría del producto que estás enviando. Dependiendo de la categoría, Amazon puede llamarla Department o TargetGender. [Registra la especificación de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) TargetGender y vuelve a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon).
+  La especificación de producto TargetGender es obligatoria para la categoría del producto que estás enviando. Dependiendo de la categoría, Amazon puede llamarla Department o TargetGender. [Registra la especificación de producto](/es/docs/tracks/registrar-producto) TargetGender y vuelve a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon).
 
 ## Errores de divergencia entre los catálogos de VTEX y Amazon (match de anuncios)
 
 - **El SKU ya existe en el catálogo de Amazon y se podría realizar el proceso de matching del mismo entre VTEX y Amazon. Sin embargo, el valor del atributo (X) de este SKU en VTEX es distinto del valor que tiene registrado en Amazon. En VTEX es (X) y en Amazon es (Y).**
 
-  Este error se produce cuando hay divergencias de valores del atributo (datos de las características del SKU) entre el catálogo de Amazon y el de VTEX. Para resolver este error, debes [modificar el valor del atributo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) en la plataforma VTEX para que sea equivalente al [valor del atributo en la plataforma Amazon](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r).
+  Este error se produce cuando hay divergencias de valores del atributo (datos de las características del SKU) entre el catálogo de Amazon y el de VTEX. Para resolver este error, debes [modificar el valor del atributo](/es/docs/tracks/registrar-sku) en la plataforma VTEX para que sea equivalente al [valor del atributo en la plataforma Amazon](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r).
 
 ## Errores de token y permisos de Amazon
 

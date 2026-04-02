@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-feature-promotion-budgets
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX launches promotion budget limits, enabling automatic pausing and better discount management.'
+tags:
+  - New feature
+  - Promotions
 ---
 
 A new global feature in the VTEX Promotions module will allow you to set budgets for your planned campaigns. This improvement helps merchants control discount spending and gives more security and predictability in benefit management.

@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevo-formulario-promociones-con-descuento-progresivo
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Configura promociones de descuento progresivo, incentivando compras mayores con porcentajes ajustables y flexibles.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 VTEX lanza un nuevo formulario de [Descuento progresivo](/es/docs/tutorials/descuento-progresivo), que permite configurar promociones con porcentajes de descuento crecientes a medida que se agregan más productos al carrito. Esta funcionalidad resulta útil para incentivar las compras de gran volumen ofreciendo beneficios proporcionales a la cantidad adquirida.

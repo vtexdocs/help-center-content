@@ -13,6 +13,9 @@ locale: es
 legacySlug: license-manager-nuevos-recursos-para-gestionar-usuarios-administrativos
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Simplificamos la gestión de usuarios con nuevos recursos en License Manager.'
+tags:
+  - Nueva funcionalidad
+  - Identity
 ---
 
 Creamos dos nuevos [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager) para simplificar y estandarizar el control de acceso y agrupar acciones relacionadas con la gestión de usuarios administrativos en el Admin VTEX de forma más intuitiva.

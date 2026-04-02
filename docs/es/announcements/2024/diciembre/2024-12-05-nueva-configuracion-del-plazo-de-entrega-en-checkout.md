@@ -13,6 +13,10 @@ locale: es
 legacySlug: nueva-configuracion-del-plazo-de-entrega-en-checkout
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nueva configuración en Checkout permite mostrar el plazo de entrega de cada producto de forma individual.'
+tags:
+  - Mejora
+  - Checkout
+  - Logística
 ---
 
 La configuración predeterminada de Checkout muestra un único plazo de entrega (en días laborables) para todos los productos del carrito. Siempre se muestra el valor correspondiente al producto con el tiempo de envío más largo.

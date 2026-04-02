@@ -1,5 +1,5 @@
 ---
-title: 'Agregar Discord como un canal'
+title: "Agregar Discord como un canal"
 id: 2s5uqsnula0RiNQXXJDDrL
 status: PUBLISHED
 createdAt: 2025-09-15T14:27:46.594Z
@@ -38,13 +38,13 @@ Discord tiene documentación oficial sobre cómo registrar tu bot.
 
 4. Haz clic en ""Redefinir Token"" y obtén tu token.
 
-### Agrega el canal a la plataforma de Weni.
+## Agrega el canal a la plataforma de Weni.
 
 1. Dentro del proyecto, ve a: Aplicaciones \-> Descubrimiento \-> Agregar Discord.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregar-discord-como-un-canal_3.png)
 
-2. Después de agregarlo a ""Mis Aplicaciones"", inserta tu discord\_bot\_token proporcionado por la página de Desarrolladores de Discord y la URL del Proxy, que es la URL donde el proxy de Discord está ejecutándose.
+2. Después de agregarlo a ""Mis Aplicaciones"", inserta tu discord_bot_token proporcionado por la página de Desarrolladores de Discord y la URL del Proxy, que es la URL donde el proxy de Discord está ejecutándose.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregar-discord-como-un-canal_4.png)
 

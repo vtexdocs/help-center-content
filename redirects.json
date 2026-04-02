@@ -12892,6 +12892,10 @@
     {
       "from": "/es/docs/tutorials/promocoes-do-mercado-livre",
       "to": "/es/docs/tutorials/central-de-promociones-mercado-libre"
+    },
+    {
+      "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
+      "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
     }
     ]
   }

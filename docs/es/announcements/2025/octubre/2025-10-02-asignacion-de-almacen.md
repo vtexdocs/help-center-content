@@ -13,6 +13,10 @@ locale: es
 legacySlug: mercado-libre-asignacion-de-almacen
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Configura tu almacén VTEX con el modelo regionalizado de Mercado Libre para optimizar la logística y la eficiencia.'
+tags:
+  - Nueva funcionalidad
+  - Marketplace
+  - Integraciones
 ---
 
 La funcionalidad **Asignación de almacén** permite a los sellers vincular diferentes almacenes de su tienda VTEX a los almacenes de Mercado Libre, mejorando la gestión de stock y optimizando la logística de pedidos.  

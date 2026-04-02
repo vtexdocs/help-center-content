@@ -1,5 +1,5 @@
 ---
-title: 'Marcadores de ruta'
+title: "Marcadores de ruta"
 id: 6Ik6WA9HMhGvPr1IsfQPJE
 status: PUBLISHED
 createdAt: 2025-09-17T14:12:14.855Z
@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Después de crear nuestros flujos, nuestro objetivo y ansiedad se centran en saber cómo las personas están usando y reaccionando a las conversaciones. Para que puedas analizar en tiempo real cómo está la interacción y el compromiso en tus flujos, qué caminos prefieren los usuarios y utilizar estos datos para la toma de decisiones, la plataforma ofrece algunas herramientas para ayudarte.
 
-#### Marcadores de ruta
+## Marcadores de ruta
 
 Los marcadores de ruta son números guía que aparecen debajo de cada carta de acción y decisión, mostrando cuántas personas han pasado por esa ruta en el flujo. Es una herramienta muy interesante para identificar cuál es el camino más frecuentado por tus usuarios, además de actualizarse siempre en tiempo real. También es útil para identificar ciertos cuellos de botella, como cuando una pregunta retiene a un usuario demasiado tiempo en el flujo.
 

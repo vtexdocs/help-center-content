@@ -1,5 +1,5 @@
 ---
-title: 'Importing Contacts'
+title: "Importing contacts"
 id: 2iPoWuJtzfIvGrpUdIvvhR
 status: PUBLISHED
 createdAt: 2025-09-12T17:23:02.357Z
@@ -27,12 +27,12 @@ After that, you will be directed to the import page, where you can select an Exc
 
 The rules for naming columns are:
 
--    ***Name:*** contact name column
+- **_Name:_** contact name column
 
--  ***Language:*** column with the language the contact interacts with
+- **_Language:_** column with the language the contact interacts with
 
--  ***URN: :*** column with the URN of the channel that the contact will communicate, remembering, that the contact is only valid if it has at least one URN.
+- **_URN: :_** column with the URN of the channel that the contact will communicate, remembering, that the contact is only valid if it has at least one URN.
 
--  ***Field: :*** column with custom fields for contacts.Then just click on ***Import*** and your contacts will be imported to the platform. All contacts appeared linked to a static group, which has the same name as the spreadsheet file, in case you don't want to keep the group, just delete it.
+- **_Field: :_** column with custom fields for contacts.Then just click on **_Import_** and your contacts will be imported to the platform. All contacts appeared linked to a static group, which has the same name as the spreadsheet file, in case you don't want to keep the group, just delete it.
 
 The **URN:whatsapp** is extremely important and necessary for sending template messages. If this column, along with the phone numbers listed under it, is not present when importing contacts, sending messages via WhatsApp to these contacts will be unavailable later.

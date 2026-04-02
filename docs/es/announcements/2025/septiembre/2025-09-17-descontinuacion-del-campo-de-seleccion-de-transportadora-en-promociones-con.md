@@ -13,6 +13,9 @@ locale: es
 legacySlug: descontinuacion-del-campo-de-seleccion-de-transportadora-en-promociones-con
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Campo de transportadora desactivado en promociones con método de envío a partir de julio 2025.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 El equipo de desarrollo de VTEX desactivó y descontinuó el campo `isSlaSelected` para facilitar la configuración de métodos de envío. Además, la descontinuación de esta configuración manual ayuda a garantizar un comportamiento predecible.

@@ -1,5 +1,5 @@
 ---
-title: 'Distribuição e Roteamento dos atendimentos'
+title: "Regras de distribuição e roteamento dos atendimentos"
 id: 1vxyqKMo6a5JZZUjVuW6Oj
 status: PUBLISHED
 createdAt: 2025-09-12T16:43:27.944Z
@@ -14,8 +14,6 @@ legacySlug: distribuicao-e-roteamento-dos-atendimentos
 locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
-
-### Regra de distribuição dos atendimentos
 
 As regras atuais de distribuição automática dos atendimentos são:
 

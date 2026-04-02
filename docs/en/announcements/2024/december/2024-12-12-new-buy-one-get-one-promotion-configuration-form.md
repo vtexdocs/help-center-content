@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-buy-one-get-one-promotion-configuration-form
 announcementImageID: 'undefined'
 announcementSynopsisEN: "We've updated the \"Buy One Get One\" form with a more intuitive interface, simplifying promotion configuration."
+tags:
+  - Improvement
+  - Promotions
 ---
 
 VTEX has made available a new [form](/en/docs/tutorials/buy-one-get-one) for configuring the Buy One Get Onepromotion. This feature offers a new interface, making it easier to create promotions that offer customers benefits such as free shipping or gifts when they add products to the cart.

@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Facebook'
+title: "Como criar um canal no Facebook"
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 O Facebook atualizou suas políticas de integração, então agora você pode conectar facilmente uma página do Facebook para criar um canal do Messenger em apenas alguns instantes.
 
-### Adicionar uma página
+## Instruções
 
 1. Em seu projeto, acesse o módulo de **Aplicativos > Descobertas**
 
@@ -37,7 +37,7 @@ O Facebook atualizou suas políticas de integração, então agora você pode co
 
 5. Escolha a página que deseja adicionar e clique em Criar canal
 
- ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-facebook_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-facebook_5.png)
 
 Caso precise realizar login na plataforma, você será apresentado a algumas permissões que a plataforma precisa. Deverá permitir todas para concluir. Então será direcionado ao passo anterior.
 

@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-pantalla-de-error-del-admin
 announcementImageID: 'undefined'
 announcementSynopsisES: 'La nueva pantalla de error del Admin incluye procedimientos objetivos y permite ocultar los detalles técnicos.'
+tags:
+  - Mejora
+  - Admin
 ---
 
 La nueva pantalla de error del Admin presenta una comunicación más objetiva y centrada en instrucciones directas para identificar y corregir diversos tipos de problemas en la tienda.

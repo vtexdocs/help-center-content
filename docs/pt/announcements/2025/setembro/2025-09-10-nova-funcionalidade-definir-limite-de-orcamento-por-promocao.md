@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-funcionalidade-definir-limite-de-orcamento-por-promocao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'VTEX lança limite de orçamento por promoção, com pausa automática e mais controle sobre os descontos.'
+tags:
+  - Nova funcionalidade
+  - Promoções
 ---
 
 O módulo de Promoções da VTEX contará com uma nova funcionalidade disponível globalmente, que permite configurar orçamentos para campanhas promocionais. Essa melhoria foi desenvolvida para ajudar no controle dos gastos com descontos, oferecendo mais segurança e previsibilidade no gerenciamento de benefícios.

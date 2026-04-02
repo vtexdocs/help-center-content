@@ -72,7 +72,7 @@ Você pode escolher entre as seguintes opções:
 - **Iguais a:** selecione as políticas comerciais que você deseja incluir na promoção. Essa opção permite que você especifique quais políticas se aplicam aos produtos que receberão o desconto.
 - **Diferentes de:** selecione as políticas comerciais que você deseja excluir da promoção. Essa opção remove determinadas políticas, garantindo que o desconto não seja aplicado a produtos que seguem essas regras comerciais.
 
-# Condições do Compre e Ganhe
+## Condições do Compre e Ganhe
 Nesta seção, você pode configurar promoções do tipo "Compre e Ganhe", permitindo oferecer benefícios ao comprar itens. A configuração ocorre em duas etapas:
 
 - Definição dos itens que devem ser adquiridos.

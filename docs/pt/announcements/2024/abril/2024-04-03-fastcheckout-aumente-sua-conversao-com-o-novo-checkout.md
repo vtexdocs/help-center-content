@@ -13,6 +13,9 @@ locale: pt
 legacySlug: fastcheckout-aumente-sua-conversao-com-o-novo-checkout
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Apresentamos o FastCheckout: inovação em checkout para experiências personalizadas e de alta conversão.'
+tags:
+  - Nova funcionalidade
+  - Checkout
 ---
 
 

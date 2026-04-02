@@ -13,6 +13,9 @@ locale: pt
 legacySlug: callback-url-signature-token-de-autenticacao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Token de autenticação para autorizações de pagamento assíncrono'
+tags:
+  - Atualização de segurança
+  - Pagamentos
 ---
 
 Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX está implementando a utilização do token de autenticação `X-VTEX-signature`.  Este token deve ser utilizado por provedores e parceiros de pagamento no momento de retornar o status de uma transação de pagamento assíncrona via [callback URL](/pt/docs/tutorials/payment-provider-protocol#callback-url).  

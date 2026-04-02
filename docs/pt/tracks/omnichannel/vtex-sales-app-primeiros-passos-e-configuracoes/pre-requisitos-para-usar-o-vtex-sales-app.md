@@ -91,7 +91,7 @@ A VTEX conta com um contrato padrão com esses parceiros para facilitar a implan
 
 ### Pagamentos
 
-Para configurar o adquirente que irá processar os pagamentos de sua loja, acesse [Configurar os métodos de pagamento para o VTEX Sales App](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar o adquirente que irá processar os pagamentos de sua loja, acesse [Configurar os métodos de pagamento para o VTEX Sales App](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app).
 
 ### Faturamento
 

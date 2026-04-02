@@ -13,6 +13,10 @@ locale: en
 legacySlug: mercado-libre-warehouse-assignment
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Configure your VTEX warehouse with Mercado Libre’s regionalized model to improve logistics and warehouse efficiency.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 The **warehouse assignment** feature allows sellers to link different warehouses from their VTEX store to specific Mercado Libre warehouses. This improves inventory accuracy and optimizes order logistics.  

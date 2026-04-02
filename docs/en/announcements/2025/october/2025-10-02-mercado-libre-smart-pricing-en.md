@@ -13,6 +13,10 @@ locale: en
 legacySlug: mercado-libre-smart-pricing
 announcementImageID: 'undefined'
 announcementSynopsisEN: "Automate your store's strategic price updates with Smart Pricing."
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 We integrated the **Smart Pricing** feature to help sellers automatically set more competitive prices on Mercado Libre.

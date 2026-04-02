@@ -1,5 +1,5 @@
 ---
-title: 'Cambiando el idioma de la plataforma'
+title: "Cambiando el idioma de la plataforma"
 id: 7qzaFp6xA3APSiaLNvj6C4
 status: PUBLISHED
 createdAt: 2025-09-12T15:33:34.931Z
@@ -16,8 +16,6 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
 Actualmente, la Plataforma está disponible en portugués, inglés y español. En esta guía, le mostraremos cómo puede elegir el idioma de su preferencia.
-
-#### Cómo cambiarlo:
 
 1. Al iniciar sesión en la plataforma, un botón estará disponible en la parte superior derecha de la pantalla. Al hacer clic en él, tendrá la opción de alternar entre idiomas.
 

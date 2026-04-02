@@ -117,28 +117,28 @@ You can check out all available native controls and their respective uses in our
 - [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
 - [Layout folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
 - [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
-- [What are templates?](/en/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [What are controls?](/en/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [What are layouts?](/en/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [What are shelves?](/en/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [What is binding?](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [What are templates?](/en/docs/tutorials/what-are-templates)
+- [What is a website?](/en/docs/tutorials/what-is-a-web-site)
+- [What are controls?](/en/docs/tutorials/what-are-controls)
+- [What are layouts?](/en/docs/tutorials/what-are-layouts)
+- [What are shelves?](/en/docs/tutorials/what-are-shelves)
+- [What is binding?](/en/docs/tutorials/what-is-binding)
 
 ## Guides
 - [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
 
-- [Associating a template with a layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete): Associate a template with a layout using the Sites and Channels folder.
+- [Associating a template with a layout](/en/docs/tutorials/associating-a-template-with-a-layout): Associate a template with a layout using the Sites and Channels folder.
 
 - [Managing placeholders](/en/docs/tutorials/managing-placeholders): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
 
-- [Using VTEX's native controls](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
+- [Using VTEX's native controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
 
 - [What is the purpose of the Customized Control?](/en/docs/tutorials/what-is-the-purpose-of-the-customized-control): In addition to VTEX's native controls, you can create your own controls.
 
 ## Controls
 - [List of controls for templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 - [Search control – fulltextSearchBox](/en/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
-- [Collection highlight control](/en/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
-- [Breadcrumb control](/en/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
+- [Collection highlight control](/en/docs/tutorials/collection-highlight-control)
+- [Breadcrumb control](/en/docs/tutorials/breadcrumb-control)
 - [Shelf template controls](/en/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
 - 

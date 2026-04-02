@@ -13,6 +13,10 @@ locale: en
 legacySlug: store-framework-cms-new-permission-required-to-manage-pages
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Managing pages in Store Framework CMS requires a role with the "CMS Settings" resource.'
+tags:
+  - Security update
+  - Storefront
+  - Identity
 ---
 
 [Pages](/en/docs/tutorials/pages-overview) is a Store Framework CMS feature that manages all URL routes and corresponding page templates of your store’s website, such as home, product, and login page. For security purposes, we now require Admin users to have specific permission to manage the routes and page templates with this feature.

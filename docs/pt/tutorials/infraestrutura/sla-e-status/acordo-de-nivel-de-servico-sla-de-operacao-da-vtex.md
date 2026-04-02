@@ -15,13 +15,12 @@ locale: pt
 subcategoryId: 5PYkoNDZyo2G80yiiqG2YW
 ---
 
-O [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) é um acordo de nível de serviço, ou seja, uma política que rege o uso da plataforma VTEX sob os termos do contrato celebrado entre a VTEX e o cliente, que é o contratante. Este documento especifica todos os serviços que um contratante pode esperar da VTEX.
+O [Service Level Agreement (SLA)](https://vtex.com/pt-br/trust/contratos) é um acordo de nível de serviço, ou seja, uma política que rege o uso da plataforma VTEX sob os termos do contrato celebrado entre a VTEX e o cliente, que é o contratante. Este documento especifica todos os serviços que um contratante pode esperar da VTEX.
 
 O SLA expressa o nível de serviço da infraestrutura da plataforma e esclarece tecnicamente seu tempo de atividade e inatividade operacional, assim como todos os eventos que são contabilizados ou não como incidentes.
 
-Confira o nosso SLA em [VTEX Commerce - SLA Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements/).
+Confira o nosso SLA em [VTEX Commerce - SLA Agreement](https://vtex.com/pt-br/trust/contratos).
 
 ## Saiba mais
 
 - [Como é apurado o SLA de operação da plataforma?](/pt/docs/tutorials/como-e-apurado-o-sla-de-operacao-da-plataforma)
-

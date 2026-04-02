@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-**Guía de uso del envío activo**
-
 El envío activo de flujos permite que un agente envíe un flujo a uno o más
 contactos y grupos de contactos, posibilitando además iniciar una conversación
 con los contactos deseados a través de los modelos de mensajes de WhatsApp.
@@ -28,7 +26,7 @@ En este artículo trataremos sobre:
 - Activar la función de envío de flujos en la configuración de chats.
 - Enviar un flujo desde los chats.
 
-#### **Habilitar un flujo existente para su envío en Chats**
+## Habilitar un flujo existente para su envío en Chats
 
 Cualquier flujo existente puede ser enviado a través de los chats. Para hacerlo, simplemente accede a **Flujos.**
 
@@ -44,7 +42,7 @@ Para que el flujo esté disponible en los chats, debe tener una etiqueta con el 
 
 Al hacer clic en **""crear""**, tu flujo automáticamente tendrá la etiqueta creada y estará disponible para ser usado en los chats.
 
-#### **Crear un flujo que envíe un modelo de mensaje**
+## Crear un flujo que envíe un modelo de mensaje
 
 La creación de flujos está reservada para usuarios con roles de gestión, es
 decir, solo los usuarios con permisos de administrador, moderador y colaborador
@@ -69,7 +67,7 @@ Añade las tarjetas según las acciones que desees en tu flujo. Para que el fluj
 
 Tus modelos registrados deberían aparecer. Selecciona el deseado e ingresa la variable en caso de haberla. Luego, haz clic en **""Confirme""** y finaliza tu flujo.
 
-#### **Activando la función de envío de flujos en Configuración de Chats**
+## Activando la función de envío de flujos en Configuración de Chats
 
 Para que la función de envío de flujos esté disponible para los agentes,
 primero debes habilitarla en la configuración, en el sector deseado.
@@ -84,7 +82,7 @@ En la primera pantalla del sector, podrás ver el botón para activar el envío 
 
 Enviando un flujo en Chats
 
-### **Accede a Chats**
+## Accede a Chats
 
 En la pantalla de chats, haz clic en el botón debajo de preferencias, como se
 muestra en el ejemplo.
