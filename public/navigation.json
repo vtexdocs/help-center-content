@@ -20665,9 +20665,9 @@
                     "pt": "Configurar localidades"
                   },
                   "slug": {
-                    "en": "setting-up-locales",
-                    "es": "setting-up-locales",
-                    "pt": "setting-up-locales"
+                    "en": "configuring-locales",
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
                   },
                   "origin": "",
                   "type": "markdown",
