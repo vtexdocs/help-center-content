@@ -20660,21 +20660,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring locales",
-                    "es": "Configurar configuraciones regionales",
-                    "pt": "Configurar localidades"
-                  },
-                  "slug": {
-                    "en": "configuring-locales",
-                    "es": "configurar-configuraciones-regionales",
-                    "pt": "configurar-localidades"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Localizing content - Overview",
                     "es": "Localización de contenido - Descripción general",
                     "pt": "Localização de conteúdo - Visão geral"
@@ -20683,6 +20668,21 @@
                     "en": "localizing-content",
                     "es": "localizacion-de-contenido",
                     "pt": "localizacao-de-conteudo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
+                  },
+                  "slug": {
+                    "en": "configuring-locales",
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
                   },
                   "origin": "",
                   "type": "markdown",
