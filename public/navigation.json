@@ -20636,12 +20636,12 @@
                 "pt": "Localização de conteúdo"
               },
               "slug": {
-                "en": "localizing-content",
-                "es": "localizacion-de-contenido",
-                "pt": "localizacao-de-conteudo"
+                "en": "localizing-content-subcategory",
+                "es": "localizacion-de-contenido-subcategoria",
+                "pt": "localizacao-de-conteudo-subcategoria"
               },
               "origin": "",
-              "type": "markdown",
+              "type": "category",
               "children": [
                 {
                   "name": {
