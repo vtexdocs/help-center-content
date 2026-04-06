@@ -8,7 +8,7 @@ slugEN: scopes-overview
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade é exclusiva para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade é exclusiva para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 **Scopes** são a funcionalidade da Organization Account que permite às organizações compradoras restringirem os atributos de **Organizational Units** (OU). Isso permite às empresas controlarem quais informações os compradores de uma unidade de negócio podem ver e usar, limitando o acesso dos usuários ao necessário para suas funções.
 

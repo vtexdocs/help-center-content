@@ -10,7 +10,7 @@ locale: pt
 
 Budgets permitem definir e acompanhar limites de gastos de forma centralizada. A funcionalidade ajuda a controlar o uso dos valores ao longo do tempo e a organizar o orçamento por diferentes contextos do negócio. 
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 Com o gerenciamento de budgets, você pode criar orçamentos, configurar notificações de consumo, definir alocações e controlar quando e como esses valores ficam disponíveis no checkout.
 
