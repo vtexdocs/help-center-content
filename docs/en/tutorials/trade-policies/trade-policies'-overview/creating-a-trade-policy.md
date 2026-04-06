@@ -1,5 +1,5 @@
 ---
-title: 'Creating a sales channel (trade policy)'
+title: 'Creating a sales channel (sales channel)'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-[Sales channels (trade policies)](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial) are used on VTEX to group catalog, pricing, promotion, inventory, logistics, customer segmentation, and payment settings. Channels can include marketplaces, your own ecommerce site, physical stores, or B2B stores.
+[Sales channels (sales channels)](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial) are used on VTEX to group catalog, pricing, promotion, inventory, logistics, customer segmentation, and payment settings. Channels can include marketplaces, your own ecommerce site, physical stores, or B2B stores.
 
 Managing sales channels
 
@@ -36,7 +36,7 @@ All create actions are logged in the Admin audit logs, which allows you to ident
 To add a sales channel, follow these steps:
 
 1. In the VTEX Admin, go to **Store Settings \> Channels \> Sales channels** or type **Sales channels** in the search bar.  
-2. Click New trade policy.  
+2. Click New sales channel.  
 3. Review the information displayed in the notification and confirm to proceed.  
 4. Complete the sales channel fields:
 
@@ -53,14 +53,14 @@ To add a sales channel, follow these steps:
 | **Time zone:** | Time zone of the sales channel. |
 | **Active?:** | Defines whether the sales channel is active. |
 | **Conditional rule:** | Optional field that allows restricting the sales channel to specific customers based on Master Data information. If you add one, only users who meet the defined condition have access to the sales channel. For example, isPremium=true applies the sales channel only to customers marked as premium. Leave the field blank if you don't want to restrict access. |
-| **Inherit trade policy catalog:** | Allows inheriting the catalog from another existing sales channel. |
+| **Inherit sales channel catalog:** | Allows inheriting the catalog from another existing sales channel. |
 
 5. Click `Save`.
 
 Learn more
 
-- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)  
-- [Trade policy for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
-- [Requesting an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy)  
+- [How sales channels work](/en/docs/tutorials/how-trade-policies-work)  
+- [Sales channel for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
+- [Requesting an additional sales channel](/en/docs/tutorials/requesting-an-additional-trade-policy)  
 - [Adding a loading dock](/en/docs/tutorials/managing-loading-docks)
 

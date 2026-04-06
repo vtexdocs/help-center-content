@@ -25,7 +25,7 @@ To create a pricing rule specific to a sales policy, follow the steps below:
 
 1. In the VTEX Admin, go to **Prices > Price rules**, or type **Price rules** in the search bar at the top of the page.
 2. Click on `New rule`.
-3. In the __Trade policy__ field, choose the desired trade policy.
+3. In the __Sales channel__ field, choose the desired sales channel.
 4. Choose whether the rule will be applied to __all products__ of this policy or __only in categories and brands chosen__.
 5. Choose if the rule will be applied to itens within a __markup range__.
 6. Choose if the rule will be applied to a specific __period of time__.
@@ -37,7 +37,7 @@ You now have a pricing rule configured for a sales policy.
 ## Learn more
 
 - [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)
-- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)
-- [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
+- [How sales channels work](/en/docs/tutorials/how-trade-policies-work)
+- [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)
+- [Configuring a marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
 - [Registering a product's base price](/en/docs/tutorials/registering-a-products-base-price)

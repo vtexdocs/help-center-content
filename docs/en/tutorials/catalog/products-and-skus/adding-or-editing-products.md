@@ -57,7 +57,7 @@ The fields in this section provide general product details:
 * **Additional description:** When you activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> **Additional description**, a text box displays for including additional product information, such as a summary.
 * **Brand*:** Type or search for the product [brand](/en/docs/tutorials/what-is-a-brand) name and select the desired option. Make sure the [brand exists](/en/docs/tracks/create-brands) and is active.
 * **Category*:** Type or search for the product [category](/en/docs/tutorials/what-is-a-category) name and select the desired option, preferably the most specific category level. Make sure the [category exists](/en/docs/tutorials/registering-a-category) and is active.
-* **Trade policies:** Choose whether the product should be linked to "All [trade policies](/en/docs/tutorials/how-trade-policies-work)" or "Specific trade policies". The second option is selected by default, but you must assign one or more values to the field.
+* **Sales channels:** Choose whether the product should be linked to "All [sales channels](/en/docs/tutorials/how-trade-policies-work)" or "Specific sales channels". The second option is selected by default, but you must assign one or more values to the field.
 
 ## SEO
 

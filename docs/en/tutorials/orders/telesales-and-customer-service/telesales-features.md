@@ -39,7 +39,7 @@ The telesales toolbar is displayed at the top of your store's website for users 
 
 To learn how to use this feature, check out the [Telesales toolbar](/en/docs/tutorials/telesales-toolbar) tutorial.
 
-> ℹ️ A use case for the telesales feature is to import orders from other platforms to the VTEX Orders module. To do this, you can associate a specific [trade policy](/en/docs/tutorials/creating-a-trade-policy) with payment [Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable) (payment method immediately and manually approved by the operator).
+> ℹ️ A use case for the telesales feature is to import orders from other platforms to the VTEX Orders module. To do this, you can associate a specific [sales channel](/en/docs/tutorials/creating-a-trade-policy) with payment [Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable) (payment method immediately and manually approved by the operator).
 
 ### My Account
 

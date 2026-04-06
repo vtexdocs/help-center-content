@@ -33,11 +33,11 @@ After you receive the internal pointing confirmation, you must do the [common DN
 
 ## Requesting special pointing
 
-If your store access is limited by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you will need to request a special internal pointing.
+If your store access is limited by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you will need to request a special internal pointing.
 
 An example is [B2B stores](/en/docs/tutorials/b2b-overview), which [restrict access](/en/docs/tutorials/setting-up-b2b-on-vtex) to pre-approved companies.
 
-To request a special pointing, open a ticket with [VTEX support](https://supporticket.vtex.com/support), indicating which trade policy and conditional rule are configured. This process can take up to 3 business days.
+To request a special pointing, open a ticket with [VTEX support](https://supporticket.vtex.com/support), indicating which sales channel and conditional rule are configured. This process can take up to 3 business days.
 
 After receiving the internal pointing confirmation, you must set up the [regular DNS pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#setting-up-dns-pointing) within five days. Otherwise, the special DNS pointing will be deleted, and you will need to redo this request.
 

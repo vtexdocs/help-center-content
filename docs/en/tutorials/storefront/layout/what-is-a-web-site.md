@@ -25,7 +25,7 @@ In VTEX, the web site represents your store and is formed by some basic elements
 - [Placeholders](/en/docs/tutorials/what-are-placeholders): predefined elements that you can use to display content files on the pages of your web site.
 - Files: external information that can be read by your web site, being divided into customization files (CSS and JavaScript), data organization (.xml) and content (images or flash).
 
-With all these elements configured, you will then need to link your web site to an [account name](/en/tutorial/what-is-the-account-name) and a trade policy, in a process called [binding](/en/docs/tutorials/what-is-binding).
+With all these elements configured, you will then need to link your web site to an [account name](/en/tutorial/what-is-the-account-name) and a sales channel, in a process called [binding](/en/docs/tutorials/what-is-binding).
 
 ### Related articles
 

@@ -79,8 +79,8 @@ This section includes the following information:
 | max\_pack\_value | numeric(18,0) | Maximum pack value |
 | origin | character varying(256) | Origin of the promotion, marketplace or Fulfillment.   |
 | id\_seller\_is\_inclusive | boolean | If set to true, this promotion will be applied to any seller present on the idSeller field. If set to false, sellers present on that field will make this promotion not to be applied. |
-| ids\_sales\_channel | super | List of Trade Policies that activate this promotion. |
-| are\_sales\_channel\_ids\_exclusive | boolean | If set to false, this promotion will be applied to any trade policies present on the idsSalesChannel field. If set to true, trade policies present on that field will make this promotion not to be applied. |
+| ids\_sales\_channel | super | List of Sales channels that activate this promotion. |
+| are\_sales\_channel\_ids\_exclusive | boolean | If set to false, this promotion will be applied to any sales channels present on the idsSalesChannel field. If set to true, sales channels present on that field will make this promotion not to be applied. |
 | marketing\_tags | super | Promotion Marketing tags. |
 | marketing\_tags\_are\_not\_inclusive | boolean | If set to false, this promotion will be applied to any marketing tag present on the marketingTags field. If set to true, marketing tags present on that field will make this promotion not to be applied. |
 | payments\_methods | super | Array composed by all the Payments Methods. <ul>id: Payment Method ID.</ul> <ul>name: Payment Method Name.</ul> |
@@ -189,8 +189,8 @@ Column name | Column type | Column description |
 | max\_pack\_value | numeric(18,0) | Maximum pack value |
 | origin | character varying(256) | Indicates the origin of the promotion, such as 'Marketplace' or 'Fulfillment'. |
 | id\_seller\_is\_inclusive | boolean | If set to true, this promotion will be applied to any seller present on the idSeller field. If set to false, sellers present on that field will make this promotion not to be applied. |
-| ids\_sales\_channel | super | List of Trade Policies that activate this promotion. |
-| are\_sales\_channel\_ids\_exclusive | boolean | If set to false, this promotion will be applied to any trade policies present on the idsSalesChannel field. If set to true, trade policies present on that field will make this promotion not to be applied. |
+| ids\_sales\_channel | super | List of Sales channels that activate this promotion. |
+| are\_sales\_channel\_ids\_exclusive | boolean | If set to false, this promotion will be applied to any sales channels present on the idsSalesChannel field. If set to true, sales channels present on that field will make this promotion not to be applied. |
 | marketing\_tags | super | Promotion Marketing tags. |
 | marketing\_tags\_are\_not\_inclusive | boolean | If set to false, this promotion will be applied to any marketing tag present on the marketingTags field. If set to true, marketing tags present on that field will make this promotion not to be applied. |
 | payments\_methods | super | Array composed by all the Payments Methods. <ul>id: Payment Method ID.</ul>  <ul>name: Payment Method Name.</ul> |

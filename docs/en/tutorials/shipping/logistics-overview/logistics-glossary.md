@@ -45,6 +45,6 @@ The glossary below contains definitions of terms related to the **Shipping** mod
 | **SKU** | Stock Keeping Unit. The basic unit of a product in the catalog (e.g., product "shirt" with SKU "blue shirt M size"). | [SKU](/en/docs/tutorials/what-is-an-sku) |
 | **SLA** | Service Level Agreement. In VTEX logistics, it means the agreement between the store and the customer on the estimated delivery time. This estimate considers shipping and loading dock policies. | [SLA](https://developers.vtex.com/vtex-rest-api/reference/calculatesla) |
 | **Total shipping cost** | The final shipping cost, considering fixed, additional, and dock costs. | [Total shipping cost](/en/docs/tutorials/total-shipping-cost) |
-| **Trade policy** | A set of business settings for adjusting strategies (currency, country, shipping, pricing, customers, catalogs, and payment methods). | [Trade policy](/en/docs/tutorials/how-trade-policies-work) |
+| **Sales channel** | A set of business settings for adjusting strategies (currency, country, shipping, pricing, customers, catalogs, and payment methods). | [Sales channel](/en/docs/tutorials/how-trade-policies-work) |
 | **Warehouse** | The storage location of the store's goods. | [Warehouse](/en/docs/tutorials/warehouse) |
 

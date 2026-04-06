@@ -19,7 +19,7 @@ The architecture of a VTEX store allows it to act both as a marketplace and as a
 
 This article shows how to configure your store as a VTEX seller and start selling on a VTEX marketplace. To do so, you have to:
 
-- [Define the trade policy](#defining-the-trade-policy)
+- [Define the sales channel](#defining-the-trade-policy)
 - [Create an affiliate ID](#creating-an-affiliate-id)
 - [Reindex the database](#reindexing-the-database)
 
@@ -27,15 +27,15 @@ To learn about what type of information needs to be exchanged between sellers an
 
 > ℹ️ To start selling your products in marketplaces or to find new partners to sell on your marketplace, use [Marketplaces and Integrations](/en/docs/tutorials/marketplaces-and-integrations), a feature which facilitates the identification of and communication between marketplaces and sellers operating in the VTEX ecosystem.
 
-## Defining the trade policy
+## Defining the sales channel
 
-On VTEX, the [trade policy](/en/docs/tutorials/how-trade-policies-work) groups the configurations for your catalog, pricing, promotions, logistics, customer segmentation, and payments in a single sales channel. A seller can integrate with the marketplace by using the store's default trade policy or by defining specific settings for the integration, configuring a [trade policy for the marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace/).
+On VTEX, the [sales channel](/en/docs/tutorials/how-trade-policies-work) groups the configurations for your catalog, pricing, promotions, logistics, customer segmentation, and payments in a single sales channel. A seller can integrate with the marketplace by using the store's default sales channel or by defining specific settings for the integration, configuring a [sales channel for the marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace/).
 
-> ℹ️ The same trade policy can be used to integrate with multiple marketplaces. [Requesting additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy) to integrate with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), certified connectors (partners), or other VTEX stores is free of charge.
+> ℹ️ The same sales channel can be used to integrate with multiple marketplaces. [Requesting additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy) to integrate with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), certified connectors (partners), or other VTEX stores is free of charge.
 
-If you want to configure promotions, you don't have to create a marketplace specific trade policy. You can segment promotions using the [affiliate](/en/docs/tutorials/what-is-an-affiliate). For more information, read the article [Configuring promotions for marketplaces](/en/docs/tutorials/configuring-promotions-for-marketplaces).
+If you want to configure promotions, you don't have to create a marketplace specific sales channel. You can segment promotions using the [affiliate](/en/docs/tutorials/what-is-an-affiliate). For more information, read the article [Configuring promotions for marketplaces](/en/docs/tutorials/configuring-promotions-for-marketplaces).
 
-The product assortment sent to the marketplace has to be managed through the trade policy. We do not recommend managing products by [collections](/en/docs/tutorials/creating-a-product-collection) because it results into a more complex and difficult operation.
+The product assortment sent to the marketplace has to be managed through the sales channel. We do not recommend managing products by [collections](/en/docs/tutorials/creating-a-product-collection) because it results into a more complex and difficult operation.
 
 ## Creating an affiliate ID
 
@@ -43,7 +43,7 @@ On VTEX, the [affiliate](/en/docs/tutorials/what-is-an-affiliate) is the code cr
 
 > ℹ️ The integration with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex) creates the affiliate code automatically.  However, when a VTEX seller integrates with a VTEX marketplace or an external one, the seller needs to create the affiliate ID manually.
 
-The seller must follow the steps described in the article [Configuring affiliates](/en/docs/tutorials/configuring-affiliates) and add the identifier code to the marketplace after it has been created. This way, the VTEX marketplace will [add the seller](/en/docs/tutorials/adding-a-seller) and associate it to a trade policy.
+The seller must follow the steps described in the article [Configuring affiliates](/en/docs/tutorials/configuring-affiliates) and add the identifier code to the marketplace after it has been created. This way, the VTEX marketplace will [add the seller](/en/docs/tutorials/adding-a-seller) and associate it to a sales channel.
 
 ## Reindexing the database
 
@@ -59,12 +59,12 @@ Access the link and click the `Reindex database` button. You can track the proce
 
 ### Checking the index
 
-You can verify if a specific SKU has been indexed correctly to the integration trade policy. Follow the steps below:
+You can verify if a specific SKU has been indexed correctly to the integration sales channel. Follow the steps below:
 
 1. In the VTEX Admin, access **Catalog > Products and SKUs**.
 2. Click the <i class="fas fa-angle-down"></i> down arrow, next to the **CHANGE** button.
 3. Select the `Indexed Info` option.
-4. Check if the number of the trade policy used in the integration with the marketplace appears in the SKU information.
+4. Check if the number of the sales channel used in the integration with the marketplace appears in the SKU information.
 
 ## Marketplace actions
 

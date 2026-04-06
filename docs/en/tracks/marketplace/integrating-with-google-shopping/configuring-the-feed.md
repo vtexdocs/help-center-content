@@ -25,7 +25,7 @@ Using **a complementary feed is optional.** However, we recommend it in some cas
 
 >Example: when you have to specify whether a product is new or used.
 
-Creating a complementary feed can also be beneficial when you want to change information about a product in Google Shopping but **do not want to change your trade policy.**
+Creating a complementary feed can also be beneficial when you want to change information about a product in Google Shopping but **do not want to change your sales channel.**
 
 |**LEARN MORE**|
 | ---------- |
