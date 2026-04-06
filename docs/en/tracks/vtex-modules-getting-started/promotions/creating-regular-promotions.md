@@ -147,7 +147,7 @@ In this section, you define the conditions that must be met for the promotion to
 
 > ℹ️ This condition doesn't apply to payments via boleto, gift card, or orders using multiple payment methods.
 
-- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).  
+- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium).  
 
 Set the following parameters if necessary:  
 

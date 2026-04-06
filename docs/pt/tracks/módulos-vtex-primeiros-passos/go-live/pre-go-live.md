@@ -19,7 +19,7 @@ Este estágio dá inicio ao go-live já que estes passos precisam ser cuidadosam
 
 ## Cadastrar domínio na VTEX
 
-Você deve [cadastrar o domínio no Gerenciamento da conta](/pt/tutorial/configurando-dominios-no-license-manager). É isso que conecta o endereço à loja.
+Você deve [cadastrar o domínio no Gerenciamento da conta](/pt/docs/tutorials/configurar-o-dominio-da-loja). É isso que conecta o endereço à loja.
 
 > ⚠️ Após o cadastro do seu domínio, você tem sete dias para concluir o go-live. Caso contrário, deverá acessar o cadastro realizado e salvar novamente.
 

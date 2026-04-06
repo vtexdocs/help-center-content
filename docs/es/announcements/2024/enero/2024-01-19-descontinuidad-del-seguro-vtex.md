@@ -22,10 +22,12 @@ Desde el 11 de diciembre de 2023, se descontinuó VTEX Insurance de VTEX y se mi
 
 **VTEX Insurance** era una aplicación que permitía al retailer vincular los productos vendidos con ofertas de seguros de la aseguradora partner [Assurant](https://www.assurant.com.br/). Esta funcionalidad permitía que la tienda ofreciera seguros personalizados a los clientes para brindar protección financiera en caso de fallos o defectos en el producto o servicio adquirido.
 
-# ¿Qué cambió?
+## ¿Qué cambió?
+
 No habrá cambios contractuales o comerciales, ya que el contrato era entre los clientes y Assurant. El principal cambio reside en la asistencia al cliente, que antes la realizaban los equipos de ambas empresas y ahora estará exclusivamente a cargo de Assurant.
 
-# ¿Qué se necesita hacer?
+## ¿Qué se necesita hacer?
+
 No se requiere ninguna acción. La actualización se aplicará automáticamente a todas las tiendas VTEX. Cualquier duda técnica u otros problemas relacionados al producto se deben dirigir directamente a [Assurant](https://www.assurant.com.br/).
 
 > ⚠️ VTEX no prestará soporte técnico a los clientes.

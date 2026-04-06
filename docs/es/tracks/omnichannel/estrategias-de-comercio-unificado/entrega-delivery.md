@@ -28,6 +28,6 @@ En este caso, es habitual que los ítems salgan del almacén de un Centro de Dis
 
 Otra posibilidad de entrega que puede optimizar la operación y reducir los costes es implementar la estrategia de [envío desde la tienda](/es/docs/tracks/configurar-ship-from-store), de modo que los ítems también puedan enviarse desde el **stock** de las tiendas físicas.
 
-Para configurar la estrategia de envío, consulte los [artículos sobre el módulo Inventario y Envío](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07).
+Para configurar la estrategia de envío, consulte los [artículos sobre el módulo Inventario y Envío](/es/docs/tracks/stock).
 
 Para saber cómo implementar la estrategia de envío desde la tienda, haga clic en `SIGUIENTE`.

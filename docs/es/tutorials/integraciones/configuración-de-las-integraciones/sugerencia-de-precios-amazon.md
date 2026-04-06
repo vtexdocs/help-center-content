@@ -15,29 +15,25 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-La funcionalidad **Sugerencia de precios** analiza información de competitividad del SKU en Amazon, como el precio actual, el costo de envío y el precio del seller que está ganando la buybox.
+La funcionalidad **Sugerencia de precios** de la [integración con Amazon](/es/docs/tutorials/sugerencia-de-precios-amazon) ayuda a los sellers a hacer seguimiento de la competitividad de los SKUs activos y tomar decisiones de precios basadas en contexto.
 
-Con base en estos datos, el sistema genera una sugerencia de precio competitivo que puede ayudar al seller a evaluar si el SKU está bien posicionado frente a los competidores.
-
-ℹ️ La sugerencia de precio es solo una referencia de competitividad y no cambia automáticamente el precio del SKU.
-
-Con esta funcionalidad, el seller puede visualizar, por SKU, el precio actual, la situación de la buybox y una referencia de precio competitivo para orientar ajustes.
+Con esta funcionalidad, el seller puede visualizar por SKU: el precio actual, la situación de la Buybox y una referencia de precio competitivo para apoyar ajustes.
 
 ## Acceder a las sugerencias
 
-1. En el Admin VTEX, accede a **Marketplace > Conexiones > Precios**.
-2. Escribe **suggestions** en la barra de búsqueda para filtrar los logs o filtra por **SKU ID**.
+1. En Admin VTEX, accede a **Marketplace > Conexiones > Precio**.
+2. Escribe **suggestions** en la barra de búsqueda para filtrar los logs, o filtra por **ID de SKU**.
 3. Haz clic en el log deseado para ver los detalles de la sugerencia.
 
-Al abrir un log de sugerencia, el seller encontrará la siguiente información:
+Al abrir un log de sugerencia, se muestra la siguiente información:
 
-- **Precio actual:** precio actual del SKU, con indicación de si está ganando o perdiendo la buybox.
-- **Flete actual:** valor de envío considerado en el análisis.
-- **Precio del ganador de la buybox:** valor de referencia del competidor.
-- **Precio competitivo:** sugerencia de precio para aumentar la competitividad.
+- **Preço atual (Precio actual):** precio actual del SKU, con indicación de si está ganando o perdiendo la Buybox.
+- **Frete atual (Envío actual):** valor de envío considerado en el análisis.
+- **Preço do ganhador da buybox (Precio del ganador de la Buybox):** valor de referencia del competidor.
+- **Preço competitivo (Precio competitivo):** sugerencia de precio para aumentar la competitividad.
 
-> ⚠️ El dato **Precio del ganador de la buybox** solo se muestra cuando estás perdiendo la buybox.
+> ℹ️ El dato **Preço do ganhador da buybox (Precio del ganador de la Buybox)** solo se muestra cuando estás perdiendo la Buybox.
 
-Consulta un ejemplo en la siguiente imagen:
+Consulta el ejemplo en la imagen a continuación:
 
-![Ejemplo de lectura de sugerencia de precios en Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/sugestao-de-precos-amazon_1.png)
+![Ejemplo de lectura de sugerencia de precios Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/sugestao-de-precos-amazon_1.png)

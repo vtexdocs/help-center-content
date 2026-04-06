@@ -29,7 +29,7 @@ Ao clicar na loja desejada, o nome e o e-mail do usuário Titular encontram-se n
 
 Entre as ações que somente o usuário Titular pode tomar, estão:
 - Reindexar o catálogo.
-- Apagar categorias, produtos, SKUs e marcas por meio do [fullcleanup](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados).
+- Apagar categorias, produtos, SKUs e marcas por meio do [fullcleanup](/pt/docs/tutorials/manutencao-de-base-full-cleanup).
 - Autorizar integrações com alguns marketplaces, como o Mercado Livre.
 
 Além disso, quando a VTEX precisa comunicar informações sensíveis à loja, como mudanças nos perfis de acesso, essa comunicação é feita direta e exclusivamente com o usuário Titular.

@@ -69,7 +69,7 @@ Insira os cards de acordo com as ações que desejar no seu fluxo, para que o fl
 
 Your registered templates should appear. Select the desired one and insert the variable if applicable, click OK and finalize your flow.
 
-# Enabling the flow trigger function in Chats settings
+## Enabling the flow trigger function in Chats settings
 
 For the flow trigger function to be available to agents, it must first be
 enabled in the desired department settings.
@@ -82,7 +82,7 @@ On the first screen of the department, you will see the button to activate the f
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_9.png)
 
-## Triggering a flow in Chats
+### Triggering a flow in Chats
 
 Access **Chats**.
 

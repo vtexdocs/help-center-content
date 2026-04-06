@@ -100,8 +100,8 @@
                 },
                 {
                   "name": {
-                    "en": "Amazon: Price suggestion",
-                    "es": "Amazon: Sugerencia de precios",
+                    "en": "Amazon: Price suggestions",
+                    "es": "Amazon: sugerencia de precios",
                     "pt": "Amazon: Sugestão de preços"
                   },
                   "slug": {
@@ -17201,29 +17201,14 @@
                 },
                 {
                   "name": {
-                    "en": "Contracts Manager Agent",
-                    "es": "Agente de Gestión de Contratos",
+                    "en": "Contract Manager Agent",
+                    "es": "Agente de gestión de contratos",
                     "pt": "Agente de Gerenciamento de Contratos"
                   },
                   "slug": {
-                    "en": "contracts-manager-agent",
+                    "en": "contract-manager-agent",
                     "es": "agente-de-gestion-de-contratos",
                     "pt": "agente-de-gerenciamento-de-contratos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Organization Units",
-                    "es": "Unidades de organización",
-                    "pt": "Organization Units"
-                  },
-                  "slug": {
-                    "en": "organization-units",
-                    "es": "organization-units-es",
-                    "pt": "organization-units-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17337,12 +17322,12 @@
                 },
                 {
                   "name": {
-                    "en": "Adding users to a buyer organization",
+                    "en": "Adding users to buyer organizations",
                     "es": "Agregar usuarios a la organización compradora",
                     "pt": "Adicionar usuários à organização compradora"
                   },
                   "slug": {
-                    "en": "adding-users-to-buyer-organization",
+                    "en": "adding-users-to-buyer-organizations",
                     "es": "agregar-usuarios-a-la-organizacion-compradora",
                     "pt": "adicionar-usuarios-a-organizacao-compradora"
                   },
@@ -20615,18 +20600,141 @@
           "children": [
             {
               "name": {
-                "en": "Content Management overview",
-                "es": "Información general de la gestión de contenidos",
-                "pt": "Visão geral do CMS"
+                "en": "Get started",
+                "es": "Primeros pasos",
+                "pt": "Primeiros passos"
               },
               "slug": {
-                "en": "cms-overview",
-                "es": "cms-informacion-general",
-                "pt": "cms-visao-geral"
+                "en": "get-started-category",
+                "es": "primeros-pasos-categoria",
+                "pt": "primeiros-passos-categoria"
               },
               "origin": "",
-              "type": "markdown",
-              "children": []
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview",
+                    "es": "cms-informacion-general",
+                    "pt": "cms-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Branching and versioning",
+                "es": "Ramificación y versionado",
+                "pt": "Branching and versionamento"
+              },
+              "slug": {
+                "en": "branching-and-versioning-subcategory",
+                "es": "ramificacion-y-versionado-subcategoria",
+                "pt": "branching-and-versionamento-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Managing versions and branches",
+                    "es": "Gestionar versiones y ramas",
+                    "pt": "Gerenciando versões e branches"
+                  },
+                  "slug": {
+                    "en": "managing-versions-and-branches",
+                    "es": "gestionando-versiones-y-branches",
+                    "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Localizing content",
+                "es": "Localización de contenido",
+                "pt": "Localização de conteúdo"
+              },
+              "slug": {
+                "en": "localizing-content-subcategory",
+                "es": "localizacion-de-contenido-subcategoria",
+                "pt": "localizacao-de-conteudo-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
+                  },
+                  "slug": {
+                    "en": "configuring-locales",
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Localizing content - Overview",
+                    "es": "Localización de contenido - Descripción general",
+                    "pt": "Localização de conteúdo - Visão geral"
+                  },
+                  "slug": {
+                    "en": "localizing-content",
+                    "es": "localizacion-de-contenido",
+                    "pt": "localizacao-de-conteudo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Idiomas y regiones admitidos",
+                    "pt": "Regiões e idiomas suportados"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "idiomas-y-regiones-admitidos",
+                    "pt": "idiomas-e-regioes-compativeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Estratégias de fallback de localidade"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -23713,7 +23821,7 @@
                 },
                 {
                   "name": {
-                    "en": "Price suggestion in the Amazon integration",
+                    "en": "Price suggestion in Amazon integration",
                     "es": "Sugerencia de precios en la integración con Amazon",
                     "pt": "Sugestão de preços na integração com a Amazon"
                   },
@@ -32760,6 +32868,21 @@
                     "en": "custom-ssl-certificates",
                     "es": "certificados-ssl-personalizados",
                     "pt": "certificados-ssl-customizados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Fraud Prevention (Beta)",
+                    "es": "Prevención de Fraude (Beta)",
+                    "pt": "Prevenção contra fraudes (Beta)"
+                  },
+                  "slug": {
+                    "en": "fraud-prevention",
+                    "es": "prevencion-de-fraude",
+                    "pt": "prevencao-contra-fraudes"
                   },
                   "origin": "",
                   "type": "markdown",

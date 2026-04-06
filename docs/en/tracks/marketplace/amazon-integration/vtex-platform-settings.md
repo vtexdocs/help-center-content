@@ -40,7 +40,7 @@ For each additional trade policy, a monthly fee is charged, whether it is used f
 
 ## Defining the shipping strategy
 
-To sell your products on Amazon you must define a shipping strategy, i.e., the logistics for delivering your products. The shipping strategy comprises three logistical steps: [Shipping policy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete), [warehouse](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete) and [loading dock](/en/docs/tutorials/shipping-policy). 
+To sell your products on Amazon you must define a shipping strategy, i.e., the logistics for delivering your products. The shipping strategy comprises three logistical steps: [Shipping policy](/en/docs/tutorials/shipping-policy), [warehouse](/en/docs/tutorials/warehouse) and [loading dock](/en/docs/tutorials/loading-dock). 
 
 The shipping policy (carrier) is associated with your store's warehouse through the loading dock. The loading dock is the intermediary between the carrier and your store's warehouse, and the place where these conditions are configured.
 
@@ -56,6 +56,6 @@ If you want to make sure that the configuration was successful, you can use the 
 
 ### Processing time
 
-Amazon has a field called *"fulfillment latency"*, which is used to configure the time to prepare the delivery of a certain product. To use it when integrating your store with Amazon, you must fill in the **Processing time** field when [registering the loading dock](/en/tutorial/como-cadastrar-doca) associated with the [trade policy](#defining-the-trade-policy-in-amazon) used for Amazon. If this field is not filled in, Amazon will use its default value (2 days). 
+Amazon has a field called *"fulfillment latency"*, which is used to configure the time to prepare the delivery of a certain product. To use it when integrating your store with Amazon, you must fill in the **Processing time** field when [registering the loading dock](/en/docs/tutorials/managing-loading-docks) associated with the [trade policy](#defining-the-trade-policy-in-amazon) used for Amazon. If this field is not filled in, Amazon will use its default value (2 days). 
 
 > ⚠️ Filling in this field is essential, because if your store delays the delivery of an order, your account may be blocked.

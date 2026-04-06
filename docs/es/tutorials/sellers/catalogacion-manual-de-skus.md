@@ -23,12 +23,12 @@ La página de SKUs recibidos permite que el marketplace visualice, priorice y ca
 
 La catalogación se puede hacer [a través de uno o más matchers](/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher), tanto manual como automáticamente. Además, también existe la posibilidad de utilizar herramientas externas para realizar esta operación.
 
-# Priorizando la catalogación #
+## Priorizando la catalogación #
 
 La lista de SKUs recibidos fue diseñada para ayudar a priorizar y acelerar la catalogación de estos ítems.
 Algunas de las funcionalidades que ayudan en este proceso son:
 
-## Filtros ##
+### Filtros
 
 En el recurso de búsqueda, es posible combinar diferentes filtros para que la exhibición de SKUs sea más exacta. Intente filtrar SKUs por marca, seller o subcategoría para generar la visualización deseada. 
 
@@ -36,19 +36,19 @@ Por ejemplo, si se seleccionan la marca "ABC" y la subcategoría "Calcetines", l
 
 Además, cabe mencionar que las opciones de filtros se dan de acuerdo con los SKUs que están disponibles en la lista. De este modo, imagine que el marketplace tiene a los sellers A, B y C y existen SKUs apenas de los sellers B y C pendientes en la catalogación. Esto significa que la selección de filtros mostrará solo los resultados de los sellers B y C.
 
-## Órden
+### Órden
 
 Por estándar, la visualización presenta primero los ítems más recientes. Sin embargo, es posible ordenar por precio e inventario.
 
 En este caso, los ítems de la tabla se ordenarán de forma ascendente o descendente al hacer clic en "Precio" o "Inventario" en el encabezado.
 
-# Catalogando ítems 
+## Catalogando ítems 
 
 En la lista, cualquier SKU ya está disponible para la catalogación. Sin embargo, se recomienda realizar el mapeo de categorías y marcas antes de este paso para que el proceso de catalogación sea más rápido.
 
 Le recordamos que las sugerencias que están pendientes de aprobación permanecen disponibles por apenas 30 días. Después de este período, estas caducan automáticamente.
 
-## Opciones de catalogación ##
+### Opciones de catalogación ##
 
 En la lista, haga clic en el botón de tres puntos y seleccione una de las siguientes opciones:
 - **Aprobar un nuevo producto**: crea un nuevo SKU en el catálogo y, por lo tanto, un nuevo producto. Se recomienda utilizar esta opción cuando un determinado producto aún no existe en el catálogo del marketplace.
@@ -73,7 +73,7 @@ En este caso, es necesario indicar el ID del producto ya existente para que la a
 
 - **Aprobación automática**: también es posible configurar la aprobación en forma automática de los SKUs de un seller  específico, independientemente de su puntuación del Matcher. Esta acción solo puede realizarse a través de API Rest. Consulte nuestra documentación en [API de configuración de aprobación](https://developers.vtex.com/vtex-rest-api/reference/getautoapprovevaluefromconfig) para saber más.
 
-## Catalogación en masa ##
+### Catalogación en masa
 
 El marketplace también tiene la opción de catalogar SKUs en masa directamente de la lista. 
 

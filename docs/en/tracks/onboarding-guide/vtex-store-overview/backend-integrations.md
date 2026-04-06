@@ -211,7 +211,7 @@ For more information about importing products into the back office, check the [I
 In sales operations, it is common to delegate price calculation to the ERP, from which this data can be imported. Prices have a base value defined for each SKU and can vary depending on the context. The steps for importing prices are as follows:
 
 1. **Define the base price:** The base price is used as a reference for determining the price of a product in the VTEX pricing system. The base price of a SKU can be imported via integration using the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) or [created through the VTEX Admin](/en/docs/tracks/cadastrar-preco-base).
-2. **Define fixed prices for specific contexts:** The base price can be adjusted or modified based on specific rules, calculations, or fixed prices to arrive at the SKU's final retail price in different contexts. These contexts include the [trade policy](/en/docs/tutorials/how-trade-policies-work), [customer group](/en/docs/tutorials/how-can-i-create-cluster-of-customers), [promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR), among other factors. Fixed prices for specific contexts can be imported by integration using the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-), [imported via spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D#importing-prices), or [created through the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj#admin).
+2. **Define fixed prices for specific contexts:** The base price can be adjusted or modified based on specific rules, calculations, or fixed prices to arrive at the SKU's final retail price in different contexts. These contexts include the [trade policy](/en/docs/tutorials/how-trade-policies-work), [customer group](/en/docs/tutorials/how-can-i-create-cluster-of-customers), [promotion](/en/docs/tracks/promotions), among other factors. Fixed prices for specific contexts can be imported by integration using the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-), [imported via spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D#importing-prices), or [created through the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj#admin).
 
 After importing, it's also important to ensure that the pricing information is kept up to date. You can check the instructions in the [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information#pricing-updates) article.
 
@@ -306,7 +306,7 @@ Learn more in the [Login (SSO)](https://developers.vtex.com/docs/guides/login-in
 
 ### Payments
 
-VTEX [Payment](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#payments) systems offer extensive features to support various [payment methods](https://developers.vtex.com/docs/guides/payments-integration-payment-methods), [conditions](/en/tutorial/condicoes-de-pagamento), and integrations. Payments on VTEX have the following [purchase flow](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows) options:
+VTEX [Payment](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#payments) systems offer extensive features to support various [payment methods](https://developers.vtex.com/docs/guides/payments-integration-payment-methods), [conditions](/en/docs/tutorials/how-to-configure-payment-conditions), and integrations. Payments on VTEX have the following [purchase flow](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows) options:
 
 - **Transparent:** The payment process is integrated directly into the checkout, where the buyer chooses the desired payment method.
 - **Redirect:** Opens a new window in the buyer's browser, where the payment is processed by an external service. After completing the payment, the buyer is redirected back to the checkout to place their order.
@@ -325,7 +325,7 @@ On VTEX, gift cards can be used as a payment option at **Checkout**, and as part
 To add gift cards to a VTEX store, you have the following options:
 
 - **Native gift card solution:** If you want to use VTEX's native gift card solution or an existing integration, you must configure the gift cards via the VTEX Admin by following the steps in the article [Setting up Gift cards](/en/docs/tutorials/gift-card).
-- **Custom gift card provider:** If the desired gift card provider does not have an integration with VTEX, you must implement your own integration using the [Gift Card Provider Protocol](/en/tutorial/integrando-com-gift-card). Through this protocol, providers can develop an integration containing the endpoints described in our [Gift Card Provider Protocol API](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol#overview) and connect to our [Gift Card Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api#overview).
+- **Custom gift card provider:** If the desired gift card provider does not have an integration with VTEX, you must implement your own integration using the [Gift Card Provider Protocol](/en/docs/tutorials/how-to-integrate-an-external-gift-card-provider-with-vtex). Through this protocol, providers can develop an integration containing the endpoints described in our [Gift Card Provider Protocol API](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol#overview) and connect to our [Gift Card Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api#overview).
 
 ### Anti-fraud solution
 
@@ -361,7 +361,7 @@ You can find more information in the [What is a VTEX App](https://developers.vte
 
 ### Before installing an app in your store
 
-Before starting the process of developing a new app, we recommend exploring solutions that are ready to be installed in your store. You can find these solutions in the [Extensions Hub](/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco), the VTEX Admin section that centralizes extension management.  The following pages are available in the Extensions Hub:
+Before starting the process of developing a new app, we recommend exploring solutions that are ready to be installed in your store. You can find these solutions in the [Extensions Hub](/en/docs/tracks/extensions-hub-1), the VTEX Admin section that centralizes extension management.  The following pages are available in the Extensions Hub:
 
 - **App Store:** Marketplace where apps developed by VTEX and third parties are available. On this page, you can view, purchase, and install apps for a VTEX account. There are free and paid apps, which have different billing methods.
 - **App Management:** Page that allows you to install, uninstall, remove, and configure apps in the store.
