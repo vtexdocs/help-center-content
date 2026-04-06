@@ -16,6 +16,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
 ## Como Obter Aceitação para o WhatsApp
+
 Antes de iniciar conversas de marketing, serviços ou autenticação com clientes fora da janela de 24 horas, as empresas devem obter o consentimento explícito dos usuários. Esse consentimento pode ser coletado de diversas formas, tanto dentro quanto fora do WhatsApp. O objetivo é garantir que as pessoas recebam informações relevantes, úteis e que estejam alinhadas às expectativas delas em relação à empresa com a qual interagem.
 
 É permitido usar métodos de consentimento por meio de sites, fluxos de resposta de voz interativa (IVR), ou até mesmo diretamente em conversas pelo WhatsApp.

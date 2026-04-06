@@ -16,7 +16,9 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
 ## Como criar um fluxo?
+
 O processo para criação de fluxos é bem simples e intuitivo. Existem algumas opções de configuração que precisam ser levadas em consideração em algumas situações, mas não é nada complicado. Vamos começar?
+
   1. Primeiro, iremos clicar em **Fluxo de automação** (em **Agent Builder**) no menu lateral.
 
   1. Chegando na página de fluxos, basta clicar no botão **Criar fluxo** , no canto esquerdo da tela.

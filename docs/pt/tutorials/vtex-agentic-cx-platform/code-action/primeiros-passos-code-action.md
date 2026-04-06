@@ -155,6 +155,7 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
 - Sempre que for necessário acessar informações presentes no **body** da requisição recebida, elas estarão disponíveis em `engine.body`. No entanto, esse conteúdo **não estará no formato JSON por padrão**. Para convertê-lo em um dicionário Python, utilize a função `json.loads()`. Após essa conversão, os dados estarão prontos para serem manipulados normalmente no formato de objeto JSON.
 
   - No código acima, o JSON esperado é algo parecido com este
+
   - ```
     {
     ""Domain"": ""Marketplace"",

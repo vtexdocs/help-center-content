@@ -16,20 +16,24 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
 ## Visão geral
+
 Expressões são fórmulas utilizadas na plataforma de forma muito semelhante às usadas em programas de planilha, como a do Microsoft Excel. Embora tenham evoluído com o tempo e essas semelhanças sejam muito menores agora. É uma linguagem de modelagem baseada em expressões que visa facilitar a geração de texto a partir de um contexto de valores.
 
 Nesse artigo trataremos um pouco sobre:
+
   * Modelos
   * Tipos
   * Operadores
   * Funções
 
 ## Modelos
+
 Expressões podem ser chamadas usando o seguinte modelo: `@(...)`.
 
 Por exemplo, o modelo `Hi @(""Dr "" & upper(foo))`pega o valor da variável `@foo`, converte para maiúsculas e o prefixa com outra palavra. Observe que dentro de uma expressão complexa você não precisa colocar `@` antes de todas as variáveis.
 
 ## Tipos
+
 Temos os seguintes tipos de expressões aceitos na plataforma:
 Array: usado para a criação de um array de itens:
 
@@ -124,7 +128,7 @@ Abaixo, segue a lista de todos os operadores que podem ser utilizados na constru
 
     @(3 * 2) → 6
     @(fields.age * 3) → 69
-**\- (un ário)** : nega um número
+**- (unário)** : nega um número
 
     @(-fields.age) → -23
 **!** : retorna ""true"" se dois valores não são textualmente iguais
@@ -132,7 +136,7 @@ Abaixo, segue a lista de todos os operadores que podem ser utilizados na constru
     @(""hello"" != ""hello"") → false
     @(""hello"" != ""bar"") → true
     @(1 != 2) → true
-**\- (bin ário)** : subtrai dois números
+**- (binário)** : subtrai dois números
 
     @(3 - 2) → 1
     @(2 - 3) → -1
@@ -193,7 +197,7 @@ As expressões têm acesso a um conjunto de funções internas que podem ser usa
     @(date(""1979-07-18"")) → 1979-07-18
     @(date(""1979-07-18T10:30:45.123456Z"")) → 1979-07-18@(date(""10/05/2010"")) → 2010-05-10
     @(date(""NOT DATE"")) → ERROR
-`date_from_parts(ano, mês, dia)`: cria uma data de `year``month``day`.
+`date_from_parts(ano, mês, dia)`: cria uma data a partir dos argumentos ano, mês e dia.
 
     @(date_from_parts(2017, 1, 15)) → 2017-01-15
     @(date_from_parts(2017, 2, 31)) → 2017-03-03
@@ -203,11 +207,11 @@ As expressões têm acesso a um conjunto de funções internas que podem ser usa
     @(datetime(""1979-07-18"")) → 1979-07-18T00:00:00.000000-05:00@(datetime(""1979-07-18T10:30:45.123456Z"")) → 1979-07-18T10:30:45.123456Z
     @(datetime(""10/05/2010"")) → 2010-05-10T00:00:00.000000-05:00
     @(datetime(""NOT DATE"")) → ERROR
-`datetime_ad (datetime, offset, unit)`: Calcula o valor da data alcançada adicionando o `offset`número de `unit`ao `datetime`. As durações válidas são ""Y"" para anos, ""M"" para meses, ""W"" para semanas, ""D"" para dias, ""h"" para horas, ""m"" para minutos e ""s"" para segundos.
+`datetime_add (datetime, offset, unit)`: Calcula o valor da data alcançada adicionando o `offset`número de `unit`ao `datetime`. As durações válidas são ""Y"" para anos, ""M"" para meses, ""W"" para semanas, ""D"" para dias, ""h"" para horas, ""m"" para minutos e ""s"" para segundos.
 
     @(datetime_add(""2017-01-15"", 5, ""D"")) → 2017-01-20T00:00:00.000000-05:00
     @(datetime_add(""2017-01-15 10:45"", 30, ""m"")) → 2017-01-15T11:15:00.000000-05:00
-`datetime_diff(date1``date2``unidade)`: retorna a duração entre `date1`e `date2`no `unit`especificado. As durações válidas são ""Y"" para anos, ""M"" para meses, ""W"" para semanas, ""D"" para dias, ""h"" para horas, ""m"" para minutos e ""s"" para segundos.
+`datetime_diff(date1, date2, unidade)`: retorna a duração entre `date1`e `date2`no `unit`especificado. As durações válidas são ""Y"" para anos, ""M"" para meses, ""W"" para semanas, ""D"" para dias, ""h"" para horas, ""m"" para minutos e ""s"" para segundos.
 
     @(datetime_diff(""2017-01-15"", ""2017-01-17"", ""D"")) → 2@(datetime_diff(""2017-01-15"", ""2017-05-15"", ""W"")) → 17@(datetime_diff(""2017-01-15"", ""2017-05-15"", ""M"")) → 4
     @(datetime_diff(""2017-01-17 10:50"", ""2017-01-17 12:30"", ""h"")) → 1@(datetime_diff(""2017-01-17"", ""2015-12-17"", ""Y"")) → -2
@@ -242,7 +246,7 @@ As expressões têm acesso a um conjunto de funções internas que podem ser usa
 `foreach(valores, func, [argumentos...])`: cria uma nova matriz aplicando `func`a cada valor em`values`. Se a função fornecida receber mais de um argumento, você poderá passar argumentos adicionais após a função.
 
     @(foreach(array(""a"", ""b"", ""c""), upper)) → [A, B, C]@(foreach(array(""the man"", ""fox"", ""jumped up""), word, 0)) → [the, fox, jumped]
-`foreach_value(objeto, func, [args...])`: cria um novo objeto aplicando `func`a cada valor de propridade `object`. Se a função fornecida receber mais de um argumento, você poderá passar argumentos adicionais após a função.
+`foreach_value(objeto, func, [args...])`: cria um novo objeto aplicando `func`a cada valor de propriedade `object`. Se a função fornecida receber mais de um argumento, você poderá passar argumentos adicionais após a função.
 
     @(foreach_value(object(""a"", ""x"", ""b"", ""y""), upper)) → {a: X, b: Y}@(foreach_value(object(""a"", ""hi there"", ""b"", ""good bye""), word, 1)) → {a: there, b: bye}
 `format(valor)`: formatos de `value`de acordo com seu tipo.
@@ -263,7 +267,7 @@ As expressões têm acesso a um conjunto de funções internas que podem ser usa
     @(format_date(""1979-07-18T15:00:00.000000Z"", ""M"")) → 7
     @(format_date(""NOT DATE"", ""YYYY-MM-DD"")) → ERROR
 `format_datetime (data e hora [, formato [, fuso horário]])`
-Formata datetime como texto de acordo com o dado `format`. Se `format`não for especificado, o formato padrão do ambiente será usado. A cadeia de contato pode consistir nos seguintes caracteres. Os caracteres '', ':', ',', 'T', '-' e '_' são ignorados. Qualquer outro caractere é um erro.
+Formata datetime como texto de acordo com o dado `format`. Se `format`não for especificado, o formato padrão do ambiente será usado. A cadeia de formato pode consistir nos seguintes caracteres. Os caracteres '', ':', ',', 'T', '-' e '_' são ignorados. Qualquer outro caractere é um erro.
 
   * `YY`\- últimos dois dígitos do ano 0-99
   * `YYYY`\- quatro dígitos do ano 0000-9999
@@ -273,7 +277,7 @@ Formata datetime como texto de acordo com o dado `format`. Se `format`não for e
   * `DD`\- dia do mês, zero preenchido 01-31
   * `h`\- hora do dia 1-12
   * `hh`\- hora do dia 01-12
-  * `tt`\- vinte de quatro horas do dia 00-23
+  * `tt`\- hora do dia em formato 24 h (00-23)
   * `m`\- minuto sem o zero preenchido 0-59
   * `mm`\- minuto com o zero preenchido 00-59
   * `s`\- segundo sem o zero preenchido 0-59
@@ -286,7 +290,7 @@ Formata datetime como texto de acordo com o dado `format`. Se `format`não for e
   * `Z`\- deslocamento de hora e minuto do UTC ou Z do UTC
   * `ZZZ`\- deslocamento de hora e minuto do UTC
 
-O fuso horário deve ser o nome de local, conforme especificado no bando de dados do fuso horário da IANA, como """"America / Guayaquil"" ou ""America / Los_Angeles"". Se não especificado, o fuso horário atual será usado. Um erro será retornado se o fuso horário não for reconhecido.
+O fuso horário deve ser o nome de local, conforme especificado no banco de dados do fuso horário da IANA, como """"America / Guayaquil"" ou ""America / Los_Angeles"". Se não especificado, o fuso horário atual será usado. Um erro será retornado se o fuso horário não for reconhecido.
 
     @(format_datetime(""1979-07-18T15:00:00.000000Z"")) → 18-07-1979 10:00@(format_datetime(""1979-07-18T15:00:00.000000Z"", ""YYYY-MM-DD"")) → 1979-07-18
     @(format_datetime(""2010-05-10T19:50:00.000000Z"", ""YYYY M DD tt:mm"")) → 2010 5 10 14:50
@@ -305,11 +309,11 @@ O fuso horário deve ser o nome de local, conforme especificado no bando de dado
 
   * `h`\- hora do dia 1-12
   * `hh`\- hora do dia 01-12
-  * `tt`\- vinte de quatro horas do dia 00-23
+  * `tt`\- hora do dia em formato 24 h (00-23)
   * `m`\- minuto sem o zero preenchido 0-59
   * `mm`\- minuto com zero preenchido 00-59
   * `s`\- segundo sem o zero preenchido 0-59
-  * `ss`\- segundo com o zero preencido 00-59
+  * `ss`\- segundo com o zero preenchido 00-59
   * `fff`\- milissegundos
   * `ffffff`\- microssegundos
   * `fffffffff`\- nanosegundos
@@ -322,7 +326,7 @@ O fuso horário deve ser o nome de local, conforme especificado no bando de dado
 
     @(format_urn(""tel:+250781234567"")) → 0781 234 567@(format_urn(""twitter:134252511151#billy_bob"")) → billy_bob@(format_urn(contact.urn)) → (202) 456-1111
     @(format_urn(urns.tel)) → (202) 456-1111
-    @(format_urn(urns.mailto)) → foo@bar.com
+    @(format_urn(urns.mailto)) → <foo@bar.com>
     @(format_urn(""NOT URN"")) → ERROR
 `html_decode(texto)`: decodificações HTML`text`
 
@@ -400,7 +404,7 @@ O fuso horário deve ser o nome de local, conforme especificado no bando de dado
   * `DD`\- dia do mês, zero preenchido 01-31
   * `h`\- hora do dia sem o zero preenchido 1-12
   * `hh`\- hora do dia com o zero preenchido 01-12
-  * `tt`\- vinte de quatro horas do dia 00-23
+  * `tt`\- hora do dia em formato 24 h (00-23)
   * `m`\- minuto sem o zero preenchido 0-59
   * `mm`\- minuto com o zero preenchido 00-59
   * `s`\- segundo sem o zero preenchido 0-59
@@ -413,7 +417,7 @@ O fuso horário deve ser o nome de local, conforme especificado no bando de dado
   * `Z`\- deslocamento de hora e minuto do UTC ou Z do UTC
   * `ZZZ`\- deslocamento de hora e minuto do UTC
 
-O fuso horário deve ser o nome de local, conforme especificado no bando de dados do fuso horário da IANA, como """"America / Guayaquil"" ou ""America / Los_Angeles"". Se não especificado, o fuso horário atual será usado. Um erro será retornado se o fuso horário não for reconhecido.
+O fuso horário deve ser o nome de local, conforme especificado no banco de dados do fuso horário da IANA, como """"America / Guayaquil"" ou ""America / Los_Angeles"". Se não especificado, o fuso horário atual será usado. Um erro será retornado se o fuso horário não for reconhecido.
 
 Observe que os segundos fracionários serão analisados mesmo sem um identificador de formato explícito. Você deve especificar apenas segundos fracionários quando desejar afirmar o número de lugares no formato de entrada.
 
@@ -431,7 +435,7 @@ parse_datetime retornará um erro se não conseguir converter o texto em uma dat
 
   * `h`\- hora do dia 1-12
   * `hh`\- hora do dia 01-12
-  * `tt`\- vinte de quatro horas do dia 00-23
+  * `tt`\- hora do dia em formato 24 h (00-23)
   * `m`\- minuto sem o zero preenchido 0-59
   * `mm`\- minuto com o zero preenchido 00-59
   * `s`\- segundo sem o zero preenchido 0-59
@@ -566,19 +570,19 @@ parse_time retornará um erro se não conseguir converter o texto em uma datetim
 
     @(trim("" hello world    "")) → hello world
     @(trim(""+123157568"", ""+"")) → 123157568
-`trim_left(``texto, [, caracteres])`: remove o espaço em branco desde o início do `text`. Há um parâmetro opcional, `chars`que é uma sequência de caracteres a serem removidas em vez do espaço em branco.
+`trim_left(texto, [, caracteres])`: remove o espaço em branco desde o início do `text`. Há um parâmetro opcional, `chars`que é uma sequência de caracteres a serem removidas em vez do espaço em branco.
 
     @(""*"" & trim_left("" hello world   "") & ""*"") → *hello world   *@(trim_left(""+12345+"", ""+"")) → 12345+
-`trim_right(``texto, [, caracteres])`: remove o espaço em branco do final de `text`. Há um parâmetro opcional, `chars`que é uma sequência de caracteres a serem removidas em vez do espaço em branco.
+`trim_right(texto, [, caracteres])`: remove o espaço em branco do final de `text`. Há um parâmetro opcional, `chars`que é uma sequência de caracteres a serem removidas em vez do espaço em branco.
 
     @(""*"" & trim_right("" hello world   "") & ""*"") → * hello world*@(trim_right(""+12345+"", ""+"")) → +12345
-`tz(``data)`: retorna o nome do fuso horário de `date`. Se nenhuma informação de fuso horário estiver presente na data, o fuso horário atual será retornado.
+`tz(data)`: retorna o nome do fuso horário de `date`. Se nenhuma informação de fuso horário estiver presente na data, o fuso horário atual será retornado.
 
     @(tz(""2017-01-15T02:15:18.123456Z"")) → UTC
     @(tz(""2017-01-15 02:15:18PM"")) → America/Guayaquil
     @(tz(""2017-01-15"")) → America/Guayaquil
     @(tz(""foo"")) → ERROR
-`tz_offset(``data)`: retorna o deslocamento do fuso horário de `date`. O deslocamento é retornado no formato `[+/-]HH:MM`. Se nenhuma informação de fuso horário estiver presente na data, o fuso horário atual será retornado.
+`tz_offset(data)`: retorna o deslocamento do fuso horário de `date`. O deslocamento é retornado no formato `[+/-]HH:MM`. Se nenhuma informação de fuso horário estiver presente na data, o fuso horário atual será retornado.
 
     @(tz_offset(""2017-01-15T02:15:18.123456Z"")) → +0000
     @(tz_offset(""2017-01-15 02:15:18PM"")) → -0500
@@ -615,7 +619,7 @@ parse_time retornará um erro se não conseguir converter o texto em uma datetim
     @(word(""bee.cat,dog"", -2)) → cat
     @(word(""bee.*cat,dog"", 1, "".*=|"")) → cat,dog
     @(word(""O'Grady O'Flaggerty"", 1, "" "")) → O'Flaggerty
-`word_count(``texto, [, delimitadores])`: retorna o número de palavras em `text`. Há um parâmetro opcional, `delimiters`que é uma sequência de caracteres usada para dividir o texto em palavras.
+`word_count(texto, [, delimitadores])`: retorna o número de palavras em `text`. Há um parâmetro opcional, `delimiters`que é uma sequência de caracteres usada para dividir o texto em palavras.
 
     @(word_count(""foo bar"")) → 2
     @(word_count(10)) → 1
@@ -623,7 +627,7 @@ parse_time retornará um erro se não conseguir converter o texto em uma datetim
     @(word_count(""😀😃😄😁"")) → 4
     @(word_count(""bee.*cat,dog"", "".*=|"")) → 2
     @(word_count(""O'Grady O'Flaggerty"", "" "")) → 2
-`word_slice(``texto, início, fim [, delimitadores])`: extrai uma sub-sequência de palavras de `text`. As palavras retornadas são aquelas que até incluem `start`, mas não incluem `end`
+`word_slice(texto, início, fim [, delimitadores])`: extrai uma sub-sequência de palavras de `text`. As palavras retornadas são aquelas que até incluem `start`, mas não incluem `end`
 . Os índices começam em zero e um valor final negativo significa que todas as palavras após o início devem ser retornadas. Há um parâmetro opcional, `delimiters`que é uma sequência de caracteres usada para dividir o texto em palavras.
 
     @(word_slice(""bee cat dog"", 0, 1)) → bee

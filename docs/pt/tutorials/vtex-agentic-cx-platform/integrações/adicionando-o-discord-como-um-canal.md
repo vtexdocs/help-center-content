@@ -23,11 +23,11 @@ A Infraestrutura necessária para o proxy não é fornecida pelo VTEX Agentic CX
 
 - **Discord tem documentação oficial sobre como registrar seu bot.**
 
-https://discord.com/developers/docs/getting\-started
+<https://discord.com/developers/docs/getting\-started>
 
 - **Acesse o painel do desenvolvedor e clique em New Application e crie seu aplicativo:**
 
-https://discord.com/developers/applications
+<https://discord.com/developers/applications>
 
 1. Go to the ""Bot"" tab and click ""Add Bot"". You will have to confirm by clicking ""Yes, do it!""
 

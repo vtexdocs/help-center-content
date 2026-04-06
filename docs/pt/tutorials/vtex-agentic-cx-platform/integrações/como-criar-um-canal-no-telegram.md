@@ -18,15 +18,19 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 Para conectar o seu chatbot com o Telegram, siga estes passos:
 
 ## Converse com o BotFather
+
 O BotFather é um chatbot que cria e gerencia outros chatbots para o Telegram. Para encontrá-lo, procure por @BotFather na barra de pesquisa do seu Telegram.
 
 ## Crie um novo chatbot com o BotFather
+
 Assim que iniciar a conversa com o BotFather, envie a mensagem **/newbot** para criar um novo chatbot. Em seguida escolha um nome e um Username (os usernames devem sempre acabar com “\_bot”, Ex. test\_bot).
 
 ## Receba o Token de acesso
+
 Pronto! Você criou seu novo chatbot e já recebeu o seu token! Copie e guarde ele para usarmos no VTEX Agentic CX Platform.
 
 ## Cadastrando o Telegram na plataforma
+
 1. Com o token em mãos, agora você já pode realizar a integração com o Telegram dentro do seu projeto.
 2. Localize o projeto ao qual você deseja integrar.
 3. Na barra lateral, clique em **Canais** (em **Configurações**).
@@ -36,6 +40,7 @@ Pronto! Você criou seu novo chatbot e já recebeu o seu token! Copie e guarde e
 6. Tudo pronto! O canal gerado terá o mesmo nome do bot criado.
 
 ## Habilitando os gatilhos
+
 O bot do Telegram exibe um botão ""Começar"" quando você interage com ele pela primeira vez:
 
 Para que o botão inicie uma nova conversa ao ser clicado, é preciso configurar o [gatilho correspondente](/pt/docs/tutorials/tipos-de-gatilho#iniciar_um_fluxo_quando_uma_conversa_for_iniciada_por_um_contato) informando o nome do canal do Telegram e o fluxo desejado.

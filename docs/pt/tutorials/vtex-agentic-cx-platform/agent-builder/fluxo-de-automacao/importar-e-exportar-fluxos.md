@@ -33,7 +33,7 @@ Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](/
 
 Para acessar a página de exportação pelas configurações gerais da organização, basta ir ao menu de opções e clicar no botão _**exportar**_.
 
-Você pode conhecer um pouco mais sobre as Configurações gerais de organização clicando no [link](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Você pode conhecer um pouco mais sobre as Configurações gerais de organização na página [Configurações gerais do projeto](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
 Já na página de exportação, ela irá te exibir todos os fluxos e campanhas daquela organização, estando eles agrupados por uso, ou seja, todos os fluxos de um mesmo grupo interagem entre si. Caso você exporte apenas um fluxo de um grupo, você pode ter problemas em seu funcionamento.
 

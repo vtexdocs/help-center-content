@@ -17,7 +17,8 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 As cartas de decisão são parte muito importante para as construções lógicas dos nossos fluxos. Na [introdução a fluxos](/pt/docs/tutorials/introducao-a-fluxos) conversamos um pouco sobre o conceito dessas cartas, e agora vamos entender um pouco mais sobre sua anatomia e os tipos que existem dentro da plataforma.
 
-Para facilitar a navegação por esse artigo, caso queira ir diretamente para algum tópico em especifico, basta clicar no nome dele baixo:
+Para facilitar a navegação por esse artigo, caso queira ir diretamente para algum tópico em específico, basta clicar no nome dele abaixo:
+
   * Rotas e regras de decisão
   * Resultados de fluxo
   * Aguarde a resposta do contato
@@ -55,6 +56,7 @@ Atualmente, existem 24 regras de decisão na plataforma, que podem ser agrupadas
 São as regras que analisam frases e/ou palavras, comparando a resposta/valor do contato com as frases/palavras escolhidas.
 
 São essas:
+
   * **tem alguma das palavras:** Caso a resposta/valor possua qualquer uma das palavras escolhidas, ele irá seguir a rota indicada. Todas as palavras devem ser separadas por um espaço.
   * **tem todas as palavras:** Caso a resposta/valor possua todas as palavras escolhidas, ele irá seguir a rota indicada. Todas as palavras devem ser separadas por um espaço.
   * **tem a frase**:** Caso a resposta/valor possua aquela frase em algum momento do seu texto, ele seguirá rota indicada
@@ -67,6 +69,7 @@ Você pode utilizar essas regras para verificar nomes de pessoas, organizações
   1. **Números e operações:**
 São as regras que envolvem números e/ou operações numéricas, comparando a resposta/valor do contato com os números/regras numéricas escolhidas.
 São essas:
+
   * **tem um número:** Caso a resposta/valor seja um número, independentemente do número, ele seguirá a rota indicada.
   * **tem um número entre:** Caso a resposta/valor esteja entre os 2 números escolhidos, ele seguirá a rota indicada.
   * **tem um número abaixo:** Caso a resposta/valor for menor que o número escolhido, ele seguirá a rota indicada.
@@ -76,6 +79,7 @@ São essas:
   * **tem um número acima****:** Caso a resposta/valor for maior que o número escolhido, ele seguirá a rota indicada.
 
 Essas regras podem ser úteis para filtros por idade.
+
   1. **Data e hora:**
 
 São as regras que envolvem data e hora, comparando as datas inseridas pelo usuário ou de outros acontecimentos com as datas escolhidas.
@@ -83,6 +87,7 @@ São as regras que envolvem data e hora, comparando as datas inseridas pelo usu�
 Um detalhe importante sobre as regras de comparação de data (_antes, igual a e depois_) é que todas as comparações não são feitas por uma data absoluta, mas sim por uma data em relação ao dia atual, no formato **(****_today + n_****)** onde **_today_** é o dia de hoje e **_n_** é a quantidade de dias para frente ou para trás.
 
 As regras são:
+
   * **tem uma data:** Caso a resposta/valor do contato possua uma data, independentemente da data, ele seguirá a rota indicada. A data deve possuir um formato de data válido (exemplo: DD/MM/AAAA).
   * **tem uma data antes:** Caso a resposta/valor possua uma data anterior a data escolhida, ele seguirá a rota indicada.
   * **tem uma data igual a:** Caso a resposta/valor possua uma data igual a data escolhida, ele seguirá a rota indicada.
@@ -98,8 +103,9 @@ São regras utilizadas para validar formatações de texto personalizadas, seja 
 A plataforma nos dá suporte ao uso de expressões regulares, ou regex, que é uma linguagem de busca de padrões. Assim, conseguimos criar regras de padrões personalizados para vários tipos de formatação, como CPF, CNPJ, CNH, etc. Um bom site para criar suas regex é o <https://regex101.com/>.
 
 As regras são:
+
   * **tem um número de telefone:** Caso a resposta/valor possua um formato válido para telefone celular (exemplo: 5582999999999), ele seguirá rota indicada.
-  * **tem um email:** Caso a resposta/valor possua um formato válido para e-mail (exemplo: no-reply@ilhasoft.com.br), ele seguirá a a rota indicada.
+  * **tem um email:** Caso a resposta/valor possua um formato válido para e-mail (exemplo: <no-reply@ilhasoft.com.br>), ele seguirá a a rota indicada.
   * **corresponde a regex:** Caso a resposta/valor siga a regra da expressão regular escolhida, ele seguirá a rota indicada.
 
 Quer validar o formato de um CPF? Essas regras são o caminho.
@@ -107,6 +113,7 @@ Quer validar o formato de um CPF? Essas regras são o caminho.
 ## Resultados de fluxo
 
 Toda carta de decisão, escolhe uma rota no fim da sua execução, e isso gera para nós um _**resultado de fluxo**_. Cada resultado de fluxo contém informações como:
+
   * Valor que foi utilizado para a decisão;
   * Categoria de rota escolhida após as regras;
   * Data e hora que esse resultado foi salvo;
@@ -179,4 +186,3 @@ Utilize frases de comando claras e objetivas para ajudar a classificar corretame
 ## Dividir por intenção
 
 No cartão **Dividir por Intenção**, você selecionará a inteligência de classificação que será utilizada. Com base na intenção(1) e no nível de confiança(2) configurados no card, a entrada/mensagem será devidamente classificada.
-

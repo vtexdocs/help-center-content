@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-# Configuração de Canal Externo
+## Configuração de Canal Externo
 
 Esta documentação descreve como configurar e integrar um **canal externo** para que a plataforma receba e envie mensagens usando um serviço externo. Ela complementa o material existente e detalha os campos e opções disponíveis para que a conexão funcione corretamente.
 
@@ -161,7 +161,7 @@ Para um serviço que aceita JSON, a configuração pode ser:
 
 - Method: HTTP POST
 - Content-type: JSON – application/json
-- Enviar URL: https://send.weni.ai/api/v2
+- Enviar URL: <https://send.weni.ai/api/v2>
 - Corpo da solicitação:
 
 ```json
@@ -177,7 +177,7 @@ Para um serviço que aceita JSON, a configuração pode ser:
 }
 ```
 
-Com essa configuração a plataforma fará um POST para https://send.weni.ai/api/v2 enviando o JSON acima.
+Com essa configuração a plataforma fará um POST para <https://send.weni.ai/api/v2> enviando o JSON acima.
 
 Se você optar por application/x-www-form-urlencoded, o corpo poderá ser:
 
@@ -203,7 +203,7 @@ As principais URLs são:
 
 A URL utilizada para enviar mensagens **será exatamente aquela definida por você no campo Enviar URL** na etapa 9. Ou seja, quando a plataforma precisar encaminhar uma mensagem de saída ao canal externo, ela executará um GET/POST/PUT para a URL que você configurou, incluindo os parâmetros e/ou o corpo definidos.
 
-Por exemplo, se na etapa 9 você configurou a URL https://send.weni.ai/api/v2 com o método POST e escolheu o formato JSON, a chamada de envio terá a seguinte estrutura:
+Por exemplo, se na etapa 9 você configurou a URL <https://send.weni.ai/api/v2> com o método POST e escolheu o formato JSON, a chamada de envio terá a seguinte estrutura:
 
 ```
 POST https://send.weni.ai/api/v2

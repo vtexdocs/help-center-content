@@ -20,7 +20,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 A integração entre o VTEX Agentic CX Platform e o Zendesk oferece uma ferramenta poderosa para gerenciar o atendimento ao cliente de forma eficiente e automática. Após concluir a configuração e instalação, é essencial monitorar o funcionamento da integração para garantir que todos os tickets sejam gerenciados corretamente e que os gatilhos automáticos funcionem conforme o esperado.
 
 1. Crie uma conta no Zendesk
-Se você ainda não possui uma conta, crie uma no Zendesk. Para este exemplo, estamos usando uma conta de teste gratuita. (https://weni5623\.zendesk.com/)
+Se você ainda não possui uma conta, crie uma no Zendesk. Para este exemplo, estamos usando uma conta de teste gratuita. (<https://weni5623\.zendesk.com/>)
 Acesse: <https://www.zendesk.com/>
 
 1. Acesse o Projeto no VTEX Agentic CX Platform
@@ -31,9 +31,9 @@ Clique no menu de três linhas (hambúrguer) e selecione **Adicionar Serviço de
 
 Você será solicitado a inserir seu subdomínio. Antes de clicar no botão **Conectar**, pressione **F12** para abrir o modo de desenvolvedor e acesse o módulo **Network** (Rede).
 
-- Preencha o Subdomínio, que é o valor antes de ""zendesk.com"" na URL. Exemplo: weni5623 a partir de https://weni5623\.zendesk.com/.
+- Preencha o Subdomínio, que é o valor antes de ""zendesk.com"" na URL. Exemplo: weni5623 a partir de <https://weni5623\.zendesk.com/>.
 - Ao clicar em **Conectar**, duas novas linhas aparecerão no modo de desenvolvedor.
-- Clique na segunda linha, onde a **URL da Solicitação** começará com seu subdomínio, por exemplo, https://weni5623\...
+- Clique na segunda linha, onde a **URL da Solicitação** começará com seu subdomínio, por exemplo, <https://weni5623\>...
 - Copie a URL completa e abra-a em outra aba do navegador.
 
 1. Autorize o Uso do Aplicativo

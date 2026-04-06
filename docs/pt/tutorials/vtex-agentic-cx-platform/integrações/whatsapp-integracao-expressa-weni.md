@@ -25,7 +25,8 @@ Existem algumas premissas para adicionar um número de WhatsApp pelo método de 
 2. O número **não deve** estar instalado em outro aplicativo ou a uma conta de WhatsApp (Business ou pessoal), caso esteja este número deverá ser excluir do aplicativo antes do início do processo. [Veja aqui](https://faq.whatsapp.com/605464643328528/?cms_platform=android&locale=pt_BR) como excluir.
 3. O número deve estar habilitado pela operadora para receber uma ligação ou SMS, com o chip inserido em um telefone pronto para receber o código de verificação que será enviado durante o processo de integração do canal.
 
-## Pronto, com essas premissas cumpridas chegou a hora de iniciar a integração!
+## Pronto, com essas premissas cumpridas chegou a hora de iniciar a integração
+
 Dentro do projeto ao qual irá ser feita a integração acesse **Configurações > Canais**, onde encontrará o *card* de integração do WhatsApp, clique no símbolo de **\+**, para adicionar a integração.
 
 Logo após aparecerá um *popup* solicitando uma conexão em sua conta de facebook.
@@ -58,19 +59,24 @@ Clique em Verificar e selecione OK na tela que irá aparecer confirmando que o s
 
 Caso a empresa **já possua verificação de negócios** junto a Meta a próxima etapa pode ser feita somente após recebimento de e-mail da Meta confirmando a aceitação do nome de exibição, logo que o e-mail for recebido, volte a plataforma para continuar.
 
-Caso contrario pode continuar imediatamente!#### **Passo final para integração**
+Caso contrário, pode continuar imediatamente!
+
+### Passo final para integração
 
 Com a sua conta vinculada à Meta e o seu número de WhatsApp Business verificado, agora é hora de integrá-los na plataforma. Os passos são bem simples e rápidos.
 
 Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela do VTEX Agentic CX Platform. Basta clicar em **Criar Canal**, como mostrado na imagem:
 
-Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>Na sequência, selecione o número que será vinculado à integração do WhatsApp no VTEX Agentic CX Platform e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
+Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>
 
-## Agora o seu canal WhatsApp está integrado e pronto para ser customizado!
+Na sequência, selecione o número que será vinculado à integração do WhatsApp no VTEX Agentic CX Platform e pronto! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
+
+## Agora o seu canal WhatsApp está integrado e pronto para ser customizado
+
 Na sequência, um *card* com o número do telefone irá aparecer em **Configurações > Canais**.
 
 Ao clicar neste *card* aparecerá as opções de customização, siga as dicas e personalize o seu número com foto de perfil, descrição, e-mail e site da sua empresa ou organização.
 
 Para aproveitar ainda mais do canal, inicie o processo de verificação do seu negócio junto a Meta.
 
-Para iniciar a verificação siga esse passo [link](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio).
+Para iniciar a verificação, siga o tutorial [Como verificar o meu negócio (WhatsApp Business API)](/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio).

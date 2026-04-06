@@ -28,6 +28,7 @@ Dessa forma, você cria mais engajamento e interação com seus seguidores e pot
 As configurações abaixo são de extrema importância para a criação do canal do Instagram em nossa plataforma, pois sem elas a criação ficará impossibilitada. Os passos a seguir deverão ser realizados no aplicativo do Instagram.
 
 ### Passo 1
+
 Primeiramente é necessário que sua conta do Instagram seja empresarial ou profissional. Para isso, faça os seguintes passos:
 
 1. Vá em **Configurações > Para profissionais >** toque em **Mudar para conta profissional**.
@@ -62,6 +63,7 @@ Caso queira remover uma conta do Facebook da Central de Contas realize os passos
 4. Escolha a Página a qual deseja se conectar ou selecione **Criar uma nova Página do Facebook**.
 
 ### Passo 4: Permita acesso às mensagens do Instagram
+
 Essa permissão faz com que você consiga gerenciar suas mensagens do Instagram através de nossa plataforma. Para habilitá-la realize os passos abaixo:
 
 1. Acesse o seu perfil, ou na sua foto do perfil, no canto inferior direito,

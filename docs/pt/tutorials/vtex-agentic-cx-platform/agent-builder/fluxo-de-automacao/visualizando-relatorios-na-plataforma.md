@@ -36,4 +36,3 @@ A exportação de resultados irá incluir nome, URN do contato, data de início 
 A exportação é em formato de planilha XLSX e é enviada diretamente para o email do usuário que fez a exportação.
 
 Antes de exportar, você pode selecionar as opções Grupos, Campos de Contato (Fields) e URNs. Se você marcar a opção ""Somente respondidos"", a exportação será limitada apenas aos contatos que enviaram alguma resposta no fluxo que está sendo exportado.
-

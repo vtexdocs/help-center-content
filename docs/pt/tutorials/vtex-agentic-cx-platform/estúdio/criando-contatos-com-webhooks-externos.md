@@ -106,7 +106,7 @@ Uma requisição **POST** pode ser usada para criar um novo campo de contato. 
 - **value_type** - um dos tipos de dados aceitos (string)
 - **text:** Campos do tipo texto
 - **datetime:** Campos com informação de data e hora (exemplo do formato: 2020-01-31T09:27:39.071299-03:00)
-- **numeric:** Campos numéricos. 
+- **numeric:** Campos numéricos.
 
 Exemplo:
 

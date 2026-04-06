@@ -20,9 +20,10 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 É um chatbot pronto para envio de **segunda via em PDF** , **extrato em PDF** , **saldo devedor** e **realização de cobranças por canais externos, como Whatsapp**. O VTEX Agentic CX Platform fornece soluções digitais para automatização da comunicação consciente, aberta e acessível. Este chatbot é um projeto template desenvolvido pelo VTEX Agentic CX Platform, utilizando o Sienge Plataforma.
 
 Para o funcionamento completo da automatização é necessário criar um usuário de API com permissões para consumir todos os seguintes recursos:
+
   * Geração de boleto (Segunda via)
   * Geração do saldo devedor presente do cliente
-  * Títulos do contas a receber
+  * Títulos de contas a receber
   * Extrato de cliente por e-mail
   * Clientes
   * Gerenciamento de webhooks

@@ -54,14 +54,14 @@ Caso este botão não esteja visível, contate o suporte/seu analista responsáv
 
 Siga as instruções da Meta, leia atentamente as solicitações e preencha com dados compatíveis a sua documentação de empresa/CNPJ ou aos indicados pela Meta.
 
-Nesse momento, serão solicitados os documentos oficiais e **obrigatórios** para validação do negócio. Os documentos oficiais aceitos estão descritos [aqui](#passo_1).
+Nesse momento, serão solicitados os documentos oficiais e **obrigatórios** para validação do negócio. Os documentos oficiais aceitos estão descritos [na seção Passo 1](#passo-1).
 
 É importante:
 
 - Que as informações da empresa estejam idênticas aos documentos;
 - Checar se os dados da sua empresa se sugerido pela Meta estão atualizados;
 - O telefone preenchido esteja disponível para receber ligações oficiais, este é o telefone cadastrado no CNPJ;
-- Caso escolha a opção e-mail é importante ser um e-mail corporativo pessoal como nome@empresa.com;
+- Caso escolha a opção e-mail é importante ser um e-mail corporativo pessoal como <nome@empresa.com>;
 - Se for pelo método Meta TAG, siga as instruções;
 
 Não cumprir com esses pontos **impossibilita** o envio do código para verificação da empresa.

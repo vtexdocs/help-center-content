@@ -27,7 +27,7 @@ Role para baixo até a opção Viber e clique nela.
 
 Após isso, você verá uma breve descrição do canal. O único requisito para conectar o Viber é um token de autorização (chamado de App token pela equipe do Viber).
 
-#### Agora vamos ver como obter este App token.
+### Agora vamos ver como obter este App token
 
 O processo principal consiste em aprovar uma conta pública do Viber e obter o App token.
 
@@ -56,6 +56,7 @@ Depois disso, clique no ícone de menu e, em seguida, na opção **Edit**.
 Quando clicar em Editar, uma nova janela aparecerá para você adicionar um e-mail de alerta e uma mensagem de boas-vindas. Salve as alterações após isso.
 
 ## Publicar a conta
+
 Para que o canal seja exibido completamente, será necessário entrar em contato com a equipe de suporte do Viber. Em geral, qualquer pessoa pode abrir e construir um chatbot na plataforma Viber. No entanto, por padrão, os usuários não podem encontrá-lo. Portanto, para que o perfil seja descoberto, por exemplo, pesquisável e verificado, ele deve ser acompanhado por uma campanha promocional com stickers ou anúncios no Viber.
 
 Depois de promovido, você pode compartilhá-lo por meio dos canais de mídia social do cliente para alcançar o público de forma orgânica. Com ferramentas como stickers e anúncios no Viber, você poderá reunir centenas de milhares de inscritos no seu chatbot, aos quais é possível enviar mensagens diretas e personalizadas.

@@ -37,10 +37,11 @@ Se for necessário seguir por esse caminho, abra um chamado no business suites c
 
 1. Uma cópia de um documento de identificação com foto válido emitido pelo governo do indivíduo que assina a declaração
 2. [UMA DECLARAÇÃO ASSINADA](https://docs.google.com/document/d/19KjVuEGSMHlm30BLw6SJJXpkLEipR3WO4Me83M4KVb4/edit) no formato de arquivo PDF de uma pessoa com conhecimento e autoridade suficientes sobre este assunto que inclui todos os itens a seguir:
-	1. O endereço de e-mail do Facebook e o URL do perfil associados à conta do Facebook que você deseja adicionar como o novo administrador
-	2. Uma descrição da relação do solicitante com a Empresa e a ID da Empresa (e autoridade para solicitar acesso à Empresa, conforme aplicável)
-	3. Uma explicação do seu pedido (exemplo: houve uma cessação da relação de trabalho e/ou comercial com a(s) pessoa(s) nomeada(s)/Empresa e outra pessoa tem de ser adicionada como Administrador)
-	4. As três faturas/extratos de faturamento mais recentes (independentemente do tempo passado) na(s) conta(s) de anúncios que a Empresa possui E os últimos 4 dígitos do(s) cartão(ões) de crédito na(s) conta(s)\*
-	5. Se a BM não tiver nenhuma conta de anúncios, declare essas informações no extrato.
-	6. Uma declaração, com a verborragia ""Sob Pena de Perjúrio"", de que as informações que você forneceu são verdadeiras e precisas (por exemplo, ""Eu certifico que as informações fornecidas são verdadeiras e precisas""). Sua declaração deve incluir linguagem semelhante para ser considerada compatível e deve ser assinada à mão. Embora fosse um requisito anteriormente, atualmente não há exigência de que o documento seja reconhecido em cartório.
-	7. O ID da Empresa (BID) deve aparecer na declaração de corpo do documento
+
+   1. O endereço de e-mail do Facebook e o URL do perfil associados à conta do Facebook que você deseja adicionar como o novo administrador
+   2. Uma descrição da relação do solicitante com a Empresa e a ID da Empresa (e autoridade para solicitar acesso à Empresa, conforme aplicável)
+   3. Uma explicação do seu pedido (exemplo: houve uma cessação da relação de trabalho e/ou comercial com a(s) pessoa(s) nomeada(s)/Empresa e outra pessoa tem de ser adicionada como Administrador)
+   4. As três faturas/extratos de faturamento mais recentes (independentemente do tempo passado) na(s) conta(s) de anúncios que a Empresa possui E os últimos 4 dígitos do(s) cartão(ões) de crédito na(s) conta(s)\*
+   5. Se a BM não tiver nenhuma conta de anúncios, declare essas informações no extrato.
+   6. Uma declaração, com a verborragia ""Sob Pena de Perjúrio"", de que as informações que você forneceu são verdadeiras e precisas (por exemplo, ""Eu certifico que as informações fornecidas são verdadeiras e precisas""). Sua declaração deve incluir linguagem semelhante para ser considerada compatível e deve ser assinada à mão. Embora fosse um requisito anteriormente, atualmente não há exigência de que o documento seja reconhecido em cartório.
+   7. O ID da Empresa (BID) deve aparecer na declaração de corpo do documento

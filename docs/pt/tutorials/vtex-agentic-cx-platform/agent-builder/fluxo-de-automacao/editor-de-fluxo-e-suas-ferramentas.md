@@ -20,6 +20,7 @@ O editor de fluxo é o ambiente onde criamos as cartas e montamos o nosso fluxo.
 Neste artigo, falaremos sobre as ferramentas que existem dentro deste editor para facilitar a criação dos nossos fluxos.
 
 ## Simulador
+
 Uma das ferramentas mais utilizadas na criação e edição de fluxos é o simulador. Com ele, podemos simular em tempo real uma conversa que aconteceria com a execução do fluxo que estamos criando.
 
 Para acessar o simulador, basta clicar no botão com o símbolo de um telefone celular, no canto direito da tela.
@@ -33,6 +34,7 @@ Caso você deseje uma versão mais completa do simulador, basta apertar no botã
 Permitindo que você consiga acompanhar em tempo real as mudanças das expressões que estão envolvidas com aquela execução de fluxo. Para saber mais sobre expressões, leia o artigo sobre [expressões](/pt/docs/tutorials/glossario-de-expressoes).
 
 ## Versões da Edição
+
 Outra ferramenta muito útil é o registro de versões da edição. Cada modificação que você faz em um fluxo, desde a criação de uma nova carta, até realinhar esteticamente o seu fluxograma, tem a sua alteração gravada em uma lista de versões da edição. Utilizando essa lista, conseguimos voltar as modificações de um fluxo para qualquer momento passado, evitando retrabalho para desfazer modificações indesejadas.
 
 Para acessar as versões da edição, basta clicar no botão do relógio logo abaixo do botão do simulador.
@@ -40,6 +42,7 @@ Para acessar as versões da edição, basta clicar no botão do relógio logo ab
 Você pode selecionar uma das opções da lista para ver as versões antigas do fluxo, e caso queira retroceder para aquela versão, basta clicar no botão _Reverter_.
 
 ## Botão Começar Fluxo
+
 O botão Disparar Fluxo é essencial para determinados testes e validações. Com ele, podemos iniciar manualmente um fluxo utilizando contatos ou grupos já existentes na plataforma.
 
 Diferente do simulador, esse fluxo será realmente executado para o contato em seu canal preferencial.
@@ -47,11 +50,13 @@ Diferente do simulador, esse fluxo será realmente executado para o contato em s
 O botão se encontra no canto direito, um pouco acima das outras ferramentas mostradas no artigo.
 
 Antes de lançarmos esses contatos no fluxo, podemos configurar alguns detalhes:
+
 1. Decidir se preferimos escolher contatos/grupos de forma específica, ou se preferimos criar alguma regra para filtrar os contatos que desejamos;
 2. Decidir se, caso um contato já esteja ativo no fluxo em questão, esse fluxo será reiniciado ou não;
 3. Decidir se, caso um contato já esteja ativo em algum outro fluxo, esse fluxo será interrompido ou não.
 
 ## Menu de configurações
+
 Além disso, temos uma série de opções no menu de configurações, que podemos achar facilmente ao lado do botão Começar Fluxo.
 
   1. **Resultados:** Opção para analisar e exportar resultados dos fluxos, com base na utilização pelos contatos. Um meio de verificar quais contatos passaram pelo fluxo.
@@ -59,11 +64,12 @@ Além disso, temos uma série de opções no menu de configurações, que podemo
   3. **Editar:** Opção que permite a edição das configurações iniciais do fluxo, como o nome, triggers, e expiração do fluxo (por quanto tempo ele irá esperar por uma resposta).
   4. **Copiar:** Opção que cria uma cópia exata do fluxo. Esse fluxo-cópia aparecerá na sua lista de fluxos seguindo o padrão de nomenclatura _Copy - Nome do fluxo copiado_.
   5. **Deletar:** Opção que te permite deletar o fluxo em questão. Tome cuidado, pois essa operação não pode ser desfeita.
-  6. **Exportar definição:** Opção que te redireciona para a página de exportação de fluxos. Para saber mais, visite o artigo sobre [exportação e importação de fluxos](/en/docs/tutorials/import-and-export-flows).
-  7. **Exportar tradução**: Opção que possibilita você importar a tradução do idioma na plataforma.
-  8. **Importar tradução**: Opção que possibilita você exportar a tradução de um determinado idioma na plataforma.
+  6. **Exportar definição:** Opção que te redireciona para a página de exportação de fluxos. Para saber mais, visite o artigo sobre [exportação e importação de fluxos](/pt/docs/tutorials/importar-e-exportar-fluxos).
+  7. **Exportar tradução**: Opção que possibilita exportar a tradução de um determinado idioma na plataforma.
+  8. **Importar tradução**: Opção que possibilita importar a tradução do idioma na plataforma.
 
 ## Barra de Ferramentas
+
 Nesta parte do Editor de Fluxos, você encontrará algumas ferramentas que facilitarão seu trabalho. Basta clicar e utilizá-las.
 
   1. **Selecionar e Arrastar:** Essas funções irão ajudar a selecionar cards (botão em formato de seta) e navegar pelo fluxo (botão em formato de mão). Também é possível utilizar a tecla **v** para alternar entre essas funções mais facilmente.

@@ -25,9 +25,11 @@ Veja uma demonstração para entender como o chatbot funciona e suas regras de n
 ### Requisitos
 
 Para iniciar o uso da integração, alguns dados são necessários para configurar seu chatbot:
-  1. **Email e Token de consumo da API CV **
+
+  1. **Email e Token de consumo da API CV**
 
 Crie um Token e Email para consumir a API do CV. [Veja como criar.](https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor)
+
   1. **Assuntos e Subassuntos que serão usados no atendimento**
 
 Os assuntos e subassuntos são obrigatórios para abertura de um atendimento no CV. Sendo assim, para cada opção do menu que for abrir um atendimento no CV, informe qual será o ID do assunto e o ID do subassunto.

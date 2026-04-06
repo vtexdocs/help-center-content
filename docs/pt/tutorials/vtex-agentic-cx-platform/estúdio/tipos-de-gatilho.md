@@ -27,7 +27,7 @@ Para facilitar a navegação neste artigo, caso queira ir diretamente para um ti
 - [Iniciar um fluxo futuramente ou segundo agendamento](#iniciar-um-fluxo-futuramente-ou-segundo-agendamento)
 - [Iniciar um fluxo depois de receber uma chamada](#iniciar-um-fluxo-depois-de-receber-uma-chamada)
 - [Iniciar um fluxo depois de uma chamada perdida](#iniciar-um-fluxo-depois-de-uma-chamada-perdida)
-- [Iniciar um fluxo posterior ao fechamento de ticket com agente humano](#iniciar-um-fluxo-posterior-ao-fechamento-de-ticket-com-agente-humano)
+- [Iniciar um fluxo posterior ao fechamento de ticket com agente humano](#iniciar-um-fluxo-posterior-ao-fechamento-do-ticket-com-agente-humano)
 
 ## Para criar uma palavra-chave que inicie um fluxo
 
@@ -90,7 +90,7 @@ Use este gatilho após uma chamada perdida.
 - se você deixar o campo vazio, o gatilho será aplicado a todos os contatos
 - Clique em "Criar Disparador"
 
-## Iniciar um fluxo posterior ao fechamento des ticket com agente humano
+## Iniciar um fluxo posterior ao fechamento do ticket com agente humano
 
 Use este gatilho para disparar o fluxo de encerramento de atendimento humano no VTEX Agentic CX Platform Chats.
 

@@ -18,11 +18,13 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 Aqui você encontrará soluções para possíveis impedimentos, reprovações e erros no processo de criação, envio e alterações nas Template Messages do WhatsApp. Siga os tópicos abaixo para mais informações.
 
 ## Processo de aprovação (Responsabilidade da Meta)
+
 Depois de criar o modelo, você poderá enviá-lo para aprovação. Pode levar até 24 horas para que uma decisão seja tomada. Assim que a decisão for tomada, uma notificação aparecerá no Gerenciador do WhatsApp. Além disso, a Meta enviará um e-mail para os administradores do Gerenciador de Negócios. Caso você tenha assinado as atualizações sobre alterações de status do modelo de mensagem, a Meta também enviará uma notificação via webhook. Consulte [Como monitorar alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) para mais detalhes.
 
 Se for aprovado, o modelo de mensagem ficará com o status ""Ativo – Qualidade Pendente"", permitindo que você comece a enviá-lo aos clientes. Se rejeitado, o modelo poderá ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) e reenviado para aprovação. Outra possibilidade é [fazer uma apelação](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) da decisão.
 
 ## Motivos comuns para rejeição
+
 Estes são os erros mais comuns que levam à rejeição do envio e devem ser evitados:
 
 - Os parâmetros de variáveis estão ausentes ou apresentam chaves incompatíveis. O formato correto da variável é `{{1}}`.
@@ -34,9 +36,11 @@ Estes são os erros mais comuns que levam à rejeição do envio e devem ser evi
 - O modelo de mensagem é uma duplicata de um existente. Se um modelo for enviado com o mesmo texto de um existente no corpo e no rodapé, a duplicata será rejeitada. Uma notificação de rejeição incluindo o motivo aparecerá na Qualidade da Conta no Gerenciador do WhatsApp e será enviada por email. Na notificação de Qualidade da Conta, é possível consultar o nome e o idioma do modelo existente que tem o mesmo conteúdo do duplicado rejeitado. Você também pode editar e reenviar o modelo. Vale lembrar que esta verificação não se aplica aos modelos de OTP.
 
 ## Edição
+
 É possível editar o modelo por meio do Gerenciador do WhatsApp ou do ponto de extremidade [Modelo de mensagem](https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates#edit-a-message-template) . Caso seja editado e reenviado para aprovação, o modelo de mensagem ficará com o status **Em análise** e não poderá ser enviado a clientes até que esteja **Ativo**.
 
 ## Como enviar modelos de mensagem
+
 Quando o modelo for aprovado, você poderá enviá-lo aos clientes. Para enviar um modelo de mensagem, consulte [Enviar modelos de mensagem](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/send-message-templates) para usuários da API de Nuvem ou [Como enviar modelos de mensagem](https://developers.facebook.com/docs/whatsapp/message-templates/creation) para usuários da API Local.
 
 Somente modelos com status **Ativo** (por exemplo, **Ativo – Qualidade pendente**, **Ativo – Alta qualidade**) podem ser enviados para os clientes.
@@ -44,6 +48,7 @@ Somente modelos com status **Ativo** (por exemplo, **Ativo – Qualidade pend
 O status pode ser alterado automaticamente de **Ativo** para **Pausado** ou **Desativado** com base no feedback dos clientes. Por isso, recomendamos que você [monitore as alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) e tome as medidas apropriadas quando um modelo de mensagem do qual você depende seja pausado ou desativado ou corra esse risco.
 
 ## Status
+
 Os modelos podem ter os status a seguir.
 
 - **Em análise**: indica que o modelo ainda está em análise. A análise pode levar até 24 horas.
@@ -59,6 +64,7 @@ Os modelos podem ter os status a seguir.
 Você pode consultar o status de um modelo em **Gerenciador do WhatsApp** > **Visão geral**. Depois, passe o mouse sobre o ícone da mala (**Ferramentas de conta**) e clique em **Modelos de mensagem**. Caso você tenha mais de uma conta do WhatsApp Business, selecione a conta cujo status do modelo você quer consultar na lista de contas no menu suspenso do canto superior direito.
 
 ## Como monitorar alterações de status
+
 O status de um modelo pode mudar automaticamente com base em decisões da análise, resultados de apelações ou mudanças na [classificação de qualidade](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#quality-rating) . Se o status de um modelo for alterado, você receberá uma notificação por email, no Gerenciador de Negócios e no webhook.
 
 Como você pode enviar somente modelos de mensagem com status **Ativo**, recomendamos que você assine o campo `message_template_status_update webhook` para receber notificações sobre as alterações de status nos modelos. Consulte [Configuração de Webhooks](https://developers.facebook.com/docs/whatsapp/business-management-api/guides/set-up-webhooks) para saber como assinar esse campo e [Atualizações no modelo de mensagem](https://developers.facebook.com/docs/whatsapp/business-management-api/webhooks/components#message-template-updates) para exemplos de cargas de webhook.
@@ -66,6 +72,7 @@ Como você pode enviar somente modelos de mensagem com status **Ativo**, recome
 Se você configurou os webhooks e viu que a qualidade de um modelo está caindo, acesse **Gerenciador do WhatsApp** > **Modelos de mensagem** e passe o mouse sobre o modelo de mensagem em questão. Uma dica será exibida e mostrará informações sobre o problema. Com base nessas informações, é possível optar por [editar o modelo](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) e enviá-lo para reaprovação, utilizar um modelo diferente ou alterar a lógica de negócios do seu app. Caso você edite o modelo de mensagem e ele seja aprovado, a classificação de qualidade melhorará gradualmente se ele não receber feedback negativo com frequência.
 
 ## Classificação de qualidade
+
 Os modelos de mensagem têm uma classificação de qualidade baseada no uso e no feedback dos clientes. Quando o status for **Ativo**, classificação do modelo de mensagem aparecerá no Gerenciador do WhatsApp ao lado do status:
 
 - Ativo – **Qualidade pendente** (realce em verde)
@@ -78,6 +85,7 @@ Inicialmente, os modelos de mensagem aprovados têm a classificação **Qualida
 Não oferecemos webhooks para feedback de modelo de mensagem ou alterações na classificação de qualidade. Entretanto, podemos enviar uma notificação de webhook quando houver alterações no status dos modelos. Por isso, recomendamos que você configure os webhooks, fique atento às alterações no status do modelo e tome as medidas apropriadas antes que o modelo seja pausado ou desativado. Consulte [Como monitorar alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) .
 
 ## Pausa no modelo
+
 Disponibilizada para empresas configuradas no Brasil, no México e na Colômbia em 7 de setembro de 2022 e em todos os outros países em 6 de outubro de 2022\.
 
 Se um modelo de mensagem atingir a classificação de qualidade mais baixa (status **Ativo – Qualidade baixa**), ele será automaticamente pausado por um período para proteger a classificação de qualidade dos números de telefone que o usaram. As durações das pausas são as seguintes:
@@ -95,9 +103,11 @@ Também é possível alterar a lógica dos negócios (definição do público-al
 Inicialmente, a pausa não afetará o número de telefone comercial nem reduzirá o limite de mensagens. Outros modelos de mensagem com alta qualidade podem continuar sendo enviados do número de telefone. Entretanto, se a empresa continuar usando modelos com **Qualidade baixa** depois de eles serem pausados, o número de telefone poderá ser afetado em algum momento.
 
 ## Notificações de pausa
+
 Quando um modelo de mensagem for pausado, enviaremos uma notificação no Gerenciador do WhatsApp, por email e webhook (caso você tenha assinado webhooks de alterações nos modelos de mensagem). Consulte [Como monitorar alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) para ver informações sobre a configuração do webhook e [Exemplos – Modelo pausado](https://developers.facebook.com/docs/whatsapp/business-management-api/webhooks/components#template-paused) para ver um exemplo de carga de webhook.
 
 ## Retomar
+
 O modelo será retomado automaticamente depois da conclusão da pausa descrita acima. Depois de retomado, o modelo terá status **Ativo** e poderá ser enviado aos clientes novamente. Caso você não tenha interrompido as campanhas de mensagens automáticas que dependiam do modelo, elas voltarão a funcionar. No entanto, recomendamos que você interrompa as campanhas que dependam de modelos suspensos até que eles sejam retirados da pausa, porque as nossas APIs rejeitarão as solicitações.
 
 A classificação de qualidade do modelo também será definida para um valor baseado no feedback mais recente.
@@ -105,6 +115,7 @@ A classificação de qualidade do modelo também será definida para um valor ba
 Assim como as notificações de pausa, enviaremos notificações pelo Gerenciador do WhatsApp, por email e webhook quando o status do modelo for definido como **Ativo**.
 
 ## Apelações
+
 Caso o envio seja rejeitado, você poderá fazer uma apelação. Vale lembrar que as apelações devem [incluir um exemplo](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#samples) . Se um modelo aprovado for desativado, você também poderá [editá-lo](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing)  e reenviá-lo para aprovação.
 
 No **Gerenciador do WhatsApp**:
@@ -119,6 +130,7 @@ No **Gerenciador do WhatsApp**:
 A META analisa e toma uma decisão dentro de 24 horas.
 
 ## Saiba mais
+
 - [Política do WhatsApp Business](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fbusiness-policy%2F%3Ffbclid%3DIwAR1jLRqG2MmfXVpoC8OxG2zTl5Ub96hEm-Kq7ucQ9K5dNB8GDFaAupD530Q&h=AT36YeReOstrqxnKTzgq1y-r_1Ob87yrZtjfdejYpzyb5x_-O76Lptsh-I9eddFQhs7ijenYsMuyS_j5f0REQZ8IdJoL5vKaphzynwgfAav-DtNlcnC-iWBZN3KyVY4gdLKezYRLheBfFcg_nzrPaA) : saiba mais sobre as políticas para empresas.
 - [Política Comercial do WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.whatsapp.com%2Flegal%2Fcommerce-policy%2F%3Ffbclid%3DIwAR3hJYolZAcjC0qlRoD3yAnxxDqcFfZWC9ckfMsownlLmmTNMmCWUBRBEwQ&h=AT3ol3uyDf5Ojn8nJYc5KRBV8cDeo5UiTAfDQM1B_ZIamZ39CjEoG9RO6inUQKNKrCX7wbtZUJ7bJjmDA4KIBzJ6ZJ1E841-mDihwVik4agXMDieprqwFgWo8ebGSwPgj-g3htULojJjNADBqzQMlw) : saiba mais sobre as políticas comerciais.
 - [Aplicação das Políticas](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement/) : saiba mais sobre como aplicamos as políticas

@@ -45,9 +45,9 @@ O envio de mensagens em massa por um canal do Facebook exige que um tópico seja
 O envio de mensagens por um canal do WhatsApp exige que um template seja usado se você não recebeu uma mensagem de um contato nas últimas 24 horas. A configuração de template para uso no WhatsApp é especialmente importante para a primeira mensagem no seu fluxo. Leia o artigo sobre [disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp)
 
 - **Respostas rápidas**
-Existe a possibilidade de enviar _repostas rápidas_ (botões de texto) para os usuários, assim facilitando a resposta e servindo como uma possibilidade de guia para sua conversa. Atualmente, você pode adicionar até 10 botões de texto por carta.
+Existe a possibilidade de enviar _respostas rápidas_ (botões de texto) para os usuários, assim facilitando a resposta e servindo como uma possibilidade de guia para sua conversa. Atualmente, você pode adicionar até 10 botões de texto por carta.
 
-Fique atento! Nem todos os canais tem suporte para botões de texto. Atualmente os canais que possuem os botões são: Telegram, VTEX Agentic CX Platform Web Chat, Facebook Messenger e WhatsApp.
+Fique atento! Nem todos os canais têm suporte para botões de texto. Atualmente os canais que possuem os botões são: Telegram, VTEX Agentic CX Platform Web Chat, Facebook Messenger e WhatsApp.
 
 - **Arquivos**
 
@@ -119,7 +119,7 @@ Deseja salvar a quantidade de perguntas que um contato fez, mas não deseja atre
 
 Aqui, podemos iniciar novo fluxo para o usuário. Quando o usuário entra em um novo fluxo, o fluxo em que ele estava antes (que agora pode ser chamado de fluxo pai), fica em espera até a conclusão. Enquanto isso, o usuário irá executar o fluxo novo (que agora pode ser chamado de fluxo filho) e no final da execução, retornará para o ponto de onde parou no fluxo pai. Para funcionar, basta escolher o nome do fluxo que deseja entre em opções existentes.
 
-Quando a execução do fluxo filho é encerrada, a carta de enter a flow nos da a oportunidade de duas rotas, sendo assim a única carta de ação que utiliza esse conceito (para entender o conceito de rota, visite o artigo de cartas de decisão). Essas duas rotas possíveis, são baseadas em como o fluxo filho terminou. Caso ele tenha sido completado sem nenhum problema, o fluxo irá tomar a rota de _Completo_ e caso o fluxo filho tenha expirado, o fluxo pai utilizará a rota de _Expirado_.
+Quando a execução do fluxo filho é encerrada, a carta de enter a flow nos dá a oportunidade de duas rotas, sendo assim a única carta de ação que utiliza esse conceito (para entender o conceito de rota, visite o artigo de cartas de decisão). Essas duas rotas possíveis, são baseadas em como o fluxo filho terminou. Caso ele tenha sido completado sem nenhum problema, o fluxo irá tomar a rota de _Completo_ e caso o fluxo filho tenha expirado, o fluxo pai utilizará a rota de _Expirado_.
 
 Enter a flow é uma ótima forma para organizar seus projetos.
 
@@ -127,11 +127,12 @@ Enter a flow é uma ótima forma para organizar seus projetos.
 
 Da mesma forma que podemos mandar uma mensagem para um contato/grupo que não é o atual, nós também podemos começar um novo fluxo.
 Para decidir quem vai ser iniciado pelo fluxo, podemos escolher entre três opções:
+
   1. Definir manualmente os contatos/grupos que serão iniciados no novo fluxo;
   2. Criar uma regra lógica (normalmente baseada em campos de contato) para filtrar os contatos que devem entrar no fluxo;
   3. Criar um novo contato, e esse contato ser iniciado no fluxo;
 
-Depois de decidir sobre essas opções, basta selecionar um fluxo para ser iniciado. Diferentemente do _Entrar em outro fluxo_ _,_ esse card não cria opções de rota, afinal, ele não espera o fim dos fluxos filhos para continuar a execução do fluxo pai.
+Depois de decidir sobre essas opções, basta selecionar um fluxo para ser iniciado. Diferentemente do _Entrar em outro fluxo_, esse card não cria opções de rota, afinal, ele não espera o fim dos fluxos filhos para continuar a execução do fluxo pai.
 
 Essa carta pode ser utilizada para criar campanhas reativas, como notificar um grupo sobre a chegada de um novo integrante.
 
@@ -140,6 +141,7 @@ Essa carta pode ser utilizada para criar campanhas reativas, como notificar um g
 O card nativo para envio de mensagens interativas no WhatsApp possibilita que os usuários utilizem de forma prática as funcionalidades disponíveis no canal, integrando essas opções em seus projetos de maneira simples.
 
 Ele oferece três tipos de mensagens interativas:
+
   1. **Respostas rápidas**: Permite criar até 3 respostas predefinidas que os destinatários podem selecionar rapidamente.
   2. **Lista de opções**: Oferece um menu interativo com até 10 itens, cada um com título e descrição.
   3. **Solicitar localização**: Possibilita solicitar a localização do cliente final, facilitando o atendimento.

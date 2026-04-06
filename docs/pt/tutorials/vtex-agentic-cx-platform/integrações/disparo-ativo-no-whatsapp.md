@@ -22,6 +22,7 @@ O **disparo passivo** ocorre quando o usuário final entra em contato com a empr
 Por outro lado, o **disparo ativo** ocorre quando a empresa toma a iniciativa de iniciar uma conversa com o usuário. Para que o disparo ativo seja realizado, a mensagem a ser enviada precisa passar por um processo de validação guiado pela Meta e, somente após sua pré-aprovação, é possível enviá-la aos usuários. No VTEX Agentic CX Platform, chamamos esse modelo de mensagem de Template Message.
 
 ## Disparando pelo Fluxo de automação
+
 Após a pré-aprovação da Template Message, o fluxo conversacional pode começar a ser construído. O primeiro passo é adicionar o cartão/ card de ""Atualizar Contato"" e escolher a opção ""Channel"" (Canal), pois ela definirá de qual canal será feito o disparo. Nesta etapa, escolha o seu canal do WhatsApp.
 
 O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto basta apenas digitar a seguinte expressão: @(“”). Veja a imagem abaixo:

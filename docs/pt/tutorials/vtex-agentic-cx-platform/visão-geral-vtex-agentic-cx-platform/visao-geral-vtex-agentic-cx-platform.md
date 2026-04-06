@@ -139,7 +139,7 @@ Nessa etapa, você deve inserir as seguintes informações:
 2. Descrição: Uma breve descrição da sua equipe e atividades.
 3. Nome do projeto: O nome que você atribuirá ao seu projeto para diferenciá-lo e organizá-lo.
 
-Após preencher os campos acima, clique em `Avançar` e siga para próxima etapa para criação do seu projeto. Você pode escolher entre criar um agente personalizado ou usar um template. 
+Após preencher os campos acima, clique em `Avançar` e siga para próxima etapa para criação do seu projeto. Você pode escolher entre criar um agente personalizado ou usar um template.
 
 Para começar criando um agente, preencha os campos abaixo:
 

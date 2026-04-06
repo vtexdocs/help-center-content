@@ -22,20 +22,23 @@ O cartão de mensagem do WhatsApp permite utilizar os recursos oferecidos pela M
 A opção de mensagem simples mantém todas as funcionalidades do cartão enviar mensagem, permitindo o upload de mídia, a formatação de texto e a inserção de emojis.
 
 ## Mensagem Interativa
+
 A escolha da mensagem interativa proporciona uma experiência aprimorada, permitindo opções como **respostas rápidas, lista de opções, solicitação de localização e botão de URL**. Essas funcionalidades são essenciais para tornar a comunicação mais engajadora.
 
 ### Respostas rápidas
+
   1. No **cabeçalho**, escolha enviar uma **mídia ou um texto.**
   2. Caso selecione a opção de texto para o cabeçalho, basta escrever no campo ao lado (texto do cabeçalho).
   3. Caso selecione a opção de mídia para o cabeçalho, basta usar sua mídia fazendo upload do seu dispositivo ou colando a URL. **Sua mídia pode ser uma imagem, vídeo, arquivo em pdf ou áudio.**
 
-  1. Preencha os campos com **mensagens pré-definidas** para agilizar as respostas e proporcionar uma experiência mais fluida e eficiente para os usuários. Nesta etapa, você também pode **adicionar uma mensagem de rodap é.**
+  1. Preencha os campos com **mensagens pré-definidas** para agilizar as respostas e proporcionar uma experiência mais fluida e eficiente para os usuários. Nesta etapa, você também pode **adicionar uma mensagem de rodapé.**
 
-Cada campo de respostas rápida têm um **limite de 20 caracteres**, e você pode incluir até 3 opções de texto, de acordo com as regras estabelecidas pela Meta. Além disso, as opções de mensagens rápidas precisam ser diferentes entre si.
+Cada campo de respostas rápidas tem um **limite de 20 caracteres**, e você pode incluir até 3 opções de texto, de acordo com as regras estabelecidas pela Meta. Além disso, as opções de mensagens rápidas precisam ser diferentes entre si.
 
   1. Depois de preencher os campos, clique no botão **Confirmar**. A seguir, veja um exemplo de como a mensagem será exibida no WhatsApp:
 
 ### Lista de opções
+
   1. Em **Interações** selecione a opção **Lista de Opções**. Aqui, você pode configurar até 10 botões com descrição. **Preencha os campos de cabeçalho, corpo e rodapé.**
 
 A diferença entre as Respostas Rápidas e a Lista de Opções é que esta oferece mais variedade. Além disso, você pode definir um título e subtítulo para a lista, outra diferença é que para Lista de Opções **não** é suportado o envio de mídia no cabeçalho.
@@ -50,6 +53,7 @@ A diferença entre as Respostas Rápidas e a Lista de Opções é que esta ofere
   1. Após terminar esta etapa, clique em **Confirmar**. Veja um exemplo de como a mensagem será exibida no WhatsApp:
 
 ### Solicitar localização
+
   1. Ainda em **Interações** é possível solicitar a localização do usuário de forma rápida e prática. Basta apenas selecionar a opção **Solicitar Localização** e preencher o campo de texto (mensagem).
 
 Veja um exemplo de como a mensagem será exibida no WhatsApp:
@@ -57,7 +61,8 @@ Veja um exemplo de como a mensagem será exibida no WhatsApp:
 Este cartão **não substitui** o envio do **template de mensagem.**
 
 ### Cartão de URL
-  1. Ainda em **Interações** você pode adicionar uma **Botão de URL**, isso permite a criação de um botão que direciona para qualquer link de sua escolha. Além disso, essa funcionalidade também oferece a possibilidade de incluir cabeçalhos e rodapés personalizados em texto.
+
+1. Ainda em **Interações** você pode adicionar um **Botão de URL**, isso permite a criação de um botão que direciona para qualquer link de sua escolha. Além disso, essa funcionalidade também oferece a possibilidade de incluir cabeçalhos e rodapés personalizados em texto.
 
 É possível adicionar uma variável na sua URL caso seja necessário.
 
@@ -66,4 +71,3 @@ Veja um exemplo de como a mensagem será exibida no WhatsApp:
 Utilize este cartão **apenas para URN no WhatsApp.**
 
 O cartão **Enviar Mensagem WhatsApp** oferece melhorias que resultam em uma experiência de uso mais fluida e produtiva. Experimente agora e aproveite todos os novos recursos!
-

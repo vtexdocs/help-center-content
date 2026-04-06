@@ -21,7 +21,7 @@ Você pode adicionar mídias à sua mensagem na nossa plataforma. Sejam **imagen
 
 1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**);
 2. **Escolha um fluxo** pré-existente ou crie um novo;
-3. Adicione uma nova carta de ação, clique em **Arquivos** , escolha entre as opções **URL da imagem** , **URL do áudio,** **URL do v ídeo, PDF documento URL** ou **insira a URL** da mídia escolhida;
+3. Adicione uma nova carta de ação, clique em **Arquivos**, escolha entre as opções **URL da imagem**, **URL do áudio**, **URL do vídeo**, **PDF documento URL** ou **insira a URL** da mídia escolhida.
 
 ## Usando um arquivo do seu computador
 

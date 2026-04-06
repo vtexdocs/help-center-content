@@ -19,7 +19,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 O funcionamento da aplicação da Classificação e Resposta Inteligente consiste em receber como entrada uma frase, que será categorizada, e identificar a qual categoria essa entrada pertence de acordo com o contexto do cliente. As categorias são definidas através de Frases de comando, que servem de contexto para identificar e gerar a classificação correta. A partir dos dados de entrada é esperado que o modelo retorne a categoria da frase.
 
-Quando falamos de contexto, leve em consideração que sempre que for usar o Zero Shot, devemos configurar as Frases de Comando. **As frases de comando v ão instruir a inteligência para classificar suas intenções (chamadas de ""Classes"") de acordo com regras definidas por você**.
+Quando falamos de contexto, leve em consideração que sempre que for usar o Zero Shot, devemos configurar as Frases de Comando. **As frases de comando vão instruir a inteligência para classificar suas intenções (chamadas de ""Classes"") de acordo com regras definidas por você**.
 
 ## Na Prática
 
@@ -31,7 +31,7 @@ Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pel
 
 No exemplo abaixo, criamos as intenções e seus devidos contextos para que possamos categorizar e tratar as solicitações do usuário:
 
-Lembre-se, cada categoria deve ter uma Frase de Comando. **As frases de comando v ão instruir a inteligência e você pode usar esses exemplos**:
+Lembre-se, cada categoria deve ter uma Frase de Comando. **As frases de comando vão instruir a inteligência e você pode usar esses exemplos**:
 
 - quando o usuário quer saber quais são as modalidades e os prazos de entrega > Entrega
 - quando o usuário quer saber por que o pedido dele atrasou ou se vai atrasar > Atraso

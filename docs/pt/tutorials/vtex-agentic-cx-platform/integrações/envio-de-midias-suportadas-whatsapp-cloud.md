@@ -59,6 +59,7 @@ POST /v1/media
 Content-Type:
 
 ```
+
 Carregamento de mídia com `cURL`:
 
 ```
@@ -68,6 +69,7 @@ https://:/v1/media \
 -H 'Content-Type: image/jpeg' \ # or other appropriate media type
 --data-binary @
 ```
+
 Em ambos os casos, uma resposta bem-sucedida retorna o campo `id`
 
 ```

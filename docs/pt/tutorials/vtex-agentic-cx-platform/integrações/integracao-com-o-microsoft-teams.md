@@ -86,9 +86,9 @@ No momento, o usuário apenas consegue interagir com o Chatbot através do **Lin
 
 Temos dois passos: **Portal de Desenvolvimento no Microsoft Teams e Microsoft Teams Admin Center**:
 
-• Portal de Desenvolvimento \= https://teams.microsoft.com ou no aplicativo do Teams
+• Portal de Desenvolvimento \= <https://teams.microsoft.com> ou no aplicativo do Teams
 
-• Microsoft Teams Admin Center \= https://admin.teams.microsoft.com/dashboard
+• Microsoft Teams Admin Center \= <https://admin.teams.microsoft.com/dashboard>
 
 #### 4.1 Portal do Desenvolvimento
 
@@ -114,11 +114,11 @@ Preencha o campo **Breve descrição**. Você pode usar o exemplo a seguir: (ex:
 
 • Preencha o campo **Nome do desenvolvedor ou empresa**. Você pode usar o exemplo a seguir ou se preferir usar o nome da sua empresa: (Raízen)
 
-• Preencha o campo **Site**. Você pode usar o exemplo a seguir ou se preferir usar o site da sua empresa: (https://www.raizen.com.br/)
+• Preencha o campo **Site**. Você pode usar o exemplo a seguir ou se preferir usar o site da sua empresa: (<https://www.raizen.com.br/>)
 
-• Preencha o campo **Política de privacidade**. Você pode usar o exemplo a seguir ou se preferir, usar a política da sua empresa: (**ex**: https://raizen.com/sobre-araizen/politicas-e-procedimentos)
+• Preencha o campo **Política de privacidade**. Você pode usar o exemplo a seguir ou se preferir, usar a política da sua empresa: (**ex**: <https://raizen.com/sobre-araizen/politicas-e-procedimentos>)
 
-• Preencha o campo **Termos de uso**. Você pode usar o exemplo a seguir ou se preferir, usar o Termo de uso da sua empresa: (https://raizen.com/sobre-a-raizen/politicas-eprocedimentos)
+• Preencha o campo **Termos de uso**. Você pode usar o exemplo a seguir ou se preferir, usar o Termo de uso da sua empresa: (<https://raizen.com/sobre-a-raizen/politicas-eprocedimentos>)
 
 • Preencha o campo **ID do Aplicativo (cliente)**. Esse campo ID do Aplicativo, deve ser preenchido com o **ID do Aplicativo criado na AZURE**. Com esse ID, o aplicativo do Teams integra com o aplicativo do Azue. A imagem a seguir representa a inserção dessa informação.
 
@@ -154,7 +154,7 @@ Logo em seguida, aparecerá uma mensagem notificando que a **publicação foi en
 
 ### 6. Realizar a aprovação da publicação do App no Teams
 
-Para aprovar a App, acesse: https://admin.teams.microsoft.com/dashboard, em seguida, clique em Teams apps.
+Para aprovar a App, acesse: <https://admin.teams.microsoft.com/dashboard>, em seguida, clique em Teams apps.
 
 Em seguida clique em Manage apps. Após isso, deve-se clicar em Search by name.
 
@@ -169,4 +169,3 @@ Após o procedimento, a informação sobre **pendentes para aprovação** fica z
 Agora o App está disponível para todos os usuários Teams do ambiente do cliente. Para acessar o aplicativo e começar a conversar com o Chatbot, procure o Catálogo de Aplicativos do Microsoft Teams na barra lateral.
 
 Selecione **Feito para sua organização** e clique em **Adicionar**:
-

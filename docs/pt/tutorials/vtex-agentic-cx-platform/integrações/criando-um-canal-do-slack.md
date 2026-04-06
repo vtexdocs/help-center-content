@@ -21,7 +21,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 2. Selecione a opção `From scratch`.
 
-3. Em `Basic Information` acesse a feature de Bots. 
+3. Em `Basic Information` acesse a feature de Bots.
 
 4. Acione o Botão `Review Scopes to Add`, para adicionar os escopos do token do bot necessários para a integração.
 
@@ -54,7 +54,7 @@ Após esses passos o bot poderá interagir nos Channels do workspace do Slack qu
 
 1. Para ativar a permissão de troca de mensagens diretas acesse App Home e marque o check box indicado na imagem.
 
-# Como ativar quick replies/botões no Slack
+## Como ativar quick replies/botões no Slack
 
 No Slack, você precisa habilitar o envio de quick replies. Vá em **Features > Interactivity \& Shortcuts**, e na aba **Interactivity**, adicione a URL que você copiou das configurações do canal no campo **Request URL**. Depois, salve as alterações.
 

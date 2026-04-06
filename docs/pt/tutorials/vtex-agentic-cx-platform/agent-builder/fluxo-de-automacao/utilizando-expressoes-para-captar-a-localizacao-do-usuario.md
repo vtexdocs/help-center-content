@@ -32,13 +32,12 @@ A mensagem recebida pelo canal web sempre começará com: ""Minha Localização 
 Para enviar a localização via telegram, o usuário precisa clicar no botão 📎, selecionar ""Localização"" e depois ""Enviar minha localização atual"".
 Com isso, basta criar uma carta de decisão ""Wait for response"" e salvar o valor. O telegram envia a localização no formato ""latitude, longitude"", não precisando fazer o processo de utilizar a `@(replace)` para remover textos, só separar utilizando `split` como no canal web.
 
-### Canal WhatApp
+### Canal WhatsApp
 
 Para enviar a localização via WhatsApp, o usuário precisa clicar no botão 📎 ou no ➕, selecionar ""Localização"" e depois ""Localização fixa"".
 
 Diferentemente dos outros canais, a localização via WhatsApp não vem como texto, mas sim como anexo, logo, precisamos acessá-la utilizando a variável: `@input.attachments.0`
 
-Essa variável a localização no formato ""geo: latitude, longitude"", logo, precisamos utilizar a expressão `@(replace`) para remover o ""geo:"" e depois utilizar `@(split)` para separar a latitude e longitude como os outros canais.
+Essa variável guarda a localização no formato ""geo: latitude, longitude"", logo, precisamos utilizar a expressão `@(replace)` para remover o ""geo:"" e depois utilizar `@(split)` para separar a latitude e longitude como nos outros canais.
 
 Assim, conseguimos criar um fluxo com suporte para captar a localização do usuário em três canais diferentes, utilizando as expressões e variáveis disponíveis na plataforma.
-

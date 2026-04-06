@@ -19,9 +19,10 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 As variáveis são locais criados para armazenar valores na plataforma, permitindo assim que os dados sejam salvos mesmo após a finalização de um fluxo.
 
-Para utilizar uma variável deve se colocar o `@` e a expressão digitada será substituída pelo real valor da variável, desde que seja criada de forma adequada.
+Para utilizar uma variável, deve-se colocar o `@` e a expressão digitada será substituída pelo real valor da variável, desde que seja criada de forma adequada.
 
 Abaixo, faremos uma lista de como se referenciar a todos os tipos de variáveis existentes no VTEX Agentic CX Platform, sendo eles:
+
   * Contatos e campos de contato
   * Resultados e fluxos
   * Globals

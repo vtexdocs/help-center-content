@@ -39,7 +39,7 @@ Essas são algumas ações que seu agente pode executar:
 - Começar outros fluxos.
 - Editar informações do contato.
 
-Para saber mais sobre as cartas de ação, visite o artigo [Cartas de ação]().
+Para saber mais sobre as cartas de ação, visite o artigo [Cartas de ação](/pt/docs/tutorials/cartas-de-acao).
 
 ### Cartas de Decisão
 
@@ -57,7 +57,7 @@ Essas decisões são tomadas a partir das regras de decisão da carta.
 Alguns exemplos de regras são:
 
 - Verificar existência de palavras específicas em uma resposta/valor.
-- Verificar existência de frases especificas em uma resposta/valor.
+- Verificar existência de frases específicas em uma resposta/valor.
 - Verificar existência de números específicos ou regras numéricas em uma resposta/valor.
 - Verificar existência de uma formatação específica (como data, e-mail, telefone) em uma resposta/valor.
 

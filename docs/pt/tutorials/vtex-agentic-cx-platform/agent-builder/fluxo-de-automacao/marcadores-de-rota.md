@@ -19,10 +19,10 @@ Depois que criamos nossos fluxos, o nosso objetivo e ansiedade vira saber como a
 
 ## Marcadores de rota
 
-Os marcadores de rota são números guias que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Ferramenta bem interessante para identificar qual o caminho está sendo o mais procurado pelos seus usuários, além de sempre ser atualizada em tempo real. Também é possível identificar certos gargalos, como quando uma pergunta segurar um usuário tempo demais no fluxo.
+Os marcadores de rota são números guias que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Ferramenta bem interessante para identificar qual o caminho está sendo o mais procurado pelos seus usuários, além de sempre ser atualizada em tempo real. Também é possível identificar certos gargalos, como quando uma pergunta segura um usuário tempo demais no fluxo.
 
 Ao colocar o cursor em cima de um dos marcadores de rota, você consegue ver quais foram as últimas mensagens recebidas pelas pessoas que passaram por aquele caminho. Além de saber a data de último contato.
 
 A quantidade de contatos únicos que passaram por uma rota específica não é exibida. O que aparece é o número de vezes que os contatos passaram por essa rota. Ou seja, se um mesmo contato seguir pela mesma rota várias vezes, o número exibido aumentará a cada passagem.
 
-Ao alterar uma rota a quantidade interações não é mantida.
+Ao alterar uma rota, a quantidade de interações não é mantida.

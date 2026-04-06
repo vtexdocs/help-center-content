@@ -17,9 +17,9 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 A criação de um fluxo é feita visando conectar um conjunto de ações por completo a fim de obter algum resultado.
 
-As variáveis servem justamente para armazenar os valores e resultados dessas etapas, para persistir os dados. Por exemplo, a opção-*Aguarde por Resposta** abaixo gerará uma variável de fluxo denominada _nome_ como resposta do contato. Além disso, a variável será usada para salvar os dados no campo de contato _Nome_.
+As variáveis servem justamente para armazenar os valores e resultados dessas etapas, para persistir os dados. Por exemplo, a opção **Aguarde por Resposta** abaixo gerará uma variável de fluxo denominada _nome_ como resposta do contato. Além disso, a variável será usada para salvar os dados no campo de contato _Nome_.
 
-Variáveis começam com o símbolo @. Porém, você também pode avançar para as expressões de uso mais complexo, utilizando `@( `. As expressões são modeladas dentro de sintaxes específicas e a sua ideia é tratar dados para manipular as variáveis salvas pela plataforma.
+Variáveis começam com o símbolo @. Porém, você também pode avançar para as expressões de uso mais complexo, utilizando `@(`. As expressões são modeladas dentro de sintaxes específicas e a sua ideia é tratar dados para manipular as variáveis salvas pela plataforma.
 
 Ao usar variáveis de fluxo, também é possível especificar sub-tópicos que você deseja. Veja o exemplo abaixo:
 
@@ -41,7 +41,7 @@ Essa expressão é usada para resgatar valores salvos em campos de contatos padr
 
 ### `@fields`
 
-Essa expressão é usada para resgatar valores salvos em campos de contatos que não são padrões no VTEX Agentic CX Platform, através do cartão Update Contact (Atualizar o Contato). Campos de contato são muito utilizados para armazenar informações gerais sobre o contato, pois essas informações podem ser resgatadas em qualquer fluxo usando a expressão `@fields.`⁣, por exemplo:
+Essa expressão é usada para resgatar valores salvos em campos de contatos que não são padrões no VTEX Agentic CX Platform, através do cartão Update Contact (Atualizar o Contato). Campos de contato são muito utilizados para armazenar informações gerais sobre o contato, pois essas informações podem ser resgatadas em qualquer fluxo usando a expressão `@fields.nome_do_campo`, por exemplo:
 
 - `@fields.idade:`Idade do contato
 - `@fields.email:`Email do contato, caso esteja sendo salvo em campo de contato ao invés de URN

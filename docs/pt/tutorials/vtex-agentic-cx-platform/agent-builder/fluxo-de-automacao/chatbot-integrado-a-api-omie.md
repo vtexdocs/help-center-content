@@ -28,6 +28,7 @@ Lembrando que, para consumir a [API da Omie](https://developer.omie.com.br/) é 
 Para a funcionalidade de envio da **Segunda via de boleto em PDF** usamos o **Módulo Geral** para Credenciamento dos clientes e **Módulo de Finanças** para listagem de lançamentos e boletos.
 
 Para o fornecimento de segunda via de boletos, por questão de segurança da informação, o usuário precisa informar o **CPF ou CNPJ.** Após o usuário informar CPF ou CNPJ, consultamos o recurso [ListarClientes](https://app.omie.com.br/api/v1/geral/clientes/#ListarClientes) para verificar o cadastro do cliente ou fornecedor para prosseguir com a confirmação dos dados. A confirmação dos dados pode ser feita de 2 formas:
+
   * **4 últimos dígitos do Telefone cadastrado na Omie**
   * **Email cadastrado na Omie**
 
@@ -43,4 +44,3 @@ A captura de leads do chatbot é usada para não clientes e você pode personali
 Para criar o contato desse lead no módulo de CRM usamos o recurso [IncluirContato](https://app.omie.com.br/api/v1/crm/contatos/#IncluirContato). Para criar uma oportunidade e associar a este contato, usamos o recurso [IncluirOportunidade](https://app.omie.com.br/api/v1/crm/oportunidades/#IncluirOportunidade). É importante ressaltar que nosso chatbot template cria oportunidades associando a um vendedor, uma conta, origem e solução.
 
 🤩 Tem interesse nessa solução para o seu negócio? Entre em contato com nossa equipe comercial e solicite uma demonstração.
-

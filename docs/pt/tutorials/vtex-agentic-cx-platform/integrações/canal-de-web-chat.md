@@ -30,4 +30,3 @@ Se você tem um site e gostaria de integrar seu bot nele, a solução é o nosso
 **Aparência**: Permite carregar um CSS personalizado, uma imagem do bot e ajustar a paleta de cores.
 
 Após finalizar a personalização do seu Web Chat, clique no botão **Salvar mudanças** para guardar as modificações e gerar o código script.- **Código Script**: Depois de salvar as informações, será gerado um código script que você deverá inserir em seu site.
-
