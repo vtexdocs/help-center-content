@@ -27,7 +27,7 @@ The prices module architecture is organized based on **three fundamental concept
 
 These may be:
 
-- a **trade policy**
+- a **sales channel**
 - a group of your store's **authenticated customers**
 - your store's **traffic origin** (UTMs)
 - **benefit conditions**
@@ -61,10 +61,10 @@ The pricing module takes these 4 criteria into account when calculating a price 
 
 ## Validating a computed price
 
-To check an SKU's sales price for a specific price table, you can query the **computed price value** in the **Price List** section in admin. In the example below, we can see that the computed price for **SKU 14** in **trade policy table 1** is equal to **334,62**:
+To check an SKU's sales price for a specific price table, you can query the **computed price value** in the **Price List** section in admin. In the example below, we can see that the computed price for **SKU 14** in **sales channel table 1** is equal to **334,62**:
 ![computed-price-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/prices-101/pricing-system-architecture_6.png)
 
-You can also check an SKU's computed price in a price table by **making an API request**. To achieve this, you'll need to send a **GET** to the [Get Computed Price by price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-) call.
+You can also check an SKU's computed price in a price table by **making an API request**. To achieve this, you'll need to send a **GET** to the [Get Computed Price by price table or sales channel](https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-) call.
 
 This request returns an SKU's `sellingPrice` from price table `1`. **This is the information that *Pricing* shows as *the SKU's selling price***. 
 

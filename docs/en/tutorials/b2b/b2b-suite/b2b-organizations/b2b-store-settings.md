@@ -17,7 +17,7 @@ subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 
 > ⚠️ This documentation applies to B2B Suite only.
 
-This page allows defining the behavior of B2B stores related to organization approval, user experience during navigation between companies, and linked trade policies.
+This page allows defining the behavior of B2B stores related to organization approval, user experience during navigation between companies, and linked sales channels.
 
 To access the settings of your B2B store, follow the steps below:
 
@@ -27,8 +27,8 @@ To access the settings of your B2B store, follow the steps below:
 On this page, you can do the following:
 
 - Set approval for new organizations
-- Link trade policies to the store
-- Remove trade policies from the store
+- Link sales channels to the store
+- Remove sales channels from the store
 
 ## Setting approval for new organizations
 - Auto approve new organizations: When enabled, all newly created organizations will be approved automatically.
@@ -53,20 +53,20 @@ After configuring organization approval, customize the topbar shown to buyers.
 
 After making changes in the above sections, click Save in the top right corner of the page to apply them correctly.
 
-## Linking trade policies to the store
-This section allows linking the store to specific [trade policies](/en/docs/tutorials/how-trade-policies-work).
+## Linking sales channels to the store
+This section allows linking the store to specific [sales channels](/en/docs/tutorials/how-trade-policies-work).
 
-To link a trade policy, follow the steps below:
+To link a sales channel, follow the steps below:
 
 - On the **Settings** tab, go to the **Bindings** section.
-- In the **Available bindings**, check the box of the desired trade policy.
+- In the **Available bindings**, check the box of the desired sales channel.
 - Click `Add to binding` to move the policy to the Selected bindings list.
 
-## Removing trade policies from the store
-To unlink a trade policy from the store, follow the steps below:
+## Removing sales channels from the store
+To unlink a sales channel from the store, follow the steps below:
 
 1. On the **Settings** tab, go to the **Selected bindings** section.
-2. Check the box of the trade policy you want to remove.
+2. Check the box of the sales channel you want to remove.
 3. Click **Remove from binding** to remove it from the list.
 
-After adding or removing trade policies, click Save in the top right corner of the page to apply the changes.
+After adding or removing sales channels, click Save in the top right corner of the page to apply the changes.

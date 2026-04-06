@@ -123,7 +123,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Legacy CMS Portal</td>
-      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the trade policy and the configured conditional rule.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the sales channel and the configured conditional rule.</td>
     </tr>
   </tbody>
   </table>
@@ -134,7 +134,7 @@ Regardless of the request type, the ticket to VTEX Support must have the followi
 - If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or Legacy CMS Portal.
 - URL to be pointed to.
 - Time for internal pointing to be carried out, between 9 a.m. and 5 p.m. UTC-3.
-- Indicate if the store has conditional rules for [trade policies](/en/docs/tutorials/creating-a-trade-policy).
+- Indicate if the store has conditional rules for [sales channels](/en/docs/tutorials/creating-a-trade-policy).
 - If you are migrating a live site to VTEX, indicate whether it uses Cloudfront.
 
 > ⚠️ After receiving confirmation of the internal pointing, you are required to complete the standard DNS pointing within five days. Otherwise, the internal pointing will be deleted, and you must submit a new request.

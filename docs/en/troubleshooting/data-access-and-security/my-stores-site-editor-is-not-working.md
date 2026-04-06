@@ -78,7 +78,7 @@ Something went wrong. Please try again.
 To solve this error, see the following instructions:
 
 1. [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).
-2. [Check if the trade policy is configured in the catalog](#checking-if-the-trade-policy-is-configured-in-the-catalog)
+2. [Check if the sales channel is configured in the catalog](#checking-if-the-trade-policy-is-configured-in-the-catalog)
 3. [Check the domain's main locale](#checking-the-domain's-main-locale)
 
 ### Checking if the user role has the necessary permissions
@@ -114,17 +114,17 @@ Another possible reason for this error is related to the locale set for the acco
 
     ![graphql-default-locale-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_3.png)
 
-6. Now, go to **Store Settings > Channels > Trade Policies**.
-7. On the **Trade Policies** page, select the trade policy associated with your account and check the **Locale** field.
+6. Now, go to **Store Settings > Channels > Sales Channels**.
+7. On the **Sales Channels** page, select the sales channel associated with your account and check the **Locale** field.
 
     ![Site Editor - Locale EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/my-stores-site-editor-is-not-working_4.png)
 
   The locale is considered incorrect in the following cases:
     - The locale is different from the one the account should use. For example, the locale is set as `pt-BR`, but the account should be `pt-PT`.
     - The locale is in lowercase. Since this configuration is case-sensitive, you must set the locale as `pt-BR` instead of `pt-br`.
-    - The locality configured in the trade policy is different from the `defaultLocale` identified.
+    - The locality configured in the sales channel is different from the `defaultLocale` identified.
 
-8. In both cases, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to request a change in the locale set for the trade policy. Remember to include evidence of the error, such as screenshots, message logs, and details of your prior investigation.
+8. In both cases, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) to request a change in the locale set for the sales channel. Remember to include evidence of the error, such as screenshots, message logs, and details of your prior investigation.
 
 ## I lost content stored in Site Editor
 

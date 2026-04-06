@@ -136,7 +136,7 @@ You can use the filters under **Channel** to sort by sales channels and other as
 You can find the desired filter option by using the search bar or by clicking the dropdown <i class="fas fa-angle-down"></i> next to the following options:
 
 * **Seller:** Displays the [seller ID](/en/docs/tutorials/adding-a-seller) in your store and filters by the seller fulfilling the order. 
-* **Trade policy:** Displays your store's [trade policies](/en/docs/tutorials/how-trade-policies-work) and filters by the one used in the order.
+* **Sales channel:** Displays your store's [sales channels](/en/docs/tutorials/how-trade-policies-work) and filters by the one used in the order.
 * **Campaign:** Displays your store's [campaign target audiences](/en/docs/tutorials/campaign-audiences) and filters by a promotion's target audience.
 * **Call center operator:** Displays your store's [call center](/en/docs/tutorials/telesales-features) operators.
 * **UTM source:** Displays [UTM source](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) options configured in your store. UTM (Urchin Tracking Modules) are URL parameters commonly used in marketing and promotional contexts to track traffic to a website.
@@ -178,7 +178,7 @@ Click `Filters` to use these filters and select **Other**. You can find the opti
     * Connector NSU (Brazil)
 * **Payment type:** Displays the [payment methods](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) configured in your store. 
 * **Promotions:** Displays the promotions added to your store.
-* **Currency:** Displays the currencies configured in the [trade policy](/en/docs/tutorials/how-trade-policies-work) and that have been used in orders. 
+* **Currency:** Displays the currencies configured in the [sales channel](/en/docs/tutorials/how-trade-policies-work) and that have been used in orders. 
 * **Hostname:** Displays your [account name](/en/docs/tutorials/what-is-an-account-name), which is your company ID in the VTEX system. 
 * **B2B:** Select `true` to filter by orders from [B2B](/en/docs/tutorials/b2b-overview) stores or `false` for orders from other business models. 
 * **inStore:** Select `true` to filter by orders made using [inStore](/en/docs/tracks/what-is-vtex-sales-app) or `false` for non-inStore orders. 

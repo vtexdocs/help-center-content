@@ -29,7 +29,7 @@ The simulator can also be used to validate the **[Shipping Strategy](/en/docs/tu
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.  
  2. Click on `Shipping simulator`.
  3. Select your `Country`.  
- 4. Select the desired `Trade Policy`.
+ 4. Select the desired `Sales Channel`.
  5. Select the `product` by name or ID.  
  6. Select the SKU `quantity`.  
  7. Fill in the `Price`. This field is optional.

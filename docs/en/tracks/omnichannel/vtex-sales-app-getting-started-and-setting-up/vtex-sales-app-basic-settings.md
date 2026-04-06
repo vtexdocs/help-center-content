@@ -80,7 +80,7 @@ After basic settings, configure your payment options in the **Payments** module.
 
 ## Linking the store product catalog to the storefront
 
-For the physical store catalog to be reflected in **VTEX Sales App**, you need to configure the [binding](/en/docs/tutorials/what-is-binding) in the CMS (Layout - [Legacy CMS](/en/docs/tracks/legacy-cms-portal)). This configuration links the [trade policy](/en/docs/tutorials/how-trade-policies-work) to the storefront, ensuring that products will be displayed correctly.
+For the physical store catalog to be reflected in **VTEX Sales App**, you need to configure the [binding](/en/docs/tutorials/what-is-binding) in the CMS (Layout - [Legacy CMS](/en/docs/tracks/legacy-cms-portal)). This configuration links the [sales channel](/en/docs/tutorials/how-trade-policies-work) to the storefront, ensuring that products will be displayed correctly.
 
 To configure the binding and ensure the store catalog is displayed in **VTEX Sales App**, follow the steps below:
 
@@ -88,10 +88,10 @@ To configure the binding and ensure the store catalog is displayed in **VTEX Sal
 2. Click **CMS** and select **Sites and channels**.
 3. Select the desired website from the list.
 4. In the **Links** section, click the corresponding binding row and then click `Update`.
-5. In the **Available Sales Channels** section, select the trade policy you want to link to the binding.
+5. In the **Available Sales Channels** section, select the sales channel you want to link to the binding.
 6. Click `Save Binding`.
 
-> ⚠️ Make sure the trade policy is correctly configured in your VTEX Admin before linking it to the binding. This configuration is essential to ensure the store catalog displays correctly in **VTEX Sales App**.
+> ⚠️ Make sure the sales channel is correctly configured in your VTEX Admin before linking it to the binding. This configuration is essential to ensure the store catalog displays correctly in **VTEX Sales App**.
 
 ## Configuring logistics
 

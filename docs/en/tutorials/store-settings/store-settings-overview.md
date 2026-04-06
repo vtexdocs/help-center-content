@@ -66,7 +66,7 @@ The Storefront section includes settings for your store’s interface with end-c
 ## Channels
 The Channels section includes the Sales Channels page, where you set up catalog, pricing, promotions, logistics, customer segmentation, and payment conditions for different sales strategies. It is also where you set up your XML’s integrations. This section includes the following pages, that are coming soon in the Admin v4 design:
 
-- [Sales Channels](/en/docs/tutorials/how-trade-policies-work) (previously called "trade policies" in VTEX)    
+- [Sales Channels](/en/docs/tutorials/how-trade-policies-work) (previously called "sales channels" in VTEX)    
 - [XML Integration](/en/docs/tutorials/configuring-xml)
 
 ## Intelligent Search

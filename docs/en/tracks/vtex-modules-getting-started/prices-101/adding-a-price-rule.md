@@ -26,7 +26,7 @@ Follow the steps below to add a price rule to your store:
 
 1. In the VTEX Admin, go to **Prices > Price rules**, or type **Price rules** in the search bar at the top of the page.
 2. Click on the green **New Rule** button.
-3. In the first step, **What is the general data of this rule?**, select a trade policy from the *dropdown menu*.
+3. In the first step, **What is the general data of this rule?**, select a sales channel from the *dropdown menu*.
 4. In the second step, **What items will this rule apply to?**, choose whether the rule will apply to *all products* or *only to chosen categories and brands*. If you select the second option, you should also choose the **Categories** and/or desired **Brands**.
 5. In the third step, **Apply rule to items within a markup range?**, switch the *toggle* to yes to make use of the markup range. Type in the markup's minimum percentage in the **From** field and its max percentage in the **up to** field to select items within this range.
 6. In the next step, **Select timeframe to apply this rule in?**, switching the *toggle* to yes will allow you to use this criteria. Choose the **Start Date**, **Start Hour**, **End Date** and the **End Hour** to define the period in which this rule will be applied.

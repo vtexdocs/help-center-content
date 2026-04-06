@@ -38,7 +38,7 @@ If you have [multi-domain integration settings](/en/tutorial/creating-multi-stor
 
 If you are migrating an account, we will take advantage of the affiliate already used for the old integration and we'll start using it in this integration.
 
-&bull; __Trade policy\*:__ The trade policy ID that will be used for integrating with Magazine Luiza. It is the products of this trade policy that will be sent to the marketplace.
+&bull; __Sales channel\*:__ The sales channel ID that will be used for integrating with Magazine Luiza. It is the products of this sales channel that will be sent to the marketplace.
 
 &bull; __Percentual of tolerance in the divergence of the order value\*:__ it's the acceptance rate of the difference in an order value. Any order that has a difference between the marketplace's selling price and the price determined by the seller [will be compared to this value](/en/docs/tutorials/my-order-was-closed-with-the-wrong-price). If the divergence, in percent, is less than the value defined in this field, the order will be integrated normally. Otherwise, the order will not be integrated and you will be able to see it in the [orders tab (within the integrations section in Admin)](/en/docs/tutorials/checking-integrations-in-bridge).
 
