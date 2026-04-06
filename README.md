@@ -106,7 +106,7 @@ The existing values and their context are:
 | **Admin**              | **Admin**              | **Admin**              | VTEX Admin.                                                   |
 | **Checkout**           | **Checkout**           | **Checkout**           | Validation, reCAPTCHA, cart functionality.                    |
 | **Catalog**            | **Catálogo**          | **Catálogo**          | Products, categories, SKUs, specifications.                   |
-| **Payments**           | **Pagamentos**         | **Pagos**              | Gateway, Payment Provider Protocol, payment methods.          |
+| **Payments**           | **Pagamentos**         | **Pagos**              | Gateway, Payment Provider Protocol, payment methods, Billing.          |
 | **Orders**             | **Pedidos**            | **Pedidos**            | Order Management System (OMS), order processing.              |
 | **Promotions**         | **Promoções**        | **Promociones**        | Discounts, coupons, campaigns, pricing rules.                 |
 | **Prices**             | **Preços**            | **Precios**            | Price tables, fixed prices, computed prices, price rules.     |
