@@ -129,7 +129,7 @@ Punchout enables integration with external procurement systems, allowing procure
 
 This capability supports organizations that use centralized procurement software and need their supplier storefronts integrated into existing purchasing workflows.
 
-> ℹ️ This feature is supported exclusively through the [Punchout API](https://developers.vtex.com/docs/api-reference/punchout-api#overview).
+> ℹ️ This feature is supported exclusively through the [Punchout API](https://developers.vtex.com/docs/api-reference/punchout-api#overview). Learn more with [Punchout integration guide](https://developers.vtex.com/docs/guides/punchout)
 
 ## Learn more
 
