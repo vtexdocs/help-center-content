@@ -36778,7 +36778,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating a trade policy",
+                    "en": "Creating a sales channel (trade policy)",
                     "es": "Crear una política comercial",
                     "pt": "Criar uma política comercial"
                   },
@@ -47373,6 +47373,21 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Race condition with GET OrderForm when user is authenticated and email is null",
+                "es": "Condición de carrera con GET OrderForm cuando el usuario está autenticado y el correo electrónico es nulo",
+                "pt": "Condição de corrida com GET OrderForm quando o usuário está autenticado e o e-mail é nulo"
+              },
+              "slug": {
+                "en": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+                "es": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+                "pt": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo"
               },
               "origin": "",
               "type": "markdown",
@@ -66147,6 +66162,21 @@
                 "en": "comment-vtexcrm-field-is-not-showing-its-content",
                 "es": "el-campo-vtexcrm-no-muestra-su-contenido",
                 "pt": "comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CRM UI relationship field search fails when related field is Auto Increment",
+                "es": "La búsqueda en el campo de relación de la interfaz de usuario de CRM falla cuando el campo relacionado es de autoincremento",
+                "pt": "A pesquisa no campo de relação da interface do usuário do CRM falha quando o campo relacionado é de incremento automático"
+              },
+              "slug": {
+                "en": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+                "es": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+                "pt": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico"
               },
               "origin": "",
               "type": "markdown",
