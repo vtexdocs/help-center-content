@@ -4,7 +4,7 @@ createdAt: '2025-03-09T10:00:00.000Z'
 updatedAt: '2025-03-26T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: conta-da-organizacao
+slugEN: organization-account
 locale: pt
 ---
 
