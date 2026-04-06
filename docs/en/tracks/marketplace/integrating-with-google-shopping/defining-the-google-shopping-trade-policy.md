@@ -15,7 +15,7 @@ trackSlugEN: integrating-with-google-shopping
 order: 3
 ---
 
-After creating your Google Merchant Center account, define the [trade policy](/en/docs/tutorials/creating-a-trade-policy) that you are going to use. When you [configure a trade policy for a marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace/), you determine which products will be submitted to Google Shopping and their price on the platform.
+After creating your Google Merchant Center account, define the [trade policy](/en/docs/tutorials/creating-a-trade-policy) that you are going to use. When you [configure a trade policy for a marketplace](/en/docs/tutorials/configuring-a-marketplace-trade-policy), you determine which products will be submitted to Google Shopping and their price on the platform.
 
 In most cases, we recommend choosing the main trade policy (ID: 1), as Google Shopping results direct buyers to purchase from advertisers’ stores. Therefore, the integration will submit all the products available in your store to Google at the same advertised prices.
 

@@ -15,7 +15,7 @@ trackSlugEN: facebook-integration
 order: 3
 ---
 
-After creating your Business Manager account, the next step to configure the Facebook integration is defining which [trade policy](/en/docs/tutorials/how-trade-policies-work) will be used. When [configuring a marketplace trade policy](/en/tutorial/configurando-a-politica-comercial-para-marketplace/), you can determine which products will be submitted to Facebook and what their price will be on the platform.
+After creating your Business Manager account, the next step to configure the Facebook integration is defining which [trade policy](/en/docs/tutorials/how-trade-policies-work) will be used. When [configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy), you can determine which products will be submitted to Facebook and what their price will be on the platform.
 
 The same trade policy can be applied to your VTEX store and one or more marketplaces. You will need to request a new trade policy for a marketplace if you want to:
 

@@ -23,13 +23,13 @@ The received SKUs page allows the marketplace to view, prioritize, and catalog t
 
 Cataloging can be done using [one or more matchers](/en/docs/tutorials/understanding-vtex-matcher-scoring), both manually and automatically. There is also the possibility to use external tools to do it.
 
-# Prioritizing cataloging 
+## Prioritizing cataloging 
 
 The list of received SKUs was designed to prioritize and speed up the cataloging of these items.
 
 Here are some of the features that help in this process:
 
-## Filters
+### Filters
 
 In the search feature, you can combine different filters to make the display of SKUs more accurate. Try filtering SKUs by brand, seller, or subcategory to create custom views.
 
@@ -37,19 +37,19 @@ For example, if you select the "ABC" brand and the "socks" subcategory, all SKUs
 
 It is worth noting that the filter options are given based on the SKUs that are available in the list. For example, if the marketplace is connected to sellers A, B, and C but there are only SKUs of sellers B and C pending in cataloging, the selection of filters will only display the results of sellers B and C.
 
-## Ordering
+### Ordering
 
 By default, the most recent items are shown first, but you can also sort them by price or inventory.
 
 In this case, the items in the table will be sorted in ascending or descending order by clicking on "Price" or "Inventory" in the header.
 
-# Cataloging items
+## Cataloging items
 
 Any SKU in the list is available to be cataloged. However, we recommend mapping categories and brands before cataloging in order to make the process faster.
 
 Remember that suggestions pending approval are available for 30 days and will expire automatically after this period.
 
-## Cataloging options
+### Cataloging options
 
 In the list, click on the button with three dots and choose one of the following options:
 
@@ -75,7 +75,7 @@ In this case, you’ll need to indicate the ID of the existing product to proper
 
 - **Automatic Approval:** you can also configure automatic SKU approval for a specific seller, regardless of its Matcher score. This can only be done through Rest API. To learn more, see our documentation about [Received SKU Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/getautoapprovevaluefromconfig).
 
-## Cataloging in bulk
+### Cataloging in bulk
 
 The marketplace also has the option to catalog SKUs in bulk directly from the list:  
 

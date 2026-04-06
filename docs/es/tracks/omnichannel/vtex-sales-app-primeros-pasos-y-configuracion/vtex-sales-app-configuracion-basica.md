@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-**VTEX Sales App** es uno de los principales productos de VTEX para las operaciones de [comercio unificado](https://help.vtex.com/es/docs/tracks/comercio-unificado-101). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
+**VTEX Sales App** es uno de los principales productos de VTEX para las operaciones de [comercio unificado](/es/docs/tracks/comercio-unificado-101). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
 
 > ℹ️ Antes de comenzar, verifica que tu tienda cumpla con todos los [requisitos para utilizar VTEX Sales App](https://help.vtex.com/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app).
 
@@ -95,4 +95,4 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 
 ## Configurar logística
 
-Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](https://help.vtex.com/es/docs/tracks/comercio-unificado-101) y [Logística](https://help.vtex.com/es/docs/tracks/logistica-primeros-pasos).
+Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/docs/tracks/comercio-unificado-101) y [Logística](https://help.vtex.com/es/docs/tracks/logistica-primeros-pasos).
