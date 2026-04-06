@@ -67,7 +67,7 @@ These and other available roles can be combined to match each user's responsibil
 
 ## Finance and compliance
 
-B2B Buyer Portal provides tools for financial governance and purchasing compliance, allowing organizations to control spending and enforce internal procurement rules.
+**B2B Buyer Portal** provides tools for financial governance and purchasing compliance, allowing organizations to control spending and enforce internal procurement rules.
 
 ### Budgets
 
