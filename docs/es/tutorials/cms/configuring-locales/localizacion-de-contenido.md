@@ -64,7 +64,7 @@ Este comportamiento de resguardo garantiza que el contenido permanezca disponibl
 
 ## Traducción de contenido
 
-Dentro de una entrada, puedes traducir un solo campo o toda la entrada. El contenido se traduce desde la [configuración regional predeterminada](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales) a una o más configuraciones regionales de destino seleccionadas.
+Dentro de una entrada, puedes traducir un solo campo o toda la entrada. El contenido se traduce desde la [configuración regional predeterminada](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales#crear-la-configuracion-regional-predeterminada) a una o más configuraciones regionales de destino seleccionadas.
 
 Al traducir contenido, el sistema utiliza el valor de la configuración regional predeterminada como fuente y genera valores traducidos para las configuraciones regionales elegidas. Puedes seleccionar una o varias configuraciones regionales para la traducción.
 
