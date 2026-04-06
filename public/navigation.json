@@ -17147,8 +17147,8 @@
                   },
                   "slug": {
                     "en": "b2b-buyer-portal",
-                    "es": "",
-                    "pt": ""
+                    "es": "b2b-buyer-portal-es",
+                    "pt": "b2b-buyer-portal-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17352,21 +17352,6 @@
                 },
                 {
                   "name": {
-                    "pt": "Conta da Organização",
-                    "en": "Conta da Organização",
-                    "es": "Conta da Organização"
-                  },
-                  "slug": {
-                    "pt": "conta-da-organizacao",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Contract settings",
                     "es": "Configuraciones del contrato",
                     "pt": "Configurações do contrato"
@@ -17384,12 +17369,12 @@
                   "name": {
                     "en": "Organization account",
                     "es": "Cuenta de la organización",
-                    "pt": "Organization account"
+                    "pt": "Conta da Organização"
                   },
                   "slug": {
                     "en": "organization-account",
                     "es": "cuenta-de-la-organizacion",
-                    "pt": ""
+                    "pt": "conta-da-organizacao"
                   },
                   "origin": "",
                   "type": "markdown",
