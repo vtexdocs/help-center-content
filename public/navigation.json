@@ -13342,7 +13342,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Setting up a trade policy for Mercado Livre",
+                    "en": "3. Setting up a sales channel for Mercado Livre",
                     "es": "3. Configurar política comercial para Mercado Libre",
                     "pt": "3. Configurar política comercial para o Mercado Livre"
                   },
@@ -13523,7 +13523,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining Magazine Luiza trade policy",
+                    "en": "3. Defining Magazine Luiza sales channel",
                     "es": "3. Definir la política comercial para Magazine Luiza",
                     "pt": "3. Definição da política comercial para Magazine Luiza"
                   },
@@ -13659,7 +13659,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Setting up a trade policy",
+                    "en": "3. Setting up a sales channel",
                     "es": "3. Configurar la política comercial",
                     "pt": "3. Configurar política comercial"
                   },
@@ -13765,7 +13765,7 @@
                 },
                 {
                   "name": {
-                    "en": "2. Defining Centauro trade policy",
+                    "en": "2. Defining Centauro sales channel",
                     "es": "2. Definir la política comercial para Centauro",
                     "pt": "2. Definição da política comercial para Centauro"
                   },
@@ -13947,7 +13947,7 @@
                 },
                 {
                   "name": {
-                    "en": "2. Setting up a marketplace trade policy",
+                    "en": "2. Setting up a marketplace sales channel",
                     "es": "2. Configurar la política comercial para marketplace",
                     "pt": "2. Configurar política comercial para marketplace"
                   },
@@ -14083,7 +14083,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Setting up a trade policy",
+                    "en": "3. Setting up a sales channel",
                     "es": "3. Configurar la política comercial",
                     "pt": "3. Configurar política comercial"
                   },
@@ -14219,7 +14219,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining Dafiti trade policy",
+                    "en": "3. Defining Dafiti sales channel",
                     "es": "3. Definición de la política comercial de Dafiti",
                     "pt": "3. Definição da política comercial para Dafiti"
                   },
@@ -14401,7 +14401,7 @@
                 },
                 {
                   "name": {
-                    "en": "2. Defining Netshoes trade policy",
+                    "en": "2. Defining Netshoes sales channel",
                     "es": "2. Definir la política comercial para Netshoes",
                     "pt": "2. Definição da política comercial para Netshoes"
                   },
@@ -14491,7 +14491,7 @@
                 },
                 {
                   "name": {
-                    "en": "8. Setting up a marketplace trade policy",
+                    "en": "8. Setting up a marketplace sales channel",
                     "es": "8. Configurar la política comercial para marketplace",
                     "pt": "8. Configurar política comercial para marketplace"
                   },
@@ -14749,7 +14749,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining the trade policy",
+                    "en": "3. Defining the sales channel",
                     "es": "3. Definir la política comercial",
                     "pt": "3. Definição da política comercial"
                   },
@@ -15098,7 +15098,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining a trade policy",
+                    "en": "3. Defining a sales channel",
                     "es": "3. Definir la política comercial",
                     "pt": "3. Definição da política comercial"
                   },
@@ -19586,7 +19586,7 @@
                 },
                 {
                   "name": {
-                    "en": "Associate a SKU to a trade policy",
+                    "en": "Associate a SKU to a sales channel",
                     "es": "Asociación de SKU a una política comercial",
                     "pt": "Associação de SKU à Política Comercial"
                   },
@@ -25261,7 +25261,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to limit access to the store using a trade policy",
+                    "en": "How to limit access to the store using a sales channel",
                     "es": "Limitar acceso a la tienda por política comercial",
                     "pt": "Limitar acesso à loja pela política comercial"
                   },
@@ -36488,7 +36488,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring a marketplace trade policy",
+                    "en": "Configuring a marketplace sales channel",
                     "es": "Configurar política comercial para marketplace",
                     "pt": "Configurar política comercial para marketplace"
                   },
@@ -36534,7 +36534,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating a sales channel (trade policy)",
+                    "en": "Creating a sales channel (sales channel)",
                     "es": "Crear una política comercial",
                     "pt": "Criar uma política comercial"
                   },
@@ -36564,7 +36564,7 @@
                 },
                 {
                   "name": {
-                    "en": "How trade policies work",
+                    "en": "How sales channels work",
                     "es": "Como funciona una Política Comercial",
                     "pt": "Como funciona uma Política Comercial"
                   },
@@ -36579,7 +36579,7 @@
                 },
                 {
                   "name": {
-                    "en": "Requesting an additional trade policy",
+                    "en": "Requesting an additional sales channel",
                     "es": "Contratación de políticas comerciales adicionales",
                     "pt": "Contratação de política comercial adicional"
                   },
