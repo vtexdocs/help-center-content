@@ -8,7 +8,7 @@ locale: es
 slugEN: scopes-overview
 ---
 
-> ⚠️ Esta funcionalidad es exclusiva para tiendas que usan B2B Buyer Portal, actualmente disponible solo para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad es exclusiva para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente disponible solo para cuentas seleccionadas.
 
 **Scopes** es una funcionalidad de la cuenta de la organización que permite a las empresas B2B restringir los atributos de las **unidades organizativas** (OU). Además, les da control sobre la información que pueden ver y usar los compradores de una unidad de negocio, limitando el acceso de los usuarios solo a lo necesario para realizar sus funciones.
 
