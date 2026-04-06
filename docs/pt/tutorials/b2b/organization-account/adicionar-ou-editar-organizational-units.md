@@ -8,7 +8,7 @@ slugEN: adding-or-editing-organizational-units
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade é exclusiva para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade é exclusiva para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 **Organizational Units** (OU) são unidades organizacionais que permitem às empresas gerenciar sua estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
@@ -51,7 +51,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
     * Username
 3. Selecione os perfis de acesso que deseja atribuir ao usuário.
 
-    > ℹ️ Para mais informações sobre perfis de acesso no **B2B Buyer Portal**, veja o artigo [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
+    > ℹ️ Para mais informações sobre perfis de acesso no **[B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt)**, veja o artigo [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 4. Clique em `Add`.
 
 ## Adicionar organizational unit filha (subordinada)
