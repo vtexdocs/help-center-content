@@ -64,11 +64,11 @@ This fallback behavior ensures that content remains available even when a locali
 
 ## Translating content
 
-Within an entry, you can translate either a single field or the entire entry. Content is translated from the \[default locale\](/tbd) into one or more selected target locales.
+Within an entry, you can translate either a single field or the entire entry. Content is translated from the [default locale](https://help.vtex.com/docs/tutorials/configuring-locales#creating-the-default-locale) into one or more selected target locales.
 
 When translating content, the system uses the value from the default locale as the source and generates translated values for the chosen locales. You can select one or multiple locales for translation.
 
-![trasnlating-content](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-2___2df901d01ba8c54eee7363fb20031e3c.gif)
+![translating-content](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-2___2df901d01ba8c54eee7363fb20031e3c.gif)
 
 ### Overwrite fallback content
 

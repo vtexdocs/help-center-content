@@ -64,7 +64,7 @@ Esse comportamento de fallback garante que o conteúdo permaneça disponível me
 
 ## Tradução de conteúdo
 
-Dentro de uma entrada, você pode traduzir um único campo ou a entrada inteira. O conteúdo é traduzido da [localidade padrão](https://help.vtex.com/pt/docs/tutorials/configurar-localidades) para uma ou mais localidades de destino selecionadas.
+Dentro de uma entrada, você pode traduzir um único campo ou a entrada inteira. O conteúdo é traduzido da [localidade padrão](https://help.vtex.com/pt/docs/tutorials/configurar-localidades#criar-a-localidade-padrao) para uma ou mais localidades de destino selecionadas.
 
 Ao traduzir conteúdo, o sistema usa o valor da localidade padrão como origem e gera valores traduzidos para as localidades escolhidas. Você pode selecionar uma ou várias localidades para tradução.
 
