@@ -118,7 +118,7 @@ Follow the steps below to create a store:
 	- **Store name:** Name that will identify your store.
 	- **Trading name:** Business name of your store.
 	- **Locale:** Preset language associated with this store.
-	- **Trade policy:** [Trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) you want to associate with the new store.
+	- **Sales channel:** [Sales channel](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) you want to associate with the new store.
 5. If you wish to start the [go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
 6. Click the `Create` button.
 

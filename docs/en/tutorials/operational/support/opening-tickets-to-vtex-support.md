@@ -114,7 +114,7 @@ Please check your inbox regularly, including the spam folder. To continue the se
 ## Financial and commercial support
 Financial support assists with issues related to contracts or financial matters for stores and VTEX.
 
-Commercial support helps with requests about trade policies, additional environments, and white-label sellers.
+Commercial support helps with requests about sales channels, additional environments, and white-label sellers.
 
 To request financial or commercial support, follow the steps below and provide the required information.
 
@@ -161,12 +161,12 @@ To request financial support, follow these steps:
 4. Click `Send`.
 
 #### Commercial support
-Commercial support assists the user with requests related to [trade policies](/en/docs/tutorials/how-trade-policies-work),  [additional environments](/en/docs/tutorials/requesting-a-new-environment), [white-label sellers](/en/docs/tutorials/white-label-seller) or [user changes](/en/docs/tutorials/managing-admin-users) with the Sponsor user profile (Master Admin user).
+Commercial support assists the user with requests related to [sales channels](/en/docs/tutorials/how-trade-policies-work),  [additional environments](/en/docs/tutorials/requesting-a-new-environment), [white-label sellers](/en/docs/tutorials/white-label-seller) or [user changes](/en/docs/tutorials/managing-admin-users) with the Sponsor user profile (Master Admin user).
 
 To request this type of support, follow the steps below:
 
 1. In the **What do you need?** field, select the option that best describes the subject of your request:
-   - *New Trade Policy*
+   - *New Sales Channel*
    - *New White Label - Franchise Account*
    - *New Additional Account*
    - *Master Admin Change*
