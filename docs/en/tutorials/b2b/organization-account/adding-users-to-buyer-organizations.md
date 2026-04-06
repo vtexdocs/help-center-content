@@ -74,5 +74,5 @@ The code will be valid for 12 hours. The user will only be able to log in for th
 Unlike other user types, adding a user with permission to make purchases in the store requires other steps beyond creating it and assigning them roles. You also need to add the user as a buyer via API. To enable a user to make purchases in the store, follow the steps below:
 
 1. Add the user to the buyer organization as described in the [instructions](#instructions).
-2. Assign them a role that allows making purchases. See roles and permissions in the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+2. Assign them a role that allows making purchases. See roles and permissions in the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 3. Add the user as a buyer. To learn how to add and manage buyer details, see the [B2B Buyer Data API](https://developers.vtex.com/docs/api-reference/b2b-buyer-data-api).

@@ -69,7 +69,7 @@ The business conditions defined in the contract are inherited by the child units
 
 To understand how contracts are configured and managed, see:
 
-- [B2B contracts](https://help.vtex.com/en/docs/tutorials/contratos-b2b)
+- [B2B contracts](https://help.vtex.com/en/docs/tutorials/b2b-contracts)
 
 ## Organizational unit settings
 
@@ -86,8 +86,8 @@ This segmentation allows aligning store operations with the internal policies of
 For more information, see:
 
 - [Buying Policies](https://help.vtex.com/en/docs/tutorials/buying-policies-overview)
-- [Budgets overview](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets)
-- [Custom checkout fields](https://help.vtex.com/en/docs/tutorials/campos-customizaveis-do-checkout)
+- [Budgets overview](https://help.vtex.com/en/docs/tutorials/budgets-overview)
+- [Custom checkout fields](https://help.vtex.com/en/docs/tutorials/accounting-fields)
 
 ## Organizational unit users
 

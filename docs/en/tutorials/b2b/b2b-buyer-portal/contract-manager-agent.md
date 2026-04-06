@@ -10,7 +10,7 @@ locale: en
 
 > ⚠️ This feature is only available to stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
-**Contract Manager Agent** helps B2B operators manage [contracts](https://help.vtex.com/docs/tutorials/b2b-contracts) using natural language. Instead of manually updating each contract, you can describe what you want to change, review the proposed plan, and execute it directly from the interface.
+**Contract Manager Agent** helps B2B operators manage [contracts](https://help.vtex.com/en/docs/tutorials/b2b-contracts) using natural language. Instead of manually updating each contract, you can describe what you want to change, review the proposed plan, and execute it directly from the interface.
 
 In this guide, you'll learn more about **Contract Manager Agent** in the following sections:
 

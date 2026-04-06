@@ -49,7 +49,7 @@ A página principal da **Conta da Organização** é dividida em três áreas pr
 
 ### Informações do contrato
 
-A seção informações do contrato é indicada pelo nome da [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/organization-units-pt) onde as configurações estão sendo gerenciadas.
+A seção informações do contrato é indicada pelo nome da [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais) onde as configurações estão sendo gerenciadas.
 
 Nessa área é possível acessar:
 
@@ -68,7 +68,7 @@ As opções incluem:
 
 - **Users** — gerenciamento dos [usuários da organização](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 - **Roles** — definição de permissões e funções.
-- **Organizational Units** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/organization-units-pt).
+- **Organizational Units** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 
 ### Finance and Compliance
 
@@ -89,7 +89,7 @@ Ao clicar nesse botão, será exibido um menu com opções para criar diferentes
 - **Add address** — Adicionar um endereço.
 - **Add credit card** — Adicionar um cartão de crédito.
 - **Add user** — Adicionar um usuário à organização.
-- **Add organization unit** — Criar uma nova [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/organization-units-pt).
+- **Add organization unit** — Criar uma nova [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 - **Add budget** — Criar um [orçamento](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets).
 - **Add buying policy** — Criar uma [política de compra](https://help.vtex.com/pt/docs/tutorials/buying-policies).
 
