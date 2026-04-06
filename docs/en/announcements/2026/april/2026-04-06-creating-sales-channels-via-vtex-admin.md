@@ -12,7 +12,7 @@ locale: en
 announcementSynopsisPT: 'Create sales channels directly in the VTEX Admin without opening tickets, providing more autonomy for Owner users.'
 tags:
   - New feature
-  - Promotions
+  - Payments
 ---
 
 You can now create sales channels (formerly trade policies) through the **VTEX Admin**. This allows users with the **Owner (admin)** role to add new policies autonomously, without needing to open a ticket.

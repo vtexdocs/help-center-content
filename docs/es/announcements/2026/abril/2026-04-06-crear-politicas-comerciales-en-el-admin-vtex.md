@@ -1,9 +1,9 @@
 ---
 title: 'Crear políticas comerciales en el Admin VTEX'
 status: PUBLISHED
-createdAt: 2026-02-23T12:00:00.000Z
-updatedAt: 2026-02-23T12:00:00.000Z
-publishedAt: 2026-02-23T12:00:00.000Z
+createdAt: 2026-04-06T12:00:00.000Z
+updatedAt: 2026-04-06T12:00:00.000Z
+publishedAt: 2026-04-06T12:00:00.000Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
@@ -12,7 +12,7 @@ locale: es
 announcementSynopsisPT: 'Creación de políticas comerciales en el Admin, sin necesidad de ticket y con mayor autonomía para usuarios Owner.'
 tags:
   - Nueva funcionalidad
-  - Promociones
+  - Pagos
 ---
 
 Ahora pueden crearse políticas comerciales en el **Admin VTEX**, lo que permite que usuarios con el rol **Owner (admin)** agreguen nuevas políticas de forma autónoma, sin necesidad de abrir un ticket.

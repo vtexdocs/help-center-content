@@ -12,7 +12,7 @@ locale: pt
 announcementSynopsisPT: 'Criação de políticas comerciais diretamente no Admin, sem necessidade de ticket, com mais autonomia para usuários Owner.'
 tags:
   - Nova funcionalidade
-  - Promoções
+  - Pagamentos
 ---
 
 Disponibilizamos a criação de políticas comerciais pelo **Admin VTEX**, permitindo que usuários com o perfil **Owner (admin)** adicionem novas políticas de forma autônoma, sem a necessidade de abrir um ticket.
