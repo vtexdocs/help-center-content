@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "April",
+                "es": "Abril",
+                "pt": "Abril"
+              },
+              "slug": {
+                "en": "2026-april",
+                "es": "2026-abril",
+                "pt": "2026-abril"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Creating sales channels via VTEX Admin",
+                    "es": "Crear políticas comerciales en el Admin VTEX",
+                    "pt": "Criar políticas comerciais pelo Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-04-06-creating-sales-channels-via-vtex-admin",
+                    "es": "2026-04-06-crear-politicas-comerciales-en-el-admin-vtex",
+                    "pt": "2026-04-06-criar-politicas-comerciais-pelo-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "March",
                 "es": "Marzo",
                 "pt": "Março"
