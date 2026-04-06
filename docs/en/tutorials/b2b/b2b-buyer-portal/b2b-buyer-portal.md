@@ -134,5 +134,5 @@ This capability supports organizations that use centralized procurement software
 ## Learn more
 
 - [Adding or editing organizational units](https://help.vtex.com/en/docs/tutorials/adding-or-editing-organizational-units)
-- [Adding users to a buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
+- [Adding users to a buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations)
 - [B2B Buyer Portal integration overview](https://developers.vtex.com/docs/guides/b2b-buyer-portal-integration-overview) (developer documentation)
