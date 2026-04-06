@@ -7,7 +7,7 @@ publishedAt: 2026-04-06T12:00:00.000Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: 2026-04-26-creating-sales-channels-via-vtex-admin
+slugEN: 2026-04-06-creating-sales-channels-via-vtex-admin
 locale: pt
 announcementSynopsisPT: 'Criação de políticas comerciais diretamente no Admin, sem necessidade de ticket, com mais autonomia para usuários Owner.'
 tags:
