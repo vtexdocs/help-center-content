@@ -59,17 +59,17 @@ Os [Scopes](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-scopes) contr
 
 Os [membros](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora) de uma organização compradora recebem perfis de acesso do storefront que definem o que podem ver e fazer na loja. Exemplos de perfis predefinidos incluem:
 
-- **Buyer:** Realiza pedidos.
-- **Order Approver:** Aprova ou rejeita pedidos em fluxos de aprovação.
-- **Organizational Unit Admin:** Gerencia a estrutura, usuários e configurações da unidade.
-- **Budget Manager:** Cria e gerencia budgets e alocações.
-- **Buying Policy Manager:** Configura regras de aprovação de compras.
+- **Buyer:** realiza pedidos.
+- **Order Approver:** aprova ou rejeita pedidos em fluxos de aprovação.
+- **Organizational Unit Admin:** gerencia a estrutura, usuários e configurações da unidade.
+- **Budget Manager:** cria e gerencia budgets e alocações.
+- **Buying Policy Manager:** configura regras de aprovação de compras.
 
 Esses e outros perfis disponíveis podem ser combinados para atender às responsabilidades de cada usuário, criando um modelo de permissões granular para estruturas organizacionais complexas. Para a lista completa, consulte [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 
 ## Finanças e compliance
 
-O **B2B Buyer Portal** oferece ferramentas de governança financeira e conformidade de compras, permitindo que as organizações controlem gastos e apliquem regras internas de aquisição.
+O **B2B Buyer Portal** oferece ferramentas de governança financeira e compliance de compras, permitindo que as organizações controlem gastos e apliquem regras internas de aquisição.
 
 ### Budgets
 
@@ -88,9 +88,9 @@ Durante o checkout, o sistema verifica automaticamente as alocações aplicávei
 
 As [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) são regras de autorização que determinam se os pedidos são automaticamente aprovados, negados ou enviados para revisão manual. As organizações podem configurar:
 
-- **Limites de gastos:** Pedidos acima, abaixo ou iguais a determinados valores podem acionar diferentes requisitos de aprovação.
-- **Fluxos de aprovação:** Até cinco níveis hierárquicos de aprovação, onde a aprovação final requer a autorização de todos os níveis.
-- **Critérios customizados:** Regras de aprovação de pedidos baseadas em budgets, origem do pedido e outros fatores.
+- **Limites de gastos:** pedidos acima, abaixo ou iguais a determinados valores podem acionar diferentes requisitos de aprovação.
+- **Fluxos de aprovação:** até cinco níveis hierárquicos de aprovação, onde a aprovação final requer a autorização de todos os níveis.
+- **Critérios customizados:** regras de aprovação de pedidos baseadas em budgets, origem do pedido e outros fatores.
 
 Essa camada de governança garante que a atividade de compras esteja em conformidade com as políticas internas antes que os pedidos sejam realizados.
 
@@ -100,7 +100,7 @@ Essa camada de governança garante que a atividade de compras esteja em conformi
 
 Os [campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis) capturam informações de negócio adicionais durante o checkout, como centro de custo, número de PO, códigos de projeto ou classificações de despesas. Os campos podem ser aplicados nos níveis de pedido, item ou endereço e configurados como obrigatórios ou opcionais.
 
-As organizações também podem definir valores padrão por Organization Unit para preencher automaticamente campos do checkout, reduzindo a entrada manual e garantindo consistência dos dados nas compras.
+As organizações também podem definir valores padrão por Organizational Unit para preencher automaticamente campos do checkout, reduzindo a entrada manual e garantindo consistência dos dados nas compras.
 
 > ℹ️ Saiba mais sobre configurações em [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis).
 
@@ -124,11 +124,11 @@ Essa interface centralizada permite que as organizações compradoras gerenciem 
 
 ## Punchout
 
-O Punchout permite a integração com sistemas de procurement externos, possibilitando que usuários de compras se autentiquem na loja VTEX e naveguem pelo catálogo diretamente da sua plataforma de procurement. Após selecionar os produtos, os compradores podem transferir o carrinho de volta ao sistema de procurement para aprovação interna.
+O Punchout permite a integração com sistemas externos de procurement, possibilitando que usuários de compras se autentiquem na loja VTEX e naveguem pelo catálogo diretamente da sua plataforma de procurement. Após selecionar os produtos, os compradores podem transferir o carrinho de volta ao sistema de procurement para aprovação interna.
 
 Essa funcionalidade atende organizações que utilizam software de procurement centralizado e precisam que as vitrines de seus fornecedores estejam integradas aos fluxos de compra existentes.
 
-> ℹ️ Essa funcionalidade é suportada exclusivamente pela [Punchout API](https://developers.vtex.com/docs/api-reference/punchout-api#overview).
+> ℹ️ Essa funcionalidade é suportada exclusivamente pela [Punchout API](https://developers.vtex.com/docs/api-reference/punchout-api#overview). Saiba mais com o [Guia de integração de punchout](https://developers.vtex.com/docs/guides/punchout).
 
 ## Saiba mais
 
