@@ -8,7 +8,7 @@ slugEN: organizational-units
 locale: es
 ---
 
-> ⚠️ Esta funcionalidad está disponible solo para tiendas que usan B2B Buyer Portal, y por el momento, únicamente para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad está disponible solo para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), y por el momento, únicamente para cuentas seleccionadas.
 
 En operaciones B2B, el comprador es una empresa y no un consumidor individual. Cada empresa está representada por una organización compradora que mantiene una relación comercial con la tienda.
 

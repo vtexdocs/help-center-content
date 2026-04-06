@@ -12,7 +12,7 @@ This article explains how an **Organization Admin** can create a user as a membe
 
 When a user is added to a buyer organization, they're linked to an organizational unit and are assigned a storefront role that allows them to perform actions in the store.
 
-> ⚠️ This feature is only available to stores using B2B Buyer Portal, which is currently available for selected accounts.
+> ⚠️ This feature is only available to stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 ## Before you begin
 
