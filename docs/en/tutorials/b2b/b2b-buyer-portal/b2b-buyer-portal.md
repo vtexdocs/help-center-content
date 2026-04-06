@@ -45,7 +45,7 @@ To streamline contract management at scale, the [Contract Manager Agent](https:/
 
 ### Organizational units
 
-[Organization units](https://help.vtex.com/en/docs/tutorials/organization-units) represent the subdivisions within a buyer organization, such as departments, regional offices, or subsidiaries. They follow a hierarchical tree model. A root unit represents the organization as a whole, and child units reflect its internal areas.
+[Organization units](https://help.vtex.com/en/docs/tutorials/organizational-units) represent the subdivisions within a buyer organization, such as departments, regional offices, or subsidiaries. They follow a hierarchical tree model. A root unit represents the organization as a whole, and child units reflect its internal areas.
 
 Each unit can have specific configurations for product visibility, payment methods, delivery addresses, accounting fields, and order approval rules, allowing the store to align with the buyer company’s internal policies without requiring multiple contracts or accounts. Unit-specific settings are always subject to the contract conditions.
 
