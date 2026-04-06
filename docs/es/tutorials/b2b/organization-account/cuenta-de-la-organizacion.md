@@ -8,7 +8,7 @@ slugEN: organization-account
 locale: es
 ---
 
-> ⚠️ Esta funcionalidad está disponible solo para tiendas que usan B2B Buyer Portal, y por el momento, únicamente para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad está disponible solo para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), y por el momento, únicamente para cuentas seleccionadas.
 
 La **cuenta de la organización** es la interfaz donde los administradores de organizaciones compradoras gestionan la estructura y las configuraciones de compra utilizadas en una tienda B2B determinada.
 
@@ -21,7 +21,7 @@ Las empresas también pueden configurar elementos que controlan la forma en que 
 - Presupuestos
 - Políticas de compra
 
-Estas configuraciones ayudan a las empresas a establecer gobernanza y reglas internas para compras realizadas en tiendas a través de **B2B Buyer Portal**.
+Estas configuraciones ayudan a las empresas a establecer gobernanza y reglas internas para compras realizadas en tiendas a través de [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es).
 
 Este artículo describe los siguientes elementos:
 

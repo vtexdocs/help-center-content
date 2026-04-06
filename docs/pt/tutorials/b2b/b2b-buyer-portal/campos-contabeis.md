@@ -8,9 +8,9 @@ locale: pt
 slugEN: accounting-fields
 ---
 
-Os **campos contábeis** permitem coletar informações adicionais durante a compra no **B2B Buyer Portal**, como **centro de custo**, **número de pedido interno (PO)** e outros dados de controle. Essas informações ficam associadas ao pedido, ajudando a empresa a padronizar dados, aplicar regras internas e facilitar auditorias.
+Os **campos contábeis** permitem coletar informações adicionais durante a compra no [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), como **centro de custo**, **número de pedido interno (PO)** e outros dados de controle. Essas informações ficam associadas ao pedido, ajudando a empresa a padronizar dados, aplicar regras internas e facilitar auditorias.
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 ## Para que servem os campos contábeis
 

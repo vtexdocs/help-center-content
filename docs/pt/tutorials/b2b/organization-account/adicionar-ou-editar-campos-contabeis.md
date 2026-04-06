@@ -8,7 +8,7 @@ slugEN: adding-or-editing-accounting-fields
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 A funcionalidade Campos contábeis permite padronizar a coleta de informações durante o processo de compra, por meio da adição de campos contábeis de acordo com as regras do seu negócio.
 

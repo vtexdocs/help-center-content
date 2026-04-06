@@ -12,7 +12,7 @@ Este artigo explica como um **Organization Admin** pode criar um usuário membro
 
 O usuário adicionado a uma organização compradora será vinculado a uma Organization Unit e terá um perfil de acesso no storefront que o permitirá executar ações na loja.
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 ## Antes de começar
 

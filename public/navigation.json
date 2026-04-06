@@ -17141,6 +17141,21 @@
                 },
                 {
                   "name": {
+                    "en": "B2B Buyer Portal",
+                    "es": "B2B Buyer Portal",
+                    "pt": "B2B Buyer Portal"
+                  },
+                  "slug": {
+                    "en": "b2b-buyer-portal",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
