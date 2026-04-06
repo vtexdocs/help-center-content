@@ -10,7 +10,7 @@ locale: en
 
 In a B2B buyer organization, members are the people who interact with the store on behalf of the organization. Their actions are defined by roles and permissions assigned to them, as well as by how the organization uses **recipients** and **buyer information**. This article describes the types of members and related concepts to explain the actions different users can perform in your organization.
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to selected accounts.
+> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available to selected accounts.
 
 ## Storefront roles
 

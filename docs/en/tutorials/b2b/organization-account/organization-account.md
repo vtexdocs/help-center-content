@@ -8,7 +8,7 @@ slugEN: organization-account
 locale: en
 ---
 
-> ⚠️ This feature is only available to stores using B2B Buyer Portal, which is currently available for selected accounts.
+> ⚠️ This feature is only available to stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 The **organization account** is the interface where buyer organization admins manage the structure and purchase settings used in a given B2B store.
 
@@ -21,7 +21,7 @@ It also allows companies to configure elements that control how their users make
 - Budgets  
 - Buying Policies  
 
-These settings help companies establish governance and internal rules for purchases made in stores using the **B2B Buyer Portal**.
+These settings help companies establish governance and internal rules for purchases made in stores using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal).
 
 This article covers the following topics:
 

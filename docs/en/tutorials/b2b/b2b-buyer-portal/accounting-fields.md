@@ -8,9 +8,9 @@ locale: en
 slugEN: accounting-fields
 ---
 
-**Accounting fields** allow you to collect additional information from purchases in the **B2B Buyer Portal**, such as **cost center**, **internal purchase order (PO) number**, and other control information. This information is associated with the order, helping the company standardize information, apply internal rules, and facilitate audits.
+**Accounting fields** allow you to collect additional information from purchases in the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), such as **cost center**, **internal purchase order (PO) number**, and other control information. This information is associated with the order, helping the company standardize information, apply internal rules, and facilitate audits.
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to selected accounts.
+> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available to selected accounts.
 
 ## Using accounting fields
 
