@@ -17147,8 +17147,8 @@
                   },
                   "slug": {
                     "en": "b2b-buyer-portal",
-                    "es": "",
-                    "pt": ""
+                    "es": "b2b-buyer-portal-es",
+                    "pt": "b2b-buyer-portal-pt"
                   },
                   "origin": "",
                   "type": "markdown",
