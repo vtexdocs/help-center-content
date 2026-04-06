@@ -66,7 +66,7 @@ The **Organization** section allows you to manage the organizational structure o
 
 The options include:
 
-- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 - **Roles** — Define permissions and roles.
 - **Organizational units** — Create and manage [organizational units](https://help.vtex.com/en/docs/tutorials/organization-units-pt).
 
@@ -76,7 +76,7 @@ The **Finance and compliance** section brings together tools for financial contr
 
 You can manage:
 
-- **Budgets** — [Budget](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets) definition.
+- **Budgets** — [Budget](https://help.vtex.com/en/docs/tutorials/budgets-overview) definition.
 - **Buying policies** — [Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies), rules that control approval, denial, or order review.
 
 ### Adding entities
@@ -90,7 +90,7 @@ By clicking this button, a menu displays with options to create different entiti
 - **Add credit card** — Add a credit card.
 - **Add user** — Add a user to the organization.
 - **Add organizational unit** — Create a new [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units-pt).
-- **Add budget** — Create a [budget](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets).
+- **Add budget** — Create a [budget](https://help.vtex.com/en/docs/tutorials/budgets-overview).
 - **Add buying policy** — Create a [buying policy](https://help.vtex.com/en/docs/tutorials/buying-policies).
 
 ### Back to the store

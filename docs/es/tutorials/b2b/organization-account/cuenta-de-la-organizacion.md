@@ -58,7 +58,7 @@ En esta sección se puede acceder a:
 - **Medios de pago** — Medios de pago disponibles.
 - **Tarjetas de crédito** — Tarjetas registradas para compras.
 - **Surtido de productos** — Catálogo de productos disponible para la unidad.
-- **Campos personalizables del checkout** — [Campos personalizables](https://help.vtex.com/es/docs/tutorials/campos-personalizables-del-checkout) configurados por la organización. Por ejemplo: "Números de PO" o "Centros de costos".
+- **Campos contables** — [Campos contables](https://help.vtex.com/es/docs/tutorials/campos-contables) configurados por la organización. Por ejemplo: "Números de PO" o "Centros de costos".
 
 ### Organización
 

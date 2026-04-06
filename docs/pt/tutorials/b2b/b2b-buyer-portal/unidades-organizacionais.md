@@ -69,7 +69,7 @@ As condições comerciais definidas no contrato são herdadas pelas unidades fil
 
 Para entender como contratos são configurados e gerenciados, consulte:
 
-* [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b)
+* [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt)
 
 ## Configurações por unidade organizacional
 
@@ -87,7 +87,7 @@ Saiba mais na documentação a seguir:
 
 * [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)
 * [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)
-* [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout)
+* [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-contabeis)
 
 ## Usuários de unidades organizacionais
 
