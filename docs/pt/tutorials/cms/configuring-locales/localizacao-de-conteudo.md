@@ -21,7 +21,7 @@ Você pode gerenciar uma ou várias localidades simultaneamente usando o **selet
 
 Por exemplo, você pode editar as versões em inglês (EUA) e português (BR) do título de uma página dentro do mesmo formulário.
 
-![localizing-content-overview](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-1-en___a732130cef79b9b08022be56a6c26e07.png)
+![localizing-content-overview](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-1___a732130cef79b9b08022be56a6c26e07.gif)
 
 ## Gerenciamento de conteúdo localizado
 
@@ -64,11 +64,11 @@ Esse comportamento de fallback garante que o conteúdo permaneça disponível me
 
 ## Tradução de conteúdo
 
-Dentro de uma entrada, você pode traduzir um único campo ou a entrada inteira. O conteúdo é traduzido da [localidade padrão](https://help.vtex.com/pt/docs/tutorials/configurar-localidades) para uma ou mais localidades de destino selecionadas.
+Dentro de uma entrada, você pode traduzir um único campo ou a entrada inteira. O conteúdo é traduzido da [localidade padrão](https://help.vtex.com/pt/docs/tutorials/configurar-localidades#criar-a-localidade-padrao) para uma ou mais localidades de destino selecionadas.
 
 Ao traduzir conteúdo, o sistema usa o valor da localidade padrão como origem e gera valores traduzidos para as localidades escolhidas. Você pode selecionar uma ou várias localidades para tradução.
 
-![translating-content](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-4-en___2df901d01ba8c54eee7363fb20031e3c.png)
+![translating-content](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-2___2df901d01ba8c54eee7363fb20031e3c.gif)
 
 ### Sobrescrever conteúdo de fallback
 

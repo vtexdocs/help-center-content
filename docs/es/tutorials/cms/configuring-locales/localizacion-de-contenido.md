@@ -21,7 +21,7 @@ Puedes gestionar una o varias configuraciones regionales simultáneamente utiliz
 
 Por ejemplo, puedes editar las versiones en inglés (EE. UU.) y portugués (BR) del título de una página dentro del mismo formulario.
 
-![localizing-content-overview](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-1-en___a732130cef79b9b08022be56a6c26e07.png)
+![localizing-content-overview](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-1___a732130cef79b9b08022be56a6c26e07.gif)
 
 ## Gestión del contenido localizado
 
@@ -64,11 +64,11 @@ Este comportamiento de resguardo garantiza que el contenido permanezca disponibl
 
 ## Traducción de contenido
 
-Dentro de una entrada, puedes traducir un solo campo o toda la entrada. El contenido se traduce desde la [configuración regional predeterminada](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales) a una o más configuraciones regionales de destino seleccionadas.
+Dentro de una entrada, puedes traducir un solo campo o toda la entrada. El contenido se traduce desde la [configuración regional predeterminada](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales#crear-la-configuracion-regional-predeterminada) a una o más configuraciones regionales de destino seleccionadas.
 
 Al traducir contenido, el sistema utiliza el valor de la configuración regional predeterminada como fuente y genera valores traducidos para las configuraciones regionales elegidas. Puedes seleccionar una o varias configuraciones regionales para la traducción.
 
-![translating-content](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-4-en___2df901d01ba8c54eee7363fb20031e3c.png)
+![translating-content](https://vtexhelp.vtexassets.com/assets/docs/src/localizing-content-2___2df901d01ba8c54eee7363fb20031e3c.gif)
 
 ### Sobrescribir el contenido de resguardo
 
