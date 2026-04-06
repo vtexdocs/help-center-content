@@ -49,7 +49,7 @@ La página principal de la **cuenta de la organización** está dividida en tres
 
 ### Información de contrato
 
-La sección de información de contrato está identificada por el nombre de la [unidad organizativa](https://help.vtex.com/es/docs/tutorials/organization-units-es) en la que se están gestionando las configuraciones.
+La sección de información de contrato está identificada por el nombre de la [unidad organizativa](https://help.vtex.com/es/docs/tutorials/unidades-organizativas) en la que se están gestionando las configuraciones.
 
 En esta sección se puede acceder a:
 
@@ -58,7 +58,7 @@ En esta sección se puede acceder a:
 - **Medios de pago** — Medios de pago disponibles.
 - **Tarjetas de crédito** — Tarjetas registradas para compras.
 - **Surtido de productos** — Catálogo de productos disponible para la unidad.
-- **Campos personalizables del checkout** — [Campos personalizables](https://help.vtex.com/es/docs/tutorials/campos-personalizables-del-checkout) configurados por la organización. Por ejemplo: "Números de PO" o "Centros de costos".
+- **Campos contables** — [Campos contables](https://help.vtex.com/es/docs/tutorials/campos-contables) configurados por la organización. Por ejemplo: "Números de PO" o "Centros de costos".
 
 ### Organización
 
@@ -68,7 +68,7 @@ Las opciones incluyen:
 
 - **Usuarios** — gestión de los [usuarios de la organización](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
 - **Roles** — definición de permisos y funciones.
-- **Unidades organizativas** — creación y gestión de [unidades organizativas](https://help.vtex.com/es/docs/tutorials/organization-units-es).
+- **Unidades organizativas** — creación y gestión de [unidades organizativas](https://help.vtex.com/es/docs/tutorials/unidades-organizativas).
 
 ### Finanzas y compliance
 
@@ -89,7 +89,7 @@ Al hacer clic en ese botón se mostrará un menú con opciones para crear difere
 - **Agregar dirección** — agregar una dirección.
 - **Agregar tarjeta de crédito** — agregar una tarjeta de crédito.
 - **Agregar usuario** — agregar un usuario a la organización.
-- **Agregar unidad organizativa** — crear una nueva [unidad organizativa](https://help.vtex.com/es/docs/tutorials/organization-units-es).
+- **Agregar unidad organizativa** — crear una nueva [unidad organizativa](https://help.vtex.com/es/docs/tutorials/unidades-organizativas).
 - **Agregar presupuesto** — crear un [presupuesto](https://help.vtex.com/es/docs/tutorials/presupuestos-informacion-general).
 - **Agregar política de compra** — crear una [política de compras](https://help.vtex.com/es/docs/tutorials/politicas-de-compras).
 
@@ -104,4 +104,4 @@ Consulta en los artículos a continuación más detalles sobre las distintas tar
 - [Agregar usuarios a la organización compradora](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora)
 - [Agregar o editar presupuestos](https://help.vtex.com/es/docs/tutorials/agregar-o-editar-presupuestos)
 - [Agregar o editar políticas de compras](https://help.vtex.com/es/docs/tutorials/agregar-o-editar-politicas-de-compras)
-- [Agregar o editar campos personalizables del checkout](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-customizaveis)
+- [Agregar o editar campos personalizables del checkout](https://help.vtex.com/es/docs/tutorials/agregar-o-editar-campos-contables)

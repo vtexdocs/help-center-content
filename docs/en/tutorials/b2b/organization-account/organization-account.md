@@ -49,7 +49,7 @@ The main page of the **organization account** is divided into three main section
 
 ### Contract details
 
-The contract details section is identified by the name of the [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units-pt) where the settings are being managed.
+The contract details section is identified by the name of the [organizational unit](https://help.vtex.com/en/docs/tutorials/organizational-units) where the settings are being managed.
 
 In this section, you can access:
 
@@ -66,9 +66,9 @@ The **Organization** section allows you to manage the organizational structure o
 
 The options include:
 
-- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 - **Roles** — Define permissions and roles.
-- **Organizational units** — Create and manage [organizational units](https://help.vtex.com/en/docs/tutorials/organization-units-pt).
+- **Organizational units** — Create and manage [organizational units](https://help.vtex.com/en/docs/tutorials/organizational-units).
 
 ### Finance and compliance
 
@@ -76,8 +76,8 @@ The **Finance and compliance** section brings together tools for financial contr
 
 You can manage:
 
-- **Budgets** — [Budget](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets) definition.
-- **Buying policies** — [Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies), rules that control approval, denial, or order review.
+- **Budgets** — [Budget](https://help.vtex.com/en/docs/tutorials/budgets-overview) definition.
+- **Buying policies** — [Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies-overview), rules that control approval, denial, or order review.
 
 ### Adding entities
 
@@ -89,9 +89,9 @@ By clicking this button, a menu displays with options to create different entiti
 - **Add address** — Add an address.
 - **Add credit card** — Add a credit card.
 - **Add user** — Add a user to the organization.
-- **Add organizational unit** — Create a new [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units-pt).
-- **Add budget** — Create a [budget](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets).
-- **Add buying policy** — Create a [buying policy](https://help.vtex.com/en/docs/tutorials/buying-policies).
+- **Add organizational unit** — Create a new [organizational unit](https://help.vtex.com/en/docs/tutorials/organizational-units).
+- **Add budget** — Create a [budget](https://help.vtex.com/en/docs/tutorials/budgets-overview).
+- **Add buying policy** — Create a [buying policy](https://help.vtex.com/en/docs/tutorials/buying-policies-overview).
 
 ### Back to the store
 
@@ -101,12 +101,7 @@ In the upper right corner of the page, when you click the **Start shopping** opt
 
 Check the articles below for more details on the different tasks you can perform in the **organization account** interface.
 
-- [Adding users to a buyer organization](https://help.vtex.com/en/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
-- [Adding or editing budgets](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-budgets)
-- [Adding or editing buying policies](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-buying-policies)
-- [Adding or editing custom checkout fields](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-campos-customizaveis)
-
-- [Add users to the buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
-- [Add or edit budgets](https://help.vtex.com/docs/tutorials/adding-or-editing-budgets)
-- [Add or edit Buying Policies](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
-- [Add or edit accounting fields](https://help.vtex.com/docs/tutorials/adding-or-editing-accounting-fields)
+- [Adding users to a buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations)
+- [Adding or editing budgets](https://help.vtex.com/en/docs/tutorials/adding-or-editing-budgets)
+- [Adding or editing buying policies](https://help.vtex.com/en/docs/tutorials/adding-or-editing-buying-policies)
+- [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-accounting-fields)
