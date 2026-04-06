@@ -16,7 +16,7 @@ Este artigo resume as principais funcionalidades do **B2B Buyer Portal** e direc
 
 - [Contratos](#contratos)
 - [Gestão organizacional](#gestao-organizacional)
-  - [Organizational Units](#organizational-units)
+  - [Unidades organizacionais](#unidades-organizacionais)
   - [Scopes](#scopes)
   - [Membros e perfis](#membros-e-perfis)
 - [Finanças e compliance](#financas-e-compliance)
@@ -35,7 +35,7 @@ Um [contrato](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) define o
 - Quais preços se aplicam (tabelas de preços).
 - Quais métodos de pagamento estão disponíveis.
 
-Os contratos são a base da experiência do comprador. Todas as [Organizational Units](#organizational-units) da empresa herdam as condições do contrato, garantindo consistência em toda a organização. A funcionalidade de [Scopes](#scopes) pode então controlar quais desses atributos cada unidade pode ver e utilizar.
+Os contratos são a base da experiência do comprador. Todas as [unidades organizacionais](#unidades-organizacionais) da empresa herdam as condições do contrato, garantindo consistência em toda a organização. A funcionalidade de [Scopes](#scopes) pode então controlar quais desses atributos cada unidade pode ver e utilizar.
 
 Para simplificar a gestão de contratos em escala, o [Agente de Gerenciamento de Contratos](https://help.vtex.com/pt/docs/tutorials/agente-de-gerenciamento-de-contratos) permite que operadores da loja atualizem contratos em massa usando instruções em linguagem natural, como adicionar coleções ou alterar métodos de pagamento em centenas de contratos de uma vez.
 
@@ -43,17 +43,17 @@ Para simplificar a gestão de contratos em escala, o [Agente de Gerenciamento de
 
 O **B2B Buyer Portal** permite que organizações compradoras repliquem sua estrutura interna na plataforma, para que cada departamento, filial ou subsidiária possa operar com suas próprias regras, compartilhando um único contrato.
 
-### Organizational Units
+### Unidades organizacionais
 
-As [Organizational Units](https://help.vtex.com/pt/docs/tutorials/organization-units-pt) representam as subdivisões de uma organização compradora, como departamentos, escritórios regionais ou subsidiárias. Elas seguem um modelo hierárquico em árvore. Uma unidade raiz representa a organização como um todo, e as unidades filhas refletem suas áreas internas.
+As [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais) representam as subdivisões de uma organização compradora, como departamentos, escritórios regionais ou subsidiárias. Elas seguem um modelo hierárquico em árvore. Uma unidade raiz representa a organização como um todo, e as unidades filhas refletem suas áreas internas.
 
 Cada unidade pode ter configurações específicas de visibilidade de produtos, métodos de pagamento, endereços de entrega, campos contábeis e regras de aprovação de pedidos, permitindo que a loja se alinhe às políticas internas da empresa compradora sem precisar de múltiplos contratos ou contas. As configurações por unidade estão sempre sujeitas às condições do contrato.
 
-> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar Organizational Units](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units).
+> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units).
 
 ### Scopes
 
-Os [Scopes](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-scopes) controlam quais atributos da organização são visíveis e disponíveis para cada Organization Unit. Os administradores podem restringir o acesso a contratos, métodos de pagamento, cartões de crédito, coleções, endereços e campos contábeis por unidade, garantindo que os compradores vejam apenas o que é relevante para sua Organization Unit.
+Os [Scopes](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-scopes) controlam quais atributos da organização são visíveis e disponíveis para cada unidade organizacional. Os administradores podem restringir o acesso a contratos, métodos de pagamento, cartões de crédito, coleções, endereços e campos contábeis por unidade, garantindo que os compradores vejam apenas o que é relevante para sua unidade organizacional.
 
 ### Membros e perfis
 
@@ -100,7 +100,7 @@ Essa camada de governança garante que a atividade de compras esteja em conformi
 
 Os [campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis) capturam informações de negócio adicionais durante o checkout, como centro de custo, número de PO, códigos de projeto ou classificações de despesas. Os campos podem ser aplicados nos níveis de pedido, item ou endereço e configurados como obrigatórios ou opcionais.
 
-As organizações também podem definir valores padrão por Organizational Unit para preencher automaticamente campos do checkout, reduzindo a entrada manual e garantindo consistência dos dados nas compras.
+As organizações também podem definir valores padrão por unidade organizacional para preencher automaticamente campos do checkout, reduzindo a entrada manual e garantindo consistência dos dados nas compras.
 
 > ℹ️ Saiba mais sobre configurações em [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis).
 
@@ -117,7 +117,7 @@ Cartões de pagamento podem ser armazenados no nível do contrato (compartilhado
 A [Conta da organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao) é a interface de autoatendimento onde os administradores da organização compradora gerenciam todas as configurações mencionadas acima. Em uma única tela, os admins podem:
 
 - Visualizar e atualizar detalhes do contrato (perfil, endereços, métodos de pagamento, sortimento de produtos).
-- Gerenciar usuários, perfis e Organizational Units.
+- Gerenciar usuários, perfis e unidades organizacionais.
 - Configurar budgets, buying policies e campos contábeis.
 
 Essa interface centralizada permite que as organizações compradoras gerenciem suas operações de forma autônoma, sem depender do lojista para tarefas administrativas rotineiras.
@@ -132,6 +132,6 @@ Essa funcionalidade atende organizações que utilizam software de procurement c
 
 ## Saiba mais
 
-- [Adicionar ou editar Organizational Units](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units)
+- [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units)
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [B2B Buyer Portal integration overview](https://developers.vtex.com/docs/guides/b2b-buyer-portal-integration-overview) (documentação para desenvolvedores)
