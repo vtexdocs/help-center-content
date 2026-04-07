@@ -14,11 +14,11 @@ locale: pt
 
 Este artigo orienta sobre o gerenciamento de unidades organizacionais e está dividido nas seguintes seções:
 
-* [Adicionar unidade organizacional](#adicionar-organizational-unit)
-* [Renomear unidade organizacional](#renomear-organizational-unit)
-* [Adicionar usuário a uma unidade organizacional](#adicionar-usuario-a-uma-organizational-unit)
-* [Adicionar unidade organizacional filha (subordinada)](#adicionar-organizational-unit-filha-subordinada)
-* [Remover unidade organizacional](#remover-organizational-unit)
+* [Adicionar unidade organizacional](#adicionar-unidade-organizacional)
+* [Renomear unidade organizacional](#renomear-unidade-organizacional)
+* [Adicionar usuário a uma unidade organizacional](#adicionar-usuario-a-uma-unidade-organizacional)
+* [Adicionar unidade organizacional filha (subordinada)](#adicionar-unidade-organizacional-filha-subordinada)
+* [Remover unidade organizacional](#remover-unidade-organizacional)
 
 > ⚠️ Para configurar unidades organizacionais, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ser `Organizational Unit Admin`, `Super Buyer Admin`, ou ter o recurso `ManageOrganizationHierarchy`.
 
@@ -30,7 +30,7 @@ Este artigo orienta sobre o gerenciamento de unidades organizacionais e está di
 
 2. Na tela **Organizational Units,** clique no ícone `+`.
 3. Verifique no campo **Parent** se está correta a identificação da unidade organizacional à qual a nova unidade estará subordinada, ou seja, da qual será filha. Este campo não permite edição.
-4. Preencha o nome da nova unidade organizacional. É possível [renomeá-lo](#renomear-organizational-unit) posteriormente.
+4. Preencha o nome da nova unidade organizacional. É possível [renomeá-lo](#renomear-unidade-organizacional) posteriormente.
 5. Clique em `Add`.
 
 Após criar uma unidade organizacional, ela aparecerá listada na tela **Organizational Units,** e você poderá acessar sua Organization Account ao clicar na sua linha correspondente.
