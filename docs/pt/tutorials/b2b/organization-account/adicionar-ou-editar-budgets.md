@@ -24,7 +24,7 @@ Nesta página, é possível realizar as seguintes ações:
 
 ## Criar um budget
 
-Para criar um novo budget para a Organization Unit, você deve acessar a listagem de budgets e preencher as seguintes informações necessárias. 
+Para criar um novo budget para a unidade organizacional, você deve acessar a listagem de budgets e preencher as seguintes informações necessárias. 
 
 1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), clique em **Budgets**.
 2. Na página de **Budgets**, clique no botão **`+`** no canto superior direito.

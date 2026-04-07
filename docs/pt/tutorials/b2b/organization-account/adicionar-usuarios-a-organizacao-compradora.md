@@ -10,7 +10,7 @@ locale: pt
 
 Este artigo explica como um **Organization Admin** pode criar um usuário membro de uma organização compradora com permissões específicas para realizar ações em nome da organização.
 
-O usuário adicionado a uma organização compradora será vinculado a uma Organization Unit e terá um perfil de acesso no storefront que o permitirá executar ações na loja.
+O usuário adicionado a uma organização compradora será vinculado a uma unidade organizacional e terá um perfil de acesso no storefront que o permitirá executar ações na loja.
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
@@ -48,7 +48,7 @@ Siga as instruções a seguir para adicionar um usuário:
 
 > ⚠️ O novo usuário precisa definir a sua senha no primeiro acesso à loja. Para isso, ele deve utilizar um código de acesso enviado para o email cadastrado no passo 5, se houver. Se não tiver email cadastrado, o código de acesso precisa ser gerado pelo administrador da organização, como descrito na seção [Gerar código de acesso para usuários sem email](#gerar-codigo-de-acesso-para-usuarios-sem-email).
 
-Ele passará a operar dentro da Organization Unit à qual foi vinculado e poderá executar ações a depender do perfil de acesso no storefront e das permissões atribuídas.
+Ele passará a operar dentro da unidade organizacional à qual foi vinculado e poderá executar ações a depender do perfil de acesso no storefront e das permissões atribuídas.
 
 ## Gerar código de acesso para usuários sem email
 

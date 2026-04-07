@@ -49,7 +49,7 @@ As [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-o
 
 Cada unidade pode ter configurações específicas de visibilidade de produtos, métodos de pagamento, endereços de entrega, campos contábeis e regras de aprovação de pedidos, permitindo que a loja se alinhe às políticas internas da empresa compradora sem precisar de múltiplos contratos ou contas. As configurações por unidade estão sempre sujeitas às condições do contrato.
 
-> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units).
+> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-unidades-organizacionais).
 
 ### Scopes
 
@@ -132,6 +132,6 @@ Essa funcionalidade atende organizações que utilizam software de procurement c
 
 ## Saiba mais
 
-- [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units)
+- [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-unidades-organizacionais)
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [B2B Buyer Portal integration overview](https://developers.vtex.com/docs/guides/b2b-buyer-portal-integration-overview) (documentação para desenvolvedores)
