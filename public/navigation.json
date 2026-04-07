@@ -221,6 +221,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Maio",
+                "es": "Maio",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "maio",
+                "es": "maio",
+                "pt": "maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "User Rights API: exclusão automatizada de dados pessoais",
+                    "en": "User Rights API: exclusão automatizada de dados pessoais",
+                    "es": "User Rights API: exclusão automatizada de dados pessoais"
+                  },
+                  "slug": {
+                    "pt": "2026-05-21-user-rights-api-apagamento-automatizado-de-dados-pessoais",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
