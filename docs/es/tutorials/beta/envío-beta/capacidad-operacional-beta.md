@@ -50,7 +50,7 @@ Si deseas dejar de utilizar la funcionalidad, puedes [desactivar la Capacidad op
 
 Al acceder **Envío > Capacidad operativa** en el Admin VTEX, o ingresar **Capacidad operativa** en la barra de búsqueda, podrás consultar una página como la que se ilustra a continuación:
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_1.png)
+![operational_capacity_image_1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envio-beta/capacidad-operacional-beta_1.png)
 
 > ⚠️ Los sellers que se muestran en la interfaz son los sellers de tu operación, previamente configurados por nuestro equipo. Para agregar un nuevo seller ponte en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419).
 
@@ -145,11 +145,11 @@ En la esquina superior derecha de la página de detalles del seller, hay un bot�
 
 El gráfico **Status de la capacidad operativa** presenta, en tiempo real, el porcentaje de la capacidad del seller ya consumida durante el día actual y en los próximos tres días, como en la imagen a continuación:
 
-![operational_capacity_image_2_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_2.png)
+![operational_capacity_image_2_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envio-beta/capacidad-operacional-beta_2.png)
 
 Si configuras el seller para que utilice la [regra](#iii-regra) \*Continuar recibiendo pedidos consumiendo la capacidad de los siguientes días, el gráfico mostrará el porcentaje de la capacidad operativa de los siguientes días que ya fue consumida por los pedidos de los días anteriores. Para más información, consulta [Editar capacidad operativa del seller](#editar-capacidad-operativa-del-seller).
 
-![operational_capacity_image_3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_3.png)
+![operational_capacity_image_3_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envio-beta/capacidad-operacional-beta_3.png)
 
 ### Editar capacidad operativa del seller
 
