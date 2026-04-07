@@ -19,6 +19,7 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
   - [Navigation Generation](#navigation-generation)
   - [Broken Page Finder](#broken-page-finder)
   - [Changelog Generation](#changelog-generation)
+  - [Index Documents](#index-documents)
 
 ## In this repository
 
@@ -563,3 +564,43 @@ This repository uses GitHub Actions for automating various tasks related to cont
   - Function: Sets up Node.js environment (version 20)
 - standard-version (npm package)
   - Function: Generates changelogs and manages versioning
+
+### Index Documents
+
+**Source**: `.github/workflows/index-documents.yml`
+
+**Summary**: This workflow automatically indexes changed documentation files into the VTEX Docs search system. When markdown files under `docs/` are added or modified, the workflow sends them to the indexing API, which chunks the content, generates embeddings, and stores them for hybrid search (BM25 + vector similarity).
+
+**Trigger Conditions**:
+
+- Push to `main` or `master` branch, when files matching `docs/**/*.md` are changed
+- Manual trigger (`workflow_dispatch`) with optional `full_reindex` boolean input to reindex all documents
+
+**Process Overview**:
+
+1. **Changed File Detection**: Uses `git diff` to identify added, copied, modified, or renamed markdown files under `docs/`
+2. **Full Reindex Mode**: When triggered manually with `full_reindex: true`, discovers all markdown files via `find docs -name '*.md'`
+3. **Batched Indexing**: Sends files to the indexing API in batches of 10, with a 300-second timeout per batch
+4. **Idempotency**: The API uses content-hash-based skip optimization — unchanged files are not re-indexed
+5. **Error Reporting**: Logs per-batch results and emits GitHub Actions warnings for failures
+
+**Key Features**:
+
+- **Content-Hash Skip**: Files whose content hasn't changed since last indexing are automatically skipped
+- **Partial Failure Resilience**: If one batch fails, the workflow continues with remaining batches
+- **Batch Processing**: Files are sent in groups of 10 to avoid timeout issues with large changesets
+- **Full Reindex**: Manual dispatch with `full_reindex: true` re-processes all documents in the repository
+
+**Required Secrets**:
+
+- `INDEXING_URL`: Base URL of the VTEX Docs API (e.g., `https://vtexdocs-edge.vtex.com`)
+- `INTERNAL_ACCESS_KEY`: API consumer key with `index-documents` permission
+
+**Dependencies**:
+
+- actions/checkout@v4
+  - Function: Checks out the repository with `fetch-depth: 2` for diff comparison
+- jq (pre-installed on GitHub runners)
+  - Function: JSON processing for file lists and API response parsing
+- curl (pre-installed on GitHub runners)
+  - Function: HTTP requests to the indexing API
