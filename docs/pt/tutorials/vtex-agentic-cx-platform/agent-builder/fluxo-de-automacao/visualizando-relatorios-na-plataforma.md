@@ -26,6 +26,7 @@ Para acessar os resultados de fluxo, siga os passos abaixo:
 A aba de **Resultados** fornece duas opções de relatórios:
 
 ### Visão Global
+
 A aba de visão global fornece uma visão geral dos usuários que passaram pelo fluxo.
 
 ### Execuções

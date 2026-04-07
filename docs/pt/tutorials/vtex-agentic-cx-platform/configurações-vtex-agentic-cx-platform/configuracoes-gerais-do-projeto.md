@@ -24,7 +24,7 @@ Ao clicar no ícone de três linhas, você pode clicar em:
 - `Adicione Classificador`: Conecta um classificador ao seu projeto, como Wit.ai, LUIS e Bothub.
 - `Adicionar serviço de Ticket`: Conecta um serviço de ticket ao seu projeto, como Email, Zendesk, Rocket.Chat, Twilio Flex, Live Desk, Freshchat e Twilio Flex 2.x.
 - `Exportar`: Exporta um fluxo criado para ser utilizado em outra organização.
-- `Importar`: Improta um fluxo de outra organização para a sua.
+- `Importar`: Importa um fluxo de outra organização para a sua.
 
 ## Idioma do Projeto
 
