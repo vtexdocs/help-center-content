@@ -12,6 +12,7 @@ locale: pt
 
 **Unidades organizacionais** são unidades organizacionais que permitem às empresas gerenciar sua estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
+
 Este artigo orienta sobre o gerenciamento de unidades organizacionais e está dividido nas seguintes seções:
 
 * [Adicionar unidade organizacional](#adicionar-unidade-organizacional)
