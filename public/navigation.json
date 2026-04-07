@@ -17324,12 +17324,12 @@
                   "name": {
                     "en": "Adding or editing organizational units",
                     "es": "Agregar o editar unidades organizativas",
-                    "pt": "Adicionar ou editar Organizational Units"
+                    "pt": "Adicionar ou editar unidades organizacionais"
                   },
                   "slug": {
                     "en": "adding-or-editing-organizational-units",
                     "es": "agregar-o-editar-unidades-organizativas",
-                    "pt": "adicionar-ou-editar-organizational-units"
+                    "pt": "adicionar-ou-editar-unidades-organizacionais"
                   },
                   "origin": "",
                   "type": "markdown",
