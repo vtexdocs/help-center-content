@@ -17,11 +17,11 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > This feature is in beta, which means we're working on improving it. If you have any questions, contact [our Support team](https://supporticket.vtex.com/support).
 
-> ⚠️ To use this feature, your [main account](/docs/tracks/accounts-and-architecture) must have linked [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account).
+> ⚠️ To use this feature, your [main account](/en/docs/tracks/accounts-and-architecture) must have linked [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account).
 
 The **Operational capacity (Beta)** module allows you to manage sellers' capacity to receive and prepare store orders, optimizing your logistics network. You can monitor order allocation between sellers and [perform actions](#actions-on-the-seller-capacity-details-page) to improve it.
 
-The **Operational Capacity (Beta)** module does not manage order delivery. This management is handled by the [**Delivery capacity**](https://help.vtex.com/docs/tutorials/managing-delivery-capacity) module.
+The **Operational Capacity (Beta)** module does not manage order delivery. This management is handled by the [**Delivery capacity**](https://help.vtex.com/en/docs/tutorials/managing-delivery-capacity) module.
 
 Good management of seller operational capacity leads to the following advantages:
 
@@ -29,7 +29,7 @@ Good management of seller operational capacity leads to the following advantages
 * Optimized order shipping times by avoiding overloading sellers.
 * Improved shopping experience for customers, who receive their orders on time.
 
-> ℹ️ To activate and manage **Operational capacity (Beta)**, your [role](/en/docs/tutorials/roles) in the VTEX Admin must include the _Logistics full_ access resource in [License Manager](/docs/tutorials/license-manager-resources).
+> ℹ️ To activate and manage **Operational capacity (Beta)**, your [role](/en/docs/tutorials/roles) in the VTEX Admin must include the _Logistics full_ access resource in [License Manager](/en/docs/tutorials/license-manager-resources).
 
 ## Enabling the Operational capability (Beta) module
 
@@ -65,7 +65,7 @@ The **Operational capacity (Beta)** page displays the following information:
 | **Column** | **Description** |
 |:---:|:---|
 | Seller | Identification of the [seller](/en/docs/tutorials/o-que-e-um-seller) to which operational capacity applies to. |
-| Segmentation | Identification of the type of segmentation used for operational capacity. There are two types of segmentation: by sellers or by [sales channel](https://help.vtex.com/docs/tutorials/how-trade-policies-work). To enable segmentation by sales channel, contact [our Support](https://supporticket.vtex.com/support). |
+| Segmentation | Identification of the type of segmentation used for operational capacity. There are two types of segmentation: by sellers or by [sales channel](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work). To enable segmentation by sales channel, contact [our Support](https://supporticket.vtex.com/support). |
 | Capacity usage | Percentage of the seller operational capacity used that day. **Example:** If a seller with a daily capacity of 100 orders has used 80% of their capacity, they can only receive 20 more new orders that day. In this column, an alert icon is displayed when the seller reaches 100% of their capacity, so they can't receive any new orders that day. You can [edit sellers' operational capacity](#editing-the-operational-capacity-unit-of-sellers) individually or in bulk. |
 | Status | The current status of the seller's operational capacity, which can be: <ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i>**Active:** The toggle switch is on, and the seller can receive new orders — either within the configured capacity limit or with unlimited capacity.</li><li><i class="fas fa-toggle-off"></i> **Paused:** The toggle switch is off, and the seller can't receive new orders.</li>To choose when to pause a seller, see the section [Choosing between editing seller operational capacity, making it unlimited, or pausing the seller](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-pausing-the-seller-or-disabling-the-module). |
 
@@ -79,7 +79,7 @@ On the **Shipping > Operational capacity** page of the VTEX Admin, you can do th
 
 Using the search bar, you can search for sellers by name.
 
-> ℹ️ You can combine the search with the [status filter](/docs/tutorials/operational-capacity-beta). If your search returned no results, check if any filters are active.
+> ℹ️ You can combine the search with the [status filter](/en/docs/tutorials/operational-capacity-beta). If your search returned no results, check if any filters are active.
 
 ### Filtering sellers
 
@@ -111,7 +111,7 @@ The seller's operational capacity can be measured by number of orders or order i
    - **Number of items:** The seller's operational capacity will be based on the number of items in an order.
 5. Click `Save Changes`.
 
-> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/docs/tutorials/comprehensive-seller). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
+> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
 
 ## Disabling the Operational capacity (Beta) Module
 
@@ -138,7 +138,7 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 * **Activate:** Toggle the switch to `Active` and click `Activate`.
 * **Deactivate:** Toggle the switch to `Paused` and click `Pause`.
 
-> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/docs/tutorials/comprehensive-seller). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
+> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
 
 ### Monitoring capacity usage
 
