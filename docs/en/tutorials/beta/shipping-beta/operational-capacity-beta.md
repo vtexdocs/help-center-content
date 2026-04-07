@@ -49,7 +49,7 @@ If you want to stop using the feature, you can [disable Operational capacity (Be
 
 In the VTEX Admin, go to **Shipping > Operational capacity**, or type **Operational capacity** in the search bar to see the following page:
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_1.png)
+![operational_capacity_image_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/operational-capacity-beta_1.png)
 
 > ⚠️ The interface will display the sellers that are part of your operation, previously configured by our team. To add a new seller, contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
