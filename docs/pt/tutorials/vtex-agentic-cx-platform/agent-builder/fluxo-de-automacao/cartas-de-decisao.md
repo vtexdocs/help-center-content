@@ -15,22 +15,22 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-As cartas de decisão são parte muito importante para as construções lógicas dos nossos fluxos. Na [introdução a fluxos](/pt/docs/tutorials/introducao-a-fluxos) conversamos um pouco sobre o conceito dessas cartas, e agora vamos entender um pouco mais sobre sua anatomia e os tipos que existem dentro da plataforma.
+Neste artigo, vamos explicar sobre as cartas de decisão e os tipos cartas de decisão dentro da plataforma.
 
-Para facilitar a navegação por esse artigo, caso queira ir diretamente para algum tópico em específico, basta clicar no nome dele abaixo:
+Para facilitar a navegação por esse artigo, use o sumário abaixo:
 
-  * Rotas e regras de decisão
-  * Resultados de fluxo
-  * Aguarde a resposta do contato
-  * Dividir por uma expressão customizada
-  * Dividir por campo de contato
-  * Dividir por resultado do fluxo
-  * Dividir aleatoriamente
-  * Dividir por filiação de grupo
-  * Dividir por tipo de URN
-  * Dividir por intenção
-  * Classificar automaticamente
-  * Aguarde por resposta Inteligente
+- [Rotas e regras de decisão](#rotas-e-regras-de-decisão)
+- [Resultados de fluxo](#resultados-de-fluxo)
+- [Aguardar a resposta do contato](#aguardar-a-resposta-do-contato)
+- [Dividir por uma expressão customizada](#dividir-por-uma-expressão-customizada)
+- [Dividir por campo de contato](#dividir-por-campo-de-contato)
+- [Dividir por resultado no fluxo](#dividir-por-resultado-no-fluxo)
+- [Dividir aleatoriamente](#dividir-aleatoriamente)
+- [Dividir por filiação de grupo](#dividir-por-filiação-de-grupo)
+- [Dividir por tipo de URN](#dividir-por-tipo-de-urn)
+- [Dividir por intenção](#dividir-por-intenção)
+- [Classificar automaticamente](#classificar-automaticamente)
+- [Aguardar por resposta inteligente](#aguardar-por-resposta-inteligente)
 
 ## Rotas e regras de decisão
 
@@ -38,9 +38,9 @@ Para facilitar a navegação por esse artigo, caso queira ir diretamente para al
 
 O maior diferencial entre as cartas de decisão e as cartas de ação são a criação de rotas. Essas rotas são possíveis caminhos que uma conversa pode tomar de acordo com alguma resposta ou algum dado do contato, ou seja, a finalidade de todas as cartas de decisão é criar rotas para cada regra, e assim criar as ramificações do nosso fluxo.
 
-Cada rota possui um **_nome/categoria_** _e_ obedece uma **_regra de decisão_**. Você pode ver nas conexões de suas rotas a quantidade de contatos que já seguiram aquele caminho pelo seu fluxo.
+Cada rota possui um nome/categoria e obedece uma regra de decisão. Você pode ver nas conexões de suas rotas a quantidade de contatos que já seguiram aquele caminho pelo seu fluxo.
 
-A rota **_Outro_** é uma rota padrão, que existe para o caso de o valor analisado não corresponder a nenhuma das regras de decisão criadas. Todas as cartas de decisão, ao terem uma regra definida, também criam a rota Other.
+A rota Outro é uma rota padrão, que existe para o caso de o valor analisado não corresponder a nenhuma das regras de decisão criadas. Todas as cartas de decisão, ao terem uma regra definida, também criam a rota Other.
 
 ### Regras de decisão
 
@@ -52,51 +52,50 @@ As regras são testadas pela plataforma em forma de pilha, de cima para baixo. C
 
 Atualmente, existem 24 regras de decisão na plataforma, que podem ser agrupadas em 4 categorias. Confira abaixo:
 
-  1. **Palavras e frases:**
+  1. Palavras e frases:
 São as regras que analisam frases e/ou palavras, comparando a resposta/valor do contato com as frases/palavras escolhidas.
 
 São essas:
 
-  * **tem alguma das palavras:** Caso a resposta/valor possua qualquer uma das palavras escolhidas, ele irá seguir a rota indicada. Todas as palavras devem ser separadas por um espaço.
-  * **tem todas as palavras:** Caso a resposta/valor possua todas as palavras escolhidas, ele irá seguir a rota indicada. Todas as palavras devem ser separadas por um espaço.
-  * **tem a frase**:** Caso a resposta/valor possua aquela frase em algum momento do seu texto, ele seguirá rota indicada
-  * **tem apenas a frase:** Caso a resposta/valor seja exatamente aquela frase, ele seguirá a rota indicada.
-  * **começa com:** Caso a resposta/valor comece com aquela frase, ele seguirá a rota indicada.
-  * **tem algum texto:** Caso a resposta/valor esteja preenchida (não esteja vazia), independentemente da informação contida, ele seguirá a rota indicada.
+- tem alguma das palavras: Caso a resposta/valor possua qualquer uma das palavras escolhidas, ele irá seguir a rota indicada. Todas as palavras devem ser separadas por um espaço.
+- tem todas as palavras: Caso a resposta/valor possua todas as palavras escolhidas, ele irá seguir a rota indicada. Todas as palavras devem ser separadas por um espaço.
+- tem a frase: Caso a resposta/valor possua aquela frase em algum momento do seu texto, ele seguirá rota indicada
+- tem apenas a frase: Caso a resposta/valor seja exatamente aquela frase, ele seguirá a rota indicada.
+- começa com: Caso a resposta/valor comece com aquela frase, ele seguirá a rota indicada.
+- tem algum texto: Caso a resposta/valor esteja preenchida (não esteja vazia), independentemente da informação contida, ele seguirá a rota indicada.
 
 Você pode utilizar essas regras para verificar nomes de pessoas, organizações, estabelecimentos, etc.
 
-  1. **Números e operações:**
+  1. Números e operações:
 São as regras que envolvem números e/ou operações numéricas, comparando a resposta/valor do contato com os números/regras numéricas escolhidas.
-São essas:
 
-  * **tem um número:** Caso a resposta/valor seja um número, independentemente do número, ele seguirá a rota indicada.
-  * **tem um número entre:** Caso a resposta/valor esteja entre os 2 números escolhidos, ele seguirá a rota indicada.
-  * **tem um número abaixo:** Caso a resposta/valor for menor que o número escolhido, ele seguirá a rota indicada.
-  * **tem um número igual ou abaixo:** Caso a resposta/valor for menor ou igual ao número escolhido, ele seguirá a rota indicada.
-  * **tem um número igual a** Caso a resposta/valor for igual ao número escolhido, ele seguirá a rota indicada.
-  * **tem um número igual ou acima:** Caso a resposta/valor for maior ou igual ao número escolhido, ele seguirá a rota indicada.
-  * **tem um número acima****:** Caso a resposta/valor for maior que o número escolhido, ele seguirá a rota indicada.
+- tem um número: Caso a resposta/valor seja um número, independentemente do número, ele seguirá a rota indicada.
+- tem um número entre: Caso a resposta/valor esteja entre os 2 números escolhidos, ele seguirá a rota indicada.
+- tem um número abaixo: Caso a resposta/valor for menor que o número escolhido, ele seguirá a rota indicada.
+- tem um número igual ou abaixo: Caso a resposta/valor for menor ou igual ao número escolhido, ele seguirá a rota indicada.
+- tem um número igual a: Caso a resposta/valor for igual ao número escolhido, ele seguirá a rota indicada.
+- tem um número igual ou acima: Caso a resposta/valor for maior ou igual ao número escolhido, ele seguirá a rota indicada.
+- tem um número acima: Caso a resposta/valor for maior que o número escolhido, ele seguirá a rota indicada.
 
 Essas regras podem ser úteis para filtros por idade.
 
-  1. **Data e hora:**
+  1. Data e hora:
 
 São as regras que envolvem data e hora, comparando as datas inseridas pelo usuário ou de outros acontecimentos com as datas escolhidas.
 
-Um detalhe importante sobre as regras de comparação de data (_antes, igual a e depois_) é que todas as comparações não são feitas por uma data absoluta, mas sim por uma data em relação ao dia atual, no formato **(****_today + n_****)** onde **_today_** é o dia de hoje e **_n_** é a quantidade de dias para frente ou para trás.
+Um detalhe importante sobre as regras de comparação de data (antes, igual a e depois) é que todas as comparações não são feitas por uma data absoluta, mas sim por uma data em relação ao dia atual, no formato (`today + n`) onde `today` é o dia de hoje e `n` é a quantidade de dias para frente ou para trás.
 
 As regras são:
 
-  * **tem uma data:** Caso a resposta/valor do contato possua uma data, independentemente da data, ele seguirá a rota indicada. A data deve possuir um formato de data válido (exemplo: DD/MM/AAAA).
-  * **tem uma data antes:** Caso a resposta/valor possua uma data anterior a data escolhida, ele seguirá a rota indicada.
-  * **tem uma data igual a:** Caso a resposta/valor possua uma data igual a data escolhida, ele seguirá a rota indicada.
-  * **tem uma data depois:** Caso a resposta/valor possua uma data após a data escolhida, ele seguirá a rota indicada.
-  * **tem um tempo:** Caso a resposta/valor possua um horário, independentemente do horário, ele seguirá a rota indicada. O horário deve possuir um formato de hora válido (exemplo: HH:MM).
+- tem uma data: Caso a resposta/valor do contato possua uma data, independentemente da data, ele seguirá a rota indicada. A data deve possuir um formato de data válido (exemplo: DD/MM/AAAA).
+- tem uma data antes: Caso a resposta/valor possua uma data anterior a data escolhida, ele seguirá a rota indicada.
+- tem uma data igual a: Caso a resposta/valor possua uma data igual a data escolhida, ele seguirá a rota indicada.
+- tem uma data depois: Caso a resposta/valor possua uma data após a data escolhida, ele seguirá a rota indicada.
+- tem um tempo: Caso a resposta/valor possua um horário, independentemente do horário, ele seguirá a rota indicada. O horário deve possuir um formato de hora válido (exemplo: HH:MM).
 
 Boa forma de verificar a data de compra dos seus produtos.
 
-1. **Formatos personalizados:**
+1. Formatos personalizados:
 
 São regras utilizadas para validar formatações de texto personalizadas, seja para obedecer alguma regra de formatação de números, documentos, etc.
 
@@ -104,29 +103,29 @@ A plataforma nos dá suporte ao uso de expressões regulares, ou regex, que é u
 
 As regras são:
 
-  * **tem um número de telefone:** Caso a resposta/valor possua um formato válido para telefone celular (exemplo: 5582999999999), ele seguirá rota indicada.
-  * **tem um email:** Caso a resposta/valor possua um formato válido para e-mail (exemplo: <no-reply@ilhasoft.com.br>), ele seguirá a a rota indicada.
-  * **corresponde a regex:** Caso a resposta/valor siga a regra da expressão regular escolhida, ele seguirá a rota indicada.
+- tem um número de telefone: Caso a resposta/valor possua um formato válido para telefone celular (exemplo: 5582999999999), ele seguirá rota indicada.
+- tem um email: Caso a resposta/valor possua um formato válido para e-mail (exemplo: <no-reply@ilhasoft.com.br>), ele seguirá a a rota indicada.
+- corresponde a regex: Caso a resposta/valor siga a regra da expressão regular escolhida, ele seguirá a rota indicada.
 
 Quer validar o formato de um CPF? Essas regras são o caminho.
 
 ## Resultados de fluxo
 
-Toda carta de decisão, escolhe uma rota no fim da sua execução, e isso gera para nós um _**resultado de fluxo**_. Cada resultado de fluxo contém informações como:
+Toda carta de decisão, escolhe uma rota no fim da sua execução, e isso gera para nós um resultado de fluxo. Cada resultado de fluxo contém informações como:
 
-  * Valor que foi utilizado para a decisão;
-  * Categoria de rota escolhida após as regras;
-  * Data e hora que esse resultado foi salvo;
-  * Conteúdos extras e anexos enviados junto com o valor;
-  * Entre outros.
+- Valor que foi utilizado para a decisão;
+- Categoria de rota escolhida após as regras;
+- Data e hora que esse resultado foi salvo;
+- Conteúdos extras e anexos enviados junto com o valor;
+- Entre outros.
 
 Você pode acessar esses valores de fluxo utilizando as variáveis da plataforma (para saber mais acesse o artigo sobre [expressões e variáveis](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)) e também pode ver esses resultados em forma de gráficos na área de resultados no editor de fluxo. Para saber mais, acesse o artigo sobre o [editor de fluxo e suas ferramentas](/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas).
 
-Por padrão, os nomes dos resultados serão sempre **_(Result + n)_** onde n é o número de resultados que existem no seu fluxo, porém, isso pode ser facilmente mudado no campo de Result name.
+Por padrão, os nomes dos resultados serão sempre (Result + n) onde n é o número de resultados que existem no seu fluxo, porém, isso pode ser facilmente mudado no campo de Result name.
 
 Sempre mude o nome dos seus resultados de fluxo para nomes que você consiga entender de forma simples e intuitiva!
 
-## Aguarde a resposta do contato
+## Aguardar a resposta do contato
 
 A primeira e mais usada das cartas de decisão. As rotas são decididas a partir do texto inserido por um contato. Além disso, possui a opção para criar uma rota caso o usuário não responda, marcando a caixa de seleção no rodapé da carta e escolhendo o tempo de espera para a resposta.
 
@@ -173,16 +172,16 @@ Deseja fazer tratamentos diferentes de acordo com o canal do contato? Use essa c
 
 ## Classificar automaticamente
 
-Com o cartão **Classificar automaticamente** , você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a Inteligência artificial:
+Com o cartão Classificar automaticamente, você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a Inteligência artificial:
 
 Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/pt/docs/tutorials/classificacao-e-resposta-inteligente).
 
-## Aguarde por resposta Inteligente
+## Aguardar por resposta inteligente
 
-Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pela resposta do usuário e enviar essa resposta direto para a sua Classificação de IA, assim você cria suas categorias e trata cada intenção como desejar:
+Com o cartão Aguarde por resposta inteligente, você consegue aguardar pela resposta do usuário e enviar essa resposta direto para a sua Classificação de IA, assim você cria suas categorias e trata cada intenção como desejar:
 
 Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/pt/docs/tutorials/classificacao-e-resposta-inteligente).
 
 ## Dividir por intenção
 
-No cartão **Dividir por Intenção**, você selecionará a inteligência de classificação que será utilizada. Com base na intenção(1) e no nível de confiança(2) configurados no card, a entrada/mensagem será devidamente classificada.
+No cartão Dividir por Intenção, você selecionará a inteligência de classificação que será utilizada. Com base na intenção(1) e no nível de confiança(2) configurados no card, a entrada/mensagem será devidamente classificada.

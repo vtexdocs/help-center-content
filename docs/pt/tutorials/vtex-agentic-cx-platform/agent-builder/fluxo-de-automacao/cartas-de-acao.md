@@ -17,24 +17,22 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 Nesse artigo, vamos explicar sobre as cartas que existem e o que você pode fazer com cada uma.
 
-Para facilitar a navegação por esse artigo, caso queira ir diretamente para uma carta de ação específica, basta clicar no nome dela abaixo:
+- [Enviar uma mensagem ao contato](#enviar-uma-mensagem-ao-contato)
+- [Enviar uma mensagem a outra pessoa](#enviar-uma-mensagem-a-outra-pessoa)
+- [Etiquetar uma mensagem recebida](#etiquetar-uma-mensagem-recebida)
+- [Adicionar uma URN ao contato](#adicionar-uma-urn-ao-contato)
+- [Remover contato de um grupo](#remover-contato-de-um-grupo)
+- [Atualizar o contato](#atualizar-o-contato)
+- [Enviar um email](#enviar-um-email)
+- [Salvar o resultado para este fluxo](#salvar-o-resultado-para-este-fluxo)
+- [Entrar em outro fluxo](#entrar-em-outro-fluxo)
+- [Iniciar outra pessoa em um fluxo](#iniciar-outra-pessoa-em-um-fluxo)
+- [Enviar uma mensagem do WhatsApp](#enviar-uma-mensagem-do-whatsapp)
+- [Adicionar um contato ao grupo](#adicionar-um-contato-ao-grupo)
+- [Abrir um ticket com um agente humano](#abrir-um-ticket-com-um-agente-humano)
+- [Chamar um webhook](#chamar-um-webhook)
 
-- Envie uma mensagem ao contato
-- Envie uma mensagem a outra pessoa
-- Etiquete uma mensagem recebida
-- Adicione uma URN ao contato
-- Remover contato de um grupo
-- Atualizar o contato
-- Envie um email
-- Salve o resultado para este fluxo
-- Entrar em outro fluxo
-- Iniciar outra pessoa em um fluxo
-- Enviar uma mensagem do WhatsApp
-- Adicione um contato a um grupo
-- Abrir um ticket com um agente humano
-- Chamar um webhook
-
-## Envie uma mensagem ao contato
+## Enviar uma mensagem ao contato
 
 A carta de ação mais conhecida e mais utilizada da plataforma. Sua função é a de mandar uma mensagem para o contato. Essa mensagem será recebida independentemente do canal que o usuário está conversando, basta escrevê-la na caixa de texto.
 
@@ -63,19 +61,19 @@ Ou seja, caso seu canal preferencial seja o WhatsApp, ao marcar a opção de tod
 
 Essa configuração é útil apenas em casos específicos! Caso tenha dúvida sobre o uso, deixe preferencialmente desmarcado.
 
-## Envie uma mensagem a outra pessoa
+## Enviar uma mensagem a outra pessoa
 
 Podemos mandar uma mensagem para um contato ou grupo diferente do que está executando o fluxo. Essa mensagem será exibida para o contato/grupo sem afetar qualquer fluxo ou conversa que possa estar em execução para ele no momento.
 
 Com isso, você ou um grupo de pessoas a sua escolha, pode receber notificações de usuários que passarem por pontos específicos dos seus fluxos.
 
-## Etiquete uma mensagem recebida
+## Etiquetar uma mensagem recebida
 
 Você pode marcar a última mensagem enviada pelo contato com uma _etiqueta_ (rótulo). Todas as mensagens rotuladas vão para um grupo de mensagens com o mesmo nome do rótulo. Você pode aprender mais sobre mensagens e rótulos no artigo de [mensagens](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp)
 
 Que tal marcar todos os interesses nos produtos da sua empresa? Seria uma boa forma de utilizar os rótulos.
 
-## Adicione uma URN ao contato
+## Adicionar uma URN ao contato
 
 É possível adicionar novas URNs para o seu contato. Você pode selecionar o tipo da URN que vai ser adicionada (Phone Number, Whatsapp, SMS, Telegram, etc) e informar o novo valor, utilizando algum valor fixo ou uma variável de fluxo.
 
@@ -101,7 +99,7 @@ Para preencher os campos do contato, basta utilizar o Update Contact. Nele, voc�
 
 Perguntou a idade do seu contato? Você pode salvar o valor para consultar mais tarde.
 
-## Envie um email
+## Enviar um email
 
 Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do contato que está executando o fluxo, como qualquer outro. Lembrando que o e-mail não é um canal de conversa no VTEX Agentic CX Platform, ou seja, caso alguém responda o e-mail enviado, ele irá cair na caixa de entrada do e-mail configurado na organização para saber mais, visite o artigo de [configurações do projeto](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
@@ -109,7 +107,7 @@ Para enviar o e-mail, basta colocar o destinatário, o assunto e o corpo da mens
 
 Deseja enviar lembretes rápidos para um contato sem gastar com SMS ou ligações? Manda um e-mail!
 
-## Salve o resultado para este fluxo
+## Salvar o resultado para este fluxo
 
 Conseguimos simular um resultado de fluxo com essa carta de ação. Criando do zero, sem a necessidade de um input ou passar por alguma carta de decisão. Sendo assim, basta escolher o nome do resultado de fluxo, colocar o seu valor e caso queira, uma categoria. Além disso, podemos atualizar o valor de alguns resultados de fluxo já existentes.
 
@@ -148,8 +146,6 @@ Ele oferece três tipos de mensagens interativas:
 
 Além dessas interações, é possível incluir cabeçalhos (com mídia ou texto) e rodapés nas mensagens. A disponibilidade desses elementos varia conforme o tipo de mensagem interativa escolhida.
 A utilização deste card não substitui o uso de templates (mensagens pré-aprovadas pela Meta) para disparos ativos.
-
-## Adicione um contato a um grupo
 
 ## Abrir um ticket com um agente humano
 

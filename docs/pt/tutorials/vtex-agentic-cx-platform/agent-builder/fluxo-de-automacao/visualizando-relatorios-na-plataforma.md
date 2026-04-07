@@ -15,24 +15,23 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Depois de construirmos e rodarmos nossos fluxos, o nosso próximo anseio sem sombra de dúvida é poder analisar os resultados que estamos tendo. Quantas pessoas passaram pelo meu fluxo? Dessas pessoas, quais decisões elas tomaram? Essas e outras perguntas permeiam muito a nossa cabeça e por isso temos as opções de visualizar resultados e relatórios na plataforma.
-
 ## Acessando os resultados de fluxo
 
-Para acessar os resultados de fluxo basta abrir o fluxo em questão, clicar no menu hambúrguer ao lado do botão _**Disparar**_ _**fluxo**_ e selecionar a opção **_Resultados_**
+Para acessar os resultados de fluxo, siga os passos abaixo:
 
-Na aba de _**Resultados**_ temos duas opções de relatórios:
+1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).
+2. Clique no fluxo escolhido.
+4. Clique no botão de três listras no canto superior direito e selecione `Resultados`.
 
-  1. **Visão Global:**
+A aba de **Resultados** fornece duas opções de relatórios:
 
-A aba de visão global permite que tenhamos uma visão geral dos usuários que passaram pelo fluxo.
+### Visão Global
+A aba de visão global fornece uma visão geral dos usuários que passaram pelo fluxo.
 
-  2. **Execuções (runs)**
+### Execuções
 
-A aba de ""Runs"" oferece acesso a todos os dados brutos, que podem ser exportados e utilizados em outras aplicações para validação de informações. Na aba ""Execuções"", você pode optar por visualizar todos os dados ou apenas os contatos que responderam. Os resultados salvos nos cartões são exibidos em colunas.
+A aba de **Execuções** contém todos os dados brutos, como última atividade e o contato do cliente. Você pode optar por visualizar todos os dados ou apenas os contatos que responderam. Os resultados são exibidos em colunas.
 
-A exportação de resultados irá incluir nome, URN do contato, data de início e de término das interações no fluxo, mensagens que o contato enviou e outras informações coletadas no fluxo.
+Para exportar esses resultados, clique no botão `Baixar`, no canto superior direito. Você pode selecionar os grupos, campos e URNs. Se você marcar a caixa `Somente respondidos`, a planilha vai conter apenas os contatos que enviaram alguma resposta no fluxo.
 
-A exportação é em formato de planilha XLSX e é enviada diretamente para o email do usuário que fez a exportação.
-
-Antes de exportar, você pode selecionar as opções Grupos, Campos de Contato (Fields) e URNs. Se você marcar a opção ""Somente respondidos"", a exportação será limitada apenas aos contatos que enviaram alguma resposta no fluxo que está sendo exportado.
+A exportação de resultados gera uma planilha `.xlxs` e envia essa planilha para o email de usuário que fez a exportação. A planilha inclui nome, URN do contato, data de início e de término das interações no fluxo, mensagens que o contato enviou e outras informações coletadas no fluxo.

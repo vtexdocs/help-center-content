@@ -1,5 +1,5 @@
 ---
-title: 'Cartão de Mensagem do WhatsApp'
+title: 'Cartão de mensagem do WhatsApp'
 id: 4IsU6gP2dUx1F1A5AMKN4D
 status: PUBLISHED
 createdAt: 2025-09-17T14:17:04.971Z
@@ -15,11 +15,15 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-O cartão de mensagem do WhatsApp permite utilizar os recursos oferecidos pela Meta para tornar a interação mais atrativa. Com diversas ferramentas de formatação, é possível criar interações variadas, importar arquivos, solicitar localização, usar respostas rápidas e menus interativos com botões descritivos. Tudo isso pode ser configurado diretamente no fluxo, em poucos passos.
+O cartão de mensagem do WhatsApp utiliza recursos oferecidos pela Meta para mudar a formatação das interações com os clientes. Você pode importar arquivos, solicitar localização, e usar respostas rápidas ou menus interativos com botões descritivos.
 
-  1. No seu fluxo adicione o cartão **Mensagem do WhatsApp.**
+Para configurar o fluxo de mensagem do WhatsApp, siga os passos abaixo:
 
-A opção de mensagem simples mantém todas as funcionalidades do cartão enviar mensagem, permitindo o upload de mídia, a formatação de texto e a inserção de emojis.
+1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).
+2. Escolha um fluxo existente ou crie um novo.
+3. Clique no símbolo de `+ Criar bloco` para adicionar uma nova carta de ação.
+4. Selecione **WhatsApp**.
+
 
 ## Mensagem Interativa
 
