@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: operational-capacity-beta
-legacySlug: module-locales
+legacySlug: locations-module
 locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
