@@ -29,7 +29,7 @@ Este artigo aborda:
 1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
 2. Clique sobre o nome do campo contábil desejado.
 3. Na tela do campo contábil, clique no ícone <i class="fas fa-cog"></i> no topo da tela para editar informações do campo contábil.
-4. Em **List type**, selecione se os valores do campo contábil devem ser utilizados unicamente na organization unit (`Custom List`) ou se devem ser compartilhados por outras organization units do contrato (`Synchronized List`).
+4. Em **List type**, selecione se os valores do campo contábil devem ser utilizados unicamente na unidade organizacional (`Custom List`) ou se devem ser compartilhados por outras unidades organizacionais do contrato (`Synchronized List`).
 5. Em **Input level**, selecione se o campo contábil deve ser aplicado a nível de pedido ou de item.
 6. Em **Input requirement**, selecione se o campo deve ser opcional ou obrigatório.
 7. Em **Default {nome do campo}**, caso necessário, insira o valor padrão default a ser pré-preenchido em todos os pedidos em que o campo for aplicável.
@@ -54,7 +54,7 @@ Feito isso, você verá a mensagem de confirmação que o valor foi criado com s
 4. Selecione uma das opções abaixo, de acordo com a ação desejada:
 - **Rename:** altera o nome do valor do campo.
 - **Set as default:** define o valor como padrão, para ser pré-preenchido em todos os pedidos em que o campo for aplicável.
-- **Remove from unit:** remove o valor da organization unit à qual está atribuído. Esta ação não exclui o valor do sistema.
+- **Remove from unit:** remove o valor da unidade organizacional à qual está atribuído. Esta ação não exclui o valor do sistema.
 - **Delete:** exclui permanentemente o valor do sistema.
 
 > ⚠️ Use a opção **Delete** com cuidado. Ao excluir um valor, você remove definitivamente o valor e todos os dados associados a ele em múltiplas unidades organizacionais, o que pode comprometer o acesso a informações históricas e de auditoria. Após a confirmação, esta ação não pode ser desfeita.
