@@ -17258,6 +17258,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Temporary article for link check validation",
+                    "pt": "Artigo temporario para validacao do check de links",
+                    "es": "Temporary article for link check validation"
+                  },
+                  "slug": {
+                    "en": "temp-link-check-e2e",
+                    "pt": "temp-link-check-e2e-pt",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
