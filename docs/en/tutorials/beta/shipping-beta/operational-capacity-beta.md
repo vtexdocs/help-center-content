@@ -64,7 +64,7 @@ The **Operational capacity (Beta)** page displays the following information:
 
 | **Column** | **Description** |
 |:---:|:---|
-| Seller | Identification of the [seller](/en/docs/tutorials/o-que-e-um-seller) to which operational capacity applies to. |
+| Seller | Identification of the [seller](/en/docs/tutorials/what-is-a-seller) to which operational capacity applies to. |
 | Segmentation | Identification of the type of segmentation used for operational capacity. There are two types of segmentation: by sellers or by [sales channel](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work). To enable segmentation by sales channel, contact [our Support](https://supporticket.vtex.com/support). |
 | Capacity usage | Percentage of the seller operational capacity used that day. **Example:** If a seller with a daily capacity of 100 orders has used 80% of their capacity, they can only receive 20 more new orders that day. In this column, an alert icon is displayed when the seller reaches 100% of their capacity, so they can't receive any new orders that day. You can [edit sellers' operational capacity](#editing-the-operational-capacity-unit-of-sellers) individually or in bulk. |
 | Status | The current status of the seller's operational capacity, which can be: <ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i>**Active:** The toggle switch is on, and the seller can receive new orders — either within the configured capacity limit or with unlimited capacity.</li><li><i class="fas fa-toggle-off"></i> **Paused:** The toggle switch is off, and the seller can't receive new orders.</li>To choose when to pause a seller, see the section [Choosing between editing seller operational capacity, making it unlimited, or pausing the seller](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-pausing-the-seller-or-disabling-the-module). |
@@ -210,7 +210,7 @@ To edit the seller's address or identification name in **Operational capacity**,
 
 ## Comprehensive seller behavior
 
-When customers don't enter their location, they can see products from your store (seller 1) and those from [comprehensive sellers](/en/docs/tutorials/seller-abrangente).
+When customers don't enter their location, they can see products from your store (seller 1) and those from [comprehensive sellers](/en/docs/tutorials/comprehensive-seller).
 
 Due to a platform limitation, when you deactivate the operational capacity of a comprehensive seller, their products are still displayed on the store, but customers can't buy them. Therefore, we recommend leaving the operational capacity of comprehensive sellers enabled at all times.
 
