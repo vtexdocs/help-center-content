@@ -69,20 +69,14 @@ A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [
 
 ## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
 
-Não.
-
-A versão beta da **Delivery Promise** não oferece filtros do tipo frete grátis. Os filtros disponíveis incluem: prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+Não. A versão beta da **Delivery Promise** não oferece filtros do tipo frete grátis. Os filtros disponíveis incluem: prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
 
 ## 9. Posso não utilizar a Delivery Promise (Beta)?
 
-Sim. 
-
-O uso da funcionalidade é opcional. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). 
+Sim. O uso da funcionalidade é opcional. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). 
 
 No entanto, a VTEX recomenda o uso da **Delivery Promise (Beta)** para oferecer uma melhor experiência de compra.
 
 ## 10. Os filtros do Delivery Promise (Beta) se aplicam a sellers externos?
 
-Sim.
-
-A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
+Sim. A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
