@@ -61,7 +61,7 @@ Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armaz
 
 ## 6. Onde devo configurar quais lojas atendem a determinados CEPs?
 
-Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua sendo feita nas [planilhas de frete](/pt/docs/tutorials/planilha-de-frete) das [políticas de envio](/pt/docs/tutorials/politica-de-envio) dos sellers.
+Essa configuração deve ser feita nas [planilhas de frete](/pt/docs/tutorials/planilha-de-frete) das [políticas de envio](/pt/docs/tutorials/politica-de-envio) dos sellers.
 
 ## 7. O que acontece com quem usa a funcionalidade Regionalização? 
 
