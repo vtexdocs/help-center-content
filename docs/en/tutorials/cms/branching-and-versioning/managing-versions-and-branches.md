@@ -14,7 +14,7 @@ When working with content in the CMS, changes happen frequently, whether updatin
 * **[Branches](#branches)** allow you to group multiple page versions to collaborate and evolve your content before publishing it to the storefront.
 
 <video controls width="100%">
-  <source src="./Branches-en.mp4" type="video/mp4" />
+  <source src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/cms-branches-update/docs/en/tutorials/cms/branching-and-versioning/Branches-en.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
