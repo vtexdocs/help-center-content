@@ -3,7 +3,7 @@ title: 'Requesting an additional sales channel'
 id: 61vuFOw4yGh6nwSmkLJL1X
 status: PUBLISHED
 createdAt: 2021-12-06T23:25:42.650Z
-updatedAt: 2025-08-27T17:01:03.348Z
+updatedAt: 2026-04-08T17:01:03.348Z
 publishedAt: 2025-08-27T17:01:03.348Z
 firstPublishedAt: 2021-12-06T23:51:25.043Z
 contentType: tutorial
