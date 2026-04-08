@@ -69,7 +69,9 @@ A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [
 
 ## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
 
-Na fase atual do beta, não haverá filtros do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+Não.
+
+A versão beta da **Delivery Promise** não oferece filtros do tipo frete grátis. Os filtros disponíveis incluem: prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
 
 ## 9. Posso não utilizar a Delivery Promise (Beta)?
 
