@@ -25,5 +25,5 @@ One of the first things you have to do in your web site is to link it to a store
 5. Click on __Save Website__.
 6. Click __Add__.![addBinding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_2.png)
 7. Select the store name.![chooseBinding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_3.png)
-8. Check the trade policy or trade policies that will be tied to this store.![bindingSalesPolicy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_4.png)
+8. Check the sales channel or sales channels that will be tied to this store.![bindingSalesPolicy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_4.png)
 9. Click __Save Binding__.

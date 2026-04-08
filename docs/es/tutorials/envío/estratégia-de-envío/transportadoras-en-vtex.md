@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:14:26.579Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slugEN: carries-on-vtex
+slugEN: carriers-on-vtex
 legacySlug: que-es-una-transportadora
 locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

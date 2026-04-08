@@ -15,9 +15,9 @@ trackSlugEN: integrating-with-google-shopping
 order: 4
 ---
 
-The [price](/en/docs/tracks/prices-module-overview) of your product on Google Shopping is determined when you choose the trade policy. It is essential to pay attention to a few things.
+The [price](/en/docs/tracks/prices-module-overview) of your product on Google Shopping is determined when you choose the sales channel. It is essential to pay attention to a few things.
 
-If your trade policy includes [list prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) and [computed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado), the latter will be sent to Google Shopping. For these promotions to be displayed on Google Shopping, the products must meet the following requirements in the Merchant Center:  
+If your sales channel includes [list prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) and [computed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado), the latter will be sent to Google Shopping. For these promotions to be displayed on Google Shopping, the products must meet the following requirements in the Merchant Center:  
 
 - The base price, or a higher amount, must have been charged for 30 days, consecutively or not, in the last 200 days.  
 - The base price must be valid.  

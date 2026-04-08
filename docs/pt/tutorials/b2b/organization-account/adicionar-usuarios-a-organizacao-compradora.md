@@ -1,18 +1,18 @@
 ---
 title: 'Adicionar usuários à organização compradora'
-createdAt: '2026-03-06T10:00:00.000Z'
-updatedAt: '2026-03-06T10:00:00.000Z'
+createdAt: '2026-03-05T10:00:00.000Z'
+updatedAt: '2026-03-05T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: adding-users-to-buyer-organization
+slugEN: adding-users-to-buyer-organizations
 locale: pt
 ---
 
 Este artigo explica como um **Organization Admin** pode criar um usuário membro de uma organização compradora com permissões específicas para realizar ações em nome da organização.
 
-O usuário adicionado a uma organização compradora será vinculado a uma Organization Unit e terá um perfil de acesso no storefront que o permitirá executar ações na loja.
+O usuário adicionado a uma organização compradora será vinculado a uma unidade organizacional e terá um perfil de acesso no storefront que o permitirá executar ações na loja.
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 ## Antes de começar
 
@@ -22,15 +22,22 @@ Para adicionar um usuário, é necessário estar cadastrado na loja como membro 
 
 Siga as instruções a seguir para adicionar um usuário:
 
-1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), siga **a** ou **b** para acessar o painel de criação de usuário:  
+1. Acesse a loja pelo navegador e faça login com seu usuário.  
 
-   1. Clique no botão **\+** e depois em **Add user**,  
+2. No menu superior, clique em **Company**. O painel da organização será exibido.  
+
+   ![adicionar-usuarios-a-organizacao-compradora_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/adicionar-usuarios-a-organizacao-compradora_1.png)
+
+3. Clique em **Manage.**  
+4. Siga **a** ou **b** para acessar o painel de criação de usuário:  
+
+   a. Clique no botão **+** e depois em **Add user**,  
       ou  
-   2. Clique em **Users** e depois no botão **\+**.
+   b. Clique em **Users** e depois no botão **+**.
 
-   ![adicionar-usuarios-a-organizacao-compradora_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/adicionar-usuarios-a-organizacao-compradora_2.png)
+   ![adicionar-usuarios-a-organizacao-compradora_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/adicionar-usuarios-a-organizacao-compradora_2.png)
 
-2. Preencha as informações do novo usuário:
+5. Preencha as informações do novo usuário:
 
    * **Nome completo (opcional)**: nome e sobrenome do usuário, conforme deve aparecer na organização.  
    * **Email (opcional)**: endereço de email que poderá ser utilizado para login e comunicações relacionadas ao processo de compra.  
@@ -40,7 +47,7 @@ Siga as instruções a seguir para adicionar um usuário:
 
      > ⚠️ Cadastrar usuários compradores, ou seja, com perfis de acesso que permitem realizar compras, exige um passo adicional. Saiba mais em [Habilitar usuários compradores](#habilitar-usuarios-compradores).
 
-3. Clique em **Add** para concluir.  
+6. Clique em **Add** para concluir.  
 
    Após a criação, uma mensagem de confirmação será exibida. Você pode clicar em **View** nessa mensagem para visualizar o usuário recém-criado.  
 
@@ -48,7 +55,7 @@ Siga as instruções a seguir para adicionar um usuário:
 
 > ⚠️ O novo usuário precisa definir a sua senha no primeiro acesso à loja. Para isso, ele deve utilizar um código de acesso enviado para o email cadastrado no passo 5, se houver. Se não tiver email cadastrado, o código de acesso precisa ser gerado pelo administrador da organização, como descrito na seção [Gerar código de acesso para usuários sem email](#gerar-codigo-de-acesso-para-usuarios-sem-email).
 
-Ele passará a operar dentro da Organization Unit à qual foi vinculado e poderá executar ações a depender do perfil de acesso no storefront e das permissões atribuídas.
+Ele passará a operar dentro da unidade organizacional à qual foi vinculado e poderá executar ações a depender do perfil de acesso no storefront e das permissões atribuídas.
 
 ## Gerar código de acesso para usuários sem email
 

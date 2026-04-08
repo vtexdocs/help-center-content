@@ -41,7 +41,7 @@ In this part of the form, you need to fill in information that will be used to i
 
 * **Affiliate ID:** the identifier of the [new affiliate](/en/docs/tutorials/what-is-an-affiliate) you want to create for the integration. The affiliate ID must contain only 3 consonants and cannot be associated with an existing affiliate. We suggest using `TKT` to easily identify TikTok. It is important to check if the ID is not in use in **Orders management > Settings > Affiliates**. The affiliate will be created automatically when you complete the configuration. 
 
-* **Trade policy:** a field to select the trade policy to be associated with a catalog integrated with TikTok. Currently, the integration only accepts trade policies with BRL as currency. See the [Sending product data to TikTok](#sending-product-data-to-tiktok) section for more information.
+* **Sales channel:** a field to select the sales channel to be associated with a catalog integrated with TikTok. Currently, the integration only accepts sales channels with BRL as currency. See the [Sending product data to TikTok](#sending-product-data-to-tiktok) section for more information.
 
 > ⚠️ Do not change the affiliate configuration created automatically through this integration. Any future manual changes to the affiliate's configuration in **Orders management > Settings > Affiliates** may cause the integration to stop working.
 
@@ -95,7 +95,7 @@ On the **Set Up TikTok for Business page**, as illustrated below, please follow 
 7. In the **Data Sharing** section, edit the name of the new Pixel as desired and click `Create New`.
 8. Use the <i class="fas fa-toggle-on"></i> button to enable or disable [Advanced Matching](https://ads.tiktok.com/help/article?aid=10007891). This feature is not available for the VTEX integration at the moment, so even if you enable it via this button, it will not be applied.
 9. Click on the __Catalog__ section to integrate your catalog with TikTok. Read [Sending product data to TikTok](#sending-product-data-to-tiktok) for more information on this process.
-10. In the **Catalog** section, edit the name of the new catalog to be created in the [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) as desired and click `Create New`. The products associated with the trade policy informed in the [form](#1-completing-the-integration-configuration-form) will be added to this catalog onc TikTok.
+10. In the **Catalog** section, edit the name of the new catalog to be created in the [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) as desired and click `Create New`. The products associated with the sales channel informed in the [form](#1-completing-the-integration-configuration-form) will be added to this catalog onc TikTok.
 11. Click `Finish Setup`.
 
 When you complete this setting, you will be redirected back to **Marketplace > TikTok** in the VTEX Admin, where you can [manage the integration](/en/docs/tracks/managing-the-integration-with-tiktok-for-business-in-vtex-admin). For some versions of the VTEX Admin, you can access the page in **Apps > My apps > TikTok**. After the configuration has been successfully completed, any user logged into the VTEX Admin can access the TikTok management area. 

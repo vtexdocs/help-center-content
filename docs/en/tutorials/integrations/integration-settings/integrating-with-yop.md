@@ -40,7 +40,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 - **Name** YOP
 - **ID:** YPP
-- **Trade Policy:** ID of the sales policy to be assumed by the marketplace.
+- **Sales Channel:** ID of the sales policy to be assumed by the marketplace.
 - **E-mail for notifications:** Email address that will receive any notification of conflict when integrating orders.
 - **Search Endpoint:** https://yop.land/vtex/notifications
 - **Search Endpoint version:** Today, only 1 exists, and it cannot be altered &#8211; Default: 1.x.x;

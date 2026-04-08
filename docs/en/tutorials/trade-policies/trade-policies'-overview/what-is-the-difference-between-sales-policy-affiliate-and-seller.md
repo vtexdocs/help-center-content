@@ -51,5 +51,5 @@ After creating an [affiliate](/en/docs/tutorials/configuring-affiliates/), you m
 #### **LEAR MORE**
 
 - [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)
-- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)
+- [How sales channels work](/en/docs/tutorials/how-trade-policies-work)
+- [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)

@@ -37,7 +37,7 @@ The page displays the following information:
 | City             | City where the physical store is located.                                                                                                                                                 |
 | State             | State where the physical store is located.                                                                                                                                                 |
 | Franchise account     | [Franchise account](/en/docs/tutorials/what-is-a-franchise-account) to which the physical store is associated.                                                       |
-| Trade policy | [Trade policy](/en/docs/tutorials/how-trade-policies-work) applied to the physical store.                                              |
+| Sales channel | [Sales channel](/en/docs/tutorials/how-trade-policies-work) applied to the physical store.                                              |
 
 ## Adding a physical store
 
@@ -72,7 +72,7 @@ You can add a physical store by following the steps below:
 #### Technical information
 
 * **Franchise account:** the [franchise account](/en/docs/tutorials/what-is-a-franchise-account) in which the physical store must be added.
-* **Trade policy:** the [trade policy](/en/docs/tutorials/how-trade-policies-work) that will be applied in the physical store. Mandatory field.
+* **Sales channel:** the [sales channel](/en/docs/tutorials/how-trade-policies-work) that will be applied in the physical store. Mandatory field.
 * **Pickup point:** the [pickup point](/en/docs/tutorials/pickup-points) associated to this physical store, where customers pick up their orders. 
 
 > ℹ️ Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.

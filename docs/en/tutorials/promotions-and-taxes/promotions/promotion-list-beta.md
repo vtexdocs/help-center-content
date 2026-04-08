@@ -97,7 +97,7 @@ The promotion list can be filtered according to your needs by using the followin
 - **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion).
 - **Status:** The status of the promotion. The options are: `Active`, `Scheduled`, `Paused`, and `Completed`.
 - **Last modified:** Last update history for the last 12 months, 3 months, 30 days, 7 days, or the day before the query.
-- **Trade policy:** Trade policy under which the promotion will be applied.
+- **Sales channel:** Sales channel under which the promotion will be applied.
 - **UTM:** URL parameters used to track traffic. The options are `With UTM` and `Without UTM`. 
 
 Select the desired filters and click on `Apply` to filter the promotions. To cancel the selection, click on `Clear` on the desired filters.
