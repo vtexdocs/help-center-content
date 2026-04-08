@@ -32,15 +32,15 @@ With this integration, it will be possible to __create new accounts__ and also _
 
 &bull; __Integration*:__ Check `Enabled` for the integration to start operating. If you check `Disabled`, the entire integration settings will be deleted, including the affiliate.
 
-&bull; __Affiliate ID*:__ this field must be filled in with an [affiliate](/en/faq/what-is-affiliate) ID that doesn't already exist in the affiliate registration. The ID accepts only three digits (all must be consonants). Suggestion: `MGZ`.
+&bull; __Affiliate ID*:__ this field must be filled in with an [affiliate](/en/docs/tutorials/what-is-an-affiliate) ID that doesn't already exist in the affiliate registration. The ID accepts only three digits (all must be consonants). Suggestion: `MGZ`.
 
 If you have [multi-domain integration settings](/en/tutorial/creating-multi-store-multi-domain), pay special attention to the affiliate ID, because this field should have a different value for each domain.
 
 If you are migrating an account, we will take advantage of the affiliate already used for the old integration and we'll start using it in this integration.
 
-&bull; __Trade policy\*:__ The trade policy ID that will be used for integrating with Magazine Luiza. It is the products of this trade policy that will be sent to the marketplace.
+&bull; __Sales channel\*:__ The sales channel ID that will be used for integrating with Magazine Luiza. It is the products of this sales channel that will be sent to the marketplace.
 
-&bull; __Percentual of tolerance in the divergence of the order value\*:__ it's the acceptance rate of the difference in an order value. Any order that has a difference between the marketplace's selling price and the price determined by the seller [will be compared to this value](/en/faq/why-was-the-order-closed-with-the-wrong-price). If the divergence, in percent, is less than the value defined in this field, the order will be integrated normally. Otherwise, the order will not be integrated and you will be able to see it in the [orders tab (within the integrations section in Admin)](/en/docs/tutorials/checking-integrations-in-bridge).
+&bull; __Percentual of tolerance in the divergence of the order value\*:__ it's the acceptance rate of the difference in an order value. Any order that has a difference between the marketplace's selling price and the price determined by the seller [will be compared to this value](/en/docs/tutorials/my-order-was-closed-with-the-wrong-price). If the divergence, in percent, is less than the value defined in this field, the order will be integrated normally. Otherwise, the order will not be integrated and you will be able to see it in the [orders tab (within the integrations section in Admin)](/en/docs/tutorials/checking-integrations-in-bridge).
 
 &bull; __Customizable SLA Mapping\*:__ in these fields you should do a correspondence between the [types of carrier](/en/docs/tutorials/how-does-the-type-of-delivery-work) registered in IntegraCommerce and those registered in VTEX logistics. When doing the mapping, click the `+` button to save it.
 

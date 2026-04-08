@@ -102,7 +102,7 @@ Each column corresponds to specific information, as described below.
 *    **Corporate Document**: company registration number, in case the order was placed by a company.
 *    **TransactionId**: transaction ID.
 *    **PaymentId**: payment ID.
-*    **SalesChannel**: ID of the applicable trade policy.
+*    **SalesChannel**: ID of the applicable sales channel.
 *    **marketingTags**: field that can be used by the store system to track different marketing-related activities. The VTEX recurrence system populates this field with the vtexrecurrence value.
 *    **Delivered**: indicates if the order has already been delivered (true) or not (false). This applies to stores that send this information to the VTEX system.
 *    **SKU RewardValue**: points for that SKU in the store's reward program.

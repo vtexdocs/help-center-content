@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-using-the-app
 order: 15
 ---
 
-En el paso de pago de VTEX Sales App, las [opciones de pago que se han configurado](/es/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) aparecerán en su tienda.
+En el paso de pago de VTEX Sales App, las [opciones de pago que se han configurado](/es/docs/tracks/configuracion-de-metodos-de-pago-vtex-sales-app) aparecerán en su tienda.
 
 La barra superior de la pantalla de pago muestra las siguientes opciones:
 
@@ -38,7 +38,7 @@ Durante la configuración de VTEX Sales App, se pueden agregar los siguientes me
 - [Tarjeta de crédito](#tarjeta-de-credito)
 - [Tarjeta de débito](#tarjeta-de-debito)
 
-Para configurar un medio de pago, sigue las instrucciones de la guía [VTEX Sales App - Pagos](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar un medio de pago, sigue las instrucciones de la guía [VTEX Sales App - Pagos](/es/docs/tracks/configuracion-de-metodos-de-pago-vtex-sales-app).
 
 ### Efectivo
 

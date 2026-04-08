@@ -51,7 +51,7 @@ In order for a VTEX marketplace to connect to a VTEX seller, it will need access
 - **Admin email:** email of the admin responsible for the seller.
 - **Seller affiliate ID:** three digit identification code which identifies the [affiliate](/en/docs/tutorials/what-is-an-affiliate) created by the seller in their own VTEX Admin.
 - **Description:** text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
-- **Trade policy:** identification code of the [trade policy](/en/docs/tutorials/how-trade-policies-work) the seller wants to use when selling on the marketplace.
+- **Sales channel:** identification code of the [sales channel](/en/docs/tutorials/how-trade-policies-work) the seller wants to use when selling on the marketplace.
 - **Fulfillment SellerId:** identification code of the seller responsible for fulfilling the order. This information is optional, only required when the seller sells SKUs from another seller. It must not be filled in when the seller sells their own SKUs.
 - **Catalog EndPoint:** endpoint URLfor the seller's catalog.
 - **TaxCode:** seller's company registration number (CNPJ in Brazil) or corresponding code for other countries.

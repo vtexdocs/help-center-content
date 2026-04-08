@@ -23,7 +23,7 @@ To integrate using the connector, **you must have a Google Merchant Center accou
 
 These are the next steps to integrate your VTEX store with Google Shopping:
 
-1. [Define the trade policy](/en/docs/tracks/defining-the-google-shopping-trade-policy)
+1. [Define the sales channel](/en/docs/tracks/defining-the-google-shopping-trade-policy)
 2. [Configure the connector](/en/docs/tracks/configuring-the-connector)
 3. [Authenticate your account](/en/docs/tracks/authenticating-your-google-shopping-account)
 4. [Submit products to Google Shopping](/en/docs/tracks/sending-products-to-google-shopping)

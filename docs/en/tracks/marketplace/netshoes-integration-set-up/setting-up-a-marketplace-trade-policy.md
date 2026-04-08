@@ -1,5 +1,5 @@
 ---
-title: 'Setting up a marketplace trade policy'
+title: 'Setting up a marketplace sales channel'
 id: 6mokL50ny8gYK2S4ImOy2w
 status: PUBLISHED
 createdAt: 2018-08-13T12:08:39.183Z

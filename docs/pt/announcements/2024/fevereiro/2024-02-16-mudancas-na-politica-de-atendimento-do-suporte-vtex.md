@@ -22,15 +22,15 @@ A dinâmica do Suporte VTEX passou por transformações com a transição do can
 
 > ℹ️ Esta mudança é válida apenas para contas no Brasil.
 
-# O que mudou?
+## O que mudou?
 Anteriormente, para obter auxílio do time do suporte VTEX, era necessário abrir um chamado no Suporte. A partir de hoje, a [VTEX Community](https://community.vtex.com/) se torna o canal primário de Suporte.
 
-# Por que fizemos essa mudança?
+## Por que fizemos essa mudança?
 Essas mudanças visam proporcionar uma experiência de suporte mais escalável e eficiente, garantindo que as necessidades dos usuários sejam atendidas de forma rápida e satisfatória.
 
 A VTEX Community conta com moderadores dedicados para acompanhar as publicações e garantir que todas as perguntas sejam respondidas.
 
-# O que precisa ser feito?
+## O que precisa ser feito?
 
 Ao precisar de suporte, acesse [VTEX Community](https://community.vtex.com/), realize o login no portal e  obtenha a resposta da nossa equipe de especialistas do ecossistema VTEX.
 

@@ -20,7 +20,7 @@ symptomFilters:
   - Validation error
 ---
 
-[Price tables, or price spreadsheets](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) and [Fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito).
+[Price tables, or price spreadsheets](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito), store SKU information which, when applied in specific contexts, such as sales channels, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) and [Fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito).
 
 > ⚠️ You cannot import a **calculated price** table into the VTEX Admin. The **Export** function is available for this table only for the merchant to check the final price for each product.
 

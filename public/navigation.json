@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "April",
+                "es": "Abril",
+                "pt": "Abril"
+              },
+              "slug": {
+                "en": "2026-april",
+                "es": "2026-abril",
+                "pt": "2026-abril"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Creating sales channels via VTEX Admin",
+                    "es": "Crear políticas comerciales en el Admin VTEX",
+                    "pt": "Criar políticas comerciais pelo Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-04-06-creating-sales-channels-via-vtex-admin",
+                    "es": "2026-04-06-crear-politicas-comerciales-en-el-admin-vtex",
+                    "pt": "2026-04-06-criar-politicas-comerciais-pelo-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "March",
                 "es": "Marzo",
                 "pt": "Março"
@@ -37,6 +68,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Headless CMS: Stores will be upgraded to the new VTEX CMS",
+                    "es": "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS",
+                    "pt": "Headless CMS: lojas serão atualizadas para o novo CMS da VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms",
+                    "es": "2026-03-30-headless-cms-las-tiendas-seran-migradas-al-nuevo-vtex-cms",
+                    "pt": "2026-03-30-headless-cms-lojas-serao-atualizadas-para-o-novo-vtex-cms"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
@@ -54,8 +100,8 @@
                 },
                 {
                   "name": {
-                    "en": "Amazon: Price suggestion",
-                    "es": "Amazon: Sugerencia de precios",
+                    "en": "Amazon: Price suggestions",
+                    "es": "Amazon: sugerencia de precios",
                     "pt": "Amazon: Sugestão de preços"
                   },
                   "slug": {
@@ -216,6 +262,21 @@
                     "en": "2025-12-23-granular-permissions-seller-marketplace-network",
                     "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
                     "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New VTEX CMS now available for waitlist",
+                    "es": "Nuevo VTEX CMS disponible en lista de espera",
+                    "pt": "O novo VTEX CMS já está disponível na lista de espera"
+                  },
+                  "slug": {
+                    "en": "2025-12-15-new-vtex-cms-now-available-for-waitlist",
+                    "es": "2025-12-15-nuevo-vtex-cms-disponible-en-lista-de-espera",
+                    "pt": "2025-12-15-o-novo-vtex-cms-ja-esta-disponavel-na-lista-de-espera"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13281,7 +13342,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Setting up a trade policy for Mercado Livre",
+                    "en": "3. Setting up a sales channel for Mercado Livre",
                     "es": "3. Configurar política comercial para Mercado Libre",
                     "pt": "3. Configurar política comercial para o Mercado Livre"
                   },
@@ -13462,7 +13523,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining Magazine Luiza trade policy",
+                    "en": "3. Defining Magazine Luiza sales channel",
                     "es": "3. Definir la política comercial para Magazine Luiza",
                     "pt": "3. Definição da política comercial para Magazine Luiza"
                   },
@@ -13598,7 +13659,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Setting up a trade policy",
+                    "en": "3. Setting up a sales channel",
                     "es": "3. Configurar la política comercial",
                     "pt": "3. Configurar política comercial"
                   },
@@ -13704,7 +13765,7 @@
                 },
                 {
                   "name": {
-                    "en": "2. Defining Centauro trade policy",
+                    "en": "2. Defining Centauro sales channel",
                     "es": "2. Definir la política comercial para Centauro",
                     "pt": "2. Definição da política comercial para Centauro"
                   },
@@ -13886,7 +13947,7 @@
                 },
                 {
                   "name": {
-                    "en": "2. Setting up a marketplace trade policy",
+                    "en": "2. Setting up a marketplace sales channel",
                     "es": "2. Configurar la política comercial para marketplace",
                     "pt": "2. Configurar política comercial para marketplace"
                   },
@@ -14022,7 +14083,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Setting up a trade policy",
+                    "en": "3. Setting up a sales channel",
                     "es": "3. Configurar la política comercial",
                     "pt": "3. Configurar política comercial"
                   },
@@ -14158,7 +14219,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining Dafiti trade policy",
+                    "en": "3. Defining Dafiti sales channel",
                     "es": "3. Definición de la política comercial de Dafiti",
                     "pt": "3. Definição da política comercial para Dafiti"
                   },
@@ -14340,7 +14401,7 @@
                 },
                 {
                   "name": {
-                    "en": "2. Defining Netshoes trade policy",
+                    "en": "2. Defining Netshoes sales channel",
                     "es": "2. Definir la política comercial para Netshoes",
                     "pt": "2. Definição da política comercial para Netshoes"
                   },
@@ -14430,7 +14491,7 @@
                 },
                 {
                   "name": {
-                    "en": "8. Setting up a marketplace trade policy",
+                    "en": "8. Setting up a marketplace sales channel",
                     "es": "8. Configurar la política comercial para marketplace",
                     "pt": "8. Configurar política comercial para marketplace"
                   },
@@ -14688,7 +14749,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining the trade policy",
+                    "en": "3. Defining the sales channel",
                     "es": "3. Definir la política comercial",
                     "pt": "3. Definição da política comercial"
                   },
@@ -15037,7 +15098,7 @@
                 },
                 {
                   "name": {
-                    "en": "3. Defining a trade policy",
+                    "en": "3. Defining a sales channel",
                     "es": "3. Definir la política comercial",
                     "pt": "3. Definição da política comercial"
                   },
@@ -17080,6 +17141,21 @@
                 },
                 {
                   "name": {
+                    "en": "B2B Buyer Portal",
+                    "es": "B2B Buyer Portal",
+                    "pt": "B2B Buyer Portal"
+                  },
+                  "slug": {
+                    "en": "b2b-buyer-portal",
+                    "es": "b2b-buyer-portal-es",
+                    "pt": "b2b-buyer-portal-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
@@ -17140,12 +17216,12 @@
                 },
                 {
                   "name": {
-                    "en": "Contracts Manager Agent",
-                    "es": "Agente de Gestión de Contratos",
+                    "en": "Contract Manager Agent",
+                    "es": "Agente de gestión de contratos",
                     "pt": "Agente de Gerenciamento de Contratos"
                   },
                   "slug": {
-                    "en": "contracts-manager-agent",
+                    "en": "contract-manager-agent",
                     "es": "agente-de-gestion-de-contratos",
                     "pt": "agente-de-gerenciamento-de-contratos"
                   },
@@ -17155,14 +17231,14 @@
                 },
                 {
                   "name": {
-                    "en": "Organization Units",
-                    "es": "Unidades de organización",
-                    "pt": "Organization Units"
+                    "en": "Organizational units",
+                    "es": "Unidades organizativas",
+                    "pt": "Unidades organizacionais"
                   },
                   "slug": {
-                    "en": "organization-units",
-                    "es": "organization-units-es",
-                    "pt": "organization-units-pt"
+                    "en": "organizational-units",
+                    "es": "unidades-organizativas",
+                    "pt": "unidades-organizacionais"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17248,12 +17324,12 @@
                   "name": {
                     "en": "Adding or editing organizational units",
                     "es": "Agregar o editar unidades organizativas",
-                    "pt": "Adicionar ou editar Organizational Units"
+                    "pt": "Adicionar ou editar unidades organizacionais"
                   },
                   "slug": {
                     "en": "adding-or-editing-organizational-units",
                     "es": "agregar-o-editar-unidades-organizativas",
-                    "pt": "adicionar-ou-editar-organizational-units"
+                    "pt": "adicionar-ou-editar-unidades-organizacionais"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17261,29 +17337,14 @@
                 },
                 {
                   "name": {
-                    "en": "Adding users to a buyer organization",
+                    "en": "Adding users to buyer organizations",
                     "es": "Agregar usuarios a la organización compradora",
                     "pt": "Adicionar usuários à organização compradora"
                   },
                   "slug": {
-                    "en": "adding-users-to-buyer-organization",
+                    "en": "adding-users-to-buyer-organizations",
                     "es": "agregar-usuarios-a-la-organizacion-compradora",
                     "pt": "adicionar-usuarios-a-organizacao-compradora"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "pt": "Conta da Organização",
-                    "en": "Conta da Organização",
-                    "es": "Conta da Organização"
-                  },
-                  "slug": {
-                    "pt": "conta-da-organizacao",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17308,12 +17369,12 @@
                   "name": {
                     "en": "Organization account",
                     "es": "Cuenta de la organización",
-                    "pt": "Organization account"
+                    "pt": "Conta da Organização"
                   },
                   "slug": {
                     "en": "organization-account",
                     "es": "cuenta-de-la-organizacion",
-                    "pt": ""
+                    "pt": "conta-da-organizacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17472,12 +17533,12 @@
                     },
                     {
                       "name": {
-                        "en": "B2B trade policies - Overview (B2B Suite)",
+                        "en": "B2B sales channels - Overview (B2B Suite)",
                         "es": "Políticas comerciales en B2B - Información general (B2B Suite)",
                         "pt": "Política comercial no B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
-                        "en": "b2b-trade-policies-overview",
+                        "en": "b2b-sales-channels-overview",
                         "es": "vista-general-de-las-politicas-comerciales-en-b2b",
                         "pt": "visao-geral-da-politica-comercial-no-b2b"
                       },
@@ -18145,8 +18206,8 @@
                 },
                 {
                   "name": {
-                    "en": "Operational Capacity (Beta)",
-                    "es": "Capacidad operativa (Beta)",
+                    "en": "Operational capacity (Beta)",
+                    "es": "Capacidad operativa (beta)",
                     "pt": "Capacidade operacional (Beta)"
                   },
                   "slug": {
@@ -19525,7 +19586,7 @@
                 },
                 {
                   "name": {
-                    "en": "Associate a SKU to a trade policy",
+                    "en": "Associate a SKU to a sales channel",
                     "es": "Asociación de SKU a una política comercial",
                     "pt": "Associação de SKU à Política Comercial"
                   },
@@ -20520,6 +20581,160 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "CMS",
+            "es": "CMS",
+            "pt": "CMS"
+          },
+          "slug": {
+            "en": "cms-subcategory",
+            "es": "cms-subcategoria-es",
+            "pt": "cms-subcategoria-pt"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Get started",
+                "es": "Primeros pasos",
+                "pt": "Primeiros passos"
+              },
+              "slug": {
+                "en": "get-started-category",
+                "es": "primeros-pasos-categoria",
+                "pt": "primeiros-passos-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Información general de la gestión de contenidos",
+                    "pt": "Visão geral do CMS"
+                  },
+                  "slug": {
+                    "en": "cms-overview",
+                    "es": "cms-informacion-general",
+                    "pt": "cms-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Branching and versioning",
+                "es": "Ramificación y versionado",
+                "pt": "Branching and versionamento"
+              },
+              "slug": {
+                "en": "branching-and-versioning-subcategory",
+                "es": "ramificacion-y-versionado-subcategoria",
+                "pt": "branching-and-versionamento-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Managing versions and branches",
+                    "es": "Gestionar versiones y ramas",
+                    "pt": "Gerenciando versões e branches"
+                  },
+                  "slug": {
+                    "en": "managing-versions-and-branches",
+                    "es": "gestionando-versiones-y-branches",
+                    "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Localizing content",
+                "es": "Localización de contenido",
+                "pt": "Localização de conteúdo"
+              },
+              "slug": {
+                "en": "localizing-content-subcategory",
+                "es": "localizacion-de-contenido-subcategoria",
+                "pt": "localizacao-de-conteudo-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring locales",
+                    "es": "Configurar configuraciones regionales",
+                    "pt": "Configurar localidades"
+                  },
+                  "slug": {
+                    "en": "configuring-locales",
+                    "es": "configurar-configuraciones-regionales",
+                    "pt": "configurar-localidades"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Localizing content - Overview",
+                    "es": "Localización de contenido - Descripción general",
+                    "pt": "Localização de conteúdo - Visão geral"
+                  },
+                  "slug": {
+                    "en": "localizing-content",
+                    "es": "localizacion-de-contenido",
+                    "pt": "localizacao-de-conteudo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Supported languages and regions",
+                    "es": "Idiomas y regiones admitidos",
+                    "pt": "Regiões e idiomas suportados"
+                  },
+                  "slug": {
+                    "en": "supported-languages-and-regions",
+                    "es": "idiomas-y-regiones-admitidos",
+                    "pt": "idiomas-e-regioes-compativeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understanding locale fallback rules",
+                    "es": "Estrategias de configuración regional de resguardo",
+                    "pt": "Estratégias de fallback de localidade"
+                  },
+                  "slug": {
+                    "en": "understanding-locale-fallback-rules",
+                    "es": "estrategias-de-configuracion-regional-de-resguardo",
+                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -23606,7 +23821,7 @@
                 },
                 {
                   "name": {
-                    "en": "Price suggestion in the Amazon integration",
+                    "en": "Price suggestion in Amazon integration",
                     "es": "Sugerencia de precios en la integración con Amazon",
                     "pt": "Sugestão de preços na integração com a Amazon"
                   },
@@ -25046,7 +25261,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to limit access to the store using a trade policy",
+                    "en": "How to limit access to the store using a sales channel",
                     "es": "Limitar acceso a la tienda por política comercial",
                     "pt": "Limitar acesso à loja pela política comercial"
                   },
@@ -32660,6 +32875,21 @@
                 },
                 {
                   "name": {
+                    "en": "Fraud Prevention (Beta)",
+                    "es": "Prevención de Fraude (Beta)",
+                    "pt": "Prevenção contra fraudes (Beta)"
+                  },
+                  "slug": {
+                    "en": "fraud-prevention",
+                    "es": "prevencion-de-fraude",
+                    "pt": "prevencao-contra-fraudes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mutual Transport Layer Security (mTLS)",
                     "es": "Mutual Transport Layer Security (mTLS)",
                     "pt": "Mutual Transport Layer Security (mTLS)"
@@ -35986,37 +36216,6 @@
             },
             {
               "name": {
-                "en": "CMS",
-                "es": "CMS",
-                "pt": "CMS"
-              },
-              "slug": {
-                "en": "cms",
-                "es": "cms",
-                "pt": "cms"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Content Management overview",
-                    "es": "Información general de la gestión de contenidos",
-                    "pt": "Visão geral do CMS"
-                  },
-                  "slug": {
-                    "en": "cms-overview",
-                    "es": "cms-informacion-general",
-                    "pt": "cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Storefront - Overview",
                 "es": "Storefront - Información general",
                 "pt": "Storefront - Visão geral"
@@ -36289,7 +36488,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring a marketplace trade policy",
+                    "en": "Configuring a marketplace sales channel",
                     "es": "Configurar política comercial para marketplace",
                     "pt": "Configurar política comercial para marketplace"
                   },
@@ -36335,7 +36534,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating a trade policy",
+                    "en": "Creating a sales channel (sales channel)",
                     "es": "Crear una política comercial",
                     "pt": "Criar uma política comercial"
                   },
@@ -36365,7 +36564,7 @@
                 },
                 {
                   "name": {
-                    "en": "How trade policies work",
+                    "en": "How sales channels work",
                     "es": "Como funciona una Política Comercial",
                     "pt": "Como funciona uma Política Comercial"
                   },
@@ -36380,7 +36579,7 @@
                 },
                 {
                   "name": {
-                    "en": "Requesting an additional trade policy",
+                    "en": "Requesting an additional sales channel",
                     "es": "Contratación de políticas comerciales adicionales",
                     "pt": "Contratação de política comercial adicional"
                   },
@@ -46326,6 +46525,21 @@
             },
             {
               "name": {
+                "en": "Race condition with GET OrderForm when user is authenticated and email is null",
+                "es": "Condición de carrera con GET OrderForm cuando el usuario está autenticado y el correo electrónico es nulo",
+                "pt": "Condição de corrida com GET OrderForm quando o usuário está autenticado e o e-mail é nulo"
+              },
+              "slug": {
+                "en": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+                "es": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+                "pt": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Region API returns seller list due to cache",
                 "es": "La API de la región devuelve la lista de vendedores debido a la caché",
                 "pt": "A API da região retorna a lista de vendedores devido ao cache"
@@ -48548,7 +48762,7 @@
             },
             {
               "name": {
-                "en": "Amazon Listing Returns Code",
+                "en": "Amazon Listing Returns Code #13013 preventing SKU creation",
                 "es": "Amazon Listado Código de devolución",
                 "pt": "Amazon Listagem Código de devolução"
               },
@@ -65093,6 +65307,21 @@
                 "en": "comment-vtexcrm-field-is-not-showing-its-content",
                 "es": "el-campo-vtexcrm-no-muestra-su-contenido",
                 "pt": "comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CRM UI relationship field search fails when related field is Auto Increment",
+                "es": "La búsqueda en el campo de relación de la interfaz de usuario de CRM falla cuando el campo relacionado es de autoincremento",
+                "pt": "A pesquisa no campo de relação da interface do usuário do CRM falha quando o campo relacionado é de incremento automático"
+              },
+              "slug": {
+                "en": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+                "es": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+                "pt": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico"
               },
               "origin": "",
               "type": "markdown",

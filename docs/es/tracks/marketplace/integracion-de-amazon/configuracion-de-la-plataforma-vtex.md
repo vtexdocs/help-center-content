@@ -40,7 +40,7 @@ Por cada política comercial adicional se cobra una tarifa mensual, ya sea que s
 
 ## Definir la Estrategia de Envío
 
-Para vender sus productos en Amazon necesita determinar una [Estrategia de Envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete), es decir, informar cuál será la logística de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [Política de Envío](/es/docs/tutorials/politica-de-envio), [Almacén](/es/docs/tutorials/almacen) y [Muelle](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete). 
+Para vender sus productos en Amazon necesita determinar una [Estrategia de Envío](/es/docs/tutorials/estrategia-de-envio), es decir, informar cuál será la logística de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [Política de Envío](/es/docs/tutorials/politica-de-envio), [Almacén](/es/docs/tutorials/almacen) y [Muelle](/es/docs/tutorials/muelles). 
 
 La Política de Envío (transportadora) se asocia al Almacén de su tienda a través del Muelle. El muelle es el punto intermedio y donde se establecen las condiciones entre la transportadora y el almacenaje de su tienda.
 
@@ -56,6 +56,6 @@ Si desea comprobar si la configuración se ha realizado correctamente, puede rea
 
 ### Tiempo de procesamiento
 
-En Amazon hay el campo *“fulfillment latency”*, que se utiliza para configurar el tiempo de preparación de la entrega de un determinado producto. Para utilizarlo en la configuración con Amazon, debe rellenar el campo **Tiempo de Procesamiento** en el [registro del muelle](/es/tutorial/como-cadastrar-doca) asociado a la [política comercial](#definir-la-política-comercial-en-amazon) utilizada para Amazon. Si este campo no se rellena, Amazon utilizará su valor por defecto (2 días).
+En Amazon hay el campo *“fulfillment latency”*, que se utiliza para configurar el tiempo de preparación de la entrega de un determinado producto. Para utilizarlo en la configuración con Amazon, debe rellenar el campo **Tiempo de Procesamiento** en el [registro del muelle](/es/docs/tutorials/gestionar-el-muelle) asociado a la [política comercial](#definir-la-política-comercial-en-amazon) utilizada para Amazon. Si este campo no se rellena, Amazon utilizará su valor por defecto (2 días).
 
 > ⚠️ Filling in this field is essential, because if your store delays the delivery of an order, your account may be blocked.

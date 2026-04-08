@@ -24,9 +24,9 @@ To identify the problem, perform a [shipping simulation](/en/tutorial/simulacao-
 Here are the most common problems that cause SLA errors:
 
 - **Out of stock:** when one or more SKUs in the order are unavailable. For more information, see the article [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP#).
-- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associate a SKU to a trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
+- **Item not in collection or sales channel:** check if the SKU is marked correctly in the collection or sales channel defined for the marketplace. Learn more in the article [Associate a SKU to a sales channel](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
 - **Delivery zip code not covered by the shipping strategy:** when the delivery of the order to a given address is not included in your [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete).
-- **Loading dock not associated with trade policy:** when [adding the dock](/en/docs/tutorials/managing-loading-docks), you must link it with the trade policy defined for the marketplace.
+- **Loading dock not associated with sales channel:** when [adding the dock](/en/docs/tutorials/managing-loading-docks), you must link it with the sales channel defined for the marketplace.
 - **Inactive SKU:** the SKU is not active, which prevents it from being integrated. Check the status of the item in your Admin, in _Catalog > Products and SKUs._
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **Marketplace > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.

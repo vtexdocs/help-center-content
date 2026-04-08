@@ -17,9 +17,9 @@ subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 
 Esta guía tiene el objetivo de responder a las preguntas más frecuentes sobre la integración con Mercado Libre. Para navegar, utilice la siguiente tabla de contenido: 
 
-# Anuncios/Productos
+## Anuncios/Productos
 
-## ¿Por qué no logro enviar la descripción de mi producto en HTML a Mercado Libre?
+### ¿Por qué no logro enviar la descripción de mi producto en HTML a Mercado Libre?
 
 Existen tres formas de enviar a Mercado Libre la descripción de un producto:
 
@@ -29,19 +29,19 @@ Existen tres formas de enviar a Mercado Libre la descripción de un producto:
 
 > ℹ️ Consulta el artículo de Mercado Libre [“Cómo describir tus productos”](https://www.mercadolibre.com.ar/ayuda/completar_datos_productos_3147#:~:text=Ingres%C3%A1%20desde%20Modificar%2C%20en%20el%20listado%20de%20publicaciones.&text=Ahora%20bien%2C%20si%20ten%C3%A9s%20muchas,las%20publicaciones%20ordenadas%20por%20categor%C3%ADa.) para obtener sugerencias sobre cómo describir tus productos.
 
-#### Rellenar el campo Descripción de producto
+##### Rellenar el campo Descripción de producto
 
 Ingresa a *PRODUCTOS > Catálogo > Productos y SKU* en el Admin VTEX y haz clic en el botón `Modificar`. Luego, rellena el campo **Descripción de producto** con la descripción que quieras para tu producto.
 
 También puedes usar la ruta [PUT Update Product](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product) y rellenar el campo **Description** con la descripción que desees para tu producto.
 
-#### Crear una especificación de producto
+##### Crear una especificación de producto
 
 [Crea una especificación de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) llamada `plaintext_description_meli` y complétala con la descripción que quieras para tu producto.
 
 También puedes usar la ruta [POST Create Specification](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-post-specification) y rellenar el campo **Name** con `plaintext_description_meli` y el campo **Description** con la descripción que desees para tu producto.
 
-#### Crear una plantilla en el Centro de mensajes (opcional)
+##### Crear una plantilla en el Centro de mensajes (opcional)
 
 El [Centro de mensajes](/es/docs/tutorials/como-funciona-el-message-center) en un módulo que se encarga de configurar y enviar emails en VTEX a través de una plantilla de mensajes. La ventaja de crear una plantilla para describir tus productos es que, si tu tienda anuncia muchos productos en Mercado Libre, todos ellos tendrán una descripción estándar y personalizada.
 
@@ -79,7 +79,7 @@ DUDAS FRECUENTES
 ¿EL PRODUCTO ES NUEVO?
 Sí, todos nuestros productos son nuevos.
 
-## ¿Por qué mi anuncio fue pausado en Mercado Libre?
+### ¿Por qué mi anuncio fue pausado en Mercado Libre?
 
 La pausa en el anuncio del Mercado Libre ocurre básicamente por dos motivos:
 
@@ -89,27 +89,27 @@ Para realizar la integración con Mercado Libre, es necesario definir una polít
 
 Al registrar un producto, es necesario establecer una cantidad mínima de stock de ese ítem. Cuando el número de productos alcanza el límite establecido, el anuncio es pausado en Mercado Libre. El valor mínimo de stock es definido en el panel de configuración de Mercado Libre de VTEX.
 
-## ¿Qué significa el error “The attributes [BRAND, MODEL] are required for category MLBXXXX”
+### ¿Qué significa el error “The attributes [BRAND, MODEL] are required for category MLBXXXX”
 
 La categoría en cuestión exige el mapeo de marca y modelo. Esta información debe estar presente en la plantilla de mapeo. Formato de ejemplo:
 
 ![mercadolivre faq erro](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visión-de-conjunto-de-integraciones/mercado-libre-faq_1.JPG)
 
-## ¿Por qué mi anuncio está desactivado en Mercado Libre?
+### ¿Por qué mi anuncio está desactivado en Mercado Libre?
 
 VTEX no desactiva anuncios en ML, solamente los pausa.
 
-## ¿Cómo cambiar la imagen de un producto en Mercado Libre?
+### ¿Cómo cambiar la imagen de un producto en Mercado Libre?
 
 El envío de las imágenes de un producto ocurre sólo una vez, cuando el anuncio se crea en Mercado Libre. Por lo tanto, si el producto tiene su imagen alterada en VTEX después de haber sido integrado con Mercado Libre, esta información no será actualizada.
 
 Un posible workaround es eliminar el anuncio en Mercado Libre y enviar la información del producto nuevamente al Mercado Libre, reindexando el producto en VTEX. Sin embargo, al realizar esta acción, usted debe saber que todo el histórico de este anuncio será excluido en Mercado Libre. Se creará un nuevo anuncio, sin ninguna relación con la información del anuncio anterior.
 
-## ¿Por qué el título de mi anuncio aparece cortado en Mercado Libre?
+### ¿Por qué el título de mi anuncio aparece cortado en Mercado Libre?
 
 Mercado Libre tiene una limitación de 60 caracteres para el nombre del anuncio. Por lo tanto, al elegir el formato del Título del anuncio en el panel de configuración de Mercado Libre en el Bridge de VTEX, tenga en cuenta esta restricción de 60 caracteres.
 
-## ¿Cómo puedo reenviar la información de los productos al Mercado Libre?
+### ¿Cómo puedo reenviar la información de los productos al Mercado Libre?
 
 Por regla de Mercado Libre, no se puede reenviar información de los productos luego de que ya se anunciaron y vendieron. Deberás eliminar el anuncio del producto y modificar la información que deseas.
 
@@ -117,11 +117,11 @@ Si el producto aún no se vendió, podrás hacer modificaciones. Si la modificac
 
 > ⚠️ Luego de eliminar un producto, no es posible recuperar la relevancia del anuncio.
 
-## ¿Por qué mi producto fue categorizado equivocadamente en Mercado Libre?
+### ¿Por qué mi producto fue categorizado equivocadamente en Mercado Libre?
 
 Los errores de categorización tienen que ver con el nombre y el precio del producto. Para la correcta categorización de sus productos, es necesario hacer [upload de la plantilla de mapeo](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx). Esa plantilla se utilizará en las etapas de categorización, variación y atributos de su producto. Para saber más, consulte este [artículo](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA#categorizacao).
 
-## ¿Por qué Mercado Libre devuelve errores de atributo después del mapeo?
+### ¿Por qué Mercado Libre devuelve errores de atributo después del mapeo?
 
 Cada categoría de producto en Mercado Libre exige atributos diferentes. Por ejemplo, para un zapato de adulto, puede ser necesario indicar en la plantilla de mapeo los códigos de los atributos Color principal y Talla de zapato para adulto.
 
@@ -142,7 +142,7 @@ El primero de estos indica que el atributo cuyo código comienza con el número 
 
 El segundo error muestra que el atributo cuyo código empieza con el número `63000`, ingresado en la última columna de la plantilla anterior, es inválido para la categoría escogida.
 
-### ¿Cómo identificar el atributo faltante o inválido?
+#### ¿Cómo identificar el atributo faltante o inválido?
 
 Los códigos de cada variación de atributo comienzan con el mismo número. Por ejemplo, todos los códigos relativos a **Color principal** comienzan en 33000 y corresponden al siguiente formato: 33000_Amarillo_52007. Mientras que los códigos relativos a **Color secundario** comienzan en 43000. Ejemplos: `43000_Azul claro_52093` y `43000_Rosa_52058`.
 
@@ -153,27 +153,27 @@ Para identificar el atributo señalado en el mensaje de error, consulte el núme
 3. [Colômbia](https://assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar)
 4. [México](https://assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar)
 
-## ¿Por qué mis anuncios en Mercado Libre no tienen los SKUs agrupados?
+### ¿Por qué mis anuncios en Mercado Libre no tienen los SKUs agrupados?
 
 Con excepción de los productos de ropa, calzado y bolsas, la integración crea solamente un anuncio por SKU. Así, los SKUs no se agrupan en un solo anuncio en Mercado Libre.
 
-## ¿Por qué las especificaciones/atributos de mis SKU no se envían al Mercado Libre?
+### ¿Por qué las especificaciones/atributos de mis SKU no se envían al Mercado Libre?
 
 Con excepción de los SKUs de ropa, para enviar las variaciones y los atributos de los SKUs de cualquier categoría es necesario crear la plantilla de mapeo. Para más información, lea el artículo [Mapeo de categorías, variaciones y atributos de Mercado Libre](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper).
 
-## ¿Cómo borrar un anuncio en Mercado Libre?
+### ¿Cómo borrar un anuncio en Mercado Libre?
 
 La finalización del anuncio debe realizarse directamente en Mercado Libre. En caso de que no desee que un producto sea enviado nuevamente a Mercado Libre, recuerde eliminarlo de la política comercial vinculada a Mercado Libre.
 
-## ¿Cómo hago para reenviar información de los productos a Mercado Libre?
+### ¿Cómo hago para reenviar información de los productos a Mercado Libre?
 
 En caso de que un anuncio haya sido finalizado y usted desee reenviarlo a Mercado Libre, basta con reindexar el producto deseado en VTEX para que la información sea reenviada a Mercado Libre.
 
-## ¿Por qué no puedo actualizar la información de mi producto en Mercado Libre?
+### ¿Por qué no puedo actualizar la información de mi producto en Mercado Libre?
 
 En este escenario, es posible que estos productos que no tengan su información actualizada hayan sido creados directamente en el panel de Mercado Libre. No recomendamos la creación de productos directamente en el Panel de Mercado Libre. La información de los productos creados directamente en Mercado Libre no se actualizará por VTEX.
 
-## Entendiendo los errores del Bridge
+### Entendiendo los errores del Bridge
 
 `Items in category ML…. cannot exceeds XX pictures.`
 
@@ -194,21 +194,21 @@ Explicación:
 3.    Buscar si posee una descripción en el catálogo. Si es así, la enviamos como descripción.
 4.    En caso de que no posea ninguno de los pasos anteriores, registramos el error en el Bridge de "SKU no integrado pues el mismo no posee descripción".
 
-# Logística
+## Logística
 
-## ¿Por qué mi pedido con "Acordar con el comprador" no se integró en el Bridge?
+### ¿Por qué mi pedido con "Acordar con el comprador" no se integró en el Bridge?
 
 No recomendamos el uso del tipo de entrega Acordar con el comprador. En pedidos realizados con ese tipo de entrega, como no tenemos la información de la dirección de entrega, el pedido no se integrará con VTEX.
 
 Para que un pedido sea integrado correctamente, es necesario que el mismo tenga la información de entrega. De esta forma, siempre recomendamos el uso de Mercado Envíos para los pedidos realizados en Mercado Libre.
 
-## ¿Por qué mis pedidos están yendo a la tabla de contingencia en vez del envío VTEX?
+### ¿Por qué mis pedidos están yendo a la tabla de contingencia en vez del envío VTEX?
 
 Al calcular el envío de un pedido, la integración hace una simulación de fulfillment. Esta respuesta toma generalmente 200 ms. Mercado Libre posee un límite de tiempo de espera de 400 ms y si la respuesta de la simulación sobrepasa este tiempo, el envío será a través de la tabla de contingencia. Generalmente, ese tiempo es largo cuando la operación logística de la cuenta es compleja (por ejemplo: muchas transportadoras registradas).
 
-# Configuraciones
+## Configuraciones
 
-## ¿Por qué mis pedidos no se integran con Mercado Libre?
+### ¿Por qué mis pedidos no se integran con Mercado Libre?
 
 En el caso de Mercado Libre, cuando el token de integración se desactiva, sin importar el motivo, los pedidos realizados en el marketplace no se envían a la plataforma de VTEX. Para resolver este error, será necesario repetir el proceso de integración.
 

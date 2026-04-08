@@ -59,7 +59,7 @@ The following filters determine which orders will be downloaded:
 - **Shipping method**: Shipping methods used in the orders being exported.
 - **Shipment type**: Shipping types used in the orders being exported (`SHIP_FROM_STORE`, `PICKUP_IN_STORE`, or `DRIVE_THRU`).
 - **Order tags**: Restricts the download to orders that have certain tags.
-- **Trade policies**: [Trade policies](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) applied to the orders being exported.
+- **Sales channels**: [Sales channels](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) applied to the orders being exported.
 - **Submit changes to OMS**: Allows submitting the changes (replacements, rejections, or modifications) made to the handled orders to the [VTEX Orders module](https://help.vtex.com/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). Orders must have their worksheet completed and no items pending picking or packing in the OMS to be valid in this filter.
 
 Click `Save` to save the changes in the section.

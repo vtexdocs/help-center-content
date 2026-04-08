@@ -19,7 +19,7 @@ A surcharge is the opposite of a promotion, that is, it is an additional percent
 
 The surcharge is applied in accordance with the registration done on the seller. So if your store’s shopping cart has another seller’s product, the surcharge to be applied to that product will be the one registered on the admin of the seller that owns the product. Surcharges registered in the Pricing module will not be taken into account, even if this surcharge is associated with this product.
 
-> ℹ️ Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate trade policy during configuration.
+> ℹ️ Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate sales channel during configuration.
 
 ## How to create them
 
