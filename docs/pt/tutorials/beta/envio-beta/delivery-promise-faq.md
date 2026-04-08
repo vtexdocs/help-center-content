@@ -81,4 +81,6 @@ No entanto, a VTEX recomenda o uso da **Delivery Promise (Beta)** para oferecer 
 
 ## 10. Os filtros do Delivery Promise (Beta) se aplicam a sellers externos?
 
+Sim.
+
 A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
