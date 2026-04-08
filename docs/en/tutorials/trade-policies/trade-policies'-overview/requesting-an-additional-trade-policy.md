@@ -21,9 +21,11 @@ Using sales channels, you can determine catalog, price, promotion, payment, inve
 
 To request a sales channel for a sales channel outside the VTEX ecosystem, such as a marketplace for which there is no [native connector](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex) for example, follow the flow of [Requesting a sales channel](#request-a-trade-policy)
 
-## Requesting a sales channel 
+Add a sales channel (trade policy)
 
-To request an additional sales channel for operating in the international market, contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `New sales channel`.
+To add a new trade policy, access the VTEX Admin. Users with the Owner (admin) role can perform this action directly through the interface.
+
+For more information, see the article [Creating a sales channel (trade policy)](https://help.vtex.com/docs/tutorials/creating-a-trade-policy).
 
 ## Billing rules
 
