@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes dudas, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes dudas, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
 
 **Delivery Promise (beta)** es la nueva solución de VTEX para que el comprador, durante la experiencia de compra en tu tienda, vea solo los productos que puede adquirir, considerando tanto la disponibilidad de los productos en stock como las formas de envío válidas para la dirección de entrega.
 
