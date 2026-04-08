@@ -43,7 +43,7 @@ Existem três formas pelas quais isso pode ser feito:
 
 ## 4. Para utilizar a Delivery Promise (Beta), preciso solicitar a localização do cliente?
 
-O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
+Sim. O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
 
 * O endereço do cliente é capturado automaticamente quando ele aceita o plugin do navegador para compartilhar sua localização.
 * Caso o navegador não tenha o plugin mencionado ou o cliente se recuse a compartilhar sua localização, a inferência do endereço será feita com base no endereço IP do dispositivo do cliente.
