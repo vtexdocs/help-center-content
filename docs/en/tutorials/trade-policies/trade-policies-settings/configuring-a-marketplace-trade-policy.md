@@ -28,11 +28,9 @@ Learn how you can configure sales channels in the following modules when your st
 - [Shipping strategy](#shipping-strategy)  
 - [Integrations](#integrations)  
 
-To [request additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a sales channel`.
+To add a new trade policy, access the VTEX Admin. Users with the Owner (admin) role can perform this action directly through the interface.
 
-Requesting additional sales channels to integrate with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), [certified connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
-
-For each additional sales channel, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.
+For more information, see the article [Creating a sales channel (trade policy)](https://help.vtex.com/docs/tutorials/creating-a-trade-policy).
 
 ## Store setup
 Creating a new sales channel is the first step in defining the conditions that apply to each marketplace in which a seller operates. Sellers can create multiple sales channels, or apply the same policy to more than one marketplace.
