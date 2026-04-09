@@ -66,7 +66,7 @@ You need to [enabling selling an out-of-stock item](#enabling-selling-an-out-of-
 
 ## Linking the franchise account to the physical store
 
-To ensure that the sales associates of your physical store have the right access to the store warehouse at their location, it's important to link the franchise account to their profile. To do this, [add the physical store](/en/tutorial/loja-fisica-instore-beta--N4M9njT9xomdWD7mQyPt7) to Sales App.
+To ensure that the sales associates of your physical store have the right access to the store warehouse at their location, it's important to link the franchise account to their profile. To do this, [add the physical store](https://help.vtex.com/en/docs/tracks/managing-physical-stores-in-vtex-sales-app) to Sales App.
 
 You will need to select a sales associate from the store where you want to test On Hands and follow the steps below.
 
