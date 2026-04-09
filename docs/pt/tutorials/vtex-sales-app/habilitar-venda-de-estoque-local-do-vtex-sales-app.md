@@ -1,9 +1,9 @@
 ---
-title: "Habilitar Venda de estoque local do VTEX Sales App"
+title: 'Habilitar Venda de estoque local do VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2024-11-04T21:09:14.115Z
+updatedAt: 2026-04-09T21:09:14.115Z
 publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
