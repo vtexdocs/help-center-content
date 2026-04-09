@@ -37,7 +37,7 @@ After creating a franchise account, you need to [create a seller](/en/docs/tutor
 
 ## Setting up a pickup point
 
-After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](/en/docs/tutorials/pickup-points#como-configurar-pontos-de-retirada).
+After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](https://help.vtex.com/en/docs/tutorials/pickup-points#how-to-setup-pickup-points).
 
 The created pickup point will be assigned an ID that you will need when [Creating a warehouse](#creating-a-warehouse). If you lose the ID, you can view it in the **Pickup Points** screen of the VTEX Admin, under the **ID** column.
 
@@ -70,7 +70,7 @@ To ensure that the sales associates of your physical store have the right access
 
 You will need to select a sales associate from the store where you want to test On Hands and follow the steps below.
 
-1. With a [sales associate selected](/en/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), open Sales App and log in.
+1. With a [sales associate selected](https://help.vtex.com/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.
 
 ![instore-pdp-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_1.png)
