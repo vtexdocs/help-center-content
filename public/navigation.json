@@ -43991,13 +43991,13 @@
             {
               "name": {
                 "en": "Broken carts when adding unavailable Assembly Option",
-                "es": "Carros rotos al añadir la opción de montaje no disponible",
-                "pt": "Carrinhos quebrados ao adicionar a opção de montagem indisponível"
+                "es": "Errores al añadir una opción de montaje no disponible",
+                "pt": "Erros no carrinho ao adicionar uma opção de montagem indisponível"
               },
               "slug": {
                 "en": "broken-carts-when-adding-unavailable-assembly-option",
-                "es": "carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible",
-                "pt": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel"
+                "es": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
+                "pt": "erros-no-carrinho-ao-adicionar-uma-opcao-de-montagem-indisponivel"
               },
               "origin": "",
               "type": "markdown",
