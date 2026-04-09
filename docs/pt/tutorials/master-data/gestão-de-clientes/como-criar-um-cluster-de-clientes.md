@@ -25,7 +25,7 @@ Siga os passos abaixo para criar um cluster de clientes:
 
 Após criar o campo de cluster, você precisa defini-lo como `true` para cada cliente que deseja incluir no cluster. Você pode fazer isso usando um dos seguintes métodos:
 
-- **Importação por planilha:** Use o [recurso de importação do Master Data v1](/pt/docs/tutorials/importando-dados-no-master-data) para atribuir clientes em massa.
+- **Importação por planilha:** Use o [recurso de importação do Master Data v1](/pt/docs/tutorials/importando-dados-de-clientes) para atribuir clientes em massa.
 - **API:** Atualize os registros de clientes programaticamente por meio da [API do Master Data](https://developers.vtex.com/docs/api-reference/masterdata-api).
 - **Entrada manual:** Edite registros individuais de clientes no formulário de clientes do CRM.
 
