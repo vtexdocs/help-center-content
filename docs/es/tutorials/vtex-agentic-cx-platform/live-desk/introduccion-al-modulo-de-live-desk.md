@@ -1,5 +1,5 @@
 ---
-title: 'Introducción al módulo de Chats'
+title: 'Introducción al módulo Live Desk'
 id: 6RF9ConAaTeLWQQ4dvoyb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:29:16.322Z
@@ -9,8 +9,8 @@ firstPublishedAt: 2025-10-03T14:21:49.549Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-the-chats-module
-legacySlug: introduccion-al-modulo-de-chats
+slugEN: introduction-to-live-desk
+legacySlug: introduccion-al-modulo-de-live-desk
 locale: es
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
@@ -133,4 +133,3 @@ Reproduce el mismo camino anterior para visualizar la pantalla del agente.
 Si es necesario, el agente podrá modificar los campos de contacto del cliente, lo que facilita corregir datos erróneos o actualizar información. Para activar esta función de edición, simplemente haz clic en **Configuraciones** y luego en **Sectores**, abre el sector y activa la función de edición de **Custom Fields**, como se muestra en la imagen a continuación:
 
 Y para realizar esta edición, basta hacer clic en el nombre del contacto. Una columna lateral derecha mostrará la información del contacto y, finalmente, haz clic en el campo de datos para escribir la información actualizada, como se muestra en la imagen siguiente:
-

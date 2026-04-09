@@ -1,5 +1,5 @@
 ---
-title: 'Instalando a Weni Agentic AI'
+title: 'Instalando a Agentic CX'
 id: AuYmrZbSbFaTQmcD6qqDb
 status: PUBLISHED
 createdAt: 2025-09-23T17:32:05.839Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.437Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: installing-weni-agentic-ai
+slugEN: manage-agentic-cx
 legacySlug: instalando-a-weni-agentic-ai
 locale: es
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM

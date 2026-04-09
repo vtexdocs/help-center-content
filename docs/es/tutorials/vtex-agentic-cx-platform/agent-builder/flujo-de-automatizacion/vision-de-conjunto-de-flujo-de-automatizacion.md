@@ -1,5 +1,5 @@
 ---
-title: 'Introducción a los flujos'
+title: 'Vision de conjunto de Flujo de Automatización'
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: flows-introduction
+slugEN: automation-flow-overview
 legacySlug: introduccion-a-los-flujos
 locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
