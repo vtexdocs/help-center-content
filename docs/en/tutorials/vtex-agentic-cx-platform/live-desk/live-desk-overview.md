@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to the Chats module'
+title: 'Live Desk - Overview'
 id: 6RF9ConAaTeLWQQ4dvoyb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:29:16.322Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:21:49.549Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-the-chats-module
+slugEN: introduction-to-live-desk
 legacySlug: introduction-to-the-chats-module
 locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh

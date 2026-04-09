@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: vtex-agentic-cx-platform-overview
-legacySlug: visao-geral-vtex-agentic-cx-platform
+legacySlug: visao-geral-weni-by-vtex
 locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---

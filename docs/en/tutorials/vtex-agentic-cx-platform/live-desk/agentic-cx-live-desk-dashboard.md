@@ -1,5 +1,5 @@
 ---
-title: 'Weni Chats: Human Service Dashboard'
+title: 'Live Desk: Dashboard'
 id: 2nQ88AZT72iPf2BQBzloDQ
 status: PUBLISHED
 createdAt: 2025-09-12T16:36:13.073Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.324Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: weni-chats-human-service-dashboard
+slugEN: agentic-cx-live-desk-dashboard
 legacySlug: weni-chats-human-service-dashboard
 locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
