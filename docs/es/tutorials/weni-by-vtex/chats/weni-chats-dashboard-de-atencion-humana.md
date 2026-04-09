@@ -27,15 +27,11 @@ Para acceder, simplemente ve al módulo **Chats** de la plataforma Weni y dentro
 del menú de **Preferencias**, haz clic en el botón **Dashboard**. Por ahora,
 esta herramienta está disponible solo para gestores y administradores.
 
-
-
 #### Pantalla principal
 
 Al acceder a **Dashboards**, se presentan los datos del proyecto. De esta
 manera, si existe más de un sector, las métricas representan los datos de todos
 los sectores incluidos en el proyecto.
-
-
 
 ##### Indicadores:
 
@@ -44,11 +40,7 @@ los sectores incluidos en el proyecto.
 - **Tiempo de respuesta**: Se refiere al tiempo promedio que los contactos esperan por cada respuesta. También se calcula desde el inicio de la operación hasta el momento actual.
 - **Tiempo de interacción**: Muestra el tiempo promedio de duración de los chats, desde el inicio hasta su cierre.
 
- 
-
 Cuando la visualización es de **todos los sectores** del proyecto, se mostrarán los sectores listados a continuación, con las mismas métricas mencionadas anteriormente, pero detalladas específicamente para cada sector.
-
-
 
 Al lado de los sectores listados, se encuentra la columna de **agentes en línea**, donde se muestran los agentes con estado en línea y la cantidad de chats activos de esos agentes.
 
@@ -61,8 +53,6 @@ disponible.##### Filtros
 Por ahora, hay dos tipos de filtros disponibles. El primero es el **filtro de
 sector**, que permite seleccionar un sector específico y visualizar sus datos
 detallados.
-
- 
 
 Al seleccionar un sector, los datos principales se mostrarán exclusivamente de acuerdo con ese sector. De esta forma, se listarán las colas contenidas en ese sector y los agentes en línea serán solo los que pertenecen a ese sector.
 

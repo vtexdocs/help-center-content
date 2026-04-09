@@ -19,8 +19,6 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 Después de haber iniciado sesión correctamente en su organización y proyecto, tendrá acceso a esta pantalla:
 
-
-
 Vamos a una breve explicación de cada menú:
 
 1. **Home:** Pantalla principal que muestra los datos de la plataforma. Insights: Módulo que permite explorar paneles de análisis de datos dentro de la plataforma Weni.

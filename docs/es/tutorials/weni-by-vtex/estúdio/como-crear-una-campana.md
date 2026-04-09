@@ -23,25 +23,15 @@ Las campañas permiten que los mensajes programados se agenden en fechas y horar
 
 -  Accede a la opción ""Campañas"", dentro del módulo ""Estudio"" en el menú lateral.
 
-
-
 -    Haz clic en ""Crear Campaña"" para crear la campaña.
 
-
-
 -    La campaña requiere un título en el campo (Nombre) y la selección de un grupo de contactos en (Grupo) al que se enviarán los mensajes.
-
-
 
 Cada campaña puede operar solo con un grupo. Por lo tanto, es necesario crear una nueva campaña para cada grupo con el que desees interactuar.
 
 -    Se abrirá una nueva página. Haz clic en ""Añadir evento"".
 
-
-
 -    Ahora define las directrices del evento.
-
-
 
 1. En ""Send a message"": Selecciona la acción que deseas asignar a un evento. Dependiendo de la elección, escribe el mensaje o selecciona el flujo.
 

@@ -32,15 +32,9 @@ En este artículo trataremos sobre:
 
 Cualquier flujo existente puede ser enviado a través de los chats. Para hacerlo, simplemente accede a **Flujos.**
 
- 
-
 Luego selecciona el flujo deseado y haz clic en el botón **""Etiqueta"".**
 
- 
-
 Para que el flujo esté disponible en los chats, debe tener una etiqueta con el nombre **""chats""**. Si no está disponible, crea una nueva etiqueta con el nombre **""chats""** como se muestra en el ejemplo.
-
- 
 
 Al hacer clic en **""crear""**, tu flujo automáticamente tendrá la etiqueta creada y estará disponible para ser usado en los chats.
 
@@ -57,15 +51,9 @@ respecto.
 Accede a tu proyecto y luego al módulo de Flujos, haz clic en el botón **""Crear
 flujo""**:
 
- 
-
 Luego, ingresa los **datos** sobre tu flujo:
 
- 
-
 Añade las tarjetas según las acciones que desees en tu flujo. Para que el flujo sea de envío de modelos de mensajes, selecciona la tarjeta del tipo ""Enviar mensaje"" y haz clic en **""WhatsApp""**.
-
- 
 
 Tus modelos registrados deberían aparecer. Selecciona el deseado e ingresa la variable en caso de haberla. Luego, haz clic en **""Confirme""** y finaliza tu flujo.
 
@@ -76,11 +64,7 @@ primero debes habilitarla en la configuración, en el sector deseado.
 
 Accede a **Configuraciones \> Chats.**
 
- 
-
 En la primera pantalla del sector, podrás ver el botón para activar el envío de flujos, el cual estará desactivado. Actívalo y haz clic en **""Guardar"".**
-
- 
 
 Enviando un flujo en Chats
 
@@ -89,14 +73,8 @@ Enviando un flujo en Chats
 En la pantalla de chats, haz clic en el botón debajo de preferencias, como se
 muestra en el ejemplo.
 
- 
-
 Selecciona los contactos deseados y haz clic en **""Continuar""**.
 
- 
-
 Selecciona el flujo deseado y luego haz clic en el botón **""enviar""**.
-
-
 
 ¡Listo! Los contactos que recibieron los flujos aparecerán en una lista de espera. Una vez que el contacto responda, podrás iniciar el chat normalmente con él.

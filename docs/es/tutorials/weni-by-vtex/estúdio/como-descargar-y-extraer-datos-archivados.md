@@ -23,20 +23,10 @@ Es posible descargar estos datos archivados accediendo al panel de configuració
 
 Podrás acceder tanto al contenido de la tabla **Messages** como al de la tabla **Runs**. Para visualizar cualquiera de ellos, solo tienes que hacer clic en el botón resaltado en amarillo, como se muestra en la imagen.
 
-
-
 Podrás acceder tanto al contenido de la tabla **Mensajes** como al de la tabla **Runs**. Para visualizar ambos, simplemente haz clic en el botón **Archivo de ejecución o Archivo de mensajes**, como se muestra en la imagen a continuación.
-
-
-
-
 
 Para descargar los archivos de mensajes, simplemente haz clic en el ícono destacado (como se muestra en la imagen a continuación) al lado de la fecha. Los archivos de la tabla mensajes vendrán con el prefijo **message**.
 
-
-
 Para descargar los archivos, simplemente haz clic en el ícono destacado (como se muestra en la imagen a continuación) al lado de la fecha. Los archivos de la tabla ejecución vendrán con el prefijo **run**.
-
-
 
 Finalmente, en cada archivo podrás verificar el contenido, el período (mes) y la cantidad de registros que contiene.

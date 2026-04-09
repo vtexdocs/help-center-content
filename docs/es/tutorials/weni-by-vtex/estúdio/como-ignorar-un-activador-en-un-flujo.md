@@ -23,14 +23,9 @@ Si deseas mantener a tus contactos en un flujo hasta que lo terminen o expire, p
 
 -    Ve a ""Flujo"" y haz clic en el flujo que deseas modificar.
 
-
-
 -    Haz clic en el ícono de engranaje en la esquina superior derecha del editor de flujo y luego selecciona la opción ""Editar"".
-
-
 
 -    Marca la casilla ""Ignorar los activadores de palabras clave mientras se encuentre en este flujo""
 
 -   Haz clic en ""Guardar Cambios"".
-
 

@@ -50,8 +50,6 @@ En el campo <i class="fas fa-search" aria-hidden="true"></i>`Buscar`, puedes bus
 
 En la parte superior se encuentran las fechas de las interacciones. Puedes hacer clic en la fecha para cambiar el periodo de tiempo y filtrar los resultados que aparecen.
 
-
-
 ## Perfil
 
 En esta página puedes personalizar la identidad y el comportamiento de tu agente orquestador a través de campos configurables.
@@ -80,7 +78,7 @@ Consulta a continuación la descripción detallada de cada tono de voz:
 
 En la sección **Instrucciones generales** puedes agregar directrices que determinan cómo actuará tu agente.
 
-Si agregaste una instrucción y quieres borrarla, solo tienes que hacer clic en el botón de <i class="far fa-trash-alt" aria-hidden="true"></i> papelera al lado de la instrucción. Aparecerá un mensaje preguntándote si deseas remover la instrucción. Haz clic en `Remover` para borrarla o `Cancelar` si deseas conservarla. 
+Si agregaste una instrucción y quieres borrarla, solo tienes que hacer clic en el botón de <i class="far fa-trash-alt" aria-hidden="true"></i> papelera al lado de la instrucción. Aparecerá un mensaje preguntándote si deseas remover la instrucción. Haz clic en `Remover` para borrarla o `Cancelar` si deseas conservarla.
 
 > ℹ️ No hay un límite para la cantidad de instrucciones que puedes ingresar.
 
@@ -130,7 +128,7 @@ También puedes usar el campo de búsqueda para encontrar un sitio web.
 
 En esta página puedes ingresar contenido e información en el cuadro de texto **Escribir contenido.**
 
-Después de ingresar un texto, haz clic en `Guardar cambios`. 
+Después de ingresar un texto, haz clic en `Guardar cambios`.
 
 ## Ajustes
 
@@ -140,13 +138,9 @@ En esta página puedes cambiar la configuración de tus agentes.
 
 Debajo de **Vista previa de los agentes** hay dos botones de alternancia:
 
-- **Feedback progresivo de los agentes:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
-
-
+- **Feedback progresivo de los agentes:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
 - **Formato de mensaje múltiple:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si quieres que el agente envíe varios mensajes, como respuestas rápidas, listas, catálogo. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-
 
 Debajo de **Soporte humano** hay un botón de alternancia:
 

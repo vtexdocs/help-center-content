@@ -17,10 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 En este punto, tu chatbot está conectado a algún canal, pero para iniciar un flujo automáticamente cuando el usuario interactúe con el chatbot, debes configurar un Activador (trigger). Para crearlo, debes ir al Menú de Disparadores dentro del módulo ""Estudio"" y hacer clic en Crear Activador.
 
-
-
 -    Haz clic en el botón ""Cree una palabra clave de mensaje que lance un flujo""
-
 
 -    En la palabra clave, definirás la palabra que funcionará como activador.
 

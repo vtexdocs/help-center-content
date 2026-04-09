@@ -19,9 +19,7 @@ La plataforma permite que los mensajes programados se envíen en una fecha y hor
 
 -    Dentro de tu proyecto, accede a la pestaña ""Estudio"" y luego haz clic en ""Mensajes"" en el menú lateral.]
 
-
 -    Haz clic en el botón ""Enviar Mensaje"".
-
 
 -    Selecciona el/los contacto(s) o grupo(s), escribe lo que deseas enviar. A continuación, marca la casilla ""Programar para más tarde"" y luego haz clic en ""Enviar"".
 

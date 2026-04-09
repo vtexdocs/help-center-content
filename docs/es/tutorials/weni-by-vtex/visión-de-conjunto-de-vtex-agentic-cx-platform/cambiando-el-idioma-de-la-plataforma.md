@@ -21,11 +21,7 @@ Actualmente, la Plataforma está disponible en portugués, inglés y español. E
 
 1. Al iniciar sesión en la plataforma, un botón estará disponible en la parte superior derecha de la pantalla. Al hacer clic en él, tendrá la opción de alternar entre idiomas.
 
-
-
 2. Dentro de la pantalla de proyectos, también es posible cambiar el idioma de la plataforma. Simplemente haga clic en el botón ubicado en la parte superior derecha.
-
-
 
 Siguiendo estos pasos, la interfaz debería estar actualizada en el idioma de su preferencia. Es posible que deba reiniciar el navegador o cerrar y volver a iniciar sesión en el sistema.
 

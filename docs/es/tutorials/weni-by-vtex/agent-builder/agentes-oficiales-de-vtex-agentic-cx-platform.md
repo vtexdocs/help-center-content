@@ -1,5 +1,5 @@
 ---
-title: 'Agentes oficiales de Weni by VTEX'
+title: 'Agentes oficiales de VTEX Agentic CX Platform'
 id: 7E8wlD3T41CiOexDVH1SIy
 status: PUBLISHED
 createdAt: 2025-07-18T17:25:54.700Z
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-Este artículo describe los agentes colaboradores oficiales de Weni by VTEX y las credenciales necesarias para asignarlos a Agent Builder.
+Este artículo describe los agentes colaboradores oficiales de VTEX Agentic CX Platform y las credenciales necesarias para asignarlos a Agent Builder.
 
 | Agentes oficiales | Descripción | Credenciales necesarias |
 | :-------------: | :------------- | :------------- |

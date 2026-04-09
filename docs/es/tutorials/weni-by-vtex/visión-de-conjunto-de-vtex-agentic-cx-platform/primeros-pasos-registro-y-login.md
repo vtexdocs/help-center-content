@@ -21,15 +21,9 @@ Ilhasoft ofrece una plataforma intuitiva de fácil creación de chatbots intelig
 
 Al accesar a la plataforma, usted visualizará una imagen de pantalla semejante a esta:
 
-
-
 En ella tendremos un boton para **login**, y un **campo para creación de cuenta**.
 
-
-
 Caso usted **no tenga una cuenta**, inserte su email en el campo de **Criação de conta** e clique em "**Regístrate Gratis**". Serás redirigido a la siguiente página:
-
-
 
 En ella usted deberá llenar las siguientes informaciones:
 
@@ -40,29 +34,19 @@ En ella usted deberá llenar las siguientes informaciones:
 
 Despues de llenar las informaciones, clique en continuar y le direccionará a la pantalla de inicio:
 
-
-
 > **Note:** Rellena los campos según lo solicitado.
 
 En ella usted podrá crear su primera **Organización** (ambiente de desarrollo de su chatbot), e tendrá que llenar dos informaciones:
-
-
 
 Elige entre un agente personalizado y completa los campos o utiliza un modelo predefinido.
 
 Entre los modelos predefinidos están:
 
-
-
 Después de elegir, podrás continuar
-
-
 
 ### Menus
 
 Después de estar debidamente registrado en su organización usted tendrá acceso a esta imagen de pantalla:
-
-
 
 Vamos a uma rápida explicación de cada menú:
 

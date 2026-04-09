@@ -74,7 +74,7 @@ Esta autorización te permite gestionar tus mensajes de Instagram a través de n
 
 4. Habilita la opción Permitir acceso a los mensajes.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-instagram_10.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-instagram_10.png)
 
 ### Ahora, es momento de crear el canal en la Plataforma Weni
 

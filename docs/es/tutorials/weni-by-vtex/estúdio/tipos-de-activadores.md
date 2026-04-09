@@ -19,8 +19,6 @@ La palabra clave es la primera palabra en un mensaje y puede usarse para iniciar
 
 Todos los pasos descritos aquí se realizarán en la pestaña ""**Activadores**"", ubicada dentro del módulo ""**Estudio**"".
 
-
-
 Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de activador específico, simplemente haz clic en su nombre a continuación:
 
 - [Crea una palabra clave de mensaje que lance un flujo.](#Para_crear_una_palabra_clave_que_inicie_un_flujo)
@@ -35,7 +33,6 @@ Para facilitar la navegación en este artículo, si deseas ir directamente a un 
 
 -  Haz clic en el botón ""Crear una palabra clave que inicie un flujo"".
 
-
 -    En ""Palabra clave"", puedes definir una palabra que funcione como palabra clave
 
 -   En ""Activar cuando"", elegirás entre dos opciones:**El mensaje comienza con la palabra clave**: Si la frase escrita por el usuario comienza con una palabra clave, el flujo seleccionado se activará
@@ -48,8 +45,6 @@ Para facilitar la navegación en este artículo, si deseas ir directamente a un 
 
 -   Haz clic en la caja ""Crear Activador"".
 
-
-
 #### Creando una palabra clave de mensaje que permite que las personas ingresen a un grupo:
 
 Usando este disparador para agregar un contacto a un grupo. Este disparador es útil para gestionar contactos que desean desvincularse de un grupo utilizando palabras clave como ""parar"" o ""congelar un registro""
@@ -57,8 +52,6 @@ Usando este disparador para agregar un contacto a un grupo. Este disparador es �
 Para crear un activador con una palabra clave que una contactos a un grupo:
 
 -    Haz clic en el botón ""Crear una palabra clave de mensaje que permita que las personas se unan a un grupo"":
-
-
 
 -    Introduce una palabra clave en ""Unir palabra clave"".
 
@@ -68,15 +61,11 @@ Para crear un activador con una palabra clave que una contactos a un grupo:
 
 -  En ""Flujo"", puedes elegir qué flujo se iniciará.
 
-
-
 #### Iniciar un flujo después de recibir un mensaje que no ha sido gestionado en otro lugar:
 
 Utiliza este activador para iniciar un flujo después de recibir un mensaje no capturado (cuando el mensaje no ha sido gestionado en otro lugar por otros activadores). Este activador puede emplearse para mensajes no tratados, ofreciendo un flujo informativo que explique tu servicio y dirija al usuario a un flujo adecuado.
 
 -    Haz clic en el botón ""Inicie un flujo después de recibir un mensaje que no coincide con ninguna palabra clave""
-
-
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -86,8 +75,6 @@ Utiliza este activador para iniciar un flujo después de recibir un mensaje no c
 
 -  Haz clic en ""Crear Activador"".
 
-
-
 Si tu proyecto cuenta con atención humana, en el campo ""Grupos para Excluir"", selecciona el grupo en el que están las personas del equipo de atención humana para que el bot no interactúe con ellas durante el momento de la atención humana.
 #### Iniciar un flujo en el futuro o dentro de un cronograma
 
@@ -96,27 +83,17 @@ da:
 
 -    Haz clic en el botón ""Empezar un flujo en el futuro o en un horario"".
 
-
-
 -    Elige la fecha en la que te gustaría programar.
 
-
-
 -    Justo debajo, en ""Repeat"", puedes optar por repetir el flujo diariamente, semanalmente o mensualmente (siendo opcional este uso).
-
-
 
 -    Elige el flujo que deseas iniciar y selecciona a qué contactos o grupos se transmitirá o no el flujo.
 
 -  Haz clic en ""Crear Activador"".
 
-
-
 #### Iniciar un flujo después de recibir una llamada
 
 -  Haz clic en el botón ""Inicie un flujo después de recibir una llamada"".
-
-
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -126,13 +103,9 @@ da:
 
 -  Haz clic en ""Crear Activador"".
 
-
-
 #### Iniciar un flujo después de una llamada perdidaUtiliza este disparador después de una llamada perdida.
 
 -    Haz clic en el botón ""Inicie un flujo después de una llamada perdida""
-
-
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -142,15 +115,11 @@ da:
 
 -  Haz clic en ""Crear Activador"".
 
-
-
 #### Iniciar un flujo después del cierre de ticket con un agente humano
 
 Utiliza este disparador para activar el flujo de finalización de atención humana en Weni Chats.
 
 -    Haz clic en el botón ""Inicie un flujo después de cerrar un ticket.""
-
-
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -159,5 +128,4 @@ Utiliza este disparador para activar el flujo de finalización de atención huma
 -  si dejas el campo vacío, el activador se aplicará a todos los contactos.
 
 -  Haz clic en ""Crear Activador"".
-
 

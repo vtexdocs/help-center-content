@@ -106,7 +106,7 @@ Una solicitud **POST** puede utilizarse para crear un nuevo campo de contacto. N
 - **value_type**: Uno de los tipos de datos aceptados (cadena).
 - **text**: Campos del tipo texto.
 - **datetime**: Campos con información de fecha y hora (ejemplo de formato: 2020-01-31T09:27:39.071299-03:00).
-- **numeric**: Campos numéricos. 
+- **numeric**: Campos numéricos.
 
 Ejemplo:
 

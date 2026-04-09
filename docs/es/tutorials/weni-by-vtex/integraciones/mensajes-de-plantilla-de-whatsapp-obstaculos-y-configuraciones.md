@@ -25,7 +25,7 @@ Si es aprobado, el modelo de mensaje tendrá el estado **Activo \- Calidad pendi
 
 #### **Ejemplos**
 
- Te recomendamos que incluyas un ejemplo antes de enviar el modelo para su aprobación. Los ejemplos te permiten enviar ejemplos de activos multimedia y valores de texto para variables multimedia o de texto requeridos por el modelo. Esto facilita la visualización de cómo aparecerá el modelo para los clientes.
+Te recomendamos que incluyas un ejemplo antes de enviar el modelo para su aprobación. Los ejemplos te permiten enviar ejemplos de activos multimedia y valores de texto para variables multimedia o de texto requeridos por el modelo. Esto facilita la visualización de cómo aparecerá el modelo para los clientes.
 
 Además, si el envío es rechazado y decides apelar, será necesario incluir un ejemplo en tu apelación. Por lo tanto, es mejor incluirlo en el envío inicial.
 

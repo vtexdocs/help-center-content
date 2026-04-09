@@ -23,11 +23,7 @@ Aquí están todas las personas con las que mantendrás contacto. Existen dos ma
 
 Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo ""Estudio"" en el menú lateral izquierdo.
 
-
-
 Al seleccionar la opción ""**Contactos**"" te encontrarás con las siguientes funcionalidades:
-
-
 
 - Importar Contactos: Botón para importar una hoja de cálculo (con algunas reglas de construcción) con contactos externos a la plataforma. Si el usuario está en esa hoja, la plataforma Weni lo reconoce y puede tratarlo por el nombre registrado desde el primer mensaje enviado por la plataforma.
 - Crear Contactos: Permite crear un nuevo contacto desde cero dentro de la plataforma.

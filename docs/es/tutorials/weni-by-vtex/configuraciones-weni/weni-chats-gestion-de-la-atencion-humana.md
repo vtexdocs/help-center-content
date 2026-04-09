@@ -21,15 +21,9 @@ Para agregar/eliminar nuevos usuarios como agentes, primero agrega al usuario en
 
 Haz clic en el botón de gestionar miembros en la organización de la plataforma Weni > Insertar el correo electrónico > seleccionar el tipo de permiso y hacer clic en añadir en la organización de la plataforma Weni.
 
-
-
 A continuación se encuentran los permisos para la Organización
 
-
-
 A continuación se encuentran los permisos solo para un proyecto específico
-
-
 
 ### Cómo añadir usuarios a Weni Chats
 
@@ -42,8 +36,6 @@ Después de añadir el permiso correcto al usuario, el módulo de chats estará 
 ### Cómo añadir un Sector de atención en Weni Chats
 
 Para añadir un sector en Weni Chats, debes ir a la pestaña de configuraciones relacionadas con Weni Chats:
-
-
 
 Después de eso, solo debes completar la información para crear el sector:
 
@@ -59,10 +51,6 @@ Después de añadir y configurar tu sector, configura las filas de atención de 
 
 Todo sector necesita tener al menos una cola configurada para funcionar correctamente, por lo que debes configurarla tan pronto como crees el sector. Al editar tu fila, añade quién será el agente de atención:
 
-
-
-
-
 Después de configurar el sector y la fila, ahora es el momento de crear tus tags de atención.
 
 ### Cómo agregar una etiqueta de atención
@@ -70,7 +58,5 @@ Después de configurar el sector y la fila, ahora es el momento de crear tus tag
 Las etiquetas de atención se seleccionan al cerrar una atención y sirven para que puedas filtrar los historiales de atención y el panel de control a través de estas etiquetas. Las etiquetas pueden estar relacionadas con el tema tratado durante la atención, pero queda a tu criterio elegir la mejor forma de usarlas. Recuerda que, al cerrar una atención, es obligatorio utilizar al menos una etiqueta.
 
 Para crear una etiqueta elige el nombre > Haz clic en Agregar > Haz clic en Guardar.
-
-
 
 Ahora tu atención humana está configurada. El siguiente paso es usar una tarjeta para abrir tickets en tu flujo, de modo que puedas dirigir a los usuarios hacia la atención humana.

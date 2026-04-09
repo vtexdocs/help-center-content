@@ -60,10 +60,6 @@ Las variables globales, o **globals** , son variables creadas que pueden ser acc
 
 Para crear una global, simplemente ve a la configuración general de tu organización y desplázate hasta el final de la página, donde encontrarás la pestaña para las **globals**.
 
-
-
 Después de eso, solo tienes que hacer clic en ""**Crear Global** "", escribir el nombre de la global que deseas junto con su valor.
-
-
 
 De esta manera, se volverá accesible en cualquier flujo a través de la variable `@globals.nombre_de_la_global`.

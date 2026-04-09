@@ -21,22 +21,14 @@ Puedes añadir medios a tu mensaje en nuestra plataforma. Ya sea imágenes, audi
 
   1. Dentro de tu proyecto, haz clic en el Módulo de Flujos;
 
-
-
   2. Elige un flujo preexistente o crea uno nuevo;
   3. Añade una nueva carta de acción, haz clic en Archivos, elige entre las opciones URL de imagen, URL de audio, URL de video, URL de documento PDF o inserta la URL del medio seleccionado.
 
-
-
 Puedes elegir entre las 5 opciones mencionadas anteriormente.
-
-
 
 #### Usando un archivo de tu computadora
 
 Añade una nueva carta de acción, haz clic en Archivos, elige la opción **Enviar Archivo** y selecciona el archivo directamente desde tu computadora.
-
-
 
 #### Limitaciones
 

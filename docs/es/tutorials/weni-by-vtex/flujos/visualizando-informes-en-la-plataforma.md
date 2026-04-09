@@ -21,18 +21,12 @@ Después de construir y ejecutar nuestros flujos, nuestro próximo deseo, sin du
 
 Para acceder a los resultados del flujo, simplemente abre el flujo en cuestión, haz clic en el menú de hamburguesa junto al botón **Comenzar flujo** y selecciona la opción **Resultados**.
 
-
-
 En la pestaña de Resultados, tenemos dos opciones de informes:
 
 **Visión General**:
 La pestaña de visión global permite tener una visión general de los usuarios que pasaron por el flujo.
 
-
-
 **Ejecuciones (runs)** La pestaña de _runs_ permite acceder a todos los datos brutos, en formato de hoja de cálculo, que pueden ser exportados y utilizados en otras aplicaciones para la validación de datos.
-
-
 
 La exportación de resultados incluirá el nombre, la URN del contacto, las fechas de inicio y fin de las interacciones en el flujo, los mensajes que el contacto envió y otra información recopilada en el flujo.
 

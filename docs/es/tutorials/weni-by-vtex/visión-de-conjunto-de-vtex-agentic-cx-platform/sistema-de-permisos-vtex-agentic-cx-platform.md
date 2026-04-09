@@ -21,24 +21,16 @@ Dentro de la plataforma Weni, puedes gestionar diferentes permisos para cada usu
 #### Permisos de la organización
 Estos permisos pueden ser añadidos en la etapa de creación de la organización o en cualquier momento desde el ícono ubicado en la esquina superior derecha de la organización. Los permisos de la organización se aplicarán a todos los proyectos dentro de ella.
 
-
-
 Actualmente, existen 3 tipos de permisos:
 
 1. **Administrador:** Tiene acceso completo a la plataforma y permiso para agregar nuevos miembros.
 2. **Financiero:** Tiene acceso solo al área de facturación.
 3. **Contribuyente:** Permiso para crear nuevos proyectos y editar contenido.
 
-
-
 #### Permisos del Proyecto
 Además de los permisos generales de la organización, puedes asignar diferentes permisos a los colaboradores de cada uno de tus proyectos. Para acceder a las opciones, simplemente haz clic en la opción "gestionar miembros" ubicada en la parte superior derecha de la tarjeta del proyecto.
 
-
-
 Se abrirá una nueva pantalla que mostrará todos los colaboradores del proyecto. Aquí puedes añadir, eliminar y modificar permisos individualmente para cada miembro del proyecto.
-
-
 
 En total, tenemos 4 permisos, divididos en 2 grupos:
 

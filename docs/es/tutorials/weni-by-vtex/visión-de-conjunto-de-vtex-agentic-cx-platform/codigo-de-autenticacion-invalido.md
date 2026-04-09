@@ -19,10 +19,8 @@ Si deshabilitó y volvió a habilitar la autenticación de dos factores, y al in
 
 1. Acceda a la aplicación Microsoft Authenticator en su celular.
 
-
 1. Al acceder a la aplicación, aparecerá la pestaña ""Weni\-staging"". Haga clic en esta opción y luego en configuraciones, el ícono de la rueda dentada.
 2. Al ingresar al área de configuración, aparecerá esta pantalla. Haga clic en el botón ""eliminar cuenta"".
 
- Después de realizar este proceso, siga las instrucciones que aparecen en su pantalla de inicio de sesión, en el campo debajo de ""**configurar verificación en dos pasos**"".
-
+Después de realizar este proceso, siga las instrucciones que aparecen en su pantalla de inicio de sesión, en el campo debajo de ""**configurar verificación en dos pasos**"".
 
