@@ -1,5 +1,5 @@
 ---
-title: "Enabling Local stock sale in VTEX Sales App"
+title: 'Enabling Local stock sale in VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
