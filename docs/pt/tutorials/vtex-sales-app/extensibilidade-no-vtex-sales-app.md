@@ -1,7 +1,7 @@
 ---
 title: 'Extensibilidade no VTEX Sales App'
-createdAt: 2026-04-02T19:46:33.357Z
-updatedAt: 2026-04-02T20:19:18.600Z
+createdAt: 2026-04-09T19:46:33.357Z
+updatedAt: 2026-04-09T20:19:18.600Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: extensibility-in-vtex-sales-app
