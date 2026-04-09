@@ -25,7 +25,7 @@ Local stock sale allows the sales associate in a physical store to complete sale
 6. [Link the franchise account to the physical store](#linking-the-franchise-account-to-the-physical-store)
 7. [Integrate the point of sale](#integrating-the-point-of-sale)
 
-> ℹ️ Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our [Sales App - Getting started and setting up](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) documentation.
+> ℹ️ Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our [Sales App - Getting started and setting up](https://help.vtex.com/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up) documentation.
 
 ## Creating a franchise account
 
