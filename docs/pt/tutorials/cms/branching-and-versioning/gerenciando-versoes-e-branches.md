@@ -13,6 +13,11 @@ Ao trabalhar com conteúdo no CMS, as alterações ocorrem com frequência, seja
 * **[Versões](#versoes)** permitem preparar mudanças para o futuro, rastrear edições, revisar estados de conteúdo anteriores e restaurar versões mais antigas quando necessário.
 * **[Branches](#branches)** permitem agrupar múltiplas versões de páginas para colaborar e evoluir seu conteúdo antes de publicá-lo na vitrine.
 
+<video controls width="100%">
+  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/cms-branches-update/docs/pt/tutorials/cms/branching-and-versioning/Branches-pt.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 Neste guia, saiba como usar versões e branches para rastrear mudanças de conteúdo, testar com segurança, restaurar conteúdo anterior e gerenciar fluxos de publicação.
 
 ## Versões
