@@ -25,7 +25,7 @@ A Venda de estoque local permite o vendedor de uma loja física realizar vendas 
 6. [Conectar conta franquia a loja física](#conectar-conta-franquia-a-loja-fisica)
 7. [Integração de ponto de venda](#integracao-de-ponto-de-venda)
 
-> ℹ️ A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track [VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+> ℹ️ A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
 
 ## Criar uma conta franquia
 
