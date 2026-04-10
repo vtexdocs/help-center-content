@@ -38013,9 +38013,9 @@
             },
             {
               "name": {
-                "en": "Weni Agentic AI",
-                "es": "Weni Agentic AI",
-                "pt": "Weni Agentic AI"
+                "en": "Agentic CX",
+                "es": "Agentic CX",
+                "pt": "Agentic CX"
               },
               "slug": {
                 "en": "weni-agentic-ai-subcategory",
@@ -38057,14 +38057,14 @@
                 },
                 {
                   "name": {
-                    "en": "Installing Weni Agentic AI",
-                    "es": "Instalando a Weni agentic ai",
-                    "pt": "Instalando Weni Agentic AI"
+                    "en": "Introduction to Agentic CX",
+                    "es": "Introducción a Agentic CX",
+                    "pt": "Introdução ao Agentic CX"
                   },
                   "slug": {
-                    "en": "installing-weni-agentic-ai",
-                    "es": "instalando-a-weni-agentic-ai",
-                    "pt": "instalando-weni-agentic-ai"
+                    "en": "introduction-to-weni-agentic-ai",
+                    "es": "introduccion-a-weni-agentic-ai",
+                    "pt": "introducao-ao-weni-agentic-ai"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38072,14 +38072,14 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Weni Agentic AI",
-                    "es": "Introducción a Weni agentic ai",
-                    "pt": "Introdução ao Weni Agentic AI"
+                    "en": "Manage Agentic CX",
+                    "es": "Instalando a Agentic CX",
+                    "pt": "Instalando Agentic CX"
                   },
                   "slug": {
-                    "en": "introduction-to-weni-agentic-ai",
-                    "es": "introduccion-a-weni-agentic-ai",
-                    "pt": "introducao-ao-weni-agentic-ai"
+                    "en": "installing-weni-agentic-ai",
+                    "es": "instalando-a-weni-agentic-ai",
+                    "pt": "instalando-weni-agentic-ai"
                   },
                   "origin": "",
                   "type": "markdown",
