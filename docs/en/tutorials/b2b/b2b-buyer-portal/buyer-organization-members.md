@@ -1,7 +1,7 @@
 ---
 title: 'Buyer organization members'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-03-12T10:00:00.000Z'
+updatedAt: '2026-04-10T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
@@ -18,32 +18,24 @@ Roles define what each user can do in the store, including managing the organiza
 
 The table below summarizes the main roles and their functions:
 
-| Role                           | Purpose                                                                                                                                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Organizational unit admin**  | Full control over the organizational unit: manages organization and contract, users, buying policies, budgets, accounting fields, quotes, and organization hierarchy. |
-| **Super buyer admin**          | Can manage all organizational units at the root level of the organization, beyond the limits of each unit.                                                                            |
-| **Buyer**                      | Can place orders in the store.                                                                                                                                                        |
-| **Order approver**             | Can approve or reject orders following the configured approval flows.                                                                                                                 |
-| **Order modifier**             | Can use the order change feature on orders they have access to.                                                                                                                       |
-| **Address manager**            | Can add addresses during checkout, save them to the contract or organizational unit, update address information at checkout, and view saved addresses.                                |
-| **Buyer organization manager** | Can view all orders for their organizational unit, manage authentication settings, view payment cards, and view addresses.                                                            |
-| **Contract manager**           | Can view orders placed under the contract assigned to them.                                                                                                                           |
-| **Contract viewer**            | Can view saved addresses (read-only).                                                                                                                              |
-| **Buying Policy Manager** | Can create, edit, and delete purchase policies and approval workflows, and view purchase policies. |
+| Role | Purpose |
+| --- | --- |
+| **Organizational Unit Admin** | Full control over the organizational unit: manages organization and contract, users, buying policies, budgets, accounting fields, and credit cards. |
+| **Super Buyer Admin** | Can manage all organizational units at the root level of the organization, beyond the limits of each unit. |
+| **Buyer** | Can place orders in the store. |
+| **Order Approver** | Can approve or reject orders following the configured approval flows. |
+| **Order Modifier** | Can use the order change feature on orders they have access to. |
+| **Address Manager** | Can add and manage addresses during checkout, and view saved addresses. |
+| **Buyer Organization Manager** | Can view all orders within their organizational unit. |
+| **Contract Manager** | Can view orders placed under the contract assigned to them. |
+| **User Manager** | Can manage users and view user details within the organization. |
+| **Buying Policy Manager** | Can create, edit, and delete buying policies and approval workflows, and view buying policies. |
 | **Budget Manager** | Can create, edit, allocate, and delete budgets, and view budget details, allocations, limits, and spending history. |
-| **Accounting Fields Manager** | Can create, edit, and delete accounting fields. |
-| **Quote Manager** | Can create, edit, and delete quotes. |
-| **Personal card user**         | Can use a new credit card not saved in the contract by default at checkout.                                                                                                           |
+| **Accounting Field Manager** | Can create, edit, and delete accounting fields, and view accounting field configurations. |
+| **Credit Card Manager** | Can manage and view saved credit cards. |
+| **Personal Cards User** | Can use a new credit card not saved in the contract by default at checkout. |
 
 > ℹ️ Learn more about Storefront roles and resources in the developer guide [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
-
-## Recipients
-
-**Recipients** or **Contacts** are the people who can be selected as order recipients — the people who'll receive the shipment. The order contact may be different from the user who placed the order. When placing an order, the buyer can choose the contact (recipient) the order is for.
-
-Recipient information is managed at the organization level. Contacts can be linked to addresses so that, when selecting a shipping address, the user can choose from the contacts associated with that address. This keeps recipient information centralized and reusable between orders.
-
-For technical details on how to create, update, and integrate recipients via APIs, see the [B2B Recipients API](https://developers.vtex.com/docs/api-reference/b2b-recipients-api).
 
 ## Buyers
 
