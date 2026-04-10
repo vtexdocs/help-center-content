@@ -36764,14 +36764,14 @@
         },
         {
           "name": {
-            "en": "Weni by VTEX",
-            "es": "Weni by VTEX",
-            "pt": "Weni by VTEX"
+            "en": "VTEX CX Platform",
+            "es": "VTEX CX Platform",
+            "pt": "VTEX CX Platform"
           },
           "slug": {
-            "en": "weni-by-vtex-category",
-            "es": "weni-by-vtex-categoria",
-            "pt": "weni-by-vtex-categoria"
+            "en": "vtex-cx-platform-category",
+            "es": "vtex-cx-platform-categoria",
+            "pt": "vtex-cx-platform-categoria"
           },
           "origin": "",
           "type": "category",
