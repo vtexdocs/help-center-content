@@ -51391,6 +51391,21 @@
             },
             {
               "name": {
+                "en": "Collection title is not displayed when accessing through ?map=productClusterIds query in multilanguage accounts",
+                "es": "El título de la colección no se muestra al acceder a través de la consulta «?map=productClusterIds» en cuentas multilingües",
+                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues"
+              },
+              "slug": {
+                "en": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
+                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+                "pt": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Conflict between specifications with the same name at the Intelligent Search",
                 "es": "Conflicto entre especificaciones con el mismo nombre en la Búsqueda Inteligente",
                 "pt": "Conflito entre especificações com o mesmo nome na Intelligent Search"
