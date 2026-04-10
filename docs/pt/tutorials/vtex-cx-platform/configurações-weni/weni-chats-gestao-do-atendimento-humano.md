@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:04.311Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: weni-chats-human-service-management
+slugEN: manage-live-desk
 legacySlug: weni-chats-gestao-do-atendimento-humano
 locale: pt
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
