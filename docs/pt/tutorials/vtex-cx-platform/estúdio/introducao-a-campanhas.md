@@ -1,5 +1,5 @@
 ---
-title: 'Introdução a campanhas'
+title: 'Introdução a Campanhas'
 id: 17BPSCm7jcrKSvTv3n3kWd
 status: PUBLISHED
 createdAt: 2025-09-12T18:00:29.520Z
@@ -14,6 +14,8 @@ legacySlug: introducao-a-campanhas
 locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
+
+## O que é uma campanha?
 
 Uma campanha é um conjunto de eventos temporários projetados para impactar grupos de contatos. Para criar uma campanha, é necessário definir um grupo de contatos e incluir pelo menos uma variável de data e hora associada a eles.
 

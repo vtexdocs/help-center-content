@@ -1,5 +1,5 @@
 ---
-title: "Configurações gerais do projeto"
+title: 'Configurações gerais do projeto'
 id: 3nSppEH6dMTGElFBtrhHGb
 status: PUBLISHED
 createdAt: 2025-09-16T15:01:05.207Z
@@ -15,72 +15,36 @@ locale: pt
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
-Neste artigo, explicaremos cada opção das configurações gerais que sua organização terá em nossa plataforma. Elas foram enumeradas de 1 a 10 (foto abaixo) e explicadas minuciosamente. Para acessá-las, é necessário clicar no menu lateral dentro do seu projeto.
+Neste artigo, explicaremos cada opção das configurações gerais que sua organização terá em nossa plataforma. Para acessá-las, é necessário clicar em **Configurações > Canais > Outras Aplicações**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_1.png)
+## Configurações
 
-## 1 - Configurações
+Ao clicar no ícone de três linhas, você pode clicar em:
 
-Ao clicar no ícone de engrenagem, você acessará um menu com 2 opções:
+- `Adicione Classificador`: Conecta um classificador ao seu projeto, como Wit.ai, LUIS e Bothub.
+- `Adicionar serviço de Ticket`: Conecta um serviço de ticket ao seu projeto, como Email, Zendesk, Rocket.Chat, Twilio Flex, Live Desk, Freshchat e Twilio Flex 2.x.
+- `Exportar`: Exporta um fluxo criado para ser utilizado em outra organização.
+- `Importar`: Importa um fluxo de outra organização para a sua.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_2.png)
-
-1. Em Exportar, você poderá exportar um fluxo criado para ser utilizado em outra organização.
-2. Em Importar, você poderá importar um fluxo de outra organização para a sua.
-
-## 2 - Idioma do projeto
+## Idioma do Projeto
 
 Aqui você poderá configurar dois ou mais idiomas para sua organização: um principal (utilizado por padrão nos fluxos) e outros secundários (definidos ao criar o fluxo).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_3.png)
+Para adicionar os idiomas, simplesmente insira o primeiro idioma no campo **Idioma Padrão de Fluxo** e os demais no campo **Idiomas adicionais**.
 
-Para adicionar os idiomas, simplesmente insira o primeiro idioma no campo de Fluxo Padrão e os demais no campo de idiomas adicionais.
+## E-mail da Organização
 
-## 3 - Localização da organização
+Aqui você poderá definir o e-mail da sua organização. Todos os e-mails enviados nos fluxos ou campanhas serão enviados em nome do e-mail definido aqui. Para configurá-lo, siga os passos abaixo:
 
-Nesta opção, você poderá escolher a localização onde sua organização irá operar.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_4.png)
-
-## 4 - E-mail da organização
-
-Aqui você poderá definir o e-mail da sua organização. Todos os e-mails enviados nos fluxos ou campanhas serão enviados em nome do e-mail definido aqui. Para configurá-lo corretamente, siga os passos abaixo:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_5.png)
-
-1. Em Endereço de e-mail, insira o e-mail desejado;
-2. Em Host SMTP, insira o host do seu SMTP;
+1. Em Endereço de e-mail, insira o e-mail desejado.
+2. Em Host SMTP, insira o host do seu SMTP.
 3. Em Porta, insira a porta do seu serviço SMTP (provavelmente será 587).
-4. Em Nome de usuário, insira o nome de usuário do seu e-mail;
-5. Em Senha, insira a senha do seu e-mail;
-6. Salvar.
+4. Em Nome de usuário, insira o nome de usuário do seu e-mail.
+5. Em Senha, insira a senha do seu e-mail.
+6. Clique em `Salvar`.
 
-Se não desejar configurar, pode deixar os campos em branco para enviar e-mails através do HOST padrão da Weni.
+Se não desejar configurar, pode deixar os campos em branco para enviar e-mails através do host padrão do VTEX CX Platform.
 
-### 5 - DT1
+## Token de acesso da organização
 
-DT1 é uma plataforma que realiza transferências digitais B2B para recargas de celular e soluções de dados. Ao configurar esta opção, uma opção adicional aparecerá no fluxo.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_6.png)
-
-## 6 - Token de acesso da organização
-
-Aqui você poderá verificar o token da sua API. O token é a chave de acesso para que aplicações externas possam interagir com a API da Plataforma Weni.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configuracoes-gerais-do-projeto_7.png)
-
-## 7 - Prometheus
-
-Com o Prometheus, você pode monitorar o contador de grupo de contato e o contador de mensagens do canal em sua área de trabalho utilizando seu endpoint do Prometheus. Isso permite acompanhar ao longo do tempo, utilizando gráficos e alertas em um painel de controle como o do Grafana.
-
-## 8 - Eventos de fluxo
-
-São eventos utilizados para a integração com algumas ferramentas externas, como o Zapier.
-
-## 9 - Globals
-
-São variáveis de armazenamento que podem guardar dados para serem utilizados posteriormente dentro dos fluxos. Para obter mais informações sobre Globals, visite o artigo sobre variáveis.
-
-## 10 - Arquivo de mensagens
-
-Aqui serão armazenados os conteúdos relacionados aos dados de execução dos seus fluxos.
+Aqui você poderá verificar o token da sua API. O token é a chave de acesso para que aplicações externas possam interagir com a API do VTEX CX Platform.

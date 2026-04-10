@@ -1,5 +1,5 @@
 ---
-title: "Marcadores de rota"
+title: 'Marcadores de rota'
 id: 6Ik6WA9HMhGvPr1IsfQPJE
 status: PUBLISHED
 createdAt: 2025-09-17T14:12:14.855Z
@@ -15,16 +15,10 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Depois que criamos nossos fluxos, o nosso objetivo e ansiedade vira saber como as pessoas estão usando e reagindo as conversas. Para que você consiga em tempo real analisar como está a interação e engajamento nos seus fluxos, quais caminhos os usuários estão preferindo e conseguir utilizar esses dados para tomada de decisão, a plataforma tem algumas ferramentas para ajudar com isso.
-
 ## Marcadores de rota
 
-Os marcadores de rota são números guias que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Ferramenta bem interessante para identificar qual o caminho está sendo o mais procurado pelos seus usuários, além de sempre ser atualizada em tempo real. Também é possível identificar certos gargalos, como quando uma pergunta segurar um usuário tempo demais no fluxo.
+Os marcadores de rota são números que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Essa ferramenta identifica o caminho mais procurado pelos usuários e é atualizada em tempo real. Também é possível identificar certos gargalos, como uma pergunta que segura um usuário tempo demais no fluxo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/marcadores-de-rota_1.png)
+> ℹ️ Se um mesmo contato seguir pela mesma rota várias vezes, esse número exibido aumentará. Entretanto, se você alterar uma rota, esse número será zerado.
 
-Ao colocar o cursor em cima de um dos marcadores de rota, você consegue ver quais foram as últimas mensagens recebidas pelas pessoas que passaram por aquele caminho. Além de saber a data de último contato.
-
-A quantidade de contatos únicos que passaram por uma rota específica não é exibida. O que aparece é o número de vezes que os contatos passaram por essa rota. Ou seja, se um mesmo contato seguir pela mesma rota várias vezes, o número exibido aumentará a cada passagem.
-
-Ao alterar uma rota a quantidade interações não é mantida.
+Ao colocar o cursor em cima de um dos marcadores de rota, você consegue ver quais foram as últimas mensagens recebidas pelas pessoas que passaram por aquele caminho e a data do último contato.

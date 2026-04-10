@@ -1,5 +1,5 @@
 ---
-title: "Criando contatos com webhooks externos"
+title: 'Criando contatos com Webhooks externos'
 id: 2uiciJ2WsW6G9tfSDpvE12
 status: PUBLISHED
 createdAt: 2025-09-12T16:55:38.856Z
@@ -15,17 +15,17 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Neste artigo, mostraremos de forma simples como trazer contatos da sua plataforma externa para a Plataforma Weni.
+Neste artigo, mostraremos de forma simples como trazer contatos da sua plataforma externa para o VTEX CX Platform.
 
-A Plataforma Weni possui dezenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que podem ser consumidas para diversas funcionalidades. Neste artigo, focaremos estritamente na integração de contatos para automatizar sua comunicação.
+O VTEX CX Platform possui dezenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que podem ser consumidas para diversas funcionalidades. Neste artigo, focaremos estritamente na integração de contatos para automatizar sua comunicação.
 
 Contatos são os registros de cada pessoa dentro de um determinado canal de comunicação. Neles, podem ser salvos campos padrão, como nome, e-mail, telefone e WhatsApp, assim como diversos campos personalizados que podem ser criados e utilizados livremente na comunicação.
 
 Normalmente, os webhooks são disparados a partir de um determinado evento dentro do software parceiro, como, por exemplo:
 
-- Ao criar, atualizar e deletar um registro de cliente;- Ao mudar o status de um registro de lead em uma plataforma CRM.Quando tais eventos ocorrem, devem ser disparadas requisições para a Plataforma Weni atualizar os registros de contatos, permitindo que toda a automação de comunicação seja modificada em tempo real.
+- Ao criar, atualizar e deletar um registro de cliente;- Ao mudar o status de um registro de lead em uma plataforma CRM.Quando tais eventos ocorrem, devem ser disparadas requisições para o VTEX CX Platform atualizar os registros de contatos, permitindo que toda a automação de comunicação seja modificada em tempo real.
 
-## Adicionando contatos
+## Adicionando Contatos
 
 Você pode adicionar um novo contato enviando uma requisição **POST** para essa URL com os seguintes dados:
 
@@ -55,7 +55,7 @@ POST /api/v2/contacts.json
 }
 ```
 
-## Atualizando contatos
+## Atualizando Contatos
 
 Uma requisição **POST** também pode ser usada para atualizar um contato existente se você especificar pela URL tanto o seu UUID quanto uma de suas URNs. Apenas aqueles campos incluídos no corpo serão atualizados no contato, os demais permanecerão intactos.
 
@@ -84,7 +84,7 @@ POST ​/​api​/​v2​/​contacts​.​json​?​urn​=​tel​%​3A�
 }
 ```
 
-## Deletando contatos
+## Deletando Contatos
 
 Uma requisição **DELETE** também pode ser usada para deletar um contato existente se você especificar na URL tanto o seu UUID quanto uma de suas URNs.
 
@@ -128,7 +128,7 @@ Você receberá um objeto (com a nova chave do campo) se a resposta for bem suce
 }
 ```
 
-## Adicionando um grupo de contato
+## Adicionando um Grupo de Contato
 
 Uma requisição **POST** pode ser usada para criar um novo grupo de contato. Não especifique um UUID, nós geraremos um pra você.
 
@@ -176,7 +176,7 @@ Você receberá um objeto de grupo atualizado se a resposta for bem sucedida:
 }
 ```
 
-## Deletando um grupo
+## Deletando um Grupo
 
 Uma requisição **DELETE** pode ser usada para deletar um grupo de contato se você especificar na URL o seu UUID.
 

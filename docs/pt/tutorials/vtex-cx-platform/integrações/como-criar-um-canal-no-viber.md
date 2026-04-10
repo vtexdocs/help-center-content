@@ -15,27 +15,15 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-## Antes de começar
+## Processo inicial de integração do canal viber
 
 Para criar o canal, clique em **""Aplicações > Descobertas""** dentro do seu projeto:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber.png) 
-
 Logo após, clique no botão de adicionar e uma janela de confirmação será aberta.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_1.png) 
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_2.png)
-
-Poderá encontrar o aplicativo em Meus Aplicativos. Ao clicar no local indicado na imagem > Configurar, uma nova janela será aberta
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_3.png)
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_4.png)
+Poderá encontrar o canal em **Configurações > Canais**. Ao clicar no local indicado na imagem > Configurar, uma nova janela será aberta
 
 O único requisito é o Token de autorização (chamado token de aplicativo pela equipe do Viber)
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_5.png)
 
 O processo principal consiste em aprovar a conta pública de um Viber e coletar o token do aplicativo.
 
@@ -45,31 +33,19 @@ Instale o aplicativo móvel do Viber e passe pelo processo de registro do seu n�
 
 Tendo uma conta válida, acesse o painel de administração neste link: <https://partners.viber.com/login> e vincule\-o a conta com o número que foi registrado no aplicativo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_6.png)
-
 Você receberá um token de verificação no celular, confirme\-o também.
-
- ![VerifyToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_7.png)
 
  No painel esquerdo, selecione ***""Create bot account"".***
 
- ![CreateBot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_8.png) Preencha todos os requisitos apresentados e clique em *Criar* no final da página.
+  Preencha todos os requisitos apresentados e clique em *Criar* no final da página.
 
- ![FillBotForm](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_9.png) 
-
-Levará alguns segundos para processar e uma nova janela será exibida com o token necessário. copie e guarde este token para o próximo passo de integração do canal com a plataforma Weni.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_10.png)
+Levará alguns segundos para processar e uma nova janela será exibida com o token necessário. copie e guarde este token para o próximo passo de integração do canal com o VTEX CX Platform
 
 ## Concluir a configuração do canal
 
 Agora volte ao processo de adição do canal, cole o token e pressione **Salvar alterações**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_11.png)
-
 Logo, irá aparecer como conectado com a URL da Webhook.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/como-criar-um-canal-no-viber_12.png)
 
 ## Publique a conta
 
