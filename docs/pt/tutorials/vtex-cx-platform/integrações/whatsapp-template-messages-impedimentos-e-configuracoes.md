@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp template messages: Impedimentos e configurações"
+title: 'Whatsapp Template Messages: impedimentos e configurações'
 id: 4bc7imLyUicKHtCIJVGNSE
 status: PUBLISHED
 createdAt: 2025-09-15T15:07:41.131Z
@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Aqui você encontrará soluções para possíveis impedimentos, reprovações e erros no processo de criação, envio e alterações nas Template Messages do WhatsApp. Siga os tópicos abaixo para mais informações.
 
-## Processo de aprovação (responsabilidade da Meta)
+## Processo de aprovação (Responsabilidade da Meta)
 
 Depois de criar o modelo, você poderá enviá-lo para aprovação. Pode levar até 24 horas para que uma decisão seja tomada. Assim que a decisão for tomada, uma notificação aparecerá no Gerenciador do WhatsApp. Além disso, a Meta enviará um e-mail para os administradores do Gerenciador de Negócios. Caso você tenha assinado as atualizações sobre alterações de status do modelo de mensagem, a Meta também enviará uma notificação via webhook. Consulte [Como monitorar alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) para mais detalhes.
 
@@ -62,8 +62,6 @@ Os modelos podem ter os status a seguir.
 - **Apelação solicitada**: indica que foi feita uma apelação. Consulte [Apelações](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) .
 
 Você pode consultar o status de um modelo em **Gerenciador do WhatsApp** > **Visão geral**. Depois, passe o mouse sobre o ícone da mala (**Ferramentas de conta**) e clique em **Modelos de mensagem**. Caso você tenha mais de uma conta do WhatsApp Business, selecione a conta cujo status do modelo você quer consultar na lista de contas no menu suspenso do canto superior direito.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integra%C3%A7%C3%B5es/whatsapp-template-messages-impedimentos-e-configuracoes_1.png)
 
 ## Como monitorar alterações de status
 

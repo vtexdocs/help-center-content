@@ -1,5 +1,5 @@
 ---
-title: "Precificação do WhatsApp business API"
+title: 'Precificação do Whatsapp Business API'
 id: 6PzP7aMpkaYmICNyXFlNwr
 status: PUBLISHED
 createdAt: 2025-09-15T15:29:16.093Z
@@ -25,15 +25,9 @@ As conversas iniciadas pela empresa são divididas em três categorias: utilidad
 
 - **Utilidade**:  Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/precificacao-do-whatsapp-business-api_1.png)
-
 - **Autenticação**:  Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/precificacao-do-whatsapp-business-api_2.png)
-
 - **Marketing**: Serve para promoções ou ofertas, atualizações de informações ou convites. As conversas que não se enquadrarem nas categorias de utilidade ou autenticação serão consideradas de marketing.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/precificacao-do-whatsapp-business-api_3.png)
 
 ## Conversas iniciadas pelo usuário
 
@@ -51,13 +45,13 @@ A conversa iniciada é gratuita, porém o anúncio é cobrado.
 
 Lembrando que: Cada conta do WhatsApp Business (WABA) tem 1\.000 conversas iniciadas pelo usuário gratuitas por mês, independentemente da quantidade de telefones incluídos. O limite de conversas gratuitas é restaurado a cada mês, de acordo com o fuso horário associado à WABA.
 
-## Duração da conversa
+## Duração da Conversa
 
 As conversas de marketing, utilidade, autenticação e serviço têm uma duração de 24 horas (caso não sejam conversas por ponto de entrada gratuito — de anúncios de clique para o WhatsApp ou de Páginas do Facebook). Após esse período, o tempo será reiniciado, e qualquer mensagem enviada iniciará uma nova janela, sendo cobrada de acordo com a categoria.
 
 ## Precificação
 
-### Conversas iniciadas pela empresa
+### Conversas iniciadas pela empresa (referência de precificação)
 
 - **Utilidade**: Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
 - **Autenticação**: Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.

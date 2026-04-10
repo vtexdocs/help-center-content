@@ -1,5 +1,5 @@
 ---
-title: "Importar e exportar fluxos"
+title: 'Importar e exportar fluxos'
 id: 2jwPSnXsL3wniLWt9i7IA5
 status: PUBLISHED
 createdAt: 2025-09-17T14:03:45.539Z
@@ -25,11 +25,7 @@ Existem dois caminhos de chegarmos na página de exportação de fluxos.
 
 Para acessar a página de exportação pelo editor de fluxos, basta ir ao menu de opções e clicar no botão _**exportar definição**_.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/importar-e-exportar-fluxos_1.png)
-
-Ou também no módulo de fluxos
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/importar-e-exportar-fluxos_2.png)
+Ou também em **Fluxo de automação**
 
 Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas) clicando no link.
 
@@ -37,13 +33,9 @@ Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](/
 
 Para acessar a página de exportação pelas configurações gerais da organização, basta ir ao menu de opções e clicar no botão _**exportar**_.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/importar-e-exportar-fluxos_3.png)
-
-Você pode conhecer um pouco mais sobre as Configurações gerais de organização clicando no [link](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Você pode conhecer um pouco mais sobre as Configurações gerais de organização na página [Configurações gerais do projeto](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
 Já na página de exportação, ela irá te exibir todos os fluxos e campanhas daquela organização, estando eles agrupados por uso, ou seja, todos os fluxos de um mesmo grupo interagem entre si. Caso você exporte apenas um fluxo de um grupo, você pode ter problemas em seu funcionamento.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/importar-e-exportar-fluxos_4.png)
 
 Para exportar os fluxos que deseja, basta selecionar os de seu interesse e depois apertar no botão _**exportar**_ no fim da página, ele irá gerar um arquivo `.json` que você poderá utilizar na próxima etapa, a importação.
 
@@ -51,10 +43,6 @@ Para exportar os fluxos que deseja, basta selecionar os de seu interesse e depoi
 
 Para chegarmos na página de importação de fluxo basta ir ao menu de opções e clicar no botão **_importar_** nas configurações gerais da organização.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/importar-e-exportar-fluxos_5.png)
-
 Depois disso, ao acessar a página de importação, basta selecionar o arquivo `.json` criado na página de exportação e pressionar o botão _**import**_.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/importar-e-exportar-fluxos_6.png)
 
 Feito isso, basta esperar um pouco e seus fluxos serão devidamente importados naquela organização.

@@ -1,5 +1,5 @@
 ---
-title: "Criando agentes ativos"
+title: 'Criar agentes ativos'
 id: 4ijpXwff2x4A44AZw2tMzQ
 status: PUBLISHED
 createdAt: 2025-09-23T17:40:38.123Z
@@ -15,9 +15,11 @@ locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
+## Visão geral
+
 Agentes ativos são projetados para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, os agentes ativos podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de um agente ativo é o mesmo utilizado para outros agentes: `weni project push agent_definition.yaml`
 
-## Conceitos básicos e estrutura yaml
+## Conceitos Básicos e Estrutura YAML
 
 A definição de um agente ativo é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
 
@@ -37,7 +39,7 @@ O arquivo `result_example.json` deve ser um array de objetos. Cada objeto conté
 - `urn`: identificador único do contato (por exemplo, número de telefone ou ID de usuário).
 - `data`: um dicionário com os dados relevantes para a regra. A estrutura desse dicionário depende das informações que seu agente precisa processar
 
-## Estrutura do projeto
+## Estrutura do Projeto
 
 Um agente ativo segue uma organização de pastas clara
 
@@ -60,7 +62,7 @@ your-project-name/
 
 Essa estrutura ajuda a organizar as diferentes partes do agente. Na pasta `rules/` ficam as regras separadas por status, cada uma com seu próprio arquivo `main.py` e `requirements.txt`. A pasta `pre_processors/processor` contém o código de pré‑processamento e seu `requirements.txt`, enquanto os arquivos `agent_definition.yaml` e `result_example.json` ficam na raiz.
 
-## Exemplo de definição yaml
+## Exemplo de Definição YAML
 
 Abaixo está um exemplo de `agent_definition.yaml` com um agente chamado `active_order_status` que gerencia o status de pedidos:
 
@@ -114,19 +116,19 @@ A etapa de pré‑processamento é responsável por coletar todos os dados neces
 
 ```json
 {
-  "recorder": {
-    "_record": {
-      "x-vtex-meta": {},
-      "x-vtex-meta-bucket": {}
-    }
-  },
-  "domain": "Marketplace",
-  "orderId": "1544102600592-01",
-  "currentState": "payment-approved",
-  "lastState": "canceled",
-  "currentChangeDate": "2025-02-07T13:54:54.7438532Z",
-  "lastChangeDate": "2025-02-07T13:54:54.6657558Z",
-  "vtexAccount": "leoamaral"
+    "recorder": {
+        "_record": {
+            "x-vtex-meta": {},
+            "x-vtex-meta-bucket": {}
+        }
+    },
+    "domain": "Marketplace",
+    "orderId": "1544102600592-01",
+    "currentState": "payment-approved",
+    "lastState": "canceled",
+    "currentChangeDate": "2025-02-07T13:54:54.7438532Z",
+    "lastChangeDate": "2025-02-07T13:54:54.6657558Z",
+    "vtexAccount": "leoamaral"
 }
 ```
 
@@ -157,7 +159,7 @@ class PreProcessor(BasePreProcessor):
         return ProcessedData(urn, {"orderId": order_id, "status": state})
 ```
 
-## Implementação de regra: Paymentapproved
+## Implementação de Regra: PaymentApproved
 
 Cada regra do agente é implementada como uma classe que herda de `Rule`. A função `execute` verifica se a condição é atendida e retorna `True` caso a mensagem deva ser enviada. A função `get_template_variables` monta um dicionário com as variáveis do template. Abaixo está a implementação da regra **PaymentApproved**:
 
@@ -179,20 +181,20 @@ class PaymentApproved(Rule):
         return {"1": f"R$ {price / 100}", "2": order_id}
 ```
 
-## Uso de templates (hsm)
+## Uso de Templates (HSM)
 
 Os templates de mensagem (HSM) cadastrados no WhatsApp Business podem conter marcadores como `{{1}}`, `{{2}}`, etc. Quando `execute` retorna `True`, a Weni CLI chama `get_template_variables` para preencher essas variáveis. Por exemplo, considerando um template `Olá {{1}}, seu pedido {{2}} está em fase de {{3}}`, a função deve retornar:
 
 ```json
-{ "1": "Leonardo", "2": "12345", "3": "Entrega" }
+{"1": "Leonardo", "2": "12345", "3": "Entrega"}
 ```
 
-## Lógica de execução das regras e casos de uso
+## Lógica de Execução das Regras e Casos de Uso
 
 Após o pré‑processamento, o agente percorre as regras definidas no YAML em ordem. A primeira regra cujo método `execute` retornar `True` será executada, e as demais são ignoradas. Portanto, é importante organizar as regras de forma hierárquica e garantir que o pré‑processamento retorne dados suficientes para as condições de cada regra. Casos de uso comuns incluem notificações de pedidos (aprovados, faturados, cancelados, criados), mas você pode criar regras para qualquer evento relevante dentro da VTEX ou do seu fluxo de negócios.
 
 ## Conclusão
 
-Agentes ativos permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável entre Weni e VTEX para informar seus clientes no momento certo.
+Agentes ativos permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável para informar seus clientes no momento certo.
 
 > [Aqui](https://github.com/weni-ai/weni-active-agents-example) você encontrará um exemplo de código de agente ativo.

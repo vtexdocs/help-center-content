@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp bussiness API: Como verificar o meu negócio'
+title: 'Whatsapp Bussiness API: Como Verificar o meu Negócio'
 id: 7MaArO3CPxHsjnyyddL6t3
 status: PUBLISHED
 createdAt: 2025-09-15T15:30:49.392Z
@@ -31,21 +31,13 @@ A Weni, como empresa parceira oficial (BPS) da Meta, habilita o botão de verifi
 - Selecione a conta empresarial a ser utilizada
 - Siga com os passos abaixo para realizar a verificação de negócios.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_1.png)
-
 ## Passo 1
 
  Clique em Contas de WhatsApp e escolha a conta que deseja verificar
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_2.png)
-
 O status é mostrado ao selecionar a conta a ser verificada:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_3.png)
-
 Clique em Iniciar verificação e uma nova janela será aberta:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_4.png)
 
 Seguem alguns links importantes para o processo de Verificação de Negócios:
 
@@ -54,24 +46,22 @@ Seguem alguns links importantes para o processo de Verificação de Negócios:
 
 ## Passo 2
 
-Caso já tenha integrado seu número na nossa plataforma através do Menu Integrações \> Meus Aplicativos ou tenha sido aceito o vínculo entre o seu Meta Business e a Weni, o botão Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
+Caso já tenha integrado seu número na nossa plataforma através de **Configurações > Canais > Outras aplicações** ou tenha sido aceito o vínculo entre o seu Meta Business e o VTEX CX Platformo Iniciar verificação estará disponível para você na nova página aberta através do Ver Detalhes.
 
 Caso este botão não esteja visível, contate o suporte/seu analista responsável para auxílio da ativação do botão de verificação de negócios.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_5.png)
 
 ## Passo 3
 
 Siga as instruções da Meta, leia atentamente as solicitações e preencha com dados compatíveis a sua documentação de empresa/CNPJ ou aos indicados pela Meta.
 
-Nesse momento, serão solicitados os documentos oficiais e **obrigatórios** para validação do negócio. Os documentos oficiais aceitos estão descritos [aqui](#passo_1).
+Nesse momento, serão solicitados os documentos oficiais e **obrigatórios** para validação do negócio. Os documentos oficiais aceitos estão descritos [na seção Passo 1](#passo-1).
 
 É importante:
 
 - Que as informações da empresa estejam idênticas aos documentos;
 - Checar se os dados da sua empresa se sugerido pela Meta estão atualizados;
 - O telefone preenchido esteja disponível para receber ligações oficiais, este é o telefone cadastrado no CNPJ;
-- Caso escolha a opção e-mail é importante ser um e-mail corporativo pessoal como nome@empresa.com;
+- Caso escolha a opção e-mail é importante ser um e-mail corporativo pessoal como <nome@empresa.com>;
 - Se for pelo método Meta TAG, siga as instruções;
 
 Não cumprir com esses pontos **impossibilita** o envio do código para verificação da empresa.

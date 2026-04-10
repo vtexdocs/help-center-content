@@ -1,5 +1,5 @@
 ---
-title: "Histórico de contato"
+title: 'Histórico de Contato'
 id: 5iIOoqK90mIPUYTyZ32f1Z
 status: PUBLISHED
 createdAt: 2025-09-12T17:07:19.998Z
@@ -25,8 +25,4 @@ As mensagens são ordenadas por data e separadas por cor de acordo com a origem.
 
 Você pode optar por uma visão resumida, mostrando apenas as conversas para uma análise rápida, ou por uma visão detalhada, com mais informações.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/estúdio/historico-de-contato_1.png)
-
 Ao clicar no contato desejado, uma nova tela será aberta onde você poderá ver o histórico do contato.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/estúdio/historico-de-contato_2.png)

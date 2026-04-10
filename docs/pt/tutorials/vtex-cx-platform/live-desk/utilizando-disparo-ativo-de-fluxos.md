@@ -1,5 +1,5 @@
 ---
-title: "Utilizando disparo ativo de fluxos"
+title: 'Utilizando disparo ativo de fluxos'
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
@@ -15,83 +15,61 @@ locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
+## Guia de uso do disparo ativo
+
 O disparo ativo de fluxos permite que um agente envie um fluxo para um ou mais contatos e para grupos de contatos, possibilitando também iniciar uma conversa com os contatos desejados através dos modelos de mensagens do Whatsapp.
 
 Nesse artigo trataremos um pouco sobre:
 
-- [Habilitando um fluxo existente para envio no chats](#habilitando-um-fluxo-existente-para-envio-no-chats)
+- [Habilitando um fluxo existente para envio no Live Desk](#habilitando-um-fluxo-existente-para-envio-no-live-desk)
 - [Criando um fluxo que envie um modelo de mensagem](#criando-um-fluxo-que-envie-um-modelo-de-mensagem)
-- [Ativando a função de disparo de fluxos em configuração de chats](#ativando-a-função-de-disparo-de-fluxos-em-configurações-de-chats)
-- [Disparando um fluxo de chats](#disparando-um-fluxo-no-chats)
+- [Ativando a função de disparo de fluxos em configuração do Live Desk](#ativando-a-função-de-disparo-de-fluxos)
+- [Disparando um fluxo](#disparando-um-fluxo)
 
-#### Habilitando um fluxo existente para envio no chats
+### Habilitando um fluxo existente para envio no Live Desk
 
-Qualquer fluxo já existente pode ser disparado através do chats, para isso basta acessar **Fluxos;**
+Qualquer fluxo já existente pode ser disparado através do Live Desk. Para isso, siga os passos:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_1.png)
+1. Acesse **Fluxo de automação** (em **Agent Builder**).
+2. Selecione o fluxo desejado e clique em `Rótulo`.
+3. Para que o fluxo fique disponível no Live Desk, precisa ter um rótulo de nome "chats". Caso não esteja disponível, crie um rótulo "chats".
+4. Clique em `Criar`.
 
-Em seguida selecione o fluxo desejado e clique no botão **rótulo**:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_2.png)
-
-Para que o fluxo fique disponível em chats precisa ter um rótulo de nome **“chats”**, caso não esteja disponível crie um novo rótulo de nome **“chats”** como no exemplo:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_3.png)
-
-Ao clicar em **criar**, seu fluxo ficará automaticamente com o rótulo criado e estará disponível para ser usado em chats.
+Ao clicar em **criar**, seu fluxo ficará automaticamente com o rótulo criado e estará disponível para ser usado em chats.
 
 ### Criando um fluxo que envie um modelo de mensagem
 
-A criação do fluxo é reservada para usuários gestores, ou seja, apenas usuários com permissão de administrador, moderador e colaborador é que podem criar os fluxos.
+Apenas usuários com permissão de administrador, moderador e colaborador podem criar os fluxos.
 
-Para enviar modelos de mensagens é necessário que os mesmos já tenham sido cadastrados e aprovados pelo Whatsapp, veja [este artigo](https://help.vtex.com/pt/docs/tutorials/whatsapp-como-criar-template-messages) caso haja dúvidas.
+Para enviar modelos de mensagens é necessário que os mesmos já tenham sido cadastrados e aprovados pelo Whatsapp, veja [este artigo](https://help.vtex.com/pt/docs/tutorials/whatsapp-como-criar-template-messages) caso haja dúvidas.
 
-Acesse seu projeto, em seguida o módulo de **Fluxos**:
+1. Dentro do projeto desejado, acesse **Fluxo de automação**.
+2. Clique em `Criar fluxo`.
+3. Preencha os campos de nome, tipo de fluxo e, se necessário, palavras-chave dos disparadores globais.
+4. Para inserir um bloco, clique no botão de mais `Criar bloco`.
+5. Preencha as informações do seu bloco.
+6. Clique em `Confirmar`.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_4.png)
+### Ativando a função de disparo de fluxos
 
-Clique no botão **Criar fluxo:**
+Para que a função de disparo de fluxos esteja disponível aos agentes, é necessário habilitar a funcionalidade.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_5.png)
+Siga o passo a passo:
 
-Em seguida informe os dados sobre seu fluxo:
+1. Acesse **Configurações > Live Desk**.
+2. Selecione o setor desejado e clique nos três pontos.
+3. Clique em `Editar`.
+4. Em **Opções extras**, ative o botão de `Disparo de modelos de mensagens ativo`.
+5. Para finalizar, clique em `Salvar`.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_6.png)
+### Disparando um fluxo
 
-Insira os cards de acordo com as ações que desejar no seu fluxo, para que o fluxo seja de envio de modelo de mensagens, selecione o card do tipo enviar mensagem e clique em **whatsapp.**
+Para disparar um fluxo, siga o passo a passo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_7.png)
-
-Seus modelos cadastrados devem aparecer, selecione o desejado e insira a variável caso houver, clique em ok e finalize seu fluxo.
-
-### Ativando a função de disparo de fluxos em configurações de chats
-
-Para que a função de disparo de fluxos esteja disponível aos agentes, primeiro é necessário habilitar a mesma em configurações, no setor desejado.
-
-Acesse **configurações \> Chats \> Abrir**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_8.png)
-
-Na primeira tela do setor será possível ver o botão de ativar o disparo de fluxos, ele estará desativado, **ative** e clique em **salvar.**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_9.png)
-
-### Disparando um fluxo no chats
-
-Acesse o Chats
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_10.png)
-
-Na tela de chats clique no**botão** abaixo de preferências, como no exemplo:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_11.png)
-
-Selecione os contatos desejados e clique em continuar:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_12.png)
-
-Selecione o fluxo desejado, em seguida clique no botão de enviar:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/utilizando-disparo-ativo-de-fluxos_13.png)
-
-Pronto! Os contatos que receberam os fluxos irão aparecer em uma lista em espera, assim que o contato responder será possível iniciar o chat normalmente com o contato.
+1. Acesse o Live Desk.
+2. Clique em `Opções`.
+3. Clique em `Fluxos`.
+4. Para selecionar os contatos, clique nos cards de cada um.
+5. Em seguida, clique em `Continuar`.
+6. Na caixa de `Selecionar o fluxo`, escolha o fluxo que você deseja disparar.
+7. Por último, clique em `Enviar`.

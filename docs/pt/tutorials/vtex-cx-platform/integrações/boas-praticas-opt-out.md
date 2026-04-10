@@ -1,5 +1,5 @@
 ---
-title: 'Boas práticas: Opt-out'
+title: 'Boas práticas: Opt-Out'
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
@@ -39,7 +39,7 @@ E isso se dá tendo em vista que a imagem da empresa ficará manchada para aquel
 
 Assim, caso ele precise futuramente de novas resoluções ou serviços da instituição, ele não ficará à vontade, sendo suficiente para impedir que novos negócios sejam fechados.
 
-#### Melhorar a classificação por qualidade
+## Melhorar a classificação por qualidade
 
 Para evitar o Opt-out de seus clientes, você pode melhorar a classificação de qualidade da sua conta.
 

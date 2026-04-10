@@ -1,5 +1,5 @@
 ---
-title: "Envio de mídias suportadas - WhatsApp cloud"
+title: 'Envio de Mídias Suportadas - WhatsApp Cloud'
 id: 2XRQLsebPsHrnxkUXx4YcG
 status: PUBLISHED
 createdAt: 2025-09-15T15:10:19.456Z
@@ -19,13 +19,13 @@ Abaixo, você encontrará os limites suportados no WhatsApp Cloud para cada tipo
 
 ## Tipos de mídia suportados
 
-| **Tipo de m\*\***ídia\*\*      | **Extensão**                        | **Tipos de mídia compatíveis (MIME Type)**                                                                                                                                                                                                                                                                        | **Tamanho**  |
-| ------------------------------ | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| audio                          | .aac.amr.mp3.m4a.ogg                | audio/aacaudio/amraudio/mpegaudio/mp4audio/ogg (OPUS codecs only; base audio/ogg not supported.)                                                                                                                                                                                                                  | 16 MB        |
-| document                       | .txt.xls.xlsx.doc.docx.ppt.pptx.pdf | text/plainapplication/vnd.ms-excelapplication/vnd.openxmlformats-officedocument.spreadsheetml.sheetapplication/mswordapplication/vnd.openxmlformats-officedocument.wordprocessingml.documentapplication/vnd.ms-powerpointapplication/vnd.openxmlformats-officedocument.presentationml.presentationapplication/pdf | 100 MB       |
-| image                          | .jpeg.png                           | image/jpegimage/png                                                                                                                                                                                                                                                                                               | 5 MB         |
-| Animated stickerStatic sticker | .webp.webp                          | image/webpimage/webp                                                                                                                                                                                                                                                                                              | 500 KB100 KB |
-| video                          | .3gp.mp4                            | video/3gpvideo/mp4**Observações:**- Apenas o codec de vídeo H.264 e o codec de áudio AAC são compatíveis. - Aceitamos vídeos com stream de áudio único ou sem stream de áudio.                                                                                                                                    | 16 MB        |
+| **Tipo de mídia** | **Extensão** | **Tipos de mídia compatíveis (MIME Type)** | **Tamanho** |
+| --- | --- | --- | --- |
+| audio | .aac.amr.mp3.m4a.ogg | audio/aacaudio/amraudio/mpegaudio/mp4audio/ogg (OPUS codecs only; base audio/ogg not supported.) | 16 MB |
+| document | .txt.xls.xlsx.doc.docx.ppt.pptx.pdf | text/plainapplication/vnd.ms-excelapplication/vnd.openxmlformats-officedocument.spreadsheetml.sheetapplication/mswordapplication/vnd.openxmlformats-officedocument.wordprocessingml.documentapplication/vnd.ms-powerpointapplication/vnd.openxmlformats-officedocument.presentationml.presentationapplication/pdf | 100 MB |
+| image | .jpeg.png | image/jpegimage/png | 5 MB |
+| Animated stickerStatic sticker | .webp.webp | image/webpimage/webp | 500 KB100 KB |
+| video | .3gp.mp4 | video/3gpvideo/mp4**Observações:**- Apenas o codec de vídeo H.264 e o codec de áudio AAC são compatíveis. - Aceitamos vídeos com stream de áudio único ou sem stream de áudio. | 16 MB |
 
 As mídias enviadas por meio de mensagens são armazenadas nos servidores do WhatsApp por 14 dias. Se um usuário solicitar o download da mídia após esse período, os servidores do WhatsApp solicitarão o mesmo arquivo de mídia do cliente local do WhatsApp Business. Se a mídia tiver sido removida, o usuário será notificado de que ela está indisponível.
 
@@ -35,7 +35,7 @@ Não é seguro supor que o download foi concluído apenas com base nos recibos d
 
 Caso você utilize o processo de carregamento de mídia em vez de um link para a URL da mídia, o arquivo precisará ser carregado no volume de mídia. Quando o carregamento for concluído, envie uma mensagem usando o ID de mídia.
 
-O aplicativo processa a mídia carregada antes que ela seja enviada para o servidor. O tamanho máximo da mídia que pode ser carregada no nó _media_ é de 100 MB. No entanto, há limites após o processamento para os vários tipos de mídia, conforme descrito na tabela de ""Tamanho de mídia após o processamento"" mencionada anteriormente.
+O aplicativo processa a mídia carregada antes que ela seja enviada para o servidor. O tamanho máximo da mídia que pode ser carregada no nó *media* é de 100 MB. No entanto, há limites após o processamento para os vários tipos de mídia, conforme descrito na tabela de ""Tamanho de mídia após o processamento"" mencionada anteriormente.
 
 O armazenamento de mídia precisa ser gerenciado pela empresa. Se o volume de mídia atingir o limite, o envio de mensagens começará a falhar.
 
@@ -84,6 +84,6 @@ Em ambos os casos, uma resposta bem-sucedida retorna o campo `id`
 
 Se você receber uma mensagem de erro, consulte [Mensagens de erro e status](https://developers.facebook.com/docs/whatsapp/on-premises/errors) para saber mais.
 
-Você pode ver que vídeos e áudios possuem um tamanho máximo de 16 MB. Por exemplo, se você fizer o upload de um vídeo de 20 MB na Weni Plataforma, o vídeo será salvo na plataforma, mas no momento da execução, o WhatsApp não conseguirá enviá-lo. Para documentos, o limite máximo é de 100 MB, porém, isso não funciona na Weni Plataforma, pois ela suporta apenas até 32 MB.
+Você pode ver que vídeos e áudios possuem um tamanho máximo de 16 MB. Por exemplo, se você fizer o upload de um vídeo de 20 MB no VTEX CX Platformo será salvo na plataforma, mas no momento da execução, o WhatsApp não conseguirá enviá-lo. Para documentos, o limite máximo é de 100 MB, porém, isso não funciona no VTEX CX VTEX CX Platformta apenas até 32 MB.
 
 Você pode ver mais sobre essas informações na página oficial da [META](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media/)
