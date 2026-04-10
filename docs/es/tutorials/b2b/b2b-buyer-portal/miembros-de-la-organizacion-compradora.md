@@ -1,7 +1,7 @@
 ---
 title: 'Miembros de la organización compradora'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-03-12T10:00:00.000Z'
+updatedAt: '2026-04-10T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
@@ -18,22 +18,22 @@ Los roles definen lo que cada usuario puede hacer en la tienda, incluyendo la ge
 
 La siguiente tabla resume los principales roles y sus funciones:
 
-| Rol                                         | Propósito                                                                                                                                                                                                                               |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Administrador de la unidad organizativa** | Control total sobre la unidad organizativa: configuraciones de la organización y contrato, usuarios, políticas de compras, presupuestos, campos contables, cotizaciones y jerarquía de la organización. |
-| **Superadmin comprador**                    | Puede gestionar todas las unidades organizativas desde el nivel raíz de la organización, más allá de los límites de unidades individuales.                                                                              |
-| **Comprador**                               | Puede realizar pedidos en la tienda.                                                                                                                                                                                    |
-| **Aprobador de pedidos**                    | Puede aprobar o rechazar pedidos de acuerdo con los flujos de aprobación configurados.                                                                                                                                  |
-| **Modificador de pedidos**                  | Puede utilizar la funcionalidad de modificación de pedido en los pedidos a los cuales tiene acceso.                                                                                                                     |
-| **Gerente de direcciones**                  | Puede agregar direcciones durante el checkout, guardarlas para el contrato o la unidad organizativa, modificar información de dirección en el checkout y ver direcciones guardadas.                                     |
-| **Gerente de la organización compradora**   | Puede visualizar todos los pedidos de su unidad organizativa, gestionar configuraciones de autenticación, ver tarjetas de pago y ver direcciones.                                                                       |
-| **Gerente de contrato**                     | Puede ver pedidos realizados bajo el contrato que le ha sido asignado.                                                                                                                                                  |
-| **Lector de contrato**                      | Puede ver las direcciones guardadas (solo lectura).                                                                                                                                                  |
-| **Gerente de políticas de compra** | Puede crear, editar y eliminar políticas de compra y flujos de aprobación, y ver las políticas de compra. |
-| **Gerente de presupuestos** | Puede crear, editar, asignar y eliminar presupuestos, y ver detalles del presupuesto, asignaciones, límites e historial de gastos. |
-| **Gerente de campos contables** | Puede crear, editar y eliminar campos contables. |
-| **Gerente de cotizaciones** | Puede crear, editar y eliminar cotizaciones. |
-| **Usuario de tarjetas personales**          | Puede usar una nueva tarjeta de crédito en el checkout que no se guarda en el contrato de forma predeterminada.                                                                                                         |
+| Rol | Propósito |
+| --- | --- |
+| **Organizational Unit Admin** | Control total sobre la unidad organizativa: configuraciones de la organización y contrato, usuarios, políticas de compras, presupuestos, campos contables y tarjetas de crédito. |
+| **Super Buyer Admin** | Puede gestionar todas las unidades organizativas desde el nivel raíz de la organización, más allá de los límites de unidades individuales. |
+| **Buyer** | Puede realizar pedidos en la tienda. |
+| **Order Approver** | Puede aprobar o rechazar pedidos de acuerdo con los flujos de aprobación configurados. |
+| **Order Modifier** | Puede utilizar la funcionalidad de modificación de pedido en los pedidos a los cuales tiene acceso. |
+| **Address Manager** | Puede agregar y gestionar direcciones durante el checkout y ver direcciones guardadas. |
+| **Buyer Organization Manager** | Puede visualizar todos los pedidos de su unidad organizativa. |
+| **Contract Manager** | Puede ver pedidos realizados bajo el contrato que le ha sido asignado. |
+| **User Manager** | Puede gestionar usuarios y ver detalles de usuarios dentro de la organización. |
+| **Buying Policy Manager** | Puede crear, editar y eliminar políticas de compra y flujos de aprobación, y ver las políticas de compra. |
+| **Budget Manager** | Puede crear, editar, asignar y eliminar presupuestos, y ver detalles del presupuesto, asignaciones, límites e historial de gastos. |
+| **Accounting Field Manager** | Puede crear, editar y eliminar campos contables, y ver configuraciones de campos contables. |
+| **Credit Card Manager** | Puede gestionar y ver tarjetas de crédito guardadas. |
+| **Personal Cards User** | Puede usar una nueva tarjeta de crédito en el checkout que no se guarda en el contrato de forma predeterminada. |
 
 > ℹ️ Obtén más información sobre los roles del storefront y los recursos en la guía para desarrolladores [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 

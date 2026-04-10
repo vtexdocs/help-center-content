@@ -1,7 +1,7 @@
 ---
 title: 'Membros da organização compradora'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-03-12T10:00:00.000Z'
+updatedAt: '2026-04-10T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
@@ -19,21 +19,21 @@ Os perfis de acesso definem o que cada usuário pode fazer na loja, incluindo a 
 A tabela abaixo resume os principais perfis de acesso e suas funções:
 
 | Perfil de acesso | Finalidade |
-|------|------------|
-| **Administrador da unidade organizacional** | Controle total sobre a unidade organizacional: configurações de organização e contrato, usuários, políticas de compra, orçamentos, campos contábeis, cotações e hierarquia da organização. |
-| **Super admin comprador** | Pode gerenciar todas as unidades organizacionais no nível raiz da organização, ultrapassando os limites das unidades. |
-| **Comprador** | Pode realizar pedidos na loja. |
-| **Aprovador de pedidos** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
-| **Modificador de pedidos** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
-| **Gerente de endereços** | Pode adicionar endereços durante o checkout, salvá-los para o contrato ou unidade organizacional, alterar informações de endereço no checkout e visualizar endereços salvos. |
-| **Gerente da organização compradora** | Pode visualizar todos os pedidos da sua unidade organizacional, gerenciar configurações de autenticação, visualizar cartões de pagamento e visualizar endereços. |
-| **Gerente de contrato** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
-| **Visualizador de contrato** | Pode visualizar endereços salvos (somente leitura). |
-| **Gerente de políticas de compra** | Pode criar, editar e excluir políticas de compra e fluxos de aprovação, e visualizar políticas de compra. |
-| **Gerente de orçamentos** | Pode criar, editar, alocar e excluir orçamentos, e visualizar detalhes de orçamento, alocações, limites e histórico de gastos. |
-| **Gerente de campos contábeis** | Pode criar, editar e excluir campos contábeis. |
-| **Gerente de cotações** | Pode criar, editar e excluir cotações. |
-| **Usuário de cartões pessoais** | Pode usar um novo cartão de crédito no checkout que não é salvo no contrato por padrão. |
+| --- | --- |
+| **Organizational Unit Admin** | Controle total sobre a unidade organizacional: configurações de organização e contrato, usuários, políticas de compra, orçamentos, campos contábeis e cartões de crédito. |
+| **Super Buyer Admin** | Pode gerenciar todas as unidades organizacionais no nível raiz da organização, ultrapassando os limites das unidades. |
+| **Buyer** | Pode realizar pedidos na loja. |
+| **Order Approver** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
+| **Order Modifier** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
+| **Address Manager** | Pode adicionar e gerenciar endereços durante o checkout e visualizar endereços salvos. |
+| **Buyer Organization Manager** | Pode visualizar todos os pedidos da sua unidade organizacional. |
+| **Contract Manager** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
+| **User Manager** | Pode gerenciar usuários e visualizar detalhes de usuários dentro da organização. |
+| **Buying Policy Manager** | Pode criar, editar e excluir políticas de compra e fluxos de aprovação, e visualizar políticas de compra. |
+| **Budget Manager** | Pode criar, editar, alocar e excluir orçamentos, e visualizar detalhes de orçamento, alocações, limites e histórico de gastos. |
+| **Accounting Field Manager** | Pode criar, editar e excluir campos contábeis, e visualizar configurações de campos contábeis. |
+| **Credit Card Manager** | Pode gerenciar e visualizar cartões de crédito salvos. |
+| **Personal Cards User** | Pode usar um novo cartão de crédito no checkout que não é salvo no contrato por padrão. |
 
 > ℹ️ Saiba mais sobre perfis de acesso do storefront e recursos no guia do desenvolvedor [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
