@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
-Após baixar e instalar o app, busque pelo add-on **Weni Agentic AI** dentro do módulo de **Aplicativos**.
+Após baixar e instalar o app, busque pelo add-on **Agentic CX** dentro do módulo de **Aplicativos**.
 
-![Imagem mostrando o add-on Weni Agentic AI no módulo de Aplicativos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/weni-agentic-ai/primeiros-passos-e-configuracao-com-o-app_1.png)
+![Imagem mostrando o add-on Agentic CX no módulo de Aplicativos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/weni-agentic-ai/primeiros-passos-e-configuracao-com-o-app_1.png)
 
 > Caso não encontre, atualize a página e certifique-se que o app foi devidamente instalado.
 
