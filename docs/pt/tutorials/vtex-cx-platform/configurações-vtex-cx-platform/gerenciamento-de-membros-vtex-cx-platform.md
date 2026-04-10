@@ -9,7 +9,7 @@ firstPublishedAt: 2026-03-31T14:20:04.367Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: manage-members-vtex-agentic-cx-platform
+slugEN: manage-members-vtex-cx-platform
 legacySlug: gerenciamento-de-membros-vtex-agentic-cx-platform
 locale: pt
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
