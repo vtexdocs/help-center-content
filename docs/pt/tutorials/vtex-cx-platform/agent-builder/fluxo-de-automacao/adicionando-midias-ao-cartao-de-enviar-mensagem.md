@@ -1,5 +1,5 @@
 ---
-title: "Adicionando mídias ao cartão de enviar mensagem"
+title: 'Adicionar mídias'
 id: 6XfWIo7fpN4VJLzZTud2UP
 status: PUBLISHED
 createdAt: 2025-09-17T13:56:46.780Z
@@ -15,28 +15,44 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Você pode adicionar mídias à sua mensagem na nossa plataforma. Sejam **imagens, áudios ou vídeos**, existem duas maneiras diferentes de adicioná-los: **usando uma URL** ou **fazendo upload do arquivo** direto do seu computador.
+Você pode adicionar mídias à sua mensagem na plataforma, como imagens, áudios ou vídeos. Há duas maneiras diferentes:
 
-## Usando uma URL
+- [Adicionar uma URL](#adicionar-uma-url).
+- [Enviar um arquivo do computador](#enviar-um-arquivo-do-seu-computador).
 
-1. Dentro do seu projeto, clique no **Módulo de Fluxos**;
+## Adicionar uma URL
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/adicionando-midias-ao-cartao-de-enviar-mensagem_1.png)
+1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).
+2. Escolha um fluxo existente ou crie um novo.
+3. Clique no símbolo de `+ Criar bloco` para adicionar uma nova carta de ação.
+4. Selecione **Arquivos**.
+5. No menu dropdown de **Arquivo 1**, selecione uma das opções abaixo:
 
-2. **Escolha um fluxo** pré-existente ou crie um novo;
-3. Adicione uma nova carta de ação, clique em **Arquivos** , escolha entre as opções **URL da imagem** , **URL do áudio,** **URL do v ídeo, PDF documento URL** ou **insira a URL** da mídia escolhida;
+- URL da imagem.
+- URL de áudio.
+- URL de vídeo.
+- URL do documento PDF.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/adicionando-midias-ao-cartao-de-enviar-mensagem_2.png)
+6. Em seguida, insira a URL no campo ao lado.
 
-## Usando um arquivo do seu computador
+> ℹ️ Você pode incluir até três URLs por cada bloco do fluxo.
 
-Adicione uma nova carta de ação, clique em **Arquivos** , escolha a opção **Enviar Arquivo** e **selecione o arquivo direto do seu computador**.
+7. Ao final, clique em `Confirmar`.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/adicionando-midias-ao-cartao-de-enviar-mensagem_3.png)
 
-### Limitações
+## Enviar um arquivo do seu computador
 
-Existe uma limitação no tamanho do arquivo que pode ser enviado, pois toda requisição leva um certo tempo e pode acontecer um _timeout_ tentando executar essa requisição. Sendo assim, **o permitido é até 32MB**, mas existem algumas ressalvas:
+1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).
+2. Escolha um fluxo existente ou crie um novo.
+3. Clique no símbolo de `+ Criar bloco` para adicionar uma nova carta de ação.
+4. Selecione **Arquivos**.
+5. No menu dropdown de **Arquivo 1**, selecione **Enviar arquivo**.
+6. Em seguida, escolha o arquivo do seu computador e clique em `Abrir`.
 
-- São 32mb de upload máximo OU 30 segundos tentando realizar o upload. Logo, se o arquivo possuir menos que 32mb, mas a internet for lenta o suficiente para não anexar em 30 segundos, não vai anexar pois excedeu o tempo de requisição.
-- Se o canal de comunicação for o **WhatsApp** , ele tem suas próprias regras, como mostra a [documentação](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media#supported-media-types). Podemos ver que vídeos e áudios possuem tamanho **máximo de 16mb** (se upar um vídeo de 20mb na plataforma Weni, o vídeo será salvo na plataforma, mas na hora de enviar, o WhatsApp não executa o envio) e documentos têm o limite máximo de 100mb cada (porém a Weni plataforma suporta até 32mb).
+> ℹ️ Você pode incluir até três arquivos por cada bloco do fluxo.
+
+> ⚠️ O limite de tamanho dos arquivos é de 32 mb ou upload de 30 segundos. Por exemplo, se você enviar um arquivo de menos de 32 mb e o upload durar mais que 30 segundos, o arquivo não será enviado ao bloco do fluxo de automação.
+
+> ⚠️ O WhatsApp tem suas próprias regras, como demonstra a [documentação](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media#supported-media-types). O limite de tamanho de vídeos e áudios no WhatsApp é de 16 mb. Por exemplo, se você enviar um vídeo de 20 mb no VTEX CX Platform, o vídeo ficará salvo na plataforma, mas o WhatsApp não vai enviá-lo ao cliente.
+
+7. Ao final, clique em `Confirmar`.

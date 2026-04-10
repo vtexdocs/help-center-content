@@ -1,5 +1,5 @@
 ---
-title: "Noções básicas sobre integrações"
+title: 'Noções básicas sobre Integrações'
 id: 5x9gjiQTdD6lrQLJziRozj
 status: PUBLISHED
 createdAt: 2025-09-15T15:52:46.844Z
@@ -15,27 +15,29 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
+## Integração via API
+
 Integração é a ação realizar busca, modificar ou enviar informações para um serviço. As integrações se subdividem em duas:
 
-- **Nativa**: A Weni plataforma consegue integrar com APIs que tem formato REST/Json através de um **cartão Webhook** ou através de uma aplicação pré-existente no menu de Integrações.
+- **Nativa**: O VTEX CX Platforme integrar com APIs que tem formato REST/Json através de um **cartão Webhook** ou através de uma aplicação pré-existente no menu de Integrações.
 - **Não-nativa**: Fazemos integrações não nativas para API's que não são REST/Json. Porém, nesse caso, devemos analisar o esforço e escopo da solicitação, visto que usamos serviços externos para consumir e modelar a API, por exemplo [Back4app](https://www.back4app.com/#) e [Pipedream](https://pipedream.com/).
 
 ## O que é API?
 
-É uma forma de comunicação entre sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro (Weni Plataforma). Normalmente uma API possui:
+É uma forma de comunicação entre sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro (VTEX CX Platformlmente uma API possui:
 
 - URL
 - Documentação explicando como ela pode ser utilizada
 - Endpoints/recursos disponíveis
 - Formas de Autenticação para usar a API, se for necessário.
 
-## O que é webhook?
+## O que é Webhook?
 
-Webhook é uma tecnologia utilizada para permitir a comunicação entre duas aplicações em tempo real. Na Weni Plataforma podemos buscar e até mesmo atualizar informações em outros sistemas através do cartão **Chamar Webhook**. Isso quer dizer que, para consumir uma API, você irá utilizar um cartão Webhook:
+Webhook é uma tecnologia utilizada para permitir a comunicação entre duas aplicações em tempo real. No VTEX CX Platform buscar e até mesmo atualizar informações em outros sistemas através do cartão **Chamar Webhook**. Isso quer dizer que, para consumir uma API, você irá utilizar um cartão Webhook:
 
 Para passar informações para um sistema usando API você deve usar o corpo da requisição (body) ou passar diretamente na URL (query). A documentação da API vai dizer como deve ser feito.
 
-Nessa imagem podemos ver a documentação da API da Weni:
+Nessa imagem podemos ver a documentação da API do VTEX CX Platform
 
 Nesta imagem podemos ver como ficaria o corpo da requisição para criar um contato com nome e número de WhatsApp:
 
@@ -43,12 +45,12 @@ Nesta imagem podemos ver como ficaria o corpo da requisição para criar um cont
 
 ## Como saber se a API pode ser integrada nativamente?
 
-A documentação da API funciona como um manual que nos ajuda a entender como integrar. Nela será informado se as requisições são na arquitetura nativa da Weni plataforma: REST/Json.
+A documentação da API funciona como um manual que nos ajuda a entender como integrar. Nela será informado se as requisições são na arquitetura nativa do VTEX CX Platformson.
 
 > **Nota:** Se a arquitetura da sua API não for REST/Json, ainda é possível fazer a integração, porém será necessário modelar essa API.
 
-## Como visualizar a chamada de API na Weni plataforma?
+## Como visualizar a chamada de API no VTEX CX Platform
 
-Para visualizar o retorno da API, acesse o log de Webhooks no Módulo Fluxos:
+Para visualizar o retorno da API, acesse o log de Webhooks em **Fluxo de automação**:
 
 Tem mais dúvidas sobre API? Joga na nossa [comunidade](https://comunidade.weni.ai/) 😉 Temos uma equipe especialista para tirar suas dúvidas.

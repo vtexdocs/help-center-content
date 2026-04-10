@@ -1,5 +1,5 @@
 ---
-title: "Adicionando campos de criação de ticket no Zendesk"
+title: 'Adicionando campos de criação de ticket no Zendesk'
 id: 7F2pd5FE5KWPQbgcGaWVSC
 status: PUBLISHED
 createdAt: 2025-09-15T14:25:44.625Z
@@ -22,11 +22,9 @@ Na criação de ticket no Zendesk podemos enviar algumas informações extras vi
 - **Prioridade**: Existem quatro valores para prioridade: **Low, Normal, High** e **Urgent**. Por padrão, todos esses quatro valores estão disponíveis, mas você pode permitir que apenas os valores Normal e Alto apareçam. Para fazer isso, edite o campo de prioridade e altere a configuração em Valores de campo. Prioridade não é um campo obrigatório, portanto, nem sempre é necessário selecionar um valor.
 - **Assunto**: O campo Assunto é obrigatório e pode ter até 150 caracteres. Se o título do ticket não aparecer no assunto do ticket, seu campo Assunto pode não estar visível para os usuários finais.
 - **Descrição**: O campo Descrição é obrigatório. Este é o texto da solicitação de suporte. A descrição se torna o primeiro comentário no ticket.
-- **Campos personalizados**: Os campos de ticket personalizados são normalmente usados ​​para coletar mais informações sobre o problema de suporte, produto ou serviço. Você pode adicionar campos personalizados aos seus tickets para agentes e também adicioná\-los ao formulário Enviar uma solicitação da Central de Ajuda se quiser que os usuários finais vejam o campo personalizado. Os campos de ticket personalizados podem ser obrigatórios ou opcionais. Para utilizar seus campos personalizados é necessário criá\-los na Zendesk. Siga os passos abaixo para criar seus campos:
+- **Campos personalizados**: Os campos de ticket personalizados são normalmente usados ​​para coletar mais informações sobre o problema de suporte, produto ou serviço. Você pode adicionar campos personalizados aos seus tickets para agentes e também adicioná-los ao formulário Enviar uma solicitação da Central de Ajuda se quiser que os usuários finais vejam o campo personalizado. Os campos de ticket personalizados podem ser obrigatórios ou opcionais. Para utilizar seus campos personalizados é necessário criá-los na Zendesk. Siga os passos abaixo para criar seus campos:
 
 1. Primeiramente, vá na sua Central de Administração, você a encontrará clicando no ícone superior direito
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/adicionando-campos-de-criacao-de-ticket-no-zendesk_1.png)
 
 2. Agora no menu da esquerda clique em Objetos e regras > Campos.
 3. No botão azul no canto superior direito, clique em Adicionar campo.
@@ -37,7 +35,7 @@ Na criação de ticket no Zendesk podemos enviar algumas informações extras vi
 - **Tags**: As tags são usadas para adicionar informações adicionais aos tickets, que podem ser usadas no fluxo de trabalho do ticket. São enviadas como uma lista de palavras, onde cada palavra é uma tag.
 - **Message**: Mensagem inicial do Ticket caso seu ticket não possua descrição.
 
-No JSON abaixo está um exemplo de como você deverá enviar no body do card de Open ticket da plataforma Weni:
+No JSON abaixo está um exemplo de como você deverá enviar no body do card de Open ticket do VTEX CX Platform
 
 ```
 {""message"" : ""Cookies"", ""priority"": ""high"", ""subject"": ""Where are my cookies?"", ""description"": ""I want to know where is my cookie."", ""custom_fields"": [{""id"":""11457109235981"",""value"":""field01""}], ""tags"": [""tag01"",""tag02""]}

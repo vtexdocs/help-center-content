@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp: Como criar template messages"
+title: 'Whatsapp: Como criar Template Messages'
 id: 3KQizjNnrDY2K3DhPwiPim
 status: PUBLISHED
 createdAt: 2025-09-15T15:05:31.154Z
@@ -21,25 +21,21 @@ Antes de serem enviadas aos clientes, os Template Messages precisam ser aprovado
 
 ## Criação
 
-Você pode usar a Plataforma Weni para criar modelos de mensagem manualmente e enviá-los para aprovação.
+Você pode usar o VTEX CX Platformiar modelos de mensagem manualmente e enviá-los para aprovação.
 
 Para criar um Template Message:
 
-1. Acesse o Painel **Aplicativos** e vá na aba **Meus Aplicativos**;
+1. Acesse **Configurações > Canais**;
 2. Clique no cartão que contém a conta de WhatsApp que receberá o Template.
 3. Clique na aba **Template** no lado direito.
 4. Irá abrir um painel onde você clicará em Novo Template para adicionar a mensagem:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-como-criar-template-messages_1.png)
-
 1. Preencha o formulário com as informações necessárias. Use o botão **\+ Adicionar variável** caso queira inserir espaços reservados para conteúdo variável a ser fornecido no envio do modelo.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/whatsapp-como-criar-template-messages_2.png)
 
 1. Clique em **Adicionar exemplo** para adicionar exemplos de valores ao modelo. Fazer isso é opcional, mas altamente recomendado. Consulte os [Exemplos](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#samples) .
 2. Clique em **Enviar** para enviar o modelo para aprovação.
 
-## Processo de aprovação (responsabilidade da Meta)
+## Processo de aprovação (Responsabilidade da Meta)
 
 Depois de criar o modelo, você poderá enviá-lo para aprovação. Geralmente, as aprovações ocorrem instantaneamente ou em alguns minutos (se submetidos diretamente pela plataforma). Assim que a decisão for tomada, uma notificação aparecerá no Gerenciador do WhatsApp. Além disso, será enviado um e-mail para os administradores do Gerenciador de Negócios. Caso você tenha assinado as atualizações sobre alterações de status do modelo de mensagem, também receberá da Meta uma notificação de webhook. Consulte [Como monitorar alterações de status](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) .
 

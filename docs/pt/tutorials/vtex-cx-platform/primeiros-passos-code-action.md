@@ -31,8 +31,6 @@ Com o programa instalado, você deve baixar essa [collection](https://files.help
 
 Para que seja possível gerar esse token, você deverá fazer uma requisição para a API abaixo, passando seu **login** e **senha** utilizados na plataforma. Caso tenha autenticação de 2 fatores, você deverá preencher no campo de `totp` o código de 2 fatores.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_1.png)
-
 Esse código tem validade de até 12h deverá ser utilizado em algumas das próximas APIs.
 
 #### Como criar um code action
@@ -45,16 +43,10 @@ Caso opte por HTML, o retorno do seu código, estará preparado para retornar um
 
 Para realizar a criação do tipo JSON, você poderá encontrar uma requisição chamada **create code action \[python] -> json,** como segue na imagem abaixo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_2.png)
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_3.png)
-
 Para criar um código, como mostra na imagem acima, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token.**
 
 - **project_uuid**
-  - Essa informação você conseguirá pegar na URL do seu projeto na [Weni Plataforma](https://dash.weni.ai), como segue na imagem abaixo:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_4.png)
+  - Essa informação você conseguirá pegar na URL do seu projeto na [VTEX CX Platform Plataforma](https://dash.weni.ai), como segue na imagem abaixo:
 
 - **code_name**
   - Essa informação deverá ser preenchido com o nome da sua preferência, de acordo com que for mais legível e didático.
@@ -63,19 +55,13 @@ Após possuir essas informações, será importante que você crie seu código s
 
 Logo em seguida, você poderá ir para o body, como segue na imagem abaixo e executar a requisição.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_5.png)
-
 Coloque seu código dentro da parte de **raw** e o formato deverá ser **Text**. Após realizar a requisição, você deverá receber um retorno similar a este:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_6.png)
 
 Esse ID será o identificador do seu código, salve-o em algum lugar, pois ele é importante para executar seu código.
 
 ### Execução do código
 
 Para realizar a execução do código, será necessário pegar o ID do código que você criou na etapa anterior. Após isso você fará uma requisição passando o ID do seu código, como está na imagem abaixo:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_7.png)
 
 Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: GET, POST, PUT, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
 
@@ -153,12 +139,11 @@ def create_contact(vtex_data, token, order_status, order_domain):
  return uuid
 ```
 
-Esse código tem a função de receber um Webhook da VTEX e conseguir consultar diretamente a API de Orders da VTEX e criar um contato na Weni Plataforma. Para isso ele segue algumas premissas.
+Esse código tem a função de receber um Webhook da VTEX e conseguir consultar diretamente a API de Orders da VTEX e criar um contato no VTEX CX Platform. Para isso ele segue algumas premissas.
 
 #### Regras
 
 - Esse código é uma lambda, então para que haja o funcionamento adequado, sempre será buscado a função **Run**. Sempre utilize e coloque a função **Run** em eu código.
-
 - Para que consiga utilizar algumas funcionalidades, é necessário que você solicite uma função chamada **engine**, entro do seu **Run.** Exemplo:
 
   ```
@@ -166,7 +151,9 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
   ```
 
 - Sempre que for necessário acessar informações presentes no **body** da requisição recebida, elas estarão disponíveis em `engine.body`. No entanto, esse conteúdo **não estará no formato JSON por padrão**. Para convertê-lo em um dicionário Python, utilize a função `json.loads()`. Após essa conversão, os dados estarão prontos para serem manipulados normalmente no formato de objeto JSON.
+
   - No código acima, o JSON esperado é algo parecido com este
+
   - ```
     {
     ""Domain"": ""Marketplace"",
@@ -181,6 +168,7 @@ Esse código tem a função de receber um Webhook da VTEX e conseguir consultar 
     ```
 
 - Com isso, é possível pegar o OrderId utilizando as seguintes linhas
+
   - ```
     bd = engine.body
     bd_dict = json.loads(bd)
@@ -208,13 +196,9 @@ Durante o processo de execução de código, como mencionado em [Padrão de cód
 
 Toda vez que o código é executado, é gerada uma execução de código. Para que você consiga visualizar essa execução, você poderá realizar a request abaixo passando o **ID** do seu código.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_8.png)
-
 Após fazer essa requisição, passando o ID do Código, você irá receber algumas informações como: o **resultado da execução**, parâmetro recebido na **query**, o **body** da request e o ID da execução.
 
 É possível realizar um filtro de tempo utilizando os parâmetros **after** e **before**, com eles você pegará apenas as execução de uma janela de tempo específica, eles esperam uma data/hora no padrão ISO 8601\. Segue um exemplo
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_9.png)
 
 Também é possível utilizar o parâmetro **page**, para conseguir paginar melhor as buscas.
 
@@ -223,7 +207,5 @@ Também é possível utilizar o parâmetro **page**, para conseguir paginar melh
 Com o ID da execução retornado na request acima, você conseguirá pegar mais detalhes sobre uma determinada execução, como os debugs.
 
 Você deverá fazer uma nova request para a API abaixo, passando o ID da execução.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/primeiros-passos-code-action_10.png)
 
 Você poderá usar o parâmetro **page**, similar na request anterior.Nese retorno acima, você terá o **content** e ele conterá o valor retornado no engine.log.debug, conforme ensinado em [Padrão de código e exemplos](#padrão-de-código-e-exemplos).

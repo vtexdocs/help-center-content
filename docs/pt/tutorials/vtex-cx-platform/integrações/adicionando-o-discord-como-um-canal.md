@@ -1,5 +1,5 @@
 ---
-title: "Adicionando o Discord como um canal"
+title: 'Adicionando o Discord como um canal'
 id: 2s5uqsnula0RiNQXXJDDrL
 status: PUBLISHED
 createdAt: 2025-09-15T14:27:46.594Z
@@ -17,35 +17,29 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Seus usuários precisarão de uma conta Discord e um dispositivo compatível para enviar/receber mensagens. Esse tipo de canal só está disponível se sua instância tiver sido configurada com o aplicativo [proxy](https://github.com/releaseplatform/RapidPro-Discord-Proxy) Discord.
 
-A Infraestrutura necessária para o proxy não é fornecida pela Weni#### Registre seu aplicativo seguindo as instruções oficiais
+A Infraestrutura necessária para o proxy não é fornecida pelo VTEX CX Platform
+
+## Registre seu aplicativo seguindo as instruções oficiais
 
 - **Discord tem documentação oficial sobre como registrar seu bot.**
 
-https://discord.com/developers/docs/getting\-started
+<https://discord.com/developers/docs/getting\-started>
 
 - **Acesse o painel do desenvolvedor e clique em New Application e crie seu aplicativo:**
 
-https://discord.com/developers/applications
+<https://discord.com/developers/applications>
 
 1. Go to the ""Bot"" tab and click ""Add Bot"". You will have to confirm by clicking ""Yes, do it!""
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/adicionando-o-discord-como-um-canal_1.png)
 
 2. Mantenha as configurações padrão para Bot público (marcada) e Exigir concessão de código OAuth2 (desmarcada).
 3. O próximo passo é copiar o token.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/adicionando-o-discord-como-um-canal_2.png)
-
 4. Clique em ""Redefinir Token"" e obtenha seu token.
 
-## Adicione o canal à plataforma Weni
+## Adicione o canal ao VTEX CX Platform
 
-1. Dentro do projeto, vá em: Aplicativos \-> Descoberta \-> Adicione o Discord
+1. Dentro do projeto, vá em: Configurações > Canais e adicione o Discord
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/adicionando-o-discord-como-um-canal_3.png)
-
-2. Após adicionar em ""Meus Aplicativos"", insira o seu discord_bot_token fornecido pela página Discord Developer e a URL do Proxy, que é a URL onde o proxy do Discord está rodando.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/integrações/adicionando-o-discord-como-um-canal_4.png)
+2. Após adicionar o canal em **Canais**, insira o seu discord\_bot\_token fornecido pela página Discord Developer e a URL do Proxy, que é a URL onde o proxy do Discord está rodando.
 
 3. Salve Alterações.
