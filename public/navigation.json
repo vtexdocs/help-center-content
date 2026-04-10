@@ -35974,6 +35974,82 @@
             },
             {
               "name": {
+                "en": "Agentic CX",
+                "es": "Agentic CX",
+                "pt": "Agentic CX"
+              },
+              "slug": {
+                "en": "weni-agentic-ai-subcategory",
+                "es": "weni-agentic-ai-subcategoria",
+                "pt": "weni-agentic-ai-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Create active agents",
+                    "es": "Creando agentes activos",
+                    "pt": "Criando agentes ativos"
+                  },
+                  "slug": {
+                    "en": "create-active-agents",
+                    "es": "creando-agentes-activos",
+                    "pt": "criando-agentes-ativos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "First steps",
+                    "es": "Primeros pasos",
+                    "pt": "Primeiros passos e configuração com o app"
+                  },
+                  "slug": {
+                    "en": "first-steps",
+                    "es": "primeros-pasos",
+                    "pt": "primeiros-passos-e-configuracao-com-o-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Introduction to Agentic CX",
+                    "es": "Introducción a Agentic CX",
+                    "pt": "Introdução ao Agentic CX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-agentic-cx",
+                    "es": "introduccion-a-weni-agentic-ai",
+                    "pt": "introducao-ao-weni-agentic-ai"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Manage Agentic CX",
+                    "es": "Instalando a Agentic CX",
+                    "pt": "Instalando Agentic CX"
+                  },
+                  "slug": {
+                    "en": "installing-weni-agentic-ai",
+                    "es": "instalando-a-weni-agentic-ai",
+                    "pt": "instalando-weni-agentic-ai"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Store Settings - Storefront",
                 "es": "Configuración de la Tienda - Storefront",
                 "pt": "Configurações da Loja - Storefront"
@@ -36792,6 +36868,307 @@
               "children": [
                 {
                   "name": {
+                    "en": "Automation Flow",
+                    "es": "Flujo de automatización",
+                    "pt": "Fluxo de automação"
+                  },
+                  "slug": {
+                    "en": "automation-flow-subcategory",
+                    "es": "flujo-de-automatizacion-subcategoria",
+                    "pt": "fluxo-de-automacao-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Action cards",
+                        "es": "Cartas de acción",
+                        "pt": "Cartas de ação"
+                      },
+                      "slug": {
+                        "en": "action-cards",
+                        "es": "cartas-de-accion",
+                        "pt": "cartas-de-acao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding media to the message",
+                        "es": "Agregar mídias a su mensaje",
+                        "pt": "Adicionando mídias ao cartão de enviar mensagem"
+                      },
+                      "slug": {
+                        "en": "adding-media-to-the-message",
+                        "es": "agregar-midias-a-su-mensaje",
+                        "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Automation flow overview",
+                        "es": "Introducción a los flujos",
+                        "pt": "Introdução a fluxos"
+                      },
+                      "slug": {
+                        "en": "automation-flow-overview",
+                        "es": "introduccion-a-los-flujos",
+                        "pt": "introducao-a-fluxos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Call webhook: Making requests to external services",
+                        "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
+                        "pt": "Call webhook: Como fazer chamadas para sistemas externos"
+                      },
+                      "slug": {
+                        "en": "call-webhook-making-requests-to-external-services",
+                        "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
+                        "pt": "call-webhook-como-fazer-chamadas-para-sistemas-externos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Chatbot integrado a API Omie",
+                        "es": "Chatbot integrado a API Omie",
+                        "pt": "Chatbot integrado a API Omie"
+                      },
+                      "slug": {
+                        "en": "chatbot-integrado-a-api-omie",
+                        "es": "chatbot-integrado-a-api-omie",
+                        "pt": "chatbot-integrado-a-api-omie"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Construtor de Vendas API-integrated chatbot",
+                        "es": "Chatbot integrado a la API del Constructor de Ventas",
+                        "pt": "Chatbot integrado a API do Construtor de Vendas"
+                      },
+                      "slug": {
+                        "en": "construtor-de-vendas-api-integrated-chatbot",
+                        "es": "chatbot-integrado-a-la-api-del-constructor-de-ventas",
+                        "pt": "chatbot-integrado-a-api-do-construtor-de-vendas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Decision cards",
+                        "es": "Cartas de decisión",
+                        "pt": "Cartas de decisão"
+                      },
+                      "slug": {
+                        "en": "decision-cards",
+                        "es": "cartas-de-decision",
+                        "pt": "cartas-de-decisao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Expressions and variables introduction",
+                        "es": "Introducción a expresiones y variables",
+                        "pt": "Introdução a expressões e variáveis"
+                      },
+                      "slug": {
+                        "en": "expressions-and-variables-introduction",
+                        "es": "introduccion-a-expresiones-y-variables",
+                        "pt": "introducao-a-expressoes-e-variaveis"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Expressions glossary",
+                        "es": "Glosario de expresiones",
+                        "pt": "Glossário de expressões"
+                      },
+                      "slug": {
+                        "en": "expressions-glossary",
+                        "es": "glossario-de-expressoes",
+                        "pt": "glossario-de-expressoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Flow editor and tools",
+                        "es": "Editor de flujo y sus herramientas",
+                        "pt": "Editor de fluxo e suas ferramentas"
+                      },
+                      "slug": {
+                        "en": "flow-editor-and-tools",
+                        "es": "editor-de-flujo-y-sus-herramientas",
+                        "pt": "editor-de-fluxo-e-suas-ferramentas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Flows creation",
+                        "es": "Creación de flujos",
+                        "pt": "Criação de fluxos"
+                      },
+                      "slug": {
+                        "en": "flows-creation",
+                        "es": "creacion-de-flujos",
+                        "pt": "criacao-de-fluxos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Import and export flows",
+                        "es": "Importar y exportar flujos",
+                        "pt": "Importar e exportar fluxos"
+                      },
+                      "slug": {
+                        "en": "import-and-export-flows",
+                        "es": "importar-y-exportar-flujos",
+                        "pt": "importar-e-exportar-fluxos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Route markers",
+                        "es": "Marcadores de ruta",
+                        "pt": "Marcadores de rota"
+                      },
+                      "slug": {
+                        "en": "route-markers",
+                        "es": "marcadores-de-ruta",
+                        "pt": "marcadores-de-rota"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Sienge API-integrated chatbot",
+                        "es": "Chatbot integrado a la API Sienge",
+                        "pt": "Chatbot integrado a API Sienge"
+                      },
+                      "slug": {
+                        "en": "sienge-api-integrated-chatbot",
+                        "es": "chatbot-integrado-a-la-api-sienge",
+                        "pt": "chatbot-integrado-a-api-sienge"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Using expressions to capture the user's location",
+                        "es": "Utilizando expresiones para capturar la ubicación del usuario",
+                        "pt": "Utilizando expressões para captar a localização do usuário"
+                      },
+                      "slug": {
+                        "en": "using-expressions-to-capture-the-users-location",
+                        "es": "utilizando-expresiones-para-capturar-la-ubicacion-del-usuario",
+                        "pt": "utilizando-expressoes-para-captar-a-localizacao-do-usuario"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Variables glossary",
+                        "es": "Glosario de variables",
+                        "pt": "Glossário de variáveis"
+                      },
+                      "slug": {
+                        "en": "variables-glossary",
+                        "es": "glosario-de-variables",
+                        "pt": "glossario-de-variaveis"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Viewing reports on the platform",
+                        "es": "Visualizando informes en la plataforma",
+                        "pt": "Visualizando relatórios na plataforma"
+                      },
+                      "slug": {
+                        "en": "viewing-reports-on-the-platform",
+                        "es": "visualizando-informes-en-la-plataforma",
+                        "pt": "visualizando-relatorios-na-plataforma"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "WhatsApp message card",
+                        "es": "Tarjeta de mensaje de WhatsApp",
+                        "pt": "Cartão de mensagem do WhatsApp"
+                      },
+                      "slug": {
+                        "en": "whatsapp-message-card",
+                        "es": "tarjeta-de-mensaje-de-whatsapp",
+                        "pt": "cartao-de-mensagem-do-whatsapp"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Zero shot learning",
+                        "es": "Aprendizaje zero shot",
+                        "pt": "Classificação e resposta inteligente"
+                      },
+                      "slug": {
+                        "en": "zero-shot-learning",
+                        "es": "aprendizaje-zero-shot",
+                        "pt": "classificacao-e-resposta-inteligente"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
                     "en": "Agent Builder - Overview",
                     "es": "Información general de Agent Builder",
                     "pt": "Agent Builder - Visão geral"
@@ -36921,307 +37298,6 @@
                     "en": "vtex-agentic-cx-platform-live-desk-dashboard",
                     "es": "weni-chats-dashboard-de-atencion-humana",
                     "pt": "weni-chats-dashboard-de-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Flows",
-                "es": "Flujos",
-                "pt": "Fluxos"
-              },
-              "slug": {
-                "en": "flows-subcategory",
-                "es": "flujos-subcategoria",
-                "pt": "fluxos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Action cards",
-                    "es": "Cartas de acción",
-                    "pt": "Cartas de ação"
-                  },
-                  "slug": {
-                    "en": "action-cards",
-                    "es": "cartas-de-accion",
-                    "pt": "cartas-de-acao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding media to the message",
-                    "es": "Agregar mídias a su mensaje",
-                    "pt": "Adicionando mídias ao cartão de enviar mensagem"
-                  },
-                  "slug": {
-                    "en": "adding-media-to-the-message",
-                    "es": "agregar-midias-a-su-mensaje",
-                    "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Automation flow overview",
-                    "es": "Introducción a los flujos",
-                    "pt": "Introdução a fluxos"
-                  },
-                  "slug": {
-                    "en": "automation-flow-overview",
-                    "es": "introduccion-a-los-flujos",
-                    "pt": "introducao-a-fluxos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Call webhook: Making requests to external services",
-                    "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
-                    "pt": "Call webhook: Como fazer chamadas para sistemas externos"
-                  },
-                  "slug": {
-                    "en": "call-webhook-making-requests-to-external-services",
-                    "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
-                    "pt": "call-webhook-como-fazer-chamadas-para-sistemas-externos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Chatbot integrado a API Omie",
-                    "es": "Chatbot integrado a API Omie",
-                    "pt": "Chatbot integrado a API Omie"
-                  },
-                  "slug": {
-                    "en": "chatbot-integrado-a-api-omie",
-                    "es": "chatbot-integrado-a-api-omie",
-                    "pt": "chatbot-integrado-a-api-omie"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Construtor de Vendas API-integrated chatbot",
-                    "es": "Chatbot integrado a la API del Constructor de Ventas",
-                    "pt": "Chatbot integrado a API do Construtor de Vendas"
-                  },
-                  "slug": {
-                    "en": "construtor-de-vendas-api-integrated-chatbot",
-                    "es": "chatbot-integrado-a-la-api-del-constructor-de-ventas",
-                    "pt": "chatbot-integrado-a-api-do-construtor-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Decision cards",
-                    "es": "Cartas de decisión",
-                    "pt": "Cartas de decisão"
-                  },
-                  "slug": {
-                    "en": "decision-cards",
-                    "es": "cartas-de-decision",
-                    "pt": "cartas-de-decisao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Expressions and variables introduction",
-                    "es": "Introducción a expresiones y variables",
-                    "pt": "Introdução a expressões e variáveis"
-                  },
-                  "slug": {
-                    "en": "expressions-and-variables-introduction",
-                    "es": "introduccion-a-expresiones-y-variables",
-                    "pt": "introducao-a-expressoes-e-variaveis"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Expressions glossary",
-                    "es": "Glosario de expresiones",
-                    "pt": "Glossário de expressões"
-                  },
-                  "slug": {
-                    "en": "expressions-glossary",
-                    "es": "glossario-de-expressoes",
-                    "pt": "glossario-de-expressoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Flow editor and tools",
-                    "es": "Editor de flujo y sus herramientas",
-                    "pt": "Editor de fluxo e suas ferramentas"
-                  },
-                  "slug": {
-                    "en": "flow-editor-and-tools",
-                    "es": "editor-de-flujo-y-sus-herramientas",
-                    "pt": "editor-de-fluxo-e-suas-ferramentas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Flows creation",
-                    "es": "Creación de flujos",
-                    "pt": "Criação de fluxos"
-                  },
-                  "slug": {
-                    "en": "flows-creation",
-                    "es": "creacion-de-flujos",
-                    "pt": "criacao-de-fluxos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Import and export flows",
-                    "es": "Importar y exportar flujos",
-                    "pt": "Importar e exportar fluxos"
-                  },
-                  "slug": {
-                    "en": "import-and-export-flows",
-                    "es": "importar-y-exportar-flujos",
-                    "pt": "importar-e-exportar-fluxos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Route markers",
-                    "es": "Marcadores de ruta",
-                    "pt": "Marcadores de rota"
-                  },
-                  "slug": {
-                    "en": "route-markers",
-                    "es": "marcadores-de-ruta",
-                    "pt": "marcadores-de-rota"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sienge API-integrated chatbot",
-                    "es": "Chatbot integrado a la API Sienge",
-                    "pt": "Chatbot integrado a API Sienge"
-                  },
-                  "slug": {
-                    "en": "sienge-api-integrated-chatbot",
-                    "es": "chatbot-integrado-a-la-api-sienge",
-                    "pt": "chatbot-integrado-a-api-sienge"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Using expressions to capture the user's location",
-                    "es": "Utilizando expresiones para capturar la ubicación del usuario",
-                    "pt": "Utilizando expressões para captar a localização do usuário"
-                  },
-                  "slug": {
-                    "en": "using-expressions-to-capture-the-users-location",
-                    "es": "utilizando-expresiones-para-capturar-la-ubicacion-del-usuario",
-                    "pt": "utilizando-expressoes-para-captar-a-localizacao-do-usuario"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Variables glossary",
-                    "es": "Glosario de variables",
-                    "pt": "Glossário de variáveis"
-                  },
-                  "slug": {
-                    "en": "variables-glossary",
-                    "es": "glosario-de-variables",
-                    "pt": "glossario-de-variaveis"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Viewing reports on the platform",
-                    "es": "Visualizando informes en la plataforma",
-                    "pt": "Visualizando relatórios na plataforma"
-                  },
-                  "slug": {
-                    "en": "viewing-reports-on-the-platform",
-                    "es": "visualizando-informes-en-la-plataforma",
-                    "pt": "visualizando-relatorios-na-plataforma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "WhatsApp message card",
-                    "es": "Tarjeta de mensaje de WhatsApp",
-                    "pt": "Cartão de mensagem do WhatsApp"
-                  },
-                  "slug": {
-                    "en": "whatsapp-message-card",
-                    "es": "tarjeta-de-mensaje-de-whatsapp",
-                    "pt": "cartao-de-mensagem-do-whatsapp"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Zero shot learning",
-                    "es": "Aprendizaje zero shot",
-                    "pt": "Classificação e resposta inteligente"
-                  },
-                  "slug": {
-                    "en": "zero-shot-learning",
-                    "es": "aprendizaje-zero-shot",
-                    "pt": "classificacao-e-resposta-inteligente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38013,82 +38089,6 @@
             },
             {
               "name": {
-                "en": "Agentic CX",
-                "es": "Agentic CX",
-                "pt": "Agentic CX"
-              },
-              "slug": {
-                "en": "weni-agentic-ai-subcategory",
-                "es": "weni-agentic-ai-subcategoria",
-                "pt": "weni-agentic-ai-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
-                    "pt": "Criando agentes ativos"
-                  },
-                  "slug": {
-                    "en": "create-active-agents",
-                    "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps",
-                    "es": "Primeros pasos",
-                    "pt": "Primeiros passos e configuração com o app"
-                  },
-                  "slug": {
-                    "en": "first-steps",
-                    "es": "primeros-pasos",
-                    "pt": "primeiros-passos-e-configuracao-com-o-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
-                  },
-                  "slug": {
-                    "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-weni-agentic-ai",
-                    "pt": "introducao-ao-weni-agentic-ai"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Agentic CX",
-                    "es": "Instalando a Agentic CX",
-                    "pt": "Instalando Agentic CX"
-                  },
-                  "slug": {
-                    "en": "installing-weni-agentic-ai",
-                    "es": "instalando-a-weni-agentic-ai",
-                    "pt": "instalando-weni-agentic-ai"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "VTEX CX Platform - Overview",
                 "es": "Visión de conjunto de VTEX CX Platform",
                 "pt": "Visão geral VTEX CX Platform"
@@ -38101,21 +38101,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Changing the platform language",
-                    "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Alterando o idioma da plataforma"
-                  },
-                  "slug": {
-                    "en": "changing-the-platform-language",
-                    "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "alterando-o-idioma-da-plataforma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Dashboard",
@@ -38223,6 +38208,21 @@
                 },
                 {
                   "name": {
+                    "en": "VTEX Agentic CX Platform - Overview",
+                    "es": "Cambiando el idioma de la plataforma",
+                    "pt": "Alterando o idioma da plataforma"
+                  },
+                  "slug": {
+                    "en": "vtex-agentic-cx-platform-overview",
+                    "es": "cambiando-el-idioma-de-la-plataforma",
+                    "pt": "alterando-o-idioma-da-plataforma"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Weni permission system",
                     "es": "Sistema de permisos Weni",
                     "pt": "Sistema de permissões Weni"
@@ -38240,14 +38240,14 @@
             },
             {
               "name": {
-                "en": "Weni Settings",
-                "es": "Configuraciones Weni",
-                "pt": "Configurações Weni"
+                "en": "VTEX CX Platform Settings",
+                "es": "Configuraciones VTEX CX Platform",
+                "pt": "Configurações VTEX CX Platform"
               },
               "slug": {
-                "en": "weni-settings-subcategory",
-                "es": "configuraciones-weni-subcategoria",
-                "pt": "configurações-weni-subcategoria"
+                "en": "vtex-cx-platform-settings-subcategory",
+                "es": "configuraciones-vtex-cx-platform-subcategoria",
+                "pt": "configurações-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38316,14 +38316,14 @@
             },
             {
               "name": {
-                "es": "Insights",
                 "pt": "Insights: Dashboard de atendimento humano",
-                "en": "Insights"
+                "en": "Insights: Dashboard de atendimento humano",
+                "es": "Insights: Dashboard de atendimento humano"
               },
               "slug": {
-                "es": "insights",
                 "pt": "insights-dashboard-de-atendimento-humano",
-                "en": ""
+                "en": "",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
