@@ -36812,7 +36812,7 @@
                     "pt": "Atribuir e testar agentes"
                   },
                   "slug": {
-                    "en": "assigning-and-testing-agents",
+                    "en": "assigning-and-testing-agents-in-agent-builder",
                     "es": "asignar-y-probar-agentes",
                     "pt": "atribuir-e-testar-agentes"
                   },
@@ -36822,12 +36822,12 @@
                 },
                 {
                   "name": {
-                    "en": "Official agents from Weni by VTEX",
+                    "en": "Official agents from VTEX Agentic CX Platform",
                     "es": "Agentes oficiales de Weni by VTEX",
                     "pt": "Agentes oficiais da Weni by VTEX"
                   },
                   "slug": {
-                    "en": "official-agents-from-weni-by-vtex",
+                    "en": "official-agents-from-vtex-agentic-cx-platform",
                     "es": "agentes-oficiales-de-weni-by-vtex",
                     "pt": "agentes-oficiais-da-weni-by-vtex"
                   },
@@ -36868,12 +36868,12 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to the Chats module",
+                    "en": "Live Desk - Overview",
                     "es": "Introducción al módulo de Chats",
                     "pt": "Introdução sobre o módulo de Chats"
                   },
                   "slug": {
-                    "en": "introduction-to-the-chats-module",
+                    "en": "introduction-to-live-desk",
                     "es": "introduccion-al-modulo-de-chats",
                     "pt": "introducao-sobre-o-modulo-de-chats"
                   },
@@ -36967,6 +36967,21 @@
                     "en": "adding-media-to-the-message",
                     "es": "agregar-midias-a-su-mensaje",
                     "pt": "adicionando-midias-ao-cartao-de-enviar-mensagem"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Automation flow overview",
+                    "es": "Introducción a los flujos",
+                    "pt": "Introdução a fluxos"
+                  },
+                  "slug": {
+                    "en": "automation-flow-overview",
+                    "es": "introduccion-a-los-flujos",
+                    "pt": "introducao-a-fluxos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37087,21 +37102,6 @@
                     "en": "flows-creation",
                     "es": "creacion-de-flujos",
                     "pt": "criacao-de-fluxos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Flows introduction",
-                    "es": "Introducción a los flujos",
-                    "pt": "Introdução a fluxos"
-                  },
-                  "slug": {
-                    "en": "flows-introduction",
-                    "es": "introduccion-a-los-flujos",
-                    "pt": "introducao-a-fluxos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38062,7 +38062,7 @@
                     "pt": "Introdução ao Agentic CX"
                   },
                   "slug": {
-                    "en": "introduction-to-weni-agentic-ai",
+                    "en": "introduction-to-agentic-cx",
                     "es": "introduccion-a-weni-agentic-ai",
                     "pt": "introducao-ao-weni-agentic-ai"
                   },
@@ -38316,14 +38316,14 @@
             },
             {
               "name": {
-                "en": "Insights",
                 "es": "Insights",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "Insights: Dashboard de atendimento humano",
+                "en": "Insights"
               },
               "slug": {
-                "en": "insights",
                 "es": "insights",
-                "pt": "insights-dashboard-de-atendimento-humano"
+                "pt": "insights-dashboard-de-atendimento-humano",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
