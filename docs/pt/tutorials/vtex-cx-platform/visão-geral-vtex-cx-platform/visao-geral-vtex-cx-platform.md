@@ -9,7 +9,7 @@ firstPublishedAt: 2026-10-31T14:21:49.664Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: vtex-agentic-cx-platform-overview
+slugEN: vtex-cx-platform-overview
 legacySlug: visao-geral-weni-by-vtex
 locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
