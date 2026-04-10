@@ -38152,12 +38152,12 @@
               "name": {
                 "en": "VTEX CX Platform - Overview",
                 "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visão geral Weni by VTEX"
+                "pt": "Visão geral VTEX CX Platform"
               },
               "slug": {
                 "en": "vtex-cx-platform-overview-subcategory",
                 "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "visão-geral-weni-by-vtex-subcategoria"
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38301,14 +38301,14 @@
             },
             {
               "name": {
-                "en": "Visão geral Weni by VTEX",
-                "es": "Visão geral Weni by VTEX",
-                "pt": "Visão geral Weni by VTEX"
+                "en": "Visão geral VTEX CX Platform",
+                "es": "Visão geral VTEX CX Platform",
+                "pt": "Visão geral VTEX CX Platform"
               },
               "slug": {
-                "en": "visao-geral-weni-by-vtex",
-                "es": "visao-geral-weni-by-vtex",
-                "pt": "visão-geral-weni-by-vtex-subcategoria"
+                "en": "visao-geral-vtex-cx-platform",
+                "es": "visao-geral-vtex-cx-platform",
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
