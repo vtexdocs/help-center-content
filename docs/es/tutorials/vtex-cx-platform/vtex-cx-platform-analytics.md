@@ -9,10 +9,10 @@ firstPublishedAt: 2025-10-03T14:20:03.298Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: analytics
+slugEN: vtex-cx-platform-analytics
 legacySlug: insights
-locale: en
+locale: es
 subcategoryId: 13xAeqd2qH34rW2VHBXuWh
 ---
 
-> ⚠️ Content under translation.
+> ⚠️ Contenido en proceso de traducción.

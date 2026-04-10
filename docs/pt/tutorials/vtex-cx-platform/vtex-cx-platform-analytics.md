@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.298Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: insights
+slugEN: vtex-cx-platform-analytics
 legacySlug: insights-dashboard-de-atendimento-humano
 locale: pt
 subcategoryId: 13xAeqd2qH34rW2VHBXuWh
