@@ -33,6 +33,9 @@ Estas son las operaciones disponibles:
 
 - __Eliminar Productos/SKU e ítems relacionados:__ al borrar productos y SKU, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda.
 
+> ⚠️ La opción **Eliminar Productos/SKU e ítems relacionados** no elimina los productos del [stock](https://help.vtex.com/es/docs/tutorials/gestionar-items-en-inventario). Para hacerlo, es necesario eliminar el [almacén](https://help.vtex.com/es/docs/tutorials/almacen)
+ donde estaban registrados los SKUs. Esta acción es permanente y también elimina las reservas de inventario asociadas con los SKUs eliminados.
+
 - __Eliminar Categorías, Tags, Campos e Ítems relacionados:__ al borrar categorías, marcas y campos, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda. Para que la exclusión se produzca, es necesario que antes se borren productos y SKU.
 
 - __Eliminar sellers e ítems relacionados:__ al borrar sus sellers, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda.
