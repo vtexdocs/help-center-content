@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.324Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: weni-chats-human-service-dashboard
+slugEN: vtex-agentic-cx-platform-live-desk-dashboard
 legacySlug: weni-chats-dashboard-de-atencion-humana
 locale: es
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
