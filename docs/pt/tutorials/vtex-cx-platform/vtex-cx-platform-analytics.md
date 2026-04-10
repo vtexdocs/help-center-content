@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 13xAeqd2qH34rW2VHBXuWh
 ---
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/insights/insights-dashboard-de-atendimento-humano_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/insights-dashboard-de-atendimento-humano_1.png)
 
 A tela de Insights de Atendimento Humano fornece dados e métricas essenciais sobre os atendimentos em andamento, encerrados, verificar quais agentes estão on\-line e o desempenho da equipe. Esses dados ajudam na análise e na otimização do atendimento, permitindo ajustes estratégicos para melhorar a experiência do usuário.
 
@@ -29,7 +29,7 @@ Exibe os agentes que estão ativos no momento, além de informações sobre o n�
 
 ## 3\. Filtros
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/insights/insights-dashboard-de-atendimento-humano_2.png) Permite a personalização da consulta através dos seguintes critérios:
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/insights-dashboard-de-atendimento-humano_2.png) Permite a personalização da consulta através dos seguintes critérios:
 
 - Contato: Nome ou URN do contato.
 - Data: Seleção de um período específico.

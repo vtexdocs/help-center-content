@@ -21,27 +21,27 @@ Facebook has updated its integration policies so now you can easily connect a Fa
 
 1. In your project, go to **Apps > Discovery**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-a-facebook-channel_1.png)
 
 2. In the Discovery section, search for the app and click the **Add** button.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-a-facebook-channel_2.png)
 
 3. A new window will open. Click the **Connect** button.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-a-facebook-channel_3.png)
 
 4. When you click **Connect**, a Facebook login window will appear. Log in with the account that manages the Facebook page.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-a-facebook-channel_4.png)
 
 5. Choose the page you want to add and click **Create Channel**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-a-facebook-channel_5.png)
 
 If you need to log into the platform, you will be asked to give permissions to allow. You should allow all to complete the process. Then, you will be directed back to the previous step.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-facebook-channel_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-a-facebook-channel_6.png)
 
 That's it! You will be automatically directed to the page of your new channel, where you can view your channel's record.
 
