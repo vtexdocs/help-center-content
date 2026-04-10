@@ -35990,7 +35990,7 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criando agentes ativos"
+                    "pt": "Criar agentes ativos"
                   },
                   "slug": {
                     "en": "create-active-agents",
@@ -36005,12 +36005,12 @@
                   "name": {
                     "en": "First steps",
                     "es": "Primeros pasos",
-                    "pt": "Primeiros passos e configuração com o app"
+                    "pt": "First steps"
                   },
                   "slug": {
                     "en": "first-steps",
                     "es": "primeros-pasos",
-                    "pt": "primeiros-passos-e-configuracao-com-o-app"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36035,12 +36035,12 @@
                   "name": {
                     "en": "Manage Agentic CX",
                     "es": "Instalando a Agentic CX",
-                    "pt": "Instalando Agentic CX"
+                    "pt": "Configurar o Agentic CX"
                   },
                   "slug": {
                     "en": "manage-agentic-cx",
                     "es": "instalando-a-agentic-cx",
-                    "pt": "instalando-agentic-cx"
+                    "pt": "configurar-o-agentic-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36899,7 +36899,7 @@
                       "name": {
                         "en": "Adding media to the message",
                         "es": "Agregar mídias a su mensaje",
-                        "pt": "Adicionando mídias ao cartão de enviar mensagem"
+                        "pt": "Adicionar mídias"
                       },
                       "slug": {
                         "en": "adding-media-to-the-message",
@@ -36914,12 +36914,12 @@
                       "name": {
                         "en": "Automation flow overview",
                         "es": "Introducción a los flujos",
-                        "pt": "Introdução a fluxos"
+                        "pt": "Visão geral Fluxo de automação"
                       },
                       "slug": {
                         "en": "automation-flow-overview",
                         "es": "introduccion-a-los-flujos",
-                        "pt": "introducao-a-fluxos"
+                        "pt": "visao-geral-fluxo-de-automacao"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -36929,12 +36929,12 @@
                       "name": {
                         "en": "Call webhook: Making requests to external services",
                         "es": "Call webhook: Cómo hacer llamadas a sistemas externos",
-                        "pt": "Call webhook: Como fazer chamadas para sistemas externos"
+                        "pt": "Call webhook: Making requests to external services"
                       },
                       "slug": {
                         "en": "call-webhook-making-requests-to-external-services",
                         "es": "call-webhook-como-hacer-llamadas-a-sistemas-externos",
-                        "pt": "call-webhook-como-fazer-chamadas-para-sistemas-externos"
+                        "pt": ""
                       },
                       "origin": "",
                       "type": "markdown",
@@ -37201,12 +37201,12 @@
                   "name": {
                     "en": "Official agents from VTEX Agentic CX Platform",
                     "es": "Agentes oficiales de Weni by VTEX",
-                    "pt": "Agentes oficiais da Weni by VTEX"
+                    "pt": "Agentes oficiais do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "official-agents-from-vtex-agentic-cx-platform",
                     "es": "agentes-oficiales-de-weni-by-vtex",
-                    "pt": "agentes-oficiais-da-weni-by-vtex"
+                    "pt": "agentes-oficiais-da-vtex-agentic-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37232,7 +37232,7 @@
                   "name": {
                     "en": "Attendance distribution rule",
                     "es": "Distribución y enrutamiento de las atenciones",
-                    "pt": "Regras de distribuição e roteamento dos atendimentos"
+                    "pt": "Distribuição e Roteamento dos atendimentos"
                   },
                   "slug": {
                     "en": "attendance-distribution-rule",
@@ -37247,12 +37247,12 @@
                   "name": {
                     "en": "Live Desk - Overview",
                     "es": "Introducción al módulo de Chats",
-                    "pt": "Introdução sobre o módulo de Chats"
+                    "pt": "Live Desk - Overview"
                   },
                   "slug": {
                     "en": "introduction-to-live-desk",
                     "es": "introduccion-al-modulo-de-chats",
-                    "pt": "introducao-sobre-o-modulo-de-chats"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37290,14 +37290,60 @@
                 },
                 {
                   "name": {
+                    "pt": "Visão geral do Live Desk",
+                    "en": "Visão geral do Live Desk",
+                    "es": "Visão geral do Live Desk"
+                  },
+                  "slug": {
+                    "pt": "visao-geral-do-live-desk-agentic-cx",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Weni Chats: Human service dashboard",
                     "es": "Weni Chats: Dashboard de atención humana",
-                    "pt": "Weni Chats: Dashboard de atendimento humano"
+                    "pt": "Live Desk: Dashboard"
                   },
                   "slug": {
                     "en": "vtex-agentic-cx-platform-live-desk-dashboard",
                     "es": "weni-chats-dashboard-de-atencion-humana",
-                    "pt": "weni-chats-dashboard-de-atendimento-humano"
+                    "pt": "dashboard-do-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Configurações VTEX CX Platform",
+                "es": "Configurações VTEX CX Platform",
+                "pt": "Configurações VTEX CX Platform"
+              },
+              "slug": {
+                "en": "configuracoes-vtex-cx-platform",
+                "es": "configuracoes-vtex-cx-platform",
+                "pt": "configurações-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Gerenciamento de membros",
+                    "en": "Gerenciamento de membros",
+                    "es": "Gerenciamento de membros"
+                  },
+                  "slug": {
+                    "pt": "gerenciamento-de-membros-vtex-agentic-cx-platform",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37323,7 +37369,7 @@
                   "name": {
                     "en": "Active message dispatch on WhatsApp",
                     "es": "Envío activo de mensajes en WhatsApp",
-                    "pt": "Disparo ativo no WhatsApp"
+                    "pt": "Disparo Ativo no WhatsApp"
                   },
                   "slug": {
                     "en": "active-message-dispatch-on-whatsapp",
@@ -37443,7 +37489,7 @@
                   "name": {
                     "en": "Creating a Slack channel",
                     "es": "Creando un canal de Slack",
-                    "pt": "Criando um canal do Slack"
+                    "pt": "Criando um Canal do Slack"
                   },
                   "slug": {
                     "en": "creating-a-slack-channel",
@@ -37458,7 +37504,7 @@
                   "name": {
                     "en": "External service",
                     "es": "Servicio externo",
-                    "pt": "Serviço externo"
+                    "pt": "Serviço Externo"
                   },
                   "slug": {
                     "en": "external-service",
@@ -37473,7 +37519,7 @@
                   "name": {
                     "en": "Good practices: Opt-out",
                     "es": "Buenas prácticas: Opt-out",
-                    "pt": "Boas práticas: Opt-out"
+                    "pt": "Boas práticas: Opt-Out"
                   },
                   "slug": {
                     "en": "good-practices-opt-out",
@@ -37533,7 +37579,7 @@
                   "name": {
                     "en": "How to create a channel with WhatsApp Demo",
                     "es": "Cómo crear un canal en WhatsApp demo",
-                    "pt": "Como criar um canal no WhatsApp demo"
+                    "pt": "Como criar um canal no WhatsApp Demo"
                   },
                   "slug": {
                     "en": "how-to-create-a-channel-with-whatsapp-demo",
@@ -37593,7 +37639,7 @@
                   "name": {
                     "en": "How to use the applications module",
                     "es": "Como utilizar el módulo de aplicaciones",
-                    "pt": "Como utilizar o módulo aplicativos"
+                    "pt": "Como utilizar Canais (em Configurações)"
                   },
                   "slug": {
                     "en": "how-to-use-the-applications-module",
@@ -37608,7 +37654,7 @@
                   "name": {
                     "en": "Native ChatGPT integration",
                     "es": "Integración nativa ChatGPT",
-                    "pt": "Integração nativa ChatGPT"
+                    "pt": "Integração Nativa ChatGPT"
                   },
                   "slug": {
                     "en": "native-chatgpt-integration",
@@ -37623,7 +37669,7 @@
                   "name": {
                     "en": "Opt-in: Obtaining consent for WhatsApp",
                     "es": "Buenas prácticas: Opt-in",
-                    "pt": "Opt-in: Obter aceitação para o WhatsApp"
+                    "pt": "Opt-In: Obter aceitação para o WhatsApp"
                   },
                   "slug": {
                     "en": "opt-in-obtaining-consent-for-whatsapp",
@@ -37638,7 +37684,7 @@
                   "name": {
                     "en": "Regaining access to Business Manager",
                     "es": "Recuperando el acceso al Administrador de negocios",
-                    "pt": "Recuperando acesso ao Gerenciador de negócios"
+                    "pt": "Recuperando acesso ao Gerenciador de Negócios"
                   },
                   "slug": {
                     "en": "regaining-access-to-business-manager",
@@ -37653,7 +37699,7 @@
                   "name": {
                     "en": "Supported media sending - WhatsApp Cloud",
                     "es": "WhatsApp business API: Envio de mídias",
-                    "pt": "Envio de mídias suportadas - WhatsApp cloud"
+                    "pt": "Envio de Mídias Suportadas - WhatsApp Cloud"
                   },
                   "slug": {
                     "en": "supported-media-sending-whatsapp-cloud",
@@ -37668,7 +37714,7 @@
                   "name": {
                     "en": "The basics of integrations",
                     "es": "Conceptos básicos sobre integraciones",
-                    "pt": "Noções básicas sobre integrações"
+                    "pt": "Noções básicas sobre Integrações"
                   },
                   "slug": {
                     "en": "the-basics-of-integrations",
@@ -37698,7 +37744,7 @@
                   "name": {
                     "en": "Web Chat Channel",
                     "es": "Canal Weni web chat",
-                    "pt": "Canal de web chat"
+                    "pt": "Canal de Web Chat"
                   },
                   "slug": {
                     "en": "web-chat-channel",
@@ -37713,7 +37759,7 @@
                   "name": {
                     "en": "Webhook configuration: Message delivery status",
                     "es": "Configuración del webhook: Estado del envío de mensajes",
-                    "pt": "Configuração do webhook: Status de envio das mensagens"
+                    "pt": "Configuração do Webhook: Status de envio das mensagens"
                   },
                   "slug": {
                     "en": "webhook-configuration-message-delivery-status",
@@ -37728,7 +37774,7 @@
                   "name": {
                     "en": "WhatsApp business API pricing",
                     "es": "Precificación de WhatsApp business API",
-                    "pt": "Precificação do WhatsApp business API"
+                    "pt": "Precificação do Whatsapp Business API"
                   },
                   "slug": {
                     "en": "whatsapp-business-api-pricing",
@@ -37743,7 +37789,7 @@
                   "name": {
                     "en": "WhatsApp Bussiness API: How to verify my business",
                     "es": "WhatsApp bussiness API: ¿Cómo verificar mi negocio?",
-                    "pt": "WhatsApp bussiness API: Como verificar o meu negócio"
+                    "pt": "Whatsapp Bussiness API: Como Verificar o meu Negócio"
                   },
                   "slug": {
                     "en": "whatsapp-bussiness-api-how-to-verify-my-business",
@@ -37758,7 +37804,7 @@
                   "name": {
                     "en": "WhatsApp Bussiness API: WhatsApp message triggering limitation",
                     "es": "WhatsApp business API: Limitación de envios masivos en WhatsApp",
-                    "pt": "WhatsApp bussiness API: Limitação de disparos em massa do WhatsApp"
+                    "pt": "Whatsapp Bussiness API: Limitação de Disparos em Massa do WhatsApp"
                   },
                   "slug": {
                     "en": "whatsapp-bussiness-api-whatsapp-message-triggering-limitation",
@@ -37773,7 +37819,7 @@
                   "name": {
                     "en": "WhatsApp template messages: Impediments and configurations",
                     "es": "Mensajes de plantilla de WhatsApp: Obstáculos y configuraciones",
-                    "pt": "WhatsApp template messages: Impedimentos e configurações"
+                    "pt": "Whatsapp Template Messages: impedimentos e configurações"
                   },
                   "slug": {
                     "en": "whatsapp-template-messages-impediments-and-configurations",
@@ -37788,7 +37834,7 @@
                   "name": {
                     "en": "WhatsApp: How to create template messages",
                     "es": "WhatsApp: Cómo crear mensajes de plantilla",
-                    "pt": "WhatsApp: Como criar template messages"
+                    "pt": "Whatsapp: Como criar Template Messages"
                   },
                   "slug": {
                     "en": "whatsapp-how-to-create-template-messages",
@@ -37803,12 +37849,12 @@
                   "name": {
                     "en": "WhatsApp: Weni Express integration",
                     "es": "WhatsApp: Integración express Weni",
-                    "pt": "WhatsApp: Integração expressa Weni"
+                    "pt": "WhatsApp: Weni Express integration"
                   },
                   "slug": {
                     "en": "whatsapp-weni-express-integration",
                     "es": "whatsapp-integracion-express-weni",
-                    "pt": "whatsapp-integracao-expressa-weni"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37818,7 +37864,7 @@
                   "name": {
                     "en": "Zendesk - human support",
                     "es": "Zendesk - atención humana",
-                    "pt": "Zendesk - atendimento humano"
+                    "pt": "Zendesk - Atendimento Humano"
                   },
                   "slug": {
                     "en": "zendesk-human-support",
@@ -37864,7 +37910,7 @@
                   "name": {
                     "en": "Campaign introduction",
                     "es": "Introducción a campañas",
-                    "pt": "Introdução a campanhas"
+                    "pt": "Introdução a Campanhas"
                   },
                   "slug": {
                     "en": "campaign-introduction",
@@ -37894,7 +37940,7 @@
                   "name": {
                     "en": "Contact history",
                     "es": "Historial de contacto",
-                    "pt": "Histórico de contato"
+                    "pt": "Histórico de Contato"
                   },
                   "slug": {
                     "en": "contact-history",
@@ -37924,7 +37970,7 @@
                   "name": {
                     "en": "Creating contact from an external webhook",
                     "es": "Creando contactos con webhooks externos",
-                    "pt": "Criando contatos com webhooks externos"
+                    "pt": "Criando contatos com Webhooks externos"
                   },
                   "slug": {
                     "en": "creating-contact-from-an-external-webhook",
@@ -37939,12 +37985,12 @@
                   "name": {
                     "en": "Dynamic groups",
                     "es": "Grupos dinámicos",
-                    "pt": "Grupos dinâmicos"
+                    "pt": "Dynamic groups"
                   },
                   "slug": {
                     "en": "dynamic-groups",
                     "es": "grupos-dinamicos",
-                    "pt": "grupos-dinamicos"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37984,7 +38030,7 @@
                   "name": {
                     "en": "How to download and extract archived data",
                     "es": "Cómo descargar y extraer datos archivados",
-                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Weni flows"
+                    "pt": "Como baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
                   },
                   "slug": {
                     "en": "how-to-download-and-extract-archived-data",
@@ -38044,7 +38090,7 @@
                   "name": {
                     "en": "Static groups",
                     "es": "Grupos estáticos",
-                    "pt": "Grupos estáticos"
+                    "pt": "Grupos estáticos e grupos dinâmicos"
                   },
                   "slug": {
                     "en": "static-groups",
@@ -38074,7 +38120,7 @@
                   "name": {
                     "en": "Triggers types",
                     "es": "Tipos de activadores",
-                    "pt": "Tipos de gatilho"
+                    "pt": "Tipos de Gatilho"
                   },
                   "slug": {
                     "en": "triggers-types",
@@ -38091,12 +38137,12 @@
               "name": {
                 "en": "VTEX CX Platform - Overview",
                 "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visão geral VTEX CX Platform"
+                "pt": "Visão geral Weni by VTEX"
               },
               "slug": {
                 "en": "vtex-cx-platform-overview-subcategory",
                 "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "visão-geral-vtex-cx-platform-subcategoria"
+                "pt": "visão-geral-weni-by-vtex-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38110,7 +38156,7 @@
                   "slug": {
                     "en": "dashboard",
                     "es": "panel-de-control",
-                    "pt": "dashboard"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38120,12 +38166,12 @@
                   "name": {
                     "en": "First steps - register and login",
                     "es": "Primeros pasos - registro y login",
-                    "pt": "Primeiros passos - cadastro e login"
+                    "pt": "First steps - register and login"
                   },
                   "slug": {
                     "en": "first-steps-register-and-login",
                     "es": "primeros-pasos-registro-y-login",
-                    "pt": "primeiros-passos-cadastro-e-login"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38135,12 +38181,12 @@
                   "name": {
                     "en": "Getting started - create project",
                     "es": "Primeros pasos - crear projeto",
-                    "pt": "Primeiros passos - criar projeto"
+                    "pt": "Getting started - create project"
                   },
                   "slug": {
                     "en": "create-project",
                     "es": "crear-projeto",
-                    "pt": "criar-projeto"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38180,12 +38226,12 @@
                   "name": {
                     "en": "Profile",
                     "es": "Perfil",
-                    "pt": "Perfil"
+                    "pt": "Profile"
                   },
                   "slug": {
                     "en": "profile",
                     "es": "perfil",
-                    "pt": "perfil"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38195,12 +38241,12 @@
                   "name": {
                     "en": "Two-factor authentication",
                     "es": "Autenticación de 2 factores",
-                    "pt": "Autenticação de dois fatores"
+                    "pt": "Two-factor authentication"
                   },
                   "slug": {
                     "en": "2-factor-authentication",
                     "es": "autenticacion-de-2-factores",
-                    "pt": "autenticacao-de-2-fatores"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38210,12 +38256,12 @@
                   "name": {
                     "en": "VTEX Agentic CX Platform - Overview",
                     "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Alterando o idioma da plataforma"
+                    "pt": "Visão geral VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-agentic-cx-platform-overview",
                     "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "alterando-o-idioma-da-plataforma"
+                    "pt": "visao-geral-vtex-agentic-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38225,12 +38271,12 @@
                   "name": {
                     "en": "Weni permission system",
                     "es": "Sistema de permisos Weni",
-                    "pt": "Sistema de permissões Weni"
+                    "pt": "Weni permission system"
                   },
                   "slug": {
                     "en": "weni-permission-system",
                     "es": "sistema-de-permisos-weni",
-                    "pt": "sistema-de-permissoes-weni"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38271,12 +38317,12 @@
                   "name": {
                     "en": "Manage Live Desk",
                     "es": "Weni Chats: Gestión de la atención humana",
-                    "pt": "Weni Chats: Gestão do atendimento humano"
+                    "pt": "Configurar o Live Desk"
                   },
                   "slug": {
                     "en": "manage-live-desk",
                     "es": "weni-chats-gestion-de-la-atencion-humana",
-                    "pt": "weni-chats-gestao-do-atendimento-humano"
+                    "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38286,12 +38332,12 @@
                   "name": {
                     "en": "Weni Chats: Setting up human attendance",
                     "es": "Weni Chats: Configurando el atención humana",
-                    "pt": "Weni Chats: Configurando o atendimento humano"
+                    "pt": "Weni Chats: Setting up human attendance"
                   },
                   "slug": {
                     "en": "weni-chats-setting-up-human-attendance",
                     "es": "weni-chats-configurando-el-atencion-humana",
-                    "pt": "weni-chats-configurando-o-atendimento-humano"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
