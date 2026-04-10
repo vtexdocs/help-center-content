@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Agora ficou muito mais simples  no VTEX CX Platformnectar com seus clientes em poucos cliques. Com o modo de Integração Expressa do VTEX CX VTEX CX Platformum canal WhatsApp na organização da sua empresa para se comunicar com os clientes.
+Com o modo de Integração Expressa do VTEX CX Platform, você pode adicionar um canal WhatsApp na organização da sua empresa para se comunicar com os clientes.
 
 O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal no VTEX CX Platform que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
 
@@ -39,7 +39,7 @@ Depois, basta seguir os passos que você será**direcionado para vincular a sua 
 
 Para iniciar esses passos, após acessar a sua conta do Facebook, é só**clicar em “Começar”** na tela que você será redirecionado a próxima página.
 
-Aceite as permissões, elas são necessárias para que VTEX CX Platformer acesso a sua conta do WhatsApp Business e, assim, você consiga usar nossas integrações. **Nenhum dado será compartilhado.**
+Aceite as permissões; elas são necessárias para que VTEX CX Platform possa ter acesso à sua conta do WhatsApp Business e, assim, você consiga usar nossas integrações. Nenhum dado será compartilhado.
 
 Primeiro, você precisa criar a sua conta empresarial que será vinculada à Meta, ou selecionar uma das empresas já cadastradas. Após selecionar a opção que você precisa, é só clicar em “Continuar”:
 
@@ -65,11 +65,11 @@ Caso contrário, pode continuar imediatamente!
 
 Com a sua conta vinculada à Meta e o seu número de WhatsApp Business verificado, agora é hora de integrá-los na plataforma. Os passos são bem simples e rápidos.
 
-Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela do VTEX CX Platformclicar em **Criar Canal**, como mostrado na imagem:
+Quando você finalizar a etapa 3 de verificação do seu número e clicar em OK, aparecerá uma nova tela do VTEX CX Platform. Clique em `Criar Canal`.
 
 Caso nesse momento você perceba alguma inconsistência, não desista, inicie o processo novamente e agora será mais fácil, pois as informações já estarão preenchidas, caso não resolva entrar em contato com nosso suporte: <suporte@weni.ai>
 
-Na sequência, selecione o número que será vinculado à integração do WhatsApp no VTEX CX Platformo! Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
+Na sequência, selecione o número que será vinculado à integração do WhatsApp no VTEX CX Platform. Seu novo canal na plataforma já foi criado e você pode usar todos os recursos de automação.
 
 ## Agora o seu canal WhatsApp está integrado e pronto para ser customizado
 

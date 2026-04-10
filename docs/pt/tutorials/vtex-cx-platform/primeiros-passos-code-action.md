@@ -46,7 +46,7 @@ Para realizar a criação do tipo JSON, você poderá encontrar uma requisição
 Para criar um código, como mostra na imagem acima, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token.**
 
 - **project_uuid**
-  - Essa informação você conseguirá pegar na URL do seu projeto na [VTEX CX Platform Plataforma](https://dash.weni.ai), como segue na imagem abaixo:
+  - Essa informação você conseguirá pegar na URL do seu projeto no [VTEX CX Platform](https://dash.weni.ai), como segue na imagem abaixo:
 
 - **code_name**
   - Essa informação deverá ser preenchido com o nome da sua preferência, de acordo com que for mais legível e didático.
