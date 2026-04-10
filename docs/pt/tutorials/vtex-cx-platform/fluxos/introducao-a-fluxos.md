@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: flows-introduction
+slugEN: automation-flow-overview
 legacySlug: introducao-a-fluxos
 locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN

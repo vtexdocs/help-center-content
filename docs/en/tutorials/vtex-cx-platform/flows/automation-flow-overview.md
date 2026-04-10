@@ -1,5 +1,5 @@
 ---
-title: "Flows introduction"
+title: "Automation flow overview"
 id: 5XxzVEJtDzXXEOS0SXANeS
 status: PUBLISHED
 createdAt: 2025-09-16T16:38:04.873Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.960Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: flows-introduction
+slugEN: automation-flow-overview
 legacySlug: flows-introduction
 locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
@@ -19,7 +19,7 @@ A flow is a set of steps organized in a flowchart format. These steps are applie
 
 In flows, these steps can be actions or decisions, which allow for the creation and development of conversations from there. In this article, we will discuss a bit more about the anatomy and structure of these flows.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/automation-flow-overview_1.png)
 
 ## Anatomy of a flow
 
@@ -37,7 +37,7 @@ Action cards represent certain operations/actions that we can perform in a conve
 
 In other words, action cards trigger commands that are executed immediately, following a stack order. The first in the order of cards will always be executed first.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/automation-flow-overview_2.png)
 
 ## Decision cards
 
@@ -56,7 +56,7 @@ These decisions are based on existing decision rules in the card, which can be:
 - Check for the existence of specific numbers or numerical rules in a response/value;
 - Check for the existence of a specific format (such as dates, emails, phone numbers) in a response/value;
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/automation-flow-overview_3.png)
 
 ## Note cards (comments)
 
@@ -64,7 +64,7 @@ Note cards allow the creation of notes, similar to post-its, in our flows. They 
 
 To create a note card, simply double-click on an empty space in the flow. After that, you can freely move your notes, change the background colors, and position them as you see fit.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/automation-flow-overview_4.png)
 
 ## What's next?
 

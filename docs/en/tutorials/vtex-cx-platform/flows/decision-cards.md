@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Decision cards are a very important part of the logical constructions of our flows. In the [introduction](/en/docs/tutorials/flows-introduction) of transfers we talked little about the concept of these cards, and now we will understand a little more about their anatomy and the types that exist within the platform.
+Decision cards are a very important part of the logical constructions of our flows. In the [introduction](/en/docs/tutorials/automation-flow-overview) of transfers we talked little about the concept of these cards, and now we will understand a little more about their anatomy and the types that exist within the platform.
 
 To facilitate navigation through this article, if you want to go directly to a specific topic, just click on the name below:
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:21:49.549Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-the-chats-module
+slugEN: introduction-to-live-desk
 legacySlug: introducao-sobre-o-modulo-de-chats
 locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
