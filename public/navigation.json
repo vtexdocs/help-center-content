@@ -36038,9 +36038,9 @@
                     "pt": "Instalando Agentic CX"
                   },
                   "slug": {
-                    "en": "installing-weni-agentic-ai",
-                    "es": "instalando-a-weni-agentic-ai",
-                    "pt": "instalando-weni-agentic-ai"
+                    "en": "manage-agentic-cx",
+                    "es": "instalando-a-agentic-cx",
+                    "pt": "instalando-agentic-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38301,6 +38301,21 @@
             },
             {
               "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Insights: Dashboard de atendimento humano"
+              },
+              "slug": {
+                "en": "vtex-cx-platform-analytics",
+                "es": "vtex-cx-platform-analytics",
+                "pt": "vtex-cx-platform-analytics"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Code action first steps",
                 "es": "Primeros pasos - Code Action",
                 "pt": "Primeiros passos - Code Action"
@@ -38309,21 +38324,6 @@
                 "en": "code-action-first-steps",
                 "es": "primeros-pasos-code-action",
                 "pt": "primeiros-passos-code-action"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "pt": "Insights: Dashboard de atendimento humano",
-                "en": "Insights: Dashboard de atendimento humano",
-                "es": "Insights: Dashboard de atendimento humano"
-              },
-              "slug": {
-                "pt": "insights-dashboard-de-atendimento-humano",
-                "en": "",
-                "es": ""
               },
               "origin": "",
               "type": "markdown",
