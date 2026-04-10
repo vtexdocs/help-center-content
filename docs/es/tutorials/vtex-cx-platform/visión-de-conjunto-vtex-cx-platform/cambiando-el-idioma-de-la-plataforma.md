@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:21:49.664Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: changing-the-platform-language
+slugEN: vtex-agentic-cx-platform-overview
 legacySlug: cambiando-el-idioma-de-la-plataforma
 locale: es
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
