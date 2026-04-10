@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-After understanding a little more about what Action Cards are in our [Introduction to flow](/en/docs/tutorials/flows-introduction), we will now move on to what cards exists and what we can do with each one.
+After understanding a little more about what Action Cards are in our [Introduction to flow](/en/docs/tutorials/automation-flow-overview), we will now move on to what cards exists and what we can do with each one.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_1.gif)
 

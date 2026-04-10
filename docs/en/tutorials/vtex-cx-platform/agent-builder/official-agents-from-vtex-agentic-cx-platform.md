@@ -1,5 +1,5 @@
 ---
-title: 'Official agents from Weni by VTEX'
+title: 'Official agents from VTEX Agentic CX Platform'
 id: 7E8wlD3T41CiOexDVH1SIy
 status: PUBLISHED
 createdAt: 2025-07-18T17:25:54.700Z
@@ -9,13 +9,13 @@ firstPublishedAt: 2025-07-29T16:33:54.447Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: official-agents-from-weni-by-vtex
+slugEN: official-agents-from-vtex-agentic-cx-platform
 legacySlug: weni-by-vtexs-official-agents
 locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-This article describes the official collaborator agents from Weni by VTEX and provides the credentials required to assign them to the Agent Builder.
+This article describes the official collaborator agents from VTEX Agentic CX Platform and provides the credentials required to assign them to the Agent Builder.
 
 | Official agents | Description | Required credentials |
 | :-------------: | :------------- | :------------- |

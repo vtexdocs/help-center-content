@@ -9,15 +9,15 @@ firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: assigning-and-testing-agents
+slugEN: assigning-and-testing-agents-in-agent-builder
 legacySlug: attribute-and-test-agents-on-agent-builder
 locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-The **Agents** section allows users to assign agents to the team and test them.
+The **My Agents** section allows users to assign agents to the team and test them.
 
-Some official agents require credentials. See the full list in the article [Official agents from Weni by VTEX and their credentials](/en/docs/tutorials/official-agents-from-weni-by-vtex).
+Some official agents require credentials. See the full list in the article [Official agents from Weni by VTEX and their credentials](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
 
 > ℹ️ To create custom agents, use the Weni by VTEX CLI. See the [documentation](https://weni-ai.github.io/weni-cli/getting-started/installation/) for instructions.
 

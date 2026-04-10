@@ -20,7 +20,7 @@ order: 1
 
 The feature focuses on an orchestrator agent, which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
 
-> ℹ️ Learn more about collaborating agents in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-weni-by-vtex).
+> ℹ️ Learn more about collaborating agents in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
@@ -91,7 +91,7 @@ At the end, click the `Save changes` button in top-right corner of the screen to
 
 On this page, you can assign and test agents for your store.
 
-To learn how to do this, see the article [Assigning and testing agents](/en/docs/tutorials/assigning-and-testing-agents).
+To learn how to do this, see the article [Assigning and testing agents](/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
 
 ## Knowledge
 
@@ -159,7 +159,7 @@ In the **When should the agent transfer the conversation to a human?** text box,
 
 In this section, you can view the credentials used by official and custom agents.
 
-> ℹ️ Learn more about this topic in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-weni-by-vtex).
+> ℹ️ Learn more about this topic in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
 
 ### Change history
 

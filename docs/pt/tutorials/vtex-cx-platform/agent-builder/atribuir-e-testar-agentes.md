@@ -9,7 +9,7 @@ firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: assigning-and-testing-agents
+slugEN: assigning-and-testing-agents-in-agent-builder
 legacySlug: atribuir-e-testar-agentes-no-agent-builder
 locale: pt
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
