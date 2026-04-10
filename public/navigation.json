@@ -36839,14 +36839,14 @@
             },
             {
               "name": {
-                "en": "Chats",
-                "es": "Chats",
-                "pt": "Chats"
+                "en": "Live Desk",
+                "es": "Live Desk",
+                "pt": "Live Desk"
               },
               "slug": {
-                "en": "chats-subcategory",
-                "es": "chats-subcategoria",
-                "pt": "chats-subcategoria"
+                "en": "live-desk-subcategory",
+                "es": "live-desk-subcategoria",
+                "pt": "live-desk-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36918,7 +36918,7 @@
                     "pt": "Weni Chats: Dashboard de atendimento humano"
                   },
                   "slug": {
-                    "en": "weni-chats-human-service-dashboard",
+                    "en": "vtex-agentic-cx-platform-live-desk-dashboard",
                     "es": "weni-chats-dashboard-de-atencion-humana",
                     "pt": "weni-chats-dashboard-de-atendimento-humano"
                   },
@@ -38089,14 +38089,14 @@
             },
             {
               "name": {
-                "en": "Weni by VTEX - Overview",
-                "es": "Visión de conjunto de Weni by VTEX",
-                "pt": "Visão geral Weni by VTEX"
+                "en": "VTEX CX Platform - Overview",
+                "es": "Visión de conjunto de VTEX CX Platform",
+                "pt": "Visão geral VTEX CX Platform"
               },
               "slug": {
-                "en": "weni-by-vtex-overview-subcategory",
-                "es": "vision-de-conjunto-de-weni-by-vtex-subcategoria",
-                "pt": "visão-geral-weni-by-vtex-subcategoria"
+                "en": "vtex-cx-platform-overview-subcategory",
+                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38269,12 +38269,12 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Human service management",
+                    "en": "Manage Live Desk",
                     "es": "Weni Chats: Gestión de la atención humana",
                     "pt": "Weni Chats: Gestão do atendimento humano"
                   },
                   "slug": {
-                    "en": "weni-chats-human-service-management",
+                    "en": "manage-live-desk",
                     "es": "weni-chats-gestion-de-la-atencion-humana",
                     "pt": "weni-chats-gestao-do-atendimento-humano"
                   },
