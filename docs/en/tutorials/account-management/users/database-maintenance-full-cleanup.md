@@ -33,6 +33,10 @@ These are the operations available:
 
 - __Delete products/SKUs and related items__: With this operation, your products, SKUs, and related items will be permanently removed from your store.
 
+  > ⚠️ The __Delete products/SKUs and related items__ option does not remove products from [inventory](https://help.vtex.com/en/docs/tutorials/managing-stock-items)
+. To do that, you must delete the [warehouse](https://help.vtex.com/en/docs/tutorials/warehouse)
+ where the SKUs were registered. This action is permanent and also deletes the inventory reservations associated with the removed SKUs.
+
 - __Delete categories, brands, fields, and related items__: By deleting Categories, Brands, Fields, and related items, they will be permanently removed from your store. Before performing this operation, you must delete your Products and SKUs.
 
 - __Delete sellers and related items__: By deleting Sellers and related items, they will be permanently removed from your store.
