@@ -19,13 +19,13 @@ The Dashboard is a tool that displays data related to human support, providing i
 
 To access it, go to the **Chats** module on the Weni platform, and within the preferences menu, click on the **Dashboard** button. Currently, this tool is available only for managers and administrators.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/vtex-agentic-cx-platform-live-desk-dashboard_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/live-desk/vtex-agentic-cx-platform-live-desk-dashboard_1.png)
 
 ## Main screen
 
 When accessing the Dashboard, the project data is displayed. Thus, if there is more than one department, the metrics represent the data from all departments within the project.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/vtex-agentic-cx-platform-live-desk-dashboard_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/live-desk/vtex-agentic-cx-platform-live-desk-dashboard_2.png)
 
 **Indicators:**
 
@@ -34,11 +34,11 @@ When accessing the Dashboard, the project data is displayed. Thus, if there is m
 - **Response Time**: Refers to the average time contacts wait for each response, also calculated as an average from the start of operations to the current time.
 - **Interaction Time**: Indicates the average duration of chats, from start to closure.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/vtex-agentic-cx-platform-live-desk-dashboard_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/live-desk/vtex-agentic-cx-platform-live-desk-dashboard_3.png)
 
 When viewing all departments within the project, the departments listed below will appear, displaying the same metrics mentioned earlier but detailed specifically for each department.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/vtex-agentic-cx-platform-live-desk-dashboard_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/live-desk/vtex-agentic-cx-platform-live-desk-dashboard_4.png)
 
 Next to the listed departments is the **Online Agents** column, which displays agents with an online status along with the number of active chats assigned to them.
 
@@ -48,7 +48,7 @@ It’s important to note that the total number of active chats includes both age
 
 Currently, two types of filters are available. The first is the **Department Filter**, which allows you to select a specific department and view its detailed data.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/vtex-agentic-cx-platform-live-desk-dashboard_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/live-desk/vtex-agentic-cx-platform-live-desk-dashboard_5.png)
 
 When selecting a department, the main data will be shown exclusively for that department. This way, the queues within that department will be listed, and the online agents displayed will only be those in that department.
 

@@ -19,7 +19,7 @@ Um fluxo é um conjunto de passos organizados em formato de fluxograma. Esses pa
 
 Nos fluxos, esses passos podem ser **ações** ou **decisões**, que permitem a criação e o desenrolar das conversas a partir disso. Neste artigo, falaremos um pouco mais sobre a anatomia e estrutura desses fluxos.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-fluxos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/introducao-a-fluxos_1.png)
 
 ## Anatomia dos fluxos
 
@@ -37,7 +37,7 @@ As cartas de ação representam algumas operações/ações que conseguimos faze
 
 Ou seja, as cartão de ação disparam comandos que são executados imediatamente, seguindo uma ordem de pilha O primeiro na ordem de cartas, sempre ser á o primeiro a ser executado.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-fluxos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/introducao-a-fluxos_2.png)
 
 ### Cartas de decisão
 
@@ -56,7 +56,7 @@ Essas decisões são tomadas em cima de **regras de decisão** existentes na car
 - Verificar existência de números específicos ou regras numéricas em uma resposta/valor;
 - Verificar existência de uma formatação específica (como data, e-mails, telefones) em uma resposta/valor;
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-fluxos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/introducao-a-fluxos_3.png)
 
 ### Cartas para notas (comentários)
 
@@ -64,7 +64,7 @@ As cartas para comentário permitem a criação de notas, semelhantes a post-its
 
 Para criar uma carta de nota, basta clicar duas vezes em um lugar vazio no fluxo. Depois disso, você consegue mover livremente as suas notas, mudar as cores de fundo e posicionar onde achar melhor.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-fluxos_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/introducao-a-fluxos_4.png)
 
 ## E agora?
 

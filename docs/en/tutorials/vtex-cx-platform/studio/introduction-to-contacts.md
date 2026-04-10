@@ -23,7 +23,7 @@ Here are all the people you will be in contact with. There are two ways for a us
 
 When selecting the ""Contacts"" option, you will encounter the following features:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/introduction-to-contacts_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/introduction-to-contacts_1.png)
 
 - **Import Contacts**: A button to import a spreadsheet (following specific formatting rules) with external contacts. If the user is in this spreadsheet, the Weni platform recognizes them and can address them by the registered name from the first message sent by the platform.
 - **Create Contact**: Allows you to create a new contact from scratch within the platform.

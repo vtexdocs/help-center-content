@@ -33,7 +33,7 @@ Para o fornecimento de segunda via de boletos, por questão de segurança da inf
 Você pode escolher se a confirmação vai ser por email ou usando os 4 últimos dígitos do telefone cadastrado. Sempre que quiser, você pode personalizar o seu tipo de credenciamento.
 Após o usuário estar credenciado, ele receberá as informações financeiras das parcelas através do recurso de [Lançamentos](https://app.omie.com.br/api/v1/financas/pesquisartitulos/#PesquisarLancamentos). Após o chatbot enviar os lançamentos, usamos o recurso de [ObterURLBoleto](https://app.omie.com.br/api/v1/financas/pesquisartitulos/#ObterURLBoleto) para enviar o PDF do boleto referente a esse lançamento.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/chatbot-integrado-a-api-omie_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/chatbot-integrado-a-api-omie_1.png)
 
 ## Captura de leads
 
@@ -43,6 +43,6 @@ A captura de leads do chatbot é usada para não clientes e você pode personali
 
 Para criar o contato desse lead no módulo de CRM usamos o recurso [IncluirContato](https://app.omie.com.br/api/v1/crm/contatos/#IncluirContato). Para criar uma oportunidade e associar a este contato, usamos o recurso [IncluirOportunidade](https://app.omie.com.br/api/v1/crm/oportunidades/#IncluirOportunidade). É importante ressaltar que nosso chatbot template cria oportunidades associando a um vendedor, uma conta, origem e solução.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/chatbot-integrado-a-api-omie_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/chatbot-integrado-a-api-omie_2.png)
 
 🤩 Tem interesse nessa solução para o seu negócio? Entre em contato com nossa equipe comercial e solicite uma demonstração.

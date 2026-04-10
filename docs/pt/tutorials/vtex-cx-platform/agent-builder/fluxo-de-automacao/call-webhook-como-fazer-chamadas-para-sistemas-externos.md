@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 A sigla **API** corresponde às palavras em inglês **Application Programming **Interface**. No português “Interface de Programação de Aplicações”. Elas são uma forma de **integrar sistemas,\*\* possibilitando benefícios como a segurança dos dados e facilidade no intercâmbio entre informações.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/call-webhook-como-fazer-chamadas-para-sistemas-externos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/call-webhook-como-fazer-chamadas-para-sistemas-externos_1.png)
 
 Atualmente, a capacidade de poder se conectar e integrar com outros sistemas é uma funcionalidade essencial para a maioria das soluções hoje em dia. Por isso, temos uma carta de ação para utilizar nos fluxos justamente para essa função: _**Call Webhook**_
 
@@ -25,7 +25,7 @@ Atualmente, a capacidade de poder se conectar e integrar com outros sistemas é 
 
 A carta de **_Call Webhook_** é a responsável pela conexão entre a Weni Plataforma e outros sistemas externos, abaixo, temos um pouco sobre a anatomia dela:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/call-webhook-como-fazer-chamadas-para-sistemas-externos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/call-webhook-como-fazer-chamadas-para-sistemas-externos_2.png)
 
 1. Método da requisição: Onde você define qual vai ser o método para a sua requisição de API (GET, POST, PUT ou DELETE);
 2. URL da requisição: Onde você coloca a URL da requisição para a API;
@@ -49,7 +49,7 @@ O corpo da requisição aceita todas as variáveis e expressões suportadas na p
 
 Após fazer a requisição você pode utilizar algumas expressões para consultar informações do retorno.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/call-webhook-como-fazer-chamadas-para-sistemas-externos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/call-webhook-como-fazer-chamadas-para-sistemas-externos_3.png)
 
 #### `@Results`
 

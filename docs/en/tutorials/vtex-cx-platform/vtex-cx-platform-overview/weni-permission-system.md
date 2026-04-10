@@ -21,7 +21,7 @@ Within the Weni platform, you can manage different permissions for each user, di
 
 These permissions can be set during the organization creation stage or at any time by using the icon located in the upper right corner within the organization. The organization permissions will apply to all projects within it.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_1.png)
 
 Currently, there are 3 types of permissions:
 
@@ -29,17 +29,17 @@ Currently, there are 3 types of permissions:
 - **Financial**: Has access only to the billing area.
 - **Contributor**: Has permission to create new projects and edit content.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_2.png)
 
 ## Project permissions
 
 It is also possible to assign permissions to a specific project, without granting access to the entire organization. To access these options, simply click on the "Manage Members" option located in the upper right corner of the specific project.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_3.png)
 
 A new screen will open, displaying all the project's collaborators. Here, you can add, remove, and change the permissions of each project member individually.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/weni-permission-system_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_4.png)
 
 In total, we have 4 permissions, divided into 2 groups:
 

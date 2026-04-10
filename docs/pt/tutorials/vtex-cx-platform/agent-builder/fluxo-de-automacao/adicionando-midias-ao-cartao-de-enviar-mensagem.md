@@ -21,18 +21,18 @@ Você pode adicionar mídias à sua mensagem na nossa plataforma. Sejam **imagen
 
 1. Dentro do seu projeto, clique no **Módulo de Fluxos**;
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/adicionando-midias-ao-cartao-de-enviar-mensagem_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/adicionando-midias-ao-cartao-de-enviar-mensagem_1.png)
 
 2. **Escolha um fluxo** pré-existente ou crie um novo;
 3. Adicione uma nova carta de ação, clique em **Arquivos** , escolha entre as opções **URL da imagem** , **URL do áudio,** **URL do v ídeo, PDF documento URL** ou **insira a URL** da mídia escolhida;
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/adicionando-midias-ao-cartao-de-enviar-mensagem_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/adicionando-midias-ao-cartao-de-enviar-mensagem_2.png)
 
 ## Usando um arquivo do seu computador
 
 Adicione uma nova carta de ação, clique em **Arquivos** , escolha a opção **Enviar Arquivo** e **selecione o arquivo direto do seu computador**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/adicionando-midias-ao-cartao-de-enviar-mensagem_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/adicionando-midias-ao-cartao-de-enviar-mensagem_3.png)
 
 ### Limitações
 
