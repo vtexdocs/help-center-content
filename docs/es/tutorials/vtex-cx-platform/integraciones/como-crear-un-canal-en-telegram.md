@@ -21,13 +21,9 @@ Para conectar tu chatbot con Telegram, siga estos pasos:
 
 Botfather es un chatbot que crea y controla otros chatbots para Telegram. Para encontrarlo, busque en @BotFather en el buscador de Telegram.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/como-crear-un-canal-en-telegram_1.png)
-
 2. Cree un nuevo chatbot con BotFather:
 
 Cuando inicie una nueva conversación con BotFather, envie un mensaje /newbot para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en ""\_bot"", por ejemplo, ""test_bot"").
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/como-crear-un-canal-en-telegram_2.png)
 
 Reciba el Token de acceso:
 
@@ -38,13 +34,5 @@ Después de completar toda la información necesaria (como vimos en el último p
 ## Registrar Telegram en la plataforma
 
 1. En tu proyecto, haz clic en \***Aplicaciones > Descubrimientos > Añade la APP de Telegram**.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/como-crear-un-canal-en-telegram_3.png)
-
 2. Después de añadir la APP, ve a **Mis Aplicaciones** y haz clic en la APP de **Telegram**, se abrirá una nueva ventana.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/como-crear-un-canal-en-telegram_4.png)
-
 3. Introduce el Token proporcionado por **BotFather** al crear el bot en Telegram y haz clic en **Validar**.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/como-crear-un-canal-en-telegram_5.png)

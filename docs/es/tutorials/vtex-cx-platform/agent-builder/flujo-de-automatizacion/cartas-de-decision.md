@@ -36,8 +36,6 @@ Para facilitar la navegación por este artículo, si deseas ir directamente a un
 
 La mayor diferencia entre las cartas de decisión y las cartas de acción es la creación de rutas. Estas rutas son posibles caminos que una conversación puede tomar según alguna respuesta o algún dato del contacto, es decir, la finalidad de todas las cartas de decisión es crear rutas para cada regla y, así, ramificar nuestro flujo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_1.png)
-
 Cada ruta tiene un nombre/categoría y sigue una regla de decisión. Puedes ver en las conexiones de tus rutas la cantidad de contactos que ya han seguido ese camino en tu flujo.
 
 La ruta **Otro** es una ruta predeterminada que existe para el caso en que el valor analizado no coincida con ninguna de las reglas de decisión creadas. Todas las cartas de decisión, al tener una regla definida, también crean la ruta **Otro**.
@@ -45,8 +43,6 @@ La ruta **Otro** es una ruta predeterminada que existe para el caso en que el va
 ### Reglas de decisión
 
 Las reglas de decisión son un conjunto de normas que utilizamos para crear rutas, es decir, parámetros que se verificarán para decidir si un contacto debe o no seguir ese camino.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_2.png)
 
 Para utilizar una regla de decisión, solo necesitas seleccionar el tipo de regla, luego ingresar el valor para comparación y, por último, definir la categoría/nombre de la ruta a la que pertenece esa regla. Cada nombre de categoría diferente generará una nueva ruta con ese mismo nombre. Si creas más de una regla pero las nombras con la misma categoría, todas las reglas apuntarán a la ruta con ese nombre.
 
@@ -67,8 +63,6 @@ Son las reglas que analizan frases y/o palabras, comparando la respuesta/valor d
 - **Comienza con** : Si la respuesta/valor comienza con esa frase, seguirá la ruta indicada.​
 - **Tiene alg ún texto**: Si la respuesta/valor está completa (no está vacía), independientemente de la información contenida, seguirá la ruta indicada.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_3.png)
-
 Puedes utilizar estas reglas para verificar nombres de personas, organizaciones, establecimientos, etc.
 
 ## Números y operaciones
@@ -85,8 +79,6 @@ Son las reglas que implican números y/o operaciones numéricas, comparando la r
 - **Tiene un número igual o superior**: Si la respuesta/valor es mayor o igual al número seleccionado, seguirá la ruta indicada.
 - **Tiene un número arriba**: Si la respuesta/valor es mayor que el número seleccionado, seguirá la ruta indicada.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_4.png)
-
 Estas reglas pueden ser útiles para filtrar por edad.
 
 ## Fecha y hora
@@ -101,8 +93,6 @@ Un detalle importante sobre las reglas de comparación de fecha (antes, igual a 
 - **Tiene una fecha despu és**: Si la respuesta/valor contiene una fecha posterior a la fecha seleccionada, seguirá la ruta indicada.
 - **Tiene un tiempo** : Si la respuesta/valor contiene una hora, independientemente de cuál sea, seguirá la ruta indicada. La hora debe tener un formato válido (ejemplo: HH:MM).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_5.png)
-
 Buena manera de verificar la fecha de compra de tus productos.
 
 ## Formatos personalizados
@@ -116,8 +106,6 @@ La plataforma admite el uso de expresiones regulares, o regex, que es un lenguaj
 - **Tiene un número de teléfono**: Si la respuesta/valor tiene un formato válido para un número de celular (ejemplo: 5582999999999), seguirá la ruta indicada.
 - **Tiene un correo electrónico**: Si la respuesta/valor tiene un formato válido para correo electrónico (ejemplo: no-reply@weni.ai), seguirá la ruta indicada.
 - **Coincide con regex** : Si la respuesta/valor sigue la regla de la expresión regular seleccionada, seguirá la ruta indicada.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_6.png)
 
 ¿Quieres validar el formato de un documento personal? Estas reglas son el camino.
 
@@ -135,14 +123,10 @@ Puedes acceder a estos valores de flujo utilizando las variables de la plataform
 
 Por defecto, los nombres de los resultados serán siempre **(Result + n)** donde **n** es el número de resultados que existen en tu flujo, pero esto se puede cambiar fácilmente en el campo **Result name**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_7.png)
-
 ¡Siempre cambia el nombre de tus resultados de flujo por nombres que puedas entender de manera simple e intuitiva!
 
 **Wait for the contact to respond**
 La primera y más utilizada de las cartas de decisión. Las rutas se deciden a partir del texto ingresado por un contacto. Además, tiene la opción de crear una ruta en caso de que el usuario no responda, marcando la casilla de selección en la parte inferior de la carta y eligiendo el tiempo de espera para la respuesta.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_8.png)
 
 Carta muy utilizada para gestionar las respuestas a las preguntas hechas al usuario.
 
@@ -150,15 +134,11 @@ Carta muy utilizada para gestionar las respuestas a las preguntas hechas al usua
 
 Las rutas se deciden a partir de una expresión personalizada creada por el usuario. Esta expresión personalizada puede construirse utilizando variables y funciones. (Para más información sobre variables y funciones, consulta el artículo correspondiente).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_9.png)
-
 Permite personalizar ciertos procesos, como verificar el horario de funcionamiento para la atención.
 
 ## Split by contact field
 
 Aquí, todas las reglas de decisión analizan un campo del contacto. Solo necesitas seleccionar qué campo del contacto deseas verificar y luego definir las reglas correspondientes.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_10.png)
 
 Buena forma de clasificar contactos a través de sus datos.
 
@@ -166,15 +146,11 @@ Buena forma de clasificar contactos a través de sus datos.
 
 El objetivo aquí es crear rutas a partir de los resultados del flujo, que pueden ser tanto los creados por otras cartas de decisión como los creados manualmente por la carta de acción correspondiente. Solo necesitas seleccionar el nombre del resultado de flujo que se va a analizar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_11.png)
-
 Esta carta puede usarse para analizar si alguna respuesta del usuario debe guardarse en un campo de contacto.
 
 ## Split by random chance
 
 Aquí, la ruta elegida se selecciona de forma aleatoria. Solo necesitas elegir la cantidad de rutas que deseas y esperar el resultado. En este caso, no hay una regla de decisión, y solo se puede personalizar el nombre de la ruta junto con la cantidad de rutas que existirán.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_12.png)
 
 Puedes crear varios mensajes de saludo y despedida que serán diferentes en cada ejecución por un contacto.
 
@@ -182,14 +158,10 @@ Puedes crear varios mensajes de saludo y despedida que serán diferentes en cada
 
 Crea rutas a partir de los grupos en los que el contacto participa. Para hacerlo, solo debes seleccionar uno de los grupos de contacto existentes en la organización.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_13.png)
-
 Puede utilizarse para limitar el acceso de ciertos grupos a partes específicas de los flujos.
 
 ## Split by URN type
 
 Crea rutas basadas en qué canal está utilizando el contacto en ese momento. Solo necesitas seleccionar el tipo de canal entre los disponibles y guardar.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/cartas-de-decision_14.png)
 
 ¿Deseas realizar tratamientos diferentes según el canal del contacto? Usa esta carta.
