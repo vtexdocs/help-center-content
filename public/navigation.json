@@ -85,9 +85,9 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
-                    "es": "VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
-                    "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
+                    "en": "VTEX CX Platform: New name and updates to the Weni by VTEX platform",
+                    "es": "VTEX CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
+                    "pt": "VTEX CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
                   },
                   "slug": {
                     "en": "2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform",
@@ -37184,14 +37184,14 @@
                 },
                 {
                   "name": {
-                    "pt": "Agentes oficiais do VTEX CX Platform",
-                    "en": "Agentes oficiais do VTEX CX Platform",
-                    "es": "Agentes oficiais do VTEX CX Platform"
+                    "es": "Agentes oficiales de Weni by VTEX",
+                    "en": "Agentes oficiales de Weni by VTEX",
+                    "pt": "Agentes oficiales de Weni by VTEX"
                   },
                   "slug": {
-                    "pt": "agentes-oficiais-da-vtex-cx-platform",
+                    "es": "agentes-oficiales-de-weni-by-vtex",
                     "en": "",
-                    "es": ""
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37214,14 +37214,14 @@
                 },
                 {
                   "name": {
-                    "en": "Official agents from VTEX Agentic CX Platform",
-                    "es": "Agentes oficiales de Weni by VTEX",
-                    "pt": "Official agents from VTEX Agentic CX Platform"
+                    "en": "Official agents from VTEX CX Platform",
+                    "pt": "Agentes oficiais do VTEX CX Platform",
+                    "es": "Official agents from VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "official-agents-from-vtex-agentic-cx-platform",
-                    "es": "agentes-oficiales-de-weni-by-vtex",
-                    "pt": ""
+                    "en": "official-agents-from-vtex-cx-platform",
+                    "pt": "agentes-oficiais-da-vtex-cx-platform",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
