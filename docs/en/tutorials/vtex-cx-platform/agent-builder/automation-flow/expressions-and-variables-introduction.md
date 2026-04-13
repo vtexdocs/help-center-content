@@ -32,19 +32,19 @@ All variables and expressions show their actual value when the contact is active
 
 In addition to the `@results` expression, there are other commonly used expressions:
 **`@contact`**
-This expression is used to retrieve values saved in standard contact fields on the Weni Platform and is updated through the **Update Contact** card. Examples:
+This expression is used to retrieve values saved in standard contact fields on the VTEX CX Platform and is updated through the **Update Contact** card. Examples:
 `@contact.name`: Contact's name
 `@contact.first_name`: Contact's first name
 **`@fields`**
-This expression is used to retrieve values saved in non-standard contact fields on the Weni Platform, through the **Update Contact** card. Contact fields are often used to store general information about the contact, as these details can be retrieved in any flow using the **@fields** expression. Examples:
+This expression is used to retrieve values saved in non-standard contact fields on the VTEX CX Platform, through the **Update Contact** card. Contact fields are often used to store general information about the contact, as these details can be retrieved in any flow using the **@fields** expression. Examples:
 `@fields.age`: Contact's age
 `@fields.email`: Contact's email, if it is being saved in a contact field instead of URN
 **`@urns`**
-This expression is used to retrieve the identifier of the contact's main channel on the Weni Platform (if the project is not anonymous). Examples:
+This expression is used to retrieve the identifier of the contact's main channel on the VTEX CX Platform (if the project is not anonymous). Examples:
 `@urns.whatsapp`: WhatsApp number
 `@urns.mailto`: Contact's email
 **`@webhook`**
 This expression is used to retrieve values returned from the last webhook call made in the flow. Examples:
 `@webhook.results.cliente`: Client's name returned from the API, if it returns only one object.
 `@webhook.results.0.cliente`: Client's name returned from the API. If it returns an array, you need to specify the position of the array in the expression using **0, 1, 2** , and so on.
-To learn more about expressions, watch our [Ask Weni](https://comunidade.weni.ai/t/expressoes-e-variaveis/248) on this topic.
+To learn more about expressions, watch our [Ask VTEX CX Platform](https://comunidade.weni.ai/t/expressoes-e-variaveis/248) on this topic.

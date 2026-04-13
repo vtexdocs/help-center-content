@@ -27,6 +27,6 @@ In the upcoming articles, you'll learn much more about how our platform works. T
 8. **Routes**: Paths chosen in the flow that depend on the results of the decision rules.
 9. **Variables**: Parameters used to replace contact and/or organization values in text. Examples: Globals, contact variables, flow results, etc.
 10. **Expressions**: Functions to manipulate data, which may or may not use variables. Examples: Character counter, date and time formatter, etc.
-11. **Campaigns**: A set of events applied to groups based on time\-based rules. They allow active communication from the platform, meaning the platform can initiate a flow for a contact without the contact messaging first.
+11. **Campaigns**: A set of events applied to groups based on time-based rules. They allow active communication from the platform, meaning the platform can initiate a flow for a contact without the contact messaging first.
 12. **Triggers**: A set of events responsible for passively starting platform flows, meaning rules that activate the flows when a contact sends a message through a channel.
 13. **Classifiers**: AI platforms designed to classify contact inputs and return valid keywords that the platform will use.

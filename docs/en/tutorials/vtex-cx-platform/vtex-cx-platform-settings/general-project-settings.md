@@ -28,7 +28,7 @@ By clicking the gear icon, you will access a menu with two options:
 
 Here, you can configure two or more languages for your organization: one primary (used by default in the flows) and others secondary (defined when creating the flow). ​
 
-To add the languages, simply enter the first language in the ""Default Flow"" field and the others in the ""Additional Languages"" field.
+To add the languages, simply enter the first language in the "Default Flow" field and the others in the "Additional Languages" field.
 
 ## 3 - Organization location
 
@@ -45,7 +45,7 @@ Here, you can set your organization's email. All emails sent in flows or campaig
 5. In **Password**, enter your email password;
 6. Click **Save**.
 
-If you don't want to configure it, leave the fields blank to send emails using Weni's default host. #
+If you don't want to configure it, leave the fields blank to send emails using VTEX CX Platform's default host. #
 
 ## 5 - DT1
 
@@ -53,7 +53,7 @@ DT1 is a platform that provides B2B digital transfers for mobile top-ups and dat
 
 ## 6 - Organization access token
 
-Here, you can view your API token. The token is the access key for external applications to interact with the Weni Platform API. ​
+Here, you can view your API token. The token is the access key for external applications to interact with the VTEX CX Platform API. ​
 
 ## 7 - Prometheus
 

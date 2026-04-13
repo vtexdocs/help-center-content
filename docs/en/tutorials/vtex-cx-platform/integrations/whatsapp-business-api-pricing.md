@@ -43,7 +43,7 @@ The initiated conversation is free, but the ad is charged.
 
 Remember that: Each WhatsApp Business account (WABA) has 1,000 free user-initiated conversations per month, regardless of the number of phone numbers included. The free conversation limit is reset each month, according to the time zone associated with the WABA.
 
-## \*\*Conversation duration
+## Conversation duration
 
 Marketing, utility, authentication, and service conversations last for 24 hours (unless they are free-entry point conversations — from click-to-WhatsApp ads or Facebook Pages). After this period, the time will reset, and any message sent will start a new window, being charged according to the category.
 

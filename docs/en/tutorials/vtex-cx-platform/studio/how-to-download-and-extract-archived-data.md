@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Something very important to know about data collection on the Weni platform is that the data is stored for 180 days. After this period, the data is archived on the platform and stored in JSON format in the Archives menu.
+Something very important to know about data collection on the VTEX CX Platform is that the data is stored for 180 days. After this period, the data is archived on the platform and stored in JSON format in the Archives menu.
 
 ## Instructions
 
@@ -23,8 +23,8 @@ You can download these archived data by accessing the settings panel. At the bot
 
 You can access both the content of the **Messages **table and the **Runs **table. To view either, simply click the button highlighted in yellow, as shown in the image below.
 
-The files from the Messages table will start with the prefix ""message."" To download the files, simply click on the highlighted icon (as shown in the image below) next to the date.
+The files from the Messages table will start with the prefix "message." To download the files, simply click on the highlighted icon (as shown in the image below) next to the date.
 
-The files from the Runs table will start with the prefix ""run."" To download the files, simply click on the highlighted icon (as shown in the image below) next to the date.
+The files from the Runs table will start with the prefix "run." To download the files, simply click on the highlighted icon (as shown in the image below) next to the date.
 
 Finally, in each file, you can check the content, period (month), and the number of records in the file.

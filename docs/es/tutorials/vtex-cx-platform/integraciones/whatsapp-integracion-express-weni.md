@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp: Integración express Weni"
+title: "WhatsApp: Integración express VTEX CX Platform"
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2025-10-03T14:20:32.674Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: whatsapp-weni-express-integration
+slugEN: whatsapp-vtex-cx-platform-express-integration
 legacySlug: whatsapp-integracion-express-weni
 locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Ahora es muy sencillo agregar un canal de WhatsApp a la organización de tu empresa en la **Plataforma Weni** y conectarte con tus clientes en pocos clics. Este es el método de **Integración Express Weni**.
+Ahora es muy sencillo agregar un canal de WhatsApp a la organización de tu empresa en la **VTEX CX Platform** y conectarte con tus clientes en pocos clics. Este es el método de **Integración Express VTEX CX Platform**.
 
-WhatsApp es la mayor aplicación de mensajería del mundo y una de las preferidas por los usuarios. La integración de este canal en la **Plataforma Weni** permite que conectes el número comercial de tu empresa y crees flujos inteligentes para atender a tus clientes.
+WhatsApp es la mayor aplicación de mensajería del mundo y una de las preferidas por los usuarios. La integración de este canal en la **VTEX CX Platform** permite que conectes el número comercial de tu empresa y crees flujos inteligentes para atender a tus clientes.
 
 Existen algunas premisas para agregar un número de WhatsApp mediante el método de Integración Express:
 

@@ -29,11 +29,10 @@ This option allows us to have an overview of users who have passed through the f
 
 2. **Runs:**
 
-The ""Runs"" tab provides access to all raw data, which can be exported and used in other applications for data validation. In the ""Runs"" tab, you can choose to view all data or only the contacts who responded. The results saved in the cards are displayed in columns.
+The "Runs" tab provides access to all raw data, which can be exported and used in other applications for data validation. In the "Runs" tab, you can choose to view all data or only the contacts who responded. The results saved in the cards are displayed in columns.
 
 The export of results will include the contact's name, URN, start and end dates of interactions in the flow, messages the contact sent, and other information collected during the flow.
 
 The export is in XLSX spreadsheet format and is sent directly to the email of the user who requested the export.
 
-Before exporting, you can select the options for Groups, Contact Fields, and URNs. If you check the ""Responded only"" option, the export will be limited to contacts who sent a response in the flow being exported.
-
+Before exporting, you can select the options for Groups, Contact Fields, and URNs. If you check the "Responded only" option, the export will be limited to contacts who sent a response in the flow being exported.

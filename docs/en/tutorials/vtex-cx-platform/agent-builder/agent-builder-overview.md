@@ -1,5 +1,5 @@
 ---
-title: 'Agent Builder - Overview'
+title: "Agent Builder - Overview"
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
@@ -20,15 +20,15 @@ order: 1
 
 The feature focuses on an orchestrator agent, which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
 
-> ℹ️ Learn more about collaborating agents in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
+> ℹ️ Learn more about collaborating agents in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
-> ⚠️ To create custom agents, use the Weni by VTEX CLI. See the [documentation](https://weni-ai.github.io/weni-cli/getting-started/installation/) for instructions.
+> ⚠️ To create custom agents, use the VTEX CX Platform (Weni) CLI. See the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) for instructions.
 
 ## Agent Builder
 
-To access **Agent Builder**, select the organization on the Weni by VTEX homepage and then the project you want to manage. In the side menu, click **Agent Builder**.
+To access **Agent Builder**, select the organization on the VTEX CX Platform homepage and then the project you want to manage. In the side menu, click **Agent Builder**.
 
 You can access the following pages in **Agent Builder:**
 
@@ -64,18 +64,18 @@ To customize your agent, use the following fields:
 
 Read the detailed description of each tone of voice below:
 
-| Agent tone of voice | Description |
-| :-------------: | :------------- |
-| Friendly | Engages warmly and welcomingly, making the customer feel comfortable while creating a connection based on empathy and understanding. |
-| Cooperative | Works alongside the customer to find solutions. Prioritizes teamwork and is focused on ensuring the customer's needs are met with minimal effort. |
-| Outgoing | Has a lively and expressive personality, communicates openly and enthusiastically. Always motivated and positive during interactions, making conversations dynamic and engaging. |
-| Generous | Offers additional information and resources that may be useful, even before being asked.   |
-| Relaxed | Stays laid-back and calm in challenging situations. Maintains pleasant conversations and gives the customer enough time to process information and make decisions. |
-| Organized | Presents all information clearly and accessibly. It's methodical and efficient, and guides the customer through each step in a logical way so that no detail is overlooked.  |
-| Systematic | Has a clear and well-structured method, following defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and support.   |
-| Innovative | Proposes new solutions and presents creative, effective ideas when faced with problems or challenges.  |
-| Creative | Uses imagination to communicate. Capable of providing unique responses and adapting language to make content more relevant and engaging for the customer.  |
-| Intellectual | Provides detailed and informed responses. Provides an in-depth explanation based on facts and logic to meet the needs of customers seeking clarity and understanding.  |
+| Agent tone of voice | Description                                                                                                                                                                          |
+| :-----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      Friendly       | Engages warmly and welcomingly, making the customer feel comfortable while creating a connection based on empathy and understanding.                                                 |
+|     Cooperative     | Works alongside the customer to find solutions. Prioritizes teamwork and is focused on ensuring the customer's needs are met with minimal effort.                                    |
+|      Outgoing       | Has a lively and expressive personality, communicates openly and enthusiastically. Always motivated and positive during interactions, making conversations dynamic and engaging.     |
+|      Generous       | Offers additional information and resources that may be useful, even before being asked.                                                                                             |
+|       Relaxed       | Stays laid-back and calm in challenging situations. Maintains pleasant conversations and gives the customer enough time to process information and make decisions.                   |
+|      Organized      | Presents all information clearly and accessibly. It's methodical and efficient, and guides the customer through each step in a logical way so that no detail is overlooked.          |
+|     Systematic      | Has a clear and well-structured method, following defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and support. |
+|     Innovative      | Proposes new solutions and presents creative, effective ideas when faced with problems or challenges.                                                                                |
+|      Creative       | Uses imagination to communicate. Capable of providing unique responses and adapting language to make content more relevant and engaging for the customer.                            |
+|    Intellectual     | Provides detailed and informed responses. Provides an in-depth explanation based on facts and logic to meet the needs of customers seeking clarity and understanding.                |
 
 In the **General instructions** section, you can add direct instructions for your agent, defining how it should behave.
 
@@ -153,7 +153,7 @@ In the **When should the agent transfer the conversation to a human?** text box,
 
 In this section, you can view the credentials used by official and custom agents.
 
-> ℹ️ Learn more about this topic in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
+> ℹ️ Learn more about this topic in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 ### Change history
 

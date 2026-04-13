@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp: Weni Express integration"
+title: "WhatsApp: VTEX CX Platform Express integration"
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2025-10-03T14:20:32.674Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: whatsapp-weni-express-integration
-legacySlug: whatsapp-weni-express-integration
+slugEN: whatsapp-vtex-cx-platform-express-integration
+legacySlug: whatsapp-vtex-cx-platform-express-integration
 locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Now it's much simpler to add a WhatsApp channel to your company's organization on the Weni Platform and connect with your customers in just a few clicks. This is the Weni Express Integration mode.
+Now it's much simpler to add a WhatsApp channel to your company's organization on the VTEX CX Platform and connect with your customers in just a few clicks. This is the VTEX CX Platform Express Integration mode.
 
-WhatsApp is the largest messaging app in the world and a favorite among users. Integrating this channel on the Weni Platform allows you to connect your company's business number and create intelligent flows to serve your customers.
+WhatsApp is the largest messaging app in the world and a favorite among users. Integrating this channel on the VTEX CX Platform allows you to connect your company's business number and create intelligent flows to serve your customers.
 
 There are a few prerequisites for adding a WhatsApp number via the Express Integration method:
 
@@ -37,33 +37,37 @@ However, if you're already logged into the Facebook account that will be used, t
 
 Then, just follow the steps to link your account.
 
-To begin, after logging into your Facebook account, simply click **""Get Started""** on the screen, and you will be redirected to the next page to continue the process.
+To begin, after logging into your Facebook account, simply click **"Get Started"** on the screen, and you will be redirected to the next page to continue the process.
 
-Accept the permissions, as they are necessary for Weni Platform to access your WhatsApp Business account, enabling you to use our integrations. But don’t worry! No data will be shared, and the entire process is very secure!
+Accept the permissions, as they are necessary for VTEX CX Platform to access your WhatsApp Business account, enabling you to use our integrations. But don’t worry! No data will be shared, and the entire process is very secure!
 
-First, you need to create your business account that will be linked to Meta, or select one of the already registered businesses. After selecting the option you need, simply click **""Continue""**.
+First, you need to create your business account that will be linked to Meta, or select one of the already registered businesses. After selecting the option you need, simply click **"Continue"**.
 
 At this stage, you will see a screen to configure the name and time zone of your WhatsApp Business Account (WABA) that is being created. Once this is set, your account on Meta's Cloud API will be ready. If you already have a WABA (WhatsApp Business API), it will appear, and you can select it.
 
-After this, you will be directed to the next page, where you will click on **""Continue to Step 2""**.
+After this, you will be directed to the next page, where you will click on **"Continue to Step 2"**.
 
 Starting step 2, you will create your WhatsApp Business profile. To do this, fill in the name field that will be displayed on your WhatsApp Business profile. If this name is different from your company’s legal name, it must be displayed in some way on your organization’s website. The display name must follow Meta’s guidelines and align with your business, especially if your account has already been previously verified ( [see here](https://www.facebook.com/business/help/338047025165344#display-name-guidelines) ).
 
-In this step, you will need to select the category that best represents your business. You can also add an optional description of your business. After completing this, click **""Continue to Step 3""**.
+In this step, you will need to select the category that best represents your business. You can also add an optional description of your business. After completing this, click **"Continue to Step 3"**.
 
 Once this is done, you'll see the screen to start step 3\. In this step, you need to verify your registered WhatsApp Business number. Simply enter your number and select the method by which you want to receive the verification code:
 
 Wait for the 6-digit code to arrive, and enter it on the next screen. Make sure your phone is easily accessible and ready to receive the code.
 
-Click ""verify"" and select OK on the screen that appears confirming that your number is ready to be used.
+Click "verify" and select OK on the screen that appears confirming that your number is ready to be used.
 
-If your business is already verified with Meta, the next step can only be completed after receiving an email from Meta confirming the acceptance of the display name. Once you receive the email, return to the platform to continue.If your business is not verified, you can proceed immediately!#### **Final step for integration**
+If your business is already verified with Meta, the next step can only be completed after receiving an email from Meta confirming the acceptance of the display name. Once you receive the email, return to the platform to continue.
+
+If your business is not verified, you can proceed immediately!
+
+#### Final step for integration
 
 With your account linked to Meta and your WhatsApp Business number verified, it’s now time to integrate them into the platform. The steps are quick and straightforward.
 
-Once you complete step 3 of the number verification and click **OK**, a new screen on the Weni Platform will appear. Simply click on **Create Channel**, as shown in the image:
+Once you complete step 3 of the number verification and click **OK**, a new screen on the VTEX CX Platform will appear. Simply click on **Create Channel**, as shown in the image:
 
-If at this point you notice any inconsistency, do not give up, start the process again and now it will be easier, because the information will already be filled, if you does not works, please contact our support: **suporte@weni.ai**Next, select the number that will be linked to whatsApp integration into the Weni Platform and that's it! Your new channel on the platform has already been created and you can use all the automation features.
+If at this point you notice any inconsistency, do not give up, start the process again and now it will be easier, because the information will already be filled, if you does not works, please contact our support: **suporte@weni.ai**Next, select the number that will be linked to whatsApp integration into the VTEX CX Platform and that's it! Your new channel on the platform has already been created and you can use all the automation features.
 
 ## Now your WhatsApp channel is integrated and ready to be customized!
 

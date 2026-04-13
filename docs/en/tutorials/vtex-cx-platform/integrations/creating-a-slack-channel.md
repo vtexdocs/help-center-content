@@ -25,15 +25,15 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 5. Walk the page down to the Scopes content block.
 
-6. For ""Bot Token Scopes"" add the scopes of `chat:write`, `files:read`, `files:write`, `users:read`. For ""User Token Scopes"" add the scopes of `files:read` and `files:write`
+6. For "Bot Token Scopes" add the scopes of `chat:write`, `files:read`, `files:write`, `users:read`. For "User Token Scopes" add the scopes of `files:read` and `files:write`
 
 7. Go up to the page until you find the `Install to Workspace` button and trigger it to install the bot app for your workspace.
 
-8. Copy the tokens ""User OAuth Token"" and ""Bot User OAuth Token"" to enter them into the channel creation form for the Slack bot on the Weni platform.
+8. Copy the tokens "User OAuth Token" and "Bot User OAuth Token" to enter them into the channel creation form for the Slack bot on the VTEX CX Platform.
 
 9. On the slack apps page, go to the Basic Information menu to copy the `Verification Token`.
 
-10. Go to **Applications > Discovery** and add the Slack app. After adding the app, you will be able to fill in the tokens.Once you have filled in all the fields in the form below—User OAuth Token, Bot User OAuth Token, and Verification Token—click the ""Save changes"" button to complete the process.
+10. Go to **Applications > Discovery** and add the Slack app. After adding the app, you will be able to fill in the tokens.Once you have filled in all the fields in the form below—User OAuth Token, Bot User OAuth Token, and Verification Token—click the "Save changes" button to complete the process.
 
 11. After the registration form is complete, copy the URL that will appear on the created channel configuration screen.
 

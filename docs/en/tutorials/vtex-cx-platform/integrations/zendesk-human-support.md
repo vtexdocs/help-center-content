@@ -15,48 +15,45 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-The integration between the Weni platform and Zendesk provides a powerful tool for managing customer service efficiently and automatically. After completing the configuration and installation, it is essential to monitor the integration's operation to ensure that all tickets are managed correctly and that automatic triggers function as expected.
+The integration between the VTEX CX Platform and Zendesk provides a powerful tool for managing customer service efficiently and automatically. After completing the configuration and installation, it is essential to monitor the integration's operation to ensure that all tickets are managed correctly and that automatic triggers function as expected.
 
 ## Instructions
 
 1. Create an account on Zendesk
 
-If you don’t have an account yet, create one on Zendesk. For this example, we are using a free trial account. (https://weni5623\.zendesk.com/)
+If you don’t have an account yet, create one on Zendesk. For this example, we are using a free trial account. (https://weni5623.zendesk.com/)
 
 Access: <https://www.zendesk.com/>
 
-1. Access the Project on the Weni Platform
-   Within your project on the Weni platform, go to the **Applications > Other Apps** module.
+1. Access the Project on the VTEX CX Platform
+   Within your project on the VTEX CX Platform, go to the **Applications > Other Apps** module.
    Click on the hamburger menu and select **Add Ticketing Service**, choosing **Zendesk**.
-
-1. Fill in the Subdomain and Capture the Request URL
+2. Fill in the Subdomain and Capture the Request URL
    You will be asked to enter your subdomain. Before submitting it, press **F12** to open developer mode and go to the **Network** module.
 
--
-
-**Fill in the Subdomain**, which is the value before ""zendesk.com"" in the URL. Example: **weni5623** from https://weni5623\.zendesk.com/.
+- **Fill in the Subdomain**, which is the value before "zendesk.com" in the URL. Example: **weni5623** from https://weni5623.zendesk.com/.
 
 - When you click **Connect**, two new lines will appear in developer mode.
-- Click on the second line, where the **Request URL** will start with your subdomain, for example, https://weni5623\...
+- Click on the second line, where the **Request URL** will start with your subdomain, for example, https://weni5623...
 - Copy the entire URL and open it in another browser tab.
 
-1. Authorize the Use of the Application
+3. Authorize the use of the application
 
 Authorize the use of the application in your Zendesk account.
 
 - After authorization, a step-by-step guide will be displayed to continue.
 - Save the secret that is shown, as it will be needed in the following steps.
 
-1. Install the Weni Application in Zendesk
-   Access the [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) and install the **Weni** application.
+1. Install the VTEX CX Platform Application in Zendesk
+   Access the [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) and install the **VTEX CX Platform** (Weni) application.
 
-If the Weni app is already installed in Zendesk, there is no need to reinstall it. Proceed to the next step to **add account.**
+If the VTEX CX Platform app is already installed in Zendesk, there is no need to reinstall it. Proceed to the next step to **add account.**
 
 1. Configure the Integration in Zendesk
 
 Your account settings are now in the **Admin Center**. Go to the **Admin Center**.
 
-In **Apps and Integrations**, add the **Weni** app from the Marketplace if you haven’t done so already.
+In **Apps and Integrations**, add the **VTEX CX Platform** (Weni) app from the Marketplace if you haven’t done so already.
 
 After integrating, configure and save the information.
 
@@ -64,11 +61,11 @@ After integrating, configure and save the information.
 
 Assign a name to your integration/account and add the secret saved in **Step 5**.
 
-1. Verify the Connection on the Weni Platform
-   If all the steps have been followed correctly, under **Applications > Other Apps** on the Weni Platform, the service with Zendesk should appear as connected.
+1. Verify the Connection on the VTEX CX Platform
+   If all the steps have been followed correctly, under **Applications > Other Apps** on the VTEX CX Platform, the service with Zendesk should appear as connected.
 
-1. Use the ""Open a Ticket"" Card in the Flow
-   You can now use the **Open a Ticket** card in your flow on the Weni Platform.
+1. Use the "Open a Ticket" Card in the Flow
+   You can now use the **Open a Ticket** card in your flow on the VTEX CX Platform.
    See: [Creating Custom Fields](/en/docs/tutorials/adding-ticket-creation-fields-in-zendesk) .
 
 1. Set Up Triggers

@@ -26,4 +26,3 @@ Messages are sorted by date and color-coded according to their origin. In this s
 You can choose between a summarized view, showing only the conversations for quick analysis, or a detailed view with more information.
 
 When you click on the desired contact, a new screen will open where you can view the contact's history.
-

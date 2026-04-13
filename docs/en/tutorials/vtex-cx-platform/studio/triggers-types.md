@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-The keyword is the first word in a message and can be used to start the flow. For example, you can define a trigger using the ""keyword"" to start the flow and record contacts in your service.
+The keyword is the first word in a message and can be used to start the flow. For example, you can define a trigger using the "keyword" to start the flow and record contacts in your service.
 
-All steps described here will be performed on the **""Triggers""** tab, located within the **""Studio""** module.
+All steps described here will be performed on the **"Triggers"** tab, located within the **"Studio"** module.
 
 To facilitate navigation in this article, if you want to go directly to a specific trigger type, just click on its name below:
 
@@ -31,7 +31,7 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 ### To create a new keyword trigger
 
-- Click on the ""Create a keyword that starts a flow"" button
+- Click on the "Create a keyword that starts a flow" button
 
 - In a keyword, you can define a word to function as a keyword
 
@@ -49,77 +49,76 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 ### Creating a message keyword that allows people to join a group
 
-Using this trigger to add an entry contact to a group. This trigger is useful for managing contacts who want to disassociate a group using the keywords ""stop"" or ""freeze a record"".
+Using this trigger to add an entry contact to a group. This trigger is useful for managing contacts who want to disassociate a group using the keywords "stop" or "freeze a record".
 
 **To create a trigger with a keyword that links contacts to a group:**
 
-- Click the ""Create a message keyword that allows people to join a group"" button:
+- Click the "Create a message keyword that allows people to join a group" button:
 
-- Enter a keyword in ""Associate a keyword""
+- Enter a keyword in "Associate a keyword"
 
-- Choose the group you would like to add your contacts to in ""Group to join""
+- Choose the group you would like to add your contacts to in "Group to join"
 
-- Optional: In ""Reply"", you can choose a message to send
+- Optional: In "Reply", you can choose a message to send
 
-- Under ""Flow"", you can choose which flow to start
+- Under "Flow", you can choose which flow to start
 
 ### Start a flow after receiving an unhandled message elsewhere
 
 Use this trigger to start a stream after receiving an uncaught message (the message is not handled elsewhere for other triggers). This trigger can be used for messages that have not been handled for an information flow that explains your service and leads you to the flow.
 
-- Click on the button ""Start a stream after receiving an untreated message elsewhere""
+- Click on the button "Start a stream after receiving an untreated message elsewhere"
 
-- Under ""Flow"", you can choose which flow to start
+- Under "Flow", you can choose which flow to start
 
-- In ""Groups only"", you can choose the groups in which the trigger will be applied. If you leave the field empty, the trigger will be applied to all contacts
+- In "Groups only", you can choose the groups in which the trigger will be applied. If you leave the field empty, the trigger will be applied to all contacts
 
-- Click on ""Create Trigger""
+- Click on "Create Trigger"
 
 ### Start a flow in the future or on schedule
 
 Use this trigger to schedule a flow at a time in the future, repeat it daily, weekly or monthly. To start the flow in the future or on a scheduled basis:
 
-- Click the ""Start a stream in the future or on a schedule"" button:
+- Click the "Start a stream in the future or on a schedule" button:
 
 - Choose the stream you want to start, to which contacts or groups the stream will be transmitted:
 
 - Optional: you can choose to repeat the flow daily, weekly or monthly
 
-- Click on the ""Create Trigger"" box
+- Click on the "Create Trigger" box
 
 ### Start a flow after receiving a call
 
-- Click the ""Create a stream after receiving a call"" button:
+- Click the "Create a stream after receiving a call" button:
 
-- Under ""Flow"", you can choose which flow to start
+- Under "Flow", you can choose which flow to start
 
-- In ""Groups only"", you can choose the group (s) in which the trigger will be applied
+- In "Groups only", you can choose the group (s) in which the trigger will be applied
 
 - if you leave the field empty, the trigger will be applied to all contacts
 
-- Click on ""Create trigger"".
+- Click on "Create trigger".
 
 ### Start a flow after a missed call
 
 Use this trigger after a missed call.
 
-- Click the ""Start a flow after a missed call"" button
+- Click the "Start a flow after a missed call" button
 
-- Under ""Flow"", you can choose which flow to start
+- Under "Flow", you can choose which flow to start
 
-- Click on ""Create Trigger""
+- Click on "Create Trigger"
 
 ### Start a flow after closing a ticket with a human agent
 
-Use this trigger to initiate the flow for closing human support in Weni Chats.
+Use this trigger to initiate the flow for closing human support in VTEX CX Platform Chats.
 
-- Click on the ""Start a flow after a ticket is closed"" button:
+- Click on the "Start a flow after a ticket is closed" button:
 
-- In ""Flow,"" you can choose which flow will be initiated
+- In "Flow," you can choose which flow will be initiated
 
-- In ""Only groups,"" you can select the group(s) where the trigger will or will not be included
+- In "Only groups," you can select the group(s) where the trigger will or will not be included
 
 - if you leave this field blank, the trigger will be applied to all contacts
 
-- Click ""Create Trigger.""
-
+- Click "Create Trigger."
