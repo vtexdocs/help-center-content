@@ -31,7 +31,9 @@ After you receive approval from your developer account, Twitter will send you a 
 
 3. Now you need to create the keys and tokens for your application, which you need when creating your channel. Go back to your app and select the Keys and Tokens tab. Click Regenerate for the Consumer API Keys and Access token & access token secret sections. Keys and tokens must be generated with the "Read, write, and direct messages" permissions.
 
-Make sure your account is enabled to receive direct messages from anyone. You can do this in Twitter's security/privacy settings.##### Connecting with VTEX CX Platform Plataform
+Make sure your account is enabled to receive direct messages from anyone. You can do this in Twitter's security/privacy settings.
+
+##### Connecting with VTEX CX Platform
 
 4. To create the channel on the platform, go to your project, enter **Applications > Discovery** in the **Communication Channels** section, and add it by clicking the "+".
 

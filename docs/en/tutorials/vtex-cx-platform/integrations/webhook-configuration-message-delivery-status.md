@@ -19,7 +19,9 @@ To receive information on the delivery and viewing **status of messages sent by 
 
 This webhook service will function as follows: **Whenever a message is sent, received, or read, the webhook will trigger a notification to an external service (URL) that can process this data.**
 
-Data processing is not done within the VTEX CX Platform but instead in your external service, following the created processing setup.#### What is an external service, and which one should I use?
+Data processing is not done within the VTEX CX Platform but instead in your external service, following the created processing setup.
+
+#### What is an external service, and which one should I use?
 
 There are various external services, and they act as a cloud infrastructure that stores code to perform specific actions. You can choose which service to use: [Back4app](https://www.back4app.com/#), [Pipedream](https://pipedream.com/), or others.
 
