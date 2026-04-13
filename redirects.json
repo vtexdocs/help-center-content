@@ -10269,11 +10269,11 @@
       },
       {
         "from": "/tutorial/attribute-and-test-agents-on-agent-builder",
-        "to": "/en/docs/tutorials/assigning-and-testing-agents"
+        "to": "/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder"
       },
       {
         "from": "/tutorial/weni-by-vtexs-official-agents",
-        "to": "/en/docs/tutorials/official-agents-from-weni-by-vtex"
+        "to": "/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform"
       },
       {
         "from": "/announcements/nova-api-do-master-data-aumenta-flexibilidade-de-configuracao",
@@ -12892,6 +12892,10 @@
     {
       "from": "/es/docs/tutorials/promocoes-do-mercado-livre",
       "to": "/es/docs/tutorials/central-de-promociones-mercado-libre"
+    },
+    {
+      "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
+      "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
     }
     ]
   }

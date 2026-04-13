@@ -13,6 +13,9 @@ locale: es
 legacySlug: vtex-io-apps-fin-del-soporte-tecnico-para-aplicaciones-heredadas
 announcementImageID: 'undefined'
 announcementSynopsisES: 'VTEX ya no ofrece soporte para aplicaciones heredadas.'
+tags:
+  - Descontinuación
+  - Storefront
 ---
 
 Como parte de nuestro compromiso con la mejora continua del desempeño de la plataforma, el soporte para algunas aplicaciones heredadas y de terceros será oficialmente descontinuado. VTEX dejará de ofrecer actualizaciones, parches de seguridad y soporte técnico para estas aplicaciones.

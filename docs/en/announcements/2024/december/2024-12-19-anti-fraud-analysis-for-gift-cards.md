@@ -13,6 +13,9 @@ locale: en
 legacySlug: anti-fraud-analysis-for-gift-cards
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Enable anti-fraud analysis on gift card transactions in your store'
+tags:
+  - Improvement
+  - Payments
 ---
 
 VTEX has implemented fraud analysis features for purchases made using [gift cards](/en/docs/tutorials/gift-card) to improve payment operations on the platform.

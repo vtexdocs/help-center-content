@@ -13,6 +13,9 @@ locale: en
 legacySlug: coupon-usage-limit-changed
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Coupon usage limit now counts total uses in the store, not the number of products per order.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 We’ve updated the way [coupon](/en/docs/tutorials/creating-a-coupon-beta) usage limit is applied in promotions. After September 12, 2025, the coupon limit setting will be based on total uses in the store, not on the number of products across purchases.

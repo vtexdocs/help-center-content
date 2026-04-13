@@ -1,5 +1,5 @@
 ---
-title: 'Associate a SKU to a trade policy'
+title: 'Associate a SKU to a sales channel'
 id: 1qFAiybogHCStRO65sy4vb
 status: PUBLISHED
 createdAt: 2021-03-30T17:18:09.088Z
@@ -15,18 +15,18 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ This tutorial explains how to assign **existing SKUs** to a given [trade policy](/en/docs/tutorials/creating-a-trade-policy). To add a new SKU, please read the tutorial [Adding SKUs](/en/docs/tracks/adding-skus).
+> ⚠️ This tutorial explains how to assign **existing SKUs** to a given [sales channel](/en/docs/tutorials/creating-a-trade-policy). To add a new SKU, please read the tutorial [Adding SKUs](/en/docs/tracks/adding-skus).
 
-You can associate an SKU with one or more trade policies on the configuration page of each SKU.
+You can associate an SKU with one or more sales channels on the configuration page of each SKU.
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Then click on **All products**.
 3. Find the SKU you want to edit.
 4. On the right side of the screen, click on the `Update` button of the SKU you want to edit.
-5. On the form, go to the **Trade policies** field.
-6. Mark the checkbox of the trade policy for B2B.
+5. On the form, go to the **Sales channels** field.
+6. Mark the checkbox of the sales channel for B2B.
 7. At the bottom of the page, click on the `Save` button to save changes.
 
-> ⚠️ If no specific trade policy is selected on the SKU configuration, all trade policies will have access to the SKU.
+> ⚠️ If no specific sales channel is selected on the SKU configuration, all sales channels will have access to the SKU.
 
-Every change made to an SKU takes time to be processed, including associating it with trade policies. This period is called re-indexing. Learn more in the article [How indexing works](/en/docs/tutorials/understanding-how-indexation-works).
+Every change made to an SKU takes time to be processed, including associating it with sales channels. This period is called re-indexing. Learn more in the article [How indexing works](/en/docs/tutorials/understanding-how-indexation-works).

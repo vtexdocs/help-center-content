@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-rules-in-promotion-forms
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New checks in promotion forms increase accuracy, reduce errors, and result in better rules.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 We've improved the promotion forms to provide greater configuration accuracy and consistency and reduce errors. The main changes include adjustments to character limits, new condition rules, and restrictions for progressive discounts and Buy Together promotions.

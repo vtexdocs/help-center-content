@@ -134,7 +134,7 @@ Nesta seção, você define os critérios que precisam ser atendidos para que a 
 
 > ℹ️ Essa condição não se aplica a pagamentos via boleto, vale-presente ou pedidos com mais de um meio de pagamento.
 
-- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).
+- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium).
 
 **Defina os parâmetros abaixo, se necessário:**
 

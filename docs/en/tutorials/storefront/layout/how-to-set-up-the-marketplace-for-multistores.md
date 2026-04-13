@@ -23,11 +23,11 @@ Integrations is the VTEX module that performs the integration between your store
 
 In a scenario of __multistores__, this concept is of fundamental importance. For example, if your account has three stores, it means that each store can have its own Integrations. So it's necessary to make some settings so that Integrations correctly reads the information of each store that exists in your account.
 
-In order for your products to be sent to the marketplace, the trade policy being used needs to be linked to the website binding. Follow the steps below to perform the setup correctly:
+In order for your products to be sent to the marketplace, the sales channel being used needs to be linked to the website binding. Follow the steps below to perform the setup correctly:
 
 1. In the VTEX Admin, access **Storefront > Layout**
 2. Click the __CMS__ folder, and then click __Sites and Channels__.
 3. Click the website.
-4. [Link an account name and the trade policies you want](/en/docs/tutorials/linking-an-account-name-to-a-website-binding) to this website.
+4. [Link an account name and the sales channels you want](/en/docs/tutorials/linking-an-account-name-to-a-website-binding) to this website.
 
-The trade policies configured in the steps above will be available for the Integrations of this particular store. Now, just access the Integrations with the account name of this store (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) and [set it up](/en/tutorial/integrating-with-marketplace).
+The sales channels configured in the steps above will be available for the Integrations of this particular store. Now, just access the Integrations with the account name of this store (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) and [set it up](/en/tutorial/integrating-with-marketplace).

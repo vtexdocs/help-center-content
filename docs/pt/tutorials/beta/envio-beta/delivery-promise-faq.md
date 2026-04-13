@@ -31,7 +31,7 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 
 ## 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
 
-Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
+A **Delivery Promise (Beta)** exibe produtos apenas quando todos os [requisitos de exibição](#1-quais-sao-os-requisitos-para-o-produto-aparecer-na-vitrine) estão corretamente configurados. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ## 3. Com relação ao estoque do produto, como posso garantir que ele vai aparecer na vitrine?
 
@@ -43,7 +43,7 @@ Existem três formas pelas quais isso pode ser feito:
 
 ## 4. Para utilizar a Delivery Promise (Beta), preciso solicitar a localização do cliente?
 
-O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
+Sim. O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
 
 * O endereço do cliente é capturado automaticamente quando ele aceita o plugin do navegador para compartilhar sua localização.
 * Caso o navegador não tenha o plugin mencionado ou o cliente se recuse a compartilhar sua localização, a inferência do endereço será feita com base no endereço IP do dispositivo do cliente.
@@ -61,7 +61,7 @@ Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armaz
 
 ## 6. Onde devo configurar quais lojas atendem a determinados CEPs?
 
-Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua sendo feita nas [planilhas de frete](/pt/docs/tutorials/planilha-de-frete) das [políticas de envio](/pt/docs/tutorials/politica-de-envio) dos sellers.
+Essa configuração deve ser feita nas [planilhas de frete](/pt/docs/tutorials/planilha-de-frete) das [políticas de envio](/pt/docs/tutorials/politica-de-envio) dos sellers.
 
 ## 7. O que acontece com quem usa a funcionalidade Regionalização? 
 
@@ -69,12 +69,14 @@ A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [
 
 ## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
 
-Na fase atual do beta, não haverá filtros do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+Não. A versão beta da **Delivery Promise** não oferece filtros do tipo frete grátis. Os filtros disponíveis incluem: prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
 
 ## 9. Posso não utilizar a Delivery Promise (Beta)?
 
-Usar ou não a **Delivery Promise (Beta)** é sua escolha. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). Entretanto, a melhor experiência de compra para o cliente com a vitrine de loja é obtida com a **Delivery Promise (Beta)**, sendo esta, portanto, a recomendação da VTEX.
+Sim. O uso da funcionalidade é opcional. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). 
+
+No entanto, a VTEX recomenda o uso da **Delivery Promise (Beta)** para oferecer uma melhor experiência de compra.
 
 ## 10. Os filtros do Delivery Promise (Beta) se aplicam a sellers externos?
 
-A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
+Sim. A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.

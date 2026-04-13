@@ -13,6 +13,9 @@ locale: en
 legacySlug: improvements-to-unified-search-in-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisEN: "We've improved the VTEX Sales App's unified search to enhance user experience when browsing and searching for products."
+tags:
+  - Improvement
+  - VTEX Sales App
 ---
 
 We have enhanced the unified search in VTEX Sales App to improve user experience when browsing and searching for products.

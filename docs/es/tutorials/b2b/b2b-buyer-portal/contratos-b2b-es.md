@@ -10,9 +10,9 @@ locale: es
 
 Un contrato establece las condiciones comerciales entre un cliente B2B y su tienda. Además, centraliza la gestión de acuerdos de compra, definiendo los productos a los que pueden acceder los compradores, los precios que se les aplican y los métodos de pago que pueden utilizar.
 
-> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente está disponible para cuentas seleccionadas.
 
-Los contratos se almacenan en la entidad de datos `CL` de [Master Data v1](https://help.vtex.com/pt/docs/tutorials/master-data). Esta es la misma entidad que almacena los datos de compradores en escenarios B2C, pero en contratos B2B se ajusta a especificaciones que habilitan la funcionalidad del B2B Buyer Portal.
+Los contratos se almacenan en la entidad de datos `CL` de [Master Data v1](https://help.vtex.com/pt/docs/tutorials/master-data). Esta es la misma entidad que almacena los datos de compradores en escenarios B2C, pero en contratos B2B se ajusta a especificaciones que habilitan la funcionalidad del [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es).
 
 ## Datos
 

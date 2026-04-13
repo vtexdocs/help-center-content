@@ -13,6 +13,9 @@ locale: pt
 legacySlug: guias-de-troubleshooting-sua-nova-experiencia-de-autoatendimento-na-vtex
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Resolva problemas com mais rapidez e autonomia com nossos guias de troubleshooting reformulados.'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 A VTEX está em constante evolução para melhorar a experiência de suporte ao cliente e capacitá-lo a resolver problemas com mais eficiência e autonomia. 

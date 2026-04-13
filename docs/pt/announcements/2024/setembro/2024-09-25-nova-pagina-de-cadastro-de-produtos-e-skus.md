@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-pagina-de-cadastro-de-produtos-e-skus
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Confira as melhorias na experiência de cadastro, visualização e edição de produtos e SKUs.'
+tags:
+  - Nova funcionalidade
+  - Catálogo
 ---
 
 A página de detalhes de produtos e SKUs foi reformulada para melhorar a sua experiência de cadastro, visualização e edição de produtos e SKUs. A nova página está disponível em beta.

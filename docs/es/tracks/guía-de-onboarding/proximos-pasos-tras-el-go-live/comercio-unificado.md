@@ -15,8 +15,6 @@ trackSlugEN: proximos-pasos-tras-el-go-live
 order: 2
 ---
 
-# Comercio unificado
-
 El [comercio unificado](/es/docs/tracks/comercio-unificado-101) es una evolución del omnichannel. Además de compartir datos, en esta estrategia también se unifica el sistema de procesamiento y gestión de pedidos. Esto significa que los canales de la tienda no solo pueden ver cualquier pedido realizado en otro canal de ventas, sino también procesarlo. A medida que la interconectividad aumenta, puede ser muy estratégico para el negocio operar con cuentas franquicia y [sellers white label](/es/docs/tutorials/seller-white-label).
 
 ## Cuentas franquicia y sellers white label

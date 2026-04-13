@@ -26,5 +26,5 @@ With your account name setted and at least one store name created (each account 
 
 All you have to do is create a [web site](/en/docs/tutorials/how-to-create-a-web-site) for it and perform what we call [binding](/en/docs/tutorials/what-is-binding). 
 
-This process is nothing more than establishing a link between a web site, a __store name__ and a trade policy. It is essential to make your store available.
+This process is nothing more than establishing a link between a web site, a __store name__ and a sales channel. It is essential to make your store available.
 

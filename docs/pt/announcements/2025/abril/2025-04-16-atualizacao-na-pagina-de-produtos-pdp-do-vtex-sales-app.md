@@ -13,6 +13,9 @@ locale: pt
 legacySlug: atualizacao-na-pagina-de-produtos-pdp-do-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Melhorias na Página de Produtos (PDP) do VTEX Sales App: navegação otimizada, promoções e personalização.'
+tags:
+  - Melhoria
+  - VTEX Sales App
 ---
 
 Atualizamos a Página de Produto (PDP) do [VTEX Sales App](/pt/docs/tracks/vtex-sales-app-usando-o-app) para melhorar a experiência de navegação, facilitar a exibição de informações e otimizar funcionalidades.

@@ -15,6 +15,8 @@ trackSlugEN: vtex-sales-app-payments
 order: 6
 ---
 
+> ℹ️ Os meios de pagamentos (como PIX ou cartão de crédito) são habilitados ao realizar o onboarding do **VTEX Sales App**, e os IDs desses meios de pagamento são automaticamente implementados no arquivo `checkout-instore-custom.js`. Se a loja customiza o `checkout-instore-custom.js`, as configurações iniciais são sobrescritas. Porém, se é feito um novo onboarding, as configurações de onboarding sobrescrevem as customizações no `checkout-instore-custom.js`.
+
 Após configurar os meios de pagamento da sua loja, é preciso criar filtros para disponibilizá-los para os clientes no checkout do **VTEX Sales App**.
 
 Para isso, será necessário incluir um bloco de código JavaScript no arquivo `checkout-instore-custom.js` da sua loja. O passo a passo completo está disponível no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).

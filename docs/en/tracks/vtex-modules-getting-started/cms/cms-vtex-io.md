@@ -38,7 +38,7 @@ With an intuitive interface in the VTEX Admin, Site Editor reflects the blocks d
 
 Stores developed using Store Framework must also configure the [store binding](/en/docs/tutorials/what-is-cms-layout#binding) via the **[Sites and channels](/en/docs/tutorials/what-is-cms-layout#sites-and-channels)** folder in the **Layout** section of the VTEX Admin.
 
-Binding is the process of linking your website to a store. For more details, see the article [Linking a store to a folder structure in CMS (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding).
+Binding is the process of linking your website to a store. For more details, see the article [Linking a store to a folder structure in CMS (binding)](/en/docs/tutorials/linking-an-account-name-to-a-website-binding).
 
 ![layout-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_2.png)
 

@@ -60,12 +60,12 @@ Select one of the following options for applying the promotion:
 
 For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
-### Trade policies
-In the right-hand corner of the page, in the section **Trade policies**, select the trade policies valid for the discount. You can give discounts for trade policies when [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
+### Sales channels
+In the right-hand corner of the page, in the section **Sales channels**, select the sales channels valid for the discount. You can give discounts for sales channels when [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
 
 You can choose from the following options:
 
-- **All:** Select this option to apply the promotion to all trade policies without any restrictions. All products, regardless of the associated trade policy, will be included in the promotion.
+- **All:** Select this option to apply the promotion to all sales channels without any restrictions. All products, regardless of the associated sales channel, will be included in the promotion.
 - **Equal to**: This option allows you to determine the policies that will apply to the products eligible for the discount.
 - **Different from:** This option removes specific policies, ensuring the discount is not applied to products that use those business rules.
 

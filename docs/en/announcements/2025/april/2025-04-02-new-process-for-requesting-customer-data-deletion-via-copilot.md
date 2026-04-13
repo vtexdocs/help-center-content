@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-process-for-requesting-customer-data-deletion-via-copilot
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Starting April 9, merchants will be able to request customer data deletion directly via Copilot.'
+tags:
+  - Improvement
+  - Identity
 ---
 
 Starting **April 09, 2025**, merchants will be able to request the deletion of customer personal data directly through Copilot. This new feature was developed to simplify and streamline deletion requests, while keeping compliance with the Brazilian General Data Protection Law (LGPD) and the EU's General Data Protection Regulation (GDPR).
