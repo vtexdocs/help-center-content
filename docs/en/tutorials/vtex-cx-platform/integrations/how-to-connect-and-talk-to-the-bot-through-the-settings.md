@@ -21,22 +21,14 @@ To add channels to your account, you must:
 
 1. In your project: **Apps > Other Applications > Add Channel**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_1.png)
-
 2. A new window will open where you can choose the type of channel you want to integrate.
 3. After that, you can review all available channels for connection.
 
 **Call and SMS providers:**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_2.gif)
-
 **Social Networks:**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_3.gif)
-
 **APIs:**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_4.PNG)
 
 Choose the channels you want to use and integrate.
 

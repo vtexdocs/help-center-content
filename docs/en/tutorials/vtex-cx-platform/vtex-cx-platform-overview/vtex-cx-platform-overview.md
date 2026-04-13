@@ -65,16 +65,10 @@ Below, you will learn how to manage your account on Weni.
 #### Edit Profile
 To access the Profile page, go to the home page and click the icon in the top right corner of the screen.
 
-![Profile menu icon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_1.png)
-
 By clicking the icon on the left, select **Profile**. In this section, you can edit your **first name**, **last name**, and **contact** information, as well as change your password if necessary. You can also upload a **profile picture**. Enter your changes and click **Save Changes**, and the information will be updated.
-
-![Profile edit form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_2.png)
 
 #### Tap password
 To change your Weni account password, follow the steps below:
-
-![Change password section](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_3.png)
 
 1. Go to the Profile page
 2. Click New password
@@ -85,10 +79,6 @@ You can also reset your password!
 
 Go to the home page > Forgot Password and enter your email.
 
-![Forgot password page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_4.png)
-
-![Reset email sent](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_5.png)
-
 > Note: An email will be sent, and you will be able to change your password.
 
 ### Permission System
@@ -97,24 +87,16 @@ Within the Weni platform, you can manage different permissions for each user, di
 #### Organization Permissions
 These permissions can be set during the organization creation stage or at any time by using the icon located in the upper right corner within the organization. The organization permissions will apply to all projects within it.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_1.png)
-
 Currently, there are 3 types of permissions:
 
 - **Administrator**: Has full access to the platform and permission to add new members.
 - **Financial**: Has access only to the billing area.
 - **Contributor**: Has permission to create new projects and edit content.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_2.png)
-
 #### Project Permissions
 It is also possible to assign permissions to a specific project, without granting access to the entire organization. To access these options, simply click on the "Manage Members" option located in the upper right corner of the specific project.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_3.png)
-
 A new screen will open, displaying all the project's collaborators. Here, you can add, remove, and change the permissions of each project member individually.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/weni-permission-system_4.png)
 
 In total, we have 4 permissions, divided into 2 groups:
 
@@ -132,11 +114,7 @@ In total, we have 4 permissions, divided into 2 groups:
 
 During the registration and login step, you already created your first organization and project. To add a new organization, simply click on "Create Organization" button.
 
-![Create Organization](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_1.png)
-
 Here, you will need to enter the following information:
-
-![Organization Form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_2.png)
 
 1. Organization Name: This will be the name that appears on the home screen.
 2. Description: A brief description of your team and activities.
@@ -144,8 +122,6 @@ Here, you will need to enter the following information:
 4. Next
 
 After filling in the fields above, click the "Next" button and proceed to the next step to create your project. You can choose between creating a custom agent or using a template. To start by creating an agent, simply fill in the following fields:
-
-![Agent Creation Form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_3.png)
 
 1. Agent Name;
 2. Goal;
@@ -157,11 +133,7 @@ After filling in the fields above, click the "Next" button and proceed to the ne
 
 **Templates** are pre-built flows with specific purposes, divided into three categories: support, integrations, and sales. When you click on any of the cards related to a template category, a pop-up will appear detailing its general use.
 
-![Templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_4.png)
-
 Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created. See the image:
-
-![Project Created](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_5.png)
 
 After following the steps to create an organization and project, you can start **adding your team** by configuring permissions.
 
@@ -171,15 +143,9 @@ After following the steps to create an organization and project, you can start *
 
 Add members to your organization by clicking the dropdown menu and then "Manage Members." See the image:
 
-![Manage Members](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_6.png)
-
 (1)Enter the email of the person you wish to invite and click "Add" (1). Set the permission (2) for each person as needed. Once you're done, you can click the "Add" button.
 
-![Add Members](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_7.png)
-
 The members you add will receive an invitation email to join the organization. See the image:
-
-![Invitation Email](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/create-project_8.png)
 
 > **Note:** To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
 
@@ -191,11 +157,7 @@ Currently, the platform is available in Portuguese, English, and Spanish. In thi
 
 1. When you log into the platform, click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/changing-the-platform-language_1.png)
-
 2. Within the project screen, you can also change the platform's language. Simply click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/changing-the-platform-language_2.png)
 
 By following these steps, the interface should be updated to your preferred language. You may need to restart your browser or log out and back into the system.
 
@@ -207,31 +169,22 @@ Weni Platform allows you to enable two\-factor authentication (2FA) on your acco
 
 You can enable two\-factor authentication on your account by clicking on your profile picture in the upper right corner of the screen \> Account, as illustrated below:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/2-factor-authentication_1.png)
-
 On the account settings screen, select the ""Privacy and Security"" option, enable 2FA verification, and save.
 
 For authentication, Weni Platform uses the Microsoft Authenticator app. Download the app, then scan the QR code displayed on the screen with your phone’s camera (choose the iOS or Android option depending on your phone's operating system). Log out of the platform to validate the authentication.
 
 When you try to log in to Weni Platform again, you'll be asked to follow these steps:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/2-factor-authentication_2.png)
 - Open the app and scan the QR code shown on the screen;
 - Enter the one\-time code provided by the application;
 - Save to complete the authentication configuration.
 
 Great! If you get to this point two\-factor authentication is now enabled for use. Each time you attempt to log in to the platform, you will be prompted to submit the verification code shown in the Microsoft Authenticator application, as illustrated below:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/2-factor-authentication_3.PNG)
-
 ### 2 - Require Authentication for Your Organization
 
 To add an extra layer of security to your organization's projects and data, you can enable two\-factor authentication (2FA) for all users. This ensures that only users with 2FA enabled can access the organization. To do this, click the icon located on the right side of the organization's card and select ""Settings.""
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/2-factor-authentication_4.png)
-
 Within the settings, click on the ""Security"" tab, enable two\-factor authentication, and save.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/2-factor-authentication_5.png)
 
 All set! Your account and organization are now more secure! It's an extra boost for you and your company to unlock human potential.

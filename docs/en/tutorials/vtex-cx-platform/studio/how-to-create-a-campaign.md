@@ -23,21 +23,13 @@ The messages are sent following a pre-defined schedule, respecting a determined 
 
 - Go to the ""Campaigns"" option in the ""Studio"" module on the side menu
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/how-to-create-a-campaign_1.png)
-
 - Click on ""Create Campaign"" to start building your campaign
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/how-to-create-a-campaign_2.png)
-
 - Give a name for your campaign, choose a group to which the messages will be sent, and a new window will open.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/how-to-create-a-campaign_3.png)
 
 Each campaign can only operate with one group. Therefore, a new campaign is required for each group you wish to interact with.
 
 - Now, set the event rules by clicking the ""Add Event"" button, and a new window will appear
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/how-to-create-a-campaign_4.png)
 
 1. You can choose to send a message or select a flow.
 

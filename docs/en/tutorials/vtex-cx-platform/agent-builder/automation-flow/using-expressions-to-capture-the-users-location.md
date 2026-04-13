@@ -25,19 +25,13 @@ How to capture the location changes depending on the channel you are using on th
 
 To capture a user's location via the web channel, simply create a ""Send Message"" action letter with a ""Quick Reply"" with the prefix ""[Loc]"", so the user can reach that button, we can capture the location via browser. After that, simply save the result in the ""Wait for response"" decision letter.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/using-expressions-to-capture-the-users-location_1.png)
-
 The message received by the web channel will always begin with: ""My Location is:"", followed by the user's latitude and longitude in the format ""[latitude, longitude]"". To remove these prefixes, simply use the expression @(replace) and then separate the latitude and longitude values into different variables, using the @(split) expression to separate using the comma ("","") that separate them as a parameter.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/using-expressions-to-capture-the-users-location_2.png)
 
 ### Telegram channel
 
 To send the location via telegram, the user needs to click the button 📎, select ""Location"" and then ""Send my current location"".
 
 With this, simply create a ""Wait for response"" decision letter and save the value. The telegram sends the location in the format ""latitude, longitude"", not needing to do the process of using @(replace) to remove texts, only separate using split as in the web channel.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/using-expressions-to-capture-the-users-location_3.png)
 
 ### WhatsApp channel
 
@@ -46,7 +40,5 @@ To send the location via WhatsApp, the user needs to click the 📎 button or �
 Unlike other channels, the location via WhatsApp does not come as text, but as an attachment, so we need to access it using the variable: @input.attachments.0
 
 This variable is the location in the format ""geo: latitude, longitude"", so we need to use the expression @(replace) to remove the ""geo:"" and then use @(split) to separate latitude and longitude like the other channels.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/using-expressions-to-capture-the-users-location_4.png)
 
 This way, we are able to create a flow with support to capture the user's location across three different channels, using the expressions and variables available on the platform.",

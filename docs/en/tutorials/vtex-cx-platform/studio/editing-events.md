@@ -19,19 +19,11 @@ To edit when a message or flow will be sent, choose a different flow, or change 
 
 - Click on the ""Campaigns"" menu within the ""Studio"" module in the side menu and select the campaign containing the event you'd like to edit.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/editing-events_1.png)
-
 - To edit the Campaign name and group, click on the three-line menu and select ""Edit.""
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/editing-events_2.png)
 
 - To edit an event from the list of events within the Campaign, click on the event and a window will open.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/editing-events_3.png)
-
 - Click the ""Edit"" button in the top right corner of the screen.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/editing-events_4.png)
 
 - In the event update dialog box, you can make the following changes:Select the option to send a message or start a flow
 
@@ -40,7 +32,5 @@ To edit when a message or flow will be sent, choose a different flow, or change 
 - Next, choose an option for when the contact is already active in a flow
 
 - Then, set the time you want your event to start.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/editing-events_5.png)
 
 - Click ""Update Event"" to save the changes.

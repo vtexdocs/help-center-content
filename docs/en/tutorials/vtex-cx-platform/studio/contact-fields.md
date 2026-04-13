@@ -19,8 +19,6 @@ Contact fields are variables created on the platform where we store values about
 
 Regardless of the flow your contact is in, you can access these fields using the variable `@fields.field_name` or `@contact.fields.field_name`
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/contact-fields_1.png)
-
 Both variables mentioned above can point to the same contact field.
 
 ## How to create a field
@@ -29,11 +27,7 @@ To access this information, go to your project and click on the ""**Studio**"" m
 
 s\*\*"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/contact-fields_2.png)
-
 You will be directed to the contact fields management page, where you will find: all existing fields within your project, their written form as a variable, the type of value accepted, and how many times they have been used. To create a new field, simply click on ""Create Field.""
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/contact-fields_3.png)
 
 After that, simply:
 
@@ -42,7 +36,5 @@ After that, simply:
 - Select the type of value the field can store in the **Data Type** selection. The accepted value types are: Text, Number, Date & Time, State, District, and Division
 
 - Decide whether you want this field to appear in the contact page preview by selecting the **Highlight** checkbox.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/contact-fields_4.png)
 
 If you want to edit any information, simply click on the existing contact field, and the edit pop-up will open again.
