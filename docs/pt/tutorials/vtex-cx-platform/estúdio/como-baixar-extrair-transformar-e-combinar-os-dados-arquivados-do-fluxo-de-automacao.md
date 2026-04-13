@@ -1,5 +1,5 @@
 ---
-title: 'Como baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação'
+title: "Como baixar, extrair, transformar e combinar os dados arquivados do Fluxo de automação"
 id: 3fYq4fID5fMrm5BT2uVxG0
 status: PUBLISHED
 createdAt: 2025-09-12T17:09:16.264Z
@@ -19,9 +19,9 @@ Algo muito importante para você saber sobre a coleta de dados no VTEX CX Platfo
 
 ## Obtendo os arquivos através do Fluxo de automação
 
-É possível baixar esses dados arquivados acessando o painel de configurações. No final da página informará a quantidade de arquivos e seus registros, conforme imagem a seguir:
+É possível baixar esses dados arquivados acessando o painel de configurações. No final da página informará a quantidade de arquivos e seus registros.
 
-Você poderá acessar tanto o conteúdo da tabela **Messages** quanto o da tabela Runs. Para visualizar tanto um quanto outro, basta clicar no botão que está grifado em amarelo conforme imagem abaixo.
+Você poderá acessar tanto o conteúdo da tabela **Messages** quanto o da tabela Runs. Para visualizar tanto um quanto outro, basta clicar no botão que está grifado em amarelo.
 Os arquivos da tabela Messages virão com a inicial **message**. Para realizar o download dos arquivos, basta clicar no ícone grifado ao lado da data.
 
 Os arquivos da tabela Runs virão com a inicial **run**. Para realizar o download dos arquivos, basta clicar no ícone grifado ao lado da data.

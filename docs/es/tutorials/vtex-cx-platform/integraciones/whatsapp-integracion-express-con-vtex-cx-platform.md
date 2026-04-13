@@ -33,11 +33,11 @@ Aparecerá una ventana para continuar y, a continuación, un popup solicitando q
 
 Introduce tus credenciales de conexión con Facebook para continuar con la integración, recordando que debes ser administrador del **Business Manager** de tu empresa en Meta/Facebook.
 
-Sin embargo, si ya has iniciado sesión en la cuenta de Facebook que se utilizará, aparecerá un paso como se muestra en la imagen a continuación. Simplemente, haz clic en **Continuar**.
+Sin embargo, si ya has iniciado sesión en la cuenta de Facebook que se utilizará, aparecerá un paso. Simplemente, haz clic en **Continuar**.
 
 Ahora que has iniciado sesión en tu cuenta, simplemente continúa con los siguientes pasos.
 
-Como se muestra en la imagen a continuación, tendrás que completar los campos con la información de tu cuenta según lo desees.
+Tendrás que completar los campos con la información de tu cuenta según lo desees.
 
 Si no tienes una cuenta, podrás crearla durante este mismo proceso.
 

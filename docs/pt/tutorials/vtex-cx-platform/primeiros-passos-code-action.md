@@ -41,19 +41,19 @@ Caso opte por JSON, o retorno do seu código, será específico para retornos do
 
 Caso opte por HTML, o retorno do seu código, estará preparado para retornar um HTML
 
-Para realizar a criação do tipo JSON, você poderá encontrar uma requisição chamada **create code action \[python] -> json,** como segue na imagem abaixo.
+Para realizar a criação do tipo JSON, você poderá encontrar uma requisição chamada **create code action \[python] -> json,**.
 
-Para criar um código, como mostra na imagem acima, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token.**
+Para criar um código, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token.**
 
 - **project_uuid**
-  - Essa informação você conseguirá pegar na URL do seu projeto no [VTEX CX Platform](https://dash.weni.ai), como segue na imagem abaixo:
+  - Essa informação você conseguirá pegar na URL do seu projeto no [VTEX CX Platform](https://dash.weni.ai).
 
 - **code_name**
   - Essa informação deverá ser preenchido com o nome da sua preferência, de acordo com que for mais legível e didático.
 
 Após possuir essas informações, será importante que você crie seu código seguindo o padrão que você poderá ver em [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
 
-Logo em seguida, você poderá ir para o body, como segue na imagem abaixo e executar a requisição.
+Logo em seguida, você poderá ir para o body e executar a requisição.
 
 Coloque seu código dentro da parte de **raw** e o formato deverá ser **Text**. Após realizar a requisição, você deverá receber um retorno similar a este:
 
@@ -61,7 +61,7 @@ Esse ID será o identificador do seu código, salve-o em algum lugar, pois ele �
 
 ### Execução do código
 
-Para realizar a execução do código, será necessário pegar o ID do código que você criou na etapa anterior. Após isso você fará uma requisição passando o ID do seu código, como está na imagem abaixo:
+Para realizar a execução do código, será necessário pegar o ID do código que você criou na etapa anterior. Após isso você fará uma requisição passando o ID do seu código.
 
 Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: GET, POST, PUT, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
 

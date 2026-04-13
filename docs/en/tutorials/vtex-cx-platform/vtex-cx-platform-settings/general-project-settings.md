@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
-In this article, we will explain each option in the general settings that your organization will have on our platform. They have been numbered from 1 to 10 (see the image below) and are explained in detail. To access them, click on the side menu within your project.
+In this article, we will explain each option in the general settings that your organization will have on our platform. They have been numbered from 1 to 10 and are explained in detail. To access them, click on the side menu within your project.
 
 ## 1 - Settings
 

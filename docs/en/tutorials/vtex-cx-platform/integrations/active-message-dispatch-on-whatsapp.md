@@ -25,9 +25,9 @@ On the other hand, active dispatch occurs when the company takes the initiative 
 
 After the pre-approval of the Template Message, the conversational flow can begin to be built. The first step is to add the "Update Contact" card and choose the "Channel" option, as it will define which channel the dispatch will be sent from. At this stage, select your WhatsApp channel.
 
-The **second step** is to add the send message card. In the text box, simply enter the following expression: @(“”). See the image below:
+The **second step** is to add the send message card. In the text box, simply enter the following expression: @(“”).
 
-The above expression indicates that a Template Message will be sent and that this field will not be considered, as the message template to be sent to customers can be selected in the "WhatsApp" tab, located in the same "Send Message" card, as shown in the image above. By clicking on the "WhatsApp" tab, you can access the messages that have been pre-approved and select them for sending, as illustrated in the following image.
+The above expression indicates that a Template Message will be sent and that this field will not be considered, as the message template to be sent to customers can be selected in the "WhatsApp" tab, located in the same "Send Message" card. By clicking on the "WhatsApp" tab, you can access the messages that have been pre-approved and select them for sending.
 
 At this point, it is also possible to add variables that will make the message more personalized, such as the variable @contact.name, which addresses the user by the name registered in their own WhatsApp.
 
@@ -39,6 +39,6 @@ Finally, to check if everything went correctly, just access the "Studio" module,
 
 ## Triggering a flow through the studio module
 
-It is also possible to send a Template Message through the "Studio" module by selecting the contact to whom you want to send the message and clicking on the options menu located in the upper right corner. Then, simply select "Start in Flow," choose the flow, and send. This is another option that the VTEX CX Platform offers for performing active dispatch. See the image below:
+It is also possible to send a Template Message through the "Studio" module by selecting the contact to whom you want to send the message and clicking on the options menu located in the upper right corner. Then, simply select "Start in Flow," choose the flow, and send. This is another option that the VTEX CX Platform offers for performing active dispatch.
 
 The active dispatch process is the same for all communication channels; however, the creation of the Template Message is exclusive to the WhatsApp channel. This means that while the use of a Template Message is not necessary for other channels, on WhatsApp, it is only possible to send a message template (to initiate the flow). In the other channels, it is possible to send more than one message without prior limitations.

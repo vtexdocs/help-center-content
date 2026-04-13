@@ -58,7 +58,7 @@ O campo **HTTP Method** define como as mensagens serão enviadas ao serviço ext
 - **POST** – envia dados no corpo da requisição. Este é o método mais comum para integrações de mensagens.
 - **PUT** – semelhante ao POST, mas usado quando o serviço externo espera atualizações de recursos existentes.
 
-> **Nota:** ao escolher **POST** ou **PUT** você deve definir também o **Content-Type** (veja a seção 5). Para **GET** o campo Content-Type não é obrigatório.
+> ao escolher **POST** ou **PUT** você deve definir também o **Content-Type** (veja a seção 5). Para **GET** o campo Content-Type não é obrigatório.
 
 ## Codificação (Encoding)
 
@@ -80,7 +80,7 @@ O campo **Content type** informa ao serviço externo em qual formato os dados es
 | **JSON – application/json** | Formato JSON, recomendável para APIs modernas. |
 | **XML – text/xml; charset=utf-8** | Formato XML, utilizado em algumas integrações legadas. |
 
-> **Dica:** sempre verifique a documentação do serviço externo para saber qual Content-Type ele espera. Para APIs REST é comum utilizar application/json.
+> sempre verifique a documentação do serviço externo para saber qual Content-Type ele espera. Para APIs REST é comum utilizar application/json.
 
 ## Limite de caracteres (max_length)
 

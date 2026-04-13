@@ -33,7 +33,7 @@ Logo após aparecerá um *popup* solicitando uma conexão em sua conta de facebo
 
 Coloque suas credenciais de conexão com o Facebook para seguir com a conexão, lembrando que você deve ser administrador do gerenciador de negócios da sua empresa junto a Meta/Facebook.
 
-Porém, se você já estiver logado na conta que será utilizada no Facebook, aparecerá o passo conforme a imagem abaixo. Basta clicar em continuar.
+Porém, se você já estiver logado na conta que será utilizada no Facebook. Clique em continuar.
 
 Depois, basta seguir os passos que você será**direcionado para vincular a sua conta.**
 

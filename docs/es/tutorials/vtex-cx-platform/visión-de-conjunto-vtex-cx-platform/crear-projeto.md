@@ -35,7 +35,7 @@ Después de completar los campos anteriores, haga clic en el botón Avanzar y co
 
 Las plantillas son flujos predefinidos con fines específicos, y se dividen en tres categorías: soporte, integraciones y ventas. Al hacer clic en algunas de las tarjetas correspondientes a la categoría de plantilla, verá un pop-up que detalla su uso de manera general.
 
-Elija entre crear un agente personalizado o usar una plantilla para completar la última etapa de su proyecto. Dóris aparecerá en su pantalla, señalando que su proyecto se ha creado con éxito. Vea la imagen:
+Elija entre crear un agente personalizado o usar una plantilla para completar la última etapa de su proyecto. Dóris aparecerá en su pantalla, señalando que su proyecto se ha creado con éxito.
 
 Después de seguir los pasos para la creación de la organización y el proyecto, puede comenzar a incluir a su equipo configurando los permisos.
 
@@ -43,11 +43,11 @@ Después de seguir los pasos para la creación de la organización y el proyecto
 
 > Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).
 
-Agregue miembros a su organización haciendo clic en el menú desplegable y luego en Gestionar miembros, vea la imagen:
+Agregue miembros a su organización haciendo clic en el menú desplegable y luego en Gestionar miembros,
 
 Ingrese el correo electrónico de la persona que desea invitar y haga clic en agregar (1). Defina el permiso (2) de cada persona según sea necesario. Al finalizar, puede hacer clic en el botón Agregar.
 
-Los miembros que sean añadidos recibirán un correo electrónico de invitación para unirse a la organización, vea la imagen:
+Los miembros que sean añadidos recibirán un correo electrónico de invitación para unirse a la organización,
 
 > Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).
 

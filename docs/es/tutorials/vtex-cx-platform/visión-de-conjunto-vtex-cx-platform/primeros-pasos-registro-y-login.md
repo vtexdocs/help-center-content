@@ -19,9 +19,7 @@ Ilhasoft ofrece una plataforma intuitiva de fácil creación de chatbots intelig
 
 ## Primeros pasos
 
-Al accesar a la plataforma, usted visualizará una imagen de pantalla semejante a esta:
-
-En ella tendremos un boton para **login**, y un **campo para creación de cuenta**.
+Al accesar a la plataforma, tendremos un boton para **login**, y un **campo para creación de cuenta**.
 
 Caso usted **no tenga una cuenta**, inserte su email en el campo de **Criação de conta** e clique em "**Regístrate Gratis**". Serás redirigido a la siguiente página:
 
@@ -46,9 +44,7 @@ Después de elegir, podrás continuar
 
 ## Menus
 
-Después de estar debidamente registrado en su organización usted tendrá acceso a esta imagen de pantalla:
-
-Vamos a uma rápida explicación de cada menú:
+Después de estar debidamente registrado en su organización usted tendrá:
 
 1. Menú Principal de la organización: en el que gerenciará todas las configuraciones.
 2. Módulo de Insights: Módulo que permite explorar dashboards de análisis de datos dentro de la VTEX CX Platform.
