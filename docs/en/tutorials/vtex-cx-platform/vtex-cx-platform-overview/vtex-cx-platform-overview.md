@@ -79,9 +79,7 @@ To change your VTEX CX Platform account password, follow the steps below:
 
 #### Reset Password
 
-You can also reset your password!
-
-Go to the home page > Forgot Password and enter your email.
+You can also reset your password. Go to the home page > Forgot Password and enter your email.
 
 > Note: An email will be sent, and you will be able to change your password.
 

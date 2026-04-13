@@ -123,7 +123,7 @@ Você pode acessar esses valores de fluxo utilizando as variáveis da plataforma
 
 Por padrão, os nomes dos resultados serão sempre (Result + n) onde n é o número de resultados que existem no seu fluxo, porém, isso pode ser facilmente mudado no campo de Result name.
 
-Sempre mude o nome dos seus resultados de fluxo para nomes que você consiga entender de forma simples e intuitiva!
+Sempre mude o nome dos seus resultados de fluxo para nomes que você consiga entender de forma simples e intuitiva.
 
 ## Aguardar a resposta do contato
 

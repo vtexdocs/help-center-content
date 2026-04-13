@@ -41,7 +41,9 @@ Você também é uma vendedora das soluções da empresa, mas não compra nada d
 
 O campo base de conhecimento precisa ser preenchido com perguntas e respostas frequentes, podendo conter até **10 mil caracteres** de resumo do seu negócio. No caso de e-commerces, por exemplo, podem ser incluídos conteúdos como:
 
+```
 Bem-vinda ao nosso e-commerce de vestuário feminino! Aqui, você encontrará uma seleção variada de roupas femininas, desde peças casuais até looks elegantes para todas as ocasiões. Nossa coleção é cuidadosamente escolhida para atender a diferentes estilos e tamanhos. Trabalhamos com marcas reconhecidas, garantindo qualidade e conforto em cada peça. Navegue em nosso catálogo com facilidade e encontre vestidos, blusas, calças e acessórios modernos. Oferecemos uma experiência de compra segura, entrega rápida e suporte ao cliente eficiente. Sua satisfação é nossa prioridade, por isso temos uma política de troca e devolução simplificada. Renove seu guarda-roupa e sinta-se confiante com nossas roupas femininas. Obrigada por escolher nosso e-commerce, estamos aqui para tornar sua experiência única e agradável!
+```
 
 A base de conhecimento é o conjunto geral de conhecimento que o modelo possui e utiliza para entender e gerar respostas em geral.
 

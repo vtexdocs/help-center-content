@@ -59,7 +59,7 @@ Clique em Verificar e selecione OK na tela que irá aparecer confirmando que o s
 
 Caso a empresa **já possua verificação de negócios** junto a Meta a próxima etapa pode ser feita somente após recebimento de e-mail da Meta confirmando a aceitação do nome de exibição, logo que o e-mail for recebido, volte a plataforma para continuar.
 
-Caso contrário, pode continuar imediatamente!
+Caso contrário, pode continuar imediatamente.
 
 ### Passo final para integração
 

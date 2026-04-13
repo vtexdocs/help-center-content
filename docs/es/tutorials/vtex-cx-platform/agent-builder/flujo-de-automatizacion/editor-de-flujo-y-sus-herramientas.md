@@ -71,4 +71,4 @@ En esta parte del Editor de Flujos, encontrarás algunas herramientas que facili
 4. **Buscar:** Busca elementos dentro de las tarjetas, como el nombre de la tarjeta, el texto de un mensaje o el nombre de un resultado. Esta función se puede activar con las teclas Ctrl + F.
 5. **Zoom:** Permite aumentar o disminuir el zoom. Al hacer clic en la flecha hacia arriba, serás dirigido al inicio del flujo. Puede activarse con Ctrl + Scroll.
 
-Con esto, ahora usted puede crear sus flujos utilizando todos los recursos que nuestro editor puede ofrecer!
+Con esto, ahora puede crear sus flujos utilizando todos los recursos que ofrece el editor.

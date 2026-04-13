@@ -25,9 +25,9 @@ There are a few prerequisites for adding a WhatsApp number via the Express Integ
 2. The number should not be installed on another app or associated with any WhatsApp account (business or personal). If it is, you will need to delete the number from the app before starting the process. See how to delete it here.
 3. The number must be enabled by the carrier to receive a call or SMS, with the SIM card inserted in a phone ready to receive the verification code that will be sent during the channel integration process.
 
-## Now that these prerequisites are met, it's time to start the integration!
+## Starting the integration
 
-Within the project where the integration will take place, go to the **Applications** module, and in the **Discovery** tab, you will find the WhatsApp integration card. Click on the **\+** symbol to add the integration.
+Within the project where the integration will take place, go to the **Applications** module, and in the **Discovery** tab, you will find the WhatsApp integration card. Click on the `+` symbol to add the integration.
 
 Right after, a popup will appear requesting a connection to your Facebook account.
 
@@ -39,7 +39,7 @@ Then, just follow the steps to link your account.
 
 To begin, after logging into your Facebook account, simply click **"Get Started"** on the screen, and you will be redirected to the next page to continue the process.
 
-Accept the permissions, as they are necessary for VTEX CX Platform to access your WhatsApp Business account, enabling you to use our integrations. But don’t worry! No data will be shared, and the entire process is very secure!
+Accept the permissions, as they are necessary for VTEX CX Platform to access your WhatsApp Business account and enable the integrations. No data is shared, and the entire process is secure.
 
 First, you need to create your business account that will be linked to Meta, or select one of the already registered businesses. After selecting the option you need, simply click **"Continue"**.
 
@@ -59,7 +59,7 @@ Click "verify" and select OK on the screen that appears confirming that your num
 
 If your business is already verified with Meta, the next step can only be completed after receiving an email from Meta confirming the acceptance of the display name. Once you receive the email, return to the platform to continue.
 
-If your business is not verified, you can proceed immediately!
+If your business is not verified, you can proceed immediately.
 
 #### Final step for integration
 
@@ -69,7 +69,7 @@ Once you complete step 3 of the number verification and click **OK**, a new scre
 
 If at this point you notice any inconsistency, do not give up, start the process again and now it will be easier, because the information will already be filled, if you does not works, please contact our support: **suporte@weni.ai**Next, select the number that will be linked to whatsApp integration into the VTEX CX Platform and that's it! Your new channel on the platform has already been created and you can use all the automation features.
 
-## Now your WhatsApp channel is integrated and ready to be customized!
+## Customizing your WhatsApp channel
 
 Next, a card with your phone number will appear in the **My Apps** tab.
 

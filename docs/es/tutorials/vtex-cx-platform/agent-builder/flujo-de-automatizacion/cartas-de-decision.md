@@ -123,7 +123,7 @@ Puedes acceder a estos valores de flujo utilizando las variables de la plataform
 
 Por defecto, los nombres de los resultados serán siempre **(Result + n)** donde **n** es el número de resultados que existen en tu flujo, pero esto se puede cambiar fácilmente en el campo **Result name**.
 
-¡Siempre cambia el nombre de tus resultados de flujo por nombres que puedas entender de manera simple e intuitiva!
+Siempre cambia el nombre de tus resultados de flujo por nombres que puedas entender de manera simple e intuitiva.
 
 **Wait for the contact to respond**
 La primera y más utilizada de las cartas de decisión. Las rutas se deciden a partir del texto ingresado por un contacto. Además, tiene la opción de crear una ruta en caso de que el usuario no responda, marcando la casilla de selección en la parte inferior de la carta y eligiendo el tiempo de espera para la respuesta.

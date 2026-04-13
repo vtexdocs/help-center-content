@@ -30,4 +30,4 @@ Por padrão, a opção **Mensagem** vem marcada. Um fluxo que utiliza o método 
 Além disso, temos mais duas opções: **Chamada Telefônica** e **Pesquisador**.
 Um fluxo que utiliza o método Phone Call é um fluxo criado para ser utilizado em canais de ligação. Existem algumas cartas de ação e decisão especiais para esse tipo de fluxo, que você pode conhecer visitando o artigo sobre fluxos de ligação.
 
-Agora que você conhece as configurações, basta clicar em **Criar** e começar a criação do seu novo fluxo, devidamente configurado para a finalidade que você desejar!
+Agora que você conhece as configurações, clique em **Criar** e comece a criação do seu novo fluxo, devidamente configurado para a finalidade desejada.

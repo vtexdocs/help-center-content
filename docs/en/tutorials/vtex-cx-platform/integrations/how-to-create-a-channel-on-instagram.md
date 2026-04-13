@@ -34,9 +34,8 @@ To do this, do the following steps:
 1. Go to **settings**, find **Account type and tools**, tap **Switch to professional account**.
 
 2. Choose the category that best represents your business and select Company.
-3. Done, your account is business now!
 
-Now, connect your Instagram account to Facebook profile in account center:
+Your account is now set to business. Now, connect your Instagram account to Facebook profile in account center:
 
 1. Go to **Settings**.
 2. Go to **Accounts Center** by clicking "See more in Account Center"
@@ -89,4 +88,4 @@ After performing the settings indicated in the previous section we will now crea
 7. Confirm that you want to continue and give the necessary permissions so that you can manage your Instagram account through our platform.
 8. After you're done, the Facebook page will close and the pages you selected in the previous steps will appear on your screen, click the page you linked to your Instagram account in the previous section.
 
-Done, your channel's been created!
+Your channel has been created.

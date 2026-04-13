@@ -35,8 +35,6 @@ Para cambiar la contraseña de su cuenta en VTEX CX Platform, siga los siguiente
 
 ## Restablecer contraseña
 
-¡También puede restablecer su contraseña!
-
-Vaya a la página de inicio > Iniciar sesión > Olvidé mi contraseña e ingrese su correo electrónico.
+También puede restablecer su contraseña. Vaya a la página de inicio > Iniciar sesión > Olvidé mi contraseña e ingrese su correo electrónico.
 
 Un correo electrónico será enviado y podrás cambiar tu contraseña.

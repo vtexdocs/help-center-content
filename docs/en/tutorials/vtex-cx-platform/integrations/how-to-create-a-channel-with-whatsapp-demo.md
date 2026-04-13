@@ -22,6 +22,6 @@ VTEX CX Platform allows you to test the WhatsApp bot quickly and efficiently thr
 3. On the left sidebar, click on **Applications**. The following screen will appear:
 
 4. Select the **WhatsApp Demo** option and add the channel to your project by clicking on the **\+** icon.
-5. Next, choose between scanning the QR Code, copying the link, or opening a tab to be redirected to VTEX CX Platform's WhatsApp demo channel. Send your token, and you're ready to start chatting!
+5. Next, choose between scanning the QR Code, copying the link, or opening a tab to be redirected to VTEX CX Platform's WhatsApp demo channel. Send your token, and you are ready to start chatting.
 
 You can scan the QR Code or use the link to open WhatsApp Demo.

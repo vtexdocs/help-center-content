@@ -78,4 +78,4 @@ Nesta parte do Editor de Fluxos, você encontrará algumas ferramentas que facil
   4. **Busca:** Pesquise por elementos dentro dos cards, como o nome do card, o texto de uma mensagem ou o nome de um resultado. Esta função pode ser ativada com as teclas Ctrl + F.
   5. **Zoom:** Permite aumentar ou diminuir o zoom. Ao clicar na seta para cima, você será direcionado ao início do fluxo. Pode ser acionado com Ctrl + Scroll.
 
-Com isso, agora você pode criar os seus fluxos utilizando todos os recursos que nosso editor pode oferecer!
+Com isso, agora você pode criar seus fluxos utilizando todos os recursos que o editor oferece.
