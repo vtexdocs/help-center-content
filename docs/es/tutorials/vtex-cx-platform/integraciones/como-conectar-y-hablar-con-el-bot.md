@@ -20,10 +20,8 @@ Alcanzar al consumidor requiere un acceso multicanal. La **comunicación multica
 Para agregar canales a tu cuenta, debes:
 
 1. Acceder a tu proyecto y hacer clic en **Aplicaciones**.
-2. Dentro de **Aplicaciones** encontrarás un menú con los canales compatibles con la Plataforma Weni.
+2. Dentro de **Aplicaciones** encontrarás un menú con los canales compatibles con la VTEX CX Platform.
 3. Haz clic en el lugar indicado y sigue las instrucciones que aparecen en la ventana según el canal que hayas elegido.
-
- 
 
 4. Otra forma de agregar canales es haciendo clic en **Aplicaciones > Otras Aplicaciones > Botón Agregar Canal** y luego eligiendo el canal de tu preferencia.
 

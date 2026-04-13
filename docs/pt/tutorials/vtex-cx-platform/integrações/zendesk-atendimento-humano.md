@@ -43,10 +43,10 @@ Você será solicitado a inserir seu subdomínio. Antes de clicar no botão **Co
 - Salve o segredo que for mostrado, pois ele será necessário nas próximas etapas.
 
 1. Instale o Aplicativo VTEX CX Platform (Weni) no Zendesk
-   Acesse o [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) e instale o aplicativo **VTEX CX Platform**. Se você já possui o aplicativo da VTEX CX Platform instalado no Zendesk, não é necessário instalá-lo novamente. Pule para o próximo passo para **adicionar conta**.
+   Acesse o [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) e instale o aplicativo **VTEX CX Platform (Weni)**. Se você já possui o aplicativo do VTEX CX Platform (Weni) instalado no Zendesk, não é necessário instalá-lo novamente. Pule para o próximo passo para **adicionar conta**.
 2. Configure a Integração no Zendesk
    As configurações da sua conta agora estão no **Admin Center**. Acesse o **Admin Center**.
-   Em **Aplicativos e Integrações**, adicione o aplicativo **VTEX CX Platform** (Weni) do **Marketplace** se ainda não o fez.
+   Em **Aplicativos e Integrações**, adicione o aplicativo **VTEX CX Platform (Weni)** do **Marketplace** se ainda não o fez.
    Após a integração, configure e salve as informações.
 3. Clique em **Aplicativos de Canal >** Selecione o seu **Canal > Contas > Adicionar Conta**. Atribua um nome à sua integração/conta e adicione o **segredo** salvo na Etapa 5\.
 4. Verifique a Conexão no VTEX CX Platform Em **Aplicações > Outros Apps** no VTEX CX Platform, o serviço com o Zendesk deverá aparecer como conectado.

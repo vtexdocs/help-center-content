@@ -37,9 +37,11 @@ POST <https://google.com.br> Tipo de contenido: application/json Body: {""id""
 
 **Mensajes Entrantes**
 
-Cuando su servicio recibe un nuevo mensaje, debe notificarnos mediante un POST a la siguiente URL, pasando los parámetros 'from' y 'text'. Opcionalmente, los llamantes también pueden enviar un parámetro 'date' en formato ISO\-8601 (ej: 2012\-04\-23T18:25:43\.511Z) para especificar la hora en que se recibió el mensaje. Ejemplo:
+Cuando su servicio recibe un nuevo mensaje, debe notificarnos mediante un POST a la siguiente URL, pasando los parámetros 'from' y 'text'. Opcionalmente, los llamantes también pueden enviar un parámetro 'date' en formato ISO-8601 (ej: 2012-04-23T18:25:43.511Z) para especificar la hora en que se recibió el mensaje. Ejemplo:
 
-POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f\-9168\-4dd9\-a03e\-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from\=%2B250788123123\&text\=El\+amor\+es\+paciente.\+El\+amor\+es\+amable.\&date\=2012\-04\-23T18:25:43\.511Z
+```
+POST [https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive](https://rapidpro.ilhasoft.mobi/c/ex/a86f686f-9168-4dd9-a03e-77f11b265b56/receive) from=%2B250788123123&text=El+amor+es+paciente.+El+amor+es+amable.&date=2012-04-23T18:25:43.511Z
+```
 
 1. **API REST (API Externa)**
 
@@ -52,12 +54,12 @@ La plataforma se conecta fácilmente con muchos canales mediante una API HTTP, q
 
 1. **Conexión SMSC (Kannel)**
 
-En el caso de una conexión SMSC, es necesario conectarse a una Red Privada Virtual (VPN) por motivos de seguridad, y Weni guía este proceso para ayudar a los clientes a hacer estas conexiones de manera segura. Existen muchos protocolos que se pueden integrar, como SMPP, UCP/EMI y CIMD3, dependiendo de lo que el agregador de SMS proporcione para la integración de terceros. El primer paso de la integración depende del agregador de SMS, por lo que se requiere la siguiente información:
+En el caso de una conexión SMSC, es necesario conectarse a una Red Privada Virtual (VPN) por motivos de seguridad, y VTEX CX Platform guía este proceso para ayudar a los clientes a hacer estas conexiones de manera segura. Existen muchos protocolos que se pueden integrar, como SMPP, UCP/EMI y CIMD3, dependiendo de lo que el agregador de SMS proporcione para la integración de terceros. El primer paso de la integración depende del agregador de SMS, por lo que se requiere la siguiente información:
 
 - Documentación: la documentación necesaria para conectarse a la VPN del agregador, enviar y recibir mensajes a través de sus servicios;
 - Formulario de Red Privada Virtual (VPN): normalmente, el agregador de SMS tiene un formulario que requiere información de la empresa que desea comunicarse con sus servicios a través de una conexión VPN.
-- Credenciales SMSC: Weni necesita nombre de usuario, contraseña, puerto y cualquier otra información necesaria para enviar y recibir mensajes para el agregador.
+- Credenciales SMSC: VTEX CX Platform necesita nombre de usuario, contraseña, puerto y cualquier otra información necesaria para enviar y recibir mensajes para el agregador.
 
-Una vez que se completen los elementos anteriores, Weni se conecta a la VPN y notifica al agregador para enrutar los mensajes entrantes al servidor de Weni, y comienza la fase de prueba. Durante estas fases, es necesario contactar directamente a los miembros del equipo de Weni, por lo que pueden utilizarse los siguientes contactos:
+Una vez que se completen los elementos anteriores, VTEX CX Platform se conecta a la VPN y notifica al agregador para enrutar los mensajes entrantes al VTEX CX Platformidor de VTEX CX Platform, y comienza la fase de prueba. Durante estas fases, es necesario contactar directamente a losVTEX CX Platformmbros del equipo de VTEX CX Platform, por lo que pueden utilizarse los siguientes contactos:
 
 Correo electrónico: suporte@weni.ai

@@ -1,5 +1,5 @@
 ---
-title: "Canal Weni web chat"
+title: "Canal VTEX CX Platform web chat"
 id: 3Y0MyNe0kPEngpYOJG1qpo
 status: PUBLISHED
 createdAt: 2025-09-15T14:12:38.155Z
@@ -19,12 +19,14 @@ Si tienes un sitio web y te gustaría integrar tu bot en él, la solución es nu
 
 ## Cómo crear un canal web chat
 
-1. En tu proyecto, haz clic en **Aplicaciones > Descubrimientos > Añade el canal Weni Web Chat.**
+1. En tu proyecto, haz clic en **Aplicaciones > Descubrimientos > Añade el canal VTEX CX Platform Web Chat.**
 2. A continuación, haz clic en **Mis Aplicaciones** y accede al canal **Web Chat** que has creado.
-3. Al hacer clic en la aplicación, se abrirá una ventana de configuración de tu **Weni Web Chat** con opciones de personalización para tu Web Chat.
+3. Al hacer clic en la aplicación, se abrirá una ventana de configuración de tu **VTEX CX Platform Web Chat** con opciones de personalización para tu Web Chat.
 
 **Ajustes**: Aquí puedes asignar un nombre al bot, el nombre de la empresa, además de una palabra clave que activará un flujo de preferencia, un mensaje inicial y otras configuraciones relacionadas con los mensajes.
 
 **Apariencia**: puedes cargar un CSS personalizado, una imagen del bot y ajustar la paleta de colores.
 
-Al finalizar la personalización de tu **Web Chat**, haz clic en el botón **Guardar cambios** para guardar las modificaciones y generar el código **script**.- **Código Script**: Después de guardar la información, se generará un código **script** que deberás utilizar en tu sitio web.
+Al finalizar la personalización de tu **Web Chat**, haz clic en el botón **Guardar cambios** para guardar las modificaciones y generar el código **script**.
+
+- **Código Script**: Después de guardar la información, se generará un código **script** que deberás utilizar en tu sitio web.

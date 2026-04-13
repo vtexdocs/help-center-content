@@ -1,5 +1,5 @@
 ---
-title: "Sistema de permisos Weni"
+title: "Sistema de permisos VTEX CX Platform"
 id: 5m0IcoiGe9A9gnyKTKUrrO
 status: PUBLISHED
 createdAt: 2025-09-10T15:14:23.490Z
@@ -9,13 +9,13 @@ firstPublishedAt: 2025-10-03T14:23:40.610Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: weni-permission-system
+slugEN: vtex-cx-platform-permission-system
 legacySlug: sistema-de-permisos-weni
 locale: es
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-Dentro de la plataforma Weni, puedes gestionar diferentes permisos para cada usuario, los cuales se dividen en dos grupos:
+Dentro de la VTEX CX Platform, puedes gestionar diferentes permisos para cada usuario, los cuales se dividen en dos grupos:
 
 ## Permisos de la organización
 
@@ -41,6 +41,6 @@ En total, tenemos 4 permisos, divididos en 2 grupos:
 - **Contribuyente:** Puede editar el proyecto.
 - **Visualizador:** Solo puede visualizar el proyecto.
 
-### Permisos del módulo Chats
+### Permisos del módulo Live Desk
 
-- **Servicio humano:** Realiza atenciones en Weni Chats.
+- **Servicio humano:** Realiza atenciones en Live Desk.

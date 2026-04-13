@@ -31,7 +31,7 @@ Puedes iniciar rápidamente un ticket en cualquier punto de tu flujo añadiendo 
 1. Crea una carta “Open a ticket with a human agent”.
 2. Elige un tema o categoría. Para crear una nueva opción de tema o categoría, simplemente escribe el nombre en la barra y se creará automáticamente.
 
-1. Esta es una configuración opcional; si no asignas un agente al ticket, cualquier agente podrá tomar el ticket en la bandeja de tickets ""no asignados"". Si eliges un Agente, todos los tickets se asignarán automáticamente y aparecerán en la bandeja de “Mis tickets”.
+3. Esta es una configuración opcional; si no asignas un agente al ticket, cualquier agente podrá tomar el ticket en la bandeja de tickets "no asignados". Si eliges un Agente, todos los tickets se asignarán automáticamente y aparecerán en la bandeja de “Mis tickets”.
 
 _Consulta la sección a continuación sobre cómo agregar nuevos agentes a tu espacio de trabajo._
 
@@ -45,11 +45,11 @@ Desplázate hacia abajo para encontrar la sección de inicio de sesión múltipl
 
 Haz clic en el botón 'Menage Logins'.
 
-En esta página, puedes invitar a tus agentes ingresando su dirección de correo electrónico (1\), asignar el rol de ""agent"" desde el menú desplegable (2\) y hacer clic en “Save Changes” (3\).
+En esta página, puedes invitar a tus agentes ingresando su dirección de correo electrónico (1\), asignar el rol de "agent" desde el menú desplegable (2\) y hacer clic en “Save Changes” (3\).
 
 ## Ver y gestionar tickets
 
-Haz clic en la pestaña ‘tickets’ (1\) en tu espacio de trabajo para ver todos los tickets. La carpeta ""All"" es para todos los tickets, mientras que la carpeta ""no asignados"" es para los tickets que aún no han sido asignados (2\).
+Haz clic en la pestaña ‘tickets’ (1\) en tu espacio de trabajo para ver todos los tickets. La carpeta "All" es para todos los tickets, mientras que la carpeta "no asignados" es para los tickets que aún no han sido asignados (2\).
 
 Una vez que elijas una carpeta, usa el menú desplegable para alternar entre abiertos o cerrados y ver tickets resueltos o sin resolver (3\).
 
@@ -71,4 +71,4 @@ Una vez que hagas clic en el icono de asignación, podrás seleccionar el agente
 
 ## Iniciar un flujo después de cerrar un ticket
 
-Es esencial hacer un seguimiento con tus contactos una vez que un agente haya resuelto un ticket abierto. Puedes iniciar el contacto en un flujo inmediatamente después de cerrar un ticket. Navega a la pestaña ""Triggers"", luego desplázate hacia abajo para encontrar la opción ""Start a flow after a ticket is closed"" y elige tu flujo.
+Es esencial hacer un seguimiento con tus contactos una vez que un agente haya resuelto un ticket abierto. Puedes iniciar el contacto en un flujo inmediatamente después de cerrar un ticket. Navega a la pestaña "Triggers", luego desplázate hacia abajo para encontrar la opción "Start a flow after a ticket is closed" y elige tu flujo.

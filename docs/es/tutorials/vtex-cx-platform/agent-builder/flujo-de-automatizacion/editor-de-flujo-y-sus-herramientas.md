@@ -23,7 +23,7 @@ En este artículo, hablaremos sobre las herramientas que existen dentro para fac
 
 Una de las herramientas más utilizadas para crear y editar flujos es el simulador. Con él, podemos simular en tiempo real una conversación que ocurriría al ejecutar el flujo que estamos desarrollando.
 
-Para acceder al simulador, simplemente haz clic en el botón con el símbolo de ""Play"", ubicado en la esquina derecha de la pantalla.
+Para acceder al simulador, simplemente haz clic en el botón con el símbolo de "Play", ubicado en la esquina derecha de la pantalla.
 
 Ahora, puede enviar mensajes como respuesta para su flujo, usando la barra de texto, reiniciar la simulación cuando quiera utilizando el botón principal del simulador, enviar anexos como fotos, audios y videos, utilizando el botón de anexos, y cerrar el simulador cuando quiera.
 
@@ -65,7 +65,7 @@ Además de eso, tenemos una serie de opciones en los menús de configuración, q
 
 En esta parte del Editor de Flujos, encontrarás algunas herramientas que facilitarán tu trabajo. Solo necesitas hacer clic y utilizarlas.
 
-1. **Seleccionar y Arrastrar:** Estas funciones te ayudarán a seleccionar tarjetas (botón en forma de flecha) y navegar por el flujo (botón en forma de mano). También puedes utilizar la tecla ""v"" para alternar entre estas funciones más fácilmente.
+1. **Seleccionar y Arrastrar:** Estas funciones te ayudarán a seleccionar tarjetas (botón en forma de flecha) y navegar por el flujo (botón en forma de mano). También puedes utilizar la tecla "v" para alternar entre estas funciones más fácilmente.
 2. **Crear Bloque:** En este botón puedes crear cualquier tarjeta para tu flujo.
 3. **Copiar:** Selecciona una o más tarjetas y haz clic en este botón para copiarlas. Utiliza las teclas Ctrl + V para pegar. Esta función permite pegar las tarjetas copiadas en otro flujo. También es posible copiar usando las teclas Ctrl + C.
 4. **Buscar:** Busca elementos dentro de las tarjetas, como el nombre de la tarjeta, el texto de un mensaje o el nombre de un resultado. Esta función se puede activar con las teclas Ctrl + F.

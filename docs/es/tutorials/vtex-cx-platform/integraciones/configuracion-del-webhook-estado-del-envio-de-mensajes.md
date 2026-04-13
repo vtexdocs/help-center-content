@@ -15,19 +15,21 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Para recibir información sobre el **estado de envío y visualización de los mensajes enviados por tu Chatbot,** puedes configurar el servicio de webhook directamente en la Plataforma de Weni.
+Para recibir información sobre el **estado de envío y visualización de los mensajes enviados por tu Chatbot,** puedes configurar el servicio de webhook directamente en la Plataforma de VTEX CX Platform.
 
 Este servicio de webhook funcionará de la siguiente manera: **cada vez que se envíe, reciba o lea un mensaje, este webhook enviará una notificación a un servicio externo (URL) que podrá manejar estos datos.**
 
-El manejo de los datos no se realiza dentro de la plataforma de Weni, sino en tu servicio externo de acuerdo con el tratamiento que hayas configurado.#### **¿Qué es un servicio externo y cuál usar?**
+El manejo de los datos no se realiza dentro de la plataforma de VTEX CX Platform, sino en tu servicio externo de acuerdo con el tratamiento que hayas configurado.
+
+## ¿Qué es un servicio externo y cuál usar?
 
 Existen diversos servicios externos y se utilizan como una **infraestructura en la nube que almacena un código** que ejecuta alguna acción. Puedes elegir qué servicio usar: [Back4app](https://www.back4app.com/#), [Pipedream](https://pipedream.com/) u otros.
 
-Esto significa que, en estas plataformas externas, puedes configurar una URL para recibir los datos del Webhook de Weni y crear un código para manejar esos datos.
+Esto significa que, en estas plataformas externas, puedes configurar una URL para recibir los datos del Webhook de VTEX CX Platform y crear un código para manejar esos datos.
 
 ## Cómo configurar
 
-Para configurar tu webhook, ve a **Aplicaciones \> Mis Aplicaciones \> Canal de Whatsapp que deseas configurar \> Webhook \> Configurar Método, URL y Cabecera de la solicitud:**
+Para configurar tu webhook, ve a **Aplicaciones > Mis Aplicaciones > Canal de Whatsapp que deseas configurar > Webhook > Configurar Método, URL y Cabecera de la solicitud:**
 
 Después de configurar el servicio de webhooks, podrás crear soluciones mediante código o aplicación externa según tu necesidad.
 
@@ -35,6 +37,6 @@ Después de configurar el servicio de webhooks, podrás crear soluciones mediant
 
 Los datos que los webhooks enviarán a tu servicio externo (URL) seguirán el formato Json:
 
-El parámetro ""status"" informará el estado del mensaje, si ha sido leído aparecerá como ""read"".
+El parámetro "status" informará el estado del mensaje, si ha sido leído aparecerá como "read".
 
-¿Tienes preguntas? Contáctanos en la [comunidad de Weni.](https://comunidade.weni.ai/)
+¿Tienes preguntas? Contáctanos en la [comunidad de VTEX CX Platform.](https://comunidade.weni.ai/)

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-¡La Plataforma Weni te permite probar el bot de WhatsApp de manera rápida y práctica a través de nuestro **Módulo de Aplicaciones**! Para utilizar esta herramienta, simplemente sigue los siguientes pasos:
+¡La VTEX CX Platform te permite probar el bot de WhatsApp de manera rápida y práctica a través de nuestro **Módulo de Aplicaciones**! Para utilizar esta herramienta, simplemente sigue los siguientes pasos:
 
 1. En tu proyecto, haz clic en **Aplicaciones > Descubrimientos > Añade WhatsApp Demo**.
 2. Después de añadirlo, podrás encontrarlo en **Mis Aplicaciones**.

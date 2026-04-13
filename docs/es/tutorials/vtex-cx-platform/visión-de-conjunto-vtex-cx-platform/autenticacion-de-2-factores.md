@@ -15,17 +15,17 @@ locale: es
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-La Plataforma Weni le permite habilitar la autenticación de 2 factores en su cuenta y/o optar por limitar el acceso de su organización solo a usuarios que tengan la autenticación habilitada. Esta funcionalidad es ideal para quienes desean una capa adicional de seguridad para su proyecto.
+La VTEX CX Platform le permite habilitar la autenticación de 2 factores en su cuenta y/o optar por limitar el acceso de su organización solo a usuarios que tengan la autenticación habilitada. Esta funcionalidad es ideal para quienes desean una capa adicional de seguridad para su proyecto.
 
 ## 1 - Habilitar la autenticación en su cuenta
 
-La autenticación se puede habilitar en una cuenta haciendo clic en su foto, ubicada en el lado derecho de la pantalla \> cuenta, como se ilustra a continuación:
+La autenticación se puede habilitar en una cuenta haciendo clic en su foto, ubicada en el lado derecho de la pantalla > cuenta, como se ilustra a continuación:
 
-En la pantalla de configuración de la cuenta, seleccione la opción ""privacidad y seguridad"", habilite la verificación de 2FA y guarde los cambios.
+En la pantalla de configuración de la cuenta, seleccione la opción "privacidad y seguridad", habilite la verificación de 2FA y guarde los cambios.
 
-Para realizar la autenticación, la Plataforma Weni utiliza la aplicación Microsoft Authenticator. Descargue la aplicación, escaneando el código QR disponible en la pantalla con la cámara de su celular (puede elegir la opción para iOS o Android, según el sistema operativo de su dispositivo), y cierre sesión en la plataforma para validar la autenticación.
+Para realizar la autenticación, la VTEX CX Platform utiliza la aplicación Microsoft Authenticator. Descargue la aplicación, escaneando el código QR disponible en la pantalla con la cámara de su celular (puede elegir la opción para iOS o Android, según el sistema operativo de su dispositivo), y cierre sesión en la plataforma para validar la autenticación.
 
-Al intentar iniciar sesión nuevamente en la Plataforma Weni, se le pedirá que siga los siguientes pasos:
+Al intentar iniciar sesión nuevamente en la VTEX CX Platform, se le pedirá que siga los siguientes pasos:
 
 1. Abrir la aplicación y escanear el código QR mostrado en la pantalla;
 2. Ingresar el código de uso único proporcionado por la aplicación;
@@ -35,8 +35,8 @@ Listo, ahora la Autenticación de Dos Factores está habilitada para su uso. Cad
 
 ## 2 - Solicitar autenticación en su organización
 
-Para que los proyectos y datos de su organización tengan una capa adicional de seguridad, puede habilitar la opción para que solo los usuarios con la Autenticación de Dos Factores habilitada puedan acceder a la organización. Para ello, haga clic en el ícono ubicado en la esquina derecha de la tarjeta de la organización y seleccione la opción ""configuraciones"".
+Para que los proyectos y datos de su organización tengan una capa adicional de seguridad, puede habilitar la opción para que solo los usuarios con la Autenticación de Dos Factores habilitada puedan acceder a la organización. Para ello, haga clic en el ícono ubicado en la esquina derecha de la tarjeta de la organización y seleccione la opción "configuraciones".
 
-Dentro de configuraciones, haga clic en la pestaña ""Seguridad"", habilite la autenticación y guarde los cambios.
+Dentro de configuraciones, haga clic en la pestaña "Seguridad", habilite la autenticación y guarde los cambios.
 
 ¡Listo, su cuenta y organización ahora están más seguras! Es un incentivo adicional para que usted y su empresa liberen el potencial humano.

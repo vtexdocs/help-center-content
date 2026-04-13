@@ -111,7 +111,7 @@ Use this trigger after a missed call.
 
 ### Start a flow after closing a ticket with a human agent
 
-Use this trigger to initiate the flow for closing human support in VTEX CX Platform Chats.
+Use this trigger to initiate the flow for closing human support in Live Desk.
 
 - Click on the "Start a flow after a ticket is closed" button:
 

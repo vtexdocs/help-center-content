@@ -25,7 +25,7 @@ Let's go through a quick explanation of each menu:
 4. Artificial Intelligence: Add more layers of intelligence to your project with the Agent Builder and classification/content AI.
 5. Flows Module: Module for creating and modifying conversational flows, following the interaction logic between the chatbot and the user.
 6. Studio Module: Manage, import, and export messages and information from users who interacted with your chatbot, as well as create campaigns and triggers.
-7. Chats Module: Explore all the features available in the human support module.
+7. Live Desk: Explore all the features available in the human support module.
 8. Applications Module: Access our integration channels and external services and add them to your project.
 9. Settings Module: Change registration and payment details, add channels, and check your API token, language, and files.
 

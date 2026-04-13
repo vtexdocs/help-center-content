@@ -50,6 +50,6 @@ Add members to your organization by clicking the dropdown menu and then "Manage 
 
 The members you add will receive an invitation email to join the organization. See the image:
 
-> To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
+> To learn more about the permissions' system, click [here](/en/docs/tutorials/vtex-cx-platform-permission-system).
 
 After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the VTEX CX Platform.

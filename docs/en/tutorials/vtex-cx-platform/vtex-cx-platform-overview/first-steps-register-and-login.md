@@ -53,4 +53,4 @@ Templates are pre-built flows with specific purposes, divided into three categor
 
 Click "Finish" to proceed.
 
-Click "Start" and explore all the features available on the VTEX CX Platform. Make the most of it!
+Click "Start" and explore all the features available on the VTEX CX Platform.

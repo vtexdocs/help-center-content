@@ -37,4 +37,4 @@ Un flujo que utiliza el método Phone Call es un flujo creado para ser utilizado
 Un flujo creado para ser descargado y ejecutado de forma offline en un dispositivo móvil, por la app Surveyor, tendrá sus respuestas sincronizadas después, de acuerdo con el acceso a internet. Para conocer más sobre el método Surveyor. visite el artículo sobre uso de la plataforma offline.
 
 **4 - Idioma:** El idioma de su proyecto
-Ahora que usted conoce las configuraciones, basta con clickear en ""Create"" y comenzar la creación de su nuevo flujo, debidamente configurado para la finalidad que desee."
+Ahora que usted conoce las configuraciones, basta con clickear en "Create" y comenzar la creación de su nuevo flujo, debidamente configurado para la finalidad que desee."

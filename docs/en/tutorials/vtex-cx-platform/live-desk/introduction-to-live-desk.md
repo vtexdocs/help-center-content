@@ -15,18 +15,18 @@ locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-Chats is the official human support module of the VTEX CX Platform. It was developed based on the needs and pain points of our clients, is natively available in all projects on the VTEX CX Platform, and provides a self-service experience.
+Live Desk is the official human support module of the VTEX CX Platform. It was developed based on the needs and pain points of our clients, is natively available in all projects on the VTEX CX Platform, and provides a self-service experience.
 
 In the following sections, you’ll learn more about the concepts and functions of this module.
 
 #### User Permissions
 
-User permissions represent roles assigned to each user within the project. In the Chats module, they indicate the following roles:
+User permissions represent roles assigned to each user within the project. In the Live Desk module, they indicate the following roles:
 
 - **Agent**
-  The user who utilizes the Chats module to handle support interactions. They have minimal system permissions and can only view the Chats module and the Dashboard with their individual metrics. Interactions routed to the agent are determined by the department and queue to which they belong.
+  The user who utilizes the Live Desk module to handle support interactions. They have minimal system permissions and can only view the Live Desk module and the Dashboard with their individual metrics. Interactions routed to the agent are determined by the department and queue to which they belong.
 - **Support Manager**
-  This user manages the support groups in VTEX CX Platform Chats, with system permissions to view settings related to the department they manage. They can view contacts in the queues and handle interactions. On the Dashboard, they can view metrics for the department they oversee.
+  This user manages the support groups in Live Desk, with system permissions to view settings related to the department they manage. They can view contacts in the queues and handle interactions. On the Dashboard, they can view metrics for the department they oversee.
 - **Administrator**
   This user has all permission levels, can create departments, and delegate support managers to departments. They have an overview of the entire operation on the Dashboard.
 
@@ -69,7 +69,7 @@ You can drag files into the text box, and **Ctrl \+ V** is enabled to paste imag
 
 #### Emojis
 
-Emojis can make communication more engaging, as they help convey tone and intent. VTEX CX Platform Chats offers a full emoji panel. See the image below:
+Emojis can make communication more engaging, as they help convey tone and intent. Live Desk offers a full emoji panel. See the image below:
 
 #### Text Break
 
@@ -77,7 +77,7 @@ You can press **Shift \+ Enter** to create line breaks, which can help organize 
 
 #### Dashboard
 
-To simplify locating chat histories, Chats currently offers two types of filters:
+To simplify locating chat histories, Live Desk currently offers two types of filters:
 
 **Tag Filter**: Allows you to select tags and search for chats classified with those tags.
 
@@ -87,13 +87,13 @@ There is also a **Clear Filters** button to reset the search.
 
 #### View History
 
-The user will see the list of Chats in chronological order, from most recent to oldest. In this list, you can view the contact’s photo, name, the agent who handled the interaction, tags used for classification, date, and a button to open the chat.
+The user will see the list of Live Desk in chronological order, from most recent to oldest. In this list, you can view the contact’s photo, name, the agent who handled the interaction, tags used for classification, date, and a button to open the chat.
 
 When viewing the contact’s history, the agent can see the start of the interaction, the chat history with the bot, chat events, and finally, the tags used to classify the chat.
 
 #### Active Signature
 
-You can enable an active signature so that each message exchanged includes the name of the agent responding. To activate this function, go to **Settings > Chats**. Then, select the department you want to configure. Once inside the department, go to **Additional Options** and select **Active Signature**. See the image below:
+You can enable an active signature so that each message exchanged includes the name of the agent responding. To activate this function, go to **Settings > Live Desk**. Then, select the department you want to configure. Once inside the department, go to **Additional Options** and select **Active Signature**. See the image below:
 
 After enabling this option, the agent's name will appear in the message bubble followed by a colon, as shown in the image below:
 

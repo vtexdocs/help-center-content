@@ -21,7 +21,7 @@ Si ya integraste un bot de acuerdo con las políticas antiguas de Facebook, no n
 
 ## Añadir una página
 
-1. En tu proyecto, haz clic en Aplicaciones > Descubrimientos > Haz clic en el signo \+
+1. En tu proyecto, haz clic en Aplicaciones > Descubrimientos > Haz clic en el signo `+`.
 2. Cuando aparezca esta ventana, haz clic en Conectar.
 3. Se abrirá una nueva ventana con la opción de iniciar sesión en la cuenta de Facebook que contiene la página o, si ya has iniciado sesión, simplemente confirma el usuario y haz clic en conectar.
 4. A continuación, se listará la página que deseas transformar en canal y haz clic en el botón Crear Canal.

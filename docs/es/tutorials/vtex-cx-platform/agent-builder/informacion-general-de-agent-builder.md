@@ -19,15 +19,15 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 
 La funcionalidad se centra en un agente orquestador, que es el punto de contacto con el cliente y asume el control del chat. Este agente orquestador activa agentes colaboradores que devuelven datos e información según las necesidades del usuario.
 
-> ℹ️ Para saber más sobre agentes colaboradores, lee el artículo [Agentes oficiales de Weni by VTEX](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
+> ℹ️ Para saber más sobre agentes colaboradores, lee el artículo [Agentes oficiales de VTEX CX Platform](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
 
 Además de asignar y probar estos agentes, también puedes crear agentes propios que atiendan necesidades específicas de tu empresa.
 
-> ⚠️ Para crear agentes personalizados, utiliza la CLI de Weni by VTEX. Consulta la [documentación](https://weni-ai.github.io/weni-cli/getting-started/installation/) para crear tu propio agente.
+> ⚠️ Para crear agentes personalizados, utiliza la CLI de VTEX CX Platform. Consulta la [documentación](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) para crear tu propio agente.
 
 ## Agent Builder
 
-Para acceder a **Agent Builder**, selecciona la organización en la página de inicio de Weni by VTEX y el proyecto que deseas gestionar. En el menú lateral, haz clic en **Agent Builder**.
+Para acceder a **Agent Builder**, selecciona la organización en la página de inicio de VTEX CX Platform y el proyecto que deseas gestionar. En el menú lateral, haz clic en **Agent Builder**.
 
 En **Agent Builder** puedes acceder a las siguientes páginas:
 
@@ -152,7 +152,7 @@ En la caja de texto **¿Cuándo debe el agente transferir la conversación a una
 
 En esta sección puedes ver las credenciales utilizadas por los agentes oficiales y por los agentes personalizados.
 
-> ℹ️ Aprende más en [Agentes oficiales de Weni by VTEX y sus credenciales](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
+> ℹ️ Aprende más en [Agentes oficiales de VTEX CX Platform y sus credenciales](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
 
 ### Historial de cambios
 

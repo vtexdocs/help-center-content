@@ -1,5 +1,5 @@
 ---
-title: 'Distribución y enrutamiento de las atenciones'
+title: "Distribución y enrutamiento de las atenciones"
 id: 1vxyqKMo6a5JZZUjVuW6Oj
 status: PUBLISHED
 createdAt: 2025-09-12T16:43:27.944Z
@@ -23,5 +23,5 @@ siguientes:
 - Un agente puede tomar una atención manualmente incluso si está en estado Desconectado.
 - Un agente puede tomar una atención manualmente incluso si ha alcanzado el límite de atenciones simultáneas.
 
-Weni Chats aún no permite la elección de diferentes reglas de distribución y
+Live Desk aún no permite la elección de diferentes reglas de distribución y
 enrutamiento de las atenciones para agentes humanos.

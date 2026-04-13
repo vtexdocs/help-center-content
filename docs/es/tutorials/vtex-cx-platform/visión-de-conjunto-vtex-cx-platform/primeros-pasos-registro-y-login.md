@@ -34,7 +34,7 @@ En ella usted deberá llenar las siguientes informaciones:
 
 Despues de llenar las informaciones, clique en continuar y le direccionará a la pantalla de inicio:
 
-> **Note:** Rellena los campos según lo solicitado.
+> ℹ️ Rellena los campos según lo solicitado.
 
 En ella usted podrá crear su primera **Organización** (ambiente de desarrollo de su chatbot), e tendrá que llenar dos informaciones:
 
@@ -51,9 +51,9 @@ Después de estar debidamente registrado en su organización usted tendrá acces
 Vamos a uma rápida explicación de cada menú:
 
 1. Menú Principal de la organización: en el que gerenciará todas las configuraciones.
-2. Módulo de Insights: Módulo que permite explorar dashboards de análisis de datos dentro de la plataforma Weni.
+2. Módulo de Insights: Módulo que permite explorar dashboards de análisis de datos dentro de la VTEX CX Platform.
 3. Módulo de Flujos: es aqui donde aparece la magia, en este aba podrás crear y alterar flujos de conversación (seguindo la lógica de interacción entre el chatbot e su usuário)
 4. Módulo de Estudio: Aquí podrás gestionar contactos, mensajes, campañas, activadores, etc.
-5. Módulo de Chats: Área de atención humana.
+5. Live Desk: Área de atención humana.
 6. Módulo de Aplicaciones: Aquí podrás añadir canales como WhatsApp, por ejemplo, y gestionarlos.
-7. Módulo de Configuración: Aquí se encuentran las preferencias del proyecto y la gestión de los Chats.
+7. Módulo de Configuración: Aquí se encuentran las preferencias del proyecto y la gestión de los Live Desk.

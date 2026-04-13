@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp: Integración express VTEX CX Platform"
+title: "WhatsApp: Integración express con VTEX CX Platform"
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
@@ -27,7 +27,7 @@ Existen algunas premisas para agregar un número de WhatsApp mediante el método
 
 Con estas premisas cumplidas, ha llegado el momento de iniciar la integración.
 
-Dentro del proyecto en el que se realizará la integración, ve al módulo **Aplicaciones** y en la pestaña de **Descubrimiento** encontrarás la tarjeta de integración de **WhatsApp**, haz clic en el símbolo \+ para añadir la integración.
+Dentro del proyecto en el que se realizará la integración, ve al módulo **Aplicaciones** y en la pestaña de **Descubrimiento** encontrarás la tarjeta de integración de **WhatsApp**, haz clic en el símbolo + para añadir la integración.
 
 Aparecerá una ventana para continuar y, a continuación, un popup solicitando que conectes tu cuenta de Facebook.
 
