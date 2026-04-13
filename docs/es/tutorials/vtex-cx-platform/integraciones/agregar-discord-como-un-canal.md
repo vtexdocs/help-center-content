@@ -28,24 +28,12 @@ Discord tiene documentación oficial sobre cómo registrar tu bot.
 <https://discord.com/developers/applications>
 
 1. Ve a la pestaña ""Bot"" y haz clic en ""Add Bot"". Tendrás que confirmar haciendo clic en ""Yes, do it!""
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/agregar-discord-como-un-canal_1.png)
-
 2. Mantén las configuraciones predeterminadas para ""Bot público"" (marcado) y ""Requerir concesión de código OAuth2"" (desmarcado).
 3. El siguiente paso es copiar el token.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/agregar-discord-como-un-canal_2.png)
-
 4. Haz clic en ""Redefinir Token"" y obtén tu token.
 
 ## Agrega el canal a la plataforma de Weni.
 
 1. Dentro del proyecto, ve a: Aplicaciones \-> Descubrimiento \-> Agregar Discord.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/agregar-discord-como-un-canal_3.png)
-
 2. Después de agregarlo a ""Mis Aplicaciones"", inserta tu discord_bot_token proporcionado por la página de Desarrolladores de Discord y la URL del Proxy, que es la URL donde el proxy de Discord está ejecutándose.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/agregar-discord-como-un-canal_4.png)
-
 3. Guarda los cambios.

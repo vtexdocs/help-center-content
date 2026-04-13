@@ -17,8 +17,6 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 Después de haber iniciado sesión correctamente en su organización y proyecto, tendrá acceso a esta pantalla:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/visión-de-conjunto-vtex-cx-platform/panel-de-control_1.png)
-
 Vamos a una breve explicación de cada menú:
 
 1. **Home:** Pantalla principal que muestra los datos de la plataforma. Insights: Módulo que permite explorar paneles de análisis de datos dentro de la plataforma Weni.
