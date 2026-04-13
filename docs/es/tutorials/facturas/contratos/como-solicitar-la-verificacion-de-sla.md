@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Los cuatro niveles de servicio de nuestro SLA, y los descuentos concedidos por su quiebra, están citados en su contrato. En caso de no haber recibido uno, el motivo puede haber sido la aceptación automática de nuestro [término de adhesión](/es/faq/por-que-no-recibi-el-contrato-firmado-de-vtex). Sin embargo, siempre que desee, usted puede consultar su SLA [aquí](https://vtex.com/wp-content/uploads/2022/02/MSA-LATAM.pdf).
+Los cuatro niveles de servicio de nuestro SLA, y los descuentos concedidos por su quiebra, están citados en su contrato. En caso de no haber recibido uno, el motivo puede haber sido la aceptación automática de nuestro [término de adhesión](/es/faq/por-que-no-recibi-el-contrato-firmado-de-vtex). Sin embargo, siempre que desee, usted puede consultar su SLA [aquí](https://vtex.com/es-mx/trust/agreements).
 
 ## Antes de solicitar la verificación de su SLA, tenga en cuenta:
 

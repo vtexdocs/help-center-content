@@ -21,9 +21,10 @@ Mediante las políticas comerciales se determinan las configuraciones de catálo
 
 Para adquirir una política comercial destinada a un canal de ventas externo al ecosistema VTEX, como un _marketplace_ para el que no existe un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex), siga el flujo [Contratar una política comercial](#contratar-una-politica-comercial).
 
-## Contratar una política comercial
+## Agregar una política comercial
+Para agregar una nueva política comercial, accede al Admin de VTEX. Los usuarios con el rol Owner (admin) pueden realizar esta acción directamente desde la interfaz.
 
-Para contratar una política comercial adicional destinada a operar en el mercado internacional, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)*, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para más información, consulta el artículo [Crear una política comercial](https://help.vtex.com/es/docs/tutorials/crear-una-politica-comercial).
 
 ## Reglas de costos
 

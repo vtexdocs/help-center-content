@@ -40,7 +40,7 @@ The affiliate acts as a webhook that will notify the external service about chan
 
 - __Name__: Fill in the name of the affiliate system.
 - __ID__: Affiliate identification code with 3 digits. The ID must contain __only consonants__.
-- __Trade Policy__: Id of the trade policy whose information will be sent to the affiliate.
+- __Sales Channel__: Id of the sales channel whose information will be sent to the affiliate.
 - __Follow Up E-mail__: E-mail address that will receive information when the affiliate is notified.
 - __Search Endpoint__: URL of the application that [will receive notifications](#update-sku-data) about the SKUs, their prices and their stocks. This URL must be developed by the external system so that VTEX can notify the changes through this route.
 - __Search Endpoint Version__: Keep this field populated with the value __1.x.x__.
@@ -81,7 +81,7 @@ __Example of response__:
 
 ### 2 - Get the data about SKU properties
 
-Using the IDs of the SKUs obtained in the previous request, you should do a `GET` on the route `http://{{accountName}}.vtexcommercestable.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{{skuId}}` to get information about the properties of the SKUs. The response of this request will return the information that characterizes the SKU, such as __Name __, __Brand__, __Category__, __Collections__, __Image__, if the SKU is __Active or Inactive__ and __Trade Policies__, for example. Pricing and inventory information are not yet available in this step.
+Using the IDs of the SKUs obtained in the previous request, you should do a `GET` on the route `http://{{accountName}}.vtexcommercestable.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{{skuId}}` to get information about the properties of the SKUs. The response of this request will return the information that characterizes the SKU, such as __Name __, __Brand__, __Category__, __Collections__, __Image__, if the SKU is __Active or Inactive__ and __Sales Channels__, for example. Pricing and inventory information are not yet available in this step.
 
 __API Parameters__:
 
@@ -196,7 +196,7 @@ __API Parameters__:
 
 `{accountName}`: Your store account name in VTEX.
 
-`{salesChannel}`: Trade Policy to be considered in the simulation.
+`{salesChannel}`: Sales Channel to be considered in the simulation.
 
 `{affiliateId}`: Affiliate ID to be considered in the context of the simulation.
 

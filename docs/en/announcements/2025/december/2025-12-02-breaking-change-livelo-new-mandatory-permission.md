@@ -12,6 +12,9 @@ locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisEN: 'New mandatory permission to access the Livelo app in version 1.3.1 of the connector.'
+tags:
+  - Breaking change
+  - Integrations
 ---
 
 > Regional content available only for Brazil.

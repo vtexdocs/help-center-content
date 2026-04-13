@@ -30,9 +30,9 @@ Here are some of the main transactions when selling products on marketplaces:
 - Order processing.  
 - Channel management.  
 
-The product assortment sent to a marketplace is defined when you choose the [trade policy](/en/docs/tutorials/how-trade-policies-work).  
+The product assortment sent to a marketplace is defined when you choose the [sales channel](/en/docs/tutorials/how-trade-policies-work).  
 
-[Additional trade policies can be requested](/en/docs/tutorials/requesting-an-additional-trade-policy) via a ticket to our [Support](https://supporticket.vtex.com/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
+[Additional sales channels can be requested](/en/docs/tutorials/requesting-an-additional-trade-policy) via a ticket to our [Support](https://supporticket.vtex.com/support) team by selecting the Commercial option and the New Sales Channel request type. A monthly fee is charged for each additional sales channel, whether used for integration with certified, partner, external, or VTEX marketplaces.  
 
 > ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](/en/docs/tutorials/what-does-vtex-consider-as-revenue-in-the-billing-calculation) as the ones placed through other channels.  
 
@@ -106,11 +106,11 @@ If you want to sell your products on a marketplace not integrated with VTEX, you
 
 ### Integrating with marketplaces
 
-Each integration with a marketplace needs to be linked to a [trade policy](/en/docs/tutorials/how-trade-policies-work), because it is through the trade policy that you define the settings that will be applied to your products in that marketplace.
+Each integration with a marketplace needs to be linked to a [sales channel](/en/docs/tutorials/how-trade-policies-work), because it is through the sales channel that you define the settings that will be applied to your products in that marketplace.
 
-If the same catalog, price and shipping strategy settings from your VTEX store are used in the marketplace, there is no need to create a new trade policy, because the same commercial policy can be used for different sales channels.
+If the same catalog, price and shipping strategy settings from your VTEX store are used in the marketplace, there is no need to create a new sales channel, because the same commercial policy can be used for different sales channels.
 
-You will only need to configure a trade policy for a specific marketplace if you have any of the following objectives:
+You will only need to configure a sales channel for a specific marketplace if you have any of the following objectives:
 
 - Offer a different selection of products.  
 - Make a different amount of stock available.  
@@ -119,9 +119,9 @@ You will only need to configure a trade policy for a specific marketplace if you
 - Configure other payment conditions.  
 - Define a different shipping strategy.  
 
-To [purchase additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Trade Policy`.
+To [purchase additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Sales Channel`.
 
-For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.  
+For each additional sales channel, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.  
 
 Currently, on the VTEX platform, you can find the following marketplaces:  
 

@@ -13,6 +13,9 @@ locale: es
 legacySlug: analisis-antifraude-para-tarjetas-de-regalo
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Habilite el análisis antifraude en transacciones con tarjetas de regalo en su tienda'
+tags:
+  - Mejora
+  - Pagos
 ---
 
 Con el objetivo de optimizar las operaciones de pago en la plataforma, VTEX ha implementado la funcionalidad de análisis antifraude para compras realizadas con [tarjetas de regalo](/es/docs/tutorials/gift-card) (gift card).

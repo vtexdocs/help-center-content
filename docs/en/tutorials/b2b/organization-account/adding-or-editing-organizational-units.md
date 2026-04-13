@@ -1,72 +1,76 @@
 ---
-title: 'Adding or editing Organizational Units'
-createdAt: '2026-03-10T10:00:00.000Z'
-updatedAt: '2026-03-10T10:00:00.000Z'
+title: 'Adding or editing organizational units'
+createdAt: '2026-03-03T10:00:00.000Z'
+updatedAt: '2026-03-27T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-or-editing-organizational-units
 locale: en
 ---
 
-> ⚠️ This feature is exclusive to stores using B2B Buyer Portal, currently available for select accounts.
+> ⚠️ This feature is only available to stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
-**Organizational Units** (OU) allow companies to manage their internal structure in a hierarchical way, with their own budget, internal approval flows, purchasing autonomy, and other levels of subdivision. This way, the platform allows a single B2B company to operate with multiple internal structures while maintaining contractual consistency and operational control.
+**Organizational units** (OU) allow companies to manage their internal structures in a hierarchical manner, with their own budgets, internal approval flows, purchasing autonomy, and other subdivision levels. This way a single B2B company can operate with multiple internal structures, maintaining contractual consistency and operational control.
 
-This article covers the management of organizational units and is divided into the following sections:
+In this article, you'll learn how to manage organizational units through the following sections:
 
-* [Add organizational unit](#add-organizational-unit)
-* [Rename organizational unit](#rename-organizational-unit)
-* [Add user to an organizational unit](#add-user-to-an-organizational-unit)
-* [Add child organizational unit (subordinate)](#add-child-organizational-unit-subordinate)
-* [Remove organizational unit](#remove-organizational-unit)
+- [Adding an organizational unit](#adding-an-organizational-unit)
+- [Renaming an organizational unit](#renaming-an-organizational-unit)
+- [Adding a user to an organizational unit](#adding-a-user-to-an-organizational-unit)
+- [Adding a child (sub) organizational unit](#adding-a-child-sub-organizational-unit)
+- [Removing an organizational unit](#removing-an-organizational-unit)
 
-> ⚠️ To configure organizational units, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) profile must be `Organizational Unit Admin`, `Super Buyer Admin`, or have the `ManageOrganizationHierarchy` resource.
+> ⚠️ To configure organizational units, the user's [Storefront Role](https://developers.vtex.com/docs/guides/storefront-roles) must be `Organizational Unit Admin`, `Super Buyer Admin`, or have the `ManageOrganizationHierarchy` resource.
 
-## Add organizational unit
+## Adding an organizational unit
 
-1. On the Organization Account home page, in the **Organization** section, click `Organizational Units`.
+1. On the organization account homepage, in the **Organization** section, click `Organizational units`.
 
-    ![organization_units_image_initial_org_account_page_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
+    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
-2. On the **Organizational Units** screen, click the `+` icon.
-3. Check the **Parent** field to confirm the correct identification of the organizational unit to which the new unit will be subordinate, i.e., its parent. This field is not editable.
-4. Fill in the name of the new organizational unit. You can [rename it](#rename-organizational-unit) later.
+2. On the **Organizational units** screen, click the `+` icon.
+
+3. Make sure the **Parent** field contains the organizational unit that the new unit should go under, that is, the unit it will be a child of. This field can't be edited.
+
+4. Enter the name of the new organizational unit. You can [rename it](#renaming-an-organizational-unit) later.
+
 5. Click `Add`.
 
-After creating an organizational unit, it will appear listed on the **Organizational Units** screen, and you can access its Organization Account by clicking on its corresponding row.
+After creating an organizational unit, it will be listed on the **Organizational units** screen. You can access the organization account page for the unit by clicking its row.
 
-## Rename organizational unit
+## Renaming an organizational unit
 
-1. On the **Organizational Units** page, in the row corresponding to the organizational unit you want to rename, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Rename`.
+1. On the **Organizational units** page, in the row of the organizational unit you want to rename, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Rename`.
 2. Make the desired changes.
 3. Click `Save`.
 
-## Add user to an organizational unit
+## Adding a user to an organizational unit
 
-1. On the **Organizational Units** page, in the row corresponding to the organizational unit you want to add a user to, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add User`.
-2. Fill in the new user's information:
-    * Name
-    * Email
-    * Phone number (optional)
-    * Username
-3. Select the access profiles you want to assign to the user.
+1. On the **Organizational units** page, in the row of the organizational unit you want to add a user to, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add user`.
+2. Complete the new user information:
+    - Name
+    - Email
+    - Phone number (optional)
+    - Username
+3. Select the roles you want to assign to the user.
 
-    > ℹ️ For more information about access profiles in the **B2B Buyer Portal**, see the article [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+    > ℹ️ For more information about roles in [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), see the article [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
+
 4. Click `Add`.
 
-## Add child organizational unit (subordinate)
+## Adding a child (sub) organizational unit
 
-1. On the **Organizational Units** page, in the row corresponding to the desired organizational unit, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add Subordinate Unit`.
-2. Check the **Parent** field to confirm the correct identification of the organizational unit to which the new unit will be subordinate, i.e., its parent. This field is not editable.
-3. Fill in the name of the child organizational unit.
+1. On the **Organizational units** page, in the row of the desired organizational unit, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add organizational unit`.
+2. Make sure the **Parent** field contains the correct organizational unit the new unit should go under, that is, the one it should be a child of. This field can't be edited.
+3. Enter the name of the child organizational unit.
 4. Click `Add`.
 
-## Remove organizational unit
+## Removing an organizational unit
 
-> ❗ To remove an organizational unit that has subordinate units, you must first remove each child unit individually, starting from the lowest level.
+> ❗ To remove an organizational unit that has child units, you must first remove each child unit individually, starting with the lowest level.
 
-1. On the **Organizational Units** page, in the row corresponding to the organizational unit you want to remove, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
-2. Fill in the name of the organizational unit. This field is case-sensitive.
+1. On the **Organizational units** page, in the row of the organizational unit you want to remove, click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
+2. Enter the name of the organizational unit. This field is case sensitive.
 3. Click `Delete`.
 
-> ℹ️ To manage your organization's units via API, see the [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
+> ℹ️ To manage units in your organization via API, check the [Organizational Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).

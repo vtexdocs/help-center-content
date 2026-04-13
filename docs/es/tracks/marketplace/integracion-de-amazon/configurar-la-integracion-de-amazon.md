@@ -23,7 +23,7 @@ Una vez que haya completado los pasos para configurar su tienda en VTEX y Amazon
 4. En la tarjeta de Amazon, haga clic en `Integrar`.
 5. Rellene los campos según se describen a continuación y haga clic en `Guardar configuración`. Los campos marcados con el símbolo * son obligatorios.
 
-- **Afiliate Id*:** código de identificación para crear un [afiliado](/es/tutorial/o-que-e-afiliado) que aún no está registrado en tu sistema. El código debe estar compuesto por tres consonantes, repetidas o no. No se aceptan vocales. Sugerencia: MZN. La configuración del conector crea el afiliado automáticamente.
+- **Afiliate Id*:** código de identificación para crear un [afiliado](/es/docs/tutorials/que-es-afiliado) que aún no está registrado en tu sistema. El código debe estar compuesto por tres consonantes, repetidas o no. No se aceptan vocales. Sugerencia: MZN. La configuración del conector crea el afiliado automáticamente.
 - **Afiliate Email*:** ingrese un email para el afiliado que se está creando.
 - **Sales channel*:** es la [política comercial](/es/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definir-la-politica-comercial-en-amazon) que definirá el surtido del catálogo y los valores de los ítems que se enviarán a Amazon. 
 - **Amazon Seller Id*:** ingrese el **ID del vendedor** proporcionado por Amazon en la etapa de [autorización de VTEX en el panel de Amazon](/es/docs/tracks/configuracion-de-la-cuenta-amazon). 

@@ -26,8 +26,8 @@ Being a marketplace means that your website will receive (and sell) another stor
 ## For stores that want to be sellers: How to set up a VTEX marketplace
 Being a seller means that your store will send and sell products through another website (that will work as a marketplace). To do that, you need to set up that store as a marketplace in your admin. Follow the steps below:
 
-1. Set up the [trade policy](/en/tutorial/configuring-a-marketplace-sales-policy/).
-2. Set up the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) regarding this trade policy.
+1. Set up the [sales channel](/en/tutorial/configuring-a-marketplace-sales-policy/).
+2. Set up the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) regarding this sales channel.
 3. Set up the [affiliate](/en/docs/tutorials/configuring-affiliates/).
 
 ##### About the integration

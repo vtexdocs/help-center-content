@@ -13,6 +13,9 @@ locale: pt
 legacySlug: chaves-de-api-melhorias-para-mais-seguranca-controle-e-visibilidade
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Atualizamos a experiência de Chaves de API com exportação, busca, alertas e links únicos para tokens.'
+tags:
+  - Atualização de segurança
+  - Identity
 ---
 
 Para otimizar a gestão das credenciais de acesso e aumentar a segurança, aprimoramos a experiência de **Chaves de API**. As novidades já estão disponíveis para todas as contas.

@@ -21,7 +21,7 @@ In this guide, you will learn how to create, configure, and delete a multistore.
 
 ## Creating a multistore
 
-Creating a multistore is free of charge for merchants. However, if you need to [request an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy), additional costs will apply.
+Creating a multistore is free of charge for merchants. However, if you need to [request an additional sales channel](/en/docs/tutorials/requesting-an-additional-trade-policy), additional costs will apply.
 
 To create a new store, follow the instructions in the section **Creating a store** in the guide [Account management](/en/docs/tutorials/account-management#criar-loja).
 
@@ -36,9 +36,9 @@ In a multidomain environment, you can set different layouts for each store, depe
 - For Legacy CMS Portal stores, see [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
 - For stores developed using Store Framework, see [Managing page and template content](/en/docs/tutorials/managing-page-and-template-content).
 
-### Defining trade policies
+### Defining sales channels
 
-Trade policies are required to differentiate products and/or prices in each store. To learn more, see [How trade policies work](/en/docs/tutorials/how-trade-policies-work) and [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy).
+Sales channels are required to differentiate products and/or prices in each store. To learn more, see [How sales channels work](/en/docs/tutorials/how-trade-policies-work) and [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy).
 
 ## Configuring a website
 
@@ -58,9 +58,9 @@ To allow customers to access the new store, follow the instructions below to cre
     ![cms-layout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/managing-a-multistore_1.png)
 
 9. Complete the **Store name from License Manager** field with the value of the subaccount previously created in the [Account Management] module (#creating-a-store).
-10. Complete the **Available sales channel** field by selecting the trade policies that will be associated with this store.
+10. Complete the **Available sales channel** field by selecting the sales channels that will be associated with this store.
 
-    > ⚠️ If your store uses more than one trade policy, check the sorting of these policies in **Store Settings > Channels > Trade Policies**. To learn more, see [How the relationship between websites and sales policies works](/en/docs/tutorials/managing-a-multistore).
+    > ⚠️ If your store uses more than one sales channel, check the sorting of these policies in **Store Settings > Channels > Sales Channels**. To learn more, see [How the relationship between websites and sales policies works](/en/docs/tutorials/managing-a-multistore).
 
 11. Click `Save Binding` and then `Save Website`.
 

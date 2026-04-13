@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-form-progressive-discount-promotions
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Configure progressive discount promotions, boosting larger purchases with adjustable and flexible percentages.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 VTEX has launched a new [Progressive Discount](/en/docs/tutorials/progressive-discount) form, which allows you to configure promotions with increasing discount percentages as more products are added to the cart. This feature is ideal for encouraging larger purchases, offering benefits based on the number of items purchased.

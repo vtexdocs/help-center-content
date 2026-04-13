@@ -8,7 +8,7 @@ slugEN: adding-or-editing-buying-policies
 locale: es
 ---
 
-> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente está disponible para cuentas seleccionadas.
 
 [Política de compras](https://help.vtex.com/es/docs/tutorials/politicas-de-compras) es la funcionalidad que permite a los usuarios de la organización compradora configurar reglas para autorizar o denegar pedidos automáticamente. Los mecanismos dinámicos de esta solución fortalecen la gobernanza de la organización y promueven el cumplimiento de las políticas de compras vigentes.
 
@@ -19,7 +19,7 @@ Este artículo orienta a los usuarios sobre la gestión de las políticas de com
 - Editar políticas de compras
 - Eliminar políticas de compras
 
-> ⚠️ Para configurar las políticas de compras, el rol de [Storefront permissions](https://developers.vtex.com/docs/guides/storefront-permissions) del usuario debe tener el recurso `ManageBuyingPolicies`. Para autorizar pedidos, es necesario el recurso `ApproveOrders`.
+> ⚠️ Para configurar las políticas de compras, el rol de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) del usuario debe tener el recurso `ManageBuyingPolicies`. Para autorizar pedidos, es necesario el recurso `ApproveOrders`.
 
 ## Agregar políticas de compras
 

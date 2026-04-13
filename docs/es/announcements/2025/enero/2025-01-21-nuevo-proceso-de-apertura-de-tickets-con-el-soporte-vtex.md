@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevo-proceso-de-apertura-de-tickets-con-el-soporte-vtex
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevo proceso con Copilot agiliza la resolución de dudas y la apertura de tickets con Soporte VTEX.'
+tags:
+  - Mejora
+  - Admin
 ---
 
 Hemos desarrollado un nuevo proceso que ofrece respuestas a las preguntas más comunes antes de abrir un ticket. Esto facilita la identificación de soluciones rápidamente y, si es necesario, permite abrir un ticket con el equipo de soporte.

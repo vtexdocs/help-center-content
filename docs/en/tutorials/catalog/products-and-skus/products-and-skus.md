@@ -67,7 +67,7 @@ You can filter the product list using the options below. Select the desired filt
 * [Seller](/en/docs/tutorials/what-is-a-seller)
 * [Kit](/en/docs/tutorials/what-is-a-bundle)
 * [Store Visibility](/en/docs/tutorials/adding-or-editing-products)
-* [Trade policy](/en/docs/tutorials/how-trade-policies-work)
+* [Sales channel](/en/docs/tutorials/how-trade-policies-work)
 * Created date
 
 > ⚠️ To quickly find recently created products, use the `Created date` filter. You can filter by products created `Today` or in the `Last 7 days`.
@@ -89,7 +89,7 @@ On the **Products and SKUs** page, each product has a colored icon that indicate
 
 | **Icon color** | **Name** | **Meaning** |
 | :---: | :--- | :--- |
-| Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [trade policy](/en/docs/tutorials/how-trade-policies-work). |
+| Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [sales channel](/en/docs/tutorials/how-trade-policies-work). |
 | Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) |
 | White | `Inactive in the catalog` | The product is disabled and has an inactive status.When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply. |
 
@@ -112,7 +112,7 @@ Hovering over a SKU row displays icons that allow you to perform different actio
 
 * <i class="fas fa-cube" aria-hidden="true"></i>**Edit inventory:** Takes you to the inventory management page in VTEX Admin, where you can change the quantity of the SKU available in stock. Check out the [Inventory management](/en/docs/tutorials/managing-stock-items) article for more information.
 * <i class="fas fa-dollar-sign" aria-hidden="true"></i> **Edit prices:** Takes you to the **Price list** in the VTEX Admin to change the prices of the SKU.
-* <i class="fas fa-info-circle" aria-hidden="true"></i> **Information:** Opens a modal displaying the SKU price, inventory, and trade policy details.
+* <i class="fas fa-info-circle" aria-hidden="true"></i> **Information:** Opens a modal displaying the SKU price, inventory, and sales channel details.
 * <i class="far fa-clone"></i> __Copy SKU Code:__ Copies the SKU ID to the clipboard.
 * <i class="far fa-eye"></i> __Activate__ / <i class="far fa-eye-slash"></i> __Deactivate:__  Opens a window that allows you to activate or deactivate the SKU in the store.
 

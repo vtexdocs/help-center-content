@@ -12,6 +12,9 @@ locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Mandatory update for Skyhub''s new shipping model.'
+tags:
+  - New feature
+  - Integrations
 ---
 
 > Regional content available only for Brazil.

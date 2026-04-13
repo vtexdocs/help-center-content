@@ -19,7 +19,7 @@ To request a new VTEX environment, please contact [Support](https://supporticket
 
 Adding a new environment may incur additional costs, as stipulated in your contract. If these costs aren't covered, mention it in your request so that a contractual addendum can be issued.
 
-VTEX provisions new environments without replicating configurations or content from the main environment. After creating the environment, you'll need to configure and customize it by adding layout, products, trade policies, and integrations based on your needs.
+VTEX provisions new environments without replicating configurations or content from the main environment. After creating the environment, you'll need to configure and customize it by adding layout, products, sales channels, and integrations based on your needs.
 
 To add an ecommerce store independent of the existing one and associate the same catalog with a different domain URL, configure a [multistore](/en/docs/tutorials/managing-a-multistore). This option doesn't generate additional costs.
 

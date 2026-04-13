@@ -8,7 +8,7 @@ slugEN: adding-or-editing-buying-policies
 locale: en
 ---
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
+> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available to selected accounts.
 
 [Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies-overview) is a feature that allows users from a buyer organization to configure rules to automatically authorize or deny orders. The dynamic mechanisms of this solution help increase the organization's governance and promote compliance with current buying policies.
 
@@ -19,7 +19,7 @@ In this guide, you'll learn how to manage buying policies through the following 
 - Editing a buying policy
 - Deleting a buying policy
 
-> ⚠️ To configure buying policies, the user's [Storefront permissions](https://developers.vtex.com/docs/guides/storefront-permissions) role must have the `ManageBuyingPolicies` resource. To authorize orders, the `ApproveOrders` resource is required.
+> ⚠️ To configure buying policies, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) role must have the `ManageBuyingPolicies` resource. To authorize orders, the `ApproveOrders` resource is required.
 
 ## Adding a buying policy
 

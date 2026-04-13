@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-tela-de-erro-no-admin
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'A nova tela de erro no Admin oferece orientações objetivas e ocultação de detalhes técnicos.'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 A nova tela de erros no Admin proporciona uma comunicação mais objetiva e focada em instruções diretas para identificar e corrigir diversos tipos de problema na loja.

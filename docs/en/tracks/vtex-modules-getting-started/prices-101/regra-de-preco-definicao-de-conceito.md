@@ -41,7 +41,7 @@ Let's look at a scenario where you want to sell your __consumer electronics cate
 
 Now let's suppose that one of the TVs available in this category has a __base price of U$ 1000__. If your strategy sets a __20% price variation__, this percentage will be applied to the base price, which will result in an __external marketplace sales price of U$ 1200__.
 
-To configure this rule, your first step is to decide which __price table__ it will apply to. That price table must be linked to the trade policy that sends information to the external marketplace. 
+To configure this rule, your first step is to decide which __price table__ it will apply to. That price table must be linked to the sales channel that sends information to the external marketplace. 
 
 If your strategy's aim is to only modify the __consumer electronics category prices__, you must specify this when creating the price rule. 
 
