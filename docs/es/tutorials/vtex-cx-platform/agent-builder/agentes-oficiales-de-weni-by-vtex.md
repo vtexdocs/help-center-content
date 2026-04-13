@@ -9,7 +9,7 @@ firstPublishedAt: 2025-07-29T16:33:54.447Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: official-agents-from-vtex-agentic-cx-platform
+slugEN: official-agents-from-vtex-cx-platform
 legacySlug: agentes-oficiales-de-weni-by-vtex
 locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
