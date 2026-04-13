@@ -1,7 +1,7 @@
 ---
 title: 'Agregar usuarios a la organización compradora'
 createdAt: '2026-03-05T10:00:00.000Z'
-updatedAt: '2026-03-05T10:00:00.000Z'
+updatedAt: '2026-04-13T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-users-to-buyer-organizations
@@ -10,9 +10,32 @@ locale: es
 
 Este artículo explica cómo un **Organization Admin** puede crear un usuario miembro de una organización compradora con permisos específicos para realizar acciones en nombre de la organización.
 
-El usuario agregado a una organización compradora está vinculado a una unidad organizativa y tiene un rol en el storefront que le permite ejecutar acciones en la tienda.
-
 > ⚠️ Esta funcionalidad está disponible solo para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), y por el momento, únicamente para cuentas seleccionadas.
+
+## Roles del storefront
+
+Los roles definen lo que cada usuario puede hacer en la tienda, incluyendo la gestión de la cuenta de la organización. Cada rol tiene un conjunto de permisos. Cuando se asignan uno o más roles a un usuario, este obtiene los permisos combinados a dichos roles. El uso de permisos en la tienda permite restringir el aceso de los usuarios para que vean y usen únicamente los recursos autorizados.
+
+La siguiente tabla resume los principales roles y sus funciones:
+
+| Rol | Propósito |
+| --- | --- |
+| **Organizational Unit Admin** | Control total sobre la unidad organizativa: configuraciones de la organización y contrato, usuarios, políticas de compras, presupuestos, campos contables y tarjetas de crédito. |
+| **Super Buyer Admin** | Puede gestionar todas las unidades organizativas desde el nivel raíz de la organización, más allá de los límites de unidades individuales. |
+| **Buyer** | Puede realizar pedidos en la tienda. |
+| **Order Approver** | Puede aprobar o rechazar pedidos de acuerdo con los flujos de aprobación configurados. |
+| **Order Modifier** | Puede utilizar la funcionalidad de modificación de pedido en los pedidos a los cuales tiene acceso. |
+| **Address Manager** | Puede agregar y gestionar direcciones durante el checkout y ver direcciones guardadas. |
+| **Buyer Organization Manager** | Puede visualizar todos los pedidos de su unidad organizativa. |
+| **Contract Manager** | Puede ver pedidos realizados bajo el contrato que le ha sido asignado. |
+| **User Manager** | Puede gestionar usuarios y ver detalles de usuarios dentro de la organización. |
+| **Buying Policy Manager** | Puede crear, editar y eliminar políticas de compra y flujos de aprobación, y ver las políticas de compra. |
+| **Budget Manager** | Puede crear, editar, asignar y eliminar presupuestos, y ver detalles del presupuesto, asignaciones, límites e historial de gastos. |
+| **Accounting Field Manager** | Puede crear, editar y eliminar campos contables, y ver configuraciones de campos contables. |
+| **Credit Card Manager** | Puede gestionar y ver tarjetas de crédito guardadas. |
+| **Personal Cards User** | Puede usar una nueva tarjeta de crédito en el checkout que no se guarda en el contrato de forma predeterminada. |
+
+> ℹ️ Obtén más información sobre los roles del storefront y los recursos en la guía para desarrolladores [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
 ## Antes de empezar
 
@@ -44,7 +67,7 @@ Sigue las instrucciones a continuación para agregar un usuario:
    - **Email (opcional)**: dirección de email que puede utilizarse para iniciar sesión y recibir comunicaciones relacionadas con el proceso de compra.
    - **Teléfono (opcional)**: teléfono de contacto del usuario. Puede utilizarse tanto para iniciar sesión como para recibir comunicaciones relacionadas con las compras realizadas.
    - **Nombre de usuario**: identificador único del usuario dentro de la organización. Utilizado para iniciar sesión en la tienda. No se permiten caracteres especiales.
-   - **Roles**: define el acceso del usuario en el storefront, como Comprador, Aprobador de pedidos u Administrador de la unidad organizativa. Para más información sobre roles y permisos, consulta la documentación de [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+   - **Roles**: define el acceso del usuario en el storefront, como Comprador, Aprobador de pedidos u Administrador de la unidad organizativa. Para más información sobre los roles disponibles, consulta la sección [Roles del storefront](#roles-del-storefront).
 
      > ⚠️ Para registrar usuarios compradores, es decir, con roles que permiten realizar compras, es necesario un paso adicional. Más información en [Habilitar usuarios compradores](#habilitar-usuarios-compradores).
 
@@ -71,8 +94,10 @@ El código será válido durante 12 horas. El usuario podrá iniciar sesión por
 
 ## Habilitar usuarios compradores
 
+Los **compradores** son usuarios que pueden realizar pedidos y están asociados a la organización compradora. Los datos del comprador son la información que identifica y describe a estos usuarios en el contexto de la tienda y de los flujos de pedidos, por ejemplo, para checkout e historial de pedidos. La tienda utiliza los datos del comprador para identificar quién realiza el pedido y aplicar los permisos, políticas y contratos correctos.
+
 A diferencia de otros tipos de usuarios, para registrar un usuario con permiso para realizar compras en la tienda, no basta con crear el usuario y asignarle determinados roles: también es necesario registrar al usuario como comprador vía API. Para habilitar a un usuario para hacer compras en la tienda sigue los pasos a continuación:
 
-1. Agrega el usuario a la organización compradora como se describe en las [instrucciones](#instrucciones).
-2. Asigna un rol que permita realizar compras. Consulta roles y permisos en el artículo [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+1. Agrega el usuario a la organización compradora como se describe en las [Instrucciones](#instrucciones).
+2. Asigna un rol que permita realizar compras, como **Buyer**. Consulta los roles disponibles en la sección [Roles del storefront](#roles-del-storefront).
 3. Registra al usuario como comprador. Para saber cómo agregar y gestionar datos de compradores, consulta la [API de datos del comprador B2B](https://developers.vtex.com/docs/api-reference/b2b-buyer-data-api).
