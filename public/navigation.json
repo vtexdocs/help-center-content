@@ -17918,12 +17918,12 @@
                 {
                   "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
-                    "es": "Intelligent Search: Búsqueda semántica (Beta)",
+                    "es": "Intelligent Search: búsqueda semántica (beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
                   },
                   "slug": {
                     "en": "intelligent-search-semantic-search-beta",
-                    "es": "intelligent-search-busca-semantica-beta",
+                    "es": "intelligent-search-busqueda-semantica-beta",
                     "pt": "intelligent-search-busca-semantica-beta"
                   },
                   "origin": "",

@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search: Búsqueda semántica (Beta)'
+title: 'Intelligent Search: búsqueda semántica (beta)'
 id: 366JCdaoDVz8V3FFZZ2fUD
 status: PUBLISHED
 createdAt: 2025-06-13T14:11:56.694Z
@@ -15,7 +15,9 @@ locale: es
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ La búsqueda semántica está disponible exclusivamente como parte del Search Optimizer Agent, un servicio adicional de optimización de búsqueda.
+> 
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa ponte en contacto con nuestro equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
 
 Intelligent Search combina la precisión de la búsqueda léxica con la inteligencia de los modelos semánticos de búsqueda para ofrecer una experiencia relevante, fluida y adaptada a la intención del usuario.
 
@@ -25,7 +27,7 @@ Esta estrategia facilita la búsqueda de productos, impulsa la conversión y eli
 
 Intelligent Search une dos conceptos principales:
 
-* **Búsqueda léxica**: basada en la coincidencia directa de palabras clave.  
+* **Búsqueda léxica**: también denominada búsqueda de texto completo, se basa en la coincidencia directa de palabras clave.
 * **Búsqueda semántica**: enfocada en la interpretación del significado y la intención detrás de la consulta.
 
 Consulta a continuación en qué consiste cada una.
@@ -36,7 +38,7 @@ La búsqueda basada en coincidencia exacta funciona con la comparación directa 
 
 **Ejemplo:**
 
-* **Consulta:** `Tenis Nike Air Max 90`  
+* **Consulta:** `Tenis Nike Air Max 90`
 
    * La búsqueda léxica devuelve exactamente los productos con ese nombre en el catálogo.
 
@@ -46,24 +48,24 @@ La búsqueda semántica se basa en el **Procesamiento de Lenguaje Natural (PLN)*
 
 **Ejemplo:**
 
-* **Consulta**: `tenis para correr maratón`  
+* **Consulta**: `tenis para correr maratón`
 
    * La búsqueda semántica interpreta que el usuario busca tenis orientados a rendimiento de larga distancia y prioriza productos diseñados para carreras de resistencia, aunque no mencionen la palabra “maratón” en la descripción.
 
 * **Consulta**: `ropa para entrenamiento en clima frío`
 
-   * **Léxica**: puede que no encuentre coincidencia directa con “entrenamiento en clima frío”. 
+   * **Léxica**: puede que no encuentre coincidencia directa con “entrenamiento en clima frío”.
    * **Semántica**: entiende que el usuario busca ropa deportiva con protección térmica, y prioriza prendas como pantalones térmicos y camisetas de manga larga.
 
 ## Enfoque de Intelligent Search
 
 Intelligent Search combina estas dos estrategias de forma dinámica. La plataforma utiliza modelos semánticos entrenados para el contexto retail y complementa esa interpretación con la estructura léxica consolidada en Intelligent Search.
 
-El modelo híbrido tiene en cuenta:
+Este modelo considera:
 
-* Campos estructurados del catálogo (léxica)  
-* Relaciones entre términos y sinónimos (semántica)  
-* Contexto de búsqueda y comportamiento del usuario  
+* Campos estructurados del catálogo (léxica)
+* Relaciones entre términos y sinónimos (semántica)
+* Contexto de búsqueda y comportamiento del usuario
 * Relevancia estadística y machine learning
 
 El resultado es un sistema de búsqueda que ofrece resultados más alineados con lo que los consumidores realmente quieren encontrar, incluso cuando usan lenguaje natural o ambiguo.
@@ -76,6 +78,7 @@ En la práctica, si un cliente escribe “memoria 16GB”, por ejemplo, la parte
 
 A continuación se destacan los principales beneficios de esta solución para la experiencia del consumidor y el desempeño de la tienda:
 
-* **Aumento en la conversión:** ofrecer resultados más relevantes reduce el tiempo que toma encontrar un producto, lo que puede acelerar la decisión de compra.  
-* **Comprensión del lenguaje natural:** los clientes pueden realizar búsquedas con el mismo lenguaje que emplean en su día a día: frases completas, términos ambiguos o lenguaje informal. Por ejemplo, el cliente puede realizar la siguiente consulta `¿cuál es el mejor tenis para senderismo?`, y la búsqueda entiende que están buscando zapatos con características específicas, como impermeables y con suela de agarre reforzado.  
+* **Aumento en la conversión:** ofrecer resultados más relevantes reduce el tiempo que toma encontrar un producto, lo que puede acelerar la decisión de compra.
+* **Comprensión del lenguaje natural:** los clientes pueden realizar búsquedas con el mismo lenguaje que emplean en su día a día: frases completas, términos ambiguos o lenguaje informal. Por ejemplo, el cliente puede realizar la siguiente consulta `¿cuál es el mejor tenis para senderismo?`, y la búsqueda entiende que están buscando zapatos con características específicas, como impermeables y con suela de agarre reforzado.
 * **Soporte para búsquedas complejas:** ideal para catálogos con productos que cuentan con descripciones subjetivas (como moda, belleza o decoración), donde el atributo exacto puede no estar explícito, pero la intención del usuario puede inferirse claramente.
+
