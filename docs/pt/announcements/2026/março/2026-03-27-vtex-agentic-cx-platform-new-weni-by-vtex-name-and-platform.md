@@ -1,25 +1,25 @@
 ---
-title: 'VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX'
+title: 'VTEX CX Platform: novo nome e atualizações na plataforma Weni by VTEX'
 status: PUBLISHED
 createdAt: 2026-03-26T18:30:00.000Z
 updatedAt: 2026-03-27T15:00:00.000Z
 publishedAt: 2026-03-27T15:00:00.000Z
 contentType: updates
-productTeam: VTEX Agentic CX Platform
+productTeam: VTEX CX Platform
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: 2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform
 locale: pt
-announcementSynopsisPT: 'A Weni by VTEX agora se chama VTEX Agentic CX Platform, com novo visual e uma navegação reorganizada.'
+announcementSynopsisPT: 'A Weni by VTEX agora se chama VTEX CX Platform, com novo visual e uma navegação reorganizada.'
 tags:
   - Melhoria
-  - VTEX Agentic CX Platform
+  - VTEX CX Platform
 ---
 
-Atualizamos o visual e as nomenclaturas da plataforma Weni by VTEX, que agora se chama **VTEX Agentic CX Platform**. Implementada em 26 de março, essa mudança oferece uma experiência mais integrada e consistente com o ecossistema VTEX.
+Atualizamos o visual e as nomenclaturas da plataforma Weni by VTEX, que agora se chama **VTEX CX Platform**. Implementada em 26 de março, essa mudança oferece uma experiência mais integrada e consistente com o ecossistema VTEX.
 
 ## O que mudou?
 
-A principal mudança é o nome da plataforma, que agora se chama **VTEX Agentic CX Platform**.
+A principal mudança é o nome da plataforma, que agora se chama **VTEX CX Platform**.
 
 A estrutura do menu também foi reorganizada. Os itens agora estão agrupados em duas seções principais: **Agent Builder** e **Operações**.
 
@@ -51,4 +51,4 @@ Desenvolvemos essa atualização para manter consistência visual com a identida
 
 Nenhuma ação é necessária. A atualização é automática e já está disponível para todos os usuários.
 
-Para saber mais sobre a plataforma VTEX Agentic CX Platform e suas funcionalidades, consulte nossa [documentação](https://help.vtex.com/pt/docs/tutorials/weni-by-vtex-categoria).
+Para saber mais sobre a plataforma VTEX CX Platform e suas funcionalidades, consulte nossa [documentação](https://help.vtex.com/pt/docs/tutorials/vtex-cx-platform-categoria).

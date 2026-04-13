@@ -1,25 +1,25 @@
 ---
-title: 'VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform'
+title: 'VTEX CX Platform: New name and updates to the Weni by VTEX platform'
 status: PUBLISHED
 createdAt: 2026-03-26T18:30:00.000Z
 updatedAt: 2026-03-27T15:00:00.000Z
 publishedAt: 2026-03-27T15:00:00.000Z
 contentType: updates
-productTeam: VTEX Agentic CX Platform
+productTeam: VTEX CX Platform
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: 2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform
 locale: en
-announcementSynopsisPT: 'Weni by VTEX is now called VTEX Agentic CX Platform, with a new look and reorganized navigation.'
+announcementSynopsisPT: 'Weni by VTEX is now called VTEX CX Platform, with a new look and reorganized navigation.'
 tags:
   - Improvement
-  - VTEX Agentic CX Platform
+  - VTEX CX Platform
 ---
 
-We've updated the look and name of the Weni by VTEX platform, which is now called **VTEX Agentic CX Platform**. Effective March 26, this change provides a more integrated and consistent experience with the VTEX ecosystem.
+We've updated the look and name of the Weni by VTEX platform, which is now called **VTEX CX Platform**. Effective March 26, this change provides a more integrated and consistent experience with the VTEX ecosystem.
 
 ## What has changed?
 
-The main change is the new platform name, which is now **VTEX Agentic CX Platform**.
+The main change is the new platform name, which is now **VTEX CX Platform**.
 
 The menu structure has also been reorganized. Items are now grouped into two main sections: **Agent Builder** and **Operations**.
 
@@ -51,4 +51,4 @@ We developed this update to create visual consistency with the VTEX identity, un
 
 No action is needed. The update is automatic and already available to all users.
 
-To learn more about VTEX Agentic CX Platform and its features, check our [documentation](https://help.vtex.com/en/docs/tutorials/weni-by-vtex-category).
+To learn more about VTEX CX Platform and its features, check our [documentation](https://help.vtex.com/en/docs/tutorials/vtex-cx-platform-category).

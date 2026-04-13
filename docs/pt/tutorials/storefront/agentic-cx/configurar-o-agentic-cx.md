@@ -27,7 +27,7 @@ A página de **Configurações** do Agentic CX do Admin VTEX está dividida em d
 
 ### Webchat
 
-Para modificar a aparência e o comportamento do assistente inteligente, clique em `Editar`. Essa ação levará você ao VTEX Agentic CX Platform. Para mais informações sobre a plataforma, acesse [esse artigo](docs/pt/tutorials/vtex-agentic-cx-platform/visão-geral-vtex-agentic-cx-platform/visao-geral-vtex-agentic-cx-platform.md).
+Para modificar a aparência e o comportamento do assistente inteligente, clique em `Editar`. Essa ação levará você ao VTEX CX Platform. Para mais informações sobre a plataforma, acesse [esse artigo](/pt/docs/tutorials/visao-geral-vtex-cx-platform).
 
 Você também pode escolher a distribuição de tráfego entre:
 

@@ -83,4 +83,4 @@ A tabela de Auditoria fornece informações individuais de cada atendimento.
 | Data | Data do atendimento |
 | Hora | Hora do atendimento |
 
-Para saber mais detalhes, clique em `Ver detalhes`. Você será redirecionado à página de **Auditoria** do VTEX Agentic CX Platform.
+Para saber mais detalhes, clique em `Ver detalhes`. Você será redirecionado à página de **Auditoria** do VTEX CX Platform.
