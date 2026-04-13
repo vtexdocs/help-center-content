@@ -23,7 +23,7 @@ Botfather es un chatbot que crea y controla otros chatbots para Telegram. Para e
 
 2. Cree un nuevo chatbot con BotFather:
 
-Cuando inicie una nueva conversación con BotFather, envie un mensaje /newbot para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en ""\_bot"", por ejemplo, ""test_bot"").
+Cuando inicie una nueva conversación con BotFather, envie un mensaje /newbot para crear un nuevo chatbot. En seguida escoja un nombre y un Username (los usernames deben siempre terminar en "\_bot", por ejemplo, "test_bot").
 
 Reciba el Token de acceso:
 

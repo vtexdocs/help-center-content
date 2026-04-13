@@ -19,21 +19,21 @@ The active flow trigger allows an agent to send a flow to one or more contacts a
 
 In this article, we will cover:
 
-- Enabling an existing flow for sending in Chats
+- Enabling an existing flow for sending in Live Desk
 - Creating a flow that sends a message template
-- Activating the flow trigger function in Chats settings
-- Triggering a flow in Chats
+- Activating the flow trigger function in Live Desk settings
+- Triggering a flow in Live Desk
 
-**Enabling an Existing Flow for Sending in Chats**
+**Enabling an existing flow for sending in Live Desk**
 
-Any existing flow can be triggered through Chats. To do this, simply access
+Any existing flow can be triggered through Live Desk. To do this, simply access
 **Flows**.
 
 Next, select the desired flow and click on the **label** button.
 
-For the flow to be available in Chats, it needs to have a label named **chats**. If it's not available, create a new label named **chats** as shown in the example:
+For the flow to be available in Live Desk, it needs to have a label named **chats**. If it's not available, create a new label named **chats** as shown in the example:
 
-By clicking **create**, your flow will automatically have the created label and will be available for use in Chats.
+By clicking **create**, your flow will automatically have the created label and will be available for use in Live Desk.
 
 ## Creating a flow to send a message template
 
@@ -55,20 +55,20 @@ Insira os cards de acordo com as ações que desejar no seu fluxo, para que o fl
 
 Your registered templates should appear. Select the desired one and insert the variable if applicable, click OK and finalize your flow.
 
-## Enabling the flow trigger function in Chats settings
+## Enabling the flow trigger function in Live Desk settings
 
 For the flow trigger function to be available to agents, it must first be
 enabled in the desired department settings.
 
-Go to **Settings > Chats > Open**.
+Go to **Settings > Live Desk > Open**.
 
 On the first screen of the department, you will see the button to activate the flow trigger. It will be deactivated; **activate** it and click **save**.
 
-### Triggering a flow in Chats
+### Triggering a flow in Live Desk
 
-Access **Chats**.
+Access **Live Desk**.
 
-On the Chats screen, click the button below **Preferences > Flows**, as shown in the example:
+On the Live Desk screen, click the button below **Preferences > Flows**, as shown in the example:
 
 Select the desired contacts and click **Continue**.
 

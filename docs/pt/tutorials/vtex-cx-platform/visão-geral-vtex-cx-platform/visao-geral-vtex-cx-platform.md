@@ -75,8 +75,6 @@ Para acessar a página de Perfil, vá para a página inicial e clique no ícone 
 
 Clicando no ícone à esquerda clique em Seu perfil, nessa sessão pode editar seu nome, sobrenome e o contato da sua conta, além de poder, trocar a senha, caso necessário. Poderá também colocar uma imagem para o seu perfil. Digite as alterações e clique em salvar alterações que as informações serão atualizadas.
 
-Complete os campos para salvar os dados que serão atualizados, imagem demonstrativa não contém o contato completo para respeitar a Lei Geral de Proteção de Dados.
-
 ### Trocar senha
 
 Para trocar a senha da sua conta no VTEX CX Platform, siga os passos abaixo:

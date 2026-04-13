@@ -89,8 +89,6 @@ You can insert more than one Prompt in the ChatGPT settings, being able to choos
 
 To use the ChatGPT integration in flows, you must use the "Call External Service" card after receiving a message or response from the user. Your flow can be constructed as follows:
 
-According to the image, you must configure the card as follows:
-
 1. Choose the Name of your application configured in the Integrations Menu;
 2. Choose the action Consult Chat GPT (for now we only have this function released);
 3. Choose which prompt to use: If you only have 1 prompt configured, you can skip this step.

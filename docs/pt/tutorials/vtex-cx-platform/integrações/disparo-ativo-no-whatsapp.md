@@ -25,9 +25,9 @@ Por outro lado, o **disparo ativo** ocorre quando a empresa toma a iniciativa de
 
 Após a pré-aprovação da Template Message, o fluxo conversacional pode começar a ser construído. O primeiro passo é adicionar o cartão/ card de ""Atualizar Contato"" e escolher a opção ""Channel"" (Canal), pois ela definirá de qual canal será feito o disparo. Nesta etapa, escolha o seu canal do WhatsApp.
 
-O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto basta apenas digitar a seguinte expressão: @(“”). Veja a imagem abaixo:
+O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto basta apenas digitar a seguinte expressão: @(“”).
 
-A expressão acima indica que um Template Message (modelo de mensagem) será enviado e que este campo não será levado em consideração, pois o modelo de mensagem a ser enviado aos clientes pode ser selecionado na aba ""WhatsApp"", localizada no mesmo cartão de ""Enviar Mensagem"", conforme mostrado na imagem acima. Ao clicar na aba ""WhatsApp"", é possível acessar as mensagens que foram pré-aprovadas e selecioná-las para envio, como ilustrado na imagem seguinte.
+A expressão acima indica que um Template Message (modelo de mensagem) será enviado e que este campo não será levado em consideração, pois o modelo de mensagem a ser enviado aos clientes pode ser selecionado na aba ""WhatsApp"", localizada no mesmo cartão de ""Enviar Mensagem"". Ao clicar na aba ""WhatsApp"", é possível acessar as mensagens que foram pré-aprovadas e selecioná-las para envio.
 
 Neste momento, também é possível adicionar variáveis que tornarão a mensagem mais personalizada, como, por exemplo, a variável *@contact.name*, que chama o usuário pelo nome registrado no próprio WhatsApp.
 

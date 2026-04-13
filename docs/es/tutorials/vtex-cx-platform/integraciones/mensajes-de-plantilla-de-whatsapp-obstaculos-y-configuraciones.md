@@ -21,7 +21,7 @@ Aquí podrás ver soluciones para posibles obstáculos, rechazos y errores en el
 
 Una vez que hayas creado el modelo, podrás enviarlo para su aprobación. Puede tomar hasta 24 horas para que se tome una decisión de aprobación. Una vez tomada la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, META enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, META también enviará una notificación de webhook. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
 
-Si es aprobado, el modelo de mensaje tendrá el estado **Activo \- Calidad pendiente.** Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo de mensaje puede ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviado para su aprobación. Otra opción es [apelar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) la decisión.
+Si es aprobado, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente.** Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo de mensaje puede ser [editado](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviado para su aprobación. Otra opción es [apelar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) la decisión.
 
 ## Ejemplos
 
@@ -50,7 +50,7 @@ Puedes editar el modelo a través del Administrador de WhatsApp o del punto de e
 
 Una vez aprobado el modelo, podrás enviarlo a los clientes. Para enviar un modelo de mensaje, consulta Cómo enviar modelos de mensaje a usuarios de la API de Nube o Cómo enviar modelos de mensaje a usuarios de la API Local.
 
-Solo los modelos con estado **Activo (por ejemplo, Activo \- Calidad pendiente, Activo \- Alta calidad)** pueden ser enviados a los clientes.
+Solo los modelos con estado **Activo (por ejemplo, Activo - Calidad pendiente, Activo - Alta calidad)** pueden ser enviados a los clientes.
 
 El estado puede cambiar automáticamente de **Activo** a **Pausado** o **Desactivado** según los comentarios de los clientes. Por lo tanto, te recomendamos que monitorees los cambios de estado y tomes las medidas apropiadas cuando un modelo de mensaje en el que dependes sea pausado o desactivado o corra ese riesgo.
 
@@ -62,13 +62,13 @@ Los modelos pueden tener los siguientes estados.
 
 **Rechazado:** el modelo fue rechazado durante el proceso de revisión. Consulta Apelaciones.
 
-**Activo \- Calidad pendiente:** el modelo de mensaje aún necesita recibir comentarios de los clientes sobre la calidad. Los modelos de mensaje con este estado pueden ser enviados a los clientes. Consulta Clasificación de calidad.
+**Activo - Calidad pendiente:** el modelo de mensaje aún necesita recibir comentarios de los clientes sobre la calidad. Los modelos de mensaje con este estado pueden ser enviados a los clientes. Consulta Clasificación de calidad.
 
-**Activo \- Alta calidad:** el modelo ha recibido pocos o ningún comentario negativo de los clientes. Los modelos de mensaje con este estado pueden ser enviados a los clientes. Consulta Clasificación de calidad.
+**Activo - Alta calidad:** el modelo ha recibido pocos o ningún comentario negativo de los clientes. Los modelos de mensaje con este estado pueden ser enviados a los clientes. Consulta Clasificación de calidad.
 
-**Activo \- Calidad media:** el modelo ha recibido comentarios negativos de varios clientes y podría ser pausado o desactivado pronto. Los modelos de mensaje con este estado pueden ser enviados a los clientes. Consulta Clasificación de calidad.
+**Activo - Calidad media:** el modelo ha recibido comentarios negativos de varios clientes y podría ser pausado o desactivado pronto. Los modelos de mensaje con este estado pueden ser enviados a los clientes. Consulta Clasificación de calidad.
 
-**Activo \- Calidad baja:** el modelo ha recibido comentarios negativos de varios clientes. Los modelos con este estado pueden ser enviados a los clientes, pero podrían ser suspendidos o desactivados pronto. Por lo tanto, te recomendamos que resuelvas los problemas reportados por los clientes. Consulta Clasificación de calidad.
+**Activo - Calidad baja:** el modelo ha recibido comentarios negativos de varios clientes. Los modelos con este estado pueden ser enviados a los clientes, pero podrían ser suspendidos o desactivados pronto. Por lo tanto, te recomendamos que resuelvas los problemas reportados por los clientes. Consulta Clasificación de calidad.
 
 **Pausado:** el modelo ha sido pausado debido a comentarios negativos recurrentes de los clientes. Los modelos de mensaje con este estado no pueden ser enviados a los clientes. Consulta Pausa en el modelo.
 
@@ -90,10 +90,10 @@ Si has configurado los webhooks y ves que la calidad de un modelo está disminuy
 
 Los modelos de mensaje tienen una clasificación de calidad basada en el uso y los comentarios de los clientes. Cuando el estado sea Activo, la clasificación del modelo de mensaje aparecerá en el Administrador de WhatsApp junto al estado:
 
-- Activo \- **Calidad pendiente** (resaltado en verde)
-- Activo \- **Alta calidad** (resaltado en verde)
-- Activo \- **Calidad media** (resaltado en amarillo)
-- Activo \- **Calidad baja** (resaltado en rojo)
+- Activo - **Calidad pendiente** (resaltado en verde)
+- Activo - **Alta calidad** (resaltado en verde)
+- Activo - **Calidad media** (resaltado en amarillo)
+- Activo - **Calidad baja** (resaltado en rojo)
 
 Inicialmente, los modelos de mensaje aprobados tienen la clasificación **Calidad pendiente**. Si un modelo de mensaje recibe comentarios negativos continuamente, esto cambiará el estado del modelo. Mientras el modelo de mensaje tenga el estado **Activo**, independientemente de la clasificación de calidad, podrá ser enviado a los clientes. Cuando cambie el estado, no podrá ser enviado a los clientes hasta que vuelva a estar activo.
 
@@ -101,9 +101,9 @@ No ofrecemos webhooks para comentarios de modelo de mensaje o cambios en la clas
 
 ## Pausa en el modelo
 
-Disponible para empresas configuradas en Brasil, México y Colombia el 7 de septiembre de 2022 y en todos los demás países el 6 de octubre de 2022\.
+Disponible para empresas configuradas en Brasil, México y Colombia el 7 de septiembre de 2022 y en todos los demás países el 6 de octubre de 2022.
 
-Si un modelo de mensaje alcanza la clasificación de calidad más baja (estado **Activo \- Calidad baja**), se pausará automáticamente por un período para proteger la clasificación de calidad de los números de teléfono que lo usaron. Las duraciones de las pausas son las siguientes:
+Si un modelo de mensaje alcanza la clasificación de calidad más baja (estado **Activo - Calidad baja**), se pausará automáticamente por un período para proteger la clasificación de calidad de los números de teléfono que lo usaron. Las duraciones de las pausas son las siguientes:
 
 Primera instancia: **Pausado por 3 horas.**
 
@@ -121,7 +121,7 @@ Inicialmente, la pausa no afectará el número de teléfono comercial ni reducir
 
 ## Notificaciones de pausa
 
-Cuando se pausa un modelo de mensaje, enviaremos una notificación en el Administrador de WhatsApp, por correo electrónico y webhook (si has suscrito webhooks de cambios en modelos de mensaje). Consulta Cómo monitorear cambios de estado para ver información sobre la configuración del webhook y Ejemplos \- Modelo pausado para ver un ejemplo de carga de webhook.
+Cuando se pausa un modelo de mensaje, enviaremos una notificación en el Administrador de WhatsApp, por correo electrónico y webhook (si has suscrito webhooks de cambios en modelos de mensaje). Consulta Cómo monitorear cambios de estado para ver información sobre la configuración del webhook y Ejemplos - Modelo pausado para ver un ejemplo de carga de webhook.
 
 ## Reanudar
 

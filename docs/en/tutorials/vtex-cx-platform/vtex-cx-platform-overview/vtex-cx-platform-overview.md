@@ -55,7 +55,7 @@ Templates are pre-built flows with specific purposes, divided into three categor
 
 Click "Finish" to proceed.
 
-Click "Start" and explore all the features available on the VTEX CX Platform. Make the most of it!
+Click "Start" and explore all the features available on the VTEX CX Platform.
 
 ### Overview
 
@@ -79,9 +79,7 @@ To change your VTEX CX Platform account password, follow the steps below:
 
 #### Reset Password
 
-You can also reset your password!
-
-Go to the home page > Forgot Password and enter your email.
+You can also reset your password. Go to the home page > Forgot Password and enter your email.
 
 > Note: An email will be sent, and you will be able to change your password.
 
@@ -115,7 +113,7 @@ In total, we have 4 permissions, divided into 2 groups:
 
 **Chat Module Permissions**
 
-- **Human Service**: Handles customer interactions in VTEX CX Platform Chats.
+- **Human Service**: Handles customer interactions in Live Desk.
 
 ### Getting Started - Creating Your Project
 
@@ -140,7 +138,7 @@ After filling in the fields above, click the "Next" button and proceed to the ne
 
 **Templates** are pre-built flows with specific purposes, divided into three categories: support, integrations, and sales. When you click on any of the cards related to a template category, a pop-up will appear detailing its general use.
 
-Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created. See the image:
+Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created.
 
 After following the steps to create an organization and project, you can start **adding your team** by configuring permissions.
 
@@ -148,13 +146,13 @@ After following the steps to create an organization and project, you can start *
 
 > ℹ️ To learn more about the permissions' system, click here.
 
-Add members to your organization by clicking the dropdown menu and then "Manage Members." See the image:
+Add members to your organization by clicking the dropdown menu and then "Manage Members."
 
 (1)Enter the email of the person you wish to invite and click "Add" (1). Set the permission (2) for each person as needed. Once you're done, you can click the "Add" button.
 
-The members you add will receive an invitation email to join the organization. See the image:
+The members you add will receive an invitation email to join the organization.
 
-> ℹ️ To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
+> ℹ️ To learn more about the permissions' system, click [here](/en/docs/tutorials/vtex-cx-platform-permission-system).
 
 After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the VTEX CX Platform.
 
@@ -162,9 +160,9 @@ Currently, the platform is available in Portuguese, English, and Spanish. In thi
 
 ### How to change the language
 
-1. When you log into the platform, click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
+1. When you log into the platform, click on the settings button located in the upper right corner of the screen. By clicking on it, you will have the option to switch between languages.
 
-2. Within the project screen, you can also change the platform's language. Simply click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
+2. Within the project screen, you can also change the platform's language. Simply click on the settings button located in the upper right corner of the screen. By clicking on it, you will have the option to switch between languages.
 
 By following these steps, the interface should be updated to your preferred language. You may need to restart your browser or log out and back into the system.
 

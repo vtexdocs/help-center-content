@@ -31,4 +31,4 @@ Additionally, we have two other options: Phone Call and Survey.
 
 A flow that uses the Phone Call method is created for use in call channels. There are special action and decision cards for this type of flow, which you can learn about by visiting the article on call flows.
 
-Now that you are familiar with the settings, simply click **Create** and start building your new flow, properly configured for your desired purpose!
+Once you are familiar with the settings, click **Create** to start building your new flow, properly configured for your desired purpose.

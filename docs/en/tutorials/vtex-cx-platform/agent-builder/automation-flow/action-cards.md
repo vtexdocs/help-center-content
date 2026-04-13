@@ -108,7 +108,7 @@ Here you can send an email to someone. This email can be sent either to the cont
 
 To send the email, simply fill in the recipient, subject, and message body in the corresponding fields.
 
-Want to send quick reminders to a contact without spending on SMS or calls? Send an email!
+You can use this card to send quick reminders to a contact without spending on SMS or calls.
 
 ### Save a result for this flow
 
@@ -153,7 +153,7 @@ Using this card does not replace the use of templates (pre-approved messages by 
 
 ### Open a ticket with a human agent
 
-This card is used to open support tickets for human assistance. To direct the inquiries to the Chats module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](/en/docs/tutorials/weni-chats-setting-up-human-attendance).
+This card is used to open support tickets for human assistance. To direct the inquiries to the Live Desk module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](/en/docs/tutorials/manage-live-desk).
 
 ### Call a webhook
 

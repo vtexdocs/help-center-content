@@ -27,7 +27,7 @@ Algunas informaciones importantes sobre el modelo:
 | Claude 3 (Sonnet) | 77,6% Exactitud |
 
 - Al menos 3 veces más rápido en la clasificación (inferencia);
-- Modelo eficiente incluido en su plan Weni, sin necesidad de llamadas de API o costos adicionales;
+- Modelo eficiente incluido en su plan VTEX CX Platform, sin necesidad de llamadas de API o costos adicionales;
 - Implementación fácil y rápida.
 
 Vea un video rápido y explicativo: [video.](https://youtu.be/RDRgSXIJRrM)
@@ -36,15 +36,15 @@ Vea un video rápido y explicativo: [video.](https://youtu.be/RDRgSXIJRrM)
 
 El funcionamiento de la aplicación de Zero Shot consiste en recibir como entrada una frase, que será categorizada, e identificar a qué categoría pertenece esta entrada según el contexto del cliente. Las categorías se definen a través de Frases de comando, que sirven de contexto para identificar y generar la clasificación correcta. A partir de los datos de entrada, se espera que el modelo devuelva la categoría de la frase.
 
-Cuando hablamos de contexto, tenga en cuenta que siempre que use Zero Shot, debemos configurar las Frases de Comando. Estas frases instruir án a la inteligencia para clasificar sus intenciones (llamadas ""Clases"") de acuerdo con las reglas que usted defina.
+Cuando hablamos de contexto, tenga en cuenta que siempre que use Zero Shot, debemos configurar las Frases de Comando. Estas frases instruir án a la inteligencia para clasificar sus intenciones (llamadas "Clases") de acuerdo con las reglas que usted defina.
 
 ## Zero shot en la práctica
 
-Hay dos formas de crear una IA de clasificación de tipo Zero Shot en la Plataforma Weni: a través de las tarjetas de flujo** ""Clasificar automáticamente"" y ""Esperar por respuesta inteligente"".**
+Hay dos formas de crear una IA de clasificación de tipo Zero Shot en la VTEX CX Platform: a través de las tarjetas de flujo** "Clasificar automáticamente" y "Esperar por respuesta inteligente".**
 
 ## Esperar por respuesta inteligente
 
-Con la tarjeta **"" Esperar por respuesta inteligente""**, puede esperar la respuesta del usuario y enviar esa respuesta directamente a su Clasificación de IA, de modo que pueda crear sus categorías y tratar cada intención según desee:
+Con la tarjeta **" Esperar por respuesta inteligente"**, puede esperar la respuesta del usuario y enviar esa respuesta directamente a su Clasificación de IA, de modo que pueda crear sus categorías y tratar cada intención según desee:
 
 En el ejemplo siguiente, creamos las intenciones y sus respectivos contextos para que podamos categorizar y tratar las solicitudes del usuario:
 
@@ -56,4 +56,4 @@ Recuerde, cada categoría debe tener una Frase de Comando. **Estas frases instru
 
 ## Clasificar automáticamente
 
-Con la tarjeta ""Clasificar automáticamente"", puede utilizar una expresión o variables como entrada para la clasificación de la intención (Clase) del usuario. Normalmente, esta tarjeta se usa cuando ya tiene un texto para tratar y no necesita esperar una respuesta del usuario antes de consultar la Inteligencia Artificial:
+Con la tarjeta "Clasificar automáticamente", puede utilizar una expresión o variables como entrada para la clasificación de la intención (Clase) del usuario. Normalmente, esta tarjeta se usa cuando ya tiene un texto para tratar y no necesita esperar una respuesta del usuario antes de consultar la Inteligencia Artificial:

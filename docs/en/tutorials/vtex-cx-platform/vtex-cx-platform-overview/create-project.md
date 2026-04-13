@@ -36,7 +36,7 @@ After filling in the fields above, click the "Next" button and proceed to the ne
 
 **Templates** are pre-built flows with specific purposes, divided into three categories: support, integrations, and sales. When you click on any of the cards related to a template category, a pop-up will appear detailing its general use.
 
-Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created. See the image:
+Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created.
 
 After following the steps to create an organization and project, you can start **adding your team** by configuring permissions.
 
@@ -44,12 +44,12 @@ After following the steps to create an organization and project, you can start *
 
 > To learn more about the permissions' system, click here.
 
-Add members to your organization by clicking the dropdown menu and then "Manage Members." See the image:
+Add members to your organization by clicking the dropdown menu and then "Manage Members."
 
 (1)Enter the email of the person you wish to invite and click "Add" (1). Set the permission (2) for each person as needed. Once you're done, you can click the "Add" button.
 
-The members you add will receive an invitation email to join the organization. See the image:
+The members you add will receive an invitation email to join the organization.
 
-> To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
+> To learn more about the permissions' system, click [here](/en/docs/tutorials/vtex-cx-platform-permission-system).
 
 After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the VTEX CX Platform.

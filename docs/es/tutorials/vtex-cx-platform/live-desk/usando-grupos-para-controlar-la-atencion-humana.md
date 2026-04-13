@@ -23,20 +23,15 @@ El uso de grupos para controlar los contactos que están en atención humana es 
 
 En este artículo nos referiremos al grupo de control como Atención Humana.
 
-Debes añadir el contacto a este grupo en el flujo donde abres un ticket, como
-se mostró anteriormente.
+Debes añadir el contacto a este grupo en el flujo donde abres un ticket, como se mostró anteriormente.
 
 Es importante mencionar que, si abres tickets en flujos diferentes, necesitas hacer esto en todos los flujos.
 
 ## Ignorando participantes del grupo de control en disparadores
 
-Solo añadir a este grupo no es suficiente, sino que es la base que necesitas
-para saber cuáles contactos deben ser ignorados en los mensajes automáticos
-mientras estén en atención.
+Solo añadir a este grupo no es suficiente, sino que es la base que necesitas para saber cuáles contactos deben ser ignorados en los mensajes automáticos mientras estén en atención.
 
-Para ello, debes añadir este grupo a la lista de grupos ignorados para cada uno
-de los disparadores configurados en tu proyecto, como se ejemplifica en la
-imagen a continuación.
+Para ello, debes añadir este grupo a la lista de grupos ignorados para cada uno de los disparadores configurados en tu proyecto.
 
 Deverá selecionar o ativador que inicia com qualquer mensagem que o contato enviar e excluir o grupo de atendimento humano para evitar que essas pessoas falem com o bot quando estiver no atendimento humano.
 
@@ -44,20 +39,14 @@ Con esto configurado, el chatbot no interrumpirá la atención humana y la funci
 
 ## Eliminando contactos del grupo de control
 
-Es importante recordar eliminar el contacto de este grupo cuando la sesión de
-atención humana haya finalizado. Para ello, existe un tipo de disparador
-específico: 'Inicie un flujo después de cerrar un ticket'.
+Es importante recordar eliminar el contacto de este grupo cuando la sesión de atención humana haya finalizado. Para ello, existe un tipo de disparador específico: 'Inicie un flujo después de cerrar un ticket'.
 
 Este puede ser un flujo extremadamente simple, donde la única acción es eliminar el contacto del grupo de control Atención Humana:
 
 ## ¿Cómo enviar campos personalizados?
 
-Los campos personalizados que se deben enviar deben ser definidos en el cuerpo
-de la tarjeta de Ticket, en formato JSON, con cada campo como atributo de
-\`custom_fields\`, representado por su clave y valor.
+Los campos personalizados que se deben enviar deben ser definidos en el cuerpo de la tarjeta de Ticket, en formato JSON, con cada campo como atributo de `custom_fields`, representado por su clave y valor.
 
-Nota: el valor de cada campo puede o no estar entre """".
+> El valor de cada campo puede o no estar entre ".
 
-A continuación, observe un ejemplo que muestra la configuración de campos
-personalizados, donde el campo \``origin`\` tiene su valor definido como el
-\``result`\` origen, entre """" por ser del tipo string.
+A continuación, observe un ejemplo que muestra la configuración de campos personalizados, donde el campo `origin` tiene su valor definido como el `result` origen, entre `"` por ser del tipo string.

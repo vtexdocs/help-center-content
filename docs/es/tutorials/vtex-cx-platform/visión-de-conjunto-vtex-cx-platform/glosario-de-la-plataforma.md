@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-Glosário de la plataforma,"En los próximos articulos, usted aprendera mucho mas sobre como nuestra plataforma funciona. En este articulo, traemos un glosário de los terminos que pueden aparecer en el decorrer de la documentación, sirviendo de apoyo para consulta caso surja alguna duda
+En los próximos articulos, usted aprendera mucho mas sobre como nuestra plataforma funciona. En este articulo, traemos un glosário de los terminos que pueden aparecer en el decorrer de la documentación, sirviendo de apoyo para consulta caso surja alguna duda.
 
 - **Canales:** Canal de comunicación donde el contacto interactua con a plataforma. Ej: Whatsapp, Facebook Messenger, Twitter, Web, SMS, etc.
 - **Contacto:** El usuário que interactuo con la plataforma por medio de uno de los canales.
@@ -29,4 +29,4 @@ Glosário de la plataforma,"En los próximos articulos, usted aprendera mucho ma
 - **Expresiones:** Funciones para manipular datos que pueden recibir o no variábles, Ej: Contador de caracteres, formatador de fechas e horários, etc.
 - **Campaña:** Conjunto de eventos que son aplicados en grupos basados en reglas de horário. Permiten la comunicación activa de la plataforma, es decir, hace con que la plataforma inicie un flujo para un contacto, sin haberse comunicado primero.
 - **Activadores:** Conjunto de eventos que son responsables de la inicialización de los flujos de la plataforma de forma pasiva, es decir, reglas que activan os flujos cuando un contacto manda un mensaje en algun canal.
-- **Clasificadores:** Plataformas de inteligencia artificial creadas para clasificar entradas de los contactos y retornar palabras\-llaves válidas que serán utilizadas por la plataforma.
+- **Clasificadores:** Plataformas de inteligencia artificial creadas para clasificar entradas de los contactos y retornar palabras-llaves válidas que serán utilizadas por la plataforma.

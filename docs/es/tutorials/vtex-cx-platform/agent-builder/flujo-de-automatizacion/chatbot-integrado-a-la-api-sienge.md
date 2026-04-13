@@ -1,5 +1,5 @@
 ---
-title: 'Chatbot integrado a la API Sienge'
+title: "Chatbot integrado a la API Sienge"
 id: 3ysIw5ORs4JzRTJN92GDx7
 status: PUBLISHED
 createdAt: 2025-09-17T14:23:32.240Z
@@ -15,19 +15,20 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Es un chatbot diseñado para enviar la segunda vía en PDF, extracto en PDF, saldo deudor y realizar cobros a través de canales externos, como WhatsApp. Weni ofrece soluciones digitales para la automatización de la comunicación consciente, abierta y accesible. Este chatbot es un proyecto plantilla desarrollado por Weni utilizando la plataforma Sienge.
+Es un chatbot diseñado para enviar la segunda vía en PDF, extracto en PDF, saldo deudor y realizar cobros a través de canales externos, como WhatsApp. VTEX CX Platform ofrece soluciones digitales para la automatización de la comunicación consciente, abierta y accesible. Este chatbot es un proyecto plantilla desarrollado por VTEX CX Platform utilizando la plataforma Sienge.
 
 Para el funcionamiento completo de la automatización, es necesario crear un usuario de API con permisos para consumir todos los siguientes recursos:
-  * Generación de boleto (Segunda vía)
-  * Generación del saldo deudor presente del cliente
-  * Títulos de cuentas por cobrar
-  * Extracto de cliente por correo electrónico
-  * Clientes
-  * Gestión de webhooks
-  * Historial de notificación de cobro
-  * Contratos de ventas
-  * Saldo deudor presente del cliente (Total)
-  * Centro de costos
+
+- Generación de boleto (Segunda vía)
+- Generación del saldo deudor presente del cliente
+- Títulos de cuentas por cobrar
+- Extracto de cliente por correo electrónico
+- Clientes
+- Gestión de webhooks
+- Historial de notificación de cobro
+- Contratos de ventas
+- Saldo deudor presente del cliente (Total)
+- Centro de costos
 
 Para crear un usuario de API, sigue este [paso a paso](https://www.youtube.com/watch?v=w0f9O20ZeLM&list=PLel5qygu4y7SE1xF8UmVhJBJX6S5YavCE).
 

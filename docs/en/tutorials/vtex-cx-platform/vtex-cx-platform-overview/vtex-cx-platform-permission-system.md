@@ -9,8 +9,8 @@ firstPublishedAt: 2025-10-03T14:23:40.610Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: weni-permission-system
-legacySlug: weni-permission-system
+slugEN: vtex-cx-platform-permission-system
+legacySlug: vtex-cx-platform-permission-system
 locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
@@ -43,4 +43,4 @@ In total, we have 4 permissions, divided into 2 groups:
 
 **Chat Module Permissions**
 
-- **Human Service**: Handles customer interactions in VTEX CX Platform Chats.
+- **Human Service**: Handles customer interactions in Live Desk.

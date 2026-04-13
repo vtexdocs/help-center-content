@@ -35,11 +35,7 @@ Webhook is a technology used to allow communication between two applications in 
 
 To pass information to a system using API you must use the body of the request (body) or pass it directly in the URL (query). The API documentation will tell you how to do this.
 
-In this image we can see the documentation of VTEX CX Platform's API:
-
-In this image, we can see what the request body would look like to create a contact with a name and WhatsApp number.
-
-> **Tip:** The Call Webhook card allows the use of variables, such as @results, @contact, and @fields. [Learn more about variables here.](/en/docs/tutorials/expressions-and-variables-introduction)
+> The Call Webhook card allows the use of variables, such as @results, @contact, and @fields. [Learn more about variables here.](/en/docs/tutorials/expressions-and-variables-introduction)
 
 ## How to know if the API can be integrated natively?
 

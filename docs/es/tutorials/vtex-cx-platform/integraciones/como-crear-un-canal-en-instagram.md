@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Instagram ha alcanzado el hito de 2\.0 mil millones de usuarios activos, de los cuales más de 500 millones navegan diariamente, no solo buscando interacción, sino también servicios y productos.
+Instagram ha alcanzado el hito de 2.0 mil millones de usuarios activos, de los cuales más de 500 millones navegan diariamente, no solo buscando interacción, sino también servicios y productos.
 
 Ahora, imagina que tu institución no está presente, activa y eficiente en este canal. Ya no es simplemente una red social para compartir fotos y videos de la vida cotidiana, sino una vitrina para hacer negocios y asociaciones importantes.
 
-Ahora puedes elevar el nivel y potencial de tu atención al cliente integrando tu Instagram con Weni Plataforma.
+Ahora puedes elevar el nivel y potencial de tu atención al cliente integrando tu Instagram con VTEX CX Platforma.
 
 De esta manera, creas más compromiso e interacción con tus seguidores, clientes potenciales y socios, aumentando las posibilidades de cerrar nuevos proyectos mientras reduces los costos operativos de atención.
 
@@ -27,16 +27,16 @@ De esta manera, creas más compromiso e interacción con tus seguidores, cliente
 
 Las configuraciones a continuación son de suma importancia para la creación del canal de Instagram en nuestra plataforma, ya que sin ellas, la creación no será posible. Los siguientes pasos deberán realizarse en la aplicación de Instagram.
 
-### Paso 1: Primero, es necesario que tu cuenta de Instagram sea empresarial o profesional
+### Paso 1: primero, es necesario que tu cuenta de Instagram sea empresarial o profesional
 
 Para hacerlo, sigue estos pasos:
 
 1. Para acceder a tu perfil, toca en Perfil o en tu foto de perfil en la esquina inferior derecha > Editar > Cambiar a cuenta profesional.
+2. Elige la categoría que mejor represente a tu empresa y selecciona Empresa.
 
-1. Elige la categoría que mejor represente a tu empresa y selecciona Empresa.
-2. ¡Listo, tu cuenta ahora es empresarial!
+Tu cuenta ahora es empresarial.
 
-### Paso 2: Conectar tu cuenta de Instagram al perfil de Facebook en la central de cuentas
+### Paso 2: conectar tu cuenta de Instagram al perfil de Facebook en la central de cuentas
 
 1. En tu perfil, haz clic en el menú de configuración de tres líneas en la esquina superior derecha.
 2. Haz clic en **Centro de cuentas**.
@@ -45,7 +45,7 @@ Para hacerlo, sigue estos pasos:
 
 Para eliminar las cuentas conectadas a Instagram o cambiar la cuenta de Facebook, simplemente entra en **Centro de cuentas** y elimina o cambia las cuentas.
 
-### Paso 3: Permite el acceso a los mensajes de Instagram
+### Paso 3: permite el acceso a los mensajes de Instagram
 
 Esta autorización te permite gestionar tus mensajes de Instagram a través de nuestra plataforma. Para habilitarla, sigue los pasos a continuación:
 
@@ -54,7 +54,7 @@ Esta autorización te permite gestionar tus mensajes de Instagram a través de n
 3. Controles de mensajes
 4. Habilita la opción Permitir acceso a los mensajes.
 
-## Ahora, es momento de crear el canal en la plataforma Weni
+## Ahora, es momento de crear el canal en la VTEX CX Platform
 
 Después de realizar las configuraciones indicadas en la sección anterior, ahora crearemos un canal de Instagram.
 

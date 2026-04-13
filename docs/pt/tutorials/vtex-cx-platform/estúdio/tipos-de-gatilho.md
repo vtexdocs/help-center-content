@@ -92,7 +92,7 @@ Use este gatilho após uma chamada perdida.
 
 ## Iniciar um fluxo posterior ao fechamento do ticket com agente humano
 
-Use este gatilho para disparar o fluxo de encerramento de atendimento humano no VTEX CX Platform Chats.
+Use este gatilho para disparar o fluxo de encerramento de atendimento humano no Live Desk.
 
 - Clique no botão "Start a flow after a ticket is closed":
 - Em "Fluxo", você pode escolher qual fluxo será iniciado

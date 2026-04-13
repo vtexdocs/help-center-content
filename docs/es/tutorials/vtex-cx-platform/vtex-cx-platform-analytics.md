@@ -1,5 +1,5 @@
 ---
-title: 'Analytics'
+title: "Analytics"
 id: 4rndUIk9QFz4wz1dPHVZ0W
 status: PUBLISHED
 createdAt: 2025-09-12T16:25:21.244Z

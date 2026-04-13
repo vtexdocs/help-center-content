@@ -1,5 +1,5 @@
 ---
-title: "VTEX CX Platform Chats: Human service dashboard"
+title: "Live Desk: Human service dashboard"
 id: 2nQ88AZT72iPf2BQBzloDQ
 status: PUBLISHED
 createdAt: 2025-09-12T16:36:13.073Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2025-10-03T14:20:03.324Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: vtex-agentic-cx-platform-live-desk-dashboard
-legacySlug: vtex-agentic-cx-platform-live-desk-dashboard
+slugEN: vtex-cx-platform-live-desk-dashboard
+legacySlug: vtex-cx-platform-live-desk-dashboard
 locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
 The Dashboard is a tool that displays data related to human support, providing important metrics aimed at monitoring the quality and efficiency of interactions. This tool assists managers in improving decision-making and allows agents to view their individual metrics.
 
-To access it, go to the **Chats** module on the VTEX CX Platform, and within the preferences menu, click on the **Dashboard** button. Currently, this tool is available only for managers and administrators.
+To access it, go to the **Live Desk** module on the VTEX CX Platform, and within the preferences menu, click on the **Dashboard** button. Currently, this tool is available only for managers and administrators.
 
 ## Main screen
 

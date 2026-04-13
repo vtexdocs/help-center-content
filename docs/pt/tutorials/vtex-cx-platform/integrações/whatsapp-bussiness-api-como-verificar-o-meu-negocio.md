@@ -23,7 +23,7 @@ Embora nem todas as empresas precisem de verificação no Facebook, a verificaç
 
 - **WhatsApp Business**: Ao criar uma conta no WhatsApp Business, será necessário verificar sua empresa.
 
-A VTEX CX Platform, como empresa parceira oficial (BPS) da Meta, habilita o botão de verificação de negócios para sua empresa após a integração do número. (Vale lembrar que a Verificação de Negócios é o processo de checagem de documentos, não relacionado ao Selo de Conta Oficial).
+O VTEX CX Platform, como parceiro oficial (BPS) da Meta, habilita o botão de verificação de negócios para sua empresa após a integração do número. (Vale lembrar que a Verificação de Negócios é o processo de checagem de documentos, não relacionado ao Selo de Conta Oficial).
 
 ## Como acessar o Gerenciador de negócios
 

@@ -128,12 +128,13 @@ Es una hora del día.
 ## Operadores
 
 A continuación, se muestra la lista de todos los operadores que pueden utilizarse en la construcción de expresiones en la plataforma:
-\+ : suma dos números
 
-    ```
-    @(2 + 3) → 5
-    @(fields.age + 10) → 33
-    ```
+- : suma dos números
+
+  ```
+  @(2 + 3) → 5
+  @(fields.age + 10) → 33
+  ```
 
 & : une dos valores de texto
 
@@ -215,7 +216,7 @@ A continuación, se muestra la lista de todos los operadores que pueden utilizar
     @(1 != 2) → true
     ```
 
-**\- (binario) :** resta dos números
+**- (binario) :** resta dos números
 
     ```
     @(3 - 2) → 1
@@ -386,49 +387,49 @@ Las expresiones tienen acceso a un conjunto de funciones internas que pueden uti
 
 `format_date(data, [, formato])`: formatea `date` como texto según el formato dado. Si no se especifica formato, se utilizará el formato predeterminado del entorno. La cadena de formato puede consistir en los siguientes caracteres. Los caracteres '', ':', ',', 'T', '-' y '\_' son ignorados. Cualquier otro carácter es un error.
 
-\- `YY`: últimos dos dígitos del año 0-99
-\- `YYYY`: cuatro dígitos del año 0000-9999
-\- `M`: devuelve el mes sin ceros 1-12
-\- `MM`: devuelve el mes con ceros 01-12
-\- `D`: día del mes 1-31
-\- `DD`: día del mes con ceros 01-31
+- `YY`: últimos dos dígitos del año 0-99
+- `YYYY`: cuatro dígitos del año 0000-9999
+- `M`: devuelve el mes sin ceros 1-12
+- `MM`: devuelve el mes con ceros 01-12
+- `D`: día del mes 1-31
+- `DD`: día del mes con ceros 01-31
 
-    @(format_date(""1979-07-18T15:00:00.000000Z"")) → 18-07-1979@(format_date(""1979-07-18T15:00:00.000000Z"", ""YYYY-MM-DD"")) → 1979-07-18@(format_date(""2010-05-10T19:50:00.000000Z"", ""YYYY M DD"")) → 2010 5 10@(format_date(""1979-07-18T15:00:00.000000Z"", ""YYYY"")) → 1979
-    @(format_date(""1979-07-18T15:00:00.000000Z"", ""M"")) → 7
-    @(format_date(""NOT DATE"", ""YYYY-MM-DD"")) → ERROR
+  @(format_date(""1979-07-18T15:00:00.000000Z"")) → 18-07-1979@(format_date(""1979-07-18T15:00:00.000000Z"", ""YYYY-MM-DD"")) → 1979-07-18@(format_date(""2010-05-10T19:50:00.000000Z"", ""YYYY M DD"")) → 2010 5 10@(format_date(""1979-07-18T15:00:00.000000Z"", ""YYYY"")) → 1979
+  @(format_date(""1979-07-18T15:00:00.000000Z"", ""M"")) → 7
+  @(format_date(""NOT DATE"", ""YYYY-MM-DD"")) → ERROR
 
 `format_datetime (data e hora [, formato [, fuso horário]])`
 Formatea `datetime` como texto según el formato dado. Si no se especifica formato, se utilizará el formato predeterminado del entorno. La cadena de formato puede consistir en los siguientes caracteres. Los caracteres '', ':', ',', 'T', '-' y '\_' son ignorados. Cualquier otro carácter es un error.
 
-\- `YY`: últimos dos dígitos del año 0-99
-\- `YYYY`: cuatro dígitos del año 0000-9999
-\- `M`: devuelve el mes sin ceros 1-12
-\- `MM`: devuelve el mes con ceros 01-12
-\- `D`: día del mes 1-31
-\- `DD`: día del mes con ceros 01-31
-\- `h`: hora del día 1-12
-\- `hh`: hora del día 01-12
-\- `tt`: veinticuatro horas del día 00-23
-\- `m`: minuto sin ceros 0-59
-\- `mm`: minuto con ceros 00-59
-\- `s`: segundo sin ceros 0-59
-\- `ss`: segundo con ceros 00-59
-\- `fff`: milisegundos
-\- `ffffff`: microsegundos
-\- `fffffffff`: nanosegundos
-\- `aa`: AM o PM
-\- `AA`: AM o PM
-\- `Z`: desplazamiento de hora y minuto de UTC o Z de UTC
-\- `ZZZ`: desplazamiento de hora y minuto de UTC
-El huso horario debe ser el nombre de la ubicación, según lo especificado en la base de datos de husos horarios de IANA, como ""America/Guayaquil"" o ""America/Los_Angeles"". Si no se especifica, se utilizará el huso horario actual. Se devolverá un error si el huso horario no es reconocido.
+- `YY`: últimos dos dígitos del año 0-99
+- `YYYY`: cuatro dígitos del año 0000-9999
+- `M`: devuelve el mes sin ceros 1-12
+- `MM`: devuelve el mes con ceros 01-12
+- `D`: día del mes 1-31
+- `DD`: día del mes con ceros 01-31
+- `h`: hora del día 1-12
+- `hh`: hora del día 01-12
+- `tt`: veinticuatro horas del día 00-23
+- `m`: minuto sin ceros 0-59
+- `mm`: minuto con ceros 00-59
+- `s`: segundo sin ceros 0-59
+- `ss`: segundo con ceros 00-59
+- `fff`: milisegundos
+- `ffffff`: microsegundos
+- `fffffffff`: nanosegundos
+- `aa`: AM o PM
+- `AA`: AM o PM
+- `Z`: desplazamiento de hora y minuto de UTC o Z de UTC
+- `ZZZ`: desplazamiento de hora y minuto de UTC
+  El huso horario debe ser el nombre de la ubicación, según lo especificado en la base de datos de husos horarios de IANA, como ""America/Guayaquil"" o ""America/Los_Angeles"". Si no se especifica, se utilizará el huso horario actual. Se devolverá un error si el huso horario no es reconocido.
 
-    ```
-    @(format_datetime(""1979-07-18T15:00:00.000000Z"")) → 18-07-1979 10:00@(format_datetime(""1979-07-18T15:00:00.000000Z"", ""YYYY-MM-DD"")) → 1979-07-18
-    @(format_datetime(""2010-05-10T19:50:00.000000Z"", ""YYYY M DD tt:mm"")) → 2010 5 10 14:50
-    @(format_datetime(""2010-05-10T19:50:00.000000Z"", ""YYYY-MM-DD hh:mm AA"", ""America/Los_Angeles"")) → 2010-05-10 12:50 PM
-    @(format_datetime(""1979-07-18T15:00:00.000000Z"", ""YYYY"")) → 1979@(format_datetime(""1979-07-18T15:00:00.000000Z"", ""M"")) → 7
-    @(format_datetime(""NOT DATE"", ""YYYY-MM-DD"")) → ERROR
-    ```
+      ```
+      @(format_datetime(""1979-07-18T15:00:00.000000Z"")) → 18-07-1979 10:00@(format_datetime(""1979-07-18T15:00:00.000000Z"", ""YYYY-MM-DD"")) → 1979-07-18
+      @(format_datetime(""2010-05-10T19:50:00.000000Z"", ""YYYY M DD tt:mm"")) → 2010 5 10 14:50
+      @(format_datetime(""2010-05-10T19:50:00.000000Z"", ""YYYY-MM-DD hh:mm AA"", ""America/Los_Angeles"")) → 2010-05-10 12:50 PM
+      @(format_datetime(""1979-07-18T15:00:00.000000Z"", ""YYYY"")) → 1979@(format_datetime(""1979-07-18T15:00:00.000000Z"", ""M"")) → 7
+      @(format_datetime(""NOT DATE"", ""YYYY-MM-DD"")) → ERROR
+      ```
 
 `format_location(local)`: formatea el `location` dado como su nombre.
 
@@ -445,23 +446,23 @@ El huso horario debe ser el nombre de la ubicación, según lo especificado en l
 
 `format_time(hora, [, formato])`: formatea `time` como texto según el formato dado. Si no se especifica formato, se utilizará el formato predeterminado del entorno. La cadena de formato puede consistir en los siguientes caracteres. Los caracteres '', ':', ',', 'T', '-' y '\_' son ignorados. Cualquier otro carácter es un error.
 
-\- `h`: hora del día 1-12
-\- `hh`: hora del día 01-12
-\- `tt`: veinticuatro horas del día 00-23
-\- `m`: minuto sin ceros 0-59
-\- `mm`: minuto con ceros 00-59
-\- `s`: segundo sin ceros 0-59
-\- `ss`: segundo con ceros 00-59
-\- `fff`: milisegundos
-\- `ffffff`: microsegundos
-\- `fffffffff`: nanosegundos
-\- `aa`: AM o PM
-\- `AA`: AM o PM
+- `h`: hora del día 1-12
+- `hh`: hora del día 01-12
+- `tt`: veinticuatro horas del día 00-23
+- `m`: minuto sin ceros 0-59
+- `mm`: minuto con ceros 00-59
+- `s`: segundo sin ceros 0-59
+- `ss`: segundo con ceros 00-59
+- `fff`: milisegundos
+- `ffffff`: microsegundos
+- `fffffffff`: nanosegundos
+- `aa`: AM o PM
+- `AA`: AM o PM
 
-    ```
-    @(format_time(""14:50:30.000000"")) → 14:50@(format_time(""14:50:30.000000"", ""h:mm aa"")) → 2:50 pm@(format_time(""15:00:27.000000"", ""s"")) → 27
-    @(format_time(""NOT TIME"", ""hh:mm"")) → ERROR
-    ```
+  ```
+  @(format_time(""14:50:30.000000"")) → 14:50@(format_time(""14:50:30.000000"", ""h:mm aa"")) → 2:50 pm@(format_time(""15:00:27.000000"", ""s"")) → 27
+  @(format_time(""NOT TIME"", ""hh:mm"")) → ERROR
+  ```
 
 `format_urn(urn)`: formatea `urn` en un texto amigable para humanos.
 
@@ -582,27 +583,27 @@ El huso horario debe ser el nombre de la ubicación, según lo especificado en l
 
 `parse_datetime(texto, formato [, fuso horário])`: analiza text en una fecha usando el formato dado. La cadena de formato puede consistir en los siguientes caracteres. Los caracteres '', ':', ',', 'T', '-' y '\_' son ignorados. Cualquier otro carácter es un error.
 
-\- `YY`: últimos dos dígitos del año 0-99
-\- `YYYY`: cuatro dígitos del año 0000-9999
-\- `M`: mes 1-12
-\- `MM`: mes 01-12
-\- `D`: día del mes sin ceros 1-31
-\- `DD`: día del mes con ceros 01-31
-\- `h`: hora del día sin ceros 1-12
-\- `hh`: hora del día con ceros 01-12
-\- `tt`: veinticuatro horas del día 00-23
-\- `m`: minuto sin ceros 0-59
-\- `mm`: minuto con ceros 00-59
-\- `s`: segundo sin ceros 0-59
-\- `ss`: segundo con ceros 00-59
-\- `fff`: milisegundos
-\- `ffffff`: microsegundos
-\- `fffffffff`: nanosegundos
-\- `aa`: AM o PM
-\- `AA`: AM o PM
-\- `Z`: desplazamiento de hora y minuto de UTC o Z de UTC
-\- `ZZZ`: desplazamiento de hora y minuto de UTC
-El huso horario debe ser el nombre de la ubicación, según lo especificado en la base de datos de husos horarios de IANA, como ""America/Guayaquil"" o ""America/Los_Angeles"". Si no se especifica, se utilizará el huso horario actual. Se devolverá un error si el huso horario no es reconocido.
+- `YY`: últimos dos dígitos del año 0-99
+- `YYYY`: cuatro dígitos del año 0000-9999
+- `M`: mes 1-12
+- `MM`: mes 01-12
+- `D`: día del mes sin ceros 1-31
+- `DD`: día del mes con ceros 01-31
+- `h`: hora del día sin ceros 1-12
+- `hh`: hora del día con ceros 01-12
+- `tt`: veinticuatro horas del día 00-23
+- `m`: minuto sin ceros 0-59
+- `mm`: minuto con ceros 00-59
+- `s`: segundo sin ceros 0-59
+- `ss`: segundo con ceros 00-59
+- `fff`: milisegundos
+- `ffffff`: microsegundos
+- `fffffffff`: nanosegundos
+- `aa`: AM o PM
+- `AA`: AM o PM
+- `Z`: desplazamiento de hora y minuto de UTC o Z de UTC
+- `ZZZ`: desplazamiento de hora y minuto de UTC
+  El huso horario debe ser el nombre de la ubicación, según lo especificado en la base de datos de husos horarios de IANA, como ""America/Guayaquil"" o ""America/Los_Angeles"". Si no se especifica, se utilizará el huso horario actual. Se devolverá un error si el huso horario no es reconocido.
 
 Ten en cuenta que los segundos fraccionarios serán analizados incluso sin un identificador de formato explícito. Solo debes especificar segundos fraccionarios cuando desees establecer el número de lugares en el formato de entrada.
 
@@ -624,19 +625,19 @@ Ten en cuenta que los segundos fraccionarios serán analizados incluso sin un id
 
 `parse_time(texto, formato)`: analiza text en un tiempo usando el formato dado. La cadena de formato puede consistir en los siguientes caracteres. Los caracteres '', ':', ',', 'T', '-' y '\_' son ignorados. Cualquier otro carácter es un error.
 
-\- `h`: hora del día 1-12
-\- `hh`: hora del día 01-12
-\- `tt`: veinticuatro horas del día 00-23
-\- `m`: minuto sin ceros 0-59
-\- `mm`: minuto con ceros 00-59
-\- `s`: segundo sin ceros 0-59
-\- `ss`: segundo con ceros 00-59
-\- `fff`: milisegundos
-\- `ffffff`: microsegundos
-\- `fffffffff`: nanosegundos
-\- `aa`: AM o PM
-\- `AA`: AM o PM
-Ten en cuenta que los segundos fraccionarios serán analizados incluso sin un identificador de formato explícito. Solo debes especificar segundos fraccionarios cuando desees establecer el número de lugares en el formato de entrada.
+- `h`: hora del día 1-12
+- `hh`: hora del día 01-12
+- `tt`: veinticuatro horas del día 00-23
+- `m`: minuto sin ceros 0-59
+- `mm`: minuto con ceros 00-59
+- `s`: segundo sin ceros 0-59
+- `ss`: segundo con ceros 00-59
+- `fff`: milisegundos
+- `ffffff`: microsegundos
+- `fffffffff`: nanosegundos
+- `aa`: AM o PM
+- `AA`: AM o PM
+  Ten en cuenta que los segundos fraccionarios serán analizados incluso sin un identificador de formato explícito. Solo debes especificar segundos fraccionarios cuando desees establecer el número de lugares en el formato de entrada.
 
 `parse_time` devolverá un error si no puede convertir el texto en un `datetime`.
 

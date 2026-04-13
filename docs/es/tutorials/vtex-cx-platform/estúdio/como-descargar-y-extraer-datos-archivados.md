@@ -15,18 +15,18 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Algo muy importante que debes saber sobre la recolección de datos en la plataforma Weni es que los datos se almacenan durante 180 días. Después de ese período, los datos se archivan en la plataforma y se almacenan en formato **JSON** en el menú **Archives**.
+Algo muy importante que debes saber sobre la recolección de datos en la VTEX CX Platform es que los datos se almacenan durante 180 días. Después de ese período, los datos se archivan en la plataforma y se almacenan en formato **JSON** en el menú **Archives**.
 
-## Obteniendo los archivos a través de Weni flows
+## Obteniendo los archivos a través de VTEX CX Platform flows
 
-Es posible descargar estos datos archivados accediendo al panel de configuración. Al final de la página se informará la cantidad de archivos y sus registros, como se muestra en la imagen a continuación:
+Es posible descargar estos datos archivados accediendo al panel de configuración. Al final de la página se informará la cantidad de archivos y sus registros.
 
-Podrás acceder tanto al contenido de la tabla **Messages** como al de la tabla **Runs**. Para visualizar cualquiera de ellos, solo tienes que hacer clic en el botón resaltado en amarillo, como se muestra en la imagen.
+Podrás acceder tanto al contenido de la tabla **Messages** como al de la tabla **Runs**. Para visualizar cualquiera de ellos, solo tienes que hacer clic en el botón resaltado en amarillo.
 
-Podrás acceder tanto al contenido de la tabla **Mensajes** como al de la tabla **Runs**. Para visualizar ambos, simplemente haz clic en el botón **Archivo de ejecución o Archivo de mensajes**, como se muestra en la imagen a continuación.
+Podrás acceder tanto al contenido de la tabla **Mensajes** como al de la tabla **Runs**. Para visualizar ambos, simplemente haz clic en el botón **Archivo de ejecución o Archivo de mensajes**.
 
-Para descargar los archivos de mensajes, simplemente haz clic en el ícono destacado (como se muestra en la imagen a continuación) al lado de la fecha. Los archivos de la tabla mensajes vendrán con el prefijo **message**.
+Para descargar los archivos de mensajes, simplemente haz clic en el ícono destacado al lado de la fecha. Los archivos de la tabla mensajes vendrán con el prefijo **message**.
 
-Para descargar los archivos, simplemente haz clic en el ícono destacado (como se muestra en la imagen a continuación) al lado de la fecha. Los archivos de la tabla ejecución vendrán con el prefijo **run**.
+Para descargar los archivos, simplemente haz clic en el ícono destacado al lado de la fecha. Los archivos de la tabla ejecución vendrán con el prefijo **run**.
 
 Finalmente, en cada archivo podrás verificar el contenido, el período (mes) y la cantidad de registros que contiene.
