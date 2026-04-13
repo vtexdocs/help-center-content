@@ -39,7 +39,6 @@ Você pode adicionar mídias à sua mensagem na plataforma, como imagens, áudio
 
 7. Ao final, clique em `Confirmar`.
 
-
 ## Enviar um arquivo do seu computador
 
 1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).

@@ -41,8 +41,6 @@ Para acessar as versões da edição, basta clicar no botão do relógio logo ab
 
 Você pode selecionar uma das opções da lista para ver as versões antigas do fluxo, e caso queira retroceder para aquela versão, basta clicar no botão _Reverter_.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/agent-builder/fluxo-de-automacao/editor-de-fluxo-e-suas-ferramentas_6.png)
-
 ## Botão começar fluxo
 
 O botão Disparar Fluxo é essencial para determinados testes e validações. Com ele, podemos iniciar manualmente um fluxo utilizando contatos ou grupos já existentes na plataforma.
