@@ -1,5 +1,5 @@
 ---
-title: "Weni Chats: Gestión de la atención humana"
+title: "VTEX CX Platform Chats: Gestión de la atención humana"
 id: 6KZfFfE7oB8w0dvicZnI5p
 status: PUBLISHED
 createdAt: 2025-09-16T15:19:00.468Z
@@ -15,25 +15,25 @@ locale: es
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
-Para agregar/eliminar nuevos usuarios como agentes, primero agrega al usuario en la plataforma Weni. Entra en tu organización en la plataforma Weni y haz clic en el ícono de “gestionar miembros” con los nombres y correos electrónicos que se van a agregar/eliminar.
+Para agregar/eliminar nuevos usuarios como agentes, primero agrega al usuario en la VTEX CX Platform. Entra en tu organización en la VTEX CX Platform y haz clic en el ícono de “gestionar miembros” con los nombres y correos electrónicos que se van a agregar/eliminar.
 
-Haz clic en el botón de gestionar miembros en la organización de la plataforma Weni > Insertar el correo electrónico > seleccionar el tipo de permiso y hacer clic en añadir en la organización de la plataforma Weni.
+Haz clic en el botón de gestionar miembros en la organización de la VTEX CX Platform > Insertar el correo electrónico > seleccionar el tipo de permiso y hacer clic en añadir en la organización de la VTEX CX Platform.
 
 A continuación se encuentran los permisos para la Organización
 
 A continuación se encuentran los permisos solo para un proyecto específico
 
-## Cómo añadir usuarios a Weni Chats
+## Cómo añadir usuarios a VTEX CX Platform Chats
 
-Para añadir un usuario a Weni Chats, como se mostró anteriormente, uno de los requisitos es que sea agregado a la organización, y el segundo requisito es que sea añadido al proyecto en el que va a participar.
+Para añadir un usuario a VTEX CX Platform Chats, como se mostró anteriormente, uno de los requisitos es que sea agregado a la organización, y el segundo requisito es que sea añadido al proyecto en el que va a participar.
 
-Dentro de las opciones para añadir al miembro al proyecto, puedes seleccionar los permisos. Si solo necesitas que ese usuario use Weni Chats, selecciona la opción de **atención humana**; las demás opciones también dan acceso a Weni Chats, excepto la de **visualizador**. Recuerda que el **Moderador** tiene acceso a todo. Para entender más sobre los permisos, lee este artículo.
+Dentro de las opciones para añadir al miembro al proyecto, puedes seleccionar los permisos. Si solo necesitas que ese usuario use VTEX CX Platform Chats, selecciona la opción de **atención humana**; las demás opciones también dan acceso a VTEX CX Platform Chats, excepto la de **visualizador**. Recuerda que el **Moderador** tiene acceso a todo. Para entender más sobre los permisos, lee este artículo.
 
 Después de añadir el permiso correcto al usuario, el módulo de chats estará disponible y ya será un agente. Ahora solo falta agregarlo a la fila en la que atenderá.
 
-## Cómo añadir un sector de atención en Weni Chats
+## Cómo añadir un sector de atención en VTEX CX Platform Chats
 
-Para añadir un sector en Weni Chats, debes ir a la pestaña de configuraciones relacionadas con Weni Chats:
+Para añadir un sector en VTEX CX Platform Chats, debes ir a la pestaña de configuraciones relacionadas con VTEX CX Platform Chats:
 
 Después de eso, solo debes completar la información para crear el sector:
 
@@ -45,7 +45,7 @@ Después de eso, solo debes completar la información para crear el sector:
 
 Después de añadir y configurar tu sector, configura las filas de atención de cada sector.
 
-## Cómo añadir colas de atención en Weni Chats
+## Cómo añadir colas de atención en VTEX CX Platform Chats
 
 Todo sector necesita tener al menos una cola configurada para funcionar correctamente, por lo que debes configurarla tan pronto como crees el sector. Al editar tu fila, añade quién será el agente de atención:
 
