@@ -81,4 +81,3 @@ The main advantages for consumer experience and store performance are:
 * **Increased conversion:** Delivering more relevant results reduces product discovery time, which can accelerate purchase decisions.
 * **Natural language comprehension:** Customers can search using everyday language, including full questions, vague terms, or informal language. For example, a customer might search `what is the best hiking shoe?`, and the search understands they're looking for shoes with specific features, such as a lug sole and water resistance.
 * **Support for complex discovery cases:** Ideal for catalogs that have products with more subjective descriptions (example: fashion, beauty, home decor), where the exact attribute may not explicitly be present, but user intent can be inferred.
-
