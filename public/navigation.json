@@ -37864,12 +37864,12 @@
                   "name": {
                     "en": "WhatsApp: Weni Express integration",
                     "es": "WhatsApp: Integración express Weni",
-                    "pt": "WhatsApp: Weni Express integration"
+                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
                   },
                   "slug": {
                     "en": "whatsapp-weni-express-integration",
                     "es": "whatsapp-integracion-express-weni",
-                    "pt": ""
+                    "pt": "whatsapp-integracao-expressa-weni"
                   },
                   "origin": "",
                   "type": "markdown",
