@@ -37184,21 +37184,6 @@
                 },
                 {
                   "name": {
-                    "es": "Agentes oficiales de Weni by VTEX",
-                    "en": "Agentes oficiales de Weni by VTEX",
-                    "pt": "Agentes oficiales de Weni by VTEX"
-                  },
-                  "slug": {
-                    "es": "agentes-oficiales-de-weni-by-vtex",
-                    "en": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Assigning and testing agents",
                     "es": "Asignar y probar agentes",
                     "pt": "Atribuir e testar agentes"
@@ -37215,13 +37200,13 @@
                 {
                   "name": {
                     "en": "Official agents from VTEX CX Platform",
-                    "pt": "Agentes oficiais do VTEX CX Platform",
-                    "es": "Official agents from VTEX CX Platform"
+                    "es": "Agentes oficiales de Weni by VTEX",
+                    "pt": "Agentes oficiais do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "official-agents-from-vtex-cx-platform",
-                    "pt": "agentes-oficiais-da-vtex-cx-platform",
-                    "es": ""
+                    "es": "agentes-oficiales-de-weni-by-vtex",
+                    "pt": "agentes-oficiais-da-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
