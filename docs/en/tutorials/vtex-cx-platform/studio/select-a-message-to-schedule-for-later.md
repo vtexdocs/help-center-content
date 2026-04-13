@@ -19,8 +19,8 @@ The platform allows scheduled messages to be sent at a specific date and time, a
 
 To schedule a message, follow these steps:
 
-- Within your project, go to the ""Studio"" tab and then click on ""Messages"" in the side menu.
+- Within your project, go to the "Studio" tab and then click on "Messages" in the side menu.
 
 - Click the `Send Message` button.
 
-- Select contacts and/or groups, type what you want to send. Then, check the ""Schedule for later"" box and click ""Send"".
+- Select contacts and/or groups, type what you want to send. Then, check the "Schedule for later" box and click "Send".

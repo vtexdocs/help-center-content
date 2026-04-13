@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:32.674Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: whatsapp-weni-express-integration
+slugEN: whatsapp-vtex-cx-platform-express-integration
 legacySlug: whatsapp-integracao-expressa-weni
 locale: pt
 subcategoryId: 7e9LaCixVcvflzgWkxlftd

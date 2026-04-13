@@ -27,7 +27,7 @@ Once you start the conversation with BotFather, send the message /newbot to crea
 
 ## Receive the access token
 
-All set! You’ve created your new chatbot and received your token! Copy and save it for use on the Weni Platform.
+All set! You’ve created your new chatbot and received your token! Copy and save it for use on the VTEX CX Platform.
 
 ## Registering Telegram on the platform
 
@@ -41,7 +41,7 @@ All set! You’ve created your new chatbot and received your token! Copy and sav
 
 ## Enabling triggers
 
-The Telegram bot displays a **""Start""** button when you interact with it for the first time:
+The Telegram bot displays a **"Start"** button when you interact with it for the first time:
 
 To ensure that the **Start** button initiates a new conversation when clicked, you need to configure the [corresponding trigger](/en/docs/tutorials/triggers-types) by providing the name of the Telegram channel and the desired flow.
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-When a person interacts through any of the channels connected to the Weni Platform, they automatically become a contact. However, in many cases, we already have information about future contacts who will interact through the channels, so how can we import these contacts into the platform?
+When a person interacts through any of the channels connected to the VTEX CX Platform, they automatically become a contact. However, in many cases, we already have information about future contacts who will interact through the channels, so how can we import these contacts into the platform?
 
 It's a simple process. First, access the **Studio** and go to the **Contacts** tab, where you will find the **Import Contacts** button on the left-hand side.
 

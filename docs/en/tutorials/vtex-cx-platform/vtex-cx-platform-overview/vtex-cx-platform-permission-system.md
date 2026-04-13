@@ -1,5 +1,5 @@
 ---
-title: "Weni permission system"
+title: "VTEX CX Platform permission system"
 id: 5m0IcoiGe9A9gnyKTKUrrO
 status: PUBLISHED
 createdAt: 2025-09-10T15:14:23.490Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-Within the Weni platform, you can manage different permissions for each user, divided into two groups:
+Within the VTEX CX Platform, you can manage different permissions for each user, divided into two groups:
 
 ## Organization permissions
 
@@ -43,4 +43,4 @@ In total, we have 4 permissions, divided into 2 groups:
 
 **Chat Module Permissions**
 
-- **Human Service**: Handles customer interactions in Weni Chats.
+- **Human Service**: Handles customer interactions in VTEX CX Platform Chats.

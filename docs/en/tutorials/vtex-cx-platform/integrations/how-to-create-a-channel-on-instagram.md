@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Instagram has already reached the milestone of 1\.4 billion active users, with more than 500 million browsing assiduously every day, seeking not only interaction, but looking for services and products.
+Instagram has already reached the milestone of 1.4 billion active users, with more than 500 million browsing assiduously every day, seeking not only interaction, but looking for services and products.
 
 Now, imagine if your institution is not present, active and efficient on this channel? This is no longer a mere social network to share photos and videos of the routine, but rather a showcase of doing business and important partnerships.
 
-And now you can raise the level and potential of your service by creating a channel that integrates your Instagram to Weni Platform.
+And now you can raise the level and potential of your service by creating a channel that integrates your Instagram to VTEX CX Platform.
 
 This creates more engagement and interaction with your followers and potential customers and partners, increasing the chances of closing new projects while reducing operational costs with service.
 
@@ -39,7 +39,7 @@ To do this, do the following steps:
 Now, connect your Instagram account to Facebook profile in account center:
 
 1. Go to **Settings**.
-2. Go to **Accounts Center** by clicking ""See more in Account Center""
+2. Go to **Accounts Center** by clicking "See more in Account Center"
 
 3. Tap on **Profiles** > **Add Accounts** > **Add Facebook account** and either sign in to it or select the account you want to connect to.
 
@@ -49,7 +49,7 @@ Now, connect your Instagram account to Facebook profile in account center:
 If you want to remove a Facebook account from Account Center, take the steps below:
 
 1. Access your profile, or in your profile picture, in the lower right corner.
-2. Tap menu, top\-right, and **settings**.
+2. Tap menu, top-right, and **settings**.
 3. Tap **Accounts Center** at the bottom and tap your name at the top.
 4. Tap your connected account and **Remove from Account Center**.
 5. Tap **Continue** and **Remove \[Username].**
@@ -67,7 +67,7 @@ Add or change the Facebook page connected to your Instagram account:
 This permission makes it possible for you to manage your Instagram messages through our platform. To enable it to perform the steps below:
 
 1. Access your **profile**, or in your profile picture, in the lower right corner,
-2. Tap menu, top\-right, and settings.
+2. Tap menu, top-right, and settings.
 3. Tap **Privacy.** Under Interactions tap **Messages.**
 4. Below Connected Tools **enable Allow access to messages**.
 

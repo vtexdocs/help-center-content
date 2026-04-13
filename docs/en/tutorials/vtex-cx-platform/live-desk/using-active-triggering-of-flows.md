@@ -60,7 +60,7 @@ Your registered templates should appear. Select the desired one and insert the v
 For the flow trigger function to be available to agents, it must first be
 enabled in the desired department settings.
 
-Go to **Settings \> Chats \> Open**.
+Go to **Settings > Chats > Open**.
 
 On the first screen of the department, you will see the button to activate the flow trigger. It will be deactivated; **activate** it and click **save**.
 
@@ -68,7 +68,7 @@ On the first screen of the department, you will see the button to activate the f
 
 Access **Chats**.
 
-On the Chats screen, click the button below **Preferences \> Flows**, as shown in the example:
+On the Chats screen, click the button below **Preferences > Flows**, as shown in the example:
 
 Select the desired contacts and click **Continue**.
 

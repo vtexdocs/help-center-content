@@ -19,7 +19,7 @@ Variables are created to store values on the platform, allowing data to be saved
 
 To use a variable, you should type `@`, and the expression will be replaced by the actual value of the variable, provided it is properly created.
 
-Below, we will list how to reference all types of variables available on Weni Platform:
+Below, we will list how to reference all types of variables available on VTEX CX Platform:
 
 - Contacts and Contact Fields
 - Results and Flows

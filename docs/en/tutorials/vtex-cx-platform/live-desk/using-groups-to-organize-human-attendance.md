@@ -32,8 +32,8 @@ It is important to mention that if you open tickets in different streams, **you 
 **Ignoring control group participants in triggers** To ensure contacts in human assistance do not receive automatic messages, adding the group is not enough. You must:
 
 1. Add the group to the ignored list **Groups To Exclude** in each trigger configured in your project.
-2. Make this adjustment in **Studio \> Triggers**.
-3. Pay special attention to the trigger **""**An uncaught message starts**""**.
+2. Make this adjustment in **Studio > Triggers**.
+3. Pay special attention to the trigger **"**An uncaught message starts**"**.
 
 This process prevents contacts under assistance from receiving messages from flows while they are in human assistance.
 
@@ -52,4 +52,3 @@ The custom fields to be sent must be defined in the Ticket card body, in JSON fo
 > The value of each field may or may not be enclosed in **""""**.
 
 Below, observe an example showing the configuration of custom fields, where the **origin** field has its value defined as the result origin, enclosed in **""""** as it is a string type.
-

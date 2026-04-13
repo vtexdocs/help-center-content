@@ -24,21 +24,21 @@ When creating a ticket in Zendesk, we can send some extra information via the bo
 
 - **Description:** The description field is mandatory. This is the text of the support request. The description becomes the first comment in the ticket.
 
-- **Custom Fields:** Custom ticket fields are typically used to gather more information about the support issue, product, or service. You can add custom fields to your tickets for agents and also include them in the ""Submit a Request"" form in the Help Center if you want end users to see the custom field. Custom ticket fields can be mandatory or optional. To use your custom fields, you must create them in Zendesk. Follow the steps below to create your fields:
+- **Custom Fields:** Custom ticket fields are typically used to gather more information about the support issue, product, or service. You can add custom fields to your tickets for agents and also include them in the "Submit a Request" form in the Help Center if you want end users to see the custom field. Custom ticket fields can be mandatory or optional. To use your custom fields, you must create them in Zendesk. Follow the steps below to create your fields:
 
-1. First, go to your Admin Center, which you will find by clicking on the top\-right icon.
+1. First, go to your Admin Center, which you will find by clicking on the top-right icon.
 
 2. Now, from the left menu, click on Objects and Rules > Fields.
-3. In the blue button at the top\-right corner, click on Add Field.
+3. In the blue button at the top-right corner, click on Add Field.
 4. Select the type of field you want to create; there are several options, so make sure to send the value correctly according to your choice.
-5. After that, add the field's Display Name, Description (optional), and if the field is required, check the box for ""Required to Solve a Ticket."" Choose the appropriate permission, usually the second option, and click Save at the bottom\-right corner.
+5. After that, add the field's Display Name, Description (optional), and if the field is required, check the box for "Required to Solve a Ticket." Choose the appropriate permission, usually the second option, and click Save at the bottom-right corner.
 6. You're all set, and now you have a new custom field. You will just need the field's ID, which is available next to the display name of your created field.
 
 - **Tags:** Tags are used to add additional information to tickets, which can be utilized in the ticket workflow. They are sent as a list of words, where each word is a tag.
 
 - **Message:** The initial message of the ticket, if your ticket does not have a description.
 
-Below is an example JSON of how you should send it in the body of the Open Ticket card in the Weni platform:
+Below is an example JSON of how you should send it in the body of the Open Ticket card in the VTEX CX Platform:
 
 ```
 {""message"" : ""Cookies"", ""priority"": ""high"", ""subject"": ""Where are my cookies?"", ""description"": ""I want to know where is my cookie."", ""custom_fields"": [{""id"":""11457109235981"",""value"":""field01""}], ""tags"": [""tag01"",""tag02""]}

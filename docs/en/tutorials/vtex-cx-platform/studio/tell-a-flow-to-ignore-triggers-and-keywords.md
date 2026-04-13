@@ -23,8 +23,8 @@ To configure a flow to ignore triggers and keywords while a contact is still par
 
 - Access the Flows module and click on the flow you want to perform this action.
 
-- Click on the three-line icon in the upper right corner of the flow editor, and then click on the ""Edit"" option.
+- Click on the three-line icon in the upper right corner of the flow editor, and then click on the "Edit" option.
 
-- Check the box ""Ignore triggers""
+- Check the box "Ignore triggers"
 
 - Click Save Changes button

@@ -51,4 +51,4 @@ Desenvolvemos essa atualização para manter consistência visual com a identida
 
 Nenhuma ação é necessária. A atualização é automática e já está disponível para todos os usuários.
 
-Para saber mais sobre a plataforma VTEX CX Platform e suas funcionalidades, consulte nossa [documentação](https://help.vtex.com/pt/docs/tutorials/vtex-cx-platform-categoria).
+Para saber mais sobre a VTEX CX Platform e suas funcionalidades, consulte nossa [documentação](https://help.vtex.com/pt/docs/tutorials/vtex-cx-platform-categoria).

@@ -21,7 +21,7 @@ Let's go through a quick explanation of each menu:
 
 1. Projects: Menu that displays your projects.
 2. Home: Main screen showing platform data.
-3. Insights (Beta version): Module providing detailed data on the resources available on the Weni Platform.
+3. Insights (Beta version): Module providing detailed data on the resources available on the VTEX CX Platform.
 4. Artificial Intelligence: Add more layers of intelligence to your project with the Agent Builder and classification/content AI.
 5. Flows Module: Module for creating and modifying conversational flows, following the interaction logic between the chatbot and the user.
 6. Studio Module: Manage, import, and export messages and information from users who interacted with your chatbot, as well as create campaigns and triggers.
@@ -31,8 +31,8 @@ Let's go through a quick explanation of each menu:
 
 In addition to the main side menu, the home screen has other features.
 
-1. **Learning Center**: Here you will find learning resources related to the Weni Platform.
-2. **News**: In this tab, you'll find updates about the Weni Platform and other activities within the entire organization, not just the project.
+1. **Learning Center**: Here you will find learning resources related to the VTEX CX Platform.
+2. **News**: In this tab, you'll find updates about the VTEX CX Platform and other activities within the entire organization, not just the project.
 3. **General Settings**: You can configure your profile, language, switch organizations, or log out.
 4. **Quick Access**: A shortcut to add a channel or a member to the project.
 5. **Recent Activities**: A log of all project activities in chronological order.
