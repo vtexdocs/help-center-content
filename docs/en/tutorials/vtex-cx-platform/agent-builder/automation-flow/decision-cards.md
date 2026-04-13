@@ -38,8 +38,6 @@ To facilitate navigation through this article, if you want to go directly to a s
 
 The biggest difference between decision cards and action cards is the creation of routes. These routes are possible paths that a conversation can take according to some response or some contact data. The purpose of all decision cards is to create routes for each rule and ramifications of our flow.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_1.png)
-
 Each route has a **name / category** and follows a decision rule. You can see in the connections of your routes the number of contacts that have already followed that path through your flow.
 
 The **Other** route is a standard route, which exists to the case the analyzed value does not correspond to any of the created decision rules. All decision cards, having a defined rule, also create the Other route.
@@ -47,8 +45,6 @@ The **Other** route is a standard route, which exists to the case the analyzed v
 ### Decision rules
 
 Decision rules are a set of rules that we use to create routes, that is, parameters that will be checked to decide whether or not a contact should go through that path.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_2.png)
 
 To use a decision rule, simply select the rule type, then enter the value for comparison and finally define the category / name of the route to which this rule belongs. Each different category name will generate a new route with the same name. If you create more than one rule, but name it with the same category, all rules will point to the route with that name.
 
@@ -67,8 +63,6 @@ These are the rules that analyze phrases and / or words, comparing the response 
 - **starts with:** If the answer / value starts with that sentence, it will follow the indicated route.
 - **has some text:** If the answer / value is filled (not empty), regardless of the information contained, it will follow the indicated route.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_3.png)
-
 You can use these rules to check names of people, organizations, establishments, etc.
 
 1. **Numbers and operations:**
@@ -82,8 +76,6 @@ These are the rules that involve numbers and / or numerical operations, comparin
 - **has a number equal to:** If the answer / value is equal to the chosen number, it will follow the indicated route.
 - **has a number at or above:** If the answer / value is greater than or equal to the chosen number, it will follow the indicated route.
 - **has a number above:** If the answer / value is greater than the chosen number, it will follow the indicated route.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_4.png)
 
 These rules can be useful for age filters.
 
@@ -101,8 +93,6 @@ The rules are:
 - **has a date after:** If the answer / value has a date after the chosen date, it will follow the indicated route.
 - **has a time:** If the answer / value has a time, regardless of the time, it will follow the indicated route. The time must have a valid time format (example: HH: MM).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_5.png)
-
 Good way to check the date of purchase of your products.
 
 1. **Custom formats:**
@@ -116,8 +106,6 @@ The rules are:
 - **has a phone number:** If the answer / value has a valid cell phone format (example: 5582999999999), it will follow the indicated route.
 - **has an email:** If the answer / value has a valid email format (example: no-reply@ilhasoft.com.br), it will follow the indicated route.
 - **matches regex:** If the answer / value follows the chosen regular expression rule, it will follow the indicated route.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_6.png)
 
 Do you want to validate your ID's format? These rules are the way.
 
@@ -134,28 +122,20 @@ You can access these flow values ​​using the platform variables (to learn mo
 
 By default, the results' name will always be **(Result + n)** where n is the number of results that exist in your stream, however, this can be easily changed in the Result name field.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_7.png)
-
 Always change the results' names to names that you can understand in a simple and intuitive way!
 
 ## Wait for the contact to respond
 
 The first and most used decision card. Routes are decided from the text entered by a contact. In addition, it has the option to create a route if the user does not respond, by selecting the checkbox at the bottom of the letter and choosing the waiting time for the response.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_8.png)
-
 Card widely used to handle answers to questions asked to the user
 
 Advanced
 If you are using this card to collect mandatory information in the flow, be cautious when selecting the option ""continue when no response."" If the ""No response"" option is not connected to another card, the flow will end when the waiting time expires. If you want to remind the contact to respond, you can create a loop, which will prevent the contact from moving to the next card without providing an answer.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_9.png)
-
 ## Split by custom expression
 
 Here the routes are decided from a custom expression created by the user. This custom expression can be constructed from the use of variables and functions. (To learn more about [expression and functions](/en/docs/tutorials/expressions-and-variables-introduction) go to the article variables and expression section)
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_10.png)
 
 It allows customizing some treatments, such as checking the service's opening hours.
 
@@ -163,15 +143,11 @@ It allows customizing some treatments, such as checking the service's opening ho
 
 Here, all decision rules analyze a contact field. Just select which contact field you want to check, and define the rules in question.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_11.png)
-
 Good way to classify contacts using their data.
 
 ## Split by result in the flow
 
 The focus here is to create routes from the flow results, which can be either those created by other decision cards or those created manually by the responsible action card. Just select the name of the flow result to be analyzed.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_12.png)
 
 This letter can be used to analyze any user responses before it be saved in a contact field.
 
@@ -179,15 +155,11 @@ This letter can be used to analyze any user responses before it be saved in a co
 
 Here, the chosen route is made at random, just choose the number of routes you want and wait for the result. In this case, there is no decision rule, and only the route's name can be customized, along with the number of routes that will exist.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_13.png)
-
 You can create several greeting and goodbye messages that will be different with each execution by a contact.
 
 ## Split by group membership
 
 Creates routes from groups in which the contact participates. To do this, simply select one of the contact groups existing in the organization.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_14.png)
 
 It can be used to limit the access of certain groups to specific parts of flows.
 
@@ -195,28 +167,20 @@ It can be used to limit the access of certain groups to specific parts of flows.
 
 Creates routes based on which channel the contact is currently using. Just select the type of channel that are among those available and save.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_15.png)
-
 Do you want to do different treatments according to the contact channel? Use this card
 
 ## Split by intent
 
 In the **Split** **by Intent** card, you will select the classification intelligence to be used. Based on the configured intent (1) and confidence level (2) in the card, the input/message will be appropriately classified.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_16.png)
-
 ## Automatic classify
 
 With the **Automatically Classify** card, you can use an expression or variables as input to classify the user's intent (Class). This card is typically used when you already have a text to process and don't need to wait for the user's response before querying Artificial Intelligence.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_17.png)
 
 Use clear and objective command phrases to help classify correctly. Learn more in the article about [Zero Shot](/en/docs/tutorials/zero-shot-learning).
 
 ## Smartly wait for response
 
 With the **Smartly wait for response** card, you can wait for the user's response and send it directly to your AI Classification. This way, you can create your categories and handle each intent as desired.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/decision-cards_18.png)
 
 Use clear and objective command phrases to help classify correctly. Learn more in the article about [Zero Shot](/en/docs/tutorials/zero-shot-learning).

@@ -28,8 +28,6 @@ When creating a ticket in Zendesk, we can send some extra information via the bo
 
 1. First, go to your Admin Center, which you will find by clicking on the top\-right icon.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/adding-ticket-creation-fields-in-zendesk_1.png)
-
 2. Now, from the left menu, click on Objects and Rules > Fields.
 3. In the blue button at the top\-right corner, click on Add Field.
 4. Select the type of field you want to create; there are several options, so make sure to send the value correctly according to your choice.

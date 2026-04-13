@@ -19,15 +19,11 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 The acronym API corresponds to “Application Programming Interface“. They are a way of integrating systems, enabling benefits such as data security and ease of exchanging information
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/call-webhook-making-requests-to-external-services_1.png)
-
 Today, the ability to connect and integrate with other systems is an essential feature for most solutions today. For this reason, we have an action card to use in flows precisely for this function: Call Webhook
 
 ## Call webhook
 
 The Call Webhook card is responsible for the connection between the platform and other external systems, below, we have a little about her anatomy:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/call-webhook-making-requests-to-external-services_2.png)
 
   1. Request method: Where you define what will be the method for your API request (GET, POST, PUT or DELETE);
   2. Request URL: Where you place the request URL for the API;
@@ -50,8 +46,6 @@ The request body accepts all variables and expressions supported on the platform
 ### Navigating a webhook
 
 After making the request, you can use some expressions to query information from the response.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/call-webhook-making-requests-to-external-services_3.png)
 
   * **@results**
 `@results.[name of the result from the Call Webhook card]`: To check the request status, such as 200, 400, 500.

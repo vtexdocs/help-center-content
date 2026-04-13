@@ -29,21 +29,13 @@ WhatsApp Business: When creating a WhatsApp Business account, business verificat
 - \- Select the business account to be used.
 - \- Follow the steps below to complete business verification.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-bussiness-api-how-to-verify-my-business_1.png)
-
 ### Step 1
 
 Click on **WhatsApp Accounts** and select the account you want to verify.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-bussiness-api-how-to-verify-my-business_2.png)
-
 The status is displayed when you select the account to be verified:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-bussiness-api-how-to-verify-my-business_3.png)
-
 Click on **Start Verification**, and a new window will open.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-bussiness-api-how-to-verify-my-business_4.png)
 
 Here are some important links for the Business Verification process:
 
@@ -54,8 +46,6 @@ Here are some important links for the Business Verification process:
 ### Step 2
 
 If you have already integrated your number into our platform via the **Integrations Menu \> My Apps** or if the link between your Meta Business and Weni has been accepted, the **Start Verification** button will be available for you in the new page opened through **View Details**.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-bussiness-api-how-to-verify-my-business_5.png)
 
 ### Step 3
 

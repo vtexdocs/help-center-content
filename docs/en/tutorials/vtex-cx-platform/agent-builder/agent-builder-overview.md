@@ -33,7 +33,7 @@ To access **Agent Builder**, select the organization on the Weni by VTEX homepag
 You can access the following pages in **Agent Builder:**
 
 - [**Supervisor**](#supervisor)
-- [**Profile**](#profile) 
+- [**Profile**](#profile)
 - [**Agents**](#agents)
 - [**Knowledge**](#knowledge)
 - [**Adjustments**](#adjustments)
@@ -50,8 +50,6 @@ The **Assisted by an agent** section shows the percentage of conversations answe
 In the <i class="fas fa-search" aria-hidden="true"></i>`Search` field, you can search for conversations and view the results.
 
 At the top of the page, you'll find interaction dates. You can click a date to change the time range and filter the results.
-
-![Imagem Supervisor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/agent-builder-overview_1.png)
 
 ## Profile
 
@@ -81,7 +79,7 @@ Read the detailed description of each tone of voice below:
 
 In the **General instructions** section, you can add direct instructions for your agent, defining how it should behave.
 
-If you added an instruction and want to delete it, click the <i class="far fa-trash-alt" aria-hidden="true"></i> trash button next to the instruction. A message will be displayed asking if you want to remove the instruction. Click `Remove` to delete it or `Cancel` to keep it. 
+If you added an instruction and want to delete it, click the <i class="far fa-trash-alt" aria-hidden="true"></i> trash button next to the instruction. A message will be displayed asking if you want to remove the instruction. Click `Remove` to delete it or `Cancel` to keep it.
 
 > ℹ️ There's no limit to the number of instructions.
 
@@ -105,7 +103,7 @@ To add a file to the database, click <i class="fas fa-plus" aria-hidden="true"><
 
 By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the file's name, you can:
 
-- View details (such as the date the file was added and its content). 
+- View details (such as the date the file was added and its content).
 - Download the file.
 - Remove the file.
 
@@ -121,7 +119,7 @@ To add a website to the agent's database, follow these instructions:
 
 By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the website, you can:
 
-- View details (such as the date the website was added and its content). 
+- View details (such as the date the website was added and its content).
 - Go to the website.
 - Remove the website.
 
@@ -141,13 +139,9 @@ On this page, you can change your agents' settings.
 
 Below **Agent preview,** there are two toggles:
 
-- **Agent progressive feedback:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
-
-![EN GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/agent-builder-overview_1.gif)
+- **Agent progressive feedback:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
 - **Multiple message format:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, like quick replies, lists, and catalogs. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-![Multiple message format](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/agent-builder-overview_2.png)
 
 Below **Human support,** there's a toggle switch:
 
