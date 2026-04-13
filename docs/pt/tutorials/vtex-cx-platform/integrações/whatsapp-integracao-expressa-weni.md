@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp: Integração Expressa no VTEX CX Platform
+title: 'WhatsApp: Integração Expressa no VTEX CX Platform'
 id: 7kr6sjRzpGI2zQmwvK4HU1
 status: PUBLISHED
 createdAt: 2025-09-15T15:02:52.737Z
