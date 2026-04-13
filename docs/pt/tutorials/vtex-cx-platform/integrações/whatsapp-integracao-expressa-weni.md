@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Com o modo de Integração Expressa do VTEX CX Platform, você pode adicionar um canal WhatsApp na organização da sua empresa para se comunicar com os clientes.
 
-O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal no VTEX CX Platform que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
+O WhatsApp é o maior aplicativo de mensagens do mundo e um dos preferidos pelos usuários. A integração deste canal no VTEX CX Platform permite que você conecte o número comercial da sua empresa e crie fluxos inteligentes para atender seus clientes.
 
 Existem algumas premissas para adicionar um número de WhatsApp pelo método de Integração Expressa:
 
