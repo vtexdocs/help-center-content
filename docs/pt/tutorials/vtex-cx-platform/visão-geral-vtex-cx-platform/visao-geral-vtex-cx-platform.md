@@ -45,7 +45,7 @@ Após preencher os campos clique em avançar.
 
 ### Preenchendo os dados de organização e projeto
 
-> **Note:** Se a sua Organização já existe e você está sendo convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na Plataforma. Não é necessário utilizar os nomes reais da empresa.
+> ℹ️ Se a sua Organização já existe e você está sendo convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na Plataforma. Não é necessário utilizar os nomes reais da empresa.
 
 Após preencher os campos clique em avançar.
 
@@ -55,13 +55,13 @@ Escolha entre criar **um agente personalizado** ou **usar um template.** Para co
 2. Objetivo;
 3. Conteúdo (Opcional). Esse conteúdo também poderá ser implementado em outra fase.
 
-> **Note:** **Defina claramente o objetivo principal do seu agente ao interagir com os clientes.** Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orientará as conversas de forma direta e assertiva.
+> ℹ️ **Defina claramente o objetivo principal do seu agente ao interagir com os clientes.** Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orientará as conversas de forma direta e assertiva.
 
-> **Note:** **Adicionando uma base de conteúdo,** você capacita seu agente inteligente a responder eficazmente aos usuários. Importe informações essenciais facilmente arrastando e soltando arquivos, com o texto sendo automaticamente integrado. Além disso, você pode adicionar conteúdos diretamente de sites ou copiar e colar o que desejar na base.
+> ℹ️ **Adicionando uma base de conteúdo,** você capacita seu agente inteligente a responder eficazmente aos usuários. Importe informações essenciais facilmente arrastando e soltando arquivos, com o texto sendo automaticamente integrado. Além disso, você pode adicionar conteúdos diretamente de sites ou copiar e colar o que desejar na base.
 
 Os **templates são fluxos prontos** com finalidades específicas, eles são divididos em três categorias: suporte, integrações e vendas. Ao clicar em alguns dos cards referentes à categoria de template você irá visualizar um pop-up que detalha seu uso de forma geral.
 
-> **Note:** Se optar por escolher um dos templates, clique na aba e escolha um dentre os que temos à disposição.
+> ℹ️ Se optar por escolher um dos templates, clique na aba e escolha um dentre os que temos à disposição.
 
 Clique em concluir para seguir adiante.
 
