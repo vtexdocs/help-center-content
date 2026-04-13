@@ -1,5 +1,5 @@
 ---
-title: 'VTEX Agentic CX Platform - Overview'
+title: 'VTEX CX Platform - Overview'
 id: 7qzaFp6xA3APSiaLNvj6C4
 status: PUBLISHED
 createdAt: 2026-03-31T15:33:34.931Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2026-10-31T14:21:49.664Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: vtex-agentic-cx-platform-overview
+slugEN: vtex-cx-platform-overview
 legacySlug: vtex-agentic-cx-platform-overview
 locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
