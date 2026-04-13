@@ -15,21 +15,19 @@ locale: pt
 subcategoryId: 13xAeqd2qH34rW2VHBXuWh
 ---
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/insights-dashboard-de-atendimento-humano_1.png)
-
 A tela de Insights de Atendimento Humano fornece dados e métricas essenciais sobre os atendimentos em andamento, encerrados, verificar quais agentes estão on\-line e o desempenho da equipe. Esses dados ajudam na análise e na otimização do atendimento, permitindo ajustes estratégicos para melhorar a experiência do usuário.
 
-## 1\. Pico de chats abertos por hora
+## 1. Pico de chats abertos por hora
 
 Gráfico que exibe a quantidade de chats iniciados ao longo do tempo, permitindo a análise dos horários de maior demanda.
 
-## 2\. Lista de agentes online
+## 2. Lista de agentes online
 
 Exibe os agentes que estão ativos no momento, além de informações sobre o número de atendimentos em andamento e finalizados por cada agente.
 
-## 3\. Filtros
+## 3. Filtros
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/insights-dashboard-de-atendimento-humano_2.png) Permite a personalização da consulta através dos seguintes critérios:
+Permite a personalização da consulta através dos seguintes critérios:
 
 - Contato: Nome ou URN do contato.
 - Data: Seleção de um período específico.
@@ -38,30 +36,30 @@ Exibe os agentes que estão ativos no momento, além de informações sobre o n�
 - Agente: Filtro por agente de atendimento.
 - Tags: Filtragem por tags associadas ao atendimento.
 
-## 4\. Gerar insights
+## 4. Gerar insights
 
 Realiza uma análise do desempenho do dashboard de atendimento humano, gerando um panorama completo dos dados apresentados no dashboard sugerindo, por exemplo, oportunidades de melhoria.
 
-## 5\. Em andamento
+## 5. Em andamento
 
 Número total de chats que estão sendo atendidos no momento.
 
-## 6\. Aguardando atendimento
+## 6. Aguardando atendimento
 
 Quantidade de contatos na fila, aguardando o início do atendimento.
 
-## 7\. Encerrados
+## 7. Encerrados
 
 Total de atendimentos que já foram finalizados.
 
-## 8\. Tempo de resposta
+## 8. Tempo de resposta
 
 Média do tempo que um contato espera para receber uma resposta a cada mensagem enviada.
 
-## 9\. Tempo de espera
+## 9. Tempo de espera
 
 Tempo médio que os contatos aguardam até o início do atendimento.
 
-## 10\. Tempo de interação
+## 10. Tempo de interação
 
 Média de duração total dos atendimentos, considerando desde o início até o encerramento da conversa.

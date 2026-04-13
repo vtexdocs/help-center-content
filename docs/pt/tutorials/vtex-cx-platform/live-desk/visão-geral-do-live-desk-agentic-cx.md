@@ -78,7 +78,7 @@ Emojis podem tornar a comunicação mais envolvente, isso porque eles facilitam 
 
 ### Quebra de texto
 
-É possível digitar  [shift \+ enter](https://www.google.com/search?q=shift+%2B+enter&spell=1&sa=X&ved=2ahUKEwiO9LaUxMCAAxWUGbkGHXIrDJAQkeECKAB6BAgIEAE) e quebrar linhas, o que pode facilitar na organização da mensagem.
+É possível digitar shift + enter e quebrar linhas, o que pode facilitar na organização da mensagem.
 
 ### Dashboard
 
