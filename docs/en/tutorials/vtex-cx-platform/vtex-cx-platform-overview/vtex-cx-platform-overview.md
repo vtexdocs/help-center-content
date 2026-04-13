@@ -140,7 +140,7 @@ After filling in the fields above, click the "Next" button and proceed to the ne
 
 **Templates** are pre-built flows with specific purposes, divided into three categories: support, integrations, and sales. When you click on any of the cards related to a template category, a pop-up will appear detailing its general use.
 
-Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created. See the image:
+Choose between creating a personalized agent or using a template to complete the final step of your project. Dóris will appear on your screen, indicating that your project was successfully created.
 
 After following the steps to create an organization and project, you can start **adding your team** by configuring permissions.
 
@@ -148,11 +148,11 @@ After following the steps to create an organization and project, you can start *
 
 > ℹ️ To learn more about the permissions' system, click here.
 
-Add members to your organization by clicking the dropdown menu and then "Manage Members." See the image:
+Add members to your organization by clicking the dropdown menu and then "Manage Members."
 
 (1)Enter the email of the person you wish to invite and click "Add" (1). Set the permission (2) for each person as needed. Once you're done, you can click the "Add" button.
 
-The members you add will receive an invitation email to join the organization. See the image:
+The members you add will receive an invitation email to join the organization.
 
 > ℹ️ To learn more about the permissions' system, click [here](/en/docs/tutorials/vtex-cx-platform-permission-system).
 
@@ -162,9 +162,9 @@ Currently, the platform is available in Portuguese, English, and Spanish. In thi
 
 ### How to change the language
 
-1. When you log into the platform, click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
+1. When you log into the platform, click on the settings button located in the upper right corner of the screen. By clicking on it, you will have the option to switch between languages.
 
-2. Within the project screen, you can also change the platform's language. Simply click on the settings button located in the upper right corner of the screen, as shown in the image. By clicking on it, you will have the option to switch between languages.
+2. Within the project screen, you can also change the platform's language. Simply click on the settings button located in the upper right corner of the screen. By clicking on it, you will have the option to switch between languages.
 
 By following these steps, the interface should be updated to your preferred language. You may need to restart your browser or log out and back into the system.
 

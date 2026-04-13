@@ -31,7 +31,7 @@ Você deve adicionar o contato a este grupo no fluxo que você abre um ticket, c
 
 Apenas adicionar a este grupo não é o suficiente, mas apenas a base que você precisa para saber quais contatos precisam ser ignorados nas mensagens automáticas enquanto estiverem em atendimento.
 
-Para isso, você deverá adicionar este grupo na lista de grupos ignorados **para cada um dos triggers configurados** no seu projeto, conforme exemplifica a imagem abaixo.
+Para isso, você deverá adicionar este grupo na lista de grupos ignorados **para cada um dos triggers configurados** no seu projeto.
 
 Com isso configurado, o chatbot não irá interromper o atendimento humano e a funcionalidade irá rodar como esperado.
 

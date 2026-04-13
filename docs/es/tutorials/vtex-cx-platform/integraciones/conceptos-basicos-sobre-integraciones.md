@@ -37,17 +37,13 @@ Un Webhook es una tecnología utilizada para permitir la comunicación entre dos
 
 Para enviar información a un sistema utilizando una API, debes usar el cuerpo de la solicitud (body) o enviarla directamente en la URL (query). La documentación de la API indicará cómo debe hacerse.
 
-En esta imagen podemos ver la documentación de la API de VTEX CX Platform:
-
-En esta imagen podemos ver cómo sería el cuerpo de la solicitud:
-
-> **Tip:** La carta Llamar Webhook permite el uso de variables, como @results, @contact y @fields. [Obtén más información sobre variables aquí.](https://help.vtex.com/es/docs/tutorials/introduccion-a-expresiones-y-variables)
+> La carta Llamar Webhook permite el uso de variables, como @results, @contact y @fields. [Obtén más información sobre variables aquí.](https://help.vtex.com/es/docs/tutorials/introduccion-a-expresiones-y-variables)
 
 ## ¿Cómo saber si la API puede integrarse nativamente?
 
 La documentación de la API actúa como un manual que nos ayuda a comprender cómo integrarla. En ella se indicará si las solicitudes están en la arquitectura nativa de la VTEX CX Platform: REST/Json.
 
-> **Nota:** Si la arquitectura de tu API no es REST/Json, aún es posible realizar la integración, pero será necesario modelar esa API.
+> Si la arquitectura de tu API no es REST/Json, aún es posible realizar la integración, pero será necesario modelar esa API.
 
 ## ¿Cómo visualizar la llamada a la API en la VTEX CX Platform?
 

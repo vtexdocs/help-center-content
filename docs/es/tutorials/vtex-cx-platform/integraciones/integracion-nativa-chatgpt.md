@@ -87,8 +87,6 @@ Puedes insertar más de un prompt en las configuraciones de ChatGPT, pudiendo el
 
 Para utilizar la integración de ChatGPT en los flujos, debes emplear la tarjeta “Call External Service” después de recibir un mensaje o respuesta del usuario. Tu flujo puede estructurarse de la siguiente manera:
 
-Según la imagen, debes configurar la carta de la siguiente manera:
-
 1. Escoger el nombre de tu aplicación configurada en el menú de Integraciones;
 2. Seleccionar la acción Consultar Chat GPT (por el momento, solo tenemos esta función disponible);
 3. Elegir qué prompt usar: Si solo tienes un prompt configurado, puedes ignorar esta etapa.

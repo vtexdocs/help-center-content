@@ -54,7 +54,7 @@ Es posible utilizar los mensajes rápidas de dos maneras:
 
 ### Mensajes rápidas por sector
 
-También es posible configurar mensajes rápidas para cada sector, de esta forma los gerentes pueden ejecutar esta función al momento de crear el sector. Véase en la imagen:
+También es posible configurar mensajes rápidas para cada sector, de esta forma los gerentes pueden ejecutar esta función al momento de crear el sector.
 
 1. Haz clic en Configuración > Live Desk > Elige el sector y haz clic en Abrir.
 2. Al abrir el sector, haz clic en Mensajes y luego en el botón Nueva mensaje rápida.
@@ -76,11 +76,11 @@ Es posible arrastrar archivos al cuadro de texto, y la función de Ctrl + V est�
 
 ### Emojis
 
-Los emojis pueden hacer la comunicación más atractiva, ya que facilitan la comprensión del tono y la intención del mensaje. Live Desk tiene una página completa de emojis. Ve la imagen a continuación:
+Los emojis pueden hacer la comunicación más atractiva, ya que facilitan la comprensión del tono y la intención del mensaje. Live Desk tiene una página completa de emojis.
 
 Salto de línea
 
-Es posible escribir **shift + enter** para hacer saltos de línea, lo que puede facilitar la organización del mensaje. Ve la imagen a continuación:
+Es posible escribir **shift + enter** para hacer saltos de línea, lo que puede facilitar la organización del mensaje.
 
 ### Historial
 
@@ -102,25 +102,23 @@ Al visualizar el historial del contacto, el agente puede ver el inicio de la ate
 
 ### Firma activa
 
-Es posible añadir una firma activa, de modo que cada mensaje intercambiado incluirá el nombre del agente que está respondiendo. Para activar esta función, accede a **Configuraciones > Live Desk**. A continuación, selecciona el sector que deseas configurar, y después de abrir el sector, en **opciones adicionales**, selecciona **firma activa**. Ve la imagen a continuación:
+Es posible añadir una firma activa, de modo que cada mensaje intercambiado incluirá el nombre del agente que está respondiendo. Para activar esta función, accede a **Configuraciones > Live Desk**. A continuación, selecciona el sector que deseas configurar, y después de abrir el sector, en **opciones adicionales**, selecciona **firma activa**.
 
-Después de añadir esta opción, el nombre del agente aparecerá en el globo de mensaje seguido de dos puntos, como se muestra en la imagen a continuación:
+Después de añadir esta opción, el nombre del agente aparecerá en el globo de mensaje seguido de dos puntos.
 
 ### Modo de visualización
 
 1. En el módulo de **Live Desk > Preferencias > Dashboard**.
+2. Haz clic en el nombre del agente y se abrirá una nueva ventana.
+3. Se abrirá una nueva ventana y podrás ver las actividades del agente en tiempo real.
 
-1. Haz clic en el nombre del agente y se abrirá una nueva ventana.
+**Notificación via navegador**
 
-1. Se abrirá una nueva ventana y podrás ver las actividades del agente en tiempo real.
-
-**Notificación Via Navegador**
-
-Como parte de nuestros clientes optan por no activar el sonido, también se lanzó la notificación a través del navegador. Para que esto funcione, es necesario permitir las notificaciones en tu navegador, para así recibir alertas como se muestra en la imagen a continuación:
+Como parte de nuestros clientes optan por no activar el sonido, también se lanzó la notificación a través del navegador. Para que esto funcione, es necesario permitir las notificaciones en tu navegador, para así recibir alertas.
 
 **Planilla del Dashboard**
 
-Además de tener un dashboard disponible, también es posible descargarlo en formato Excel. Ve la imagen a continuación:
+Además de tener un dashboard disponible, también es posible descargarlo en formato Excel.
 
 1. En el módulo de **Live Desk > Preferencias > Dashboard**.
 
@@ -128,6 +126,6 @@ Reproduce el mismo camino anterior para visualizar la pantalla del agente.
 
 ### Edición de campos de contacto
 
-Si es necesario, el agente podrá modificar los campos de contacto del cliente, lo que facilita corregir datos erróneos o actualizar información. Para activar esta función de edición, simplemente haz clic en **Configuraciones** y luego en **Sectores**, abre el sector y activa la función de edición de **Custom Fields**, como se muestra en la imagen a continuación:
+Si es necesario, el agente podrá modificar los campos de contacto del cliente, lo que facilita corregir datos erróneos o actualizar información. Para activar esta función de edición, simplemente haz clic en **Configuraciones** y luego en **Sectores**, abre el sector y activa la función de edición de **Custom Fields**.
 
-Y para realizar esta edición, basta hacer clic en el nombre del contacto. Una columna lateral derecha mostrará la información del contacto y, finalmente, haz clic en el campo de datos para escribir la información actualizada, como se muestra en la imagen siguiente:
+Y para realizar esta edición, basta hacer clic en el nombre del contacto. Una columna lateral derecha mostrará la información del contacto y, finalmente, haz clic en el campo de datos para escribir la información actualizada.

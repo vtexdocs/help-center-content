@@ -37,17 +37,13 @@ Webhook é uma tecnologia utilizada para permitir a comunicação entre duas apl
 
 Para passar informações para um sistema usando API você deve usar o corpo da requisição (body) ou passar diretamente na URL (query). A documentação da API vai dizer como deve ser feito.
 
-Nessa imagem podemos ver a documentação da API do VTEX CX Platform
-
-Nesta imagem podemos ver como ficaria o corpo da requisição para criar um contato com nome e número de WhatsApp:
-
-> **Dica:** O card Chamar Webhook permite o uso de variáveis, como, por exemplo, @results @contact e @fields. [Saiba mais sobre variáveis aqui.](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)
+> O card Chamar Webhook permite o uso de variáveis, como, por exemplo, @results @contact e @fields. [Saiba mais sobre variáveis aqui.](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)
 
 ## Como saber se a API pode ser integrada nativamente?
 
 A documentação da API funciona como um manual que nos ajuda a entender como integrar. Nela será informado se as requisições são na arquitetura nativa do VTEX CX Platformson.
 
-> **Nota:** Se a arquitetura da sua API não for REST/Json, ainda é possível fazer a integração, porém será necessário modelar essa API.
+> Se a arquitetura da sua API não for REST/Json, ainda é possível fazer a integração, porém será necessário modelar essa API.
 
 ## Como visualizar a chamada de API no VTEX CX Platform
 

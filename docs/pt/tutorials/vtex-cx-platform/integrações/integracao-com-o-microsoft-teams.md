@@ -62,19 +62,19 @@ A criação do Bot no Portal do Azure deve ser realizada pelo cliente, é recome
 
 No campo de pesquisa da página inicial, pesquise por **Azure bot.**
 
-Na seção **Criar um Bot do Azure**, insira um **Identificador do Bot**, selecione a **Assinatura (Avaliação Gratuita)** ou outra de sua opção, também será necessário criar um **Grupo de recursos.** No campo **Novo local do grupo de recursos**, selecione a região **Sul do Brasil**. Altere o **Tipo de preço**, para **Free**, conforme imagem:
+Na seção **Criar um Bot do Azure**, insira um **Identificador do Bot**, selecione a **Assinatura (Avaliação Gratuita)** ou outra de sua opção, também será necessário criar um **Grupo de recursos.** No campo **Novo local do grupo de recursos**, selecione a região **Sul do Brasil**. Altere o **Tipo de preço**, para **Free**.
 
 Na etapa da **Microsoft App ID**, selecione **Usar registro de aplicativo existente**:
 
 Em **ID do aplicativo**, insira o **ID do aplicativo (cliente)**.
 
-Após inserir a **ID do aplicativo**, clique em **Examinar \+ criar**, após a Azure examinar as credenciais da App ID, clique em **Criar**, conforme imagem:
+Após inserir a **ID do aplicativo**, clique em **Examinar \+ criar**, após a Azure examinar as credenciais da App ID, clique em **Criar**.
 
 Com a implementação do Bot concluída, podemos acessar os recursos (**Ir para o recurso**) e alterar alguns parâmetros importantes do Bot, como: Nome, ícone e descrição.
 
 Dentro do Bot, selecione **Perfil de Bot**, escolha um ícone, e o **Nome de exibição** do Bot para os usuários, clique em **Aplicar**.
 
-Em **Configuração**, insira a URL de call-back fornecida pela equipe de Onboarding no **Ponto de extremidade de mensagens**, e clique em **Aplicar**, conforme imagem de exemplo:
+Em **Configuração**, insira a URL de call-back fornecida pela equipe de Onboarding no **Ponto de extremidade de mensagens**, e clique em **Aplicar**.
 
 Em **Canais**, adicione o canal do **Microsoft Teams**, depois clique em Salvar:
 
@@ -120,9 +120,7 @@ Preencha o campo **Breve descrição**. Você pode usar o exemplo a seguir: (ex:
 
 • Preencha o campo **Termos de uso**. Você pode usar o exemplo a seguir ou se preferir, usar o Termo de uso da sua empresa: (<https://raizen.com/sobre-a-raizen/politicas-eprocedimentos>)
 
-• Preencha o campo **ID do Aplicativo (cliente)**. Esse campo ID do Aplicativo, deve ser preenchido com o **ID do Aplicativo criado na AZURE**. Com esse ID, o aplicativo do Teams integra com o aplicativo do Azue. A imagem a seguir representa a inserção dessa informação.
-
-A imagem a seguir representa a inserção dessa informação.
+• Preencha o campo **ID do Aplicativo (cliente)**. Esse campo ID do Aplicativo, deve ser preenchido com o **ID do Aplicativo criado na AZURE**. Com esse ID, o aplicativo do Teams integra com o aplicativo do Azue.
 
 Após o preenchimento das informações básicas, clique em **salvar**. Em seguida, deve-se configurar algumas informações localizadas abaixo do nome do BOT. Iniciando na aba **Configurar**, onde temos os seguintes pontos.
 
@@ -136,7 +134,7 @@ Após inserir as imagens, clique em **Recursos do aplicativo** e em seguida **Bo
 
 Em seguida, será aberta uma tela para configuração de alguns parâmetros do Bot.
 
-No campo (**Identificar seu bot**), clique em **Insira um ID de bot** e em seguinda preencha com o ID do Aplicativo criado no passo **2 \- Registro do aplicativo no Portal do Azure**. Os demais campos devem ser selecionados seguindo os exemplos do print da imagem abaixo.
+No campo (**Identificar seu bot**), clique em **Insira um ID de bot** e em seguinda preencha com o ID do Aplicativo criado no passo **2 \- Registro do aplicativo no Portal do Azure**.
 
 Ao concluir as configurações, clique em **Salvar**.
 

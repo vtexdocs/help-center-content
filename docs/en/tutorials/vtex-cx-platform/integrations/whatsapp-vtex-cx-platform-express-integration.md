@@ -33,7 +33,7 @@ Right after, a popup will appear requesting a connection to your Facebook accoun
 
 Enter your Facebook login credentials to proceed with the connection. Remember, you must be the administrator of your company’s Business Manager with Meta/Facebook.
 
-However, if you're already logged into the Facebook account that will be used, the step shown in the image below will appear. Simply click on **Continue**.
+However, if you're already logged into the Facebook account that will be used. Click on **Continue**.
 
 Then, just follow the steps to link your account.
 
@@ -65,7 +65,7 @@ If your business is not verified, you can proceed immediately!
 
 With your account linked to Meta and your WhatsApp Business number verified, it’s now time to integrate them into the platform. The steps are quick and straightforward.
 
-Once you complete step 3 of the number verification and click **OK**, a new screen on the VTEX CX Platform will appear. Simply click on **Create Channel**, as shown in the image:
+Once you complete step 3 of the number verification and click **OK**, a new screen on the VTEX CX Platform will appear. Simply click on **Create Channel**.
 
 If at this point you notice any inconsistency, do not give up, start the process again and now it will be easier, because the information will already be filled, if you does not works, please contact our support: **suporte@weni.ai**Next, select the number that will be linked to whatsApp integration into the VTEX CX Platform and that's it! Your new channel on the platform has already been created and you can use all the automation features.
 

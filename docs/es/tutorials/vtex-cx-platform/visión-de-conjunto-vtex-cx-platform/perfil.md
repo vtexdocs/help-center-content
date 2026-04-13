@@ -23,9 +23,7 @@ A continuación, aprenderá cómo administrar su cuenta en VTEX CX Platform.
 
 Para acceder a la página de Perfil, vaya a la página de inicio y haga clic en el ícono en la parte superior derecha de la pantalla.
 
-Haciendo clic en el ícono a la derecha, seleccione Cuenta. En esta sección, puede editar su **nombre, apellido** y el contacto de su cuenta, además de **cambiar la contraseña** si es necesario. Ingrese las modificaciones y haga clic en **guardar cambios** para que la información se actualice.
-
-> Nota: Complete los campos para guardar los datos que se actualizarán. La imagen demostrativa no contiene el contacto completo para cumplir con la Ley General de Protección de Datos.
+Haciendo clic en el ícono a la derecha, seleccione Cuenta. En esta sección, puede editar su **nombre, apellido** y el contacto de su cuenta, además de **cambiar la contraseña** si es necesario. Ingrese las modificaciones y haga clic en **guardar cambios** para que la información se actualice. Complete los campos para guardar los datos que se actualizarán.
 
 ## Cambiar contraseña
 

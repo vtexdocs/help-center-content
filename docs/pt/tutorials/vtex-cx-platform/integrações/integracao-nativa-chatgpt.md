@@ -78,8 +78,6 @@ Você pode inserir mais de um Prompt nas configurações do chatGPT, podendo esc
 
 Para usar a integração do chatGPT nos fluxos, você deve usar o cartão “Call External Service” após receber uma mensagem ou resposta do usuário. Seu fluxo pode ser construído dessa forma:
 
-De acordo com a imagem, você deve configurar o cartão da seguinte forma:
-
 1. Escolher o Nome do seu canal configurado em **Configurações > Canais**;
 2. Escolher a ação Consultar Chat GPT (por enquanto só temos essa função liberada);
 3. Escolher qual prompt usar: Se você só tiver 1 prompt configurado, pode ignorar essa etapa.
