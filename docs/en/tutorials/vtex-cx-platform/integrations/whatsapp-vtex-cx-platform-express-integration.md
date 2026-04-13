@@ -57,7 +57,11 @@ Wait for the 6-digit code to arrive, and enter it on the next screen. Make sure 
 
 Click "verify" and select OK on the screen that appears confirming that your number is ready to be used.
 
-If your business is already verified with Meta, the next step can only be completed after receiving an email from Meta confirming the acceptance of the display name. Once you receive the email, return to the platform to continue.If your business is not verified, you can proceed immediately!#### **Final step for integration**
+If your business is already verified with Meta, the next step can only be completed after receiving an email from Meta confirming the acceptance of the display name. Once you receive the email, return to the platform to continue.
+
+If your business is not verified, you can proceed immediately!
+
+#### Final step for integration
 
 With your account linked to Meta and your WhatsApp Business number verified, it’s now time to integrate them into the platform. The steps are quick and straightforward.
 

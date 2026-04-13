@@ -17,7 +17,9 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Your users will need a Discord account and a compatible device to send/receive messages. This type of channel is only available if your instance has been configured with the Discord proxy [application](https://github.com/releaseplatform/RapidPro-Discord-Proxy) .
 
-The infrastructure required for the proxy is not provided by VTEX CX Platform.#### Register your app by following the official instructions.
+The infrastructure required for the proxy is not provided by VTEX CX Platform.
+
+#### Register your app by following the official instructions.
 
 - Discord has official documentation on how to register your bot.
 

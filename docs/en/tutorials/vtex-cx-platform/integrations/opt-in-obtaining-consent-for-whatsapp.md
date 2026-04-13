@@ -37,7 +37,9 @@ If the collection method meets the above requirements, it will comply with Meta'
 - Phone (IVR): Use interactive voice response flows to obtain consent.
 - In-Person or Physical Document: Collect consent in person or through signed physical forms.
 
-It is highly recommended that businesses constantly optimize the user experience when developing their consent flows.##### Tips for Improving the Consent Experience
+It is highly recommended that businesses constantly optimize the user experience when developing their consent flows.
+
+##### Tips for Improving the Consent Experience
 
 To ensure a positive and optimized experience, businesses should follow these best practices when obtaining consent:
 
