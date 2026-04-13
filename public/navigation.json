@@ -37307,37 +37307,6 @@
             },
             {
               "name": {
-                "en": "Configuraciones VTEX CX Platform",
-                "es": "Configuraciones VTEX CX Platform",
-                "pt": "Configuraciones VTEX CX Platform"
-              },
-              "slug": {
-                "en": "configuraciones-vtex-cx-platform",
-                "es": "configuraciones-vtex-cx-platform-subcategoria",
-                "pt": "configuraciones-vtex-cx-platform"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Weni Chats: Configurando el atención humana",
-                    "en": "Weni Chats: Configurando el atención humana",
-                    "pt": "Weni Chats: Configurando el atención humana"
-                  },
-                  "slug": {
-                    "es": "weni-chats-configurando-el-atencion-humana",
-                    "en": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Configurações VTEX CX Platform",
                 "es": "Configurações VTEX CX Platform",
                 "pt": "Configurações VTEX CX Platform"
@@ -38332,7 +38301,7 @@
                 {
                   "name": {
                     "en": "Manage Live Desk",
-                    "es": "Weni Chats: Gestión de la atención humana",
+                    "es": "VTEX CX Platform Chats: Gestión de la atención humana",
                     "pt": "Configurar o Live Desk"
                   },
                   "slug": {
