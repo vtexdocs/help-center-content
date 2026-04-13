@@ -85,9 +85,9 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Agentic CX Platform: New name and updates to the Weni by VTEX platform",
-                    "es": "VTEX Agentic CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
-                    "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
+                    "en": "VTEX CX Platform: New name and updates to the Weni by VTEX platform",
+                    "es": "VTEX CX Platform: nuevo nombre y actualizaciones en la plataforma Weni by VTEX",
+                    "pt": "VTEX CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
                   },
                   "slug": {
                     "en": "2026-03-27-vtex-agentic-cx-platform-new-weni-by-vtex-name-and-platform",
@@ -37184,21 +37184,6 @@
                 },
                 {
                   "name": {
-                    "pt": "Agentes oficiais do VTEX CX Platform",
-                    "en": "Agentes oficiais do VTEX CX Platform",
-                    "es": "Agentes oficiais do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "pt": "agentes-oficiais-da-vtex-cx-platform",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Assigning and testing agents",
                     "es": "Asignar y probar agentes",
                     "pt": "Atribuir e testar agentes"
@@ -37214,14 +37199,14 @@
                 },
                 {
                   "name": {
-                    "en": "Official agents from VTEX Agentic CX Platform",
+                    "en": "Official agents from VTEX CX Platform",
                     "es": "Agentes oficiales de Weni by VTEX",
-                    "pt": "Official agents from VTEX Agentic CX Platform"
+                    "pt": "Agentes oficiais do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "official-agents-from-vtex-agentic-cx-platform",
+                    "en": "official-agents-from-vtex-cx-platform",
                     "es": "agentes-oficiales-de-weni-by-vtex",
-                    "pt": ""
+                    "pt": "agentes-oficiais-da-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37864,12 +37849,12 @@
                   "name": {
                     "en": "WhatsApp: Weni Express integration",
                     "es": "WhatsApp: Integración express Weni",
-                    "pt": "WhatsApp: Weni Express integration"
+                    "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
                   },
                   "slug": {
                     "en": "whatsapp-weni-express-integration",
                     "es": "whatsapp-integracion-express-weni",
-                    "pt": ""
+                    "pt": "whatsapp-integracao-expressa-weni"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38152,12 +38137,12 @@
               "name": {
                 "en": "VTEX CX Platform - Overview",
                 "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visão geral Weni by VTEX"
+                "pt": "Visão geral VTEX CX Platform"
               },
               "slug": {
                 "en": "vtex-cx-platform-overview-subcategory",
                 "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "visão-geral-weni-by-vtex-subcategoria"
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38269,14 +38254,14 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Agentic CX Platform - Overview",
+                    "en": "VTEX CX Platform - Overview",
                     "es": "Cambiando el idioma de la plataforma",
-                    "pt": "VTEX Agentic CX Platform - Overview"
+                    "pt": "Visão geral VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "vtex-agentic-cx-platform-overview",
+                    "en": "vtex-cx-platform-overview",
                     "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": ""
+                    "pt": "visao-geral-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38292,37 +38277,6 @@
                     "en": "weni-permission-system",
                     "es": "sistema-de-permisos-weni",
                     "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Visão geral Weni by VTEX",
-                "es": "Visão geral Weni by VTEX",
-                "pt": "Visão geral Weni by VTEX"
-              },
-              "slug": {
-                "en": "visao-geral-weni-by-vtex",
-                "es": "visao-geral-weni-by-vtex",
-                "pt": "visão-geral-weni-by-vtex-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Visão geral VTEX CX Platform",
-                    "en": "Visão geral VTEX CX Platform",
-                    "es": "Visão geral VTEX CX Platform"
-                  },
-                  "slug": {
-                    "pt": "visao-geral-vtex-cx-platform",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
