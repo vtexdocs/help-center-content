@@ -36010,7 +36010,7 @@
                   "slug": {
                     "en": "introduction-to-agentic-cx",
                     "es": "introduccion-a-weni-agentic-ai",
-                    "pt": "introducao-ao-weni-agentic-ai"
+                    "pt": "introducao-ao-agentic-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36882,7 +36882,7 @@
                     },
                     {
                       "name": {
-                        "en": "Adding media to the message",
+                        "en": "Adding Media to the message",
                         "es": "Agregar mídias a su mensaje",
                         "pt": "Adicionar mídias"
                       },
@@ -37290,7 +37290,7 @@
                 },
                 {
                   "name": {
-                    "en": "Weni Chats: Human service dashboard",
+                    "en": "VTEX CX Platform Chats: Human service dashboard",
                     "es": "Weni Chats: Dashboard de atención humana",
                     "pt": "Live Desk: Dashboard"
                   },
@@ -37298,6 +37298,37 @@
                     "en": "vtex-agentic-cx-platform-live-desk-dashboard",
                     "es": "weni-chats-dashboard-de-atencion-humana",
                     "pt": "dashboard-do-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Configuraciones VTEX CX Platform",
+                "es": "Configuraciones VTEX CX Platform",
+                "pt": "Configuraciones VTEX CX Platform"
+              },
+              "slug": {
+                "en": "configuraciones-vtex-cx-platform",
+                "es": "configuraciones-vtex-cx-platform-subcategoria",
+                "pt": "configuraciones-vtex-cx-platform"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Weni Chats: Configurando el atención humana",
+                    "en": "Weni Chats: Configurando el atención humana",
+                    "pt": "Weni Chats: Configurando el atención humana"
+                  },
+                  "slug": {
+                    "es": "weni-chats-configurando-el-atencion-humana",
+                    "en": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37832,12 +37863,12 @@
                 },
                 {
                   "name": {
-                    "en": "WhatsApp: Weni Express integration",
-                    "es": "WhatsApp: Integración express Weni",
+                    "en": "WhatsApp: VTEX CX Platform Express integration",
+                    "es": "WhatsApp: Integración express VTEX CX Platform",
                     "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "whatsapp-weni-express-integration",
+                    "en": "whatsapp-vtex-cx-platform-express-integration",
                     "es": "whatsapp-integracion-express-weni",
                     "pt": "whatsapp-integracao-expressa-weni"
                   },
@@ -38254,12 +38285,12 @@
                 },
                 {
                   "name": {
-                    "en": "Weni permission system",
+                    "en": "VTEX CX Platform permission system",
                     "es": "Sistema de permisos Weni",
-                    "pt": "Weni permission system"
+                    "pt": "VTEX CX Platform permission system"
                   },
                   "slug": {
-                    "en": "weni-permission-system",
+                    "en": "vtex-cx-platform-permission-system",
                     "es": "sistema-de-permisos-weni",
                     "pt": ""
                   },
@@ -38308,21 +38339,6 @@
                     "en": "manage-live-desk",
                     "es": "weni-chats-gestion-de-la-atencion-humana",
                     "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Weni Chats: Setting up human attendance",
-                    "es": "Weni Chats: Configurando el atención humana",
-                    "pt": "Weni Chats: Setting up human attendance"
-                  },
-                  "slug": {
-                    "en": "weni-chats-setting-up-human-attendance",
-                    "es": "weni-chats-configurando-el-atencion-humana",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
