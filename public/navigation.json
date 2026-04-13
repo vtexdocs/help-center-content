@@ -36009,7 +36009,7 @@
                   },
                   "slug": {
                     "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-weni-agentic-ai",
+                    "es": "introduccion-a-agentic-ai",
                     "pt": "introducao-ao-agentic-cx"
                   },
                   "origin": "",
@@ -37185,12 +37185,12 @@
                 {
                   "name": {
                     "en": "Official agents from VTEX CX Platform",
-                    "es": "Agentes oficiales de Weni by VTEX",
+                    "es": "Agentes oficiales de VTEX CX Platform",
                     "pt": "Agentes oficiais do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "official-agents-from-vtex-cx-platform",
-                    "es": "agentes-oficiales-de-weni-by-vtex",
+                    "es": "agentes-oficiales-de-vtex-cx-platform",
                     "pt": "agentes-oficiais-da-vtex-cx-platform"
                   },
                   "origin": "",
@@ -37231,13 +37231,28 @@
                 {
                   "name": {
                     "en": "Live Desk - Overview",
-                    "es": "Introducción al módulo de Chats",
+                    "es": "Introducción al módulo de Live Desk",
                     "pt": "Live Desk - Overview"
                   },
                   "slug": {
                     "en": "introduction-to-live-desk",
                     "es": "introduccion-al-modulo-de-chats",
                     "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Live Desk: Human service dashboard",
+                    "es": "Live Desk: Dashboard",
+                    "pt": "Live Desk: Dashboard"
+                  },
+                  "slug": {
+                    "en": "vtex-cx-platform-live-desk-dashboard",
+                    "es": "dashboard-de-live-desk",
+                    "pt": "dashboard-do-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37283,21 +37298,6 @@
                     "pt": "visao-geral-do-live-desk-agentic-cx",
                     "en": "",
                     "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform Chats: Human service dashboard",
-                    "es": "Weni Chats: Dashboard de atención humana",
-                    "pt": "Live Desk: Dashboard"
-                  },
-                  "slug": {
-                    "en": "vtex-agentic-cx-platform-live-desk-dashboard",
-                    "es": "weni-chats-dashboard-de-atencion-humana",
-                    "pt": "dashboard-do-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37728,12 +37728,12 @@
                 {
                   "name": {
                     "en": "Web Chat Channel",
-                    "es": "Canal Weni web chat",
+                    "es": "Canal VTEX CX Platform web chat",
                     "pt": "Canal de Web Chat"
                   },
                   "slug": {
                     "en": "web-chat-channel",
-                    "es": "canal-weni-web-chat",
+                    "es": "canal-web-chat",
                     "pt": "canal-de-web-chat"
                   },
                   "origin": "",
@@ -37833,13 +37833,13 @@
                 {
                   "name": {
                     "en": "WhatsApp: VTEX CX Platform Express integration",
-                    "es": "WhatsApp: Integración express VTEX CX Platform",
+                    "es": "WhatsApp: Integración express con VTEX CX Platform",
                     "pt": "WhatsApp: Integração Expressa no VTEX CX Platform"
                   },
                   "slug": {
                     "en": "whatsapp-vtex-cx-platform-express-integration",
-                    "es": "whatsapp-integracion-express-weni",
-                    "pt": "whatsapp-integracao-expressa-weni"
+                    "es": "whatsapp-integracion-express-con-vtex-cx-platform",
+                    "pt": "whatsapp-integracao-expressa-no-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38020,7 +38020,7 @@
                   "slug": {
                     "en": "how-to-download-and-extract-archived-data",
                     "es": "como-descargar-y-extraer-datos-archivados",
-                    "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows"
+                    "pt": "como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-fluxo-de-automacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38255,12 +38255,12 @@
                 {
                   "name": {
                     "en": "VTEX CX Platform permission system",
-                    "es": "Sistema de permisos Weni",
+                    "es": "Sistema de permisos VTEX CX Platform",
                     "pt": "VTEX CX Platform permission system"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-permission-system",
-                    "es": "sistema-de-permisos-weni",
+                    "es": "vtex-cx-platform-sistema-de-permisos",
                     "pt": ""
                   },
                   "origin": "",
@@ -38301,12 +38301,12 @@
                 {
                   "name": {
                     "en": "Manage Live Desk",
-                    "es": "VTEX CX Platform Chats: Gestión de la atención humana",
+                    "es": "Configurar el Live Desk",
                     "pt": "Configurar o Live Desk"
                   },
                   "slug": {
                     "en": "manage-live-desk",
-                    "es": "weni-chats-gestion-de-la-atencion-humana",
+                    "es": "configurar-el-live-desk",
                     "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
