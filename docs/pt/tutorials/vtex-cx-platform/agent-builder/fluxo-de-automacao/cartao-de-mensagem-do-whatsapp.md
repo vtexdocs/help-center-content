@@ -73,5 +73,3 @@ Este cartão **não substitui** o envio do **template de mensagem.**
 Veja um exemplo de como a mensagem será exibida no WhatsApp:
 
 Utilize este cartão **apenas para URN no WhatsApp.**
-
-O cartão **Enviar Mensagem WhatsApp** oferece melhorias que resultam em uma experiência de uso mais fluida e produtiva. Experimente agora e aproveite todos os novos recursos!

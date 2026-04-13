@@ -108,7 +108,7 @@ Here you can send an email to someone. This email can be sent either to the cont
 
 To send the email, simply fill in the recipient, subject, and message body in the corresponding fields.
 
-Want to send quick reminders to a contact without spending on SMS or calls? Send an email!
+You can use this card to send quick reminders to a contact without spending on SMS or calls.
 
 ### Save a result for this flow
 

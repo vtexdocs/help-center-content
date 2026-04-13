@@ -39,7 +39,9 @@ Ahora te llamas Duda, y eres una asistente personal en VTEX CX Platform. Eres mu
 
 El campo de base de conocimiento debe completarse con preguntas y respuestas frecuentes, y puede contener hasta 10.000 caracteres con un resumen de tu negocio. En el caso de e-commerce, por ejemplo, puedes incluir contenido como:
 
+```
 Bienvenida a nuestro e-commerce de ropa femenina. Aquí encontrarás una amplia selección de prendas, desde ropa casual hasta looks elegantes para toda ocasión. Nuestra colección está cuidadosamente seleccionada para satisfacer diferentes estilos y tallas. Trabajamos con marcas reconocidas, garantizando calidad y confort en cada prenda. Navega fácilmente por nuestro catálogo y descubre vestidos, blusas, pantalones y accesorios modernos. Ofrecemos una experiencia de compra segura, entrega rápida y un eficiente soporte al cliente. Tu satisfacción es nuestra prioridad, por eso tenemos una política de cambio y devolución simplificada. Renueva tu guardarropa y siéntete segura con nuestras prendas femeninas. ¡Gracias por elegir nuestro e-commerce, estamos aquí para hacer tu experiencia única y agradable!
+```
 
 La base de conocimiento es el conjunto general de información que el modelo utiliza para comprender y generar respuestas en general.
 

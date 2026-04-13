@@ -108,7 +108,7 @@ Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tant
 
 Para enviar el correo electrónico, solo necesitas ingresar el destinatario, el asunto y el cuerpo del mensaje en los campos correspondientes.
 
-¿Deseas enviar recordatorios rápidos a un contacto sin gastar en SMS o llamadas? ¡Envía un correo electrónico!
+Puedes usar esta tarjeta para enviar recordatorios rápidos a un contacto sin gastar en SMS o llamadas.
 
 ## Guarda un resultado para este flujo
 

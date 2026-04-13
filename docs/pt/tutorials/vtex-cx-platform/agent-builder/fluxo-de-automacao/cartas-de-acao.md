@@ -77,7 +77,7 @@ Que tal marcar todos os interesses nos produtos da sua empresa? Seria uma boa fo
 
 É possível adicionar novas URNs para o seu contato. Você pode selecionar o tipo da URN que vai ser adicionada (Phone Number, Whatsapp, SMS, Telegram, etc) e informar o novo valor, utilizando algum valor fixo ou uma variável de fluxo.
 
-Seu lead chegou pelo seu site? Pergunta o número do Whatsapp dele e manda uma mensagem por lá!
+Se o lead chegou pelo seu site, você pode solicitar o número do WhatsApp e enviar uma mensagem por esse canal.
 
 ## Adicionar um contato ao grupo
 
@@ -105,7 +105,7 @@ Aqui você pode enviar um e-mail para alguém. Esse e-mail pode ser tanto do con
 
 Para enviar o e-mail, basta colocar o destinatário, o assunto e o corpo da mensagem nos campos correspondentes.
 
-Deseja enviar lembretes rápidos para um contato sem gastar com SMS ou ligações? Manda um e-mail!
+Você pode usar este cartão para enviar lembretes rápidos a um contato sem gastar com SMS ou ligações.
 
 ## Salvar o resultado para este fluxo
 

@@ -122,7 +122,7 @@ You can access these flow values ​​using the platform variables (to learn mo
 
 By default, the results' name will always be **(Result + n)** where n is the number of results that exist in your stream, however, this can be easily changed in the Result name field.
 
-Always change the results' names to names that you can understand in a simple and intuitive way!
+Always change the results' names to names that you can understand in a simple and intuitive way.
 
 ## Wait for the contact to respond
 

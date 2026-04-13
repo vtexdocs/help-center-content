@@ -32,9 +32,9 @@ As configurações abaixo são de extrema importância para a criação do canal
 Primeiramente é necessário que sua conta do Instagram seja empresarial ou profissional. Para isso, faça os seguintes passos:
 
 1. Vá em **Configurações > Para profissionais >** toque em **Mudar para conta profissional**.
+2. Escolha a categoria que melhor represente a sua empresa e selecione Empresa.
 
-1. Escolha a categoria que melhor represente a sua empresa e selecione Empresa.
-2. Pronto, sua conta é empresarial agora!
+Sua conta agora é empresarial.
 
 ### Passo 2: Conectar conta do Instagram ao perfil do Facebook na Central de Contas
 
@@ -89,4 +89,4 @@ Após realizar as configurações indicadas na seção anterior iremos agora cri
 7. Confirme que deseja continuar e dar as permissões necessárias para que possa gerenciar sua conta do Instagram por nossa plataforma.
 8. Após finalizar, a página do Facebook se fechará e irá aparecer em sua tela as páginas selecionadas por você nos passos anteriores, clique na página que você vinculou a conta do Instagram na seção anterior.
 
-Pronto, seu canal foi criado!
+Seu canal foi criado.

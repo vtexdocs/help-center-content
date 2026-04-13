@@ -32,9 +32,9 @@ Las configuraciones a continuación son de suma importancia para la creación de
 Para hacerlo, sigue estos pasos:
 
 1. Para acceder a tu perfil, toca en Perfil o en tu foto de perfil en la esquina inferior derecha > Editar > Cambiar a cuenta profesional.
+2. Elige la categoría que mejor represente a tu empresa y selecciona Empresa.
 
-1. Elige la categoría que mejor represente a tu empresa y selecciona Empresa.
-1. ¡Listo, tu cuenta ahora es empresarial!
+Tu cuenta ahora es empresarial.
 
 ### Paso 2: conectar tu cuenta de Instagram al perfil de Facebook en la central de cuentas
 

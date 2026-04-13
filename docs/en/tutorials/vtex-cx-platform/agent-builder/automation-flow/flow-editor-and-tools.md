@@ -74,5 +74,3 @@ In this part of the Flow Editor, you will find some tools to make your work easi
 3. **Copy:** Select one or more cards and click this button to copy them. Use the Ctrl + V keys to paste. This function allows you to paste copied cards into another flow. You can also copy using the Ctrl + C keys.
 4. **Search:** Search for elements within cards, such as the card name, message text, or result name. This function can be activated with the Ctrl + F keys.
 5. **Zoom:** Allows you to zoom in or out. By clicking the up arrow, you will be directed to the beginning of the flow. It can also be activated with Ctrl + Scroll.
-
-With that, you can now create your flows using all the resources that our editor can offer!

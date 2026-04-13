@@ -31,7 +31,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 10. Select **Create**, if validation is approved. It takes a few moments for your bot service to be provisioned.
 
-11. Select **Go to resource**. Now your application is created!
+11. Select **Go to resource**. Your application is now created.
 
 ### To create the client secret
 
@@ -76,7 +76,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 9. In **Tenant id** enter the tenant id value you saved earlier.
 10. Now click **Submit.**
 
-11. Now your channel is created!
+11. Your channel is now created.
 12. On the channel page that you will be sent to right after you click **Submit**, you will have the ID of that channel, we will need that value. To get it you can copy the large ID that you will have at the end of the URL of this page. After the **read/** copy all this id made up of numbers, letters, and dashes. Save it.
 
 ### Set up endpoint in application

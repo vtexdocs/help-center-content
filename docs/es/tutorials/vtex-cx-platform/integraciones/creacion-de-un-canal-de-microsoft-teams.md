@@ -30,7 +30,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, selecciona Revisar + Crear.
 
 10. Selecciona Crear si la validación es aprobada. Tomará unos momentos para que tu servicio de bot sea aprovisionado.
-11. Selecciona Ir al recurso. ¡Ahora tu aplicación está creada!
+11. Selecciona Ir al recurso. Tu aplicación está creada.
 
 ### Para crear el secreto de cliente
 
@@ -68,7 +68,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 8. En Contraseña de la Aplicación ingresa el Secreto de Cliente que creaste anteriormente.
 9. En Tenant id ingresa el valor de tenant id que guardaste anteriormente.
 10. Ahora haz clic en Enviar.
-11. ¡Ahora tu canal está creado!
+11. Tu canal está creado.
 12. En la página del canal a la que serás dirigido justo después de hacer clic en Enviar, tendrás el ID de ese canal, necesitaremos ese valor. Para obtenerlo, puedes copiar el ID largo que aparece al final de la URL de esta página. Después de leer/copiar todo este ID compuesto de números, letras y guiones, guárdalo.
 
 ### Configurar el endpoint en la aplicación

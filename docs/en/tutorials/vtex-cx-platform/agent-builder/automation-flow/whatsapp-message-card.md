@@ -68,4 +68,4 @@ Here’s an example of how the message will be displayed on WhatsApp:
 
 Use this card only for URN in WhatsApp.
 
-The **WhatsApp Send Message card** offers improvements that result in a smoother and more productive user experience. Try it now and take advantage of all the new features!
+The **WhatsApp Send Message card** offers improvements that result in a smoother and more productive user experience.

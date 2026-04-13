@@ -65,5 +65,3 @@ Aún en Interacciones puedes agregar un Botón de URL, esto permite la creación
 Es posible añadir una variable en tu URL si es necesario.
 
 Utiliza esta tarjeta solo para URN en WhatsApp.
-
-La tarjeta Enviar Mensaje WhatsApp ofrece mejoras que resultan en una experiencia de uso más fluida y productiva. ¡Prueba ahora y aprovecha todos los nuevos recursos!
