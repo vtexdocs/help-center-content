@@ -19,7 +19,7 @@ The **My agents** section allows users to assign agents to the team and test the
 
 Some official agents require credentials. See the full list in the article [Official agents from VTEX CX Platform and their credentials](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
-> ℹ️ To create custom agents, use the VTEX CX Platform CLI. See the [documentation](https://weni-ai.github.io/weni-cli/getting-started/installation/) for instructions.
+> ℹ️ To create custom agents, use the VTEX CX Platform (Weni) CLI. See the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) for instructions.
 
 This article is divided in two parts:
 

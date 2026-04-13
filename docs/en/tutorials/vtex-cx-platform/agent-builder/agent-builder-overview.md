@@ -24,7 +24,7 @@ The feature focuses on an orchestrator agent, which is the point of contact with
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
-> ⚠️ To create custom agents, use the VTEX CX Platform CLI. See the [documentation](https://weni-ai.github.io/weni-cli/getting-started/installation/) for instructions.
+> ⚠️ To create custom agents, use the VTEX CX Platform (Weni) CLI. See the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) for instructions.
 
 ## Agent Builder
 
