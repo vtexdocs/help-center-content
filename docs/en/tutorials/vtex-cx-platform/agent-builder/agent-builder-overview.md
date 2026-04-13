@@ -20,7 +20,7 @@ order: 1
 
 The feature focuses on an orchestrator agent, which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
 
-> ℹ️ Learn more about collaborating agents in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-weni-by-vtex).
+> ℹ️ Learn more about collaborating agents in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
