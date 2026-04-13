@@ -52,4 +52,4 @@ The members you add will receive an invitation email to join the organization. S
 
 > To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
 
-After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the Weni Platform.
+After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the VTEX CX Platform.

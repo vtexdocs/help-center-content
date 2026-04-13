@@ -1,5 +1,5 @@
 ---
-title: 'Opt-in: Obtaining consent for WhatsApp'
+title: "Opt-in: Obtaining consent for WhatsApp"
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z

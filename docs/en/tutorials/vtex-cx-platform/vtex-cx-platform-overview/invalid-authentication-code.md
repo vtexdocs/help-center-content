@@ -1,5 +1,5 @@
 ---
-title: 'Invalid authentication code'
+title: "Invalid authentication code"
 id: VcKrwtmEDgCHUCFetGjf2
 status: PUBLISHED
 createdAt: 2025-09-12T16:23:34.561Z
@@ -15,12 +15,9 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-If you have disabled and re\-enabled two\-factor authentication, and when logging into the platform the message ""Invalid authentication code"" appears, click on ""Learn More"" and follow these instructions:
+If you have disabled and re-enabled two-factor authentication, and when logging into the platform the message "Invalid authentication code" appears, click on "Learn More" and follow these instructions:
 
 1. Access the Microsoft Authenticator app on your phone and select the profile.
-
 2. When selecting the profile, a new window will open. Click on the gear icon.
-
-3. A new window will open. Click on ""Remove account.""
-
-4. After completing this process, follow the instructions provided on your login screen, under the section for setting up two\-step verification.
+3. A new window will open. Click on "Remove account."
+4. After completing this process, follow the instructions provided on your login screen, under the section for setting up two-step verification.

@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-The Weni platform has several SMS channels that can be configured to receive and send messages, and depending on the chosen application, there will be different settings to configure. To activate a channel, go to the **Applications** **module > Other Apps > Add Channel.**
+The VTEX CX Platform has several SMS channels that can be configured to receive and send messages, and depending on the chosen application, there will be different settings to configure. To activate a channel, go to the **Applications** **module > Other Apps > Add Channel.**
 
 In the new tab, look for **Voice and SMS Channels.**
 
-After selecting your SMS channel, follow the step\-by\-step guide to complete the integration. Here are the SMS channels available in the project.
+After selecting your SMS channel, follow the step-by-step guide to complete the integration. Here are the SMS channels available in the project.
 
 - Twillio
 - Twillio Messaging Service

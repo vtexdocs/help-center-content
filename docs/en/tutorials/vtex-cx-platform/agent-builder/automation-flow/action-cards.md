@@ -60,9 +60,9 @@ Always make sure the channel your audience is working on supports the media you 
 
 1. **Advanced**
 
-The ""Advanced"" option (Advanced Settings) allows you to enable message delivery to all destinations, meaning the message will be sent to all channels the contact is linked to, not just the preferred channel. After that, the channel chosen by the user to reply will become the new preferred channel for that conversation.
+The "Advanced" option (Advanced Settings) allows you to enable message delivery to all destinations, meaning the message will be sent to all channels the contact is linked to, not just the preferred channel. After that, the channel chosen by the user to reply will become the new preferred channel for that conversation.
 
-In other words, if your preferred channel is WhatsApp, by selecting the ""all destinations"" option, the contact will receive the message on all channels they have. If they reply via SMS, SMS will become the new preferred channel for that contact, and the flow will continue there.
+In other words, if your preferred channel is WhatsApp, by selecting the "all destinations" option, the contact will receive the message on all channels they have. If they reply via SMS, SMS will become the new preferred channel for that contact, and the flow will continue there.
 
 This setting is only useful in specific cases! If in doubt about use, preferably leave it unchecked.
 
@@ -92,7 +92,7 @@ Did the contact complete a satisfaction survey? You can group it with everyone w
 
 ### Remove the contact from a group
 
-You can remove the contact from some [static group](/en/docs/tutorials/static-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article
+You can remove the contact from some [static group](/en/docs/tutorials/static-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article.
 
 Is the contact no longer your customer? You can remove it from the group and thereby block exclusive actions for customers.
 
@@ -104,7 +104,7 @@ Did you ask the age of your contact? You can save the value for later reference.
 
 ### Send an email
 
-Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the Weni Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, visit the [project settings](/en/docs/tutorials/general-project-settings) article.
+Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the VTEX CX Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, visit the [project settings](/en/docs/tutorials/general-project-settings) article.
 
 To send the email, simply fill in the recipient, subject, and message body in the corresponding fields.
 
@@ -158,4 +158,3 @@ This card is used to open support tickets for human assistance. To direct the in
 ### Call a webhook
 
 This card allows you to make API requests, storing the response in a variable that can be used within the flow. This makes it easier to connect with other external systems. Learn [how to make calls to external services](/en/docs/tutorials/call-webhook-making-requests-to-external-services).
-

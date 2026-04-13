@@ -1,5 +1,5 @@
 ---
-title: 'First steps - register and login'
+title: "First steps - register and login"
 id: 2h3YeiQG0EY9hMi6txHtnT
 status: PUBLISHED
 createdAt: 2025-10-16T18:24:49.333Z
@@ -15,14 +15,14 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-**Weni Platform** provides an intuitive experience for creating intelligent chatbots. With it, you can design the entire interaction the bot will have with its users, as well as define the channels through which it will communicate.
+**VTEX CX Platform** provides an intuitive experience for creating intelligent chatbots. With it, you can design the entire interaction the bot will have with its users, as well as define the channels through which it will communicate.
 
 In your first visit to the platform, you will see a screen like this
 
 On it, we will have a login button, and a field for free registration.
 
 1. If you already have an account, simply enter your email, your password, and click the "login" button. If you've forgotten your password, just click "forgot password?" and an email will be sent to you to reset your password.
-2. If you've never registered on the Weni Platform, click the "Sign up for free" button, and you will be redirected to the following page:
+2. If you've never registered on the VTEX CX Platform, click the "Sign up for free" button, and you will be redirected to the following page:
 
 - Put your e-mail
 - Create a password
@@ -53,4 +53,4 @@ Templates are pre-built flows with specific purposes, divided into three categor
 
 Click "Finish" to proceed.
 
-Click "Start" and explore all the features available on the Weni Platform. Make the most of it!
+Click "Start" and explore all the features available on the VTEX CX Platform. Make the most of it!

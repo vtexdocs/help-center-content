@@ -45,7 +45,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 5. Select **Copy to clipboard** in the **Value** column and save the **client secret ID** for future reference.
 
-6. You need to search for one more piece of data that you will need for the creation of the channel on the Weni Platform, to do this, go back to **Home** and select your bot. Go to Overview on the left menu, then select **JSON View.** A json will open with some information about your application, look for **tenant id** and save the value.
+6. You need to search for one more piece of data that you will need for the creation of the channel on the VTEX CX Platform, to do this, go back to **Home** and select your bot. Go to Overview on the left menu, then select **JSON View.** A json will open with some information about your application, look for **tenant id** and save the value.
 
 ### To add Microsoft Teams channel
 
@@ -63,7 +63,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 2. Select **Save.**
 
-### Creating a channel on the Weni Platform
+### Creating a channel on the VTEX CX Platform
 
 1. After you login to the platform, choose your organization and project, go to **Settings.**
 2. Select Add **Channel.**

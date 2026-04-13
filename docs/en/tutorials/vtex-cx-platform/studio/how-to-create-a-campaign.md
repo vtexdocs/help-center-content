@@ -21,15 +21,15 @@ The messages are sent following a pre-defined schedule, respecting a determined 
 
 ## Instructions
 
-- Go to the ""Campaigns"" option in the ""Studio"" module on the side menu
+- Go to the "Campaigns" option in the "Studio" module on the side menu
 
-- Click on ""Create Campaign"" to start building your campaign
+- Click on "Create Campaign" to start building your campaign
 
 - Give a name for your campaign, choose a group to which the messages will be sent, and a new window will open.
 
 Each campaign can only operate with one group. Therefore, a new campaign is required for each group you wish to interact with.
 
-- Now, set the event rules by clicking the ""Add Event"" button, and a new window will appear
+- Now, set the event rules by clicking the "Add Event" button, and a new window will appear
 
 1. You can choose to send a message or select a flow.
 
@@ -45,4 +45,4 @@ Each campaign can only operate with one group. Therefore, a new campaign is requ
 
 - The time the event will start.
 
-5. In ""Delivered"": This can be used for schedules over 24 hours. Here, you can specify whether people receive the message at the exact time of the event or if you want to standardize all messages to be sent together at a specific time of day.
+5. In "Delivered": This can be used for schedules over 24 hours. Here, you can specify whether people receive the message at the exact time of the event or if you want to standardize all messages to be sent together at a specific time of day.

@@ -1,5 +1,5 @@
 ---
-title: 'Adding a Viber channel (RapidPro)'
+title: "Adding a Viber channel (RapidPro)"
 id: 3mEbPicH5tFMiZ6jVlPIlh
 status: PUBLISHED
 createdAt: 2025-09-15T14:41:38.441Z
@@ -54,4 +54,3 @@ The Viber channel was created, but to have it published and available for all yo
 After that, click on the **menu icon** and then in the **Edit** option.
 
 Once you click on Edit, a new window will appear for you to add an **Alert email** and **Welcome Message**. Save the changes after that.
-

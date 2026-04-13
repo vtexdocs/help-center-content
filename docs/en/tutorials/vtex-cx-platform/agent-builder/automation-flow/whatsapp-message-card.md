@@ -31,7 +31,7 @@ Choosing an interactive message provides an enhanced experience, allowing option
 2. If you select the text option for the header, simply write in the field next to it (header text).
 3. If you select the media option for the header, use your media by uploading it from your device or pasting the URL. **Your media can be an image, video, PDF file, or audio.**
 
-1. Fill in the fields with **predefined messages** to speed up responses and provide a smoother, more efficient experience for users. At this stage, you can also **add a footer message**.
+4. Fill in the fields with **predefined messages** to speed up responses and provide a smoother, more efficient experience for users. At this stage, you can also **add a footer message**.
 
 Each quick reply field has a **limit of 20 characters** , and you can include up to 3 text options, according to the rules set by Meta. Additionally, the quick reply options must be different from each other.
 
@@ -53,7 +53,7 @@ The difference between Quick Replies and the Option List is that the latter offe
 
 ## Request location
 
-Still under **Interactions** , it's possible to request the user's location quickly and easily. Simply select the ""**Request Location** "" option and fill in the text field (message).
+Still under **Interactions** , it's possible to request the user's location quickly and easily. Select the "**Request Location**" option and fill in the text field (message).
 
 Here’s an example of how the message will be displayed on WhatsApp:
 

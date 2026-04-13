@@ -131,7 +131,7 @@ The first and most used decision card. Routes are decided from the text entered 
 Card widely used to handle answers to questions asked to the user
 
 Advanced
-If you are using this card to collect mandatory information in the flow, be cautious when selecting the option ""continue when no response."" If the ""No response"" option is not connected to another card, the flow will end when the waiting time expires. If you want to remind the contact to respond, you can create a loop, which will prevent the contact from moving to the next card without providing an answer.
+If you are using this card to collect mandatory information in the flow, be cautious when selecting the option "continue when no response." If the "No response" option is not connected to another card, the flow will end when the waiting time expires. If you want to remind the contact to respond, you can create a loop, which will prevent the contact from moving to the next card without providing an answer.
 
 ## Split by custom expression
 

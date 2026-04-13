@@ -17,9 +17,9 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 In the contacts tab, there is a search bar. This search bar can be used to find and filter contacts that obey the rules defined in the bar. Normally, we use contact fields and some operators to make the search expression, that is:
 
-If my group has the contact field ""Age"" and the contact field ""Gender"" and I want to know how many male contacts are over 18 years old, I can use the following expression in the search:
+If my group has the contact field "Age" and the contact field "Gender" and I want to know how many male contacts are over 18 years old, I can use the following expression in the search:
 
-**Age > 18 AND (sexo = ""M"" OR sexo = ""Male"")**
+**Age > 18 AND (sexo = "M" OR sexo = "Male")**
 
 Below are some of the operators that we can use in these searches:
 

@@ -1,5 +1,5 @@
 ---
-title: 'Live Desk - Overview'
+title: "Live Desk - Overview"
 id: 6RF9ConAaTeLWQQ4dvoyb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:29:16.322Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-Chats is the official human support module of the Weni Platform. It was developed based on the needs and pain points of our clients, is natively available in all projects on the Weni Platform, and provides a self\-service experience.
+Chats is the official human support module of the VTEX CX Platform. It was developed based on the needs and pain points of our clients, is natively available in all projects on the VTEX CX Platform, and provides a self-service experience.
 
 In the following sections, you’ll learn more about the concepts and functions of this module.
 
@@ -24,16 +24,16 @@ In the following sections, you’ll learn more about the concepts and functions 
 User permissions represent roles assigned to each user within the project. In the Chats module, they indicate the following roles:
 
 - **Agent**
-The user who utilizes the Chats module to handle support interactions. They have minimal system permissions and can only view the Chats module and the Dashboard with their individual metrics. Interactions routed to the agent are determined by the department and queue to which they belong.
+  The user who utilizes the Chats module to handle support interactions. They have minimal system permissions and can only view the Chats module and the Dashboard with their individual metrics. Interactions routed to the agent are determined by the department and queue to which they belong.
 - **Support Manager**
-This user manages the support groups in Weni Chats, with system permissions to view settings related to the department they manage. They can view contacts in the queues and handle interactions. On the Dashboard, they can view metrics for the department they oversee.
+  This user manages the support groups in VTEX CX Platform Chats, with system permissions to view settings related to the department they manage. They can view contacts in the queues and handle interactions. On the Dashboard, they can view metrics for the department they oversee.
 - **Administrator**
-This user has all permission levels, can create departments, and delegate support managers to departments. They have an overview of the entire operation on the Dashboard.
+  This user has all permission levels, can create departments, and delegate support managers to departments. They have an overview of the entire operation on the Dashboard.
 
 #### Features
 
 - **Contact Information**
-By clicking on the contact’s photo or name in any area of the conversation, you can access the **contact information sidebar**. This sidebar displays the contact’s profile photo in a larger size, data such as the communication channel the contact is using, the time of the last interaction, the option to transfer the chat, and the contact’s media gallery.
+  By clicking on the contact’s photo or name in any area of the conversation, you can access the **contact information sidebar**. This sidebar displays the contact’s profile photo in a larger size, data such as the communication channel the contact is using, the time of the last interaction, the option to transfer the chat, and the contact’s media gallery.
 
 #### Quick Messages
 
@@ -69,7 +69,7 @@ You can drag files into the text box, and **Ctrl \+ V** is enabled to paste imag
 
 #### Emojis
 
-Emojis can make communication more engaging, as they help convey tone and intent. Weni Chats offers a full emoji panel. See the image below:
+Emojis can make communication more engaging, as they help convey tone and intent. VTEX CX Platform Chats offers a full emoji panel. See the image below:
 
 #### Text Break
 
@@ -93,7 +93,7 @@ When viewing the contact’s history, the agent can see the start of the interac
 
 #### Active Signature
 
-You can enable an active signature so that each message exchanged includes the name of the agent responding. To activate this function, go to **Settings \> Chats**. Then, select the department you want to configure. Once inside the department, go to **Additional Options** and select **Active Signature**. See the image below:
+You can enable an active signature so that each message exchanged includes the name of the agent responding. To activate this function, go to **Settings > Chats**. Then, select the department you want to configure. Once inside the department, go to **Additional Options** and select **Active Signature**. See the image below:
 
 After enabling this option, the agent's name will appear in the message bubble followed by a colon, as shown in the image below:
 
@@ -113,4 +113,4 @@ In addition to having a dashboard available, you can also download it in Excel f
 
 If needed, the agent can edit the customer's contact fields, which is especially useful for correcting incorrect data or updating information. To enable this editing function, go to **Settings** and select **Departments**. Open the department and activate the **Custom Fields Editing** function, as shown in the image below.
 
-To make this edit, simply click on the contact's name. A right\-side panel will display the contact information, and then click on the data field to enter the updated information.
+To make this edit, simply click on the contact's name. A right-side panel will display the contact information, and then click on the data field to enter the updated information.

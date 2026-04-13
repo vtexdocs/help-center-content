@@ -19,9 +19,9 @@ You can add your a Viber's public account as a channel on the platform.
 
 ## Starting the process
 
-To create the channel, click on **""Apps > Discoveries""** within your project:
+To create the channel, click on **"Apps > Discoveries"** within your project:
 
-Then, click the ""Add"" button, and a confirmation window will open.
+Then, click the "Add" button, and a confirmation window will open.
 
 You can find the application under **My Apps**. By clicking on the indicated location in the image > **Configure**, a new window will open.
 
@@ -41,7 +41,7 @@ On the left panel, select *Create Bot Account*
 
 Fill all requirements presented and hit Create at the end of the page.
 
-It will take a few seconds to process and a new window will pop\-up with the token needed.
+It will take a few seconds to process and a new window will pop-up with the token needed.
 
 ### Finish channel's setting
 

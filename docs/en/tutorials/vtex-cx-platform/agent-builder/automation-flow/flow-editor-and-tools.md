@@ -59,7 +59,7 @@ In addition, we have a number of options in the settings menu, which we can easi
 1. **Results:** Option to analyze and export flow results, based on contact usage. A way to verify which contacts have passed through the flow.
 2. **Copy UUID:** Option that allows you to obtain the flow's identifier. Each flow has a specific UUID.
 3. **Edit:** Option to edit the initial settings of the flow, such as the name, triggers, and expiration of the flow (how long it will wait for a response).
-4. **Copy:** Option that creates an exact copy of the flow. This copied flow will appear in your flow list following the naming pattern ""Copy - Name of the copied flow.""
+4. **Copy:** Option that creates an exact copy of the flow. This copied flow will appear in your flow list following the naming pattern "Copy - Name of the copied flow."
 5. **Delete:** Option to delete the selected flow. Be careful, as this operation cannot be undone.
 6. **Export Definition:** Option that redirects you to the flow export page. For more information, visit the article on [flow export and import](/en/docs/tutorials/import-and-export-flows).
 7. **Export Translation:** Option that allows you to export the language translation from the platform.
@@ -69,7 +69,7 @@ In addition, we have a number of options in the settings menu, which we can easi
 
 In this part of the Flow Editor, you will find some tools to make your work easier. Just click and use them.
 
-1. **Select and Drag:** These functions help select cards (arrow-shaped button) and navigate through the flow (hand-shaped button). You can also use the ""v"" key to switch between these functions more easily.
+1. **Select and Drag:** These functions help select cards (arrow-shaped button) and navigate through the flow (hand-shaped button). You can also use the "v" key to switch between these functions more easily.
 2. **Create Block:** Use this button to create any card for your flow.
 3. **Copy:** Select one or more cards and click this button to copy them. Use the Ctrl + V keys to paste. This function allows you to paste copied cards into another flow. You can also copy using the Ctrl + C keys.
 4. **Search:** Search for elements within cards, such as the card name, message text, or result name. This function can be activated with the Ctrl + F keys.

@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-As a community, Weni is built by its users and collaborators! Therefore, the Profile section allows you to manage your account and view all your intelligences.
+As a community, VTEX CX Platform is built by its users and collaborators! Therefore, the Profile section allows you to manage your account and view all your intelligences.
 
-Below, you will learn how to manage your account on Weni.
+Below, you will learn how to manage your account on VTEX CX Platform.
 
 ## Edit profile
 
@@ -27,7 +27,7 @@ By clicking the icon on the left, select **Profile**. In this section, you can e
 
 ## Tap password
 
-To change your Weni account password, follow the steps below:
+To change your VTEX CX Platform account password, follow the steps below:
 
 1. Go to the Profile page
 2. Click New password
