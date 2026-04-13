@@ -153,7 +153,7 @@ Using this card does not replace the use of templates (pre-approved messages by 
 
 ### Open a ticket with a human agent
 
-This card is used to open support tickets for human assistance. To direct the inquiries to the Chats module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](/en/docs/tutorials/weni-chats-setting-up-human-attendance).
+This card is used to open support tickets for human assistance. To direct the inquiries to the Live Desk module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](/en/docs/tutorials/manage-live-desk).
 
 ### Call a webhook
 

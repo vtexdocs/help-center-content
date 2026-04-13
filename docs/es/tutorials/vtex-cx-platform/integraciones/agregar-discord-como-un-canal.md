@@ -17,23 +17,25 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Tus usuarios necesitarán una cuenta de Discord y un dispositivo compatible para enviar/recibir mensajes. Este tipo de canal solo está disponible si tu instancia ha sido configurada con la aplicación [proxy](https://github.com/releaseplatform/RapidPro-Discord-Proxy) de Discord.
 
-La infraestructura necesaria para el proxy no es proporcionada por Weni.#### Registra tu aplicación siguiendo las instrucciones oficiales
+La infraestructura necesaria para el proxy no es proporcionada por VTEX CX Platform.
+
+## Registra tu aplicación siguiendo las instrucciones oficiales
 
 Discord tiene documentación oficial sobre cómo registrar tu bot.
 
-[https://discord.com/developers/docs/getting\-started](https://discord.com/developers/docs/getting-started)
+[https://discord.com/developers/docs/getting-started](https://discord.com/developers/docs/getting-started)
 
-- Accede al panel de desarrolladores y haz clic en ""New Application"" y crea tu aplicación:
+- Accede al panel de desarrolladores y haz clic en "New Application" y crea tu aplicación:
 
 <https://discord.com/developers/applications>
 
-1. Ve a la pestaña ""Bot"" y haz clic en ""Add Bot"". Tendrás que confirmar haciendo clic en ""Yes, do it!""
-2. Mantén las configuraciones predeterminadas para ""Bot público"" (marcado) y ""Requerir concesión de código OAuth2"" (desmarcado).
+1. Ve a la pestaña "Bot" y haz clic en "Add Bot". Tendrás que confirmar haciendo clic en "Yes, do it!"
+2. Mantén las configuraciones predeterminadas para "Bot público" (marcado) y "Requerir concesión de código OAuth2" (desmarcado).
 3. El siguiente paso es copiar el token.
-4. Haz clic en ""Redefinir Token"" y obtén tu token.
+4. Haz clic en "Redefinir Token" y obtén tu token.
 
-## Agrega el canal a la plataforma de Weni.
+## Agrega el canal a la plataforma de VTEX CX Platform.
 
-1. Dentro del proyecto, ve a: Aplicaciones \-> Descubrimiento \-> Agregar Discord.
-2. Después de agregarlo a ""Mis Aplicaciones"", inserta tu discord_bot_token proporcionado por la página de Desarrolladores de Discord y la URL del Proxy, que es la URL donde el proxy de Discord está ejecutándose.
+1. Dentro del proyecto, ve a: Aplicaciones > Descubrimiento > Agregar Discord.
+2. Después de agregarlo a "Mis Aplicaciones", inserta tu discord_bot_token proporcionado por la página de Desarrolladores de Discord y la URL del Proxy, que es la URL donde el proxy de Discord está ejecutándose.
 3. Guarda los cambios.

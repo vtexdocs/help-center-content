@@ -104,7 +104,7 @@ Para completar los campos del contacto, solo necesitas utilizar la opción **Act
 
 ## Envía un correo electrónico
 
-Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la Plataforma Weni, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para más información, visita el artículo de [configuración de la organización/es/docs/tutorials/configuraciones-generales-de-proyecto).
+Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la VTEX CX Platform, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para más información, visita el artículo de [configuración de la organización](/es/docs/tutorials/configuraciones-generales-de-proyecto).
 
 Para enviar el correo electrónico, solo necesitas ingresar el destinatario, el asunto y el cuerpo del mensaje en los campos correspondientes.
 
@@ -152,7 +152,7 @@ El uso de esta carta no reemplaza el uso de plantillas (mensajes preaprobados po
 
 ## Abrir un ticket con un agente humano
 
-Esta carta se utiliza para abrir tickets de atención humana. Para que las atenciones se dirijan al módulo de Chats, es necesario seleccionar el sector (1) y la fila (2). Obtenga más información sobre cómo configurar la [atención humana en el módulo de Chats](https://help.vtex.com/es/docs/tutorials/weni-chats-configurando-el-atencion-humana).
+Esta carta se utiliza para abrir tickets de atención humana. Para que las atenciones se dirijan al módulo de Live Desk, es necesario seleccionar el sector (1) y la fila (2). Obtenga más información sobre cómo configurar la [atención humana en el módulo de Live Desk](https://help.vtex.com/es/docs/tutorials/weni-chats-configurando-el-atencion-humana).
 
 ## Llamar un webhook
 

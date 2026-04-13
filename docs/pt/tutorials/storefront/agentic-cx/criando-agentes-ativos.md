@@ -183,7 +183,7 @@ class PaymentApproved(Rule):
 
 ## Uso de Templates (HSM)
 
-Os templates de mensagem (HSM) cadastrados no WhatsApp Business podem conter marcadores como `{{1}}`, `{{2}}`, etc. Quando `execute` retorna `True`, a Weni CLI chama `get_template_variables` para preencher essas variáveis. Por exemplo, considerando um template `Olá {{1}}, seu pedido {{2}} está em fase de {{3}}`, a função deve retornar:
+Os templates de mensagem (HSM) cadastrados no WhatsApp Business podem conter marcadores como `{{1}}`, `{{2}}`, etc. Quando `execute` retorna `True`, a VTEX CX Platform (Weni) CLI chama `get_template_variables` para preencher essas variáveis. Por exemplo, considerando um template `Olá {{1}}, seu pedido {{2}} está em fase de {{3}}`, a função deve retornar:
 
 ```json
 {"1": "Leonardo", "2": "12345", "3": "Entrega"}

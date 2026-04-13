@@ -149,7 +149,7 @@ A utilização deste card não substitui o uso de templates (mensagens pré-apro
 
 ## Abrir um ticket com um agente humano
 
-Este card é utilizado para abrir tickets de atendimento humano. Para que os atendimentos sejam direcionados ao módulo Chats, é necessário selecionar o setor (1) e a fila (2). Saiba mais sobre como configurar o [atendimento humano no módulo Chats](https://help.vtex.com/pt/docs/tutorials/weni-chats-dashboard-de-atendimento-humano).
+Este card é utilizado para abrir tickets de atendimento humano. Para que os atendimentos sejam direcionados ao Live Desk, é necessário selecionar o setor (1) e a fila (2). Saiba mais sobre como configurar o [atendimento humano no módulo Live Desk](https://help.vtex.com/pt/docs/tutorials/dashboard-do-live-desk).
 
 ## Chamar um webhook
 

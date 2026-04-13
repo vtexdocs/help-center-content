@@ -23,7 +23,7 @@ Las dos variables pueden llevar al mismo campo de contacto.
 
 ## ¿Cómo crear un campo?
 
-Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo **""Estudio""** en el menú lateral izquierdo. Luego, haz clic en **""Contactos""** y en **""Manejar Campos""**.
+Para acceder a esta información, ingresa a tu proyecto y haz clic en el módulo **"Estudio"** en el menú lateral izquierdo. Luego, haz clic en **"Contactos"** y en **"Manejar Campos"**.
 
 Serás dirigido a la página de gestión de campos de contacto, donde encontrarás: todos los campos existentes dentro de tu proyecto, su forma de escritura como variable, el tipo de valor que acepta y cuántas veces ha sido utilizado. Para crear un nuevo campo, simplemente haz clic en **Crear campo**.
 

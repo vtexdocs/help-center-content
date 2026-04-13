@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-La plataforma Weni tiene varios canales SMS que pueden configurarse para recibir y enviar mensajes y, de acuerdo con la aplicación elegida, tendrán diferentes configuraciones a realizar. Para activar un canal, ve al módulo **Aplicaciones> Otras Aplicaciones > Agregar Canal**
+La VTEX CX Platform tiene varios canales SMS que pueden configurarse para recibir y enviar mensajes y, de acuerdo con la aplicación elegida, tendrán diferentes configuraciones a realizar. Para activar un canal, ve al módulo **Aplicaciones> Otras Aplicaciones > Agregar Canal**
 
 Se abrirá una nueva ventana. Navega hasta Canales de SMS y Voz.
 

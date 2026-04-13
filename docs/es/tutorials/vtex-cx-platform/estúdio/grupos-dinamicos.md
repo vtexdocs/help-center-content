@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 En la pestaña de contactos, existe una barra de búsqueda. Esta barra puede utilizarse para encontrar y filtrar contactos que cumplan con las reglas definidas en dicha barra. Normalmente, usamos campos de contacto y algunos operadores para crear la expresión de búsqueda, es decir:
 
-Si en mi grupo existe el campo de contacto ""Edad"" y el campo de contacto ""Sexo"", y quiero saber cuántos contactos del sexo masculino son mayores de 18 años, puedo utilizar la siguiente expresión en la búsqueda:
+Si en mi grupo existe el campo de contacto "Edad" y el campo de contacto "Sexo", y quiero saber cuántos contactos del sexo masculino son mayores de 18 años, puedo utilizar la siguiente expresión en la búsqueda:
 
 `edad > 18 AND (género = ""M"" OR género = ""Masculino"")`
 

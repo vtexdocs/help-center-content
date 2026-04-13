@@ -15,16 +15,16 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Al integrar el canal, puedes personalizar aspectos del Web Chat como: color, tiempo de separación entre mensajes, indicadores de mensaje, avatar y mucho más. De esta manera, aseguras que todo lo que ofrece la Plataforma Weni tenga el estilo de tu marca. A continuación, te mostraremos el paso a paso para realizar la integración.
+Al integrar el canal, puedes personalizar aspectos del Web Chat como: color, tiempo de separación entre mensajes, indicadores de mensaje, avatar y mucho más. De esta manera, aseguras que todo lo que ofrece la VTEX CX Platform tenga el estilo de tu marca. A continuación, te mostraremos el paso a paso para realizar la integración.
 
 ## Creando un canal web
 
 1. Para integrar tu chatbot a un canal web, primero debes ingresar a la organización donde se encuentra el proyecto, para que así podamos integrar el canal.
 2. Localiza el proyecto que deseas integrar.
 3. En la barra lateral, haz clic en **Aplicaciones**.
-4. Al hacer clic en **Aplicaciones > Descubrimiento**, selecciona la opción **Weni Web Chat**.
-5. Haz clic en el botón **Acceder a mis aplicaciones** y luego haz clic nuevamente en la tarjeta de **Weni Web Chat** para acceder a las configuraciones de personalización.
-6. Al abrir el panel de personalización de Weni Web Chat, tendrás las siguientes opciones para configurar:
+4. Al hacer clic en **Aplicaciones > Descubrimiento**, selecciona la opción **VTEX CX Platform Web Chat**.
+5. Haz clic en el botón **Acceder a mis aplicaciones** y luego haz clic nuevamente en la tarjeta de **VTEX CX Platform Web Chat** para acceder a las configuraciones de personalización.
+6. Al abrir el panel de personalización de VTEX CX Platform Web Chat, tendrás las siguientes opciones para configurar:
 
 - Título de tu chat;
 - Subtítulo del chat (opcional);
@@ -36,4 +36,4 @@ Al integrar el canal, puedes personalizar aspectos del Web Chat como: color, tie
 - Tiempo entre los mensajes.
 
 7. En la pestaña de apariencias, tienes la opción de personalizar el chat a través de formato CSS. Además, puedes importar una imagen en formato PNG, JPG o JPEG para usarla como avatar y también cambiar el color de tu chat.
-8. Al finalizar la personalización, para instalar Weni Web Chat en tu sitio web, copia este código, que aparecerá al hacer clic en ""código script"", y pégalo justo antes de la última etiqueta `</body>` en tu sitio web.
+8. Al finalizar la personalización, para instalar VTEX CX Platform Web Chat en tu sitio web, copia este código, que aparecerá al hacer clic en "código script", y pégalo justo antes de la última etiqueta `</body>` en tu sitio web.

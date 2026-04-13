@@ -45,7 +45,7 @@ Aquí podrá definir el correo electrónico de su organización. Todos los corre
 5. En Contraseña, escriba la contraseña de su correo electrónico;
 6. Guardar.
 
-Si no desea configurar, puede dejar los campos en blanco para enviar correos electrónicos a través del HOST predeterminado de Weni.
+Si no desea configurar, puede dejar los campos en blanco para enviar correos electrónicos a través del HOST predeterminado de VTEX CX Platform.
 
 ## 5 - DT1
 
@@ -53,7 +53,7 @@ DT1 es una plataforma que realiza transferencias digitales B2B para recargas de 
 
 ## 6 - Token de acceso de la organización
 
-Aquí podrá verificar el token de su API. El token es la clave de acceso para que aplicaciones externas puedan interactuar con la API de la Plataforma Weni.
+Aquí podrá verificar el token de su API. El token es la clave de acceso para que aplicaciones externas puedan interactuar con la API de la VTEX CX Platform.
 
 ## 7 - Prometheus
 

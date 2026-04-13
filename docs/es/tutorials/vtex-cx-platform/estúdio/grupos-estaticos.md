@@ -23,7 +23,7 @@ El grupo estático es el tipo de grupo donde los contactos deben ser añadidos y
 
 Puedes encontrar la descripción de las cartas de flujo para grupos haciendo clic en [cartas de acciones](https://help.vtex.com/es/docs/tutorials/cartas-de-accion) y [decisiones](https://help.vtex.com/es/docs/tutorials/cartas-de-decision).
 
-Para crear un grupo estático, simplemente navega hasta la página de contactos, dentro del módulo ""Estudio"", y haz clic en el botón Crear Grupo en el menú lateral.
+Para crear un grupo estático, simplemente navega hasta la página de contactos, dentro del módulo "Estudio", y haz clic en el botón Crear Grupo en el menú lateral.
 
 Después de eso, solo debes elegir el nombre de tu grupo y crearlo en el pop-up que aparecerá.
 

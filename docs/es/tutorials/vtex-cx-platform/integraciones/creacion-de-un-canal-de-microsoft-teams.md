@@ -27,7 +27,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 8. Selecciona tu grupo de recursos o crea uno nuevo.
 9. Si deseas crear un grupo de recursos, selecciona Crear Nuevo, ingresa el nombre del recurso, selecciona Aceptar y elige la ubicación requerida en la lista desplegable de Ubicación del Nuevo Grupo de Recursos.
 
-Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, selecciona Revisar \+ Crear.
+Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, selecciona Revisar + Crear.
 
 10. Selecciona Crear si la validación es aprobada. Tomará unos momentos para que tu servicio de bot sea aprovisionado.
 11. Selecciona Ir al recurso. ¡Ahora tu aplicación está creada!
@@ -39,7 +39,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 3. En la sección Secretos de Cliente, selecciona Nuevo Secreto de Cliente. Aparecerá la ventana Agregar un Secreto de Cliente.
 4. Ingresa una Descripción y un período para la expiración del secreto, luego selecciona Agregar.
 5. Selecciona Copiar al portapapeles en la columna de Valor y guarda el ID del secreto de cliente para referencia futura.
-6. Necesitas buscar un dato más que necesitarás para la creación del canal en la plataforma de Weni. Para hacerlo, regresa a Inicio y selecciona tu bot. Ve a Información general en el menú de la izquierda y luego selecciona Vista JSON. Se abrirá un JSON con información sobre tu aplicación; busca el tenant id y guarda el valor.
+6. Necesitas buscar un dato más que necesitarás para la creación del canal en la plataforma de VTEX CX Platform. Para hacerlo, regresa a Inicio y selecciona tu bot. Ve a Información general en el menú de la izquierda y luego selecciona Vista JSON. Se abrirá un JSON con información sobre tu aplicación; busca el tenant id y guarda el valor.
 
 ### Para agregar el canal de Microsoft Teams
 
@@ -56,7 +56,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 1. Selecciona la casilla para aceptar los términos de servicio y selecciona Aceptar.
 2. Selecciona Guardar.
 
-### Creación de un canal en la plataforma de Weni
+### Creación de un canal en la plataforma de VTEX CX Platform
 
 1. Después de iniciar sesión en la plataforma, elige tu organización y proyecto, y ve a Configuración.
 2. Selecciona Agregar Canal.
@@ -87,7 +87,7 @@ Ejemplo: [https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive]
 3. Selecciona Crear una nueva aplicación.
 4. En Detalles de la Aplicación, ingresa todos los datos que ya tienes, como el nombre.
 5. En Identificación, ingresa el ID de la Aplicación; en Nombre del Paquete, ingresa un nombre que haga referencia a tu aplicación, por ejemplo: com.microsoft.teams.devapp
-6. Para la versión, usa algo como v1\.0\.0
+6. Para la versión, usa algo como v1.0.0
 7. En Descripción, ingresa una descripción de tu aplicación, indicando lo que hace y para quién lo hace.
 8. En Información del Desarrollador, ingresa los datos de tu empresa, como el nombre y el sitio web.
 9. En URLs de la Aplicación, ingresa la URL de los términos de privacidad de tu empresa y en términos de uso ingresa la URL de tus términos.

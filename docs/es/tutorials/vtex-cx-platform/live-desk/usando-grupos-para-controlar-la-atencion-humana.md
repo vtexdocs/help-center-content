@@ -52,12 +52,9 @@ Este puede ser un flujo extremadamente simple, donde la única acción es elimin
 
 ## ¿Cómo enviar campos personalizados?
 
-Los campos personalizados que se deben enviar deben ser definidos en el cuerpo
-de la tarjeta de Ticket, en formato JSON, con cada campo como atributo de
-\`custom_fields\`, representado por su clave y valor.
+Los campos personalizados que se deben enviar deben ser definidos en el cuerpo de la tarjeta de Ticket, en formato JSON, con cada campo como atributo de `custom_fields`, representado por su clave y valor.
 
-Nota: el valor de cada campo puede o no estar entre """".
+Nota: el valor de cada campo puede o no estar entre ".
 
 A continuación, observe un ejemplo que muestra la configuración de campos
-personalizados, donde el campo \``origin`\` tiene su valor definido como el
-\``result`\` origen, entre """" por ser del tipo string.
+personalizados, donde el campo `origin` tiene su valor definido como el `result` origen, entre `"` por ser del tipo string.

@@ -35,7 +35,7 @@ No es seguro asumir que la descarga se completó solo basándose en los recibos 
 
 Si utilizas el proceso de carga de medios en lugar de un enlace a la URL del medio, el archivo deberá ser cargado en el volumen de medios. Una vez completada la carga, envía un mensaje utilizando el ID de medio.
 
-La aplicación procesa el medio cargado antes de enviarlo al servidor. El tamaño máximo de los medios que pueden cargarse en el nodo media es de 100 MB. Sin embargo, hay límites después del procesamiento para los distintos tipos de medios, como se describe en la tabla de ""Tamaño de medios después del procesamiento"" mencionada anteriormente.
+La aplicación procesa el medio cargado antes de enviarlo al servidor. El tamaño máximo de los medios que pueden cargarse en el nodo media es de 100 MB. Sin embargo, hay límites después del procesamiento para los distintos tipos de medios, como se describe en la tabla de "Tamaño de medios después del procesamiento" mencionada anteriormente.
 
 El almacenamiento de medios debe ser gestionado por la empresa. Si el volumen de medios alcanza el límite, el envío de mensajes comenzará a fallar.
 
@@ -84,6 +84,6 @@ En ambos casos, una respuesta exitosa devolverá el campo `id`, necesario para r
 
 Si recibes un mensaje de error, consulta la sección de [Mensajes de error y estado](https://developers.facebook.com/docs/whatsapp/on-premises/errors) para obtener más información.
 
-Puedes ver que los videos y audios tienen un tamaño máximo de 16 MB. Por ejemplo, si cargas un video de 20 MB en la Plataforma Weni, el video se guardará en la plataforma, pero en el momento de la ejecución, WhatsApp no podrá enviarlo. Para documentos, el límite máximo es de 100 MB, sin embargo, esto no funciona en la Plataforma Weni, ya que solo soporta hasta 32 MB.
+Puedes ver que los videos y audios tienen un tamaño máximo de 16 MB. Por ejemplo, si cargas un video de 20 MB en la VTEX CX Platform, el video se guardará en la plataforma, pero en el momento de la ejecución, WhatsApp no podrá enviarlo. Para documentos, el límite máximo es de 100 MB, sin embargo, esto no funciona en laVTEX CX Platformtaforma VTEX CX Platform, ya que solo soporta hasta 32 MB.
 
 Puedes ver más detalles sobre esta información en la página oficial de META: [página oficial de META](https://developers.facebook.com/docs/whatsapp/on-premises/reference/media)

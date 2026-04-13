@@ -10,26 +10,26 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: manage-live-desk
-legacySlug: weni-chats-setting-up-human-attendance
+legacySlug: manage-live-desk
 locale: en
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
-Like other modules on the Weni Platform, **Chats** is located within a project, so the user configuring it must be an administrator or moderator of that project.
+Like other modules on the VTEX CX Platform, **Live Desk** is located within a project, so the user configuring it must be an administrator or moderator of that project.
 
-For an agent to use Chats, they must be assigned to a **department** (a group for support). Each department includes at least one manager, one queue, and one agent.
+For an agent to use Live Desk, they must be assigned to a **department** (a group for support). Each department includes at least one manager, one queue, and one agent.
 
 The **support manager** can make changes to the department they manage, such as setting business hours, adding or removing agents, creating new queues, and adding or removing tags.
 
-All of this management is done within the project under **Settings > Chats**.
+All of this management is done within the project under **Settings > Live Desk**.
 
 ## Sector
 
 In the department, you can set the operating hours for human support, define the limit of simultaneous chats per agent, and add tags. These tags allow agents to classify chats by topic at the end of each interaction, making future searches and reporting easier.
 
-# How to Add a Support Department in Weni Chats
+# How to Add a Support Department in Live Desk
 
-To add a department in Weni Chats, you need to go to the **Settings module > Chats > New Department**.
+To add a department in Live Desk, you need to go to the **Settings module > Live Desk > New Department**.
 
 After that, fill in the information to create the department:
 
@@ -49,9 +49,9 @@ An example of using queues can be seen in a **Technical Support** department. Fo
 
 If the department doesn’t require subdivision, a single queue is sufficient.
 
-If an agent is assigned to more than one queue, whether in the same or different departments, Chats will route interactions to the agent in order of arrival.
+If an agent is assigned to more than one queue, whether in the same or different departments, Live Desk will route interactions to the agent in order of arrival.
 
-## How to Add Support Queues in Weni Chats
+## How to add support queues in Live Desk
 
 Every department requires at least one queue to be configured in order to function. So, you must set it up when creating the department. When creating your queue, provide a name for the queue and add one or more agents:
 
@@ -61,11 +61,11 @@ After configuring the department and queue, it's time to create your support tag
 
 Tags are used to classify the characteristics of a support interaction, allowing chats to be searched and filtered based on these tags. When closing a chat, the agent will use tags to categorize the conversation according to its topic and other relevant characteristics.
 
-## How to Add Users to the Weni Platform Organization
+## How to add users to the VTEX CX Platform organization
 
-To add or remove new users, such as agents, first add the user to the Weni platform. Enter your organization on the Weni platform and click on the "manage members" icon, where you can input the names and emails to be added or removed.
+To add or remove new users, such as agents, first add the user to the VTEX CX Platform. Enter your organization on the VTEX CX Platform and click on the "manage members" icon, where you can input the names and emails to be added or removed.
 
-Click the **manage members** button in the **Weni platform organization > Enter the email > Select the type of permission** and click **add** in the Weni platform organization.
+Click the **manage members** button in the **VTEX CX Platform organization > Enter the email > Select the type of permission** and click **add** in the VTEX CX Platform organization.
 
 ## Adding Agents to Your Project
 

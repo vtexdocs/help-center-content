@@ -1,5 +1,5 @@
 ---
-title: "Weni Chats: Dashboard de atención humana"
+title: "Live Desk: Dashboard"
 id: 2nQ88AZT72iPf2BQBzloDQ
 status: PUBLISHED
 createdAt: 2025-09-12T16:36:13.073Z
@@ -9,27 +9,19 @@ firstPublishedAt: 2025-10-03T14:20:03.324Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: vtex-agentic-cx-platform-live-desk-dashboard
+slugEN: vtex-cx-platform-live-desk-dashboard
 legacySlug: weni-chats-dashboard-de-atencion-humana
 locale: es
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-El **Dashboard** es la herramienta que muestra los datos relacionados con la
-atención humana, proporcionando métricas importantes cuyo objetivo es ofrecer un
-seguimiento de la calidad y eficiencia de las atenciones. Esta herramienta ayuda
-a los gestores en la mejora de la toma de decisiones y permite a los agentes
-visualizar sus métricas individuales.
+El **Dashboard** es la herramienta que muestra los datos relacionados con la atención humana, proporcionando métricas importantes cuyo objetivo es ofrecer un seguimiento de la calidad y eficiencia de las atenciones. Esta herramienta ayuda a los gestores en la mejora de la toma de decisiones y permite a los agentes visualizar sus métricas individuales.
 
-Para acceder, simplemente ve al módulo **Chats** de la plataforma Weni y dentro
-del menú de **Preferencias**, haz clic en el botón **Dashboard**. Por ahora,
-esta herramienta está disponible solo para gestores y administradores.
+Para acceder, simplemente ve al módulo **Live Desk** de la VTEX CX Platform y dentro del menú de **Preferencias**, haz clic en el botón **Dashboard**. Por ahora, esta herramienta está disponible solo para gestores y administradores.
 
 ## Pantalla principal
 
-Al acceder a **Dashboards**, se presentan los datos del proyecto. De esta
-manera, si existe más de un sector, las métricas representan los datos de todos
-los sectores incluidos en el proyecto.
+Al acceder a **Dashboards**, se presentan los datos del proyecto. De esta manera, si existe más de un sector, las métricas representan los datos de todos los sectores incluidos en el proyecto.
 
 ### Indicadores
 
@@ -42,20 +34,14 @@ Cuando la visualización es de **todos los sectores** del proyecto, se mostrará
 
 Al lado de los sectores listados, se encuentra la columna de **agentes en línea**, donde se muestran los agentes con estado en línea y la cantidad de chats activos de esos agentes.
 
-Es importante destacar que el número total de **chats activos** incluye tanto a
-los agentes que están en línea como a aquellos con estado offline.
+Es importante destacar que el número total de **chats activos** incluye tanto a los agentes que están en línea como a aquellos con estado offline.
 
-Si tu proyecto tiene solo un sector, el campo de **Sector** no estará
-disponible.
+Si tu proyecto tiene solo un sector, el campo de **Sector** no estará disponible.
 
 ### Filtros
 
-Por ahora, hay dos tipos de filtros disponibles. El primero es el **filtro de
-sector**, que permite seleccionar un sector específico y visualizar sus datos
-detallados.
+Por ahora, hay dos tipos de filtros disponibles. El primero es el **filtro de sector**, que permite seleccionar un sector específico y visualizar sus datos detallados.
 
 Al seleccionar un sector, los datos principales se mostrarán exclusivamente de acuerdo con ese sector. De esta forma, se listarán las colas contenidas en ese sector y los agentes en línea serán solo los que pertenecen a ese sector.
 
-La otra opción es **filtrar por tags**, lo que permite visualizar las métricas
-de los chats clasificados con esas etiquetas. Finalmente, para salir, solo debes
-hacer clic en el ícono ""X"" en la esquina superior derecha.
+La otra opción es **filtrar por tags**, lo que permite visualizar las métricas de los chats clasificados con esas etiquetas. Finalmente, para salir, solo debes hacer clic en el ícono "X" en la esquina superior derecha.

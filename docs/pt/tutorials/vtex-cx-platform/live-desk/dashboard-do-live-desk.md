@@ -9,13 +9,11 @@ firstPublishedAt: 2025-10-03T14:20:03.324Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: vtex-agentic-cx-platform-live-desk-dashboard
+slugEN: vtex-cx-platform-live-desk-dashboard
 legacySlug: weni-chats-dashboard-de-atendimento-humano
 locale: pt
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
-
-## Guia de uso do dashboard
 
 O Dashboard é a ferramenta que irá mostrar os dados relativos ao Live Desk, trazendo métricas importantes que tem como objetivo oferecer o acompanhamento de qualidade e eficiência dos atendimentos. Esta ferramenta permite auxiliar os gestores em melhorias da tomada de decisões e também aos agentes a visualizarem suas métricas individuais.
 

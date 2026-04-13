@@ -38,7 +38,7 @@ https://discord.com/developers/applications
 
 ### Add the channel to the VTEX CX Platform
 
-1. Within the project, go to: Applications -> Discovery -> Add Discord.
+1. Within the project, go to: Applications > Discovery > Add Discord.
 
 2. After adding it to "My Applications," insert your discord_bot_token provided by the Discord Developer page and the Proxy URL, which is the URL where the Discord proxy is running.
 

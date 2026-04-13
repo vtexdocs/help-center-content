@@ -51,4 +51,4 @@ Los miembros que sean añadidos recibirán un correo electrónico de invitación
 
 > Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).
 
-Después de crear su organización, proyecto y agregar a los miembros de su equipo, estará listo para aprovechar al máximo el potencial de la Plataforma Weni.
+Después de crear su organización, proyecto y agregar a los miembros de su equipo, estará listo para aprovechar al máximo el potencial de la VTEX CX Platform.
