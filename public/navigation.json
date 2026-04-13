@@ -38269,14 +38269,14 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Agentic CX Platform - Overview",
+                    "en": "VTEX CX Platform - Overview",
                     "es": "Cambiando el idioma de la plataforma",
-                    "pt": "VTEX Agentic CX Platform - Overview"
+                    "pt": "Visão geral VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "vtex-agentic-cx-platform-overview",
+                    "en": "vtex-cx-platform-overview",
                     "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": ""
+                    "pt": "visao-geral-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38292,37 +38292,6 @@
                     "en": "weni-permission-system",
                     "es": "sistema-de-permisos-weni",
                     "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Visão geral VTEX CX Platform",
-                "es": "Visão geral VTEX CX Platform",
-                "pt": "Visão geral VTEX CX Platform"
-              },
-              "slug": {
-                "en": "visao-geral-vtex-cx-platform",
-                "es": "visao-geral-vtex-cx-platform",
-                "pt": "visão-geral-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Visão geral VTEX CX Platform",
-                    "en": "Visão geral VTEX CX Platform",
-                    "es": "Visão geral VTEX CX Platform"
-                  },
-                  "slug": {
-                    "pt": "visao-geral-vtex-cx-platform",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
