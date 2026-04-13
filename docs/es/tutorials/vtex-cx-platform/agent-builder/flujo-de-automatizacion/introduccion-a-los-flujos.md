@@ -19,8 +19,6 @@ Un flujo es un conjunto de pasos organizados en formato de flujograma. Esos paso
 
 En los flujos, esos pasos pueden ser acciones o decisiones, que permiten la creación o desarrollar conversaciones a partir de eso. En este artículo, hablaremos un poco más sobre la anatomía y estructura de esos flujos.
 
-![Flow Anatomy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/introduccion-a-los-flujos_1.png)
-
 ## Anatomía de los flujos
 
 En la imagen de encima, tenemos un ejemplo de un flujo para una búsqueda simple. En el, podemos ver cartas cartas de decisión, cartas de acción y cartas de comentario que juntas forman la estructura para la siguiente conversación: manda una pregunta, que precisa ser respondida con sí o con no, y a partir de eso tendremos una respuesta para cada opción.
@@ -36,8 +34,6 @@ Las cartas de acción representan algunas operaciones/acciones que conseguimos h
 - Editar información de contacto;
 
 Osea, las cartas de acción disparan comandos que son ejecutados inmediatamente, siguiendo un orden de pila. El primero en el orden de las cartas, siempre ser á el primero a ser ejecutado.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/introduccion-a-los-flujos_2.png)
 
 ### Cartas de decisión
 
@@ -55,15 +51,11 @@ Esas decisiones son tomadas en cima de las reglas de decisión existentes en su 
 - Verificar la existencia de números específicos o reglas numéricas en una respuesta/valor;
 - Verificar la existencia de un formato específico (como datos, e-mails, teléfono) en una respuesta/valor;
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/introduccion-a-los-flujos_3.png)
-
 ### Cartas para comentario
 
 Las cartas para comentario permiten la creación de notas, semejantes a posts-its, en nuestros flujos. Pueden ser utilizadas como forma de comunicación entre usted y un colega que también esté trabajando en el mismo proyecto, sea para explicar sobre cómo una parte del flujo funciona, o para alertar de que tal vez sea mejor no alterar esa etapa.
 
 Para crear una carta de comentario, basta con clickear dos veces en un lugar vacío del flujo. Después de eso, usted consigue mover libremente sus notas y posicionarlas en el lugar que guste.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/introduccion-a-los-flujos_4.png)
 
 ## Y ahora?
 

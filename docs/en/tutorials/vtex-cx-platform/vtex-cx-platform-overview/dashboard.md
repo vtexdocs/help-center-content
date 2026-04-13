@@ -17,8 +17,6 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 After logging into your organization and project, you will have access to this screen:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/dashboard_1.png)
-
 Let's go through a quick explanation of each menu:
 
 1. Projects: Menu that displays your projects.
@@ -32,8 +30,6 @@ Let's go through a quick explanation of each menu:
 9. Settings Module: Change registration and payment details, add channels, and check your API token, language, and files.
 
 In addition to the main side menu, the home screen has other features.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/dashboard_2.png)
 
 1. **Learning Center**: Here you will find learning resources related to the Weni Platform.
 2. **News**: In this tab, you'll find updates about the Weni Platform and other activities within the entire organization, not just the project.

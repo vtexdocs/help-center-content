@@ -29,13 +29,7 @@ Con estas premisas cumplidas, ha llegado el momento de iniciar la integración.
 
 Dentro del proyecto en el que se realizará la integración, ve al módulo **Aplicaciones** y en la pestaña de **Descubrimiento** encontrarás la tarjeta de integración de **WhatsApp**, haz clic en el símbolo \+ para añadir la integración.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_1.png)
-
 Aparecerá una ventana para continuar y, a continuación, un popup solicitando que conectes tu cuenta de Facebook.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_2.png)
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_3.png)
 
 Introduce tus credenciales de conexión con Facebook para continuar con la integración, recordando que debes ser administrador del **Business Manager** de tu empresa en Meta/Facebook.
 
@@ -45,22 +39,12 @@ Ahora que has iniciado sesión en tu cuenta, simplemente continúa con los sigui
 
 Como se muestra en la imagen a continuación, tendrás que completar los campos con la información de tu cuenta según lo desees.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_4.png)
-
 Si no tienes una cuenta, podrás crearla durante este mismo proceso.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_5.png)
 
 Si ya tienes una cuenta, simplemente elige la que desees en los campos correspondientes.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_6.png)
-
 Completa la información del perfil. Si ya está completada, simplemente continúa.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_7.png)
-
 Elige cómo deseas recibir el código de verificación, que puede ser por SMS o llamada, dependiendo de si tu número puede recibir ambos tipos o solo uno de ellos.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-integracion-express-weni_8.png)
 
 Después de recibir el código, introdúcelo en el campo correspondiente, completa la integración y haz clic en **Conectar**.

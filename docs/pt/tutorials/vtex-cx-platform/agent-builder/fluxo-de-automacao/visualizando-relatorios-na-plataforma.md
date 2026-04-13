@@ -21,7 +21,7 @@ Para acessar os resultados de fluxo, siga os passos abaixo:
 
 1. Dentro do seu projeto, clique em **Fluxo de automação** (em **Agent Builder**).
 2. Clique no fluxo escolhido.
-4. Clique no botão de três listras no canto superior direito e selecione `Resultados`.
+3. Clique no botão de três listras no canto superior direito e selecione `Resultados`.
 
 A aba de **Resultados** fornece duas opções de relatórios:
 
