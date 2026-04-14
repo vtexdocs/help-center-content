@@ -52578,12 +52578,12 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos",
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
                 "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
-                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos",
+                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-productos-de-los-sinonimos",
                 "pt": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos"
               },
               "origin": "",

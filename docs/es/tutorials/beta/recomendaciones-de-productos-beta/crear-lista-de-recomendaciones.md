@@ -29,7 +29,7 @@ Para crear una lista de recomendaciones en el Admin VTEX sigue los pasos a conti
 
 2. Haz clic en el botón `+ Lista`.
 
-   ![crear-lista-de-recomendaciones-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/crear-lista-de-recomendaciones_1.gif)
+   ![crear-lista-de-recomendaciones-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/crear-lista-de-recomendaciones_1.gif)
 
 3. En el panel lateral, haz clic en la estrategia de tu lista de recomendaciones:
 
@@ -55,13 +55,13 @@ Para crear una lista de recomendaciones en el Admin VTEX sigue los pasos a conti
    - **Nombre:** nombre que deseas dar a la lista de recomendaciones. Este será el título de la lista mostrado en la tienda. Recomendamos que utilices el título que tendrá la lista en el storefront (por ejemplo: "Para ti").
    - **Tags (opcional):** etiquetas internas que agrupan las listas de recomendación para facilitar el análisis de métricas. Recomendamos que incluyas la página donde se utilizará la lista como tag (por ejemplo: Home). Escribe la tag deseada y presiona `Enter` o la tecla `,` (coma) para agregarla. Puedes agregar múltiples tags.
 
-   ![crear-lista-de-recomendaciones-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/crear-lista-de-recomendaciones_2.png)
+   ![crear-lista-de-recomendaciones-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/crear-lista-de-recomendaciones_2.png)
 
 5. Después de llenar toda la información, haz clic en el botón `Crear` para guardar la lista de recomendaciones.
 
    Se mostrará el mensaje de confirmación _Lista creada con éxito_. A partir de ese momento, la lista estará disponible para implementar en el storefront.
 
-   ![crear-lista-de-recomendaciones-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/crear-lista-de-recomendaciones_3.png)
+   ![crear-lista-de-recomendaciones-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/crear-lista-de-recomendaciones_3.png)
 
 ## Copiar ID de la lista
 
