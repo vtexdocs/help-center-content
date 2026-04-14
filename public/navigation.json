@@ -9364,7 +9364,7 @@
           "children": [
             {
               "name": {
-                "en": "Blocking customizations to troubleshoot front-end issues",
+                "en": "Blocking customizations to troubleshoot frontend issues in the store",
                 "es": "Cómo bloquear personalizaciones para investigar problemas en el front-end de la tienda",
                 "pt": "Como bloquear customizações para investigar problemas no front-end da loja"
               },
@@ -61693,7 +61693,7 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
                 "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
