@@ -17917,6 +17917,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Creating recommendation lists (Beta)",
+                    "es": "Creating recommendation lists (Beta)",
+                    "pt": "Creating recommendation lists (Beta)"
+                  },
+                  "slug": {
+                    "en": "creating-recommendation-lists",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Product Recommendations (Beta)",
                     "es": "Recomendaciones de productos (Beta)",
                     "pt": "Recomendações de produtos (Beta)"
@@ -18168,6 +18183,37 @@
                     "en": "operational-capacity-beta",
                     "es": "capacidad-operacional-beta",
                     "pt": "capacidade-operacional-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Recomendaciones de productos Beta",
+                "es": "Recomendaciones de productos Beta",
+                "pt": "Recomendações de produtos Beta"
+              },
+              "slug": {
+                "en": "recomendaciones-de-productos-beta",
+                "es": "recomendaciones-de-productos-beta-subcategoria",
+                "pt": "recomendações-de-produtos-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Crear lista de recomendaciones (beta)",
+                    "pt": "Criar lista de recomendações (Beta)",
+                    "en": "Crear lista de recomendaciones (beta)"
+                  },
+                  "slug": {
+                    "es": "crear-lista-de-recomendaciones",
+                    "pt": "criar-lista-de-recomendacoes",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
