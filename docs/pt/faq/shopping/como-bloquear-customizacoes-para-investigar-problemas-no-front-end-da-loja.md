@@ -14,7 +14,7 @@ locale: pt
 legacySlug: como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
+> ⚠️ Tutorial válido apenas para lojas [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado).
 
 Neste artigo, você vai aprender a identificar a origem de um problema front-end. O primeiro passo é bloquear as customizações de front-end. Com base na resposta do site, será possível entender se o problema está na informação fornecida nativamente pela VTEX ou na customização da sua página.
 

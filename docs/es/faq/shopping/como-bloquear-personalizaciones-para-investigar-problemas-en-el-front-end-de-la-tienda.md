@@ -14,7 +14,7 @@ locale: es
 legacySlug: como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda
 ---
 
-> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado).
+> ⚠️ Este tutorial solo es válido para tiendas [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado).
 
 En este artículo aprenderás a identificar el orbloquear-personalizaciones-para-identificar-problemas-en-el-frontendigen de un problema en el frontend. El primer paso es bloquear las personalizaciones de frontend. Con base en la respuesta del sitio web, será posible entender si el problema está en la información que VTEX provee de forma nativa o en la personalización de tu página.
 
@@ -41,7 +41,7 @@ Para configurar [Chrome DevTools](https://developer.chrome.com/docs/devtools/) s
 
 ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/request-conditions-02-es.png)
 
-6. Marca la opción **Habilitar el bloqueo y l limitación** y todas las casillas junto a cada recurso configurado. Esta será la configuración predeterminada, con todas las opciones activadas para el bloqueo.
+6. Marca la opción **Habilitar el bloqueo y la limitación** y todas las casillas junto a cada recurso configurado. Esta será la configuración predeterminada, con todas las opciones activadas para el bloqueo.
 7. Ahora, actualiza la página. Se mostrará sin los componentes personalizados.
 
 Comprueba si el comportamiento no deseado que observaste inicialmente solo se produce con la personalización activa. Si es así, ponte en contacto con el equipo responsable de tu frontend para que verifique lo que está ocurriendo.
