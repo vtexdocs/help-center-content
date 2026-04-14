@@ -5,7 +5,7 @@ updatedAt: 2026-03-17T13:01:10.919Z
 publishedAt: 2026-03-17T13:01:10.919Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-slugEN: creating-recommendations-list
+slugEN: creating-recommendations-lists
 locale: pt
 ---
 
