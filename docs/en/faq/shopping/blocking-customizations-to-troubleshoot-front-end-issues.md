@@ -14,7 +14,7 @@ locale: en
 legacySlug: blocking-customizations-to-troubleshoot-frontend-issues-in-the-store
 ---
 
-> ⚠️ This tutorial only applies to CMS Portal (Legacy) stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
 In this article, you'll learn how to check the source of a frontend issue. The first step is to block frontend customizations. Based on the site’s response, you'll be able to understand whether the issue originates from the information provided natively by VTEX or from a page customization.
 
