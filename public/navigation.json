@@ -43822,13 +43822,13 @@
             {
               "name": {
                 "en": "Broken carts when adding unavailable Assembly Option",
-                "es": "Carros rotos al añadir la opción de montaje no disponible",
-                "pt": "Carrinhos quebrados ao adicionar a opção de montagem indisponível"
+                "es": "Errores al añadir una opción de montaje no disponible",
+                "pt": "Erros no carrinho ao adicionar uma opção de montagem indisponível"
               },
               "slug": {
                 "en": "broken-carts-when-adding-unavailable-assembly-option",
-                "es": "carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible",
-                "pt": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel"
+                "es": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
+                "pt": "erros-no-carrinho-ao-adicionar-uma-opcao-de-montagem-indisponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -46349,6 +46349,21 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Race condition with GET OrderForm when user is authenticated and email is null",
+                "es": "Condición de carrera con GET OrderForm cuando el usuario está autenticado y el correo electrónico es nulo",
+                "pt": "Condição de corrida com GET OrderForm quando o usuário está autenticado e o e-mail é nulo"
+              },
+              "slug": {
+                "en": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+                "es": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+                "pt": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo"
               },
               "origin": "",
               "type": "markdown",
@@ -49838,6 +49853,21 @@
             },
             {
               "name": {
+                "en": "Shopee Freight value mismatch on seller logistics orders",
+                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
+                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+              },
+              "slug": {
+                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
+                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shopee The level of tier-variation not change",
                 "es": "Shopee El nivel de tier-variación no cambia",
                 "pt": "Shopee O nível de variação de nível não muda"
@@ -51200,6 +51230,21 @@
                 "en": "collection-searchtitle-doesnt-display-accents-when-accessed-through-mapproductclusternames",
                 "es": "el-titulo-de-busqueda-de-la-coleccion-no-muestra-los-acentos-cuando-se-accede-a-traves-de-mapproductclusternames",
                 "pt": "pesquisa-de-colecao-o-titulo-nao-exibe-acentos-quando-acessado-atraves-de-mapproductclusternames"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Collection title is not displayed when accessing through ?map=productClusterIds query in multilanguage accounts",
+                "es": "El título de la colección no se muestra al acceder a través de la consulta «?map=productClusterIds» en cuentas multilingües",
+                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues"
+              },
+              "slug": {
+                "en": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
+                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+                "pt": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues"
               },
               "origin": "",
               "type": "markdown",
@@ -61463,7 +61508,7 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
                 "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
@@ -65123,6 +65168,21 @@
                 "en": "comment-vtexcrm-field-is-not-showing-its-content",
                 "es": "el-campo-vtexcrm-no-muestra-su-contenido",
                 "pt": "comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CRM UI relationship field search fails when related field is Auto Increment",
+                "es": "La búsqueda en el campo de relación de la interfaz de usuario de CRM falla cuando el campo relacionado es de autoincremento",
+                "pt": "A pesquisa no campo de relação da interface do usuário do CRM falha quando o campo relacionado é de incremento automático"
+              },
+              "slug": {
+                "en": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+                "es": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+                "pt": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico"
               },
               "origin": "",
               "type": "markdown",
