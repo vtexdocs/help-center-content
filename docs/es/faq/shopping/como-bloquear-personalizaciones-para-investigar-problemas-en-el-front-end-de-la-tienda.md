@@ -16,7 +16,7 @@ legacySlug: como-bloquear-personalizaciones-para-investigar-problemas-en-el-fron
 
 > ⚠️ Este tutorial solo es válido para tiendas [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado).
 
-En este artículo aprenderás a identificar el orbloquear-personalizaciones-para-identificar-problemas-en-el-frontendigen de un problema en el frontend. El primer paso es bloquear las personalizaciones de frontend. Con base en la respuesta del sitio web, será posible entender si el problema está en la información que VTEX provee de forma nativa o en la personalización de tu página.
+En este artículo, aprenderás a identificar el origen de un problema en el frontend. El primer paso es bloquear las personalizaciones de frontend. Con base en la respuesta del sitio web, será posible entender si el problema está en la información que VTEX provee de forma nativa o en la personalización de tu página.
 
 Para hacer esto, te mostraremos cómo remover las personalizaciones utilizando una herramienta nativa de Chrome, **DevTools**.
 
