@@ -18247,12 +18247,12 @@
               "name": {
                 "en": "Recomendaciones de productos Beta",
                 "es": "Recomendaciones de productos Beta",
-                "pt": "Recomendações de produtos Beta"
+                "pt": "Recomendaciones de productos Beta"
               },
               "slug": {
                 "en": "recomendaciones-de-productos-beta",
                 "es": "recomendaciones-de-productos-beta-subcategoria",
-                "pt": "recomendações-de-produtos-beta-subcategoria"
+                "pt": "recomendaciones-de-productos-beta"
               },
               "origin": "",
               "type": "category",
@@ -18260,13 +18260,44 @@
                 {
                   "name": {
                     "es": "Crear lista de recomendaciones (beta)",
-                    "pt": "Criar lista de recomendações (Beta)",
-                    "en": "Crear lista de recomendaciones (beta)"
+                    "en": "Crear lista de recomendaciones (beta)",
+                    "pt": "Crear lista de recomendaciones (beta)"
                   },
                   "slug": {
                     "es": "crear-lista-de-recomendaciones",
+                    "en": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Recomendações de produtos Beta",
+                "es": "Recomendações de produtos Beta",
+                "pt": "Recomendações de produtos Beta"
+              },
+              "slug": {
+                "en": "recomendacoes-de-produtos-beta",
+                "es": "recomendacoes-de-produtos-beta",
+                "pt": "recomendações-de-produtos-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Criar lista de recomendações (Beta)",
+                    "en": "Criar lista de recomendações (Beta)",
+                    "es": "Criar lista de recomendações (Beta)"
+                  },
+                  "slug": {
                     "pt": "criar-lista-de-recomendacoes",
-                    "en": ""
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
