@@ -17948,6 +17948,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Creating recommendation lists (Beta)",
+                    "es": "Crear lista de recomendaciones (beta)",
+                    "pt": "Criar lista de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "creating-recommendation-lists",
+                    "es": "crear-lista-de-recomendaciones",
+                    "pt": "criar-lista-de-recomendacoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Product Recommendations (Beta)",
                     "es": "Recomendaciones de productos (Beta)",
                     "pt": "Recomendações de produtos (Beta)"
