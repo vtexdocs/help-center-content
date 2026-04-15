@@ -14,11 +14,11 @@ Cada modelo de negócio tem características específicas, e a extensibilidade �
 
 Este artigo aprensenta as principais características e casos de uso das extensões do Sales App e orienta na implementação da solução.
 
-> ⚠️ A definição e implementação da extensibilidade no Sales App são responsabilidades dos clientes VTEX e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
+> ⚠️ A definição e implementação da extensibilidade do Sales App são responsabilidades dos clientes VTEX e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
 
 ## Funcionamento da extensibilidade
 
-Existem atualmente 7 pontos de extensão disponíveis no Carrinho/Checkout, na Página de detalhes do produto e em modais adicionais acessados pelo menu do Sales App. Cada um dos pontos de extensão permite interação com dados e funções específicas dentro do contexto da página. Os pontos e conjunto de dados e funções podem ser vistos na documentação técnica.
+Existem sete pontos de extensão disponíveis no Carrinho/Checkout, na Página de detalhes do produto e em modais adicionais acessados pelo menu do Sales App. Cada um dos pontos de extensão permite interação com dados e funções específicas dentro do contexto da página. Os pontos e conjunto de dados e funções podem ser vistos na documentação técnica.
 
 Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e Carrinho.
 
@@ -34,9 +34,7 @@ Os pontos de extensão podem apresentar limitações propositais. Elas garantem 
 * A aplicação mantenha a estabilidade mesmo com quebras no fluxo customizado.
 * Evoluções no Sales App não quebrem as customizações feitas pelo cliente. Este modelo garante que o investimento feito na extensão não seja perdido em atualizações futuras.
 
-## Características das extensões
-
-## Cenários de uso de extensões
+## Casos de uso de extensibilidade
 
 Alguns cenários esperados para criar uma extensão:
 
@@ -44,11 +42,11 @@ Alguns cenários esperados para criar uma extensão:
 * **Integrar dados da VTEX:** Integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App.
 * **Centralizar tarefas do vendedores:** Permitir que o vendedor realize tarefas cotidianas em uma única plataforma, como captura de leads ou consulta de dados.
 
-## **3\. Preparação e Definição de Requisitos do projeto**
+## Passo a Passo do Projeto
 
-Antes de iniciar o desenvolvimento, é fundamental que o **Merchant, Parceiro** ou a **Agência Parceira** defina o escopo do recurso a ser implementado. Este processo deve ser apoiado pelas nossas *documentações* oficiais e de acordo com o recurso a ser implementado. 
+### **Passo 0: Preparação e Definição de Requisitos do projetos**
 
-## **4\. Passo a Passo do Projeto**
+Antes de iniciar o desenvolvimento, é fundamental que o **Merchant, Parceiro** ou a **Agência Parceira** defina o escopo do recurso a ser implementado. Este processo deve ser apoiado pelas nossas *documentações* oficiais e de acordo com o recurso a ser implementado.
 
 ### **Passo 1: Mapeamento de Requisitos e UX**
 
@@ -62,7 +60,7 @@ Dica: MCP de Extensibilidade
 Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Nessa etapa, o MCP é capaz de:
 
 - Levantar os requisitos de experiência: Identificar o que as regras de negócio, fluxo esperados e pontos utilizados.Se já existir um projeto ele pode ser utilizado de exemplo para esse levantamento.  
-- Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).   
+- Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
 - Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
 
 ### **Passo 2: Viabilidade Técnica e Feedback**
@@ -81,12 +79,12 @@ O MCP também pode ajudar na etapa de implementação, com um planejamento e esp
 
 **Passo 4: Deploy**
 
-Depois que o fluxo estiver testado e validado. O deploy na conta em desenvolvimento pode ser feito seguindo a documentação. 
+Depois que o fluxo estiver testado e validado. O deploy na conta em desenvolvimento pode ser feito seguindo a documentação.
 
 Dica: MCP de Extensibilidade
 
 O MCP também é capaz de guiar o desenvolvedor com o passo a passo para deploy.
 
-\> Recomendações para Parceiros com múltiplos clientes utilizando a extensão
+> Recomendações para Parceiros com múltiplos clientes utilizando a extensão
 
 Para parceiros que desenvolvem módulos que podem ser reaproveitados em diferentes clientes, a priori a extensão deverá ser copiada para cada repositório. Mas recomendamos entrar em contato com o time de VTEX Sales App para ter sugestões de como habilitar para diferentes cliente.
