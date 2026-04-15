@@ -38348,12 +38348,43 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics",
+                "es": "analytics",
+                "pt": "analytics"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Analytics: Atendimento humano",
+                    "en": "Analytics: Atendimento humano",
+                    "es": "Analytics: Atendimento humano"
+                  },
+                  "slug": {
+                    "pt": "analytics-dashboard-de-atendimento-humano",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Analytics"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
-                "pt": "vtex-cx-platform-analytics"
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
