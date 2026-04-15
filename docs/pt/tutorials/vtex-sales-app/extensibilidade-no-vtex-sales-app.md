@@ -20,7 +20,7 @@ Este artigo aprensenta as principais características e casos de uso das extens�
 
 Existem sete pontos de extensão disponíveis no Carrinho/Checkout, na Página de detalhes do produto e em modais adicionais acessados pelo menu do Sales App. Cada um dos pontos de extensão permite interação com dados e funções específicas dentro do contexto da página. Os pontos e conjunto de dados e funções podem ser vistos na documentação técnica.
 
-Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e Carrinho.
+Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e carrinho.
 
 O ponto de extensão acessado pelo Menu do Sales App sempre abrirá uma drawer à esquerda do fluxo que pode conter multi-navegação interna.
 
