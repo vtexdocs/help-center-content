@@ -10,11 +10,11 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-Cada modelo de negócio tem características específicas, e as extensões do VTEX Sales App são a solução que permite complementar a experiência de compra padrão com os recursos necessários a sua loja.
+Cada modelo de negócio tem características específicas, e a extensibilidade é a solução que permite complementar a jornada de compra padrão no VTEX Sales App com os recursos necessários a sua loja.
 
-Este artigo aprensenta as principais características e cenários de uso de extensões no Sales App, e orienta os clientes e parceiros na implementação da solução.
+Este artigo aprensenta as principais características e casos de uso das extensões do Sales App e orienta na implementação da solução.
 
-## Definição de extensibilidade
+## Características das extensões
 
 Os pontos de extensão são um jeito seguro, estável e com controle essencial para evitar quebras e comportamentos inesperados.
 
