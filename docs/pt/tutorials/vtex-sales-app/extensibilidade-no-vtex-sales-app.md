@@ -10,17 +10,31 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-Cada modelo de negócio tem características específicas, e a extensibilidade é a solução que permite complementar a jornada de compra padrão no VTEX Sales App com os recursos necessários a sua loja.
+Cada modelo de negócio tem características específicas, e a extensibilidade é a solução que permite às lojas complementarem a jornada de venda padrão do VTEX Sales App com os recursos necessários a sua operação.
 
 Este artigo aprensenta as principais características e casos de uso das extensões do Sales App e orienta na implementação da solução.
 
+> ⚠️ A definição e implementação da extensibilidade no Sales App são responsabilidades dos clientes VTEX e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
+
+## Funcionamento da extensibilidade
+
+Existem atualmente 7 pontos de extensão disponíveis no Carrinho/Checkout, na Página de detalhes do produto e em modais adicionais acessados pelo menu do Sales App. Cada um dos pontos de extensão permite interação com dados e funções específicas dentro do contexto da página. Os pontos e conjunto de dados e funções podem ser vistos na documentação técnica.
+
+Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e Carrinho.
+
+O ponto de extensão acessado pelo Menu do Sales App sempre abrirá uma drawer à esquerda do fluxo que pode conter multi-navegação interna.
+
+## Segurança e estabilidade de extensões
+
+A extensibilidade é uma solução nativa para as lojas integrarem com APIs externas e interagirem com dados de outras aplicações, mas de forma segura e estável, o que evita comportamentos inesperados e contribui para a estabilidade da operação da loja.
+
+Os pontos de extensão podem apresentar limitações propositais. Elas garantem que:
+
+* Desenvolvedores apliquem códigos com segurança.  
+* A aplicação mantenha a estabilidade mesmo com quebras no fluxo customizado.
+* Evoluções no Sales App não quebrem as customizações feitas pelo cliente. Este modelo garante que o investimento feito na extensão não seja perdido em atualizações futuras.
+
 ## Características das extensões
-
-Os pontos de extensão são um jeito seguro, estável e com controle essencial para evitar quebras e comportamentos inesperados.
-
-As extensões permitem que recursos únicos sejam integrados à jornada de compra, centralizando operações e personalizando a experiência sem comprometer a estabilidade da plataforma.
-
-é a capacidade de inserir componentes próprios em pontos estratégicos da jornada de vendas do Sales App. Os clientes podem integrar APIs externas e interagir com dados da aplicação e ações específicas para desenvolver recursos que tornam sua operação mais eficiente e aderente.
 
 ## Cenários de uso de extensões
 
@@ -29,24 +43,6 @@ Alguns cenários esperados para criar uma extensão:
 * **Integrar serviços ou dados externos:** Integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.   
 * **Integrar dados da VTEX:** Integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App.
 * **Centralizar tarefas do vendedores:** Permitir que o vendedor realize tarefas cotidianas em uma única plataforma, como captura de leads ou consulta de dados.
-
-Ao identificar a necessidade de uma extensão o cliente ou parceiro é responsável por sua definição e implementação seguindo a documentação da VTEX.
-
-## Como funciona a extensão
-
-Existem atualmente 7 pontos de extensão disponíveis no Carrinho/Checkout, na Página de detalhes do produto e em modais adicionais acessados pelo menu do Sales App. Cada um dos pontos de extensão permite interação com dados e funções específicas dentro do contexto da página. Os pontos e conjunto de dados e funções podem ser vistos na documentação técnica.
-
-Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e Carrinho.
-
-O ponto de extensão acessado pelo Menu do Sales App sempre abrirá uma drawer à esquerda do fluxo que pode conter multi-navegação interna.
-
-### Segurança e Estabilidade
-
-Os pontos de extensão podem apresentar limitações propositais. Elas garantem que:
-
-* Desenvolvedores apliquem códigos com segurança.  
-* A aplicação mantenha a estabilidade mesmo com quebras no fluxo customizado.   
-* Evoluções no Sales App não quebrem as customizações feitas pelo cliente. Este modelo garante que o investimento feito na extensão não seja perdido em atualizações futuras.
 
 ## **3\. Preparação e Definição de Requisitos do projeto**
 
