@@ -10,7 +10,7 @@ locale: en
 
 Budgets allow you to set and track spending limits centrally. This feature helps control the use of funds over time and organize budgets for different business contexts. 
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to selected accounts.
+> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available to selected accounts.
 
 It also allows you to create budgets, configure consumption notifications, set allocations, and control when and how these amounts are available at checkout.
 

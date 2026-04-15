@@ -13,6 +13,11 @@ When working with content in the CMS, changes happen frequently, whether updatin
 * **[Versions](#versions)** allows you to prepare changes for the future, track edits, review past content states, and restore earlier versions when needed.
 * **[Branches](#branches)** allow you to group multiple page versions to collaborate and evolve your content before publishing it to the storefront.
 
+<video controls width="100%">
+  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/cms-branches-update/docs/en/tutorials/cms/branching-and-versioning/Branches-en.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 In this guide, learn how to use versions and branches to track content changes, test safely, restore past content, and manage publishing workflows.
 
 ## Versions

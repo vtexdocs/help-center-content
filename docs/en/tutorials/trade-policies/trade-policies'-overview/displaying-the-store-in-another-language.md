@@ -19,5 +19,5 @@ In order to display your website in another language, a [new sales policy](/en/
 
 ![exibição-loja-idioma-diferente en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/trade-policies/trade-policies'-overview/displaying-the-store-in-another-language_1.png)
 
-With the sales policy already created, you will need to adjust the front-end of the store to enable changing the language and, consequently, the trade policies. 
+With the sales policy already created, you will need to adjust the front-end of the store to enable changing the language and, consequently, the sales channels. 
 To do so, you must define that for each language the URL must include the parameter `?sc=salespolicyid`, changing the __salespolicyid__ value for the sales policy Id that was set up and assigned to the desired language. 

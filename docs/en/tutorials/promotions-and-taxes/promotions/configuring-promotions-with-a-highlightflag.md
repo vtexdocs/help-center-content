@@ -3,7 +3,7 @@ title: "Configuring promotions with highlights / flags"
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2025-09-29T17:45:04.455Z
+updatedAt: 2026-03-25T17:45:04.455Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
@@ -31,14 +31,11 @@ In this guide, you will find the following sections:
 
 ## Promotions eligible for highlight
 
-The promotion highlight can be applied to different types of promotions and discounts. This highlight will be displayed on shelves and product pages, alerting customers that the item is part of a special promotion.
+Promotion highlighting allows displaying a visual indication on product shelves and product pages, informing that the item is part of an active promotion.
 
-The following types of discounts are eligible for a highlight application:
+Currently, the Featured in the product option is available for all promotion types.
 
-- [Percentage discount](/en/docs/tutorials/how-to-set-percent-discount-promotion-for-a-specific-sku): offers a percentage reduction on the product’s price.
-- **Free gift**: offers an extra product at no cost to the customer when purchasing a certain item or reaching a minimum purchase value.
-
-To learn more, see the [Promotions](/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
+However, the display of this highlight does not depend on the configured promotion type. In cases where the promotion depends on information that is not yet available at the moment when shelves or product pages are loaded, the highlight is not displayed.
 
 ## Restrictions
 

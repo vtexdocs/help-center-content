@@ -8,7 +8,7 @@ slugEN: adding-or-editing-accounting-fields
 locale: en
 ---
 
-> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to selected accounts.
+> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available to selected accounts.
 
 The Accounting Fields feature allows you to standardize information collection during the purchase process by adding accounting fields based on your business rules.
 

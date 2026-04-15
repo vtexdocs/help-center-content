@@ -145,7 +145,7 @@ The marketplace should follow the steps below to configure it on already integra
 
     - **sellerAccount**: The seller’s [account name](/en/docs/tutorials/what-is-an-account-name) on the VTEX platform.   
     - **affiliateId**: Three-digit code corresponding to the [affiliate](/en/docs/tutorials/what-is-an-affiliate) created by the seller. The seller should report this value to the marketplace.   
-    - **tradePolicyId**: [Trade policy](/en/docs/tutorials/how-trade-policies-work) ID created by the seller in its own VTEX environment to sell in the marketplace. The seller must report this value to the marketplace.   
+    - **tradePolicyId**: [Sales channel](/en/docs/tutorials/how-trade-policies-work) ID created by the seller in its own VTEX environment to sell in the marketplace. The seller must report this value to the marketplace.   
 6. Click **Save.**  
 
 ### Newly integrated sellers

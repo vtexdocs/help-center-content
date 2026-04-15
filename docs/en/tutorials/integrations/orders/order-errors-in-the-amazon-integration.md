@@ -41,7 +41,7 @@ ____
 
 Only orders with active SKUs are integrated, so please check the status of the order items in your VTEX Admin, in the module **Catalog > Products and SKUs**. You can enable the SKU by [filling SKU registration fields](/en/docs/tutorials/adding-or-editing-skus), or [activating SKUs in bulk](/en/docs/tutorials/activating-skus-in-bulk).
 
-If the order SKUs are active, the error indicates that one or more SKUs are not associated with the Amazon integration's trade policy. In this case, [you must associate them with the trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
+If the order SKUs are active, the error indicates that one or more SKUs are not associated with the Amazon integration's sales channel. In this case, [you must associate them with the sales channel](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
 
 ____
 

@@ -88,9 +88,9 @@ The table below shows the three authentication types available:
 | Authentication of requests to APIs using user tokens | User tokens are used to authenticate API requests, especially for [frontend](/en/docs/tracks/frontend-implementation) apps developed using VTEX IO.Learn more in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) article. |
 | Authentication of apps using authentication tokens | The use of auth tokens is required for authentication when developing apps using VTEX IO.Learn more in the [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens) article. |
 
-## Trade policy
+## Sales channel
 
-An important concept on VTEX is [trade policy](/en/docs/tutorials/how-trade-policies-work), which is a group of settings that includes:
+An important concept on VTEX is [sales channel](/en/docs/tutorials/how-trade-policies-work), which is a group of settings that includes:
 
 * [Catalog](/en/docs/tutorials/how-trade-policies-work#catalog)
 * [Prices](/en/docs/tutorials/how-trade-policies-work#prices)
@@ -98,11 +98,11 @@ An important concept on VTEX is [trade policy](/en/docs/tutorials/how-trade-poli
 * [Shipping strategies](/en/docs/tutorials/how-trade-policies-work#shipping-strategy)
 * [Payments](/en/docs/tutorials/how-trade-policies-work#payments)
 
-In every integration with a sales channel, a trade policy must be linked, and when one of the settings mentioned above is different for a new channel, a new trade policy must be created.
+In every integration with a sales channel, a sales channel must be linked, and when one of the settings mentioned above is different for a new channel, a new sales channel must be created.
 
-Depending on its architecture on VTEX, the store can benefit from more than one trade policy or associate strategies from several trade policies with [multistores](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) and [additional environments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment). The [Accounts and architecture](/en/docs/tracks/accounts-and-architecture) article explains the relationship between these concepts.
+Depending on its architecture on VTEX, the store can benefit from more than one sales channel or associate strategies from several sales channels with [multistores](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) and [additional environments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment). The [Accounts and architecture](/en/docs/tracks/accounts-and-architecture) article explains the relationship between these concepts.
 
-> ℹ️ To [create a trade policy](/en/docs/tutorials/creating-a-trade-policy) and to [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy).
+> ℹ️ To [create a sales channel](/en/docs/tutorials/creating-a-trade-policy) and to [request additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy), contact [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy).
 
 ## Edition Apps
 

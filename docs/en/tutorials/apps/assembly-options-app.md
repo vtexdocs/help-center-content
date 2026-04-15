@@ -68,7 +68,7 @@ The **Products > Assembly Options > New Assembly Options** page contains a form 
 4. Click `Add SKU` to add an existing SKU to the group.
 5. Complete the following information about the SKU:
     * **SKU ID:** SKU identifier.
-    * **Linked price table name:** Name of the price table in which the chosen SKU is listed. If this field is empty, the SKU takes the price of the trade policy.
+    * **Linked price table name:** Name of the price table in which the chosen SKU is listed. If this field is empty, the SKU takes the price of the sales channel.
     * **Minimum quantity:** Lowest number of items that the customer can choose.
     * **Maximum quantity:** Highest number of items that the customer can choose.
     * **Initial quantity:** Quantity selected by default.
