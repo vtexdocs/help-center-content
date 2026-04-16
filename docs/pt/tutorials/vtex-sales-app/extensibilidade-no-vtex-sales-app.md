@@ -65,9 +65,9 @@ Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar 
 
 ### Passo 2: Viabilidade Técnica e Feedback
 
-Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos **hooks** **e funções** existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a documentacão.
+Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos hooks e funções existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a documentacão.
 
-> ❗ Caso identifique a inexistência de um *hook* ou função necessária, abra um ticket para a VTEX explicando seu caso de uso e necessidade para que possamos considerar a necessidade em evoluções do produto.
+> ❗ Caso identifique a inexistência de um hook ou função necessária, abra um ticket para a VTEX explicando seu caso de uso e necessidade para que possamos considerar a necessidade em evoluções do produto.
 
 ### Passo 3: Implementação
 
