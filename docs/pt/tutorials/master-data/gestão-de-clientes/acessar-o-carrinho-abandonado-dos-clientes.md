@@ -11,7 +11,7 @@ locale: pt
 O carrinho abandonado é uma funcionalidade usada em desistência de compras. Nestes casos, o lojista pode configurar um email que será enviado ao usuário, com o propósito de 
 lembrá-lo dos itens que não foram comprados.
 
-Para o lojista, é possível conferir algumas informações sobre os itens "deixados" nesse carrinho por meio do [Master Data](/pt/tutorial/o-que-e-o-master-data). Como por exemplo:
+Para o lojista, é possível conferir algumas informações sobre os itens "deixados" nesse carrinho por meio do [Master Data](/pt/docs/tutorials/master-data). Como por exemplo:
 
 - SKU's
 - Quantidade
