@@ -16486,21 +16486,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Accessing a client's abandoned cart",
-                    "es": "Acceda al carrito abandonado de los clientes",
-                    "pt": "Acesse o carrinho abandonado dos clientes"
-                  },
-                  "slug": {
-                    "en": "accessing-a-client-abandoned-cart",
-                    "es": "acceda-al-carrito-abandonado-de-los-clientes",
-                    "pt": "acesse-o-carrinho-abandonado-dos-clientes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Creating a telesales user",
                     "es": "Crear usuario de televentas",
                     "pt": "Criar usuário de televendas"
@@ -25184,6 +25169,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Accessing a client's abandoned cart",
+                    "es": "Acceder al carrito abandonado de los clientes",
+                    "pt": "Acessar o carrinho abandonado dos clientes"
+                  },
+                  "slug": {
+                    "en": "accessing-a-client-abandoned-cart",
+                    "es": "acceder-al-carrito-abandonado-de-los-clientes",
+                    "pt": "acessar-o-carrinho-abandonado-dos-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Adding a record on a Master Data form",
