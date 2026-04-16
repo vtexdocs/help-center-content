@@ -38,17 +38,17 @@ Os pontos de extensão podem apresentar limitações propositais. Elas garantem 
 
 Alguns cenários esperados para criar uma extensão:
 
-* **Integrar serviços ou dados externos:** Integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.   
+* **Integrar serviços ou dados externos:** Integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.
 * **Integrar dados da VTEX:** Integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App.
 * **Centralizar tarefas do vendedores:** Permitir que o vendedor realize tarefas cotidianas em uma única plataforma, como captura de leads ou consulta de dados.
 
 ## Passo a Passo do Projeto
 
-### **Passo 0: Preparação e Definição de Requisitos do projetos**
+### Passo 0: Preparação e Definição de Requisitos do projetos
 
 Antes de iniciar o desenvolvimento, é fundamental que o **Merchant, Parceiro** ou a **Agência Parceira** defina o escopo do recurso a ser implementado. Este processo deve ser apoiado pelas nossas *documentações* oficiais e de acordo com o recurso a ser implementado.
 
-### **Passo 1: Mapeamento de Requisitos e UX**
+### Passo 1: Mapeamento de Requisitos e UX
 
 * Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").  
   * Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.  
@@ -59,17 +59,17 @@ Dica: MCP de Extensibilidade
 
 Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Nessa etapa, o MCP é capaz de:
 
-- Levantar os requisitos de experiência: Identificar o que as regras de negócio, fluxo esperados e pontos utilizados.Se já existir um projeto ele pode ser utilizado de exemplo para esse levantamento.  
-- Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
-- Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
+* Levantar os requisitos de experiência: Identificar o que as regras de negócio, fluxo esperados e pontos utilizados.Se já existir um projeto ele pode ser utilizado de exemplo para esse levantamento.  
+* Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
+* Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
 
-### **Passo 2: Viabilidade Técnica e Feedback**
+### Passo 2: Viabilidade Técnica e Feedback
 
 Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos **hooks** **e funções** existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a documentacão.
 
 * **Atenção:** Caso identifique a inexistência de um *hook* ou função necessária, abra um ticket para a VTEX explicando seu caso de uso e necessidade para que possamos considerar a necessidade em evoluções do produto.
 
-**Passo 3: Implementação**
+### Passo 3: Implementação
 
 Após o planejamento o desenvolver deve implementar , podendo rodar de maneira local o projeto, em uma conta VTEX com o Sales App instalado e configurado. Geralmente o merchant, parceiras e agencias já possuem essa conta. Caso contrário, será necessário instalar o Sales App na sua conta VTEX.
 
@@ -77,7 +77,7 @@ Dica: MCP de Extensibilidade
 
 O MCP também pode ajudar na etapa de implementação, com um planejamento e especificações bem definidas, ele poderá desenvolver o front e guiar às integrações necessárias. Ele conhece os hooks e funções, além de toda documentação de extensão, faststore, sales app e VTEX.
 
-**Passo 4: Deploy**
+### Passo 4: Deploy
 
 Depois que o fluxo estiver testado e validado. O deploy na conta em desenvolvimento pode ser feito seguindo a documentação.
 
