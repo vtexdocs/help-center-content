@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slugEN: change-the-store-domain
-legacySlug: o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja
+legacySlug: como-cambiar-el-dominio-de-la-tienda
 locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
@@ -28,8 +28,8 @@ Consulta en las secciones a continuación más información sobre el proceso com
 
 Antes de empezar, debes:
 
-- Tener el nuevo dominio ya registrado y accesible.
-- Tener acceso al proveedor de DNS del dominio.
+* Tener el nuevo dominio ya registrado y accesible.
+* Tener acceso al proveedor de DNS del dominio.
 
 ## Configurar el nuevo dominio
 
@@ -55,8 +55,8 @@ Tras el periodo de transición, se recomienda desactivar el dominio antiguo para
 
 Pueden mantenerse ambos dominios (el antiguo y el nuevo) funcionando simultáneamente durante el periodo de transición, pero es importante tomar precauciones para evitar problemas como:
 
-- Confusión del cliente sobre cuál es el dominio oficial, lo que puede afectar negativamente la confianza y las ventas.
-- Impacto negativo en SEO, ya que los buscadores pueden interpretar que los dominios compiten entre sí.
+* Confusión del cliente sobre cuál es el dominio oficial, lo que puede afectar negativamente la confianza y las ventas.
+* Impacto negativo en SEO, ya que los buscadores pueden interpretar que los dominios compiten entre sí.
 
 Después de confirmar el apuntamiento interno y la propagación de DNS del nuevo host, sigue las instrucciones para eliminar los hosts antiguos y conservar únicamente el nuevo:
 
@@ -71,8 +71,8 @@ Después de confirmar el apuntamiento interno y la propagación de DNS del nuevo
 
 Sigue las instrucciones a continuación para garantizar que todos los accesos al antiguo dominio se redirijan al nuevo:
 
-- Configura una redirección HTTP 301, que indicará a los navegadores que reenvíen las solicitudes al nuevo dominio.
-- Recomendamos el uso de herramientas como [Redirect-301](https://www.redirect-301.com/en/) para crear la redirección.
-- En el panel DNS, evita utilizar CNAME para la redirección, ya que esta configuración no garantiza una redirección correcta.
+* Configura una redirección HTTP 301, que indicará a los navegadores que reenvíen las solicitudes al nuevo dominio.
+* Recomendamos el uso de herramientas como [Redirect-301](https://www.redirect-301.com/en/) para crear la redirección.
+* En el panel DNS, evita utilizar CNAME para la redirección, ya que esta configuración no garantiza una redirección correcta.
 
 > ⚠️ Es habitual que las primeras visitas al nuevo dominio sean más lentas de lo esperado, debido al proceso inicial de creación de la caché. Este impacto es temporal y se normaliza con el tiempo.
