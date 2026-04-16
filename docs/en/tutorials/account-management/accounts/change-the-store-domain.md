@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slugEN: change-the-store-domain
-legacySlug: o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja
+legacySlug: how-can-i-change-the-domain-of-my-store
 locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
@@ -28,8 +28,8 @@ Learn more about the complete process for changing your domain on VTEX in the fo
 
 Before you begin, make sure that:
 
-- The new domain is registered and accessible.
-- You have access to the domain DNS provider.
+* The new domain is registered and accessible.
+* You have access to the domain DNS provider.
 
 ## Configuring the new domain
 
@@ -55,8 +55,8 @@ After the transition period, we recommend deactivating the old domain to ensure 
 
 You can keep both domains (old and new) running simultaneously during the transition period, but we recommend avoiding the following issues:
 
-- Confusing customers about the official domain, which can negatively impact trust and sales.
-- Negatively impacting SEO, as search engines may interpret them as competing domains.
+* Confusing customers about the official domain, which can negatively impact trust and sales.
+* Negatively impacting SEO, as search engines may interpret them as competing domains.
 
 After confirming the new host's DNS propagation and internal pointing, delete the old hosts and keep only the new one:
 
@@ -71,8 +71,8 @@ After confirming the new host's DNS propagation and internal pointing, delete th
 
 To ensure that all access to the previous domain is directed to the new domain, follow the instructions below:
 
-- Set up an HTTP 301 redirect that instructs browsers to forward requests to the new domain.
-- We recommend using tools such as [Redirect-301](https://www.redirect-301.com/pt/) to create the redirect.
-- Avoid using CNAME for redirects in the DNS dashboard. That setting doesn't guarantee proper redirection.
+* Set up an HTTP 301 redirect that instructs browsers to forward requests to the new domain.
+* We recommend using tools such as [Redirect-301](https://www.redirect-301.com/pt/) to create the redirect.
+* Avoid using CNAME for redirects in the DNS dashboard. That setting doesn't guarantee proper redirection.
 
 > ⚠️ The first traffic to the new domain is often slower than expected due to the initial cache creation. This effect is temporary and normalizes over time.
