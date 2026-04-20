@@ -35,19 +35,19 @@ Before you begin, make sure that:
 
 Follow the steps below to change your domain:
 
-1. Create the new host in the VTEX Admin by following the instructions in [Registering a new host](/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
+1. Create the new host in the VTEX Admin by following the instructions in [Registering a new host](/en/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
 
-2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in [Configure template in SmartCheckout](/docs/tutorials/configure-template-in-smartcheckout-update).
+2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in [Configure template in SmartCheckout](/en/docs/tutorials/configure-template-in-smartcheckout-update).
 
    This step is crucial to ensure Checkout keeps working after the change.
 
-   You need to check if the configured sites are related to the account added in **Account settings > Accounts**. See [Account management](/docs/tutorials/account-management) for more details.
+   You need to check if the configured sites are related to the account added in **Account settings > Accounts**. See [Account management](/en/docs/tutorials/account-management) for more details.
 
-3. If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](https://supporticket.vtex.com/support) and request the internal pointing, providing the desired new domain. Learn more about [internal pointing](/tracks/pre-go-live#requesting-io-pointing).
+3. If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](https://supporticket.vtex.com/support) and request the internal pointing, providing the desired new domain. Learn more about [internal pointing](/en/tracks/pre-go-live#requesting-io-pointing).
 
    Once the ticket is opened, the support team has up to three business days to review the settings and complete the pointing.
 
-4. Point the DNS to the VTEX CDN. To do this, follow the instructions in the [Go-live your store](/docs/tracks/go-live-process) guide.
+4. Point the DNS to the VTEX CDN. To do this, follow the instructions in the [Go-live your store](/en/docs/tracks/go-live-process) guide.
 
 ## Deleting the previous domain
 
