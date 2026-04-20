@@ -16244,6 +16244,21 @@
                 {
                   "name": {
                     "en": "Changing the store domain",
+                    "es": "Cambiar el dominio de la tienda",
+                    "pt": "Alterar o domínio da loja"
+                  },
+                  "slug": {
+                    "en": "change-the-store-domain",
+                    "es": "cambiar-el-dominio-de-la-tienda",
+                    "pt": "alterar-o-dominio-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Changing the store domain",
                     "es": "Changing the store domain",
                     "pt": "Changing the store domain"
                   },
@@ -16432,37 +16447,6 @@
                     "en": "renewing-api-tokens",
                     "es": "renovar-token-de-api",
                     "pt": "renovar-token-de-api"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Cuentas",
-                "es": "Cuentas",
-                "pt": "Contas"
-              },
-              "slug": {
-                "en": "cuentas",
-                "es": "cuentas-subcategoria",
-                "pt": "contas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Cambiar el dominio de la tienda",
-                    "pt": "Alterar o domínio da loja",
-                    "en": "Cambiar el dominio de la tienda"
-                  },
-                  "slug": {
-                    "es": "cambiar-el-dominio-de-la-tienda",
-                    "pt": "alterar-o-dominio-da-loja",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
