@@ -46840,6 +46840,21 @@
             },
             {
               "name": {
+                "en": "Partial loyalty credit input wrong behavior Checkout UI when commercial policy has 0 decimal places",
+                "es": "Comportamiento incorrecto al introducir créditos de fidelidad parciales en la interfaz de pago cuando la política comercial tiene 0 decimales",
+                "pt": "Comportamento incorreto na inserção de crédito de fidelidade parcial na interface de checkout quando a política comercial tem 0 casas decimais"
+              },
+              "slug": {
+                "en": "partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places",
+                "es": "comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales",
+                "pt": "comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Partial scheduled delivery window selection for the same SLA affecting the purchase flow",
                 "es": "Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra",
                 "pt": "Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra"
