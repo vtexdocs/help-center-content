@@ -16248,24 +16248,9 @@
                     "pt": "Alterar o domínio da loja"
                   },
                   "slug": {
-                    "en": "change-the-store-domain",
+                    "en": "changing-the-store-domain",
                     "es": "cambiar-el-dominio-de-la-tienda",
                     "pt": "alterar-o-dominio-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Changing the store domain",
-                    "es": "Changing the store domain",
-                    "pt": "Changing the store domain"
-                  },
-                  "slug": {
-                    "en": "changing-the-store-domain",
-                    "es": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
