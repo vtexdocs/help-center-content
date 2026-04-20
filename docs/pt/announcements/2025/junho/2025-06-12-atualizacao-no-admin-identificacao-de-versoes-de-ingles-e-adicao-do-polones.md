@@ -13,6 +13,9 @@ locale: pt
 legacySlug: atualizacao-no-admin-identificacao-de-versoes-de-ingles-e-adicao-do-polones
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Identificação de versões de Inglês e adição do Polonês'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 ## O que mudou?

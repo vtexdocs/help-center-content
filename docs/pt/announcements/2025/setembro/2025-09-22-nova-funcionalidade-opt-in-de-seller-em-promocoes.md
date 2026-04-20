@@ -13,6 +13,10 @@ locale: pt
 legacySlug: nova-funcionalidade-opt-in-de-seller-em-promocoes
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova funcionalidade permite inclusão e exclusão de sellers em promoções via API.'
+tags:
+  - Nova funcionalidade
+  - Promoções
+  - Marketplace
 ---
 
 A VTEX está disponibilizando a nova funcionalidade Seller Opt-in Promotions, que permite aos sellers escolherem se desejam participar de promoções no marketplace. Com essa mudança, os próprios sellers passam a ter autonomia para definir seu envolvimento, com mais controle sobre as campanhas promocionais.

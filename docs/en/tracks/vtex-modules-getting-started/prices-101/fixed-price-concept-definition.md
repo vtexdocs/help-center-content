@@ -86,8 +86,8 @@ Which price would in this case be applied to five or more items? The sales price
 
 ## Examples 
 
-In this example, your store sells home appliances. In the Prices Module, you create __trade policy three price tables__ and __two price tables for other contexts__. 
+In this example, your store sells home appliances. In the Prices Module, you create __sales channel three price tables__ and __two price tables for other contexts__. 
 
 You add __a base price__ of U$ 2000,00 for a fridge SKU. This implies that, *at this time*, all your price table give this SKU a __sales price__ of U$ 2000,00.
 
-However, you decide to *apply a higher price* to a specific sales channel. You add a __fixed price__ of U$ 2500,00 to that sales channel specific trade policy table. The result is __sales price__ of U$ 2500,00 for this sales channel, since *the fixed price has priority over the base price in a price table*.
+However, you decide to *apply a higher price* to a specific sales channel. You add a __fixed price__ of U$ 2500,00 to that sales channel specific sales channel table. The result is __sales price__ of U$ 2500,00 for this sales channel, since *the fixed price has priority over the base price in a price table*.

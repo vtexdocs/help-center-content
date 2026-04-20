@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-contextual-help-in-the-admin-simplified-access-to-documentation
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New contextual help in the Admin'
+tags:
+  - New feature
+  - Admin
 ---
 
 The new contextual help in the Admin makes it easier to find relevant documentation without leaving your workflow.

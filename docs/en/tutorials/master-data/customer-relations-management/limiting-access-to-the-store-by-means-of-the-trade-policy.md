@@ -1,5 +1,5 @@
 ---
-title: 'How to limit access to the store using a trade policy'
+title: 'How to limit access to the store using a sales channel'
 id: tutorials_3063
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:28.228Z
@@ -25,11 +25,11 @@ This can be achieved by using Master Data v1 and the store’s sales policy.
 
 The first step is to create a cluster which will identify those customers that can access the store. [To learn how to create a cluster of customers, read our manual](/en/docs/tutorials/how-can-i-create-cluster-of-customers/).
 
-## Changing a trade policy
+## Changing a sales channel
 
-After creating a cluster, you must include a rule in the trade policy allowing access to the site only to customers in that cluster.
+After creating a cluster, you must include a rule in the sales channel allowing access to the site only to customers in that cluster.
 
-1. In the VTEX Admin, click **Store Settings** > **Channels** > **Trade Policies**.
+1. In the VTEX Admin, click **Store Settings** > **Channels** > **Sales Channels**.
 2. In the sales policy used, click __Alter__.
 3. In the **Conditional Rule** field, enter the value **ClusterName=”true”**. Note that the value **ClusterName** must be changed to the name of the field in the data entity.
 4. Click on the **Save** button.
@@ -47,6 +47,6 @@ In the case of B2B, where the store does not know which customers may have acces
 ## Learn more
 
 - [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)
-- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)
-- [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
+- [How sales channels work](/en/docs/tutorials/how-trade-policies-work)
+- [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)
+- [Configuring a marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy)

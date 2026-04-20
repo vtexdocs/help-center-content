@@ -15,9 +15,9 @@ trackSlugEN: vtex-sales-app-using-the-app
 order: 15
 ---
 
-Na etapa de pagamento do VTEX Sales App, aparecerão as [opções de pagamento que foram configuradas](/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) na sua loja.
+Na etapa de pagamento do VTEX Sales App, aparecerão as [opções de pagamento que foram configuradas](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app) na sua loja.
 
-![instore-payment-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_1.jpg)
+![instore-payment-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_1.jpg)
 
 A barra superior da tela de pagamento exibe as opções a seguir:
 
@@ -40,13 +40,13 @@ Durante a configuração do VTEX Sales App, é possível adicionar os seguintes 
 * [Cartão de crédito](#cartao-de-credito)
 * [Cartão de débito](#cartao-de-debito)
 
-Para configurar um método de pagamento, siga as instruções da track [VTEX Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar um método de pagamento, siga as instruções da track [VTEX Sales App - Pagamentos](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app).
 
 ### Dinheiro
 
 O cliente deve selecionar a opção **Dinheiro** e clicar em `Finalizar venda`. 
 
-![instore-dinheiro-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_2.jpg)
+![instore-dinheiro-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_2.jpg)
 
 Após isso, o cliente deve realizar a transação com o vendedor. A aprovação da venda pode ser [manual ou automática](/pt/docs/tracks/faturar-um-pedido), dependendo da configuração da loja.
 
@@ -54,21 +54,21 @@ Após isso, o cliente deve realizar a transação com o vendedor. A aprovação 
 
 O cliente deve selecionar a opção **Pix** e clicar em `Finalizar venda`. 
 
-![instore-pix-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_3.png)
+![instore-pix-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_3.png)
 
 Após finalizar a venda, será exibido o QR Code na tela do VTEX Sales App. O cliente deve escanear esse QR Code com o celular para realizar o pagamento. 
 
-![instore-pix2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_4.png)
+![instore-pix2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_4.png)
 
 Depois que o cliente realizar o pagamento, a venda será processada e, por fim, confirmada na página do pedido, conforme a imagem abaixo.
 
-![instore-pix3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_5.png)
+![instore-pix3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_5.png)
 
 ### Boleto bancário
 
 O cliente deve selecionar a opção **Boleto Bancário** e clicar em `Finalizar venda`. 
 
-![instore-boleto-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_6.jpg)
+![instore-boleto-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_6.jpg)
 
 O boleto será enviado para o email do cliente. Uma vez que o pagamento do boleto for confirmado, a venda será confirmada. 
 
@@ -76,7 +76,7 @@ O boleto será enviado para o email do cliente. Uma vez que o pagamento do bolet
 
 O cliente deve selecionar a opção **Cartão de crédito**, selecionar a quantidade de parcelas da compra e clicar em `Finalizar venda`. 
 
-![instore-credito-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_7.jpg)
+![instore-credito-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_7.jpg)
 
 O VTEX Sales App exibirá uma tela de espera enquanto o pagamento é realizado na máquina de cartão da loja. Uma vez que o pagamento é reconhecido pelo sistema, a venda será confirmada.
 
@@ -84,7 +84,7 @@ O VTEX Sales App exibirá uma tela de espera enquanto o pagamento é realizado n
 
 O cliente deve selecionar a opção **Cartão de débito** e clicar em `Finalizar venda`. 
 
-![instore-debito-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_8.jpg)
+![instore-debito-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_8.jpg)
 
 O VTEX Sales App exibirá uma tela de espera enquanto o pagamento é realizado na máquina de cartão da loja. Uma vez que o pagamento é reconhecido pelo sistema, a venda será confirmada.
 

@@ -8,7 +8,7 @@ slugEN: adding-or-editing-buying-policies
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) é a funcionalidade que permite aos usuários da organização compradora configurar regras para autorizar ou negar pedidos automaticamente. Os mecanismos dinâmicos desta solução contribuem para uma maior governança da organização e promovem a conformidade com as políticas de compra vigentes.
 
@@ -19,13 +19,13 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
 * Editar buying policy
 * Remover buying policy
 
-> ⚠️ Para configurar buying policies, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar pedidos, é necessário o recurso `ApproveOrders`.
+> ⚠️ Para configurar buying policies, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar pedidos, é necessário o recurso `ApproveOrders`.
 
 ## Adicionar buying policy
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), na seção **Finance and Compliance**, clique em `Buying Policies`.
 
-    ![buying_policies_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
+    ![buying_policies_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/conta-da-organizacao/buying_policies_image_initial_org_account_page_PT.png)
 
 2. Na tela **Buying Policies**, clique no ícone `+` no topo da tela para adicionar uma nova política de compra.
 3. No modal **Add new buying policy**, preencha os campos, que são todos obrigatórios:
@@ -53,11 +53,11 @@ Feito isso, você verá a mensagem de confirmação _"Buying policy created succ
 
 Para visualizar os detalhes de uma política, na tela **Buying Policies**, clique no nome da buying policy ou, na linha correspondente à opção desejada, clique no ícone de menu > `Open` (abrir). Você verá uma imagem como a seguinte:
 
-![buying_policies_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_1_PT.png)
+![buying_policies_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/conta-da-organizacao/buying_policies_image_1_PT.png)
 
 ## Editar buying policy
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), na seção **Finance and Compliance**, clique em `Buying Policies`.
 2. Na tela **Buying Policies**, na linha correspondente à opção desejada, clique no ícone menu > `Edit` (editar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes) da buying policy, clique em `Edit` (editar).
 3. Faça as modificações desejadas.
 4. Para salvar as alterações, clique em `Save` (salvar).
@@ -66,7 +66,7 @@ Para visualizar os detalhes de uma política, na tela **Buying Policies**, cliqu
 
 > ❗ A remoção de uma buying policy é permanente e não pode ser desfeita. As configurações são excluídas, mas o histórico de aplicação da buying policy fica armazenado para consultas futuras.
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), na seção **Finance and Compliance**, clique em `Buying Policies`.
 2. Na página **Buying Policies**, na linha correspondente à opção desejada, clique no ícone menu > `Delete` (deletar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes) da buying policy, clique em menu > `Delete`.
 3. No modal aberto, preencha o nome da buying policy a ser removida.
 4. Para confirmar a exclusão, clique em `Delete`.

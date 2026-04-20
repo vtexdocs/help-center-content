@@ -71,7 +71,7 @@ There are differences between the settings available for VTEX marketplaces and e
 | Applied to SKUs| The discount applies to the selected SKUs.| Yes| Yes|
 | Affiliates| The marketplace’s order identifier.  The discount applies to the selected affiliates.| Yes| Yes|
 | Sales channels| The discount applies to a sales channel list.| Yes| Yes|
-| Item price between| Sets the trade policies applicable to the promotion.| Yes| Yes|
+| Item price between| Sets the sales channels applicable to the promotion.| Yes| Yes|
 
 ## Promotions unavailable for marketplaces
 
@@ -117,14 +117,14 @@ See below the settings that are not available for marketplaces:
 
 If necessary, you can segment promotions for specific marketplaces. You can obtain these results by using two selectors:
 
-- [Trade policy](/en/docs/tutorials/creating-a-trade-policy): used when all target marketplaces share the same sales channel settings (catalog, price, and logistics).
+- [Sales channel](/en/docs/tutorials/creating-a-trade-policy): used when all target marketplaces share the same sales channel settings (catalog, price, and logistics).
 - [Affiliate](/en/docs/tutorials/what-is-an-affiliate): used to select one or more specific marketplaces, even if they do not share the same sales channel settings.
 
-### Selection by trade policy
+### Selection by sales channel
 
 1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).
 2. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
-3. Select the trade policies. 
+3. Select the sales channels. 
 4. Click on `Save`.
 
 ### Selection by affiliates

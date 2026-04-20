@@ -102,7 +102,7 @@ Depending on the store's operating profile, you can also configure the following
 
 #### Adding special payment conditions
 
-Special payment conditions allow you to define specific rules for a given payment method, such as expiration date, issuing bank, trade policy, commercial condition, and account name.
+Special payment conditions allow you to define specific rules for a given payment method, such as expiration date, issuing bank, sales channel, commercial condition, and account name.
 
 For more details on each type of special payment condition, check the [Configuring special payment conditions](/en/docs/tutorials/special-conditions) article.
 
@@ -228,7 +228,7 @@ Checkout is the last stage in the online shopping process, playing a significant
 
 ### Before you begin with Checkout
 
-To ensure the checkout will work properly, the following modules must be correctly configured: [Catalog](/en/docs/tracks/catalog-concept-definition), [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#), and [Orders](/en/docs/tracks/o-que-e-um-pedido-na-vtex).
+To ensure the checkout will work properly, the following modules must be correctly configured: [Catalog](/en/docs/tracks/catalog-concept-definition), [Logistics](/en/docs/tracks/logistics-101), [Prices](/en/docs/tracks/prices-101#), [Promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Payments](/en/docs/tracks/how-the-payments-module-works), and [Orders](/en/docs/tracks/o-que-e-um-pedido-na-vtex).
 
 ![checkout-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-ii_4.jpg)
 

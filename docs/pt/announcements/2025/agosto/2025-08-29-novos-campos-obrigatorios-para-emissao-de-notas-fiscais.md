@@ -13,6 +13,10 @@ locale: pt
 legacySlug: novos-campos-obrigatorios-para-emissao-de-notas-fiscais
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novos campos fiscais na Orders API garantem conformidade com a NT 2025.001 e evitam rejeição de NF-e.'
+tags:
+  - Breaking change
+  - Pedidos
+  - Integrações
 ---
 
 A NT 2025.001 é uma Nota Técnica que detalha mudanças nos documentos fiscais eletrônicos no Brasil (NF-e, NFC-e, CT-e, MDF-e.) em função da Reforma Tributária.

@@ -13,6 +13,9 @@ locale: es
 legacySlug: lanzamiento-checkout-multilingue
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Explora el nuevo Checkout Multilingue y expande tu tienda globalmente ofreciendo una experiencia de compra localizada.'
+tags:
+  - Nueva funcionalidad
+  - Checkout
 ---
 
 Presentamos **Checkout Multilingue**, una nueva funcionalidad diseñada para mejorar la experiencia de compra en tu tienda, independientemente del país. A partir del 29/04/2024, tus clientes podrán disfrutar de una jornada de compra internacionalizada, desde la navegación por el catálogo hasta el proceso de finalización de compra.

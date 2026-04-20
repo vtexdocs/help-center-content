@@ -15,13 +15,14 @@ locale: en
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
-The dataset of the `item_inventory` table provides information about the availability of items in the inventory, specifying the total quantity of available items, active reservations, unlimited inventory option, as well as SKU and inventory IDs. This table also records updates with timestamps and control IDs.  
+The inventory dataset is composed of two tables: `item_inventory` and `warehouses_latest`. Together, they provide information about item availability, reservations, stock configuration, account metadata, and warehouse attributes.  
 
 This section includes the following information:  
 
 - [Inventory data characteristics](#data-characteristics)
 - [Table: item_inventory](#table-item_inventory)
-- [Analyses with item_inventory](#analyses-with-inventory)
+- [Table: warehouses_latest](#table-warehouses_latest)
+- [Analyses with inventory data](#analyses-with-inventory-data)
 - [Correlations with other data](#correlations-with-other-data)
 
 ## Data characteristics
@@ -39,21 +40,41 @@ The table fields are described below:
 
 | **Column Name**| **Column Type**| **Description**|
 |--------|------------|---------------|
-|parent_account_name | character varying(200) | Name of the main account associated with the fundamental entity to which the inventory belongs.|
-| main_account | character varying(200)| Name of the Merchant's main account in License Manager.|
-| account_name| character varying(200)| Name of the account to whom the inventory belongs.|
-| quantity| bigint| The total quantity of items available in stock.|
-| reserved_quantity | bigint| Number of active reservations for an item. |
-| is_unlimited_quantity | boolean| Indicates whether the item can have infinite stock (True/False).|
-| batch_id| character(13)| Identifies the last ingestion batch that updated this row.|
-| warehouse_id| character varying(400)| ID of the warehouse where the stock is located.|
-| item_id| character varying(300)| Identifies the item whose stock is being quantified. |
-| last_update | timestamp without time zone  | The last time this particular item stock was updated. |
-| warehouse_status | varchar(8) | Display the current status of the warehouse where this inventory is stored. Accepted values are: active, inactive, or deleted. |
+| main_account | character varying(200) | Name of the merchant's main account. Identifies the top-level VTEX account that the store/entity belongs to. |
+| account_name | character varying(200) | Name of the account to which the inventory belongs. Together with `warehouse_id` and `item_id`, it uniquely identifies an inventory record. |
+| warehouse_id | character varying(400) | ID of the warehouse where the stock is located. |
+| item_id | character varying(300) | Identifies the item whose stock is being quantified (SKU ID). Part of the natural key for the inventory record. |
+| is_unlimited_quantity | boolean | Indicates whether the item can have infinite stock (`true`) or not (`false`). |
+| quantity | bigint | Total quantity of items in stock for the item in the warehouse (physical quantity). |
+| reserved_quantity | bigint | Number of active reservations for the item. |
+| last_update | timestamp without time zone | The last time this specific item stock was updated. |
+| parent_account_name | character varying(200) | Name of the parent account. It is the topmost account in the hierarchy; it falls back to `main_account` when parent data is unavailable. |
+| batch_id | character varying(13) | Identifies the last ingestion batch that updated this row. Used for traceability and data quality. |
+| record_created_at | timestamp without time zone | Timestamp when the record was first inserted in the Lake House. |
+| record_updated_at | timestamp without time zone | Timestamp when the record was last updated in the Lake House. |
 
-## Analyses with inventory
+## Table: warehouses_latest
 
-Some of the analyses that can be run using the inventory table are mentioned below:
+The table fields are described below:
+
+| **Column Name**| **Column Type**| **Description**|
+|--------|------------|---------------|
+| warehouse_id | character varying(100) | Identifier for the warehouse. |
+| warehouse_name | character varying(200) | Warehouse name as defined in Admin. |
+| account_id | character varying(38) | Identifier for the account. |
+| account_name | character varying(100) | Account name. |
+| is_active | boolean | Indicates whether the warehouse is active. |
+| warehouse_docks | super | Docks linked to the warehouse. |
+| pickup_point_ids | super | Pickup points linked to the warehouse. |
+| priority | integer | Tiebreaker criterion used when warehouses have the same route score. |
+| is_deleted | boolean | Indicates whether the warehouse was deleted. |
+| record_created_at | timestamp without time zone | Internal log of when the warehouse entity was first created. |
+| record_updated_at | timestamp without time zone | Internal log of when the warehouse entity was last updated. |
+| parent_account_name | character varying(50) | Name of the parent account. It is the topmost account in the hierarchy; it falls back to `main_account` when parent data is unavailable. |
+
+## Analyses with inventory data
+
+Some of the analyses that can be run using inventory data are listed below:
 
 - **Inventory level analysis:** Assess whether the inventory meets demand and identify items at risk of running out of stock.
 - **Inventory reservation trends:** Analyze the number of items that have been reserved over time to identify patterns and adjust inventory management strategies.

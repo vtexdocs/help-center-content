@@ -10,6 +10,9 @@ author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: 2026-02-23-create-promotions-faster-with-reusable-templates
 locale: en
 announcementSynopsisPT: 'You can now create and use templates to speed up promotion creation in the VTEX Admin.'
+tags:
+  - New feature
+  - Promotions
 ---
 
 The VTEX **Promotions** module now includes [promotion template management](https://help.vtex.com/en/docs/tutorials/promotion-template-management). This feature allows merchants to save and reuse promotion templates, making promotion creation faster, more standardized, and more consistent.

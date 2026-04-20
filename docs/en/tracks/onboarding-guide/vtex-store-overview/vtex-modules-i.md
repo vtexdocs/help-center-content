@@ -129,7 +129,7 @@ It is important to familiarize yourself with the main terms related to the modul
 | **Term** | **Definition** |
 | :---: | :--- |
 | Prices | Information on the sales values of the store's SKUs. |
-| [Price tables](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito) | Set of SKU prices that can be applied to a given context, such as a [trade policy](/en/docs/tutorials/how-trade-policies-work). These tables contain the price information displayed on the store's storefront. |
+| [Price tables](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito) | Set of SKU prices that can be applied to a given context, such as a [sales channel](/en/docs/tutorials/how-trade-policies-work). These tables contain the price information displayed on the store's storefront. |
 | Cost price | Price paid by the store when purchasing the SKU. |
 | Markup | The store's desired profit margin from selling the SKU. |
 | [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) | Amount calculated by combining the __cost price__ and the __markup__. This is the SKU's reference price for all price tables. |
@@ -163,15 +163,15 @@ You can create price tables for your SKUs in three ways:
 
 Prices can be scheduled for special events, as described in the [Scheduling prices](/en/docs/tutorials/scheduling-prices) article.
 
-### Relationship between price tables and trade policies
+### Relationship between price tables and sales channels
 
-There is a difference between price tables created for [trade policies](/en/docs/tutorials/how-trade-policies-work) and price tables created for other contexts.
+There is a difference between price tables created for [sales channels](/en/docs/tutorials/how-trade-policies-work) and price tables created for other contexts.
 
-Price tables not associated with trade policies can be used in contexts such as __promotions__ and __customer clusters__. Tables created for trade policies can only be associated with the trade policy itself. Thus, the price table associated with a trade policy shows the SKU price specific to that policy and cannot be associated with other contexts.
+Price tables not associated with sales channels can be used in contexts such as __promotions__ and __customer clusters__. Tables created for sales channels can only be associated with the sales channel itself. Thus, the price table associated with a sales channel shows the SKU price specific to that policy and cannot be associated with other contexts.
 
-> ⚠️ The concepts of **price table** and [trade policy](LINK) are different. Trade policy is the context with which a price list is associated.
+> ⚠️ The concepts of **price table** and [sales channel](LINK) are different. Sales channel is the context with which a price list is associated.
 
-When setting up a trade policy, you must [specify the currency that will be used in the store](/en/docs/tutorials/creating-a-trade-policy). Creating different trade policies associated with a different currency allows the store to display prices in different currencies to customers. 
+When setting up a sales channel, you must [specify the currency that will be used in the store](/en/docs/tutorials/creating-a-trade-policy). Creating different sales channels associated with a different currency allows the store to display prices in different currencies to customers. 
 
 ## Promotions
 
@@ -255,7 +255,7 @@ On VTEX, the [Logistics](/en/docs/tracks/getting-started-with-logistics) module 
 To configure the logistics settings, you must have completed the following steps:
 
 - __Creating catalog__: As the order fulfillment is related to storing items, the store's products and SKUs must be listed in the [Catalog](#catalog).
-- __Configuring trade policies__: [Trade policies](/en/docs/tutorials/how-trade-policies-work) shape the customer experience on a store's website. They encompass sales conditions for each audience, the products offered, pricing, promotions, and shipping methods.
+- __Configuring sales channels__: [Sales channels](/en/docs/tutorials/how-trade-policies-work) shape the customer experience on a store's website. They encompass sales conditions for each audience, the products offered, pricing, promotions, and shipping methods.
 
 Besides, if the business model includes international stores and [cross-border](/en/docs/tracks/cross-border-stores) sales, you should first consider the [store's architectural](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#store-architecture) model.
 
@@ -290,7 +290,7 @@ The [carrier](/en/docs/tutorials/carriers-on-vtex) delivering the order is defin
 
 #### Loading dock
 
-The [loading dock](/en/docs/tutorials/loading-dock) is where items are distributed and shipped from and is the intermediate step between the warehouse and the carriers. The loading dock integrates the warehouse, trade policy, and shipping policy. Some use cases are:
+The [loading dock](/en/docs/tutorials/loading-dock) is where items are distributed and shipped from and is the intermediate step between the warehouse and the carriers. The loading dock integrates the warehouse, sales channel, and shipping policy. Some use cases are:
 
 - Different distribution centers for a single warehouse.
 - Loading dock as a distribution center.

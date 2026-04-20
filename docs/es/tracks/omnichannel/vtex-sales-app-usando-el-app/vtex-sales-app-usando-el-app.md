@@ -23,11 +23,11 @@ Aquí usted puede ver el comportamiento del app en cada etapa de interacción co
 
 A continuación encontrará todas las guías que le recomendamos para empezar a utilizar VTEX Sales App.
 
-* **[VTEX Sales App - Primeros pasos y configuración](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc)**: conceptos, requisitos previos y instrucciones para configurar el VTEX Sales App.
-* **[VTEX Sales App - Pagos](/es/tracks/instore-pagos--43B4Nr7uZva5UdwWEt3PEy)**: el paso a paso para configurar los métodos de pago por cada adquirente homologado.
-* **[VTEX Sales App - Usando el app](/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr)**: las características de la aplicación del VTEX Sales App y cómo usarlas. **Ya estás en esta guía.**
-* **[Estrategias de Comercio Unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)**: guías paso a paso para implementar algunas de las principales estrategias de Comercio Unificado en VTEX.
+* **[VTEX Sales App - Primeros pasos y configuración](/es/docs/tracks/que-es-vtex-sales-app)**: conceptos, requisitos previos y instrucciones para configurar el VTEX Sales App.
+* **[VTEX Sales App - Pagos](/es/docs/tracks/configuracion-de-metodos-de-pago-vtex-sales-app)**: el paso a paso para configurar los métodos de pago por cada adquirente homologado.
+* **[VTEX Sales App - Usando el app](/es/docs/tracks/vtex-sales-app-usando-el-app)**: las características de la aplicación del VTEX Sales App y cómo usarlas. **Ya estás en esta guía.**
+* **[Estrategias de Comercio Unificado](/es/docs/tracks/configurar-tiendas-fisicas-como-puntos-de-recogida)**: guías paso a paso para implementar algunas de las principales estrategias de Comercio Unificado en VTEX.
 
 Para ver todas las guías relacionadas con VTEX Sales App, haga clic en **[`Comience aquí`](/es/tracks)** en la parte superior de la página y desplácese hasta la categoría **Omnichannel**.
 
-Haga clic en `Siguiente` para continuar y leer los siguientes artículos de la guía **[VTEX Sales App - Primeros pasos y configuración](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc)**.
+Haga clic en `Siguiente` para continuar y leer los siguientes artículos de la guía **[VTEX Sales App - Primeros pasos y configuración](/es/docs/tracks/que-es-vtex-sales-app)**.

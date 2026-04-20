@@ -23,11 +23,11 @@ If the order was paid by **Direct Sales - Debit or Credit** and the customer is 
 
 In this case, the order will not be canceled immediately. The time range is determined by the acquirer and can take from 30 minutes to 24 hours.
 
-## Scenario 2: the customer is in the store 
+## Scenario 2: the customer is in the store
 
-If the customer is in the store when requesting the cancellation, follow the steps below.
+If the customer is in the store when requesting the cancellation, follow the steps below:
 
-1. In the VTEX Sales App menu, click on <span id="svg-container"><svg alt="sprite-svg" xmlns="http://www.w3.org/2000/svg" style="width: 0px; height: 0px;"><symbol id="nc-bag-22" viewBox="0 0 16 16"><path fill="currentColor" d="M14 5.8c-.1-.5-.5-.8-1-.8h-1V4c0-2.2-1.8-4-4-4S4 1.8 4 4v1H3c-.5 0-.9.3-1 .8l-2 9c-.1.6.4 1.2 1 1.2h14c.6 0 1.1-.6 1-1.2l-2-9zM6 4c0-1.1.9-2 2-2s2 .9 2 2v1H6V4z"></path></symbol></svg><svg width="16" height="16" style="fill: rgb(125, 126, 128); color: rgb(125, 126, 128); vertical-align: middle;"><use xlink:href="#nc-bag-22"></use></svg></span> `Latest sales`.
+1. In the VTEX Sales App menu, click on `Latest sales`.
 2. In the order list, click on the order you want to cancel.
 3. Click on `Cancel the whole sale` to cancel the entire order, or `Cancel sale of this package` to cancel only the items in a specific package.
 4. In the confirmation screen, click on `Cancel the whole order` or `Cancel sale of this package` to proceed, depending on the option selected in the previous step.

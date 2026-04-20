@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-display-of-the-items-affected-by-a-promotion
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New view highlights the percentage of affected products when reviewing and saving a promotion.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 We updated the way promotion impact notifications are displayed in the VTEX Admin. Starting October 16, 2025, the promotion review step will more clearly and prominently display the number of products affected by each active promotion.

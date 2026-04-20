@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-documentacion-explora-los-aspectos-tecnicos-de-la-plataforma
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Descubre cómo nuestras decisiones de ingeniería pueden impulsar tu negocio en la documentación VTEX Platform Overview.'
+tags:
+  - Mejora
+  - Storefront
 ---
 
 Para facilitar el acceso a la información técnica sobre nuestra plataforma, publicamos VTEX Platform Overview, una nueva documentación que describe las principales características de VTEX en un solo lugar de forma clara y objetiva.

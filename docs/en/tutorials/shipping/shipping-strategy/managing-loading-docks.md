@@ -26,7 +26,7 @@ This article describes how to:
 * [Edit an existing loading dock](#editing-a-loading-dock).
 * [Delete a loading dock](#delete-a-loading-dock).
 
-To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [trade policy](/en/docs/tutorials/creating-a-trade-policy), a warehouse, and a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
+To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [sales channel](/en/docs/tutorials/creating-a-trade-policy), a warehouse, and a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
 > ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](/en/docs/tutorials/shipping-policy)</li><li>[Loading dock](/en/docs/tutorials/loading-dock)</li><li>[Warehouse](/en/docs/tutorials/warehouse)</li></ul>
 
@@ -44,7 +44,7 @@ Here are the fields you need to fill to add a new loading dock:
 
 * **Name:** the name of the loading dock.
 * **ID:** the loading dock identifier. If this field is left blank, an ID will be created automatically.
-* **[Shipping Policies](/en/docs/tutorials/shipping-policy) and [Trade Policies:](/en/docs/tutorials/creating-a-trade-policy)** select the shipping policy and the trade policy you want to associate with the loading dock. Please note that both policies must have been previously created.
+* **[Shipping Policies](/en/docs/tutorials/shipping-policy) and [Sales Channels:](/en/docs/tutorials/creating-a-trade-policy)** select the shipping policy and the sales channel you want to associate with the loading dock. Please note that both policies must have been previously created.
 * **Time and Priority: **
     * **Processing time:** time that will be considered when calculating delivery time. It is the time it takes for the product to arrive at the loading dock. Fill in the number of days, hours, and minutes.
     * **Time overhead:** the time that will be used to choose a loading dock when two or more loading docks have the same processing time. It is not considered when calculating delivery time. Fill in the number of days, hours, and minutes.

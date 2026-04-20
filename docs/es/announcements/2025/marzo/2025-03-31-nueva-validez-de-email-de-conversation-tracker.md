@@ -13,6 +13,9 @@ locale: es
 legacySlug: conversation-tracker-nueva-validez-de-email
 announcementImageID: 'undefined'
 announcementSynopsisES: 'El email alternativo de Conversation Tracker ahora vence cuando finaliza el flujo del pedido.'
+tags:
+  - Cambio disruptivo
+  - Pedidos
 ---
 
 Para optimizar la experiencia de los clientes VTEX y reforzar la seguridad, la dirección de email alternativa de Conversation Tracker ahora tiene una validez más corta.

@@ -13,6 +13,9 @@ locale: pt
 legacySlug: arquivamento-automatico-de-promocoes-inativas
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'A nova funcionalidade de arquivamento automático para promoções inativas auxilia o gerenciamento de promoções na loja.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 Visando melhorar a experiência de gerenciamento de promoções, a VTEX está implementando o arquivamento automático de promoções inativas. Esta funcionalidade permite que você tenha uma melhor organização e controle das promoções disponíveis em sua loja.

@@ -10,6 +10,9 @@ author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: 2026-02-25-creating-coupons-in-bulk
 locale: es
 announcementSynopsisPT: 'Creación de cupones en lote en el módulo Promociones, con mayor volumen admitido y menos operaciones manuales.'
+tags:
+  - Nueva funcionalidad
+  - Promociones
 ---
 
 El módulo Promociones permitirá la creación de [cupones](https://help.vtex.com/es/docs/tutorials/criar-cupom-beta) en masa. Esta actualización amplía el volumen admitido y reduce las operaciones manuales al crear campañas que requieren grandes cantidades de cupones.

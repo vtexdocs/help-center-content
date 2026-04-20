@@ -13,6 +13,9 @@ locale: pt
 legacySlug: chaves-de-api-nova-experiencia-com-foco-em-usabilidade-e-seguranca
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Gerencie suas chaves de API com mais segurança: nova interface, duração de tokens e opções de renovação e exclusão.'
+tags:
+  - Atualização de segurança
+  - Identity
 ---
 
 Introduzimos uma nova experiência de gerenciamento de [chaves de API](/pt/docs/tutorials/chaves-de-api) para proporcionar um controle mais eficiente sobre suas credenciais.

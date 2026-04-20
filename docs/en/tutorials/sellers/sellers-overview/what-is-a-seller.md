@@ -24,7 +24,7 @@ A __seller__ can sell its catalog in a third-party store, be it VTEX or not; thi
 
 In this scenario, the store responsible for the sale acts as a [marketplace](/en/tutorial/o-que-e-um-marketplace), completing the sale and receiving the payment from the customer, while the __seller__ ships the order.
 
-The product assortment sent to a __marketplace__ is set when choosing the [trade policy](/en/docs/tutorials/how-trade-policies-work).
+The product assortment sent to a __marketplace__ is set when choosing the [sales channel](/en/docs/tutorials/how-trade-policies-work).
 
 ## Seller types
 
