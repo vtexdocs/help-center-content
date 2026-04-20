@@ -9,20 +9,13 @@ firstPublishedAt: 2019-01-24T22:02:37.712Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slugEN: change-the-store-domain
+slugEN: changing-the-store-domain
 legacySlug: que-debo-hacer-para-cambiar-el-dominio-de-mi-tienda
 locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
 Cambiar el [dominio](es/docs/tutorials/configurar-dominio-de-la-tienda) de una tienda después del go live requiere una atención cuidadosa para minimizar problemas de SEO y garantizar una transición transparente, sin afectar la experiencia de los clientes.
-
-Consulta en las secciones a continuación más información sobre el proceso completo para cambiar tu dominio en VTEX:
-
-1. [Prerrequisitos](#prerrequisitos)
-2. [Configurar el nuevo dominio](#configurar-el-nuevo-dominio)
-3. [Eliminar el dominio antiguo](#eliminar-el-dominio-antiguo)
-4. [Redirigir el dominio antiguo](#redirigir-el-dominio-antiguo)
 
 > ⚠️ No remuevas ni modifiques el dominio existente hasta que la migración esté completamente finalizada y validada. Esto garantiza que la tienda permanezca accesible durante la transición, evitando la indisponibilidad.
 
@@ -48,7 +41,7 @@ La migración del dominio se realiza en los siguientes pasos:
 
 Agrega al nuevo dominio en License Manager sin remover el dominio anterior:
 
-1. Crea el nuevo host en el Admin VTEX siguiendo las instrucciones descritas en [Registrar un nuevo host](/es/docs/tutorials/configurar-dominio-de-la-tienda). En este punto, el DNS del nuevo dominio aún no debe apuntar a VTEX.
+1. Crea el nuevo host en el Admin VTEX siguiendo las instrucciones descritas en [Registrar un nuevo host](/es/docs/tutorials/configurar-dominio-de-la-tienda#registrar-un-nuevo-host). En este punto, el DNS del nuevo dominio aún no debe apuntar a VTEX.
 
 2. En el Admin VTEX, verifica la configuración de Checkout en **Configuración de la tienda > Storefront > Checkout**, según se describe en [Configurar template en SmartCheckout](/es/docs/tutorials/configurar-template-en-el-smartcheckout-update).
 
@@ -56,20 +49,17 @@ Agrega al nuevo dominio en License Manager sin remover el dominio anterior:
 
    Debes comprobar que los sitios web configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuentas**. Consulta [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta) para más detalles.
 
-   Debes comprobar que los sitios web configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuentas**. Consulta [Gestión de la cuenta](https://help.vtex.com/es/docs/tutorials/gestion-de-la-cuenta) para más detalles.
-
 > ⚠️ No elimines el dominio antiguo ni modifiques el DNS todavía.
-
-Pueden mantenerse ambos dominios (el antiguo y el nuevo) funcionando simultáneamente durante el periodo de transición, pero es importante tomar precauciones para evitar problemas como:
-
-* Confusión del cliente sobre cuál es el dominio oficial, lo que puede afectar negativamente la confianza y las ventas.
-* Impacto negativo en SEO, ya que los buscadores pueden interpretar que los dominios compiten entre sí.
 
 ## 2. Solicitar migración interna a VTEX
 
-Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) y solicita un apuntamiento interno. Debes proporcionar el nuevo dominio. Más información sobre [apuntamiento interno](https://help.vtex.com/es/docs/tracks/antes-del-go-live#solicitar-el-apuntamiento-io).
+Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) y solicita un apuntamiento interno. Debes proporcionar el nuevo dominio.
 
-Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento. VTEX realizará la migración interna garantizando que todos los registros DNS y configuraciones internas se propaguen correctamente.
+VTEX realizará la migración interna garantizando que todos los registros DNS y configuraciones internas se propaguen correctamente.
+
+Más información sobre [apuntamiento interno](https://help.vtex.com/es/docs/tracks/antes-del-go-live#solicitar-el-apuntamiento-io).
+
+Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento.
 
 Después de la confirmación del apuntamiento interno, realiza el apuntamiento del DNS a la CDN de VTEX siguiendo las instrucciones de la guía [Go live](https://help.vtex.com/es/docs/tracks/go-live).
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:37.712Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slugEN: change-the-store-domain
+slugEN: changing-the-store-domain
 legacySlug: o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja
 locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
