@@ -15,7 +15,7 @@ locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Changing your store [domain](/en/docs/tutorials/configure-the-store-domain) after go-live requires careful attention to minimize SEO issues and ensure a seamless transition without affecting the customer experience.
+Changing your store [domain](/en/docs/tutorials/configuring-the-store-domain) after go-live requires careful attention to minimize SEO issues and ensure a seamless transition without affecting the customer experience.
 
 Learn more about the complete process for changing your domain on VTEX in the following sections:
 
@@ -72,7 +72,7 @@ After confirming the new host's DNS propagation and internal pointing, delete th
 To ensure that all access to the previous domain is directed to the new domain, follow the instructions below:
 
 * Set up an HTTP 301 redirect that instructs browsers to forward requests to the new domain.
-* We recommend using tools such as [Redirect-301](https://www.redirect-301.com/pt/) to create the redirect.
+* We recommend using tools such as [Redirect-301](https://www.redirect-301.com/en/) to create the redirect.
 * Avoid using CNAME for redirects in the DNS dashboard. That setting doesn't guarantee proper redirection.
 
 > ⚠️ The first traffic to the new domain is often slower than expected due to the initial cache creation. This effect is temporary and normalizes over time.
