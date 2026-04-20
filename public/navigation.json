@@ -16244,13 +16244,13 @@
                 {
                   "name": {
                     "en": "Changing the store domain",
-                    "es": "Changing the store domain",
-                    "pt": "Changing the store domain"
+                    "es": "Cambiar el dominio de la tienda",
+                    "pt": "Alterar o domínio da loja"
                   },
                   "slug": {
                     "en": "changing-the-store-domain",
-                    "es": "",
-                    "pt": ""
+                    "es": "cambiar-el-dominio-de-la-tienda",
+                    "pt": "alterar-o-dominio-da-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16432,37 +16432,6 @@
                     "en": "renewing-api-tokens",
                     "es": "renovar-token-de-api",
                     "pt": "renovar-token-de-api"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Cuentas",
-                "es": "Cuentas",
-                "pt": "Contas"
-              },
-              "slug": {
-                "en": "cuentas",
-                "es": "cuentas-subcategoria",
-                "pt": "contas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Cambiar el dominio de la tienda",
-                    "pt": "Alterar o domínio da loja",
-                    "en": "Cambiar el dominio de la tienda"
-                  },
-                  "slug": {
-                    "es": "cambiar-el-dominio-de-la-tienda",
-                    "pt": "alterar-o-dominio-da-loja",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -46009,6 +45978,21 @@
                 "en": "orders-without-some-details-in-the-shipping-sla-object",
                 "es": "pedidos-sin-algunos-detalles-en-el-objeto-sla-de-envio",
                 "pt": "pedidos-sem-alguns-detalhes-no-objeto-sla-de-embarque"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Partial loyalty credit input wrong behavior Checkout UI when commercial policy has 0 decimal places",
+                "es": "Comportamiento incorrecto al introducir créditos de fidelidad parciales en la interfaz de pago cuando la política comercial tiene 0 decimales",
+                "pt": "Comportamento incorreto na inserção de crédito de fidelidade parcial na interface de checkout quando a política comercial tem 0 casas decimais"
+              },
+              "slug": {
+                "en": "partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places",
+                "es": "comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales",
+                "pt": "comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais"
               },
               "origin": "",
               "type": "markdown",
