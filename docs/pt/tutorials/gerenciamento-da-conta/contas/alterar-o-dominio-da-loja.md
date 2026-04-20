@@ -43,7 +43,7 @@ Adicione o novo domínio no License Manager sem remover o domínio anterior:
 
 1. Crie o novo host no Admin VTEX, seguindo o passo a passo descrito em [Cadastrar um novo host](/pt/docs/tutorials/configurar-o-dominio-da-loja#cadastrar-um-novo-host). Nesse momento, o DNS do novo domínio ainda não deve estar apontado para a VTEX.
 
-2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](/pt/docs/tutorials/configurar-template-no-smartcheckout-update). 
+2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](/pt/docs/tutorials/configurar-template-no-smartcheckout-update).
 
    Esse passo é fundamental para que o Checkout continue funcionando após a mudança.
 
