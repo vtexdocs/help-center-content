@@ -57,7 +57,7 @@ Se a sua loja utiliza [VTEX IO - Store Framework](https://developers.vtex.com/do
 
 A VTEX realizará a migração interna garantindo que todos os registros DNS e configurações internas sejam propagados corretamente.
 
-Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
+Saiba mais sobre [apontamento interno](/pt/docs/tracks/pre-go-live#solicitar-apontamento-io).
 
 Uma vez aberto o chamado, o time de suporte tem até três dias úteis para analisar as configurações e realizar o apontamento.
 
