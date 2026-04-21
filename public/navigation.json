@@ -16244,13 +16244,13 @@
                 {
                   "name": {
                     "en": "Changing the store domain",
-                    "es": "Changing the store domain",
-                    "pt": "Changing the store domain"
+                    "es": "Cambiar el dominio de la tienda",
+                    "pt": "Alterar o domínio da loja"
                   },
                   "slug": {
                     "en": "changing-the-store-domain",
-                    "es": "",
-                    "pt": ""
+                    "es": "cambiar-el-dominio-de-la-tienda",
+                    "pt": "alterar-o-dominio-da-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16441,37 +16441,6 @@
             },
             {
               "name": {
-                "en": "Cuentas",
-                "es": "Cuentas",
-                "pt": "Contas"
-              },
-              "slug": {
-                "en": "cuentas",
-                "es": "cuentas-subcategoria",
-                "pt": "contas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Cambiar el dominio de la tienda",
-                    "pt": "Alterar o domínio da loja",
-                    "en": "Cambiar el dominio de la tienda"
-                  },
-                  "slug": {
-                    "es": "cambiar-el-dominio-de-la-tienda",
-                    "pt": "alterar-o-dominio-da-loja",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Users",
                 "es": "Usuarios",
                 "pt": "Usuários"
@@ -16484,21 +16453,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Accessing a client's abandoned cart",
-                    "es": "Acceda al carrito abandonado de los clientes",
-                    "pt": "Acesse o carrinho abandonado dos clientes"
-                  },
-                  "slug": {
-                    "en": "accessing-a-client-abandoned-cart",
-                    "es": "acceda-al-carrito-abandonado-de-los-clientes",
-                    "pt": "acesse-o-carrinho-abandonado-dos-clientes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating a telesales user",
@@ -17946,6 +17900,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Creating recommendation lists (Beta)",
+                    "es": "Crear lista de recomendaciones (beta)",
+                    "pt": "Criar lista de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "creating-recommendation-lists",
+                    "es": "crear-lista-de-recomendaciones",
+                    "pt": "criar-lista-de-recomendacoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Product Recommendations (Beta)",
@@ -25169,6 +25138,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Accessing a client's abandoned cart",
+                    "es": "Acceder al carrito abandonado de los clientes",
+                    "pt": "Acessar o carrinho abandonado dos clientes"
+                  },
+                  "slug": {
+                    "en": "accessing-a-client-abandoned-cart",
+                    "es": "acceder-al-carrito-abandonado-de-los-clientes",
+                    "pt": "acessar-o-carrinho-abandonado-dos-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Adding a record on a Master Data form",
@@ -46001,6 +45985,21 @@
             },
             {
               "name": {
+                "en": "Partial loyalty credit input wrong behavior Checkout UI when commercial policy has 0 decimal places",
+                "es": "Comportamiento incorrecto al introducir créditos de fidelidad parciales en la interfaz de pago cuando la política comercial tiene 0 decimales",
+                "pt": "Comportamento incorreto na inserção de crédito de fidelidade parcial na interface de checkout quando a política comercial tem 0 casas decimais"
+              },
+              "slug": {
+                "en": "partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places",
+                "es": "comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales",
+                "pt": "comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Partial scheduled delivery window selection for the same SLA affecting the purchase flow",
                 "es": "Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra",
                 "pt": "Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra"
@@ -52563,12 +52562,12 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos",
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
                 "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
-                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos",
+                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-productos-de-los-sinonimos",
                 "pt": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos"
               },
               "origin": "",
