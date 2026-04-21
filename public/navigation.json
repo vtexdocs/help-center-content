@@ -64171,6 +64171,21 @@
             },
             {
               "name": {
+                "en": "Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion",
+                "es": "Cálculo incorrecto del regalo al combinar referencias elegibles en la promoción «Compra uno y llévate otro gratis»",
+                "pt": "Cálculo incorreto do brinde ao combinar SKUs elegíveis na promoção “Compre um, ganhe outro”"
+              },
+              "slug": {
+                "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
+                "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
+                "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Incorrect discount calculation for 'More for Less' with Max price after item split by previous promotion application",
                 "es": "Cálculo incorrecto del descuento para 'Más por menos' con precio máximo después de la división del artículo por la aplicación de promoción anterior.",
                 "pt": "Cálculo de desconto incorreto para 'Mais por menos' com preço máximo após a divisão do item pelo aplicativo de promoção anterior"
