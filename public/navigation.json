@@ -11022,7 +11022,7 @@
                   "name": {
                     "en": "3. Legacy CMS Portal",
                     "es": "3. CMS - Portal Legado",
-                    "pt": "3. CMS - Portal Legado"
+                    "pt": "3. CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "legacy-cms-portal",
@@ -44528,13 +44528,13 @@
             {
               "name": {
                 "en": "Broken carts when adding unavailable Assembly Option",
-                "es": "Carros rotos al añadir la opción de montaje no disponible",
-                "pt": "Carrinhos quebrados ao adicionar a opção de montagem indisponível"
+                "es": "Errores al añadir una opción de montaje no disponible",
+                "pt": "Erros no carrinho ao adicionar uma opção de montagem indisponível"
               },
               "slug": {
                 "en": "broken-carts-when-adding-unavailable-assembly-option",
-                "es": "carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible",
-                "pt": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel"
+                "es": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
+                "pt": "erros-no-carrinho-ao-adicionar-uma-opcao-de-montagem-indisponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -46522,6 +46522,21 @@
             },
             {
               "name": {
+                "en": "Partial loyalty credit input wrong behavior Checkout UI when commercial policy has 0 decimal places",
+                "es": "Comportamiento incorrecto al introducir créditos de fidelidad parciales en la interfaz de pago cuando la política comercial tiene 0 decimales",
+                "pt": "Comportamento incorreto na inserção de crédito de fidelidade parcial na interface de checkout quando a política comercial tem 0 casas decimais"
+              },
+              "slug": {
+                "en": "partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places",
+                "es": "comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales",
+                "pt": "comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Partial scheduled delivery window selection for the same SLA affecting the purchase flow",
                 "es": "Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra",
                 "pt": "Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra"
@@ -47055,6 +47070,21 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Race condition with GET OrderForm when user is authenticated and email is null",
+                "es": "Condición de carrera con GET OrderForm cuando el usuario está autenticado y el correo electrónico es nulo",
+                "pt": "Condição de corrida com GET OrderForm quando o usuário está autenticado e o e-mail é nulo"
+              },
+              "slug": {
+                "en": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+                "es": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+                "pt": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo"
               },
               "origin": "",
               "type": "markdown",
@@ -49284,7 +49314,7 @@
             },
             {
               "name": {
-                "en": "Amazon Listing Returns Code",
+                "en": "Amazon Listing Returns Code #13013 preventing SKU creation",
                 "es": "Amazon Listado Código de devolución",
                 "pt": "Amazon Listagem Código de devolução"
               },
@@ -50544,6 +50574,21 @@
             },
             {
               "name": {
+                "en": "Shopee Freight value mismatch on seller logistics orders",
+                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
+                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+              },
+              "slug": {
+                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
+                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shopee The level of tier-variation not change",
                 "es": "Shopee El nivel de tier-variación no cambia",
                 "pt": "Shopee O nível de variação de nível não muda"
@@ -51003,6 +51048,21 @@
                 "en": "pagination-on-searchpage-doesnt-reset-when-changing-search-context",
                 "es": "la-paginacion-en-la-pagina-de-busqueda-no-se-reinicia-al-cambiar-el-contexto-de-busqueda",
                 "pt": "a-paginacao-na-pagina-de-pesquisa-nao-e-redefinida-ao-alterar-o-contexto-da-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
+                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
+                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
+              },
+              "slug": {
+                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
               },
               "origin": "",
               "type": "markdown",
@@ -51906,6 +51966,21 @@
                 "en": "collection-searchtitle-doesnt-display-accents-when-accessed-through-mapproductclusternames",
                 "es": "el-titulo-de-busqueda-de-la-coleccion-no-muestra-los-acentos-cuando-se-accede-a-traves-de-mapproductclusternames",
                 "pt": "pesquisa-de-colecao-o-titulo-nao-exibe-acentos-quando-acessado-atraves-de-mapproductclusternames"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Collection title is not displayed when accessing through ?map=productClusterIds query in multilanguage accounts",
+                "es": "El título de la colección no se muestra al acceder a través de la consulta «?map=productClusterIds» en cuentas multilingües",
+                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues"
+              },
+              "slug": {
+                "en": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
+                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+                "pt": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues"
               },
               "origin": "",
               "type": "markdown",
@@ -53039,12 +53114,12 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos",
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
                 "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
-                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos",
+                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-productos-de-los-sinonimos",
                 "pt": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos"
               },
               "origin": "",
@@ -62169,7 +62244,7 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
                 "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
@@ -64648,6 +64723,21 @@
             },
             {
               "name": {
+                "en": "Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion",
+                "es": "Cálculo incorrecto del regalo al combinar referencias elegibles en la promoción «Compra uno y llévate otro gratis»",
+                "pt": "Cálculo incorreto do brinde ao combinar SKUs elegíveis na promoção “Compre um, ganhe outro”"
+              },
+              "slug": {
+                "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
+                "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
+                "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Incorrect discount calculation for 'More for Less' with Max price after item split by previous promotion application",
                 "es": "Cálculo incorrecto del descuento para 'Más por menos' con precio máximo después de la división del artículo por la aplicación de promoción anterior.",
                 "pt": "Cálculo de desconto incorreto para 'Mais por menos' com preço máximo após a divisão do item pelo aplicativo de promoção anterior"
@@ -65829,6 +65919,21 @@
                 "en": "comment-vtexcrm-field-is-not-showing-its-content",
                 "es": "el-campo-vtexcrm-no-muestra-su-contenido",
                 "pt": "comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CRM UI relationship field search fails when related field is Auto Increment",
+                "es": "La búsqueda en el campo de relación de la interfaz de usuario de CRM falla cuando el campo relacionado es de autoincremento",
+                "pt": "A pesquisa no campo de relação da interface do usuário do CRM falha quando o campo relacionado é de incremento automático"
+              },
+              "slug": {
+                "en": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+                "es": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+                "pt": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico"
               },
               "origin": "",
               "type": "markdown",
