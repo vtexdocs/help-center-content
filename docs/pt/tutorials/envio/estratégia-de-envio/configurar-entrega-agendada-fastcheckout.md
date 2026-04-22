@@ -2,7 +2,7 @@
 title: 'Configurar entrega agendada no FastCheckout'
 status: PUBLISHED
 createdAt: 2026-04-22T00:00:00.000Z
-updatedAt: 
+updatedAt: 2026-04-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-scheduled-delivery-fastcheckout
@@ -11,15 +11,18 @@ locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-> ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o B2B Buyer Portal, que atualmente está disponível para contas selecionadas.
+> ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal), que atualmente está disponível para contas selecionadas.
 
 A entrega agendada no FastCheckout permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
-![Entrega agendada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
+> ⚠️ Para que a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e a [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) funcionem corretamente, você deve observar que:
+>
+> - A soma {[account name](/pt/docs/tutorials/o-que-e-account-name)} + {ID da política de envio} não pode exceder 60 caracteres.
+> - Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
 
 Este artigo apresenta como configurar a entrega agendada em uma política de envio existente ou em uma nova política de envio.
 
-> ⚠️ Para que a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e a [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) funcionem corretamente, você deve observar que:<ul><li>A soma {[account name](/pt/docs/tutorials/o-que-e-account-name)} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).</li></ul>
+![Entrega agendada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
 
 ## Janelas de envio
 
