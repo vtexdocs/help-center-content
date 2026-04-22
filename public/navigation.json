@@ -33574,6 +33574,37 @@
             },
             {
               "name": {
+                "en": "Estratégia de envio",
+                "es": "Estratégia de envio",
+                "pt": "Estratégia de envio"
+              },
+              "slug": {
+                "en": "estrategia-de-envio",
+                "es": "estrategia-de-envio",
+                "pt": "estratégia-de-envio-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Configurar entrega agendada no FastCheckout",
+                    "en": "Configurar entrega agendada no FastCheckout",
+                    "es": "Configurar entrega agendada no FastCheckout"
+                  },
+                  "slug": {
+                    "pt": "configurar-entrega-agendada-fastcheckout",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Inventory and Shipping Settings",
                 "es": "Configuración de inventario y envío",
                 "pt": "Configurações de Estoque e Entrega"
