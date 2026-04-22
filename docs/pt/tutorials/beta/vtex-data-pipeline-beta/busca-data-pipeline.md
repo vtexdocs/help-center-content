@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
-O modelo de dados `busca` contém informações abrangentes sobre consultas de busca, resultados e interações dos usuários com a plataforma Intelligent Search. Esses dados permitem a análise de desempenho de busca, descoberta de produtos, taxas de clique e conversão de busca para compra.
+O modelo de dados `busca` contém informações abrangentes sobre consultas de busca, resultados e interações dos usuários com a plataforma Intelligent Search. Esses dados permitem a análise do desempenho de busca, da descoberta de produtos, das taxas de clique e de conversão de busca para compra.
 
 Nesta seção você encontra as seguintes informações:
 
@@ -46,9 +46,9 @@ Nesta seção você encontra as seguintes informações:
 
 O modelo de dados de busca é composto por três tipos de tabela, cada uma com um papel específico:
 
-- **Tabelas fato:** armazenam eventos que aconteceram. Cada linha é um registro de uma ação — uma busca realizada, um clique em um produto ou uma impressão exibida. São as tabelas com maior volume de dados e o ponto de partida para a maioria das análises. Exemplo: na tabela `request`, cada linha registra uma busca feita por um comprador, com o termo pesquisado, filtros aplicados e timestamp do evento.
+- **Tabelas fato:** armazenam eventos que aconteceram. Cada linha é um registro de uma ação — uma busca realizada, um clique em um produto ou uma impressão exibida. São as tabelas com maior volume de dados e o ponto de partida para a maioria das análises. Exemplo: na tabela `request`, cada linha registra uma busca feita por um comprador, com o termo pesquisado, os filtros aplicados e o timestamp do evento.
 - **Tabelas ponte:** estabelecem relacionamentos entre duas entidades. Não possuem dados de negócio próprios, apenas chaves que conectam registros de outras tabelas. Exemplo: a tabela `impression_click` contém apenas `impression_id` e `click_id`, permitindo responder "quais impressões geraram cliques?" sem duplicar dados de nenhuma das duas tabelas originais.
-- **Tabelas dimensão:** armazenam atributos descritivos e configurações que contextualizam os eventos.Este tipo de tabela muda com menos frequência e têm menor volume de dados. Exemplo: a tabela `request_setting` indica qual cluster Elasticsearch processou a busca e quais flags estavam ativas, como `hide_unavailable_items` ou `merchandising_rules_enabled`, permitindo analisar como diferentes configurações impactam os resultados.
+- **Tabelas dimensão:** armazenam atributos descritivos e configurações que contextualizam os eventos. Este tipo de tabela muda com menos frequência e possui menor volume de dados. Exemplo: a tabela `request_setting` indica qual cluster do [Elasticsearch](https://www.elastic.co/elasticsearch) processou a busca e quais flags estavam ativas, como `hide_unavailable_items` ou `merchandising_rules_enabled`, permitindo analisar como diferentes configurações impactam os resultados.
 
 O diagrama abaixo mostra como as tabelas se organizam por tipo e se conectam entre si:
 
@@ -101,7 +101,7 @@ flowchart TB
 
 Veja abaixo três fluxos distintos de utilização dos dados
 
-- Fluxo 1: representa a jornada de uma requisição de busca e os detalhes que a compõem. Exemplo: um comprador busca "tênis corrida" com filtros de marca e preço.
+- Fluxo 1: representa a jornada de uma requisição de busca e os detalhes que a compõem. Exemplo: um comprador busca "tênis de corrida" com filtros de marca e preço.
 
 ```mermaid
 flowchart TD
@@ -158,7 +158,7 @@ flowchart TD
 
 ## Tabela: request
 
-Armazena as informações centrais sobre consultas de busca realizadas pelos compradores, incluindo texto da consulta, filtros, ordenação, paginação e configuração de busca. Cada linha representa um único evento de requisição de busca. Nem todas as requisições de busca feitas no frontend são registradas nesta tabela, pois algumas requisições são servidas a partir do cache e não são registradas.
+Armazena as informações centrais das consultas de busca realizadas pelos compradores, incluindo o texto da consulta, filtros, ordenação, paginação e configuração de busca. Cada linha representa um único evento de requisição de busca. Nem todas as requisições de busca feitas no frontend são registradas nesta tabela, pois algumas requisições são servidas a partir do cache e não são registradas.
 
 >'Bloom filters' estão habilitados nas seguintes colunas: <code>search_id</code>, <code>account_name</code>, <code>query</code>. <br>Os 'Bloom filters' ajudam a ignorar arquivos de dados que não contêm valores correspondentes, melhorando significativamente o desempenho das consultas para predicados de igualdade nessas colunas.
 
@@ -167,14 +167,14 @@ Os campos da tabela são descritos abaixo:
 | **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
 |:---:|:---:|:---:|
 | search_id | string | UUID da busca. Identificador único para cada requisição de busca, utilizado para fazer junção com tabelas de resposta e outras tabelas relacionadas à busca. |
-| account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
+| account_name | string | Nome da conta em que a busca foi realizada. Identifica a qual loja a busca pertence. |
 | event_time | timestamp | Timestamp do evento de busca. Representa quando a requisição de busca foi recebida e processada pela API de busca. |
-| origin | string | Origem da requisição. Indica de onde a busca se originou, como 'autocomplete', 'search' ou outros pontos de entrada. Utilizado para entender padrões de comportamento de busca do usuário. |
+| origin | string | Origem da requisição. Indica de onde a busca se originou, como 'autocomplete', 'search' ou outros pontos de entrada. É utilizado para entender os padrões de comportamento de busca do usuário. |
 | default_locale | string | Locale padrão do tenant. A configuração padrão de idioma e região da loja (ex.: 'en-US', 'pt-BR'). |
-| locale | string | Locale solicitado pelo comprador. A configuração específica de idioma e região solicitada para esta busca (ex.: 'en-US', 'pt-BR'). Pode diferir do default_locale se o usuário selecionou um idioma diferente. |
+| locale | string | Locale solicitado pelo comprador. A configuração específica de idioma e região solicitada para esta busca (ex.: 'en-US', 'pt-BR'). Pode diferir do `default_locale` se o usuário selecionar um idioma diferente. |
 | query | string | String de consulta de texto completo inserida pelo comprador. O termo ou frase de busca utilizado para encontrar produtos. Pode estar vazio para buscas que utilizam apenas consultas por campo ou filtros. |
 | operator | string | Operador da consulta. Define como múltiplos termos de busca são combinados: 'and' exige que todos os termos correspondam, 'or' exige que pelo menos um termo corresponda. |
-| fuzzy | string | Nível de tolerância a erros da consulta. Controla a tolerância da busca a erros de digitação e ortografia. Pode ser '0' (correspondência exata), '1' (diferença de um caractere), '2' (diferença de dois caracteres) ou 'auto' (cálculo automático). |
+| fuzzy | string | Nível de tolerância aos erros da consulta. Controla a tolerância da busca a erros de digitação e ortografia. Pode ser '0' (correspondência exata), '1' (diferença de um caractere), '2' (diferença de dois caracteres) ou 'auto' (cálculo automático). |
 | sort_field | string | Campo do produto utilizado para ordenar os resultados. O campo pelo qual os resultados da busca são ordenados, como 'relevance', 'price', 'name' ou outros atributos de produto. |
 | sort_order | string | Direção da ordenação dos resultados. Especifica se os resultados são ordenados em ordem ascendente ('asc') ou descendente ('desc') com base no sort_field. |
 | page | int | Número da página atual nos resultados da busca. Utilizado para paginação, começando pela página 1. Cada página é considerada uma requisição de busca separada. |
@@ -194,18 +194,18 @@ Os campos da tabela são descritos abaixo:
 
 | **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
 |:---:|:---:|:---:|
-| search_id | string | UUID da busca. Identificador único vinculando esta resposta à requisição de busca correspondente. |
-| account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
+| search_id | string | UUID da busca. Identificador único que vincula esta resposta à requisição de busca correspondente. |
+| account_name | string | Nome da conta em que a busca foi realizada. Identifica a qual loja a busca pertence. |
 | event_time | timestamp | Timestamp do evento de busca. Representa quando a requisição de busca foi recebida e processada pela API de busca. |
-| redirect | string | URL de redirecionamento, se aplicável. Quando uma busca aciona uma regra de redirecionamento (ex.: páginas de marca específicas), este campo contém a URL de redirecionamento. Nulo se nenhum redirecionamento ocorreu. |
+| redirect | string | URL de redirecionamento, se aplicável. Esse campo é preenchido quando uma busca ativa uma regra de redirecionamento (por exemplo, para páginas específicas de marca). Caso contrário, retorna null. |
 | latency | int | Latência da resposta em milissegundos. Mede o tempo necessário para processar e retornar os resultados da busca. |
-| misspelled | boolean | Indica se há uma palavra com erro de ortografia na consulta. |
-| match | int | Número de produtos correspondentes. Total de produtos que corresponderam à consulta de busca e filtros. |
-| operator | string | Operador da consulta após fallback. O operador real utilizado após qualquer lógica de fallback ou correção de consulta ter sido aplicada. |
-| fuzzy | string | Nível de tolerância da consulta após fallback. O nível real de tolerância aplicado após qualquer processamento de consulta ou lógica de fallback. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
-| batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
+| misspelled | boolean | Indica se há uma palavra com erro ortográfico na consulta. |
+| match | int | Quantidade de produtos correspondentes. Representa o total de itens que correspondem à busca e aos filtros aplicados. |
+| operator | string | Operador da consulta após fallback. Indica o operador utilizado após a aplicação de fallback ou correções na busca. |
+| fuzzy | string | Nível de tolerância da consulta após fallback. Representa o valor final de tolerância usado depois de qualquer processamento da consulta ou da lógica de fallback. |
+| record_created_at | timestamp | Data e hora em que este registro foi criado no Lake House. |
+| record_updated_at | timestamp | Data e hora da última atualização deste registro no Lake House. |
+| batch_id | timestamp | Identificador gerado no momento em que os dados são carregados na tabela. É usado para controle de qualidade da ingestão e também como chave de partição. |
 
 ## Tabela: response_product
 
