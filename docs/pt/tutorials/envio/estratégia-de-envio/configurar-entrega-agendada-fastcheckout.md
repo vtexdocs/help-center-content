@@ -7,7 +7,6 @@ publishedAt:
 firstPublishedAt: 
 contentType: tutorial
 productTeam: Post-purchase
-author: 
 slugEN: configure-scheduled-delivery-fastcheckout
 legacySlug: 
 locale: pt
