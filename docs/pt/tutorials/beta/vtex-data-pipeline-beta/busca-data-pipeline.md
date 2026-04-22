@@ -3,7 +3,7 @@ title: 'Busca e Recomendações Data Pipeline'
 id: 7ARDELPaugrBu5dZT7Vx2b
 status: PUBLISHED
 createdAt: 2026-04-06T013:39:00.000Z
-updatedAt: 2026-04-06T013:39:00.000Z
+updatedAt: 2026-04-22T013:39:00.000Z
 publishedAt: 2026-05-25T08:00:00.000Z
 firstPublishedAt: 2026-05-25T08:00:00.000Z
 contentType: tutorial
@@ -159,8 +159,6 @@ flowchart TD
 ## Tabela: request
 
 Armazena as informações centrais das consultas de busca realizadas pelos compradores, incluindo o texto da consulta, filtros, ordenação, paginação e configuração de busca. Cada linha representa um único evento de requisição de busca. Nem todas as requisições de busca feitas no frontend são registradas nesta tabela, pois algumas requisições são servidas a partir do cache e não são registradas.
-
->'Bloom filters' estão habilitados nas seguintes colunas: <code>search_id</code>, <code>account_name</code>, <code>query</code>. <br>Os 'Bloom filters' ajudam a ignorar arquivos de dados que não contêm valores correspondentes, melhorando significativamente o desempenho das consultas para predicados de igualdade nessas colunas.
 
 Os campos da tabela são descritos abaixo:
 
