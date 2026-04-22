@@ -1,7 +1,7 @@
 ---
 title: 'Contract settings'
 createdAt: '2026-03-14T10:00:00.000Z'
-updatedAt: '2026-03-14T10:00:00.000Z'
+updatedAt: '2026-04-22T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: contract-settings
