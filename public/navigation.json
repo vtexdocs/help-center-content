@@ -18206,21 +18206,6 @@
                 },
                 {
                   "name": {
-                    "pt": "Busca e Recomendações Data Pipeline",
-                    "en": "Busca e Recomendações Data Pipeline",
-                    "es": "Busca e Recomendações Data Pipeline"
-                  },
-                  "slug": {
-                    "pt": "busca-data-pipeline",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Cart Availability Data Pipeline",
                     "es": "Disponibilidad de carrito Data Pipeline",
                     "pt": "Disponibilidade de carrinho Data Pipeline"
