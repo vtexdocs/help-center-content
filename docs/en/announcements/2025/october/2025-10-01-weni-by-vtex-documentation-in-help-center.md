@@ -13,6 +13,9 @@ locale: en
 legacySlug: weni-by-vtex-documentation-in-the-help-center
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The documentation for Weni by VTEX products can now be accessed in the Help Center.'
+tags:
+  - Improvement
+  - Orders
 ---
 
 To provide a unified and accessible documentation experience, we integrated all documentation for Weni by VTEX products and features into the VTEX Help Center.

@@ -21,7 +21,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 1. In the VTEX Admin, access **Storefront > Pages**
 
-> ⚠️ If your store has multiple trade policies or is a cross-border store, select the [binding](/en/docs/tutorials/what-is-binding) corresponding to the store to which you want to add a new landing page using the dropdown menu displayed at the top right. 
+> ⚠️ If your store has multiple sales channels or is a cross-border store, select the [binding](/en/docs/tutorials/what-is-binding) corresponding to the store to which you want to add a new landing page using the dropdown menu displayed at the top right. 
 
 2.Click **CREATE NEW**.
 

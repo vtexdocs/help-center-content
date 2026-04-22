@@ -22,7 +22,7 @@ In this article, we'll explain the steps required to set up a More for Less prom
 - [Creating a More for Less promotion](#creating-a-more-for-less-promotion)
 - [Configuring general information](#configuring-general-information)
 		- [Defining participating sellers](#defining-participating-sellers)
-		- [Selecting trade policies for the discount](#selecting-trade-policies-for-the-discount)
+		- [Selecting sales channels for the discount](#selecting-trade-policies-for-the-discount)
 
 - [Configuring the More for Less promotion](#configuring-the-more-for-less-promotion)
 		- [Advanced settings](#advanced-settings)
@@ -67,21 +67,21 @@ Select one of the following options to apply the promotion:
 
 For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
-### Selecting trade policies for the discount
+### Selecting sales channels for the discount
 
-Select the trade policies valid for the discount. You can offer discounts for trade policies where  
+Select the sales channels valid for the discount. You can offer discounts for sales channels where  
 [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
-- **Equal to:** Select the trade policies you want to include in the promotion.  
+- **Equal to:** Select the sales channels you want to include in the promotion.  
   This option allows you to determine the policies that will apply to the products eligible for the discount.
 
-- **Different from:** Selects the trade policies you want to exclude from the promotion.  
+- **Different from:** Selects the sales channels you want to exclude from the promotion.  
   This option removes specific policies, ensuring the discount is not applied to products that use those business rules.
 
-- **All:** Select this option to apply the promotion to all trade policies without any restriction.  
-  All products, regardless of their associated trade policy, will be included in the promotion.
+- **All:** Select this option to apply the promotion to all sales channels without any restriction.  
+  All products, regardless of their associated sales channel, will be included in the promotion.
 
 ## Configuring the More for Less promotion
 

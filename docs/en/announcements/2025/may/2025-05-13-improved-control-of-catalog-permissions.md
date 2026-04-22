@@ -13,6 +13,10 @@ locale: en
 legacySlug: improved-control-of-catalog-permissions
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New resources in the Catalog License Manager, now more intuitive and with unified access via VTEX Admin or API.'
+tags:
+  - Improvement
+  - Catalog
+  - Identity
 ---
 
 We've updated the [License Manager resources](/en/docs/tutorials/license-manager-resources) associated with Catalog to enhance permission management. See the main changes below:

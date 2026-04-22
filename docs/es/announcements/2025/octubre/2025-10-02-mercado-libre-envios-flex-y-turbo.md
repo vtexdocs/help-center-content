@@ -13,6 +13,10 @@ locale: es
 legacySlug: mercado-libre-envios-flex-y-turbo
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Entrega más rápida en Mercado Libre: activa Flex y Turbo en VTEX Admin.'
+tags:
+  - Nueva funcionalidad
+  - Marketplace
+  - Integraciones
 ---
 
 Desarrollamos esta funcionalidad para que los clientes VTEX puedan activar las modalidades logísticas **Envíos Flex** y **Envíos Turbo** en los productos vendidos en Mercado Libre.

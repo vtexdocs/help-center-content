@@ -13,6 +13,10 @@ locale: es
 legacySlug: site-editor-y-multimedia-nuevo-requisito-de-autorizacion
 announcementImageID: 'undefined'
 announcementSynopsisES: 'CMS GraphQL API es obligatorio para la gestión de contenido. Actualiza los roles según corresponda.'
+tags:
+  - Cambio disruptivo
+  - Storefront
+  - Identity
 ---
 
 A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a [Site Editor](/es/docs/tutorials/site-editor-vision-general) y [Multimedia](/es/docs/tutorials/multimedia-vision-general) tengan el [recurso](/es/docs/tutorials/recursos-del-license-manager) de License Manager `CMS GraphQL API` agregado a sus [roles](/es/docs/tutorials/roles).

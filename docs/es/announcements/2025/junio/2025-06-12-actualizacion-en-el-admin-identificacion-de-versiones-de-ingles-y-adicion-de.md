@@ -13,6 +13,9 @@ locale: es
 legacySlug: actualizacion-en-el-admin-identificacion-de-versiones-de-ingles-y-adicion-de
 announcementImageID: 'undefined'
 announcementSynopsisES: 'identificación de versiones de inglés y adición de polaco'
+tags:
+  - Mejora
+  - Admin
 ---
 
 ## ¿Qué cambió?

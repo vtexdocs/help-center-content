@@ -28,7 +28,7 @@ Para garantir a segurança e a privacidade das informações, existem papéis di
 
 O _Data Processing Addendum_ (DPA) é o contrato entre o controlador de dados (lojista) e o operador (VTEX), com o objetivo de regular como a VTEX trata dados pessoais em nome do lojista.
 
-Esse documento é um anexo ao [Master Services Agreement (MSA)](https://vtex.com/br-pt/trust/agreements), contrato que regula a relação entre a VTEX e os lojistas e que estabelece as regras para uso da plataforma VTEX e de quaisquer outros serviços ou produtos contratados.
+Esse documento é um anexo ao [Master Services Agreement (MSA)](https://vtex.com/pt-br/trust/contratos), contrato que regula a relação entre a VTEX e os lojistas e que estabelece as regras para uso da plataforma VTEX e de quaisquer outros serviços ou produtos contratados.
 
 O DPA segue o padrão da [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/), a legislação mais restritiva sobre privacidade de dados.
 

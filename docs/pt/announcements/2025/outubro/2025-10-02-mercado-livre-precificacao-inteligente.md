@@ -13,6 +13,10 @@ locale: pt
 legacySlug: mercado-livre-precificacao-inteligente
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Automatize a atualização estratégica dos preços dos produtos da sua loja com a Precificação inteligente.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
+  - Integrações
 ---
 
 Integramos a funcionalidade **Precificação inteligente** para ajudar o seller a tornar os  preços dos produtos mais competitivos no Mercado Livre de forma automatizada.

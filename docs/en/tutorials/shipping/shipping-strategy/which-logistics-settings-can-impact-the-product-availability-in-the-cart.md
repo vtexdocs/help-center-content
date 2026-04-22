@@ -46,7 +46,7 @@ By adopting any of the following inventory strategies, you can ensure product av
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the unavailability could be due to a lack of stock.
 
-> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
+> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [sales channel](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
 
 ## Shipping strategy
 
@@ -59,7 +59,7 @@ In terms of shipping strategy, the list below shows the main situations that lea
 * Inactive [loading dock](/en/docs/tutorials/loading-dock).
 * Warehouse not associated with a dock.
 * Loading dock not associated with the shipping policy.
-* Loading dock not associated with the [trade policy](/en/docs/tutorials/how-trade-policies-work) that determines the products displayed on the product listing page.
+* Loading dock not associated with the [sales channel](/en/docs/tutorials/how-trade-policies-work) that determines the products displayed on the product listing page.
 
 > ℹ️ These situations must be considered in the context of the sale. Having an inactive warehouse does not make the product unavailable, but if it is the only one warehouse serving as the shipping route and is inactive, the product becomes unavailable in the cart.
 

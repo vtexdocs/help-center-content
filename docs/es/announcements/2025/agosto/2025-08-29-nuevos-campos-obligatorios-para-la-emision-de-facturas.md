@@ -13,6 +13,10 @@ locale: es
 legacySlug: nuevos-campos-obligatorios-para-la-emision-de-facturas
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevos campos obligatorios en la Orders API aseguran el cumplimiento fiscal y evitan rechazos de facturas.'
+tags:
+  - Cambio disruptivo
+  - Pedidos
+  - Integraciones
 ---
 
 > ℹ️ Los cambios aplican únicamente a tiendas en Brasil.

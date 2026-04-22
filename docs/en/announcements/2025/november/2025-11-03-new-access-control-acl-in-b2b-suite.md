@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-access-control-acl-in-b2b-suite
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Implementation of access control (ACL) in B2B Suite, with new permissions for user and organization management.'
+tags:
+  - New feature
+  - B2B
 ---
 
 As of November 4, 2025, the **B2B Suite** now features a new permission-based access control (ACL Access Control List). This update improves the security and management of users and purchasing organizations, ensuring that only authorized [roles](/en/docs/tutorials/roles) can view or edit store information.

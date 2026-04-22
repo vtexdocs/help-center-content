@@ -13,6 +13,9 @@ locale: en
 legacySlug: changes-in-vtex-support-service-policy
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Now, the main channel to open a ticket is the VTEX Community.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 > ℹ️ This content is being translated.

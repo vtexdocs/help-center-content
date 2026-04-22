@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novos-requisitos-do-google-e-yahoo-para-remetentes-de-emails-em-massa
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novas exigências do Google e do Yahoo para os remetentes de emails em massa.'
+tags:
+  - Breaking change
+  - Pedidos
 ---
 
 O Google e o Yahoo estão implementando novas exigências para os remetentes de emails em massa. O objetivo é garantir mais segurança aos destinatários, diminuir o volume de spam e oferecer melhor experiência para os usuários.

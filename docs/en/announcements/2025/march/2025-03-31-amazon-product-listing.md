@@ -13,6 +13,10 @@ locale: en
 legacySlug: amazon-listing-new-product-listing-model
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Discover the new VTEX Admin module designed to streamline product listing on Amazon.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 **Amazon Listing** is a new VTEX Admin module designed to make the process of listing products to Amazon more agile and efficient. It allows sellers to send new products efficiently and with a low error rate, guaranteeing smooth integration between VTEX and Amazon.

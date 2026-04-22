@@ -13,6 +13,10 @@ locale: en
 legacySlug: improved-permission-management-in-the-promotions-module
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Change in Admin permissions to edit promotions with shipping and payment methods.'
+tags:
+  - Improvement
+  - Promotions
+  - Identity
 ---
 
 To strengthen platform security and ensure proper role management, we’ve updated the permissions required to edit certain promotion conditions. From now on, specific actions in the promotions form require [additional License Manager resources](/en/docs/tutorials/license-manager-resources).

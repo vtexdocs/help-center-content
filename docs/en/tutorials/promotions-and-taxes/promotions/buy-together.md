@@ -44,7 +44,7 @@ In this article, we'll go through the steps to create and configure a Buy Togeth
 - [Create promotion](#creating-promotion)
 - [Promotion overview](#promotion-overview)
   - [Sellers](#sellers)
-  - [Trade policy](#trade-policy)
+  - [Sales channel](#trade-policy)
 - [Lists of Buy Together items and their discounts](#lists-of-Buy-Together-items-and-their-discounts)
 - [Conditions](#conditions)
 - [Restrictions](#restrictions)
@@ -81,15 +81,15 @@ Define whether the promotion will apply to all sellers or only to selected ones.
 
 For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
-### Trade policies
+### Sales channels
 
-Select the trade policies that will offer the discount. You can offer discounts for trade policies where [your store acts as a marketplace](/en/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](/en/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
+Select the sales channels that will offer the discount. You can offer discounts for sales channels where [your store acts as a marketplace](/en/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](/en/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
-- **Equal to:** Select the trade policies you want to include in the promotion. This option allows you to determine which policies will apply to the products eligible for the discount.
-- **Different from:** Select the trade policies you want to exclude from the promotion. This option removes specific policies, ensuring the discount is not applied to products that follow them.
-- **All:** Select this option to apply the promotion to all trade policies without restrictions. All products, regardless of their associated trade policy, will be included in the promotion.
+- **Equal to:** Select the sales channels you want to include in the promotion. This option allows you to determine which policies will apply to the products eligible for the discount.
+- **Different from:** Select the sales channels you want to exclude from the promotion. This option removes specific policies, ensuring the discount is not applied to products that follow them.
+- **All:** Select this option to apply the promotion to all sales channels without restrictions. All products, regardless of their associated sales channel, will be included in the promotion.
 
 ## Lists of Buy Together items and their discounts
 

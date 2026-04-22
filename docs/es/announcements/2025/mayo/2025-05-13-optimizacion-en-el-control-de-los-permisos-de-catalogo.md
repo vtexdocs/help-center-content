@@ -13,6 +13,10 @@ locale: es
 legacySlug: optimizacion-en-el-control-de-los-permisos-de-catalogo
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevos recursos del License Manager de Catálogo, más intuitivas y con acceso unificado por Admin VTEX o API.'
+tags:
+  - Mejora
+  - Catálogo
+  - Identity
 ---
 
 Actualizamos los [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager) relacionados con el módulo Catálogo para mejorar la gestión de permisos. Estos son los principales cambios: 

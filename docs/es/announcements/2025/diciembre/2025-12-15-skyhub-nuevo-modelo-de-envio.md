@@ -12,6 +12,9 @@ locale: es
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Actualización obligatoria para el nuevo modelo de envío de Skyhub. '
+tags:
+  - Nueva funcionalidad
+  - Integraciones
 ---
 
 > Contenido regional disponible solo para Brasil.
