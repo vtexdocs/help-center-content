@@ -1,5 +1,5 @@
 ---
-title: 'CMS - Portal Legado'
+title: 'CMS Portal (Legado)'
 id: 1oN446gRGcR2s70RvBCAmj
 status: PUBLISHED
 createdAt: 2022-01-10T20:17:10.358Z
@@ -14,6 +14,16 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 order: 3
 ---
+
+O CMS Portal (Legado) foi o primeiro Content Management System (CMS) da VTEX e não está mais em desenvolvimento ativo. Se você está configurando uma nova loja, recomendamos usar uma de nossas soluções de CMS modernas.
+
+Se você está usando o CMS Portal Legado, pode continuar acessando e gerenciando o conteúdo da sua loja usando este guia. No entanto, para novas funcionalidades e recursos modernos, considere migrar para uma das soluções a seguir:
+
+- **[CMS](https://developers.vtex.com/docs/guides/cms-for-faststore-storefronts):** solução recomendada de CMS para lojas desenvolvidas com [FastStore](https://developers.vtex.com/docs/guides/faststore). Possui recursos avançados como controle de versão, ferramentas de colaboração, branches de conteúdo, gerenciamento centralizado de mídia e suporte multi-canal.
+
+- **[Site Editor](/pt/docs/tutorials/site-editor-visao-geral):** solução de CMS para lojas lojas desenvolvidas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Possui gerenciamento intuitivo de conteúdo visual sem exigir alterações de código.
+
+Neste guia, você aprenderá como usar o CMS Portal (Legado) para gerenciar o conteúdo da sua loja, incluindo a criação e organização de layouts, a configuração de páginas e estrutura de pastas, além de conhecer os controles nativos da VTEX disponíveis para templates.
 
 ## Layout
 
