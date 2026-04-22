@@ -1,6 +1,5 @@
 ---
 title: 'Configurar entrega agendada no FastCheckout'
-id: 
 status: PUBLISHED
 createdAt: 2026-04-22T00:00:00.000Z
 updatedAt: 
