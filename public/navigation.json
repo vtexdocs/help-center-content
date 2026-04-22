@@ -50865,6 +50865,21 @@
             },
             {
               "name": {
+                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
+                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
+                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
+              },
+              "slug": {
+                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product page sessions not working",
                 "es": "Las sesiones de las páginas de productos no funcionan",
                 "pt": "As sessões da página do produto não estão funcionando"
