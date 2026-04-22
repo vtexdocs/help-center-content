@@ -17292,7 +17292,7 @@
                 {
                   "name": {
                     "en": "Contract settings",
-                    "es": "Configuraciones del contrato",
+                    "es": "Configuración del contrato",
                     "pt": "Configurações do contrato"
                   },
                   "slug": {
@@ -50511,6 +50511,21 @@
                 "en": "pagination-on-searchpage-doesnt-reset-when-changing-search-context",
                 "es": "la-paginacion-en-la-pagina-de-busqueda-no-se-reinicia-al-cambiar-el-contexto-de-busqueda",
                 "pt": "a-paginacao-na-pagina-de-pesquisa-nao-e-redefinida-ao-alterar-o-contexto-da-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
+                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
+                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
+              },
+              "slug": {
+                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
               },
               "origin": "",
               "type": "markdown",
