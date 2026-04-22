@@ -19,7 +19,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 A entrega agendada no FastCheckout permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
-![Entrega agendada Fastchekcout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
+![Entrega agendada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
 
 Este artigo apresenta como configurar a entrega agendada em uma política de envio existente ou em uma nova política de envio.
 
