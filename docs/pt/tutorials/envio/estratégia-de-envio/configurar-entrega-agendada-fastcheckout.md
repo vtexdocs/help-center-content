@@ -3,8 +3,6 @@ title: 'Configurar entrega agendada no FastCheckout'
 status: PUBLISHED
 createdAt: 2026-04-22T00:00:00.000Z
 updatedAt: 
-publishedAt: 
-firstPublishedAt: 
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-scheduled-delivery-fastcheckout
