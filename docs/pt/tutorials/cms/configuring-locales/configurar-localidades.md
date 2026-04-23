@@ -9,15 +9,15 @@ locale: pt
 order: 1
 ---
 
-Uma localidade define o idioma e as configurações regionais para o conteúdo da loja. As localidades permitem experiências de compra em múltiplos idiomas, possibilitando configurar ajustes de idioma e regras de fallback.
+Uma localidade define o idioma e as configurações regionais para o conteúdo da loja. As localidades possibilitam experiências de compra em múltiplos idiomas ao permitirem a configuração de idiomas e de regras de fallback.  
 
-Com as localidades, você pode gerenciar o conteúdo do storefront para múltiplos mercados em uma única loja. Em vez de duplicar páginas ou manter lojas separadas para cada região, você pode definir as localidades da loja (por exemplo, `en-US` ou `pt-BR`) e criar versões localizadas da mesma entrada de conteúdo.
+Com as localidades, você pode gerenciar o conteúdo do storefront para vários mercados em uma única loja. Em vez de duplicar páginas ou manter lojas separadas para cada região, você pode definir as localidades da loja (por exemplo, `en-US` ou `pt-BR`) e criar versões localizadas da mesma entrada de conteúdo.  
 
-Neste guia, você aprenderá como configurar as localidades para a sua loja.
+Neste guia, confira como configurar as localidades da sua loja.
 
 ## Antes de começar
 
-* Antes de configurar as localidades, você deve entender dois conceitos-chave que determinam como o conteúdo aparece no storefront. Conhecer esses conceitos ajuda a desenvolver uma estratégia de localização eficaz e a evitar duplicação desnecessária de conteúdo.
+* Antes de configurar as localidades, é importante entender dois conceitos-chave que determinam como o conteúdo aparece no storefront. Compreender esses conceitos ajuda você a desenvolver uma estratégia de localização eficaz e a evitar a duplicação desnecessária de conteúdo.
 
 | Conceito | Descrição |
 | :---- | :---- |

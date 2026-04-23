@@ -8,48 +8,48 @@ slugEN: managing-versions-and-branches
 locale: pt
 ---
 
-Ao trabalhar com conteúdo no CMS, as alterações ocorrem com frequência, seja atualizando uma página de produto, preparando uma campanha ou testando novos layouts. As versões e branches ajudam a gerenciar essas mudanças com segurança enquanto você colabora com sua equipe.
+Ao trabalhar com conteúdo no CMS, as alterações ocorrem com frequência, seja ao atualizar uma página de produto, preparar uma campanha ou testar novos layouts. Versões e branches ajudam você a gerenciar essas alterações com segurança enquanto colabora com sua equipe.  
 
-* **[Versões](#versoes)** permitem preparar mudanças para o futuro, rastrear edições, revisar estados de conteúdo anteriores e restaurar versões mais antigas quando necessário.
-* **[Branches](#branches)** permitem agrupar múltiplas versões de páginas para colaborar e evoluir seu conteúdo antes de publicá-lo na vitrine.
+* As **[versões](#versoes)** permitem preparar alterações para o futuro, rastrear edições, revisar estados anteriores do conteúdo e restaurar versões anteriores quando necessário.  
+* As **[branches](#branches)** permitem agrupar várias versões de página para colaborar e evoluir o conteúdo antes de publicar no storefront.  
 
 <video controls width="100%">
   <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/cms-branches-update/docs/pt/tutorials/cms/branching-and-versioning/Branches-pt.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
-Neste guia, saiba como usar versões e branches para rastrear mudanças de conteúdo, testar com segurança, restaurar conteúdo anterior e gerenciar fluxos de publicação.
+Neste guia, você aprenderá a usar versões e branches para rastrear alterações de conteúdo, testar com segurança, restaurar versões anteriores e gerenciar fluxos de publicação.
 
 ## Versões
 
-As versões mantêm um histórico de cada alteração salva em uma entrada para que você possa revisar como o conteúdo evoluiu, comparar estados anteriores e restaurar uma versão anterior quando necessário. Cada vez que você salva uma entrada na branch `main` ou em outro branch, o CMS armazena uma nova versão no histórico de versões, junto com o nome do usuário que fez a alteração e a data. Com o tempo, isso cria um histórico de versões para a entrada.
+Versões mantêm um histórico de cada alteração salva em um cadastro, permitindo revisar como o conteúdo evoluiu, comparar estados anteriores e restaurar uma versão anterior quando necessário. Cada vez que você salva um cadastro na branch `main` ou em outro, o CMS armazena uma nova versão no histórico de versões, junto com o nome do usuário que fez a alteração e a data. Com o tempo, isso cria um histórico de versões do cadastro.  
 
-> ℹ️ O **Tipo de Conteúdo** funciona como um modelo (por exemplo, `Landing Page`). Uma **entrada**, como a **Landing Page** mostrada no vídeo abaixo, é uma página específica ou item de conteúdo derivado desse modelo para uma determinada loja e localidade, contendo valores únicos para seus campos (como `path`, `title` e `sections`).
+> ℹ️ O **tipo de conteúdo** serve como um template (por exemplo, `landing page`). Uma **entrada**, como a **landing page** mostrada no vídeo abaixo, é uma página ou item de conteúdo específico derivado desse template para uma determinada loja e localidade, contendo valores únicos em seus campos (como `path`, `title` e `sections`).  
 
-As versões mostram onde a entrada existe (por exemplo, qual versão está publicada no `main` e quais branches de rascunho estão disponíveis), para que você possa alternar contextos ou criar uma nova versão em um branch.
+As versões mostram onde o cadastro está (por exemplo, qual versão está publicada na `main` e quais branches de rascunho estão disponíveis); assim, você pode alternar o contexto ou criar uma nova versão em uma branch.
 
 ![versions-modal](https://vtexhelp.vtexassets.com/assets/docs/src/cms-versions-pt___591efa3837cf849b9cbfd8af7044b934.png)
 
-O controle de versões oferece várias vantagens para o gerenciamento de conteúdo:
+O controle de versões oferece diversas vantagens para o gerenciamento de conteúdo:
 
-* **Capacidade de reversão:** [Restaure rapidamente](#restaurar-versões-anteriores) uma versão publicada anteriormente para corrigir problemas como layouts quebrados ou edições incorretas.  
-* **Rastreamento de alterações:** Mantenha um registro claro de quem fez alterações e quando, para apoiar revisões e aprovações.  
-* **Experimentação segura:** Teste novos textos, layouts ou campanhas sem risco, sabendo que você pode reverter para a versão anterior se os resultados forem insatisfatórios.  
-* **Reutilização de conteúdo:** Economize tempo reutilizando conteúdo de uma campanha anterior em vez de começar do zero.
+* **Capacidade de rollback:** permite [restaurar rapidamente uma versão publicada anteriormente](#restaurar-versões-anteriores) para corrigir problemas, como layouts quebrados ou edições incorretas.
+* **Monitoramento de alterações:** mantém um registro claro de quem fez as alterações e quando, facilitando avaliações e aprovações.
+* **Experimentação segura:** teste novos textos, layouts ou campanhas sem riscos, sabendo que você pode voltar à versão anterior caso os resultados não sejam satisfatórios.  
+* **Reutilização de conteúdo:** ganhe tempo reutilizando conteúdos de campanhas anteriores em vez de começar do zero.
 
 ### Histórico de versões
 
-O histórico de versões registra eventos de ramificação e mesclagem de entradas, mostrando quem fez quais alterações e quando. Ele exibe a linha do tempo de eventos dentro da entrada selecionada, permitindo revisar estados anteriores e restaurar uma versão passada quando necessário.
+O histórico de versões registra os eventos de ramificação e merge das entradas, mostrando quem fez cada alteração e quando. Ele exibe a linha do tempo de eventos na entrada selecionada, permitindo revisar estados anteriores e restaurar uma versão anterior quando necessário.
 
 ![version-history-modal](https://vtexhelp.vtexassets.com/assets/docs/src/cms-version-history-pt___60bb41d1604aafb647df4e5e85c9bc05.png)
 
 ### Criar uma nova versão
 
-Sempre que você modifica uma entrada, uma nova versão é criada. Por exemplo, se fizermos uma pequena alteração no **Default page title** dentro do exemplo de **Landing Page** abaixo, o CMS gera uma nova versão:
+Sempre que você altera uma entrada, uma nova versão é criada. Por exemplo, se fizermos uma pequena alteração no **título da página padrão** na **landing page** abaixo, o CMS gera uma nova versão:
 
 ![creating-a-new-version](https://vtexhelp.vtexassets.com/assets/docs/src/cms-creating-version-pt___3f26025b18b9f06af3f2d4f13ed55f1a.gif)
 
-Após fazer as alterações, você tem as seguintes ações disponíveis:
+Depois de realizar as alterações, você pode escolher entre as seguintes ações:
 
 | Ação | Descrição |
 | :---- | :---- |
@@ -57,7 +57,7 @@ Após fazer as alterações, você tem as seguintes ações disponíveis:
 | `Salvar na branch` | Salva suas edições como uma nova versão apenas na branch selecionado (por exemplo, `black-friday`), mantendo o branch `main` inalterado. Use isso para trabalhar em rascunhos ou campanhas sem afetar o que está publicado na vitrine. |
 | `Descartar` | Exclui todas as alterações não salvas no formulário e restaura a entrada para sua última versão salva no `main` ou em outro branch, sem criar uma nova versão. Esta ação não pode ser desfeita. |
 
-> ℹ️ Para mais informações sobre branches, consulte a seção [Branches](#branches).
+> ℹ️ Para mais informações sobre branches, acesse a seção [Branches](#branches).
 
 ### Restaurar versões anteriores
 
@@ -77,9 +77,9 @@ Após visualizar, você pode escolher entre as seguintes ações:
 
 ## Branches
 
-Os branches facilitam a colaboração em equipe, alterações de conteúdo em massa em múltiplas páginas e fluxos de aprovação. Os branches permitem editar, revisar, visualizar e testar alterações antes de publicá-las. São comumente usados para projetos de conteúdo ou campanhas específicas, como Black Friday, ou para outras atualizações especiais de conteúdo que envolvem edição e publicação de múltiplas páginas simultaneamente.
+Branches facilitam a colaboração em equipe, alterações em massa de conteúdo em múltiplas páginas e fluxos de aprovação. Elas permitem que você edite, avalie, pré-visualize e teste alterações antes de publicá-las. As branches são usadas comumente em projetos ou campanhas específicas de conteúdo, como a Black Friday, ou em outras atualizações especiais que envolvem a edição e a publicação de várias páginas simultaneamente.
 
-> ⚠️ **Limites de branches**: tenha em mente que cada conta pode ter até 10 branches ativos.
+> ⚠️ **Limites de branches**: lembre-se que cada conta pode ter até 10 branches ativas.
 
 ![branches-overview](https://vtexhelp.vtexassets.com/assets/docs/src/branch-overview-pt___b39313c4040dec56574d85d599184d93.png)
 
@@ -96,11 +96,11 @@ Os branches facilitam a colaboração em equipe, alterações de conteúdo em ma
 | **Pré-visualização** (ícone de olho) | Abre uma pré-visualização para revisar o conteúdo de rascunho na vitrine. |
 | **Mergear** | Mescla as alterações da branch no `main`, imediatamente ou em uma data agendada. Para mais detalhes, consulte [Publicar e agendar alterações](#publicar-e-agendar-alterações). |
 
-### Entendendo o branch `main` e outros branches
+### Entendendo a branch `main` e as demais branches**
 
-O branch `main` contém o conteúdo publicado na vitrine. Quando você clica em `Salvar na main`, suas alterações são publicadas imediatamente.
+A branch `main` contém o conteúdo publicado no storefront. Ao clicar em `Salvar na Main`, suas alterações são publicadas imediatamente.  
 
-Outros branches são usados para desenvolver e revisar conteúdo antes de publicá-lo na `main`. Quando você clica em `Salvar na branch`, suas alterações são salvas como uma [nova versão](#criar-uma-nova-versão) dentro desse branch, sem afetar a vitrine.
+As demais branches são usadas para desenvolver e revisar o conteúdo antes da publicação na main. Ao clicar em `Salvar na branch`, suas alterações são salvas como uma nova versão dentro dessa branch, sem impactar o storefront.
 
 ### Publicar e agendar alterações
 
@@ -112,17 +112,17 @@ A página de **Branches** inclui a capacidade de `Mergear` o branch atual com o 
 
 ![publish-and-schedule-changes](https://vtexhelp.vtexassets.com/assets/docs/src/merge-schedule-pt___46148bf41908dd2a2d9842237174cb9f.gif)
 
-> ⚠️ O conteúdo pode estar em cache mesmo após a mesclagem e pode levar mais alguns minutos para aparecer na vitrine.
+> ⚠️ O conteúdo pode permanecer em cache mesmo após o merge e pode levar alguns minutos a mais para aparecer no storefront.
 
 ### Excluir branch
 
-Este processo exclui todas as versões que contêm alterações dentro da branch. Entradas e outras versões de branches não serão afetadas.
+Esse processo exclui todas as versões que tenham alterações dentro da branch. As entradas e outras versões em outras branches não serão afetadas.
 
-## Gerenciamento de remoção de conteúdo
+## Gerenciar remoção de conteúdo
 
 Existem três formas distintas de remover ou reverter conteúdo.
 
-### Excluir entrada
+### Excluir entradas
 
 Exclui a entrada inteira e todas as suas versões. Esta ação é irreversível. Para excluir uma entrada, siga estes passos:
 
