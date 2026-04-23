@@ -9,7 +9,7 @@ locale: pt
 order: 3
 ---
 
-Ao [criar uma localidade](https://help.vtex.com/pt/docs/tutorials/configurar-localidades) para a sua loja, você deve selecionar um idioma e uma região. A plataforma oferece suporte a um conjunto predefinido de idiomas e regiões que podem ser combinados para formar códigos de localidade (locales), como `en-US` ou `pt-BR`. 
+Ao [criar uma localidade](https://help.vtex.com/pt/docs/tutorials/configurar-localidades) para a sua loja, você deve selecionar um idioma e uma região. A plataforma oferece suporte a um conjunto predefinido de idiomas e regiões que podem ser combinados para formar códigos de localidade (locales), como `en-US` ou `pt-BR`.
 
 As seguintes especificações técnicas se aplicam a todas as configurações regionais suportadas:
 
