@@ -5,7 +5,7 @@ createdAt: 2026-04-24T00:00:00.000Z
 updatedAt: 2026-04-24T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
-slugEN: 2026-03-13-alphanumeric-cnpj-validation-support-in-master-data
+slugEN: 2026-04-24-alphanumeric-cnpj-validation-support-in-master-data
 locale: pt
 ---
 

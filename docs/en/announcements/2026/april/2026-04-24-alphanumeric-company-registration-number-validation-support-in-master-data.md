@@ -5,7 +5,7 @@ createdAt: 2026-04-24T00:00:00.000Z
 updatedAt: 2026-04-24T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
-slugEN: 2026-03-13-alphanumeric-company-registration-number-validation-support-in-master-data
+slugEN: 2026-04-24-alphanumeric-company-registration-number-validation-support-in-master-data
 locale: en
 ---
 
@@ -23,4 +23,4 @@ No action is required to support the new alphanumeric format, as the update is a
 
 However, we recommend that merchants test their other systems and billing workflows to ensure that back-office integrations are ready for the transition, which will take place in July 2026.
 
-> ℹ️ For more information, see the article [Data Entity](/docs/tutorials/data-entity).
+> ℹ️ For more information, see the article [Data Entity](/en/docs/tutorials/data-entity).
