@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Support for alphanumeric company registration number validation in Master Data v1",
+                    "es": "Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1",
+                    "pt": "Suporte à validação de CNPJ alfanumérico no Master Data v1"
+                  },
+                  "slug": {
+                    "en": "2026-04-24-alphanumeric-company-registration-number-validation-support-in-master-data",
+                    "es": "2026-04-24-soporte-validacion-numero-registro-persona-juridica-alfanumerico-en-master-data",
+                    "pt": "2026-04-24-suporte-validacao-cnpj-alfanumerico-master-data"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating sales channels via VTEX Admin",
                     "es": "Crear políticas comerciales en el Admin VTEX",
                     "pt": "Criar políticas comerciais pelo Admin VTEX"
@@ -53629,13 +53644,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona para una base de sku muy grande (StatusCode: 429)",
-                "pt": "A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)"
+                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
+                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429"
+                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
               },
               "origin": "",
               "type": "markdown",
