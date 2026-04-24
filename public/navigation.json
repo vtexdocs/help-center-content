@@ -50518,6 +50518,21 @@
             },
             {
               "name": {
+                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
+                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
+                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
+              },
+              "slug": {
+                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product page sessions not working",
                 "es": "Las sesiones de las páginas de productos no funcionan",
                 "pt": "As sessões da página do produto não estão funcionando"
@@ -53614,13 +53629,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona para una base de sku muy grande (StatusCode: 429)",
-                "pt": "A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)"
+                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
+                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429"
+                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
               },
               "origin": "",
               "type": "markdown",
@@ -64164,6 +64179,21 @@
                 "en": "gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion",
                 "es": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-con-otra-promocion-de-regalo",
                 "pt": "as-promocoes-de-brindes-nao-funcionam-como-esperado-quando-atuam-junto-com-outra-promocao-de-brindes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion",
+                "es": "Cálculo incorrecto del regalo al combinar referencias elegibles en la promoción «Compra uno y llévate otro gratis»",
+                "pt": "Cálculo incorreto do brinde ao combinar SKUs elegíveis na promoção “Compre um, ganhe outro”"
+              },
+              "slug": {
+                "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
+                "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
+                "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
               },
               "origin": "",
               "type": "markdown",
