@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevas-reglas-en-el-formulario-de-promociones
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Las nuevas validaciones en el formulario de promociones optimizan la configuración y las reglas y reducen errores.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 Implementamos mejoras en los formularios de promociones para garantizar mayor precisión y uniformidad en la configuración y reducir errores. Los principales cambios incluyen ajustes en los límites de caracteres, nuevas reglas para condiciones y restricciones en descuentos progresivos, y promociones del tipo Comprar juntos.

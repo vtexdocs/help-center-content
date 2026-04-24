@@ -13,6 +13,9 @@ locale: es
 legacySlug: promocion-comprar-juntos-nuevo-diseno-del-formulario
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevo diseño del formulario de promociones de VTEX, con interfaz moderna y uso simplificado.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 VTEX ofrece un formulario renovado para crear promociones de tipo [Comprar juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion). Con un diseño moderno e intuitivo, la nueva interfaz simplifica y mejora la experiencia de uso. 

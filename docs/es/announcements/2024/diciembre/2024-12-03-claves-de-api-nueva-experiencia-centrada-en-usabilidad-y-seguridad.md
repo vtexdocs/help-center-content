@@ -13,6 +13,9 @@ locale: es
 legacySlug: claves-de-api-nueva-experiencia-centrada-en-usabilidad-y-seguridad
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Gestiona tus claves de API de forma más segura: nueva interfaz, duración de tokens y opciones de renovar y eliminar.'
+tags:
+  - Actualización de seguridad
+  - Identity
 ---
 
 Presentamos la nueva experiencia de gestión de [claves de API](/es/docs/tutorials/claves-de-api) que permite controlar las credenciales de forma más eficiente.

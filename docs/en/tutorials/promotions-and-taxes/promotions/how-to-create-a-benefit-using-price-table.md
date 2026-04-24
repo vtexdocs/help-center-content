@@ -31,7 +31,7 @@ After completing the above you just need to enable your benefit or campaign audi
 
 Some important consideration regarding the promotional price table:
 
-- The price table configured price will only be applied if the value is less than the value set by site in the trade policy.
+- The price table configured price will only be applied if the value is less than the value set by site in the sales channel.
 - Promotional price table compete among themselves as well as with other configured benefits that are not set to be cumulative
 - You can only configure one price table for each benefit
 - A limit of ten (10) simultaneous price table benefits for each store is presently enforced

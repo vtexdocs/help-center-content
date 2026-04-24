@@ -18,36 +18,36 @@ order: 2
 
 To ensure that the integration functions properly, some initial VTEX platform configurations will need to be done beforehand.
 
-## Defining the trade policy
+## Defining the sales channel
 
-You'll need to define which trade policy will be used to integrate your products with Wish. This will be applied to main aspects: product assortment, inventory, price and currency. This implies that product price and availability on specific sales channel is wholly based on the trade policy you choose. [Click here for more info on how the trade policy works](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
+You'll need to define which sales channel will be used to integrate your products with Wish. This will be applied to main aspects: product assortment, inventory, price and currency. This implies that product price and availability on specific sales channel is wholly based on the sales channel you choose. [Click here for more info on how the sales channel works](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
-> ℹ️ NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier. This means that the integration should send prices in USD and accept orders in BRL. Thus, the architecture uses only BRL and converts within the integration. However, **the Wish trade policy must be in BRL**, while the entire conversion flow will be more detailed in [step 5](/en/docs/tracks/integration-configurations).
+> ℹ️ NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier. This means that the integration should send prices in USD and accept orders in BRL. Thus, the architecture uses only BRL and converts within the integration. However, **the Wish sales channel must be in BRL**, while the entire conversion flow will be more detailed in [step 5](/en/docs/tracks/integration-configurations).
 
-[Click here](/en/faq/adding-new-trade-policies--frequentlyAskedQuestions_700) to find out how to add a new trade policy when needed.
+[Click here](/en/faq/adding-new-trade-policies--frequentlyAskedQuestions_700) to find out how to add a new sales channel when needed.
 
 ## Defining product assortment
 
-Once the trade policy is created, you'll need to link the new trade policy to products from your catalog that you want to send to Wish. The following step-by-step will show you how to define the assortment **in bulk using a spreadsheet** (for other methods, [click here](/en/docs/tracks/adding-skus).
+Once the sales channel is created, you'll need to link the new sales channel to products from your catalog that you want to send to Wish. The following step-by-step will show you how to define the assortment **in bulk using a spreadsheet** (for other methods, [click here](/en/docs/tracks/adding-skus).
 
   1. Export your catalog products ([see how in the "by spreadsheet" section of this article](/en/docs/tracks/adding-skus));
-  2. Add the **ID** of the trade policy set in the previous step to the **"Stores"** field ([mais detalhes aqui](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet));
+  2. Add the **ID** of the sales channel set in the previous step to the **"Stores"** field ([mais detalhes aqui](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet));
   3. Import the spreadsheet back into the catalog.
 
 ## Defining the logistics
 
-To ensure that order integrate successfully, you'll need to link, on the VTEX platform, the logistics between inventory, warehouse and carrier . For more context on VTEX logistics, read [this article](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx). Follow the step-by-step below to perform the setup:
+To ensure that order integrate successfully, you'll need to link, on the VTEX platform, the logistics between inventory, warehouse and carrier . For more context on VTEX logistics, read [this article](/en/docs/tracks/getting-started-with-logistics). Follow the step-by-step below to perform the setup:
 
-  1. Check whether your [inventories](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3mlfDHjikOgUna1SS2Nr1Y) are linked to the correct warehouses;
-  2. Check whether the chosen [warehouses](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/5XvQ1yLpxLlIKWRw1pSiyA) have the associated Wish trade policy;
-  3. Set the [carriers](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3fLedVI57srjBDDxxGgOWe) that will ship from Wish;
+  1. Check whether your [inventories](/en/docs/tracks/inventory) are linked to the correct warehouses;
+  2. Check whether the chosen [warehouses](/en/docs/tutorials/warehouse) have the associated Wish sales channel;
+  3. Set the [carriers](/en/docs/tutorials/carriers-on-vtex) that will ship from Wish;
   4. Link carriers to warehouses.
  
 > ℹ️ NOTE: Wish transfers the commission by confirming order delivery, obtaining this information by directly consulting its partner carriers. ***However, in order to sell on Wish, you need to use partner carriers for order delivery.*** [ Check out the Wish accepted carriers here.](https://merchant.wish.com/documentation/shippingproviders)
 
 ## Defining prices
 
-In order to sell your products on Wish, it's important to set a pricing strategy. For more on the overall pricing context at VTEX, read [this article](/en/tracks/precing-101--6f8pwCns3PJHqMvQSugNfP). Follow the step-by-step below to configure prices:
+In order to sell your products on Wish, it's important to set a pricing strategy. For more on the overall pricing context at VTEX, read [this article](/en/docs/tracks/prices-101). Follow the step-by-step below to configure prices:
 
-  1. Create a [price table](/en/docs/tracks/cadastrar-tabelas-de-preco) for the trade policy linked to Wish;
+  1. Create a [price table](/en/docs/tracks/cadastrar-tabelas-de-preco) for the sales channel linked to Wish;
   2. Set the [base prices](/en/docs/tracks/preco-base-definicao-de-conceito) based on the new table

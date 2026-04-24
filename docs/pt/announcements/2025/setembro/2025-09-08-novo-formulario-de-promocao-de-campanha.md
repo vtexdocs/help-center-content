@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novo-formulario-de-promocao-de-campanha
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova interface do formulário de Promoção de Campanha da VTEX facilita usabilidade e segmentação de ofertas.'
+tags:
+  - Nova funcionalidade
+  - Promoções
 ---
 
 A partir de 08/09/2025, o módulo **Promoções** da VTEX contará com uma nova interface para o **formulário de Promoção de Campanha**, que foi aprimorada para melhorar a usabilidade e facilitar a configuração das promoções, permitindo criar ofertas direcionadas a audiências previamente definidas no módulo [Audiências de Campanha](/pt/docs/tutorials/criar-audiencia-de-campanha).

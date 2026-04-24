@@ -89,7 +89,7 @@ In addition to the information security team, other VTEX teams have dedicated me
 
 All providers and partners involved in processing our data, and that of our clients, are subject to contractual agreements that include security clauses. The agreements establish specific guidelines and requirements to guarantee appropriate data protection and ensure that all parties are committed to the highest information security standards.
 
-Learn more about our [third-party infrastructure providers](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
+Learn more about our [third-party infrastructure providers](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
 
 ### Security education and awareness
 
@@ -135,7 +135,7 @@ Media storage devices used to store customer data are classified as critical and
 
 #### Does the company have a data protection and privacy policy? If yes, how often is it reviewed? Has the policy been distributed and communicated to the entire company?
 
-Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://vtex.com/us-en/privacy-and-agreements/external-notice/) can be found on the VTEX website.
+Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) can be found on the VTEX website.
 
 #### Does the organization have a data protection officer (DPO) with the authority, mission, responsibility, and resources to coordinate, develop, and implement applicable privacy requirements and manage privacy risks through a privacy program?
 
@@ -148,7 +148,7 @@ As a data processor, VTEX processes personal data from shoppers only when necess
 * Name
 * Email
 * IP address
-* Browsing data ([cookies](https://vtex.com/us-en/privacy-and-agreements/vtex-platform-cookies-information/))
+* Browsing data ([cookies](https://vtex.com/us-en/trust/cookies-information/))
 * Cart details
 * Order details and history
 * Shipping address
@@ -163,9 +163,9 @@ The data list above is described in the [Data Processing Addendum (DPA)](/en/tra
 
 #### How does VTEX ensure compliance with the General Data Protection Regulation (GDPR) or the Brazilian General Data Protection Law (LGPD)?
 
-VTEX is committed to be compliant with all applicable data protection regulations, including GDPR and LGPD. You can read more about our data protection policies, agreements, and compliance commitment on the [Privacy & Agreements](https://vtex.com/us-en/privacy-and-agreements/) page of our website.
+VTEX is committed to be compliant with all applicable data protection regulations, including GDPR and LGPD. You can read more about our data protection policies, agreements, and compliance commitment on the [Privacy & Agreements](https://vtex.com/us-en/trust/) page of our website.
 
-Check our [Data Processing Addendum (DPA)](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/) to learn how personal data is processed by VTEX.
+Check our [Data Processing Addendum (DPA)](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) to learn how personal data is processed by VTEX.
 
 #### What data subject rights does the VTEX platform guarantee?
 
@@ -183,7 +183,7 @@ Our policy establishes the classification levels as public, internal, and confid
 
 #### How may data come into contact with third parties and outsourced or subcontracted projects? How are these interactions protected and monitored?
 
-The VTEX infrastructure is completely reliant on third-party providers, which ensures external partners do not have access to tenant data. See the full list of subprocessors at [VTEX Subprocessors](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
+The VTEX infrastructure is completely reliant on third-party providers, which ensures external partners do not have access to tenant data. See the full list of subprocessors at [VTEX Subprocessors](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
 
 Secure data processing and transmission to third parties is a key priority for VTEX. We use a comprehensive approach that combines advanced technology, rigorous security processes, and continuous employee training. Technical measures, such as robust encryption, are used to protect data during transmission and processing. Also, we have implemented strict information security processes and access controls to ensure that only authorized individuals have access to the data. Among other measures, we constantly invest in updates and improvements to ensure effective protection for the data that is shared with external partners. You can learn more about our current security measures in[ Security Practices](https://vtex.com/us-en/security/security-practices/).
 

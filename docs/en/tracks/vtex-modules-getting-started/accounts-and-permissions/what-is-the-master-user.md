@@ -29,7 +29,7 @@ By clicking on the desired account name, the Sponsor user's name and email are i
 
 Among the actions that only the Sponsor user can take are:
 - Reindex the catalog.
-- Delete categories, products, SKUs and brands through the [fullcleanup feature](/en/tutorial/understanding-how-to-maintain-a-database).
+- Delete categories, products, SKUs and brands through the [fullcleanup feature](/en/docs/tutorials/database-maintenance-full-cleanup).
 - Authorize integrations with some marketplaces, such as Mercado Livre.
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.

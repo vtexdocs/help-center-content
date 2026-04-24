@@ -49,4 +49,4 @@ If the customer requests cancellation within the grace period of the order, whic
 
 After the grace period, it is understood that the store is already acting on the order. In such case, the store must confirm the cancellation request.
 
-Check out our article [customer requested full cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer).
+Check out our article [customer requested full cancellation](/en/docs/tutorials/order-cancellation-requested-by-the-customer).

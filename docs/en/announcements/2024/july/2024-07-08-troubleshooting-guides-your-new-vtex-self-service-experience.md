@@ -13,6 +13,9 @@ locale: en
 legacySlug: troubleshooting-guides-your-new-vtex-self-service-experience
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Solve problems faster and autonomously with our redesigned troubleshooting guides.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 VTEX is constantly evolving to enhance the customer support experience and empower our clients to solve problems more efficiently and autonomously.

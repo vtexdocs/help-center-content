@@ -58,7 +58,7 @@ To search for a promotion, follow the steps below:
 
  1. Access the **Promotions** menu.
  2. Click on **Promotions**. 
- 3. In the search bar, enter the name, description, [UTM](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) or [trade policy](/en/docs/tutorials/how-trade-policies-work) registered in the promotion.
+ 3. In the search bar, enter the name, description, [UTM](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) or [sales channel](/en/docs/tutorials/how-trade-policies-work) registered in the promotion.
 
 ## Sorting promotions
 
