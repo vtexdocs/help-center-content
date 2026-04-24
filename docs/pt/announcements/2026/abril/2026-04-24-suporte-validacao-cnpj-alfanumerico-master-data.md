@@ -1,12 +1,15 @@
 ---
 title: 'Suporte à validação de CNPJ alfanumérico no Master Data v1'
-status: PUBLISHED
 createdAt: 2026-04-24T00:00:00.000Z
 updatedAt: 2026-04-24T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
 slugEN: 2026-04-24-alphanumeric-company-registration-number-validation-support-in-master-data
 locale: pt
+announcementSynopsisPT: 'O Master Data v1 agora valida CNPJ alfanumérico nos campos de documento, ajudando os lojistas a se prepararem para o novo formato brasileiro antes de julho de 2026.'
+tags:
+  - Melhoria
+  - Master Data
 ---
 
 A partir de julho de 2026, o Brasil adotará o novo formato alfanumérico de CNPJ. Para que os lojistas possam se preparar com antecedência, a VTEX já oferece a todas as lojas suporte ao novo formato na validação nativa dos campos do tipo **CPF/CNPJ** no Master Data v1.
