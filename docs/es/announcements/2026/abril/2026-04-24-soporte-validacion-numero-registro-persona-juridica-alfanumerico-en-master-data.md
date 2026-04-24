@@ -1,8 +1,8 @@
 ---
 title: 'Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1'
 status: PUBLISHED
-createdAt: 2026-03-13T00:00:00.000Z
-updatedAt: 2026-03-13T00:00:00.000Z
+createdAt: 2026-04-24T00:00:00.000Z
+updatedAt: 2026-04-24T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
 slugEN: 2026-03-13-alphanumeric-cnpj-validation-support-in-master-data
