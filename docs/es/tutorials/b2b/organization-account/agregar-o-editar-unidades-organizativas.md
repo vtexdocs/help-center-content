@@ -8,7 +8,7 @@ slugEN: adding-or-editing-organizational-units
 locale: es
 ---
 
-> ⚠️ Esta funcionalidad es exclusiva para tiendas que usan B2B Buyer Portal, actualmente disponible solo para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad es exclusiva para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente disponible solo para cuentas seleccionadas.
 
 Las **unidades organizativas** (OU) permiten a las empresas gestionar su estructura interna de forma jerárquica, con presupuestos propios, flujos internos de aprobación, autonomía de compra y otros niveles de subdivisión. De esta forma, la plataforma permite que una única empresa B2B opere con múltiples estructuras internas, manteniendo consistencia contractual y control operativo.
 
@@ -54,7 +54,7 @@ Después de crear una unidad organizativa, se mostrará en la lista de la pantal
     - Nombre de usuario
 3. Selecciona los roles que deseas asignar al usuario.
 
-    > ℹ️ Para más información sobre roles en **B2B Buyer Portal**, consulta el artículo [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
+    > ℹ️ Para más información sobre roles en **[B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es)**, consulta el artículo [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
 4. Haz clic en `Agregar`.
 

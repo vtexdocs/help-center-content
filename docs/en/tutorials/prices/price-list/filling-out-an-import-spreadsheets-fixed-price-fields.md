@@ -20,7 +20,7 @@ For a better understanding of what each fixed price spreadsheet field means, rea
 ![tabela.preço.fixo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-list/filling-out-an-import-spreadsheets-fixed-price-fields_1.png)
 
 - **SKU ID:** the ID of the SKU to which you want to add the fixed price.
-- **Trade policy:** the name or ID of the trade policy to which the fixed price will be applied.
+- **Sales channel:** the name or ID of the sales channel to which the fixed price will be applied.
 - **List price:** suggested retail price for the SKU.
 - **Min quantity:** the minimum SKU quantity for the fixed price to be applied.
 - **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format. -

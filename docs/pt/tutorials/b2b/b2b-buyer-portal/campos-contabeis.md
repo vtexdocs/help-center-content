@@ -8,9 +8,9 @@ locale: pt
 slugEN: accounting-fields
 ---
 
-Os **campos contábeis** permitem coletar informações adicionais durante a compra no **B2B Buyer Portal**, como **centro de custo**, **número de pedido interno (PO)** e outros dados de controle. Essas informações ficam associadas ao pedido, ajudando a empresa a padronizar dados, aplicar regras internas e facilitar auditorias.
+Os **campos contábeis** permitem coletar informações adicionais durante a compra no [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), como **centro de custo**, **número de pedido interno (PO)** e outros dados de controle. Essas informações ficam associadas ao pedido, ajudando a empresa a padronizar dados, aplicar regras internas e facilitar auditorias.
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 ## Para que servem os campos contábeis
 
@@ -96,7 +96,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 ## Impacto para o comprador
 
 - Os campos aparecem no checkout com instruções claras.
-- Alguns valores podem vir pré-preenchidos (quando configurados pela Organization Unit).
+- Alguns valores podem vir pré-preenchidos (quando configurados pela unidade organizacional).
 - O pedido é finalizado com menos retrabalho e menos risco de erro.
 
 ## Exemplos de uso
@@ -108,7 +108,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 
 ### Checkout pré-preenchido por Organizational Unit (OU)
 - **Cenário:** a empresa quer reduzir erros e tempo de compra em múltiplas unidades.
-- **Configuração:** definir valores padrão por **Organization Unit** para endereço, cartão e campos do tipo `option`.
+- **Configuração:** definir valores padrão por **unidade organizacional** para endereço, cartão e campos do tipo `option`.
 - **Resultado:** o checkout aparece pré-preenchido após login, reduzindo retrabalho.
 
 ### Classificação de projeto ou atividade
@@ -133,7 +133,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 
 ### Padronização e governança centralizada
 - **Cenário:** a empresa precisa evitar variações no preenchimento de dados.
-- **Configuração:** utilizar campos `option` em vez de texto livre e definir valores por **Organization Unit**.
+- **Configuração:** utilizar campos `option` em vez de texto livre e definir valores por **unidade organizacional**.
 - **Resultado:** dados mais consistentes e auditáveis em toda a operação.
 
 ### Controle de compliance em empresas reguladas

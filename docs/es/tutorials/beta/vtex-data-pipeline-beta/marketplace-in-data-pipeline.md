@@ -28,6 +28,7 @@ Esta sección incluye la siguiente información:
 - [Tabla: sellers_orders](#tabla-sellers-orders)  
 - [Tabla: sellers_orders_items](#tabla-sellers-orders-items)  
 - [Tabla: sellers_orders_rateandbenefitsidentifiers](#tabla-sellers-orders-rateandbenefitsidentifiers)  
+- [Tabla: sku_binding](#tabla-sku-binding)  
 - [Análisis con Marketplace in](#analisis-con-marketplace-in)  
 - [Correlaciones con otros datos](#correlaciones-con-otros-datos)  
 
@@ -207,6 +208,27 @@ La tabla *sellers_orders_rateandbenefitsidentifiers* contiene datos sobre promoc
 |rateandbenefitsidentifiers_featured | boolean | Indica si los rate and benefits identifiers están destacados o tienen alguna característica especial.|
 |rateandbenefitsidentifiers_description | character varying(65535) | Descripción detallada de los rate and benefit identifiers y sus beneficios.|
 |batch_id | character varying(13) | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingestión.|
+
+## Tabla: sku_binding
+
+La tabla `sku_binding` sirve como referencia cruzada entre los identificadores internos de SKU del marketplace y los identificadores externos de SKU utilizados por cada vendedor.
+
+Los campos de la tabla se describen a continuación:
+
+|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
+|:---:|:---:|:---:|
+|sk_sku_binding | character varying | Clave sustituta para el registro de binding de SKU que identifica exclusivamente cada mapeo de SKU de un vendedor a un SKU del marketplace.|
+|sk_sku | character varying | Clave sustituta que referencia el SKU en la tabla item_catalog_silver.sku.|
+|sk_product | character varying | Clave sustituta que referencia el producto en la tabla item_catalog_silver.product.|
+|account | character varying | Identificador de la cuenta VTEX de la tienda propietaria del catálogo de productos.|
+|product_id | character varying | Identificador único del producto en el catálogo VTEX. Un producto agrupa uno o más SKUs.|
+|sku_id | character varying | Identificador único del SKU en el catálogo VTEX de la cuenta. Representa una variante específica de un producto disponible para la venta.|
+|seller_sku_id | character varying | Identificador propio del vendedor para este SKU. Es el ID que el vendedor utiliza internamente para referenciar el SKU en su propio sistema.|
+|seller_id | character varying | Identificador único del vendedor en el marketplace VTEX. Identifica cuál vendedor está vinculado al SKU.|
+|is_deleted | boolean | Indica si el vínculo SKU-vendedor fue eliminado lógicamente. Se establece en FALSE cuando el vínculo existe en los datos de origen, y en TRUE mediante eliminación lógica cuando el vínculo ya no está presente.|
+|record_created_at | timestamp | Timestamp de cuando este registro fue creado por primera vez en la capa silver.|
+|record_updated_at | timestamp | Timestamp de cuando este registro fue actualizado por última vez en la capa silver.|
+|batch_id | character varying | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingestión de datos.|
 
 ## Análisis con marketplace_in
 

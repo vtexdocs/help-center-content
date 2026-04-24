@@ -35,7 +35,7 @@ Follow the steps below to export the price spreadsheet:
 > A sidebar will be displayed.
 3. Under **Select the spreadsheet you want to export**, you must choose from the following options:
    - **Base prices table (default):** The [base price](/en/docs/tracks/preco-base-definicao-de-conceito) is the SKU reference price for all price tables.
-   - **Fixed price table:** The [fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito) overrides the base price even if the price rule is configured.
+   - **Fixed price table:** The [fixed price](/en/docs/tracks/fixed-price-concept-definition) overrides the base price even if the price rule is configured.
    - **Calculated price table:** The final price that will be displayed in the store, which does not include promotions.
 4. Click the `Export table` button.
 > Then, the selected price table will open.

@@ -20,7 +20,7 @@ The commercial conditions of the B2B (Business to Business) scenario are differe
 First, it is important to highlight that in B2B, e-commerce is used for Promotion and Campaign Audience cases, since ERP is not agile enough for this demand. Second, the main goal of promotions in B2B is to convert the high volume of orders on the platform into sales.
 
 The retailer needs to keep in mind that some actions should be __recurrent__ to guarantee this amount of orders. Here are some of the actions that can be taken:
-- ERP defined and integrated trade policies for e-commerce.
+- ERP defined and integrated sales channels for e-commerce.
 - Daily promotions to maintain attractiveness.
 - Guarantee an inventory flow.
 - Minimum quantity per order or minimum value for free shipping.
@@ -30,8 +30,6 @@ Retailers must be careful not to carry out promotions that can harm their busine
 - __Anticipation of receipt__: cash flow is another essential factor in corporate management. Offering customers payment in advance options can increase your profit and allow investments in new products;
 - __Supplier rebate__: credit offered to the store by the supplier that will be transformed into a discount for the end customer. This allows for a more competitive price without compromising margin and profitability;
 - __Increase in your contribution margin__: Promotional actions must always be in line with the store's EBITDA growth (Earnings Before Interest, Taxes, Depreciation and Amortization).
-
-# Promotions
 
 ## Inventory aging
 

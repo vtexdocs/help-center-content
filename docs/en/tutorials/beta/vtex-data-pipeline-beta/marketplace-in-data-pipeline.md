@@ -28,6 +28,7 @@ This section includes the following information:
 - [Table: sellers_orders](#table-sellers-orders)  
 - [Table: sellers_orders_items](#table-sellers-orders-items)  
 - [Table: sellers_orders_rateandbenefitsidentifiers](#table-sellers-orders-rateandbenefitsidentifiers)  
+- [Table: sku_binding](#table-sku-binding)  
 - [Analyses with Marketplace in](#analyses-with-marketplace-in)  
 - [Correlations with other data](#correlations-with-other-data)  
 
@@ -207,6 +208,27 @@ The *sellers_orders_rateandbenefitsidentifiers* table contains data about promot
 |rateandbenefitsidentifiers_featured | boolean | Indicates whether the rate and benefits identifiers are featured or have any special attribute.|
 |rateandbenefitidentifiers_description | character varying(65535) | Detailed description of the rate and benefit identifiers and their benefits.|
 |batch_id | character varying(13) | Identifier used when data is loaded into the table for ingestion quality control.|
+
+## Table: sku_binding
+
+The `sku_binding` table serves as a cross-reference mapping between the marketplace's internal SKU identifiers and the external SKU identifiers used by each seller.
+
+The table fields are described below:
+
+|**Column name** | **Column type** | **Column description**|
+|:---:|:---:|:---:|
+|sk_sku_binding | character varying | Surrogate key for the SKU binding record that uniquely identifies each seller's SKU mapping to a marketplace SKU.|
+|sk_sku | character varying | Surrogate key referencing the SKU in the item_catalog_silver.sku table.|
+|sk_product | character varying | Surrogate key referencing the product in the item_catalog_silver.product table.|
+|account | character varying | VTEX account identifier of the store that owns the product catalog.|
+|product_id | character varying | Unique identifier of the product in the VTEX catalog. A product groups one or more SKUs.|
+|sku_id | character varying | Unique identifier of the SKU in the account's VTEX catalog. Represents a specific sellable variant of a product.|
+|seller_sku_id | character varying | The seller's own identifier for this SKU. This is the ID that the seller uses internally to reference the SKU in their own system.|
+|seller_id | character varying | Unique identifier of the seller in the VTEX marketplace. Identifies which seller is bound to the SKU.|
+|is_deleted | boolean | Indicates whether the SKU-seller binding has been logically deleted. Set to FALSE when the binding exists in the source data, and TRUE via logical deletion when the binding is no longer present.|
+|record_created_at | timestamp | Timestamp when this record was first created in the silver layer.|
+|record_updated_at | timestamp | Timestamp when this record was last updated in the silver layer.|
+|batch_id | character varying | Identifier used when data is loaded into the table for quality control of data ingestion.|
 
 ## Analyses with Marketplace in
 

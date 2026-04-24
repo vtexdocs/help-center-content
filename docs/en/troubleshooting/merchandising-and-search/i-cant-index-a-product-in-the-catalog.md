@@ -35,10 +35,10 @@ Whenever there is a change in product status or information, a reindexing flow i
 In some cases, the indexing process may be interrupted, resulting in the latest updated product information not being displayed on the store's website. Here are a few scenarios where such interruption can occur:
 
 - Incorrect product entry in the Catalog
-- No trade policy associated with the product in the store binding
+- No sales channel associated with the product in the store binding
 - Indexing timeout (40 seconds) due to a high number of requests to the checkout during indexing. The number of requests may vary depending on the following product-related factors:
 
-   - Number of trade policies
+   - Number of sales channels
    - Number of SKUs
    - Number of geographical regions
    - Number of collections
@@ -50,7 +50,7 @@ To fix any issues preventing correct product indexing in the store, consider doi
 
 - [Check product fields](#checking-product-fields)
 - [Check the account binding information](#checking-the-account-binding-information)
-- [Reduce the number of trade policies associated with the product](#changing-a-products-trade-policies)
+- [Reduce the number of sales channels associated with the product](#changing-a-products-trade-policies)
 - [Change the number of SKUs per product](#changing-the-number-of-skus-per-product)
 - [Remove SKUs from collections](#remove-skus-from-collections)
 - [Reindex the store's product base](#reindexing-the-product-base)
@@ -71,23 +71,23 @@ Errors in product fields can lead to inconsistencies when indexing a product.
 
 ### Checking the account binding information
 
-When the account has [more than one store](/en/docs/tutorials/managing-a-multistore), you need to conduct the [binding](/en/docs/tutorials/what-is-binding), process — which binds the website to trade policies for each store. If a product is associated with a trade policy not present in the account's binding, indexing errors can occur.
+When the account has [more than one store](/en/docs/tutorials/managing-a-multistore), you need to conduct the [binding](/en/docs/tutorials/what-is-binding), process — which binds the website to sales channels for each store. If a product is associated with a sales channel not present in the account's binding, indexing errors can occur.
 
-To identify the trade policies associated with each store in your account, see [Linking a store to a CMS folder structure (binding)](/en/docs/tutorials/linking-an-account-name-to-a-website-binding).
+To identify the sales channels associated with each store in your account, see [Linking a store to a CMS folder structure (binding)](/en/docs/tutorials/linking-an-account-name-to-a-website-binding).
 
-### Changing a product's trade policies
+### Changing a product's sales channels
 
 When a product is associated with multiple policies, it may exit the indexing queue after numerous data verification iterations due to timeouts.
 
-Example: A product with 5 active SKUs across 5 different trade policies may require 25 validations of stock availability, price rules, and promotions.
+Example: A product with 5 active SKUs across 5 different sales channels may require 25 validations of stock availability, price rules, and promotions.
 
-To avoid this scenario, check the possibility of using the same trade policy for different marketplaces, as described in [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
+To avoid this scenario, check the possibility of using the same sales channel for different marketplaces, as described in [Configuring a marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
-> ⚠️ If you can reduce the number of trade policies in your store, access the product fields again to change the trade policy and check the indexing report, as described in **Checking product fields**.
+> ⚠️ If you can reduce the number of sales channels in your store, access the product fields again to change the sales channel and check the indexing report, as described in **Checking product fields**.
 
 ### Changing the number of SKUs per product
 
-Similar to trade policies, having an excessive number of SKUs associated with a product can cause delays that exceed the indexing timeout. To reduce the chance of this issue occurring, consider splitting a product into separate items with fewer SKUs.
+Similar to sales channels, having an excessive number of SKUs associated with a product can cause delays that exceed the indexing timeout. To reduce the chance of this issue occurring, consider splitting a product into separate items with fewer SKUs.
 
 Example: If the product "Shirt" has six SKUs (Yellow S, Yellow M, Yellow L, Blue S, Blue M, and Blue L), it can be split into two products with three SKUs each: "Yellow Shirt" (S, M, and L) and "Blue Shirt" (S, M, and L).
 
