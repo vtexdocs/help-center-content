@@ -57,7 +57,7 @@ Os [Scopes](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-scopes) contr
 
 ### Membros e perfis
 
-Os [membros](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora) de uma organização compradora recebem perfis de acesso do storefront que definem o que podem ver e fazer na loja. Exemplos de perfis predefinidos incluem:
+Os [membros](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora) de uma organização compradora recebem perfis de acesso do storefront que definem o que podem ver e fazer na loja. Exemplos de perfis predefinidos incluem:
 
 - **Buyer:** realiza pedidos.
 - **Order Approver:** aprova ou rejeita pedidos em fluxos de aprovação.
@@ -65,7 +65,7 @@ Os [membros](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-comp
 - **Budget Manager:** cria e gerencia budgets e alocações.
 - **Buying Policy Manager:** configura regras de aprovação de compras.
 
-Esses e outros perfis disponíveis podem ser combinados para atender às responsabilidades de cada usuário, criando um modelo de permissões granular para estruturas organizacionais complexas. Para a lista completa, consulte [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
+Esses e outros perfis disponíveis podem ser combinados para atender às responsabilidades de cada usuário, criando um modelo de permissões granular para estruturas organizacionais complexas. Para a lista completa, consulte [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 
 ## Finanças e compliance
 

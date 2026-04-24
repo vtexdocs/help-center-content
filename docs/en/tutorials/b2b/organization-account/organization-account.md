@@ -66,7 +66,7 @@ The **Organization** section allows you to manage the organizational structure o
 
 The options include:
 
-- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
+- **Users** — Manage [organization users](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations).
 - **Roles** — Define permissions and roles.
 - **Organizational units** — Create and manage [organizational units](https://help.vtex.com/en/docs/tutorials/organizational-units).
 
