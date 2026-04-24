@@ -1,12 +1,15 @@
 ---
 title: 'Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1'
-status: PUBLISHED
 createdAt: 2026-04-24T00:00:00.000Z
 updatedAt: 2026-04-24T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
 slugEN: 2026-04-24-alphanumeric-company-registration-number-validation-support-in-master-data
 locale: es
+announcementSynopsisES: 'Master Data v1 ahora valida números de registro de persona jurídica alfanuméricos en los campos fiscales, ayudando a los retailers a prepararse para el nuevo formato en Brasil antes de julio de 2026.'
+tags:
+  - Mejora
+  - Master Data
 ---
 
 A partir de julio de 2026 Brasil adoptará el nuevo formato alfanumérico de nro. de registro de persona jurídica. Para que los retailers puedan prepararse con anticipación, VTEX ya ofrece a todas las tiendas soporte para el nuevo formato en la validación nativa de los campos de tipo **nro. de id. fiscal/nro. de registro de persona jurídica** en Master Data v1.
