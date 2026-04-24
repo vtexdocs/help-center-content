@@ -1,5 +1,5 @@
 ---
-title: "Enabling Local stock sale in VTEX Sales App"
+title: 'Enabling Local stock sale in VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
@@ -25,7 +25,7 @@ Local stock sale allows the sales associate in a physical store to complete sale
 6. [Link the franchise account to the physical store](#linking-the-franchise-account-to-the-physical-store)
 7. [Integrate the point of sale](#integrating-the-point-of-sale)
 
-> ℹ️ Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our [Sales App - Getting started and setting up](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) documentation.
+> ℹ️ Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our [Sales App - Getting started and setting up](https://help.vtex.com/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up) documentation.
 
 ## Creating a franchise account
 
@@ -37,7 +37,7 @@ After creating a franchise account, you need to [create a seller](/en/docs/tutor
 
 ## Setting up a pickup point
 
-After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](/en/docs/tutorials/pickup-points#como-configurar-pontos-de-retirada).
+After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](https://help.vtex.com/en/docs/tutorials/pickup-points#how-to-setup-pickup-points).
 
 The created pickup point will be assigned an ID that you will need when [Creating a warehouse](#creating-a-warehouse). If you lose the ID, you can view it in the **Pickup Points** screen of the VTEX Admin, under the **ID** column.
 
@@ -66,11 +66,11 @@ You need to [enabling selling an out-of-stock item](#enabling-selling-an-out-of-
 
 ## Linking the franchise account to the physical store
 
-To ensure that the sales associates of your physical store have the right access to the store warehouse at their location, it's important to link the franchise account to their profile. To do this, [add the physical store](/en/tutorial/loja-fisica-instore-beta--N4M9njT9xomdWD7mQyPt7) to Sales App.
+To ensure that the sales associates of your physical store have the right access to the store warehouse at their location, it's important to link the franchise account to their profile. To do this, [add the physical store](https://help.vtex.com/en/docs/tracks/managing-physical-stores-in-vtex-sales-app) to Sales App.
 
 You will need to select a sales associate from the store where you want to test On Hands and follow the steps below.
 
-1. With a [sales associate selected](/en/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), open Sales App and log in.
+1. With a [sales associate selected](https://help.vtex.com/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.
 
 ![instore-pdp-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_1.png)

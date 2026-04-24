@@ -236,11 +236,12 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 
 | Acción  | Descripción  | Detalles del evento |
 |---|---|---|
-| ReadDocument | Lectura de documento. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
-| CreateDocument | Creación de documento. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
-| UpdateDocument | Actualización de documento. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
+| ReadPersonalInformation | Lectura de información personal. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
+| CreatePersonalInformation | Creación de información personal. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
+| UpdatePersonalInformation | Actualización de información personal. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
 | DeleteDocument | Eliminación de un documento. | ID del documento. |
-| SearchDocuments | Búsqueda de documentos. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | Detalles de la consulta de búsqueda. |
+| DeletePersonalInformation | Eliminación de información personal. | ID del documento. |
+| SearchPersonalInformation | Búsqueda de información personal. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | Detalles de la consulta de búsqueda. |
 | UpdateSchema | Creación o edición de schema en Master Data v2. | Nombre del schema. |
 | DeleteSchema | Eliminación de schema en Master Data v2. | Nombre del schema. |
 

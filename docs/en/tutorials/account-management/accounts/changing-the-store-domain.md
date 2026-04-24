@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slugEN: changing-the-store-domain
-legacySlug: o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja
+legacySlug: how-can-i-change-the-domain-of-my-store
 locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Changing the [domain](https://help.vtex.com/en/docs/tutorials/configuring-the-store-domain) of a store after go-live requires careful attention to minimize SEO issues, avoid downtime, and ensure a seamless transition without impacting customer experience.
+Changing your store [domain](/en/docs/tutorials/configuring-the-store-domain) after go-live requires careful attention to minimize SEO issues and ensure a seamless transition without affecting the customer experience.
 
 > ⚠️ Do not remove or modify the existing domain until the migration is fully complete and validated. This ensures the store remains accessible during the transition and avoids downtime.
 
@@ -23,9 +23,9 @@ Changing the [domain](https://help.vtex.com/en/docs/tutorials/configuring-the-st
 
 Before you begin, make sure that:
 
-- The new domain is registered and accessible.
-- You have access to the domain DNS provider.
-- The old domain stays active throughout the entire migration process.
+* The new domain is registered and accessible.
+* You have access to the domain DNS provider.
+* The old domain stays active throughout the entire migration process.
 
 ## Overview
 
@@ -37,23 +37,23 @@ To complete the domain migration, you need to follow these steps:
 4. [Remove the old domain](#4-remove-the-old-domain) once the new domain is fully functional and validated.
 5. [Configure redirect](#5-configure-redirect) from the old domain to the new one.
 
-## 1) Add the new domain
+## 1. Add the new domain
 
 Add the new domain in the License Manager without removing the previous domain:
 
-1. Create the new host in the VTEX Admin by following the instructions in [Registering a new host](https://help.vtex.com/en/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
+1. Create the new host in the VTEX Admin by following the instructions in [Registering a new host](/en/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
 
-2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in [Configure template in SmartCheckout](https://help.vtex.com/en/docs/tutorials/configure-template-in-smartcheckout-update).
+2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in [Configure template in SmartCheckout](/en/docs/tutorials/configure-template-in-smartcheckout-update).
 
    This step is crucial to ensure Checkout keeps working after the change.
 
-   You need to check if the configured sites are related to the account added in **Account settings > Accounts**. See [Account management](https://help.vtex.com/en/docs/tutorials/account-management) for more details.
+   You need to check if the configured sites are related to the account added in **Account settings > Accounts**. See [Account management](/en/docs/tutorials/account-management) for more details.
 
 > ⚠️ Do not delete the old domain and do not change the DNS yet.
 
 ## 2. Request internal migration from VTEX
 
-If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](https://supporticket.vtex.com/support) and request the internal domain migration, providing the desired new domain.
+If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](https://supporticket.vtex.com/support) and request the internal pointing, providing the desired new domain. Learn more about [internal pointing](/en/tracks/pre-go-live#requesting-io-pointing).
 
 VTEX will perform the internal migration, ensuring all DNS records and internal settings are correctly propagated.
 
