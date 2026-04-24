@@ -1,12 +1,15 @@
 ---
 title: 'Support for alphanumeric company registration number validation in Master Data v1'
-status: PUBLISHED
 createdAt: 2026-04-24T00:00:00.000Z
 updatedAt: 2026-04-24T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
 slugEN: 2026-04-24-alphanumeric-company-registration-number-validation-support-in-master-data
 locale: en
+announcementSynopsisEN: 'Master Data v1 now validates alphanumeric company registration numbers on document fields, helping merchants prepare for the new Brazilian format ahead of July 2026.'
+tags:
+  - Improvement
+  - Master Data
 ---
 
 Starting July 2026, Brazil will adopt the new alphanumeric format for company registration numbers. To help merchants prepare, VTEX already supports the new format across all stores through native validation of the **document/company registration number** fields in Master Data v1.
