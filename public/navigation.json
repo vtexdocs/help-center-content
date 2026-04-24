@@ -40,13 +40,13 @@
                 {
                   "name": {
                     "en": "Support for alphanumeric company registration number validation in Master Data v1",
-                    "es": "Support for alphanumeric company registration number validation in Master Data v1",
-                    "pt": "Support for alphanumeric company registration number validation in Master Data v1"
+                    "es": "Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1",
+                    "pt": "Suporte à validação de CNPJ alfanumérico no Master Data v1"
                   },
                   "slug": {
                     "en": "2026-04-24-alphanumeric-company-registration-number-validation-support-in-master-data",
-                    "es": "",
-                    "pt": ""
+                    "es": "2026-04-24-soporte-validacion-numero-registro-persona-juridica-alfanumerico-en-master-data",
+                    "pt": "2026-04-24-suporte-validacao-cnpj-alfanumerico-master-data"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -123,37 +123,6 @@
                     "en": "2026-03-06-amazon-price-suggestion",
                     "es": "2026-03-06-amazon-sugerencia-de-precios",
                     "pt": "2026-03-06-amazon-sugestao-de-precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Abril",
-                "es": "Abril",
-                "pt": "Abril"
-              },
-              "slug": {
-                "en": "abril",
-                "es": "2026-abril",
-                "pt": "2026-abril"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1",
-                    "pt": "Suporte à validação de CNPJ alfanumérico no Master Data v1",
-                    "en": "Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1"
-                  },
-                  "slug": {
-                    "es": "2026-04-24-soporte-validacion-numero-registro-persona-juridica-alfanumerico-en-master-data",
-                    "pt": "2026-04-24-suporte-validacao-cnpj-alfanumerico-master-data",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
