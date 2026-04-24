@@ -6,12 +6,11 @@ updatedAt: 2026-04-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-scheduled-delivery-fastcheckout
-legacySlug: 
 locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-> ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal), que atualmente está disponível para contas selecionadas.
+> ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), que atualmente está disponível para contas selecionadas.
 
 A entrega agendada no FastCheckout permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
