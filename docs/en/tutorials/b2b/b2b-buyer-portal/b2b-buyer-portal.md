@@ -57,7 +57,7 @@ Each unit can have specific settings for product visibility, payment methods, sh
 
 ### Members and roles
 
-[Members](https://help.vtex.com/docs/tutorials/buyer-organization-members) of a buyer organization are assigned storefront roles that define what they can view and do in the store. Examples of predefined roles include:
+[Members](https://help.vtex.com/docs/tutorials/adding-users-to-buyer-organizations) of a buyer organization are assigned storefront roles that define what they can view and do in the store. Examples of predefined roles include:
 
 - **Buyer:** Places orders.
 - **Order Approver:** Approves or rejects orders in approval workflows.
@@ -65,7 +65,7 @@ Each unit can have specific settings for product visibility, payment methods, sh
 - **Budget Manager:** Creates and manages budgets and allocations.
 - **Buying Policy Manager:** Configures purchase approval rules.
 
-These and other available roles can be combined to meet each user's responsibilities, creating a granular permissions model for complex organizational structures. For the full list, see [Buyer organization members](https://help.vtex.com/docs/tutorials/buyer-organization-members).
+These and other available roles can be combined to meet each user's responsibilities, creating a granular permissions model for complex organizational structures. For the full list, see [Adding users to buyer organizations](https://help.vtex.com/docs/tutorials/adding-users-to-buyer-organizations).
 
 ## Finance and compliance
 

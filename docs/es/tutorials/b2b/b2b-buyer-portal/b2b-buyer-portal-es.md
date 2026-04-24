@@ -57,7 +57,7 @@ Cada unidad puede tener configuraciones específicas de visibilidad de productos
 
 ### Miembros y roles
 
-A los [miembros](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora) de una organización compradora se les asignan roles del storefront que definen las secciones que pueden ver y las acciones que pueden realizar en la tienda. Algunos roles predefinidos son:
+A los [miembros](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora) de una organización compradora se les asignan roles del storefront que definen las secciones que pueden ver y las acciones que pueden realizar en la tienda. Algunos roles predefinidos son:
 
 - **Buyer:** realiza pedidos.
 - **Order Approver:** aprueba o rechaza pedidos en flujos de aprobación.
@@ -65,7 +65,7 @@ A los [miembros](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organiza
 - **Budget Manager:** crea y gestiona presupuestos y asignaciones.
 - **Buying Policy Manager:** configura reglas de aprobación de compras.
 
-Los roles pueden combinarse para atender las responsabilidades de cada usuario, creando un modelo de permisos granulares para estructuras organizativas complejas. Para ver la lista completa, consulta [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+Los roles pueden combinarse para atender las responsabilidades de cada usuario, creando un modelo de permisos granulares para estructuras organizativas complejas. Para ver la lista completa, consulta [Agregar usuarios a la organización compradora](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora).
 
 ## Finanzas y compliance
 
