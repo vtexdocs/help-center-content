@@ -12,7 +12,7 @@ Este guia descreve como criar uma página customizada em lojas desenvolvidas com
 ### Configure o template
 
 1. No Admin VTEX, acesse **Storefront > Layout** para abrir a seção **Layout**.
-2. Na seção **Layout**, clique em **CMS > HTM Templates**.
+2. Na seção **Layout**, clique em **CMS > HTML Templates**.
 3. Decida se você vai:
    * Reutilizar um template existente que já tenha o layout necessário.
    * Criar um novo template específico para a página customizada. Se for criar um novo template, siga as instruções do guia [Criar e editar um template de página](https://help.vtex.com/pt/docs/tutorials/como-criar-um-template-de-pagina).
