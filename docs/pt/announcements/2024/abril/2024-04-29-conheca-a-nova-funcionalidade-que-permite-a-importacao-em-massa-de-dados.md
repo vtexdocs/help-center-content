@@ -13,6 +13,9 @@ locale: pt
 legacySlug: conheca-a-nova-funcionalidade-que-permite-a-importacao-em-massa-de-dados
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Facilite a gestão de organizações: Bulk Import simplifica atualizações e manutenção de dados'
+tags:
+  - Nova funcionalidade
+  - B2B
 ---
 
 A VTEX disponibiliza uma nova funcionalidade de importação em massa, permitindo a simplificação do processo de atualização e manutenção de informações para organizações compradoras, seus usuários (membros) e centros de custo.

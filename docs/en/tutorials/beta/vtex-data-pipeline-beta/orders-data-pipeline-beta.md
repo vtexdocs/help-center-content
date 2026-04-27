@@ -239,7 +239,7 @@ The *sellers* table stores the list of sellers related to each order. The table 
 |subsellerid|character varying(65535)|Identifier for a subseller or secondary seller associated with the order or operation.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|  
 
-# Table: `orders_rateandbenefitsidentifiers`
+## Table: `orders_rateandbenefitsidentifiers`
 
 The *rateandbenefitsidentifiers* table contains data about promotions applied to orders. The table fields are described below: 
 

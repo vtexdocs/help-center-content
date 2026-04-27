@@ -13,6 +13,9 @@ locale: es
 legacySlug: 
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Ya pueden exportarse eventos de Audit en CSV, facilitando las auditorías y asegurando el cumplimiento regulatorio.'
+tags:
+  - Nueva funcionalidad
+  - Audit
 ---
 
 Ahora es posible exportar los eventos de las búsquedas realizadas en [Audit](https://help.vtex.com/es/docs/tutorials/audit). Esta actualización facilita el intercambio de información de auditoría con terceros, como equipos de seguridad y organismos reguladores, sin necesidad de abrir tickets de soporte para obtener esos datos.

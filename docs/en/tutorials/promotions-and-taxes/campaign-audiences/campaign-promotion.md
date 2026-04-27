@@ -69,15 +69,15 @@ In the **Sellers** section, specify whether the promotion will apply to all *sel
 * **Equal to:** Applies the promotion only to the specified *sellers*. Enter the identifiers in the corresponding field.  
 * **Different from:** Applies the promotion to all *sellers* except the ones you select.
 
-### Selecting trade policies
+### Selecting sales channels
 
-In the **Trade policies** section, define the trade policies the promotion will apply to:
+In the **Sales channels** section, define the sales channels the promotion will apply to:
 
-* **All**: Applies the promotion to all trade policies.
+* **All**: Applies the promotion to all sales channels.
 
-* **Equal to:** Applies the promotion only to the selected trade policies.
+* **Equal to:** Applies the promotion only to the selected sales channels.
 
-* **Different from:** Applies the promotion to all trade policies except the ones you select.
+* **Different from:** Applies the promotion to all sales channels except the ones you select.
 
 Selecting the campaign audience
 Define the audiences that will have access to this promotion. The promotion will only be applied to users who meet the conditions configured in the selected audiences.

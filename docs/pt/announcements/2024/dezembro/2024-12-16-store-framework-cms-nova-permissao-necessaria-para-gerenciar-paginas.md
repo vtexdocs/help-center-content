@@ -13,6 +13,10 @@ locale: pt
 legacySlug: store-framework-cms-nova-permissao-necessaria-para-gerenciar-paginas
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Gerenciar páginas no Store Framework CMS exige acesso ao recurso "CMS Settings".'
+tags:
+  - Atualização de segurança
+  - Storefront
+  - Identity
 ---
 
 [Páginas](/pt/docs/tutorials/paginas-visao-geral) é uma funcionalidade do Store Framework CMS que gerencia todas as rotas de URL e os modelos de página correspondentes do site da sua loja, como a página inicial, de produto e de login. Por motivos de segurança, estamos exigindo que usuários do Admin possuam uma permissão específica para gerenciar as rotas e páginas de template dessa funcionalidade.

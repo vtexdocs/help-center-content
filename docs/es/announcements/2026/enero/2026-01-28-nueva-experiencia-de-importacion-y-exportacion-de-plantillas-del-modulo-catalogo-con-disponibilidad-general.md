@@ -2,7 +2,7 @@
 title: 'Nueva experiencia de importación y exportación de plantillas del módulo Catálogo con disponibilidad general'
 status: PUBLISHED
 createdAt: 2026-01-28T00:00:00.000Z
-updatedAt: 2026-04-02T00:00:00.000Z
+updatedAt: 2026-03-24T00:00:00.000Z
 publishedAt: 2026-01-28T00:00:00.000Z
 contentType: updates
 productTeam: Catálogo
@@ -11,11 +11,8 @@ slugEN: 2026-01-28-general-availability-of-new-catalog-spreadsheet-import-and-ex
 locale: es
 announcementSynopsisES: 'La interfaz rediseñada ofrece exportación por filtros y seguimiento del status.'
 tags:
+  - Nueva funcionalidad
   - Catálogo
-  - Importación
-  - Producto
-  - Productos
-  - SKU
 ---
 
 Hasta el final de febrero de 2026, todas las tiendas VTEX tendrán acceso a la nueva experiencia de importación y exportación de plantillas de productos y SKUs, especificaciones e imágenes. La migración de las cuentas se está realizando gradualmente y se aplicará a tiendas de todas las regiones.

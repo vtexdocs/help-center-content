@@ -13,6 +13,10 @@ locale: es
 legacySlug: amazon-el-modelo-de-mapeo-de-productos-actual-sera-descontinuado
 announcementImageID: 'undefined'
 announcementSynopsisES: 'El modelo de mapeo de productos actual para la integración con Amazon será descontinuado.'
+tags:
+  - Descontinuación
+  - Marketplace
+  - Integraciones
 ---
 
 Con el objetivo de proporcionar una mejor experiencia a nuestros clientes, anunciamos la descontinuación de **Amazon mapper** y del **mapeo por plantillas** utilizados para integrar tiendas VTEX con Amazon. La descontinuación se llevará a cabo el 31 de marzo de 2025.

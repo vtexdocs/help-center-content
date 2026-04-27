@@ -68,7 +68,7 @@ You can also add a **list price** that is linked to the SKU base price. However,
 | listPrice | integer | SKU List Price |
 | markup | integer | SKU Markup |
 | fixedPrices | array | Fixed Price  |
-| tradePolicyId | integer | Trade policy ID |
+| tradePolicyId | integer | Sales channel ID |
 | value | integer | Fixed Price value |
 | listPrice | integer | List Price |
 | minQuantity | integer | Minimum item quantity |

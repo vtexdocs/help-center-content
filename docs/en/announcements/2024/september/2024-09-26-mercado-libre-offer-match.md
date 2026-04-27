@@ -13,6 +13,10 @@ locale: en
 legacySlug: mercado-libre-offer-match
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Link your offers to Mercado Libre catalog opportunities to boost product relevance.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 When setting up the Mercado Libre [integration](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), sellers sends their catalog to the marketplace. Once the products are submitted and the offers are created, Mercado Libre shows **catalog** match opportunities to the seller, which can be highlighted in the marketplace. To analyze an opportunity, sellers need to access the VTEX Admin and go to **Marketplace > Mercado Libre > Offer Match**  or type **Offer Match** in the search bar.  

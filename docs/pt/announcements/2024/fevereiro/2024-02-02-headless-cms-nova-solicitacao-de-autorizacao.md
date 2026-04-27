@@ -13,6 +13,10 @@ locale: pt
 legacySlug: headless-cms-nova-solicitacao-de-autorizacao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Usuários agora precisam do recurso CMS GraphQL API para gerenciar conteúdo. Atualize os perfis de acesso de acordo.'
+tags:
+  - Melhoria
+  - Storefront
+  - Identity
 ---
 
 A partir de 15 de Fevereiro, todos os [usuários](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e [chaves de aplicação](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que precisarem acessar o Headless CMS deverão ter os [recursos](/pt/docs/tutorials/recursos-do-license-manager) `See CMS menu on the top-bar` e `Settings` do License Manager adicionados aos seus [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). Para o gerenciamento de conteúdo no Headless CMS, também é necessário ter o [recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API`. Esse requisito se aplica à API do Headless CMS e ao Admin VTEX.

@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 2TvvbKyvcItxWiM018erXt
 ---
 
-# 
-
 Este conteúdo orienta o que fazer quando as vendas de apenas um vendedor não aparecem ou quando as vendas estão sendo registradas, mas não atribuídas corretamente aos vendedores.
 
 Esse problema pode ocorrer quando o vendedor foi cadastrado sem o **Código do PDV**.

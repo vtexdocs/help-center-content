@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevas-paginas-para-agregar-o-editar-productos-y-skus-ahora-en-ga
 announcementImageID: 'undefined'
 announcementSynopsisES: 'La página Productos y SKUs y las páginas para agregar o editar un producto o sku están ahora en GA.'
+tags:
+  - Nueva funcionalidad
+  - Catálogo
 ---
 
 Las páginas para crear y editar [productos y SKUs](/es/docs/tutorials/productos-y-skus), anteriormente en beta, ahora están en disponibilidad general (GA), y esto aplica a tiendas VTEX de todas las regiones. 

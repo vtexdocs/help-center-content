@@ -57,9 +57,9 @@ Now, you must connect the pickup point with the warehouse of the physical store.
 3. Enable the __VTEX Sales App warehouse__ option by toggling the <i class="fas fa-toggle-on"></i> button.
 4. Select the pickup points that will use the warehouse of the physical store.
 
-With this, your warehouse is connected to the pickup point, and customers can now pick up products at this physical store. When you activate this option, __Logistics__ does not observe the trade policy of the loading dock connected to the warehouse in question. 
+With this, your warehouse is connected to the pickup point, and customers can now pick up products at this physical store. When you activate this option, __Logistics__ does not observe the sales channel of the loading dock connected to the warehouse in question. 
 
-> ℹ️ When you associate the pickup point with the physical store's stock, this configuration applies to the stock of all active trade policies.
+> ℹ️ When you associate the pickup point with the physical store's stock, this configuration applies to the stock of all active sales channels.
 
 ## Learn more
 - [Configuring a white label seller as a pickup point](/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).

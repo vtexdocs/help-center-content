@@ -13,6 +13,9 @@ locale: es
 legacySlug: 
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'El secreto del cliente al iniciar sesión con Google y Facebook está enmascarado y solo muestra los últimos 3 caracteres.'
+tags:
+  - Actualización de seguridad
+  - Identity
 ---
 
 Para reforzar la seguridad de las integraciones de inicio de sesión social, el campo **Secreto del cliente** de la configuración de [inicio de sesión con Google y Facebook](https://help.vtex.com/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google) ahora se muestra enmascarado en el Admin VTEX.

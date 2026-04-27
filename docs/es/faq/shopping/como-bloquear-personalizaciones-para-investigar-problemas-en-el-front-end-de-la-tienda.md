@@ -3,7 +3,7 @@ title: 'Cómo bloquear personalizaciones para investigar problemas en el front-e
 id: 5c1a4bvVK8rAvKLczhkCnY
 status: PUBLISHED
 createdAt: 2020-04-20T12:59:14.576Z
-updatedAt: 2023-04-12T14:38:14.185Z
+updatedAt: 2026-03-27T19:53:01.038Z
 publishedAt: 2023-04-12T14:38:14.185Z
 firstPublishedAt: 2020-04-20T13:31:24.105Z
 contentType: frequentlyAskedQuestion
@@ -11,62 +11,39 @@ productTeam: Shopping
 author: 4iKDU1m0huXy1qFWff7vY5
 slugEN: blocking-customizations-to-troubleshoot-front-end-issues
 locale: es
-legacySlug: como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja, como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda
+legacySlug: como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda
 ---
 
-> ⚠️ Tutorial válido solo para tiendas CMS Portal (Legado).
+> ⚠️ Este tutorial solo es válido para tiendas [CMS Portal (Legado)](https://help.vtex.com/es/docs/tracks/cms-portal-legado).
 
-En este artículo, aprenderá a bloquear las personalizaciones de front-end para detectar si el problema es la información que VTEX entrega de forma nativa o si es la personalización de la página.
+En este artículo, aprenderás a identificar el origen de un problema en el frontend. El primer paso es bloquear las personalizaciones de frontend. Con base en la respuesta del sitio web, será posible entender si el problema está en la información que VTEX provee de forma nativa o en la personalización de tu página.
 
-Hay varias aplicaciones y extensiones de Chrome que retiran las personalizaciones, sin embargo, vamos a demostrar cómo retirarlas utilizando una herramienta nativa de Chrome: **DevTools**.
+Para hacer esto, te mostraremos cómo remover las personalizaciones utilizando una herramienta nativa de Chrome, **DevTools**.
 
-## Cómo configurar DevTools
+## Configurar DevTools
 
-1. Para abrir DevTools, ingrese a Chrome y oprima **F12** o haga clic en el **botón derecho del mouse > Inspeccionar**.
+Para configurar [Chrome DevTools](https://developer.chrome.com/docs/devtools/) sigue los pasos a continuación.
 
-![Customizations1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda_1.png)
+1. Abre [Google Chrome](https://www.google.com/intl/es-419/chrome/) en tu computadora.
+2. Haz clic en el botón `F12` de tu teclado o haz clic derecho con el mouse en cualquier parte de la pantalla y selecciona **Inspeccionar**.
+3. Haz clic en los tres puntos verticales en la parte superior derecha de la página, como se indica en la imagen siguiente:
+4. Selecciona **Más herramientas** y luego **Condiciones de la solicitud** para bloquear todas las personalizaciones hechas mediante CSS, JavaScript y Google Tag Manager.
 
-2. Vamos a buscar la función **Request Blocking** para bloquear todas las personalizaciones realizadas con CSS, JavaScript y Google Tag Manager. Haga clic en los tres puntos de la derecha, como se indica en la imagen, después en **More Tools** y, por último, en **Request Blocking**.
+![Personalizaciones1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/legado-02-es.png)
 
-![Customizations2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda_2.png)
+5. En la pestaña **Condiciones de la solicitud**, haz clic en `Agregar regla` para configurar el primer recurso a bloquear. Para agregar más recursos, haz clic en `+` y una vez definido haz clic en `Agregar`. Esta configuración solo es necesario realizarla una vez en tu navegador. Incluye los siguientes ítems:
 
-3. Se abrirá un recuadro como se muestra aquí:
+- `*:/arquivos/*.js`
+- `*:/files/*js`
+- `*:/arquivos/*.css`
+- `*:/files/*.css`
+- `*://www.googletagmanager.com/gtm.js*`
 
-![Customizations3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda_3.png)
+![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/request-conditions-02-es.png)
 
-4. Haga clic en la pestaña **Request Blocking**.
+6. Marca la opción **Habilitar el bloqueo y la limitación** y todas las casillas junto a cada recurso configurado. Esta será la configuración predeterminada, con todas las opciones activadas para el bloqueo.
+7. Ahora, actualiza la página. Se mostrará sin los componentes personalizados.
 
-Ahora defina los recursos que se deben bloquear. Solo tiene que hacer la configuración una vez.
+Comprueba si el comportamiento no deseado que observaste inicialmente solo se produce con la personalización activa. Si es así, ponte en contacto con el equipo responsable de tu frontend para que verifique lo que está ocurriendo.
 
-5. Haga clic en ícono de «+» e incluya, uno por uno, los elementos que aparecen a continuación:
-
-- `*/arquivos/*.js`
-- `*/files/*js`
-- `*/arquivos/*.css`
-- `*/files/*.css`
-- `*gtm.js*`
-
-El recuadro se verá así:
-
-![Customizations4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda_4.png)
-
-Recuerde: solo tiene que hacer la configuración __una__ vez.
-
-## Cómo bloquear las personalizaciones con DevTools
-
-1. Marque la casilla **Enable request blocking** y habilite las cinco casillas que se muestran en la imagen. 
-
-2. Esta será la configuración que quedará definida como estándar, con las cinco opciones habilitadas para el bloqueo.
-
-![Customizations5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda_5.png)
-
-3. Ahora, actualice la página oprimiendo **F5**. La página se mostrará sin los componentes de personalización.
-
-![Customizations6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda_6.png)
-
-4. Para volver a visualizar las personalizaciones, solo tiene que desactivar la casilla **Enable request blocking** y actualizar la página otra vez.
-
-Si el comportamiento indeseado que había observado originalmente no ocurre sin la personalización, comuníquese con el equipo responsable de su front-end para que ellos investiguen lo que está ocurriendo.
-
-Si el comportamiento indeseado persiste aun con las personalizaciones bloqueadas, abra una solicitud de asistencia con el equipo de soporte de VTEX y envíe los detalles de lo que está pasando.
-
+Si, aun con las personalizaciones bloqueadas, el comportamiento no deseado persiste, abre un ticket para el [Soporte de VTEX](https://supporticket.vtex.com/support).

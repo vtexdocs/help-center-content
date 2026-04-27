@@ -13,6 +13,9 @@ locale: pt
 legacySlug: site-editor-problema-de-perda-de-conteudo-corrigido
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'O armazenamento de conteúdo do Site Editor foi atualizado para melhorar seu desempenho e confiabilidade.'
+tags:
+  - Melhoria
+  - Storefront
 ---
 
 No dia 12 de junho, o armazenamento de conteúdo do [Site Editor](/pt/docs/tutorials/site-editor-visao-geral) foi atualizado todas as contas para todas as contas que o utilizam a fim de solucionar um problema conhecido: a perda [intermitente de conteúdo do Site Editor](/pt/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). Essa atualização melhora o desempenho e a confiabilidade do armazenamento, além de reduzir o espaço ocupado pelo seu conteúdo.

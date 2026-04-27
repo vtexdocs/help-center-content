@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
+> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso [formulário](https://vtex.com/pt-br/contato/) apontando no campo `Comentários` o nome do produto desejado.
 
 **Ordens de serviço** é uma página do Admin VTEX que gerencia, em tempo real, as ordens de serviço utilizadas pelos separadores para agrupar e separar os itens de cada pedido. O separador pode agrupar quantos pedidos desejar em cada ordem de serviço. 
 

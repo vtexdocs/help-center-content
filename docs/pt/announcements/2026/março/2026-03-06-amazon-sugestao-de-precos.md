@@ -10,6 +10,10 @@ author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: 2026-03-06-amazon-price-suggestion
 locale: pt
 announcementSynopsisPT: 'A integração com a Amazon agora conta com sugestão de preços para apoiar decisões de precificação com contexto de buybox.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
+  - Integrações
 ---
 
 Lançamos a funcionalidade **Sugestão de preços** na integração entre VTEX e a Amazon para dar mais visibilidade sobre a competitividade dos SKUs ativos e apoiar decisões de precificação no dia a dia.
