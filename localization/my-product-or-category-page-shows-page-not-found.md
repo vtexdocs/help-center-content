@@ -21,7 +21,7 @@ Keywords: Loading error | Sync issue
 
 My product, category, or subcategory page returns `404` or behaves as if the page doesn't exist (**PAGE NOT FOUND** message). This can happen after catalog updates, such as changes to product content, images, slugs, category hierarchy, or workspace publication.
 
-In some cases, the issue appears to be a rendering or product visibility issue, but the storefront symptom remains the same: the route can't be resolved correctly. Depending on the root cause, the fix may require action from you, VTEX, or both.
+In some cases, the issue seems to be a rendering or product visibility issue, but the storefront symptom remains the same: the route can't be resolved correctly. Depending on the root cause, the fix may require action from you, VTEX, or both.
 
 The most common causes for this behavior are:
 
@@ -29,7 +29,7 @@ The most common causes for this behavior are:
 - [The product or category isn't available in the storefront](#confirm-storefront-availability)
 - [The product or category wasn't indexed correctly](#reindex-the-affected-item)
 - [The route wasn't updated in the rewriter](#refresh-route-generation)
-- [The category hierarchy or breadcrumb path is incorrect](#review-the-category-hierarchy-and-breadcrumb-path)
+- [The category hierarchy or breadcrumb path is incorrect](#check-the-category-hierarchy-and-breadcrumb-path)
 - [Workspace changes weren't published](#publish-workspace-changes)
 
 ## Solutions
@@ -41,7 +41,7 @@ The most common causes for this behavior are:
 3. Confirm whether the current [product](https://help.vtex.com/docs/tutorials/adding-or-editing-products#seo) or [category](https://help.vtex.com/docs/tutorials/registering-a-category#filling-in-the-category-registration-fields) URL slugs are correct.
 4. Check whether the storefront URL matches the current slug exactly.
 5. If the slug changed recently, test the new URL.
-6. If internal or external links still point to the old URL, create a redirect from the old path to the current one following the instructions in [Managing URL redirects](https://help.vtex.com/en/docs/tutorials/managing-url-redirects).
+6. If internal or external links still point to the old URL, create a redirect from the old path to the current one, following the instructions in [Managing URL redirects](https://help.vtex.com/en/docs/tutorials/managing-url-redirects).
 
 After completing these checks, open the current URL again and confirm that the page no longer returns `404`.
 
@@ -49,10 +49,10 @@ After completing these checks, open the current URL again and confirm that the p
 
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click **Products and SKUs** or **Categories** to access the affected product or category.
-3. Confirm that the product or category is active, and is configured to be shown in the store. For products, confirm that at least one SKU is active.
-4. Check whether the product has valid price and stock for the [trade policy](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) used by the store.
-5. If your operation shows unavailable products, confirm that the corresponding display setting is enabled according to the [availability](https://help.vtex.com/en/docs/tutorials/availability) criteria.
-6. Confirm that the item is assigned to the expected brand, category, and commercial structure.
+3. Confirm that the product or category is active and is configured to be shown in the store. For products, confirm that at least one SKU is active.
+4. Check whether the product has a valid price and stock for the [sales channel (trade policy)](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work) used by the store.
+5. If your operation shows unavailable products, make sure that the corresponding display setting is enabled based on the [availability](https://help.vtex.com/en/docs/tutorials/availability) criteria.
+6. Confirm that the item is assigned to the expected brand, category, and business structure.
 
 After validating these settings, test the storefront again to confirm that the product or category is available and no longer behaves like a missing page.
 
@@ -69,15 +69,15 @@ Once the indexing process is complete, test the affected URL again and confirm t
 
 ### Refresh route generation
 
-1. Check whether the expected route exists in the [rewriter configuration](https://help.vtex.com/pt/troubleshooting/nao-consigo-visualizar-o-produto-na-busca-do-site#modificacao-do-filtro-da-busca-no-rewriter).
+1. Check whether the expected route exists in the [rewriter configuration](https://help.vtex.com/troubleshooting/i-cant-view-the-product-in-the-search-results).
 2. Confirm that the route points to the correct product, category, or subcategory path.
-3. If the route is stale or inconsistent, refresh route generation according to your internal procedure.
-4. If your team uses route versioning, increment the routes version and wait for the storefront to rebuild the routes.
+3. If the route is stale or inconsistent, refresh route generation based on your internal procedure.
+4. If your team uses route versioning, increment the route version and wait for the storefront to rebuild the routes.
 5. Test the affected URL again.
 
-After the route is refreshed, test the URL again to confirm that the storefront rebuilt the path correctly.
+After refreshing the route, test the URL again to confirm that the storefront rebuilt the path correctly.
 
-### Review the category hierarchy and breadcrumb path
+### Check the category hierarchy and breadcrumb path
 
 1. In the VTEX Admin, open the [category tree](https://help.vtex.com/en/docs/tutorials/deactivating-and-reorganizing-categories#changing-the-category-tree).
 2. Confirm that the affected subcategory is attached to the expected parent category.
@@ -91,7 +91,7 @@ After correcting the category structure, test the breadcrumb and subcategory lin
 
 1. Confirm where the change was applied in the [workspace](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace).
 2. Validate the corrected route in the workspace.
-3. Publish or promote the workspace changes according to your release process.
+3. Publish or promote the workspace changes following your release process.
 4. Test the page in the live store and confirm that production is using the updated route.
 
 If the page still returns `404` after following all the steps above, contact VTEX Support using the instructions in [Opening tickets to VTEX Support](https://help.vtex.com/en/docs/tutorials/opening-tickets-to-vtex-support).

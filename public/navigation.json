@@ -4,8 +4,8 @@
       "documentation": "announcements",
       "name": {
         "en": "Announcements",
-        "es": "Anuncios",
-        "pt": "Anúncios"
+        "es": "Comunicados",
+        "pt": "Comunicados"
       },
       "slugPrefix": "announcements",
       "categories": [
@@ -7685,8 +7685,8 @@
       "documentation": "faq",
       "name": {
         "en": "FAQ",
-        "es": "FAQ",
-        "pt": "FAQ"
+        "es": "Preguntas frecuentes",
+        "pt": "Perguntas frequentes"
       },
       "slugPrefix": "faq",
       "categories": [
@@ -9580,7 +9580,7 @@
       "documentation": "tracks",
       "name": {
         "en": "Start here",
-        "es": "Comece aqui",
+        "es": "Comienza aquí",
         "pt": "Comece aqui"
       },
       "slugPrefix": "docs/tracks",
@@ -15379,8 +15379,8 @@
       "documentation": "troubleshooting",
       "name": {
         "en": "Troubleshooting",
-        "es": "Troubleshooting",
-        "pt": "Troubleshooting"
+        "es": "Resolución de problemas",
+        "pt": "Resolução de problemas"
       },
       "slugPrefix": "troubleshooting",
       "categories": [
@@ -39758,6 +39758,21 @@
             },
             {
               "name": {
+                "en": "“New user” action disabled in My Organization on public domain",
+                "es": "La acción «Nuevo usuario» está desactivada en «Mi organización» en el dominio público",
+                "pt": "A ação “Novo usuário” está desativada em “Minha organização” no domínio público"
+              },
+              "slug": {
+                "en": "new-user-action-disabled-in-my-organization-on-public-domain",
+                "es": "la-accion-nuevo-usuario-esta-desactivada-en-mi-organizacion-en-el-dominio-publico",
+                "pt": "a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Addresses are shown in the Checkout when buyer has 'Can add shipping' permission",
                 "es": "Las direcciones se muestran en la caja cuando el comprador tiene permiso para 'Añadir envío'.",
                 "pt": "Os endereços são exibidos no Checkout quando o comprador tem a permissão 'Can add shipping' (Pode adicionar frete)"
@@ -41590,13 +41605,13 @@
             {
               "name": {
                 "en": "Collections named with special characters cannot be exported",
-                "es": "Las colecciones nombradas con caracteres especiales no se pueden exportar",
-                "pt": "As coleções nomeadas com caracteres especiais não podem ser exportadas"
+                "es": "Las colecciones cuyos nombres contengan caracteres especiales no se pueden exportar",
+                "pt": "Coleções com nomes que contenham caracteres especiais não podem ser exportadas"
               },
               "slug": {
                 "en": "collections-named-with-special-characters-cannot-be-exported",
-                "es": "las-colecciones-nombradas-con-caracteres-especiales-no-se-pueden-exportar",
-                "pt": "as-colecoes-nomeadas-com-caracteres-especiais-nao-podem-ser-exportadas"
+                "es": "las-colecciones-cuyos-nombres-contengan-caracteres-especiales-no-se-pueden-exportar",
+                "pt": "colecoes-com-nomes-que-contenham-caracteres-especiais-nao-podem-ser-exportadas"
               },
               "origin": "",
               "type": "markdown",
@@ -43389,6 +43404,21 @@
             },
             {
               "name": {
+                "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
+                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
+                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+              },
+              "slug": {
+                "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
+                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "PUT Brand API does not update \"LinkID\" property",
                 "es": "La API PUT Brand no actualiza la propiedad \"LinkID",
                 "pt": "A API de marca PUT não atualiza a propriedade \"LinkID\""
@@ -44907,13 +44937,13 @@
             {
               "name": {
                 "en": "Broken carts when adding unavailable Assembly Option",
-                "es": "Carros rotos al añadir la opción de montaje no disponible",
-                "pt": "Carrinhos quebrados ao adicionar a opção de montagem indisponível"
+                "es": "Errores al añadir una opción de montaje no disponible",
+                "pt": "Erros no carrinho ao adicionar uma opção de montagem indisponível"
               },
               "slug": {
                 "en": "broken-carts-when-adding-unavailable-assembly-option",
-                "es": "carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible",
-                "pt": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel"
+                "es": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
+                "pt": "erros-no-carrinho-ao-adicionar-uma-opcao-de-montagem-indisponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -45499,6 +45529,21 @@
                 "en": "checkout-ui-changes-the-selected-address-when-more-than-1-address-available",
                 "es": "la-interfaz-de-usuario-de-la-caja-cambia-la-direccion-seleccionada-cuando-hay-mas-de-1-direccion-disponible",
                 "pt": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout UI does not display an error message when user with complete profile triggers gift unavailability",
+                "es": "La interfaz de pago no muestra un mensaje de error cuando un usuario con el perfil completo activa la opción de que el regalo no está disponible",
+                "pt": "A interface do checkout não exibe uma mensagem de erro quando um usuário com perfil completo aciona a indisponibilidade do presente"
+              },
+              "slug": {
+                "en": "checkout-ui-does-not-display-an-error-message-when-user-with-complete-profile-triggers-gift-unavailability",
+                "es": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
+                "pt": "a-interface-do-checkout-nao-exibe-uma-mensagem-de-erro-quando-um-usuario-com-perfil-completo-aciona-a-indisponibilidade-do-presente"
               },
               "origin": "",
               "type": "markdown",
@@ -46886,6 +46931,21 @@
             },
             {
               "name": {
+                "en": "Partial loyalty credit input wrong behavior Checkout UI when commercial policy has 0 decimal places",
+                "es": "Comportamiento incorrecto al introducir créditos de fidelidad parciales en la interfaz de pago cuando la política comercial tiene 0 decimales",
+                "pt": "Comportamento incorreto na inserção de crédito de fidelidade parcial na interface de checkout quando a política comercial tem 0 casas decimais"
+              },
+              "slug": {
+                "en": "partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places",
+                "es": "comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales",
+                "pt": "comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Partial scheduled delivery window selection for the same SLA affecting the purchase flow",
                 "es": "Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra",
                 "pt": "Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra"
@@ -47419,6 +47479,21 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Race condition with GET OrderForm when user is authenticated and email is null",
+                "es": "Condición de carrera con GET OrderForm cuando el usuario está autenticado y el correo electrónico es nulo",
+                "pt": "Condição de corrida com GET OrderForm quando o usuário está autenticado e o e-mail é nulo"
+              },
+              "slug": {
+                "en": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+                "es": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+                "pt": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo"
               },
               "origin": "",
               "type": "markdown",
@@ -49648,7 +49723,7 @@
             },
             {
               "name": {
-                "en": "Amazon Listing Returns Code",
+                "en": "Amazon Listing Returns Code #13013 preventing SKU creation",
                 "es": "Amazon Listado Código de devolución",
                 "pt": "Amazon Listagem Código de devolução"
               },
@@ -49784,7 +49859,7 @@
             {
               "name": {
                 "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
-                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout)",
                 "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
               },
               "slug": {
@@ -50031,6 +50106,21 @@
                 "en": "ey-send-kit-is-not-recording-a-change-in-the-card",
                 "es": "ey-enviar-kit-no-esta-registrando-un-cambio-en-la-tarjeta",
                 "pt": "ey-enviar-kit-nao-esta-registrando-uma-mudanca-no-cartao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta Facebook Business Extension (FBE) is enabled",
+                "es": "FBE Las imágenes PLP/PDP a veces no se cargan cuando está activada la extensión Meta Facebook Business (FBE)",
+                "pt": "FBE As imagens do PLP/PDP não carregam ocasionalmente quando a Meta Facebook Business Extension (FBE) está ativada"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
+                "es": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
+                "pt": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada"
               },
               "origin": "",
               "type": "markdown",
@@ -50893,6 +50983,21 @@
             },
             {
               "name": {
+                "en": "Shopee Freight value mismatch on seller logistics orders",
+                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
+                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+              },
+              "slug": {
+                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
+                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shopee The level of tier-variation not change",
                 "es": "Shopee El nivel de tier-variación no cambia",
                 "pt": "Shopee O nível de variação de nível não muda"
@@ -51352,6 +51457,21 @@
                 "en": "pagination-on-searchpage-doesnt-reset-when-changing-search-context",
                 "es": "la-paginacion-en-la-pagina-de-busqueda-no-se-reinicia-al-cambiar-el-contexto-de-busqueda",
                 "pt": "a-paginacao-na-pagina-de-pesquisa-nao-e-redefinida-ao-alterar-o-contexto-da-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
+                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
+                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
+              },
+              "slug": {
+                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
               },
               "origin": "",
               "type": "markdown",
@@ -52202,6 +52322,21 @@
             },
             {
               "name": {
+                "en": "Category translation fields being overwritten on catalog graphql",
+                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
+                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
+              },
+              "slug": {
+                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
+                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
+                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Changing synonyms from unidirectional to bidirectional does not work",
                 "es": "El cambio de sinónimos de unidireccional a bidireccional no funciona",
                 "pt": "A alteração de sinônimos de unidirecional para bidirecional não funciona"
@@ -52240,6 +52375,21 @@
                 "en": "collection-searchtitle-doesnt-display-accents-when-accessed-through-mapproductclusternames",
                 "es": "el-titulo-de-busqueda-de-la-coleccion-no-muestra-los-acentos-cuando-se-accede-a-traves-de-mapproductclusternames",
                 "pt": "pesquisa-de-colecao-o-titulo-nao-exibe-acentos-quando-acessado-atraves-de-mapproductclusternames"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Collection title is not displayed when accessing through ?map=productClusterIds query in multilanguage accounts",
+                "es": "El título de la colección no se muestra al acceder a través de la consulta «?map=productClusterIds» en cuentas multilingües",
+                "pt": "O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues"
+              },
+              "slug": {
+                "en": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
+                "es": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+                "pt": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues"
               },
               "origin": "",
               "type": "markdown",
@@ -53373,12 +53523,12 @@
             {
               "name": {
                 "en": "Search results may not display products from the synonyms",
-                "es": "Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos",
+                "es": "Es posible que los resultados de la búsqueda no muestren productos de los sinónimos",
                 "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
               },
               "slug": {
                 "en": "search-results-may-not-display-products-from-the-synonyms",
-                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos",
+                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-productos-de-los-sinonimos",
                 "pt": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos"
               },
               "origin": "",
@@ -53493,13 +53643,13 @@
             {
               "name": {
                 "en": "Specification Values not being translated in Intelligent Search side",
-                "es": "Los valores de especificación no se traducen en la búsqueda inteligente",
-                "pt": "Os valores de especificação não estão sendo traduzidos no lado da Pesquisa Inteligente"
+                "es": "Los valores de las especificaciones no se traducen en la sección de búsqueda inteligente",
+                "pt": "Os valores das especificações não estão sendo traduzidos na seção de Pesquisa Inteligente"
               },
               "slug": {
                 "en": "specification-values-not-being-translated-in-intelligent-search-side",
-                "es": "los-valores-de-especificacion-no-se-traducen-en-la-busqueda-inteligente",
-                "pt": "os-valores-de-especificacao-nao-estao-sendo-traduzidos-no-lado-da-pesquisa-inteligente"
+                "es": "los-valores-de-las-especificaciones-no-se-traducen-en-la-seccion-de-busqueda-inteligente",
+                "pt": "os-valores-das-especificacoes-nao-estao-sendo-traduzidos-na-secao-de-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -54304,6 +54454,21 @@
             },
             {
               "name": {
+                "en": "Shipping Simulator UI returns empty “Postal code range”, “Weight range” for KITs SKUs",
+                "es": "La interfaz de usuario de Shipping Simulator muestra valores vacíos en los campos «Rango de códigos postales» y «Rango de peso» para las referencias de los kits",
+                "pt": "A interface do Shipping Simulator exibe valores nulos nos campos “Intervalo de CEP” e “Intervalo de peso” para as SKUs dos kits"
+              },
+              "slug": {
+                "en": "shipping-simulator-ui-returns-empty-postal-code-range-weight-range-for-kits-skus",
+                "es": "la-interfaz-de-usuario-de-shipping-simulator-muestra-valores-vacios-en-los-campos-rango-de-codigos-postales-y-rango-de-peso-para-las-referencias-de-los-kits",
+                "pt": "a-interface-do-shipping-simulator-exibe-valores-nulos-nos-campos-intervalo-de-cep-e-intervalo-de-peso-para-as-skus-dos-kits"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping Strategy stuck in Processing due to extremely large weight-range combinations (Logistics shipping spreadsheets)",
                 "es": "Estrategia de envío atascada en Procesamiento debido a combinaciones de rangos de peso extremadamente grandes (hojas de cálculo de envío de Logística).",
                 "pt": "Estratégia de remessa travada no processamento devido a combinações de faixas de peso extremamente grandes (planilhas de remessa logística)"
@@ -54410,13 +54575,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona para una base de sku muy grande (StatusCode: 429)",
-                "pt": "A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)"
+                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
+                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429"
+                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
               },
               "origin": "",
               "type": "markdown",
@@ -58449,6 +58614,21 @@
             },
             {
               "name": {
+                "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
+                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+              },
+              "slug": {
+                "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
+                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
                 "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
                 "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
@@ -61737,6 +61917,21 @@
             },
             {
               "name": {
+                "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
+                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+              },
+              "slug": {
+                "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Risk analysis canceled earlier than expected due to fixed retry limit",
                 "es": "El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos",
                 "pt": "Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas"
@@ -62262,6 +62457,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in Approved while payment remains finished or settling",
+                "es": "La transacción se ha quedado bloqueada en «Aprobada», mientras que el pago sigue en estado «Finalizado» o «En liquidación»",
+                "pt": "A transação está parada na etapa \"Aprovada\", enquanto o pagamento continua como \"Concluído\" ou \"Em liquidação\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+                "pt": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -62443,7 +62653,7 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
                 "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
@@ -62946,6 +63156,21 @@
                 "en": "sales-app-barcode-scanner-accepts-only-ean13",
                 "es": "el-escaner-de-codigo-de-barras-de-sales-app-solo-acepta-ean13",
                 "pt": "o-leitor-de-codigo-de-barras-do-aplicativo-de-vendas-aceita-apenas-ean13"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
+                "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+              },
+              "slug": {
+                "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
+                "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
               },
               "origin": "",
               "type": "markdown",
@@ -64907,6 +65132,21 @@
             },
             {
               "name": {
+                "en": "Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion",
+                "es": "Cálculo incorrecto del regalo al combinar referencias elegibles en la promoción «Compra uno y llévate otro gratis»",
+                "pt": "Cálculo incorreto do brinde ao combinar SKUs elegíveis na promoção “Compre um, ganhe outro”"
+              },
+              "slug": {
+                "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
+                "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
+                "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Incorrect discount calculation for 'More for Less' with Max price after item split by previous promotion application",
                 "es": "Cálculo incorrecto del descuento para 'Más por menos' con precio máximo después de la división del artículo por la aplicación de promoción anterior.",
                 "pt": "Cálculo de desconto incorreto para 'Mais por menos' com preço máximo após a divisão do item pelo aplicativo de promoção anterior"
@@ -66095,6 +66335,21 @@
             },
             {
               "name": {
+                "en": "CRM UI relationship field search fails when related field is Auto Increment",
+                "es": "La búsqueda en el campo de relación de la interfaz de usuario de CRM falla cuando el campo relacionado es de autoincremento",
+                "pt": "A pesquisa no campo de relação da interface do usuário do CRM falha quando o campo relacionado é de incremento automático"
+              },
+              "slug": {
+                "en": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+                "es": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+                "pt": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Data Visualization Inconsistencies on Masterdata UI",
                 "es": "Inconsistencias en la visualización de datos en la interfaz de usuario de Masterdata",
                 "pt": "Inconsistências de visualização de dados na interface do usuário do Masterdata"
@@ -66644,21 +66899,6 @@
                 "en": "carousel-layout-issue-using-responsivevalues-in-sku-selector",
                 "es": "problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector",
                 "pt": "problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Category translation fields being overwritten on catalog graphql",
-                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
-                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
-              },
-              "slug": {
-                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
-                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
-                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
               },
               "origin": "",
               "type": "markdown",
