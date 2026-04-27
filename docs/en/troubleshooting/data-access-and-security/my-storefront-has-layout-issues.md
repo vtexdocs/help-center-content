@@ -3,6 +3,9 @@ title: "My storefront has layout issues"
 createdAt: 2026-04-27T15:50:40.668Z
 locale: en
 slugEN: my-storefront-has-layout-issues
+contentType: troubleshooting
+domainFilters:
+  - Storefront
 tags:
   - Frontend
   - CMS
