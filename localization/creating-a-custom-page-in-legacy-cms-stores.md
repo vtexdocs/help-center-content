@@ -2,7 +2,7 @@
 title: "Creating a custom page in Legacy CMS stores"
 createdAt: 2026-03-09T16:56:01.751Z
 locale: en
-slugPT: "creating-a-custom-page-in-legacy-cms-stores"
+slugEN: "creating-a-custom-page-in-legacy-cms-stores"
 ---
 
 This guide describes how to create a custom page in stores developed with [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal). By following these instructions, you'll be able to set up a new page, link a template, and make it available in a custom URL.
