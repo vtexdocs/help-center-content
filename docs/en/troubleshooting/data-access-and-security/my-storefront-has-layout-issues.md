@@ -1,6 +1,6 @@
 ---
 title: "My storefront has layout issues"
-createdAt: 2026-03-09T15:40:27.806Z
+createdAt: 2026-04-27T15:50:40.668Z
 locale: en
 slugEN: my-storefront-has-layout-issues
 tags:
