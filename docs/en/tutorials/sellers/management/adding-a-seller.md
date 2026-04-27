@@ -50,7 +50,7 @@ To add an unidentifiable seller, aka [white label seller](/en/docs/tutorials/whi
 - **Seller groups**: Keyword that identifies the group the seller belongs to, to be filtered in the sellers list. Define a new keyword to create a new group or repeat one already used to link the seller to one or more existing groups. You can create groups for comprehensive sellers, franchise accounts, third party sellers, premium partners, or any other category that applies to your business. Know more in [Seller Management](/en/docs/tutorials/seller-management).
 
 **Trade agreements**
-- **Marketplace trade policies**: Select the [trade policies](/en/docs/tutorials/how-trade-policies-work) that are valid for the seller to link your products and sales conditions to different contexts. For example, a trade policy used on the website and a trade policy used in an app.    
+- **Marketplace sales channels**: Select the [sales channels](/en/docs/tutorials/how-trade-policies-work) that are valid for the seller to link your products and sales conditions to different contexts. For example, a sales channel used on the website and a sales channel used in an app.    
 - **Product commissioning**: Define the commissioning percentage that applies to the seller's products.  
 - **Shipping commissioning**: Define the commissioning percentage that applies to the shipping cost of the seller's orders.  
 - **Add commissioning by category**: When checking this option, select the categories from your catalog that will have specific commissioning percentages associated with the seller. You can define the commissioning percentage by product and/or shipping for the selected category.   
@@ -72,7 +72,7 @@ Once you have filled out the form and clicked **Save**, your seller will be adde
 
 ## Learn more
 
-- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)  
+- [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)  
 - [Seller management](/en/docs/tutorials/seller-management)
 - [Configuring a VTEX marketplace](/en/docs/tutorials/configuring-vtex-marketplace)  
 - [Actions for a VTEX marketplace operation](/en/docs/tutorials/actions-for-vtex-marketplace-operation) 

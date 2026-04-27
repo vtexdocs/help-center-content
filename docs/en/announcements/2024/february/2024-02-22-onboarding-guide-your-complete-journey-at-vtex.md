@@ -13,6 +13,9 @@ locale: en
 legacySlug: onboarding-guide-your-complete-journey-at-vtex
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Onboarding guide release: content about the store up to go-live, evolving the operation, and VTEX support.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 With client success in mind, VTEX offers complete solutions for different business models. This puts the flexibility of composable commerce at the service of innovation and growth in your operation.

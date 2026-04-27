@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-funcionalidad-definir-limite-de-presupuesto-por-promocion
 announcementImageID: 'undefined'
 announcementSynopsisES: 'VTEX lanza límite de presupuesto por promoción, con pausa automática y mayor control sobre los descuentos.'
+tags:
+  - Nueva funcionalidad
+  - Promociones
 ---
 
 El módulo Promociones VTEX tendrá una nueva funcionalidad disponible globalmente que permite configurar presupuestos para campañas promocionales. Esta optimización se desarrolló para ayudar en el control del presupuesto destinado a descuentos, ofreciendo mayor seguridad y previsibilidad en la gestión de beneficios.

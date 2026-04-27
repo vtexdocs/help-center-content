@@ -13,6 +13,10 @@ locale: en
 legacySlug: discontinuation-of-the-current-amazon-mapping-model
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'In 15 days, the current product mapping model for Amazon integration will be discontinued.'
+tags:
+  - Deprecation
+  - Marketplace
+  - Integrations
 ---
 
 As informed on the announcement [Amazon: The current product mapping model will be discontinued](/en/announcements/2025-02-19-current-amazon-mapping-model-will-be-discontinued), on March 31, 2025, we will discontinue the following methods for integrations between VTEX stores and Amazon: product listing via XML feed, spreadsheet mapping, and Amazon mapper.

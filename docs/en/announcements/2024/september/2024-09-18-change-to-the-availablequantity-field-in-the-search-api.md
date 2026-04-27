@@ -13,6 +13,9 @@ locale: en
 legacySlug: change-to-the-availablequantity-field-in-the-search-api
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the legacy search.'
+tags:
+  - Breaking change
+  - Intelligent Search
 ---
 
 VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the legacy search. This change may impact existing integrations.

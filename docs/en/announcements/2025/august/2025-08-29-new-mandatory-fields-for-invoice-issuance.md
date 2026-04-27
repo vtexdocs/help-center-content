@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-mandatory-fields-for-invoice-issuance
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New mandatory fields in the Orders API ensure tax compliance and prevent invoice rejections.'
+tags:
+  - Breaking change
+  - Orders
+  - Integrations
 ---
 
 > ℹ️ The changes apply only to stores in Brazil.

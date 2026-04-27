@@ -49,4 +49,4 @@ Si el cliente solicita la cancelación dentro del período de gracia del pedido,
 
 Después del período de gracia, se entiende que la tienda ya está trabajando por el pedido. En este caso, el comerciante debe confirmar la solicitud de cancelación.
 
-Consulte nuestro artículo del flujo de [cancelación solicitada por el cliente](/es/tutorial/como-funciona-la-cancelacion-de-pedido-solicitada-por-el-cliente).
+Consulte nuestro artículo del flujo de [cancelación solicitada por el cliente](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente).

@@ -15,13 +15,14 @@ locale: pt
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
-O conjunto de dados composto pela tabela `item_inventory` fornece informações sobre a disponibilidade de itens no inventário. Ele detalha a quantidade total e disponível de itens, reservas ativas, possibilidade de estoque infinito, além de incluir identificações de SKU e estoque. A tabela também registra atualizações com registro de data e hora e IDs de controle.
+O conjunto de dados de inventário é composto por duas tabelas: `item_inventory` e `warehouses_latest`. Juntas, elas fornecem informações sobre disponibilidade de itens, reservas, configuração de estoque, metadados de conta e atributos dos depósitos.
 
 Nesta seção você encontra as seguintes informações:
 
 - [Características dos dados de inventário](#caracteristicas-dos-dados-de-inventario)
 - [Tabela item_inventory](#tabela-item_inventory)
-- [Análise com item_inventory](#analises-com-item_inventory)
+- [Tabela warehouses_latest](#tabela-warehouses_latest)
+- [Análises com dados de inventário](#analises-com-dados-de-inventario)
 - [Correlações com outros dados](#correlacoes-com-outros-dados)
 
 ## Características dos dados de inventário
@@ -39,24 +40,44 @@ Conheça a seguir os campos que constituem a tabela:
 
 | **Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna** |
 |---------|------------|----------|
-|parent_account_name | character varying(200) | Nome da conta principal associada à entidade fundamental à qual o estoque pertence.|
-| main_account | character varying(200)| Nome da conta principal do comerciante no Gerenciador de Licenças.  |
-| account_name| character varying(200) | Nome da conta à qual o estoque pertence.|
-| quantity| bigint| A quantidade total de itens disponíveis em estoque.|
-| reserved_quantity | bigint  | Número de reservas ativas para um item.  |
-| is_unlimited_quantity  | boolean| Indica se o item pode ter estoque infinito (True) ou não (False).|
-| batch_id  | character(13) | Identifica o último lote de ingestão que atualizou esta linha.  |
+| main_account | character varying(200) | Nome da conta principal do lojista. Identifica a conta VTEX de nível mais alto à qual a loja/entidade pertence. |
+| account_name | character varying(200) | Nome da conta à qual o estoque pertence. Junto com `warehouse_id` e `item_id`, identifica unicamente um registro de inventário. |
 | warehouse_id | character varying(400) | ID do depósito onde o estoque está localizado. |
-| item_id | character varying(300) | Identifica o item cujo estoque está sendo quantificado. |
-| last_update| timestamp without time zone  | A última vez que o estoque desse item específico foi atualizado. |
-| warehouse_status | varchar(8) | Exibe o status atual do estoque onde este inventário está armazenado. Os valores aceitos são: ativo, inativo ou excluído. |
+| item_id | character varying(300) | Identifica o item cujo estoque está sendo quantificado (SKU ID). Parte da chave natural do registro de inventário. |
+| is_unlimited_quantity | boolean | Indica se o item pode ter estoque infinito (`true`) ou não (`false`). Quando `true`, a quantidade não é fisicamente limitada. |
+| quantity | bigint | Quantidade total de itens em estoque para o item no depósito (quantidade física total). |
+| reserved_quantity | bigint | Número de reservas ativas do item. É calculado com base no último estado de disponibilidade e nos eventos de criação e cancelamento de reservas. |
+| last_update | timestamp without time zone | Última vez em que o estoque desse item específico foi atualizado. |
+| parent_account_name | character varying(200) | Nome da conta pai. Representa a conta no nível mais alto da estrutura; quando não encontrada, usa `main_account`. |
+| batch_id | character varying(13) | Identifica o último lote de ingestão que atualizou esta linha. Usado para rastreabilidade e qualidade de dados. |
+| record_created_at | timestamp without time zone | Timestamp de quando o registro foi inserido pela primeira vez no Lake House. |
+| record_updated_at | timestamp without time zone | Timestamp de quando o registro foi atualizado pela última vez no Lake House. |
 
-## Análises com inventory
+## Tabela warehouses_latest
 
-Veja abaixo algumas das análises possíveis com a tabela de inventário:
+Conheça a seguir os campos que constituem a tabela:
 
-**- Análise de níveis de inventário:** avalie se o inventário atende à demanda e identificar itens com risco de esgotamento.  
-**- Tendências de reserva de inventário:** analise a quantidade de itens reservados ao longo do tempo para identificar padrões e ajustar estratégias de gestão de inventário.  
+| **Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna** |
+|---------|------------|----------|
+| warehouse_id | character varying(100) | Identificador do depósito. |
+| warehouse_name | character varying(200) | Nome do depósito conforme definido no Admin. |
+| account_id | character varying(38) | Identificador da conta. |
+| account_name | character varying(100) | Nome da conta. |
+| is_active | boolean | Indica se o depósito está ativo. |
+| warehouse_docks | super | Docks vinculados ao depósito. |
+| pickup_point_ids | super | Pickup points vinculados ao depósito. |
+| priority | integer | Critério de desempate para seleção de depósito em processos de roteamento. |
+| is_deleted | boolean | Indica se o depósito foi excluído. |
+| record_created_at | timestamp without time zone | Registro interno de quando a entidade depósito foi criada. |
+| record_updated_at | timestamp without time zone | Registro interno de quando a entidade depósito foi atualizada pela última vez. |
+| parent_account_name | character varying(50) | Nome da conta pai. Representa a conta no nível mais alto da estrutura; quando não encontrada, usa `main_account`. |
+
+## Análises com dados de inventário
+
+Veja, abaixo, algumas análises que podem ser realizadas com os dados de inventário:
+
+**- Análise de níveis de inventário:** avalie se o inventário atende à demanda e identifique itens com risco de esgotamento.
+**- Tendências de reserva de inventário:** analise a quantidade de itens reservados ao longo do tempo para identificar padrões e ajustar estratégias de gestão de inventário.
 **- Análise de distribuição de inventário por conta:** otimize a gestão de inventário em várias contas e entender como o inventário é distribuído.  
 
 ## Correlações com outros dados

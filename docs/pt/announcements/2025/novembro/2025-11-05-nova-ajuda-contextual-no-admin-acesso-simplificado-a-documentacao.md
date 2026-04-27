@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-ajuda-contextual-no-admin-acesso-simplificado-a-documentacao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova ajuda contextual no Admin'
+tags:
+  - Nova funcionalidade
+  - Admin
 ---
 
 A nova ajuda contextual disponível no Admin simplifica o acesso à documentação, permitindo encontrar informações essenciais para suas dúvidas sem sair do fluxo de trabalho.

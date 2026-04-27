@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novo-design-do-formulario-de-criacao-de-promocoes-compre-junto
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novo design do formulário de promoções da VTEX, com interface moderna e uso simplificado.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 A VTEX disponibiliza um formulário renovado para criar promoções do tipo [Compre Junto](/pt/docs/tutorials/compre-junto). Com um design moderno e intuitivo, a nova interface simplifica e facilita o uso.

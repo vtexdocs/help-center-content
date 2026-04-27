@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-exibicao-da-quantidade-de-produtos-afetados-por-promocao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova exibição destaca a porcentagem de produtos afetados ao revisar e salvar uma promoção.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 Atualizamos a forma de exibir a notificação de impacto de promoções no Admin VTEX. A partir de 16/10/2025, a etapa de revisão das promoções passa a mostrar, de forma mais clara e destacada, a quantidade de produtos afetados por cada promoção ativa.

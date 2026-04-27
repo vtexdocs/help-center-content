@@ -19,7 +19,8 @@ Es posible que los marketplaces necesiten alterar sellers en diversas situacione
 
 Se crearon cuatro nuevos comportamientos de captura de pagos para proporcionar más autonomía y flexibilidad en la alteración de sellers a los marketplaces que utilizan afiliaciones con split de pagos nativos. 
 
-# ¿Qué cambió?
+## ¿Qué cambió?
+
 La captura de los pagos en afiliaciones que admiten slip de pagos se realizaba de forma automática por defecto, ahora puede seleccionar entre cuatro comportamientos diferentes. En dos de ellos, la captura de los pagos no ocurre de forma automática. Estos son:
 
   - **Utilizar el comportamiento recomendado del procesador de pagos**
@@ -32,10 +33,11 @@ En los otros, la captura se produce de forma automática:
 
 Vea el artículo [Configurar split de pagos][1] para más detalles de cada comportamiento e instrucciones de configuración.
 
-# ¿Por qué realizamos este cambio?
-La alteración de sellers solo podía ser realizada por marketplaces que no utilizaban afiliaciones con split de pagos nativo porque la autorización y captura del pago se producía de forma automática por defecto. El hecho de poder configurar el comportamiento de captura de pagos para que no ocurra automáticamente aumenta la ventana de tiempo entre la autorización y la captura y, en consecuencia, permite la alteración del seller (vea el artículo [Cómo utilizar Change Seller][2] para obtener más detalles).
+## ¿Por qué realizamos este cambio?
 
-# ¿Qué se necesita hacer?
+La alteración de sellers solo podía ser realizada por marketplaces que no utilizaban afiliaciones con split de pagos nativo porque la autorización y captura del pago se producía de forma automática por defecto. El hecho de poder configurar el comportamiento de captura de pagos para que no ocurra automáticamente aumenta la ventana de tiempo entre la autorización y la captura y, en consecuencia, permite la alteración del seller (vea el artículo [Cómo utilizar Change Seller][2] para obtener más detalles).
+## ¿Qué se necesita hacer?
+
 Las afiliaciones con split de pagos ya están capturando pagos con el comportamiento **Utilizar el comportamiento recomendado del procesador de pagos**. Si decide mantener el comportamiento automático en la afiliación que admite split, debe seleccionar el comportamiento deseado en la página de visualización de la afiliación en la que se produce el split.
 
 [1](/es/docs/tutorials/split-de-pagos)

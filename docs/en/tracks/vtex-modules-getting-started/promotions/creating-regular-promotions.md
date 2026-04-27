@@ -51,12 +51,12 @@ In this section, you can specify whether the promotion will apply to all sellers
  -  **Equal to:** Applies the promotion only to the specified sellers. Enter the identifiers in the corresponding field. 
  -  **Different from:** Applies the promotion to all sellers, except those specified.
 
-### Selecting trade policies
-Select the trade policies the promotion will apply to:
+### Selecting sales channels
+Select the sales channels the promotion will apply to:
 
-- **All:** Applies the promotion to all trade policies.
-- **Equal to:** Defines the trade policies you want to include.  
-- **Different from:** Defines the trade policies you want to exclude.
+- **All:** Applies the promotion to all sales channels.
+- **Equal to:** Defines the sales channels you want to include.  
+- **Different from:** Defines the sales channels you want to exclude.
 
 ## Defining conditions for the Regular promotion
 In the Customer buys section, define the items that must be in the cart to activate the promotion:
@@ -147,7 +147,7 @@ In this section, you define the conditions that must be met for the promotion to
 
 > ℹ️ This condition doesn't apply to payments via boleto, gift card, or orders using multiple payment methods.
 
-- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).  
+- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium).  
 
 Set the following parameters if necessary:  
 

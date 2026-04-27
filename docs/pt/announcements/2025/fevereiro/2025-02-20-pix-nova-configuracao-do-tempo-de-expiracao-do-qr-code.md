@@ -13,6 +13,9 @@ locale: pt
 legacySlug: pix-nova-configuracao-do-tempo-de-expiracao-do-qr-code
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Configuração do tempo de expiração do QR Code PIX está disponível para lojas VTEX.'
+tags:
+  - Melhoria
+  - Pagamentos
 ---
 
 Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX implementará uma nova configuração do tempo de expiração do QR Code Pix.

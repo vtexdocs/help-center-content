@@ -13,6 +13,9 @@ locale: pt
 legacySlug: 
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Os Client Secrets dos logins com Google e Facebook agora são mascarados, exibindo apenas os 3 últimos caracteres.'
+tags:
+  - Atualização de segurança
+  - Identity
 ---
 
 Para reforçar a segurança das integrações de login social, o campo **Client Secret** das configurações de [login com Google e Facebook](https://help.vtex.com/pt/docs/tutorials/configurar-login-com-facebook-e-google) agora é exibido de forma mascarada no Admin VTEX.

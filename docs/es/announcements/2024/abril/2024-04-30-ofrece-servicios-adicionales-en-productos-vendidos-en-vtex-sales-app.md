@@ -13,6 +13,9 @@ locale: es
 legacySlug: ofrece-servicios-adicionales-en-productos-vendidos-en-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Assembly Options en VTEX Sales App: servicios adicionales en productos vendidos y ensamblaje de ítems con diferentes SKU'
+tags:
+  - Nueva funcionalidad
+  - VTEX Sales App
 ---
 
 Desarrollamos una nueva funcionalidad para [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) que permite la integración entre los canales de venta online y físicos. Mediante esta herramienta, los vendedores de las tiendas físicas pueden ofrecer a los clientes atención personalizada.

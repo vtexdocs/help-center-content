@@ -28,11 +28,9 @@ Vea cómo se pueden configurar las políticas comerciales en los siguientes mód
 - [Estrategia de envío](#estrategia-de-envio)  
 - [Integraciones](#integraciones)  
 
-Para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para agregar una nueva política comercial, accede al Admin de VTEX. Los usuarios con el rol Owner (admin) pueden realizar esta acción directamente desde la interfaz.
 
-Por cada política comercial adicional se cobra un valor mensual, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.
-
-> ⚠️ Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.
+Para más información, consulta el artículo [Crear una política comercial](https://help.vtex.com/es/docs/tutorials/crear-una-politica-comercial).
 
 ## Configuración de la tienda 
 La creación de una nueva política comercial es el primer paso para definir las condiciones aplicadas a cada *marketplace* en el que opera un *seller*. Los *sellers* pueden crear múltiples políticas comerciales o pueden aplicar la misma política en más de un *marketplace*. 

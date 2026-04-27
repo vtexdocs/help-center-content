@@ -13,6 +13,9 @@ locale: en
 legacySlug: api-keys-improvements-for-more-security-control-and-visibility
 announcementImageID: 'undefined'
 announcementSynopsisEN: "We've updated the API keys experience with export options, improved search, alerts, and one-time access links."
+tags:
+  - Security update
+  - Identity
 ---
 
 To optimize access credential management and increase security, we've enhanced the **API keys** experience. These updates are now available to all accounts.

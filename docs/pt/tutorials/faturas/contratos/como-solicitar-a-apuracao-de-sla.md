@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Os quatro níveis de serviço do nosso SLA, e os descontos concedidos pela quebra dele, estão citados no seu contrato. Caso não tenha recebido um, o motivo pode ter sido o aceite automático do nosso [Termo de Adesão](/pt/faq/por-que-nao-recebi-o-contrato-assinado-da-vtex). No entanto, sempre que quiser, é possível consultar seu SLA [aqui](https://vtex.com/wp-content/uploads/2022/01/MASTER-SERVICES-AGREEMENT-Brazil-PT.pdf).
+Os quatro níveis de serviço do nosso SLA, e os descontos concedidos pela quebra dele, estão citados no seu contrato. Caso não tenha recebido um, o motivo pode ter sido o aceite automático do nosso [Termo de Adesão](/pt/faq/por-que-nao-recebi-o-contrato-assinado-da-vtex). No entanto, sempre que quiser, é possível consultar seu SLA [aqui](https://vtex.com/pt-br/trust/contratos).
 
 ## Antes de solicitar a apuração do seu SLA, tenha em mente:
 

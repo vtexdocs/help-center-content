@@ -29,11 +29,11 @@ Para configurá-las, escolha uma propriedade e, em seguida, selecione os parâme
 
 ## Propriedade
 
-A propriedade é preenchida com um dos campos presentes no [Master Data](/pt/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629). Em resumo, podemos dizer que os campos são as informações dos consumidores que o sistema da VTEX armazena. 
+A propriedade é preenchida com um dos campos presentes no [Master Data](https://developers.vtex.com/docs/guides/querying-documents-in-master-data-v1). Em resumo, podemos dizer que os campos são as informações dos consumidores que o sistema da VTEX armazena. 
 
 Lembrando que existem alguns campos nativos no Master Data. Ou seja, assim que um cliente ganha acesso ao Admin da sua loja, já existem alguns campos criados no Master Data. Entretanto, esses campos não são determinantes. 
 
-Além dos campos nativos, o cliente pode [criar os campos que desejar](/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete), quando quiser. 
+Além dos campos nativos, o cliente pode [criar os campos que desejar](/pt/docs/tutorials/como-crio-um-campo-no-master-data), quando quiser. 
 
 Consequentemente, ele pode criar as propriedades - que podem ser de texto, numéricas, verdadeiro/falso, por data - que achar mais adequado para aplicar na condição especial de pagamento por clusterização. 
 
