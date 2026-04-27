@@ -35070,6 +35070,21 @@
                 },
                 {
                   "name": {
+                    "en": "Creating a custom page in Legacy CMS stores",
+                    "es": "Cómo crear una página personalizada en tiendas CMS Legado",
+                    "pt": "Como criar uma página customizada em lojas CMS Legado"
+                  },
+                  "slug": {
+                    "en": "creating-a-custom-page-in-legacy-cms-stores",
+                    "es": "como-crear-una-pagina-personalizada-en-tiendas-cms-legado",
+                    "pt": "como-criar-uma-pagina-customizada-em-lojas-cms-legado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a development environment for mobile version",
                     "es": "Crear ambiente de desarrollo de versión mobile",
                     "pt": "Criar um ambiente de desenvolvimento de versão mobile"
