@@ -15791,6 +15791,21 @@
             },
             {
               "name": {
+                "en": "My storefront has layout issues",
+                "es": "El frontend de mi tienda presenta problemas de layout",
+                "pt": "My storefront has layout issues"
+              },
+              "slug": {
+                "en": "my-storefront-has-layout-issues",
+                "es": "el-frontend-de-mi-tienda-presenta-problemas-de-layout",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product remains available in stock after the order has been invoiced",
                 "es": "El producto continúa reservado tras la facturación del pedido",
                 "pt": "Produto continua reservado em estoque após faturamento do pedido"
