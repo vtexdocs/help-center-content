@@ -15688,6 +15688,21 @@
             },
             {
               "name": {
+                "en": "My storefront has layout issues",
+                "es": "El frontend de mi tienda presenta problemas de layout",
+                "pt": "O front-end da minha loja apresenta problemas de layout"
+              },
+              "slug": {
+                "en": "my-storefront-has-layout-issues",
+                "es": "el-frontend-de-mi-tienda-presenta-problemas-de-layout",
+                "pt": "o-front-end-da-minha-loja-apresenta-problemas-de-layout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Trigger in Master Data v2 is not working",
                 "es": "No funciona el trigger en Master Data v2",
                 "pt": "Trigger no Master Data v2 não funciona"
