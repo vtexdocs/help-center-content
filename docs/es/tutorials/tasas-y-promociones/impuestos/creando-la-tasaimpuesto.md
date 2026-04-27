@@ -3,7 +3,7 @@ title: 'Crear tasa/impuesto'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2025-04-11T16:22:19.619Z
+updatedAt: 2026-04-27T16:22:19.619Z
 publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
