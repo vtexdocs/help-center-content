@@ -53147,6 +53147,21 @@
             },
             {
               "name": {
+                "en": "Product indexing may show a high delay in Indexing History",
+                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
+                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
+              },
+              "slug": {
+                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
+                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
+                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product search by ID fields not working for uppercase characters",
                 "es": "La búsqueda de productos por campos ID no funciona para caracteres en mayúsculas",
                 "pt": "A pesquisa de produtos por campos de ID não funciona com caracteres maiúsculos"
@@ -54575,13 +54590,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona para una base de sku muy grande (StatusCode: 429)",
-                "pt": "A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)"
+                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
+                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429"
+                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
               },
               "origin": "",
               "type": "markdown",
