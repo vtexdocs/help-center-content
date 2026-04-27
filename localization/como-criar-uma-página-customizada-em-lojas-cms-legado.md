@@ -2,7 +2,7 @@
 title: "Como criar uma página customizada em lojas CMS Legado"
 createdAt: 2026-03-09T16:56:01.751Z
 locale: pt
-slugPT: "como-criar-uma-página-customizada-em-lojas-cms-legado"
+slugEN: "creating-a-custom-page-in-legacy-cms-stores"
 ---
 
 Este guia descreve como criar uma página customizada em lojas desenvolvidas com [CMS Portal (Legado)](https://help.vtex.com/pt/docs/tracks/cms-portal-legado). Ao seguir as instruções, você poderá configurar uma nova página, associar um template e disponibilizá-la em uma URL personalizada.
