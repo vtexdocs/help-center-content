@@ -8,13 +8,16 @@ publishedAt:
 firstPublishedAt:
 contentType: tutorial
 productTeam: Marketing & Merchandising
-slugEN: minha-pagina-de-produto-ou-categoria-exibe-pagina-nao-encontrada
+slugEN: my-product-or-category-page-shows-page-not-found
 locale: pt
 subcategoryId:
-tags:
+domainFilters:
   - Catálogo
   - Storefront
   - Intelligent Search
+symptomFilters:
+  - Erro de carregamento
+  - Configuração incorreta
 ---
 
 Palavras-chave: Erro de carregamento | Problema de sincronização

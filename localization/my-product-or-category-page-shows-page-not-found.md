@@ -11,10 +11,13 @@ productTeam: Marketing & Merchandising
 slugEN: my-product-or-category-page-shows-page-not-found
 locale: en
 subcategoryId:
-tags:
+domainFilters:
   - Catalog
   - Storefront
   - Intelligent Search
+symptomFilters:
+  - Loading issue
+  - Misconfiguration
 ---
 
 Keywords: Loading error | Sync issue
