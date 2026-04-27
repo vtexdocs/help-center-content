@@ -23,7 +23,7 @@ Esta guía describe cómo crear una página personalizada en tiendas desarrollad
 
 > ℹ️ Más información en [¿Qué son templates?](https://help.vtex.com/es/docs/tutorials/que-son-templates)
 
-![new-layout-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/storefront/layout/new-layout-pt)
+![new-layout-es](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/es/tutorials/storefront/layout/new-layout-es.png)
 
 ### Crea la URL de la página personalizada
 
@@ -43,7 +43,7 @@ Ahora debes crear la ruta URL de la página personalizada:
    * **Authentication Required?:** define si solo se podrá acceder a la página después de la autenticación del usuario. Si esta opción está activada, solamente usuarios autenticados podrán acceder a la página.
 7. Haz clic en `Save Folder` para guardar la nueva página.
 
-![new-folder-pt](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/pt/tutorials/storefront/layout/new-folder-pt)
+![new-folder-es](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/es/tutorials/storefront/layout/new-folder-es.gif)
 
 ### Crea el layout para la nueva página
 
