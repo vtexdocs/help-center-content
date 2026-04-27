@@ -15793,12 +15793,12 @@
               "name": {
                 "en": "My storefront has layout issues",
                 "es": "El frontend de mi tienda presenta problemas de layout",
-                "pt": "My storefront has layout issues"
+                "pt": "O front-end da minha loja apresenta problemas de layout"
               },
               "slug": {
                 "en": "my-storefront-has-layout-issues",
                 "es": "el-frontend-de-mi-tienda-presenta-problemas-de-layout",
-                "pt": ""
+                "pt": "o-front-end-da-minha-loja-apresenta-problemas-de-layout"
               },
               "origin": "",
               "type": "markdown",
