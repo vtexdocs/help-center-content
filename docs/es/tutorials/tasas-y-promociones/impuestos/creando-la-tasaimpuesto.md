@@ -54,7 +54,8 @@ El impuesto se aplica conforme al registro que hará el vendedor. A continuaci�
 - **Afiliados**: identificador de pedidos del marketplace
 - **Cluster de clientes**: el impuestos se aplicará si el cliente se ha registrado en el cluster seleccionado.
 - **El códiogo postal de entrega debe**: el impuesto será aplicado en el caso de que CEP atienda a la regla configurada.
-- **Tipo de carga**: el impuesto se aplicará si el tipo de carga es la misma que la registrada
+- **Tipo de carga**: el impuesto se aplicará si el tipo de carga es la misma que la registrada.
+- **Medio de pago**: el tributo se aplica si el medio de pago seleccionado en el checkout coincide con el medio de pago configurado en el tributo.
 
 ## Programación
 

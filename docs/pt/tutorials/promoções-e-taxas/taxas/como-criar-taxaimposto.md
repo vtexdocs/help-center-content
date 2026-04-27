@@ -56,6 +56,7 @@ A taxa é aplicada conforme o cadastro que é feito no seller. Então se no car
 - **Cluster de clientes**: a taxa será aplicada caso o cliente esteja cadastrado no cluster selecionado.
 - **O CEP de entrega deve**: a taxa será aplicada caso o CEP esteja atendendo à regra configurada.
 - **Tipo de frete**: a taxa será aplicada caso o tipo de frete for o mesmo que o cadastrado.
+- **Meio de pagamento**: a taxa será aplicada caso o meio de pagamento escolhido no checkout corresponda ao meio de pagamento configurado na taxa.
 
 ## Agendamento
 
