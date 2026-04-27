@@ -11,10 +11,13 @@ productTeam: Marketing & Merchandising
 slugEN: my-product-or-category-page-shows-page-not-found
 locale: es
 subcategoryId:
-tags:
+domainFilters:
   - Catálogo
   - Storefront
   - Intelligent Search
+symptomFilters:
+  - Error de carga
+  - Configuración incorrecta
 ---
 
 Palabras clave: Error de carga | Problema de sincronización
