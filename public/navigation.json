@@ -15642,6 +15642,21 @@
             },
             {
               "name": {
+                "en": "My storefront has layout issues",
+                "es": "El frontend de mi tienda presenta problemas de layout",
+                "pt": "O front-end da minha loja apresenta problemas de layout"
+              },
+              "slug": {
+                "en": "my-storefront-has-layout-issues",
+                "es": "el-frontend-de-mi-tienda-presenta-problemas-de-layout",
+                "pt": "o-front-end-da-minha-loja-apresenta-problemas-de-layout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Trigger in Master Data v2 is not working",
                 "es": "No funciona el trigger en Master Data v2",
                 "pt": "Trigger no Master Data v2 não funciona"
@@ -15968,66 +15983,6 @@
                 "en": "my-store-order-was-canceled",
                 "es": "el-pedido-de-mi-tienda-se-cancelo",
                 "pt": "o-pedido-da-minha-loja-foi-cancelado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My store order was not created",
-                "es": "No se ha creado el pedido de mi tienda",
-                "pt": "O pedido da minha loja não foi criado"
-              },
-              "slug": {
-                "en": "my-store-order-was-not-created",
-                "es": "no-se-ha-creado-el-pedido-de-mi-tienda",
-                "pt": "o-pedido-da-minha-loja-nao-foi-criado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "​​My store's order still has the status \"Verifying invoice\"",
-                "es": "El pedido de mi tienda presenta el status \"Verificando factura\"",
-                "pt": "O pedido da minha loja está parado no status \"Verificando nota fiscal\""
-              },
-              "slug": {
-                "en": "my-stores-order-still-has-the-status-verifying-invoice",
-                "es": "el-pedido-de-mi-tienda-presenta-el-status-verificando-factura",
-                "pt": "o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My store’s Site Editor is not working",
-                "es": "Problemas con Site Editor en mi tienda",
-                "pt": "O Site Editor da minha loja não está funcionando"
-              },
-              "slug": {
-                "en": "my-stores-site-editor-is-not-working",
-                "es": "problemas-con-site-editor-en-mi-tienda",
-                "pt": "o-site-editor-da-minha-loja-nao-esta-funcionando"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My storefront has layout issues",
-                "es": "El frontend de mi tienda presenta problemas de layout",
-                "pt": "O front-end da minha loja apresenta problemas de layout"
-              },
-              "slug": {
-                "en": "my-storefront-has-layout-issues",
-                "es": "el-frontend-de-mi-tienda-presenta-problemas-de-layout",
-                "pt": "o-front-end-da-minha-loja-apresenta-problemas-de-layout"
               },
               "origin": "",
               "type": "markdown",
@@ -52269,6 +52224,21 @@
                 "en": "product-image-sorting-doesnt-respect-the-catalog-order",
                 "es": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
                 "pt": "a-classificacao-da-imagem-do-produto-nao-respeita-a-ordem-do-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product indexing may show a high delay in Indexing History",
+                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
+                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
+              },
+              "slug": {
+                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
+                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
+                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
               },
               "origin": "",
               "type": "markdown",
