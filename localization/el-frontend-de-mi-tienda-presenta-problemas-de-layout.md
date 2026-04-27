@@ -31,7 +31,7 @@ Para configurar [Chrome DevTools](https://developer.chrome.com/docs/devtools/) s
 3. Haz clic en los tres puntos verticales en la parte superior derecha de la página, como se indica en la imagen siguiente:
 4. Selecciona **Más herramientas** y luego **Condiciones de la solicitud** para bloquear todas las personalizaciones hechas mediante CSS, JavaScript y Google Tag Manager.
 
-![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/legado-02.png)
+![legado-02-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/legado-02-es.png)
 
 5. En la pestaña **Condiciones de la solicitud**, haz clic en `Agregar regla` para definir el primer recurso que se va a bloquear. Para agregar más recursos, vuelve a hacer clic en `+` y una vez definido haz clic en `Agregar`. Esta configuración solo es necesario realizarla una vez en tu navegador. Incluye los siguientes ítems:
 
@@ -41,7 +41,7 @@ Para configurar [Chrome DevTools](https://developer.chrome.com/docs/devtools/) s
 - `*:/files/*.css`
 - `*://www.googletagmanager.com/gtm.js*`
 
-![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/request-conditions.png)
+![request-conditions-02-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/request-conditions-02-es.png)
 
 6. Marca la opción **Habilitar el bloqueo y la limitación** y marca todas las casillas junto a cada recurso configurado. Esta será la configuración predeterminada, con todas las opciones activadas para el bloqueo.
 7. Ahora actualiza la página. Se mostrará sin los componentes personalizados.
