@@ -3,6 +3,9 @@ title: "O front-end da minha loja apresenta problemas de layout"
 createdAt: 2026-04-27T15:50:40.668Z
 locale: pt
 slugPT: o-front-end-da-minha-loja-apresenta-problemas-de-layout
+contentType: troubleshooting
+domainFilters:
+  - Storefront
 tags:
   - Front-end
   - CMS
