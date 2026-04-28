@@ -18,7 +18,7 @@ This article helps you investigate layout issues in your storefront. By followin
 
 To investigate layout issues, consider the following solutions:
 
-- **[Blocking customizations to isolate frontend issues](#blocking-customizations-to-isolate-frontend-issues):** Temporarily disable customizations to check if the problem is caused by custom code.
+- **[Blocking customizations to isolate storefront issues](#blocking-customizations-to-isolate-storefront-issues):** Temporarily disable customizations to check if the problem is caused by custom code.
 - **[Comparing different versions of your storefront](#comparing-storefront-versions):** Compare your store's current layout with an alternative version to see if the issue is related to a specific customization.
 
 ### Blocking customizations to isolate storefront issues
