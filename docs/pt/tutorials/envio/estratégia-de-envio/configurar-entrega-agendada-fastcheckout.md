@@ -16,7 +16,7 @@ A entrega agendada no FastCheckout permite às lojas VTEX oferecer aos clientes 
 
 > ⚠️ Para que a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e a [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) funcionem corretamente, você deve observar que:
 >
-> - A soma {[account name](/pt/docs/tutorials/o-que-e-account-name)} + {ID da política de envio} não pode exceder 60 caracteres.
+> - A soma [`account name`](/pt/docs/tutorials/o-que-e-account-name) + `ID da política de envio` não pode exceder 60 caracteres.
 > - Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
 
 Este artigo apresenta como configurar a entrega agendada em uma política de envio existente ou em uma nova política de envio.
