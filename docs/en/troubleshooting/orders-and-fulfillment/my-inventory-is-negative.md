@@ -34,4 +34,4 @@ To update the number of available items, follow the steps below:
 4. In the **Update Count** column, enter the correct number of items in stock, considering the sum of the available items plus the reserved ones.
 5. Click **Save**.
 
-When two or more inventories use the same [trade policy](/en/docs/tutorials/how-trade-policies-work), and one has a negative number of items, the SKU will be unavailable for sale, even if items are available in one of the [inventories](/en/docs/tutorials/managing-stock-items).
+When two or more inventories use the same [sales channel](/en/docs/tutorials/how-trade-policies-work), and one has a negative number of items, the SKU will be unavailable for sale, even if items are available in one of the [inventories](/en/docs/tutorials/managing-stock-items).

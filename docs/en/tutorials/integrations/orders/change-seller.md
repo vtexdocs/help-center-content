@@ -52,4 +52,4 @@ You can not change sellers in the following cases:
 - If the new option is for pickup in [pickup points](/en/docs/tutorials/pickup-points).
 - In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](/en/docs/tutorials/order-flow-and-status): `payment-pending`, or `waiting-for-authorization`.
 - Orders from sellers external to VTEX.
-- If the chosen carrier isn't associated with the order's [trade policy](/en/docs/tutorials/how-trade-policies-work).
+- If the chosen carrier isn't associated with the order's [sales channel](/en/docs/tutorials/how-trade-policies-work).

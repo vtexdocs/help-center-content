@@ -15,6 +15,6 @@ trackSlugEN: vtex-sales-app-payments
 order: 1
 ---
 
-A [configuração](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) do VTEX Sales App permite receber pagamentos com cartão de crédito ou débito.
+A [configuração](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas) do VTEX Sales App permite receber pagamentos com cartão de crédito ou débito.
 
 Primeiro, você precisará ativar o adquirente na configuração de __Pagamentos__ e, em seguida, configurar as condições de pagamento desejadas. Clique em `PRÓXIMO` para ler os artigos desta trilha que explicam cada etapa de configuração.

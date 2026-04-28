@@ -51,7 +51,7 @@ Some examples of antifrauds are:
 
 ### Sales Policy
 
-This filter indicates the trade policy by which the transactions were made. The listed policies will be the ones registered in your store.
+This filter indicates the sales channel by which the transactions were made. The listed policies will be the ones registered in your store.
 
 ## Filter by Date
 

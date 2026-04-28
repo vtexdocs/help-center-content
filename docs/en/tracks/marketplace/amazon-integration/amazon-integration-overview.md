@@ -22,7 +22,7 @@ This guide explains how to integrate your store with Amazon using the connector 
 - [Authorizing VTEX in the Amazon dashboard](/en/tracks/amazon-account-settings#authorizing-vtex-in-the-amazon-dashboard)
 
 ## Configurations on VTEX
-- [Defining the trade policy in Amazon](/en/tracks/vtex-platform-settings#defining-the-trade-policy-in-amazon)
+- [Defining the sales channel in Amazon](/en/tracks/vtex-platform-settings#defining-the-trade-policy-in-amazon)
 - [Defining the shipping strategy](/en/tracks/vtex-platform-settings#defining-the-shipping-strategy)
 - [Configuring the Amazon connector](/en/docs/tracks/configuring-the-amazon-integration)
 - [Sending products to Amazon](/en/docs/tracks/sending-products-to-amazon)

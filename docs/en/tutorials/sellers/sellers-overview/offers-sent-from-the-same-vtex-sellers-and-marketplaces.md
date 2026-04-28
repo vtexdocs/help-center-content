@@ -30,5 +30,5 @@ Marketplaces based on this business model have more advantages, as they are able
 ## Learn more
 
 - [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)
-- [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
+- [Configuring a marketplace sales channel](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
 - [Configuring a VTEX marketplace](/en/docs/tutorials/configuring-vtex-marketplace)

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:37.712Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slugEN: change-the-store-domain
+slugEN: changing-the-store-domain
 legacySlug: o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja
 locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
@@ -43,7 +43,7 @@ Adicione o novo domínio no License Manager sem remover o domínio anterior:
 
 1. Crie o novo host no Admin VTEX, seguindo o passo a passo descrito em [Cadastrar um novo host](/pt/docs/tutorials/configurar-o-dominio-da-loja#cadastrar-um-novo-host). Nesse momento, o DNS do novo domínio ainda não deve estar apontado para a VTEX.
 
-2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](/pt/faq/configurar-template-no-smartcheckout/).
+2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](/pt/docs/tutorials/configurar-template-no-smartcheckout-update).
 
    Esse passo é fundamental para que o Checkout continue funcionando após a mudança.
 
@@ -57,7 +57,7 @@ Se a sua loja utiliza [VTEX IO - Store Framework](https://developers.vtex.com/do
 
 A VTEX realizará a migração interna garantindo que todos os registros DNS e configurações internas sejam propagados corretamente.
 
-Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
+Saiba mais sobre [apontamento interno](/pt/docs/tracks/pre-go-live#solicitar-apontamento-io).
 
 Uma vez aberto o chamado, o time de suporte tem até três dias úteis para analisar as configurações e realizar o apontamento.
 

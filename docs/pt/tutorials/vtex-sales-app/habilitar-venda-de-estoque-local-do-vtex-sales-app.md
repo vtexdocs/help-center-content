@@ -1,9 +1,9 @@
 ---
-title: "Habilitar Venda de estoque local do VTEX Sales App"
+title: 'Habilitar Venda de estoque local do VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2024-11-04T21:09:14.115Z
+updatedAt: 2026-04-09T21:09:14.115Z
 publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
@@ -25,7 +25,7 @@ A Venda de estoque local permite o vendedor de uma loja física realizar vendas 
 6. [Conectar conta franquia a loja física](#conectar-conta-franquia-a-loja-fisica)
 7. [Integração de ponto de venda](#integracao-de-ponto-de-venda)
 
-> ℹ️ A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track [VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+> ℹ️ A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
 
 ## Criar uma conta franquia
 
@@ -66,11 +66,11 @@ Você pode [habilitar venda de item sem estoque](#habilitar-venda-de-item-sem-es
 
 ## Conectar conta franquia a loja física
 
-Para garantir que os vendedores da sua loja física tenham acesso correto ao estoque da loja em que trabalham, é importante conectar a conta franquia ao perfil dos vendedores. Para fazer isso, crie um [registro de loja física](/pt/tutorial/loja-fisica-instore-beta--N4M9njT9xomdWD7mQyPt7) no VTEX Sales App.
+Para garantir que os vendedores da sua loja física tenham acesso correto ao estoque da loja em que trabalham, é importante conectar a conta franquia ao perfil dos vendedores. Para fazer isso, crie um [registro de loja física](https://help.vtex.com/pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app) no VTEX Sales App.
 
 Para isso, escolha um vendedor cadastrado na loja em que deseja testar a Venda em Mãos e siga os passos descritos abaixo.
 
-1. Com [o registro do vendedor escolhido](/pt/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), acesse a aplicação do VTEX Sales App e faça o login.
+1. Com [o registro do vendedor escolhido](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app), acesse a aplicação do VTEX Sales App e faça o login.
    ![instore-login-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/habilitar-venda-de-estoque-local-do-vtex-sales-app_1.png)
 2. Busque por um item que existe no estoque da conta franquia cadastrado. Este item deverá estar exibindo a quantidade disponível correspondente ao inventário do seller.
    ![instore-pdp-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/habilitar-venda-de-estoque-local-do-vtex-sales-app_2.png)

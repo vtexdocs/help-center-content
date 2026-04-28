@@ -1,7 +1,7 @@
 ---
 title: 'Importing and exporting products and SKUs using a spreadsheet'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-26T15:30:32.980Z
+updatedAt: 2026-03-30T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -28,6 +28,9 @@ To import products and SKUs using a spreadsheet, follow these steps:
 3. Click `Products and SKUs`.
 4. In the window that opens, click **Download the import spreadsheet template here** to get the file.
 5. Complete the spreadsheet details as described in the section [Product specification spreadsheet fields](#product-specification-spreadsheet-fields).
+
+  > ⚠️ The spreadsheet import limit is 10,000 lines.
+
 6. Add a spreadsheet with the `.xls` or `.xlsx` extension. You can drag and drop the file into the upload area, or click the window and select the file locally.
 7. Click `Import`.
 
@@ -45,7 +48,7 @@ To export a `.xlsx` file with product and SKU information, follow these steps:
 2. (Optional) If you want to export a subset of products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
 3. At the top of the page, click `Export`.
 
-  > ⚠️ The export limit is 100,000 products.
+  > ⚠️ The export limit is 300,000 products.
 
 4. Click `Products and SKUs`.
 5. In the **Export** modal, select the checkboxes for **Product fields** and/or **SKU fields** as desired. Required fields can't be unchecked.
@@ -98,7 +101,7 @@ The following table describes and includes an example of each field in the produ
 | Department | Name of the product's highest-level category. | Clothes |
 | Category ID* | Unique identifier number for the product’s lowest-level category. This information can be found in VTEX Admin, under **Catalog > Categories**, or by using the [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-) endpoint. | 1000014 |
 | Category | Name of the product's lowest-level category. You can move the product from one category to another. | Tops |
-| Trade policies | Unique identifier number for the [trade policy](/en/docs/tutorials/creating-a-trade-policy). This information can be found in the VTEX Admin, under **Store settings > Trade policies**. For multiple trade policies, separate the numbers with a comma, without using spaces. | 1,2,7 |
+| Sales channels | Unique identifier number for the [sales channel](/en/docs/tutorials/creating-a-trade-policy). This information can be found in the VTEX Admin, under **Store settings > Sales channels**. For multiple sales channels, separate the numbers with a comma, without using spaces. | 1,2,7 |
 | Global category ID | Identifier code for the product’s [global category](/en/docs/tutorials/setting-up-the-global-category), which is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=en-US), predefined as a unique tree in the VTEX platform. This field is important for [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes. | 166 |
 | Global categories | [Global category](/en/docs/tutorials/setting-up-the-global-category) name. | Apparel & Accessories |
 | Product URL | Final part of the URL (slug) of the product details page (PDP). | corebiz-tshirt |

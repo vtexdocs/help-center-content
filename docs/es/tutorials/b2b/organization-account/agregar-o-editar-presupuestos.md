@@ -10,7 +10,7 @@ locale: es
 
 Los presupuestos permiten definir y hacer seguimiento de los límites de gastos de forma centralizada. Esta funcionalidad ayuda a controlar el uso de los montos a lo largo del tiempo y a organizar el presupuesto por diferentes contextos del negocio. 
 
-> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), actualmente está disponible para cuentas seleccionadas.
 
 También permite crear presupuestos, configurar notificaciones de consumo, definir asignaciones y controlar la disponibilidad de estos valores en el checkout.
 

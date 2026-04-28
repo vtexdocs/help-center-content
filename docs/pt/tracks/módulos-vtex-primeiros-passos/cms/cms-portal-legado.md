@@ -123,34 +123,34 @@ Para adicionar um controle, basta colá-lo no código. O resultado será renderi
 
 ### Lista de controles nativos da VTEX
 
-Você pode conferir todos os controles nativos disponíveis e seus respectivos usos no artigo [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates).
+Você pode conferir todos os controles nativos disponíveis e seus respectivos usos no artigo [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ## Referências
 
 - [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
 - [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM)
-- [O que são templates?](/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [O que são controles?](/pt/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [O que são layouts?](/pt/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [O que são prateleiras?](/pt/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [O que é binding?](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [O que são templates?](/pt/docs/tutorials/o-que-sao-templates)
+- [O que é um web site?](/pt/docs/tutorials/o-que-e-um-web-site)
+- [O que são controles?](/pt/docs/tutorials/o-que-sao-controles)
+- [O que são layouts?](/pt/docs/tutorials/o-que-sao-layouts)
+- [O que são prateleiras?](/pt/docs/tutorials/o-que-sao-prateleiras)
+- [O que é binding?](/pt/docs/tutorials/o-que-e-binding)
 
 ## Guides
 - **[Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina):** Aprenda a criar template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
 
-- **[Associar um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Associe um template a um layout usando a pasta Sites e canais.
+- **[Associar um template a um layout](/pt/docs/tutorials/associando-um-template-a-um-layout):** Associe um template a um layout usando a pasta Sites e canais.
 
 - **[Gerenciando placeholders](/pt/docs/tutorials/gerenciandoplaceholders):** Um placeholder é um trecho de código configurável que atende a condições definidas pela loja. Insira e configure um placeholder, por exemplo, um banner na sua loja.
 
-- **[Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Controles são trechos de código que você pode utilizar nos templates do seu site para realizar ações específicas, por exemplo, um controle em uma página de produto para exibir o nome do produto na tela.
+- **[Usando controles nativos da VTEX](https://developers.vtex.com/docs/guides/list-of-controls-for-templates):** Controles são trechos de código que você pode utilizar nos templates do seu site para realizar ações específicas, por exemplo, um controle em uma página de produto para exibir o nome do produto na tela.
 
 - **[Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
 ## Controles
 - [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templatesor-templates)
 - [Controle de Busca - fulltextSearchBox](/pt/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
-- [Controle de destaque de coleção](/pt/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
-- [Controle de breadcrumb](/pt/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
+- [Controle de destaque de coleção](/pt/docs/tutorials/controle-de-destaque-de-colecao)
+- [Controle de breadcrumb](/pt/docs/tutorials/controle-de-breadcrumb)
 - [Controles do template de prateleira](/pt/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
 

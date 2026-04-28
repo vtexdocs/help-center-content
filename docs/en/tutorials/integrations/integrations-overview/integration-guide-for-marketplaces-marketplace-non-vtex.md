@@ -30,7 +30,7 @@ In this article, you get an overview of the process of integrating both blocks, 
 **Seller** - Product owner, responsible for fulfillment, i.e. for complying with SKU delivery.<br/> 
 **Marketplace/Affiliate** - Window display owner (where the end customer sees the product), responsible for displaying and selling the SKU.<br/> 
 **SKU** - Item to be exchanged and sold between Marketplace and Seller.<br/> 
-**Trade Policy** - Product assortment, pricing and logistics settings that determine the characteristics of a sales channel.<br/> 
+**Sales Channel** - Product assortment, pricing and logistics settings that determine the characteristics of a sales channel.<br/> 
 **Endpoint** - Access point for an internet service, service ready to receive a request and return a reply.<br/> 
 **MarketplaceServicesEndpoint** - Access point where VTEX Sellers give order information to the Marketplace, such as invoice and the order tracking code.<br/> 
 

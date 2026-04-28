@@ -42,7 +42,7 @@ To send payment options to a Marketplace, it’s necessary for the Seller White 
 
 - __Name:__ Insert the Marketplace name to where the payment options will be sent 
 - __ID__: Insert a three-letter seal to identify the Marketplace
-- __Trade Policy__: ID of the commercial of the Seller White Label that will send the information to the Marketplace
+- __Sales Channel__: ID of the commercial of the Seller White Label that will send the information to the Marketplace
 - __E-mail for notifications__: Fill in with an e-mail that will receive notifications about the integration
 - __Search Endpoint__: This field in not mandatory
 - __Search Endpoint_ Version_: Select the option __1.x.x__

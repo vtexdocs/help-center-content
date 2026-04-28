@@ -73,7 +73,7 @@ It should require essential information about the user to help you assess whethe
 
 In the B2B scenario, it is common to use basic information such as name, email, phone number, street name, and city. You can use a form to get this information.
 
-> ❗ The field used as a conditional rule in the trade policy **cannot be in this form** because user approval is the store's responsibility.
+> ❗ The field used as a conditional rule in the sales channel **cannot be in this form** because user approval is the store's responsibility.
 
 On VTEX, you can create forms through [Master Data](/en/docs/tutorials/master-data) — the store's database —, which stores information of the store's customer database and organizes the data received through forms.
 
@@ -95,29 +95,29 @@ To approve customer access to the store, it is necessary to approve each of the 
 
 ### Configuring the product catalog
 
-To determine which products each group of users will be able to view, you must configure your store’s trade policies. Each trade policy has its own catalog and pricing and logistics specifications. You can [create a new trade policy](/en/docs/tutorials/creating-a-trade-policy) specifically for this purpose or configure an existing one.
+To determine which products each group of users will be able to view, you must configure your store’s sales channels. Each sales channel has its own catalog and pricing and logistics specifications. You can [create a new sales channel](/en/docs/tutorials/creating-a-trade-policy) specifically for this purpose or configure an existing one.
 
-When creating or configuring a trade policy for the B2B context, you’ll need to select the products that will be associated with it. On VTEX, you can associate SKUs individually through the Admin or in bulk using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
+When creating or configuring a sales channel for the B2B context, you’ll need to select the products that will be associated with it. On VTEX, you can associate SKUs individually through the Admin or in bulk using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
 
 > ℹ️ We recommend configuring SKUs using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) — association or creation in bulk or individually — for companies that already have a mature ecommerce operation and manage and maintain their own product catalog in ecommerce. This infrastructure allows you to import the entire catalog with all current configurations via [ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ### Configuring the logistics strategy
 
-Like the catalog, logistics must be configured in the trade policy.
+Like the catalog, logistics must be configured in the sales channel.
 
-You have to associate the trade policy configured for the B2B scenario with the shipping strategies related to ecommerce logistics, including loading docks, warehouses and shipping/carrier strategies.
+You have to associate the sales channel configured for the B2B scenario with the shipping strategies related to ecommerce logistics, including loading docks, warehouses and shipping/carrier strategies.
 
 You can configure loading docks, warehouses and shipping strategies using the [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview) or in the [Admin](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
 
 To configure it in the Admin, you must:
 
-1. **Associate the B2B trade policy with a loading dock:** fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks. If there are no docks listed in your store, you must [add a loading dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete). In this field, you must enter the trade policy you have configured for the B2B scenario.
+1. **Associate the B2B sales channel with a loading dock:** fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks. If there are no docks listed in your store, you must [add a loading dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete). In this field, you must enter the sales channel you have configured for the B2B scenario.
 
-2. **Associate a carrier with a loading dock**\: fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks, in which you must select the trade policy configured for the B2B scenario. If there are no carriers listed in your store, you must [add a carrier](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
+2. **Associate a carrier with a loading dock**\: fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks, in which you must select the sales channel configured for the B2B scenario. If there are no carriers listed in your store, you must [add a carrier](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
 
 3. **Define a warehouse and associate it with a loading dock**\: choose a loading dock on the page for adding/editing warehouses. If there are no warehouses listed in your store, you must [add a warehouse](/en/tutorial/gerenciar-estoque).
 
-In the configuration via [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), you must follow these exact instructions. However, you can use the [POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)</code> endpoint to associate a trade policy with a loading dock and a carrier with a loading dock by filling in the `salesChannels` and `freightTableIds` parameters, respectively.
+In the configuration via [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), you must follow these exact instructions. However, you can use the [POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)</code> endpoint to associate a sales channel with a loading dock and a carrier with a loading dock by filling in the `salesChannels` and `freightTableIds` parameters, respectively.
 
 To associate a warehouse with a loading dock, fill in the `warehouseDock` parameter of the `[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse)` endpoint.
 
@@ -129,7 +129,7 @@ You can configure prices through [price tables](/en/docs/tracks/tabelas-de-preco
 2. Edit the pricing spreadsheet settings.
 3. Import the pricing spreadsheet you have configured.
 
-You can also create and edit price tables via the `[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy)` endpoint.
+You can also create and edit price tables via the `[POST Create/Edit Fixed Prices on a price table (or sales channel)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy)` endpoint.
 
 ### Configuring payment methods
 

@@ -1,0 +1,103 @@
+---
+title: 'Adding users to buyer organizations'
+createdAt: '2026-03-05T10:00:00.000Z'
+updatedAt: '2026-04-13T10:00:00.000Z'
+contentType: tutorial
+productTeam: B2B
+slugEN: adding-users-to-buyer-organizations
+locale: en
+---
+
+This article explains how an **Organization Admin** can create a user as a member of a buyer organization with specific permissions to perform actions on behalf of the organization.
+
+> ⚠️ This feature is only available to stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
+
+## Storefront roles
+
+Roles define what each user can do in the store, including managing the organization account. Each role has a set of permissions. When you assign one or more roles to a user, they acquire the combined capabilities of those roles. Applying permissions in the store allows restricting users to view and edit approved resources only.
+
+The table below summarizes the main roles and their functions:
+
+| Role | Purpose |
+| --- | --- |
+| **Organizational Unit Admin** | Full control over the organizational unit: manages organization and contract, users, buying policies, budgets, accounting fields, and credit cards. |
+| **Super Buyer Admin** | Can manage all organizational units at the root level of the organization, beyond the limits of each unit. |
+| **Buyer** | Can place orders in the store. |
+| **Order Approver** | Can approve or reject orders following the configured approval flows. |
+| **Order Modifier** | Can use the order change feature on orders they have access to. |
+| **Address Manager** | Can add and manage addresses during checkout, and view saved addresses. |
+| **Buyer Organization Manager** | Can view all orders within their organizational unit. |
+| **Contract Manager** | Can view orders placed under the contract assigned to them. |
+| **User Manager** | Can manage users and view user details within the organization. |
+| **Buying Policy Manager** | Can create, edit, and delete buying policies and approval workflows, and view buying policies. |
+| **Budget Manager** | Can create, edit, allocate, and delete budgets, and view budget details, allocations, limits, and spending history. |
+| **Accounting Field Manager** | Can create, edit, and delete accounting fields, and view accounting field configurations. |
+| **Credit Card Manager** | Can manage and view saved credit cards. |
+| **Personal Cards User** | Can use a new credit card not saved in the contract by default at checkout. |
+
+> ℹ️ Learn more about Storefront roles and resources in the developer guide [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
+
+## Before you begin
+
+To add a user, you must be a member of the buyer organization and have the **Organization Admin** role.
+
+## Instructions
+
+Follow the instructions below to add a user:
+
+1. Go to the store using a browser and log in with your user account.
+
+2. In the top menu, click **Company**. The organization dashboard will be displayed.
+
+   ![add-users-to-buyer-organizations_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-account/adding-users-to-buyer-organizations_1.png)
+
+3. Click **Manage.**
+
+4. There are two ways to access the user creation screen:
+
+   1. Click the **\+** button and then **Add user**,  
+      or
+   2. Click **Users** and then click the **\+** button.
+
+   ![add-users-to-buyer-organizations_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-account/adding-users-to-buyer-organizations_2.png)
+
+5. Complete the new user information:
+
+   - **Full name (optional)**: User's first and last name that will be displayed in the organization.
+   - **Email (optional)**: Email address that can be used for login and communications related to the purchase process.
+   - **Phone (optional)**: User's phone number. It can be used for login and for communications related to purchases.
+   - **Username**: Unique identifier for the user within the organization. Used to log in to the store. Special characters are not allowed.
+   - **Roles**: Defines the user's role on the storefront, such as Buyer, Approver, or Organization Admin. For more information about available roles, see the [Storefront roles](#storefront-roles) section.
+
+     > ⚠️ Adding buyer users whose roles allow making purchases requires an additional step. Learn more at [Activating buyer users](#activating-buyer-users).
+
+6. Click **Add** to complete.
+
+   After creating the user, a confirmation message will be displayed. You can click **View** in it to see the newly created user.
+
+   The user will also be available for editing in **Organization > Users**.
+
+> ⚠️ The new user needs to set their password on their first login to the store. They must use an access code sent to the email added in step 5, if any. If no email is added, the access code must be generated by the organization admin, as described in the [Generating an access code for users without email](#generating-an-access-code-for-users-without-email) section.
+
+They will operate within the organizational unit to which they are linked and can perform actions based on their storefront role and assigned permissions.
+
+## Generating an access code for users without email
+
+When adding a user without an email address, the organization admin must generate an access code and provide it to the user for their first login, following the instructions below.
+
+1. Go to **Organization > Users**.
+2. Click the vertical ellipsis menu ⋮ and then **Reset password**.
+3. Click **Reset** to confirm.
+4. Copy the generated code and send it to the user.
+
+The code will be valid for 12 hours. The user will only be able to log in for the first time and set their access password using this code.
+
+## Activating buyer users
+
+**Buyers** are users who can place orders and are associated with the buyer organization. Buyer details identify and describe the users in the store and in order flows, such as checkout and order history. These details are used by the store to identify who is placing the order and to apply the correct permissions, contracts, and policies.
+
+Unlike other user types, adding a user with permission to make purchases in the store requires additional steps beyond creating the user and assigning them roles. You also need to add the user as a buyer via API. To enable a user to make purchases in the store, follow the steps below:
+
+1. Add the user to the buyer organization as described in the [Instructions](#instructions) section.
+2. Assign them a role that allows making purchases, such as **Buyer**. See the [Storefront roles](#storefront-roles) section for available roles.
+3. Add the user as a buyer. To learn how to add and manage buyer details, see the [B2B Buyer Data API](https://developers.vtex.com/docs/api-reference/b2b-buyer-data-api).
