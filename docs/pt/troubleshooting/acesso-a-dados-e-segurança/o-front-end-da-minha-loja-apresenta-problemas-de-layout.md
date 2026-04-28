@@ -34,7 +34,7 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 3. Clique nos três pontos verticais na parte superior direita da página, conforme indicado na imagem abaixo.
 4. Selecione **Mais ferramentas** e, em seguida, **Condições de solicitação** para bloquear todas as customizações feitas por meio de CSS, JavaScript e Google Tag Manager. 
 
-  ![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/legado-02.png) 
+  ![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/legado-02.png)
 
 5. Na aba **Condições de solicitação**, clique em `Adicionar regra` para definir o primeiro recurso a ser bloqueado. Para adicionar mais recursos, clique em `+` e, depois de definir, clique em `Adicionar`. Essa configuração precisa ser feita apenas uma vez no seu navegador. Inclua os itens abaixo:
 
