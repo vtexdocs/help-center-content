@@ -16,13 +16,15 @@ A extensibilidade é a solução que permite às lojas complementarem a jornada 
 
 ## Funcionamento da extensibilidade
 
+A extensibilidade é uma solução nativa para as lojas VTEX integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
+
 Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Eles estão disponíveis nos seguintes contextos:
 
 * Carrinho de compras e checkout:
 
 ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
 
-* Modais adicionais acessados pelo menu
+* Menu e modal lateral:
 
 ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
@@ -32,17 +34,13 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
 ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
 
-Veja a seguir as imagens de como estes componentes se integram à interface de um computador:
-
-Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e carrinho.
-
-O ponto de extensão acessado pelo Menu do Sales App sempre abrirá uma drawer à esquerda do fluxo que pode conter multi-navegação interna.
+Ao clicar no componente da extensão do menu, será aberto o modal que fica à esquerda da interface, o que permite a criação de múltiplos fluxos de navegação interna.
 
 ## Segurança e estabilidade de extensões
 
-A extensibilidade é uma solução nativa para as lojas integrarem com APIs externas e interagirem com dados de outras aplicações, mas de forma segura e estável, o que evita comportamentos inesperados e contribui para a estabilidade da operação da loja.
+Sendo uma solução nativa, a extensibilidade contribui para a segurança e estabilidade da operação, o que evita comportamentos inesperados e contribui para a estabilidade da operação da sua loja.
 
-Os pontos de extensão podem apresentar limitações propositais. Elas garantem que:
+No entanto, os pontos de extensão foram desenvolvidos com algumas limitações propositais, tendo em vista os seguintes objetivos:
 
 * Desenvolvedores apliquem códigos com segurança.  
 * A aplicação mantenha a estabilidade mesmo com quebras no fluxo customizado.
