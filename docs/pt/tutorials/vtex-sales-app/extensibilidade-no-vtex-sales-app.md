@@ -18,8 +18,10 @@ A extensibilidade é a solução que permite às lojas complementarem a jornada 
 
 Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Eles estão disponíveis nos seguintes contextos:
 
-* Checkout
-* Carrinho de compras
+* Carrinho de compras e checkout:
+
+![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
+
 * Página de detalhes do produto (PDP)
 * Modais adicionais acessados pelo menu
 
