@@ -52216,6 +52216,21 @@
             },
             {
               "name": {
+                "en": "Product indexing may show a high delay in Indexing History",
+                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
+                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
+              },
+              "slug": {
+                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
+                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
+                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product search by ID fields not working for uppercase characters",
                 "es": "La búsqueda de productos por campos ID no funciona para caracteres en mayúsculas",
                 "pt": "A pesquisa de produtos por campos de ID não funciona com caracteres maiúsculos"
@@ -53013,7 +53028,7 @@
           "children": [
             {
               "name": {
-                "en": "'Logistics inventory full access' permission did not work as expected",
+                "en": "\"Logistics inventory full access\" permission did not work as expected",
                 "es": "El permiso de 'acceso total al inventario de logística' no funcionó como se esperaba",
                 "pt": "A permissão de 'acesso total ao inventário logístico' não funcionou como esperado"
               },
@@ -53134,12 +53149,12 @@
             {
               "name": {
                 "en": "Delivery Capacity as (zero) Orders, allowing schedule Carrier at Checkout",
-                "es": "Capacidad de entrega como (cero) Pedidos, permitiendo programar al Transportista en la Caja",
+                "es": "Capacidad de entrega con (cero) pedidos, lo que permite seleccionar el transportista al finalizar la compra",
                 "pt": "Capacidade de entrega como (zero) pedidos, permitindo o transporte de horários no checkout"
               },
               "slug": {
                 "en": "delivery-capacity-as-zero-orders-allowing-schedule-carrier-at-checkout",
-                "es": "capacidad-de-entrega-como-cero-pedidos-permitiendo-programar-al-transportista-en-la-caja",
+                "es": "capacidad-de-entrega-con-cero-pedidos-lo-que-permite-seleccionar-el-transportista-al-finalizar-la-compra",
                 "pt": "capacidade-de-entrega-como-zero-pedidos-permitindo-o-transporte-de-horarios-no-checkout"
               },
               "origin": "",
@@ -61466,6 +61481,21 @@
             },
             {
               "name": {
+                "en": "Transaction error caused by BIN validation mismatch in payment rules",
+                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
+                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+              },
+              "slug": {
+                "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
+                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction gets cancelled after reverting from Authorized to Started",
                 "es": "La transacción se cancela tras pasar de Autorizada a Iniciada",
                 "pt": "A transação é cancelada após ser revertida de Autorizada para Iniciada"
@@ -64209,6 +64239,21 @@
                 "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
                 "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
                 "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect \"coupon expired\" messaged displayed in the checkout when using a promotion that \"isArchived\" = true",
+                "es": "Aparece un mensaje erróneo de «cupón caducado» en la página de pago al utilizar una promoción cuyo valor «isArchived» es «true»",
+                "pt": "Mensagem incorreta \"cupom expirado\" exibida na finalização da compra ao usar uma promoção cujo atributo \"isArchived\" = true"
+              },
+              "slug": {
+                "en": "incorrect-coupon-expired-messaged-displayed-in-the-checkout-when-using-a-promotion-that-isarchived-true",
+                "es": "aparece-un-mensaje-erroneo-de-cupon-caducado-en-la-pagina-de-pago-al-utilizar-una-promocion-cuyo-valor-isarchived-es-true",
+                "pt": "mensagem-incorreta-cupom-expirado-exibida-na-finalizacao-da-compra-ao-usar-uma-promocao-cujo-atributo-isarchived-true"
               },
               "origin": "",
               "type": "markdown",
