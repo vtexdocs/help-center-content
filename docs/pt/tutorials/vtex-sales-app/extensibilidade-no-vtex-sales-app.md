@@ -23,7 +23,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 * Página de detalhes do produto (PDP)
 * Modais adicionais acessados pelo menu
 
-Veja a seguir as imagens de como estes componentes se integram à interface usando como exemplo o dispositivo desktop:
+Veja a seguir as imagens de como estes componentes se integram à interface de um computador:
 
 Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e carrinho.
 
