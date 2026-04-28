@@ -44,7 +44,7 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
  * `*:/files/*.css`
  * `*://www.googletagmanager.com/gtm.js*`
 
-  ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/request-conditions.png) 
+  ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/request-conditions-02.png)
 
 6. Marque a opção **Ativar bloqueio e limitação** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções habilitadas para bloqueio.
 7. Agora, atualize a página. Ela será exibida sem os componentes customizados.
