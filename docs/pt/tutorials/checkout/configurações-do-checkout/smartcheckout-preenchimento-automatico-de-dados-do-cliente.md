@@ -51,7 +51,7 @@ O fluxo de preenchimento automático de dados do cliente no Checkout ocorre da s
 3. O Checkout verifica se o email inserido pertence a algum cliente cadastrado na loja. 
 4. Caso seja localizado o email, o checkout preenche automaticamente os campos de identificação do cliente com os dados recebidos do Master Data.
 
-> ⚠️ Para a proteção dos dados do cliente, as informações de identificação serão exibidas apenas parcialmente na tela do Checkout (parte dos dados são mascarados conforme padrão [PCI-DSS](/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) de segurança em pagamentos). Este procedimento permite que o cliente possa identificar se os seus dados atuais estão corretos e também selecionar diferentes endereços cadastrados para a entrega, caso necessário.
+> ⚠️ Para a proteção dos dados do cliente, as informações de identificação serão exibidas apenas parcialmente na tela do Checkout (parte dos dados são mascarados conforme padrão [PCI-DSS](/pt/docs/tutorials/o-que-e-o-pci-ssc) de segurança em pagamentos). Este procedimento permite que o cliente possa identificar se os seus dados atuais estão corretos e também selecionar diferentes endereços cadastrados para a entrega, caso necessário.
 <ul>
 5. O cliente seleciona os meios de entrega e pagamento, e conclui o pedido de compra.
 </ul>
@@ -63,5 +63,5 @@ Para maiores informações sobre proteção de dados, acesse [Segurança do Smar
 
 ### Saiba mais
 
- * [Importar dados de clientes](/pt/tutorial/importando-dados-de-clientes--2zWYVOyj0sISYQmeUwCsI0)
+ * [Importar dados de clientes](/pt/docs/tutorials/importando-dados-de-clientes)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

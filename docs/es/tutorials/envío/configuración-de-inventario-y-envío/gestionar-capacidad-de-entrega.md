@@ -17,9 +17,9 @@ subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
 
 Puede hacer un seguimiento de la disponibilidad de las ventanas de entrega y de la cantidad de ítems/pedidos que aún pueden atenderse en cada ventana de entrega a través de la página **Capacidad de entrega**.
 
-Para gestionar su **Capacidad de entrega**, debe tener [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140) previamente registradas y la [Capacidad de entrega](/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) previamente configurada. 
+Para gestionar su **Capacidad de entrega**, debe tener [políticas de envío](/es/docs/tutorials/politica-de-envio) previamente registradas y la [Capacidad de entrega](/es/docs/tutorials/entrega-programada) previamente configurada. 
 
-> ⚠️ Para que la [Entrega programada](/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) y la [Capacidad de entrega](/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionen correctamente, debes tener en cuenta que:<ul><li>La suma de {[account name](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la [política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ Para que la [Entrega programada](/es/docs/tutorials/entrega-programada) y la [Capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega) funcionen correctamente, debes tener en cuenta que:<ul><li>La suma de {[account name](/es/docs/tutorials/que-es-account-name)} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la [política de envío](/es/docs/tutorials/crear-una-politica-de-envio).</li></ul>
 
 En el Admin VTEX, accede a **Envío > Capacidad de entrega**, o escribe **Capacidad de entrega** en la barra de búsqueda en la parte superior de la página. La **Capacidad de entrega** contiene una lista de las ventanas de entrega de su tienda. La lista mostrada se refiere a la política de envío seleccionada en el filtro `Política de envío` y al periodo seleccionado en el filtro `Fecha`.
 

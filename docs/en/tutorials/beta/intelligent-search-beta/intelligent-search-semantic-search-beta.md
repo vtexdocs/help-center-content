@@ -15,18 +15,20 @@ locale: en
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
+> ℹ️ Semantic search is available exclusively as part of the Search Optimizer Agent, an additional search optimization service.
+> 
+> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt Search Optimizer Agent for your business, contact our [Commercial Support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 Intelligent Search combines the precision of lexical techniques with the intelligence of semantic search models to provide a relevant and seamless experience that aligns with user intent.
 
-This strategy improves product discovery, increases conversions, and reduces interaction friction, especially in large and varied catalogs.
+This strategy improves product discovery, increases conversions, and reduces friction in interactions, especially in large, different catalogs.
 
 ## Key concepts
 
 Intelligent Search combines two key concepts:
 
-* **Lexical search**: Is based on direct keyword match.  
-* **Semantic search**: Focuses on interpreting the meaning and intent behind a query.
+* **Lexical search**: Based on direct keyword match.
+* **Semantic search**: Interprets the meaning and intent behind a query.
 
 Both concepts are described in more detail in the following sections.
 
@@ -36,24 +38,24 @@ The lexical layer of the search works based on a direct match between the query 
 
 **Example:**
 
-* **Query:** `Nike Air Max 90 sneakers`  
+* **Query:** `Nike Air Max 90 sneakers`
 
-   * The lexical search only returns the products that have that name in the catalog.
+   * The lexical search returns only products with that name in the catalog.
 
 ### Semantic search
 
-The semantic layer, based on **Natural Language Processing (NLP)** and **machine learning models**, interprets the meaning of words and the context in which they are used. It recognizes synonyms, relates similar terms, and identifies user intention even when the query doesn't mention exact words in the catalog.
+The semantic layer, based on **Natural Language Processing (NLP)** and **machine learning models**, interprets the meaning of words and their context. It recognizes synonyms, relates similar terms, and identifies user intention even when the query doesn't mention exact words in the catalog.
 
 **Example:**
 
-* **Query**: `shoes for running a marathon`  
+* **Query**: `shoes for running a marathon`
 
-   * The semantic search understands that the user is looking for shoes focused on long-distance performance, and prioritizes products tailored for endurance running, even if they don't have 'marathon' in the description.
+   * The semantic search understands that the user is looking for shoes optimized for long-distance performance and prioritizes products tailored for endurance running, even if they don't include 'marathon' in the description.
 
 * **Query**: `clothes for cold weather workouts`
 
-   * **Lexical**: May not find a direct match with 'cold weather workouts'.  
-   * **Semantic**: Understands that the user is searching for sportswear with thermal protection, and prioritizes items like thermal pants and long-sleeve shirts.
+   * **Lexical**: May not find a direct match with 'cold weather workouts'.
+   * **Semantic**: Understands that the user is searching for sportswear with thermal protection and prioritizes items like thermal pants and long-sleeve shirts.
 
 ## Intelligent Search approach
 
@@ -61,9 +63,9 @@ The Intelligent Search dynamically combines these two strategies. The platform u
 
 This model considers:
 
-* Structured fields in the catalog (lexical)  
-* Relationships between terms and synonyms (semantic)  
-* Search context and user behavior  
+* Structured fields in the catalog (lexical)
+* Relationships between terms and synonyms (semantic)
+* Search context and user behavior
 * Statistical relevance and machine learning
 
 The result is a search system that provides results that are more aligned with what consumers really want to find, even when using natural or ambiguous language.
@@ -76,6 +78,6 @@ In practice, if a customer types '16GB memory', for example, the lexical part id
 
 The main advantages for consumer experience and store performance are:
 
-* **Increased conversion:** Delivering more relevant results reduces product discovery time, which can accelerate purchase decisions.  
-* **Natural language comprehension:** Customers can search using everyday language, including full questions, vague terms, or informal language. For example, a customer can search `what are the best hiking shoes?` and the search understands that they are looking for shoes with specific features, such as waterproof and good grip.  
+* **Increased conversion:** Delivering more relevant results reduces product discovery time, which can accelerate purchase decisions.
+* **Natural language comprehension:** Customers can search using everyday language, including full questions, vague terms, or informal language. For example, a customer might search `what is the best hiking shoe?`, and the search understands they're looking for shoes with specific features, such as a lug sole and water resistance.
 * **Support for complex discovery cases:** Ideal for catalogs that have products with more subjective descriptions (example: fashion, beauty, home decor), where the exact attribute may not explicitly be present, but user intent can be inferred.

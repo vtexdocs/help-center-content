@@ -23,6 +23,6 @@ You can also make your store available at other addresses through [redirects](#m
 
 There are two types of redirections to make your store available at different addresses:
 
-- [Setting up access without www](/en/tutorial/configurando-acesso-sem-www--tutorials_4278)
- - [Redirecting from other addresses](/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+- [Setting up access without www](/en/docs/tutorials/best-practices-for-accessing-the-store-without-www)
+ - [Redirecting from other addresses](/en/docs/tutorials/redirect-from-other-addresses)
 

@@ -24,7 +24,7 @@ Entre los marketplaces disponibles, existen marketplaces VTEX y marketplaces ext
 | **VTEX** | Estos son los perfiles de los clientes VTEX que optaron por abrir su entorno para que otros sellers pongan sus productos a la venta. |
 | **Externo** | Se trata de marketplaces que no son clientes de VTEX pero desarrollaron la integración, siendo esta certificada o partner. |  
 
-> ℹ️ Importante: **Marketplaces e integraciones** es una herramienta que promueve el contacto entre posibles partners, pero no es obligatorio hacer uso de ella para convertirse en un marketplace VTEX. Si quieres actuar como marketplace VTEX, lee el artículo [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).  
+> ℹ️ Importante: **Marketplaces e integraciones** es una herramienta que promueve el contacto entre posibles partners, pero no es obligatorio hacer uso de ella para convertirse en un marketplace VTEX. Si quieres actuar como marketplace VTEX, lee el artículo [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#sendo-seller-vtex).  
 
 ## Encontrar marketplaces
 
@@ -66,7 +66,7 @@ Para conectarse con un marketplace externo, el seller debe seguir los pasos que 
 
 ### __Conectar con marketplace VTEX __  
 
-Para conectarse con uno de los marketplaces VTEX es necesario realizar un primer contacto con VTEX con el objetivo de negociar la asociación, y esperar la respuesta del marketplace; también es obligatorio tener un [Perfil de seller](/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja) activo.  
+Para conectarse con uno de los marketplaces VTEX es necesario realizar un primer contacto con VTEX con el objetivo de negociar la asociación, y esperar la respuesta del marketplace; también es obligatorio tener un [Perfil de seller](/es/docs/tutorials/marketplaces-e-integraciones#perfil-da-loja) activo.  
 Cuando envíes un mensaje, proporciona toda la información que ese marketplace necesita para conectarse con tu empresa. También sugerimos anticipar las dudas, o los puntos que se plantearán en una futura reunión, por ejemplo.  
 
 Para entrar en contacto con el marketplace:
@@ -101,7 +101,7 @@ Consulta la lista de tutoriales disponibles para la integración con los siguien
 - [Google Shopping Ads](/es/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
 - [Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
 - [Tik Tok](/es/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)
-- [CSU (Opte+)](/es/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
+- [CSU (Opte+)](/es/docs/tutorials/integrar-con-csu)  
 - [Via Varejo](/es/tutorial/como-funciona-a-integracao-da-cnova-via-varejo--1vFbUZUL80SQ0SoySGO8E6) 
-- [Farmácias App](/es/tutorial/integrando-com-farmacias-app--tutorials_6271) 
+- [Farmácias App](/es/docs/tutorials/integrar-con-farmacias-app) 
 - [Wish ](/es/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 

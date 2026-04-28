@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-pagina-para-agregar-productos-y-skus
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Vea las mejoras en la experiencia para agregar, ver y editar productos y SKUs.'
+tags:
+  - Nueva funcionalidad
+  - Catálogo
 ---
 
 La página de detalles de productos y SKUs ha sido rediseñada con el objetivo de optimizar tu experiencia para agregar, ver y editar productos y SKUs. La nueva página está disponible en beta.
@@ -33,7 +36,7 @@ Además, es más fácil seleccionar categorías y marcas.
 
 ![Nueva página para agregar productos y SKUs 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/septiembre/2024-09-25-nueva-pagina-para-agregar-productos-y-skus_4.gif)
 
-> ℹ️ Aprende más sobre las nuevas páginas de [producto](/es/tutorial/adding-products-beta--29IkdEu6GofCFlltsZh2H8) y [SKU](/es/tutorial/cadastro-de-skus-beta--4ryZ6J45kwn3jDiQBxGiiN), respectivamente.
+> ℹ️ Aprende más sobre las nuevas páginas de [producto](/es/docs/tutorials/agregar-o-editar-productos) y [SKU](/es/docs/tutorials/agregar-o-editar-skus), respectivamente.
 
 ## ¿Qué se necesita hacer?
 

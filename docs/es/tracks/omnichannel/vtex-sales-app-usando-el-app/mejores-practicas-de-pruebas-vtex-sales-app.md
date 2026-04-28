@@ -17,15 +17,15 @@ order: 3
 
 Tras completar la configuración básica y la instalación de la aplicación de VTEX Sales App en un dispositivo, es importante realizar pruebas antes de empezar a utilizar VTEX Sales App en tus tiendas físicas. En este artículo, conocerás las mejores prácticas para probar el uso de VTEX Sales App.
 
-![testes-instore-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/mejores-practicas-de-pruebas-instore_1.png)
+![testes-instore-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-sales-app-usando-el-app/mejores-practicas-de-pruebas-instore_1.png)
 
 ## Pruebas técnicas
 
 Antes de introducir VTEX Sales App en una de tus tiendas físicas, el equipo de infraestructura de tu marca debe realizar pruebas técnicas, es decir, pruebas de funcionamiento fuera del entorno de la tienda.
 
-En primer lugar, recomendamos probar todo el proceso de creación de pedidos en VTEX Sales App con cada una de las condiciones de pago configuradas en la cuenta. Para obtener más información sobre este proceso, lee los artículos sobre el [Uso de la aplicación VTEX Sales App](/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/2l56Bc2V1Xjv93JddsdEMi).
+En primer lugar, recomendamos probar todo el proceso de creación de pedidos en VTEX Sales App con cada una de las condiciones de pago configuradas en la cuenta. Para obtener más información sobre este proceso, lee los artículos sobre el [Uso de la aplicación VTEX Sales App](/es/docs/tracks/identificacion-del-cliente).
 
-A continuación, es importante realizar pruebas de cancelación de pedidos utilizando las condiciones de pago configuradas. Para más información sobre la cancelación de pedidos en VTEX Sales App, lee el artículo [Cancelar y reembolsar un pedido en VTEX Sales App](/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/UAahHrTwypk1HhoyyMd2W).
+A continuación, es importante realizar pruebas de cancelación de pedidos utilizando las condiciones de pago configuradas. Para más información sobre la cancelación de pedidos en VTEX Sales App, lee el artículo [Cancelar y reembolsar un pedido en VTEX Sales App](/es/docs/tracks/cancelar-y-reembolsar-un-pedido-en-vtex-sales-app).
 
 ## Pruebas en las tiendas
 

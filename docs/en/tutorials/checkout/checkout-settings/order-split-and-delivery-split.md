@@ -38,7 +38,7 @@ When more than one seller is required to fulfill the order.
 
 * **Different White Label Sellers:** the customer makes the purchases, but the platform chooses who will deliver the order. The choice of which seller will deliver the items will be based on priority criteria. In this case, the customer does not purposely choose items from different sellers, nor do they have information on which sellers will deliver the order.
 
-    When this happens, at the end of the purchase, the retailer sees the _order split and the delivery split_. The choice of seller is made automatically. If you want to know how it is performed, please refer to the article [White Label Sellers selection algorithm](/en/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa).
+    When this happens, at the end of the purchase, the retailer sees the _order split and the delivery split_. The choice of seller is made automatically. If you want to know how it is performed, please refer to the article [White Label Sellers selection algorithm](/en/docs/tutorials/white-label-sellers-selection).
 
 ## Package split (delivery split)
 

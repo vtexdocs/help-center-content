@@ -34,4 +34,4 @@ Once you have completed the above instructions, the old password is disabled, an
 
 ## Learn more
 
-* [Authentication](/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs)
+* [Authentication](/en/docs/tutorials/authentication)

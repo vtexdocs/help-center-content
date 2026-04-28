@@ -81,7 +81,7 @@ As tabelas de preço são mostradas como colunas da lista de preços, assim como
 
 Para atualizar o preço fixo em uma tabela específica, clique na coluna dessa tabela e depois em __Definir preços fixos__. 
 
-Para inserir e atualizar os preços de uma tabela específica por API, confira a [documentação da API de Pricing](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
+Para inserir e atualizar os preços de uma tabela específica por API, confira a [documentação da API de Pricing](https://developers.vtex.com/docs/api-reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
 > ℹ️ A tabela de preços tem prioridade sobre o preço da Política Comercial. Isso significa que, se determinada tabela de preços se aplicar ao contexto de um usuário, o preço definido nela será utilizado, mesmo que esse cliente esteja também no contexto de uma política comercial que defina um preço diferente.
 

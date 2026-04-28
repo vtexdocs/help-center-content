@@ -16,7 +16,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
 Mercado Pago cuenta con algunos métodos de pago exclusivos, entre los que podemos destacar:
-- __Mercado Pago Offline__: permite el uso de [pagos offline disponibles en América Latina](/es/tutorial/what-offline-payment-conditions-are-available-in-latin-america--2lXPwiH6KcsSMuWaoigueq#).
+- __Mercado Pago Offline__: permite el uso de [pagos offline disponibles en América Latina](/es/docs/tutorials/lista-de-proveedores-de-pago-por-pais).
 - __Mercado Pago Wallet__: cartera digital que te permite pagar con los créditos de tu cuenta de Mercado Pago.
 
 Para utilizar las soluciones de Mercado Pago, comuníquese con VTEX y solicite la instalación de la aplicación “Mercado Pago Payment APP”. Si la aplicación no está instalada, su cliente no ve la pantalla emergente para completar la compra al final de la transacción.

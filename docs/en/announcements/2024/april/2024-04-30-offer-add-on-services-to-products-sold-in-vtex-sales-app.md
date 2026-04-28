@@ -13,6 +13,9 @@ locale: en
 legacySlug: offer-add-on-services-to-products-sold-in-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Assembly Options in VTEX Sales App: Add-on services and item assembly with different SKUs.'
+tags:
+  - New feature
+  - VTEX Sales App
 ---
 
 We have developed a new feature for [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p). It allows integration between online and physical sales channels, through which sales associates from physical stores can provide customized services to customers.
@@ -25,4 +28,4 @@ We developed this feature to allow sellers to offer product customization option
 
 ## What needs to be done?
 No action is required. The feature is already available in VTEX Sales App.
-For more information on how to use this feature, see the article [Assembly Options in VTEX Sales App](/en/tutorial/assembly-options-no-vtex-sales-app--4fTfqOMcXyhAhWXkl935lr).
+For more information on how to use this feature, see the article [Assembly Options in VTEX Sales App](/en/docs/tutorials/assembly-options-in-vtex-sales-app).

@@ -28,4 +28,4 @@ In this screen you can:
 - Set up 2-factor authentication through app.
 - Disable 2-factor authentication.
 
-See in more detail what you can do with the new My User screen in the article [Setting up personal data on the user's screen](/en/tutorial/setting-up-personal-data-on-the-users-screen).
+See in more detail what you can do with the new My User screen in the article [Setting up personal data on the user's screen](/en/docs/tutorials/setting-up-personal-data-on-the-users-screen).

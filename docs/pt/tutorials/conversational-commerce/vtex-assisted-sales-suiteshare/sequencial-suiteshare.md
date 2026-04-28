@@ -23,7 +23,7 @@ O Sequencial garante que a sua empresa terá um atendimento no WhatsApp mais org
 
 ![Sequencial  1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/sequencial-suiteshare_1.png)
 
-IMPORTANTE: Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB).
+IMPORTANTE: Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link](/pt/docs/tutorials/links-suiteshare).
 
 Clique em “_**Novo**_”.
 
@@ -47,6 +47,6 @@ Essa opção serve para que, caso você queira, nenhum cliente ao clicar duas ve
 
  Clique no botão _**“Finalizar”**_.
 
-Você pode definir os horários de atendimento, para saber mais [**clique aqui**.](/pt/tutorial/horario-de-atendimento-suiteshare--4T1kEGSCdiIorFkcMj6F8e).
+Você pode definir os horários de atendimento, para saber mais [**clique aqui**.](/pt/docs/tutorials/horario-de-atendimento-suiteshare).
 
 Agora o link não irá direcionar apenas para um atendente, mas a cada clique ou cliente, irá ser iniciada uma conversa com um dos três atendentes sequencialmente.

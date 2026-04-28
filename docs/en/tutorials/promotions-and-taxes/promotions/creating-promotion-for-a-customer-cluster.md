@@ -48,7 +48,7 @@ Note that, in both options, `{propertyname}` must be replaced with the name of t
 
 The expression `{propertyname}={"value"}` must be used when the information contained in the customer profile for the given property must be exactly equal to the value entered in the expression.
 
-In the configuration below, for example, only `employee` entries with the value `true` (used in a **[Boolean](/en/tutorial/criando-entidade-de-dados--tutorials_1265)** field, where values are always `true` or `false`) will receive the promotion.
+In the configuration below, for example, only `employee` entries with the value `true` (used in a **[Boolean](/en/docs/tutorials/data-entity)** field, where values are always `true` or `false`) will receive the promotion.
 
 You could also configure `employee=false`, where only `employee` entries with the value `false` in the field would receive the promotion.
 
@@ -56,7 +56,7 @@ You could also configure `employee=false`, where only `employee` entries with th
 
 ![Cluster de clientes EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_2.png)
 
-Given a field of type **[Varchar](/en/tutorial/criando-entidade-de-dados--tutorials_1265)**, we could configure `employee="yes"` so that only customers with the value `"yes"` in the field receive the promotion.
+Given a field of type **[Varchar](/en/docs/tutorials/data-entity)**, we could configure `employee="yes"` so that only customers with the value `"yes"` in the field receive the promotion.
 
 > ⚠️ For fields of type **Varchar**, the value entered in the **Customer cluster** section of the promotion is case-sensitive. This means that if you fill in the option **Customer cluster** in a way that differs from the one determined for the field in the Master Data, the promotion will not be applied.
 

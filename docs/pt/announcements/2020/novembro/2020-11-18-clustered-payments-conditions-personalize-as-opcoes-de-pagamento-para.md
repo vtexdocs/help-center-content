@@ -35,4 +35,4 @@ Para configurar o Customer Credit como um meio de pagamento, o primeiro passo é
 
 Feito isto, você pode definir se essas regras serão válidas apenas para um ou mais  clientes.
 
-Para saber mais detalhes sobre o funcionamento da app, confira [a track de Clustered Payment Conditions](/pt/tracks/condicoes-de-pagamento-clusterizadas--1LqUFHQZ3ZQyV5TmugbGNm/4z2upCJ2om27Cs0BVJRA0U).
+Para saber mais detalhes sobre o funcionamento da app, confira [a track de Clustered Payment Conditions](/pt/docs/tracks/o-que-e-o-condicoes-de-pagamento-clusterizadas).

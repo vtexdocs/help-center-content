@@ -31,7 +31,7 @@ Para entender mejor el significado de los campos de registro de Marca, vea a con
 
 - __Lomadee Campaing Code__: código utilizado para las campañas de Buscapé. Rellenar este campo con el código permite el acompañamiento de métricas de remarketing asociadas a esa marca.
 
-- __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](/es/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](/es/docs/tutorials/como-funciona-el-campo-puntuacion)
 
 - __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](/es/tutorial/--tutorials_563) para las páginas de su tienda.
 

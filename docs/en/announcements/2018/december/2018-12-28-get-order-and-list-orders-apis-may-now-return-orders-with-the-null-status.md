@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'As of 01/30/2019, orders may appear with null status in the responses for the Get Order and List Orders calls.'
 ---
 
-As of __January 30, 2019__, requests to the [Get Order](https://developers.vtex.com/reference/orders#getorder) and [List Orders](https://developers.vtex.com/reference/orders#listorders) APIs may return orders with the `null` status. That result wasn’t previously available while using the referred APIs.
+As of __January 30, 2019__, requests to the [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) and [List Orders](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders) APIs may return orders with the `null` status. That result wasn’t previously available while using the referred APIs.
 
 
 ## Main advantages

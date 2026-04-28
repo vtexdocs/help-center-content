@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-VTEX DO es un gestor de tareas creadas automáticamente por el Admin VTEX para que el equipo de _ecommerce_ de tu tienda las realice manualmente. Para acceder a VTEX DO, en el menú del Admin VTEX, ve a **Pedidos > [Todos los pedidos](/es/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y haz clic en el ícono de bandeja de entrada, ubicado en la esquina inferior derecha de la página. Al hacer clic en el ícono, se abrirá un modal con la lista de tareas relacionadas con los pedidos de la tienda.
+VTEX DO es un gestor de tareas creadas automáticamente por el Admin VTEX para que el equipo de _ecommerce_ de tu tienda las realice manualmente. Para acceder a VTEX DO, en el menú del Admin VTEX, ve a **Pedidos > [Todos los pedidos](/es/docs/tutorials/todos-los-pedidos)** y haz clic en el ícono de bandeja de entrada, ubicado en la esquina inferior derecha de la página. Al hacer clic en el ícono, se abrirá un modal con la lista de tareas relacionadas con los pedidos de la tienda.
 
 ![VTEX Do overview ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/vtex-do-interface_1.gif)
 
-> ℹ️ Solo los usuarios con el perfil de acceso [OMS - Full Access](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access) pueden realizar tareas a través de VTEX DO.
+> ℹ️ Solo los usuarios con el perfil de acceso [OMS - Full Access](/es/docs/tutorials/roles#oms-full-access) pueden realizar tareas a través de VTEX DO.
 
 Las tareas aparecen en dos pestañas:
 - **Todas:** todas las tareas vinculadas a los pedidos de la cuenta de la tienda.
@@ -80,7 +80,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
   <tr>
    <td>Autorización de pedido alterado manualmente
    </td>
-   <td>El pedido se generó con un valor fuera de la[ Regla de divergencia de precios](/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) configurada.
+   <td>El pedido se generó con un valor fuera de la[ Regla de divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios) configurada.
    </td>
    <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
@@ -96,7 +96,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
   <tr>
    <td>Ocurrió un problema en la generación del pedido recurrente
    </td>
-   <td>Los pedidos de[ suscripción](/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) generalmente no se autorizan por problemas con la tarjeta de crédito del comprador. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda.
+   <td>Los pedidos de[ suscripción](/es/docs/tutorials/como-configurar-suscripciones) generalmente no se autorizan por problemas con la tarjeta de crédito del comprador. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda.
    </td>
    <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
@@ -104,7 +104,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
   <tr>
    <td>El precio es menor que el *markup* mínimo
    </td>
-   <td>El valor de la compra es menor que el *markup* o el margen de beneficio mínimo del[ precio base de un SKU](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+   <td>El valor de la compra es menor que el *markup* o el margen de beneficio mínimo del[ precio base de un SKU](/es/docs/tracks/registrar-precio-base).
    </td>
    <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>

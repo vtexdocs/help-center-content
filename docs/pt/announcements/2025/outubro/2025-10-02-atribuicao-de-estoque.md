@@ -13,6 +13,10 @@ locale: pt
 legacySlug: mercado-livre-atribuicao-de-estoque
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Configure seus estoques VTEX com estoques regionalizados do Mercado Livre e otimize a gestão logística.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
+  - Integrações
 ---
 
 A funcionalidade **Atribuição de estoque** permite ao seller vincular diferentes estoques da sua loja VTEX a estoques do Mercado Livre, melhorando o gerenciamento de inventário e otimizando a logística de pedidos.  
@@ -33,5 +37,5 @@ Agora é possível:
 
 ## O que precisa ser feito? 
 
-A funcionalidade está disponível apenas para sellers que utilizam o novo modelo de anúncios e têm a conta habilitada para o recurso de estoque multiorigem no Mercado Livre. Para conhecer a funcionalidade e como realizar a configuração, acesse os tutoriais [Alocação de estoque no Mercado Livre](/pt/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S) e [Configurar alocação de estoque](/pt/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX)
+A funcionalidade está disponível apenas para sellers que utilizam o novo modelo de anúncios e têm a conta habilitada para o recurso de estoque multiorigem no Mercado Livre. Para conhecer a funcionalidade e como realizar a configuração, acesse os tutoriais [Alocação de estoque no Mercado Livre](/pt/docs/tutorials/alocacao-de-estoque-no-mercado-livre) e [Configurar alocação de estoque](/pt/docs/tutorials/configurar-alocacao-de-estoque)
 

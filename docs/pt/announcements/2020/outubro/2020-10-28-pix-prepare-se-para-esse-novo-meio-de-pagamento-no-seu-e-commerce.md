@@ -25,9 +25,9 @@ Para conhecer as vantagens e os benefícios de aceitar o Pix como meio de pagame
 
 ## Como parceiros podem integrar-se com a VTEX?
 
-__A partir de 19 de outubro de 2020__, parceiros poderão iniciar suas integrações via [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) para oferecer o Pix como meio de pagamento para seus clientes. 
+__A partir de 19 de outubro de 2020__, parceiros poderão iniciar suas integrações via [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol) para oferecer o Pix como meio de pagamento para seus clientes. 
 
-__Instituições de pagamento que já são parceiras__ VTEX podem entrar em contato com a área de Parcerias e solicitar a integração via contato direto com seu Partner Manager. Também é possível fazer esse pedido via [Suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).  
+__Instituições de pagamento que já são parceiras__ VTEX podem entrar em contato com a área de Parcerias e solicitar a integração via contato direto com seu Partner Manager. Também é possível fazer esse pedido via [Suporte](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).  
 
 __Instituições de pagamento que ainda não são parceiras__ VTEX devem entrar em contato via [formulário](https://vtex.com/br-pt/partner) para iniciar a parceria.
 
@@ -37,7 +37,7 @@ Existem duas opções:
 
 - Entrar em contato com a empresa que realiza o intermédio de seus pagamentos no e-commerce e solicitar que a instituição integre-se com a VTEX. 
 
-- Escolher um parceiro que já está em contato com a VTEX e realizar a negociação contratual e de configuração técnica com ele. Atualmente, os parceiros disponíveis são: [PayMee](https://www.paymee.com.br/), [Spin Pay](https://spinpay.com.br/), [IUGU](https://iugu.com/), [Mercado Pago](https://www.mercadopago.com.br/), [Pagar.me](/pt/tutorial/configurar-gateway-pagarmev2--5TugxXNMOs0Ocyg4uqussM) e [Aarin](https://aarin.com.br/).
+- Escolher um parceiro que já está em contato com a VTEX e realizar a negociação contratual e de configuração técnica com ele. Atualmente, os parceiros disponíveis são: [PayMee](https://www.paymee.com.br/), [Spin Pay](https://spinpay.com.br/), [IUGU](https://iugu.com/), [Mercado Pago](https://www.mercadopago.com.br/), [Pagar.me](/pt/docs/tutorials/configurar-gateway-pagarmev2) e [Aarin](https://aarin.com.br/).
 
 ## Contate os parceiros disponíveis
 

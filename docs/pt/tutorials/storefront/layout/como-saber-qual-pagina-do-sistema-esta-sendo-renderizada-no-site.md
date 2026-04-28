@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
 Quando uma página do site é renderizada, o código-fonte traz sempre um comentário que indica a qual pasta do CMS o layout da página está relacionado.

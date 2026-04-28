@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-as-imagens-da-minha-loja-estao-sendo-exibidas-com-baixa-qualidade
 ---
 
-A redução na qualidade das imagens pode acontecer durante o processo automático de [compactação ou compressão de imagens](/pt/tutorial/compactacao-de-imagens--4klbgpsPksq44KcwqKeye8).
+A redução na qualidade das imagens pode acontecer durante o processo automático de [compactação ou compressão de imagens](/pt/docs/tutorials/compactacao-de-imagens).
 
 Se você utiliza fotos no formato JPG ou JPEG no seu website, é normal que elas passem por alguma perda de qualidade, devido à conversão para [WebP](https://developers.google.com/speed/webp?hl=pt-br) com perdas (lossy). No entanto, essa diferença não deveria ser muito sensível. Para corrigir isso, o melhor é fazer upload novamente dos arquivos, mas com uma resolução um pouco maior.
 
@@ -24,4 +24,4 @@ Outra opção é utilizar imagens pré-otimizadas com ferramentas de conversão 
 
 ## Saiba mais
 
-* [Compactação de imagens](/pt/tutorial/compactacao-de-imagens--4klbgpsPksq44KcwqKeye8)
+* [Compactação de imagens](/pt/docs/tutorials/compactacao-de-imagens)

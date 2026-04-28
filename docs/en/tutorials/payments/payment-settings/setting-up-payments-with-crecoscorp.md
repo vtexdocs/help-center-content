@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, it is possible to integrate with the CrecosCorp payment provider. With this provider, your store can make sales through private labels.
 
-To set up your CrecosCorp, access [Registering gateway affiliations](/en/tutorial/afiliacoes-de-gateway--tutorials_444#).
+To set up your CrecosCorp, access [Register payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations).
 
 To set up payment by private labels cards, access [Setting up Private Label payments](/en/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
 

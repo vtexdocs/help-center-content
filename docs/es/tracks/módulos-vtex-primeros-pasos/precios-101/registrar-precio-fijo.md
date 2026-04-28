@@ -18,7 +18,7 @@ order: 10
 Hay tres maneras de registrar un precio fijo:
 
 - [A través del módulo de Precios en el Admin](#admin)
-- [Mediante una plantilla de precios fijos](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Mediante una plantilla de precios fijos](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios)
 - [Mediante la Pricing API](#pricing-api)
 
 ## Admin 
@@ -69,5 +69,5 @@ Para eliminar un precio fijo existente, sigue los pasos que se indican a continu
 Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) de la Pricing API.
 
 ### Más información
-* [Programar precio](/es/tutorial/programar-precio--4vVha6TGzYkguWuMOqCcCk)
+* [Programar precio](/es/docs/tutorials/programar-precio)
 

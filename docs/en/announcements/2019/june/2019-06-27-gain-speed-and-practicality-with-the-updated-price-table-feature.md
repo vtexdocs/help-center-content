@@ -26,4 +26,4 @@ Before, to create a Price Table, it was necessary to acess the Prices module fil
 
 In this update, you can create, find and view price tables more quickly and conveniently. The new button displays a very intuitive interface, which simplifies the user experience in managing Price Tables.
 
-To learn more, access our tutorial on[ how to configure Price Tables](/en/tutorial/creating-price-tables--58YmY2Iwggyw4WeSCGg24S).
+To learn more, access our tutorial on[ how to configure Price Tables](/en/docs/tutorials/creating-price-tables).

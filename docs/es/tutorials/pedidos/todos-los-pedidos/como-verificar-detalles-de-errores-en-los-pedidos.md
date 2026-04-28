@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Una de las maneras de saber detalles de errores en pedidos es a través del link **Ver Interacciones**, disponible en la página de [detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), que se puede encontrar como se indica a continuación:
+Una de las maneras de saber detalles de errores en pedidos es a través del link **Ver Interacciones**, disponible en la página de [detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido), que se puede encontrar como se indica a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
 2. Seleciona el pedido deseado.

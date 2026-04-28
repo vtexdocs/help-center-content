@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Mudança na forma de compressão veio para atender as lojas que precisam manter a alta qualidade das imagens.'
 ---
 
-As lojas VTEX já contavam com compressão automática de imagens para o formato __WebP__, conforme divulgado [neste announcement](/pt/announcement/lojas-vtex-agora-tem-compactacao-automatica-de-imagens-para-webp). A novidade é que, agora, essa compressão é __lossless__ para imagens __PNG__. Isso significa que imagens com essa extensão vão continuar sendo convertidas para o formato criado pelo Google, mas __sem perdas de qualidade__.
+As lojas VTEX já contavam com compressão automática de imagens para o formato __WebP__, conforme divulgado [neste announcement](/pt/announcements/lojas-vtex-agora-tem-compactacao-automatica-de-imagens-para-webp). A novidade é que, agora, essa compressão é __lossless__ para imagens __PNG__. Isso significa que imagens com essa extensão vão continuar sendo convertidas para o formato criado pelo Google, mas __sem perdas de qualidade__.
 
 Essa conversão só acontece quando sua loja é acessada por um navegador compatível com o formato (por exemplo, o Google Chrome). Em navegadores que não reconhecem o WebP, as imagens continuam a ser renderizadas em seus formatos originais. Lembramos também que a compressão automática não altera o arquivo que você subiu no CMS, mas apenas a forma como esse arquivo é renderizado na tela do seu usuário.
 

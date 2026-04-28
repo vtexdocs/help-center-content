@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
 ---
 
-Existem duas possibilidades de configuração de boleto bancário: com as informações bancárias cadastradas diretamente na seção de Pagamentos ou passando por um Gateway de Pagamento. [Veja nosso manual de criação de boleto bancário](/pt/tutorial/como-configurar-boleto-bancario).
+Existem duas possibilidades de configuração de boleto bancário: com as informações bancárias cadastradas diretamente na seção de Pagamentos ou passando por um Gateway de Pagamento. [Veja nosso manual de criação de boleto bancário](/pt/docs/tutorials/como-configurar-boleto-bancario).
 
 Explicamos detalhadamente abaixo como que acontece a aprovação para cada um desses tipos:
 
@@ -23,7 +23,7 @@ Explicamos detalhadamente abaixo como que acontece a aprovação para cada um de
 
 Neste tipo de configuração, é necessário que a loja ou algum sistema avise à VTEX que o pagamento foi realizado.
 
-O pedido fica no status **Pagamento Pendente** até que se faça a notificação de pagamento. Essa notificação pode ser feita por [conciliação bancária](/pt/tutorial/conciliacoes-bancarias/), [por API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification) ou [manualmente em Gerenciamento de pedidos](/pt/tutorial/como-aprovar-pagamento/).
+O pedido fica no status **Pagamento Pendente** até que se faça a notificação de pagamento. Essa notificação pode ser feita por [conciliação bancária](/pt/docs/tutorials/conciliacoes-bancarias/), [por API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification) ou [manualmente em Gerenciamento de pedidos](/pt/docs/tutorials/como-aprovar-pagamento/).
 
 É importante destacar que somente após a aprovação do pagamento o pedido seguirá com seu fluxo normal.
 
@@ -31,4 +31,4 @@ O pedido fica no status **Pagamento Pendente** até que se faça a notificação
 
 Neste caso, é preciso que o gateway cadastrado faça a comunicação de pagamento com a VTEX, da mesma maneira que ocorre com um cartão de crédito, por exemplo.
 
-Também é possível fazer a aprovação de pagamento [manualmente em Gerenciamento de pedidos](/pt/tutorial/como-aprovar-pagamento/).
+Também é possível fazer a aprovação de pagamento [manualmente em Gerenciamento de pedidos](/pt/docs/tutorials/como-aprovar-pagamento/).

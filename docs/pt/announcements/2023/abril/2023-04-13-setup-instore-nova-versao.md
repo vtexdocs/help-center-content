@@ -21,8 +21,8 @@ Para oferecer um processo de onboarding mais acessível e simplificado para o [i
 
 Anteriormente, os usuários precisavam entrar em contato com o suporte da VTEX para ativar algumas configurações do inStore em suas lojas. Com a nova versão, as seguintes melhorias foram implementadas:
 
-* A instalação do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) agora é padrão, o que permite o uso de filtros e melhora o desempenho da busca.
-* A instalação do [Social Selling](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) também é padrão, permitindo que qualquer vendedor que use o inStore possa realizar vendas utilizando o checkout do ecommerce.
+* A instalação do [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) agora é padrão, o que permite o uso de filtros e melhora o desempenho da busca.
+* A instalação do [Social Selling](/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling) também é padrão, permitindo que qualquer vendedor que use o inStore possa realizar vendas utilizando o checkout do ecommerce.
 * Os métodos de pagamento como Pix e PagarMe agora são configurados automaticamente.
 
 ## Por que fizemos essa mudança?

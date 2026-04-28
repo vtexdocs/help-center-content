@@ -65,11 +65,11 @@ Los datos del Bridge están relacionados con los datos de pedidos, proporcionand
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](/es/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventario](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
-- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
-- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Catálogo](/es/docs/tutorials/catalogo-data-pipeline)
+- [Inventario](/es/docs/tutorials/stock-data-pipeline-beta)
+- [Navegación](/es/docs/tutorials/navegacion-data-pipeline)
+- [Pagos](/es/docs/tutorials/pagos)
+- [Pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta)
+- [Promociones](/es/docs/tutorials/promociones)
+- [Tarjeta de regalo](/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)
 

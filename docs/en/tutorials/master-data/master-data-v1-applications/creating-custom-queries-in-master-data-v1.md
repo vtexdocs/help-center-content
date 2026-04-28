@@ -19,7 +19,7 @@ A custom query in Master Data is a filter or combination of filters that can be 
 
 ## Prerequisites
 
-Before creating a query, follow the steps described in[ How to filter data in Master Data](/en/tutorial/filtrando-dados-no-master-data--tutorials_778) to set up a filter in the data entity and the form.
+Before creating a query, follow the steps described in[ How to filter data in Master Data](/en/docs/tutorials/filtering-data-on-master-data) to set up a filter in the data entity and the form.
 
 ## Saving a query
 

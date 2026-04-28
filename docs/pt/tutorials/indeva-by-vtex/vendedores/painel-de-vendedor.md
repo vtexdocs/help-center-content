@@ -20,7 +20,7 @@ Para acessar o painel do vendedor, clique na **foto do vendedor** desejado, loca
 
 
 <img
-  src="https://cdn.elev.io/file/uploads/PaTSwalD0CD1qzKrTIxoPy5YohxXp70Y2-RFBqKo7-Y/mxNtOplUWRLLxhqj-suQiLQhiAfHAUZsJXpR6JB9Das/Snap%202019-08-06%20at%2016.41.57-HWw.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/painel-de-vendedor_1.png"
   alt="Painel lateral com foto do vendedor"
   loading="lazy"
 />

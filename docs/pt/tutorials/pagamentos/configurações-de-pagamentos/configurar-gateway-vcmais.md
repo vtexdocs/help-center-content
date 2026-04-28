@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na plataforma VTEX, você pode configurar o [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) VC+ para receber pagamentos por meio de promissórias.
+Na plataforma VTEX, você pode configurar o [gateway](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) VC+ para receber pagamentos por meio de promissórias.
 
 Para configurar a VC+, siga os passos abaixo:
 
@@ -28,4 +28,4 @@ Para configurar a VC+, siga os passos abaixo:
 6. Clique em __Salvar__.
 
 ## Configurar condição de pagamento
-Depois de seguir os passos indicados, a VC+ vai estar configurada na sua loja. Assim, quando você for cadastrar o meio de pagamento promissória, você verá a VC+ disponível no campo __Processar com a afiliação__. Para saber como configurar pagamentos customizados (como as promissórias), acesse [este artigo do Help](/pt/tutorial/como-configurar-pagamento-customizado).
+Depois de seguir os passos indicados, a VC+ vai estar configurada na sua loja. Assim, quando você for cadastrar o meio de pagamento promissória, você verá a VC+ disponível no campo __Processar com a afiliação__. Para saber como configurar pagamentos customizados (como as promissórias), acesse [este artigo do Help](/pt/docs/tutorials/como-configurar-pagamento-customizado).

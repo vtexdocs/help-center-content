@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-A CyberSource é uma empresa que oferece diversas soluções para auxiliar a gestão de pagamentos da sua loja. Entre elas estão um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) e um [antifraude](/pt/tutorial/o-que-e-antifraude), ambos com integrações disponíveis na VTEX.
+A CyberSource é uma empresa que oferece diversas soluções para auxiliar a gestão de pagamentos da sua loja. Entre elas estão um [gateway](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) e um [antifraude](/pt/docs/tutorials/o-que-e-antifraude), ambos com integrações disponíveis na VTEX.
 
-Se você estiver procurando mais detalhes sobre o __gateway__ CyberSource, leia [este artigo do Help](/pt/tutorial/configurar-gateway-cybersource). Para configurar o __antifraude__ da CyberSource, siga os passos abaixo:
+Se você estiver procurando mais detalhes sobre o __gateway__ CyberSource, leia [este artigo do Help](/pt/docs/tutorials/configurar-gateway-cybersource). Para configurar o __antifraude__ da CyberSource, siga os passos abaixo:
 
 ## Configurar antifraude CyberSource
 
@@ -45,7 +45,7 @@ Depois de configurar o antifraude da CyberSource, ele vai estar disponível para
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão `+`.
-3. Clique sobre a condição desejada ou [crie uma nova condição de pagamento](/pt/tutorial/condicoes-de-pagamento).
+3. Clique sobre a condição desejada ou [crie uma nova condição de pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 5. Marque a opção __Usar antifraude__.
 6. Selecione a CyberSource.
 7. Clique em `Salvar`.

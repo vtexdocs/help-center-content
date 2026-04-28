@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the Legacy CMS Portal](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the Legacy CMS Portal](/en/docs/tutorials/adding-collections-cms).
 
 To better understand the meaning of the registration fields of a product collection, check out the full description of each one below: 
 

@@ -43,4 +43,4 @@ O carrinho compartilhado só é possível por causa da inclusão de um novo par�
 
 > ⚠️ Lembramos que o carrinho compartilhado é opcional e as mudanças citadas aqui devem se feitas **apenas pelas lojas que desejam usar a feature**.
 
-Leia o [artigo sobre o carrinho compartilhado](/pt/tutorial/o-que-e-o-carrinho-compartilhado) e conheça melhor a nova funcionalidade. 
+Leia o [artigo sobre o carrinho compartilhado](/pt/docs/tutorials/o-que-e-o-carrinho-compartilhado) e conheça melhor a nova funcionalidade. 

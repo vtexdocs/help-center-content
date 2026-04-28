@@ -33,4 +33,4 @@ Ofrecer más opciones de entrega para los pedidos de suscripción permite que el
 
 ## ¿Qué se necesita hacer?
 
-Para proporcionar puntos de recogida para pedidos de suscripción, debe cumplir los requisitos logísticos indicados en el artículo [Puntos de recogida para pedidos de suscripción (Beta)](/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv).
+Para proporcionar puntos de recogida para pedidos de suscripción, debe cumplir los requisitos logísticos indicados en el artículo [Puntos de recogida para pedidos de suscripción (Beta)](/es/docs/tutorials/puntos-de-recogida-para-pedidos-de-suscripcion).

@@ -19,4 +19,4 @@ Clustered Payments Conditions are a new [Customer Credit](/en/announcements/de-c
 
 > ℹ️ This functionality is currently in Closed Beta (testing stage) and is not available for installation in new stores.  
 
-This customization is done using our [Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) database. 
+This customization is done using our [Master Data](/en/docs/tutorials/master-data) database. 

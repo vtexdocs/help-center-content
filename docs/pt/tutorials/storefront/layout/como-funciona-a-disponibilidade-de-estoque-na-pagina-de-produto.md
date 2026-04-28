@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
 Para entendermos o funcionamento da disponibilidade de estoque exibida para o usuário, precisamos saber um pouco como funciona a arquitetura de chamadas que disponibiliza a informação de estoque na página de produto.
@@ -29,7 +29,7 @@ Desta maneira, o Layout utiliza esta informação do Checkout e mostra na págin
 
 É possível, embora não seja comum, que um produto apareça como __indisponível__ para algum usuário, __mesmo tendo estoque disponível__.
 
-O que acontece é que as páginas de produto utilizam o cache para guardar alguns dados e otimizar sua performance. Assim, os requests buscam algumas informações das [camadas de cache](/pt/tutorial/entendendo-o-funcionamento-do-cache) ao invés de solicitar as informações diretamente aos servidores. Este é um procedimento comum na web para que as respostas aos requests sejam mais rápidas e os sites ganhem em eficiência.
+O que acontece é que as páginas de produto utilizam o cache para guardar alguns dados e otimizar sua performance. Assim, os requests buscam algumas informações das [camadas de cache](/pt/docs/tutorials/entendendo-o-funcionamento-do-cache) ao invés de solicitar as informações diretamente aos servidores. Este é um procedimento comum na web para que as respostas aos requests sejam mais rápidas e os sites ganhem em eficiência.
 
 Por conta dessas camadas de cache, a informação de disponibilidade de estoque na página de produto pode ser diferente da retornada pelo Checkout no mesmo momento. Para que a página de produto exiba a informação mais atualizada do Checkout, é necessário expirar o cache da página de produto. Para expirar o cache, você deve adicionar um parâmetro qualquer à URL da página de produto (por exemplo, `utm_source=qualquerstring`) e atualizar a página.  
 

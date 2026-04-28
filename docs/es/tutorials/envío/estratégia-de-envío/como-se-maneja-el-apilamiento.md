@@ -19,7 +19,7 @@ Cuando se calcula la suma de las medidas de más de un SKU, el sistema posee una
 
 `(Menor lado x Cantidad de SKUs) + Ancho + Largo`
 
-Sólo se permitirá la quiebra de paquetes caso esté configurada la división de carga. [Sepa cómo configurar en nuestro artículo](/es/tutorial/como-se-maneja-el-reparto-de-carga).
+Sólo se permitirá la quiebra de paquetes caso esté configurada la división de carga. [Sepa cómo configurar en nuestro artículo](/es/docs/tutorials/como-se-maneja-el-reparto-de-carga).
 
 ## Medida de la arista más grande
 

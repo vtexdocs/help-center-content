@@ -26,6 +26,6 @@ Isto significa que o fluxo foi corrigido e não é mais possível usar as chaves
 Para saber como fazer isso, leia os artigos do Help VTEX:
 
 - [Cadastrar Client Id e Client Secret para login com Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook?utm_source=ksdbfds)
-- [Cadastrar Client Id e Client Secret para login com Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Cadastrar Client Id e Client Secret para login com Google](/pt/docs/tutorials/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 Essa alteração não provoca nenhum impacto negativo na sua loja. No entanto, se alguma customização foi feita de maneira errada em sua tela de login, podem surgir falhas. Portanto, confira sua tela de login para ter certeza de que tudo continua como antes.

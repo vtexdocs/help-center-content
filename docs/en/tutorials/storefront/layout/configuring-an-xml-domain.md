@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-The URL used to access the [XML](/en/tutorial/configuring-xml) is generated automatically, according to the domain registered in the Web Site dictionary, in the CMS.
+The URL used to access the [XML](/en/docs/tutorials/configuring-xml) is generated automatically, according to the domain registered in the Web Site dictionary, in the CMS.
 
 To configure this domain, follow these steps:
 

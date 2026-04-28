@@ -15,14 +15,16 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Performance Monitor, la funcionalidad de Sales App con la cual tus vendedores saben cuánto vendieron usando la solución.'
 ---
 
-[Performance Monitor](/es/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/5pqtuvi97FFZiGf7MlSe8q) es la nueva funcionalidad de VTEX Sales App con la cual los vendedores saben exactamente cuánto vendieron usando la solución y ven los principales indicadores de ventas: ticket promedio, unidades por cliente y precio promedio por ítem vendido. Además, los vendedores también ven su posición con relación al promedio de la tienda.
+[Performance Monitor](/es/docs/tracks/gestionar-vendedores-en-vtex-sales-app) es la nueva funcionalidad de VTEX Sales App con la cual los vendedores saben exactamente cuánto vendieron usando la solución y ven los principales indicadores de ventas: ticket promedio, unidades por cliente y precio promedio por ítem vendido. Además, los vendedores también ven su posición con relación al promedio de la tienda.
 
 Los administradores que acceden al Admin VTEX también pueden ver estos datos, lo que les permite monitorear de cerca el desempeño de sus vendedores y tiendas.
 
-# Qué cambió?
+## Qué cambió?
+
 El menú lateral de VTEX Sales App ahora tiene la opción Desempeño de ventas. En esta sección, el vendedor puede ver su desempeño de ventas y el de otros colaboradores.
 
-# ¿Qué se necesita hacer?
+## ¿Qué se necesita hacer?
+
 La funcionalidad está activada de forma predeterminada en todas las cuentas que utilizan la aplicación. La única excepción son las marcas que utilizan la solución Indeva by VTEX, en cuyo caso te debes poner en contacto con el equipo de soporte para activar la funcionalidad.
 
 - [Sales App - Primeros pasos y configuración](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)

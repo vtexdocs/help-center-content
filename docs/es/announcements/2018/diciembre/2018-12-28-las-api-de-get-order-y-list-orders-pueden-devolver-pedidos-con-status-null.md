@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'A partir de 30/01/19, las órdenes pueden venir con status null en las respuestas de las llamadas Get Order y List Order.'
 ---
 
-A partir de __30 de enero de 2019__, los pedidos pueden aparecer con status `null` en las respuestas de las llamadas de las API [Get Order](https://developers.vtex.com/reference/orders#getorder) y [List Orders](https://developers.vtex.com/reference/orders#listorders). Antes, ese resultado no era una respuesta posible de las API.
+A partir de __30 de enero de 2019__, los pedidos pueden aparecer con status `null` en las respuestas de las llamadas de las API [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) y [List Orders](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders). Antes, ese resultado no era una respuesta posible de las API.
 
 
 ## Principales ventajas

@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
-Learn more about the XML feature on the VTEX platform in the article [How XML updating works](/en/tutorial/understanding-the-updating-of-the-xml--tutorials_297)
+Learn more about the XML feature on the VTEX platform in the article [How XML updating works](/en/docs/tutorials/understanding-the-updating-of-the-xml)
 To apply different prices to products via XML, you must associate a SKU price table. To do this, please follow the steps below:
 
   1. In the VTEX Admin, go to *Store Settings > Channels > XML Integration*, or type *XML Integration* in the search bar at the top of the page.
-  2. Find the XML file you want to edit and click on `Modify`. If you want to create a new file, please read our article [Configuring XML](/en/tutorial/configuring-xml--tutorials_242).
+  2. Find the XML file you want to edit and click on `Modify`. If you want to create a new file, please read our article [Configuring XML](/en/docs/tutorials/configuring-xml).
   3. Here, you must check if the fields related to SKU price (lowest product price, highest product price, original SKU price, current SKU price and current SKU price + taxes) are filled in. For the operation to work correctly, at least one of these fields must contain information.
   4. Fill in the **Price tables ** field with the name of the desired price table. Then, click on the check box corresponding to the tag in the column **Show content**. The selected price table must have fixed prices registered. Otherwise, the configuration will not be performed.
 ![PT-tabela de precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-list/creating-an-xml-with-promotional-price-using-a-price-table_1.png)

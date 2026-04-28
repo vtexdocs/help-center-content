@@ -1,5 +1,5 @@
 ---
-title: 'Integration overview'
+title: 'B2W integration - Overview'
 id: 5qetRRLNCgDTfhz2PUUO9v
 status: PUBLISHED
 createdAt: 2022-02-02T20:14:05.208Z

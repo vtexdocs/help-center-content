@@ -51,7 +51,7 @@ Como una tienda transfronteriza puede tener varios bindings y llegar a comprador
 
 - [Crear multitienda / multidominio](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [¿Qué es binding?](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [¿Qué es binding?](/es/docs/tutorials/que-es-binding)
 
-- [Cómo funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Cómo funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
 

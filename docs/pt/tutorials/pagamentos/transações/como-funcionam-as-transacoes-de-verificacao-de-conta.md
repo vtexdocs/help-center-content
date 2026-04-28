@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-Sempre que um cliente da loja adiciona um novo cartão de crédito na sua página do [Minha Conta (My Account)](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes), a instituição financeira ou a empresa emissora do cartão cria uma transação de teste para validar a utilização do cartão naquela loja.
+Sempre que um cliente da loja adiciona um novo cartão de crédito na sua página do [Minha Conta (My Account)](/pt/docs/tutorials/como-funciona-a-minha-conta#cartoes), a instituição financeira ou a empresa emissora do cartão cria uma transação de teste para validar a utilização do cartão naquela loja.
 
 Esta transação é realizada no valor de R$ 1,50 e pode ser identificada pela presença da sigla __AV__ (Account Verification), seguida de um número.
 

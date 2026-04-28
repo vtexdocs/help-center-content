@@ -33,4 +33,4 @@ Se sua loja possui __integração externa com marketplaces__ (e você deseja usa
 
 Se a sua loja possui __integração com marketplaces certificados__ (usando o Bridge), a flag será acionada automaticamente. Você só vai precisar cumprir as etapas descritas nos passos `2`e `3`.
 
-> ℹ️ Lembre-se de que as integrações de pedido devem ser feitas usando as seguintes APIs [Get Order](https://developers.vtex.com/reference/orders#getorder) e [Get Feed Order Status](https://developers.vtex.com/reference/feed-v2-deprecated#getfeedorderstatus).
+> ℹ️ Lembre-se de que as integrações de pedido devem ser feitas usando as seguintes APIs [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) e [Get Feed Order Status](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/feed/orders/status).

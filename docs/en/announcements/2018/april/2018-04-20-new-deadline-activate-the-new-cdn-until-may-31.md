@@ -37,7 +37,7 @@ Besides de deadline, some measures have already been implemented for all stores:
 - New folders (or the ones that have been changed) are already using HTTPS.
 - Inactive accounts (or the ones that were not in stable) have been updated to HTTPS.
 
-Note that, to complete the activation of the new CDN, it's __absolutely necessary to enable HTTPS throughout your whole website__. Details on how to do that are in [this VTEX Help article](/en/tutorial/enable-https-throughout-the-site).
+Note that, to complete the activation of the new CDN, it's __absolutely necessary to enable HTTPS throughout your whole website__. Details on how to do that are in [this VTEX Help article](/en/docs/tutorials/enable-https-throughout-the-site).
 
 After enabling HTTPS, you must:
 - Update your DNS to VTEX's new CNAME.

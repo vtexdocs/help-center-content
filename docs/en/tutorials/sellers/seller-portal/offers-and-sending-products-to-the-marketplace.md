@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 ## What is an offer?
 
-Whenever a product or a variation is created on your [Seller Portal](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK), they are automatically sent to the Marketplace. However, it does not mean that this product is ready to be displayed in the marketplace window and sold. You need to set price and stock conditions for it to become available for sale.
+Whenever a product or a variation is created on your [Seller Portal](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal), they are automatically sent to the Marketplace. However, it does not mean that this product is ready to be displayed in the marketplace window and sold. You need to set price and stock conditions for it to become available for sale.
 
 Offer is the name we give to a product or a seller variation sent to the marketplace and that had its price and inventory configured. When you set price and inventory conditions, you make your product or variation ready to become an offer.
 
@@ -37,12 +37,12 @@ After setting the price and inventory for your product, the offer will be automa
 
 In the Shared Products dashboard, the 'Status' column demonstrates if the product is available or not in the marketplace. 
 Products that are "Active" already have offers created in the marketplace. 
-Products that are "Inactive" have not yet been sent to the marketplace. To send them, follow the instructions in the [Product Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP) article.
+Products that are "Inactive" have not yet been sent to the marketplace. To send them, follow the instructions in the [Product Details](/en/docs/tutorials/seller-portal-product-details) article.
 
 ## Related Articles
 
-- [Seller Portal: How Catalog works](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)          
-- [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
-- [Seller Portal: Product Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)  
-- [Seller Portal: Getting Started](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)  
+- [Seller Portal: How Catalog works](/en/docs/tutorials/how-the-seller-portal-catalog-works)          
+- [Seller Portal: Shared Products](/en/docs/tutorials/seller-portal-shared-products)      
+- [Seller Portal: Product Details](/en/docs/tutorials/seller-portal-product-details)  
+- [Seller Portal: Getting Started](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal)  
 

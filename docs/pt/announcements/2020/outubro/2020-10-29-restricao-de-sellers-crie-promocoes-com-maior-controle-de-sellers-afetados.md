@@ -25,7 +25,7 @@ Configuração antes da atualização:
   <tr>
     <td>
       <img
-           src="https://images.ctfassets.net/alneenqid6w5/6qb2C2KjQgKayaqiM2USGL/ed89629aff64aa8256b0e7c77fa8ed76/seller-promo-PT.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-restricao-de-sellers-crie-promocoes-com-maior-controle-de-sellers-afetados_1.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Configuração após a atualização:
   <tr>
     <td>
       <img
-           src="https://images.ctfassets.net/alneenqid6w5/5hJ6CCeGeJdJtDUrsVcc8h/c8025981576d0941aed65edc10975e4e/seller-promo-PT2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-restricao-de-sellers-crie-promocoes-com-maior-controle-de-sellers-afetados_2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -59,4 +59,4 @@ Configuração após a atualização:
 
 Sua loja não precisa realizar nenhuma ação para se adequar a essa mudança. Essa nova feature apenas traz uma nova possibilidade de configuração para suas promoções.
 
-Saiba mais sobre essa funcionalidade no nosso artigo [Campos da Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327). 
+Saiba mais sobre essa funcionalidade no nosso artigo [Campos da Promoção Regular](/pt/docs/tutorials/promocao-regular-pt). 

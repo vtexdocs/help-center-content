@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Na [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), a seção **Histórico do pedido** ilustra todo o processo de transição dos status de um pedido, incluindo o meio pagamento utilizado, emails transacionados com o cliente e comentários com terceiros.
+Na [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), a seção **Histórico do pedido** ilustra todo o processo de transição dos status de um pedido, incluindo o meio pagamento utilizado, emails transacionados com o cliente e comentários com terceiros.
 
 Seu principal objetivo é facilitar a identificação dos dados de um pedido e de desvios do comportamento padrão e, principalmente, solicitações de cancelamento.
 
@@ -32,7 +32,7 @@ relacionadas a cada pedido, como o pagamento, cancelamento e outros eventos.
 
 ## Emails transacionados com o cliente
 
-A **Histórico do pedido** está diretamente relacionada ao [conversation tracker](/pt/tutorial/conversation-tracker), que é utilizado para unificar toda a comunicação feita com o cliente durante o fluxo de um pedido.
+A **Histórico do pedido** está diretamente relacionada ao [conversation tracker](/pt/docs/tutorials/conversation-tracker), que é utilizado para unificar toda a comunicação feita com o cliente durante o fluxo de um pedido.
 
 Além disso, toda comunicação realizada por outros sistemas, com o email utilizado no pedido, também será documentado na seção **Histórico do pedido**.
 

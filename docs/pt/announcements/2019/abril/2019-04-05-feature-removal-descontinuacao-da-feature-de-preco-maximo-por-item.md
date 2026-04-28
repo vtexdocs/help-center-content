@@ -33,5 +33,5 @@ As promoções de Preço Máximo por Item cadastradas previamente continuarão f
 
 ## O que o lojista precisa fazer?
 
-O VTEX Help dispõe de um passo a passo sobre como utilizar a nova funcionalidade de Promoções por Tabela de Preço. Para acessar o artigo sobre a nova feature com os tutoriais relacionados, clique no nosso anúncio: [Criar tabela de preços promocionais](/pt/tutorial/criar-tabela-de-precos-promocionais)
+O VTEX Help dispõe de um passo a passo sobre como utilizar a nova funcionalidade de Promoções por Tabela de Preço. Para acessar o artigo sobre a nova feature com os tutoriais relacionados, clique no nosso anúncio: [Criar tabela de preços promocionais](/pt/docs/tutorials/criar-tabela-de-precos-promocionais)
 

@@ -29,7 +29,7 @@ O Feed v3 também possui uma funcionalidade de Hook para consumir os dados da fi
 
 ## O que você precisa fazer? 
 
-Primeiramente, é necessário configurar o Feed v3 para que consumir os dados da fila de pedidos. Acesse nosso artigo para [realizar a configuração do feed](/pt/tutorial/feed-v3-de-gerenciamento-de-pedidos--5qDml3cQypWDRTgw69s4C1).
+Primeiramente, é necessário configurar o Feed v3 para que consumir os dados da fila de pedidos. Acesse nosso artigo para [realizar a configuração do feed](https://developers.vtex.com/docs/guides/orders-feed).
 
 Para entender mais sobre o funcionamento do feed, acesse nosso artigo sobre [como funciona o feed do módulo de Gerenciamento de pedidos](/pt/tutorial/como-funciona-o-feed-v3-do-modulo-de-gerenciamento-de-pedidos--5SzSKee2f666YCoWkm0eQC).
 

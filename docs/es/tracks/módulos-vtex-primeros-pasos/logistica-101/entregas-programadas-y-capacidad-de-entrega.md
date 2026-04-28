@@ -17,13 +17,13 @@ order: 5
 
 Una tienda VTEX puede ofrecer entregas programadas a sus clientes. De esta forma, el cliente elige un día de entrega específico para que la tienda y la transportadora le entreguen el pedido en su domicilio. 
 
-Para poner a disposición de los clientes la [entrega programada](/es/tutorial/entrega-programada--22g3HAVCGLFiU7xugShOBi), es necesario incluir ventanas de entrega en la [política de envío](/es/tutorial/politica-de-envio--tutorials_140) de la [transportadora](/es/tutorial/transportadoras-en-vtex--7u9duMD5UQa2QQwukAWMcE) correspondiente. Una vez hecho esto, los períodos y los días disponibles para la entrega programada aparecerán en el checkout de tu tienda.
+Para poner a disposición de los clientes la [entrega programada](/es/docs/tutorials/entrega-programada), es necesario incluir ventanas de entrega en la [política de envío](/es/docs/tutorials/politica-de-envio) de la [transportadora](/es/docs/tutorials/transportadoras-en-vtex) correspondiente. Una vez hecho esto, los períodos y los días disponibles para la entrega programada aparecerán en el checkout de tu tienda.
 
-> ⚠️ Para que la [Entrega programada](/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) y la [Capacidad de entrega](/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionen correctamente, debes tener en cuenta que:<ul><li>La suma de {[account name](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la [política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ Para que la [Entrega programada](/es/docs/tutorials/entrega-programada) y la [Capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega) funcionen correctamente, debes tener en cuenta que:<ul><li>La suma de {[account name](/es/docs/tutorials/que-es-account-name)} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la [política de envío](/es/docs/tutorials/crear-una-politica-de-envio).</li></ul>
 
-Es importante tener en cuenta que la disponibilidad de las entregas programadas está en función del servicio que la transportadora contratada (registrada en la política de envío) ofrece a tu tienda. Para conocer la disponibilidad de las ventanas de entrega (o de los periodos de envío) y de la cantidad de ítems/pedidos que aún pueden atenderse en cada ventana de entrega, consulta la página [Capacidad de entrega](/es/tutorial/gestionar-capacidad-de-entrega--2y217FQZCjD0I1n62yxVcz).
+Es importante tener en cuenta que la disponibilidad de las entregas programadas está en función del servicio que la transportadora contratada (registrada en la política de envío) ofrece a tu tienda. Para conocer la disponibilidad de las ventanas de entrega (o de los periodos de envío) y de la cantidad de ítems/pedidos que aún pueden atenderse en cada ventana de entrega, consulta la página [Capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega).
 
 ### Cómo configurar
 
-Las entregas programadas se configuran al crear o actualizar una [política de envío](/es/tutorial/politica-de-envio--tutorials_140).
+Las entregas programadas se configuran al crear o actualizar una [política de envío](/es/docs/tutorials/politica-de-envio).
 

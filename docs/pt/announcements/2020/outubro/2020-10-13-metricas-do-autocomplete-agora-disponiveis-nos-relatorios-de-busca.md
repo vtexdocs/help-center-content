@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do Autocomplete neste relatório'
 ---
 
-Para analisar e monitorar o desempenho do [VTEX lntelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), é possível visualizar e exportar [relatórios](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) com dados relacionados às pesquisas realizadas na loja. Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do [Autocomplete](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) nestes relatórios.
+Para analisar e monitorar o desempenho do [VTEX lntelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), é possível visualizar e exportar [relatórios](/pt/docs/tutorials/analytics) com dados relacionados às pesquisas realizadas na loja. Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do [Autocomplete](/pt/docs/tutorials/autocomplete) nestes relatórios.
 
 ## O que mudou?
 Antes só era possível visualizar e exportar relatórios sobre os resultados de busca e os termos utilizados na pesquisa. Agora é possível também analisar o desempenho das sugestões de busca feitas pelo Autocomplete.
@@ -23,7 +23,7 @@ Antes só era possível visualizar e exportar relatórios sobre os resultados de
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://images.ctfassets.net/alneenqid6w5/2QF4oxUnywaQz8RZjm85SJ/a3fa0d57d6e5fa330b042b106c1f7a2a/relatorios-filtros-PT.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-13-metricas-do-autocomplete-agora-disponiveis-nos-relatorios-de-busca_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
     </td>
   </tr>
   <tr>

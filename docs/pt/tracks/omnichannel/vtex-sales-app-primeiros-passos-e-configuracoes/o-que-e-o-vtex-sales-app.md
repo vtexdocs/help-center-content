@@ -25,7 +25,7 @@ Você poderá implementar uma estratégia de Prateleira Infinita, que te ajudar�
 
 - Evitar falta de estoque e nunca perder vendas.
 - Ter visibilidade em tempo real do seu estoque. 
-- Beneficiar-se de busca inteligente, quando instalado o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no site. 
+- Beneficiar-se de busca inteligente, quando instalado o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) no site. 
 - Estruturar transações de carrinho misto.
 
 Assim, o processo de compra se torna mais rápido, tanto ao adicionar produtos ao carrinho quanto o pagamento e a confirmação. 
@@ -40,12 +40,12 @@ O VTEX Sales App é um dos produtos-chave no seu comércio unificado ou estraté
 
 Veja abaixo todos os guias que recomendamos para você começar a usar o VTEX Sales App.
 
-* **[VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)**: conceitos, pré-requisitos e instruções para configurar o VTEX Sales App. __Você está nesta trilha.__
-* **[VTEX Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)**: o passo a passo para configurar os métodos de pagamento por adquirente homologado.
-* **[VTEX Sales App - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)**: as funcionalidades do aplicativo do VTEX Sales App e como usá-las.
-* **[Estratégias de Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)**: guias com o passo a passo para implementar algumas das principais estratégias de Comércio Unificado na VTEX.
+* **[VTEX Sales App - Primeiros passos e configurações](/pt/docs/tracks/o-que-e-o-vtex-sales-app)**: conceitos, pré-requisitos e instruções para configurar o VTEX Sales App. __Você está nesta trilha.__
+* **[VTEX Sales App - Pagamentos](/pt/docs/tracks/configurar-metodos-de-pagamento-para-o-vtex-sales-app)**: o passo a passo para configurar os métodos de pagamento por adquirente homologado.
+* **[VTEX Sales App - Usando o app](/pt/docs/tracks/vtex-sales-app-usando-o-app)**: as funcionalidades do aplicativo do VTEX Sales App e como usá-las.
+* **[Estratégias de Comércio Unificado](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada)**: guias com o passo a passo para implementar algumas das principais estratégias de Comércio Unificado na VTEX.
 
 Para ver todas as trilhas relacionadas ao VTEX Sales App, você pode clicar em **[`Comece aqui`](/pt/tracks/)** no topo da página e descer até a categoria **Omnichannel**.
 
-Clique em `Próximo` para acessar os próximos artigos da trilha **[VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)**.
+Clique em `Próximo` para acessar os próximos artigos da trilha **[VTEX Sales App - Primeiros passos e configurações](/pt/docs/tracks/o-que-e-o-vtex-sales-app)**.
 

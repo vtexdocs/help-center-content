@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-> ⚠️ Tutorial válido únicamente para tiendas CMS Portal Legado.
+> ⚠️ Tutorial válido únicamente para tiendas CMS Portal (Legado).
 
 El email de producto visitado es un mensaje automático que se envía a los clientes que han visitado la página de un producto en el sitio web, pero no finalizaron la compra. El propósito de este email es recuperar la venta y ofrecer otros productos.
 
@@ -63,7 +63,7 @@ Sigue los pasos a continuación para que se muestren los campos importantes en e
 
 ## Crear plantilla de email de producto visitado
 
-La plantilla de email que se enviará debe configurarse en el Portal CMS Legado, siguiendo los pasos a continuación. Para ayudarte con la configuración, puedes utilizar la [plantilla de ejemplo](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/master-data/triggers-de-master-data-v1/product-visited-es.zip).
+La plantilla de email que se enviará debe configurarse en el CMS Portal (Legado), siguiendo los pasos a continuación. Para ayudarte con la configuración, puedes utilizar la [plantilla de ejemplo](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/master-data/triggers-de-master-data-v1/product-visited-es.zip).
 
 1. En el Admin, accede a **Storefront > Layout**.
 2. Haz clic en la carpeta CMS y a continuación en **HTML Templates**.
@@ -98,7 +98,7 @@ Tras crear la plantilla, deberás crear la estructura de carpetas necesaria para
     * **Protocol**: HTTPS
     * **Authentication Required?**: mantener desmarcado.
 7. Haz clic en el botón `Save Folder`.
-8. Una vez creada la carpeta, debes asociar la plantilla de la página al layout de la página. Haz clic en la carpeta recién creada en el menú de la izquierda del CMS Portal Legado.
+8. Una vez creada la carpeta, debes asociar la plantilla de la página al layout de la página. Haz clic en la carpeta recién creada en el menú de la izquierda del CMS Portal (Legado).
 9. Haz clic en **new layout**.
 10. En **Template**, selecciona la plantilla creada anteriormente.
 11. Haz clic en el botón `Save Layout`.

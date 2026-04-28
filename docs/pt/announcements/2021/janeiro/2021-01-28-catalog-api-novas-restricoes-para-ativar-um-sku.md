@@ -29,5 +29,5 @@ Em nosso [guia](https://developers.vtex.com/vtex-rest-api/docs/how-to-activate-a
 
 No dia 11/03/2021, a atualização para a criação de novos SKUs será implementada automaticamente pela VTEX e os requisitos serão obrigatórios. Caso você não siga essa configuração, o SKU não será criado. Recomendamos que você implemente esse novo padrão imediatamente, para se adequar a tempo da atualização definitiva.
 
-No caso de SKUs já cadastrados na sua loja, é necessário verificar se eles estão realmente ativos e devidamente conectados aos produtos. Caso você tenha um SKU quebrado, é preciso adequá-lo à atualização e [adicionar uma imagem a ele](/pt/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu#).
+No caso de SKUs já cadastrados na sua loja, é necessário verificar se eles estão realmente ativos e devidamente conectados aos produtos. Caso você tenha um SKU quebrado, é preciso adequá-lo à atualização e [adicionar uma imagem a ele](/pt/docs/tutorials/adicionar-ou-editar-sku).
 

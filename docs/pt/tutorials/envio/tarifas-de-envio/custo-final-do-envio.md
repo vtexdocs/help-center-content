@@ -19,9 +19,9 @@ O custo final do envio é o preço total que será cobrado do cliente final para
 
 É possível entender como cada tarifa é calculada:
 
-* **[Tarifa de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM):** é a tarifa cadastrada com a política de envio, sendo a tarifa da transportadora ou um ponto de retirada. É a tarifa de envio, sem considerar os custos de doca e estoque. Essa tarifa considera:
+* **[Tarifa de envio](/pt/docs/tutorials/tarifas-de-envio):** é a tarifa cadastrada com a política de envio, sendo a tarifa da transportadora ou um ponto de retirada. É a tarifa de envio, sem considerar os custos de doca e estoque. Essa tarifa considera:
     * Um custo fixo de frete;
-    * [Adicionais de frete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): adicional de peso, adicional por preço, adicional de seguro e adicional de frete. 
+    * [Adicionais de frete](/pt/docs/tutorials/adicionais-de-frete): adicional de peso, adicional por preço, adicional de seguro e adicional de frete. 
 
     Então, a tarifa de envio é calculada com a soma do custo fixo mais os adicionais de frete cadastrados. 
 
@@ -32,5 +32,5 @@ Sendo assim, de modo geral, o custo final de envio pode ser calculado desta form
 
 ![Custo-final-envio-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/custo-final-do-envio_1.svg)
 
-> ❗ Se o **adicional por preço** for menor que o **adicional de seguro**, a tarifa que é considerada é a do adicional de seguro e o adicional por preço é desconsiderado no cálculo da tarifa final. A escolha da transportadora para o envio dos itens considera apenas o preço da Tarifa de envio, desconsiderando os custos da doca e estoque (caso existam). Para simular o cenário de entrega para o cliente, use o [Simulador de envio](/pt/tutorial/simulacao-de-frete--tutorials_144).
+> ❗ Se o **adicional por preço** for menor que o **adicional de seguro**, a tarifa que é considerada é a do adicional de seguro e o adicional por preço é desconsiderado no cálculo da tarifa final. A escolha da transportadora para o envio dos itens considera apenas o preço da Tarifa de envio, desconsiderando os custos da doca e estoque (caso existam). Para simular o cenário de entrega para o cliente, use o [Simulador de envio](/pt/docs/tutorials/simulador-de-envio).
 

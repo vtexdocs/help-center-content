@@ -34,4 +34,4 @@ Una vez completados los pasos, la contraseña anterior se desactiva y podrás ac
 
 ## Más información
 
-* [Autenticación](/es/tutorial/autenticacion--21CkKHLKP1o41lUpGhuRUs)
+* [Autenticación](/es/docs/tutorials/autenticacion)

@@ -21,7 +21,7 @@ To change the HTTP or HTTPS protocol setting on your store pages, simply follow 
 
 The Layout module covers home, catalog (search, categories e products), landing pages and other custom pages.
 
-You can change the protocol in all folders at once by using our API, documented [in this Postman collection](https://developers.vtex.com/reference/change-uri-schema). 
+You can change the protocol in all folders at once by using our API, documented [in this Postman collection](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api). 
 
 > ⚠️ **Warning:** avoid having HTTPS enabled on only a few pages. When you access an HTTPS page, then go to an HTTP page from the same store, the browser will try to read your resources forcibly over HTTPS, and this can cause problems. It is appropriate to enable HTTPS throughout the site at one time. The same goes for desktop and mobile websites (child website), where it is necessary to treat the HTTPS of both at the same time.
 

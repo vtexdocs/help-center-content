@@ -38,7 +38,7 @@ At this time, the ticket has not yet been paid by the customer.
 ![processo-boleto-registrado-en ex 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/registered-ticket-flow_2.png)
 
 1. the __Client__ pays the ticket directly to the __Bank__.
-2. The bank sends the [bank reconciliation](/en/tutorial/bank-reconciliations) files to the __Gateway__ with information on the tickets payment status.
+2. The bank sends the [bank reconciliation](/en/docs/tutorials/bank-reconciliations) files to the __Gateway__ with information on the tickets payment status.
 3. The gateway notifies your __e-Commerce__ on the paid tickets.
 
 At this stage, the delivery of the order can proceed normally.

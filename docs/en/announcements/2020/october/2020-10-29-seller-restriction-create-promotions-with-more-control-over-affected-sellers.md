@@ -25,7 +25,7 @@ Configuration before the update:
   <tr>
     <td>
       <img
-           src="https://images.ctfassets.net/alneenqid6w5/2vhukfvaRA6F6aoa1zA0jj/fbffb2976972972a7c86b259f8a7d033/seller-promo-EN.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-seller-restriction-create-promotions-with-more-control-over-affected-sellers_1.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Configuration after the update:
   <tr>
     <td>
       <img
-           src="https://images.ctfassets.net/alneenqid6w5/233U9aja4gDKtrBge4c0tl/d114d8774fa855551fd16b7d32c5be21/seller-promo-EN2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-seller-restriction-create-promotions-with-more-control-over-affected-sellers_2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -59,4 +59,4 @@ Configuration after the update:
 
 Your store doesn't need to take any action to adapt to this change. This new feature just brings a new configuration option for your promotions.
 
-Learn more about this feature in the article [Regular Promotion Fields](/en/tutorial/promocao-regular--tutorials_327). 
+Learn more about this feature in the article [Regular Promotion Fields](/en/docs/tutorials/regular-promotion). 

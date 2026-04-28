@@ -75,7 +75,7 @@ O botão `Adicionar endereço` permite incluir endereços diferentes daqueles j�
 
 ## Pedidos
 
-> ℹ️ Em [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+> ℹ️ Em [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Essa aba traz a listagem completa dos pedidos realizados pelo cliente na sua loja. A lista é ordenada por data de criação e exibe detalhes como data do pedido, valor total da compra, ID do pedido, status e itens adquiridos.
 
@@ -94,13 +94,13 @@ Em `Pedir novamente`, o carrinho do pedido selecionado será duplicado. Isso sig
 
 ### Solicitar cancelamento
 
-O cliente pode solicitar o cancelamento do seu pedido a qualquer momento. Se solicitado durante o [tempo de carência para cancelamento](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC), não é necessário a aprovação da loja para a efetivação do cancelamento.
+O cliente pode solicitar o cancelamento do seu pedido a qualquer momento. Se solicitado durante o [tempo de carência para cancelamento](/pt/docs/tutorials/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido), não é necessário a aprovação da loja para a efetivação do cancelamento.
 
-Saiba mais sobre [como funciona o cancelamento de um pedido quando o mesmo é solicitado pelo cliente](/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).
+Saiba mais sobre [como funciona o cancelamento de um pedido quando o mesmo é solicitado pelo cliente](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente).
 
 ### Ver detalhes do pedido
 
-Ao clicar em um pedido da listagem, o cliente poderá visualizar todos os detalhes do seu pedido, como endereço de entrega, forma de pagamento utilizada e o total pago. Além disso, é possível visualizar informações de rastreio por itens do pedido e uma linha do tempo com todos os estados do [fluxo do pedido](/pt/tutorial/fluxo-de-pedido--tutorials_196).
+Ao clicar em um pedido da listagem, o cliente poderá visualizar todos os detalhes do seu pedido, como endereço de entrega, forma de pagamento utilizada e o total pago. Além disso, é possível visualizar informações de rastreio por itens do pedido e uma linha do tempo com todos os estados do [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 O cliente também pode [Pedir novamente](#pedir-novamente) a partir desta página. Ao clicar em `Mais opções`, são exibidas as funcionalidades de [Alterar pedido](#alterar-pedido) (caso esteja ativada e o pedido esteja no status `Preparando Entrega`) e [Solicitar cancelamento](#solicitar-cancelamento).
 
@@ -110,7 +110,7 @@ O cliente também pode [Pedir novamente](#pedir-novamente) a partir desta págin
 
 Se o pedido estiver no status `Preparando entrega`, é possível escolher `Alterar pedido` ao clicar em `Mais opções` na página de detalhes do pedido.
 
-Para disponibilizar essa opção, o lojista precisa [permitir que clientes façam alterações em pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) nas configurações do módulo **Pedidos**.
+Para disponibilizar essa opção, o lojista precisa [permitir que clientes façam alterações em pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos#como-ativar-a-substituicao-de-pedidos) nas configurações do módulo **Pedidos**.
 
 Esse botão permite ao cliente mudar informações do pedido, como endereço, forma de pagamento e itens do carrinho, sem a necessidade de realizar um novo pedido ou de entrar em contato com a equipe de atendimento da loja. Leia o artigo [Como funciona a Substituição de Pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos) para saber mais.
 
@@ -133,7 +133,7 @@ Para adicionar novos cartões, siga os passos abaixo:
 
 ![Card ReCaptcha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/my-account/como-funciona-a-minha-conta_4.gif)
 
-Contudo, existem limitações que precisam ser consideradas pelas lojas que utilizam a autenticação [3DS](/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 ou V2) em suas adquirentes:
+Contudo, existem limitações que precisam ser consideradas pelas lojas que utilizam a autenticação [3DS](/pt/docs/tutorials/o-que-e-3d-secure) (V1 ou V2) em suas adquirentes:
 
 * Caso o comprador tente cadastrar um novo cartão sem tê-lo utilizado previamente na sua loja, a mensagem_ Ocorreu um erro ao tentar cadastrar o cartão_ será exibida. Para mais detalhes, acesse nossa documentação [Salvar novo cartão não funciona com o uso do 3DS](/pt/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 
@@ -143,11 +143,11 @@ Contudo, existem limitações que precisam ser consideradas pelas lojas que util
 
 * Em casos de Marketplace, a opção `Salvar cartão` na aba **Cartões** não será possível para casos em que a condição de pagamento relativa ao cartão de crédito esteja associada apenas ao [seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#o-que-e-um-seller-white-label). Isso acontece porque a validação do cartão é feita diretamente na conta principal, por meio de uma transação teste, no valor de R$1,50, que logo seguida é reembolsável.
 
-    Em outras palavras, para que seja possível salvar o cartão, a [condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de cartão de crédito precisa estar também na conta principal, neste caso, no Marketplace.
+    Em outras palavras, para que seja possível salvar o cartão, a [condição de pagamento](/pt/docs/tracks/configurar-uma-condicao-de-pagamento) de cartão de crédito precisa estar também na conta principal, neste caso, no Marketplace.
 
 ## Assinaturas
 
-Nesta aba, o cliente pode gerenciar todas as suas assinaturas cadastradas, assim como modificar seus dados referentes a elas. Leia o artigo [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber mais.
+Nesta aba, o cliente pode gerenciar todas as suas assinaturas cadastradas, assim como modificar seus dados referentes a elas. Leia o artigo [Como funciona a assinatura](/pt/docs/tutorials/como-funciona-a-assinatura#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber mais.
 
 ## Autenticação
 

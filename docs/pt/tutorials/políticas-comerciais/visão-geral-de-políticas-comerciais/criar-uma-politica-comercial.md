@@ -3,7 +3,7 @@ title: 'Criar uma política comercial'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z
-updatedAt: 2025-08-27T17:00:49.320Z
+updatedAt: 2026-03-25T17:00:49.320Z
 publishedAt: 2025-08-27T17:00:49.320Z
 firstPublishedAt: 2019-01-24T22:14:00.848Z
 contentType: tutorial
@@ -15,28 +15,54 @@ locale: pt
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-[Políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) são usadas na VTEX para agrupar configurações de catálogo, preços, promoções, inventário, logística, segmentação de clientes e pagamentos para diferentes canais de venda. Canais de venda podem incluir marketplaces, ecommerce próprio, lojas físicas, ou lojas B2B, por exemplo.
-
-> ❗ Por padrão, novas políticas comerciais são aplicadas a todos os sellers ativos. Se desejar aplicar apenas a um grupo específico de sellers, por favor informe isto no ticket.
+[Políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial) são usadas na VTEX para agrupar configurações de catálogo, preços, promoções, inventário, logística, segmentação de clientes e pagamentos para diferentes canais de venda. Canais de venda podem incluir marketplaces, ecommerce próprio, lojas físicas, ou lojas B2B, por exemplo.
 
 ## Gerenciar políticas comerciais
 
-A seção Políticas Comerciais do seu admin apresenta uma tabela com todas as políticas comerciais já cadastradas. Também é possível filtrar os resultados, fazer uma busca por palavra chave, e ordenar na tabela as políticas comerciais já cadastradas. O ID da política comercial é determinado automaticamente pelo sistema, a partir da ordem cronológica de criação de novas políticas.
+No Admin VTEX, a seção Políticas Comerciais apresenta uma tabela com todas as políticas comerciais já cadastradas. Para acessar vá em **Admin VTEX > Configurações da loja > Canais > Políticas Comerciais** ou digite **Políticas Comerciais** na barra de busca.
+Na seção de Políticas Comerciais é possível filtrar, buscar por palavra-chave e ordenar  os resultados da tabela. O ID de cada Política Comercial é determinado automaticamente pelo sistema, a partir da ordem cronológica de criação de novas políticas.
 
-Para definir as configurações de logística aplicadas a essa política comercial, é preciso [criar ou editar uma doca](/pt/tutorial/how-to-register-a-dock--7K3FultD8I2cuuA6iyGEiW), relacionada às transportadoras desejadas, inserindo o ID da política comercial no formulário de cadastro.
+Para definir as configurações de logística aplicadas a uma Política Comercial, é preciso [criar ou editar uma doca](/pt/docs/tutorials/gerenciar-doca), relacionando-a às transportadoras desejadas, inserindo o ID da Política Comercial no formulário de cadastro.
 
-Para utilizar o mesmo catálogo em mais de uma política comercial, acesse a documentação [Associate Product with Trade Policy](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).
+Para utilizar o mesmo catálogo em mais de uma Política Comercial, acesse a documentação [Associate Product with Trade Policy](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).
 
-## Contratar uma políica comercial
+## Adicionar uma política comercial
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via [suporte VTEX](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`. Ao solicitar a criação de uma política comercial via ticket, considere um tempo de resposta de até três dias úteis.
+Para adicionar uma nova política comercial, acesse o Admin da VTEX. Se você tiver o perfil Owner (admin), poderá criar novas políticas diretamente pela interface.
 
-> ℹ️ Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
+Todas as criações são registradas nos logs de auditoria do Admin, permitindo identificar qual usuário realizou a ação. Para mais informações, consulte [Como funciona o relatório de segurança](https://help.vtex.com/pt/docs/tutorials/entendendo-o-relatorio-de-seguranca).
+
+> ℹ️ A criação de uma nova política comercial pode gerar custos adicionais, conforme previsto no contrato de cada cliente. Em caso de dúvidas, consulte seu contrato ou entre em contato com o <a href="https://supporticket.vtex.com/support">suporte VTEX</a>.
+
+Para adicionar uma Política Comercial, siga as intruções a seguir:
+
+1. No Admin da VTEX acesse **Configurações da loja > Canais > Políticas Comerciais** ou digite **Políticas Comerciais** na barra de busca.
+2. Clique em `Nova política comercial`.
+3. Revise as informações exibidas no aviso e confirme para prosseguir.
+4. Preencha os campos da política comercial:
+
+| Campo                                      | Descrição                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome:**                                  | nome de identificação interna da política comercial.                                                                                                                                                                                                                                                                                                             |
+| **Coleção:**                               | este campo foi descontinuado e não está disponível para uso.                                                                                                                                                                                                                                                                                                     |
+| **Sellers:**                               | define os sellers associados à política comercial. Se nenhum seller for selecionado, todos os sellers da conta serão considerados automaticamente.                                                                                                                                                                                                               |
+| **Código da moeda:**                       | código da moeda usado na política comercial, como USD ou EUR. Esse campo é usado na internacionalização de preços. Quando o **locale** do usuário não corresponde ao da política comercial, os preços são exibidos com o código ISO da moeda, e não com o símbolo local.                                                                                         |
+| **Símbolo da moeda:**                      | símbolo da moeda, como $ ou €. Ele é exibido para usuários cujo **locale** corresponde ao configurado na política. Se esse campo não for preenchido, o sistema usa o símbolo padrão do código de moeda selecionado.                                                                                                                                              |
+| **Casas decimais da moeda:**               | número de casas decimais da moeda. Use esse campo apenas para sobrescrever o padrão definido pelas normas ISO. Se ele não for preenchido, o sistema usa o padrão do código de moeda selecionado.                                                                                                                                                                 |
+| **Código do país:**                        | país associado à política comercial.                                                                                                                                                                                                                                                                                                                             |
+| **Informações culturais:**                 | idioma e região da política comercial, como en-US. Esse campo é usado em conjunto com o **Código da moeda** para a internacionalização de preços.                                                                                                                                                                                                                |
+| **Fuso horário:**                          | fuso horário da política comercial.                                                                                                                                                                                                                                                                                                                              |
+| **Ativo?:**                                | define se a política comercial está ativa.                                                                                                                                                                                                                                                                                                                       |
+| **Regra condicional:**                     | campo opcional que permite restringir a política comercial a clientes específicos com base em dados do Master Data. Quando preenchido, somente usuários que atendem à condição definida têm acesso à política. Por exemplo, isPremium=true aplica a política apenas a clientes marcados como premium. Deixe o campo em branco se não quiser restringir o acesso. |
+| **Herdar catálogo de política comercial:** | permite herdar o catálogo de outra política comercial existente.                                                                                                                                                                                                                                                                                                 |
+
+
+5. Clique em `Salvar`.
 
 ## Saiba mais
 
-- [Como funciona uma política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)    
-- [Política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Contratação de política comercial adicional](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X)
-- [Cadastrar doca](/pt/tutorial/how-to-register-a-dock--7K3FultD8I2cuuA6iyGEiW)
+- [Como funciona uma política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial)    
+- [Política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
+- [Contratação de política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional)
+- [Cadastrar doca](/pt/docs/tutorials/gerenciar-doca)
 

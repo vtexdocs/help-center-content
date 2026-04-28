@@ -28,5 +28,5 @@ O cadastro de feedback está sempre vinculado ao **período imediatamente anteri
 Se a meta da loja é dividida em três períodos, o feedback do primeiro período só pode ser preenchido durante o segundo período.  
 Quando o terceiro período começar, o feedback do segundo período ficará disponível para preenchimento, mas o do primeiro período ficará indisponível por ser considerado muito antigo.
 
-Para mais informações sobre o processo completo de registro, consulte o artigo [Registrar feedback para vendedores](/pt/tutorial/registrar-feedback-para-vendedores-indeva--II7BJZzq5p5L8rRNcSAqJ).
+Para mais informações sobre o processo completo de registro, consulte o artigo [Registrar feedback para vendedores](/pt/docs/tutorials/registrar-feedback-para-vendedores-indeva).
 

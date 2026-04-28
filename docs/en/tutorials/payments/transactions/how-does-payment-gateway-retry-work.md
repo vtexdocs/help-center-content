@@ -28,6 +28,6 @@ Here are the cases in which VTEX gateway performs the retries:
 
 ## Related articles
 
-- [What is a payment gateway?](/en/tutorial/what-is-a-payment-gateway)
-- [Difference between payment methods and payment conditions](/en/tutorial/difference-between-payment-methods-and-payment-conditions)
-- [What is an acquirer?](/en/tutorial/what-is-an-acquirer)
+- [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway)
+- [Difference between payment methods and payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions)
+- [What is an acquirer?](/en/docs/tutorials/what-is-an-acquirer)

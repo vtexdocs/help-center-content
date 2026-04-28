@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The certification ensures that VTEX offers features for
 
 Mercado Libre is one of the leaders in ecommerce in Latin America. It offers ecommerce solutions for buying, selling, paying for, advertising, and shipping products online for end-users and businesses.
 
-The integration with Mercado Libre is an opportunity to leverage product reach and benefit from the customer base of the marketplace. Using [VTEX’s Mercado Libre native connector](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), you can manage the entire business through a single dashboard while having guaranteed usability and integrity. As a certified partner, the integration will always be up-to-date with the newest features released by Mercado Libre.
+The integration with Mercado Libre is an opportunity to leverage product reach and benefit from the customer base of the marketplace. Using [VTEX’s Mercado Libre native connector](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), you can manage the entire business through a single dashboard while having guaranteed usability and integrity. As a certified partner, the integration will always be up-to-date with the newest features released by Mercado Libre.
 
 Currently, besides Brazil, VTEX is a certified Mercado Libre integration partner in the following Latin American countries:
 
@@ -50,6 +50,6 @@ All new features introduced by the certification aim to increase sales and impro
 
 ## What needs to be done?
 
-Users already using the VTEX-Mercado Libre integration can contact [VTEX Support](/en/tutorials/how-does-vtex-support-work) or their CSM team for details on the new features.
+Users already using the VTEX-Mercado Libre integration can contact [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work) or their CSM team for details on the new features.
 
 If your store is not integrated with Mercado Libre yet, check out our [Integration guide](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq).

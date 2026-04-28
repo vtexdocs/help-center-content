@@ -34,7 +34,7 @@ In the VTEX Admin:
 
 2. Click on `Versions` on your top-right corner.
 
-> ℹ️ The content you see when you click on a block is the one currently active. For more information about **Versions**, access [Managing content versions](/en/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG) and [Scheduling content `updates`](/en/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns)
+> ℹ️ The content you see when you click on a block is the one currently active. For more information about **Versions**, access [Managing content versions](/en/docs/tutorials/managing-content-versions) and [Scheduling content `updates`](/en/docs/tutorials/scheduling-content-updates)
 
 3. Click on the `New content` button.
 4. Perform the desired changes according to the available configurations for the block. 

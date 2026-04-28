@@ -15,15 +15,15 @@ locale: pt
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-A VTEX dispõe de diversas APIs para que clientes e parceiros possam desenvolver integrações altamente personalizáveis com a plataforma. [Chaves de API](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) são usadas para fornecer acesso seguro a dados consumidos por integrações, sem expor sua conta a usuários ou aplicativos não autorizados.
+A VTEX dispõe de diversas APIs para que clientes e parceiros possam desenvolver integrações altamente personalizáveis com a plataforma. [Chaves de API](/pt/docs/tutorials/chaves-de-api) são usadas para fornecer acesso seguro a dados consumidos por integrações, sem expor sua conta a usuários ou aplicativos não autorizados.
 
 > ℹ️ Este tipo de credencial é utilizado para autenticação de identidade via API.
 
-O manuseio inadequado de [chaves de API](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) pode gerar vazamentos e, consequentemente, situações de acesso indevido. Conheça abaixo boas práticas que recomendamos para o gerenciamento destas credenciais, as quais você pode implementar para aumentar a segurança da sua loja.
+O manuseio inadequado de [chaves de API](/pt/docs/tutorials/chaves-de-api) pode gerar vazamentos e, consequentemente, situações de acesso indevido. Conheça abaixo boas práticas que recomendamos para o gerenciamento destas credenciais, as quais você pode implementar para aumentar a segurança da sua loja.
 
 ## Rotacione chaves periodicamente
 
-É aconselhável que você desative chaves antigas e crie novas ao longo do tempo. Assim você garante que suas [chaves de API](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) tenham duração determinada.
+É aconselhável que você desative chaves antigas e crie novas ao longo do tempo. Assim você garante que suas [chaves de API](/pt/docs/tutorials/chaves-de-api) tenham duração determinada.
 
 Essa prática se assemelha a definição de uma política de senha com configurações de trocas de senhas periódicas. 
 
@@ -31,11 +31,11 @@ Essa prática se assemelha a definição de uma política de senha com configura
 
 Renove os tokens de API com frequência para reduzir riscos de exposição e manter suas integrações seguras. Configure alertas em **Chaves de API > Configurações** para receber lembretes periódicos (3 ou 6 meses) e salve com segurança o novo token via link de acesso único, excluindo o antigo após a migração.
 
-Saiba mais em [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Saiba mais em [Renovar token de API](/pt/docs/tutorials/renovar-token-de-api).
 
 ## Reavalie chaves e acessos periodicamente
 
-Revise as [chaves de API](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) existentes periodicamente. Confira se as integrações relativas a cada chave estão ativas e se ainda são necessárias. Um processo proativo de revisão de acesso permite com que cada usuário ou integração tenha acesso apenas aos recursos que sejam realmente necessários, diminuindo as chances de ocorrer qualquer tipo de acesso indevido. 
+Revise as [chaves de API](/pt/docs/tutorials/chaves-de-api) existentes periodicamente. Confira se as integrações relativas a cada chave estão ativas e se ainda são necessárias. Um processo proativo de revisão de acesso permite com que cada usuário ou integração tenha acesso apenas aos recursos que sejam realmente necessários, diminuindo as chances de ocorrer qualquer tipo de acesso indevido. 
 
 Se a recomendação anterior é semelhante a definição de trocas de senha periódicas, essa recomendação pode ser comparada ao processo de revisão de acesso com periodicidade definida.
 
@@ -43,7 +43,7 @@ Se a recomendação anterior é semelhante a definição de trocas de senha peri
 
 Restrinja o acesso de cada chave a recursos e informações pela respectiva função e necessidade. Ao reduzir a quantidade de informações compartilhadas entre usuários ou integrações, você reduz o risco de vazamento por ameaças internas.
 
-Note que o gerenciamento de permissões para chaves de API é realizado com [perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) e [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Note que o gerenciamento de permissões para chaves de API é realizado com [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) e [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
 
 ## Mantenha um programa de conscientização
 
@@ -53,7 +53,7 @@ A realização de campanhas de conscientização em segurança da informação �
 
 Note que parte do código que compõe a sua loja, é executado no cliente, ou seja, no navegador de usuários. Portanto, é normal que esta parte do código fique exposta a pessoas de fora da sua operação.
 
-Dessa forma, é essencial instruir seu time de desenvolvimento que não utilize este código para fazer integrações, já que este uso costuma incluir no código as [chaves de API](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
+Dessa forma, é essencial instruir seu time de desenvolvimento que não utilize este código para fazer integrações, já que este uso costuma incluir no código as [chaves de API](/pt/docs/tutorials/chaves-de-api).
 
 ## Não compartilhe tokens de API
 

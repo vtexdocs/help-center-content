@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 A doca é uma das etapas logísticas da sua loja. Ela é um ponto intermediário entre o estoque e a transportadora, funcionando como área de escoamento de produtos. As docas recebem itens vindos de estoques ou centros de distribuição, e entrega às transportadoras para que a entrega seja feita ao destinatário final. 
 
-> ℹ️ Para saber mais sobre o que é uma doca para a VTEX, consulte o artigo de [Doca](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
+> ℹ️ Para saber mais sobre o que é uma doca para a VTEX, consulte o artigo de [Doca](/pt/docs/tutorials/doca).
 
 Este artigo contém as informações necessárias para:
 
@@ -26,9 +26,9 @@ Este artigo contém as informações necessárias para:
 * [Editar uma doca existente](#editar).
 * [Excluir uma doca.](#excluir)
 
-É importante saber que para ter uma doca configurada corretamente é preciso: criar a doca, preencher os campos de cadastro (que determinaram horário de funcionamento, prioridade), e também associar a doca a [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), ao estoque e a [política de envio](/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
+É importante saber que para ter uma doca configurada corretamente é preciso: criar a doca, preencher os campos de cadastro (que determinaram horário de funcionamento, prioridade), e também associar a doca a [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial), ao estoque e a [política de envio](/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
-> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:<ul><li>[Política de envio](/pt/tutorial/politica-de-envio--tutorials_140)</li><li>[Doca](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
+> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:<ul><li>[Política de envio](/pt/docs/tutorials/politica-de-envio)</li><li>[Doca](/pt/docs/tutorials/doca)</li><li>[Estoque](/pt/docs/tutorials/estoque)</li></ul>
 
 ## Cadastrar
 
@@ -44,7 +44,7 @@ Os campos necessários para criar uma nova doca são:
 
 * **Nome**: o nome da doca.
 * **ID**: campo identificador da doca. Se o campo não for preenchido, será criado automaticamente.
-* **[Políticas de envio ](/pt/tutorial/politica-de-envio--tutorials_140)e [Política comercial:](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)** selecione a política de envio e política comercial que atendem a doca. É importante ressaltar que ambas políticas devem ter sido cadastradas anteriormente.
+* **[Políticas de envio ](/pt/docs/tutorials/politica-de-envio)e [Política comercial:](/pt/docs/tutorials/criar-uma-politica-comercial)** selecione a política de envio e política comercial que atendem a doca. É importante ressaltar que ambas políticas devem ter sido cadastradas anteriormente.
 * **Prioridade e adicional de tempo:**
     * **Tempo de custo**: tempo que será considerado no cálculo do frete, é o tempo que o produto leva pra chegar na doca. Preencha com o número de dias, horas e minutos.
     * **Overhead de tempo de custo**: tempo que será usado para escolher uma doca quando duas ou mais docas apresentam o mesmo tempo de custo. Não é considerado no cálculo de frete. Preencha com o número de dias, horas e minutos.

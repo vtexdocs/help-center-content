@@ -19,7 +19,7 @@ O estoque que será assumido pelo marketplace sempre será aquele definido pelo 
 
 Esse estoque pode ser o mesmo praticado pela loja principal ou um específico para o Marketplace ou para mais de um Marketplace, configurando regras e preços diferenciados. 
 
-Todas essas configurações são possíveis por meio da [política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Todas essas configurações são possíveis por meio da [política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
 ## Usando o mesmo estoque de outra loja
 
@@ -27,8 +27,8 @@ Este cenário será utilizado caso queira configurar o marketplace usando a mesm
 
 Isso significa que o marketplace não precisa de prazo ou preço especiais, então, não há necessidade de uma nova configuração. 
 
-Logo, basta [associar a mesma política comercial ao novo marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Logo, basta [associar a mesma política comercial ao novo marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
 ## Usando um estoque personalizado
 
-Isso significa que serão praticados prazos e preços diferentes de todas as outras configurações utilizadas na loja. Portanto, será preciso configurar uma nova política comercial e uma [nova regra de logística para marketplace](/pt/tutorial/configurando-logistica-para-marketplace/).
+Isso significa que serão praticados prazos e preços diferentes de todas as outras configurações utilizadas na loja. Portanto, será preciso configurar uma nova política comercial e uma [nova regra de logística para marketplace](/pt/docs/tutorials/configurando-logistica-para-marketplace/).

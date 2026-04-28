@@ -25,7 +25,7 @@ Además, el nuevo checkout permite la venta de productos con información person
 2. También puede incluir un mensaje especial para ponerlo en el empaque de regalo, añadiendo un toque personal y emotivo a la compra.
 3. Además, el vendedor también puede informar el número de serie en la venta de una joya, lo que, además de garantizar la autenticidad y el valor del ítem, proporciona un registro que es fundamental para cuestiones de seguro o reventa.
 
-La personalización es totalmente configurable por SKU, a través del [registro de anexos](/es/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU), lo que proporciona flexibilidad y adaptabilidad para satisfacer las necesidades específicas de cada producto.
+La personalización es totalmente configurable por SKU, a través del [registro de anexos](/es/docs/tutorials/registrar-un-anexo), lo que proporciona flexibilidad y adaptabilidad para satisfacer las necesidades específicas de cada producto.
 
 ## ¿Por qué realizamos este cambio?
 Hemos realizado este cambio en Sales App para atender tus necesidades y expectativas de la mejor manera posible. Profundizando en las tendencias del mercado, nos dimos cuenta de la importancia de ofrecer una experiencia de compra mejorada, más rápida y eficiente.

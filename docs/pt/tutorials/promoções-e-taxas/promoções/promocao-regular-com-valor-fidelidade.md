@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A [Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327) oferece descontos de forma flexível, combinando múltiplas condições, restrições e benefícios. Uma das possibilidades desse tipo de promoção é disponibilizar um valor fidelidade para seus clientes, ou seja, um crédito que funciona como _cashback_ para utilização em compras futuras na loja. O propósito desse tipo de desconto é gerar lealdade através da recorrência de compra, ou seja, oferecer um incentivo para que os clientes voltem a fazer compras na loja.
+A [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt) oferece descontos de forma flexível, combinando múltiplas condições, restrições e benefícios. Uma das possibilidades desse tipo de promoção é disponibilizar um valor fidelidade para seus clientes, ou seja, um crédito que funciona como _cashback_ para utilização em compras futuras na loja. O propósito desse tipo de desconto é gerar lealdade através da recorrência de compra, ou seja, oferecer um incentivo para que os clientes voltem a fazer compras na loja.
 
 Neste artigo, explicamos:
 
@@ -25,14 +25,14 @@ Neste artigo, explicamos:
 
 ## Tipos de valor fidelidade
 
-É possível criar uma [promoção regular](/pt/tutorial/promocao-regular--tutorials_327) em **Promoções e Taxas > Promoções > Nova Promoção > Promoção Regular**. No momento de escolher o tipo e o valor do desconto, existem duas opções disponíveis para oferecer um valor fidelidade:
+É possível criar uma [promoção regular](/pt/docs/tutorials/promocao-regular-pt) em **Promoções e Taxas > Promoções > Nova Promoção > Promoção Regular**. No momento de escolher o tipo e o valor do desconto, existem duas opções disponíveis para oferecer um valor fidelidade:
 
 * [Valor fidelidade nominal](#valor-fidelidade-nominal)
 * [Valor fidelidade percentual](#valor-fidelidade-percentual)
 
 ### Valor fidelidade nominal
 
-O **Valor fidelidade nominal** adiciona um valor fixo de crédito na conta do usuário na sua loja. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/tutorial/promocao-regular--tutorials_327#1-quais-os-dados-gerais-desta-promocao):
+O **Valor fidelidade nominal** adiciona um valor fixo de crédito na conta do usuário na sua loja. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/docs/tutorials/promocao-regular-pt#1-quais-os-dados-gerais-desta-promocao):
 
 * **Valor nominal para programa de fidelidade:** quantia do crédito que será adicionado na conta do cliente na sua loja.
 * **Aplicar crédito de fidelidade quando o status do pedido mudar para:** campo para definir a partir de qual status do pedido o crédito será disponibilizado. As opções são **Faturado** ou **Pagamento aprovado**.
@@ -43,7 +43,7 @@ No exemplo ilustrado a seguir, os clientes ganharão um crédito de R$10,00 na l
 
 ### Valor fidelidade percentual
 
-O **Valor fidelidade percentual** adiciona um valor percentual de crédito baseado no preço do produto adquirido. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/tutorial/promocao-regular--tutorials_327#1-quais-os-dados-gerais-desta-promocao):
+O **Valor fidelidade percentual** adiciona um valor percentual de crédito baseado no preço do produto adquirido. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/docs/tutorials/promocao-regular-pt#1-quais-os-dados-gerais-desta-promocao):
 
 * **Valor percentual para programa de fidelidade:** percentual do valor do pedido que será adicionado como crédito na conta do cliente na sua loja.
 * **Aplicar crédito de fidelidade quando o status do pedido mudar para:** campo para definir a partir de qual status do pedido o crédito será disponibilizado. As opções são **Faturado** ou **Pagamento aprovado**.
@@ -63,7 +63,7 @@ Veja a seguir alguns exemplos de restrições configuráveis para que a promoç�
 * Endereços de entrega que fazem parte de um determinado intervalo de CEPs.
 * Uma compra por cliente.
 
-Você pode fazer essas configurações em **Promoções e Taxas > Promoções > Nova Promoção > Promoção Regular**. Para isso, siga as instruções do artigo [Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327).
+Você pode fazer essas configurações em **Promoções e Taxas > Promoções > Nova Promoção > Promoção Regular**. Para isso, siga as instruções do artigo [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt).
 
 ## Como o valor fidelidade funciona
 
@@ -94,7 +94,7 @@ Na seção __Fluxo do pedido__, é possível verificar o valor fidelidade conced
 
 ![fluxo-oms-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/promocao-regular-com-valor-fidelidade_3.png)
 
-Se você utiliza a nova interface de [Detalhes do pedido (Beta)](/pt/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl), acesse `Ver interações` para verificar o valor concedido:
+Se você utiliza a nova interface de [Detalhes do pedido (Beta)](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), acesse `Ver interações` para verificar o valor concedido:
 
 ![interacoes-neworders-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/promocao-regular-com-valor-fidelidade_4.png)
 
@@ -114,4 +114,4 @@ Observe que o valor será descontado da outra forma de pagamento selecionada. No
 
 ## Saiba mais
 
-* [Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327)
+* [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt)

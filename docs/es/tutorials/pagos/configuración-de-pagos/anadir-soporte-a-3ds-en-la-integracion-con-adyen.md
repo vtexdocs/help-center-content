@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Para añadir soporte para [3DS](/es/tutorial/what-is-3d-secure--1eWPdop8mECuaEomQgkAIa) (solución de seguridad que permite la autenticación del comprador con el banco emisor) en la integración de Adyen, primero tiene que configurar el conector. Para configurarlo, siga las instrucciones a continuación:
+Para añadir soporte para [3DS](/es/docs/tutorials/que-es-3d-secure) (solución de seguridad que permite la autenticación del comprador con el banco emisor) en la integración de Adyen, primero tiene que configurar el conector. Para configurarlo, siga las instrucciones a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. Acceda a la pestaña __Afiliaciones__.

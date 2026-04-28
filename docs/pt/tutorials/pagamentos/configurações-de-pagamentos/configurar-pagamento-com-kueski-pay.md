@@ -19,6 +19,6 @@ Na VTEX, é possível realizar a integração com o provedor de pagamentos Kuesk
 
 Para configurar Kueski Pay, acesse [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
-Para configurar o pagamento por meio de promissória, acesse [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria#).
+Para configurar o pagamento por meio de promissória, acesse [Configurar pagamentos com Promissória](/pt/docs/tutorials/configurar-pagamentos-com-promissoria#).
 
 Depois de seguir os passos indicados, Kueski Pay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

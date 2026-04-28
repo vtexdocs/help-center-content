@@ -13,6 +13,9 @@ locale: en
 legacySlug: web-page-performance-module-discontinuation
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The Web Page Performance module will be deprecated.'
+tags:
+  - Deprecation
+  - Storefront
 ---
 
 On **June 04, 2024,** we will disable the VTEX Admin **Web Page Performance module.** The module allowed merchants to monitor the performance metrics of their ecommerce URLs presented by [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) directly on the VTEX platform.
@@ -21,6 +24,6 @@ From now on, merchants will be able to [monitor and optimize these metrics](http
 
 ## What needs to be done?
 
-In this discontinuation, the merchants do not need to take any action. In the VTEX Admin, the [Store Overview](/en/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) and [Sales Performance](/en/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) modules will continue to be available.
+In this discontinuation, the merchants do not need to take any action. In the VTEX Admin, the [Store Overview](/en/docs/tutorials/store-overview) and [Sales Performance](/en/docs/tutorials/sales-performance) modules will continue to be available.
 
 <!-- mock change for indexing action PR test -->

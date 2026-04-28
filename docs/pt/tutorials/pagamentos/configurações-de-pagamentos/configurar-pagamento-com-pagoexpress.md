@@ -34,7 +34,7 @@ Para configurar a PagoExpress, siga os passos abaixo:
 3. Clique em __PIX__.
 4. Ative a condição no campo __Status__.
 5. Em __Processar com a afiliação__, selecione a opção __pagoexpresspartnerbr-pagoexpress-v0__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor PagoExpress pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

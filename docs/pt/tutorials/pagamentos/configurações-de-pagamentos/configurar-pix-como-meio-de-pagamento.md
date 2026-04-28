@@ -19,7 +19,7 @@ O [Pix](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/) é um meio de pa
 
 > ⚠️ O Pix **não é** um meio de pagamento suportado por clientes marketplace que realizem split de transação.
 
-Para maiores informações sobre o PIX, acesse o [PIX FAQ](/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3). 
+Para maiores informações sobre o PIX, acesse o [PIX FAQ](/pt/docs/tutorials/pix-faq). 
 
 ## Configurar o Pix
 

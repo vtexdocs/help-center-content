@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
 ---
 
-Bank slips can be set up in two different ways: banking information may be recorded directly on the Payments section, or it may go through a payment gateway. [See our bank slip creation manual](/en/tutorial/how-to-configure-a-bank-slip/).
+Bank slips can be set up in two different ways: banking information may be recorded directly on the Payments section, or it may go through a payment gateway. [See our bank slip creation manual](/en/docs/tutorials/how-to-configure-a-bank-slip/).
 
 See below details regarding approval of each one of these types:
 
@@ -23,7 +23,7 @@ See below details regarding approval of each one of these types:
 
 In this type of setup, the store, or some other system, must inform VTEX that the payment was made.
 
-The order status will remain **Payment pending** until the payment is notified. This notification can be made through [bank reconciliation](/en/tutorial/bank-reconciliations/), [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification) or [manually in Orders management](/en/tutorial/approving-payment-of-the-bank-payment-slip/).
+The order status will remain **Payment pending** until the payment is notified. This notification can be made through [bank reconciliation](/en/docs/tutorials/bank-reconciliations/), [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification) or [manually in Orders management](/en/docs/tutorials/approving-payment-of-the-bank-payment-slip/).
 
 It must be mentioned that the order will follow its normal course only upon approval of the payment.
 
@@ -31,4 +31,4 @@ It must be mentioned that the order will follow its normal course only upon appr
 
 In this case, the Gateway registered must communicate the payment to VTEX, just as it happens with credit cards, for example.
 
-Payments can also be approved [manually in Orders management](/en/tutorial/approving-payment-of-the-bank-payment-slip).
+Payments can also be approved [manually in Orders management](/en/docs/tutorials/approving-payment-of-the-bank-payment-slip).

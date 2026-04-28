@@ -14,7 +14,7 @@ locale: es
 legacySlug: imagenes-con-baja-calidad
 ---
 
-La disminución de la calidad de imágenes puede ocurrir durante el proceso automático de [compresión de imágenes](/es/tutorial/compresion-de-imagenes--4klbgpsPksq44KcwqKeye8).
+La disminución de la calidad de imágenes puede ocurrir durante el proceso automático de [compresión de imágenes](/es/docs/tutorials/compresion-de-imagenes).
 
 Si utilizas fotos en formato JPG o JPEG en tu sitio web, es normal que su calidad disminuya durante la conversión a [WebP](https://developers.google.com/speed/webp?hl=es) con pérdida (lossy). Sin embargo, esta diferencia no debería ser muy notoria. Para solucionar este problema, lo mejor es volver a cargar los archivos con una resolución ligeramente mayor.
 
@@ -24,4 +24,4 @@ Otra opción es utilizar imágenes preoptimizadas con herramientas de conversió
 
 ## Más información
 
-* [Compresión de imágenes](/es/tutorial/compresion-de-imagenes--4klbgpsPksq44KcwqKeye8)
+* [Compresión de imágenes](/es/docs/tutorials/compresion-de-imagenes)

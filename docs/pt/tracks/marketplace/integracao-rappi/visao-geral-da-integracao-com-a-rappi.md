@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral da integração com a Rappi'
+title: 'Integração com a Rappi - Visão geral'
 id: 7y40IL3ajiukMRHrX3XmC8
 status: PUBLISHED
 createdAt: 2024-05-31T20:24:26.112Z
@@ -23,7 +23,7 @@ A configuração com a Rappi tem o objetivo conectar sua loja VTEX com a platafo
 
 > ⚠️ A integração com a Rappi está disponível apenas para lojas VTEX do Brasil, que possuam loja física.
 
-> ℹ️ A funcionalidade [Multilevel Omnichannel Inventory](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) (MOI) não está disponível na integração com a Rappi.
+> ℹ️ A funcionalidade [Multilevel Omnichannel Inventory](/pt/docs/tutorials/multilevel-omnichannel-inventory) (MOI) não está disponível na integração com a Rappi.
 
 Para realizar a configuração entre VTEX e Rappi, é necessário concluir algumas etapas:
 

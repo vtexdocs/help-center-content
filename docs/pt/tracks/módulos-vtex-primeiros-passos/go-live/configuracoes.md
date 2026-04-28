@@ -29,7 +29,7 @@ Portanto, se você tem o domínio da loja registrado na plataforma da **Cloudfro
 
 > ⚠️ A configuração de registros de CAA como descrita nesta seção só é necessária caso haja registro de CAA no seu servidor de DNS. Caso contrário, siga para o próximo tópico deste guia.
 
-Registros CAA indicam quais autoridades certificadoras (CAs) estão autorizadas a gerar e renovar certificados que atestam a identidade do seu domínio. A configuração adequada desses registros é necessária para que seja possível gerar os [certificados SSL](/pt/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) e usar a CDN da VTEX.
+Registros CAA indicam quais autoridades certificadoras (CAs) estão autorizadas a gerar e renovar certificados que atestam a identidade do seu domínio. A configuração adequada desses registros é necessária para que seja possível gerar os [certificados SSL](/pt/docs/tutorials/certificado-de-seguranca-ssl) e usar a CDN da VTEX.
 
 Você deve garantir que os registros CAA contém a seguinte entrada:
 

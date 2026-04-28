@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-> ⚠️ Este conteúdo é exclusivamente regional e portanto, não aplicável a países de língua portuguesa. La versión en español está disponible en [Cuentas por Pagar - Internacional](/es/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs)
+> ⚠️ Este conteúdo é exclusivamente regional e portanto, não aplicável a países de língua portuguesa. La versión en español está disponible en [Cuentas por Pagar - Internacional](/es/docs/tutorials/cuentas-por-pagar-internacional)

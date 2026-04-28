@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 1
 ---
 
-O aplicativo [Live Shopping](/pt/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) permite que as lojas criem experiências de compra imersivas e em tempo real diretamente do storefront. Os lojistas podem transmitir eventos ao vivo no site da loja para promover coleções de produtos, aumentar as vendas e melhorar a experiência do usuário, enquanto interagem por meio do chat ao vivo.
+O aplicativo [Live Shopping](/pt/docs/tutorials/live-shopping) permite que as lojas criem experiências de compra imersivas e em tempo real diretamente do storefront. Os lojistas podem transmitir eventos ao vivo no site da loja para promover coleções de produtos, aumentar as vendas e melhorar a experiência do usuário, enquanto interagem por meio do chat ao vivo.
 
 Este guia técnico de onboarding foi desenvolvido para auxiliar as equipes de desenvolvimento e operações na implementação, configuração e otimização do **Live Shopping**. O objetivo é garantir uma configuração sem fricção e permitir que as marcas realizem eventos ao vivo que sejam envolventes e gerem conversões.
 
@@ -35,7 +35,7 @@ Veja abaixo como os recursos apareceriam em um evento real de **Live Shopping**:
 
 ![article_1_overview_v3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/vtex-live-shopping_1.png)
 
-> ℹ️ O [Live Shopping](/pt/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) é um aplicativo pago com diferentes planos de assinatura. Para mais informações, acesse a [VTEX App Store](https://apps.vtex.com/liveshopping/p).
+> ℹ️ O [Live Shopping](/pt/docs/tutorials/live-shopping) é um aplicativo pago com diferentes planos de assinatura. Para mais informações, acesse a [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 
 Em caso de dúvidas, comentários ou ajuda com o **Live Shopping**, entre em contato com nosso time de [Suporte](https://docs.google.com/forms/d/e/1FAIpQLSf2PDBBWX2hXzw7Pa7VAn9l49CDUpI4Ug1U6yshDdas2d_Nkg/viewform).
 

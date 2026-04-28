@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevo-formulario-de-promociones-mas-por-menos
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevo formulario Más por menos para configurar descuentos por cantidad en el carrito.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 VTEX disponibiliza el nuevo formulario **Más por menos**, que permite configurar descuentos cuando el comprador agrega varias unidades del mismo producto al carrito. Por ejemplo, en la promoción "Compra 3 por el precio de 2", el cliente recibe el descuento automáticamente cuando alcanza el número de ítems requerido.
@@ -23,5 +26,5 @@ VTEX disponibiliza el nuevo formulario **Más por menos**, que permite configura
 El nuevo formulario se ha desarrollado para simplificar la configuración de las promociones y garantizar una mayor precisión en la aplicación de los descuentos.
 
 ## ¿Qué se necesita hacer?
-No se requiere ninguna acción para acceder al nuevo formulario. La actualización se aplicará a todas las tiendas VTEX automáticamente. Para más información, acceda a [Crear promoción Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325).
+No se requiere ninguna acción para acceder al nuevo formulario. La actualización se aplicará a todas las tiendas VTEX automáticamente. Para más información, acceda a [Crear promoción Más por Menos](/es/docs/tutorials/mas-por-menos).
 

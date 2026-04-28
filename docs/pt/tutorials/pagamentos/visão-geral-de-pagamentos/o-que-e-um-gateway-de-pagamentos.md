@@ -17,16 +17,16 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 Um __gateway__ (também chamado de gateway de pagamento) é um sistema que efetua a transmissão dos dados das compras realizadas na sua loja. 
 
-Ele é responsável por enviar essas informações para adquirentes, bandeiras e [bancos emissores](/pt/tutorial/o-que-e-banco-emissor) para, então, obter um retorno sobre a continuação do processo ou o seu cancelamento. 
+Ele é responsável por enviar essas informações para adquirentes, bandeiras e [bancos emissores](/pt/docs/tutorials/o-que-e-banco-emissor) para, então, obter um retorno sobre a continuação do processo ou o seu cancelamento. 
 
 Em outras palavras, o gateway envia dados e recebe respostas para que você saiba se uma determinada compra deve ou não ser confirmada.
 
 A plataforma VTEX possui um gateway próprio com certificação [PCI](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-pci-ssc), o que significa que os dados de todos os pagamentos realizados na sua loja estão protegidos de acordo com os mais altos padrões de segurança. 
 
-Ativando os [conectores](/pt/tutorial/o-que-e-conector) e cadastrando [provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway), os dados das compras dos seus clientes poderão ser enviados a adquirentes ou outros gateways e, assim, seguir o fluxo de aprovação nas instituições financeiras.
+Ativando os [conectores](/pt/docs/tutorials/o-que-e-conector) e cadastrando [provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway), os dados das compras dos seus clientes poderão ser enviados a adquirentes ou outros gateways e, assim, seguir o fluxo de aprovação nas instituições financeiras.
 
 ### Artigos relacionados
-- [O que é banco emissor?](/pt/tutorial/o-que-e-banco-emissor)
-- [O que é conector?](/pt/tutorial/o-que-e-conector)
+- [O que é banco emissor?](/pt/docs/tutorials/o-que-e-banco-emissor)
+- [O que é conector?](/pt/docs/tutorials/o-que-e-conector)
 - [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway)
 - [O que é o PCI SSC?](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-pci-ssc)

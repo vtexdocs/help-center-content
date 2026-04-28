@@ -19,7 +19,7 @@ El __portal__ es usado para renderizar las pantallas de __Checkout__ (carrito, d
 
 El módulo __Checkout__ en Admin, muestra los sitios que están registrados para su cuenta. A través de él, también es posible crear un nuevo sitio, editar y configurar información sobre sitios existentes.
 
-> ℹ️ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en [Crear multitienda/multidominio](/es/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+> ℹ️ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en [Crear multitienda/multidominio](/es/docs/tutorials/gestionar-multitienda).
 
 ## Crear un nuevo sitio web
 
@@ -67,7 +67,7 @@ A continuación, pasaremos a la configuración paso a paso de las opciones del m
 
 ## Configurar Checkout
 
-> ⚠️ Los usuarios que realizan configuraciones de checkout deben tener un rol con el [recurso de License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal**. A su vez, este nuevo rol deben crearlo usuarios que tengan acceso **Owner (Admin Super)**.
+> ⚠️ Los usuarios que realizan configuraciones de checkout deben tener un rol con el [recurso de License Manager](/es/docs/tutorials/recursos-del-license-manager) **Manage portal**. A su vez, este nuevo rol deben crearlo usuarios que tengan acceso **Owner (Admin Super)**.
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Storefront > Checkout__, o escribe __Checkout__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el icono <i class="fas fa-cog" alt="blue gear"></i> del sitio deseado.

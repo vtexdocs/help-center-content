@@ -25,8 +25,8 @@ This feature allows for purchases made on an e-commerce to be completed with the
 
 1. In the Admin menu of the Franchise Account, which acts as Seller White Label, click on__Payments__
 2. Select **Settings**
-3. [Register the gateway affiliation](/en/tutorial/registering-gateway-affiliations/) that will be used by the Seller White Label to process payments
-4. [Configure the payment options](/en/tutorial/how-to-configure-payment-conditions) that will be sent to Marketplace
+3. [Register the gateway affiliation](/en/docs/tutorials/registering-gateway-affiliations/) that will be used by the Seller White Label to process payments
+4. [Configure the payment options](/en/docs/tutorials/how-to-configure-payment-conditions) that will be sent to Marketplace
 
 ## Register an affiliate to send payment options
 
@@ -42,7 +42,7 @@ To send payment options to a Marketplace, it’s necessary for the Seller White 
 
 - __Name:__ Insert the Marketplace name to where the payment options will be sent 
 - __ID__: Insert a three-letter seal to identify the Marketplace
-- __Trade Policy__: ID of the commercial of the Seller White Label that will send the information to the Marketplace
+- __Sales Channel__: ID of the commercial of the Seller White Label that will send the information to the Marketplace
 - __E-mail for notifications__: Fill in with an e-mail that will receive notifications about the integration
 - __Search Endpoint__: This field in not mandatory
 - __Search Endpoint_ Version_: Select the option __1.x.x__

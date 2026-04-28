@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
-Después de la [actualización hecha por Google](/es/tutorial/como-se-hace-la-actualizacion-del-xml) en septiembre de 2015, algunas tags de atributo utilizadas en el feed de productos pasaron a tener valores predefinidos que son exigidos en el idioma **inglés** y todo en **letras minúsculas**.
+Después de la [actualización hecha por Google](/es/docs/tutorials/como-se-hace-la-actualizacion-del-xml) en septiembre de 2015, algunas tags de atributo utilizadas en el feed de productos pasaron a tener valores predefinidos que son exigidos en el idioma **inglés** y todo en **letras minúsculas**.
 
 Así es para que se pueda integrar los productos en Google Shopping y tener una mejor adherencia de categorización.
 
@@ -93,4 +93,4 @@ Basta guardar y se listarán los valores.
 
 Así hecho, basta definir en el XML del Google Shopping los atributos siguiendo lo estructura más arriba.
 
-Vea [Cómo Configurar XML del Google Shopping](/es/tutorial/como-configurar-xml-google-shopping--frequentlyAskedQuestions_372) para guiarse en la configuración de XML.
+Vea [Cómo Configurar XML del Google Shopping](/es/docs/tutorials/como-configurar-xml-google-shopping) para guiarse en la configuración de XML.

@@ -10269,11 +10269,11 @@
       },
       {
         "from": "/tutorial/attribute-and-test-agents-on-agent-builder",
-        "to": "/en/docs/tutorials/assigning-and-testing-agents"
+        "to": "/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder"
       },
       {
         "from": "/tutorial/weni-by-vtexs-official-agents",
-        "to": "/en/docs/tutorials/official-agents-from-weni-by-vtex"
+        "to": "/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform"
       },
       {
         "from": "/announcements/nova-api-do-master-data-aumenta-flexibilidade-de-configuracao",
@@ -12880,7 +12880,23 @@
       {
         "from": "/es/tutorial/como-funcionan-los-pedidos-incompletos--tutorials_294",
         "to": "/es/docs/tutorials/como-encontrar-un-pedido"
-      }
+      },
+    {
+      "from": "/pt/docs/tutorials/promocoes-do-mercado-livre",
+      "to": "/pt/docs/tutorials/central-de-promocoes-mercado-livre"
+    },
+    {
+      "from": "/en/docs/tutorials/promocoes-do-mercado-livre",
+      "to": "/en/docs/tutorials/mercado-libre-promotions-center"
+    },
+    {
+      "from": "/es/docs/tutorials/promocoes-do-mercado-livre",
+      "to": "/es/docs/tutorials/central-de-promociones-mercado-libre"
+    },
+    {
+      "from": "pt/docs/tracks/configurar-integracao-com-a-amazon",
+      "to": "pt/docs/tracks/configurar-a-integracao-da-amazon"
+    }
     ]
   }
 }

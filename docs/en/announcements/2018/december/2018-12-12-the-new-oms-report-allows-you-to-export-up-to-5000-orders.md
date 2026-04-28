@@ -29,6 +29,6 @@ The module's behavior remains the same since the last update: If the applied fil
 
 
 ## How to export more than 5.000 orders
-You can export more than 5.000 orders using the Orders Management (formerly known as OMS) APIs: [Get Order](https://developers.vtex.com/reference/orders#getorder) and [Get Feed Order Status](https://developers.vtex.com/reference/note).
+You can export more than 5.000 orders using the Orders Management (formerly known as OMS) APIs: [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) and [Get Feed Order Status](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/feed/orders/status).
 
 > ⚠️ **But remember:** For it to work, it's necessary to **create a date/hour range that includes up to 5.000 orders**. After defining a range that respects this limit, you'll be able to make as many requests to the API as you want.

@@ -30,7 +30,7 @@ Para encontrar una Tabla de Precio:
  1. Haga clic en **Tabla de Precio**.
  2. Escriba el nombre de la tabla que desea encontrar en el campo **Buscar**.
 
-Para añadir precios en la tabla de precios, registra un precio base a sus SKU. Mira como hacerlo en este [tutorial](/es/tutorial/registrar-el-precio-base-de-un-producto--4S9SbPWlVmOAAWO6yq8wE6).
+Para añadir precios en la tabla de precios, registra un precio base a sus SKU. Mira como hacerlo en este [tutorial](/es/docs/tutorials/registrar-el-precio-base-de-un-producto).
 
 > ℹ️ No puede crear tablas de precio con nombres iguales. No se pueden añadir caracteres especiales a los nombres de las tablas de precios. Sólo letras y números.
 

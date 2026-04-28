@@ -15,7 +15,7 @@ trackSlugEN: data-and-privacy
 order: 1
 ---
 
-Personal data or _Personally Identifiable Information_ (PII) is any information relating to a natural person that is capable of identifying them directly (such as name, ID number, and email address) or indirectly (such as IP addresses, physical addresses, and [cookies](https://vtex.com/us-en/privacy-and-agreements/vtex-platform-cookies-information/)).
+Personal data or _Personally Identifiable Information_ (PII) is any information relating to a natural person that is capable of identifying them directly (such as name, ID number, and email address) or indirectly (such as IP addresses, physical addresses, and [cookies](https://vtex.com/us-en/trust/cookies-information/)).
 
 Sensitive personal data is information related to ethnicity, religious beliefs, political opinion, trade union membership, health or sexual life, and genetic or biometric data. Misuse of this type of data can lead to severe harm or discriminatory treatment of the data subject.
 
@@ -26,14 +26,14 @@ VTEX processes customers' personal data only when necessary, complying with the 
 * Name
 * Email
 * IP address
-* Navigation information ([cookies](https://vtex.com/us-en/privacy-and-agreements/vtex-platform-cookies-information/))
+* Navigation information ([cookies](https://vtex.com/us-en/trust/cookies-information/))
 * Cart information
 * Order details and history
 * Delivery address
 * Identification number (when required by the country where the store operates)
 * Gift card history
 * Abandoned cart
-* [Conversation Tracker](/en/tutorial/conversation-tracker--tutorials_195) chat
+* [Conversation Tracker](/en/docs/tutorials/understanding-the-conversation-tracker) chat
 * Session passwords (encrypted)
 * Generated tokens
 

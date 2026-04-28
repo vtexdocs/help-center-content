@@ -36,10 +36,10 @@ Ao ser notificado pelo seller sobre o cancelamento, o marketplace pode configura
 
 Nas situações abaixo, a troca de seller não pode ser feita:
 - Itens do pedido com serviços ou anexos.
-- Pedidos intermediários em caso de [Multilevel Omnichannel Inventory](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+- Pedidos intermediários em caso de [Multilevel Omnichannel Inventory](/pt/docs/tutorials/multilevel-omnichannel-inventory).
 - Pedidos com outras alterações.
 - Pedidos com impostos.
-- Pedidos com [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) que não utilizam cartão de crédito.
+- Pedidos com [split de pagamento](/pt/docs/tutorials/split-de-pagamento) que não utilizam cartão de crédito.
 - Pedidos com split de pagamento entre diferentes sellers.
 - Pedidos que usam o meio de pagamento do seller e não utilizam cartão de crédito com tokenização.
 - Pedidos que usam o meio de pagamento do seller e possuem mais de um merchant envolvido.
@@ -47,8 +47,8 @@ Nas situações abaixo, a troca de seller não pode ser feita:
 - Pedidos que usam o meio de pagamento do seller e não possuem as mesmas condições de parcelamento e meios de pagamento no novo seller.
 - Pedidos feitos anteriormente ao anúncio do Change Seller.
 - Pedidos  em que o seller original é um seller não VTEX.
-- Alteração para novo seller não VTEX caso exista serviços ou [assembly options](/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) envolvidos.
-- Caso a nova opção solicite envio por retirada em [pontos de retirada](/pt/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-- No caso do marketplace decidir por trocar de seller, a troca só pode ser feita nos [status](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) `Pagamento pendente` e `Aguardando confirmação do seller`.
+- Alteração para novo seller não VTEX caso exista serviços ou [assembly options](/pt/docs/tutorials/assembly-options) envolvidos.
+- Caso a nova opção solicite envio por retirada em [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada).
+- No caso do marketplace decidir por trocar de seller, a troca só pode ser feita nos [status](/pt/docs/tutorials/fluxo-e-status-de-pedidos) `Pagamento pendente` e `Aguardando confirmação do seller`.
 - Pedidos de sellers externos à VTEX.
-- Se a transportadora escolhida não estiver associada a mesma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) do pedido.
+- Se a transportadora escolhida não estiver associada a mesma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) do pedido.

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-O cenário B2B dispõe de diversas estratégias de incentivo, e uma das mais utilizadas é o rebate. Veja o artigo [As promoções mais comuns em B2B](/pt/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf) para mais estratégias de incentivo B2B.
+O cenário B2B dispõe de diversas estratégias de incentivo, e uma das mais utilizadas é o rebate. Veja o artigo [As promoções mais comuns em B2B](/pt/docs/tutorials/as-promocoes-mais-comuns-em-b2b) para mais estratégias de incentivo B2B.
 
 Rebate ou VPC (Verba de Propaganda Compartilhada) são créditos concedidos do fornecedor à loja aplicados na forma de descontos exclusivos para venda de produtos pré-selecionados, oferecendo preços mais baixos para o cliente final e aumento da performance de vendas.
 
@@ -23,7 +23,7 @@ Todo esse cenário além de fortalecer os relacionamentos entre fornecedores e r
 
 ## Como configurar rebates na VTEX?
 
-A maneira mais apropriada para utilizar o rebate recebido dos fornecedores é por meio de [Promoções Regulares](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#) com restrições de uso requeridas. Para saber mais sobre as possibilidades da Promoção Regular, leia nosso artigo de [Exemplos de promoção](/pt/tutorial/exemplos-de-promocao--5A8UTc7knvAscxo7e7rMFD).
+A maneira mais apropriada para utilizar o rebate recebido dos fornecedores é por meio de [Promoções Regulares](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#) com restrições de uso requeridas. Para saber mais sobre as possibilidades da Promoção Regular, leia nosso artigo de [Exemplos de promoção](/pt/docs/tutorials/exemplos-de-promocao).
 
 > ⚠️ O cliente pode eventualmente cancelar a compra de um pedido com desconto do rebate. Nesse caso, é preciso redirecionar a promoção para outro cliente para, assim, atingir o total dos créditos. Para verificar se o rebate foi aplicado a um pedido, use os endpoints [Retrieve User's orders](https://developers.vtex.com/vtex-developer-docs/reference/user-orders#userorderslist) ou [Get Order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder) da Orders API.
 
@@ -39,4 +39,4 @@ Esse desconto será aplicado como uma Promoção Regular na VTEX. Para definir o
 4. Restringir que a promoção será aplicada uma vez por cliente.
 5. Definir que a promoção só afetará um item por carrinho.
 
-Para identificar os campos de preenchimento da promoção, leia nosso artigo [Campos da Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327). 
+Para identificar os campos de preenchimento da promoção, leia nosso artigo [Campos da Promoção Regular](/pt/docs/tutorials/promocao-regular-pt). 

@@ -25,5 +25,5 @@ At VTEX, a payment method is only available on your web site after you set it up
 
 ### Related articles
 - [Payments - Overview](/en/tutorial/pci-gateway-overview)
-- [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions)
+- [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions)
 - [Register payment and anti-fraud providers](https://help.vtex.com/en/docs/tutorials/registering-gateway-affiliations)

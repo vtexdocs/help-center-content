@@ -51,7 +51,7 @@ Como uma loja internacional pode ter múltiplos bindings e alcançar compradores
 
 - [Criar multiloja / multidomínio](/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [O que é binding?](/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [O que é binding?](/pt/docs/tutorials/o-que-e-binding)
 
-- [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Como funciona uma Política Comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial)
 

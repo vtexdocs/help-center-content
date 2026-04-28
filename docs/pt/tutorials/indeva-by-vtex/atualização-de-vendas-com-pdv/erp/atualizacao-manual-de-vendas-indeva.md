@@ -19,5 +19,5 @@ Quando o sistema de vendas não possui integração automática com a Indeva, é
 
 A validação manual permite que a equipe insira os dados de vendas diretamente na plataforma, garantindo o acompanhamento correto das metas.  
 
-Para mais informações sobre como realizar esse processo, acesse o artigo [Validar valores de PDV na plataforma Indeva](/pt/tutorial/validar-valores-de-pdv-na-plataforma-indeva--5GRLWlRabZKTm3Ina5PpI7).  
+Para mais informações sobre como realizar esse processo, acesse o artigo [Validar valores de PDV na plataforma Indeva](/pt/docs/tutorials/validar-valores-de-pdv-na-plataforma-indeva).  
 

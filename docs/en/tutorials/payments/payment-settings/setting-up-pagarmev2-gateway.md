@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, it is possible to process payments with the PagarMe provider through V2 and V3 integrations.
 
-> ⚠️ If you want to configure the V3 version of Pagarme in your store, go to [Setting up payments with PagarMeV3](/en/tutorial/setting-up-payments-with-pagarmev3--5PMavdamrVijwIrHas9ndE).
+> ⚠️ If you want to configure the V3 version of Pagarme in your store, go to [Setting up payments with PagarMeV3](/en/docs/tutorials/setting-up-payments-with-pagarmev3).
 
 To configure PagarMeV2, follow the steps below:
 

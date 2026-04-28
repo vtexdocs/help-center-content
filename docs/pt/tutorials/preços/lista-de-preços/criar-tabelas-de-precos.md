@@ -30,7 +30,7 @@ Para criar uma Tabela de Preços siga os seguintes passos:
  1. Clique em **Tabela de Preço**
  2. Digite o nome da tabela que deseja encontrar no campo **Buscar**
 
-Para incluir preços na tabela de preços, você precisará cadastrar um preço base aos seus SKUs. Veja como fazer neste [tutorial](/pt/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6).
+Para incluir preços na tabela de preços, você precisará cadastrar um preço base aos seus SKUs. Veja como fazer neste [tutorial](/pt/docs/tutorials/cadastrar-o-preco-base-de-um-produto).
 
 > ℹ️ Não é possível criar tabelas de preço com nomes iguais. Não é possível adicionar caracteres especiais aos nomes das tabelas de preços. Apenas letras e números.
 

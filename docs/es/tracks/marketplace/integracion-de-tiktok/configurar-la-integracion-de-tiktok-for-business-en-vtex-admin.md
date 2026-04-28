@@ -39,8 +39,8 @@ En primer lugar, debes introducir la información solicitada en el formulario de
 
 En esta parte del formulario, debes rellenar la información que servirá para integrar tu catálogo de productos en VTEX con TikTok.
 
-* **ID del afiliado:** identificador del nuevo [afiliado](/es/tutorial/que-es-afiliado--4bN3e1YarSEammk2yOeMc0) que deseas crear para la integración. El ID del afiliado debe contener solo 3 consonantes y no puede estar asociado a un afiliado existente. Sugerimos usar `TKT` para identificar fácilmente TikTok. Es importante que compruebes en **Gestión de pedidos > Configuración > Afiliados** que el ID no está en uso. El afiliado se creará automáticamente al finalizar la configuración. 
-* **Política comercial:** campo para seleccionar la [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se asociará a la integración del catálogo con TikTok. Actualmente, la integración solo acepta políticas comerciales con BRL como moneda. Consulta la sección [Envío de datos de productos a TikTok](#envio-de-datos-de-produtos-a-tiktok) para más información.
+* **ID del afiliado:** identificador del nuevo [afiliado](/es/docs/tutorials/que-es-afiliado) que deseas crear para la integración. El ID del afiliado debe contener solo 3 consonantes y no puede estar asociado a un afiliado existente. Sugerimos usar `TKT` para identificar fácilmente TikTok. Es importante que compruebes en **Gestión de pedidos > Configuración > Afiliados** que el ID no está en uso. El afiliado se creará automáticamente al finalizar la configuración. 
+* **Política comercial:** campo para seleccionar la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que se asociará a la integración del catálogo con TikTok. Actualmente, la integración solo acepta políticas comerciales con BRL como moneda. Consulta la sección [Envío de datos de productos a TikTok](#envio-de-datos-de-produtos-a-tiktok) para más información.
 
 > ⚠️ No cambies la configuración del afiliado que se creó automáticamente durante la integración. Si, en el futuro, se introduce algún cambio manual en la configuración del afiliado en **Gestión de pedidos > Configuración > Afiliados**, la integración puede dejar de funcionar.
 
@@ -96,7 +96,7 @@ En la página **Set up TikTok for Business** (Configurar TikTok for Business), q
 10. En la sección **Catalog**, escribe el nombre que desees para el nuevo catálogo que se creará en [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) y haz clic en `Create New`. Los productos asociados a la política comercial informada en el [formulario](#1-rellenar-el-formulario-de-configuracion-de-la-integracion) se añadirán a este catálogo en TikTok.
 11. Haz clic en `Finish Setup`.
 
-Una vez completada esta configuración, serás redirigido a **Marketplace > TikTok** en el Admin VTEX, donde podrás [gestionar la integración](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). En algunas versiones del Admin VTEX, la página se encuentra en **Aplicaciones > Mis aplicaciones > TikTok.** Una vez que la configuración se completó con éxito, cualquier usuario conectado al Admin VTEX podrá acceder a esta área de gestión de TikTok. 
+Una vez completada esta configuración, serás redirigido a **Marketplace > TikTok** en el Admin VTEX, donde podrás [gestionar la integración](/es/docs/tracks/gestionar-la-integracion-de-tiktok-for-business-en-vtex-admin). En algunas versiones del Admin VTEX, la página se encuentra en **Aplicaciones > Mis aplicaciones > TikTok.** Una vez que la configuración se completó con éxito, cualquier usuario conectado al Admin VTEX podrá acceder a esta área de gestión de TikTok. 
 
 ### Envío de datos de productos a TikTok
 
@@ -116,4 +116,4 @@ Una vez configurada la integración, el envío de productos a TikTok es un proce
 * Precio (en BRL)
 * Imágenes
 
-Para que los productos se sincronicen, es necesario rellenar los campos con toda esta información. Las actualizaciones de los registros de productos realizadas en el entorno VTEX, mediante [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) o en el [Admin](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), se replican automáticamente en TikTok.
+Para que los productos se sincronicen, es necesario rellenar los campos con toda esta información. Las actualizaciones de los registros de productos realizadas en el entorno VTEX, mediante [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) o en el [Admin](/es/docs/tracks/registrar-producto), se replican automáticamente en TikTok.

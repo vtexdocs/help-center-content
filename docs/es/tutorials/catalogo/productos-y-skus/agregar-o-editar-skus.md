@@ -3,7 +3,7 @@ title: 'Agregar o editar SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2025-07-28T22:21:13.931Z
+updatedAt: 2026-01-30T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-La página [Productos y SKUs](/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) permite a los retailers registrar productos y variaciones nuevas o gestionar los existentes. Este artículo describe cómo agregar o editar SKUs. Para más información sobre productos, consulta el artículo [Agregar o editar productos](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8).
+La página [Productos y SKUs](/es/docs/tutorials/productos-y-skus) permite a los retailers registrar productos y variaciones nuevas o gestionar los existentes. Este artículo describe cómo agregar o editar SKUs. Para más información sobre productos, consulta el artículo [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos).
 
 Todo nuevo SKU debe vincularse a un producto. Para registrar un nuevo SKU después de haber creado un producto, sigue los pasos a continuación:
 
@@ -36,19 +36,20 @@ Todo nuevo SKU debe vincularse a un producto. Para registrar un nuevo SKU despu�
     * [Logística](#logistica)
     * [Estrategia comercial](#estrategia-comercial)
     * [Personalizaciones](#personalizaciones)
-    * [Cross-sells y up-sells](#cross-sells-y-up-sells)
+    * [Recomendaciones de cross-sell y up-sell](#recomendaciones-de-cross-sell-y-up-sell)
+    * [Atributos](#atributos)
 
     > Los campos obligatorios están marcados con un asterisco (*).
 
 7. Haz clic en `Guardar`.
 
-> ⚠️ Puedes inactivar un SKU después de crearlo, pero no puedes eliminarlo si es el único SKU del producto. La plataforma solo permite eliminar SKUs y productos en masa mediante [Mantenimiento de base de datos (Full Cleanup)](/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
+> ⚠️ Puedes inactivar un SKU después de crearlo, pero no puedes eliminarlo si es el único SKU del producto. La plataforma solo permite eliminar SKUs y productos en masa mediante [Mantenimiento de base de datos (Full Cleanup)](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup).
 
-Después de crear el SKU, puedes monitorear su disponibilidad para la venta a través del ícono de color. Al pasar el mouse sobre el ícono, se muestra un texto que explica el significado del color, según se ilustra en la siguiente imagen. Más información en [Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By).
+Después de crear el SKU, puedes monitorear su disponibilidad para la venta a través del ícono de color. Al pasar el mouse sobre el ícono, se muestra un texto que explica el significado del color, según se ilustra en la siguiente imagen. Más información en [Productos y SKUs](/es/docs/tutorials/productos-y-skus).
 
 ![adding_or_editting_sku_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/agregar-o-editar-skus_1.png)
 
-Además, después de registrar el SKU puedes agregarlo a un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) haciendo clic en el ícono de menú en la fila del SKU deseado y seleccionando la opción `Crear kit`. Ten en cuenta que transformar un SKU en un kit es permanente y no se puede deshacer.
+Además, después de registrar el SKU puedes agregarlo a un [kit](/es/docs/tutorials/que-es-un-kit) haciendo clic en el ícono de menú en la fila del SKU deseado y seleccionando la opción `Crear kit`. Ten en cuenta que transformar un SKU en un kit es permanente y no se puede deshacer.
 
 En las siguientes secciones se describen los campos del formulario, incluyendo detalles sobre cómo rellenarlos.
 
@@ -59,7 +60,7 @@ En las siguientes secciones se describen los campos del formulario, incluyendo d
 La primera parte incluye el nombre y activación del SKU:
 
 * **Nombre*:** ingresa el nombre del SKU, es decir, la identificación de la variante del producto. El nombre tiene un límite de 200 caracteres. Ejemplo: para el producto "Refrigerador", el nombre del SKU puede ser "436 L".
-* **Activo:** para activar el SKU que estás creando, habilita el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantenerlo inactivo, deja el botón de alternancia deshabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Si el SKU no está disponible para la venta después de activarlo, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Activo:** para activar el SKU que estás creando, habilita el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantenerlo inactivo, deja el botón de alternancia deshabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Si el SKU no está disponible para la venta después de activarlo, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ## Especificaciones
 
@@ -67,7 +68,7 @@ Las especificaciones son características configuradas en el SKU que el cliente 
 
 Los campos de la sección **Especificaciones** pueden variar dependiendo del producto al que el SKU está asociado.
 
-> ⚠️ Cuando existe una especificación de SKU, es obligatorio rellenarla. Para más información, consulta el artículo [Registrar especificaciones o campos de SKU](/es/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
+> ⚠️ Cuando existe una especificación de SKU, es obligatorio rellenarla. Para más información, consulta el artículo [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku).
 
 > ❗ No es posible crear un SKU con la misma combinación de valores que ya existen en otro SKU. Por ejemplo, si la combinación de SKU A es negro y talla S, no sería posible crear el SKU B con negro y talla S, ya que se generaría un conflicto. Sin embargo, si el color del SKU A fuera negro y el del SKU B fuera azul, incluso manteniendo la talla P para ambos, no habría conflicto, ya que las combinaciones serían diferentes. Si lo deseas, puedes desactivar un SKU, pero la plataforma no te permite eliminar un solo SKU.
 
@@ -92,7 +93,7 @@ La siguiente tabla presenta los límites y formatos aceptados para las imágenes
 | Tamaño mínimo en KB | 300 KB |
 | Extensiones de archivo permitidas | <ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul> |
 
-> ℹ️ Para más recomendaciones, consulta el artículo [Buenas prácticas para el uso de imágenes en el Catálogo](/es/tutorial/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo--738K2yfq5U86kUI2k4AQIk).
+> ℹ️ Para más recomendaciones, consulta el artículo [Buenas prácticas para el uso de imágenes en el Catálogo](/es/docs/tutorials/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo).
 
 Después cargar una imagen, puedes editar los metadatos siguiendo los pasos a continuación:
 
@@ -108,7 +109,7 @@ Además de agregar nuevas imágenes a un SKU, puedes replicar las imágenes de u
 2. En la ventana modal **Escoge los SKUs en que deseas replicar los elementos multimedia**, haz clic en los SKUs a los que deseas agregar las imágenes copiadas.
 3. Haz clic en `Aplicar`.
 
-> ⚠️ Uno de los requisitos para activar un SKU es que tenga al menos una imagen. Para más información sobre las condiciones para mostrar un ítem en el storefront, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ Uno de los requisitos para activar un SKU es que tenga al menos una imagen. Para más información sobre las condiciones para mostrar un ítem en el storefront, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ### Videos
 
@@ -118,14 +119,14 @@ El SKU puede tener hasta 6 videos y la **única forma de agregarlos es utilizand
 
 **Vimeo**
 
-- `https://vimeo.com/{VIDEO_ID}`
+* `https://vimeo.com/{VIDEO_ID}`
 
 **YouTube**
 
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
+* `https://youtu.be/{VIDEO_ID}`
+* `https://www.youtube.com/watch?v={VIDEO_ID}`
+* `https://www.youtube.com/embed/{VIDEO_ID}`
+* `https://www.youtube.com/v/{VIDEO_ID}`
 
 > ⚠️ Sustituye `{VIDEO_ID}` con el ID del video que deseas mostrar.
 
@@ -139,17 +140,17 @@ Los campos de esta sección se refieren a los códigos que identifican el SKU:
 
 ## Logística
 
-Los campos del SKU relacionados con [logística](/es/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) son los siguientes:
+Los campos del SKU relacionados con [logística](/es/docs/tutorials/fulfillment-logistica-vtex) son los siguientes:
 
 ### Modal (opcional)
 
-[Modal](/es/tutorial/como-funciona-o-modal--tutorials_125) es una configuración para transportadoras que realizan entregas especializadas, ya que algunos productos requieren condiciones de transportación especiales, tales como refrigeración o capacidad de transportar cargas químicas. 
+[Modal](/es/docs/tutorials/como-se-maneja-el-modal) es una configuración para transportadoras que realizan entregas especializadas, ya que algunos productos requieren condiciones de transportación especiales, tales como refrigeración o capacidad de transportar cargas químicas.
 
-Si se crearon opciones de modal para el SKU, se mostrarán en una lista desplegable que te permite escoger una sola opción. Para más información, consulta el artículo [Configurar modal para transportadoras](/es/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
+Si se crearon opciones de modal para el SKU, se mostrarán en una lista desplegable que te permite escoger una sola opción. Para más información, consulta el artículo [Configurar modal para transportadoras](/es/docs/tutorials/configurar-modal).
 
 ### Peso y dimensiones de envío
 
-Los siguientes campos se utilizan para [calcular el factor volumétrico de peso](/es/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) del SKU y están relacionados con el paquete que se utilizará para transportarlo:
+Los siguientes campos se utilizan para [calcular el factor volumétrico de peso](/es/docs/tutorials/como-se-calcula-el-peso-cubico) del SKU y están relacionados con el paquete que se utilizará para transportarlo:
 
 * **Peso del paquete:** valor absoluto del peso.
 * **Anchura del paquete:** valor absoluto de la anchura.
@@ -169,62 +170,69 @@ Los siguientes campos corresponden a las dimensiones reales del producto que tam
 
 ### Medidas de stock
 
-Los siguientes campos definen cómo se organizará y contabilizará el SKU en el [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb):
+Defina aspectos de stock en el contexto del Catálogo:
+
+> ❗ La **Unidad de medida** y el **Multiplicador de unidad** se utilizan para fines de catálogo y no generan ningún impacto en el inventario, stock u otras configuraciones de envío.
 
 * **Unidad de medida:** identificación de la unidad de medida utilizada para contabilizar los ítems en stock.
 * **Multiplicador de unidad:** valor numérico que se utiliza para multiplicar el SKU y definir la cantidad en el carrito. Por ejemplo, un multiplicador de 5 significa que cada SKU representa 5 ítems en el carrito y solo permite compras en múltiplos de 5 como, por ejemplo, 10 o 15 ítems. Los valores de fracciones se pueden separar con punto o coma. Por ejemplo, medio kilogramo se puede indicar como 0.5 o 0,5.
-
-> ⚠️ El valor en el campo multiplicador de unidad no tiene impacto en los cálculos de inventario y logística.
 
 ## Estrategia comercial
 
 Esta sección incluye campos relacionados con las estrategias de venta de la tienda:
 
-* **Condición comercial:** define las promociones o [condiciones de pago](/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) que deben aplicarse al SKU. Si no deseas indicar una condición comercial, selecciona la opción `Predeterminado`. Para saber más, consulta el artículo [Registrar condición comercial](/es/tutorial/como-cadastrar-condicao-comercial--tutorials_445).
-* **Fecha de preventa:** asigna una fecha de preventa al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta. Para configurarla, debes tomar en cuenta la fecha de release del ítem y el [cálculo de envío](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) a los clientes.
-* **Generar crédito en tarjeta de regalo:** cuando esta opción está activada, indica que la venta del SKU al cliente debe generar un crédito en forma [tarjeta de regalo](/es/tutorial/gift-card--tutorials_995).
+* **Condición comercial:** define las promociones o [condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) que deben aplicarse al SKU. Si no deseas indicar una condición comercial, selecciona la opción `Predeterminado`. Para saber más, consulta el artículo [Registrar condición comercial](/es/docs/tutorials/registrar-condicion-comercial).
+* **Fecha de preventa:** asigna una fecha de preventa al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta. Para configurarla, debes tomar en cuenta la fecha de release del ítem y el [cálculo de envío](/es/docs/tutorials/como-funciona-el-calculo-del-envio) a los clientes.
+* **Generar crédito en tarjeta de regalo:** cuando esta opción está activada, indica que la venta del SKU al cliente debe generar un crédito en forma [tarjeta de regalo](/es/docs/tutorials/gift-card).
 * **Valor de fidelidad:** crédito que el cliente recibe al completar la compra de 1 unidad de determinado SKU. Por ejemplo, si rellenas este campo con un valor de 1.00 USD, los clientes que compren este SKU obtendrán un crédito de 1.00 USD en la tienda para compras futuras.
 
 ## Personalizaciones
 
-Puedes configurar los SKUs para ofrecer opciones personalizadas a los clientes. Por ejemplo, el cliente puede elegir agregar un nombre a una camiseta. Las personalizaciones pueden ser de dos tipos: [anexos](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) o [servicios](/es/tutorial/o-que-e-um-servico).
+Puedes configurar los SKUs para ofrecer opciones personalizadas a los clientes. Por ejemplo, el cliente puede elegir agregar un nombre a una camiseta. Las personalizaciones pueden ser de dos tipos: [anexos](/es/docs/tutorials/que-es-un-anexo) o [servicios](/es/tutorial/o-que-e-um-servico).
 
-Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes: 
+Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes:
 
 * `Anexos`: al hacer clic en esta opción, se abre la ventana modal **Selecciona los anexos que deseas vincular**. Selecciona los anexos deseados y haz clic en `Aplicar`.
 * `Servicios`: al hacer clic en esta opción, se abre la ventana modal **Nuevo servicio**. Rellena los campos y activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Activo**. Para guardar la información, haz clic en `Aplicar`.
 
-> ⚠️ Las opciones de anexos y servicios disponibles para el SKU deben configurarse previamente. Para más información, consulta los artículos [Registrar un anexo](/es/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) y [Crear servicio para un SKU](/es/tutorial/criar-servico-para-um-sku--tutorials_252).
+> ⚠️ Las opciones de anexos y servicios disponibles para el SKU deben configurarse previamente. Para más información, consulta los artículos [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo) y [Crear servicio para un SKU](/es/docs/tutorials/crear-servicio-para-un-sku).
 
-## Cross-sells y up-sells
+## Recomendaciones de cross-sell y up-sell
 
-Esta sección permite configurar opciones de [cross-selling](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280#que-es-cross-selling) y/o [up-selling](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280#que-es-up-selling) para el nuevo SKU que se reflejarán en la vitrina de la tienda y en la experiencia de navegación de los clientes.
+Esta sección permite configurar opciones de [cross-selling](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos#que-es-cross-selling) y/o [up-selling](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos#que-es-up-selling) para el nuevo SKU que se reflejarán en la vitrina de la tienda y en la experiencia de navegación de los clientes.
 
-A continuación se describen los tipos de ítems que puedes asociar al SKU que estás registrando:
+Para configurar una opción de cross-sell o up-sell, sigue los pasos a continuación:
 
-* **Accesorios:** ítems sugeridos como opciones que complementan la venta.
-* **Sugerencias:** ítems que se muestran como sugerencias de compra.
-* **Productos similares:** ítems ofrecidos como alternativa o simplemente como un producto similar.
-* **Mostrar juntos:** ítems recomendados para comprar juntos.
+1. En la sección, **Recomendaciones de cross-sell y up-sell**, haz clic en el ícono adicionar `+`.
+2. Selecciona una opción de la siguiente lista:
 
-Para configurar alguna de estas opciones, sigue los pasos a continuación:
+    * **Accesorios:** ítems sugeridos como opciones que complementan la venta.
+    * **Sugerencias:** ítems que se muestran como sugerencias de compra.
+    * **Productos similares:** ítems ofrecidos como alternativa o simplemente como un producto similar.
+    * **Mostrar juntos:** ítems recomendados para comprar juntos.
 
-1. En la sección, **Cross-sells y up-sells**, haz clic en el ícono +.
-2. Haz clic en una de las opciones:
+3. Haz clic en `Agregar SKUs`
+4. Seleccione los SKUs que deseas agregar. Puedes usar la barra de búsqueda si lo deseas.
+5. Haz clic en `Aplicar`.
 
-    * Accesorios
-    * Sugerencias
-    * Productos similares
-    * Mostrar juntos
+> ℹ️ Para más información, consulta el artículo [Consultar producto similar, sugerencias, accesorios y genéricos](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos).
 
-3. En el campo de texto de la ventana modal que se abre, ingresa el ID de SKU del ítem deseado.
-4. Haz clic en `Aplicar`.
+## Atributos
 
-> ℹ️ Para más información, consulta el artículo [Consultar producto similar, sugerencias, accesorios y genéricos](/es/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+Esta sección permite configurar campos personalizados con valores específicos para cada SKU. Por ejemplo, en un lápiz labial (producto), cada una de los colores (SKUs) puede tener el campo ingredientes (atributo de SKU) con diferentes valores.
+
+Para configurar un atributo para el SKU, sigue los pasos a continuación:
+
+1. En la sección **Atributos**, haz clic en el ícono adicionar `+`.
+2. Rellena el campo **Nombre** con la identificación del atributo.
+3. (Opcional) Si deseas replicar el atributo para todos los SKUs, marca la casilla de selección **Aplicar a todos los SKUs**.
+4. Haz clic en `Crear`.
+
+> ℹ️ Los atributos del SKU no están vinculados al árbol de categorías.
 
 ## Más información
 
-* [Productos y SKUs](/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)
-* [Agregar o editar productos](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8)
-* [Catálogo: información general](/es/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
+* [Productos y SKUs](/es/docs/tutorials/productos-y-skus)
+* [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos)
+* [Catálogo: información general](/es/docs/tutorials/catalogo-vision-general)
 * [Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (serie de artículos)

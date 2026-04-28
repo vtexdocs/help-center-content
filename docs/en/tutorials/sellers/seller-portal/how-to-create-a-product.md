@@ -32,7 +32,7 @@ The form to add a new product contains the following sections:
 *   [SEO](#seo)
 *   [Storefront](#storefront)
 
-> ℹ️ Before creating a product, you must create the corresponding [Category](/en/tutorial/registering-a-category--tutorials_206) for the product, if it has not been previously registered in your store.
+> ℹ️ Before creating a product, you must create the corresponding [Category](/en/docs/tutorials/registering-a-category) for the product, if it has not been previously registered in your store.
 
 ## Basic information
 
@@ -45,9 +45,9 @@ Fill in some basic information to start selling your product.
 
 ## Operations and logistics
 
-In this section, you need to add at least one trade policy to apply to the product. You can also select a transportation strategy for it.
+In this section, you need to add at least one sales channel to apply to the product. You can also select a transportation strategy for it.
 
-* **Trade Policies:** select the trade policies you want to link with the product, to define on which marketplaces it will be available. This is a required field.
+* **Sales Channels:** select the sales channels you want to link with the product, to define on which marketplaces it will be available. This is a required field.
 * **Modal:** select the product's transportation strategy.
 
 ## Description
@@ -128,7 +128,7 @@ To edit an attribute, select it from the list. To delete an attribute, click the
 
 ## SKU information
 
-Each product must have at least one [SKU](/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) added. If your product has no variations and you want to create **only one SKU** associated with it, fill in the information below:
+Each product must have at least one [SKU](/en/docs/tutorials/what-is-an-sku) added. If your product has no variations and you want to create **only one SKU** associated with it, fill in the information below:
 
 *   **SKU Reference code**: unique reference code created to improve the store's organization. This is not a required field.
 *   **EAN/UPC**: unique SKU identification code (barcode), composed of up to 13 numeric characters.

@@ -1,9 +1,9 @@
 ---
-title: "Viewing the order's details in Orders"
+title: "Viewing transaction details in Orders"
 id: tutorials_452
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:24.036Z
-updatedAt: 2023-03-30T14:56:10.230Z
+updatedAt: 2025-11-24T00:00:00.000Z
 publishedAt: 2023-03-30T14:56:10.230Z
 firstPublishedAt: 2017-04-27T23:03:26.583Z
 contentType: tutorial

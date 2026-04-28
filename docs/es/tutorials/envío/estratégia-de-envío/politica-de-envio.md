@@ -15,44 +15,44 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-La [estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) en una tienda VTEX engloba las configuraciones [logísticas](/es/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) esenciales y define la relación entre los siguientes elementos:
+La [estrategia de envío](/es/docs/tutorials/estrategia-de-envio) en una tienda VTEX engloba las configuraciones [logísticas](/es/docs/tutorials/fulfillment-logistica-vtex) esenciales y define la relación entre los siguientes elementos:
 
 * Política de envío
-* [Muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
-* [Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+* [Muelle](/es/docs/tutorials/muelles)
+* [Almacén](/es/docs/tutorials/almacen)
 
 La siguiente imagen muestra cómo se relacionan estos conceptos entre sí:
 
 ![shipping_strategy_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/politica-de-envio_1.png)
 
-La **política de envío** es un conjunto de reglas y ajustes que definen las opciones de envío que se mostrarán a los clientes en el checkout. Al [calcular el tiempo de envío](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) del pedido, la plataforma VTEX toma en consideración los ajustes establecidos en las políticas de envío, entre los que destacan:
+La **política de envío** es un conjunto de reglas y ajustes que definen las opciones de envío que se mostrarán a los clientes en el checkout. Al [calcular el tiempo de envío](/es/docs/tutorials/como-funciona-el-calculo-del-envio) del pedido, la plataforma VTEX toma en consideración los ajustes establecidos en las políticas de envío, entre los que destacan:
 
-* [Transportadora](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE)
-* [Horario laboral de la transportadora](/es/tutorial/horario-de-funcionamento-das-transportadoras--2oGpbInIgdxSWUi3TZjdCS)
-* [Feriados](/es/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk)
-* [Adicionales de envío](/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV)
-* [Entrega programada](/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)
-* [Puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R)
+* [Transportadora](/es/docs/tutorials/transportadoras-en-vtex)
+* [Horario laboral de la transportadora](/es/docs/tutorials/horario-de-atencion-de-las-transportadoras)
+* [Feriados](/es/docs/tutorials/registrar-feriados)
+* [Adicionales de envío](/es/docs/tutorials/adicionales-de-flete)
+* [Entrega programada](/es/docs/tutorials/entrega-programada)
+* [Puntos de recogida](/es/docs/tutorials/puntos-de-recogida)
 
-Para más información sobre cómo crear una política de envío, consulta [Crear una política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT). Para más información sobre gestión, consulta [Gestionar políticas de envío](/es/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE).
+Para más información sobre cómo crear una política de envío, consulta [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio). Para más información sobre gestión, consulta [Gestionar políticas de envío](/es/docs/tutorials/gestionar-politicas-de-envio).
 
 ## Política de envío y plantilla de envío
 
-Cada política de envío está vinculada a una [plantilla de envío](/es/tutorial/planilha-de-frete--tutorials_127), donde se registran detalles como:
+Cada política de envío está vinculada a una [plantilla de envío](/es/docs/tutorials/plantilla-de-flete), donde se registran detalles como:
 
 * Identificación de la transportadora
 * Valor de envío cobrado por la transportadora
-* Rangos de códigos postales o [polígonos](/es/tutorial/gerenciar-geolocalizacao--tutorials_138) válidos para envíos
+* Rangos de códigos postales o [polígonos](/es/docs/tutorials/gestionar-geolocalizacion) válidos para envíos
 
 Después de que se vincula la plantilla de envío a la política de envío, los datos pasan a formar parte de tu operación logística en VTEX.
 
 ## Primeras configuraciones logísticas
 
-Las configuraciones se pueden realizar a través del Admin VTEX o API. Si estás empezando a configurar tu [estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), sugerimos el siguiente orden de configuración:
+Las configuraciones se pueden realizar a través del Admin VTEX o API. Si estás empezando a configurar tu [estrategia de envío](/es/docs/tutorials/estrategia-de-envio), sugerimos el siguiente orden de configuración:
 
 | **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
 | :--- | :--- | :--- |
-| 1. Política de envío | [Crear una política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
-| 2. [Muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Gestionar muelle](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
-| 3. [Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Gestionar almacenes](/es/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 1. Política de envío | [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Muelle](/es/docs/tutorials/muelles) | [Gestionar muelle](/es/docs/tutorials/gestionar-el-muelle) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| 3. [Almacén](/es/docs/tutorials/almacen) | [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 

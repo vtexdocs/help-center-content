@@ -39,7 +39,7 @@ Quando o evento estiver ativado, todas as configurações ficam disponíveis par
 | :---: | :--- |
 | ID | ID do evento, identificador único do evento. |
 | Nome do evento | Nome do evento. |
-| UTM source | [UTM source](/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para rastrear dados do evento. |
+| UTM source | [UTM source](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) configurada para rastrear dados do evento. |
 | Minutos usados | Minutos de transmissão já decorridos, contados em tempo real. Os minutos só passam a ser contados a partir do início da transmissão do evento. |
 | Servidor de entrada | Código do servidor usado para conectar o evento entre diferentes lojas VTEX ou outras plataformas, como Facebook e YouTube. |
 | Chave do servidor | Identificação da chave do servidor usada para conectar o evento entre diferentes lojas VTEX ou outras plataformas, como Facebook e YouTube. |

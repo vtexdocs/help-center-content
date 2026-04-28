@@ -17,9 +17,9 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Essa dúvida é muito comum entre os lojistas VTEX. Como o CMS é um módulo antigo (que está sendo todo refeito) ele foi desenhado em uma época que o conteúdo não era fácil de ser manipulado. A nova plataforma dará mais liberdade e será intuitiva mas enquanto isso vamos desenhar aqui o passo-a-passo para você identificar o template de uma página específica.
 
-Antes é preciso explicar rapidamente a estrutura do **CMS Layout**, que fica no seguinte endereço: `{AccountName}.myvtex.com/admin/a`.
+Antes é preciso explicar rapidamente a estrutura do **CMS Portal (Legado)**, que fica no seguinte endereço: `{AccountName}.myvtex.com/admin/a`.
 
-A principal função do CMS Layout é permitir o gerenciamento do layout da sua loja. Nele que serão criados os Diretórios e Templates que darão vida ao seu e-commerce.
+A principal função do CMS Portal (Legado) é permitir o gerenciamento do layout da sua loja. Nele que serão criados os Diretórios e Templates que darão vida ao seu e-commerce.
 
 Tradicionalmente no mundo da tecnologia organizamos páginas e arquivos dentro de pastas, assim como no seu computador.
 

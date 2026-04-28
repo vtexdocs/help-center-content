@@ -19,37 +19,29 @@ At VTEX, it is possible to integrate with the Culqi payment provider. With this 
 
 To configure Culqi, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Store Settings > Payments > Settings**, or type **Settings** in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
-3. Type the name __Culqi__ in the search bar and click on the name of the provider.
-4. Fill in the __Application Key__, __Application Token__ and __Public Key__ fields with the data provided by Culqi.
-5. In the __Payment settlement__ field, select one of the following option:
-<ul>
-    	<li>**Use Behavior Recommended By The Payment Processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
-    	<li>**Automatic Capture Immediately After Payment Authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
-   		<li>**Automatic Capture Immediately After Anti-fraud Analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic Capture Immediately After Payment Authorization".</li>
-   		<li>**Scheduled: Schedules The Automatic Capture**: By selecting this option, the field **Scheduled time frame in hours for automatic capture** will be displayed, and it must be completed with the period in which the automatic capture will take place. This period must be in accordance with the limits allowed by the payment provider.</li>        
-   		<li>**Deactivated: Not Automatically Captured**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
-</ul>
-6. In __Aceptar tarjetas de crédito__, select whether you want to accept credit cards as a payment method.
-7. In __Aceptar YAPE__, select whether you want to accept [YAPE](https://www.yape.com.pe/) as a payment method.
-8. In __Aceptar billeteras móviles__, select whether you want to accept digital wallets as a payment method.
-9. In __Aceptar banca móvil o internet__, select whether you want to accept payments via mobile devices and internet banking.
-10. In __Aceptar agentes y bodegas__, select whether you want to accept payments via agents and bodegas (warehouses).
-11. In __Aceptar cuotéalo BCP__, select whether you want to accept payments in installments via [cuotéalo BCP](https://www.viabcp.com/cuotealo).
-12. In __Tiempo de expiración de pago__, select the period (in days) for payments to expire.
-13. In the __URL de logo__, __Tema elegido__, __RSA Id__, __Llave pública RSA__, __Usuario Webhook__ and __Password Webhook__ fields, enter the information provided by Culqi.
-14. In __Ativar divisão e enviar recebedores?__, select whether split payments will be available for the marketplace and sellers.
-15. Click `Save`.
+3. Type the name **Culqi** in the search bar and click on the name of the provider.
+4. Fill in the __App key__ and __App token__ fields with data provided by Culqi.
+5. If you wish to modify the identification name to be displayed for the Culqi provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
+6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
+7. In **Automatic Settlement** field, select one of the following options:
+- **Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).
+- **Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.
+- **Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".
+- **Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
+
+8. In **Provider Fields**, complete the field **platform** according to the provider's  instructions.
+9. Click `Save`.
 
 ## Setting up the payment condition
 
-1. In the VTEX Admin, go to __Store Settings__ > __Payment__ > __Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Payment Conditions__ tab, click on the `+` button.
-3. Choose the payment condition __Culqi__.
-4. Fill the __Rule Name__ field with a name of your choice for identification.
-5. Activate the condition in the __Status__ field.
-6. If you want to use an anti-fraud system, select the option __Use anti-fraud__.
+1. In the VTEX Admin, go to **Store Settings > Payment > Settings**, or type **Settings** in the search bar at the top of the page.
+2. In the **Payment Conditions** tab, click on the `+` button.
+3. Choose the payment condition **Culqi**.
+4. Fill the **Rule Name** field with a name of your choice for identification.
+5. Activate the condition in the **Status** field.
+6. If you want to use an anti-fraud system, select the option **Use anti-fraud**.
 7. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 8. Click `Save`.
 

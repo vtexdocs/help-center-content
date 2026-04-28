@@ -21,4 +21,4 @@ This functionality allows customers to configure the promotion’s use to countr
 
 Once the functionality is set up, the locations will be displayed in your store’s Admin Promotions module.
 
-For more details about Promotions, see our [track](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N).
+For more details about Promotions, see our [track](/en/docs/tracks/how-promotions-work).

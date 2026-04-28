@@ -28,7 +28,7 @@ Para configurar Cybersource LAC, siga os passos abaixo:
 7. Em __Campos do provedor__, selecione ou preencha os campos __Merchant ID__, __Secret Key__, __Shared Secret Key__, __SOAP Key__, __Domain (URL)__, __Merchant Category Code (MCC)__, __Company Name__, __Company Tax Id__, __Capture Setting__, __Acquiring Banks (Mexico)__, __Plan Type__, __Payer Authentication__, __Service Authentication__, __Auth Card Brands__, __Bank Slip Expiration Days (BR)__, __Has Network Token?__ e __Sandbox Mode__ conforme as instruções do provedor.
 8. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Cybersource LAC, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Cybersource LAC, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

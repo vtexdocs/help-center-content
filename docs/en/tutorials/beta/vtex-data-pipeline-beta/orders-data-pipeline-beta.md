@@ -45,8 +45,8 @@ This section includes the following information:
 
 |**Characteristic**|**Description**|
 | - | - |
-|**Data source**|The data of the order set come from the [OMS (Order Management System)](/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).|
-|**Availability**|Order data can be accessed through the [Orders report](/en/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) in the VTEX Admin and also through the[ Orders APIs](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Keep in mind that the data available through the API may not be structured exactly the same way as it is in the Data Pipeline dataset.|
+|**Data source**|The data of the order set come from the [OMS (Order Management System)](/en/docs/tutorials/orders-overview).|
+|**Availability**|Order data can be accessed through the [Orders report](/en/docs/tutorials/exporting-orders-in-orders-module) in the VTEX Admin and also through the[ Orders APIs](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Keep in mind that the data available through the API may not be structured exactly the same way as it is in the Data Pipeline dataset.|
 |**History**|The data is retained for two years, from 2022 for clients who already use the VTEX platform.|
 |**Minimum update interval**|One hour.|
 
@@ -108,6 +108,7 @@ The *latest* table stores the latest status of each order, including details suc
 |changesattachment_id|character varying(256)|ID of the customization attachment of the order.|
 |changesattachment_changesdat a|super|Details of changes made to the order.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|
+|seller_parent_account| character varying(100)| Outline the parent account of the given store. If the current store is the parent, then the value is null.|
 
 ## Table: `orders_historical`
 
@@ -167,6 +168,7 @@ The `historical` table stores a complete record of all order updates. The table 
 |changesattachment_id|character varying(256)|Unique identifier for a change operation related to the order.|
 |changesattachment_changesda ta|super|Details of changes made to the order, such as adding or removing items and other modifications.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|  
+|seller_parent_account| character varying(100)| Outline the parent account of the given store. If the current store is the parent, then the value is null.|
 
 ## Table: `orders_totals`
 
@@ -237,7 +239,7 @@ The *sellers* table stores the list of sellers related to each order. The table 
 |subsellerid|character varying(65535)|Identifier for a subseller or secondary seller associated with the order or operation.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|  
 
-# Table: `orders_rateandbenefitsidentifiers`
+## Table: `orders_rateandbenefitsidentifiers`
 
 The *rateandbenefitsidentifiers* table contains data about promotions applied to orders. The table fields are described below: 
 
@@ -349,6 +351,7 @@ The *items* table stores details about the individual items in each order, inclu
 |measurementunit|character varying(65535)|Unit of measure of the product.|
 |unitmultiplier|double precision|Unit multiplier for the product, used in price and quantity calculations.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|
+|uniqueid|character varying(65535)|Unique id of the given item, which can be used to join this row with other tables.|
 
 ## Table: `orders_extra_info`
 
@@ -422,10 +425,10 @@ The order dataset has correlations with the following sets of the VTEX data ecos
 
 ### Discover other datasets
 
-- [Inventory](/en/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegation](/en/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Payments](/en/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
-- [Prices](/en/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotions](/en/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](/en/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](/en/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Inventory](/en/docs/tutorials/inventory-data-pipeline-beta)
+- [Navegation](/en/docs/tutorials/navigation-data-pipeline)   
+- [Payments](/en/docs/tutorials/payments)   
+- [Prices](/en/docs/tutorials/prices-data-pipeline-beta)  
+- [Promotions](/en/docs/tutorials/promotions)
+- [Gift cards](/en/docs/tutorials/gift-card-data-pipeline)
+- [Bridge logs](/en/docs/tutorials/bridge-logs-data-pipeline)

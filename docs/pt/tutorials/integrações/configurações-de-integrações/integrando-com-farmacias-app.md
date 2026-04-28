@@ -39,10 +39,10 @@ Por fim, clique no botão **Salvar**.
 
 Depois, será necessário:
 
-1. [Criar coleção](/pt/tutorial/criando-colecao-de-produtos/) (apenas se sua loja ainda não possuir uma coleção que deseja atribuir ao marketplace);
+1. [Criar coleção](/pt/docs/tutorials/criando-colecao-de-produtos/) (apenas se sua loja ainda não possuir uma coleção que deseja atribuir ao marketplace);
 2. Criar grupo por departamento, categoria ou subcategoria;
 3. Criar grupo por marca;
-4. [Configurar a política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+4. [Configurar a política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
 ## Configurando afiliado
 

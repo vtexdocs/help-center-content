@@ -21,7 +21,7 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 
 1. Accede al Admin VTEX y dirígete a acesse **Storefront > Páginas**
 
-> ⚠️ Si tu tienda tiene múltiples políticas comerciales o es transfronteriza, selecciona el [binding](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) correspondiente a la tienda a la que desees añadir una nueva página de destino utilizando el menú desplegable que aparece en la parte superior derecha.
+> ⚠️ Si tu tienda tiene múltiples políticas comerciales o es transfronteriza, selecciona el [binding](/es/docs/tutorials/que-es-binding) correspondiente a la tienda a la que desees añadir una nueva página de destino utilizando el menú desplegable que aparece en la parte superior derecha.
 
 2.Haz clic en **CREAR NUEVA**.
 

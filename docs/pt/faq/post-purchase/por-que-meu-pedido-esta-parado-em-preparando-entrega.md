@@ -14,17 +14,17 @@ locale: pt
 legacySlug: por-que-meu-pedido-esta-parado-em-preparando-entrega
 ---
 
-`Preparando Entrega` é um status do fluxo de pedidos em que se espera o cadastro da nota fiscal para a fatura. O pedido ficará nesse status até que seu [faturamento](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) seja realizado, ou seja, até que a nota fiscal seja inserida no pedido.
+`Preparando Entrega` é um status do fluxo de pedidos em que se espera o cadastro da nota fiscal para a fatura. O pedido ficará nesse status até que seu [faturamento](/pt/docs/tracks/faturar-um-pedido) seja realizado, ou seja, até que a nota fiscal seja inserida no pedido.
 
 ## Faturamento no módulo Pedidos
 
-Para isso, é necessário fazer a inclusão da nota fiscal via API de [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) ou [manualmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) no Admin VTEX, e a nota deve conter o valor total do pedido, incluindo o frete. 
+Para isso, é necessário fazer a inclusão da nota fiscal via API de [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) ou [manualmente](/pt/docs/tracks/faturas-parciais) no Admin VTEX, e a nota deve conter o valor total do pedido, incluindo o frete. 
 
 Atente-se às seguintes informações, para garantir que o faturamento foi feito corretamente:
 
 - A nota fiscal deve conter o valor total do pedido, incluindo o frete.  
 - Se o valor da nota fiscal já estiver com o valor correto e total do pedido, é preciso fazer o reenvio da nota fiscal.  
-- Caso a nota fiscal inserida não contenha o valor completo, será necessário inserir uma nova [nota fiscal parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) com o valor faltante. Essa nova nota deve ter um número diferente da nota fiscal já cadastrada no pedido.
+- Caso a nota fiscal inserida não contenha o valor completo, será necessário inserir uma nova [nota fiscal parcial](/pt/docs/tracks/faturas-parciais) com o valor faltante. Essa nova nota deve ter um número diferente da nota fiscal já cadastrada no pedido.
 
 ### Integração com marketplace
 

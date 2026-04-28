@@ -39,5 +39,5 @@ O objetivo da melhoria é auxiliar clientes VTEX no gerenciamento de imagens no 
 
 Nenhuma ação é necessária. Agora, blocos com a opção nativa de envio de imagem têm o Image Widget.
 
-Para obter mais informações, verifique nossa [documentação do Image Widget](/pt/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
+Para obter mais informações, verifique nossa [documentação do Image Widget](/pt/docs/tutorials/image-widget).
 

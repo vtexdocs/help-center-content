@@ -17,15 +17,15 @@ order: 3
 
 Após finalizar as configurações básicas e a instalação do aplicativo do VTEX Sales App em um dispositivo, é importante realizar testes antes de começar a utilizar o VTEX Sales App em suas lojas físicas. Neste artigo, você vai conhecer as boas práticas para testes de uso do VTEX Sales App.
 
-![testes-instore-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/boas-praticas-de-testes-instore_1.png)
+![testes-instore-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/boas-praticas-de-testes-instore_1.png)
 
 ## Testes de retaguarda
 
 Antes de introduzir o VTEX Sales App a uma de suas lojas físicas, a equipe de infraestrutura da sua marca deve realizar testes de retaguarda, ou seja, testes de funcionamento fora do cenário da loja.
 
-Primeiro, recomendamos testar todo o processo de criar pedidos no VTEX Sales App com cada uma das condições de pagamento configuradas na conta. Para mais informações sobre esse processo, leia os artigos seguintes da trilha [VTEX Sales App - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2l56Bc2V1Xjv93JddsdEMi).
+Primeiro, recomendamos testar todo o processo de criar pedidos no VTEX Sales App com cada uma das condições de pagamento configuradas na conta. Para mais informações sobre esse processo, leia os artigos seguintes da trilha [VTEX Sales App - Usando o app](/pt/docs/tracks/identificacao-do-cliente).
 
-Em seguida, é importante realizar testes de cancelamentos de pedidos utilizando as condições de pagamento configuradas. Para mais informações sobre o cancelamento de pedidos no VTEX Sales App, leia o artigo [Cancelar e estornar um pedido no VTEX Sales App](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/UAahHrTwypk1HhoyyMd2W).
+Em seguida, é importante realizar testes de cancelamentos de pedidos utilizando as condições de pagamento configuradas. Para mais informações sobre o cancelamento de pedidos no VTEX Sales App, leia o artigo [Cancelar e estornar um pedido no VTEX Sales App](/pt/docs/tracks/cancelar-e-estornar-um-pedido-no-vtex-sales-app).
 
 ## Testes em lojas
 

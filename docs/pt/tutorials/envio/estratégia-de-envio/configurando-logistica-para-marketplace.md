@@ -20,11 +20,11 @@ As configurações necessárias são aquelas padrões para a logística da loja.
 
 1. [Crie ou edite uma doca](/pt/tutorial/como-cadastrar-doca) associando a política comercial;
 2. Associe uma [transportadora](/pt/tutorial/gerenciar-transportadora) a esta doca;
-3. Verifique se existe algum [estoque](/pt/tutorial/gerenciar-estoque) que se associe a esta doca.
+3. Verifique se existe algum [estoque](/pt/docs/tutorials/gerenciar-estoque) que se associe a esta doca.
 
 Após estes passos, é necessário aguardar a atualização, que pode levar alguns minutos.
 
-Caso seja utilizada uma política comercial que já possui a logística ativa, não são necessárias as ações acima, é preciso apenas que ocorra a [indexação dos produtos](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace).
+Caso seja utilizada uma política comercial que já possui a logística ativa, não são necessárias as ações acima, é preciso apenas que ocorra a [indexação dos produtos](/pt/docs/tutorials/entendendo-a-catalogacao-de-produtos-para-o-marketplace).
 
 ## Como não usar o frete da sua loja
 

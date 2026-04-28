@@ -15,42 +15,20 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+La Tarjeta de Débito Virtual de Caixa es un medio de pago disponible para todos los clientes VTEX. Con esta tarjeta, los consumidores finales pueden hacer sus compras con el auxilio de emergencia otorgado a través de Caixa Econômica por parte del Gobierno Federal.
 
-La Tarjeta de Débito Virtual de Caixa es un medio de pago disponible para todos los clientes VTEX. 
+Además, la Tarjeta de Débito Virtual de Caixa soporta apenas pagos realizados con tarjetas de crédito cuyo número comienza con __"5067228"__ o __"5067229"__. Cualquier otra tarjeta no será reconocida por el sistema.
 
-Con esta tarjeta, los consumidores finales pueden hacer sus compras con el auxilio de emergencia otorgado a través de Caixa Econômica por parte del Gobierno Federal. 
+## Condiciones de pago
 
-Además, la Tarjeta de Débito Virtual de Caixa soporta apenas pagos realizados con tarjetas de crédito cuyo número comienza con __"5067228"__ o __"5067229"__. Cualquier otra tarjeta no será reconocida por el sistema. 
+Para configurar la Cartão de Débito Virtual da Caixa como condición de pago sigue los pasos a continuación:
 
-En este artículo, explicaremos cómo configurarla en su comercio electrónico.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla Condiciones de pago, haga clic en el botón `+`.
+3. Haga clic en __Cartão de débito virtual Caixa__.
+4. Active la condición en el campo __Status__.
+5. En __Proceso con proveedor__, seleccione uno de los proveedores disponibles de la lista. Si el proveedor aún no está configurado en tu tienda, accede a la página __Proveedores__ para registrar la información necesaria.
+6. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
+7. Haga clic en __Guardar__.
 
-## Afiliaciones de Gateway
-
-Actualmente, la Tarjeta de Débito Virtual de Caixa se conecta a cinco
-afiliaciones de Gateway: Adyen, Braspag, Cielo, Mundipagg y Rede. 
-
-Dicho esto, el primer paso es definir qué afiliaciones del Gateway procesarán los pagos realizados con la Tarjeta de Débito Virtual y configurarlas. 
-
-El proceso de configuración de las afiliaciones es similar. Sin embargo, la información requerida en cada formulario es diferente. Para conocer los detalles de cada configuración, consulte los siguientes tutoriales:
-
-- [Adyen](/es/tutorial/como-configurar-o-gateway-adyen-na-vtex--tutorials_2337?locale=pt).
-- [Braspag](/es/tutorial/configurar-o-gateway-braspag--7tQmfLMvtYEsWoaaAaeKSC).
-- [CieloV3](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=pt).
-- [Mundi](/es/tutorial/configurar-gateway-mundi--2yn9dKzvZOF5tn4RCX2Nbq?locale=pt).
-- [ERedeRest](/es/tutorial/configurar-adquirente-rede-con-erederest?locale=pt).
-
-## Condiciones de pago 
-
-Luego, usted deberá configurar la condición de pago. 
-
-Consulte las instrucciones:
-
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la parte superior de la página, haga clic en la pestaña __Planes de pago__.
-3. En la parte superior derecha de la pantalla, haga clic en el __botón verde "+"__.
-4. En el grupo __"Tarjeta de Débito"__, seleccione la opción __"Tarjeta de Débito Virtual Caixa"__. 
-5. En __"Proceso con la afiliación"__, seleccione la __afiliación__ deseada.
-6. En el lado derecho de la pantalla, rellene el __formulario__.  
-7. Haga clic en el botón azul __"Guardar"__.
-
-De esta manera, una pestaña de "Tarjeta de Débito Virtual de Caixa" se mostrará entre las opciones de pago presentadas en la página de Checkout.
+Después de seguir los pasos indicados, Cartão de débito virtual Caixa puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

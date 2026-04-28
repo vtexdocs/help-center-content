@@ -21,4 +21,4 @@ Essa funcionalidade permite que o usuário segmente o uso de uma promoção para
 
 Conferido isso, as localidades serão apresentadas no Admin da loja no módulo Promoções.
 
-Para saber mais detalhes sobre Promoções, veja nossa [track](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N).
+Para saber mais detalhes sobre Promoções, veja nossa [track](/pt/docs/tracks/como-funcionam-as-promocoes).

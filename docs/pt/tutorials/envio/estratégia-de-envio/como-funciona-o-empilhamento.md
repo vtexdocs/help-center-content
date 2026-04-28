@@ -19,7 +19,7 @@ Ao calcular a soma das medidas de mais de um SKU, o sistema possui uma inteligê
 
 `(Menor lado x Quantidade de SKUs) + Largura + Comprimento`
 
-A quebra de pacotes só será permitida caso esteja configurada a [divisão de carga](/pt/tutorial/como-funciona-a-divisao-de-carga/).
+A quebra de pacotes só será permitida caso esteja configurada a [divisão de carga](/pt/docs/tutorials/como-funciona-a-divisao-de-carga/).
 
 ## Medida da maior aresta
 

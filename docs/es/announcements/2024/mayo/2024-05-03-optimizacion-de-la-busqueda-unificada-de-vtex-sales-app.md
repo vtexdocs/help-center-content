@@ -13,6 +13,9 @@ locale: es
 legacySlug: optimizacion-de-la-busqueda-unificada-de-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Optimización de la búsqueda unificada en VTEX Sales App mejora la experiencia del usuario al navegar y buscar productos.'
+tags:
+  - Mejora
+  - VTEX Sales App
 ---
 
 Hemos mejorado la búsqueda unificada de VTEX Sales App con el fin de optimizar la experiencia del usuario al navegar y buscar productos.
@@ -41,4 +44,4 @@ Hemos desarrollado esta mejora principalmente para los vendedores de tiendas fí
 
 ## ¿Qué se necesita hacer?
 
-No se requiere ninguna acción; la funcionalidad se aplicará automáticamente en todas las tiendas VTEX que utilizan VTEX Sales App. Para más información, accede al artículo [Búsqueda unificada en VTEX Sales App](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
+No se requiere ninguna acción; la funcionalidad se aplicará automáticamente en todas las tiendas VTEX que utilizan VTEX Sales App. Para más información, accede al artículo [Búsqueda unificada en VTEX Sales App](/es/docs/tracks/busqueda-unificada-en-vtex-sales-app). 

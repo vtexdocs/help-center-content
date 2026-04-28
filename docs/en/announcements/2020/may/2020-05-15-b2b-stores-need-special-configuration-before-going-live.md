@@ -21,7 +21,7 @@ __To our clients or partners launching B2B stores:__ B2B stores, similarly to st
 
 ## Which stores are affected?
 
-B2B stores. That is, every store that has a restricted commercial policy (conditional rule), mainly new stores. Click [here](/en/tutorial/setting-up-b2b-on-vtex--tutorials_238) to learn more about B2B stores.
+B2B stores. That is, every store that has a restricted commercial policy (conditional rule), mainly new stores. Click [here](/en/docs/tutorials/setting-up-b2b-on-vtex) to learn more about B2B stores.
 
  
 ## How to proceed

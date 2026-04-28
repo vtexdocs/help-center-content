@@ -20,7 +20,7 @@ Este escenario se caracteriza por la inserción del albarán y la factura del pe
 
 Como en cualquier paso de la compra, algo puede ocurrir con la integración. Sin embargo, eso siempre estará registrado en el bridge, para ayudar a comprender y saber cómo corregir.
 
-[Sepa cómo analizar errores de integración en el Bridge.](/es/tutorial/como-verificar-la-integracion-en-bridge)
+[Sepa cómo analizar errores de integración en el Bridge.](/es/docs/tutorials/como-verificar-la-integracion-en-bridge)
 
 ## Inserte la clave de acceso con el albarán
 
@@ -34,5 +34,5 @@ La clave de acceso de la factura es un instrumento auxiliar para la consulta de 
 
 __ ¡Recuerde! __ Este elemento de información se crea cuando se genera la factura fiscal y funciona en ERP. Si tiene uno, solicítelo.
 
-Este valor puede ser ingresado manualmente por el administrador o por el [API de notificación de factura](https://developers.vtex.com/reference/invoice#invoicenotification), en el campo **invoiceKey**.
+Este valor puede ser ingresado manualmente por el administrador o por el [API de notificación de factura](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), en el campo **invoiceKey**.
 

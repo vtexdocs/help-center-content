@@ -27,7 +27,7 @@ This promotion type includes all the options of a Regular promotion plus:
 
 * Gift delivered by seller
 
-Before creating a campaign promotion, you need to create the [campaign audience](/en/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) to define the audience that the promotion will apply to. You can select eligible customer groups and configure the criteria that will trigger the promotion.
+Before creating a campaign promotion, you need to create the [campaign audience](/en/docs/tutorials/creating-a-campaign-audience) to define the audience that the promotion will apply to. You can select eligible customer groups and configure the criteria that will trigger the promotion.
 
 **Example:** If you create a campaign audience that targets customers who add product A to the cart, you can configure the campaign promotion so that this audience gets a discount on product B.
 
@@ -69,15 +69,15 @@ In the **Sellers** section, specify whether the promotion will apply to all *sel
 * **Equal to:** Applies the promotion only to the specified *sellers*. Enter the identifiers in the corresponding field.  
 * **Different from:** Applies the promotion to all *sellers* except the ones you select.
 
-### Selecting trade policies
+### Selecting sales channels
 
-In the **Trade policies** section, define the trade policies the promotion will apply to:
+In the **Sales channels** section, define the sales channels the promotion will apply to:
 
-* **All**: Applies the promotion to all trade policies.
+* **All**: Applies the promotion to all sales channels.
 
-* **Equal to:** Applies the promotion only to the selected trade policies.
+* **Equal to:** Applies the promotion only to the selected sales channels.
 
-* **Different from:** Applies the promotion to all trade policies except the ones you select.
+* **Different from:** Applies the promotion to all sales channels except the ones you select.
 
 Selecting the campaign audience
 Define the audiences that will have access to this promotion. The promotion will only be applied to users who meet the conditions configured in the selected audiences.
@@ -150,5 +150,5 @@ Set the maximum number of times the promotion can be applied in the store or per
 
 This section allows you to define the visual highlight of the campaign promotion for the products displayed in the store.
 
-* **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure visualization in the store CMS module.](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295)   
+* **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure visualization in the store CMS module.](/en/docs/tutorials/configuring-promotions-with-a-highlightflag)   
 * **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.

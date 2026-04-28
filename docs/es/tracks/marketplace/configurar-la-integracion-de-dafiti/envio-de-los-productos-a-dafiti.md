@@ -24,7 +24,7 @@ Sigue estos pasos para realizar el mapeo:
 3. [Rellenar la plantilla de mapeo](#3-rellenar-la-plantilla-de-mapeo)
 4. [Cargar la plantilla de mapeo](#4-cargar-la-plantilla-de-mapeo)
 
-> ⚠️ Para registrar un producto en VTEX, es obligatorio vincular el producto a una marca. Sin embargo, para evitar problemas con el envío de los productos, debes [ rellenar los nombres de las marcas aceptadas por Dafiti](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) en el campo **Marca** del producto que enviarás. Consulta el [glosario de marcas](https://www.dafiti.com.co/marcas/) de Dafiti para conocer las marcas aceptadas.
+> ⚠️ Para registrar un producto en VTEX, es obligatorio vincular el producto a una marca. Sin embargo, para evitar problemas con el envío de los productos, debes [ rellenar los nombres de las marcas aceptadas por Dafiti](/es/docs/tutorials/agregar-o-editar-productos) en el campo **Marca** del producto que enviarás. Consulta el [glosario de marcas](https://www.dafiti.com.co/marcas/) de Dafiti para conocer las marcas aceptadas.
 
 ## 1. Descargar la plantilla de consulta de Dafiti
 

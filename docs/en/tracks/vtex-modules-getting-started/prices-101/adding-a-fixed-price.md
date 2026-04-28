@@ -18,7 +18,7 @@ order: 10
 There are three ways to create a fixed price:
 
 - [Via the Pricing module in the Admin](#admin)
-- [Via the fixed price template](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Via the fixed price template](/en/docs/tracks/exporting-and-importing-via-a-price-spreadsheet)
 - [Via Pricing API](#pricing-api)
 
 ## Admin
@@ -64,7 +64,7 @@ To delete an existing fixed price, follow the steps below.
 4. Click on the fixed price.
 5. Click on the `Remove`.
 
-> ℹ️ It is not possible to perform bulk deletion of fixed prices using the spreadsheet. The deletion must be done manually, following the steps above, or via the API [Delete fixed prices on a price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-).
+> ℹ️ It is not possible to perform bulk deletion of fixed prices using the spreadsheet. The deletion must be done manually, following the steps above, or via the API [Delete fixed prices on a price table or sales channel](https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-).
 
 ## Pricing API
 
@@ -72,4 +72,4 @@ To create a fixed price via API, use the [Create or update price or fixed price]
 
 ### Learn more
 
-* [Scheduling prices](/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk)
+* [Scheduling prices](/en/docs/tutorials/scheduling-prices)

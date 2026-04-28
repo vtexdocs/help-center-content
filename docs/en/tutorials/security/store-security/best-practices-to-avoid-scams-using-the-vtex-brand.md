@@ -34,7 +34,7 @@ Scammers often try to convince you to act immediately, giving you a short deadli
 
 ## Protect login credentials
 
-Keep [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), [user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens), and VTEX [login](/en/tutorial/authentication--21CkKHLKP1o41lUpGhuRUs#login) credentials such as email, password, and access codes safe. Never share personal and confidential information, store data, codes, or any other sensitive information with third parties.
+Keep [application keys](/en/docs/tutorials/api-keys), [user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens), and VTEX [login](/en/docs/tutorials/authentication#login) credentials such as email, password, and access codes safe. Never share personal and confidential information, store data, codes, or any other sensitive information with third parties.
 
 Scammers may try to get access to your account to perform fraudulent activities on behalf of your company. Before taking action or providing any information, ensure that the communication is indeed from VTEX.
 
@@ -42,7 +42,7 @@ Scammers may try to get access to your account to perform fraudulent activities 
 
 If you receive offers claiming to be part of an incentive program in VTEX's name, do not follow the sender's instructions. VTEX does not offer incentive programs or request payments from individuals or companies outside the platform's service agreement terms.
 
-Always check the URL before clicking a link or accessing a page to make sure it is one of VTEX's [official communication channels](#verify-the-authenticity-of-the-communication). If you have any questions, contact our [Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) team.
+Always check the URL before clicking a link or accessing a page to make sure it is one of VTEX's [official communication channels](#verify-the-authenticity-of-the-communication). If you have any questions, contact our [Support](/en/docs/tutorials/how-does-vtex-support-work) team.
 
 ## Check VTEX's security resources
 
@@ -50,4 +50,4 @@ VTEX offers security resources and guidelines to help its clients protect their 
 
 ## Report suspicious activities
 
-If you suspect fraudulent activity using the VTEX brand, report it immediately to [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe). The VTEX Security team will then investigate the matter and take the necessary actions to prevent and combat potential fraud.
+If you suspect fraudulent activity using the VTEX brand, report it immediately to [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work). The VTEX Security team will then investigate the matter and take the necessary actions to prevent and combat potential fraud.

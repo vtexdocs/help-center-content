@@ -33,4 +33,4 @@ Now, you can add Google Pay as a payment method to your store, giving customers 
 
 First, read the [Google Pay and Wallet APIs Acceptable Use Policy](https://payments.developers.google.com/terms/aup) to check the types of products and services that cannot be used with Google Pay.
 
-To enable Google Pay as a payment method in your store, follow our [Google Pay](/en/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT) article.
+To enable Google Pay as a payment method in your store, follow our [Google Pay](/en/docs/tracks/google-pay) article.

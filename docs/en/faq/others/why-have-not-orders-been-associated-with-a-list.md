@@ -18,4 +18,4 @@ If orders placed in your store are not being associated with their respective li
 
 On buttons used to close the purchase that don't use the VTEX native control, you must pass the `&gr={listId}` parameter to associate the order with the list that the client wants.
 
-Using the [VTEX native control](/en/tutorial/buy-button-control) (`<vtex.cmc:BuyButton/>`) to render the purchase button, the order is correctly associated with the desired list.
+Using the [VTEX native control](/en/docs/tutorials/buy-button-control) (`<vtex.cmc:BuyButton/>`) to render the purchase button, the order is correctly associated with the desired list.

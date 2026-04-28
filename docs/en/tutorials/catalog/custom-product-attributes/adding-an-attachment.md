@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-Attachments can be used to [complement a product with custom information](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm). To add an attachment, go to VTEX Admin and follow the step-by-step instructions below.
+Attachments can be used to [complement a product with custom information](/en/docs/tutorials/what-is-an-attachment). To add an attachment, go to VTEX Admin and follow the step-by-step instructions below.
 
 1. In the VTEX Admin, go to **Catalog** , or type **Catalog** in the search bar at the top of the page.
 2. Click **Custom product attributes**.

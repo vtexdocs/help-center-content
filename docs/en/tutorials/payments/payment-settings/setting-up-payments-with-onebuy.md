@@ -41,7 +41,7 @@ To configure OneBuy, follow the steps below:
 5. The __Process with affiliation__ field will already be filled by the _OneBuy_ option.
 6. If there is an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Usar Anti-Fraud__ box.
 7. Choose whether you want payments to be made in cash or installments.
-8. If you wish, you can also opt for a [special payment condition](/en/tutorial/special-conditions).
+8. If you wish, you can also opt for a [special payment condition](/en/docs/tutorials/special-conditions).
 9. Click __Save__.
 
 After following the steps indicated above, OneBuy will appear at your store checkout as a payment option for your customers to use.

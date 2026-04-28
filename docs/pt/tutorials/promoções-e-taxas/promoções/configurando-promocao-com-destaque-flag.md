@@ -3,7 +3,7 @@ title: 'Configurar promoção com destaque / flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2025-09-29T17:45:04.455Z
+updatedAt: 2026-03-25T17:45:04.455Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
@@ -27,20 +27,17 @@ Neste guia, você encontrará as seguintes seções:
 - [Restrições](#restricoes)
 - [Configurar a promoção](#configurar-a-promocao)
 - [Destaque de promoções no Store Framework](#destaque-de-promocoes-no-store-framework)
-- [Destaque de promoções no CMS Portal Legado](#destaque-de-promocoes-no-cms-portal-legado)
+- [Destaque de promoções no CMS Portal (Legado)](#destaque-de-promocoes-no-cms-portal-legado)
      - [Template de página](#template-de-pagina)
      - [Template de prateleira](#template-de-prateleira)
 
 ## Promoções elegíveis para destaque
 
-O destaque de promoção pode ser aplicado em diferentes tipos de promoções e descontos. Esse destaque será exibido nas prateleiras  e páginas de produtos, alertando os clientes que o item faz parte de uma promoção especial.
+O destaque de promoção permite exibir uma indicação visual nas prateleiras e nas páginas de produto, informando que o item faz parte de uma promoção ativa.
 
-Os seguintes tipos de descontos são elegíveis para a aplicação de um destaque:
+Atualmente, a opção Destacar nos produtos está disponível em todos os tipos de promoção.
 
-- [Desconto percentual](/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): oferece uma redução percentual no valor do produto.
-- **Brinde**: oferece um produto extra sem custo ao cliente, ao comprar um determinado item ou atingir um valor mínimo de compra.
-
-Para mais informações, acesse os artigos da seção [Promoções](/pt/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
+No entanto, a exibição desse destaque não depende do tipo de promoção configurada. Em casos em que a promoção depende de informações que ainda não estão disponíveis no momento em que as prateleiras ou páginas de produto são carregadas, o destaque não é exibido.
 
 ## Restrições
 
@@ -68,15 +65,15 @@ Siga as instruções abaixo para configurar o destaque nas promoções de sua lo
 6. Prossiga para as instruções correspondentes à tecnologia de frontend utilizada por sua loja:
 
 - [Store Framework](#destaque-de-promocoes-no-store-framework)
-- [CMS Portal Legado](#destaque-de-promocoes-no-cms-portal-legado)
+- [CMS Portal (Legado)](#destaque-de-promocoes-no-cms-portal-legado)
 
 ## Destaque de promoções no Store Framework
 
 Para lojas desenvolvidas com Store Framework, após configurar o destaque da promoção, siga as instruções da documentação do componente [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights).
 
-## Destaque de promoções no CMS Portal Legado
+## Destaque de promoções no CMS Portal (Legado)
 
-Para lojas CMS Portal Legado, após configurar o destaque da promoção, configure o [template de página](#configurar-o-template-de-pagina) e o [template de prateleira](#configurar-o-template-de-prateleira) no módulo CMS. Além disso, seu CSS deve estar configurado para essa função.
+Para lojas CMS Portal (Legado), após configurar o destaque da promoção, configure o [template de página](#configurar-o-template-de-pagina) e o [template de prateleira](#configurar-o-template-de-prateleira) no módulo CMS. Além disso, seu CSS deve estar configurado para essa função.
 
 ### Template de página
 

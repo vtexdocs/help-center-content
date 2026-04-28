@@ -27,11 +27,11 @@ A VTEX desenvolveu a app _Facebook Business Extension e Conversions API_, que fa
 
 ## Compatibilidade
 
-A app _Facebook Business Extension e Conversions API_ tem compatibilidade total com lojas que operam com VTEX IO, compatibilidade parcial com as lojas que são CMS Legado ou [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). Para identificar em qual modelo sua loja opera, acesse [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). 
+A app _Facebook Business Extension e Conversions API_ tem compatibilidade total com lojas que operam com VTEX IO, compatibilidade parcial com as lojas que são CMS Portal (Legado) ou [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). Para identificar em qual modelo sua loja opera, acesse [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). 
 
 Saiba mais sobre a configuração necessária para cada uma em nosso guia [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) no Developer Portal.
 
-> ⚠️ Na VTEX, existe um [guia de integração com Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc). No entanto, a integração com a app *Facebook Business Extension e Conversions API* deve ser sua escolha padrão, pois o FBE é a solução mais completa do Facebook. Independente de ter a outra integração configurada, você deve prosseguir normalmente com a configuração desta integração.
+> ⚠️ Na VTEX, existe um [guia de integração com Facebook](/pt/docs/tracks/facebook). No entanto, a integração com a app *Facebook Business Extension e Conversions API* deve ser sua escolha padrão, pois o FBE é a solução mais completa do Facebook. Independente de ter a outra integração configurada, você deve prosseguir normalmente com a configuração desta integração.
 
 ## Pixel do Facebook
 

@@ -25,7 +25,7 @@ Para configurar Vindi, siga os passos abaixo:
 4. Nos campos __Application Key__ e __Application Token__, insira as informações que fornecidas pela Vindi.
 5. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Vindi, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Vindi, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

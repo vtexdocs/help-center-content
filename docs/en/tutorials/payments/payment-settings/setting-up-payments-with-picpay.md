@@ -15,14 +15,14 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-PicPay is a [digital wallet](/en/faq/what-is-an-e-wallet) that allows transfers between users, including merchants. Your customer chooses to pay with it and receives a code to scan using the smartphone application.
+PicPay is a [digital wallet](/en/docs/tutorials/what-is-an-e-wallet) that allows transfers between users, including merchants. Your customer chooses to pay with it and receives a code to scan using the smartphone application.
 
 To configure PicPay, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
-3. Type the name __PicPay__ in the search bar and click on the name of the provider.
-4. Fill in the _Application Key_ and _Application Token_ fields with your __PicPay__ account information.
+3. Type the name **PicPay** in the search bar and click on the name of the provider.
+4. Fill in the **App key** and **App token** fields with your **PicPay** account information.
 5. Click `Save`.
 
 ## Setting up the payment condition
@@ -33,7 +33,7 @@ To configure PicPay, follow the steps below:
 4. Click the __Status__ button to enable this payment condition.
 5. If there's an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Use Anti-Fraud__ box.
 6. Choose whether the payments will be cash or installments.
-7. You can also set up [special payment terms](/en/tutorial/special-conditions).
+7. You can also set up [special payment terms](/en/docs/tutorials/special-conditions).
 8. Click __Save__.
 
 After following the steps indicated above, PicPay will appear at your store checkout as a payment option. After clicking __Finalize Purchase__, a code will be displayed for your customer to scan with the mobile application and make the payment.

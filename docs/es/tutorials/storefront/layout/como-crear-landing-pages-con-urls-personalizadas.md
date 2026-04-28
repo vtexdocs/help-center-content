@@ -18,7 +18,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 > ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - búsqueda VTEX y VTEX Intelligent Search. Este artículo hace referencia a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 El buscador de VTEX es muy personalizable, siendo posible adaptar a sus controles las necesidades más complejas. 

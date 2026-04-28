@@ -33,4 +33,4 @@ Oferecer mais possibilidades de entrega para pedidos de assinatura gera liberdad
 
 ## O que precisa ser feito?
 
-Para disponibilizar pontos de retirada para pedidos de assinatura, você precisa cumprir os requisitos logísticos listados no artigo [Pontos de retirada para pedidos de assinatura (Beta)](/pt/tutorial/pontos-de-retirada-para-pedidos-de-assinatura-beta--csIqB6iBh4QNIFdEj0nVv).
+Para disponibilizar pontos de retirada para pedidos de assinatura, você precisa cumprir os requisitos logísticos listados no artigo [Pontos de retirada para pedidos de assinatura (Beta)](/pt/docs/tutorials/pontos-de-retirada-para-pedidos-de-assinatura).

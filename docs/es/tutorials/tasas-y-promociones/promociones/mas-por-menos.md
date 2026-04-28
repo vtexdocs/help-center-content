@@ -78,7 +78,7 @@ En esta sección se establecen las reglas de la promoción indicando cuántos pr
 
 - **SKUs:** agrega los SKUs específicos que formarán parte de la promoción, introduciendo los identificadores de producto directamente en el campo. El límite para crear una promoción de compra más, paga menos condicionada por SKUs es de 100 SKUs.
 
-- **Colecciones:** seleccione una [colección](/es/tutorial/criando-colecao-de-produtos--tutorials_244) de productos. Esta opción simplifica la gestión de promociones para grupos de ítems con características similares.
+- **Colecciones:** seleccione una [colección](/es/docs/tutorials/creando-colecciones-de-productos) de productos. Esta opción simplifica la gestión de promociones para grupos de ítems con características similares.
 
 - **El cliente se lleva [Y] de los [X] productos con descuento:** define cuántos productos con descuento puede llevarse el cliente cuando alcanza la cantidad mínima configurada. Ingresa el número en el campo correspondiente. Por ejemplo, en una promoción "Compra 3 por el precio de 2", configura la regla para que el cliente se lleve 2 productos con descuento.
 
@@ -121,7 +121,7 @@ Para agregar una condición a la promoción sigue las instrucciones a continuaci
   - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
   - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.
 
-- **Parámetro UTM:** permite configurar la promoción para que se aplique cuando se acceda al sitio web mediante una URL con [parámetros UTM](/es/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) o cuando se utilice un cupón asociado a esos parámetros. Define los parámetros UTM siguiendo las reglas de formato, utilizando solo letras, números, guiones y guiones bajos. Define los siguientes parámetros si es necesario:
+- **Parámetro UTM:** permite configurar la promoción para que se aplique cuando se acceda al sitio web mediante una URL con [parámetros UTM](/es/docs/tutorials/que-son-las-utms-internas) o cuando se utilice un cupón asociado a esos parámetros. Define los parámetros UTM siguiendo las reglas de formato, utilizando solo letras, números, guiones y guiones bajos. Define los siguientes parámetros si es necesario:
   - **Fuente UTM:** el descuento se aplica al navegar utilizando el parámetro utm_source configurado.
   - **Campaña UTM:** el descuento se aplica al navegar utilizando el parámetro utm_campaign configurado.
   - **Crear cupón a partir de los parámetros UTM anteriores:** permite generar un cupón con los parámetros UTM ingresados en los campos `Fuente UTM` y `Campaña UTM`.
@@ -155,7 +155,7 @@ Consulta en esta sección cómo destacar la promoción en la página de producto
 
 - **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directamente en las páginas de producto.
 
-> ⚠️ Recuerda [configurar la visualización en el módulo CMS](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Recuerda [configurar la visualización en el módulo CMS](/es/docs/tutorials/configurando-promocion-con-destaque-flag).
 
 - **Información adicional:** haz clic en `Crear` para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 

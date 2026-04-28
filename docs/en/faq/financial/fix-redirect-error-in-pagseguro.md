@@ -14,7 +14,7 @@ locale: en
 legacySlug: fix-redirect-error-in-pagseguro
 ---
 
-> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 If you are having "redirect problems" using PagSeguro, it's likely that PagSeguro's *redirect* is configured incorrectly.
 
@@ -38,7 +38,7 @@ To fix the problem, there are two options: Set the PagSeguro *with redirect* in 
 3. Click on the __PagSeguro__ condition.
 4. In the __Status__ flag, select the __Active__ option.
 5. In __Process with affiliation__, select the __PagSeguro__ affiliation registered in the previous step.
-6. Complete the other desired fields for the [payment condition setting](/en/tutorial/how-to-configure-payment-conditions).
+6. Complete the other desired fields for the [payment condition setting](/en/docs/tutorials/how-to-configure-payment-conditions).
 7. Click __Save__.
 
 ## Setting up PagSeguro *without redirect*
@@ -56,7 +56,7 @@ To fix the problem, there are two options: Set the PagSeguro *with redirect* in 
 
 1. After successfully setting up the Gateway Affiliation in the previous step, click on the __Payment Conditions__ tab.
 2. Click the __+__ button in the upper right corner of the screen.
-3. Click the desired payment condition. In the case of PagSeguro Affiliation without redirect, this can be a [credit card](/en/tutorial/how-to-configure-payment-conditions) or a [bank slip](/en/tutorial/how-to-configure-a-bank-slip), for example.
+3. Click the desired payment condition. In the case of PagSeguro Affiliation without redirect, this can be a [credit card](/en/docs/tutorials/how-to-configure-payment-conditions) or a [bank slip](/en/docs/tutorials/how-to-configure-a-bank-slip), for example.
 4. In the __Status__ flag, select the __Active__ option.
 5. Under __Process with affiliation__, select the __PagSeguro without redirect__ affiliation registered in the previous step.
 6. Click __Save__.

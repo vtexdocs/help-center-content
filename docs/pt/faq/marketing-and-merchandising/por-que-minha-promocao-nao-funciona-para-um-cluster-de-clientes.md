@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-minha-promocao-nao-funciona-para-um-cluster-de-clientes
 ---
 
-Dentro da plataforma da VTEX, existe a possibilidade de aplicar uma [promoção](/pt/tutorial/criando-promocao-para-um-cluster-de-clientes) para apenas um determinado [cluster](/pt/faq/como-criar-um-cluster-de-clientes). Ou seja, para apenas um grupo específico de clientes.
+Dentro da plataforma da VTEX, existe a possibilidade de aplicar uma [promoção](/pt/docs/tutorials/criando-promocao-para-um-cluster-de-clientes) para apenas um determinado [cluster](/pt/docs/tutorials/como-criar-um-cluster-de-clientes). Ou seja, para apenas um grupo específico de clientes.
 
 Existem casos, porém, em que essa promoção não é visualizada por alguns compradores. 
 

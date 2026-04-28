@@ -20,7 +20,7 @@ Este guia orienta como integrar com a Dafiti através do conector desenvolvido p
 Após a conclusão do [cadastro no portal da Dafiti](https://www.dafiti.com.br/quero-vender-na-dafiti/), os próximos passos para integrar sua loja VTEX a Dafiti são:
 
 1. [Definir política comercial](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i).
-2. [Configurar conector](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3PV2OACP2E4O4uOKKW2sMg).
-3. [Enviar produtos para a Dafiti](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
+2. [Configurar conector](/pt/docs/tracks/configuracao-do-conector-dafiti).
+3. [Enviar produtos para a Dafiti](/pt/docs/tracks/envio-dos-produtos-para-a-dafiti).
 
 > ⚠️ É importante que a transportadora cadastrada na VTEX seja aceita pela Dafiti, caso contrário, um erro de rastreamento no pedido será gerado. Além disso, o nome cadastrado da transportadora precisa estar rigorosamente igual ao nome aceito pela Dafiti. Entre em contato com a Dafiti para para verificar quais os nomes aceitos.

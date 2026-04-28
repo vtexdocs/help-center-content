@@ -19,7 +19,7 @@ The __Portal__ is used to render __Checkout__ (cart, personal data, address, pay
 
 The __Checkout__ module in the Admin, displays the sites that are registered for your account. Through it, it is also possible to create a new website, edit and configure information about existing websites.
 
-> ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](/en/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+> ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](/en/docs/tutorials/managing-a-multistore).
 
 ## Creating a new website
 
@@ -67,7 +67,7 @@ We'll now have a more in-depth look at the following options menu settings: __Co
 
 ## Configuring Checkout
 
-> ⚠️ Users need to have the [License Manager resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal** assigned to their role to be able to configure store Checkout settings. In turn, the user that creates the new role needs to have **Owner (Admin Super)** access.
+> ⚠️ Users need to have the [License Manager resource](/en/docs/tutorials/license-manager-resources) **Manage portal** assigned to their role to be able to configure store Checkout settings. In turn, the user that creates the new role needs to have **Owner (Admin Super)** access.
 
 1. In the VTEX Admin, go to __Store Settings > Storefront > Checkout__, or type __Checkout__ in the search bar at the top of the page.
 2. Click on the <i class="fas fa-cog" alt="engrenagem azul"></i> icon of the desired website.

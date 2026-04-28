@@ -36,5 +36,5 @@ Por meio do novo design, a interface de Gerenciar Inventário já exibe todos os
 
 Enquanto o design da aba foi aprimorado, os campos de configuração não foram alterados. Todas as informações sobre estoque da sua loja contidas anteriormente em Inventário se mantiveram iguais. Não é preciso fazer nenhuma configuração do zero ou adaptação.
 
-Confira nossa documentação sobre a nova página [Gerenciar Inventário](/pt/tutorial/gerenciar-itens-em-estoque) para saber mais. 
+Confira nossa documentação sobre a nova página [Gerenciar Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) para saber mais. 
 

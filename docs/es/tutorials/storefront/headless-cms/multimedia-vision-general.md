@@ -1,5 +1,5 @@
 ---
-title: 'Multimedia - Visión general'
+title: 'Multimedia - Información general'
 id: 31fhjHTt4TBoo50AmGQ9b2
 status: PUBLISHED
 createdAt: 2023-05-29T23:26:35.354Z
@@ -20,7 +20,7 @@ En la página Multimedia puedes gestionar los archivos multimedia de tu tienda, 
 
 > ⚠️ Para cargar, los archivos deben tener una extensión en minúsculas, por ejemplo, `store.png`, y el límite de tamaño de archivo para cargar en Multimedia es de **5 MB**.
 
-![Multimedia Visión general](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_1.png)
+![Multimedia Información general](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_1.png)
 
 demás, Multimedia está integrada con **Site Editor** y **Headless CMS**. Esta integración te permite acceder y gestionar archivos multimedia directamente a través de las soluciones de CMS de VTEX.
 
@@ -102,7 +102,7 @@ Una vez agregado el video, puedes decidir cómo deseas utilizarlo haciendo clic 
 Integrar contenido multimedia, como videos, en Headless CMS puede optimizar la experiencia del usuario en tu sitio web. Sigue los pasos a continuación para agregar videos a tu tienda.
 
 1. En el Admin VTEX, accede a **Storefront > Headless CMS**.
-2. Selecciona el [proyecto](/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) al que deseas agregar el video.
+2. Selecciona el [proyecto](/es/docs/tutorials/gestionar-proyectos) al que deseas agregar el video.
 3. Selecciona la página a la que deseas agregar el video. Por ejemplo: **Inicio**.
 4. Con la página **Inicio** abierta, en la pestaña **Secciones**, agrega (`+`) una sección que tenga el widget media-gallery, como por ejemplo, **Hero**.
 5. Escoge una **Sección** que tenga el widget `media-gallery`. Por ejemplo, Hero.

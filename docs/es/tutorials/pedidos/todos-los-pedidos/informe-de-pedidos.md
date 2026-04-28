@@ -15,15 +15,15 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-La exportación de pedidos en la página [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) genera un informe en formato .csv que contiene una serie de detalles sobre los pedidos de su tienda.
+La exportación de pedidos en la página [Todos los pedidos](/es/docs/tutorials/todos-los-pedidos) genera un informe en formato .csv que contiene una serie de detalles sobre los pedidos de su tienda.
 
-Cada fila de la plantilla se refiere a un [SKU](/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). Por ejemplo, si en un pedido hay 3 SKUs, este será referenciado en 3 filas en el informe. Cada fila mostrará los datos de un SKU del pedido.
+Cada fila de la plantilla se refiere a un [SKU](/es/docs/tutorials/que-es-un-sku). Por ejemplo, si en un pedido hay 3 SKUs, este será referenciado en 3 filas en el informe. Cada fila mostrará los datos de un SKU del pedido.
 
 > ℹ️ El link del informe de pedidos está disponible para descargar durante seis horas.
 
 Las columnas corresponden a información específica sobre el pedido, conforme se describe a continuación.
 
-*   **Origin**: indica si el origen del pedido es [_marketplace o fulfillment_](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
+*   **Origin**: indica si el origen del pedido es [_marketplace o fulfillment_](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).
 *   **Order**: es el ID del pedido, aparece en la pantalla de atributos del pedido, en el módulo «Gestión de pedidos».
 *   **Sequence**: es la secuencia numérica de la transacción del pedido.
 *   **Creation Date**: es la fecha y hora en que el cliente realizó el pedido.
@@ -88,8 +88,8 @@ Las columnas corresponden a información específica sobre el pedido, conforme s
 *   **Seller Order Id**: es el ID del pedido en el _seller_, si se trata de una venta como _marketplace_.
 *   **Acquirer**: es el adquirente que intervino en la transacción.
 *   **Authorization Id**: es la ID de la autorización.
-*   **TID**: [es el Transaction ID](/es/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477) del pedido.
-*   **NSU**: [es el número secuencial único](/es/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477) del pedido.
+*   **TID**: [es el Transaction ID](/es/docs/tutorials/como-encontrar-nsu-y-tid-del-pedido) del pedido.
+*   **NSU**: [es el número secuencial único](/es/docs/tutorials/como-encontrar-nsu-y-tid-del-pedido) del pedido.
 *   **Card First Digits**: son los seis primeros dígitos de la tarjeta utilizada en la compra.
 *   **Card Last Digits**: son los cuatro últimos dígitos de la tarjeta utilizada en la compra.
 *   **Payment Approved By**: es el _email_ de la persona que aprobó el pago (aplicado cuando la aprobación se realiza manualmente).

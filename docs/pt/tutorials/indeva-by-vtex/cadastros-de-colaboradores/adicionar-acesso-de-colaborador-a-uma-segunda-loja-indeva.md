@@ -19,4 +19,4 @@ subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 
 Para isso, cadastre o colaborador como **vendedor temporário** ou **gerente temporário** na segunda loja. Esse tipo de cadastro permite múltiplos vínculos simultâneos.
 
-Para instruções completas, acesse o artigo [Cadastrar vendedor temporário](/pt/tutorial/vendedor-temporario--1D0znuLfmKpcuYGp29qrEX).
+Para instruções completas, acesse o artigo [Cadastrar vendedor temporário](/pt/docs/tutorials/cadastrar-vendedor-temporario-indeva).

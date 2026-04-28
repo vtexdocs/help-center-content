@@ -41,7 +41,7 @@ Then, click on **Save**.
 
 Afterwards, you will have to:
 
-1. [Create collection](/en/tutorial/creating-a-product-collection/) (only if your store does not yet have a collection it wishes to allocate to the marketplace);
+1. [Create collection](/en/docs/tutorials/creating-a-product-collection/) (only if your store does not yet have a collection it wishes to allocate to the marketplace);
 2. Create a group by departament, category or sub-category;
 3. Create groups by brand;
 4. [Sales policy setup](/en/tutorial/configuring-a-marketplace-sales-policy/).
@@ -58,7 +58,7 @@ Lastly, the affiliate must be registered, as it is the unique identity of the ma
 
 **Name**: Farmácias APP;
 **ID**: FPP;
-**Trade Policy**: _inform the ID of the sales policy_.
+**Sales Channel**: _inform the ID of the sales policy_.
 **E-mail for notifications**: _e-mail of the person responsible for the integration_;
 **Search Endpoint**: https://integrador.farmaciasapp.com.br/Vtex/api/notification
 

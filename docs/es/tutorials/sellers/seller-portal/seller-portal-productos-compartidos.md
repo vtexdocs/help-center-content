@@ -35,7 +35,7 @@ La pestaña «Importados» reúne los productos del catálogo del marketplace qu
 
 En el primer acceso al Seller Portal, cuando no se hayan importado productos, la pestaña «Importados» estará vacía. Se rellenará a medida que el seller importe los productos que el marketplace pone a su disposición en la pestaña «Disponibles».
 
-Al hacer clic en un producto de la lista, accederá a la página [Detalles del Producto](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
+Al hacer clic en un producto de la lista, accederá a la página [Detalles del Producto](/es/docs/tutorials/seller-portal-detalles-del-producto).
 
 ## Disponibles
 
@@ -54,12 +54,12 @@ Para seleccionar todos los productos disponibles en la página, haga clic en la 
 
 Todos los productos importados se incluirán en la pestaña *Importados*. Los productos importados más recientemente también permanecerán listados en la pestaña *Disponibles* para su control. 
 
-Al hacer clic en un producto de la lista, accederá a la página [Detalles del Producto](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP). 
+Al hacer clic en un producto de la lista, accederá a la página [Detalles del Producto](/es/docs/tutorials/seller-portal-detalles-del-producto). 
 
 ## Artículos Relacionados
 
-- [Seller Portal: Cómo funciona el Catálogo](/es/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)           
-- [Seller Portal: Anuncios y Envío de Productos al Marketplace](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)            
-- [Seller Portal: Detalles del Producto](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)    
-- [Seller Portal: Primeros Pasos](/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)  
+- [Seller Portal: Cómo funciona el Catálogo](/es/docs/tutorials/como-funciona-el-catalogo-del-seller-portal)           
+- [Seller Portal: Anuncios y Envío de Productos al Marketplace](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace)            
+- [Seller Portal: Detalles del Producto](/es/docs/tutorials/seller-portal-detalles-del-producto)    
+- [Seller Portal: Primeros Pasos](/es/docs/tutorials/como-configurar-su-tienda-en-seller-portal)  
 

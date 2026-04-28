@@ -1,5 +1,5 @@
 ---
-title: 'Posthaus Integration Overview'
+title: 'Posthaus integration - Overview'
 id: 4ftXLupAsAfGz4qgFknnNm
 status: PUBLISHED
 createdAt: 2024-10-23T15:22:43.393Z

@@ -22,6 +22,6 @@ Por exemplo, para que seu web site ofereça um determinado meio de pagamento aos
 Outra característica importante é a paridade de conexões. Assim como um meio de pagamento pode se comunicar com vários conectores, um conector pode estabelecer comunicação com vários meios de pagamento. Por conta dessa possibilidade, é necessário que você [configure o conector](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway) em sua loja.
 
 ### Artigos relacionados
-- [Visão geral do Pagamentos](/pt/tutorial/pci-gateway-visao-geral)
+- [Pagamentos - Visão geral](/pt/tutorial/pci-gateway-visao-geral)
 - [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway)
 

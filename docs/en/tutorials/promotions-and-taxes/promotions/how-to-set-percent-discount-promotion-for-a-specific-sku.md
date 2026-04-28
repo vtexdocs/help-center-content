@@ -20,7 +20,7 @@ For this configuration, you must set up a Take More for Less promotion, and sel
 1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
 2. Click on **Create Promotion**.
 3. Click on **More For Less**.
-4. Fill out the fields according to the [promotion documentation](/en/tutorial/leve-mais-por-menos--tutorials_325).
+4. Fill out the fields according to the [promotion documentation](/en/docs/tutorials/creating-a-more-for-less-promotion).
 5. At **SKUs**, fill it out with the SKU to which the promotion will be applied.
 6. At **Every _ product (s)**, fill it out with the value **1**.
 7. At **The client will take _ products**, fill it out with the value **1**.

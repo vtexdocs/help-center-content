@@ -30,7 +30,7 @@ To configure Lifemiles, follow the steps below:
 
 ## Setting up payment condition Notes Payable
 
-If you have not yet configured promissory notes as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ).
+If you have not yet configured promissory notes as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable).
 
 Then, follow the steps below:
 
@@ -39,7 +39,7 @@ Then, follow the steps below:
 3. On **Custom Payment**, click the button corresponding to the name used for the note payable payment method (configured in the previous section).
 4. Activate the condition in the **Status** field.
 5. On **Process with provider**, select **lifemilespartnerco-lifemiles-v0**.
-6. If you wish, you can also configure [payment special conditionso](/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditionso](/en/docs/tutorials/special-conditions).
 7. Click `Save`.
 
 After following the indicated steps, Lifemiles may take up to 10 minutes to appear at your store's  checkout as a payment option.

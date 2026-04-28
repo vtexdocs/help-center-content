@@ -1,5 +1,5 @@
 ---
-title: 'Visión general de la integración con Facebook Business Extension'
+title: 'Integración con Facebook Business Extension - Información general'
 id: 2OdxzECQkND8gP3ohtTRDD
 status: PUBLISHED
 createdAt: 2021-09-30T14:44:39.701Z
@@ -19,5 +19,5 @@ Antes de realizar la integración, tienes que crear una [cuenta de Facebook](htt
 
 Los siguientes pasos para integrar tu tienda VTEX con FBE son:
 
-- [Instalar la aplicación Facebook Business Extension y Conversions API](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/7JvybNGcBXxGKbVWjadKjt)
-- [Configurar la integración con FBE en el Admin VTEX](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/jUtgjBDumr5oGWIU7mVLC)
+- [Instalar la aplicación Facebook Business Extension y Conversions API](/es/docs/tracks/instalar-la-aplicacion-facebook-business-extension-e-conversions-api)
+- [Configurar la integración con FBE en el Admin VTEX](/es/docs/tracks/configurar-la-integracion-con-fbe-en-el-admin-vtex)

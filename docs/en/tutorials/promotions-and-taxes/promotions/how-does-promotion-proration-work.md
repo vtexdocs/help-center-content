@@ -47,4 +47,4 @@ The difference here is that, after the platform goes through the logic of defini
 
 ## To learn more
 
-[How the promotion competition works](/en/tutorial/understanding-competition-of-promotions--tutorials_2270)
+[How the promotion competition works](/en/docs/tutorials/how-promotion-competition-works)

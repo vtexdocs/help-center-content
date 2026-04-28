@@ -1,5 +1,5 @@
 ---
-title: 'User settings Overview'
+title: 'User settings - Overview'
 id: 3Qsy4ce1FrWKZPoMeEQY34
 status: PUBLISHED
 createdAt: 2023-03-28T19:17:26.175Z
@@ -32,5 +32,5 @@ On this page, soon to be included in Admin v4, you can perform the following act
 - 2-step verification
 - Active sessions
 
-For more information about how to configure user data on the user page, please refer to the article [Configuring personal data on the user page](/en/tutorial/setting-up-personal-data-on-the-users-screen--3S32bI9Qb6Ecec66SckYK6).
+For more information about how to configure user data on the user page, please refer to the article [Configuring personal data on the user page](/en/docs/tutorials/setting-up-personal-data-on-the-users-screen).
 

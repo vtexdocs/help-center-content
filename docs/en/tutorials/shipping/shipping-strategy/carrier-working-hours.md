@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-On VTEX, you can determine business hours for your store’s [carriers](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) in the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140). You can configure pickup time and shipping window periods available for the carrier.
+On VTEX, you can determine business hours for your store’s [carriers](/en/docs/tutorials/carriers-on-vtex) in the [shipping policy](/en/docs/tutorials/shipping-policy). You can configure pickup time and shipping window periods available for the carrier.
 
-To configure a carrier’s business hours in your store, in your VTEX Admin go to **Shipping > Shipping strategy**. You can [create a shipping policy](/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) or [edit](/en/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) an existing one.
+To configure a carrier’s business hours in your store, in your VTEX Admin go to **Shipping > Shipping strategy**. You can [create a shipping policy](/en/docs/tutorials/creating-a-shipping-policy) or [edit](/en/docs/tutorials/managing-shipping-policies) an existing one.
 
 The way you configure working hours will influence the delivery time calculation. These configurations can be made on the shipping policy’s details page, in the following options:
 
@@ -26,12 +26,12 @@ The way you configure working hours will influence the delivery time calculation
 
 ## Shipping Window
 
-1. In the [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Shipping Window` card.
+1. In the [Shipping policy](/en/docs/tutorials/shipping-policy), in the **Business Hours** section, click the `Shipping Window` card.
 2. If you wish to activate the option `Accept purchases outside working hours`, enable the toggle switch. Otherwise, leave it deactivated.
 
   > ❗ To authorize the carrier to receive orders on weekends, this toggle must be marked as `Active`. Even if Saturdays and Sundays are configured as valid windows, activating the toggle is mandatory to authorize the carrier to receive orders outside business hours.
 
-  > ℹ️ When this option is enabled, the order [shipping calculation](/en/tutorial/how-shipping-calculation-works--tutorials_116) is influenced, and the period from order placement to the carrier's business time is added to the total shipping time.
+  > ℹ️ When this option is enabled, the order [shipping calculation](/en/docs/tutorials/how-shipping-calculation-works) is influenced, and the period from order placement to the carrier's business time is added to the total shipping time.
 
 3. Select the `Day of the week`, as well as the `Start time` and `End time` for shipping items to customers.
     * **Day of the week**: days on which carriers make deliveries.
@@ -42,7 +42,7 @@ The way you configure working hours will influence the delivery time calculation
 
 ## Pickup Time
 
-1. In the [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Pickup Time` card.
+1. In the [Shipping policy](/en/docs/tutorials/shipping-policy), in the **Business Hours** section, click the `Pickup Time` card.
 2. Select the `Day of the week`.
 3. Select the `Pickup time`. 
 4. If you want to add a new pickup period, click `Add pickup time`.

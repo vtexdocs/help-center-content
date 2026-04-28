@@ -17,7 +17,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 A price table is a set of SKU prices that can be applied to specific contexts. These tables store the price information that is displayed on a store's page.
 
-Unlike trade policies, which can also be used to segment prices, there is no limit to the number of Price Tables that can be created. **The only limitation is a maximum of 100 fixed prices for the same SKU**.
+Unlike sales channels, which can also be used to segment prices, there is no limit to the number of Price Tables that can be created. **The only limitation is a maximum of 100 fixed prices for the same SKU**.
 
 For example, let's say you want customers in São Paulo to see a price different from the price seen by customers in Rio de Janeiro. In this case, you can create two different price lists, and associate the first one to the customers in São Paulo, and the second to those in Rio de Janeiro.
 
@@ -67,7 +67,7 @@ Now your Customers entity has a `priceTables` attribute, which can be populated 
 
 ### Defining prices in the Prices module
 
-Once you have created your price tables, you can see the price of each product in the store separated by price table, in the same way as with trade policies.
+Once you have created your price tables, you can see the price of each product in the store separated by price table, in the same way as with sales channels.
 
 In the Admin, go to __Prices__ > __Price List__.
 
@@ -75,19 +75,19 @@ In the search filter, enter the names of the tables created in __Master Data__.
 
 ![Filtros](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-list/setting-up-price-tables-for-specific-users_1.png)
 
-Price tables are shown as columns of the price list, as are trade policies.
+Price tables are shown as columns of the price list, as are sales channels.
 
 ![Lista preços- EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-list/setting-up-price-tables-for-specific-users_2.png)
 
 To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
 
-To enter and update prices from a specific table via API, check out the [Pricing API documentation](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
+To enter and update prices from a specific table via API, check out the [Pricing API documentation](https://developers.vtex.com/docs/api-reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
-> ℹ️ The Price Table has priority over the prices from the trade Policy. If a given Price Table applies to a user's context, the price set in it will be used, even if that customer is also within the context of a trade policy with a different price.
+> ℹ️ The Price Table has priority over the prices from the sales channel. If a given Price Table applies to a user's context, the price set in it will be used, even if that customer is also within the context of a sales channel with a different price.
 
 ## Displaying different prices for different users
 
-When a user is not logged into your store, the default prices set by the trade policy will be displayed.
+When a user is not logged into your store, the default prices set by the sales channel will be displayed.
 
 If the user is logged in, they will see the prices corresponding to the price table with which their email is associated.
 

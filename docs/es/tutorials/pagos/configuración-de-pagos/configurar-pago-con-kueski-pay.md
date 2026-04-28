@@ -19,6 +19,6 @@ En VTEX es posible la integración con el proveedor de pagos Kueski Pay. Con est
 
 Para configurar Kueski Pay, acceda a [Registrar afiliaciones de gateway](/es/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
-Para configurar las condiciones de pago a través de pagarés, acceda a [Configurar pagos con Pagaré](/es/tutorial/configurar-pagos-con-pagare).
+Para configurar las condiciones de pago a través de pagarés, acceda a [Configurar pagos con Pagaré](/es/docs/tutorials/configurar-pagos-con-pagare).
 
 Después de seguir los pasos indicados, Kueski Pay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

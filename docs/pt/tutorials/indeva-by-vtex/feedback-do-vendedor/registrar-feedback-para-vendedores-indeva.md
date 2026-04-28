@@ -39,5 +39,5 @@ Além disso, a plataforma compara os resultados do vendedor com a média da loja
 
 > ℹ️ Utilize a simulação de resultados para ajudar o vendedor a visualizar planos de ação e entender como poderia ter melhorado. Lembre-se de registrar o feedback ao final de cada período.
 
-Se houver dificuldade em registrar o feedback, consulte o artigo [Condições para cadastrar feedback](/pt/tutorial/condicoes-para-cadastrar-feedback-indeva--1orNHBv3djaySvFK2wczRC).
+Se houver dificuldade em registrar o feedback, consulte o artigo [Condições para cadastrar feedback](/pt/docs/tutorials/entender-disponibilidade-de-periodos-para-registrar-feedback-indeva).
 

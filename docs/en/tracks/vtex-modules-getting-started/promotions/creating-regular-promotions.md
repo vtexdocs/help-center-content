@@ -15,7 +15,7 @@ trackSlugEN: promotions
 order: 4
 ---
 
-VTEX allows [creating multiple promotion types](/en/tutorial/como-criar-promocoes--tutorials_320) to meet different business scenarios, including **Regular promotions**, which are the most common. This promotion type provides a structured way to give discounts, allowing the combination of multiple conditions, usage restrictions, and benefits.  
+VTEX allows [creating multiple promotion types](/en/docs/tutorials/creating-promotions) to meet different business scenarios, including **Regular promotions**, which are the most common. This promotion type provides a structured way to give discounts, allowing the combination of multiple conditions, usage restrictions, and benefits.  
 
 To set up a Regular promotion, follow the steps below:  
 
@@ -51,12 +51,12 @@ In this section, you can specify whether the promotion will apply to all sellers
  -  **Equal to:** Applies the promotion only to the specified sellers. Enter the identifiers in the corresponding field. 
  -  **Different from:** Applies the promotion to all sellers, except those specified.
 
-### Selecting trade policies
-Select the trade policies the promotion will apply to:
+### Selecting sales channels
+Select the sales channels the promotion will apply to:
 
-- **All:** Applies the promotion to all trade policies.
-- **Equal to:** Defines the trade policies you want to include.  
-- **Different from:** Defines the trade policies you want to exclude.
+- **All:** Applies the promotion to all sales channels.
+- **Equal to:** Defines the sales channels you want to include.  
+- **Different from:** Defines the sales channels you want to exclude.
 
 ## Defining conditions for the Regular promotion
 In the Customer buys section, define the items that must be in the cart to activate the promotion:
@@ -123,11 +123,11 @@ In this section, you define the conditions that must be met for the promotion to
 
 - **Card BIN:** Applies the promotion only when the card belongs to a network, bank, or category identified by a specific BIN number. Import a TXT or CSV file with the list of BINs, listing one number per line.  
 
-- **Marketing tags:** Applies the promotion when the purchase is made through the VTEX [Subscriptions module](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).  
+- **Marketing tags:** Applies the promotion when the purchase is made through the VTEX [Subscriptions module](/en/docs/tutorials/how-subscriptions-work).  
 
-- **Affiliates:** Selects marketplaces or partner affiliates eligible for the promotion. For more information, see [What is an affiliate](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).  
+- **Affiliates:** Selects marketplaces or partner affiliates eligible for the promotion. For more information, see [What is an affiliate](/en/docs/tutorials/what-is-an-affiliate).  
 
-- **Customer cluster:** Allows selecting an existing [customer cluster](/en/tutorial/desconto-progressivo--tutorials_324) from Master Data, following the format `field=value` or `field contains value`. Choose one of the following:  
+- **Customer cluster:** Allows selecting an existing [customer cluster](/en/docs/tutorials/progressive-discount) from Master Data, following the format `field=value` or `field contains value`. Choose one of the following:  
   - **All of the following:** Applies the promotion only if all cluster conditions are met.  
   - **At least one of the following:** Applies the promotion if at least one of the cluster conditions is met.  
 
@@ -147,7 +147,7 @@ In this section, you define the conditions that must be met for the promotion to
 
 > ℹ️ This condition doesn't apply to payments via boleto, gift card, or orders using multiple payment methods.
 
-- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).  
+- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium).  
 
 Set the following parameters if necessary:  
 
@@ -171,13 +171,13 @@ Use this section to limit how many times the promotion can be applied in the sto
 
 Define whether the promotion can be combined with other promotions or manually adjusted prices. These settings control how the promotion behaves in combined scenarios.  
 
-- **Allow combining with other promotions:** Allows combining the promotion with other promotions active in the same order. By default, the promotion already includes shipping discounts and gifts. For more information, see the article [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).  
+- **Allow combining with other promotions:** Allows combining the promotion with other promotions active in the same order. By default, the promotion already includes shipping discounts and gifts. For more information, see the article [How promotion competition works](/en/docs/tutorials/how-promotion-competition-works).  
 - **Allow combining with manual prices:** Allows the promotion to be applied even when the product already has a manually set price.  
 
 ## Highlighting the promotion on the product page  
 
 Use this section to visually highlight the promotion on products displayed on the store's product listing page.  
 
-- **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure visualization in the store's CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+- **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure visualization in the store's CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).  
 - **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.  
 

@@ -16,14 +16,14 @@ subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
 Quando o cliente realiza um pedido, o carrinho pode conter produtos que se encontram em uma das seguintes configurações:
-- Armazenamento em múltiplos locais ([estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) ou [docas](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)).
-- Vendedores específicos para cada produto selecionado, incluindo [sellers white label](/pt/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa).
-- Entregas realizadas por diferentes [transportadoras](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
+- Armazenamento em múltiplos locais ([estoque](/pt/docs/tutorials/estoque) ou [docas](/pt/docs/tutorials/doca)).
+- Vendedores específicos para cada produto selecionado, incluindo [sellers white label](/pt/docs/tutorials/seller-white-label).
+- Entregas realizadas por diferentes [transportadoras](/pt/docs/tutorials/transportadoras-na-vtex).
 
 Neste contexto, o Checkout v6 da VTEX permite processar diferentes opções de entrega e combinar os produtos selecionados em pacotes. Esta otimização das opções de entrega (também conhecida como **Lean Shipping**), melhora a experiência de compra do cliente por meio das seguintes ações:
 - **Redução de informações no Checkout**:
   - Opções de envios mais caros e demorados não são mostrados para o cliente.
-  - Produtos com diferentes opções de entrega são organizados automaticamente em [múltiplos pacotes](/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), sem a necessidade de análise do cliente.   
+  - Produtos com diferentes opções de entrega são organizados automaticamente em [múltiplos pacotes](/pt/docs/tutorials/divisao-de-pedidos-e-divisao-de-entregas), sem a necessidade de análise do cliente.   
 
 - **Checkout mais rápido**: processamento interno das opções disponíveis de entrega, reduzindo a quantidade de opções que possuem custos e prazo de entrega similares.
 

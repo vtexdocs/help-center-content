@@ -34,4 +34,4 @@ Uma vez concluídas as instruções acima, a senha antiga está desabilitada e v
 
 ## Saiba mais
 
-* [Autenticação](/pt/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs)
+* [Autenticação](/pt/docs/tutorials/autenticacao)

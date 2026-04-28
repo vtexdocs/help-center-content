@@ -39,9 +39,9 @@ De estos métodos, sólo los dos primeros tienen efecto actualmente:
 
 Los demás métodos listados arriba ya no tienen aplicación práctica alguna - o sea, para todos los efectos, ya están descontinuados.
 
-Si su tienda utiliza alguno de estos métodos, debe evaluar el escenario y rehacer la solución mediante la integración a través de la API. Para ayudarle en esta tarea, preparamos una guía de integración del catálogo con servicios externos, cubriendo todos los posibles escenarios actualmente atendidos por los métodos que serán descontinuados: [Guía de Integración - Consumir información del catálogo para utilizar en un Servicio Externo](/es/tutorial/guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo).
+Si su tienda utiliza alguno de estos métodos, debe evaluar el escenario y rehacer la solución mediante la integración a través de la API. Para ayudarle en esta tarea, preparamos una guía de integración del catálogo con servicios externos, cubriendo todos los posibles escenarios actualmente atendidos por los métodos que serán descontinuados: [Guía de Integración - Consumir información del catálogo para utilizar en un Servicio Externo](/es/docs/tutorials/guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo).
 
 - __Que va a suceder__: los métodos de servicio Web enumerados anteriormente se descontinuarán.
 - __Cuando__: 29 de octubre de 2018.
 - __Que necesito hacer__: Primero, identifique si su tienda usa alguno de estos métodos. Si lo usa, su tienda necesita reemplazarlos por soluciones vía API.
-- __Cómo hago esto__: Lea nuestro [guía de integración del catálogo con servicios externos](/es/tutorial/guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo).
+- __Cómo hago esto__: Lea nuestro [guía de integración del catálogo con servicios externos](/es/docs/tutorials/guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo).

@@ -33,5 +33,5 @@ A partir de agora, você pode adicionar o Google Pay como meio de pagamento na s
 
 Primeiro, leia [Google Pay and Wallet APIs Acceptable Use Policy](https://payments.developers.google.com/terms/aup) para conferir os tipos de produtos e serviços que não podem ser usados com Google Pay.
 
-Para habilitar o Google Pay como meio de pagamento da sua loja, siga nossa track [Google Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT).
+Para habilitar o Google Pay como meio de pagamento da sua loja, siga nossa track [Google Pay](/pt/docs/tracks/google-pay).
 

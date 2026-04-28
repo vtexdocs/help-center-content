@@ -35,7 +35,7 @@ It is necessary to confirm with the client if the information in the Facebook se
 
 ### How to solve SKU problems with bridge errors. Error message: "The SKU does not have a sales price on VTEX. This is a required value”.
 
-The first step in this scenario is to investigate whether the SKU in fact does not have a price added for Facebook’s trade policy.
+The first step in this scenario is to investigate whether the SKU in fact does not have a price added for Facebook’s sales channel.
 
 If the SKU does have a price, check its status, as the error may also be related to its active/inactive status. The best way to do this is by performing a checkout simulation:
 
@@ -85,7 +85,7 @@ This process is recommended for authentication issues concerning the Facebook in
 1. In the Admin menu, click on **Integrations**.
 2. Click **Settings**.
 3. In the Facebook card, click on **Integrate**.
-4. Fill in the fields in the modal window (see [field details](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B))
+4. Fill in the fields in the modal window (see [field details](/en/docs/tracks/defining-a-trade-policy))
 5. Click **Save configuration**.
 
 When authenticating with Facebook, after reconfiguring the integration, it is important that the permissions requested by the APP are granted without exceptions.

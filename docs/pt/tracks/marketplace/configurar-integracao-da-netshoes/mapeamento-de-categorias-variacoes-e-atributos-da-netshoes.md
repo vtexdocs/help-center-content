@@ -29,7 +29,7 @@ O mapeamento deve ser feito sempre que um produto for enviado pela primeira vez 
 Os campos da **Planilha de Mapeamento** estão detalhados abaixo. Preencha-os de forma a realizar a correspondência _de/para_ entre os valores cadastrados na VTEX e os valores especificados na **Planilha de Consulta** da Netshoes.
 > ❗ **O uso de valores que não aparecem na Planilha de Consulta vai ocasionar um erro na integração.** O preenchimento da Planilha de Mapeamento deve respeitar letras maiúsculas e minúsculas conforme elas aparecem na Planilha de Consulta.
 
-*   **ID do SKU:** número de identificação do SKU. Se necessário, consulte [Descobrir o ID de um SKU](/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
+*   **ID do SKU:** número de identificação do SKU. Se necessário, consulte [Descobrir o ID de um SKU](/pt/docs/tutorials/descobrir-o-id-de-um-sku).
 
 *   **Departamento:** valor do Departamento ao qual seu produto corresponde na Planilha de Consulta da Netshoes.
 <br/>Exemplo: se um produto está cadastrado na VTEX no Departamento _Moto_, na Planilha de Consulta o valor correspondente na coluna Departamento é _Motociclismo._

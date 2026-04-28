@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-SKU service is a VTEX feature that allows adding an item, that is optional and priced, to complement a product. For more information, read our article [What is a Service?](/en/tutorial/what-is-a-service--46Ha8CEEQoC6Y40i6akG0y).
+SKU service is a VTEX feature that allows adding an item, that is optional and priced, to complement a product. For more information, read our article [What is a Service?](/en/docs/tutorials/what-is-a-service).
 
 In this article we will cover the following topics:
 
@@ -44,7 +44,7 @@ In this section you must enter a name for your service type and configure its be
 - **Gift card:** option to display the service type on the gift card.
 - **Mandatory service:** option to make the service type mandatory.
 - **Status** option to enable or disable the service type.
-- **Attachments:** selected attachments that will be added to the service type. The attachment is used to add customized information to the service. To learn more, read our article [What is an Attachment?](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm).
+- **Attachments:** selected attachments that will be added to the service type. The attachment is used to add customized information to the service. To learn more, read our article [What is an Attachment?](/en/docs/tutorials/what-is-an-attachment).
 
 ## Creating a service value and associating it with a service type
 After registering the service type, you must assign a value to it. To register the value of a service type, please follow the steps below:

@@ -36,7 +36,7 @@ Hay dos opciones de autenticación:
 
 > ⚠️ Recomendamos el uso de la [aplicación de autenticación](#habilitar-o-2fa-por-aplicativo) para que las fallas del servicio de su operador de telefonía no impidan su inicio de sesión. A través de la aplicación, la clave de acceso siempre estará disponible para que la utilice.
 
-> ℹ️ Debido a que algunas empresas restringen el uso de celulares a los operadores de televenta, los usuarios que tienen el [perfil de acceso de televentas](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) no están obligados a habilitar 2FA cuando inician sesión utilizando el email y la contraseña.
+> ℹ️ Debido a que algunas empresas restringen el uso de celulares a los operadores de televenta, los usuarios que tienen el [perfil de acceso de televentas](/es/docs/tutorials/roles#call-center-operator) no están obligados a habilitar 2FA cuando inician sesión utilizando el email y la contraseña.
 
 ### Habilitar 2FA por aplicación
 

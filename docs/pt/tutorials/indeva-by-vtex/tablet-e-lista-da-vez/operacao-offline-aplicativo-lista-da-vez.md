@@ -29,7 +29,7 @@ Estar conectado a uma rede Wi-Fi nem sempre garante acesso real à internet. Ver
 ### 2. Data e hora incorretas no dispositivo
 
 A sincronização depende da data e hora corretas no tablet.  
-Consulte o artigo [Como corrigir erro de data e hora no aplicativo Indeva](/pt/tutorial/corrigir-mensagem-incorreta-de-data-e-hora-no-indeva-lista-da-vez--7wwWzw7J3Pmz9ImN11awtN).
+Consulte o artigo [Como corrigir erro de data e hora no aplicativo Indeva](/pt/docs/tutorials/corrigir-erro-data-hora-aplicativo-indeva).
 
 ### 3. Vendedor em atendimento
 

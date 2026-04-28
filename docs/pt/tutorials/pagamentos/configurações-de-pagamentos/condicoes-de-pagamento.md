@@ -19,14 +19,14 @@ Condições de pagamento são as formas de pagamento exibidas no site para a fin
 
 ## Como configurar
 
-Antes de iniciar a configuração de uma condição de pagamento, é necessário cadastrar uma [integração de pagamento](/pt/tutorial/afiliacoes-de-gateway/). 
+Antes de iniciar a configuração de uma condição de pagamento, é necessário cadastrar uma [integração de pagamento](/pt/docs/tutorials/afiliacoes-de-gateway/). 
 
 Uma vez definido o seu provedor, para qualquer uma das condições de pagamento a serem escolhidas, sempre será necessário:
 
 - Preencher o campo __Nome da regra__ com um nome de sua preferência para identificação.
 - Ativar a condição no campo __Status__.
 - Indicar em __Processar com o provedor__, qual provedor irá processar esta condição de pagamento.
-- Definir se deseja utilizar um [sistema antifraude](/pt/tutorial/como-configurar-antifraude) em __Usar solução antifraude__.
+- Definir se deseja utilizar um [sistema antifraude](/pt/docs/tutorials/como-configurar-antifraude) em __Usar solução antifraude__.
 
 Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

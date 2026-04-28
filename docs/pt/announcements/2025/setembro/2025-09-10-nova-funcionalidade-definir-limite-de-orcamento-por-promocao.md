@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-funcionalidade-definir-limite-de-orcamento-por-promocao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'VTEX lança limite de orçamento por promoção, com pausa automática e mais controle sobre os descontos.'
+tags:
+  - Nova funcionalidade
+  - Promoções
 ---
 
 O módulo de Promoções da VTEX contará com uma nova funcionalidade disponível globalmente, que permite configurar orçamentos para campanhas promocionais. Essa melhoria foi desenvolvida para ajudar no controle dos gastos com descontos, oferecendo mais segurança e previsibilidade no gerenciamento de benefícios.
@@ -39,5 +42,5 @@ Esta funcionalidade está em fase de testes (Closed Beta), disponível apenas pa
 
 Para participar desta etapa de testes e validar a funcionalidade, entre em contato com o time de [Suporte VTEX](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).
 
-Para mais informações, acesse [Configurando orçamentos para promoções](/pt/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).
+Para mais informações, acesse [Configurando orçamentos para promoções](/pt/docs/tutorials/configurando-orcamentos-para-promocoes).
 

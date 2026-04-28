@@ -29,5 +29,5 @@ Ex: os 3 primeiros ciclos saem de graça e o cliente só paga a partir do quarto
 - Campanha de renovação de assinatura;
 - Renovação de compras.
 
-[Veja como utilizar a Promoção por assinatura.](/pt/tutorial/como-criar-uma-promocao-por-assinatura--3ROT13HYNeUIv0plDqgNed)
+[Veja como utilizar a Promoção por assinatura.](/pt/docs/tutorials/como-criar-uma-promocao-por-assinatura)
 

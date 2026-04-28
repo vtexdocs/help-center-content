@@ -34,6 +34,6 @@ Para configurar Zoop, siga os passos abaixo:
 
 <ui>  7. Clique em **Salvar.**</ui>
 
-Para configurar as condições de pagamento, acesse [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento#).
+Para configurar as condições de pagamento, acesse [Configurar condições de pagamento](/pt/docs/tutorials/condicoes-de-pagamento#).
 
 Depois de seguir os passos indicados, o conector Zoop pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

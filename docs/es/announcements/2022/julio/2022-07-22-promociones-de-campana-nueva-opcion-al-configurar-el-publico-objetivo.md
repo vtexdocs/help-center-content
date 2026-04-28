@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Usar varios públicos objetivo en simultáneo en una audiencia de campaña en lugar de usar solo un público u otro.'
 ---
 
-Las promociones para públicos segmentados son acciones estratégicas destinadas a atraer y retener clientes. En VTEX, la [promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume) permite alcanzar públicos objetivo específicos definidos en una [audiencia de campaña](/es/tutorial/audiencias-de-campanas--3o7lhpNseXY2WmjZO0gQ6m).
+Las promociones para públicos segmentados son acciones estratégicas destinadas a atraer y retener clientes. En VTEX, la [promoción de campaña](/es/docs/tutorials/promocion-de-campana) permite alcanzar públicos objetivo específicos definidos en una [audiencia de campaña](/es/docs/tutorials/audiencias-de-campanas).
 
 Mejoramos la configuración de Audiencia de campañas para permitirte sumar públicos objetivo en lugar de que solo puedas usar un público u otro. De esta manera, puedes combinar criterios y definir incluso con más precisión al público que se verá beneficiado con una promoción.
 
@@ -45,7 +45,7 @@ No es necesario hacer nada, ya que la actualización se aplicará automáticamen
 
 Para más información sobre promociones de campaña y audiencias de campaña, consulta nuestros documentos:
 
-- [Crear audiencia de campaña](/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K)
-- [Audiencias de campañas](/es/tutorial/audiencias-de-campanas--3o7lhpNseXY2WmjZO0gQ6m)
-- [Crear promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume)
+- [Crear audiencia de campaña](/es/docs/tutorials/crear-audiencias-de-campana)
+- [Audiencias de campañas](/es/docs/tutorials/audiencias-de-campanas)
+- [Crear promoción de campaña](/es/docs/tutorials/promocion-de-campana)
 * [Promotions & Taxes API](https://developers.vtex.com/vtex-rest-api/reference/setcampaignconfiguration)

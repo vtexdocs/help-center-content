@@ -1,5 +1,5 @@
 ---
-title: 'Configurar SEO en tiendas CMS Portal Legado'
+title: 'Configurar SEO en tiendas CMS Portal (Legado)'
 id: 5MMge9JgUa014quZ0qeMKy
 status: PUBLISHED
 createdAt: 2025-02-21T15:10:44.192Z

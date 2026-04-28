@@ -19,7 +19,7 @@ We have improved the orders [feed and hook](https://developers.vtex.com/vtex-res
 
 ## What has changed?
 
-Before, the feed and the hook tracked changes only in the orders’ [status](/en/tutorial/order-status-table-oms--frequentlyAskedQuestions_773?&utm_source=autocomplete#).
+Before, the feed and the hook tracked changes only in the orders’ [status](/en/docs/tutorials/order-flow-and-status#order-status-details).
 
 With the new configuration, any changes made to orders can be tracked. This is done through [JSONata](https://jsonata.org/) expressions set in the Orders API, which allow for highly customized filtering.
 

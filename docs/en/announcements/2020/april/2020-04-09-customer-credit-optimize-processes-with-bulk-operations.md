@@ -40,4 +40,4 @@ In the case of invoices, just update the information in the columns. When creati
 
 In addition, it is worth mentioning that the two new features do not exclude the possibility of making the changes manually. The information update can be done via Admin, spreadsheet or API.
 
-To learn how to use the two new features, [check out our Customer Credit track](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs), in which you will find the step by step for both processes.
+To learn how to use the two new features, [check out our Customer Credit track](/en/docs/tracks/installing-customer-credit), in which you will find the step by step for both processes.

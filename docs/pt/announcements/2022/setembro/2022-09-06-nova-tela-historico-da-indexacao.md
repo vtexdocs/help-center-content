@@ -42,5 +42,5 @@ Reformulamos a tela de **Histórico da Indexação** para proporcionar uma visã
 
 A página **Status da indexação** do Intelligent Search será desabilitada e substituída pelo **Histórico da Indexação**. Nenhuma ação é necessária, a atualização será automática para todas as lojas. Para mais informações sobre como aproveitar a interface, confira o artigo [Histórico da Indexação](/pt/tutorial/historico-da-indexacao-beta--6v2FVuXVpyEO8hnMqPi6Xd).
 
-Esta página segue o novo Design System da VTEX, com um visual mais clean, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+Esta página segue o novo Design System da VTEX, com um visual mais clean, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex).
 

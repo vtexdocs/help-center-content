@@ -35,7 +35,7 @@ Para configurar a aCuotaz, siga os passos abaixo:
 2. Na aba __Condições de Pagamentos__, clique no botão `+`.
 3. Clique em __aCuotaz__.
 4. Ative a condição no campo __Status__.
-5. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+5. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 6. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor aCuotaz pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

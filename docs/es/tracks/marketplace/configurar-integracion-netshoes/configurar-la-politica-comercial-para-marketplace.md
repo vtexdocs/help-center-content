@@ -21,7 +21,7 @@ Una de las funciones de la política comercial es hacer una diferenciación de _
 
 ![carrefour.1es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-netshoes/configurar-la-politica-comercial-para-marketplace_1.png)
 
-La misma política comercial puede ser utilizada por más de un marketplace o entre tienda principal y marketplace. Para esto, basta con utilizar el mismo ID de política comercial en la [configuración](es/tutorial/integrando-con-marketplace). Al hacer esto, se utilizará el mismo catálogo y la misma logística para las tiendas o canales que están configurados con la misma política comercial.
+La misma política comercial puede ser utilizada por más de un marketplace o entre tienda principal y marketplace. Para esto, basta con utilizar el mismo ID de política comercial en la [configuración](/es/tutorial/integrando-con-marketplace). Al hacer esto, se utilizará el mismo catálogo y la misma logística para las tiendas o canales que están configurados con la misma política comercial.
 
 ![carrefour.2es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-netshoes/configurar-la-politica-comercial-para-marketplace_2.png)
 

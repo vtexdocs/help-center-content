@@ -27,16 +27,16 @@ O IP pode ser visualizado na parte superior direita:
 
 ![ip pedido2 PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/como-obter-o-ip-de-um-pedido_2.png)
 
-Veja mais detalhes em: [Como visualizar detalhe do pedido](/pt/tutorial/como-visualizar-detalhes-do-pedido)
+Veja mais detalhes em: [Como visualizar detalhe do pedido](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido)
 
 ## Obter o IP por API
 
 Para obter o IP por integração, é possível consultar a API Get Order mediante o orderID.
 
-> ℹ️ [Ver documentação da API OMS](https://developers.vtex.com/reference/orders#getorder)
+> ℹ️ [Ver documentação da API OMS](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-)
 
 Uma vez obtido o JSON do pedido, é possível obter o `transactionId` e consultar a API **Get Transaction Details** mediante o ID da transação.
 
-> ℹ️ [Ver documentação da API Transaction](https://developers.vtex.com/reference/transaction-process#transactiondetails)
+> ℹ️ [Ver documentação da API Transaction](https://developers.vtex.com/docs/api-reference/payments-gateway-api#get-/api/pvt/transactions/-transactionId-)
 
 Por fim, desta última chamada, será possível consultar o campo `ipAddress`.

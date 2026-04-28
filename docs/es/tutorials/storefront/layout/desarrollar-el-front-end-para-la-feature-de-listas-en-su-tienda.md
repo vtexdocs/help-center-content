@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 ## Crear enlace para acceder a la sección de listas en su tienda
@@ -120,7 +120,7 @@ Este código representa una lista con __tres links__:
 
 ## Editar el template de creación de listas
 
-> ℹ️ Antes de editar esta plantilla, es necesario [crear el tipo de lista](/es/tutorial/criando-tipo-de-lista) que se ofrecerá en su lista tienda. <!--Reescrever o artigo de tipo de lista -->
+> ℹ️ Antes de editar esta plantilla, es necesario [crear el tipo de lista](/es/docs/tutorials/criando-tipo-de-lista) que se ofrecerá en su lista tienda. <!--Reescrever o artigo de tipo de lista -->
 
 La plantilla para crear listas se encuentra en la ruta `giftlist/create`. La plantilla por defecto de esta ruta es el `new-GiftList-Create`, ubicado en la sección `HTML Templates` de su CMS.
 

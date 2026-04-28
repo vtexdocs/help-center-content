@@ -1,5 +1,5 @@
 ---
-title: 'Visão Geral Configurações de Usuário'
+title: 'Configurações de Usuário - Visão geral'
 id: 3Qsy4ce1FrWKZPoMeEQY34
 status: PUBLISHED
 createdAt: 2023-03-28T19:17:26.175Z
@@ -32,4 +32,4 @@ Nessa página, que em breve estará no design do Admin v4, é possível realizar
 - Verificação em 2 passos
 - Sessões ativas
 
-Mais informações sobre como utilizar a tela de usuário para configurar os dados do usuário podem ser encontradas no artigo [Configurar dados pessoais na tela de usuário](/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).
+Mais informações sobre como utilizar a tela de usuário para configurar os dados do usuário podem ser encontradas no artigo [Configurar dados pessoais na tela de usuário](/pt/docs/tutorials/configurar-dados-pessoais-na-tela-de-usuario).

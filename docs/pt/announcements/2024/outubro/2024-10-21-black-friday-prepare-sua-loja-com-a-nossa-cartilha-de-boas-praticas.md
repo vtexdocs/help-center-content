@@ -13,6 +13,9 @@ locale: pt
 legacySlug: black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Siga nossas recomendações e dicas exclusivas para aproveitar todas as oportunidades de venda da Black Friday.'
+tags:
+  - Atualização de segurança
+  - Admin
 ---
 
 A __Black Friday__ já está chegando. A data oficial este ano é __29 de novembro__, mas muitas lojas vão começar a fazer campanhas promocionais com bastante antecedência. Por isso, para aproveitar ao máximo todas as oportunidades de uma das principais datas do varejo, é bom começar logo a se preparar.
@@ -25,4 +28,4 @@ Disponível para clientes e parceiros VTEX, o guia pode ser acessado diretamente
 https://{accountName}.myvtex.com/admin/shopping-season
 ```
 
-Basta substituir `{accountName}` pelo [account name](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) da sua loja.
+Basta substituir `{accountName}` pelo [account name](/pt/docs/tutorials/o-que-e-account-name) da sua loja.

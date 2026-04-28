@@ -26,7 +26,7 @@ Una vez que hayas definido tu proveedor, para elegir cualquiera de las condicion
 - Rellene el campo __Nombre de la regla__ con un nombre de su elección para su identificación.
 - Activar la condición en el campo __Status__.
 - Indicar en __Procesar con proveedor__, qué proveedor tramitará esta condición de pago.
-- Defina si desea utilizar un [sistema antifraude](/es/tutorial/como-configurar-antifraude) en __Utilizar antifraude__.
+- Defina si desea utilizar un [sistema antifraude](/es/docs/tutorials/como-configurar-antifraude) en __Utilizar antifraude__.
 
 Además, hay la posibilidad de definir si el pago será al contado o en cuotas, con o sin intereses y las condiciones especiales.
 

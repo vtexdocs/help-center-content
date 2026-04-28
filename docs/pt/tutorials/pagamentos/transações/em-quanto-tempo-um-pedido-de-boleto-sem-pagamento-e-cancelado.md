@@ -45,7 +45,7 @@ O prazo de vencimento da reserva do estoque é o **prazo de expiração do bolet
 - **Cinco dias corridos**: quando a data de expiração do boleto for quarta, quinta ou sexta.
 - **Seis dias corridos**: quando a data de expiração do boleto for sábado.
 
-Para mais informações sobre a reserva de produtos, acesse [Como a reserva funciona](/pt/tutorial/como-a-reserva-funciona--tutorials_92).
+Para mais informações sobre a reserva de produtos, acesse [Como a reserva funciona](/pt/docs/tutorials/como-a-reserva-funciona).
 
 ## Prazo para cancelamento do pedido
 

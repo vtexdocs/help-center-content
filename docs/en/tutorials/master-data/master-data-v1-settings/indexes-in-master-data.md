@@ -42,7 +42,7 @@ Learn more about the main scenarios for using indexes in Master Data in the foll
 
 ### Queries of up to a thousand documents
 
-The use of indexes is recommended for searches that return results of up to a thousand documents. If searches for an index frequently return more than a thousand documents, you can obtain better search performance by indexing the field, i.e., [configuring it as a filter in the data entity](/en/tutorial/filtrando-dados-no-master-data--tutorials_778).
+The use of indexes is recommended for searches that return results of up to a thousand documents. If searches for an index frequently return more than a thousand documents, you can obtain better search performance by indexing the field, i.e., [configuring it as a filter in the data entity](/en/docs/tutorials/filtering-data-on-master-data).
 
 ### Restricting values per document (alternative key)
 

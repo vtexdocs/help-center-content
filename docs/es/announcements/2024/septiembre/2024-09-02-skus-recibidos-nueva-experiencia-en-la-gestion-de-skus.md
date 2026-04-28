@@ -13,6 +13,9 @@ locale: es
 legacySlug: skus-recibidos-nueva-experiencia-en-la-gestion-de-skus
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Explora las nuevas funcionalidades de la página de SKUs recibidos, desarrolladas para facilitar las operaciones diarias.'
+tags:
+  - Nueva funcionalidad
+  - Marketplace
 ---
 
 Desarrollamos nuevas funcionalidades para la página **SKUs recibidos,** con el objetivo de mejorar la experiencia de interacción entre marketplaces y sellers al aprobar SKUs.  
@@ -32,5 +35,5 @@ Ahora, además de tener una vista segmentada de los anuncios recibidos, el marke
 ## ¿Qué se necesita hacer?
 
 La nueva experiencia de la página **SKUs recibidos** estará disponible en modo de prueba en todas las cuentas VTEX a partir del 2 de septiembre de 2024.  
-Para más información sobre la nueva arquitectura de la página y todas las funcionalidades disponibles, consulta **[SKUs recibidos](/es/tutorial/skus-recebidos-beta--4hxDUmbgOEVFSTU2Eqi8DK).**
+Para más información sobre la nueva arquitectura de la página y todas las funcionalidades disponibles, consulta **[SKUs recibidos](/es/docs/tutorials/skus-recebidos-beta).**
 

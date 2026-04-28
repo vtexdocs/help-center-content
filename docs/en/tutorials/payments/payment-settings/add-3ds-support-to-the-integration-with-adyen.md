@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-To add support for [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (security protocol that allows buyers to be authenticated by the issuing bank) in the Adyen integration, you must configure the connector first. Follow the steps below:
+To add support for [3DS](/en/docs/tutorials/what-is-3d-secure) (security protocol that allows buyers to be authenticated by the issuing bank) in the Adyen integration, you must configure the connector first. Follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. Access the __Gateways Affiliations__ tab.

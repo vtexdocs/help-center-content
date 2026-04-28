@@ -3,12 +3,12 @@ title: 'Preço Fixo - Definição de conceito'
 id: 3HxF2u5VwidqnUGnFoKdDy
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:27.780Z
-updatedAt: 2021-05-26T17:20:58.165Z
+updatedAt: 2026-02-24T17:20:58.165Z
 publishedAt: 2021-05-26T17:20:58.165Z
 firstPublishedAt: 2019-07-17T19:42:19.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slugEN: preco-fixo-definicao-de-conceito
+slugEN: fixed-price-concept-definition
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: precos-101
@@ -23,7 +23,7 @@ Desse modo, o preço fixo se sobrepõe ao __preço base__, mesmo em casos que um
 
 Isso significa que o preço fixo tem uma prioridade sobre o preço base e a regra de preço definida para uma tabela.
 
-> ⚠️ Apenas [preços fixos](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) são utilizados nas nossas integrações nativas com marketplaces. Outros cenários previstos na [arquitetura do sistema de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) estão disponíveis apenas para marketplace VTEX-VTEX.
+> ⚠️ Apenas [preços fixos](/pt/docs/tracks/cadastrar-preco-fixo) são utilizados nas nossas integrações nativas com marketplaces. Outros cenários previstos na [arquitetura do sistema de preços](/pt/docs/tracks/arquitetura-do-sistema-de-precos) estão disponíveis apenas para marketplace VTEX-VTEX.
 
 ## Funcionalidades 
 

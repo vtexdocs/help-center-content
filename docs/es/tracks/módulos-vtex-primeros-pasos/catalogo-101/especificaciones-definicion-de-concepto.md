@@ -29,7 +29,7 @@ Esta información podría exhibirse como un filtro en una barra lateral o como u
 
 Las especificaciones de producto pueden recibir datos como strings y números, pudiendo ser consumidas por las APIs de VTEX para ser utilizadas en la personalización del front-end o en el envío de informaciones para integraciones externas.
 
-Para entender el paso a paso completo para la creación de especificaciones de productos, consulte el artículo [Registrar especificaciones o campos de producto](/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106).
+Para entender el paso a paso completo para la creación de especificaciones de productos, consulte el artículo [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto).
 
 ## Especificación de SKU
 
@@ -39,6 +39,6 @@ En una tienda de camisas, podría crear una especificación de SKU para diferenc
 
 Las especificaciones de SKU tendrían los valores **PP, P, M, G y GG**. Estas podrían utilizarse como filtro de navegación del sitio web. Además, las especificaciones funcionarían como selectores de SKU en la página del producto.
 
-Para entender el paso a paso completo para la creación de especificaciones de productos, consulte el artículo [Registrar especificaciones o campos de SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119).
+Para entender el paso a paso completo para la creación de especificaciones de productos, consulte el artículo [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku).
 
 > ⚠️ En VTEX, las especificaciones de SKU son campos obligatorios para concluir el registro de un SKU. Esto significa que, si se crea una nueva especificación dentro de una categoría, todos los SKUs dentro de esta categoría necesitan tener registrada esta nueva especificación. Así, todos estos SKUs estarán inactivos hasta que el registro de esta nueva especificación se haga en los SKUs de la categoría en cuestión.

@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-regular-promotion-form
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX launches an updated Regular Promotion form with improved usability.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 Starting on 22/08/2025, merchants will have access to an updated experience of the Regular Promotion form, which allows you to configure promotional campaigns.
@@ -35,4 +38,4 @@ The form update aims to make creating and managing promotions more intuitive, gi
 ## What needs to be done?
 No action is required. The new form will be available in all VTEX accounts starting on 22/08/2025.
 
-For more information, see [Regular Promotion](/en/tutorial/promocao-regular-pt--tutorials_327).
+For more information, see [Regular Promotion](/en/docs/tutorials/regular-promotion).

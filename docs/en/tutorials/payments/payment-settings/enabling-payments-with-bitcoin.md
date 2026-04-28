@@ -19,7 +19,7 @@ The VTEX platform supports your store to receive payments in Bitcoin digital cur
 
 To use Bitcoin in your store, you must have registered a gateway affiliation capable of processing this payment method and perform the configuration described below:
 
-> ⚠️ If the connector to be chosen (in **Step 7.**) is not yet registered in your store, the message “(Configure)” will be displayed after the name of the connector. In this situation, choose another available connector or register. To learn more, access [Registering gateway affiliations](/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+> ⚠️ If the connector to be chosen (in **Step 7.**) is not yet registered in your store, the message “(Configure)” will be displayed after the name of the connector. In this situation, choose another available connector or register. To learn more, access [Register payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations).
 
 ## Setting up bitcoin payment condition
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
@@ -28,7 +28,7 @@ To use Bitcoin in your store, you must have registered a gateway affiliation cap
 4. Click the __Status__ button to enable this payment condition.
 5. In the __Process with affiliation__ field, choose the connector that will process Bitcoin payments. Only connectors that support this payment method will be availavle for selection.
 6. If there is an anti-fraud set up in your store, you can activate it by checking the __Use Anti-Fraud__ box.
-7. If you wish, you can also [configuring payment special conditions](/en/tutorial/special-conditions).
+7. If you wish, you can also [configuring payment special conditions](/en/docs/tutorials/special-conditions).
 8. Click on __Save__.
 
 After following the steps given, it may take up to 10 minutes for Bitcoin to appear at your store checkout as a payment option.

@@ -21,7 +21,7 @@ El siguiente paso es crear cuentas para los clientes a los que desea ofrecer cr�
 - [Múltiples cuentas masivas (Admin VTEX)](#crear-varias-cuentas-importacion-masiva)
 - [Cuenta individual (Customer Credit API)](#crear-cuenta-a-traves-de-api)
 
-> ℹ️ Las cuentas creadas en la aplicación Customer Credit no tienen relación ni comparten datos con la base de clientes registrada en [entidades de Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-datos) de la tienda. Para que un cliente pueda utilizar Customer Credit como método de pago, el comerciante debe registrar su cuenta en la aplicación, incluso si el cliente ya tiene una cuenta en la tienda.
+> ℹ️ Las cuentas creadas en la aplicación Customer Credit no tienen relación ni comparten datos con la base de clientes registrada en [entidades de Master Data](/es/docs/tutorials/master-data#entidades-de-datos) de la tienda. Para que un cliente pueda utilizar Customer Credit como método de pago, el comerciante debe registrar su cuenta en la aplicación, incluso si el cliente ya tiene una cuenta en la tienda.
 
 ## Crear cuentas individualmente
 
@@ -33,7 +33,7 @@ Para registrar un nuevo cliente en Customer Credit, siga los pasos a continuaci�
 4. En __Crédito__, ingrese los valores de __Límite de crédito (BRL)__ y __Tolerancia__ que desea poner a disposición del cliente.
 5. Haga clic en `Confirmar`.
 
-> ⚠️ El llenado del campo **Email** es obligatorio, ya que la plataforma VTEX utiliza esta información para autentificar el acceso del cliente a los límites de crédito de su cuenta. Para obtener más información sobre protección de datos, visite [Seguridad de SmartCheckout](/es/tutorial/seguridad-de-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+> ⚠️ El llenado del campo **Email** es obligatorio, ya que la plataforma VTEX utiliza esta información para autentificar el acceso del cliente a los límites de crédito de su cuenta. Para obtener más información sobre protección de datos, visite [Seguridad de SmartCheckout](/es/docs/tutorials/seguridad-de-smartcheckout).
 
 A partir de este momento, la nueva cuenta creada se mostrará en la pantalla __Cuentas__.
 

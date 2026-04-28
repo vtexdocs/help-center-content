@@ -57,4 +57,4 @@ Cada um dos três tempos de custo corresponde ao que foi definido para as três 
 
 ### Artigos relacionados
 
-- [Como é calculado o prazo de entrega do pedido](/pt/tutorial/como-e-calculado-o-prazo-de-entrega-do-pedido)
+- [Como é calculado o prazo de entrega do pedido](/pt/docs/tutorials/como-e-calculado-o-prazo-de-entrega-do-pedido)

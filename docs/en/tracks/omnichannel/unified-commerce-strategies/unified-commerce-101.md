@@ -29,22 +29,22 @@ The __Unified Commerce__ solves this problem.
 
 ![32. Unified Commerce 101 - 2 - EN.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/unified-commerce-strategies/unified-commerce-101_2.png)
 
-Unified Commerce is an evolution of omnichannel: in addition to data sharing, this strategy also involves __unifying the order processing and management system__. In practice, this means that every order placed on one store channel is not only visible by other channels but can be processed by them.
+Unified Commerce is an evolution of omnichannel: in addition to data sharing, this strategy also involves __unifying the order processing and management system__. In practice, this means that every order placed on one store channel is not only visible to other channels but can also be processed by them.
 
 Below are some of the scenarios made possible by Unified Commerce:
 - __Endless Aisle__: customer buys in a channel (in a physical store, for example) and receives from the stock of another store or the main Distribution Center.
-- __Transaction with mixed cart__: customer buys in a physical store, picks up one of the products there and receives the other at home from another stock.
+- __Transaction with mixed cart__: customer buys in a physical store, picks up one of the products there, and receives the other at home from another stock.
 - __Pickup in store__: customer buys in the ecommerce and picks up the products in a physical store.
 
-At VTEX, these and other scenarios are possible because the catalog is accessible trough all channels and the Order Management System orchestrates all orders, whether they are made online or offline.
+At VTEX, these and other scenarios are possible because the catalog is accessible through all channels, and the Order Management System orchestrates all orders, whether they are made online or offline.
 
 ## VTEX Sales App
 
-VTEX Sales App is a VTEX app that allows sales associates to cater customers in a personalized way and complete the entire sales process, from helping to choose products to payment and delivery.
+VTEX Sales App is a VTEX app that allows sales associates to cater to customers in a personalized way and complete the entire sales process, from helping to choose products to payment and delivery.
 
 It is an important tool in your Unified Commerce strategy because it interacts with the unified database of your VTEX account and with our Order Management System. In other words, all sales made with VTEX Sales App give the sales associates access to the customer's data, even if this customer has never bought at that physical store. It also allows the creation of orders in which fulfillment is carried out from other channels and stocks.
 
-If you want more details, see our [check out our documentation about VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+If you want more details, see our [check out our documentation about VTEX Sales App](/en/docs/tracks/what-is-vtex-sales-app).
 
 ## Learn more
 

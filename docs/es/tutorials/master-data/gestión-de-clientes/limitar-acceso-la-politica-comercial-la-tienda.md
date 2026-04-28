@@ -19,11 +19,11 @@ La limitación en el acceso a una tienda puede ser implementado por diversas raz
 
 Este escenario se puede cumplir mediante el uso de Master Data v1 y la política comercial utilizada en la tienda.
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 ## Crear cluster de clientes
 
-El primer paso es crear un clúster que la identificación de los clientes que pueden acceder a la tienda. [Para aprender cómo crear un grupo de clientes, visite nuestro manual.](/es/faq/como-crear-un-cluster-de-cliente/)
+El primer paso es crear un clúster que la identificación de los clientes que pueden acceder a la tienda. [Para aprender cómo crear un grupo de clientes, visite nuestro manual.](/es/docs/tutorials/como-crear-un-cluster-de-cliente/)
 
 ## Cambiar Política Comercial
 
@@ -42,11 +42,11 @@ Sin embargo, hay otras opciones de configuración. Se puede configurar, por ejem
 
 ## Registrar los clientes que pueden acceder
 
-Para el caso de B2B, donde la tienda no sabe qué clientes pueden acceder, se debe crear una forma en que las empresas registren sus datos. A través del Master Data se comprobará la verificación de datos y se dará acceso o no a la tienda. [Para realizar este ajuste, visite nuestro manual para las tiendas B2B.](/es/tutorial/configurando-b2b-na-vtex/)
+Para el caso de B2B, donde la tienda no sabe qué clientes pueden acceder, se debe crear una forma en que las empresas registren sus datos. A través del Master Data se comprobará la verificación de datos y se dará acceso o no a la tienda. [Para realizar este ajuste, visite nuestro manual para las tiendas B2B.](/es/docs/tutorials/configurando-b2b-na-vtex/)
 
 ## Learn more
 
 - [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Crear una política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configurar política comercial para marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Como funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
+- [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)
+- [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace)

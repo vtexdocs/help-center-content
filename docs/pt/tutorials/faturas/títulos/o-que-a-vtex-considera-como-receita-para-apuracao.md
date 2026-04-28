@@ -27,7 +27,7 @@ Todos os pedidos que passaram por esse status são considerados na fatura, indep
 Mesmo que se trate de testes, cancelamentos posteriores ou pelo Antifraude, entendemos que toda a plataforma foi utilizada. Já que esse é o estágio em que o cliente conclui todo o processo de compra, consumindo os recursos de Busca, Infra e Hosting, por exemplo.
 
 
-Para descobrir como acessar os pedidos que foram considerados na apuração da receita, leia esse artigo [aqui](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322).
+Para descobrir como acessar os pedidos que foram considerados na apuração da receita, leia esse artigo [aqui](/pt/docs/tutorials/compreenda-o-valor-da-receita-aprovada).
 
 Buscando facilitar sua visualização, todos os pedidos financeiramente aprovados terão essa marcação, que poderá ser vista no módulo gerenciamento de pedidos. 
 

@@ -29,7 +29,7 @@ Por lo tanto, si tienes el dominio de la tienda registrado en la plataforma **Cl
 
 > ⚠️ La configuración de registros CAA según se describe en esta sección, solo es necesaria si tu servidor de DNS tiene un registro CAA. Si no, pasa al tema siguiente de esta guía.
 
-Los registros CAA indican qué autoridades de certificación (CA) están autorizadas para generar y renovar los certificados que validan la identidad de tu dominio. La configuración adecuada de los registros es necesaria para poder generar los [certificados SSL](/es/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) y utilizar la CDN de VTEX.
+Los registros CAA indican qué autoridades de certificación (CA) están autorizadas para generar y renovar los certificados que validan la identidad de tu dominio. La configuración adecuada de los registros es necesaria para poder generar los [certificados SSL](/es/docs/tutorials/certificado-de-seguridad-ssl) y utilizar la CDN de VTEX.
 
 Debes asegurarte de que los registros CAA contengan la siguiente entrada:
 

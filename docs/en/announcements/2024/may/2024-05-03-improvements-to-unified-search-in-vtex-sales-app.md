@@ -13,6 +13,9 @@ locale: en
 legacySlug: improvements-to-unified-search-in-vtex-sales-app
 announcementImageID: 'undefined'
 announcementSynopsisEN: "We've improved the VTEX Sales App's unified search to enhance user experience when browsing and searching for products."
+tags:
+  - Improvement
+  - VTEX Sales App
 ---
 
 We have enhanced the unified search in VTEX Sales App to improve user experience when browsing and searching for products.
@@ -39,5 +42,5 @@ This change is meant to improve the browsing and product search experience of sa
 
 ## What needs to be done?
 
-No action is required. The feature will be automatically applied to all VTEX stores using VTEX Sales App. For more information, see the article [Unified search in VTEX Sales App](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
+No action is required. The feature will be automatically applied to all VTEX stores using VTEX Sales App. For more information, see the article [Unified search in VTEX Sales App](/en/docs/tracks/unified-search-in-vtex-sales-app). 
 

@@ -3,7 +3,7 @@ title: 'Configurar promoción con destaque / flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2025-09-29T17:45:04.455Z
+updatedAt: 2026-03-25T17:45:04.455Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
@@ -25,20 +25,17 @@ En esta guía puedes consultar las siguientes secciones:
 - [Restricciones](#restricciones)
 - [Configurar la promoción](configurar-la-promocion)
 - [Promociones destacadas en Store Framework](#promociones-destacadas-en-store-framework)
-- [Destacar promociones en CMS Portal Legado](#destacar-promociones-en-cms-portal-Legado)
+- [Destacar promociones en CMS Portal (Legado)](#destacar-promociones-en-cms-portal-Legado)
      - [Plantilla de página](#plantilla-de-pagina) 
      - [Plantilla de estantería de productos](#plantilla-de-estanteria-de-productos)
 
 ## Promociones que se pueden destacar
-El destaque de promoción puede aplicarse a diferentes tipos de promociones y descuentos. Este destaque se mostrará en las estanterías y páginas de productos, alertando a los clientes que el artículo forma parte de una promoción especial.
 
-Los siguientes tipos de descuentos son elegibles para la aplicación de un destaque:
+El destaque de promoción permite mostrar una indicación visual en las estanterías y en las páginas de producto, informando que el ítem forma parte de una promoción activa.
 
-- [Descuento porcentual](/es/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): ofrece una reducción porcentual en el valor del producto.
+Actualmente, la opción Destacar en los productos está disponible en todos los tipos de promoción.
 
-- **Regalo**: ofrece un producto adicional sin costo al cliente al comprar un determinado artículo o alcanzar un valor mínimo de compra.
-
-Para más información, consulta [Promociones](/es/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
+Sin embargo, la visualización de este destaque no depende del tipo de promoción configurada. En los casos en que la promoción depende de información que aún no está disponible en el momento en que se cargan las estanterías o las páginas de producto, el destaque no se muestra.
 
 ## Restricciones
 
@@ -66,15 +63,15 @@ Sigue las instrucciones a continuación para configurar promociones destacadas e
 6. Sigue las instrucciones correspondientes a la tecnología frontend utilizada por tu tienda:
 
 - [Store Framework](#promociones-destacadas-en-store-framework)
-- [CMS Portal Legado](#promociones-destacadas-en-cms-portal-legado)
+- [CMS Portal (Legado)](#promociones-destacadas-en-cms-portal-legado)
 
 ## Promociones destacadas en Store Framework
 
 Para tiendas desarrolladas con Store Framework, después de configurar la promoción destacada, sigue las instrucciones de la documentación del componente [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights).
 
-## Destacar promociones en CMS Portal Legado
+## Destacar promociones en CMS Portal (Legado)
 
-Para tiendas CMS Portal Legado, tras configurar la promoción destacada, configura la [plantilla de página](#plantilla-de-pagina) y la [plantilla-de-estantería de productos](#plantilla-de-estanteria-de-productos) en el módulo CMS. Además, el CSS debe estar configurado para esta función.
+Para tiendas CMS Portal (Legado), tras configurar la promoción destacada, configura la [plantilla de página](#plantilla-de-pagina) y la [plantilla-de-estantería de productos](#plantilla-de-estanteria-de-productos) en el módulo CMS. Además, el CSS debe estar configurado para esta función.
 
 ### Plantilla de página
 

@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 O __3D Secure__ (ou 3DS) é um protocolo de segurança baseado em XML, desenvolvido para adicionar uma camada de proteção às transações com cartões de crédito e débito realizadas na internet.
 
-Basicamente, ele busca realizar a autenticação do usuário através de um processo online junto ao [banco emissor](/pt/tutorial/o-que-e-banco-emissor). Ao comprar na sua loja, o usuário digita normalmente os dados do cartão e, então, é redirecionado para o ambiente do banco. Lá, ele deverá preencher os dados requisitados para provar que é o dono do cartão.
+Basicamente, ele busca realizar a autenticação do usuário através de um processo online junto ao [banco emissor](/pt/docs/tutorials/o-que-e-banco-emissor). Ao comprar na sua loja, o usuário digita normalmente os dados do cartão e, então, é redirecionado para o ambiente do banco. Lá, ele deverá preencher os dados requisitados para provar que é o dono do cartão.
 
 O __3DS__ apenas exige uma autenticação do banco, mas não determina como ela deve ser. Por isso, cada instituição possui seu próprio sistema de verificação. Os mais comuns, no entanto, são os métodos baseados em senha, em que o usuário informa a senha atrelada ao cartão usado na compra.
 

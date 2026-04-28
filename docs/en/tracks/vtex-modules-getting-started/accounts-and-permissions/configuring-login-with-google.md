@@ -21,7 +21,7 @@ Just as the customers can login via Facebook, they can also login via **Google**
 
 ## Adding a Client Id and a Client Secret to log in with Google
 
-Before configuring your login information on VTEX, you must configure your Google identity platform by following the instructions detailed in [this article on how to add a Client Id and a Client Secret to log in with Google](/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google--1lBgDmetUM4goie6mYEOK6).
+Before configuring your login information on VTEX, you must configure your Google identity platform by following the instructions detailed in [this article on how to add a Client Id and a Client Secret to log in with Google](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-google).
 
 ## Configuring your login information on VTEX
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with ClearSaleV3 [anti-fraud](/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
+At VTEX, it is possible to integrate with ClearSaleV3 [anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
 Para configurar o ClearSaleV3, siga os passos abaixo:
 
 To configure ClearSaleV3, follow the steps below:
@@ -77,7 +77,7 @@ Configuring ClearSale v3 anti-fraud solution requires creating a tag in Google T
 
 The value entered in the **Custom SLA in minutes** field when configuring the anti-fraud solution is one of the three possible values for the `customSLA` field. If the cart is empty, the `customSLA` value will be the value of the `shippingEstimate` field for the transaction cart. If the cart has at least one item, the `customSLA` value will be the lowest value between the `deliverySlaInMinutes` value of the first item in the cart and the **Custom SLA in minutes** value used when configuring the anti-fraud solution.
 
-The `shippingEstimate` and `deliverySlaInMinutes` values correspond to the delivery time and are generated at checkout from information in the Logistics module. The calculation of the delivery time is explained in the article [How is the delivery time is calculated?](/en/tutorial/how-is-the-order-delivery-deadline-calculated--1TOuKCIjGQmqOqQkEqCg82).
+The `shippingEstimate` and `deliverySlaInMinutes` values correspond to the delivery time and are generated at checkout from information in the Logistics module. The calculation of the delivery time is explained in the article [How is the delivery time is calculated?](/en/docs/tutorials/how-is-the-order-delivery-deadline-calculated).
 
 The `shippingEstimate` value is obtained from a calculation made by the Logistics module. The value is followed by a letter, which represents the time unit used. The letters are:
 
@@ -85,8 +85,8 @@ The `shippingEstimate` value is obtained from a calculation made by the Logistic
 - `h` for hours if the time is less than 24 hours and at least 2 hours.
 - `m` for minutes if time is less than 2 hours.
 
-The `shippingEstimate` field can be obtained from the `shippingData.logisticsInfo[]` items in the [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder) endpoint response.
+The `shippingEstimate` field can be obtained from the `shippingData.logisticsInfo[]` items in the [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) endpoint response.
 
-The `deliverySlaInMinutes` value is the conversion of `shippingEstimate` into minutes. If the unit is `m` (minutes), the value will be the same. If the unit is `h` (hours), the value is multiplied by 60, and if the unit is `d` (calendar days) or `bd` (working days), the value is multiplied by 1440. For example, three calendar days or `3d` is represented as `4320`. The `deliverySlaInMinutes` field is used in each item of the `minicart` in the request body of the [Send Antifraud Pre-Analysis Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata) and [Send Antifraud Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata) endpoints.
+The `deliverySlaInMinutes` value is the conversion of `shippingEstimate` into minutes. If the unit is `m` (minutes), the value will be the same. If the unit is `h` (hours), the value is multiplied by 60, and if the unit is `d` (calendar days) or `bd` (working days), the value is multiplied by 1440. For example, three calendar days or `3d` is represented as `4320`. The `deliverySlaInMinutes` field is used in each item of the `minicart` in the request body of the [Send Antifraud Pre-Analysis Data](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol#post-/pre-analysis) and [Send Antifraud Data](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol#post-/transactions) endpoints.
 
 > ℹ️ Although the time conversion in calendar days (`d`) and working days (`bd`) to minutes is the same in the `deliverySlaInMinutes` field, the delivery date may be different depending on the calendar (when there are weekends and holidays within the delivery window).

@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral da integração com a Posthaus'
+title: 'Integração com a Posthaus - Visão geral'
 id: 4ftXLupAsAfGz4qgFknnNm
 status: PUBLISHED
 createdAt: 2024-10-23T15:22:43.393Z
@@ -21,7 +21,7 @@ Essa integração visa conectar sua loja VTEX com o marketplace, permitindo que 
 
 ![Posthaus ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-posthaus/visao-geral-da-integracao-com-a-posthaus_1.png)
 
-> ℹ️ A funcionalidade [Multilevel Omnichannel Inventory (MOI)](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) não está disponível na integração com a Posthaus.  
+> ℹ️ A funcionalidade [Multilevel Omnichannel Inventory (MOI)](/pt/docs/tutorials/multilevel-omnichannel-inventory) não está disponível na integração com a Posthaus.  
 
 A integração está disponível somente para lojas VTEX do Brasil integrarem produtos de todas as categorias.  
 

@@ -15,4 +15,4 @@ locale: pt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Toda ação feita em um pedido fica registrado no módulo **Pedidos**. Para ver esse log, na página de [detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), clique em `Ver interações`.
+Toda ação feita em um pedido fica registrado no módulo **Pedidos**. Para ver esse log, na página de [detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), clique em `Ver interações`.

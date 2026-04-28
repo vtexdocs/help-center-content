@@ -18,7 +18,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 Stores developed with VTEX IO Store Framework natively have a *Progressive Web App* (PWA), a type of web app that offers a user experience similar to a native app but runs directly in a web browser.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-For Legacy Portal CMS stores, see the guide [How to turn my store's website into a PWA](/en/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
+For Legacy Portal CMS stores, see the guide [How to turn my store's website into a PWA](/en/docs/tutorials/how-to-turn-my-store-website-into-a-pwa).
 </div>
 
 To configure a PWA in your store, go to **Store Settings > Storefront > Store** in the VTEX Admin and follow the steps below:
@@ -68,6 +68,6 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 
 Our service worker supports native push prompts to install the app on the first visit, the first item added to the cart, or the first order. You can customize the notifications in your store's PWA using your own service worker, which will work alongside ours.
 
-To learn how to create your own service worker, see [How to install a service worker](/en/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
+To learn how to create your own service worker, see [How to install a service worker](/en/docs/tutorials/how-to-install-a-service-worker).
 
 To learn how to leverage the service worker builder to group different service workers in your store, see [Using several service workers in your store](https://developers.vtex.com/docs/guides/vtex-io-documentation-using-several-service-workers-in-your-store).

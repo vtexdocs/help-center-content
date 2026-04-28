@@ -50,7 +50,7 @@ To activate Cartman manually, follow the steps below:
 
 Under **Promotion Simulator**, you can view any promotions created in your store that were applied to the cart, as well as what triggered those promotions. You can also test applying promotions before activating them, including scheduled and inactive promotions.
 
-To learn more about this tool, check the [Promotion Simulator](/en/tutorial/promotion-simulator-beta--4zc8SNqjqeIJ0ZRMhjlnvy) guide.
+To learn more about this tool, check the [Promotion Simulator](/en/docs/tutorials/promotions-simulator-beta) guide.
 
 ### Get information about items in cart
 

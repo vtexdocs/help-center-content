@@ -1,3 +1,3 @@
 files:
-  - source: /docs/localization/pt/*.md
-    translation: /docs/localization/%two_letters_code%/%original_file_name%
+  - source: /localization/*.md
+    translation: /localization/%file_name%_%two_letters_code%.%file_extension%

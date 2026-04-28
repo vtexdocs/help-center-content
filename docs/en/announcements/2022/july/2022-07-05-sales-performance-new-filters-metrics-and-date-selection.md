@@ -44,7 +44,7 @@ The goal of the new filter dimensions is to refine your data exploration, offeri
 
 ## What needs to be done?
 
-This update is only available to stores operating with the [New VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). 
+This update is only available to stores operating with the [New VTEX Admin](/en/announcements/2022-06-13-welcome-to-the-redesigned-vtex-admin). 
 
 No action is required. The page has been automatically updated in your VTEX Admin under the **Dashboards** menu. Learn more in [Sales Performance](/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp).
 

@@ -15,19 +15,19 @@ locale: pt
 subcategoryId: FTLNAWyLmuaIiAq4CQKS6
 ---
 
-Todos os produtos que chegam do seller para o marketplace passam pelo módulo [SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus). Após aprovação do marketplace, os SKUs do seller passam a fazer parte do catálogo do marketplace e podem ser acompanhados no Admin VTEX em **Marketplace > Vínculos de SKU**. Saiba mais no artigo [Vínculos de SKU](/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX).
+Todos os produtos que chegam do seller para o marketplace passam pelo módulo [SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus). Após aprovação do marketplace, os SKUs do seller passam a fazer parte do catálogo do marketplace e podem ser acompanhados no Admin VTEX em **Marketplace > Vínculos de SKU**. Saiba mais no artigo [Vínculos de SKU](/pt/docs/tutorials/vinculos-de-sku).
 
-Ao [desvincular o SKU](/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#desvincular-sku) do seller, o SKU deixa de estar disponível e não é mais exibido no marketplace. Além disso, o SKU desvinculado não recebe mais atualizações de preço e estoque.
+Ao [desvincular o SKU](/pt/docs/tutorials/vinculos-de-sku#desvincular-sku) do seller, o SKU deixa de estar disponível e não é mais exibido no marketplace. Além disso, o SKU desvinculado não recebe mais atualizações de preço e estoque.
 
 > ℹ️ Um SKU desvinculado não retorna para a fila de aprovação da página **SKUs Recebidos**, pois continua existindo no catálogo do marketplace.
 
-Se o objetivo do marketplace é excluir permanentemente o SKU do seller, é preciso [remover o SKU](/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#remover), pois desta forma o SKU do seller deixa de fazer parte do catálogo do marketplace. Para voltar a fazer parte do catálogo novamente, o SKU precisa ser enviado novamente pelo seller e aprovado pelo marketplace.
+Se o objetivo do marketplace é excluir permanentemente o SKU do seller, é preciso [remover o SKU](/pt/docs/tutorials/vinculos-de-sku#remover), pois desta forma o SKU do seller deixa de fazer parte do catálogo do marketplace. Para voltar a fazer parte do catálogo novamente, o SKU precisa ser enviado novamente pelo seller e aprovado pelo marketplace.
 
-Para mais informações, confira o artigo [Vínculos de SKU](/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX).
+Para mais informações, confira o artigo [Vínculos de SKU](/pt/docs/tutorials/vinculos-de-sku).
 
 ## Saiba mais
 
-- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
-- [Escolher entre conta padrão, conta franquia ou Seller Portal](/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
-- [Configurar seller para vender em marketplace VTEX](/pt/tutorial/como-configurar-el-seller-para-vender-en-un-marketplace-vtex--6g045OkRSjNpqhkExbQRlP)
-- [Configurar marketplace VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
+- [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex)
+- [Escolher entre conta padrão, conta franquia ou Seller Portal](/pt/docs/tutorials/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal)
+- [Configurar seller para vender em marketplace VTEX](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex)
+- [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex)

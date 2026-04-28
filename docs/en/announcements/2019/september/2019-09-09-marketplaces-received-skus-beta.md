@@ -60,7 +60,7 @@ In the long term, the next step is to look at the other side of a marketplace op
 
 For the months to come, we will be engaged in a redesign to improve how sellers submit new SKUs and manage interactions with marketplaces. This opens the possibility of new features and improvements such as more complete status and log updates, category and attributes mapping, and so on.
 
-Want to know more about how to use the new Received SKUs panel? Check the updated [Help Articles](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
+Want to know more about how to use the new Received SKUs panel? Check the updated [Help Articles](/en/docs/tutorials/manual-sku-cataloging).
 
 Good sales!
 

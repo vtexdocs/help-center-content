@@ -15,14 +15,14 @@ locale: es
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-Cuando se reembolsa el valor de un pedido al cliente, VTEX envía automáticamente un correo electrónico a ese cliente, notificándole que el reembolso fue exitoso. Usted puede desactivar o personalizar la plantilla para este correo electrónico en el [Centro de Mensajes de su tienda](/es/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
+Cuando se reembolsa el valor de un pedido al cliente, VTEX envía automáticamente un correo electrónico a ese cliente, notificándole que el reembolso fue exitoso. Usted puede desactivar o personalizar la plantilla para este correo electrónico en el [Centro de Mensajes de su tienda](/es/docs/tracks/como-funciona-el-message-center).
 
 ## Personalización de plantillas
 
-Para hacer esto, ingrese al Centro de Mensajes y busque la plantilla **Order Refund Customer**. O busque la clave de la plantilla: `vtexcommerce-order-refunded`. Lea nuestra [guía del Centro de Mensajes](/es/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO) para aprender a personalizar las plantillas de email transaccional.
+Para hacer esto, ingrese al Centro de Mensajes y busque la plantilla **Order Refund Customer**. O busque la clave de la plantilla: `vtexcommerce-order-refunded`. Lea nuestra [guía del Centro de Mensajes](/es/docs/tracks/crear-o-editar-template-de-correo-electronico-transaccional) para aprender a personalizar las plantillas de email transaccional.
 
 ## Evento de activación del email
 
-El correo electrónico de pedido reembolsado se activa cuando la tienda envía una notificación de factura de devolución. Este envío se realiza a través de la llamada de API [Order Invoice Notification](https://developers.vtex.com/reference/invoice#invoicenotification), con el campo `type` conteniendo el valor `input`.
+El correo electrónico de pedido reembolsado se activa cuando la tienda envía una notificación de factura de devolución. Este envío se realiza a través de la llamada de API [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), con el campo `type` conteniendo el valor `input`.
 
 En el Admin, este evento se activa cuando se hace clic en el botón **Hacer devolución de ítems** en la pantalla de detalles del pedido.

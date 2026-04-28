@@ -21,9 +21,9 @@ Para utilizar um filtro, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
 2. Clique em `Filtros`.
-3. Selecione o [filtro](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) desejado.
+3. Selecione o [filtro](/pt/docs/tutorials/filtrar-todos-pedidos) desejado.
 4. Clique em `Aplicar`.
 
-Para saber mais detalhes sobre os filtros, veja o artigo [Filtrar pedidos em Todos os pedidos](/pt/tutorial/filtrar-todos-pedidos--tutorials_192).
+Para saber mais detalhes sobre os filtros, veja o artigo [Filtrar pedidos em Todos os pedidos](/pt/docs/tutorials/filtrar-todos-pedidos).
 
 > ℹ️ Ao aplicar múltiplos filtros em pesquisas diferentes, o total de pedidos momentaneamente visualizados na janela de filtragem pode ser diferente do total apresentado na tela **Todos os pedidos**. Isso ocorre por uma limitação da plataforma, mas não impacta na validade dos resultados exibidos após a filtragem.

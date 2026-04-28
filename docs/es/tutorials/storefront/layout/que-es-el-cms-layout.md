@@ -34,7 +34,7 @@ Si aún no ha creado un Web Site (o desea crear un nuevo), es en ese directorio 
 
 Antes de comenzar a organizar el contenido de su Web Site, este Web Site debe estar vinculado a un account name. De esta forma, el sistema entiende dónde se va a aplicar toda la información agregada o modificada en las carpetas, archivos o código del Web Site.
 
-Este es un proceso fundamental para el perfecto funcionamiento de su tienda, pero también es muy simple. Sólo tienes que seguir los pasos [de este artículo](/es/tutorial/vincular-un-account-name-a-un-website-binding).
+Este es un proceso fundamental para el perfecto funcionamiento de su tienda, pero también es muy simple. Sólo tienes que seguir los pasos [de este artículo](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding).
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/que-es-el-cms-layout_1.png)
 
@@ -72,7 +72,7 @@ Para administrar los archivos de su sitio Web, usted puede acceder a este direct
 - [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
 - [Configuración](/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM)
 - [Estructura de las carpetas del Layout](/es/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [Lista de controles para plantillas](/es/tutorial/list-of-controls-for-templates--tutorials_563)
+- [Lista de controles para plantillas](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 - [¿Qué son las plantillas?](/es/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
 - [¿Qué es un sitio web?](/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
 - [¿Qué son los controles?](/es/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
@@ -81,15 +81,15 @@ Para administrar los archivos de su sitio Web, usted puede acceder a este direct
 - [¿Qué es binding?](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ### Guías
-- **[Crear o editar una plantilla de página](/es/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprende a crear plantillas de página. La plantilla de página es un modelo creado para definir una estructura HTML para presentar el contenido de las páginas.
+- **[Crear o editar una plantilla de página](/es/docs/tutorials/como-crear-un-template-de-pagina):** Aprende a crear plantillas de página. La plantilla de página es un modelo creado para definir una estructura HTML para presentar el contenido de las páginas.
 
 - **[Asociar una plantilla a un layout](/es/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
 
-- **[Gestión de placeholders](/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Un placeholder es un fragmento de código configurable que atiende a las condiciones establecidas por la tienda. Inserta y configura un placeholder, por ejemplo un banner en tu tienda.
+- **[Gestión de placeholders](/es/docs/tutorials/gestion-de-placeholders):** Un placeholder es un fragmento de código configurable que atiende a las condiciones establecidas por la tienda. Inserta y configura un placeholder, por ejemplo un banner en tu tienda.
 
 - **[Uso de controles nativos de VTEX](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Los controles son fragmentos de código que puedes utilizar en las plantillas de tu sitio web para realizar acciones específicas, por ejemplo, un control en una página de producto para mostrar el nombre del producto en la pantalla.
 
-- **[¿Para qué sirve el Control Personalizado?](/es/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Además de los controles nativos de VTEX, puedes crear tus propios controles.
+- **[¿Para qué sirve el Control Personalizado?](/es/docs/tutorials/para-que-serve-o-controle-customizado):** Además de los controles nativos de VTEX, puedes crear tus propios controles.
 
 ### Controles
 - [Lista de controles para templates](/es/tutorial/lista-de-controles-para-templates)

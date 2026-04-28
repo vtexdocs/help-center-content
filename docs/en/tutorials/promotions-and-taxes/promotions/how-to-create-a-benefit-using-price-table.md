@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Before activating your promotional price table, you must have a already created a price table. See our tutorial for more info on **[creating price tables](/en/tutorial/criar-tabelas-de-precos?locale=en).** Complete this step first and then move onto the next steps.
+Before activating your promotional price table, you must have a already created a price table. See our tutorial for more info on **[creating price tables](/en/tutorial/criar-tabelas-de-precos).** Complete this step first and then move onto the next steps.
 
-After choosing a price table that you wish to use, you can create a promotional price table, using the two types of discount highlighted below. Check which fields to fill out here:  **[regular benefits](/en/tutorial/promocao-regular?locale=en) or [campaign audience benefits](/en/tutorial/promocao-de-campanha?locale=en)**
+After choosing a price table that you wish to use, you can create a promotional price table, using the two types of discount highlighted below. Check which fields to fill out here:  **[regular benefits](/en/tutorial/promocao-regular) or [campaign audience benefits](/en/tutorial/promocao-de-campanha)**
 
 The steps above must be successfully completed prior to attempting to create a promotional price table. Afterwards, follow the steps below:
 
@@ -31,7 +31,7 @@ After completing the above you just need to enable your benefit or campaign audi
 
 Some important consideration regarding the promotional price table:
 
-- The price table configured price will only be applied if the value is less than the value set by site in the trade policy.
+- The price table configured price will only be applied if the value is less than the value set by site in the sales channel.
 - Promotional price table compete among themselves as well as with other configured benefits that are not set to be cumulative
 - You can only configure one price table for each benefit
 - A limit of ten (10) simultaneous price table benefits for each store is presently enforced

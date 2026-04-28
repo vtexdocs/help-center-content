@@ -33,5 +33,5 @@ O funcionamento dos redirecionamentos ocorre em etapas:
 
 Essas configurações garantem que o endereço IP resolvido seja dinâmico, podendo mudar a qualquer momento. Isto acontece porque este endereço IP se adapta para corresponder ao servidor de CDN (_Content Delivery Network_) mais próximo da localização do visitante. Esta adaptação melhora o desempenho do site, já que os arquivos são entregues a partir de servidores mais próximos geograficamente do visitante.
 
-Para mais informações sobre configuração de DNS na VTEX, veja [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj).
+Para mais informações sobre configuração de DNS na VTEX, veja [Go-live](/pt/docs/tracks/go-live).
 

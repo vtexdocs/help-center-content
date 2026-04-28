@@ -18,7 +18,7 @@ order: 6
 There are three ways to add a base price:
 
 - through Admin
-- [by using a spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [by using a spreadsheet](/en/docs/tracks/exporting-and-importing-via-a-price-spreadsheet)
 - through an API REST
 
 Follow the steps below to add a base price to your SKUs:
@@ -68,7 +68,7 @@ You can also add a **list price** that is linked to the SKU base price. However,
 | listPrice | integer | SKU List Price |
 | markup | integer | SKU Markup |
 | fixedPrices | array | Fixed Price  |
-| tradePolicyId | integer | Trade policy ID |
+| tradePolicyId | integer | Sales channel ID |
 | value | integer | Fixed Price value |
 | listPrice | integer | List Price |
 | minQuantity | integer | Minimum item quantity |

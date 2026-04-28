@@ -19,13 +19,13 @@ Granting credit to third parties is a strategy used in several business models. 
 
 Before we look more deeply at how to apply this strategy, let's define “credit”. Every company that accepts installment payments needs to establish a maximum amount per month to cover these small “debts”. This amount is the credit limit.
 
-At VTEX, stores count on [Customer Credit](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) to assist them in the management of this topic. It is an app that allows users to grant credit to customers - whether they are individuals or partner stores -, and they can use this credit as a payment method.
+At VTEX, stores count on [Customer Credit](/en/docs/tutorials/customer-credit-overview) to assist them in the management of this topic. It is an app that allows users to grant credit to customers - whether they are individuals or partner stores -, and they can use this credit as a payment method.
 
 In this article, we’ll suggest an implementation flow for Customer Credit in B2B strategies.
 
 ## Selecting your customers
 
-First of all, you must download Customer Credit at [VTEX App Store](https://apps.vtex.com/) and [configure it](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg) in your store.
+First of all, you must download Customer Credit at [VTEX App Store](https://apps.vtex.com/) and [configure it](/en/docs/tracks/setting-up-the-app) in your store.
 
 The next step is to select the customers to whom you want to offer credit.
 
@@ -58,10 +58,10 @@ This process can be performed either by a credit department or by software compa
 
 ## Adding accounts through the app
 
-Now that your customers have been selected, it is possible to [create their Customer Credit accounts](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Now that your customers have been selected, it is possible to [create their Customer Credit accounts](/en/docs/tracks/creating-accounts).
 
 Currently, stores can carry out this operation in three different ways:
-- Base registration through the [Customer Credit API](https://developers.vtex.com/reference/customer-credit-api-overview).
+- Base registration through the [Customer Credit API](https://developers.vtex.com/docs/api-reference/customer-credit-api).
 - Individual registration through VTEX’s administrative dashboard.
 - Bulk registration through spreadsheet import, with data from several accounts, also via our administrative dashboard.
 
@@ -83,10 +83,10 @@ If the database has a large number of accounts, it is best to import a spreadshe
 
 ### Large databases
 
-If a store works with external credit management in its ERP system, we recommend that the operation is performed through the [Customer Credit API](https://developers.vtex.com/reference/account-1#openanaccount). In this case, use the Open an Account endpoint.
+If a store works with external credit management in its ERP system, we recommend that the operation is performed through the [Customer Credit API](https://developers.vtex.com/docs/api-reference/account-1#openanaccount). In this case, use the Open an Account endpoint.
 
 Another differential of the API is that the operation adds the account and at the same time grants a limit to it.
 
-On our [Introduction to Customer Credit track](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU), you can check out a tutorial on how to add an account through each of these methods.
+On our [Introduction to Customer Credit track](/en/docs/tracks/creating-accounts), you can check out a tutorial on how to add an account through each of these methods.
 
-The next step after the initial configuration is [managing the accounts](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/4eknoeqaj6EGC20amsm6Gc), with the aim of ensuring a healthy credit flow.
+The next step after the initial configuration is [managing the accounts](/en/docs/tracks/managing-accounts), with the aim of ensuring a healthy credit flow.

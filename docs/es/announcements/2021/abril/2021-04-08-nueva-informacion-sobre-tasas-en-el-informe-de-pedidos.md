@@ -17,11 +17,11 @@ announcementSynopsisES: 'La columna Taxes del informe de pedidos ha sido modific
 
 La exportación de los informes de pedidos permite realizar acciones externas, como analizar el desempeño de promociones o utilizarlos como nota de entrega para facilitar la logística de la tienda.
 
-La columna **Taxes** del [informe de pedidos](/es/tutorial/planilla-de-pedidos--31m1ewsmsEe0WS4So2aGMY) ha sido modificada para ofrecer a los administradores de tienda más visibilidad sobre el valor total de impuestos cobrados en cada pedido.
+La columna **Taxes** del [informe de pedidos](/es/docs/tutorials/informe-de-pedidos) ha sido modificada para ofrecer a los administradores de tienda más visibilidad sobre el valor total de impuestos cobrados en cada pedido.
 
 ## ¿Qué cambió?
 
-Anteriormente, la columna **Taxes** del informe de pedidos solo mostraba las tasas [introducidas en el Checkout](/es/tutorial/ingresar-tasas-en-el-carrito--2wY5ePTTRz17EBhO3F7XBQ), es decir, los valores identificados como `Tax`. El informe no tenía en cuenta las tasas personalizadas [creadas en Tasas y Promociones en el admin](/es/tutorial/creando-la-tasaimpuesto--tutorials_321), es decir, no contenía los valores identificados como `CustomTax`.
+Anteriormente, la columna **Taxes** del informe de pedidos solo mostraba las tasas [introducidas en el Checkout](/es/docs/tutorials/ingresar-tasas-en-el-carrito), es decir, los valores identificados como `Tax`. El informe no tenía en cuenta las tasas personalizadas [creadas en Tasas y Promociones en el admin](/es/docs/tutorials/creando-la-tasaimpuesto), es decir, no contenía los valores identificados como `CustomTax`.
 
 Ahora, la columna **Taxes** muestra la suma de los valores de las tasas introducidas en el Checkout (`Tax`) y de las tasas creadas en **Tasas y Promociones** (`CustomTax`).
 
@@ -37,5 +37,5 @@ Con el cambio, el valor total de los impuestos aplicados a cada pedido se inform
 
 No se requiere ninguna acción, el cambio es automático para todas las tiendas VTEX. Todos los informes de pedidos generados a partir de hoy ya reflejan este cambio.
 
-Para entender cómo exportar pedidos, consulte el tutorial [Exportar pedidos en Gestión de pedidos](/es/tutorial/exportacion-de-pedidos-en-gestion-de-pedidos--tutorials_6417), y para saber más sobre la estructura del informe de pedidos, consulte el artículo [Informe de pedidos](/es/tutorial/planilla-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+Para entender cómo exportar pedidos, consulte el tutorial [Exportar pedidos en Gestión de pedidos](/es/docs/tutorials/exportacion-de-pedidos-en-el-modulo-pedidos), y para saber más sobre la estructura del informe de pedidos, consulte el artículo [Informe de pedidos](/es/docs/tutorials/informe-de-pedidos).
 

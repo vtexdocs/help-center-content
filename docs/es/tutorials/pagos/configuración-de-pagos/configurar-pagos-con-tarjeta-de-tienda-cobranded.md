@@ -50,7 +50,7 @@ Después de configurar la tarjeta, deberá configurar la condición de pago.
 6. En __Proceso con la afiliación__, escoja el conector que va a procesar los pagos con tarjeta de tienda cobrands. Solo los conectores que admitan este medio de pago estarán disponibles para su selección.
 7. Si hay un antifraude configurado en su tienda, usted puede activarlo para esta condición de pago seleccionado la casilla __Usar Antifraude__.
 8. Escoja si los pagos serán al contado o en cuotas.
-9. Usted también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales).
+9. Usted también puede configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 10. Haga clic en __Salva__.
 
 Después de seguir los pasos indicados, la __tarjeta de tienda (cobranded)__ va a aparecer en el checkout de su tienda como una opción de pago.

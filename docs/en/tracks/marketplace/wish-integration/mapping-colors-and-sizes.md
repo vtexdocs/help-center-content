@@ -21,7 +21,7 @@ This information is sent when uploading the mapping spreadsheet, which has a fro
 
 > ℹ️ You need to map categories so that Wish can correctly distinguish your SKUs. Example: suppose that two SKUs exist for the same product, having different colors but the same sizes in VTEX. If the category is not mapped, Wish will recognize the two SKUs as merely one.
 
-> ⚠️ Products with no color or size will not be submitted to Wish. If a category does not have these fields in VTEX, you will need to [create an SKU field](/en/tutorial/creating-sku-fields--tutorials_119) in the Catalog and fill it ou with the appropriate values before mapping color and size for your SKUs.
+> ⚠️ Products with no color or size will not be submitted to Wish. If a category does not have these fields in VTEX, you will need to [create an SKU field](/en/docs/tutorials/adding-sku-specifications-or-fields) in the Catalog and fill it ou with the appropriate values before mapping color and size for your SKUs.
 
   - Download the Wish Mapping Spreadsheet in .xlsx format [here](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) .
 

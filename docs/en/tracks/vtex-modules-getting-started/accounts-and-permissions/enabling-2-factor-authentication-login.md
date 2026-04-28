@@ -37,7 +37,7 @@ There are two authentication options:
 
 > ⚠️ We recommend you to use a[authentication application](#enabling-2fa-por-aplicativo) to prevent failures in your telephone provider from making your login impossible. Though the app, the access key will always be available for use.
 
-> ℹ️ As some companies restrict the use of cell phones by telesales operators, users with the [telesales role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) do not have to enable the 2FA when logging in with email and password.
+> ℹ️ As some companies restrict the use of cell phones by telesales operators, users with the [telesales role](/en/docs/tutorials/roles#call-center-operator) do not have to enable the 2FA when logging in with email and password.
 
 ## Enabling the 2FA through an app
 

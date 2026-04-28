@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-Al integrarse con un marketplace, es necesario definir qué productos serán enviados para venta en esta otra tienda. [Usted puede enviar todos los productos o un catálogo personalizado](/es/tutorial/configurar-politica-comercial-para-marketplace). Todas estas configuraciones son posibles a través de la política comercial, como verá a continuación.
+Al integrarse con un marketplace, es necesario definir qué productos serán enviados para venta en esta otra tienda. [Usted puede enviar todos los productos o un catálogo personalizado](/es/docs/tutorials/configurar-politica-comercial-para-marketplace). Todas estas configuraciones son posibles a través de la política comercial, como verá a continuación.
 
 ## Definición del surtido de productos
 
@@ -45,7 +45,7 @@ Esto es porque la indexación se realiza cuando hay cambios en el registro del p
 
 El acto de crear una colección ya sería suficiente para la indexación de los productos elegidos para la exportación, ya que al guardar una colección, se indexan todos los productos asociados a ella.
 
-Es decir, finalizadas las configuraciones, es importante guardar una vez más su colección de la política comercial del marketplace para [garantizar la replicación de los nuevos productos para el marketplace](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion).
+Es decir, finalizadas las configuraciones, es importante guardar una vez más su colección de la política comercial del marketplace para [garantizar la replicación de los nuevos productos para el marketplace](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion).
 
 Para comprobar si el producto se ha indexado realmente en la política comercial del marketplace, realice los siguientes pasos:
 
@@ -58,6 +58,6 @@ Para comprobar si el producto se ha indexado realmente en la política comercial
 
 Después de la indexación es necesario que los productos sean catalogados en el markerplace. El tiempo para que esta acción se complete depende del proceso interno del markerplace.
 
-Si el markerplace es una tienda VTEX, basta con hacer el [mapeo de marcas y categorías](/es/tutorial/mapeo-de-categorias-y-marcas-para-marketplace/) y la [aprobación de SKUs](/es/tutorial/aprobacion-de-sugerencias-de-skus).
+Si el markerplace es una tienda VTEX, basta con hacer el [mapeo de marcas y categorías](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace/) y la [aprobación de SKUs](/es/tutorial/aprobacion-de-sugerencias-de-skus).
 
 El seguimiento de toda esta comunicación se registrará en el VTEX Bridge.

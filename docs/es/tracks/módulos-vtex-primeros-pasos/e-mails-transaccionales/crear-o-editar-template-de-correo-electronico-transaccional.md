@@ -24,7 +24,7 @@ Para editar un template de correo electrónico transaccional, siga los pasos a c
 3. Altere el título del correo electrónico y el destinatario (los valores entre llaves dobles son variables; en el próximo artículo aprenderemos cómo manejarlas). Usted puede incluir destinatarios en copia (`CC`) y copia oculta (`CCO`).
 4. Deje el flag __Utilizar remitente estándar__ para hacer uso de la dirección de correo electrónico registrado como estándar, como se explica en el artículo anterior de esta guía.
 
-> ℹ️ La lista de plantillas está disponible en el artículo [Plantillas de correo electrónico transaccional relacionadas con el pedido](/es/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
+> ℹ️ La lista de plantillas está disponible en el artículo [Plantillas de correo electrónico transaccional relacionadas con el pedido](/es/docs/tutorials/plantillas-de-emails-transaccionales-del-pedido).
 
 Es en el campo __HTML__ donde encuentra el código HTML del template. Puede editar el código en el propio campo o copiarlo en el editor de su preferencia, editarlo y luego pegarlo nuevamente en el campo del template.
 

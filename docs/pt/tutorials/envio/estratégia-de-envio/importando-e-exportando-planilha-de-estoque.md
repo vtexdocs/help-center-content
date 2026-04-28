@@ -43,7 +43,7 @@ Por meio da planilha de estoque, é possível inserir em massa a quantidade de S
 
 Desse modo, cada linha da planilha diz respeito a um SKU por estoque. Ou seja, se o mesmo SKU constar em mais de um estoque, ele aparecerá uma vez para cada um desses estoques.  A planilha contempla todos os estoques e variações de produtos cadastrados na sua loja.
 
-Essa importação é feita utilizando a planilha do Excel no formato .xls (opção Excel 97-2003 Workbook), cujo modelo é o mesmo exportado acima. Caso seu arquivo tenha mais de 10 MB, é necessário o uso do arquivo compactado com a extensão .zip.
+Essa importação é feita utilizando a planilha do Excel no formato .xls (opção Excel 97-2003 Workbook), cujo modelo é o mesmo exportado acima. Caso seu arquivo tenha mais de 4,5 MB, é necessário o uso do arquivo compactado com a extensão .zip.
 
 Além disso, o preenchimento correto da planilha depende de duas regras. São elas:
 

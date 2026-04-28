@@ -23,7 +23,7 @@ Usted puede modificar el orden de visualización de los medios de pago en el Che
 
 ## Cómo se establece el orden 
 
-En general, la visualización de las [condiciones de pago](/es/tutorial/condiciones-de-pago) en el checkout se define por el orden en que se registraron en la sección Pagos del Admin. Es decir, el medio de pago que ha estado activo durante más tiempo en su tienda se mostrará primero a su cliente.
+En general, la visualización de las [condiciones de pago](/es/docs/tutorials/condiciones-de-pago) en el checkout se define por el orden en que se registraron en la sección Pagos del Admin. Es decir, el medio de pago que ha estado activo durante más tiempo en su tienda se mostrará primero a su cliente.
 
 Alterar este orden es simple: primero, basta desactivar las condiciones de pago preestablecidas. Luego, puede organizar los medios de pago de la manera que prefiera y, así, las condiciones nuevamente.
 

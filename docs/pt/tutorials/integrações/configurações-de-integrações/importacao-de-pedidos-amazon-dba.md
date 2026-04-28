@@ -20,15 +20,15 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 
   - [Selfship](#Selfship)
-  - [FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon FBA Classic](/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO).
-  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](/pt/tutorial/importacao-de-pedidos-amazon-fba-onsite--7gNpMDDchHo29fu3Sbvl1n)
+  - [FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon FBA Classic](/pt/docs/tutorials/importacao-de-pedidos-amazon-fba-classic).
+  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](/pt/docs/tutorials/importacao-de-pedidos-amazon-fba-onsite)
   - [DBA](#DBA-Delivery-by-Amazon)
 
 O Seller pode utilizar o Selfship, FBA e DBA de forma simultânea ou apenas uma das opções logísticas, considerando a elegibilidade dos produtos para os respectivos programas. Independente de optar por utilizar somente uma das opções logísticas ou utilizar dois, ou mais programas, é possível acompanhar e gerenciar todos os pedidos realizados através do Admin VTEX.
 
 ## Selfship
 
-_Selfship_ é a estratégia logística onde o seller é responsável por todo o processo de Fulfillment, desde separar o produto até a entrega final do mesmo. Para configurar essa opção, você deve seguir os passos descritos nas etapas [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) e [Definir Estratégia de Envio na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio). 
+_Selfship_ é a estratégia logística onde o seller é responsável por todo o processo de Fulfillment, desde separar o produto até a entrega final do mesmo. Para configurar essa opção, você deve seguir os passos descritos nas etapas [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) e [Definir Estratégia de Envio na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio). 
 
 ## DBA (Delivery by Amazon)  
 

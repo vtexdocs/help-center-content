@@ -165,4 +165,4 @@ Los eventos se activarán cuando el registro no cumpla los filtros adicionales d
 
 ## Ejemplos
 
-- [Configurar carrito abandonado](/es/tutorial/configurar-carrito-abandonado--tutorials_740)
+- [Configurar carrito abandonado](/es/docs/tutorials/configurar-carrito-abandonado)

@@ -19,27 +19,21 @@ At VTEX, it is possible to integrate with the PagoEfectivoV2 payment provider. W
 
 To configure PagoEfectivoV2, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider` button.
-3. Type the name __PagoEfectivoV2__ in the search bar and click on the name of the provider.
-4. Fill in the __App key__ and __App token__ fields with data provided by your account PagoEfectivoV2.
-5. If you wish to modify the identification name to be displayed for the PagoEfectivoV2 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
-6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
-7. In the __Automatic settlement__ field, select one of the following option:
-<br>
-<ul>
-<br>
-    	<li>**Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
-    	<li>**Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
-   		<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
-   		<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
-</ul>
-8. In __Provider Fields__, enter the __TradeID__, __TradeName__, __TradeEmail__ and __MaxActiveCipTime__ information according to your PagoEfectivoV2 account information.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+2. On the providers screen, click the **New Provider** button.
+3. Type the name **PagoEfectivoV2** in the search bar and click on the name of the provider.
+4. In **Provider Authorization**, fill in the **App key** and **App token** fields with with your PagoEfectivoV2 account information.
+5. If you wish to modify the identification name to be displayed for the PagoEfectivoV2 provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
+6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
+7. In the **Automatic settlement** field, select one of the following option:
+- **Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).
+- **Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.
+- **Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".
+- **Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-9. In __Country__, select the country where the payment transaction will be carried out.
-
-10. In __Currency__, select the currency to be used in the payment transaction.
-
+8. In **Provider Fields**, enter the **TradeID**, **TradeName**, **TradeEmail** and **MaxActiveCipTime** information according to your PagoEfectivoV2 account information.
+9. In **Country**, select the country where the payment transaction will be carried out.
+10. In **Currency**, select the currency to be used in the payment transaction.
 11. Click `Save`.
 
 ## Setting up the payment condition

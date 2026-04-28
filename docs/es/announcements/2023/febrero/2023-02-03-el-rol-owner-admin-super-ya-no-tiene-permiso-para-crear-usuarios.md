@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'El rol Owner (Admin Super) ya no incluye el recurso Save user, relacionado con las acciones de gestión de usuarios.'
 ---
 
-**Owner (Admin Super)** es un [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que abarca todos los [recursos](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder a información y realizar tareas cotidianas en tu tienda VTEX.
+**Owner (Admin Super)** es un [rol](/es/docs/tutorials/roles) que abarca todos los [recursos](/es/docs/tutorials/recursos-del-license-manager) necesarios para acceder a información y realizar tareas cotidianas en tu tienda VTEX.
 
 Para mejorar las prácticas de seguridad de nuestro ecosistema, hemos redefinido los permisos predeterminados de usuarios y claves en la plataforma. Las claves son equivalentes a las contraseñas y se deben proteger con el mismo rigor.
 
@@ -23,13 +23,13 @@ El objetivo de estas medidas es facilitar a los administradores de la tienda la 
 
 ## Qué cambió?
 
-A partir de hoy, el [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)** dejará de incluir el [recurso](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save user**. Esto significa que los usuarios que solo tengan este rol perderán la capacidad de:
+A partir de hoy, el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)** dejará de incluir el [recurso](/es/docs/tutorials/recursos-del-license-manager) **Save user**. Esto significa que los usuarios que solo tengan este rol perderán la capacidad de:
 - [Crear usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos).
-- Asignar [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) a los usuarios.
-- Remover [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.
+- Asignar [roles](/es/docs/tutorials/roles) a los usuarios.
+- Remover [roles](/es/docs/tutorials/roles) de los usuarios.
 - [Editar datos de usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios).
-- Crear [claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet).
-- Cambiar [claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet).
+- Crear [claves de aplicación](/es/docs/tutorials/claves-de-api).
+- Cambiar [claves de aplicación](/es/docs/tutorials/claves-de-api).
 
 Además, a partir de hoy, VTEX tiene el rol **User Administrator - RESTRICTED**, que incluye únicamente el recurso **Save user** descrito anteriormente.
 
@@ -53,17 +53,17 @@ Sin embargo, recomendamos que revises los usuarios de tu tienda y remuevas el ro
 
 Los usuarios que, a partir de ahora, reciban el rol de usuario **Owner (Admin Super)**, no tendrán el recurso **Save user** y no podrán realizar las acciones asociadas, como crear y editar usuarios y claves de aplicación.
 
-Si deseas que algún usuario de tu tienda pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que el usuario tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que incluya el recurso **Save user**.
+Si deseas que algún usuario de tu tienda pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que el usuario tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/docs/tutorials/roles#tipos-de-perfis) que incluya el recurso **Save user**.
 
 ### Claves de aplicación
 
-Las claves de aplicación con el rol de usuario **Owner (Admin Super)** no recibirán el rol **User Administrator - RESTRICTED** automáticamente. Por lo tanto, si deseas que alguna clave de aplicación pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que la clave tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-roles) que incluya el recurso **Save user**.
+Las claves de aplicación con el rol de usuario **Owner (Admin Super)** no recibirán el rol **User Administrator - RESTRICTED** automáticamente. Por lo tanto, si deseas que alguna clave de aplicación pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que la clave tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/docs/tutorials/roles#tipos-de-roles) que incluya el recurso **Save user**.
 
 > ⚠️ Ten en cuenta que con los cambios descritos anteriormente, las claves de aplicación dejarán de tener el recurso **Save user** y será necesario que un usuario con este recurso se lo asigne, de ser necesario.
 
 ## ¿Cómo proteger las llaves de tu tienda?
 
-Sigue las [buenas prácticas para el uso de claves de aplicación](/es/tutorial/buenas-practicas-claves-de-aplicacion--7b6nD1VMHa49aI5brlOvJm).
+Sigue las [buenas prácticas para el uso de claves de aplicación](/es/docs/tutorials/buenas-practicas-claves-de-api).
 
 Los incidentes ocurren cuando las claves de aplicacón de nuestros clientes se exponen a internet o se capturan mediante phishing. La fuga de estas claves puede tener distintas causas, como por ejemplo:
 
@@ -79,9 +79,9 @@ Reforzamos la importancia de cambiar periódicamente todas las contraseñas de l
 ## Más información
 
 Consulta la siguiente documentación para saber más sobre la gestión de usuarios y permisos en tu tienda:
-- [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-- [Recursos de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
+- [Roles](/es/docs/tutorials/roles)
+- [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
 - [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos)
-- [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
-- [Buenas prácticas para el uso de claves de aplicación](/es/tutorial/buenas-practicas-claves-de-aplicacion--7b6nD1VMHa49aI5brlOvJm)
+- [Claves de aplicación](/es/docs/tutorials/claves-de-api)
+- [Buenas prácticas para el uso de claves de aplicación](/es/docs/tutorials/buenas-practicas-claves-de-api)
 

@@ -21,9 +21,9 @@ Cadastre ou desligue colaboradores na plataforma **Indeva** conforme o perfil de
 
 O processo de cadastro varia conforme o perfil do colaborador:
 
-- [Cadastrar vendedor na plataforma Indeva](/pt/tutorial/cadastro-de-vendedor-indeva--6aHQ7kz8MBAuM143sMnFqK)  
-- [Cadastrar gerente na plataforma Indeva](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf)  
-- [Gerenciar usuários franqueados, supervisores e equivalentes na plataforma Indeva](/pt/tutorial/gerenciar-acesso-de-usuarios-administrativos-na-plataforma-indeva--36VXnj6jIV0zfCSqgGGdrG)
+- [Cadastrar vendedor na plataforma Indeva](/pt/docs/tutorials/cadastrar-vendedor-plataforma-indeva)  
+- [Cadastrar gerente na plataforma Indeva](/pt/docs/tutorials/cadastrar-gerente-plataforma-indeva)  
+- [Gerenciar usuários franqueados, supervisores e equivalentes na plataforma Indeva](/pt/docs/tutorials/gerenciar-usuarios-franqueados-supervisores-e-equivalentes-na-plataforma-indeva)
 
 ### Erros comuns no cadastro de colaboradores
 
@@ -40,7 +40,7 @@ Verifique o histórico do cadastro e revise os períodos ativos.
 A plataforma Indeva aceita apenas CPFs válidos conforme a legislação brasileira.  
 Confira se houve erro de digitação e, se necessário, confirme o número com o colaborador.
 
-> ℹ️ Para transferir um vendedor entre lojas, consulte o artigo [ Transferir vendedor entre lojas](/pt/tutorial/transferir-colaborador-de-uma-loja-para-outra-indeva--6JMZTKvNMtIsPodR0EVMM7) e veja como realizar essa operação corretamente.
+> ℹ️ Para transferir um vendedor entre lojas, consulte o artigo [ Transferir vendedor entre lojas](/pt/docs/tutorials/transferir-vendedor-entre-lojas-indeva) e veja como realizar essa operação corretamente.
 
 ## Desligar colaborador
 

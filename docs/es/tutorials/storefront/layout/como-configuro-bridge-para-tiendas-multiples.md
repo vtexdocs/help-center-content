@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 Integraciones es el módulo de VTEX que realiza la integración entre sus tiendas y los marketplaces. Es un módulo que existe de forma independiente para cada tienda de su cuenta.
@@ -28,6 +28,6 @@ Para que sus productos sean enviados al marketplace, es necesario que la políti
 1. En el Admin VTEX, accede a **Storefront > Layout**.
 2. Haga clic en la carpeta __CMS__ y luego en __Sites and Channels__.
 3. Haga clic en el web site deseado.
-4. [Asocie un account name y las políticas comerciales deseadas](/es/tutorial/vincular-un-account-name-a-un-website-binding) a este web site.
+4. [Asocie un account name y las políticas comerciales deseadas](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding) a este web site.
 
 Las políticas comerciales configuradas en los pasos anteriores estarán disponibles para el Integraciones de esta tienda específica. Ahora, basta con acceder al Integraciones con el account name de esta tienda (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) y [realizar la configuración](/es/tutorial/integrando-con-marketplace).

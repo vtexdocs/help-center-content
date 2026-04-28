@@ -29,5 +29,5 @@ Para mayores informaciones sobre los eventos generados en las transacciones, acc
 
 Además de estos datos, esa interface es dinámica con relación a los filtros que pueden ser hechos y a las búsquedas que pueden ser realizadas. Para mejor extender su uso, acceda:
 
-- [Cómo buscar transacciones](/es/tutorial/transacciones-como-buscar)
-- [Cómo filtrar transacciones](/es/faq/filtrar-transacciones-en-pci-gateway)
+- [Cómo buscar transacciones](/es/docs/tutorials/transacciones-como-buscar)
+- [Cómo filtrar transacciones](/es/docs/tutorials/filtrar-transacciones-en-pci-gateway)

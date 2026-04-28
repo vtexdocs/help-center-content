@@ -16,7 +16,7 @@ announcementSynopsisEN: 'To allow a more comprehensive analysis of the search pe
 ---
 
 
-To analyze and monitor the performance of [VTEX lntelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), you can see and export [reports](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) with data related to searches made in the store. To allow a more comprehensive analysis of the search performance, we include the metrics of [Autocomplete](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) in these reports.
+To analyze and monitor the performance of [VTEX lntelligent Search](/en/docs/tracks/overview-intelligent-search), you can see and export [reports](/en/docs/tutorials/analytics) with data related to searches made in the store. To allow a more comprehensive analysis of the search performance, we include the metrics of [Autocomplete](/en/docs/tutorials/autocomplete) in these reports.
 
 ## What changed?
 Previously it was only possible to see, and export reports on search results and terms used in the search. Now it is also possible to analyze the performance of search suggestions made by Autocomplete.
@@ -24,7 +24,7 @@ Previously it was only possible to see, and export reports on search results and
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://images.ctfassets.net/alneenqid6w5/34n3YHcet5J5gHNNLwLw3r/092ec32f2cc0c2f4fb8254b3327006fd/relatorios-filtros-EN.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-13-autocomplete-metrics-now-available-in-search-reports_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
     </td>
   </tr>
   <tr>

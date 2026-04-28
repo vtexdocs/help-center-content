@@ -21,7 +21,7 @@ The first step to using the app is installing it. Follow the steps below:
 
 1. Access the [app's page](https://apps.vtex.com/vtex-wish-ui/p) in VTEX App Store;
 2. Click on "Get";
-3. Fill in the text box with the name of your [VTEX subaccount](/en/tutorial/what-is-the-store-name--3gh9mTNeMgs6Qe44e8IqQK), exactly as it appears in the Admin's URL;
+3. Fill in the text box with the name of your [VTEX subaccount](/en/docs/tutorials/what-is-the-store-name), exactly as it appears in the Admin's URL;
 
 _ex.: If you URL is “myshop.myvtex.com/admin”, then you should add "myshop" in the text box._
 

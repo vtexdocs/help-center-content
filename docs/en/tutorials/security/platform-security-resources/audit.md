@@ -22,7 +22,7 @@ To access the Audit page in the VTEX Admin, go to **Apps > Installed Apps > Audi
 * [Query events in Audit](#querying-events-in-audit)
 * [View the last queries in Audit](#viewing-the-last-queries-in-audit)
 
-> ℹ️ To view Audit events, you must have a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with the *Insights Metrics*  [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+> ℹ️ To view Audit events, you must have a [role](/en/docs/tutorials/roles) associated with the *Insights Metrics*  [resource](/en/docs/tutorials/license-manager-resources).
 
 ![audit-ui-en (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/platform-security-resources/audit_1.png)
 
@@ -38,9 +38,9 @@ Follow the instructions to search for an event using the filters available in Au
 2. In the **Application** menu under **Filters**, select the application related to the query.
 3. In the **Date** menu, choose a predefined date for the query. If you prefer to set the exact date range for the query, select the **Custom** option and choose the **Start** and **End** dates for the query.
 
-   > ℹ️ Only records from the last 3 months are stored.
+   > ℹ️ Only records from the last 3 months can be searched. If you need data older than this period, please open a [support ticket](https://help.vtex.com/en/support).
 
-4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](/en/docs/tutorials/events-available-in-audit).
 5. If necessary, you can add specific filters to search for events more accurately. To do this, click the `Add Filter` button.
 5. Select the filter parameter (_Author_ or _Event Details_) and enter the value to which the parameter should be compared.
 
@@ -66,10 +66,34 @@ The **Results** section lists all events found in the query and displays informa
 |---|---|
 | __Copy__ | Button to copy the event information displayed in the table to the clipboard. |
 | __Event Time__ | Date and time of the event, displayed in the browser or operating system timezone. |
-| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](/en/docs/tutorials/events-available-in-audit). |
+| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](/en/docs/tutorials/events-available-in-audit). |
 | __Author__ | Email, ID, or token of the user who performed the event. |
 | __More Details__ | Button that opens a modal with more information about the event, when applicable. The details displayed may include: <ul><li class="t-body mb5 lh-copy">**Entity name:** The ID of the entity that was changed.</li><li class="t-body mb5 lh-copy">**Entity before action:** dInformation about the entity before the event, in [JSON](http://www.json.org/) format.</li><li class="t-body mb5 lh-copy">**Entity after action:** Information about the entity after the event, in [JSON](http://www.json.org/) format.</li></ul>Depending on the event, not all the information above is displayed. For example, an event that deleted information only displays the entity before the action. In contrast, an event that added information only displays the entity after the action. <br /><br /> Some events have no additional information. In such cases, the modal is left blank. |
+
+### Exporting results
+
+In addition to viewing the list of events and their information, you can also export these results and share them with others. 
+When performing a query, after applying the filters, the <i class="fas fa-arrow-down" aria-hidden="true"></i> `Export to CSV` button will be enabled.
+
+Click <i class="fas fa-arrow-down" aria-hidden="true"></i> `Export to CSV` to send the file with the events. The email will be sent to the address currently being used in the VTEX Admin.
+
+> ℹ️ The exported file may take around 20 minutes to deliver via email.
+
+See the example of the file that will be exported: 
+
+```csv
+app,source.application,source.author,source.entityName,source.eventTime,source.workflow,table,time
+checkout,checkout,john.doe@example.com,Order,2025-10-28T21:01:01.165Z,order-processing,orders,2025-10-28T21:01:01.166Z
+inventory,inventory,jane.smith@example.com,Product,2025-10-28T21:01:01.166Z,inventory-management,products,2025-10-28T21:01:01.166Z
+catalog,catalog,admin@example.com,Category,2025-10-28T21:01:01.166Z,catalog-update,categories,2025-10-28T21:01:01.166Z
+pricing,pricing,pricing-bot@example.com,Price,2025-10-28T21:01:01.167Z,,,2025-10-28T21:01:01.167Z
+
+```
+
+> ⚠️ Events from the following applications cannot be exported: OMS, Catalog (API), Catalog (Admin), Subscriptions, Portal CMS, and Portal.
+
+> ℹ️ Only one event export is performed at a time. You must wait until you receive the email with the CSV file to perform a new event export.
 
 ### Query examples
 

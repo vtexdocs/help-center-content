@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novo-processo-para-solicitacao-de-exclusao-de-dados-pessoais-via-copilot
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'A partir de 9 de abril, lojistas poderão solicitar a exclusão de dados de clientes diretamente via Copilot.'
+tags:
+  - Melhoria
+  - Identity
 ---
 
 A partir do dia **09 de abril de 2025**, lojistas poderão solicitar a exclusão de dados pessoais de clientes diretamente pelo Copilot. Essa nova funcionalidade tem como objetivo simplificar e agilizar o atendimento às solicitações de exclusão, mantendo conformidade com a Lei Geral de Proteção de Dados (LGPD).
@@ -23,7 +26,7 @@ Atualmente, a solicitação de exclusão de dados pessoais de clientes é feita 
 
 ## O que precisa ser feito?
 
-Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes via Copilot. Para conceder essa autorização aos lojistas, será necessário criar um [perfil de acesso customizado](/pt/tutorial/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
+Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes via Copilot. Para conceder essa autorização aos lojistas, será necessário criar um [perfil de acesso customizado](/pt/docs/tutorials/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).
 
@@ -31,4 +34,4 @@ Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes
 
 Em seguida, atribua este perfil de acesso aos lojistas que serão responsáveis pela solicitação de exclusão de dados de clientes.
 
-Mais detalhes estarão disponíveis na documentação atualizada [Exclusão de dados de clientes](/pt/tutorial/erasing-customer-data--1R9Fn7A06Ifj4R9YD4JTKU) em 09 de abril.
+Mais detalhes estarão disponíveis na documentação atualizada [Exclusão de dados de clientes](/pt/docs/tutorials/exclusao-de-dados-de-clientes) em 09 de abril.

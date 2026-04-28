@@ -25,7 +25,7 @@ En una arquitectura __omnichannel__, los datos del cliente se comparten entre lo
 
 En el omnichannel, sin embargo, los pedidos aún se procesan de forma aislada. Aunque hay intercambio de datos, los pedidos que tienen lugar en el ecommerce viven solamente en el ecommerce, los que tienen lugar en la tienda física viven solamente en la tienda física, y así sucesivamente. Un pedido realizado en un canal no se puede completar en otro, por ejemplo.
 
-El __Comercio Unificado__ resuleve ese problema.
+El __Comercio Unificado__ resuelve ese problema.
 
 ![32. Unified Commerce 101 - 2 - ES.png h 250?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_2.png)
 
@@ -42,9 +42,9 @@ En VTEX, estos y varios otros escenarios son posibles porque el catálogo es acc
 
 VTEX Sales App es una aplicación VTEX que permite a los vendedores en sus tiendas físicas atender a sus clientes de manera personalizada y completar todo el proceso de ventas, desde ayudar a elegir productos hasta el pago y la entrega.
 
-Es una herramienta importante en su estrategia de Comercio Unificado porque interactúa con la base de datos unificada de su cuenta VTEX y con nuestro Sistema de Gestión de Pedidos. En otras palabras, todas las ventas realizadas con VTEX Sales App le dan al vendedor los datos del cliente, incluso si nunca compró en esa tienda, y permite la creación de pedidos en los que el fulfillment se realiza desde otros canales y stocks.
+Es una herramienta importante en su estrategia de Comercio Unificado porque interactúa con la base de datos unificada de su cuenta VTEX y con nuestro Sistema de Gestión de Pedidos. En otras palabras, todas las ventas realizadas con VTEX Sales App le dan al vendedor los datos del cliente, incluso si nunca compró en esa tienda, y permiten la creación de pedidos en los que el fulfillment se realiza desde otros canales y stocks.
 
-Si desea más detalles, consulte nuestra [documentación sobre el VTEX Sales App](/es/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Si desea más detalles, consulte nuestra [documentación sobre el VTEX Sales App](/es/docs/tracks/que-es-vtex-sales-app).
 
 ## Más información
 

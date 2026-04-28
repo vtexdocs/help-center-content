@@ -55,5 +55,5 @@ After filling out the mandatory fields, the tabs available for configuration wil
 
    Repeat these three steps until you reach the format desired for the form. You can include several fields in a single column, as well as create several sections.
 
-- **Queries:** This tab is only intended to show the [queries created on the list](/en/tutorial/creating-a-personalized-master-data-query--tutorials_799).
+- **Queries:** This tab is only intended to show the [queries created on the list](/en/docs/tutorials/creating-custom-queries-in-master-data-v1).
 - **Style Sheet:** Tab to enter the CSS to edit the frontend of the form.

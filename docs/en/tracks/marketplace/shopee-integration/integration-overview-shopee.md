@@ -1,5 +1,5 @@
 ---
-title: 'Integration Overview'
+title: 'Shopee integration - Overview'
 id: 16mHy8MU2k9bh65m5yLIsd
 status: PUBLISHED
 createdAt: 2025-03-17T15:02:23.840Z

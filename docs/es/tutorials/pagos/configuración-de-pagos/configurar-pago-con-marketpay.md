@@ -26,12 +26,12 @@ Para configurar MarketPay, siga los pasos a continuación:
 3. Escriba el nombre **MarketPay** en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En **Autorización del proveedor**, rellene los campos de registro **Clave de aplicación** y **Token de aplicación** con los datos proporcionados por su cuenta MarketPay.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor MarketPay en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
-6. Si desea utilizar [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx)  en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
+6. Si desea utilizar [split de pagos](/es/docs/tutorials/split-de-pagos)  en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
 7. En **Campos del Proveedor**, seleccione o complete los campos N/A según las instrucciones del proveedor.
 8. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por MarketPay, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar los métodos de pago a procesar por MarketPay, acceda al [Configurar Condiciones de Pago](/es/docs/tutorials/condiciones-de-pago).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
 
 Después de seguir los pasos indicados, MarketPay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

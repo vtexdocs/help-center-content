@@ -13,6 +13,10 @@ locale: es
 legacySlug: mercado-libre-smart-pricing
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Automatiza la actualización estratégica de los precios de los productos de tu tienda con Precios inteligentes.'
+tags:
+  - Nueva funcionalidad
+  - Marketplace
+  - Integraciones
 ---
 
 Integramos la funcionalidad **Precios inteligentes** para ayudar a los sellers a optimizar automáticamente los precios de sus productos para que sean los más competitivos en Mercado Libre.
@@ -30,5 +34,5 @@ Los principales beneficios son:
 
 ## ¿Qué se necesita hacer?
 
-La funcionalidad está disponible para todas las cuentas VTEX que utilizan la integración de Mercado Libre a partir del **13 de octubre de 2025.** Para saber cómo configurarla y activarla, accede al tutorial [Precios inteligentes Mercado Libre](/es/tutorial/precificacao-inteligente-mercado-livre--3J8t9EFFaaxmOloOqzU5Hz).
+La funcionalidad está disponible para todas las cuentas VTEX que utilizan la integración de Mercado Libre a partir del **13 de octubre de 2025.** Para saber cómo configurarla y activarla, accede al tutorial [Precios inteligentes Mercado Libre](/es/docs/tutorials/precios-inteligentes-mercado-libre).
 

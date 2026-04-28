@@ -106,6 +106,7 @@ A tabela `orders_latest` armazena o status mais recente de cada pedido, incluind
 | changesattachment_id | character varying(256) | ID do anexo de alterações do pedido. |
 | changesattachment_changesdata | super | Dados de alterações feitas no pedido. |
 | shippingdata_postal_code | character varying(256) | Código postal do endereço de entrega do pedido. |
+| seller_parent_account|character varying(100)| Indica a conta principal da loja em questão. Se a loja atual for a principal, o valor será nulo.|
 
 ## Tabela `orders_historical`
 
@@ -165,6 +166,7 @@ A tabela `orders_historical` armazena um registro completo de todas as atualiza�
 | changesattachment_id | character varying(256) | Identificador único para uma operação de alteração associada ao pedido. |
 | changesattachment_changesdata | super | Detalhes sobre alterações feitas no pedido, como adições de itens, remoções ou modificações. |
 | shippingdata_postal_code | character varying(256) | O código postal do endereço de entrega do pedido. |
+| seller_parent_account|character varying(100)| Indica a conta principal da loja em questão. Se a loja atual for a principal, o valor será nulo.|
 
 ## Tabela `orders_totals`
 
@@ -345,6 +347,7 @@ A tabela de `orders_items` armazena detalhes dos itens individuais em cada pedid
 | measurementunit | character varying(65535) | Unidade de medida do produto. |
 | unitmultiplier | double precision | Multiplicador de unidade para o produto, usado em cálculos de preço e quantidade. |
 | batch_id | character varying(13) | Identificador referente ao carregamento dos dados na tabela para controle de qualidade da ingestão de dados. |
+|uniqueid|character varying(65535)|ID único do item em questão, que pode ser usado para unir esta linha com outras tabelas.|
 
 ## Tabela `orders_extra_info`
 
@@ -419,11 +422,11 @@ O conjunto de dados de Pedidos possui correlações com os seguintes conjuntos d
 
 ### Conheça outros Conjuntos de dados
 
-- [Inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegação](/pt/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pagamentos](/pt/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
-- [Preços](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promoção](/pt/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do Bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Inventário](/pt/docs/tutorials/inventario-data-pipeline-beta)
+- [Navegação](/pt/docs/tutorials/navegacao-data-pipeline-beta)   
+- [Pagamentos](/pt/docs/tutorials/pagamentos-data-pipeline-beta)   
+- [Preços](/pt/docs/tutorials/precos-data-pipeline-beta)
+- [Promoção](/pt/docs/tutorials/promocoes-data-pipeline-beta)
+- [Vale-presente](/pt/docs/tutorials/vale-presente-data-pipeline)
+- [Logs do Bridge](/pt/docs/tutorials/logs-do-bridge-data-pipeline)
 

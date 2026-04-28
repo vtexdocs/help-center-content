@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Stores that operate with [Unified Commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) strategies and omnichannel architecture need to manage orders alongside their financial reconciliation. The **Orders** module and the [Split Payment](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) solution allow an order to be split among multiple sellers, which is called order splitting.
+Stores that operate with [Unified Commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) strategies and omnichannel architecture need to manage orders alongside their financial reconciliation. The **Orders** module and the [Split Payment](/en/docs/tutorials/split-payment) solution allow an order to be split among multiple sellers, which is called order splitting.
 
-You can see if an order has been split in the order ID. There are two ID formats for stores acting as a [marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb):
+You can see if an order has been split in the order ID. There are two ID formats for stores acting as a [marketplace](/en/docs/tutorials/configuring-vtex-marketplace):
 
 - A sequence of 12 numerical digits. For example: `527103869572`.
 - A sequence of alphanumeric numbers, consisting by default of the letter "v," followed by 6 numerical digits and 4 letters. For example: `v527103anml`.
@@ -28,7 +28,7 @@ When the order is split, a suffix is added to the ID, such as `-01` or `-02`. Ea
 
 > ℹ️ Orders placed on the marketplace will have an ID in the sellers' environment. Each seller has restricted access to its order section and no access to other sellers' orders.
 
-The order ID in the seller's environment is based on the same sequence used in the marketplace but has an additional prefix corresponding to the [affiliate ID](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), composed of three consonants that identify the seller in the marketplace.
+The order ID in the seller's environment is based on the same sequence used in the marketplace but has an additional prefix corresponding to the [affiliate ID](/en/docs/tutorials/what-is-an-affiliate), composed of three consonants that identify the seller in the marketplace.
 
 > For example: If the order ID in the marketplace is `v527103anml-01`, in the seller environment, it would be `SLR-v527103anml-01`.
 
@@ -36,4 +36,4 @@ Some stores using [integrations with ERP](https://developers.vtex.com/vtex-rest-
 
 ## Learn more
 
-- [Precautions when setting the order numbering](/en/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu)
+- [Precautions when setting the order numbering](/en/docs/tutorials/precautions-when-setting-the-order-numbering)

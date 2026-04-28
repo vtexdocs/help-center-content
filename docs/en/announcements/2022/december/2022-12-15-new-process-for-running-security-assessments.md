@@ -21,5 +21,5 @@ It is also common for retailers to want to run this kind of assessment on their 
 
 ## What needs to be done?
 
-To run security tests on your store, you must submit a detailed request and then report to VTEX any vulnerabilities found. Read this article to learn how to [request a security assessment and report vulnerabilities](/en/tutorial/avaliacoes-de-seguranca-e-relatorios-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
+To run security tests on your store, you must submit a detailed request and then report to VTEX any vulnerabilities found. Read this article to learn how to [request a security assessment and report vulnerabilities](/en/docs/tutorials/penetration-tests).
 

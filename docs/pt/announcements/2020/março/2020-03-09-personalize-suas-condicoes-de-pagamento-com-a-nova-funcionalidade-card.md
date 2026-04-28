@@ -37,4 +37,4 @@ A principal diferença é que, depois de selecionar o país e o banco emissor, o
 
 ![comousarcardlevel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/março/2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card_1.gif)
 
-Para saber em detalhes como configurar essa feature, veja nosso [artigo sobre Configuração de Condições Especiais de Pagamento](/pt/tutorial/special-conditions--tutorials_456).
+Para saber em detalhes como configurar essa feature, veja nosso [artigo sobre Configuração de Condições Especiais de Pagamento](/pt/docs/tutorials/condicoes-especiais).

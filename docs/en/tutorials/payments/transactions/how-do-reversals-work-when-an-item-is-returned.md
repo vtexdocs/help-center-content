@@ -19,7 +19,7 @@ When a request is made for the [partial or total return of items](/en/tutorial/r
 
 In such cases, VTEX sends the refund to the acquirer when the value has already been billed (`Invoiced` status). It works in the following way: VTEX gets in touch with the acquirer and tries to solve the refund online as soon as possible.
 
-However, if this operation is not successful, an [e-mail notification](/en/tutorial/how-to-configure-notifications/) will be sent, informing the retailer to get in touch with the acquirer in order to make the automatic refund.
+However, if this operation is not successful, an [e-mail notification](/en/docs/tutorials/how-to-configure-notifications/) will be sent, informing the retailer to get in touch with the acquirer in order to make the automatic refund.
 
 For more on this, [click here](/en/faq/why-was-my-cancelled-order-charged-in-the-client-invoice).
 
@@ -29,4 +29,4 @@ When payment is made using a "boleto", it is necessary to manually generate a vo
 
 Ideally, you should contact the consumer in order to agree the best method for returning the amount due.
 
-_When the return is made before [acknowledgement of the reservation](/en/tutorial/how-does-reservation-work), the item returns to its inventory of origin, becoming available for a new sale, without the retailer having to enter this unit manually using a spreadsheet or through a API. If the return takes place after the reservation has been acknowledged, it is necessary to return the unit to the inventory, updating this information manually using a spreadsheet or API._
+_When the return is made before [acknowledgement of the reservation](/en/docs/tutorials/how-does-reservation-work), the item returns to its inventory of origin, becoming available for a new sale, without the retailer having to enter this unit manually using a spreadsheet or through a API. If the return takes place after the reservation has been acknowledged, it is necessary to return the unit to the inventory, updating this information manually using a spreadsheet or API._

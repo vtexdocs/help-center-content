@@ -19,7 +19,7 @@ A plataforma VTEX oferece suporte para sua loja receber pagamentos na moeda digi
 
 Para utilizar o Bitcoin em sua loja, você precisa ter cadastrado uma afiliação de gateway capaz de processar esse meio de pagamento e realizar a configuração descrita abaixo:
 
-> ⚠️ Caso o conector a ser escolhido (no **Passo 7.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+> ⚠️ Caso o conector a ser escolhido (no **Passo 7.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway).
 
 ## Configurar condição de pagamento bitcoin
 
@@ -29,7 +29,7 @@ Para utilizar o Bitcoin em sua loja, você precisa ter cadastrado uma afiliaçã
 4. Clique no botão __Status__ para ativar essa condição de pagamento.
 5. Em __Processar com a afiliação__, escolha o conector que irá processar os pagamentos com o Bitcoin. Somente estarão disponíveis para seleção, os conectores que suportam este meio de pagamento.
 6. Se houver um antifraude configurado na sua loja, você pode ativá-lo marcando a caixa __Usar Antifraude__.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 8. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, o Bitcoin pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

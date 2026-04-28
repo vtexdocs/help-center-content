@@ -1,5 +1,5 @@
 ---
-title: 'Setting up a marketplace trade policy'
+title: 'Setting up a marketplace sales channel'
 id: 6mokL50ny8gYK2S4ImOy2w
 status: PUBLISHED
 createdAt: 2018-08-13T12:08:39.183Z
@@ -27,7 +27,7 @@ In other words, if there is no need to define a specific catalog or logistics ty
 
 ![carrefour.en3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/netshoes-integration-set-up/setting-up-a-marketplace-trade-policy_2.png)
 
-So before setting up a new sales policy in your store, make sure you need to do that. If the answer is yes, follow the guidelines in the article [How to hire a new sales policy](/en/faq/how-to-configure-a-new-trade-policy--frequentlyAskedQuestions_700) before moving on to the next configuration step. If your sales policy already meets the conditions you need for integration with the marketplace, follow the instructions below.
+So before setting up a new sales policy in your store, make sure you need to do that. If the answer is yes, follow the guidelines in the article [How to hire a new sales policy](/en/docs/tutorials/creating-a-trade-policy) before moving on to the next configuration step. If your sales policy already meets the conditions you need for integration with the marketplace, follow the instructions below.
 
 
 ## Defining product catalog

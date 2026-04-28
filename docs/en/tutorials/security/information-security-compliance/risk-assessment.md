@@ -89,7 +89,7 @@ In addition to the information security team, other VTEX teams have dedicated me
 
 All providers and partners involved in processing our data, and that of our clients, are subject to contractual agreements that include security clauses. The agreements establish specific guidelines and requirements to guarantee appropriate data protection and ensure that all parties are committed to the highest information security standards.
 
-Learn more about our [third-party infrastructure providers](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
+Learn more about our [third-party infrastructure providers](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
 
 ### Security education and awareness
 
@@ -135,7 +135,7 @@ Media storage devices used to store customer data are classified as critical and
 
 #### Does the company have a data protection and privacy policy? If yes, how often is it reviewed? Has the policy been distributed and communicated to the entire company?
 
-Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://vtex.com/us-en/privacy-and-agreements/external-notice/) can be found on the VTEX website.
+Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) can be found on the VTEX website.
 
 #### Does the organization have a data protection officer (DPO) with the authority, mission, responsibility, and resources to coordinate, develop, and implement applicable privacy requirements and manage privacy risks through a privacy program?
 
@@ -148,7 +148,7 @@ As a data processor, VTEX processes personal data from shoppers only when necess
 * Name
 * Email
 * IP address
-* Browsing data ([cookies](https://vtex.com/us-en/privacy-and-agreements/vtex-platform-cookies-information/))
+* Browsing data ([cookies](https://vtex.com/us-en/trust/cookies-information/))
 * Cart details
 * Order details and history
 * Shipping address
@@ -163,9 +163,9 @@ The data list above is described in the [Data Processing Addendum (DPA)](/en/tra
 
 #### How does VTEX ensure compliance with the General Data Protection Regulation (GDPR) or the Brazilian General Data Protection Law (LGPD)?
 
-VTEX is committed to be compliant with all applicable data protection regulations, including GDPR and LGPD. You can read more about our data protection policies, agreements, and compliance commitment on the [Privacy & Agreements](https://vtex.com/us-en/privacy-and-agreements/) page of our website.
+VTEX is committed to be compliant with all applicable data protection regulations, including GDPR and LGPD. You can read more about our data protection policies, agreements, and compliance commitment on the [Privacy & Agreements](https://vtex.com/us-en/trust/) page of our website.
 
-Check our [Data Processing Addendum (DPA)](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/) to learn how personal data is processed by VTEX.
+Check our [Data Processing Addendum (DPA)](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) to learn how personal data is processed by VTEX.
 
 #### What data subject rights does the VTEX platform guarantee?
 
@@ -173,7 +173,7 @@ VTEX acts as a data processor of end consumer data that is processed by our clie
 
 As the controller, the merchant defines the legal basis and purpose of data processing. If you are unable to handle a request due to technical, contractual, or legal reasons, you can justify the reason for refusal.
 
-If you would like help in exercising the data subject rights of one of your store customers, check [Erasing customer data](/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU).
+If you would like help in exercising the data subject rights of one of your store customers, check [Erasing customer data](/en/docs/tutorials/erasing-customer-data).
 
 #### Does VTEX have a data classification policy?
 
@@ -183,7 +183,7 @@ Our policy establishes the classification levels as public, internal, and confid
 
 #### How may data come into contact with third parties and outsourced or subcontracted projects? How are these interactions protected and monitored?
 
-The VTEX infrastructure is completely reliant on third-party providers, which ensures external partners do not have access to tenant data. See the full list of subprocessors at [VTEX Subprocessors](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
+The VTEX infrastructure is completely reliant on third-party providers, which ensures external partners do not have access to tenant data. See the full list of subprocessors at [VTEX Subprocessors](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
 
 Secure data processing and transmission to third parties is a key priority for VTEX. We use a comprehensive approach that combines advanced technology, rigorous security processes, and continuous employee training. Technical measures, such as robust encryption, are used to protect data during transmission and processing. Also, we have implemented strict information security processes and access controls to ensure that only authorized individuals have access to the data. Among other measures, we constantly invest in updates and improvements to ensure effective protection for the data that is shared with external partners. You can learn more about our current security measures in[ Security Practices](https://vtex.com/us-en/security/security-practices/).
 
@@ -245,7 +245,7 @@ The request is then evaluated to make sure that the employee needs and should re
 
 #### Does VTEX restrict access based on the principle of least privilege?
 
-VTEX restricts access based on the principle of least privilege. This means that users are given only the [access permissions](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) that are strictly required to fulfill their responsibilities, minimizing undue risk of sensitive information and increasing the security of our systems and data.
+VTEX restricts access based on the principle of least privilege. This means that users are given only the [access permissions](/en/docs/tutorials/license-manager-resources) that are strictly required to fulfill their responsibilities, minimizing undue risk of sensitive information and increasing the security of our systems and data.
 
 #### What is the authentication and identity management architecture available on the VTEX platform like?
 
@@ -253,7 +253,7 @@ The VTEX platform has a ready-to-use identity solution called VTEX ID. We also s
 
 The Admin uses [SAML 2.0](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) as authentication protocol, which allows VTEX clients to integrate an existing identity provider using that standard. The store website can be integrated with external identity providers through the[ OAuth 2.0](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) protocol.
 
-We have an [access control](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) process that includes access to production environments and other related environments.
+We have an [access control](/en/docs/tutorials/roles) process that includes access to production environments and other related environments.
 
 Below, we include links to more detailed technical content about our authentication controls:
 
@@ -271,11 +271,11 @@ Passwords under VTEX ID have the following requirements:
 * Minimum of 1 special character.
 * Must not match the last 4 previous passwords.
 
-Merchants can choose to [enable password expiration](/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#aplicar-expiracao-de-senha) after a specific period of time for Admin users, which may be 15, 30, or 90 days.
+Merchants can choose to [enable password expiration](/en/docs/tutorials/authentication#aplicar-expiracao-de-senha) after a specific period of time for Admin users, which may be 15, 30, or 90 days.
 
 Another option for merchants is to integrate an external identity provider, which would allow them to define their own custom password policies. Check[ Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) for more information.
 
-If an account is blocked due to several incorrect password attempts (security measure), the legitimate user can still log in through other methods, such as an email token or [integrated social login](/en/tutorial/configurar-login-com-facebook-e-google--tutorials_513) (Google or Facebook), which prevents potential brute force attacks from exploiting weak passwords.
+If an account is blocked due to several incorrect password attempts (security measure), the legitimate user can still log in through other methods, such as an email token or [integrated social login](/en/docs/tutorials/configuring-login-with-facebook-and-google) (Google or Facebook), which prevents potential brute force attacks from exploiting weak passwords.
 
 #### Does the VTEX platform offer single sign-on (SSO)?
 
@@ -295,15 +295,15 @@ This approach allows a fast implementation of improvements and bug fixes and eff
 
 #### How is user access managed on the platform, including moving, adding, editing, and deleting accounts?
 
-Admin users are managed directly in the VTEX Admin. They are assigned roles that can contain one or more [permissions](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3), which are established by the account's [sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) or by users that have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a customized role containing the Save User [resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Learn more in the article [How to manage users](/en/docs/tutorials/managing-admin-users).
+Admin users are managed directly in the VTEX Admin. They are assigned roles that can contain one or more [permissions](/en/docs/tutorials/license-manager-resources), which are established by the account's [sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) or by users that have the [User Administrator - RESTRICTED](/en/docs/tutorials/predefined-roles#user-administrator-restricted) role or a customized role containing the Save User [resource](/en/docs/tutorials/license-manager-resources). Learn more in the article [How to manage users](/en/docs/tutorials/managing-admin-users).
 
 #### Does the platform have features for managing, organizing, and customizing store management permissions?
 
 Every action on VTEX, such as accessing a page in the Admin or making an API call, is made through a request to our infrastructure. To ensure the security of these operations, we have a system, **License Manager**, that checks whether a user has the right permissions to perform an action. License Manager is based on resources and roles to simplify permission management.
 
-A resource is an entity associated with an action or information within our infrastructure. For example, the Product management resource allows a user to access and edit product information in **Catalog**. For a detailed description of each available resource, see [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+A resource is an entity associated with an action or information within our infrastructure. For example, the Product management resource allows a user to access and edit product information in **Catalog**. For a detailed description of each available resource, see [License Manager resources](/en/docs/tutorials/license-manager-resources).
 
-A [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) determines the set of resources accessible to a group of users on VTEX. Each administrative user can be associated with one or more roles. When creating a new role, you can use one of the [predefined roles](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) provided by VTEX or [create a custom role](/en/tutorial/roles--jGDurZKJHvHJS13LnO7Dy), selecting each required resource.
+A [role](/en/docs/tutorials/roles) determines the set of resources accessible to a group of users on VTEX. Each administrative user can be associated with one or more roles. When creating a new role, you can use one of the [predefined roles](/en/docs/tutorials/predefined-roles) provided by VTEX or [create a custom role](/en/docs/tutorials/predefined-roles), selecting each required resource.
 
 ### Platform security
 
@@ -311,7 +311,7 @@ A [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) determines the set of resou
 
 Secure Sockets Layer (SSL) is a protocol developed to increase the security of data transmitted over the internet. SSL connections are particularly recommended for sending information such as credit card numbers, passwords, and any other sensitive data over the internet.
 
-A merchant doesn't need to buy an SSL certificate. VTEX generate an SSL certificate for your store and guarantees its automatic renewal. The certificate is issued through Let's Encrypt and VTEX is responsible for creating it at the store's go-live. Learn more in[ Security certificate (SSL)](/en/tutorial/certificado-de-seguranca-ssl--tutorials_1308).
+A merchant doesn't need to buy an SSL certificate. VTEX generate an SSL certificate for your store and guarantees its automatic renewal. The certificate is issued through Let's Encrypt and VTEX is responsible for creating it at the store's go-live. Learn more in[ Security certificate (SSL)](/en/docs/tutorials/security-certificate-ssl).
 
 #### How are security patches managed?
 
@@ -335,7 +335,7 @@ The VTEX platform uses the secure HTTPS protocol, which ensures that communicati
 
 #### Does the solution use a Web Application Firewall (WAF)?
 
-We offer a [WAF](/en/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) solution as part of the [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) add-on product. To learn more, check the WAF documentation.
+We offer a [WAF](/en/docs/tutorials/web-application-firewall-waf) solution as part of the [VTEX Shield](/en/docs/tutorials/vtex-shield) add-on product. To learn more, check the WAF documentation.
 
 #### Does the VTEX platform use an API-first approach?
 
@@ -349,7 +349,7 @@ The VTEX platform is constantly monitored by a monitoring system that is managed
 
 Some of these alerts are forwarded to our internal teams, while others are directly sent to store administrators. Yet, other alerts are only logged and do not trigger notifications. For example, failed login attempts are limited and logged but don't trigger alerts. However, the account owner will receive an email if a user tries to modify administrative credentials.
 
-The [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) add-on product triggers additional alerts to increase security and allow more autonomy for merchants to set up their own monitoring.
+The [VTEX Shield](/en/docs/tutorials/vtex-shield) add-on product triggers additional alerts to increase security and allow more autonomy for merchants to set up their own monitoring.
 
 #### How is the platform monitored in terms of performance evaluation? Which variables define platform scalability?
 
@@ -363,13 +363,13 @@ We have an engineering team available 24/7 to handle these alerts. The team is a
 
 All sensitive operations on the platform are automatically logged, with no option to disable this feature. VTEX stores all platform error logs in a security information and event management (SIEM) system, which the VTEX team can access for analyzing and improving the product. In addition, VTEX monitors certain patterns in the application and infrastructure logs that may indicate a potential security risk in the system, triggering alerts or even automatic countermeasures when such patterns are identified.
 
-Also, VTEX logs various operations, including author and timestamp, in[ Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) — a module available in the VTEX Admin that allows searching and investigating log history using filters. Every platform module has a dedicated development team that analyzes and determines the information logged for it. Check the list of[ events available in Audit](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+Also, VTEX logs various operations, including author and timestamp, in[ Audit](/en/docs/tutorials/audit) — a module available in the VTEX Admin that allows searching and investigating log history using filters. Every platform module has a dedicated development team that analyzes and determines the information logged for it. Check the list of[ events available in Audit](/en/docs/tutorials/events-available-in-audit).
 
 #### How can VTEX clients get real-time access to all platform logs?
 
 VTEX doesn't grant access to its internal systems to protect the privacy and security of our clients, as well as to ensure compliance with applicable laws and regulations.
 
-However, we provide logs containing different[ events](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ) in[ Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) and clients can request logs for specific events via[ Support](https://supporticket.vtex.com/support). Clients also have the option of implementing a reverse proxy layer before VTEX that would allow them greater visibility over the requests that reach their environment. This approach gives clients a more detailed and customized control over the data flow in their infrastructure, while maintaining privacy and security as required.
+However, we provide logs containing different[ events](/en/docs/tutorials/events-available-in-audit) in[ Audit](/en/docs/tutorials/audit) and clients can request logs for specific events via[ Support](https://supporticket.vtex.com/support). Clients also have the option of implementing a reverse proxy layer before VTEX that would allow them greater visibility over the requests that reach their environment. This approach gives clients a more detailed and customized control over the data flow in their infrastructure, while maintaining privacy and security as required.
 
 ### Secure development
 
@@ -424,9 +424,9 @@ VTEX mainly uses the following AWS data regions for the described purposes:
 
 Vulnerability checks are continually run. Each check has to be run again until it's approved with no issues found. An auditor will accept them during recertification periods.
 
-#### Could product customizations or configurations made by clients introduce security vulnerabilities to the platform? If yes, how would such event be handled?
+#### Could product customizations or configurations made by clients introduce security vulnerabilities to the platform? If yes, how would such an event be handled?
 
-Merchants and any implementation agency hired by them can create customizations within their own environment. If a vulnerability is detected in the VTEX system, our security and development team will quickly take action to address the issue. Due to the customizable nature of the platform, the merchant and the implementation agency are responsible for handling vulnerabilities that may arise from customizations during development. For more information, check[ Responsibilities within the VTEX ecosystem](/en/tutorial/responsibilities-in-the-vtex-ecosystem--3vL9aWICDr3WR64DYi1fJ3#implementation-agencies).
+Merchants and any implementation agency hired by them can create customizations within their own environment. If a vulnerability is detected in the VTEX system, our security and development team will quickly take action to address the issue. Due to the customizable nature of the platform, the merchant and the implementation agency are responsible for handling vulnerabilities that may arise from customizations during development. For more information, check[ Responsibilities within the VTEX ecosystem](/en/docs/tutorials/responsibilities-within-the-vtex-ecosystem#implementation-agencies).
 
 ### Incident response and mitigation
 
@@ -436,13 +436,13 @@ Yes, VTEX has a formal security incident response protocol that covers the key p
 
 #### Does the company have a pentest calendar? What is the frequency of tests?
 
-Pentests are conducted every six months at VTEX. We share the **Attestation of Penetration Testing** report for the latest penetration tests performed on our behalf by an independent, reputable and technically competent third-party security consultancy.
+Pentests are conducted every six months at VTEX. We share the **Attestation of Penetration Testing** report for the latest penetration tests performed on our behalf by an independent, reputable, and technically competent third-party security consultancy.
 
-This is provided upon request, free of charge, by [opening a ticket to VTEX support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+This is provided upon request, free of charge, by [opening a ticket to VTEX support](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
 #### Does VTEX have an incident response procedure for data breaches that complies with personal data protection laws?
 
-Yes, the VTEX security incident response plan covers incidents related to data breach and complies with personal data protection laws. It includes guidelines for the key phases of the process: preparation, incident detection, containment, eradication, recovery, post-incident activity. This procedure also includes an integrated communication plan that is applied during all phases of the response.
+Yes, the VTEX security incident response plan covers incidents related to data breaches and complies with personal data protection laws. It includes guidelines for the key phases of the process: preparation, incident detection, containment, eradication, recovery, and post-incident activity. This procedure also includes an integrated communication plan that is applied during all phases of the response.
 
 #### What controls does VTEX use to mitigate ransomware attacks?
 
@@ -456,7 +456,7 @@ VTEX has a carefully designed business continuity plan to deal with the challeng
 
 #### Does VTEX have a disaster recovery plan?
 
-VTEX has a disaster recovery plan focused on ensuring operational continuity and availability of critical resources during emergency situations. The plan covers detailed guidelines about how to act during unplanned incidents, classified as crises, which may arise from natural disasters, cyberattacks, or other disruptive events. It incorporates key recovery phases, including the definition of a recovery point objective (RPO) and a recovery time objective (RTO), as well as backup testing to ensure the plan is efficient and ready for real-life scenarios.
+VTEX has a disaster recovery plan focused on ensuring operational continuity and the availability of critical resources during emergency situations. The plan covers detailed guidelines about how to act during unplanned incidents, classified as crises, which may arise from natural disasters, cyberattacks, or other disruptive events. It incorporates key recovery phases, including the definition of a recovery point objective (RPO) and a recovery time objective (RTO), as well as backup testing to ensure the plan is efficient and ready for real-life scenarios.
 
 #### Does VTEX periodically test the disaster recovery plan?
 

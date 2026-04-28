@@ -18,7 +18,7 @@ Para que um produto já vendido em um pedido não seja disponibilizado para outr
 
 Essas reservas respeitam três etapas, porém com dois status. E o que causa muita confusão na maioria dos lojistas, é o porquê essa reserva continuar ativa se o pedido já foi faturado. 
 
-[Entenda como funciona a reserva](/pt/tutorial/como-a-reserva-funciona/).
+[Entenda como funciona a reserva](/pt/docs/tutorials/como-a-reserva-funciona/).
 
 Porém, um item reservado não sai de reservado automaticamente nunca. 
 

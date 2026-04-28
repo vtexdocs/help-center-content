@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ Este tutorial solo es válido para tiendas CMS Portal Legado.
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado).
 
 La comparación de productos es una función nativa de VTEX que permite mostrar en paralelo los detalles y especificaciones de productos previamente seleccionados, lo que permite al usuario comparar los productos de la tienda de forma sencilla y visualizar fácilmente las diferencias entre sus especificaciones.
 
@@ -52,7 +52,7 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
 4. Crea un layout predeterminado:
   - Abre la carpeta creada en el paso anterior.
   - Haz clic en **new layout**.
-  - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](/es/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
+  - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](/es/docs/tutorials/asociar-un-template-con-un-layout).
   - Haz clic en `Save Layout` y después en `OK`.
 
        ![new-layout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurando-a-comparacao-de-produtos_2.gif)

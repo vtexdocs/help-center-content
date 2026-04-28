@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos os clientes e parceiros têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets. 
+Todos os clientes e parceiros têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex). Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets. 
 
 Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Porém, para garantir um atendimento mais rápido e objetivo, existem algumas orientações que devem ser seguidas durante a abertura do ticket. 
 
@@ -26,7 +26,7 @@ Este artigo orienta clientes e parceiros VTEX a abrirem tickets com informaçõe
 - [Antes de abrir um ticket](#Antes-de-abrir-um-ticket)
 - [Preenchendo um ticket](#preenchendo-um-ticket)
 
-Para saber como abrir um chamado na VTEX, leia o artigo [Abrir chamados para o suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para saber como abrir um chamado na VTEX, leia o artigo [Abrir chamados para o suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 
 ## Antes de abrir um ticket
 
@@ -34,7 +34,7 @@ Antes de abrir um ticket, confira se o problema está relacionado às customiza�
 
 ### Carrinho, Checkout e lojas em CMS
 
-É importante validar se o cenário ocorre sem customização da loja. Para realizar este teste, desative as customizações (JS e CSS) e tente reproduzir o erro. Saiba como fazer isso com o artigo [Como bloquear customizações para investigar problemas no front-end da loja](/pt/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY). 
+É importante validar se o cenário ocorre sem customização da loja. Para realizar este teste, desative as customizações (JS e CSS) e tente reproduzir o erro. Saiba como fazer isso com o artigo [Como bloquear customizações para investigar problemas no front-end da loja](/pt/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja). 
 
 ### Store Framework
 
@@ -72,11 +72,11 @@ Se, após seguir todas as etapas indicadas anteriormente, o problema persistir, 
 | Informações | Orientações |
 | ----------- | ----------- |
 | Assunto e descrição do problema |  - Resuma o problema ou dúvida em poucas palavras. Preencha o campo **Assunto da solicitação** de forma concisa e direta para ajudar o time de especialistas a entender rapidamente o cenário.   - Preencha o campo **Assunto da solicitação** com a descrição completa do que foi observado, incluindo o quê, como e onde está acontecendo o problema, para que o time de especialistas possa investigar e reproduzir o cenário. Não esqueça de informar caso o passo a passo para reprodução do cenário inclua alguma ação atípica que precisa ser tomada ou permissão de acesso restrita.   |
-| Evidências | Inclua qualquer material que o problema possa ser observado, sempre que disponível. Por exemplo, capturas ou gravações da tela, [arquivos HAR](/pt/tutorial/gerar-arquivo-har-para-debugar-problemas-na-loja--15xVlw8nuakk2k6Cao4k2Q), logs gerados pela plataforma, respostas do servidor, o texto ou o ID do erro apresentado. |
+| Evidências | Inclua qualquer material que o problema possa ser observado, sempre que disponível. Por exemplo, capturas ou gravações da tela, [arquivos HAR](/pt/docs/tutorials/gerar-arquivo-har-para-debugar-problemas-na-loja), logs gerados pela plataforma, respostas do servidor, o texto ou o ID do erro apresentado. |
 | Cenário esperado | Forneça detalhes do cenário que era esperado, em comparação ao que está acontecendo. |
 | Testes e validações | Se você já tentou solucionar o problema, detalhe as ações já executadas, quais documentações foram consultadas e seus resultados. |
 | Escopo do ticket |  - Não enderece mais de um problema no mesmo ticket.   - Não crie mais de um ticket para o mesmo problema.  |
-| Prioridade | Verifique a [prioridade](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) correta de acordo com  a natureza do problema, para que o [SLA](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#disponibilidade-e-sla-de-atendimento) correto seja aplicado. |
+| Prioridade | Verifique a [prioridade](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex#prioridade-de-chamados) correta de acordo com  a natureza do problema, para que o [SLA](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex#disponibilidade-e-sla-de-atendimento) correto seja aplicado. |
 
 ### Informações relevantes por cenário
 
@@ -87,7 +87,7 @@ Você pode adaptar essas informações ao seu cenário específico e também us�
 | Cenários | Informações |
 | ----------- | ----------- |
 | Pedidos |  - ID do pedido ou do `orderForm `.   - URL do pedido no ** Gerenciamento de pedidos ** ou no ** Bridge ** (em casos de pedidos de marketplaces com integrações nativas).  |
-| Checkout |  - URL do carrinho gerado pelo [Cartman](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).   - IDs dos SKUs e CEP para reprodução do carrinho.   - [HAR](/pt/tutorial/generating-a-har-file--15xVlw8nuakk2k6Cao4k2Q). 
+| Checkout |  - URL do carrinho gerado pelo [Cartman](/pt/docs/tutorials/configurar-o-cartman).   - IDs dos SKUs e CEP para reprodução do carrinho.   - [HAR](/pt/docs/tutorials/gerar-arquivo-har-para-debugar-problemas-na-loja). 
 | Logística |  - ID do seller.   - URL de estoque, doca ou transportadora do seller.   - Informações para simular entrega, como IDs dos SKUs e CEP. |
 | Pagamentos |  - ID da transação.   - Link da transação, acessando no Admin VTEX * Pagamentos > Transações. * 
 | VTEX IO |  - Nome e versão do aplicativo utilizado.   - Workspace utilizado.   - Arquivo ZIP com o [store-theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-3-settingyourstoretheme) em caso de tema linkado e não instalado.  |
@@ -96,6 +96,6 @@ Você pode adaptar essas informações ao seu cenário específico e também us�
 
 #### Saiba mais
 
-- [Abrir chamado no suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
-- [Como funciona o suporte da VTEX?](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
-- [Suporte VTEX - Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
+- [Abrir chamado no suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex)
+- [Como funciona o suporte da VTEX?](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex)
+- [Suporte VTEX - Brasil](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex)

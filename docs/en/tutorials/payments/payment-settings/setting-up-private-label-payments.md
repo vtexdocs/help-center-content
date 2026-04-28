@@ -48,7 +48,7 @@ After clicking __Save__, you will be redirected to the payment condition configu
 2. Under __Process with affiliation__, choose the connector that will process your private label payments (one of the gateway affiliations you registered in the first step of this tutorial).
 3. If there's an anti-fraud set up in your store, you can enable it for this payment condition by checking the __Use Anti-Fraud__ box.
 4. Choose whether the payments will be cash or installments.
-5. You can also set up [special payment conditions](/en/tutorial/special-conditions).
+5. You can also set up [special payment conditions](/en/docs/tutorials/special-conditions).
 5. Click __Save__.
 
 After following the steps indicated above, your private label will appear at your store checkout as a payment option.

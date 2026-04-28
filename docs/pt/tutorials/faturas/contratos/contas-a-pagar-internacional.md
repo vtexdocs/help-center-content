@@ -3,7 +3,7 @@ title: 'Contas a pagar - Internacional'
 id: 3yea9sIlsA0KgUC28ASCGs
 status: PUBLISHED
 createdAt: 2018-02-21T18:37:18.803Z
-updatedAt: 2022-02-04T21:17:03.399Z
+updatedAt: 2022-02-19T21:17:03.399Z
 publishedAt: 2022-02-04T21:17:03.399Z
 firstPublishedAt: 2018-02-21T18:46:03.660Z
 contentType: tutorial
@@ -32,6 +32,10 @@ __Exemplo:__
 - 11 de março de 2020 - data programada para pagamento (data estendida para quarta-feira).
 
 4) Todos os documentos devem ser enviados por e-mail para um dos e-mails abaixo, de acordo com a filial da despesa. Copie o responsável pela contratação do serviço no e-mail para aprovação da fatura.
+
+> ℹ️ Para que a fatura seja registrada corretamente, o fornecedor deve informar no corpo do e-mail o número de identificação fiscal (Tax ID) e o número da fatura.
+
+A tabela a seguir apresenta os e-mails para envio das faturas, conforme o país:
 
 | País | E-mail | 
 | ---------- | ---------- | 

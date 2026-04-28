@@ -13,6 +13,9 @@ locale: es
 legacySlug: nueva-funcionalidad-feedback-de-producto-en-el-admin-vtex
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nueva funcionalidad "Feedback de producto" del Admin VTEX permite compartir opinión directamente con nuestro equipo.'
+tags:
+  - Nueva funcionalidad
+  - Admin
 ---
 
 Estamos lanzando una nueva funcionalidad en el Admin VTEX: el botón Dar feedback. 
@@ -22,4 +25,4 @@ Accede al botón Dar feedback para compartir tu experiencia en nuestra plataform
 El botón Dar feedback permite al equipo de desarrollo de VTEX recibir información de manera eficiente, mejorando la comunicación con nuestros usuarios y permitiéndonos optimizar continuamente nuestros productos y servicios para satisfacer las necesidades de nuestros clientes.
 
 ## ¿Qué se necesita hacer?
-No se requiere ninguna acción; la funcionalidad ya está disponible en todas las tiendas. Para más información, consulta el artículo [Admin VTEX: comienza aquí](/es/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw).
+No se requiere ninguna acción; la funcionalidad ya está disponible en todas las tiendas. Para más información, consulta el artículo [Admin VTEX: comienza aquí](/es/docs/tutorials/admin-vtex-comience-aqui).

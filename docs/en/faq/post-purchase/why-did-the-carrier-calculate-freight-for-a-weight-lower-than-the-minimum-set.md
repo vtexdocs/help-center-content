@@ -32,5 +32,5 @@ In this situation, the platform will understand that, because the weight of the 
 
 ## Go further
 
-[Understand how the cubed weight is calculated.](/en/tutorial/understanding-the-cubic-weight-factor/)
+[Understand how the cubed weight is calculated.](/en/docs/tutorials/understanding-the-cubic-weight-factor/)
 [Learn how to perform a freight simulation.](/en/tutorial/freight-simulation/)

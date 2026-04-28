@@ -41,5 +41,5 @@ As tabelas a seguir representam os dados e os formatos necessários para a impor
 
 ### Saiba mais
 
- * [SmartCheckout - Preenchimento automático de dados do cliente](/pt/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan)
+ * [SmartCheckout - Preenchimento automático de dados do cliente](/pt/docs/tutorials/smartcheckout-preenchimento-automatico-de-dados-do-cliente)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

@@ -28,7 +28,7 @@ On the **Products** page, you can:
 
 ## Creating a new product
 
-By clicking on the `CREATE PRODUCT` button, you will be redirected to the page where you can add a new product to the catalog. Check out the article[ How to create a product](/en/tutorial/how-to-create-a-product-beta--671zAWe0B9eCikzDu7kB1G) for more details.
+By clicking on the `CREATE PRODUCT` button, you will be redirected to the page where you can add a new product to the catalog. Check out the article[ How to create a product](/en/docs/tutorials/how-to-create-a-product) for more details.
 
 > ⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our [Support](https://support.vtex.com/hc/pt-br/requests).
 

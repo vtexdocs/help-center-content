@@ -21,4 +21,4 @@ Además de los avances en seguridad de la información, el HTTPS asegura un mejo
 
 Activar HTTPS en todo su website és un requisito fundamental para usar el nuevo CDN de VTEX, según lo anunciado [aquí](/es/announcement/las-tiendas-tienen-hasta-20-de-abril-para-activar-nuevo-cdn). Disponible desde octubre de 2017, el nuevo CDN pasará a ser obligatorio a partir del __20 de abril__ y contribuirá a aumentar el rendimiento de su website.
 
-Para activar el HTTPS en toda su tienda, siga los pasos [de este artículo de VTEX Help](/es/tutorial/activar-https-en-todo-el-sitio).
+Para activar el HTTPS en toda su tienda, siga los pasos [de este artículo de VTEX Help](/es/docs/tutorials/activar-https-en-todo-el-sitio).

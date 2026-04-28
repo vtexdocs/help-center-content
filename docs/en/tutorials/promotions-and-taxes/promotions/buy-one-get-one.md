@@ -56,16 +56,16 @@ For more information, see [Seller Opt-in for Promotions](https://developers.vtex
 
 ![Seller-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/buy-one-get-one_7.png)
 
-### Select trade policies
-In this section, you can select the trade policies that will apply to your promotion. Trade policies define the sale and shipping conditions.
+### Select sales channels
+In this section, you can select the sales channels that will apply to your promotion. Sales channels define the sale and shipping conditions.
 
 ![Politica comercial-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/buy-one-get-one_8.png)
 
 Choose from the following options:
 
-- **Equal to:** Select the trade policies you want to include in the promotion. This option allows you to determine which policies will apply to the products eligible for the discount.
-- **Different from:** Select the trade policies you want to exclude from the promotion. This option removes specific policies, ensuring the discount is not applied to products that follow them.
-- **All:** Select this option to apply the promotion to all trade policies without restrictions. All products, regardless of their associated trade policy, will be included in the promotion.
+- **Equal to:** Select the sales channels you want to include in the promotion. This option allows you to determine which policies will apply to the products eligible for the discount.
+- **Different from:** Select the sales channels you want to exclude from the promotion. This option removes specific policies, ensuring the discount is not applied to products that follow them.
+- **All:** Select this option to apply the promotion to all sales channels without restrictions. All products, regardless of their associated sales channel, will be included in the promotion.
 
 ### Buy One Get One conditions
 In this section, you can configure "Buy One Get One" promotions to offer customers benefits on their purchases. The configuration has two stages:
@@ -135,7 +135,7 @@ In this section, you can highlight the promotion on the product listing page and
 
 - **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
 
-> ℹ️ Remember to [configure this view in the CMS module.](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295)
+> ℹ️ Remember to [configure this view in the CMS module.](/en/docs/tutorials/configuring-promotions-with-a-highlightflag)
 
 - **Additional information:** Click Create to add custom fields with name and value, which can be used for store customizations.
 

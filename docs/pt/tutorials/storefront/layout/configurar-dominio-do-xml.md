@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-A URL usada para acessar o [XML](/pt/tutorial/configurando-xml) é gerada automaticamente, conforme o domínio cadastrado no dicionário do Web Site, no CMS.
+A URL usada para acessar o [XML](/pt/docs/tutorials/configurando-xml) é gerada automaticamente, conforme o domínio cadastrado no dicionário do Web Site, no CMS.
 
 Para configurar este domínio, siga os passos abaixo:
 

@@ -16,14 +16,14 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 Iniciamos este artículo advirtiendo que la tendencia y las buenas prácticas indican que se use una única versión (responsiva) para desktop y mobile. 
 
 Crear una versión mobile aparte era una práctica adoptada cuando los recursos de CSS dificultaban la adaptación de una versión desktop para mobile. Hoy en día, con los recursos que ofrece el CSS, se ha hecho estándar crear una versión responsiva. 
 
-Lea más sobre este asunto en el artículo [Responsivo x Versión Mobile](/es/tutorial/responsivo-x-version-mobile).
+Lea más sobre este asunto en el artículo [Responsivo x Versión Mobile](/es/docs/tutorials/responsivo-x-version-mobile).
 
 Este artículo tiene el objeto de ilustrar cómo preparar un ambiente de desarrollo para versión mobile sin impactar la versión de producción.
 
@@ -34,7 +34,7 @@ Existen algunas manearas de desarrollar una versión mobile sin impactar la vers
 Para desarrollar una versión mobile con un nuevo WebSite, debe seguir los siguientes pasos:
 
 1. Configurar nueva tienda (temporal) en **Configuración de la cuenta.** Este paso lo debe realizar el responsable de la tienda (ambiente). En el Admin VTEX, accede a __Configuración de la cuenta > Cuenta__. Selecciona la cuenta deseada y haga clic en **Configurar otra tienda**
-2. Crear (o clonar lo principal) un nuevo WebSite en el **CMS Layout**
+2. Crear (o clonar lo principal) un nuevo WebSite en el **CMS Portal (Legado)**
 
 Storefront > Layout > Carpeta de CMS > Sites and Channels > New Website
 

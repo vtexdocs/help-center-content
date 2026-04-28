@@ -35,7 +35,7 @@ Nesta seção você encontrará as seguintes informações:
 
 | **Caracterítica** | **Descrição** |
 |:---:|:---:|
-| **Origem dos dados** | Os dados são obtidos a partir do [módulo de catálogo](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe). |
+| **Origem dos dados** | Os dados são obtidos a partir do [módulo de catálogo](/pt/docs/tutorials/catalogo-visao-geral). |
 | **Disponibilidade** | Os dados podem ser acessados no Admin VTEX. |
 | **Histórico** | Os dados disponibilizado são a partir de fevereiro de 2025. |
 | **Menor intervalo de atualização possível** | Uma hora. |
@@ -188,11 +188,11 @@ Os dados do catálogo estão conectados a vários outros modelos de dados. Aqui 
 
 ### Conheça outros Conjuntos de dados
 
-- [Inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-- [Pagamentos](/pt/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](/pt/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-- [Preços](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promoção](/pt/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
-- [Logs do Bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)  
+- [Inventário](/pt/docs/tutorials/inventario-data-pipeline-beta)  
+- [Pagamentos](/pt/docs/tutorials/pagamentos-data-pipeline-beta)  
+- [Pedidos](/pt/docs/tutorials/pedidos-data-pipeline-beta)  
+- [Preços](/pt/docs/tutorials/precos-data-pipeline-beta)  
+- [Promoção](/pt/docs/tutorials/promocoes-data-pipeline-beta)  
+- [Vale-presente](/pt/docs/tutorials/vale-presente-data-pipeline)  
+- [Logs do Bridge](/pt/docs/tutorials/logs-do-bridge-data-pipeline)  
 

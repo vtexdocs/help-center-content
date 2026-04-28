@@ -19,7 +19,7 @@ The [Shareable Cart](https://apps.vtex.com/vtex-social-selling/p) app allows sal
 
 ![Shareable Cart Demo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/omnichannel/omnichannel-settings/how-to-use-the-shareable-cart-app_1.gif)
 
-This article details the steps needed to use this feature: activate the app, choose products, add sales assistant code, share and create a new cart. Before you start, you need to [activate this feature in your store](/en/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg).
+This article details the steps needed to use this feature: activate the app, choose products, add sales assistant code, share and create a new cart. Before you start, you need to [activate this feature in your store](/en/docs/tutorials/how-to-activate-the-shareable-cart-app).
 
 ## Activating the app
 

@@ -20,18 +20,18 @@ Um __web site__ é composto por uma estrutura de pastas e arquivos, que vão com
 
 Na VTEX, o web site representa a sua loja e é formado por alguns elementos básicos:
 
-- [Templates](/pt/tutorial/o-que-sao-templates): repositórios de código que estruturam o HTML e referenciam arquivos JS e CSS para serem usados na páginas.
-- [Layouts](/pt/tutorial/o-que-sao-layouts): elementos vinculados aos templates e que configuram os placeholders que vão ser exibidos na página.
-- [Placeholders](/pt/tutorial/o-que-sao-placeholders): elementos predefinidos que você pode usar para exibir arquivos de conteúdo nas páginas do seu web site.
+- [Templates](/pt/docs/tutorials/o-que-sao-templates): repositórios de código que estruturam o HTML e referenciam arquivos JS e CSS para serem usados na páginas.
+- [Layouts](/pt/docs/tutorials/o-que-sao-layouts): elementos vinculados aos templates e que configuram os placeholders que vão ser exibidos na página.
+- [Placeholders](/pt/docs/tutorials/o-que-sao-placeholders): elementos predefinidos que você pode usar para exibir arquivos de conteúdo nas páginas do seu web site.
 - Arquivos: são informações externas que podem ser lidas pelo seu web site, sendo divididas em arquivos de customização (CSS e JavaScript), de organização de dados (.xml) e de conteúdo (imagens ou flash).
 
-Com todos esses elementos configurados, você ainda precisará vincular seu web site a um [account name](/pt/tutorial/o-que-e-account-name) e a uma [política comercial](/pt/tutorial/o-que-e-politica-comercial), em um processo chamado [binding](/pt/tutorial/o-que-e-binding).
+Com todos esses elementos configurados, você ainda precisará vincular seu web site a um [account name](/pt/docs/tutorials/o-que-e-account-name) e a uma [política comercial](/pt/tutorial/o-que-e-politica-comercial), em um processo chamado [binding](/pt/docs/tutorials/o-que-e-binding).
 
 ### Artigos relacionados
 
-- [O que é account name?](/pt/tutorial/o-que-e-account-name)
-- [O que é binding?](/pt/tutorial/o-que-e-binding)
-- [O que são templates?](/pt/tutorial/o-que-sao-templates)
-- [O que são placeholders?](/pt/tutorial/o-que-sao-placeholders)
-- [O que são layouts?](/pt/tutorial/o-que-sao-layouts)
-- [O que é o CMS?](/pt/faq/o-que-e-o-cms)
+- [O que é account name?](/pt/docs/tutorials/o-que-e-account-name)
+- [O que é binding?](/pt/docs/tutorials/o-que-e-binding)
+- [O que são templates?](/pt/docs/tutorials/o-que-sao-templates)
+- [O que são placeholders?](/pt/docs/tutorials/o-que-sao-placeholders)
+- [O que são layouts?](/pt/docs/tutorials/o-que-sao-layouts)
+- [O que é o CMS?](/pt/tracks/o-que-e-o-cms)

@@ -30,7 +30,7 @@ A cross-border store helps you:
 
 ## Concepts
 
-While setting up a cross-border store on the VTEX platform, it is important to understand some concepts: Multistore, Bindings, and Trade policies.
+While setting up a cross-border store on the VTEX platform, it is important to understand some concepts: Multistore, Bindings, and Sales channels.
 
 ### Multistore
 A multistore or multidomain is a second store administered within the same VTEX Admin panel. This feature is typically used when the store requires some specific environment (e.g., support for B2B sales) or when a store has multiple brands with similar logistics and payment methods.
@@ -40,9 +40,9 @@ A multistore or multidomain is a second store administered within the same VTEX 
 Binding is the process of linking a website to one of the stores available in your account. 
 Creating a binding for your account is one of the steps in setting up a custom store website for a specific country or other target audience.
 
-### Trade policy
-A trade policy defines the content to be displayed on a website.
-Trade policies contain settings regarding catalog, prices, promotions, logistics, customer segmentation, and payments for different sales strategies.
+### Sales channel
+A sales channel defines the content to be displayed on a website.
+Sales channels contain settings regarding catalog, prices, promotions, logistics, customer segmentation, and payments for different sales strategies.
 
 ### Multi-language stores
 Since a cross-border store can have multiple bindings and reach shoppers worldwide, it is important to provide website and catalog content internationalization for a personalized shopping experience. To internationalize your store content, please contact your developer team and refer to the [Internationalization](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores) and [Translating Catalog content](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) documentation.
@@ -51,7 +51,7 @@ Since a cross-border store can have multiple bindings and reach shoppers worldwi
 
 - [How to create a multistore / multidomain?](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [What is binding?](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [What is binding?](/en/docs/tutorials/what-is-binding)
 
-- [How trade policies work?](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [How sales channels work?](/en/docs/tutorials/how-trade-policies-work)
 

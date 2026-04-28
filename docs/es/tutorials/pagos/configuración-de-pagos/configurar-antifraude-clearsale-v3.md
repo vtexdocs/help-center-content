@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible integrarse con el [antifraude](/es/tutorial/como-configurar-antifraude--tutorials_446) ClearSaleV3. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
+En VTEX es posible integrarse con el [antifraude](/es/docs/tutorials/como-configurar-antifraude) ClearSaleV3. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
 
 Para configurar ClearSaleV3 siga los pasos a continuación:
 
@@ -82,8 +82,8 @@ El valor de `shippingEstimate` se obtiene a partir de un cálculo realizado por 
 - `h` para horas si el tiempo es inferior a 24 horas y al menos 2 horas.
 - `m` para minutos si el tiempo es inferior a 2 horas.
 
-El `shippingEstimate` puede obtenerse en los ítems de `shippingData.logisticsInfo[]` en la respuesta del endpoint [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder).
+El `shippingEstimate` puede obtenerse en los ítems de `shippingData.logisticsInfo[]` en la respuesta del endpoint [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
-El valor de `deliverySlaInMinutes` es la conversión de `shippingEstimate` en minutos. Si la unidad es `m` (minutos) será el mismo valor, si la unidad es `h` (horas) el valor se multiplica por 60 y si la unidad es `d` (días consecutivos) o `bd` (días hábiles) el valor se multiplica por 1440. Por ejemplo, tres días consecutivos o `3d` se representa como `4320`. El `deliverySlaInMinutes` se utiliza en cada ítem del `minicart` en el cuerpo de la solicitud de los endpoints [Send Antifraud Pre-Analysis Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata) y [Send Antifraud Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata).
+El valor de `deliverySlaInMinutes` es la conversión de `shippingEstimate` en minutos. Si la unidad es `m` (minutos) será el mismo valor, si la unidad es `h` (horas) el valor se multiplica por 60 y si la unidad es `d` (días consecutivos) o `bd` (días hábiles) el valor se multiplica por 1440. Por ejemplo, tres días consecutivos o `3d` se representa como `4320`. El `deliverySlaInMinutes` se utiliza en cada ítem del `minicart` en el cuerpo de la solicitud de los endpoints [Send Antifraud Pre-Analysis Data](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol#post-/pre-analysis) y [Send Antifraud Data](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol#post-/transactions).
 
 > ℹ️ Aunque la conversión del tiempo en días consecutivos (`d`) y días hábiles (`bd`) a minutos es igual en el campo `deliverySlaInMinutes`, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).

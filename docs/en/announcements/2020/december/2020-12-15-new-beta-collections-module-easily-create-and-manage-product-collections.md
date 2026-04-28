@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'With the new Beta Collections module you can create collections more easily.'
 ---
 
-We developed the [new Beta Collections module](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) as a renewed alternative to the configurations made through CMS. Now we have a module dedicated to Collections with new features and available in beta version. This module allows you to:
+We developed the [new Beta Collections module](/en/docs/tutorials/creating-collections-beta) as a renewed alternative to the configurations made through CMS. Now we have a module dedicated to Collections with new features and available in beta version. This module allows you to:
 
 - Add products to your collection via spreadsheet.
 - Export your collection as a spreadsheet.

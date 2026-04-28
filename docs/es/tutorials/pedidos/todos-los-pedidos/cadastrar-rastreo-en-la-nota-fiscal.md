@@ -30,4 +30,4 @@ Para registrar el rastreo en la nota fiscal, sigue los pasos a continuación:
     - Transportadora
 7. Haz click en `Guardar factura`.
 
-> ℹ️ Al registrar el rastreo en la nota fiscal, es posible cambiar la [transportadora](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) asociada al pedido. Para hacer esto, en la sección **Seguimiento del pedido**, haga clic en *Transportadora* y seleccione la opción deseada.
+> ℹ️ Al registrar el rastreo en la nota fiscal, es posible cambiar la [transportadora](/es/docs/tutorials/transportadoras-en-vtex) asociada al pedido. Para hacer esto, en la sección **Seguimiento del pedido**, haga clic en *Transportadora* y seleccione la opción deseada.

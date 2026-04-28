@@ -30,7 +30,7 @@ Flywire.
 
 ## Configurar condição de pagamento Promissória
 
-Caso deseje utilizar o Flywire com promissória e ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
+Caso deseje utilizar o Flywire com promissória e ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
 
 Depois, siga os passos abaixo:
 

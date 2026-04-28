@@ -40,5 +40,5 @@ By adding new visual elements, __the new My Account warrants a page revision tog
 
 > ❗ **VTEX will massively migrate the new My Account on the 3rd of July 2019.** It is therefore imperative to begin reviewing page customizations now.
 
-For more on new My Account __[settings](/en/tutorial/setting-up-my-account--23Ayv5D6b86UBnYfoXqZL1)__ and __[functionality](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh)__, access the documentation available on our Help page.
+For more on new My Account __[settings](/en/docs/tutorials/setting-up-my-account)__ and __[functionality](/en/docs/tutorials/how-my-account-works)__, access the documentation available on our Help page.
 

@@ -17,14 +17,14 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 An __acquirer__ is a company that specializes in processing payments. Through its network of accredited partners (or acquiring network), it enables a store to offer various payment conditions to its customers. 
 
-In exchange, the __acquirer__ receives the payment information, processes it and passes it to the [card brand](/en/tutorial/what-is-a-credit-card-brand) (when the payment method is credit card) and the [issuing bank](/en/tutorial/what-is-the-issuing-bank).
+In exchange, the __acquirer__ receives the payment information, processes it and passes it to the [card brand](/en/docs/tutorials/what-is-a-credit-card-brand) (when the payment method is credit card) and the [issuing bank](/en/docs/tutorials/what-is-the-issuing-bank).
 
-For your store to be able to receive payments, you must enable its communication with an __acquirer__. This is done through a [payment gateway](/en/tutorial/what-is-a-payment-gateway), which must be configured to process the [payment conditions](/en/tutorial/how-to-configure-payment-conditions). With that, purchases can follow the approval flow.
+For your store to be able to receive payments, you must enable its communication with an __acquirer__. This is done through a [payment gateway](/en/docs/tutorials/what-is-a-payment-gateway), which must be configured to process the [payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions). With that, purchases can follow the approval flow.
 
 When everything is in order and a purchase is authorized by the other players, the __acquirer__ is responsible for transferring the values (which the issuing bank receives from the customer) to the account of your store.
 
 ### Related articles
-- [What is a credit card brand?](/en/tutorial/what-is-a-credit-card-brand)
-- [What is the issuing bank?](/en/tutorial/what-is-the-issuing-bank)
-- [What is a payment gateway?](/en/tutorial/what-is-a-payment-gateway)
-- [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions)
+- [What is a credit card brand?](/en/docs/tutorials/what-is-a-credit-card-brand)
+- [What is the issuing bank?](/en/docs/tutorials/what-is-the-issuing-bank)
+- [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway)
+- [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions)

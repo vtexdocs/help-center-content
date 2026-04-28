@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-promotion-form-more-for-less
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New More for Less form allows you to configure discounts per cart quantity.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 VTEX has a new **More for Less** form, which allows you to configure discounts that apply when the buyer adds a certain quantity of the same product to the cart. For example, in the "Buy 2 Get 3" promotion, the customer gets the discount automatically when they reach the required quantity.
@@ -23,5 +26,5 @@ VTEX has a new **More for Less** form, which allows you to configure discounts t
 The new form has been developed to simplify promotion setup and ensure greater precision when giving discounts.
 
 ## What needs to be done?
-No action is required to access the new form. This update will be automatically applied to all VTEX stores. For more information, access [Creating a More for Less promotion](/en/tutorial/leve-mais-por-menos--tutorials_325).
+No action is required to access the new form. This update will be automatically applied to all VTEX stores. For more information, access [Creating a More for Less promotion](/en/docs/tutorials/creating-a-more-for-less-promotion).
 

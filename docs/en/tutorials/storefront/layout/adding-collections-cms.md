@@ -15,14 +15,14 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ There are two ways to configure collections: through the Legacy CMS Portal or the [Collections Beta](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) module. This article is about how to configure collections through the Legacy CMS Portal.
+> ⚠️ There are two ways to configure collections: through the Legacy CMS Portal or the [Collections Beta](/en/docs/tutorials/creating-collections-beta) module. This article is about how to configure collections through the Legacy CMS Portal.
 
 Follow the steps below to add a new collection:
 
 1. In the VTEX Admin, access **Storefront > Layout**.
 2. In the CMS folder, click on __Product Clusters (Collections)__.
 3. Click on __New Collection__.
-4. Fill out the Collection form fields. For more on the meaning of each one of these fields, read our article on [how to fill out new collection fields](/en/tutorial/filling-out-collection-registration-fields--7eKL7CFRW3yGKlnDfQetbj).
+4. Fill out the Collection form fields. For more on the meaning of each one of these fields, read our article on [how to fill out new collection fields](/en/docs/tutorials/filling-out-collection-registration-fields).
 5. Click on __Save Product Cluster__.
 
 > ⚠️ When the number of created collections surpasses twenty, those exceeding that number can be found through the search field on the admin interface. Search by the name of the collection you want to find.
@@ -143,4 +143,4 @@ In order to create a product collection that has not been launched yet, select t
 
 The __Launches__ option allows you to create a recently launched product collection. Upon selecting this option, the system considers all of the products that were launched within a 30-day interval prior to the present date. The launch date taken into account is also the same one set in the _Market launch date_ in the product file.
 
-> ℹ️ To know more about how to exclude a product collection, read our article on [how to delete collections](/en/tutorial/how-to-delete-a-collection--6C620yHzwsGoS8iaCocAM2).
+> ℹ️ To know more about how to exclude a product collection, read our article on [how to delete collections](/en/docs/tutorials/how-to-delete-a-collection).

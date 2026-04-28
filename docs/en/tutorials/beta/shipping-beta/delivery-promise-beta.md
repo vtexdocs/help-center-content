@@ -17,67 +17,70 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
 
-**Delivery Promise (Beta)** is VTEX's new solution that allows customers to view only the products they can buy in their shopping experience, considering both the product availability and valid shipping methods for their delivery address.
+**Delivery Promise (Beta)** is a new VTEX solution that allows customers to view only the products they can purchase during their shopping experience, based on product availability and valid shipping methods for their address.
 
-With **Delivery Promise (Beta)**, your store can make a “delivery promise” to customers for all products they view, as shown in the video below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l8HU2qVpsBg" title="VTEX Vision Spring &#39;24: Delivery Promises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-> ❗ Currently, **Delivery Promise (Beta)** does not yet allow you to filter the product listing page by shipping time. To learn more about filters, see the [Available features](#available-features) section.
-
-The content is organized as follows:
-
-* [Available features](#available-features)
-* [Advantages](#advantages)
-* [Requirements and restrictions](#requirements-and-restrictions)
+With **Delivery Promise (Beta)**, your store can make a delivery promise to customers for all products viewed and filter the displayed products.
 
 ## Available features
 
-When the customer provides their address, an initial selection of products is made to display only products that can be delivered to that location or picked up at pickup points within a radius of up to 50 km from the provided address — a limit determined by Checkout.
+When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within a [configured radius](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) or [up tothe default limit of 50 km from the locale](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada).
 
-Besides being able to buy all the products viewed, customers can filter the products on the product listing page to view only the results that meet certain criteria, as shown below. This allows customers to tailor their navigation experience to meet their needs:
+In addition to viewing available products, customers can use filters on the product listing page to view only those that meet specific criteria. This allows customers to tailor their navigation experience to meet their needs:
 
-* Products available for the desired postal code.
-* Product delivery deadline.
-* Products available in stores near the customer's location.
-* Faster shipping method to deliver the order.
-* [Pickup point](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) where you want to pick up the order.
+- Products available for the desired postal code.  
+- Faster shipping methods.  
+- Preferred [pickup points](https://help.vtex.com/en/docs/tutorials/pickup-points).
 
-At this stage, **Delivery Promise (Beta)** allows your store's customers to filter the products displayed in the navigation by using these filters:
+Filtering by postal code, shipping method, delivery target, pickup point, and tags and badges apply to products from VTEX sellers, [Seller Portal](https://help.vtex.com/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace), and external sellers.  
 
-* **Deliver to**: Products available for delivery to the provided address.
-* **Pickup:** Products available for pickup at pickup points within a radius of up to 50 km from the provided address. 
-* **Pickup nearby:** Products available for pickup at pickup points within a radius of up to 10 km from the provided address. 
-* **Pickup at {{name}}:** Products available for pickup at a given pickup point.
+> ⚠️ External sellers must configure the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api#put-/delivery-promises/external-sellers/-sellerId-/products) to notify Delivery Promise of product availability.
 
-> ℹ️ The filters mentioned above are native components of Intelligent Search. If you want to develop custom components for your store, please contact your development team or an [implementation partner](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).
+### Filters
+
+**Delivery Promise (Beta)** allows your customers to filter the products displayed during navigation using the following filters:
+
+- **Ship to:** Products available for delivery at the provided address.  
+- **Pickup:** Products available at pickup points within a [configured radius](https://help.vtex.com/en/docs/tutorials/creating-pickup-points#fields) or up to the default distance of [50 km](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work) from the address.  
+- **Pickup nearby:** Products available for pickup at pickup points within up to 10 km from the provided address.  
+- **Pickup at {{nome}}:** Products available at the selected [pickup point](https://help.vtex.com/en/docs/tutorials/creating-pickup-points).  
+- **Shipping time ([Delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options-beta))**: Products available based on the deadline, shipping method, and geographic zones configured by the merchant in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) module.  
+- **Dynamic shipping time**: Products available based on dynamic timeframes (**Same day** and **Next day**), which consider the customer browsing time and the timeframes configured in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options-beta) of the store's main account for delivery and pickup.
+
+In addition to filters, **Delivery Promise (Beta)** provides components that can be displayed on the product listing page and storefront, including shipping options and dynamic shipping times, as well as details of available delivery and pickup methods for each product.
+
+![delivery-promise-beta_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-promise-beta_1.png)
+
+![delivery-promise-beta_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-promise-beta_2.png)
+
+![delivery-promise-beta_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-promise-beta_3.png)
+
+> ℹ️ Some of the filters mentioned above are native components of [FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise) v3 or [Store Framework](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components). If you want to [develop custom components for your store filters and address selection](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores) or implement components that display shipping information, contact your development team or an [implementation partner](https://help.vtex.com/en/docs/tracks/accounts-and-architecture#implementation-partners).
 
 ## Advantages
 
-**Delivery Promise (Beta)** is suitable for all types of operations, as the solution provides many advantages for any business model. Learn about the store architecture requirements for participating in the current beta phase in the [Requirements and restrictions](#requirements-and-restrictions) section.
+Delivery Promise (Beta) is suitable for all types of operations, as it offers many advantages across any business model. See the store architecture requirements for participating in the current beta phase in the [Requirements](https://help.vtex.com/en/docs/tutorials/delivery-promise-beta) section.
 
-For [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations, the greater the coverage of the logistics network and the number of sellers and [franchise accounts](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the operation, the greater the benefits gained. The table below shows the main advantages:
+For [omnichannel](https://help.vtex.com/en/docs/tracks/unified-commerce-101) operations, the benefits increase as the logistics network coverage and the number of sellers or [franchise accounts](https://help.vtex.com/en/docs/tutorials/what-is-a-franchise-account) grow. See the main advantages in the table below:
 
-| **Advantage** | **Details** |
-| :---: | :--- |
-| Fewer abandoned carts | Customers often abandon an order after entering their location in the cart step when they find out it can't be shipped to their location or that the shipping time doesn't meet their expectations.With **Delivery Promise (Beta)**, the availability and delivery feasibility of each product the customer sees on the product listing page are considered based on the customer's location. Besides this, shipping information is displayed from the beginning of the customer's buying journey. |
-| Increased product assortment on the product listing page | Without **Delivery Promise (Beta)**, the product assortment displayed on the product listing page may not reflect all available products from sellers due to limitations in features such as [seller regionalization](/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [comprehensive seller](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) and the [seller selection algorithm](/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).With the **Delivery Promise (Beta)**, the customer can view the complete product assortment of all sellers, provided that:<ul><li>They are correctly configured.</li><li>They are available in stock.</li><li>Have a valid shipping method to the address entered by the customer.</li></ul> |
-| Improved shopping experience | **Delivery Promise (Beta)** promotes a better shopping experience for the customer as a whole:<ul><li>It eliminates any frustration at checkout when they find it impossible to place an order.</li><li>It allows customers to view more products.</li><li>It allows customers to browse the storefront in a way that meets their needs, whether they prioritize the type of shipment or choose to place an order in a physical store.</li></ul> |
-| Promotion of physical stores sales | **Delivery Promise (Beta)** gives customers confidence in finding certain products in physical stores, which encourages them to go to the stores and increases sales opportunities. |
+| Advantage | Details |
+| ----- | ----- |
+| Fewer abandoned carts | Customers often abandon a purchase at the cart step after entering their location when they discover shipping isn't available to their location or the delivery target doesn't meet their expectations. <br><br>With Delivery Promise (Beta), customers can browse the product listing page based on their preferences, such as preferred shipping method, delivery time, or in-store pickup. For each product displayed on the product listing page, inventory availability and delivery feasibility are determined based on the provided location. Additionally, shipping information is displayed from the beginning of the customer buying journey. |
+| Full assortment visibility | With Delivery Promise (Beta), customers can view the complete assortment from all sellers that meet two conditions, provided they are properly configured: <ul><br> <li>Available in stock. <li>Valid shipping method for the address entered by the customer.</ul> |
+| Improved shopping experience | Delivery Promise (Beta) promotes a better shopping experience for customers as a whole: <ul><br> <li>It eliminates frustration by ensuring orders can be completed at checkout. <li>It allows customers to view more products.</ul> |
+| Promotion of physical stores sales | Delivery Promise (beta) gives buyers confidence in finding specific products in physical stores by filtering by pickup point, encouraging visits to stores, and increasing sales opportunities for stores and franchisees. |
 
-## Requirements and restrictions
+## Requirements
 
-**Delivery Promise (Beta)** requires the customer's location from the beginning of the buying journey, ensuring that only products with valid shipping methods are displayed on the product listing page. To do this, you must install the [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), which requires the customer's location.
+**Delivery Promise (Beta)** requires the customer location from the beginning of the buying journey, ensuring that only products with valid shipping methods are displayed on the product listing page. To do this, you must install [Intelligent Search](https://help.vtex.com/en/docs/tracks/overview-intelligent-search), which requests the customer address.
 
-To join the current phase of **Delivery Promise (Beta)**, you must meet the following conditions:
+To participate in the current phase of **Delivery Promise (Beta)**, contact [our Support](https://supporticket.vtex.com/support) and make sure you meet the following conditions:
 
-* <i class="far fa-check-circle"></i> **Requirement:** Use [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requirement:** Have a frontend implementation with [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), [FastStore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore) or headless.
+- Use [Intelligent Search](https://help.vtex.com/en/docs/tracks/overview-intelligent-search).  
+- External sellers must comply with the notification protocol of the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 
-### Learn more
+## Learn more
 
-* [Delivery Promise: FAQ](/en/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
-* [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
-* [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
-* [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
-
+- [Delivery Promise: FAQ](https://help.vtex.com/en/docs/tutorials/delivery-promise-faq)  
+- [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components) (Store Framework)  
+- [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)  
+- [Implementing Delivery Promise (FastStore)](https://developers.vtex.com/docs/guides/faststore/delivery-promise-implementation)

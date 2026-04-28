@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.'
 ---
 
-You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/tutorial/what-are-franchise-account-and-seller-white-label?locale=en) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.
+You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/en/tutorial/what-are-franchise-account-and-seller-white-label) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.
 
 ## Main benefits
 
@@ -37,6 +37,6 @@ The Multilevel Omnichannel Inventory brought a new ally for omnichannel operatio
 - New route for progressing the order after marketplace approval (Marketplace Order Authorization).
 - The Marketplace needs to support the new route so it can be notified of a seller (or an intermediate agent) cancellation and to receive the invoice from the seller (or the intermediate agent).
 
-To learn more about Multilevel Omnichannel Inventory and changes to the Checkout APIs, visit [this Help article](/en/business-guides/offer-the-products-from-your-physical-stores-in-external-marketplaces--6s64bV8Dqb5QN6sqIfPzcA).
+To learn more about Multilevel Omnichannel Inventory and changes to the Checkout APIs, visit [this Help article](/en/docs/tutorials/multilevel-omnichannel-inventory).
 
-> ❗ <body> <li>The Recursive Marketplace is now called **Multilevel Omnichannel Inventory.**</li> <li> The feature does not allow you to [change seller.](/en/tutorial/how-to-use-the-change-seller-feature--5TBAwO2kOAMw44uyaaQMQO)</li> <li>This solution is aimed at integrating with external marketplaces, not those that are [natively integrated with VTEX.](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).</li> <li>Learn more about usage restrictions in the article [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) e confira as restrições de uso detalhadamente.</li> </body>
+> ❗ <body> <li>The Recursive Marketplace is now called **Multilevel Omnichannel Inventory.**</li> <li> The feature does not allow you to [change seller.](/en/docs/tutorials/change-seller)</li> <li>This solution is aimed at integrating with external marketplaces, not those that are [natively integrated with VTEX.](/en/docs/tutorials/marketplace-strategies-at-vtex).</li> <li>Learn more about usage restrictions in the article [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory) e confira as restrições de uso detalhadamente.</li> </body>

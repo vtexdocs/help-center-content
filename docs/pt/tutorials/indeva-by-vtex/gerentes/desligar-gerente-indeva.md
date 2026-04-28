@@ -27,7 +27,7 @@ Para desligar um gerente da loja, siga as etapas abaixo:
 > ⚠️ Apenas usuários com perfil de **Franqueado** ou **Administrador** têm permissão para realizar este processo.
 
 <img
-  src="https://cdn.elev.io/file/uploads/tBgen6l2bR68tnG4jliwz2r3Y7l43THZ1FPLchAS11w/OyCVRwED3bhXq7FNe5Tq9osT-spKoiE-397b9_e3UKM/1660652225733-aa0.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/gerentes/desligar-gerente-indeva_1.png"
   alt="Tela de desligamento do gerente na plataforma Indeva"
   loading="lazy"
 />
@@ -35,6 +35,6 @@ Para desligar um gerente da loja, siga as etapas abaixo:
 > ⚠️ Após preencher a data de desligamento, não será possível editá-la.
 
 
-Se você já desligou um gerente e precisa cadastrar outro, consulte o artigo [Como cadastrar um gerente](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf).
+Se você já desligou um gerente e precisa cadastrar outro, consulte o artigo [Como cadastrar um gerente](/pt/docs/tutorials/cadastrar-gerente-plataforma-indeva).
 
 

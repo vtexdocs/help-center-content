@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-A VTEX disponibiliza vários [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) pré-definidos para usuários administrativos. Isso permite que colaboradores da empresa exerçam suas funções acessando o mínimo necessário de recursos. No entanto, sabemos que cada ecommerce tem suas necessidades únicas e a flexibilidade é essencial para atender a problemas específicos de negócios. 
+A VTEX disponibiliza vários [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) pré-definidos para usuários administrativos. Isso permite que colaboradores da empresa exerçam suas funções acessando o mínimo necessário de recursos. No entanto, sabemos que cada ecommerce tem suas necessidades únicas e a flexibilidade é essencial para atender a problemas específicos de negócios. 
 
 Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos customizados, permitindo que você escolha precisamente quais recursos poderão ser acessados por um dado perfil customizado. Abaixo, você encontra a descrição dos recursos da VTEX disponíveis para cada produto.
 
@@ -23,7 +23,7 @@ Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos c
 
 <iframe src="https://vtexhelp.myvtex.com/tables/resources/pt" title="Recursos do License Manager" frameBorder="0" width="105%" height="850"></iframe>
 
-> ℹ️ No aplicativo [Audit](/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), recursos do License Manager são identificados pelas respectivas chaves.
+> ℹ️ No aplicativo [Audit](/pt/docs/tutorials/audit), recursos do License Manager são identificados pelas respectivas chaves.
 
 ## Recursos internos ou deprecados
 

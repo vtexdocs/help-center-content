@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ The [List](/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go) feature is exclusive to stores that use Legacy CMS Portal.
+> ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use Legacy CMS Portal.
 
 Creating a type of list is configuring the lists to appear on the site. For example: Lista de Casamento and Lista de Aniversário. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
 
@@ -83,7 +83,7 @@ After creating the type of list, you will be directed to the screen showing the 
 
 - **Export to Excel**: Allows data for list types to be exported to Excel;
 - **Version**: Identifies lists created in a previous version, with limited functions. The latest version is the “V2”;
-- **Delivery**: Indicates where the product is to be delivered: to the owner of the list, the purchaser, or [if the purchase amount is to be credited to a voucher for the owner ](/en/tutorial/setting-up-the-voucher-list);
+- **Delivery**: Indicates where the product is to be delivered: to the owner of the list, the purchaser, or [if the purchase amount is to be credited to a voucher for the owner ](/en/docs/tutorials/setting-up-the-voucher-list);
 - **Visibility**: Indicates the type of visibility configured;
 - **Unique**: Indicates whether more than one list of the same type can be created;
 - **Participants**: Shows the maximum and minimum numbers of participants configured for the list;

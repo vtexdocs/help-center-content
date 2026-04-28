@@ -23,9 +23,9 @@ By default VTEX stores come with HTTPS enabled only on checkout pages, but the w
 
 For this we must:
 
-1. Meet the [requirements](/en/tutorial/enable-https-throughout-the-site#requirements);
-2. [Verify that the site works on HTTPS](/en/tutorial/enable-https-throughout-the-site#verify-if-the-site-works-on-https);
-3. [Enable HTTPS on pages](/en/tutorial/enable-https-throughout-the-site#enable-https-on-pages).
+1. Meet the [requirements](/en/docs/tutorials/enable-https-throughout-the-site#requirements);
+2. [Verify that the site works on HTTPS](/en/docs/tutorials/enable-https-throughout-the-site#verify-if-the-site-works-on-https);
+3. [Enable HTTPS on pages](/en/docs/tutorials/enable-https-throughout-the-site#enable-https-on-pages).
 
 ## Requirements
 
@@ -54,9 +54,9 @@ Any case of mixed content will be reported by the browser. Barred requests will 
 
 After checking and adjusting (if necessary) the entire layout, pages and site resources, we can already enable HTTPS without any problem. 
 
-All pages on the site must be changed individually according to the article [How do I use the HTTPS protocol on my store’s pages?](/en/tutorial/how-do-i-use-the-https-protocol-on-my-stores-pages). Note that all checkout pages already come with HTTPS enabled by default.
+All pages on the site must be changed individually according to the article [How do I use the HTTPS protocol on my store’s pages?](/en/docs/tutorials/how-do-i-use-the-https-protocol-on-my-stores-pages). Note that all checkout pages already come with HTTPS enabled by default.
 
-You can change the protocol in all folders at once by using our API, documented [in this Postman collection](https://developers.vtex.com/reference/change-uri-schema). 
+You can change the protocol in all folders at once by using our API, documented [in this Postman collection](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api). 
 
 > ⚠️ **Warning:** avoid having HTTPS enabled on only a few pages. When you access an HTTPS page, then go to an HTTP page from the same store, the browser will try to read your resources forcibly over HTTPS, and this can cause problems. It is appropriate to enable HTTPS throughout the site at one time. The same goes for desktop and mobile websites (child website), where it is necessary to treat the HTTPS of both at the same time.
 

@@ -21,13 +21,13 @@ Essa funcionalidade está disponível para lojas usando a tecnologia Portal Lega
 
 Prateleiras são elementos configuráveis que exibem um agrupamento de produtos nas páginas do seu web site. Esse agrupamento é definido a partir dos critérios que você escolher.
 
-As prateleiras são estruturadas a partir de código HTML, organizados em [templates](/pt/tutorial/o-que-sao-templates)(arquivos que estruturam código) específicos, chamados de __Shelves Templates__. Eles estão localizados na pasta de **CMS**, no módulo [Layout](/pt/faq/o-que-e-o-cms). É nessa pasta que você vai poder criar novos templates e editar os que já existem.
+As prateleiras são estruturadas a partir de código HTML, organizados em [templates](/pt/docs/tutorials/o-que-sao-templates)(arquivos que estruturam código) específicos, chamados de __Shelves Templates__. Eles estão localizados na pasta de **CMS**, no módulo [Layout](/pt/tracks/o-que-e-o-cms). É nessa pasta que você vai poder criar novos templates e editar os que já existem.
 
 ![Shelves Templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-sao-prateleiras_1.png)
 
 Por ser um elemento que pode ser utilizado em mais de uma página, esse tipo especial de template (Shelf Template) fica armazenado em pastas diferentes dos outros tipos (HTML Templates e Sub Templates). Assim, é possível manter a organização dos arquivos e, consequentemente, do código do seu web site.
 
 ### Artigos relacionados
-- [O que é o CMS?](/pt/faq/o-que-e-o-cms)
-- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site)
-- [O que são templates?](/pt/tutorial/o-que-sao-templates)
+- [O que é o CMS?](/pt/tracks/o-que-e-o-cms)
+- [O que é um web site?](/pt/docs/tutorials/o-que-e-um-web-site)
+- [O que são templates?](/pt/docs/tutorials/o-que-sao-templates)

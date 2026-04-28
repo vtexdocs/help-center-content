@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-Audiência de campanha é uma funcionalidade que permite definir o [público-alvo](#publico-alvo)para uma promoção. Para saber como configurar esse recurso, leia o artigo [Criar Audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
+Audiência de campanha é uma funcionalidade que permite definir o [público-alvo](#publico-alvo)para uma promoção. Para saber como configurar esse recurso, leia o artigo [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha).
 
-A funcionalidade consiste em criar critérios para segmentar clientes. A partir desses critérios, a plataforma VTEX valida automaticamente se os clientes são elegíveis a uma determinada audiência de campanha e, consequentemente, às [promoções de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) associadas.
+A funcionalidade consiste em criar critérios para segmentar clientes. A partir desses critérios, a plataforma VTEX valida automaticamente se os clientes são elegíveis a uma determinada audiência de campanha e, consequentemente, às [promoções de campanha](/pt/docs/tutorials/promocao-de-campanha) associadas.
 
 Uma audiência de campanha precisa ser associada a uma ou mais promoções de campanha para ser aplicada. Esse tipo de promoção permite ao lojista criar regras para oferecer descontos no site, considerando critérios como: a compra de determinados itens ou categorias, listas de clientes, intervalos de CEP ou valores mínimos de carrinho, entre outros.
 
@@ -29,10 +29,10 @@ O público-alvo segmenta os usuários e condições elegíveis da audiência de 
 
 ![campanha-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/audiência-de-campanhas/audiencias-de-campanhas_1.png)
 
-Quando todas as restrições da campanha forem atingidas e ela estiver ativada e elegível ao contexto de compra, não significa necessariamente que as promoções de audiências de campanhas associadas a ela serão aplicadas. Para isso, as restrições definidas na [promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) também devem ser atendidas.
+Quando todas as restrições da campanha forem atingidas e ela estiver ativada e elegível ao contexto de compra, não significa necessariamente que as promoções de audiências de campanhas associadas a ela serão aplicadas. Para isso, as restrições definidas na [promoção de campanha](/pt/docs/tutorials/promocao-de-campanha) também devem ser atendidas.
 
 ## Saiba mais
 
-* [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
-* [Lista de Audiências de campanhas](/pt/tutorial/lista-de-audiencias-de-campanhas--2aW3JH34Zsm4keR5wtXZbT)
-* [Criar Audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K)
+* [Criar promoção de campanha](/pt/docs/tutorials/promocao-de-campanha)
+* [Lista de Audiências de campanhas](/pt/docs/tutorials/lista-de-audiencias-de-campanhas)
+* [Criar Audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha)

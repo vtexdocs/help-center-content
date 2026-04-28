@@ -3,7 +3,7 @@ title: 'Using Bundle studio'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-14T23:15:39.786Z
+updatedAt: 2025-11-19T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -15,20 +15,20 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
 
-> ℹ️ If you want to use a studio other than Bundle, check [Using external studios](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
+> ℹ️ If you want to use a studio other than Bundle, see [Using external studios](https://help.vtex.com/docs/tracks/optional-using-external-studios).
 
 The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn how to configure all the necessary settings in our native studio solution.
 
 ## Stream method for Bundle
 
-To access the native VTEX studio to transmit your event, follow the steps below:
+To access the native VTEX studio to stream your event, follow the steps below:
 
 1. In the VTEX Admin, go to **Apps > Live Shopping > Events**, or type **Events** in the search bar at the top of the page.
-2. Click the arrow button of the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to access the event configuration page.
-3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fa-solid fa-toggle-on"></i> Turn On at the top right.
+2. Click the arrow button for the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to open the event configuration page.
+3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> `Turn On` at the top right.
 4. Select the `Stream` tab.
-5. In the **Stream method** page, in **Option 1 - Web Studio**, click `Open Web Studio`, to be redirected to a new window in the **Device settings** page in Bundle. Restricted for administrators only.
-6. (Optional) If you wish to have guests and hosts on your event, click `Copy invitation` and share the link with them. For security reasons, a guest’s access to Bundle must be [approved by an administrator](#administrator-approval-for-guests-in-the-studio).
+5. On the **Stream method** page, in **Option 1 - Web Studio**, click `Open Web Studio`. You’ll be redirected to a new window on the **Device settings** page in Bundle. This option is restricted for administrators only.
+6. (Optional) If you want to have guests and hosts on your event, click `Copy invitation` and share the link with them. For security reasons, guest access to Bundle must be [approved by an administrator](#administrator-approval-for-guests-in-the-studio).
 
 ## Administrator approval for guests in the Studio
 
@@ -165,9 +165,9 @@ To connect different VTEX accounts for the same event transmission, each account
 
 **Account A:**
 
-1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) an event.
+1. [Create](/en/docs/tracks/creating-event) an event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+3. [Turn on](/en/docs/tracks/turning-on-event) the event.
 4. In the [Streaming Studio](#streaming-studio) section, click `Access`.
 5. Log in to Bundle studio.
 6. Click `Enter the studio`.
@@ -182,9 +182,9 @@ The following confirmation message will be displayed, *"A new destination has be
 
 **Account B:**
 
-1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
+1. [Create](/en/docs/tracks/creating-event) the event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+3. [Turn on](/en/docs/tracks/turning-on-event) the event.
 4. In the [Details](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you want to connect to, which is Account A in this case.
 
 ### Connecting to YouTube

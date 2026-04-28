@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-VTEX ofrece varios [roles de usuario predefinidos](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para los usuarios administrativos. Esto permite a los colaboradores de una empresa desempeñar sus funciones accediendo al mínimo de recursos necesarios. Sin embargo, sabemos que cada ecommerce tiene sus propias necesidades y que la flexibilidad es esencial para abordar problemas empresariales específicos.
+VTEX ofrece varios [roles de usuario predefinidos](/es/docs/tutorials/roles) para los usuarios administrativos. Esto permite a los colaboradores de una empresa desempeñar sus funciones accediendo al mínimo de recursos necesarios. Sin embargo, sabemos que cada ecommerce tiene sus propias necesidades y que la flexibilidad es esencial para abordar problemas empresariales específicos.
 
 Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario personalizados, lo que permite elegir con precisión a qué recursos puede acceder un determinado rol personalizado. A continuación, encontrarás los recursos de VTEX disponibles para cada producto.
 
@@ -23,7 +23,7 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
 
 <iframe src="https://vtexhelp.myvtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="105%" height="850"></iframe>
 
-> ℹ️ En la aplicación [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), los recursos de License Manager son identificados por las respectivas claves.
+> ℹ️ En la aplicación [Audit](/es/docs/tutorials/audit), los recursos de License Manager son identificados por las respectivas claves.
 
 ## Recursos internos o obsoletos
 

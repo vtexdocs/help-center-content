@@ -37,37 +37,37 @@ Para integrar com a MadeiraMadeira, é necessário realizar as seguintes etapas 
 
 ### Definir a política comercial
 
-A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos na MadeiraMadeira, não é necessário [criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
+A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos na MadeiraMadeira, não é necessário [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Caso seja do seu interesse ter configurações específicas para vender na MadeiraMadeira, você pode [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Caso seja do seu interesse ter configurações específicas para vender na MadeiraMadeira, você pode [configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
-A [contratação de políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) para integrar com conectores certificados, certificados nativos ou outras lojas VTEX é isenta de taxas. Saiba mais sobre quem são esses parceiros em [Estratégias de marketplace na VTEX](/pt/tutorial/integrando-com-marketplace--tutorials_402).
+A [contratação de políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional) para integrar com conectores certificados, certificados nativos ou outras lojas VTEX é isenta de taxas. Saiba mais sobre quem são esses parceiros em [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).
 
-> ⚠️ Os produtos que você deseja enviar para a MadeiraMadeira devem estar [associados à política comercial](/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb) definida. Caso contrário, eles não serão integrados.
+> ⚠️ Os produtos que você deseja enviar para a MadeiraMadeira devem estar [associados à política comercial](/pt/docs/tutorials/associacao-de-sku-a-politica-comercial) definida. Caso contrário, eles não serão integrados.
 
 ### Definir a Estratégia de Envio
 
-Para vender seus produtos na MadeiraMadeira é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140), [Estoque](/pt/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
+Para vender seus produtos na MadeiraMadeira é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
 
-É por meio da Doca que a Política de envio ([transportadora](/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE)) é associada ao Estoque da sua loja. A doca é o ponto intermediário entre a transportadora e o armazenamento da sua loja, e por meio  dela, as condições entre envio e armazenagem são feitas.
+É por meio da Doca que a Política de envio ([transportadora](/pt/docs/tutorials/transportadoras-na-vtex)) é associada ao Estoque da sua loja. A doca é o ponto intermediário entre a transportadora e o armazenamento da sua loja, e por meio  dela, as condições entre envio e armazenagem são feitas.
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com a MadeiraMadeira, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
-1. [Cadastrar Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
-2. [Cadastrar Doca](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), associada à política comercial usada na integração.
-3. [Cadastrar Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137), associado à Doca criada no passo anterior.
+1. [Cadastrar Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
+2. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à política comercial usada na integração.
+3. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.
 
 ### Criar coleção
 
-A Coleção é um recurso de agrupamento de produtos e existem diferentes [tipos de coleção](/pt/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n). É comum utilizá-la para realizar ações comerciais temáticas ou selecionar produtos com critérios semelhantes. Se você já possui uma coleção configurada, você pode utilizá-la na integração com MadeiraMadeira, não é necessário criar outra.
+A Coleção é um recurso de agrupamento de produtos e existem diferentes [tipos de coleção](/pt/docs/tutorials/tipos-de-colecao). É comum utilizá-la para realizar ações comerciais temáticas ou selecionar produtos com critérios semelhantes. Se você já possui uma coleção configurada, você pode utilizá-la na integração com MadeiraMadeira, não é necessário criar outra.
 
-Se você ainda não possui uma coleção, há duas formas de configurar uma. É possível [criar uma coleção pelo módulo Coleções Beta](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye) ou fazer o [Cadastro de Coleções CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+Se você ainda não possui uma coleção, há duas formas de configurar uma. É possível [criar uma coleção pelo módulo Coleções Beta](/pt/docs/tutorials/cadastrar-colecoes-beta) ou fazer o [Cadastro de Coleções CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
-Com a coleção feita, você deverá [adicionar os produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte dela.
+Com a coleção feita, você deverá [adicionar os produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#selecao-de-produtos) que farão parte dela.
 
 ### Criar permissão para Access key e secret
 
-A chave de integração, chamada de access key, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e MadeiraMadeira. Somente o [usuário Master da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para criar um [_access key e secret_](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), e a opção só é visível no Admin para este usuário. 
+A chave de integração, chamada de access key, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e MadeiraMadeira. Somente o [usuário Master da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para criar um [_access key e secret_](/pt/docs/tutorials/chaves-de-api), e a opção só é visível no Admin para este usuário. 
 
 Para configurar uma nova chave, siga os passos abaixo:
 
@@ -91,11 +91,11 @@ O próximo é criar um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Ua
 6. Clique em `Adicionar perfil de acesso`.
 7. Clique em `Salvar`.
 
-> Se você não possui o perfil de acesso [IntegrationProfile-Fulfillment_Oms](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#integrationprofile-fulfillment-oms), será necessário [Criar o Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) manualmente.
+> Se você não possui o perfil de acesso [IntegrationProfile-Fulfillment_Oms](/pt/docs/tutorials/perfis-de-acesso-predefinidos#integrationprofile-fulfillment-oms), será necessário [Criar o Perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) manualmente.
 
 ### Criar afiliado
 
-O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com MadeiraMadeira, é preciso [configurar um afiliado exclusivo](/pt/tutorial/como-configurar-afiliado--tutorials_187). Para criar um novo ID do afiliado, siga os passos abaixo:
+O [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com MadeiraMadeira, é preciso [configurar um afiliado exclusivo](/pt/docs/tutorials/como-configurar-afiliado). Para criar um novo ID do afiliado, siga os passos abaixo:
 
 1. Acesse o Admin.
 2. No menu *Configurações da loja > Pedidos*.
@@ -128,7 +128,7 @@ CNPJ da empresa: preencher com o CNPJ da sua loja.
 
 ### Reindexar base dos produtos
 
-Depois de concluir o preenchimento do formulário com as informações solicitadas, o suporte do MadeiraMaderia enviará um e-mail solicitando a [reindexação da base](/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802) dos produtos. Entretanto, somente usuários Master conseguem realizar essa etapa. Para reindexar, siga os passos a seguir: 
+Depois de concluir o preenchimento do formulário com as informações solicitadas, o suporte do MadeiraMaderia enviará um e-mail solicitando a [reindexação da base](/pt/docs/tutorials/manutencao-de-base-full-cleanup) dos produtos. Entretanto, somente usuários Master conseguem realizar essa etapa. Para reindexar, siga os passos a seguir: 
 
 1. Acesse a URL abaixo, substituindo *{accountname}* pelo nome da sua loja.
 

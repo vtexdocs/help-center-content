@@ -34,15 +34,15 @@ A ferramenta conta com recursos como:
 
 Nos artigos listados a seguir, você encontrará uma visão geral dos principais recursos e funcionalidades do Intelligent Search.
 
-Para utilizá-los, é necessário ter um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com o recurso **General Settings**. Saiba mais em [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). 
+Para utilizá-los, é necessário ter um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) com o recurso **General Settings**. Saiba mais em [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager). 
 
 ## Aprimoramento da busca
 
 Acesse configurações e funcionalidades para otimizar os resultados de busca:
 
-* [Configuração da busca](/pt/tutorial/configuracao-da-busca--1yNCDwz0k77ovSGqkTbZMv): defina os filtros disponíveis e configure o comportamento das especificações de produtos e SKUs na busca.  
+* [Configuração da busca](/pt/docs/tutorials/configuracao-da-busca): defina os filtros disponíveis e configure o comportamento das especificações de produtos e SKUs na busca.  
 * [Sinônimos](/pt/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN): cadastre palavras com o mesmo sentido de um termo de busca específico, aumentando a chance de uma busca com sucesso.  
-* [Relevância](/pt/subcategory/relevancia--32zXHBMygA2dB6TbCjQJej): crie [regras de relevância](/pt/tutorial/regras-de-relevancia--1o9jtVGjSIiptbqdNXIlNK) para determinar a ordem dos produtos no resultado de busca e manipule resultados de buscas específicas por meio de [regras de merchandising](/pt/tutorial/regras-de-merchandising--2UEbxllrr98twbGIVhSPvi).  
+* [Relevância](/pt/subcategory/relevancia--32zXHBMygA2dB6TbCjQJej): crie [regras de relevância](/pt/docs/tutorials/regras-de-relevancia) para determinar a ordem dos produtos no resultado de busca e manipule resultados de buscas específicas por meio de [regras de merchandising](/pt/docs/tutorials/regras-de-merchandising).  
 * [Redirecionamentos](/pt/subcategory/redirecionamentos--1wvyJwJhKgewxGeAGCVmM6): direcione o cliente para qualquer outra página, interna ou externa ao seu site. Esse redirecionamento é feito na área de busca, utilizando termos ou filtros selecionados.  
 * [Banners](/pt/subcategory/banners--z6qcw06Z38YDu1fOcu9Jn): configure banners para exibição durante a busca.
 
@@ -50,18 +50,18 @@ Acesse configurações e funcionalidades para otimizar os resultados de busca:
 
 Acesse relatórios para monitorar o Intelligent Search:
 
-* [Explicação da busca](/pt/tutorial/explicacao-da-busca--F2yxrRvTNt4aEZGC7HV65): simula buscas e exibe todas as referências que foram utilizadas para determinar a ordenação dos resultados.  
-* [Analytics](/pt/tutorial/analytics--6qRMAHDL9hvv3oE0bh8mA1): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.  
-* [Histórico da indexação](/pt/tutorial/historico-da-indexacao--55SRQ79PXk5lTURF54DRyJ): monitora a situação de sincronização de todos os produtos do [Catálogo](/pt/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe) enviados para o Intelligent Search.
+* [Explicação da busca](/pt/docs/tutorials/explicacao-da-busca): simula buscas e exibe todas as referências que foram utilizadas para determinar a ordenação dos resultados.  
+* [Analytics](/pt/docs/tutorials/analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.  
+* [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao): monitora a situação de sincronização de todos os produtos do [Catálogo](/pt/docs/tutorials/catalogo-visao-geral) enviados para o Intelligent Search.
 
 ## Funcionamento da busca
 
 Saiba mais sobre como o Intelligent Search funciona:
 
-* [Comportamento da busca](/pt/tutorial/comportamento-da-busca--B9o3JbV6utAinBJ1ETujs)  
-* [Indexação](/pt/tutorial/indexacao--7J6tepFgD3wohCGEP2PqDB)  
-* [Separar SKUs por especificação](/pt/tutorial/separar-skus-por-especificacao--2q34xCKFuob941cOmz9Fx)  
-* [Filtros](/pt/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB)  
-* [Autocomplete](/pt/tutorial/autocomplete--6qhP0ZQ4JqUBdgFnbnxS4a)  
-* [Disponibilidade](/pt/tutorial/disponibilidade--3ZcZOzTSr2RdauUbn7qTa9)
+* [Comportamento da busca](/pt/docs/tutorials/comportamento-da-busca)  
+* [Indexação](/pt/docs/tutorials/indexacao)  
+* [Separar SKUs por especificação](/pt/docs/tutorials/separar-skus-por-especificacao)  
+* [Filtros](/pt/docs/tutorials/filtros)  
+* [Autocomplete](/pt/docs/tutorials/autocomplete)  
+* [Disponibilidade](/pt/docs/tutorials/disponibilidade)
 

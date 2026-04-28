@@ -32,7 +32,7 @@ Exercite sua autonomia sobre o código e construa o cenário de loja desejado de
 
 2. Clique em `Versões` no canto superior direito.
 
-> ℹ️ O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento. Para mais informações sobre o recurso **Versões**, acesse [Gerenciando versões de conteúdo](/pt/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG) e [Agendando atualizações de conteúdo](/pt/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns)
+> ℹ️ O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento. Para mais informações sobre o recurso **Versões**, acesse [Gerenciando versões de conteúdo](/pt/docs/tutorials/gerenciando-versoes-de-conteudo) e [Agendando atualizações de conteúdo](/pt/docs/tutorials/agendando-atualizacoes-de-conteudo)
 
 3. Clique no botão `Novo conteúdo`.
 4. Faça as alterações desejadas de acordo com as configurações disponíveis para o bloco.

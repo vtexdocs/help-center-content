@@ -18,4 +18,4 @@ Caso os pedidos feitos na sua loja não estejam sendo associados às suas respec
 
 Em botões de finalizar compra que não utilizam o controle nativo da VTEX, é preciso passar o parâmetro `&gr={listId}` para associar o pedido à lista desejada pelo cliente.
 
-Utilizando o [controle nativo da VTEX](/pt/tutorial/controle-do-botao-de-compra) (`<vtex.cmc:BuyButton/>`) para renderizar o botão de compra, o pedido é associado normalmente à lista desejada.
+Utilizando o [controle nativo da VTEX](/pt/docs/tutorials/controle-do-botao-de-compra) (`<vtex.cmc:BuyButton/>`) para renderizar o botão de compra, o pedido é associado normalmente à lista desejada.

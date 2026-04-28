@@ -21,4 +21,4 @@ The upgrade in the __Service Worker__ permissions broadens the possibilities for
 
 > ⚠️ **Warning:**<br> VTEX's platform **doesn't have** a feature to turn your store into a PWA. It only offers the conditions to enable the implementation.
 
-Read this [VTEX Help article](/en/tutorial/how-to-install-a-service-worker) to learn how to install a __Service Worker__ file in your store.
+Read this [VTEX Help article](/en/docs/tutorials/how-to-install-a-service-worker) to learn how to install a __Service Worker__ file in your store.

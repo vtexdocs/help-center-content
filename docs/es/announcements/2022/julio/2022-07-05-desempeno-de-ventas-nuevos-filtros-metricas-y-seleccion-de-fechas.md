@@ -44,6 +44,6 @@ Las nuevas dimensiones de filtros permiten refinar aún más tu exploración de 
 
 ## ¿Qué se necesita hacer?
 
-Esta actualización solo está disponible para las tiendas que operan con el [nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). No se requiere ninguna acción. La página ya se ha actualizado automáticamente en tu Admin VTEX en el menu **Dashboards**. Obtén más información en [Desempeño de Ventas](/es/v4/docs/desempeno-de-ventas--6gx46RGRzWO8qgaVck7PRp).
+Esta actualización solo está disponible para las tiendas que operan con el [nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex). No se requiere ninguna acción. La página ya se ha actualizado automáticamente en tu Admin VTEX en el menu **Dashboards**. Obtén más información en [Desempeño de Ventas](/es/v4/docs/desempeno-de-ventas--6gx46RGRzWO8qgaVck7PRp).
 
 Para acceder a esta página y formar parte de una nueva experiencia, únete al [programa Beta](https://content.vtex.com/participe-do-programa-beta-es/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) del nuevo Admin VTEX.

@@ -24,7 +24,7 @@ To edit a transactional email template, follow the steps below.
 3. Change the e-mail title and the recipient (values bounded by double braces are variable; in the next article we will learn how to handle them). You can add recipients on Carbon Copy (`CC`) and Blind Carbon Copy (`CCO`).  
 4. Check the box __Use default sender__ to use the registered email address as default, as explained in the previous article on this track.
 
-> ℹ️ The list of templates is available in the article [Order transactional email templates](/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
+> ℹ️ The list of templates is available in the article [Order transactional email templates](/en/docs/tutorials/order-transactional-email-templates).
 
 In the __HTML__ field you will find the template's HTML code. You can edit the code in the field itself or copy it to an editor of your choice, edit it and then paste it back into the template field.
 

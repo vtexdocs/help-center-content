@@ -55,5 +55,5 @@ Após preencher os campos obrigatórios, aparecerão as abas disponíveis para c
 
   Esses três passos podem ser repetidos até que se tenha o formulário no formato em que se deseja. É possível inserir vários campos na mesma coluna, assim como é possível criar várias seções. 
 
-- **Consultas:** Essa aba serve apenas para exibir as [consultas criadas na listagem](/pt/tutorial/criando-uma-consulta-personalizada-no-master-data--tutorials_799).
+- **Consultas:** Essa aba serve apenas para exibir as [consultas criadas na listagem](/pt/docs/tutorials/criar-consulta-personalizada-no-master-data-v1).
 - **Folha de estilo:** Local para inserção de CSS para edição do frontend do formulário.

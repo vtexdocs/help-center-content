@@ -47,7 +47,7 @@ Después de hacer clic en el botón __Guardar__, se le redirige a la página de 
 2. En __Procesar con la afiliación__, elija el conector que va a procesar los pagos con private label (una de las afiliaciones de gateway registradas en el primer paso de este tutorial).
 3. Si hay un antifraude configurado en su tienda, usted puede activarlo para esta condición de pago marcando la casilla __Usar Antifraude__.
 4. Seleccione si los pagos van a ser en efectivo o parcelados.
-5. También es posible configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales).
+5. También es posible configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 5. Haga clic en __Guardar__.
 
 Después de seguir los pasos indicados arriba, el private label (bandera propia) aparecerá en el checkout de su tienda como una opción de pago.

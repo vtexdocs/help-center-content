@@ -30,4 +30,4 @@ Ex: the first 3 cycles are free and the customer only pays from the fourth one o
 - Subscription renewal campaign;
 - Buying renewal.
 
-[See how to use the Subscription Promotion.](/en/tutorial/creating-a-subscription-promotion)
+[See how to use the Subscription Promotion.](/en/docs/tutorials/creating-a-subscription-promotion)

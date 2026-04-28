@@ -15,16 +15,17 @@ locale: es
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
-El conjunto de datos compuesto por la tabla `item_inventory` proporciona información sobre la disponibilidad de ítems en stock. Detalla la cantidad total y disponible de ítems, las reservas activas, la posibilidad de stock ilimitado, además de incluir identificaciones de SKU y stock. La tabla también registra actualizaciones con marcas de tiempo e ID de control.  
+El conjunto de datos de stock está compuesto por dos tablas: `item_inventory` y `warehouses_latest`. En conjunto, proporcionan información sobre disponibilidad de ítems, reservas, configuración de stock, metadatos de cuentas y atributos de almacenes.  
 
 En esta sección puedes consultar la siguiente información:
 
-- [Características de los datos de stock](#características-de-los-datos-de-stock)
+- [Características de los datos de stock](#caracteristicas-de-los-datos-de-stock)
 - [Tabla item_inventory](#tabla-item_inventory)
-- [Análisis con item_inventory](#analisis-con-inventory)
+- [Tabla warehouses_latest](#tabla-warehouses_latest)
+- [Análisis con datos de stock](#analisis-con-datos-de-stock)
 - [Correlaciones con otros datos](#correlaciones-con-otros-datos)
 
-## Características de los datos
+## Características de los datos de stock
 
 | **Característica** | **Descripción** |
 |:---:|:---:|
@@ -39,21 +40,41 @@ Estos son los campos que componen la tabla:
 
 | **Nombre de la Columna**| **Tipo de Columna** | **Descripción de la Columna** |
 |------|--------|---------|
-|parent_account_name | character varying(200) | Nombre de la cuenta principal asociada con la entidad fundamental a la que pertenece el stock.|
-| main_account| character varying(200) | Nombre de la cuenta principal del comerciante en el Gestor de Licencias.|
-| account_name | character varying(200)| Nombre de la cuenta a la que pertenece el stock.|
-| quantity | bigint | La cantidad total de artículos disponibles en el stock. |
-| reserved_quantity| bigint| Número de reservas activas para un artículo. |
-| is_unlimited_quantity  | boolean| Indica si el artículo puede tener stock infinito (True) o no (False). |
-| batch_id  | character(13) | Identifica el último lote de ingesta que actualizó esta fila. |
-| warehouse_id | character varying(400)| ID del almacén donde se encuentra el stock. |
-| item_id| character varying(300)| Identifica el artículo cuyo stock está siendo cuantificado. |
-| last_update| timestamp without time zone | La última vez que se actualizó el stock de este artículo específico. |
-| warehouse_status | varchar(8) | Muestra el estado actual del almacén donde se guarda este inventario. Los valores aceptados son: activo, inactivo o eliminado. |
+| main_account | character varying(200) | Nombre de la cuenta principal del comerciante. Identifica la cuenta VTEX de nivel superior a la que pertenece la tienda/entidad. |
+| account_name | character varying(200) | Nombre de la cuenta a la que pertenece el stock. Junto con `warehouse_id` y `item_id`, identifica de forma única un registro de inventario. |
+| warehouse_id | character varying(400) | ID del almacén donde se encuentra el stock. |
+| item_id | character varying(300) | Identifica el ítem cuyo stock se está cuantificando (SKU ID). Forma parte de la clave natural del registro de inventario. |
+| is_unlimited_quantity | boolean | Indica si el ítem puede tener stock infinito (`true`) o no (`false`). |
+| quantity | bigint | Cantidad total de ítems en stock para el ítem en el almacén (cantidad física). |
+| reserved_quantity | bigint | Número de reservas activas para el ítem. |
+| last_update | timestamp without time zone | Última vez que se actualizó el stock de ese ítem específico. |
+| parent_account_name | character varying(200) | Nombre de la cuenta padre. Es la cuenta de nivel más alto en la jerarquía; si no existe, usa `main_account`. |
+| batch_id | character varying(13) | Identifica el último lote de ingesta que actualizó esta fila. Se usa para trazabilidad y calidad de datos. |
+| record_created_at | timestamp without time zone | Timestamp de cuando el registro fue insertado por primera vez en Lake House. |
+| record_updated_at | timestamp without time zone | Timestamp de cuando el registro fue actualizado por última vez en Lake House. |
 
-## Análisis con inventory
+## Tabla warehouses_latest
 
-A continuación se indican algunos de los análisis posibles con la tabla de stock:
+Estos son los campos que componen la tabla:
+
+| **Nombre de la Columna**| **Tipo de Columna** | **Descripción de la Columna** |
+|------|--------|---------|
+| warehouse_id | character varying(100) | Identificador del almacén. |
+| warehouse_name | character varying(200) | Nombre del almacén según la definición en Admin. |
+| account_id | character varying(38) | Identificador de la cuenta. |
+| account_name | character varying(100) | Nombre de la cuenta. |
+| is_active | boolean | Indica si el almacén está activo. |
+| warehouse_docks | super | Docks vinculados al almacén. |
+| pickup_point_ids | super | Puntos de retiro vinculados al almacén. |
+| priority | integer | Criterio de desempate usado para seleccionar almacenes cuando tienen el mismo score de ruta. |
+| is_deleted | boolean | Indica si el almacén fue eliminado. |
+| record_created_at | timestamp without time zone | Registro interno de cuándo se creó por primera vez la entidad almacén. |
+| record_updated_at | timestamp without time zone | Registro interno de cuándo se actualizó por última vez la entidad almacén. |
+| parent_account_name | character varying(50) | Nombre de la cuenta padre. Es la cuenta de nivel más alto en la jerarquía; si no existe, usa `main_account`. |
+
+## Análisis con datos de stock
+
+A continuación se indican algunos de los análisis posibles con los datos de stock:
 
 - **Análisis de niveles de stock:** evalúa si el stock cubre la demanda e identifica ítems en riesgo de agotarse.  
 - **Tendencias de reserva de stock:** analiza la cantidad de ítems reservados a lo largo del tiempo para identificar patrones y ajustar las estrategias de gestión de stock.  
@@ -70,10 +91,10 @@ Los datos de stock se correlacionan con los conjuntos de pedidos y productos, y 
 
 ### Descubra otros conjuntos de datos
 
-- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Navegación](/es/docs/tutorials/navegacion-data-pipeline)   
+- [Pagos](/es/docs/tutorials/pagos)  
+- [Pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta) 
+- [Precios](/es/docs/tutorials/precios-data-pipeline-beta)
+- [Promociones](/es/docs/tutorials/promociones)
+- [Tarjeta de regalo](/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)
+- [Registro del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)

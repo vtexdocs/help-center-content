@@ -30,7 +30,7 @@ To perform the initial Customer Credit settings, follow the steps below:
 <br>
 <ul>
 <br>
-    	<li>**Enable transactional emails on Message Center**: click in **Enable** to install the transactional email templates related to Customer Credit in [Message Center](/en/tutorial/conhecendo-o-message-center--tutorials_84).</li>
+    	<li>**Enable transactional emails on Message Center**: click in **Enable** to install the transactional email templates related to Customer Credit in [Message Center](/en/docs/tutorials/understanding-the-message-center).</li>
     	<li>**Setting checkout payment conditions**: click in **Setting** to allow the definition of the store's deadline and installment rules.</li>
   	<li>**Affiliation not authenticated**: click in **Authenticate** to be redirected to the configuration screen where you must fill in the information **Application Key** and **Application Token**. This action will allow payments made through Customer Credit to be processed in your store. Find out more at [Authentication](https://developers.vtex.com/docs/guides/authentication).</li>
 </ul>
@@ -102,7 +102,7 @@ To create payment conditions for Customer Credit invoices, follow the steps belo
 
 ![CC_Configuration_9_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_8.JPG)
 
-<blockquote><ui>7. If you wish, you can also configure [payment special conditions](/en/tutorial/special-conditions--tutorials_456).</ui>
+<blockquote><ui>7. If you wish, you can also configure [payment special conditions](/en/docs/tutorials/special-conditions).</ui>
 
 <blockquote><ui>8. Click **Save**.</ui>
 

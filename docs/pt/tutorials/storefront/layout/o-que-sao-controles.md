@@ -22,5 +22,5 @@ Por exemplo, usando o controle `<vtex.cmc:productName/>` em uma página de produ
 Você pode conferir todos os controles nativos disponíveis e seus respectivos usos [neste artigo](/pt/tutorial/lista-de-controles-para-templates).
 
 ### Artigos relacionados
-- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site)
-- [O que são templates?](/pt/tutorial/o-que-sao-templates)
+- [O que é um web site?](/pt/docs/tutorials/o-que-e-um-web-site)
+- [O que são templates?](/pt/docs/tutorials/o-que-sao-templates)

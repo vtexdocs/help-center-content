@@ -43,4 +43,4 @@ The shared cart is only possible because of a new parameter on the checkout's UR
 
 > ⚠️ Remember that the shared cart is an optional feature. Therefore, the changes pointed out in this article must be performed **only by stores that intend to use it**.
 
-Read the [article about the shared cart](/en/tutorial/what-is-the-shared-cart) and learn more about this new feature.
+Read the [article about the shared cart](/en/docs/tutorials/what-is-the-shared-cart) and learn more about this new feature.

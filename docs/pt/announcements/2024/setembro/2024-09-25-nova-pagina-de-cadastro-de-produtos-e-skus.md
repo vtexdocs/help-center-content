@@ -13,6 +13,9 @@ locale: pt
 legacySlug: nova-pagina-de-cadastro-de-produtos-e-skus
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Confira as melhorias na experiência de cadastro, visualização e edição de produtos e SKUs.'
+tags:
+  - Nova funcionalidade
+  - Catálogo
 ---
 
 A página de detalhes de produtos e SKUs foi reformulada para melhorar a sua experiência de cadastro, visualização e edição de produtos e SKUs. A nova página está disponível em beta.
@@ -33,7 +36,7 @@ Além disso, ficou mais fácil selecionar categorias e marcas.
 
 ![Nova página de cadastro de produtos e SKUs 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/setembro/2024-09-25-nova-pagina-de-cadastro-de-produtos-e-skus_4.gif)
 
-> ℹ️ Saiba mais sobre as novas páginas de [produto](/pt/tutorial/adding-products-beta--29IkdEu6GofCFlltsZh2H8) e [SKU](/pt/tutorial/cadastro-de-skus-beta--4ryZ6J45kwn3jDiQBxGiiN) respectivamente.
+> ℹ️ Saiba mais sobre as novas páginas de [produto](/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKU](/pt/docs/tutorials/adicionar-ou-editar-sku) respectivamente.
 
 ## O que precisa ser feito?
 

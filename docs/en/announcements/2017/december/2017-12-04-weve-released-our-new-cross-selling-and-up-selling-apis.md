@@ -75,4 +75,4 @@ This API will return the products that were registered as Up-selling __suggestio
 
 For more details on the requests, please visit our [API documentation](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-?endpoint=get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-).
 
-For more information on the Cross-selling and Up-Selling techniques described above, access the [VTEX Help article](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics)
+For more information on the Cross-selling and Up-Selling techniques described above, access the [VTEX Help article](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics)

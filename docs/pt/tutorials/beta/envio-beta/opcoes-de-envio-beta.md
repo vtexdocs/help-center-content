@@ -17,22 +17,13 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
-A **Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente. 
+**Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente.
 
 Assim, os lojistas ganham autonomia para criar, configurar e gerenciar opções de entrega como um conteúdo estratégico dentro da plataforma VTEX. Essa abordagem oferece mais flexibilidade para alinhar as capacidades logísticas com os objetivos comerciais, aprimorando a experiência de compra dos clientes.
 
-As opções de envio consomem as informações já cadastradas nas [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) da loja. Caso não tenha essas configurações definidas ou nenhuma atende às metas de prazos das opções de envio, leia o artigo [Criar uma política de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
+As opções de envio usam as [políticas de envio](/pt/docs/tutorials/politica-de-envio) já configuradas na loja. Uma única opção de envio pode agrupar várias políticas de envio, desde que atendam aos critérios definidos para essa opção.
 
-Esta página permite que você realize as seguintes ações:
-
-- [Criar](#criar-opcao-de-envio)
-- [Editar](#editar-uma-opcao-de-envio)
-- [Desativar](#desativar-uma-opcao-de-envio)
-- [Ativar](#ativar-uma-opcao-de-envio)
-- [Deletar](##deletar-uma-opcao-de-envio)
-- [Buscar](#buscar-uma-opcao-de-envio)
-- [Filtrar](#filtrar-uma-opcao-de-envio)
-- [Configurar preferências](#preferencias-de-opcao-de-envio)
+As políticas de envio são associadas a uma opção de envio quando cumprem tanto a promessa de entrega definida quanto as zonas de entrega configuradas. Se nenhuma política de envio atender aos critérios configurados, ou se as políticas de envio não tiverem sido configuradas corretamente, leia o artigo [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
 
 ![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
 
@@ -53,20 +44,38 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 2. Clique em `Criar opção de envio`.
 3. Preencha os campos do formulário:
   ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
+
+   ### Informações básicas
+
    - **Método de envio:** selecione o tipo de método de envio (**Entrega**, **Entrega agendada**, **Retirada**, **Retirada agendada**).
    - **Nome da opção:** digite o nome da opção que será visualizada pelo cliente durante a compra.
-   - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
+   - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/docs/tutorials/filtros).
 
    > ⚠️ Os filtros de métodos de envio somente serão exibidos na listagem de produtos ao cliente se esta opção estiver ativada. Caso desativada, os filtros não serão exibidos.
+
+   ### Meta de prazo
 
    - **Formato de prazo**: selecione qual medida de tempo (**Dias** ou **Horas**) deve ser utilizada para a entrega.
    - **Condição**: define qual a condição (**A partir de**, **Em até**, **Entre**) para o prazo da opção de envio.
    - **Prazo mínimo:** quantidade mínima de horas ou dias para a opção de envio.
    - **Prazo máximo:** quantidade máxima de horas ou dias para a opção de envio.
+
+   ### Zonas de envio
+
    - **Zonas de envio**: clique no botão `+ Adicionar zonas` e selecione as zonas de envio que deseja que sejam atendidas pela opção de envio. É possível buscar por uma zona de envio por meio da barra de busca. Clique em `Salvar` para fechar a janela.
+
+   ### Precificação de envio
+
+   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas partir das seguintes segmentações:
+       - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
+       - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
+       - **Valor do carrinho**: o preço será aplicado caso o valor do carrinho ultrapasse um determinado valor.
+       - **Zonas de envio**: o preço será aplicado a uma determinada zona de envio. É necessária a seleção prévia das zonas de envio no campo anterior para utilizar essa segmentação.
 4. Clique em `Criar opção de envio.`
 
-Feito isso, a opção de envio estará ativa e disponível para os clientes da loja.
+Feito isso, a opção de envio estará ativa e disponível para os clientes da loja, como demonstra o exemplo abaixo:
+
+![delivery-options-pt-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_4.png)
 
 ## Editar uma opção de envio
 
@@ -125,7 +134,7 @@ Para filtrar a lista de opções de envio, clique em um dos filtros descritos ab
 
 - **Zona de entrega:** filtra pelas zonas de entrega configuradas nas opções de envio. É possível procurar pelo nome de uma zona de entrega na barra de busca.
 
-- **Status: filtra pelos status, **Ativa** ou **Inativa**, das opções de envio.
+- **Status**: filtra pelos status, **Ativa** ou **Inativa**, das opções de envio.
 
 - **Exibição na vitrine**: filtra as opções de envio que estão configuradas, **Habilitadas** ou **Não habilitadas**, como [filtro na vitrine da loja](#filtrar-uma-opcao-de-envio).
 
@@ -137,8 +146,10 @@ Configure as opções de envio na frente da loja para personalizar a experiênci
 
 1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
 2. Clique em `Preferências`.
-3. Selecione a forma que deseja exibir as suas opções de envio na loja.
+3. Na seção **Opções de entrega usadas como filtro**, defina a ordem em que as opções de entrega serão exibidas nos filtros de navegação.
+4. Adicione as opções de envio que deseja incluir nos filtros de navegação clicando em `+` na opção de envio correspondente.
+5. Selecione a forma que deseja exibir as suas opções de envio na loja.
    ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_3.png)
    - **Exibir sempre todas as opções disponíveis para o produto:** todas as opções de envio que estão disponíveis nas condições de entrega serão exibidas na página de produto e no checkout da loja.
    - **Exibir apenas a opção de menor custo e a de menor prazo:** apenas as opções de envio com menor custo ou com menor prazo serão exibidas na página de produto e no checkout da loja.
-4. Clique em `Salvar` para finalizar.
+6. Clique em `Salvar` para finalizar.

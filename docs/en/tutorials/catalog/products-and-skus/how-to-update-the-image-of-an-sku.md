@@ -45,7 +45,7 @@ Since this procedure involves deleting all images from an SKU, consequently maki
 1. On the __SKU__ tab, check the box next to __Activate SKU if possible__.
 2. Click __Save__.
 
-Your product will now enter the [Indexing Queue](/en/tutorial/understanding-how-indexation-works). After being indexed, the SKU will be displayed with the new images.
+Your product will now enter the [Indexing Queue](/en/docs/tutorials/understanding-how-indexation-works). After being indexed, the SKU will be displayed with the new images.
 
 ## Via API
 

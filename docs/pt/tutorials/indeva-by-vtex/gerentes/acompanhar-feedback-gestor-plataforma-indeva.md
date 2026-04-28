@@ -24,7 +24,7 @@ subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 </ol>
 
 <img
-  src="https://cdn.elev.io/file/uploads/QBzHaXAsXxOVU9cJt8qy4K7_fCUmprAgEkSOPIaQEPs/s2sWMNkbqwXsmcZw4cobEKsas1TrBXP20fibPdu5GFQ/Snap%202018-11-23%20at%2016.35.57-8e0.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/gerentes/acompanhar-feedback-gestor-plataforma-indeva_1.png"
   alt="Tela de visualização de feedback do gestor"
   loading="lazy"
 />

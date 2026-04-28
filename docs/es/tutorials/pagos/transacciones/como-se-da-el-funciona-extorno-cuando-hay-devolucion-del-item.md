@@ -29,4 +29,4 @@ Cuando se efectúa el pago por boleta, es necesario generar un vale manualmente 
 
 Lo ideal es contactar con el consumidor para alinear la mejor forma de operar la devolución del valor pagado.
 
-_Cuando la devolución se realiza antes del [reconocimiento de la reserva](/es/tutorial/como-se-maneja-la-reserva), el artículo vuelve a su stock de origen quedando disponible para una nueva venta, sin la necesidad del comerciante insertar esa unidad manualmente, por planilla o a través de la API. Si la devolución se realiza después de que la reserva sea reconocida, es necesario devolver la unidad al stock, actualizando esa información manualmente, por planilla o a través de API._
+_Cuando la devolución se realiza antes del [reconocimiento de la reserva](/es/docs/tutorials/como-se-maneja-la-reserva), el artículo vuelve a su stock de origen quedando disponible para una nueva venta, sin la necesidad del comerciante insertar esa unidad manualmente, por planilla o a través de la API. Si la devolución se realiza después de que la reserva sea reconocida, es necesario devolver la unidad al stock, actualizando esa información manualmente, por planilla o a través de API._

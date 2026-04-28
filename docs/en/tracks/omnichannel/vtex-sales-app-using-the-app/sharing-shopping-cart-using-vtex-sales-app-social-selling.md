@@ -38,11 +38,11 @@ This option allows sales associates to share shopping carts ready for purchase w
 
 See the step-by-step instructions illustrated below.
 
-![socialselling-sugestaocarrinho-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/sharing-shopping-cart-using-instore-social-selling_1.gif)
+![socialselling-sugestaocarrinho-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-sales-app-using-the-app/sharing-shopping-cart-using-instore-social-selling_1.gif)
 
 The same link is shareable with multiple customers as many times as they like. Each time a person accesses this link, a new shopping cart is generated, exactly like the one created in VTEX Sales App. Carts accessed are also associated with the sales associate account and their code, if they have one.
 
-> ℹ️ If the sales associate code is enabled, you are required to fill it in before sharing your cart. For more information about the sales associate code, check the [Customize VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ) guide and the [Enable the sales associate code](https://developers.vtex.com/vtex-rest-api/docs/sales-associate-code) developer guide.
+> ℹ️ If the sales associate code is enabled, you are required to fill it in before sharing your cart. For more information about the sales associate code, check the [Customize VTEX Sales App](/en/docs/tracks/customizing-vtex-sales-app) guide and the [Enable the sales associate code](https://developers.vtex.com/vtex-rest-api/docs/sales-associate-code) developer guide.
 
 ## Payment link
 
@@ -62,4 +62,4 @@ In this case, the sales associate needs to add items to the cart, fill in the cu
 
 See the step-by-step instructions illustrated below.
 
-![socialselling-paymentlink-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/sharing-shopping-cart-using-instore-social-selling_2.gif)
+![socialselling-paymentlink-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-sales-app-using-the-app/sharing-shopping-cart-using-instore-social-selling_2.gif)

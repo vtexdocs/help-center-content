@@ -23,13 +23,13 @@ Before importing an inventory, you must export a spreadsheet. Even without an ex
 3. Click on the **Warehouses** tab.  
 4. Click on the `:` button next to *Create warehouse*.  
 5. Click on the **Export items** option.  
-6. An email will be sent with the exported file.   
+6. An email will be sent with the exported file.
 
-If you have more than one existing inventory, this same action also allows you to concomitantly export a spreadsheet containing items from all store inventories. If your inventory is very extensive, this file will be split into more than one spreadsheet. You will also receive an email with the corresponding link to each spreadsheet.   
+If you have more than one existing inventory, this same action also allows you to concomitantly export a spreadsheet containing items from all store inventories. If your inventory is very extensive, this file will be split into more than one spreadsheet. You will also receive an email with the corresponding link to each spreadsheet.
 
 ## How to import an inventory
 
-1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.    
+1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.
 2. Click on **Warehouses** tab.  
 3. Click on `:` button next to *Create warehouse*.  
 4. Click on the **Import items** option.  
@@ -39,11 +39,11 @@ If you have more than one existing inventory, this same action also allows you t
 > ⚠️ If these indicators are not respected, the system may not accept the spreadsheet import or the number of available items may be incorrect.
 > Importing the inventory will overwrite the current values on your existing one. Import only if you want to replace the SKU data present in the Admin.
 
-Using an inventory spreadsheet, you can bulk insert the number of SKUs for each of your store's inventories. Importing an inventory spreadsheet is the easiest way to bulk add the SKUs to your store.   
+Using an inventory spreadsheet, you can bulk insert the number of SKUs for each of your store's inventories. Importing an inventory spreadsheet is the easiest way to bulk add the SKUs to your store.
 
-Each spreadsheet row therefore applies to a SKU per inventory, which means that if a single SKU is present in more than one inventory, it will appear once in each one of those. The spreadsheet contains all inventory product variations added to your store.    
+Each spreadsheet row therefore applies to a SKU per inventory, which means that if a single SKU is present in more than one inventory, it will appear once in each one of those. The spreadsheet contains all inventory product variations added to your store.
 
-This import is done using an .xls format spreadsheet, in which the format is the same as the exported one. In case your file is over 10 MB, you need to use a .zip compressed file. 
+This import is done using an .xls format spreadsheet, in which the format is the same as the exported one. In case your file is over 4.5 MB, you need to use a .zip compressed file. 
 
 In addition, for the spreadsheet to be correctly filled out, two following rules must be adhered to:  
 

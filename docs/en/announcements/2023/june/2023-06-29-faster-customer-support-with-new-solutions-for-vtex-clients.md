@@ -21,7 +21,7 @@ We are excited to introduce the latest customer service solution from VTEX. Now,
 
 When opening a [support ticket](https://supporticket.vtex.com/support) of type 'Technical', you will have access to a new real-time conversation screen with the VTEX bot where you can clarify any doubt about the platform. The bot supports **multiple languages** and has been trained with **all the VTEX available knowledge base**.
 
-Even with this new support option, you can choose at any moment to **continue the assistance with our Support team of experts**, following the SLAs defined in your [region's service policy](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+Even with this new support option, you can choose at any moment to **continue the assistance with our Support team of experts**, following the SLAs defined in your [region's service policy](/en/docs/tutorials/how-does-vtex-support-work).
 
 ### Limited availability in beta version
 

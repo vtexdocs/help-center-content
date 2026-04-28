@@ -37,6 +37,6 @@ It allows the use of a store's credit card in partnership with one of the follow
 3. Select one of the custom payment options.
 4. Fill out the form fields and click on the **Save** button.
 
-After this configuration, the creation of a [Payment Condition](/en/tutorial/how-to-configure-payment-conditions--tutorials_455) is required.
+After this configuration, the creation of a [Payment Condition](/en/docs/tutorials/how-to-configure-payment-conditions) is required.
 
 > _We recommend **using the automatic approval** only in cases where the payment will be made **upon delivery** or **pickup at the store**. This option releases the payment of the order, meaning that the order automatically switches to the Preparing Delivery status, without payment verification._

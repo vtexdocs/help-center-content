@@ -23,7 +23,7 @@ We start this article with a reminder of the fact that the tendency and good pra
 
 The creation of a separate mobile version was a practice adopted when the CSS resources made it hard to adapt a desktop version for mobile use. Today, with the resources that the CSS offers, it has become standard practice to create a responsive version. 
 
-To read more about this, check the article [Responsive vs. Mobile Version](/en/tutorial/responsive-vs-mobile-version).
+To read more about this, check the article [Responsive vs. Mobile Version](/en/docs/tutorials/responsive-vs-mobile-version).
 
 The purpose of this article is to illustrate how to prepare a development environment for a mobile version, without affecting the production version.
 
@@ -34,7 +34,7 @@ There are a number of ways of developing a mobile version without impacting the 
 To develop a mobile version for a new website, you must proceed as follows:
 
 1. Set up a new (temporary) store in the **Account Settings.** This should be done by the person responsible for the store (environment). In the Admin, go to __Account Settings > Accounts__. Select the desired account and click **Configure This Store**.
-2. Create a new website (or clone the main one) on the **CMS Layout**:
+2. Create a new website (or clone the main one) on the **Legacy CMS Portal**:
 
 Storefront > Layout > CMS folder > Sites and Channels > New Website
 

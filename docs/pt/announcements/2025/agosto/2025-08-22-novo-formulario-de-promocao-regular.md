@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novo-formulario-de-promocao-regular
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'VTEX lança nova versão do formulário de Promoção Regular com melhor usabilidade.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 A partir de 22/08/2025, os lojistas terão acesso a uma experiência otimizada do formulário Promoção Regular, que permite configurar campanhas promocionais. 
@@ -35,4 +38,4 @@ A atualização do formulário tem como objetivo tornar a criação e o gerencia
 ## O que precisa ser feito?
 Nenhuma ação por parte das lojas é necessária. O novo formulário estará disponível a partir de 22/08/2025 em todas as contas VTEX.
 
-Para mais informações, acesse a [Promoção Regular](/pt/tutorial/promocao-regular-pt--tutorials_327).
+Para mais informações, acesse a [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt).

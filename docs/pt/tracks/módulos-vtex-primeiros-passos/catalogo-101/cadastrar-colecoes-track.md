@@ -15,13 +15,13 @@ trackSlugEN: catalogo-101
 order: 13
 ---
 
-> ⚠️ Antes de criar uma coleção, é preciso ter configurado a autorização. Para isso, é preciso ter um perfil de acesso com o recurso **Write Collections**, na seção **Collections** dos perfis do Catalog. Veja aqui [como configurar um recurso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+> ⚠️ Antes de criar uma coleção, é preciso ter configurado a autorização. Para isso, é preciso ter um perfil de acesso com o recurso **Write Collections**, na seção **Collections** dos perfis do Catalog. Veja aqui [como configurar um recurso](/pt/docs/tutorials/perfis-de-acesso).
 
 Siga o passo a passo abaixo para cadastrar uma nova coleção:
 
 1. No Admin, clique no **Catálogo**.
 2. Clique em **Coleções**.
 3. Clique no botão `Criar Coleção`.
-4. Preencha os [campos do formulário de Coleção](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
+4. Preencha os [campos do formulário de Coleção](/pt/docs/tutorials/cadastrar-colecoes-beta#campos-de-cadastro-de-colecao).
 5. Clique em `Criar` para atualizar as informações preenchidas no formulário.
-6. Em seguida, [selecione os produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte da coleção.
+6. Em seguida, [selecione os produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#selecao-de-produtos) que farão parte da coleção.

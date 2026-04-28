@@ -31,5 +31,5 @@ O processo passa a ser realizado 100% manualmente, com o objetivo de reduzir os 
 
 A página __Match de anúncios Amazon__ poderá ser encontrada em Marketplace > __Match de anúncios Amazon__, ou na barra de busca, e estará disponível para todas as contas VTEX a partir do dia 03 de julho de 2023, sem a necessidade de qualquer ação para ativá-la.
 
-Para mais informações sobre o funcionamento, consulte nossa [documentação Match de anúncios Amazon](/pt/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
+Para mais informações sobre o funcionamento, consulte nossa [documentação Match de anúncios Amazon](/pt/docs/tutorials/match-de-anuncios-amazon).
 

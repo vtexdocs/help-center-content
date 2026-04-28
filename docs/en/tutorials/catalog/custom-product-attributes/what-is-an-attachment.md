@@ -16,7 +16,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 order: 2
 ---
 
-An attachment is the optional and cost-free customization of a product. It's used to add information to an SKU. This information may be related to a [service](/en/tutorial/what-is-a-service) or the purchased item itself.
+An attachment is the optional and cost-free customization of a product. It's used to add information to an SKU. This information may be related to a [service](/en/docs/tutorials/what-is-a-service) or the purchased item itself.
 
 > ⚠️ VTEX does not control the stock of an attachment. This is a responsibility of the marketplace or the seller.
 
@@ -26,6 +26,6 @@ If your purchased item is a Brazilian National Team Shirt, the name of your Atta
 - Number: which allows the inclusion of a number chosen by the client in the back of the shirt, among the values 5, 7, 9, 10 and 11.
 
 ### Related articles
-- [Adding an attachment](/en/tutorial/adding-an-attachment)
-- [What is a service?](/en/tutorial/what-is-a-service)
+- [Adding an attachment](/en/docs/tutorials/adding-an-attachment)
+- [What is a service?](/en/docs/tutorials/what-is-a-service)
 - [How to create a service for an SKU](/en/tutorial/creating-a-service-for-a-sku)

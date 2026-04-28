@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-Para que seu site seja exibido em outra língua, deve-se [criar uma nova política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) e atribuir a ela o idioma desejado no campo __Culture Info__.
+Para que seu site seja exibido em outra língua, deve-se [criar uma nova política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/) e atribuir a ela o idioma desejado no campo __Culture Info__.
 
 ![exibição-loja-idioma-diferente pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/políticas-comerciais/visão-geral-de-políticas-comerciais/exibir-a-loja-em-outro-idioma_1.png)
 

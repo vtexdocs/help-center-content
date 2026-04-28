@@ -39,9 +39,9 @@ Destes métodos, apenas os dois primeiros têm efeito atualmente:
 
 Os demais métodos listados acima já não têm aplicação prática alguma - ou seja, para todos os efeitos, já estão descontinuados.
 
-Caso sua loja use algum desses métodos, você precisa avaliar o cenário e refazer a solução por meio de integração via API. Para ajudá-lo nessa tarefa, preparamos um guia de integração do catálogo com serviços externos, cobrindo todos os possíveis cenários atualmente atendidos pelos métodos que serão descontinuados: [Guia de Integração - Consumir as informações do Catálogo para utilizar em um Serviço Externo](/pt/tutorial/guia-de-integracao-consumir-as-informacoes-do-catalogo).
+Caso sua loja use algum desses métodos, você precisa avaliar o cenário e refazer a solução por meio de integração via API. Para ajudá-lo nessa tarefa, preparamos um guia de integração do catálogo com serviços externos, cobrindo todos os possíveis cenários atualmente atendidos pelos métodos que serão descontinuados: [Guia de Integração - Consumir as informações do Catálogo para utilizar em um Serviço Externo](/pt/docs/tutorials/guia-de-integracao-consumir-as-informacoes-do-catalogo).
 
 - __O que vai acontecer__: os métodos de Web Service listados acima serão descontinuados.
 - __Quando__: 29 de outubro de 2018.
 - __O que eu preciso fazer__: Primeiro, identifique se sua loja usa algum desses métodos. Caso use, sua loja precisa substituí-los por soluções via API.
-- __Como faço isso__: Leia nosso [guia de integração do catálogo com serviços externos](/pt/tutorial/guia-de-integracao-consumir-as-informacoes-do-catalogo).
+- __Como faço isso__: Leia nosso [guia de integração do catálogo com serviços externos](/pt/docs/tutorials/guia-de-integracao-consumir-as-informacoes-do-catalogo).

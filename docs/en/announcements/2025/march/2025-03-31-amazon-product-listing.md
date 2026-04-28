@@ -13,6 +13,10 @@ locale: en
 legacySlug: amazon-listing-new-product-listing-model
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Discover the new VTEX Admin module designed to streamline product listing on Amazon.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 **Amazon Listing** is a new VTEX Admin module designed to make the process of listing products to Amazon more agile and efficient. It allows sellers to send new products efficiently and with a low error rate, guaranteeing smooth integration between VTEX and Amazon.
@@ -30,5 +34,5 @@ Now, although the process remains manual, listed attributes are validated before
 
 ## What needs to be done?
 
-The new module will be available to all [VTEX accounts acting as sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) from March 31, 2025. To learn more about the module and list new products, see the [Amazon Listing](/en/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL) tutorial.
+The new module will be available to all [VTEX accounts acting as sellers](/en/docs/tutorials/marketplace-strategies-at-vtex#sendo-seller-vtex) from March 31, 2025. To learn more about the module and list new products, see the [Amazon Listing](/en/docs/tutorials/amazon-listing) tutorial.
 

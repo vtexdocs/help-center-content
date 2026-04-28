@@ -25,14 +25,14 @@ O Store Framework surge a partir da ideia de composabilidade, em que permite a c
 
 A maneira como essa extensão de funcionalidades ocorre é através de apps VTEX disponíveis globalmente.
 
-O Store Framework é uma solução para construção de frente de loja que se alavanca do VTEX IO. Através dela podemos contar com a interface amigável do [Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) e tornar o gerenciamento de conteúdo da loja mais simples.
+O Store Framework é uma solução para construção de frente de loja que se alavanca do VTEX IO. Através dela podemos contar com a interface amigável do [Site Editor](/pt/docs/tutorials/site-editor-visao-geral) e tornar o gerenciamento de conteúdo da loja mais simples.
 
 ![vtex io](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/desenvolvimento-de-loja/frontend_1.png)
 
 Lojas criadas com o Store Framework também contam com as features de: 
-- **[Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: ferramenta de busca, que corrige erros ortográficos e possibilita regras condicionais para exibição do resultado de busca.
-- **[Multi-idiomas](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: possibilidade que o VTEX IO traz de configurar a tradução automática na loja para outros idiomas.
-- **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: o que permite uma [multi-loja VTEX](/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759) de operar em diferentes países com uma abordagem própria para cada um deles.
+- **[Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search)**: ferramenta de busca, que corrige erros ortográficos e possibilita regras condicionais para exibição do resultado de busca.
+- **[Multi-idiomas](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta)**: possibilidade que o VTEX IO traz de configurar a tradução automática na loja para outros idiomas.
+- **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: o que permite uma [multi-loja VTEX](/pt/docs/tutorials/gerenciando-uma-multiloja) de operar em diferentes países com uma abordagem própria para cada um deles.
 
 ## FastStore 
 
@@ -48,7 +48,7 @@ Algumas funcionalidades não estão disponíveis, a exemplo de customizações d
 
 O CMS Portal é uma tecnologia legada da VTEX responsável por gerenciar, principalmente, o código fonte do site, sendo então o módulo onde está o conteúdo que aparece na loja. 
 
-Para o CMS Legado, um conceito importante é o de Controles, que são snippets de código que renderizam dados nativos da VTEX. Os controles ajudam o lojista a criar conteúdo e incluir ferramentas no site de forma nativa utilizando o que a VTEX já oferece. Para que essa customização ocorra, são utilizados CSS, HTML e JavaScript no desenvolvimento, permitindo que se crie layouts e templates.
+Para o CMS Portal (Legado), um conceito importante é o de Controles, que são snippets de código que renderizam dados nativos da VTEX. Os controles ajudam o lojista a criar conteúdo e incluir ferramentas no site de forma nativa utilizando o que a VTEX já oferece. Para que essa customização ocorra, são utilizados CSS, HTML e JavaScript no desenvolvimento, permitindo que se crie layouts e templates.
 
-Por utilizar tecnologias mais defasadas, quando há necessidade de fazer alguma alteração no CMS Legado, é necessário acessar os códigos internamente e prosseguir com essas alterações no campo Layout. Dessa forma, CMS se torna uma tecnologia mais difícil de utilizar e manter, dificultando também que se mantenha uma boa performance conforme se realizam mais customizações. 
+Por utilizar tecnologias mais defasadas, quando há necessidade de fazer alguma alteração no CMS Portal (Legado), é necessário acessar os códigos internamente e prosseguir com essas alterações no campo Layout. Dessa forma, CMS se torna uma tecnologia mais difícil de utilizar e manter, dificultando também que se mantenha uma boa performance conforme se realizam mais customizações. 
 

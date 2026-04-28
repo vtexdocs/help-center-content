@@ -31,4 +31,4 @@ Luego, basta [asociar la misma política comercial al nuevo marketplace](/es/tut
 
 ## Usando un stock personalizado
 
-Esto significa que se practicarán plazos y precios diferentes de todas las demás configuraciones. Por lo tanto, será necesario configurar una nueva política comercial y una [nueva regla de logística para marketplace](/es/tutorial/como-configurar-logistica-para-politica-comercial/).
+Esto significa que se practicarán plazos y precios diferentes de todas las demás configuraciones. Por lo tanto, será necesario configurar una nueva política comercial y una [nueva regla de logística para marketplace](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial/).

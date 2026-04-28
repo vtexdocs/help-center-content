@@ -64,4 +64,4 @@ Este tipo de login __solicita email e senha__ para que o cliente possa se autent
 
 ### Login por rede social
 
-É possível incluir opções de login por rede social utilizando a conta do Google ou do Facebook. Para saber como incluir essas opções, leia o artigo [Configurar login com Facebook e Google](/pt/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
+É possível incluir opções de login por rede social utilizando a conta do Google ou do Facebook. Para saber como incluir essas opções, leia o artigo [Configurar login com Facebook e Google](/pt/docs/tutorials/configurar-login-com-facebook-e-google).

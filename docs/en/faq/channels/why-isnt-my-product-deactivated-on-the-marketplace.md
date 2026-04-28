@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-isnt-my-product-deactivated-on-the-marketplace
 ---
 
-As discussed in detail in the article [Cataloging of Products for the Marketplace](/en/tutorial/sending-products-to-the-marketplace), after an SKU is activates in the marketplace, the SKU then belongs to the marketplace catalog. 
+As discussed in detail in the article [Cataloging of Products for the Marketplace](/en/docs/tutorials/sending-products-to-the-marketplace), after an SKU is activates in the marketplace, the SKU then belongs to the marketplace catalog. 
 
 This means that the SKU may be indexed in different areas of the marketplace, and deactivating it could cause inconsistences in the base.
 

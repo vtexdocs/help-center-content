@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "For accounts in Brazil, it's now required the Open Support Ticket feature in the access profile to use VTEX support."
 ---
 
-Now, for Brazil accounts to contact VTEX Support, the  **Open Support Ticket** resource of the **VTEX - Support** product must be enabled in their role. A user with the *User Administrator - Restricted* role must configure this permission in [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Now, for Brazil accounts to contact VTEX Support, the  **Open Support Ticket** resource of the **VTEX - Support** product must be enabled in their role. A user with the *User Administrator - Restricted* role must configure this permission in [License Manager](/en/docs/tutorials/license-manager-resources).
 
 > ℹ️ Admin users with the ** Owner (Admin Super) ** role are automatically associated with the * Open Support Ticket* resource. 
 
 ## What has changed?
 
-The configuration is only valid for Brazil accounts and restricts the ability to open support tickets to users with permission. To open a request to the support team, the user must have the **Open Support Ticket** resource of the **VTEX - Support** product in their [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+The configuration is only valid for Brazil accounts and restricts the ability to open support tickets to users with permission. To open a request to the support team, the user must have the **Open Support Ticket** resource of the **VTEX - Support** product in their [role](/en/docs/tutorials/roles).
 
 ## Why did we make this change?
 
@@ -29,5 +29,5 @@ In terms of best security practices, this step aims to enhance the protection of
 
 ## What needs to be done?
 
-A user with the *User Administrator - Restricted* role needs to assign the **Open Support Ticket** resource of the **VTEX - Support** product in [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) to the [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) of the users that should have permission to open support tickets.
+A user with the *User Administrator - Restricted* role needs to assign the **Open Support Ticket** resource of the **VTEX - Support** product in [License Manager](/en/docs/tutorials/license-manager-resources) to the [roles](/en/docs/tutorials/roles) of the users that should have permission to open support tickets.
 

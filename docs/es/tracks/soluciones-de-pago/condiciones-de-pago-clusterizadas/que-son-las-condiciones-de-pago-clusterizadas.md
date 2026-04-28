@@ -19,4 +19,4 @@ Clustered Payments Conditions es una nueva funcionalidad de [Customer Credit](/e
 
 > ℹ️ Esta funcionalidad se encuentra actualmente en Beta Cerrada (etapa de prueba) y no está disponible para su instalación en tiendas nuevas.
 
-Esta personalización ocurre por medio de nuestro banco de datos, el [Master Data](/es/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw).
+Esta personalización ocurre por medio de nuestro banco de datos, el [Master Data](/es/docs/tutorials/master-data).

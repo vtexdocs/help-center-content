@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Agregamos nuevas funcionalidades para que Pick and Pack fuera más flexible, escalable y adecuado para más  arquitecturas'
 ---
 
-[VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) es una plataforma logística nativa de VTEX que permite gestionar el alistamiento, el empaquetado y la entrega de productos desde tiendas físicas y bodegas. Además, la solución también ofrece la recopilación de datos y análisis de tu tienda, generando información para la toma de decisiones estratégicas y potenciar la operación omnicanal, con un _time to market_ excepcional.
+[VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack) es una plataforma logística nativa de VTEX que permite gestionar el alistamiento, el empaquetado y la entrega de productos desde tiendas físicas y bodegas. Además, la solución también ofrece la recopilación de datos y análisis de tu tienda, generando información para la toma de decisiones estratégicas y potenciar la operación omnicanal, con un _time to market_ excepcional.
 
 Al utilizar VTEX Pick and Pack, tu tienda se beneficia de lo siguiente:
 
@@ -71,7 +71,7 @@ El servicio está disponible para todas las tiendas VTEX. Para comenzar a utiliz
 
 ## Más información
 
-* [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
-* [VTEX Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA)
-* [VTEX Lastmile](/es/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr)
+* [VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack)
+* [VTEX Fulfillment](/es/docs/tutorials/vtex-pick-and-pack-fulfillment)
+* [VTEX Lastmile](/es/docs/tutorials/vtex-pick-and-pack-last-mile)
 

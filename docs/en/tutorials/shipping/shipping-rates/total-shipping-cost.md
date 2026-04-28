@@ -20,9 +20,9 @@ The total shipping cost is the total price charged to the customer to deliver th
 
 See how they are calculated:
 
-* **[Shipping rate](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: is the rate listed in the shipping policy, and corresponds to the rate of a carrier or a pickup point. Does not consider warehouse and loading dock costs. It takes into consideration the following aspects:
+* **[Shipping rate](/en/docs/tutorials/shipping-rates)**: is the rate listed in the shipping policy, and corresponds to the rate of a carrier or a pickup point. Does not consider warehouse and loading dock costs. It takes into consideration the following aspects:
     * A fixed shipping cost
-    * [Additional shipping costs](/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): such as weight- and price-based charges, insurance and shipping charges. 
+    * [Additional shipping costs](/en/docs/tutorials/additional-shipping-costs): such as weight- and price-based charges, insurance and shipping charges. 
 
     The shipping rate is calculated by adding the fixed cost to the additional charges. 
 
@@ -33,5 +33,5 @@ So, in general, the total shipping cost is calculated as follows:
 
 ![Custo-final-envio-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-rates/total-shipping-cost_1.svg)
 
-> ❗ If the **price-based charge** is lower than the **insurance charge**, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost. The best carrier is chosen based on its shipping rate, which does not consider loading dock and warehouse costs (if any). To simulate shipping options for customers, use the [Shipping simulator](/en/tutorial/simulacao-de-frete--tutorials_144).
+> ❗ If the **price-based charge** is lower than the **insurance charge**, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost. The best carrier is chosen based on its shipping rate, which does not consider loading dock and warehouse costs (if any). To simulate shipping options for customers, use the [Shipping simulator](/en/docs/tutorials/shipping-simulation).
 

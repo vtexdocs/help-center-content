@@ -16,7 +16,7 @@ subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 order: 1
 ---
 
-> ⚠️ A funcionalidade **Lista** é exclusiva para lojas que usam CMS Portal Legado.
+> ⚠️ A funcionalidade **Lista** é exclusiva para lojas que usam CMS Portal (Legado).
 
 Listas são agrupamentos de produtos que você pode disponibilizar na sua loja para seus clientes. Elas podem ser de diversos tipos e estar associadas a eventos, como casamento, chá de panela, aniversário ou qualquer outro tipo de lista que seu consumidor queira criar. 
 

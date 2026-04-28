@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-> ℹ️ Existem duas formas de configurar coleções: por meio do **Portal CMS Legado** ou utilizando o módulo de **Coleções (Beta)**. Este artigo refere-se à configuração de coleções por meio do módulo de **Coleções (Beta)**. Essa funcionalidade está em estágio Beta e disponível para ambientes a partir do Admin v3. Em caso de dúvidas [entre em contato com nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+> ℹ️ Existem duas formas de configurar coleções: por meio do **CMS Portal (Legado)** ou utilizando o módulo de **Coleções (Beta)**. Este artigo refere-se à configuração de coleções por meio do módulo de **Coleções (Beta)**. Essa funcionalidade está em estágio Beta e disponível para ambientes a partir do Admin v3. Em caso de dúvidas [entre em contato com nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O módulo de __Coleções (Beta)__ permite criar e gerenciar coleções de forma prática e rápida.
 
@@ -31,7 +31,7 @@ Este artigo explica como:
 
 ## Pré-requisito
 
-Para criar uma coleção, é preciso ter o [perfil de acesso](/pt/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt) _Owner (Admin Super)_ ou criar outro perfil com o recurso **Write Collections**, na seção __Collections__ dos perfis do __Catalog__. Veja aqui [como criar um perfil de acesso](/pt/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Para criar uma coleção, é preciso ter o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) _Owner (Admin Super)_ ou criar outro perfil com o recurso **Write Collections**, na seção __Collections__ dos perfis do __Catalog__. Veja aqui [como criar um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso).
 
 ## Criar uma coleção
 
@@ -40,9 +40,9 @@ Siga o passo a passo abaixo para cadastrar uma nova coleção:
 1. No Admin VTEX, acesse **Catálogo**, ou digite **Catálogo** na barra de busca no topo da página.
 2. Clique em **Coleções**.
 3. Clique no botão `Criar Coleção`.
-4. Preencha os [campos do formulário de Coleção](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
+4. Preencha os [campos do formulário de Coleção](/pt/docs/tutorials/cadastrar-colecoes-beta#campos-de-cadastro-de-colecao).
 5. Clique em `Criar` para atualizar as informações preenchidas no formulário.
-6. Em seguida, [selecione os produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte da coleção.
+6. Em seguida, [selecione os produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#selecao-de-produtos) que farão parte da coleção.
 
 > ℹ️ É importante ressaltar que as coleções criadas neste módulo não são automaticamente alteradas. Coleções automáticas - feitas por seleção de filtros - não são possíveis de configurar no módulo.
 

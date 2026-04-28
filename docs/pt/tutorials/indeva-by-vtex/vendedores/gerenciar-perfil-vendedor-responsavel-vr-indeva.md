@@ -28,7 +28,7 @@ Este documento explica como atribuir ou encerrar o período como VR e quais perm
   <li>Organização da Lista da Vez no aplicativo Indeva.</li>
 </ul>
 
-> ℹ️ Para designar um vendedor como Vendedor Responsável (VR), ele deve estar previamente cadastrado na loja. Consulte o artigo [ Cadastro de vendedor ](/pt/tutorial/cadastro-de-vendedor-indeva--6aHQ7kz8MBAuM143sMnFqK) para mais detalhes.
+> ℹ️ Para designar um vendedor como Vendedor Responsável (VR), ele deve estar previamente cadastrado na loja. Consulte o artigo [ Cadastro de vendedor ](/pt/docs/tutorials/cadastrar-vendedor-plataforma-indeva) para mais detalhes.
 
 <h2>Atribuir perfil de Vendedor Responsável</h2>
 

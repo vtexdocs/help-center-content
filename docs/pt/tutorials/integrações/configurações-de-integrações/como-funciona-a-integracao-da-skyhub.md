@@ -15,19 +15,19 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao [Americanas Marketplace](https://americanasmarketplace.com.br/). Através do [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda.
+A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao [Americanas Marketplace](https://americanasmarketplace.com.br/). Através do [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda.
 
-A SkyHub é a integradora que gerencia a comunicação entre VTEX e a B2W/Americanas Marketplace. Depois de realizar a [integração com a SkyHub/B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5qetRRLNCgDTfhz2PUUO9v), é necessário entender como funciona o fluxo da integração, ou seja, como suas informações são atualizadas no marketplace. Este artigo foi dividido em:
+A SkyHub é a integradora que gerencia a comunicação entre VTEX e a B2W/Americanas Marketplace. Depois de realizar a [integração com a SkyHub/B2W](/pt/docs/tracks/visao-geral-da-integracao-b2w), é necessário entender como funciona o fluxo da integração, ou seja, como suas informações são atualizadas no marketplace. Este artigo foi dividido em:
 
-- [Produtos](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#produtos)
-- [Estoque](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#estoque)
-- [Preços](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#precos)
-- [Promoções](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#promocoes)
-- [Pedidos](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#pedidos)
+- [Produtos](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#produtos)
+- [Estoque](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#estoque)
+- [Preços](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#precos)
+- [Promoções](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#promocoes)
+- [Pedidos](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#pedidos)
 
 ## Produtos
 
-Após configurar a integração com a B2W, o envio de produtos para o marketplace é feito de forma automática. A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) utilizada na etapa [configurar conector](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/40eYElt1qwIqGeIeum2W4M) é o que determina quais dos seus produtos serão enviados para o marketplace. 
+Após configurar a integração com a B2W, o envio de produtos para o marketplace é feito de forma automática. A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) utilizada na etapa [configurar conector](/pt/docs/tracks/configurar-conector-b2w) é o que determina quais dos seus produtos serão enviados para o marketplace. 
 
 ### Campos enviados
 
@@ -39,7 +39,7 @@ As informações da sua loja VTEX enviadas para o marketplace são sobre produto
 | Descrição |    
 | Marca |
 | Categoria |
-| [Especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) |
+| [Especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) |
 
 | **SKU** |
 | ---------- |
@@ -49,7 +49,7 @@ As informações da sua loja VTEX enviadas para o marketplace são sobre produto
 | Largura |
 | Comprimento |
 | Imagens |      
-| [Especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku) |
+| [Especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-sku) |
 
 ### Catalogação de produtos
 
@@ -74,7 +74,7 @@ Na página de detalhes de um produto na [Americanas Marketplace](https://www.ame
 
 ### Atualização de produto
 
-Uma vez realizada a integração com a SkyHub, qualquer alteração nos [campos enviados](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#campos-enviados) de produtos e SKUs vai automaticamente se refletir na B2W. Por exemplo, se a descrição de um produto for alterada, a nova descrição vai aparecer na B2W sem necessidade de uma atualização manual.
+Uma vez realizada a integração com a SkyHub, qualquer alteração nos [campos enviados](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#campos-enviados) de produtos e SKUs vai automaticamente se refletir na B2W. Por exemplo, se a descrição de um produto for alterada, a nova descrição vai aparecer na B2W sem necessidade de uma atualização manual.
 
 ## Estoque
 
@@ -84,7 +84,7 @@ Depois que os produtos recebem a primeira carga de estoque, a atualização ser�
 
 A integração envia o [preço de lista](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e o preço final para cada SKU. O preço final é enviado de acordo com o retorno da [simulação de fulfillment](https://developers.vtex.com/vtex-rest-api/reference/fulfillment-simulation). Em um cenário padrão, o preço enviado será sempre o determinado pela política comercial usada na integração.
 
-> ℹ️ Qualquer alteração no [preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) ou no [preço fixo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) de um produto vai se refletir automaticamente na B2W. Vale ressaltar que o preço fixo se sobrepõe a todas as configurações de preços existentes em uma [tabela de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8).
+> ℹ️ Qualquer alteração no [preço base](/pt/docs/tracks/preco-base-definicao-de-conceito) ou no [preço fixo](/pt/docs/tracks/preco-fixo-definicao-de-conceito) de um produto vai se refletir automaticamente na B2W. Vale ressaltar que o preço fixo se sobrepõe a todas as configurações de preços existentes em uma [tabela de preços](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito).
 
 Não é possível enviar preços diferenciados em função da forma de pagamento, pois a escolha da forma de pagamento é determinada no ambiente da B2W.
 
@@ -122,10 +122,10 @@ No momento do pedido, a SkyHub não consulta o preço do produto e não verifica
 
 Nesta seção, serão abordados os seguintes tópicos:
 
-- [Integrar pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#integrar-pedido)
-- [Interagir com pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#interagir-com-pedido)
-- [Faturar pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#faturar-pedido)
-- [Enviar pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#enviar-pedido)
+- [Integrar pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#integrar-pedido)
+- [Interagir com pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#interagir-com-pedido)
+- [Faturar pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#faturar-pedido)
+- [Enviar pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#enviar-pedido)
 
 ### Integrar pedido
 
@@ -143,7 +143,7 @@ Os pedidos na SkyHub possuem status próprios, conforme a tabela a seguir. Para 
 
 A VTEX recebe um _feed_ de pedidos da SkyHub e integra apenas aqueles que estão no status `New` ou `Approved`. Nenhum outro status além desses dois será aceito para integrar um pedido. Os pedidos são integrados na VTEX com os mesmos IDs usados pela SkyHub.
 
-Caso um pedido não integre na primeira tentativa, existe uma retentativa automática programada para erros não mapeados pela integração. Em casos de erros conhecidos, é necessário resolvê-los com ações manuais. Para mais informações, veja [Erros de integração de pedidos da B2W](/pt/tutorial/erros-de-integracao-de-pedidos-da-b2w--2iQqCJIfySN0JsCJkOG2h8).
+Caso um pedido não integre na primeira tentativa, existe uma retentativa automática programada para erros não mapeados pela integração. Em casos de erros conhecidos, é necessário resolvê-los com ações manuais. Para mais informações, veja [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w).
 
 ### Interagir com pedido
 
@@ -157,7 +157,7 @@ Ao faturar o pedido na VTEX, a integração atualiza o status na SkyHub para `Sh
 - Para alterar o status para `Shipped`, será necessário preencher o campo `trackingNumber`.
 - Para alterar o status para `Delivered`, será necessário preencher o campo `CourierStatus`. 
 
-O campo `CourierStatus` pode ser populado automaticamente por [atualizações de rastreio das próprias transportadoras](/pt/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente, pela API _[Update Order Tracking Status](https://developers.vtex.com/vtex-developer-docs/reference/updatetrackingstatus)_ ou pelo Admin VTEX, em **PEDIDOS > Gerenciamento de pedidos**. Quando o campo retornar `finished=true`, então o status do pedido é declarado como `Delivered` e a integração envia essa informação ao marketplace. Caso o campo retorne `finished=false`, o status do pedido não é alterado para `Delivered`, permanecendo no status anterior.
+O campo `CourierStatus` pode ser populado automaticamente por [atualizações de rastreio das próprias transportadoras](/pt/docs/tutorials/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente, pela API _[Update Order Tracking Status](https://developers.vtex.com/vtex-developer-docs/reference/updatetrackingstatus)_ ou pelo Admin VTEX, em **PEDIDOS > Gerenciamento de pedidos**. Quando o campo retornar `finished=true`, então o status do pedido é declarado como `Delivered` e a integração envia essa informação ao marketplace. Caso o campo retorne `finished=false`, o status do pedido não é alterado para `Delivered`, permanecendo no status anterior.
 
 > ℹ️ Se você utiliza o serviço [B2W Entregas ou B2W Entregas Direct](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), o preço do frete não entrará no valor do pedido integrado na VTEX e na nota fiscal constará apenas o custo dos produtos. A nota fiscal do frete deverá ser emitida pela própria B2W, que é quem está fornecendo esse serviço.
 
@@ -174,11 +174,11 @@ Apesar de a SkyHub consultar o frete na VTEX, a integração permite usar uma so
 
 No caso de uma solução de terceiros fazer o cálculo de frete ou no caso de utilizar uma tabela de contingência, a integração faz um _match_ do frete calculado com a transportadora que mais se adequa na VTEX. O parâmetro utilizado é o nome da transportadora escolhida. Caso a integração não consiga encontrar uma transportadora idêntica, a VTEX integra o pedido com a transportadora mais barata disponível.
 
-> ℹ️ Para o seller que utiliza o serviço [B2W Entregas ou B2W Entregas Direct](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), a SkyHub não consulta a VTEX sobre frete, pois o envio é responsabilidade do marketplace. É possível também [Configurar integração de lojas físicas com a B2W](/pt/tutorial/configurar-integracao-de-lojas-fisicas-com-a-b2w--1yv2BSquNmdp8M6vJvaLwm) e oferecer ao consumidor a opção de pontos de retirada do pedido.
+> ℹ️ Para o seller que utiliza o serviço [B2W Entregas ou B2W Entregas Direct](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), a SkyHub não consulta a VTEX sobre frete, pois o envio é responsabilidade do marketplace. É possível também [Configurar integração de lojas físicas com a B2W](/pt/docs/tutorials/configurar-integracao-de-lojas-fisicas-com-a-b2w) e oferecer ao consumidor a opção de pontos de retirada do pedido.
 
 <br></br>
 ### Saiba mais
 
 - [Integração com SkyHub/B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
-- [Configurar integração de lojas físicas com a B2W](/pt/tutorial/configurar-integracao-de-lojas-fisicas-com-a-b2w--1yv2BSquNmdp8M6vJvaLwm)
-- [Erros de integração de pedidos da B2W](/pt/tutorial/erros-de-integracao-de-pedidos-da-b2w--2iQqCJIfySN0JsCJkOG2h8)
+- [Configurar integração de lojas físicas com a B2W](/pt/docs/tutorials/configurar-integracao-de-lojas-fisicas-com-a-b2w)
+- [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w)

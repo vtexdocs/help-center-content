@@ -32,4 +32,4 @@ Para configurar el precio base, siga los pasos abajo:
 
 ## Artículos relacionados
 
-[Configurar regla de precio para política comercial](/es/tutorial/configurar-regla-de-precio-para-politica-comercial)
+[Configurar regla de precio para política comercial](/es/docs/tutorials/configurar-regla-de-precio-para-politica-comercial)

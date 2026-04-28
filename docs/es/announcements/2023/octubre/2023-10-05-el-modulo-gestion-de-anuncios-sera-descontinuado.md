@@ -22,7 +22,7 @@ Los anuncios enviados a los marketplaces no se verán afectados y todavía puede
 ## ¿Qué cambió?  
 
 Removimos del módulo Gestión de anuncios la posibilidad de hacer un seguimiento del status y la sincronización de los anuncios enviados a un marketplace.  
-Las funcionalidades de [Moderación](/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Calidad](/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade) y [Oportunidades activas](/es/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) estarán disponibles hasta el 15 de diciembre de 2023, únicamente para anuncios vinculados a la integración [Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), accediendo a **Marketplace > Mercado Libre > Gestión de anuncios.**
+Las funcionalidades de [Moderación](/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Calidad](/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade) y [Oportunidades activas](/es/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) estarán disponibles hasta el 15 de diciembre de 2023, únicamente para anuncios vinculados a la integración [Mercado Libre](/es/docs/tracks/mercado-libre-marketplace), accediendo a **Marketplace > Mercado Libre > Gestión de anuncios.**
 
 ## ¿Qué se necesita hacer?
 

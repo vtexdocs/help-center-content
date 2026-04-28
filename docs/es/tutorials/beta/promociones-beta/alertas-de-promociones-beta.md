@@ -19,9 +19,9 @@ subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 
 Crear promociones es una buena estrategia para atraer a más compradores a tu sitio de ecommerce. Al configurarlas, es muy importante tener cuidado de que los descuentos aplicados tengan los efectos esperados, ya que los errores al registrar promociones pueden causar pérdidas de ingresos.
 
-Para minimizar los efectos indeseados en promociones, la página **Alerta de promociones** permite crear alertas con condiciones para verificar si las promociones están correctas y definir [acciones preventivas](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas) para evitar ventas con precios inesperados. Sin embargo, se debe realizar un pedido para activar la primera alerta.
+Para minimizar los efectos indeseados en promociones, la página **Alerta de promociones** permite crear alertas con condiciones para verificar si las promociones están correctas y definir [acciones preventivas](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta#acciones-preventivas) para evitar ventas con precios inesperados. Sin embargo, se debe realizar un pedido para activar la primera alerta.
 
-Si se identifican las [condiciones](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#condiciones) definidas en la alerta, el sistema genera una alerta con la información sobre el producto vendido a precios inesperados y aplica las [acciones preventivas](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas) configuradas. Si se configuró la acción de [desactivar las promociones](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas), el escenario indeseado no ocurrirá nuevamente, ya que la promoción estará desactivada.
+Si se identifican las [condiciones](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta#condiciones) definidas en la alerta, el sistema genera una alerta con la información sobre el producto vendido a precios inesperados y aplica las [acciones preventivas](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta#acciones-preventivas) configuradas. Si se configuró la acción de [desactivar las promociones](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta#acciones-preventivas), el escenario indeseado no ocurrirá nuevamente, ya que la promoción estará desactivada.
 
 Si solo se configura la acción de alerta por email, es posible que se realicen otros pedidos con el descuento indeseado hasta que se desactive la promoción manualmente o se cambie la configuración de la promoción para que tenga el efecto esperado.
 
@@ -48,7 +48,7 @@ La siguiente tabla proporciona la descripción de las columnas de la lista de pr
 
 ## Crear alerta
 
-Para crear una alerta de promoción, haz clic en el botón `Crear alerta`.  Para más detalles, consulta el artículo [Alertas de promoción: cómo crear una alerta de promoción](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR).
+Para crear una alerta de promoción, haz clic en el botón `Crear alerta`.  Para más detalles, consulta el artículo [Alertas de promoción: cómo crear una alerta de promoción](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta).
 
 ## Buscar alerta
 
@@ -93,5 +93,5 @@ Se completará la duplicación de la alerta con éxito.
 
 ## Más información
 
-- [Alertas de promociones: cómo crear una alerta de promoción](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
+- [Alertas de promociones: cómo crear una alerta de promoción](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta)
 - [Cómo funcionan las promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

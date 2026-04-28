@@ -28,4 +28,4 @@ Nela você pode:
 - Configurar a autenticação de 2 fatores por aplicativo.
 - Desabilitar a autenticação de 2 fatores.
 
-Veja em mais detalhes o que você pode fazer com a tela My User no artigo [Configurar dados pessoais na tela de usuário](/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario).
+Veja em mais detalhes o que você pode fazer com a tela My User no artigo [Configurar dados pessoais na tela de usuário](/pt/docs/tutorials/configurar-dados-pessoais-na-tela-de-usuario).

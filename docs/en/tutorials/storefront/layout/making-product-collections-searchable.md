@@ -21,7 +21,7 @@ You can make it possible for the user to find products associated with a specifi
 
 For example: you have a collection called "Children's day" and mark it as searchable. If a customer searches for the term "Children's Day", the products that are part of this collection will be displayed as results of the search.
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 To make a collections searchable, follow the steps below:
 

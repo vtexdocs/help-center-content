@@ -15,41 +15,20 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O Cartão de Débito Virtual da Caixa é um meio de pagamento disponível para todos os clientes VTEX. 
+O Cartão de Débito Virtual da Caixa é um meio de pagamento disponível para todos os clientes VTEX. Por meio dele, os consumidores finais podem realizar suas compras com o auxílio emergencial liberado pela Caixa Econômica por parte do Governo Federal.
 
-Por meio dele, os consumidores finais podem realizar suas compras com o auxílio emergencial liberado pela Caixa Econômica por parte do Governo Federal. 
-
-Além disso, o Cartão de Débito Virtual da Caixa suporta apenas pagamentos feitos com cartões de crédito que o número começa por __“5067228”__ ou __“5067229”__. Qualquer outro cartão não será reconhecido pelo sistema. 
-
-Neste artigo, explicaremos como configurá-lo no seu e-commerce.
-
-## Afiliações de gateway
-
-Atualmente, o Cartão de Débito Virtual da Caixa se conecta a cinco afiliações de
-Gateway: Adyen, Braspag, Cielo, Mundipagg e Rede. 
-
-Dito isso, o primeiro passo é definir quais afiliações de Gateway processarão os pagamentos feitos com o Cartão de Débito Virtual e configurá-las. 
-
-O processo de configuração das afiliações é semelhante. Contudo, as informações requeridas em cada formulário são diferentes. Para saber os detalhes de cada configuração, confira os tutoriais a seguir:
-
-- [Adyen](/pt/tutorial/como-configurar-o-gateway-adyen-na-vtex--tutorials_2337?locale=pt);
-- [Braspag](/pt/tutorial/configurar-o-gateway-braspag--7tQmfLMvtYEsWoaaAaeKSC),
-- [CieloV3](/pt/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=pt);
-- [Mundi](/pt/tutorial/configurar-gateway-mundi--2yn9dKzvZOF5tn4RCX2Nbq?locale=pt);
-- [ERedeRest](/pt/tutorial/configurar-adquirente-rede-con-erederest?locale=pt).
+Além disso, o Cartão de Débito Virtual da Caixa suporta apenas pagamentos feitos com cartões de crédito que o número começa por __"5067228"__ ou __"5067229"__. Qualquer outro cartão não será reconhecido pelo sistema.
 
 ## Condições de pagamento
 
-Em seguida, você deverá configurar a condição de pagamento em si. 
+Para configurar o Cartão de Débito Virtual da Caixa como condição de pagamento, siga os passos abaixo:
 
-Confira as instruções:
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite ___Configurações__ na barra de busca no topo da página.
+2. Na aba Condições de Pagamentos, clique no botão `+`.
+3. Clique em __Cartão de débito virtual Caixa__.
+4. Ative a condição no campo __Status__.
+5. Em __Processar com o provedor__, selecione um dos provedores disponíveis na lista. Caso o provedor ainda não esteja configurado em sua loja, acesse a página __Provedores__ para cadastrar as informações necessárias.
+6. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
+7. Clique em `Salvar`.
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. No topo da página, clique na aba __Condições de pagamento_.
-3. No lado superior direito da tela, clique no __botão verde “+”__.
-4. No grupo __“Cartão de Débito”__, selecione a opção __“Cartão de débito virtual Caixa”__. 
-5. Em __“Processar com a afiliação”__, selecione a __afiliação__ desejada;
-6. Do lado direito da tela, preencha o __formulário__.  
-7. Clique no botão azul __“Salvar”__.
-
-Desse modo, uma aba “Cartão de Débito Virtual Caixa” será exibida entre as opções de pagamento apresentadas na página do Checkout.
+Depois de seguir os passos indicados, Cartão de débito virtual Caixa pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento.

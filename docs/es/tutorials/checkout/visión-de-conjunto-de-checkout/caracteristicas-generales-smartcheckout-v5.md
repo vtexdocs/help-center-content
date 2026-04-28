@@ -29,7 +29,7 @@ En el ejemplo práctico, para ocultar la opción "Pagar usando dos tarjetas", s�
 
 A través de esta función, se puede establecer regiones de entrega utilizando como base un punto geográfico (latitud y longitud) en lugar de un código postal.
 
-Para conocer el detalle de cómo utilizar esta función, lea el artículo de [Geolocalización en el checkout](/es/tutorial/geolocalizacion-en-el-checkout).
+Para conocer el detalle de cómo utilizar esta función, lea el artículo de [Geolocalización en el checkout](/es/docs/tutorials/geolocalizacion-en-el-checkout).
 
 __Atención:__ Una vez que la API key sea informada en las configuraciones del checkout, la geolocalización ya estará visible en el checkout de su tienda, independiente de la activación de la nueva versión del SmartCheckout.
 

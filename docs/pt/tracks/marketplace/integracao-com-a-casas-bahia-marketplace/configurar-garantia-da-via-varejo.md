@@ -15,13 +15,13 @@ trackSlugEN: integracao-com-a-casas-bahia-marketplace
 order: 8
 ---
 
-O cadastro da garantia da Casas Bahia Marketplace é obrigatório para algumas [categorias do produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) na plataforma VTEX. Estas categorias de produto são identificáveis na planilha de referência da Casas Bahia Marketplace pela presença do atributo `Garantia` na coluna **Nome do atributo**.
+O cadastro da garantia da Casas Bahia Marketplace é obrigatório para algumas [categorias do produto](/pt/docs/tracks/categorias-definicao-de-conceito) na plataforma VTEX. Estas categorias de produto são identificáveis na planilha de referência da Casas Bahia Marketplace pela presença do atributo `Garantia` na coluna **Nome do atributo**.
 
-O cadastro da garantia é feito através de uma [especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) com o nome específico: `viavarejogarantia`. Não é necessário incluir o atributo Garantia na planilha de mapeamento da Casas Bahia Marketplace - a especificação `viavarejogarantia` é enviada diretamente para o marketplace.
+O cadastro da garantia é feito através de uma [especificação de produto](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) com o nome específico: `viavarejogarantia`. Não é necessário incluir o atributo Garantia na planilha de mapeamento da Casas Bahia Marketplace - a especificação `viavarejogarantia` é enviada diretamente para o marketplace.
 
 Para cadastrar a garantia, siga os passos a seguir:
 
-1. [Criar um grupo de categoria](/pt/tutorial/criando-grupo-de-categoria--tutorials_246) na categoria principal. 
+1. [Criar um grupo de categoria](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria) na categoria principal. 
     - Dessa forma, suas subcategorias poderão herdá-lo. Orientamos que preencha com o nome `Via Marketplace`.
 
 2. [Cadastrar uma especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin). 

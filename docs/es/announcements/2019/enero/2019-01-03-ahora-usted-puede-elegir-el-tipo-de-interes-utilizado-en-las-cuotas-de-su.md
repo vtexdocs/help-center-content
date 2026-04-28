@@ -18,7 +18,7 @@ announcementSynopsisES: 'Tiendas ahora pueden utilizar interés simple o compues
 Lanzamos una nueva funcionalidad que permite cambiar, de forma simple, el tipo de interés aplicado en las cuotas de las ventas realizadas en su tienda. Atiende a las tiendas que actúan en países como Argentina que, a diferencia de Brasil (que utiliza interés compuesto), dan preferencia a el interés simple.
 
 ## ¿Que ha cambiado?
-Antes, al configurar una [condición de pago en cuotas y con interés](/es/tutorial/condiciones-de-pago#en-cuotas-con-interes), no había una forma fácil de cambiar el modo aplicado en las parcelas: el estándar era __interés compuesto__.
+Antes, al configurar una [condición de pago en cuotas y con interés](/es/docs/tutorials/condiciones-de-pago#en-cuotas-con-interes), no había una forma fácil de cambiar el modo aplicado en las parcelas: el estándar era __interés compuesto__.
 
 Ahora, el estándar sigue siendo el mismo, pero con la diferencia de que es posible cambiar a __interés simple__ en la propia interfaz.
 
@@ -30,4 +30,4 @@ Este cambio facilita la operación de __tiendas que actúan en países como Arge
 Recordamos que la nueva funcionalidad __no da impactos a las tiendas que utilizan interés compuesto (principalmente las brasileñas)__. Como el estándar sigue siendo el mismo, el paso más de configuración sólo necesita ser realizado por quien desea utilizar interés simple.
 
 ## Cómo elegir el tipo de interés
-Para elegir entre interés simple o compuesto, basta con acceder a la configuración de una condición de pago y seguir el [paso a paso detallado sobre la funcionalidad.](/es/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo?locale=es)
+Para elegir entre interés simple o compuesto, basta con acceder a la configuración de una condición de pago y seguir el [paso a paso detallado sobre la funcionalidad.](/es/docs/tutorials/como-elegir-el-tipo-de-interes-de-una-condicion-de-pago)

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-Serviço de SKU é uma funcionalidade da VTEX que permite adicionar um item, opcional e com custo, para acompanhar um produto. Para mais informações, leia nosso artigo [O que é um Serviço?](/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y).
+Serviço de SKU é uma funcionalidade da VTEX que permite adicionar um item, opcional e com custo, para acompanhar um produto. Para mais informações, leia nosso artigo [O que é um Serviço?](/pt/docs/tutorials/o-que-e-um-servico).
 
 Neste artigo iremos abordar os seguintes tópicos:
 

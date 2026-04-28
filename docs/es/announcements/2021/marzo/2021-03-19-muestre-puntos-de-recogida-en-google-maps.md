@@ -32,4 +32,4 @@ Mostrar la ubicación de los puntos de recogida en el mapa ayuda al usuario a si
 ## ¿Qué se necesita hacer?
 Instale la aplicación desde la [App Store de VTEX](https://apps.vtex.com/vtex-store-locator/p#overview) y siga las instrucciones [de esta documentación](https://developers.vtex.com/vtex-developer-docs/docs/vtex-store-locator) para configurarla. Recuerde que necesita tener los Puntos de Recogida previamente registrados en su tienda.
 
-Para obtener más información sobre los Puntos de Recogida, lea el artículo [Configurar Puntos de Recogida (Pickup Points)](/es/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+Para obtener más información sobre los Puntos de Recogida, lea el artículo [Configurar Puntos de Recogida (Pickup Points)](/es/docs/tutorials/registro-de-puntos-de-recogida).

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de [Soporte comercial](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
 
 La funcionalidad Recomendaciones de productos permite a las tiendas ofrecer experiencias personalizadas a los consumidores, mediante sugerencias de ítems basadas en diferentes estrategias de recomendación. Además, permite mostrar productos relevantes o complementarios y aumentar la tasa de conversión y el ticket promedio de la operación.
 
@@ -23,24 +23,26 @@ La funcionalidad Recomendaciones de productos permite a las tiendas ofrecer expe
 
 ## Prerrequisitos
 
-Para activar las recomendaciones de productos debes tener una tienda implementada con [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
+Para activar las recomendaciones de productos es necesario que la tienda esté implementada con [Store Framework](https://developers.vtex.com/docs/guides/store-framework), [FastStore](https://developers.vtex.com/docs/guides/faststore) o con el modelo [headless](https://developers.vtex.com/docs/guides/headless-commerce).
 
 ## Estrategias de recomendación
 
-A continuación se describen las cinco estrategias de recomendación disponibles, implementadas directamente por VTEX.
+A continuación se describen las estrategias de recomendación disponibles desarrolladas directamente por VTEX.
 
-### Página inicial (Home)
-
-* **Recomendaciones personalizadas:** ítems seleccionados con base en el comportamiento de navegación del usuario.  
-* **Más vendidos:** productos con mayor volumen de ventas en la tienda.  
-* **Productos vistos:** ítems a los que el usuario ha accedido previamente.
-
-### Página de producto (PDP)
-
-* **Similares:** sugerencias de productos relacionados con el ítem consultado por el usuario.  
-* **Comprar juntos:** recomendaciones de productos que suelen comprarse en conjunto.
+| Nombre                          | Descripción                                                                                          |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Más populares                   | Productos con más vistas.                                                            |
+| Sugerencias para ti             | Recomendaciones personalizadas basadas en el perfil y el comportamiento del usuario. |
+| Productos similares             | Productos parecidos a un producto específico.                                        |
+| Comprados juntos                | Productos complementarios a un producto específico que suelen comprarse en conjunto. |
+| Más vendidos                    | Productos más vendidos de la tienda.                                                 |
+| Vistos recientemente            | Productos vistos recientemente por el usuario.                                       |
+| Interacciones recientes         | Productos con mayor probabilidad de interacción futura por el usuario.               |
+| Productos visualmente similares | Productos visualmente parecidos a un producto específico.                            |
+| Colección manual                | Recomendaciones a partir de una colección definida manualmente.                      |
 
 ## Implementación
 
-Para solicitar la activación de la funcionalidad Recomendaciones de productos en tu tienda, abre un ticket con [Soporte comercial](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) que incluya las estrategias que deseas activar. VTEX analizará la solicitud y se pondrá en contacto contigo.
+Para solicitar la activación de la funcionalidad Recomendaciones de productos en tu tienda, abre un ticket con [Soporte comercial](/es/docs/tracks/soporte-comercial) que incluya las estrategias que deseas activar. VTEX analizará la solicitud y se pondrá en contacto contigo.
 
+Más información sobre la implementación en Store Framework en la documentación del componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).

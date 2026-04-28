@@ -13,6 +13,9 @@ locale: pt
 legacySlug: documentacao-da-weni-by-vtex-no-help-center
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'A documentação dos produtos da Weni by VTEX está hospedada agora no Help Center.'
+tags:
+  - Melhoria
+  - Pedidos
 ---
 
 Para oferecer uma experiência de documentação unificada e acessível, integramos todas as documentações dos produtos e funcionalidades da Weni by VTEX ao Help Center VTEX.
@@ -34,4 +37,4 @@ No nosso portal, você encontra agora a categoria de tutoriais **Weni by VTEX**,
 - [Weni Agentic AI](/pt/subcategory/weni-agentic-ai--7BtmQ6zk6O7VJ7QumXJEiM): aplicativo de criação e atribuição de agentes para comunicação com o cliente, na App Store da VTEX.
 
 ## O que precisa ser feito
-Para acessar as documentações da Weni, acesse [Weni by VTEX](/pt/tutorial/--531cHtUCUi3puRXNDmKziw) no Help Center VTEX ao invés do portal legado Weni docs.
+Para acessar as documentações da Weni, acesse [Weni by VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui) no Help Center VTEX ao invés do portal legado Weni docs.

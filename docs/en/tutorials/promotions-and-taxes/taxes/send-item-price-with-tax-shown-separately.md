@@ -17,7 +17,7 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 
 It is frequently necessary to send the item price to the Gateway or to your ERP with the tax shown, i.e. separately from the price.
 
-For this you can use the tax configuration in [__Pricing__](/en/tutorial/creating-surchargestaxes).
+For this you can use the tax configuration in [__Pricing__](/en/docs/tutorials/creating-surchargestaxes).
 
 In this article we will show how the system works in these cases.
 

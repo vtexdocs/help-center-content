@@ -21,7 +21,7 @@ O envio dessas informações é feito por meio do upload da planilha de mapeamen
 
 > ℹ️ É preciso realizar o mapeamento de categoria para que a Wish possa diferenciar os seus SKUs corretamente. Exemplo: imagine que existam dois SKUs de um mesmo produto com cores diferentes e tamanhos iguais na VTEX, caso o mapeamento de categoria não seja realizado, a Wish reconhecerá os dois SKUs como um só.
 
-> ⚠️ Produtos sem cor ou tamanho mapeados não serão enviados para a Wish. Caso alguma categoria não tenha estes campos na VTEX, será necessário [criar um campo de SKU](/pt/tutorial/criando-campo-de-sku--tutorials_119) no Catálogo e preencher com os valores adequados antes de realizar o mapeamento de cor e tamanho.
+> ⚠️ Produtos sem cor ou tamanho mapeados não serão enviados para a Wish. Caso alguma categoria não tenha estes campos na VTEX, será necessário [criar um campo de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku) no Catálogo e preencher com os valores adequados antes de realizar o mapeamento de cor e tamanho.
 
   - [Baixe aqui](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) a Planilha de Mapeamento da Wish no formato .xlsx.
 

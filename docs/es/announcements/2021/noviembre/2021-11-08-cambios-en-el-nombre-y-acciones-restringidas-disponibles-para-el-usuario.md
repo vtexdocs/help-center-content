@@ -29,14 +29,14 @@ Pero eso no es todo. También renovamos por completo el proceso para cambiar el 
 
 ![Gestion titular gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/noviembre/2021-11-08-cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario_1.gif)
 
-Consulte [Transferir la propiedad de la tienda](/es/tutorial/transferir-la-propiedad-de-la-tienda) para conocer más detalles sobre este nuevo proceso. 
+Consulte [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda) para conocer más detalles sobre este nuevo proceso. 
 
 ## Las credenciales de autenticación ya no están restringidas al usuario titular
 
-Antes, solo el usuario titular podía crear y gestionar los pares appKey y appToken para la [autenticación de la integración de API](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet). Ahora cualquier usuario con el recurso `License Manager / Save User` incluido en sus [perfiles de acceso](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) puede crear estas credenciales y compartir los mismos permisos con otros usuarios, esto permite que el usuario titular delegue esta responsabilidad según sea necesario. 
+Antes, solo el usuario titular podía crear y gestionar los pares appKey y appToken para la [autenticación de la integración de API](/es/docs/tutorials/claves-de-api). Ahora cualquier usuario con el recurso `License Manager / Save User` incluido en sus [perfiles de acceso](/es/docs/tutorials/roles) puede crear estas credenciales y compartir los mismos permisos con otros usuarios, esto permite que el usuario titular delegue esta responsabilidad según sea necesario. 
 
 ## Más información
 
 * [¿Qué es el usuario titular?](/es/tutorial/que-es-el-usuario-patrocinador)
-* [Transferir la propiedad de la tienda](/es/tutorial/transferir-la-propiedad-de-la-tienda)
-* [Autenticación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
+* [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda)
+* [Autenticación](/es/docs/tutorials/claves-de-api)

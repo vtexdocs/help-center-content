@@ -79,7 +79,7 @@ Este proceso es recomendado cuando la integración está teniendo algún problem
 1. En el menú del Admin, haga clic en **Integraciones**.
 2. Haga clic en **Configuración**.
 3. En la tarjeta de Facebook, haga clic en **Integrar**.
-4. Complete los campos que se muestran en la pantalla (vea el [detalle de los campos](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B)).
+4. Complete los campos que se muestran en la pantalla (vea el [detalle de los campos](/es/docs/tracks/definir-la-politica-comercial)).
 
 Después de volver a realizar la configuración, es muy importante que los permisos solicitados por la APP sean otorgados, sin excepciones, en la etapa de autenticación con Facebook.
 

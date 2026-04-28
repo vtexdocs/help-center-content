@@ -19,7 +19,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Some steps are essential for us to start configuring integration with the YOP marketplace.
 1. Configure the [sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/);
-2. Configure the [logistics](/en/tutorial/configuring-logistics-for-a-marketplace/) for this sales policy;
+2. Configure the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) for this sales policy;
 3. Contact YOP;
 
 ## How to configure it
@@ -36,11 +36,11 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Configure the affiliate
 
-[Follow the instructions in our manual and complete the fields as indicated below](/en/tutorial/configuring-affiliates/).
+[Follow the instructions in our manual and complete the fields as indicated below](/en/docs/tutorials/configuring-affiliates/).
 
 - **Name** YOP
 - **ID:** YPP
-- **Trade Policy:** ID of the sales policy to be assumed by the marketplace.
+- **Sales Channel:** ID of the sales policy to be assumed by the marketplace.
 - **E-mail for notifications:** Email address that will receive any notification of conflict when integrating orders.
 - **Search Endpoint:** https://yop.land/vtex/notifications
 - **Search Endpoint version:** Today, only 1 exists, and it cannot be altered &#8211; Default: 1.x.x;
@@ -48,7 +48,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Create a free freight promotion 
 
-[See our manual on how to create a promotion for the marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+[See our manual on how to create a promotion for the marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces).
 
 ## Go further
 

@@ -21,7 +21,7 @@ Para cadastrar uma marca, siga os passos abaixo:
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em **Marcas**.
 3. Clique no botão `Nova Marca`.
-4. Preencha os [campos de cadastro de marca](/pt/tutorial/campos-de-cadastro-de-marca--37Ky7lTbEkiWIAYA80EMyI).
+4. Preencha os [campos de cadastro de marca](/pt/docs/tutorials/campos-de-cadastro-de-marca).
 5. Clique no botão `Salvar`.
 
 ![cadastrarmarcas3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/marcas/cadastrando-marcas_1.PNG)

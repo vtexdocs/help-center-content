@@ -22,7 +22,7 @@ In this article, we'll explain the steps required to set up a More for Less prom
 - [Creating a More for Less promotion](#creating-a-more-for-less-promotion)
 - [Configuring general information](#configuring-general-information)
 		- [Defining participating sellers](#defining-participating-sellers)
-		- [Selecting trade policies for the discount](#selecting-trade-policies-for-the-discount)
+		- [Selecting sales channels for the discount](#selecting-trade-policies-for-the-discount)
 
 - [Configuring the More for Less promotion](#configuring-the-more-for-less-promotion)
 		- [Advanced settings](#advanced-settings)
@@ -67,21 +67,21 @@ Select one of the following options to apply the promotion:
 
 For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
-### Selecting trade policies for the discount
+### Selecting sales channels for the discount
 
-Select the trade policies valid for the discount. You can offer discounts for trade policies where  
+Select the sales channels valid for the discount. You can offer discounts for sales channels where  
 [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
-- **Equal to:** Select the trade policies you want to include in the promotion.  
+- **Equal to:** Select the sales channels you want to include in the promotion.  
   This option allows you to determine the policies that will apply to the products eligible for the discount.
 
-- **Different from:** Selects the trade policies you want to exclude from the promotion.  
+- **Different from:** Selects the sales channels you want to exclude from the promotion.  
   This option removes specific policies, ensuring the discount is not applied to products that use those business rules.
 
-- **All:** Select this option to apply the promotion to all trade policies without any restriction.  
-  All products, regardless of their associated trade policy, will be included in the promotion.
+- **All:** Select this option to apply the promotion to all sales channels without any restriction.  
+  All products, regardless of their associated sales channel, will be included in the promotion.
 
 ## Configuring the More for Less promotion
 
@@ -97,7 +97,7 @@ Follow the instructions below to complete the fields:
   The limit for creating a buy more, pay less promotion conditioned by SKUs is 100 SKUs.
 
 - **Collections:**  
-  Selects a product [collection](/en/tutorial/criando-colecao-de-produtos--tutorials_244). This option simplifies promotion management for groups of items with similar characteristics.
+  Selects a product [collection](/en/docs/tutorials/creating-a-product-collection). This option simplifies promotion management for groups of items with similar characteristics.
 
 - **The customer gets [Y] of these [X] products with discount:**  
   Define how many products the customer can get a discount on when they meet the minimum configured quantity.  
@@ -160,7 +160,7 @@ To add a condition, follow the instructions below:
   - **All of the following:** Apply the promotion only if all cluster criteria are met.
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
 
-- **UTM:** Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used.  
+- **UTM:** Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/docs/tutorials/what-are-the-internal-utms) or when a coupon linked to these parameters is used.  
   Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.  
   Set the following parameters if necessary:
   - **utm_source:** Apply the discount when browsing occurs through the configured utm_source parameter.
@@ -192,7 +192,7 @@ The available options are:
 Define how the promotion will be combined with other business conditions applied in the store:
 
 - **Allow combining with other promotions:**  
-  Allows the promotion to be applied simultaneously with other promotions, including additional discounts such as free shipping or gifts. Learn more in the [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
+  Allows the promotion to be applied simultaneously with other promotions, including additional discounts such as free shipping or gifts. Learn more in the [How promotion competition works](/en/docs/tutorials/how-promotion-competition-works) article.
 
 - **Allow combining with manual prices:**  
   Select this setting so that the promotion is applied to products whose price has been adjusted.
@@ -202,6 +202,6 @@ In this section, you can highlight the promotion on the product listing page and
 
 - **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
 
-> ⚠️ Remember [configure this option in the CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Remember [configure this option in the CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).
 
 - **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.

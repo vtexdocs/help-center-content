@@ -3,12 +3,12 @@ title: 'Precio Fijo – Definición de Concepto'
 id: 3HxF2u5VwidqnUGnFoKdDy
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:27.780Z
-updatedAt: 2021-05-26T17:20:58.165Z
+updatedAt: 2026-02-24T17:20:58.165Z
 publishedAt: 2021-05-26T17:20:58.165Z
 firstPublishedAt: 2019-07-17T19:42:19.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slugEN: preco-fixo-definicao-de-conceito
+slugEN: fixed-price-concept-definition
 locale: es
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: precios-101
@@ -24,7 +24,7 @@ De este modo, el precio fijo se sobrepone al __precio base__, incluso en los cas
 
 Esto significa que el precio fijo tiene una prioridad sobre el precio base y la regla de precio definida para una tabla.
 
-> ⚠️ Solo los [precios fijos](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) se utilizan en nuestras integraciones nativas con marketplaces. Los otros escenarios previstos en la [arquitectura del sistema de precios](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) solo están disponibles para marketplaces VTEX-VTEX.
+> ⚠️ Solo los [precios fijos](/es/docs/tracks/registrar-precio-fijo) se utilizan en nuestras integraciones nativas con marketplaces. Los otros escenarios previstos en la [arquitectura del sistema de precios](/es/docs/tracks/arquitectura-del-sistema-de-precios) solo están disponibles para marketplaces VTEX-VTEX.
 
 ## Funcionalidades 
 

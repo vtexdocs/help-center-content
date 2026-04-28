@@ -17,11 +17,11 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 El muelle forma parte del sistema logístico y representa un punto intermedio entre el almacén y la transportadora. En el muelle, las transportadoras recogen los ítems para entregarlos a sus destinatarios. 
 
-En VTEX, el muelle es un intermediario entre el almacenamiento de ítems y la entrega de los pedidos de tu negocio. Es a través del muelle que se produce la integración de las partes necesarias para la logística de tu tienda, a saber: el [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), la [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y la [política de envío](/es/tutorial/politica-de-envio--tutorials_140).
+En VTEX, el muelle es un intermediario entre el almacenamiento de ítems y la entrega de los pedidos de tu negocio. Es a través del muelle que se produce la integración de las partes necesarias para la logística de tu tienda, a saber: el [almacén](/es/docs/tutorials/almacen), la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) y la [política de envío](/es/docs/tutorials/politica-de-envio).
 
 ![Doca ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/muelles_1.svg)
 
-> ℹ️ El almacén es el espacio físico de almacenamiento de los productos vendidos por la tienda; la política comercial es la configuración de las estrategias de venta de la tienda; y la política de envío es un conjunto de reglas que definen las opciones y condiciones de envío. El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es: <ul><li>[Política de envío](/es/tutorial/politica-de-envio--tutorials_140)</li><li>Muelle</li><li>[Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
+> ℹ️ El almacén es el espacio físico de almacenamiento de los productos vendidos por la tienda; la política comercial es la configuración de las estrategias de venta de la tienda; y la política de envío es un conjunto de reglas que definen las opciones y condiciones de envío. El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es: <ul><li>[Política de envío](/es/docs/tutorials/politica-de-envio)</li><li>Muelle</li><li>[Almacén](/es/docs/tutorials/almacen)</li></ul>
 
 ## Casos de uso
 
@@ -39,5 +39,5 @@ Los principales casos de uso de los muelles son:
 * Cuando el muelle no existe físicamente y el concepto se utiliza solo para delimitar los horarios de recogida de ítems en el almacén por parte de la transportadora. Incluso en este caso, es necesario registrar el muelle en la plataforma VTEX, ya que las rutas de entrega solo son posibles con los muelles configurados.
 * Cuando necesitas calcular el coste del servicio de manejo de los ítems desde el almacén hasta la transportadora.
 
-Para saber cómo gestionar un muelle a través del Admin VTEX, consulta el artículo [Gestionar muelles](/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW).
+Para saber cómo gestionar un muelle a través del Admin VTEX, consulta el artículo [Gestionar muelles](/es/docs/tutorials/gestionar-el-muelle).
 

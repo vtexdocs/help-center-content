@@ -32,6 +32,6 @@ Gerentes e **Vendedores Responsáveis (VR)** podem atualizar suas informações 
 
 As ações abaixo permitem gerenciar perfis de gerentes e estão disponíveis apenas para usuários com as permissões adequadas:
 
-- [Desligar gerente](/pt/tutorial/desligar-gerente-indeva--5LxrfSgD7f4IgRGWlrcnRV)  
-- [Cadastrar gerente](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf)
+- [Desligar gerente](/pt/docs/tutorials/desligar-gerente-indeva)  
+- [Cadastrar gerente](/pt/docs/tutorials/cadastrar-gerente-plataforma-indeva)
 

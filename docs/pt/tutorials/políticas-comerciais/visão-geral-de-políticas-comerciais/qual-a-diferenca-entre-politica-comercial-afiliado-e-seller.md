@@ -23,9 +23,9 @@ Políticas comerciais podem ser criadas para serem utilizadas em marketplaces.
 
 Para configurar o sortimento de produtos, será necessário [associar a política comercial](/pt/tutorial/campos-de-cadastro-de-produto) em questão aos produtos desejados.
 
-Para configurar a logística, siga o passo a passo descrito [neste artigo](/pt/tutorial/configurando-logistica-para-marketplace).
+Para configurar a logística, siga o passo a passo descrito [neste artigo](/pt/docs/tutorials/configurando-logistica-para-marketplace).
 
-Para saber mais, consulte nosso tutorial com mais detalhes sobre [como configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
+Para saber mais, consulte nosso tutorial com mais detalhes sobre [como configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace).
 
 ## Seller
 
@@ -43,12 +43,12 @@ O cadastro do afiliado será necessário apenas no cenário em que __sua loja a
 
 Cada marketplace deverá ter um __identificador único de afiliação__.
 
-Após criar um [afiliado](/pt/tutorial/como-configurar-afiliado/), você deve associar uma política comercial a ele. A política comercial contém as informações dos sortimentos de produto, logística e preço que serão enviadas para o afiliado em questão.
+Após criar um [afiliado](/pt/docs/tutorials/como-configurar-afiliado/), você deve associar uma política comercial a ele. A política comercial contém as informações dos sortimentos de produto, logística e preço que serão enviadas para o afiliado em questão.
 
-> ℹ️ Caso a configuração de marketplace seja feita pelo módulo [Bridge](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/), o afiliado será criado automaticamente no módulo OMS.
+> ℹ️ Caso a configuração de marketplace seja feita pelo módulo [Bridge](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/), o afiliado será criado automaticamente no módulo OMS.
 
 #### **SAIBA MAIS**
 
 - [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Como funciona uma Política Comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial)
+- [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial)

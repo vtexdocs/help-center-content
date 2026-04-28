@@ -25,7 +25,7 @@ Para desligar um vendedor ativo da loja, siga as etapas abaixo:
 </ol>
 
 <img
-  src="https://cdn.elev.io/file/uploads/QBzHaXAsXxOVU9cJt8qy4K7_fCUmprAgEkSOPIaQEPs/s1-x7J7t7PqsiVfcy3-oQYARqrU_genbT4xqjmqQnF8/Snap%202018-01-19%20at%2011.03.08-Oqk.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/desligar-vendedor-indeva_1.png"
   alt="Tela com opções de ações no cadastro de vendedores"
   loading="lazy"
 />
@@ -36,7 +36,7 @@ Para desligar um vendedor ativo da loja, siga as etapas abaixo:
 </ol>
 
 <img
-  src="https://cdn.elev.io/file/uploads/QBzHaXAsXxOVU9cJt8qy4K7_fCUmprAgEkSOPIaQEPs/s-OJQIuyWuet7chvXH19m5GzG2O2xaUF27YnRWRcZEg/Snap%202018-01-19%20at%2011.06.26-404.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/desligar-vendedor-indeva_2.png"
   alt="Tela do formulário de desligamento do vendedor"
   loading="lazy"
 />

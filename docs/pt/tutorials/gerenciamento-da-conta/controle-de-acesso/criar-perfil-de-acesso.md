@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-Os perfis de acesso determinam o conjunto de recursos que um grupo de usuários pode acessar na VTEX. Você pode gerenciá-los por meio do Admin VTEX, onde é possível definir os [recursos](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) e usuários associados a cada perfil.
+Os perfis de acesso determinam o conjunto de recursos que um grupo de usuários pode acessar na VTEX. Você pode gerenciá-los por meio do Admin VTEX, onde é possível definir os [recursos](/pt/docs/tutorials/recursos-do-license-manager) e usuários associados a cada perfil.
 
 Ao criar um perfil de acesso, você pode optar por utilizar um perfil de acesso [predefinido](/pt/tutorial/controle-de-acesso--4rM3gyiWqtkim4Q8hOvLTC#predefinido), criado pela equipe da VTEX para atender a cenários comuns nas operações, ou por cadastrar um perfil de acesso [personalizado](/pt/tutorial/controle-de-acesso--4rM3gyiWqtkim4Q8hOvLTC#personalizado), selecionando recursos específicos a que usuários com o perfil precisam ter acesso.
 
@@ -34,7 +34,7 @@ Para começar a utilizar um perfil de acesso predefinido, siga as instruções a
 
 1. Na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Perfis de acesso**.
 
-    Você verá uma lista com todos os perfis de acesso cadastrados para a conta. Para mais informações sobre essa página, acesse o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+    Você verá uma lista com todos os perfis de acesso cadastrados para a conta. Para mais informações sobre essa página, acesse o artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 2. Clique em `+ Criar perfil de acesso`.
 3. Clique em `Escolher perfil de acesso` e clique em um dos perfis predefinidos exibidos no menu dropdown. Não escolha a opção **Custom**, pois ela é dedicada a perfis personalizados.
@@ -45,7 +45,7 @@ Para começar a utilizar um perfil de acesso predefinido, siga as instruções a
 
     ![Novo perfil de acesso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/controle-de-acesso/criar-perfil-de-acesso_1.png)
 
-    Saiba mais sobre os perfis predefinidos disponíveis e os recursos associados em [Perfis de acesso predefinidos](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
+    Saiba mais sobre os perfis predefinidos disponíveis e os recursos associados em [Perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso-predefinidos).
 
 4. Adicione usuários administrativos ao perfil de acesso, preenchendo o email do usuário a ser inserido em **Adicionar usuários para este perfil de acesso** e clicando em `Adicionar`.
 
@@ -63,7 +63,7 @@ Para criar  um perfil de acesso personalizado para atender as necessidades de ac
 
 1. Na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Perfis de acesso**.
 
-    Você verá uma lista com todos os perfis de acesso cadastrados para a conta. Para mais informações sobre essa página, acesse o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+    Você verá uma lista com todos os perfis de acesso cadastrados para a conta. Para mais informações sobre essa página, acesse o artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 2. Clique em `+ Criar perfil de acesso`.
 3.  Para criar um perfil personalizado, clique em `Escolher perfil de acesso` e clique na opção **Custom** no menu dropdown.
@@ -73,7 +73,7 @@ Para criar  um perfil de acesso personalizado para atender as necessidades de ac
 
     ![Configurando produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/controle-de-acesso/criar-perfil-de-acesso_3.png)
 
-5. Marque os recursos aos quais o perfil deve conceder acesso. Confira a lista completa de [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para mais informações sobre cada um.
+5. Marque os recursos aos quais o perfil deve conceder acesso. Confira a lista completa de [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager) para mais informações sobre cada um.
 6. Caso deseje adicionar recursos de outro produto, clique no botão **Configurar outro produto**, ao final da lista de produtos e recursos e repita os passos 4 e 5.
 
     É possível adicionar recursos de quantos produtos forem necessários ao perfil.
@@ -90,9 +90,9 @@ Para criar  um perfil de acesso personalizado para atender as necessidades de ac
 
 9. Clique em `Salvar`.
 
-    Após criado, o novo perfil será listado na página [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+    Após criado, o novo perfil será listado na página [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 ## Saiba mais
 
-* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-* [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
+* [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
+* [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)

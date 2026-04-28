@@ -20,15 +20,15 @@ Cuando un cliente solicita la cancelación de un pedido realizado por VTEX Sales
 
 ## Situación 1: el cliente ya no está en la tienda
 
-Si el pedido ha sido pagado por **Venta Directa - Débito o Crédito** y el cliente ya no está presente en la tienda física, es decir, no puede pasar la tarjeta en la máquina, es necesario realizar la cancelación en **Pedidos** > **Todos los pedidos**, en el Admin VTEX. Este procedimiento solo puede ser realizado por un usuario con el [perfil de acceso OMS - Full access](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access), siguiendo las orientaciones del tutorial [Cancelar pedidos](/es/tutorial/como-cancelar-pedido--tutorials_186).
+Si el pedido ha sido pagado por **Venta Directa - Débito o Crédito** y el cliente ya no está presente en la tienda física, es decir, no puede pasar la tarjeta en la máquina, es necesario realizar la cancelación en **Pedidos** > **Todos los pedidos**, en el Admin VTEX. Este procedimiento solo puede ser realizado por un usuario con el [perfil de acceso OMS - Full access](/es/docs/tutorials/roles#oms-full-access), siguiendo las orientaciones del tutorial [Cancelar pedidos](/es/docs/tutorials/como-cancelar-pedido).
 
 En este caso, el pedido no se cancelará inmediatamente. La variación de tiempo la determina el adquirente y puede tardar de 30 minutos a 24 horas.
 
-## Situación 2: el cliente está en la tienda 
+## Situación 2: el cliente está en la tienda
 
-En los casos en los que el cliente se encuentre en la tienda al solicitar la cancelación, es necesario seguir los pasos que se indican a continuación.
+En los casos en los que el cliente se encuentre en la tienda al solicitar la cancelación, es necesario seguir los pasos que se indican a continuación:
 
-1. En el menú de VTEX Sales App, haz clic en <span id="svg-container"><svg alt="sprite-svg" xmlns="http://www.w3.org/2000/svg" style="width: 0px; height: 0px;"><symbol id="nc-bag-22" viewBox="0 0 16 16"><path fill="currentColor" d="M14 5.8c-.1-.5-.5-.8-1-.8h-1V4c0-2.2-1.8-4-4-4S4 1.8 4 4v1H3c-.5 0-.9.3-1 .8l-2 9c-.1.6.4 1.2 1 1.2h14c.6 0 1.1-.6 1-1.2l-2-9zM6 4c0-1.1.9-2 2-2s2 .9 2 2v1H6V4z"></path></symbol></svg><svg width="16" height="16" style="fill: rgb(125, 126, 128); color: rgb(125, 126, 128); vertical-align: middle;"><use xlink:href="#nc-bag-22"></use></svg></span> `Últimas ventas`.
+1. En el menú de VTEX Sales App, haz clic en `Últimas ventas`.
 2. En la lista de pedidos, haz clic en la fila del pedido que deseas cancelar.
 3. Haz clic en `Cancelar venta total` para cancelar todo el pedido o `Cancelar la venta de este paquete` para cancelar solo los ítems de un paquete específico.
 4. En el modal de confirmación, haz clic en `Cancelar venta total` o `Cancelar la venta de este paquete` para continuar, dependiendo de la opción seleccionada en el paso anterior.

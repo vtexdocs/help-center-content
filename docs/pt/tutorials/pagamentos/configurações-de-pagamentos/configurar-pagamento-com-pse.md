@@ -57,5 +57,5 @@ Para habilitar o PSE em sua loja são necessárias as seguintes ações:
 9. Se desejar, você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 10. Clique em `Salvar`.
 
-> ℹ️ Você também pode criar uma promoção regular que pode ser aplicada especificamente a pagamentos realizados por meio do PSE. Saiba mais em [Criar promoção para pagamentos com o PSE](/pt/tutorial/criar-promocao-para-pagamentos-com-o-pse--6YIp1fJ76gq667PQWjuj5T).
+> ℹ️ Você também pode criar uma promoção regular que pode ser aplicada especificamente a pagamentos realizados por meio do PSE. Saiba mais em [Criar promoção para pagamentos com o PSE](/pt/docs/tutorials/criar-promocao-para-pagamentos-com-o-pse).
 

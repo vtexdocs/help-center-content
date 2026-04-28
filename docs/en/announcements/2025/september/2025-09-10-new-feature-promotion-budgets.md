@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-feature-promotion-budgets
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX launches promotion budget limits, enabling automatic pausing and better discount management.'
+tags:
+  - New feature
+  - Promotions
 ---
 
 A new global feature in the VTEX Promotions module will allow you to set budgets for your planned campaigns. This improvement helps merchants control discount spending and gives more security and predictability in benefit management.
@@ -39,5 +42,5 @@ This feature is in the testing phase (Closed Beta), available only to a selected
 
 To participate in this testing phase and validate the feature, contact the [VTEX Support team](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).
 
-For more information, see [Configuring promotion budgets](/en/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).
+For more information, see [Configuring promotion budgets](/en/docs/tutorials/configuring-promotion-budgets).
 

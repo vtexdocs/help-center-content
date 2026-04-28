@@ -13,6 +13,9 @@ locale: es
 legacySlug: cambios-en-la-politica-de-atencion-al-cliente-de-soporte-vtex
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora, el canal principal para abrir un ticket es la Comunidad VTEX.'
+tags:
+  - Mejora
+  - Admin
 ---
 
 > ℹ️ Este contenido está siendo traducido.

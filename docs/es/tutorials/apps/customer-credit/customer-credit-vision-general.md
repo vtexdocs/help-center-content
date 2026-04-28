@@ -1,5 +1,5 @@
 ---
-title: 'Customer Credit - Visión General'
+title: 'Customer Credit - Información general'
 id: 1uIqTjWxIIIEW0COMg4uE0
 status: PUBLISHED
 createdAt: 2018-11-08T17:11:28.486Z
@@ -81,4 +81,4 @@ El flujo en Customer Credit es similar al de las tarjetas de crédito en relaci�
 
 ## Instalacion y configuracion
 
-Para instalar y configurar Customer Credit en su tienda, acceda a Track [Customer Credit - Cómo Empezar](/es/tracks/customer-credit-como-empezar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para instalar y configurar Customer Credit en su tienda, acceda a Track [Customer Credit - Cómo Empezar](/es/docs/tracks/instalar-customer-credit).

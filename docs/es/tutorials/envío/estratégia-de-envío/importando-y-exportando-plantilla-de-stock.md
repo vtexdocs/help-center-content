@@ -43,7 +43,7 @@ Por medio de la plantilla de almacén, es posible ingresar de forma masiva la ca
 
 De esta manera, cada fila de la plantilla se refiere a un SKU por almacén. Es decir, si el mismo SKU está en más de un almacén, aparecerá una vez para cada uno de estos almacenes.  La plantilla contempla todos los almacenes y las variaciones de productos registrados en su tienda.
 
-Esta importación se realiza utilizando la plantilla de Excel en formato .xls (opción Excel 97-2003 Workbook), cuyo modelo es el mismo que se ha exportado anteriormente. Si su archivo tiene más de 10 MB, es necesario utilizar el archivo comprimido con la extensión .zip.
+Esta importación se realiza utilizando la plantilla de Excel en formato .xls (opción Excel 97-2003 Workbook), cuyo modelo es el mismo que se ha exportado anteriormente. Si su archivo tiene más de 4.5 MB, es necesario utilizar el archivo comprimido con la extensión .zip.
 
 Además, hay dos reglas para rellenar de forma correcta la plantilla. Estas son:
 

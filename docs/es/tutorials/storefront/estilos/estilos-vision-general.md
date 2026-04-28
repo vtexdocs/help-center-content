@@ -1,5 +1,5 @@
 ---
-title: 'Estilos - Visión general'
+title: 'Estilos - Información general'
 id: v0Db5ohEKSFIkTzSwCjVi
 status: PUBLISHED
 createdAt: 2022-01-04T21:56:41.366Z
@@ -20,7 +20,7 @@ La página **Estilos** te permite definir la tipografía y la paleta de colores 
 
 Para acceder a Estilos, inicia sesión en el Admin VTEX, accede a **Storefront > Estilos** y descubre las principales herramientas disponibles en la interfaz.
 
-![Estilos - Visión general](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/estilos/estilos-vision-general_1.png)
+![Estilos - Información general](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/estilos/estilos-vision-general_1.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Para aplicar y obtener una vista previa de los cambios en los estilos de tu tienda, asegúrate de utilizar un espacio de trabajo que soporte el tráfico de producción, por ejemplo, [espacios de trabajo de producción](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace). 
@@ -33,4 +33,4 @@ Para acceder a Estilos, inicia sesión en el Admin VTEX, accede a **Storefront >
 | New (Nuevo)      | Crea una nueva plantilla de estilo para el sitio web de tu tienda. |
 
 ## Próximos pasos
-- [Personalizar la tipografía de tu tienda](/es/tutorial/personalizar-la-tipografia-de-tu-tienda--2R0ByIjvJtuz99RK3OL5WP)
+- [Personalizar la tipografía de tu tienda](/es/docs/tutorials/personalizar-la-tipografia-de-tu-tienda)

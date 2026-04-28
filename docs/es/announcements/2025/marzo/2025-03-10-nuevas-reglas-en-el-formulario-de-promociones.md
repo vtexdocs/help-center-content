@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevas-reglas-en-el-formulario-de-promociones
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Las nuevas validaciones en el formulario de promociones optimizan la configuración y las reglas y reducen errores.'
+tags:
+  - Mejora
+  - Promociones
 ---
 
 Implementamos mejoras en los formularios de promociones para garantizar mayor precisión y uniformidad en la configuración y reducir errores. Los principales cambios incluyen ajustes en los límites de caracteres, nuevas reglas para condiciones y restricciones en descuentos progresivos, y promociones del tipo Comprar juntos.
@@ -54,8 +57,8 @@ No se requiere ninguna acción. Las optimizaciones se aplican automáticamente e
 
 Para más información, consulta los siguientes artículos:
 
-- [Comprar juntos](/es/tutorial/compre-junto--tutorials_323)
-- [Compra uno y lleva uno gratis](/es/tutorial/compre-e-ganhe--tutorials_322)
-- [Descuento progresivo](/es/tutorial/desconto-progressivo--tutorials_324)
-- [Más por menos](/es/tutorial/leve-mais-por-menos--tutorials_325)
+- [Comprar juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion)
+- [Compra uno y lleva uno gratis](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)
+- [Descuento progresivo](/es/docs/tutorials/descuento-progresivo)
+- [Más por menos](/es/docs/tutorials/mas-por-menos)
 

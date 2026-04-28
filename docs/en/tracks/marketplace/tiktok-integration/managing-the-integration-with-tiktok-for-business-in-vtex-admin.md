@@ -76,4 +76,4 @@ However, VTEX does not delete existing products from TikTok, which means they wi
 
 > ⚠️ If an error message appears when disconnecting TikTok from your VTEX store, follow the steps below to ensure that the integration has been correctly disabled. <ol><li>Go to the [Authorizations](https://ads.tiktok.com/ac/page/authorizations) page in TikTok Ads Manager.</li> <li>Find the **VTEX** option.</li> <li>Click `Remove`.</li></ol>
 
-After disconnecting, it is possible to reactivate the integration at any time by repeating the steps described in [Configuring the integration with TikTok for Business](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).
+After disconnecting, it is possible to reactivate the integration at any time by repeating the steps described in [Configuring the integration with TikTok for Business](/en/docs/tracks/configuring-the-integration-with-tiktok-for-business-in-vtex-admin).

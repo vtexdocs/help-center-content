@@ -32,7 +32,7 @@ Los campos disponibles para la edición son:
 - **Cantidad máxima de "Comprar Juntos":** es la cantidad máxima de promociones de tipo «compre junto» que se podrá insertar en el mismo carrito.
 - **Mostrar campo "Observación" en la compra:** muestra un campo para que el cliente de su tienda envíe comentarios, solicitudes especiales u observaciones en forma de texto durante la compra.
 - **Cantidad máxima de un mismo SKU en el carrito:** es la cantidad máxima de un mismo SKU que se puede insertar en el mismo carrito.
-- **Mostrar súper zoom:** muestra el [zoom](/es/tutorial/ativar-o-zoom-do-produto-no-template-de-pagina--104Z7aky7IcYKYIgs4KUIg).
+- **Mostrar súper zoom:** muestra el [zoom](/es/docs/tutorials/activar-el-zoom-del-producto-en-el-template-de-pagina).
 - **Mostrar "Avísame" cuando esté fuera de stock:** habilita la funcionalidad «Avísame» en la página del producto.
 - **Activar links con UTMI - Monitoreo de navegación interna:** activa la funcionalidad de UTMI en la tienda. Cuando activa esta casilla todos los enlaces de la tienda recibirán automáticamente utms internas a los enlaces de la tienda. Por ejemplo:
 

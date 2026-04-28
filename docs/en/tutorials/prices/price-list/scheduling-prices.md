@@ -63,7 +63,7 @@ You can also schedule prices by importing a fixed price template. To do this, pl
 The template will be sent to your email and you can download it. After downloading the template, fill in the columns with the following information:
 
 - **SKU ID:** the ID of the SKU to which you want to add the fixed price.
-- **Trade policy:** the name or ID of the trade policy to which the fixed price will be applied.
+- **Sales channel:** the name or ID of the sales channel to which the fixed price will be applied.
 - 
 - **List price:** suggested retail price for the SKU.
 - **Min quantity:** the minimum SKU quantity for the fixed price to be applied.

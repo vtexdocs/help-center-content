@@ -15,14 +15,14 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-PicPay es una [cartera digital](/es/faq/que-es-una-cartera-digital) que permite la transferencia de valores entre usuarios, incluyendo establecimientos comerciales. Su cliente elige pagar con ella y recibe un código para escanear usando la aplicación para smartphones.
+PicPay es una [cartera digital](/es/docs/tutorials/que-es-una-cartera-digital) que permite la transferencia de valores entre usuarios, incluyendo establecimientos comerciales. Su cliente elige pagar con ella y recibe un código para escanear usando la aplicación para smartphones.
 
 Para configurar PicPay, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Proveedores**, o escribe **Proveedores** en la barra de búsqueda en la parte superior de la página.
 2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
-3. Escriba el nombre __PicPay__ en la barra de búsqueda y haga clic en el nombre del proveedor.
-4. Rellene los campos _Application Key_ y _Application Token_ con la información de su cuenta __PicPay__.
+3. Escriba el nombre **PicPay** en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. Rellene los campos **Clave de aplicación** y **Token de aplicación** con la información de su cuenta **PicPay**.
 5. Haga clic en `Guardar`.
 
 ## Configurar la condición de pago
@@ -33,7 +33,7 @@ Para configurar PicPay, siga los pasos a continuación:
 4. Haga clic en el botón __Status__ para activar esta condición de pago.
 5. Si hay un antifraude configurado en su tienda, usted puede activarlo para esta condición de pago marcando la casilla __Usar Antifraude__.
 6. Defina si los pagos van a ser en efectivo o parcelados.
-7. También es posible configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales).
+7. También es posible configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 8. Haga clic en __Guardar__.
 
 Después de seguir los pasos indicados arriba, PicPay aparecerá en el checkout de su tienda como una opción de pago. Después de hacer clic en __Finalizar Compra__, un código aparecerá para que el cliente escanee con la aplicación mobile y efectúe el pago.

@@ -3,7 +3,7 @@ title: 'Configurar mensaje personalizado de regalo'
 id: tutorials_291
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:47.349Z
-updatedAt: 2025-06-12T20:53:25.570Z
+updatedAt: 2026-01-30T20:53:25.570Z
 publishedAt: 2025-06-12T20:53:25.570Z
 firstPublishedAt: 2017-04-27T23:03:13.676Z
 contentType: tutorial
@@ -15,39 +15,29 @@ locale: es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-La tarjeta de regalo con mensaje personalizado es muy usada principalmente en tiendas que disponen listas de regalos, casamientos, etc.
+Para hacer disponible para los clientes de tu tienda productos con mensajes personalizados, es necesario configurar en el Admin VTEX un nuevo servicio de SKU. Sepa más en [Crear servicio para un SKU](https://help.vtex.com/es/docs/tutorials/crear-servicio-para-un-sku).
 
-Para hacer disponible este producto a su cliente es necesario configurar en el _Admin_ un nuevo Servicio de SKU. Para saber cómo crear servicios, lea [Crear servicio para un SKU](/es/tutorial/crear-servicio-para-un-sku--tutorials_252).
+Después de haber creado el servicio y agregar un valor a este servicio, siga los pasos abajo para registrar un tipo de servicio para un SKU:
 
-Después de haber creado el Servicio y agregar un Valor a este servicio, registre un tipo de servicio para los SKUs y luego, vincule este servicio al SKU. Siga los pasos abajo para realizar esa tarea:
+1. En el Admin VTEX, accede a __Catálogo > Campos personalizados__, o escribe __Campos personalizados__ en la barra de búsqueda en la parte superior de la página.
+2. Haga clic em __Tipos de servicio__.
+3. Registre o seleccione el tipo de servicio deseado.
+4. Haga clic em la pestaña __Valores de servicio__.
+5. Registre una nueva tabla de valores seleccionando el tipo de servicio registrado anteriormente.
+6. Acceda a __Catálogo > Productos y SKUs__.
+7. Seleccione un producto.
+8. En la pestaña `SKUs`, entre en la lista de SKUs de ese producto.
+9. En la sección __Personalizaciones__, haga clic en `+` > __Servicios__.
+10. Rellene los campos y haga clic en `Aplicar`.
 
-1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
-2. Haga clic em __Campos personalizados__.
-3. Haga clic em __Tipos de servicio__.
-4. Registre o seleccione el Tipo de Servicio.
-5. Haga clic em __Valores de servicio__.
-6. Registre una Nueva Tabla de Valores seleccionando el tipo de servicio registrado anteriormente.
-7. En el VTEX Admin, todavía en el menú __Catálogo__, vaya a __Todos los productos__.
-8. Seleccione un Producto.
-9. Entre en la lista de SKUs de ese producto.
-10. En la flechita al lado del botón `Alterar`, haga clic en __Servicio__.
-11. Cree un Nuevo Servicio. En la pantalla de creación, seleccione el tipo de servicio creado y la tabla de valores.
-
-Para más información sobre creación de servicios y vincular valores, vea el artículo [Crear servicio para un SKU](/es/tutorial/crear-servicio-para-un-sku--tutorials_252).
+> ℹ️ Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.
 
 ## Validar la configuración
 
-En el sitio es posible validar si la configuración se ha efectuado correctamente. Para eso, siga los pasos abajo:
+Para validar si la configuración se ha efectuado correctamente, siga los pasos a continuación:
 
-1. Entre en el SKU configurado.
-2. Agregue al carrito.
-3. En este momento el tipo de servicio debe estar disponible para selección. El mensaje debe ser escrito en hasta 150 caracteres.
-4. Seleccione el servicio en el carrito y haga clic en el link para agregar mensaje.
+1. En el sitio de su tienda, entre en el SKU configurado.
+2. Agregue el SKU al carrito.
+3. El tipo de servicio debe estar disponible para selección. Seleccione el servicio en el carrito y haga clic en el link para agregar mensaje.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/configurar-mensaje-personalizado-de-regalo_1.png)
-
-Puede ver el mensaje escrito en la página de __Mi Cuenta > Mis Pedidos__:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/configurar-mensaje-personalizado-de-regalo_2.png)
-
-> ℹ️ Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.
+Puede ver el mensaje escrito en la página de __Mi cuenta > Mis pedidos__.

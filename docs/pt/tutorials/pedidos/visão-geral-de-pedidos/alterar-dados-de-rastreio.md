@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Ao inserir os dados de rastreio na plataforma, lojistas e clientes podem acompanhar entregas de pedidos. Para inserir ou alterar os dados de rastreio, é preciso que os pedidos já [estejam faturados](/pt/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
+Ao inserir os dados de rastreio na plataforma, lojistas e clientes podem acompanhar entregas de pedidos. Para inserir ou alterar os dados de rastreio, é preciso que os pedidos já [estejam faturados](/pt/docs/tutorials/faturar-um-pedido-manualmente).  
 
 Há duas formas de inserir os dados de rastreio dos pedidos:
 

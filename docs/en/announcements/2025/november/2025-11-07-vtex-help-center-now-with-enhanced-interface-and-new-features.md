@@ -9,6 +9,9 @@ productTeam: Others
 slugEN: 2025-11-05-vtex-help-center-now-with-enhanced-interface-and-new-features
 locale: en
 announcementSynopsisEN: 'New Help Center portal with multiple improvements.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 VTEX has just launched a [new Help Center](https://newhelp.vtex.com/en), featuring a lighter interface design, enhanced search, and other updates. The goal is to improve your experience with our documentation by combining high-quality information with a refreshed look and a portal offering more functionality.

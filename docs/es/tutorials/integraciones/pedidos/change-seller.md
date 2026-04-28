@@ -37,10 +37,10 @@ Cuando el *seller* le notifica la cancelación, el *marketplace* puede configura
 El cambio de _seller_ no puede realizarse en las siguientes situaciones:
 
 - El pedido tiene ítems con servicios o anexos.
-- Pedidos intermedios en caso de [Multilevel Omnichannel Inventory](/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+- Pedidos intermedios en caso de [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory).
 - Pedidos con otros cambios.
 - Pedidos con impuestos.
-- Pedidos con [split de pago](/es/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) que no utilizan tarjeta de crédito.
+- Pedidos con [split de pago](/es/docs/tutorials/split-de-pagos) que no utilizan tarjeta de crédito.
 - Pedidos con *split* de pago entre diferentes *sellers*.
 - Pedidos que utilizan el medio de pago del *seller* y no utilizan tarjeta de crédito tokenizada.
 - Pedidos que utilizan el medio de pago del *seller* y tienen más de un comerciante involucrado.
@@ -48,8 +48,8 @@ El cambio de _seller_ no puede realizarse en las siguientes situaciones:
 - Pedidos que utilizan el medio de pago del *seller* y que no tienen las mismas condiciones de pago en cuotas y medios de pago en el nuevo *seller.* 
 - Pedidos realizados antes del anuncio de Change Seller.
 - Pedidos en los que el *seller* original no es de VTEX.
-- Cambio a un nuevo *seller *que no es de VTEX cuando hay servicios u [assembly options](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involucrados.
-- Cuando la nueva opción solicita el envío por recogida en [puntos de recogida](/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-- En caso de que el *marketplace* decida cambiar de *seller*, el cambio solo podrá realizarse en los [status](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) `Pago pendiente` y `Esperando confirmación del seller`.
+- Cambio a un nuevo *seller *que no es de VTEX cuando hay servicios u [assembly options](/es/docs/tutorials/assembly-options) involucrados.
+- Cuando la nueva opción solicita el envío por recogida en [puntos de recogida](/es/docs/tutorials/puntos-de-recogida).
+- En caso de que el *marketplace* decida cambiar de *seller*, el cambio solo podrá realizarse en los [status](/es/docs/tutorials/flujo-y-status-de-pedidos) `Pago pendiente` y `Esperando confirmación del seller`.
 - Pedidos de sellers externos a VTEX.
-- Si la transportadora no está asociada a la misma [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) del pedido.
+- Si la transportadora no está asociada a la misma [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) del pedido.
