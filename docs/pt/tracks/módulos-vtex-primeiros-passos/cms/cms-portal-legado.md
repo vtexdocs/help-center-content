@@ -3,7 +3,7 @@ title: 'CMS Portal (Legado)'
 id: 1oN446gRGcR2s70RvBCAmj
 status: PUBLISHED
 createdAt: 2022-01-10T20:17:10.358Z
-updatedAt: 2024-08-06T16:52:09.507Z
+updatedAt: 2026-04-28T18:54:39.664Z
 publishedAt: 2024-08-06T16:52:09.507Z
 firstPublishedAt: 2022-01-10T20:41:44.261Z
 contentType: trackArticle
@@ -15,27 +15,23 @@ trackSlugEN: cms
 order: 3
 ---
 
-O CMS Portal (Legado) foi o primeiro Content Management System (CMS) da VTEX e não está mais em desenvolvimento ativo. Se você está configurando uma nova loja, recomendamos usar uma de nossas soluções de CMS modernas.
+O CMS Portal (Legado) foi o primeiro Content Management System (CMS) da VTEX e não está disponível para novas contas. Se você está usando o CMS Portal (Legado), pode continuar acessando e gerenciando o conteúdo da sua loja com base neste guia.
 
-Se você está usando o CMS Portal Legado, pode continuar acessando e gerenciando o conteúdo da sua loja usando este guia. No entanto, para novas funcionalidades e recursos modernos, considere migrar para uma das soluções a seguir:
+Para novas funcionalidades e recursos modernos, considere migrar para uma de nossas soluções de CMS mais recentes: **[CMS](https://developers.vtex.com/docs/guides/cms-for-faststore-storefronts)**, solução recomendada de CMS para lojas desenvolvidas com [FastStore](https://developers.vtex.com/docs/guides/faststore), ou **[Site Editor](/pt/docs/tutorials/site-editor-visao-geral)**, solução de CMS para lojas desenvolvidas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
 
-- **[CMS](https://developers.vtex.com/docs/guides/cms-for-faststore-storefronts):** solução recomendada de CMS para lojas desenvolvidas com [FastStore](https://developers.vtex.com/docs/guides/faststore). Possui recursos avançados como controle de versão, ferramentas de colaboração, branches de conteúdo, gerenciamento centralizado de mídia e suporte multi-canal.
-
-- **[Site Editor](/pt/docs/tutorials/site-editor-visao-geral):** solução de CMS para lojas lojas desenvolvidas com [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Possui gerenciamento intuitivo de conteúdo visual sem exigir alterações de código.
-
-Neste guia, você aprenderá como usar o CMS Portal (Legado) para gerenciar o conteúdo da sua loja, incluindo a criação e organização de layouts, a configuração de páginas e estrutura de pastas, além de conhecer os controles nativos da VTEX disponíveis para templates.
+Neste guia, você aprenderá a usar o CMS Portal (Legado) para gerenciar o conteúdo da sua loja, incluindo a criação e organização de layouts, a configuração de páginas e a estrutura de pastas, além de conhecer os controles nativos da VTEX disponíveis para templates.
 
 ## Layout
 
-A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
+A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront com HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
 
 ![CMS - Layout PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-portal-legado_1.png)
 
-- **HTML Templates:** criar o código HTML e os arquivos JavaScript e CSS de referência que serão usados nas páginas do site.
+- **HTML Templates:** criar o código HTML e os arquivos JavaScript e CSS de referência a serem usados nas páginas do site.
 
 - **Shelves Templates:** gerenciar os templates de prateleiras, ou seja, os componentes responsáveis pela renderização de um grupo de produtos no storefront.
 
-- **Custom Elements:** criar as condições necessárias para implementar componentes reutilizáveis, como rodapés, em outras partes da loja.
+- **Custom Elements:** criar as condições necessárias para implementar componentes reutilizáveis, como rodapés, em outras áreas da loja.
 
 - **URL Builder:** redirecionar as URLs existentes para outras de interesse. Isso evitará erros de indexação e ajudará a manter os resultados de SEO.
 
@@ -47,25 +43,25 @@ A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que v
 
 ## Configurações
 
-A seção [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM) permite que você defina configurações relacionadas ao site da sua loja, como metadados, tags de SEO, tipos de arquivos, etc. 
+A seção [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM) permite que você defina configurações do site da sua loja, como metadados, tags de SEO, tipos de arquivos, entre outras. 
 
 ![CMS - Settings PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-portal-legado_2.png)
 
 A seção **Configurações** contém as seguintes abas:
 
-- **Gerais:** configurações gerais relacionadas aos metadados e às opções de compra da loja, como o título da página inicial e a quantidade máxima de SKUs no carrinho.
-- **SEO:** opções de personalização de palavras-chave e meta tags de SEO.
+- **Gerais:** configurações relacionadas aos metadados e às opções de compra da loja, como o título da página inicial e o número máximo de SKUs no carrinho.
+- **SEO:** opções de personalização de palavras-chave e de metatags de SEO.
 - **Textos da loja:** banco de dados de variáveis de texto reutilizáveis que são renderizadas no storefront.
-- **Tipos de arquivos:** configurações relacionadas aos arquivos de ativos, como dimensões e tamanho da imagem. 
-- **Regiões geográficas:** banco de dados das regiões geográficas onde os produtos da loja estão disponíveis.
+- **Tipos de arquivos:** configurações relacionadas aos arquivos de ativos, como dimensões e tamanho das imagens. 
+- **Regiões geográficas:** banco de dados com as regiões onde os produtos da loja estão disponíveis.
 
 ## Estrutura de pastas CMS Portal (Legado)
 
-Na VTEX, toda nova conta já dispõe de pastas pré-instaladas no seu CMS. Entretanto, algumas delas são __obrigatórias__. 
+Na VTEX, toda nova conta já dispõe de pastas pré-instaladas no CMS. Entretanto, algumas delas são __obrigatórias__. 
 
-Ou seja, se sua loja não tiver essas pastas - __com os nomes exatamente iguais__ aos que indicamos neste artigo - você terá problemas de navegação e de indexação.
+Se sua loja não tiver essas pastas __com os nomes exatamente iguais__ aos indicados neste artigo, você terá problemas de navegação e indexação.
 
-A demais pastas são apenas __sugestões__ por serem úteis à maioria das lojas. Mas a sua ausência não afeta uma conta em nada.
+As demais pastas são apenas __sugestões__ por serem úteis à maioria das lojas. Mas a sua ausência não afeta uma conta em nada.
 
 ### Pastas obrigatórias
 
@@ -86,30 +82,30 @@ Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 
 Como as pastas se referem a páginas dinâmicas, seus nomes não aparecem na navegação do cliente. 
 
-Isso significa que a edição dos nomes ser vetada não afeta o texto final das suas URLs nem, portanto, a internacionalização do seu site.
+Isso significa que a edição dos nomes a ser vetada não afeta o texto final das suas URLs nem, portanto, a internacionalização do seu site.
 
-Desse modo, os nomes dos layouts podem ser editados sem nenhum problema.
+Desse modo, os nomes dos layouts podem ser editados sem problemas.
 
 ### Pastas importantes
 
-Algumas pastas do CMS não são obrigatórias, mas são úteis. Por isso, indicamos que você não as exclua.
+Algumas pastas do CMS não são obrigatórias, mas são úteis. Por isso, recomendamos que você não as exclua.
 
 São elas:
 - `/account`: conta do cliente
 - `/account/orders`: pedidos do cliente
 
-Para estas duas pastas, o que importa é o controle ou placeholder que lê o conteúdo delas. Seus nomes delas podem ser livremente editados.
+Para estas duas pastas, o que importa é o controle ou placeholder que lê o conteúdo delas. Seus nomes podem ser editados livremente.
 
-> ℹ️ Tanto `/account` quanto `/account/orders` são pastas privadas. Por isso, ambas requerem autenticação. Veja no artigo [Exigir autenticação em páginas da loja](/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
+> ℹ️ Tanto `/account` quanto `/account/orders` são pastas privadas. Por isso, ambas requerem autenticação. Veja no artigo [Exigir autenticação em páginas da loja](/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como configurar as páginas da loja para exigir autenticação do usuário.
 
 ### Pastas úteis
 
-Há pastas que, embora não sejam tão importantes quanto as anteriores, costumam ser úteis para grande parte das lojas. 
+Há pastas que, embora não sejam tão importantes quanto as anteriores, costumam ser úteis para a maioria das lojas. 
 
 São elas:
-- `/sistema/buscavazia`: pasta para onde o usuário é direcionado caso a busca não encontre resultados.
-- `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erros de acordo com os códigos de status HTTP, tais como 404 (página não encontrada), 401 (não autorizado) e 500 (erro de servidor).
-- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas iguais à pasta busca. Para entender como funcionam páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
+- `/sistema/buscavazia`: pasta para a qual o usuário é direcionado caso a busca não retorne resultados.
+- `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erro conforme os códigos de status HTTP, como 404 (página não encontrada), 401 (não autorizado) e 500 (erro de servidor).
+- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizados com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas igual à pasta de busca. Para entender como funcionam as páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
 
 ## Controles nativos da VTEX
 
@@ -117,9 +113,9 @@ Controles são trechos de código que você pode utilizar nos templates do seu s
 
 Na VTEX, você encontra uma série de controles nativos para renderizar diversas funcionalidades.
 
-Por exemplo, usando o controle `<vtex.cmc:productName/>` em uma página de produto, o sistema fornecerá o nome do produto para ser exibido na tela.
+Por exemplo, ao usar o controle `<vtex.cmc:productName/>` em uma página de produto, o sistema fornecerá o nome do produto para exibição na tela.
 
-Para adicionar um controle, basta colá-lo no código. O resultado será renderizado na posição do código onde ele for adicionado.
+Para adicionar um controle, basta colá-lo no código. O resultado será renderizado na posição do código onde for adicionado.
 
 ### Lista de controles nativos da VTEX
 
@@ -137,7 +133,7 @@ Você pode conferir todos os controles nativos disponíveis e seus respectivos u
 - [O que é binding?](/pt/docs/tutorials/o-que-e-binding)
 
 ## Guides
-- **[Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina):** Aprenda a criar template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
+- **[Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina):** Aprenda a criar um template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
 
 - **[Associar um template a um layout](/pt/docs/tutorials/associando-um-template-a-um-layout):** Associe um template a um layout usando a pasta Sites e canais.
 
@@ -153,4 +149,3 @@ Você pode conferir todos os controles nativos disponíveis e seus respectivos u
 - [Controle de destaque de coleção](/pt/docs/tutorials/controle-de-destaque-de-colecao)
 - [Controle de breadcrumb](/pt/docs/tutorials/controle-de-breadcrumb)
 - [Controles do template de prateleira](/pt/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
-
