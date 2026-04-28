@@ -10,15 +10,20 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-Cada modelo de negócio tem características específicas, e a extensibilidade é a solução que permite às lojas complementarem sua jornada de venda padrão no VTEX Sales App com os recursos necessários a sua operação.
-
-Este artigo aprensenta as principais características e casos de uso das extensões do Sales App e orienta na implementação da solução.
+A extensibilidade é a solução que permite às lojas complementarem a jornada de venda padrão no VTEX Sales App com os recursos necessários a sua operação. Este artigo aprensenta as principais características e casos de uso das extensões e orienta como implementar a solução.
 
 > ⚠️ A implementação da extensibilidade do Sales App é responsabilidade dos clientes VTEX e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
 
 ## Funcionamento da extensibilidade
 
-Existem sete pontos de extensão disponíveis no Carrinho/Checkout, na Página de detalhes do produto e em modais adicionais acessados pelo menu do Sales App. Cada um dos pontos de extensão permite interação com dados e funções específicas dentro do contexto da página.
+Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Eles estão disponíveis nos seguintes contextos:
+
+* Checkout
+* Carrinho de compras
+* Página de detalhes do produto (PDP)
+* Modais adicionais acessados pelo menu
+
+Veja a seguir as imagens de como estes componentes se integram à interface usando como exemplo o dispositivo desktop:
 
 Os componentes criados em cada ponto podem criar fluxo adicionais com suporte de uma drawer que abre à direita da tela, e pode ser utilizada quando relacionada aos pontos de extensão da PDP e carrinho.
 
