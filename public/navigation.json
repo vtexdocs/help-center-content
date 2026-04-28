@@ -35024,6 +35024,21 @@
                 },
                 {
                   "name": {
+                    "en": "Creating a custom page in Legacy CMS stores",
+                    "es": "Cómo crear una página personalizada en tiendas CMS Legado",
+                    "pt": "Como criar uma página customizada em lojas CMS Legado"
+                  },
+                  "slug": {
+                    "en": "creating-a-custom-page-in-legacy-cms-stores",
+                    "es": "como-crear-una-pagina-personalizada-en-tiendas-cms-legado",
+                    "pt": "como-criar-uma-pagina-customizada-em-lojas-cms-legado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a development environment for mobile version",
                     "es": "Crear ambiente de desarrollo de versión mobile",
                     "pt": "Criar um ambiente de desenvolvimento de versão mobile"
@@ -52209,6 +52224,21 @@
                 "en": "product-image-sorting-doesnt-respect-the-catalog-order",
                 "es": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
                 "pt": "a-classificacao-da-imagem-do-produto-nao-respeita-a-ordem-do-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product indexing may show a high delay in Indexing History",
+                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
+                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
+              },
+              "slug": {
+                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
+                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
+                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
               },
               "origin": "",
               "type": "markdown",
