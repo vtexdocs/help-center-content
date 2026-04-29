@@ -53779,21 +53779,6 @@
             },
             {
               "name": {
-                "en": "Timeout in the query to Analytics preventing to check the inventory log",
-                "es": "Tiempo de espera en la consulta a Analytics que impide comprobar el registro de inventario",
-                "pt": "Tempo limite na consulta para que o Analytics impeça a verificação do registro de inventário"
-              },
-              "slug": {
-                "en": "timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log",
-                "es": "tiempo-de-espera-en-la-consulta-a-analytics-que-impide-comprobar-el-registro-de-inventario",
-                "pt": "tempo-limite-na-consulta-para-que-o-analytics-impeca-a-verificacao-do-registro-de-inventario"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Total reservation item with negative value in inventory UI",
                 "es": "Elemento de reserva total con valor negativo en la interfaz de usuario del inventario",
                 "pt": "Total de itens de reserva com valor negativo na interface do usuário do inventário"
