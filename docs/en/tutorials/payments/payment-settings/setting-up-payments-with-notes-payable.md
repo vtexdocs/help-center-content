@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-On VTEX, your store can receive payments made with __Notes Payable__. To enable this option, you must perform the following steps:
+On VTEX, your store can receive payments made with Notes Payable. To enable this option, you must perform the following steps:
 
 1. [Setting up the payment provider](#setting-up-a-payment-provider)
 2. [Notes Payable setup](#notes-payable-setup)
@@ -33,21 +33,19 @@ To set up a payment provider,  access [Register payment and anti-fraud providers
 
 After registering the payment provider, follow the steps below:
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. Click on the __Custom Payments__ tab.
-3. In __Notes Payable__, click on one of the five configuration boxes.
+1. In the VTEX Admin, go to **Store Settings > Payment > Settings**, or type **Settings** in the search bar at the top of the page.
+2. Click on the **Custom Payments** tab.
+3. In **Notes Payable**, click on one of the available configuration boxes (Config).
 4. Fill in the following fields:
-- __Name:__ the name that will be used to identify the payment.
-- __Description:__ details of the payment condition.
-- __Note payable expiration date:__ the due date for your customer to pay the note payable before it expires.
-- __Automatic authorization:__ select whether you want to authorize payments automatically. We recommend enabling this option only for payments on delivery or in-store pickup. By choosing Yes, the order status will automatically change to Handling shipping without requiring payment verification.
-- __Change margin range:__ percentage margin range allowed for changes in the value of the Note Payable. Some customers may want to authorize [changes to orders](/en/docs/tutorials/changing-items-from-a-complete-order). In this case, please fill in the _Change margin range_ field to determine the percentage margin allowed for changes.
-- __Split payment:__ choose whether to use the [split payment solution](/en/docs/tutorials/split-payment). If you opt to use it, the Note Payable will be split between the sellers and the marketplace, when applicable.
-- __Automatic invoicing:__ number of days for the system to invoice the Note Payable after payment authorization. By default, Notes Payable are invoiced upon payment authorization. If this field is set to __Yes__, invoicing will no longer occur upon authorization but after the number of days you have determined.<br>
+- **Name:** the name that will be used to identify the payment.
+- **Description:** details of the payment condition.
+- **Note payable expiration date:** the due date for your customer to pay the note payable before it expires.
+- **Automatic authorization:** select whether you want to authorize payments automatically. We recommend enabling this option only for payments on delivery or in-store pickup. By choosing Yes, the order status will automatically change to Handling shipping without requiring payment verification.
+- **Change margin range:** percentage margin range allowed for changes in the value of the Note Payable. Some customers may want to authorize [changes to orders](https://help.vtex.com/docs/tutorials/how-order-modification-works). In this case, please fill in the **Change margin range** field to determine the percentage margin allowed for changes.
+- **Split payment:** choose whether to use the [split payment solution](/en/docs/tutorials/split-payment). If you opt to use it, the Note Payable will be split between the sellers and the marketplace, when applicable.
+- **Automatic invoicing:** number of days for the system to invoice the Note Payable after payment authorization. By default, Notes Payable are invoiced upon payment authorization. By configuring this field, billing will no longer occur upon authorization and will begin after the number of days defined by the customer.
 
-<ul> 
-5. Click on **Save**.
-  </ul>
+5. Click on `Save`.
 
 ## Setting up the payment condition
 
