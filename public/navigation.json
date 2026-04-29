@@ -14599,6 +14599,52 @@
             },
             {
               "name": {
+                "en": "Integração com a Shopee",
+                "es": "Integração com a Shopee",
+                "pt": "Integração com a Shopee"
+              },
+              "slug": {
+                "en": "integracao-com-a-shopee",
+                "es": "integracao-com-a-shopee",
+                "pt": "integracao-com-a-shopee"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "1. Estratégia de envio: logística do vendedor Shopee",
+                    "en": "1. Estratégia de envio: logística do vendedor Shopee",
+                    "es": "1. Estratégia de envio: logística do vendedor Shopee"
+                  },
+                  "slug": {
+                    "pt": "logistica-do-vendedor-shopee",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "pt": "2. Estratégia de envio: Shopee full logistics",
+                    "en": "2. Estratégia de envio: Shopee full logistics",
+                    "es": "2. Estratégia de envio: Shopee full logistics"
+                  },
+                  "slug": {
+                    "pt": "shopee-full-logistics",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Wish integration",
                 "es": "Integración con Wish",
                 "pt": "Integração com a Wish"
@@ -50518,6 +50564,21 @@
             },
             {
               "name": {
+                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
+                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
+                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
+              },
+              "slug": {
+                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product page sessions not working",
                 "es": "Las sesiones de las páginas de productos no funcionan",
                 "pt": "As sessões da página do produto não estão funcionando"
@@ -52186,6 +52247,21 @@
             },
             {
               "name": {
+                "en": "Product indexing may show a high delay in Indexing History",
+                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
+                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
+              },
+              "slug": {
+                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
+                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
+                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product search by ID fields not working for uppercase characters",
                 "es": "La búsqueda de productos por campos ID no funciona para caracteres en mayúsculas",
                 "pt": "A pesquisa de produtos por campos de ID não funciona com caracteres maiúsculos"
@@ -52983,7 +53059,7 @@
           "children": [
             {
               "name": {
-                "en": "'Logistics inventory full access' permission did not work as expected",
+                "en": "\"Logistics inventory full access\" permission did not work as expected",
                 "es": "El permiso de 'acceso total al inventario de logística' no funcionó como se esperaba",
                 "pt": "A permissão de 'acesso total ao inventário logístico' não funcionou como esperado"
               },
@@ -53104,12 +53180,12 @@
             {
               "name": {
                 "en": "Delivery Capacity as (zero) Orders, allowing schedule Carrier at Checkout",
-                "es": "Capacidad de entrega como (cero) Pedidos, permitiendo programar al Transportista en la Caja",
+                "es": "Capacidad de entrega con (cero) pedidos, lo que permite seleccionar el transportista al finalizar la compra",
                 "pt": "Capacidade de entrega como (zero) pedidos, permitindo o transporte de horários no checkout"
               },
               "slug": {
                 "en": "delivery-capacity-as-zero-orders-allowing-schedule-carrier-at-checkout",
-                "es": "capacidad-de-entrega-como-cero-pedidos-permitiendo-programar-al-transportista-en-la-caja",
+                "es": "capacidad-de-entrega-con-cero-pedidos-lo-que-permite-seleccionar-el-transportista-al-finalizar-la-compra",
                 "pt": "capacidade-de-entrega-como-zero-pedidos-permitindo-o-transporte-de-horarios-no-checkout"
               },
               "origin": "",
@@ -53614,13 +53690,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona para una base de sku muy grande (StatusCode: 429)",
-                "pt": "A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)"
+                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
+                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429"
+                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
               },
               "origin": "",
               "type": "markdown",
@@ -53666,21 +53742,6 @@
                 "en": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
                 "es": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
                 "pt": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Timeout in the query to Analytics preventing to check the inventory log",
-                "es": "Tiempo de espera en la consulta a Analytics que impide comprobar el registro de inventario",
-                "pt": "Tempo limite na consulta para que o Analytics impeça a verificação do registro de inventário"
-              },
-              "slug": {
-                "en": "timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log",
-                "es": "tiempo-de-espera-en-la-consulta-a-analytics-que-impide-comprobar-el-registro-de-inventario",
-                "pt": "tempo-limite-na-consulta-para-que-o-analytics-impeca-a-verificacao-do-registro-de-inventario"
               },
               "origin": "",
               "type": "markdown",
@@ -61436,6 +61497,21 @@
             },
             {
               "name": {
+                "en": "Transaction error caused by BIN validation mismatch in payment rules",
+                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
+                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+              },
+              "slug": {
+                "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
+                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction gets cancelled after reverting from Authorized to Started",
                 "es": "La transacción se cancela tras pasar de Autorizada a Iniciada",
                 "pt": "A transação é cancelada após ser revertida de Autorizada para Iniciada"
@@ -64179,6 +64255,21 @@
                 "en": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
                 "es": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
                 "pt": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Incorrect \"coupon expired\" messaged displayed in the checkout when using a promotion that \"isArchived\" = true",
+                "es": "Aparece un mensaje erróneo de «cupón caducado» en la página de pago al utilizar una promoción cuyo valor «isArchived» es «true»",
+                "pt": "Mensagem incorreta \"cupom expirado\" exibida na finalização da compra ao usar uma promoção cujo atributo \"isArchived\" = true"
+              },
+              "slug": {
+                "en": "incorrect-coupon-expired-messaged-displayed-in-the-checkout-when-using-a-promotion-that-isarchived-true",
+                "es": "aparece-un-mensaje-erroneo-de-cupon-caducado-en-la-pagina-de-pago-al-utilizar-una-promocion-cuyo-valor-isarchived-es-true",
+                "pt": "mensagem-incorreta-cupom-expirado-exibida-na-finalizacao-da-compra-ao-usar-uma-promocao-cujo-atributo-isarchived-true"
               },
               "origin": "",
               "type": "markdown",
