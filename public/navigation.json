@@ -132,6 +132,37 @@
             },
             {
               "name": {
+                "en": "Abril",
+                "es": "Abril",
+                "pt": "Abril"
+              },
+              "slug": {
+                "en": "abril",
+                "es": "abril",
+                "pt": "2026-abril"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Capacidade operacional disponível globalmente",
+                    "en": "Capacidade operacional disponível globalmente",
+                    "es": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "pt": "2026-04-29-capacidade-operacional-disponivel-em-ga",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "February",
                 "es": "Febrero",
                 "pt": "Fevereiro"
