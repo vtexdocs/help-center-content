@@ -60,7 +60,7 @@ Quando faltar sete dias para expirar a autorização, o aplicativo da Shopee no 
 
 Com o app **3.x**, o processo de reautenticação funciona assim:
 
-1. Clique no botão `Autenticar integração`.
+1. Clique no botão `Reautenticar`.
 2. Faça login na tela da Shopee que aparecerá.
 3. Retorne à página do aplicativo no Admin VTEX.
 
