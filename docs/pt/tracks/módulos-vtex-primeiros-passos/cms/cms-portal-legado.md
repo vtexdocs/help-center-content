@@ -62,9 +62,6 @@ As demais pastas não são obrigatórias. São apenas sugestões por serem impor
 
 - `/account`: conta do cliente
 - `/account/orders`: pedidos do cliente
-
-  > ℹ️ Tanto `/account` quanto `/account/orders` são pastas privadas. Por isso, ambas requerem autenticação. Veja no artigo [Exigir autenticação em páginas da loja](/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como configurar as páginas da loja para exigir autenticação do usuário.
-
 - `/sistema/buscavazia`: pasta para a qual o usuário é direcionado caso a busca não retorne resultados.
 - `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erro conforme os códigos de status HTTP, como 404 (página não encontrada), 401 (não autorizado) e 500 (erro de servidor).
 - `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizados com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas igual à pasta de busca. Para entender como funcionam as páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
@@ -91,4 +88,4 @@ Para utilizar um controle, inclua a tag no ponto desejado do HTML do template. O
 
 - **[Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
-- **[Configurações da Loja - Storefront](/pt/docs/tutorials/configura%C3%A7%C3%B5es-da-loja---storefront-subcategoria):** Configure definições gerais do seu storefront, como metadados, tags de SEO, tipos de arquivos, dimensões de imagens e regiões geográficas onde seus produtos estão disponíveis.
+- **[Configurações da Loja - Storefront](/pt/docs/tutorials/configurações-da-loja---storefront-subcategoria	):** Configure definições gerais do seu storefront, como metadados, tags de SEO, tipos de arquivos, dimensões de imagens e regiões geográficas onde seus produtos estão disponíveis.
