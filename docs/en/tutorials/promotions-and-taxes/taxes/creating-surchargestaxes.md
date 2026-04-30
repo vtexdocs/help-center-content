@@ -52,7 +52,7 @@ The surcharge is applied in accordance with the registration done on the seller.
 - **Aggregate value of purchases**: the surcharge will be applied if the total of all purchases previously made by the customer meets this minimum.
 - **Marketing Tags**: field used to restrict the activation of the campaign if the purchase is made by the VTEX recurrence system.
 - **Affiliates**: marketplace order identifier
-- **Customer cluster**: the surcharge will be applied if the customer is registered in the selected cluster.
+- **Customer cluster**: The surcharge will be applied if the customer is registered in the selected cluster.
 - **Shipping to postal code should**: The surcharge will be applied where the postal code meets the rule configured.
 - **Shipping Method**: the surcharge will be applied if the type of shipping is as registered.
 - **Payment method**: the tax is applied if the payment method selected at checkout matches the payment method configured in the tax.
