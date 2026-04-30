@@ -8,7 +8,7 @@ contentType: updates
 productTeam: Post-purchase
 slugEN: 2026-04-29-operational-capacity-now-in-ga
 locale: pt
-announcementSynopsisPT: 'O módulo Capacidade operacional, antes em fase Beta, agora está em General Availability (GA) e disponível para todas as lojas VTEX.'
+announcementSynopsisPT: 'O módulo Capacidade operacional, antes em fase Beta, agora está disponível para todas as lojas VTEX.'
 tags:
   - Nova funcionalidade
   - Logística
