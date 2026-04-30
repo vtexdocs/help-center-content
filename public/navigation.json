@@ -23157,8 +23157,8 @@
                 },
                 {
                   "name": {
-                    "en": "Insert reverse proxy in front of VTEX services",
-                    "es": "​​Insertar un proxy inverso delante de los servicios de VTEX",
+                    "en": "Inserting a reverse proxy in front of VTEX services",
+                    "es": "Insertar un proxy inverso delante de los servicios de VTEX",
                     "pt": "Inserir um proxy reverso em frente aos serviços da VTEX"
                   },
                   "slug": {
