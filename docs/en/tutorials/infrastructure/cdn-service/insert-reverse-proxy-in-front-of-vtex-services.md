@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-> ❗  This guide addresses a practice that is **not recommended** for most stores and should only be applied in extreme cases.   Implementing a reverse proxy replaces all perimeter services (CDN) managed and optimized by VTEX.  This means that the store will be responsible for effective site provisioning, including configuring, monitoring, and managing aspects such as header passing, cookies, and caching. VTEX doesn't provide support or documentation for this specific configuration and is not responsible for any issues that may arise.   VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore, the solution is **not** covered under our SLA agreements.
+> ❗ This guide addresses a practice that is **not recommended** for most stores and should only be applied in extreme cases. Implementing a reverse proxy replaces all perimeter services (CDN) managed and optimized by VTEX. This means that the store will be responsible for effective site provisioning, including configuring, monitoring, and managing aspects such as header passing, cookies, and caching. VTEX doesn't provide support or documentation for this specific configuration and is not responsible for any issues that may arise. VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore, the solution is **not** covered under our SLA agreements.
 
 To point your own CDN to the VTEX CDN, you need to insert a reverse proxy in front of VTEX services. The traffic flow follows this path:
 
@@ -99,4 +99,4 @@ If you prefer not to rely on the automatic validation of Let's Encrypt, there ar
 - The merchant issues the certificate with their preferred CA (example: DigiCert, GlobalSign) and uploads it using the [Custom SSL certificates](https://help.vtex.com/docs/tutorials/custom-ssl-certificates) feature available in [VTEX Shield](https://help.vtex.com/docs/tutorials/vtex-shield).
 - In this model, there is no ACME/Let's Encrypt flow on VTEX, so the proxy doesn't interfere with generating the certificate. You only need to ensure timely renewal and a new upload.
 
-> ⚠️ VTEX only provides navigation if: <ul> <li>There is a TXT record configured correctly.</li> <li>SSL certificates can be issued and renewed for the host.</li> </ul>  If both conditions are not met, navigation will fail, and the site will be down.
+> ⚠️ VTEX only provides navigation if: <ul><li>There is a TXT record configured correctly.</li><li>SSL certificates can be issued and renewed for the host.</li></ul>If both conditions are not met, navigation will fail, and the site will be down.

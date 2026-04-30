@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-> ❗  Esta guía aborda una práctica **no recomendada** para la mayoría de las tiendas y que solo debe aplicarse en casos excepcionales.   Implementar un proxy inverso significa sustituir todos los servicios perimetrales (CDN) gestionados y optimizados por VTEX. Esto significa que la tienda será responsable por mantener efectivamente el sitio web, incluyendo configuración, monitoreo y gestión de aspectos como el paso de encabezados, cookies y la caché. VTEX no ofrece soporte o documentación para esas configuraciones específicas y no se hace responsable por los problemas que puedan surgir.   VTEX no se hace responsable por problemas en ese sistema, ya sea en una CDN propia, un servicio de WAF u otro recurso que esté delante de nuestros servidores. No tenemos visibilidad de la operación y, por lo tanto, la solución **no** entra en nuestros acuerdos de SLA.
+> ❗ Esta guía aborda una práctica **no recomendada** para la mayoría de las tiendas y que solo debe aplicarse en casos excepcionales. Implementar un proxy inverso significa sustituir todos los servicios perimetrales (CDN) gestionados y optimizados por VTEX. Esto significa que la tienda será responsable por mantener efectivamente el sitio web, incluyendo configuración, monitoreo y gestión de aspectos como el paso de encabezados, cookies y la caché. VTEX no ofrece soporte o documentación para esas configuraciones específicas y no se hace responsable por los problemas que puedan surgir. VTEX no se hace responsable por problemas en ese sistema, ya sea en una CDN propia, un servicio de WAF u otro recurso que esté delante de nuestros servidores. No tenemos visibilidad de la operación y, por lo tanto, la solución **no** entra en nuestros acuerdos de SLA.
 
 Para apuntar tu propia CDN a la CDN de VTEX, debes insertar un proxy inverso delante de los servicios de VTEX. El flujo de tráfico seguirá el orden a continuación:
 
@@ -96,7 +96,7 @@ Si prefieres no depender de la validación automática de Let's Encrypt, hay dos
 
 #### Migrar a un certificado personalizado (VTEX Shield)
 
-- El retailer emite el certificado con su CA preferida (por ejemplo, DigiCert, GlobalSign) y lo carga utilizando la funcionalidad de [Certificados SSL personalizados](https://help.vtex.com/pt/docs/tutorials/certificados-ssl-customizados) disponible en [VTEX Shield](https://help.vtex.com/pt/docs/tutorials/vtex-shield).
+- El retailer emite el certificado con su CA preferida (por ejemplo, DigiCert, GlobalSign) y lo carga utilizando la funcionalidad de [Certificados SSL personalizados](https://help.vtex.com/es/docs/tutorials/certificados-ssl-personalizados) disponible en [VTEX Shield](https://help.vtex.com/es/docs/tutorials/vtex-shield).
 - En este modelo no hay flujo ACME/Let's Encrypt dentro de VTEX, por lo que el proxy no interfiere en la generación del certificado. Solamente es necesario garantizar su renovación y volver a cargarlo cuando corresponda.
 
-> ⚠️ VTEX solo habilita la navegación si:  <ul> <li>Hay un registro TXT configurado correctamente.</li> <li>Es posible emitir y renovar certificados SSL para el host.</li> </ul>  Si no se cumplen ambas condiciones, la navegación no funcionará y el sitio web quedará offline.
+> ⚠️ VTEX solo habilita la navegación si: <ul><li>Hay un registro TXT configurado correctamente.</li><li>Es posible emitir y renovar certificados SSL para el host.</li></ul> Si no se cumplen ambas condiciones, la navegación no funcionará y el sitio web quedará offline.
