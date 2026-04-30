@@ -21,7 +21,7 @@ This article answers frequently asked questions about **VTEX Sales App**, divide
 
 **[Account architecture](#account-architecture):**
 
-  [1 - How many trade policies can be used in VTEX Sales App?](#1-how-many-trade-policies-can-be-used-in-vtex-sales-app)
+  [1 - How many sales channels can be used in VTEX Sales App?](#1-how-many-trade-policies-can-be-used-in-vtex-sales-app)
 
   [2 - Are there any account architecture conditions required to use VTEX Sales App, such as franchise accounts or white label sellers?](#2-are-there-any-account-architecture-conditions-required-to-use-vtex-sales-app-such-as-franchise-accounts-or-white-label-sellers)
 
@@ -67,9 +67,9 @@ This article answers frequently asked questions about **VTEX Sales App**, divide
 
 ## Account architecture
 
-### 1. How many trade policies can be used in VTEX Sales App?
+### 1. How many sales channels can be used in VTEX Sales App?
 
-**VTEX Sales App** supports a single [trade policy](/en/docs/tutorials/how-trade-policies-work). Merchants can choose to use their main trade policy or [request an additional one](/en/docs/tutorials/requesting-an-additional-trade-policy).
+**VTEX Sales App** supports a single [sales channel](/en/docs/tutorials/how-trade-policies-work). Merchants can choose to use their main sales channel or [request an additional one](/en/docs/tutorials/requesting-an-additional-trade-policy).
 
 ### 2. Are there any account architecture conditions required to use VTEX Sales App, such as franchise accounts or white label sellers?
 
@@ -80,7 +80,7 @@ Some **VTEX Sales App** features require specific architectural configurations:
     * The store can use franchise accounts or [white label sellers](/en/docs/tutorials/white-label-seller).
     * The store can operate with a [multi-store architecture](/en/docs/tutorials/choosing-between-a-multistore-architecture-or-an-additional-environment) to manage multiple warehouses.
 
-Merchants looking to offer a large inventory and optimize delivery logistics can use the same trade policy as the distribution center in **VTEX Sales App**.
+Merchants looking to offer a large inventory and optimize delivery logistics can use the same sales channel as the distribution center in **VTEX Sales App**.
 
 > ℹ️ Learn more in the article [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app).
 

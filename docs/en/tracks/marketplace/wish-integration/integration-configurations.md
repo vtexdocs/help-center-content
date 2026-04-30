@@ -18,10 +18,10 @@ order: 5
 
 The following steps must be implemented in the app:
 
-## Setting the trade policy
+## Setting the sales channel
 
-1. Using the selector, you'll need to define which trade policy will be used with Wish  ([preset during step 2](/en/tracks/configure-wish-integration--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H))
-2. After selecting the trade policy, click on "Continue".
+1. Using the selector, you'll need to define which sales channel will be used with Wish  ([preset during step 2](/en/tracks/configure-wish-integration--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H))
+2. After selecting the sales channel, click on "Continue".
  
 ## Shipping configurations
 
@@ -59,9 +59,9 @@ _Ex: The set rate is 10%. The original order value should be U$ 100, but it came
 
 ## Currency conversion
 
-**Wish requires product prices and shipping rates to be sent in USD.** Both the shipping table as well as the VTEX pricing module infer the currency from the trade policy being used. 
+**Wish requires product prices and shipping rates to be sent in USD.** Both the shipping table as well as the VTEX pricing module infer the currency from the sales channel being used. 
 
-As previously indicated in step [passo 2.1](/en/docs/tracks/what-to-configure-with-vtex-before-starting-the-integration), our trade policy uses BRL (R$). Therefore, the following steps must be followed in order to convert to USD:
+As previously indicated in step [passo 2.1](/en/docs/tracks/what-to-configure-with-vtex-before-starting-the-integration), our sales channel uses BRL (R$). Therefore, the following steps must be followed in order to convert to USD:
 
 In the `"Dollar quotation (USD)"`, fill in the exchange from (R$) to dollar (US$).
 

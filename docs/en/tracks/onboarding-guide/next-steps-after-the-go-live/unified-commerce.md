@@ -31,7 +31,7 @@ Other advantages of working with franchise accounts are listed below:
 
 - Better management and resource scalability by adding loading docks and warehouses for each store.
 
-- Management of specific promotions per account without requesting a new [trade policy](/en/docs/tutorials/how-trade-policies-work).
+- Management of specific promotions per account without requesting a new [sales channel](/en/docs/tutorials/how-trade-policies-work).
 
 - Payment can be made in the main or franchise account environment ([split payment](/en/docs/tutorials/split-payment)/order).
 

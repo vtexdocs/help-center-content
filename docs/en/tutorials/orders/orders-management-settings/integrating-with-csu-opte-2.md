@@ -33,7 +33,7 @@ After configuring the sales policy and logistics, you must create an affiliate, 
 3. Fill in the fields in the modal window according to the descriptions below, then click `Save`.
     - **Name:** Name of affiliate/marketplace.
     - **ID:** Identification code for the affiliate with three characters. CSU requires an affiliate to be created for each channel, i.e. one for the CSU marketplace, one for the loyalty program of each CSU client and one for each corporate shopping platform. Contact CSU for a list of all the company’s sites, so that you can create the affiliates as CSU requires. For the CSU marketplace, the code is **PTM** (Optemais Marketplace). For the marketplace loyalty program, the code is **PSS** (Passaporte).
-    - **Trade Policy:** Sales policy id defining the selection of products to be displayed in the marketplace. CSU suggests using the same sales policy as for your own site.
+    - **Sales Channel:** Sales policy id defining the selection of products to be displayed in the marketplace. CSU suggests using the same sales policy as for your own site.
     - **Email for notifications:** Email address to receive any notifications of conflict in integrating orders.
     - **Search endpoint:** This will be the same for the various CSU marketplaces: http://stage.optemais.com.br/Notificacao/Vtex/Sku.
     - **Search endpoint version:** 1.x.x.

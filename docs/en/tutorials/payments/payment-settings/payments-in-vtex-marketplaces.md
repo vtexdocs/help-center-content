@@ -60,7 +60,7 @@ To finish configuring a marketplace as the payment processor, when [Configuring 
 
 For the seller's system to process payments, the seller needs to access the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) section in the VTEX environment and configure the steps described in this article. This option also applies to physical stores registered as white label sellers.
 
-- [Trade policies for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
+- [Sales channels for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
 - [Payment providers](https://help.vtex.com/docs/tracks/configuring-payment-connectors)
 - [Payment conditions](/en/docs/tracks/configuring-a-payment-condition)
 - [Anti-fraud solution](/en/docs/tutorials/how-to-configure-the-anti-fraud)

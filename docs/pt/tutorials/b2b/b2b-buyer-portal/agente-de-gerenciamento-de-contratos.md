@@ -1,14 +1,14 @@
 ---
 title: 'Agente de Gerenciamento de Contratos'
 createdAt: 2026-03-06T00:00:00.000Z
-updatedAt: 2026-03-06T00:00:00.000Z
+updatedAt: 2026-04-02T00:00:00.000Z
 contentType: tutorial
 productTeam: B2B
-slugEN: contracts-manager-agent
+slugEN: contract-manager-agent
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 O **Agente de Gerenciamento de Contratos** ajuda operadores B2B a gerenciar [contratos](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt) usando linguagem natural. Em vez de atualizar manualmente cada contrato, você pode descrever o que deseja alterar, revisar o plano proposto e executá-lo diretamente pela interface.
 

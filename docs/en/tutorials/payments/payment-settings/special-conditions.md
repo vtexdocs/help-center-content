@@ -87,16 +87,16 @@ In this case, the total cart value is U$ 10,000, with the TVs representing 60% o
 
 You can configure many other scenarios depending on your store’s needs and how payment conditions are combined with commercial conditions.
 
-## Trade policy
+## Sales channel
 
-Allows a payment condition to be applied to a specific trade policy, or as many as you need to configure. Remembering that, if this field is not configured, the condition will be presented in all the store's trade policies.
+Allows a payment condition to be applied to a specific sales channel, or as many as you need to configure. Remembering that, if this field is not configured, the condition will be presented in all the store's sales channels.
 
-### How to configure a trade policy for the payment condition
+### How to configure a sales channel for the payment condition
 
 ![politica-comercial en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/special-conditions_3.png)
 
 1. Inside Payment Conditions, click on `Add special condition`.
-2. Then, click on `Trade Policy (Sales Channel)`.
+2. Then, click on `Sales Channel (Sales Channel)`.
 3. Select the desired policies.
 4. Save changes.
 

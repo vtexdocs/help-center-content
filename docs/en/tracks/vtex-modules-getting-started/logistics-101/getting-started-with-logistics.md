@@ -20,7 +20,7 @@ The **Inventory & shipping** module is where you set up the logistics of your VT
 
 This article is the first in a series of five articles for getting started with logistics in your store. The series contains essential information to help you understand logistics in VTEX stores and how settings are structured on the platform.
 
-> ❗ Before setting up your store logistics, please configure the following: <body> <ol> <li>[Trade policy</li>](/en/docs/tutorials/creating-a-trade-policy) <li>[Catalog</li>](/en/docs/tracks/catalog-concept-definition) <li>[Prices</li>](/en/docs/tracks/prices-module-overview) </ol> </body>
+> ❗ Before setting up your store logistics, please configure the following: <body> <ol> <li>[Sales channel</li>](/en/docs/tutorials/creating-a-trade-policy) <li>[Catalog</li>](/en/docs/tracks/catalog-concept-definition) <li>[Prices</li>](/en/docs/tracks/prices-module-overview) </ol> </body>
 
 This walkthrough brings together the following articles:
 

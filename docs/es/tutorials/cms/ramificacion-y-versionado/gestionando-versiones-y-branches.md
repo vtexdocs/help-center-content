@@ -13,6 +13,11 @@ Al trabajar con contenido en el CMS, los cambios ocurren con frecuencia, ya sea 
 * **[Versiones](#versiones)** te permiten preparar cambios para el futuro, rastrear ediciones, revisar estados anteriores del contenido y restaurar versiones anteriores cuando sea necesario.
 * **[Ramas](#ramas)** te permiten agrupar múltiples versiones de páginas para colaborar y evolucionar tu contenido antes de publicarlo en la tienda.
 
+<video controls width="100%">
+  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/cms-branches-update/docs/es/tutorials/cms/ramificacion-y-versionado/Branches_es.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 En esta guía, aprende cómo usar versiones y ramas para rastrear cambios de contenido, realizar pruebas de forma segura, restaurar contenido anterior y gestionar flujos de trabajo de publicación.
 
 ## Versiones

@@ -1,5 +1,5 @@
 ---
-title: 'Creating a trade policy'
+title: 'Creating a sales channel (sales channel)'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z
@@ -15,29 +15,52 @@ locale: en
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-On VTEX, you can use [trade policies](/en/docs/tutorials/how-trade-policies-work) to group catalog, price, promotion, inventory, shipping logistics, and payment settings for different sales channels. Sales channels include marketplaces, ecommerce websites, physical stores, or B2B stores, for example.  
+[Sales channels (sales channels)](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial) are used on VTEX to group catalog, pricing, promotion, inventory, logistics, customer segmentation, and payment settings. Channels can include marketplaces, your own ecommerce site, physical stores, or B2B stores.
 
-> ❗ By default, new trade policies are applied to all active sellers. If you wish to apply them only to a specific group of sellers, please specify that in the ticket.
+Managing sales channels
 
-## Manage trade policies
+The Sales channels section of your Admin displays a table with all existing sales channels. You can also filter results, search by keyword, and sort all sales channels in the table. The sales channel ID is automatically determined by the system based on the chronological order in which new sales channels are created.
 
-The **Trade policies** section of the Admin features a list of all the trade policies added to your store. You can filter the results, search by keyword, and sort your store’s trade policies. The trade policy ID is automatically determined by the system based on the chronological order of creation.
+To define the logistics settings applied to this sales channel, you need to [create or edit a loading dock](https://help.vtex.com/docs/tutorials/managing-loading-docks) related to the desired carriers and enter the sales channel ID in the form.
 
-To define the logistics settings applied to this trade policy, you must [create or edit a loading dock](/en/docs/tutorials/managing-loading-docks), related to the carriers of your choice, by entering the ID of the trade policy on the page for adding/editing loading docks.
+To use the same catalog in more than one sales channel, see the [Associate product with sales channel](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-) documentation.
 
-To use the same catalog in more than one trade policy, access the
-[Associate Product with Trade Policy](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-) documentation.
+## Adding a sales channel
 
-## Request a trade policy
+To add a new sales channel, go to the VTEX Admin. If you have the Owner (admin) role, you can create new sales channels directly in the interface.
 
-To [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through [VTEX Support](https://supporticket.vtex.com/support) by selecting **Commercial** and `Create a trade policy`. When requesting the creation of a trade policy via ticket, consider a response time of up to three business days.
+All create actions are logged in the Admin audit logs, which allows you to identify who performed the action. For more information, see [Understanding the Security report](https://help.vtex.com/docs/tutorials/understanding-the-security-report).
 
-> ℹ️ A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.
+> ℹ️ Creating a new sales channel may generate additional costs as stipulated in the client contract. If you have any questions, check your contract or contact [VTEX Support](https://supporticket.vtex.com/support).
 
-## Learn more
+To add a sales channel, follow these steps:
 
-- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)  
-- [Trade policy for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
-- [Requesting an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy)
+1. In the VTEX Admin, go to **Store Settings \> Channels \> Sales channels** or type **Sales channels** in the search bar.  
+2. Click New sales channel.  
+3. Review the information displayed in the notification and confirm to proceed.  
+4. Complete the sales channel fields:
+
+| Field | Description |
+| :---- | :---- |
+| **Name:** | Internal identification name for the sales channel. |
+| **Collection:** | This field has been deprecated and is not available for use. |
+| **Sellers:** | Defines the sellers associated with the sales channel. If no seller is selected, all sellers from the account will be considered by default. |
+| **Currency code:** | Currency code used in the sales channel, such as USD or EUR. This field is used for price internationalization. When the user's **locale** doesn't match the currency of the sales channel, prices are shown with the ISO currency code instead of the local symbol. |
+| **Currency symbol:** | Symbol of the currency, such as $ or €. It is displayed to users whose **locale** matches the one set in the sales channel. If left blank, the system uses the default symbol of the selected currency code. |
+| **Currency decimal places:** | Number of decimal places for the currency. Use this field only to override the default defined by ISO standards. If left blank, the system uses the default of the selected currency code. |
+| **Country code:** | Country associated with the sales channel. |
+| **Locale:** | Language and region of the sales channel, such as en-US. This field is used together with **Currency code** for price internationalization. |
+| **Time zone:** | Time zone of the sales channel. |
+| **Active?:** | Defines whether the sales channel is active. |
+| **Conditional rule:** | Optional field that allows restricting the sales channel to specific customers based on Master Data information. If you add one, only users who meet the defined condition have access to the sales channel. For example, isPremium=true applies the sales channel only to customers marked as premium. Leave the field blank if you don't want to restrict access. |
+| **Inherit sales channel catalog:** | Allows inheriting the catalog from another existing sales channel. |
+
+5. Click `Save`.
+
+Learn more
+
+- [How sales channels work](/en/docs/tutorials/how-trade-policies-work)  
+- [Sales channel for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
+- [Requesting an additional sales channel](/en/docs/tutorials/requesting-an-additional-trade-policy)  
 - [Adding a loading dock](/en/docs/tutorials/managing-loading-docks)
 

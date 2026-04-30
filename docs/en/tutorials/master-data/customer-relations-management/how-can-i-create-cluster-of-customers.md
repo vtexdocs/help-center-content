@@ -1,42 +1,34 @@
 ---
 title: 'Create a cluster of customers'
-id: frequentlyAskedQuestions_1724
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:58.065Z
-updatedAt: 2024-08-12T16:09:00.345Z
-publishedAt: 2024-08-12T16:09:00.345Z
-firstPublishedAt: 2019-01-24T22:05:41.666Z
+updatedAt: 2026-04-09T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: authors_84
 slugEN: how-can-i-create-cluster-of-customers
-legacySlug: how-can-i-create-cluster-of-customers
 locale: en
-subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 
-Creating a cluster of customers is the same as segmenting them. These two approaches give the storeowner a better idea of the customer’s profile, and enable you to be more proactive in dealing with this user.
+A customer cluster is a way to segment customers into groups. This can be achieved by creating a boolean field in **Master Data** (e.g., `Resellers`, `VIP`, `Employees`). Customers marked as `true` for that field belong to the cluster, while the rest don't. Once created, you can use clusters to target specific customer segments with exclusive promotions, personalized campaigns, or tailored experiences.
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+> ℹ️ This article covers Master Data v1. Learn more about [Master Data versions](/en/docs/tutorials/master-data#versions-available) and [Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics).
 
-These details, once obtained, are very useful for the company’s marketing and advertising. Each store can define its own clusters and the rules for a customer to be included in each of them.
+## Creating a customer cluster field
 
-The purpose of this article is to show how to configure your CRM to create a cluster.
+Follow the steps below to create a customer cluster:
 
-<ol start="1">
-    <li>The first step is to create a field in MasterData with the name of the desired cluster. Example: Resellers. This way, customers who are resellers will be highlighted, receiving an exclusive promotion, for example. [Access our manual on how to create a field.](/en/tutorial/como-crio-um-campo-no-master-data)</li>
-</ol>
+1. In the VTEX Admin, go to **Master Data**.
+2. Create a new boolean field in the customer (`CL`) data entity with the name of the desired cluster (e.g., `Resellers`, `VIP`, `Wholesale`). See [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data) for details.
+3. Set the field as **searchable** and **filterable**. This is required for the cluster to work correctly with promotions.
+4. Add the field to the customer form so it becomes visible when viewing customer data. See [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data) for details.
 
-> ℹ️ For a cluster to work correctly in a promotion, define the newly created custom field as **searchable** and **filterable** in MasterData.
+## Populating the cluster
 
-<ol start="2">
-    <li>The second step is to create this field in the form so that it is possible to view the data. [For that, see our manual.](/en/tutorial/como-crio-um-campo-no-master-data)</li>
-</ol>
+After creating the cluster field, you need to set it to `true` for each customer you want to include in the cluster. You can do this using one of the following methods:
 
-So technically, a cluster in CRM is nothing more than a field.
-
-To populate this field you can use an [import worksheet](/en/docs/tutorials/importing-data-into-master-data-v1) or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
+- **Spreadsheet import:** Use the [Master Data v1 import feature](/en/docs/tutorials/importing-data-into-master-data-v1) to bulk-assign customers.
+- **API:** Update customer records programmatically through the [Master Data API](https://developers.vtex.com/docs/api-reference/masterdata-api).
+- **Manual entry:** Edit individual customer records in the CRM customer form.
 
 ## Learn more
 
-- [Learn how to create a promotion for a cluster](/en/tutorial/creating-promotions-for-a-cluster-of-customers)
+- [Creating promotions for a cluster of customers](/en/docs/tutorials/creating-promotion-for-a-customer-cluster)
