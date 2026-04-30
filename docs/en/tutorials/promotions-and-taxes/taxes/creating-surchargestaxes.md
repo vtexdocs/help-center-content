@@ -54,7 +54,7 @@ The surcharge is applied in accordance with the registration done on the seller.
 - **Affiliates**: Marketplace order identifier
 - **Customer cluster**: The surcharge will be applied if the customer is registered in the selected cluster.
 - **Shipping to postal code should**: The surcharge will be applied where the postal code meets the rule configured.
-- **Shipping Method**: the surcharge will be applied if the type of shipping is as registered.
+- **Shipping Method**: The surcharge will be applied if the type of shipping is as registered.
 - **Payment method**: Tax will be  applied if the payment method selected at checkout matches the payment method configured for tax purposes.
 
 ## Scheduling
