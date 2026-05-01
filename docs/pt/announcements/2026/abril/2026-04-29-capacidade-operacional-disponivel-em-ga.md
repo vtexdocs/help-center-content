@@ -24,7 +24,7 @@ Anteriormente disponível apenas em fase Beta, a funcionalidade Capacidade opera
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária, pois as lojas VTEX de todas as regiões já foram migradas para a versão GA. Para começar a usar a funcionalidade, basta habilitar o módulo no Admin VTEX em **Envio > Capacidade operacional**.
+Nenhuma ação é necessária, pois as lojas VTEX de todas as regiões já foram migradas para a versão disponível globalmente. Para começar a usar a funcionalidade, habilite o módulo no Admin VTEX em **Envio > Capacidade operacional**.
 
 > ⚠️ O requisito para usar a funcionalidade é ter [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) associadas à [conta principal](/pt/tracks/contas-e-arquitetura#tipos-de-conta-na-vtex).
 
