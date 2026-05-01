@@ -28,4 +28,4 @@ Nenhuma ação é necessária, pois as lojas VTEX de todas as regiões já foram
 
 > ⚠️ O requisito para usar a funcionalidade é ter [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) associadas à [conta principal](/pt/tracks/contas-e-arquitetura#tipos-de-conta-na-vtex).
 
-Para mais detalhes sobre essa funcionalidade, consulte o artigo [Capacidade operacional](/pt/docs/tutorials/capacidade-operacional).
+Para mais detalhes, consulte o artigo [Capacidade operacional](/pt/docs/tutorials/capacidade-operacional).
