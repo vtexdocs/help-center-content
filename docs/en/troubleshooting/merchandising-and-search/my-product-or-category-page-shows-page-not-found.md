@@ -1,9 +1,9 @@
 ---
 title: "My product or category page shows 'Page Not Found'"
-id: EDU-12986
-status: DRAFT
-createdAt: 2026-03-13T00:00:00.000Z
-updatedAt: 2026-03-13T00:00:00.000Z
+id:
+status: PUBLISHED
+createdAt: 2026-04-30T00:00:00.000Z
+updatedAt: 2026-04-30T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial

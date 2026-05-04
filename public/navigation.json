@@ -15884,6 +15884,21 @@
             },
             {
               "name": {
+                "en": "My product or category page shows 'Page Not Found'",
+                "es": "Mi página de producto o de categoría muestra 'Página no encontrada'",
+                "pt": "Minha página de produto ou categoria exibe 'Página não encontrada'"
+              },
+              "slug": {
+                "en": "my-product-or-category-page-shows-page-not-found",
+                "es": "mi-pagina-de-producto-o-categoria-muestra-pagina-no-encontrada",
+                "pt": "minha-pagina-de-produto-ou-categoria-exibe-pagina-nao-encontrada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "The promotion wasn't applied to the customer cluster",
                 "es": "La promoción no se aplicó al clúster de clientes",
                 "pt": "Promoção não foi aplicada ao cluster de clientes"
@@ -20491,21 +20506,6 @@
                 },
                 {
                   "name": {
-                    "en": "orderForm settings",
-                    "es": "Configuración de orderForm",
-                    "pt": "Configurações do orderForm"
-                  },
-                  "slug": {
-                    "en": "orderform-settings",
-                    "es": "configuracion-de-orderform",
-                    "pt": "configuracoes-do-orderform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up Cart Abandonment (Trigger)",
                     "es": "Configurar carrito abandonado",
                     "pt": "Configurar Carrinho Abandonado"
@@ -23142,8 +23142,8 @@
                 },
                 {
                   "name": {
-                    "en": "Insert reverse proxy in front of VTEX services",
-                    "es": "​​Insertar un proxy inverso delante de los servicios de VTEX",
+                    "en": "Inserting a reverse proxy in front of VTEX services",
+                    "es": "Insertar un proxy inverso delante de los servicios de VTEX",
                     "pt": "Inserir um proxy reverso em frente aos serviços da VTEX"
                   },
                   "slug": {
@@ -42248,6 +42248,21 @@
             },
             {
               "name": {
+                "en": "Product Import Error with Unmodified file",
+                "es": "Error al importar un producto con un archivo sin modificar",
+                "pt": "Erro na importação do produto com arquivo não modificado"
+              },
+              "slug": {
+                "en": "product-import-error-with-unmodified-file",
+                "es": "error-al-importar-un-producto-con-un-archivo-sin-modificar",
+                "pt": "erro-na-importacao-do-produto-com-arquivo-nao-modificado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Insert/Update API allows ' ' in the textLink field.",
                 "es": "La API de inserción/actualización de productos permite ' ' en el campo textLink.",
                 "pt": "A API de Inserção/Atualização de Produto permite ' ' no campo de textoLink."
@@ -49842,6 +49857,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND.",
+                "es": "Mercado Libre Es necesario crear los siguientes atributos para configurar me2: BRAND.",
+                "pt": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND."
+              },
+              "slug": {
+                "en": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
+                "es": "mercado-libre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-brand",
+                "pt": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Remove under_review validation in Update SKU",
                 "es": "Mercado Livre Eliminar validación under_review en Actualizar SKU",
                 "pt": "Mercado Livre Remover a validação under_review em Atualizar SKU"
@@ -53748,21 +53778,6 @@
             },
             {
               "name": {
-                "en": "Timeout in the query to Analytics preventing to check the inventory log",
-                "es": "Tiempo de espera en la consulta a Analytics que impide comprobar el registro de inventario",
-                "pt": "Tempo limite na consulta para que o Analytics impeça a verificação do registro de inventário"
-              },
-              "slug": {
-                "en": "timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log",
-                "es": "tiempo-de-espera-en-la-consulta-a-analytics-que-impide-comprobar-el-registro-de-inventario",
-                "pt": "tempo-limite-na-consulta-para-que-o-analytics-impeca-a-verificacao-do-registro-de-inventario"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Total reservation item with negative value in inventory UI",
                 "es": "Elemento de reserva total con valor negativo en la interfaz de usuario del inventario",
                 "pt": "Total de itens de reserva com valor negativo na interface do usuário do inventário"
@@ -57593,6 +57608,21 @@
             },
             {
               "name": {
+                "en": "Orders stuck in “request-cancel” on marketplace when seller invoices at the same time (cancel vs invoice race condition)",
+                "es": "Los pedidos se quedan bloqueados en el estado «solicitud de cancelación» en el marketplace cuando el vendedor emite la factura al mismo tiempo (condición de carrera entre la cancelación y la factura)",
+                "pt": "Pedidos ficam presos no status “solicitação de cancelamento” no marketplace quando o vendedor emite a fatura ao mesmo tempo (condição de corrida entre cancelamento e faturamento)"
+              },
+              "slug": {
+                "en": "orders-stuck-in-requestcancel-on-marketplace-when-seller-invoices-at-the-same-time-cancel-vs-invoice-race-condition",
+                "es": "los-pedidos-se-quedan-bloqueados-en-el-estado-solicitud-de-cancelacion-en-el-marketplace-cuando-el-vendedor-emite-la-factura-al-mismo-tiempo-condicion-de-carrera-entre-la-cancelacion-y-la-factura",
+                "pt": "pedidos-ficam-presos-no-status-solicitacao-de-cancelamento-no-marketplace-quando-o-vendedor-emite-a-fatura-ao-mesmo-tempo-condicao-de-corrida-entre-cancelamento-e-faturamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders stuck in cancel status in fulfillment, but with Marketplace canceled.",
                 "es": "Pedidos atascados en estado cancelado en cumplimiento, pero con Mercado cancelado.",
                 "pt": "Pedidos presos no status de cancelamento no atendimento, mas com o Marketplace cancelado."
@@ -60177,13 +60207,13 @@
             {
               "name": {
                 "en": "Legacy Catalog Admin Gift Card page shows “Something went wrong” for specific users",
-                "es": "La página de tarjetas regalo del administrador del catálogo heredado muestra el mensaje «Se ha producido un error» para determinados usuarios.",
-                "pt": "A página do cartão-presente do administrador do catálogo antigo exibe a mensagem “Ocorreu um problema” para usuários específicos."
+                "es": "En la página de tarjetas regalo del administrador del catálogo heredado aparece el mensaje «Ha ocurrido un error» para determinados usuarios",
+                "pt": "A página de cartões-presente do Administrador do Catálogo Legado exibe a mensagem “Ocorreu um erro” para usuários específicos"
               },
               "slug": {
                 "en": "legacy-catalog-admin-gift-card-page-shows-something-went-wrong-for-specific-users",
-                "es": "la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-muestra-el-mensaje-se-ha-producido-un-error-para-determinados-usuarios",
-                "pt": "a-pagina-do-cartaopresente-do-administrador-do-catalogo-antigo-exibe-a-mensagem-ocorreu-um-problema-para-usuarios-especificos"
+                "es": "en-la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-aparece-el-mensaje-ha-ocurrido-un-error-para-determinados-usuarios",
+                "pt": "a-pagina-de-cartoespresente-do-administrador-do-catalogo-legado-exibe-a-mensagem-ocorreu-um-erro-para-usuarios-especificos"
               },
               "origin": "",
               "type": "markdown",

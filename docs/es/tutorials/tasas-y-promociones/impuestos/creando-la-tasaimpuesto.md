@@ -3,7 +3,7 @@ title: 'Crear tasa/impuesto'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2025-04-11T16:22:19.619Z
+updatedAt: 2026-04-27T16:22:19.619Z
 publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
@@ -54,7 +54,8 @@ El impuesto se aplica conforme al registro que hará el vendedor. A continuaci�
 - **Afiliados**: identificador de pedidos del marketplace
 - **Cluster de clientes**: el impuestos se aplicará si el cliente se ha registrado en el cluster seleccionado.
 - **El códiogo postal de entrega debe**: el impuesto será aplicado en el caso de que CEP atienda a la regla configurada.
-- **Tipo de carga**: el impuesto se aplicará si el tipo de carga es la misma que la registrada
+- **Tipo de carga**: el impuesto se aplicará si el tipo de carga es la misma que la registrada.
+- **Medio de pago**: el tributo se aplica si el medio de pago seleccionado en el checkout coincide con el medio de pago configurado en el tributo.
 
 ## Programación
 
