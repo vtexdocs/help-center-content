@@ -1,15 +1,11 @@
 ---
 title: 'Pedidos: dados personalizados agora visíveis no Admin VTEX'
-status: PUBLISHED
 createdAt: 2026-05-15T18:30:00.000Z
 updatedAt: 2026-05-15T15:00:00.000Z
-publishedAt: 2026-05-16T15:00:00.000Z
-contentType: updates
 productTeam: Pedidos
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: 2026-05-08-orders-custom-data-now-visible-in-the-vtex-admin
 locale: pt
-announcementSynopsisPT: 'Os dados de campos personalizados e apps são exibidos na tela de pedidos do Admin VTEX'
+announcementSynopsisPT: 'Os dados de campos personalizados e apps são exibidos na tela de pedidos do Admin VTEX.'
 tags:
   - Pedidos
 ---
@@ -26,7 +22,7 @@ Antes, os dados personalizados associados a pedidos no OMS, incluindo campos per
 
 As principais vantagens dessa mudança são:
 
-- Visão completa e rápida de dados personalizados diretamente na interface do Admin VTEX, sem a necessidade de consultas manuais a API.
+- Visão completa e rápida de dados personalizados diretamente na interface do Admin VTEX, sem a necessidade de consultas manuais à API.
 - Melhor visibilidade de informações específicas em um único lugar.
 - Dados exibidos de forma organizada em grupos recolhíveis, facilitando a leitura e a gestão dos pedidos.
 
