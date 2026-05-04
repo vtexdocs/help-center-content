@@ -38,9 +38,7 @@ Ao clicar no componente da extensão do menu, será aberto o modal que fica à e
 
 ## Segurança e estabilidade de extensões
 
-Sendo uma solução nativa, a extensibilidade contribui para a segurança e estabilidade da operação, o que evita comportamentos inesperados e contribui para a estabilidade da operação da sua loja.
-
-No entanto, os pontos de extensão foram desenvolvidos com algumas limitações propositais, tendo em vista os seguintes objetivos:
+Sendo uma solução nativa, a extensibilidade evita comportamentos inesperados e contribui para a segurança e estabilidade da operação da loja. Os pontos de extensão foram desenvolvidos com os seguintes objetivos:
 
 * Desenvolvedores apliquem códigos com segurança.  
 * A aplicação mantenha a estabilidade mesmo com quebras no fluxo customizado.
