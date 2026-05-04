@@ -3,7 +3,7 @@ title: 'Criar taxa/imposto'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2025-04-11T16:22:19.619Z
+updatedAt: 2026-04-27T16:22:19.619Z
 publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
@@ -56,6 +56,7 @@ A taxa é aplicada conforme o cadastro que é feito no seller. Então se no car
 - **Cluster de clientes**: a taxa será aplicada caso o cliente esteja cadastrado no cluster selecionado.
 - **O CEP de entrega deve**: a taxa será aplicada caso o CEP esteja atendendo à regra configurada.
 - **Tipo de frete**: a taxa será aplicada caso o tipo de frete for o mesmo que o cadastrado.
+- **Meio de pagamento**: a taxa será aplicada caso o meio de pagamento escolhido no checkout corresponda ao meio de pagamento configurado na taxa.
 
 ## Agendamento
 
