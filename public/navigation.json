@@ -20537,21 +20537,6 @@
                 },
                 {
                   "name": {
-                    "en": "orderForm settings",
-                    "es": "Configuración de orderForm",
-                    "pt": "Configurações do orderForm"
-                  },
-                  "slug": {
-                    "en": "orderform-settings",
-                    "es": "configuracion-de-orderform",
-                    "pt": "configuracoes-do-orderform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up Cart Abandonment (Trigger)",
                     "es": "Configurar carrito abandonado",
                     "pt": "Configurar Carrinho Abandonado"
