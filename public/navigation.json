@@ -42263,6 +42263,21 @@
             },
             {
               "name": {
+                "en": "Product Import Error with Unmodified file",
+                "es": "Error al importar un producto con un archivo sin modificar",
+                "pt": "Erro na importação do produto com arquivo não modificado"
+              },
+              "slug": {
+                "en": "product-import-error-with-unmodified-file",
+                "es": "error-al-importar-un-producto-con-un-archivo-sin-modificar",
+                "pt": "erro-na-importacao-do-produto-com-arquivo-nao-modificado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Insert/Update API allows ' ' in the textLink field.",
                 "es": "La API de inserción/actualización de productos permite ' ' en el campo textLink.",
                 "pt": "A API de Inserção/Atualização de Produto permite ' ' no campo de textoLink."
