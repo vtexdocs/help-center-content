@@ -2,7 +2,7 @@
 title: "Promotion templates management"
 status: PUBLISHED
 createdAt: 2026-01-27T22:08:26.447Z
-updatedAt: 2026-01-27T13:50:03.053Z
+updatedAt: 2026-05-04T13:50:03.053Z
 publishedAt: 2026-01-27T13:50:03.053Z
 firstPublishedAt: 2026-01-27T23:03:15.195Z
 contentType: tutorial
@@ -17,8 +17,6 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 **Promotion templates** allow merchants to save recurring configurations for reuse when creating new promotions. This approach reduces configuration time and ensures consistency across promotions with similar rules.
 
 A template serves as a base model and, when applied, automatically completes the New Promotion form with the previously saved configuration.
-
-> ℹ️ The launch will take place in phases starting in February. Availability may vary between VTEX accounts throughout this period.
 
 ## Creating empty templates
 
