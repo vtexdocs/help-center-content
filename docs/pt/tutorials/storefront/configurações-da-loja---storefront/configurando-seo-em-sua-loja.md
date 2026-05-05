@@ -31,7 +31,7 @@ Em todas as lojas desenvolvidas com Store Framework, é possível configurar ess
 2. Clique na aba **Geral**.
 3. Preencha os campos conforme as orientações a seguir:
   - **Nome da loja:** insira o nome da sua loja.
-  - **Habilitar configuração por vínculo:** essa configuração é válida apenas para lojas que possuem múltiplos [bindings](/pt/docs/tutorials/o-que-e-binding). Ao habilitar essa opção, é possível configurar tags e metatags específicos para cada binding da loja. No caso de lojas com um único binding, basta manter essa opção desmarcada.
+  - **Habilitar configuração por vínculo:** essa configuração é válida apenas para lojas que possuem múltiplos [bindings](/pt/docs/tutorials/o-que-e-binding). Ao habilitar essa opção, é possível configurar tags e metatags específicas para cada binding da loja. No caso de lojas com um único binding, basta manter essa opção desmarcada.
   - **Tag de título padrão:** forneça uma descrição concisa que inclua palavras-chave relevantes. O valor atribuído a esta tag aparece na parte superior da barra de título do navegador quando alguém visita uma página do site da sua loja.
   - **Tag de descrição meta:** forneça uma breve descrição do conteúdo da página. Deve ser informativa e conter palavras-chave relevantes.
   - **Metatag robots:** especifique como os motores de busca devem rastrear e indexar uma página específica. Os valores padrão são `index, follow`. Para saber quais outros valores são compatíveis com o Google, consulte a [lista de regras válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=pt-br#directives). 
