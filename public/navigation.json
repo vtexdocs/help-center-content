@@ -44215,6 +44215,21 @@
             },
             {
               "name": {
+                "en": "Cart parameter ignoreProfileData reverted to false after shopper signs out in checkout",
+                "es": "El parámetro «ignoreProfileData» del carrito vuelve a establecerse en «false» después de que el comprador cierre sesión durante el proceso de pago",
+                "pt": "O parâmetro `ignoreProfileData` do carrinho volta a ser definido como `false` após o cliente encerrar a sessão durante o checkout"
+              },
+              "slug": {
+                "en": "cart-parameter-ignoreprofiledata-reverted-to-false-after-shopper-signs-out-in-checkout",
+                "es": "el-parametro-ignoreprofiledata-del-carrito-vuelve-a-establecerse-en-false-despues-de-que-el-comprador-cierre-sesion-durante-el-proceso-de-pago",
+                "pt": "o-parametro-ignoreprofiledata-do-carrinho-volta-a-ser-definido-como-false-apos-o-cliente-encerrar-a-sessao-durante-o-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Cart with items displays 'empty cart' message while screen is still loading",
                 "es": "La cesta con artículos muestra el mensaje 'cesta vacía' mientras la pantalla aún se está cargando.",
                 "pt": "Carrinho com itens exibe a mensagem 'carrinho vazio' enquanto a tela ainda está carregando"
@@ -44523,6 +44538,21 @@
                 "en": "checkout-overwrites-receiver-name-with-customer-name",
                 "es": "el-pago-sobrescribe-el-nombre-del-receptor-con-el-nombre-del-cliente",
                 "pt": "o-checkout-substitui-o-nome-do-receptor-pelo-nome-do-cliente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout Ownership Cookie size may lead to broken requests due to size limit",
+                "es": "El tamaño de la cookie de propiedad del proceso de pago puede provocar errores en las solicitudes debido al límite de tamaño",
+                "pt": "O tamanho do cookie de propriedade do checkout pode causar falhas nas solicitações devido ao limite de tamanho"
+              },
+              "slug": {
+                "en": "checkout-ownership-cookie-size-may-lead-to-broken-requests-due-to-size-limit",
+                "es": "el-tamano-de-la-cookie-de-propiedad-del-proceso-de-pago-puede-provocar-errores-en-las-solicitudes-debido-al-limite-de-tamano",
+                "pt": "o-tamanho-do-cookie-de-propriedade-do-checkout-pode-causar-falhas-nas-solicitacoes-devido-ao-limite-de-tamanho"
               },
               "origin": "",
               "type": "markdown",
