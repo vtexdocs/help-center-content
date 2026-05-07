@@ -19,7 +19,7 @@ VTEX regularly audits its information security controls through independent prof
 
 Penetration tests (or pentests) are simulated attacks on a computer system, network, or web application to assess security, identify vulnerabilities, and fix them. This type of test is run ethically to assess the system's security without causing real damage.
 
-Our [certifications](https://vtex.com/us-en/compliance/certifications) attest to our commitment to implementing robust security measures, including penetration testing and vulnerability scanning, which are performed periodically. As verified by external audits, vulnerabilities discovered during testing are tracked and resolved through our vulnerability management program, in accordance with industry best practices.
+Our [certifications](https://compliance.vtex.com/) attest to our commitment to implementing robust security measures, including penetration testing and vulnerability scanning, which are performed periodically. As verified by external audits, vulnerabilities discovered during testing are tracked and resolved through our vulnerability management program, in accordance with industry best practices.
 
 We understand that our enterprise customers also need to meet security audit requirements, ensuring compliance of their business with industry regulations. That is why we have decided to make it easier and more accessible for all our customers to meet audit requirements. 
 
