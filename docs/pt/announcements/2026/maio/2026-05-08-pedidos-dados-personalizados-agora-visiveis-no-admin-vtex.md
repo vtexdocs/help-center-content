@@ -12,6 +12,8 @@ tags:
 
 Adicionamos a exibição de dados personalizados nos pedidos do Admin VTEX. Com essa atualização, você pode visualizar os campos personalizados de cada pedido e informações específicas de aplicativos diretamente na página de detalhes do pedido.
 
+![Dados personalizados no Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/docs/pt/announcements/2026/maio/2026-05-08-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex.png)
+
 ## O que mudou?
 
 Antes, os dados personalizados associados a pedidos no OMS, incluindo campos personalizados da loja (`customFields`) e payloads por aplicativo (`customApps`), só podiam ser acessados por meio de chamadas de API. Agora, quando um pedido contiver dados personalizados, tanto a página de detalhes do pedido quanto a visualização de impressão no Admin VTEX exibem essas informações em menus colapsáveis: um para os campos personalizados e outro para os payloads de aplicativos.
