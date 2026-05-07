@@ -67,3 +67,10 @@ Abaixo incluímos informações complementares que devem ser utilizadas nos proc
 - **Endereço:** Rua Antônio Rabelo Júnior, 161 , 25º andar, Sala 2506 - Miramar - João Pessoa - PB
 - **CEP:** 58032-090
 
+## Maceió Office
+
+- **Razão social:** Razão Social: VTEX BRASIL TECNOLOGIA PARA E-COMMERCE LTDA
+- **Nome fantasia:** VTEX BRASIL
+- **CNPJ Matriz:** 05.314.972/0009-21
+- **Endereço:** Rua Melo Póvoas, 110, Sala 312, Quadra 0030, Lote 0643 - Jaraguá - Maceió - AL
+- **CEP:** 57022-230
