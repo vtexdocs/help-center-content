@@ -21,4 +21,4 @@ Foi fundado pelas empresas American Express, Discover Financial Services, JCB In
 
 O PCI SSC é uma certificação que a VTEX possui de seus serviços, dada por essa instituição, trazendo informações da segurança que disponibilizamos às lojas e aos seus consumidores. 
 
-Para maiores informações, veja a [categoria de certificação PCI SSC da VTEX](https://vtex.com/br-pt/compliance/certifications/).
+Para maiores informações, veja a [categoria de certificação PCI SSC da VTEX](https://compliance.vtex.com/).
