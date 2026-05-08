@@ -44,9 +44,9 @@ Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e
 * Promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações feitas pela loja.
 * Preservar a compatibilidade das extensões com customizações, de forma que evoluções no Sales App não comprometam as modificações existentes.
 
-## Casos de uso de Extensibilidade
+## Casos de uso da Extensibilidade
 
-Alguns cenários esperados para criar uma extensão:
+Entre os muitos cenários possíveis viabilizados pelas extensões, alguns exemplos são:
 
 * **Integrar serviços ou dados externos:** Integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.
 * **Integrar dados da VTEX:** Integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App.
