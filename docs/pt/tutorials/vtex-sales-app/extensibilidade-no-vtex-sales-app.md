@@ -66,13 +66,21 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 > ⚠️ Nesta etapa, recomendamos que seja feita a instalação das Skills da Extensibilidade do Sales App, pois elas auxiliam na implementação das extensões.
 
-### 2. Mapear requisitos e experiência do usuário
+### 2. Mapear fluxo da experiência do usuário
 
-O segundo passo é mapear de forma detalhada os requisitos da implementação e os fluxos da experiência do usuário (UX) do projeto.
+O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para sua implementação.
 
- Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").
-  * Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.
+> ℹ️ **Recomendação de design:** quando o recurso já está implementado no ecommerce, o lojista deve proporcionar a mesma experiência de fluxo. Se desejar, utilize as imagens dos pontos de extensão apresentadas na seção [Funcionamento da Extensibilidade](#funcionamento-da-extensibilidade) como apoio.
 
+> ℹ️ **Recomendação de projeto:** se o projeto tiver requisitos e fluxos muito complexos, uma boa estratégia é indicar um designer ou gestor de produtos para definir os requisitos técnicos.
+
+**Exemplo:** de forma simplificada, retomando o caso anterior da loja de material para construção, o fluxo da experiência do usuário incluiria como o usuários acessa a calculadora e como ela aparece na interface e efetua os cálculos levando em conta os dados do Catálogo, inventário e Checkout.
+
+_____
+
+Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").
+
+* Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.
 
 * **Recomendação de Design:** se você já tem o recurso implementado no seu ecommerce, Siga a mesma experiência. Utilize nosso material no **Figma** com os pontos de extensão já desenhados como apoio, se precisar.  
 * **Recomendação de projeto:** Se o seu projeto tiver requisitos e fluxos complexos é indicado um designer ou gestor de produtos para definicoes de requisitos
