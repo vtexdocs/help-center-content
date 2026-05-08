@@ -74,7 +74,7 @@ Buyer Portal Checkout permite a utilização de cartões de créditos compartilh
 
 ### Endereços de entrega salvos
 
-No Buyer Portal Checkout, usuários podem selecionar endereços de entrega a partir da [lista fornecida pela sua organização](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#enderecos-e-gestao-de-pagamentos). Caso tenham as permissões, configuradas, usuários também podem registrar novos endereços e editar existentes diretamente na experiência de compra do checkout.
+No Buyer Portal Checkout, usuários podem selecionar endereços de entrega a partir da [lista fornecida pela sua organização](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#enderecos-e-gestao-de-pagamentos). Caso tenham as permissões configuradas, usuários também podem registrar novos endereços e editar existentes diretamente na experiência de compra do checkout.
 
 ![Gerenciador de Endereços](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_5.png)
 
