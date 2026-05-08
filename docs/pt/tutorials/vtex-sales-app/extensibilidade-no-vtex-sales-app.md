@@ -66,7 +66,7 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 > ⚠️ Nesta etapa, recomendamos que seja feita a instalação das Skills da Extensibilidade do Sales App, pois elas auxiliam na implementação das extensões.
 
-### 2. Mapear fluxo da experiência do usuário
+### 2. Mapear fluxo de experiência do usuário
 
 O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação. Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
 
