@@ -87,7 +87,7 @@ A funcionalidade permite que os compradores escolham diferentes combinações de
 
 ### Campos contábeis
 
-[Campos de dados customizaveis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis), configurados pela organização compradora para coletar informações administrativas ou financeiras, como centro de custo, número de pedido interno (PO) e outros dados de controle.
+[Campos de dados customizáveis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis) podem ser configurados pela organização compradora para coletar informações administrativas ou financeiras, como centro de custo, número de pedido interno (PO) e outros dados de controle.
 
 ![Campos contábeis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_7.png)
 
