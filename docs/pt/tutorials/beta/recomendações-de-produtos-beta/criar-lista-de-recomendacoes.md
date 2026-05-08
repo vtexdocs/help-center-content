@@ -38,7 +38,7 @@ Para criar uma lista de recomendações no Admin VTEX, siga os passos abaixo:
    * **Comprados juntos:** Frequentemente comprados junto com o produto visualizado atualmente.
    * **Produtos similares:** Alternativas com propósito ou atributos similares.
    * **Produtos visualmente similares:** Produtos visualmente semelhantes a um produto específico.
-   * **Mais vendidos:** Produtos com a maior taxa de conversão com base no desemepnho recente de vendas.
+   * **Mais vendidos:** Produtos com a maior taxa de conversão com base no desempenho recente de vendas.
    * **Coleção manual:** Grupo de produtos personalizado curado pelo comerciante.
 
    > ℹ️ Saiba mais sobre as estratégias disponíveis em [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta). 
