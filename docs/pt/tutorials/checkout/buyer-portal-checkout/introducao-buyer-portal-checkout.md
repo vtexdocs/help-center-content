@@ -17,7 +17,7 @@ O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para o
 
 ## Conceito
 
-O Buyer Portal Checkout apresenta uma arquitetura mais moderna, desenvolvida para proporcionar maior flexibilidade, segurança e escalabilidade à experiência de compra. Entre as características que definem a solução, destacam-se:
+O Buyer Portal Checkout apresenta uma arquitetura moderna, desenvolvida para proporcionar maior flexibilidade, segurança e escalabilidade à experiência de compra. Entre as características que definem a solução, destacam-se:
 
 - Integração com ferramentas compliance do Buyer Portal.
 
