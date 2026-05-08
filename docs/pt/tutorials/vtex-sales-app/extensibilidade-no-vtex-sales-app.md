@@ -32,7 +32,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
   > ℹ️ Ao clicar no componente da extensão do menu, é aberto o modal que fica à esquerda da interface. Isso permite às lojas criarem múltiplos fluxos de navegação interna.
 
-* Página de detalhes do produto (PDP)
+* Página de detalhes do produto (PDP):
 
   ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
 
@@ -46,13 +46,15 @@ Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e
 
 ## Casos de uso da Extensibilidade
 
-Entre os muitos cenários possíveis viabilizados pelas extensões, alguns exemplos são:
+Entre os diversos contextos propícios para a implementação de extensões, alguns exemplos são:
 
-* **Integrar serviços ou dados externos:** Integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.
-* **Integrar dados da VTEX:** Integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App.
-* **Centralizar tarefas do vendedores:** Permitir que o vendedor realize tarefas cotidianas em uma única plataforma, como captura de leads ou consulta de dados.
+| Cenário | Descrição |
+| :--- | :--- |
+| Integrar serviços ou dados externos | integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.
+| Integrar dados da VTEX | integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App. |
+| Centralizar tarefas do vendedores | permitir que o vendedor realize tarefas cotidianas em uma única plataforma, como captura de leads ou consulta de dados. |
 
-## Passo a Passo do Projeto
+## Passo a passo para a implementação de extensões
 
 ### Passo 0: Preparação e Definição de Requisitos do projetos
 
