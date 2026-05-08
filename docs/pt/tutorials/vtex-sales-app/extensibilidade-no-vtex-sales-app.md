@@ -66,7 +66,7 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro delimita o es
 
 > ⚠️ Nesta etapa, recomendamos que seja feita a instalação das skills da Extensibilidade, que auxiliam e facilitam a implementação das extensões.
 
-### 2. Mapeamento de Requisitos e UX
+### 2. Mapear requisitos e UX
 
 * Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").  
   * Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.  
