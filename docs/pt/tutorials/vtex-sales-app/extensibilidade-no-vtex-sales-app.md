@@ -70,13 +70,13 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação. Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
 
-> ℹ️ Uma ótima ferramenta para auxiliar nesta etapa são as **Skills de Extensibilidade**, que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy, conforme apresentado na próxima seção.
+> ℹ️ Uma ótima ferramenta para auxiliar nesta etapa são as **Skills de Extensibilidade VTEX Sales App**, que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy, conforme apresentado na [próxima seção](#skills-de-extensibilidade-vtex-sales-app).
 
 **Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações da calculadora vão se relacionar com os dados de checkout, catálogo e inventário da loja na implementação.
 
 > ℹ️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
 
-#### Skills de Extensibilidade
+#### Skills de Extensibilidade VTEX Sales App
 
 Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Nessa etapa, o MCP é capaz de:
 
@@ -84,7 +84,7 @@ Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar 
 * Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
 * Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
 
-Saiba mais na documentação de [Skills de Extensibilidade no VTEX Sales App](#link).
+> ℹ️ Para mais informações, consulte a documentação [Skills de Extensibilidade VTEX Sales App](#link).
 
 ### 3. Viabilidade Técnica e Feedback
 
