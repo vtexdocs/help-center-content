@@ -1,5 +1,5 @@
 ---
-title: 'Introdução ao Buyer Portal Checkout'
+title: 'Buyer Portal Checkout'
 status: PUBLISHED
 createdAt: 2026-04-24T18:00:00.000Z
 updatedAt: 2026-04-24T18:00:00.000Z
