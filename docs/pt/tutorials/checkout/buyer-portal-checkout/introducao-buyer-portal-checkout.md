@@ -91,7 +91,7 @@ A funcionalidade permite que os compradores escolham diferentes combinações de
 
 ![Campos contábeis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_7.png)
 
-### Pickup Store
+### Store Pickup
 
 O Buyer Portal Checkout permite que os compradores localizem e selecionem uma loja para retirada do pedido durante o processo de finalização de compra. É possível buscar por endereço ou CEP, filtrar por raio e verificar a disponibilidade dos itens em tempo real para cada local.
 
