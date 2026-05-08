@@ -13,7 +13,7 @@ locale: pt
 
 O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para oferecer uma experiência de finalização de compra rápida e customizável. A solução foi construída com base nas melhores práticas de usabilidade do mercado e diretamente integrada aos fluxos de B2B do Buyer Portal como [Contratos](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#contratos), [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#campos-contabeis), [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) e [Buying Policies](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#buying-policies).
 
-![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_1.png)
+![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_1.png)
 
 ## Conceito
 
@@ -42,7 +42,7 @@ Além desses recursos, a VTEX oferece funcionalidades para otimizar a experiênc
 
 A funcionalidade de [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) permite que o comprador veja quais são os orçamentos associados ao seu pedido antes do fechamento da compra. Isso permite que ele tenha visibilidade sobre seus fundos contábeis e evite de consumir além do valor determinado pela organização.
 
-![Cobrança da conta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_3.png)
+![Cobrança da conta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_3.png)
 
 ### Checkout para Punchout
 
@@ -52,7 +52,7 @@ O fluxo de [Punchout](https://developers.vtex.com/docs/guides/punchout) possibil
 
 A funcionalidade Endereços de cobrança permite que os compradores selecionem explicitamente o endereço de cobrança correto durante o checkout. A funcionalidade garante que o endereço de cobrança registrado no pedido reflita com precisão a realidade fiscal da transação e seja propagado de forma consistente para os sistemas posteriores.
 
-![Endereços de cobrança](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_3.png)
+![Endereços de cobrança](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_3.png)
 
 ### Entrega agendada
 
@@ -66,7 +66,7 @@ O sistema de [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-po
 
 O recurso de [Assembly Options](https://help.vtex.com/pt/docs/tutorials/assembly-options) permite agrupar itens de um kit em um único elemento na lista do carrinho. Esse elemento exibe informações detalhadas sobre a composição do kit e oferece controle das quantidades de cada item.
 
-![Assembly Options](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_4.png)
+![Assembly Options](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_4.png)
 
 ### Cartões salvos
 
@@ -78,22 +78,22 @@ De forma integrada ao [fluxo de tokenização de cartões de crédito](https://h
 
 No Buyer Portal Checkout, usuários podem selecionar endereços de entrega a partir da [lista fornecida pela sua organização](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#enderecos-e-gestao-de-pagamentos). Caso tenham as [permissões](https://developers.vtex.com/docs/guides/storefront-roles) configuradas, usuários também podem registrar novos endereços e editar existentes diretamente na experiência de compra do checkout.
 
-![Gerenciador de Endereços](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_5.png)
+![Gerenciador de Endereços](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_5.png)
 
 ### Múltiplas opções de entrega (Multidelivery)
 
 A funcionalidade permite que os compradores escolham diferentes combinações de envio e [opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) para cada item do carrinho, proporcionando mais flexibilidade para a finalização da compra.
 
-![Multidelivery](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_6.png)
+![Multidelivery](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_6.png)
 
 ### Campos contábeis
 
 [Campos de dados customizáveis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis) podem ser configurados pela organização compradora para coletar informações administrativas ou financeiras, como centro de custo, número de pedido interno (PO) e outros dados de controle.
 
-![Campos contábeis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_7.png)
+![Campos contábeis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_7.png)
 
 ### Store Pickup
 
 O Buyer Portal Checkout permite que os compradores localizem e selecionem uma loja para retirada do pedido durante o processo de finalização de compra. É possível buscar por endereço ou CEP, filtrar por raio e verificar a disponibilidade dos itens em tempo real para cada local.
 
-![Campos contábeis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_8.png)
+![Campos contábeis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_8.png)
