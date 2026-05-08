@@ -47757,6 +47757,21 @@
           "children": [
             {
               "name": {
+                "en": "\"Select a Block\" Does Not Work Correctly When Page Extensions Load Lazily in Site Editor",
+                "es": "La opción «Seleccionar un bloque» no funciona correctamente cuando las extensiones de página se cargan de forma diferida en el editor del sitio",
+                "pt": "A opção \"Selecionar um bloco\" não funciona corretamente quando as extensões de página são carregadas de forma diferida no Editor do site"
+              },
+              "slug": {
+                "en": "select-a-block-does-not-work-correctly-when-page-extensions-load-lazily-in-site-editor",
+                "es": "la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio",
+                "pt": "a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
@@ -49971,6 +49986,21 @@
                 "en": "mercado-livre-mapper-attribute-size",
                 "es": "atributo-tamano-de-mercado-livre-mapper",
                 "pt": "atributo-tamanho-do-mercado-livre-mapper"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
               },
               "origin": "",
               "type": "markdown",
@@ -55844,6 +55874,21 @@
                 "en": "categories-missing-seller-not-provisioned-correctly",
                 "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
                 "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping spreadsheet does not include offers in WaitingReview",
+                "es": "La hoja de cálculo de asignación de categorías no incluye las ofertas en «En espera de revisión»",
+                "pt": "A planilha de mapeamento de categorias não inclui ofertas em \"Aguardando revisão\""
+              },
+              "slug": {
+                "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
+                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
+                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao"
               },
               "origin": "",
               "type": "markdown",
