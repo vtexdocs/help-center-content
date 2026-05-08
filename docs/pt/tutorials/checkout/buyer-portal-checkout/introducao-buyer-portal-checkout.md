@@ -60,7 +60,7 @@ A [Entrega agendada](/docs/pt/tutorials/configurar-entrega-agendada-fastcheckout
 
 ### Buying Policies
 
-O sistema de [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) suporta regras dinâmicas que os compradores podem configurar para inserir suas regras de compliance dentro do processo de compra. [Gestores de organizações](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#gestao-organizacional) compradoras podem definir regras customizadas para que pedidos sejam encaminhados para aprovação antes de serem confirmados, ou mesmo sejam impedidos de serem completados no ato da compra.
+O sistema de [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) suporta regras dinâmicas que os compradores podem configurar para inserir suas regras de compliance dentro do processo de compra. [Gestores de organizações compradoras](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#gestao-organizacional) podem definir regras customizadas para que pedidos sejam encaminhados para aprovação antes de serem confirmados, ou mesmo sejam impedidos de serem completados no ato da compra.
 
 ### Assembly Options
 
