@@ -68,24 +68,13 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 ### 2. Mapear fluxo da experiência do usuário
 
-O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para sua implementação.
+O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação.
 
-> ℹ️ **Recomendação de design:** quando o recurso já está implementado no ecommerce, o lojista deve proporcionar a mesma experiência de fluxo. Se desejar, utilize as imagens dos pontos de extensão apresentadas na seção [Funcionamento da Extensibilidade](#funcionamento-da-extensibilidade) como apoio.
+Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos canais de venda.
 
-> ℹ️ **Recomendação de projeto:** se o projeto tiver requisitos e fluxos muito complexos, uma boa estratégia é indicar um designer ou gestor de produtos para definir os requisitos técnicos.
+**Exemplo:** retomando o caso da loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações da calculadora vão se relacionar com os dados de checkout, catálogo e inventário da loja na implementação.
 
-**Exemplo:** de forma simplificada, retomando o caso anterior da loja de material para construção, o fluxo da experiência do usuário incluiria como o usuários acessa a calculadora e como ela aparece na interface e efetua os cálculos levando em conta os dados do Catálogo, inventário e Checkout.
-
-_____
-
-Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").
-
-* Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.
-
-* **Recomendação de Design:** se você já tem o recurso implementado no seu ecommerce, Siga a mesma experiência. Utilize nosso material no **Figma** com os pontos de extensão já desenhados como apoio, se precisar.  
-* **Recomendação de projeto:** Se o seu projeto tiver requisitos e fluxos complexos é indicado um designer ou gestor de produtos para definicoes de requisitos
-
-Dica: MCP de Extensibilidade
+#### Dica: MCP de Extensibilidade
 
 Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Nessa etapa, o MCP é capaz de:
 
@@ -93,7 +82,9 @@ Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar 
 * Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
 * Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
 
-### Passo 2: Viabilidade Técnica e Feedback
+> ℹ️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
+
+### 3. Viabilidade Técnica e Feedback
 
 Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos hooks e funções existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a documentacão.
 
