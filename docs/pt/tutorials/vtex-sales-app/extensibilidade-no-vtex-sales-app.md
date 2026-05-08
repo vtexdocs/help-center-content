@@ -60,16 +60,20 @@ Para realizar a implementação da Extensibilidade, siga os passos desta seção
 
 ### 1. Planejar escopo do projeto
 
-O primeiro passo é de planejamento, no qual o lojista ou parceiro delimita o escopo do recurso a ser implementado.
+O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimitar o escopo do que será implementado.
 
-**Exemplo:** em uma loja que vende material para construção, o escopo é adicionar à página de produtos (PDP) uma calculadora da quantidade de material necessário para a contrução por metro quadrado.
+**Exemplo:** em uma loja que vende material para construção, o escopo do projeto será adicionar à página de produtos (PDP) uma calculadora da quantidade de material necessário para a contrução por metro quadrado, de forma que para cada metro quadrado (m²) construído, o cliente da loja deve adquirir 4 quilogramas (kg) de argamassa.
 
 > ⚠️ Nesta etapa, recomendamos que seja feita a instalação das skills da Extensibilidade, que auxiliam e facilitam a implementação das extensões.
 
-### 2. Mapear requisitos e UX
+### 2. Mapear requisitos e experiência do usuário
 
-* Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").  
-  * Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.  
+O segundo passo é mapear de forma detalhada os requisitos da implementação e os fluxos da experiência do usuário (UX) do projeto.
+
+ Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").
+  * Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.
+
+
 * **Recomendação de Design:** se você já tem o recurso implementado no seu ecommerce, Siga a mesma experiência. Utilize nosso material no **Figma** com os pontos de extensão já desenhados como apoio, se precisar.  
 * **Recomendação de projeto:** Se o seu projeto tiver requisitos e fluxos complexos é indicado um designer ou gestor de produtos para definicoes de requisitos
 
