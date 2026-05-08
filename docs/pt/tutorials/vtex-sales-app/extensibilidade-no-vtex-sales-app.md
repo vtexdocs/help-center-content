@@ -64,7 +64,7 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 **Exemplo:** em uma loja que vende material para construção, o escopo do projeto será adicionar à página de produtos (PDP) uma calculadora da quantidade de material necessário para a contrução por metro quadrado, de forma que para cada metro quadrado (m²) construído, o cliente da loja deve adquirir 4 quilogramas (kg) de argamassa.
 
-> ⚠️ Nesta etapa, recomendamos que seja feita a instalação das skills da Extensibilidade, que auxiliam e facilitam a implementação das extensões.
+> ⚠️ Nesta etapa, recomendamos que seja feita a instalação das Skills da Extensibilidade do Sales App, pois elas auxiliam na implementação das extensões.
 
 ### 2. Mapear requisitos e experiência do usuário
 
