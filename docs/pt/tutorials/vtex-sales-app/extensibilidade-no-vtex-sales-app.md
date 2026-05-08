@@ -68,11 +68,11 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 ### 2. Mapear fluxo da experiência do usuário
 
-O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação.
-
-Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos canais de venda.
+O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação. Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
 
 **Exemplo:** retomando o caso da loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações da calculadora vão se relacionar com os dados de checkout, catálogo e inventário da loja na implementação.
+
+Nesta etapa de mapeamento, uma ótima ferramenta para auxiliar são as Skills de Extensibilidade, que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Saiba mais na documentação de [Skills de Extensibilidade no VTEX Sales App](#link).
 
 #### Dica: MCP de Extensibilidade
 
