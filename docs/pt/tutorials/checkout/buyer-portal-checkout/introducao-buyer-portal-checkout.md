@@ -47,7 +47,7 @@ A funcionalidade de [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-
 
 ### Checkout para Punchout
 
-O fluxo de [Punchout](https://developers.vtex.com/docs/guides/punchout) que compradores integrem seus sistemas de eprocurement diretamente ao site de ecommerce doa loja. O [Checkout para Punchout](https://developers.vtex.com/docs/guides/punchout-cart-integration) da VTEX é adaptado para esse tipo de integração, que permite que o usuário retorne o carrinho montado e finalize a compra pelo seu sistema de eprocurement.
+O fluxo de [Punchout](https://developers.vtex.com/docs/guides/punchout) possibilita que compradores integrem seus sistemas de eprocurement diretamente ao site do ecommerce. O [Checkout para Punchout](https://developers.vtex.com/docs/guides/punchout-cart-integration) da VTEX é adaptado para esse tipo de integração, que permite que o usuário retorne o carrinho montado e finalize a compra pelo seu sistema de eprocurement.
 
 ### Endereços de cobrança
 
