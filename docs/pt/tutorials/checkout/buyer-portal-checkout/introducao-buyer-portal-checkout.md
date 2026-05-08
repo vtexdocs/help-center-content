@@ -11,7 +11,7 @@ locale: pt
 
 > ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), que atualmente está disponível para contas selecionadas.
 
-O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para oferecer uma experiência de finalização de compra rápida e customizável. A solução foi construída com base nas melhores práticas de usabilidade do mercado, e diretamente integrada aos fluxos de B2B do Buyer Portal como [Contratos](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#contratos), [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#campos-contabeis), [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) e [Buying Policies](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#buying-policies).
+O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para oferecer uma experiência de finalização de compra rápida e customizável. A solução foi construída com base nas melhores práticas de usabilidade do mercado e diretamente integrada aos fluxos de B2B do Buyer Portal como [Contratos](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#contratos), [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#campos-contabeis), [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) e [Buying Policies](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#buying-policies).
 
 ![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_1.png)
 
