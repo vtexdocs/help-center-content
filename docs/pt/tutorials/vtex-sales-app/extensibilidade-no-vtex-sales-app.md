@@ -10,31 +10,31 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-A extensibilidade é a solução que permite às lojas complementarem a jornada de venda padrão no VTEX Sales App com os recursos necessários a sua operação. Este artigo aprensenta as principais características e casos de uso das extensões e orienta como implementar a solução.
+A Extensibilidade é a solução que permite às lojas complementarem a jornada de venda padrão no VTEX Sales App com os recursos necessários a sua operação. Este artigo aprensenta as principais características e casos de uso das extensões e orienta como implementar a solução.
 
-> ⚠️ A implementação da extensibilidade do Sales App é responsabilidade dos clientes VTEX e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
+> ⚠️ A implementação da Extensibilidade do Sales App é responsabilidade dos clientes e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
 
-## Funcionamento da extensibilidade
+## Funcionamento da Extensibilidade
 
-A extensibilidade é uma solução nativa para as lojas VTEX integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
+A Extensibilidade é uma solução nativa para as lojas VTEX integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
 
-Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Eles estão disponíveis nos seguintes contextos:
+Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos:
 
 * Carrinho de compras e checkout:
 
-![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
+  ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
 
 * Menu e modal lateral:
 
-![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
+  ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
-![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
+  ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
+
+  > ℹ️ Ao clicar no componente da extensão do menu, é aberto o modal que fica à esquerda da interface. Isso permite às lojas criarem múltiplos fluxos de navegação interna.
 
 * Página de detalhes do produto (PDP)
 
-![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
-
-Ao clicar no componente da extensão do menu, será aberto o modal que fica à esquerda da interface, o que permite a criação de múltiplos fluxos de navegação interna.
+  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
 
 ## Segurança e estabilidade de extensões
 
