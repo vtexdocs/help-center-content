@@ -13,7 +13,7 @@ locale: pt
 
 > ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), que atualmente está disponível para contas selecionadas.
 
-O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para oferecer uma experiência de finalização de compra rápida e customizável. A solução substitui a experiência anterior do [Checkout VTEX](/pt/docs/tutorials/checkout-vtex-visao-geral) por um fluxo baseado nas melhores práticas de usabilidade do mercado, com foco em aumentar a taxa de conversão das lojas e simplificar a personalização da jornada de compra.
+O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para oferecer uma experiência de finalização de compra rápida e customizável. A solução foi construída com base nas melhores práticas de usabilidade do mercado, e diretamente integrada aos fluxos de B2B do Buyer Portal como [Contratos](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#contratos), [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#campos-contabeis), [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) e [Buying Policies](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#buying-policies).
 
 ![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_1.png)
 
@@ -21,36 +21,39 @@ O **Buyer Portal Checkout** é a nova versão do checkout VTEX, projetado para o
 
 O Buyer Portal Checkout apresenta uma arquitetura mais moderna, desenvolvida para proporcionar maior flexibilidade, segurança e escalabilidade à experiência de compra. Entre as características que definem a solução, destacam-se:
 
-- Fluxo de compra otimizado para conversão.
-- Alta performance, mesmo em carrinhos com muitos itens.
+- Integração com ferramentas compliance do Buyer Portal.
+
 - Otimização para dispositivos móveis e desktop.
 - Suporte a opções omnichannel sofisticadas.
 
-> ℹ️ O Buyer Portal Checkout está em fase beta fechado e, no momento, está disponível apenas para lojas localizadas nos Estados Unidos. Para conhecer as condições de adesão, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support).
+> ℹ️ O Buyer Portal Checkout está em fase beta fechado e, no momento, está disponível para clientes B2B na América do Norte. Para conhecer as condições de adesão, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support).
 
 ## Funcionalidades
 
-Conheça as principais funcionalidades do Buyer Portal Checkout, que foram desenvolvidas para otimizar a experiência de compra, facilitar a personalização e aumentar a conversão da sua loja.
+O Buyer Portal Checkout entrega todas as funcionalidades esperadas de um checkout moderno, cobrindo o fluxo completo do carrinho até a confirmação do pedido. Entre as principais, destacam-se:
 
-### Informações de contato
+- Gerenciamento do carrinho com visualização e ajuste de itens (quantidade, adição, remoção individual ou em massa), agrupamento por canal de entrega (envio ou retirada em loja) e tratamento automático de itens indisponíveis.
+- Resumo do pedido em tempo real, com detalhamento de subtotal, frete, descontos, promoções, impostos, vales-presente e total final.
+- Simulação de envio direto no carrinho com endereço novo ou salvo.
+- Suporte a múltiplos métodos de pagamento, incluindo cartão de crédito com parcelamento e cartões salvos (com fluxo B2B sem CVV), PIX com QR code e finalização com Google Pay ou one-click checkout.
+- Revisão e confirmação do pedido com possibilidade de editar cada seção, status do pedido (aprovado ou pendente), número, resumos de entrega ou retirada e pagamento.
+- Autenticação flexível do comprador, com login por email e senha ou código único.
 
-A funcionalidade Informações de contato permite que o comprador especifique as informações do destinatário na experiência de entrega. A funcionalidade busca atender a diferentes cenários, como entrega única, múltiplas entregas — em que diferentes produtos são entregues por métodos distintos — e casos de uso B2C ou B2B.
+Além desses recursos, foram desenvolvidas novas funcionalidades para otimizar a experiência de compra de cenários B2B, facilitando a personalização e oferecendo segurança na transação para seus compradores.
 
-![Informações de contato](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_2.png)
+### Budgets
 
-### Cobrança da conta
-
-A funcionalidade de Cobrança da Conta permite que o comprador escolha um método de pagamento que gera uma cobrança diretamente para a conta da empresa. O pagamento dessa cobrança é processado por meio do fluxo de [punchout](#punchout).
+A funcionalidade de [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) permite que o comprador veja quais são os orçamentos associados ao seu pedido antes do fechamento da compra. Isso permite que ele tenha visibilidade sobre seus fundos contábeis e evite consumir além do determinado pela organização.
 
 ![Cobrança da conta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_3.png)
 
-### Punchout
+### Checkout para Punchout
 
-O fluxo de [Punchout do carrinho](https://developers.vtex.com/docs/guides/punchout-cart-integration) permite que empresas integrem seus sistemas de eprocurement diretamente ao site de e-commerce do fornecedor em operações B2B. Com essa funcionalidade, a finalização da compra é realizada externamente, diretamente pelo sistema de eprocurement da empresa.
+O fluxo de [Punchout](https://developers.vtex.com/docs/guides/punchout) que compradores integrem seus sistemas de eprocurement diretamente ao site de ecommerce doa loja. O [Checkout para Punchout](https://developers.vtex.com/docs/guides/punchout-cart-integration) da VTEX é adaptado para esse tipo de integração, que permite que o usuário retorne o carrinho montado e finalize a compra pelo seu sistema de eprocurement.
 
 ### Endereços de cobrança
 
-A funcionalidade Endereços de cobrança permite múltiplos endereços de cobrança por organização e possibilitar que os compradores selecionem explicitamente o endereço de cobrança correto durante o checkout. A funcionalidade garante que o endereço de cobrança registrado no pedido reflita com precisão a realidade fiscal da transação e seja propagado de forma consistente para os sistemas posteriores.
+A funcionalidade Endereços de cobrança permite que os compradores selecionem explicitamente o endereço de cobrança correto durante o checkout. A funcionalidade garante que o endereço de cobrança registrado no pedido reflita com precisão a realidade fiscal da transação e seja propagado de forma consistente para os sistemas posteriores.
 
 ![Endereços de cobrança](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_3.png)
 
@@ -58,9 +61,9 @@ A funcionalidade Endereços de cobrança permite múltiplos endereços de cobran
 
 A [Entrega agendada](/docs/pt/tutorials/configurar-entrega-agendada-fastcheckout) permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
-### Políticas de compra
+### Buying Policies
 
-O sistema de [Políticas de compra](https://developers.vtex.com/docs/api-reference/buying-policies-api) suporta regras dinâmicas que os lojistas podem configurar para se adequar aos seus processos específicos de autorização. A funcionalidade disponibiliza um mecanismo para que os usuários registrem expressões de regras customizadas, oferecendo maior flexibilidade e extensibilidade. O processo de aprovação é hierárquico e utiliza um sistema de avaliação baseado em prioridade.
+O sistema de [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) suporta regras dinâmicas que os compradores podem configurar para inserir suas regras de compliance dentro do processo de compra. [Gestores de organizações](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#gestao-organizacional) compradoras podem definir regras customizadas para que pedidos sejam encaminhados para aprovação antes de serem confirmados, ou mesmo sejam impedidos de serem completados no ato da compra.
 
 ### Assembly Options
 
@@ -70,17 +73,17 @@ O recurso de [Assembly Options](https://help.vtex.com/pt/docs/tutorials/assembly
 
 ### Cartões salvos
 
-A funcionalidade de [salvar cartões](https://developers.vtex.com/docs/api-reference/checkout-custom-card-payment-api) permite fluxos de tokenização de cartões de crédito na VTEX, abrangendo gerenciamento de perfis, operações do cofre de cartões, processos de checkout, interações com gateways de pagamento e fluxos de autenticação.
+Buyer Portal Checkout permite a utilização de cartões de créditos compartilhados pela organização. Ele também permite a possibilidade de [salvar cartões](https://developers.vtex.com/docs/api-reference/checkout-custom-card-payment-api) de usuários que possuam essa permissão para que possam ser utilizados em transações futuras. Integrado ao [fluxo de tokenização de cartões de crédito](https://help.vtex.com/pt/docs/tutorials/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online) da VTEX, as informações são processadas segundo as regras de [PCI](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-pci-ssc), fornecendo segurança ao processo.
 
-### Gerenciador de Endereços
+### Endereços de entrega salvos
 
-O Gerenciador de Endereços permite que usuários com o nível de permissão adequado adicionem e editem endereços durante uma compra B2B. O endereço utilizado para finalizar a compra ficará salvo na lista de endereços para futuras compras.
+No Buyer Portal Checkout, usuários podem selecionar endereços de entrega a partir da [lista fornecida pela sua organização](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#enderecos-e-gestao-de-pagamentos). Caso tenham as permissões, configuradas, usuários também podem registrar novos endereços e editar existentes diretamente na experiência de compra do checkout.
 
 ![Gerenciador de Endereços](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_5.png)
 
-### Entrega múltipla (Multidelivery)
+### Múltiplas opções de entrega (Multidelivery)
 
-A funcionalidade permite que os compradores escolham uma [opção de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) para cada item, proporcionando mais  flexibilidade e melhoria na experiência do usuário contribuem para a redução do abandono de carrinho e beneficiam lojistas em modelos de negócio B2B.
+A funcionalidade permite que os compradores escolham diferentes combinações de envio e [opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) para cada item, proporcionando mais flexibilidade para a finalização da compra.
 
 ![Multidelivery](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/introducao-buyer-portal-checkout_6.png)
 
