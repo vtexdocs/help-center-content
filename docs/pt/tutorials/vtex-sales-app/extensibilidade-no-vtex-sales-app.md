@@ -12,8 +12,6 @@ locale: pt
 
 A Extensibilidade é a solução que permite às lojas complementarem a jornada de venda padrão no VTEX Sales App com os recursos necessários a sua operação. Este artigo aprensenta as principais características e casos de uso das extensões e orienta como implementar a solução.
 
-> ⚠️ A implementação da Extensibilidade do Sales App é responsabilidade dos clientes e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
-
 ## Funcionamento da Extensibilidade
 
 A Extensibilidade é uma solução nativa para as lojas VTEX integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
@@ -44,9 +42,9 @@ Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e
 * **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações existentes.
 * **Compatibilidade:** preservar a compatibilidade das extensões com customizações, de forma que evoluções do Sales App não comprometam modificações realizadas pela loja.
 
-## Casos de uso da Extensibilidade
+## Casos de uso de extensões
 
-Alguns exemplos de contextos que se beneficiam pela implementação de extensões são:
+Alguns exemplos de contextos que se beneficiam da Extensibilidade são:
 
 | Contexto | Descrição |
 | :--- | :--- |
@@ -54,13 +52,21 @@ Alguns exemplos de contextos que se beneficiam pela implementação de extensõe
 | Integração com dados da VTEX | Integrar dados e soluções da VTEX essenciais para o negócio e que não fazem parte da jornada padrão do Sales App, como o contexto de marketplace ou algumas soluções de pagamento. |
 | Centralização de tarefas de vendedores | Permitir que o vendedor capture leads ou consulte determinados dados da gestão da loja, por exemplo. Ao realizar todas suas tarefas cotidianas em uma única plataforma, os vendedores ganham em agilidade e eficiência. |
 
-## Passo a passo para a implementação de extensões
+## Passo a passo para implementar extensões
 
-### Passo 0: Preparação e Definição de Requisitos do projetos
+Para realizar a implementação da Extensibilidade, siga os passos desta seção.
 
-Antes de iniciar o desenvolvimento, é fundamental que o **Merchant, Parceiro** ou a **Agência Parceira** defina o escopo do recurso a ser implementado. Este processo deve ser apoiado pelas nossas *documentações* oficiais e de acordo com o recurso a ser implementado.
+> ⚠️ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
 
-### Passo 1: Mapeamento de Requisitos e UX
+### 1. Planejar escopo do projeto
+
+O primeiro passo é de planejamento, no qual o lojista ou parceiro delimita o escopo do recurso a ser implementado.
+
+**Exemplo:** em uma loja que vende material para construção, o escopo é adicionar à página de produtos (PDP) uma calculadora da quantidade de material necessário para a contrução por metro quadrado.
+
+> ⚠️ Nesta etapa, recomendamos que seja feita a instalação das skills da Extensibilidade, que auxiliam e facilitam a implementação das extensões.
+
+### 2. Mapeamento de Requisitos e UX
 
 * Mapeie o passo a passo técnico ou as histórias de usuário (ex: "durante o checkout, o cliente precisa inserir o seu cpf para acessar seus bônus").  
   * Nesse momento, todos requisitos e fluxos do projeto devem ser mapeados.  
