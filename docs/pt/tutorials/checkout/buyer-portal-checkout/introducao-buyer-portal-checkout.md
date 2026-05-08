@@ -70,7 +70,9 @@ O recurso de [Assembly Options](https://help.vtex.com/pt/docs/tutorials/assembly
 
 ### Cartões salvos
 
-Buyer Portal Checkout permite a utilização de cartões de créditos compartilhados pela organização. Ele também permite a possibilidade de [salvar cartões](https://developers.vtex.com/docs/api-reference/checkout-custom-card-payment-api) de usuários que possuam essa permissão para que possam ser utilizados em transações futuras. Integrado ao [fluxo de tokenização de cartões de crédito](https://help.vtex.com/pt/docs/tutorials/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online) da VTEX, as informações são processadas segundo as regras de [PCI](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-pci-ssc), fornecendo segurança ao processo.
+O Buyer Portal Checkout permite a utilização de cartões de crédito compartilhados pela organização. Ele também possibilita [salvar cartões](https://developers.vtex.com/docs/api-reference/checkout-custom-card-payment-api) para que possam ser utilizados em transações futuras (disponível para usuários que possuam essa permissão).
+
+De forma integrada ao [fluxo de tokenização de cartões de crédito](https://help.vtex.com/pt/docs/tutorials/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online) da VTEX, as informações são processadas segundo as regras de [PCI](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-pci-ssc), fornecendo segurança ao processo.
 
 ### Endereços de entrega salvos
 
