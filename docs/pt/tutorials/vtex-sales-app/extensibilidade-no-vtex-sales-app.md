@@ -38,21 +38,21 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
 ## Segurança e estabilidade de extensões
 
-Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e contribui para a segurança e estabilidade da operação da loja. Seu desenvolvimento foi pensado principalmente para os seguintes objetivos:
+Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e contribui para a continuidade das operações da loja. Alguns dos principais objetivos da funcionalidade são:
 
-* Aumentar a segurança com que as pessoas desenvovedoras implementam códigos no Sales App.
-* Promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações feitas pela loja.
-* Preservar a compatibilidade das extensões com customizações, de forma que evoluções no Sales App não comprometam as modificações existentes.
+* **Segurança:** aumentar a segurança com que pessoas desenvolvedoras implementam códigos.
+* **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações existentes.
+* **Compatibilidade:** preservar a compatibilidade das extensões com customizações, de forma que evoluções do Sales App não comprometam modificações realizadas pela loja.
 
 ## Casos de uso da Extensibilidade
 
-Entre os diversos contextos propícios para a implementação de extensões, alguns exemplos são:
+Alguns exemplos de contextos que se beneficiam pela implementação de extensões são:
 
-| Cenário | Descrição |
+| Contexto | Descrição |
 | :--- | :--- |
-| Integrar serviços ou dados externos | integrar programas de fidelidade, venda de serviços adicionais como garantias ou seguros, aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Geralmente esses serviços já são usados no ecommerce e/ou na loja física.
-| Integrar dados da VTEX | integrar dados e soluções da VTEX essenciais para os eu negócio e que não fazem parte da jornada padrão do Sales App. |
-| Centralizar tarefas do vendedores | permitir que o vendedor realize tarefas cotidianas em uma única plataforma, como captura de leads ou consulta de dados. |
+| Integração com serviços ou dados externos | Integração com programas de fidelidade, venda de serviços adicionais (como garantias ou seguros), aplicação de descontos em troca de produtos, motores de comissionamento ou financiamento, ou outros dados e serviços gerados externamente. Em geral, são serviços já utilizados no ecommerce e/ou na loja física. |
+| Integração com dados da VTEX | Integrar dados e soluções da VTEX essenciais para o negócio e que não fazem parte da jornada padrão do Sales App, como o contexto de marketplace ou algumas soluções de pagamento. |
+| Centralização de tarefas de vendedores | Permitir que o vendedor capture leads ou consulte determinados dados da gestão da loja, por exemplo. Ao realizar todas suas tarefas cotidianas em uma única plataforma, os vendedores ganham em agilidade e eficiência. |
 
 ## Passo a passo para a implementação de extensões
 
