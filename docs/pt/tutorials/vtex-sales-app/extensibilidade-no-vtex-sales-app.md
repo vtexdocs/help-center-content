@@ -92,7 +92,7 @@ Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos h
 
 > ❗ Caso identifique a inexistência de um hook ou função necessária, abra um ticket para a VTEX explicando seu caso de uso e necessidade para que possamos considerar a necessidade em evoluções do produto.
 
-### Passo 3: Implementação
+### 4. Implementação
 
 Após o planejamento o desenvolver deve implementar , podendo rodar de maneira local o projeto, em uma conta VTEX com o Sales App instalado e configurado. Geralmente o merchant, parceiras e agencias já possuem essa conta. Caso contrário, será necessário instalar o Sales App na sua conta VTEX.
 
@@ -100,7 +100,7 @@ Dica: MCP de Extensibilidade
 
 O MCP também pode ajudar na etapa de implementação, com um planejamento e especificações bem definidas, ele poderá desenvolver o front e guiar às integrações necessárias. Ele conhece os hooks e funções, além de toda documentação de extensão, faststore, sales app e VTEX.
 
-### Passo 4: Deploy
+### 5. Deploy
 
 Depois que o fluxo estiver testado e validado. O deploy na conta em desenvolvimento pode ser feito seguindo a documentação.
 
