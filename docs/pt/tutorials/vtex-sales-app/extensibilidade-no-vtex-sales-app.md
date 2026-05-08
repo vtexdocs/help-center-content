@@ -38,7 +38,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
 Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e contribui para a continuidade das operações da loja. Alguns dos principais objetivos da funcionalidade são:
 
-* **Segurança:** aumentar a segurança com que pessoas desenvolvedoras implementam códigos.
+* **Segurança:** aumentar a segurança com que desenvolvedores implementam códigos.
 * **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações existentes.
 * **Compatibilidade:** preservar a compatibilidade das extensões com customizações, de forma que evoluções do Sales App não comprometam modificações realizadas pela loja.
 
@@ -68,15 +68,15 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 ### 2. Mapear fluxo da experiência do usuário
 
-O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação.
+O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação. Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
 
-> ℹ️ Nesta etapa de mapeamento, uma ótima ferramenta para auxiliar são as **Skills de Extensibilidade**, que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Saiba mais na documentação de [Skills de Extensibilidade no VTEX Sales App](#link).
+> ℹ️ Uma ótima ferramenta para auxiliar nesta etapa são as **Skills de Extensibilidade**, que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy, conforme apresentado na próxima seção.
 
 **Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações da calculadora vão se relacionar com os dados de checkout, catálogo e inventário da loja na implementação.
 
-> ℹ️ Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
+> ℹ️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
 
-#### Dica: MCP de Extensibilidade
+#### Skills de Extensibilidade
 
 Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Nessa etapa, o MCP é capaz de:
 
@@ -84,7 +84,7 @@ Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar 
 * Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
 * Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
 
-> ℹ️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
+Saiba mais na documentação de [Skills de Extensibilidade no VTEX Sales App](#link).
 
 ### 3. Viabilidade Técnica e Feedback
 
