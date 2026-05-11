@@ -94,7 +94,7 @@ Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos h
 
 ### 4. Implementação
 
-Após o planejamento o desenvolver deve implementar , podendo rodar de maneira local o projeto, em uma conta VTEX com o Sales App instalado e configurado. Geralmente o merchant, parceiras e agencias já possuem essa conta. Caso contrário, será necessário instalar o Sales App na sua conta VTEX.
+Após o planejamento o desenvolver deve implementar, podendo rodar de maneira local o projeto, em uma conta VTEX com o Sales App instalado e configurado. Geralmente o merchant, parceiras e agencias já possuem essa conta. Caso contrário, será necessário instalar o Sales App na sua conta VTEX.
 
 Dica: MCP de Extensibilidade
 
