@@ -32,9 +32,8 @@ O Buyer Portal Checkout entrega todas as funcionalidades esperadas de um checkou
 - Gerenciamento do carrinho com visualização e ajuste de itens (quantidade, adição, remoção individual ou em massa), agrupamento por canal de entrega (envio ou retirada em loja) e tratamento automático de itens indisponíveis.
 - Resumo do pedido em tempo real, com detalhamento de subtotal, frete, descontos, promoções, impostos, vales-presente e total final.
 - Simulação de envio direto no carrinho com endereço novo ou salvo.
-- Suporte a múltiplos métodos de pagamento, incluindo cartão de crédito com parcelamento e cartões salvos (com fluxo B2B sem CVV), PIX com QR code e finalização com Google Pay ou one-click checkout.
+- Suporte a múltiplos métodos de pagamento, incluindo cartão de crédito com parcelamento e cartões salvos (com fluxo B2B sem CVV), PIX com QR code e finalização com one-click checkout.
 - Revisão e confirmação do pedido com possibilidade de editar cada seção, status do pedido (aprovado ou pendente), número, resumos de entrega ou retirada e pagamento.
-- Autenticação flexível do comprador, com login por email e senha ou código único.
 
 Além desses recursos, a VTEX oferece funcionalidades para otimizar a experiência de compra de cenários B2B, facilitando a personalização e oferecendo segurança na transação para seus compradores.
 
@@ -82,7 +81,7 @@ No Buyer Portal Checkout, usuários podem selecionar endereços de entrega a par
 
 ### Múltiplas opções de entrega (Multidelivery)
 
-A funcionalidade permite que os compradores escolham diferentes combinações de envio e [opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) para cada item do carrinho, proporcionando mais flexibilidade para a finalização da compra.
+A funcionalidade permite que os compradores escolham diferentes combinações de [opções de envio](https://help.vtex.com/pt/docs/tutorials/opcoes-de-envio-beta) para cada item do carrinho, proporcionando mais flexibilidade para a finalização da compra.
 
 ![Multidelivery](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_6.png)
 
