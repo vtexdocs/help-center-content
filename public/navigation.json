@@ -18449,12 +18449,12 @@
                   "name": {
                     "en": "Search and Recommendations Data Pipeline",
                     "es": "Búsqueda y recomendaciones: Data Pipeline",
-                    "pt": "Search and Recommendations Data Pipeline"
+                    "pt": "Busca e Recomendações Data Pipeline"
                   },
                   "slug": {
-                    "en": "search-data-pipeline",
-                    "es": "busca-data-pipeline",
-                    "pt": ""
+                    "en": "search-and-recomendations-data-pipeline",
+                    "es": "busqueda-y-recomendaciones-data-pipeline",
+                    "pt": "busca-e-recomendacoes-data-pipeline"
                   },
                   "origin": "",
                   "type": "markdown",
