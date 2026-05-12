@@ -3,7 +3,7 @@ title: 'CMS para Store Framework'
 id: 4yB9wSl79cArd68aRBnBZ2
 status: PUBLISHED
 createdAt: 2022-01-10T17:28:27.583Z
-updatedAt: 2026-03-30T18:59:35.462Z
+updatedAt: 2026-05-12T18:06:04.532Z
 publishedAt: 2024-11-18T18:06:20.182Z
 firstPublishedAt: 2022-01-10T20:13:28.409Z
 contentType: trackArticle
@@ -80,6 +80,6 @@ Para saber mais sobre este módulo, acesse [Mídia- Visão geral](https://help.v
 
 ## Saiba mais
 
-- **[Gerenciando conteúdo de página e template](https://help.vtex.com/pt/docs/tutorials/gerenciando-conteudo-de-pagina-e-template):** Construa a frente de sua loja de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor.
+- **[Gerenciando conteúdo de página e template](https://help.vtex.com/pt/docs/tutorials/gerenciando-conteudo-de-pagina-e-template):** construa a frente de sua loja de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor.
 
-- **[Gerenciando conteúdo por binding](https://help.vtex.com/pt/docs/tutorials/gerenciando-conteudo-por-binding):** Personalize estrategicamente a aparência da sua loja de acordo com a localização dos usuários para aumentar o acesso e as taxas de vendas.
+- **[Gerenciando conteúdo por binding](https://help.vtex.com/pt/docs/tutorials/gerenciando-conteudo-por-binding):** personalize estrategicamente a aparência da sua loja de acordo com a localização dos usuários para aumentar o acesso e as taxas de vendas.
