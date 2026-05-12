@@ -149,12 +149,12 @@ flowchart TD
 
 ## Search data characteristics
 
-|      **Characteristic**     |                                            **Description**                                            |
-| :-------------------------: | :---------------------------------------------------------------------------------------------------: |
+|  **Characteristic** | **Description** |
+| :---------------:   | :-------------: |
 |       **Data source**       | Obtained from Intelligent Search API requests and responses and Activity Flow events. |
 |       **Availability**      |                  This metric is only available through Data Pipeline.                 |
 |         **History**         |                         Historical data starts in August 2025.                        |
-| **Minimum update interval** |                                       One hour.                                       |
+| **Minimum update interval** |            One hour.            |
 
 ## Table: request
 
@@ -164,27 +164,27 @@ Stores core information about buyer search queries, including the search text, f
 
 The table fields are described below:
 
-|                           **Column name**                           | **Column type** |                                                                                                                                                                       **Column description**                                                                                                                                                                       |
-| :-----------------------------------------------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                    search_id                   |      string     |                                                                                                      Search UUID. Unique identifier for each search request used to join with response tables and other search-related tables.                                                                                                     |
-|                  account_name                  |      string     |                                                                                                                Name of the account where the search was completed. Identifies the store associated with the search.                                                                                                                |
-|                   event_time                   |    timestamp    |                                                                                                               Search event timestamp. Indicates when the search request was received and processed by the search API.                                                                                                              |
-|                                origin                               |      string     |                                                                       Request origin. Indicates where the search originated from, such as 'autocomplete', 'search', or other entry points. Used to understand user search behavior patterns.                                                                       |
-|                 default_locale                 |      string     |                                                                                            Default locale of the tenant. The store's default language and region setting (example: 'en-US', 'pt-BR').                                                                                           |
-|                                locale                               |      string     |                                 Locale requested by the buyer. The specific language and region setting requested for this search (example: 'en-US', 'pt-BR'). It may differ from the `default_locale` if the user selects a different language.                                |
-|                                query                                |      string     |                                                                     Full-text search query string entered by the buyer. The search term or phrase used to find products. This may be empty for searches that only use field queries or filters.                                                                    |
-|                               operator                              |      string     |                                                                                  Query operator. Defines how multiple search terms are combined: 'and' requires all terms to match while 'or' requires at least one term to match.                                                                                 |
-|                                fuzzy                                |      string     | Tolerance for query errors. Controls the tolerance for typos and spelling errors in the search. It can be '0' (exact match), '1' (difference of one character), '2' (difference of two characters), or 'auto' (automatic calculation). |
-|                   sort_field                   |      string     |                                                                                                            Product field used to sort the results. The may be 'relevance', 'price', 'name', or other product attributes.                                                                                                           |
-|                   sort_order                   |      string     |                                                                Sort order for the results. Specifies if the results are sorted in ascending ('asc') or descending ('desc') order based on the sort_field.                                                               |
-|                                 page                                |       int       |                                                                                       Current page number in the search results. Used for pagination, starting at page 1. Each page is considered a separate search request.                                                                                       |
-|     products_per_page     |       int       |                                                                                                                 Number of products per page. The page size requested for search results, typically 10, 20, 30, etc.                                                                                                                |
-|                  trade_policy                  |      string     |                                                                                                     Sales channel (trade policy) of the session. Identifies the specific sales channel used for this search.                                                                                                    |
-| delivery_promises_enabled |     boolean     |                                                                                                                                      Indicates whether the Delivery Promise feature is enabled on the account.                                                                                                                                     |
-|  delivery_promises_active |     boolean     |                                                                                                                                      Indicates whether the Delivery Promise feature is active for this search.                                                                                                                                     |
-|     record_created_at     |    timestamp    |                                                                                                                                            Timestamp for when this record was created in the lakehouse.                                                                                                                                            |
-|     record_updated_at     |    timestamp    |                                                                                                                                            Timestamp when this record was last updated in the lakehouse.                                                                                                                                           |
-|                    batch_id                    |    timestamp    |                                                                                                      Identifier used when data is loaded into the table for data ingestion quality control. It also serves as a partition key.                                                                                                     |
+| **Column name**  | **Column type** | **Column description** |
+| :-----------:    | :-------------: | :------------: |
+|  search_id   |  string     |  Search UUID. Unique identifier for each search request used to join with response tables and other search-related tables.   |
+|  account_name  |  string     |  Name of the account where the search was completed. Identifies the store associated with the search. |
+|  event_time  |    timestamp    | Search event timestamp. Indicates when the search request was received and processed by the search API.  |
+| origin |string  |   Request origin. Indicates where the search originated from, such as 'autocomplete', 'search', or other entry points. Used to understand user search behavior patterns. |
+| default_locale | string |  Default locale of the tenant. The store's default language and region setting (example: 'en-US', 'pt-BR').  |
+|  locale   | string |  Locale requested by the buyer. The specific language and region setting requested for this search (example: 'en-US', 'pt-BR'). It may differ from the `default_locale` if the user selects a different language. |
+| query  |  string |  Full-text search query string entered by the buyer. The search term or phrase used to find products. This may be empty for searches that only use field queries or filters.|
+| operator  |  string |  Query operator. Defines how multiple search terms are combined: 'and' requires all terms to match while 'or' requires at least one term to match. |
+| fuzzy  |  string  | Tolerance for query errors. Controls the tolerance for typos and spelling errors in the search. It can be '0' (exact match), '1' (difference of one character), '2' (difference of two characters), or 'auto' (automatic calculation). |
+|  sort_field  |  string  |  Product field used to sort the results. The may be 'relevance', 'price', 'name', or other product attributes. |
+|  sort_order   | string |  Sort order for the results. Specifies if the results are sorted in ascending ('asc') or descending ('desc') order based on the sort_field. |
+|   page  |  int  | Current page number in the search results. Used for pagination, starting at page 1. Each page is considered a separate search request. |
+|  products_per_page |  int |  Number of products per page. The page size requested for search results, typically 10, 20, 30, etc. |
+|  trade_policy  | string |  Sales channel (trade policy) of the session. Identifies the specific sales channel used for this search. |
+| delivery_promises_enabled | boolean |  Indicates whether the Delivery Promise feature is enabled on the account. |
+|  delivery_promises_active |  boolean |  Indicates whether the Delivery Promise feature is active for this search. |
+| record_created_at | timestamp |  Timestamp for when this record was created in the lakehouse. |
+|record_updated_at | timestamp  | Timestamp when this record was last updated in the lakehouse. |
+|  batch_id  |  timestamp | Identifier used when data is loaded into the table for data ingestion quality control. It also serves as a partition key.  |
 
 ## Table: response
 
@@ -192,20 +192,20 @@ Table that stores search response information. Contains metadata about the searc
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                                       **Column description**                                                                                                       |
-| :---------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                                                      Search UUID. Unique identifier linking this response to the corresponding search request.                                                     |
-|              account_name              |      string     |                                                Name of the account where the search was completed. Identifies the store associated with the search.                                                |
-|               event_time               |    timestamp    |                                               Search event timestamp. Indicates when the search request was received and processed by the search API.                                              |
-|                           redirect                          |      string     | Redirect URL, if applicable. This field is completed when a search triggers a redirect rule (for example, to specific brand pages). Otherwise, it returns null. |
-|                           latency                           |       int       |                                             Search response latency in milliseconds. Measures the time taken to process and return the search results.                                             |
-|                          misspelled                         |     boolean     |                                                                                Indicates if there is a misspelled word in the query.                                                                               |
-|                            match                            |       int       |                                             Number of matching products. Indicates the total number of items that match the search and applied filters.                                            |
-|                           operator                          |      string     |                                         Query operator after fallback. Indicates the operator used after fallback or corrections are applied to the search.                                        |
-|                            fuzzy                            |      string     |                                    Query tolerance level after fallback. Indicates the final tolerance value used after any query processing or fallback logic.                                    |
-| record_created_at |    timestamp    |                                                                            Date and time when this record was created in the lakehouse.                                                                            |
-| record_updated_at |    timestamp    |                                                                      Date and time of the last time this record was updated in the lakehouse.                                                                      |
-|                batch_id                |    timestamp    |                                Identifier generated when the data is loaded into the table. This is used for ingestion quality control and also as a partition key.                                |
+| **Column name** | **Column type** | **Column description** |
+| :--------: | :-------------: | :----------: |
+|  search_id  | string     |  Search UUID. Unique identifier linking this response to the corresponding search request.   |
+| account_name |  string  | Name of the account where the search was completed. Identifies the store associated with the search.  |
+| event_time |    timestamp    | Search event timestamp. Indicates when the search request was received and processed by the search API. |
+| redirect  |string  | Redirect URL, if applicable. This field is completed when a search triggers a redirect rule (for example, to specific brand pages). Otherwise, it returns null. |
+|  latency | int | Search response latency in milliseconds. Measures the time taken to process and return the search results. |
+|  misspelled| boolean|  Indicates if there is a misspelled word in the query. |
+|  match | int | Number of matching products. Indicates the total number of items that match the search and applied filters.|
+|  operator | string | Query operator after fallback. Indicates the operator used after fallback or corrections are applied to the search. |
+|  fuzzy  | string | Query tolerance level after fallback. Indicates the final tolerance value used after any query processing or fallback logic.|
+| record_created_at | timestamp| Date and time when this record was created in the lakehouse. |
+| record_updated_at | timestamp |  Date and time of the last time this record was updated in the lakehouse.|
+| batch_id  | timestamp | Identifier generated when the data is loaded into the table. This is used for ingestion quality control and also as a partition key. |
 
 ## Table: response_product
 
@@ -213,21 +213,21 @@ Table that contains the products returned in the search response. It stores deta
 
 The table fields are described below:
 
-|                          **Column name**                          | **Column type** |                                                                                                                                                             **Column description**                                                                                                                                                            |
-| :---------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                   search_id                  |      string     |                                                                                                  Search UUID. Unique identifier linking this product result to the corresponding search request and response.                                                                                                 |
-|                 account_name                 |      string     |                                                                                                      Name of the account where the search was completed. Identifies the store associated with the search.                                                                                                     |
-|                  local_index                 |      bigint     |                                                                               Product index relative to the current page. The position of the product within the current search results page (0-based index).                                                                              |
-|                 global_index                 |      bigint     |                                                                                     Product index relative to the complete result set. The position of the product within the complete search result set across all pages.                                                                                    |
-|   internal_product_id   |      string     | Internal product ID. Unique identifier for the product variant within the search engine. When splitting SKUs by specification is enabled, this differs from product_id and includes the specification value (example: '124633-blue'). |
-|                  product_id                  |      string     |                                                                     Product ID. The default product identifier that can be joined with the Catalog data model. This is the base product ID without specification details.                                                                     |
-|                           specification                           |      string     |                                                                                                    Product specification. The product specification value when separating SKUs by specification is enabled.                                                                                                   |
-|                             available                             |     boolean     |                                                                                                 Indicates if the product is available. Shows if the product is currently in stock and available for purchase.                                                                                                 |
-|                               score                               |      bigint     |                                                               Relevance score. The numerical score assigned by the search engine indicating how relevant this product is to the query. Higher scores indicate better relevance.                                                               |
-| cosine_similarity_match |     boolean     |                                                    Indicates if the product matched based on cosine similarity in hybrid search. Shows if the product was matched by semantic similarity (vector search) when hybrid search is enabled.                                                    |
-|    record_created_at    |    timestamp    |                                                                                                                                  Timestamp of when this record was created in the lakehouse.                                                                                                                                  |
-|    record_updated_at    |    timestamp    |                                                                                                                                Timestamp of when this record was last updated in the lakehouse.                                                                                                                               |
-|                   batch_id                   |    timestamp    |                                                                                          Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                                                                                         |
+| **Column name** | **Column type** | **Column description** |
+| :---------: | :-------------: | :--------------: |
+| search_id | string| Search UUID. Unique identifier linking this product result to the corresponding search request and response. |
+| account_name  | string |  Name of the account where the search was completed. Identifies the store associated with the search.  |
+| local_index  |  bigint  |  Product index relative to the current page. The position of the product within the current search results page (0-based index).  |
+| global_index | bigint  | Product index relative to the complete result set. The position of the product within the complete search result set across all pages. |
+| internal_product_id | string | Internal product ID. Unique identifier for the product variant within the search engine. When splitting SKUs by specification is enabled, this differs from product_id and includes the specification value (example: '124633-blue'). |
+|product_id |  string |  Product ID. The default product identifier that can be joined with the Catalog data model. This is the base product ID without specification details. |
+| specification | string | Product specification. The product specification value when separating SKUs by specification is enabled. |
+| available |  boolean | Indicates if the product is available. Shows if the product is currently in stock and available for purchase. |
+|  score  |bigint  |Relevance score. The numerical score assigned by the search engine indicating how relevant this product is to the query. Higher scores indicate better relevance. |
+| cosine_similarity_match | boolean  | Indicates if the product matched based on cosine similarity in hybrid search. Shows if the product was matched by semantic similarity (vector search) when hybrid search is enabled. |
+| record_created_at | timestamp | Timestamp of when this record was created in the lakehouse.|
+| record_updated_at  |  timestamp| Timestamp of when this record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key. |
 
 ## Table: click
 
@@ -235,32 +235,32 @@ Table containing search result clicks. Stores information about buyers clicking 
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                                      **Column description**                                                                                                     |
-| :---------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                click_id                |      string     |                                                  Unique identifier for the click event. UUID that uniquely identifies each search result click.                                                 |
-|                search_id               |      string     |                                                   Search UUID that generated the results. Links the click to the corresponding search request.                                                  |
-|               session_id               |      string     |                                                      Unique session ID from Activity Flow. Links the click to the user's browsing session.                                                      |
-|                 mac_id                 |      string     |                            Unique ID (UUID) to identify recurring users from Activity Flow. Links the click to the device identifier of the user.                            |
-|              account_name              |      string     |                                               VTEX account of the store where the click occurred. Identifies the store associated with the click.                                               |
-|               event_time               |    timestamp    |                                    Timestamp of when the click event was ingested. Indicates when the event was received and processed by the data pipeline.                                    |
-|               client_time              |    timestamp    | Timestamp of the event on the buyer's device. Indicates when the click actually occurred on the client side. May be inconsistent if the time on the user's device is incorrect. |
-|                             url                             |      string     |                             Full URL where the click occurred. The complete web address of the page where the search results were displayed and the click happened.                             |
-|                             ref                             |      string     |                        URL of the page that directed the buyer to this page. The reference URL that indicates where the user came from before viewing the search results.                       |
-|                          workspace                          |      string     |                                Workspace the user is visiting (example: master). Relevant for A/B testing on the IO platform.                                |
-|               access_type              |      string     |                             Type of page access. Can be 'internal' for internal VTEX URLs (myvtex domains) or 'public' for customer-facing pages.                            |
-|               sp_variant               |      string     |                          Current experiment ID and variant ID from the Intelligent Search A/B testing service. Identifies the A/B test variant the user was exposed to.                         |
-|            search_anonymous            |      string     |                                              Anonymous ID from the Intelligent Search pixel. Anonymous identifier used for tracking and analytics.                                              |
-|             search_session             |      string     |                                     Session ID from the Intelligent Search pixel. Session identifier used to track user sessions within the search context.                                     |
-|                 page_x                 |      float      |                                                   X coordinate of the click on the page. Horizontal position where the user clicked in pixels.                                                  |
-|                 page_y                 |      float      |                                                    Y coordinate of the click on the page. Vertical position where the user clicked in pixels.                                                   |
-|                           element                           |      string     |                HTML element that was clicked. Identifies the type of element that received the click event (example: 'button', 'link', 'div').               |
-|             element_source             |      string     |                                 Identifies the origin of the event on the frontend. In the search context, this can be 'search-result' or 'search-autocomplete'.                                |
-|               product_id               |      string     |      Product ID of the clicked item. When SKU separation by specification is enabled, this value may not be unique because it represents the base product ID without specification details.     |
-|          product_specification         |      string     |                                    Product specification of the clicked item. The value of the specification when SKU separation by specification is enabled.                                   |
-|            product_position            |       int       |                             Position of the clicked product. The position of the product in the search results when it was clicked (starts at 1).                            |
-| record_created_at |    timestamp    |                                                                           Timestamp of when this record was created in the lakehouse.                                                                           |
-| record_updated_at |    timestamp    |                                                                         Timestamp of when this record was last updated in the lakehouse.                                                                        |
-|                batch_id                |    timestamp    |                                   Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                                  |
+|  **Column name** | **Column type** |  **Column description** |
+| :------------: | :-------------: | :-----------------: |
+| click_id  | string | Unique identifier for the click event. UUID that uniquely identifies each search result click.  |
+| search_id  | string  |  Search UUID that generated the results. Links the click to the corresponding search request. |
+|session_id  | string  | Unique session ID from Activity Flow. Links the click to the user's browsing session.  |
+| mac_id| string | Unique ID (UUID) to identify recurring users from Activity Flow. Links the click to the device identifier of the user. |
+| account_name  |  string|VTEX account of the store where the click occurred. Identifies the store associated with the click.|
+| event_time| timestamp    | Timestamp of when the click event was ingested. Indicates when the event was received and processed by the data pipeline. |
+| client_time |    timestamp    | Timestamp of the event on the buyer's device. Indicates when the click actually occurred on the client side. May be inconsistent if the time on the user's device is incorrect. |
+| url | string  |Full URL where the click occurred. The complete web address of the page where the search results were displayed and the click happened.   |
+|  ref |   string |   URL of the page that directed the buyer to this page. The reference URL that indicates where the user came from before viewing the search results.  |
+|   workspace |  string     |     Workspace the user is visiting (example: master). Relevant for A/B testing on the IO platform.|
+| access_type  |  string     |  Type of page access. Can be 'internal' for internal VTEX URLs (myvtex domains) or 'public' for customer-facing pages. |
+| sp_variant |      string     |   Current experiment ID and variant ID from the Intelligent Search A/B testing service. Identifies the A/B test variant the user was exposed to.  |
+|search_anonymous |      string     | Anonymous ID from the Intelligent Search pixel. Anonymous identifier used for tracking and analytics.    |
+| search_session  |      string     |  Session ID from the Intelligent Search pixel. Session identifier used to track user sessions within the search context.   |
+|  page_x   | float |    X coordinate of the click on the page. Horizontal position where the user clicked in pixels.   |
+|  page_y   | float |     Y coordinate of the click on the page. Vertical position where the user clicked in pixels.    |
+|element| string|  HTML element that was clicked. Identifies the type of element that received the click event (example: 'button', 'link', 'div').  |
+| element_source  |  string     |      Identifies the origin of the event on the frontend. In the search context, this can be 'search-result' or 'search-autocomplete'.     |
+|  product_id  |  string  | Product ID of the clicked item. When SKU separation by specification is enabled, this value may not be unique because it represents the base product ID without specification details.  |
+| product_specification  |  string |Product specification of the clicked item. The value of the specification when SKU separation by specification is enabled.        |
+|  product_position   |int |  Position of the clicked product. The position of the product in the search results when it was clicked (starts at 1). |
+| record_created_at | timestamp | Timestamp of when this record was created in the lakehouse. |
+| record_updated_at | timestamp | Timestamp of when this record was last updated in the lakehouse. |
+|  batch_id |    timestamp    |  Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key. |
 
 ## Table: impression
 
@@ -268,28 +268,28 @@ Table containing impressions of search results. Stores information about when se
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                                             **Column description**                                                                                                             |
-| :---------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|              impression_id             |      string     |                                                    Unique identifier for the impression event. UUID that uniquely identifies each search result impression.                                                    |
-|                search_id               |      string     |                                                    UUID of the search that generated the results. Links the impression to the corresponding search request.                                                    |
-|               session_id               |      string     |                                                           Unique session ID from Activity Flow. Links the impression to the user's browsing session.                                                           |
-|                 mac_id                 |      string     |                                    Unique ID (UUID) to identify recurring users from Activity Flow. Links the impression to the user's device identifier.                                   |
-|              account_name              |      string     |                                                  VTEX account of the store where the impression occurred. Identifies the store associated with the impression.                                                 |
-|               event_time               |    timestamp    |                                         Timestamp of when the impression event was ingested. Indicates when the event was received and processed by the data pipeline.                                         |
-|               client_time              |    timestamp    | Timestamp of the event on the buyer's device. Indicates when the search results were actually displayed on the client side. May be inconsistent if the time on the user's device is incorrect. |
-|                             url                             |      string     |                                              Full URL where the impression occurred. The complete web address of the page where the search results were displayed.                                             |
-|                             ref                             |      string     |                                                URL of the page that directed the buyer to this page. The reference URL that indicates where the user came from.                                                |
-|                          workspace                          |      string     |                                        Workspace the user is visiting (example: master). Relevant for A/B testing on the IO platform.                                       |
-|               access_type              |      string     |                                    Type of page access. Can be 'internal' for internal VTEX URLs (myvtex domains) or 'public' for customer-facing pages.                                    |
-|               sp_variant               |      string     |                                 Current experiment ID and variant ID from the Intelligent Search A/B testing service. Identifies the A/B test variant the user was exposed to.                                 |
-|            search_anonymous            |      string     |                                                      Anonymous ID from the Intelligent Search pixel. Anonymous identifier used for tracking and analytics.                                                     |
-|             search_session             |      string     |                                             Session ID from the Intelligent Search pixel. Session identifier used to track user sessions within the search context.                                            |
-|             impression_type            |      string     |                           Impression type. Categorizes the type of search result impression (example: 'search', 'autocomplete', 'recommendation').                          |
-|                           element                           |      string     |               HTML element that was displayed. Identifies the type of element that generated the impression event (example: 'product-card', 'search-result').               |
-|             element_source             |      string     |                                         Identifies the origin of the event on the frontend. In the search context, it can be 'search-result' or 'search-autocomplete'.                                         |
-| record_created_at |    timestamp    |                                                                                   Timestamp of when this record was created in the lakehouse.                                                                                  |
-| record_updated_at |    timestamp    |                                                                                Timestamp of when this record was last updated in the lakehouse.                                                                                |
-|                batch_id                |    timestamp    |                                          Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                                          |
+|  **Column name** | **Column type** |  **Column description**  |
+| :-----: | :-------------: | :----------: |
+| impression_id  |      string     |  Unique identifier for the impression event. UUID that uniquely identifies each search result impression.     |
+| search_id  |      string     |  UUID of the search that generated the results. Links the impression to the corresponding search request.     |
+| session_id  |      string  | Unique session ID from Activity Flow. Links the impression to the user's browsing session. |
+|  mac_id  |      string     | Unique ID (UUID) to identify recurring users from Activity Flow. Links the impression to the user's device identifier.        |
+| account_name | string |   VTEX account of the store where the impression occurred. Identifies the store associated with the impression.  |
+| event_time  | timestamp |  Timestamp of when the impression event was ingested. Indicates when the event was received and processed by the data pipeline.              |
+| client_time  | timestamp | Timestamp of the event on the buyer's device. Indicates when the search results were actually displayed on the client side. May be inconsistent if the time on the user's device is incorrect. |
+|  url  |  string | Full URL where the impression occurred. The complete web address of the page where the search results were displayed.  |
+|  ref  | string | URL of the page that directed the buyer to this page. The reference URL that indicates where the user came from. |
+| workspace | string     | Workspace the user is visiting (example: master). Relevant for A/B testing on the IO platform. |
+| access_type | string |  Type of page access. Can be 'internal' for internal VTEX URLs (myvtex domains) or 'public' for customer-facing pages.  |
+| sp_variant  | string |  Current experiment ID and variant ID from the Intelligent Search A/B testing service. Identifies the A/B test variant the user was exposed to. |
+| search_anonymous  |  string | Anonymous ID from the Intelligent Search pixel. Anonymous identifier used for tracking and analytics. |
+| search_session | string | Session ID from the Intelligent Search pixel. Session identifier used to track user sessions within the search context. |
+| impression_type  |  string |Impression type. Categorizes the type of search result impression (example: 'search', 'autocomplete', 'recommendation').   |
+|element|  string  |HTML element that was displayed. Identifies the type of element that generated the impression event (example: 'product-card', 'search-result').   |
+|  element_source  |  string  |  Identifies the origin of the event on the frontend. In the search context, it can be 'search-result' or 'search-autocomplete'. |
+| record_created_at |    timestamp    |Timestamp of when this record was created in the lakehouse. |
+| record_updated_at |    timestamp    | Timestamp of when this record was last updated in the lakehouse. |
+| batch_id|    timestamp |  Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key. |
 
 ## Table: impression_click
 
@@ -297,14 +297,14 @@ Table that assigns clicks to impressions. Establishes the relationship between i
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                          **Column description**                                                                         |
-| :---------------------------------------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|              account_name              |      string     |                    VTEX account of the store. Identifies the store associated with the impression-click relationship.                   |
-|              impression_id             |      string     | Unique identifier for the impression event. Links to the impression table to identify the search result impression that led to a click. |
-|                click_id                |      string     |      Unique identifier for the click event. Links to the click table to identify the click that was generated from this impression.     |
-| record_created_at |    timestamp    |                                               Timestamp of when this record was created in the lakehouse.                                               |
-| record_updated_at |    timestamp    |                                             Timestamp of when this record was last updated in the lakehouse.                                            |
-|                batch_id                |    timestamp    |       Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.      |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| account_name | string | VTEX account of the store. |
+| impression_id | string | Unique identifier for the impression event. Links to the impression table. |
+| click_id | string | Unique identifier for the click event. Links to the click table. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ## Table: impression_order_group
 
@@ -312,14 +312,14 @@ Table that assigns order groups to impressions. Establishes the relationship bet
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                                                              **Column description**                                                                                                                             |
-| :---------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|              impression_id             |      string     |                                                     Unique identifier for the impression event. Links to the impression table to identify the search result impression that led to an order.                                                    |
-|              account_name              |      string     |                        VTEX account of the store. Identifies the store associated with the impression-order relationship. Order groups are unique to the account_name, not globally.                       |
-|               order_group              |      string     | Order group identifier. Links the impression to a specific order transaction (which can also be found in the Orders data model), enabling comprehensive analysis of the customer journey from search impression to purchase. |
-| record_created_at |    timestamp    |                                                                                                   Timestamp of when this record was created in the lakehouse.                                                                                                   |
-| record_updated_at |    timestamp    |                                                                                                 Timestamp of when this record was last updated in the lakehouse.                                                                                                |
-|                batch_id                |    timestamp    |                                                           Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                                                          |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| impression_id | string | Unique identifier for the impression event. Links to the impression table. |
+| account_name | string | VTEX account of the store. Order groups are unique to the account_name, not globally. |
+| order_group | string | Links the impression to a specific order transaction, enabling analysis of the customer journey from search to purchase. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ## Request detail tables
 
@@ -333,14 +333,14 @@ Table containing the list of active sellers in the session where the search occu
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                          **Column description**                                                                          |
-| :---------------------------------------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                          Search UUID. Unique identifier linking this seller to the corresponding search request.                         |
-|              account_name              |      string     |                   Name of the account where the search was completed. Identifies the store associated with the search.                   |
-|                seller_id               |      string     | Seller identifier. ID of the seller that was active in the session during the search. Used for regionalization analysis. |
-| record_created_at |    timestamp    |                                                Timestamp of when this record was created in the lakehouse.                                               |
-| record_updated_at |    timestamp    |                                             Timestamp of when this record was last updated in the lakehouse.                                             |
-|                batch_id                |    timestamp    |       Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.       |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this seller to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| seller_id | string | ID of the seller active in the session during the search. Used for regionalization analysis. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_merchandising_rule
 
@@ -348,14 +348,14 @@ Table containing the list of merchandising rules considered in the search reques
 
 The table fields are described below:
 
-|                         **Column name**                         | **Column type** |                                                                    **Column description**                                                                    |
-| :-------------------------------------------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                  search_id                 |      string     |              Search UUID. Unique identifier linking this merchandising rule to the corresponding search request.             |
-|                account_name                |      string     |             Name of the account where the search was completed. Identifies the store associated with the search.             |
-| merchandising_rule_id |      string     |              Merchandising rule ID. Unique identifier of the merchandising rule that was applied to this search.             |
-|   record_created_at   |    timestamp    |                                          Timestamp of when this record was created in the lakehouse.                                         |
-|   record_updated_at   |    timestamp    |                                       Timestamp of when this record was last updated in the lakehouse.                                       |
-|                  batch_id                  |    timestamp    | Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key. |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this merchandising rule to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| merchandising_rule_id | string | Unique identifier of the merchandising rule applied to this search. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_field_query
 
@@ -363,15 +363,15 @@ Table containing information about "get by ID" queries. These are queries like `
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                           **Column description**                                                                                          |
-| :---------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                                        Search UUID. Unique identifier linking this field query to the corresponding search request.                                       |
-|              account_name              |      string     |                                    Name of the account where the search was completed. Identifies the store associated with the search.                                   |
-|                            field                            |      string     |                   Product field used in the query. Name of the field that was queried, such as 'product', 'sku', or other product identification fields.                  |
-|                            query                            |      string     | Value of the product query. The specific value of the identifier that was searched for (example: '123' for 'sku:123'). |
-| record_created_at |    timestamp    |                                                                Timestamp of when this record was created in the lakehouse.                                                                |
-| record_updated_at |    timestamp    |                                                              Timestamp of when this record was last updated in the lakehouse.                                                             |
-|                batch_id                |    timestamp    |                        Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                       |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this field query to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| field | string | Product field used in the query (e.g. `product`, `sku`). |
+| query | string | Specific value searched for the given field (e.g. `123` for `sku:123`). |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_text_filter
 
@@ -379,15 +379,15 @@ Table containing information about text filters applied to facets instead of tex
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                       **Column description**                                                                                      |
-| :---------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                                    Search UUID. Unique identifier linking this text filter to the corresponding search request.                                   |
-|              account_name              |      string     |                                Name of the account where the search was completed. Identifies the store associated with the search.                               |
-|                             key                             |      string     |             Attribute key. Name of the product attribute that was filtered (example: 'brand', 'category', 'color').            |
-|                            value                            |      string     | Attribute value. The specific value that was selected for the filter (example: 'apple' for brand, 'electronics' for category). |
-| record_created_at |    timestamp    |                                                            Timestamp of when this record was created in the lakehouse.                                                            |
-| record_updated_at |    timestamp    |                                                          Timestamp of when this record was last updated in the lakehouse.                                                         |
-|                batch_id                |    timestamp    |                    Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                   |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this text filter to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| key | string | Name of the product attribute that was filtered (e.g. `brand`, `category`, `color`). |
+| value | string | Specific value selected for the filter (e.g. `apple` for brand, `electronics` for category). |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_number_filter
 
@@ -395,16 +395,16 @@ Table containing information about numeric filters applied to facets instead of 
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                               **Column description**                                                                              |
-| :---------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                          Search UUID. Unique identifier linking this numeric filter to the corresponding search request.                          |
-|              account_name              |      string     |                        Name of the account where the search was completed. Identifies the store associated with the search.                       |
-|                             key                             |      string     | Attribute key. Name of the numeric product attribute that was filtered (example: 'price', 'rating', 'weight'). |
-|                             from                            |      string     |                                                                Lower threshold of the range filter.                                                               |
-|                              to                             |      string     |                                                                Upper threshold of the range filter.                                                               |
-| record_created_at |    timestamp    |                                                    Timestamp of when this record was created in the lakehouse.                                                    |
-| record_updated_at |    timestamp    |                                                  Timestamp of when this record was last updated in the lakehouse.                                                 |
-|                batch_id                |    timestamp    |            Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.           |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this numeric filter to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| key | string | Name of the numeric attribute that was filtered (e.g. `price`, `rating`, `weight`). |
+| from | string | Lower threshold of the range filter. |
+| to | string | Upper threshold of the range filter. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_relevance_rule
 
@@ -412,17 +412,17 @@ Table containing information about relevance rules applied to search requests. R
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                                            **Column description**                                                                                                           |
-| :---------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                                                       Search UUID. Unique identifier linking this relevance rule to the corresponding search request.                                                       |
-|              account_name              |      string     |                                                     Name of the account where the search was completed. Identifies the store associated with the search.                                                    |
-|                             type                            |      string     |                                            Boost type. The type of relevance rule or boost that was applied, such as 'click', 'newness', 'revenue', among others.                                           |
-|           composition_weight           |       int       | Boost weight when using composite criteria. The weight assigned to this relevance rule when multiple criteria are combined. Higher weights indicate greater influence on the final ranking. |
-|             priority_index             |       int       |         Boost index when using a priority criterion. The priority order of this relevance rule when multiple priority criteria are applied. Lower indexes indicate higher priority.         |
-|                           priority                          |     boolean     |                          Indicates if it's a priority criterion. If it is, this relevance rule is treated as a priority criterion that takes precedence over other ranking factors.                         |
-| record_created_at |    timestamp    |                                                                                 Timestamp of when this record was created in the lakehouse.                                                                                 |
-| record_updated_at |    timestamp    |                                                                               Timestamp of when this record was last updated in the lakehouse.                                                                              |
-|                batch_id                |    timestamp    |                                         Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                                        |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this relevance rule to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| type | string | Type of relevance rule or boost applied (e.g. `click`, `newness`, `revenue`). |
+| composition_weight | int | Weight assigned to this rule when multiple criteria are combined. Higher values indicate greater influence on ranking. |
+| priority_index | int | Priority order of this rule when multiple priority criteria are applied. Lower indexes indicate higher priority. |
+| priority | boolean | Whether this rule is treated as a priority criterion that takes precedence over other ranking factors. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_hybrid_search
 
@@ -430,19 +430,19 @@ Table containing details about hybrid search for queries that use that feature. 
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                                                           **Column description**                                                                                                                          |
-| :---------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                                                              Search UUID. Unique identifier that links this hybrid search configuration to the corresponding search request.                                                              |
-|              account_name              |      string     |                                                                    Name of the account where the search was completed. Identifies the store associated with the search.                                                                   |
-|                            model                            |      string     |      Embedding model ID. Identifier of the machine learning model used to generate embeddings for semantic search (example: 'openai:text-embedding-3-small:1024').     |
-|                            ratio                            |      float      | Proportion between semantic search and lexical search. The balance between semantic and lexical search results, typically a value between 0 and 1. A ratio of 0.5 means equal weight for both approaches. |
-|                           binning                           |      float      |                                                 Score binning level. Granularity level used to group similarity scores (example: 0.01).                                                |
-|                          similarity                         |      float      |                                                   Minimum similarity threshold. The minimum cosine similarity score required for a product to be considered a match in semantic search.                                                   |
-|                           products                          |       int       |                                                                                                Number of products to be returned from the semantic search.                                                                                                |
-|                          candidates                         |       int       |                                                                                                     Number of products to be returned from each shard.                                                                                                    |
-| record_created_at |    timestamp    |                                                                                                Timestamp of when this record was created in the lakehouse.                                                                                                |
-| record_updated_at |    timestamp    |                                                                                              Timestamp of when this record was last updated in the lakehouse.                                                                                             |
-|                batch_id                |    timestamp    |                                                        Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                                                       |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this hybrid search configuration to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| model | string | Identifier of the ML model used to generate embeddings for semantic search (e.g. `openai:text-embedding-3-small:1024`). |
+| ratio | float | Balance between semantic and lexical search, from 0 to 1. A value of `0.5` means equal weight for both. |
+| binning | float | Granularity level used to group similarity scores (e.g. `0.01`). |
+| similarity | float | Minimum cosine similarity score required for a product to be considered a match. |
+| products | int | Number of products to be returned from the semantic search. |
+| candidates | int | Number of products to be returned from each shard. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_setting
 
@@ -450,21 +450,21 @@ Table containing details about the search engine settings for each search reques
 
 The table fields are described below:
 
-|                            **Column name**                            | **Column type** |                                                                                            **Column description**                                                                                            |
-| :-------------------------------------------------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                     search_id                    |      string     |                                          Search UUID. Unique identifier linking these settings to the corresponding search request.                                          |
-|                   account_name                   |      string     |                                     Name of the account where the search was completed. Identifies the store associated with the search.                                     |
-|               elasticsearch_cluster              |      string     | Elasticsearch cluster identifier. Name of the Elasticsearch cluster used to process this search (example: 'is-intelligent-search-v8-05'). |
-|                elasticsearch_group               |      string     |            Elasticsearch group identifier. Name of the Elasticsearch group used to process this search (example: 'shared-01').            |
-|    hide_unavailable_items   |     boolean     |        Indicates whether unavailable items are removed from the response. If they are, out-of-stock or unavailable products are filtered out from the search results.        |
-|     show_invisible_items    |     boolean     |         Indicates whether invisible items are included in the response. If they are, products marked as invisible in the catalog are included in the search results.         |
-| merchandising_rules_enabled |     boolean     |                          Indicates whether merchandising rules are enabled. If they are, the merchandising rules feature is active for this search.                          |
-|   priority_boosts_enabled   |     boolean     |                              Indicates whether priority boosts are enabled. If they are, the priority boost features are active for this search.                             |
-|   secondary_boosts_enabled  |     boolean     |                             Indicates whether secondary boosts are enabled. If they are, the secondary boost features are active for this search.                            |
-|   diacritics_boost_enabled  |     boolean     |                   Indicates whether the diacritics boost is enabled. If it is, the diacritics (accents) boost is active for this search.                  |
-|      record_created_at      |    timestamp    |                                                                  Timestamp of when this record was created in the lakehouse.                                                                 |
-|      record_updated_at      |    timestamp    |                                                               Timestamp of when this record was last updated in the lakehouse.                                                               |
-|                     batch_id                     |    timestamp    |                         Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                         |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking these settings to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| elasticsearch_cluster | string | Name of the Elasticsearch cluster used to process this search (e.g. `is-intelligent-search-v8-05`). |
+| elasticsearch_group | string | Name of the Elasticsearch group used to process this search (e.g. `shared-01`). |
+| hide_unavailable_items | boolean | Whether out-of-stock or unavailable products are filtered out from search results. |
+| show_invisible_items | boolean | Whether products marked as invisible in the catalog are included in search results. |
+| merchandising_rules_enabled | boolean | Whether the merchandising rules feature is active for this search. |
+| priority_boosts_enabled | boolean | Whether the priority boost features are active for this search. |
+| secondary_boosts_enabled | boolean | Whether the secondary boost features are active for this search. |
+| diacritics_boost_enabled | boolean | Whether the diacritics (accents) boost is active for this search. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_dp_shipping
 
@@ -472,14 +472,14 @@ Table containing delivery information from delivery promises. Stores the deliver
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                  **Column description**                                                                                  |
-| :---------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                             Search UUID. Unique identifier linking this delivery filter to the corresponding search request.                             |
-|              account_name              |      string     |                           Name of the account where the search was completed. Identifies the store associated with the search.                           |
-|                           shipping                          |      string     | Selected delivery filter. The delivery method that was selected as a filter (example: 'pickup-in-point', 'delivery'). |
-| record_created_at |    timestamp    |                                                        Timestamp of when this record was created in the lakehouse.                                                       |
-| record_updated_at |    timestamp    |                                                     Timestamp of when this record was last updated in the lakehouse.                                                     |
-|                batch_id                |    timestamp    |               Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.               |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this delivery filter to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| shipping | string | Delivery method selected as a filter (e.g. `pickup-in-point`, `delivery`). |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_dp_dynamic_estimate
 
@@ -487,14 +487,14 @@ Table containing dynamic estimate information from the delivery promise. Stores 
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                      **Column description**                                                                                      |
-| :---------------------------------------------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                             Search UUID. Unique identifier linking this dynamic estimate filter to the corresponding search request.                             |
-|              account_name              |      string     |                               Name of the account where the search was completed. Identifies the store associated with the search.                               |
-|            dynamic_estimate            |      string     | Selected dynamic estimate filter. The delivery time estimate that was selected as a filter (example: 'same-day', 'next-day'). |
-| record_created_at |    timestamp    |                                                            Timestamp of when this record was created in the lakehouse.                                                           |
-| record_updated_at |    timestamp    |                                                         Timestamp of when this record was last updated in the lakehouse.                                                         |
-|                batch_id                |    timestamp    |                   Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                   |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this dynamic estimate filter to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| dynamic_estimate | string | Delivery time estimate selected as a filter (e.g. `same-day`, `next-day`). |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ### Table: request_dp_delivery_options
 
@@ -502,14 +502,14 @@ Table containing information about delivery options originating from delivery pr
 
 The table fields are described below:
 
-|                       **Column name**                       | **Column type** |                                                                                     **Column description**                                                                                     |
-| :---------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                search_id               |      string     |                             Search UUID. Unique identifier linking this delivery option filter to the corresponding search request.                            |
-|              account_name              |      string     |                              Name of the account where the search was completed. Identifies the store associated with the search.                              |
-|            delivery_options            |      string     | Hash of the JSON object describing the selected delivery option filter. Currently, we don't have the actual values of the delivery options that were selected. |
-| record_created_at |    timestamp    |                                                           Timestamp of when this record was created in the lakehouse.                                                          |
-| record_updated_at |    timestamp    |                                                        Timestamp of when this record was last updated in the lakehouse.                                                        |
-|                batch_id                |    timestamp    |                  Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key.                  |
+| **Column name** | **Type** | **Description** |
+|:--|:--|:--|
+| search_id | string | Unique identifier linking this delivery option filter to the corresponding search request. |
+| account_name | string | Name of the account where the search was completed. |
+| delivery_options | string | Hash of the JSON object describing the selected delivery option filter. Actual values are not currently available. |
+| record_created_at | timestamp | When the record was created in the lakehouse. |
+| record_updated_at | timestamp | When the record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
 
 ## Analyses with search data
 
@@ -528,13 +528,13 @@ Some of the analyses that you can run using the search tables are listed below:
 
 ## Correlations with other data
 
-|    **Dataset**    |                                                                                                                         **Description**                                                                                                                         |
-| :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Navigation    |                  By correlating search queries with navigation paths, you can understand how users discover products through search or navigation. This helps optimize both search and navigation experiences.                  |
-|       Orders      | Linking search impressions and clicks to order data enables comprehensive analysis of search-to-purchase conversion. Identify the queries, product positions, or filters that lead to the highest conversion rates and revenue. |
-|      Catalog      |        Joining search results with catalog data allows you to analyze product discovery, find the product attributes that affect search ranking, and identify products that should have a higher ranking based on their characteristics.        |
-|     Inventory     |               Combining search data with inventory information helps identify when out-of-stock events affect search results and conversions. It helps you understand how availability impacts search performance.              |
-| Cart availability |                      Correlating search results with cart availability data helps identify when products show in a search but become unavailable during checkout, allowing you to optimize availability in search results.                      |
+| **Dataset** | **Description** |
+|:--|:--|
+| Navigation | Correlating search queries with navigation paths helps understand how users discover products, optimizing both search and navigation experiences. |
+| Orders | Linking impressions and clicks to order data enables search-to-purchase conversion analysis, identifying queries, positions, or filters that drive the highest conversion rates. |
+| Catalog | Joining search results with catalog data allows analysis of product discovery, attribute influence on ranking, and identification of underranked products. |
+| Inventory | Combining search data with inventory information helps identify how out-of-stock events affect search results and conversions. |
+| Cart availability | Correlating search results with cart availability data helps identify products that become unavailable during checkout, optimizing availability in search results. |
 
 ### Learn more about other datasets
 
