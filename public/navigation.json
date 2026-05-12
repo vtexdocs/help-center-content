@@ -236,6 +236,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Junho",
+                "es": "Junho",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "junho",
+                "es": "junho",
+                "pt": "junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Gestão nativa de dados pessoais no Master Data v2",
+                    "en": "Gestão nativa de dados pessoais no Master Data v2",
+                    "es": "Gestão nativa de dados pessoais no Master Data v2"
+                  },
+                  "slug": {
+                    "pt": "2026-06-11-gestao-nativa-de-dados-pessoais-no-master-data-v2",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -44050,6 +44081,21 @@
             },
             {
               "name": {
+                "en": "Attachments lost after item split when using checkout-graphql addToCart",
+                "es": "Se pierden los archivos adjuntos tras dividir un artículo al utilizar «checkout-graphql addToCart»",
+                "pt": "Anexos perdidos após a divisão do item ao usar o checkout-graphql addToCart"
+              },
+              "slug": {
+                "en": "attachments-lost-after-item-split-when-using-checkoutgraphql-addtocart",
+                "es": "se-pierden-los-archivos-adjuntos-tras-dividir-un-articulo-al-utilizar-checkoutgraphql-addtocart",
+                "pt": "anexos-perdidos-apos-a-divisao-do-item-ao-usar-o-checkoutgraphql-addtocart"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Available addresses list on Checkout UI missing data for newly created address",
                 "es": "En la lista de direcciones disponibles de la interfaz de pago faltan datos de la dirección recién creada.",
                 "pt": "Lista de endereços disponíveis na interface do usuário do checkout sem dados para o endereço recém-criado"
@@ -45303,6 +45349,21 @@
                 "en": "eternal-loading-in-checkout-ui-v5",
                 "es": "carga-eterna-en-el-checkout-ui-v5",
                 "pt": "carregamento-eterno-no-checkout-ui-v5"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Extra gifts remain in cart when main item exceeds available stock",
+                "es": "Los regalos adicionales permanecen en el carrito cuando el artículo principal supera las existencias disponibles",
+                "pt": "Os presentes adicionais permanecem no carrinho quando o item principal excede o estoque disponível"
+              },
+              "slug": {
+                "en": "extra-gifts-remain-in-cart-when-main-item-exceeds-available-stock",
+                "es": "los-regalos-adicionales-permanecen-en-el-carrito-cuando-el-articulo-principal-supera-las-existencias-disponibles",
+                "pt": "os-presentes-adicionais-permanecem-no-carrinho-quando-o-item-principal-excede-o-estoque-disponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -47757,6 +47818,21 @@
           "children": [
             {
               "name": {
+                "en": "\"Select a Block\" Does Not Work Correctly When Page Extensions Load Lazily in Site Editor",
+                "es": "La opción «Seleccionar un bloque» no funciona correctamente cuando las extensiones de página se cargan de forma diferida en el editor del sitio",
+                "pt": "A opção \"Selecionar um bloco\" não funciona corretamente quando as extensões de página são carregadas de forma diferida no Editor do site"
+              },
+              "slug": {
+                "en": "select-a-block-does-not-work-correctly-when-page-extensions-load-lazily-in-site-editor",
+                "es": "la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio",
+                "pt": "a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
@@ -49978,6 +50054,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
                 "es": "Mercado Libre Los atributos seller_package_height, seller_package_width, seller_package_length y seller_package_weight son obligatorios.",
                 "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
@@ -52158,13 +52249,13 @@
             {
               "name": {
                 "en": "Intelligent Search Synonyms does not re-create deleted synonyms",
-                "es": "La búsqueda inteligente de sinónimos no vuelve a crear los sinónimos eliminados.",
-                "pt": "O Intelligent Search Synonyms não recria sinônimos excluídos"
+                "es": "La función «Búsqueda inteligente de sinónimos» no vuelve a crear los sinónimos eliminados",
+                "pt": "A função \"Pesquisa inteligente de sinônimos\" não recria sinônimos excluídos"
               },
               "slug": {
                 "en": "intelligent-search-synonyms-does-not-recreate-deleted-synonyms",
-                "es": "la-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados",
-                "pt": "o-intelligent-search-synonyms-nao-recria-sinonimos-excluidos"
+                "es": "la-funcion-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados",
+                "pt": "a-funcao-pesquisa-inteligente-de-sinonimos-nao-recria-sinonimos-excluidos"
               },
               "origin": "",
               "type": "markdown",
@@ -55844,6 +55935,21 @@
                 "en": "categories-missing-seller-not-provisioned-correctly",
                 "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
                 "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping spreadsheet does not include offers in WaitingReview",
+                "es": "La hoja de cálculo de asignación de categorías no incluye las ofertas en «En espera de revisión»",
+                "pt": "A planilha de mapeamento de categorias não inclui ofertas em \"Aguardando revisão\""
+              },
+              "slug": {
+                "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
+                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
+                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao"
               },
               "origin": "",
               "type": "markdown",
