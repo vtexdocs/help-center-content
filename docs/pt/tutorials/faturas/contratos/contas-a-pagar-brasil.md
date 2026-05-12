@@ -20,12 +20,12 @@ Para garantir a conformidade dos pagamentos dos fornecedores, esse artigo conté
 > ℹ️ Os documentos e informações que não estiverem adequados à política da VTEX serão devolvidos para as devidas providências de adequação.
 
 - Não são aceitas notas fiscais emitidas e recebidas após o dia 20 de cada mês. O solicitante deve garantir que o fornecedor cancele a cobrança e reemita na data entre dia 1 até dia 20 do mês seguinte.  
-- Os pagamentos são realizados até o dia 26 de cada mês.    
+- Os pagamentos são realizados até o dia 25 de cada mês.    
 - No corpo da nota fiscal devem constar:  
   - Dados bancários  
   - CAP request number  
   - Os dados bancários para que seja realizado o pagamento  
-- Nosso prazo de pagamento é de 60 dias após o recebimento do documento fiscal, ocorrendo às sextas-feiras, respeitando as datas de corte. Caso o vencimento ocorra fora do dia da semana estipulado, o documento fiscal deve sofrer prorrogação sem a cobrança de juros.    
+- Nosso prazo de pagamento é de 60 dias após o recebimento do documento fiscal, ocorrendo às quartas-feiras, respeitando as datas de corte. Caso o vencimento ocorra fora do dia da semana estipulado, o documento fiscal deve sofrer prorrogação sem a cobrança de juros.    
 - Os documentos devem ser enviados para o e-mail contasapagar@vtex.com.br, com cópia para o colaborador VTEX responsável pela contratação do serviço, que tem a responsabilidade de garantir a aprovação do dono do centro de custo para darmos prosseguimento ao pagamento.  
 - Os pagamentos são efetuados através de transferência bancária ou boleto.   - No corpo da nota fiscal devem constar todos os dados para que seja realizado o efetivo pagamento.  
 - Para os parceiros que recebem comissão, A emissão da nota deverá ocorrer após a autorização da área responsável na VTEX, por meio do email `alliances-operations@vtex.com.br`, para confirmarmos o pagamento do cliente.  
@@ -67,3 +67,10 @@ Abaixo incluímos informações complementares que devem ser utilizadas nos proc
 - **Endereço:** Rua Antônio Rabelo Júnior, 161 , 25º andar, Sala 2506 - Miramar - João Pessoa - PB
 - **CEP:** 58032-090
 
+### Maceió Office
+
+- **Razão social:** Razão Social: VTEX BRASIL TECNOLOGIA PARA E-COMMERCE LTDA
+- **Nome fantasia:** VTEX BRASIL
+- **CNPJ Matriz:** 05.314.972/0009-21
+- **Endereço:** Rua Melo Póvoas, 110, Sala 312, Quadra 0030, Lote 0643 - Jaraguá - Maceió - AL
+- **CEP:** 57022-230

@@ -8,7 +8,7 @@ slugEN: organizational-units
 locale: es
 ---
 
-> ⚠️ Esta funcionalidad está disponible solo para tiendas que usan B2B Buyer Portal, y por el momento, únicamente para cuentas seleccionadas.
+> ⚠️ Esta funcionalidad está disponible solo para tiendas que usan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), y por el momento, únicamente para cuentas seleccionadas.
 
 En operaciones B2B, el comprador es una empresa y no un consumidor individual. Cada empresa está representada por una organización compradora que mantiene una relación comercial con la tienda.
 
@@ -69,7 +69,7 @@ Las unidades hijas heredan las condiciones comerciales definidas en el contrato.
 
 Para más información sobre configuración y gestión de contratos consulta:
 
-- [Contratos B2B](https://help.vtex.com/es/docs/tutorials/contratos-b2b)
+- [Contratos B2B](https://help.vtex.com/es/docs/tutorials/contratos-b2b-es)
 
 ## Configuración por unidad organizativa
 
@@ -87,7 +87,7 @@ Para más información, consulta:
 
 - [Políticas de compra](https://help.vtex.com/es/docs/tutorials/politicas-de-compras)
 - [Información general de presupuestos](https://help.vtex.com/es/docs/tutorials/presupuestos-informacion-general)
-- [Campos personalizables en el checkout](https://help.vtex.com/es/docs/tutorials/campos-personalizables-del-checkout)
+- [Campos personalizables en el checkout](https://help.vtex.com/es/docs/tutorials/campos-contables)
 
 ## Usuarios de unidades organizativas
 
@@ -100,7 +100,7 @@ El ámbito de actuación de un usuario miembro de una unidad organizativa en una
 - **Unidades organizativas**, que determinan el grupo al que pertenece el usuario.
 - **Roles del storefront**, que definen el papel del usuario en la organización reuniendo determinados permisos para realizar acciones en el storefront.
 
-Más información en [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+Más información en [Agregar usuarios a la organización compradora](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora).
 
 ## Experiencia de compra
 

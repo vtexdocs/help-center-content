@@ -1,0 +1,54 @@
+---
+title: "Primeros pasos - crear projeto"
+id: 6s7Y3xsQSOTGxufA9bY8IP
+status: PUBLISHED
+createdAt: 2025-09-01T15:32:25.883Z
+updatedAt: 2025-10-16T18:24:16.133Z
+publishedAt: 2025-10-16T18:24:16.133Z
+firstPublishedAt: 2025-10-03T14:21:49.832Z
+contentType: tutorial
+productTeam: Post-purchase
+author: 4JJllZ4I71DHhIOaLOE3nz
+slugEN: create-project
+legacySlug: crear-projeto
+locale: es
+subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
+---
+
+En la etapa de [registro e inicio de sesión](https://help.vtex.com/es/docs/tutorials/primeros-pasos-registro-y-login), ya ha creado su primera organización y proyecto. Para crear una nueva organización, simplemente haga clic en **Añadir Organización**.
+
+Aquí, deberá ingresar la siguiente información:
+
+1. **Nombre de la Organización**: Este será el nombre que aparecerá en la pantalla inicial.
+2. **Descripción**: Una breve descripción de su equipo y actividades.
+3. **Nombre del proyecto**: El nombre que le asignará a su proyecto para diferenciarlo y organizarlo.
+
+Después de completar los campos anteriores, haga clic en el botón Avanzar y continúe con la siguiente etapa para crear su proyecto. Puede elegir entre crear un agente personalizado o usar una plantilla. Para comenzar creando un agente, simplemente, complete los campos a continuación:
+
+1. **Nombre del agente**
+2. **Objetivo**
+3. **Contenido (Opcional)**
+
+> Defina claramente el objetivo principal de su agente al interactuar con los clientes. Por ejemplo: "Ayudar a los clientes a encontrar productos adecuados a sus necesidades" o "Proporcionar soporte técnico". Esto guiará las conversaciones de manera directa y asertiva.
+
+> Al añadir una base de contenido, capacita a su agente inteligente para responder eficazmente a los usuarios. Importe información esencial fácilmente arrastrando y soltando archivos, con el texto integrado automáticamente. Además, puede agregar contenido directamente desde sitios web o copiar y pegar lo que desee en la base.
+
+Las plantillas son flujos predefinidos con fines específicos, y se dividen en tres categorías: soporte, integraciones y ventas. Al hacer clic en algunas de las tarjetas correspondientes a la categoría de plantilla, verá un pop-up que detalla su uso de manera general.
+
+Elija entre crear un agente personalizado o usar una plantilla para completar la última etapa de su proyecto. Dóris aparecerá en su pantalla, señalando que su proyecto se ha creado con éxito.
+
+Después de seguir los pasos para la creación de la organización y el proyecto, puede comenzar a incluir a su equipo configurando los permisos.
+
+> Las personas añadidas a la organización tendrán acceso a todos los proyectos creados dentro de ella.
+
+> Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).
+
+Agregue miembros a su organización haciendo clic en el menú desplegable y luego en Gestionar miembros,
+
+Ingrese el correo electrónico de la persona que desea invitar y haga clic en agregar (1). Defina el permiso (2) de cada persona según sea necesario. Al finalizar, puede hacer clic en el botón Agregar.
+
+Los miembros que sean añadidos recibirán un correo electrónico de invitación para unirse a la organización,
+
+> Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).
+
+Después de crear su organización, proyecto y agregar a los miembros de su equipo, estará listo para aprovechar al máximo el potencial de la VTEX CX Platform.

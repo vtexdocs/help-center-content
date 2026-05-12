@@ -21,17 +21,17 @@ symptomFilters:
   - Misconfiguration
 ---
 
-Users may experience difficulties when configuring promotions for marketplaces due to incorrect settings in the trade policy or affiliate field. This document provides guidelines to ensure the promotion is configured and applied correctly.
+Users may experience difficulties when configuring promotions for marketplaces due to incorrect settings in the sales channel or affiliate field. This document provides guidelines to ensure the promotion is configured and applied correctly.
 
 ## Solution
-To solve the problem of promotions not being applied to marketplaces, review the [trade policy](#selecting-trade-policies) and the [affiliate selection](#selecting-affiliates).
+To solve the problem of promotions not being applied to marketplaces, review the [sales channel](#selecting-trade-policies) and the [affiliate selection](#selecting-affiliates).
 
-### Selecting trade policies
-[Trade policies](/en/docs/tutorials/creating-a-trade-policy) define rules and conditions for applying promotions in marketplaces. You should select the right trade policy to ensure the promotion will apply as expected. Below are the steps for configuring a trade policy promotion.
+### Selecting sales channels
+[Sales channels](/en/docs/tutorials/creating-a-trade-policy) define rules and conditions for applying promotions in marketplaces. You should select the right sales channel to ensure the promotion will apply as expected. Below are the steps for configuring a sales channel promotion.
 
 1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).
-2. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.
-3. Choose the desired trade policies associated with the marketplaces.
+2. In the **Sales channel** section, select the `Equal to` and **Delivered by me (other stores)** options.
+3. Choose the desired sales channels associated with the marketplaces.
 4. Click `Save`.
 
 ![Dados gerais promoção - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/integrations-and-channels/promotion-not-applied-to-the-marketplace_1.png)
@@ -44,7 +44,7 @@ To ensure a promotion is applied correctly in a marketplace, select the desired 
 
    ![condições para promoção - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/integrations-and-channels/promotion-not-applied-to-the-marketplace_2.png)
 
-3. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.
+3. In the **Sales channel** section, select the `Equal to` and **Delivered by me (other stores)** options.
 4. Click `Save`.
 
 > ℹ️ Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.

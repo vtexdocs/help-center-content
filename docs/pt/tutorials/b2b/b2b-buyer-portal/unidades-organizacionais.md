@@ -8,7 +8,7 @@ slugEN: organizational-units
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 Em operações B2B, o comprador é uma empresa e não um consumidor individual. Cada empresa é representada por uma organização compradora que mantém relacionamento comercial com a loja.
 
@@ -69,7 +69,7 @@ As condições comerciais definidas no contrato são herdadas pelas unidades fil
 
 Para entender como contratos são configurados e gerenciados, consulte:
 
-* [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b)
+* [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt)
 
 ## Configurações por unidade organizacional
 
@@ -87,7 +87,7 @@ Saiba mais na documentação a seguir:
 
 * [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)
 * [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)
-* [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout)
+* [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-contabeis)
 
 ## Usuários de unidades organizacionais
 
@@ -100,7 +100,7 @@ O escopo de atuação do usuário membro de uma unidade organizacional em uma lo
 * **Unidades organizacionais**, que determinam o grupo em que o usuário está contido.
 * **Perfis de acesso do storefront**, que definem o papel do usuário na organização reunindo determinadas permissões para realizar ações na frente de loja.
 
-Saiba mais em [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
+Saiba mais em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 
 ## Experiência de compra
 

@@ -25,19 +25,19 @@ You can refer to these variables on the Admin VTEX menu by accessing **Store Set
 
 ### Checkout
 
-The checkout language is defined by the trade policy.
+The checkout language is defined by the sales channel.
 
-Therefore, to translate it you need to change the value of the __Culture Info__ field in the trade policy registration screen.
+Therefore, to translate it you need to change the value of the __Culture Info__ field in the sales channel registration screen.
 
 If you want the language to be English for any scenario, for example, change the Culture Info of all store policies to `en-us`.
 
 To do so, follow the steps below:
 
-1. Still in **Store Settings**, go to **Channels** and click on __Trade Policies__.
-2. Choose the desired trade policy and click __Edit__.
+1. Still in **Store Settings**, go to **Channels** and click on __Sales Channels__.
+2. Choose the desired sales channel and click __Edit__.
 3. Change the __Locale__ field to the language you want.
 4. Click `Save`.
 
 ### Front-end
 
-Some store texts are not rendered by internal variables nor defined by the trade policy. For these cases, you need to manipulate the texts in the front-end with JavaScript or, preferably (because it's a simpler method), manipulating the CSS.
+Some store texts are not rendered by internal variables nor defined by the sales channel. For these cases, you need to manipulate the texts in the front-end with JavaScript or, preferably (because it's a simpler method), manipulating the CSS.

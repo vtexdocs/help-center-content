@@ -31,7 +31,7 @@ Access the link and click the `Reindex database` button. You can track the proce
 
 ### Checking index
 
-You can verify if a specific SKU has been indexed correctly to the integration trade policy. Follow the steps below:
+You can verify if a specific SKU has been indexed correctly to the integration sales channel. Follow the steps below:
 
 1. In the VTEX Admin, access **Catalog > Products and SKUs**.
 2. Click the menu button <i class="fas fa-angle-down"></i> .  

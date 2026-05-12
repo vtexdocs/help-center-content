@@ -102,7 +102,7 @@ Depending on the store's operating profile, you can also configure the following
 
 #### Adding special payment conditions
 
-Special payment conditions allow you to define specific rules for a given payment method, such as expiration date, issuing bank, trade policy, commercial condition, and account name.
+Special payment conditions allow you to define specific rules for a given payment method, such as expiration date, issuing bank, sales channel, commercial condition, and account name.
 
 For more details on each type of special payment condition, check the [Configuring special payment conditions](/en/docs/tutorials/special-conditions) article.
 

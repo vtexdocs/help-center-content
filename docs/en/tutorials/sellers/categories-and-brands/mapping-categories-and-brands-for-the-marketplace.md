@@ -151,6 +151,6 @@ Specification mapping is applied on the marketplace website in different ways, d
 ## Learn more
 
 - [Approving products](/en/tutorial/sugerindo-e-aprovando-skus/)  
-- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)    
-- [Trade policy for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
+- [Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy)    
+- [Sales channel for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
 

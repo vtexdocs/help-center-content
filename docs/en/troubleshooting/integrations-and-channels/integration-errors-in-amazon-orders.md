@@ -29,7 +29,7 @@ The most common errors in Amazon orders are:
 - **SLA error**
 - **SKU out of stock**
 - **Inactive SKU**
-- **SKU with no trade policy**
+- **SKU with no sales channel**
 - **Unknown SKU**
 - **Communication error with the catalog**
 
@@ -42,7 +42,7 @@ To fix integration errors in Amazon orders, consider the options in the followin
 |**No available sla to deliver this order**|Something is preventing the delivery of the order to the end customer. |To identify the root cause of the error and fix it, see [SLA errors in marketplace order integration](/en/docs/tutorials/sla-errors-in-marketplace-integration-orders).|
 |**Order with SKU out of stock**|There is a problem with the inventory associated with the marketplace.|To fix the error, see the [Out of stock errors in marketplace order integration](/en/docs/tutorials/out-of-stock-errors-in-marketplace-integration-orders) to identify which out of stock error is associated with the order. Then, follow the steps indicated in the documentation.|
 |**Inactive SKU**|At least one SKU in the order is not active in the store catalog.|Check the SKU status by accessing the VTEX Admin, under **Catalog > Products and SKUs,** then activate a single SKU following the instructions in the tutorial Filling in SKU registration fields or activate multiple SKUs following the steps described in [Activating SKUs in bulk](/en/docs/tutorials/activating-skus-in-bulk). |
-|**SKU without trade policy**|The SKUs in the order are active, but they are not associated with a [Trade Policy ](/en/docs/tutorials/how-trade-policies-work) used on Amazon.| To fix the error, you must associate the SKU with a trade policy linked to Amazon. To do this, follow the tutorial [Associate a SKU with a trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy) |
+|**SKU without sales channel**|The SKUs in the order are active, but they are not associated with a [Sales Channel ](/en/docs/tutorials/how-trade-policies-work) used on Amazon.| To fix the error, you must associate the SKU with a sales channel linked to Amazon. To do this, follow the tutorial [Associate a SKU with a sales channel](/en/docs/tutorials/associate-a-sku-to-a-trade-policy) |
 |**SKUs in the order don't belong to a VTEX Store, SKU ID is not an integer**|At least one SKU in the order is not listed in the store's catalog, or Amazon has provided incorrect information in the order. If the SKU is not listed in the catalog, you must cancel the order.| If the SKU is listed in the catalog, you must contact Amazon so the marketplace can fix the error.|
-|**A communication error with Catalog System has occurred - Unauthorized access from seller x to sales channel y**| The website associated with the store's main account does not have Amazon's trade policy selected. | To fix the error, follow the steps in [Linking a store to a folder structure in CMS (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding) and select Amazon's trade policy.|
+|**A communication error with Catalog System has occurred - Unauthorized access from seller x to sales channel y**| The website associated with the store's main account does not have Amazon's sales channel selected. | To fix the error, follow the steps in [Linking a store to a folder structure in CMS (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding) and select Amazon's sales channel.|
 

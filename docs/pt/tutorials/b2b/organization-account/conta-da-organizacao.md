@@ -4,11 +4,11 @@ createdAt: '2025-03-09T10:00:00.000Z'
 updatedAt: '2025-03-26T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: conta-da-organizacao
+slugEN: organization-account
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
 A **Conta da Organização** é a interface onde administradores de organizações compradoras gerenciam a estrutura e as configurações de compra utilizadas em uma dada loja B2B.
 
@@ -21,7 +21,7 @@ Nessa área empresas podem configurar elementos que controlam como seus usuário
 - Orçamentos
 - Buying Policies
 
-Essas configurações ajudam empresas a estabelecer governança e regras internas para compras realizadas em lojas utilizando **B2B Buyer Portal**.
+Essas configurações ajudam empresas a estabelecer governança e regras internas para compras realizadas em lojas utilizando [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 
 Este artigo aborda:
 
@@ -49,7 +49,7 @@ A página principal da **Conta da Organização** é dividida em três áreas pr
 
 ### Informações do contrato
 
-A seção informações do contrato é indicada pelo nome da [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/organization-units-pt) onde as configurações estão sendo gerenciadas.
+A seção informações do contrato é indicada pelo nome da [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais) onde as configurações estão sendo gerenciadas.
 
 Nessa área é possível acessar:
 
@@ -66,9 +66,9 @@ A seção **Organization** permite gerenciar a estrutura organizacional da empre
 
 As opções incluem:
 
-- **Users** — gerenciamento dos [usuários da organização](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
+- **Users** — gerenciamento dos [usuários da organização](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 - **Roles** — definição de permissões e funções.
-- **Organizational Units** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/organization-units-pt).
+- **Organizational Units** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 
 ### Finance and Compliance
 
@@ -89,7 +89,7 @@ Ao clicar nesse botão, será exibido um menu com opções para criar diferentes
 - **Add address** — Adicionar um endereço.
 - **Add credit card** — Adicionar um cartão de crédito.
 - **Add user** — Adicionar um usuário à organização.
-- **Add organization unit** — Criar uma nova [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/organization-units-pt).
+- **Add organization unit** — Criar uma nova [unidade organizacional](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 - **Add budget** — Criar um [orçamento](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets).
 - **Add buying policy** — Criar uma [política de compra](https://help.vtex.com/pt/docs/tutorials/buying-policies).
 
