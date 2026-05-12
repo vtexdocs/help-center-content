@@ -17962,8 +17962,8 @@
                 },
                 {
                   "name": {
-                    "en": "Product Recommendations (Beta)",
-                    "es": "Recomendaciones de productos (Beta)",
+                    "en": "Product Recommendations (beta)",
+                    "es": "Recomendaciones de productos (beta)",
                     "pt": "Recomendações de produtos (Beta)"
                   },
                   "slug": {
@@ -18409,6 +18409,21 @@
                     "en": "promotions",
                     "es": "promociones",
                     "pt": "promocoes-data-pipeline-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Search and Recommendations Data Pipeline",
+                    "es": "Búsqueda y recomendaciones: Data Pipeline",
+                    "pt": "Search and Recommendations Data Pipeline"
+                  },
+                  "slug": {
+                    "en": "search-data-pipeline",
+                    "es": "busca-data-pipeline",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -40448,6 +40463,21 @@
             },
             {
               "name": {
+                "en": "Catalog specification value 0 is omitted from product specification payload",
+                "es": "El valor 0 de la especificación del catálogo se omite en la carga útil de la especificación del producto",
+                "pt": "O valor 0 da especificação do catálogo é omitido da carga útil da especificação do produto"
+              },
+              "slug": {
+                "en": "catalog-specification-value-0-is-omitted-from-product-specification-payload",
+                "es": "el-valor-0-de-la-especificacion-del-catalogo-se-omite-en-la-carga-util-de-la-especificacion-del-producto",
+                "pt": "o-valor-0-da-especificacao-do-catalogo-e-omitido-da-carga-util-da-especificacao-do-produto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog translations not reflecting on the frontend",
                 "es": "Las traducciones del catálogo no se muestran en la interfaz de usuario",
                 "pt": "As traduções do catálogo não aparecem na interface do usuário"
@@ -44050,6 +44080,21 @@
             },
             {
               "name": {
+                "en": "Attachments lost after item split when using checkout-graphql addToCart",
+                "es": "Se pierden los archivos adjuntos tras dividir un artículo al utilizar «checkout-graphql addToCart»",
+                "pt": "Anexos perdidos após a divisão do item ao usar o checkout-graphql addToCart"
+              },
+              "slug": {
+                "en": "attachments-lost-after-item-split-when-using-checkoutgraphql-addtocart",
+                "es": "se-pierden-los-archivos-adjuntos-tras-dividir-un-articulo-al-utilizar-checkoutgraphql-addtocart",
+                "pt": "anexos-perdidos-apos-a-divisao-do-item-ao-usar-o-checkoutgraphql-addtocart"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Available addresses list on Checkout UI missing data for newly created address",
                 "es": "En la lista de direcciones disponibles de la interfaz de pago faltan datos de la dirección recién creada.",
                 "pt": "Lista de endereços disponíveis na interface do usuário do checkout sem dados para o endereço recém-criado"
@@ -45303,6 +45348,21 @@
                 "en": "eternal-loading-in-checkout-ui-v5",
                 "es": "carga-eterna-en-el-checkout-ui-v5",
                 "pt": "carregamento-eterno-no-checkout-ui-v5"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Extra gifts remain in cart when main item exceeds available stock",
+                "es": "Los regalos adicionales permanecen en el carrito cuando el artículo principal supera las existencias disponibles",
+                "pt": "Os presentes adicionais permanecem no carrinho quando o item principal excede o estoque disponível"
+              },
+              "slug": {
+                "en": "extra-gifts-remain-in-cart-when-main-item-exceeds-available-stock",
+                "es": "los-regalos-adicionales-permanecen-en-el-carrito-cuando-el-articulo-principal-supera-las-existencias-disponibles",
+                "pt": "os-presentes-adicionais-permanecem-no-carrinho-quando-o-item-principal-excede-o-estoque-disponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -47757,6 +47817,21 @@
           "children": [
             {
               "name": {
+                "en": "\"Select a Block\" Does Not Work Correctly When Page Extensions Load Lazily in Site Editor",
+                "es": "La opción «Seleccionar un bloque» no funciona correctamente cuando las extensiones de página se cargan de forma diferida en el editor del sitio",
+                "pt": "A opção \"Selecionar um bloco\" não funciona corretamente quando as extensões de página são carregadas de forma diferida no Editor do site"
+              },
+              "slug": {
+                "en": "select-a-block-does-not-work-correctly-when-page-extensions-load-lazily-in-site-editor",
+                "es": "la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio",
+                "pt": "a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra a nivel global en lugar de mediante vinculación",
                 "pt": "As configurações avançadas da loja estão sendo registradas globalmente, em vez de por meio de vinculação"
@@ -49978,6 +50053,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Multi-Origin - orders allocated to inactive stock",
+                "es": "Mercado Livre Orígenes múltiples: pedidos asignados a existencias inactivas",
+                "pt": "Mercado Livre Multi-Origem - pedidos alocados ao estoque inativo"
+              },
+              "slug": {
+                "en": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+                "es": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
+                "pt": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
                 "es": "Mercado Libre Los atributos seller_package_height, seller_package_width, seller_package_length y seller_package_weight son obligatorios.",
                 "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
@@ -51467,6 +51557,21 @@
             },
             {
               "name": {
+                "en": "Autocomplete history searches with the \"/\" character are breaking the search result page",
+                "es": "Las búsquedas en el historial de autocompletado con el carácter «/» están provocando errores en la página de resultados de búsqueda",
+                "pt": "As pesquisas no histórico de autocompletar com o caractere \"/\" estão prejudicando a página de resultados da pesquisa"
+              },
+              "slug": {
+                "en": "autocomplete-history-searches-with-the-character-are-breaking-the-search-result-page",
+                "es": "las-busquedas-en-el-historial-de-autocompletado-con-el-caracter-estan-provocando-errores-en-la-pagina-de-resultados-de-busqueda",
+                "pt": "as-pesquisas-no-historico-de-autocompletar-com-o-caractere-estao-prejudicando-a-pagina-de-resultados-da-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Autocomplete not answering to cold starts",
                 "es": "La función de autocompletado no responde al iniciar el sistema en frío",
                 "pt": "A função de preenchimento automático não responde ao inicializar o sistema"
@@ -52158,13 +52263,13 @@
             {
               "name": {
                 "en": "Intelligent Search Synonyms does not re-create deleted synonyms",
-                "es": "La búsqueda inteligente de sinónimos no vuelve a crear los sinónimos eliminados.",
-                "pt": "O Intelligent Search Synonyms não recria sinônimos excluídos"
+                "es": "La función «Búsqueda inteligente de sinónimos» no vuelve a crear los sinónimos eliminados",
+                "pt": "A função \"Pesquisa inteligente de sinônimos\" não recria sinônimos excluídos"
               },
               "slug": {
                 "en": "intelligent-search-synonyms-does-not-recreate-deleted-synonyms",
-                "es": "la-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados",
-                "pt": "o-intelligent-search-synonyms-nao-recria-sinonimos-excluidos"
+                "es": "la-funcion-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados",
+                "pt": "a-funcao-pesquisa-inteligente-de-sinonimos-nao-recria-sinonimos-excluidos"
               },
               "origin": "",
               "type": "markdown",
@@ -55844,6 +55949,21 @@
                 "en": "categories-missing-seller-not-provisioned-correctly",
                 "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
                 "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping spreadsheet does not include offers in WaitingReview",
+                "es": "La hoja de cálculo de asignación de categorías no incluye las ofertas en «En espera de revisión»",
+                "pt": "A planilha de mapeamento de categorias não inclui ofertas em \"Aguardando revisão\""
+              },
+              "slug": {
+                "en": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
+                "es": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
+                "pt": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao"
               },
               "origin": "",
               "type": "markdown",
@@ -59630,6 +59750,21 @@
                 "en": "error-when-processing-the-second-refund-of-the-same-value-as-the-first-gift-card-has-been-already-refunded",
                 "es": "error-al-procesar-el-segundo-reembolso-del-mismo-valor-que-el-primero-la-tarjeta-regalo-ya-ha-sido-reembolsada",
                 "pt": "erro-ao-processar-o-segundo-reembolso-do-mesmo-valor-que-o-primeiro-o-cartaopresente-ja-foi-reembolsado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error when processing the second refund or cancellation with the same value as the first",
+                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+              },
+              "slug": {
+                "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
+                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
               },
               "origin": "",
               "type": "markdown",
