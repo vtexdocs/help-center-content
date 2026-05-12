@@ -18444,6 +18444,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Search and Recommendations Data Pipeline",
+                    "es": "Búsqueda y recomendaciones: Data Pipeline",
+                    "pt": "Search and Recommendations Data Pipeline"
+                  },
+                  "slug": {
+                    "en": "search-data-pipeline",
+                    "es": "busca-data-pipeline",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
