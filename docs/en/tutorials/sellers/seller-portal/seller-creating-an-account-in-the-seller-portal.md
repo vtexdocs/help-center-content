@@ -44,7 +44,7 @@ The process of creating an account in the Seller Portal begins with an [invitati
 3. Enter your VTEX account name in the field _Enter your VTEX account._  
 4. If you want to change the VTEX account, Click on Change.  
 5. Click on `CONFIRM`.    
-6. On the page that opened, select the **Trade Policy** from the list.  
+6. On the page that opened, select the **Sales Channel** from the list.  
 7. Click on `Connect Marketplace`.  
 
 ### Creating an account for external sellers

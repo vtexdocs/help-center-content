@@ -28,7 +28,7 @@ In this step, you must define which store will use the app and which URL Google 
 1. In the `Store` option select the sub-account that should be used for the app;
 2. In the `URL` option select the URL corresponding to the account's website chosen in the previous step.
 
-> ⚠️ **NOTE:** Make sure the chosen URL is the correct one, as the options will show any URL that is registered on [your domains](/en/tutorial/configurando-dominios-no-license-manager). **Usually, the URL is the one that has WWW**.
+> ⚠️ **NOTE:** Make sure the chosen URL is the correct one, as the options will show any URL that is registered on [your domains](/en/docs/tutorials/configuring-the-store-domain). **Usually, the URL is the one that has WWW**.
 
 ## Setting up an account at the Google Merchant Center
 
@@ -52,13 +52,13 @@ When you select __"Link to an existing GMC"__, you will have to define whether p
 
 We recommend using VTEX synchronization to ensure better integration control from within the platform.
 
-## Setting the trade policy
+## Setting the sales channel
 
-You need to define which trade policy will be used for your Google ads. This definition will cover four main aspects: product assortment, inventory, price and website. This entails that your product availability and prices on a particular sales channel will be entirely based on the trade policy you choose.
+You need to define which sales channel will be used for your Google ads. This definition will cover four main aspects: product assortment, inventory, price and website. This entails that your product availability and prices on a particular sales channel will be entirely based on the sales channel you choose.
 
-As for the website, the chosen trade policy should be the same as the one used on the website/store that you have determined in during the previous steps. This is because Google ads redirect users to your website, where they will complete the purchase. Therefore, if the trade policy used in the app differs from the one on your website, you risk having scenarios in which price or inventory differ, for example.
+As for the website, the chosen sales channel should be the same as the one used on the website/store that you have determined in during the previous steps. This is because Google ads redirect users to your website, where they will complete the purchase. Therefore, if the sales channel used in the app differs from the one on your website, you risk having scenarios in which price or inventory differ, for example.
 
-After selecting the trade policy, click __"Continue"__. You'll be taken to the app's Terms of Service.
+After selecting the sales channel, click __"Continue"__. You'll be taken to the app's Terms of Service.
 
 After agreeing to the terms of service, the app will enter a loading page, which may take a while, as it is applying all the settings you have chosen and assembled on GMC. You must wait and not leave this screen.
 

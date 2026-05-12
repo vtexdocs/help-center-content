@@ -60,7 +60,7 @@ When using **Sales App card entry** for [endless aisle](/en/docs/tracks/endless-
 
 > ❗ Transactions made using this feature are subject to anti-fraud rules. Approval may take up to 24 hours if the purchase requires anti-fraud authorization. For this reason, we don't recommend using **Sales App card entry** in the following scenarios:<ul><li>Sales with express shipping</li><li>Local inventory sales (On Hands)</li></ul>
 
-If the store has a [trade policy](/en/docs/tutorials/how-trade-policies-work) specifically for **VTEX Sales App** with an exclusive anti-fraud rule review, you can use **Sales App card entry** for sales with local inventory (On Hands) or express shipping.
+If the store has a [sales channel](/en/docs/tutorials/how-trade-policies-work) specifically for **VTEX Sales App** with an exclusive anti-fraud rule review, you can use **Sales App card entry** for sales with local inventory (On Hands) or express shipping.
 
 ## Settings
 

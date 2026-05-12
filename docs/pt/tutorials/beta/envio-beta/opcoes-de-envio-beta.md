@@ -17,22 +17,13 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
-A **Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente. 
+**Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente.
 
 Assim, os lojistas ganham autonomia para criar, configurar e gerenciar opções de entrega como um conteúdo estratégico dentro da plataforma VTEX. Essa abordagem oferece mais flexibilidade para alinhar as capacidades logísticas com os objetivos comerciais, aprimorando a experiência de compra dos clientes.
 
-As opções de envio consomem as informações já cadastradas nas [políticas de envio](/pt/docs/tutorials/politica-de-envio) da loja. Caso não tenha essas configurações definidas ou nenhuma atende às metas de prazos das opções de envio, leia o artigo [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
+As opções de envio usam as [políticas de envio](/pt/docs/tutorials/politica-de-envio) já configuradas na loja. Uma única opção de envio pode agrupar várias políticas de envio, desde que atendam aos critérios definidos para essa opção.
 
-Esta página permite que você realize as seguintes ações:
-
-- [Criar opção de envio](#criar-opção-de-envio)
-- [Editar uma opção de envio](#editar-uma-opção-de-envio)
-- [Desativar uma opção de envio](#desativar-uma-opção-de-envio)
-- [Ativar uma opção de envio](#ativar-uma-opção-de-envio)
-- [Deletar uma opção de envio](#deletar-uma-opção-de-envio)
-- [Buscar uma opção de envio](#buscar-uma-opção-de-envio)
-- [Filtrar uma opção de envio](#filtrar-uma-opção-de-envio)
-- [Preferências de opção de envio](#preferências-de-opção-de-envio)
+As políticas de envio são associadas a uma opção de envio quando cumprem tanto a promessa de entrega definida quanto as zonas de entrega configuradas. Se nenhuma política de envio atender aos critérios configurados, ou se as políticas de envio não tiverem sido configuradas corretamente, leia o artigo [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
 
 ![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
 
@@ -143,7 +134,7 @@ Para filtrar a lista de opções de envio, clique em um dos filtros descritos ab
 
 - **Zona de entrega:** filtra pelas zonas de entrega configuradas nas opções de envio. É possível procurar pelo nome de uma zona de entrega na barra de busca.
 
-- **Status: filtra pelos status, **Ativa** ou **Inativa**, das opções de envio.
+- **Status**: filtra pelos status, **Ativa** ou **Inativa**, das opções de envio.
 
 - **Exibição na vitrine**: filtra as opções de envio que estão configuradas, **Habilitadas** ou **Não habilitadas**, como [filtro na vitrine da loja](#filtrar-uma-opcao-de-envio).
 
@@ -155,8 +146,10 @@ Configure as opções de envio na frente da loja para personalizar a experiênci
 
 1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
 2. Clique em `Preferências`.
-3. Selecione a forma que deseja exibir as suas opções de envio na loja.
+3. Na seção **Opções de entrega usadas como filtro**, defina a ordem em que as opções de entrega serão exibidas nos filtros de navegação.
+4. Adicione as opções de envio que deseja incluir nos filtros de navegação clicando em `+` na opção de envio correspondente.
+5. Selecione a forma que deseja exibir as suas opções de envio na loja.
    ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_3.png)
    - **Exibir sempre todas as opções disponíveis para o produto:** todas as opções de envio que estão disponíveis nas condições de entrega serão exibidas na página de produto e no checkout da loja.
    - **Exibir apenas a opção de menor custo e a de menor prazo:** apenas as opções de envio com menor custo ou com menor prazo serão exibidas na página de produto e no checkout da loja.
-4. Clique em `Salvar` para finalizar.
+6. Clique em `Salvar` para finalizar.

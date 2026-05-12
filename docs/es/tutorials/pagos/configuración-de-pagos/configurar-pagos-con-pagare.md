@@ -33,23 +33,21 @@ Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos 
 
 Después de registrar el proveedor de pagos, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. Haga clic en la pestaña __Pagos Personalizados__. 
-3. En __Pagarés__, haga clic en una de las 5 cajas de configuración de pago.
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
+2. Haga clic en la pestaña **Pagos Personalizados**.
+3. En **Pagarés**, haga clic en una de las cajas de configuración disponibles (Configurar).
 4. Rellene los siguientes campos con la información correspondiente:
 
-- __Nombre:__ es el nombre que se utilizará para identificar el pago.
-- __Descripción:__ ingrese los detalles de la condición de pago.
-- __Validez del pagaré:__ Plazo límite que su cliente tendrá para pagar el pagaré antes de que caduque.
-- __Autorización automática:__ seleccione si desea autorizar los pagos automáticamente. Recomendamos esta opción solo en casos en los que el pago que se realiza durante la entrega o recogida del pedido en la tienda. Si selecciona «Yes», el status del pedido cambia automáticamente a Preparando entrega sin pasar por ninguna verificación de pago.
-- __Modificar margen:__ es el margen porcentual permitido para la modificación del importe del pago realizado con un pagaré. Para algunos clientes, puede ser importante permitir [cambios en los pedidos](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado). En este caso, debe rellenar el campo Modificar margen para determinar el porcentaje de margen de cambio permitido.
-- __Activar split de pago:__ indique si utilizará la solución de [split de pagos](/es/docs/tutorials/split-de-pagos). Si selecciona esta opción, cuando la venta involucre tiendas del marketplace, el pagaré se dividirá entre los sellers y el marketplace.
-- __Facturación automática:__ Número de días para la facturación automática del pagaré después de la autorización. 
-Los pagarés se facturan en el momento de la autorización del pago. Al configurar este campo, la facturación no se producirá al momento de la autorización, sino después del número de días que establezca.<br>
+- **Nombre:** es el nombre que se utilizará para identificar el pago.
+- **Descripción:** ingrese los detalles de la condición de pago.
+- **Validez del pagaré:** Plazo límite que su cliente tendrá para pagar el pagaré antes de que caduque.
+- **Autorización automática:** seleccione si desea autorizar los pagos automáticamente. Recomendamos esta opción solo en casos en los que el pago que se realiza durante la entrega o recogida del pedido en la tienda. Si selecciona «Yes», el status del pedido cambia automáticamente a Preparando entrega sin pasar por ninguna verificación de pago.
+- **Modificar margen:** es el margen porcentual permitido para la modificación del importe del pago realizado con un pagaré. Para algunos clientes, puede ser importante permitir [cambios en los pedidos](https://help.vtex.com/es/docs/tutorials/como-funciona-modificar-pedido). En este caso, debe rellenar el campo Modificar margen para determinar el porcentaje de margen de cambio permitido.
+- **Activar split de pago:** indique si utilizará la solución de [split de pagos](/es/docs/tutorials/split-de-pagos). Si selecciona esta opción, cuando la venta involucre tiendas del marketplace, el pagaré se dividirá entre los sellers y el marketplace.
+- **Facturación automática:** Número de días para la facturación automática del pagaré después de la autorización.
+Los pagarés se facturan en el momento de la autorización del pago. Al configurar este campo, la facturación no se producirá al momento de la autorización, sino después del número de días que establezca.
 
-<ul>
-5. Haga clic en **Salvar** para guardar los cambios.
-  </ul>
+5. Haga clic en `Salvar`.
 
 ## Configurar las condiciones de pago
 

@@ -28,7 +28,7 @@ To create a new affiliate ID, follow the steps below:
 3. Fill in the fields in the modal window according to the descriptions below, then click `Save`.
     - **Name:** the name of the new affiliate.
     - **ID:** the affiliate identifier code, which consists of three consonants, whether they are repeated or not. Vowels are not allowed.
-    - **Trade policy:** the number of the trade policy that will define the catalog assortment, prices, and the shipping strategy of items sent to the marketplace.
+    - **Sales channel:** the number of the sales channel that will define the catalog assortment, prices, and the shipping strategy of items sent to the marketplace.
     - **Email for notifications:** the email address in which you will receive notifications about the integration.
     - **Search endpoint:** the URL of the application that will receive products, price, and inventory notifications, among others. The Search Endpoint should be filled with the value: 
  `http://productnotification.vtexcommerce.com.br/api/notification/{NameOfMarketplace}/{SellerID}`

@@ -28,6 +28,6 @@ Nesse caso, é comum que os itens partam do estoque de um Centro de Distribuiç�
 
 Outra possibilidade de entrega que pode otimizar a operação e reduzir custos é implementar a estratégia [Ship From Store](/pt/docs/tracks/configurar-ship-from-store), para que os itens também possam ser enviados a partir do estoque das lojas físicas.
 
-Para configurar a estratégia de envio, consulte a [trilha sobre o módulo Estoque & Entrega](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07).
+Para configurar a estratégia de envio, consulte a [trilha sobre o módulo Estoque & Entrega](/pt/docs/tracks/logistica-101).
 
 Para saber como implementar a estratégia Ship From Store, clique em `PRÓXIMO`.

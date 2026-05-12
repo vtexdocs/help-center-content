@@ -38,7 +38,7 @@ En el Admin VTEX, Site Editor cuenta con una interfaz intuitiva que muestra los 
 
 Las tiendas desarrolladas con Store Framework también deben configurar el [binding de la tienda](https://help.vtex.com/es/docs/tutorials/que-es-el-cms-layout#binding), a través de la carpeta **[Sites and channels](https://help.vtex.com/es/docs/tutorials/que-es-el-cms-layout)** en la sección **Layout** del Admin VTEX.
 
-Binding es el proceso utilizado para vincular tu sitio web a una tienda. Para más detalles, consulta el artículo [Vincular una tienda a una estructura de carpetas en CMS (binding)](https://help.vtex.com/es/docs/tutorials/vincular-un-account-name-a-un-website-binding).
+Binding es el proceso utilizado para vincular tu sitio web a una tienda. Para más detalles, consulta el artículo [Vincular una tienda a una estructura de carpetas en CMS (binding)](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding).
 
 ![layout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_2.png)
 

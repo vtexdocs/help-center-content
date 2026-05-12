@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-05T11:34:04.566Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: b2b-trade-policies-overview
+slugEN: b2b-sales-channels-overview
 legacySlug: visao-geral-da-politica-comercial-no-b2b
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

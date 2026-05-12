@@ -15,8 +15,6 @@ locale: pt
 subcategoryId: 4k2nT4bkX7B73rZyIhw8aE
 ---
 
-# Configurar e enviar formulários na plataforma Indeva
-
 Siga as etapas abaixo para configurar e enviar um novo formulário:
 
 1. No menu lateral da Indeva, clique em **Formulários** e depois em **Novo formulário**.  
@@ -24,11 +22,8 @@ Siga as etapas abaixo para configurar e enviar um novo formulário:
 
 2. Preencha o campo **Título** do formulário.  
    *Exemplo:* Acompanhamento gerencial – Julho/2020.
-
 3. Adicione as perguntas necessárias. É possível incluir quantas forem necessárias e definir se são abertas ou fechadas.  
-
 4. Use o ícone de anexo para incluir arquivos, como orientações, imagens ou documentos de apoio.  
-
 5. Após inserir todas as perguntas, clique em **Configurar envio**.  
    ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formulários-indeva/configurar-e-enviar-formularios-na-plataforma-indeva_2.png)
 

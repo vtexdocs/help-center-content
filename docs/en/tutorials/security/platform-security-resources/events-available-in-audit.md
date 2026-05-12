@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Below, you will find a list of the potential events available in [Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA#) for each app.
+Below, you will find a list of the potential events available in [Audit](/en/docs/tutorials/audit) for each app.
 
 * [OMS](#oms)
 * [Orders](#orders)
@@ -236,11 +236,12 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 
 | Action | Event description | Event details |
 |---|---|---|
-| ReadDocument | Document read. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
-| CreateDocument | Document creation. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
-| UpdateDocument | Document update. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| ReadPersonalInformation | Personal information read. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| CreatePersonalInformation | Personal information creation. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| UpdatePersonalInformation | Personal information update. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
 | DeleteDocument | Deleted document. | Document ID. |
-| SearchDocuments | Document search. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Search query details. |
+| DeletePersonalInformation | Deleted personal information. | Document ID. |
+| SearchPersonalInformation | Personal information search. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Search query details. |
 | UpdateSchema | Created or updated schema on Master Data v2. | Schema name. |
 | DeleteSchema | Deleted schema on Master Data v2. | Schema name. |
 

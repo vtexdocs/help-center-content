@@ -3,7 +3,7 @@ title: 'Configurar promoción con destaque / flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2025-09-29T17:45:04.455Z
+updatedAt: 2026-03-25T17:45:04.455Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
@@ -30,15 +30,12 @@ En esta guía puedes consultar las siguientes secciones:
      - [Plantilla de estantería de productos](#plantilla-de-estanteria-de-productos)
 
 ## Promociones que se pueden destacar
-El destaque de promoción puede aplicarse a diferentes tipos de promociones y descuentos. Este destaque se mostrará en las estanterías y páginas de productos, alertando a los clientes que el artículo forma parte de una promoción especial.
 
-Los siguientes tipos de descuentos son elegibles para la aplicación de un destaque:
+El destaque de promoción permite mostrar una indicación visual en las estanterías y en las páginas de producto, informando que el ítem forma parte de una promoción activa.
 
-- [Descuento porcentual](/es/docs/tutorials/configurar-promocion-de-descuento-porcentual-para-un-sku-especifico): ofrece una reducción porcentual en el valor del producto.
+Actualmente, la opción Destacar en los productos está disponible en todos los tipos de promoción.
 
-- **Regalo**: ofrece un producto adicional sin costo al cliente al comprar un determinado artículo o alcanzar un valor mínimo de compra.
-
-Para más información, consulta [Promociones](/es/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
+Sin embargo, la visualización de este destaque no depende del tipo de promoción configurada. En los casos en que la promoción depende de información que aún no está disponible en el momento en que se cargan las estanterías o las páginas de producto, el destaque no se muestra.
 
 ## Restricciones
 

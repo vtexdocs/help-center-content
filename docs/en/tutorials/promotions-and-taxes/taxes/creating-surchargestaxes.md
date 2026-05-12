@@ -3,7 +3,7 @@ title: 'How to create surcharges/taxes'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2025-04-11T16:22:19.619Z
+updatedAt: 2026-04-27T16:22:19.619Z
 publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
@@ -19,7 +19,7 @@ A surcharge is the opposite of a promotion, that is, it is an additional percent
 
 The surcharge is applied in accordance with the registration done on the seller. So if your store’s shopping cart has another seller’s product, the surcharge to be applied to that product will be the one registered on the admin of the seller that owns the product. Surcharges registered in the Pricing module will not be taken into account, even if this surcharge is associated with this product.
 
-> ℹ️ Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate trade policy during configuration.
+> ℹ️ Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate sales channel during configuration.
 
 ## How to create them
 
@@ -51,10 +51,11 @@ The surcharge is applied in accordance with the registration done on the seller.
 
 - **Aggregate value of purchases**: the surcharge will be applied if the total of all purchases previously made by the customer meets this minimum.
 - **Marketing Tags**: field used to restrict the activation of the campaign if the purchase is made by the VTEX recurrence system.
-- **Affiliates**: marketplace order identifier
-- **Customer cluster**: the surcharge will be applied if the customer is registered in the selected cluster.
-- **Shipping to postal code should**: the surcharge will be applied where the postal code meets the rule configured.
-- **Shipping Method**: the surcharge will be applied if the type of shipping is as registered.
+- **Affiliates**: Marketplace order identifier
+- **Customer cluster**: The surcharge will be applied if the customer is registered in the selected cluster.
+- **Shipping to postal code should**: The surcharge will be applied where the postal code meets the rule configured.
+- **Shipping Method**: The surcharge will be applied if the type of shipping is as registered.
+- **Payment method**: Tax will be  applied if the payment method selected at checkout matches the payment method configured for tax purposes.
 
 ## Scheduling
 

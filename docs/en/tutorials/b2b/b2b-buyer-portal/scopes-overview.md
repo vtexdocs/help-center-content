@@ -8,7 +8,7 @@ slugEN: scopes-overview
 locale: en
 ---
 
-> ⚠️ This feature is only available to stores using B2B Buyer Portal, which is currently available for selected accounts.
+> ⚠️ This feature is only available to stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 **Scopes** is the feature of the organization account that allows B2B companies to restrict attributes of **organizational units** (OU). This allows companies to control which information business unit buyers can view and use, limiting user access to what is necessary for their roles.
 
@@ -39,4 +39,4 @@ The restrictions that can be imposed on **Organizational Units** are related to:
 
 To view and manage the scope of an organizational unit, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) profile must have the `View_Organization_Unit` and `Edit_Organization_Unit` resources.
 
-> ℹ️ For more information, see the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
+> ℹ️ For more information, see the article [Adding users to buyer organizations](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organizations).

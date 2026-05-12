@@ -27,7 +27,7 @@ Regardless of using only one or more logistics options, through the VTEX Admin, 
 
 ## Self Ship  
 
-*Selfship* is the logistics strategy in which the seller is responsible for the entire fulfillment process, from product picking to delivery. To configure this option, you should follow the steps described in the[ Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy) and [Defining a shipping policy in Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio) steps.  
+*Selfship* is the logistics strategy in which the seller is responsible for the entire fulfillment process, from product picking to delivery. To configure this option, you should follow the steps described in the[ Creating a sales channel](/en/docs/tutorials/creating-a-trade-policy) and [Defining a shipping policy in Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio) steps.  
 
 ## FBA Onsite (Fulfillment by Amazon) 
 
@@ -54,14 +54,14 @@ After creating the product specification, your product will be available for FBA
 
 ### 2. Defining a shipping strategy for FBA Onsite orders  
 
-> ℹ️ You need to ensure that the [trade policy](/en/docs/tutorials/how-trade-policies-work) you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create.   
+> ℹ️ You need to ensure that the [sales channel](/en/docs/tutorials/how-trade-policies-work) you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create.   
 
 To proceed with the configuration, it is necessary to determine a [shipping strategy](/en/docs/tutorials/shipping-strategy) exclusively for FBA Onsite orders, that is, to specify the delivery operation of your products.  
 
 Follow the steps below to create a specific shipping strategy:  
 
-  1.	Create a [shipping policy](/en/docs/tutorials/shipping-policy#cadastrar-uma-politica-de-envio) associated with the trade policy used in the Amazon integration.  
-  2.	Create a [dock](/en/docs/tutorials/managing-loading-docks) associated with the trade policy used in the Amazon integration.  
+  1.	Create a [shipping policy](/en/docs/tutorials/shipping-policy#cadastrar-uma-politica-de-envio) associated with the sales channel used in the Amazon integration.  
+  2.	Create a [dock](/en/docs/tutorials/managing-loading-docks) associated with the sales channel used in the Amazon integration.  
   3.	Create a [warehouse](/en/docs/tutorials/managing-warehouses) associated with the loading dock you created in the previous step.  
   4.	Go to the [Inventory Management](/en/docs/tutorials/managing-stock-items) page, find the warehouse created in the previous step, and activate the **Unlimited inventory field**.  
 

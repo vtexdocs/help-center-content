@@ -96,9 +96,9 @@ In addition to inviting and activating sellers through the VTEX Admin, the marke
 
 This step is optional for the marketplace and will depend on the goal of your business model. Sharing the catalog was set in the [Inviting the seller](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#inviting-sellers) step through the **Share marketplace catalog** flag.
 
-When the marketplace decides to allow sharing, this is done through a [trade policy](/en/docs/tutorials/how-trade-policies-work). Then, the seller receives the list of products that are already available in the marketplace, which allows them to import and configure inventory and pricing in the Seller Portal, under **Products > Shared Products**.
+When the marketplace decides to allow sharing, this is done through a [sales channel](/en/docs/tutorials/how-trade-policies-work). Then, the seller receives the list of products that are already available in the marketplace, which allows them to import and configure inventory and pricing in the Seller Portal, under **Products > Shared Products**.
 
-> ℹ️ If the marketplace operator creates an additional trade policy to define the seller catalog assortment on the Seller Portal, the policy is charged as [requesting an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy).
+> ℹ️ If the marketplace operator creates an additional sales channel to define the seller catalog assortment on the Seller Portal, the policy is charged as [requesting an additional sales channel](/en/docs/tutorials/requesting-an-additional-trade-policy).
 
 #### Sharing products
 

@@ -45,9 +45,9 @@ Fill in some basic information to start selling your product.
 
 ## Operations and logistics
 
-In this section, you need to add at least one trade policy to apply to the product. You can also select a transportation strategy for it.
+In this section, you need to add at least one sales channel to apply to the product. You can also select a transportation strategy for it.
 
-* **Trade Policies:** select the trade policies you want to link with the product, to define on which marketplaces it will be available. This is a required field.
+* **Sales Channels:** select the sales channels you want to link with the product, to define on which marketplaces it will be available. This is a required field.
 * **Modal:** select the product's transportation strategy.
 
 ## Description
