@@ -15,15 +15,18 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-En este artículo, te mostraremos de manera simple cómo traer contactos desde tu plataforma externa a la Plataforma Weni.
+En este artículo, te mostraremos de manera simple cómo traer contactos desde tu plataforma externa a la VTEX CX Platform.
 
-La Plataforma Weni tiene docenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que pueden ser utilizadas para diversas funcionalidades. En este artículo, nos enfocaremos específicamente en la integración de contactos para automatizar tu comunicación.
+La VTEX CX Platform tiene docenas de [APIs](https://dash.weni.ai/api/flows/api/v2/explorer) que pueden ser utilizadas para diversas funcionalidades. En este artículo, nos enfocaremos específicamente en la integración de contactos para automatizar tu comunicación.
 
 Los contactos son los registros de cada persona dentro de un determinado canal de comunicación. En ellos, se pueden guardar campos predeterminados, como nombre, correo electrónico, teléfono y WhatsApp, así como diversos campos personalizados que pueden crearse y utilizarse libremente en la comunicación.
 
 Normalmente, los webhooks se disparan a partir de un determinado evento dentro del software asociado, como, por ejemplo:
 
-- Al crear, actualizar o eliminar un registro de cliente.- Al cambiar el estado de un registro de lead en una plataforma CRM.Cuando ocurren estos eventos, deben dispararse solicitudes a la Plataforma Weni para actualizar los registros de contactos, permitiendo que toda la automatización de comunicación se modifique en tiempo real.
+- Al crear, actualizar o eliminar un registro de cliente.
+- Al cambiar el estado de un registro de lead en una plataforma CRM.
+
+Cuando ocurren estos eventos, deben dispararse solicitudes a la VTEX CX Platform para actualizar los registros de contactos, permitiendo que toda la automatización de comunicación se modifique en tiempo real.
 
 ## Añadiendo contactos
 
@@ -31,10 +34,15 @@ Puedes añadir un nuevo contacto enviando una solicitud **POST** a esta URL con 
 
 - **Name**: el nombre completo del contacto (cadena, opcional).
 - **Language**: el idioma preferido del contacto (código ISO de 3 dígitos, opcional).
-- **Urns**: una lista de URNs que deseas asociar a este contacto (array de hasta 100 cadenas, opcional). En los URNs se utiliza un prefijo con el canal en el que se puede iniciar la comunicación con este contacto, algunos ejemplos son:**tel**: Teléfono para el envío de SMS y llamadas.- **whatsapp**: Teléfono de WhatsApp para la comunicación por este canal. En este caso, deben usarse 8 o 9 dígitos para el teléfono, dependiendo de cómo esté registrado en WhatsApp.- **mailto**: El correo electrónico no es un canal de comunicación para recibir, solo para enviar.
+- **Urns**: una lista de URNs que deseas asociar a este contacto (array de hasta 100 cadenas, opcional). En los URNs se utiliza un prefijo con el canal en el que se puede iniciar la comunicación con este contacto, algunos ejemplos son:
+  - **tel**: Teléfono para el envío de SMS y llamadas.
+  - **whatsapp**: Teléfono de WhatsApp para la comunicación por este canal. En este caso, deben usarse 8 o 9 dígitos para el teléfono, dependiendo de cómo esté registrado en WhatsApp.
+  - **mailto**: El correo electrónico no es un canal de comunicación para recibir, solo para enviar.
 - **Ext**: Identificador externo que se puede utilizar para el canal externo o para facilitar la búsqueda de un contacto mediante cualquier identificador.
 - **Groups**: una lista de UUIDs de grupos a los que pertenece este contacto (array de hasta 100 cadenas, opcional).
-- **Fields**: los campos de contacto que deseas configurar o actualizar para este contacto. Los campos deben estar previamente creados (diccionario de hasta 100 elementos, opcional).Ejemplo:
+- **Fields**: los campos de contacto que deseas configurar o actualizar para este contacto. Los campos deben estar previamente creados (diccionario de hasta 100 elementos, opcional).
+
+Ejemplo:
 
 ```
 POST /api/v2/contacts.json

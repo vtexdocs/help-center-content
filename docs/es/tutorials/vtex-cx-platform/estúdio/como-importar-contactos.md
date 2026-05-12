@@ -15,15 +15,11 @@ locale: es
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Cuando una persona interactúa a través de alguno de los canales conectados en la Plataforma Weni, automáticamente se convierte en un contacto. Sin embargo, muchas veces ya tenemos información de los futuros contactos que interactuarán por los canales, entonces, ¿cómo podemos importar esos contactos a la plataforma?
+Cuando una persona interactúa a través de alguno de los canales conectados en la VTEX CX Platform, automáticamente se convierte en un contacto. Sin embargo, muchas veces ya tenemos información de los futuros contactos que interactuarán por los canales, entonces, ¿cómo podemos importar esos contactos a la plataforma?
 
-Es un proceso muy simple, primero, solo debes acceder al **Estudio **y dirigirte a la página de **contactos**, donde encontrarás el botón de **\*Importar Contactos\*\*** \*en la esquina izquierda.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/estúdio/como-importar-contactos_1.png)
+Es un proceso muy simple, primero, solo debes acceder al **Estudio** y dirigirte a la página de **contactos**, donde encontrarás el botón de **Importar Contactos** en la esquina izquierda.
 
 Después de eso, serás dirigido a la página de importación, donde podrás seleccionar una hoja de Excel en formato **.XLS** y cargar los contactos que existen en la hoja a la plataforma. Sin embargo, para que esto funcione, es necesario nombrar correctamente el encabezado de la hoja, es decir, el nombre de las columnas. Al final de la página, proporcionamos una plantilla de ejemplo que puedes utilizar.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/estúdio/como-importar-contactos_2.png)
 
 Las reglas para nombrar las columnas son:
 
@@ -36,5 +32,3 @@ Las reglas para nombrar las columnas son:
 - **Field:** columna para los campos personalizados de los contactos.
 
 Después de seleccionar el archivo, simplemente haz clic en **(Avance)** y tus contactos se importarán a la plataforma. Todos los contactos aparecerán vinculados a un grupo estático, que tendrá el mismo nombre que el archivo de la hoja de cálculo. Si no deseas mantener el grupo, simplemente elimínalo.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/estúdio/como-importar-contactos_3.png)

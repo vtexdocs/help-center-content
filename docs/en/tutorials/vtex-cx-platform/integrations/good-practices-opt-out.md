@@ -17,7 +17,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 The practice of opt-out refers to the process by which a user can cancel or stop receiving communications from a company or service. In the context of the WhatsApp Business API, for example, opt-out allows customers to choose not to receive further messages from the company, whether for marketing, service updates, or other notifications.
 
-This practice involves providing clear and accessible methods for users to easily stop communication whenever they wish. Opt-out is typically done through keywords sent by the user themselves (like ""STOP,"" ""CANCEL,"" ""UNSUBSCRIBE"") or through buttons or clickable links that remove the contact from the sending list.
+This practice involves providing clear and accessible methods for users to easily stop communication whenever they wish. Opt-out is typically done through keywords sent by the user themselves (like "STOP," "CANCEL," "UNSUBSCRIBE") or through buttons or clickable links that remove the contact from the sending list.
 
 ## Key features of the opt-out practice
 

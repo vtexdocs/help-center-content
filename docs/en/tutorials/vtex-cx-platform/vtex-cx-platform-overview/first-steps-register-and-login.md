@@ -1,5 +1,5 @@
 ---
-title: 'First steps - register and login'
+title: "First steps - register and login"
 id: 2h3YeiQG0EY9hMi6txHtnT
 status: PUBLISHED
 createdAt: 2025-10-16T18:24:49.333Z
@@ -15,39 +15,29 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-**Weni Platform** provides an intuitive experience for creating intelligent chatbots. With it, you can design the entire interaction the bot will have with its users, as well as define the channels through which it will communicate.
+**VTEX CX Platform** provides an intuitive experience for creating intelligent chatbots. With it, you can design the entire interaction the bot will have with its users, as well as define the channels through which it will communicate.
 
 In your first visit to the platform, you will see a screen like this
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/first-steps-register-and-login_1.png)
 
 On it, we will have a login button, and a field for free registration.
 
 1. If you already have an account, simply enter your email, your password, and click the "login" button. If you've forgotten your password, just click "forgot password?" and an email will be sent to you to reset your password.
-2. If you've never registered on the Weni Platform, click the "Sign up for free" button, and you will be redirected to the following page:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/first-steps-register-and-login_2.png)
+2. If you've never registered on the VTEX CX Platform, click the "Sign up for free" button, and you will be redirected to the following page:
 
 - Put your e-mail
 - Create a password
 
 If you received an invitation and are not registered on the platform, select how you would like to sign in, and a new window will open where you will need to fill in the following information:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/first-steps-register-and-login_3.png)
-
 **After filling in the fields, click "next".**
 
 ### Filling in the organization and project details
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/first-steps-register-and-login_4.png)
 
 > If your organization already exists and you are being invited to join, fill in the fields with fictional names just to register on the platform. It is not necessary to use the company's real names.
 
 **After filling in the fields, click "next".**
 
 Choose between creating a custom agent or using a template. To start your experience creating a custom agent, simply fill in the following fields:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/first-steps-register-and-login_5.png)
 
 1. Agent name;
 2. Goal;
@@ -63,4 +53,4 @@ Templates are pre-built flows with specific purposes, divided into three categor
 
 Click "Finish" to proceed.
 
-Click "Start" and explore all the features available on the Weni Platform. Make the most of it!
+Click "Start" and explore all the features available on the VTEX CX Platform.

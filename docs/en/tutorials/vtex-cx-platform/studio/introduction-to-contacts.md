@@ -19,13 +19,11 @@ Here are all the people you will be in contact with. There are two ways for a us
 
 - **Actively**, by sending a message to one of the channels registered by the organization.
 
-- **Via the import contacts button**, which allows you to import a spreadsheet (following specific rules) with contacts who have not yet interacted with the platform.To access this information, go to your project and click on the ""Studio"" module in the left sidebar menu.
+- **Via the import contacts button**, which allows you to import a spreadsheet (following specific rules) with contacts who have not yet interacted with the platform.To access this information, go to your project and click on the "Studio" module in the left sidebar menu.
 
-When selecting the ""Contacts"" option, you will encounter the following features:
+When selecting the "Contacts" option, you will encounter the following features:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/introduction-to-contacts_1.png)
-
-- **Import Contacts**: A button to import a spreadsheet (following specific formatting rules) with external contacts. If the user is in this spreadsheet, the Weni platform recognizes them and can address them by the registered name from the first message sent by the platform.
+- **Import Contacts**: A button to import a spreadsheet (following specific formatting rules) with external contacts. If the user is in this spreadsheet, the VTEX CX Platform recognizes them and can address them by the registered name from the first message sent by the platform.
 - **Create Contact**: Allows you to create a new contact from scratch within the platform.
 - **Create Group**: Enables the creation of a name for a group of contacts.
 - **Groups**: A list of groups, with the respective groupings created in that organization. These can be Static Groups (when contacts are added manually or through flows) or Dynamic Groups (a search bar that uses specific expressions and automatically adds the search results to the group).

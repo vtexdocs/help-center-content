@@ -54,7 +54,7 @@ Após a configuração no ambiente VTEX, você também precisa configurar o Webh
 8. Clique em __Adicionar eventos__.
 9. Clique em __Adicionar endpoint__.
 
-> ℹ️ Caso você deseje realizar transações com cartão de crédito na Stripe, é necessário abrir um ticket na própria Stripe da seguinte maneira: - Solicitar a liberação da função "raw card data", indicando que a VTEX e a Stripe são parceiros de pagamento. - Encaminhar em anexo o AOC (Attestation of Compliance for Onsite Assessments – Service Providers) da VTEX. Para verificar a versão mais recente do AOC VTEX, acesse a página de [certificações da VTEX](https://vtex.com/br-pt/compliance/certifications) e baixe o arquivo na seção PCI. As ações acima evitarão que erros relacionados a transmissão de dados sensíveis ocorram na integração entre a Stripe e a VTEX.
+> ℹ️ Caso você deseje realizar transações com cartão de crédito na Stripe, é necessário abrir um ticket na própria Stripe da seguinte maneira: - Solicitar a liberação da função "raw card data", indicando que a VTEX e a Stripe são parceiros de pagamento. - Encaminhar em anexo o AOC (Attestation of Compliance for Onsite Assessments – Service Providers) da VTEX. Para verificar a versão mais recente do AOC VTEX, acesse a página de [certificações da VTEX](https://compliance.vtex.com) e baixe o arquivo na seção PCI. As ações acima evitarão que erros relacionados a transmissão de dados sensíveis ocorram na integração entre a Stripe e a VTEX.
 
 ## Configurar condição de pagamento
 

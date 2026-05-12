@@ -45,7 +45,7 @@ Após preencher os campos clique em avançar.
 
 ### Preenchendo os dados de organização e projeto
 
-> **Note:** Se a sua Organização já existe e você está sendo convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na Plataforma. Não é necessário utilizar os nomes reais da empresa.
+> ℹ️ Se a sua Organização já existe e você está sendo convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na Plataforma. Não é necessário utilizar os nomes reais da empresa.
 
 Após preencher os campos clique em avançar.
 
@@ -55,13 +55,13 @@ Escolha entre criar **um agente personalizado** ou **usar um template.** Para co
 2. Objetivo;
 3. Conteúdo (Opcional). Esse conteúdo também poderá ser implementado em outra fase.
 
-> **Note:** **Defina claramente o objetivo principal do seu agente ao interagir com os clientes.** Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orientará as conversas de forma direta e assertiva.
+> ℹ️ **Defina claramente o objetivo principal do seu agente ao interagir com os clientes.** Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orientará as conversas de forma direta e assertiva.
 
-> **Note:** **Adicionando uma base de conteúdo,** você capacita seu agente inteligente a responder eficazmente aos usuários. Importe informações essenciais facilmente arrastando e soltando arquivos, com o texto sendo automaticamente integrado. Além disso, você pode adicionar conteúdos diretamente de sites ou copiar e colar o que desejar na base.
+> ℹ️ **Adicionando uma base de conteúdo,** você capacita seu agente inteligente a responder eficazmente aos usuários. Importe informações essenciais facilmente arrastando e soltando arquivos, com o texto sendo automaticamente integrado. Além disso, você pode adicionar conteúdos diretamente de sites ou copiar e colar o que desejar na base.
 
 Os **templates são fluxos prontos** com finalidades específicas, eles são divididos em três categorias: suporte, integrações e vendas. Ao clicar em alguns dos cards referentes à categoria de template você irá visualizar um pop-up que detalha seu uso de forma geral.
 
-> **Note:** Se optar por escolher um dos templates, clique na aba e escolha um dentre os que temos à disposição.
+> ℹ️ Se optar por escolher um dos templates, clique na aba e escolha um dentre os que temos à disposição.
 
 Clique em concluir para seguir adiante.
 
@@ -74,8 +74,6 @@ A seção Perfil permite que você gerencie sua conta e visualize todas as suas 
 Para acessar a página de Perfil, vá para a página inicial e clique no ícone do lado superior direito da tela.
 
 Clicando no ícone à esquerda clique em Seu perfil, nessa sessão pode editar seu nome, sobrenome e o contato da sua conta, além de poder, trocar a senha, caso necessário. Poderá também colocar uma imagem para o seu perfil. Digite as alterações e clique em salvar alterações que as informações serão atualizadas.
-
-Complete os campos para salvar os dados que serão atualizados, imagem demonstrativa não contém o contato completo para respeitar a Lei Geral de Proteção de Dados.
 
 ### Trocar senha
 

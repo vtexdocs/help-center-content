@@ -100,7 +100,7 @@ O escopo de atuação do usuário membro de uma unidade organizacional em uma lo
 * **Unidades organizacionais**, que determinam o grupo em que o usuário está contido.
 * **Perfis de acesso do storefront**, que definem o papel do usuário na organização reunindo determinadas permissões para realizar ações na frente de loja.
 
-Saiba mais em [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
+Saiba mais em [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 
 ## Experiência de compra
 

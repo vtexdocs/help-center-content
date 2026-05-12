@@ -26,7 +26,7 @@ Some important information about the model:
 | Claude 3 (Sonnet) | 77.6% Accuracy |
 
 - At least 3x faster in classification (inference);
-- Efficient model included in your Weni plan, without the need for API calls or additional costs;
+- Efficient model included in your VTEX CX Platform plan, without the need for API calls or additional costs;
 - Easy and quick implementation.
 
 Watch a quick, explanatory video: [Video](https://youtu.be/RDRgSXIJRrM)
@@ -35,21 +35,17 @@ Watch a quick, explanatory video: [Video](https://youtu.be/RDRgSXIJRrM)
 
 The way the Zero Shot application works consists of receiving as input a phrase, which will be categorized, and identifying which category this input belongs to according to the customer's context. Categories are defined through Command Phrases, which serve as context to identify and generate the correct classification. From the input data, the model is expected to return the category of the sentence.
 
-When we talk about context, take into account that whenever you use Zero Shot, we must configure the Command Phrases. **Command phrases will instruct the intelligence to classify your intentions (called ""Classes"") according to rules defined by you.**
+When we talk about context, take into account that whenever you use Zero Shot, we must configure the Command Phrases. **Command phrases will instruct the intelligence to classify your intentions (called "Classes") according to rules defined by you.**
 
 ## Zero shot in practice
 
-There are two ways to create a Zero Shot classification AI on the Weni Platform: through the **Classify automatically** and **Smart Wait for response** flow cards.
+There are two ways to create a Zero Shot classification AI on the VTEX CX Platform: through the **Classify automatically** and **Smart Wait for response** flow cards.
 
 ### Smart wait for response
 
 With the Smart Wait for response card, you can wait for the user's response and send that response directly to your AI Classification, so you can create your categories and treat each intention as you wish:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/zero-shot-learning_1.png)
-
 In the example below, we create intentions and their appropriate contexts so that we can categorize and handle user requests:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/zero-shot-learning_2.png)
 
 Remember, each category must have a Command Phrase. The command phrases will instruct the intelligence and you can use these examples:
 
@@ -57,33 +53,29 @@ Remember, each category must have a Command Phrase. The command phrases will ins
 - when the user wants to know why their order was delayed or if it will be delayed > Delay
 - when the user wants to replace a product or talk about a product that has been replaced or change an item > Replacement
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/zero-shot-learning_3.png)
-
 ### Automatic classify
 
 With the Automatic classify card, you can use an expression or variables as the input for classifying user intent (Class). This card is normally used when you already have a **text** to deal with and do not need to wait for a response from the user before consulting Artificial Intelligence:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/zero-shot-learning_4.png)
 
 The difference between the **Smart Wait for response** card and the **Automatic Classify** card is that **Automatic Classify** will not cause a pause in the flow to receive a response from the contact.
 
 ### Use cases
 
 Example use case for client context in the financial area:
-**phrase:** ""I want to talk to an attendant""
+**phrase:** "I want to talk to an attendant"
 
-**categories:** [{""class"":""HumanAssistance"",""context"":""When the user wants to speak with an attendant or human specialist.""},
-{""class"":""Invoice"",""context"":""When the user wants to generate a new payment invoice""},
-{""class"":""Statement"",""context"":""When the user wants to see their financial status""},
-{""class"":""Debts"",""context"":""When the user wants to access or renegotiate their debts.""}]
+**categories:** [{"class":"HumanAssistance","context":"When the user wants to speak with an attendant or human specialist."},
+{"class":"Invoice","context":"When the user wants to generate a new payment invoice"},
+{"class":"Statement","context":"When the user wants to see their financial status"},
+{"class":"Debts","context":"When the user wants to access or renegotiate their debts."}]
 
-**expected result:** ""HumanAssistance""
+**expected result:** "HumanAssistance"
 Example use case for client context in the educational area:
-**phrase:** ""I would like to know my test score""
+**phrase:** "I would like to know my test score"
 
-**categories:** [{""class"":""Calendar"",""context"":""When the user wants to know the class schedule.""},
-{""class"":""Subjects"",""context"":""When the user needs to access information about the subjects.""},
-{""class"":""Scores"",""context"":""When the user requests access to their scores""},
-{""class"":""Teachers"",""context"":""When more information about the teachers is requested.""}]
+**categories:** [{"class":"Calendar","context":"When the user wants to know the class schedule."},
+{"class":"Subjects","context":"When the user needs to access information about the subjects."},
+{"class":"Scores","context":"When the user requests access to their scores"},
+{"class":"Teachers","context":"When more information about the teachers is requested."}]
 
-**expected result:** ""Scores""
+**expected result:** "Scores"

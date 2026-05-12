@@ -19,7 +19,7 @@ Las variables son espacios creados para almacenar valores en la plataforma, lo q
 
 Para utilizar una variable, se debe colocar el símbolo @, y la expresión escrita será sustituida por el valor real de la variable, siempre que se haya creado de manera adecuada.
 
-A continuación, haremos una lista de cómo referirse a todos los tipos de variables existentes en la Plataforma Weni, que son:
+A continuación, haremos una lista de cómo referirse a todos los tipos de variables existentes en la VTEX CX Platform, que son:
 
 - Contactos y campos de contacto
 - Resultados y flujos
@@ -52,9 +52,9 @@ A continuación, haremos una lista de cómo referirse a todos los tipos de varia
 - `@input.text`: Valor de texto ingresado por el contacto en su última interacción con la plataforma;
 - `@input.attachments`: Archivos adjuntos ingresados por el contacto en su última interacción con la plataforma.
 
-**`@child`** : permite hacer referencia a todas las variables del flujo hijo, es decir, el flujo que fue llamado por la carta de acción ""Enter a flow"", dentro del flujo padre. Si deseas acceder a un resultado del flujo hijo después de su finalización, por ejemplo, solo debes usar @child.results.nombre_del_resultado. Al usar otra carta de ""Enter a flow"", el valor de @child se sobrescribe.
+**`@child`** : permite hacer referencia a todas las variables del flujo hijo, es decir, el flujo que fue llamado por la carta de acción "Enter a flow", dentro del flujo padre. Si deseas acceder a un resultado del flujo hijo después de su finalización, por ejemplo, solo debes usar @child.results.nombre_del_resultado. Al usar otra carta de "Enter a flow", el valor de @child se sobrescribe.
 
-**`@parent`** : permite hacer referencia a todas las variables del flujo padre, es decir, el flujo que llamó la carta de acción ""Enter a flow"", dentro del flujo hijo. Si deseas acceder a un resultado del flujo padre durante la ejecución del flujo hijo, por ejemplo, solo debes usar @parent.results.nombre_del_resultado.
+**`@parent`** : permite hacer referencia a todas las variables del flujo padre, es decir, el flujo que llamó la carta de acción "Enter a flow", dentro del flujo hijo. Si deseas acceder a un resultado del flujo padre durante la ejecución del flujo hijo, por ejemplo, solo debes usar @parent.results.nombre_del_resultado.
 
 ## Globals
 
@@ -62,10 +62,6 @@ Las variables globales, o **globals** , son variables creadas que pueden ser acc
 
 Para crear una global, simplemente ve a la configuración general de tu organización y desplázate hasta el final de la página, donde encontrarás la pestaña para las **globals**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/glosario-de-variables_1.png)
-
-Después de eso, solo tienes que hacer clic en ""**Crear Global** "", escribir el nombre de la global que deseas junto con su valor.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/glosario-de-variables_2.png)
+Después de eso, solo tienes que hacer clic en "**Crear Global** ", escribir el nombre de la global que deseas junto con su valor.
 
 De esta manera, se volverá accesible en cualquier flujo a través de la variable `@globals.nombre_de_la_global`.

@@ -22,5 +22,4 @@ The current rules for automatic support distribution are:
 - An agent can manually pick up a session even if they are in Offline status.
 - An agent can manually pick up a session, even if they are at the limit of simultaneous support sessions.
 
-Weni Chats currently does not allow for the selection of different distribution
-and routing rules for human agents.
+Live Desk currently does not allow for the selection of different distribution and routing rules for human agents.

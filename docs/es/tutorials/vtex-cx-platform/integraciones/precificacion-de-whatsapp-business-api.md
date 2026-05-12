@@ -41,7 +41,7 @@ Los modelos de utilidad se activan por una acción o solicitud del usuario. Debe
 
 Con los modelos de autenticación, las empresas pueden autenticar a los usuarios mediante contraseñas de un solo uso (generalmente, códigos alfanuméricos de 4 a 8 dígitos) en varias etapas del proceso de inicio de sesión (como verificación/recuperación de cuenta y desafíos de integridad).
 
-Los modelos de autenticación son los más restrictivos. Para que un modelo sea clasificado como ""autenticación"", la empresa debe:
+Los modelos de autenticación son los más restrictivos. Para que un modelo sea clasificado como "autenticación", la empresa debe:
 
 - Usar los modelos de mensaje de autenticación predefinidos de WhatsApp, que incluyen complementos opcionales como advertencias legales de seguridad y notificaciones de vencimiento.
 - Configurar un botón de contraseña desechable (copiar código o un solo toque).
@@ -63,11 +63,11 @@ Las conversaciones con punto de entrada gratuito son aquellas en las que el clie
 
 **La conversación iniciada es gratuita, sin embargo, el anuncio es cobrado.**
 
-Recordando que: Cada cuenta de WhatsApp Business (WABA) tiene 1\.000 conversaciones iniciadas por el usuario gratuitas por mes, independientemente de la cantidad de teléfonos incluidos. El límite de conversaciones gratuitas se restablece cada mes según la zona horaria asociada a la WABA.
+Recordando que: Cada cuenta de WhatsApp Business (WABA) tiene 1.000 conversaciones iniciadas por el usuario gratuitas por mes, independientemente de la cantidad de teléfonos incluidos. El límite de conversaciones gratuitas se restablece cada mes según la zona horaria asociada a la WABA.
 
 ### Duración de la conversación
 
-Las conversaciones de marketing, utilidad, autenticación y servicio duran 24 horas (a menos que sea una conversación por punto de entrada gratuito \- de anuncios clic para WhatsApp o de páginas de Facebook); después de este período, el tiempo se reiniciará y cualquier mensaje enviado iniciará una nueva ventana y será cobrado de acuerdo con la categoría.
+Las conversaciones de marketing, utilidad, autenticación y servicio duran 24 horas (a menos que sea una conversación por punto de entrada gratuito - de anuncios clic para WhatsApp o de páginas de Facebook); después de este período, el tiempo se reiniciará y cualquier mensaje enviado iniciará una nueva ventana y será cobrado de acuerdo con la categoría.
 
 ## Precios
 

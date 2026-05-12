@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 ## Sienge chatbot template
 
-This is a chatbot designed to handle the issuance of duplicate invoices in PDF format, PDF statements, outstanding balances, and external collections through channels such as WhatsApp. Weni provides digital solutions for automating conscious, open, and accessible communication. This chatbot is a template project developed by Weni using the Sienge Platform.
+This is a chatbot designed to handle the issuance of duplicate invoices in PDF format, PDF statements, outstanding balances, and external collections through channels such as WhatsApp. VTEX CX Platform provides digital solutions for automating conscious, open, and accessible communication. This chatbot is a template project developed by VTEX CX Platform using the Sienge Platform.
 
 For full automation functionality, an API user must be created with permissions to access the following resources:
 

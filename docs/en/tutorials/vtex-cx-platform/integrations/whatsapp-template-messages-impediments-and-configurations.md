@@ -21,7 +21,7 @@ Here you will find solutions for potential obstacles, rejections, and errors in 
 
 Once you create a template, you can submit it for approval. It may take up to 24 hours for a decision to be made. Once a decision is reached, a notification will appear in the WhatsApp Manager. Additionally, Meta will send an email to the Business Manager administrators. If you have subscribed to updates on message template status changes, Meta will also send a notification via webhook. Refer to [**How to Monitor Status Changes**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes) for more details.
 
-If approved, the message template will have the status ""Active – Quality Pending,"" allowing you to begin sending it to customers. If rejected, the template can be [**edited**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) and resubmitted for approval. Another option is to [**appeal**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) the decision.
+If approved, the message template will have the status "Active – Quality Pending," allowing you to begin sending it to customers. If rejected, the template can be [**edited**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) and resubmitted for approval. Another option is to [**appeal**](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#appeals) the decision.
 
 ​
 

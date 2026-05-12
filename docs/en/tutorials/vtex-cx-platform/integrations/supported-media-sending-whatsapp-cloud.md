@@ -19,7 +19,7 @@ Below, you will find the supported limits on WhatsApp Cloud for each media type.
 
 ## Supported media types
 
-| **Tipo de m\*\***ídia\*\*      | **Extensão**                        | **Tipos de mídia compatíveis (MIME Type)**                                                                                                                                                                                                                                                                        | **Tamanho**  |
+| **Tipo de mídia**      | **Extensão**                        | **Tipos de mídia compatíveis (MIME Type)**                                                                                                                                                                                                                                                                        | **Tamanho**  |
 | ------------------------------ | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | audio                          | .aac.amr.mp3.m4a.ogg                | audio/aacaudio/amraudio/mpegaudio/mp4audio/ogg (OPUS codecs only; base audio/ogg not supported.)                                                                                                                                                                                                                  | 16 MB        |
 | document                       | .txt.xls.xlsx.doc.docx.ppt.pptx.pdf | text/plainapplication/vnd.ms-excelapplication/vnd.openxmlformats-officedocument.spreadsheetml.sheetapplication/mswordapplication/vnd.openxmlformats-officedocument.wordprocessingml.documentapplication/vnd.ms-powerpointapplication/vnd.openxmlformats-officedocument.presentationml.presentationapplication/pdf | 100 MB       |
@@ -37,7 +37,7 @@ It is not safe to assume that the download was completed solely based on deliver
 
 If you use the media upload process instead of a link to the media URL, the file must be uploaded to the media volume. Once the upload is complete, send a message using the media ID.
 
-The application processes the uploaded media before it is sent to the server. The maximum media size that can be uploaded to the media node is 100 MB. However, there are post-processing limits for various media types, as described in the ""Media size after processing"" table mentioned earlier.
+The application processes the uploaded media before it is sent to the server. The maximum media size that can be uploaded to the media node is 100 MB. However, there are post-processing limits for various media types, as described in the "Media size after processing" table mentioned earlier.
 
 Media storage must be managed by the company. If the media volume reaches its limit, message sending will start to fail.
 
@@ -86,6 +86,6 @@ In both cases, a successful response returns the `id` field
 
 If you receive an error message, refer to [**Error Messages and Status**](https://developers.facebook.com/docs/whatsapp/on-premises/errors) for more details.
 
-As you can see, videos and audio files have a maximum size limit of 16 MB. For example, if you upload a 20 MB video to the Weni Platform, the video will be saved on the platform, but at runtime, WhatsApp will not be able to send it. For documents, the maximum limit is 100 MB, but this does not work on the Weni Platform, as it only supports up to 32 MB.
+As you can see, videos and audio files have a maximum size limit of 16 MB. For example, if you upload a 20 MB video to the VTEX CX Platform, the video will be saved on the platform, but at runtime, WhatsApp will not be able to send it. For documents, the maximum limit is 100 MB, but this does not work on the VTEX CX Platform, as it only supports up to 32 MB.
 
 You can find more about this information on the official META [page](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media/)

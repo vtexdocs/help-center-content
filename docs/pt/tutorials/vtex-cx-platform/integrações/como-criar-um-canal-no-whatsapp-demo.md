@@ -21,7 +21,7 @@ O VTEX CX Platform que você teste o bot do WhatsApp de uma maneira rápida e pr
 2. **Localize o projeto** que você deseja integrar.
 3. Na barra lateral esquerda, **clique em Configurações > Canais**. A seguinte tela aparecerá:
 
-1. Selecione a opção **Whatsapp Demo** e adicione o canal ao seu projeto, clicando no **ícone \+.**
-2. Em seguida escolha entre ler o QR Code, copiar o link ou abrir uma guia para ser redirecionado ao canal de demonstração do VTEX CX PlatformsApp. **Envie seu token e você já pode começar a conversar!**
+1. Selecione a opção **Whatsapp Demo** e adicione o canal ao seu projeto, clicando no ícone `+.`
+2. Em seguida escolha entre ler o QR Code, copiar o link ou abrir uma guia para ser redirecionado ao canal de demonstração do VTEX CX Platform App. Envie seu token e você já pode começar a conversar.
 
-E assim, **você poderá testar seus fluxos conversacionais** e garantir que tudo está funcionando como planejado antes de realizar os disparos para seus clientes. Aproveite ao máximo todos os recursos que o VTEX CX Platform!
+Dessa forma, você poderá testar seus fluxos conversacionais e garantir que tudo está funcionando como planejado antes de realizar os disparos para seus clientes.

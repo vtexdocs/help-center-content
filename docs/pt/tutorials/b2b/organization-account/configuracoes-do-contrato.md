@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
-A seção **Contract** na [Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt) reúne configurações que definem como uma organização compradora opera em uma loja [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Nessa seção, o usuário pode ver informações de perfil, gerenciar endereços, configurar meios de pagamento e cartões de crédito, selecionar sortimentos de produtos e gerenciar [campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/campos-contabeis).
+A seção **Contract** na [Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao) reúne configurações que definem como uma organização compradora opera em uma loja [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt). Nessa seção, o usuário pode ver informações de perfil, gerenciar endereços, configurar meios de pagamento e cartões de crédito, selecionar sortimentos de produtos e gerenciar [campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/campos-contabeis).
 
 Este artigo aborda:
 
@@ -33,7 +33,7 @@ Este artigo aborda:
 
 A página **Profile** exibe informações básicas sobre o contrato, incluindo nome, email e data de criação. Essas informações não podem ser editadas.
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Profile.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Profile.**
 2. Veja os detalhes na seção **Details**.
 
 ## Gerenciar endereços
@@ -48,7 +48,7 @@ Uma **location** é um ponto específico de entrega dentro de um local, como doc
 
 ### Adicionar um endereço
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Addresses.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Addresses.**
 2. Na página **Addresses**, clique no ícone **+** no topo da tela.
 3. No painel **Add address**, você pode escolher um endereço entre os já cadastrados para sua organização. Se ainda não houver endereço cadastrado ou quiser salvar um novo, preencha as informações nas abas a seguir:
     - Na aba **Details**, preencha os campos de endereço:
@@ -66,7 +66,7 @@ Uma **location** é um ponto específico de entrega dentro de um local, como doc
 
 ### Editar um endereço
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Addresses.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Addresses.**
 2. Na página **Addresses**, na linha correspondente, clique no ícone de menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e selecione uma das ações disponíveis:
     - `Open` — ver os detalhes do endereço.
     - `Edit details` — editar as informações do endereço.
@@ -81,7 +81,7 @@ Uma **location** é um ponto específico de entrega dentro de um local, como doc
 
 > ❗ Excluir um endereço é permanente e não pode ser desfeito. O endereço pode ser usado por várias unidades organizacionais. Ao excluir, o endereço e todos os seus dados são removidos de todas as unidades associadas; o histórico de uso é mantido para auditoria.
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Addresses.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Addresses.**
 2. Na página **Addresses**, na linha correspondente, clique no ícone de menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
 3. No modal de confirmação, digite o nome do endereço para confirmar.
 4. Clique em `Remove`.
@@ -92,7 +92,7 @@ A página **Payment methods** lista os meios de pagamento atualmente disponívei
 
 ### Adicionar um meio de pagamento
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
 2. Na página **Payment Methods**, clique no ícone **+** no topo da tela.
 3. No painel **Add payment methods**, selecione os meios de pagamento a adicionar marcando as caixas correspondentes.
 4. Clique em `Add`.
@@ -101,7 +101,7 @@ Os meios selecionados aparecerão na página **Payment Methods** e ficarão disp
 
 ### Remover um meio de pagamento
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
 2. Na página **Payment Methods**, clique no ícone **−** ao lado do meio de pagamento a remover.
 3. No modal de confirmação, clique em `Remove`.
 
@@ -115,7 +115,7 @@ Cartões de crédito associados ao contrato são compartilhados com a unidade or
 
 ### Adicionar um cartão de crédito
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Credit cards.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Credit cards.**
 2. Na página **Credit Cards**, clique no ícone **+**.
 3. No painel **Add Credit Card**, preencha os campos a seguir:
     - **Card nickname:** informe um nome para identificar o cartão.
@@ -135,7 +135,7 @@ Cartões de crédito associados ao contrato são compartilhados com a unidade or
 
 Depois de adicionar um cartão de crédito, só é possível editar o apelido.
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Credit cards.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Credit cards.**
 2. Na página **Credit Cards**, na linha correspondente, clique no ícone de menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Edit`.
 3. No painel **Edit Credit Card**, atualize o apelido do cartão.
 4. Clique em `Save`.
@@ -144,7 +144,7 @@ Depois de adicionar um cartão de crédito, só é possível editar o apelido.
 
 > ❗ Excluir um cartão de crédito é permanente e não pode ser desfeito.
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Credit cards.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Credit cards.**
 2. Na página **Credit Cards**, na linha correspondente, clique no ícone de menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
 3. No modal de confirmação, clique em `Delete`.
 
@@ -154,7 +154,7 @@ A página **Product assortments** permite escolher qual sortimento de produtos o
 
 Um **product assortment** é o conjunto de produtos disponíveis aos compradores daquela unidade. Unidades diferentes podem usar sortimentos distintos quando as regras do negócio exigem catálogos ou seleções separados.
 
-1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Product assortment.**
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-organization-account), na seção **Contract**, clique em **Product assortment.**
 2. Na página **Product assortments**, selecione o sortimento desejado na lista clicando no botão de opção correspondente.
 
 A seleção é salva automaticamente.

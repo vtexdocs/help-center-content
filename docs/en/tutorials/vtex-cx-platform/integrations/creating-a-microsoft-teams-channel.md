@@ -22,8 +22,6 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 3. Search for **Azure Bot** in the search box.
 4. Select **Azure bot** in marketplace.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_1.png)
-
 5. Select **Create.**
 6. Enter the identifying name for the bot in the identification field.
 7. Select your signature from the list, by default it will already look like a created signature.
@@ -31,39 +29,23 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
    - If you want to create a resource group, select **Create New**, enter the resource name, select **OK**, and select the required location from the **New Resource Group Location** drop-down list.
 9. Select the **application type**, **multi-tenant** is recommended. After that, select **Review \+ Create.**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_2.png)
-
 10. Select **Create**, if validation is approved. It takes a few moments for your bot service to be provisioned.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_3.png)
-
-11. Select **Go to resource**. Now your application is created!
+11. Select **Go to resource**. Your application is now created.
 
 ### To create the client secret
 
 1. From Settings, select **Configuration**. Save the Microsoft application ID (client ID) for future reference.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_4.png)
-
 2. Select **Manage** next to **Microsoft App ID.**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_5.png)
 
 3. In the **Client Secrets** section, select **New Client Secret**. The **Add a Client Secret window appears.**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_6.png)
-
 4. Enter a **Description** and a period for the expiration of the secret, then select **Add.**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_7.png)
 
 5. Select **Copy to clipboard** in the **Value** column and save the **client secret ID** for future reference.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_8.png)
-
-6. You need to search for one more piece of data that you will need for the creation of the channel on the Weni Platform, to do this, go back to **Home** and select your bot. Go to Overview on the left menu, then select **JSON View.** A json will open with some information about your application, look for **tenant id** and save the value.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_9.png)
+6. You need to search for one more piece of data that you will need for the creation of the channel on the VTEX CX Platform, to do this, go back to **Home** and select your bot. Go to Overview on the left menu, then select **JSON View.** A json will open with some information about your application, look for **tenant id** and save the value.
 
 ### To add Microsoft Teams channel
 
@@ -77,15 +59,11 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 ### To add the Microsoft Teams channel to your bot
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_10.png)
-
 1. Select the check box to accept the terms of service and select **Agree.**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_11.png)
 
 2. Select **Save.**
 
-### Creating a channel on the Weni Platform
+### Creating a channel on the VTEX CX Platform
 
 1. After you login to the platform, choose your organization and project, go to **Settings.**
 2. Select Add **Channel.**
@@ -98,12 +76,8 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 9. In **Tenant id** enter the tenant id value you saved earlier.
 10. Now click **Submit.**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_12.png)
-
-11. Now your channel is created!
+11. Your channel is now created.
 12. On the channel page that you will be sent to right after you click **Submit**, you will have the ID of that channel, we will need that value. To get it you can copy the large ID that you will have at the end of the URL of this page. After the **read/** copy all this id made up of numbers, letters, and dashes. Save it.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_13.png)
 
 ### Set up endpoint in application
 
@@ -111,8 +85,6 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 2. At **Endpoint** add the url below, at **\[CHANNEL ID]** add the ID you saved in the previous step.
    - [_https://new.push.al/c/tm/_](https://new.push.al/c/tm/) _\[CHANNEL ID]/receive_
    - e.g.: [https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive](https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive)
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/creating-a-microsoft-teams-channel_14.png)
 
 ### Setup bot in Teams
 

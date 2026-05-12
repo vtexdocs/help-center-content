@@ -23,8 +23,6 @@ Cada passo do fluxo pertence a um dos dois grupos a seguir: [Cartas de ação](#
 
 Além desses dois grupos, também existem as [Cartas para notas](#cartas-para-notas-comentários). As cartas para notas não participam ativamente do fluxo e não desencadeiam ações, apenas servem para deixar comentários ou observações em seu fluxograma.
 
-![Flows1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-agentic-cx-platform/agent-builder/fluxo-de-automacao/introducao-a-fluxos_1.png)
-
 A imagem acima contém um fluxo para uma pesquisa simples. Nele, há **cartas de decisão** e **cartas de ação** que formam a estrutura para a seguinte conversa: manda uma mensagem -> o cliente seleciona dentre as opções -> o cliente é redirecionado a outro fluxo dependendo da resposta.
 
 ### Cartas de ação

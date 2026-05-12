@@ -19,15 +19,15 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 
 La funcionalidad se centra en un agente orquestador, que es el punto de contacto con el cliente y asume el control del chat. Este agente orquestador activa agentes colaboradores que devuelven datos e información según las necesidades del usuario.
 
-> ℹ️ Para saber más sobre agentes colaboradores, lee el artículo [Agentes oficiales de Weni by VTEX](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
+> ℹ️ Para saber más sobre agentes colaboradores, lee el artículo [Agentes oficiales de VTEX CX Platform](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
 
 Además de asignar y probar estos agentes, también puedes crear agentes propios que atiendan necesidades específicas de tu empresa.
 
-> ⚠️ Para crear agentes personalizados, utiliza la CLI de Weni by VTEX. Consulta la [documentación](https://weni-ai.github.io/weni-cli/getting-started/installation/) para crear tu propio agente.
+> ⚠️ Para crear agentes personalizados, utiliza la CLI de VTEX CX Platform. Consulta la [documentación](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) para crear tu propio agente.
 
 ## Agent Builder
 
-Para acceder a **Agent Builder**, selecciona la organización en la página de inicio de Weni by VTEX y el proyecto que deseas gestionar. En el menú lateral, haz clic en **Agent Builder**.
+Para acceder a **Agent Builder**, selecciona la organización en la página de inicio de VTEX CX Platform y el proyecto que deseas gestionar. En el menú lateral, haz clic en **Agent Builder**.
 
 En **Agent Builder** puedes acceder a las siguientes páginas:
 
@@ -49,8 +49,6 @@ La sección **Atendido por el agente** muestra el porcentaje de conversaciones a
 En el campo <i class="fas fa-search" aria-hidden="true"></i>`Buscar`, puedes buscar conversaciones y consultar los resultados.
 
 En la parte superior se encuentran las fechas de las interacciones. Puedes hacer clic en la fecha para cambiar el periodo de tiempo y filtrar los resultados que aparecen.
-
-![Imagem Supervisor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/informacion-general-de-agent-builder_1.png)
 
 ## Perfil
 
@@ -142,11 +140,7 @@ Debajo de **Vista previa de los agentes** hay dos botones de alternancia:
 
 - **Feedback progresivo de los agentes:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![ES GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/informacion-general-de-agent-builder_1.gif)
-
 - **Formato de mensaje múltiple:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si quieres que el agente envíe varios mensajes, como respuestas rápidas, listas, catálogo. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-![formato de mensaje múltiple](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/informacion-general-de-agent-builder_2.png)
 
 Debajo de **Soporte humano** hay un botón de alternancia:
 
@@ -158,7 +152,7 @@ En la caja de texto **¿Cuándo debe el agente transferir la conversación a una
 
 En esta sección puedes ver las credenciales utilizadas por los agentes oficiales y por los agentes personalizados.
 
-> ℹ️ Aprende más en [Agentes oficiales de Weni by VTEX y sus credenciales](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
+> ℹ️ Aprende más en [Agentes oficiales de VTEX CX Platform y sus credenciales](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
 
 ### Historial de cambios
 

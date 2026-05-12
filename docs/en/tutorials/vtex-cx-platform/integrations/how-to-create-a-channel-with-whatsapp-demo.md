@@ -15,17 +15,13 @@ locale: en
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Weni Platform allows you to test the WhatsApp bot quickly and efficiently through our Applications Module! To use this tool, simply follow these steps:
+VTEX CX Platform allows you to test the WhatsApp bot quickly and efficiently through our Applications Module! To use this tool, simply follow these steps:
 
 1. First, access the organization where the project you want to integrate is located.
 2. Find the project you want to integrate.
 3. On the left sidebar, click on **Applications**. The following screen will appear:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/how-to-create-a-channel-with-whatsapp-demo_1.png)
-
-1. Select the **WhatsApp Demo** option and add the channel to your project by clicking on the **\+** icon.
-2. Next, choose between scanning the QR Code, copying the link, or opening a tab to be redirected to Weni's WhatsApp demo channel. Send your token, and you're ready to start chatting!
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/how-to-create-a-channel-with-whatsapp-demo_2.png)
+4. Select the **WhatsApp Demo** option and add the channel to your project by clicking on the **\+** icon.
+5. Next, choose between scanning the QR Code, copying the link, or opening a tab to be redirected to VTEX CX Platform's WhatsApp demo channel. Send your token, and you are ready to start chatting.
 
 You can scan the QR Code or use the link to open WhatsApp Demo.

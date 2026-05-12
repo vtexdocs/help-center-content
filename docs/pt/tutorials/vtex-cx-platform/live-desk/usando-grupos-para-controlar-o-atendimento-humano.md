@@ -25,13 +25,13 @@ Neste artigo iremos nos referir ao grupo de controle como `Atendimento Humano`.
 
 Você deve adicionar o contato a este grupo no fluxo que você abre um ticket, conforme mostrado anteriormente.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/live-desk/usando-grupos-para-controlar-o-atendimento-humano_1.png) É importante mencionar que, caso você abra tickets em fluxos diferentes, **você precisa fazer isso em todos os fluxos**.
+É importante mencionar que, caso você abra tickets em fluxos diferentes, **você precisa fazer isso em todos os fluxos**.
 
 ## Ignorando participantes do grupo de controle em gatilhos
 
 Apenas adicionar a este grupo não é o suficiente, mas apenas a base que você precisa para saber quais contatos precisam ser ignorados nas mensagens automáticas enquanto estiverem em atendimento.
 
-Para isso, você deverá adicionar este grupo na lista de grupos ignorados **para cada um dos triggers configurados** no seu projeto, conforme exemplifica a imagem abaixo.
+Para isso, você deverá adicionar este grupo na lista de grupos ignorados **para cada um dos triggers configurados** no seu projeto.
 
 Com isso configurado, o chatbot não irá interromper o atendimento humano e a funcionalidade irá rodar como esperado.
 

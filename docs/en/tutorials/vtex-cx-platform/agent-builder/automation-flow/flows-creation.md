@@ -17,15 +17,9 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 The process of creating flows is quite simple and intuitive. There are some configuration options that need to be considered in certain situations, but it is nothing too complicated. Shall we begin?
 
-1. First, click on the ""Flows"" button in the side menu.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/flows-creation_1.png)
-
-1. Once you're on the flows page, simply click the ""Create Flow"" button on the left side of the screen.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/flows-creation_2.png)
-
-1. After that, a pop-up for creating a flow will appear on your screen. It consists of three fields that can be filled out:
+1. First, click on the "Flows" button in the side menu.
+2. Once you're on the flows page, simply click the "Create Flow" button on the left side of the screen.
+3. After that, a pop-up for creating a flow will appear on your screen. It consists of three fields that can be filled out:
 
 - **Name** : This is the name you want to give your flow. It is a required field, but it can be edited later.
 - **Global Trigger Keywords** : In this field, you can choose a global keyword that will act as a trigger for your flow. This field is optional, and you can create a trigger for your flow anytime by clicking on the trigger option in the top menu. For more details, visit the article on triggers.
@@ -37,6 +31,4 @@ Additionally, we have two other options: Phone Call and Survey.
 
 A flow that uses the Phone Call method is created for use in call channels. There are special action and decision cards for this type of flow, which you can learn about by visiting the article on call flows.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/flows-creation_3.png)
-
-Now that you are familiar with the settings, simply click **Create** and start building your new flow, properly configured for your desired purpose!
+Once you are familiar with the settings, click **Create** to start building your new flow, properly configured for your desired purpose.

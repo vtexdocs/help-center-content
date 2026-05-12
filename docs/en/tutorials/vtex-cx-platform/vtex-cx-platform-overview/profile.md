@@ -15,25 +15,19 @@ locale: en
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-As a community, Weni is built by its users and collaborators! Therefore, the Profile section allows you to manage your account and view all your intelligences.
+As a community, VTEX CX Platform is built by its users and collaborators! Therefore, the Profile section allows you to manage your account and view all your intelligences.
 
-Below, you will learn how to manage your account on Weni.
+Below, you will learn how to manage your account on VTEX CX Platform.
 
 ## Edit profile
 
 To access the Profile page, go to the home page and click the icon in the top right corner of the screen.
 
-![Profile menu icon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_1.png)
-
 By clicking the icon on the left, select **Profile**. In this section, you can edit your **first name**, **last name**, and **contact** information, as well as change your password if necessary. You can also upload a **profile picture**. Enter your changes and click **Save Changes**, and the information will be updated.
-
-![Profile edit form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_2.png)
 
 ## Tap password
 
-To change your Weni account password, follow the steps below:
-
-![Change password section](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_3.png)
+To change your VTEX CX Platform account password, follow the steps below:
 
 1. Go to the Profile page
 2. Click New password
@@ -41,12 +35,6 @@ To change your Weni account password, follow the steps below:
 
 ## Reset password
 
-You can also reset your password!
-
-Go to the home page > Forgot Password and enter your email.
-
-![Forgot password page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_4.png)
-
-![Reset email sent](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/vtex-cx-platform-overview/profile_5.png)
+You can also reset your password. Go to the home page > Forgot Password and enter your email.
 
 > Note: An email will be sent, and you will be able to change your password.

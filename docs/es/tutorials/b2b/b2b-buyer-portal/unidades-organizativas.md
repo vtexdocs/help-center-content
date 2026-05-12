@@ -100,7 +100,7 @@ El ámbito de actuación de un usuario miembro de una unidad organizativa en una
 - **Unidades organizativas**, que determinan el grupo al que pertenece el usuario.
 - **Roles del storefront**, que definen el papel del usuario en la organización reuniendo determinados permisos para realizar acciones en el storefront.
 
-Más información en [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+Más información en [Agregar usuarios a la organización compradora](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora).
 
 ## Experiencia de compra
 

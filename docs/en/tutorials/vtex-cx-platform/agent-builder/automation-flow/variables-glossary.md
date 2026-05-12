@@ -19,7 +19,7 @@ Variables are created to store values on the platform, allowing data to be saved
 
 To use a variable, you should type `@`, and the expression will be replaced by the actual value of the variable, provided it is properly created.
 
-Below, we will list how to reference all types of variables available on Weni Platform:
+Below, we will list how to reference all types of variables available on VTEX CX Platform:
 
 - Contacts and Contact Fields
 - Results and Flows
@@ -71,10 +71,6 @@ Global variables, or **globals** , are variables that can be accessed from any f
 
 To create a global, go to the general settings of your organization and scroll to the bottom of the page, where you will find the section for globals.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/variables-glossary_1.png)
-
 After that, click on **Create Global** , enter the name of the global along with its value.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/variables-glossary_2.png)
 
 Thus, it will become accessible in any flow using the variable `@globals.global_name`.

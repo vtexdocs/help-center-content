@@ -19,15 +19,9 @@ El proceso de creación de flujos es simple e intuitivo. Existen algunas opcione
 
 1. Primero, vamos a hacer click en el botón de **flows** en el Menú lateral.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/creacion-de-flujos_1.png)
-
 1. Llegando en la página de flujos, basta con clickear en el botón de **Create flow** , en la esquina izquierda de la pantalla.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/creacion-de-flujos_2.png)
-
 1. Después de eso, un pop-up para creación de flujo aparecerá en si pantalla. Esta esta formada por 4 campos que pueden ser llenados: **Nombre** , **Activadores de palabras clave globales** , **Idioma, Tipo de Flujo.**
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/agent-builder/flujo-de-automatizacion/creacion-de-flujos_3.png)
 
 **1 - Nombre** : es el nombre que queremos dar a nuestro flujo. Es un campo obligatorio, pero que puede ser editado después.
 
@@ -43,4 +37,4 @@ Un flujo que utiliza el método Phone Call es un flujo creado para ser utilizado
 Un flujo creado para ser descargado y ejecutado de forma offline en un dispositivo móvil, por la app Surveyor, tendrá sus respuestas sincronizadas después, de acuerdo con el acceso a internet. Para conocer más sobre el método Surveyor. visite el artículo sobre uso de la plataforma offline.
 
 **4 - Idioma:** El idioma de su proyecto
-Ahora que usted conoce las configuraciones, basta con clickear en ""Create"" y comenzar la creación de su nuevo flujo, debidamente configurado para la finalidad que desee."
+Ahora que usted conoce las configuraciones, basta con clickear en "Create" y comenzar la creación de su nuevo flujo, debidamente configurado para la finalidad que desee."

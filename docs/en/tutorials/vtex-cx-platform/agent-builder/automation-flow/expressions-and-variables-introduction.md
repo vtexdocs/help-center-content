@@ -19,8 +19,6 @@ The creation of a flow aims to fully connect a set of actions in order to achiev
 
 Variables are used to store the values and results of these steps, allowing data persistence. For example, the **Wait for Response** option below will generate a flow variable called name as the contact's response. Additionally, the variable will be used to save the data in the contact's Name field.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/automation-flow/expressions-and-variables-introduction_1.png)
-
 Variables start with the symbol `@`. However, you can also move on to more complex expressions using `@(`. These expressions are modeled within specific syntaxes and are intended to handle data in order to manipulate the variables saved by the platform.
 
 When using flow variables, it is also possible to specify subtopics you want. See the example below:
@@ -34,19 +32,19 @@ All variables and expressions show their actual value when the contact is active
 
 In addition to the `@results` expression, there are other commonly used expressions:
 **`@contact`**
-This expression is used to retrieve values saved in standard contact fields on the Weni Platform and is updated through the **Update Contact** card. Examples:
+This expression is used to retrieve values saved in standard contact fields on the VTEX CX Platform and is updated through the **Update Contact** card. Examples:
 `@contact.name`: Contact's name
 `@contact.first_name`: Contact's first name
 **`@fields`**
-This expression is used to retrieve values saved in non-standard contact fields on the Weni Platform, through the **Update Contact** card. Contact fields are often used to store general information about the contact, as these details can be retrieved in any flow using the **@fields** expression. Examples:
+This expression is used to retrieve values saved in non-standard contact fields on the VTEX CX Platform, through the **Update Contact** card. Contact fields are often used to store general information about the contact, as these details can be retrieved in any flow using the **@fields** expression. Examples:
 `@fields.age`: Contact's age
 `@fields.email`: Contact's email, if it is being saved in a contact field instead of URN
 **`@urns`**
-This expression is used to retrieve the identifier of the contact's main channel on the Weni Platform (if the project is not anonymous). Examples:
+This expression is used to retrieve the identifier of the contact's main channel on the VTEX CX Platform (if the project is not anonymous). Examples:
 `@urns.whatsapp`: WhatsApp number
 `@urns.mailto`: Contact's email
 **`@webhook`**
 This expression is used to retrieve values returned from the last webhook call made in the flow. Examples:
 `@webhook.results.cliente`: Client's name returned from the API, if it returns only one object.
 `@webhook.results.0.cliente`: Client's name returned from the API. If it returns an array, you need to specify the position of the array in the expression using **0, 1, 2** , and so on.
-To learn more about expressions, watch our [Ask Weni](https://comunidade.weni.ai/t/expressoes-e-variaveis/248) on this topic.
+To learn more about expressions, watch our [Ask VTEX CX Platform](https://comunidade.weni.ai/t/expressoes-e-variaveis/248) on this topic.

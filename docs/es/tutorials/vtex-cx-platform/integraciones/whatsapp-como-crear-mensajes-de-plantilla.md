@@ -21,7 +21,7 @@ Antes de enviarse a los clientes, los modelos de mensaje deben ser aprobados. Ad
 
 ## Creación
 
-Puedes usar la plataforma Weni para crear modelos de mensaje manualmente y enviarlos para su aprobación.
+Puedes usar la VTEX CX Platform para crear modelos de mensaje manualmente y enviarlos para su aprobación.
 
 Para crear un mensaje de plantilla:
 
@@ -30,20 +30,16 @@ Para crear un mensaje de plantilla:
 3. Haz clic en la pestaña **Plantilla** en el lado derecho.
 4. Se abrirá un panel donde deberás hacer clic en Nuevo modelo para agregar el mensaje:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-como-crear-mensajes-de-plantilla_1.png)
+5. Completa el formulario con la información necesaria. Usa el botón **+ Agregar variable** si deseas insertar espacios reservados para contenido variable que se proporcionará al enviar el modelo.
 
-1. Completa el formulario con la información necesaria. Usa el botón **\+ Agregar variable** si deseas insertar espacios reservados para contenido variable que se proporcionará al enviar el modelo.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/integraciones/whatsapp-como-crear-mensajes-de-plantilla_2.png)
-
-1. Haz clic en Agregar ejemplo para agregar ejemplos de valores al modelo. Esto es opcional, pero muy recomendable. Consulta los Ejemplos.
-2. Haz clic en Enviar para enviar el modelo para su aprobación.
+6. Haz clic en Agregar ejemplo para agregar ejemplos de valores al modelo. Esto es opcional, pero muy recomendable. Consulta los Ejemplos.
+7. Haz clic en Enviar para enviar el modelo para su aprobación.
 
 ## Proceso de aprobación (responsabilidad de la Meta)
 
 Después de crear el modelo, podrás enviarlo para su aprobación. Generalmente, las aprobaciones ocurren de forma instantánea o en unos pocos minutos (si se envían directamente desde la plataforma). Tan pronto como se tome la decisión, aparecerá una notificación en el Administrador de WhatsApp. Además, se enviará un correo electrónico a los administradores del Administrador de Negocios. Si te has suscrito a las actualizaciones sobre cambios en el estado del modelo de mensaje, también recibirás una notificación de webhook de Meta. Consulta [Cómo monitorear cambios de estado.](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#monitoring-status-changes)
 
-Si se aprueba, el modelo de mensaje tendrá el estado **Activo \- Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing).
+Si se aprueba, el modelo de mensaje tendrá el estado **Activo - Calidad pendiente**. Con esto, podrás comenzar a enviarlo a los clientes. Si es rechazado, el modelo se podrá [editar](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing) y reenviar para su aprobación. Otra posibilidad es [apelar la decisión](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#editing).
 
 ## Ejemplos
 

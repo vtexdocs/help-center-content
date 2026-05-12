@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp: How to create template messages'
+title: "WhatsApp: How to create template messages"
 id: 3KQizjNnrDY2K3DhPwiPim
 status: PUBLISHED
 createdAt: 2025-09-15T15:05:31.154Z
@@ -21,7 +21,7 @@ Before being sent to customers, message templates need to be approved. Also, the
 
 ## Creation
 
-You can use the Weni platform to manually create message templates and submit them for approval.
+You can use the VTEX CX Platform to manually create message templates and submit them for approval.
 
 To create a message template:
 
@@ -30,14 +30,10 @@ To create a message template:
 3. Click on the **Template** tab on the right side.
 4. A panel will open where you will click New Template to add the message:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-how-to-create-template-messages_1.png)
+5. Fill in the form with the necessary information. Use the \+ **Add Variable button** if you want to enter placeholders for the variable content to be provided on template submission.
 
-1. Fill in the form with the necessary information. Use the \+ **Add Variable button** if you want to enter placeholders for the variable content to be provided on template submission.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/integrations/whatsapp-how-to-create-template-messages_2.png)
-
-1. Click Add Example to add example values ​​to the template. Doing this is optional, but highly recommended. See [Examples](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#samples) .
-2. Click **Submit** to submit the template for approval.
+6. Click Add Example to add example values ​​to the template. Doing this is optional, but highly recommended. See [Examples](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#samples) .
+7. Click **Submit** to submit the template for approval.
 
 ## Approval process (Meta responsibility)
 

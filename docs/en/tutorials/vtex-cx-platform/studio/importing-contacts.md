@@ -15,15 +15,11 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-When a person interacts through any of the channels connected to the Weni Platform, they automatically become a contact. However, in many cases, we already have information about future contacts who will interact through the channels, so how can we import these contacts into the platform?
+When a person interacts through any of the channels connected to the VTEX CX Platform, they automatically become a contact. However, in many cases, we already have information about future contacts who will interact through the channels, so how can we import these contacts into the platform?
 
 It's a simple process. First, access the **Studio** and go to the **Contacts** tab, where you will find the **Import Contacts** button on the left-hand side.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/importing-contacts_1.PNG)
-
 After that, you will be directed to the import page, where you can select an Excel spreadsheet in .XLS format and import the contacts listed in the spreadsheet into the platform. However, for this to work, the spreadsheet headers must be correctly named, meaning the column names should follow the required format. At the bottom of the page, we provide a template that you can use as a reference.
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/studio/importing-contacts_2.png)
 
 The rules for naming columns are:
 

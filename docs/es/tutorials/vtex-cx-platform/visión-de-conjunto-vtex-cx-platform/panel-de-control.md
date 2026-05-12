@@ -17,16 +17,14 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 Después de haber iniciado sesión correctamente en su organización y proyecto, tendrá acceso a esta pantalla:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/visión-de-conjunto-vtex-cx-platform/panel-de-control_1.png)
-
 Vamos a una breve explicación de cada menú:
 
-1. **Home:** Pantalla principal que muestra los datos de la plataforma. Insights: Módulo que permite explorar paneles de análisis de datos dentro de la plataforma Weni.
-2. **Insights:** Módulo que permite explorar paneles de análisis de datos dentro de la plataforma Weni.
-3. **Weni Brain:** Recurso avanzado que potencia la capacidad de los agentes inteligentes.
-4. **Weni IA:** Añade más capas de inteligencia a tu proyecto.
-5. **Weni Flujos (_flows_):** Aquí es donde ocurre la magia; en esta pestaña podrás crear y modificar flujos de conversación (siguiendo la lógica de interacción entre el chatbot y el usuario).
-6. **Weni Estudio (_Studio_):** Aquí encontrarás, gestionarás, importarás y exportarás todos los mensajes e información de los usuarios que hayan interactuado con tu chatbot. También podrás crear campañas y desencadenantes para ser enviados.
-7. **Weni Chats:** Explora todos los recursos disponibles en el módulo de atención humana.
-8. **Weni Aplicativos:** Consulta nuestros canales de integración y servicios externos disponibles, y agréguelos a tu proyecto.
+1. **Home:** Pantalla principal que muestra los datos de la plataforma. Insights: Módulo que permite explorar paneles de análisis de datos dentro de la VTEX CX Platform.
+2. **Insights:** Módulo que permite explorar paneles de análisis de datos dentro de la VTEX CX Platform.
+3. **VTEX CX Platform Brain:** Recurso avanzado que potencia la capacidad de los agentes inteligentes.
+4. **VTEX CX Platform IA:** Añade más capas de inteligencia a tu proyecto.
+5. **VTEX CX Platform Flujos (_flows_):** Aquí es donde ocurre la magia; en esta pestaña podrás crear y modificar flujos de conversación (siguiendo la lógica de interacción entre el chatbot y el usuario).
+6. **VTEX CX Platform Estudio (_Studio_):** Aquí encontrarás, gestionarás, importarás y exportarás todos los mensajes e información de los usuarios que hayan interactuado con tu chatbot. También podrás crear campañas y desencadenantes para ser enviados.
+7. **Live Desk:** Explora todos los recursos disponibles en el módulo de atención humana.
+8. **VTEX CX Platform Aplicativos:** Consulta nuestros canales de integración y servicios externos disponibles, y agréguelos a tu proyecto.
 9. **Configuraciones:** Modifica los datos de registro y pago, agrega canales y consulta tu token de API.

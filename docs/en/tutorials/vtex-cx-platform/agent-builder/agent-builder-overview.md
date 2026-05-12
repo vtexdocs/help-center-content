@@ -1,5 +1,5 @@
 ---
-title: 'Agent Builder - Overview'
+title: "Agent Builder - Overview"
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
@@ -20,20 +20,20 @@ order: 1
 
 The feature focuses on an orchestrator agent, which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
 
-> ℹ️ Learn more about collaborating agents in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
+> ℹ️ Learn more about collaborating agents in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
 
-> ⚠️ To create custom agents, use the Weni by VTEX CLI. See the [documentation](https://weni-ai.github.io/weni-cli/getting-started/installation/) for instructions.
+> ⚠️ To create custom agents, use the VTEX CX Platform (Weni) CLI. See the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) for instructions.
 
 ## Agent Builder
 
-To access **Agent Builder**, select the organization on the Weni by VTEX homepage and then the project you want to manage. In the side menu, click **Agent Builder**.
+To access **Agent Builder**, select the organization on the VTEX CX Platform homepage and then the project you want to manage. In the side menu, click **Agent Builder**.
 
 You can access the following pages in **Agent Builder:**
 
 - [**Supervisor**](#supervisor)
-- [**Profile**](#profile) 
+- [**Profile**](#profile)
 - [**Agents**](#agents)
 - [**Knowledge**](#knowledge)
 - [**Adjustments**](#adjustments)
@@ -51,8 +51,6 @@ In the <i class="fas fa-search" aria-hidden="true"></i>`Search` field, you can s
 
 At the top of the page, you'll find interaction dates. You can click a date to change the time range and filter the results.
 
-![Imagem Supervisor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/agent-builder-overview_1.png)
-
 ## Profile
 
 This page contains customizable fields to define your orchestrator agent's identity and behavior.
@@ -66,22 +64,22 @@ To customize your agent, use the following fields:
 
 Read the detailed description of each tone of voice below:
 
-| Agent tone of voice | Description |
-| :-------------: | :------------- |
-| Friendly | Engages warmly and welcomingly, making the customer feel comfortable while creating a connection based on empathy and understanding. |
-| Cooperative | Works alongside the customer to find solutions. Prioritizes teamwork and is focused on ensuring the customer's needs are met with minimal effort. |
-| Outgoing | Has a lively and expressive personality, communicates openly and enthusiastically. Always motivated and positive during interactions, making conversations dynamic and engaging. |
-| Generous | Offers additional information and resources that may be useful, even before being asked.   |
-| Relaxed | Stays laid-back and calm in challenging situations. Maintains pleasant conversations and gives the customer enough time to process information and make decisions. |
-| Organized | Presents all information clearly and accessibly. It's methodical and efficient, and guides the customer through each step in a logical way so that no detail is overlooked.  |
-| Systematic | Has a clear and well-structured method, following defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and support.   |
-| Innovative | Proposes new solutions and presents creative, effective ideas when faced with problems or challenges.  |
-| Creative | Uses imagination to communicate. Capable of providing unique responses and adapting language to make content more relevant and engaging for the customer.  |
-| Intellectual | Provides detailed and informed responses. Provides an in-depth explanation based on facts and logic to meet the needs of customers seeking clarity and understanding.  |
+| Agent tone of voice | Description                                                                                                                                                                          |
+| :-----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      Friendly       | Engages warmly and welcomingly, making the customer feel comfortable while creating a connection based on empathy and understanding.                                                 |
+|     Cooperative     | Works alongside the customer to find solutions. Prioritizes teamwork and is focused on ensuring the customer's needs are met with minimal effort.                                    |
+|      Outgoing       | Has a lively and expressive personality, communicates openly and enthusiastically. Always motivated and positive during interactions, making conversations dynamic and engaging.     |
+|      Generous       | Offers additional information and resources that may be useful, even before being asked.                                                                                             |
+|       Relaxed       | Stays laid-back and calm in challenging situations. Maintains pleasant conversations and gives the customer enough time to process information and make decisions.                   |
+|      Organized      | Presents all information clearly and accessibly. It's methodical and efficient, and guides the customer through each step in a logical way so that no detail is overlooked.          |
+|     Systematic      | Has a clear and well-structured method, following defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and support. |
+|     Innovative      | Proposes new solutions and presents creative, effective ideas when faced with problems or challenges.                                                                                |
+|      Creative       | Uses imagination to communicate. Capable of providing unique responses and adapting language to make content more relevant and engaging for the customer.                            |
+|    Intellectual     | Provides detailed and informed responses. Provides an in-depth explanation based on facts and logic to meet the needs of customers seeking clarity and understanding.                |
 
 In the **General instructions** section, you can add direct instructions for your agent, defining how it should behave.
 
-If you added an instruction and want to delete it, click the <i class="far fa-trash-alt" aria-hidden="true"></i> trash button next to the instruction. A message will be displayed asking if you want to remove the instruction. Click `Remove` to delete it or `Cancel` to keep it. 
+If you added an instruction and want to delete it, click the <i class="far fa-trash-alt" aria-hidden="true"></i> trash button next to the instruction. A message will be displayed asking if you want to remove the instruction. Click `Remove` to delete it or `Cancel` to keep it.
 
 > ℹ️ There's no limit to the number of instructions.
 
@@ -105,7 +103,7 @@ To add a file to the database, click <i class="fas fa-plus" aria-hidden="true"><
 
 By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the file's name, you can:
 
-- View details (such as the date the file was added and its content). 
+- View details (such as the date the file was added and its content).
 - Download the file.
 - Remove the file.
 
@@ -121,7 +119,7 @@ To add a website to the agent's database, follow these instructions:
 
 By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the website, you can:
 
-- View details (such as the date the website was added and its content). 
+- View details (such as the date the website was added and its content).
 - Go to the website.
 - Remove the website.
 
@@ -141,13 +139,9 @@ On this page, you can change your agents' settings.
 
 Below **Agent preview,** there are two toggles:
 
-- **Agent progressive feedback:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
-
-![EN GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/agent-builder-overview_1.gif)
+- **Agent progressive feedback:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
 - **Multiple message format:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, like quick replies, lists, and catalogs. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-![Multiple message format](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/agent-builder/agent-builder-overview_2.png)
 
 Below **Human support,** there's a toggle switch:
 
@@ -159,7 +153,7 @@ In the **When should the agent transfer the conversation to a human?** text box,
 
 In this section, you can view the credentials used by official and custom agents.
 
-> ℹ️ Learn more about this topic in the article [Official Weni by VTEX agents](/en/docs/tutorials/official-agents-from-vtex-agentic-cx-platform).
+> ℹ️ Learn more about this topic in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 ### Change history
 
