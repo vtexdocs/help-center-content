@@ -3,7 +3,7 @@ title: 'CMS para Store Framework'
 id: 4yB9wSl79cArd68aRBnBZ2
 status: PUBLISHED
 createdAt: 2022-01-10T17:28:27.583Z
-updatedAt: 2026-03-30T18:59:35.462Z
+updatedAt: 2026-05-12T18:06:04.532Z
 publishedAt: 2024-11-18T18:06:20.182Z
 firstPublishedAt: 2022-01-10T20:13:28.409Z
 contentType: trackArticle
