@@ -1,5 +1,5 @@
 ---
-title: 'Product Recommendations (Beta)'
+title: 'Product Recommendations (beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2025-06-27T20:37:59.368Z
@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact-us).
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [Commercial Support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the [contact form](https://vtex.com/en-us/contact-us).
 
 The Product Recommendations feature allows your store to provide custom experiences to buyers by recommending items based on multiple strategies. In addition, you can display relevant or complementary products, boost conversion rates, and increase the average ticket of your business.
 
-![buy-together](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/product-recommendations-beta_1.png)
+![produtos-similares-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/recomendacoes-de-produtos-beta_1.png)
 
 ## Prerequisites
 
@@ -29,21 +29,30 @@ To activate product recommendations, you must have a store implemented using [St
 
 Below are the available recommendation strategies developed by the VTEX team:
 
-| Name                      | Description                                                                                     |
-| ------------------------- | ----------------------------------------------------------------------------------------------- |
-| Most popular              | Products with the highest number of views                                                       |
-| Recommended for you       | Custom recommendations based on user profile and behavior                                       |
-| Similar products          | Products similar to a specific one                                                              |
-| Cross-sell                | Complementary products for a specific one that are commonly purchased together. |
-| Best sellers              | The store's best-selling products                                                               |
-| Last seen                 | Products recently viewed by the user                                                            |
-| Recent interactions       | Products most likely to engage the user in the future                                           |
-| Visually similar products | Products visually similar to a specific one                                                     |
-| Manual collection         | Recommendations from a collection created manually                                              |
+| Name                                                          | Description                                                                                     | Requirements and how it works                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Most popular                                                  | Products with the highest number of views                                                       | -                                                                                                                                                                                                                                                                                                                                                                                |
+| Recommended for you                                           | Custom recommendations based on user profile and behavior                                       | Minimum of 1,000 purchases with more than 1 item in the cart. The algorithm analyzes customer purchase patterns.                                                                                                                                                                                                                                 |
+| Similar products                                              | Products similar to a specific one                                                              | Similarity is determined mainly by being in the same catalog category. If that isn't enough, the system may also consider product specifications. Quality depends on how well your catalog is organized. If you want to customize the similarity rules, contact [VTEX Support](/en/docs/tracks/suporte-na-vtex). |
+| Frequently bought together (cross-selling) | Complementary products for a specific one that are commonly purchased together. | Minimum of 1,000 purchases with more than 1 item in the cart. Identifies complementary products based on how often they are purchased together.                                                                                                                                                                                                  |
+| Best sellers                                                  | The store's best-selling products                                                               | -                                                                                                                                                                                                                                                                                                                                                                                |
+| Recently viewed                                               | Products recently viewed by the user                                                            | -                                                                                                                                                                                                                                                                                                                                                                                |
+| Recent interactions                                           | Products most likely to engage the user in the future                                           | -                                                                                                                                                                                                                                                                                                                                                                                |
+| Visually similar products                                     | Products visually similar to a specific one                                                     | Uses image recognition technology to identify visually similar products by analyzing features such as color, shape, and patterns.                                                                                                                                                                                                                                |
+| Manual collection                                             | Recommendations from a manually created collection                                              | -                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Implementation
 
-To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/en/docs/tracks/commercial-support), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
+To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/pt/docs/tracks/suporte-comercial) and specify which strategies you want to activate. The VTEX team will review the request and get in contact with you.
 
-Learn more about the Store Framework implementation in the component documentation [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+### Store Framework
 
+For stores implemented with Store Framework, use the [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) component to display recommended product shelves across different store pages.
+
+### FastStore
+
+For stores implemented with FastStore, see the documentation [Implementing product recommendations in FastStore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore) to integrate the product recommendations APIs in your store.
+
+### Headless
+
+For headless implementations, use the VTEX Product Recommendations APIs to consume recommendation strategies and display products in your custom application. See the documentation [Integrating product recommendations in headless stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores) for more information on integrating the APIs.
