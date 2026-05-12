@@ -17962,8 +17962,8 @@
                 },
                 {
                   "name": {
-                    "en": "Product Recommendations (Beta)",
-                    "es": "Recomendaciones de productos (Beta)",
+                    "en": "Product Recommendations (beta)",
+                    "es": "Recomendaciones de productos (beta)",
                     "pt": "Recomendações de produtos (Beta)"
                   },
                   "slug": {
@@ -40463,6 +40463,21 @@
             },
             {
               "name": {
+                "en": "Catalog specification value 0 is omitted from product specification payload",
+                "es": "El valor 0 de la especificación del catálogo se omite en la carga útil de la especificación del producto",
+                "pt": "O valor 0 da especificação do catálogo é omitido da carga útil da especificação do produto"
+              },
+              "slug": {
+                "en": "catalog-specification-value-0-is-omitted-from-product-specification-payload",
+                "es": "el-valor-0-de-la-especificacion-del-catalogo-se-omite-en-la-carga-util-de-la-especificacion-del-producto",
+                "pt": "o-valor-0-da-especificacao-do-catalogo-e-omitido-da-carga-util-da-especificacao-do-produto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog translations not reflecting on the frontend",
                 "es": "Las traducciones del catálogo no se muestran en la interfaz de usuario",
                 "pt": "As traduções do catálogo não aparecem na interface do usuário"
@@ -51542,6 +51557,21 @@
             },
             {
               "name": {
+                "en": "Autocomplete history searches with the \"/\" character are breaking the search result page",
+                "es": "Las búsquedas en el historial de autocompletado con el carácter «/» están provocando errores en la página de resultados de búsqueda",
+                "pt": "As pesquisas no histórico de autocompletar com o caractere \"/\" estão prejudicando a página de resultados da pesquisa"
+              },
+              "slug": {
+                "en": "autocomplete-history-searches-with-the-character-are-breaking-the-search-result-page",
+                "es": "las-busquedas-en-el-historial-de-autocompletado-con-el-caracter-estan-provocando-errores-en-la-pagina-de-resultados-de-busqueda",
+                "pt": "as-pesquisas-no-historico-de-autocompletar-com-o-caractere-estao-prejudicando-a-pagina-de-resultados-da-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Autocomplete not answering to cold starts",
                 "es": "La función de autocompletado no responde al iniciar el sistema en frío",
                 "pt": "A função de preenchimento automático não responde ao inicializar o sistema"
@@ -59720,6 +59750,21 @@
                 "en": "error-when-processing-the-second-refund-of-the-same-value-as-the-first-gift-card-has-been-already-refunded",
                 "es": "error-al-procesar-el-segundo-reembolso-del-mismo-valor-que-el-primero-la-tarjeta-regalo-ya-ha-sido-reembolsada",
                 "pt": "erro-ao-processar-o-segundo-reembolso-do-mesmo-valor-que-o-primeiro-o-cartaopresente-ja-foi-reembolsado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error when processing the second refund or cancellation with the same value as the first",
+                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+              },
+              "slug": {
+                "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
+                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
               },
               "origin": "",
               "type": "markdown",
