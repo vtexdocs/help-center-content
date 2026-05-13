@@ -39,4 +39,4 @@ Las restricciones que se pueden imponer a las **unidades organizativas** están 
 
 Para ver y gestionar el scope de una unidad organizativa, el rol de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) del usuario debe tener los recursos `View_Organization_Unit` y `Edit_Organization_Unit`.
 
-> ℹ️ Para más información, consulta el artículo [Miembros de la organización compradora](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+> ℹ️ Para más información, consulta el artículo [Agregar usuarios a la organización compradora](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora).

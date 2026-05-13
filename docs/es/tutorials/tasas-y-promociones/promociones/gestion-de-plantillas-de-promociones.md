@@ -2,7 +2,7 @@
 title: "Gestión de plantillas de promociones"
 status: PUBLISHED
 createdAt: 2026-01-27T22:08:26.447Z
-updatedAt: 2026-01-27T13:50:03.053Z
+updatedAt: 2026-05-04T13:50:03.053Z
 publishedAt: 2026-01-27T13:50:03.053Z
 firstPublishedAt: 2026-01-27T23:03:15.195Z
 contentType: tutorial
@@ -16,8 +16,6 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 Las **plantillas de promociones** permiten que guardes configuraciones recurrentes para reutilizarlas en la creación de nuevas promociones. Este enfoque reduce el tiempo de configuración y garantiza la consistencia entre promociones con reglas similares.
 
 Una plantilla funciona como un modelo base y, al aplicarla, el formulario de creación de la promoción se llena automáticamente con la configuración previamente guardada.
-
-> ℹ️ El lanzamiento se realizará por fases a partir de febrero. La disponibilidad puede variar entre cuentas VTEX durante ese periodo.
 
 ## Crear plantilla desde cero
 

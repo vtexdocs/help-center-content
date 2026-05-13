@@ -61,7 +61,7 @@ Once you have made the changes, you have the following actions to choose:
 
 ### Restore past versions
 
-Versions saved to the `main` branch can be viewed and restored to publish content from the past. In the Version history drawer, hovering over a previously published version reveals a **View version** action. 
+Versions saved to the `main` branch can be viewed and restored to publish content from the past. In the Version history drawer, hovering over a previously published version reveals a **View version** action.
 
 ![restore-past-versions](https://vtexhelp.vtexassets.com/assets/docs/src/restore-past-versions-en___12b2c9da44f44ec4be48915f224ab2d1.png)
 
@@ -108,7 +108,7 @@ The **Branches** page includes the ability to `Merge` the current branch to the 
 
 * `Merge now` takes the changes contained within the branch and merges them into the `main` branch. This action immediately publishes the changes to the storefront.
 
-* `Scheduled merge` lets you plan the merging of a branch into the main branch for a future date and time. The CMS will automatically execute the merge once the scheduled date and time arrive.
+* `Schedule merge` lets you plan the merging of a branch into the main branch for a future date and time. The CMS will automatically execute the merge once the scheduled date and time arrive.
 
 ![publish-and-schedule-changes](https://vtexhelp.vtexassets.com/assets/docs/src/merge-schedule-en___e53bf6bf1a633faf9c9bfcc4bf2a07d1.gif)
 

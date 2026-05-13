@@ -2,7 +2,7 @@
 title: "Gerenciamento de templates de promoção"
 status: PUBLISHED
 createdAt: 2026-01-27T22:08:26.447Z
-updatedAt: 2026-01-27T13:50:03.053Z
+updatedAt: 2026-05-04T13:50:03.053Z
 publishedAt: 2026-01-27T13:50:03.053Z
 firstPublishedAt: 2026-01-27T23:03:15.195Z
 contentType: tutorial
@@ -15,8 +15,6 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 Os **templates de promoção** permitem ao lojista salvar configurações recorrentes para reutilização na criação de novas promoções. Essa abordagem reduz o tempo de configuração e garante consistência entre promoções com regras semelhantes.
 
 Um template funciona como um modelo base e, ao aplicá-lo, o formulário de criação da promoção é automaticamente preenchido com as configurações previamente salvas.
-
-> ℹ️ O lançamento ocorrerá em fases, a partir de fevereiro. A disponibilidade poderá variar entre as contas VTEX durante esse período.
 
 ## Criar template vazio
 

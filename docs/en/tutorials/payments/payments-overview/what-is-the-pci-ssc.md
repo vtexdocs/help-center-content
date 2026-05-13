@@ -21,4 +21,4 @@ It was founded by American Express, Discover Financial Services, JCB Internatio
 
 PCI SSC is a certification given by that institution, through which VTEX guarantees the safety of its services. It brings security information that we make available for the stores and your customers. 
 
-For more information, see the [VTEX PCI SSC certification category](https://vtex.com/us-en/compliance/certifications/).
+For more information, see the [VTEX PCI SSC certification](https://compliance.vtex.com/).
