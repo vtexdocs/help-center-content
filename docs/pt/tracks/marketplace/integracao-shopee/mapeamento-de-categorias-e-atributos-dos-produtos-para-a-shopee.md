@@ -12,7 +12,7 @@ slugEN: mapping-product-categories-and-attributes-to-shopee
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
-order: 5
+order: 7
 ---
 
 Feitas as configurações iniciais da integração, é possível enviar os produtos para o catálogo da Shopee. Para habilitar o processo de catalogação dos produtos na Shopee, permitindo que eles fiquem disponíveis para venda em menos tempo, o seller precisará realizar o mapeamento entre as características dos produtos na sua loja VTEX e as características dos mesmos produtos na Shopee.  
@@ -25,22 +25,22 @@ Para enviar os seus produtos para a Shopee, você deve mapear as [categorias](/p
 
 Para acessar a página de mapeamento, você deverá acessar no Admin VTEX em **Aplicativos > Shopee > Mapear Categorias.**
 
-Você será direcionado a página de mapeamento da Shopee e a página apresentará uma lista com as categorias da sua loja VTEX. O mapeamento das categorias permite que exista uma correspondência entre as categorias da sua loja e as categorias da Shopee. Dessa forma, os produtos enviados serão exibidos na categoria equivalente no marketplace.  
+Você será direcionado à página de mapeamento da Shopee e a página apresentará uma lista com as categorias da sua loja VTEX. O mapeamento das categorias permite que exista uma correspondência entre as categorias da sua loja e as categorias da Shopee. Dessa forma, os produtos enviados serão exibidos na categoria equivalente no marketplace.  
 
-Na página de mapeamento, existe uma barra de busca que permite buscar a categoria por nome. Além disso, a seção **Categorias da loja** exibe lista das categorias da sua loja VTEX.  
+Na página de mapeamento, existe uma barra de busca que permite buscar a categoria por nome. Além disso, a seção **Categorias da loja** exibe a lista das categorias da sua loja VTEX.  
 
 > ℹ️ A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.  
 
 A lista de categorias da sua loja VTEX inclui o status de seu mapeamento por meio dos ícones:  
 
 | **Ícone** | **Status** | **Descrição** |
-| ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_1.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_2.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
-| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_3.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
-| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_4.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |  
+| --- | --- | --- |
+| <span role="img" aria-label="Círculo verde com check branco" style="display:inline-flex;width:1.5rem;height:1.5rem;border-radius:50%;background:#16a34a;color:#fff;align-items:center;justify-content:center;font-size:0.875rem;line-height:1;font-weight:700;">✓</span> | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
+| <span role="img" aria-label="Círculo amarelo com exclamação cinza" style="display:inline-flex;width:1.5rem;height:1.5rem;border-radius:50%;background:#facc15;color:#6b7280;align-items:center;justify-content:center;font-size:0.875rem;line-height:1;font-weight:700;">!</span> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
+| <span role="img" aria-label="Círculo vermelho com exclamação branca" style="display:inline-flex;width:1.5rem;height:1.5rem;border-radius:50%;background:#dc2626;color:#fff;align-items:center;justify-content:center;font-size:0.875rem;line-height:1;font-weight:700;">!</span> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
+| <span role="img" aria-label="Círculo cinza com x cinza escuro" style="display:inline-flex;width:1.5rem;height:1.5rem;border-radius:50%;background:#d1d5db;color:#4b5563;align-items:center;justify-content:center;font-size:0.875rem;line-height:1;font-weight:700;">×</span> | **Não mapeado** | Indica que a categoria não foi mapeada. |  
 
-Ainda na página de mapeamento, existem as seções, **Categoria do marketplace** e **[Mapeamento de atributos](#mapear-atributos)**, ambos com uma opção de menu de seleção, onde ao clicar sobre a seta, aparecem novos campos e informações.
+Ainda na página de mapeamento, existem as seções **Categoria do marketplace** e **[Mapeamento de atributos](#mapear-atributos)**, ambas com uma opção de menu de seleção, onde, ao clicar sobre a seta, aparecem novos campos e informações.
 
 ## Mapear atributos
 

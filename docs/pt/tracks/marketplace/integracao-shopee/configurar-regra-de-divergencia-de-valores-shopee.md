@@ -12,7 +12,7 @@ slugEN: configuring-price-divergence-rule-shopee
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
-order: 3
+order: 5
 ---
 
 Na integração com marketplaces como a Shopee, por vezes há uma variação entre o preço definido pelo seller e aquele oferecido pelo marketplace, resultando em pedidos fechados com valores diferentes do esperado. Isso pode ocasionar pedidos com erro de divergência de preço.
@@ -23,6 +23,6 @@ A Regra de divergência de valores é composta de uma ou mais regras de autoriza
 
 > ℹ️ Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você atue como seller. Podem ser marketplaces VTEX, marketplaces externos, conectores certificados (parceiros) ou outros conectores nativos além da Shopee.
 
-É recomendável que a configuração da regra de Divergência de valores seja feita antes de você seguir para a próxima etapa da configuração da integração com a Amazon.  
+É recomendável que a configuração da regra de Divergência de valores seja feita antes de você seguir para a próxima etapa da configuração da integração com a Shopee.  
 Descumprir esta recomendação não impede que a integração seja concluída, mas pedidos com divergência de preço ficarão retidos até a criação da Regra de divergência de valores. É possível acompanhá-los no Admin VTEX, em **Marketplace > Conexões > Pedidos.**
 
