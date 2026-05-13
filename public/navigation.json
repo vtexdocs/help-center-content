@@ -11081,9 +11081,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Store Framework CMS",
-                    "es": "2. Store Framework CMS",
-                    "pt": "2. Store Framework CMS"
+                    "en": "2. CMS for Store Framework",
+                    "es": "2. CMS para Store Framework",
+                    "pt": "2. CMS para Store Framework"
                   },
                   "slug": {
                     "en": "cms-vtex-io",
