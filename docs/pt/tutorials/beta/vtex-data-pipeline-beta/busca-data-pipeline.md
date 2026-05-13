@@ -28,6 +28,8 @@ Nesta seção você encontra as seguintes informações:
 - [Tabela: impression](#tabela-impression)
 - [Tabela: impression_click](#tabela-impression-click)
 - [Tabela: impression_order_group](#tabela-impression-order-group)
+- [Tabela: session_query](#tabela-session-query)
+- [Tabela: session_query_click](#tabela-session-query-click)
 - [Tabela: request_white_label_seller](#tabela-request-white-label-seller)
 - [Tabela: request_merchandising_rule](#tabela-request-merchandising-rule)
 - [Tabela: request_field_query](#tabela-request-field-query)
@@ -180,8 +182,8 @@ Os campos da tabela são descritos abaixo:
 | trade_policy | string | Política comercial da sessão. Identifica a política comercial ou canal de vendas específico utilizado para esta busca. |
 | delivery_promises_enabled | boolean | Indica se a funcionalidade de promessas de entrega está habilitada na conta. |
 | delivery_promises_active | boolean | Indica se a funcionalidade de promessas de entrega está ativa nesta busca. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Tabela: response
@@ -195,14 +197,17 @@ Os campos da tabela são descritos abaixo:
 | search_id | string | UUID da busca. Identificador único que vincula esta resposta à requisição de busca correspondente. |
 | account_name | string | Nome da conta em que a busca foi realizada. Identifica a qual loja a busca pertence. |
 | event_time | timestamp | Timestamp do evento de busca. Representa quando a requisição de busca foi recebida e processada pela API de busca. |
+| query | string | String de consulta de texto completo inserida pelo comprador. Representa o termo ou a frase de busca utilizados; pode estar vazio para buscas que utilizam apenas consultas por campo ou filtros. Duplicada da tabela `request`. |
+| default_locale | string | Locale padrão do tenant (ex.: 'en-US', 'pt-BR'). Representa o idioma e a região principais configurados na loja. Duplicada da tabela `request`. |
+| locale | string | Locale solicitado pelo comprador nesta busca. Pode diferir do `default_locale` se o usuário escolher outro idioma. Duplicada da tabela `request`. |
 | redirect | string | URL de redirecionamento, se aplicável. Esse campo é preenchido quando uma busca ativa uma regra de redirecionamento (por exemplo, para páginas específicas de marca). Caso contrário, retorna null. |
 | latency | int | Latência da resposta em milissegundos. Mede o tempo necessário para processar e retornar os resultados da busca. |
 | misspelled | boolean | Indica se há uma palavra com erro ortográfico na consulta. |
 | match | int | Quantidade de produtos correspondentes. Representa o total de itens que correspondem à busca e aos filtros aplicados. |
 | operator | string | Operador da consulta após fallback. Indica o operador utilizado após a aplicação de fallback ou correções na busca. |
 | fuzzy | string | Nível de tolerância da consulta após fallback. Representa o valor final de tolerância usado depois de qualquer processamento da consulta ou da lógica de fallback. |
-| record_created_at | timestamp | Data e hora em que este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Data e hora da última atualização deste registro no Lake House. |
+| record_created_at | timestamp | Data e hora em que este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Data e hora da última atualização deste registro no lakehouse. |
 | batch_id | timestamp | Identificador gerado no momento em que os dados são carregados na tabela. É usado para controle de qualidade da ingestão e também como chave de partição. |
 
 ## Tabela: response_product
@@ -223,8 +228,8 @@ Os campos da tabela são descritos abaixo:
 | available | boolean | Indica se o produto está disponível. Mostra se o produto está atualmente em estoque e disponível para compra. |
 | score | bigint | Pontuação de relevância. A pontuação numérica atribuída pelo motor de busca indicando quão relevante este produto é para a consulta. Pontuações mais altas indicam melhor relevância. |
 | cosine_similarity_match | boolean | Indica se o produto correspondeu com base em similaridade cosseno na busca híbrida. Mostra se o produto foi correspondido por similaridade semântica (busca vetorial) quando a busca híbrida está habilitada. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Tabela: click
@@ -253,11 +258,12 @@ Os campos da tabela são descritos abaixo:
 | page_y | float | Coordenada Y do clique na página. Posição vertical onde o usuário clicou, medida em pixels. |
 | element | string | Elemento HTML que foi clicado. Identifica o tipo de elemento que recebeu o evento de clique (ex.: 'button', 'link', 'div'). |
 | element_source | string | Identifica a origem do evento no frontend. No contexto de busca, pode ser 'search-result' ou 'search-autocomplete'. |
+| storefront | string | Ambiente VTEX usado para renderizar a página: 'portal', 'store_framework' ou 'fast_store'. |
 | product_id | string | ID do produto do item clicado. Quando a separação de SKUs por especificação está habilitada, este valor pode não ser único pois representa o ID do produto base sem detalhes de especificação. |
 | product_specification | string | Especificação do produto do item clicado. O valor da especificação quando a separação de SKUs por especificação está habilitada. |
 | product_position | int | Posição do produto clicado. A posição do produto nos resultados da busca quando foi clicado (começa em 1). |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Tabela: impression
@@ -285,8 +291,9 @@ Os campos da tabela são descritos abaixo:
 | impression_type | string | Tipo de impressão. Categoriza o tipo de impressão de resultado de busca (ex.: 'search', 'autocomplete', 'recommendation'). |
 | element | string | Elemento HTML que foi exibido. Identifica o tipo de elemento que gerou o evento de impressão (ex.: 'product-card', 'search-result'). |
 | element_source | string | Identifica a origem do evento no frontend. No contexto de busca, pode ser 'search-result' ou 'search-autocomplete'. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| storefront | string | Ambiente VTEX usado para renderizar a página: 'portal', 'store_framework' ou 'fast_store'. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Tabela: impression_click
@@ -300,8 +307,8 @@ Os campos da tabela são descritos abaixo:
 | account_name | string | Conta VTEX da loja. Identifica a qual loja o relacionamento impressão-clique pertence. |
 | impression_id | string | Identificador único para o evento de impressão. Vincula à tabela impression para identificar qual impressão de resultado de busca levou a um clique. |
 | click_id | string | Identificador único para o evento de clique. Vincula à tabela click para identificar qual clique foi gerado a partir desta impressão. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Tabela: impression_order_group
@@ -315,8 +322,66 @@ Os campos da tabela são descritos abaixo:
 | impression_id | string | Identificador único para o evento de impressão. Vincula à tabela impression para identificar qual impressão de resultado de busca levou a um pedido. |
 | account_name | string | Conta VTEX da loja. Identifica a qual loja o relacionamento impressão-pedido pertence. Grupos de pedidos são únicos por account_name, não globalmente. |
 | order_group | string | Identificador do grupo de pedidos. Vincula a impressão a uma transação de pedido específica (que também pode ser encontrada no Modelo de Dados de Pedidos), permitindo análise abrangente da jornada do cliente desde a impressão da busca até a compra. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| order_placement_time | timestamp | Timestamp em que a visualização da página de pedido foi finalizado. Reflete o horário de ingestão no servidor, não o relógio do dispositivo do comprador. |
+| impression_time | timestamp | Timestamp em que o evento de impressão foi ingerido pelo pipeline (`event_time` na tabela `impression`). Reflete o horário de ingestão no servidor. |
+| impression_element_source | string | Identifica a origem do evento de impressão no frontend. Coluna duplicada da tabela `impression` para reduzir joins pesados. |
+| session_id | string | Identificador de sessão do Activity Flow da impressão atribuída, copiado da tabela `impression`. Permite joins com a sessão no Activity Flow sem retornar à tabela `impression`. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
+| batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
+
+## Tabela: session_query
+
+Tabela na camada de busca com consultas deduplicadas por sessão, pensada como insumo para a métrica Unique Searches. Cada linha representa a primeira vez em que uma combinação distinta de texto da `query` e origem do `element_source` aparece na sessão do comprador usando o horário da impressão no lado do cliente para ordenar. A chave lógica é `(session_id, query, element_source)`: se a mesma consulta e a mesma origem voltarem a ocorrer na mesma sessão em um lote posterior de dados, não é inserida outra linha.
+
+Os campos da tabela são descritos abaixo:
+
+| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
+|:---:|:---:|:---:|
+| session_id | string | Identificador único da sessão no Activity Flow. Indica a sessão de navegação em que a consulta apareceu pela primeira vez. |
+| query | string | Texto da consulta conforme retornado na resposta da busca. Junto com `session_id` e `element_source`, identifica de forma única uma linha nesta tabela. |
+| account_name | string | Conta VTEX da loja em que a busca ocorreu, a partir da resposta da busca. |
+| impression_id | string | Identificador único do evento de impressão da primeira ocorrência retida, a partir da tabela `impression`. |
+| search_id | string | UUID da busca que produziu a impressão e a resposta elegíveis. Chave para relacionar com as tabelas `impression`, `response` e demais tabelas de busca. |
+| access_type | string | Tipo de acesso à página na impressão elegível, conforme o registro de impressão. |
+| element_source | string | Origem do evento no frontend na impressão elegível, conforme o registro de impressão. |
+| storefront | string | Contexto da vitrine na impressão elegível, conforme o registro de impressão (alinhado à coluna `storefront` em `impression`). |
+| device_type | string | Tipo de dispositivo inferido a partir da sessão do comprador no Activity Flow, alinhado à sessão da impressão. |
+| traffic_type | string | Classificação de tráfego ao nível da sessão no Activity Flow, alinhada à sessão da impressão. |
+| locale | string | Idioma/região da busca: usa `locale` da `response` quando preenchido; caso contrário, `default_locale`. Valores vazios são armazenados como null. |
+| misspelled | boolean | Indica se o Intelligent Search tratou a consulta como tendo erro ortográfico, conforme a resposta da busca. |
+| has_match | boolean | Indica se a resposta associada reportou ao menos uma correspondência de `match`. |
+| operator | string | Operador de busca aplicado à consulta na resposta. Apenas respostas com operador `and` ou `or` entram nesta tabela. |
+| impression_time | timestamp | Timestamp do `event_time` na linha de impressão retida para a primeira ocorrência dessa combinação de `session_id`, `query` e `element_source`. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
+| batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
+
+## Tabela: session_query_click
+
+Esta tabela sustenta a métrica `Unique Clicks`, ela conta quantas instâncias distintas de busca definidas pela combinação de `session_id`, `query` e `element_source`, resultaram em ao menos um clique em produto. Só é registrada a primeira ocorrência de clique para cada uma dessas combinações dentro da sessão. Cliques adicionais na mesma busca não geram novas linhas.
+
+Os campos da tabela são descritos abaixo:
+
+| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
+|:---:|:---:|:---:|
+| session_id | string | Identificador único da sessão no Activity Flow. Indica a sessão em que a consulta apareceu pela primeira vez em contexto de clique. |
+| query | string | Texto da consulta conforme retornado na resposta da busca. Junto com `session_id` e `element_source`, identifica de forma única uma linha e emparelha com o mesmo grão da tabela `session_query` para métricas como CTR. |
+| account_name | string | Conta VTEX da loja em que a busca ocorreu, a partir da resposta da busca. |
+| click_id | string | Identificador único do evento de clique da primeira ocorrência retida, a partir da tabela `click`. |
+| search_id | string | UUID da busca que produziu o clique e a resposta elegíveis. Chave para relacionar com as tabelas `click`, `response` e demais tabelas de busca. |
+| access_type | string | Tipo de acesso à página no clique elegível, conforme o registro de clique. |
+| element_source | string | Origem do evento no frontend no clique elegível. |
+| storefront | string | Contexto da vitrine no clique elegível, conforme o registro de clique alinhado à coluna `storefront` em `click`. |
+| device_type | string | Tipo de dispositivo inferido a partir da sessão do comprador no Activity Flow, alinhado à sessão do clique. |
+| traffic_type | string | Classificação de tráfego ao nível da sessão no Activity Flow, alinhada à sessão do clique. |
+| locale | string | Idioma ou região da busca: usa `locale` da `response` quando preenchido; caso contrário, `default_locale`. Valores vazios são armazenados como null. |
+| misspelled | boolean | Indica se o Intelligent Search tratou a consulta como tendo erro ortográfico, conforme a resposta da busca. |
+| has_match | boolean | Indica se a resposta associada reportou ao menos uma correspondência de busca, o `match` é maior que zero. |
+| operator | string | Operador de busca aplicado à consulta na resposta. Apenas respostas com operador `and` ou `or` entram nesta tabela. |
+| click_time | timestamp | Timestamp do `event_time` na linha de clique retida para a primeira ocorrência dessa combinação de `session_id`, `query` e `element_source` em contexto de clique. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Tabelas de detalhes da requisição
@@ -336,8 +401,8 @@ Os campos da tabela são descritos abaixo:
 | search_id | string | UUID da busca. Identificador único vinculando este vendedor à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | seller_id | string | Identificador do vendedor. O ID do vendedor que estava ativo na sessão durante a busca. Utilizado para análise de regionalização. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_merchandising_rule
@@ -351,8 +416,8 @@ Os campos da tabela são descritos abaixo:
 | search_id | string | UUID da busca. Identificador único vinculando esta regra de merchandising à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | merchandising_rule_id | string | ID da regra de merchandising. Identificador único da regra de merchandising que foi aplicada a esta busca. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_field_query
@@ -367,8 +432,8 @@ Os campos da tabela são descritos abaixo:
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | field | string | Campo do produto utilizado na consulta. O nome do campo que foi consultado, como 'product', 'sku' ou outros campos de identificação de produto. |
 | query | string | Valor da consulta do produto. O valor específico do identificador que foi pesquisado (ex.: '123' para 'sku:123'). |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_text_filter
@@ -383,8 +448,8 @@ Os campos da tabela são descritos abaixo:
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | key | string | Chave do atributo. O nome do atributo do produto que foi filtrado (ex.: 'brand', 'category', 'color'). |
 | value | string | Valor do atributo. O valor específico que foi selecionado para o filtro (ex.: 'apple' para marca, 'electronics' para categoria). |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_number_filter
@@ -400,8 +465,8 @@ Os campos da tabela são descritos abaixo:
 | key | string | Chave do atributo. O nome do atributo numérico do produto que foi filtrado (ex.: 'price', 'rating', 'weight'). |
 | from | string | O limite inferior do filtro de intervalo. |
 | to | string | O limite superior do filtro de intervalo. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_relevance_rule
@@ -418,8 +483,8 @@ Os campos da tabela são descritos abaixo:
 | composition_weight | int | Peso do boost quando é uma composição de critérios. O peso atribuído a esta regra de relevância quando múltiplos critérios são combinados. Pesos mais altos indicam maior influência no ranking final. |
 | priority_index | int | Índice do boost quando é um critério de prioridade. A ordem de prioridade desta regra de relevância quando múltiplos critérios de prioridade são aplicados. Índices menores indicam maior prioridade. |
 | priority | boolean | Indica se é um critério de prioridade. Mostra se esta regra de relevância é tratada como um critério de prioridade, que tem precedência sobre outros fatores de ranking. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_hybrid_search
@@ -438,8 +503,8 @@ Os campos da tabela são descritos abaixo:
 | similarity | float | Limiar mínimo de similaridade. A pontuação mínima de similaridade cosseno necessária para que um produto seja considerado uma correspondência na busca semântica. |
 | products | int | Número de produtos a retornar da busca semântica. |
 | candidates | int | Número de produtos a retornar de cada shard. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_setting
@@ -460,8 +525,8 @@ Os campos da tabela são descritos abaixo:
 | priority_boosts_enabled | boolean | Indica se os boosts de prioridade estão habilitados. Mostra se as funcionalidades de boost de prioridade estão ativas para esta busca. |
 | secondary_boosts_enabled | boolean | Indica se os boosts secundários estão habilitados. Mostra se as funcionalidades de boost secundário estão ativas para esta busca. |
 | diacritics_boost_enabled | boolean | Indica se o boost de diacríticos está habilitado. Mostra se o boost de diacríticos (acentos) está ativo para esta busca. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_dp_shipping
@@ -475,8 +540,8 @@ Os campos da tabela são descritos abaixo:
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de envio à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | shipping | string | Filtro de envio selecionado. O método de envio ou opção que foi selecionado como filtro (ex.: 'pickup-in-point', 'delivery'). |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_dp_dynamic_estimate
@@ -490,8 +555,8 @@ Os campos da tabela são descritos abaixo:
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de estimativa dinâmica à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | dynamic_estimate | string | Filtro de estimativa dinâmica selecionado. A estimativa de tempo de entrega que foi selecionada como filtro (ex.: 'same-day', 'next-day'). |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ### Tabela: request_dp_delivery_options
@@ -505,8 +570,8 @@ Os campos da tabela são descritos abaixo:
 | search_id | string | UUID da busca. Identificador único vinculando este filtro de opção de entrega à requisição de busca correspondente. |
 | account_name | string | Nome da conta onde a busca foi realizada. Identifica a qual loja a busca pertence. |
 | delivery_options | string | Hash do objeto JSON descrevendo o filtro de opção de entrega selecionado. Atualmente, não temos os valores reais das opções de entrega que foram selecionadas. |
-| record_created_at | timestamp | Timestamp de quando este registro foi criado no Lake House. |
-| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no Lake House. |
+| record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
+| record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |
 
 ## Análises com dados de busca
