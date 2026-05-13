@@ -28,7 +28,7 @@ Para construir y configurar el sitio web de tu tienda Store Framework mediante e
 
 ## Site Editor
 
-El **[Site Editor](https://help.vtex.com/es/docs/tutorials/site-editor-vista-general)** es una interfaz gráfica para la gestión de contenidos del storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
+El **[Site Editor](https://help.vtex.com/es/docs/tutorials/site-editor-vision-general)** es una interfaz gráfica para la gestión de contenidos del storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
 
 En el Admin VTEX, Site Editor cuenta con una interfaz intuitiva que muestra los bloques definidos en el [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), permitiendo que cualquier persona pueda modificar el contenido y el layout de la tienda sin necesidad de editar el código.
 
