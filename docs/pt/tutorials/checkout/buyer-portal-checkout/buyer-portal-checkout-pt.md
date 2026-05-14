@@ -39,7 +39,7 @@ Além desses recursos, a VTEX oferece funcionalidades para otimizar a experiênc
 
 ### Budgets
 
-A funcionalidade de [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) permite que o comprador veja quais são os orçamentos associados ao seu pedido antes do fechamento da compra. Isso permite que ele tenha visibilidade sobre seus fundos contábeis e evite de consumir além do valor determinado pela organização.
+A funcionalidade de [Budgets](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#budgets) permite que o comprador veja quais são os orçamentos associados ao seu pedido antes do fechamento da compra. Isso permite que ele tenha visibilidade sobre seus fundos contábeis e evite consumir além do valor determinado pela organização.
 
 ![Cobrança da conta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-pt_3.png)
 
