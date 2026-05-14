@@ -14567,9 +14567,39 @@
                 },
                 {
                   "name": {
-                    "en": "3. Configuring Price Divergence rule",
-                    "es": "3. Configuración de regla de Divergencia de precios",
-                    "pt": "3. Configurar Regra de divergência de valores"
+                    "en": "3. Shipping strategy: Shopee seller logistics",
+                    "es": "3. Estrategia de envío: logística del vendedor Shopee",
+                    "pt": "3. Estratégia de envio: logística do vendedor Shopee"
+                  },
+                  "slug": {
+                    "en": "seller-logistics-shopee",
+                    "es": "logistica-del-vendedor-shopee",
+                    "pt": "logistica-do-vendedor-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Shipping strategy: Shopee full logistics",
+                    "es": "4. Estrategia de envío: Shopee full logistics",
+                    "pt": "4. Estratégia de envio: Shopee full logistics"
+                  },
+                  "slug": {
+                    "en": "shopee-full-logistics",
+                    "es": "shopee-full-logistics",
+                    "pt": "shopee-full-logistics"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Configuring Price Divergence rule",
+                    "es": "5. Configuración de regla de Divergencia de precios",
+                    "pt": "5. Configurar Regra de divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule-shopee",
@@ -14582,9 +14612,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Install and configure Shopee connector",
-                    "es": "4. Instalar y configurar el conector Shopee",
-                    "pt": "4. Instalar e Configurar conector Shopee"
+                    "en": "6. Install and configure Shopee connector",
+                    "es": "6. Instalar y configurar el conector Shopee",
+                    "pt": "6. Instalar e Configurar conector Shopee"
                   },
                   "slug": {
                     "en": "install-and-configure-shopee-connector",
@@ -14597,60 +14627,14 @@
                 },
                 {
                   "name": {
-                    "en": "5. Mapping product categories and attributes to Shopee",
-                    "es": "5. Mapear categorías y atributos de los productos para Shopee",
-                    "pt": "5. Mapeamento de categorias e atributos dos produtos para a Shopee"
+                    "en": "7. Mapping product categories and attributes to Shopee",
+                    "es": "7. Mapear categorías y atributos de los productos para Shopee",
+                    "pt": "7. Mapeamento de categorias e atributos dos produtos para a Shopee"
                   },
                   "slug": {
                     "en": "mapping-product-categories-and-attributes-to-shopee",
                     "es": "mapear-categorias-y-atributos-de-los-productos-para-shopee",
                     "pt": "mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Integração com a Shopee",
-                "es": "Integração com a Shopee",
-                "pt": "Integração com a Shopee"
-              },
-              "slug": {
-                "en": "integracao-com-a-shopee",
-                "es": "integracao-com-a-shopee",
-                "pt": "integracao-com-a-shopee"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "1. Estratégia de envio: logística do vendedor Shopee",
-                    "en": "1. Estratégia de envio: logística do vendedor Shopee",
-                    "es": "1. Estratégia de envio: logística do vendedor Shopee"
-                  },
-                  "slug": {
-                    "pt": "logistica-do-vendedor-shopee",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "pt": "2. Estratégia de envio: Shopee full logistics",
-                    "en": "2. Estratégia de envio: Shopee full logistics",
-                    "es": "2. Estratégia de envio: Shopee full logistics"
-                  },
-                  "slug": {
-                    "pt": "shopee-full-logistics",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
