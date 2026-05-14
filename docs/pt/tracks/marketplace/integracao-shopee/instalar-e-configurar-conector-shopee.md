@@ -12,7 +12,7 @@ slugEN: install-and-configure-shopee-connector
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
-order: 6
+order: 4
 ---
 
 Para instalar o conector da Shopee, siga os passos abaixo:
@@ -40,28 +40,43 @@ Vermelho: Quando a autenticação não foi realizada ou autorizada na Shopee.
 
 Preencha os campos que aparecerão na tela. Veja na tabela a seguir quais são os campos e como preenchê-los.
 
-| **Campo** | **Descrição** |
-| --- | --- |
-| Integração Logística do Vendedor do Shopee | Caso você queira utilizar o sistema de logística próprio, é necessário [autenticar essa integração](/pt/tracks/integracao-shopee--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w#cadastrando-logistica-do-vendedor-na-shopee) com a Shopee por meio de login. |
-| ID de afiliado | Código identificador para criação de um afiliado que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: SHP. |
-| Canal de vendas a ser sincronizado | ID da política comercial que definirá o sortimento de catálogo e os valores dos itens que serão enviados para a Shopee. |
-| Email de notificação | Preencha com um email do responsável pela integração. Este é o contato que receberá notificações sobre a integração da sua loja VTEX com a Shopee. O e-mail precisa ser o mesmo cadastrado na sua conta Shopee. |
-| Estoque mínimo | Determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização da Shopee pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial. |
-| Unidade de peso usada no catálogo | Selecione a unidade de peso que seus produtos estão cadastrados no catálogo VTEX. |
-| Idioma do mapeador de categorias | Escolha qual o idioma será utilizado no mapeamento de categorias. |
-| Tipo da etiqueta de envio | Selecione qual o tipo de arquivo da etiqueta de envio você quer receber. |
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-it04"><span style="font-weight:bold">Cam</span>p<span style="font-weight:bold">o</span></th>
+    <th class="tg-it04"><span style="font-weight:bold">Descrição</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-n6bu">Integração Logística do Vendedor do Shopee<br></td>
+    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário [autenticar essa integração](/pt/tracks/--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w?__bindingAddress=vtexhelp.myvtex.com/#cadastrando-logistica-do-vendedor-na-shopee) com a Shopee por meio de login.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">ID de afiliado</td>
+    <td class="tg-2fdn">Código identificador para criação de um afiliado que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: SHP.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">Canla de vendas a ser sincronizado</td>
+    <td class="tg-2fdn">ID da política comercial que definirá o sortimento de catálogo e os valores dos itens que serão enviados para a Shopee.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">Email de notificação</td>
+    <td class="tg-2fdn">Preencha com um email do responsável pela integração. Este é o contato que receberá notificações sobre a integração da sua loja VTEX com a Shopee. O e-mail precisa ser o mesmo cadastrado na sua conta Shopee.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">Estoque mínimo</td>
+    <td class="tg-2fdn">Determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização da Amazon pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">Unidade de peso usada no catálogo</td>
+    <td class="tg-2fdn">Selecione a unidade de peso que seus produtos estão cadastrados no catálogo VTEX.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">Idioma do mapeador de categorias</td>
+    <td class="tg-2fdn">Escolha qual o idioma será utilizado no mapeamento de categorias.</td>
+  </tr>
+  <tr>
+    <td class="tg-n6bu">Tipo da etiqueta de envio</td>
+    <td class="tg-2fdn">Selecione qual o tipo de arquivo da etiqueta de envio você quer receber.</td>
+  </tr>
+</tbody></table>
 
-## Prazo da autorização e reautenticação
-
-Ao concluir o fluxo de configuração na Shopee, o marketplace solicita que você defina por quanto tempo vale aquela autorização. As opções são exibidas na tela de configuração da Shopee no momento do login.
-Assim que o prazo selecionado nessa configuração expirar, é **necessário reautenticar a integração**.
-
-Quando faltar sete dias para expirar a autorização, o aplicativo da Shopee no Admin VTEX, exibirá um botão de reautenticação. Para realizar o processo, siga os passos abaixo:
-
-Com o app **3.x**, o processo de reautenticação funciona assim:
-
-1. Clique no botão `Reautenticar`.
-2. Faça login na tela da Shopee que aparecerá.
-3. Retorne à página do aplicativo no Admin VTEX.
-
-> O aviso com contagem de dias e botão de reautenticação está disponível somente no aplicativo Shopee na versão 3.x. Atualize seu aplicativo na[VTEX App Store](https://apps.vtex.com/).

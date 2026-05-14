@@ -15,7 +15,7 @@ trackSlugEN: integracao-shopee
 order: 2
 ---
 
-Realizadas as configurações na Shopee, você deve começar as configurações no admin VTEX. 
+Realizado as configurações na Shopee, você deve começar as configurações no admin VTEX. 
 
 ## Definir Política comercial para a Shopee
 
@@ -38,17 +38,37 @@ Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao
 
 ## Definir Estratégia de envio para a Shopee
 
-Na integração com a Shopee, a forma de entrega pode seguir a modalidade [FOB](/pt/docs/tutorials/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega) (Free on Board), a **Logística do vendedor** ou o modelo **Shopee full logistics**. Veja a seguir como é o funcionamento de cada uma.
+Na integração com a Shopee, o envio dos produtos é de responsabilidade do próprio marketplace. Todos os pedidos provenientes da Shopee seguem a modalidade [FOB](/pt/docs/tutorials/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega) (Free on Board), ou via logística do vendedor.  
+
+Veja a seguir como é o funcionamento de cada um.
 
 - **FOB (Free on Board):** Nessa modalidade o marketplace é responsável pela entrega e toda cotação de frete é feita do lado da Shopee.
 
-Para definir a estratégia de envio como FOB(Free on board), você precisa executar os seguintes passos:
+- **[Logística do vendedor](https://seller.br.shopee.cn/edu/article/25782/Configuracao-da-logistica-do-vendedor):** Nessa modalidade o seller utiliza sua própria logística para cotação e envio de pedidos que contenham produtos maiores do que o atendido pelas entregas da Shopee.
+
+Para definir a estratégia de envio, você precisa executar os seguintes passos:
 
 1. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à Política Comercial usada na integração.  
 2. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.  
 3. Associar a Política Comercial à Doca.  
 
-- **[Logística do vendedor](https://seller.br.shopee.cn/edu/article/25782/Configuracao-da-logistica-do-vendedor):** Nessa modalidade o seller utiliza sua própria logística para cotação e envio de pedidos que contenham produtos maiores do que o atendido pelas entregas da Shopee. Para cadastrar este tipo de logística acese a documentação [Estratégia de envio: Logística do vendedor Shopee](/pt/tracks/marketplace/integracao-shopee/logistica-do-vendedor-shopee)
+Se a estratégia escolhida é **FOB,** o seller concluiu essa etapa. Caso a estratégia escolhida é **Logística do vendedor,** o seller precisa [cadastrar sua logística](#cadastrando-logistica-do-vendedor-na-shopee) na Shopee.
 
-- **Shopee full logistics:** Nessa modalidade a Shopee **armazena, embala e envia** os produtos a partir de seus centros de distribuição do programa. Para utilizar este tipo de logística acese a documentação [Estratégia de envio: Shopee full logistics](/pt/tracks/marketplace/integracao-shopee/shopee-full-logistics).
+### Cadastrando Logística do vendedor na Shopee
+
+Para utilizar o sistema de **Logística do vendedor,** o seller precisa executar os seguintes passos:
+
+**Etapa na Shopee**
+
+1. Preencha o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSeuTu387lsBtah_tEqoz_L49egBabrZGhcSUddsw_Hip-KTeQ/viewform) de autorização da Shopee.  
+2. Após autorizado pela Shopee, preencha a **Tabela contigência.**
+3. Ative o **Modelo logístico.**
+
+**Etapa na VTEX**
+
+Com a configuração na Shopee devidamente realizada, siga os passos seguintes:
+
+1. Vá em **Admin VTEX > Apps > Shopee** 
+2. Clique no botão `Conectar Logística do vendedor Shopee`.
+3. Clique no botão `Autorizar logística na VTEX`.
 
