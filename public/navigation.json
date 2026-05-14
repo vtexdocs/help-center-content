@@ -14569,12 +14569,12 @@
                   "name": {
                     "en": "3. Shipping strategy: Shopee seller logistics",
                     "es": "3. Estrategia de envío: logística del vendedor Shopee",
-                    "pt": "3. Estratégia de envio: logística do vendedor Shopee"
+                    "pt": "3. Shipping strategy: Shopee seller logistics"
                   },
                   "slug": {
                     "en": "seller-logistics-shopee",
                     "es": "logistica-del-vendedor-shopee",
-                    "pt": "logistica-do-vendedor-shopee"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14582,29 +14582,29 @@
                 },
                 {
                   "name": {
-                    "en": "4. Shipping strategy: Shopee full logistics",
-                    "es": "4. Estrategia de envío: Shopee full logistics",
-                    "pt": "4. Estratégia de envio: Shopee full logistics"
-                  },
-                  "slug": {
-                    "en": "shopee-full-logistics",
-                    "es": "shopee-full-logistics",
-                    "pt": "shopee-full-logistics"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Configuring Price Divergence rule",
-                    "es": "5. Configuración de regla de Divergencia de precios",
-                    "pt": "5. Configurar Regra de divergência de valores"
+                    "en": "4. Configuring Price Divergence rule",
+                    "es": "4. Configuración de regla de Divergencia de precios",
+                    "pt": "4. Configurar Regra de divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule-shopee",
                     "es": "configuracion-de-regla-de-divergencia-de-precios-shopee",
                     "pt": "configurar-regra-de-divergencia-de-valores-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Shipping strategy: Shopee full logistics",
+                    "es": "5. Estrategia de envío: Shopee full logistics",
+                    "pt": "5. Shipping strategy: Shopee full logistics"
+                  },
+                  "slug": {
+                    "en": "shopee-full-logistics",
+                    "es": "shopee-full-logistics",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
