@@ -64,6 +64,8 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | Order Cancellation | Cancellation of an order. | Order ID. |
 | Start Handling  | Action that signals to VTEX that the store has started handling a given order. This triggers the continuation of the flow of this order.  | Order ID.  |
 | Notify Payment | Payment notification for a given order. | Order ID. |
+| GetUnmaskedPersonalInformation | Reading of unmasked personal information from an order. | Order ID. |
+| UpdatePersonalInformation | Update of personal information in an order. | Order ID. |
 
 ## Order Authorization
 
