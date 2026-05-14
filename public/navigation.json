@@ -56226,6 +56226,21 @@
             },
             {
               "name": {
+                "en": "Search filter not working outside the first page in received SKU section",
+                "es": "El filtro de búsqueda no funciona más allá de la primera página en la sección de SKU recibidos",
+                "pt": "O filtro de pesquisa não funciona fora da primeira página na seção de SKUs recebidos"
+              },
+              "slug": {
+                "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
+                "es": "el-filtro-de-busqueda-no-funciona-mas-alla-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+                "pt": "o-filtro-de-pesquisa-nao-funciona-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller group creation does not add selected sellers",
                 "es": "La creación de un grupo de vendedores no añade a los vendedores seleccionados",
                 "pt": "A criação de um grupo de vendedores não adiciona os vendedores selecionados"
