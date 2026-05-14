@@ -14569,12 +14569,12 @@
                   "name": {
                     "en": "3. Shipping strategy: Shopee seller logistics",
                     "es": "3. Estrategia de envío: logística del vendedor Shopee",
-                    "pt": "3. Shipping strategy: Shopee seller logistics"
+                    "pt": "3. Estratégia de envio: logística do vendedor Shopee"
                   },
                   "slug": {
                     "en": "seller-logistics-shopee",
                     "es": "logistica-del-vendedor-shopee",
-                    "pt": ""
+                    "pt": "logistica-do-vendedor-shopee"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14599,12 +14599,12 @@
                   "name": {
                     "en": "5. Shipping strategy: Shopee full logistics",
                     "es": "5. Estrategia de envío: Shopee full logistics",
-                    "pt": "5. Shipping strategy: Shopee full logistics"
+                    "pt": "5. Estratégia de envio: Shopee full logistics"
                   },
                   "slug": {
                     "en": "shopee-full-logistics",
                     "es": "shopee-full-logistics",
-                    "pt": ""
+                    "pt": "shopee-full-logistics"
                   },
                   "origin": "",
                   "type": "markdown",
