@@ -9,7 +9,7 @@ firstPublishedAt: 2026-05-25T08:00:00.000Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: search-data-pipeline
+slugEN: search-and-recomendations-data-pipeline
 legacySlug: search-data-pipeline
 locale: en
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
@@ -28,6 +28,8 @@ This section includes the following information:
 - [Table: impression](#table-impression)
 - [Table: impression_click](#table-impression-click)
 - [Table: impression_order_group](#table-impression-order-group)
+- [Table: session_query](#table-session-query)
+- [Table: session_query_click](#table-session-query-click)
 - [Table: request_white_label_seller](#table-request-white-label-seller)
 - [Table: request_merchandising_rule](#table-request-merchandising-rule)
 - [Table: request_field_query](#table-request-field-query)
@@ -160,8 +162,6 @@ flowchart TD
 
 Stores core information about buyer search queries, including the search text, filters, sorting, pagination, and search configuration. Each row represents a single search request event. Not all search requests made on the frontend are recorded in this table, as some requests are served from the cache and are not logged.
 
-> 'Bloom filters' are enabled on the following columns: <code>search_id</code>, <code>account_name</code>, <code>query</code>. <br>'Bloom filters' help ignore data files that don't contain matching values, significantly improving query performance for equality predicates on these columns.
-
 The table fields are described below:
 
 | **Column name**  | **Column type** | **Column description** |
@@ -197,6 +197,9 @@ The table fields are described below:
 |  search_id  | string     |  Search UUID. Unique identifier linking this response to the corresponding search request.   |
 | account_name |  string  | Name of the account where the search was completed. Identifies the store associated with the search.  |
 | event_time |    timestamp    | Search event timestamp. Indicates when the search request was received and processed by the search API. |
+| query | string | Full-text query string entered by the shopper. The search term or phrase used; may be empty for searches using field queries or filters only. Duplicated from the `request` table. |
+| default_locale | string | Default locale of the tenant (example: 'en-US', 'pt-BR'). The store's primary language and region setting. Duplicated from the `request` table. |
+| locale | string | Locale requested by the shopper for this search. May differ from `default_locale` if the user selects another language. Duplicated from the `request` table. |
 | redirect  |string  | Redirect URL, if applicable. This field is completed when a search triggers a redirect rule (for example, to specific brand pages). Otherwise, it returns null. |
 |  latency | int | Search response latency in milliseconds. Measures the time taken to process and return the search results. |
 |  misspelled| boolean|  Indicates if there is a misspelled word in the query. |
@@ -255,6 +258,7 @@ The table fields are described below:
 |  page_y   | float |     Y coordinate of the click on the page. Vertical position where the user clicked in pixels.    |
 |element| string|  HTML element that was clicked. Identifies the type of element that received the click event (example: 'button', 'link', 'div').  |
 | element_source  |  string     |      Identifies the origin of the event on the frontend. In the search context, this can be 'search-result' or 'search-autocomplete'.     |
+| storefront | string | VTEX environment used to render the page: 'portal', 'store_framework', or 'fast_store'. |
 |  product_id  |  string  | Product ID of the clicked item. When SKU separation by specification is enabled, this value may not be unique because it represents the base product ID without specification details.  |
 | product_specification  |  string |Product specification of the clicked item. The value of the specification when SKU separation by specification is enabled.        |
 |  product_position   |int |  Position of the clicked product. The position of the product in the search results when it was clicked (starts at 1). |
@@ -287,6 +291,7 @@ The table fields are described below:
 | impression_type  |  string |Impression type. Categorizes the type of search result impression (example: 'search', 'autocomplete', 'recommendation').   |
 |element|  string  |HTML element that was displayed. Identifies the type of element that generated the impression event (example: 'product-card', 'search-result').   |
 |  element_source  |  string  |  Identifies the origin of the event on the frontend. In the search context, it can be 'search-result' or 'search-autocomplete'. |
+| storefront | string | VTEX environment used to render the page: 'portal', 'store_framework', or 'fast_store'. |
 | record_created_at |    timestamp    |Timestamp of when this record was created in the lakehouse. |
 | record_updated_at |    timestamp    | Timestamp of when this record was last updated in the lakehouse. |
 | batch_id|    timestamp |  Identifier used when data is loaded into the table for quality control of data ingestion. It also serves as a partition key. |
@@ -317,9 +322,67 @@ The table fields are described below:
 | impression_id | string | Unique identifier for the impression event. Links to the impression table. |
 | account_name | string | VTEX account of the store. Order groups are unique to the account_name, not globally. |
 | order_group | string | Links the impression to a specific order transaction, enabling analysis of the customer journey from search to purchase. |
+| order_placement_time | timestamp | Timestamp when the order placement page view was ingested by the data pipeline (`event_time` on the Activity Flow `orderPlaced` page view matched to `session_order`). Reflects server-side ingestion time, not the shopper's device clock. |
+| impression_time | timestamp | Timestamp when the impression event was ingested by the data pipeline (`event_time` on the `impression` table). Reflects server-side ingestion time. |
+| impression_element_source | string | Identifies the source of the impression event on the frontend. Duplicated from the `impression` table to avoid heavy joins. |
+| session_id | string | Activity Flow session identifier for the attributed impression, copied from the `impression` table. Enables joins to Activity Flow session data without returning to `impression`. |
 | record_created_at | timestamp | When the record was created in the lakehouse. |
 | record_updated_at | timestamp | When the record was last updated in the lakehouse. |
 | batch_id | timestamp | Identifier for data load batches; also serves as a partition key. |
+
+## Table: session_query
+
+Table in the search layer containing queries deduplicated by session*, intended as input for the Unique Searches metric. Each row represents the first time a distinct combination of `query` and frontend `element_source` appears in the shopper's session (ordered using client-side impression time). The logical key is `(session_id, query, element_source)`, if the same query and source occur again in the same session in a later data batch, no additional row is inserted.
+
+The table fields are described below:
+
+| **Column name** | **Column type** | **Column description** |
+|:---:|:---:|:---:|
+| session_id | string | Unique session identifier from Activity Flow. Indicates the browsing session in which the query first appeared. |
+| query | string | Query text as returned in the search response. Together with `session_id` and `element_source`, uniquely identifies a row in this table. |
+| account_name | string | VTEX account where the search occurred, from the search response. |
+| impression_id | string | Unique identifier of the impression event for the retained first occurrence, from the `impression` table. |
+| search_id | string | UUID of the search that produced the qualifying impression and response. Join key to the `impression`, `response`, and other search tables. |
+| access_type | string | Page access type for the qualifying impression, from the impression record. |
+| element_source | string | Frontend event source for the qualifying impression from the impression record. |
+| storefront | string | Storefront context for the qualifying impression, from the impression record (aligned with the `storefront` column on `impression`). |
+| device_type | string | Device type inferred from the shopper session in Activity Flow, aligned with the impression session. |
+| traffic_type | string | Session-level traffic classification from Activity Flow, aligned with the impression session. |
+| locale | string | Language or region for the search: uses `locale` from `response` when set; otherwise `default_locale`. Empty values are stored as null. |
+| misspelled | boolean | Indicates whether Intelligent Search treated the query as misspelled, from the search response. |
+| has_match | boolean | Indicates whether the associated response reported at least one `match`. |
+| operator | string | Search operator applied to the query in the response. Only responses with operator `and` or `or` are included in this table. |
+| impression_time | timestamp | Timestamp from `event_time` on the retained impression row for the first occurrence of this combination of `session_id`, `query`, and `element_source`. |
+| record_created_at | timestamp | Timestamp when this record was created in the lakehouse. |
+| record_updated_at | timestamp | Timestamp when this record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier used when data is loaded into the table for ingestion quality control. Also serves as a partition key. |
+
+## Table: session_query_click
+
+This table supports the Unique Clicks, it counts how many distinct search instances defined by the combination of `session_id`, `query`, and `element_source` resulted in at least one product click. Only the first click occurrence for each such combination within the session is recorded; additional clicks on the same search do not create new rows.
+
+The table fields are described below:
+
+| **Column name** | **Column type** | **Column description** |
+|:---:|:---:|:---:|
+| session_id | string | Unique session identifier from Activity Flow. Indicates the session in which the query first appeared in a click context. |
+| query | string | Query text as returned in the search response. Together with `session_id` and `element_source`, uniquely identifies a row and pairs with the same grain as `session_query` for metrics such as CTR. |
+| account_name | string | VTEX account where the search occurred, from the search response. |
+| click_id | string | Unique identifier of the click event for the retained first occurrence, from the `click` table. |
+| search_id | string | UUID of the search that produced the qualifying click and response. Join key to the `click`, `response`, and other search tables. |
+| access_type | string | Page access type for the qualifying click, from the click record. |
+| element_source | string | Frontend event source for the qualifying click, from the click record. |
+| storefront | string | Storefront context for the qualifying click, from the click record (aligned with the `storefront` column on `click`). |
+| device_type | string | Device type inferred from the shopper session in Activity Flow, aligned with the click session. |
+| traffic_type | string | Session-level traffic classification from Activity Flow, aligned with the click session. |
+| locale | string | Language or region for the search: uses `locale` from `response` when set; otherwise `default_locale`. Empty values are stored as null. |
+| misspelled | boolean | Indicates whether Intelligent Search treated the query as misspelled, from the search response. |
+| has_match | boolean | Indicates whether the associated response reported at least one `match`. |
+| operator | string | Search operator applied to the query in the response. Only responses with operator `and` or `or` are included in this table. |
+| click_time | timestamp | Timestamp from `event_time` on the retained click row for the first occurrence of this combination of `session_id`, `query`, and `element_source` in a click context. |
+| record_created_at | timestamp | Timestamp when this record was created in the lakehouse. |
+| record_updated_at | timestamp | Timestamp when this record was last updated in the lakehouse. |
+| batch_id | timestamp | Identifier used when data is loaded into the table for ingestion quality control. Also serves as a partition key. |
 
 ## Request detail tables
 

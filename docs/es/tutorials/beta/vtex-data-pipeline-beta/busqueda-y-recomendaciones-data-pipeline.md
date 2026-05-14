@@ -9,7 +9,7 @@ firstPublishedAt: 2026-05-25T08:00:00.000Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: search-data-pipeline
+slugEN: search-and-recomendations-data-pipeline
 legacySlug: busca-data-pipeline
 locale: es
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
@@ -28,6 +28,8 @@ En esta sección puedes consultar la siguiente información:
 - [Tabla: impression](#tabla-impression)
 - [Tabla: impression_click](#tabla-impression-click)
 - [Tabla: impression_order_group](#tabla-impression-order-group)
+- [Tabla: session_query](#tabla-session-query)
+- [Tabla: session_query_click](#tabla-session-query-click)
 - [Tabla: request_white_label_seller](#tabla-request-white-label-seller)
 - [Tabla: request_merchandising_rule](#tabla-request-merchandising-rule)
 - [Tabla: request_field_query](#tabla-request-field-query)
@@ -160,8 +162,6 @@ flowchart TD
 
 Almacena la información central de las consultas de búsqueda realizadas por los compradores, incluyendo el texto de la consulta, filtros, orden, paginación y configuración de búsqueda. Cada fila representa un solo evento de solicitud de búsqueda. No todas las búsquedas hechas desde el frontend quedan registradas en esta tabla, ya que algunas se responden desde la caché y no se registran.
 
-> Los 'filtros de Bloom' están activos en las siguientes columnas: <code>search_id</code>, <code>account_name</code>, <code>query</code>. <br>Los 'filtros de Bloom' ayudan a ignorar archivos de datos que no contienen valores coincidentes, mejorando significativamente el rendimiento de las consultas para predicados de igualdad en esas columnas.
-
 Los campos de la tabla se describen a continuación:
 
 | **Nombre de la columna** | **Tipo** | **Descripción** |
@@ -197,10 +197,13 @@ Los campos de la tabla se describen a continuación:
 | search_id | string | UUID de la búsqueda. Identificador único que vincula esta respuesta con la solicitud de búsqueda correspondiente. |
 | account_name | string | Nombre de la cuenta en la que se realizó la búsqueda. Identifica a qué tienda pertenece la búsqueda. |
 | event_time | timestamp | Marca de tiempo del evento de búsqueda. Representa el momento en que la API de búsqueda recibió y procesó la solicitud de búsqueda. |
+| query | string | Cadena de consulta de texto completo ingresada por el comprador. Representa el término o la frase de búsqueda utilizados; puede estar vacía para búsquedas que solo utilizan consultas por campo o filtros. Duplicada de la tabla `request`. |
+| default_locale | string | Configuración regional predeterminada del inquilino (ejemplo: 'es-MX', 'pt-BR'). Idioma y región principales de la tienda. Duplicada de la tabla `request`. |
+| locale | string | Configuración regional solicitada por el comprador en esta búsqueda. Puede diferir del `default_locale` si el usuario elige otro idioma. Duplicada de la tabla `request`. |
 | redirect | string | URL de redirección, si aplica. Este campo se llena cuando una búsqueda activa una regla de redirección (por ejemplo, para páginas específicas de marcas). De lo contrario, devuelve null. |
 | latency | int | Latencia de la respuesta en milisegundos. Mide el tiempo necesario para procesar y devolver los resultados de la búsqueda. |
 | misspelled | boolean | Indica si hay una palabra con error ortográfico en la consulta. |
-| coincidencia | int | Cantidad de productos coincidentes. Representa el total de ítems que coinciden con la búsqueda y los filtros aplicados. |
+| match | int | Cantidad de productos coincidentes. Representa el total de ítems que coinciden con la búsqueda y los filtros aplicados. |
 | operator | string | Operador de la consulta después del resguardo. Indica el operador utilizado después de aplicar el resguardo o correcciones en la búsqueda. |
 | fuzzy | string | Nivel de tolerancia de la consulta después del resguardo. Representa el valor final de tolerancia usado luego de cualquier procesamiento de la consulta o la lógica de resguardo. |
 | record_created_at | timestamp | Fecha y hora en que se creó este registro en el lakehouse. |
@@ -255,12 +258,14 @@ Los campos de la tabla se describen a continuación:
 | page_y | float | Coordenada Y del clic en la página. Posición vertical donde el usuario hizo clic, medida en píxeles. |
 | element | string | Elemento HTML en el que se hizo clic. Identifica el tipo de elemento que recibió el evento de clic (ejemplo: 'button', 'link', 'div'). |
 | element_source | string | Identifica el origen del evento en el frontend. En el contexto de búsqueda, puede ser 'search-result' o 'search-autocomplete'. |
+| storefront | string | Entorno VTEX utilizado para renderizar la página: 'portal', 'store_framework' o 'fast_store'. |
 | product_id | string | ID del producto del ítem en el que se hizo clic. Cuando la separación de SKUs por especificación está activa, este valor puede no ser único, ya que representa el ID del producto base sin detalles de especificación. |
 | product_specification | string | Especificación del producto del ítem en el que se hizo clic. El valor de la especificación cuando la separación de SKUs por especificación está activa. |
 | product_position | int | Posición del producto en el que se hizo clic. La posición del producto en los resultados de búsqueda cuando se hizo clic (empieza en 1). |
 | record_created_at | timestamp | Marca de tiempo del momento en que se creó este registro en el lakehouse. |
 | record_updated_at | timestamp | Marca de tiempo de la última vez que se actualizó este registro en el lakehouse. |
-| batch_id | timestamp | Identificador utilizado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. También sirve como clave de partición. | 
+| batch_id | timestamp | Identificador utilizado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. También sirve como clave de partición. |
+
 ## Tabla: impression
 
 Tabla que contiene impresiones de los resultados de búsqueda. Almacena información sobre el momento en que se muestran los resultados de búsqueda a los compradores, incluyendo el tipo de impresión, los detalles del elemento y la información de la sesión del usuario. Cada fila representa un solo evento de impresión.
@@ -286,6 +291,7 @@ Los campos de la tabla se describen a continuación:
 | impression_type | string | Tipo de impresión. Categoriza el tipo de impresión de resultados de búsqueda (ejemplo: 'search', 'autocomplete', 'recommendation'). |
 | element | string | Elemento HTML que se mostró. Identifica el tipo de elemento que generó el evento de impresión (ejemplo: 'product-card', 'search-result'). |
 | element_source | string | Identifica el origen del evento en el frontend. En el contexto de búsqueda, puede ser 'search-result' o 'search-autocomplete'. |
+| storefront | string | Entorno VTEX utilizado para renderizar la página: 'portal', 'store_framework' o 'fast_store'. |
 | record_created_at | timestamp | Marca de tiempo del momento en que se creó este registro en el lakehouse. |
 | record_updated_at | timestamp | Marca de tiempo de la última vez que se actualizó este registro en el lakehouse. |
 | batch_id | timestamp | Identificador utilizado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. También funciona como clave de partición. |
@@ -316,9 +322,67 @@ Los campos de la tabla se describen a continuación:
 | impression_id | string | Identificador único para el evento de impresión. Vincula a la tabla impression para identificar la impresión de resultado de búsqueda que llevó a un pedido. |
 | account_name | string | Cuenta VTEX de la tienda. Identifica a qué tienda pertenece la relación impresión-pedido. Los grupos de pedidos son únicos por account_name, no globalmente. |
 | order_group | string | Identificador del grupo de pedidos. Vincula la impresión a una transacción de pedido específica (que también puede encontrarse en el modelo de datos de Pedidos), permitiendo el análisis integral de la experiencia del cliente desde la impresión de búsqueda hasta la compra. |
+| order_placement_time | timestamp | Marca de tiempo en que la vista de página de pedido realizado (`orderPlaced` en Activity Flow) fue ingerida por el pipeline (`event_time` de esa vista emparejado con `session_order`). Refleja la ingestión en el servidor, no el reloj del dispositivo del comprador. |
+| impression_time | timestamp | Marca de tiempo en que el evento de impresión fue ingerido por el pipeline (`event_time` en la tabla `impression`). Refleja la ingestión en el servidor. |
+| impression_element_source | string | Identifica el origen del evento de impresión en el frontend. Columna duplicada de la tabla `impression` para reducir joins pesados. |
+| session_id | string | Identificador de sesión de Activity Flow de la impresión atribuida, copiado de la tabla `impression`. Permite combinar con los datos de sesión en Activity Flow sin volver a la tabla `impression`. |
 | record_created_at | timestamp | Marca de tiempo del momento en que se creó este registro en el lakehouse. |
 | record_updated_at | timestamp | Marca de tiempo de la última vez que se actualizó este registro en el lakehouse. |
 | batch_id | timestamp | Identificador utilizado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. También funciona como clave de partición. |
+
+## Tabla: session_query
+
+Tabla en la capa de búsqueda con consultas deduplicadas por sesión, pensada como insumo para la métrica Unique Searches. Cada fila representa la primera vez que aparece en la sesión del comprador una combinación distinta de `query` y origen del `element_source`, ordenada según la hora de la impresión en el lado del cliente. La clave lógica es `(session_id, query, element_source)`: si la misma consulta y el mismo origen vuelven a ocurrir en la misma sesión en un lote posterior de datos, no se inserta otra fila.
+
+Los campos de la tabla se describen a continuación:
+
+| **Nombre de la columna** | **Tipo** | **Descripción** |
+|:--|:--|:--|
+| session_id | string | Identificador único de la sesión en Activity Flow. Indica la sesión de navegación en la que la consulta apareció por primera vez. |
+| query | string | Texto de la consulta según lo devuelve la respuesta de búsqueda. Junto con `session_id` y `element_source`, identifica de forma única una fila en esta tabla. |
+| account_name | string | Cuenta VTEX donde ocurrió la búsqueda, según la respuesta de búsqueda. |
+| impression_id | string | Identificador único del evento de impresión de la primera ocurrencia retenida, a partir de la tabla `impression`. |
+| search_id | string | UUID de la búsqueda que produjo la impresión y la respuesta elegibles. Clave para relacionar con las tablas `impression`, `response` y el resto de tablas de búsqueda. |
+| access_type | string | Tipo de acceso a la página en la impresión elegible, según el registro de impresión. |
+| element_source | string | Origen del evento en el frontend en la impresión elegible, según el registro de impresión. |
+| storefront | string | Contexto de vitrina en la impresión elegible, según el registro de impresión (alineado con la columna `storefront` en `impression`). |
+| device_type | string | Tipo de dispositivo inferido a partir de la sesión del comprador en Activity Flow, alineado con la sesión de la impresión. |
+| traffic_type | string | Clasificación de tráfico a nivel de sesión en Activity Flow, alineada con la sesión de la impresión. |
+| locale | string | Idioma o región de la búsqueda: usa `locale` de `response` cuando está definido; en caso contrario, `default_locale`. Los valores vacíos se guardan como null. |
+| misspelled | boolean | Indica si Intelligent Search trató la consulta como mal escrita, según la respuesta de búsqueda. |
+| has_match | boolean | Indica si la respuesta asociada reportó al menos una coincidencia de `match`. |
+| operator | string | Operador de búsqueda aplicado a la consulta en la respuesta. Solo entran en esta tabla las respuestas con operador `and` u `or`. |
+| impression_time | timestamp | Marca de tiempo del `event_time` en la fila de impresión retenida para la primera ocurrencia de esta combinación de `session_id`, `query` y `element_source`. |
+| record_created_at | timestamp | Marca de tiempo en que se creó este registro en el lakehouse. |
+| record_updated_at | timestamp | Marca de tiempo de la última actualización de este registro en el lakehouse. |
+| batch_id | timestamp | Identificador utilizado cuando los datos se cargan en la tabla para control de calidad de la ingesta. También sirve como clave de partición. |
+
+## Tabla: session_query_click
+
+Esta tabla sustenta la métrica **Unique Clicks**: cuenta cuántas **instancias distintas de búsqueda**, definidas por la combinación de `session_id`, `query` y `element_source`, generaron **al menos un** clic en producto. Solo se registra la **primera** ocurrencia de clic para cada una de esas combinaciones dentro de la sesión; los clics adicionales en la misma búsqueda **no** crean nuevas filas.
+
+Los campos de la tabla se describen a continuación:
+
+| **Nombre de la columna** | **Tipo** | **Descripción** |
+|:--|:--|:--|
+| session_id | string | Identificador único de la sesión en Activity Flow. Indica la sesión en la que la consulta apareció por primera vez en contexto de clic. |
+| query | string | Texto de la consulta según lo devuelve la respuesta de búsqueda. Junto con `session_id` y `element_source`, identifica de forma única una fila y empareja el mismo grano que la tabla `session_query` para métricas como el CTR. |
+| account_name | string | Cuenta VTEX donde ocurrió la búsqueda, según la respuesta de búsqueda. |
+| click_id | string | Identificador único del evento de clic de la primera ocurrencia retenida, a partir de la tabla `click`. |
+| search_id | string | UUID de la búsqueda que produjo el clic y la respuesta elegibles. Clave para relacionar con las tablas `click`, `response` y el resto de tablas de búsqueda. |
+| access_type | string | Tipo de acceso a la página en el clic elegible, según el registro de clic. |
+| element_source | string | Origen del evento en el frontend en el clic elegible, según el registro de clic. |
+| storefront | string | Contexto de vitrina en el clic elegible, según el registro de clic (alineado con la columna `storefront` en `click`). |
+| device_type | string | Tipo de dispositivo inferido a partir de la sesión del comprador en Activity Flow, alineado con la sesión del clic. |
+| traffic_type | string | Clasificación de tráfico a nivel de sesión en Activity Flow, alineada con la sesión del clic. |
+| locale | string | Idioma o región de la búsqueda: usa `locale` de `response` cuando está definido; en caso contrario, `default_locale`. Los valores vacíos se guardan como null. |
+| misspelled | boolean | Indica si Intelligent Search trató la consulta como mal escrita, según la respuesta de búsqueda. |
+| has_match | boolean | Indica si la respuesta asociada reportó al menos un `match`. |
+| operator | string | Operador de búsqueda aplicado a la consulta en la respuesta. Solo entran en esta tabla las respuestas con operador `and` u `or`. |
+| click_time | timestamp | Marca de tiempo del `event_time` en la fila de clic retenida para la primera ocurrencia de esta combinación de `session_id`, `query` y `element_source` en contexto de clic. |
+| record_created_at | timestamp | Marca de tiempo en que se creó este registro en el lakehouse. |
+| record_updated_at | timestamp | Marca de tiempo de la última actualización de este registro en el lakehouse. |
+| batch_id | timestamp | Identificador utilizado cuando los datos se cargan en la tabla para control de calidad de la ingesta. También sirve como clave de partición. |
 
 ## Tablas de detalles de la solicitud
 

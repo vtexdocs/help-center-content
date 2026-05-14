@@ -14567,9 +14567,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Configuring Price Divergence rule",
-                    "es": "3. Configuración de regla de Divergencia de precios",
-                    "pt": "3. Configurar Regra de divergência de valores"
+                    "en": "3. Shipping strategy: Shopee seller logistics",
+                    "es": "3. Estrategia de envío: logística del vendedor Shopee",
+                    "pt": "3. Shipping strategy: Shopee seller logistics"
+                  },
+                  "slug": {
+                    "en": "seller-logistics-shopee",
+                    "es": "logistica-del-vendedor-shopee",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Configuring Price Divergence rule",
+                    "es": "4. Configuración de regla de Divergencia de precios",
+                    "pt": "4. Configurar Regra de divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule-shopee",
@@ -14582,9 +14597,24 @@
                 },
                 {
                   "name": {
-                    "en": "4. Install and configure Shopee connector",
-                    "es": "4. Instalar y configurar el conector Shopee",
-                    "pt": "4. Instalar e Configurar conector Shopee"
+                    "en": "5. Shipping strategy: Shopee full logistics",
+                    "es": "5. Estrategia de envío: Shopee full logistics",
+                    "pt": "5. Shipping strategy: Shopee full logistics"
+                  },
+                  "slug": {
+                    "en": "shopee-full-logistics",
+                    "es": "shopee-full-logistics",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Install and configure Shopee connector",
+                    "es": "6. Instalar y configurar el conector Shopee",
+                    "pt": "6. Instalar e Configurar conector Shopee"
                   },
                   "slug": {
                     "en": "install-and-configure-shopee-connector",
@@ -14597,9 +14627,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Mapping product categories and attributes to Shopee",
-                    "es": "5. Mapear categorías y atributos de los productos para Shopee",
-                    "pt": "5. Mapeamento de categorias e atributos dos produtos para a Shopee"
+                    "en": "7. Mapping product categories and attributes to Shopee",
+                    "es": "7. Mapear categorías y atributos de los productos para Shopee",
+                    "pt": "7. Mapeamento de categorias e atributos dos produtos para a Shopee"
                   },
                   "slug": {
                     "en": "mapping-product-categories-and-attributes-to-shopee",
@@ -18418,12 +18448,12 @@
                   "name": {
                     "en": "Search and Recommendations Data Pipeline",
                     "es": "Búsqueda y recomendaciones: Data Pipeline",
-                    "pt": "Search and Recommendations Data Pipeline"
+                    "pt": "Busca e Recomendações Data Pipeline"
                   },
                   "slug": {
-                    "en": "search-data-pipeline",
-                    "es": "busca-data-pipeline",
-                    "pt": ""
+                    "en": "search-and-recomendations-data-pipeline",
+                    "es": "busqueda-y-recomendaciones-data-pipeline",
+                    "pt": "busca-e-recomendacoes-data-pipeline"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -56219,6 +56249,21 @@
                 "en": "search-by-ean-not-working-on-received-skus",
                 "es": "la-busqueda-por-ean-no-funciona-en-los-sku-recibidos",
                 "pt": "a-pesquisa-por-ean-nao-esta-funcionando-nos-skus-recebidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search filter not working outside the first page in received SKU section",
+                "es": "El filtro de búsqueda no funciona más allá de la primera página en la sección de SKU recibidos",
+                "pt": "O filtro de pesquisa não funciona fora da primeira página na seção de SKUs recebidos"
+              },
+              "slug": {
+                "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
+                "es": "el-filtro-de-busqueda-no-funciona-mas-alla-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+                "pt": "o-filtro-de-pesquisa-nao-funciona-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
               },
               "origin": "",
               "type": "markdown",
