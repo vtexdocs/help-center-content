@@ -36093,14 +36093,29 @@
                 },
                 {
                   "name": {
+                    "pt": "Introdução ao CX",
+                    "en": "Introdução ao CX",
+                    "es": "Introdução ao CX"
+                  },
+                  "slug": {
+                    "pt": "introducao-ao-agentic-cx",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Introduction to Agentic CX",
                     "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
+                    "pt": "Introduction to Agentic CX"
                   },
                   "slug": {
                     "en": "introduction-to-agentic-cx",
                     "es": "introduccion-a-agentic-ai",
-                    "pt": "introducao-ao-agentic-cx"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
