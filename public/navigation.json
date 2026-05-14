@@ -14614,52 +14614,6 @@
             },
             {
               "name": {
-                "en": "Integração com a Shopee",
-                "es": "Integração com a Shopee",
-                "pt": "Integração com a Shopee"
-              },
-              "slug": {
-                "en": "integracao-com-a-shopee",
-                "es": "integracao-com-a-shopee",
-                "pt": "integracao-com-a-shopee"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "1. Estratégia de envio: logística do vendedor Shopee",
-                    "en": "1. Estratégia de envio: logística do vendedor Shopee",
-                    "es": "1. Estratégia de envio: logística do vendedor Shopee"
-                  },
-                  "slug": {
-                    "pt": "logistica-do-vendedor-shopee",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "pt": "2. Estratégia de envio: Shopee full logistics",
-                    "en": "2. Estratégia de envio: Shopee full logistics",
-                    "es": "2. Estratégia de envio: Shopee full logistics"
-                  },
-                  "slug": {
-                    "pt": "shopee-full-logistics",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Wish integration",
                 "es": "Integración con Wish",
                 "pt": "Integração com a Wish"
