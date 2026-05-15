@@ -64,7 +64,7 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 **Exemplo:** uma loja vende material para construção e o escopo do seu projeto é adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente descobre que precisa comprar 16 quilogramas (kg) de argamassa para os quatro metros quadrados a serem construídos.
 
-### 2. Mapear fluxo de experiência do usuário e requisitos técnicos
+### 2. Mapear experiência do usuário e requisitos técnicos
 
 O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação. Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
 
