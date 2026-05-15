@@ -78,11 +78,11 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 > ℹ️ Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
-### 3. Viabilidade técnica e feedback
+### 3. Checar a viabilidade técnica
 
-Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos hooks e funções existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a documentacão.
+O terceiro passo é verificar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve validar se os requisitos mapeados se alinham aos hooks e funções existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a [documentacão de Extensibilidade para desenvolvedores](#link2).
 
-> ❗ Caso identifique a inexistência de um hook ou função necessária, abra um ticket para a VTEX explicando seu caso de uso e necessidade para que possamos considerar a necessidade em evoluções do produto.
+> ⚠️ Caso seja identificada a inexistência de um hook ou de alguma função obrigatória, recomendamos entrar em contato com nosso [Suporte](https://help.vtex.com/pt/support), descrevendo o caso de uso e necessidades não atendidas.
 
 ### 4. Implementação
 
