@@ -62,9 +62,9 @@ Para realizar a implementação da Extensibilidade, siga os passos desta seção
 
 O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimitar o escopo do que será implementado.
 
-**Exemplo:** uma loja vende material para construção e o escopo do seu projeto é adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente descobre que precisa comprar 16 quilogramas (kg) de argamassa para os quatro metros quadrados construídos.
+**Exemplo:** uma loja vende material para construção e o escopo do seu projeto é adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente descobre que precisa comprar 16 quilogramas (kg) de argamassa para os quatro metros quadrados a serem construídos.
 
-> ⚠️ Nesta etapa, recomendamos que seja feita a instalação das Skills da Extensibilidade do Sales App, pois elas auxiliam na implementação das extensões.
+> ⚠️ Nesta etapa, recomendamos que seja feita a instalação das [Skills da Extensibilidade do Sales App](#skills-de-extensibilidade-vtex-sales-app), que auxiliam na implementação das extensões.
 
 ### 2. Mapear fluxo de experiência do usuário
 
