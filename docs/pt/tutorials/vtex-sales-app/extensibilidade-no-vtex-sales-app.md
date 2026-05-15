@@ -28,7 +28,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
   ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
 
-  > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface,o que permite à loja criar múltiplos fluxos de navegação interna.
+  > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface, o que permite à loja criar múltiplos fluxos de navegação interna.
 
 * Página de detalhes do produto (PDP):
 
