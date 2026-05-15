@@ -44,7 +44,7 @@ Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e
 
 ## Casos de uso de extensões
 
-Alguns exemplos de contextos que se beneficiam da Extensibilidade são:
+Veja a seguir alguns exemplos de contextos nos quais o lojista se beneficia da Extensibilidade:
 
 | Contexto | Descrição |
 | :--- | :--- |
