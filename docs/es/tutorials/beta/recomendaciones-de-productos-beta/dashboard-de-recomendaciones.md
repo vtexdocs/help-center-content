@@ -84,8 +84,10 @@ Para copiar el identificador de una estantería de recomendación:
 
 El identificador puede ser utilizado para:
 
-- Implementar la estrategia en el storefront.  
-  Para más información, consulta la documentación del componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) de Store Framework.
+- Implementar la estrategia en el storefront:  
+  - **Store Framework**: Consulta la documentación del componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+  - **FastStore o Headless**: Consulta la guía [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
+  - **Mobile**: Consulta la guía [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).
 - Facilitar la identificación de la estrategia durante la solución de problemas o al contactar al equipo de Soporte.
 
 ## Seleccionar periodo de análisis
@@ -138,5 +140,5 @@ Para remover un filtro, repite los pasos 1 y 2 y haz clic en `Limpiar`.
 
 - [Recomendaciones de productos (beta)](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
-- [Integrating product recommendations in headless stores (Beta)](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores)
-- [Implementing product recommendations in FastStore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore)
+- [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
+- [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)
