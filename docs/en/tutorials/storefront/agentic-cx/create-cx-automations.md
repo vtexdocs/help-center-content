@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.399Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: create-active-agents
+slugEN: create-cx-automations
 legacySlug: create-active-agents
 locale: en
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
