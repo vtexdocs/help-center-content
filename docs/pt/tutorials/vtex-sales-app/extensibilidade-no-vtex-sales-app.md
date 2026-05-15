@@ -66,7 +66,7 @@ Recomendamos que desenvolvedores instalem as **Skills de Extensibilidade** nas d
 
 O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimitar o escopo do que será implementado.
 
-**Exemplo:** uma loja vende material para construção e o escopo do seu projeto é adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente descobre que precisa comprar 16 quilogramas (kg) de argamassa para os quatro metros quadrados a serem construídos.
+**Exemplo:** uma loja vende material para construção e o escopo do seu projeto será adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente da loja descobre que precisará comprar 16 quilogramas (kg) de argamassa para quatro metros quadrados.
 
 ### 2. Mapear experiência do usuário e requisitos técnicos
 
