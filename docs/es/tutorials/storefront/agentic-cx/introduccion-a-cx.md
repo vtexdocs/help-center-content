@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.474Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-agentic-cx
+slugEN: introduction-to-cx
 legacySlug: introduccion-a-weni-agentic-ai
 locale: es
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
