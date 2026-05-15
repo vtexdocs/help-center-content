@@ -60,7 +60,7 @@ Para realizar a implementação da Extensibilidade, siga as orientações das pr
 
 ### Antes de começar
 
-Recomendamos que os desenvolvedores instalem as **Skills de Extensibilidade** nas dependências da loja, para auxiliar os lojistas e parceiros nas etapas de definição e implementação do projeto. Saiba mais em [Skills de Extensibilidade VTEX Sales App](#link).
+Recomendamos que desenvolvedores instalem as **Skills de Extensibilidade** nas dependências da loja, para auxiliar os lojistas e parceiros nas etapas de definição e implementação do projeto. Saiba mais em [Skills de Extensibilidade VTEX Sales App](#link).
 
 ### 1. Planejar escopo do projeto
 
