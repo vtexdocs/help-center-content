@@ -21,7 +21,7 @@ The Web Application Firewall (WAF) is a security layer designed to protect web a
 
 WAF is specifically meant for HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) communications, scanning inbound data to detect and block possible threats.
 
-![waf-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_1.png)
+![waf-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_1.png)
 
 The first step to using WAF is defining [security rules](#security-rules), which are determined by the VTEX Security team based on their analysis of information flow patterns. Based on these rules, the WAF continuously monitors web traffic. When it detects potentially harmful activity, it can block traffic, thus preventing the exploitation of vulnerabilities in the web application.
 
@@ -31,15 +31,15 @@ Stores using VTEX Shield and choosing to use WAF have the following security rul
 
 | Threat | Security rule |
 |---|---|
-| Remote File Inclusions (RFI) | Detects attempts to include files, usually via scripts on the web server.                                           |
-| Directory Traversal                             | Verifies and validates file names provided by users, preventing unauthorized access to sensitive files and folders. |
-| Cross-Site Scripting (XSS)   | Prevents the injection of client-side scripts into the pages viewed by visitors.                                    |
-| File upload                                     | Detects attempts to upload files to the web server.                                                                 |
-| Evasion techniques                              | Protects against some coding tricks used to try to bypass protection mechanisms.                                    |
-| Unwanted access                                 | Detects attempts to access admin or vulnerable pages, bots, and security scanning tools.                            |
-| Identified attacks                              | Prevents common attacks and known vulnerabilities.                                                                  |
-| IP filter                                       | Checks a list of IP addresses that have access permissions or restrictions.                                         |
-| Tor network blocking                            | Prevents access to the site using the Tor browser.                                                                  |
+| Remote File Inclusions (RFI) | Detects attempts to include files, usually via scripts on the web server. |
+| Directory Traversal | Verifies and validates file names provided by users, preventing unauthorized access to sensitive files and folders. |
+| Cross-Site Scripting (XSS) | Prevents the injection of client-side scripts into the pages viewed by visitors. |
+| File upload | Detects attempts to upload files to the web server. |
+| Evasion techniques | Protects against some coding tricks used to try to bypass protection mechanisms. |
+| Unwanted access | Detects attempts to access admin or vulnerable pages, bots, and security scanning tools. |
+| Identified attacks | Prevents common attacks and known vulnerabilities. |
+| IP filter | Checks a list of IP addresses that have access permissions or restrictions. |
+| Tor network blocking | Prevents access to the site using the Tor browser. |
 
 > ℹ️ The selection of rules and the names displayed may vary based on the configuration set in the WAF provider and any customizations requested by the merchant.
 
@@ -72,8 +72,7 @@ The dashboard displays the following information and resources:
 To view the page, you must:
 
 * Have WAF [activated](#request-waf-activation) in advance.
-
-* Be a user associated with a [role](https://help.vtex.com/en/docs/tutorials/access-profiles) with the following [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources):
+* Be a user associated with a [role](https://help.vtex.com/en/docs/tutorials/roles) with the following [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources):
 
   - **Product**: _CDN API_
   - **Category**: _WAF Control_
@@ -100,7 +99,7 @@ The top section of the dashboard shows three main metrics:
 * **Blocked:** Number and percentage of requests that were blocked by WAF before reaching the application because they were identified as threats.
 * **Allowed:** Number and percentage of requests permitted by WAF and forwarded to the application after analysis, considered safe.
 
-![waf-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_2.png)
+![waf-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_2.png)
 
 ### Actions
 
@@ -112,7 +111,7 @@ The chart displays three main metrics:
 * **Allowed** (purple line): Allowed requests.
 * **Total** (gray line): Total volume of requests analyzed.
 
-![waf-3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_3.png)
+![waf-3-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_3.png)
 
 ### Rules
 
@@ -121,7 +120,7 @@ The **Rules** chart shows the security rules that were triggered during the sele
 * **Time:** Historical trend of when each rule was applied.
 * **Summary:** Consolidated actions per rule.
 
-![waf-4-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_4.png)
+![waf-4-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_4.png)
 
 > ℹ️ The selection of rules and names displayed may vary according to the configuration defined by the WAF provider and any customizations requested by the merchant.
 
@@ -131,13 +130,13 @@ The **Attack types** section includes a horizontal bar chart with the main threa
 
 The displayed attack types correspond to the most relevant for the store—for example, those with the highest incidence—and not necessarily the ones defined in the list. Learn more about common attacks in [OWASP Top 10](https://owasp.org/Top10).
 
-![waf-5-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_5.png)
+![waf-5-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_5.png)
 
 ### Origin countries
 
 The **Origin countries** chart shows the geographic distribution of requests, allowing you to identify the countries of origin of access requests to your site, as analyzed by WAF. Countries are listed using three-letter codes, with horizontal bars indicating the request volume from each location.
 
-![waf-6-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_6.png)
+![waf-6-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_6.png)
 
 ### Devices
 
@@ -150,8 +149,8 @@ The **Devices** chart presents the percentage distribution of device types used 
 
 The data is presented in a pie chart with the corresponding percentages.
 
-![waf-7-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_7.png)
+![waf-7-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/web-application-firewall-waf_7.png)
 
 ## Learn more
 
-* [VTEX Shield](/docs/tutorials/vtex-shield)
+* [VTEX Shield](/en/docs/tutorials/vtex-shield)
