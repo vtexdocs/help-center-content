@@ -21,7 +21,7 @@ Web Application Firewall (WAF) es una capa de seguridad diseñada para proteger 
 
 WAF se enfoca en las comunicaciones que se llevan a cabo a través de los protocolos HTTP (Hypertext Transfer Protocol) y HTTPS (HTTP Secure), analizando los datos de entrada para detectar y bloquear posibles amenazas.
 
-![waf-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_1.png)
+![waf-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/web-application-firewall-waf_1.png)
 
 WAF opera a partir de la configuración de [reglas de seguridad](#reglas-de-seguridad) definidas por el equipo de seguridad de VTEX, basándose en el análisis de patrones de circulación de datos. Dichas reglas sirven para que WAF monitoree constantemente el tráfico web y cuando detecte una actividad potencialmente perjudicial, pueda bloquear el tráfico, impidiendo que los atacantes aprovechen las vulnerabilidades en la aplicación web.
 
@@ -31,15 +31,15 @@ Las tiendas que utilizan VTEX Shield y deciden usar WAF cuentan con las siguient
 
 | Amenaza | Medida de seguridad |
 |---|---|
-| Remote File Inclusions (RFI) | Detecta tentativas de incluir archivos, normalmente a través de scripts en el servidor web.                                                  |
-| Directory traversal                             | Comprueba y valida los nombres de archivo proporcionados por los usuarios, evitando el acceso no autorizado a archivos y carpetas sensibles. |
-| Cross-site scripting (XSS)   | Impide la inyección de scripts del lado del cliente en las páginas vistas por los visitantes.                                                |
-| Carga de archivos                               | Detecta intentos de carga de archivos al servidor web.                                                                                       |
-| Trucos de evasión                               | Protege contra algunos trucos de codificación utilizados para intentar eludir los mecanismos de protección.                                  |
-| Acceso no deseado                               | Detecta intentos de acceso a páginas administrativas o vulnerables, a bots y a herramientas de escaneo de seguridad.                         |
-| Ataques identificados                           | Previene varios tipos de ataques comunes y vulnerabilidades conocidas que deberían bloquearse.                                               |
-| Filtro de IP                                    | Consulta una lista de direcciones IP que tienen permiso o bloqueo de acceso.                                                                 |
-| Bloqueo de la red Tor                           | Impide el acceso al sitio web utilizando el navegador Tor.                                                                                   |
+| Remote File Inclusions (RFI) | Detecta tentativas de incluir archivos, normalmente a través de scripts en el servidor web. |
+| Directory traversal | Comprueba y valida los nombres de archivo proporcionados por los usuarios, evitando el acceso no autorizado a archivos y carpetas sensibles. |
+| Cross-site scripting (XSS)   | Impide la inyección de scripts del lado del cliente en las páginas vistas por los visitantes. |
+| Carga de archivos | Detecta intentos de carga de archivos al servidor web. |
+| Trucos de evasión | Protege contra algunos trucos de codificación utilizados para intentar eludir los mecanismos de protección. |
+| Acceso no deseado | Detecta intentos de acceso a páginas administrativas o vulnerables, a bots y a herramientas de escaneo de seguridad. |
+| Ataques identificados | Previene varios tipos de ataques comunes y vulnerabilidades conocidas que deberían bloquearse. |
+| Filtro de IP | Consulta una lista de direcciones IP que tienen permiso o bloqueo de acceso. |
+| Bloqueo de la red Tor | Impide el acceso al sitio web utilizando el navegador Tor. |
 
 > ℹ️ La selección de reglas y los nombres mostrados varían según la configuración definida en el proveedor de WAF y las personalizaciones solicitadas por el retailer.
 
@@ -72,7 +72,6 @@ El dashboard muestra la siguiente información y recursos:
 Para ver la página es necesario:
 
 * Tener WAF [activado](#solicitar-activacion-de-waf) previamente.
-
 * Ser un usuario asociado a un [rol](https://help.vtex.com/es/docs/tutorials/roles) con el [recurso de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager) a continuación:
 
   * **Producto**: CDN API
@@ -100,7 +99,7 @@ La sección superior del dashboard presenta tres métricas principales:
 * **Bloqueados:** cantidad y porcentaje de solicitudes que WAF bloqueó antes de llegar a la aplicación por haber sido identificadas como amenazas.
 * **Permitidos:** porcentaje y cantidad de solicitudes permitidas por WAF y enviadas a la aplicación después del análisis, consideradas seguras.
 
-![waf-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_2.png)
+![waf-2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/web-application-firewall-waf_2.png)
 
 ### Acciones
 
@@ -112,7 +111,7 @@ El gráfico muestra tres métricas principales:
 * **Permitidas** (línea morada): solicitudes aceptadas.
 * **Total** (línea gris): volumen total de solicitudes analizadas.
 
-![waf-3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguridad/vtex-shield/web-application-firewall-waf_3.png)
+![waf-3-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/web-application-firewall-waf_3.png)
 
 ### Reglas
 
@@ -121,7 +120,7 @@ El gráfico **Reglas** detalla las reglas de seguridad que se activaron durante 
 * **Tiempo:** evolución temporal de la aplicación de cada regla.
 * **Resumen:** vista consolidada de la cantidad de acciones por regla.
 
-![waf-4-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguridad/vtex-shield/firewall-de-aplicacion-web-waf_4.png)
+![waf-4-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/firewall-de-aplicacion-web-waf_4.png)
 
 > ℹ️ La selección de reglas y los nombres mostrados varían según la configuración definida en el proveedor del WAF y las personalizaciones solicitadas por el retailer.
 
@@ -131,13 +130,13 @@ La sección **Tipos de ataque** presenta un gráfico de barras horizontales con 
 
 Los tipos de ataque que se muestran corresponden a los más relevantes para la tienda, es decir, aquellos con mayor volumen de detecciones, y no necesariamente a los definidos en la lista. Consulta más información sobre ataques comunes en [OWASP Top 10](https://owasp.org/Top10)
 
-![waf-5-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/web-application-firewall-waf_5.png)
+![waf-5-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/web-application-firewall-waf_5.png)
 
 ### Países de origen
 
 El gráfico de **Países de origen** muestra la distribución geográfica de las solicitudes, permitiendo identificar de qué países provienen los accesos a tu sitio web analizados por el WAF. Los países se enumeran por código de tres letras, con barras horizontales que indican el volumen de solicitudes de cada configuración regional.
 
-![waf-6-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguridad/vtex-shield/web-application-firewall-waf_6.png)
+![waf-6-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/web-application-firewall-waf_6.png)
 
 ### Dispositivos
 
@@ -150,7 +149,7 @@ El gráfico de **Dispositivos** presenta la distribución porcentual de los tipo
 
 Los datos se muestran en un gráfico circular con los porcentajes respectivos.
 
-![waf-7-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguridad/vtex-shield/web-application-firewall-waf_7.png)
+![waf-7-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/web-application-firewall-waf_7.png)
 
 ## Más información
 
