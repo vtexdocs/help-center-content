@@ -78,7 +78,7 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 > ℹ️ Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
-### 3. Viabilidade Técnica e Feedback
+### 3. Viabilidade técnica e feedback
 
 Antes do código, o desenvolvedor deve validar se os requisitos se alinham aos hooks e funções existentes nos pontos de extensão e mapear as integrações necessárias de acordo com a documentacão.
 
@@ -102,4 +102,4 @@ O MCP também é capaz de guiar o desenvolvedor com o passo a passo para deploy.
 
 > Recomendações para Parceiros com múltiplos clientes utilizando a extensão
 
-Para parceiros que desenvolvem módulos que podem ser reaproveitados em diferentes clientes, a priori a extensão deverá ser copiada para cada repositório. Mas recomendamos entrar em contato com o time de VTEX Sales App para ter sugestões de como habilitar para diferentes cliente.
+Para parceiros que desenvolvem módulos que podem ser reaproveitados em diferentes clientes, a priori a extensão deverá ser copiada para cada repositório. Mas recomendamos entrar em contato com o time de VTEX Sales App para ter sugestões de como habilitar para diferentes clientes.
