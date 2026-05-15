@@ -72,11 +72,11 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação.
 
+> ⚠️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
+
 Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
 **Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações da calculadora vão se relacionar com os dados de checkout, catálogo e inventário da loja na implementação.
-
-> ⚠️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
 
 #### Skills de Extensibilidade VTEX Sales App
 
