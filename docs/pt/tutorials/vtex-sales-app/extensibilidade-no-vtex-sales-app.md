@@ -54,13 +54,13 @@ A tabela a seguir apresenta exemplos de contextos nos quais o lojista se benefic
 
 ## Passo a passo para implementar extensões
 
-Para realizar a implementação da Extensibilidade, siga as orientações desta seção.
+Para realizar a implementação da Extensibilidade, siga as orientações das próximas seções.
 
 > ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
 
 ### Antes de começar
 
-> ℹ️ Recomendamos a instalação das **Skills de Extensibilidade VTEX Sales App**, que desenvolvedores podem instalar como auxílio na fase de definição de projeto, implementação e orientações para o deploy, conforme apresentado na [próxima seção](#skills-de-extensibilidade-vtex-sales-app).
+Recomendamos que desenvolvedores instalem as **Skills de Extensibilidade** nas dependências da loja, para que esta funcionalidade auxilie os lojistas nas etapas de definição e implementação do projeto. Saiba mais na seção [Skills de Extensibilidade VTEX Sales App](#skills-de-extensibilidade-vtex-sales-app).
 
 ### 1. Planejar escopo do projeto
 
