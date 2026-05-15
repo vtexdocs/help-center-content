@@ -36125,12 +36125,12 @@
                   "name": {
                     "en": "Manage Agentic CX",
                     "es": "Instalando a Agentic CX",
-                    "pt": "Configurar o Agentic CX"
+                    "pt": "Manage Agentic CX"
                   },
                   "slug": {
                     "en": "manage-agentic-cx",
                     "es": "instalando-a-agentic-cx",
-                    "pt": "configurar-o-agentic-cx"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
