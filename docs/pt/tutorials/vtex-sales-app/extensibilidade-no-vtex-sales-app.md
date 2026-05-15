@@ -66,7 +66,9 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 ### 2. Mapear experiência do usuário e requisitos técnicos
 
-O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação. Quando o recurso já está implementado no ecommerce, recomendamos à loja proporcionar a mesma experiência de fluxo, para manter a consistência da experiência nos seus canais de venda.
+O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação.
+
+Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
 > ℹ️ Recomendamos a instalação das **Skills de Extensibilidade VTEX Sales App**, que desenvolvedores podem instalar como auxílio na fase de definição de projeto, implementação e orientações para o deploy, conforme apresentado na [próxima seção](#skills-de-extensibilidade-vtex-sales-app).
 
