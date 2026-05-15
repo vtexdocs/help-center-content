@@ -1,5 +1,5 @@
 ---
-title: 'Criar agentes ativos'
+title: 'Criar automações'
 id: 4ijpXwff2x4A44AZw2tMzQ
 status: PUBLISHED
 createdAt: 2025-09-23T17:40:38.123Z
@@ -17,11 +17,11 @@ subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 
 ## Visão geral
 
-Agentes ativos são projetados para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, os agentes ativos podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de um agente ativo é o mesmo utilizado para outros agentes: `weni project push agent_definition.yaml`
+Agentes ativos são projetados para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, as automações podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de umaautomação é o mesmo utilizado para outros agentes: `weni project push agent_definition.yaml`
 
 ## Conceitos Básicos e Estrutura YAML
 
-A definição de um agente ativo é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
+A definição de uma automação é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
 
 - **agents.<id_do_agente>**: identifica o agente
 - **name**: nome de exibição do agente, com limite de 55 caracteres
@@ -41,7 +41,7 @@ O arquivo `result_example.json` deve ser um array de objetos. Cada objeto conté
 
 ## Estrutura do Projeto
 
-Um agente ativo segue uma organização de pastas clara
+Uma automação segue uma organização de pastas clara
 
 ```
 your-project-name/
@@ -197,4 +197,4 @@ Após o pré‑processamento, o agente percorre as regras definidas no YAML em o
 
 Agentes ativos permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável para informar seus clientes no momento certo.
 
-> [Aqui](https://github.com/weni-ai/weni-active-agents-example) você encontrará um exemplo de código de agente ativo.
+> [Aqui](https://github.com/weni-ai/weni-active-agents-example) você encontrará um exemplo de código de automação.
