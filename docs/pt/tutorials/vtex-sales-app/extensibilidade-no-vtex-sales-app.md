@@ -50,7 +50,7 @@ A tabela a seguir apresenta exemplos de contextos nos quais o lojista se benefic
 | :--- | :--- |
 | Integração com serviços ou dados externos | Integração com programas de fidelidade, venda de serviços adicionais (como garantias ou seguros), aplicação de descontos em troca de produtos, comissionamento ou financiamento internos, entre outros. Em geral, são integrações com dados e serviços externos que já são utilizados no ecommerce ou loja física. |
 | Integração com dados da VTEX | Integrar soluções da VTEX que não fazem parte da jornada padrão do Sales App, como o ecossistema de marketplace ou algumas soluções de pagamento, por exemplo. |
-| Centralização de tarefas de vendedores | Permitir que o vendedor capture leads ou consulte determinados dados da gestão da loja, por exemplo. Ao realizar todas suas tarefas cotidianas em uma única plataforma, os vendedores ganham em agilidade e eficiência. |
+| Centralização de tarefas de vendedores | Permitir que o vendedor capture leads ou consulte determinados dados da gestão da loja, entre outros. Ao realizarem todas as tarefas cotidianas em uma única plataforma, os vendedores ganham em agilidade e eficiência. |
 
 ## Passo a passo para implementar extensões
 
