@@ -72,7 +72,7 @@ O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimita
 
 O segundo passo é mapear de forma detalhada os fluxos da experiência do usuário (UX) e os requisitos técnicos para essa implementação.
 
-> ⚠️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos ao lojista designar alguém especializado para esta etapa, como um designer e/ou gestor de produtos.
+> ⚠️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos designar um profissional especializado para esta etapa, como um designer ou gestor de produtos, por exemplo.
 
 Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
