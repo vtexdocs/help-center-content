@@ -80,9 +80,9 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 ### 3. Checar a viabilidade técnica
 
-O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve verificar se a implementação dos requisitos e integrações mapeados são compatíveis com os pontos de extensão, conforme apresentado na [documentação de Extensibilidade para desenvolvedores](#link2).
+O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve verificar se a implementação dos requisitos e integrações mapeados são compatíveis com as especificações dos pontos de extensão, conforme apresentado na [documentação de Extensibilidade para desenvolvedores](#link2).
 
-> ⚠️ Caso seja identificada a inexistência de um hook ou de alguma função obrigatória, recomendamos entrar em contato com nosso [Suporte](https://help.vtex.com/pt/support), descrevendo o caso de uso e necessidades não atendidas.
+> ⚠️ Caso seja identificada a inexistência de alguma função ou configuração obrigatória, recomendamos entrar em contato com nosso [Suporte](https://help.vtex.com/pt/support), descrevendo o caso de uso e as limitações encontradas.
 
 ### 4. Implementação
 
