@@ -74,9 +74,9 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 > ⚠️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos designar para esta etapa um profissional especializado, como um designer ou gestor de produtos, por exemplo.
 
-Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
+**Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite realizar. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações dessa calculadora vão se relacionar com os dados dos sistemas de Checkout, Catálogo e inventário da loja na implementação.
 
-**Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações da calculadora vão se relacionar com os dados de checkout, catálogo e inventário da loja na implementação.
+> ℹ️ Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
 #### Skills de Extensibilidade VTEX Sales App
 
