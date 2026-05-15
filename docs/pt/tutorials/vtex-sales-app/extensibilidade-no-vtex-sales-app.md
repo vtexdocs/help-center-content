@@ -10,13 +10,13 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-A Extensibilidade é a solução que permite às lojas complementarem a jornada de venda padrão no VTEX Sales App com os recursos necessários a sua operação. Este artigo aprensenta as principais características e casos de uso das extensões e orienta como implementar a solução.
+A Extensibilidade é a solução que permite à loja complementar a jornada de venda padrão no VTEX Sales App com os recursos necessários ao seu modelo de negócios. Este artigo aprensenta as principais características e casos de uso das extensões e orienta na sua implementação.
 
 ## Funcionamento da Extensibilidade
 
 A Extensibilidade é uma solução nativa para as lojas VTEX integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
 
-Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos:
+Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos da jormada de venda:
 
 * Carrinho de compras e checkout:
 
@@ -28,7 +28,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
   ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
 
-  > ℹ️ Ao clicar no componente da extensão do menu, é aberto o modal que fica à esquerda da interface. Isso permite às lojas criarem múltiplos fluxos de navegação interna.
+  > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface,o que permite à loja criar múltiplos fluxos de navegação interna.
 
 * Página de detalhes do produto (PDP):
 
