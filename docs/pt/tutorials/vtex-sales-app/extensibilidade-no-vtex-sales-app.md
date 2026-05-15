@@ -38,9 +38,9 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
 Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e contribui para a continuidade das operações da loja. Alguns dos principais objetivos da funcionalidade são:
 
-* **Segurança:** aumentar a segurança com que desenvolvedores implementam códigos.
-* **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações existentes.
-* **Compatibilidade:** preservar a compatibilidade das extensões com customizações, de forma que evoluções do Sales App não comprometam modificações realizadas pela loja.
+* **Segurança:** aumentar a segurança para desenvolvedores na implementação de códigos.
+* **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações.
+* **Compatibilidade:** preservar a compatibilidade das extensões com customizações, de forma que as evoluções do Sales App não comprometam as modificações realizadas pela loja.
 
 ## Casos de uso de extensões
 
