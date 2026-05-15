@@ -36109,14 +36109,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criar automações"
+                    "en": "Creando agentes activos",
+                    "pt": "Creando agentes activos"
                   },
                   "slug": {
-                    "en": "create-active-agents",
                     "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
+                    "en": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create active agents",
+                    "pt": "Criar automações do CX",
+                    "es": "Create active agents"
+                  },
+                  "slug": {
+                    "en": "create-cx-automations",
+                    "pt": "criar-automacoes-do-cx",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36139,14 +36154,14 @@
                 },
                 {
                   "name": {
-                    "pt": "Introdução ao CX",
-                    "en": "Introdução ao CX",
-                    "es": "Introdução ao CX"
+                    "es": "Introducción a Agentic CX",
+                    "en": "Introducción a Agentic CX",
+                    "pt": "Introducción a Agentic CX"
                   },
                   "slug": {
-                    "pt": "introducao-ao-agentic-cx",
+                    "es": "introduccion-a-agentic-ai",
                     "en": "",
-                    "es": ""
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36155,13 +36170,13 @@
                 {
                   "name": {
                     "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
-                    "pt": "Introduction to Agentic CX"
+                    "pt": "Introdução ao CX",
+                    "es": "Introduction to Agentic CX"
                   },
                   "slug": {
                     "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-agentic-ai",
-                    "pt": ""
+                    "pt": "introducao-ao-agentic-cx",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
