@@ -60,7 +60,7 @@ Para realizar a implementação da Extensibilidade, siga as orientações das pr
 
 ### Antes de começar
 
-Recomendamos que desenvolvedores instalem as **Skills de Extensibilidade** nas dependências da loja, para que esta funcionalidade auxilie os lojistas nas etapas de definição e implementação do projeto. Saiba mais na seção [Skills de Extensibilidade VTEX Sales App](#skills-de-extensibilidade-vtex-sales-app).
+Recomendamos que os desenvolvedores instalem as **Skills de Extensibilidade** nas dependências da loja, para auxiliar os lojistas e parceiros nas etapas de definição e implementação do projeto. Saiba mais em [Skills de Extensibilidade VTEX Sales App](#link).
 
 ### 1. Planejar escopo do projeto
 
@@ -77,16 +77,6 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 **Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite realizar. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações dessa calculadora vão se relacionar com os dados dos sistemas de Checkout, Catálogo e inventário da loja na implementação.
 
 > ℹ️ Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
-
-#### Skills de Extensibilidade VTEX Sales App
-
-Temos um MCP (inserir link de como instalar) que desenvolvedores podem instalar para auxiliar na fase de definição de projeto, implementação e orientações para o deploy. Nessa etapa, o MCP é capaz de:
-
-* Levantar os requisitos de experiência: Identificar o que as regras de negócio, fluxo esperados e pontos utilizados.Se já existir um projeto ele pode ser utilizado de exemplo para esse levantamento.  
-* Estruturar Requisitos: Diferenciar claramente as ações esperadas na experiência do usuário (UX) das ações esperadas pela API (Backend).
-* Definir UI dos componentes: o MCP de Extensão já conhece as guidelines de design e pode propor uma interface baseada nos requisitos levantados, acelerando o trabalho do desenvolvedor e sem necessitar de um designer dedicado
-
-> ℹ️ Para mais informações, consulte a documentação [Skills de Extensibilidade VTEX Sales App](#link).
 
 ### 3. Viabilidade Técnica e Feedback
 
