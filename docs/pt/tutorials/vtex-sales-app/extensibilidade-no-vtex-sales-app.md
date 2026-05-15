@@ -56,7 +56,7 @@ A tabela a seguir apresenta exemplos de contextos nos quais o lojista se benefic
 
 Para realizar a implementação da Extensibilidade, siga os passos desta seção.
 
-> ⚠️ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
+> ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa documentação oficial.
 
 ### 1. Planejar escopo do projeto
 
