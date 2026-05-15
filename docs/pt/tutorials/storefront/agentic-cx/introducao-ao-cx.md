@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
-O CX é uma ferramenta nativa da VTEX de atendimento ao cliente com uso de agentes. Esses agentes usam inteligência artifical (IA) para conversar com os seus clientes, exibir o catálogo da sua loja e criar um carrinho, entre outras ações.
+O CX é uma ferramenta nativa da VTEX de atendimento ao cliente com uso de agentes. Esses agentes usam inteligência artificial (IA) para conversar com os seus clientes, exibir o catálogo da sua loja e criar um carrinho, entre outras ações.
 
 ## Configurar o CX
 
@@ -60,7 +60,7 @@ Quando estiver pronto para terminar de configurar, escolha o tipo de ativação 
 
 ### WhatsApp Store
 
-Com o WhatsApp Store, você oferece para seus clientes pagamento Pix integrado, recuperação de carrinhos abadonados, ofertas personalizadas de produtos, entre outros. Essa conexão é feita através da sua conta no Meta for Business. No Meta for Business da sua loja, você poderá criar um número de telefone novo, usar um número de telefone existente na sua conta ou até associar um número pré-verificado à sua conta.
+Com o WhatsApp Store, você oferece para seus clientes pagamento Pix integrado, recuperação de carrinhos abandonados, ofertas personalizadas de produtos, entre outros. Essa conexão é feita através da sua conta no Meta for Business. No Meta for Business da sua loja, você poderá criar um número de telefone novo, usar um número de telefone existente na sua conta ou até associar um número pré-verificado à sua conta.
 
 > ℹ️ Números pré-verificados são números de telefone que já passaram por aprovação da Meta e estão prontos para serem usados pela API do WhatsApp Business. Um número pré-verificado não precisa receber SMS ou ligação para ser ativado. Quando você seleciona um número pré-verificado, ele passa a pertencer à sua conta do WhatsApp Business.
 
@@ -92,11 +92,11 @@ O Dashboard mostra informações sobre o CX e é dividido em duas páginas:
 
 ### Desempenho do time de agentes
 
-A tela de desempenho do time de agentes fornece uma visão geral dos atendimentos, com detalhe como taxa de resolução e nível de satisfação do cliente.
+A tela de desempenho do time de agentes fornece uma visão geral dos atendimentos, com detalhes como taxa de resolução e nível de satisfação do cliente.
 
 - Conversas: Número de conversas gerenciadas por agentes em um mesmo dia (até as 23h59).
 - Taxa de resolução: Porcentagem de conversas que foram resolvidas apenas por agentes. Se uma interação resolvida teve atendimento humano, essa interação não entra nessa taxa.
-- Satisfação do cliente: Porcentagem que revela nível de satisfação dos clientes após atendimento com agentes.
+- Satisfação do cliente: Porcentagem que revela o nível de satisfação dos clientes após atendimento com agentes.
 
 ### Recuperação de carrinho abandonado
 
@@ -117,7 +117,7 @@ A tabela de Auditoria fornece informações individuais de cada atendimento.
 | Dado | Descrição |
 | --- | --- |
 | Nome | Nome do cliente que foi atendido. |
-| Classificação | Status do atendimento. <br> `Assistido por IA`: a interação foi resolvida exclusivamente pelos agentes. <br> `Não assistido`: a interação não pode ser resolvida pelos agentes e passou para atendimento humano. <br> `Em progresso`: a interação ainda não foi analisada. |
+| Classificação | Status do atendimento. <br> `Assistido por IA`: a interação foi resolvida exclusivamente pelos agentes. <br> `Não assistido`: a interação não pôde ser resolvida pelos agentes e passou para atendimento humano. <br> `Em progresso`: a interação ainda não foi analisada. |
 | CSAT | Nota de avaliação do atendimento, de 1 a 5. |
 | Data | Data do atendimento. |
 | Hora | Hora do atendimento. |
