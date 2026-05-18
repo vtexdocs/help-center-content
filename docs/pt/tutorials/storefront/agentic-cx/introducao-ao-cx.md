@@ -23,7 +23,7 @@ Para configurar essa ferramenta na sua loja, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca no topo da página.
 2. Em **CX**, clique em **Dashboard**.
-3. Na tela de onboarding, selecione entre [Escala suporte e eficiência](#escala-suporte-e-eficiência) ou [WhatsApp Store](#whatsapp-store).
+3. Na tela de onboarding, selecione entre [Escala suporte e eficiência](#escala-suporte-e-eficiência) e [WhatsApp Store](#whatsapp-store).
 
 > ℹ️ Essa escolha inicial é apenas para o onboarding. Você pode habilitar a outra opção depois, no menu de Configurações do CX.
 
