@@ -25,21 +25,21 @@ Automações são projetadas para agir de forma proativa com base em regras e co
 
 A definição de uma automação é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
 
-- **agents.<id_do_agente>**: identifica o agente
-- **name**: nome de exibição do agente, com limite de 55 caracteres
-- **description**: descrição do propósito e capacidades do agente
-- **rules**: dicionário de regras que disparam as ações do agente
+- **agents.<id_do_agente>**: identifica o agente.
+- **name**: nome de exibição do agente, com limite de 55 caracteres.
+- **description**: descrição do propósito e capacidades do agente.
+- **rules**: dicionário de regras que disparam as ações do agente.
 - Dentro de **rules.<id_da_regra>**:
-  - **display_name**: nome legível da regra
-  - **template**: template de mensagem HSM a ser usado
-  - **start_condition**: descrição da condição que deve ser atendida para acionar a regra
-  - **source**: define o código a ser executado quando a regra é disparada, com `entrypoint` apontando para a classe/método e `path` para o diretório onde está o código
+  - **display_name**: nome legível da regra.
+  - **template**: template de mensagem HSM a ser usado.
+  - **start_condition**: descrição da condição que deve ser atendida para acionar a regra.
+  - **source**: define o código a ser executado quando a regra é disparada, com `entrypoint` apontando para a classe/método e `path` para o diretório onde está o código.
 - **pre_processing**: define uma etapa de pré‑processamento para preparar dados antes de avaliar as regras com `source` especificando o código e `result_examples_file` apontando para um JSON com exemplos de saída.
 
 O arquivo `result_example.json` deve ser um array de objetos. Cada objeto contém:
 
 - `urn`: identificador único do contato (por exemplo, número de telefone ou ID de usuário).
-- `data`: um dicionário com os dados relevantes para a regra. A estrutura desse dicionário depende das informações que seu agente precisa processar
+- `data`: um dicionário com os dados relevantes para a regra. A estrutura desse dicionário depende das informações que seu agente precisa processar.
 
 ## Estrutura do Projeto
 
@@ -114,7 +114,7 @@ Este arquivo define quatro regras vinculadas aos diferentes status do pedido. Pa
 
 ## Pré‑processamento
 
-A etapa de pré‑processamento é responsável por coletar todos os dados necessários que serão utilizados pelas regras. Somente nesta etapa é permitido realizar requisições HTTP ou outras chamadas externas; por isso, existe um único `requirements.txt` dentro de `pre_processors`. O objeto `PreProcessorContext` contém o payload do webhook e informações do projeto. Os dados do webhook são acessados via `context.payload.get("campo")`. Por exemplo, para obter o `orderId` em um payload como o abaixo, utiliza‑se `context.payload.get("orderId")`
+A etapa de pré‑processamento é responsável por coletar todos os dados necessários que serão utilizados pelas regras. Somente nesta etapa é permitido realizar requisições HTTP ou outras chamadas externas; por isso, existe um único `requirements.txt` dentro de `pre_processors`. O objeto `PreProcessorContext` contém o payload do webhook e informações do projeto. Os dados do webhook são acessados via `context.payload.get("campo")`. Por exemplo, para obter o `orderId` em um payload como o abaixo, utiliza‑se `context.payload.get("orderId")`.
 
 ```json
 {
