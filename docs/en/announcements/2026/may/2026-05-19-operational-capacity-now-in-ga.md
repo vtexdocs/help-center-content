@@ -1,12 +1,12 @@
 ---
 title: 'Operational capacity is now available globally'
 status: PUBLISHED
-createdAt: 2026-04-29T12:00:00.000Z
-updatedAt: 2026-04-29T12:00:00.000Z
+createdAt: 2026-05-19T12:00:00.000Z
+updatedAt: 2026-05-19T12:00:00.000Z
 publishedAt: 2026-04-29T12:00:00.000Z
 contentType: updates
 productTeam: Post-purchase
-slugEN: 2026-04-29-operational-capacity-now-in-ga
+slugEN: 2026-05-19-operational-capacity-now-in-ga
 locale: en
 announcementSynopsisPT: 'The Operational Capacity module, previously in Beta, is now available for all VTEX stores.'
 tags:
@@ -14,9 +14,9 @@ tags:
   - Logistics
 ---
 
-The [Operational capacity](/en/docs/tutorials/operational-capacity-beta) module is now available for all VTEX stores. This feature is designed to help merchants manage sellers' capacity to receive and handle orders. This allows you to monitor order distribution among sellers and make adjustments to optimize the operational flow, enabling a more efficient logistics network.
+The [Operational capacity](/en/docs/tutorials/operational-capacity) module is now available for all VTEX stores. This feature is designed to help merchants manage sellers' capacity to receive and handle orders. This allows you to monitor order distribution among sellers and make adjustments to optimize the operational flow, enabling a more efficient logistics network.
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_1.png)
+![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/capacidade-operacional/capacidade-operacional_1.png)
 
 ## What has changed?
 
