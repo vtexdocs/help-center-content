@@ -17,7 +17,7 @@ subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 
 ## Visão geral
 
-Automações são projetados para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, as automações podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de uma automação é:
+Automações são projetadas para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, as automações podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de uma automação é:
 
 `weni project push agent_definition.yaml`
 
@@ -43,7 +43,7 @@ O arquivo `result_example.json` deve ser um array de objetos. Cada objeto conté
 
 ## Estrutura do Projeto
 
-Uma automação segue uma organização de pastas clara
+Uma automação segue uma organização de pastas clara.
 
 ```
 your-project-name/
