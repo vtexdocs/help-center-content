@@ -1,12 +1,12 @@
 ---
 title: 'Capacidad operativa disponible a nivel global'
 status: PUBLISHED
-createdAt: 2026-04-29T12:00:00.000Z
-updatedAt: 2026-04-29T12:00:00.000Z
+createdAt: 2026-05-19T12:00:00.000Z
+updatedAt: 2026-05-19T12:00:00.000Z
 publishedAt: 2026-04-29T12:00:00.000Z
 contentType: updates
 productTeam: Post-purchase
-slugEN: 2026-04-29-operational-capacity-now-in-ga
+slugEN: 2026-05-19-operational-capacity-now-in-ga
 locale: es
 announcementSynopsisPT: 'El módulo Capacidad operativa, antes en fase beta, ahora está disponible para todas las tiendas VTEX.'
 tags:
@@ -14,9 +14,9 @@ tags:
   - Logística
 ---
 
-El módulo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional-beta) ya está disponible para todas las tiendas VTEX. Esta funcionalidad ha sido diseñada para ayudarte a gestionar la capacidad de los sellers para recibir y preparar pedidos. Con esta herramienta, puedes monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.
+El módulo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional) ya está disponible para todas las tiendas VTEX. Esta funcionalidad ha sido diseñada para ayudarte a gestionar la capacidad de los sellers para recibir y preparar pedidos. Con esta herramienta, puedes monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_1.png)
+![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envio/capacidad-operacional/capacidad-operacional_1.png)
 
 ## ¿Qué cambió?
 
@@ -28,4 +28,4 @@ No es necesaria ninguna acción, ya que las tiendas VTEX de todas las regiones y
 
 > ⚠️ El requisito para usar la funcionalidad es tener [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) asociadas a la [cuenta principal](/es/docs/tracks/cuentas-y-arquitectura).
 
-Para más detalles, consulta el artículo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional-beta).
+Para más detalles, consulta el artículo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional).
