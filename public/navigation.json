@@ -39,21 +39,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Operational capacity is now available globally",
-                    "es": "Capacidad operativa disponible a nivel global",
-                    "pt": "Capacidade operacional disponível globalmente"
-                  },
-                  "slug": {
-                    "en": "2026-04-29-operational-capacity-now-in-ga",
-                    "es": "2026-04-29-operational-capacity-now-in-ga",
-                    "pt": "2026-04-29-capacidade-operacional-disponivel-em-ga"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Support for alphanumeric company registration number validation in Master Data v1",
                     "es": "Soporte para la validación de nro. de registro de persona jurídica alfanumérico en Master Data v1",
                     "pt": "Suporte à validação de CNPJ alfanumérico no Master Data v1"
@@ -245,6 +230,37 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "may",
+                "es": "mayo",
+                "pt": "maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity is now available globally",
+                    "es": "Capacidad operativa disponible a nivel global",
+                    "pt": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "en": "2026-05-19-operational-capacity-now-in-ga",
+                    "es": "2026-05-19-operational-capacity-now-in-ga",
+                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
                   },
                   "origin": "",
                   "type": "markdown",
