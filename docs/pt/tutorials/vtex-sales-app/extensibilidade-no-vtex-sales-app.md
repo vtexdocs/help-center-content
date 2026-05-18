@@ -14,7 +14,7 @@ A Extensibilidade é a funcionalidade que permite à loja complementar a jornada
 
 ## Funcionamento da Extensibilidade
 
-A Extensibilidade é uma solução nativa para as lojas integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
+A Extensibilidade é uma solução nativa para as lojas se integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
 
 Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos da jornada de venda:
 
