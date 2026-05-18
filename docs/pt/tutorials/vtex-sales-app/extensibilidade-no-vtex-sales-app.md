@@ -10,7 +10,7 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-A Extensibilidade é a funcionalidade que permite à loja complementar a jornada de venda padrão no VTEX Sales App com os recursos necessários ao seu modelo de negócios. Este artigo aprensenta as principais características e casos de uso das extensões e orienta na sua implementação.
+A Extensibilidade é a funcionalidade que permite à loja complementar a jornada de venda padrão no VTEX Sales App com os recursos necessários ao seu modelo de negócios. Este artigo apresenta as principais características e casos de uso das extensões e orienta na sua implementação.
 
 ## Funcionamento da Extensibilidade
 
@@ -28,7 +28,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
   ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
 
-  > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface, o que permite à loja criar múltiplos fluxos de navegação interna.
+  > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface, o que permite à loja criar múltiplos fluxos de navegação internos.
 
 * Página de detalhes do produto (PDP):
 
@@ -64,7 +64,7 @@ Recomendamos que desenvolvedores instalem as **Skills de Extensibilidade**, que 
 
 ### 1. Planejar escopo do projeto
 
-O primeiro passo é de planejamento, no qual o lojista ou parceiro deve delimitar o escopo do que será implementado.
+O primeiro passo é o planejamento, no qual o lojista ou parceiro deve delimitar o escopo do que será implementado.
 
 **Exemplo:** uma loja vende material para construção e o escopo do seu projeto será adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente da loja descobre que precisará comprar 16 quilogramas (kg) de argamassa para quatro metros quadrados.
 
@@ -74,7 +74,7 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 > ⚠️ Caso o projeto tenha fluxos e requisitos muito complexos, recomendamos designar para esta etapa um profissional especializado, como um designer ou gestor de produtos, por exemplo.
 
-**Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora na fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite realizar. O mapeamento dos requisitos técnicos envolveriam detalhar como as operações dessa calculadora vão se relacionar com os dados dos sistemas de Checkout, Catálogo e inventário da loja na implementação.
+**Exemplo:** na loja de material para construção, de forma simplificada, o mapeamento incluiria como o usuário acessa a calculadora no fluxo de compra, como a calculadora aparece no storefront e quais cálculos ela permite realizar. O mapeamento dos requisitos técnicos envolveria detalhar como as operações dessa calculadora vão se relacionar com os dados dos sistemas de Checkout, Catálogo e Inventário da loja na implementação.
 
 > ℹ️ Quando o recurso já está implementado no ecommerce, a experiência do usuário no Sales App deve ser a mais similar possível, para manter a consistência da experiência nos canais de venda da loja.
 
