@@ -267,6 +267,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "may",
+                "es": "mayo",
+                "pt": "maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity is now available globally",
+                    "es": "Capacidad operativa disponible a nivel global",
+                    "pt": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "en": "2026-05-19-operational-capacity-now-in-ga",
+                    "es": "2026-05-19-operational-capacity-now-in-ga",
+                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
