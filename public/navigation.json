@@ -38420,6 +38420,37 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Retail media",
+            "es": "Retail media",
+            "pt": "Retail media"
+          },
+          "slug": {
+            "en": "retail-media",
+            "es": "retail-media",
+            "pt": "retail-media"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Campaign strategies",
+                "es": "Estrategias de campaña",
+                "pt": "Estratégias de campanha"
+              },
+              "slug": {
+                "en": "campaign-strategies",
+                "es": "estrategias-de-campana",
+                "pt": "estrategias-de-campanha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
         }
       ]
     },
