@@ -84,22 +84,8 @@ O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o dese
 
 > ⚠️ Caso seja identificada a inexistência de alguma função ou configuração obrigatória, recomendamos entrar em contato com nosso [Suporte](https://help.vtex.com/pt/support), descrevendo o caso de uso e as limitações encontradas.
 
-### 4. Implementação
+### 4. Implementar o projeto
 
-Após o planejamento o desenvolver deve implementar, podendo rodar de maneira local o projeto, em uma conta VTEX com o Sales App instalado e configurado. Geralmente o merchant, parceiras e agencias já possuem essa conta. Caso contrário, será necessário instalar o Sales App na sua conta VTEX.
+Por fim, o desenvolvedor implementa as extensões, conforme descrito na [documentação técnica de Extensibilidade](#link3). Recomendamos validar a implementação com testes locais antes de disponibilizar as extensões para os clientes da loja.
 
-Dica: MCP de Extensibilidade
-
-O MCP também pode ajudar na etapa de implementação, com um planejamento e especificações bem definidas, ele poderá desenvolver o front e guiar às integrações necessárias. Ele conhece os hooks e funções, além de toda documentação de extensão, faststore, sales app e VTEX.
-
-### 5. Deploy
-
-Depois que o fluxo estiver testado e validado. O deploy na conta em desenvolvimento pode ser feito seguindo a documentação.
-
-Dica: MCP de Extensibilidade
-
-O MCP também é capaz de guiar o desenvolvedor com o passo a passo para deploy.
-
-> Recomendações para Parceiros com múltiplos clientes utilizando a extensão
-
-Para parceiros que desenvolvem módulos que podem ser reaproveitados em diferentes clientes, a priori a extensão deverá ser copiada para cada repositório. Mas recomendamos entrar em contato com o time de VTEX Sales App para ter sugestões de como habilitar para diferentes clientes.
+> ℹ️ As **Skills de Extensibilidade** podem auxiliar na etapa de implementação do projeto. Saiba mais em [Skills de Extensibilidade VTEX Sales App](#link4).
