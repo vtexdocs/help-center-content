@@ -34634,12 +34634,12 @@
             {
               "name": {
                 "en": "Operational capacity",
-                "es": "Capacidad operativa",
+                "es": "Capacidad operacional",
                 "pt": "Capacidade operacional"
               },
               "slug": {
                 "en": "operational-capacity-category",
-                "es": "capacidad-operativa-category",
+                "es": "capacidad-operacional-category",
                 "pt": "capacidade-operacional-category"
               },
               "origin": "",
@@ -34653,7 +34653,7 @@
                   },
                   "slug": {
                     "en": "operational-capacity",
-                    "es": "capacidad-operativa",
+                    "es": "capacidad-operacional",
                     "pt": "capacidade-operacional"
                   },
                   "origin": "",
