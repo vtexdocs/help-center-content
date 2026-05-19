@@ -1,5 +1,5 @@
 ---
-title: 'Por que el buscador de VTEX ignora algunos términos buscados'
+title: 'Por qué la Búsqueda Legada ignora algunos términos buscados'
 id: 2AbmsbKOogeaeuoESGaWAs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.346Z
@@ -11,12 +11,12 @@ productTeam: Marketing & Merchandising
 author: authors_31
 slugEN: why-legacy-search-engine-ignores-some-terms
 locale: es
-legacySlug: por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados
+legacySlug: por-que-la-busqueda-legada-ignora-algunos-terminos-buscados
 ---
 
 > ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La Búsqueda Legada y VTEX Intelligent Search. Este artículo se refiere a la Búsqueda Legada. Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-El artículo [Cómo funciona la búsqueda de VTEX?](/es/docs/tutorials/como-funciona-la-busqueda-legada) demuestra las principales reglas que el algoritmo del buscador utiliza para exhibir y priorizar los productos a partir de un término buscado.
+El artículo [Cómo funciona la Búsqueda Legada?](/es/docs/tutorials/como-funciona-la-busqueda-legada) demuestra las principales reglas que el algoritmo del buscador utiliza para exhibir y priorizar los productos a partir de un término buscado.
 
 Si su caso no se encaja en los escenarios descritos en ese artículo, probablemente es porque el término buscado que le trajo a usted hasta aquí está en la lista de palabras bloqueadas del buscador de VTEX.
 
