@@ -46,7 +46,7 @@ Para criar uma landing page com URL customizada, siga os passos abaixo:
 3. Clique no website desejado.
 4. Clique na pasta raiz (`/`).
 5. Decida se você vai configurar o Contexto de Busca em:
-   - [Uma página que já existe no seu web site](#configurar-contexto-de-busca-em-pagina-existente)
+   - [Uma página que já existe no seu website](#configurar-contexto-de-busca-em-pagina-existente)
    - [Uma nova página a ser criada](#configurar-contexto-de-busca-em-nova-pagina)
 
 >⚠️ A busca legada renderiza uma landing page quando o termo buscado corresponde exatamente ao nome de uma pasta configurada no CMS. Para que essa pasta seja buscável, ela precisa ter um [layout](/pt/docs/tutorials/o-que-sao-layouts) associado, assim como a pasta pai. Em estruturas com mais de um nível de diretório, como `/pasta1/landing-page`, esse comportamento pode não funcionar como esperado, e a busca pode retornar uma página 404.
