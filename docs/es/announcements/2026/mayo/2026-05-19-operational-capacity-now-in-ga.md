@@ -16,7 +16,7 @@ tags:
 
 El módulo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional) ya está disponible para todas las tiendas VTEX. Esta funcionalidad ha sido diseñada para ayudarte a gestionar la capacidad de los sellers para recibir y preparar pedidos. Con esta herramienta, puedes monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envio/capacidad-operacional/capacidad-operacional_1.png)
+![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envio/capacidad-operativa/capacidad-operativa_1.png)
 
 ## ¿Qué cambió?
 
@@ -28,4 +28,4 @@ No es necesaria ninguna acción, ya que las tiendas VTEX de todas las regiones y
 
 > ⚠️ El requisito para usar la funcionalidad es tener [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) asociadas a la [cuenta principal](/es/docs/tracks/cuentas-y-arquitectura).
 
-Para más detalles, consulta el artículo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional).
+Para más detalles, consulta el artículo [Capacidad operativa](/es/docs/tutorials/capacidad-operativa).
