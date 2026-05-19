@@ -21,7 +21,9 @@ O buscador usado pelas lojas do CMS Portal (Legado) é customizável e permite a
 
 Como esses filtros são aplicados na URL, buscas mais complexas podem gerar endereços pouco amigáveis e de menor relevância para os crawlers dos buscadores, como o Google.
 
-Para contornar esse cenário, as pastas do CMS têm o campo `Search Context (Default)`, que define quais filtros de busca serão aplicados à página vinculada à pasta. Se uma pasta tiver um valor configurado em `Search Context (Default)`, ele substituirá qualquer parâmetro de busca informado diretamente na URL. Isso significa que filtros e ordenação, incluindo o parâmetro `O`, não serão aplicados à página. Com essa configuração, o CMS carrega os resultados esperados sem expor os filtros na URL, criando uma rota mais amigável.
+Para contornar esse cenário, as pastas do CMS têm o campo `Search Context (Default)`, que define quais filtros de busca serão aplicados à página vinculada à pasta. Com essa configuração, o CMS carrega os resultados esperados sem expor os filtros na URL, criando uma rota mais amigável.
+
+>ℹ️ Se uma pasta tiver um valor configurado em `Search Context (Default)`, ele substituirá qualquer parâmetro de busca informado diretamente na URL. Isso significa que filtros e ordenação, incluindo o parâmetro `O`, não serão aplicados à página. 
 
 Neste guia, você aprenderá a usar o **Contexto de Busca** para associar uma busca a uma pasta do CMS e exibir seus resultados em uma URL amigável.
 
@@ -47,6 +49,8 @@ Para criar uma landing page com URL customizada, siga os passos abaixo:
    - [Uma página que já existe no seu web site](#configurar-contexto-de-busca-em-pagina-existente)
    - [Uma nova página a ser criada](#configurar-contexto-de-busca-em-nova-pagina)
 
+>⚠️ A busca legada renderiza uma landing page quando o termo buscado corresponde exatamente ao nome de uma pasta configurada no CMS. Para que essa pasta seja buscável, ela precisa ter um [layout](/pt/docs/tutorials/o-que-sao-layouts) associado, assim como a pasta pai. Em estruturas com mais de um nível de diretório, como `/pasta1/landing-page`, esse comportamento pode não funcionar como esperado, e a busca pode retornar uma página 404.
+
 ### Configurar Contexto de Busca em página existente
 
 Após clicar na pasta raiz (`/`), siga as instruções a seguir:
@@ -71,5 +75,3 @@ Após clicar na pasta raiz (`/`), siga as instruções a seguir:
    * **Authentication Required?:** define se a página só poderá ser acessada após a autenticação do usuário. Se essa opção estiver ativada, apenas usuários autenticados poderão acessar a página.
 8. Clique em `Save Folder` para salvar a nova página.
 9. Acesse a URL da pasta configurada e verifique se a página exibe os produtos esperados. A landing page estará disponível na URL `https://www.{accountName}.com/{landing-page}`, onde `{accountName}` é o nome da sua loja e `{landing-page}` é o nome da pasta criada no CMS com o Contexto de Busca configurado.
-
->⚠️ A busca legada renderiza uma landing page quando o termo buscado corresponde exatamente ao nome de uma pasta configurada no CMS. Para que essa pasta seja buscável, ela precisa ter um [layout](/pt/docs/tutorials/o-que-sao-layouts) associado, assim como a pasta pai. Em estruturas com mais de um nível de diretório, como `/pasta1/landing-page`, esse comportamento pode não funcionar como esperado, e a busca pode retornar uma página 404.
