@@ -1,5 +1,5 @@
 ---
-title: 'Cómo funciona la búsqueda de VTEX'
+title: 'Cómo funciona la Búsqueda Legada'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2017-04-27T23:03:37.560Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: how-does-vtex-search-work
-legacySlug: como-funciona-la-busqueda-de-vtex
+slugEN: how-does-legacy-search-work
+legacySlug: como-funciona-la-busqueda-legada
 locale: es
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
 Este artículo tiene el objetivo de describir el funcionamiento del sistema de búsqueda de VTEX.
 
-> ⚠️ VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX presenta dos opciones de búsqueda - La Búsqueda Legada y VTEX Intelligent Search. Este artículo se refiere a la Búsqueda Legada. Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 ## Cómo el buscador de VTEX prioriza la exhibición de productos
 
@@ -73,7 +73,7 @@ Para entender la búsqueda de VTEX, inicialmente es necesario saber cómo funcio
 
 El indexador del catálogo es una base de datos escalable de acceso rápido, con algoritmos configurables de priorización de resultados. Está posicionado entre la base de datos convencional y el usuario. Vea el siguiente esquema:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/búsqueda/como-funciona-la-busqueda-de-vtex_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/búsqueda/como-funciona-la-busqueda-legada_1.png)
 
 En el indexador encontramos todas las informaciones referentes al catálogo de productos (productos, SKUs, marcas, departamentos, categorías). El buscador utiliza estas informaciones para localizar los productos y mostrarlos en las vitrinas y los resultados de búsqueda. Por lo tanto, __solamente los productos indexados pueden ser encontrados por la búsqueda__.
 

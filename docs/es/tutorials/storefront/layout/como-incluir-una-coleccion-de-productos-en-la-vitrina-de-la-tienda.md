@@ -50,7 +50,7 @@ Recuerde guardar antes de buscar o cambiar páginas.
 El siguiente paso es agregar el contenido seleccionando **Add Content**.
 ![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_7.png)
 
-Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/docs/tutorials/como-funciona-la-busqueda-de-vtex)).
+Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/docs/tutorials/como-funciona-la-busqueda-legada)).
 
 Los contenidos que deben cumplimentarse **Content** son:
 _Content_: nombre que identificará cada conjunto de elementos

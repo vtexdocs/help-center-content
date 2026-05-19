@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a busca da VTEX'
+title: 'Como funciona a Busca Legada'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2017-04-27T23:03:37.560Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: how-does-vtex-search-work
-legacySlug: como-funciona-a-busca-da-vtex
+slugEN: how-does-legacy-search-work
+legacySlug: como-funciona-a-busca-legada
 locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-Este artigo tem o objetivo de descrever o funcionamento do sistema de busca da VTEX.
+Este artigo tem o objetivo de descrever o funcionamento do sistema de Busca Legada.
 
-> ⚠️ A VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ A VTEX apresenta duas opções da busca - a Busca Legada e o VTEX Intelligent Search. Esse artigo se refere à Busca Legada. Para saber mais sobre o VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 ## Como o buscador da VTEX prioriza a exibição de produtos
 
@@ -68,13 +68,13 @@ A vitrine é montada com base nessa pontuação, em ordem decrescente, ou seja, 
 
 ## Como funciona a busca
 
-Para entender a busca da VTEX, inicialmente é preciso saber como funciona o indexador e o seu processo de atualização.
+Para entender a Busca Legada, inicialmente é preciso saber como funciona o indexador e o seu processo de atualização.
 
 ### Indexador do catálogo
 
 O indexador do catálogo é uma base de dados escalável de acesso rápido, com algorítimos configuráveis de priorização de resultado. Ele está posicionado entre o banco de dados convencional e o usuário. Veja o esquema abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/busca/como-funciona-a-busca-da-vtex_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/busca/como-funciona-a-busca-legada_1.png)
 
 No indexador encontramos todas as informações referentes ao catálogo de produtos (produtos, SKUs, marcas, departamentos, categorias). O buscador utiliza essas informações para localizar os produtos e exibi-los nas vitrines e resultados de busca. Portanto, somente os produtos indexados podem ser encontrados pela busca.
 

@@ -8806,6 +8806,21 @@
             },
             {
               "name": {
+                "en": "Why Legacy Search engine ignores some terms",
+                "es": "Por qué la Búsqueda Legada ignora algunos términos buscados",
+                "pt": "Por que a Busca Legada ignora alguns termos buscados"
+              },
+              "slug": {
+                "en": "why-legacy-search-engine-ignores-some-terms",
+                "es": "por-que-la-busqueda-legada-ignora-algunos-terminos-buscados",
+                "pt": "por-que-a-busca-legada-ignora-alguns-termos-buscados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Why the List Price does not appear on my store's front end?",
                 "es": "¿Por qué el precio de lista no aparece en el front-end de mi tienda?",
                 "pt": "Por que o Preço de Lista não aparece no front-end da minha loja?"
@@ -8814,21 +8829,6 @@
                 "en": "why-the-price-list-does-not-appear-on-my-store-fron-end",
                 "es": "por-que-el-precio-de-lista-no-aparece-en-el-front-end-de-mi-tienda",
                 "pt": "por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why VTEX search engine ignores some terms",
-                "es": "Por que el buscador de VTEX ignora algunos términos buscados",
-                "pt": "Por que o buscador da VTEX ignora alguns termos buscados"
-              },
-              "slug": {
-                "en": "why-vtex-search-engine-ignores-some-terms",
-                "es": "por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados",
-                "pt": "por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados"
               },
               "origin": "",
               "type": "markdown",
@@ -20023,14 +20023,14 @@
                 },
                 {
                   "name": {
-                    "en": "How VTEX search works",
-                    "es": "Cómo funciona la búsqueda de VTEX",
-                    "pt": "Como funciona a busca da VTEX"
+                    "en": "How Legacy Search works",
+                    "es": "Cómo funciona la Búsqueda Legada",
+                    "pt": "Como funciona a Busca Legada"
                   },
                   "slug": {
-                    "en": "how-does-vtex-search-work",
-                    "es": "como-funciona-la-busqueda-de-vtex",
-                    "pt": "como-funciona-a-busca-da-vtex"
+                    "en": "how-does-legacy-search-work",
+                    "es": "como-funciona-la-busqueda-legada",
+                    "pt": "como-funciona-a-busca-legada"
                   },
                   "origin": "",
                   "type": "markdown",

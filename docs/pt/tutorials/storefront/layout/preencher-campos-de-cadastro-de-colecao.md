@@ -25,7 +25,7 @@ Para entender melhor o significado dos campos de cadastro de uma coleção de pr
 
 - __Highlight?__: essa opção deve ser marcada para que a coleção seja destacada na sua loja, através do controle `$product.HightLight`. Para entender melhor sobre o uso desse controle, acesse nosso artigo [Controles do template de prateleira](/pt/tutorial/controles-do-template-de-prateleira--tutorials_550).
 
-- __Searchable?__: essa opção deve ser marcada para que a coleção possa ser retornada na [API de Busca da VTEX](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
+- __Searchable?__: essa opção deve ser marcada para que a coleção possa ser retornada na [API de Busca Legada](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
 
 - __From/To__: intervalo de tempo em que a coleção de produtos estará ativa na sua loja. 
 

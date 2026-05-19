@@ -14,19 +14,19 @@ locale: en
 legacySlug: why-does-a-search-term-not-return-existing-products
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - Legacy Search and VTEX Intelligent Search. This article refers to the Legacy Search. To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 
-The article [How does VTEX search work?](/en/docs/tutorials/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
+The article [How does Legacy Search work?](/en/docs/tutorials/how-does-legacy-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
 
-If your case does not fit the scenarios described in this article, probably it’s because the search term that brought you here is on the list of blocked words on the VTEX search engine.
+If your case does not fit the scenarios described in this article, probably it’s because the search term that brought you here is on the list of blocked words on the Legacy Search engine.
 
 It’s common for people to use pronouns, articles, adverbs, etc., when doing an e-commerce search. However, some of these terms do not make sense when cataloging a product.
 
 For example:
 If a user looks for the term "A pair of Nike sneakers", for the search engine, the words "A" and "of" are not important. However, the words "sneakers" and "Nike" are. So, the search engine ignores the words that are not important and applies the search using only the important terms.
 
-Thus, the VTEX search engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
+Thus, the Legacy Search engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
 
 If you need to use in your products words that perhaps are not important for the search engine, several good practices exist:
 
