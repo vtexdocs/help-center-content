@@ -18232,21 +18232,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Operational capacity (Beta)",
-                    "es": "Capacidad operativa (beta)",
-                    "pt": "Capacidade operacional (Beta)"
-                  },
-                  "slug": {
-                    "en": "operational-capacity-beta",
-                    "es": "capacidad-operacional-beta",
-                    "pt": "capacidade-operacional-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -34608,6 +34593,37 @@
                     "en": "ready-to-dispatch",
                     "es": "listos-para-despacho",
                     "pt": "pronto-para-envio"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Operational capacity",
+                "es": "Capacidad operacional",
+                "pt": "Capacidade operacional"
+              },
+              "slug": {
+                "en": "operational-capacity-category",
+                "es": "capacidad-operacional-category",
+                "pt": "capacidade-operacional-category"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity",
+                    "es": "Capacidad operativa",
+                    "pt": "Capacidade operacional"
+                  },
+                  "slug": {
+                    "en": "operational-capacity",
+                    "es": "capacidad-operacional",
+                    "pt": "capacidade-operacional"
                   },
                   "origin": "",
                   "type": "markdown",
