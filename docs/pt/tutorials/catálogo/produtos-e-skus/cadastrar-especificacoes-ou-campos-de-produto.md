@@ -118,7 +118,7 @@ Confira a tabela a seguir para obter detalhes sobre os tipos de campo de produto
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a busca da VTEX?](/pt/docs/tutorials/como-funciona-a-busca-da-vtex/).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a Busca Legada?](/pt/docs/tutorials/como-funciona-a-busca-legada/).</td>
   </tr>
 </tbody>
 </table>

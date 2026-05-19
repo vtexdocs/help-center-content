@@ -27,7 +27,7 @@ Si tu tienda ha sido desarrollada con [Store Framework](https://developers.vtex.
 
 | Componente | Descripción |
 | :---- | :---- |
-| [Search Result](https://developers.vtex.com/docs/guides/vtex-search-result)  | Procesa los resultados obtenidos por la API de Intelligent Search y los muestra a los usuarios. Este componente exporta todos los bloques de la tienda que se esperan en una página de resultados de búsqueda, como filtros y galería de productos. |
+| [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result)  | Procesa los resultados obtenidos por la API de Intelligent Search y los muestra a los usuarios. Este componente exporta todos los bloques de la tienda que se esperan en una página de resultados de búsqueda, como filtros y galería de productos. |
 | [Search Bar](https://developers.vtex.com/docs/apps/vtex.store-components/SearchBar) | Muestra una barra de búsqueda y presenta los productos correspondientes. |
 | [Search](https://developers.vtex.com/docs/apps/vtex.search) | Proporciona elementos de interfaz que mejoran la experiencia de búsqueda, como la funcionalidad Autocomplete y otros bloques opcionales. |
 | ↪ [Autocomplete](https://developers.vtex.com/docs/apps/vtex.search/Autocomplete) | Sugiere resultados mientras el usuario escribe. Muestra los resultados de búsquedas anteriores basados en búsquedas actuales y pasadas, presentados en cuatro listas: Últimas búsquedas efectuadas Sugerencia de búsqueda Sugerencia de productos Términos más buscados Aprende más sobre el comportamiento de este componente en la guía [Autocomplete](/es/docs/tutorials/autocomplete). |

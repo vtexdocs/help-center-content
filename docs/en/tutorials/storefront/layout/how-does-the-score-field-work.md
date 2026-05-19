@@ -25,16 +25,16 @@ We recommend defining the score at the product level, as your window display con
 
 For example, you could use the score for specific events, such as when your store needs to display some products rather than others to ensure their visibility.
 
-## Score in the VTEX search
+## Score in the Legacy Search
 
-If your store uses the [VTEX search](/en/docs/tutorials/how-does-vtex-search-work), you can use the parameters below to implement sorting by score:
+If your store uses the [Legacy Search](/en/docs/tutorials/how-does-legacy-search-work), you can use the parameters below to implement sorting by score:
 
 - **Ascending order **(products with lower scores are displayed at the top)**:** `?O=OrderByScoreASC`
 - **Descending order **(products with the highest score are displayed at the top)**:** `?O=OrderByScoreDESC`
 
 ## Score in VTEX Intelligent Search
 
-The `OrderByScoreASC` and `OrderByScoreDESC` parameters are not supported by[ VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), only by the [VTEX search](/en/docs/tutorials/how-does-vtex-search-work).
+The `OrderByScoreASC` and `OrderByScoreDESC` parameters are not supported by[ VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), only by the [Legacy Search](/en/docs/tutorials/how-does-legacy-search-work).
 
 [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) does not allow direct sorting of products by the score defined in the **Score** field. When using one of these parameters in VTEX Intelligent Search, the default sorting will be by[ relevance](/en/docs/tutorials/relevance-rules).
 
