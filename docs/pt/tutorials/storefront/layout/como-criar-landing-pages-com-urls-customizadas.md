@@ -43,7 +43,7 @@ Para criar uma landing page com URL customizada, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout** para abrir a seção **Layout**.
 2. Na seção **Layout**, acesse **CMS > Sites and Channels**.
-3. Clique no web site desejado.
+3. Clique no website desejado.
 4. Clique na pasta raiz (`/`).
 5. Decida se você vai configurar o Contexto de Busca em:
    - [Uma página que já existe no seu web site](#configurar-contexto-de-busca-em-pagina-existente)
