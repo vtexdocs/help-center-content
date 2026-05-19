@@ -12,7 +12,7 @@
 - Prefer tutorials/tracks with **Admin steps** and operational configuration over conceptual landing pages.
 - Use **Troubleshooting** for symptoms; **FAQ** for short Q&A; **tutorials** for how-to setup.
 - **Do not** treat Help Center as the primary source for APIs, OpenAPI, GraphQL, webhooks, SDKs, or VTEX IO app development — use Developer Portal (bottom).
-- Before legacy/beta guidance: confirm store stack (Legacy CMS vs Site Editor vs headless; Checkout v6; MD v1 vs v2).
+- Before legacy/beta guidance: confirm store stack (Legacy CMS vs Site Editor vs headless; Checkout v6).
 - Avoid tag pages, search results, and marketing URLs.
 
 ## Product and area facets
