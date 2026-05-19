@@ -102,6 +102,37 @@
             },
             {
               "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "2026-june",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "New ROAS calculation methodology for Sponsored Products",
+                    "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
+                    "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
+                  },
+                  "slug": {
+                    "en": "2026-06-20-new-roas-calculation-methodology-for-sponsored-products",
+                    "es": "2026-06-20-nueva-metodologia-calculo-roas-productos-patrocinados",
+                    "pt": "2026-06-20-nova-metodologia-calculo-roas-produtos-patrocinados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "March",
                 "es": "Marzo",
                 "pt": "Março"
