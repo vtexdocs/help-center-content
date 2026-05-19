@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "2026-may",
+                "es": "2026-mayo",
+                "pt": "2026-maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity is now available globally",
+                    "es": "Capacidad operativa disponible a nivel global",
+                    "pt": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "en": "2026-05-19-operational-capacity-now-in-ga",
+                    "es": "2026-05-19-capacidad-operativa-disponible-nivel-global",
+                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
@@ -123,37 +154,6 @@
                     "en": "2026-03-06-amazon-price-suggestion",
                     "es": "2026-03-06-amazon-sugerencia-de-precios",
                     "pt": "2026-03-06-amazon-sugestao-de-precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "May",
-                "es": "Mayo",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "2026-may",
-                "es": "2026-mayo",
-                "pt": "2026-maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Operational capacity is now available globally",
-                    "es": "Capacidad operativa disponible a nivel global",
-                    "pt": "Capacidade operacional disponível globalmente"
-                  },
-                  "slug": {
-                    "en": "2026-05-19-operational-capacity-now-in-ga",
-                    "es": "2026-05-19-capacidad-operativa-disponible-nivel-global",
-                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
                   },
                   "origin": "",
                   "type": "markdown",
