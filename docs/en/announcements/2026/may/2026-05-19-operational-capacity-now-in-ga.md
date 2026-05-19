@@ -16,7 +16,7 @@ tags:
 
 The [Operational capacity](/en/docs/tutorials/operational-capacity) module is now available for all VTEX stores. This feature is designed to help merchants manage sellers' capacity to receive and handle orders. This allows you to monitor order distribution among sellers and make adjustments to optimize the operational flow, enabling a more efficient logistics network.
 
-![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/operational-capacity/operational-capacity_1.png)
+![operational_capacity_image_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/operational-capacity/operational-capacity_1.png)
 
 ## What has changed?
 
