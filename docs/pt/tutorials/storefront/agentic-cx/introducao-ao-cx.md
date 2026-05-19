@@ -29,16 +29,16 @@ Para configurar essa ferramenta na sua loja, siga os passos abaixo:
 
 ### Escala suporte e eficiência
 
-A ferramenta Escala suporte e eficiência usa agentes para oferecer suporte aos seus clientes, como:
+A ferramenta **Escala suporte e eficiência** usa agentes para oferecer suporte aos seus clientes, como:
 
-- Concierge de catálogo: recomenda produtos baseados no perfil de cada cliente.
-- Agente de cancelamentos: cancela a compra do cliente.
-- Agente de status de pedidos: mostra ao cliente o status do pedido realizado.
-- Agente de FAQ inteligente: responde perguntas do cliente a partir da base de dados da loja, como estoque, valor, entre outros.
+- **Concierge de catálogo:** recomenda produtos baseados no perfil de cada cliente.
+- **Agente de cancelamentos:** cancela a compra do cliente.
+- **Agente de status de pedidos:** mostra ao cliente o status do pedido realizado.
+- **Agente de FAQ inteligente:** responde perguntas do cliente a partir da base de dados da loja, como estoque, valor, entre outros.
 
 Para ativar essa ferramenta, siga os passos abaixo:
 
-1. Clique no card Escala suporte e eficiência.
+1. Clique no card **Escala suporte e eficiência**.
 2. Selecione a URL da loja que vai ser sua fonte de dados.
 3. Clique em `Confirmar`.
 4. A etapa de ativação da ferramenta é automática. Se quiser, pode pular clicando em `Pular`.
