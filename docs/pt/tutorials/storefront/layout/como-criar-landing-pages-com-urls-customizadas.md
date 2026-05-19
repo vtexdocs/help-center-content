@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial é válido apenas para lojas do CMS Portal (Legado) e para a busca legada. Se sua loja usa o VTEX Intelligent Search, consulte a trilha [Intelligent Search](/docs/tracks/overview-intelligent-search).
+> ⚠️ Este tutorial é válido apenas para lojas do CMS Portal (Legado) e para a busca legada. Se sua loja usa o VTEX Intelligent Search, consulte a trilha [Intelligent Search](en/docs/tracks/overview-intelligent-search).
 
 O buscador usado pelas lojas do CMS Portal (Legado) é customizável e permite aplicar filtros por departamento, categoria, marca, coleção, especificação e SKU, entre outros.
 
