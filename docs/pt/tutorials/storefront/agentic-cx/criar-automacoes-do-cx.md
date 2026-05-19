@@ -193,7 +193,7 @@ Os templates de mensagem (HSM) cadastrados no WhatsApp Business podem conter mar
 
 ## Lógica de Execução das Regras e Casos de Uso
 
-Após o pré‑processamento, o agente percorre as regras definidas no YAML em ordem. A primeira regra cujo método `execute` retornar `True` será executada, e as demais são ignoradas. Portanto, é importante organizar as regras de forma hierárquica e garantir que o pré‑processamento retorne dados suficientes para as condições de cada regra. Casos de uso comuns incluem notificações de pedidos (aprovados, faturados, cancelados, criados), mas você pode criar regras para qualquer evento relevante dentro da VTEX ou do seu fluxo de negócios.
+Após o pré‑processamento, o agente percorre as regras definidas no YAML em ordem. A primeira regra cujo método `execute` retornar `True` será executada, e as demais serão ignoradas. Portanto, é importante organizar as regras de forma hierárquica e garantir que o pré‑processamento retorne dados suficientes para as condições de cada regra. Casos de uso comuns incluem notificações de pedidos (aprovados, faturados, cancelados, criados), mas você pode criar regras para qualquer evento relevante dentro da VTEX ou do seu fluxo de negócios.
 
 ## Conclusão
 
