@@ -31,7 +31,7 @@ O bom gerenciamento da capacidade operacional dos sellers traz os seguintes bene
 
 ## Habilitar módulo Capacidade operacional
 
-Para começar a usar a funcionalidade, é preciso habilitar o Capacidade operacional pelo Admin VTEX. Quando não habilitado, o módulo não gera efeitos e não permite realizar o gerenciamento da capacidade dos sellers.
+Para começar a usar a funcionalidade, é preciso habilitar o módulo **Capacidade operacional** pelo Admin VTEX. Quando não habilitado, o módulo não gera efeitos e não permite realizar o gerenciamento da capacidade dos sellers.
 
 > ⚠️ Antes de habilitar o módulo, recomendamos que você configure a capacidade operacional dos seus sellers. Assim, antes que a funcionalidade produza efeitos, você terá a visibilidade prévia de como a capacidade de cada seller é consumida e poderá ajustar suas configurações conforme as demandas da sua operação.
 
