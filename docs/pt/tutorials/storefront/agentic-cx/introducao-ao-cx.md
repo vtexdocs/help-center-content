@@ -42,7 +42,7 @@ Para ativar essa ferramenta, siga os passos abaixo:
 2. Selecione a URL da loja que vai ser sua fonte de dados.
 3. Clique em `Confirmar`.
 4. A etapa de ativação da ferramenta é automática. Se quiser, pode pular clicando em `Pular`.
-5. Quando a configuração concluir, você pode pular a etapa ou testar os agentes.
+5. Após o fim da configuração, você pode pular a etapa ou testar os agentes.
 
 Ao clicar em `Testar`, você consegue testar os agentes da configuração inicial. Quando você clica em um dos agentes, ele inicia uma conversa na tela e você pode testá-lo em tempo real. Você também consegue determinar as instruções que o agente segue, clicando em `Refinar instruções`.
 
