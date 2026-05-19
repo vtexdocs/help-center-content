@@ -14,7 +14,7 @@ tags:
   - Logística
 ---
 
-El módulo [Capacidad operativa](/es/docs/tutorials/capacidad-operacional) ya está disponible para todas las tiendas VTEX. Esta funcionalidad ha sido diseñada para ayudarte a gestionar la capacidad de los sellers para recibir y preparar pedidos. Con esta herramienta, puedes monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.
+El módulo [Capacidad operativa](/es/docs/tutorials/capacidad-operativa) ya está disponible para todas las tiendas VTEX. Esta funcionalidad ha sido diseñada para ayudarte a gestionar la capacidad de los sellers para recibir y preparar pedidos. Con esta herramienta, puedes monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.
 
 ![operational_capacity_image_1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/capacidad-operativa/capacidad-operativa_1.png)
 
