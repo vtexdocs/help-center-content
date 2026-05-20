@@ -3,7 +3,7 @@ title: 'Comportamento da busca'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2025-06-24T19:21:01.124Z
+updatedAt: 2026-04-23T12:00:00.000Z
 publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
@@ -22,6 +22,8 @@ Essa funcionalidade é padrão do VTEX Intelligent Search e atende a maioria dos
 * [Comportamento padrão da busca](#comportamento-padrão-da-busca)
 * [Configurações para o comportamento da busca](#configuracoes-para-o-comportamento-da-busca)
 * [Formas alternativas de busca](#formas-alternativas-de-busca)
+  * [Busca por ID na loja (storefront)](#busca-por-id-na-loja-storefront)
+  * [Busca por ID na API do Intelligent Search](#busca-por-id-na-api-do-intelligent-search)
 
 ## Comportamento padrão da busca
 
@@ -90,6 +92,19 @@ _Exemplo_: foi configurado que a especificação "cor" é pesquisável e o produ
 
 Em todos os resultados de busca são apresentados filtros que podem ser selecionados pelo usuário. Por padrão, alguns filtros são pré-definidos, mas é possível criar outros de acordo com a necessidade da loja. Outro ponto customizável é a ordem de visualização. Exemplo: em uma lista de resultados de busca, podem existir os filtros de Preço, Categorias e Marca.
 
+### Combinação de filtros (OR e AND)
+
+Quando o cliente aplica filtros nos resultados, o Intelligent Search combina os filtros assim:
+
+* **Mesmo tipo de filtro → OR (união):** se vários valores do mesmo filtro (por exemplo, duas cores) estão selecionados, entram no resultado os produtos que correspondem a **qualquer** um desses valores.
+* **Filtros de tipos diferentes → AND (interseção):** se o cliente combina filtros de tipos diferentes (por exemplo, cor e marca), o resultado mostra apenas produtos que atendem **todas** as condições ao mesmo tempo.
+
+### Filtros negativos (operador NOT)
+
+É possível **excluir** um valor de filtro usando o prefixo `not:` no segmento de valor (no caminho de filtros da URL), no padrão `/{chave do filtro}/not:{valor}/`. Por exemplo, `cor/azul/tamanho/not:42` restringe a cor azul e remove o tamanho 42 do conjunto de resultados.
+
+Esse comportamento permite cenários como incluir produtos de uma coleção e excluir outra. O operador NOT exclui valores específicos, enquanto as regras de OR e AND acima continuam valendo para as seleções positivas de filtro.
+
 ### Configuração de relevância
 
 A relevância é a funcionalidade que define a ordem dos produtos no resultado de busca. Essa configuração permite atribuir pesos e priorizar determinados critérios utilizados pelo Motor de Busca, como popularidade, data de lançamento do produto e participação em promoções, por exemplo. A relevância de um produto é composta pela combinação dos pesos e prioridades definidos por cada lojista.
@@ -100,27 +115,44 @@ Para mais informações sobre como personalizar a ordenação dos resultados de 
 
 > ℹ️ Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções. Usando o comando `map=productClusterIds`, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar `productClusterNames`, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.
 
-## Formas alternativas de busca
-
-É possível buscar pelo ID de um ou mais itens na barra de busca ou adicionando parâmetros de busca (*query*) na URL da loja.
-
 ### Match parcial
 
 Ao digitar somente os primeiros dígitos exatos do ID do produto (`ProductID`), código de referência do produto (`ProductRefID`), ID do SKU (`SKUID`), código de referência do SKU (`SKURefID`) ou EAN na barra de busca, o Intelligent Search fará o match parcial com produtos e SKUs ativos na loja, incluindo-os nos resultados da busca.
 
 Por exemplo, se o ID do produto for `123456789` e a busca for `123`, esse produto aparecerá entre os resultados. Porém, se a busca for `234`, sem algum dos primeiros dígitos do ID, esse produto não aparecerá.
 
-### URL
+## Formas alternativas de busca
 
-Para buscar a partir da URL da sua loja, adicione parâmetros de busca (*query*) no final da URL da loja, respeitando uma das estruturas a seguir:
+É possível buscar pelo ID de um ou mais itens na barra de busca, pelo link da loja (storefront) ou pela Intelligent Search API ([`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-)). Cada caso tem regras diferentes. Veja [Busca por ID na loja (storefront)](#busca-por-id-na-loja-storefront) e [Busca por ID na API do Intelligent Search](#busca-por-id-na-api-do-intelligent-search).
 
-- Exemplo para pesquisa de um item: `[endereço da conta]/[tipo do id]:[id_1]?q=[tipo do id]&map=ft`
-- Exemplo para pesquisa de lista de itens: `[endereço da conta]/[tipo do id]:[id_1];[id_2];[id_3]?q=[tipo do id]:[id_1];[id_2];[id_3]&map=ft`
+### Busca por ID na loja (storefront)
 
-Os possíveis tipos de valores para o campo tipo do ID são `product.id`, `sku.id`,`sku.ean`, `sku.reference` ou `id` (ProductID, ProductRefID, SKUID, SKURefID e EAN). Importante destacar que todos os IDs buscados devem pertencer ao mesmo tipo. 
+Quando o cliente abre um link da loja no navegador, a busca por ID costuma montar o endereço no caminho (path), com `map=ft`. Nesse padrão não entram os parâmetros de string de consulta `query` ou `q`.
 
-  - **Busca por SKU ID:** `?q=sku.id:<id>` ou `?q=sku:<id>`
-  - **Busca por EAN:** `?q=sku.ean:<id> `
-  - **Busca por reference ID:** `?q=sku.reference:<id>` 
-  - **Busca por slug:** `?q=product.link:<link>` 
-  - **Busca por product ID:** `?q=product:<id>` ou `?q=product.id:<id>`
+* **Um item:** `[endereço da loja]/[tipo do id]:[id_1]?map=ft`
+* **Vários itens (mesmo tipo de ID):** `[endereço da loja]/[tipo do id]:[id_1];[id_2];[id_3]?map=ft`
+
+### Busca por ID na API do Intelligent Search
+
+Em chamadas HTTP à API, use o endpoint [`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-): o ID ou o termo de busca vai no parâmetro `query`. O nome abreviado `q` é equivalente. Os filtros ficam no trecho `{facets}` do caminho, com `trade-policy` obrigatório e os demais opcionais. Ajuste a base da URL ao ambiente da sua conta.
+
+**Um produto**:
+
+* **Product ID:** `.../product_search/trade-policy/1?query=product:98765` ou `...?query=product.id:98765`
+* **SKU ID:** `.../product_search/trade-policy/1?query=sku.id:12345` ou `...?query=sku:12345`
+
+**Vários produtos ou SKUs (mesmo tipo de ID)**:
+
+Separe os valores com ponto e vírgula `;` e escreva o tipo da ID uma vez só, por exemplo: `?query=product:98765;98743` (equivale a `?query=product.id:98765;98743`) ou `?query=sku.id:100;200`.
+
+Os possíveis valores para o tipo de ID são `product.id`, `sku.id`, `sku.ean`, `sku.reference`, `product.link` ou `id` (ProductID, ProductRefID, SKUID, SKURefID e EAN). Todos os IDs de uma mesma busca devem ser do mesmo tipo.
+
+Formato do parâmetro (use `query` ou `q` de forma equivalente):
+
+* **Product ID:** `?query=product:<id>` ou vários `?query=product:<id1>;<id2>`
+* **SKU ID:** `?query=sku.id:<id>` ou vários `?query=sku.id:<id1>;<id2>`
+* **Reference ID:** `?query=sku.reference:<id>`
+* **EAN:** `?query=sku.ean:<id>`
+* **Slug (link do produto):** `?query=product.link:<link>`
+
+Para mais detalhes dos parâmetros e dos filtros no caminho da requisição, consulte a referência do endpoint [`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-) na [Intelligent Search API](https://developers.vtex.com/docs/api-reference/intelligent-search-api).
