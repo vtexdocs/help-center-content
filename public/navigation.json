@@ -36096,27 +36096,12 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criar agentes ativos"
+                    "pt": "Criar automações do CX"
                   },
                   "slug": {
-                    "en": "create-active-agents",
-                    "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps",
-                    "es": "Primeros pasos",
-                    "pt": "First steps"
-                  },
-                  "slug": {
-                    "en": "first-steps",
-                    "es": "primeros-pasos",
-                    "pt": ""
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36126,27 +36111,12 @@
                   "name": {
                     "en": "Introduction to Agentic CX",
                     "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
+                    "pt": "Introdução ao CX"
                   },
                   "slug": {
-                    "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-agentic-ai",
-                    "pt": "introducao-ao-agentic-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Agentic CX",
-                    "es": "Instalando a Agentic CX",
-                    "pt": "Configurar o Agentic CX"
-                  },
-                  "slug": {
-                    "en": "manage-agentic-cx",
-                    "es": "instalando-a-agentic-cx",
-                    "pt": "configurar-o-agentic-cx"
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
