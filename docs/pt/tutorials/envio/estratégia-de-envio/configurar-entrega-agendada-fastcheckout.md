@@ -54,12 +54,12 @@ Para configurar a entrega agendada em uma política de envio, siga os passos aba
 3. Role a página até a seção **Entrega agendada**.
 4. Ative a opção `Entrega agendada`.
 5. No campo **Tempo máximo de entrega**, defina o tempo máximo em dias que a política de envio usa para realizar uma entrega desde a confirmação do pedido até a confirmação da entrega.
-6. Na seção **Período de entrega**, configure as janelas de entrega que ficarão disponíveis para o cliente:
+6. Na seção **Entrega agendada**, configure as janelas de entrega que ficarão disponíveis para o cliente:
    * Selecione o `Dia da semana`.
    * Preencha o `Horário de início` da janela de entrega.
    * Preencha o `Horário de término` da janela de entrega.
    * Se desejar, preencha o `Valor adicional` para cobrar um valor extra neste período (opcional).
-7. Para adicionar mais períodos de entrega, clique em `Adicionar novo período de entrega` e repita o passo 6.
+7. Para adicionar mais períodos de entrega, clique em `Adicionar janela de entrega` e repita o passo 6.
 8. Se desejar configurar a capacidade de entrega, siga as instruções da próxima seção. Caso contrário, clique em `Salvar alterações`.
 
 > ℹ️ Uma janela de entrega deixa de estar disponível para seleção após ter sido iniciada. Apenas janelas de entrega futuras (ainda não iniciadas) ficarão disponíveis para os clientes.
