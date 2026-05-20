@@ -43975,6 +43975,21 @@
             },
             {
               "name": {
+                "en": "Address Form's Map Marker component does not update the complete address",
+                "es": "El componente «Marcador de mapa» del formulario de direcciones no actualiza la dirección completa",
+                "pt": "O componente “Marcador no mapa” do formulário de endereço não atualiza o endereço completo"
+              },
+              "slug": {
+                "en": "address-forms-map-marker-component-does-not-update-the-complete-address",
+                "es": "el-componente-marcador-de-mapa-del-formulario-de-direcciones-no-actualiza-la-direccion-completa",
+                "pt": "o-componente-marcador-no-mapa-do-formulario-de-endereco-nao-atualiza-o-endereco-completo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Address in orderForm with excessive size for multiples cities separated by \"::\"",
                 "es": "Dirección en el formulario de pedido con un tamaño excesivo para varias ciudades separadas por «::»",
                 "pt": "Endereço no formulário de pedido com tamanho excessivo para várias cidades separadas por \"::\""
@@ -58284,6 +58299,21 @@
             },
             {
               "name": {
+                "en": "Scenarios Involving Goodwill Following an Order Modification",
+                "es": "Situaciones relacionadas con el fondo de comercio tras una modificación de la orden",
+                "pt": "Cenários envolvendo ágio após uma modificação de pedido"
+              },
+              "slug": {
+                "en": "scenarios-involving-goodwill-following-an-order-modification",
+                "es": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+                "pt": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con un problema en el cobro del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -62728,14 +62758,29 @@
             },
             {
               "name": {
+                "en": "Sales App redirects to /payment after entering salesperson code (ignores current step in Checkout)",
+                "es": "La aplicación de ventas redirige a /payment tras introducir el código del comercial (sin tener en cuenta el paso actual del proceso de pago)",
+                "pt": "O aplicativo de vendas redireciona para /payment após a inserção do código do vendedor (ignorando a etapa atual do checkout)"
+              },
+              "slug": {
+                "en": "sales-app-redirects-to-payment-after-entering-salesperson-code-ignores-current-step-in-checkout",
+                "es": "la-aplicacion-de-ventas-redirige-a-payment-tras-introducir-el-codigo-del-comercial-sin-tener-en-cuenta-el-paso-actual-del-proceso-de-pago",
+                "pt": "o-aplicativo-de-vendas-redireciona-para-payment-apos-a-insercao-do-codigo-do-vendedor-ignorando-a-etapa-atual-do-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
                 "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
-                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, o campo CVV não pode ser preenchido"
               },
               "slug": {
                 "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
                 "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
-                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-o-campo-cvv-nao-pode-ser-preenchido"
               },
               "origin": "",
               "type": "markdown",
@@ -67574,6 +67619,21 @@
                 "en": "sitemap-not-generating-due-a-timeout-toomanyrequests",
                 "es": "el-sitemap-no-se-genera-debido-a-un-tiempo-de-espera-toomanyrequests",
                 "pt": "o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap retains ghost products from categories removed via full cleanup",
+                "es": "El mapa del sitio conserva los productos fantasma de las categorías eliminadas mediante una limpieza completa",
+                "pt": "O mapa do site mantém produtos fantasmas de categorias removidas por meio de uma limpeza completa"
+              },
+              "slug": {
+                "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
+                "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
+                "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
               },
               "origin": "",
               "type": "markdown",
