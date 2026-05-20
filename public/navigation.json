@@ -37312,7 +37312,7 @@
                   "slug": {
                     "en": "official-agents-from-vtex-cx-platform",
                     "es": "agentes-oficiales-de-vtex-cx-platform",
-                    "pt": "agentes-oficiais-da-vtex-cx-platform"
+                    "pt": "agentes-oficiais-do-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38440,7 +38440,7 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "VTEX CX Platform Analytics: Atendimento humano"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",
