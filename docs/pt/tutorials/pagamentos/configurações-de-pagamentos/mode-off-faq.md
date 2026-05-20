@@ -73,18 +73,18 @@ O diagrama a seguir mostra o ciclo de ativação e recuperação do Contingency 
 
 ```mermaid
 flowchart TD
-    A[Nova tentativa de autorização] --> B[VTEX inicia o processo de autorização]
-    B --> C{Conector está em Contingency Mode?}
-    C -- Sim --> D[Encaminha para o fluxo de autorização agendada]
-    C -- Não --> E[VTEX envia o pagamento ao conector]
-    E --> F{Conector retornou erro qualificável?}
-    F -- Não --> G[Fluxo normal de autorização]
-    F -- Sim --> H[Erro qualificável é acumulado]
-    H --> I{5 erros qualificáveis nos últimos 5 minutos?}
-    I -- Sim --> J[Contingency Mode é ativado por cerca de 5 minutos]
-    J --> K[Novas autorizações elegíveis deixam de ser enviadas ao conector]
-    K --> L[Após cerca de 5 minutos, Contingency Mode é desativado]
-    L --> M[Novas autorizações voltam a ser avaliadas normalmente]
+    A["Nova tentativa\nde autorização"] --> B["VTEX inicia o processo\nde autorização"]
+    B --> C{"Conector está em\nContingency Mode?"}
+    C -- "Sim" --> D["Encaminha para o fluxo\nde autorização agendada"]
+    C -- "Não" --> E["VTEX envia o pagamento\nao conector"]
+    E --> F{"Conector retornou\nerro qualificável?"}
+    F -- "Não" --> G["Fluxo normal\nde autorização"]
+    F -- "Sim" --> H["Erro qualificável\né acumulado"]
+    H --> I{"5 erros qualificáveis\nnos últimos 5 minutos?"}
+    I -- "Sim" --> J["Contingency Mode é \nativado por cerca de \n5 minutos"]
+    J --> K["Novas autorizações \nelegíveis deixam de ser \nenviadas ao conector"]
+    K --> L["Após cerca de 5 minutos,\nContingency Mode\né desativado"]
+    L --> M["Novas autorizações voltam\n na ser avaliadas\nnormalmente"]
 ```
 
 ## Impacto nas transações
@@ -126,14 +126,14 @@ O diagrama a seguir mostra o comportamento das autorizações agendadas:
 
 ```mermaid
 flowchart TD
-    A[Autorização chega enquanto o conector está em Contingency Mode] --> B[VTEX não chama o conector]
-    B --> C[Pagamento é adiado por X minutos]
-    C --> D[Pagamento fica como autorização agendada]
-    D --> E[Após X minutos, VTEX retenta a autorização]
-    E --> F[VTEX inicia novamente o processo de autorização]
-    F --> G{Conector está em Contingency Mode no momento da retentativa?}
+    A[Autorização chega \nenquanto o conector \nestá em Contingency Mode] --> B[VTEX não chama o conector]
+    B --> C[Pagamento é adiado por \nX minutos]
+    C --> D[Pagamento fica como \nautorização agendada]
+    D --> E[Após X minutos, \nVTEX retenta a \nautorização]
+    E --> F[VTEX inicia novamente \no processo de autorização]
+    F --> G{Conector está em \nContingency Mode no \nmomento da retentativa?}
     G -- Sim --> C
-    G -- Não --> H[Pagamento segue para o fluxo normal de autorização]
+    G -- Não --> H[Pagamento segue para \no fluxo normal de \nautorização]
 ```
 
 O período de recuperação do **Contingency Mode** e o intervalo de retentativa das transações são processos independentes.
