@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2025-09-02T23:26:45.478Z
+updatedAt: 2026-05-20T19:54:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -114,6 +114,31 @@ Você pode salvar um documento em qualquer entidade de dados se o conteúdo for 
 ![Master Data schemas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/conceitos-básicos-do-master-data/master-data_1.jpg)
 
 > ℹ️ Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
+
+## Entidades de dados personalizadas
+
+Além das entidades nativas criadas automaticamente pela VTEX, como `CL` (clientes), `AD` (endereços) e demais entidades padrão da plataforma de comércio, sua operação pode criar entidades de dados personalizadas para armazenar informações específicas do seu negócio.
+
+Entidades personalizadas podem ser criadas:
+
+- Na v1, pelo Admin VTEX. Veja como [criar uma entidade de dados](/pt/docs/tutorials/entidade-de-dados).
+- Na v2, exclusivamente via [API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2).
+
+### Cobrança
+
+O uso de entidades nativas é gratuito. O uso de entidades personalizadas é cobrado mensalmente, em faixas que variam conforme o volume total de documentos armazenados.
+
+Para conhecer os valores aplicáveis à sua operação, consulte seu contrato comercial ou entre em contato com o [suporte VTEX](https://support.vtex.com/).
+
+A cada pagamento realizado durante a vigência do contrato, é concedido um crédito de faturamento equivalente a 2% do valor líquido pago. Os créditos acumulam ao longo do contrato e ficam disponíveis para uso até o seu encerramento.
+
+A medição e a cobrança seguem um ciclo mensal:
+
+- No dia 25 de cada mês, é gerado um snapshot do volume de documentos armazenados.
+- Entre os dias 20 e 30 de cada mês, a VTEX calcula os valores referentes ao uso do Master Data e os créditos aplicáveis para a próxima fatura.
+- O uso é cobrado na mesma fatura das Commerce Platform Fees, com o detalhamento do valor total de uso, créditos concedidos e valor final devido.
+
+> ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
 
 ## Casos de uso
 
