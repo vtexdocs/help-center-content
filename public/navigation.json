@@ -267,6 +267,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Maio",
+                "es": "Maio",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "maio",
+                "es": "maio",
+                "pt": "maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX",
+                    "en": "Pedidos: dados personalizados agora visíveis no Admin VTEX",
+                    "es": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
+                  },
+                  "slug": {
+                    "pt": "2026-05-08-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
