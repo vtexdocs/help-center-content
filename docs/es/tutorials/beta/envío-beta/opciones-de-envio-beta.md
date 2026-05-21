@@ -25,7 +25,7 @@ Las opciones de envío utilizan las [políticas de envío](/es/docs/tutorials/po
 
 Las políticas de envío se asocian con una opción de envío cuando cumplen tanto con la promesa de entrega definida como con las zonas de envío configuradas. Si ninguna política de envío cumple con los criterios configurados, o si las políticas de envío no se han configurado correctamente, consulta el artículo [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio).
 
-![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
+![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_1.png)
 
 La página muestra la siguiente información en forma de tabla:
 
@@ -151,7 +151,6 @@ Configura las opciones de envío en el storefront para personalizar la experienc
 3. En la sección **Opciones de envío utilizadas como filtro**, define el orden en que se mostrarán las opciones de envío en los filtros de navegación.
 4. Agrega las opciones de envío que deseas incluir en los filtros de navegación haciendo clic en `+` en la opción de envío correspondiente.
 5. Selecciona la forma en que deseas mostrar tus opciones de envío en la tienda.
-   ![delivery-options-preferencias-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_3.png)
    - **Mostrar siempre todas las opciones disponibles para el producto:** todas las opciones de envío que están disponibles en las condiciones de envío se mostrarán en la página de producto y en el checkout de la tienda.
    - **Mostrar solo las opciones más económicas y rápidas:** solo se mostrarán las opciones de envío con el menor costo o el menor plazo en la página de producto y en el checkout de la tienda.
 6. Haz clic en `Guardar` para finalizar.
