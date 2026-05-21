@@ -25,7 +25,7 @@ Delivery Options use the [shipping policies](/docs/tutorials/shipping-policy) co
 
 Shipping policies are associated with a delivery option when they meet both the defined delivery promise and the configured delivery zones. If no shipping policy meets the configured criteria, or if the shipping policies haven't been properly configured, see the article [Creating a shipping policy](/docs/tutorials/creating-a-shipping-policy).
 
-![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
+![delivery-options-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_1.png)
 
 The page displays the following information in a table:
 
@@ -151,7 +151,6 @@ Configure delivery options on the storefront to customize the customer experienc
 3. In the **Delivery options as filter** section, set the order in which delivery options will be displayed in navigation filters.
 4. Add the delivery options you want to include in the navigation filters by clicking `+` on the corresponding delivery option.
 5. Select how your options will be displayed in the store:
-   ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_3.png)
    - **Always display all available options for the product:** All delivery options available under the shipping conditions will be displayed on the product page and checkout.
    - **Only display the lowest-cost and fastest options:** Only the delivery options with the lowest cost or shortest time will be displayed on the product page and checkout.
 6. Click `Save`.
