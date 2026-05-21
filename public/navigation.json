@@ -11188,14 +11188,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Understanding your account",
-                    "es": "1. Entendiendo su cuenta",
-                    "pt": "1. Entendendo a sua conta"
+                    "en": "1. Introduction to Account Management",
+                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "understanding-your-account",
-                    "es": "entendiendo-su-cuenta",
-                    "pt": "entendendo-a-sua-conta"
+                    "en": "placeholder-introduction-to-account-management",
+                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11203,14 +11203,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Editing account data",
-                    "es": "2. Editar datos de la cuenta",
-                    "pt": "2. Editar dados da conta"
+                    "en": "2. Users and Roles",
+                    "es": "2. Usuarios y Roles",
+                    "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "editing-account-data",
-                    "es": "editar-datos-de-la-cuenta",
-                    "pt": "editar-dados-da-conta"
+                    "en": "placeholder-users-and-roles",
+                    "es": "placeholder-usuarios-y-roles",
+                    "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11218,14 +11218,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. What are permissions and roles",
-                    "es": "3. ¿Qué son permisos y perfiles de acceso?",
-                    "pt": "3. O que são permissões e perfis de acesso"
+                    "en": "3. Authentication and Security",
+                    "es": "3. Autenticación y Seguridad",
+                    "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "what-are-permissions-and-access-profiles",
-                    "es": "que-son-permisos-y-perfiles-de-acceso",
-                    "pt": "o-que-sao-permissoes-e-perfis-de-acesso"
+                    "en": "placeholder-authentication-and-security",
+                    "es": "placeholder-autenticacion-y-seguridad",
+                    "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11233,104 +11233,14 @@
                 },
                 {
                   "name": {
-                    "en": "4. Creating and editing roles",
-                    "es": "4. Crear y editar perfiles de acceso",
-                    "pt": "4. Criar e editar perfis de acesso"
+                    "en": "4. API Keys for Integrations",
+                    "es": "4. Claves de API para Integraciones",
+                    "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "creating-and-editing-access-profiles",
-                    "es": "crear-y-editar-perfiles-de-acceso",
-                    "pt": "criar-e-editar-perfis-de-acesso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Creating and editing users",
-                    "es": "5. Crear y editar usuario",
-                    "pt": "5. Criar e editar usuário"
-                  },
-                  "slug": {
-                    "en": "creating-and-editing-users",
-                    "es": "crear-y-editar-usuario",
-                    "pt": "criar-e-editar-usuario"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. What is the Sponsor user",
-                    "es": "6. Qué es el usuario titular",
-                    "pt": "6. O que é o usuário Titular"
-                  },
-                  "slug": {
-                    "en": "what-is-the-master-user",
-                    "es": "que-es-el-usuario-master",
-                    "pt": "o-que-e-o-usuario-master"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "7. How the account relates to the website's pages",
-                    "es": "7. Cómo se relaciona la cuenta con las páginas del sitio web",
-                    "pt": "7. Como a conta se relaciona às páginas do site"
-                  },
-                  "slug": {
-                    "en": "como-a-conta-se-relaciona-as-paginas-do-site",
-                    "es": "como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web",
-                    "pt": "como-a-conta-se-relaciona-as-paginas-do-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
-                  },
-                  "slug": {
-                    "en": "enabling-2-factor-authentication-login",
-                    "es": "habilitar-inicio-de-sesion-por-autenticacion-de-2-factores",
-                    "pt": "habilitar-login-por-autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "9. Configuring login with Facebook",
-                    "es": "9. Configurar inicio de sesión con Facebook",
-                    "pt": "9. Configurar login com Facebook"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-facebook",
-                    "es": "configurar-inicio-de-sesion-con-facebook",
-                    "pt": "configurar-login-com-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "10. Configuring login with Google",
-                    "es": "10. Configurar inicio de sesión con Google",
-                    "pt": "10. Configurar login com Google"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-google",
-                    "es": "configurar-inicio-de-sesion-con-google",
-                    "pt": "configurar-login-com-google"
+                    "en": "placeholder-api-keys-for-integrations",
+                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17109,9 +17019,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
+                    "en": "Enabling two-factor authentication login",
+                    "es": "Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -58346,6 +58256,21 @@
             },
             {
               "name": {
+                "en": "Scenarios Involving Goodwill Following an Order Modification",
+                "es": "Situaciones relacionadas con el fondo de comercio tras una modificación de la orden",
+                "pt": "Cenários envolvendo ágio após uma modificação de pedido"
+              },
+              "slug": {
+                "en": "scenarios-involving-goodwill-following-an-order-modification",
+                "es": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+                "pt": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con un problema en el cobro del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -67651,6 +67576,21 @@
                 "en": "sitemap-not-generating-due-a-timeout-toomanyrequests",
                 "es": "el-sitemap-no-se-genera-debido-a-un-tiempo-de-espera-toomanyrequests",
                 "pt": "o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap retains ghost products from categories removed via full cleanup",
+                "es": "El mapa del sitio conserva los productos fantasma de las categorías eliminadas mediante una limpieza completa",
+                "pt": "O mapa do site mantém produtos fantasmas de categorias removidas por meio de uma limpeza completa"
+              },
+              "slug": {
+                "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
+                "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
+                "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
               },
               "origin": "",
               "type": "markdown",
