@@ -4,7 +4,7 @@ createdAt: 2020-01-07T19:24:22.388Z
 updatedAt: 2026-05-21T19:06:00.000Z
 contentType: trackArticle
 productTeam: Identity
-slugEN: users-and-access-profiles
+slugEN: users-and-roles
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes
