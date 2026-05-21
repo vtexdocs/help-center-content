@@ -17412,6 +17412,21 @@
                 },
                 {
                   "name": {
+                    "en": "Enable organization login via external identity provider (IdP)",
+                    "es": "Habilitar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
+                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo"
+                  },
+                  "slug": {
+                    "en": "placeholder-enable-organization-login-via-external-identity-provider-idp",
+                    "es": "placeholder-habilitar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
+                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Organization account",
                     "es": "Cuenta de la organización",
                     "pt": "Conta da Organização"
@@ -58346,6 +58361,21 @@
             },
             {
               "name": {
+                "en": "Scenarios Involving Goodwill Following an Order Modification",
+                "es": "Situaciones relacionadas con el fondo de comercio tras una modificación de la orden",
+                "pt": "Cenários envolvendo ágio após uma modificação de pedido"
+              },
+              "slug": {
+                "en": "scenarios-involving-goodwill-following-an-order-modification",
+                "es": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+                "pt": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con un problema en el cobro del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -67651,6 +67681,21 @@
                 "en": "sitemap-not-generating-due-a-timeout-toomanyrequests",
                 "es": "el-sitemap-no-se-genera-debido-a-un-tiempo-de-espera-toomanyrequests",
                 "pt": "o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap retains ghost products from categories removed via full cleanup",
+                "es": "El mapa del sitio conserva los productos fantasma de las categorías eliminadas mediante una limpieza completa",
+                "pt": "O mapa do site mantém produtos fantasmas de categorias removidas por meio de uma limpeza completa"
+              },
+              "slug": {
+                "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
+                "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
+                "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
               },
               "origin": "",
               "type": "markdown",
