@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "2026-may",
+                "es": "2026-mayo",
+                "pt": "2026-maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity is now available globally",
+                    "es": "Capacidad operativa disponible a nivel global",
+                    "pt": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "en": "2026-05-19-operational-capacity-now-in-ga",
+                    "es": "2026-05-19-capacidad-operativa-disponible-nivel-global",
+                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
@@ -18232,21 +18263,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Operational capacity (Beta)",
-                    "es": "Capacidad operativa (beta)",
-                    "pt": "Capacidade operacional (Beta)"
-                  },
-                  "slug": {
-                    "en": "operational-capacity-beta",
-                    "es": "capacidad-operacional-beta",
-                    "pt": "capacidade-operacional-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -34608,6 +34624,37 @@
                     "en": "ready-to-dispatch",
                     "es": "listos-para-despacho",
                     "pt": "pronto-para-envio"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Operational capacity",
+                "es": "Capacidad operativa",
+                "pt": "Capacidade operacional"
+              },
+              "slug": {
+                "en": "operational-capacity-category",
+                "es": "capacidad-operativa-category",
+                "pt": "capacidade-operacional-category"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity",
+                    "es": "Capacidad operativa",
+                    "pt": "Capacidade operacional"
+                  },
+                  "slug": {
+                    "en": "operational-capacity",
+                    "es": "capacidad-operativa",
+                    "pt": "capacidade-operacional"
                   },
                   "origin": "",
                   "type": "markdown",
