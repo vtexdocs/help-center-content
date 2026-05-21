@@ -8,6 +8,8 @@ slugEN: configure-authentication-methods-per-organizational-unit
 locale: pt
 ---
 
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
+
 No B2B, cada unidade organizacional pode ter suas configurações de autenticação definidas de forma independente. Isso permite que diferentes filiais ou divisões de uma mesma organização utilizem formas de login distintas conforme suas necessidades.
 
 ## Configurações disponíveis
