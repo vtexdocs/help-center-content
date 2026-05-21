@@ -21,9 +21,9 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 This gives merchants autonomy to create, configure, and manage delivery options as strategic content on the VTEX platform. This approach provides more flexibility to align logistical capabilities with business objectives, enhancing the shopping experience for customers.
 
-Delivery Options use the [shipping policies](/docs/tutorials/shipping-policy) configured in the store. A single delivery option can group several shipping policies, as long as they meet the criteria defined for that option.
+Delivery Options use the [shipping policies](/en/docs/tutorials/shipping-policy) configured in the store. A single delivery option can group several shipping policies, as long as they meet the criteria defined for that option.
 
-Shipping policies are associated with a delivery option when they meet both the defined delivery promise and the configured delivery zones. If no shipping policy meets the configured criteria, or if the shipping policies haven't been properly configured, see the article [Creating a shipping policy](/docs/tutorials/creating-a-shipping-policy).
+Shipping policies are associated with a delivery option when they meet both the defined delivery promise and the configured delivery zones. If no shipping policy meets the configured criteria, or if the shipping policies haven't been properly configured, see the article [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy).
 
 ![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_1.png)
 
@@ -51,7 +51,7 @@ To create a delivery option, follow the steps below:
 
    - **Option name:** Enter the name of the option the customer will see when purchasing.
 
-   - **Use option as a filter on the store product listing page**: Enable this to allow customers to filter products by this delivery option using [Intelligent Search filters](https://help.vtex.com/docs/tutorials/filters).
+   - **Use option as a filter on the store product listing page**: Enable this to allow customers to filter products by this delivery option using [Intelligent Search filters](https://help.vtex.com/en/docs/tutorials/filters).
 
    > ⚠️ Delivery method filters will only be displayed on the product listing page to the customer if this option is enabled. If disabled, the filters won't be displayed.
 
