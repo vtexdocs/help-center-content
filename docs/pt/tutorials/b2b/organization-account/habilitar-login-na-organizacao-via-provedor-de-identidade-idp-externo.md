@@ -8,6 +8,8 @@ slugEN: enable-organization-login-via-external-identity-provider-idp
 locale: pt
 ---
 
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
+
 Organizações compradoras podem autenticar seus membros utilizando um provedor de identidade (IdP) externo por meio de Single Sign-On (SSO). Para que esse fluxo funcione, a organização compradora precisa habilitar o login com o provedor de identidade externo na interface do Buyer Portal, como descrito neste guia.
 
 ## Pré-requisitos
