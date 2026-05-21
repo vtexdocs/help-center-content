@@ -60,7 +60,7 @@ Para realizar a implementação, siga as orientações das próximas seções.
 
 ### Antes de começar
 
-Recomendamos que desenvolvedores instalem as **Skills de Extensibilidade**, que auxiliam nas etapas de definição e implementação do projeto. Saiba mais em [Skills de Extensibilidade VTEX Sales App](#link1).
+Recomendamos que desenvolvedores instalem a **Skill de Extensibilidade**, que auxilia nas etapas de definição e implementação do projeto. Saiba mais em [VTEX Sales App Extensions Skill](#link1).
 
 ### 1. Planejar escopo do projeto
 
@@ -88,4 +88,4 @@ O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o dese
 
 Por fim, o desenvolvedor implementa as extensões, conforme descrito na [documentação técnica de Extensibilidade](#link3). Recomendamos validar a implementação com testes locais antes de disponibilizar as extensões para os clientes da loja.
 
-> ℹ️ As **Skills de Extensibilidade** podem auxiliar na etapa de implementação do projeto. Saiba mais em [Skills de Extensibilidade VTEX Sales App](#link4).
+> ℹ️ A **Skill de Extensibilidade** pode auxiliar na etapa de implementação do projeto. Saiba mais em [VTEX Sales App Extensions Skill](#link4).
