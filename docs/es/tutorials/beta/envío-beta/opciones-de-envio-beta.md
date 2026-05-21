@@ -25,7 +25,7 @@ Las opciones de envío utilizan las [políticas de envío](/es/docs/tutorials/po
 
 Las políticas de envío se asocian con una opción de envío cuando cumplen tanto con la promesa de entrega definida como con las zonas de envío configuradas. Si ninguna política de envío cumple con los criterios configurados, o si las políticas de envío no se han configurado correctamente, consulta el artículo [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio).
 
-![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
+![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/maindocs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_1.png)
 
 La página muestra la siguiente información en forma de tabla:
 
