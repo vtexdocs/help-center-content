@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: Custom data now visible in the VTEX Admin",
+                    "es": "Pedidos: datos personalizados ahora visibles en el Admin VTEX",
+                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin",
+                    "es": "2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex",
+                    "pt": "2026-05-22-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Operational capacity is now available globally",
                     "es": "Capacidad operativa disponible a nivel global",
                     "pt": "Capacidade operacional disponível globalmente"
@@ -261,37 +276,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "May",
-                "es": "Mayo",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "may",
-                "es": "mayo",
-                "pt": "maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Orders: Custom data now visible in the VTEX Admin",
-                    "es": "Pedidos: datos personalizados ahora visibles en el Admin VTEX",
-                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
-                  },
-                  "slug": {
-                    "en": "2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin",
-                    "es": "2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex",
-                    "pt": "2026-05-22-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
