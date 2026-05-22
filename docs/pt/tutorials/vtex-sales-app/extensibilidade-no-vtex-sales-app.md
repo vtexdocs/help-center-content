@@ -18,7 +18,18 @@ A Extensibilidade é a funcionalidade que permite à loja complementar a jornada
 
 A Extensibilidade é uma solução nativa para as lojas integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
 
-Existem oito pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos da jornada de venda:
+Existem oito pontos de extensão no Sales App:
+
+- `cart.cart-item.after`
+- `cart.cart-list.after`
+- `cart.order-summary.after`
+- `menu.item`
+- `menu.drawer-content`
+- `pdp.sidebar.before`
+- `pdp.sidebar.after`
+- `pdp.content.after`
+
+Cada ponto de extensão permite a interação dos usuários com dados e funções específicas, e eles estão disponíveis nos seguintes contextos da jornada de venda:
 
 * Carrinho de compras (`cart.cart-item.after`, `cart.cart-list.after`) e checkout (`cart.order-summary.after`):
 
@@ -76,7 +87,7 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 ## Checar a viabilidade técnica
 
-O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve verificar se a implementação dos requisitos e integrações mapeados são compatíveis com as especificações dos pontos de extensão, conforme apresentado na [documentação de Extensibilidade para desenvolvedores](#link2).
+O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve verificar se os requisitos e integrações mapeados são compatíveis com as especificações dos pontos de extensão, conforme apresentado na [documentação de Extensibilidade para desenvolvedores](#link2).
 
 > ⚠️ Caso seja identificada a inexistência de alguma função ou configuração obrigatória, recomendamos entrar em contato com nosso [Suporte](https://help.vtex.com/pt/support), descrevendo o caso de uso e as limitações encontradas.
 
