@@ -115,9 +115,37 @@ Você pode salvar um documento em qualquer entidade de dados se o conteúdo for 
 
 > ℹ️ Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
 
+## Entidades nativas do Master Data
+
+Algumas entidades de dados são criadas automaticamente pela VTEX para suportar funcionalidades nativas da plataforma. Entre elas estão:
+
+- `orders`
+- `cl` (clientes)
+- `ad` (endereços)
+- `audit`
+- `queuemessagevo`
+- `scheduler`
+- `bk`
+- `subscription`
+- `gc`
+- `gt`
+- `il`
+- `iw`
+- `rd`
+- `od`
+- `so`
+- `iy`
+- `au`
+- `shopper`
+- `customFieldSettings`
+- `customFieldValues`
+- `vtex_admin_cms_graphql_content`
+- `vtex_admin_cms_graphql_contentVariant`
+- `sb`
+
 ## Entidades de dados personalizadas
 
-Além das entidades nativas criadas automaticamente pela VTEX, como `CL` (clientes), `AD` (endereços) e demais entidades padrão da plataforma de comércio, sua operação pode criar entidades de dados personalizadas para armazenar informações específicas do seu negócio.
+Além das [entidades nativas](#entidades-nativas-do-master-data) criadas automaticamente pela VTEX, sua operação pode criar entidades de dados personalizadas para armazenar informações específicas do seu negócio.
 
 Entidades personalizadas podem ser criadas:
 
