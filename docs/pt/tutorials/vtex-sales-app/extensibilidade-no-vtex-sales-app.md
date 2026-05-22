@@ -4,7 +4,7 @@ createdAt: 2026-05-18T19:46:33.357Z
 updatedAt: 2026-05-18T19:46:33.357Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: extensibility-in-vtex-sales-app
+slugEN: vtex-sales-app-extensibility
 locale: pt
 ---
 
