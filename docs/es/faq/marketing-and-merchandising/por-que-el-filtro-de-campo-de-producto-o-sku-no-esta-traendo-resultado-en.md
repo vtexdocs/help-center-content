@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en
 ---
 
-> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La Búsqueda Legada y VTEX Intelligent Search. Este artículo se refiere a la Búsqueda Legada. Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La VTEX Search (Legado) y VTEX Intelligent Search. Este artículo se refiere a la VTEX Search (Legado). Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Usted puede utilizar los parámetros de búsqueda para filtrar los campos de producto o campos de SKU en la búsqueda de la tienda.
 

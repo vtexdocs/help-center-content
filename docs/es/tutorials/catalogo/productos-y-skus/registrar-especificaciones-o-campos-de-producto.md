@@ -118,7 +118,7 @@ Consulta la tabla a continuación para obtener información detallada sobre los 
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Técnicamente, siguen la misma regla que los campos de **texto**, pero con una diferencia: el [indexador](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del **Catálogo** interpretará sus valores e influirá en los resultados de búsqueda de los clientes de la tienda. Puedes ver más detalles en [Cómo funciona la búsqueda de VTEX](/es/docs/tutorials/como-funciona-la-busqueda-legada).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Técnicamente, siguen la misma regla que los campos de **texto**, pero con una diferencia: el [indexador](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del **Catálogo** interpretará sus valores e influirá en los resultados de búsqueda de los clientes de la tienda. Puedes ver más detalles en [Cómo funciona la búsqueda de VTEX](/es/docs/tutorials/como-funciona-la-vtex-search-legado).</td>
   </tr>
 </tbody>
 </table>

@@ -1,5 +1,5 @@
 ---
-title: 'How Legacy Search works'
+title: 'How VTEX Search (Legacy) works'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z
@@ -9,19 +9,19 @@ firstPublishedAt: 2017-04-27T23:03:37.560Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: how-does-legacy-search-work
-legacySlug: how-does-legacy-search-work
+slugEN: how-does-vtex-search-legacy-work
+legacySlug: how-does-vtex-search-legacy-work
 locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
 This article sets out to describe how VTEX's search system works.
 
-> ⚠️ **Warning**: VTEX has two search options - Legacy Search and VTEX Intelligent Search. This article refers to the Legacy Search. To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-## Legacy Search engine product display prioritization 
+## VTEX Search (Legacy) engine product display prioritization 
 
-Legacy Search engine is an intelligent algorithm that identifies which result to best show the user based on the search term.
+VTEX Search (Legacy) engine is an intelligent algorithm that identifies which result to best show the user based on the search term.
 
 In addition, the result displayed will always be the one that will generate more sales conversion. The success of this result depends solely on the catalog master file (brand, department, category, product, specification, etc).
 
@@ -65,13 +65,13 @@ This algorithm uses the concept of ranking (Score) to prioritize and order produ
 
 ## How the search is done
 
-To understand Legacy Search, we must first become familiar with the indexer and its update process.
+To understand VTEX Search (Legacy), we must first become familiar with the indexer and its update process.
 
 ### Catalog Indexer
 
 The catalog indexer is a quick access scalable database, with configurable algorithms for result prioritization. It is positioned between conventional database and user. See the outline below:
 
-![database](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/search/how-does-legacy-search-work_1.JPG)
+![database](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/search/how-does-vtex-search-legacy-work_1.JPG)
 
 The indexer contains all the information referring to the product catalog (products, SKUs, brands, departments, categories). The search engine uses this information to locate products and to display these in shop windows and search results. However, __only already indexed products can be found by the search__.
 

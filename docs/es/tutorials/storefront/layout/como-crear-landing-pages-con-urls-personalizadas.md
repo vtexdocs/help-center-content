@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - Búsqueda Legada y VTEX Intelligent Search. Este artículo hace referencia a la Búsqueda Legada. Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - VTEX Search (Legado) y VTEX Intelligent Search. Este artículo hace referencia a la VTEX Search (Legado). Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
 Tutorial válido solo para tiendas CMS Portal (Legado).

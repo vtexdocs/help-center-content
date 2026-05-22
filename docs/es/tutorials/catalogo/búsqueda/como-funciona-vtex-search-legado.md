@@ -1,5 +1,5 @@
 ---
-title: 'Cómo funciona la Búsqueda Legada'
+title: 'Cómo funciona la VTEX Search (Legado)'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z
@@ -9,15 +9,15 @@ firstPublishedAt: 2017-04-27T23:03:37.560Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: how-does-legacy-search-work
-legacySlug: como-funciona-la-busqueda-legada
+slugEN: how-does-vtex-search-legacy-work
+legacySlug: como-funciona-la-vtex-search-legado
 locale: es
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
 Este artículo tiene el objetivo de describir el funcionamiento del sistema de búsqueda de VTEX.
 
-> ⚠️ VTEX presenta dos opciones de búsqueda - La Búsqueda Legada y VTEX Intelligent Search. Este artículo se refiere a la Búsqueda Legada. Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX presenta dos opciones de búsqueda - La VTEX Search (Legado) y VTEX Intelligent Search. Este artículo se refiere a la VTEX Search (Legado). Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 ## Cómo el buscador de VTEX prioriza la exhibición de productos
 

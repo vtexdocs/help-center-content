@@ -51,7 +51,7 @@ Lembre-se de salvar as alterações antes de efetuar uma busca ou mudar de pági
 O próximo passo é adicionar o conteúdo, selecionando **Add Content**.
 ![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_7.png)
 
-É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/docs/tutorials/como-funciona-a-busca-legada)).
+É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/docs/tutorials/como-funciona-a-vtex-search-legado)).
 
 Os conteúdos a serem preenchidos na parte **Content**:
 _Content_: Nome que identificará cada conjunto de itens

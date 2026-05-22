@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ VTEX presenta dos opciones de búsqueda - La Búsqueda Legada y VTEX Intelligent Search. Este artículo se refiere a la Búsqueda Legada. Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX presenta dos opciones de búsqueda - La VTEX Search (Legado) y VTEX Intelligent Search. Este artículo se refiere a la VTEX Search (Legado). Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Si usted necesita utilizar, en sus productos, palabras que tal vez para el buscador no sean importantes, existen algunas buenas prácticas:
 

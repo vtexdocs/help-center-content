@@ -25,16 +25,16 @@ Recomendamos definir o score a nível de produto, já que o mais comum é que su
 
 Um exemplo para o uso do score pode ser em eventos pontuais, quando sua loja precisa colocar produtos específicos na frente de outros para que a visualização seja garantida.
 
-## Score na Busca Legada
+## Score na VTEX Search (Legado)
 
-Se a loja utiliza a [Busca Legada](/pt/docs/tutorials/como-funciona-a-busca-legada), é possível utilizar os parâmetros abaixo para implementar a ordenação por score:
+Se a loja utiliza a [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-a-vtex-search-legado), é possível utilizar os parâmetros abaixo para implementar a ordenação por score:
 
 * **Ordem ascendente** (produtos com score mais baixo aparecem primeiro): `?O=OrderByScoreASC`
 * **Ordem descendente** (produtos com score mais alto aparecem primeiro): `?O=OrderByScoreDESC`
 
 ## Score no VTEX Intelligent Search
 
-Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [Busca Legada](/pt/docs/tutorials/como-funciona-a-busca-legada).
+Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [VTEX Search (Legado)](/pt/docs/tutorials/como-funciona-a-vtex-search-legado).
 
 O [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) não permite uma ordenação direta dos produtos pela pontuação definida no campo **Score**. Ao utilizar um desses parâmetros no VTEX Intelligent Search, ocorre a ordenação padrão, que é por [relevância](/pt/docs/tutorials/regras-de-relevancia).
 

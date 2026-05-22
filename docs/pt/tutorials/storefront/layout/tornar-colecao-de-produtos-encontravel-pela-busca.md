@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a Busca Legada e o VTEX Intelligent Search. Este artigo se refere à Busca Legada. Para saber mais sobre o VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a VTEX Search (Legado) e o VTEX Intelligent Search. Este artigo se refere à VTEX Search (Legado). Para saber mais sobre o VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Você pode fazer com que, ao buscar pelo nome de uma coleção na busca da loja, o usuário encontre os produtos dessa coleção.
 

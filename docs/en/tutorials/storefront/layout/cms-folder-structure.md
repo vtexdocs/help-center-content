@@ -61,4 +61,4 @@ There are folders that, although not as important as the previous ones, are ofte
 
 - `/sistema/buscavazia`: folder to which the user is directed if the search finds no results.
 - `/sistema/{codigoHTTP}`: folder that renders error pages according to HTTP status codes, such as `404` (page not found), `401` (unauthorized), and `500` (server error).
-- `/sistema/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [about Legacy Search](/en/docs/tutorials/how-does-legacy-search-work).
+- `/sistema/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [about VTEX Search (Legacy)](/en/docs/tutorials/how-does-vtex-search-legacy-work).

@@ -118,7 +118,7 @@ See the table below for details on the product field types you can select in the
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Indexed Text<br> <br>Large Indexed Text**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog **[indexer](/en/docs/tutorials/understanding-how-indexation-works) and will influence the search results for the store customers. For more details, please see the article [How Legacy Search works?](/en/docs/tutorials/how-does-legacy-search-work).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog **[indexer](/en/docs/tutorials/understanding-how-indexation-works) and will influence the search results for the store customers. For more details, please see the article [How VTEX Search (Legacy) works?](/en/docs/tutorials/how-does-vtex-search-legacy-work).</td>
   </tr>
 </tbody>
 </table>
