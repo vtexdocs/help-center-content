@@ -23,7 +23,7 @@ Para configurar un banner, sigue estos pasos:
 4. Rellena los [campos relativos al banner](#campos-de-registro-del-banner).
 5. Para terminar, haz clic en `Guardar`.
 
-Después de configurar el banner, debes agregarlo a una página de tu tienda. Para ello, sigue los pasos del artículo [Banner](https://developers.vtex.com/docs/guides/search-overview-banner).
+Después de configurar el banner, debes agregarlo a una página de tu tienda. Para ello, sigue los pasos del artículo [Banner](https://developers.vtex.com/docs/apps/vtex.search/banner).
 
 > ℹ️  Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta#banners)para saber más.
 

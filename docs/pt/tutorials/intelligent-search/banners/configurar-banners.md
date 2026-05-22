@@ -23,7 +23,7 @@ Para configurar um banner, siga os seguintes passos:
 4. Preencha os [campos referentes ao banner](#campos-de-cadastro-do-banner).
 5. Para finalizar, clique em `Salvar`.
 
-Depois de realizar as configurações do banner, você deve adicioná-lo a uma página da sua loja. Para isso, siga os passos do guia [Banner](https://developers.vtex.com/docs/guides/search-overview-banner).
+Depois de realizar as configurações do banner, você deve adicioná-lo a uma página da sua loja. Para isso, siga os passos do guia [Banner](https://developers.vtex.com/docs/apps/vtex.search/banner).
 
 > ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta#banners) para saber mais.
 
@@ -36,7 +36,7 @@ Para cadastrar o banner, é necessário preencher os seguintes campos:
 ### Informações gerais
 
 * **Nome**: nome do banner cadastrado.
-* **Posição**: área que o banner aparecerá na página de resultado de busca. Os banners podem ser alocados em quatro áreas distintas na página do site. Essa disposição fica a critério do lojista, dependendo da opção selecionada nesse campo ou definido via [blocks no store-theme](https://developers.vtex.com/docs/guides/search-overview-banner#props).
+* **Posição**: área que o banner aparecerá na página de resultado de busca. Os banners podem ser alocados em quatro áreas distintas na página do site. Essa disposição fica a critério do lojista, dependendo da opção selecionada nesse campo ou definido via [blocks no store-theme](https://developers.vtex.com/docs/apps/vtex.search/banner#props).
 
 ### Tipo
 
