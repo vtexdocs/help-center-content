@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-> ⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
+> ⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
 
 Una assembly option es un [anexo](/es/docs/tutorials/que-es-un-anexo) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
 

@@ -19,7 +19,7 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 
 En VTEX, puedes tener opciones de personalización de productos disponibles cuando usas [Assembly Options](/es/docs/tutorials/assembly-options) (opciones de ensamblaje). Esta solución consiste en crear [anexos](/es/docs/tutorials/que-es-un-anexo) para escenarios complejos en los cuales es necesario gestionar distintas combinaciones de productos, cantidades, ítems adicionales y costos.
 
-La [aplicación Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) proporciona una interfaz para configurar y gestionar las opciones de personalización en tiendas que usan [VTEX IO](https://vtex.com/es-es/store-framework/) en lugar de implementar las opciones de ensamblaje a través de los anexos del Catálogo.
+La [aplicación Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) proporciona una interfaz para configurar y gestionar las opciones de personalización en tiendas que usan [VTEX IO](https://developers.vtex.com/docs/guides/store-framework) en lugar de implementar las opciones de ensamblaje a través de los anexos del Catálogo.
 
 ## Instalación 
 
