@@ -61259,6 +61259,21 @@
             },
             {
               "name": {
+                "en": "Payment rule not applied due to BIN issuer mismatch",
+                "es": "No se ha aplicado la regla de pago debido a una discrepancia en el código BIN del emisor",
+                "pt": "Regra de pagamento não aplicada devido à incompatibilidade do BIN do emissor"
+              },
+              "slug": {
+                "en": "payment-rule-not-applied-due-to-bin-issuer-mismatch",
+                "es": "no-se-ha-aplicado-la-regla-de-pago-debido-a-una-discrepancia-en-el-codigo-bin-del-emisor",
+                "pt": "regra-de-pagamento-nao-aplicada-devido-a-incompatibilidade-do-bin-do-emissor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)",
                 "es": "El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).",
                 "pt": "O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)"
