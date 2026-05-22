@@ -64,6 +64,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Order Cancellation | Cancelamento de pedido. | ID do pedido. |
 | Start Handling | Ação que sinaliza para a VTEX que a loja iniciou o manuseio de um dado pedido. Isso desencadeia a continuidade do fluxo deste pedido. | ID do pedido. |
 | Notify Payment | Envio de notificação de pagamento para um dado pedido. | ID do pedido. |
+| GetUnmaskedPersonalInformation | Leitura de informação pessoal desmascarada em um pedido. | ID do pedido. |
+| UpdatePersonalInformation | Atualização de informação pessoal em um pedido. | ID do pedido. |
 
 ## Autorização de pedido
 
@@ -182,6 +184,14 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | EDIT_GIFT_CARD | Edição de valor de vale-presente. | add-gift-card-value |
 | CREATE_GIFT_CARD | Criação de vale-presente. | create-multiple-gift-cards |
 | LIST_CARDS_FROM_API | Busca por vale-presentes nativos. | list-gift-card-api |
+| LIST_GIFT_CARD_TRANSACTIONS | Visualização das transações de vale-presente. | list-gift-card-transactions |
+| VIEW_GIFT_CARD_CONDITIONS | Visualização das condições de vale-presente. | view-gift-card-conditions |
+| CREATE_GIFT_CARD_CONDITIONS | Criação das condições de vale-presente. | create-gift-card-conditions |
+| EDIT_GIFT_CARD_CONDITIONS | Edição das condições de vale-presente. | edit-gift-card-conditions |
+| EDIT_GIFT_CARD_CONFIGURATION | Edição da configuração de vale-presente. | edit-gift-card-configuration |
+| CREATE_GIFT_CARD_CANCELLATION | Registro de cancelamento de vale-presente. | create-gift-card-cancellation |
+| CREATE_GIFT_CARD_SETTLEMENT | Registro de liquidação de vale-presente. | create-gift-card-settlement |
+| INSERT_GIFT_CARD_CREDITS | Inserção de créditos em vale-presente. | insert-gift-card-credits |
 
 ## Checkout
 
