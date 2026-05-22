@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
-> ⚠️ Esta aplicación solo está disponible para las tiendas que usan[ VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de continuar, debes [instalar y configurar Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
+> ⚠️ Esta aplicación solo está disponible para las tiendas que usan[ VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Antes de continuar, debes [instalar y configurar Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
 
 En VTEX, puedes tener opciones de personalización de productos disponibles cuando usas [Assembly Options](/es/docs/tutorials/assembly-options) (opciones de ensamblaje). Esta solución consiste en crear [anexos](/es/docs/tutorials/que-es-un-anexo) para escenarios complejos en los cuales es necesario gestionar distintas combinaciones de productos, cantidades, ítems adicionales y costos.
 

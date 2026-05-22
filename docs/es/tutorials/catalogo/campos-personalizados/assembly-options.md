@@ -35,7 +35,7 @@ Hay dos formas de implementar las opciones de ensamblaje: utilizando la [aplicac
 
 ### Aplicación Assembly Options
 
-La aplicación [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/br-pt/store-framework/), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](/es/docs/tutorials/aplicacion-assembly-options).
+La aplicación [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponible para las tiendas desarrolladas con [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](/es/docs/tutorials/aplicacion-assembly-options).
 
 ### Campos personalizados
 

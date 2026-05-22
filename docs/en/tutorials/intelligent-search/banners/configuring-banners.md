@@ -23,7 +23,7 @@ To set up a banner, follow the steps below:
 4. Complete the banner fields.
 5. To finish, click `Save`.
 
-After configuring the banner, you have to add it to a page on your store. To do that, follow the steps described in the [Banner](https://developers.vtex.com/vtex-developer-docs/docs/search-banner) guide.
+After configuring the banner, you have to add it to a page on your store. To do that, follow the steps described in the [Banner](https://developers.vtex.com/docs/guides/search-overview-banner) guide.
 
 > ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. For more information, please refer to our article [VTEX Intelligent Search: Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta#banners).
 
@@ -36,7 +36,7 @@ To add a banner, the following fields need to be completed:
 ### General Information
 
 * **Name**: Name of the banner.
-* **Position**: Position where the banner will be displayed on the search results page. Banners can be positioned in four different areas of the site page. The placing is up to the retailer and will be determined by the option selected in this field or defined through [store-theme blocks](https://developers.vtex.com/vtex-developer-docs/docs/search-banner#props).
+* **Position**: Position where the banner will be displayed on the search results page. Banners can be positioned in four different areas of the site page. The placing is up to the retailer and will be determined by the option selected in this field or defined through [store-theme blocks](https://developers.vtex.com/docs/guides/search-overview-banner#props).
 
 ### Type
 

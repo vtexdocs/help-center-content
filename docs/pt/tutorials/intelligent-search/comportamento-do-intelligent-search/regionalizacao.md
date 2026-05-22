@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
-A Regionalização é uma funcionalidade do [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) que permite otimizar os resultados de busca de acordo com a disponibilidade de sellers na região do cliente. Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso artigo [Search](https://developers.vtex.com/vtex-developer-docs/docs/search).
+A Regionalização é uma funcionalidade do [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) que permite otimizar os resultados de busca de acordo com a disponibilidade de sellers na região do cliente. Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso artigo [Search](https://developers.vtex.com/docs/guides/search-overview).
 
 A Regionalização  utiliza um comportamento do VTEX Intelligent Search — a [Disponibilidade](/pt/docs/tutorials/disponibilidade). Ela busca os produtos disponíveis no estoque dos sellers que atendem a uma determinada região.
 

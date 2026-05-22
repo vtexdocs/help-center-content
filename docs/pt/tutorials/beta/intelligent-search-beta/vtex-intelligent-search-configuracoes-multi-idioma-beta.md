@@ -17,7 +17,7 @@ subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
-O [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) é um aplicativo de busca inteligente para ecommerce que está disponível para lojas desenvolvidas usando o [VTEX IO](https://vtex.com/br-pt/store-framework/). Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso guia [Search](https://developers.vtex.com/vtex-developer-docs/docs/search). A ferramenta exibe sugestões de busca e de produtos que possam interessar o usuário, além de corrigir erros ortográficos e entender palavras que não estão no cadastro do produto.
+O [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) é um aplicativo de busca inteligente para ecommerce que está disponível para lojas desenvolvidas usando o [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso guia [Search](https://developers.vtex.com/docs/guides/search-overview). A ferramenta exibe sugestões de busca e de produtos que possam interessar o usuário, além de corrigir erros ortográficos e entender palavras que não estão no cadastro do produto.
 
 O VTEX Intelligent Search Multi-idioma expande as funcionalidades do [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) e oferece uma experiência de pesquisa multi-idioma, ideal para lojas que realizam operações em diversos países. Esse recurso facilita a adaptação da loja para vários idiomas e garante a busca em todos os idiomas cadastrados.
 

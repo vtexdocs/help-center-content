@@ -17,7 +17,7 @@ subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 
 > ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
-[VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) is an intelligent search application for ecommerce that is available for stores created with [VTEX IO](https://vtex.com/br-pt/store-framework/). To install and configure VTEX Intelligent Search in your store, read our [Search article](https://developers.vtex.com/vtex-developer-docs/docs/search). The tool displays search and product suggestions that may interest the user, corrects spelling errors, and understands related words that are not included in the product information.
+[VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) is an intelligent search application for ecommerce that is available for stores created with [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). To install and configure VTEX Intelligent Search in your store, read our [Search article](https://developers.vtex.com/docs/guides/search-overview). The tool displays search and product suggestions that may interest the user, corrects spelling errors, and understands related words that are not included in the product information.
 
 VTEX Intelligent Search: Multilanguage expands [Intelligent Search’s](/en/docs/tracks/overview-intelligent-search) capabilities and offers a multilingual search experience, ideal for stores that operate in several countries. This feature facilitates adapting the store to new markets and allows users to search in many different languages.
 
