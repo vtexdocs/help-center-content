@@ -18,13 +18,13 @@ A Extensibilidade é a funcionalidade que permite à loja complementar a jornada
 
 A Extensibilidade é uma solução nativa para as lojas integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
 
-Existem sete pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos da jornada de venda:
+Existem oito pontos de extensão no Sales App e cada um permite a interação dos usuários com dados e funções específicas. Estes pontos estão disponíveis nos seguintes contextos da jornada de venda:
 
-* Carrinho de compras e checkout:
+* Carrinho de compras (`cart.cart-item.after`, `cart.cart-list.after`) e checkout (`cart.order-summary.after`):
 
   ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
 
-* Menu e modal lateral:
+* Menu (`menu.item`) e modal lateral (`menu.drawer-content`):
 
   ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
@@ -32,7 +32,7 @@ Existem sete pontos de extensão no Sales App e cada um permite a interação do
 
   > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface, o que permite à loja criar múltiplos fluxos de navegação internos.
 
-* Página de detalhes do produto (PDP):
+* Página de detalhes do produto (PDP) (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
   ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
 
