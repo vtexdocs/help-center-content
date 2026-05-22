@@ -10,7 +10,7 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-A Extensibilidade é a funcionalidade que permite à loja complementar a jornada de venda padrão no VTEX Sales App com os recursos necessários ao seu modelo de negócios. Este artigo apresenta as principais características e casos de uso das extensões e orienta na sua implementação.
+A Extensibilidade é a funcionalidade que permite à loja complementar a jornada de venda padrão no VTEX Sales App com os recursos necessários ao seu modelo de negócios. Este artigo apresenta as principais características e casos de uso das extensões e orienta sobre a implementação.
 
 > ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](link).
 
@@ -40,7 +40,7 @@ Existem oito pontos de extensão no Sales App e cada um permite a interação do
 
 Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e contribui para a continuidade das operações da loja. Alguns dos principais objetivos da funcionalidade são:
 
-* **Segurança:** aumentar a segurança para desenvolvedores na implementação de códigos.
+* **Segurança:** aumentar a segurança para desenvolvedores na implementação de código.
 * **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações.
 * **Compatibilidade:** preservar a compatibilidade das extensões com customizações, de forma que as evoluções do Sales App não comprometam as modificações realizadas pela loja.
 
@@ -62,7 +62,7 @@ Recomendamos que desenvolvedores instalem a skill de extensões do Sales App, qu
 
 O primeiro passo é o planejamento, no qual o lojista ou parceiro deve delimitar o escopo do que será implementado.
 
-**Exemplo:** uma loja vende material para construção e o escopo do seu projeto será adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. Por exemplo, o cliente da loja descobre que precisará comprar 16 quilogramas (kg) de argamassa para quatro metros quadrados.
+**Exemplo:** uma loja vende material para construção e o escopo do seu projeto será adicionar à página de produto (PDP) uma calculadora que mede a quantidade de material necessário por metro quadrado (m²) construído. O cliente da loja então será capaz de descobrir que precisa comprar 4 quilogramas (kg) de argamassa para cada metro quadrado.
 
 ## Mapear experiência do usuário e requisitos técnicos
 
