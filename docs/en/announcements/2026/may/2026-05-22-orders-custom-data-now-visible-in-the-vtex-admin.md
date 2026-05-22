@@ -1,9 +1,9 @@
 ---
 title: 'Orders: Custom data now visible in the VTEX Admin'
-createdAt: 2026-05-15T18:30:00.000Z
-updatedAt: 2026-05-15T15:00:00.000Z
+createdAt: 2026-05-22T11:30:00.000Z
+updatedAt: 2026-05-22T11:00:00.000Z
 productTeam: Pedidos
-slugEN: 2026-05-08-orders-custom-data-now-visible-in-the-vtex-admin
+slugEN: 2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin
 locale: en
 announcementSynopsisPT: 'App and custom field data is displayed on the orders screen in the VTEX Admin.'
 tags:
@@ -12,7 +12,7 @@ tags:
 
 Custom data now displays on orders in the VTEX Admin. With this update, you can view the custom fields of each order and specific app information directly on the order details page.
 
-![Custom data in VTEX Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/docs/pt/announcements/2026/maio/2026-05-08-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex.png)
+![Custom data in VTEX Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/docs/en/announcements/2026/may/2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin.png)
 
 ## What has changed?
 
