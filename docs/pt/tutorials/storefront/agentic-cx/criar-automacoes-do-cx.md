@@ -17,9 +17,7 @@ subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 
 ## Visão geral
 
-Automações são projetadas para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, as automações podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de uma automação é:
-
-`weni project push agent_definition.yaml`
+Automações são projetadas para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, as automações podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de uma automação é: `weni project push agent_definition.yaml`.
 
 ## Conceitos Básicos e Estrutura YAML
 
@@ -199,4 +197,4 @@ Após o pré‑processamento, o agente percorre as regras definidas no YAML em o
 
 Automações permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável para informar seus clientes no momento certo.
 
-> [Aqui](https://github.com/weni-ai/weni-active-agents-example) você encontrará um exemplo de código de automação.
+> [Aqui](https://github.com/weni-ai/weni-example-agents) você encontrará um exemplo de código de automação.
