@@ -61212,6 +61212,21 @@
             },
             {
               "name": {
+                "en": "Payment rule not applied due to BIN issuer mismatch",
+                "es": "No se ha aplicado la regla de pago debido a una discrepancia en el código BIN del emisor",
+                "pt": "Regra de pagamento não aplicada devido à incompatibilidade do BIN do emissor"
+              },
+              "slug": {
+                "en": "payment-rule-not-applied-due-to-bin-issuer-mismatch",
+                "es": "no-se-ha-aplicado-la-regla-de-pago-debido-a-una-discrepancia-en-el-codigo-bin-del-emisor",
+                "pt": "regra-de-pagamento-nao-aplicada-devido-a-incompatibilidade-do-bin-do-emissor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)",
                 "es": "El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).",
                 "pt": "O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)"
@@ -61250,6 +61265,21 @@
                 "en": "payment-stuck-after-early-cancellation-request-during-settling",
                 "es": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
                 "pt": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment Stuck in \"Received\" Status — Transaction does not progress to \"Approved\" status",
+                "es": "El pago se ha quedado en el estado «Recibido»: la transacción no pasa al estado «Aprobado»",
+                "pt": "Pagamento preso no status \"Recebido\" — A transação não avança para o status \"Aprovado\""
+              },
+              "slug": {
+                "en": "payment-stuck-in-received-status-transaction-does-not-progress-to-approved-status",
+                "es": "el-pago-se-ha-quedado-en-el-estado-recibido-la-transaccion-no-pasa-al-estado-aprobado",
+                "pt": "pagamento-preso-no-status-recebido-a-transacao-nao-avanca-para-o-status-aprovado"
               },
               "origin": "",
               "type": "markdown",
