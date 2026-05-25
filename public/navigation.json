@@ -33998,14 +33998,14 @@
                 },
                 {
                   "name": {
-                    "en": "Configure scheduled delivery in FastCheckout",
-                    "es": "Configurar entrega programada en FastCheckout",
-                    "pt": "Configurar entrega agendada no FastCheckout"
+                    "en": "Configure scheduled delivery in Buyer Portal Checkout",
+                    "es": "Configurar entrega programada en Buyer Portal Checkout",
+                    "pt": "Configurar entrega agendada no Buyer Portal Checkout"
                   },
                   "slug": {
-                    "en": "configure-scheduled-delivery-fastcheckout",
-                    "es": "configurar-entrega-programada-fastcheckout",
-                    "pt": "configurar-entrega-agendada-fastcheckout"
+                    "en": "configure-scheduled-delivery-buyer-portal-checkout",
+                    "es": "configurar-entrega-programada-buyer-portal-checkout",
+                    "pt": "configurar-entrega-agendada-buyer-portal-checkout"
                   },
                   "origin": "",
                   "type": "markdown",
