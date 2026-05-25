@@ -25418,8 +25418,8 @@
                   },
                   "slug": {
                     "en": "master-data",
-                    "es": "master-data",
-                    "pt": "master-data"
+                    "es": "master-data-es",
+                    "pt": "master-data-pt"
                   },
                   "origin": "",
                   "type": "markdown",
