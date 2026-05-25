@@ -10,14 +10,14 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-> ℹ️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
+> ℹ️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 Scheduled delivery in Buyer Portal Checkout allows VTEX stores to offer customers the option to choose the best day and time to receive their purchases. You can configure this directly in your shipping policies to define the available delivery periods.
 
-> ⚠️ For [Scheduled delivery](/en/docs/tutorials/scheduled-delivery) and [Delivery capacity](https://help.vtex.com/docs/tutorials/managing-delivery-capacity) to work properly, note that:
+> ⚠️ For [Scheduled delivery](/en/docs/tutorials/scheduled-delivery) and [Delivery capacity](https://help.vtex.com/en/docs/tutorials/managing-delivery-capacity) to work properly, note that:
 >
-> - The sum of [`account name`](https://help.vtex.com/docs/tutorials/what-is-an-account-name) and `shipping policy ID` can't exceed 60 characters.
-> - The [shipping policy](https://help.vtex.com/docs/tutorials/creating-a-shipping-policy) ID can't contain spaces.
+> - The sum of [`account name`](https://help.vtex.com/en/docs/tutorials/what-is-an-account-name) and `shipping policy ID` can't exceed 60 characters.
+> - The [shipping policy](https://help.vtex.com/en/docs/tutorials/creating-a-shipping-policy) ID can't contain spaces.
 
 This article explains how to configure scheduled delivery in an existing or new shipping policy.
 
@@ -32,7 +32,7 @@ Delivery windows define the carrier's business hours, meaning the times they acc
 To configure delivery windows in a shipping policy, follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type **Shipping Strategy** in the search bar at the top of the page.
-2. In the **Shipping policies** tab, click the desired shipping policy, or [create a new shipping policy](https://help.vtex.com/docs/tutorials/creating-a-shipping-policy).
+2. In the **Shipping policies** tab, click the desired shipping policy, or [create a new shipping policy](https://help.vtex.com/en/docs/tutorials/creating-a-shipping-policy).
 3. In the **Business hours** section, click the `Delivery window` tab.
 4. You can activate the `Accept orders outside business hours` option. When this option is enabled and an order is placed outside business hours, the time until the next available delivery window will be added to the total delivery time.
 5. Select the `Day of the week`, the `Start time`, and the `End time`.
@@ -77,7 +77,7 @@ To configure delivery capacity, follow the steps below:
 ## Learn more
 
 - [Shipping policy](/en/docs/tutorials/shipping-policy)
-- [Creating a shipping policy](https://help.vtex.com/docs/tutorials/creating-a-shipping-policy)
+- [Creating a shipping policy](https://help.vtex.com/en/docs/tutorials/creating-a-shipping-policy)
 - [Scheduled delivery](/en/docs/tutorials/scheduled-delivery)
 - [Managing delivery capacity](/en/docs/tutorials/managing-delivery-capacity)
 - [Shipping strategy](/en/docs/tutorials/shipping-strategy)
