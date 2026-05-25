@@ -61319,6 +61319,21 @@
             },
             {
               "name": {
+                "en": "Payment Stuck in \"Received\" Status — Transaction does not progress to \"Approved\" status",
+                "es": "El pago se ha quedado en el estado «Recibido»: la transacción no pasa al estado «Aprobado»",
+                "pt": "Pagamento preso no status \"Recebido\" — A transação não avança para o status \"Aprovado\""
+              },
+              "slug": {
+                "en": "payment-stuck-in-received-status-transaction-does-not-progress-to-approved-status",
+                "es": "el-pago-se-ha-quedado-en-el-estado-recibido-la-transaccion-no-pasa-al-estado-aprobado",
+                "pt": "pagamento-preso-no-status-recebido-a-transacao-nao-avanca-para-o-status-aprovado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payments Admin Defense Mode settings page fails to load (permissions and GET /admin/iframe/transactions/settings 500)",
                 "es": "La página de configuración del modo de defensa de la administración de pagos no se carga (permisos y GET /admin/iframe/transactions/settings 500).",
                 "pt": "A página de configurações do Modo de Defesa do Administrador de Pagamentos não carrega (permissões e GET /admin/iframe/transactions/settings 500)"
