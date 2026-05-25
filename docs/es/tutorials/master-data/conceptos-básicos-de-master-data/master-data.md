@@ -116,6 +116,59 @@ Puedes guardar un documento en cualquier entidad de datos si el contenido es un 
 
 > ℹ️ Un documento puede ser compatible con varios esquemas JSON, o con ninguno.
 
+## Entidades nativas de Master Data
+
+VTEX crea algunas entidades de datos automáticamente para admitir funcionalidades nativas de la plataforma. Entre ellas se encuentran:
+
+- `orders`
+- `cl` (clientes)
+- `ad` (direcciones)
+- `audit`
+- `queuemessagevo`
+- `scheduler`
+- `bk`
+- `subscription`
+- `gc`
+- `gt`
+- `il`
+- `iw`
+- `rd`
+- `od`
+- `so`
+- `iy`
+- `au`
+- `shopper`
+- `customFieldSettings`
+- `customFieldValues`
+- `vtex_admin_cms_graphql_content`
+- `vtex_admin_cms_graphql_contentVariant`
+- `sb`
+
+## Entidades de datos personalizadas
+
+Además de las [entidades nativas](#entidades-nativas-de-master-data) que VTEX crea automáticamente, tu operación puede crear entidades de datos personalizadas para almacenar información específica de tu negocio.
+
+Las entidades personalizadas se pueden crear:
+
+- En la v1, vía Admin VTEX. Consulta cómo [crear una entidad de datos](/es/docs/tutorials/entidade-de-datos).
+- En la v2, exclusivamente vía [API de Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2).
+
+### Facturación
+
+El uso de entidades nativas es gratuito. El uso de entidades personalizadas se factura mensualmente, en rangos que varían según el volumen total de documentos almacenados.
+
+Para conocer los valores aplicables a tu operación, consulta tu contrato comercial o ponte en contacto con el [soporte de VTEX](https://support.vtex.com/).
+
+Por cada pago realizado durante la vigencia del contrato se concede un crédito de facturación equivalente al 2% del valor neto pagado. Los créditos se acumulan durante la vigencia del contrato y están disponibles para utilizarlos hasta su finalización.
+
+Tanto la medición como la facturación siguen un ciclo mensual:
+
+- El día 25 de cada mes se genera un snapshot del volumen de documentos almacenados.
+- Entre el 20 y el 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
+- La facturación del uso de Master Data se realiza en la misma factura de las Commerce Platform Fees, con el desglose del valor total de uso, los créditos aplicados y el valor final.
+
+> ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [descargar las facturas de VTEX](/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
+
 ## Aplicaciones
 
 Ambas versiones de Master Data son extremadamente flexibles, lo cual te permite cubrir diversas necesidades de tu tienda. A continuación, puedes ver algunos ejemplos de cómo se aplican las funcionalidades de Master Data.
