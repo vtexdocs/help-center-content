@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "2026-may",
+                "es": "2026-mayo",
+                "pt": "2026-maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: Custom data now visible in the VTEX Admin",
+                    "es": "Pedidos: datos personalizados ahora visibles en el Admin VTEX",
+                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin",
+                    "es": "2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex",
+                    "pt": "2026-05-22-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Operational capacity is now available globally",
+                    "es": "Capacidad operativa disponible a nivel global",
+                    "pt": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "en": "2026-05-19-operational-capacity-now-in-ga",
+                    "es": "2026-05-19-capacidad-operativa-disponible-nivel-global",
+                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
@@ -14569,12 +14615,12 @@
                   "name": {
                     "en": "3. Shipping strategy: Shopee seller logistics",
                     "es": "3. Estrategia de envío: logística del vendedor Shopee",
-                    "pt": "3. Shipping strategy: Shopee seller logistics"
+                    "pt": "3. Estratégia de envio: logística do vendedor Shopee"
                   },
                   "slug": {
                     "en": "seller-logistics-shopee",
                     "es": "logistica-del-vendedor-shopee",
-                    "pt": ""
+                    "pt": "logistica-do-vendedor-shopee"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14599,12 +14645,12 @@
                   "name": {
                     "en": "5. Shipping strategy: Shopee full logistics",
                     "es": "5. Estrategia de envío: Shopee full logistics",
-                    "pt": "5. Shipping strategy: Shopee full logistics"
+                    "pt": "5. Estratégia de envio: Shopee full logistics"
                   },
                   "slug": {
                     "en": "shopee-full-logistics",
                     "es": "shopee-full-logistics",
-                    "pt": ""
+                    "pt": "shopee-full-logistics"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18228,21 +18274,6 @@
                     "en": "delivery-promise-faq",
                     "es": "delivery-promise-faq",
                     "pt": "delivery-promise-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Operational capacity (Beta)",
-                    "es": "Capacidad operativa (beta)",
-                    "pt": "Capacidade operacional (Beta)"
-                  },
-                  "slug": {
-                    "en": "operational-capacity-beta",
-                    "es": "capacidad-operacional-beta",
-                    "pt": "capacidade-operacional-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34617,6 +34648,37 @@
             },
             {
               "name": {
+                "en": "Operational capacity",
+                "es": "Capacidad operativa",
+                "pt": "Capacidade operacional"
+              },
+              "slug": {
+                "en": "operational-capacity-category",
+                "es": "capacidad-operativa-category",
+                "pt": "capacidade-operacional-category"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity",
+                    "es": "Capacidad operativa",
+                    "pt": "Capacidade operacional"
+                  },
+                  "slug": {
+                    "en": "operational-capacity",
+                    "es": "capacidad-operativa",
+                    "pt": "capacidade-operacional"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Registering geolocation",
                 "es": "Gestionar Geolocalización",
                 "pt": "Cadastrar geolocalização"
@@ -36049,27 +36111,12 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criar agentes ativos"
+                    "pt": "Criar automações do CX"
                   },
                   "slug": {
-                    "en": "create-active-agents",
-                    "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps",
-                    "es": "Primeros pasos",
-                    "pt": "First steps"
-                  },
-                  "slug": {
-                    "en": "first-steps",
-                    "es": "primeros-pasos",
-                    "pt": ""
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36079,27 +36126,12 @@
                   "name": {
                     "en": "Introduction to Agentic CX",
                     "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
+                    "pt": "Introdução ao CX"
                   },
                   "slug": {
-                    "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-agentic-ai",
-                    "pt": "introducao-ao-agentic-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Agentic CX",
-                    "es": "Instalando a Agentic CX",
-                    "pt": "Configurar o Agentic CX"
-                  },
-                  "slug": {
-                    "en": "manage-agentic-cx",
-                    "es": "instalando-a-agentic-cx",
-                    "pt": "configurar-o-agentic-cx"
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
