@@ -27340,6 +27340,37 @@
             },
             {
               "name": {
+                "en": "Configuración de Pagos",
+                "es": "Configuración de Pagos",
+                "pt": "Configurações de Pagamentos"
+              },
+              "slug": {
+                "en": "configuracion-de-pagos",
+                "es": "configuracion-de-pagos-subcategoria",
+                "pt": "configurações-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Contigency Mode",
+                    "pt": "Contigency Mode",
+                    "en": "Contigency Mode"
+                  },
+                  "slug": {
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Payment Settings",
                 "es": "Configuración de Pagos",
                 "pt": "Configurações de Pagamentos"
@@ -27872,21 +27903,6 @@
                     "en": "list-of-payment-providers-by-country",
                     "es": "lista-de-proveedores-de-pago-por-pais",
                     "pt": "lista-de-provedores-de-pagamento-por-pais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mode-Off: FAQ",
-                    "es": "Mode-Off: FAQ",
-                    "pt": "Contigency Mode"
-                  },
-                  "slug": {
-                    "en": "mode-off-faq",
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
