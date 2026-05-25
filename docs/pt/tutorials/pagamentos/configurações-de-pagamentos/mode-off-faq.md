@@ -127,9 +127,9 @@ O diagrama a seguir mostra o comportamento das autorizações agendadas:
 ```mermaid
 flowchart TD
     A[Autorização chega \nenquanto o conector \nestá em Contingency Mode] --> B[VTEX não chama o conector]
-    B --> C[Pagamento é adiado por \nX minutos]
+    B --> C[Pagamento é enviado \npara uma fila de \nreprocessamento]
     C --> D[Pagamento fica como \nautorização agendada]
-    D --> E[Após X minutos, \nVTEX retenta a \nautorização]
+    D --> E[A VTEX realiza automaticamente uma nova tentativa de autorização]
     E --> F[VTEX inicia novamente \no processo de autorização]
     F --> G{Conector está em \nContingency Mode no \nmomento da retentativa?}
     G -- Sim --> C
@@ -159,7 +159,7 @@ Quando `delayToCancel` é igual ou maior que 1 dia, as retentativas geralmente o
 
 Para mais informações, consulte o [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments) endpoint.
 
-> ℹ️ Para pagamentos com [PIX](https://help.vtex.com/pt/docs/tutorials/configurar-pix-como-meio-de-pagamento), ou quando `delayToCancel` é configurado entre 5 minutos e 1 hora, as chamadas de retry geralmente ocorrem a cada 5 minutos.
+> ℹ️ Embora pagamentos via [PIX](https://help.vtex.com/pt/docs/tutorials/configurar-pix-como-meio-de-pagamento) não sejam afetados pelo **Contingency Mode**, ou seja, não haja bloqueio de transações realizadas por esse meio, outros problemas podem interromper o processamento do pagamento. Nesses casos, quando o campo `delayToCancel` está configurado entre 5 minutos e 1 hora, as tentativas de retry geralmente ocorrem a cada 5 minutos.
 
 > ⚠️ O tempo de retry pode variar conforme o meio de pagamento, as configurações da conta e as condições operacionais. A VTEX gerencia esse processo automaticamente para que as retentativas ocorram no menor intervalo possível, reduzindo o tempo de processamento da fila de transações pendentes.
 
