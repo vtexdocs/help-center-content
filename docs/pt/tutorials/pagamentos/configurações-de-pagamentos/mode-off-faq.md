@@ -3,7 +3,7 @@ title: 'Contigency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2026-05-14T00:00:00.000Z
+updatedAt: 2026-05-25T00:00:00.000Z
 publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
@@ -25,7 +25,7 @@ Este artigo explica:
 - [Como funcionam a recuperação do conector e as retentativas](#recuperação-e-comportamento-de-retentativas)
 - [Como identificar o **Contingency Mode**](#como-identificar-o-contingency-mode)
 - [O que fazer quando o **Contigency Mode** está ativo](#o-que-fazer-quando-o-contingency-mode-está-ativo)
-- [Orientações para provedores de pagamento](#orientação-para-provedores-de-pagamento) 
+- [Orientações para provedores de pagamento](#orientação-para-provedores-de-pagamento)
 
 > ℹ️ Os lojistas não precisam configurar nem ativar o **Contingency Mode** manualmente. A VTEX gerencia automaticamente a ativação, a recuperação e as retentativas de transações.
 
@@ -93,7 +93,7 @@ O **Contingency Mode** não cancela pedidos por si só. As transações afetadas
 
 > ℹ️ O **Contingency Mode** não substitui as regras normais de expiração e cancelamento de pagamento. Se o pagamento não puder ser autorizado antes do prazo aplicável, o pedido ainda poderá ser cancelado conforme o fluxo normal do pedido.
 
-Os clientes podem ver o pagamento como em processamento ou pendente enquanto a VTEX aguarda a próxima retentativa da autorização. 
+Os clientes podem ver o pagamento como em processamento ou pendente enquanto a VTEX aguarda a próxima retentativa da autorização.
 
 Os lojistas devem evitar pedir aos clientes que façam um novo pedido imediatamente, a menos que o pedido original já tenha sido cancelado ou que o meio de pagamento exija uma nova ação do cliente.
 
@@ -129,7 +129,7 @@ flowchart TD
     A[Autorização chega \nenquanto o conector \nestá em Contingency Mode] --> B[VTEX não chama o conector]
     B --> C[Pagamento é enviado \npara uma fila de \nreprocessamento]
     C --> D[Pagamento fica como \nautorização agendada]
-    D --> E[A VTEX realiza automaticamente uma nova tentativa de autorização]
+    D --> E[VTEX realiza automaticamente uma nova tentativa de autorização]
     E --> F[VTEX inicia novamente \no processo de autorização]
     F --> G{Conector está em \nContingency Mode no \nmomento da retentativa?}
     G -- Sim --> C

@@ -1,9 +1,9 @@
 ---
-title: 'Mode-Off: FAQ'
+title: ''Contigency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2024-04-11T19:26:47.407Z
+updatedAt: 2026-05-25T00:00:00.000Z
 publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
@@ -14,6 +14,8 @@ legacySlug: mode-off-faq
 locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>>>WIP Localization>>>
 
 Mode-off is a feature of the VTEX [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol).
 
