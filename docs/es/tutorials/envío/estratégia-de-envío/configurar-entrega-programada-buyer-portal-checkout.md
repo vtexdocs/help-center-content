@@ -1,18 +1,18 @@
 ---
-title: 'Configurar entrega programada en FastCheckout'
+title: 'Configurar entrega programada en Buyer Portal Checkout'
 status: PUBLISHED
 createdAt: 2026-04-22T00:00:00.000Z
 updatedAt: 2026-04-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: configure-scheduled-delivery-fastcheckout
+slugEN: configure-scheduled-delivery-buyer-portal-checkout
 locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
 > ℹ️ Esta funcionalidad está disponible solo para tiendas que utilizan [B2B Buyer Portal](https://help.vtex.com/es/docs/tutorials/b2b-buyer-portal-es), que actualmente está disponible para cuentas seleccionadas.
 
-La entrega programada en FastCheckout permite a las tiendas VTEX ofrecer a los clientes la posibilidad de elegir el mejor día y hora para recibir sus compras. Esta configuración se realiza directamente en las políticas de envío y define los periodos disponibles para las entregas.
+La entrega programada en Buyer Portal Checkout permite a las tiendas VTEX ofrecer a los clientes la posibilidad de elegir el mejor día y hora para recibir sus compras. Esta configuración se realiza directamente en las políticas de envío y define los periodos disponibles para las entregas.
 
 > ⚠️ Para que la [Entrega programada](/es/docs/tutorials/entrega-programada) y la [Capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega) funcionen correctamente debes tener en cuenta que:
 >
@@ -21,7 +21,7 @@ La entrega programada en FastCheckout permite a las tiendas VTEX ofrecer a los c
 
 Este artículo muestra cómo configurar la entrega programada en una política de envío ya existente o en una nueva política de envío.
 
-![Entrega programada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
+![Entrega programada Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
 
 ## Ventanas de entrega
 

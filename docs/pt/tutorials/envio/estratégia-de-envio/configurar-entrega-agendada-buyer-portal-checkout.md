@@ -1,18 +1,18 @@
 ---
-title: 'Configurar entrega agendada no FastCheckout'
+title: 'Configurar entrega agendada no Buyer Portal Checkout'
 status: PUBLISHED
 createdAt: 2026-04-22T00:00:00.000Z
 updatedAt: 2026-04-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: configure-scheduled-delivery-fastcheckout
+slugEN: configure-scheduled-delivery-buyer-portal-checkout
 locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
 > ℹ️ Esta funcionalidade está disponível apenas para lojas que utilizam o [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), que atualmente está disponível para contas selecionadas.
 
-A entrega agendada no FastCheckout permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
+A entrega agendada no Buyer Portal Checkout permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
 > ⚠️ Para que a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e a [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) funcionem corretamente, você deve observar que:
 >
@@ -21,7 +21,7 @@ A entrega agendada no FastCheckout permite às lojas VTEX oferecer aos clientes 
 
 Este artigo apresenta como configurar a entrega agendada em uma política de envio existente ou em uma nova política de envio.
 
-![Entrega agendada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
+![Entrega agendada Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
 
 ## Janelas de envio
 

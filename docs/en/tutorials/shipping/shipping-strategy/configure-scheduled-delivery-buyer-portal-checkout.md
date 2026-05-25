@@ -1,18 +1,18 @@
 ---
-title: 'Configure scheduled delivery in FastCheckout'
+title: 'Configure scheduled delivery in Buyer Portal Checkout'
 status: PUBLISHED
 createdAt: 2026-04-22T00:00:00.000Z
 updatedAt: 2026-04-22T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: configure-scheduled-delivery-fastcheckout
+slugEN: configure-scheduled-delivery-buyer-portal-checkout
 locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
 > ℹ️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
-Scheduled delivery in FastCheckout allows VTEX stores to offer customers the option to choose the best day and time to receive their purchases. You can configure this directly in your shipping policies to define the available delivery periods.
+Scheduled delivery in Buyer Portal Checkout allows VTEX stores to offer customers the option to choose the best day and time to receive their purchases. You can configure this directly in your shipping policies to define the available delivery periods.
 
 > ⚠️ For [Scheduled delivery](/en/docs/tutorials/scheduled-delivery) and [Delivery capacity](https://help.vtex.com/docs/tutorials/managing-delivery-capacity) to work properly, note that:
 >
@@ -21,7 +21,7 @@ Scheduled delivery in FastCheckout allows VTEX stores to offer customers the opt
 
 This article explains how to configure scheduled delivery in an existing or new shipping policy.
 
-![Entrega agendada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
+![Entrega agendada Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/configurar-entrega-agendada-fastcheckout_1.png)
 
 ## Delivery windows
 
