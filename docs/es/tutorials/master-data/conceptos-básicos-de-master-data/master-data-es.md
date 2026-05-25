@@ -118,35 +118,49 @@ Puedes guardar un documento en cualquier entidad de datos si el contenido es un 
 
 ## Entidades nativas de Master Data
 
-VTEX crea algunas entidades de datos automáticamente para admitir funcionalidades nativas de la plataforma. Entre ellas se encuentran:
+VTEX crea algunas entidades de datos automáticamente para admitir funcionalidades nativas de la plataforma.
 
-- `orders`
-- `cl` (clientes)
-- `ad` (direcciones)
-- `audit`
-- `queuemessagevo`
-- `scheduler`
-- `bk`
-- `subscription`
-- `gc`
-- `gt`
-- `il`
-- `iw`
-- `rd`
-- `od`
-- `so`
-- `iy`
-- `au`
-- `shopper`
-- `customFieldSettings`
-- `customFieldValues`
-- `vtex_admin_cms_graphql_content`
-- `vtex_admin_cms_graphql_contentVariant`
-- `sb`
+### Entidades nativas de Master Data v1
+
+| **Entidad** | **Nombre**             |
+|-------------|------------------------|
+| `cl`        | Clients                |
+| `ad`        | Addresses              |
+| `bk`        | Bucket                 |
+| `gc`        | giftcard               |
+| `gt`        | giftcard-constraint    |
+| `il`        | internal-logs          |
+| `iw`        | internal-warnings      |
+| `rd`        | order                  |
+| `od`        | Orders                 |
+| `so`        | Stores                 |
+| `iy`        | availability-item      |
+| `au`        | Audit                  |
+| `sb`        | BridgeOrderSeller      |
+| `bx`        | buzz-extract           |
+| `bb`        | buzz-billing           |
+| `bo`        | BridgeOrder            |
+| `mb`        | BridgeOrderMarketplace |
+| `hl`        | Holidays               |
+
+### Entidades nativas de Master Data v2
+
+| **Entidad**                             | **Nombre**                            |
+|-----------------------------------------|---------------------------------------|
+| `orders`                                | orders                                |
+| `audit`                                 | audit                                 |
+| `queuemessagevo`                        | queuemessagevo                        |
+| `scheduler`                             | scheduler                             |
+| `subscription`                          | subscription                          |
+| `shopper`                               | shopper                               |
+| `customFieldSettings`                   | customFieldSettings                   |
+| `customFieldValues`                     | customFieldValues                     |
+| `vtex_admin_cms_graphql_content`        | vtex_admin_cms_graphql_content        |
+| `vtex_admin_cms_graphql_contentVariant` | vtex_admin_cms_graphql_contentVariant |
 
 ## Entidades de datos personalizadas
 
-Además de las [entidades nativas](#entidades-nativas-de-master-data) que VTEX crea automáticamente, tu operación puede crear entidades de datos personalizadas para almacenar información específica de tu negocio.
+Además de las [entidades nativas](#entidades-nativas-de-master-data) que VTEX crea automáticamente, como `CL` (clientes), `AD` (direcciones) y otras entidades estándar de la plataforma de comercio, tu operación puede crear entidades de datos personalizadas para almacenar información específica de tu negocio.
 
 Las entidades personalizadas se pueden crear:
 
@@ -155,17 +169,16 @@ Las entidades personalizadas se pueden crear:
 
 ### Facturación
 
-El uso de entidades nativas es gratuito. El uso de entidades personalizadas se factura mensualmente, en rangos que varían según el volumen total de documentos almacenados.
+El uso de entidades nativas es gratuito. El uso de entidades personalizadas se factura mensualmente, en rangos que varían según el volumen total de documentos almacenados. A efectos de facturación, cada archivo de hasta 100KB se contabiliza como un documento.
 
 Para conocer los valores aplicables a tu operación, consulta tu contrato comercial o ponte en contacto con el [soporte de VTEX](https://support.vtex.com/).
 
-Por cada pago realizado durante la vigencia del contrato se concede un crédito de facturación equivalente al 2% del valor neto pagado. Los créditos se acumulan durante la vigencia del contrato y están disponibles para utilizarlos hasta su finalización.
+Por cada pago realizado durante la vigencia del contrato se concede un crédito de facturación equivalente al 2% del valor neto pagado por los productos VTEX Commerce Platform y CX Commerce Platform. Los créditos se acumulan durante la vigencia del contrato y están disponibles para utilizarlos hasta su finalización.
 
 Tanto la medición como la facturación siguen un ciclo mensual:
 
-- El día 25 de cada mes se genera un snapshot del volumen de documentos almacenados.
-- Entre el 20 y el 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
-- La facturación del uso de Master Data se realiza en la misma factura de las Commerce Platform Fees, con el desglose del valor total de uso, los créditos aplicados y el valor final.
+- Al final de cada mes se genera un snapshot del volumen de documentos almacenados en entidades no nativas.
+- Hasta el día 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
 
 > ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [descargar las facturas de VTEX](/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
 
