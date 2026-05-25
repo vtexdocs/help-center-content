@@ -282,6 +282,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "june",
+                "es": "junio",
+                "pt": "junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Budget Pacing now available in VTEX Ads",
+                    "es": "Budget Pacing disponible en VTEX Ads",
+                    "pt": "Budget Pacing disponível no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-06-22-budget-pacing-now-available-in-vtex-ads",
+                    "es": "2026-06-22-budget-pacing-disponible-en-vtex-ads",
+                    "pt": "2026-06-22-budget-pacing-disponivel-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -38446,6 +38477,68 @@
                 "en": "code-action-first-steps",
                 "es": "primeros-pasos-code-action",
                 "pt": "primeiros-passos-code-action"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "VTEX ADS",
+            "es": "VTEX ADS",
+            "pt": "VTEX ADS"
+          },
+          "slug": {
+            "en": "vtex-ads",
+            "es": "vtex-ads",
+            "pt": "vtex-ads"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Budget campaigns",
+                "es": "Presupuesto de campanas",
+                "pt": "Orcamento de campanhas"
+              },
+              "slug": {
+                "en": "budget-campaigns",
+                "es": "presupuesto-de-campanas",
+                "pt": "orcamento-de-campanhas"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Monitor budget consumption",
+                    "es": "Monitorear el consumo de presupuesto",
+                    "pt": "Monitorar o consumo de orçamento"
+                  },
+                  "slug": {
+                    "en": "monitor-budget-consumption",
+                    "es": "monitorear-consumo-de-presupuesto",
+                    "pt": "monitorar-consumo-de-orcamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Budget Pacing",
+                "es": "Budget Pacing",
+                "pt": "Budget Pacing"
+              },
+              "slug": {
+                "en": "budget-pacing",
+                "es": "budget-pacing-es",
+                "pt": "budget-pacing-pt"
               },
               "origin": "",
               "type": "markdown",
