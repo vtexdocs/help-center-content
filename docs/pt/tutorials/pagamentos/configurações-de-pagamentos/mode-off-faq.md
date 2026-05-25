@@ -118,7 +118,7 @@ Transações adiadas durante o **Contingency Mode** não são necessariamente re
 Essas transações seguem um fluxo independente de retentativa baseado:
 
 - Nas regras de retry do meio de pagamento.
-- No tempo de cancelamento do pagamento (delayToCancel).
+- No tempo de cancelamento do pagamento (`delayToCancel`).
 - Nas informações retornadas pelo provedor.
 - Em outras condições operacionais do fluxo de pagamento.
 
@@ -159,11 +159,9 @@ Quando `delayToCancel` é igual ou maior que 1 dia, as retentativas geralmente o
 
 Para mais informações, consulte o [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments) endpoint.
 
-
-
 > ℹ️ Para pagamentos com [PIX](https://help.vtex.com/pt/docs/tutorials/configurar-pix-como-meio-de-pagamento), ou quando `delayToCancel` é configurado entre 5 minutos e 1 hora, as chamadas de retry geralmente ocorrem a cada 5 minutos.
 
-> ℹ️ O tempo de retry pode variar conforme o meio de pagamento, da configuração da conta e as condições operacionais. A VTEX gerencia esse processo automaticamente.
+> ⚠️ O tempo de retry pode variar conforme o meio de pagamento, as configurações da conta e as condições operacionais. A VTEX gerencia esse processo automaticamente para que as retentativas ocorram no menor intervalo possível, reduzindo o tempo de processamento da fila de transações pendentes.
 
 ## Como identificar o Contingency Mode
 
