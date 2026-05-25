@@ -116,6 +116,59 @@ You can save a document to any data entity if the content is a valid JSON. A dat
 
 > ℹ️ A document can be compatible with multiple JSON Schemas, but also with none.
 
+## Master Data native entities
+
+Some data entities are automatically created by VTEX to support native platform features. These include:
+
+- `orders`
+- `cl` (clients)
+- `ad` (addresses)
+- `audit`
+- `queuemessagevo`
+- `scheduler`
+- `bk`
+- `subscription`
+- `gc`
+- `gt`
+- `il`
+- `iw`
+- `rd`
+- `od`
+- `so`
+- `iy`
+- `au`
+- `shopper`
+- `customFieldSettings`
+- `customFieldValues`
+- `vtex_admin_cms_graphql_content`
+- `vtex_admin_cms_graphql_contentVariant`
+- `sb`
+
+## Custom data entities
+
+In addition to the [native entities](#master-data-native-entities) automatically created by VTEX, your operation can create custom data entities to store business-specific information.
+
+Custom entities can be created:
+
+- In v1, through the VTEX Admin. Learn how to [create a data entity](/docs/tutorials/data-entity).
+- In v2, exclusively through the Master Data v2 API (https://developers.vtex.com/docs/api-reference/master-data-api-v2).
+
+### Billing
+
+The use of native entities is free of charge. The use of custom entities is billed monthly, with tiers based on the number of documents stored.
+
+To learn about the amount applicable to your operation, see your commercial agreement or contact [VTEX support](https://support.vtex.com/).
+
+For each payment made during the term of the agreement, a billing credit corresponding to 2% of the net amount paid will be granted. The credits accumulate throughout the term of the agreement and remain available for use until its termination.
+
+Measurement and billing follow a monthly cycle:
+
+- On the 25th of each month, a snapshot of the stored document volume is generated.
+- Between the 20th and 30th of each month, VTEX calculates the amounts related to Master Data usage and the applicable credits for the next invoice.
+- Usage is billed on the same invoice as the Commerce Platform Fees, including a breakdown of the total usage amount, granted credits, and final amount due.
+
+> To view billing details, learn how to [download VTEX invoices](/docs/tutorials/how-to-download-the-vtex-invoices).
+
 ## Applications
 
 Both versions of Master Data are extremely flexible, allowing you to meet a variety of your store's needs. You may check below some examples of applying Master Data functionalities.
