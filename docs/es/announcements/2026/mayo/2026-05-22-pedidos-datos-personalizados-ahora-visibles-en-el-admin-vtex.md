@@ -12,7 +12,7 @@ tags:
 
 Los datos personalizados ahora se muestran en los pedidos en el Admin de VTEX. Con esta actualización, puedes ver los campos personalizados de cada pedido y la información específica de las aplicaciones directamente en la página de detalles del pedido.
 
-![Datos personalizados en el Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/docs/es/announcements/2026/mayo/2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex.png)
+![Datos personalizados en el Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2026/mayo/2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex.png)
 
 ## ¿Qué cambió?
 
