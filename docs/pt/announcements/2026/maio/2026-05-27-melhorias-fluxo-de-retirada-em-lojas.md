@@ -3,7 +3,7 @@ title: 'Melhorias no fluxo de retirada em loja'
 createdAt: 2026-05-27T11:30:00.000Z
 updatedAt: 2026-05-27T11:00:00.000Z
 productTeam: Pick and Pack
-slugEN: 2026-05-27-In-store-pickup-flow-improvements
+slugEN: 2026-05-27-in-store-pickup-flow-improvements
 locale: pt
 announcementSynopsisPT: 'Melhore a experiência Buy Online Pickup In-Store com confirmação rápida de retirada e faturamento automático no Last Mile.'
 tags:
