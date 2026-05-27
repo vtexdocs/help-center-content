@@ -122,41 +122,107 @@ Some data entities are automatically created by VTEX to support native platform 
 
 ### Master Data v1 native entities
 
-| **Entity** | **Name**               |
-|------------|------------------------|
-| `cl`       | Clients                |
-| `ad`       | Addresses              |
-| `bk`       | Bucket                 |
-| `gc`       | giftcard               |
-| `gt`       | giftcard-constraint    |
-| `il`       | internal-logs          |
-| `iw`       | internal-warnings      |
-| `rd`       | order                  |
-| `od`       | Orders                 |
-| `so`       | Stores                 |
-| `iy`       | availability-item      |
-| `au`       | Audit                  |
-| `sb`       | BridgeOrderSeller      |
-| `bx`       | buzz-extract           |
-| `bb`       | buzz-billing           |
-| `bo`       | BridgeOrder            |
-| `mb`       | BridgeOrderMarketplace |
-| `hl`       | Holidays               |
+| **Entity** | **Name** |
+|----------|--------|
+| `cl`  | Clients                 |
+| `ad`  | Addresses               |
+| `bk`  | Bucket                  |
+| `gc`  | giftcard                |
+| `gt`  | giftcard-constraint     |
+| `il`  | internal-logs           |
+| `iw`  | internal-warnings       |
+| `rd`  | order                   |
+| `od`  | Orders                  |
+| `so`  | Stores                  |
+| `iy`  | availability-item       |
+| `au`  | Audit                   |
+| `sb`  | BridgeOrderSeller       |
+| `bx`  | buzz-extract            |
+| `bb`  | buzz-billing            |
+| `bo`  | BridgeOrder             |
+| `mb`  | BridgeOrderMarketplace  |
+| `hl`  | Holidays                |
+| `AS`  | Availability Notifier   |
+| `LOG` | PayU temp log           |
+| `AE`  | Avatax BR tax data      |
+| `AL`  | Avatax calculation logs |
 
 ### Master Data v2 native entities
 
-| **Entity**                              | **Name**                              |
-|-----------------------------------------|---------------------------------------|
-| `orders`                                | orders                                |
+| **Entity** | **Name** |
+|----------|--------|
+| `account`                               | account                               |
+| `affiliates`                            | affiliates                            |
+| `affiliatesOrders`                      | affiliatesOrders                      |
 | `audit`                                 | audit                                 |
-| `queuemessagevo`                        | queuemessagevo                        |
-| `scheduler`                             | scheduler                             |
-| `subscription`                          | subscription                          |
-| `shopper`                               | shopper                               |
+| `b2b_profiles`                          | b2b_profiles                          |
+| `b2b_quote_marketplace`                 | b2b_quote_marketplace                 |
+| `b2b_roles`                             | b2b_roles                             |
+| `b2b_seller_quote`                      | b2b_seller_quote                      |
+| `b2b_users`                             | b2b_users                             |
+| `badges`                                | badges                                |
+| `BusinessOrganization`                  | BusinessOrganization                  |
+| `BusinessPermission`                    | BusinessPermission                    |
+| `BusinessRole`                          | BusinessRole                          |
+| `buyerOrgConfiguration`                 | buyerOrgConfiguration                 |
+| `buyerOrgMember`                        | buyerOrgMember                        |
+| `CANCEL_ORDER_FISCAL_CODE`              | CANCEL_ORDER_FISCAL_CODE              |
+| `checkoutcustom`                        | checkoutcustom                        |
+| `commissionBySKU`                       | commissionBySKU                       |
+| `commissioninvoices`                    | commissioninvoices                    |
+| `contact_information`                   | contact_information                   |
+| `cost_centers`                          | cost_centers                          |
 | `customFieldSettings`                   | customFieldSettings                   |
 | `customFieldValues`                     | customFieldValues                     |
+| `defaultValues`                         | defaultValues                         |
+| `eventRegistry`                         | eventRegistry                         |
+| `exemption`                             | exemption                             |
+| `externalinvoices`                      | externalinvoices                      |
+| `fulfillment-points`                    | fulfillment-points                    |
+| `giftCardList`                          | giftCardList                          |
+| `instoreSettings`                       | instoreSettings                       |
+| `interaction`                           | interaction                           |
+| `leyGondolas`                           | leyGondolas                           |
+| `MASTERDATA_ENTITY (resolve name)`      | MASTERDATA_ENTITY (resolve name)      |
+| `myWishlist`                            | myWishlist                            |
+| `myWishlists`                           | myWishlists                           |
+| `notify`                                | notify                                |
+| `onboarding`                            | onboarding                            |
+| `onboarding_modifications`              | onboarding_modifications              |
+| `ORDER_FISCAL_CODE`                     | ORDER_FISCAL_CODE                     |
+| `orderInfo`                             | orderInfo                             |
+| `orders`                                | orders                                |
+| `organization_requests`                 | organization_requests                 |
+| `organizations`                         | organizations                         |
+| `payuStatus`                            | payuStatus                            |
+| `pins`                                  | pins                                  |
+| `productInfo`                           | productInfo                           |
+| `productReviews`                        | productReviews                        |
+| `productsWithError`                     | productsWithError                     |
+| `queuemessagevo`                        | queuemessagevo                        |
+| `quotes`                                | quotes                                |
+| `Reseller`                              | Reseller                              |
+| `ReturnApp`                             | ReturnApp                             |
+| `returnRequest`                         | returnRequest                         |
+| `scheduler`                             | scheduler                             |
+| `sellerInfo`                            | sellerInfo                            |
+| `sellersdashboards`                     | sellersdashboards                     |
+| `shipment`                              | shipment                              |
+| `shopper`                               | shopper                               |
+| `smsMessagesSchema`                     | smsMessagesSchema                     |
+| `statisticsdashboards`                  | statisticsdashboards                  |
+| `subscription`                          | subscription                          |
+| `taxFallback{provider}`                 | taxFallback{provider}                 |
+| `templates`                             | templates                             |
+| `tradePolicyConfig`                     | tradePolicyConfig                     |
+| `userAffiliation`                       | userAffiliation                       |
+| `UserOrganization`                      | UserOrganization                      |
+| `views`                                 | views                                 |
 | `vtex_admin_cms_graphql_content`        | vtex_admin_cms_graphql_content        |
 | `vtex_admin_cms_graphql_contentVariant` | vtex_admin_cms_graphql_contentVariant |
+| `wishlist`                              | wishlist                              |
+| `wishlistitems`                         | wishlistitems                         |
+| `wishlists`                             | wishlists                             |
 
 ## Custom data entities
 
