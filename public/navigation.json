@@ -40479,6 +40479,21 @@
             },
             {
               "name": {
+                "en": "Catalog specification value 0 is omitted from product specification payload",
+                "es": "El valor 0 de la especificación del catálogo se omite en la carga útil de la especificación del producto",
+                "pt": "O valor 0 da especificação do catálogo é omitido da carga útil da especificação do produto"
+              },
+              "slug": {
+                "en": "catalog-specification-value-0-is-omitted-from-product-specification-payload",
+                "es": "el-valor-0-de-la-especificacion-del-catalogo-se-omite-en-la-carga-util-de-la-especificacion-del-producto",
+                "pt": "o-valor-0-da-especificacao-do-catalogo-e-omitido-da-carga-util-da-especificacao-do-produto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog translations not reflecting on the frontend",
                 "es": "Las traducciones del catálogo no se muestran en la interfaz de usuario",
                 "pt": "As traduções do catálogo não aparecem na interface do usuário"
@@ -43946,6 +43961,21 @@
             },
             {
               "name": {
+                "en": "Address Form's Map Marker component does not update the complete address",
+                "es": "El componente «Marcador de mapa» del formulario de direcciones no actualiza la dirección completa",
+                "pt": "O componente “Marcador no mapa” do formulário de endereço não atualiza o endereço completo"
+              },
+              "slug": {
+                "en": "address-forms-map-marker-component-does-not-update-the-complete-address",
+                "es": "el-componente-marcador-de-mapa-del-formulario-de-direcciones-no-actualiza-la-direccion-completa",
+                "pt": "o-componente-marcador-no-mapa-do-formulario-de-endereco-nao-atualiza-o-endereco-completo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Address in orderForm with excessive size for multiples cities separated by \"::\"",
                 "es": "Dirección en el formulario de pedido con un tamaño excesivo para varias ciudades separadas por «::»",
                 "pt": "Endereço no formulário de pedido com tamanho excessivo para várias cidades separadas por \"::\""
@@ -46894,6 +46924,21 @@
                 "en": "scheduled-delivery-window-change-for-all-items-when-selecting-a-common-one-in-the-cart-with-multiple-sellers",
                 "es": "cambio-de-la-ventana-de-entrega-programada-para-todos-los-articulos-al-seleccionar-uno-comun-en-el-carrito-con-varios-vendedores",
                 "pt": "alteracao-da-janela-de-entrega-programada-para-todos-os-itens-ao-selecionar-um-item-comum-no-carrinho-com-varios-vendedores"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Security Code persistence in UI form when changing from a saved card to a new card",
+                "es": "El código de seguridad permanece en el formulario de la interfaz de usuario al cambiar de una tarjeta guardada a una nueva",
+                "pt": "Persistência do código de segurança no formulário da interface do usuário ao mudar de um cartão salvo para um novo cartão"
+              },
+              "slug": {
+                "en": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
+                "es": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
+                "pt": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao"
               },
               "origin": "",
               "type": "markdown",
@@ -51558,6 +51603,21 @@
             },
             {
               "name": {
+                "en": "Autocomplete history searches with the \"/\" character are breaking the search result page",
+                "es": "Las búsquedas en el historial de autocompletado con el carácter «/» están provocando errores en la página de resultados de búsqueda",
+                "pt": "As pesquisas no histórico de autocompletar com o caractere \"/\" estão prejudicando a página de resultados da pesquisa"
+              },
+              "slug": {
+                "en": "autocomplete-history-searches-with-the-character-are-breaking-the-search-result-page",
+                "es": "las-busquedas-en-el-historial-de-autocompletado-con-el-caracter-estan-provocando-errores-en-la-pagina-de-resultados-de-busqueda",
+                "pt": "as-pesquisas-no-historico-de-autocompletar-com-o-caractere-estao-prejudicando-a-pagina-de-resultados-da-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Autocomplete not answering to cold starts",
                 "es": "La función de autocompletado no responde al iniciar el sistema en frío",
                 "pt": "A função de preenchimento automático não responde ao inicializar o sistema"
@@ -56212,6 +56272,21 @@
             },
             {
               "name": {
+                "en": "Search filter not working outside the first page in received SKU section",
+                "es": "El filtro de búsqueda no funciona más allá de la primera página en la sección de SKU recibidos",
+                "pt": "O filtro de pesquisa não funciona fora da primeira página na seção de SKUs recebidos"
+              },
+              "slug": {
+                "en": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
+                "es": "el-filtro-de-busqueda-no-funciona-mas-alla-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+                "pt": "o-filtro-de-pesquisa-nao-funciona-fora-da-primeira-pagina-na-secao-de-skus-recebidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller group creation does not add selected sellers",
                 "es": "La creación de un grupo de vendedores no añade a los vendedores seleccionados",
                 "pt": "A criação de um grupo de vendedores não adiciona os vendedores selecionados"
@@ -58225,6 +58300,21 @@
             },
             {
               "name": {
+                "en": "Scenarios Involving Goodwill Following an Order Modification",
+                "es": "Situaciones relacionadas con el fondo de comercio tras una modificación de la orden",
+                "pt": "Cenários envolvendo ágio após uma modificação de pedido"
+              },
+              "slug": {
+                "en": "scenarios-involving-goodwill-following-an-order-modification",
+                "es": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+                "pt": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con un problema en el cobro del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -59743,6 +59833,21 @@
             },
             {
               "name": {
+                "en": "Error when processing the second refund or cancellation with the same value as the first",
+                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+              },
+              "slug": {
+                "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
+                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Error when settling transaction with 2 cards - MercadoPagoV1",
                 "es": "Error al liquidar la transacción con 2 tarjetas - MercadoPagoV1",
                 "pt": "Erro ao liquidar transação com 2 cartões - MercadoPagoV1"
@@ -61108,6 +61213,21 @@
             },
             {
               "name": {
+                "en": "Payment rule not applied due to BIN issuer mismatch",
+                "es": "No se ha aplicado la regla de pago debido a una discrepancia en el código BIN del emisor",
+                "pt": "Regra de pagamento não aplicada devido à incompatibilidade do BIN do emissor"
+              },
+              "slug": {
+                "en": "payment-rule-not-applied-due-to-bin-issuer-mismatch",
+                "es": "no-se-ha-aplicado-la-regla-de-pago-debido-a-una-discrepancia-en-el-codigo-bin-del-emisor",
+                "pt": "regra-de-pagamento-nao-aplicada-devido-a-incompatibilidade-do-bin-do-emissor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)",
                 "es": "El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).",
                 "pt": "O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)"
@@ -61146,6 +61266,21 @@
                 "en": "payment-stuck-after-early-cancellation-request-during-settling",
                 "es": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
                 "pt": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment Stuck in \"Received\" Status — Transaction does not progress to \"Approved\" status",
+                "es": "El pago se ha quedado en el estado «Recibido»: la transacción no pasa al estado «Aprobado»",
+                "pt": "Pagamento preso no status \"Recebido\" — A transação não avança para o status \"Aprovado\""
+              },
+              "slug": {
+                "en": "payment-stuck-in-received-status-transaction-does-not-progress-to-approved-status",
+                "es": "el-pago-se-ha-quedado-en-el-estado-recibido-la-transaccion-no-pasa-al-estado-aprobado",
+                "pt": "pagamento-preso-no-status-recebido-a-transacao-nao-avanca-para-o-status-aprovado"
               },
               "origin": "",
               "type": "markdown",
@@ -62654,14 +62789,29 @@
             },
             {
               "name": {
+                "en": "Sales App redirects to /payment after entering salesperson code (ignores current step in Checkout)",
+                "es": "La aplicación de ventas redirige a /payment tras introducir el código del comercial (sin tener en cuenta el paso actual del proceso de pago)",
+                "pt": "O aplicativo de vendas redireciona para /payment após a inserção do código do vendedor (ignorando a etapa atual do checkout)"
+              },
+              "slug": {
+                "en": "sales-app-redirects-to-payment-after-entering-salesperson-code-ignores-current-step-in-checkout",
+                "es": "la-aplicacion-de-ventas-redirige-a-payment-tras-introducir-el-codigo-del-comercial-sin-tener-en-cuenta-el-paso-actual-del-proceso-de-pago",
+                "pt": "o-aplicativo-de-vendas-redireciona-para-payment-apos-a-insercao-do-codigo-do-vendedor-ignorando-a-etapa-atual-do-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
                 "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
-                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, o campo CVV não pode ser preenchido"
               },
               "slug": {
                 "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
                 "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
-                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-o-campo-cvv-nao-pode-ser-preenchido"
               },
               "origin": "",
               "type": "markdown",
@@ -67500,6 +67650,21 @@
                 "en": "sitemap-not-generating-due-a-timeout-toomanyrequests",
                 "es": "el-sitemap-no-se-genera-debido-a-un-tiempo-de-espera-toomanyrequests",
                 "pt": "o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap retains ghost products from categories removed via full cleanup",
+                "es": "El mapa del sitio conserva los productos fantasma de las categorías eliminadas mediante una limpieza completa",
+                "pt": "O mapa do site mantém produtos fantasmas de categorias removidas por meio de uma limpeza completa"
+              },
+              "slug": {
+                "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
+                "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
+                "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
               },
               "origin": "",
               "type": "markdown",
