@@ -18,10 +18,10 @@ A gestão nativa de dados pessoais já está disponível no Master Data v2. Cada
 
 Anteriormente, lojas que armazenavam dados pessoais no Master Data v2 precisavam implementar suas próprias camadas de criptografia, mascaramento e controle de acesso. Esses comportamentos passam agora a ser nativos da plataforma:
 
-- **Configuração por entidade:** Cada entidade de dados pode declarar quais campos contêm dados pessoais e qual campo identifica o titular (`SubjectIdField`).
-- **Criptografia e residência de dados:** Os valores dos campos pessoais são armazenados separadamente, com criptografia e regras específicas de residência.
-- **Mascaramento por padrão:** Operações de leitura retornam os campos pessoais com valores mascarados (por exemplo, `j***@****.com`). Para obter os valores originais é preciso enviar um parâmetro específico na requisição.
-- **Vínculo com o titular:** Cada documento com dados pessoais fica associado ao titular declarado, o que viabiliza o atendimento a direitos como acesso, portabilidade e esquecimento.
+- **Configuração por entidade:** cada entidade de dados pode declarar quais campos contêm dados pessoais e qual campo identifica o titular (`SubjectIdField`).
+- **Criptografia e residência de dados:** os valores dos campos pessoais são armazenados separadamente, com criptografia e regras específicas de residência.
+- **Mascaramento por padrão:** operações de leitura retornam os campos pessoais com valores mascarados (por exemplo, `j***@****.com`). Para obter os valores originais é preciso enviar um parâmetro específico na requisição.
+- **Vínculo com o titular:** cada documento com dados pessoais fica associado ao titular declarado, o que viabiliza o atendimento a direitos como acesso, portabilidade e esquecimento.
 
 > ℹ️ A funcionalidade está disponível apenas para entidades do Master Data v2. Entidades do Master Data v1 não são compatíveis.
 
