@@ -8,7 +8,7 @@ slugEN: 2026-06-11-native-personal-data-management-in-master-data-v2
 locale: pt
 announcementSynopsisPT: 'O Master Data v2 agora trata dados pessoais de forma nativa, com criptografia em repouso, mascaramento automático na leitura e suporte a solicitações de titulares de dados.'
 tags:
-  - Novo
+  - Nova funcionalidade
   - Master Data
 ---
 
