@@ -183,7 +183,6 @@ Some data entities are automatically created by VTEX to support native platform 
 | `instoreSettings`                       | instoreSettings                       |
 | `interaction`                           | interaction                           |
 | `leyGondolas`                           | leyGondolas                           |
-| `MASTERDATA_ENTITY (resolve name)`      | MASTERDATA_ENTITY (resolve name)      |
 | `myWishlist`                            | myWishlist                            |
 | `myWishlists`                           | myWishlists                           |
 | `notify`                                | notify                                |

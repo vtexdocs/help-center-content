@@ -182,7 +182,6 @@ Algumas entidades de dados são criadas automaticamente pela VTEX para suportar 
 | `instoreSettings`                       | instoreSettings                       |
 | `interaction`                           | interaction                           |
 | `leyGondolas`                           | leyGondolas                           |
-| `MASTERDATA_ENTITY (resolve name)`      | MASTERDATA_ENTITY (resolve name)      |
 | `myWishlist`                            | myWishlist                            |
 | `myWishlists`                           | myWishlists                           |
 | `notify`                                | notify                                |
