@@ -23943,6 +23943,37 @@
             },
             {
               "name": {
+                "en": "Configurações de integrações",
+                "es": "Configurações de integrações",
+                "pt": "Configurações de integrações"
+              },
+              "slug": {
+                "en": "configuracoes-de-integracoes",
+                "es": "configuracoes-de-integracoes",
+                "pt": "configurações-de-integrações-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Mercado Livre Kit",
+                    "en": "Mercado Livre Kit",
+                    "es": "Mercado Livre Kit"
+                  },
+                  "slug": {
+                    "pt": "mercado-livre-kit",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Integrations - Overview",
                 "es": "Visión de conjunto de Integraciones",
                 "pt": "Integrações - Visão geral"
