@@ -46992,6 +46992,21 @@
             },
             {
               "name": {
+                "en": "Security Code persistence in UI form when changing from a saved card to a new card",
+                "es": "El código de seguridad permanece en el formulario de la interfaz de usuario al cambiar de una tarjeta guardada a una nueva",
+                "pt": "Persistência do código de segurança no formulário da interface do usuário ao mudar de um cartão salvo para um novo cartão"
+              },
+              "slug": {
+                "en": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
+                "es": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
+                "pt": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller selection algorithm doesn't consider the real availability of the item to choose the best option",
                 "es": "El algoritmo de selección del vendedor no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción",
                 "pt": "O algoritmo de seleção do vendedor não considera a disponibilidade real do item para escolher a melhor opção"
