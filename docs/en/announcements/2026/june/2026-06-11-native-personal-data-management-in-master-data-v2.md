@@ -8,7 +8,7 @@ slugEN: 2026-06-11-native-personal-data-management-in-master-data-v2
 locale: en
 announcementSynopsisEN: ''
 tags:
-  - Novo
+  - New feature
   - Master Data
 ---
 
