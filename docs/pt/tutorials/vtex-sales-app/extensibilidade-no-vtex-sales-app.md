@@ -31,7 +31,7 @@ Existem oito pontos de extensão no Sales App:
 - `menu.item`
 - `menu.drawer-content`
 
-> ℹ️ Saiba mais sobre os pontos de extensão no Sales App em [VTEX Sales App extension points](https://developers.vtex.com/docs/guides/vtex-sales-app-extension-points).
+> ℹ️ Saiba mais sobre os pontos de extensão em [Exploring Sales App extensions](https://developers.vtex.com/docs/guides/exploring-sales-app-extensions).
 
 Cada ponto de extensão permite a interação dos usuários com dados e funções específicas, e eles estão disponíveis nos seguintes contextos da jornada de venda:
 
