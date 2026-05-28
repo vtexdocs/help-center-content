@@ -14,7 +14,7 @@ A **Extensibilidade** é a funcionalidade que permite personalizar a jornada pad
 
 Este artigo apresenta uma visão geral da funcionalidade, casos de uso das extensões e orientações para a implementação.
 
-> ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](https://developers.vtex.com/docs/guides/exploring-sales-app-extensions).
+> ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
 ## Funcionamento da Extensibilidade
 
