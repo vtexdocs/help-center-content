@@ -22,14 +22,14 @@ A Extensibilidade é uma solução nativa para as lojas integrarem-se a APIs ext
 
 Existem oito pontos de extensão no Sales App:
 
-- `cart.cart-list.after`
-- `cart.cart-item.after`
-- `cart.order-summary.after`
-- `pdp.sidebar.before`
-- `pdp.sidebar.after`
-- `pdp.content.after`
-- `menu.item`
-- `menu.drawer-content`
+* `cart.cart-list.after`
+* `cart.cart-item.after`
+* `cart.order-summary.after`
+* `pdp.sidebar.before`
+* `pdp.sidebar.after`
+* `pdp.content.after`
+* `menu.item`
+* `menu.drawer-content`
 
 > ℹ️ Saiba mais sobre os pontos de extensão em [Exploring Sales App extensions](https://developers.vtex.com/docs/guides/exploring-sales-app-extensions).
 
