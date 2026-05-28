@@ -18,7 +18,7 @@ Este artigo apresenta uma visão geral da funcionalidade, casos de uso das exten
 
 ## Funcionamento da Extensibilidade
 
-A Extensibilidade é uma solução nativa para as lojas integrarem com APIs externas e interagirem com dados de outras aplicações com segurança e estabilidade.
+A Extensibilidade é uma solução nativa para as lojas integrarem-se a APIs externas e interagirem com dados de outras aplicações, com segurança e estabilidade. A funcionalidade usa pontos de extensão predefinidos, nos quais você pode renderizar componentes e adicionar recursos sem alterar o fluxo principal do Sales App.
 
 Existem oito pontos de extensão no Sales App:
 
