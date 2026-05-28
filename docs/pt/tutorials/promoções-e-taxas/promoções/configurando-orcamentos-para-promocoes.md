@@ -69,7 +69,7 @@ Você pode configurar notificações para acompanhar o consumo do orçamento de 
 
 Para configurar as notificações, siga os passos abaixo:
 
-1. No **Admin VTEX**, acesse **Promoções \> Promoções**.  
+1. No **Admin VTEX**, acesse **Promoções > Promoções**.  
 2. Selecione a promoção desejada.  
 3. Na seção **Orçamento**, clique em no ícone de adição \<i class="fas fa-plus" aria-hidden="true"\>\</i\> ou de lápis \<i class="fas fa-pencil-alt" aria-hidden="true"\>\</i\>.  
 4. Ative a opção de notificações.  
