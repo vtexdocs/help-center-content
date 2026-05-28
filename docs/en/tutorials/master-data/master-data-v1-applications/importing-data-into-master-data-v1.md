@@ -17,6 +17,8 @@ subcategoryId: 2AThnkEZAYbk4G4EIs53rL
 
 You can add and change records in bulk in Master Data v1 via the API or by importing a spreadsheet. This document provides the steps to create and import a spreadsheet with new and updated data.
 
+> ⚠️ When importing bulk data into a custom entity, the volume of stored documents increases, which may impact the monthly Master Data billing. Learn more in [Custom data entities](/docs/tutorials/master-data). Storing documents in Master Data native entities doesn't incur additional charges.
+
 ## Exporting form data
 
 To obtain the import spreadsheet, first export the form data you want to update by following the steps in Exporting data from Master Data v1. This ensures that the spreadsheet you use is up to date with the latest version of the form.

@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: Custom data now visible in the VTEX Admin",
+                    "es": "Pedidos: datos personalizados ahora visibles en el Admin VTEX",
+                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin",
+                    "es": "2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex",
+                    "pt": "2026-05-22-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Operational capacity is now available globally",
                     "es": "Capacidad operativa disponible a nivel global",
                     "pt": "Capacidade operacional disponível globalmente"
@@ -25418,8 +25433,8 @@
                   },
                   "slug": {
                     "en": "master-data",
-                    "es": "master-data",
-                    "pt": "master-data"
+                    "es": "master-data-es",
+                    "pt": "master-data-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34104,6 +34119,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configure scheduled delivery in Buyer Portal Checkout",
+                    "es": "Configurar entrega programada en Buyer Portal Checkout",
+                    "pt": "Configurar entrega agendada no Buyer Portal Checkout"
+                  },
+                  "slug": {
+                    "en": "configure-scheduled-delivery-buyer-portal-checkout",
+                    "es": "configurar-entrega-programada-buyer-portal-checkout",
+                    "pt": "configurar-entrega-agendada-buyer-portal-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a shipping policy",
                     "es": "Crear una política de envío",
                     "pt": "Criar uma política de envio"
@@ -36111,27 +36141,12 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criar agentes ativos"
+                    "pt": "Criar automações do CX"
                   },
                   "slug": {
-                    "en": "create-active-agents",
-                    "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps",
-                    "es": "Primeros pasos",
-                    "pt": "First steps"
-                  },
-                  "slug": {
-                    "en": "first-steps",
-                    "es": "primeros-pasos",
-                    "pt": ""
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36141,27 +36156,12 @@
                   "name": {
                     "en": "Introduction to Agentic CX",
                     "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
+                    "pt": "Introdução ao CX"
                   },
                   "slug": {
-                    "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-agentic-ai",
-                    "pt": "introducao-ao-agentic-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Agentic CX",
-                    "es": "Instalando a Agentic CX",
-                    "pt": "Configurar o Agentic CX"
-                  },
-                  "slug": {
-                    "en": "manage-agentic-cx",
-                    "es": "instalando-a-agentic-cx",
-                    "pt": "configurar-o-agentic-cx"
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -47000,6 +47000,21 @@
                 "en": "scheduled-delivery-window-change-for-all-items-when-selecting-a-common-one-in-the-cart-with-multiple-sellers",
                 "es": "cambio-de-la-ventana-de-entrega-programada-para-todos-los-articulos-al-seleccionar-uno-comun-en-el-carrito-con-varios-vendedores",
                 "pt": "alteracao-da-janela-de-entrega-programada-para-todos-os-itens-ao-selecionar-um-item-comum-no-carrinho-com-varios-vendedores"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Security Code persistence in UI form when changing from a saved card to a new card",
+                "es": "El código de seguridad permanece en el formulario de la interfaz de usuario al cambiar de una tarjeta guardada a una nueva",
+                "pt": "Persistência do código de segurança no formulário da interface do usuário ao mudar de um cartão salvo para um novo cartão"
+              },
+              "slug": {
+                "en": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
+                "es": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
+                "pt": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao"
               },
               "origin": "",
               "type": "markdown",
@@ -61274,6 +61289,21 @@
             },
             {
               "name": {
+                "en": "Payment rule not applied due to BIN issuer mismatch",
+                "es": "No se ha aplicado la regla de pago debido a una discrepancia en el código BIN del emisor",
+                "pt": "Regra de pagamento não aplicada devido à incompatibilidade do BIN do emissor"
+              },
+              "slug": {
+                "en": "payment-rule-not-applied-due-to-bin-issuer-mismatch",
+                "es": "no-se-ha-aplicado-la-regla-de-pago-debido-a-una-discrepancia-en-el-codigo-bin-del-emisor",
+                "pt": "regra-de-pagamento-nao-aplicada-devido-a-incompatibilidade-do-bin-do-emissor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)",
                 "es": "El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).",
                 "pt": "O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)"
@@ -61312,6 +61342,21 @@
                 "en": "payment-stuck-after-early-cancellation-request-during-settling",
                 "es": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
                 "pt": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment Stuck in \"Received\" Status — Transaction does not progress to \"Approved\" status",
+                "es": "El pago se ha quedado en el estado «Recibido»: la transacción no pasa al estado «Aprobado»",
+                "pt": "Pagamento preso no status \"Recebido\" — A transação não avança para o status \"Aprovado\""
+              },
+              "slug": {
+                "en": "payment-stuck-in-received-status-transaction-does-not-progress-to-approved-status",
+                "es": "el-pago-se-ha-quedado-en-el-estado-recibido-la-transaccion-no-pasa-al-estado-aprobado",
+                "pt": "pagamento-preso-no-status-recebido-a-transacao-nao-avanca-para-o-status-aprovado"
               },
               "origin": "",
               "type": "markdown",
