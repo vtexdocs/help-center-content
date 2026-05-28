@@ -14,7 +14,7 @@ A **Extensibilidade** é a funcionalidade que permite personalizar a jornada pad
 
 Este artigo apresenta uma visão geral da funcionalidade, casos de uso das extensões e orientações para a implementação.
 
-> ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](link).
+> ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](https://developers.vtex.com/docs/guides/exploring-sales-app-extensions).
 
 ## Funcionamento da Extensibilidade
 
@@ -91,12 +91,12 @@ O segundo passo é mapear de forma detalhada os fluxos da experiência do usuár
 
 ## Checar a viabilidade técnica
 
-O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve verificar se os requisitos e integrações mapeados são compatíveis com as especificações dos pontos de extensão, conforme apresentado na [documentação de Extensibilidade para desenvolvedores](#link2).
+O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o desenvolvedor deve verificar se os requisitos e integrações mapeados são compatíveis com as especificações dos pontos de extensão, conforme apresentado na [documentação de Extensibilidade para desenvolvedores](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
 > ⚠️ Caso seja identificada a inexistência de alguma função ou configuração obrigatória, recomendamos entrar em contato com nosso [Suporte](https://help.vtex.com/pt/support), descrevendo o caso de uso e as limitações encontradas.
 
 ## Implementar o projeto
 
-Por fim, o desenvolvedor implementa as extensões, conforme descrito na [documentação técnica de Extensibilidade](#link3). Recomendamos validar a implementação com testes locais antes de disponibilizar as extensões para os clientes da loja.
+Por fim, o desenvolvedor implementa as extensões, conforme descrito na [documentação técnica de Extensibilidade](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation). Recomendamos validar a implementação com testes locais antes de disponibilizar as extensões para os clientes da loja.
 
 > ℹ️ A **Extensions Skill** pode auxiliar na etapa de implementação do projeto. Saiba mais em [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill).
