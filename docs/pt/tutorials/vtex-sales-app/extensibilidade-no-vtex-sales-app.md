@@ -39,17 +39,17 @@ Cada ponto de extensão permite a interação dos usuários com dados e funçõe
 
   ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
 
+* Página de detalhes do produto (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
+
+  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
+  
 * Menu (`menu.item`) e modal lateral (`menu.drawer-content`):
 
   ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
   ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
 
-  > ℹ️ Ao clicar no componente da extensão do menu, é aberto um modal à esquerda da interface, o que permite à loja criar múltiplos fluxos de navegação internos.
-
-* Página de detalhes do produto (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
-
-  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
+  > ℹ️ Quando a pessoa usuária clica no componente da extensão do menu, o Sales App abre um modal à esquerda da interface. Esse comportamento permite criar múltiplos fluxos de navegação internos.
 
 ## Segurança e estabilidade de extensões
 
