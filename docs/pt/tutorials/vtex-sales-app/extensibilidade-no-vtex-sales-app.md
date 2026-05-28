@@ -66,7 +66,7 @@ A tabela a seguir apresenta exemplos nos quais o lojista se beneficia da Extensi
 | Contexto | Descrição |
 | :--- | :--- |
 | Integração com serviços ou dados externos | Integração com programas de fidelidade, venda de serviços adicionais (como garantias ou seguros), aplicação de descontos em troca de produtos, comissionamento ou financiamento internos, entre outros. Em geral, são integrações com dados e serviços externos que já são utilizados no ecommerce ou loja física. |
-| Integração com dados da VTEX | Integrar soluções da VTEX que não fazem parte da jornada padrão do Sales App, como o ecossistema de marketplace ou algumas soluções de pagamento, por exemplo. |
+| Integração com dados da VTEX | Integração com soluções da VTEX que não fazem parte da jornada padrão do Sales App, como o ecossistema de marketplace ou algumas soluções de pagamento. |
 | Centralização de tarefas de vendedores | Permitir que o vendedor capture leads ou consulte determinados dados da gestão da loja, entre outros. Ao realizarem todas as tarefas cotidianas em uma única plataforma, os vendedores ganham em agilidade e eficiência. |
 
 ## Antes de começar
