@@ -59984,6 +59984,21 @@
             },
             {
               "name": {
+                "en": "Event inconsistency in legacy connectors",
+                "es": "Incoherencia en los eventos de los conectores heredados",
+                "pt": "Inconsistência de eventos em conectores legados"
+              },
+              "slug": {
+                "en": "event-inconsistency-in-legacy-connectors",
+                "es": "incoherencia-en-los-eventos-de-los-conectores-heredados",
+                "pt": "inconsistencia-de-eventos-em-conectores-legados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Expiration date of Special condition is not deleted",
                 "es": "La fecha de caducidad de la condición especial no se elimina",
                 "pt": "Data de expiração da condição especial não é apagada"
@@ -62114,6 +62129,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"canceling\" status",
+                "es": "La transacción se ha quedado bloqueada en el estado «en proceso de cancelación»",
+                "pt": "Transação travada no status \"cancelando\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-canceling-status",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-el-estado-en-proceso-de-cancelacion",
+                "pt": "transacao-travada-no-status-cancelando"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
                 "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
                 "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
@@ -62326,12 +62356,12 @@
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
                 "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
-                "pt": "As transações continuam travadas, apesar da aprovação do conector"
+                "pt": "As transações continuam bloqueadas, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-despite-connector-approval",
                 "es": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector"
+                "pt": "as-transacoes-continuam-bloqueadas-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62445,13 +62475,13 @@
             {
               "name": {
                 "en": "Transactions stuck in Authorized after approval",
-                "es": "Transacciones bloqueadas en Autorizado después de la aprobación",
-                "pt": "Transações presas em Autorizado após aprovação"
+                "es": "Transacciones que quedan bloqueadas en «Autorizadas» tras su aprobación",
+                "pt": "Transações que ficam no status “Autorizado” após a aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-after-approval",
-                "es": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizado-apos-aprovacao"
+                "es": "transacciones-que-quedan-bloqueadas-en-autorizadas-tras-su-aprobacion",
+                "pt": "transacoes-que-ficam-no-status-autorizado-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62460,12 +62490,12 @@
             {
               "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
-                "es": "Transacciones bloqueadas en «Autorizado» o «Autorización pendiente» tras su aprobación.",
+                "es": "Transacciones que quedan bloqueadas en «Autorizadas» o «Pendientes de autorización» tras su aprobación",
                 "pt": "Transações retidas em Autorizado ou Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
-                "es": "transacciones-bloqueadas-en-autorizado-o-autorizacion-pendiente-tras-su-aprobacion",
+                "es": "transacciones-que-quedan-bloqueadas-en-autorizadas-o-pendientes-de-autorizacion-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizado-ou-autorizacao-pendente-apos-aprovacao"
               },
               "origin": "",
