@@ -1,5 +1,5 @@
 ---
-title: 'Why VTEX search engine ignores some terms'
+title: 'Why VTEX Search (Legacy) engine ignores some terms'
 id: 2AbmsbKOogeaeuoESGaWAs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.346Z
@@ -9,23 +9,23 @@ firstPublishedAt: 2019-01-24T20:30:46.264Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_31
-slugEN: why-vtex-search-engine-ignores-some-terms
+slugEN: why-vtex-search-legacy-engine-ignores-some-terms
 locale: en
-legacySlug: why-vtex-search-engine-ignores-some-terms
+legacySlug: why-vtex-search-legacy-engine-ignores-some-terms
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-The article [How does VTEX search work?](/en/docs/tutorials/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
+The article [How does VTEX Search (Legacy) work?](/en/docs/tutorials/how-does-vtex-search-legacy-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
 
-If your case does not fit the scenarios described in this article, probably it’s because the search term that brought you here is on the list of blocked words on the VTEX search engine.
+If your case does not fit the scenarios described in this article, probably it’s because the search term that brought you here is on the list of blocked words on the VTEX Search (Legacy) engine.
 
 It’s common for people to use pronouns, articles, adverbs, etc., when doing an ecommerce search. However, some of these terms do not make sense when cataloging a product.
 
 For example:
 If a user looks for the term "A pair of Nike sneakers", for the search engine, the words "A" and "of" are not important. However, the words "sneakers" and "Nike" are. So, the search engine ignores the words that are not important and applies the search using only the important terms.
 
-Thus, the VTEX search engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
+Thus, the VTEX Search (Legacy) engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
 
 See below the complete list of blocked terms.
 

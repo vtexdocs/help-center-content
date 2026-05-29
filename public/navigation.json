@@ -8836,14 +8836,14 @@
             },
             {
               "name": {
-                "en": "Why VTEX search engine ignores some terms",
-                "es": "Por que el buscador de VTEX ignora algunos términos buscados",
-                "pt": "Por que o buscador da VTEX ignora alguns termos buscados"
+                "en": "Why VTEX Search (Legacy) engine ignores some terms",
+                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
+                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
               },
               "slug": {
-                "en": "why-vtex-search-engine-ignores-some-terms",
-                "es": "por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados",
-                "pt": "por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados"
+                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
+                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
+                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
               },
               "origin": "",
               "type": "markdown",
@@ -20038,14 +20038,14 @@
                 },
                 {
                   "name": {
-                    "en": "How VTEX search works",
-                    "es": "Cómo funciona la búsqueda de VTEX",
-                    "pt": "Como funciona a busca da VTEX"
+                    "en": "How VTEX Search (Legacy) works",
+                    "es": "Cómo funciona la VTEX Search (Legado)",
+                    "pt": "Como funciona a VTEX Search (Legado)"
                   },
                   "slug": {
-                    "en": "how-does-vtex-search-work",
-                    "es": "como-funciona-la-busqueda-de-vtex",
-                    "pt": "como-funciona-a-busca-da-vtex"
+                    "en": "how-does-vtex-search-legacy-work",
+                    "es": "como-funciona-vtex-search-legado",
+                    "pt": "como-funciona-vtex-search-legado"
                   },
                   "origin": "",
                   "type": "markdown",
