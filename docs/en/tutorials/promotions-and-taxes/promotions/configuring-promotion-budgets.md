@@ -69,13 +69,13 @@ You can configure notifications to track a promotion’s budget consumption and 
 
 To configure notifications, follow the steps below:
 
-8. In the **VTEX Admin**, go to **Promotions \> Promotions**.  
-9. Select the desired promotion.  
-10. In the **Budget section**, click the add icon \<i class="fas fa-plus" aria-hidden="true"\>\</i\> or the pencil icon \<i class="fas fa-pencil-alt" aria-hidden="true"\>\</i\>.  
-11. Enable the notifications option.  
-12. Define the budget consumption percentages that trigger alerts, such as 75%, 80%, 85%, 90%, 95%, or 100%.  
-13. In the email field, add the addresses that will receive the notifications.  
-14. Click `Save`.
+1. In the **VTEX Admin**, go to **Promotions > Promotions**.  
+2. Select the desired promotion.  
+3. In the **Budget section**, click the add icon \<i class="fas fa-plus" aria-hidden="true"\>\</i\> or the pencil icon \<i class="fas fa-pencil-alt" aria-hidden="true"\>\</i\>.  
+4. Enable the notifications option.  
+5. Define the budget consumption percentages that trigger alerts, such as 75%, 80%, 85%, 90%, 95%, or 100%.  
+6. In the email field, add the addresses that will receive the notifications.  
+7. Click `Save`.
 
 Notifications are sent by email as budget consumption reaches the defined percentages.
 

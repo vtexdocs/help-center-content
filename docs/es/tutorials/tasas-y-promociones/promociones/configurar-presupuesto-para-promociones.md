@@ -70,7 +70,7 @@ Puedes configurar notificaciones para monitorear el consumo del presupuesto de u
 
 Para configurar las notificaciones sigue los pasos a continuación:
 
-1. En el **Admin VTEX**, accede a **Promociones \> Promociones**.  
+1. En el **Admin VTEX**, accede a **Promociones > Promociones**.  
 2. Selecciona la promoción deseada.  
 3. En la **sección de presupuestos**, haz clic en el ícono de suma \<i class="fas fa-plus" aria-hidden="true"\>\</i\> o en el ícono del lápiz \<i class="fas fa-pencil-alt" aria-hidden="true"\>\</i\>.  
 4. Activa la opción de notificaciones.  
