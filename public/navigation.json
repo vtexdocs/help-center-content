@@ -36900,13 +36900,13 @@
             {
               "name": {
                 "en": "VTEX Sales App Extensibility",
-                "pt": "Extensibilidade no VTEX Sales App",
-                "es": "VTEX Sales App Extensibility"
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
               },
               "slug": {
                 "en": "vtex-sales-app-extensibility",
-                "pt": "extensibilidade-no-vtex-sales-app",
-                "es": ""
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
