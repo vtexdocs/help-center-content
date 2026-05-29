@@ -149,7 +149,6 @@ Configure as opções de envio na frente da loja para personalizar a experiênci
 3. Na seção **Opções de entrega usadas como filtro**, defina a ordem em que as opções de entrega serão exibidas nos filtros de navegação.
 4. Adicione as opções de envio que deseja incluir nos filtros de navegação clicando em `+` na opção de envio correspondente.
 5. Selecione a forma que deseja exibir as suas opções de envio na loja.
-   ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_3.png)
    - **Exibir sempre todas as opções disponíveis para o produto:** todas as opções de envio que estão disponíveis nas condições de entrega serão exibidas na página de produto e no checkout da loja.
    - **Exibir apenas a opção de menor custo e a de menor prazo:** apenas as opções de envio com menor custo ou com menor prazo serão exibidas na página de produto e no checkout da loja.
 6. Clique em `Salvar` para finalizar.
