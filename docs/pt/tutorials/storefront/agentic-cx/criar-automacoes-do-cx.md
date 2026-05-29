@@ -1,5 +1,5 @@
 ---
-title: 'Criar agentes ativos'
+title: 'Criar automações do CX'
 id: 4ijpXwff2x4A44AZw2tMzQ
 status: PUBLISHED
 createdAt: 2025-09-23T17:40:38.123Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-10-03T14:20:03.399Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: create-active-agents
+slugEN: create-cx-automations
 legacySlug: criando-agentes-ativos
 locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
@@ -17,31 +17,31 @@ subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 
 ## Visão geral
 
-Agentes ativos são projetados para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, os agentes ativos podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de um agente ativo é o mesmo utilizado para outros agentes: `weni project push agent_definition.yaml`
+Automações são projetadas para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, as automações podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de uma automação é: `weni project push agent_definition.yaml`.
 
 ## Conceitos Básicos e Estrutura YAML
 
-A definição de um agente ativo é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
+A definição de uma automação é feita em um arquivo `agent_definition.yaml`. Os principais campos são:
 
-- **agents.<id_do_agente>**: identifica o agente
-- **name**: nome de exibição do agente, com limite de 55 caracteres
-- **description**: descrição do propósito e capacidades do agente
-- **rules**: dicionário de regras que disparam as ações do agente
+- **agents.<id_do_agente>**: identifica o agente.
+- **name**: nome de exibição do agente, com limite de 55 caracteres.
+- **description**: descrição do propósito e capacidades do agente.
+- **rules**: dicionário de regras que disparam as ações do agente.
 - Dentro de **rules.<id_da_regra>**:
-  - **display_name**: nome legível da regra
-  - **template**: template de mensagem HSM a ser usado
-  - **start_condition**: descrição da condição que deve ser atendida para acionar a regra
-  - **source**: define o código a ser executado quando a regra é disparada, com `entrypoint` apontando para a classe/método e `path` para o diretório onde está o código
+  - **display_name**: nome legível da regra.
+  - **template**: template de mensagem HSM a ser usado.
+  - **start_condition**: descrição da condição que deve ser atendida para acionar a regra.
+  - **source**: define o código a ser executado quando a regra é disparada, com `entrypoint` apontando para a classe/método e `path` para o diretório onde está o código.
 - **pre_processing**: define uma etapa de pré‑processamento para preparar dados antes de avaliar as regras com `source` especificando o código e `result_examples_file` apontando para um JSON com exemplos de saída.
 
 O arquivo `result_example.json` deve ser um array de objetos. Cada objeto contém:
 
 - `urn`: identificador único do contato (por exemplo, número de telefone ou ID de usuário).
-- `data`: um dicionário com os dados relevantes para a regra. A estrutura desse dicionário depende das informações que seu agente precisa processar
+- `data`: um dicionário com os dados relevantes para a regra. A estrutura desse dicionário depende das informações que seu agente precisa processar.
 
 ## Estrutura do Projeto
 
-Um agente ativo segue uma organização de pastas clara
+Uma automação segue uma organização de pastas clara.
 
 ```
 your-project-name/
@@ -112,7 +112,7 @@ Este arquivo define quatro regras vinculadas aos diferentes status do pedido. Pa
 
 ## Pré‑processamento
 
-A etapa de pré‑processamento é responsável por coletar todos os dados necessários que serão utilizados pelas regras. Somente nesta etapa é permitido realizar requisições HTTP ou outras chamadas externas; por isso, existe um único `requirements.txt` dentro de `pre_processors`. O objeto `PreProcessorContext` contém o payload do webhook e informações do projeto. Os dados do webhook são acessados via `context.payload.get("campo")`. Por exemplo, para obter o `orderId` em um payload como o abaixo, utiliza‑se `context.payload.get("orderId")`
+A etapa de pré‑processamento é responsável por coletar todos os dados necessários que serão utilizados pelas regras. Somente nesta etapa é permitido realizar requisições HTTP ou outras chamadas externas; por isso, existe um único `requirements.txt` dentro de `pre_processors`. O objeto `PreProcessorContext` contém o payload do webhook e informações do projeto. Os dados do webhook são acessados via `context.payload.get("campo")`. Por exemplo, para obter o `orderId` em um payload como o abaixo, utiliza‑se `context.payload.get("orderId")`.
 
 ```json
 {
@@ -191,10 +191,10 @@ Os templates de mensagem (HSM) cadastrados no WhatsApp Business podem conter mar
 
 ## Lógica de Execução das Regras e Casos de Uso
 
-Após o pré‑processamento, o agente percorre as regras definidas no YAML em ordem. A primeira regra cujo método `execute` retornar `True` será executada, e as demais são ignoradas. Portanto, é importante organizar as regras de forma hierárquica e garantir que o pré‑processamento retorne dados suficientes para as condições de cada regra. Casos de uso comuns incluem notificações de pedidos (aprovados, faturados, cancelados, criados), mas você pode criar regras para qualquer evento relevante dentro da VTEX ou do seu fluxo de negócios.
+Após o pré‑processamento, o agente percorre as regras definidas no YAML em ordem. A primeira regra cujo método `execute` retornar `True` será executada, e as demais serão ignoradas. Portanto, é importante organizar as regras de forma hierárquica e garantir que o pré‑processamento retorne dados suficientes para as condições de cada regra. Casos de uso comuns incluem notificações de pedidos (aprovados, faturados, cancelados, criados), mas você pode criar regras para qualquer evento relevante dentro da VTEX ou do seu fluxo de negócios.
 
 ## Conclusão
 
-Agentes ativos permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável para informar seus clientes no momento certo.
+Automações permitem automatizar notificações e interações com seus clientes com base em eventos da VTEX. Ao estruturar seu projeto conforme este guia — definindo claramente o YAML, o pré‑processamento e as regras — você garante uma integração segura e escalável para informar seus clientes no momento certo.
 
-> [Aqui](https://github.com/weni-ai/weni-active-agents-example) você encontrará um exemplo de código de agente ativo.
+> [Aqui](https://github.com/weni-ai/weni-example-agents) você encontrará um exemplo de código de automação.
