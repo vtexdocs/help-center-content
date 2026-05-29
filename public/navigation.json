@@ -36899,6 +36899,21 @@
             },
             {
               "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "VTEX Sales App Offers",
                 "es": "Anuncios de VTEX Sales App",
                 "pt": "Anúncios do VTEX Sales App"
