@@ -55,18 +55,19 @@ The search data model consists of three types of tables, each with a specific ro
 The diagram below shows how the tables are organized by type and how they connect to each other:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TB
     subgraph FACT["Fact tables (events)"]
-        tbl_request["request\n(completed search)"]
-        tbl_response["response\n(returned result)"]
-        tbl_click["click\n(click on result)"]
-        tbl_impression["impression\n(displaying results)"]
+        tbl_request["request<br/>(completed search)"]
+        tbl_response["response<br/>(returned result)"]
+        tbl_click["click<br/>(click on result)"]
+        tbl_impression["impression<br/>(displaying results)"]
     end
 
     subgraph BRIDGE["Bridge tables (relationships)"]
-        tbl_response_product["response_product\n(products in results)"]
-        tbl_impression_click["impression_click\n(impression → click)"]
-        tbl_impression_order_group["impression_order_group\n(impression → order)"]
+        tbl_response_product["response_product<br/>(products in results)"]
+        tbl_impression_click["impression_click<br/>(impression → click)"]
+        tbl_impression_order_group["impression_order_group<br/>(impression → order)"]
 
         subgraph FILTERS["Filters and request rules"]
             tbl_text_filter["request_text_filter"]
@@ -86,7 +87,7 @@ flowchart TB
     end
 
     subgraph DIMENSION["Dimension table (settings)"]
-        tbl_request_setting["request_setting\n(search engine configuration)"]
+        tbl_request_setting["request_setting<br/>(search engine configuration)"]
     end
 
     tbl_request -->|search_id| tbl_response
@@ -106,26 +107,28 @@ Below are three distinct flows for using the data:
 - Flow 1: Shows the journey of a search request and its components. Example: a buyer searches for "running shoes" with brand and price filters.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nBuyer searches: running shoes"]
+    REQ["request<br/>Buyer searches:<br/>running shoes"]
 
-    REQ -->|"search_id"| SETTING["request_setting\nES Cluster: is-intelligent-search-v8-05\nFlags: hide_unavailable_items = true"]
-    REQ -->|"search_id"| RESP["response\nLatency: 150ms, Match: 42 products"]
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = Nike"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 to 500"]
+    REQ -->|"search_id"| SETTING["request_setting<br/>ES Cluster:<br/>is-intelligent-search-v8-05<br/>Flags: hide_unavailable<br/>items = true"]
+    REQ -->|"search_id"| RESP["response<br/>Latency: 150ms<br/>Match: 42 products"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = Nike"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 to 500"]
 
-    RESP -->|"search_id"| RP["response_product\n#1 Air Max Shoes - score: 95\n#2 Pegasus Shoes - score: 87\n#3 ZoomX Shoes - score: 82"]
+    RESP -->|"search_id"| RP["response_product<br/>#1 Air Max Shoes - score: 95<br/>#2 Pegasus Shoes - score: 87<br/>#3 ZoomX Shoes - score: 82"]
 ```
 
 - Flow 2: Shows the full buyer journey from retrieving results → clicking → purchasing. Example: The buyer views the results, clicks product #2, and completes the purchase.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    IMP["impression\nResults shown\nto buyer"]
-    IC["impression_click\nLinks impression\nto click"]
-    CLK["click\nBuyer clicked\nproduct #2, position: 2"]
-    IOG["impression_order_group\nLinks impression\nto order"]
-    ORD["Order \ndata model\n- order_group"]
+    IMP["impression<br/>Results shown<br/>to buyer"]
+    IC["impression_click<br/>Links impression<br/>to click"]
+    CLK["click<br/>Buyer clicked<br/>product #2<br/>position: 2"]
+    IOG["impression_order_group<br/>Links impression<br/>to order"]
+    ORD["Order data model<br/>order_group"]
 
     IMP -->|"impression_id"| IC
     IC -->|"click_id"| CLK
@@ -136,17 +139,18 @@ flowchart LR
 - Flow 3: each search request can have multiple associated details, all linked by `search_id`. For example, a single search may have two text filters, one number filter and three active sellers at the same time.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nsearch_id: X"]
+    REQ["request<br/>search_id: X"]
 
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = 'Nike'\ncategory = 'Shoes'"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 to 500"]
-    REQ -->|"search_id"| FQ["request_field_query\nsku:123"]
-    REQ -->|"search_id"| RR["request_relevance_rule\ntype: click, weight: 5"]
-    REQ -->|"search_id"| WLS["request_white_label_seller\nseller_1, seller_2"]
-    REQ -->|"search_id"| MR["request_merchandising_rule\nrule: promo-summer-2026"]
-    REQ -->|"search_id"| HS["request_hybrid_search\nmodel: openai:text-embedding-3-small\nratio: 0.5"]
-    REQ -->|"search_id"| DPS["request_dp_shipping\nshipping: pickup"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = 'Nike'<br/>category = 'Shoes'"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 to 500"]
+    REQ -->|"search_id"| FQ["request_field_query<br/>sku:123"]
+    REQ -->|"search_id"| RR["request_relevance_rule<br/>type: click<br/>weight: 5"]
+    REQ -->|"search_id"| WLS["request_white_label_seller<br/>seller_1, seller_2"]
+    REQ -->|"search_id"| MR["request_merchandising_rule<br/>rule: promo-summer-2026"]
+    REQ -->|"search_id"| HS["request_hybrid_search<br/>model: openai:text-embedding<br/>-3-small<br/>ratio: 0.5"]
+    REQ -->|"search_id"| DPS["request_dp_shipping<br/>shipping: pickup"]
 ```
 
 ## Search data characteristics

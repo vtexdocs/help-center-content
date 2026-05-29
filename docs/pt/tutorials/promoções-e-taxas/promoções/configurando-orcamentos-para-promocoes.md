@@ -3,8 +3,8 @@ title: 'Configurando orçamentos para promoções'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z
-updatedAt: 2025-10-13T13:56:04.974Z
-publishedAt: 2025-10-13T13:56:04.974Z
+updatedAt: 2026-05-28T13:56:04.974Z
+publishedAt: 2025-10-28T13:56:04.974Z
 firstPublishedAt: 2025-09-10T11:43:30.901Z
 contentType: tutorial
 productTeam: Others
@@ -62,6 +62,22 @@ Caso o orçamento de uma promoção seja esgotado e a promoção seja pausada, v
 5. Atualize o campo **Orçamento da promoção** com o novo valor limite.
 6. Clique em `Aplicar`.
 7. Clique em `Salvar`.
+
+# Como configurar notificações de orçamento 
+
+Você pode configurar notificações para acompanhar o consumo do orçamento de uma promoção e receber alertas antes que o limite seja atingido.
+
+Para configurar as notificações, siga os passos abaixo:
+
+1. No **Admin VTEX**, acesse **Promoções > Promoções**.  
+2. Selecione a promoção desejada.  
+3. Na seção **Orçamento**, clique no ícone de adição \<i class="fas fa-plus" aria-hidden="true"\>\</i\> ou de lápis \<i class="fas fa-pencil-alt" aria-hidden="true"\>\</i\>.  
+4. Ative a opção de notificações.  
+5. Defina os percentuais de consumo do orçamento que disparam alertas, como 75%, 80%, 85%, 90%, 95% ou 100%.  
+6. No campo de emails, adicione os endereços que recebem as notificações.  
+7. Clique em `Salvar`.
+
+As notificações são enviadas por email conforme o consumo do orçamento atinge os percentuais definidos. 
 
 ## Como remover um orçamento de uma promoção
 Para desvincular o orçamento de uma promoção, realize os passos a seguir:
