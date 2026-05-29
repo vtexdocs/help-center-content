@@ -72,7 +72,7 @@ Para configurar las notificaciones sigue los pasos a continuación:
 
 1. En el **Admin VTEX**, accede a **Promociones > Promociones**.  
 2. Selecciona la promoción deseada.  
-3. En la **sección de presupuestos**, haz clic en el ícono de suma \<i class="fas fa-plus" aria-hidden="true"\>\</i\> o en el ícono del lápiz \<i class="fas fa-pencil-alt" aria-hidden="true"\>\</i\>.  
+3. En la **sección de presupuestos**, haz clic en el ícono de suma <i class="fas fa-plus" aria-hidden="true"></i> o en el ícono del lápiz <i class="fas fa-pencil-alt" aria-hidden="true"></i>.  
 4. Activa la opción de notificaciones.  
 5. Define los porcentajes de consumo de presupuesto que las activarán, por ejemplo 75%, 80%, 85%, 90%, 95% o 100%.  
 6. En el campo de email, agrega las direcciones que recibirán las notificaciones.  
