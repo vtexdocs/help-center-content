@@ -6,7 +6,6 @@ contentType: trackArticle
 productTeam: Identity
 slugEN: introduction-to-account-management
 locale: es
-trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: cuentas-y-permisos
+trackSlugEN: accounts-and-permissions
 order: 1
 ---

@@ -6,7 +6,6 @@ contentType: trackArticle
 productTeam: Identity
 slugEN: users-and-roles
 locale: es
-trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: cuentas-y-permisos
+trackSlugEN: accounts-and-permissions
 order: 2
 ---
