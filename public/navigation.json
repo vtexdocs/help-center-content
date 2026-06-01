@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "User Rights API: automated personal data erasure",
+                    "es": "User Rights API: borrado automatizado de datos personales",
+                    "pt": "User Rights API: exclusão automatizada de dados pessoais"
+                  },
+                  "slug": {
+                    "en": "2026-05-21-user-rights-api-automated-personal-data-erasure",
+                    "es": "2026-05-21-user-rights-api-automated-personal-data-erasure",
+                    "pt": "2026-05-21-user-rights-api-apagamento-automatizado-de-dados-pessoais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Operational capacity is now available globally",
                     "es": "Capacidad operativa disponible a nivel global",
                     "pt": "Capacidade operacional disponível globalmente"
@@ -62,37 +77,6 @@
                     "en": "2026-05-19-operational-capacity-now-in-ga",
                     "es": "2026-05-19-capacidad-operativa-disponible-nivel-global",
                     "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Maio",
-                "es": "Maio",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "maio",
-                "es": "maio",
-                "pt": "2026-maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "User Rights API: exclusão automatizada de dados pessoais",
-                    "en": "User Rights API: exclusão automatizada de dados pessoais",
-                    "es": "User Rights API: exclusão automatizada de dados pessoais"
-                  },
-                  "slug": {
-                    "pt": "2026-05-21-user-rights-api-apagamento-automatizado-de-dados-pessoais",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
