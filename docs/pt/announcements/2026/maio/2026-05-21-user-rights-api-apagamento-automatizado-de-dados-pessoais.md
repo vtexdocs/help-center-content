@@ -10,8 +10,6 @@ locale: pt
 announcementSynopsisPT: 'A nova User Rights API permite automatizar solicitações de exclusão de dados pessoais (LGPD/GDPR) na plataforma VTEX.'
 tags:
   - Nova funcionalidade
-  - Master Data
-  - Identity
 ---
 
 A VTEX lançou a **User Rights API**, que permite automatizar o processo de exclusão de dados pessoais de compradores na plataforma, em conformidade com as regulamentações LGPD e GDPR ("direito ao esquecimento").
