@@ -1,7 +1,7 @@
 ---
 title: 'B2B Buyer Portal'
 createdAt: '2026-04-06T10:00:00.000Z'
-updatedAt: '2026-04-06T10:00:00.000Z'
+updatedAt: '2026-04-24T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: b2b-buyer-portal
@@ -49,7 +49,7 @@ As [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-o
 
 Cada unidade pode ter configurações específicas de visibilidade de produtos, métodos de pagamento, endereços de entrega, campos contábeis e regras de aprovação de pedidos, permitindo que a loja se alinhe às políticas internas da empresa compradora sem precisar de múltiplos contratos ou contas. As configurações por unidade estão sempre sujeitas às condições do contrato.
 
-> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units).
+> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-unidades-organizacionais).
 
 ### Scopes
 
@@ -57,7 +57,7 @@ Os [Scopes](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-scopes) contr
 
 ### Membros e perfis
 
-Os [membros](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora) de uma organização compradora recebem perfis de acesso do storefront que definem o que podem ver e fazer na loja. Exemplos de perfis predefinidos incluem:
+Os [membros](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora) de uma organização compradora recebem perfis de acesso do storefront que definem o que podem ver e fazer na loja. Exemplos de perfis predefinidos incluem:
 
 - **Buyer:** realiza pedidos.
 - **Order Approver:** aprova ou rejeita pedidos em fluxos de aprovação.
@@ -65,7 +65,7 @@ Os [membros](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-comp
 - **Budget Manager:** cria e gerencia budgets e alocações.
 - **Buying Policy Manager:** configura regras de aprovação de compras.
 
-Esses e outros perfis disponíveis podem ser combinados para atender às responsabilidades de cada usuário, criando um modelo de permissões granular para estruturas organizacionais complexas. Para a lista completa, consulte [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
+Esses e outros perfis disponíveis podem ser combinados para atender às responsabilidades de cada usuário, criando um modelo de permissões granular para estruturas organizacionais complexas. Para a lista completa, consulte [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 
 ## Finanças e compliance
 
@@ -132,6 +132,6 @@ Essa funcionalidade atende organizações que utilizam software de procurement c
 
 ## Saiba mais
 
-- [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-organizational-units)
+- [Adicionar ou editar unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-unidades-organizacionais)
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [B2B Buyer Portal integration overview](https://developers.vtex.com/docs/guides/b2b-buyer-portal-integration-overview) (documentação para desenvolvedores)

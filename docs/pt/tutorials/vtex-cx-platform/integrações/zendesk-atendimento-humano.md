@@ -1,0 +1,62 @@
+---
+title: "Zendesk - Atendimento Humano"
+id: 3FSQwdnzAX3jah8euPD1Ah
+status: PUBLISHED
+createdAt: 2025-09-15T15:13:03.117Z
+updatedAt: 2025-10-03T14:20:32.519Z
+publishedAt: 2025-10-03T14:20:32.519Z
+firstPublishedAt: 2025-10-03T14:20:32.519Z
+contentType: tutorial
+productTeam: Post-purchase
+author: 4JJllZ4I71DHhIOaLOE3nz
+slugEN: zendesk-human-support
+legacySlug: zendesk-atendimento-humano
+locale: pt
+subcategoryId: 7e9LaCixVcvflzgWkxlftd
+---
+
+## Passos para Integração
+
+A integração entre o VTEX CX Platform e o Zendesk oferece uma ferramenta poderosa para gerenciar o atendimento ao cliente de forma eficiente e automática. Após concluir a configuração e instalação, é essencial monitorar o funcionamento da integração para garantir que todos os tickets sejam gerenciados corretamente e que os gatilhos automáticos funcionem conforme o esperado.
+
+1. Crie uma conta no Zendesk
+   Se você ainda não possui uma conta, crie uma no Zendesk. Para este exemplo, estamos usando uma conta de teste gratuita. (<https://weni5623\.zendesk.com/>)
+   Acesse: <https://www.zendesk.com/>
+
+1. Acesse o Projeto no VTEX CX Platform
+   Dentro do seu projeto no VTEX CX Platform o módulo **Aplicações > Outros Apps**.
+   Clique no menu de três linhas (hambúrguer) e selecione **Adicionar Serviço de Tickets**, escolhendo **Zendesk**.
+
+1. Preencha o Subdomínio e Capture a URL da Solicitação
+
+Você será solicitado a inserir seu subdomínio. Antes de clicar no botão **Conectar**, pressione **F12** para abrir o modo de desenvolvedor e acesse o módulo **Network** (Rede).
+
+- Preencha o Subdomínio, que é o valor antes de ""zendesk.com"" na URL. Exemplo: weni5623 a partir de <https://weni5623\.zendesk.com/>.
+- Ao clicar em **Conectar**, duas novas linhas aparecerão no modo de desenvolvedor.
+- Clique na segunda linha, onde a **URL da Solicitação** começará com seu subdomínio, por exemplo, <https://weni5623\>...
+- Copie a URL completa e abra-a em outra aba do navegador.
+
+1. Autorize o Uso do Aplicativo
+   Autorize o uso do aplicativo em sua conta do Zendesk.
+
+- Após a autorização, um guia passo a passo será exibido para você continuar.
+- Salve o segredo que for mostrado, pois ele será necessário nas próximas etapas.
+
+1. Instale o Aplicativo VTEX CX Platform (Weni) no Zendesk
+   Acesse o [**Zendesk Marketplace**](https://www.zendesk.com/marketplace/apps/) e instale o aplicativo **VTEX CX Platform (Weni)**. Se você já possui o aplicativo do VTEX CX Platform (Weni) instalado no Zendesk, não é necessário instalá-lo novamente. Pule para o próximo passo para **adicionar conta**.
+2. Configure a Integração no Zendesk
+   As configurações da sua conta agora estão no **Admin Center**. Acesse o **Admin Center**.
+   Em **Aplicativos e Integrações**, adicione o aplicativo **VTEX CX Platform (Weni)** do **Marketplace** se ainda não o fez.
+   Após a integração, configure e salve as informações.
+3. Clique em **Aplicativos de Canal >** Selecione o seu **Canal > Contas > Adicionar Conta**. Atribua um nome à sua integração/conta e adicione o **segredo** salvo na Etapa 5\.
+4. Verifique a Conexão no VTEX CX Platform Em **Aplicações > Outros Apps** no VTEX CX Platform, o serviço com o Zendesk deverá aparecer como conectado.
+5. Use o Card ""**Abrir um Ticket**"" no Fluxo Agora você pode usar o card **Abrir um Ticket** no seu fluxo no VTEX CX Platform. Consulte: **Criando Campos Personalizados**.
+6. Configurar Gatilhos
+   Configure um gatilho para que, quando um ticket for fechado, um fluxo de conclusão seja iniciado para o usuário.
+   Além disso, crie gatilhos para impedir que os usuários em suporte iniciem outros fluxos indesejados.
+
+### Próximos passos
+
+- Testar a Integração: Realize testes para garantir que a criação de tickets e as respostas automáticas estejam funcionando conforme planejado.
+- Monitoramento Contínuo: Estabeleça um processo de revisão regular para gatilhos e fluxos, garantindo que estejam alinhados com as necessidades do negócio.
+- Ajustes e Otimização: À medida que o uso do sistema evolui, considere ajustar os fluxos e gatilhos para otimizar o atendimento ao cliente e melhorar a experiência do usuário.

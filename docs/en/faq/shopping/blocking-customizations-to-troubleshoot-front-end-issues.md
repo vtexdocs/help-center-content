@@ -1,5 +1,5 @@
 ---
-title: 'Blocking customizations to troubleshoot front-end issues'
+title: 'Blocking customizations to troubleshoot frontend issues in the store'
 id: 5c1a4bvVK8rAvKLczhkCnY
 status: PUBLISHED
 createdAt: 2020-04-20T12:59:14.576Z
@@ -11,61 +11,39 @@ productTeam: Shopping
 author: 4iKDU1m0huXy1qFWff7vY5
 slugEN: blocking-customizations-to-troubleshoot-front-end-issues
 locale: en
-legacySlug: como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja
+legacySlug: blocking-customizations-to-troubleshoot-frontend-issues-in-the-store
 ---
 
-> ⚠️ Tutorial valid only for Legacy CMS Stores.
+> ⚠️ This tutorial only applies to [CMS Portal (Legacy)](https://help.vtex.com/docs/tracks/legacy-cms-portal) stores.
 
-In this article, you will learn how to find the origin of the problem. The first step is to block front-end customizations. Depending on the website’s response, you will be able to identify whether the problem is in the information that VTEX delivers natively or in your page customization.
+In this article, you'll learn how to check the source of a frontend issue. The first step is to block frontend customizations. Based on the site's response, you'll be able to understand whether the issue originates from the information provided natively by VTEX or from a page customization.
 
-To do that, we will show you how to remove the customizations using a Chrome native tool: **DevTools**. You can also use Chrome’s apps and extensions for removing them. However, the native solution tends to be more secure and efficient.
+To do this, we will show you how to remove the customizations using a native Chrome tool, **DevTools**.
 
-## How to configure DevTools
+## Configuring DevTools
 
-1. To open DevTools, open Chrome and click **F12** or **right-click** anywhere on the page and select **Inspect**.
+To configure [Chrome DevTools](https://developer.chrome.com/docs/devtools/), follow the steps below.
 
-![Customizations1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_1.png)
+1. Open [Google Chrome](https://www.google.com/chrome/) on your computer.
+2. Press the `F12` button on your keyboard or right-click anywhere on the screen with your mouse and select **Inspect**.
+3. Click the vertical ellipsis in the top right corner of the page, as shown in the image below.
+4. Select **More tools** and then **Request conditions** to block all customizations made via CSS, JavaScript, and Google Tag Manager.
 
-2. Search for the **Request Blocking** function to block all customizations made via CSS, JavaScript, and Google Tag Manager. Click on the three vertical dots on the top right of the page, as indicated in the image below. Select **More Tools** and then **Request Blocking**.
+![Customizations1 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/legado-02-en.png)
 
-![Customizations2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_2.png)
+5. In the **Request conditions** tab, Click `Add rule` to set the first resource to be blocked. To add more resources, click `+` and, after defining it, click `Add`. This configuration only needs to be set once in your browser. Include the items below:
 
-3. A box will be displayed, as in the image below:
+- `*:/arquivos/*.js`
+- `*:/files/*js`
+- `*:/arquivos/*.css`
+- `*:/files/*.css`
+- `*://www.googletagmanager.com/gtm.js*`
 
-![Customizations3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_3.png)
+![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/request-conditions-02-en.png)
 
-4. Click on the **Request Blocking** tab.
+6. Check the **Enable blocking and throttling** option and all the checkboxes next to each configured resource. This will be the default configuration, with all options enabled for blocking.
+7. Now refresh the page. It will display without the custom components.
 
-Now you will determine the features you want to block. This configuration must be done only once.
+Check whether the unwanted behavior you initially observed occurs only when the customization is active. If it does, contact your frontend team and have them check the behavior.
 
-5. Click on the “+” signal and include the following items one by one:
-- `*/arquivos/*.js`
-- `*/files/*js`
-- `*/arquivos/*.css`
-- `*/files/*.css`
-- `*gtm.js*`
-
-The box will finally be displayed as in the image below:
-
-![Customizations4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_4.png)
-
-Please remember that this configuration must be done only __once__.
-
-## How to block customizations using DevTools
-
-1. Select the checkbox **Enable request blocking** and enable all checkboxes.
-
-2. This configuration will be set by default, with all options for blocking enabled.
-
-![Customizations5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_5.png)
-
-3. Now refresh the page by clicking on **F5**. The page will be displayed without custom components.
-
-![Customizations6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_6.png)
-
-4. To view customizations again, deselect the checkbox **Enable request blocking** and refresh the page.
-
-Check if the unexpected behavior you initially observed only happens when customization is enabled. If that is the case, contact the team responsible for your front-end to investigate the problem.
-
-If the unexpected behavior persists even after blocking customizations, open a ticket to the VTEX support explaining the problems you are experiencing.
-
+If the unwanted behavior persists even when customizations are blocked, open a ticket with [VTEX Support](https://supporticket.vtex.com/support).
