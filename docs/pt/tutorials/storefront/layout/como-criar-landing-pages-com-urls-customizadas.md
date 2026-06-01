@@ -68,7 +68,7 @@ Após clicar na pasta raiz (`/`), siga as instruções a seguir:
 6. No lado direito da tela, clique em `new folder`.
 7. Preencha os campos conforme as orientações a seguir:
    * **Folder Name:** caminho da URL.
-   * **Marketing Context (Default):** define se a página pode ser acessada por [utms](https://help.vtex.com/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium). Esse campo é opcional.
+   * **Marketing Context (Default):** define se a página pode ser acessada por [UTMs](https://help.vtex.com/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium). Esse campo é opcional.
    * **Search Context (Default):** adiciona parâmetros de busca. Para exibir, por exemplo, produtos da categoria `111`, da marca `222` e com a especificação `333`, use o valor a seguir: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
    * **Protocol:** define o protocolo de comunicação entre um servidor web e um navegador web. Recomendado: `HTTPS`.
    * **Cache Type:** define o comportamento de armazenamento em cache do navegador. Recomendado: `Local and Remote`.
