@@ -71,6 +71,37 @@
             },
             {
               "name": {
+                "en": "Maio",
+                "es": "Maio",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "maio",
+                "es": "maio",
+                "pt": "2026-maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "User Rights API: exclusão automatizada de dados pessoais",
+                    "en": "User Rights API: exclusão automatizada de dados pessoais",
+                    "es": "User Rights API: exclusão automatizada de dados pessoais"
+                  },
+                  "slug": {
+                    "pt": "2026-05-21-user-rights-api-apagamento-automatizado-de-dados-pessoais",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
@@ -276,37 +307,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Maio",
-                "es": "Maio",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "maio",
-                "es": "maio",
-                "pt": "maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "User Rights API: exclusão automatizada de dados pessoais",
-                    "en": "User Rights API: exclusão automatizada de dados pessoais",
-                    "es": "User Rights API: exclusão automatizada de dados pessoais"
-                  },
-                  "slug": {
-                    "pt": "2026-05-21-user-rights-api-apagamento-automatizado-de-dados-pessoais",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -45988,6 +45988,21 @@
             },
             {
               "name": {
+                "en": "Marketplace price override applies to all cart items regardless of the seller",
+                "es": "La modificación del precio del Marketplace se aplica a todos los artículos del carrito, independientemente del vendedor",
+                "pt": "A substituição do preço do Marketplace se aplica a todos os itens do carrinho, independentemente do vendedor"
+              },
+              "slug": {
+                "en": "marketplace-price-override-applies-to-all-cart-items-regardless-of-the-seller",
+                "es": "la-modificacion-del-precio-del-marketplace-se-aplica-a-todos-los-articulos-del-carrito-independientemente-del-vendedor",
+                "pt": "a-substituicao-do-preco-do-marketplace-se-aplica-a-todos-os-itens-do-carrinho-independentemente-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Marketplace tax hub request doesn't consider manual price for discounts",
                 "es": "La solicitud del centro de impuestos de Marketplace no tiene en cuenta el precio manual para los descuentos",
                 "pt": "A solicitação do hub de impostos do Marketplace não leva em consideração o preço manual para descontos"
@@ -46266,6 +46281,21 @@
                 "en": "orderform-remains-with-credit-card-that-were-removed-via-myaccount-page",
                 "es": "el-orderform-permanece-con-la-tarjeta-de-credito-que-se-elimino-a-traves-de-la-pagina-de-mi-cuenta",
                 "pt": "orderform-permanece-com-cartao-de-credito-que-foram-removidos-atraves-da-minha-pagina-de-contas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "orderPlaced page returns 404 for orders with no payment (null Payment ID)",
+                "es": "La página «orderPlaced» devuelve un error 404 para los pedidos sin pago (ID de pago nulo)",
+                "pt": "A página `orderPlaced` retorna um erro 404 para pedidos sem pagamento (ID de pagamento nulo)"
+              },
+              "slug": {
+                "en": "orderplaced-page-returns-404-for-orders-with-no-payment-null-payment-id",
+                "es": "la-pagina-orderplaced-devuelve-un-error-404-para-los-pedidos-sin-pago-id-de-pago-nulo",
+                "pt": "a-pagina-orderplaced-retorna-um-erro-404-para-pedidos-sem-pagamento-id-de-pagamento-nulo"
               },
               "origin": "",
               "type": "markdown",
@@ -53390,14 +53420,14 @@
             },
             {
               "name": {
-                "en": "Visual merchandising rules wrongly extendeded to broader contexts",
-                "es": "Las normas de merchandising visual se extienden erróneamente a contextos más amplios",
-                "pt": "Regras de visual merchandising erroneamente estendidas a contextos mais amplos"
+                "en": "Visual merchandising rules wrongly extended to broader contexts",
+                "es": "Las normas del merchandising visual se han extrapolado erróneamente a contextos más amplios",
+                "pt": "Regras de merchandising visual aplicadas indevidamente a contextos mais amplos"
               },
               "slug": {
-                "en": "visual-merchandising-rules-wrongly-extendeded-to-broader-contexts",
-                "es": "las-normas-de-merchandising-visual-se-extienden-erroneamente-a-contextos-mas-amplios",
-                "pt": "regras-de-visual-merchandising-erroneamente-estendidas-a-contextos-mais-amplos"
+                "en": "visual-merchandising-rules-wrongly-extended-to-broader-contexts",
+                "es": "las-normas-del-merchandising-visual-se-han-extrapolado-erroneamente-a-contextos-mas-amplios",
+                "pt": "regras-de-merchandising-visual-aplicadas-indevidamente-a-contextos-mais-amplos"
               },
               "origin": "",
               "type": "markdown",
