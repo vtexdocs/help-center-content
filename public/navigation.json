@@ -45882,6 +45882,21 @@
             },
             {
               "name": {
+                "en": "Marketplace price override applies to all cart items regardless of the seller",
+                "es": "La modificación del precio del Marketplace se aplica a todos los artículos del carrito, independientemente del vendedor",
+                "pt": "A substituição do preço do Marketplace se aplica a todos os itens do carrinho, independentemente do vendedor"
+              },
+              "slug": {
+                "en": "marketplace-price-override-applies-to-all-cart-items-regardless-of-the-seller",
+                "es": "la-modificacion-del-precio-del-marketplace-se-aplica-a-todos-los-articulos-del-carrito-independientemente-del-vendedor",
+                "pt": "a-substituicao-do-preco-do-marketplace-se-aplica-a-todos-os-itens-do-carrinho-independentemente-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Marketplace tax hub request doesn't consider manual price for discounts",
                 "es": "La solicitud del centro de impuestos de Marketplace no tiene en cuenta el precio manual para los descuentos",
                 "pt": "A solicitação do hub de impostos do Marketplace não leva em consideração o preço manual para descontos"
@@ -46160,6 +46175,21 @@
                 "en": "orderform-remains-with-credit-card-that-were-removed-via-myaccount-page",
                 "es": "el-orderform-permanece-con-la-tarjeta-de-credito-que-se-elimino-a-traves-de-la-pagina-de-mi-cuenta",
                 "pt": "orderform-permanece-com-cartao-de-credito-que-foram-removidos-atraves-da-minha-pagina-de-contas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "orderPlaced page returns 404 for orders with no payment (null Payment ID)",
+                "es": "La página «orderPlaced» devuelve un error 404 para los pedidos sin pago (ID de pago nulo)",
+                "pt": "A página `orderPlaced` retorna um erro 404 para pedidos sem pagamento (ID de pagamento nulo)"
+              },
+              "slug": {
+                "en": "orderplaced-page-returns-404-for-orders-with-no-payment-null-payment-id",
+                "es": "la-pagina-orderplaced-devuelve-un-error-404-para-los-pedidos-sin-pago-id-de-pago-nulo",
+                "pt": "a-pagina-orderplaced-retorna-um-erro-404-para-pedidos-sem-pagamento-id-de-pagamento-nulo"
               },
               "origin": "",
               "type": "markdown",
