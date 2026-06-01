@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: Custom data now visible in the VTEX Admin",
+                    "es": "Pedidos: datos personalizados ahora visibles en el Admin VTEX",
+                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin",
+                    "es": "2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex",
+                    "pt": "2026-05-22-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Operational capacity is now available globally",
                     "es": "Capacidad operativa disponible a nivel global",
                     "pt": "Capacidade operacional disponível globalmente"
@@ -8821,14 +8836,14 @@
             },
             {
               "name": {
-                "en": "Why VTEX search engine ignores some terms",
-                "es": "Por que el buscador de VTEX ignora algunos términos buscados",
-                "pt": "Por que o buscador da VTEX ignora alguns termos buscados"
+                "en": "Why VTEX Search (Legacy) engine ignores some terms",
+                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
+                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
               },
               "slug": {
-                "en": "why-vtex-search-engine-ignores-some-terms",
-                "es": "por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados",
-                "pt": "por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados"
+                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
+                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
+                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
               },
               "origin": "",
               "type": "markdown",
@@ -11188,14 +11203,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Understanding your account",
-                    "es": "1. Entendiendo su cuenta",
-                    "pt": "1. Entendendo a sua conta"
+                    "en": "1. Introduction to Account Management",
+                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "understanding-your-account",
-                    "es": "entendiendo-su-cuenta",
-                    "pt": "entendendo-a-sua-conta"
+                    "en": "placeholder-introduction-to-account-management",
+                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11203,14 +11218,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Editing account data",
-                    "es": "2. Editar datos de la cuenta",
-                    "pt": "2. Editar dados da conta"
+                    "en": "2. Users and Roles",
+                    "es": "2. Usuarios y Roles",
+                    "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "editing-account-data",
-                    "es": "editar-datos-de-la-cuenta",
-                    "pt": "editar-dados-da-conta"
+                    "en": "placeholder-users-and-roles",
+                    "es": "placeholder-usuarios-y-roles",
+                    "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11218,14 +11233,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. What are permissions and roles",
-                    "es": "3. ¿Qué son permisos y perfiles de acceso?",
-                    "pt": "3. O que são permissões e perfis de acesso"
+                    "en": "3. Authentication and Security",
+                    "es": "3. Autenticación y Seguridad",
+                    "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "what-are-permissions-and-access-profiles",
-                    "es": "que-son-permisos-y-perfiles-de-acceso",
-                    "pt": "o-que-sao-permissoes-e-perfis-de-acesso"
+                    "en": "placeholder-authentication-and-security",
+                    "es": "placeholder-autenticacion-y-seguridad",
+                    "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11233,104 +11248,14 @@
                 },
                 {
                   "name": {
-                    "en": "4. Creating and editing roles",
-                    "es": "4. Crear y editar perfiles de acceso",
-                    "pt": "4. Criar e editar perfis de acesso"
+                    "en": "4. API Keys for Integrations",
+                    "es": "4. Claves de API para Integraciones",
+                    "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "creating-and-editing-access-profiles",
-                    "es": "crear-y-editar-perfiles-de-acceso",
-                    "pt": "criar-e-editar-perfis-de-acesso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Creating and editing users",
-                    "es": "5. Crear y editar usuario",
-                    "pt": "5. Criar e editar usuário"
-                  },
-                  "slug": {
-                    "en": "creating-and-editing-users",
-                    "es": "crear-y-editar-usuario",
-                    "pt": "criar-e-editar-usuario"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. What is the Sponsor user",
-                    "es": "6. Qué es el usuario titular",
-                    "pt": "6. O que é o usuário Titular"
-                  },
-                  "slug": {
-                    "en": "what-is-the-master-user",
-                    "es": "que-es-el-usuario-master",
-                    "pt": "o-que-e-o-usuario-master"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "7. How the account relates to the website's pages",
-                    "es": "7. Cómo se relaciona la cuenta con las páginas del sitio web",
-                    "pt": "7. Como a conta se relaciona às páginas do site"
-                  },
-                  "slug": {
-                    "en": "como-a-conta-se-relaciona-as-paginas-do-site",
-                    "es": "como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web",
-                    "pt": "como-a-conta-se-relaciona-as-paginas-do-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
-                  },
-                  "slug": {
-                    "en": "enabling-2-factor-authentication-login",
-                    "es": "habilitar-inicio-de-sesion-por-autenticacion-de-2-factores",
-                    "pt": "habilitar-login-por-autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "9. Configuring login with Facebook",
-                    "es": "9. Configurar inicio de sesión con Facebook",
-                    "pt": "9. Configurar login com Facebook"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-facebook",
-                    "es": "configurar-inicio-de-sesion-con-facebook",
-                    "pt": "configurar-login-com-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "10. Configuring login with Google",
-                    "es": "10. Configurar inicio de sesión con Google",
-                    "pt": "10. Configurar login com Google"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-google",
-                    "es": "configurar-inicio-de-sesion-con-google",
-                    "pt": "configurar-login-com-google"
+                    "en": "placeholder-api-keys-for-integrations",
+                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17109,9 +17034,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
+                    "en": "Enabling two-factor authentication login",
+                    "es": "Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -20023,14 +19948,14 @@
                 },
                 {
                   "name": {
-                    "en": "How VTEX search works",
-                    "es": "Cómo funciona la búsqueda de VTEX",
-                    "pt": "Como funciona a busca da VTEX"
+                    "en": "How VTEX Search (Legacy) works",
+                    "es": "Cómo funciona la VTEX Search (Legado)",
+                    "pt": "Como funciona a VTEX Search (Legado)"
                   },
                   "slug": {
-                    "en": "how-does-vtex-search-work",
-                    "es": "como-funciona-la-busqueda-de-vtex",
-                    "pt": "como-funciona-a-busca-da-vtex"
+                    "en": "how-does-vtex-search-legacy-work",
+                    "es": "como-funciona-vtex-search-legado",
+                    "pt": "como-funciona-vtex-search-legado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25403,8 +25328,8 @@
                   },
                   "slug": {
                     "en": "master-data",
-                    "es": "master-data",
-                    "pt": "master-data"
+                    "es": "master-data-es",
+                    "pt": "master-data-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34089,6 +34014,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configure scheduled delivery in Buyer Portal Checkout",
+                    "es": "Configurar entrega programada en Buyer Portal Checkout",
+                    "pt": "Configurar entrega agendada no Buyer Portal Checkout"
+                  },
+                  "slug": {
+                    "en": "configure-scheduled-delivery-buyer-portal-checkout",
+                    "es": "configurar-entrega-programada-buyer-portal-checkout",
+                    "pt": "configurar-entrega-agendada-buyer-portal-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a shipping policy",
                     "es": "Crear una política de envío",
                     "pt": "Criar uma política de envio"
@@ -36096,27 +36036,12 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criar agentes ativos"
+                    "pt": "Criar automações do CX"
                   },
                   "slug": {
-                    "en": "create-active-agents",
-                    "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps",
-                    "es": "Primeros pasos",
-                    "pt": "First steps"
-                  },
-                  "slug": {
-                    "en": "first-steps",
-                    "es": "primeros-pasos",
-                    "pt": ""
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36126,27 +36051,12 @@
                   "name": {
                     "en": "Introduction to Agentic CX",
                     "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
+                    "pt": "Introdução ao CX"
                   },
                   "slug": {
-                    "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-agentic-ai",
-                    "pt": "introducao-ao-agentic-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Agentic CX",
-                    "es": "Instalando a Agentic CX",
-                    "pt": "Configurar o Agentic CX"
-                  },
-                  "slug": {
-                    "en": "manage-agentic-cx",
-                    "es": "instalando-a-agentic-cx",
-                    "pt": "configurar-o-agentic-cx"
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36892,6 +36802,21 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
@@ -46992,6 +46917,21 @@
             },
             {
               "name": {
+                "en": "Security Code persistence in UI form when changing from a saved card to a new card",
+                "es": "El código de seguridad permanece en el formulario de la interfaz de usuario al cambiar de una tarjeta guardada a una nueva",
+                "pt": "Persistência do código de segurança no formulário da interface do usuário ao mudar de um cartão salvo para um novo cartão"
+              },
+              "slug": {
+                "en": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
+                "es": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
+                "pt": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller selection algorithm doesn't consider the real availability of the item to choose the best option",
                 "es": "El algoritmo de selección del vendedor no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción",
                 "pt": "O algoritmo de seleção do vendedor não considera a disponibilidade real do item para escolher a melhor opção"
@@ -53344,14 +53284,14 @@
             },
             {
               "name": {
-                "en": "Visual merchandising rules wrongly extendeded to broader contexts",
-                "es": "Las normas de merchandising visual se extienden erróneamente a contextos más amplios",
-                "pt": "Regras de visual merchandising erroneamente estendidas a contextos mais amplos"
+                "en": "Visual merchandising rules wrongly extended to broader contexts",
+                "es": "Las normas del merchandising visual se han extrapolado erróneamente a contextos más amplios",
+                "pt": "Regras de merchandising visual aplicadas indevidamente a contextos mais amplos"
               },
               "slug": {
-                "en": "visual-merchandising-rules-wrongly-extendeded-to-broader-contexts",
-                "es": "las-normas-de-merchandising-visual-se-extienden-erroneamente-a-contextos-mas-amplios",
-                "pt": "regras-de-visual-merchandising-erroneamente-estendidas-a-contextos-mais-amplos"
+                "en": "visual-merchandising-rules-wrongly-extended-to-broader-contexts",
+                "es": "las-normas-del-merchandising-visual-se-han-extrapolado-erroneamente-a-contextos-mas-amplios",
+                "pt": "regras-de-merchandising-visual-aplicadas-indevidamente-a-contextos-mais-amplos"
               },
               "origin": "",
               "type": "markdown",
@@ -58346,6 +58286,21 @@
             },
             {
               "name": {
+                "en": "Scenarios Involving Goodwill Following an Order Modification",
+                "es": "Situaciones relacionadas con el fondo de comercio tras una modificación de la orden",
+                "pt": "Cenários envolvendo ágio após uma modificação de pedido"
+              },
+              "slug": {
+                "en": "scenarios-involving-goodwill-following-an-order-modification",
+                "es": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+                "pt": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con un problema en el cobro del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -59954,6 +59909,21 @@
             },
             {
               "name": {
+                "en": "Event inconsistency in legacy connectors",
+                "es": "Incoherencia en los eventos de los conectores heredados",
+                "pt": "Inconsistência de eventos em conectores legados"
+              },
+              "slug": {
+                "en": "event-inconsistency-in-legacy-connectors",
+                "es": "incoherencia-en-los-eventos-de-los-conectores-heredados",
+                "pt": "inconsistencia-de-eventos-em-conectores-legados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Expiration date of Special condition is not deleted",
                 "es": "La fecha de caducidad de la condición especial no se elimina",
                 "pt": "Data de expiração da condição especial não é apagada"
@@ -61244,6 +61214,21 @@
             },
             {
               "name": {
+                "en": "Payment rule not applied due to BIN issuer mismatch",
+                "es": "No se ha aplicado la regla de pago debido a una discrepancia en el código BIN del emisor",
+                "pt": "Regra de pagamento não aplicada devido à incompatibilidade do BIN do emissor"
+              },
+              "slug": {
+                "en": "payment-rule-not-applied-due-to-bin-issuer-mismatch",
+                "es": "no-se-ha-aplicado-la-regla-de-pago-debido-a-una-discrepancia-en-el-codigo-bin-del-emisor",
+                "pt": "regra-de-pagamento-nao-aplicada-devido-a-incompatibilidade-do-bin-do-emissor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)",
                 "es": "El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).",
                 "pt": "O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)"
@@ -61282,6 +61267,21 @@
                 "en": "payment-stuck-after-early-cancellation-request-during-settling",
                 "es": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
                 "pt": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment Stuck in \"Received\" Status — Transaction does not progress to \"Approved\" status",
+                "es": "El pago se ha quedado en el estado «Recibido»: la transacción no pasa al estado «Aprobado»",
+                "pt": "Pagamento preso no status \"Recebido\" — A transação não avança para o status \"Aprovado\""
+              },
+              "slug": {
+                "en": "payment-stuck-in-received-status-transaction-does-not-progress-to-approved-status",
+                "es": "el-pago-se-ha-quedado-en-el-estado-recibido-la-transaccion-no-pasa-al-estado-aprobado",
+                "pt": "pagamento-preso-no-status-recebido-a-transacao-nao-avanca-para-o-status-aprovado"
               },
               "origin": "",
               "type": "markdown",
@@ -62054,6 +62054,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"canceling\" status",
+                "es": "La transacción se ha quedado bloqueada en el estado «en proceso de cancelación»",
+                "pt": "Transação travada no status \"cancelando\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-canceling-status",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-el-estado-en-proceso-de-cancelacion",
+                "pt": "transacao-travada-no-status-cancelando"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
                 "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
                 "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
@@ -62266,12 +62281,12 @@
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
                 "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
-                "pt": "As transações continuam travadas, apesar da aprovação do conector"
+                "pt": "As transações continuam bloqueadas, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-despite-connector-approval",
                 "es": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector"
+                "pt": "as-transacoes-continuam-bloqueadas-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62385,13 +62400,13 @@
             {
               "name": {
                 "en": "Transactions stuck in Authorized after approval",
-                "es": "Transacciones bloqueadas en Autorizado después de la aprobación",
-                "pt": "Transações presas em Autorizado após aprovação"
+                "es": "Transacciones que quedan bloqueadas en «Autorizadas» tras su aprobación",
+                "pt": "Transações que ficam no status “Autorizado” após a aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-after-approval",
-                "es": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizado-apos-aprovacao"
+                "es": "transacciones-que-quedan-bloqueadas-en-autorizadas-tras-su-aprobacion",
+                "pt": "transacoes-que-ficam-no-status-autorizado-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62400,12 +62415,12 @@
             {
               "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
-                "es": "Transacciones bloqueadas en «Autorizado» o «Autorización pendiente» tras su aprobación.",
+                "es": "Transacciones que quedan bloqueadas en «Autorizadas» o «Pendientes de autorización» tras su aprobación",
                 "pt": "Transações retidas em Autorizado ou Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
-                "es": "transacciones-bloqueadas-en-autorizado-o-autorizacion-pendiente-tras-su-aprobacion",
+                "es": "transacciones-que-quedan-bloqueadas-en-autorizadas-o-pendientes-de-autorizacion-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizado-ou-autorizacao-pendente-apos-aprovacao"
               },
               "origin": "",
@@ -67651,6 +67666,21 @@
                 "en": "sitemap-not-generating-due-a-timeout-toomanyrequests",
                 "es": "el-sitemap-no-se-genera-debido-a-un-tiempo-de-espera-toomanyrequests",
                 "pt": "o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap retains ghost products from categories removed via full cleanup",
+                "es": "El mapa del sitio conserva los productos fantasma de las categorías eliminadas mediante una limpieza completa",
+                "pt": "O mapa do site mantém produtos fantasmas de categorias removidas por meio de uma limpeza completa"
+              },
+              "slug": {
+                "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
+                "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
+                "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
               },
               "origin": "",
               "type": "markdown",

@@ -14,7 +14,7 @@ locale: en
 legacySlug: search-with-specification-parameter-returns-empty
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 If the URL `http://www.{account-name}.com.br/busca/?fq=specificationFilter_{XXX}:{Y}` is not bringing the products/SKUs that have the intended specification, the __Filter__ parameter is not marked in the product/SKU field registration.
 
