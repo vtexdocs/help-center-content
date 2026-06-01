@@ -3,7 +3,7 @@ title: 'VTEX Pick and Pack: Configurações'
 id: 16cs3e7hWk7c4cSZqe10O9
 status: PUBLISHED
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2025-11-13T00:00:00.000Z
+updatedAt: 2026-06-01T00:00:00.000Z
 publishedAt: 2024-01-09T18:30:22.578Z
 firstPublishedAt: 2024-01-09T16:30:00.192Z
 contentType: tutorial
@@ -33,6 +33,25 @@ Nesta aba, você encontrará configurações relacionadas aos pedidos processado
 ![vtex-pick-and-pack-configuracoes_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_1.png)
 
 * **Baixar pedidos do OMS:** permite exportar pedidos do [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).
+
+### Remoção automática de pedidos faturados
+
+Na aba **Pedidos**, você pode definir como o VTEX Pick and Pack deve tratar pedidos que mudam para **Faturado** no Order Management System (OMS) depois de serem baixados para o aplicativo.
+
+Para remover automaticamente pedidos faturados do VTEX Pick and Pack, siga os passos abaixo:
+
+1. No Admin VTEX, acesse **Envio > VTEX Pick and Pack > Configurações**.  
+2. Clique em **Pedidos**.  
+3. Em **Se um pedido mudar para Faturado no OMS**, ative **Remover do Pick and Pack**.  
+4. Clique em Salvar.
+
+Com essa opção ativada, o VTEX Pick and Pack remove automaticamente do aplicativo os pedidos que atendem a todas as seguintes condições:
+
+- O pedido já foi baixado para o VTEX Pick and Pack.  
+- O pedido ainda não foi processado.  
+- O pedido mudou para **Faturado** no OMS antes da etapa de manuseio.
+
+Os filtros descritos a seguir são aplicados somente a novos pedidos feitos após a exportação. Se nenhum filtro for definido, todos os pedidos serão baixados.
 
 > ℹ️ Os filtros abaixo são aplicados somente a novos pedidos que sejam feitos após a exportação e, se nenhum filtro for definido, todos os pedidos serão baixados.
 
