@@ -31,13 +31,13 @@ Este artigo explica:
 
 ## Como o Contingency Mode funciona
 
-O **Contingency Mode** funciona como um circuit breaker automático para conectores de pagamento. Quando a VTEX detecta falhas técnicas recorrentes em um conector, o sistema ativa automaticamente o **Contingency Mode** para esse conector.
+O **Contingency Mode** é um mecanismo de proteção automática para conectores de pagamento. Quando a VTEX identifica falhas técnicas recorrentes em um conector, o sistema ativa esse modo para reduzir o impacto da instabilidade no processamento de pagamentos.
 
 Durante esse período:
 
 - Novas autorizações elegíveis deixam de ser enviadas temporariamente ao provedor.
 - Novas transações elegíveis podem ser adiadas para processamento posterior.
-- Transações já adiadas seguem um fluxo independente de retentativa agendada.
+- Transações já adiadas seguem um fluxo independente de retentativas agendadas.
 
 Essa proteção se aplica ao conector afetado, não à loja como um todo. Outros provedores de pagamento ou meios de pagamento que não foram afetados pela instabilidade podem continuar operando normalmente.
 
@@ -55,7 +55,7 @@ Erros técnicos qualificáveis podem incluir:
 - Respostas HTTP `408` de timeout.
 - Erros HTTP `5xx` do provedor, como `500`, `502`, `503` ou `504`.
 
-> ℹ️ Respostas de negócio não ativam o **Contingency Mode**. Por exemplo, saldo insuficiente, cartão inválido, cartão expirado e pagamento não autorizado fazem parte do fluxo normal de autorização e não são considerados instabilidade do conector.
+> ℹ️ Retornos esperados do processo de autorização não ativam o **Contingency Mode**. Por exemplo, saldo insuficiente, cartão inválido, cartão expirado e pagamento não autorizado fazem parte do fluxo normal de autorização e não são considerados instabilidade do conector.
 
 ### Ciclo do Contingency Mode
 
@@ -72,7 +72,7 @@ Esse comportamento ajuda a evitar novas chamadas a um conector instável enquant
 O diagrama a seguir mostra o ciclo de ativação e recuperação do Contingency Mode para novas autorizações:
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Nova tentativa\nde autorização"] --> B["VTEX inicia o processo\nde autorização"]
     B --> C{"Conector está em\nContingency Mode?"}
     C -- "Sim" --> D["Encaminha para o fluxo\nde autorização agendada"]
@@ -125,7 +125,7 @@ Essas transações seguem um fluxo independente de retentativa baseado:
 O diagrama a seguir mostra o comportamento das autorizações agendadas:
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Autorização chega \nenquanto o conector \nestá em Contingency Mode] --> B[VTEX não chama o conector]
     B --> C[Pagamento é enviado \npara uma fila de \nreprocessamento]
     C --> D[Pagamento fica como \nautorização agendada]
@@ -141,7 +141,7 @@ O período de recuperação do **Contingency Mode** e o intervalo de retentativa
 - O conector pode sair do **Contingency Mode** após aproximadamente 5 minutos.
 - As transações adiadas podem continuar aguardando a próxima janela de retentativa configurada para aquele fluxo de pagamento.
 
-Esse comportamento evita novas chamadas imediatas a conectores ainda instáveis, ao mesmo tempo em que preserva transações elegíveis para reprocessamento automático posterior.
+Esse comportamento evita novas chamadas imediatas a conectores ainda instáveis, ao mesmo tempo em que preserva as transações elegíveis para reprocessamento automático posterior.
 
 O intervalo entre retentativas pode variar conforme:
 
@@ -149,6 +149,8 @@ O intervalo entre retentativas pode variar conforme:
 - As informações retornadas pelo provedor.
 - O tempo de cancelamento do pagamento (`delayToCancel`).
 - As condições operacionais do fluxo de pagamento.
+
+Esses fatores determinam por quanto tempo a transação ainda pode ser reprocessada e qual intervalo deve ser respeitado entre uma tentativa e outra. Por isso, o tempo até a próxima retentativa não é fixo para todos os pagamentos e pode variar conforme a configuração e o contexto de cada transação.
 
 Em geral:
 
