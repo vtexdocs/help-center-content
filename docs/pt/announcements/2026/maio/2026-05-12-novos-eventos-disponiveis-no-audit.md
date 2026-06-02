@@ -46,14 +46,14 @@ A lista de [eventos disponíveis no Audit](/pt/docs/tutorials/eventos-disponivei
 
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
-| LIST_GIFT_CARD_TRANSACTIONS | Visualização das transações de vale-presente. | list-gift-card-transactions |
-| VIEW_GIFT_CARD_CONDITIONS | Visualização das condições de vale-presente. | view-gift-card-conditions |
-| CREATE_GIFT_CARD_CONDITIONS | Criação das condições de vale-presente. | create-gift-card-conditions |
-| EDIT_GIFT_CARD_CONDITIONS | Edição das condições de vale-presente. | edit-gift-card-conditions |
-| EDIT_GIFT_CARD_CONFIGURATION | Edição da configuração de vale-presente. | edit-gift-card-configuration |
-| CREATE_GIFT_CARD_CANCELLATION | Registro de cancelamento de vale-presente. | create-gift-card-cancellation |
-| CREATE_GIFT_CARD_SETTLEMENT | Registro de liquidação de vale-presente. | create-gift-card-settlement |
-| INSERT_GIFT_CARD_CREDITS | Inserção de créditos em vale-presente. | insert-gift-card-credits |
+| LIST_GIFT_CARD_TRANSACTIONS | Visualização das transações de vale-presente. | ID do vale-presente. |
+| VIEW_GIFT_CARD_CONDITIONS | Visualização das condições de vale-presente. | ID do vale-presente. |
+| CREATE_GIFT_CARD_CONDITIONS | Criação das condições de vale-presente. | ID do vale-presente. |
+| EDIT_GIFT_CARD_CONDITIONS | Edição das condições de vale-presente. | ID do vale-presente. |
+| EDIT_GIFT_CARD_CONFIGURATION | Edição da configuração de vale-presente. | ID do vale-presente. |
+| CREATE_GIFT_CARD_CANCELLATION | Registro de cancelamento de vale-presente. | ID do vale-presente. |
+| CREATE_GIFT_CARD_SETTLEMENT | Registro de liquidação de vale-presente. | ID do vale-presente.|
+| INSERT_GIFT_CARD_CREDITS | Inserção de créditos em vale-presente. | ID do vale-presente. |
 
 > ℹ️ Confira a lista completa em [Eventos disponíveis no Audit](/pt/docs/tutorials/eventos-disponiveis-no-audit).
 
