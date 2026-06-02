@@ -1,5 +1,5 @@
 ---
-title: ''Contigency Mode'
+title: 'Contingency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
