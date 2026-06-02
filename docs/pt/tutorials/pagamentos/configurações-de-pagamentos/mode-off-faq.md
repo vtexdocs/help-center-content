@@ -136,9 +136,7 @@ flowchart TD
     G -- Não --> H[Pagamento segue para \no fluxo normal de \nautorização]
 ```
 
-O período de recuperação do **Contingency Mode** e o intervalo de retentativa das transações são processos independentes.
-
-Na prática:
+O período de recuperação do **Contingency Mode** e o intervalo de retentativa das transações são processos independentes. Assim:
 
 - O conector pode sair do **Contingency Mode** após aproximadamente 5 minutos.
 - As transações adiadas podem continuar aguardando a próxima janela de retentativa configurada para aquele fluxo de pagamento.
