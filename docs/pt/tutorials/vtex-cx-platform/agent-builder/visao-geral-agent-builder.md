@@ -20,7 +20,7 @@ O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em 
 
 A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
 
-> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX CX Platform](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
+> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
@@ -34,11 +34,11 @@ Em **Agent Builder**, as seguintes páginas estão disponíveis:
 
 - [**Meus agentes**](#meus-agentes)
 - [**Base de conhecimento**](#base-de-conhecimento)
-- [**Fluxo de automação**](#fluxo-de-automação)
+- [**Fluxo de automação**](#fluxo-de-automacao)
 
 ### Meus agentes
 
-Nessa página, você pode atribuir e testar agentes para a sua loja, editar o manager e editar as instruções que esse manager deve seguir.
+Nessa página, você pode atribuir e testar agentes para a sua loja, editar o manager e as instruções que ele deve seguir.
 
 Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](/pt/docs/tutorials/atribuir-e-testar-agentes).
 
@@ -169,4 +169,4 @@ Após inserir um texto, clique em `Salvar`.
 
 Você pode criar fluxos de automação para interagir com um grupo de usuários e determinar as respostas do agente com base nas mensagens dos usuários.
 
-Para entender como criar fluxos, leia o artigo [Introdução a fluxos](https://help.vtex.com/pt/docs/tutorials/introducao-a-fluxos).
+Para mais informações, acesse [Visão geral Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
