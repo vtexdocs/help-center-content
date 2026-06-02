@@ -27250,37 +27250,6 @@
             },
             {
               "name": {
-                "en": "Configuración de Pagos",
-                "es": "Configuración de Pagos",
-                "pt": "Configurações de Pagamentos"
-              },
-              "slug": {
-                "en": "configuracion-de-pagos",
-                "es": "configuracion-de-pagos-subcategoria",
-                "pt": "configurações-de-pagamentos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Contigency Mode",
-                    "pt": "Contigency Mode",
-                    "en": "Contigency Mode"
-                  },
-                  "slug": {
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Payment Settings",
                 "es": "Configuración de Pagos",
                 "pt": "Configurações de Pagamentos"
@@ -27618,6 +27587,21 @@
                     "en": "configuring-tuna-gateway-affiliation",
                     "es": "configurar-la-afiliacion-a-la-tuna",
                     "pt": "configurar-a-afiliacao-de-gateway-tuna"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode",
+                    "es": "Contigency Mode",
+                    "pt": "Contigency Mode"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -60045,6 +60029,21 @@
             },
             {
               "name": {
+                "en": "Giftcard Hub timeout returned as 401 Unauthorized",
+                "es": "El tiempo de espera de Giftcard Hub ha devuelto el código de error 401 (No autorizado)",
+                "pt": "O tempo limite do Giftcard Hub resultou no código de erro 401 Não autorizado"
+              },
+              "slug": {
+                "en": "giftcard-hub-timeout-returned-as-401-unauthorized",
+                "es": "el-tiempo-de-espera-de-giftcard-hub-ha-devuelto-el-codigo-de-error-401-no-autorizado",
+                "pt": "o-tempo-limite-do-giftcard-hub-resultou-no-codigo-de-erro-401-nao-autorizado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Giftcard not getting refund after transaction cancellation",
                 "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
                 "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
@@ -61935,21 +61934,6 @@
             },
             {
               "name": {
-                "en": "Transaction stuck in \"canceling\" status",
-                "es": "La transacción se ha quedado bloqueada en el estado «en proceso de cancelación»",
-                "pt": "Transação travada no status \"cancelando\""
-              },
-              "slug": {
-                "en": "transaction-stuck-in-canceling-status",
-                "es": "la-transaccion-se-ha-quedado-bloqueada-en-el-estado-en-proceso-de-cancelacion",
-                "pt": "transacao-travada-no-status-cancelando"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
                 "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
                 "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
@@ -62297,12 +62281,12 @@
               "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
                 "es": "Transacciones que quedan bloqueadas en «Autorizadas» o «Pendientes de autorización» tras su aprobación",
-                "pt": "Transações retidas em Autorizado ou Autorização pendente após aprovação"
+                "pt": "Transações que ficam no status “Autorizado” ou “Autorização pendente” após a aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
                 "es": "transacciones-que-quedan-bloqueadas-en-autorizadas-o-pendientes-de-autorizacion-tras-su-aprobacion",
-                "pt": "transacoes-retidas-em-autorizado-ou-autorizacao-pendente-apos-aprovacao"
+                "pt": "transacoes-que-ficam-no-status-autorizado-ou-autorizacao-pendente-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
