@@ -30,11 +30,12 @@ Os cards exibem os seguintes dados para o ciclo atual:
 
 | Card | Informação exibida |
 | --- | --- |
-| **Badge de status** | Status atual de pacing da campanha. Veja a descrição de cada status na seção [Interpretar o status de pacing](#interpretar-o-status-de-pacing). |
 | **Consumo do dia** | Total gasto no dia atual até o momento da consulta. |
 | **Consumo da semana** | Total gasto nos últimos 7 dias. |
 | **Consumo total do ciclo** | Total acumulado no ciclo atual. |
 | **Previsão de fechamento** | Projeção de gasto total ao final do ciclo com base no ritmo atual de consumo. |
+
+O **badge de status de pacing** é exibido dentro do card de consumo e indica o ritmo atual de entrega da campanha. Veja a descrição de cada status na seção [Interpretar o status de pacing](#interpretar-o-status-de-pacing).
 
 ### Gráficos de consumo
 
@@ -87,6 +88,6 @@ Quando o status é **critical underpacing,** o motor já está tentando recupera
 O seletor de ciclo, exibido no cabeçalho do relatório, permite consultar ciclos anteriores:
 
 - **Campanhas com data de término:** o seletor limita-se às datas de duração da campanha.
-- **Campanhas always-on:** o seletor cobre os últimos 31 dias.
+- **Campanhas always-on:** o seletor permite navegar entre os ciclos de 30 dias da campanha, do ciclo atual até ciclos concluídos anteriormente.
 
 > ℹ️ O ciclo exibido no relatório é calculado a partir do início do ciclo definido pelo motor, não pelo mês civil.
