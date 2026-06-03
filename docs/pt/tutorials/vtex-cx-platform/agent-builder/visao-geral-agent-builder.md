@@ -80,7 +80,7 @@ Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX C
 
 > ℹ️ Para ativar qualquer modificação realizada nas informações das abas **Perfil** ou **Motor**, é necessário clicar em `Salvar alterações`.
 
-Em **Versão do manager**, você pode selecionar o manager do seu agente orquestrador. Oferecemos duas opções:
+Se você selecionou o motor nativo da plataforma, poderá escolher, em **Versão do manager**, entre duas opções de agente orquestrador:
 
 - **Manager 2.7** (Recomendado).
 - **Manager 2.6** (Modelo legado).
