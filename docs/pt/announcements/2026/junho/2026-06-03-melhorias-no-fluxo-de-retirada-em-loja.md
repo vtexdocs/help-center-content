@@ -1,14 +1,14 @@
 ---
 title: 'Melhorias no fluxo de retirada em loja'
 createdAt: 2026-05-27T11:30:00.000Z
-updatedAt: 2026-05-27T11:00:00.000Z
+updatedAt: 2026-06-03T11:00:00.000Z
 productTeam: Pick and Pack
 slugEN: 2026-05-27-in-store-pickup-flow-improvements
 locale: pt
 announcementSynopsisPT: 'Melhore a experiência Buy Online Pickup In-Store com confirmação rápida de retirada e faturamento automático no Last Mile.'
 tags:
   - Last Mile
-  - In-store pickup
+  - Retirada em loja
 ---
 
 A VTEX está disponibilizando melhorias no fluxo de retirada em loja no módulo Last Mile. Agora, lojistas podem confirmar retiradas de pedidos de forma mais rápida utilizando um token alfanumérico informado pelo cliente. Após a confirmação, o faturamento do pedido pode ser acionado automaticamente, dependendo da integração configurada. 
