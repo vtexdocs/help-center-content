@@ -71,37 +71,6 @@
             },
             {
               "name": {
-                "en": "Maio",
-                "es": "Maio",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "maio",
-                "es": "maio",
-                "pt": "2026-maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Melhorias de localização no Pick and Pack",
-                    "en": "Melhorias de localização no Pick and Pack",
-                    "es": "Melhorias de localização no Pick and Pack"
-                  },
-                  "slug": {
-                    "pt": "2026-05-26-melhorias-de-localizacao-no-pick-and-pack",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
