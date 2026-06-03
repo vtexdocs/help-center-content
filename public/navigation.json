@@ -282,6 +282,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "june",
+                "es": "junio",
+                "pt": "junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Localization improvements in Pick and Pack",
+                    "es": "Mejoras de localización en Pick and Pack",
+                    "pt": "Melhorias de localização no Pick and Pack"
+                  },
+                  "slug": {
+                    "en": "2026-06-03-localizations-improvements-in-pick-and-pack",
+                    "es": "2026-06-03-mejoras-de-localizacion-en-pick-and-pack",
+                    "pt": "2026-06-03-melhorias-de-localizacao-no-pick-and-pack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
