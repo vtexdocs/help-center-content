@@ -38,7 +38,7 @@ Em **Agent Builder**, as seguintes páginas estão disponíveis:
 
 ### Meus agentes
 
-Nessa página, você pode atribuir e testar agentes para a sua loja, editar o manager e as instruções que ele deve seguir.
+> Nessa página, você pode atribuir e testar agentes para a sua loja, além de editar o manager e as instruções que ele deve seguir.
 
 Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](/pt/docs/tutorials/atribuir-e-testar-agentes).
 
@@ -72,13 +72,13 @@ Leia a seguir a descrição detalhada de cada tom de voz:
 
 ##### Motor
 
-Em **Fonte de motor**, você pode selecionar o modelo de agente nativo da VTEX CX Platform ou um modelo de LLM no qual você possua uma Chave API cadastrada. Caso deseje utilizar o modelo externo, selecione a opção **Chave API própria** e preencha os campos abaixo:
+Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX CX Platform ou um modelo de LLM no qual você possua uma Chave API cadastrada. Caso deseje utilizar o modelo externo, selecione a opção **Chave API própria** e preencha os campos abaixo:
 
 - **Provedor**: empresa proprietária do modelo.
 - **Modelo**: versão disponível do modelo.
 - **API Key**: sua chave de API cadastrada no provedor do modelo.
 
-> ℹ️ Para ativar qualquer modificação realizada nas informações das abas **Perfil** ou **Motor**, é necessário clicar **Salvar alterações**.
+> ℹ️ Para ativar qualquer modificação realizada nas informações das abas **Perfil** ou **Motor**, é necessário clicar em `Salvar alterações`.
 
 Em **Versão do manager**, você pode selecionar o manager do seu agente orquestrador. Oferecemos duas opções:
 
@@ -95,11 +95,11 @@ Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 #### Editar instruções
 
-Ao clicar no botão `Editar instruções`do agente orquestrador,  você acessa a página **Instruções**, onde pode adicionar instruções diretas para determinar como seu agente se comporta. Não há limite para a quantidade de instruções que podem ser criadas.
+Ao clicar no botão `Editar instruções` do agente orquestrador, você acessa a página **Instruções**, onde pode adicionar instruções diretas para determinar como seu agente se comporta. Não há limite para a quantidade de instruções que podem ser criadas.
 
 ##### Validação por IA
 
-Ao criar instruções personalizadas, você pode solicitar a validação da IA. O sistema analisará cada uma delas e indicará possíveis problemas ou pontos de melhoria. Além disso, você também pode solicitar uma sugestão automática, que revisará a instrução e a editará conforme necessário.
+Ao criar instruções personalizadas, você pode solicitar a validação da IA, que analisará cada uma delas e indicará possíveis problemas ou pontos de melhoria. Além disso, você também pode solicitar uma sugestão automática, que revisará a instrução e a editará conforme necessário.
 
 Para utilizar a validação de instrução por IA ao criar uma instrução, siga os passos a seguir:
 
@@ -107,9 +107,9 @@ Para utilizar a validação de instrução por IA ao criar uma instrução, siga
 2. Digite a sua instrução em **Nova instrução personalizada** e clique em `Validar instrução`.
 3. Após a análise da instrução, caso o resultado seja **Nenhum problema encontrado. Pronto para publicar!**, clique em `Publicar`.
 
-> ⚠️ Caso apareça uma mensagem de aviso em **Resultados da validação**, corrija-a a instrução conforme as orientações exibidas, e clique em **Re-validar**.
+> ⚠️ Caso apareça uma mensagem de aviso em **Resultados da validação**, corrija a instrução conforme as orientações exibidas e clique em `Re-validar`.
 
-> ℹ️ É possível criar uma nova instrução personalizada sem a validação da IA. Para realizar esta ação, desative a opção **Validar instrução por IA**, digite a instrução, e clique em **Publicar instrução**.
+> ℹ️ É possível criar uma nova instrução personalizada sem a validação da IA. Para realizar esta ação, desative a opção **Validar instrução por IA**, digite a instrução e clique em `Publicar instrução`.
 
 ##### Lista de instruções
 
@@ -121,7 +121,7 @@ Na **Lista de instruções**, você pode verificar as seguintes informações:
 
 - **Temas de segurança:** assuntos não mencionados pelo agente durante um atendimento. Esses temas não podem ser editados.
 
-Para editar ou remover uma instrução personalizada, siga os passos abaixo:
+Para editar ou remover uma instrução personalizada, siga os passos a seguir:
 
 1. Clique no botão de três pontos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado da instrução desejada.
 2. Para editá-la, clique em `Editar instrução`, faça os ajustes necessários e clique em `Salvar`.
