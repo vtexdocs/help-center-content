@@ -39039,6 +39039,21 @@
             },
             {
               "name": {
+                "en": "B2B Organizations does not limit the number of collections set for an organization, which may lead to the filter not working",
+                "es": "B2B Organizations no limita el número de colecciones que se pueden configurar para una organización, lo que puede hacer que el filtro no funcione",
+                "pt": "O B2B Organizations não limita o número de coleções definidas para uma organização, o que pode fazer com que o filtro não funcione"
+              },
+              "slug": {
+                "en": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-the-filter-not-working",
+                "es": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-hacer-que-el-filtro-no-funcione",
+                "pt": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-o-filtro-nao-funcione"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "B2B Organizations without an address number as a valid address",
                 "es": "Organizaciones B2B sin número de dirección como dirección válida",
                 "pt": "Organizações B2B sem um número de endereço como um endereço válido"
@@ -41838,6 +41853,21 @@
                 "en": "legacy-collections-cms-special-character-validation-diverges-from-new-collections",
                 "es": "la-validacion-de-caracteres-especiales-de-las-colecciones-anteriores-cms-difiere-de-la-de-las-colecciones-nuevas",
                 "pt": "colecoes-legadas-cms-a-validacao-de-carateres-especiais-diverge-das-colecoes-novas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Legacy Stores Redirect to Empty Category when there are Only Similars",
+                "es": "Las tiendas heredadas redirigen a una categoría vacía cuando solo hay productos similares",
+                "pt": "As lojas antigas redirecionam para uma categoria vazia quando há apenas produtos semelhantes"
+              },
+              "slug": {
+                "en": "legacy-stores-redirect-to-empty-category-when-there-are-only-similars",
+                "es": "las-tiendas-heredadas-redirigen-a-una-categoria-vacia-cuando-solo-hay-productos-similares",
+                "pt": "as-lojas-antigas-redirecionam-para-uma-categoria-vazia-quando-ha-apenas-produtos-semelhantes"
               },
               "origin": "",
               "type": "markdown",
@@ -60014,6 +60044,21 @@
             },
             {
               "name": {
+                "en": "Giftcard Hub timeout returned as 401 Unauthorized",
+                "es": "El tiempo de espera de Giftcard Hub ha devuelto el código de error 401 (No autorizado)",
+                "pt": "O tempo limite do Giftcard Hub resultou no código de erro 401 Não autorizado"
+              },
+              "slug": {
+                "en": "giftcard-hub-timeout-returned-as-401-unauthorized",
+                "es": "el-tiempo-de-espera-de-giftcard-hub-ha-devuelto-el-codigo-de-error-401-no-autorizado",
+                "pt": "o-tempo-limite-do-giftcard-hub-resultou-no-codigo-de-erro-401-nao-autorizado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Giftcard not getting refund after transaction cancellation",
                 "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
                 "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
@@ -65232,6 +65277,21 @@
                 "en": "some-payment-methods-are-not-displayed-at-buy-together-promotions-on-the-new-ui",
                 "es": "algunos-metodos-de-pago-no-se-muestran-en-las-promociones-comprar-juntos-de-la-nueva-interfaz-de-usuario",
                 "pt": "alguns-metodos-de-pagamento-nao-sao-exibidos-nas-promocoes-buy-together-na-nova-interface-do-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Subscription promotions with defined periodicity may not apply to recurring orders",
+                "es": "Es posible que las promociones de suscripción con una periodicidad definida no se apliquen a los pedidos recurrentes",
+                "pt": "As promoções de assinatura com periodicidade definida podem não se aplicar a pedidos recorrentes"
+              },
+              "slug": {
+                "en": "subscription-promotions-with-defined-periodicity-may-not-apply-to-recurring-orders",
+                "es": "es-posible-que-las-promociones-de-suscripcion-con-una-periodicidad-definida-no-se-apliquen-a-los-pedidos-recurrentes",
+                "pt": "as-promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes"
               },
               "origin": "",
               "type": "markdown",
