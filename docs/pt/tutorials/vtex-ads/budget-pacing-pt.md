@@ -36,7 +36,7 @@ O gasto real de uma campanha com **Budget Pacing** varia ao longo do ciclo. Em a
 - **Nos últimos 30% do ciclo:** o teto diário pode chegar ao dobro da alocação média definida, para recuperar eventual subconsumo.
 - **Em qualquer dia do ciclo:** o teto diário nunca ultrapassa três vezes a alocação média, mesmo em cenários de forte aceleração.
 
-> ⚠️ O gasto total do ciclo tende a se manter dentro da estimativa calculada. A variação ocorre na distribuição dia-a-dia, não no total do ciclo.
+> ⚠️ O gasto total do ciclo tende a se manter dentro da estimativa calculada. A variação ocorre na distribuição dia a dia, não no total do ciclo.
 
 ## Tipos de campanhas e ciclos de orçamento
 

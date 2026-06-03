@@ -27,7 +27,7 @@ As principais mudanças na interface são:
 
 ## Por que fizemos essa mudança?
 
-Antes, campanhas atreladas a Pedidos de Inserção mensais ficavam sujeitas a três limitações:
+Antes, campanhas atreladas a Pedidos de Inserção mensais ficavam sujeitas a duas limitações:
 
 - **Risco de underdelivery:** quando o consumo ficava abaixo do esperado nos primeiros dias do ciclo, a campanha podia não entregar 100% do valor contratado até o fim do período.
 - **Falta de visibilidade:** gerentes de conta não tinham um relatório dedicado para acompanhar o ritmo de consumo e reportar ao cliente de forma proativa.

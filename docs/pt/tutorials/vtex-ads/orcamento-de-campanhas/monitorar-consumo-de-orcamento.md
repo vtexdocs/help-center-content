@@ -16,7 +16,7 @@ Este artigo explica como acessar e interpretar o **relatório de consumo de orç
 
 1. No painel Admin do VTEX Ads, role a página até a listagem de campanhas.
 2. Localize a campanha desejada e clique na linha correspondente.
-3. Na seção **Investimento,** clique em `Ver relatório de consumo`.
+3. Na seção **Investimento**, clique em `Ver relatório de consumo`.
 
 > ℹ️ O link do relatório pode ser compartilhado diretamente com o gerente de conta ou com o cliente.
 
@@ -75,7 +75,7 @@ O badge de status indica o ritmo de consumo da campanha em relação ao esperado
 
 ### Investigar Critical underpacing
 
-Quando o status é **critical underpacing,** o motor já está tentando recuperar o ritmo. Se a campanha continua com consumo muito abaixo do esperado, verifique se há restrições na configuração:
+Quando o status é **critical underpacing**, o motor já está tentando recuperar o ritmo. Se a campanha continua com consumo muito abaixo do esperado, verifique se há restrições na configuração:
 
 - **Segmentação muito restrita:** poucos produtos ou categorias elegíveis para exibição.
 - **CPM abaixo do valor competitivo:** a campanha pode estar perdendo leilões por lance insuficiente.
