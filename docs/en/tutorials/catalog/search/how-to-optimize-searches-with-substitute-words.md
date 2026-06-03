@@ -20,7 +20,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ## How the search engine works 
 VTEX has an intelligent algorithm that, based on the term searched for, identifies the best result for the user, i.e., it always shoes the result that will generate more conversions into sales.
 
-> ℹ️ See more details on [how the search engine works](/en/docs/tutorials/how-does-vtex-search-work) at VTEX.
+> ℹ️ See more details on [how the search engine works](/en/docs/tutorials/how-does-vtex-search-legacy-work) at VTEX.
 
 ## How useful is a substitute word
 If the search engine does not identify the Landing Page, Brand or Department according to the term searched for, it applies a search for a Substitute Word (key work). 
