@@ -12,7 +12,7 @@ announcementSynopsisPT: 'Melhorias de localização no Pick and Pack com suporte
 tags:
   - Pick and Pack
   - Fulfillment
-  - Localization
+  - Localização
 ---
 
 O Pick and Pack agora oferece uma experiência mais consistente para operações omnichannel em regiões bilíngues, com suporte aprimorado a diferentes idiomas na aplicação, no Admin e nas etiquetas impressas.
