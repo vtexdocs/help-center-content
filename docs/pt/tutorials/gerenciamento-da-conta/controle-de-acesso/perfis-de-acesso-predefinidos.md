@@ -22,10 +22,14 @@ Neste documento estão listados os perfis de acesso que estão predefinidos para
 > ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 * [Admin - Start page only](#admin-start-page-only)
+* [Ad Network Advertiser](#ad-network-advertiser)
+* [Billing](#billing)
 * [Checkout Admin](#checkout-admin)
 * [Call center operator](#call-center-operator)
+* [Content Administrator](#content-administrator)
 * [Finance](#finance)
 * [Finance - Full access](#finance-full-access)
+* [inStore Sales Person](#instore-sales-person)
 * [Sales App - Sales Associate](#sales-app-sales-associate)
 * [IntegrationProfile - Fulfillment](#integrationprofile-fulfillment)
 * [IntegrationProfile - Fulfillment Gateway](#integrationprofile-fulfillment-gateway)
@@ -37,10 +41,37 @@ Neste documento estão listados os perfis de acesso que estão predefinidos para
 * [Logistics - Read only](#logistics-read-only)
 * [OMS - Full access](#oms-full-access)
 * [OMS - Read only](#oms-read-only)
+* [Owner (Admin Super)](#owner-admin-super)
 * [Payments Notifier](#payments-notifier)
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
+* [VTEX Payment - Account Holder](#vtex-payment-account-holder) *(descontinuado)*
+* [VTEX Payment - Bookkeeper](#vtex-payment-bookkeeper) *(descontinuado)*
+
+## Ad Network Advertiser
+
+Tabela de recursos:
+
+| Nome do recurso | Produto | Categoria | Descrição |
+|---|---|---|---|
+| Insights Metrics | Insights | Analysis | Permite visualizar de forma irrestrita todas as métricas e dados presentes nos dashboards do Admin VTEX, incluindo as páginas: Performance de Vendas, Home page do Admin, Insights e Audit. |
+| View Advertiser's details | VTEX Ad Network | Advertisers | Visualizar informações do anunciante relativas ao VTEX Ad Network. |
+| View Advertiser's campaigns | VTEX Ad Network | Advertisers | Visualizar informações de campanhas de um anunciante do VTEX Ad Network. |
+| Edit Advertiser's campaigns | VTEX Ad Network | Advertisers | Editar informações de campanhas de um anunciante do VTEX Ad Network. |
+
+## Billing
+
+Tabela de recursos:
+
+| Nome do recurso | Produto | Categoria | Descrição |
+|---|---|---|---|
+| Invoices List | Billing | Invoice | Visualização da listagem de faturas do cliente, bem como o detalhamento da fatura, que inclui informações como GMV e take rate. |
+| Edit Company Information | Billing | Company | Editar as informações de registro de um cliente, são elas: razão social, nome fantasia, branch, sales region, tier, status de cobrança e endereço. |
+| Display Company info | Billing | Company | Visualizar as informações de registro de um cliente, são elas: razão social, nome fantasia, branch, sales region, tier, status de cobrança e endereço. |
+| Contracts List | Billing | Contracts | Visualizar contratos e condições de cobrança cadastrados no módulo Faturas da plataforma VTEX. |
+| Contacts List | Billing | Contacts | Visualizar quais são os contatos que recebem notificação por email quando uma fatura de determinado cliente é gerada. |
+| Edit Contacts | Billing | Contacts | Adicionar ou editar um contato. |
 
 ## Admin - Start page only
 
@@ -50,8 +81,8 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Homepage | Catalog | Admin | Página inicial |
-| Help page | Catalog | Admin | Página de ajuda inicial |
+| Homepage | Catalog | Admin | Página inicial. |
+| Help page | Catalog | Admin | Página de ajuda inicial. |
 | View Product | Catalog API | General | Visualizar detalhes de produtos e SKUs. |
 | Edit Product | Catalog API | General | Editar detalhes de produtos e SKUs. |
 | View Category | Catalog API | General | Visualizar detalhes de categorias. |
@@ -63,15 +94,28 @@ Tabela de recursos:
 | Import Spreadsheet | Catalog API | General | Importar produtos e SKUs por planilha. |
 | Export Spreadsheet | Catalog API | General | Exportar planilha de informações do catálogo. |
 
+## Content Administrator
+
+Tabela de recursos:
+
+| Nome do recurso | Produto | Categoria | Descrição |
+|---|---|---|---|
+| Save to main branch | Commerce Content | Branch | Adiciona alterações diretamente na branch main. |
+| Remove from main branch | Commerce Content | Branch | Remover alterações da branch main. |
+| Merge branch | Commerce Content | Branch | Mescla alterações de uma branch para a main. |
+| Delete entry | Commerce Content | Entry | Exclui permanentemente uma entrada de todo o histórico e branches. |
+| Create Store | Commerce Content | Stores | Cria nova loja Commerce Content na conta. |
+| Upload Image | Commerce Content | Media Gallery | Permite que usuários adicionem imagens ao Media Gallery, criando entradas de mídia reutilizáveis para uso em Content Types e componentes no Admin. |
+
 ## Checkout Admin
 
 Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Shopping Cart Full Access | Checkout | CheckoutResources |
-| Orders Full Access | Checkout | CheckoutResources | Access all orders |
-| Order Cancelation | Checkout | CheckoutResources |
+| Shopping Cart Full Access | Checkout | CheckoutResources | Leitura e escrita para todos os carrinhos de compras. Permite que os dados do carrinho venham abertos (não mascarados). Permite também requisição privada de simulação de carrinho. |
+| Orders Full Access | Checkout | CheckoutResources | Leitura e escrita para todos os pedidos via API do Checkout. Não permite acesso a pedidos pelo fluxo do módulo de gerenciamento de pedidos. |
+| Order Cancellation | Checkout | CheckoutResources | Cancelar pedidos via API do Checkout. Não permite cancelar pedidos pelo fluxo de cancelamento do módulo de gerenciamento de pedidos. |
 
 ## Call center operator
 
@@ -96,7 +140,7 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| UI - Account list | License Manager | Controle de Acesso Web |
+| UI - Account list | License Manager | Controle de Acesso Web | Uso interno da VTEX. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
 | Invoices List | Billing | Invoice | Clientes, responsáveis de billing e financeiro tem acesso. Permite a visualização das notas fiscais. |
@@ -114,11 +158,11 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Save account | License Manager | Controle de Acesso Serviços | Salva uma conta |
-| Get account by identifier | License Manager | Controle de Acesso Serviços | Consulta que retorna conta pelo identificador, que pode ser o id da conta ou a host da aplicação da conta |
-| UI - Account list | License Manager | Controle de Acesso Web |
-| UI - Edit account | License Manager | Controle de Acesso Web |
-| UI - Edit role | License Manager | Controle de Acesso Web |
+| Save account | License Manager | Controle de Acesso Serviços | Salva uma conta. |
+| Get account by identifier | License Manager | Controle de Acesso Serviços | Consulta que retorna conta pelo identificador, que pode ser o id da conta ou a host da aplicação da conta. |
+| UI - Account list | License Manager | Controle de Acesso Web | Uso interno da VTEX. |
+| UI - Edit account | License Manager | Controle de Acesso Web | Uso interno da VTEX. |
+| UI - Edit role | License Manager | Controle de Acesso Web | Uso interno da VTEX. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
 | Invoices List | Billing | Invoice | Clientes, responsáveis de billing e financeiro tem acesso. Permite a visualização das notas fiscais. |
@@ -146,6 +190,16 @@ Tabela de recursos:
 | Get App | Log | Log Admin | Uso interno da VTEX. |
 | Create Table | Log | Log Admin | Uso interno da VTEX. |
 
+## inStore Sales Person
+
+Tabela de recursos:
+
+| Nome do recurso | Produto | Categoria | Descrição |
+|---|---|---|---|
+| Assisted Sales | Catalog | Telesales | Funcionalidades de televendas. Após o login, o usuário é redirecionado para o site de televendas www.{nomedaloja}.com.br/a/televendas. Dessa forma, o operador pode utilizar as funcionalidades de televendas, como navegar na loja em nome do cliente. Como este recurso causa o redirecionamento automático para a loja, o usuário que fizer login em uma conta com esse perfil não terá acesso a recursos importantes do Admin. |
+| View order | OMS | OMS access | Visualizar todos os pedidos da conta. |
+| CMS GraphQL API | CMS | GraphQL | Usar a API CMS GraphQL da VTEX IO. |
+
 ## Sales App - Sales Associate
 
 > ⚠️ Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.
@@ -154,7 +208,7 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Assisted Sales | Catalog | Televendas | Após o login o usuário é redirecionado para a loja (accountname.myvtex.com) |
+| Assisted Sales | Catalog | Televendas | Após o login o usuário é redirecionado para a loja (accountname.myvtex.com). |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 
 ## IntegrationProfile - Fulfillment
@@ -163,8 +217,8 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Place Orders | VTEX Fulfilment | Fulfilment Resources | |
-| Order Details | VTEX Fulfilment | Fulfilment Resources | |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
 
 ## IntegrationProfile - Fulfillment Gateway
 
@@ -172,12 +226,12 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Make Payments | PCI Gateway | Payment-MakePayments | Represents the payment gateway transactional operations. |
+| Make Payments | PCI Gateway | Payment-MakePayments | Representa as operações transacionais do gateway de pagamento. |
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera uma transação. |
 | Notify payment | OMS | AcessoOMS | Acesso ao botão que notifica pagamento ao gateway manualmente na área de pagamento dentro do pedido. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
-| Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Order Details | VTEX Fulfilment | Fulfilment Resources |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 
 ## IntegrationProfile - Fulfillment Gateway GetOrder
@@ -186,11 +240,11 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Make Payments | PCI Gateway | Payment-MakePayments | Represents the payment gateway transactional operations. |
+| Make Payments | PCI Gateway | Payment-MakePayments | Representa as operações transacionais do gateway de pagamento. |
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera uma transação. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
-| Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Order Details | VTEX Fulfilment | Fulfilment Resources |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
 
 ## IntegrationProfile - Fulfillment Gateway Oms
 
@@ -198,18 +252,18 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Make Payments | PCI Gateway | Payment-MakePayments | Represents the payment gateway transactional operations. |
+| Make Payments | PCI Gateway | Payment-MakePayments | Representa as operações transacionais do gateway de pagamento. |
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera uma transação. |
-| Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow |
+| Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow. |
 | Notify payment | OMS | AcessoOMS | Acesso ao botão que notifica pagamento ao gateway manualmente na área de pagamento dentro do pedido. |
 | Notify invoice | OMS | AcessoOMS | Permite informar faturas (NF) e dados para rastreio manualmente no OMS. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
-| Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Order Details | VTEX Fulfilment | Fulfilment Resources |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
 | Notify reemburse | OMS | AcessoOMS | Permite notificar uma nota fiscal de entrada, indicando a entrada novamente de algo que foi reembolsado. Permite o input de uma nota de devolução. |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 | Order feed subscription | OMS | AcessoOMS | Permite que o usuário se inscreva para receber atualizações dos status dos pedidos no Order Feed. |
-| Change order | OMS | AcessoOMS | Permite registrar mudanças no pedido (descontos e/ou trocas) |
+| Change order | OMS | AcessoOMS | Permite registrar mudanças no pedido (descontos e/ou trocas). |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
 
 ## IntegrationProfile - Fulfillment Oms
@@ -218,17 +272,17 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow |
+| Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow. |
 | Notify payment | OMS | AcessoOMS | Acesso ao botão que notifica pagamento ao gateway manualmente na área de pagamento dentro do pedido. |
 | Notify invoice | OMS | AcessoOMS | Permite informar faturas (NF) e dados para rastreio manualmente no OMS. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | List Orders | OMS | AcessoOMS | Permite listar todos os pedidos da conta. |
-| Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Order Details | VTEX Fulfilment | Fulfilment Resources |
+| Place Orders | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
 | Notify reemburse | OMS | AcessoOMS | Permite notificar uma nota fiscal de entrada, indicando a entrada novamente de algo que foi reembolsado. Permite o input de uma nota de devolução. |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 | Order feed subscription | OMS | AcessoOMS | Permite que o usuário se inscreva para receber atualizações dos status dos pedidos no Order Feed. |
-| Change order | OMS | AcessoOMS | Permite registrar mudanças no pedido (descontos e/ou trocas) |
+| Change order | OMS | AcessoOMS | Permite registrar mudanças no pedido (descontos e/ou trocas). |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
 
 ## IntegrationProfile - OrderSimulation
@@ -237,7 +291,7 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Order Details | VTEX Fulfilment | Fulfilment Resources | |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | Descontinuado. |
 
 ## Logistics - Full access
 
@@ -245,14 +299,14 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Homepage | Catalog | Administração | Página inicial |
-| Help page | Catalog | Administração | Página de ajuda inicial |
-| Logistics full access | Logistics | Acesso ao Logistics | Permite acesso pleno a todos os recursos de logística (visualização, criação, edição e cancelamento de configurações) |
+| Homepage | Catalog | Administração | Página inicial. |
+| Help page | Catalog | Administração | Página de ajuda inicial. |
+| Logistics full access | Logistics | Acesso ao Logistics | Permite acesso pleno a todos os recursos de logística (visualização, criação, edição e cancelamento de configurações). |
 | Logistics viewer | Logistics | Acesso ao Logistics | Permissão de visualização da área inicial do módulo de logistica. |
 | Logistics inventory full access | Logistics | Acesso ao Logistics | Permite acesso pleno ao inventário logístico (visualização, criação, edição e cancelamento de configurações). |
 | Logistics inventory read only | Logistics | Acesso ao Logistics | Permite somente a visualização do módulo de inventário. |
 | Logistics shipping full access | Logistics | Acesso ao Logistics | Permite acesso pleno a todas as funções de envio do módulo de logística (criação, edição e cancelamento de configurações). |
-| Logistics shipping read only | Logistics | Acesso ao Logistics |  |
+| Logistics shipping read only | Logistics | Acesso ao Logistics | Visualizar o módulo de logística. |
 
 ## Logistics - Read only
 
@@ -262,7 +316,7 @@ Tabela de recursos:
 |---|---|---|---|
 | Logistics viewer | Logistics | Acesso ao Logistics | Permissão de visualização da área inicial do módulo de logistica. |
 | Logistics inventory read only | Logistics | Acesso ao Logistics | Permite somente a visualização do módulo de inventário. |
-| Logistics shipping read only | Logistics | Acesso ao Logistics | testar |
+| Logistics shipping read only | Logistics | Acesso ao Logistics | Visualizar o módulo de logística. |
 
 ## OMS - Full access
 
@@ -270,17 +324,17 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Homepage | Catalog | Administração | Página inicial |
-| Help page | Catalog | Administração | Página de ajuda inicial |
-| Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow |
+| Homepage | Catalog | Administração | Página inicial. |
+| Help page | Catalog | Administração | Página de ajuda inicial. |
+| Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow. |
 | Notify payment | OMS | AcessoOMS | Acesso ao botão que notifica pagamento ao gateway manualmente na área de pagamento dentro do pedido. |
 | Notify invoice | OMS | AcessoOMS | Permite informar faturas (NF) e dados para rastreio manualmente no OMS. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
-| Logistics full access | Logistics | Acesso ao Logistics | Permite acesso pleno a todos os recursos de logística (visualização, criação, edição e cancelamento de configurações) |
+| Logistics full access | Logistics | Acesso ao Logistics | Permite acesso pleno a todos os recursos de logística (visualização, criação, edição e cancelamento de configurações). |
 | Notify reemburse | OMS | AcessoOMS | Permite notificar uma nota fiscal de entrada, indicando a entrada novamente de algo que foi reembolsado. Permite o input de uma nota de devolução. |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 | Order feed subscription | OMS | AcessoOMS | Permite que o usuário se inscreva para receber atualizações dos status dos pedidos no Order Feed. |
-| Change order | OMS | AcessoOMS | Permite registrar mudanças no pedido (descontos e/ou trocas) |
+| Change order | OMS | AcessoOMS | Permite registrar mudanças no pedido (descontos e/ou trocas). |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
 | Logistics inventory full access | Logistics | Acesso ao Logistics | Permite acesso pleno ao inventário logístico (visualização, criação, edição e cancelamento de configurações). |
 | Logistics shipping full access | Logistics | Acesso ao Logistics | Permite acesso pleno a todas as funções de envio do módulo de logística (criação, edição e cancelamento de configurações). |
@@ -293,6 +347,10 @@ Tabela de recursos:
 |---|---|---|---|
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
+
+## Owner (Admin Super)
+
+Este perfil concede acesso a todos os recursos do License Manager, exceto **Save user**.
 
 ## Payments Notifier
 
@@ -308,8 +366,8 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| View Seller | Seller Register | Seller Administration | Allows view all sellers from account |
-| Save Seller | Seller Register | Seller Administration | Allows to create and edit all sellers from account |
+| View Seller | Seller Register | Seller Administration | Visualizar todos os sellers vinculados à conta do marketplace descritos na página Gerenciamento de Sellers, incluindo recuperar dados de seller, seja da listagem de sellers, ou um seller específico. |
+| Save Seller | Seller Register | Seller Administration | Criar sellers novos e editar dados de todos os sellers vinculados à conta do marketplace, a partir da página Gerenciamento de Sellers. |
 
 ## User Administrator - RESTRICTED
 
@@ -325,19 +383,23 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Get resource by key | License Manager | Controle de Acesso Serviços | Checa permissões de acesso |
+| Get resource by key | License Manager | Controle de Acesso Serviços | Checa permissões de acesso. |
 | Read Workspace Apps | VTEX IO | Infrastructure | Allows reading the apps installed in the workspace and their direct and indirect dependencies. |
 | Link App | VTEX IO | Infrastructure | Allows listing existing links and linking and unlinking apps. |
 | Install App | VTEX IO | Infrastructure | Allows installation and uninstallation of apps. |
 | Vbase Read Only | VTEX IO | Infrastructure | Read-only access to vbase. |
 | Vbase Read Write | VTEX IO | Infrastructure | Read and write access to vbase. |
 | Read Workspace Services | VTEX IO | Infrastructure | Allows reading the infra apps in the workspace. |
-| Install Service | VTEX IO | Infrastructure | Allows installation and uninstallation of apps |
-| Log Access - Read-only | VTEX IO | Infrastructure | Allows reading logs from all applications |
-| Read Published Service | VTEX IO | Infrastructure | Allows reading the services data from the infra registry |
-| Debug App | VTEX IO | Infrastructure | Allows connecting a debugger to a linked app |
-| Workspace CRUD | VTEX IO | Infrastructure | Allows creating, deleting and modifying workspaces |
-| Import Redirects | VTEX IO | Infrastructure | Enable user to manage redirects with VTEX IO's command line interface |
-| Manage A/B Test | VTEX IO | A/B Test | Allow to start, finish or get status of a A/B Test |
-| Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account |
+| Install Service | VTEX IO | Infrastructure | Allows installation and uninstallation of apps. |
+| Log Access - Read-only | VTEX IO | Infrastructure | Allows reading logs from all applications. |
+| Read Published Service | VTEX IO | Infrastructure | Allows reading the services data from the infra registry. |
+| Debug App | VTEX IO | Infrastructure | Allows connecting a debugger to a linked app. |
+| Workspace CRUD | VTEX IO | Infrastructure | Allows creating, deleting and modifying workspaces. |
+| Import Redirects | VTEX IO | Infrastructure | Enable user to manage redirects with VTEX IO's command line interface. |
+| Manage A/B Test | VTEX IO | A/B Test | Allow to start, finish or get status of a A/B Test. |
+| Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account. |
 
+## Perfis descontinuados
+
+* VTEX Payment - Account Holder
+* VTEX Payment - Bookkeeper
