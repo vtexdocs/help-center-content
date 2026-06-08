@@ -59535,12 +59535,12 @@
             {
               "name": {
                 "en": "Early Capture wrongfully competing with Automatic Capture on AuthorizeDotNet",
-                "es": "La función «Early Capture» compite indebidamente con la función «Automatic Capture» en AuthorizeDotNet",
+                "es": "La función «Captura temprana» compite indebidamente con la función «Captura automática» en AuthorizeDotNet",
                 "pt": "A função \"Captura antecipada\" está competindo indevidamente com a função \"Captura automática\" no AuthorizeDotNet"
               },
               "slug": {
                 "en": "early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet",
-                "es": "la-funcion-early-capture-compite-indebidamente-con-la-funcion-automatic-capture-en-authorizedotnet",
+                "es": "la-funcion-captura-temprana-compite-indebidamente-con-la-funcion-captura-automatica-en-authorizedotnet",
                 "pt": "a-funcao-captura-antecipada-esta-competindo-indevidamente-com-a-funcao-captura-automatica-no-authorizedotnet"
               },
               "origin": "",
@@ -60226,12 +60226,12 @@
               "name": {
                 "en": "Inability to make partial cancellation with MercadoPagoV1",
                 "es": "No es posible realizar una cancelación parcial con MercadoPagoV1",
-                "pt": "Incapacidade de fazer cancelamento parcial com MercadoPagoV1"
+                "pt": "Impossibilidade de realizar cancelamento parcial com o MercadoPagoV1"
               },
               "slug": {
                 "en": "inability-to-make-partial-cancellation-with-mercadopagov1",
                 "es": "no-es-posible-realizar-una-cancelacion-parcial-con-mercadopagov1",
-                "pt": "incapacidade-de-fazer-cancelamento-parcial-com-mercadopagov1"
+                "pt": "impossibilidade-de-realizar-cancelamento-parcial-com-o-mercadopagov1"
               },
               "origin": "",
               "type": "markdown",
@@ -60496,12 +60496,12 @@
               "name": {
                 "en": "It is not possible to settle a transaction with the boleto method using BrasPag",
                 "es": "No es posible pagar una transacción mediante el método «boleto» con BrasPag",
-                "pt": "Não é possível liquidar uma transação com o método boleto utilizando a BrasPag"
+                "pt": "Não é possível efetuar o pagamento de uma transação pelo método do boleto utilizando o BrasPag"
               },
               "slug": {
                 "en": "it-is-not-possible-to-settle-a-transaction-with-the-boleto-method-using-braspag",
                 "es": "no-es-posible-pagar-una-transaccion-mediante-el-metodo-boleto-con-braspag",
-                "pt": "nao-e-possivel-liquidar-uma-transacao-com-o-metodo-boleto-utilizando-a-braspag"
+                "pt": "nao-e-possivel-efetuar-o-pagamento-de-uma-transacao-pelo-metodo-do-boleto-utilizando-o-braspag"
               },
               "origin": "",
               "type": "markdown",
@@ -60646,12 +60646,12 @@
               "name": {
                 "en": "MercadoPagoV1 fails to authorize transactions when it comes with phone user data value as 0.",
                 "es": "MercadoPagoV1 no autoriza las transacciones cuando el valor del dato de usuario del teléfono es 0.",
-                "pt": "O MercadoPagoV1 não consegue autorizar transações quando o valor do dado do usuário do telefone é 0."
+                "pt": "O MercadoPagoV1 não consegue autorizar transações quando o valor do dado do número de telefone do usuário é 0."
               },
               "slug": {
                 "en": "mercadopagov1-fails-to-authorize-transactions-when-it-comes-with-phone-user-data-value-as-0",
                 "es": "mercadopagov1-no-autoriza-las-transacciones-cuando-el-valor-del-dato-de-usuario-del-telefono-es-0",
-                "pt": "o-mercadopagov1-nao-consegue-autorizar-transacoes-quando-o-valor-do-dado-do-usuario-do-telefone-e-0"
+                "pt": "o-mercadopagov1-nao-consegue-autorizar-transacoes-quando-o-valor-do-dado-do-numero-de-telefone-do-usuario-e-0"
               },
               "origin": "",
               "type": "markdown",
@@ -60735,12 +60735,12 @@
             {
               "name": {
                 "en": "My Cards is not working for some legacy connectors",
-                "es": "Mis tarjetas no funcionan para algunos conectores heredados",
+                "es": "La función «Mis tarjetas» no funciona con algunos conectores antiguos",
                 "pt": "O recurso \"Meus cartões\" não está funcionando com alguns conectores antigos"
               },
               "slug": {
                 "en": "my-cards-is-not-working-for-some-legacy-connectors",
-                "es": "mis-tarjetas-no-funcionan-para-algunos-conectores-heredados",
+                "es": "la-funcion-mis-tarjetas-no-funciona-con-algunos-conectores-antiguos",
                 "pt": "o-recurso-meus-cartoes-nao-esta-funcionando-com-alguns-conectores-antigos"
               },
               "origin": "",
@@ -60885,13 +60885,13 @@
             {
               "name": {
                 "en": "NPS - we aren't accepting response with more than 65536 characters",
-                "es": "NPS - no aceptamos respuestas con más de 65536 caracteres",
-                "pt": "NPS - não estamos aceitando resposta com mais de 65536 caracteres"
+                "es": "NPS: no aceptamos respuestas con más de 65 536 caracteres",
+                "pt": "NPS - não aceitamos respostas com mais de 65.536 caracteres"
               },
               "slug": {
                 "en": "nps-we-arent-accepting-response-with-more-than-65536-characters",
-                "es": "nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres",
-                "pt": "nps-nao-estamos-aceitando-resposta-com-mais-de-65536-caracteres"
+                "es": "nps-no-aceptamos-respuestas-con-mas-de-65-536-caracteres",
+                "pt": "nps-nao-aceitamos-respostas-com-mais-de-65536-caracteres"
               },
               "origin": "",
               "type": "markdown",
@@ -61801,12 +61801,12 @@
               "name": {
                 "en": "The legacy Adyen connector is unable of asynchronously denying payment capture",
                 "es": "El conector heredado de Adyen no permite rechazar de forma asíncrona el procesamiento de un pago",
-                "pt": "O conector legado da Adyen não consegue recusar de forma assíncrona a captura de pagamentos"
+                "pt": "O conector antigo da Adyen não é capaz de recusar a captura de pagamentos de forma assíncrona"
               },
               "slug": {
                 "en": "the-legacy-adyen-connector-is-unable-of-asynchronously-denying-payment-capture",
                 "es": "el-conector-heredado-de-adyen-no-permite-rechazar-de-forma-asincrona-el-procesamiento-de-un-pago",
-                "pt": "o-conector-legado-da-adyen-nao-consegue-recusar-de-forma-assincrona-a-captura-de-pagamentos"
+                "pt": "o-conector-antigo-da-adyen-nao-e-capaz-de-recusar-a-captura-de-pagamentos-de-forma-assincrona"
               },
               "origin": "",
               "type": "markdown",
@@ -61830,12 +61830,12 @@
             {
               "name": {
                 "en": "The MercadoPagoV1 and V2 Integration does not work with save card functionality",
-                "es": "La integración de MercadoPago V1 y V2 no funciona con la función de guardar tarjetas",
+                "es": "La integración de MercadoPago V1 y V2 no es compatible con la función de guardar tarjetas",
                 "pt": "A integração do MercadoPago V1 e V2 não funciona com a funcionalidade de salvar cartão"
               },
               "slug": {
                 "en": "the-mercadopagov1-and-v2-integration-does-not-work-with-save-card-functionality",
-                "es": "la-integracion-de-mercadopago-v1-y-v2-no-funciona-con-la-funcion-de-guardar-tarjetas",
+                "es": "la-integracion-de-mercadopago-v1-y-v2-no-es-compatible-con-la-funcion-de-guardar-tarjetas",
                 "pt": "a-integracao-do-mercadopago-v1-e-v2-nao-funciona-com-a-funcionalidade-de-salvar-cartao"
               },
               "origin": "",
@@ -61860,12 +61860,12 @@
             {
               "name": {
                 "en": "The PayU connector is unable to process payments when there is shipping data containing more than 40 characters.",
-                "es": "El conector PayU no puede procesar los pagos cuando los datos de envío contienen más de 40 caracteres.",
+                "es": "El conector de PayU no puede procesar los pagos cuando los datos de envío contienen más de 40 caracteres.",
                 "pt": "O conector PayU não consegue processar pagamentos quando os dados de envio contêm mais de 40 caracteres."
               },
               "slug": {
                 "en": "the-payu-connector-is-unable-to-process-payments-when-there-is-shipping-data-containing-more-than-40-characters",
-                "es": "el-conector-payu-no-puede-procesar-los-pagos-cuando-los-datos-de-envio-contienen-mas-de-40-caracteres",
+                "es": "el-conector-de-payu-no-puede-procesar-los-pagos-cuando-los-datos-de-envio-contienen-mas-de-40-caracteres",
                 "pt": "o-conector-payu-nao-consegue-processar-pagamentos-quando-os-dados-de-envio-contem-mais-de-40-caracteres"
               },
               "origin": "",
@@ -61905,13 +61905,13 @@
             {
               "name": {
                 "en": "The system doesn't work with more than one extension payment affiliation for debit online method",
-                "es": "El sistema no funciona con más de una afiliación de pago de extensión para el método de débito en línea",
-                "pt": "O sistema não funciona com mais de uma filiação de pagamento de extensão para débito on-line"
+                "es": "El sistema no admite más de una afiliación de pago aplazado para el método de pago con tarjeta de débito en línea",
+                "pt": "O sistema não aceita mais de uma afiliação de pagamento por extensão para o método de débito online"
               },
               "slug": {
                 "en": "the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for-debit-online-method",
-                "es": "el-sistema-no-funciona-con-mas-de-una-afiliacion-de-pago-de-extension-para-el-metodo-de-debito-en-linea",
-                "pt": "o-sistema-nao-funciona-com-mais-de-uma-filiacao-de-pagamento-de-extensao-para-debito-online"
+                "es": "el-sistema-no-admite-mas-de-una-afiliacion-de-pago-aplazado-para-el-metodo-de-pago-con-tarjeta-de-debito-en-linea",
+                "pt": "o-sistema-nao-aceita-mais-de-uma-afiliacao-de-pagamento-por-extensao-para-o-metodo-de-debito-online"
               },
               "origin": "",
               "type": "markdown",
