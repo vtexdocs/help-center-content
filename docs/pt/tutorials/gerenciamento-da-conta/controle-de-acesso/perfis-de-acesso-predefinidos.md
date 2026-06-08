@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), sendo que cada recurso representa uma permissão na plataforma VTEX.
+[Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager), sendo que cada recurso representa uma permissão na plataforma VTEX.
 
 Neste documento estão listados os perfis de acesso que estão predefinidos para novas lojas VTEX e respectivos recursos. Para acessá-los diretamente, use a lista abaixo.
 
-> ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+> ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Ad Network Advertiser](#ad-network-advertiser)
@@ -125,7 +125,7 @@ O recurso **Assisted Sales** causa o redirecionamento automático do usuário pa
 
 Portanto, recomendamos a utilização de duas contas separadas (com emails distintos) para usuários de televendas: uma conta para o perfil __Call center operator__ (com os recursos *Assisted Sales* e *View order*) e outra conta para realizar operações no Admin, se necessário.
 
-> ⚠️ Ao criar um [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+> ⚠️ Ao criar um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso), evite incluir [recursos](/pt/docs/tutorials/recursos-do-license-manager) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
 
 Tabela de recursos:
 
