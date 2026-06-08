@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
+[Roles](/en/docs/tutorials/roles) group [License Manager resources](/en/docs/tutorials/license-manager-resources), with each resource representing a permission in the VTEX platform.
 
 In this document, are listed the roles that are predefined for new VTEX stores and their respective resources. To access them directly, use the list below.
 
-> ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+> ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](/en/docs/tutorials/license-manager-resources).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Ad Network Advertiser](#ad-network-advertiser)
@@ -125,7 +125,7 @@ The Assisted Sales resource causes the user to be automatically redirected to th
 
 We therefore recommend using two separate accounts (with different emails) for telesales users: one account for the __Call center operator__ role (with the *Assisted Sales* and *View order* resources) and another account for carrying out operations in Admin, if necessary.
 
-> ⚠️ When creating a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
+> ⚠️ When creating a [role](/en/docs/tutorials/roles), avoid including call center [resources](/en/docs/tutorials/license-manager-resources) with other resources. Otherwise, the role might not work as expected.
 
 Resource table:
 
