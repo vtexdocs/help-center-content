@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager), sendo que cada recurso representa uma permissão na plataforma VTEX.
+[Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) agrupam [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager), sendo que cada recurso representa uma permissão na plataforma VTEX.
 
 Neste documento estão listados os perfis de acesso que estão predefinidos para novas lojas VTEX e respectivos recursos. Para acessá-los diretamente, use a lista abaixo.
 
