@@ -38812,6 +38812,21 @@
             },
             {
               "name": {
+                "en": "Infinite login loop when opening private GraphiQL link from terminal",
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
+                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+              },
+              "slug": {
+                "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issue with Node Version Compatibility",
                 "es": "Problema de compatibilidad con la versión de Node",
                 "pt": "Problema com a compatibilidade de versão do Node"
@@ -49994,6 +50009,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre First-load failure in Mercado Libre Promotions Admin (data only loads after navigating away/back)",
                 "es": "Mercado Livre Fallo en la primera carga en la administración de promociones de Mercado Libre (los datos sólo se cargan después de navegar hacia atrás/atrás).",
                 "pt": "Mercado Livre Falha no primeiro carregamento na administração de promoções do Mercado Livre (os dados só são carregados depois de navegar para fora/voltar)"
@@ -50062,21 +50092,6 @@
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
                 "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND.",
-                "es": "Mercado Libre Es necesario crear los siguientes atributos para configurar me2: BRAND.",
-                "pt": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND."
-              },
-              "slug": {
-                "en": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
-                "es": "mercado-libre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-brand",
-                "pt": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand"
               },
               "origin": "",
               "type": "markdown",
