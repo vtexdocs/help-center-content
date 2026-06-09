@@ -62491,12 +62491,12 @@
               "name": {
                 "en": "Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS",
                 "es": "Las transacciones con el conector TNSPay se rechazan por error: la tarjeta no está REGISTRADA en 3DS",
-                "pt": "As transações com o conector TNSPay estão sendo negadas por erro: Card not ENROLLED in 3DS"
+                "pt": "Transações com o conector TNSPay estão sendo recusadas devido a um erro: Cartão não REGISTRADO no 3DS"
               },
               "slug": {
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "las-transacciones-con-el-conector-tnspay-se-rechazan-por-error-la-tarjeta-no-esta-registrada-en-3ds",
-                "pt": "as-transacoes-com-o-conector-tnspay-estao-sendo-negadas-por-erro-card-not-enrolled-in-3ds"
+                "pt": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds"
               },
               "origin": "",
               "type": "markdown",
