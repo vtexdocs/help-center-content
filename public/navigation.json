@@ -11142,9 +11142,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Legacy CMS Portal",
-                    "es": "3. CMS - Portal Legado",
-                    "pt": "3. CMS - Portal Legado"
+                    "en": "3. CMS Portal (Legacy)",
+                    "es": "3. CMS Portal (Legado)",
+                    "pt": "3. CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "legacy-cms-portal",
@@ -36126,7 +36126,7 @@
                 {
                   "name": {
                     "en": "Configuring SEO in your Store Framework store",
-                    "es": "Configurar SEO en la tienda Store Framework",
+                    "es": "Configurar SEO en tu tienda Store Framework",
                     "pt": "Configurando SEO em sua loja Store Framework"
                   },
                   "slug": {
@@ -38798,6 +38798,21 @@
             },
             {
               "name": {
+                "en": "Infinite login loop when opening private GraphiQL link from terminal",
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
+                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+              },
+              "slug": {
+                "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issue with Node Version Compatibility",
                 "es": "Problema de compatibilidad con la versión de Node",
                 "pt": "Problema com a compatibilidade de versão do Node"
@@ -39039,14 +39054,14 @@
             },
             {
               "name": {
-                "en": "B2B Organizations does not limit the number of collections set for an organization, which may lead to the filter not working",
-                "es": "B2B Organizations no limita el número de colecciones que se pueden configurar para una organización, lo que puede hacer que el filtro no funcione",
-                "pt": "O B2B Organizations não limita o número de coleções definidas para uma organização, o que pode fazer com que o filtro não funcione"
+                "en": "B2B Organizations does not limit the number of collections set for an organization, which may lead to segment-based filters not working",
+                "es": "B2B Organizations no limita el número de colecciones que se pueden configurar para una organización, lo que puede provocar que los filtros basados en segmentos no funcionen",
+                "pt": "O B2B Organizations não limita o número de coleções definidas para uma organização, o que pode fazer com que os filtros baseados em segmentos não funcionem"
               },
               "slug": {
-                "en": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-the-filter-not-working",
-                "es": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-hacer-que-el-filtro-no-funcione",
-                "pt": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-o-filtro-nao-funcione"
+                "en": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-segmentbased-filters-not-working",
+                "es": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-provocar-que-los-filtros-basados-en-segmentos-no-funcionen",
+                "pt": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-os-filtros-baseados-em-segmentos-nao-funcionem"
               },
               "origin": "",
               "type": "markdown",
@@ -49980,6 +49995,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre First-load failure in Mercado Libre Promotions Admin (data only loads after navigating away/back)",
                 "es": "Mercado Livre Fallo en la primera carga en la administración de promociones de Mercado Libre (los datos sólo se cargan después de navegar hacia atrás/atrás).",
                 "pt": "Mercado Livre Falha no primeiro carregamento na administração de promoções do Mercado Livre (os dados só são carregados depois de navegar para fora/voltar)"
@@ -50048,21 +50078,6 @@
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
                 "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND.",
-                "es": "Mercado Libre Es necesario crear los siguientes atributos para configurar me2: BRAND.",
-                "pt": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND."
-              },
-              "slug": {
-                "en": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
-                "es": "mercado-libre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-brand",
-                "pt": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand"
               },
               "origin": "",
               "type": "markdown",
@@ -59009,14 +59024,29 @@
             },
             {
               "name": {
+                "en": "Boleto transaction cancelled after retry limit expires over weekend despite still being valid for payment",
+                "es": "La transacción del boleto se ha cancelado tras agotarse el límite de reintentos durante el fin de semana, a pesar de que seguía siendo válida para el pago",
+                "pt": "Transação via boleto cancelada após o limite de tentativas expirar no fim de semana, apesar de ainda estar válida para pagamento"
+              },
+              "slug": {
+                "en": "boleto-transaction-cancelled-after-retry-limit-expires-over-weekend-despite-still-being-valid-for-payment",
+                "es": "la-transaccion-del-boleto-se-ha-cancelado-tras-agotarse-el-limite-de-reintentos-durante-el-fin-de-semana-a-pesar-de-que-seguia-siendo-valida-para-el-pago",
+                "pt": "transacao-via-boleto-cancelada-apos-o-limite-de-tentativas-expirar-no-fim-de-semana-apesar-de-ainda-estar-valida-para-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Braspag error when capturing or canceling due to an error with code BP901",
-                "es": "Error de Braspag al capturar o cancelar debido a un error con el código BP901",
-                "pt": "Erro da Braspag ao capturar ou cancelar devido a um erro com o código BP901"
+                "es": "Error de Braspag al registrar o cancelar debido a un error con el código BP901",
+                "pt": "Erro no Braspag ao registrar ou cancelar devido a um erro com o código BP901"
               },
               "slug": {
                 "en": "braspag-error-when-capturing-or-canceling-due-to-an-error-with-code-bp901",
-                "es": "error-de-braspag-al-capturar-o-cancelar-debido-a-un-error-con-el-codigo-bp901",
-                "pt": "erro-da-braspag-ao-capturar-ou-cancelar-devido-a-um-erro-com-o-codigo-bp901"
+                "es": "error-de-braspag-al-registrar-o-cancelar-debido-a-un-error-con-el-codigo-bp901",
+                "pt": "erro-no-braspag-ao-registrar-ou-cancelar-devido-a-um-erro-com-o-codigo-bp901"
               },
               "origin": "",
               "type": "markdown",
@@ -59167,6 +59197,21 @@
                 "en": "catalog-access-profile-gives-access-to-the-gift-card-module",
                 "es": "el-perfil-de-acceso-al-catalogo-da-acceso-al-modulo-de-la-tarjeta-regalo",
                 "pt": "perfil-de-acesso-ao-catalogo-da-acesso-ao-modulo-gift-card"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Change order to higher value not captured automatically in BrasPag, leaving order stuck",
+                "es": "El cambio de un pedido a un importe superior no se registra automáticamente en BrasPag, lo que provoca que el pedido quede bloqueado",
+                "pt": "A alteração do valor do pedido para um valor mais alto não é registrada automaticamente no BrasPag, deixando o pedido em espera"
+              },
+              "slug": {
+                "en": "change-order-to-higher-value-not-captured-automatically-in-braspag-leaving-order-stuck",
+                "es": "el-cambio-de-un-pedido-a-un-importe-superior-no-se-registra-automaticamente-en-braspag-lo-que-provoca-que-el-pedido-quede-bloqueado",
+                "pt": "a-alteracao-do-valor-do-pedido-para-um-valor-mais-alto-nao-e-registrada-automaticamente-no-braspag-deixando-o-pedido-em-espera"
               },
               "origin": "",
               "type": "markdown",
@@ -59414,13 +59459,13 @@
             },
             {
               "name": {
-                "en": "DecidirV1 transaction got 'reprocessed' after some retries to authorization",
-                "es": "La transacción DecidirV1 fue 'reprocesada' después de algunos reintentos de autorización",
-                "pt": "A transação DecidirV1 foi 'reprocessada' após algumas tentativas de autorização"
+                "en": "DecidirV1 transaction got \"reprocessed\" after some retries to authorization",
+                "es": "La transacción DecidirV1 se «volvió a procesar» tras varios intentos de autorización",
+                "pt": "A transação DecidirV1 foi \"reprocessada\" após algumas tentativas de autorização"
               },
               "slug": {
                 "en": "decidirv1-transaction-got-reprocessed-after-some-retries-to-authorization",
-                "es": "la-transaccion-decidirv1-fue-reprocesada-despues-de-algunos-reintentos-de-autorizacion",
+                "es": "la-transaccion-decidirv1-se-volvio-a-procesar-tras-varios-intentos-de-autorizacion",
                 "pt": "a-transacao-decidirv1-foi-reprocessada-apos-algumas-tentativas-de-autorizacao"
               },
               "origin": "",
@@ -59505,12 +59550,12 @@
             {
               "name": {
                 "en": "Early Capture wrongfully competing with Automatic Capture on AuthorizeDotNet",
-                "es": "La función «Early Capture» compite indebidamente con la función «Automatic Capture» en AuthorizeDotNet",
+                "es": "La función «Captura temprana» compite indebidamente con la función «Captura automática» en AuthorizeDotNet",
                 "pt": "A função \"Captura antecipada\" está competindo indevidamente com a função \"Captura automática\" no AuthorizeDotNet"
               },
               "slug": {
                 "en": "early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet",
-                "es": "la-funcion-early-capture-compite-indebidamente-con-la-funcion-automatic-capture-en-authorizedotnet",
+                "es": "la-funcion-captura-temprana-compite-indebidamente-con-la-funcion-captura-automatica-en-authorizedotnet",
                 "pt": "a-funcao-captura-antecipada-esta-competindo-indevidamente-com-a-funcao-captura-automatica-no-authorizedotnet"
               },
               "origin": "",
@@ -59521,12 +59566,27 @@
               "name": {
                 "en": "Elo's card brand transactions with ERedeRest are not respecting early capture",
                 "es": "Las transacciones de la marca de tarjetas de Elo con ERedeRest no respetan la captura anticipada",
-                "pt": "As transações da marca de cartão Elo com a ERedeRest não estão respeitando a captura antecipada"
+                "pt": "As transações da marca de cartões Elo com a ERedeRest não estão respeitando a captura antecipada"
               },
               "slug": {
                 "en": "elos-card-brand-transactions-with-erederest-are-not-respecting-early-capture",
                 "es": "las-transacciones-de-la-marca-de-tarjetas-de-elo-con-erederest-no-respetan-la-captura-anticipada",
-                "pt": "as-transacoes-da-marca-de-cartao-elo-com-a-erederest-nao-estao-respeitando-a-captura-antecipada"
+                "pt": "as-transacoes-da-marca-de-cartoes-elo-com-a-erederest-nao-estao-respeitando-a-captura-antecipada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ERedeRest connector doesn't capture payment from GET request when its amount is lower than the total value of the Payment",
+                "es": "El conector ERedRest no registra el pago de una solicitud GET cuando su importe es inferior al valor total del pago",
+                "pt": "O conector ERedeRest não captura o pagamento de uma solicitação GET quando o valor é inferior ao valor total do pagamento"
+              },
+              "slug": {
+                "en": "erederest-connector-doesnt-capture-payment-from-get-request-when-its-amount-is-lower-than-the-total-value-of-the-payment",
+                "es": "el-conector-eredrest-no-registra-el-pago-de-una-solicitud-get-cuando-su-importe-es-inferior-al-valor-total-del-pago",
+                "pt": "o-conector-erederest-nao-captura-o-pagamento-de-uma-solicitacao-get-quando-o-valor-e-inferior-ao-valor-total-do-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -59654,6 +59714,21 @@
             },
             {
               "name": {
+                "en": "Error to cancel private label transactions with Sitef",
+                "es": "Error al cancelar transacciones de marca blanca con Sitef",
+                "pt": "Erro ao cancelar transações de marca própria com o Sitef"
+              },
+              "slug": {
+                "en": "error-to-cancel-private-label-transactions-with-sitef",
+                "es": "error-al-cancelar-transacciones-de-marca-blanca-con-sitef",
+                "pt": "erro-ao-cancelar-transacoes-de-marca-propria-com-o-sitef"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Error triggered by overridden TOKEN in legacy PayPal connector for pending payment status",
                 "es": "Error provocado por un TOKEN sobrescrito en el conector heredado de PayPal para el estado de pago pendiente",
                 "pt": "Erro causado pela substituição do TOKEN no conector PayPal antigo para o status de pagamento pendente"
@@ -59715,12 +59790,12 @@
             {
               "name": {
                 "en": "Error when settling transaction with 2 cards - MercadoPagoV1",
-                "es": "Error al liquidar la transacción con 2 tarjetas - MercadoPagoV1",
+                "es": "Error al liquidar una transacción con dos tarjetas - MercadoPagoV1",
                 "pt": "Erro ao liquidar transação com 2 cartões - MercadoPagoV1"
               },
               "slug": {
                 "en": "error-when-settling-transaction-with-2-cards-mercadopagov1",
-                "es": "error-al-liquidar-la-transaccion-con-2-tarjetas-mercadopagov1",
+                "es": "error-al-liquidar-una-transaccion-con-dos-tarjetas-mercadopagov1",
                 "pt": "erro-ao-liquidar-transacao-com-2-cartoes-mercadopagov1"
               },
               "origin": "",
@@ -60165,13 +60240,13 @@
             {
               "name": {
                 "en": "Inability to make partial cancellation with MercadoPagoV1",
-                "es": "Imposibilidad de realizar una cancelación parcial con MercadoPagoV1",
-                "pt": "Incapacidade de fazer cancelamento parcial com MercadoPagoV1"
+                "es": "No es posible realizar una cancelación parcial con MercadoPagoV1",
+                "pt": "Impossibilidade de realizar cancelamento parcial com o MercadoPagoV1"
               },
               "slug": {
                 "en": "inability-to-make-partial-cancellation-with-mercadopagov1",
-                "es": "imposibilidad-de-realizar-una-cancelacion-parcial-con-mercadopagov1",
-                "pt": "incapacidade-de-fazer-cancelamento-parcial-com-mercadopagov1"
+                "es": "no-es-posible-realizar-una-cancelacion-parcial-con-mercadopagov1",
+                "pt": "impossibilidade-de-realizar-cancelamento-parcial-com-o-mercadopagov1"
               },
               "origin": "",
               "type": "markdown",
@@ -60435,13 +60510,13 @@
             {
               "name": {
                 "en": "It is not possible to settle a transaction with the boleto method using BrasPag",
-                "es": "No es posible liquidar una transacción con el método del boleto utilizando BrasPag",
-                "pt": "Não é possível liquidar uma transação com o método boleto utilizando a BrasPag"
+                "es": "No es posible pagar una transacción mediante el método «boleto» con BrasPag",
+                "pt": "Não é possível efetuar o pagamento de uma transação pelo método do boleto utilizando o BrasPag"
               },
               "slug": {
                 "en": "it-is-not-possible-to-settle-a-transaction-with-the-boleto-method-using-braspag",
-                "es": "no-es-posible-liquidar-una-transaccion-con-el-metodo-del-boleto-utilizando-braspag",
-                "pt": "nao-e-possivel-liquidar-uma-transacao-com-o-metodo-boleto-utilizando-a-braspag"
+                "es": "no-es-posible-pagar-una-transaccion-mediante-el-metodo-boleto-con-braspag",
+                "pt": "nao-e-possivel-efetuar-o-pagamento-de-uma-transacao-pelo-metodo-do-boleto-utilizando-o-braspag"
               },
               "origin": "",
               "type": "markdown",
@@ -60586,12 +60661,12 @@
               "name": {
                 "en": "MercadoPagoV1 fails to authorize transactions when it comes with phone user data value as 0.",
                 "es": "MercadoPagoV1 no autoriza las transacciones cuando el valor del dato de usuario del teléfono es 0.",
-                "pt": "O MercadoPagoV1 não consegue autorizar transações quando o valor do dado do usuário do telefone é 0."
+                "pt": "O MercadoPagoV1 não consegue autorizar transações quando o valor do dado do número de telefone do usuário é 0."
               },
               "slug": {
                 "en": "mercadopagov1-fails-to-authorize-transactions-when-it-comes-with-phone-user-data-value-as-0",
                 "es": "mercadopagov1-no-autoriza-las-transacciones-cuando-el-valor-del-dato-de-usuario-del-telefono-es-0",
-                "pt": "o-mercadopagov1-nao-consegue-autorizar-transacoes-quando-o-valor-do-dado-do-usuario-do-telefone-e-0"
+                "pt": "o-mercadopagov1-nao-consegue-autorizar-transacoes-quando-o-valor-do-dado-do-numero-de-telefone-do-usuario-e-0"
               },
               "origin": "",
               "type": "markdown",
@@ -60675,13 +60750,13 @@
             {
               "name": {
                 "en": "My Cards is not working for some legacy connectors",
-                "es": "Mis tarjetas no funcionan para algunos conectores heredados",
-                "pt": "Meus Cartões não estão funcionando para alguns conectores legados"
+                "es": "La función «Mis tarjetas» no funciona con algunos conectores antiguos",
+                "pt": "O recurso \"Meus cartões\" não está funcionando com alguns conectores antigos"
               },
               "slug": {
                 "en": "my-cards-is-not-working-for-some-legacy-connectors",
-                "es": "mis-tarjetas-no-funcionan-para-algunos-conectores-heredados",
-                "pt": "meus-cartoes-nao-estao-funcionando-para-alguns-conectores-legados"
+                "es": "la-funcion-mis-tarjetas-no-funciona-con-algunos-conectores-antiguos",
+                "pt": "o-recurso-meus-cartoes-nao-esta-funcionando-com-alguns-conectores-antigos"
               },
               "origin": "",
               "type": "markdown",
@@ -60825,13 +60900,13 @@
             {
               "name": {
                 "en": "NPS - we aren't accepting response with more than 65536 characters",
-                "es": "NPS - no aceptamos respuestas con más de 65536 caracteres",
-                "pt": "NPS - não estamos aceitando resposta com mais de 65536 caracteres"
+                "es": "NPS: no aceptamos respuestas con más de 65 536 caracteres",
+                "pt": "NPS - não aceitamos respostas com mais de 65.536 caracteres"
               },
               "slug": {
                 "en": "nps-we-arent-accepting-response-with-more-than-65536-characters",
-                "es": "nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres",
-                "pt": "nps-nao-estamos-aceitando-resposta-com-mais-de-65536-caracteres"
+                "es": "nps-no-aceptamos-respuestas-con-mas-de-65-536-caracteres",
+                "pt": "nps-nao-aceitamos-respostas-com-mais-de-65536-caracteres"
               },
               "origin": "",
               "type": "markdown",
@@ -61199,6 +61274,21 @@
             },
             {
               "name": {
+                "en": "Paypal Plus - Transações não são canceladas com sucesso",
+                "es": "PayPal Plus: las transacciones no se cancelan correctamente",
+                "pt": "Paypal Plus - Transações não são canceladas com sucesso"
+              },
+              "slug": {
+                "en": "paypal-plus-transacoes-nao-sao-canceladas-com-sucesso",
+                "es": "paypal-plus-las-transacciones-no-se-cancelan-correctamente",
+                "pt": "paypal-plus-transacoes-nao-sao-canceladas-com-sucesso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "PayPalPlus does not respect the minimum installment amount",
                 "es": "PayPalPlus no respeta el importe mínimo de la cuota",
                 "pt": "O PayPalPlus não respeita o valor mínimo da parcela"
@@ -61297,6 +61387,21 @@
                 "en": "problem-while-validating-value-field-when-buying-with-two-cards",
                 "es": "problema-al-validar-el-campo-de-valor-al-comprar-con-dos-tarjetas",
                 "pt": "problema-ao-validar-o-campo-de-valor-ao-comprar-com-dois-cartoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Problems to cancel a transactions with Sitef connector",
+                "es": "Problemas al cancelar una transacción con el conector Sitef",
+                "pt": "Problemas ao cancelar transações com o conector Sitef"
+              },
+              "slug": {
+                "en": "problems-to-cancel-a-transactions-with-sitef-connector",
+                "es": "problemas-al-cancelar-una-transaccion-con-el-conector-sitef",
+                "pt": "problemas-ao-cancelar-transacoes-com-o-conector-sitef"
               },
               "origin": "",
               "type": "markdown",
@@ -61417,6 +61522,21 @@
                 "en": "risk-analysis-canceled-earlier-than-expected-due-to-fixed-retry-limit",
                 "es": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
                 "pt": "analise-de-risco-cancelada-antes-do-esperado-devido-ao-limite-fixo-de-tentativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Save card doesn't work for PayU due to the amount of validation",
+                "es": "La tarjeta «Save» no funciona con PayU debido al importe de la validación",
+                "pt": "O cartão \"Salvar\" não funciona com o PayU devido ao valor da transação"
+              },
+              "slug": {
+                "en": "save-card-doesnt-work-for-payu-due-to-the-amount-of-validation",
+                "es": "la-tarjeta-save-no-funciona-con-payu-debido-al-importe-de-la-validacion",
+                "pt": "o-cartao-salvar-nao-funciona-com-o-payu-devido-ao-valor-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -61649,6 +61769,21 @@
             },
             {
               "name": {
+                "en": "The functionality of Save Card in My Account do not work for PayUGlobal",
+                "es": "La función «Guardar tarjeta» de «Mi cuenta» no funciona con PayUGlobal",
+                "pt": "A funcionalidade “Salvar cartão” em “Minha conta” não funciona para o PayUGlobal"
+              },
+              "slug": {
+                "en": "the-functionality-of-save-card-in-my-account-do-not-work-for-payuglobal",
+                "es": "la-funcion-guardar-tarjeta-de-mi-cuenta-no-funciona-con-payuglobal",
+                "pt": "a-funcionalidade-salvar-cartao-em-minha-conta-nao-funciona-para-o-payuglobal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "The installments request at the gateway to a merchant other than the marketplace is always done with salesChannel = 1",
                 "es": "La solicitud de cuotas en la pasarela a un comerciante distinto del mercado se realiza siempre con salesChannel = 1",
                 "pt": "A solicitação de parcelas na porta de entrada de um comerciante que não o mercado é sempre feita com canal de vendas = 1"
@@ -61680,13 +61815,13 @@
             {
               "name": {
                 "en": "The legacy Adyen connector is unable of asynchronously denying payment capture",
-                "es": "El conector Adyen heredado es incapaz de denegar de forma asíncrona la captura de pagos",
-                "pt": "O conector legado da Adyen não consegue recusar de forma assíncrona a captura de pagamentos"
+                "es": "El conector heredado de Adyen no permite rechazar de forma asíncrona el procesamiento de un pago",
+                "pt": "O conector antigo da Adyen não é capaz de recusar a captura de pagamentos de forma assíncrona"
               },
               "slug": {
                 "en": "the-legacy-adyen-connector-is-unable-of-asynchronously-denying-payment-capture",
-                "es": "el-conector-adyen-heredado-es-incapaz-de-denegar-de-forma-asincrona-la-captura-de-pagos",
-                "pt": "o-conector-legado-da-adyen-nao-consegue-recusar-de-forma-assincrona-a-captura-de-pagamentos"
+                "es": "el-conector-heredado-de-adyen-no-permite-rechazar-de-forma-asincrona-el-procesamiento-de-un-pago",
+                "pt": "o-conector-antigo-da-adyen-nao-e-capaz-de-recusar-a-captura-de-pagamentos-de-forma-assincrona"
               },
               "origin": "",
               "type": "markdown",
@@ -61710,12 +61845,12 @@
             {
               "name": {
                 "en": "The MercadoPagoV1 and V2 Integration does not work with save card functionality",
-                "es": "La integración de MercadoPago V1 y V2 no funciona con la función de guardar tarjetas",
+                "es": "La integración de MercadoPago V1 y V2 no es compatible con la función de guardar tarjetas",
                 "pt": "A integração do MercadoPago V1 e V2 não funciona com a funcionalidade de salvar cartão"
               },
               "slug": {
                 "en": "the-mercadopagov1-and-v2-integration-does-not-work-with-save-card-functionality",
-                "es": "la-integracion-de-mercadopago-v1-y-v2-no-funciona-con-la-funcion-de-guardar-tarjetas",
+                "es": "la-integracion-de-mercadopago-v1-y-v2-no-es-compatible-con-la-funcion-de-guardar-tarjetas",
                 "pt": "a-integracao-do-mercadopago-v1-e-v2-nao-funciona-com-a-funcionalidade-de-salvar-cartao"
               },
               "origin": "",
@@ -61740,12 +61875,12 @@
             {
               "name": {
                 "en": "The PayU connector is unable to process payments when there is shipping data containing more than 40 characters.",
-                "es": "El conector PayU no puede procesar los pagos cuando los datos de envío contienen más de 40 caracteres.",
+                "es": "El conector de PayU no puede procesar los pagos cuando los datos de envío contienen más de 40 caracteres.",
                 "pt": "O conector PayU não consegue processar pagamentos quando os dados de envio contêm mais de 40 caracteres."
               },
               "slug": {
                 "en": "the-payu-connector-is-unable-to-process-payments-when-there-is-shipping-data-containing-more-than-40-characters",
-                "es": "el-conector-payu-no-puede-procesar-los-pagos-cuando-los-datos-de-envio-contienen-mas-de-40-caracteres",
+                "es": "el-conector-de-payu-no-puede-procesar-los-pagos-cuando-los-datos-de-envio-contienen-mas-de-40-caracteres",
                 "pt": "o-conector-payu-nao-consegue-processar-pagamentos-quando-os-dados-de-envio-contem-mais-de-40-caracteres"
               },
               "origin": "",
@@ -61785,13 +61920,13 @@
             {
               "name": {
                 "en": "The system doesn't work with more than one extension payment affiliation for debit online method",
-                "es": "El sistema no funciona con más de una afiliación de pago de extensión para el método de débito en línea",
-                "pt": "O sistema não funciona com mais de uma filiação de pagamento de extensão para débito on-line"
+                "es": "El sistema no admite más de una afiliación de pago aplazado para el método de pago con tarjeta de débito en línea",
+                "pt": "O sistema não aceita mais de uma afiliação de pagamento por extensão para o método de débito online"
               },
               "slug": {
                 "en": "the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for-debit-online-method",
-                "es": "el-sistema-no-funciona-con-mas-de-una-afiliacion-de-pago-de-extension-para-el-metodo-de-debito-en-linea",
-                "pt": "o-sistema-nao-funciona-com-mais-de-uma-filiacao-de-pagamento-de-extensao-para-debito-online"
+                "es": "el-sistema-no-admite-mas-de-una-afiliacion-de-pago-aplazado-para-el-metodo-de-pago-con-tarjeta-de-debito-en-linea",
+                "pt": "o-sistema-nao-aceita-mais-de-uma-afiliacao-de-pagamento-por-extensao-para-o-metodo-de-debito-online"
               },
               "origin": "",
               "type": "markdown",
@@ -61912,6 +62047,21 @@
                 "en": "transaction-not-loading-blank-screen",
                 "es": "transaccion-no-cargada-pantalla-en-blanco",
                 "pt": "a-transacao-nao-esta-sendo-carregada-tela-em-branco"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction proceeds through authorization and settlement despite being cancelled",
+                "es": "La transacción se procesa mediante autorización y liquidación a pesar de haber sido cancelada",
+                "pt": "A transação segue adiante com a autorização e a liquidação, apesar de ter sido cancelada"
+              },
+              "slug": {
+                "en": "transaction-proceeds-through-authorization-and-settlement-despite-being-cancelled",
+                "es": "la-transaccion-se-procesa-mediante-autorizacion-y-liquidacion-a-pesar-de-haber-sido-cancelada",
+                "pt": "a-transacao-segue-adiante-com-a-autorizacao-e-a-liquidacao-apesar-de-ter-sido-cancelada"
               },
               "origin": "",
               "type": "markdown",
@@ -62084,6 +62234,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck on capturing, value sent to connector (Yamí) different from order value",
+                "es": "La transacción se ha quedado bloqueada en la fase de captura; el valor enviado al conector (Yamí) difiere del valor del pedido",
+                "pt": "A transação está travada na fase de captura; o valor enviado ao conector (Yamí) difere do valor do pedido"
+              },
+              "slug": {
+                "en": "transaction-stuck-on-capturing-value-sent-to-connector-yami-different-from-order-value",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-la-fase-de-captura-el-valor-enviado-al-conector-yami-difiere-del-valor-del-pedido",
+                "pt": "a-transacao-esta-travada-na-fase-de-captura-o-valor-enviado-ao-conector-yami-difere-do-valor-do-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction with antifraud doesn't update to \"settling\" when \"riskApproved\" log is missing",
                 "es": "Transacción con antifraude no se actualiza a \"liquidando\" cuando falta el registro \"riskApproved",
                 "pt": "A transação com antifraude não é atualizada para \"liquidação\" quando o registro \"riskApproved\" está ausente"
@@ -62145,13 +62310,13 @@
             {
               "name": {
                 "en": "Transactions made with PayU do not change from cancelling status",
-                "es": "Las transacciones realizadas con PayU no cambian de estado de cancelación",
-                "pt": "As transações feitas com PayU não mudam do status de cancelamento"
+                "es": "Las transacciones realizadas con PayU no pasan del estado de cancelación",
+                "pt": "As transações realizadas com o PayU não mudam de status após o cancelamento"
               },
               "slug": {
                 "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
-                "es": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
-                "pt": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento"
+                "es": "las-transacciones-realizadas-con-payu-no-pasan-del-estado-de-cancelacion",
+                "pt": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento"
               },
               "origin": "",
               "type": "markdown",
