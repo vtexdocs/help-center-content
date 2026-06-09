@@ -54,7 +54,7 @@ Después de realizar la configuración en el ambiente VTEX, también debes confi
 8. Haga clic en __Añadir eventos__.
 9. Haga clic en __Añadir punto de conexión__.
 
-> ℹ️ Si deseas realizar transacciones con tarjeta de crédito en Stripe, debes abrir un ticket en Stripe de la siguiente manera: - Solicitar la liberación de la función "raw card data", indicando que VTEX y Stripe son socios de pago. - Enviar como archivo adjunto el VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). Para consultar la última versión de AOC VTEX acceda a la página de [certificaciones VTEX](https://vtex.com/es-es/compliance/certifications) y descargue el archivo disponible en la sección PCI. Las acciones anteriores evitarán que ocurran errores relacionados con la transmisión de datos sensibles en la integración entre Stripe y VTEX.
+> ℹ️ Si deseas realizar transacciones con tarjeta de crédito en Stripe, debes abrir un ticket en Stripe de la siguiente manera: - Solicitar la liberación de la función "raw card data", indicando que VTEX y Stripe son socios de pago. - Enviar como archivo adjunto el VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). Para consultar la última versión de AOC VTEX acceda a la página de [certificaciones VTEX](https://compliance.vtex.com) y descargue el archivo disponible en la sección PCI. Las acciones anteriores evitarán que ocurran errores relacionados con la transmisión de datos sensibles en la integración entre Stripe y VTEX.
 
 ## Configuración de condición de pago
 
