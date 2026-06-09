@@ -65,7 +65,7 @@ Las demás carpetas no son obligatorias; son solo sugerencias porque son importa
 - `/account/orders`: pedidos del cliente
 - `/sistema/buscavazia`: carpeta a la que se redirige al usuario si la búsqueda no devuelve resultados.
 - `/sistema/{codigoHTTP}`: carpeta que muestra páginas de error de acuerdo con los códigos de status HTTP, como 404 (página no encontrada), 401 (no autorizado) y 500 (error de servidor).
-- `/marcas`: carpeta que contiene layouts de páginas de marcas, que pueden personalizarse con un layout exclusivo. Si no existe un layout específico para las marcas, estas páginas se renderizarán utilizando el mismo layout de la carpeta de búsqueda. Para entender cómo funcionan las páginas de marcas, consulta el artículo [Cómo funciona VTEX Search (Legado)](es/docs/tutorials/como-funciona-la-busqueda-de-vtex).
+- `/marcas`: carpeta que contiene layouts de páginas de marcas, que pueden personalizarse con un layout exclusivo. Si no existe un layout específico para las marcas, estas páginas se renderizarán utilizando el mismo layout de la carpeta de búsqueda. Para entender cómo funcionan las páginas de marcas, consulta el artículo [Cómo funciona VTEX Search (Legado)](/es/docs/tutorials/como-funciona-vtex-search-legado).
 
 Como estas carpetas no son obligatorias, puedes renombrarlas libremente. En estos casos lo más importante es el [control](https://developers.vtex.com/docs/guides/list-of-controls-for-templates) o el [placeholder](/es/docs/tutorials/gestion-de-placeholders) responsable de leer los contenidos.
 
