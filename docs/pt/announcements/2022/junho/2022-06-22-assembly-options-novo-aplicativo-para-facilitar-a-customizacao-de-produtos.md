@@ -19,7 +19,7 @@ A customização de produtos é uma necessidade comum durante a experiência de 
 
 Uma situação comum em restaurantes que aceitam pedidos online, por exemplo, é permitir que os clientes possam escolher ingredientes e adicionar extras a um pedido.
 
-Para simplificar o uso dessa funcionalidade, desenvolvemos o aplicativo **Assembly Options**, que apresenta uma interface para configuração e gerenciamento das opções de customização. O aplicativo está disponível somente para lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/).
+Para simplificar o uso dessa funcionalidade, desenvolvemos o aplicativo **Assembly Options**, que apresenta uma interface para configuração e gerenciamento das opções de customização. O aplicativo está disponível somente para lojas que utilizam [VTEX IO](https://developers.vtex.com/docs/guides/store-framework).
 
 ![assembly-options-app](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/junho/2022-06-22-assembly-options-novo-aplicativo-para-facilitar-a-customizacao-de-produtos_1.png)
 
@@ -35,7 +35,7 @@ Desenvolvemos o aplicativo Assembly Options para que lojistas possam disponibili
 
 ## O que precisa ser feito?
 
-O app Assembly Options está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/). Para utilizá-lo, você também precisa [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
+O app Assembly Options está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Para utilizá-lo, você também precisa [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
 Você pode instalar o aplicativo gratuitamente pela [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) ou pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do guia para desenvolvedores [Assembly Options app](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app). Após a instalação, a página **Produtos > Assembly Options** se torna disponível no Admin VTEX.
 

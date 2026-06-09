@@ -12,7 +12,7 @@ slugEN: install-and-configure-shopee-connector
 locale: en
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: shopee-integration
-order: 4
+order: 6
 ---
 
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.
