@@ -65,7 +65,7 @@ The other folders aren't required. These are only suggestions, as they’re impo
 - `/account/orders`: Customer orders
 - `/system/emptrysearch`: Folder the user is directed to if the search returns no results.
 - `/system/{codigoHTTP}`: Folder that renders error pages according to HTTP status codes, like 404 (page not found), 401 (unauthorized), and 500 (server error).
-- `/brands`: Folder containing brand page layouts, which can be customized with an exclusive layout. If no specific layout is available for brands, these pages will be rendered using the same layout as the search folder. To understand how brand pages work, see the article [How VTEX search works](https://help.vtex.com/docs/tutorials/how-does-vtex-search-work).
+- `/brands`: Folder containing brand page layouts, which can be customized with an exclusive layout. If no specific layout is available for brands, these pages will be rendered using the same layout as the search folder. To understand how brand pages work, see the article [How VTEX search works](https://help.vtex.com/docs/tutorials/how-does-vtex-search-legacy-work).
 
 Since these folders aren't required, you can rename them as you see fit. In these cases, what matters is the [control](https://developers.vtex.com/docs/guides/list-of-controls-for-templates) or the [placeholder](https://help.vtex.com/docs/tutorials/managing-placeholders) reading their contents.
 
