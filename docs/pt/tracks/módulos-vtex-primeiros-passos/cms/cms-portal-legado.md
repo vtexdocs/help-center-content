@@ -64,7 +64,7 @@ As demais pastas não são obrigatórias. São apenas sugestões por serem impor
 - `/account/orders`: pedidos do cliente
 - `/sistema/buscavazia`: pasta para a qual o usuário é direcionado caso a busca não retorne resultados.
 - `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erro conforme os códigos de status HTTP, como 404 (página não encontrada), 401 (não autorizado) e 500 (erro de servidor).
-- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizados com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas igual à pasta de busca. Para entender como funcionam as páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
+- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizados com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas igual à pasta de busca. Para entender como funcionam as páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/docs/tutorials/como-funciona-vtex-search-legado).
 
 Como essas pastas não são obrigatórias, você pode renomeá-las livremente. O que importa, nesses casos, é o [controle](https://developers.vtex.com/docs/guides/list-of-controls-for-templates) ou o [placeholder](/pt/docs/tutorials/gerenciandoplaceholders) responsável por ler seus conteúdos.
 
