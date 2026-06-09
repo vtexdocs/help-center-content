@@ -17190,8 +17190,8 @@
                     "pt": "Login em lojas B2B"
                   },
                   "slug": {
-                    "en": "placeholderlogin-for-b2b-stores",
-                    "es": "placeholderlogin-para-tiendas-b2b",
+                    "en": "login-for-b2b-stores",
+                    "es": "login-para-tiendas-b2b",
                     "pt": "login-em-lojas-b2b"
                   },
                   "origin": "",
