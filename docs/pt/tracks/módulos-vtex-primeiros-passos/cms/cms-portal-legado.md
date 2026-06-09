@@ -88,4 +88,4 @@ Para utilizar um controle, inclua a tag no ponto desejado do HTML do template. O
 
 - **[Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
-- **[Configurações da Loja - Storefront](/pt/docs/tutorials/configurações-da-loja---storefront-subcategoria	):** Configure definições gerais do seu storefront, como metadados, tags de SEO, tipos de arquivos, dimensões de imagens e regiões geográficas onde seus produtos estão disponíveis.
+- **[Configurações da Loja - Storefront](/pt/docs/tutorials/configurações-da-loja---storefront-subcategoria):** Configure definições gerais do seu storefront, como metadados, tags de SEO, tipos de arquivos, dimensões de imagens e regiões geográficas onde seus produtos estão disponíveis.
