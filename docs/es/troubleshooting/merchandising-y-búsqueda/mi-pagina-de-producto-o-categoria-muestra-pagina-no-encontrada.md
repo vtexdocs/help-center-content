@@ -1,9 +1,9 @@
 ---
 title: "Mi página de producto o de categoría muestra 'Página no encontrada'"
-id: EDU-12986
-status: DRAFT
-createdAt: 2026-03-13T00:00:00.000Z
-updatedAt: 2026-03-13T00:00:00.000Z
+id:
+status: PUBLISHED
+createdAt: 2026-04-30T00:00:00.000Z
+updatedAt: 2026-04-30T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial

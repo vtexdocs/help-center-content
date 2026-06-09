@@ -73,9 +73,9 @@ Após criar a lista, você precisará do ID da lista para implementá-la no stor
 
 Utilize o [ID copiado](#copiar-id-da-lista) para adicionar a prateleira de recomendações nas páginas da sua loja.
 
-* Para Store Framework, consulte a documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
-* Para FastStore, consulte o guia [Implementing product recommendations in Faststore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore).
-* Para lojas headless, consulte o guia [Integrating product recommendations in headless stores (Beta)](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores).
+* Para **Store Framework**, consulte a documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+* Para **FastStore ou Headless**, consulte o guia [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
+* Para aplicações **Mobile**, consulte o guia [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).
 
 ## Acompanhar o desempenho
 
@@ -86,5 +86,5 @@ Acesse o [Dashboard de recomendações](https://help.vtex.com/pt/docs/tutorials/
 * [Recomendações de produtos (Beta)](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta)
 * [Dashboard de recomendações (Beta)](https://help.vtex.com/pt/docs/tutorials/dashboard-de-recomendacoes)
 * [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
-* [Implementing product recommendations in Faststore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore)
-* [Integrating product recommendations in headless stores (Beta)](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores)
+* [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
+* [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

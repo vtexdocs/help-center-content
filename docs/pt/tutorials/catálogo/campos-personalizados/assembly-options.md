@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
 Uma Assembly Option é um [anexo](/pt/docs/tutorials/o-que-e-um-anexo) para cenários complexos, como a customização de produtos, em que é necessário gerenciar diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque.
 
@@ -35,7 +35,7 @@ Existem duas formas de implementar Assembly Options: utilizando o [app Assembly 
 
 ### App Assembly Options
 
-O app [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponível para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/), oferece uma interface para configuração e gerenciamento das opções de customização. Nesse caso, a sintaxe da Assembly Option e o anexo são gerados automaticamente. Para saber mais sobre esse aplicativo, leia a documentação [App Assembly Options](/pt/docs/tutorials/app-assembly-options).
+O app [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponível para lojas desenvolvidas usando [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), oferece uma interface para configuração e gerenciamento das opções de customização. Nesse caso, a sintaxe da Assembly Option e o anexo são gerados automaticamente. Para saber mais sobre esse aplicativo, leia a documentação [App Assembly Options](/pt/docs/tutorials/app-assembly-options).
 
 ### Campos personalizados
 
