@@ -64,6 +64,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Order Cancellation | Cancelación de un pedido. | ID del pedido. |
 | Start Handling  | Acción que le indica a VTEX que la tienda comenzó a preparar determinado pedido. Esto desencadena la continuidad del flujo de dicho pedido.  | ID del pedido.  |
 | Notify Payment | Envío de notificación de pago de un pedido determinado. | ID del pedido. |
+| GetUnmaskedPersonalInformation | Lectura de información personal expuesta de determinado pedido. | ID del pedido. |
+| UpdatePersonalInformation | Actualizar la información personal de determinado pedido. | ID del pedido. |
 
 ## Autorización del pedido
 
@@ -177,11 +179,19 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
-| LIST_GIFT_CARD | Consultación de la lista de tarjetas de regalo. | list-gift-card |
-| EXPORT_GIFT_CARD | Exportación de tarjetas de regalo. | export-gift-card |
-| EDIT_GIFT_CARD | Edición del valor de la tarjeta de regalo. | add-gift-card-value |
-| CREATE_GIFT_CARD | Creación de tarjeta de regalo. | create-multiple-gift-cards |
-| LIST_CARDS_FROM_API | Búsqueda de tarjetas de regalo nativas. | list-gift-card-api |
+| LIST_GIFT_CARD | Consultar la lista de tarjetas de regalo. | list-gift-card |
+| EXPORT_GIFT_CARD | Exportar tarjetas de regalo. | export-gift-card |
+| EDIT_GIFT_CARD | Editar el valor de la tarjeta de regalo. | add-gift-card-value |
+| CREATE_GIFT_CARD | Crear tarjeta de regalo. | create-multiple-gift-cards |
+| LIST_CARDS_FROM_API | Buscar tarjetas de regalo nativas. | list-gift-card-api |
+| LIST_GIFT_CARD_TRANSACTIONS | Ver las transacciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| VIEW_GIFT_CARD_CONDITIONS | Ver las condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_CONDITIONS | Crear condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| EDIT_GIFT_CARD_CONDITIONS | Editar las condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| EDIT_GIFT_CARD_CONFIGURATION | Editar la configuración de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_CANCELLATION | Registrar la cancelación de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_SETTLEMENT | Registrar la liquidación de las tarjeta de regalo. | ID de la tarjeta de regalo. |
+| INSERT_GIFT_CARD_CREDITS | Insertar créditos en tarjeta de regalo. | ID de la tarjeta de regalo. |
 
 ## Checkout
 
