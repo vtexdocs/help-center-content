@@ -97,21 +97,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "New events available in Audit",
-                    "es": "Nuevos eventos disponibles en Audit",
-                    "pt": "Novos eventos disponíveis no Audit"
-                  },
-                  "slug": {
-                    "en": "2026-05-12-new-events-available-in-audit",
-                    "es": "2026-05-12-nuevos-eventos-disponibles-en-audit",
-                    "pt": "2026-05-12-novos-eventos-disponiveis-no-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -48053,6 +48038,21 @@
                 "en": "hcms-generate-a-blank-page-in-some-releases",
                 "es": "hcms-genera-una-pagina-en-blanco-en-algunas-versiones",
                 "pt": "o-hcms-gera-uma-pagina-em-branco-em-algumas-versoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "hCMS Page Becomes Inaccessible After Content-Type Schema Changes",
+                "es": "La página de hCMS deja de estar disponible tras los cambios en el esquema del tipo de contenido",
+                "pt": "Página do hCMS fica inacessível após alterações no esquema de tipo de conteúdo"
+              },
+              "slug": {
+                "en": "hcms-page-becomes-inaccessible-after-contenttype-schema-changes",
+                "es": "la-pagina-de-hcms-deja-de-estar-disponible-tras-los-cambios-en-el-esquema-del-tipo-de-contenido",
+                "pt": "pagina-do-hcms-fica-inacessivel-apos-alteracoes-no-esquema-de-tipo-de-conteudo"
               },
               "origin": "",
               "type": "markdown",
