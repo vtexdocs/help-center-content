@@ -231,6 +231,11 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Resource Access Denied | Acesso a recurso negado. | Chave do recurso e ID do usuário ao qual foi negado. |
 | Create New AppToken | Criação de chave de aplicação. | Chave de aplicação criada. |
 | Create Sponsor Invite | Criação de convite para usuário titular. | ID do usuário convidado. |
+| Create Storefront Custom Resource | Criação de recurso customizado de frente de loja. | Recurso customizado de frente de loja criado. |
+| Delete Storefront Custom Resource | Exclusão de recurso customizado de frente de loja. | Recurso customizado de frente de loja excluído. |
+| Create Storefront Custom Role | Criação de role customizada de frente de loja. | Role customizada de frente de loja criada. |
+| Delete Storefront Custom Role | Exclusão de role customizada de frente de loja. | Role customizada de frente de loja excluída. |
+| Update Storefront Custom Role | Atualização de role customizada de frente de loja. | Role customizada de frente de loja atualizada. |
 
 ## VTEX ID
 
