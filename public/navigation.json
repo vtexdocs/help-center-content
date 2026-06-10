@@ -97,6 +97,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-05-12-new-events-available-in-audit",
+                    "es": "2026-05-12-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-05-12-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
