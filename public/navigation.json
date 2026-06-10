@@ -66,6 +66,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-05-12-new-events-available-in-audit",
+                    "es": "2026-05-12-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-05-12-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -276,37 +291,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "May",
-                "es": "Mayo",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "may",
-                "es": "mayo",
-                "pt": "maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "New events available in Audit",
-                    "es": "Nuevos eventos disponibles en Audit",
-                    "pt": "Novos eventos disponíveis no Audit"
-                  },
-                  "slug": {
-                    "en": "2026-05-12-new-events-available-in-audit",
-                    "es": "2026-05-12-nuevos-eventos-disponibles-en-audit",
-                    "pt": "2026-05-12-novos-eventos-disponiveis-no-audit"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20644,6 +20628,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Collaboration workflows",
+                    "es": "Flujos de trabajo de colaboración",
+                    "pt": "Fluxos de trabalho de colaboração"
+                  },
+                  "slug": {
+                    "en": "collaboration-workflows",
+                    "es": "flujos-de-trabajo-de-colaboracion",
+                    "pt": "fluxos-de-trabalho-de-colaboracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Managing versions and branches",
