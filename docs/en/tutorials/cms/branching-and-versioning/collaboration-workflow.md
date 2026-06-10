@@ -1,4 +1,12 @@
-# Collaboration workflows
+---
+title: "Collaboration workflows"
+createdAt: 2026-05-20T17:08:52.219Z
+updatedAt: 2026-06-10T17:08:52.219Z
+contentType: tutorial
+productTeam: CMS
+slugEN: collaboration-workflows
+locale: en
+---
 
 When collaborating with a team, [Branches](https://help.vtex.com/en/docs/tutorials/managing-versions-and-branches) provide key features to facilitate content editing and review processes. They allow multiple contributors to collaborate efficiently while maintaining control over different content versions.
 
