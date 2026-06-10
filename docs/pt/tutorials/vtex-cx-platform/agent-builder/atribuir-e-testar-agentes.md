@@ -26,6 +26,8 @@ Este artigo está dividido nas seguintes seções:
 
 ## Atribuir um agente ao time
 
+Para atribuir um novo agente em sua loja, siga os passos abaixo:
+
 1. Acesse sua organização no [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique no ícone **Meus agentes**.
 3. Clique em <i class="fas fa-plus"></i>`Atribuir novos agentes`.
@@ -33,7 +35,7 @@ Este artigo está dividido nas seguintes seções:
  - **Agentes oficiais:** agentes da VTEX ou de integrações externas previamente cadastradas na plataforma.
  - **Agentes personalizados:** agentes criados para sua operação.
 
->  ℹ️ Você também pode localizar um agente específico usando o campo de busca.
+> ℹ️ Você também pode localizar agentes usando o campo de busca ou filtrando por tipo de categoria.
 
 5. Após escolher um agente, clique em `Ver detalhes`.
 6. No modal do agente, confira as informações sobre os MCPs disponíveis e o exemplo de conversa.
@@ -44,6 +46,19 @@ Este artigo está dividido nas seguintes seções:
 11. Em **Revise a configuração e insira as credenciais**, confira as informações, preencha os campos solicitados e clique em `Concluir`.
 
 Após concluir esses passos, o agente será exibido na seção **Agentes atribuídos** da página **Meus Agentes**.
+
+## Remover um agente
+
+Para remover um agente de sua loja, siga os passos abaixo:
+
+1. Acesse sua organização no [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
+2. No menu lateral, clique no ícone **Meus agentes**.
+3. Na seção **Agentes atribuídos**, clique sobre o agente desejado.
+4. Clique em **Ver opções**.
+5. Clique em **Remover agente**.
+
+> ℹ️ Caso deseje utilizar novamente este agente, realize a nova atribuição conforme descrito em [Atribuir um agente ao time](#atribuir-um-agente-ao-time).
+
 
 ## Testar um agente
 
