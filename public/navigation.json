@@ -66,6 +66,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-05-12-new-events-available-in-audit",
+                    "es": "2026-05-12-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-05-12-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -276,37 +291,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "May",
-                "es": "Mayo",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "may",
-                "es": "mayo",
-                "pt": "maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "New events available in Audit",
-                    "es": "Nuevos eventos disponibles en Audit",
-                    "pt": "Novos eventos disponíveis no Audit"
-                  },
-                  "slug": {
-                    "en": "2026-05-12-new-events-available-in-audit",
-                    "es": "2026-05-12-nuevos-eventos-disponibles-en-audit",
-                    "pt": "2026-05-12-novos-eventos-disponiveis-no-audit"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34742,6 +34726,476 @@
           "children": [
             {
               "name": {
+                "en": "CMS for Store Framework",
+                "es": "CMS for Store Framework",
+                "pt": "CMS for Store Framework"
+              },
+              "slug": {
+                "en": "cms-for-store-framework-subcategory",
+                "es": "cms-for-store-framework-subcategoria",
+                "pt": "cms-for-store-framework-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Pages",
+                    "es": "Páginas",
+                    "pt": "Páginas"
+                  },
+                  "slug": {
+                    "en": "pages-subcategory",
+                    "es": "paginas-subcategoria",
+                    "pt": "páginas-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Creating landing pages",
+                        "es": "Crear páginas de destino",
+                        "pt": "Criando landing pages"
+                      },
+                      "slug": {
+                        "en": "creating-landing-pages",
+                        "es": "crear-paginas-de-destino",
+                        "pt": "criando-landing-pages"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing URL redirects",
+                        "es": "Gestión de redirecciones de URL",
+                        "pt": "Gerenciando redirecionamentos de URL"
+                      },
+                      "slug": {
+                        "en": "managing-url-redirects",
+                        "es": "gestion-de-redirecciones-de-url",
+                        "pt": "gerenciando-redirecionamentos-de-url"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing URL redirects per binding",
+                        "es": "Gestionar redirecciones según el binding",
+                        "pt": "Gerenciando redirecionamentos de URL por binding"
+                      },
+                      "slug": {
+                        "en": "managing-redirects-per-binding",
+                        "es": "administrando-redireccionamientos-de-url-por-binding",
+                        "pt": "gerenciando-redirecionamentos-de-url-por-binding"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Pages - Overview",
+                        "es": "Páginas - Información general",
+                        "pt": "Páginas - Visão geral"
+                      },
+                      "slug": {
+                        "en": "pages-overview",
+                        "es": "paginas-vision-general",
+                        "pt": "paginas-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Site Editor",
+                    "es": "Site Editor",
+                    "pt": "Site Editor"
+                  },
+                  "slug": {
+                    "en": "site-editor-subcategory",
+                    "es": "site-editor-subcategoria",
+                    "pt": "site-editor-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Improving the SEO of Product Listing Pages",
+                        "es": "Mejorar el SEO de las Páginas de lista de productos",
+                        "pt": "Melhorando o SEO das Páginas de lista de produtos"
+                      },
+                      "slug": {
+                        "en": "improving-the-seo-of-product-listing-pages",
+                        "es": "mejorar-el-seo-de-las-paginas-de-lista-de-productos",
+                        "pt": "melhorando-o-seo-das-paginas-de-lista-de-produtos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Linking URLs to banners using the Site Editor",
+                        "es": "Vinculando las URL en banners utilizando Site Editor",
+                        "pt": "Vinculando URLs em banners usando o Site Editor"
+                      },
+                      "slug": {
+                        "en": "linking-urls-to-banners-using-the-site-editor",
+                        "es": "vinculando-las-url-en-banners-utilizando-site-editor",
+                        "pt": "vinculando-urls-em-banners-usando-o-site-editor"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing content per binding",
+                        "es": "Gestionar el contenido según el binding",
+                        "pt": "Gerenciando conteúdo por binding"
+                      },
+                      "slug": {
+                        "en": "managing-content-per-binding",
+                        "es": "gestionar-el-contenido-segun-el-binding",
+                        "pt": "gerenciando-conteudo-por-binding"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing content versions",
+                        "es": "Gestión de versiones de contenido",
+                        "pt": "Gerenciando versões de conteúdo"
+                      },
+                      "slug": {
+                        "en": "managing-content-versions",
+                        "es": "gestion-de-versiones-de-contenido",
+                        "pt": "gerenciando-versoes-de-conteudo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing page and template content",
+                        "es": "Gestionar contenido de páginas y templates",
+                        "pt": "Gerenciando conteúdo de página e template"
+                      },
+                      "slug": {
+                        "en": "managing-page-and-template-content",
+                        "es": "gestionar-contenido-de-paginas-y-templates",
+                        "pt": "gerenciando-conteudo-de-pagina-e-template"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Reusing images with Image Widget",
+                        "es": "Reutilización de imágenes con Image Widget",
+                        "pt": "Reutilizando imagens com o Image Widget"
+                      },
+                      "slug": {
+                        "en": "image-widget",
+                        "es": "image-widget",
+                        "pt": "image-widget"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Scheduling content updates",
+                        "es": "Programar actualizaciones de contenido",
+                        "pt": "Agendando atualizações de conteúdo"
+                      },
+                      "slug": {
+                        "en": "scheduling-content-updates",
+                        "es": "programar-actualizaciones-de-contenido",
+                        "pt": "agendando-atualizacoes-de-conteudo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Site Editor - Overview",
+                        "es": "Site Editor - Información general",
+                        "pt": "Site Editor - Visão geral"
+                      },
+                      "slug": {
+                        "en": "site-editor-overview",
+                        "es": "site-editor-vision-general",
+                        "pt": "site-editor-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Store Settings - Storefront",
+                    "es": "Configuración de la Tienda - Storefront",
+                    "pt": "Configurações da Loja - Storefront"
+                  },
+                  "slug": {
+                    "en": "store-settings---storefront-subcategory",
+                    "es": "configuracion-de-la-tienda---storefront-subcategoria",
+                    "pt": "configurações-da-loja---storefront-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Changing default system texts displayed in the store",
+                        "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
+                        "pt": "Alterar textos padrão do sistema exibidos na loja"
+                      },
+                      "slug": {
+                        "en": "changing-default-system-texts-displayed-in-the-store",
+                        "es": "cambiar-los-textos-predeterminados-del-sistema",
+                        "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring PWA in your Store Framework store",
+                        "es": "Configurar PWA en tu tienda Store Framework",
+                        "pt": "Configurando PWA em sua loja Store Framework"
+                      },
+                      "slug": {
+                        "en": "configuring-pwa-in-your-store-framework-store",
+                        "es": "configurar-pwa-en-tu-tienda-store-framework",
+                        "pt": "configurando-pwa-em-sua-loja-store-framework"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring SEO in Legacy CMS Portal stores",
+                        "es": "Configurar SEO en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-seo-in-legacy-cms-portal-stores",
+                        "es": "configurar-seo-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring SEO in your Store Framework store",
+                        "es": "Configurar SEO en tu tienda Store Framework",
+                        "pt": "Configurando SEO em sua loja Store Framework"
+                      },
+                      "slug": {
+                        "en": "configuring-seo-in-your-store",
+                        "es": "configurar-seo-en-la-tienda",
+                        "pt": "configurando-seo-em-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Enabling PWA push notifications in your store",
+                        "es": "Habilitar las notificaciones PWA de la tienda",
+                        "pt": "Habilitando notificações PWA da loja"
+                      },
+                      "slug": {
+                        "en": "enabling-pwa-push-notifications-in-your-store",
+                        "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
+                        "pt": "habilitando-notificacoes-pwa-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Filling in system settings",
+                        "es": "Cómo llenar las configuraciones del sistema",
+                        "pt": "Como preencher as configurações do sistema"
+                      },
+                      "slug": {
+                        "en": "filling-in-system-settings",
+                        "es": "configuraciones-sistema",
+                        "pt": "preenchendo-as-configuracoes-do-sistema"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to install a Service Worker",
+                        "es": "Cómo instalar un Service Worker",
+                        "pt": "Como instalar um Service Worker"
+                      },
+                      "slug": {
+                        "en": "how-to-install-a-service-worker",
+                        "es": "como-instalar-un-service-worker",
+                        "pt": "como-instalar-um-service-worker"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Set the store display texts",
+                        "es": "Definir los textos de visualización de la tienda",
+                        "pt": "Definir os textos de exibição da loja"
+                      },
+                      "slug": {
+                        "en": "set-the-store-display-language",
+                        "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
+                        "pt": "definir-o-idioma-de-exibicao-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up the standard size for the zoom image",
+                        "es": "Configurar el tamaño estándar de la imagen de zoom",
+                        "pt": "Configurar o tamanho padrão da imagem de zoom"
+                      },
+                      "slug": {
+                        "en": "setting-up-the-standard-size-for-the-zoom-image",
+                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
+                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Store - Overview",
+                        "es": "Tienda - Información general",
+                        "pt": "Loja - Visão geral"
+                      },
+                      "slug": {
+                        "en": "cms-store-overview",
+                        "es": "cms-tienda-vision-general",
+                        "pt": "cms-loja-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Storefront Settings - Overview",
+                        "es": "Configuración de Storefront - Información general",
+                        "pt": "Configurações de Storefront - Visão geral"
+                      },
+                      "slug": {
+                        "en": "storefront-settings-overview",
+                        "es": "vision-general-configuracion-de-storefront",
+                        "pt": "visao-geral-configuracoes-de-storefront"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
+                        "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
+                        "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
+                      },
+                      "slug": {
+                        "en": "what-are-the-internal-utms",
+                        "es": "que-son-las-utms-internas",
+                        "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Styles",
+                    "es": "Estilos",
+                    "pt": "Estilos"
+                  },
+                  "slug": {
+                    "en": "styles-subcategory",
+                    "es": "estilos-subcategoria",
+                    "pt": "estilos-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Customizing your store’s typography",
+                        "es": "Personalizar la tipografía de tu tienda",
+                        "pt": "Personalizando a tipografia da sua loja"
+                      },
+                      "slug": {
+                        "en": "customizing-your-stores-typography",
+                        "es": "personalizar-la-tipografia-de-tu-tienda",
+                        "pt": "personalizando-a-tipografia-da-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Styles - Overview",
+                        "es": "Estilos - Información general",
+                        "pt": "Estilos - Visão geral"
+                      },
+                      "slug": {
+                        "en": "styles-overview",
+                        "es": "estilos-vision-general",
+                        "pt": "estilos-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Headless CMS",
                 "es": "Headless CMS",
                 "pt": "Headless CMS"
@@ -35839,218 +36293,6 @@
             },
             {
               "name": {
-                "en": "Pages",
-                "es": "Páginas",
-                "pt": "Páginas"
-              },
-              "slug": {
-                "en": "pages-subcategory",
-                "es": "paginas-subcategoria",
-                "pt": "páginas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating landing pages",
-                    "es": "Crear páginas de destino",
-                    "pt": "Criando landing pages"
-                  },
-                  "slug": {
-                    "en": "creating-landing-pages",
-                    "es": "crear-paginas-de-destino",
-                    "pt": "criando-landing-pages"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing URL redirects",
-                    "es": "Gestión de redirecciones de URL",
-                    "pt": "Gerenciando redirecionamentos de URL"
-                  },
-                  "slug": {
-                    "en": "managing-url-redirects",
-                    "es": "gestion-de-redirecciones-de-url",
-                    "pt": "gerenciando-redirecionamentos-de-url"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing URL redirects per binding",
-                    "es": "Gestionar redirecciones según el binding",
-                    "pt": "Gerenciando redirecionamentos de URL por binding"
-                  },
-                  "slug": {
-                    "en": "managing-redirects-per-binding",
-                    "es": "administrando-redireccionamientos-de-url-por-binding",
-                    "pt": "gerenciando-redirecionamentos-de-url-por-binding"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Pages - Overview",
-                    "es": "Páginas - Información general",
-                    "pt": "Páginas - Visão geral"
-                  },
-                  "slug": {
-                    "en": "pages-overview",
-                    "es": "paginas-vision-general",
-                    "pt": "paginas-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Site Editor",
-                "es": "Site Editor",
-                "pt": "Site Editor"
-              },
-              "slug": {
-                "en": "site-editor-subcategory",
-                "es": "site-editor-subcategoria",
-                "pt": "site-editor-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Improving the SEO of Product Listing Pages",
-                    "es": "Mejorar el SEO de las Páginas de lista de productos",
-                    "pt": "Melhorando o SEO das Páginas de lista de produtos"
-                  },
-                  "slug": {
-                    "en": "improving-the-seo-of-product-listing-pages",
-                    "es": "mejorar-el-seo-de-las-paginas-de-lista-de-productos",
-                    "pt": "melhorando-o-seo-das-paginas-de-lista-de-produtos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Linking URLs to banners using the Site Editor",
-                    "es": "Vinculando las URL en banners utilizando Site Editor",
-                    "pt": "Vinculando URLs em banners usando o Site Editor"
-                  },
-                  "slug": {
-                    "en": "linking-urls-to-banners-using-the-site-editor",
-                    "es": "vinculando-las-url-en-banners-utilizando-site-editor",
-                    "pt": "vinculando-urls-em-banners-usando-o-site-editor"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing content per binding",
-                    "es": "Gestionar el contenido según el binding",
-                    "pt": "Gerenciando conteúdo por binding"
-                  },
-                  "slug": {
-                    "en": "managing-content-per-binding",
-                    "es": "gestionar-el-contenido-segun-el-binding",
-                    "pt": "gerenciando-conteudo-por-binding"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing content versions",
-                    "es": "Gestión de versiones de contenido",
-                    "pt": "Gerenciando versões de conteúdo"
-                  },
-                  "slug": {
-                    "en": "managing-content-versions",
-                    "es": "gestion-de-versiones-de-contenido",
-                    "pt": "gerenciando-versoes-de-conteudo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing page and template content",
-                    "es": "Gestionar contenido de páginas y templates",
-                    "pt": "Gerenciando conteúdo de página e template"
-                  },
-                  "slug": {
-                    "en": "managing-page-and-template-content",
-                    "es": "gestionar-contenido-de-paginas-y-templates",
-                    "pt": "gerenciando-conteudo-de-pagina-e-template"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Reusing images with Image Widget",
-                    "es": "Reutilización de imágenes con Image Widget",
-                    "pt": "Reutilizando imagens com o Image Widget"
-                  },
-                  "slug": {
-                    "en": "image-widget",
-                    "es": "image-widget",
-                    "pt": "image-widget"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Scheduling content updates",
-                    "es": "Programar actualizaciones de contenido",
-                    "pt": "Agendando atualizações de conteúdo"
-                  },
-                  "slug": {
-                    "en": "scheduling-content-updates",
-                    "es": "programar-actualizaciones-de-contenido",
-                    "pt": "agendando-atualizacoes-de-conteudo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Site Editor - Overview",
-                    "es": "Site Editor - Información general",
-                    "pt": "Site Editor - Visão geral"
-                  },
-                  "slug": {
-                    "en": "site-editor-overview",
-                    "es": "site-editor-vision-general",
-                    "pt": "site-editor-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Agentic CX",
                 "es": "Agentic CX",
                 "pt": "Agentic CX"
@@ -36088,248 +36330,6 @@
                     "en": "introduction-to-cx",
                     "es": "introduccion-a-cx",
                     "pt": "introducao-ao-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Store Settings - Storefront",
-                "es": "Configuración de la Tienda - Storefront",
-                "pt": "Configurações da Loja - Storefront"
-              },
-              "slug": {
-                "en": "store-settings---storefront-subcategory",
-                "es": "configuracion-de-la-tienda---storefront-subcategoria",
-                "pt": "configurações-da-loja---storefront-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Changing default system texts displayed in the store",
-                    "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
-                    "pt": "Alterar textos padrão do sistema exibidos na loja"
-                  },
-                  "slug": {
-                    "en": "changing-default-system-texts-displayed-in-the-store",
-                    "es": "cambiar-los-textos-predeterminados-del-sistema",
-                    "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring PWA in your Store Framework store",
-                    "es": "Configurar PWA en tu tienda Store Framework",
-                    "pt": "Configurando PWA em sua loja Store Framework"
-                  },
-                  "slug": {
-                    "en": "configuring-pwa-in-your-store-framework-store",
-                    "es": "configurar-pwa-en-tu-tienda-store-framework",
-                    "pt": "configurando-pwa-em-sua-loja-store-framework"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring SEO in Legacy CMS Portal stores",
-                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
-                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
-                  },
-                  "slug": {
-                    "en": "configuring-seo-in-legacy-cms-portal-stores",
-                    "es": "configurar-seo-en-tiendas-cms-portal-legado",
-                    "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring SEO in your Store Framework store",
-                    "es": "Configurar SEO en tu tienda Store Framework",
-                    "pt": "Configurando SEO em sua loja Store Framework"
-                  },
-                  "slug": {
-                    "en": "configuring-seo-in-your-store",
-                    "es": "configurar-seo-en-la-tienda",
-                    "pt": "configurando-seo-em-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Enabling PWA push notifications in your store",
-                    "es": "Habilitar las notificaciones PWA de la tienda",
-                    "pt": "Habilitando notificações PWA da loja"
-                  },
-                  "slug": {
-                    "en": "enabling-pwa-push-notifications-in-your-store",
-                    "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
-                    "pt": "habilitando-notificacoes-pwa-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Filling in system settings",
-                    "es": "Cómo llenar las configuraciones del sistema",
-                    "pt": "Como preencher as configurações do sistema"
-                  },
-                  "slug": {
-                    "en": "filling-in-system-settings",
-                    "es": "configuraciones-sistema",
-                    "pt": "preenchendo-as-configuracoes-do-sistema"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to install a Service Worker",
-                    "es": "Cómo instalar un Service Worker",
-                    "pt": "Como instalar um Service Worker"
-                  },
-                  "slug": {
-                    "en": "how-to-install-a-service-worker",
-                    "es": "como-instalar-un-service-worker",
-                    "pt": "como-instalar-um-service-worker"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Set the store display texts",
-                    "es": "Definir los textos de visualización de la tienda",
-                    "pt": "Definir os textos de exibição da loja"
-                  },
-                  "slug": {
-                    "en": "set-the-store-display-language",
-                    "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
-                    "pt": "definir-o-idioma-de-exibicao-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up the standard size for the zoom image",
-                    "es": "Configurar el tamaño estándar de la imagen de zoom",
-                    "pt": "Configurar o tamanho padrão da imagem de zoom"
-                  },
-                  "slug": {
-                    "en": "setting-up-the-standard-size-for-the-zoom-image",
-                    "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                    "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Store - Overview",
-                    "es": "Tienda - Información general",
-                    "pt": "Loja - Visão geral"
-                  },
-                  "slug": {
-                    "en": "cms-store-overview",
-                    "es": "cms-tienda-vision-general",
-                    "pt": "cms-loja-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Storefront Settings - Overview",
-                    "es": "Configuración de Storefront - Información general",
-                    "pt": "Configurações de Storefront - Visão geral"
-                  },
-                  "slug": {
-                    "en": "storefront-settings-overview",
-                    "es": "vision-general-configuracion-de-storefront",
-                    "pt": "visao-geral-configuracoes-de-storefront"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
-                    "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
-                    "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
-                  },
-                  "slug": {
-                    "en": "what-are-the-internal-utms",
-                    "es": "que-son-las-utms-internas",
-                    "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Styles",
-                "es": "Estilos",
-                "pt": "Estilos"
-              },
-              "slug": {
-                "en": "styles-subcategory",
-                "es": "estilos-subcategoria",
-                "pt": "estilos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Customizing your store’s typography",
-                    "es": "Personalizar la tipografía de tu tienda",
-                    "pt": "Personalizando a tipografia da sua loja"
-                  },
-                  "slug": {
-                    "en": "customizing-your-stores-typography",
-                    "es": "personalizar-la-tipografia-de-tu-tienda",
-                    "pt": "personalizando-a-tipografia-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Styles - Overview",
-                    "es": "Estilos - Información general",
-                    "pt": "Estilos - Visão geral"
-                  },
-                  "slug": {
-                    "en": "styles-overview",
-                    "es": "estilos-vision-general",
-                    "pt": "estilos-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
