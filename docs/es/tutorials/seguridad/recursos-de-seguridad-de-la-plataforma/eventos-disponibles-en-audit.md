@@ -231,6 +231,11 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Resource Access Denied | Acceso al recurso denegado. | Clave del recurso e ID del usuario al que se le denegó. |
 | Create New AppToken | Creación de clave de aplicación. | Clave de aplicación creada. |
 | Create Sponsor Invite | Crear invitación para usuario titular. | ID del usuario que recibirá la invitación. |
+| Create Storefront Custom Resource | Creación de recurso personalizado de frente de tienda. | Recurso personalizado de frente de tienda creado. |
+| Delete Storefront Custom Resource | Eliminación de recurso personalizado de frente de tienda. | Recurso personalizado de frente de tienda eliminado. |
+| Create Storefront Custom Role | Creación de role personalizado de frente de tienda. | Role personalizado de frente de tienda creado. |
+| Delete Storefront Custom Role | Eliminación de role personalizado de frente de tienda. | Role personalizado de frente de tienda eliminado. |
+| Update Storefront Custom Role | Actualización de role personalizado de frente de tienda. | Role personalizado de frente de tienda actualizado. |
 
 ## VTEX ID
 
