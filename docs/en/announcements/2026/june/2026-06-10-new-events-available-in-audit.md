@@ -1,10 +1,10 @@
 ---
 title: 'New events available in Audit'
-createdAt: 2026-05-12T00:00:00.000Z
-updatedAt: 2026-05-12T00:00:00.000Z
+createdAt: 2026-06-10T00:00:00.000Z
+updatedAt: 2026-06-10T00:00:00.000Z
 contentType: updates
 productTeam: Storage
-slugEN: 2026-05-12-new-events-available-in-audit
+slugEN: 2026-06-10-new-events-available-in-audit
 locale: en
 announcementSynopsisEN: 'We''ve expanded the Audit event list with new records for the VTEX ID, Master Data, Orders, and Gift Cards applications, providing greater visibility into sensitive operations in your store.'
 tags:
