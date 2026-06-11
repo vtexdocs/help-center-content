@@ -13,7 +13,7 @@ locale: en
 
 The **Buyer Portal Checkout** is the new version of the VTEX checkout, designed to deliver a fast, customizable checkout experience. The solution was built based on the market's best usability practices and directly integrated into the B2B flows of the Buyer Portal, such as [Contracts](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#contracts), [Accounting Fields](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#accounting-fields), [Budgets](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#budgets), and [Buying Policies](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#buying-policies).
 
-![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/buyer-portal-checkout/.png)
+![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-en_1.png)
 
 ## Concept
 
