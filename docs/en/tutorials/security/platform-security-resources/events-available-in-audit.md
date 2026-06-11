@@ -230,6 +230,11 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | Resource Access Denied | Resource access denied. | Resource key and user ID to which access was denied. |
 | Create New AppToken | Creation of application key. | Application key created. |
 | Create Sponsor Invite | Creation of a sponsor user invitation. | ID of invited user. |
+| Create Storefront Custom Resource | Creation of a storefront custom resource. | Storefront custom resource created. |
+| Delete Storefront Custom Resource | Deletion of a storefront custom resource. | Storefront custom resource deleted. |
+| Create Storefront Custom Role | Creation of a storefront custom role. | Storefront custom role created. |
+| Delete Storefront Custom Role | Deletion of a storefront custom role. | Storefront custom role deleted. |
+| Update Storefront Custom Role | Update of a storefront custom role. | Storefront custom role updated. |
 
 ## VTEX ID
 
