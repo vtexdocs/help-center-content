@@ -20570,6 +20570,37 @@
             },
             {
               "name": {
+                "en": "Buyer portal checkout",
+                "es": "Buyer portal checkout",
+                "pt": "Buyer portal checkout"
+              },
+              "slug": {
+                "en": "buyer-portal-checkout",
+                "es": "buyer-portal-checkout",
+                "pt": "buyer-portal-checkout"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Buyer Portal Checkout",
+                    "es": "Buyer Portal Checkout",
+                    "pt": "Buyer Portal Checkout"
+                  },
+                  "slug": {
+                    "en": "buyer-portal-checkout-en",
+                    "es": "buyer-portal-checkout-es",
+                    "pt": "buyer-portal-checkout-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Using reCAPTCHA at Checkout",
                 "es": "reCAPTCHA en el checkout",
                 "pt": "reCAPTCHA no Checkout"
