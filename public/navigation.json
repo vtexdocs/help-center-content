@@ -52205,6 +52205,21 @@
             },
             {
               "name": {
+                "en": "Indexing History page shows high volume of products with indexing delay",
+                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
+                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+              },
+              "slug": {
+                "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
+                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
+                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Banner update via Image URL does not work correctly",
                 "es": "La actualización del banner de búsqueda inteligente mediante la URL de la imagen no funciona correctamente",
                 "pt": "A atualização do banner de pesquisa inteligente por meio do URL da imagem não funciona corretamente"
@@ -52588,21 +52603,6 @@
                 "en": "product-image-sorting-doesnt-respect-the-catalog-order",
                 "es": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
                 "pt": "a-classificacao-da-imagem-do-produto-nao-respeita-a-ordem-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Product indexing may show a high delay in Indexing History",
-                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
-                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
-              },
-              "slug": {
-                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
-                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
-                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
               },
               "origin": "",
               "type": "markdown",
