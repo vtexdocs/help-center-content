@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "2026-june",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-06-10-new-events-available-in-audit",
+                    "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "May",
                 "es": "Mayo",
                 "pt": "Maio"
@@ -11142,9 +11173,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Legacy CMS Portal",
-                    "es": "3. CMS - Portal Legado",
-                    "pt": "3. CMS - Portal Legado"
+                    "en": "3. CMS Portal (Legacy)",
+                    "es": "3. CMS Portal (Legado)",
+                    "pt": "3. CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "legacy-cms-portal",
@@ -20628,6 +20659,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Collaboration workflows",
+                    "es": "Flujos de trabajo de colaboración",
+                    "pt": "Fluxos de trabalho de colaboração"
+                  },
+                  "slug": {
+                    "en": "collaboration-workflows",
+                    "es": "flujos-de-trabajo-de-colaboracion",
+                    "pt": "fluxos-de-trabalho-de-colaboracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Managing versions and branches",
@@ -36141,7 +36187,7 @@
                 {
                   "name": {
                     "en": "Configuring SEO in your Store Framework store",
-                    "es": "Configurar SEO en la tienda Store Framework",
+                    "es": "Configurar SEO en tu tienda Store Framework",
                     "pt": "Configurando SEO em sua loja Store Framework"
                   },
                   "slug": {
@@ -38806,6 +38852,21 @@
                 "en": "external-clients-are-receiving-301-erros-when-trying-to-access-vteximg",
                 "es": "los-clientes-externos-reciben-301-errores-al-intentar-acceder-a-vteximg",
                 "pt": "os-clientes-externos-estao-recebendo-301-erros-ao-tentar-acessar-o-vteximg"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Infinite login loop when opening private GraphiQL link from terminal",
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
+                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+              },
+              "slug": {
+                "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
               },
               "origin": "",
               "type": "markdown",
@@ -48007,6 +48068,21 @@
                 "en": "hcms-generate-a-blank-page-in-some-releases",
                 "es": "hcms-genera-una-pagina-en-blanco-en-algunas-versiones",
                 "pt": "o-hcms-gera-uma-pagina-em-branco-em-algumas-versoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "hCMS Page Becomes Inaccessible After Content-Type Schema Changes",
+                "es": "La página de hCMS deja de estar disponible tras los cambios en el esquema del tipo de contenido",
+                "pt": "Página do hCMS fica inacessível após alterações no esquema de tipo de conteúdo"
+              },
+              "slug": {
+                "en": "hcms-page-becomes-inaccessible-after-contenttype-schema-changes",
+                "es": "la-pagina-de-hcms-deja-de-estar-disponible-tras-los-cambios-en-el-esquema-del-tipo-de-contenido",
+                "pt": "pagina-do-hcms-fica-inacessivel-apos-alteracoes-no-esquema-de-tipo-de-conteudo"
               },
               "origin": "",
               "type": "markdown",
