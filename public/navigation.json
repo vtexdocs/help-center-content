@@ -25,6 +25,83 @@
           "children": [
             {
               "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "2026-june",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-06-10-new-events-available-in-audit",
+                    "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "2026-may",
+                "es": "2026-mayo",
+                "pt": "2026-maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: Custom data now visible in the VTEX Admin",
+                    "es": "Pedidos: datos personalizados ahora visibles en el Admin VTEX",
+                    "pt": "Pedidos: dados personalizados agora visíveis no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-05-22-orders-custom-data-now-visible-in-the-vtex-admin",
+                    "es": "2026-05-22-pedidos-datos-personalizados-ahora-visibles-en-el-admin-vtex",
+                    "pt": "2026-05-22-pedidos-dados-personalizados-agora-visiveis-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Operational capacity is now available globally",
+                    "es": "Capacidad operativa disponible a nivel global",
+                    "pt": "Capacidade operacional disponível globalmente"
+                  },
+                  "slug": {
+                    "en": "2026-05-19-operational-capacity-now-in-ga",
+                    "es": "2026-05-19-capacidad-operativa-disponible-nivel-global",
+                    "pt": "2026-05-19-capacidade-operacional-disponivel-em-ga"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
@@ -8790,14 +8867,14 @@
             },
             {
               "name": {
-                "en": "Why VTEX search engine ignores some terms",
-                "es": "Por que el buscador de VTEX ignora algunos términos buscados",
-                "pt": "Por que o buscador da VTEX ignora alguns termos buscados"
+                "en": "Why VTEX Search (Legacy) engine ignores some terms",
+                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
+                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
               },
               "slug": {
-                "en": "why-vtex-search-engine-ignores-some-terms",
-                "es": "por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados",
-                "pt": "por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados"
+                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
+                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
+                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
               },
               "origin": "",
               "type": "markdown",
@@ -11081,9 +11158,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Store Framework CMS",
-                    "es": "2. Store Framework CMS",
-                    "pt": "2. Store Framework CMS"
+                    "en": "2. CMS for Store Framework",
+                    "es": "2. CMS para Store Framework",
+                    "pt": "2. CMS para Store Framework"
                   },
                   "slug": {
                     "en": "cms-vtex-io",
@@ -11096,9 +11173,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Legacy CMS Portal",
-                    "es": "3. CMS - Portal Legado",
-                    "pt": "3. CMS - Portal Legado"
+                    "en": "3. CMS Portal (Legacy)",
+                    "es": "3. CMS Portal (Legado)",
+                    "pt": "3. CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "legacy-cms-portal",
@@ -11157,14 +11234,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Understanding your account",
-                    "es": "1. Entendiendo su cuenta",
-                    "pt": "1. Entendendo a sua conta"
+                    "en": "1. Introduction to Account Management",
+                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "understanding-your-account",
-                    "es": "entendiendo-su-cuenta",
-                    "pt": "entendendo-a-sua-conta"
+                    "en": "placeholder-introduction-to-account-management",
+                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11172,14 +11249,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Editing account data",
-                    "es": "2. Editar datos de la cuenta",
-                    "pt": "2. Editar dados da conta"
+                    "en": "2. Users and Roles",
+                    "es": "2. Usuarios y Roles",
+                    "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "editing-account-data",
-                    "es": "editar-datos-de-la-cuenta",
-                    "pt": "editar-dados-da-conta"
+                    "en": "placeholder-users-and-roles",
+                    "es": "placeholder-usuarios-y-roles",
+                    "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11187,14 +11264,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. What are permissions and roles",
-                    "es": "3. ¿Qué son permisos y perfiles de acceso?",
-                    "pt": "3. O que são permissões e perfis de acesso"
+                    "en": "3. Authentication and Security",
+                    "es": "3. Autenticación y Seguridad",
+                    "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "what-are-permissions-and-access-profiles",
-                    "es": "que-son-permisos-y-perfiles-de-acceso",
-                    "pt": "o-que-sao-permissoes-e-perfis-de-acesso"
+                    "en": "placeholder-authentication-and-security",
+                    "es": "placeholder-autenticacion-y-seguridad",
+                    "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11202,104 +11279,14 @@
                 },
                 {
                   "name": {
-                    "en": "4. Creating and editing roles",
-                    "es": "4. Crear y editar perfiles de acceso",
-                    "pt": "4. Criar e editar perfis de acesso"
+                    "en": "4. API Keys for Integrations",
+                    "es": "4. Claves de API para Integraciones",
+                    "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "creating-and-editing-access-profiles",
-                    "es": "crear-y-editar-perfiles-de-acceso",
-                    "pt": "criar-e-editar-perfis-de-acesso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Creating and editing users",
-                    "es": "5. Crear y editar usuario",
-                    "pt": "5. Criar e editar usuário"
-                  },
-                  "slug": {
-                    "en": "creating-and-editing-users",
-                    "es": "crear-y-editar-usuario",
-                    "pt": "criar-e-editar-usuario"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. What is the Sponsor user",
-                    "es": "6. Qué es el usuario titular",
-                    "pt": "6. O que é o usuário Titular"
-                  },
-                  "slug": {
-                    "en": "what-is-the-master-user",
-                    "es": "que-es-el-usuario-master",
-                    "pt": "o-que-e-o-usuario-master"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "7. How the account relates to the website's pages",
-                    "es": "7. Cómo se relaciona la cuenta con las páginas del sitio web",
-                    "pt": "7. Como a conta se relaciona às páginas do site"
-                  },
-                  "slug": {
-                    "en": "como-a-conta-se-relaciona-as-paginas-do-site",
-                    "es": "como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web",
-                    "pt": "como-a-conta-se-relaciona-as-paginas-do-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
-                  },
-                  "slug": {
-                    "en": "enabling-2-factor-authentication-login",
-                    "es": "habilitar-inicio-de-sesion-por-autenticacion-de-2-factores",
-                    "pt": "habilitar-login-por-autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "9. Configuring login with Facebook",
-                    "es": "9. Configurar inicio de sesión con Facebook",
-                    "pt": "9. Configurar login com Facebook"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-facebook",
-                    "es": "configurar-inicio-de-sesion-con-facebook",
-                    "pt": "configurar-login-com-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "10. Configuring login with Google",
-                    "es": "10. Configurar inicio de sesión con Google",
-                    "pt": "10. Configurar login com Google"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-google",
-                    "es": "configurar-inicio-de-sesion-con-google",
-                    "pt": "configurar-login-com-google"
+                    "en": "placeholder-api-keys-for-integrations",
+                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14567,9 +14554,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Configuring Price Divergence rule",
-                    "es": "3. Configuración de regla de Divergencia de precios",
-                    "pt": "3. Configurar Regra de divergência de valores"
+                    "en": "3. Shipping strategy: Shopee seller logistics",
+                    "es": "3. Estrategia de envío: logística del vendedor Shopee",
+                    "pt": "3. Estratégia de envio: logística do vendedor Shopee"
+                  },
+                  "slug": {
+                    "en": "seller-logistics-shopee",
+                    "es": "logistica-del-vendedor-shopee",
+                    "pt": "logistica-do-vendedor-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Configuring Price Divergence rule",
+                    "es": "4. Configuración de regla de Divergencia de precios",
+                    "pt": "4. Configurar Regra de divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule-shopee",
@@ -14582,9 +14584,24 @@
                 },
                 {
                   "name": {
-                    "en": "4. Install and configure Shopee connector",
-                    "es": "4. Instalar y configurar el conector Shopee",
-                    "pt": "4. Instalar e Configurar conector Shopee"
+                    "en": "5. Shipping strategy: Shopee full logistics",
+                    "es": "5. Estrategia de envío: Shopee full logistics",
+                    "pt": "5. Estratégia de envio: Shopee full logistics"
+                  },
+                  "slug": {
+                    "en": "shopee-full-logistics",
+                    "es": "shopee-full-logistics",
+                    "pt": "shopee-full-logistics"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Install and configure Shopee connector",
+                    "es": "6. Instalar y configurar el conector Shopee",
+                    "pt": "6. Instalar e Configurar conector Shopee"
                   },
                   "slug": {
                     "en": "install-and-configure-shopee-connector",
@@ -14597,9 +14614,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Mapping product categories and attributes to Shopee",
-                    "es": "5. Mapear categorías y atributos de los productos para Shopee",
-                    "pt": "5. Mapeamento de categorias e atributos dos produtos para a Shopee"
+                    "en": "7. Mapping product categories and attributes to Shopee",
+                    "es": "7. Mapear categorías y atributos de los productos para Shopee",
+                    "pt": "7. Mapeamento de categorias e atributos dos produtos para a Shopee"
                   },
                   "slug": {
                     "en": "mapping-product-categories-and-attributes-to-shopee",
@@ -15884,6 +15901,21 @@
             },
             {
               "name": {
+                "en": "My product or category page shows 'Page Not Found'",
+                "es": "Mi página de producto o de categoría muestra 'Página no encontrada'",
+                "pt": "Minha página de produto ou categoria exibe 'Página não encontrada'"
+              },
+              "slug": {
+                "en": "my-product-or-category-page-shows-page-not-found",
+                "es": "mi-pagina-de-producto-o-categoria-muestra-pagina-no-encontrada",
+                "pt": "minha-pagina-de-produto-ou-categoria-exibe-pagina-nao-encontrada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "The promotion wasn't applied to the customer cluster",
                 "es": "La promoción no se aplicó al clúster de clientes",
                 "pt": "Promoção não foi aplicada ao cluster de clientes"
@@ -17033,9 +17065,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
+                    "en": "Enabling two-factor authentication login",
+                    "es": "Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -17947,8 +17979,8 @@
                 },
                 {
                   "name": {
-                    "en": "Product Recommendations (Beta)",
-                    "es": "Recomendaciones de productos (Beta)",
+                    "en": "Product Recommendations (beta)",
+                    "es": "Recomendaciones de productos (beta)",
                     "pt": "Recomendações de produtos (Beta)"
                   },
                   "slug": {
@@ -18187,21 +18219,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Operational capacity (Beta)",
-                    "es": "Capacidad operativa (beta)",
-                    "pt": "Capacidade operacional (Beta)"
-                  },
-                  "slug": {
-                    "en": "operational-capacity-beta",
-                    "es": "capacidad-operacional-beta",
-                    "pt": "capacidade-operacional-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -18394,6 +18411,21 @@
                     "en": "promotions",
                     "es": "promociones",
                     "pt": "promocoes-data-pipeline-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Search and Recommendations Data Pipeline",
+                    "es": "Búsqueda y recomendaciones: Data Pipeline",
+                    "pt": "Busca e Recomendações Data Pipeline"
+                  },
+                  "slug": {
+                    "en": "search-and-recomendations-data-pipeline",
+                    "es": "busqueda-y-recomendaciones-data-pipeline",
+                    "pt": "busca-e-recomendacoes-data-pipeline"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19947,14 +19979,14 @@
                 },
                 {
                   "name": {
-                    "en": "How VTEX search works",
-                    "es": "Cómo funciona la búsqueda de VTEX",
-                    "pt": "Como funciona a busca da VTEX"
+                    "en": "How VTEX Search (Legacy) works",
+                    "es": "Cómo funciona la VTEX Search (Legado)",
+                    "pt": "Como funciona a VTEX Search (Legado)"
                   },
                   "slug": {
-                    "en": "how-does-vtex-search-work",
-                    "es": "como-funciona-la-busqueda-de-vtex",
-                    "pt": "como-funciona-a-busca-da-vtex"
+                    "en": "how-does-vtex-search-legacy-work",
+                    "es": "como-funciona-vtex-search-legado",
+                    "pt": "como-funciona-vtex-search-legado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20491,21 +20523,6 @@
                 },
                 {
                   "name": {
-                    "en": "orderForm settings",
-                    "es": "Configuración de orderForm",
-                    "pt": "Configurações do orderForm"
-                  },
-                  "slug": {
-                    "en": "orderform-settings",
-                    "es": "configuracion-de-orderform",
-                    "pt": "configuracoes-do-orderform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up Cart Abandonment (Trigger)",
                     "es": "Configurar carrito abandonado",
                     "pt": "Configurar Carrinho Abandonado"
@@ -20658,6 +20675,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Collaboration workflows",
+                    "es": "Flujos de trabajo de colaboración",
+                    "pt": "Fluxos de trabalho de colaboração"
+                  },
+                  "slug": {
+                    "en": "collaboration-workflows",
+                    "es": "flujos-de-trabajo-de-colaboracion",
+                    "pt": "fluxos-de-trabalho-de-colaboracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Managing versions and branches",
@@ -23173,8 +23205,8 @@
                 },
                 {
                   "name": {
-                    "en": "Insert reverse proxy in front of VTEX services",
-                    "es": "​​Insertar un proxy inverso delante de los servicios de VTEX",
+                    "en": "Inserting a reverse proxy in front of VTEX services",
+                    "es": "Insertar un proxy inverso delante de los servicios de VTEX",
                     "pt": "Inserir um proxy reverso em frente aos serviços da VTEX"
                   },
                   "slug": {
@@ -25373,8 +25405,8 @@
                   },
                   "slug": {
                     "en": "master-data",
-                    "es": "master-data",
-                    "pt": "master-data"
+                    "es": "master-data-es",
+                    "pt": "master-data-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34059,6 +34091,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configure scheduled delivery in Buyer Portal Checkout",
+                    "es": "Configurar entrega programada en Buyer Portal Checkout",
+                    "pt": "Configurar entrega agendada no Buyer Portal Checkout"
+                  },
+                  "slug": {
+                    "en": "configure-scheduled-delivery-buyer-portal-checkout",
+                    "es": "configurar-entrega-programada-buyer-portal-checkout",
+                    "pt": "configurar-entrega-agendada-buyer-portal-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a shipping policy",
                     "es": "Crear una política de envío",
                     "pt": "Criar uma política de envio"
@@ -34594,6 +34641,37 @@
                     "en": "ready-to-dispatch",
                     "es": "listos-para-despacho",
                     "pt": "pronto-para-envio"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Operational capacity",
+                "es": "Capacidad operativa",
+                "pt": "Capacidade operacional"
+              },
+              "slug": {
+                "en": "operational-capacity-category",
+                "es": "capacidad-operativa-category",
+                "pt": "capacidade-operacional-category"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Operational capacity",
+                    "es": "Capacidad operativa",
+                    "pt": "Capacidade operacional"
+                  },
+                  "slug": {
+                    "en": "operational-capacity",
+                    "es": "capacidad-operativa",
+                    "pt": "capacidade-operacional"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36035,27 +36113,12 @@
                   "name": {
                     "en": "Create active agents",
                     "es": "Creando agentes activos",
-                    "pt": "Criar agentes ativos"
+                    "pt": "Criar automações do CX"
                   },
                   "slug": {
-                    "en": "create-active-agents",
-                    "es": "creando-agentes-activos",
-                    "pt": "criando-agentes-ativos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps",
-                    "es": "Primeros pasos",
-                    "pt": "First steps"
-                  },
-                  "slug": {
-                    "en": "first-steps",
-                    "es": "primeros-pasos",
-                    "pt": ""
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36065,27 +36128,12 @@
                   "name": {
                     "en": "Introduction to Agentic CX",
                     "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao Agentic CX"
+                    "pt": "Introdução ao CX"
                   },
                   "slug": {
-                    "en": "introduction-to-agentic-cx",
-                    "es": "introduccion-a-agentic-ai",
-                    "pt": "introducao-ao-agentic-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Agentic CX",
-                    "es": "Instalando a Agentic CX",
-                    "pt": "Configurar o Agentic CX"
-                  },
-                  "slug": {
-                    "en": "manage-agentic-cx",
-                    "es": "instalando-a-agentic-cx",
-                    "pt": "configurar-o-agentic-cx"
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36155,7 +36203,7 @@
                 {
                   "name": {
                     "en": "Configuring SEO in your Store Framework store",
-                    "es": "Configurar SEO en la tienda Store Framework",
+                    "es": "Configurar SEO en tu tienda Store Framework",
                     "pt": "Configurando SEO em sua loja Store Framework"
                   },
                   "slug": {
@@ -36831,6 +36879,21 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
@@ -38805,6 +38868,21 @@
                 "en": "external-clients-are-receiving-301-erros-when-trying-to-access-vteximg",
                 "es": "los-clientes-externos-reciben-301-errores-al-intentar-acceder-a-vteximg",
                 "pt": "os-clientes-externos-estao-recebendo-301-erros-ao-tentar-acessar-o-vteximg"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Infinite login loop when opening private GraphiQL link from terminal",
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
+                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+              },
+              "slug": {
+                "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
               },
               "origin": "",
               "type": "markdown",
@@ -48013,6 +48091,21 @@
             },
             {
               "name": {
+                "en": "hCMS Page Becomes Inaccessible After Content-Type Schema Changes",
+                "es": "La página de hCMS deja de estar disponible tras los cambios en el esquema del tipo de contenido",
+                "pt": "Página do hCMS fica inacessível após alterações no esquema de tipo de conteúdo"
+              },
+              "slug": {
+                "en": "hcms-page-becomes-inaccessible-after-contenttype-schema-changes",
+                "es": "la-pagina-de-hcms-deja-de-estar-disponible-tras-los-cambios-en-el-esquema-del-tipo-de-contenido",
+                "pt": "pagina-do-hcms-fica-inacessivel-apos-alteracoes-no-esquema-de-tipo-de-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "hCMS presents issues when trying to publish huge amount of content",
                 "es": "hCMS presenta problemas cuando se intenta publicar una gran cantidad de contenido",
                 "pt": "O hCMS apresenta problemas ao tentar publicar uma grande quantidade de conteúdo"
@@ -49994,6 +50087,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Error when accepting Buybox/ME2 suggestion: BRAND attribute required",
+                "es": "Mercado Livre Error al aceptar la sugerencia de Buybox/ME2: se requiere el atributo BRAND",
+                "pt": "Mercado Livre Erro ao aceitar a sugestão da Buybox/ME2: atributo BRAND obrigatório"
+              },
+              "slug": {
+                "en": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+                "es": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+                "pt": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre First-load failure in Mercado Libre Promotions Admin (data only loads after navigating away/back)",
                 "es": "Mercado Livre Fallo en la primera carga en la administración de promociones de Mercado Libre (los datos sólo se cargan después de navegar hacia atrás/atrás).",
                 "pt": "Mercado Livre Falha no primeiro carregamento na administração de promoções do Mercado Livre (os dados só são carregados depois de navegar para fora/voltar)"
@@ -50062,21 +50170,6 @@
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
                 "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND.",
-                "es": "Mercado Libre Es necesario crear los siguientes atributos para configurar me2: BRAND.",
-                "pt": "Mercado Livre Os seguintes atributos precisam ser criados para configurar o me2: BRAND."
-              },
-              "slug": {
-                "en": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
-                "es": "mercado-libre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-brand",
-                "pt": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand"
               },
               "origin": "",
               "type": "markdown",
@@ -52128,6 +52221,21 @@
             },
             {
               "name": {
+                "en": "Indexing History page shows high volume of products with indexing delay",
+                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
+                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+              },
+              "slug": {
+                "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
+                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
+                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Banner update via Image URL does not work correctly",
                 "es": "La actualización del banner de búsqueda inteligente mediante la URL de la imagen no funciona correctamente",
                 "pt": "A atualização do banner de pesquisa inteligente por meio do URL da imagem não funciona corretamente"
@@ -52511,21 +52619,6 @@
                 "en": "product-image-sorting-doesnt-respect-the-catalog-order",
                 "es": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
                 "pt": "a-classificacao-da-imagem-do-produto-nao-respeita-a-ordem-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Product indexing may show a high delay in Indexing History",
-                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
-                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
-              },
-              "slug": {
-                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
-                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
-                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
               },
               "origin": "",
               "type": "markdown",
