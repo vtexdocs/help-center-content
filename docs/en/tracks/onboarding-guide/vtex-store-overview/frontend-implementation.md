@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Frontend implementation'
 id: 67SCtUreXxKYWhZh8n0zvZ
 status: PUBLISHED
@@ -42,9 +42,9 @@ Before implementing the frontend, you should configure the following steps in yo
 
 ## Frontend development technologies on VTEX
 
-VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal). Legacy CMS Portal was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
+VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). CMS Portal (Legacy) was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
 
-> ⚠️ Although some stores still use it, the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) is a legacy technology and is no longer available to new stores starting with VTEX.
+> ⚠️ Although some stores still use it, the [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) is a legacy technology and is no longer available to new stores starting with VTEX.
 
 The following sections are about the main characteristics and features of FastStore and Store Framework.
 
@@ -64,7 +64,7 @@ The following table lists some of FastStore's main features:
 | [FastStore UI](https://www.faststore.dev/components) | Component library for ecommerce that provides basic features and design, enabling faster implementation and storefront customization. |
 | Headless technology | Customization process that separates the store code developed by the development team from the base code provided by VTEX. This simplifies updates to the store's frontend, allowing updates without impacting the customized code. |
 | [GitHub](https://github.com/) integration | Development teams can manage all storefront code using [GitHub](https://github.com/). |
-| [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview) | Content management system (CMS) that allows editing and creating new pages and previewing content changes. |
+| [Headless CMS (Legacy)](https://www.faststore.dev/docs/headless-cms-overview) | Content management system (CMS) that allows editing and creating new pages and previewing content changes. |
 | Automated checks | Functional tests and the store's performance and code quality assessment run continuously and automatically to identify slowdowns and bugs throughout the storefront development stage. |
 | [Intelligent Search](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account) integration | Autocomplete feature in the search bar, which also offers search suggestions and products based on configurable preferences. |
 | [Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout), [My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account), and [Login](https://www.faststore.dev/docs/go-live/3-integrating-the-the-vtex-login) integrations | Integration with other stages of the customer buying journey. VTEX stores previously developed using Store Framework can keep settings related to Checkout, My Account, and Login when migrated to FastStore, as they benefit from the same infrastructure. |
@@ -199,7 +199,7 @@ The table below compares the two technologies based on their main features:
     <tr>
         <td>Content Management Systems (CMS)</td>
         <td>Compatible with [Site Editor](/en/docs/tutorials/site-editor-overview).</td>
-        <td>Compatible with [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
+        <td>Compatible with [Headless CMS (Legacy)](https://www.faststore.dev/docs/headless-cms-overview).</td>
     </tr>
 </table>
 
@@ -236,10 +236,10 @@ Below are the requirements for each topic:
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
   - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
-- Headless CMS integration
-  - [Configuring Headless CMS in the account](https://www.faststore.dev/docs/headless-cms-integration/1-configuring-the-vtex-account)
+- Headless CMS (Legacy) integration
+  - [Configuring Headless CMS (Legacy) in the account](https://www.faststore.dev/docs/headless-cms-integration/1-configuring-the-vtex-account)
   - [Defining content types and sections that will be available](https://www.faststore.dev/docs/headless-cms-integration/2-setting-up-the-headless-cms)
-  - Creating and editing pages using Headless CMS in the VTEX Admin
+  - Creating and editing pages using Headless CMS (Legacy) in the VTEX Admin
 - Homepage
   - Editing the components and layouts already listed in [Starter](https://starter.vtex.app/)
 - Login page
