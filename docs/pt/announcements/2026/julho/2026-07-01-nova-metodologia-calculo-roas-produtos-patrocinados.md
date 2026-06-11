@@ -25,13 +25,13 @@ Outras alterações para anunciantes e publicadores:
 - O valor de ROAS exibido por padrão nos dashboards de campanhas, anúncios, anunciantes e publicadores passa a ser o consolidado para todos os formatos.
 - As colunas **ROAS click** e **ROAS view** ficam disponíveis como métricas opcionais para todos os usuários, permitindo entender a origem do resultado e comparar com períodos anteriores.
 - Os dados anteriores a 1º de julho de 2026 permanecem com o cálculo original, e os relatórios indicam a data de corte da mudança para evitar comparações inválidas entre períodos.
-- A metodologia de banners, vídeos e Sponsored Brands permanece a mesma.
+- A metodologia de banners, vídeos e **Sponsored Brands** permanece a mesma.
 
 > ⚠️ O ROAS reportado para produtos patrocinados tende a ficar maior após esta mudança. O aumento reflete uma medição mais completa do retorno gerado pelos anúncios, não uma melhora de performance da campanha.
 
 ## Ajuste na taxa de conversão por formato
 
-Também a partir de 1º de julho de 2026, a taxa de conversão deixa de usar apenas cliques como denominador para todos os formatos. Cada formato passa a usar o denominador adequado: cliques para produtos patrocinados e visualizações para banners, vídeos e Sponsored Brands. Os dashboards passam a exibir **Taxa de conversão (clique)** e **Taxa de conversão (visualização)** separadamente, com tooltips que explicam o cálculo de cada uma.
+Também a partir de 1º de julho de 2026, a taxa de conversão deixa de usar apenas cliques como denominador para todos os formatos. Cada formato passa a usar o denominador adequado: cliques para produtos patrocinados e visualizações para banners, vídeos e **Sponsored Brands**. Os dashboards passam a exibir **Taxa de conversão (clique)** e **Taxa de conversão (visualização)** separadamente, com tooltips que explicam o cálculo de cada uma.
 
 ## Por que mudou?
 
