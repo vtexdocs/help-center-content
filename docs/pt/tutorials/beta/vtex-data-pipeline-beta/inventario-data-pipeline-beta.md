@@ -48,8 +48,8 @@ Conheça a seguir os campos que constituem a tabela:
 | quantity | bigint | Quantidade total de itens em estoque para o item no depósito (quantidade física total). |
 | reserved_quantity | bigint | Número de reservas ativas do item. É calculado com base no último estado de disponibilidade e nos eventos de criação e cancelamento de reservas. |
 | last_update | timestamp without time zone | Última vez em que o estoque desse item específico foi atualizado. |
-| parent_account_name | character varying(200) | Nome da conta pai. Representa a conta no nível mais alto da estrutura; quando não encontrada, usa `main_account`. |
 | batch_id | character varying(13) | Identifica o último lote de ingestão que atualizou esta linha. Usado para rastreabilidade e qualidade de dados. |
+| parent_account_name | character varying(200) | Nome da conta pai. Representa a conta no nível mais alto da estrutura; quando não encontrada, usa `main_account`. |
 | record_created_at | timestamp without time zone | Timestamp de quando o registro foi inserido pela primeira vez no Lake House. |
 | record_updated_at | timestamp without time zone | Timestamp de quando o registro foi atualizado pela última vez no Lake House. |
 
@@ -60,17 +60,17 @@ Conheça a seguir os campos que constituem a tabela:
 | **Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna** |
 |---------|------------|----------|
 | warehouse_id | character varying(100) | Identificador do depósito. |
-| warehouse_name | character varying(200) | Nome do depósito conforme definido no Admin. |
+| warehouse_name | character varying(200) | Nome do depósito conforme a definição do Admin Console. |
 | account_id | character varying(38) | Identificador da conta. |
 | account_name | character varying(100) | Nome da conta. |
-| is_active | boolean | Indica se o depósito está ativo. |
-| warehouse_docks | super | Docks vinculados ao depósito. |
-| pickup_point_ids | super | Pickup points vinculados ao depósito. |
-| priority | integer | Critério de desempate para seleção de depósito em processos de roteamento. |
-| is_deleted | boolean | Indica se o depósito foi excluído. |
-| record_created_at | timestamp without time zone | Registro interno de quando a entidade depósito foi criada. |
-| record_updated_at | timestamp without time zone | Registro interno de quando a entidade depósito foi atualizada pela última vez. |
-| parent_account_name | character varying(50) | Nome da conta pai. Representa a conta no nível mais alto da estrutura; quando não encontrada, usa `main_account`. |
+| is_active | boolean | Valor booleano que indica se um depósito está ativo. |
+| warehouse_docks | super | Especifica quais docks estão vinculados ao depósito. |
+| pickup_point_ids | super | Especifica quais pickup points estão vinculados ao depósito. Usado em compras via salesapp, quando o comprador faz check-in diretamente no pickup point. |
+| priority | integer | Critério de desempate usado para selecionar um depósito quando dois ou mais têm a mesma pontuação durante o processo de seleção de rota. |
+| is_deleted | boolean | Valor booleano que indica se um depósito foi excluído do admin console. |
+| record_created_at | timestamp without time zone | Timestamp que indica quando o registro foi inserido. |
+| record_updated_at | timestamp without time zone | Timestamp que indica a última vez que o registro foi atualizado. |
+| parent_account_name | varchar(50) | Nome da conta pai no License Manager. É a estrutura de conta de nível mais alto. |
 
 ## Análises com dados de inventário
 
