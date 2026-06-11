@@ -5,7 +5,7 @@ createdAt: 2026-04-24T18:00:00.000Z
 updatedAt: 2026-04-24T18:00:00.000Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: buyer-portal-checkout
+slugEN: buyer-portal-checkout-en
 locale: pt
 ---
 
