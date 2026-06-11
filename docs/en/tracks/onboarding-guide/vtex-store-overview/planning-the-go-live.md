@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Planning the go-live'
 id: 6xYnNxDHUcY6FyChgziCoH
 status: PUBLISHED
@@ -119,11 +119,11 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
   <tbody>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Store Framework or FastStore (VTEX IO)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Request [internal DNS pointing for VTEX IO](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing) by submitting a ticket to [VTEX Support](https://supporticket.vtex.com/support).<br> <br>More information in the articles:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
+      <td class="t-body pa5" style="min-width: 10rem;">Request [internal DNS pointing for VTEX IO](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing) by submitting a ticket to [VTEX Support](https://supporticket.vtex.com/support).<br> <br>More information in the articles:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from CMS Portal (Legacy) to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 10rem;">Legacy CMS Portal</td>
-      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the sales channel and the configured conditional rule.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legacy)</td>
+      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the sales channel and the configured conditional rule.</td>
     </tr>
   </tbody>
   </table>
@@ -131,7 +131,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
 Regardless of the request type, the ticket to VTEX Support must have the following information:
 
 - Title stating the intention to go live.
-- If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or Legacy CMS Portal.
+- If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or CMS Portal (Legacy).
 - URL to be pointed to.
 - Time for internal pointing to be carried out, between 9 a.m. and 5 p.m. UTC-3.
 - Indicate if the store has conditional rules for [sales channels](/en/docs/tutorials/creating-a-trade-policy).

@@ -1,5 +1,5 @@
----
-title: 'Headless CMS: Simplify content creation and management with Projects'
+﻿---
+title: 'Headless CMS (Legacy): Simplify content creation and management with Projects'
 id: 6pl14hf2E6sNgR9ykCJkj8
 status: PUBLISHED
 createdAt: 2023-11-01T16:39:47.055Z
@@ -12,10 +12,10 @@ slugEN: 2023-11-01-headless-cms-simplify-content-creation-and-management-with-pr
 locale: en
 legacySlug: headless-cms-simplify-content-creation-and-management-with-projects
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'Headless CMS - Centralize and customize your projects in one place.'
+announcementSynopsisEN: 'Headless CMS (Legacy) - Centralize and customize your projects in one place.'
 ---
 
-**Projects** is the new feature in the Headless CMS that streamlines the management of multiple digital experiences, such as mobile apps, websites, and email marketing, from one control panel. 
+**Projects** is the new feature in the Headless CMS (Legacy) that streamlines the management of multiple digital experiences, such as mobile apps, websites, and email marketing, from one control panel. 
 
 ![Projects overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/november/2023-11-01-headless-cms-simplify-content-creation-and-management-with-projects_1.png)
 
@@ -36,5 +36,5 @@ The **Projects** interface brings the following improvements:
 - To effectively cater to specific audiences or objectives by having separate projects.
 
 ## What needs to be done?
-The feature is already available for all accounts with Headless CMS installed. Refer to the [Managing Projects](/en/docs/tutorials/managing-projects) guide for more information on using the feature.
+The feature is already available for all accounts with Headless CMS (Legacy) installed. Refer to the [Managing Projects](/en/docs/tutorials/managing-projects) guide for more information on using the feature.
 
