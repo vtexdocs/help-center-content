@@ -22,6 +22,7 @@ A seção **Meus agentes** permite atribuir agentes ao time e testar sua operaç
 Este artigo está dividido nas seguintes seções:
 
 - [Atribuir um agente ao time](#atribuir-um-agente-ao-time)
+- [Remover um agente](#remover-um-agente)
 - [Testar um agente](#testar-um-agente)
 
 ## Atribuir um agente ao time
@@ -30,7 +31,7 @@ Para atribuir um novo agente em sua loja, siga os passos abaixo:
 
 1. Acesse sua organização no [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique no ícone **Meus agentes**.
-3. Clique em <i class="fas fa-plus"></i>`Atribuir novos agentes`.
+3. Clique em <i class="fas fa-plus" aria-hidden="true"></i>`Atribuir novos agentes`.
 4. Na página **Atribuir novos agentes**, selecione uma das opções disponíveis:
  - **Agentes oficiais:** agentes da VTEX ou de integrações externas previamente cadastradas na plataforma.
  - **Agentes personalizados:** agentes criados para sua operação.
@@ -54,8 +55,8 @@ Para remover um agente de sua loja, siga os passos abaixo:
 1. Acesse sua organização no [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique no ícone **Meus agentes**.
 3. Na seção **Agentes atribuídos**, clique sobre o agente desejado.
-4. Clique em **Ver opções**.
-5. Clique em **Remover agente**.
+4. Clique em `Ver opções`.
+5. Clique em `Remover agente`.
 
 > ℹ️ Caso deseje utilizar novamente este agente, realize a nova atribuição conforme descrito em [Atribuir um agente ao time](#atribuir-um-agente-ao-time).
 
@@ -68,8 +69,8 @@ Na seção **Teste seus agentes**, você pode:
 
 - Selecionar, no campo **Versão do Manager**, o modelo que atuará como agente orquestrador durante a conversa.
 - Iniciar uma conversa usando a caixa de diálogo.
-- Enviar uma mensagem de áudio clicando no ícone de microfone ou no botão <i class="fas fa-plus"></i> e, em seguida, em `Áudio`.
-- Enviar arquivos clicando no botão <i class="fas fa-plus"></i> e, em seguida, em `Enviar arquivo`.
+- Enviar uma mensagem de áudio clicando no ícone de microfone ou no botão <i class="fas fa-plus" aria-hidden="true"></i> e, em seguida, em `Áudio`.
+- Enviar arquivos clicando no botão <i class="fas fa-plus" aria-hidden="true"></i> e, em seguida, em `Enviar arquivo`.
 - Na aba **Fluxo visual**, visualizar em formato de diagrama quais agentes estão sendo acionados para produzir a resposta exibida na caixa de diálogo.
 - Na aba **Logs**, verificar o registro detalhado dos eventos processados pelo modelo de IA durante a conversa. Essas informações ajudam a entender o processamento da conversa, identificar possíveis problemas e melhorar o desempenho do agente.
 
@@ -80,12 +81,11 @@ Para buscar eventos específicos, clique em `Filtrar logs` e pesquise por palavr
 | Aplicando regras de segurança | Verificação de segurança do conteúdo, incluindo proteção de dados sensíveis, bloqueio de conteúdos proibidos e aplicação de políticas de uso. |
 | Atribuindo tarefa ao agente | Definição do agente especializado ou recurso interno que será responsável por uma etapa da conversa. |
 | Conhecimento | Consulta à base de conhecimento, como documentação, artigos do Help Center ou conteúdos internos, para buscar informações oficiais antes da resposta. |
-| Encaminhando para o manager | Retorno do controle ao Manager para definição da próxima etapa da conversa. |
+| Encaminhando para o manager | Retorno do controle ao manager para definição da próxima etapa da conversa. |
 | Encaminhando para suporte humano | Encaminhamento da conversa para atendimento humano devido a uma limitação técnica, exceção ou regra de negócio. |
 | Enviando para o manager | Envio do resultado de uma ferramenta, agente ou etapa do fluxo ao Manager para processamento. |
 | Enviando resposta final | Envio da resposta ao usuário após a conclusão da orquestração interna. |
 | Ferramenta | Uso de um recurso externo ou módulo específico, como consulta de pedidos, análise de imagem, transcrição de áudio ou busca em outro sistema. |
 | Pensando | Etapa em que o modelo processa internamente a solicitação, planeja a resposta e decide se deve acionar ferramentas, consultar conhecimento ou encaminhar a conversa para outro fluxo. |
 
-
-> ℹ️ Para remover o histórico das conversas com o agente orquestrador, clique no menu <i class="fas fa-ellipsis-v"></i> ao lado de **Teste seus agentes** e, em seguida, em `Limpar conversas`.
+> ℹ️ Para remover o histórico das conversas com o agente orquestrador, clique no menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado de **Teste seus agentes** e, em seguida, em `Limpar conversas`.
