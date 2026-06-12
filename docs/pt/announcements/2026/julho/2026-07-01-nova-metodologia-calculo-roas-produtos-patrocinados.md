@@ -16,14 +16,14 @@ A partir de 1º de julho de 2026, o cálculo do **ROAS** exibido para campanhas 
 
 ## O que mudou?
 
-Antes desta atualização, o ROAS de campanhas de produtos patrocinados considerava apenas conversões geradas por clique, em uma janela de 14 dias. Agora, o cálculo passa a incluir também as conversões atribuídas a usuários que visualizaram o anúncio sem clicar. Cada tipo de atribuição usa uma janela própria: 7 dias para conversões por clique e um dia para conversões por visualização.
+Antes desta atualização, o ROAS de campanhas de produtos patrocinados considerava apenas conversões geradas por clique, em uma janela de 7 dias. Agora, o cálculo passa a incluir também as conversões atribuídas a usuários que visualizaram o anúncio sem clicar. A janela de conversões por clique permanece em 7 dias, e as conversões por visualização usam uma janela própria de um dia.
 
 A fórmula do ROAS consolidado permanece: receita atribuída (clique e visualização) dividida pelo custo total. A mudança ocorre apenas no numerador para produtos patrocinados, que passa a incluir a receita por visualização.
 
 Outras alterações para anunciantes e publicadores:
 
 - O valor de ROAS exibido por padrão nos dashboards de campanhas, anúncios, anunciantes e publicadores passa a ser o consolidado para todos os formatos.
-- As colunas **ROAS click** e **ROAS view** ficam disponíveis como métricas opcionais para todos os usuários, permitindo entender a origem do resultado e comparar com períodos anteriores.
+- As colunas **ROAS click** e **ROAS view** ficam disponíveis como métricas opcionais para usuários com permissão de administrador (superAdmin), permitindo entender a origem do resultado e comparar com períodos anteriores. Essas colunas não exibem dados anteriores a 25 de março de 2026.
 - Os dados anteriores a 1º de julho de 2026 permanecem com o cálculo original, e os relatórios indicam a data de corte da mudança para evitar comparações inválidas entre períodos.
 - A metodologia de banners, vídeos e **Sponsored Brands** permanece a mesma.
 
@@ -42,4 +42,4 @@ A padronização elimina a inconsistência metodológica entre formatos dentro d
 Nenhuma ação é necessária para que as mudanças entrem em vigor. Recomendamos que anunciantes e publicadores:
 
 - Considerem o ROAS consolidado como referência principal a partir de 1º de julho de 2026.
-- Utilizem as colunas **ROAS click** e **ROAS view** ao analisar a origem dos resultados e ao comparar campanhas com períodos anteriores à mudança.
+- Utilizem as colunas **ROAS click** e **ROAS view** (disponíveis para usuários com permissão de administrador) ao analisar a origem dos resultados e ao comparar campanhas com períodos anteriores à mudança.
