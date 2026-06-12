@@ -51,9 +51,7 @@ As configurações de filtros apresentam ajustes relacionados aos filtros exibid
 
     Para voltar a exibir um filtro, clique no X ao lado do nome dele. Se deseja voltar a exibir todos os filtros anteriormente ocultos, clique no X do lado direito do campo.
 
-* **Cobertura mínima de resultados para filtros:** define o percentual mínimo de resultados de busca que um valor de filtro precisa cobrir para ser exibido aos clientes. Valores de filtro que não atingem esse limite são ocultados automaticamente, mantendo o painel de filtros focado nas opções mais relevantes para cada contexto de busca.
+* **Cobertura mínima de resultados para filtros:** oculta filtros em que nenhuma opção atinge um percentual mínimo de cobertura sobre o total de resultados da busca. É possível excluir filtros específicos dessa regra para que sejam sempre exibidos, independentemente da configuração. Essa funcionalidade está disponível mediante solicitação ao [Suporte VTEX](https://supporticket.vtex.com/support).
 
-    Por exemplo, se a cobertura mínima for definida como 5%, o valor de filtro "Cor: Roxo" que se aplica a menos de 5% dos resultados da busca atual não será exibido.
-
-    > ℹ️ Antes de aplicar essa configuração em produção, utilize o **Intelligent Search Explorer** no Admin VTEX para calibrar o limite com base em cenários de busca reais e verificar como diferentes valores impactam a visibilidade dos filtros.
+    Por exemplo, se a cobertura mínima for definida como 5%, um filtro em que todas as opções se aplicam a menos de 5% dos resultados da busca atual não será exibido.
 
