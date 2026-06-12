@@ -29,11 +29,11 @@ Follow the instructions to enable login via external IdP:
 4. If you want to enable login for the organization, proceed to step 5. If you want to select a child organization to enable, click **Organizational Units** and then the name of the organizational unit.
 5. Click the **⋮** menu and then **Authentication**.
 
-   ![habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo_1.png)
+   ![enable-login-for-the-organization-via-an-external-identity-provider-idp_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-account/enable-login-for-the-organization-via-an-external-identity-provider-idp_1.png)
 
 6. In the **Authentication methods** section, select one or more desired options (in the example image below, the external IdP option is PingFederate (SSO)). Remember to deselect authentication methods that won't be used.
 
-![habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo_2.png)
+![enable-login-for-the-organization-via-an-external-identity-provider-idp_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-account/enable-login-for-the-organization-via-an-external-identity-provider-idp_2.png)
 
 7. Click `Save`.
 

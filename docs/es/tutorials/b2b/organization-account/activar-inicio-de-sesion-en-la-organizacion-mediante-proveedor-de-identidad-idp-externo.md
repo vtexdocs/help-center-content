@@ -29,11 +29,11 @@ Sigue las instrucciones a continuación para activar el inicio de sesión median
 4. Si deseas activar el inicio de sesión para la organización, continúa con el paso 5. Si deseas activar una organización hija, haz clic en **Unidades organizativas** y luego en el nombre de la unidad organizativa.
 5. Haz clic en el menú **⋮** y luego en **Autenticación**.
 
-   ![activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo_1.png)
+   ![activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organization-account/activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo_1.png)
 
 6. En la sección **Métodos de autenticación**, selecciona una o más opciones deseadas (en el ejemplo de la imagen a continuación, la opción de IdP externo es PingFederate (SSO). Recuerda desmarcar los métodos de autenticación que no vayan a utilizarse.
 
-![activar-inicio-de-sesion-en-la-organizacion-a-traves-de-un-proveedor-de-identidad-idp-externo_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo_2.png)
+![activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organization-account/activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo_2.png)
 
 7. Haz clic en `Guardar`.
 
