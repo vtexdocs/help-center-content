@@ -64,6 +64,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Order Cancellation | Cancelamento de pedido. | ID do pedido. |
 | Start Handling | Ação que sinaliza para a VTEX que a loja iniciou o manuseio de um dado pedido. Isso desencadeia a continuidade do fluxo deste pedido. | ID do pedido. |
 | Notify Payment | Envio de notificação de pagamento para um dado pedido. | ID do pedido. |
+| GetUnmaskedPersonalInformation | Leitura de informação pessoal desmascarada em um pedido. | ID do pedido. |
+| UpdatePersonalInformation | Atualização de informação pessoal em um pedido. | ID do pedido. |
 
 ## Autorização de pedido
 
@@ -182,6 +184,14 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | EDIT_GIFT_CARD | Edição de valor de vale-presente. | add-gift-card-value |
 | CREATE_GIFT_CARD | Criação de vale-presente. | create-multiple-gift-cards |
 | LIST_CARDS_FROM_API | Busca por vale-presentes nativos. | list-gift-card-api |
+| LIST_GIFT_CARD_TRANSACTIONS | Visualização das transações de vale-presente. | ID do vale-presente. |
+| VIEW_GIFT_CARD_CONDITIONS | Visualização das condições de vale-presente. | ID do vale-presente. |
+| CREATE_GIFT_CARD_CONDITIONS | Criação das condições de vale-presente. | ID do vale-presente. |
+| EDIT_GIFT_CARD_CONDITIONS | Edição das condições de vale-presente. | ID do vale-presente. |
+| EDIT_GIFT_CARD_CONFIGURATION | Edição da configuração de vale-presente. | ID do vale-presente.. |
+| CREATE_GIFT_CARD_CANCELLATION | Registro de cancelamento de vale-presente. | ID do vale-presente. |
+| CREATE_GIFT_CARD_SETTLEMENT | Registro de liquidação de vale-presente. | ID do vale-presente. |
+| INSERT_GIFT_CARD_CREDITS | Inserção de créditos em vale-presente. | ID do vale-presente. |
 
 ## Checkout
 
@@ -221,6 +231,11 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Resource Access Denied | Acesso a recurso negado. | Chave do recurso e ID do usuário ao qual foi negado. |
 | Create New AppToken | Criação de chave de aplicação. | Chave de aplicação criada. |
 | Create Sponsor Invite | Criação de convite para usuário titular. | ID do usuário convidado. |
+| Create Storefront Custom Resource | Criação de recurso customizado de frente de loja. | Recurso customizado de frente de loja criado. |
+| Delete Storefront Custom Resource | Exclusão de recurso customizado de frente de loja. | Recurso customizado de frente de loja excluído. |
+| Create Storefront Custom Role | Criação de role customizada de frente de loja. | Role customizada de frente de loja criada. |
+| Delete Storefront Custom Role | Exclusão de role customizada de frente de loja. | Role customizada de frente de loja excluída. |
+| Update Storefront Custom Role | Atualização de role customizada de frente de loja. | Role customizada de frente de loja atualizada. |
 
 ## VTEX ID
 
@@ -228,8 +243,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 |---|---|---|
 | PasswordCreated | Usuário registra uma senha pela primeira vez na loja ou no Admin VTEX. | ID do usuário. |
 | PasswordUpdated | Usuário altera sua senha da loja ou do Admin VTEX. | ID do usuário. |
-| UserLogin | Login do usuário no Admin VTEX. | ID do usuário. |
-| UserLogout | Logout do usuário do Admin VTEX. | ID do usuário. |
+| UserLogin | Login do usuário no Admin VTEX. | ID do usuário, login do usuário, endereço IP, audience, se o usuário é administrador, provedor de identidade, se MFA foi utilizado, host, cabeçalho X-Forwarded-For, agente de usuário e referer. |
+| UserLogout | Logout do usuário do Admin VTEX. | ID do usuário, login do usuário, audience, se o usuário é administrador, host, cabeçalho X-Forwarded-For, agente de usuário e referer. |
 | IdentityProviderChanged | Mudança de configurações de provedor de identidade. Por exemplo: criação de integração OAuth customizada, alteração de informações em configuração de OAuth existente, entre outros. | Provedor de identidade. |
 
 ## Master Data

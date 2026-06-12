@@ -48,8 +48,8 @@ The table fields are described below:
 | quantity | bigint | Total quantity of items in stock for the item in the warehouse (physical quantity). |
 | reserved_quantity | bigint | Number of active reservations for the item. |
 | last_update | timestamp without time zone | The last time this specific item stock was updated. |
-| parent_account_name | character varying(200) | Name of the parent account. It is the topmost account in the hierarchy; it falls back to `main_account` when parent data is unavailable. |
 | batch_id | character varying(13) | Identifies the last ingestion batch that updated this row. Used for traceability and data quality. |
+| parent_account_name | character varying(200) | Name of the parent account. It is the topmost account in the hierarchy; it falls back to `main_account` when parent data is unavailable. |
 | record_created_at | timestamp without time zone | Timestamp when the record was first inserted in the Lake House. |
 | record_updated_at | timestamp without time zone | Timestamp when the record was last updated in the Lake House. |
 
@@ -59,18 +59,18 @@ The table fields are described below:
 
 | **Column Name**| **Column Type**| **Description**|
 |--------|------------|---------------|
-| warehouse_id | character varying(100) | Identifier for the warehouse. |
-| warehouse_name | character varying(200) | Warehouse name as defined in Admin. |
-| account_id | character varying(38) | Identifier for the account. |
+| warehouse_id | character varying(100) | Identifier for warehouse. |
+| warehouse_name | character varying(200) | The warehouse name according Admin Console definition. |
+| account_id | character varying(38) | Identifier for account. |
 | account_name | character varying(100) | Account name. |
-| is_active | boolean | Indicates whether the warehouse is active. |
-| warehouse_docks | super | Docks linked to the warehouse. |
-| pickup_point_ids | super | Pickup points linked to the warehouse. |
-| priority | integer | Tiebreaker criterion used when warehouses have the same route score. |
-| is_deleted | boolean | Indicates whether the warehouse was deleted. |
-| record_created_at | timestamp without time zone | Internal log of when the warehouse entity was first created. |
-| record_updated_at | timestamp without time zone | Internal log of when the warehouse entity was last updated. |
-| parent_account_name | character varying(50) | Name of the parent account. It is the topmost account in the hierarchy; it falls back to `main_account` when parent data is unavailable. |
+| is_active | boolean | A boolean value indicating whether a warehouse is active. |
+| warehouse_docks | super | Specifies which docks are linked to the warehouse. |
+| pickup_point_ids | super | Specifies which pickup-points are linked to the warehouse. Used for salesapp purchases, when the shopper is directly checked in at the pickup-point. |
+| priority | integer | A tiebreaker criterion used to select a warehouse when two or more have the same score during the route selection process. |
+| is_deleted | boolean | A boolean value indicating whether a warehouse is deleted from admin console. |
+| record_created_at | timestamp without time zone | Timestamp indicating when the record was inserted. |
+| record_updated_at | timestamp without time zone | Timestamp indicating the last time the record was updated. |
+| parent_account_name | varchar(50) | Name of the parent account in License Manager. It is the topmost account structure. |
 
 ## Analyses with inventory data
 
