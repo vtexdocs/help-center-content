@@ -243,8 +243,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 |---|---|---|
 | PasswordCreated | El usuario registra una contraseña por primera vez en la tienda o en el Admin VTEX. | ID de usuario. |
 | PasswordUpdated | El usuario cambia su contraseña de la tienda o del Admin VTEX. | ID de usuario. |
-| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario. |
-| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario. |
+| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario, login de usuario, dirección IP, audience, si el usuario es administrador, proveedor de identidad, si se utilizó MFA, host, encabezado X-Forwarded-For, agente de usuario y referer. |
+| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario, login de usuario, audience, si el usuario es administrador, host, encabezado X-Forwarded-For, agente de usuario y referer. |
 | IdentityProviderChanged | Cambios en la configuración del proveedor de identidad. Por ejemplo, cuando se crea una integración OAuth personalizada, o se modifica la información de una configuración OAuth existente. | Proveedor de identidad. |
 
 ## Master Data

@@ -242,8 +242,8 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 |---|---|---|
 | PasswordCreated | Creation of a first-time password in the store or the VTEX Admin | User ID. |
 | PasswordUpdated | Change of store or VTEX Admin password by the user. | User ID. |
-| UserLogin | User login to the VTEX Admin. | User ID. |
-| UserLogout | User logout from the VTEX Admin. | User ID. |
+| UserLogin | User login to the VTEX Admin. | User ID, user login, IP address, audience, whether the user is an admin, identity provider, whether MFA was used, host, X-Forwarded-For header, user agent, and referer. |
+| UserLogout | User logout from the VTEX Admin. | User ID, user login, audience, whether the user is an admin, host, X-Forwarded-For header, user agent, and referer. |
 | IdentityProviderChanged | Identity provider configuration change. For example: Creating a customized OAuth integration and changing information in an existing OAuth configuration. | Identity provider. |
 
 ## Master Data
