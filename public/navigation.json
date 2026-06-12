@@ -34789,13 +34789,13 @@
             {
               "name": {
                 "en": "CMS for Store Framework",
-                "es": "CMS for Store Framework",
-                "pt": "CMS for Store Framework"
+                "es": "CMS para Store Framework",
+                "pt": "CMS para Store Framework"
               },
               "slug": {
                 "en": "cms-for-store-framework-subcategory",
-                "es": "cms-for-store-framework-subcategoria",
-                "pt": "cms-for-store-framework-subcategoria"
+                "es": "cms-para-store-framework-subcategoria",
+                "pt": "cms-para-store-framework-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35259,13 +35259,13 @@
             {
               "name": {
                 "en": "CMS Portal (Legacy)",
-                "es": "CMS Portal (Legacy)",
-                "pt": "CMS Portal (Legacy)"
+                "es": "CMS Portal (Legado)",
+                "pt": "CMS Portal (Legado)"
               },
               "slug": {
                 "en": "cms-portal-legacy-subcategory",
-                "es": "cms-portal-legacy-subcategoria",
-                "pt": "cms-portal-legacy-subcategoria"
+                "es": "cms-portal-legado-subcategoria",
+                "pt": "cms-portal-legado-subcategoria"
               },
               "origin": "",
               "type": "category",
