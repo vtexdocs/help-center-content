@@ -34788,21 +34788,6 @@
           "children": [
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview",
-                "es": "vision-general-storefront",
-                "pt": "visao-geral-storefront"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "CMS for Store Framework",
                 "es": "CMS for Store Framework",
                 "pt": "CMS for Store Framework"
@@ -35274,13 +35259,13 @@
             {
               "name": {
                 "en": "CMS Portal (Legacy)",
-                "es": "CMS Portal (Legado)",
-                "pt": "CMS Portal (Legado)"
+                "es": "CMS Portal (Legacy)",
+                "pt": "CMS Portal (Legacy)"
               },
               "slug": {
-                "en": "cms-portal-legacy",
-                "es": "cms-portal-legado",
-                "pt": "cms-portal-legado"
+                "en": "cms-portal-legacy-subcategory",
+                "es": "cms-portal-legacy-subcategoria",
+                "pt": "cms-portal-legacy-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36429,6 +36414,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Storefront - Overview",
+                "es": "Storefront - Información general",
+                "pt": "Storefront - Visão geral"
+              },
+              "slug": {
+                "en": "storefront-overview",
+                "es": "vision-general-storefront",
+                "pt": "visao-geral-storefront"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
