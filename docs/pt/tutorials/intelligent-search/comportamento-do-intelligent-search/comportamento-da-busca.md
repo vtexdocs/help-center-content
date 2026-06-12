@@ -84,7 +84,7 @@ _Exemplo_: foi configurado que a especificação "cor" é pesquisável e o produ
 
 É possível buscar por caracteres especiais (`-` e `/`) para encontrar um produto.
 
-> ℹ️ Para otimizar o tratamento de símbolos como `®`, `@` e `&` durante a indexação, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support) para solicitar essa melhoria. Com ela aplicada, esses caracteres são neutralizados corretamente, permitindo que produtos com símbolos no nome sejam encontrados mesmo quando o cliente não os inclui na busca. Por exemplo, um produto chamado `Brand® Papel Sulfite Multifuncional & Copiadora` passa a ser encontrado pela busca `brand papel sulfite`.
+> ℹ️ Para otimizar o tratamento de símbolos como `®`, `@` e `&` durante a indexação, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support) para habilitar esse recurso na sua conta. Com ele ativo, esses caracteres são neutralizados corretamente, permitindo que produtos com símbolos no nome sejam encontrados mesmo quando o cliente não os inclui na busca. Por exemplo, um produto chamado `Brand® Papel Sulfite Multifuncional & Copiadora` passa a ser encontrado pela busca `brand papel sulfite`.
 
 > ⚠️ A escolha dos campos de busca afeta as possibilidades das [Regras de merchandising](/pt/docs/tutorials/regras-de-merchandising), pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo **`SKUID` **como pesquisável, não será possível promover um **`ProductID` **ou um **`ProductRefID` **utilizando Regras de merchandising.
 
