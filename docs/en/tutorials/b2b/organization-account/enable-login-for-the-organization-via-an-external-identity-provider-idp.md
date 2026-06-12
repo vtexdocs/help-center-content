@@ -8,7 +8,7 @@ slugEN: enable-login-for-the-organization-via-an-external-identity-provider-idp
 locale: en
 ---
 
-> ⚠️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
+> ⚠️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 Buyer organizations can authenticate their members through an external identity provider (IdP) using Single Sign-On (SSO). For this process to work, the buyer organization needs to enable login with an external identity provider in the Buyer Portal interface, as described in this guide.
 
@@ -67,4 +67,4 @@ S-->>U: Authorized access
 
 * [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide)
 * [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2)
-* [Login for B2B](https://help.vtex.com/docs/tutorials/login-for-b2b)
+* [Login for B2B](https://help.vtex.com/en/docs/tutorials/login-for-b2b-stores)

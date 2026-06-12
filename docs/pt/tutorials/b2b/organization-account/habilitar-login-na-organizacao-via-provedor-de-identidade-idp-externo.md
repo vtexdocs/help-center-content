@@ -67,4 +67,4 @@ S-->>U: Acesso autorizado
 
 * [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide)   
 * [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2)  
-* [Login para B2B](https://help.vtex.com/docs/tutorials/login-para-b2b)
+* [Login para B2B](https://help.vtex.com/pt/docs/tutorials/login-em-lojas-b2b)
