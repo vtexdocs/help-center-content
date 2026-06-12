@@ -226,7 +226,7 @@ Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
-| Make Payments | PCI Gateway | Payment-MakePayments | It represents the transactional operations of the payment gateway. |
+| Make Payments | PCI Gateway | Payment-MakePayments | Represents the transactional operations of the payment gateway. |
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
 | Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
@@ -240,7 +240,7 @@ Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
-| Make Payments | PCI Gateway | Payment-MakePayments | It represents the transactional operations of the payment gateway. |
+| Make Payments | PCI Gateway | Payment-MakePayments | Represents the transactional operations of the payment gateway. |
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources | Deprecated. |
@@ -252,7 +252,7 @@ Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
-| Make Payments | PCI Gateway | Payment-MakePayments | It represents the transactional operations of the payment gateway. |
+| Make Payments | PCI Gateway | Payment-MakePayments | Represents the transactional operations of the payment gateway. |
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
 | Change order workflow status | OMS | AcessoOMS | Allows users to access actions within the workflow to change orders status, through the Actions button in the Workflow. |
 | Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
