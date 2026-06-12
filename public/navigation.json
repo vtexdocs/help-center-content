@@ -34788,29 +34788,14 @@
           "children": [
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview",
-                "es": "vision-general-storefront",
-                "pt": "visao-geral-storefront"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "CMS for Store Framework",
-                "es": "CMS para Store Framework",
-                "pt": "CMS para Store Framework"
+                "es": "CMS for Store Framework",
+                "pt": "CMS for Store Framework"
               },
               "slug": {
                 "en": "cms-for-store-framework-subcategory",
-                "es": "cms-para-store-framework-subcategoria",
-                "pt": "cms-para-store-framework-subcategoria"
+                "es": "cms-for-store-framework-subcategoria",
+                "pt": "cms-for-store-framework-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36429,6 +36414,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Storefront - Overview",
+                "es": "Storefront - Información general",
+                "pt": "Storefront - Visão geral"
+              },
+              "slug": {
+                "en": "storefront-overview",
+                "es": "vision-general-storefront",
+                "pt": "visao-geral-storefront"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
