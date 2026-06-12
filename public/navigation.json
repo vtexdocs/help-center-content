@@ -35258,166 +35258,14 @@
             },
             {
               "name": {
-                "en": "Headless CMS",
-                "es": "Headless CMS",
-                "pt": "Headless CMS"
+                "en": "CMS Portal (Legacy)",
+                "es": "CMS Portal (Legacy)",
+                "pt": "CMS Portal (Legacy)"
               },
               "slug": {
-                "en": "headless-cms-subcategory",
-                "es": "headless-cms-subcategoria",
-                "pt": "headless-cms-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring SEO via Headless CMS",
-                    "es": "Configurar SEO a través de Headless CMS",
-                    "pt": "Configurando SEO via Headless CMS"
-                  },
-                  "slug": {
-                    "en": "configuring-seo-via-headless-cms",
-                    "es": "configurar-seo-a-traves-de-headless-cms",
-                    "pt": "configurando-seo-via-headless-cms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Headless CMS (Legacy) - Overview",
-                    "es": "Headless CMS (Legado) - Información general",
-                    "pt": "Headless CMS (Legado) - Visão geral"
-                  },
-                  "slug": {
-                    "en": "headless-cms-overview",
-                    "es": "headless-cms-vision-general",
-                    "pt": "headless-cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Pages in the Headless CMS",
-                    "es": "Gestión de Páginas en el Headless CMS",
-                    "pt": "Gerenciando Páginas no Headless CMS"
-                  },
-                  "slug": {
-                    "en": "managing-pages",
-                    "es": "gestion-de-paginas",
-                    "pt": "gerenciando-paginas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Projects",
-                    "es": "Gestionar Proyectos",
-                    "pt": "Gerenciando Projetos"
-                  },
-                  "slug": {
-                    "en": "managing-projects",
-                    "es": "gestionar-proyectos",
-                    "pt": "gerenciando-projetos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Singleton content types",
-                    "es": "Cómo gestionar content types Singleton",
-                    "pt": "Gerenciando content types do tipo Singleton"
-                  },
-                  "slug": {
-                    "en": "managing-singleton-content-types",
-                    "es": "como-gestionar-content-types-singleton",
-                    "pt": "gerenciando-content-types-do-tipo-singleton"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Media - Overview",
-                    "es": "Multimedia - Información general",
-                    "pt": "Mídia - Visão geral"
-                  },
-                  "slug": {
-                    "en": "media-overview",
-                    "es": "multimedia-vision-general",
-                    "pt": "midia-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Agentic CX",
-                "es": "Agentic CX",
-                "pt": "Agentic CX"
-              },
-              "slug": {
-                "en": "agentic-cx-subcategory",
-                "es": "agentic-cx-subcategoria",
-                "pt": "agentic-cx-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
-                    "pt": "Criar automações do CX"
-                  },
-                  "slug": {
-                    "en": "create-cx-automations",
-                    "es": "creando-automaciones",
-                    "pt": "criar-automacoes-do-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
-                    "pt": "Introdução ao CX"
-                  },
-                  "slug": {
-                    "en": "introduction-to-cx",
-                    "es": "introduccion-a-cx",
-                    "pt": "introducao-ao-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "CMS portal legacy",
-                "es": "CMS portal legacy",
-                "pt": "CMS portal legacy"
-              },
-              "slug": {
-                "en": "cms-portal-legacy",
-                "es": "cms-portal-legacy",
-                "pt": "cms-portal-legacy"
+                "en": "cms-portal-legacy-subcategory",
+                "es": "cms-portal-legacy-subcategoria",
+                "pt": "cms-portal-legacy-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36412,6 +36260,158 @@
                       "children": []
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Headless CMS",
+                "es": "Headless CMS",
+                "pt": "Headless CMS"
+              },
+              "slug": {
+                "en": "headless-cms-subcategory",
+                "es": "headless-cms-subcategoria",
+                "pt": "headless-cms-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring SEO via Headless CMS",
+                    "es": "Configurar SEO a través de Headless CMS",
+                    "pt": "Configurando SEO via Headless CMS"
+                  },
+                  "slug": {
+                    "en": "configuring-seo-via-headless-cms",
+                    "es": "configurar-seo-a-traves-de-headless-cms",
+                    "pt": "configurando-seo-via-headless-cms"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Headless CMS (Legacy) - Overview",
+                    "es": "Headless CMS (Legado) - Información general",
+                    "pt": "Headless CMS (Legado) - Visão geral"
+                  },
+                  "slug": {
+                    "en": "headless-cms-overview",
+                    "es": "headless-cms-vision-general",
+                    "pt": "headless-cms-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing Pages in the Headless CMS",
+                    "es": "Gestión de Páginas en el Headless CMS",
+                    "pt": "Gerenciando Páginas no Headless CMS"
+                  },
+                  "slug": {
+                    "en": "managing-pages",
+                    "es": "gestion-de-paginas",
+                    "pt": "gerenciando-paginas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing Projects",
+                    "es": "Gestionar Proyectos",
+                    "pt": "Gerenciando Projetos"
+                  },
+                  "slug": {
+                    "en": "managing-projects",
+                    "es": "gestionar-proyectos",
+                    "pt": "gerenciando-projetos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing Singleton content types",
+                    "es": "Cómo gestionar content types Singleton",
+                    "pt": "Gerenciando content types do tipo Singleton"
+                  },
+                  "slug": {
+                    "en": "managing-singleton-content-types",
+                    "es": "como-gestionar-content-types-singleton",
+                    "pt": "gerenciando-content-types-do-tipo-singleton"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Media - Overview",
+                    "es": "Multimedia - Información general",
+                    "pt": "Mídia - Visão geral"
+                  },
+                  "slug": {
+                    "en": "media-overview",
+                    "es": "multimedia-vision-general",
+                    "pt": "midia-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Agentic CX",
+                "es": "Agentic CX",
+                "pt": "Agentic CX"
+              },
+              "slug": {
+                "en": "agentic-cx-subcategory",
+                "es": "agentic-cx-subcategoria",
+                "pt": "agentic-cx-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Create active agents",
+                    "es": "Creando agentes activos",
+                    "pt": "Criar automações do CX"
+                  },
+                  "slug": {
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Introduction to Agentic CX",
+                    "es": "Introducción a Agentic CX",
+                    "pt": "Introdução ao CX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
