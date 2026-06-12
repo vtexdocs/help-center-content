@@ -17412,29 +17412,14 @@
                 },
                 {
                   "name": {
-                    "en": "Enable organization login via external identity provider (IdP)",
-                    "es": "Habilitar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
-                    "pt": "Enable organization login via external identity provider (IdP)"
+                    "en": "Enable login for the organization via an external identity provider (IdP)",
+                    "es": "Activar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
+                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo"
                   },
                   "slug": {
-                    "en": "placeholder-enable-organization-login-via-external-identity-provider-idp",
-                    "es": "placeholder-habilitar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo",
-                    "en": "Habilitar login na organização via provedor de identidade (IdP) externo",
-                    "es": "Habilitar login na organização via provedor de identidade (IdP) externo"
-                  },
-                  "slug": {
-                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo",
-                    "en": "",
-                    "es": ""
+                    "en": "enable-login-for-the-organization-via-an-external-identity-provider-idp",
+                    "es": "activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
+                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo"
                   },
                   "origin": "",
                   "type": "markdown",
