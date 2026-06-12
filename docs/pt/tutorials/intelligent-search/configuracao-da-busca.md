@@ -53,5 +53,7 @@ As configurações de filtros apresentam ajustes relacionados aos filtros exibid
 
 * **Cobertura mínima de resultados para filtros:** oculta filtros em que nenhuma opção atinge um percentual mínimo de cobertura sobre o total de resultados da busca. É possível excluir filtros específicos dessa regra para que sejam sempre exibidos, independentemente da configuração. Essa funcionalidade está disponível mediante solicitação ao [Suporte VTEX](https://supporticket.vtex.com/support).
 
+    Catálogos grandes frequentemente contêm filtros criados a partir de especificações compartilhadas por poucos produtos. Esses filtros poluem o painel de filtros com opções de baixa cobertura. Com essa funcionalidade, apenas filtros com cobertura significativa sobre os resultados são exibidos por padrão.
+
     Por exemplo, se a cobertura mínima for definida como 5%, um filtro em que todas as opções se aplicam a menos de 5% dos resultados da busca atual não será exibido.
 
