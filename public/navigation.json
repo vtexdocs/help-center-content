@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "2026-june",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-06-10-new-events-available-in-audit",
+                    "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "May",
                 "es": "Mayo",
                 "pt": "Maio"
@@ -11142,9 +11173,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Legacy CMS Portal",
-                    "es": "3. CMS - Portal Legado",
-                    "pt": "3. CMS - Portal Legado"
+                    "en": "3. CMS Portal (Legacy)",
+                    "es": "3. CMS Portal (Legado)",
+                    "pt": "3. CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "legacy-cms-portal",
@@ -20539,6 +20570,37 @@
             },
             {
               "name": {
+                "en": "Buyer portal checkout",
+                "es": "Buyer portal checkout",
+                "pt": "Buyer portal checkout"
+              },
+              "slug": {
+                "en": "buyer-portal-checkout",
+                "es": "buyer-portal-checkout",
+                "pt": "buyer-portal-checkout"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Buyer Portal Checkout",
+                    "es": "Buyer Portal Checkout",
+                    "pt": "Buyer Portal Checkout"
+                  },
+                  "slug": {
+                    "en": "buyer-portal-checkout-en",
+                    "es": "buyer-portal-checkout-es",
+                    "pt": "buyer-portal-checkout-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Using reCAPTCHA at Checkout",
                 "es": "reCAPTCHA en el checkout",
                 "pt": "reCAPTCHA no Checkout"
@@ -20613,6 +20675,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Collaboration workflows",
+                    "es": "Flujos de trabajo de colaboración",
+                    "pt": "Fluxos de trabalho de colaboração"
+                  },
+                  "slug": {
+                    "en": "collaboration-workflows",
+                    "es": "flujos-de-trabajo-de-colaboracion",
+                    "pt": "fluxos-de-trabalho-de-colaboracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Managing versions and branches",
@@ -36126,7 +36203,7 @@
                 {
                   "name": {
                     "en": "Configuring SEO in your Store Framework store",
-                    "es": "Configurar SEO en la tienda Store Framework",
+                    "es": "Configurar SEO en tu tienda Store Framework",
                     "pt": "Configurando SEO em sua loja Store Framework"
                   },
                   "slug": {
