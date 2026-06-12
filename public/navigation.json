@@ -38578,7 +38578,7 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "Analytics: Métricas de atendimento"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",
