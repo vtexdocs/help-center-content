@@ -17247,6 +17247,21 @@
                 },
                 {
                   "name": {
+                    "en": "Login for B2B stores",
+                    "es": "Login para tiendas B2B",
+                    "pt": "Login em lojas B2B"
+                  },
+                  "slug": {
+                    "en": "login-for-b2b-stores",
+                    "es": "login-para-tiendas-b2b",
+                    "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Organizational units",
                     "es": "Unidades organizativas",
                     "pt": "Unidades organizacionais"
