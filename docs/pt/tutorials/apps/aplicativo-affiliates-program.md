@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-> ⚠️ O aplicativo Affiliates Program foi descontinuado. Isso significa que  o aplicativo não recebe manutenção ou suporte do time VTEX.
+> ⚠️ O aplicativo Affiliates Program foi descontinuado. Isso significa que o aplicativo não recebe manutenção ou suporte do time VTEX.
 
 > ℹ️ O **Affiliates Program** é um aplicativo compatível apenas com lojas [VTEX IO](/pt/docs/tracks/cms-vtex-io), e não está disponível para lojas que utilizam [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
 
