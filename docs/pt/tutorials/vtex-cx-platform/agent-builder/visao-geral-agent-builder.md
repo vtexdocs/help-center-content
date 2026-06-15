@@ -3,7 +3,7 @@ title: 'Agent Builder - Visão geral'
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-06-02T00:00:00.000Z
+updatedAt: 2026-06-15T00:00:00.000Z
 publishedAt: 2025-09-08T16:21:28.723Z
 firstPublishedAt: 2025-07-29T16:45:36.827Z
 contentType: tutorial
