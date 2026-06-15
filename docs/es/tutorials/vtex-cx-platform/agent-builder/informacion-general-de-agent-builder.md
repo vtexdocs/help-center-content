@@ -39,7 +39,7 @@ En **Agent Builder**, están disponibles las siguientes páginas:
 
 > En esta página, puedes asignar y probar agentes para tu tienda, además de editar el manager y las instrucciones que debe seguir.
 
-Para entender cómo asignar agentes, lee el artículo [Asignar y probar un agente](/es/docs/tutorials/asignar-y-probar-agentes).
+Para entender cómo asignar agentes, lee el artículo [Asignar y probar un agente](https://help.vtex.com/es/docs/tutorials/asignar-y-probar-agentes).
 
 #### Editar manager
 
