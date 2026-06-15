@@ -84,8 +84,10 @@ To copy the identifier of a recommendation shelf:
 
 The ID can be used to:
 
-- Implement the strategy in the storefront.  
-  Learn more in the [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) component documentation for Store Framework.
+- Implement the strategy in the storefront:  
+  - **Store Framework**: See the [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) component documentation.
+  - **FastStore or Headless**: See the guide [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
+  - **Mobile**: See the guide [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).
 - Facilitate strategy identification when troubleshooting or contacting Support.
 
 ## Selecting an analysis period
@@ -138,5 +140,5 @@ To remove a filter, repeat steps 1 and 2 and click `Clear`.
 
 - [Product Recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
-- [Integrating product recommendations in headless stores (Beta)](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores)
-- [Implementing product recommendations in FastStore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore)
+- [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
+- [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

@@ -66,7 +66,7 @@ La sección **Organización** permite gestionar la estructura organizativa de la
 
 Las opciones incluyen:
 
-- **Usuarios** — gestión de los [usuarios de la organización](https://help.vtex.com/es/docs/tutorials/miembros-de-la-organizacion-compradora).
+- **Usuarios** — gestión de los [usuarios de la organización](https://help.vtex.com/es/docs/tutorials/agregar-usuarios-a-la-organizacion-compradora).
 - **Roles** — definición de permisos y funciones.
 - **Unidades organizativas** — creación y gestión de [unidades organizativas](https://help.vtex.com/es/docs/tutorials/unidades-organizativas).
 
