@@ -132,27 +132,25 @@ Quando o cliente abre um link da loja no navegador, a busca por ID costuma monta
 * **Um item:** `[endereço da loja]/[tipo do id]:[id_1]?map=ft`
 * **Vários itens (mesmo tipo de ID):** `[endereço da loja]/[tipo do id]:[id_1];[id_2];[id_3]?map=ft`
 
+Os possíveis valores para `[tipo do id]` são: `product.id`, `sku.id`, `sku.ean`, `sku.reference`, `product.link` ou `id`. Todos os IDs de uma mesma busca devem ser do mesmo tipo.
+
+Exemplos:
+
+* **Product ID:** `https://sualoja.com.br/product.id:98765?map=ft`
+* **SKU ID:** `https://sualoja.com.br/sku.id:12345?map=ft`
+* **Vários SKUs:** `https://sualoja.com.br/sku.id:12345;67890?map=ft`
+
 ### Busca por ID na API do Intelligent Search
 
-Em chamadas HTTP à API, use o endpoint [`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-): o ID ou o termo de busca vai no parâmetro `query`. O nome abreviado `q` é equivalente. Os filtros ficam no trecho `{facets}` do caminho, com `trade-policy` obrigatório e os demais opcionais. Ajuste a base da URL ao ambiente da sua conta.
+Na [Intelligent Search API](https://developers.vtex.com/docs/api-reference/intelligent-search-api), use o endpoint [`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-) e informe o ID no parâmetro `query` (ou `q`). Os possíveis valores para o tipo de ID são os mesmos do storefront: `product.id`, `sku.id`, `sku.ean`, `sku.reference`, `product.link` ou `id`. Todos os IDs de uma mesma busca devem ser do mesmo tipo.
 
-**Um produto**:
+Exemplos:
 
-* **Product ID:** `.../product_search/trade-policy/1?query=product:98765` ou `...?query=product.id:98765`
-* **SKU ID:** `.../product_search/trade-policy/1?query=sku.id:12345` ou `...?query=sku:12345`
+* **Product ID:** `?query=product.id:98765`
+* **SKU ID:** `?query=sku.id:12345`
+* **EAN:** `?query=sku.ean:7891234560123`
+* **Reference ID:** `?query=sku.reference:REF001`
+* **Slug (link do produto):** `?query=product.link:nome-do-produto`
+* **Vários produtos (mesmo tipo):** `?query=product.id:98765;98743`
 
-**Vários produtos ou SKUs (mesmo tipo de ID)**:
-
-Separe os valores com ponto e vírgula `;` e escreva o tipo da ID uma vez só, por exemplo: `?query=product:98765;98743` (equivale a `?query=product.id:98765;98743`) ou `?query=sku.id:100;200`.
-
-Os possíveis valores para o tipo de ID são `product.id`, `sku.id`, `sku.ean`, `sku.reference`, `product.link` ou `id` (ProductID, ProductRefID, SKUID, SKURefID e EAN). Todos os IDs de uma mesma busca devem ser do mesmo tipo.
-
-Formato do parâmetro (use `query` ou `q` de forma equivalente):
-
-* **Product ID:** `?query=product:<id>` ou vários `?query=product:<id1>;<id2>`
-* **SKU ID:** `?query=sku.id:<id>` ou vários `?query=sku.id:<id1>;<id2>`
-* **Reference ID:** `?query=sku.reference:<id>`
-* **EAN:** `?query=sku.ean:<id>`
-* **Slug (link do produto):** `?query=product.link:<link>`
-
-Para mais detalhes dos parâmetros e dos filtros no caminho da requisição, consulte a referência do endpoint [`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-) na [Intelligent Search API](https://developers.vtex.com/docs/api-reference/intelligent-search-api).
+Para mais detalhes dos parâmetros, consulte a referência do endpoint [`GET` Get list of products for a query](https://developers.vtex.com/docs/api-reference/intelligent-search-api#get-/product_search/-facets-).
