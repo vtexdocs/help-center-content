@@ -40,7 +40,7 @@ Em **Agent Builder**, as seguintes páginas estão disponíveis:
 
 > Nessa página, você pode atribuir e testar agentes para a sua loja, além de editar o manager e as instruções que ele deve seguir.
 
-Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](/pt/docs/tutorials/atribuir-e-testar-agentes).
+Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](https://help.vtex.com/pt/docs/tutorials/atribuir-e-testar-agentes).
 
 #### Editar manager
 
