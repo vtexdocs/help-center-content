@@ -39836,6 +39836,21 @@
             },
             {
               "name": {
+                "en": "ActivateIfPossible Overwritten by New Catalog UI",
+                "es": "«ActivateIfPossible» ha sido sustituido por la nueva interfaz de usuario del catálogo",
+                "pt": "ActivateIfPossible substituído pela nova interface do usuário do catálogo"
+              },
+              "slug": {
+                "en": "activateifpossible-overwritten-by-new-catalog-ui",
+                "es": "activateifpossible-ha-sido-sustituido-por-la-nueva-interfaz-de-usuario-del-catalogo",
+                "pt": "activateifpossible-substituido-pela-nova-interface-do-usuario-do-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Admin Collection Brand List Timeout",
                 "es": "Timeout de la lista de marcas de la colección en el Admin",
                 "pt": "Timeout da lista de marcas de coleção no Admin"
@@ -48045,6 +48060,21 @@
             },
             {
               "name": {
+                "en": "hCMS Page Becomes Inaccessible After Content-Type Schema Changes",
+                "es": "La página de hCMS deja de estar disponible tras los cambios en el esquema del tipo de contenido",
+                "pt": "Página do hCMS fica inacessível após alterações no esquema de tipo de conteúdo"
+              },
+              "slug": {
+                "en": "hcms-page-becomes-inaccessible-after-contenttype-schema-changes",
+                "es": "la-pagina-de-hcms-deja-de-estar-disponible-tras-los-cambios-en-el-esquema-del-tipo-de-contenido",
+                "pt": "pagina-do-hcms-fica-inacessivel-apos-alteracoes-no-esquema-de-tipo-de-conteudo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "hCMS presents issues when trying to publish huge amount of content",
                 "es": "hCMS presenta problemas cuando se intenta publicar una gran cantidad de contenido",
                 "pt": "O hCMS apresenta problemas ao tentar publicar uma grande quantidade de conteúdo"
@@ -52160,6 +52190,21 @@
             },
             {
               "name": {
+                "en": "Indexing History page shows high volume of products with indexing delay",
+                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
+                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+              },
+              "slug": {
+                "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
+                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
+                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Banner update via Image URL does not work correctly",
                 "es": "La actualización del banner de búsqueda inteligente mediante la URL de la imagen no funciona correctamente",
                 "pt": "A atualização do banner de pesquisa inteligente por meio do URL da imagem não funciona corretamente"
@@ -52543,21 +52588,6 @@
                 "en": "product-image-sorting-doesnt-respect-the-catalog-order",
                 "es": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
                 "pt": "a-classificacao-da-imagem-do-produto-nao-respeita-a-ordem-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Product indexing may show a high delay in Indexing History",
-                "es": "La indexación de productos puede mostrar un retraso considerable en el historial de indexación",
-                "pt": "A indexação de produtos pode apresentar um grande atraso no Histórico de indexação"
-              },
-              "slug": {
-                "en": "product-indexing-may-show-a-high-delay-in-indexing-history",
-                "es": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
-                "pt": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao"
               },
               "origin": "",
               "type": "markdown",
