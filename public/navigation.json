@@ -39913,6 +39913,21 @@
             },
             {
               "name": {
+                "en": "ActivateIfPossible Overwritten by New Catalog UI",
+                "es": "«ActivateIfPossible» ha sido sustituido por la nueva interfaz de usuario del catálogo",
+                "pt": "ActivateIfPossible substituído pela nova interface do usuário do catálogo"
+              },
+              "slug": {
+                "en": "activateifpossible-overwritten-by-new-catalog-ui",
+                "es": "activateifpossible-ha-sido-sustituido-por-la-nueva-interfaz-de-usuario-del-catalogo",
+                "pt": "activateifpossible-substituido-pela-nova-interface-do-usuario-do-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Admin Collection Brand List Timeout",
                 "es": "Timeout de la lista de marcas de la colección en el Admin",
                 "pt": "Timeout da lista de marcas de coleção no Admin"
@@ -50937,21 +50952,6 @@
                 "en": "pagination-on-searchpage-doesnt-reset-when-changing-search-context",
                 "es": "la-paginacion-de-la-pagina-de-busqueda-no-se-reinicia-al-cambiar-el-contexto-de-busqueda",
                 "pt": "a-paginacao-na-pagina-de-pesquisa-nao-e-reiniciada-ao-alterar-o-contexto-da-pesquisa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)",
-                "es": "PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)",
-                "pt": "O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)"
-              },
-              "slug": {
-                "en": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
-                "es": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
-                "pt": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs"
               },
               "origin": "",
               "type": "markdown",
