@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Frontend'
 id: 5DTcawNjc5MovtD7HNqURl
 status: PUBLISHED
@@ -40,13 +40,13 @@ While Store Framework focuses on composability, FastStore was built with a perfo
 
 The intention is to leverage the Jamstack architecture to deliver storefronts quickly, securely, and reliably. In addition, it comes with many tools and features designed for this purpose, including WebOps pipelines and performance-optimized starter packs.
 
-In this way, FastStore can integrate with any CMS and any development platform, but to benefit from the guarantees and support provided by VTEX, the FastStore, Webops, and Headless CMS is required.
+In this way, FastStore can integrate with any CMS and any development platform, but to benefit from the guarantees and support provided by VTEX, the FastStore, Webops, and Headless CMS (Legacy) is required.
 
 Some features are not available, such as My Account customizations and full integration with IO apps and Intelligent Search.
 
 ## CMS Portal (Legacy)
 
-The CMS Portal is a legacy VTEX technology mainly responsible for managing the website's source code, which is the module containing the content displayed in the store. 
+The CMS Portal (Legacy) is a legacy VTEX technology mainly responsible for managing the website's source code, which is the module containing the content displayed in the store. 
 
 For the Legacy CMS, an important concept is Controls, which are snippets of code that render native VTEX data. Controls help the retailer natively create content and embed tools on the site using what VTEX already offers. For this customization to happen, CSS, HTML, and JavaScript are used in the development, allowing you to create layouts and templates.
 

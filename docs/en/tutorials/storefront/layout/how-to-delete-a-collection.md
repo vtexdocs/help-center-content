@@ -1,4 +1,4 @@
----
+﻿---
 title: 'How to delete a collection'
 id: 6C620yHzwsGoS8iaCocAM2
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the Legacy CMS Portal](/en/docs/tutorials/adding-collections-cms).
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS Portal (Legacy)](/en/docs/tutorials/adding-collections-cms).
 
 ## Via Admin
 You can not delete a collection altogether via Admin.
