@@ -1,5 +1,5 @@
----
-title: 'Configuring SEO in Legacy CMS Portal stores'
+﻿---
+title: 'Configuring SEO in CMS Portal (Legacy) stores'
 id: 5MMge9JgUa014quZ0qeMKy
 status: PUBLISHED
 createdAt: 2025-02-21T15:10:44.192Z
