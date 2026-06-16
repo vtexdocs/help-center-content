@@ -243,7 +243,7 @@ Você pode escolher entre widgets nativos do VTEX CX Platform ou widgets persona
 ##### Widgets nativos
 
 - **CSAT:** Acompanha o nível de satisfação dos clientes a partir da pontuação do CSAT.
-- **NPS:** Mede a probabilidade de um contato de recomendar o serviço recebido.
+- **NPS:** Mede a probabilidade de um contato recomendar o serviço recebido.
 - **Agentes mais usados:** Exibe um ranking dos agentes mais utilizados pelo atendimento.
 - **Ferramentas mais usadas:** Lista as ferramentas mais utilizadas pelo atendimento.
 - **Funil e dados de vendas:** Relaciona as conversas com os resultados comerciais gerados no período.
