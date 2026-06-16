@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Glosario'
 id: 78y5kSB5GaS1XHH9qBr6mS
 status: PUBLISHED
@@ -44,6 +44,6 @@ La siguiente tabla de conceptos presenta terminologías del VTEX CMS.
 | Template | Son los archivos que contienen el código de las páginas de tu sitio web. Determinan, entre otras cosas, cómo aparece la información en la pantalla (incluida la posición de los placeholders). En la plataforma VTEX, las plantillas se dividen en dos tipos: HTML Templates (o plantillas de página) y Shelves templates.</br></br>Artículo relacionado: [Layout](/es/docs/tracks/cms-vtex-io#layout)|
 | Layout  | es responsable de determinar qué elementos |
 
-## Headless CMS 
+## Headless CMS (Legacy) 
 
 *Próximamente*

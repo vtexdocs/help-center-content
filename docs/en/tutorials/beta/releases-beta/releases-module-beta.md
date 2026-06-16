@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Releases Module (Beta)'
 id: n2tN0WX5I6MJMbrJrS0Kb
 status: PUBLISHED
@@ -28,7 +28,7 @@ The main benefits of the module are:
 - Better control when testing and reviewing changes before publishing.
 - Easier scheduling or deleting grouped changes.
 
-> ℹ️ To use the **Releases** module, you must configure the CMS. Learn more in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ℹ️ To use the **Releases** module, you must configure the CMS. Learn more in [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 This article will cover the following topics:
 

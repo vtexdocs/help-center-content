@@ -1,5 +1,5 @@
----
-title: 'Headless CMS events available in Audit'
+﻿---
+title: 'Headless CMS (Legacy) events available in Audit'
 id: 2WQz4dwteRahTD71hIHNNc
 status: PUBLISHED
 createdAt: 2023-12-08T14:36:53.841Z
@@ -12,14 +12,14 @@ slugEN: 2023-12-08-headless-cms-events-available-in-audit
 locale: en
 legacySlug: headless-cms-events-available-in-audit
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'We added Headless CMS events to Audit logs.'
+announcementSynopsisEN: 'We added Headless CMS (Legacy) events to Audit logs.'
 ---
 
-[Audit](/en/docs/tutorials/audit), a VTEX Admin module that records events in your store for future auditing, now processes [Headless CMS](/en/docs/tutorials/managing-pages) events. Headless CMS is the VTEX solution that allows managing web content with the autonomy to create, edit, and publish content via the VTEX Admin.
+[Audit](/en/docs/tutorials/audit), a VTEX Admin module that records events in your store for future auditing, now processes [Headless CMS (Legacy)](/en/docs/tutorials/managing-pages) events. Headless CMS (Legacy) is the VTEX solution that allows managing web content with the autonomy to create, edit, and publish content via the VTEX Admin.
 
 ## What has changed?
 
-We added the Headless CMS events listed below to the Audit logs:
+We added the Headless CMS (Legacy) events listed below to the Audit logs:
 
 | Action | Event description | Event details |
 |---|---|---|
@@ -32,7 +32,7 @@ We added the Headless CMS events listed below to the Audit logs:
 | done.invoke.deleteContent | Delete content. | Event ID. |
 | done.invoke.deleteContentVariant | Delete content version. | Event ID. |
 
-In the **Action** column, all Headless CMS events also display the following information:
+In the **Action** column, all Headless CMS (Legacy) events also display the following information:
 
 * **CONTENT_ID:** unique identifier of the content.
 * **VARIANT_ID:** unique identifier of the content version.

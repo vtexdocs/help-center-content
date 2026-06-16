@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Configuring viewed product email'
 id: tutorials_3136
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-> ⚠️ This tutorial is only applicable to Legacy CMS Portal stores.
+> ⚠️ This tutorial is only applicable to CMS Portal (Legacy) stores.
 
 The viewed product email is an automatic message sent to customers who have accessed a product page on the site but have not placed an order. The purpose of sending this  email is to recover the sale and offer other products.
 
@@ -63,7 +63,7 @@ Follow the steps below to display the important fields for the viewed products s
 
 ## Creating an email template for viewed products
 
-The email template that will be sent must be configured in the Legacy CMS Portal, following the steps below. To help with the configuration, you can use the[ example template](https://assets.ctfassets.net/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/cf62e0e8ae5ab674d66362def45ec653/product-visited-en.zip).
+The email template that will be sent must be configured in the CMS Portal (Legacy), following the steps below. To help with the configuration, you can use the[ example template](https://assets.ctfassets.net/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/cf62e0e8ae5ab674d66362def45ec653/product-visited-en.zip).
 
 1. In the Admin, go to **Storefront > Layout**.
 2. Click `CMS` and then **HTML Templates**.
@@ -98,7 +98,7 @@ After creating the template, you must create the folder structure required for c
     * **Protocol**: HTTPS
     * **Authentication Required?**: Leave it unchecked.
 7. Click the `Save Folder` button.
-8. Once the folder has been created, you must link the page template to the layout. Click the created folder in the left-hand side menu of the Legacy CMS Portal.
+8. Once the folder has been created, you must link the page template to the layout. Click the created folder in the left-hand side menu of the CMS Portal (Legacy).
 9. Click **new layout**.
 10. In **Template**, select the template created previously.
 11. Click the `Save Layout` button.
