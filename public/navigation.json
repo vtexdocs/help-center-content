@@ -17232,6 +17232,21 @@
                 },
                 {
                   "name": {
+                    "en": "Login for B2B stores",
+                    "es": "Login para tiendas B2B",
+                    "pt": "Login em lojas B2B"
+                  },
+                  "slug": {
+                    "en": "login-for-b2b-stores",
+                    "es": "login-para-tiendas-b2b",
+                    "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Organizational units",
                     "es": "Unidades organizativas",
                     "pt": "Unidades organizacionais"
@@ -39891,6 +39906,21 @@
                 "en": "activate-service-on-import-skuvincularvalorservicoaspx-not-working",
                 "es": "la-funcion-activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona",
                 "pt": "a-funcao-ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ActivateIfPossible Overwritten by New Catalog UI",
+                "es": "«ActivateIfPossible» ha sido sustituido por la nueva interfaz de usuario del catálogo",
+                "pt": "ActivateIfPossible substituído pela nova interface do usuário do catálogo"
+              },
+              "slug": {
+                "en": "activateifpossible-overwritten-by-new-catalog-ui",
+                "es": "activateifpossible-ha-sido-sustituido-por-la-nueva-interfaz-de-usuario-del-catalogo",
+                "pt": "activateifpossible-substituido-pela-nova-interface-do-usuario-do-catalogo"
               },
               "origin": "",
               "type": "markdown",

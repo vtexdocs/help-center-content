@@ -3,7 +3,7 @@ title: 'Agent Builder - Visão geral'
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2026-03-24T16:21:28.723Z
+updatedAt: 2026-06-15T00:00:00.000Z
 publishedAt: 2025-09-08T16:21:28.723Z
 firstPublishedAt: 2025-07-29T16:45:36.827Z
 contentType: tutorial
@@ -20,7 +20,7 @@ O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em 
 
 A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
 
-> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX CX Platform](/pt/docs/tutorials/agentes-oficiais-da-weni-by-vtex).
+> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
@@ -34,20 +34,20 @@ Em **Agent Builder**, as seguintes páginas estão disponíveis:
 
 - [**Meus agentes**](#meus-agentes)
 - [**Base de conhecimento**](#base-de-conhecimento)
-- [**Fluxo de automação**](#fluxo-de-automação)
+- [**Fluxo de automação**](#fluxo-de-automacao)
 
 ### Meus agentes
 
-Nessa página, você pode atribuir e testar agentes para a sua loja, editar o manager e editar as instruções que esse manager deve seguir.
+> Nessa página, você pode atribuir e testar agentes para a sua loja, além de editar o manager e as instruções que ele deve seguir.
 
-Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](/pt/docs/tutorials/atribuir-e-testar-agentes).
+Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](https://help.vtex.com/pt/docs/tutorials/atribuir-e-testar-agentes).
 
 #### Editar manager
 
-Essa página contém duas abas:
+A opção **Editar Manager** do agente orquestrador possui as seguintes abas:
 
 - [Perfil](#perfil)
-- [Configurações](#configurações)
+- [Motor](#motor)
 
 ##### Perfil
 
@@ -70,38 +70,62 @@ Leia a seguir a descrição detalhada de cada tom de voz:
 | Criativo | Utiliza a imaginação para se comunicar, priorizando soluções originais. Ele é capaz de oferecer respostas diferenciadas e adaptar a linguagem para tornar o conteúdo mais relevante e cativante para o cliente. |
 | Informal | É leve, energético e informal. Mantém um tom mais acessível e humano. |
 
-##### Configurações
+##### Motor
 
-Em **Manager**, você pode selecionar o manager do seu agente orquestrador. Oferecemos duas opções:
+Em **Fonte de motor**, você pode selecionar o modelo de agente nativo do VTEX CX Platform ou um modelo de LLM no qual você possua uma Chave API cadastrada. Caso deseje utilizar o modelo externo, selecione a opção **Chave API própria** e preencha os campos abaixo:
 
-- Manager 2.6.
-- Vertex Manager.
+- **Provedor**: empresa proprietária do modelo.
+- **Modelo**: versão disponível do modelo.
+- **API Key**: sua chave de API cadastrada no provedor do modelo.
 
-Em **Prévia dos agentes**, há dois botões de alternância:
+> ℹ️ Para ativar qualquer modificação realizada nas informações das abas **Perfil** ou **Motor**, é necessário clicar em `Salvar alterações`.
 
-- **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+Se você selecionou o motor nativo da plataforma, poderá escolher, em **Versão do manager**, entre duas opções de agente orquestrador:
+
+- **Manager 2.7** (Recomendado).
+- **Manager 2.6** (Modelo legado).
+
+Em **Prévia dos agentes**, existem duas configurações possíveis:
 
 - **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
+- **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+
+
+
 #### Editar instruções
 
-Em **Instruções**, você pode adicionar instruções diretas para determinar como seu agente se comporta.
+Ao clicar no botão `Editar instruções` do agente orquestrador, você acessa a página **Instruções**, onde pode adicionar instruções diretas para determinar como seu agente se comporta. Não há limite para a quantidade de instruções que podem ser criadas.
 
 ##### Validação por IA
 
-Você pode passar todas as instruções pela validação por IA. A IA vai analisar a instrução e . Além disso, você também pode pedir uma sugestão para a IA, que vai analisar a instrução e editá-la conforme achar necessário.
+Ao criar instruções personalizadas, você pode solicitar a validação da IA, que analisará cada uma delas e indicará possíveis problemas ou pontos de melhoria. Além disso, você também pode solicitar uma sugestão automática, que revisará a instrução e a editará conforme necessário.
 
-Para validar a instrução por IA, siga os passos a seguir:
+Para utilizar a validação de instrução por IA ao criar uma instrução, siga os passos a seguir:
 
 1. Ative o botão <i class="fas fa-toggle-on" aria-hidden="true"></i> **Validar instrução por IA**.
-2. Digite sua instrução e clique em `Validar instrução`.
-3. Ao final, clique em `Publicar`.
+2. Digite a sua instrução em **Nova instrução personalizada** e clique em `Validar instrução`.
+3. Após a análise da instrução, caso o resultado seja **Nenhum problema encontrado. Pronto para publicar!**, clique em `Publicar`.
 
-Se não quiser passar a instrução por validação da IA, desative a opção **Validar instrução por IA**. Após digitar sua instrução personalizada, clique em `Publicar instrução`.
+> ⚠️ Caso apareça uma mensagem de aviso em **Resultados da validação**, corrija a instrução conforme as orientações exibidas e clique em `Re-validar`.
 
-Se você adicionou uma instrução e deseja removê-la ou editá-la, clique no botão de <i class="fas fa-ellipsis-v" aria-hidden="true"></i>três pontos ao lado da instrução. Para remover, clique em `Remover instrução` e, em seguida, em `Remover`. Para editá-la, clique em `Editar instruções` e em seguida, ao terminar, clique em `Salvar`.
+> ℹ️ É possível criar uma nova instrução personalizada sem a validação da IA. Para realizar esta ação, desative a opção **Validar instrução por IA**, digite a instrução e clique em `Publicar instrução`.
 
-> ℹ️ Não há um limite para a quantidade de instruções.
+##### Lista de instruções
+
+Na **Lista de instruções**, você pode verificar as seguintes informações:
+
+- **Instruções personalizadas:** instruções criadas para o agente. É possível localizá-las usando a barra de busca ou copiá-las clicando no botão `Copiar instruções`.
+
+- **Instruções padrão:** comportamentos definidos pela plataforma. Essas instruções não podem ser editadas.
+
+- **Temas de segurança:** assuntos não mencionados pelo agente durante um atendimento. Esses temas não podem ser editados.
+
+Para editar ou remover uma instrução personalizada, siga os passos a seguir:
+
+1. Clique no botão de três pontos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> ao lado da instrução desejada.
+2. Para editá-la, clique em `Editar instrução`, faça os ajustes necessários e clique em `Salvar`.
+3. Para excluí-la, clique em `Excluir instrução` e, em seguida, em `Excluir`.
 
 ### Base de conhecimento
 
@@ -145,4 +169,4 @@ Após inserir um texto, clique em `Salvar`.
 
 Você pode criar fluxos de automação para interagir com um grupo de usuários e determinar as respostas do agente com base nas mensagens dos usuários.
 
-Para entender como criar fluxos, leia o artigo [Introdução a fluxos](https://help.vtex.com/pt/docs/tutorials/introducao-a-fluxos).
+Para mais informações, acesse [Visão geral Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao).
