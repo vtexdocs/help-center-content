@@ -43,11 +43,11 @@ A seção **Definições** contém preferências gerais do atendimento humano da
 | **Permitir que agentes de IA transfiram conversas para atendimento humano** | Permite que um agente de IA encaminhe a conversa para um atendente humano. Ao ativar essa opção, descreva no campo de texto os cenários ou critérios que requerem transferência para atendimento humano, em até 1000 caracteres. |
 | **Permitir interações apenas para atendentes online** | Impede que atendentes offline ou em pausa respondam a chats em andamento. |
 | **Transferir chats em massa para outra fila ou atendente** | Permite transferir vários chats de uma vez para outra fila ou para outro atendente. |
-| **Bloquear transferência de chats para atendentes offline** | Impede a transferências de chats para atendentes que estão offline. |
+| **Bloquear transferência de chats para atendentes offline** | Impede a transferência de chats para atendentes que estão offline. |
 | **Finalizar chats em massa** | Permite encerrar vários chats de uma vez. |
 | **Bloquear a finalização de chats que estão na fila** | Impede a finalização de chats que estão aguardando atendimento. |
 | **Assumir chats em massa** | Permite que o atendente assuma vários chats de uma vez. |
-| **Permite que atendentes escolham de quais filas recebem chats** | Permite que os atendentes escolham as filas que vão atender. Quando ativada, o recurso fica visível apenas para atendentes no módulo **Live Desk** dentro de **Operações**. |
+| **Permite que atendentes escolham de quais filas recebem chats** | Permite que os atendentes escolham as filas que vão atender. Quando ativado, o recurso fica visível apenas para atendentes no módulo **Live Desk** dentro de **Operações**. |
 | **Exibir o contador com o número de chats esperando atendimento humano** | Mostra a quantidade de chats aguardando atendimento humano. |
 | **Mostrar setor do chat na lista de conversas** | Exibe o setor de cada atendimento na lista de conversas. Quando ativada, uma tag com o setor do chat será exibida ao lado do nome do contato. |
 
@@ -68,7 +68,7 @@ A aba **Setores** permite criar e gerenciar os setores de atendimento da sua ope
 Na seção **Gestão de setores**, você pode:
 
 - Buscar um setor pelo nome no campo **Filtrar por nome do setor**.
-- Ordenar a lista de setores por ordem alfábetica, mais recente ou mais antigo.
+- Ordenar a lista de setores por ordem alfabética, mais recente ou mais antigo.
 - Editar ou excluir um setor clicando no menu `⋮` no card do setor.
 - Criar um novo setor.
 
@@ -87,7 +87,7 @@ Para criar um setor, siga o passo a passo a seguir:
 Na primeira etapa, escolha entre as seguintes opções:
 
 - **Personalizar novo setor (recomendado):** Configura todos os detalhes do setor manualmente.
-- **Criar setor padrão (mais rápido):** Cria um setor com configurações pré-definidas.
+- **Criar setor padrão (mais rápido):** Cria um setor com configurações predefinidas.
 
 Se optar por **Personalizar novo setor**, preencha os campos abaixo.
 
@@ -118,7 +118,7 @@ Ao preencher os campos, clique em `Continuar`.
 Na segunda etapa, configure a fila de atendimento do setor. Escolha entre as seguintes opções:
 
 - **Criar uma fila personalizada (recomendado):** Define os detalhes da fila manualmente.
-- **Criar fila padrão (mais rápido):** Cria uma fila com configurações pré-definidas.
+- **Criar fila padrão (mais rápido):** Cria uma fila com configurações predefinidas.
 
 Se optar por **Criar uma fila personalizada**, preencha os campos a seguir:
 
@@ -140,7 +140,7 @@ Em **Opções extras**, ative ou desative as configurações conforme a necessid
 
 | Opção | Descrição |
 | --- | --- |
-| **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens pré-configurados durante o atendimento. |
+| **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens preconfigurados durante o atendimento. |
 | **Usar assinatura** | Adiciona automaticamente o nome do agente em cada mensagem enviada. |
 | **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
 
