@@ -28496,6 +28496,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Braintree-Wallet",
+                    "es": "Configurar pago con Braintree-Wallet",
+                    "pt": "Configurar pagamento com Braintree-Wallet"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braintree-wallet",
+                    "es": "configurar-pago-con-braintree-wallet",
+                    "pt": "configurar-pagamento-com-braintree-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Brinks Cash Ecommerce",
                     "es": "Configurar pago con Brinks Cash Ecommerce",
                     "pt": "Configurar pagamento com Brinks Cash Ecommerce"
@@ -29216,6 +29231,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with KlarnaPayments",
+                    "pt": "Configurar pagamento com KlarnaPayments",
+                    "es": "Setting up payments with KlarnaPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-klarnapayments",
+                    "pt": "configurar-pagamento-com-klarnapayments",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Koin-Payments",
                     "es": "Configurar pago con Koin-Payments",
                     "pt": "Configurar pagamento com Koin-Payments"
@@ -29224,6 +29254,21 @@
                     "en": "setting-up-payments-with-koin-payments",
                     "es": "configurar-pago-con-koin-payments",
                     "pt": "configurar-pagamento-com-koin-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Koin-PaymentsV2",
+                    "es": "Configurar pago con Koin-PaymentsV2",
+                    "pt": "Configurar pagamento com Koin-PaymentsV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-koin-paymentsv2",
+                    "es": "configurar-pago-con-koin-paymentsv2",
+                    "pt": "configurar-pagamento-com-koin-paymentsv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29411,6 +29456,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with MSC-Payment",
+                    "es": "Configurar pago con MSC-Payment",
+                    "pt": "Configurar pagamento com MSC-Payment"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-msc-payment",
+                    "es": "configurar-pago-con-msc-payment",
+                    "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Netopia Marketplace",
                     "es": "Configurar pago con Netopia Marketplace",
                     "pt": "Configurar pagamento com Netopia Marketplace"
@@ -29509,6 +29569,21 @@
                     "en": "setting-up-payments-with-onebuy",
                     "es": "configurar-pagos-con-onebuy",
                     "pt": "configurar-pagamentos-com-onebuy"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with OpenpayV2",
+                    "es": "Configurar pago con OpenpayV2",
+                    "pt": "Configurar pagamento com OpenpayV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-openpayv2",
+                    "es": "configurar-pago-con-openpayv2",
+                    "pt": "configurar-pagamento-com-openpayv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29734,6 +29809,21 @@
                     "en": "setting-up-payments-with-payjoy",
                     "es": "configurar-pago-con-payjoy",
                     "pt": "configurar-pagamento-com-payjoy"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with PaymentezV2",
+                    "es": "Configurar pago con PaymentezV2",
+                    "pt": "Configurar pagamento com PaymentezV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-paymentezv2",
+                    "es": "configurar-pago-con-paymentezv2",
+                    "pt": "configurar-pagamento-com-paymentezv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30184,6 +30274,21 @@
                     "en": "setting-up-payments-with-tilopay",
                     "es": "configurar-pago-con-tilopay",
                     "pt": "configurar-pagamento-com-tilopay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with TilopayOnSite",
+                    "es": "Configurar pago con TilopayOnSite",
+                    "pt": "Configurar pagamento com TilopayOnSite"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-tilopayonsite",
+                    "es": "configurar-pago-con-tilopayonsite",
+                    "pt": "configurar-pagamento-com-tilopayonsite"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39410,6 +39515,21 @@
                 "en": "incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration",
                 "es": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
                 "pt": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Malformed button in B2B Suite Organizations Custom Fields Admin UI",
+                "es": "Botón con un formato incorrecto en la interfaz de administración de campos personalizados de las organizaciones de B2B Suite",
+                "pt": "Botão com formato incorreto na interface de administração de campos personalizados das organizações do B2B Suite"
+              },
+              "slug": {
+                "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
+                "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
+                "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
