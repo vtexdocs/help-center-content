@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Facebook Business Extension'
 id: 434Z1iWnaa0zbOMDyr6oi
 status: PUBLISHED
@@ -37,7 +37,7 @@ Obtenga más información sobre la configuración requerida para cada uno en nue
 
 El Píxel de Facebook te permite medir la eficacia de la publicidad de tu negocio analizando las acciones que los usuarios realizan en tu sitio web. Con la integración con la aplicación Facebook Business Extension y la API Conversions, esto se puede hacer de forma nativa.
 
-Actualmente, el píxel de Facebook se obtiene integrando la [aplicación Facebook Business Extension](https://apps.vtex.com/vtex-facebook-fbe/p) y la API Conversions y está disponible para las tiendas VTEX IO y Legacy CMS Portal. Si tu tienda utiliza el sistema Legacy CMS, será necesario realizar una configuración manual en el sistema. Obtén más información en el artículo [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend).
+Actualmente, el píxel de Facebook se obtiene integrando la [aplicación Facebook Business Extension](https://apps.vtex.com/vtex-facebook-fbe/p) y la API Conversions y está disponible para las tiendas VTEX IO y CMS Portal (Legacy). Si tu tienda utiliza el sistema Legacy CMS, será necesario realizar una configuración manual en el sistema. Obtén más información en el artículo [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend).
 
 Sin embargo, si tu tienda ya utiliza la antigua aplicación Facebook pixel de la App store, debes comprobar que la aplicación se ha desinstalado correctamente. Si la aplicación sigue instalada, puede duplicar los eventos de Facebook.
 

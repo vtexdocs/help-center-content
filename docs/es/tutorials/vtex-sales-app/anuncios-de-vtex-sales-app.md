@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Anuncios de VTEX Sales App'
 id: 3UtOFwbwD4muz3p72RBPmC
 status: PUBLISHED
@@ -22,7 +22,7 @@ Para personalizar la vitrina de una tienda, los retailers pueden agregar una pá
 En este documento, se presentan las instrucciones detalladas para instalar, configurar y utilizar la nueva funcionalidad de anuncios. Sigue los pasos a continuación para configurar esta herramienta e impulsar tus ventas online.
 
 * [Instalar las dependencias de VTEX](#instalar-las-dependencias-de-vtex)
-* [Configurar la aplicación Headless CMS](#configurar-la-aplicacion-headless-cms)
+* [Configurar la aplicación Headless CMS (Legacy)](#configurar-la-aplicacion-headless-cms)
 * [Crear la página de anuncios](#crear-la-pagina-de-anuncios)
 * [Activar el menú de anuncios en VTEX Sales App](#activar-el-menu-de-anuncios-en-vtex-sales-app)
 * [Acceder a los anuncios en VTEX Sales App](#acceder-a-los-anuncios-en-vtex-sales-app)
@@ -40,7 +40,7 @@ Antes de instalar las dependencias, debes tener la [CLI de VTEX IO](https://deve
     vtex install vtex.admin-cms@1.x vtex.admin-cms-graphql@0.x vtex.admin-cms-graphql-rc@1.x vtex.admin-releases@0.x vtex.cms-builder-sf-jamstack@1.x
     ```
 
-## Configurar la aplicación Headless CMS
+## Configurar la aplicación Headless CMS (Legacy)
 
 1. En el Admin VTEX, accede a **Apps > Mis Apps** o escribe **Mis Apps** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en `Configuración` en la tarjeta de **CMS (alpha)**.
