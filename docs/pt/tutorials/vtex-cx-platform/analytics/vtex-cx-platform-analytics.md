@@ -42,7 +42,7 @@ No canto superior direito da tela, você encontra os seguintes controles:
 
 Esses dados são atualizados automaticamente e você consegue visualizar a hora da última atualização ao lado do botão **Atualizar**.
 
-Para configurar as preferências do Live Desk, acesse **Configurações > Live Desk**. Para saber mais sobre as preferências, acesse o artigo [Configurar preferências do Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+Para configurar as preferências do Live Desk, acesse **Configurações > Live Desk**. Para saber mais sobre as preferências, acesse o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
 
 #### Monitoramento
 
@@ -50,7 +50,7 @@ A aba **Monitoramento** exibe informações em tempo real sobre os atendimentos 
 
 Ela contém as seguintes seções:
 
-![Tela de monitoramento 1](tela de monitoramento 1.png)
+![Tela de monitoramento 1](#tela-de-monitoramento-1.png)
 
 ##### 1. Status dos atendimentos
 
@@ -58,7 +58,7 @@ Apresenta um resumo rápido do estado atual dos atendimentos com três contadore
 
 - **Em espera:** Número de contatos aguardando o início do atendimento na fila.
 - **Em andamento:** Atendimentos conduzidos por um agente no momento.
-- **Finalizado:** Total de atendimentos encerrados no período.
+- **Finalizado:** Total de atendimentos encerrados no período. O período considerado nesta métrica é do dia corrente.
 
 ##### 2. Métricas de tempo agora
 
@@ -74,7 +74,7 @@ Cada métrica também exibe o valor máximo registrado no período.
 
 Gráfico de linha que mostra a distribuição de atendimentos iniciados ao longo das horas do dia. Use esse gráfico para identificar os horários de pico de demanda e planejar a escala de agentes.
 
-![Tela de monitoramento 2](tela de monitoramento 2.png)
+![Tela de monitoramento 2](#tela-de-monitoramento-2.png)
 
 ##### 4. Volume por fila
 
@@ -96,7 +96,9 @@ Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendi
 - **Avaliação por agente:** Nota individual de cada agente, com o número de atendimentos e avaliações recebidas. Os atendentes com as maiores notas aparecerão nessa lista.
 - **Distribuição das avaliações:** Gráfico de barras com o percentual e o número de respostas em cada nível: Muito satisfeito, Satisfeito, Neutro, Insatisfeito e Muito insatisfeito.
 
-![Tela de monitoramento 3](tela de monitoramento 3.png)
+> ⚠️ Para exibir o widget de CSAT, ele precisa estar nativo em pelo menos um dos setores do projeto. Caso não esteja ativo, você precisa clicar no botão `Ativar` e ativar em um setor. Para mais informações sobre os setores, leia o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+
+![Tela de monitoramento 3](#tela-de-monitoramento-3.png)
 
 ##### 7. Monitoramento detalhado
 
@@ -116,8 +118,6 @@ Ao clicar em um dos atendimentos, você será redirecionado à página do Live D
 A aba **Análise** exibe dados históricos sobre atendimentos finalizados. Use o seletor de período para definir o intervalo de datas que deseja consultar.
 
 Essa aba contém as seguintes seções:
-
-![Tela de análise 1](tela de análise 1.png)
 
 ##### 1. Métricas do período
 
@@ -142,8 +142,6 @@ Tabela que lista as filas de atendimento e exibe a quantidade de atendimentos fi
 ##### 4. Volume por tag
 
 Tabela que lista as tags associadas aos atendimentos e exibe a quantidade de atendimentos finalizados em cada uma, ordenados de forma decrescente. Essa tabela identifica os assuntos ou categorias que concentraram mais volume no período. Para ver a lista completa, clique em `Ver todos`.
-
-![Tela de análise 2](tela de análise 2.png)
 
 ##### 5. CSAT
 
@@ -245,7 +243,7 @@ Você pode escolher entre widgets nativos do VTEX CX Platform ou widgets persona
 ##### Widgets nativos
 
 - **CSAT:** Acompanha o nível de satisfação dos clientes a partir da pontuação do CSAT.
-- **NPS:** Mede a probabilidade de um contato de recomendar o serviçø recebido.
+- **NPS:** Mede a probabilidade de um contato de recomendar o serviço recebido.
 - **Agentes mais usados:** Exibe um ranking dos agentes mais utilizados pelo atendimento.
 - **Ferramentas mais usadas:** Lista as ferramentas mais utilizadas pelo atendimento.
 - **Funil e dados de vendas:** Relaciona as conversas com os resultados comerciais gerados no período.
