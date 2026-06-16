@@ -2,10 +2,10 @@
 title: 'Setting up payments with PaymentezV2'
 id:
 status: PUBLISHED
-createdAt: 2026-16-06T00:00:00.000Z
-updatedAt: 2026-16-06T00:00:00.000Z
-publishedAt: 2026-16-06T00:00:00.000Z
-firstPublishedAt: 2026-16-06T00:00:00.000Z
+createdAt: 2026-06-16T00:00:00.000Z
+updatedAt: 2026-06-16T00:00:00.000Z
+publishedAt: 2026-06-16T00:00:00.000Z
+firstPublishedAt: 2026-06-16T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
