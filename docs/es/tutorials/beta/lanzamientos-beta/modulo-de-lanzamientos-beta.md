@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Módulo de Lanzamientos (Beta)'
 id: n2tN0WX5I6MJMbrJrS0Kb
 status: PUBLISHED
@@ -28,7 +28,7 @@ Los principales beneficios para el módulo son:
 - Mayor control al probar y revisar los cambios antes de la publicación.
 - Facilidad para programar o eliminar grupos de cambios.
 
-> ℹ️ El módulo **Lanzamientos** debe estar configurado en el CMS para poder usarlo. Obtén más información en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ℹ️ El módulo **Lanzamientos** debe estar configurado en el CMS para poder usarlo. Obtén más información en [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Este artículo trata los siguientes temas:
 

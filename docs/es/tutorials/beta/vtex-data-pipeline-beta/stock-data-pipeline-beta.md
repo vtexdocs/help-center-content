@@ -48,8 +48,8 @@ Estos son los campos que componen la tabla:
 | quantity | bigint | Cantidad total de ítems en stock para el ítem en el almacén (cantidad física). |
 | reserved_quantity | bigint | Número de reservas activas para el ítem. |
 | last_update | timestamp without time zone | Última vez que se actualizó el stock de ese ítem específico. |
-| parent_account_name | character varying(200) | Nombre de la cuenta padre. Es la cuenta de nivel más alto en la jerarquía; si no existe, usa `main_account`. |
 | batch_id | character varying(13) | Identifica el último lote de ingesta que actualizó esta fila. Se usa para trazabilidad y calidad de datos. |
+| parent_account_name | character varying(200) | Nombre de la cuenta padre. Es la cuenta de nivel más alto en la jerarquía; si no existe, usa `main_account`. |
 | record_created_at | timestamp without time zone | Timestamp de cuando el registro fue insertado por primera vez en Lake House. |
 | record_updated_at | timestamp without time zone | Timestamp de cuando el registro fue actualizado por última vez en Lake House. |
 
@@ -60,17 +60,17 @@ Estos son los campos que componen la tabla:
 | **Nombre de la Columna**| **Tipo de Columna** | **Descripción de la Columna** |
 |------|--------|---------|
 | warehouse_id | character varying(100) | Identificador del almacén. |
-| warehouse_name | character varying(200) | Nombre del almacén según la definición en Admin. |
+| warehouse_name | character varying(200) | Nombre del almacén según la definición del Admin Console. |
 | account_id | character varying(38) | Identificador de la cuenta. |
 | account_name | character varying(100) | Nombre de la cuenta. |
-| is_active | boolean | Indica si el almacén está activo. |
-| warehouse_docks | super | Docks vinculados al almacén. |
-| pickup_point_ids | super | Puntos de retiro vinculados al almacén. |
-| priority | integer | Criterio de desempate usado para seleccionar almacenes cuando tienen el mismo score de ruta. |
-| is_deleted | boolean | Indica si el almacén fue eliminado. |
-| record_created_at | timestamp without time zone | Registro interno de cuándo se creó por primera vez la entidad almacén. |
-| record_updated_at | timestamp without time zone | Registro interno de cuándo se actualizó por última vez la entidad almacén. |
-| parent_account_name | character varying(50) | Nombre de la cuenta padre. Es la cuenta de nivel más alto en la jerarquía; si no existe, usa `main_account`. |
+| is_active | boolean | Valor booleano que indica si un almacén está activo. |
+| warehouse_docks | super | Especifica qué docks están vinculados al almacén. |
+| pickup_point_ids | super | Especifica qué puntos de retiro están vinculados al almacén. Se usa en compras vía salesapp, cuando el comprador hace check-in directamente en el punto de retiro. |
+| priority | integer | Criterio de desempate usado para seleccionar un almacén cuando dos o más tienen la misma puntuación durante el proceso de selección de ruta. |
+| is_deleted | boolean | Valor booleano que indica si un almacén fue eliminado del admin console. |
+| record_created_at | timestamp without time zone | Timestamp que indica cuándo se insertó el registro. |
+| record_updated_at | timestamp without time zone | Timestamp que indica la última vez que se actualizó el registro. |
+| parent_account_name | varchar(50) | Nombre de la cuenta padre en License Manager. Es la estructura de cuenta de nivel más alto. |
 
 ## Análisis con datos de stock
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Validar instalação'
 id: 1le8tz3fyBdb7kR4UdxTjZ
 status: PUBLISHED
@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 3
 ---
 
-> ℹ️ Esta seção se aplica a lojas que usam o Store Framework (VTEX IO), CMS - Portal Legado ou Headless CMS, mas não a lojas externas, que recebem um código para usar a plataforma [Nizza](https://platform.nizza.com/login).
+> ℹ️ Esta seção se aplica a lojas que usam o Store Framework (VTEX IO), CMS - Portal Legado ou Headless CMS (Legacy), mas não a lojas externas, que recebem um código para usar a plataforma [Nizza](https://platform.nizza.com/login).
 
 Após a instalação bem-sucedida do **Live Shopping**, você poderá acessar estas quatro páginas:
 
