@@ -38,5 +38,5 @@ TikTok Pixel is a JavaScript code you can include on your store's website to sha
 * Add one or more products to the shopping cart.
 * Make a purchase.
 
-In VTEX IO stores, by installing and configuring TikTok for Business, TikTok Pixel will automatically be installed. In stores using Legacy or Headless CMS (Legacy), you need to configure it manually, following the [TikTok documentation](https://ads.tiktok.com/help/article?aid=10000357) to insert the code using Google Tag Manager. Learn more in the [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) developer’s guide.
+In VTEX IO stores, by installing and configuring TikTok for Business, TikTok Pixel will automatically be installed. In stores using CMS Portal (Legacy) or Headless CMS (Legacy), you need to configure it manually, following the [TikTok documentation](https://ads.tiktok.com/help/article?aid=10000357) to insert the code using Google Tag Manager. Learn more in the [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) developer’s guide.
 

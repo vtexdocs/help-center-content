@@ -46,5 +46,5 @@ The app is fully compatible with [VTEX IO](/en/docs/tracks/cms-vtex-io) stores a
 
 To install the app and integrate your VTEX store with TikTok, follow the instructions in the [TikTok integration guide](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
 
-See also the [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) guide for developers.  
+See also the [TikTok for Business](https://developers.vtex.com/docs/apps/vtexbr.tiktok-tbp) guide for developers.  
 
