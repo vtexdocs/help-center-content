@@ -259,6 +259,16 @@
       "countries": ["BR", "CA", "US"]
     },
     {
+      "name": "Braintree-Wallet",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-braintree-wallet",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-braintree-wallet",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-braintree-wallet"
+      },
+      "countries": ["BR", "US"]
+    },
+    {
       "name": "Brinks Cash Ecommerce",
       "payoutSplit": false,
       "docs": {
@@ -710,7 +720,17 @@
         "en": "https://help.vtex.com/en/tutorial/setting-up-payments-with-izipay--7bGGw6A9xidRfaOhOU1Ibd",
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-izipay--7bGGw6A9xidRfaOhOU1Ibd"
       },
-      "countries": ["PE"]
+      "countries": ["PE", "US"]
+    },
+    {
+      "name": "KlarnaPayments",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-klarnapayments",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-klarnapayments",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-klarnapayments"
+      },
+      "countries": ["PT", "MX"]
     },
     {
       "name": "K8Bank",
@@ -751,6 +771,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-koin-payments--5nTQFgTLGkPcJrqi7PKlO1"
       },
       "countries": ["BR", "AR"]
+    },
+    {
+      "name": "Koin-PaymentsV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-koin-paymentsv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-koin-paymentsv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-koin-paymentsv2"
+      },
+      "countries": ["AR", "BR", "CL"]
     },
     {
       "name": "Kueski Pay",
@@ -893,6 +923,16 @@
       "countries": ["AR"]
     },
     {
+      "name": "MSC-Payment",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-msc-payment",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-msc-payment",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-msc-payment"
+      },
+      "countries": ["US", "VE"]
+    },
+    {
       "name": "Netopia Marketplace",
       "payoutSplit": false,
       "docs": {
@@ -951,6 +991,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-el-gateway-openpay--5vGj3UIFCU4GFFqVBlYKW2"
       },
       "countries": ["MX"]
+    },
+    {
+      "name": "OpenpayV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-openpayv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-openpayv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-openpayv2"
+      },
+      "countries": ["CO", "MX", "PE"]
     },
     {
       "name": "Orkesta",
@@ -1121,6 +1171,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-payjoy--MNN6mbLPEwr10jA9eavl1"
       },
       "countries": ["MX"]
+    },
+    {
+      "name": "PaymentezV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-paymentezv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-paymentezv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-paymentezv2"
+      },
+      "countries": ["CO", "MX", "PE", "US"]
     },
     {
       "name": "PayMee",
@@ -1451,6 +1511,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-tilopay--2ZJUBq9WTNvrErhNveaRIs"
       },
       "countries": ["CR", "GT", "HN", "US"]
+    },
+    {
+      "name": "TilopayOnSite",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-tilopayonsite",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-tilopayonsite",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-tilopayonsite"
+      },
+      "countries": ["CR", "DO", "GT", "HN", "NI", "US"]
     },
     {
       "name": "Tino",
