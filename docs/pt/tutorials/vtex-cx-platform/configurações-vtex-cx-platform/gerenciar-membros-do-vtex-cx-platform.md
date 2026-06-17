@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de membros'
+title: 'Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform'
 id: 3nSppEH6dMTGElFBtrhHGb
 status: PUBLISHED
 createdAt: 2026-03-31T15:01:05.207Z
@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: manage-members-vtex-cx-platform
-legacySlug: gerenciamento-de-membros-vtex-agentic-cx-platform
+legacySlug: gerenciar-membros-do-vtex-cx-platform
 locale: pt
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
