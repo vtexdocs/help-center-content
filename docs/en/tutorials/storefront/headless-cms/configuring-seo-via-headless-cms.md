@@ -1,5 +1,5 @@
----
-title: 'Configuring SEO via Headless CMS'
+﻿---
+title: 'Configuring SEO via Headless CMS (Legacy)'
 id: 1qaJuB28kOJRfhyaGeezGc
 status: PUBLISHED
 createdAt: 2025-07-14T16:29:35.269Z
@@ -17,13 +17,13 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages.
 
-In stores developed with [FastStore](https://developers.vtex.com/docs/guides/faststore), you can manage SEO settings through the [Headless CMS](/en/docs/tutorials/headless-cms-overview).
+In stores developed with [FastStore](https://developers.vtex.com/docs/guides/faststore), you can manage SEO settings through the [Headless CMS (Legacy)](/en/docs/tutorials/headless-cms-overview).
 
 > ℹ️ For stores developed with Store Framework, see [Configuring SEO in your Store Framework store](/en/tutorial/configurando-seo-em-sua-loja--1skskesjusvghyqm8oknvr).
 
 ## Instructions
 
-1. In the VTEX Admin, go to **Storefront > Headless CMS**.
+1. In the VTEX Admin, go to **Storefront > Headless CMS (Legacy)**.
 2. Click the desired page.
 
   > ℹ️ This setting is available for the following [content types](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections): **Product Detail Page (PDP)**, ** home**, and **landing page**.
