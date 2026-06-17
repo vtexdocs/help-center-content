@@ -17,9 +17,9 @@ subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 
 Alguns marketplaces operam com frete do tipo **FOB** (*Free on Board*), no qual a entrega é de responsabilidade do próprio marketplace. Isso significa que ele define o tipo de entrega, calcula e cobra o frete do comprador e emite a etiqueta de envio, cabendo à loja apenas separar o produto e despachá-lo.
 
-Neste artigo, você entende como os pedidos com frete do tipo FOB se comportam ao serem integrados à VTEX e quais cuidados tomar na integração com o seu ERP. Esse fluxo simplifica a configuração da integração e evita que o pedido seja bloqueado por divergências nesses detalhes.
+Neste artigo, você entende como os pedidos com frete do tipo FOB se comportam ao serem integrados à VTEX e quais cuidados ter na integração com o seu ERP. Esse fluxo simplifica a configuração da integração e evita que o pedido seja bloqueado por divergências nesses detalhes.
 
-Entenda a seguir como funcionam o estoque, a exibição do pedido, a API e a etiqueta no cenário de frete tipo FOB.
+Entenda a seguir como funciona o estoque, a exibição do pedido, a API e a etiqueta no cenário de frete tipo FOB.
 
 ## Seleção de estoque
 
@@ -31,7 +31,7 @@ Nos pedidos com frete realizado pelo marketplace, a VTEX define de qual estoque 
 
 Se mais de um estoque atender a todos os critérios, a escolha final será aleatória.
 
-Caso o pedido tenha várias unidades do mesmo SKU, é necessário que um único estoque tenha a quantidade total. Do contrário, o pedido será barrado pela VTEX, que acusará falta de estoque.
+Caso o pedido tenha várias unidades de um mesmo SKU, é necessário que um único estoque tenha a quantidade total. Do contrário, o pedido será barrado pela VTEX, que acusará falta de estoque.
 
 ## Exibição do pedido no OMS
 
@@ -80,7 +80,7 @@ Veja abaixo um exemplo do objeto `logisticsInfo` retornado pela API em um pedido
 ],
 ```
 
-## Etiqueta
+## Acessar a etiqueta de envio emitida pelo marketplace
 
 A etiqueta de envio para este tipo de frete é gerada pelo próprio marketplace. Veja a seguir como ela é disponibilizada e onde acessá-la.
 
@@ -88,7 +88,7 @@ O envio utiliza o contrato que o marketplace mantém com a transportadora, no ca
 
 É possível acessar a etiqueta diretamente pelo OMS. Para isso, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca.
+1. No Admin VTEX, acesse **Pedidos > Todos os pedidos** ou digite **Todos os pedidos** na barra de busca.
 2. Clique no pedido desejado.
 3. Abaixo dos itens do pedido, clique no link **Correios**.
 4. Uma nova janela será aberta com o PDF da etiqueta para impressão.
