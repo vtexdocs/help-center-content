@@ -37506,12 +37506,12 @@
                   "name": {
                     "en": "Live Desk: Human service dashboard",
                     "es": "Live Desk: Dashboard",
-                    "pt": "Live Desk: Dashboard"
+                    "pt": "Live Desk: Human service dashboard"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-live-desk-dashboard",
                     "es": "dashboard-de-live-desk",
-                    "pt": "dashboard-do-live-desk"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
