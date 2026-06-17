@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform'
+title: 'Gerenciar membros do VTEX CX Platform'
 id: 3nSppEH6dMTGElFBtrhHGb
 status: PUBLISHED
 createdAt: 2026-03-31T15:01:05.207Z
