@@ -31,7 +31,7 @@ Nos pedidos com frete realizado pelo marketplace, a VTEX define de qual estoque 
 
 Se mais de um estoque atender a todos os critérios, a escolha final será aleatória.
 
-Caso o pedido tenha várias unidades de um mesmo SKU, é necessário que um único estoque tenha a quantidade total. Do contrário, o pedido será barrado pela VTEX, que acusará falta de estoque.
+Caso o pedido tenha várias unidades do mesmo SKU, é necessário que um único estoque tenha a quantidade total. Do contrário, o pedido será barrado pela VTEX, que acusará falta de estoque.
 
 ## Exibição do pedido no OMS
 
