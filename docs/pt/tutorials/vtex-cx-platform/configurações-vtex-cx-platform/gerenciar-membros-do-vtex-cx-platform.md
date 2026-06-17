@@ -9,7 +9,7 @@ firstPublishedAt: 2026-03-31T14:20:04.367Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: manage-members-vtex-cx-platform
+slugEN: manage-vtex-cx-platform-members
 legacySlug: gerenciar-membros-do-vtex-cx-platform
 locale: pt
 subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
