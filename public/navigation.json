@@ -37519,6 +37519,21 @@
                 },
                 {
                   "name": {
+                    "en": "Manage Live Desk",
+                    "es": "Configurar el Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "manage-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Using active triggering of flows",
                     "es": "Utilizando el disparo activo de flujos",
                     "pt": "Utilizando disparo ativo de fluxos"
@@ -37555,37 +37570,6 @@
                   },
                   "slug": {
                     "pt": "visao-geral-do-live-desk-agentic-cx",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configurações VTEX CX Platform",
-                "es": "Configurações VTEX CX Platform",
-                "pt": "Configurações VTEX CX Platform"
-              },
-              "slug": {
-                "en": "configuracoes-vtex-cx-platform",
-                "es": "configuracoes-vtex-cx-platform",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Gerenciamento de membros",
-                    "en": "Gerenciamento de membros",
-                    "es": "Gerenciamento de membros"
-                  },
-                  "slug": {
-                    "pt": "gerenciamento-de-membros-vtex-cx-platform",
                     "en": "",
                     "es": ""
                   },
@@ -38559,14 +38543,14 @@
                 },
                 {
                   "name": {
-                    "en": "Manage Live Desk",
-                    "es": "Configurar el Live Desk",
-                    "pt": "Configurar o Live Desk"
+                    "en": "Manage VTEX CX Platform Members",
+                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "manage-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
+                    "en": "manage-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
