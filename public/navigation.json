@@ -37580,9 +37580,9 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform",
-                    "en": "Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform",
-                    "es": "Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform"
+                    "pt": "Gerenciar membros do VTEX CX Platform",
+                    "en": "Gerenciar membros do VTEX CX Platform",
+                    "es": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
                     "pt": "gerenciar-membros-do-vtex-cx-platform",
