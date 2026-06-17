@@ -28,7 +28,7 @@ Para adicionar novos membros a uma organização, siga os passos abaixo:
 5. Selecione uma das permissões disponíveis.
 6. Clique em `Adicionar`.
 
-> ℹ️ O status do novo membro fica como **Pendente** até que a pessoa aceite o convite de membresia por email.
+> ℹ️ O status do novo membro fica como **Pendente** até que ele aceite o convite.
 
 > ℹ️ Para alterar a permissão de um membro, modifique o tipo de permissão ao lado do nome da pessoa.
 
