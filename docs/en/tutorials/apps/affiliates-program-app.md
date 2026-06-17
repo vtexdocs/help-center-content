@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-> ⚠️ The Affiliates Program app has been discontinued and is therefore no longer supported or maintained by VTEX.
+> ⚠️ The Affiliates Program app has been discontinued and is no longer supported or maintained by VTEX.
 
 > ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](/en/docs/tracks/cms-vtex-io) stores and is not available for stores that use [Legacy Portal CMS](/en/docs/tracks/legacy-cms-portal) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
 
