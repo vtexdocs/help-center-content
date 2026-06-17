@@ -37581,37 +37581,6 @@
             },
             {
               "name": {
-                "en": "Configurações VTEX CX Platform",
-                "es": "Configurações VTEX CX Platform",
-                "pt": "Configurações VTEX CX Platform"
-              },
-              "slug": {
-                "en": "configuracoes-vtex-cx-platform",
-                "es": "configuracoes-vtex-cx-platform",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Gerenciar membros do VTEX CX Platform",
-                    "en": "Gerenciar membros do VTEX CX Platform",
-                    "es": "Gerenciar membros do VTEX CX Platform"
-                  },
-                  "slug": {
-                    "pt": "gerenciar-membros-do-vtex-cx-platform",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Integrations",
                 "es": "Integraciones",
                 "pt": "Integrações"
@@ -38576,12 +38545,12 @@
                   "name": {
                     "en": "Manage VTEX CX Platform Members",
                     "es": "Administrar Miembros de la Plataforma VTEX CX",
-                    "pt": "Manage VTEX CX Platform Members"
+                    "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "manage-vtex-cx-platform-members",
                     "es": "administrar-miembros-de-la-plataforma-vtex-cx",
-                    "pt": ""
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
