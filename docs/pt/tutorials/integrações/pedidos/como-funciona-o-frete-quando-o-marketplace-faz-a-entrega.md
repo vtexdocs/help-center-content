@@ -17,7 +17,7 @@ subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 
 Alguns marketplaces operam com frete do tipo **FOB** (*Free on Board*), no qual a entrega é de responsabilidade do próprio marketplace. Isso significa que ele define o tipo de entrega, calcula e cobra o frete do comprador e emite a etiqueta de envio, cabendo à loja apenas separar o produto e despachá-lo.
 
-Neste artigo, você entende como os pedidos com frete do tipo FOB se comportam ao serem integrados na VTEX, e quais cuidados ter na integração com o seu ERP. Esse fluxo simplifica a configuração da integração e evita que o pedido seja bloqueado por divergências nesses detalhes.
+Neste artigo, você entende como os pedidos com frete do tipo FOB se comportam ao serem integrados à VTEX e quais cuidados tomar na integração com o seu ERP. Esse fluxo simplifica a configuração da integração e evita que o pedido seja bloqueado por divergências nesses detalhes.
 
 Entenda a seguir como funciona o estoque, a exibição do pedido, a API e a etiqueta no cenário de frete tipo FOB.
 
