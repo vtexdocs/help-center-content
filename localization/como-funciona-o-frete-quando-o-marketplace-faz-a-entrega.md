@@ -44,7 +44,7 @@ Os pedidos em que o marketplace é responsável pelo frete apresentam particular
 
 - **Transportadora:** no lugar das identificações de transportadora e tipo de entrega, é apresentada a informação `vtex:fob_1111`, em que `1111` corresponde ao ID da doca.
 
-## Consultar os dados do pedido via
+## Consultar os dados do pedido via API
 
 Além da interface do OMS, é possível consultar os dados do pedido diretamente pelo endpoint **Get order** (https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-). Nesse cenário, o retorno também reflete as particularidades do frete tipo FOB.
 
