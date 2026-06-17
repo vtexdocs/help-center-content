@@ -55,7 +55,7 @@ Para adicionar membros a um projeto, siga os passos abaixo:
 
 > ℹ️ O status do novo membro fica como **Pendente** até que ele aceite o convite.
 
-> ℹ️ Para alterar a permissão de um membro, modifique o tipo de permissão ao lado do nome da pessoa.
+> ℹ️ Para alterar a permissão de um membro, modifique o tipo de permissão ao lado do nome do membro.
 
 Para remover um membro de um projeto, siga os passos abaixo:
 
