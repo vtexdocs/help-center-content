@@ -19,7 +19,7 @@ Alguns marketplaces operam com frete do tipo **FOB** (*Free on Board*), no qual 
 
 Neste artigo, você entende como os pedidos com frete do tipo FOB se comportam ao serem integrados à VTEX e quais cuidados tomar na integração com o seu ERP. Esse fluxo simplifica a configuração da integração e evita que o pedido seja bloqueado por divergências nesses detalhes.
 
-Entenda a seguir como funciona o estoque, a exibição do pedido, a API e a etiqueta no cenário de frete tipo FOB.
+Entenda a seguir como funcionam o estoque, a exibição do pedido, a API e a etiqueta no cenário de frete tipo FOB.
 
 ## Seleção de estoque
 
