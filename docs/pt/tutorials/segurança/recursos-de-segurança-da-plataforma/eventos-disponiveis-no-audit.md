@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
@@ -34,7 +34,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -260,7 +260,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | UpdateSchema | Criação ou edição de schema no Master Data v2. | Nome do schema. |
 | DeleteSchema | Exclusão de schema no Master Data v2. | Nome do schema. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Ação | Descrição | Detalhes do evento |
 |---|---|---|
@@ -275,7 +275,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Create new media | Criação de arquivo de mídia. | ID do evento. |
 | Delete media | Exclusão de arquivo de mídia. | ID do evento. |
 
-Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seguintes informações:
+Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresentam as seguintes informações:
 
 * **CONTENT_ID:** código identificador único do conteúdo.
 * **VARIANT_ID:** código identificador único da versão do conteúdo.

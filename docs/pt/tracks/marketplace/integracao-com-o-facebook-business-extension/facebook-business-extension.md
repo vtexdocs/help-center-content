@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Facebook Business Extension'
 id: 434Z1iWnaa0zbOMDyr6oi
 status: PUBLISHED
@@ -37,7 +37,7 @@ Saiba mais sobre a configuração necessária para cada uma em nosso guia [Faceb
 
 O Pixel do Facebook permite medir a eficácia da publicidade do seu negócio, por meio da análise das ações que os usuários realizam no seu site. Com a integração com a app _Facebook Business Extension e Conversions API_, isso pode ser feito de forma nativa.
 
-Atualmente, o Pixel do Facebook é obtido pela integração da [app Facebook Business Extension](https://apps.vtex.com/vtex-facebook-fbe/p) e Conversions API e está disponível para as lojas VTEX IO e Legacy CMS Portal. Se a sua loja utiliza o sistema Legacy CMS, é necessário fazer uma configuração manual no sistema. Saiba mais lendo o artigo [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend).
+Atualmente, o Pixel do Facebook é obtido pela integração da [app Facebook Business Extension](https://apps.vtex.com/vtex-facebook-fbe/p) e Conversions API e está disponível para as lojas VTEX IO e CMS Portal (Legacy). Se a sua loja utiliza o sistema Legacy CMS, é necessário fazer uma configuração manual no sistema. Saiba mais lendo o artigo [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend).
 
 Entretanto, se sua loja já utiliza o antigo app Facebook Pixel da App Store, você deve checar se o app foi desinstalado corretamente. Porque se o app ainda estiver instalado, ele pode duplicar os eventos do Facebook. 
 

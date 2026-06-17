@@ -1,4 +1,4 @@
----
+﻿---
 title: 'CMS - Información general'
 id: 6OCY6S9tqBXPD5mgpbBInC
 status: PUBLISHED
@@ -21,7 +21,7 @@ Un sistema de gestión de contenido o CMS (content management system) permite ge
 
 En VTEX, es a través del CMS que se gestionan las páginas del sitio web de tu tienda para proporcionar autonomía a la hora de crear, organizar, editar y definir toda la estructura de carpetas, archivos y componentes de la vitrina.
 
-El CMS ofrece un conjunto de herramientas que varían según la tecnología utilizada en la tienda: **FastStore - VTEX Headless CMS**, **Store Framework - Site Editor** o **Portal Legado - Layout**.
+El CMS ofrece un conjunto de herramientas que varían según la tecnología utilizada en la tienda: **FastStore - VTEX Headless CMS (Legacy)**, **Store Framework - Site Editor** o **Portal Legado - Layout**.
 
 Los siguientes artículos detallan las funcionalidades del CMS de cada tecnología:
 

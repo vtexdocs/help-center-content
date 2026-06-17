@@ -1,5 +1,5 @@
----
-title: 'Headless CMS: Stay informed on your publication progress'
+﻿---
+title: 'Headless CMS (Legacy): Stay informed on your publication progress'
 id: 3ajb4FgE6nmqjblpSEg3SP
 status: PUBLISHED
 createdAt: 2023-08-21T12:33:36.149Z
@@ -12,12 +12,12 @@ slugEN: 2023-08-21-headless-cms-stay-informed-on-your-publication-progress
 locale: en
 legacySlug: headless-cms-stay-informed-on-your-publication-progress
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'Stay informed about Headless CMS publication stages and quickly identify publication errors.'
+announcementSynopsisEN: 'Stay informed about Headless CMS (Legacy) publication stages and quickly identify publication errors.'
 ---
 
-The Headless CMS now offers a notification feature that keeps you informed throughout each stage of the publication process. The new notification cards provide updates on each stage of a publication in the VTEX Headless CMS, keeping users informed about the publication on Releases, VTEX Headless CMS, and FastStore build stages. 
+The Headless CMS (Legacy) now offers a notification feature that keeps you informed throughout each stage of the publication process. The new notification cards provide updates on each stage of a publication in the VTEX Headless CMS (Legacy), keeping users informed about the publication on Releases, VTEX Headless CMS (Legacy), and FastStore build stages. 
 
-![Headless CMS - Notification](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/august/2023-08-21-headless-cms-stay-informed-on-your-publication-progress_1.gif)
+![Headless CMS (Legacy) - Notification](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/august/2023-08-21-headless-cms-stay-informed-on-your-publication-progress_1.gif)
 
 This feature also helps you identify and report errors during deployment by indicating the exact error stage. It also provides the option to retry deployments if needed.
 
@@ -28,18 +28,18 @@ With the notification feature, you can now stay informed about the status of eac
 
 | Status                 | Description                                      |
 | ---------------------- | ------------------------------------------------ |
-| **Publishing started** | Starts the publishing of release by Headless CMS. |
+| **Publishing started** | Starts the publishing of release by Headless CMS (Legacy). |
 | **Build**              | Takes release changes to production.             |
 | **Update document status**       | Updates all pages, including the new changes.       |
 | **Close release**      | Updates the release status.       |
 
 If an error occurs during deployment, the notification card will indicate the stage at which the error occurred. You can click `Try again` to redeploy.
 
-![Headless CMS - Redeploy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/august/2023-08-21-headless-cms-stay-informed-on-your-publication-progress_2.gif)
+![Headless CMS (Legacy) - Redeploy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/august/2023-08-21-headless-cms-stay-informed-on-your-publication-progress_2.gif)
 
 ## Why are we making this change?
 The notification feature gives you more autonomy to understand and address issues related to store publications. It enables you to precisely identify and report issues and retry the publication process.
 
 ## What needs to be done?
-This feature is already implemented in the Headless CMS, and no action is required on your side.
+This feature is already implemented in the Headless CMS (Legacy), and no action is required on your side.
 
