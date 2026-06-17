@@ -37565,12 +37565,12 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Gerenciamento de membros",
-                    "en": "Gerenciamento de membros",
-                    "es": "Gerenciamento de membros"
+                    "pt": "Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform",
+                    "en": "Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform",
+                    "es": "Gerenciar membros do VTEX CX PlatformGerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "pt": "gerenciamento-de-membros-vtex-cx-platform",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform",
                     "en": "",
                     "es": ""
                   },
@@ -38552,6 +38552,21 @@
                     "en": "manage-live-desk",
                     "es": "configurar-el-live-desk",
                     "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Manage VTEX CX Platform Members",
+                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "pt": "Manage VTEX CX Platform Members"
+                  },
+                  "slug": {
+                    "en": "manage-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
