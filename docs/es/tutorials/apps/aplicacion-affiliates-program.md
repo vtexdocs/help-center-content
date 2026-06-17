@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Aplicación Affiliates Program'
 id: 7IpHHHcjjWxdmSRMw1FMPQ
 status: PUBLISHED
