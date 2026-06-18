@@ -3,7 +3,7 @@ title: 'Atribuir e testar agentes'
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2026-06-09T00:00:00.000Z
+updatedAt: 2026-06-18T00:00:00.000Z
 publishedAt: 2025-09-11T13:21:03.550Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial

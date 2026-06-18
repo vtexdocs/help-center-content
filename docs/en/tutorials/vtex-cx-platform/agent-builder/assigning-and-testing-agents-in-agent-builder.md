@@ -3,7 +3,7 @@ title: "Assigning and testing agents"
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2025-09-11T13:21:03.550Z
+updatedAt: 2026-06-18T00:00:00.000Z
 publishedAt: 2025-09-11T13:21:03.550Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
@@ -15,50 +15,76 @@ locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-The **My agents** section allows users to assign agents to the team and test them.
+The **My agents** section allows you to assign agents to the team and test their operation. Some official agents require credentials to operate on the platform. For more information, go to [Official agents from VTEX CX Platform and their credentials](https://help.vtex.com/docs/tutorials/official-agents-from-vtex-cx-platform).
 
-Some official agents require credentials. See the full list in the article [Official agents from VTEX CX Platform and their credentials](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
+> ℹ️ To create custom agents, use the VTEX CX Platform (Weni) CLI. Learn more in [Using the VTEX CX Platform (Weni) CLI](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli).
 
-> ℹ️ To create custom agents, use the VTEX CX Platform (Weni) CLI. See the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) for instructions.
+This article is divided into the following sections:
 
-This article is divided in two parts:
+- [Assigning an agent to the team](#assign-an-agent-to-the-team)
+- [Remove an agent](#remove-an-agent)
+- [Test an agent](#test-an-agent)
 
-- [Assigning an agent to the team](#how-to-assign-agents)
-- [Testing an agent](#how-to-test-agents)
+## Assign an agent to the team
 
-## Assigning an agent to the team
+To assign a new agent to your store, follow these steps:
 
-1. In the side menu, click **Agent Builder**.
-2. Then, click **Agents**.
-3. In the top toolbar, click <i class="fas fa-plus"></i>`Assign agents`.
-4. In the Agents Gallery, select **Official agents** or **Custom agents**. You can select from the listed agents or use the search field to search for a specific agent.
-5. After choosing your agent, click `Assign to the team`.
+1. Access your organization in the [VTEX CX Platform dashboard](https://dash.weni.ai/orgs).
+2. In the side menu, click the **My agents** icon.
+3. Click <i class="fas fa-plus"></i>`Assign new agents`.
+4. On the **Assign new agents** page, select one of the available options:
+ - **Official agents:** agents from VTEX or from external integrations previously registered on the platform.
+ - **Custom agents:** agents created for your operation
 
-> ⚠️ If the agent requires a credential, complete the required fields and then click `Assign`.
+> ℹ️ You can also find agents using the search field or filtering by category type.
 
-## Testing an agent
+5. After choosing an agent, click  `View details`.
+6. In the agent modal, review the information about available MCPs and the conversation example.
+7. Click `Start setup`.
+8. In **Assign {Agent name}**, in the **System selection** section, select one of the available options and click `Next`.
+9. In **MCP selection**, select one of the available options to define the agent's behavior.
+10. In **Configure {System name} MCP**, if available, fill in or select the agent's parameters. Some agents don't have configurable parameters.
+11. In **Review the setup and enter credentials**, review the information, fill in the required fields, and click `Finish`.
 
-To test an agent, click `Preview`.
+After completing these steps, the agent will be displayed in the **Assigned agents** section of the **My Agents** page.
 
-On this screen, you can:
+## Remove an agent
 
+To remove an agent from your store, follow these steps:
+
+1. Access your organization in the [VTEX CX Platform dashboard](https://dash.weni.ai/orgs).
+2. In the side menu, click the **My agents** icon.
+3. In the **Assigned agents** section, click the desired agent.
+4. Click `View options`.
+5. Click `Remove agent`.
+
+> ℹ️ If you want to use this agent again, assign it again as described in [Assign an agent to the team](#assign-an-agent-to-the-team).
+
+## Test an agent
+
+To test the operation of an assigned agent, click `Test your agents` in the lower-right corner of the screen.
+
+In the **Test your agents** section, you can:
+
+- Select, in the **Manager version** field, the model that will act as orchestrator agent during the conversation.
 - Start a conversation using the dialog box.
-- Send an audio message by clicking the microphone icon.
-- Send an image by clicking the plus icon <i class="fas fa-plus"></i>, then click `Photos`.
+- Send an audio message by clicking the microphone icon or the <i class="fas fa-plus" aria-hidden="true"></i> button and then `Audio`.
+- Send files by clicking the <i class="fas fa-plus" aria-hidden="true"></i> Send files by clicking the `Enviar arquivo`.
+- In the **Visual flow** tab, view in diagram format which agents are being called to produce the response displayed in the dialog box.
+- In the **Logs** tab, check the detailed record of events processed by the AI model during the conversation. This information helps you understand conversation processing, identify potential issues, and improve agent performance.
 
-In **Visual flow**, you can see the agents that are being triggered based on the questions asked.
+To search for specific events, click `Filter logs` and search by keywords or the following categories:
 
-In **Logs**, a detailed history of events processed by artificial intelligence (AI) is recorded. Using this information, you can identify how the AI works and diagnose issues, improving its performance. Click `Filter logs` to search for keywords or search among the following categories:
+| Category | Step description |
+| --- | :--- |
+| Applying security rules | Security check of content, including protection of sensitive data, blocking of prohibited content, and enforcement of usage policies. |
+| Assigning task to the agent | Definition of the specialized agent or internal resource that will be responsible for a step of the conversation. |
+| Knowledge | Query to the knowledge base, such as documentation, Help Center articles, or internal content, to search for official information before the response. |
+| Forwarding the manager | Return of control to the manager to define the next step of the conversation. |
+| Forwarding to human support | Forwarding of the conversation to human service due to a technical limitation, exception, or business rule. |
+| Sending to manager | Sending of the result of a tool, agent, or flow step to the Manager for processing. |
+| Sending final reply | Sending of the response to the user after internal orchestration is completed. |
+| Tool | Use of an external resource or specific module, such as order inquiry, image analysis, audio transcription, or search in another system. |
+| Thinking | Step in which the model internally processes the request, plans the response, and decides whether to call tools, query knowledge, or forward the conversation to another flow. |
 
-| Category                        | Step description                                                                                         |
-| ------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| Applying security rules         | Applies security controls and restrictions.                                                              |
-| Knowledge                       | Searches for information in the agent's knowledge base.                                                  |
-| Assigning the task to the agent | Triggers the agent with tasks.                                                                           |
-| Forwarding to the manager       | Forwards the user's messages to the manager — the main agent for writing the final response to the user. |
-| Sending final response          | Sends the final response to the user.                                                                    |
-| Sending response to the manager | Forwards information to the manager — the main agent for interacting with the user.                      |
-| Thinking                        | Evaluates the next steps.                                                                                |
-| Tool                            | Triggers the tool used by the agent to interact with other systems.                                      |
-
-To clear the conversation, click the <i class="fas fa-ellipsis-v"></i> menu next to **Agent preview** and select `Clear conversations`.
+> ℹ️ To remove the conversation history with the orchestrator agent, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> menu next to Test your agents and then `Clear conversations`.
