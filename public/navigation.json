@@ -48571,6 +48571,21 @@
             },
             {
               "name": {
+                "en": "updateThemeIds mutation returns 504 but content migration completes successfully in background",
+                "es": "La mutación «updateThemeIds» devuelve un error 504, pero la migración de contenido se completa con éxito en segundo plano",
+                "pt": "A mutação `updateThemeIds` retorna um erro 504, mas a migração de conteúdo é concluída com sucesso em segundo plano"
+              },
+              "slug": {
+                "en": "updatethemeids-mutation-returns-504-but-content-migration-completes-successfully-in-background",
+                "es": "la-mutacion-updatethemeids-devuelve-un-error-504-pero-la-migracion-de-contenido-se-completa-con-exito-en-segundo-plano",
+                "pt": "a-mutacao-updatethemeids-retorna-um-erro-504-mas-a-migracao-de-conteudo-e-concluida-com-sucesso-em-segundo-plano"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "User can still see and access CMS features even without the correct permission",
                 "es": "El usuario puede ver y acceder a las funciones del CMS incluso sin el permiso correcto",
                 "pt": "O usuário ainda pode ver e acessar os recursos do CMS mesmo sem a permissão correta"
