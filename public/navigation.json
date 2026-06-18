@@ -37504,21 +37504,6 @@
                 },
                 {
                   "name": {
-                    "en": "Live Desk: Human service dashboard",
-                    "es": "Live Desk: Dashboard",
-                    "pt": "Live Desk: Human service dashboard"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-live-desk-dashboard",
-                    "es": "dashboard-de-live-desk",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Using active triggering of flows",
                     "es": "Utilizando el disparo activo de flujos",
                     "pt": "Utilizando disparo ativo de fluxos"
