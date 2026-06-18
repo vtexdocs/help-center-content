@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
@@ -34,7 +34,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -243,8 +243,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 |---|---|---|
 | PasswordCreated | Usuário registra uma senha pela primeira vez na loja ou no Admin VTEX. | ID do usuário. |
 | PasswordUpdated | Usuário altera sua senha da loja ou do Admin VTEX. | ID do usuário. |
-| UserLogin | Login do usuário no Admin VTEX. | ID do usuário. |
-| UserLogout | Logout do usuário do Admin VTEX. | ID do usuário. |
+| UserLogin | Login do usuário no Admin VTEX. | ID do usuário, login do usuário, endereço IP, audience, se o usuário é administrador, provedor de identidade, se MFA foi utilizado, host, cabeçalho X-Forwarded-For, agente de usuário e referer. |
+| UserLogout | Logout do usuário do Admin VTEX. | ID do usuário, login do usuário, audience, se o usuário é administrador, host, cabeçalho X-Forwarded-For, agente de usuário e referer. |
 | IdentityProviderChanged | Mudança de configurações de provedor de identidade. Por exemplo: criação de integração OAuth customizada, alteração de informações em configuração de OAuth existente, entre outros. | Provedor de identidade. |
 
 ## Master Data
@@ -260,7 +260,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | UpdateSchema | Criação ou edição de schema no Master Data v2. | Nome do schema. |
 | DeleteSchema | Exclusão de schema no Master Data v2. | Nome do schema. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Ação | Descrição | Detalhes do evento |
 |---|---|---|
@@ -275,7 +275,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Create new media | Criação de arquivo de mídia. | ID do evento. |
 | Delete media | Exclusão de arquivo de mídia. | ID do evento. |
 
-Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seguintes informações:
+Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresentam as seguintes informações:
 
 * **CONTENT_ID:** código identificador único do conteúdo.
 * **VARIANT_ID:** código identificador único da versão do conteúdo.
