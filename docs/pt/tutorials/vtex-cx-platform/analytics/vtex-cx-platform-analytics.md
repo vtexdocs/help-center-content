@@ -10,18 +10,6 @@ locale: pt
 
 A página de **Analytics** oferece dados e métricas sobre o atendimento humano da sua operação. Por meio dela, é possível acompanhar atendimentos em tempo real, verificar o desempenho de agentes e equipes e analisar históricos para identificar oportunidades de melhoria. Cada dashboard nativo do VTEX CX Platform traz dados diferentes de atendimento.
 
-Esse tutorial está dividido nas seguintes seções:
-
-- [Dashboards](#dashboards)
-  - [Live Desk](#live-desk)
-    - [Monitoramento](#monitoramento)
-    - [Análise](#análise)
-  - [Conversacional (Beta)](#conversacional-beta)
-  - [WhatsApp](#whatsapp)
-
-Se a sua loja tem integração com a Meta, cada número do WhatsApp cadastrado terá o próprio dashboard, criado automaticamente.
-
-
 ## Live Desk
 
 O **Live Desk** é o painel de atendimento humano de Analytics. Ele está dividido em duas abas: **Monitoramento** e **Análise**.
@@ -187,7 +175,7 @@ Nessa aba, você consegue visualizar as pausas realizadas pelos agentes. Cada co
 
 Para saber como adicionar, remover ou editar as pausas personalizadas, leia o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
 
-### Conversacional (Beta)
+## Conversacional (Beta)
 
 O dashboard **Conversacional** oferece dados sobre as conversas gerenciadas por agentes de IA na sua operação. Por meio dele, você acompanha o volume de conversas, o comportamento dos contatos, o desempenho dos agentes de IA e o impacto das interações nas vendas.
 
@@ -201,7 +189,7 @@ O dashboard oferece os seguintes controles:
 
 Esse dashboard contém as seguintes seções:
 
-#### Conversas
+### Conversas
 
 A seção **Conversas** apresenta um resumo do volume e da distribuição das conversas no período selecionado.
 
@@ -212,7 +200,7 @@ A seção **Conversas** apresenta um resumo do volume e da distribuição das co
 | **Não atendido por IA** | Percentual e número total de conversas em que o agente de IA não conseguiu completar o atendimento. |
 | **Transferidas para live desk** | Percentual e número total de conversas que necessitaram de atendimento humano no Live Desk. |
 
-#### Contatos
+### Contatos
 
 A seção **Contatos** exibe métricas sobre os contatos que iniciaram conversas no período.
 
@@ -222,19 +210,19 @@ A seção **Contatos** exibe métricas sobre os contatos que iniciaram conversas
 | **Contatos recorrentes** | Número de contatos que iniciaram mais de uma conversa. Exibe também o percentual em relação ao total de contatos únicos. |
 | **Média de conversas por contato** | Média de conversas iniciadas por contato no período. |
 
-#### Assuntos
+### Assuntos
 
 A seção **Assuntos** permite categorizar e analisar as conversas por tema. Após adicionar assuntos, esta seção exibe a distribuição das conversas por categoria, ajudando a identificar os temas mais recorrentes na sua operação.
 
 Para começar, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicione seu primeiro assunto` e defina as categorias relevantes para a sua operação.
 
-#### Personalize seu dashboard
+### Personalize seu dashboard
 
 Você pode adicionar widgets ao dashboard para exibir as métricas mais relevantes para a sua operação. Para isso, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar widget` e escolha as métricas que deseja acompanhar.
 
 Você pode escolher entre widgets nativos do VTEX CX Platform ou widgets personalizados.
 
-##### Widgets nativos
+#### Widgets nativos
 
 - **CSAT:** Acompanha o nível de satisfação dos clientes a partir da pontuação do CSAT.
 - **NPS:** Mede a probabilidade de um contato recomendar o serviço recebido.
@@ -242,13 +230,13 @@ Você pode escolher entre widgets nativos do VTEX CX Platform ou widgets persona
 - **Ferramentas mais usadas:** Lista as ferramentas mais utilizadas pelo atendimento.
 - **Funil e dados de vendas:** Relaciona as conversas com os resultados comerciais gerados no período.
 
-##### Widgets personalizados
+#### Widgets personalizados
 
 - **Gráfico de barras horizontal**: Selecione um agente e acompanhe os dados desse agente com uma visualização em barras.
 - **Tabela cruzada**: Escolha dois dados que deseja acompanhar e compare os resultados desses dados entre si.
 - **Números absolutos**: Selecione uma métrica e observe o valor absoluto dessa métrica.
 
-### WhatsApp
+## WhatsApp
 
 O dashboard WhatsApp exibe dados sobre o volume de mensagens enviadas pelo número do WhatsApp cadastrado na sua operação. Por meio dele, você acompanha a distribuição das mensagens por categoria e filtra os dados por template e período.
 
