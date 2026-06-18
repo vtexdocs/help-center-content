@@ -1,18 +1,11 @@
 ---
 title: "Analytics: Métricas de atendimento"
-id: 4rndUIk9QFz4wz1dPHVZ0W
-status: PUBLISHED
 createdAt: 2025-09-12T16:25:21.244Z
 updatedAt: 2025-10-03T14:20:03.298Z
-publishedAt: 2025-10-03T14:20:03.298Z
-firstPublishedAt: 2025-10-03T14:20:03.298Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: vtex-cx-platform-analytics
-legacySlug: insights-dashboard-de-atendimento-humano
 locale: pt
-subcategoryId: 13xAeqd2qH34rW2VHBXuWh
 ---
 
 A página de **Analytics** oferece dados e métricas sobre o atendimento humano da sua operação. Por meio dela, é possível acompanhar atendimentos em tempo real, verificar o desempenho de agentes e equipes e analisar históricos para identificar oportunidades de melhoria. Cada dashboard nativo do VTEX CX Platform traz dados diferentes de atendimento.
@@ -34,7 +27,9 @@ Se a sua loja tem integração com a Meta, cada número do WhatsApp cadastrado t
 
 O **Live Desk** é o painel de atendimento humano de Analytics. Ele está dividido em duas abas: **Monitoramento** e **Análise**.
 
-No canto superior direito da tela, você encontra os seguintes controles:
+Nessa página, você encontra os seguintes controles:
+
+![Botões de atualização, filtros e exportação de dados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/live-desk-controle-de-dados-e-filtros.png)
 
 - `Atualizar`: Recarrega os dados do painel manualmente.
 - `Filtros`: Abre as opções de filtragem por setor, fila, agente, tags e período.
@@ -50,7 +45,7 @@ A aba **Monitoramento** exibe informações em tempo real sobre os atendimentos 
 
 Ela contém as seguintes seções:
 
-![Tela de monitoramento 1](#tela-de-monitoramento-1.png)
+![Tela de monitoramento 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-1.png)
 
 ##### 1. Status dos atendimentos
 
@@ -74,7 +69,7 @@ Cada métrica também exibe o valor máximo registrado no período.
 
 Gráfico de linha que mostra a distribuição de atendimentos iniciados ao longo das horas do dia. Use esse gráfico para identificar os horários de pico de demanda e planejar a escala de agentes.
 
-![Tela de monitoramento 2](#tela-de-monitoramento-2.png)
+![Tela de monitoramento 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-2.png)
 
 ##### 4. Volume por fila
 
@@ -98,7 +93,7 @@ Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendi
 
 > ⚠️ Para exibir o widget de CSAT, ele precisa estar nativo em pelo menos um dos setores do projeto. Caso não esteja ativo, você precisa clicar no botão `Ativar` e ativar em um setor. Para mais informações sobre os setores, leia o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
 
-![Tela de monitoramento 3](#tela-de-monitoramento-3.png)
+![Tela de monitoramento 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-3.png)
 
 ##### 7. Monitoramento detalhado
 
@@ -262,18 +257,18 @@ O dashboard WhatsApp exibe dados sobre o volume de mensagens enviadas pelo núme
 
 O dashboard oferece os seguintes controles:
 
-- Seletor de período: Define o intervalo de datas para a exibição dos dados.
-- Seletor de template favorito: Exibe a lista dos templates que você favoritou. Selecione um template para visualizar mais informações.
-- Busca de template: Exibe a lista de todos os templates da sua loja. Selecione um template para visualizar mais informações.
+- **Seletor de período:** Define o intervalo de datas para a exibição dos dados.
+- **Seletor de template favorito:** Exibe a lista dos templates que você favoritou. Selecione um template para visualizar mais informações.
+- **Busca de template:** Exibe a lista de todos os templates da sua loja. Selecione um template para visualizar mais informações.
 
 Após selecionar um template, você pode visualizar os dados das mensagens desse template.
 
 O gráfico contém as seguintes informações:
 
-- Mensagens enviadas: Número total de mensagens enviadas no período selecionado para esse template.
-- Mensagens entregues: Número total e porcentagem das mensagens entregues aos contatos.
-- Mensagens lidas: Número total e porcentagem das mensagens lidas pelos contatos.
-- Cliques: Número total e porcentagem de cliques nas mensagens enviadas para os contatos.
+- **Mensagens enviadas:** Número total de mensagens enviadas no período selecionado para esse template.
+- **Mensagens entregues:** Número total e porcentagem das mensagens entregues aos contatos.
+- **Mensagens lidas:** Número total e porcentagem das mensagens lidas pelos contatos.
+- **Cliques:** Número total e porcentagem de cliques nas mensagens enviadas para os contatos.
 
 A tabela de **Cliques nos botões** exibe as informações dos botões clicados pelos contatos.
 
