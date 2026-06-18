@@ -21,9 +21,8 @@ Esse tutorial está dividido nas seguintes seções:
 
 Se a sua loja tem integração com a Meta, cada número do WhatsApp cadastrado terá o próprio dashboard, criado automaticamente.
 
-## Dashboards
 
-### Live Desk
+## Live Desk
 
 O **Live Desk** é o painel de atendimento humano de Analytics. Ele está dividido em duas abas: **Monitoramento** e **Análise**.
 
@@ -37,9 +36,9 @@ Nessa página, você encontra os seguintes controles:
 
 Esses dados são atualizados automaticamente e você consegue visualizar a hora da última atualização ao lado do botão **Atualizar**.
 
-Para configurar as preferências do Live Desk, acesse **Configurações > Live Desk**. Para saber mais sobre as preferências, acesse o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+Para configurar as preferências do Live Desk, acesse **Configurações > Live Desk**. Saiba mais no artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
 
-#### Monitoramento
+### Monitoramento
 
 A aba **Monitoramento** exibe informações em tempo real sobre os atendimentos em andamento na sua operação.
 
@@ -47,7 +46,7 @@ Ela contém as seguintes seções:
 
 ![Tela de monitoramento 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-1.png)
 
-##### 1. Status dos atendimentos
+#### 1. Status dos atendimentos
 
 Apresenta um resumo rápido do estado atual dos atendimentos com três contadores:
 
@@ -55,7 +54,7 @@ Apresenta um resumo rápido do estado atual dos atendimentos com três contadore
 - **Em andamento:** Atendimentos conduzidos por um agente no momento.
 - **Finalizado:** Total de atendimentos encerrados no período. O período considerado nesta métrica é do dia corrente.
 
-##### 2. Métricas de tempo agora
+#### 2. Métricas de tempo agora
 
 Exibe as médias de tempo calculadas em tempo real para os atendimentos ativos:
 
@@ -65,25 +64,25 @@ Exibe as médias de tempo calculadas em tempo real para os atendimentos ativos:
 
 Cada métrica também exibe o valor máximo registrado no período.
 
-##### 3. Atendimentos abertos por hora
+#### 3. Atendimentos abertos por hora
 
 Gráfico de linha que mostra a distribuição de atendimentos iniciados ao longo das horas do dia. Use esse gráfico para identificar os horários de pico de demanda e planejar a escala de agentes.
 
 ![Tela de monitoramento 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-2.png)
 
-##### 4. Volume por fila
+#### 4. Volume por fila
 
 Tabela que lista todas as filas de atendimento ativas e exibe, para cada uma, a quantidade de atendimentos **em espera**, **em andamento** e **finalizados**. Cada lista é exibida em ordem decrescente.
 
 Para expandir e visualizar a lista completa de filas, clique em `Ver todos`.
 
-##### 5. Volume por tag
+#### 5. Volume por tag
 
 Tabela que lista todas as tags associadas aos atendimentos ativos e exibe, para cada uma, a quantidade de atendimentos **em espera** e **finalizados**. Permite identificar quais assuntos ou categorias concentram mais volume. Cada lista é exibida em ordem decrescente.
 
 Para expandir e visualizar a lista completa de tags, clique em `Ver todos`.
 
-##### 6. CSAT
+#### 6. CSAT
 
 Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendimentos.
 
@@ -95,7 +94,7 @@ Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendi
 
 ![Tela de monitoramento 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-3.png)
 
-##### 7. Monitoramento detalhado
+#### 7. Monitoramento detalhado
 
 Tabela que lista os atendimentos individuais em tempo real. Você pode alternar entre as seguintes visões usando as abas na parte superior da tabela:
 
@@ -108,13 +107,13 @@ As colunas exibem informações como contato, tempo de espera, tempo para a prim
 
 Ao clicar em um dos atendimentos, você será redirecionado à página do Live Desk dentro de **Operações**.
 
-#### Análise
+### Análise
 
 A aba **Análise** exibe dados históricos sobre atendimentos finalizados. Use o seletor de período para definir o intervalo de datas que deseja consultar.
 
 Essa aba contém as seguintes seções:
 
-##### 1. Métricas do período
+#### 1. Métricas do período
 
 Apresenta um resumo consolidado dos atendimentos finalizados no período selecionado:
 
@@ -126,19 +125,19 @@ Apresenta um resumo consolidado dos atendimentos finalizados no período selecio
 | **Tempo médio de resposta** | Média do tempo que um contato esperou para receber uma resposta a cada mensagem enviada. |
 | **Duração média da conversa** | Tempo médio de cada atendimento, do início ao fim. |
 
-##### 2. Atendimentos abertos por hora
+#### 2. Atendimentos abertos por hora
 
 Gráfico de linha que mostra a distribuição de atendimentos iniciados ao longo das horas do dia no período selecionado. Você pode usar esse gráfico para identificar padrões de demanda e planejar a escala de agentes.
 
-##### 3. Volume por fila
+#### 3. Volume por fila
 
 Tabela que lista as filas de atendimento e exibe a quantidade de atendimentos finalizados em cada uma, ordenados de forma decrescente. Para ver a lista completa, clique em `Ver todos`.
 
-##### 4. Volume por tag
+#### 4. Volume por tag
 
 Tabela que lista as tags associadas aos atendimentos e exibe a quantidade de atendimentos finalizados em cada uma, ordenados de forma decrescente. Essa tabela identifica os assuntos ou categorias que concentraram mais volume no período. Para ver a lista completa, clique em `Ver todos`.
 
-##### 5. CSAT
+#### 5. CSAT
 
 Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendimentos no período selecionado.
 
@@ -146,7 +145,7 @@ Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendi
 - **Avaliação por agente:** Nota individual de cada agente, com o número de atendimentos, número de avaliações e média das avaliações recebidas.
 - **Distribuição das avaliações:** Gráfico de barras com o percentual e o número de respostas em cada nível: Muito satisfeito, Satisfeito, Neutro, Insatisfeito e Muito insatisfeito.
 
-##### 6. Análise detalhada
+#### 6. Análise detalhada
 
 Tabela que lista os atendimentos individuais finalizados no período. Você pode alternar entre as seguintes abas:
 
@@ -154,7 +153,7 @@ Tabela que lista os atendimentos individuais finalizados no período. Você pode
 - [Atendente](#atendente)
 - [Pausas personalizadas](#pausas-personalizadas)
 
-###### Finalizado
+##### Finalizado
 
 Essa aba contém informações sobre os atendimentos encerrados, com dados de atendente, setor, fila, tempo de espera, tempo para a primeira resposta, duração, contato e protocolo. Você pode filtrar os resultados por **atendente**, **contato** e **protocolo**.
 
@@ -169,7 +168,7 @@ Essa aba contém informações sobre os atendimentos encerrados, com dados de at
 | Contato | Nome do cliente que entrou em contato com o atendimento. |
 | Protocolo | Número do protocolo do atendimento. |
 
-###### Atendente
+##### Atendente
 
 Essa aba fornece informações dos atendentes no período selecionado. Você também consegue filtrar por atendente, no campo **Atendente**.
 
@@ -182,7 +181,7 @@ Essa aba fornece informações dos atendentes no período selecionado. Você tam
 | Duração média | Tempo de duração média de todos os atendimentos do atendente. |
 | Tempo em atendimento | Tempo de atendimento total do atendente. |
 
-###### Pausas personalizadas
+##### Pausas personalizadas
 
 Nessa aba, você consegue visualizar as pausas realizadas pelos agentes. Cada coluna se refere a uma pausa personalizada e mostra quanto tempo o atendente pausou no período selecionado.
 
