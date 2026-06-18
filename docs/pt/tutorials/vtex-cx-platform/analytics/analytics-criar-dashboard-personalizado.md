@@ -73,7 +73,7 @@ Para configurar o widget, preencha os campos abaixo:
 1. Em **Dê um nome para o card**, insira um nome para identificar o widget no dashboard.
 2. Selecione o fluxo que deseja monitorar.
 3. Em **Resultado do fluxo**, busque ou selecione o resultado que deseja exibir.
-4. Na tabela de **Operação**, selecione as operações que vão ser aplicadas ao resultado:
+4. Na tabela de **Operação**, selecione as operações que serão aplicadas ao resultado:
    - Total ou Média.
    - Valor mais alto ou Menor valor.
 5. Para monitorar dados com símbolo de moeda, ative a caixa de seleção de **Moeda**.
@@ -90,11 +90,11 @@ Para configurar o widget, preencha os campos abaixo:
 2. Em **Primeiro valor**, selecione o primeiro fluxo e o tipo de resultado:
    - **Execuções do fluxo:** Usa o número de execuções como valor.
    - **Resultado do fluxo:** Usa o resultado de uma etapa específica do fluxo como valor.
-     - Caso selecione **Resultado do fluxo**, você precisa escolher um resultado do fluxo e qual tipo de dado quer (soma, média, mínimo ou máximo).
+     - Caso selecione **Resultado do fluxo**, você precisa escolher um resultado do fluxo e qual tipo de dado deseja (soma, média, mínimo ou máximo).
 3. Em **Segundo valor**, selecione o segundo fluxo e o tipo de resultado:
    - **Execuções do fluxo:** Usa o número de execuções como valor.
    - **Resultado do fluxo:** Usa o resultado de uma etapa específica do fluxo como valor.
-     - Caso selecione **Resultado do fluxo**, você precisa escolher um resultado do fluxo e qual tipo de dado quer (soma, média, mínimo ou máximo).
+     - Caso selecione **Resultado do fluxo**, você precisa escolher um resultado do fluxo e qual tipo de dado deseja (soma, média, mínimo ou máximo).
 4. Em **Operação**, escolha como os dois valores serão combinados:
   - **Multiplicar:** Multiplica o primeiro valor pelo segundo.
   - **Diferença:** Calcula a diferença entre os dois valores.
