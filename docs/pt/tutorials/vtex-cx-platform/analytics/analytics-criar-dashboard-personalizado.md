@@ -1,30 +1,14 @@
 ---
 title: "Analytics: Criar dashboard personalizado"
-status: PUBLISHED
 createdAt: 2026-05-29T16:25:21.244Z
 updatedAt: 2026-06-16T18:47:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: create-analytics-dashboard
-legacySlug: analytics-criar-dashboard-personalizado
 locale: pt
 ---
 
 O módulo de **Analytics** do VTEX CX Platform permite criar dashboards personalizados com widgets que exibem métricas específicas da sua operação. Você pode usar esses dashboards para monitorar funis de atendimento, resultados de fluxo e dados de vendas na VTEX, entre outros dados.
-
-Este tutorial está dividido nas seguintes seções:
-
-- [Criar um dashboard](#criar-um-dashboard)
-- [Adicionar e configurar widgets quadrados](#adicionar-e-configurar-widgets-quadrados)
-  - [Execuções](#execuções)
-  - [Resultado do fluxo](#resultado-do-fluxo)
-  - [Cruzamento de dados](#cruzamento-de-dados)
-- [Adicionar e configurar widgets de coluna](#adicionar-e-configurar-widgets-de-coluna)
-  - [Funil](#funil)
-  - [Recorrência](#recorrência)
-  - [VTEX](#vtex)
-  - [Conversão de templates](#conversão-de-templates)
 
 ## Criar um dashboard
 
