@@ -37504,21 +37504,6 @@
                 },
                 {
                   "name": {
-                    "en": "Live Desk: Human service dashboard",
-                    "es": "Live Desk: Dashboard",
-                    "pt": "Live Desk: Dashboard"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-live-desk-dashboard",
-                    "es": "dashboard-de-live-desk",
-                    "pt": "dashboard-do-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Manage Live Desk",
                     "es": "Configurar el Live Desk",
                     "pt": "Configurar o Live Desk"
