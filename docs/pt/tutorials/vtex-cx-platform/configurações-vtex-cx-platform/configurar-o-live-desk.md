@@ -1,18 +1,11 @@
 ---
 title: 'Configurar o Live Desk'
-id: 2MnTerJXgAfJMRi0EqfTpp
-status: PUBLISHED
 createdAt: 2025-09-16T15:05:01.763Z
 updatedAt: 2025-10-03T14:20:04.339Z
-publishedAt: 2025-10-03T14:20:04.339Z
-firstPublishedAt: 2025-10-03T14:20:04.339Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: manage-live-desk
-legacySlug: weni-chats-configurando-o-atendimento-humano
 locale: pt
-subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 ---
 
 A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover agentes, criar novas filas, remover e adicionar tags.
@@ -20,15 +13,6 @@ A página **Preferências do Live Desk** permite configurar o comportamento do a
 > ⚠️ Para configurar o Live Desk, você precisa ser um administrador da organização ou moderador do projeto. Apenas um administrador ou moderador pode configurar o Live Desk.
 
 Para acessar a página de preferências do Live Desk, acesse **Configurações > Live Desk** dentro do projeto.
-
-A página está dividida em três abas:
-
-- [Geral](#geral)
-  - [Definições](#definições)
-  - [Pausas personalizadas](#pausas-personalizadas)
-- [Setores](#setores)
-  - [Criar um novo setor](#criar-um-novo-setor)
-- [Atendentes](#atendentes)
 
 ## Geral
 
@@ -82,7 +66,7 @@ Para criar um setor, siga o passo a passo a seguir:
 
 #### Etapa 1: Configurar setor e jornada de trabalho
 
-![Etapa 1 do assistente de criação de setor](live-desk-novo-setor-1.png)
+![Etapa 1 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/live-desk-novo-setor-1.png)
 
 Na primeira etapa, escolha entre as seguintes opções:
 
@@ -113,7 +97,7 @@ Ao preencher os campos, clique em `Continuar`.
 
 #### Etapa 2: Configurar fila
 
-![Etapa 2 do assistente de criação de setor](live-desk-novo-setor-2.png)
+![Etapa 2 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/live-desk-novo-setor-2.png)
 
 Na segunda etapa, configure a fila de atendimento do setor. Escolha entre as seguintes opções:
 
@@ -132,7 +116,7 @@ Ao preencher os campos, clique em `Continuar`.
 
 #### Etapa 3: Configurar opções e mensagens
 
-![Etapa 3 do assistente de criação de setor](live-desk-novo-setor-3.png)
+![Etapa 3 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/live-desk-novo-setor-3.png)
 
 Na terceira etapa, configure as opções de atendimento, mensagens automáticas e etiquetas do setor.
 
@@ -167,7 +151,7 @@ Ao preencher os campos, clique em `Continuar`.
 
 #### Etapa 4: Configurar mensagem rápida (opcional)
 
-![Etapa 4 do assistente de criação de setor](live-desk-novo-setor-4.png)
+![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/live-desk-novo-setor-4.png)
 
 Na quarta e última etapa, configure mensagens rápidas para o setor. As mensagens rápidas são atalhos que permitem aos atendentes enviar respostas padronizadas com mais agilidade durante o atendimento.
 
