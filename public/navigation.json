@@ -38667,6 +38667,37 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics",
+                "es": "analytics",
+                "pt": "analytics"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Analytics: Criar dashboard personalizado",
+                    "en": "Analytics: Criar dashboard personalizado",
+                    "es": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "pt": "analytics-criar-dashboard-personalizado",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
                 "pt": "Analytics: Métricas de atendimento"
               },
               "slug": {
