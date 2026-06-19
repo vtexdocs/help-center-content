@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Glossário'
 id: 78y5kSB5GaS1XHH9qBr6mS
 status: PUBLISHED
@@ -46,9 +46,9 @@ A tabela de conceitos a seguir apresenta terminologias relacionadas ao VTEX CMS.
 | Placeholders  | Elementos de front-end (Banner DHTML, HTML, Coleção, Banner, Produtos relacionados) para as páginas do sua loja. O layout define quais placeholders vão ser usados e o que eles exibem, mas é o código (ou seja, o template) que vai dizer onde eles aparecem na página. |
 | Controles | Os controles nativos da VTEX renderizam diversas funcionalidades úteis e replicáveis nos templates do seu site. Por exemplo, ao inserir o controle `vtex.cmc:productName/` na sua página de produto, o sistema renderizará automaticamente o nome do produto. Artigo relacionado: [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).|
 
-## Headless CMS 
+## Headless CMS (Legacy) 
 
 | Conceito | Descrição |
 | -------- | --------- |
-| VTEX Headless CMS | Sistema de gerenciamento de conteúdo de frente de loja sem código que permite aos usuários armazenar e acessar conteúdo estruturado em uma camada separada do front-end por meio de um aplicativo VTEX. |
+| VTEX Headless CMS (Legacy) | Sistema de gerenciamento de conteúdo de frente de loja sem código que permite aos usuários armazenar e acessar conteúdo estruturado em uma camada separada do front-end por meio de um aplicativo VTEX. |
 

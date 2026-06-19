@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Configuring a VTEX marketplace'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
@@ -83,13 +83,13 @@ A marketplace can obtain the user’s location information in the storefront and
 
 Even when VTEX Session does not have access to the consumer’s location, you still need to target an assortment of seller products in the shopping experience. In this scenario, the seller selection algorithm indicates [comprehensive sellers](/en/docs/tutorials/comprehensive-seller) that are able to deliver orders in all regions served by your marketplace.
 
-> ℹ️ The Region feature is only adapted for stores using VTEX IO, and it is not valid for the Legacy CMS Portal.
+> ℹ️ The Region feature is only adapted for stores using VTEX IO, and it is not valid for the CMS Portal (Legacy).
 
 ## Configuring the storefront
 
-You need to configure your storefront to use seller information during the shopping experience. This can be done through the Legacy CMS Portal and in stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs).
+You need to configure your storefront to use seller information during the shopping experience. This can be done through the CMS Portal (Legacy) and in stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs).
 
-For stores that still use the Legacy CMS Portal, configure the following controls in your ecommerce templates:
+For stores that still use the CMS Portal (Legacy), configure the following controls in your ecommerce templates:
 
 <table>
   <tr>

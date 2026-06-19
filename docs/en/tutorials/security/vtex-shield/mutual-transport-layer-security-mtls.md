@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Mutual Transport Layer Security (mTLS)'
 id: 6YR3SoynJMfeEKGlY1Cqlo
 status: PUBLISHED
@@ -95,7 +95,7 @@ Therefore, to use mTLS, the store must meet at least one of the following requir
 
 * Operate in a headless model, where all interactions with VTEX are performed through API-based integrations.
 
-  > ⚠️  The use of mTLS doesn't apply to implementations with a native storefront, such as [Store Framework](/en/docs/tracks/cms-vtex-io) or [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal). 
+  > ⚠️  The use of mTLS doesn't apply to implementations with a native storefront, such as [Store Framework](/en/docs/tracks/cms-vtex-io) or [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). 
 
 * Have one or more API-based integrations with external services (ERP, WMS, external sellers, etc.).
 

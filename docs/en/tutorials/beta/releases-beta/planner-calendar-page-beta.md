@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Releases: Calendar page (Beta)'
 id: 46wSZ7Z5xoXQPP0xHfIx9C
 status: PUBLISHED
@@ -30,7 +30,7 @@ You can view the **Calendar** page in three ways:
 
 **Calendar** only shows [scheduled releases](/en/docs/tutorials/planner-actions-on-releases-beta#schedule). To view all your releases, access the [Releases](/en/docs/tutorials/planner-releases-page-beta) page.
 
-> ⚠️ In the beta version, the releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ In the beta version, the releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## View per month
 

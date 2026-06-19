@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Setting up the voucher list'
 id: tutorials_284
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use Legacy CMS Portal.
+> ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use CMS Portal (Legacy).
 
 This article will discuss the details for creation of a type of Voucher List, which is a special type of List. [See our List Type documentation by clicking here.](/en/docs/tutorials/creating-a-type-of-list/)
 

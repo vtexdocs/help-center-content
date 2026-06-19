@@ -162,9 +162,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Headless CMS: Stores will be upgraded to the new VTEX CMS",
-                    "es": "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS",
-                    "pt": "Headless CMS: lojas serão atualizadas para o novo CMS da VTEX"
+                    "en": "Headless CMS (Legacy): Stores will be upgraded to the new VTEX CMS",
+                    "es": "Headless CMS (Legacy): las tiendas serán migradas al nuevo VTEX CMS",
+                    "pt": "Headless CMS (Legacy): lojas serão atualizadas para o novo CMS da VTEX"
                   },
                   "slug": {
                     "en": "2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms",
@@ -2109,9 +2109,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS: new authorization requirement",
-                    "es": "Headless CMS: nueva solicitud de autorización",
-                    "pt": "Headless CMS: nova solicitação de autorização"
+                    "en": "Headless CMS (Legacy): new authorization requirement",
+                    "es": "Headless CMS (Legacy): nueva solicitud de autorización",
+                    "pt": "Headless CMS (Legacy): nova solicitação de autorização"
                   },
                   "slug": {
                     "en": "2024-02-02-headless-cms-new-authorization-requirement",
@@ -2277,9 +2277,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS events available in Audit",
-                    "es": "Eventos de Headless CMS disponibles en Audit",
-                    "pt": "Eventos do Headless CMS disponíveis no Audit"
+                    "en": "Headless CMS (Legacy) events available in Audit",
+                    "es": "Eventos de Headless CMS (Legacy) disponibles en Audit",
+                    "pt": "Eventos do Headless CMS (Legacy) disponíveis no Audit"
                   },
                   "slug": {
                     "en": "2023-12-08-headless-cms-events-available-in-audit",
@@ -2353,9 +2353,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS: Simplify content creation and management with Projects",
-                    "es": "Headless CMS: simplifica la creación y gestión de contenidos con Proyectos",
-                    "pt": "Headless CMS: simplifique a criação e o gerenciamento de conteúdo com Projetos"
+                    "en": "Headless CMS (Legacy): Simplify content creation and management with Projects",
+                    "es": "Headless CMS (Legacy): simplifica la creación y gestión de contenidos con Proyectos",
+                    "pt": "Headless CMS (Legacy): simplifique a criação e o gerenciamento de conteúdo com Projetos"
                   },
                   "slug": {
                     "en": "2023-11-01-headless-cms-simplify-content-creation-and-management-with-projects",
@@ -2384,9 +2384,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Headless CMS: Deeper insights into page publication status",
-                    "es": "Headless CMS: información sobre el status de publicación de la página",
-                    "pt": "Headless CMS: mais informações sobre o status de publicação de páginas"
+                    "en": "Headless CMS (Legacy): Deeper insights into page publication status",
+                    "es": "Headless CMS (Legacy): información sobre el status de publicación de la página",
+                    "pt": "Headless CMS (Legacy): mais informações sobre o status de publicação de páginas"
                   },
                   "slug": {
                     "en": "2023-10-18-headless-cms-deeper-insights-into-page-publication-status",
@@ -2581,9 +2581,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS: Stay informed on your publication progress",
-                    "es": "Headless CMS: mantente informado sobre el progreso de tus publicaciones",
-                    "pt": "Headless CMS: mantenha-se informado sobre o progresso das suas publicações"
+                    "en": "Headless CMS (Legacy): Stay informed on your publication progress",
+                    "es": "Headless CMS (Legacy): mantente informado sobre el progreso de tus publicaciones",
+                    "pt": "Headless CMS (Legacy): mantenha-se informado sobre o progresso das suas publicações"
                   },
                   "slug": {
                     "en": "2023-08-21-headless-cms-stay-informed-on-your-publication-progress",
@@ -28196,6 +28196,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with actX",
+                    "es": "Configurar pago con actX",
+                    "pt": "Configurar pagamento com actX"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actx",
+                    "es": "configurar-pago-con-actx",
+                    "pt": "configurar-pagamento-com-actx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with actX-v2",
+                    "es": "Configurar pago con actX-v2",
+                    "pt": "Configurar pagamento com actX-v2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actxv2",
+                    "es": "configurar-pago-con-actxv2",
+                    "pt": "configurar-pagamento-com-actxv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with aCuotaz",
                     "es": "Configurar pago con aCuotaz",
                     "pt": "Configurar pagamento com aCuotaz"
@@ -28234,6 +28264,36 @@
                     "en": "setting-up-payments-with-aditum",
                     "es": "configurar-pago-con-aditum",
                     "pt": "configurar-pagamento-com-aditum"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with AdyenV2",
+                    "es": "Configurar pago con AdyenV2",
+                    "pt": "Configurar pagamento com AdyenV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-adyenv2",
+                    "es": "configurar-pago-con-adyenv2",
+                    "pt": "configurar-pagamento-com-adyenv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Affirm",
+                    "es": "Configurar pago con Affirm",
+                    "pt": "Configurar pagamento com Affirm"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-affirm",
+                    "es": "configurar-pago-con-affirm",
+                    "pt": "configurar-pagamento-com-affirm"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28324,6 +28384,21 @@
                     "en": "setting-up-payments-with-bamboo-payments",
                     "es": "configurar-pago-con-bamboo-payments",
                     "pt": "configurar-pagamento-com-bamboo-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Bancard",
+                    "es": "Configurar pago con Bancard",
+                    "pt": "Configurar pagamento com Bancard"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bancard",
+                    "es": "configurar-pago-con-bancard",
+                    "pt": "configurar-pagamento-com-bancard"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28489,6 +28564,36 @@
                     "en": "setting-up-payments-with-braintree",
                     "es": "configurar-pago-con-braintree",
                     "pt": "configurar-pagamento-com-braintree"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Braintree-Wallet",
+                    "es": "Configurar pago con Braintree-Wallet",
+                    "pt": "Configurar pagamento com Braintree-Wallet"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braintree-wallet",
+                    "es": "configurar-pago-con-braintree-wallet",
+                    "pt": "configurar-pagamento-com-braintree-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with BraspagV2",
+                    "es": "Configurar pago con BraspagV2",
+                    "pt": "Configurar pagamento com BraspagV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braspagv2",
+                    "es": "configurar-pago-con-braspagv2",
+                    "pt": "configurar-pagamento-com-braspagv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29066,6 +29171,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Getnet Argentina",
+                    "es": "Configurar pago con Getnet Argentina",
+                    "pt": "Configurar pagamento com Getnet Argentina"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-getnet-argentina",
+                    "es": "configurar-pago-con-getnet-argentina",
+                    "pt": "configurar-pagamento-com-getnet-argentina"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Getnet Chile",
                     "es": "Configurar pago con Getnet Chile",
                     "pt": "Configurar pagamento com Getnet Chile"
@@ -29216,6 +29336,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with KlarnaPayments",
+                    "pt": "Configurar pagamento com KlarnaPayments",
+                    "es": "Setting up payments with KlarnaPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-klarnapayments",
+                    "pt": "configurar-pagamento-com-klarnapayments",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Koin-Payments",
                     "es": "Configurar pago con Koin-Payments",
                     "pt": "Configurar pagamento com Koin-Payments"
@@ -29224,6 +29359,21 @@
                     "en": "setting-up-payments-with-koin-payments",
                     "es": "configurar-pago-con-koin-payments",
                     "pt": "configurar-pagamento-com-koin-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Koin-PaymentsV2",
+                    "es": "Configurar pago con Koin-PaymentsV2",
+                    "pt": "Configurar pagamento com Koin-PaymentsV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-koin-paymentsv2",
+                    "es": "configurar-pago-con-koin-paymentsv2",
+                    "pt": "configurar-pagamento-com-koin-paymentsv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29411,6 +29561,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with MSC-Payment",
+                    "es": "Configurar pago con MSC-Payment",
+                    "pt": "Configurar pagamento com MSC-Payment"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-msc-payment",
+                    "es": "configurar-pago-con-msc-payment",
+                    "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Netopia Marketplace",
                     "es": "Configurar pago con Netopia Marketplace",
                     "pt": "Configurar pagamento com Netopia Marketplace"
@@ -29509,6 +29674,21 @@
                     "en": "setting-up-payments-with-onebuy",
                     "es": "configurar-pagos-con-onebuy",
                     "pt": "configurar-pagamentos-com-onebuy"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with OpenpayV2",
+                    "es": "Configurar pago con OpenpayV2",
+                    "pt": "Configurar pagamento com OpenpayV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-openpayv2",
+                    "es": "configurar-pago-con-openpayv2",
+                    "pt": "configurar-pagamento-com-openpayv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29741,6 +29921,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PaymentezV2",
+                    "es": "Configurar pago con PaymentezV2",
+                    "pt": "Configurar pagamento com PaymentezV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-paymentezv2",
+                    "es": "configurar-pago-con-paymentezv2",
+                    "pt": "configurar-pagamento-com-paymentezv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PayPalCheckout",
                     "es": "Configurar pago con PayPalCheckout",
                     "pt": "Configurar pagamento com PayPalCheckout"
@@ -29839,6 +30034,21 @@
                     "en": "setting-up-payments-with-picpay",
                     "es": "configurar-pago-con-picpay",
                     "pt": "configurar-pagamento-com-picpay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Pideky Escala",
+                    "es": "Configurar pago con Pideky Escala",
+                    "pt": "Configurar pagamento com Pideky Escala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pideky-escala",
+                    "es": "configurar-pago-con-pideky-escala",
+                    "pt": "configurar-pagamento-com-pideky-escala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30184,6 +30394,21 @@
                     "en": "setting-up-payments-with-tilopay",
                     "es": "configurar-pago-con-tilopay",
                     "pt": "configurar-pagamento-com-tilopay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with TilopayOnSite",
+                    "es": "Configurar pago con TilopayOnSite",
+                    "pt": "Configurar pagamento com TilopayOnSite"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-tilopayonsite",
+                    "es": "configurar-pago-con-tilopayonsite",
+                    "pt": "configurar-pagamento-com-tilopayonsite"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35073,7 +35298,7 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring SEO in Legacy CMS Portal stores",
+                        "en": "Configuring SEO in CMS Portal (Legacy) stores",
                         "es": "Configurar SEO en tiendas CMS Portal (Legado)",
                         "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
                       },
@@ -35273,112 +35498,6 @@
             },
             {
               "name": {
-                "en": "Headless CMS",
-                "es": "Headless CMS",
-                "pt": "Headless CMS"
-              },
-              "slug": {
-                "en": "headless-cms-subcategory",
-                "es": "headless-cms-subcategoria",
-                "pt": "headless-cms-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring SEO via Headless CMS",
-                    "es": "Configurar SEO a través de Headless CMS",
-                    "pt": "Configurando SEO via Headless CMS"
-                  },
-                  "slug": {
-                    "en": "configuring-seo-via-headless-cms",
-                    "es": "configurar-seo-a-traves-de-headless-cms",
-                    "pt": "configurando-seo-via-headless-cms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Headless CMS (Legacy) - Overview",
-                    "es": "Headless CMS (Legado) - Información general",
-                    "pt": "Headless CMS (Legado) - Visão geral"
-                  },
-                  "slug": {
-                    "en": "headless-cms-overview",
-                    "es": "headless-cms-vision-general",
-                    "pt": "headless-cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Pages in the Headless CMS",
-                    "es": "Gestión de Páginas en el Headless CMS",
-                    "pt": "Gerenciando Páginas no Headless CMS"
-                  },
-                  "slug": {
-                    "en": "managing-pages",
-                    "es": "gestion-de-paginas",
-                    "pt": "gerenciando-paginas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Projects",
-                    "es": "Gestionar Proyectos",
-                    "pt": "Gerenciando Projetos"
-                  },
-                  "slug": {
-                    "en": "managing-projects",
-                    "es": "gestionar-proyectos",
-                    "pt": "gerenciando-projetos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Singleton content types",
-                    "es": "Cómo gestionar content types Singleton",
-                    "pt": "Gerenciando content types do tipo Singleton"
-                  },
-                  "slug": {
-                    "en": "managing-singleton-content-types",
-                    "es": "como-gestionar-content-types-singleton",
-                    "pt": "gerenciando-content-types-do-tipo-singleton"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Media - Overview",
-                    "es": "Multimedia - Información general",
-                    "pt": "Mídia - Visão geral"
-                  },
-                  "slug": {
-                    "en": "media-overview",
-                    "es": "multimedia-vision-general",
-                    "pt": "midia-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Layout",
                 "es": "Layout",
                 "pt": "Layout"
@@ -35393,7 +35512,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "A/B Testing for stores on Legacy CMS Portal",
+                    "en": "A/B Testing for stores on CMS Portal (Legacy)",
                     "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
                     "pt": "Teste A/B para lojas no CMS Portal (Legado)"
                   },
@@ -36416,6 +36535,112 @@
             },
             {
               "name": {
+                "en": "Headless CMS",
+                "es": "Headless CMS",
+                "pt": "Headless CMS"
+              },
+              "slug": {
+                "en": "headless-cms",
+                "es": "headless-cms",
+                "pt": "headless-cms"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring SEO via Headless CMS (Legacy)",
+                    "es": "Configurar SEO a través de Headless CMS (Legacy)",
+                    "pt": "Configurando SEO via Headless CMS (Legacy)"
+                  },
+                  "slug": {
+                    "en": "configuring-seo-via-headless-cms",
+                    "es": "configurar-seo-a-traves-de-headless-cms",
+                    "pt": "configurando-seo-via-headless-cms"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Headless CMS (Legacy) - Overview",
+                    "es": "Headless CMS (Legacy) (Legado) - Información general",
+                    "pt": "Headless CMS (Legacy) (Legado) - Visão geral"
+                  },
+                  "slug": {
+                    "en": "headless-cms-overview",
+                    "es": "headless-cms-vision-general",
+                    "pt": "headless-cms-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing Pages in the Headless CMS (Legacy)",
+                    "es": "Gestión de Páginas en el Headless CMS (Legacy)",
+                    "pt": "Gerenciando Páginas no Headless CMS (Legacy)"
+                  },
+                  "slug": {
+                    "en": "managing-pages",
+                    "es": "gestion-de-paginas",
+                    "pt": "gerenciando-paginas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing Projects",
+                    "es": "Gestionar Proyectos",
+                    "pt": "Gerenciando Projetos"
+                  },
+                  "slug": {
+                    "en": "managing-projects",
+                    "es": "gestionar-proyectos",
+                    "pt": "gerenciando-projetos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing Singleton content types",
+                    "es": "Cómo gestionar content types Singleton",
+                    "pt": "Gerenciando content types do tipo Singleton"
+                  },
+                  "slug": {
+                    "en": "managing-singleton-content-types",
+                    "es": "como-gestionar-content-types-singleton",
+                    "pt": "gerenciando-content-types-do-tipo-singleton"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Media - Overview",
+                    "es": "Multimedia - Información general",
+                    "pt": "Mídia - Visão geral"
+                  },
+                  "slug": {
+                    "en": "media-overview",
+                    "es": "multimedia-vision-general",
+                    "pt": "midia-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Storefront - Overview",
                 "es": "Storefront - Información general",
                 "pt": "Storefront - Visão geral"
@@ -37399,14 +37624,14 @@
                 },
                 {
                   "name": {
-                    "en": "Live Desk: Human service dashboard",
-                    "es": "Live Desk: Dashboard",
-                    "pt": "Live Desk: Dashboard"
+                    "en": "Manage Live Desk",
+                    "es": "Configurar el Live Desk",
+                    "pt": "Configurar o Live Desk"
                   },
                   "slug": {
-                    "en": "vtex-cx-platform-live-desk-dashboard",
-                    "es": "dashboard-de-live-desk",
-                    "pt": "dashboard-do-live-desk"
+                    "en": "manage-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37450,37 +37675,6 @@
                   },
                   "slug": {
                     "pt": "visao-geral-do-live-desk-agentic-cx",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configurações VTEX CX Platform",
-                "es": "Configurações VTEX CX Platform",
-                "pt": "Configurações VTEX CX Platform"
-              },
-              "slug": {
-                "en": "configuracoes-vtex-cx-platform",
-                "es": "configuracoes-vtex-cx-platform",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Gerenciamento de membros",
-                    "en": "Gerenciamento de membros",
-                    "es": "Gerenciamento de membros"
-                  },
-                  "slug": {
-                    "pt": "gerenciamento-de-membros-vtex-cx-platform",
                     "en": "",
                     "es": ""
                   },
@@ -38454,14 +38648,14 @@
                 },
                 {
                   "name": {
-                    "en": "Manage Live Desk",
-                    "es": "Configurar el Live Desk",
-                    "pt": "Configurar o Live Desk"
+                    "en": "Manage VTEX CX Platform Members",
+                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "manage-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
+                    "en": "manage-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38473,7 +38667,7 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "Analytics: Métricas de atendimento"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",
@@ -48475,6 +48669,21 @@
                 "en": "stucked-releasespublications-on-hcms",
                 "es": "comunicadospublicaciones-atascados-en-hcms",
                 "pt": "lancamentospublicacoes-bloqueados-no-hcms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "updateThemeIds mutation returns 504 but content migration completes successfully in background",
+                "es": "La mutación «updateThemeIds» devuelve un error 504, pero la migración de contenido se completa con éxito en segundo plano",
+                "pt": "A mutação `updateThemeIds` retorna um erro 504, mas a migração de conteúdo é concluída com sucesso em segundo plano"
+              },
+              "slug": {
+                "en": "updatethemeids-mutation-returns-504-but-content-migration-completes-successfully-in-background",
+                "es": "la-mutacion-updatethemeids-devuelve-un-error-504-pero-la-migracion-de-contenido-se-completa-con-exito-en-segundo-plano",
+                "pt": "a-mutacao-updatethemeids-retorna-um-erro-504-mas-a-migracao-de-conteudo-e-concluida-com-sucesso-em-segundo-plano"
               },
               "origin": "",
               "type": "markdown",
@@ -59297,6 +59506,21 @@
             },
             {
               "name": {
+                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
+              },
+              "slug": {
+                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
+                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -59320,6 +59544,21 @@
                 "en": "card-brands-incorrectly-processed-as-visa",
                 "es": "marcas-de-tarjetas-procesadas-incorrectamente-como-visa",
                 "pt": "marcas-de-cartao-processadas-incorretamente-como-visa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Card Security Code Null After Switching Payment Methods in Checkout",
+                "es": "El código de seguridad de la tarjeta aparece como «Nulo» tras cambiar de método de pago durante el proceso de pago",
+                "pt": "Código de segurança do cartão nulo após a alteração do método de pagamento na finalização da compra"
+              },
+              "slug": {
+                "en": "card-security-code-null-after-switching-payment-methods-in-checkout",
+                "es": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+                "pt": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -60602,21 +60841,6 @@
             },
             {
               "name": {
-                "en": "Invalid fields: Card security code. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issues inserting values in loyalty gift card at checkout",
                 "es": "Problemas al introducir valores en la tarjeta regalo de fidelidad al finalizar la compra",
                 "pt": "Problemas ao inserir valores no cartão-presente de fidelidade durante o checkout"
@@ -61060,6 +61284,21 @@
                 "en": "nps-we-arent-accepting-response-with-more-than-65536-characters",
                 "es": "nps-no-aceptamos-respuestas-con-mas-de-65-536-caracteres",
                 "pt": "nps-nao-aceitamos-respostas-com-mais-de-65536-caracteres"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "NULL payment when converting Payment Rules during the transaction creation process",
+                "es": "Pago «NULL» al convertir las reglas de pago durante el proceso de creación de la transacción",
+                "pt": "Pagamento NULL ao converter regras de pagamento durante o processo de criação da transação"
+              },
+              "slug": {
+                "en": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+                "es": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+                "pt": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao"
               },
               "origin": "",
               "type": "markdown",
