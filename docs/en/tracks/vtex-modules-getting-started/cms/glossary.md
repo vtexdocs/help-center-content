@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Glossary'
 id: 78y5kSB5GaS1XHH9qBr6mS
 status: PUBLISHED
@@ -21,7 +21,7 @@ The following table of concepts introduces common terminlogy for the VTEX CMS
 | Concept     | Description   |
 | ----------  | ---------- |
 | VTEX IO | A serverless development environment that enables the developer to quickly build high-quality web apps without dealing with infrastructure and scalability issues.By leveraging the VTEX IO platform, the VTEX IO Store Framework solution enables Admin users to be assisted by the **Site Editor** to update storefront content. Related articles: [What is VTEX IO?](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io), [What is Store Framework?](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-store-framework), [Site Editor](/en/docs/tutorials/site-editor-overview)|
-| Legacy CMS Portal| Legacy CMS Portal is the name of an HTML and CSS-based technology that some VTEX stores use to create, organize, edit, and define their structure of folders, files, and components in order to compose their storefront as they wish. Related article:[Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal)|
+| CMS Portal (Legacy)| CMS Portal (Legacy) is the name of an HTML and CSS-based technology that some VTEX stores use to create, organize, edit, and define their structure of folders, files, and components in order to compose their storefront as they wish. Related article:[CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal)|
 | Binding | Before you can start organizing content, your site must be linked to the store as defined in your account settings. This is because every account can have multiple stores, each associated with a different folder structure.</br> Through the binding, you tell the platform which store "owns" that specific folder structure. Related article: [What is binding?](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) |
 | SEO     | Search Engine Optimization (SEO) is a set of practices aimed to improve a website’s traffic quality by better positioning it in search engine results.|
 
@@ -39,14 +39,14 @@ The following table of concepts introduces common terminlogy for the VTEX CMS
 
 | Concept     | Description     |
 | ----------  | ---------- |
-| Sites and Channels  | The area inside CMS where all the folder structure of your site is located. It's here that you will create and organize the layouts of your site, as we will see later. </br> Related article: [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) |
+| Sites and Channels  | The area inside CMS where all the folder structure of your site is located. It's here that you will create and organize the layouts of your site, as we will see later. </br> Related article: [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) |
 | Template | Templates are files that contain the code for the pages of your website. They determine, among other things, how information is displayed, including the position of the placeholders. On the VTEX platform, templates are classified into two types: HTML templates (or page templates) and Shelves templates. Artigo relacionado: [Layout](/en/docs/tracks/cms-vtex-io#layout)|
 | Layout  | Determines which elements will appear on a page. It is the layout that sets up the placeholders, which will show to the the end-user and each layout needs to be linked to a single template.You can find your website layouts organized by folders, in the ** Sites and Channels directory.** Related article: [Layout](/en/docs/tutorials/what-is-cms-layout)  |
 | Placeholders  | These are elements (DHTML Banner, HTML, Collection, Banner, Related Products) that may or may not be used in the pages of your Web Site. They are configured in the layouts (which are stored in the Sites and channels directory), but their position on the page is determined by the code in the templates (stored in the HTML Templates directory).The layout defines which placeholders are going to be used, and what they display, but it's the code (that is, the template) that will tell you where they appear on the page. |
 | Controls | VTEX native controls render various useful and replicable features in your site templates. For example, when you enter the `vtex.cmc:productName/` control on your product page, the system will automatically render the product name. Artigo relacionado: [List of controls for templates](/en/tutorial/lista-de-controles-para-templates--tutorials_563?&utm_source=autocomplete).|
 
-## Headless CMS 
+## Headless CMS (Legacy) 
 
 | Conceito | Descrição |
 | -------- | --------- |
-| VTEX Headless CMS | A no-code storefront content management system that allows users to store and access structured content in a separate layer from the frontend through a VTEX App. |
+| VTEX Headless CMS (Legacy) | A no-code storefront content management system that allows users to store and access structured content in a separate layer from the frontend through a VTEX App. |
