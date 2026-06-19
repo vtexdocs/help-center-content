@@ -42,6 +42,26 @@
       "countries": ["PE"]
     },
     {
+      "name": "actX",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-actx",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-actx",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-actx"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "actX-v2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-actxv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-actxv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-actxv2"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "Addi",
       "payoutSplit": false,
       "docs": {
@@ -99,6 +119,16 @@
       ]
     },
     {
+      "name": "AdyenV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-adyenv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-adyenv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-adyenv2"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "AdyenV3 (VTEX Sales App)",
       "payoutSplit": false,
       "docs": {
@@ -107,6 +137,16 @@
         "es": "https://help.vtex.com/es/tutorial/configur-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt"
       },
       "countries": ["BR"]
+    },
+    {
+      "name": "Affirm",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-affirm",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-affirm",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-affirm"
+      },
+      "countries": ["US"]
     },
     {
       "name": "AmeDigital",
@@ -129,7 +169,7 @@
       "countries": ["BR"]
     },
     {
-      "name": "gonPAY",
+      "name": "argonPAY",
       "payoutSplit": false,
       "docs": {
         "pt": "https://help.vtex.com/pt/tutorial/configurar-pagamento-com-argonpay--6Pktml6MJpdc7dNvJ4zwzI",
@@ -137,6 +177,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-argonpay--6Pktml6MJpdc7dNvJ4zwzI"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "Bancard",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-bancard",
+        "en": "https://help.vtex.com/docs/tutorials/configurar-pagamento-com-bancard",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-bancard"
+      },
+      "countries": ["PY"]
     },
     {
       "name": "Baccredomatic",
@@ -267,6 +317,16 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-braintree-wallet"
       },
       "countries": ["BR", "US"]
+    },
+    {
+      "name": "BraspagV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-braspagv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-braspagv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-braspagv2"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "Brinks Cash Ecommerce",
@@ -661,6 +721,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-geru--2XmYp4Uh1Yulv3a9puRgwm"
       },
       "countries": ["BR"]
+    },
+    {
+      "name": "Getnet Argentina",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-getnet-argentina",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-getnet-argentina",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-getnet-argentina"
+      },
+      "countries": ["AR"]
     },
     {
       "name": "Getnet Chile",
@@ -1271,6 +1341,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-placetopaylatam--1Xda32LgbEV54wHLzEAFgA"
       },
       "countries": ["CO", "US", "UY"]
+    },
+    {
+      "name": "Pideky Escala",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-pideky-escala",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-pideky-escala",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-pideky-escala"
+      },
+      "countries": ["CO"]
     },
     {
       "name": "Powerpay",
