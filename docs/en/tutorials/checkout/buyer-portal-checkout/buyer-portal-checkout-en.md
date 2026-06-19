@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Buyer Portal Checkout'
 status: PUBLISHED
 createdAt: 2026-04-24T18:00:00.000Z
@@ -9,9 +9,9 @@ slugEN: buyer-portal-checkout-en
 locale: en
 ---
 
-> ℹ️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
+> ℹ️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
-The **Buyer Portal Checkout** is the new version of the VTEX checkout, designed to deliver a fast, customizable checkout experience. The solution was built based on the market's best usability practices and directly integrated into the B2B flows of the Buyer Portal, such as [Contracts](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#contracts), [Accounting Fields](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#accounting-fields), [Budgets](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#budgets), and [Buying Policies](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#buying-policies).
+The **Buyer Portal Checkout** is the new version of the VTEX checkout, designed to deliver a fast, customizable checkout experience. The solution was built based on the market's best usability practices and directly integrated into the B2B flows of the Buyer Portal, such as [Contracts](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal#contracts), [Accounting Fields](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal#accounting-fields), [Budgets](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal#budgets), and [Buying Policies](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal#buying-policies).
 
 ![Buyer Portal Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-en_1.png)
 
@@ -39,7 +39,7 @@ Beyond these features, VTEX offers solutions to optimize the B2B purchasing expe
 
 ### Budgets
 
-The [Budgets](https://help.vtex.com/docs/tutorials/b2b-buyer-portal#budgets) feature allows the buyer to see which budgets are associated with their order before checkout. This gives buyers visibility into their budgets and helps prevent spending beyond the limits defined by their organization.
+The [Budgets](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal#budgets) feature allows the buyer to see which budgets are associated with their order before checkout. This gives buyers visibility into their budgets and helps prevent spending beyond the limits defined by their organization.
 
 ![Account billing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-en_3.png)
 
@@ -59,7 +59,7 @@ The Billing addresses feature allows buyers to explicitly select the correct bil
 
 ### Buying policies
 
-The [Buying policies](https://help.vtex.com/docs/tutorials/buying-policies-overview) system supports dynamic rules that buyers can configure to apply their organization's compliance policies throughout the purchasing process. [Buyer organization managers](https://help.vtex.com/docs/tutorials/b2b-buyer-portal) can define custom rules to route orders for approval before confirmation, or even prevent them from being completed.
+The [Buying policies](https://help.vtex.com/docs/tutorials/buying-policies-overview) system supports dynamic rules that buyers can configure to apply their organization's compliance policies throughout the purchasing process. [Buyer organization managers](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal) can define custom rules to route orders for approval before confirmation, or even prevent them from being completed.
 
 ### Assembly Options
 
@@ -69,13 +69,13 @@ The [Assembly Options](https://help.vtex.com/pt/docs/tutorials/assembly-options)
 
 ### Saved cards
 
-Buyer Portal Checkout allows the use of credit cards shared by the organization. It also allows you to [save cards](https://developers.vtex.com/docs/api-reference/checkout-custom-card-payment-api) for future transactions (available to users with this [permission](https://help.vtex.com/docs/tutorials/b2b-buyer-portal)).
+Buyer Portal Checkout allows the use of credit cards shared by the organization. It also allows you to [save cards](https://developers.vtex.com/docs/api-reference/checkout-custom-card-payment-api) for future transactions (available to users with this [permission](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal)).
 
 Integrated with VTEX’s [credit card tokenization flow](https://help.vtex.com/docs/tutorials/dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow), the information is processed according to [PCI](https://help.vtex.com/docs/tutorials/what-is-the-pci-ssc) rules, ensuring security for the process.
 
 ### Saved shipping addresses
 
-In Buyer Portal Checkout, users can select shipping addresses from the [list provided by their organization](https://help.vtex.com/docs/tutorials/b2b-buyer-portal). If they have the configured [permissions](https://developers.vtex.com/docs/guides/storefront-roles), users can also add new addresses and edit existing ones directly in the checkout experience.
+In Buyer Portal Checkout, users can select shipping addresses from the [list provided by their organization](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal). If they have the configured [permissions](https://developers.vtex.com/docs/guides/storefront-roles), users can also add new addresses and edit existing ones directly in the checkout experience.
 
 ![Address manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/buyer-portal-checkout/buyer-portal-checkout-en_5.png)
 
