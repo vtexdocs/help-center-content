@@ -17412,14 +17412,29 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring authentication methods by organizational unit",
-                    "es": "Configurar métodos de autenticación por unidad organizativa",
-                    "pt": "Configurar métodos de autenticação por unidade organizacional"
+                    "pt": "Configurar métodos de autenticação por unidade organizacional",
+                    "en": "Configurar métodos de autenticação por unidade organizacional",
+                    "es": "Configurar métodos de autenticação por unidade organizacional"
                   },
                   "slug": {
-                    "en": "placeholder-configure-authentication-methods-per-organizational-unit",
+                    "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring authentication methods by organizational unit",
+                    "es": "Configurar métodos de autenticación por unidad organizativa",
+                    "pt": "Configuring authentication methods by organizational unit"
+                  },
+                  "slug": {
+                    "en": "configuring-authentication-methods-by-organizational-unit",
                     "es": "configurar-metodos-de-autenticacion-por-unidad-organizativa",
-                    "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
