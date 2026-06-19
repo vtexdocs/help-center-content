@@ -8,7 +8,7 @@ slugEN: configuring-authentication-methods-by-organizational-unit
 locale: en
 ---
 
-> ⚠️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
+> ⚠️ This feature is only available for stores using the [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 In B2B, each organizational unit can have its own authentication settings. This allows different branches or divisions within the same organization to use different login methods based on their needs.
 
@@ -32,7 +32,7 @@ Defines how the user will be authenticated after identification (by password, ex
 | Method | Description |
 | - | - |
 | **Password** | The user is authenticated with a password registered on the VTEX platform. |
-| **External IdP (SSO)** | The user is redirected to an external identity provider configured by the store admin for authentication via Single Sign-On. Learn more in [Enabling login for the organization via external identity provider (IdP)](https://help.vtex.com/docs/tutorials/enable-login-for-the-organization-via-an-external-identity-provider-idp). |
+| **External IdP (SSO)** | The user is redirected to an external identity provider configured by the store admin for authentication via Single Sign-On. Learn more in [Enabling login for the organization via external identity provider (IdP)](https://help.vtex.com/en/docs/tutorials/enable-login-for-the-organization-via-an-external-identity-provider-idp). |
 
 You can enable one or more options in each group. Disabled options are unavailable to members of the organizational unit.
 
@@ -70,6 +70,6 @@ You can also manage authentication methods by organizational unit via API. The a
 
 ## Learn more
 
-- [Enabling login for the organization via external identity provider (IdP)](https://help.vtex.com/docs/tutorials/enable-login-for-the-organization-via-an-external-identity-provider-idp)
+- [Enabling login for the organization via external identity provider (IdP)](https://help.vtex.com/en/docs/tutorials/enable-login-for-the-organization-via-an-external-identity-provider-idp)
 - [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide)
 - [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2)
