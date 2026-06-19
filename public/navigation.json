@@ -62823,13 +62823,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
-                "pt": "As transações ficam presas em “Cancelando” e os pagamentos permanecem em “Autorizado”."
+                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
+                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
-                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado"
+                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
               },
               "origin": "",
               "type": "markdown",
