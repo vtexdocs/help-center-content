@@ -313,6 +313,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "june",
+                "es": "junio",
+                "pt": "junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Native personal data management in Master Data v2",
+                    "es": "Gestión nativa de datos personales en Master Data v2",
+                    "pt": "Gestão nativa de dados pessoais no Master Data v2"
+                  },
+                  "slug": {
+                    "en": "2026-06-11-native-personal-data-management-in-master-data-v2",
+                    "es": "2026-06-11-gestion-nativa-de-datos-personales-en-master-data-v2",
+                    "pt": "2026-06-11-gestao-nativa-de-dados-pessoais-no-master-data-v2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -58573,6 +58604,21 @@
             },
             {
               "name": {
+                "en": "Scenarios Involving Goodwill Following an Order Modification",
+                "es": "Situaciones relacionadas con el fondo de comercio tras una modificación de la orden",
+                "pt": "Cenários envolvendo ágio após uma modificação de pedido"
+              },
+              "slug": {
+                "en": "scenarios-involving-goodwill-following-an-order-modification",
+                "es": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+                "pt": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con un problema en el cobro del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -60159,6 +60205,21 @@
                 "en": "error-when-install-customer-credit-app",
                 "es": "error-al-instalar-la-aplicacion-de-credito-al-cliente",
                 "pt": "erro-ao-instalar-a-aplicacao-de-credito-ao-cliente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error when processing the second refund or cancellation with the same value as the first",
+                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+              },
+              "slug": {
+                "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
+                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
               },
               "origin": "",
               "type": "markdown",
