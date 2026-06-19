@@ -13,7 +13,7 @@ slugEN: mode-off-faq
 legacySlug: mode-off-faq
 locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
-
+---
 
 **Contingency Mode** (antes conocido como **Mode-off**) es una funcionalidad de resiliencia de VTEX Payments que ayuda a proteger transacciones elegibles durante inestabilidades temporales en proveedores de pago.
 
