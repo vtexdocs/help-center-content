@@ -32,7 +32,7 @@ Define cómo se autentica el usuario después de la identificación (con contras
 | Método                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Contraseña**                           | El usuario se autentica con la contraseña registrada en la plataforma VTEX.                                                                                                                                                                                                                                                                                                                                             |
-| **IdP externo (SSO)** | Se redirige al usuario a un proveedor de identidad externo configurado por el retailer para autenticarse mediante Single Sign-On. Consulta [Activar inicio de sesión en la organización a través de un proveedor de identidad (IdP) externo](https://help.vtex.com/es/docs/tutorials/activar-inicio-de-sesion-en-la-organizacion-a-traves-de-un-proveedor-de-identidad-idp-externo). |
+| **IdP externo (SSO)** | Se redirige al usuario a un proveedor de identidad externo configurado por el retailer para autenticarse mediante Single Sign-On. Consulta [Activar inicio de sesión en la organización a través de un proveedor de identidad (IdP) externo](https://help.vtex.com/es/docs/tutorials/activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo). |
 
 Se puede activar una o más opciones en cada grupo. Las opciones que no se hayan activado no están disponibles para los miembros de la unidad organizativa.
 
@@ -70,6 +70,6 @@ También puedes gestionar los métodos de autenticación por unidad organizativa
 
 ## Aprende más
 
-- [Activar inicio de sesión en la organización a través de un proveedor de identidad (IdP) externo](https://help.vtex.com/es/docs/tutorials/activar-inicio-de-sesion-en-la-organizacion-a-traves-de-un-proveedor-de-identidad-idp-externo)
+- [Activar inicio de sesión en la organización a través de un proveedor de identidad (IdP) externo](https://help.vtex.com/es/docs/tutorials/activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo)
 - [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide)
 - [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2)
