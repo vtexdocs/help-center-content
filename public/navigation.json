@@ -36857,6 +36857,21 @@
             },
             {
               "name": {
+                "en": "Extensibility in VTEX Sales App",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -36910,21 +36925,6 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "VTEX Sales App Extensibility",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "vtex-sales-app-extensibility",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
@@ -39410,6 +39410,21 @@
                 "en": "incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration",
                 "es": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
                 "pt": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Malformed button in B2B Suite Organizations Custom Fields Admin UI",
+                "es": "Botón con un formato incorrecto en la interfaz de administración de campos personalizados de las organizaciones de B2B Suite",
+                "pt": "Botão com formato incorreto na interface de administração de campos personalizados das organizações do B2B Suite"
+              },
+              "slug": {
+                "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
+                "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
+                "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
@@ -48460,6 +48475,21 @@
                 "en": "stucked-releasespublications-on-hcms",
                 "es": "comunicadospublicaciones-atascados-en-hcms",
                 "pt": "lancamentospublicacoes-bloqueados-no-hcms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "updateThemeIds mutation returns 504 but content migration completes successfully in background",
+                "es": "La mutación «updateThemeIds» devuelve un error 504, pero la migración de contenido se completa con éxito en segundo plano",
+                "pt": "A mutação `updateThemeIds` retorna um erro 504, mas a migração de conteúdo é concluída com sucesso em segundo plano"
+              },
+              "slug": {
+                "en": "updatethemeids-mutation-returns-504-but-content-migration-completes-successfully-in-background",
+                "es": "la-mutacion-updatethemeids-devuelve-un-error-504-pero-la-migracion-de-contenido-se-completa-con-exito-en-segundo-plano",
+                "pt": "a-mutacao-updatethemeids-retorna-um-erro-504-mas-a-migracao-de-conteudo-e-concluida-com-sucesso-em-segundo-plano"
               },
               "origin": "",
               "type": "markdown",
@@ -59282,6 +59312,21 @@
             },
             {
               "name": {
+                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
+              },
+              "slug": {
+                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
+                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -59305,6 +59350,21 @@
                 "en": "card-brands-incorrectly-processed-as-visa",
                 "es": "marcas-de-tarjetas-procesadas-incorrectamente-como-visa",
                 "pt": "marcas-de-cartao-processadas-incorretamente-como-visa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Card Security Code Null After Switching Payment Methods in Checkout",
+                "es": "El código de seguridad de la tarjeta aparece como «Nulo» tras cambiar de método de pago durante el proceso de pago",
+                "pt": "Código de segurança do cartão nulo após a alteração do método de pagamento na finalização da compra"
+              },
+              "slug": {
+                "en": "card-security-code-null-after-switching-payment-methods-in-checkout",
+                "es": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+                "pt": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -60587,21 +60647,6 @@
             },
             {
               "name": {
-                "en": "Invalid fields: Card security code. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issues inserting values in loyalty gift card at checkout",
                 "es": "Problemas al introducir valores en la tarjeta regalo de fidelidad al finalizar la compra",
                 "pt": "Problemas ao inserir valores no cartão-presente de fidelidade durante o checkout"
@@ -61045,6 +61090,21 @@
                 "en": "nps-we-arent-accepting-response-with-more-than-65536-characters",
                 "es": "nps-no-aceptamos-respuestas-con-mas-de-65-536-caracteres",
                 "pt": "nps-nao-aceitamos-respostas-com-mais-de-65536-caracteres"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "NULL payment when converting Payment Rules during the transaction creation process",
+                "es": "Pago «NULL» al convertir las reglas de pago durante el proceso de creación de la transacción",
+                "pt": "Pagamento NULL ao converter regras de pagamento durante o processo de criação da transação"
+              },
+              "slug": {
+                "en": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+                "es": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+                "pt": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao"
               },
               "origin": "",
               "type": "markdown",
