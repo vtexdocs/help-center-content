@@ -36503,8 +36503,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
                   },
                   "slug": {
@@ -36518,8 +36518,8 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
                     "pt": "Introdução ao CX"
                   },
                   "slug": {
