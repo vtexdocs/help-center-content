@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Setting up product comparison'
 id: tutorials_236
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ This tutorial is only applicable to Legacy CMS Portal stores.
+> ⚠️ This tutorial is only applicable to CMS Portal (Legacy) stores.
 
 Product Comparison is a native VTEX feature that allows you to view the details and specifications of selected products side by side. This makes it easy to compare items and quickly identify differences between their specifications.
 

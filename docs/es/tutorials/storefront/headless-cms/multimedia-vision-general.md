@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Multimedia - Información general'
 id: 31fhjHTt4TBoo50AmGQ9b2
 status: PUBLISHED
@@ -22,7 +22,7 @@ En la página Multimedia puedes gestionar los archivos multimedia de tu tienda, 
 
 ![Multimedia Información general](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_1.png)
 
-demás, Multimedia está integrada con **Site Editor** y **Headless CMS**. Esta integración te permite acceder y gestionar archivos multimedia directamente a través de las soluciones de CMS de VTEX.
+demás, Multimedia está integrada con **Site Editor** y **Headless CMS (Legacy)**. Esta integración te permite acceder y gestionar archivos multimedia directamente a través de las soluciones de CMS de VTEX.
 
 En esta guía aprenderás a:
 
@@ -36,7 +36,7 @@ Hay tres formas de acceder al módulo Multimedia:
 
 - **Site Editor** (para tiendas que utilizan Store Framework): en el Admin VTEX, ve a **Storefront > Site Editor**, elige un bloque que contenga una imagen (por ejemplo, Carrusel) y haz clic en `Agregar nuevo`.  Se abrirá un panel.
 
-- **Headless CMS**: en el Admin VTEX, accede a **Storefront > Headless CMS** y elige una de las páginas creadas, como una página de producto. De las secciones disponibles, selecciona una en la que puedas agregar una imagen, como por ejemplo, [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero). Haz clic en el componente de imagen Hero y se abrirá un panel de Multimedia.
+- **Headless CMS (Legacy)**: en el Admin VTEX, accede a **Storefront > Headless CMS (Legacy)** y elige una de las páginas creadas, como una página de producto. De las secciones disponibles, selecciona una en la que puedas agregar una imagen, como por ejemplo, [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero). Haz clic en el componente de imagen Hero y se abrirá un panel de Multimedia.
 
 > ⚠️ Ten en cuenta que la sección debe utilizar la [media-gallery](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms) para beneficiarse de Multimedia. Para proyectos de [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), las secciones que utilizan el widget media-gallery son [Navbar](https://developers.vtex.com/docs/guides/faststore/organisms-navbar) y [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero).
 
@@ -61,7 +61,7 @@ En Multimedia puedes cargar imágenes en los siguientes formatos: `png`, `jpg`, 
 
 1. En la página o panel de **Multimedia**, haz clic en `Agregar nuevo` y luego en `Imagen`.
 
-> ⚠️ En el panel de Multimedia de Headless CMS y en Site Editor, puedes arrastrar y soltar imágenes.
+> ⚠️ En el panel de Multimedia de Headless CMS (Legacy) y en Site Editor, puedes arrastrar y soltar imágenes.
 
 2. Elige en tu dispositivo la imagen que deseas agregar y haz clic en `Abrir`.
 
@@ -93,15 +93,15 @@ Además de imágenes, Multimedia te permite almacenar videos que puedes utilizar
 
 Una vez agregado el video, puedes decidir cómo deseas utilizarlo haciendo clic en el menú `⋮` en la miniatura del video:
 
-- **Copiar URL:** obtén la dirección URL del video que se debe utilizar en la tienda a través de Headless CMS.
+- **Copiar URL:** obtén la dirección URL del video que se debe utilizar en la tienda a través de Headless CMS (Legacy).
 - **Abrir video:** abre una vista previa del video en una nueva pestaña del navegador.
 - **Eliminar:** elimina el video de tu galería.
 
-### Agregar un video al contenido en Headless CMS
+### Agregar un video al contenido en Headless CMS (Legacy)
 
-Integrar contenido multimedia, como videos, en Headless CMS puede optimizar la experiencia del usuario en tu sitio web. Sigue los pasos a continuación para agregar videos a tu tienda.
+Integrar contenido multimedia, como videos, en Headless CMS (Legacy) puede optimizar la experiencia del usuario en tu sitio web. Sigue los pasos a continuación para agregar videos a tu tienda.
 
-1. En el Admin VTEX, accede a **Storefront > Headless CMS**.
+1. En el Admin VTEX, accede a **Storefront > Headless CMS (Legacy)**.
 2. Selecciona el [proyecto](/es/docs/tutorials/gestionar-proyectos) al que deseas agregar el video.
 3. Selecciona la página a la que deseas agregar el video. Por ejemplo: **Inicio**.
 4. Con la página **Inicio** abierta, en la pestaña **Secciones**, agrega (`+`) una sección que tenga el widget media-gallery, como por ejemplo, **Hero**.

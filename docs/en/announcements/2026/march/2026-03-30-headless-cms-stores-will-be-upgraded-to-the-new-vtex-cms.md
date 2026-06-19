@@ -1,5 +1,5 @@
----
-title: "Headless CMS: Stores will be upgraded to the new VTEX CMS"
+﻿---
+title: "Headless CMS (Legacy): Stores will be upgraded to the new VTEX CMS"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-03-30T17:08:52.219Z
 contentType: updates
@@ -59,7 +59,7 @@ No action is required to initiate the upgrade. However, we recommend the followi
 
 * **Review the documentation to get familiar with the new CMS:**
   * User guide: [CMS overview](https://help.vtex.com/en/docs/tutorials/cms-overview)
-  * Developer guide: [Upgrading from Headless CMS (legacy) to CMS](https://developers.vtex.com/docs/guides/upgrading-from-headless-cms-legacy-to-cms-overview)
+  * Developer guide: [Upgrading from Headless CMS (Legacy) (legacy) to CMS](https://developers.vtex.com/docs/guides/upgrading-from-headless-cms-legacy-to-cms-overview)
 
 * **Validate your content after migration:**
   * Access the Admin, go to **Storefront > Content,** and ensure your store content appears as expected.

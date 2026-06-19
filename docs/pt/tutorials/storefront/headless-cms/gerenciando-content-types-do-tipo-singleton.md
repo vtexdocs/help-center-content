@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Gerenciando content types do tipo Singleton'
 id: VBibMN1BqV2OFmavUFCdo
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 ---
 
-Content types do tipo Singleton permitem a criação e o gerenciamento de uma única página, garantindo que apenas uma página desse content type exista no Headless CMS.
+Content types do tipo Singleton permitem a criação e o gerenciamento de uma única página, garantindo que apenas uma página desse content type exista no Headless CMS (Legacy).
 
 Esse content type evita conflitos e inconsistências que podem ocorrer quando várias páginas do mesmo content type são criadas. Por exemplo, você poder usar o Singleton para a Página Inicial (Home) da sua loja, garantindo que exista apenas uma Página Inicial e todas as atualizações e solicitações feitas a essa página sempre retornem o mesmo resultado.
 ![singleton-br](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/gerenciando-content-types-do-tipo-singleton_1.gif)
@@ -23,7 +23,7 @@ Esse content type evita conflitos e inconsistências que podem ocorrer quando v�
 > ⚠️ Para criar um content type Singleton, verifique com o seu time de desenvolvimento se a propriedade *isSingleton* já está implementada ou peça para que o time siga as intruções em [Using isSingleton in a content type](https://v1.faststore.dev/how-to-guides/cms/vtex-headless-cms/Using%20isSingleton%20property%20in%20a%20contenty%20type) para adicioná-la ao content type desejado.
 
 ## Criando o Singleton
-1. Acesse o **Admin > Storefront > Headless CMS**.
+1. Acesse o **Admin > Storefront > Headless CMS (Legacy)**.
 2. Selecione `CRIAR NOVO` e escolha o nome do content type singleton, por exemplo, **Home**.
 3. Edite a página como desejar com novas seções.
 
@@ -33,13 +33,13 @@ Após terminar de editar a página, você pode publicar o conteúdo selecionando
 Para editar ou excluir um conteúdo, verifique as seções a seguir.
 
 ## Editando o Singleton
-1. Access the **Admin > Storefront > Headless CMS**.
+1. Access the **Admin > Storefront > Headless CMS (Legacy)**.
 2. Clique no projeto onde está o Singleton criado.
 3. Selecione o Singleton criado, por exemplo **Home**.
 4. Na página **Home**, edite como desejar adicionando novas seções.
 
 ## Despublicando o Singleton
-1. Acesse **Admin > Storefront > Headless CMS**.
+1. Acesse **Admin > Storefront > Headless CMS (Legacy)**.
 2. Clique no projeto em que o Singleton foi criado.
 3. Clique em `Despublicar` > `Despublicar agora`.
 
