@@ -28196,6 +28196,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with actX",
+                    "es": "Configurar pago con actX",
+                    "pt": "Configurar pagamento com actX"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actx",
+                    "es": "configurar-pago-con-actx",
+                    "pt": "configurar-pagamento-com-actx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with actX-v2",
+                    "es": "Configurar pago con actX-v2",
+                    "pt": "Configurar pagamento com actX-v2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actxv2",
+                    "es": "configurar-pago-con-actxv2",
+                    "pt": "configurar-pagamento-com-actxv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with aCuotaz",
                     "es": "Configurar pago con aCuotaz",
                     "pt": "Configurar pagamento com aCuotaz"
@@ -28234,6 +28264,36 @@
                     "en": "setting-up-payments-with-aditum",
                     "es": "configurar-pago-con-aditum",
                     "pt": "configurar-pagamento-com-aditum"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with AdyenV2",
+                    "es": "Configurar pago con AdyenV2",
+                    "pt": "Configurar pagamento com AdyenV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-adyenv2",
+                    "es": "configurar-pago-con-adyenv2",
+                    "pt": "configurar-pagamento-com-adyenv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Affirm",
+                    "es": "Configurar pago con Affirm",
+                    "pt": "Configurar pagamento com Affirm"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-affirm",
+                    "es": "configurar-pago-con-affirm",
+                    "pt": "configurar-pagamento-com-affirm"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28324,6 +28384,21 @@
                     "en": "setting-up-payments-with-bamboo-payments",
                     "es": "configurar-pago-con-bamboo-payments",
                     "pt": "configurar-pagamento-com-bamboo-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Bancard",
+                    "es": "Configurar pago con Bancard",
+                    "pt": "Configurar pagamento com Bancard"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bancard",
+                    "es": "configurar-pago-con-bancard",
+                    "pt": "configurar-pagamento-com-bancard"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28504,6 +28579,21 @@
                     "en": "setting-up-payments-with-braintree-wallet",
                     "es": "configurar-pago-con-braintree-wallet",
                     "pt": "configurar-pagamento-com-braintree-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with BraspagV2",
+                    "es": "Configurar pago con BraspagV2",
+                    "pt": "Configurar pagamento com BraspagV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braspagv2",
+                    "es": "configurar-pago-con-braspagv2",
+                    "pt": "configurar-pagamento-com-braspagv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29074,6 +29164,21 @@
                     "en": "setting-up-payments-with-geru",
                     "es": "configurar-pago-con-geru",
                     "pt": "configurar-pagamento-com-geru"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Getnet Argentina",
+                    "es": "Configurar pago con Getnet Argentina",
+                    "pt": "Configurar pagamento com Getnet Argentina"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-getnet-argentina",
+                    "es": "configurar-pago-con-getnet-argentina",
+                    "pt": "configurar-pagamento-com-getnet-argentina"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29929,6 +30034,21 @@
                     "en": "setting-up-payments-with-picpay",
                     "es": "configurar-pago-con-picpay",
                     "pt": "configurar-pagamento-com-picpay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Pideky Escala",
+                    "es": "Configurar pago con Pideky Escala",
+                    "pt": "Configurar pagamento com Pideky Escala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pideky-escala",
+                    "es": "configurar-pago-con-pideky-escala",
+                    "pt": "configurar-pagamento-com-pideky-escala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -59386,6 +59506,21 @@
             },
             {
               "name": {
+                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
+              },
+              "slug": {
+                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
+                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -59409,6 +59544,21 @@
                 "en": "card-brands-incorrectly-processed-as-visa",
                 "es": "marcas-de-tarjetas-procesadas-incorrectamente-como-visa",
                 "pt": "marcas-de-cartao-processadas-incorretamente-como-visa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Card Security Code Null After Switching Payment Methods in Checkout",
+                "es": "El código de seguridad de la tarjeta aparece como «Nulo» tras cambiar de método de pago durante el proceso de pago",
+                "pt": "Código de segurança do cartão nulo após a alteração do método de pagamento na finalização da compra"
+              },
+              "slug": {
+                "en": "card-security-code-null-after-switching-payment-methods-in-checkout",
+                "es": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+                "pt": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -60691,21 +60841,6 @@
             },
             {
               "name": {
-                "en": "Invalid fields: Card security code. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issues inserting values in loyalty gift card at checkout",
                 "es": "Problemas al introducir valores en la tarjeta regalo de fidelidad al finalizar la compra",
                 "pt": "Problemas ao inserir valores no cartão-presente de fidelidade durante o checkout"
@@ -61149,6 +61284,21 @@
                 "en": "nps-we-arent-accepting-response-with-more-than-65536-characters",
                 "es": "nps-no-aceptamos-respuestas-con-mas-de-65-536-caracteres",
                 "pt": "nps-nao-aceitamos-respostas-com-mais-de-65536-caracteres"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "NULL payment when converting Payment Rules during the transaction creation process",
+                "es": "Pago «NULL» al convertir las reglas de pago durante el proceso de creación de la transacción",
+                "pt": "Pagamento NULL ao converter regras de pagamento durante o processo de criação da transação"
+              },
+              "slug": {
+                "en": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+                "es": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+                "pt": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao"
               },
               "origin": "",
               "type": "markdown",
