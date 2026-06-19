@@ -44,7 +44,7 @@ You can enable one or more options in each group. Disabled options are unavailab
 
 ## Configuring authentication methods in the organization account
 
-To configure authentication methods directly from the [organization account home screen](https://help.vtex.com/docs/tutorials/organization-account#accessing-the-organization-account), follow the steps below:
+To configure authentication methods directly from the [organization account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), follow the steps below:
 
 1. Go to the store using a browser and log in with your user account.
 2. In the top menu, click **Company**. The organization dashboard will be displayed.
