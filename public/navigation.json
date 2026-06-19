@@ -27595,13 +27595,13 @@
                 {
                   "name": {
                     "en": "Contingency Mode",
-                    "pt": "Contigency Mode",
-                    "es": "Contingency Mode"
+                    "es": "Contigency Mode",
+                    "pt": "Contigency Mode"
                   },
                   "slug": {
                     "en": "mode-off-faq",
-                    "pt": "mode-off-faq",
-                    "es": ""
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
