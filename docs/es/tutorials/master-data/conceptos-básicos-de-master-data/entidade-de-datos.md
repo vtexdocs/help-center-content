@@ -23,6 +23,8 @@ Para ilustrarlo, imaginemos un sistema de control de bibliotecas. Este sistema c
 
 Estos conceptos permiten configurar los más diversos escenarios de control de datos en Master Data. De forma predeterminada, se ingresan las siguientes entidades de datos: Cliente, Dirección, Tiendas, etc. Puedes crear todas las entidades de datos que desees para personalizar el entorno de acuerdo con las necesidades de cada tienda.
 
+> ℹ️ Las entidades de datos creadas por tu operación se consideran entidades personalizadas y están sujetas a una facturación mensual. Más información en [Entidades de datos personalizadas](/es/docs/tutorials/master-data).
+
 > ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](/es/docs/tutorials/master-data#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
 ## Tipos de datos

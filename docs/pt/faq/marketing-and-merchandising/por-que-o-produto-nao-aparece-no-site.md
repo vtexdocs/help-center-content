@@ -244,8 +244,8 @@ Siga os passos abaixo para verificar o template que a sua página está utilizan
 
 Nos arquivos do [tema da sua loja](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-6-buildingyourownstoretheme) desenvolvida em VTEX IO, é necessário verificar os itens a seguir:
 
-* Conferir se a página de produto (`product.jsonc`) está declarada com todos os blocos necessários para o seu funcionamento correto – [`product-images`](https://developers.vtex.com/docs/vtex-store-components-productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/vtex-product-price#product-price), [`product-name`](https://developers.vtex.com/docs/vtex-store-components-productname) e [`buy-button`](https://developers.vtex.com/docs/vtex-store-components-buybutton) – conforme descrito em [Página de produto](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-pt). 
-* Conferir se o app de [Search Result](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-result) e seu bloco `search-result-layout` estão devidamente declarados no código do template, conforme a documentação do Search Result indica.
+* Conferir se a página de produto (`product.jsonc`) está declarada com todos os blocos necessários para o seu funcionamento correto – [`product-images`](https://developers.vtex.com/docs/apps/vtex.store-components/productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/apps/vtex.product-price), [`product-name`](https://developers.vtex.com/docs/apps/vtex.store-components/productname) e [`buy-button`](https://developers.vtex.com/docs/apps/vtex.store-components/buybutton) – conforme descrito em [Página de produto](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-pt). 
+* Conferir se o app de [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result) e seu bloco `search-result-layout` estão devidamente declarados no código do template, conforme a documentação do Search Result indica.
 
 ## Saiba mais
 
