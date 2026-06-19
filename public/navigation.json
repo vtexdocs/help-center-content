@@ -17418,7 +17418,7 @@
                   },
                   "slug": {
                     "en": "placeholder-configure-authentication-methods-per-organizational-unit",
-                    "es": "placeholder-configurar-metodos-de-autenticacion-por-unidad-organizativa",
+                    "es": "configurar-metodos-de-autenticacion-por-unidad-organizativa",
                     "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional"
                   },
                   "origin": "",
@@ -59294,6 +59294,21 @@
             },
             {
               "name": {
+                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
+                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
+              },
+              "slug": {
+                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
+                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -59317,6 +59332,21 @@
                 "en": "card-brands-incorrectly-processed-as-visa",
                 "es": "marcas-de-tarjetas-procesadas-incorrectamente-como-visa",
                 "pt": "marcas-de-cartao-processadas-incorretamente-como-visa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Card Security Code Null After Switching Payment Methods in Checkout",
+                "es": "El código de seguridad de la tarjeta aparece como «Nulo» tras cambiar de método de pago durante el proceso de pago",
+                "pt": "Código de segurança do cartão nulo após a alteração do método de pagamento na finalização da compra"
+              },
+              "slug": {
+                "en": "card-security-code-null-after-switching-payment-methods-in-checkout",
+                "es": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+                "pt": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -60592,21 +60622,6 @@
                 "en": "installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout",
                 "es": "los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago",
                 "pt": "as-parcelas-que-usam-credito-do-cliente-nao-sao-exibidas-como-uma-opcao-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Invalid fields: Card security code. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
               },
               "origin": "",
               "type": "markdown",
