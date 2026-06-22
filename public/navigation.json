@@ -38740,6 +38740,37 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Retail media",
+            "es": "Retail media",
+            "pt": "Retail media"
+          },
+          "slug": {
+            "en": "retail-media",
+            "es": "retail-media",
+            "pt": "retail-media"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Campaign strategies",
+                "es": "Estrategias de campaña",
+                "pt": "Estratégias de campanha"
+              },
+              "slug": {
+                "en": "campaign-strategies",
+                "es": "estrategias-de-campana",
+                "pt": "estrategias-de-campanha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -60205,6 +60236,21 @@
                 "en": "error-when-install-customer-credit-app",
                 "es": "error-al-instalar-la-aplicacion-de-credito-al-cliente",
                 "pt": "erro-ao-instalar-a-aplicacao-de-credito-ao-cliente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Error when processing the second refund or cancellation with the same value as the first",
+                "es": "Se ha producido un error al procesar el segundo reembolso o la segunda cancelación con el mismo importe que el primero",
+                "pt": "Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro"
+              },
+              "slug": {
+                "en": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
+                "es": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+                "pt": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro"
               },
               "origin": "",
               "type": "markdown",
