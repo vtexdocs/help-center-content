@@ -37127,6 +37127,21 @@
             },
             {
               "name": {
+                "en": "Extensibility in VTEX Sales App",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "extensibility-in-vtex-sales-app",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37180,21 +37195,6 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "VTEX Sales App Extensibility",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "vtex-sales-app-extensibility",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
