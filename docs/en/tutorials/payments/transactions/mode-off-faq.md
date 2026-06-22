@@ -72,7 +72,7 @@ This behavior helps avoid new calls to an unstable connector while the provider 
 The following diagram shows the activation and recovery cycle of **Contingency Mode** for new authorizations:
 
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': false, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 500, 'padding': 14}}}%%
 flowchart LR
     A["New authorization<br/>attempt"] --> B["VTEX starts the<br/>authorization process"]
     B --> C{"Is connector<br/>in Contingency Mode?"}
@@ -82,9 +82,9 @@ flowchart LR
     F -- "No" --> G["Normal<br/>authorization flow"]
     F -- "Yes" --> H["Qualifying error<br/>is accumulated"]
     H --> I{"5 qualifying errors<br/>in the last 5 minutes?"}
-    I -- "Yes" --> J["Contingency Mode is<br/>activated for about<br/>5 minutes"]
-    J --> K["New eligible authorizations<br/>stop being sent<br/>to the connector"]
-    K --> L["After about 5 minutes,<br/>Contingency Mode<br/>is deactivated"]
+    I -- "Yes" --> J["Contingency Mode is activated<br/>for about 5 minutes"]
+    J --> K["New eligible authorizations<br/>stop being sent to the connector"]
+    K --> L["After about 5 minutes,<br/>Contingency Mode is deactivated"]
     L --> M["New authorizations are<br/>evaluated normally again"]
 ```
 
@@ -126,16 +126,16 @@ These transactions follow an independent retry flow based on:
 The following diagram shows the behavior of scheduled authorizations:
 
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': false, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 500, 'padding': 14}}}%%
 flowchart LR
-    A["Authorization arrives<br/>while the connector<br/>is in Contingency Mode"] --> B["VTEX doesn't call the connector"]
+    A["Authorization arrives while the<br/>connector is in Contingency Mode"] --> B["VTEX doesn't call the connector"]
     B --> C["Payment is sent<br/>to a reprocessing queue"]
     C --> D["Payment remains as<br/>scheduled authorization"]
     D --> E["VTEX automatically makes<br/>a new authorization attempt"]
     E --> F["VTEX restarts the<br/>authorization process"]
-    F --> G{"Is the connector in<br/>Contingency Mode at<br/>the time of retry?"}
+    F --> G{"Is the connector in Contingency<br/>Mode at the time of retry?"}
     G -- "Yes" --> C
-    G -- "No" --> H["Payment proceeds to<br/>the normal authorization<br/>flow"]
+    G -- "No" --> H["Payment proceeds to the<br/>normal authorization flow"]
 ```
 
 The recovery period of **Contingency Mode** and the retry interval for transactions are independent processes, so:
