@@ -3,6 +3,7 @@ errorDocs.json
 .env
 netlify.toml
 file-migration-plan.md
+tutorials-information-architecture-review/
 .vscode/settings.json
 local_playground/
 temp/
