@@ -64,7 +64,7 @@ As a native solution, Extensibility avoids unexpected behavior and keeps store o
 The following table shows how merchants benefit from Extensibility:
 
 | Context | Description |
-| :- | :- |
+| :--- | :--- |
 | Integration with external services or data | Integration with loyalty programs, the sale of additional services (such as warranties or insurance), the application of discounts in exchange for products, internal commissions or financing, among others. In general, these are integrations with external data and services already used in ecommerce or physical stores. |
 | Integration with VTEX data | Integration with VTEX solutions that aren't part of the standard Sales App journey, such as the marketplace ecosystem or some payment solutions. |
 | Centralization of representative's tasks | Centralizing representative's daily tasks, such as lead capturing and viewing store management data, in a single platform to increase speed and efficiency. |
