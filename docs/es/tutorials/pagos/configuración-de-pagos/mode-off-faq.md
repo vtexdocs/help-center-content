@@ -1,9 +1,9 @@
 ---
-title: 'Mode-Off: FAQ'
+title: 'Contigency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2024-04-11T19:26:47.407Z
+updatedAt: 2026-06-22T00:00:00.000Z
 publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
@@ -15,67 +15,196 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Mode-off es una funcionalidad del [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol) - protocolo de integración para pagos de VTEX.
+**Contingency Mode** (antes conocido como **Mode-off**) es una funcionalidad de resiliencia de VTEX Payments que ayuda a proteger transacciones elegibles durante inestabilidades temporales en proveedores de pago.
 
-Esta funcionalidad permite que VTEX controle la salud y la estabilidad de sus partners de pagos, garantizando que no se cancelen pedidos debido a inestabilidades. 
+Este artículo explica:
 
-Dicho esto, mode-off funciona de la siguiente manera: cuando VTEX identifica algún tipo de error consecutivo en las integraciones de los partners de pagos, el status mode-off se activa para retener las transacciones de las tarjetas de crédito. 
+- [Cómo funciona **Contingency Mode**](#como-funciona-contingency-mode)
+- [El impacto en las transacciones](#impacto-en-las-transacciones)
+- [Qué medios y flujos de pago pueden verse afectados](#medios-de-pago-afectados)
+- [Cómo funcionan la recuperación del conector y los reintentos](#recuperacion-y-comportamiento-de-los-intentos)
+- [Cómo identificar **Contingency Mode**](#como-identificar-contingency-mode)
+- [Qué hacer cuando **Contingency Mode** está activo](#que-hacer-cuando-contingency-mode-esta-activo)
+- [Orientaciones para proveedores de pago](#orientaciones-para-proveedores-de-pago)
 
-Una vez que la integración o el partner vuelva a estabilizarse, el status mode-off se desactiva y nuestro sistema comienza a realizar reintentos de procesamiento para las transacciones que han sido retenidas.
+> ℹ️ Los comerciantes no necesitan configurar ni activar **Contingency Mode** manualmente. VTEX gestiona automáticamente la activación, la recuperación y los intentos de las transacciones.
 
-En este artículo, hemos recogido las principales dudas sobre el funcionamiento de mode-off.
+## Cómo funciona Contingency Mode
 
-Consulte las siguientes preguntas.
+**Contingency Mode** es un mecanismo de protección automática para conectores de pago. Cuando VTEX identifica fallas técnicas recurrentes en un conector, el sistema activa este modo para reducir el impacto de la inestabilidad en el procesamiento de pagos.
 
-## ¿Todos los partners tienen esta funcionalidad habilitada?
+Durante este periodo:
 
-Sí, todos los partners de pagos de VTEX tienen mode-off habilitado.
+- Nuevas autorizaciones elegibles dejan de enviarse temporalmente al proveedor.
+- Nuevas transacciones elegibles pueden posponerse para procesamiento posterior.
+- Las transacciones ya pospuestas siguen un flujo independiente de intentos programados.
 
-## ¿Para cuáles medios de pago funciona mode-off?
+Esta protección se aplica al conector afectado, no a la tienda en su conjunto. Otros proveedores de pago o medios de pago que no se vieron afectados por la inestabilidad pueden seguir operando con normalidad.
 
-Solo para los medios de pago que puedan ser procesados de forma asíncrona; es decir, tarjetas de crédito.
+El ciclo de activación y recuperación de **Contingency Mode** es independiente del ciclo de intentos de las transacciones pospuestas. Esto significa que un conector puede haber salido de **Contingency Mode** mientras ciertas transacciones aún esperan la siguiente ventana de intento configurada.
 
-## ¿Mode-off funciona para medios de pago como: boleto bancario, código QR o redireccionamiento?
+### Activación
 
-No, estos medios de pago requieren una respuesta en línea y no pueden ser procesados de forma asíncrona.
+**Contingency Mode** se activa cuando VTEX detecta 5 errores técnicos calificables en 5 minutos para el mismo conector.
 
-Por lo tanto, para estos medios de pago, las transacciones no serán reprocesadas.
+Los errores técnicos calificables pueden incluir:
 
-## ¿Cuál es la regla actual para activar mode-off?
+- Se agotó el tiempo de espera de la solicitud.
+- Fallas de conexión.
+- Solicitudes canceladas por inestabilidad técnica.
+- Respuestas HTTP `408` de tiempo de espera agotado.
+- Errores HTTP `5xx` del proveedor, como `500`, `502`, `503` o `504`.
 
-Mode-off se activa cuando el partner o la integración presentan una inestabilidad que se identifica a partir de la respuesta de mensajes de error del tipo 500, 408 o timeout superior a 30 segundos en los últimos cinco minutos. Esta regla es válida para todos los medios de pago que mode-off procesa.
+> ℹ️ Los resultados esperados del proceso de autorización no activan **Contingency Mode**. Por ejemplo, el saldo insuficiente, tarjeta no válida, tarjeta vencida y pago no autorizado forman parte del flujo normal de autorización y no se consideran inestabilidad del conector.
 
-> ⚠️ Cabe recordar que los medios de pago sincrónos **no** se pueden volver a procesar. Sin embargo, entran en el recuento de errores para identificar si un partner es inestable o no.
+### Ciclo de Contingency Mode
 
-## ¿Cuál es la regla para desactivar mode-off?
+Cuando **Contingency Mode** está activo:
 
-Las transacciones se liberarán normalmente cuando el partner deje de presentar la misma tasa de cinco errores en los últimos cinco minutos. 
+- VTEX marca el conector afectado como temporalmente no disponible.
+- Las nuevas solicitudes de autorización elegibles no se envían al proveedor.
+- Las nuevas transacciones elegibles pueden posponerse para un intento posterior.
+- El conector permanece temporalmente no disponible hasta que finaliza el periodo automático de recuperación.
+- Los retailers pueden ver una indicación de **Contingency Mode** en los detalles de la transacción o en los logs de pago.
 
-## ¿Por cuánto tiempo VTEX intenta procesar de nuevo las transacciones retenidas?
+Este comportamiento ayuda a evitar nuevas llamadas a un conector inestable mientras el proveedor se recupera.
 
-El partner puede definir el tiempo entre los reintentos de procesamiento de transacciones (_retries_) al enviar la información de pago. Al configurar el tiempo de cancelación de pago (campo delayToCancel) por un período inferior a 1 día, los reintentos se realizarán cada 1 hora. Si el tiempo para cancelar el pago se establece como igual o mayor a 1 día, los reintentos se realizarán cada 4 horas. Para obtener más información, visite [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
+El siguiente diagrama muestra el ciclo de activación y recuperación de Contingency Mode para nuevas autorizaciones:
 
-> ℹ️ Si el pago se realiza mediante [PIX (Método de pago instantáneo brasileño)](/es/docs/tutorials/configurar-pix-como-medio-de-pago) o el tiempo de cancelación de pago se configura entre 5 minutos y 1 hora, los reintentos se realizarán cada 5 minutos.
+```mermaid
+flowchart LR
+    A["Nuevo intento\nde autorización"] --> B["VTEX inicia el proceso\nde autorización"]
+    B --> C{"¿Conector en\nContingency Mode?"}
+    C -- "Sí" --> D["Se envía al flujo\nde autorización programada"]
+    C -- "No" --> E["VTEX envía el pago\nal conector"]
+    E --> F{"¿El conector devolvió\nun error calificable?"}
+    F -- "No" --> G["Flujo normal\nde autorización"]
+    F -- "Sí" --> H["El error calificable\nse acumula"]
+    H --> I{"¿5 errores calificables\nen los últimos 5 minutos?"}
+    I -- "Sí" --> J["Se activa \nContingency Mode durante \nunos 5 minutos"]
+    J --> K["Nuevas autorizaciones \nelegibles dejan de \nenviarse al conector"]
+    K --> L["Tras unos 5 minutos,\nse desactiva \n Contingency Mode"]
+    L --> M["Nuevas autorizaciones vuelven\na evaluarse\ncon normalidad"]
+```
 
-## ¿Cómo identificar mode-off y qué hacer cuando esté activo?
+## Impacto en las transacciones
 
-El partner de pagos empieza a ver una tasa de errores alta y una reducción en el volumen de pagos con tarjeta. 
+**Contingency Mode** no cancela pedidos. Las transacciones afectadas por **Contingency Mode** pueden posponerse para un intento automático posterior.
 
-En ese momento, es importante trabajar para corregir la inestabilidad y asegurar a los clientes que los pagos se procesarán tan pronto como el sistema recupere su estabilidad.
+> ℹ️ **Contingency Mode** no sustituye las reglas normales de vencimiento y cancelación del pago. Si el pago no puede autorizarse antes del plazo aplicable, se puede cancelar el pedido según el flujo normal del pedido.
 
-## ¿Cómo el administrador de la tienda identifica este comportamiento de inestabilidad y qué debe hacer?
+Los clientes pueden ver el pago como en procesamiento o pendiente mientras VTEX espera el siguiente intento de la autorización.
 
-El administrador de la tienda verá varios pagos con tarjeta de crédito con el status de «pendiente», que no han sido procesados. 
+Se debe evitar pedirles a los clientes que realicen un nuevo pedido de inmediato, a menos que el pedido original ya se haya cancelado o que el medio de pago exija una nueva acción del cliente.
 
-El log de la transacción devolverá la *etiqueta* "mode-off".
+## Medios de pago afectados
 
-## Una vez que mode-off esté activado, ¿el administrador de la tienda necesita hacer algo?
+**Contingency Mode** se aplica a flujos de pago que pueden procesarse de forma asíncrona y volver a intentarse de forma segura tras una inestabilidad temporal en el proveedor.
 
-Del lado de VTEX no, solo tiene que esperar el reintento.
+Los medios o flujos de pago que requieren una respuesta online inmediata, redirección del cliente o una nueva acción del cliente pueden no posponerse ni intentarse de nuevo de la misma manera. En estos casos, la transacción sigue el comportamiento predeterminado de esos medios de pago.
 
-Si lo desea, el administrador de la tienda también puede ponerse en contacto con su partner de pagos para entender el escenario de inestabilidad.
+> ℹ️ Si no sabes si un medio de pago específico es elegible para **Contingency Mode**, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) o con tu proveedor de pago.
 
-## ¿Dónde puedo obtener más detalles técnicos sobre cómo funciona la funcionalidad Mode-off?
+## Recuperación y comportamiento de los intentos
 
-Para más información sobre cómo funciona mode-off, verifique nuestra documentación en el [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows#mode-off).
+La recuperación del conector es automática. Tras aproximadamente 5 minutos desde el último error calificable, VTEX remueve **Contingency Mode** del conector y nuevas autorizaciones elegibles pueden volver a enviarse con normalidad al proveedor.
 
+La salida de **Contingency Mode** solo afecta a los nuevos intentos de autorización. Las transacciones pospuestas previamente siguen su propio flujo de intento programado.
+
+### Intentos de transacciones pospuestas
+
+Las transacciones pospuestas durante **Contingency Mode** no necesariamente se intentan de nuevo inmediatamente después de la recuperación del conector.
+
+Estas transacciones siguen un flujo independiente de intento con base en:
+
+- Las reglas de reintento del medio de pago.
+- El tiempo de cancelación del pago (`delayToCancel`).
+- La información devuelta por el proveedor.
+- Otras condiciones operativas del flujo de pago.
+
+El siguiente diagrama muestra el comportamiento de las autorizaciones programadas:
+
+```mermaid
+flowchart LR
+    A[Llega la autorización \nmientras el conector \nestá en Contingency Mode] --> B[VTEX no llama al conector]
+    B --> C[El pago se envía \na una cola de \nreprocesamiento]
+    C --> D[El pago queda con \nautorización programada]
+    D --> E[VTEX realiza automáticamente un nuevo intento de autorización]
+    E --> F[VTEX inicia nuevamente \nel proceso de autorización]
+    F --> G{¿El conector está en \nContingency Mode en el \nmomento del intento?}
+    G -- Sí --> C
+    G -- No --> H[El pago sigue al \nflujo normal de \nautorización]
+```
+
+El periodo de recuperación de **Contingency Mode** y el intervalo de intento de las transacciones son procesos independientes. Esto significa que:
+
+- El conector puede salir de **Contingency Mode** tras aproximadamente 5 minutos.
+- Las transacciones pospuestas pueden seguir esperando la siguiente ventana de intento configurada para ese flujo de pago.
+
+Este comportamiento evita nuevas llamadas inmediatas a conectores que aún estén inestables y, al mismo tiempo, preserva las transacciones elegibles para su reprocesamiento automático posterior.
+
+El intervalo entre intentos puede variar según:
+
+- El medio de pago.
+- La información devuelta por el proveedor.
+- El tiempo de cancelación del pago (`delayToCancel`).
+- Las condiciones operativas del flujo de pago.
+
+Estos factores determinan el tiempo que todavía es posible reprocesar la transacción y el intervalo que debe respetarse entre un intento y otro. Por eso el tiempo hasta el siguiente intento no es fijo para todos los pagos y puede variar según la configuración y el contexto de cada transacción.
+
+En general:
+
+Cuando `delayToCancel` es menor que 1 día, los intentos generalmente ocurren cada 1 hora.
+Cuando `delayToCancel` es igual o mayor que 1 día, los intentos generalmente ocurren cada 4 horas.
+
+Para más información, consulta el endpoint [Create Payment].
+
+> ℹ️ Aunque los pagos vía [Pix (Brasil)](https://help.vtex.com/es/docs/tutorials/configurar-pix-como-medio-de-pago) no se vean afectados por **Contingency Mode**, es decir, que no hay bloqueo de transacciones realizadas por ese medio, hay otros problemas que pueden interrumpir el procesamiento del pago. En estos casos, cuando el campo `delayToCancel` está configurado entre 5 minutos y 1 hora, los intentos generalmente ocurren cada 5 minutos.
+
+> ⚠️ El tiempo de intentos puede variar según el medio de pago, la configuración de la cuenta y las condiciones operativas. VTEX gestiona este proceso automáticamente para que los intentos ocurran en el menor intervalo posible, reduciendo el tiempo de procesamiento de la cola de transacciones pendientes.
+
+## Cómo identificar Contingency Mode
+
+Los comerciantes pueden notar **Contingency Mode** cuando hay inestabilidad en un proveedor de pago que afecta a un conector específico.
+
+Los indicadores comunes incluyen:
+
+- Un número inusual de pagos con autorización o procesamiento pendiente para el mismo proveedor.
+- Registros de transacción que indican **Contingency Mode** en el conector afectado.
+- Una reducción temporal en el volumen de pagos aprobados para un medio de pago o proveedor específico.
+- Autorizaciones elegibles que se posponen para un intento posterior.
+
+Los proveedores de pago también pueden observar más indicadores de inestabilidad en la integración, tales como:
+
+- Eventos de tiempo de espera agotado.
+- Fallas de conexión.
+- Errores HTTP `5xx`.
+
+## Qué hacer cuando Contingency Mode está activo
+
+En la mayoría de los casos, no es necesaria ninguna acción por parte del retailer. VTEX protege automáticamente el flujo de transacciones, reactiva el conector cuando la inestabilidad disminuye y procesa las transacciones elegibles según las reglas automáticas de intento.
+
+Acciones recomendadas:
+
+1. Monitorea las transacciones afectadas en el Admin VTEX.
+2. Verifica si el problema se concentra en un proveedor o medio de pago específico.
+3. Ponte en contacto con el proveedor de pago si la inestabilidad persiste o si necesita investigar la integración.
+4. Ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) si las transacciones permanecen pendientes más tiempo del esperado o si los clientes reportan problemas de pago recurrentes.
+
+> ⚠️ Evita cancelar o recrear pedidos manualmente, a menos que haya una razón comercial clara para ello, como una solicitud del cliente, el vencimiento del pedido o la confirmación de que el pago no puede completarse.
+
+## Orientaciones para proveedores de pago
+
+Los proveedores de pago deben investigar y resolver la inestabilidad que causó las fallas técnicas recurrentes.
+
+Las verificaciones comunes incluyen:
+
+- Disponibilidad de los endpoints de autorización.
+- Tiempo de respuesta y comportamiento de tiempo de espera agotado.
+- Errores HTTP `5xx`.
+- Conectividad de la red.
+- Deploys recientes o cambios en la infraestructura.
+
+Cuando el proveedor se estabilice, VTEX automáticamente removerá **Contingency Mode** del conector y las nuevas autorizaciones elegibles podrán volver a enviarse con normalidad.
+
+> ℹ️ Las transacciones pospuestas previamente seguirán las reglas de intento configuradas.

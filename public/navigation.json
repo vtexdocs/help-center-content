@@ -27701,6 +27701,21 @@
                 },
                 {
                   "name": {
+                    "en": "Contingency Mode",
+                    "es": "Contigency Mode",
+                    "pt": "Contigency Mode"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating promotions for PSE payments",
                     "es": "Crear promoción para pagos con PSE",
                     "pt": "Criar promoção para pagamentos com o PSE"
@@ -27889,21 +27904,6 @@
                     "en": "list-of-payment-providers-by-country",
                     "es": "lista-de-proveedores-de-pago-por-pais",
                     "pt": "lista-de-provedores-de-pagamento-por-pais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Mode-Off: FAQ",
-                    "es": "Mode-Off: FAQ",
-                    "pt": "Mode-Off: FAQ"
-                  },
-                  "slug": {
-                    "en": "mode-off-faq",
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
