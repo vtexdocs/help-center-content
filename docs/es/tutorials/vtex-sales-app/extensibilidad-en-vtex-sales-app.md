@@ -63,11 +63,11 @@ Al ser una solución nativa, la extensibilidad evita comportamientos inesperados
 
 La siguiente tabla presenta ejemplos en los que el retailer se beneficia de la extensibilidad:
 
-| Contexto                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                                       |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Contexto | Descripción |
+| :--- | :--- |
 | Integración con servicios o datos externos | Integración con programas de fidelidad, venta de servicios adicionales (como garantías o seguros), aplicación de descuentos asociados a cambios de producto, comisión o financiamiento internos, entre otros. En general, son integraciones con datos y servicios externos que ya se utilizan en la tienda de ecommerce o en la tienda física. |
-| Integración con datos de VTEX              | Integración con soluciones de VTEX que no forman parte de la jornada predeterminada de VTEX Sales App, como el ecosistema de marketplace o algunas soluciones de pago.                                                                                                                                                                                                            |
-| Centralización de tareas de vendedores     | Centralización de las tareas cotidianas de los vendedores, como la captura de leads y la consulta de datos de gestión de la tienda, en una única plataforma para aumentar la agilidad y la eficiencia.                                                                                                                                                                            |
+| Integración con datos de VTEX | Integración con soluciones de VTEX que no forman parte de la jornada predeterminada de VTEX Sales App, como el ecosistema de marketplace o algunas soluciones de pago. |
+| Centralización de tareas de vendedores | Centralización de las tareas cotidianas de los vendedores, como la captura de leads y la consulta de datos de gestión de la tienda, en una única plataforma para aumentar la agilidad y la eficiencia. |
 
 ## Antes de empezar
 
