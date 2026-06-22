@@ -37,17 +37,17 @@ Cada punto de extensión permite la interacción de los usuarios con datos y fun
 
 - Carrito de compras (`cart.cart-item.after`, `cart.cart-list.after`) y checkout (`cart.order-summary.after`):
 
-  ![extensibilidad_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_1_cart_checkout_PT.png)
+  ![extensibilidad_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_1_cart_checkout_ES.png)
 
 - Página de detalles del producto (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
-  ![extensibilidad_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_4_pdp_PT.png)
+  ![extensibilidad_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_4_pdp_ES.png)
 
 - Menú (`menu.item`) y modal lateral (`menu.drawer-content`):
 
-  ![extensibilidad_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_2_menu_PT.png)
+  ![extensibilidad_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_2_menu_ES.png)
 
-  ![extensibilidad_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_3_drawer_PT.png)
+  ![extensibilidad_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_3_drawer_ES.png)
 
   > ℹ️ Cuando la persona usuaria hace clic en el componente de la extensión del menú, VTEX Sales App abre un modal a la izquierda de la interfaz. Este comportamiento permite crear múltiples flujos de navegación internos.
 
@@ -93,7 +93,7 @@ El segundo paso es mapear de forma detallada los flujos de la experiencia del us
 
 El tercer paso es validar la viabilidad técnica del proyecto. Para ello, el desarrollador debe verificar si los requisitos y las integraciones mapeados son compatibles con las especificaciones de los puntos de extensión, como se indica en la [documentación de extensibilidad para desarrolladores](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
-> ⚠️ Si se identifica la inexistencia de alguna función o configuración obligatoria, te recomendamos ponerte en contacto con nuestro [Soporte](https://support.vtex.com/hc/es-419), describiendo el caso de uso y las limitaciones encontradas.
+> ⚠️ Si se identifica la inexistencia de alguna función o configuración obligatoria, te recomendamos ponerte en contacto con nuestro [Soporte](https://help.vtex.com/es/support), describiendo el caso de uso y las limitaciones encontradas.
 
 ## Implementar el proyecto
 
