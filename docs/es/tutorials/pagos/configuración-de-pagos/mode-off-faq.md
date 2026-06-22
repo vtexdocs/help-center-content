@@ -3,7 +3,7 @@ title: 'Contigency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2026-05-25T00:00:00.000Z
+updatedAt: 2026-06-22T00:00:00.000Z
 publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
@@ -22,7 +22,7 @@ Este artículo explica:
 - [Cómo funciona **Contingency Mode**](#como-funciona-contingency-mode)
 - [El impacto en las transacciones](#impacto-en-las-transacciones)
 - [Qué medios y flujos de pago pueden verse afectados](#medios-de-pago-afectados)
-- [Cómo funcionan la recuperación del conector y los reintentos](#recuperacion-y-comportamiento-de-reintentos)
+- [Cómo funcionan la recuperación del conector y los reintentos](#recuperacion-y-comportamiento-de-los-intentos)
 - [Cómo identificar **Contingency Mode**](#como-identificar-contingency-mode)
 - [Qué hacer cuando **Contingency Mode** está activo](#que-hacer-cuando-contingency-mode-esta-activo)
 - [Orientaciones para proveedores de pago](#orientaciones-para-proveedores-de-pago)
