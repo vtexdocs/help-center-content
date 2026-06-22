@@ -72,7 +72,7 @@ Este comportamiento ayuda a evitar nuevas llamadas a un conector inestable mient
 El siguiente diagrama muestra el ciclo de activación y recuperación de **Contingency Mode** para nuevas autorizaciones:
 
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+%%{init: {'flowchart': {'htmlLabels': false, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
     A["Nuevo intento<br/>de autorización"] --> B["VTEX inicia el proceso<br/>de autorización"]
     B --> C{"¿Conector en<br/>Contingency Mode?"}
@@ -126,7 +126,7 @@ Estas transacciones siguen un flujo independiente de intento con base en:
 El siguiente diagrama muestra el comportamiento de las autorizaciones programadas:
 
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+%%{init: {'flowchart': {'htmlLabels': false, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
     A["Llega la autorización<br/>mientras el conector<br/>está en Contingency Mode"] --> B["VTEX no llama al conector"]
     B --> C["El pago se envía<br/>a una cola de<br/>reprocesamiento"]

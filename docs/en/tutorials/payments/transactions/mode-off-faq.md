@@ -72,7 +72,7 @@ This behavior helps avoid new calls to an unstable connector while the provider 
 The following diagram shows the activation and recovery cycle of **Contingency Mode** for new authorizations:
 
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+%%{init: {'flowchart': {'htmlLabels': false, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
     A["New authorization<br/>attempt"] --> B["VTEX starts the<br/>authorization process"]
     B --> C{"Is connector<br/>in Contingency Mode?"}
@@ -126,7 +126,7 @@ These transactions follow an independent retry flow based on:
 The following diagram shows the behavior of scheduled authorizations:
 
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+%%{init: {'flowchart': {'htmlLabels': false, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
     A["Authorization arrives<br/>while the connector<br/>is in Contingency Mode"] --> B["VTEX doesn't call the connector"]
     B --> C["Payment is sent<br/>to a reprocessing queue"]
