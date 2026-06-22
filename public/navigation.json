@@ -27701,21 +27701,6 @@
                 },
                 {
                   "name": {
-                    "en": "Contingency Mode",
-                    "es": "Contigency Mode",
-                    "pt": "Contigency Mode"
-                  },
-                  "slug": {
-                    "en": "mode-off-faq",
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Creating promotions for PSE payments",
                     "es": "Crear promoción para pagos con PSE",
                     "pt": "Criar promoção para pagamentos com o PSE"
@@ -31326,6 +31311,21 @@
                     "en": "checking-for-errors-or-problems-in-a-transaction",
                     "es": "comprobar-errores-o-problemas-en-una-transaccion",
                     "pt": "verificar-erros-ou-problemas-em-uma-transacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode",
+                    "es": "Contingency Mode",
+                    "pt": "Contingency Mode"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
