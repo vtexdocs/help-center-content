@@ -17383,6 +17383,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring authentication methods by organizational unit",
+                    "es": "Configurar métodos de autenticación por unidad organizativa",
+                    "pt": "Configurar métodos de autenticação por unidade organizacional"
+                  },
+                  "slug": {
+                    "en": "configuring-authentication-methods-by-organizational-unit",
+                    "es": "configurar-metodos-de-autenticacion-por-unidad-organizativa",
+                    "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contract settings",
                     "es": "Configuración del contrato",
                     "pt": "Configurações do contrato"
