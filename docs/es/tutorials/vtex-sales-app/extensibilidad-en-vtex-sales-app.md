@@ -4,11 +4,11 @@ createdAt: 2026-05-18T19:46:33.357Z
 updatedAt: 2026-05-18T19:46:33.357Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: vtex-sales-app-extensibility
+slugEN: extensibility-in-vtex-sales-app
 locale: es
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419).
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
 
 La **extensibilidad** es una funcionalidad que permite personalizar la jornada de ventas predeterminada en VTEX Sales App mediante la inclusión de recursos alineados con el modelo de negocio de la tienda. Esta funcionalidad permite integrar experiencias personalizadas en puntos específicos de la interfaz sin necesidad de crear una solución desde cero.
 
