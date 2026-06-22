@@ -37,17 +37,17 @@ Each extension point allows users to interact with specific data and functions, 
 
 - Shopping cart (`cart.cart-item.after`, `cart.cart-list.after`) and checkout (`cart.order-summary.after`):
 
-  ![Entrega agendada Fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_EN.png)
+  ![extensibilidade_vtex_sales_app_1_cart_checkout_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_EN.png)
 
 - Product details page (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
-  ![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_EN.png)
+  ![extensibilidade_vtex_sales_app_4_pdp_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_EN.png)
 
 - Menu (`menu.item`) and side modal (`menu.drawer-content`):
 
-  ![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_EN.png)
+  ![extensibilidade_vtex_sales_app_2_menu_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_EN.png)
 
-  ![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_EN.png)
+  ![extensibilidade_vtex_sales_app_3_drawer_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_EN.png)
 
   > ℹ️ When users click the menu extension component, Sales App opens a side modal on the left. This allows developers to create multiple internal navigation flows.
 
