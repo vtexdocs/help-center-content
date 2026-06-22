@@ -38,7 +38,7 @@ F --> G
 
 Logging in to B2B stores can occur via different authentication mechanisms. Depending on the store configuration and the user's organization, authentication may occur using username and password or via an external identity provider (IdP).
 
-> ℹ️ The authentication methods used by the organization are defined through an API configuration. Learn more in [Setting up authentication methods per organizational unit](#).
+> ℹ️ The authentication methods used by the organization are defined through an API configuration. Learn more in [Configuring authentication methods by organizational unit](https://help.vtex.com/en/docs/tutorials/configuring-authentication-methods-by-organizational-unit).
 
 In the login component, the buyer first enters their username. Based on this identifier, the VTEX platform determines the contract associated with the user and identifies the authentication method that should be used.
 
@@ -92,7 +92,7 @@ The authentication flow is as follows:
 
 > ℹ️ Identity providers are configured by the merchant. Learn more in [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide).
 >
-> The buyer organization must also enable login with the external identity provider in the buyer portal. Learn more in [Login to organization with an external identity provider](#).
+> The buyer organization must also enable login with the external identity provider in the buyer portal. Learn more in [Enable login for the organization via an external identity provider (IdP)](https://help.vtex.com/en/docs/tutorials/enable-login-for-the-organization-via-an-external-identity-provider-idp).
 
 The diagram below illustrates the authentication flow when an organization uses an external identity provider (IdP).
 
