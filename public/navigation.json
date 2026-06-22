@@ -61171,6 +61171,21 @@
             },
             {
               "name": {
+                "en": "NULL payment when converting Payment Rules during the transaction creation process",
+                "es": "Pago «NULL» al convertir las reglas de pago durante el proceso de creación de la transacción",
+                "pt": "Pagamento NULL ao converter regras de pagamento durante o processo de criação da transação"
+              },
+              "slug": {
+                "en": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+                "es": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+                "pt": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Operations cannot be performed correctly due to null documentType field.",
                 "es": "Las operaciones no se pueden realizar correctamente debido a que el campo «documentType» está vacío.",
                 "pt": "As operações não podem ser executadas corretamente devido ao campo `documentType` estar vazio."
@@ -62657,13 +62672,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
-                "pt": "As transações ficam presas em “Cancelando” e os pagamentos permanecem em “Autorizado”."
+                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
+                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
-                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado"
+                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
               },
               "origin": "",
               "type": "markdown",
