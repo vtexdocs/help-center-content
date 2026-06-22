@@ -3,7 +3,7 @@ title: 'Contingency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2026-05-25T00:00:00.000Z
+updatedAt: 2026-06-22T00:00:00.000Z
 publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
@@ -23,7 +23,7 @@ This article covers the following topics:
 - [The impact on transactions](#impact-on-transactions)
 - [Which payment methods and flows may be affected](#affected-payment-methods)
 - [Connector recovery and retry behavior](#recovery-and-retry-behavior)
-- [How to identify **Contingency Mode**](#how-to-identity-contingency-mode)
+- [How to identify **Contingency Mode**](#how-to-identify-contingency-mode)
 - [What to do when **Contingency Mode** is active](#what-to-do-when-contingency-mode-is-active)
 - [Guidance for payment providers](#guidance-for-payment-providers)
 
