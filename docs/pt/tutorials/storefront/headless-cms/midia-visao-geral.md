@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Mídia - Visão geral'
 id: 31fhjHTt4TBoo50AmGQ9b2
 status: PUBLISHED
@@ -22,7 +22,7 @@ O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia 
 
 ![Mídia Visão Geral](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/midia-visao-geral_1.png)
 
-Além disso, o Mídia está integrado ao **Site Editor** e ao **Headless CMS**, o que permite que ele seja acessado e gerenciado diretamente através de soluções de CMS da VTEX. 
+Além disso, o Mídia está integrado ao **Site Editor** e ao **Headless CMS (Legacy)**, o que permite que ele seja acessado e gerenciado diretamente através de soluções de CMS da VTEX. 
 
 Neste guia, aprenda a:
 
@@ -36,7 +36,7 @@ Há três maneiras de acessar o Mídia no Admin:
 
 - **Site Editor** (para lojas que usam o Store Framework): no VTEX Admin, acesse **Storefront > Site Editor**, escolha um bloco que contenha uma imagem (por exemplo, Carrossel), e clique em `Adicionar`.  Um painel do Mídia será aberto.
 
-- **Headless CMS**:  no VTEX Admin, acesse **Storefront > Headless CMS** e escolha uma das páginas criadas, por exemplo, uma Página de Produto. Nas seções disponíveis, selecione uma na qual você possa adicionar uma imagem, por exemplo, [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero). Clique no componente de imagem do Hero e um painel do Mídia será aberto.
+- **Headless CMS (Legacy)**:  no VTEX Admin, acesse **Storefront > Headless CMS (Legacy)** e escolha uma das páginas criadas, por exemplo, uma Página de Produto. Nas seções disponíveis, selecione uma na qual você possa adicionar uma imagem, por exemplo, [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero). Clique no componente de imagem do Hero e um painel do Mídia será aberto.
 
 > ⚠️ A seção disponível deve utilizar o [media-gallery](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms) para aproveitar o Mídia. Para projetos [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), as seções que utilizam o widget  *media-gallery* são [Navbar](https://developers.vtex.com/docs/guides/faststore/organisms-navbar) and [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero).
 
@@ -61,7 +61,7 @@ No Mídia, você pode fazer upload de imagens nos seguintes formatos: `png`, `jp
 
 1. Na página ou no painel **Mídia**, clique em `Adicionar novo(a)` e clique em `Imagem`.
 
-> ⚠️ No painel Mídia disponível no Headless CMS e no Site Editor, você pode arrastar e soltar imagens.
+> ⚠️ No painel Mídia disponível no Headless CMS (Legacy) e no Site Editor, você pode arrastar e soltar imagens.
 
 2. Escolha a imagem que deseja adicionar e clique em `Abrir`.
 
@@ -92,15 +92,15 @@ Além de imagens, no Mídia, você também pode armazenar vídeos e, em seguida,
 
 Com o vídeo adicionado, você pode escolher o que fazer com ele clicando no menu `⋮` na miniatura do vídeo:
 
-- **Copiar URL:** obtenha o endereço URL do vídeo para usar em sua loja por meio do Headless CMS.
+- **Copiar URL:** obtenha o endereço URL do vídeo para usar em sua loja por meio do Headless CMS (Legacy).
 - **Abrir vídeo:** veja uma prévia do vídeo em uma nova aba do navegador.
 - **Excluir:** exclua o vídeo da sua galeria.
 
-### Adicionar um vídeo ao conteúdo no Headless CMS
+### Adicionar um vídeo ao conteúdo no Headless CMS (Legacy)
 
-Integrar conteúdo multimídia, como vídeos, no Headless CMS pode melhorar a experiência do usuário em seu site. Siga os passos abaixo para adicionar vídeos à sua loja.
+Integrar conteúdo multimídia, como vídeos, no Headless CMS (Legacy) pode melhorar a experiência do usuário em seu site. Siga os passos abaixo para adicionar vídeos à sua loja.
 
-1. No VTEX Admin, acesse **Storefront > Headless CMS**.
+1. No VTEX Admin, acesse **Storefront > Headless CMS (Legacy)**.
 2. Selecione o [projeto](/pt/docs/tutorials/gerenciando-projetos) ao qual você deseja adicionar o vídeo.
 3. Escolha uma página para adicionar o vídeo, por exemplo, **Página inicial**.
 4. Com a **Página inicial** aberta, na aba **Seções**, adicione (`+`) uma seção que tenha o widget `media-gallery`, ex.: Hero.

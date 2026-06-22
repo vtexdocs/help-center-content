@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Upgrade your store to Google Analytics 4'
 id: 01mmrSck8nvXAKsypecT9V
 status: PUBLISHED
@@ -17,7 +17,7 @@ announcementSynopsisEN: 'upgrade-your-store-to-google-analytics-4'
 
 As of July 1, 2023, [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4) will replace Universal Analytics, the previous version of Google's data analytics tool. See details about the change in [this Google article](https://support.google.com/analytics/answer/11583528). 
 
-For stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io), to continue tracking browsing data in your VTEX store, you will need to create a GA4 property and adjust some settings in your store.
+For stores using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) or [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io), to continue tracking browsing data in your VTEX store, you will need to create a GA4 property and adjust some settings in your store.
 
 ## What has changed?
 Universal Analytics will stop processing events on July 1, 2023. Therefore, the only functional version of the tool will be Google Analytics 4.
@@ -28,7 +28,7 @@ Stores using VTEX IO - Store Framework also need to configure [the Google Tag Ma
 
 ## Why make this change?
 
-This change is necessary to ensure that VTEX stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io) remain compatible with Google Analytics 4, enabling them to gather relevant browsing data through the latest version of Google's analytics tool.
+This change is necessary to ensure that VTEX stores using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) or [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io) remain compatible with Google Analytics 4, enabling them to gather relevant browsing data through the latest version of Google's analytics tool.
 
 ## What needs to be done?
 
