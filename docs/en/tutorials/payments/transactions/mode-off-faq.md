@@ -69,22 +69,23 @@ When **Contingency Mode** is active:
 
 This behavior helps avoid new calls to an unstable connector while the provider recovers.
 
-The following diagram shows the activation and recovery cycle of Contingency Mode for new authorizations:
+The following diagram shows the activation and recovery cycle of **Contingency Mode** for new authorizations:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    A["New attempt\nof authorization"] --> B["VTEX starts the\nauthorization process"]
-    B --> C{"Is connector\nin Contingency Mode?"}
-    C -- "Yes" --> D["Sends to scheduled\nauthorization flow"]
-    C -- "No" --> E["VTEX sends the payment\nto the connector"]
-    E --> F{"Connector returned\nqualifying error?"}
-    F -- "No" --> G["Normal\nauthorization flow"]
-    F -- "Yes" --> H["Qualifying error\nis accumulated"]
-    H --> I{"5 qualifying errors\nin the last 5 minutes?"}
-    I -- "Yes" --> J["Contingency Mode is\nactivated for about\n5 minutes"]
-    J --> K["New eligible authorizations stop\nbeing sent to the connector"]
-    K --> L["After about 5 minutes,\nContingency Mode\nis deactivated"]
-    L --> M["New authorizations are\nevaluated normally again"]
+    A["New authorization<br/>attempt"] --> B["VTEX starts the<br/>authorization process"]
+    B --> C{"Is connector<br/>in Contingency Mode?"}
+    C -- "Yes" --> D["Sends to scheduled<br/>authorization flow"]
+    C -- "No" --> E["VTEX sends the payment<br/>to the connector"]
+    E --> F{"Connector returned<br/>qualifying error?"}
+    F -- "No" --> G["Normal<br/>authorization flow"]
+    F -- "Yes" --> H["Qualifying error<br/>is accumulated"]
+    H --> I{"5 qualifying errors<br/>in the last 5 minutes?"}
+    I -- "Yes" --> J["Contingency Mode is<br/>activated for about<br/>5 minutes"]
+    J --> K["New eligible authorizations<br/>stop being sent<br/>to the connector"]
+    K --> L["After about 5 minutes,<br/>Contingency Mode<br/>is deactivated"]
+    L --> M["New authorizations are<br/>evaluated normally again"]
 ```
 
 ## Impact on transactions
@@ -125,15 +126,16 @@ These transactions follow an independent retry flow based on:
 The following diagram shows the behavior of scheduled authorizations:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    A[Authorization arrives \nwhile the connector \nis in Contingency Mode] --> B[VTEX doesn't call the connector]
-    B --> C[Payment is sent \nto a reprocessing queue]
-    C --> D[Payment remains as \nscheduled authorization]
-    D --> E[VTEX automatically makes a new authorization attempt]
-    E --> F[VTEX restarts the \nauthorization process]
-    F --> G{Is the connector in \nContingency Mode at \nthe time of retry?}
-    G -- Yes --> C
-    G -- No --> H[Payment proceeds to \nthe normal authorization \nflow]
+    A["Authorization arrives<br/>while the connector<br/>is in Contingency Mode"] --> B["VTEX doesn't call the connector"]
+    B --> C["Payment is sent<br/>to a reprocessing queue"]
+    C --> D["Payment remains as<br/>scheduled authorization"]
+    D --> E["VTEX automatically makes<br/>a new authorization attempt"]
+    E --> F["VTEX restarts the<br/>authorization process"]
+    F --> G{"Is the connector in<br/>Contingency Mode at<br/>the time of retry?"}
+    G -- "Yes" --> C
+    G -- "No" --> H["Payment proceeds to<br/>the normal authorization<br/>flow"]
 ```
 
 The recovery period of **Contingency Mode** and the retry interval for transactions are independent processes, so:

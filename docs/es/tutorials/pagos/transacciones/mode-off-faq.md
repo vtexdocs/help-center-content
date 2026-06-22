@@ -1,5 +1,5 @@
 ---
-title: 'Contigency Mode'
+title: 'Contingency Mode'
 id: 6hbd7PuvoxuRbPCvTqjxeB
 status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
@@ -69,22 +69,23 @@ Cuando **Contingency Mode** está activo:
 
 Este comportamiento ayuda a evitar nuevas llamadas a un conector inestable mientras el proveedor se recupera.
 
-El siguiente diagrama muestra el ciclo de activación y recuperación de Contingency Mode para nuevas autorizaciones:
+El siguiente diagrama muestra el ciclo de activación y recuperación de **Contingency Mode** para nuevas autorizaciones:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    A["Nuevo intento\nde autorización"] --> B["VTEX inicia el proceso\nde autorización"]
-    B --> C{"¿Conector en\nContingency Mode?"}
-    C -- "Sí" --> D["Se envía al flujo\nde autorización programada"]
-    C -- "No" --> E["VTEX envía el pago\nal conector"]
-    E --> F{"¿El conector devolvió\nun error calificable?"}
-    F -- "No" --> G["Flujo normal\nde autorización"]
-    F -- "Sí" --> H["El error calificable\nse acumula"]
-    H --> I{"¿5 errores calificables\nen los últimos 5 minutos?"}
-    I -- "Sí" --> J["Se activa \nContingency Mode durante \nunos 5 minutos"]
-    J --> K["Nuevas autorizaciones \nelegibles dejan de \nenviarse al conector"]
-    K --> L["Tras unos 5 minutos,\nse desactiva \n Contingency Mode"]
-    L --> M["Nuevas autorizaciones vuelven\na evaluarse\ncon normalidad"]
+    A["Nuevo intento<br/>de autorización"] --> B["VTEX inicia el proceso<br/>de autorización"]
+    B --> C{"¿Conector en<br/>Contingency Mode?"}
+    C -- "Sí" --> D["Se envía al flujo<br/>de autorización programada"]
+    C -- "No" --> E["VTEX envía el pago<br/>al conector"]
+    E --> F{"¿El conector devolvió<br/>un error calificable?"}
+    F -- "No" --> G["Flujo normal<br/>de autorización"]
+    F -- "Sí" --> H["El error calificable<br/>se acumula"]
+    H --> I{"¿5 errores calificables<br/>en los últimos 5 minutos?"}
+    I -- "Sí" --> J["Se activa<br/>Contingency Mode durante<br/>unos 5 minutos"]
+    J --> K["Nuevas autorizaciones<br/>elegibles dejan de<br/>enviarse al conector"]
+    K --> L["Tras unos 5 minutos,<br/>se desactiva<br/>Contingency Mode"]
+    L --> M["Nuevas autorizaciones vuelven<br/>a evaluarse<br/>con normalidad"]
 ```
 
 ## Impacto en las transacciones
@@ -125,15 +126,16 @@ Estas transacciones siguen un flujo independiente de intento con base en:
 El siguiente diagrama muestra el comportamiento de las autorizaciones programadas:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    A[Llega la autorización \nmientras el conector \nestá en Contingency Mode] --> B[VTEX no llama al conector]
-    B --> C[El pago se envía \na una cola de \nreprocesamiento]
-    C --> D[El pago queda con \nautorización programada]
-    D --> E[VTEX realiza automáticamente un nuevo intento de autorización]
-    E --> F[VTEX inicia nuevamente \nel proceso de autorización]
-    F --> G{¿El conector está en \nContingency Mode en el \nmomento del intento?}
-    G -- Sí --> C
-    G -- No --> H[El pago sigue al \nflujo normal de \nautorización]
+    A["Llega la autorización<br/>mientras el conector<br/>está en Contingency Mode"] --> B["VTEX no llama al conector"]
+    B --> C["El pago se envía<br/>a una cola de<br/>reprocesamiento"]
+    C --> D["El pago queda con<br/>autorización programada"]
+    D --> E["VTEX realiza automáticamente<br/>un nuevo intento de autorización"]
+    E --> F["VTEX inicia nuevamente<br/>el proceso de autorización"]
+    F --> G{"¿El conector está en<br/>Contingency Mode en el<br/>momento del intento?"}
+    G -- "Sí" --> C
+    G -- "No" --> H["El pago sigue al<br/>flujo normal de<br/>autorización"]
 ```
 
 El periodo de recuperación de **Contingency Mode** y el intervalo de intento de las transacciones son procesos independientes. Esto significa que:
