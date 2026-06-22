@@ -17383,6 +17383,21 @@
                 },
                 {
                   "name": {
+                    "en": "Enable login for the organization via an external identity provider (IdP)",
+                    "es": "Activar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
+                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo"
+                  },
+                  "slug": {
+                    "en": "enable-login-for-the-organization-via-an-external-identity-provider-idp",
+                    "es": "activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
+                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Organization account",
                     "es": "Cuenta de la organización",
                     "pt": "Conta da Organização"
@@ -28196,6 +28211,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with actX",
+                    "es": "Configurar pago con actX",
+                    "pt": "Configurar pagamento com actX"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actx",
+                    "es": "configurar-pago-con-actx",
+                    "pt": "configurar-pagamento-com-actx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with actX-v2",
+                    "es": "Configurar pago con actX-v2",
+                    "pt": "Configurar pagamento com actX-v2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actxv2",
+                    "es": "configurar-pago-con-actxv2",
+                    "pt": "configurar-pagamento-com-actxv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with aCuotaz",
                     "es": "Configurar pago con aCuotaz",
                     "pt": "Configurar pagamento com aCuotaz"
@@ -28234,6 +28279,36 @@
                     "en": "setting-up-payments-with-aditum",
                     "es": "configurar-pago-con-aditum",
                     "pt": "configurar-pagamento-com-aditum"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with AdyenV2",
+                    "es": "Configurar pago con AdyenV2",
+                    "pt": "Configurar pagamento com AdyenV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-adyenv2",
+                    "es": "configurar-pago-con-adyenv2",
+                    "pt": "configurar-pagamento-com-adyenv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Affirm",
+                    "es": "Configurar pago con Affirm",
+                    "pt": "Configurar pagamento com Affirm"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-affirm",
+                    "es": "configurar-pago-con-affirm",
+                    "pt": "configurar-pagamento-com-affirm"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28324,6 +28399,21 @@
                     "en": "setting-up-payments-with-bamboo-payments",
                     "es": "configurar-pago-con-bamboo-payments",
                     "pt": "configurar-pagamento-com-bamboo-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Bancard",
+                    "es": "Configurar pago con Bancard",
+                    "pt": "Configurar pagamento com Bancard"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bancard",
+                    "es": "configurar-pago-con-bancard",
+                    "pt": "configurar-pagamento-com-bancard"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28504,6 +28594,21 @@
                     "en": "setting-up-payments-with-braintree-wallet",
                     "es": "configurar-pago-con-braintree-wallet",
                     "pt": "configurar-pagamento-com-braintree-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with BraspagV2",
+                    "es": "Configurar pago con BraspagV2",
+                    "pt": "Configurar pagamento com BraspagV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braspagv2",
+                    "es": "configurar-pago-con-braspagv2",
+                    "pt": "configurar-pagamento-com-braspagv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29074,6 +29179,21 @@
                     "en": "setting-up-payments-with-geru",
                     "es": "configurar-pago-con-geru",
                     "pt": "configurar-pagamento-com-geru"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Getnet Argentina",
+                    "es": "Configurar pago con Getnet Argentina",
+                    "pt": "Configurar pagamento com Getnet Argentina"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-getnet-argentina",
+                    "es": "configurar-pago-con-getnet-argentina",
+                    "pt": "configurar-pagamento-com-getnet-argentina"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29929,6 +30049,21 @@
                     "en": "setting-up-payments-with-picpay",
                     "es": "configurar-pago-con-picpay",
                     "pt": "configurar-pagamento-com-picpay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Pideky Escala",
+                    "es": "Configurar pago con Pideky Escala",
+                    "pt": "Configurar pagamento com Pideky Escala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pideky-escala",
+                    "es": "configurar-pago-con-pideky-escala",
+                    "pt": "configurar-pagamento-com-pideky-escala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36383,8 +36518,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
                   },
                   "slug": {
@@ -36398,8 +36533,8 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
                     "pt": "Introdução ao CX"
                   },
                   "slug": {
@@ -38536,6 +38671,37 @@
                     "en": "manage-vtex-cx-platform-members",
                     "es": "administrar-miembros-de-la-plataforma-vtex-cx",
                     "pt": "gerenciar-membros-do-vtex-cx-platform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics",
+                "es": "analytics",
+                "pt": "analytics"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Analytics: Criar dashboard personalizado",
+                    "en": "Analytics: Criar dashboard personalizado",
+                    "es": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "pt": "analytics-criar-dashboard-personalizado",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
