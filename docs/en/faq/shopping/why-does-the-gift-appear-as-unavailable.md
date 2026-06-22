@@ -3,7 +3,7 @@ title: 'Why does the gift appear as unavailable?'
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z
-updatedAt: 2019-12-31T14:24:16.980Z
+updatedAt: 2026-06-22T14:24:16.980Z
 publishedAt: 2019-12-31T14:24:16.980Z
 firstPublishedAt: 2017-11-06T13:58:18.517Z
 contentType: frequentlyAskedQuestion
@@ -15,8 +15,10 @@ legacySlug: why-does-the-gift-appear-as-unavailable
 ---
 
 To be shown in the store, every SKU needs to:
+
 - Have a price.
 - Have stock.
+- Have an image.
 - Be marked as an Active SKU.
 
 Even if you want to create an SKU that will be available to your customers merely as a gift, you need to enable it on the SKU registration page, in the Catalog. And you must also register a price and inventory for it.
