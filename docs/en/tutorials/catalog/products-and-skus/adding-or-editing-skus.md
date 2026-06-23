@@ -181,7 +181,7 @@ Define inventory aspects in the Catalog context:
 
 This section includes fields related to the store's sales strategies:
 
-* **Commercial condition:** Defines the promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445#).
+* **Commercial condition:** Defines the promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](https://help.vtex.com/docs/tutorials/registering-a-commercial-condition).
 * **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/docs/tutorials/how-shipping-calculation-works) to customers.
 * **Generate credit with gift card:** When enabled, indicates that the SKU is a gift list item.
 * **Loyalty amount**: Determines the credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases.
