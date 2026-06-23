@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New Master Data usage dashboard in VTEX Admin",
+                    "es": "Nuevo dashboard de uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "es": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "pt": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contingency Mode: New name for the Mode-off feature",
                     "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
                     "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
@@ -25776,6 +25791,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Check Master Data usage in the VTEX Admin",
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "en": "check-master-data-usage-in-vtex-admin",
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
