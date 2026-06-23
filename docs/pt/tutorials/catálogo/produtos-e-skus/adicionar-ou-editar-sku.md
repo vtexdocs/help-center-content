@@ -53,7 +53,7 @@ Além disso, uma vez que o SKU seja cadastrado, é possível torná-lo parte de 
 
 Veja nas seções a seguir os campos do formulário e as orientações sobre como preenchê-los.
 
-> ⚠️ Existe um limite de 50 SKUs por produto. Para solicitar que o limite seja ampliado, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+> ⚠️ Existe um limite de 50 SKUs por produto. Para solicitar que o limite seja ampliado, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
 
 ## Nome e status
 

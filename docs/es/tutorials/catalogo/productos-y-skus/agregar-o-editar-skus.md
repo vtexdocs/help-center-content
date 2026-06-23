@@ -53,7 +53,7 @@ Además, después de registrar el SKU puedes agregarlo a un [kit](/es/docs/tutor
 
 En las siguientes secciones se describen los campos del formulario, incluyendo detalles sobre cómo rellenarlos.
 
-> ⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
+> ⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
 
 ## Nombre y status
 
