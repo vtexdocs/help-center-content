@@ -25931,14 +25931,14 @@
             },
             {
               "name": {
-                "pt": "Consultar o uso do Master Data no Admin VTEX",
-                "en": "Consultar o uso do Master Data no Admin VTEX",
-                "es": "Consultar o uso do Master Data no Admin VTEX"
+                "en": "Check Master Data usage in the VTEX Admin",
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
               },
               "slug": {
-                "pt": "consultar-o-uso-do-master-data-no-admin-vtex",
-                "en": "",
-                "es": ""
+                "en": "check-master-data-usage-in-vtex-admin",
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
               },
               "origin": "",
               "type": "markdown",
