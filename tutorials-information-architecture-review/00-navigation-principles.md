@@ -1,6 +1,6 @@
 # Navigation Best Practices — Key Principles and References
 
-This document summarizes the evidence-based principles that underpin the VTEX Help Center IA design decisions. Each principle links to peer-reviewed research or widely adopted industry standards. Use this as a reference when discussing IA choices with colleagues or stakeholders.
+This document summarizes the evidence-based principles that underpin the VTEX Help Center IA design decisions. Each principle links to peer-reviewed research or widely adopted industry standards.
 
 ---
 
@@ -113,26 +113,3 @@ Front-matter fields (`title`, `excerpt`, `slugEN`, `productTeam`, `updatedAt`) f
 > - Firecrawl — [Best Chunking Strategies for RAG (and LLMs) in 2026](https://www.firecrawl.dev/blog/best-chunking-strategies-rag)
 > - LLM Best Practices — [RAG Chunking](https://llmbestpractices.com/ai-agents/rag-chunking)
 > - Atlan — [Chunking Strategies for RAG: Methods, Trade-offs & Best Practices](https://atlan.com/know/chunking-strategies-rag/)
-
----
-
-## Testing and Validation
-
-No IA should be implemented without validation. The two standard methods are:
-
-**Card sorting** — Participants organize topic names into groups that make sense to them, revealing their mental model of how content should be organized. Use open card sorting to discover categories; use closed card sorting to validate proposed category names. Results directly inform section label choices.
-
-**Tree testing** — Participants are given the proposed navigation structure (text only, no UI) and asked to find specific articles. Success rates reveal whether the IA hierarchy is working. Target >70% success rate on critical tasks; below 60% indicates the structure needs revision.
-
-> **Reference:** Nielsen Norman Group — [Low Findability and Discoverability: Four Testing Methods](https://www.nngroup.com/articles/navigation-ia-tests/)
-
----
-
-## Further Reading
-
-| Resource | Why it matters |
-|---|---|
-| [Nielsen Norman Group — IA and Navigation](https://www.nngroup.com/topic/ia-and-navigation/) | The most comprehensive publicly available UX research library on navigation |
-| [Rosenfeld, Morville & Arango — *Information Architecture for the Web and Beyond* (O'Reilly, 2015)](https://www.oreilly.com/library/view/information-architecture-4th/9781491913529/) | The definitive textbook for IA practitioners |
-| [Steve Krug — *Don't Make Me Think* (New Riders, 3rd ed., 2014)](https://sensible.com/dont-make-me-think/) | The most widely read book on web usability; covers navigation clarity in plain language |
-| [W3C WCAG — Consistent Navigation (Success Criterion 3.2.3)](https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation.html) | Accessibility requirement: navigation that appears on multiple pages must appear in the same order |
