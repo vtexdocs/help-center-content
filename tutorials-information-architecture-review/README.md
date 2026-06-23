@@ -6,6 +6,7 @@ This folder contains the complete IA review for all tutorials content across EN,
 
 | File | Contents |
 |---|---|
+| [`00-navigation-principles.md`](00-navigation-principles.md) | Concise reference of 10 evidence-based navigation principles with links to NN/g research, Diátaxis, and 2026 LLM/RAG guidance — use this to justify IA decisions to stakeholders |
 | [`01-benchmarks.md`](01-benchmarks.md) | Top 6 documentation portals with specific IA patterns to adopt from each, including one AI-first portal (Vercel Docs) |
 | [`02-level-definitions.md`](02-level-definitions.md) | Rules for each of the 3 hierarchy levels (label length, article count, ordering, anti-patterns) + LLM and AI retrieval requirements |
 | [`03-consolidation-map.md`](03-consolidation-map.md) | Full mapping of all 36 current sections → 15 proposed sections, with article counts and L2 group proposals |
