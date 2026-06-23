@@ -3,7 +3,7 @@ title: 'Adding or editing SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-30T22:21:13.931Z
+updatedAt: 2026-06-23T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -183,7 +183,7 @@ This section includes fields related to the store's sales strategies:
 
 * **Commercial condition:** Defines the promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445#).
 * **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/docs/tutorials/how-shipping-calculation-works) to customers.
-* **Generate credit with gift card:** When enabled, specifies that the sale of the SKU will generate a [gift card](/en/docs/tutorials/gift-card) credit to the customer.
+* **Generate credit with gift card:** When enabled, indicates that the SKU is a gift list item.
 * **Loyalty amount**: Determines the credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases.
 
 ## Customizations
