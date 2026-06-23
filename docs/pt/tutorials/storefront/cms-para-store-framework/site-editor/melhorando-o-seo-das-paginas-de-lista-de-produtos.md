@@ -21,7 +21,7 @@ As PLPs são correlacionadas, pois cada produto tem um link de volta para uma p�
 
 Para melhorar o desempenho de SEO das PLPs, você deve permitir que os rastreadores da web, como Google, percebam essa conexão entre as PLPs. Desse modo, esses rastreadores serão capazes de navegar em diferentes páginas e acessar os diferentes produtos que elas mostram.
 
-![Botão mostrar mais](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/melhorando-o-seo-das-paginas-de-lista-de-produtos_1.png)
+![Botão mostrar mais](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/melhorando-o-seo-das-paginas-de-lista-de-produtos_1.png)
 
 Veja na seção abaixo como melhorar o desempenho de SEO das PLPs [usando o Site Editor](#usando-site-editor).
 
@@ -40,7 +40,7 @@ Para melhorar o desempenho de SEO das PLPs via Site Editor, você deve configura
 4. Clique em __Mostrar mais.__
 5. Em __Comportamento do botão,__ selecione a opção __Link para a página - Melhora o SEO, pode mudar a aparência do botão.__
 
-![bt-config-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/melhorando-o-seo-das-paginas-de-lista-de-produtos_2.gif)
+![bt-config-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/site-editor/melhorando-o-seo-das-paginas-de-lista-de-produtos_2.gif)
 
 6. Clique em `SALVAR`.
 7. Para configurar o item __Mostrar anteriores,__ expanda o bloco __Resultado de busca flexível.__

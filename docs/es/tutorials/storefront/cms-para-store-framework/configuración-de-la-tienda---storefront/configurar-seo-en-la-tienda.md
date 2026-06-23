@@ -36,7 +36,7 @@ En todas las tiendas desarrolladas con Store Framework pueden configurarse estos
   - **Tag de metadescripción:** ingresa una descripción breve del contenido de la página. Debe ser informativa y contener palabras clave relevantes.
   - **Metatag robots:** define cómo los buscadores deben rastrear e indexar una página específica. Los valores predeterminados son `index, follow`. Para ver los otros valores compatibles con Google, consulta la [lista de reglas válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es-419#directives).
 
-  ![seo-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuración-de-la-tienda---storefront/configurar-seo-en-la-tienda_1.png)
+  ![seo-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/configuración-de-la-tienda---storefront/configurar-seo-en-la-tienda_1.png)
 
 ### Faviconos
 
@@ -44,7 +44,7 @@ En todas las tiendas desarrolladas con Store Framework pueden configurarse estos
 2. Haz clic en la pestaña **General**.
 3. Haz clic en **Agregar**.
 
-  ![favicon-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuración-de-la-tienda---storefront/configurar-seo-en-la-tienda_2.png)
+  ![favicon-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/configuración-de-la-tienda---storefront/configurar-seo-en-la-tienda_2.png)
 
 4. Se abrirá una nueva pantalla que debe llenarse según se describe a continuación:
 
@@ -55,7 +55,7 @@ En todas las tiendas desarrolladas con Store Framework pueden configurarse estos
 
    Consulta el siguiente ejemplo:
 
-    ![relacao-favicon-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuración-de-la-tienda---storefront/configurar-seo-en-la-tienda_3.png)
+    ![relacao-favicon-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/configuración-de-la-tienda---storefront/configurar-seo-en-la-tienda_3.png)
 
 5. Haz clic en **Aplicar** para que la configuración se refleje en tu tienda. Esto puede demorar unos minutos.
 

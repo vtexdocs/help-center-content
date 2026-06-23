@@ -24,7 +24,7 @@ This guide describes how to create a custom page in stores developed with [CMS P
 
 > ℹ️ Learn more in [What are templates?](https://help.vtex.com/docs/tutorials/what-are-templates)
 
-![new-layout-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/storefront/layout/new-layout-en.png)
+![new-layout-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/storefront/cms-portal-legacy/layout/new-layout-en.png)
 
 ### Create the custom page URL
 
@@ -44,7 +44,7 @@ Now, you need to create the custom page URL path:
    * **Authentication Required?:** Defines whether the page can be accessed only after user authentication. If this option is enabled, only authenticated users can access the page.
 7. Click `Save Folder` to save the new page.
 
-![new-folder-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/storefront/layout/new-folder-en.gif)
+![new-folder-en](https://cdn.jsdelivr.net/gh/vtexdocs/help-center-content@main/docs/en/tutorials/storefront/cms-portal-legacy/layout/new-folder-en.gif)
 
 ### Create the layout for the new page
 

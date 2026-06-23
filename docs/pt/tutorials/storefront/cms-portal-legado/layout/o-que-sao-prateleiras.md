@@ -23,7 +23,7 @@ Prateleiras são elementos configuráveis que exibem um agrupamento de produtos 
 
 As prateleiras são estruturadas a partir de código HTML, organizados em [templates](/pt/docs/tutorials/o-que-sao-templates)(arquivos que estruturam código) específicos, chamados de __Shelves Templates__. Eles estão localizados na pasta de **CMS**, no módulo [Layout](/pt/tracks/o-que-e-o-cms). É nessa pasta que você vai poder criar novos templates e editar os que já existem.
 
-![Shelves Templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-sao-prateleiras_1.png)
+![Shelves Templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-portal-legado/layout/o-que-sao-prateleiras_1.png)
 
 Por ser um elemento que pode ser utilizado em mais de uma página, esse tipo especial de template (Shelf Template) fica armazenado em pastas diferentes dos outros tipos (HTML Templates e Sub Templates). Assim, é possível manter a organização dos arquivos e, consequentemente, do código do seu web site.
 

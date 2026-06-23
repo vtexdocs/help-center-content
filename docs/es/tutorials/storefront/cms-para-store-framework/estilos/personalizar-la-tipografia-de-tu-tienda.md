@@ -32,7 +32,7 @@ El Admin ofrece la flexibilidad de personalizar la tipografía de tu tienda seg�
 
 5. En el campo **Familia de fuentes**, crea un nombre para la fuente.
 
-    ![familia-de-fontes-giff-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/estilos/personalizar-la-tipografia-de-tu-tienda_1.gif)
+    ![familia-de-fontes-giff-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/estilos/personalizar-la-tipografia-de-tu-tienda_1.gif)
 
 6. Haz clic en **Enviar** para cargar el archivo de la fuente deseada.
 
@@ -66,7 +66,7 @@ Sigue las instrucciones a continuación para agregar nuevas familias de fuentes:
 
 3. Haz clic en **Editar > Tipografía > Tokens de tipo**.
 
-    ![tokens-tipo-giff-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/estilos/personalizar-la-tipografia-de-tu-tienda_2.gif)
+    ![tokens-tipo-giff-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-para-store-framework/estilos/personalizar-la-tipografia-de-tu-tienda_2.gif)
 
 4. Haz clic en el token que deseas personalizar como, por ejemplo, **Heading 1** (Encabezado 1).
 
