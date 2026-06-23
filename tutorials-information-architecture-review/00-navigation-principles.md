@@ -1,6 +1,6 @@
 # Navigation Best Practices — Key Principles and References
 
-This document summarizes the evidence-based principles that underpin the VTEX Help Center IA design decisions. Each principle links to peer-reviewed research or widely adopted industry standards.
+This document summarizes the evidence-based principles that underpin the VTEX Help Center Information Architecture (IA) design decisions. Each principle links to peer-reviewed research or widely adopted industry standards.
 
 ---
 
