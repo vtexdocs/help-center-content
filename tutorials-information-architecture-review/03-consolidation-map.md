@@ -209,6 +209,8 @@ This document maps every existing top-level section (and their sub-categories) t
 **Article count:** 26 articles
 **Rationale for keeping as standalone:** 26 articles is sufficient for an independent section; merging with Storefront would make Storefront unwieldy.
 
+> **Cross-portal note:** The VTEX Developer Portal uses **"Search"** (not "Intelligent Search") as its section label, and the dev portal troubleshooting Area filter is also **"Search"**. If both portals share the same AI indexer, users may get results labeled "Intelligent Search" from the Help Center and "Search" from the Developer Portal for the same product. A decision on the canonical name across both portals is required — see `08-cross-portal-alignment.md` for the governing rule and rationale.
+
 **Proposed Level 2 groups (current sub-folders are good as-is):**
 1. **Overview** ← `intelligent-search-overview/` (4 articles) — hub
 2. **Search Behavior** ← `intelligent-search-behavior/` (6 articles)

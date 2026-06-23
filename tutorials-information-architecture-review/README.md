@@ -1,6 +1,6 @@
 # VTEX Help Center Tutorials — Information Architecture Review
 
-This folder contains the complete IA review for all tutorials content across EN, ES, and PT. The IA is designed to serve two audiences simultaneously: **human users** browsing the sidebar and **AI systems** (LLMs, semantic search, RAG pipelines) retrieving individual articles and H2-level chunks.
+This folder contains the complete IA review for all tutorials content across EN, ES, and PT. The IA is designed to serve two audiences simultaneously: **human users** browsing the sidebar and **AI systems** (LLMs, semantic search, RAG pipelines) retrieving individual articles and H2-level chunks. It also governs alignment with the [VTEX Developer Portal](https://developers.vtex.com), which shares the same AI indexing pipeline.
 
 ## Documents
 
@@ -13,6 +13,7 @@ This folder contains the complete IA review for all tutorials content across EN,
 | [`05-micro-sections-redistribution.md`](05-micro-sections-redistribution.md) | Article-by-article redistribution plan for `store-settings`, `dashboards`, `suggestions`, `other`, `about-the-admin`, `operational`, and `beta` |
 | [`06-metadata-audit.md`](06-metadata-audit.md) | Missing `metadata.json` files, duplicate order numbers, ordering issues, JSON specs for all new files, and AI retrieval metadata recommendations |
 | [`07-trilingual-sync.md`](07-trilingual-sync.md) | Complete EN/ES/PT folder name mapping for all current and proposed sections |
+| [`08-cross-portal-alignment.md`](08-cross-portal-alignment.md) | Governing rules for IA alignment between the Help Center and the Developer Portal: content type boundary, canonical section names, cross-portal link conventions, front-matter field alignment |
 
 ## Key Decisions
 

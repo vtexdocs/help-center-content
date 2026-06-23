@@ -467,6 +467,45 @@ When articles are moved from one section to another (as planned in `03-consolida
 2. If a slug must change (e.g., it contains the old section name), implement a **301 redirect** from the old slug to the new slug before the restructuring PR is merged
 3. Document all slug changes in a migration table (to be added to `07-trilingual-sync.md` as a follow-up)
 
+### 6c-2. Cross-portal field alignment: `excerpt` vs `description`
+
+The VTEX Developer Portal (`dev-portal-content`) uses an `excerpt` field in article front-matter as a one-sentence summary of the article's purpose. Example from `creating-a-regular-order-with-the-checkout-api.mdx`:
+
+```yaml
+excerpt: "Learn how to use VTEX APIs to efficiently handle the placement, payment, and delivery aspects of a regular order."
+```
+
+The Help Center front-matter currently has no equivalent field. Since both portals use the same AI indexer (identical GitHub Action pattern), this creates a retrieval asymmetry: dev portal articles have a ready-made summary chunk available for the indexer; Help Center articles do not.
+
+**Recommendation:** Add `excerpt` to the Help Center article front-matter template, matching the dev portal's field name exactly. Using the same field name ensures the shared indexer applies the same summary-chunk weighting logic to both portals.
+
+**Updated front-matter template for tutorial articles** (adds `excerpt`):
+```yaml
+---
+title: 'Configure payment methods in VTEX'
+id: unique-article-id
+status: PUBLISHED
+createdAt: '2024-01-15T10:00:00.000Z'
+updatedAt: '2025-06-01T14:00:00.000Z'
+publishedAt: '2024-01-15T12:00:00.000Z'
+contentType: tutorial
+productTeam: Financial
+slugEN: configure-payment-methods-in-vtex
+locale: en
+legacySlug: configure-payment-methods-in-vtex
+subcategory: payment-settings-subcategory
+excerpt: 'Learn how to add payment conditions, set up installment rules, and activate a payment connector in the VTEX Admin.'
+---
+```
+
+**`excerpt` rules:**
+- Max 160 characters (fits in search result snippets without truncation)
+- Must start with a verb: "Learn how to…", "Configure…", "Understand…"
+- Must state what the user will accomplish — not what the article contains
+- Required on all new articles; existing articles should be retrofitted during the restructuring phase
+
+---
+
 ### 6d. Heading path metadata for AI citations
 
 Modern RAG systems attach a `heading_path` to every retrieved chunk (e.g., `"Payments > Payment Settings > Configure payment conditions"`). This path:
