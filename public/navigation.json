@@ -25931,6 +25931,21 @@
             },
             {
               "name": {
+                "pt": "Consultar o uso do Master Data no Admin VTEX",
+                "en": "Consultar o uso do Master Data no Admin VTEX",
+                "es": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex",
+                "en": "",
+                "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "How to structure Master Data entities to store B2B sales data",
                 "es": "Cómo estructurar entidades del Master Data para guardar datos de ventas B2B",
                 "pt": "Como estruturar entidades do Master Data para armazenar dados de venda B2B"
