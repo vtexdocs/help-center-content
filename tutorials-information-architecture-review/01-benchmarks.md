@@ -1,6 +1,6 @@
 # Benchmark Portals — IA Patterns for VTEX Help Center Tutorials
 
-This document expands on the five benchmark portals identified in the IA plan, detailing the specific patterns VTEX should adopt from each.
+This document expands on the five benchmark portals identified in the Information Architecture (IA) plan, detailing the specific patterns VTEX should adopt from each.
 
 ---
 
