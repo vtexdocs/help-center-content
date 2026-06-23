@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-05-20T19:54:00.000Z
+updatedAt: 2026-06-23T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -292,6 +292,8 @@ A medição e a cobrança seguem um ciclo mensal:
 
 - Ao final de cada mês, é gerado um snapshot do volume de documentos armazenados em entidades não nativas.
 - Até o dia 30 de cada mês, a VTEX calcula os valores referentes ao uso do Master Data e os créditos aplicáveis para a próxima fatura.
+
+> ℹ️ Para monitorar o volume de documentos em entidades personalizadas ao longo do mês, consulte o dashboard **Master Data usage** no Admin VTEX. Este dashboard é atualizado semanalmente e destinado apenas ao acompanhamento do uso. Para saber como acessá-lo, veja [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex).
 
 > ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
 
