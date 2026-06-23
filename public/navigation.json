@@ -43212,6 +43212,21 @@
             },
             {
               "name": {
+                "en": "SKU Insert FIle API may generate duplicate images if it fails",
+                "es": "La API de inserción de archivos SKU puede generar imágenes duplicadas si falla.",
+                "pt": "A API de Inserção de Arquivos SKU pode gerar imagens duplicadas se falhar."
+              },
+              "slug": {
+                "en": "sku-insert-file-api-may-generate-duplicate-images-if-it-fails",
+                "es": "la-api-de-insercion-de-archivos-sku-puede-generar-imagenes-duplicadas-si-falla",
+                "pt": "a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "SKU Move Failure: Distributed Transaction Error",
                 "es": "Fallo de traslado de SKU: Error de transacción distribuida",
                 "pt": "Falha na movimentação da SKU: Erro de transação distribuída"
@@ -50508,12 +50523,12 @@
             {
               "name": {
                 "en": "Netshoes - Main Image not respected",
-                "es": "Imagen principal no respetada",
+                "es": "Netshoes - Imagen principal no respetada",
                 "pt": "Netshoes - Imagem principal não respeitada"
               },
               "slug": {
                 "en": "netshoes-main-image-not-respected",
-                "es": "imagen-principal-no-respetada",
+                "es": "netshoes-imagen-principal-no-respetada",
                 "pt": "netshoes-imagem-principal-nao-respeitada"
               },
               "origin": "",
@@ -50643,13 +50658,13 @@
             {
               "name": {
                 "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Shopee Sincronización de catálogo bloqueada por exceso de atributos de variación",
-                "pt": "Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação"
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
               },
               "slug": {
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
-                "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
               },
               "origin": "",
               "type": "markdown",
@@ -59506,21 +59521,6 @@
             },
             {
               "name": {
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -62792,13 +62792,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
-                "pt": "As transações ficam presas em “Cancelando” e os pagamentos permanecem em “Autorizado”."
+                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
+                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
-                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado"
+                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -68645,6 +68645,37 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
                 "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace out",
+            "es": "Marketplace out",
+            "pt": "Marketplace out"
+          },
+          "slug": {
+            "en": "marketplace-out",
+            "es": "marketplace-out",
+            "pt": "marketplace-out"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Magazine Luiza - Main Image not respected",
+                "es": "Magazine Luiza - Imagen principal no respetada",
+                "pt": "Magazine Luiza - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "magazine-luiza-main-image-not-respected",
+                "es": "magazine-luiza-imagen-principal-no-respetada",
+                "pt": "magazine-luiza-imagem-principal-nao-respeitada"
               },
               "origin": "",
               "type": "markdown",
