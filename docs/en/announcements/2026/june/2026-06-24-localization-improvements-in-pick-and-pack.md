@@ -10,9 +10,8 @@ slugEN: 2026-06-24-localization-improvements-in-pick-and-pack
 locale: en
 announcementSynopsisEN: 'Localization improvements in Pick and Pack with multilingual support for bilingual omnichannel operations.'
 tags:
+  - Improvement
   - Pick and Pack
-  - Fulfillment
-  - Location
 ---
 
 Pick and Pack now delivers a more consistent experience for omnichannel operations in bilingual regions, with enhanced language support in the application, Admin, and on printed labels.
