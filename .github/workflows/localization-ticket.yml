@@ -1,0 +1,483 @@
+# Localization Ticket Automation
+#
+# Creates a Jira ticket for the Localization team when a localization needed label is added
+# to an eligible PR. The ticket includes PR details and the PR description for
+# context. Parent task priority and due date are set from the label:
+#   - localization needed (high)   -> High,   Friday of the following week
+#   - localization needed (medium) -> Medium, one week after High
+#   - localization needed (low)    -> Low,    one week after Medium
+#
+# Requirements (all must be met for the workflow to run):
+#
+#   Changed files
+#     - PR includes changes under docs/pt/**/*.md, docs/pt/**/*.mdx, or
+#       localization/**
+#     - Changes include at least one addition (deletion-only PRs are skipped)
+#
+#   Trigger
+#     - One of these labels is added to the PR (re-add after new commits if the
+#       label was applied before pt/localization files changed):
+#         localization needed (high) | (medium) | (low)
+#     - PR targets the main branch
+#
+#   Exclusions
+#     - PRs including the "localization" label are skipped
+#     - PRs with a source branch starting with "l10n" are skipped (e.g. l10n_, l10n/, l10n-)
+#
+# Dedupe
+#   - If a Jira ticket already exists for the same PR URL, a new parent task
+#     is not created; missing subtasks are still attached
+#
+# After creating the parent task under the configured Education epic, the workflow
+# attaches the standard eight-step localization subtask chain in this order
+# (creation is sequential; rank is set afterward so Jira displays them the same way):
+#   1. Prepare file to be localized (blocks all subsequent tasks),
+#      due last Friday before parent due date (when that date is on or before
+#      creation day, use Monday of the following week instead).
+#   2. English translation (blocks subsequent English tasks),
+#      due last Tuesday before parent due
+#   3. English revision (blocks subsequent English tasks),
+#      due last Thursday before parent due
+#   4. English implementation, due the same day as parent due date.
+#   5. Spanish translation (blocks subsequent Spanish tasks),
+#      due last Tuesday before parent due.
+#   6. Spanish revision (blocks subsequent Spanish tasks),
+#      due last Thursday before parent due.
+#   7. Spanish implementation, due the same day as parent due date.
+#   8. Create PR (is blocked by all previous subtasks),
+#      due the same day as parent due date.
+#
+# Required GitHub Secrets (Settings > Secrets and variables > Actions):
+#
+#   LOC_JIRA_BASE_URL    - Jira instance URL
+#   LOC_JIRA_USER_EMAIL  - Atlassian account email (personal account is fine)
+#   LOC_JIRA_API_TOKEN   - API token for that account (https://id.atlassian.com)
+#   LOC_JIRA_PROJECT_KEY - Jira project key
+#   LOC_JIRA_EPIC_KEY    - Parent epic key for Help Center tasks (e.g. LOC-813)
+
+name: Create Localization Ticket
+
+on:
+  pull_request:
+    types: [labeled]
+    branches: [main]
+    paths:
+      - 'docs/pt/**/*.md'
+      - 'docs/pt/**/*.mdx'
+      - 'localization/**'
+
+jobs:
+  create-jira-ticket:
+    if: >
+      (github.event.label.name == 'localization needed (high)' ||
+       github.event.label.name == 'localization needed (medium)' ||
+       github.event.label.name == 'localization needed (low)') &&
+      !contains(github.event.pull_request.labels.*.name, 'localization') &&
+      !startsWith(github.event.pull_request.head.ref, 'l10n')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: Check for content additions
+        id: content_diff
+        run: |
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          INSERTIONS=$(git diff --numstat \
+            "$BASE_SHA" \
+            "$HEAD_SHA" \
+            -- docs/pt/ localization/ \
+            | awk '{sum += $1} END {print sum+0}')
+
+          if [ "$INSERTIONS" -gt 0 ]; then
+            echo "has_additions=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_additions=false" >> $GITHUB_OUTPUT
+          fi
+
+          CHANGED_FILES=$(git diff --name-only --diff-filter=ACMRD \
+            "$BASE_SHA" \
+            "$HEAD_SHA" \
+            | grep -E '\.(md|mdx)$' \
+            | sort || true)
+
+          {
+            echo "changed_files<<EOF"
+            echo "$CHANGED_FILES"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Resolve or create Jira ticket
+        id: parent_ticket
+        if: steps.content_diff.outputs.has_additions == 'true'
+        env:
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          LOC_JIRA_PROJECT_KEY: ${{ secrets.LOC_JIRA_PROJECT_KEY }}
+          LOC_JIRA_EPIC_KEY: ${{ secrets.LOC_JIRA_EPIC_KEY }}
+          CHANGED_FILES: ${{ steps.content_diff.outputs.changed_files }}
+        run: |
+          PR_NUMBER=$(jq -r '.pull_request.number' "$GITHUB_EVENT_PATH")
+          PR_TITLE=$(jq -r '.pull_request.title' "$GITHUB_EVENT_PATH")
+          PR_URL=$(jq -r '.pull_request.html_url' "$GITHUB_EVENT_PATH")
+          PR_AUTHOR=$(jq -r '.pull_request.user.login' "$GITHUB_EVENT_PATH")
+          PR_BODY_RAW=$(jq -r '.pull_request.body // "No description provided."' "$GITHUB_EVENT_PATH")
+          LABEL=$(jq -r '.label.name' "$GITHUB_EVENT_PATH")
+
+          case "$LABEL" in
+            "localization needed (high)")
+              JIRA_PRIORITY="High"
+              ;;
+            "localization needed (medium)")
+              JIRA_PRIORITY="Medium"
+              ;;
+            "localization needed (low)")
+              JIRA_PRIORITY="Low"
+              ;;
+            *)
+              echo "Unexpected label: ${LABEL}" >&2
+              exit 1
+              ;;
+          esac
+
+          case "$JIRA_PRIORITY" in
+            High)   EXTRA_WEEKS=0 ;;
+            Medium) EXTRA_WEEKS=1 ;;
+            Low)    EXTRA_WEEKS=2 ;;
+          esac
+
+          TODAY=$(date -u +%Y-%m-%d)
+          DOW=$(date -u +%u)
+          DAYS_TO_FOLLOWING_MONDAY=$(( (8 - DOW) % 7 ))
+          if [ "$DAYS_TO_FOLLOWING_MONDAY" -eq 0 ]; then
+            DAYS_TO_FOLLOWING_MONDAY=7
+          fi
+          DAYS_TO_DUE=$((DAYS_TO_FOLLOWING_MONDAY + 4 + EXTRA_WEEKS * 7))
+          JIRA_DUE_DATE=$(date -u -d "${TODAY} + ${DAYS_TO_DUE} days" +%Y-%m-%d)
+
+          EXISTING=$(curl -s \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            --get \
+            --data-urlencode "jql=project = ${LOC_JIRA_PROJECT_KEY} AND description ~ \"${PR_URL}\"" \
+            --data-urlencode "fields=key" \
+            --data-urlencode "maxResults=1" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/search")
+
+          EXISTING_KEY=$(echo "$EXISTING" | jq -r '.issues[0].key // empty')
+          if [ -n "$EXISTING_KEY" ]; then
+            EXISTING_DUE=$(curl -s \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${EXISTING_KEY}?fields=duedate" \
+              | jq -r '.fields.duedate // empty')
+            echo "parent_key=${EXISTING_KEY}" >> "$GITHUB_OUTPUT"
+            echo "parent_due_date=${EXISTING_DUE}" >> "$GITHUB_OUTPUT"
+            echo "Using existing ticket: ${LOC_JIRA_BASE_URL}/browse/${EXISTING_KEY}"
+            exit 0
+          fi
+
+          PR_BODY=$(echo "$PR_BODY_RAW" | sed \
+            -e 's/^#### /h4. /' \
+            -e 's/^### /h3. /' \
+            -e 's/^## /h2. /' \
+            -e 's/^# /h1. /' \
+            -e 's/^- /* /' \
+            -e 's/`\([^`]*\)`/{{\1}}/g' \
+            -e 's/!\[.*\](\([^)]*\))/!\1!/g' \
+            -e 's/<img[^>]*src="\([^"]*\)"[^>]*>/!\1!/g')
+
+          if [ -n "$CHANGED_FILES" ]; then
+            CHANGED_FILES_SECTION=$(printf '%s\n' "$CHANGED_FILES" | sed 's/^/* /')
+          else
+            CHANGED_FILES_SECTION="* No MD/MDX files changed"
+          fi
+
+          PAYLOAD=$(jq -n \
+            --arg project "$LOC_JIRA_PROJECT_KEY" \
+            --arg epic_key "$LOC_JIRA_EPIC_KEY" \
+            --arg pr_title "$PR_TITLE" \
+            --arg pr_number "$PR_NUMBER" \
+            --arg pr_url "$PR_URL" \
+            --arg pr_author "$PR_AUTHOR" \
+            --arg pr_body "$PR_BODY" \
+            --arg changed_files "$CHANGED_FILES_SECTION" \
+            --arg priority "$JIRA_PRIORITY" \
+            --arg duedate "$JIRA_DUE_DATE" \
+            '{
+              fields: {
+                project: { key: $project },
+                parent: { key: $epic_key },
+                summary: ("[HC] " + $pr_title),
+                description: (
+                  "h3. PR Details\n" +
+                  "||Field||Value||\n" +
+                  "|Author|" + $pr_author + "|\n" +
+                  "|PR|[#" + $pr_number + "|" + $pr_url + "]|\n\n" +
+                  "h3. Changed files\n\n" +
+                  $changed_files + "\n\n" +
+                  "h3. PR Description\n\n" +
+                  $pr_body
+                ),
+                issuetype: { name: "Task" },
+                priority: { name: $priority },
+                duedate: $duedate
+              }
+            }')
+
+          RESPONSE=$(curl -s -o response.json -w "%{http_code}" \
+            -X POST \
+            -H "Content-Type: application/json" \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            -d "$PAYLOAD" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/issue")
+
+          if [ "$RESPONSE" -eq 201 ]; then
+            TICKET=$(jq -r '.key' response.json)
+            echo "parent_key=${TICKET}" >> "$GITHUB_OUTPUT"
+            echo "parent_due_date=${JIRA_DUE_DATE}" >> "$GITHUB_OUTPUT"
+            echo "Ticket created: ${LOC_JIRA_BASE_URL}/browse/${TICKET} (epic: ${LOC_JIRA_EPIC_KEY}, priority: ${JIRA_PRIORITY}, due: ${JIRA_DUE_DATE})"
+          else
+            echo "Failed to create ticket (HTTP $RESPONSE)"
+            cat response.json
+            exit 1
+          fi
+
+      - name: Create localization subtasks
+        if: steps.content_diff.outputs.has_additions == 'true'
+        env:
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          LOC_JIRA_PROJECT_KEY: ${{ secrets.LOC_JIRA_PROJECT_KEY }}
+          PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+          PARENT_DUE_DATE: ${{ steps.parent_ticket.outputs.parent_due_date }}
+        run: |
+          if [ -z "$PARENT_DUE_DATE" ]; then
+            echo "Parent due date is missing; cannot set subtask due dates." >&2
+            exit 1
+          fi
+
+          TODAY=$(date -u +%Y-%m-%d)
+          DOW=$(date -u +%u)
+          DAYS_TO_FOLLOWING_MONDAY=$(( (8 - DOW) % 7 ))
+          if [ "$DAYS_TO_FOLLOWING_MONDAY" -eq 0 ]; then
+            DAYS_TO_FOLLOWING_MONDAY=7
+          fi
+          FOLLOWING_MONDAY=$(date -u -d "${TODAY} + ${DAYS_TO_FOLLOWING_MONDAY} days" +%Y-%m-%d)
+
+          last_weekday_before() {
+            local reference="$1"
+            local target_dow="$2"
+            local candidate
+            candidate=$(date -u -d "${reference} - 1 day" +%Y-%m-%d)
+            while [ "$(date -u -d "$candidate" +%u)" -ne "$target_dow" ]; do
+              candidate=$(date -u -d "${candidate} - 1 day" +%Y-%m-%d)
+            done
+            echo "$candidate"
+          }
+
+          subtask_due_date() {
+            local summary="$1"
+            local due
+
+            case "$summary" in
+              "Prepare file to be localized")
+                due=$(last_weekday_before "$PARENT_DUE_DATE" 5)
+                if [[ "$(date -u -d "$due" +%s)" -le "$(date -u -d "$TODAY" +%s)" ]]; then
+                  due="$FOLLOWING_MONDAY"
+                fi
+                ;;
+              "English translation"|"Spanish translation")
+                due=$(last_weekday_before "$PARENT_DUE_DATE" 2)
+                ;;
+              "English revision"|"Spanish revision")
+                due=$(last_weekday_before "$PARENT_DUE_DATE" 4)
+                ;;
+              *)
+                due="$PARENT_DUE_DATE"
+                ;;
+            esac
+
+            echo "$due"
+          }
+
+          SUBTASK_SUMMARIES=(
+            "Prepare file to be localized"
+            "English translation"
+            "English revision"
+            "English implementation"
+            "Spanish translation"
+            "Spanish revision"
+            "Spanish implementation"
+            "Create PR"
+          )
+
+          EXISTING=$(curl -s \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/search?jql=parent%3D${PARENT_KEY}&fields=summary&maxResults=50")
+
+          create_subtask() {
+            local summary="$1"
+            local duedate="$2"
+            local payload
+            payload=$(jq -n \
+              --arg project "$LOC_JIRA_PROJECT_KEY" \
+              --arg parent "$PARENT_KEY" \
+              --arg summary "$summary" \
+              --arg duedate "$duedate" \
+              '{
+                fields: {
+                  project: { key: $project },
+                  parent: { key: $parent },
+                  summary: $summary,
+                  issuetype: { name: "Subtask" },
+                  duedate: $duedate
+                }
+              }')
+
+            local response
+            response=$(curl -s -o subtask-response.json -w "%{http_code}" \
+              -X POST \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue")
+
+            if [ "$response" -eq 201 ]; then
+              jq -r '.key' subtask-response.json
+            else
+              echo "Failed to create subtask \"${summary}\" (HTTP ${response})" >&2
+              cat subtask-response.json >&2
+              exit 1
+            fi
+          }
+
+          rank_subtask_after() {
+            local key="$1"
+            local after_key="$2"
+            local payload
+            payload=$(jq -n \
+              --arg key "$key" \
+              --arg after "$after_key" \
+              '{issues: [$key], rankAfterIssue: $after}')
+
+            local response
+            response=$(curl -s -o rank-response.json -w "%{http_code}" \
+              -X PUT \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/agile/1.0/issue/rank")
+
+            if [ "$response" -ne 204 ]; then
+              echo "Failed to order subtask ${key} after ${after_key} (HTTP ${response})"
+              cat rank-response.json
+              exit 1
+            fi
+          }
+
+          block_link_exists() {
+            local blocker="$1"
+            local blocked="$2"
+            curl -s \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${blocked}?fields=issuelinks" \
+              | jq -e --arg blocker "$blocker" --arg blocked "$blocked" \
+                '.fields.issuelinks[]? |
+                  select(
+                    .type.name == "Blocks" and
+                    .inwardIssue.key == $blocker and
+                    .outwardIssue.key == $blocked
+                  )' >/dev/null
+          }
+
+          create_block_link() {
+            local blocker="$1"
+            local blocked="$2"
+
+            if block_link_exists "$blocker" "$blocked"; then
+              echo "Skipped existing block: ${blocker} blocks ${blocked}"
+              return 0
+            fi
+
+            local payload
+            payload=$(jq -n \
+              --arg blocker "$blocker" \
+              --arg blocked "$blocked" \
+              '{
+                type: { name: "Blocks" },
+                outwardIssue: { key: $blocked },
+                inwardIssue: { key: $blocker }
+              }')
+
+            local response
+            response=$(curl -s -o block-link-response.json -w "%{http_code}" \
+              -X POST \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issueLink")
+
+            if [ "$response" -eq 201 ]; then
+              echo "Created block: ${blocker} blocks ${blocked}"
+            else
+              echo "Failed to create block ${blocker} -> ${blocked} (HTTP ${response})"
+              cat block-link-response.json
+              exit 1
+            fi
+          }
+
+          # 0-based ORDERED_KEYS indices: blocker:blocked
+          BLOCK_INDEX_PAIRS=(
+            "0:1" "0:2" "0:3" "0:4" "0:5" "0:6" "0:7"
+            "1:2" "1:3" "1:7"
+            "2:3" "2:7"
+            "3:7"
+            "4:5" "4:6" "4:7"
+            "5:6" "5:7"
+            "6:7"
+          )
+
+          ORDERED_KEYS=()
+          for summary in "${SUBTASK_SUMMARIES[@]}"; do
+            subtask_due=$(subtask_due_date "$summary")
+            already_exists=$(echo "$EXISTING" | jq -r --arg summary "$summary" \
+              '.issues[]? | select(.fields.summary == $summary) | .key' | head -1)
+
+            if [ -n "$already_exists" ]; then
+              key="$already_exists"
+              echo "Skipped existing subtask: ${LOC_JIRA_BASE_URL}/browse/${key} — ${summary} (due: ${subtask_due})"
+            else
+              key=$(create_subtask "$summary" "$subtask_due")
+              echo "Created subtask: ${LOC_JIRA_BASE_URL}/browse/${key} — ${summary} (due: ${subtask_due})"
+            fi
+
+            ORDERED_KEYS+=("$key")
+          done
+
+          for i in "${!ORDERED_KEYS[@]}"; do
+            if [ "$i" -eq 0 ]; then
+              continue
+            fi
+            rank_subtask_after "${ORDERED_KEYS[$i]}" "${ORDERED_KEYS[$((i - 1))]}"
+          done
+
+          echo "Subtasks ordered:"
+          for i in "${!ORDERED_KEYS[@]}"; do
+            echo "$((i + 1)). ${ORDERED_KEYS[$i]} — ${SUBTASK_SUMMARIES[$i]}"
+          done
+
+          echo "Creating subtask block links..."
+          for pair in "${BLOCK_INDEX_PAIRS[@]}"; do
+            blocker_index="${pair%%:*}"
+            blocked_index="${pair##*:}"
+            create_block_link \
+              "${ORDERED_KEYS[$blocker_index]}" \
+              "${ORDERED_KEYS[$blocked_index]}"
+          done
