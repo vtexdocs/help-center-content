@@ -21,7 +21,7 @@ El control `<vtex.cmc:searchNavigator/>` renderiza un menú de filtros relaciona
 
 > ℹ️ Este control funciona **apenas en páginas con contexto de búsqueda**; es decir, páginas donde los resultados mostrados fueron traídos por una búsqueda de usuario.
 
-Cuando el usuario realiza una búsqueda en la tienda, el sistema de VTEX intenta traer resultados de acuerdo con un orden de prioridad de filtros. [Entienda cómo funciona la búsqueda aquí.](/es/docs/tutorials/como-funciona-la-vtex-search-legado)
+Cuando el usuario realiza una búsqueda en la tienda, el sistema de VTEX intenta traer resultados de acuerdo con un orden de prioridad de filtros. [Entienda cómo funciona la VTEX Search (Legado) aquí.](/es/docs/tutorials/como-funciona-vtex-search-legado)
 
 Digamos, por ejemplo, que el resultado sea un contexto de categoría. Es decir, el usuario buscó, por ejemplo, por el término "Camisas", el sistema identificó que existe una categoría con el nombre "Camisas" y cargó la página de esa categoría - usando, por lo tanto, el template de categoría. Si el control Search Navigator está en el código de ese template, va a renderizar un menú con filtros en la página.
 

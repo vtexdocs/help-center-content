@@ -60,7 +60,7 @@ Después del registro de los SKUs es necesario agregar las imágenes para que se
 2. Haga clic en **Importación y exportación**.
 3. Haga clic en la pestaña **Importación de imágenes**.
 4. Haga clic en **aquí** para descargar la plantilla modelo. La plantilla estará en el formato que el sistema acepta, evitando problemas en la importación.
-5. Al recibir la plantilla por e-mail, rellene los campos. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [importar imágenes por plantilla](/es/docs/tutorials/importando-imagenes-por-plantilla).
+5. Al recibir la plantilla por e-mail, rellene los campos. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [importar imágenes por plantilla](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla).
 6. Después de rellenar la plantilla, haga clic en **Seleccionar archivo**.
 7. Seleccione el archivo deseado y haga clic en __Abrir__.
 8. Haga clic en **Importar**.

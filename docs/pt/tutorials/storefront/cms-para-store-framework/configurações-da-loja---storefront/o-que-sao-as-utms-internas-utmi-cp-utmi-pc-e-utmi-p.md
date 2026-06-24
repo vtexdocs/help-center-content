@@ -17,7 +17,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 As `UTMi`s são UTMs internas, ou seja, parâmetros de URL que têm o objetivo de rastrear o tráfego entre páginas do seu site. Por meio delas, você pode marcar a navegação e definir contextos onde determinadas ações devem ser aplicadas.  
 
-Portanto, elas __não__ têm o objetivo de rastrear o tráfego que vem de sites ou serviços externos, com propósitos ligados ao contexto de marketing. Esta é uma função exercida pelas UTMs, como explicado no artigo [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm_source-utm_campaign-e-utm_medium).
+Portanto, elas __não__ têm o objetivo de rastrear o tráfego que vem de sites ou serviços externos, com propósitos ligados ao contexto de marketing. Esta é uma função exercida pelas UTMs, como explicado no artigo [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium).
 
 Normalmente, as UTMs internas são usadas como __causa de promoção__. No módulo Promoções e Taxas, você pode definir que apenas os pedidos fechados com determinada UTM aplicada na URL receberão a promoção. Veja abaixo o campo para escolher ou criar essa UTM interna no cadastro de uma promoção regular.
 
@@ -39,5 +39,5 @@ Eles ficam dentro do nó `marketingData`.
 
 ### Artigos relacionados
 
-- [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm_source-utm_campaign-e-utm_medium)
+- [O que são utm_source, utm_campaign e utm_medium](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium)
 - [Criar cupom](/pt/docs/tutorials/criar-cupom-beta)

@@ -50,7 +50,7 @@ Recuerde guardar antes de buscar o cambiar páginas.
 El siguiente paso es agregar el contenido seleccionando **Add Content**.
 ![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-portal-legado/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_7.png)
 
-Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/docs/tutorials/como-funciona-la-vtex-search-legado)).
+Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/docs/tutorials/como-funciona-vtex-search-legado)).
 
 Los contenidos que deben cumplimentarse **Content** son:
 _Content_: nombre que identificará cada conjunto de elementos
@@ -75,3 +75,4 @@ En el ejemplo abajo tenemos una vitrina estándar, sin condiciones de exhibició
 En el escenario arriba, si el cliente tiene origen en la audiencia de campaña patrocinada se exhibirán en la vitrina **Lançamentos**, ubicada en la Home, los productos que corresponden al resultado de una búsqueda por la Marca de ID 200000, en caso contrario, se exhibirán los productos de la colección de ID 8.
 
 Siempre que se use más de un contenido activo en el mismo control, se deben ordenar (haciendo clic y arrastrando sus contenidos) de forma tal que el contenido sin condiciones de exhibición siempre quede en la última posición, como arriba.
+
