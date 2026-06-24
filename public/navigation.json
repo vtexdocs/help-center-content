@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Localization improvements in Pick and Pack",
+                    "es": "Optimizaciones de localización en Pick and Pack",
+                    "pt": "Melhorias de localização no Pick and Pack"
+                  },
+                  "slug": {
+                    "en": "2026-06-24-localization-improvements-in-pick-and-pack",
+                    "es": "2026-06-24-mejoras-de-localizacion-en-pick-and-pack",
+                    "pt": "2026-06-24-melhorias-de-localizacao-no-pick-and-pack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contingency Mode: New name for the Mode-off feature",
                     "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
                     "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
