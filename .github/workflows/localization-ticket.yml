@@ -27,6 +27,7 @@
 # Dedupe
 #   - If a Jira ticket already exists for the same PR URL, a new parent task
 #     is not created; missing subtasks are still attached
+#   - Posts a PR comment linking the parent task (skipped if already present)
 #
 # After creating the parent task under the configured Education epic, the workflow
 # attaches the standard eight-step localization subtask chain in this order
@@ -75,6 +76,8 @@ jobs:
       !contains(github.event.pull_request.labels.*.name, 'localization') &&
       !startsWith(github.event.pull_request.head.ref, 'l10n')
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
 
     steps:
       - name: Checkout
@@ -247,6 +250,33 @@ jobs:
             cat response.json
             exit 1
           fi
+
+      - name: Comment on PR with Jira link
+        if: >-
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.parent_ticket.outputs.parent_key != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+        run: |
+          PR_NUMBER="${{ github.event.pull_request.number }}"
+          JIRA_URL="${LOC_JIRA_BASE_URL}/browse/${PARENT_KEY}"
+          COMMENT="Tracked in task [${PARENT_KEY}](${JIRA_URL})"
+
+          EXISTING_COMMENT=$(gh api \
+            "repos/${{ github.repository }}/issues/${PR_NUMBER}/comments" \
+            --paginate \
+            | jq -r --arg key "$PARENT_KEY" \
+              '.[] | select(.body | contains($key)) | .id' | head -1)
+
+          if [ -n "$EXISTING_COMMENT" ]; then
+            echo "PR comment already links ${PARENT_KEY}; skipping"
+            exit 0
+          fi
+
+          gh pr comment "$PR_NUMBER" --body "$COMMENT"
+          echo "Posted PR comment: ${COMMENT}"
 
       - name: Create localization subtasks
         if: steps.content_diff.outputs.has_additions == 'true'
