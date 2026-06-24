@@ -26,7 +26,7 @@
 #
 # Dedupe
 #   - Reuses an existing parent task when found via (in order):
-#       1. PR comment "Tracked in task [XXX-xxx]"
+#       1. PR comment "Localization ticket [XXX-xxxxx]"
 #       2. Jira label hc-github-pr-{owner}-{repo}-{number}
 #       3. Jira text search for hc-github-pr-ref: {repo}#{number} (oldest wins)
 #       4. Jira fallback: [HC] summary + PR link text "#{number}" (oldest wins)
@@ -61,7 +61,7 @@
 #   LOC_JIRA_USER_EMAIL  - Atlassian account email (personal account is fine)
 #   LOC_JIRA_API_TOKEN   - API token for that account (https://id.atlassian.com)
 #   LOC_JIRA_PROJECT_KEY - Jira project key
-#   LOC_JIRA_EPIC_KEY    - Parent epic key for Help Center tasks (e.g. LOC-813)
+#   LOC_JIRA_EPIC_KEY    - Parent epic key for Help Center tasks
 
 name: Create Localization Ticket
 
@@ -205,8 +205,9 @@ jobs:
             key=$(gh api \
               "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
               --paginate \
-              | jq -r '[.[] | select(.body | test("Tracked in task \\[LOC-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
-              | grep -oE 'LOC-[0-9]+' | head -1 || true)
+              | jq -r --arg project "$LOC_JIRA_PROJECT_KEY" \
+                '[.[] | select(.body | test("Localization ticket \\[" + $project + "-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
+              | grep -oE "${LOC_JIRA_PROJECT_KEY}-[0-9]+" | head -1 || true)
             if [ -n "$key" ]; then
               source="PR comment"
             else
@@ -355,16 +356,19 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_PROJECT_KEY: ${{ secrets.LOC_JIRA_PROJECT_KEY }}
           PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+          PARENT_DUE_DATE: ${{ steps.parent_ticket.outputs.parent_due_date }}
         run: |
           PR_NUMBER="${{ github.event.pull_request.number }}"
           JIRA_URL="${LOC_JIRA_BASE_URL}/browse/${PARENT_KEY}"
-          COMMENT="Tracked in task [${PARENT_KEY}](${JIRA_URL})"
+          COMMENT="Localization ticket [${PARENT_KEY}](${JIRA_URL}) created. Estimated delivery date: ${PARENT_DUE_DATE}."
 
           EXISTING_COMMENT=$(gh api \
             "repos/${{ github.repository }}/issues/${PR_NUMBER}/comments" \
             --paginate \
-            | jq -r '.[] | select(.body | test("Tracked in task \\[LOC-[0-9]+\\]")) | .id' \
+            | jq -r --arg project "$LOC_JIRA_PROJECT_KEY" \
+              '.[] | select(.body | test("Localization ticket \\[" + $project + "-[0-9]+\\]")) | .id' \
             | head -1)
 
           if [ -n "$EXISTING_COMMENT" ]; then
