@@ -10,11 +10,9 @@ slugEN: 2026-06-24-localization-improvements-in-pick-and-pack
 locale: pt
 announcementSynopsisPT: 'Melhorias de localização no Pick and Pack com suporte multilíngue para operações omnichannel bilíngues.'
 tags:
+  - Melhoria
   - Pick and Pack
-  - Fulfillment
-  - Localização
 ---
-
 O Pick and Pack agora oferece uma experiência mais consistente para operações omnichannel em regiões bilíngues, com suporte aprimorado a diferentes idiomas na aplicação, no Admin e nas etiquetas impressas.
 
 A atualização reduz inconsistências de idioma durante o fluxo operacional e melhora a experiência de picking para operadores que trabalham em ambientes multilíngues.
@@ -27,9 +25,9 @@ As melhorias de localização reduzem as diferenças de idioma ao longo do fluxo
 
 Atualmente, o Pick and Pack oferece suporte aos seguintes idiomas:
 
-- Português  
-- Inglês  
-- Francês  
+- Português
+- Inglês
+- Francês
 - Espanhol
 
 As traduções de catálogo dependem das informações enviadas pelo lojista para a plataforma VTEX.
