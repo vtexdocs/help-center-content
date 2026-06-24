@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Configuring Favicon in your store'
 id: tutorials_6370
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ This tutorial is only applicable to Legacy CMS Portal stores. For stores developed using Store Framework, follow the instructions in the **Favicons** section in the guide [Configuring SEO in your Store Framework store](/en/tutorial/configuring-seo-in-your-store--1sKskEsjUSvgHyqM8oknVR?&utm_source=autocomplete#favicons).
+> ⚠️ This tutorial is only applicable to CMS Portal (Legacy) stores. For stores developed using Store Framework, follow the instructions in the **Favicons** section in the guide [Configuring SEO in your Store Framework store](/en/tutorial/configuring-seo-in-your-store--1sKskEsjUSvgHyqM8oknVR?&utm_source=autocomplete#favicons).
 
 Favicon is a small icon associated with a website, displayed on the browser tab next to the page title, in bookmarks, browsing histories, and other places where the website address appears, such as search results pages.
 

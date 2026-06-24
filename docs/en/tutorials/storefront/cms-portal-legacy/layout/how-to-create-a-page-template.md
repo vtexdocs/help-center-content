@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Creating and editing a page template'
 id: frequentlyAskedQuestions_1850
 status: PUBLISHED
@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial valid only for Legacy CMS Portal stores.
+Tutorial valid only for CMS Portal (Legacy) stores.
 </div>
 
 The page template is a model designed to define an HTML structure for displaying page content.

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Managing a multistore'
 id: 4S0lFVBPylRS5KpVgdyDhJ
 status: PUBLISHED
@@ -33,7 +33,7 @@ Once the multistore has been created, set the layout for each store based on the
 
 In a multidomain environment, you can set different layouts for each store, depending on the domain accessed.
 
-- For Legacy CMS Portal stores, see [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
+- For CMS Portal (Legacy) stores, see [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
 - For stores developed using Store Framework, see [Managing page and template content](/en/docs/tutorials/managing-page-and-template-content).
 
 ### Defining sales channels
