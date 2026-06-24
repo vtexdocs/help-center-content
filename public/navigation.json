@@ -40814,6 +40814,21 @@
             },
             {
               "name": {
+                "en": "Catalog Kit Insertion Allows Circular Reference",
+                "es": "La inserción del kit de catálogo permite una referencia circular.",
+                "pt": "A inserção do kit de catálogo permite referência circular."
+              },
+              "slug": {
+                "en": "catalog-kit-insertion-allows-circular-reference",
+                "es": "la-insercion-del-kit-de-catalogo-permite-una-referencia-circular",
+                "pt": "a-insercao-do-kit-de-catalogo-permite-referencia-circular"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog Myvtex Iframe HTML Select Breaking for Chrome 108",
                 "es": "Catálogo Myvtex Iframe HTML: selección de «Breaking» para Chrome 108",
                 "pt": "Catálogo Myvtex Iframe HTML Select Breaking para o Chrome 108"
@@ -42975,13 +42990,13 @@
             {
               "name": {
                 "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
-                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
-                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+                "es": "El botón de publicación no responde de forma intermitente en la creación/actualización de productos en el Portal del vendedor.",
+                "pt": "O botão \"Publicar\" apresenta falhas intermitentes na criação/atualização de produtos no Seller Portal."
               },
               "slug": {
                 "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
-                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
-                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+                "es": "el-boton-de-publicacion-no-responde-de-forma-intermitente-en-la-creacionactualizacion-de-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-apresenta-falhas-intermitentes-na-criacaoatualizacao-de-produtos-no-seller-portal"
               },
               "origin": "",
               "type": "markdown",
