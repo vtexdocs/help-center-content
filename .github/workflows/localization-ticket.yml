@@ -25,8 +25,12 @@
 #     - PRs with a source branch starting with "l10n" are skipped (e.g. l10n_, l10n/, l10n-)
 #
 # Dedupe
-#   - If a Jira ticket already exists for the same PR URL, a new parent task
-#     is not created; missing subtasks are still attached
+#   - Reuses an existing parent task when found via (in order):
+#       1. Jira text search for hc-github-pr-ref: {repo}#{number}
+#       2. Jira fallback: [HC] summary + PR link text "#{number}" (oldest wins)
+#       3. PR comment "Tracked in task [LOC-xxx]" (legacy runs without marker)
+#     (Jira does not reliably index full GitHub URLs in descriptions.)
+#   - Missing subtasks are still attached; oldest matching ticket wins
 #   - Posts a PR comment linking the parent task (skipped if already present)
 #
 # After creating the parent task under the configured Education epic, the workflow
@@ -120,6 +124,7 @@ jobs:
         id: parent_ticket
         if: steps.content_diff.outputs.has_additions == 'true'
         env:
+          GH_TOKEN: ${{ github.token }}
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
           LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
           LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
@@ -132,7 +137,64 @@ jobs:
           PR_URL=$(jq -r '.pull_request.html_url' "$GITHUB_EVENT_PATH")
           PR_AUTHOR=$(jq -r '.pull_request.user.login' "$GITHUB_EVENT_PATH")
           PR_BODY_RAW=$(jq -r '.pull_request.body // "No description provided."' "$GITHUB_EVENT_PATH")
+          GITHUB_REPOSITORY=$(jq -r '.repository.full_name' "$GITHUB_EVENT_PATH")
+          PR_REF="${GITHUB_REPOSITORY}#${PR_NUMBER}"
           LABEL=$(jq -r '.label.name' "$GITHUB_EVENT_PATH")
+
+          jira_search_first_key() {
+            local jql="$1"
+            local response http_code body
+            response=$(curl -s -w "\n%{http_code}" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              --get \
+              --data-urlencode "jql=${jql}" \
+              --data-urlencode "fields=key" \
+              --data-urlencode "maxResults=1" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/search")
+            http_code=$(echo "$response" | tail -1)
+            body=$(echo "$response" | sed '$d')
+
+            if [ "$http_code" != "200" ]; then
+              echo "Jira search failed (HTTP ${http_code}): ${body}" >&2
+              return 1
+            fi
+            if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
+              echo "Jira search error: $(echo "$body" | jq -r '.errorMessages[]')" >&2
+              return 1
+            fi
+
+            echo "$body" | jq -r '.issues[0].key // empty'
+          }
+
+          resolve_existing_parent_key() {
+            local key source
+
+            key=$(jira_search_first_key \
+              "project = ${LOC_JIRA_PROJECT_KEY} AND text ~ \"hc-github-pr-ref: ${PR_REF}\" ORDER BY created ASC" || true)
+            if [ -n "$key" ]; then
+              source="hc-github-pr-ref marker"
+            else
+              key=$(jira_search_first_key \
+                "project = ${LOC_JIRA_PROJECT_KEY} AND summary ~ \"[HC]\" AND text ~ \"#${PR_NUMBER}\" ORDER BY created ASC" || true)
+              if [ -n "$key" ]; then
+                source="[HC] summary and PR link text"
+              else
+                key=$(gh api \
+                  "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
+                  --paginate \
+                  | jq -r '[.[] | select(.body | test("Tracked in task \\[LOC-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
+                  | grep -oE 'LOC-[0-9]+' | head -1)
+                if [ -n "$key" ]; then
+                  source="PR comment"
+                fi
+              fi
+            fi
+
+            if [ -n "$key" ]; then
+              echo "Found existing ticket via ${source}: ${key}" >&2
+              echo "$key"
+            fi
+          }
 
           case "$LABEL" in
             "localization needed (high)")
@@ -165,15 +227,7 @@ jobs:
           DAYS_TO_DUE=$((DAYS_TO_FOLLOWING_MONDAY + 4 + EXTRA_WEEKS * 7))
           JIRA_DUE_DATE=$(date -u -d "${TODAY} + ${DAYS_TO_DUE} days" +%Y-%m-%d)
 
-          EXISTING=$(curl -s \
-            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-            --get \
-            --data-urlencode "jql=project = ${LOC_JIRA_PROJECT_KEY} AND description ~ \"${PR_URL}\"" \
-            --data-urlencode "fields=key" \
-            --data-urlencode "maxResults=1" \
-            "${LOC_JIRA_BASE_URL}/rest/api/2/search")
-
-          EXISTING_KEY=$(echo "$EXISTING" | jq -r '.issues[0].key // empty')
+          EXISTING_KEY=$(resolve_existing_parent_key || true)
           if [ -n "$EXISTING_KEY" ]; then
             EXISTING_DUE=$(curl -s \
               -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
@@ -207,6 +261,7 @@ jobs:
             --arg pr_title "$PR_TITLE" \
             --arg pr_number "$PR_NUMBER" \
             --arg pr_url "$PR_URL" \
+            --arg pr_ref "$PR_REF" \
             --arg pr_author "$PR_AUTHOR" \
             --arg pr_body "$PR_BODY" \
             --arg changed_files "$CHANGED_FILES_SECTION" \
@@ -218,6 +273,7 @@ jobs:
                 parent: { key: $epic_key },
                 summary: ("[HC] " + $pr_title),
                 description: (
+                  "hc-github-pr-ref: " + $pr_ref + "\n\n" +
                   "h3. PR Details\n" +
                   "||Field||Value||\n" +
                   "|Author|" + $pr_author + "|\n" +
@@ -267,11 +323,11 @@ jobs:
           EXISTING_COMMENT=$(gh api \
             "repos/${{ github.repository }}/issues/${PR_NUMBER}/comments" \
             --paginate \
-            | jq -r --arg key "$PARENT_KEY" \
-              '.[] | select(.body | contains($key)) | .id' | head -1)
+            | jq -r '.[] | select(.body | test("Tracked in task \\[LOC-[0-9]+\\]")) | .id' \
+            | head -1)
 
           if [ -n "$EXISTING_COMMENT" ]; then
-            echo "PR comment already links ${PARENT_KEY}; skipping"
+            echo "PR already has a localization task comment; skipping"
             exit 0
           fi
 
