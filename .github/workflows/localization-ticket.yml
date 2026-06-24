@@ -26,10 +26,12 @@
 #
 # Dedupe
 #   - Reuses an existing parent task when found via (in order):
-#       1. Jira text search for hc-github-pr-ref: {repo}#{number}
-#       2. Jira fallback: [HC] summary + PR link text "#{number}" (oldest wins)
-#       3. PR comment "Tracked in task [LOC-xxx]" (legacy runs without marker)
+#       1. PR comment "Tracked in task [XXX-xxx]"
+#       2. Jira label hc-github-pr-{owner}-{repo}-{number}
+#       3. Jira text search for hc-github-pr-ref: {repo}#{number} (oldest wins)
+#       4. Jira fallback: [HC] summary + PR link text "#{number}" (oldest wins)
 #     (Jira does not reliably index full GitHub URLs in descriptions.)
+#   - New tickets receive the hc-github-pr-* label for reliable future dedupe
 #   - Missing subtasks are still attached; oldest matching ticket wins
 #   - Subtasks are matched by summary under the parent; oldest match wins
 #   - Posts a PR comment linking the parent task (skipped if already present)
@@ -140,53 +142,89 @@ jobs:
           PR_BODY_RAW=$(jq -r '.pull_request.body // "No description provided."' "$GITHUB_EVENT_PATH")
           GITHUB_REPOSITORY=$(jq -r '.repository.full_name' "$GITHUB_EVENT_PATH")
           PR_REF="${GITHUB_REPOSITORY}#${PR_NUMBER}"
+          PR_LABEL="hc-github-pr-$(echo "${GITHUB_REPOSITORY}" | tr '/' '-')-${PR_NUMBER}"
           LABEL=$(jq -r '.label.name' "$GITHUB_EVENT_PATH")
+
+          jira_post_search() {
+            local jql="$1"
+            local fields_csv="$2"
+            local max_results="${3:-50}"
+            local payload response http_code body api_url
+
+            payload=$(jq -n \
+              --arg jql "$jql" \
+              --arg fields "$fields_csv" \
+              --argjson max "$max_results" \
+              '{
+                jql: $jql,
+                maxResults: $max,
+                fields: ($fields | split(",") | map(gsub("^\\s+|\\s+$"; "")))
+              }')
+
+            for api_url in \
+              "${LOC_JIRA_BASE_URL}/rest/api/3/search/jql" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/search"; do
+              response=$(curl -s -w "\n%{http_code}" \
+                -X POST \
+                -H "Content-Type: application/json" \
+                -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+                -d "$payload" \
+                "$api_url")
+              http_code=$(echo "$response" | tail -1)
+              body=$(echo "$response" | sed '$d')
+
+              if [ "$http_code" = "200" ] || [ "$http_code" = "201" ]; then
+                if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
+                  echo "Jira search error: $(echo "$body" | jq -r '.errorMessages[]')" >&2
+                  return 1
+                fi
+                echo "$body"
+                return 0
+              fi
+
+              if [ "$http_code" != "404" ] && [ "$http_code" != "405" ]; then
+                echo "Jira search failed at ${api_url} (HTTP ${http_code}): ${body}" >&2
+                return 1
+              fi
+            done
+
+            echo "Jira search failed: no compatible search endpoint" >&2
+            return 1
+          }
 
           jira_search_first_key() {
             local jql="$1"
-            local response http_code body
-            response=$(curl -s -w "\n%{http_code}" \
-              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-              --get \
-              --data-urlencode "jql=${jql}" \
-              --data-urlencode "fields=key" \
-              --data-urlencode "maxResults=1" \
-              "${LOC_JIRA_BASE_URL}/rest/api/2/search")
-            http_code=$(echo "$response" | tail -1)
-            body=$(echo "$response" | sed '$d')
-
-            if [ "$http_code" != "200" ]; then
-              echo "Jira search failed (HTTP ${http_code}): ${body}" >&2
-              return 1
-            fi
-            if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
-              echo "Jira search error: $(echo "$body" | jq -r '.errorMessages[]')" >&2
-              return 1
-            fi
-
-            echo "$body" | jq -r '.issues[0].key // empty'
+            local result
+            result=$(jira_post_search "$jql" "key,created" 1) || return 1
+            echo "$result" | jq -r '.issues[0].key // empty'
           }
 
           resolve_existing_parent_key() {
             local key source
 
-            key=$(jira_search_first_key \
-              "project = ${LOC_JIRA_PROJECT_KEY} AND text ~ \"hc-github-pr-ref: ${PR_REF}\" ORDER BY created ASC" || true)
+            key=$(gh api \
+              "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
+              --paginate \
+              | jq -r '[.[] | select(.body | test("Tracked in task \\[LOC-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
+              | grep -oE 'LOC-[0-9]+' | head -1 || true)
             if [ -n "$key" ]; then
-              source="hc-github-pr-ref marker"
+              source="PR comment"
             else
               key=$(jira_search_first_key \
-                "project = ${LOC_JIRA_PROJECT_KEY} AND summary ~ \"[HC]\" AND text ~ \"#${PR_NUMBER}\" ORDER BY created ASC" || true)
+                "project = ${LOC_JIRA_PROJECT_KEY} AND labels = \"${PR_LABEL}\" ORDER BY created ASC" || true)
               if [ -n "$key" ]; then
-                source="[HC] summary and PR link text"
+                source="hc-github-pr label"
               else
-                key=$(gh api \
-                  "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
-                  --paginate \
-                  | jq -r '[.[] | select(.body | test("Tracked in task \\[LOC-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
-                  | grep -oE 'LOC-[0-9]+' | head -1)
+                key=$(jira_search_first_key \
+                  "project = ${LOC_JIRA_PROJECT_KEY} AND text ~ \"hc-github-pr-ref: ${PR_REF}\" ORDER BY created ASC" || true)
                 if [ -n "$key" ]; then
-                  source="PR comment"
+                  source="hc-github-pr-ref marker"
+                else
+                  key=$(jira_search_first_key \
+                    "project = ${LOC_JIRA_PROJECT_KEY} AND summary ~ \"\\\\[HC\\\\]\" AND text ~ \"#${PR_NUMBER}\" ORDER BY created ASC" || true)
+                  if [ -n "$key" ]; then
+                    source="[HC] summary and PR link text"
+                  fi
                 fi
               fi
             fi
@@ -263,6 +301,7 @@ jobs:
             --arg pr_number "$PR_NUMBER" \
             --arg pr_url "$PR_URL" \
             --arg pr_ref "$PR_REF" \
+            --arg pr_label "$PR_LABEL" \
             --arg pr_author "$PR_AUTHOR" \
             --arg pr_body "$PR_BODY" \
             --arg changed_files "$CHANGED_FILES_SECTION" \
@@ -286,7 +325,8 @@ jobs:
                 ),
                 issuetype: { name: "Task" },
                 priority: { name: $priority },
-                duedate: $duedate
+                duedate: $duedate,
+                labels: [$pr_label]
               }
             }')
 
@@ -406,34 +446,91 @@ jobs:
           )
 
           fetch_child_issues() {
-            local response http_code body
+            local response http_code body search_result
+
             response=$(curl -s -w "\n%{http_code}" \
               -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-              --get \
-              --data-urlencode "jql=parent = ${PARENT_KEY} ORDER BY created ASC" \
-              --data-urlencode "fields=summary,created" \
-              --data-urlencode "maxResults=100" \
-              "${LOC_JIRA_BASE_URL}/rest/api/2/search")
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${PARENT_KEY}?fields=subtasks")
             http_code=$(echo "$response" | tail -1)
             body=$(echo "$response" | sed '$d')
 
-            if [ "$http_code" != "200" ]; then
-              echo "Failed to fetch subtasks for ${PARENT_KEY} (HTTP ${http_code}): ${body}" >&2
-              exit 1
-            fi
-            if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
-              echo "Failed to fetch subtasks for ${PARENT_KEY}: $(echo "$body" | jq -r '.errorMessages[]')" >&2
-              exit 1
+            if [ "$http_code" = "200" ]; then
+              echo "$body" | jq '{
+                issues: [.fields.subtasks[]? | {
+                  key: .key,
+                  fields: {
+                    summary: .fields.summary,
+                    created: (.fields.created // "")
+                  }
+                }]
+              }'
+              return 0
             fi
 
-            echo "$body"
+            echo "Failed to fetch subtasks via parent issue (HTTP ${http_code}); trying Jira search" >&2
+            search_result=$(jira_post_search \
+              "parent = ${PARENT_KEY} ORDER BY created ASC" \
+              "summary,created" \
+              100) || {
+              echo "Failed to fetch subtasks for ${PARENT_KEY}" >&2
+              exit 1
+            }
+            echo "$search_result"
+          }
+
+          jira_post_search() {
+            local jql="$1"
+            local fields_csv="$2"
+            local max_results="${3:-50}"
+            local payload response http_code body api_url
+
+            payload=$(jq -n \
+              --arg jql "$jql" \
+              --arg fields "$fields_csv" \
+              --argjson max "$max_results" \
+              '{
+                jql: $jql,
+                maxResults: $max,
+                fields: ($fields | split(",") | map(gsub("^\\s+|\\s+$"; "")))
+              }')
+
+            for api_url in \
+              "${LOC_JIRA_BASE_URL}/rest/api/3/search/jql" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/search"; do
+              response=$(curl -s -w "\n%{http_code}" \
+                -X POST \
+                -H "Content-Type: application/json" \
+                -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+                -d "$payload" \
+                "$api_url")
+              http_code=$(echo "$response" | tail -1)
+              body=$(echo "$response" | sed '$d')
+
+              if [ "$http_code" = "200" ] || [ "$http_code" = "201" ]; then
+                if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
+                  echo "Jira search error: $(echo "$body" | jq -r '.errorMessages[]')" >&2
+                  return 1
+                fi
+                echo "$body"
+                return 0
+              fi
+
+              if [ "$http_code" != "404" ] && [ "$http_code" != "405" ]; then
+                echo "Jira search failed at ${api_url} (HTTP ${http_code}): ${body}" >&2
+                return 1
+              fi
+            done
+
+            echo "Jira search failed: no compatible search endpoint" >&2
+            return 1
           }
 
           find_existing_subtask_key() {
             local summary="$1"
             local existing_json="$2"
             echo "$existing_json" | jq -r --arg summary "$summary" \
-              '[.issues[]? | select(.fields.summary == $summary)] | sort_by(.fields.created) | .[0].key // empty'
+              '[.issues[]? | select(.fields.summary == $summary)] |
+               sort_by(.fields.created // .key) | .[0].key // empty'
           }
 
           EXISTING=$(fetch_child_issues)
