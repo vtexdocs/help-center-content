@@ -48,4 +48,4 @@ No action is required to use this improvement.
 
 > ℹ️ If your operation uses catalog translations, you need to send the translated content to the VTEX platform.
 
-For more information about Pick and Pack, see the article [VTEX Pick and Pack mobile](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-mobile).
+For more information about Pick and Pack, see the article [VTEX Pick and Pack mobile](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile).
