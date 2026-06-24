@@ -31,6 +31,7 @@
 #       3. PR comment "Tracked in task [LOC-xxx]" (legacy runs without marker)
 #     (Jira does not reliably index full GitHub URLs in descriptions.)
 #   - Missing subtasks are still attached; oldest matching ticket wins
+#   - Subtasks are matched by summary under the parent; oldest match wins
 #   - Posts a PR comment linking the parent task (skipped if already present)
 #
 # After creating the parent task under the configured Education epic, the workflow
@@ -404,9 +405,38 @@ jobs:
             "Create PR"
           )
 
-          EXISTING=$(curl -s \
-            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-            "${LOC_JIRA_BASE_URL}/rest/api/2/search?jql=parent%3D${PARENT_KEY}&fields=summary&maxResults=50")
+          fetch_child_issues() {
+            local response http_code body
+            response=$(curl -s -w "\n%{http_code}" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              --get \
+              --data-urlencode "jql=parent = ${PARENT_KEY} ORDER BY created ASC" \
+              --data-urlencode "fields=summary,created" \
+              --data-urlencode "maxResults=100" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/search")
+            http_code=$(echo "$response" | tail -1)
+            body=$(echo "$response" | sed '$d')
+
+            if [ "$http_code" != "200" ]; then
+              echo "Failed to fetch subtasks for ${PARENT_KEY} (HTTP ${http_code}): ${body}" >&2
+              exit 1
+            fi
+            if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
+              echo "Failed to fetch subtasks for ${PARENT_KEY}: $(echo "$body" | jq -r '.errorMessages[]')" >&2
+              exit 1
+            fi
+
+            echo "$body"
+          }
+
+          find_existing_subtask_key() {
+            local summary="$1"
+            local existing_json="$2"
+            echo "$existing_json" | jq -r --arg summary "$summary" \
+              '[.issues[]? | select(.fields.summary == $summary)] | sort_by(.fields.created) | .[0].key // empty'
+          }
+
+          EXISTING=$(fetch_child_issues)
 
           create_subtask() {
             local summary="$1"
@@ -533,8 +563,7 @@ jobs:
           ORDERED_KEYS=()
           for summary in "${SUBTASK_SUMMARIES[@]}"; do
             subtask_due=$(subtask_due_date "$summary")
-            already_exists=$(echo "$EXISTING" | jq -r --arg summary "$summary" \
-              '.issues[]? | select(.fields.summary == $summary) | .key' | head -1)
+            already_exists=$(find_existing_subtask_key "$summary" "$EXISTING")
 
             if [ -n "$already_exists" ]; then
               key="$already_exists"
@@ -542,6 +571,7 @@ jobs:
             else
               key=$(create_subtask "$summary" "$subtask_due")
               echo "Created subtask: ${LOC_JIRA_BASE_URL}/browse/${key} — ${summary} (due: ${subtask_due})"
+              EXISTING=$(fetch_child_issues)
             fi
 
             ORDERED_KEYS+=("$key")
