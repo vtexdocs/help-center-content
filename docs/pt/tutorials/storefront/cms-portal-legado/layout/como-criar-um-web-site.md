@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
-Um [website](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) consiste em uma série de pastas e arquivos que compõem e definem o conteúdo das páginas web exibidas para os visitantes da sua loja.
+Um [website](/pt/docs/tutorials/o-que-e-um-web-site) consiste em uma série de pastas e arquivos que compõem e definem o conteúdo das páginas web exibidas para os visitantes da sua loja.
 
 Siga os passos a seguir para criar um website ou colocar a sua primeira loja no ar.
 
@@ -44,12 +44,12 @@ Siga os passos a seguir para criar um website ou colocar a sua primeira loja no 
 
   - [CMS Portal (Legado) - Visão geral](/pt/docs/tutorials/o-que-e-o-cms-layout).
   - [Criar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina).
-  - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates).
+  - [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ## Artigos relacionados
 
-- [O que é um website?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
+- [O que é um website?](/pt/docs/tutorials/o-que-e-um-web-site)
 - [Vincular um account name a um website (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding)
 - [CMS Portal (Legado) - Visão geral](/pt/docs/tutorials/o-que-e-o-cms-layout)
 - [Criar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina)
-- [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
+- [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)

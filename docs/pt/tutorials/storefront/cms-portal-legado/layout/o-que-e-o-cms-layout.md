@@ -20,7 +20,7 @@ order: 1
   Essa funcionalidade está disponível para lojas usando a tecnologia Portal Legada
 </div>
 
-A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS.
+A seção [Layout](/pt/docs/tutorials/layout-subcategoria) permite que você crie seu storefront usando HTML e CSS.
 
 ## Sites and channels
 
@@ -59,7 +59,7 @@ Para o CMS, coleções são placeholders que exibem grupos de produtos (product 
 ## Controles
 Os controles nativos da VTEX renderizam diversas funcionalidades úteis e replicáveis nos templates do seu site. Por exemplo, ao inserir o controle `<vtex.cmc:productName/>` na sua página de produto, o sistema renderizará automaticamente o nome do produto.
 
-Veja a lista completa de controles nativos para templates [neste artigo](/pt/tutorial/lista-de-controles-para-templates).
+Veja a lista completa de controles nativos para templates [neste artigo](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ## Custom Elements
 Além dos controles nativos da VTEX, o sistema permite que você crie controles customizados. Eles ficam armazenados no diretório Custom Elements, e podem ser usados em qualquer template, da mesma maneira que os controles nativos.
@@ -72,26 +72,25 @@ Para gerenciar os arquivos do seu Web Site, você pode acessar este diretório. 
 
 ### Referências
 
-- [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM)
-- [O que são templates?](/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [O que são controles?](/pt/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [O que são layouts?](/pt/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [O que são prateleiras?](/pt/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [O que é binding?](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [Layout](/pt/docs/tutorials/layout-subcategoria)
+- [O que são templates?](/pt/docs/tutorials/o-que-sao-templates)
+- [O que é um web site?](/pt/docs/tutorials/o-que-e-um-web-site)
+- [O que são controles?](/pt/docs/tutorials/o-que-sao-controles)
+- [O que são layouts?](/pt/docs/tutorials/o-que-sao-layouts)
+- [O que são prateleiras?](/pt/docs/tutorials/o-que-sao-prateleiras)
+- [O que é binding?](/pt/docs/tutorials/o-que-e-binding)
 
 ### Artigos relacionados
 - [Como criar um web site](/pt/docs/tutorials/como-criar-um-web-site)
 - [Vincular um account name a um web site (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding)
-- [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
+- [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 
 - [Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina)
 
-- [Associar um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete)
+- [Associar um template a um layout](/pt/docs/tutorials/associando-um-template-a-um-layout)
 
 - [Gerenciando placeholders](/pt/docs/tutorials/gerenciandoplaceholders)
 
-- [Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete)
+- [Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi)
 
 - [Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado)

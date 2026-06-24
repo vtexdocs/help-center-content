@@ -39,4 +39,4 @@ Sobre archivos JavaScript insertados en la página, es importante seguir algunas
 
 Recordamos que también tenemos el VTEX Speed, herramienta que permite el desarrollo local con tiempo de cache menor.  [Vtex Speed - Descarga y Ejecución](https://github.com/vtex/speed)
 
-Para investigar posibles problemas relacionados con CSS recomendamos el uso del plugin WebDeveloper - vea [aquí](/es/tutorial/herramientas-para-mejorar-la-performance-de-la-tienda/) algunas herramientas para mejorar el debug de problemas de personalización.
+Para investigar posibles problemas relacionados con CSS recomendamos el uso del plugin WebDeveloper - vea [aquí](/es/docs/tutorials/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda) algunas herramientas para mejorar el debug de problemas de personalización.

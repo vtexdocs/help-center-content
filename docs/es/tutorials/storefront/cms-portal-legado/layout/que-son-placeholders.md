@@ -24,7 +24,7 @@ Por lo tanto, tenemos una cadena que implica: la configuración del placeholder 
 Los tipos de placeholders configurables son: Banner, Banner DHTML, Colección y HTML.
 
 ### Artículos relacionados
-- [¿Qué es el CMS?](/es/faq/que-es-el-cms)
+- [¿Qué es el CMS?](/es/docs/tutorials/que-es-el-cms-layout)
 - [¿Qué es un web site?](/es/docs/tutorials/que-es-un-web-site)
 - [¿Qué son layouts?](/es/docs/tutorials/que-son-layouts)
 - [¿Qué son templates?](/es/docs/tutorials/que-son-templates)

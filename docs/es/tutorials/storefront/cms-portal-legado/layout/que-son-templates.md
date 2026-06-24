@@ -35,9 +35,9 @@ Y hablando en organización, usted encuentra todos los templates en el **Storefr
 ![cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-portal-legado/layout/que-son-templates_1.png)
 
 ### Artículos relacionados
-- [¿Qué es el CMS?](/es/tutorial/que-es-el-cms)
+- [¿Qué es el CMS?](/es/docs/tutorials/que-es-el-cms-layout)
 - [¿Qué es un web site?](/es/docs/tutorials/que-es-un-web-site)
 - [¿Qué son placeholders?](/es/docs/tutorials/que-son-placeholders)
 - [¿Qué son layouts?](/es/docs/tutorials/que-son-layouts)
 - [¿Qué son estantes?](/es/docs/tutorials/que-son-estantes)
-- [Crear un template de página](/es/tutorial/crear-un-template-de-pagina)
+- [Crear un template de página](/es/docs/tutorials/como-crear-un-template-de-pagina)

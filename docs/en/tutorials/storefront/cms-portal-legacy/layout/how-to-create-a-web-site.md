@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 Tutorial valid only for CMS Portal (Legacy) stores.
 </div>
 
-A [website](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) consists of a series of folders and files that make up and define the content of the web pages displayed to your store's visitors.
+A [website](/docs/tutorials/what-is-a-web-site) consists of a series of folders and files that make up and define the content of the web pages displayed to your store's visitors.
 
 Follow the steps below to create a website or publish your first store.
 
@@ -38,19 +38,19 @@ Follow the steps below to create a website or publish your first store.
 
 4. After making the necessary changes, click `Save Website`. A confirmation message will be displayed, and your new website will be created in the **Sites and channels** directory.
 
-5. To learn how to link your website to an account name, please refer to the article [Linking a store to a folder structure in CMS (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding).
+5. To learn how to link your website to an account name, please refer to the article [Linking a store to a folder structure in CMS (binding)](/docs/tutorials/linking-an-account-name-to-a-website-binding).
 
 6. Change your website templates and layouts as you wish. To learn more about how to make these changes, read the articles below.
 
-  - [CMS layout overview](/en/docs/tutorials/what-is-cms-layout).
-  - [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template).
-  - [List of controls for templates](/en/tutorial/lista-de-controles-para-templates).
+  - [CMS layout overview](/docs/tutorials/what-is-cms-layout).
+  - [Creating and editing a page template](/docs/tutorials/how-to-create-a-page-template).
+  - [List of controls for templates](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates).
 
 ## Related articles
 
-- [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [Linking an account name to a website (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding)
-- [CMS layout overview](/en/docs/tutorials/what-is-cms-layout)
-- [Creating a page template](/en/docs/tutorials/how-to-create-a-page-template)
-[List of controls for templates](/en/tutorial/lista-de-controles-para-templates).
+- [What is a website?](/docs/tutorials/what-is-a-web-site)
+- [Linking an account name to a website (binding)](/docs/tutorials/linking-an-account-name-to-a-website-binding)
+- [CMS layout overview](/docs/tutorials/what-is-cms-layout)
+- [Creating a page template](/docs/tutorials/how-to-create-a-page-template)
+[List of controls for templates](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates).
 

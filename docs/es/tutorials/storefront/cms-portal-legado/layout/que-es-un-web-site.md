@@ -34,4 +34,4 @@ Con todos estos elementos configurados, usted tendrá que enlazar su web site a 
 - [¿Qué son templates?](/es/docs/tutorials/que-son-templates)
 - [¿Qué son placeholders?](/es/docs/tutorials/que-son-placeholders)
 - [¿Qué son layouts?](/es/docs/tutorials/que-son-layouts)
-- [¿Qué es el CMS?](/es/faq/que-es-el-cms)
+- [¿Qué es el CMS?](/es/docs/tutorials/que-es-el-cms-layout)

@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Las vitrinas se usan en el destaque de productos en diversas páginas, se pueden usar también para recomendaciones, en la página del producto.
 
-Primero, antes de definir una vitrina, se debe crear una colección (ver instrucciones [aquí](/es/tutorial/criando-colecao-de-produtos)) con los productos que se exhibirán en ella. También es necesario que las páginas estén debidamente estructuradas, con los debidos controles insertados en sus templates.
+Primero, antes de definir una vitrina, se debe crear una colección (ver instrucciones [aquí](/es/docs/tutorials/creando-colecciones-de-productos)) con los productos que se exhibirán en ella. También es necesario que las páginas estén debidamente estructuradas, con los debidos controles insertados en sus templates.
 
 Realizadas las debidas definiciones, el vínculo de la colección con la vitrina se hace en **Storefront > Layout**.
 

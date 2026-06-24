@@ -22,7 +22,7 @@ Es decir, es lo que define que un __account name__ (configurado en el License Ma
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-portal-legado/layout/que-es-binding_1.png)
 
-Esta es la configuración realizada cuando una cuenta desea tener más de una tienda. Para cada una de esas tiendas (que llamamos [multitiendas](/es/tutorial/como-crear-multiloja-multidominio)), se hace un binding.
+Esta es la configuración realizada cuando una cuenta desea tener más de una tienda. Para cada una de esas tiendas (que llamamos [multitiendas](/es/docs/tutorials/gestionar-multitienda)), se hace un binding.
 
 ### Artículos relacionados
 - [Vincular un account name a un Website (binding)](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding) 

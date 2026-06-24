@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
   Esta funcionalidad está disponible para las tiendas que utilizan la tecnología Portal Legada.
 </div>
 
-La sección [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite crear tu storefront con HTML y CSS.
+La sección [Layout](/es/docs/tutorials/layout-subcategoria) te permite crear tu storefront con HTML y CSS.
 ## Sites and channels
 
 Si aún no ha creado un Web Site (o desea crear un nuevo), es en ese directorio que debe ir primero. Si ya tiene un Web Site, aquí es donde usted tendrá acceso y administrará toda su estructura de carpetas.
@@ -57,7 +57,7 @@ Para el CMS, las colecciones son placeholders que muestran grupos de productos (
 ## Controles
 Los controles nativos de VTEX representan varias funcionalidades útiles y replicables en los templates de su sitio. Por ejemplo, al insertar el control `<vtex.cmc:productName/>` en su página de producto, el sistema mostrará automáticamente el nombre del producto.
 
-Usted puede ver la lista completa de controles nativos para templates [en este artículo](/es/tutorial/lista-de-controles-para-templates).
+Usted puede ver la lista completa de controles nativos para templates [en este artículo](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates).
 
 ## Custom Elements
 Además de los controles nativos de VTEX, el sistema le permite crear controles personalizados. Se almacenan en el directorio Custom Elements, y se pueden usar en cualquier template, al igual que los controles nativos.
@@ -69,31 +69,30 @@ En esta sección usted puede construir URLs más amigables, haciendo que las pá
 Para administrar los archivos de su sitio Web, usted puede acceder a este directorio. En él, puede agregar, borrar y modificar archivos CSS, JavaScript, XML e imágenes.
 
 ## Referencias
-- [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Configuración](/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM)
-- [Estructura de las carpetas del Layout](/es/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
+- [Layout](/es/docs/tutorials/layout-subcategoria)
+- [Estructura de las carpetas del Layout](/es/docs/tutorials/estructura-de-carpetas-del-cms)
 - [Lista de controles para plantillas](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
-- [¿Qué son las plantillas?](/es/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [¿Qué es un sitio web?](/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [¿Qué son los controles?](/es/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [¿Qué son los layouts?](/es/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [¿Qué son los estantes?](/es/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [¿Qué es binding?](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [¿Qué son las plantillas?](/es/docs/tutorials/que-son-templates)
+- [¿Qué es un sitio web?](/es/docs/tutorials/que-es-un-web-site)
+- [¿Qué son los controles?](/es/docs/tutorials/que-son-controles)
+- [¿Qué son los layouts?](/es/docs/tutorials/que-son-layouts)
+- [¿Qué son los estantes?](/es/docs/tutorials/que-son-estantes)
+- [¿Qué es binding?](/es/docs/tutorials/que-es-binding)
 
 ### Guías
 - **[Crear o editar una plantilla de página](/es/docs/tutorials/como-crear-un-template-de-pagina):** Aprende a crear plantillas de página. La plantilla de página es un modelo creado para definir una estructura HTML para presentar el contenido de las páginas.
 
-- **[Asociar una plantilla a un layout](/es/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
+- **[Asociar una plantilla a un layout](/es/docs/tutorials/asociar-un-template-con-un-layout):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
 
 - **[Gestión de placeholders](/es/docs/tutorials/gestion-de-placeholders):** Un placeholder es un fragmento de código configurable que atiende a las condiciones establecidas por la tienda. Inserta y configura un placeholder, por ejemplo un banner en tu tienda.
 
-- **[Uso de controles nativos de VTEX](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Los controles son fragmentos de código que puedes utilizar en las plantillas de tu sitio web para realizar acciones específicas, por ejemplo, un control en una página de producto para mostrar el nombre del producto en la pantalla.
+- **[Uso de controles nativos de VTEX](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi):** Los controles son fragmentos de código que puedes utilizar en las plantillas de tu sitio web para realizar acciones específicas, por ejemplo, un control en una página de producto para mostrar el nombre del producto en la pantalla.
 
 - **[¿Para qué sirve el Control Personalizado?](/es/docs/tutorials/para-que-serve-o-controle-customizado):** Además de los controles nativos de VTEX, puedes crear tus propios controles.
 
 ### Controles
-- [Lista de controles para templates](/es/tutorial/lista-de-controles-para-templates)
-- [Control de búsqueda - fulltextSearchBox](/es/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
-- [Control de destaque de la colección](/es/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
-- [Control de breadcrumbs](/es/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
-- [Controles de la plantilla de estante](/es/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
+- [Lista de controles para templates](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates)
+- [Control de búsqueda - fulltextSearchBox](https://developers.vtex.com/vtex-rest-api/docs/search-control-fulltextsearchbox)
+- [Control de destaque de la colección](/es/docs/tutorials/control-de-destaque-de-coleccion)
+- [Control de breadcrumbs](/es/docs/tutorials/control-de-breadcrumb)
+- [Controles de la plantilla de estante](https://developers.vtex.com/vtex-developer-docs/docs/shelf-template-controls)

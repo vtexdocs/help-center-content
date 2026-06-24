@@ -25,7 +25,7 @@ Na VTEX, o web site representa a sua loja e é formado por alguns elementos bás
 - [Placeholders](/pt/docs/tutorials/o-que-sao-placeholders): elementos predefinidos que você pode usar para exibir arquivos de conteúdo nas páginas do seu web site.
 - Arquivos: são informações externas que podem ser lidas pelo seu web site, sendo divididas em arquivos de customização (CSS e JavaScript), de organização de dados (.xml) e de conteúdo (imagens ou flash).
 
-Com todos esses elementos configurados, você ainda precisará vincular seu web site a um [account name](/pt/docs/tutorials/o-que-e-account-name) e a uma [política comercial](/pt/tutorial/o-que-e-politica-comercial), em um processo chamado [binding](/pt/docs/tutorials/o-que-e-binding).
+Com todos esses elementos configurados, você ainda precisará vincular seu web site a um [account name](/pt/docs/tutorials/o-que-e-account-name) e a uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial), em um processo chamado [binding](/pt/docs/tutorials/o-que-e-binding).
 
 ### Artigos relacionados
 

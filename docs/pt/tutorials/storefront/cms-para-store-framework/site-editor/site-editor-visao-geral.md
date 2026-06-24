@@ -39,7 +39,7 @@ No Admin VTEX, acesse **Storefront > Site Editor** e confira as principais ferra
 
 Confira os seguintes tutoriais para começar a gerenciar o conteúdo da sua frente de loja:
 
-- [Gerenciando conteúdo de página e template](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37?&utm_source=autocomplete)
+- [Gerenciando conteúdo de página e template](/pt/docs/tutorials/gerenciando-conteudo-de-pagina-e-template)
 - [Melhorando o SEO das Páginas de lista de produtos](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos)
 - [Reutilizando imagens com o Image Widget](/pt/docs/tutorials/image-widget)
 - [Vinculando URLs em banners usando o Site Editor](/pt/docs/tutorials/vinculando-urls-em-banners-usando-o-site-editor)

@@ -30,4 +30,4 @@ Para que sus productos sean enviados al marketplace, es necesario que la políti
 3. Haga clic en el web site deseado.
 4. [Asocie un account name y las políticas comerciales deseadas](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding) a este web site.
 
-Las políticas comerciales configuradas en los pasos anteriores estarán disponibles para el Integraciones de esta tienda específica. Ahora, basta con acceder al Integraciones con el account name de esta tienda (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) y [realizar la configuración](/es/tutorial/integrando-con-marketplace).
+Las políticas comerciales configuradas en los pasos anteriores estarán disponibles para el Integraciones de esta tienda específica. Ahora, basta con acceder al Integraciones con el account name de esta tienda (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) y [realizar la configuración](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).

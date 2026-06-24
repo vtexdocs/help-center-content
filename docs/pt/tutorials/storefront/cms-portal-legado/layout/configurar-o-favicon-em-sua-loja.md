@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado). Para lojas desenvolvidas com Store Framework, siga as instruções da seção **Favicons** no guia [Configurando SEO em sua loja Store Framework](/pt/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR?&utm_source=autocomplete#favicons).
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado). Para lojas desenvolvidas com Store Framework, siga as instruções da seção **Favicons** no guia [Configurando SEO em sua loja Store Framework](/pt/docs/tutorials/configurando-seo-em-sua-loja#favicons).
 
 Favicon é um pequeno ícone associado a um site. Ele é exibido na aba do navegador ao lado do título da página, nos favoritos, nos históricos de navegação e em outros locais onde o endereço do site aparece, como as páginas de resultados de busca.
 

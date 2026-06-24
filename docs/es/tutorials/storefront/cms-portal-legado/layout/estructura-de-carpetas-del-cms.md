@@ -53,7 +53,7 @@ Estas son:
 
 Para estas dos carpetas, lo que importa es el control o placeholder que lee su contenido. Sus nombres se pueden editar libremente.
 
-> ⚠️ > Como son carpetas privadas, `/account` y `/account/orders` **deben requerir autenticación**. Ver [en este artículo](/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar autenticación del usuario.
+> ⚠️ > Como son carpetas privadas, `/account` y `/account/orders` **deben requerir autenticación**. Ver [en este artículo](/es/docs/tutorials/como-crear-una-pagina-personalizada-en-tiendas-cms-legado) cómo asegurarse de que están configuradas para solicitar autenticación del usuario.
 
 ## Carpetas útiles
 
@@ -61,4 +61,4 @@ Hay dos carpetas que, aunque no son tan importantes como las anteriores, suelen 
 
 - `/sistema/buscavazia`: carpeta donde el usuario es dirigido si la búsqueda no encuentra resultados.
 - `/sistema/{codigoHTTP}`: carpeta que renderiza páginas de errores de acuerdo con los códigos de status HTTP, tales como `404` (página no encontrada), `401` (no autorizado) y `500` (error de servidor).
-- `/sistema/marcas`: carpeta que contiene layouts de páginas de marca, que pueden ser personalizadas con un layout exclusivo. Si no hay layout específico para marcas, estas páginas se renderizarán de la misma manera que la carpeta de búsqueda. Para entender cómo funcionan las páginas de marca, consulte el artículo [sobre la búsqueda de VTEX](/es/tutorial/como-funciona-a-vtex-search-legado).
+- `/sistema/marcas`: carpeta que contiene layouts de páginas de marca, que pueden ser personalizadas con un layout exclusivo. Si no hay layout específico para marcas, estas páginas se renderizarán de la misma manera que la carpeta de búsqueda. Para entender cómo funcionan las páginas de marca, consulte el artículo [sobre la búsqueda de VTEX](/es/docs/tutorials/como-funciona-vtex-search-legado).

@@ -21,13 +21,13 @@ This functionality is available for stores using the Legacy Portal technology.
 
 Shelves are configurable elements that display a grouping of products on the pages of your web site. This grouping is defined by the criteria you choose.
 
-Shelves are structured with HTML code, organized into specific [templates](/en/docs/tutorials/what-are-templates), called __Shelves Templates__. They are located in the folder **CMS**, in the [Layout module](/en/faq/what-is-cms). It is in this folder that you may create new templates and edit those that already exist.
+Shelves are structured with HTML code, organized into specific [templates](/docs/tutorials/what-are-templates), called __Shelves Templates__. They are located in the folder **CMS**, in the [Layout module](/docs/tutorials/what-is-cms-layout). It is in this folder that you may create new templates and edit those that already exist.
 
 ![Shelves Templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/what-are-shelves_1.png)
 
 Because it is an element that can be used on more than one page, this special type of template (Shelf Template) is stored in folders that are different from other types (HTML Templates and Sub Templates). This way, it's possible to maintain the organization of the files and, consequently, of your web site's code.
 
 ### Related articles
-- [What is CMS?](/en/faq/what-is-cms)
-- [What is a web site?](/en/docs/tutorials/what-is-a-web-site)
-- [What are templates?](/en/docs/tutorials/what-are-templates)
+- [What is CMS?](/docs/tutorials/what-is-cms-layout)
+- [What is a web site?](/docs/tutorials/what-is-a-web-site)
+- [What are templates?](/docs/tutorials/what-are-templates)

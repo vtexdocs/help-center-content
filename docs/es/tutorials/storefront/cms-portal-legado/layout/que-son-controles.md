@@ -19,7 +19,7 @@ Controles son extractos de código que usted puede utilizar en los templates de 
 
 Por ejemplo, usando el control `<vtex.cmc:productName/>` en una página de producto, el sistema proporcionará el nombre del producto para que se muestre en la pantalla.
 
-Usted puede ver todos los controles nativos disponibles y sus respectivos usos [en este artículo](/es/tutorial/lista-de-controles-para-templates).
+Usted puede ver todos los controles nativos disponibles y sus respectivos usos [en este artículo](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ### Artículos relacionados
 - [¿Qué es un web site?](/es/docs/tutorials/que-es-un-web-site)

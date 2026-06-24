@@ -39,7 +39,7 @@ Após isso, uma nova seção será disponibilizada e você poderá definir atrav
 
 Após preencher todos os campos, não se esqueça de salvar as mudanças feitas clicando em __Save Layout__.
 
-Note que esses critérios se baseiam no ["contexto de busca"](/pt/tutorial/como-funciona-o-contexto-de-busca) da página em que o usuário se encontra, que estão diretamente ligados aos [parâmetros de busca](/pt/tutorial/parametros-de-busca), mas que não necessariamente são definidos manualmente pelo administrador da loja - toda página se enquadra em um contexto de conteúdo automaticamente.
+Note que esses critérios se baseiam no ["contexto de busca"](/pt/docs/tutorials/como-criar-landing-pages-com-urls-customizadas) da página em que o usuário se encontra, que estão diretamente ligados aos [parâmetros de busca](https://developers.vtex.com/docs/guides/how-search-parameters-work), mas que não necessariamente são definidos manualmente pelo administrador da loja - toda página se enquadra em um contexto de conteúdo automaticamente.
 
 Ocorre que as condições ofertadas não estarão presentes em qualquer página:
 
@@ -50,4 +50,4 @@ Sendo assim, não é possível, por exemplo, condicionar produtos específicos a
 
 > ℹ️ De acordo com as condições configuradas, existe uma ordem de prioridade estabelecida para a aplicabilidade do template. A ordenação é, caso exista, template de produto, de categoria e, por último, de marca. Dessa forma, um template condicionado para determinado produto se sobrepõe aquele condicionado à categoria na qual este produto está contido e assim sucessivamente.
 
-Em caso de dúvidas nessa configuração, recomendamos que use o "lid": [Teste de Layout](/pt/faq/como-validar-um-layout-antes-de-ir-para-producao)
+Em caso de dúvidas nessa configuração, recomendamos que use o "lid": [Teste de Layout](https://developers.vtex.com/vtex-developer-docs/docs/validating-a-layout-before-moving-it-to-production)

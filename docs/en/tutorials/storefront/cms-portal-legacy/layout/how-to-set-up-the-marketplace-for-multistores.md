@@ -30,4 +30,4 @@ In order for your products to be sent to the marketplace, the sales channel bein
 3. Click the website.
 4. [Link an account name and the sales channels you want](/en/docs/tutorials/linking-an-account-name-to-a-website-binding) to this website.
 
-The sales channels configured in the steps above will be available for the Integrations of this particular store. Now, just access the Integrations with the account name of this store (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) and [set it up](/en/tutorial/integrating-with-marketplace).
+The sales channels configured in the steps above will be available for the Integrations of this particular store. Now, just access the Integrations with the account name of this store (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) and [set it up](/docs/tutorials/marketplace-strategies-at-vtex).

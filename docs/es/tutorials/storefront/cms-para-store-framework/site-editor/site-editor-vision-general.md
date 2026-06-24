@@ -43,7 +43,7 @@ Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu t
 - [Mejorar el SEO de las Páginas de lista de productos](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos)
 - [Reutilización de imágenes con Image Widget](/es/docs/tutorials/image-widget)
 - [Vinculando las URL en banners utilizando Site Editor](/es/docs/tutorials/vinculando-las-url-en-banners-utilizando-site-editor)
-- [Crear páginas de destino según el binding](/es/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Crear páginas de destino según el binding](/es/docs/tutorials/crear-paginas-de-destino)
 - [Gestionar el contenido según el binding](/es/docs/tutorials/gestionar-el-contenido-segun-el-binding)
 - [Gestionar redirecciones según el binding](/es/docs/tutorials/administrando-redireccionamientos-de-url-por-binding)
 

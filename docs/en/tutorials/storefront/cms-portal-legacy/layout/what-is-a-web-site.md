@@ -25,13 +25,13 @@ In VTEX, the web site represents your store and is formed by some basic elements
 - [Placeholders](/en/docs/tutorials/what-are-placeholders): predefined elements that you can use to display content files on the pages of your web site.
 - Files: external information that can be read by your web site, being divided into customization files (CSS and JavaScript), data organization (.xml) and content (images or flash).
 
-With all these elements configured, you will then need to link your web site to an [account name](/en/tutorial/what-is-the-account-name) and a sales channel, in a process called [binding](/en/docs/tutorials/what-is-binding).
+With all these elements configured, you will then need to link your web site to an [account name](/docs/tutorials/what-is-an-account-name) and a sales channel, in a process called [binding](/docs/tutorials/what-is-binding).
 
 ### Related articles
 
-- [What is the account name?](/en/tutorial/what-is-the-account-name)
-- [What is binding?](/en/docs/tutorials/what-is-binding)
-- [What are templates?](/en/docs/tutorials/what-are-templates)
-- [What are placeholders?](/en/docs/tutorials/what-are-placeholders)
-- [What are layouts?](/en/docs/tutorials/what-are-layouts)
-- [What is CMS?](/en/faq/what-is-cms)
+- [What is the account name?](/docs/tutorials/what-is-an-account-name)
+- [What is binding?](/docs/tutorials/what-is-binding)
+- [What are templates?](/docs/tutorials/what-are-templates)
+- [What are placeholders?](/docs/tutorials/what-are-placeholders)
+- [What are layouts?](/docs/tutorials/what-are-layouts)
+- [What is CMS?](/docs/tutorials/what-is-cms-layout)

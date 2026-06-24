@@ -39,7 +39,7 @@ It is possible to limit the availability of the template to a predetermined peri
 
 After filling in all the needed fields, do not forget to save the changes made by clicking on __Save Layout__.
 
-Please note that these criteria are based on the page's ["search context"](/en/docs/tutorials/how-to-create-landing-pages-with-customized-urls) on which the user is, which is directly tied to the [search parameters](/en/tutorial/--tutorials_567), but that are not necessarily set manually by the store admin - the entire page automatically fits in a content context.
+Please note that these criteria are based on the page's ["search context"](/en/docs/tutorials/how-to-create-landing-pages-with-customized-urls) on which the user is, which is directly tied to the [search parameters](https://developers.vtex.com/docs/guides/how-search-parameters-work), but that are not necessarily set manually by the store admin - the entire page automatically fits in a content context.
 
 It happens that the offered conditions are not present on any page:
 
@@ -50,5 +50,5 @@ Hence, it is not possible to asign conditions to specific product or to differen
 
 > ℹ️ According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
 
-In case of doubt with this set up, we recommend using the lid: [Layout Test](/en/faq/validating-a-layout-before-moving-it-to-production)
+In case of doubt with this set up, we recommend using the lid: [Layout Test](https://developers.vtex.com/docs/guides/validating-a-layout-before-moving-it-to-production)
 

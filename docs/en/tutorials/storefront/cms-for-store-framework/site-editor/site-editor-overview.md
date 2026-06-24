@@ -43,7 +43,7 @@ Check out the following tutorials to start managing your storefront content:
 - [Improving SEO of Product Listing Pages](/en/docs/tutorials/improving-the-seo-of-product-listing-pages)
 - [Reusing images with Image Widget](/en/docs/tutorials/image-widget)
 - [Linking URLs to banners using Site Editor](/en/docs/tutorials/linking-urls-to-banners-using-the-site-editor)
-- [Creating landing pages via binding](/en/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Creating landing pages via binding](/docs/tutorials/creating-landing-pages)
 - [Managing content via binding](/en/docs/tutorials/managing-content-per-binding)
 - [Managing URL redirects via binding](/en/docs/tutorials/managing-redirects-per-binding)
 

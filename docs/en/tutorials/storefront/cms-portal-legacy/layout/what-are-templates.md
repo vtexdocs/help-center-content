@@ -35,9 +35,9 @@ And speaking of organization, you will find all templates in **Storefront > Layo
 ![cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/what-are-templates_1.png)
 
 ### Related articles
-- [What is CMS?](/en/tutorial/what-is-cms)
-- [What is a web site?](/en/docs/tutorials/what-is-a-web-site)
-- [What are placeholders?](/en/docs/tutorials/what-are-placeholders)
-- [What are layouts?](/en/docs/tutorials/what-are-layouts)
-- [What are shelves?](/en/docs/tutorials/what-are-shelves)
-- [Creating a page template](/en/tutorial/creating-a-page-template)
+- [What is CMS?](/docs/tutorials/what-is-cms-layout)
+- [What is a web site?](/docs/tutorials/what-is-a-web-site)
+- [What are placeholders?](/docs/tutorials/what-are-placeholders)
+- [What are layouts?](/docs/tutorials/what-are-layouts)
+- [What are shelves?](/docs/tutorials/what-are-shelves)
+- [Creating a page template](/docs/tutorials/how-to-create-a-page-template)

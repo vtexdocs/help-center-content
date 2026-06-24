@@ -40,4 +40,4 @@ Regarding JS files inserted in the page, it is important to follow certain assum
 
 Remember that we also have the VTEX Speed tool that enables local development with shorter cache time. [Vtex Speed - Download e Execution](https://github.com/vtex/speed)
 
-To investigate possible problems involving CSS, we recommend using the WebDeveloper plugin - look [here](/en/tutorial/tools-to-help-the-performance-of-your-e-commerce/) some tools to improve debugging customization issues.
+To investigate possible problems involving CSS, we recommend using the WebDeveloper plugin - look [here](/docs/tutorials/blocking-customizations-to-troubleshoot-front-end-issues) some tools to improve debugging customization issues.

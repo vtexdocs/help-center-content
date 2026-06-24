@@ -19,8 +19,8 @@ Controls are code snippets that you can use in the templates of your web site to
 
 For example, by using the `<vtex.cmc:productName/>` control on a product page, the system will provide the product name to be displayed on the screen.
 
-You can check all available native controls and their respective uses [in this article](/en/tutorial/list-of-controls-for-templates).
+You can check all available native controls and their respective uses [in this article](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ### Related articles
-- [What is a web site?](/en/docs/tutorials/what-is-a-web-site)
-- [What are templates?](/en/docs/tutorials/what-are-templates)
+- [What is a web site?](/docs/tutorials/what-is-a-web-site)
+- [What are templates?](/docs/tutorials/what-are-templates)

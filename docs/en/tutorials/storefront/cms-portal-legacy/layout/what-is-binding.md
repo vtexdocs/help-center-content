@@ -22,7 +22,7 @@ That is, it sets that an __account name__ (configured in the License Manager mod
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/what-is-binding_1.png)
 
-This is the setting made when an account wants to have more than one store. For each of these stores (which we call [multistores](/en/tutorial/creating-multi-store-multi-domain)), you make a binding.
+This is the setting made when an account wants to have more than one store. For each of these stores (which we call [multistores](/docs/tutorials/managing-a-multistore)), you make a binding.
 
 ### Related articles
-- [Linking an account name to a website (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding)
+- [Linking an account name to a website (binding)](/docs/tutorials/linking-an-account-name-to-a-website-binding)
