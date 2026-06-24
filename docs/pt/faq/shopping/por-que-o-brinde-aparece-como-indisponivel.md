@@ -3,7 +3,7 @@ title: 'Por que o brinde aparece como indisponível?'
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z
-updatedAt: 2019-12-31T14:24:16.980Z
+updatedAt: 2026-06-22T14:24:16.980Z
 publishedAt: 2019-12-31T14:24:16.980Z
 firstPublishedAt: 2017-11-06T13:58:18.517Z
 contentType: frequentlyAskedQuestion
@@ -15,8 +15,10 @@ legacySlug: por-que-o-brinde-aparece-como-indisponivel
 ---
 
 Para ser exibido na loja, todo SKU precisa:
+
 - Ter preço.
 - Ter estoque.
+- Ter imagem.
 - Estar marcado como SKU ativo.
 
 Mesmo que você deseje criar um SKU que ficará disponível para seus clientes apenas como brinde, você precisa ativá-lo na página de cadastro de SKU, no Catálogo. E precisa também cadastrar preço e estoque para ele.

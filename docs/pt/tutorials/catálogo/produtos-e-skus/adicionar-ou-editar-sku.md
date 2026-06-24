@@ -3,7 +3,7 @@ title: 'Adicionar ou editar SKU'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-30T22:21:13.931Z
+updatedAt: 2026-06-23T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -53,7 +53,7 @@ Além disso, uma vez que o SKU seja cadastrado, é possível torná-lo parte de 
 
 Veja nas seções a seguir os campos do formulário e as orientações sobre como preenchê-los.
 
-> ⚠️ Existe um limite de 50 SKUs por produto. Para solicitar que o limite seja ampliado, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+> ⚠️ Existe um limite de 50 SKUs por produto. Para solicitar que o limite seja ampliado, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
 
 ## Nome e status
 
@@ -183,8 +183,8 @@ Esta seção inclui os campos relacionados às estratégias de venda da loja:
 
 * **Condição comercial:** define quais promoções ou [condições de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento) devem ser válidas para o SKU. Caso não queira optar por uma condição comercial, selecione a opção `Padrão`. Saiba mais no artigo [Cadastrar condição comercial](/pt/docs/tutorials/como-cadastrar-condicao-comercial).
 * **Data de pré-venda:** atribui ao SKU uma data de pré-venda, ou seja, uma data prevista para a chegada do item nas lojas e sua disponibilização para venda. Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o [cálculo do envio](/pt/docs/tutorials/como-funciona-o-calculo-de-envio) do item para os clientes.
-* **Gerar crédito em vale-presente:** quando ativado, define que a venda do SKU para o cliente deve resultar em um crédito do tipo [vale-presente](/pt/docs/tutorials/gift-card).
-* **Valor fidelidade**: crédito que o cliente recebe ao concluir uma compra de 1 unidade de determinado SKU. Por exemplo, preenchendo este campo com o valor R$1,00, o cliente que adquirir este SKU vai obter um crédito de R$1,00 na loja para compras futuras.
+* **Gerar crédito em vale-presente:** quando habilitado, indica que o SKU é um item de uma lista de presentes.
+* **Valor fidelidade:** crédito que o cliente recebe ao concluir uma compra de 1 unidade de determinado SKU. Por exemplo, preenchendo este campo com o valor R$1,00, o cliente que adquirir este SKU vai obter um crédito de R$1,00 na loja para compras futuras.
 
 ## Customizações
 

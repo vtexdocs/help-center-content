@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Implementação de frontend'
 id: 67SCtUreXxKYWhZh8n0zvZ
 status: PUBLISHED
@@ -64,7 +64,7 @@ A tabela a seguir apresenta algumas das principais funcionalidades da FastStore:
 | [FastStore UI](https://www.faststore.dev/components) | Biblioteca de componentes para ecommerce que fornece recursos e estilo básico, tornando mais rápida a implementação e personalização de frentes de loja. |
 | Tecnologia *headless* | Processo de customização que separa o código da loja desenvolvido pelo time de desenvolvimento do código base fornecido pela VTEX. Isso simplifica as atualizações do frontend da loja, permitindo atualizações sem impactar o código customizado. |
 | Integração com o [GitHub](https://github.com/) | Os times de desenvolvimento podem gerenciar todo o código da frente de loja utilizando o [GitHub](https://github.com/). |
-| [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview) | Sistema de gerenciamento de conteúdo (CMS) que permite a edição e criação de novas páginas e a pré-visualização de mudanças no conteúdo. |
+| [Headless CMS (Legacy)](https://www.faststore.dev/docs/headless-cms-overview) | Sistema de gerenciamento de conteúdo (CMS) que permite a edição e criação de novas páginas e a pré-visualização de mudanças no conteúdo. |
 | Verificações automatizadas | Testes funcionais e a avaliação da performance da loja e da qualidade do código são executados continuamente de forma automatizada para detectar lentidão e bugs durante todo o estágio de desenvolvimento da frente de loja. |
 | Integração com [Intelligent Search](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account) | Funcionalidade de preenchimento automático na barra de pesquisa, juntamente com sugestões de pesquisa e produtos com base em preferências configuráveis. |
 | Integrações com [Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout), [Minha Conta](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account) e [Login](https://www.faststore.dev/docs/go-live/3-integrating-the-the-vtex-login) | Integração com outras etapas da jornada de compra dos clientes. Lojas VTEX previamente desenvolvidas com o Store Framework podem manter configurações relacionadas ao Checkout, Minha Conta e Login quando migradas para a FastStore, pois ambas se beneficiam da mesma infraestrutura. |
@@ -198,7 +198,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     <tr>
         <td>Sistema de Gerenciamento de Conteúdo (CMS)</td>
         <td>Compatível com o [Site Editor](/pt/docs/tutorials/site-editor-visao-geral).</td>
-        <td>Compatível com o [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
+        <td>Compatível com o [Headless CMS (Legacy)](https://www.faststore.dev/docs/headless-cms-overview).</td>
     </tr>
 </table>
 
@@ -235,10 +235,10 @@ São apresentados a seguir os requisitos para cada tema:
   - [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 - VTEX Intelligent Search
   - [Integrar a app de Intelligent Search na conta](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
-- Integração com Headless CMS
-  - [Configurar o Headless CMS na conta](https://www.faststore.dev/docs/headless-cms-integration/1-configuring-the-vtex-account)
+- Integração com Headless CMS (Legacy)
+  - [Configurar o Headless CMS (Legacy) na conta](https://www.faststore.dev/docs/headless-cms-integration/1-configuring-the-vtex-account)
   - [Definir content types e seções que estarão disponíveis](https://www.faststore.dev/docs/headless-cms-integration/2-setting-up-the-headless-cms)
-  - Criar e editar páginas usando o Headless CMS no Admin VTEX
+  - Criar e editar páginas usando o Headless CMS (Legacy) no Admin VTEX
 - Página Home
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Página de Login

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Go-live your store'
 id: 1iP90RcJvlrfQhnlxM54wo
 status: PUBLISHED
@@ -35,7 +35,7 @@ Copy this [Store configuration checklist](https://cdn.statically.io/gh/vtexdocs/
 
 Your store's go-live process may vary depending on some aspects of your operation. As some steps are time-sensitive, we recommend you plan your go-live process at least 15 days in advance.
 
-> ℹ️ If you use the Legacy CMS Portal and want to migrate to a storefront built using [CMS IO](/en/docs/tracks/cms-vtex-io), follow the instructions in the [Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io) guide.
+> ℹ️ If you use the CMS Portal (Legacy) and want to migrate to a storefront built using [CMS IO](/en/docs/tracks/cms-vtex-io), follow the instructions in the [Migrating your storefront from CMS Portal (Legacy) to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io) guide.
 
 For organization and convenience, this guide divides the steps involved in the go-live into four stages:
 

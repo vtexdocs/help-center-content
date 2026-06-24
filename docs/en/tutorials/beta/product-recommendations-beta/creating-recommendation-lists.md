@@ -9,7 +9,7 @@ slugEN: creating-recommendation-lists
 locale: en
 ---
 
-> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the [contact form](https://vtex.com/en-us/contact-us).
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [Commercial Support](https://help.vtex.com/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 Creating recommendation lists allows you to define different strategies for displaying relevant products to consumers. Each list uses a recommendation strategy and is displayed in a specific position in the store.
 
@@ -34,18 +34,12 @@ To create a recommendation list in the VTEX Admin, follow the steps below:
 3. In the drawer, click the strategy for your recommendation list:
 
    - **Recommended for you:** Products that match buyer behavior and preferences.
-
-   - **Similar products:** Alternatives with similar purpose or attributes.
-
    - **Recently viewed:** Products the buyer has interacted with recently.
-
-   - **Most popular:** Products with the highest number of page views.
-
    - **Bought together:** Frequently bought with the currently viewed product.
-
-   - **Manual collection:** Custom product group curated by the merchant.
-
+   - **Similar products:** Alternatives with similar purpose or attributes.
    - **Visually similar products:** Items that resemble the current product in appearance.
+   - **Bestsellers:** Products with the highest conversion rate based on recent sales performance.
+   - **Manual collection:** Custom product group curated by the merchant.
 
    > ℹ️ Learn more about the available strategies in [Product Recommendations (Beta)](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta).
 
@@ -57,7 +51,24 @@ To create a recommendation list in the VTEX Admin, follow the steps below:
 
    ![create-recommendation-list-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/creating-recommendation-lists_2.png)
 
-5. After completing all information, click the `Create` button to save the recommendation list.
+   If the strategy is **Manual collection**, complete the following:
+
+   - **Products:** Enter the name of the [collection created in the Catalog](https://help.vtex.com/en/docs/tutorials/creating-collections-beta), with the collection ID in parentheses.
+   - **Sorting:** Select how recommended products are ordered:
+
+     - Best sellers
+     - Highest price
+     - Lowest price
+     - Name A–Z
+     - Name Z–A
+     - Release date (most recent)
+     - Highest discount
+
+5. Check the recommendation preview to validate the results before saving.
+
+   If the chosen strategy is **Frequently bought together**, **Similar products**, or **Visually similar products**, you must select a reference product to generate the preview.
+
+6. Click the `Create` button to save the recommendation list.
 
    The confirmation message _List created successfully_ will be displayed. From this moment on, the list will be available for implementation in the storefront.
 
@@ -79,9 +90,9 @@ After creating the list, you'll need the list ID to add it to your storefront. F
 
 Use the [copied ID](#copy-list-id) to add the recommendation shelf to your store pages.
 
-- For **Store Framework**, see the [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) component documentation.
-- For **FastStore or Headless**, see the guide [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
-- For **Mobile** applications, see the guide [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).
+- For Store Framework, see the [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf) component documentation.
+- For FastStore or Headless stores, see the guide [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
+- For Mobile applications, see the guide [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).
 
 ## Monitoring performance
 

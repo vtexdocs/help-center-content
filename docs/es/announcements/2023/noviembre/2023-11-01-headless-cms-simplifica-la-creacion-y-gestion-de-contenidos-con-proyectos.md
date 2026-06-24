@@ -1,5 +1,5 @@
----
-title: 'Headless CMS: simplifica la creación y gestión de contenidos con Proyectos'
+﻿---
+title: 'Headless CMS (Legacy): simplifica la creación y gestión de contenidos con Proyectos'
 id: 6pl14hf2E6sNgR9ykCJkj8
 status: PUBLISHED
 createdAt: 2023-11-01T16:39:47.055Z
@@ -12,10 +12,10 @@ slugEN: 2023-11-01-headless-cms-simplify-content-creation-and-management-with-pr
 locale: es
 legacySlug: headless-cms-simplifica-la-creacion-y-gestion-de-contenidos-con-proyectos
 announcementImageID: 'undefined'
-announcementSynopsisES: 'Headless CMS - Administre sus proyectos de manera centralizada y personalizada.'
+announcementSynopsisES: 'Headless CMS (Legacy) - Administre sus proyectos de manera centralizada y personalizada.'
 ---
 
-**Proyectos** es una nueva funcionalidad en Headless CMS que agiliza la gestión de múltiples experiencias digitales, tales como aplicaciones móviles, sitios web y email marketing desde un solo dashboard.
+**Proyectos** es una nueva funcionalidad en Headless CMS (Legacy) que agiliza la gestión de múltiples experiencias digitales, tales como aplicaciones móviles, sitios web y email marketing desde un solo dashboard.
 
 ![Projects overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/noviembre/2023-11-01-headless-cms-simplifica-la-creacion-y-gestion-de-contenidos-con-proyectos_1.png)
 
@@ -38,5 +38,5 @@ La interfaz **Proyectos** implementa las siguientes mejoras:
 - Atención efectiva a públicos u objetivos específicos mediante proyectos separados.
 
 ## ¿Qué se necesita hacer?
-Esta funcionalidad ya está disponible para todas las cuentas que tienen la aplicación Headless CMS instalada. Consulta la guía [Gestionar proyectos](/es/docs/tutorials/gestionar-proyectos) para más información sobre cómo utilizar la funcionalidad.
+Esta funcionalidad ya está disponible para todas las cuentas que tienen la aplicación Headless CMS (Legacy) instalada. Consulta la guía [Gestionar proyectos](/es/docs/tutorials/gestionar-proyectos) para más información sobre cómo utilizar la funcionalidad.
 

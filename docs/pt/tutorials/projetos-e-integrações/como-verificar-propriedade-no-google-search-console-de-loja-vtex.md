@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Verificar propriedade no Google Search Console para loja VTEX'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
@@ -30,7 +30,7 @@ Para habilitar o acesso, confira as instruções neste tutorial.
 5. Escolha o método de instalação de acordo com a tecnologia da sua loja:
 
 - [Store Framework](#store-framework)
-- [Legacy CMS Portal](#legacy-cms-portal)
+- [CMS Portal (Legacy)](#legacy-cms-portal)
 
 ### Store Framework
 
@@ -51,7 +51,7 @@ Para habilitar o acesso, confira as instruções neste tutorial.
 9. Clique `SALVAR`.
 10. Volte no  [Google Search Console](https://search.google.com/search-console) e clique `VALIDAR`. A verificação dará acesso aos dados de indexação da loja.
 
-### Legacy CMS Portal
+### CMS Portal (Legacy)
 
 1. No Admin VTEX, acesse **Storefront > Layout**.
 2. Acesse a pasta `CMS > HTML Templates` e clique no arquivo `Home`.
