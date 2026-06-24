@@ -1,4 +1,4 @@
----
+﻿---
 title: "O novo VTEX CMS já está disponível na lista de espera"
 excerpt: ""
 createdAt: 2025-12-15T17:08:52.219Z
@@ -30,7 +30,7 @@ Está aberta a lista de espera para o novo [VTEX CMS](https://help.vtex.com/en/d
 
 ## O que mudou?
 
-O novo CMS substitui o [Headless CMS (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) e oferece uma experiência significativamente aprimorada tanto para equipes de negócio quanto para equipes técnicas. Com o CMS, os lojistas agora podem:
+O novo CMS substitui o [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) e oferece uma experiência significativamente aprimorada tanto para equipes de negócio quanto para equipes técnicas. Com o CMS, os lojistas agora podem:
 
 * Criar, gerar, gerenciar e publicar conteúdo no storefront mais rapidamente com uma **interface assistida por IA**.  
 * Evoluir o conteúdo usando **versionamento avançado, histórico de versões e recursos de rollback**.  

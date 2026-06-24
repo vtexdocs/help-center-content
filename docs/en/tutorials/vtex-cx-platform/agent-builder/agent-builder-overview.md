@@ -3,7 +3,7 @@ title: "Agent Builder - Overview"
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2025-09-08T16:21:28.723Z
+updatedAt: 2026-06-15T00:00:00.000Z
 publishedAt: 2025-09-08T16:21:28.723Z
 firstPublishedAt: 2025-07-29T16:45:36.827Z
 contentType: tutorial
@@ -16,159 +16,155 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 order: 1
 ---
 
-**Agent Builder** is a customer conversation tool powered by artificial intelligence. With this feature, you can customize agents to interact with customers, letting them request information about orders in progress, the store catalog, or order cancellations, for example.
+**Agent Builder** is a customer conversation tool based on artificial intelligence. Using this feature, you can customize agents to interact with your customers, allowing them to request information about an ongoing order, your store catalog, and order cancellation, for example.
 
-The feature focuses on an orchestrator agent, which is the point of contact with the customer and controls the chat. This orchestrator triggers collaborating agents that return data and information based on the user's needs.
+The feature is centered on an orchestrator agent (or manager), which is the customer's point of contact and takes control of the chat. This orchestrator triggers collaborator agents that return data and information based on user needs.
 
-> ℹ️ Learn more about collaborating agents in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
+> ℹ️ To learn more about collaborator agents, read the article [Official VTEX CX Platform agents](https://help.vtex.com/docs/tutorials/official-agents-from-vtex-cx-platform).
 
-Besides assigning and testing these agents, you can also create your own agents to meet your company’s specific needs.
+In addition to assigning and testing these agents, you can also create custom agents that meet your business's specific needs.
 
-> ⚠️ To create custom agents, use the VTEX CX Platform (Weni) CLI. See the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) for instructions.
+> ⚠️ To create custom agents, use the VTEX CX Platform CLI. Check the [documentation](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) to create your own agent.
 
 ## Agent Builder
 
-To access **Agent Builder**, select the organization on the VTEX CX Platform homepage and then the project you want to manage. In the side menu, click **Agent Builder**.
+To access **Agent Builder**, select the Organization on the VTEX CX Platform home page and then select the project you want to manage.
 
-You can access the following pages in **Agent Builder:**
+In **Agent Builder**, the following pages are available:
 
-- [**Supervisor**](#supervisor)
-- [**Profile**](#profile)
-- [**Agents**](#agents)
-- [**Knowledge**](#knowledge)
-- [**Adjustments**](#adjustments)
+- [**My agents**](#my-agent)
+- [**Knowledge base**](#knowledge-base)
+- [**Automation flow**](#automation-flow)
 
-### Supervisor
+### My agents
 
-On this page, you can review and analyze conversations between agents and customers. It's divided into two sections:
+On this page, you can assign and test agents for your store, as well as edit the manager and the instructions it must follow.
 
-- **Assisted by an agent**
-- **Transferred to human support**
+To understand how to assign agents, read the article [Assigning and testing agents](https://help.vtex.com/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
 
-The **Assisted by an agent** section shows the percentage of conversations answered and resolved by agents. The **Transferred to human support** section shows the percentage of interactions that had to be forwarded to humans.
+#### Edit manager
 
-In the <i class="fas fa-search" aria-hidden="true"></i>`Search` field, you can search for conversations and view the results.
+The **Editar Manager** option for the orchestrator agent has the following tabs:
 
-At the top of the page, you'll find interaction dates. You can click a date to change the time range and filter the results.
+- [Profile](#profile)
+- [Engine](#engine)
 
-## Profile
+##### Profile
 
-This page contains customizable fields to define your orchestrator agent's identity and behavior.
+On this tab, you'll find customizable fields to personalize the identity and behavior of your orchestrator agent.
 
-To customize your agent, use the following fields:
+To customize your agent, complete the following fields:
 
-- **How does the agent introduce itself?:** Name of the agent that will be displayed to customers.
-- **What's the main role of the agent?:** Main role of the agent to help users understand the agent's specialty (example: Assistant).
-- **What's the main goal of the agent?:** Main goal of the agent (example: assisting with questions).
-- **What's the agent's tone of voice?:** Tone of voice the agent will use to communicate with users. Click this field and select one of the predefined tones from the dropdown menu.
+- **What name does the agent use to introduce himself?:** Agent name that will be displayed to customers.
+- **What's the main role of the agent?:** Agent's main role so users understand its specialty (for example: customer service representative).
+- **What's the main goal of the agent?:** Agent's main objective (for example: help answer questions).
+- **What's the agent's tone of voice?:** Tone of voice the agent will use to communicate with users. Select one of the predefined tones of voice.
 
 Read the detailed description of each tone of voice below:
 
-| Agent tone of voice | Description                                                                                                                                                                          |
-| :-----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      Friendly       | Engages warmly and welcomingly, making the customer feel comfortable while creating a connection based on empathy and understanding.                                                 |
-|     Cooperative     | Works alongside the customer to find solutions. Prioritizes teamwork and is focused on ensuring the customer's needs are met with minimal effort.                                    |
-|      Outgoing       | Has a lively and expressive personality, communicates openly and enthusiastically. Always motivated and positive during interactions, making conversations dynamic and engaging.     |
-|      Generous       | Offers additional information and resources that may be useful, even before being asked.                                                                                             |
-|       Relaxed       | Stays laid-back and calm in challenging situations. Maintains pleasant conversations and gives the customer enough time to process information and make decisions.                   |
-|      Organized      | Presents all information clearly and accessibly. It's methodical and efficient, and guides the customer through each step in a logical way so that no detail is overlooked.          |
-|     Systematic      | Has a clear and well-structured method, following defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and support. |
-|     Innovative      | Proposes new solutions and presents creative, effective ideas when faced with problems or challenges.                                                                                |
-|      Creative       | Uses imagination to communicate. Capable of providing unique responses and adapting language to make content more relevant and engaging for the customer.                            |
-|    Intellectual     | Provides detailed and informed responses. Provides an in-depth explanation based on facts and logic to meet the needs of customers seeking clarity and understanding.                |
+| Agent tone of voice | Description |
+| --- | :--- |
+| Friendly | Interacts warmly and welcomingly, making the customer feel comfortable and welcome, establishing a connection with empathy and understanding. |
+| Systematic | With a clear and well-structured method, follows defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and customer support. |
+| Analytical | Ensures all information is displayed clearly and accessibly. It is logical and objective, guiding the customer through each step methodically so that no detail is missed. |
+| Creative | Uses imagination to communicate, prioritizing original solutions. It is capable of offering differentiated responses and adapting language to make the content more relevant and engaging for the customer. |
+| Casual | Is light, energetic, and informal. Maintains a more accessible and human tone. |
 
-In the **General instructions** section, you can add direct instructions for your agent, defining how it should behave.
+##### Engine
 
-If you added an instruction and want to delete it, click the <i class="far fa-trash-alt" aria-hidden="true"></i> trash button next to the instruction. A message will be displayed asking if you want to remove the instruction. Click `Remove` to delete it or `Cancel` to keep it.
+In **Engine source**, you can select the VTEX CX Platform native agent model or an LLM model for which you have a registered API Key. If you want to use the external model, select the **Own API key** option and complete the fields below:
 
-> ℹ️ There's no limit to the number of instructions.
+- **Provider**: Company that owns the model.
+- **Model**: Available version of the model.
+- **API Key**: Your API key registered with the model provider.
 
-At the end, click the `Save changes` button in top-right corner of the screen to save your agent's settings.
+> ℹ️ To activate any changes made to the information on the **Profile** or **Engine** tabs, you must click `Save changes`.
 
-## Agents
+If you selected the platform's native engine, you can choose between two orchestrator agent options in **Manager version**:
 
-On this page, you can assign and test agents for your store.
+- **Manager 2.7** (Recommended).
+- **Manager 2.6** (Legacy model).
 
-To learn how to do this, see the article [Assigning and testing agents](/en/docs/tutorials/assigning-and-testing-agents-in-agent-builder).
+In **Agent preview**, there are two possible settings:
 
-## Knowledge
+- **Multiple message format:** Turn it on <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, such as quick replies, lists, catalog. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-On this page, you can add files, websites, and texts to your agent's knowledge base. Agents will use the details from these documents to respond to users.
+- **Agent progressive feedback:** Turn it on <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-### Files
+#### Edit instructions
+
+By clicking the `Edit instructions` button for the orchestrator agent, you access the **Instructions** page, where you can add direct instructions to determine how your agent behaves. There is no limit to the number of instructions that can be created.
+
+##### AI validation
+
+When creating custom instructions, you can request AI validation, which will analyze each one and indicate possible issues or points for improvement. Additionally, you can also request an automatic suggestion, which will review the instruction and edit it as needed.
+
+To use AI instruction validation when creating an instruction, follow these steps:
+
+1. Turn on the <i class="fas fa-toggle-on" aria-hidden="true"></i> **Validate instruction by AI** button.
+2. Enter your instruction in **New custom instruction** and click `Validate instruction`.
+3. After the instruction analysis, if the result is **No problems found. Ready to publish!**, click `Publish`.
+
+> ⚠️ If a warning message appears in **Validation results**, correct the instruction according to the displayed guidance and click `Re-validate`.
+
+> ℹ️ You can create a new custom instruction without AI validation. To perform this action, turn off the **Validate instruction with AI** option, enter the instruction, and click `Publish instruction`.
+
+##### Instruction list
+
+In the **Instruction list**, you can check the following information:
+
+- **Custom instructions**: Instructions created for the agent. You can locate them using the search bar or copy them by clicking the `Copy instructions` button.
+
+- **Default instructions**: Behaviors defined by the platform. These instructions cannot be edited.
+
+- **Safety topics**: Subjects not mentioned by the agent during a service interaction. These topics cannot be edited.
+
+To edit or remove a custom instruction, follow these steps:
+
+1. Click the three-dot button <i class="fas fa-ellipsis-v" aria-hidden="true"></i> next to the desired instruction.
+2. To edit it, click `Edit instruction`, make the necessary changes, and click `Save`.
+3. To delete it, click `Delete instruction` and then click `Delete`.
+
+### Knowledge base
+
+On this page, you can add [files](#files), [sites](#sites) and [texts](#texts) to your agent's knowledge base. Agents will use the data from these documents to respond to users.
+
+#### Files
 
 To add a file to the database, click <i class="fas fa-plus" aria-hidden="true"></i>`Add file`.
 
-> ⚠️ Files can only be uploaded if they have a `.pdf`, `.doc`, `.docx`, `.txt`, `. xls` or `.xlsx` extension and are no larger than 50 MB.
+> ⚠️ Files must have extension `.pdf`, `.doc`, `.docx`, `.txt`, `.xls` or `.xlsx` and be up to 50 MB in size.
 
-By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the file's name, you can:
+By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> three dots next to the file name, you can:
 
-- View details (such as the date the file was added and its content).
 - Download the file.
-- Remove the file.
+- Remove the file from the knowledge base.
 
-You can also use the search field to find a file.
+You can also use the search field to find a file in the knowledge base.
 
-### Sites
+#### Sites
 
-To add a website to the agent's database, follow these instructions:
+To insert a site into the agent's database, follow these steps:
 
 1. Click <i class="fas fa-plus" aria-hidden="true"></i>`Add site`.
-2. Copy the URL of the site you want to add and paste it into the empty field.
+2. Next, copy the URL of the site you want to add and paste it into the empty field.
 3. Click `Done`.
 
-By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> vertical ellipsis next to the website, you can:
+By clicking the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> three dots next to the site, you can:
 
-- View details (such as the date the website was added and its content).
-- Go to the website.
-- Remove the website.
+- Access the site.
+- Remove the site from the knowledge base.
 
-You can also use the search field to find a website.
+You can also use the search field to find a site in the knowledge base.
 
-### Texts
+#### Texts
 
-On this page, you can add content and information in the **Write content** text box.
+On this page, you can insert content and information in the **Write content** text box.
 
-After entering a text, click `Save changes`.
+After inserting a text, click `Save`.
 
-## Adjustments
+### Automation flow
 
-On this page, you can change your agents' settings.
+You can create automation flows to interact with a group of users and determine agent responses based on user messages.
 
-### Settings
-
-Below **Agent preview,** there are two toggles:
-
-- **Agent progressive feedback:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-- **Multiple message format:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, like quick replies, lists, and catalogs. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-Below **Human support,** there's a toggle switch:
-
-- **Human support:** Activate it <i class="fas fa-toggle-on" aria-hidden="true"></i> for the agent to transfer conversations to a human. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-
-In the **When should the agent transfer the conversation to a human?** text box, add a phrase or example that indicates when the agent should transfer a conversation.
-
-### Credentials
-
-In this section, you can view the credentials used by official and custom agents.
-
-> ℹ️ Learn more about this topic in the article [Official VTEX CX Platform agents](/en/docs/tutorials/official-agents-from-vtex-cx-platform).
-
-### Change history
-
-In this section, you can view the changes made to the agents, who made them, and the date of these changes.
-
-The logs indicate:
-
-- Addition, update, or removal of instruction.
-- Addition, change, or removal of knowledge content.
-- Changes to the agent's name, role, or goal.
-
-You can also use the filter box on the right to view by type of change, such as:
-
-- All changes
-- Custom changes
-- Content changes
-- Action changes
-- Settings changes
+For more information, access [Automation flow overview](https://help.vtex.com/docs/tutorials/automation-flow-overview).

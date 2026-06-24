@@ -33,7 +33,7 @@ The native connector used for integrating with Facebook must be configured in th
 
 - **Business Manager ID*:** code assigned to your profile on Facebook Business Manager. It’s a number sequence. It can be found in the account settings.
 - **Store URL*:** your store website. This field is used to generate the complete URL of the product that will be submitted to Facebook.
-<br></br>
+
 Example: `https://www.yourstore.com`
 
 - **Category*:** all the products sent to Facebook must belong to a category. There are two ways to identify your product category:
