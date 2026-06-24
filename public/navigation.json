@@ -35587,8 +35587,8 @@
                     {
                       "name": {
                         "en": "Activating the product zoom in the page template",
-                        "es": "Activar el zoom del producto en el template de p├ígina",
-                        "pt": "Ativar o zoom do produto no template de p├ígina"
+                        "es": "Activar el zoom del producto en el template de página",
+                        "pt": "Ativar o zoom do produto no template de página"
                       },
                       "slug": {
                         "en": "activating-the-product-zoom-in-the-page-template",
@@ -35602,8 +35602,8 @@
                     {
                       "name": {
                         "en": "Adding collections CMS",
-                        "es": "Registrar una colecci├│n CMS",
-                        "pt": "Cadastro de Cole├º├╡es CMS"
+                        "es": "Registrar una colección CMS",
+                        "pt": "Cadastro de Coleções CMS"
                       },
                       "slug": {
                         "en": "adding-collections-cms",
@@ -35647,8 +35647,8 @@
                     {
                       "name": {
                         "en": "Buy button control (BuyButton)",
-                        "es": "Control del bot├│n de compra (BuyButton)",
-                        "pt": "Controle do bot├úo de compra (BuyButton)"
+                        "es": "Control del botón de compra (BuyButton)",
+                        "pt": "Controle do botão de compra (BuyButton)"
                       },
                       "slug": {
                         "en": "buy-button-control",
@@ -35662,8 +35662,8 @@
                     {
                       "name": {
                         "en": "Change a placeholder title",
-                        "es": "Cambiar t├¡tulo de un placeholder",
-                        "pt": "Alterar t├¡tulo de um placeholder"
+                        "es": "Cambiar título de un placeholder",
+                        "pt": "Alterar título de um placeholder"
                       },
                       "slug": {
                         "en": "change-a-placeholder-title",
@@ -35692,8 +35692,8 @@
                     {
                       "name": {
                         "en": "Changing a page's body class",
-                        "es": "Cambiar la clase del body de una p├ígina",
-                        "pt": "Mudar classe do body de uma p├ígina"
+                        "es": "Cambiar la clase del body de una página",
+                        "pt": "Mudar classe do body de uma página"
                       },
                       "slug": {
                         "en": "changing-a-pages-body-class",
@@ -35707,8 +35707,8 @@
                     {
                       "name": {
                         "en": "Changing the pages of the site to HTTPS protocol",
-                        "es": "Cambiar las p├íginas del sitio al protocolo HTTPS",
-                        "pt": "Alterar as p├íginas do site para o protocolo HTTPS"
+                        "es": "Cambiar las páginas del sitio al protocolo HTTPS",
+                        "pt": "Alterar as páginas do site para o protocolo HTTPS"
                       },
                       "slug": {
                         "en": "how-do-i-use-the-https-protocol-on-my-stores-pages",
@@ -35737,8 +35737,8 @@
                     {
                       "name": {
                         "en": "Collection highlight control",
-                        "es": "Control de destaque de colecci├│n",
-                        "pt": "Controle de destaque de cole├º├úo"
+                        "es": "Control de destaque de colección",
+                        "pt": "Controle de destaque de coleção"
                       },
                       "slug": {
                         "en": "collection-highlight-control",
@@ -35753,7 +35753,7 @@
                       "name": {
                         "en": "Configuring an XML domain",
                         "es": "Configurar dominio del XML",
-                        "pt": "Configurar dom├¡nio do XML"
+                        "pt": "Configurar domínio do XML"
                       },
                       "slug": {
                         "en": "configuring-an-xml-domain",
@@ -35812,8 +35812,8 @@
                     {
                       "name": {
                         "en": "Creating a custom page in Legacy CMS stores",
-                        "es": "C├│mo crear una p├ígina personalizada en tiendas CMS Legado",
-                        "pt": "Como criar uma p├ígina customizada em lojas CMS Legado"
+                        "es": "Cómo crear una página personalizada en tiendas CMS Legado",
+                        "pt": "Como criar uma página customizada em lojas CMS Legado"
                       },
                       "slug": {
                         "en": "creating-a-custom-page-in-legacy-cms-stores",
@@ -35827,8 +35827,8 @@
                     {
                       "name": {
                         "en": "Creating a development environment for mobile version",
-                        "es": "Crear ambiente de desarrollo de versi├│n mobile",
-                        "pt": "Criar um ambiente de desenvolvimento de vers├úo mobile"
+                        "es": "Crear ambiente de desarrollo de versión mobile",
+                        "pt": "Criar um ambiente de desenvolvimento de versão mobile"
                       },
                       "slug": {
                         "en": "how-to-create-a-development-environment-with-a-mobile-version",
@@ -35872,8 +35872,8 @@
                     {
                       "name": {
                         "en": "Creating and editing a page template",
-                        "es": "Crear o editar un template de p├ígina",
-                        "pt": "Criar e editar um template de p├ígina"
+                        "es": "Crear o editar un template de página",
+                        "pt": "Criar e editar um template de página"
                       },
                       "slug": {
                         "en": "how-to-create-a-page-template",
@@ -35902,8 +35902,8 @@
                     {
                       "name": {
                         "en": "Defining Window Displays",
-                        "es": "Definici├│n de Vitrinas",
-                        "pt": "Defini├º├úo de Vitrines"
+                        "es": "Definición de Vitrinas",
+                        "pt": "Definição de Vitrines"
                       },
                       "slug": {
                         "en": "defining-window-displays",
@@ -35947,8 +35947,8 @@
                     {
                       "name": {
                         "en": "Filling out Collection fields",
-                        "es": "Rellenar campos de registro de Colecci├│n",
-                        "pt": "Preencher campos de cadastro de Cole├º├úo"
+                        "es": "Rellenar campos de registro de Colección",
+                        "pt": "Preencher campos de cadastro de Coleção"
                       },
                       "slug": {
                         "en": "filling-out-collection-registration-fields",
@@ -35962,8 +35962,8 @@
                     {
                       "name": {
                         "en": "How do I know what page of the system is being rendered on the site?",
-                        "es": "┬┐C├│mo saber qu├⌐ p├ígina del sistema se est├í representando en el sitio?",
-                        "pt": "Como saber qual p├ígina do sistema est├í sendo renderizada no site?"
+                        "es": "¿Cómo saber qué página del sistema se está representando en el sitio?",
+                        "pt": "Como saber qual página do sistema está sendo renderizada no site?"
                       },
                       "slug": {
                         "en": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site",
@@ -35977,7 +35977,7 @@
                     {
                       "name": {
                         "en": "How does the Score field work?",
-                        "es": "┬┐C├│mo funciona el campo Puntuaci├│n?",
+                        "es": "¿Cómo funciona el campo Puntuación?",
                         "pt": "Como funciona o campo Score?"
                       },
                       "slug": {
@@ -35992,8 +35992,8 @@
                     {
                       "name": {
                         "en": "How inventory availability works on the product page",
-                        "es": "C├│mo funciona la disponibilidad de inventario en la p├ígina de producto",
-                        "pt": "Como funciona a disponibilidade de estoque na p├ígina de produto"
+                        "es": "Cómo funciona la disponibilidad de inventario en la página de producto",
+                        "pt": "Como funciona a disponibilidade de estoque na página de produto"
                       },
                       "slug": {
                         "en": "how-inventory-availability-works-on-the-product-page",
@@ -36007,7 +36007,7 @@
                     {
                       "name": {
                         "en": "How Search Navigator control works",
-                        "es": "C├│mo funciona el control Search Navigator",
+                        "es": "Cómo funciona el control Search Navigator",
                         "pt": "Como funciona o controle Search Navigator"
                       },
                       "slug": {
@@ -36022,8 +36022,8 @@
                     {
                       "name": {
                         "en": "How the relationship between websites and sales policies works",
-                        "es": "C├│mo funciona la relaci├│n entre websites y pol├¡ticas comerciales",
-                        "pt": "Como funciona a rela├º├úo entre websites e pol├¡ticas comerciais"
+                        "es": "Cómo funciona la relación entre websites y políticas comerciales",
+                        "pt": "Como funciona a relação entre websites e políticas comerciais"
                       },
                       "slug": {
                         "en": "how-the-relationship-between-websites-and-business-policies-works",
@@ -36037,7 +36037,7 @@
                     {
                       "name": {
                         "en": "How to create landing pages with customized URLs",
-                        "es": "C├│mo crear landing pages con URLs personalizadas",
+                        "es": "Cómo crear landing pages con URLs personalizadas",
                         "pt": "Como criar landing pages com URLs customizadas"
                       },
                       "slug": {
@@ -36052,8 +36052,8 @@
                     {
                       "name": {
                         "en": "How to customize a page using placeholders",
-                        "es": "Personalizar una p├ígina usando placeholder",
-                        "pt": "Personalizar uma p├ígina usando placeholder"
+                        "es": "Personalizar una página usando placeholder",
+                        "pt": "Personalizar uma página usando placeholder"
                       },
                       "slug": {
                         "en": "how-to-customize-a-page-using-placeholders",
@@ -36067,8 +36067,8 @@
                     {
                       "name": {
                         "en": "How to delete a collection",
-                        "es": "C├│mo eliminar una colecci├│n",
-                        "pt": "Como deletar cole├º├úo"
+                        "es": "Cómo eliminar una colección",
+                        "pt": "Como deletar coleção"
                       },
                       "slug": {
                         "en": "how-to-delete-a-collection",
@@ -36082,7 +36082,7 @@
                     {
                       "name": {
                         "en": "How to delete a website",
-                        "es": "C├│mo borrar un website",
+                        "es": "Cómo borrar un website",
                         "pt": "Como deletar um website"
                       },
                       "slug": {
@@ -36097,8 +36097,8 @@
                     {
                       "name": {
                         "en": "How to identify a page template",
-                        "es": "Identificar el template de una p├ígina",
-                        "pt": "Identificar o template de uma p├ígina"
+                        "es": "Identificar el template de una página",
+                        "pt": "Identificar o template de uma página"
                       },
                       "slug": {
                         "en": "how-to-identify-a-page-template",
@@ -36112,8 +36112,8 @@
                     {
                       "name": {
                         "en": "How to know which JavaScript file is being applied to a page?",
-                        "es": "┬┐C├│mo identificar cual archivo JavaScript est├í aplicado en una p├ígina?",
-                        "pt": "Como identificar qual arquivo JavaScript est├í sendo aplicado em uma p├ígina?"
+                        "es": "¿Cómo identificar cual archivo JavaScript está aplicado en una página?",
+                        "pt": "Como identificar qual arquivo JavaScript está sendo aplicado em uma página?"
                       },
                       "slug": {
                         "en": "how-to-know-which-javascript-file-is-being-applied-to-a-page",
@@ -36142,7 +36142,7 @@
                     {
                       "name": {
                         "en": "How to turn my store's website into a PWA",
-                        "es": "C├│mo transformar el sitio de mi tienda en un PWA",
+                        "es": "Cómo transformar el sitio de mi tienda en un PWA",
                         "pt": "Como transformar o site da minha loja em um PWA"
                       },
                       "slug": {
@@ -36157,7 +36157,7 @@
                     {
                       "name": {
                         "en": "How to use Subtemplates",
-                        "es": "C├│mo utilizar Subtemplates",
+                        "es": "Cómo utilizar Subtemplates",
                         "pt": "Como utilizar Subtemplates"
                       },
                       "slug": {
@@ -36172,7 +36172,7 @@
                     {
                       "name": {
                         "en": "How to use the meta tags control",
-                        "es": "C├│mo utilizar el control de meta tags",
+                        "es": "Cómo utilizar el control de meta tags",
                         "pt": "Como usar o controle de meta tags"
                       },
                       "slug": {
@@ -36202,8 +36202,8 @@
                     {
                       "name": {
                         "en": "How to use the unavailable product class from the SKU selection control",
-                        "es": "C├│mo utilizar la clase de producto no disponible del control de selecci├│n de SKU",
-                        "pt": "Como usar a classe de produto indispon├¡vel do controle de sele├º├úo de SKUs"
+                        "es": "Cómo utilizar la clase de producto no disponible del control de selección de SKU",
+                        "pt": "Como usar a classe de produto indisponível do controle de seleção de SKUs"
                       },
                       "slug": {
                         "en": "how-to-use-the-unavailable-product-class",
@@ -36217,8 +36217,8 @@
                     {
                       "name": {
                         "en": "How to work with different layouts for the same page",
-                        "es": "C├│mo trabajar con diferentes layouts para una misma p├ígina",
-                        "pt": "Como trabalhar com diferentes layouts para uma mesma p├ígina"
+                        "es": "Cómo trabajar con diferentes layouts para una misma página",
+                        "pt": "Como trabalhar com diferentes layouts para uma mesma página"
                       },
                       "slug": {
                         "en": "how-to-work-with-different-layouts-for-the-same-page",
@@ -36247,8 +36247,8 @@
                     {
                       "name": {
                         "en": "Image compression",
-                        "es": "Compresi├│n de im├ígenes",
-                        "pt": "Compacta├º├úo de imagens"
+                        "es": "Compresión de imágenes",
+                        "pt": "Compactação de imagens"
                       },
                       "slug": {
                         "en": "image-compression",
@@ -36262,8 +36262,8 @@
                     {
                       "name": {
                         "en": "Including a collection of products in the shop window",
-                        "es": "Incluir una colecci├│n de productos en la vitrina de la tienda",
-                        "pt": "Incluir uma cole├º├úo de produtos na vitrine da loja"
+                        "es": "Incluir una colección de productos en la vitrina de la tienda",
+                        "pt": "Incluir uma coleção de produtos na vitrine da loja"
                       },
                       "slug": {
                         "en": "how-to-include-a-collection-of-products-in-the-shop-window",
@@ -36277,8 +36277,8 @@
                     {
                       "name": {
                         "en": "Layout Overview",
-                        "es": "Visi├│n de conjunto de Layout",
-                        "pt": "Layout - Vis├úo geral"
+                        "es": "Visión de conjunto de Layout",
+                        "pt": "Layout - Visão geral"
                       },
                       "slug": {
                         "en": "what-is-cms-layout",
@@ -36307,8 +36307,8 @@
                     {
                       "name": {
                         "en": "Making product colletions searchable",
-                        "es": "Hacer que la colecci├│n de productos pueda buscarse",
-                        "pt": "Tornar cole├º├úo de produtos encontr├ível pela busca"
+                        "es": "Hacer que la colección de productos pueda buscarse",
+                        "pt": "Tornar coleção de produtos encontrável pela busca"
                       },
                       "slug": {
                         "en": "making-product-collections-searchable",
@@ -36322,7 +36322,7 @@
                     {
                       "name": {
                         "en": "Managing placeholders",
-                        "es": "Gesti├│n de  placeholders",
+                        "es": "Gestión de  placeholders",
                         "pt": "Gerenciando placeholders"
                       },
                       "slug": {
@@ -36337,8 +36337,8 @@
                     {
                       "name": {
                         "en": "Ordering images on the shop window display and on the product page",
-                        "es": "Ordenar im├ígenes en la vitrina y en la p├ígina de producto",
-                        "pt": "Ordenar imagens na vitrine e na p├ígina de produto"
+                        "es": "Ordenar imágenes en la vitrina y en la página de producto",
+                        "pt": "Ordenar imagens na vitrine e na página de produto"
                       },
                       "slug": {
                         "en": "ordering-images-on-the-shop-window-display-and-on-the-product-page",
@@ -36352,8 +36352,8 @@
                     {
                       "name": {
                         "en": "Responsive vs. Mobile Version",
-                        "es": "Responsivo ├ù Versi├│n Mobile",
-                        "pt": "Responsivo ├ù Vers├úo Mobile"
+                        "es": "Responsivo × Versión Mobile",
+                        "pt": "Responsivo × Versão Mobile"
                       },
                       "slug": {
                         "en": "responsive-vs-mobile-version",
@@ -36367,7 +36367,7 @@
                     {
                       "name": {
                         "en": "Setting up marketplace for multistores",
-                        "es": "Configurar marketplace para tiendas m├║ltiples",
+                        "es": "Configurar marketplace para tiendas múltiples",
                         "pt": "Configurar marketplace para multiloja"
                       },
                       "slug": {
@@ -36382,7 +36382,7 @@
                     {
                       "name": {
                         "en": "URL Mapping (301 Redirect)",
-                        "es": "Mapeo de URL (redirecci├│n 301)",
+                        "es": "Mapeo de URL (redirección 301)",
                         "pt": "Mapeamento de URLs (Redirecionamento 301)"
                       },
                       "slug": {
@@ -36398,7 +36398,7 @@
                       "name": {
                         "en": "View the contents of the store's CSS files",
                         "es": "Ver el contenido de los archivos CSS de la tienda",
-                        "pt": "Ver o conte├║do dos arquivos CSS da loja"
+                        "pt": "Ver o conteúdo dos arquivos CSS da loja"
                       },
                       "slug": {
                         "en": "view-the-contents-of-the-stores-css-files",
@@ -36427,8 +36427,8 @@
                     {
                       "name": {
                         "en": "What are controls?",
-                        "es": "┬┐Qu├⌐ son controles?",
-                        "pt": "O que s├úo controles?"
+                        "es": "¿Qué son controles?",
+                        "pt": "O que são controles?"
                       },
                       "slug": {
                         "en": "what-are-controls",
@@ -36442,8 +36442,8 @@
                     {
                       "name": {
                         "en": "What are layouts?",
-                        "es": "Qu├⌐ son layouts?",
-                        "pt": "O que s├úo layouts?"
+                        "es": "Qué son layouts?",
+                        "pt": "O que são layouts?"
                       },
                       "slug": {
                         "en": "what-are-layouts",
@@ -36457,8 +36457,8 @@
                     {
                       "name": {
                         "en": "What are placeholders?",
-                        "es": "Qu├⌐ son placeholders?",
-                        "pt": "O que s├úo placeholders?"
+                        "es": "Qué son placeholders?",
+                        "pt": "O que são placeholders?"
                       },
                       "slug": {
                         "en": "what-are-placeholders",
@@ -36472,8 +36472,8 @@
                     {
                       "name": {
                         "en": "What are shelves?",
-                        "es": "┬┐Qu├⌐ son estantes?",
-                        "pt": "O que s├úo prateleiras?"
+                        "es": "¿Qué son estantes?",
+                        "pt": "O que são prateleiras?"
                       },
                       "slug": {
                         "en": "what-are-shelves",
@@ -36487,8 +36487,8 @@
                     {
                       "name": {
                         "en": "What are templates?",
-                        "es": "┬┐Qu├⌐ son templates?",
-                        "pt": "O que s├úo templates?"
+                        "es": "¿Qué son templates?",
+                        "pt": "O que são templates?"
                       },
                       "slug": {
                         "en": "what-are-templates",
@@ -36502,8 +36502,8 @@
                     {
                       "name": {
                         "en": "What is a web site?",
-                        "es": "┬┐Qu├⌐ es un web site?",
-                        "pt": "O que ├⌐ um web site?"
+                        "es": "¿Qué es un web site?",
+                        "pt": "O que é um web site?"
                       },
                       "slug": {
                         "en": "what-is-a-web-site",
@@ -36517,8 +36517,8 @@
                     {
                       "name": {
                         "en": "What is binding?",
-                        "es": "Qu├⌐ es binding?",
-                        "pt": "O que ├⌐ binding?"
+                        "es": "Qué es binding?",
+                        "pt": "O que é binding?"
                       },
                       "slug": {
                         "en": "what-is-binding",
@@ -36532,7 +36532,7 @@
                     {
                       "name": {
                         "en": "What is the purpose of the Customized Control?",
-                        "es": "┬┐Para qu├⌐ sirve el Control Personalizado?",
+                        "es": "¿Para qué sirve el Control Personalizado?",
                         "pt": "Para que serve o Controle Customizado?"
                       },
                       "slug": {
