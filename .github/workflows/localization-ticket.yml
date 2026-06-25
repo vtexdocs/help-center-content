@@ -32,9 +32,11 @@
 #       4. Jira fallback: [HC] summary + PR link text "#{number}" (oldest wins)
 #     (Jira does not reliably index full GitHub URLs in descriptions.)
 #   - New tickets receive the hc-github-pr-* label for reliable future dedupe
+#   - Re-adding or changing the localization label on a PR with an existing task
+#     updates the parent description, priority, due date, and subtask due dates
 #   - Missing subtasks are still attached; oldest matching ticket wins
 #   - Subtasks are matched by summary under the parent; oldest match wins
-#   - Posts a PR comment linking the parent task (skipped if already present)
+#   - Posts a PR comment linking the parent task (updates delivery date if comment exists)
 #
 # After creating the parent task under the configured Education epic, the workflow
 # attaches the standard eight-step localization subtask chain in this order
@@ -267,18 +269,6 @@ jobs:
           DAYS_TO_DUE=$((DAYS_TO_FOLLOWING_MONDAY + 4 + EXTRA_WEEKS * 7))
           JIRA_DUE_DATE=$(date -u -d "${TODAY} + ${DAYS_TO_DUE} days" +%Y-%m-%d)
 
-          EXISTING_KEY=$(resolve_existing_parent_key || true)
-          if [ -n "$EXISTING_KEY" ]; then
-            EXISTING_DUE=$(curl -s \
-              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${EXISTING_KEY}?fields=duedate" \
-              | jq -r '.fields.duedate // empty')
-            echo "parent_key=${EXISTING_KEY}" >> "$GITHUB_OUTPUT"
-            echo "parent_due_date=${EXISTING_DUE}" >> "$GITHUB_OUTPUT"
-            echo "Using existing ticket: ${LOC_JIRA_BASE_URL}/browse/${EXISTING_KEY}"
-            exit 0
-          fi
-
           PR_BODY=$(echo "$PR_BODY_RAW" | sed \
             -e 's/^#### /h4. /' \
             -e 's/^### /h3. /' \
@@ -293,6 +283,72 @@ jobs:
             CHANGED_FILES_SECTION=$(printf '%s\n' "$CHANGED_FILES" | sed 's/^/* /')
           else
             CHANGED_FILES_SECTION="* No MD/MDX files changed"
+          fi
+
+          update_parent_issue() {
+            local key="$1"
+            local labels_json payload response
+
+            labels_json=$(curl -s \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${key}?fields=labels" \
+              | jq -c --arg label "$PR_LABEL" \
+                '[.fields.labels[]?.name] | if index($label) then . else . + [$label] end | map({name: .})')
+
+            payload=$(jq -n \
+              --arg summary "[HC] ${PR_TITLE}" \
+              --arg pr_ref "$PR_REF" \
+              --arg pr_author "$PR_AUTHOR" \
+              --arg pr_number "$PR_NUMBER" \
+              --arg pr_url "$PR_URL" \
+              --arg changed_files "$CHANGED_FILES_SECTION" \
+              --arg pr_body "$PR_BODY" \
+              --arg priority "$JIRA_PRIORITY" \
+              --arg duedate "$JIRA_DUE_DATE" \
+              --argjson labels "$labels_json" \
+              '{
+                fields: {
+                  summary: $summary,
+                  description: (
+                    "hc-github-pr-ref: " + $pr_ref + "\n\n" +
+                    "h3. PR Details\n" +
+                    "||Field||Value||\n" +
+                    "|Author|" + $pr_author + "|\n" +
+                    "|PR|[#" + $pr_number + "|" + $pr_url + "]|\n\n" +
+                    "h3. Changed files\n\n" +
+                    $changed_files + "\n\n" +
+                    "h3. PR Description\n\n" +
+                    $pr_body
+                  ),
+                  priority: { name: $priority },
+                  duedate: $duedate,
+                  labels: $labels
+                }
+              }')
+
+            response=$(curl -s -o update-response.json -w "%{http_code}" \
+              -X PUT \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${key}")
+
+            if [ "$response" -eq 204 ] || [ "$response" -eq 200 ]; then
+              echo "Updated ticket: ${LOC_JIRA_BASE_URL}/browse/${key} (priority: ${JIRA_PRIORITY}, due: ${JIRA_DUE_DATE})"
+            else
+              echo "Failed to update ticket ${key} (HTTP ${response})" >&2
+              cat update-response.json >&2
+              exit 1
+            fi
+          }
+
+          EXISTING_KEY=$(resolve_existing_parent_key || true)
+          if [ -n "$EXISTING_KEY" ]; then
+            update_parent_issue "$EXISTING_KEY"
+            echo "parent_key=${EXISTING_KEY}" >> "$GITHUB_OUTPUT"
+            echo "parent_due_date=${JIRA_DUE_DATE}" >> "$GITHUB_OUTPUT"
+            echo "Using existing ticket: ${LOC_JIRA_BASE_URL}/browse/${EXISTING_KEY}"
+            exit 0
           fi
 
           PAYLOAD=$(jq -n \
@@ -372,7 +428,10 @@ jobs:
             | head -1)
 
           if [ -n "$EXISTING_COMMENT" ]; then
-            echo "PR already has a localization task comment; skipping"
+            gh api -X PATCH \
+              "repos/${{ github.repository }}/issues/comments/${EXISTING_COMMENT}" \
+              -f body="$COMMENT"
+            echo "Updated PR comment: ${COMMENT}"
             exit 0
           fi
 
@@ -575,6 +634,28 @@ jobs:
             fi
           }
 
+          update_issue_due_date() {
+            local key="$1"
+            local duedate="$2"
+            local payload response
+
+            payload=$(jq -n --arg duedate "$duedate" '{fields: {duedate: $duedate}}')
+            response=$(curl -s -o update-due-response.json -w "%{http_code}" \
+              -X PUT \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${key}")
+
+            if [ "$response" -eq 204 ] || [ "$response" -eq 200 ]; then
+              echo "Updated due date for ${key}: ${duedate}"
+            else
+              echo "Failed to update due date for ${key} (HTTP ${response})" >&2
+              cat update-due-response.json >&2
+              exit 1
+            fi
+          }
+
           rank_subtask_after() {
             local key="$1"
             local after_key="$2"
@@ -668,7 +749,8 @@ jobs:
 
             if [ -n "$already_exists" ]; then
               key="$already_exists"
-              echo "Skipped existing subtask: ${LOC_JIRA_BASE_URL}/browse/${key} — ${summary} (due: ${subtask_due})"
+              update_issue_due_date "$key" "$subtask_due"
+              echo "Updated existing subtask: ${LOC_JIRA_BASE_URL}/browse/${key} — ${summary} (due: ${subtask_due})"
             else
               key=$(create_subtask "$summary" "$subtask_due")
               echo "Created subtask: ${LOC_JIRA_BASE_URL}/browse/${key} — ${summary} (due: ${subtask_due})"
