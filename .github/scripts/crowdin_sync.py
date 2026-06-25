@@ -239,12 +239,9 @@ def crowdin_basename(relative_path: str) -> str:
     return Path(relative_path.replace("\\", "/")).name
 
 
-def partial_crowdin_name(file_name: str) -> str:
-    path = Path(file_name)
-    return f"{path.stem}.partial{path.suffix}"
-
-
-def prefixed_crowdin_name(task_key: str, file_name: str) -> str:
+def prefixed_crowdin_name(task_key: str, file_name: str, *, partial: bool = False) -> str:
+    if partial:
+        return f"{task_key}_PARTIAL_{file_name}"
     return f"{task_key}_{file_name}"
 
 
@@ -358,12 +355,10 @@ def group_consecutive_blocks(additions: list[tuple[int, str]]) -> list[list[str]
     return blocks
 
 
-def should_upload_partial(added_count: int, total_lines: int, block_count: int) -> bool:
-    if added_count == 0 or total_lines == 0:
+def should_upload_partial(added_count: int, block_count: int) -> bool:
+    if added_count == 0:
         return False
-    if block_count > 3:
-        return False
-    return added_count < (total_lines / 2)
+    return block_count <= 5
 
 
 def format_partial_content(blocks: list[list[str]]) -> str:
@@ -377,7 +372,8 @@ def format_partial_file_context(
 ) -> str:
     highlighted = highlight_changed_lines(full_text, changed_line_numbers)
     marker_note = (
-        "Lines marked with **[UPDATED]** below are the changed portions "
+        "Sections marked with **[START OF UPDATED SECTION]** and "
+        "**[END OF UPDATED SECTION]** below are the changed portions "
         "to translate in this task.\n\n"
         if changed_line_numbers
         else ""
@@ -398,11 +394,30 @@ def highlight_changed_lines(full_text: str, changed_line_numbers: set[int]) -> s
         return full_text
 
     highlighted: list[str] = []
+    in_section = False
+
     for line_no, line in enumerate(full_text.splitlines(), start=1):
-        if line_no in changed_line_numbers:
-            highlighted.append(f"**[UPDATED]** {line}")
+        is_changed = line_no in changed_line_numbers
+
+        if is_changed and not in_section:
+            highlighted.append("")
+            highlighted.append("**[START OF UPDATED SECTION]**")
+            highlighted.append(line)
+            in_section = True
+        elif is_changed:
+            highlighted.append(line)
+        elif in_section:
+            highlighted.append("**[END OF UPDATED SECTION]**")
+            highlighted.append("")
+            highlighted.append(line)
+            in_section = False
         else:
             highlighted.append(line)
+
+    if in_section:
+        highlighted.append("**[END OF UPDATED SECTION]**")
+        highlighted.append("")
+
     return "\n".join(highlighted)
 
 
@@ -426,14 +441,13 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
     blocks = group_consecutive_blocks(additions)
     added_count = len(additions)
 
-    if should_upload_partial(added_count, total_lines, len(blocks)):
-        partial_name = partial_crowdin_name(file_name)
+    if should_upload_partial(added_count, len(blocks)):
         partial_text = format_partial_content(blocks)
         full_text = file_path.read_text(encoding="utf-8")
         changed_line_numbers = {line_no for line_no, _ in additions}
         return UploadPlan(
             mode="partial",
-            crowdin_name=partial_name,
+            crowdin_name=file_name,
             content=partial_text.encode("utf-8"),
             added_line_count=added_count,
             total_line_count=total_lines,
@@ -571,7 +585,11 @@ def upload_group_files(
             continue
 
         plan = plan_upload(relative_path, base_sha, head_sha)
-        crowdin_name = prefixed_crowdin_name(task_key, plan.crowdin_name)
+        crowdin_name = prefixed_crowdin_name(
+            task_key,
+            plan.crowdin_name,
+            partial=(plan.mode == "partial"),
+        )
         storage_id = upload_storage_bytes(plan.content, crowdin_name)
         file_id = create_or_update_file(
             project_id,
