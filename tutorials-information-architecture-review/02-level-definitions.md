@@ -1,6 +1,6 @@
-# Level Definitions — VTEX Tutorials IA
+# Level Definitions — VTEX Tutorials
 
-This document specifies the rules for each level of the VTEX Help Center Tutorials hierarchy. All teams working on tutorials content must follow these definitions consistently.
+This document specifies the best practices for each level of the VTEX Help Center Tutorials hierarchy.
 
 ---
 
