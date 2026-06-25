@@ -21,23 +21,23 @@ Tutorials (root)
 
 Level 1 is the top-level navigation entry in the sidebar. It represents a broad, user-recognizable workflow area of the platform.
 
-### Appearance in sidebar
+### L1 appearance in sidebar
 
 - Displayed as a top-level collapsible label
 - Short, no verbs, uses platform terminology that merchants already know
 - Clicking expands the section to reveal Level 2 categories
 
-### What it covers
+### What L1 covers
 
 - A coherent user goal domain that users can identify before entering the docs
 - Good examples: `Payments`, `Catalog`, `Shipping`
 - Current bad examples: `about-the-admin`, `other`, `operational`, `beta` (internal logic, not user intent)
 
-### How it is organized
+### How L1 is organized
 
 - Sections covering store setup and daily operations should appear before advanced/specialized topics
 
-### Label rules
+### L1 label rules
 
 | Rule | Specification |
 | :--- | :--- |
@@ -47,26 +47,26 @@ Level 1 is the top-level navigation entry in the sidebar. It represents a broad,
 | Localization | Must be translated and localized for ES and PT (see trilingual sync doc) |
 | Stability | Labels shouldn't be changed once published, even if the underlying product is renamed |
 
-### Quantity target
+### L1 quantity target
 
 - **Current count:** 36 (must be reduced through consolidation)
 - **New count:** 15 sections
 - **Maximum:** 16 sections
 
-### Mandatory first article
+### L1 mandatory first article
 
 Every Level 1 section must have an overview/hub article as its first and pinned entry. This article must:
 
 - Summarize what the section covers
 - Describe the audience and prerequisites for using this section
 
-### Nesting rules
+### L1 nesting rules
 
 - No folder nesting beyond Level 2.
 - No article may be nested more than 3 levels deep.
 - Choose a clear structure for the section: either place articles directly under Level 1, or group all articles under Level 2 categories when grouping meaningfully reduces navigation complexity.
 
-> ⚠️ Avoid mixing direct articles with Level 2 categories within the same section.
+> ⚠️ Avoid mixing direct articles with Level 2 categories within the same section, because that increases visual complexity and navigation complexity.
 
 ---
 
@@ -74,21 +74,25 @@ Every Level 1 section must have an overview/hub article as its first and pinned 
 
 Level 2 is a collapsible group within a Level 1 section that clusters related articles by feature, task, or sub-domain.
 
-### Appearance in sidebar
+### L2 appearance in sidebar
 
 Displayed as a collapsible sub-label under its parent Level 1 section, which expands on click to reveal Level 3 articles.
 
-### What it covers
-- A specific feature area or task cluster within the parent section
-- Examples within Catalog: `Products & SKUs`, `Categories`, `Brands`, `Collections`
-- Examples within Payments: `Payment Settings`, `Overview`, `Transactions`, `Bank Conciliation`
+> ℹ️ Level 2 is optional, because when the section has few articles and is small enough, the articles can be displayed directly under Level 1 without the need of a group. However, don't mix Level 2 with Level 3 under the same section.
 
-### How it is organized
+### What L2 covers
+
+A specific feature area or task cluster within the parent section.
+
+> Examples within **Catalog**: `Products & SKUs`, `Categories`, `Brands`, `Collections`
+
+### How L2 is organized
+
 - Ordered by onboarding sequence where logical: overview/getting-started groups appear first, advanced/settings groups appear last
 - Alphabetical ordering is acceptable only for reference-heavy groups where users already know what they are looking for (e.g., payment connector A–Z index)
 - Groups that contain an overview article should surface that article first
 
-### Label rules
+### L2 label rules
 | Rule | Specification |
 |---|---|
 | Max words | 4 words |
@@ -98,7 +102,7 @@ Displayed as a collapsible sub-label under its parent Level 1 section, which exp
 | Examples of bad labels | `visión-de-conjunto-de-checkout` (too long), `configuración-de-configuraciones` (redundant) |
 | Localization | Must be translated for ES and PT |
 
-### Article count rules
+### L2 article count rules
 | Count | Rule |
 |---|---|
 | < 5 articles | Merge this group with a related group, or promote articles to Level 1 (flat, no L2 group) |
@@ -106,7 +110,7 @@ Displayed as a collapsible sub-label under its parent Level 1 section, which exp
 | > 20 articles | Split into 2 groups, or review whether some articles belong in a different section |
 | > 30 articles | Always split |
 
-### Quantity per Level 1 section
+### L2 quantity per Level 1 section
 | Range | Guidance |
 |---|---|
 | 0 groups | Acceptable for sections with < 15 articles total (use L1 → L3 directly) |
@@ -120,17 +124,17 @@ Displayed as a collapsible sub-label under its parent Level 1 section, which exp
 
 Level 3 is the individual tutorial article. It is always a leaf node — it never contains sub-levels.
 
-### Appearance in sidebar
+### L3 appearance in sidebar
 - Displayed as an indented item under its Level 2 category (or directly under Level 1 if no Level 2 groups are used)
 - Active article is visually highlighted
 - Sidebar label is derived from the article's title, truncated with ellipsis if it exceeds the character limit
 
-### What it covers
+### What L3 covers
 - One specific task or concept, never a mix of unrelated topics
 - A user can complete the task described without needing to read other articles in sequence (self-contained)
 - Exception: a series of articles forming a step-by-step setup flow is acceptable, but each article must be useful on its own
 
-### Title rules
+### L3 title rules
 | Rule | Specification |
 |---|---|
 | Format | Verb-first noun phrase (imperative): "Configure X", "Set up Y", "Manage Z" |
@@ -140,7 +144,7 @@ Level 3 is the individual tutorial article. It is always a leaf node — it neve
 | Language | Plain language using terms from the VTEX Admin interface |
 | Avoid | "Overview of X", "Introduction to X" as titles (use the content inside the article, not as a standalone article unless it is a section hub page) |
 
-### How articles are ordered within a group
+### How L3 articles are ordered within a group
 | Content type | Ordering rule |
 |---|---|
 | Setup/configuration flow | Order by user journey: basic → advanced; first-time setup steps → optional configuration |
@@ -148,7 +152,7 @@ Level 3 is the individual tutorial article. It is always a leaf node — it neve
 | Troubleshooting articles | Most common issue first |
 | Mixed content within a group | Overview first, then task articles by frequency of use, then advanced/edge case articles last |
 
-### Article template (mandatory structure)
+### L3 article template (mandatory structure)
 Every tutorial article must follow this structure:
 
 1. **Goal summary** (1–2 sentences at the top): what the user will accomplish
@@ -157,7 +161,7 @@ Every tutorial article must follow this structure:
 4. **Screenshots**: at least one per major UI step
 5. **Related articles**: 3–5 links at the bottom (mandatory)
 
-### Length guidelines
+### L3 length guidelines
 | Type | Target length |
 |---|---|
 | Short how-to (single task) | 400–800 words |
