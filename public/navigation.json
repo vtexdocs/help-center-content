@@ -41,12 +41,12 @@
                   "name": {
                     "en": "Improvements to the in-store pickup flow",
                     "es": "Mejoras en el flujo de recogida en tienda",
-                    "pt": "Improvements to the in-store pickup flow"
+                    "pt": "Melhorias no fluxo de retirada em loja"
                   },
                   "slug": {
                     "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
                     "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
-                    "pt": ""
+                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -92,37 +92,6 @@
                     "en": "2026-06-10-new-events-available-in-audit",
                     "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
                     "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Junho",
-                "es": "Junho",
-                "pt": "Junho"
-              },
-              "slug": {
-                "en": "junho",
-                "es": "junho",
-                "pt": "2026-junho"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Melhorias no fluxo de retirada em loja",
-                    "en": "Melhorias no fluxo de retirada em loja",
-                    "es": "Melhorias no fluxo de retirada em loja"
-                  },
-                  "slug": {
-                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
