@@ -3,6 +3,7 @@
 The maximum allowed depth in the new IA is 3 levels (L1 Section → L2 Category → L3 Article). Four places in the current structure have a 4th level that must be eliminated.
 
 Each violation is documented with:
+
 - Current path and depth diagram
 - All affected articles
 - Recommended flattening strategy
@@ -14,7 +15,8 @@ Each violation is documented with:
 ## Violation 1: `b2b/b2b-suite/organization-details/`
 
 ### Current depth
-```
+
+```text
 b2b/                                    ← L1 (Section)
   b2b-suite/                            ← L2 (Category)
     organization-details/               ← L3 (illegal sub-category)
@@ -22,8 +24,9 @@ b2b/                                    ← L1 (Section)
 ```
 
 ### Affected articles (8 articles)
+
 | File | Title |
-|---|---|
+| :--- | :--- |
 | `b2b-collection-management.md` | B2B Collection Management |
 | `b2b-cost-center-management.md` | B2B Cost Center Management |
 | `b2b-organization-general-settings.md` | B2B Organization General Settings |
@@ -41,15 +44,17 @@ Move all articles from `organization-details/` directly into `b2b-suite/`. The `
 The `b2b-suite` category currently has 4 direct articles + 5 sub-folders (b2b-organizations, organization-details, overview, practical-guides, and 4 articles in those). After flattening, the total under `b2b-suite` will be ~24 articles as direct L3 entries.
 
 ### Resulting structure
-```
+
+```text
 b2b/                                    ← L1 (Section)
   b2b-suite/                            ← L2 (Category)
     *.md articles (all 24 flat)         ← L3 (articles) ✓
 ```
 
 ### File operations required
+
 | Operation | Source | Destination |
-|---|---|---|
+| :--- | :--- | :--- |
 | Move | `b2b/b2b-suite/organization-details/*.md` | `b2b/b2b-suite/` |
 | Move | `b2b/b2b-suite/organization-details/*.png/.jpg` | `b2b/b2b-suite/` |
 | Delete | `b2b/b2b-suite/organization-details/metadata.json` | — |
@@ -63,7 +68,8 @@ b2b/                                    ← L1 (Section)
 ## Violation 2: `storefront/cms-for-store-framework/[pages, site-editor, store-settings---storefront, styles]`
 
 ### Current depth
-```
+
+```text
 storefront/                             ← L1 (Section)
   cms-for-store-framework/             ← L2 (Category)
     pages/                             ← L3 (illegal sub-category)
@@ -124,7 +130,7 @@ storefront/                             ← L1 (Section)
 
 Instead of keeping `cms-for-store-framework` as an L2 group that contains L3 sub-groups, eliminate it as a navigation level and promote its 4 sub-folders directly as L2 groups under `storefront`.
 
-```
+```text
 storefront/                             ← L1 (Section)
   cms-for-store-framework/             ← REMOVED as navigation level
     pages/ → becomes a new flat group
@@ -191,7 +197,8 @@ Recommendation: Use **Option A** as it maintains thematic grouping with better d
 ## Violation 3: `vtex-cx-platform/agent-builder/automation-flow/`
 
 ### Current depth
-```
+
+```text
 vtex-cx-platform/                      ← L1 (Section)
   agent-builder/                       ← L2 (Category)
     automation-flow/                   ← L3 (illegal sub-category)
@@ -199,8 +206,9 @@ vtex-cx-platform/                      ← L1 (Section)
 ```
 
 ### Affected articles (19 articles in `automation-flow/`)
+
 | File |
-|---|
+| :--- |
 | `action-cards.md` |
 | `adding-media-to-the-message.md` |
 | `automation-flow-overview.md` |
@@ -234,6 +242,7 @@ Move all 19 articles from `automation-flow/` directly into `agent-builder/`. The
 23 articles is slightly above the 20-article soft maximum for an L2 group — this is acceptable given the thematic coherence of the content. If further splitting is desired, `agent-builder` could be split into two L2 groups: "Agent Builder Basics" (3–4 articles) and "Automation Flows" (19 articles).
 
 ### Resulting structure
+
 ```
 vtex-cx-platform/                      ← L1 (Section)
   agent-builder/                       ← L2 (Category)
@@ -241,6 +250,7 @@ vtex-cx-platform/                      ← L1 (Section)
 ```
 
 ### File operations required
+
 | Operation | Source | Destination |
 |---|---|---|
 | Move | `vtex-cx-platform/agent-builder/automation-flow/*.md` | `vtex-cx-platform/agent-builder/` |
@@ -256,7 +266,8 @@ vtex-cx-platform/                      ← L1 (Section)
 ## Violation 4: `indeva-by-vtex/sales-update-with-pdv/erp/`
 
 ### Current depth
-```
+
+```text
 indeva-by-vtex/                        ← L1 (Section)
   sales-update-with-pdv/               ← L2 (Category, single-child)
     erp/                               ← L3 (illegal sub-category)
@@ -264,8 +275,9 @@ indeva-by-vtex/                        ← L1 (Section)
 ```
 
 ### Affected articles (8 articles in `erp/`)
+
 | File | Title |
-|---|---|
+| :--- | :--- |
 | `fix-connection-refused-error-ip-or-port-integrator-indeva.md` | Fix Connection Refused Error |
 | `fix-integration-failures-with-sales-systems-indeva.md` | Fix Integration Failures with Sales Systems |
 | `fix-unassigned-sales-to-sellers-indeva.md` | Fix Unassigned Sales to Sellers |
@@ -278,15 +290,16 @@ indeva-by-vtex/                        ← L1 (Section)
 
 The intermediate `sales-update-with-pdv/` folder contains only a single child (`erp/`), making it a vestigial level. Collapse both `sales-update-with-pdv/` and `erp/` into a single flat L2 group named `sales-update-pdv-erp` (or rename it to a more descriptive label).
 
-```
+```text
 indeva-by-vtex/                        ← L1 (Section)
   sales-update-pdv-erp/               ← L2 (Category — replaces both sales-update-with-pdv + erp)
     *.md articles (all 8 flat)        ← L3 (articles) ✓
 ```
 
 ### File operations required
+
 | Operation | Source | Destination |
-|---|---|---|
+| :--- | :--- | :--- |
 | Move | `indeva-by-vtex/sales-update-with-pdv/erp/*.md` | `indeva-by-vtex/sales-update-pdv-erp/` (new folder) |
 | Create | `indeva-by-vtex/sales-update-pdv-erp/metadata.json` | — |
 | Delete | `indeva-by-vtex/sales-update-with-pdv/erp/metadata.json` | — |
@@ -302,7 +315,7 @@ indeva-by-vtex/                        ← L1 (Section)
 ## Summary of All 4-Level Violations
 
 | # | Violation path | Articles affected | Fix strategy | New path |
-|---|---|---|---|---|
+| :--- | :--- | :--- | :--- | :--- |
 | 1 | `b2b/b2b-suite/organization-details/` | 8 | Promote to b2b-suite | `b2b/b2b-suite/*.md` |
 | 2 | `storefront/cms-for-store-framework/[4 sub-folders]` | 27 | Elevate sub-folders to L2 | `storefront/cms-pages/`, `storefront/site-editor/`, `storefront/storefront-settings/` |
 | 3 | `vtex-cx-platform/agent-builder/automation-flow/` | 19 | Promote to agent-builder | `vtex-cx-platform/agent-builder/*.md` |
