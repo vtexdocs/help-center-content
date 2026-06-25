@@ -129,38 +129,8 @@ def verify_project(project_id: str) -> None:
         raise
 
 
-def default_branch_id(project_id: str) -> int | None:
-    """Return the default branch ID when branching is enabled, else None."""
-    query = urllib.parse.urlencode({"limit": 500})
-    try:
-        response = crowdin_request("GET", f"/projects/{project_id}/branches?{query}")
-    except RuntimeError as error:
-        # Branching is optional; skip branchId when branches can't be listed.
-        if "HTTP 404" not in str(error) and "HTTP 403" not in str(error):
-            raise
-        print(
-            "Crowdin branches unavailable; uploading without branchId "
-            f"({error})",
-            file=sys.stderr,
-        )
-        return None
-
-    branches = response.get("data", [])
-    if not branches:
-        return None
-
-    for preferred in ("main", "master"):
-        for item in branches:
-            if item["data"]["name"] == preferred:
-                return int(item["data"]["id"])
-    return int(branches[0]["data"]["id"])
-
-
-def find_file(project_id: str, file_name: str, branch_id: int | None) -> int | None:
-    params: dict[str, str | int] = {"filter": file_name, "limit": 500}
-    if branch_id is not None:
-        params["branchId"] = branch_id
-    query = urllib.parse.urlencode(params)
+def find_file(project_id: str, file_name: str) -> int | None:
+    query = urllib.parse.urlencode({"filter": file_name, "limit": 500})
     response = crowdin_request("GET", f"/projects/{project_id}/files?{query}")
     for item in response.get("data", []):
         if item["data"]["name"] == file_name:
@@ -170,24 +140,20 @@ def find_file(project_id: str, file_name: str, branch_id: int | None) -> int | N
 
 def create_or_update_file(
     project_id: str,
-    branch_id: int | None,
     storage_id: int,
     file_name: str,
     file_type: str,
 ) -> int:
-    existing_id = find_file(project_id, file_name, branch_id)
+    existing_id = find_file(project_id, file_name)
     if existing_id is None:
-        payload: dict[str, object] = {
-            "storageId": storage_id,
-            "name": file_name,
-            "type": file_type,
-        }
-        if branch_id is not None:
-            payload["branchId"] = branch_id
         created = crowdin_request(
             "POST",
             f"/projects/{project_id}/files",
-            data=payload,
+            data={
+                "storageId": storage_id,
+                "name": file_name,
+                "type": file_type,
+            },
         )
         return int(created["data"]["id"])
 
@@ -437,7 +403,6 @@ def upload_files() -> int:
         return 0
 
     verify_project(project_id)
-    branch_id = default_branch_id(project_id)
     uploaded_files = []
     total_words = 0
     en_links: list[str] = []
@@ -453,7 +418,7 @@ def upload_files() -> int:
         crowdin_name = prefixed_crowdin_name(task_key, plan.crowdin_name)
         storage_id = upload_storage_bytes(plan.content, crowdin_name)
         file_id = create_or_update_file(
-            project_id, branch_id, storage_id, crowdin_name, "md"
+            project_id, storage_id, crowdin_name, "md"
         )
         words = get_file_word_count(project_id, file_id)
         total_words += words
