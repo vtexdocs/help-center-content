@@ -29,7 +29,7 @@ A VTEX oferece diferentes métodos de login que podem ser habilitados conforme s
 
 **Onde configurar:** _Configurações da conta > Autenticação_
 
-> ℹ️ Saiba mais em [Autenticação](/pt/docs/tutorials/autenticacao).
+> ℹ️ Saiba mais em [Autenticação](https://help.vtex.com/pt/docs/tutorials/autenticacao).
 
 ## Autenticação de dois fatores (2FA)
 
@@ -44,9 +44,9 @@ Os métodos disponíveis são:
 
 O código é solicitado a cada 10 dias no mesmo navegador.
 
-> ℹ️ Saiba mais em [Habilitar login por autenticação de 2 fatores](/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores).
+> ℹ️ Saiba mais em [Habilitar login por autenticação de 2 fatores](https://help.vtex.com/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores).
 
-> ℹ️ Para recuperar acesso, veja [Redefinir senha de acesso ao Admin VTEX](/pt/docs/tutorials/redefinir-senha-de-acesso-ao-admin-vtex).
+> ℹ️ Para recuperar acesso, veja [Redefinir senha de acesso ao Admin VTEX](https://help.vtex.com/pt/docs/tutorials/redefinir-senha-de-acesso-ao-admin-vtex).
 
 ## Login social (Google e Facebook)
 
@@ -57,7 +57,7 @@ Permita que usuários façam login usando contas do Google ou Facebook, oferecen
 
 **Configuração:** requer criar credenciais (Client ID e Client Secret) nos provedores e informá-las no Admin.
 
-> ℹ️ Saiba mais em [Configurar login com Facebook e Google](/pt/docs/tutorials/configurar-login-com-facebook-e-google).
+> ℹ️ Saiba mais em [Configurar login com Facebook e Google](https://help.vtex.com/pt/docs/tutorials/configurar-login-com-facebook-e-google).
 
 ## Expiração de senha
 
@@ -87,8 +87,8 @@ Integre com provedores externos para experiências personalizadas de login.
 
 ## Saiba mais
 
-- [Autenticação](/pt/docs/tutorials/autenticacao)
-- [Habilitar login por autenticação de 2 fatores](/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores)
-- [Configurar login com Facebook e Google](/pt/docs/tutorials/configurar-login-com-facebook-e-google)
-- [Redefinir senha de acesso ao Admin VTEX](/pt/docs/tutorials/redefinir-senha-de-acesso-ao-admin-vtex)
-- [Configurar dados pessoais na tela de usuário](/pt/docs/tutorials/configurar-dados-pessoais-na-tela-de-usuario)
+- [Autenticação](https://help.vtex.com/pt/docs/tutorials/autenticacao)
+- [Habilitar login por autenticação de 2 fatores](https://help.vtex.com/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores)
+- [Configurar login com Facebook e Google](https://help.vtex.com/pt/docs/tutorials/configurar-login-com-facebook-e-google)
+- [Redefinir senha de acesso ao Admin VTEX](https://help.vtex.com/pt/docs/tutorials/redefinir-senha-de-acesso-ao-admin-vtex)
+- [Configurar dados pessoais na tela de usuário](https://help.vtex.com/pt/docs/tutorials/configurar-dados-pessoais-na-tela-de-usuario)

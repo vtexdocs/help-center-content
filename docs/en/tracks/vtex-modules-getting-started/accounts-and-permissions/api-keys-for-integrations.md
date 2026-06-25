@@ -17,14 +17,14 @@ API keys are credentials that allow external systems to access the VTEX APIs. Ea
 - **API key**: Public identifier of the key.
 - **API token**: Secret password (displayed only once, upon creation).
 
-Keys must be active and have [roles](/en/docs/tutorials/roles) associated with them to define which resources they can access.
+Keys must be active and have [roles](https://help.vtex.com/en/docs/tutorials/roles) associated with them to define which resources they can access.
 
 ## Key types
 
 | Type                                               | Description                                                                                                                | Use cases                                                   | Documentation                                       |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- |
-| **Internal keys (generated)**   | Created in the VTEX Admin. You have full control to create, edit, renew, and revoke roles. | Integrations with ERP, internal automations, custom scripts | [Generated keys](/en/docs/tutorials/generated-keys) |
-| **External keys (third-party)** | Created by partners/apps. You can only manage the roles in your account.                   | VTEX App Store apps, integrations with certified partners   | [External keys](/en/docs/tutorials/external-keys)   |
+| **Internal keys (generated)**   | Created in the VTEX Admin. You have full control to create, edit, renew, and revoke roles. | Integrations with ERP, internal automations, custom scripts | [Generated keys](https://help.vtex.com/en/docs/tutorials/generated-keys) |
+| **External keys (third-party)** | Created by partners/apps. You can only manage the roles in your account.                   | VTEX App Store apps, integrations with certified partners   | [External keys](https://help.vtex.com/en/docs/tutorials/external-keys)   |
 
 ## Managing API keys
 
@@ -41,7 +41,7 @@ Keys must be active and have [roles](/en/docs/tutorials/roles) associated with t
 - Delete keys
 - Export list for auditing
 
-> ℹ️ Learn more in [API keys](/en/docs/tutorials/api-keys).
+> ℹ️ Learn more in [API keys](https://help.vtex.com/en/docs/tutorials/api-keys).
 
 ## Principle of least privilege
 
@@ -76,17 +76,17 @@ Renew tokens periodically (every 3-6 months for critical keys). Configure [autom
 - Never use client-side code for integrations
 - Don't share tokens via email, chat, or tickets
 
-> ℹ️ Learn more in [Best practices for using API keys](/en/docs/tutorials/best-practices-api-keys).
+> ℹ️ Learn more in [Best practices for using API keys](https://help.vtex.com/en/docs/tutorials/best-practices-api-keys).
 
 ## Learn more
 
-- [API keys](/en/docs/tutorials/api-keys)
-- [Best practices for using API keys](/en/docs/tutorials/best-practices-api-keys)
-- [Generated keys](/en/docs/tutorials/generated-keys)
-- [External keys](/en/docs/tutorials/external-keys)
+- [API keys](https://help.vtex.com/en/docs/tutorials/api-keys)
+- [Best practices for using API keys](https://help.vtex.com/en/docs/tutorials/best-practices-api-keys)
+- [Generated keys](https://help.vtex.com/en/docs/tutorials/generated-keys)
+- [External keys](https://help.vtex.com/en/docs/tutorials/external-keys)
 - [Renewing API tokens](https://help.vtex.com/docs/tutorials/renewing-api-tokens)
 - [Configuring alerts to renew API tokens](https://help.vtex.com/docs/tutorials/configuring-alerts-to-renew-api-tokens)
-- [Exporting API keys](/en/docs/tutorials/exporting-api-keys)
-- [Roles](/en/docs/tutorials/roles)
-- [License Manager resources](/en/docs/tutorials/license-manager-resources)
+- [Exporting API keys](https://help.vtex.com/en/docs/tutorials/exporting-api-keys)
+- [Roles](https://help.vtex.com/en/docs/tutorials/roles)
+- [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)
 - [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) (for developers)

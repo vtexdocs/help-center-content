@@ -24,7 +24,7 @@ Un **usuario administrativo** es cualquier persona registrada con acceso al Admi
 
 **Gestionados en:** _Configuración de la cuenta > Usuarios_
 
-> ℹ️ Consulta [Gestionar usuarios administrativos](/es/docs/tutorials/gestionar-usuarios-administradores).
+> ℹ️ Consulta [Gestionar usuarios administrativos](https://help.vtex.com/es/docs/tutorials/gestionar-usuarios-administradores).
 
 ## Roles
 
@@ -34,14 +34,14 @@ License Manager verifica si el usuario tiene los recursos necesarios para realiz
 
 **Gestionados en:** _Configuración de la cuenta > Roles_
 
-> ℹ️ Consulta [Roles](/es/docs/tutorials/roles).
+> ℹ️ Consulta [Roles](https://help.vtex.com/es/docs/tutorials/roles).
 
 ### Tipos de roles
 
 | Tipo               | Descripción                                                                                                          | Ejemplos                                                                         | Documentación                                                          |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Predefinidos**   | Roles predeterminados de VTEX que cubren los casos de uso más comunes.                               | Owner (Admin Super), Call Center Operator, Finance, Logistics | [Roles predefinidos](/es/docs/tutorials/roles-de-usuario-predefinidos) |
-| **Personalizados** | Roles personalizados creados seleccionando solo los recursos necesarios para cada grupo de usuarios. | Rol para el equipo de Catálogo, rol para operadores de marketplace               | [Crear nuevo rol](/es/docs/tutorials/crear-nuevo-rol)                  |
+| **Predefinidos**   | Roles predeterminados de VTEX que cubren los casos de uso más comunes.                               | Owner (Admin Super), Call Center Operator, Finance, Logistics | [Roles predefinidos](https://help.vtex.com/es/docs/tutorials/roles-de-usuario-predefinidos) |
+| **Personalizados** | Roles personalizados creados seleccionando solo los recursos necesarios para cada grupo de usuarios. | Rol para el equipo de Catálogo, rol para operadores de marketplace               | [Crear nuevo rol](https://help.vtex.com/es/docs/tutorials/crear-nuevo-rol)                  |
 
 ## Usuario titular
 
@@ -53,7 +53,7 @@ Toda cuenta de VTEX tiene un único **usuario titular**, que es el principal res
 
 > ⚠️ Usuario titular ≠ rol Owner (Admin Super). El titular es único por cuenta, mientras que Owner es un rol que puede asignarse a varios usuarios.
 
-> ℹ️ Consulta [Usuario titular](/es/docs/tutorials/que-es-el-usuario-titular).
+> ℹ️ Consulta [Usuario titular](https://help.vtex.com/es/docs/tutorials/que-es-el-usuario-titular).
 
 ## Principio de mínimo privilegio
 
@@ -69,15 +69,15 @@ Aplica siempre el **mínimo privilegio necesario**: cada usuario debe tener solo
 - Exige autenticación de dos factores para todos los usuarios administrativos.
 - Considera usar el inicio de sesión único (SSO).
 
-> ℹ️ Consulta [Buenas prácticas de gestión de accesos para tiendas](/es/docs/tutorials/buenas-practicas-de-gestion-de-acceso-para-tiendas).
+> ℹ️ Consulta [Buenas prácticas de gestión de accesos para tiendas](https://help.vtex.com/es/docs/tutorials/buenas-practicas-de-gestion-de-acceso-para-tiendas).
 
 ## Más información
 
-- [Roles](/es/docs/tutorials/roles) - guía completa sobre control de acceso
-- [Buenas prácticas de gestión de accesos para tiendas](/es/docs/tutorials/buenas-practicas-de-gestion-de-acceso-para-tiendas)
-- [Gestionar usuarios administrativos](/es/docs/tutorials/gestionar-usuarios-administradores)
-- [Crear nuevo rol](/es/docs/tutorials/crear-nuevo-rol)
-- [Roles predefinidos](/es/docs/tutorials/roles-predefinidos)
-- [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
-- [Usuario titular](/es/docs/tutorials/que-es-el-usuario-titular)
-- [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda)
+- [Roles](https://help.vtex.com/es/docs/tutorials/roles) - guía completa sobre control de acceso
+- [Buenas prácticas de gestión de accesos para tiendas](https://help.vtex.com/es/docs/tutorials/buenas-practicas-de-gestion-de-acceso-para-tiendas)
+- [Gestionar usuarios administrativos](https://help.vtex.com/es/docs/tutorials/gestionar-usuarios-administradores)
+- [Crear nuevo rol](https://help.vtex.com/es/docs/tutorials/crear-nuevo-rol)
+- [Roles predefinidos](https://help.vtex.com/es/docs/tutorials/roles-predefinidos)
+- [Recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager)
+- [Usuario titular](https://help.vtex.com/es/docs/tutorials/que-es-el-usuario-titular)
+- [Transferir la propiedad de la tienda](https://help.vtex.com/es/docs/tutorials/transferir-la-propiedad-de-la-tienda)

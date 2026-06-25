@@ -28,7 +28,7 @@ VTEX ofrece diferentes métodos de inicio de sesión que puedes activar según t
 
 **Configurarlo en:** _Configuración de la cuenta > Autenticación_
 
-> ℹ️ Consulta [Autenticación](/es/docs/tutorials/autenticacion).
+> ℹ️ Consulta [Autenticación](https://help.vtex.com/es/docs/tutorials/autenticacion).
 
 ## Autenticación de dos factores (2FA)
 
@@ -43,9 +43,9 @@ Los métodos disponibles son:
 
 El código se solicita cada 10 días en el mismo navegador.
 
-> ℹ️ Consulta [Habilitar inicio de sesión por autenticación de 2 factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores).
+> ℹ️ Consulta [Habilitar inicio de sesión por autenticación de 2 factores](https://help.vtex.com/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores).
 
-> ℹ️ Para recuperar el acceso, consulta [Restablecer la contraseña de acceso al Admin VTEX](/es/docs/tutorials/restablecer-contrasena-de-acceso-al-admin-vtex).
+> ℹ️ Para recuperar el acceso, consulta [Restablecer la contraseña de acceso al Admin VTEX](https://help.vtex.com/es/docs/tutorials/restablecer-contrasena-de-acceso-al-admin-vtex).
 
 ## Inicio de sesión con redes sociales (Google y Facebook)
 
@@ -56,7 +56,7 @@ Permite que los usuarios inicien sesión con sus cuentas de Google o Facebook, o
 
 **Configuración:** requiere crear credenciales (Client ID y Client Secret) en los proveedores e ingresarlas en el Admin.
 
-> ℹ️ Consulta [Configurar inicio de sesión con Facebook y Google](/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google).
+> ℹ️ Consulta [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google).
 
 ## Vencimiento de contraseña
 
@@ -86,8 +86,8 @@ Integra con proveedores externos para experiencias personalizadas de inicio de s
 
 ## Más información
 
-- [Autenticación](/es/docs/tutorials/autenticacion)
-- [Habilitar inicio de sesión por autenticación de 2 factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores)
-- [Configurar inicio de sesión con Facebook y Google](/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google)
-- [Restablecer la contraseña de acceso al Admin VTEX](/es/docs/tutorials/restablecer-contrasena-de-acceso-al-admin-vtex)
-- [Configurar datos personales en la pantalla de usuario](/es/docs/tutorials/configurar-datos-personales-en-la-pantalla-de-usuario)
+- [Autenticación](https://help.vtex.com/es/docs/tutorials/autenticacion)
+- [Habilitar inicio de sesión por autenticación de 2 factores](https://help.vtex.com/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores)
+- [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google)
+- [Restablecer la contraseña de acceso al Admin VTEX](https://help.vtex.com/es/docs/tutorials/restablecer-contrasena-de-acceso-al-admin-vtex)
+- [Configurar datos personales en la pantalla de usuario](https://help.vtex.com/es/docs/tutorials/configurar-datos-personales-en-la-pantalla-de-usuario)

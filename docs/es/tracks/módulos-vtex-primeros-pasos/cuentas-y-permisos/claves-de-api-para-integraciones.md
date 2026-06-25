@@ -17,14 +17,14 @@ Las claves de API son credenciales que permiten que los sistemas externos acceda
 - **API Key**: identificador público de la clave.
 - **API Token**: contraseña secreta (se muestra solo una vez al crearlo).
 
-Las claves deben estar activas y tener [roles](/es/docs/tutorials/roles) asociados que determinan los recursos a los que se puede acceder.
+Las claves deben estar activas y tener [roles](https://help.vtex.com/es/docs/tutorials/roles) asociados que determinan los recursos a los que se puede acceder.
 
 ## Tipos de claves
 
 | Tipo                                               | Descripción                                                                                                                 | Casos de uso                                                             | Documentación                                           |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| **Claves internas (generadas)** | Creadas en el Admin VTEX. Tienes control total para crear, editar roles, renovar y revocar. | Integraciones con ERP, automatizaciones internas, scripts personalizados | [Claves generadas](/es/docs/tutorials/claves-generadas) |
-| **Claves externas (terceros)**  | Creadas por partners/aplicaciones. Solo controlas los roles en tu cuenta.                   | Aplicaciones de VTEX App Store, integraciones con partners certificados  | [Claves externas](/es/docs/tutorials/claves-externas)   |
+| **Claves internas (generadas)** | Creadas en el Admin VTEX. Tienes control total para crear, editar roles, renovar y revocar. | Integraciones con ERP, automatizaciones internas, scripts personalizados | [Claves generadas](https://help.vtex.com/es/docs/tutorials/claves-generadas) |
+| **Claves externas (terceros)**  | Creadas por partners/aplicaciones. Solo controlas los roles en tu cuenta.                   | Aplicaciones de VTEX App Store, integraciones con partners certificados  | [Claves externas](https://help.vtex.com/es/docs/tutorials/claves-externas)   |
 
 ## Gestionar claves de API
 
@@ -41,7 +41,7 @@ Las claves deben estar activas y tener [roles](/es/docs/tutorials/roles) asociad
 - Eliminar claves.
 - Exportar lista para auditoría.
 
-> ℹ️ Consulta [Claves de API](/es/docs/tutorials/claves-de-api).
+> ℹ️ Consulta [Claves de API](https://help.vtex.com/es/docs/tutorials/claves-de-api).
 
 ## Principio de mínimo privilegio
 
@@ -52,13 +52,13 @@ Asocia solo los roles estrictamente necesarios. Ejemplos:
 
 ## Renovación y alertas
 
-Renueva tokens periódicamente (3-6 meses para claves críticas). Configura [alertas automáticas](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api) para evitar vencimientos.
+Renueva tokens periódicamente (3-6 meses para claves críticas). Configura [alertas automáticas](https://help.vtex.com/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api) para evitar vencimientos.
 
 > ⚠️ El token de API se muestra solo una vez al crearlo. Guárdalo de forma segura.
 
 ## Requisitos de permisos
 
-Rol [User Administrator - RESTRICTED](/es/docs/tutorials/roles-de-usuario-predefinidos) o un rol personalizado con los recursos:
+Rol [User Administrator - RESTRICTED](https://help.vtex.com/es/docs/tutorials/roles-de-usuario-predefinidos) o un rol personalizado con los recursos:
 
 - View API Keys
 - Edit API Keys
@@ -76,17 +76,17 @@ Rol [User Administrator - RESTRICTED](/es/docs/tutorials/roles-de-usuario-predef
 - Nunca utilices código del lado del cliente para integraciones.
 - No compartas tokens por email, chat o tickets.
 
-> ℹ️ Consulta [Buenas prácticas para el uso de claves de API](/es/docs/tutorials/buenas-practicas-claves-de-api).
+> ℹ️ Consulta [Buenas prácticas para el uso de claves de API](https://help.vtex.com/es/docs/tutorials/buenas-practicas-claves-de-api).
 
 ## Más información
 
-- [Claves de API](/es/docs/tutorials/claves-de-api)
-- [Buenas prácticas para el uso de claves de API](/es/docs/tutorials/buenas-practicas-claves-de-api)
-- [Claves generadas](/es/docs/tutorials/claves-generadas)
-- [Claves externas](/es/docs/tutorials/claves-externas)
-- [Renovar token de API](/es/docs/tutorials/renovar-token-de-api)
-- [Configurar alerta para renovar tokens de API](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)
-- [Exportar claves de API](/es/docs/tutorials/exportar-claves-de-api)
-- [Roles](/es/docs/tutorials/roles)
-- [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
+- [Claves de API](https://help.vtex.com/es/docs/tutorials/claves-de-api)
+- [Buenas prácticas para el uso de claves de API](https://help.vtex.com/es/docs/tutorials/buenas-practicas-claves-de-api)
+- [Claves generadas](https://help.vtex.com/es/docs/tutorials/claves-generadas)
+- [Claves externas](https://help.vtex.com/es/docs/tutorials/claves-externas)
+- [Renovar token de API](https://help.vtex.com/es/docs/tutorials/renovar-token-de-api)
+- [Configurar alerta para renovar tokens de API](https://help.vtex.com/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)
+- [Exportar claves de API](https://help.vtex.com/es/docs/tutorials/exportar-claves-de-api)
+- [Roles](https://help.vtex.com/es/docs/tutorials/roles)
+- [Recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager)
 - [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) (para desarrolladores)

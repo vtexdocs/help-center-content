@@ -14,7 +14,7 @@ When you start using VTEX, your company receives an **account** that gives acces
 
 ## Access the VTEX Admin
 
-You can access the Admin via browser at the following URL, where `{accountName}` should be replaced by [your account name](/docs/tutorials/what-is-account-name):
+You can access the Admin via browser at the following URL, where `{accountName}` should be replaced by [your account name](https://help.vtex.com/docs/tutorials/what-is-account-name):
 
 ```
 {storename}.myvtex.com/admin
@@ -39,7 +39,7 @@ Page where you can view and manage your VTEX account details, including:
 - Store and multistore management
 - Domain configuration
 
-> ℹ️ See [Account management](/docs/tutorials/account-management) for more details.
+> ℹ️ See [Account management](https://help.vtex.com/docs/tutorials/account-management) for more details.
 
 ### Users
 
@@ -50,7 +50,7 @@ Page to create and manage administrative users who have access to your store's A
 - Delete users
 - Export user list
 
-> ℹ️ Learn more in [Managing administrative users](/docs/tutorials/managing-admin-users).
+> ℹ️ Learn more in [Managing administrative users](https://help.vtex.com/docs/tutorials/managing-admin-users).
 
 ### User roles
 
@@ -67,13 +67,13 @@ Page to configure the available login methods for store customers and administra
 - Login with Google, Facebook
 - Integration with external identity providers (OAuth, SAML)
 
-> ℹ️ Learn more in [Authentication](/en/docs/tutorials/authentication).
+> ℹ️ Learn more in [Authentication](https://help.vtex.com/en/docs/tutorials/authentication).
 
 ### API keys
 
 Page to manage API keys (app keys and app tokens) used to authenticate integrations with external systems via API. These keys ensure secure access to data without exposing your account to unauthorized applications.
 
-> ℹ️ Learn more in [API keys](/en/docs/tutorials/api-keys).
+> ℹ️ Learn more in [API keys](https://help.vtex.com/en/docs/tutorials/api-keys).
 
 ## Next steps
 
@@ -85,6 +85,6 @@ Now that you know the structure of Account Management, we recommend following th
 
 ## Learn more
 
-- [Account settings - Overview](/docs/tutorials/account-settings-overview)
+- [Account settings - Overview](https://help.vtex.com/docs/tutorials/account-settings-overview)
 - [What is an account name?](https://help.vtex.com/docs/tutorials/what-is-an-account-name)
 - [Sponsor user](https://help.vtex.com/docs/tutorials/what-is-the-sponsor-user)

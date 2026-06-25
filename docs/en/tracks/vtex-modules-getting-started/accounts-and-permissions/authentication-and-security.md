@@ -86,7 +86,7 @@ Integrate with external providers for customized login experiences.
 
 ## Learn more
 
-- [Authentication](/docs/tutorials/authentication)
+- [Authentication](https://help.vtex.com/docs/tutorials/authentication)
 - [Enabling two-factor authentication login](https://help.vtex.com/docs/tutorials/enabling-2-factor-authentication-login)
 - [Configuring login with Facebook and Google](https://help.vtex.com/docs/tutorials/configuring-login-with-facebook-and-google)
 - [Resetting VTEX Admin password](https://help.vtex.com/docs/tutorials/resetting-vtex-admin-password)

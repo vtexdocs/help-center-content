@@ -34,7 +34,7 @@ License Manager checks if the user has the necessary resources to perform each a
 
 **Where to manage:** _Account Settings > Roles_
 
-> ℹ️ Learn more in [Roles](/en/docs/tutorials/roles).
+> ℹ️ Learn more in [Roles](https://help.vtex.com/en/docs/tutorials/roles).
 
 ### Role types
 
@@ -73,11 +73,11 @@ Always apply the **least required privilege**: Each user should have only the ro
 
 ## Learn more
 
-- [Roles](/en/docs/tutorials/roles) - Complete guide to access control
+- [Roles](https://help.vtex.com/en/docs/tutorials/roles) - Complete guide to access control
 - [Best practices for store access management](https://help.vtex.com/docs/tutorials/best-practices-for-store-access-management)
-- [Managing administrative users](/docs/tutorials/managing-admin-users)
+- [Managing administrative users](https://help.vtex.com/docs/tutorials/managing-admin-users)
 - [Creating roles](https://help.vtex.com/docs/tutorials/creating-roles)
 - [Predefined roles](https://help.vtex.com/docs/tutorials/predefined-roles)
-- [License Manager resources](/en/docs/tutorials/license-manager-resources)
+- [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)
 - [Sponsor user](https://help.vtex.com/docs/tutorials/what-is-the-sponsor-user)
 - [Transferring store ownership](https://help.vtex.com/docs/tutorials/transferring-store-ownership)

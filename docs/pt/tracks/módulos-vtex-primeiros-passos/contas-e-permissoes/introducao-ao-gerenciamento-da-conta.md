@@ -15,7 +15,7 @@ Ao contratar a VTEX, sua empresa recebe uma **conta** que dá acesso ao Admin, o
 
 ## Acessar o Admin VTEX
 
-O Admin pode ser acessado via browser pela seguinte URL, onde `{accountName}` deve ser substituído pelo [nome da sua conta](/pt/docs/tutorials/o-que-e-account-name):
+O Admin pode ser acessado via browser pela seguinte URL, onde `{accountName}` deve ser substituído pelo [nome da sua conta](https://help.vtex.com/pt/docs/tutorials/o-que-e-account-name):
 
 ```
 {accountName}.myvtex.com/admin
@@ -39,7 +39,7 @@ Página onde você visualiza e gerencia os detalhes da sua conta VTEX, incluindo
 - Gerenciamento de lojas e multilojas
 - Configuração de domínios
 
-> ℹ️ Saiba mais em [Gerenciamento da conta](/pt/docs/tutorials/gerenciamento-da-conta).
+> ℹ️ Saiba mais em [Gerenciamento da conta](https://help.vtex.com/pt/docs/tutorials/gerenciamento-da-conta).
 
 ### Usuários
 
@@ -49,13 +49,13 @@ Página para cadastrar e gerenciar os usuários administrativos que têm acesso 
 - Excluir usuários
 - Exportar lista de usuários
 
-> ℹ️ Saiba mais em [Gerenciar usuários administrativos](/pt/docs/tutorials/gerenciar-usuarios-administrativos).
+> ℹ️ Saiba mais em [Gerenciar usuários administrativos](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos).
 
 ### Perfis de acesso
 
 Página para criar e gerenciar perfis de acesso (também chamados de roles), que determinam quais funcionalidades cada grupo de usuários pode visualizar e modificar na plataforma.
 
-> ℹ️ Saiba mais em [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
+> ℹ️ Saiba mais em [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
 
 ### Autenticação
 
@@ -65,13 +65,13 @@ Página para configurar os métodos de login disponíveis para clientes da loja 
 - Login com Google, Facebook
 - Integração com provedores de identidade externos (OAuth, SAML)
 
-> ℹ️ Saiba mais em [Autenticação](/pt/docs/tutorials/autenticacao).
+> ℹ️ Saiba mais em [Autenticação](https://help.vtex.com/pt/docs/tutorials/autenticacao).
 
 ### Chaves de API
 
 Página para gerenciar chaves de API (app keys e app tokens) usadas para autenticar integrações com sistemas externos via API. Essas chaves garantem acesso seguro aos dados sem expor sua conta a aplicações não autorizadas.
 
-> ℹ️ Saiba mais em [Chaves de API](/pt/docs/tutorials/chaves-de-api).
+> ℹ️ Saiba mais em [Chaves de API](https://help.vtex.com/pt/docs/tutorials/chaves-de-api).
 
 ## Próximos passos
 
@@ -83,6 +83,6 @@ Agora que você conhece a estrutura do Gerenciamento da conta, recomendamos segu
 
 ## Saiba mais
 
-- [Configurações da conta - Visão geral](/pt/docs/tutorials/visao-geral-configuracoes-da-conta)
-- [O que é account name?](/pt/docs/tutorials/o-que-e-account-name)
-- [Usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular)
+- [Configurações da conta - Visão geral](https://help.vtex.com/pt/docs/tutorials/visao-geral-configuracoes-da-conta)
+- [O que é account name?](https://help.vtex.com/pt/docs/tutorials/o-que-e-account-name)
+- [Usuário titular](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-usuario-titular)
