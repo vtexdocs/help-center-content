@@ -1,6 +1,6 @@
 # Four-Level Nesting Violations — Identification and Flattening Plan
 
-The maximum allowed depth in the new IA is 3 levels (L1 Section → L2 Category → L3 Article). Four places in the current structure have a 4th level that must be eliminated.
+The maximum allowed depth in the new Information Architecture (IA) is 3 levels (L1 Section → L2 Category → L3 Article). Four places in the current structure have a 4th level that must be eliminated.
 
 Each violation is documented with:
 
