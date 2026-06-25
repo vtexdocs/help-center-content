@@ -365,12 +365,34 @@ def format_partial_content(blocks: list[list[str]]) -> str:
     return "\n\n".join("\n".join(block) for block in blocks)
 
 
+def strip_frontmatter(text: str) -> tuple[str, int]:
+    """Return body text without YAML frontmatter and the 1-based first body line."""
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return text, 1
+
+    for index in range(1, len(lines)):
+        if lines[index].strip() == "---":
+            body_start = index + 1
+            while body_start < len(lines) and not lines[body_start].strip():
+                body_start += 1
+            return "\n".join(lines[body_start:]), body_start + 1
+
+    return text, 1
+
+
 def format_partial_file_context(
     relative_path: str,
     full_text: str,
     changed_line_numbers: set[int],
 ) -> str:
-    highlighted = highlight_changed_lines(full_text, changed_line_numbers)
+    body_text, first_body_line = strip_frontmatter(full_text)
+    adjusted_line_numbers = {
+        line_no - first_body_line + 1
+        for line_no in changed_line_numbers
+        if line_no >= first_body_line
+    }
+    highlighted = highlight_changed_lines(body_text, adjusted_line_numbers)
     marker_note = (
         "Sections marked with **[START OF UPDATED SECTION]** and "
         "**[END OF UPDATED SECTION]** below are the changed portions "
@@ -402,6 +424,7 @@ def highlight_changed_lines(full_text: str, changed_line_numbers: set[int]) -> s
         if is_changed and not in_section:
             highlighted.append("")
             highlighted.append("**[START OF UPDATED SECTION]**")
+            highlighted.append("")
             highlighted.append(line)
             in_section = True
         elif is_changed:
