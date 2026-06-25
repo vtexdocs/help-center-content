@@ -86,7 +86,7 @@ def crowdin_request(
     method: str,
     path: str,
     *,
-    data: dict | bytes | None = None,
+    data: dict | list | bytes | None = None,
     content_type: str = "application/json",
     extra_headers: dict | None = None,
 ) -> dict:
@@ -99,7 +99,7 @@ def crowdin_request(
     if extra_headers:
         headers.update(extra_headers)
     body = None
-    if isinstance(data, dict):
+    if isinstance(data, (dict, list)):
         body = json.dumps(data).encode("utf-8")
         headers["Content-Type"] = content_type
     elif isinstance(data, bytes):
