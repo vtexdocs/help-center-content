@@ -451,25 +451,7 @@ jobs:
           CROWDIN_TOTAL_WORDS: ${{ steps.crowdin_upload.outputs.total_words }}
         run: |
           merge_word_count_description() {
-            CURRENT="$1" COUNT="$2" python3 - <<'PY'
-import os
-import re
-
-current = os.environ.get("CURRENT", "")
-count = os.environ.get("COUNT", "")
-row = f"|Word count|{count}|"
-if re.search(r"^\|Word count\|", current, flags=re.MULTILINE):
-    current = re.sub(r"^\|Word count\|.*\|$", row, current, flags=re.MULTILINE)
-elif "||Field||Value||" in current:
-    current = current.replace(
-        "||Field||Value||\n",
-        f"||Field||Value||\n{row}\n",
-        1,
-    )
-else:
-    current = current.rstrip() + f"\n\nh3. Crowdin\n||Field||Value||\n{row}\n"
-print(current)
-PY
+            CURRENT="$1" COUNT="$2" python3 .github/scripts/crowdin_sync.py word-count
           }
 
           current_desc=$(curl -s \
@@ -757,20 +739,7 @@ PY
           }
 
           merge_crowdin_description() {
-            CURRENT="$1" LINKS="$2" python3 - <<'PY'
-import os
-import re
-
-current = os.environ.get("CURRENT", "")
-links = os.environ.get("LINKS", "")
-section = f"h3. Crowdin editor\n\n{links}"
-if re.search(r"^h3\. Crowdin editor\b", current, flags=re.MULTILINE):
-    print(re.sub(r"^h3\. Crowdin editor[\s\S]*$", section, current.rstrip(), count=1, flags=re.MULTILINE))
-elif current.strip():
-    print(f"{current.rstrip()}\n\n{section}")
-else:
-    print(section)
-PY
+            CURRENT="$1" LINKS="$2" python3 .github/scripts/crowdin_sync.py crowdin-links
           }
 
           update_subtask_crowdin_links() {
