@@ -1,14 +1,17 @@
 ---
 title: 'Improvements to the in-store pickup flow'
-createdAt: 2026-05-27T11:30:00.000Z
-updatedAt: 2026-06-03T11:00:00.000Z
+status: PUBLISHED
+createdAt: 2026-06-25T12:00:00.000Z
+updatedAt: 2026-06-25T12:00:00.000Z
+publishedAt: 2026-06-25T12:00:00.000Z
+contentType: updates
 productTeam: Pick and Pack
-slugEN: 2026-06-03-improvements-to-the-in-store-pickup-flow
+slugEN: 2026-06-25-improvements-to-the-in-store-pickup-flow
 locale: en
 announcementSynopsisPT: 'Enhance the Buy Online Pickup In-Store experience with quick pickup confirmation and automatic invoicing in Last Mile.'
 tags:
-  - Last Mile
-  - In-store pickup
+  - Improvement
+  - Pick and Pack
 ---
 
 VTEX is releasing improvements to the in-store pickup flow in the Last Mile module. Now, merchants can confirm order pickups more quickly using an alphanumeric token provided by the customer. After confirmation, the order invoice can be triggered automatically, depending on the configured integration.

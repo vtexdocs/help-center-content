@@ -1,14 +1,17 @@
 ---
 title: 'Mejoras en el flujo de recogida en tienda'
-createdAt: 2026-05-27T11:30:00.000Z
-updatedAt: 2026-06-03T11:00:00.000Z
+status: PUBLISHED
+createdAt: 2026-06-25T12:00:00.000Z
+updatedAt: 2026-06-25T12:00:00.000Z
+publishedAt: 2026-06-25T12:00:00.000Z
+contentType: updates
 productTeam: Pick and Pack
-slugEN: 2026-06-03-improvements-to-the-in-store-pickup-flow
+slugEN: 2026-06-25-improvements-to-the-in-store-pickup-flow
 locale: es
 announcementSynopsisPT: 'Mejora la experiencia de compra online con recogida en tienda con confirmación rápida de recogida y facturación automática en el módulo Last Mile.'
 tags:
-  - Last Mile
-  - Retiro en tienda
+  - Mejora
+  - Pick and Pack
 ---
 
 VTEX optimiza el flujo de recogida en tienda en el módulo Last Mile. Ahora, los retailers pueden confirmar las recogidas de pedidos más rápido con un token alfanumérico proporcionado por el cliente. Después de la confirmación, la facturación del pedido puede activarse automáticamente, según la integración configurada.
