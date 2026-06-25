@@ -79,7 +79,7 @@ Page to manage API keys (app keys and app tokens) used to authenticate integrati
 
 Now that you know the structure of Account Management, we recommend following this track to configure your account securely:
 
-1. **[Users and roles](https://help.vtex.com/en/docs/tracks/placeholder-users-and-roles)**: See how to control who can access the Admin and what they can do.
+1. **[Users and roles](https://help.vtex.com/en/docs/tracks/accounts-and-permissions/users-and-roles)**: See how to control who can access the Admin and what they can do.
 2. **[Authentication and security](/tracks/accounts-and-permissions/authentication-and-security)**: Configure secure login methods, including two-factor authentication.
 3. **[API keys for integrations](/tracks/accounts-and-permissions/api-keys-for-integrations)**: See how to create and manage keys for integrations with external systems.
 
