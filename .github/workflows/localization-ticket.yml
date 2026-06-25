@@ -23,8 +23,8 @@
 # file context for partial uploads.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
-# LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID
-# EN-only PRs also require: LOC_CROWDIN_EN_PROJECT_ID
+# LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID,
+# LOC_CROWDIN_PROJECT_ID_EN (docs/en source files)
 # Optional: LOC_CROWDIN_ORGANIZATION (Crowdin Enterprise only)
 # Crowdin token scopes: Projects (read), Source files & strings (read/write),
 # Translation status (read)
@@ -512,7 +512,7 @@ jobs:
         env:
           LOC_CROWDIN_API_TOKEN: ${{ secrets.LOC_CROWDIN_API_TOKEN }}
           LOC_CROWDIN_PROJECT_ID: ${{ secrets.LOC_CROWDIN_PROJECT_ID }}
-          LOC_CROWDIN_EN_PROJECT_ID: ${{ secrets.LOC_CROWDIN_EN_PROJECT_ID }}
+          LOC_CROWDIN_PROJECT_ID_EN: ${{ secrets.LOC_CROWDIN_PROJECT_ID_EN }}
           LOC_CROWDIN_ORGANIZATION: ${{ secrets.LOC_CROWDIN_ORGANIZATION }}
           CONTENT_SOURCE: ${{ steps.content_diff.outputs.content_source }}
           CHANGED_FILES: ${{ steps.content_diff.outputs.changed_files }}

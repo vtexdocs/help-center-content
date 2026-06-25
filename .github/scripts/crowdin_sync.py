@@ -299,7 +299,7 @@ PT_CROWDIN_GROUP = CrowdinUploadGroup(
 EN_CROWDIN_GROUP = CrowdinUploadGroup(
     name="en",
     path_prefixes=EN_SOURCE_PATH_PREFIXES,
-    project_id_env="LOC_CROWDIN_EN_PROJECT_ID",
+    project_id_env="LOC_CROWDIN_PROJECT_ID_EN",
     target_languages=(
         ("CROWDIN_PT_LANGUAGE", "en"),
         ("CROWDIN_ES_LANGUAGE", "es"),
