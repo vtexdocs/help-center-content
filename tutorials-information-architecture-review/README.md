@@ -8,13 +8,14 @@ This folder contains the complete IA review for all tutorials content across EN,
 |---|---|
 | [`00-navigation-principles.md`](00-navigation-principles.md) | Concise reference of 10 evidence-based navigation principles with links to NN/g research, Diátaxis, and 2026 LLM/RAG guidance — use this to justify IA decisions to stakeholders |
 | [`01-benchmarks.md`](01-benchmarks.md) | Top 6 documentation portals with specific IA patterns to adopt from each, including one AI-first portal (Vercel Docs) |
-| [`02-level-definitions.md`](02-level-definitions.md) | Rules for each of the 3 hierarchy levels (label length, article count, ordering, anti-patterns) + LLM and AI retrieval requirements |
+| [`02-level-definitions.md`](02-level-definitions.md) | Rules for each of the 3 hierarchy levels (label length, article count, ordering, anti-patterns) |
 | [`03-consolidation-map.md`](03-consolidation-map.md) | Full mapping of all 36 current sections → 15 proposed sections, with article counts and L2 group proposals |
 | [`04-4level-fixes.md`](04-4level-fixes.md) | The 4 places where nesting exceeds 3 levels, with specific file operations to flatten them |
 | [`05-micro-sections-redistribution.md`](05-micro-sections-redistribution.md) | Article-by-article redistribution plan for `store-settings`, `dashboards`, `suggestions`, `other`, `about-the-admin`, `operational`, and `beta` |
 | [`06-metadata-audit.md`](06-metadata-audit.md) | Missing `metadata.json` files, duplicate order numbers, ordering issues, JSON specs for all new files, and AI retrieval metadata recommendations |
 | [`07-trilingual-sync.md`](07-trilingual-sync.md) | Complete EN/ES/PT folder name mapping for all current and proposed sections |
 | [`08-cross-portal-alignment.md`](08-cross-portal-alignment.md) | Governing rules for IA alignment between the Help Center and the Developer Portal: content type boundary, canonical section names, cross-portal link conventions, front-matter field alignment |
+| [`09-ai-retrieval-requirements.md`](09-ai-retrieval-requirements.md) | Article structure rules for AI retrieval, including self-containment, chunking, canonical terminology, front-matter completeness, and retrieval anti-patterns |
 
 ## Key Decisions
 
