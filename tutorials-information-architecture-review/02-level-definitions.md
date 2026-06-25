@@ -62,9 +62,9 @@ Every Level 1 section must have an overview/hub article as its first and pinned 
 
 ### Article count rules
 
-A Level 1 section requires at least 5 articles to exist as a standalone entry; fewer than that, merge it into a related section.
+Choose a clear structure for the section: either place articles directly under Level 1, or group all articles under Level 2 categories when grouping meaningfully reduces navigation complexity.
 
-Given the current article counts per section, most sections should choose one clear structure: either place articles directly under Level 1, or group all articles under Level 2 categories when grouping meaningfully reduces navigation complexity. Avoid mixing direct articles and Level 2 categories within the same Level 1 section.
+> ⚠️ Avoid mixing direct articles with Level 2 categories within the same section.
 
 ---
 
