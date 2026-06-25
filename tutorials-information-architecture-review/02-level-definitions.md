@@ -8,63 +8,61 @@ This document specifies the best practices for each level of the VTEX Help Cente
 
 ```
 Tutorials (root)
-  └── Level 1: Topic/Section
-        └── Level 2: Category/Group
+  └── Level 1: Topic (section)
+        └── Level 2: Category (group)
               └── Level 3: Article (leaf node)
 ```
 
-**Hard rule:** No article may be nested more than 3 levels deep. No folder nesting beyond Level 2 is permitted.
+**Rule:** No article should be nested more than 3 levels deep, and no folder nesting beyond Level 2.
 
 ---
 
-## Level 1 — Topic (Section)
+## Level 1 — Topic (section)
 
 Level 1 is the top-level navigation entry in the sidebar. It represents a broad, user-recognizable workflow area of the platform.
 
 ### Appearance in sidebar
+
 - Displayed as a top-level collapsible label
 - Short, no verbs, uses platform terminology that merchants already know
-- Accompanied by an icon if the VTEX Help Center sidebar supports icons
 - Clicking expands the section to reveal Level 2 categories
 
 ### What it covers
+
 - A coherent user goal domain that users can identify before entering the docs
 - Good examples: `Payments`, `Catalog`, `Shipping`
-- Bad examples: `about-the-admin`, `other`, `operational`, `beta` (internal logic, not user intent)
+- Current bad examples: `about-the-admin`, `other`, `operational`, `beta` (internal logic, not user intent)
 
 ### How it is organized
-- Ordered by user journey frequency: sections that more users need more often appear first
-- Sections covering store setup and daily operations appear before advanced/specialized topics
-- Suggested order: Getting Started → Account Management → Catalog → Pricing & Promotions → Storefront → Intelligent Search → Checkout & Subscriptions → Orders → Payments → Shipping → Sellers & B2B → Apps & Integrations → Omnichannel → Customer Experience → Infrastructure & Data
+
+- Sections covering store setup and daily operations should appear before advanced/specialized topics
 
 ### Label rules
+
 | Rule | Specification |
-|---|---|
+| :--- | :--- |
 | Max words | 3 words |
 | Max characters | 20 characters |
 | Language | Noun phrase, no verbs |
 | Localization | Must be translated and localized for ES and PT (see trilingual sync doc) |
-| Stability | Labels may NOT be changed once published, even if VTEX renames the underlying product |
+| Stability | Labels shouldn't be changed once published, even if the underlying product is renamed |
 
 ### Quantity target
-- **Minimum:** 10 sections
-- **Maximum:** 16 sections
+
 - **Current count:** 36 (must be reduced through consolidation)
-- **Target count:** 15 sections
+- **New count:** 15 sections
+- **Maximum:** 16 sections
 
 ### Mandatory first article
+
 Every Level 1 section must have an overview/hub article as its first and pinned entry. This article must:
+
 - Summarize what the section covers
-- Link to the most frequently used articles in the section
 - Describe the audience and prerequisites for using this section
 
 ### Article count threshold
-| Threshold | Rule |
-|---|---|
-| < 5 articles total | Do not create a standalone Level 1 section — merge into a related section |
-| 5–30 articles | Use Level 1 + Level 3 only (skip Level 2 grouping) OR use Level 1 + 2–4 small Level 2 groups |
-| 31–100 articles | Use full Level 1 > Level 2 > Level 3 hierarchy |
-| > 100 articles | Consider splitting the section OR use robust Level 2 grouping with clear labels |
+
+A Level 1 section requires at least 5 articles to exist as a standalone entry; fewer than that, merge it into a related section. Given the current article counts per section, most sections should use Level 1 + Level 3 directly, adding Level 2 grouping only when it meaningfully reduces navigation complexity.
 
 ---
 
