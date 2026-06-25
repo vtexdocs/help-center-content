@@ -87,8 +87,7 @@ A specific feature area or task cluster within the parent section.
 
 ### How L2 is organized
 
-- Ordered by onboarding sequence where logical: overview/getting-started groups appear first, advanced/settings groups appear last.
-- Groups that contain an overview article should surface that article first.
+Ordered by onboarding sequence where logical: overview/getting-started groups appear first, advanced/settings groups appear last.
 
 ### L2 label rules
 
@@ -135,12 +134,7 @@ A tutorial should be a self-contained content with a specific task or concept.
 
 ### How L3 articles are ordered within a group
 
-| Content type | Ordering rule |
-| :--- | :--- |
-| Setup/configuration flow | Order by user journey: basic → advanced; first-time setup steps → optional configuration |
-| Reference articles (lists, connectors, etc.) | Alphabetical |
-| Troubleshooting articles | Most common issue first |
-| Mixed content within a group | Overview first, then task articles by frequency of use, then advanced/edge case articles last |
+Overview first, then task articles by frequency of use, then advanced/edge case articles last.
 
 ### L3 article template (mandatory structure)
 
