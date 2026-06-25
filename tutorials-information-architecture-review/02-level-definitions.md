@@ -60,15 +60,17 @@ Every Level 1 section must have an overview/hub article as its first and pinned 
 - Summarize what the section covers
 - Describe the audience and prerequisites for using this section
 
-### Article count rules
+### Nesting rules
 
-Choose a clear structure for the section: either place articles directly under Level 1, or group all articles under Level 2 categories when grouping meaningfully reduces navigation complexity.
+- No folder nesting beyond Level 2.
+- No article may be nested more than 3 levels deep.
+- Choose a clear structure for the section: either place articles directly under Level 1, or group all articles under Level 2 categories when grouping meaningfully reduces navigation complexity.
 
 > ⚠️ Avoid mixing direct articles with Level 2 categories within the same section.
 
 ---
 
-## Level 2 — Category (Group)
+## Level 2 — Category (group)
 
 Level 2 is a collapsible group within a Level 1 section that clusters related articles by feature, task, or sub-domain.
 
