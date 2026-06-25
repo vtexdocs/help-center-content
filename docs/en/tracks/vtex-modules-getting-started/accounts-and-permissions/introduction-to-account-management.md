@@ -26,7 +26,7 @@ After logging in, you'll have access to your store's exclusive admin dashboard, 
 
 To access **Account settings**, click your profile avatar — indicated by your email initial letter — in the upper right corner of the Admin, and then click **Account settings**.
 
-![Admin v4 account settings menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/account-settings-overview_1.jpg)
 
 In this section, you'll find the main pages to manage your account:
 
@@ -80,8 +80,8 @@ Page to manage API keys (app keys and app tokens) used to authenticate integrati
 Now that you know the structure of Account Management, we recommend following this track to configure your account securely:
 
 1. **[Users and roles](https://help.vtex.com/en/docs/tracks/accounts-and-permissions/users-and-roles)**: See how to control who can access the Admin and what they can do.
-2. **[Authentication and security](/tracks/accounts-and-permissions/authentication-and-security)**: Configure secure login methods, including two-factor authentication.
-3. **[API keys for integrations](/tracks/accounts-and-permissions/api-keys-for-integrations)**: See how to create and manage keys for integrations with external systems.
+2. **[Authentication and security](https://help.vtex.com/en/docs/tracks/accounts-and-permissions/authentication-and-security)**: Configure secure login methods, including two-factor authentication.
+3. **[API keys for integrations](https://help.vtex.com/en/docs/tracks/accounts-and-permissions/api-keys-for-integrations)**: See how to create and manage keys for integrations with external systems.
 
 ## Learn more
 

@@ -27,7 +27,7 @@ Após fazer login, você terá acesso ao painel administrativo exclusivo da sua 
 
 Para acessar as **Configurações da conta**, clique no avatar do seu perfil (marcado pela inicial do seu email) no canto superior direito do Admin, e depois em **Configurações da conta**.
 
-![Admin v4 account settings menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
 
 Nesta seção, você encontra as principais páginas para gerenciar sua conta:
 
@@ -77,9 +77,9 @@ Página para gerenciar chaves de API (app keys e app tokens) usadas para autenti
 
 Agora que você conhece a estrutura do Gerenciamento da conta, recomendamos seguir esta trilha para configurar sua conta de forma segura:
 
-1. **[Usuários e perfis de acesso](/pt/tracks/contas-e-permissoes/usuarios-e-perfis-de-acesso)**: entenda como controlar quem acessa o Admin e o que cada pessoa pode fazer.
-2. **[Autenticação e segurança](/pt/tracks/contas-e-permissoes/autenticacao-e-seguranca)**: configure métodos de login seguros, incluindo autenticação de dois fatores.
-3. **[Chaves de API para integrações](/pt/tracks/contas-e-permissoes/chaves-de-api-para-integracoes)**: aprenda a criar e gerenciar chaves para integrações com sistemas externos.
+1. **[Usuários e perfis de acesso](https://help.vtex.com/pt/docs/tracks/contas-e-permissoes/usuarios-e-perfis-de-acesso)**: entenda como controlar quem acessa o Admin e o que cada pessoa pode fazer.
+2. **[Autenticação e segurança](https://help.vtex.com/pt/docs/tracks/contas-e-permissoes/autenticacao-e-seguranca)**: configure métodos de login seguros, incluindo autenticação de dois fatores.
+3. **[Chaves de API para integrações](https://help.vtex.com/pt/docs/tracks/contas-e-permissoes/chaves-de-api-para-integracoes)**: aprenda a criar e gerenciar chaves para integrações com sistemas externos.
 
 ## Saiba mais
 

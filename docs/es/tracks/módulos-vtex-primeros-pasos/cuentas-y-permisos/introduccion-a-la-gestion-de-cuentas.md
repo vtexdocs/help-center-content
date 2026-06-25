@@ -26,7 +26,7 @@ Después de iniciar sesión tendrás acceso al dashboard administrativo exclusiv
 
 Para acceder a **Configuración de la cuenta** haz clic en el avatar de tu perfil (marcado por la inicial de tu email) en la esquina superior derecha del Admin VTEX, y luego en **Configuración de la cuenta**.
 
-![Admin v4 account settings menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/vision-general-configuraciones-de-la-cuenta_1.jpg)
 
 Consulta en esta sección las principales páginas para gestionar tu cuenta:
 
@@ -79,12 +79,12 @@ Página para gestionar claves de API (app keys y app tokens) usadas para autenti
 
 Ahora que conoces la estructura de la gestión de la cuenta te recomendamos seguir esta serie de artículos para configurar tu cuenta de forma segura:
 
-1. **[Usuarios y roles](/es/docs/tracks/cuentas-y-permisos)**: aprende a controlar quién accede al Admin VTEX y qué puede hacer cada persona.
-2. **[Autenticación y seguridad](/es/docs/tracks/placeholder-autenticacion-y-seguridad)**: configura métodos de inicio de sesión seguros, incluida la autenticación de dos factores.
-3. **[Claves de API para integraciones](/es/docs/tracks/placeholder-claves-de-api-para-integraciones)**: aprende a crear y gestionar claves para integraciones con sistemas externos.
+1. **[Usuarios y roles](https://help.vtex.com/es/docs/tracks/cuentas-y-permisos/usuarios-y-roles)**: aprende a controlar quién accede al Admin VTEX y qué puede hacer cada persona.
+2. **[Autenticación y seguridad](https://help.vtex.com/es/docs/tracks/cuentas-y-permisos/autenticacion-y-seguridad)**: configura métodos de inicio de sesión seguros, incluida la autenticación de dos factores.
+3. **[Claves de API para integraciones](https://help.vtex.com/es/docs/tracks/cuentas-y-permisos/claves-de-api-para-integraciones)**: aprende a crear y gestionar claves para integraciones con sistemas externos.
 
 ## Más información
 
-- [Configuración de la cuenta - Información general](vision-general-configuraciones-de-la-cuenta)
+- [Configuración de la cuenta - Información general](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta)
 - [¿Qué es account name?](/es/docs/tutorials/que-es-account-name)
 - [Usuario titular](/es/docs/tutorials/que-es-el-usuario-titular)
