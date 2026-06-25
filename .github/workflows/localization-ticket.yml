@@ -17,10 +17,10 @@
 # Links source tasks (e.g. EDU-12345) found in the PR title, description, or branch to
 # the LOC parent with a Blocks link (LOC blocks EDU, same as LOC-26003 / EDU-18487).
 #
-# Crowdin: uploads PR-changed files via API (LOC-*_filename.md), sets word count on
-# the parent, editor links on language subtasks. Partial upload when <50% of lines
-# added in ≤3 blocks ({name}.partial.md); full source file is attached as Crowdin
-# file context for partial uploads, with **[UPDATED]** markers on changed lines.
+# Crowdin: uploads PR-changed files via API (LOC-*_{filename}.md or
+# LOC-*_PARTIAL_{filename}.md), sets word count on the parent, editor links on
+# language subtasks. Partial upload when changes span ≤5 blocks; full source file
+# is attached as Crowdin file context with START/END OF UPDATED SECTION markers.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
 # LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID,
