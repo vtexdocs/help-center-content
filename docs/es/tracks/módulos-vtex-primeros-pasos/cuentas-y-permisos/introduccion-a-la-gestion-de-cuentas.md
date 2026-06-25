@@ -85,6 +85,6 @@ Ahora que conoces la estructura de la gestión de la cuenta te recomendamos segu
 
 ## Más información
 
-- [Configuración de la cuenta - Información general](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta)
+- [Configuración de la cuenta - Información general](https://help.vtex.com/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta)
 - [¿Qué es account name?](/es/docs/tutorials/que-es-account-name)
 - [Usuario titular](/es/docs/tutorials/que-es-el-usuario-titular)
