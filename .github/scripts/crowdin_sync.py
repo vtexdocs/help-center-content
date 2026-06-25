@@ -31,7 +31,7 @@ CROWDIN_WEB_BASE_DEFAULT = "https://crowdin.com"
 LANGUAGE_ENV_DEFAULTS: dict[str, str] = {
     "CROWDIN_EN_LANGUAGE": "en",
     "CROWDIN_ES_LANGUAGE": "es-mx",
-    "CROWDIN_PT_LANGUAGE": "pt-BR",
+    "CROWDIN_PT_LANGUAGE": "pt-br",
 }
 
 
