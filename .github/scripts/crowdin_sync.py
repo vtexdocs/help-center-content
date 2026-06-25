@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
 """
-Upload PR-touched markdown files to a Crowdin project and report word counts
-and editor URLs for target languages.
+Upload PR-touched markdown files to Crowdin and update Jira descriptions
+with Crowdin metadata (word count, editor links).
 
-When fewer than half of a file's lines were added in the PR diff, grouped in no
-more than three consecutive blocks, only those added lines are uploaded (as a
-.partial.md file). Otherwise the full file is uploaded.
-
-Outputs JSON to stdout and, when GITHUB_OUTPUT is set, workflow outputs:
-  total_words, en_editor_links, es_editor_links, files_json
+Commands:
+  crowdin_sync.py              Upload touched files to Crowdin
+  crowdin_sync.py word-count   Merge word count into a Jira description (CURRENT, COUNT)
+  crowdin_sync.py crowdin-links  Merge editor links into a Jira description (CURRENT, LINKS)
 """
 
 from __future__ import annotations
@@ -308,7 +306,37 @@ def write_skip_outputs() -> None:
     write_github_output("files_json", "[]")
 
 
-def main() -> int:
+def merge_word_count_description(current: str, count: str) -> str:
+    row = f"|Word count|{count}|"
+    if re.search(r"^\|Word count\|", current, flags=re.MULTILINE):
+        return re.sub(r"^\|Word count\|.*\|$", row, current, flags=re.MULTILINE)
+    if "||Field||Value||" in current:
+        return current.replace(
+            "||Field||Value||\n",
+            f"||Field||Value||\n{row}\n",
+            1,
+        )
+    if current.strip():
+        return f"{current.rstrip()}\n\nh3. Crowdin\n||Field||Value||\n{row}\n"
+    return f"h3. Crowdin\n||Field||Value||\n{row}\n"
+
+
+def merge_crowdin_description(current: str, links: str) -> str:
+    section = f"h3. Crowdin editor\n\n{links}"
+    if re.search(r"^h3\. Crowdin editor\b", current, flags=re.MULTILINE):
+        return re.sub(
+            r"^h3\. Crowdin editor[\s\S]*$",
+            section,
+            current.rstrip(),
+            count=1,
+            flags=re.MULTILINE,
+        )
+    if current.strip():
+        return f"{current.rstrip()}\n\n{section}"
+    return section
+
+
+def upload_files() -> int:
     project_id = env("LOC_CROWDIN_PROJECT_ID")
     if not project_id:
         print("LOC_CROWDIN_PROJECT_ID is not set; skipping Crowdin upload", file=sys.stderr)
@@ -413,9 +441,37 @@ def main() -> int:
     return 0
 
 
+def main() -> int:
+    if len(sys.argv) == 1:
+        return upload_files()
+
+    command = sys.argv[1]
+    if command == "word-count":
+        print(merge_word_count_description(
+            os.environ.get("CURRENT", ""),
+            os.environ.get("COUNT", ""),
+        ))
+        return 0
+    if command == "crowdin-links":
+        print(merge_crowdin_description(
+            os.environ.get("CURRENT", ""),
+            os.environ.get("LINKS", ""),
+        ))
+        return 0
+    if command == "upload":
+        return upload_files()
+
+    print(
+        f"Unknown command: {command} "
+        "(expected upload, word-count, or crowdin-links)",
+        file=sys.stderr,
+    )
+    return 1
+
+
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
     except Exception as error:  # noqa: BLE001
-        print(f"Crowdin upload failed: {error}", file=sys.stderr)
+        print(f"Crowdin sync failed: {error}", file=sys.stderr)
         raise SystemExit(1) from error
