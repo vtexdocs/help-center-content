@@ -6,7 +6,7 @@ updatedAt: 2026-06-25T12:00:00.000Z
 publishedAt: 2026-06-25T12:00:00.000Z
 contentType: updates
 productTeam: Pick and Pack
-slugEN: 2026-06-25-in-store-pickup-flow-improvements
+slugEN: 2026-06-25-improvements-to-the-in-store-pickup-flow
 locale: pt
 announcementSynopsisPT: 'Melhore a experiência Buy Online Pickup In-Store com confirmação rápida de retirada e faturamento automático no Last Mile.'
 tags:
