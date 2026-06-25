@@ -75,6 +75,7 @@
 #
 #   LOC_CROWDIN_API_TOKEN              - Crowdin personal access token (crowdin.com)
 #   LOC_CROWDIN_PROJECT_ID             - Crowdin project numeric ID
+#   LOC_CROWDIN_ORGANIZATION           - Crowdin Enterprise org subdomain (optional)
 
 name: Create Localization Ticket
 
@@ -431,6 +432,7 @@ jobs:
         env:
           LOC_CROWDIN_API_TOKEN: ${{ secrets.LOC_CROWDIN_API_TOKEN }}
           LOC_CROWDIN_PROJECT_ID: ${{ secrets.LOC_CROWDIN_PROJECT_ID }}
+          LOC_CROWDIN_ORGANIZATION: ${{ secrets.LOC_CROWDIN_ORGANIZATION }}
           CHANGED_FILES: ${{ steps.content_diff.outputs.changed_files }}
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}

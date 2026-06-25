@@ -24,12 +24,46 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Literal
 
-CROWDIN_API_BASE = "https://api.crowdin.com/api/v2"
-CROWDIN_WEB_BASE = "https://crowdin.com"
+CROWDIN_API_BASE_DEFAULT = "https://api.crowdin.com/api/v2"
+CROWDIN_WEB_BASE_DEFAULT = "https://crowdin.com"
 
 
 def env(name: str, default: str = "") -> str:
     return os.environ.get(name, default).strip()
+
+
+def crowdin_api_base() -> str:
+    organization = env("LOC_CROWDIN_ORGANIZATION")
+    if organization:
+        return f"https://{organization}.api.crowdin.com/api/v2"
+    return CROWDIN_API_BASE_DEFAULT
+
+
+def crowdin_web_base() -> str:
+    organization = env("LOC_CROWDIN_ORGANIZATION")
+    if organization:
+        return f"https://{organization}.crowdin.com"
+    return CROWDIN_WEB_BASE_DEFAULT
+
+
+def crowdin_config_help(project_id: str) -> str:
+    hints = [
+        "Check LOC_CROWDIN_PROJECT_ID is the numeric project ID "
+        "(Crowdin project Settings → API, not the project slug).",
+        "Confirm LOC_CROWDIN_API_TOKEN has access to this project "
+        "(project.source.file scope).",
+    ]
+    if not env("LOC_CROWDIN_ORGANIZATION"):
+        hints.append(
+            "If this is Crowdin Enterprise, set LOC_CROWDIN_ORGANIZATION "
+            "to your organization subdomain (the hostname before .crowdin.com)."
+        )
+    else:
+        hints.append(
+            f"Using Enterprise API host {crowdin_api_base()} "
+            f"for organization {env('LOC_CROWDIN_ORGANIZATION')!r}."
+        )
+    return " ".join(hints)
 
 
 def crowdin_request(
@@ -44,7 +78,7 @@ def crowdin_request(
     if not token:
         raise RuntimeError("LOC_CROWDIN_API_TOKEN is not set")
 
-    url = f"{CROWDIN_API_BASE}{path}"
+    url = f"{crowdin_api_base()}{path}"
     headers = {"Authorization": f"Bearer {token}"}
     if extra_headers:
         headers.update(extra_headers)
@@ -83,8 +117,16 @@ def upload_storage_bytes(payload: bytes, file_name: str) -> int:
 
 
 def verify_project(project_id: str) -> None:
-    """Raise if the project ID or token is invalid."""
-    crowdin_request("GET", f"/projects/{project_id}")
+    """Raise if the project ID, API host, or token is invalid."""
+    try:
+        crowdin_request("GET", f"/projects/{project_id}")
+    except RuntimeError as error:
+        if "HTTP 404" in str(error):
+            raise RuntimeError(
+                f"Crowdin project {project_id!r} was not found at "
+                f"{crowdin_api_base()}. {crowdin_config_help(project_id)}"
+            ) from error
+        raise
 
 
 def default_branch_id(project_id: str) -> int | None:
@@ -93,12 +135,12 @@ def default_branch_id(project_id: str) -> int | None:
     try:
         response = crowdin_request("GET", f"/projects/{project_id}/branches?{query}")
     except RuntimeError as error:
-        # Branching is optional; Crowdin returns 404 when it is not enabled.
-        if "HTTP 404" not in str(error):
+        # Branching is optional; skip branchId when branches can't be listed.
+        if "HTTP 404" not in str(error) and "HTTP 403" not in str(error):
             raise
-        verify_project(project_id)
         print(
-            "Crowdin branching is not enabled for this project; uploading without branchId",
+            "Crowdin branches unavailable; uploading without branchId "
+            f"({error})",
             file=sys.stderr,
         )
         return None
@@ -172,7 +214,7 @@ def get_file_word_count(project_id: str, file_id: int) -> int:
 
 def editor_url(project_id: str, file_id: int, language_id: str) -> str:
     params = urllib.parse.urlencode({"fileId": file_id, "lang": language_id})
-    return f"{CROWDIN_WEB_BASE}/u/projects/{project_id}/editor?{params}"
+    return f"{crowdin_web_base()}/u/projects/{project_id}/editor?{params}"
 
 
 def crowdin_basename(relative_path: str) -> str:
@@ -394,6 +436,7 @@ def upload_files() -> int:
         write_skip_outputs()
         return 0
 
+    verify_project(project_id)
     branch_id = default_branch_id(project_id)
     uploaded_files = []
     total_words = 0
