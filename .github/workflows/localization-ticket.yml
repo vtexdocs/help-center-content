@@ -8,6 +8,8 @@
 # Label → priority/due: high = High / Friday next week; medium/low add 1–2 weeks.
 # Dedupe: PR comment → hc-github-pr-* Jira label → hc-github-pr-ref marker → [HC] fallback.
 # Re-runs update the existing parent (description, priority, due dates, subtasks).
+# Links source tasks (e.g. EDU-12345) found in the PR title, description, or branch to
+# the LOC parent with a Blocks link (LOC blocks EDU, same as LOC-26003 / EDU-18487).
 #
 # Crowdin: uploads PR-changed files via API (LOC-*_filename.md), sets word count on
 # the parent, EN/ES editor links on language subtasks. Partial upload when <50% of
@@ -24,6 +26,7 @@ name: Create Localization Ticket
 # LOC / Crowdin configuration (edit here if needed).
 env:
   LOC_JIRA_WORD_COUNT_FIELD: customfield_10253
+  LOC_JIRA_SOURCE_LINK_PROJECT_KEY: EDU
   CROWDIN_EN_LANGUAGE: en
   CROWDIN_ES_LANGUAGE: es-mx
 
@@ -170,7 +173,7 @@ jobs:
               "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
               --paginate \
               | jq -r --arg project "$LOC_JIRA_PROJECT_KEY" \
-                '[.[] | select(.body | test("Localization ticket \\[" + $project + "-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
+                '[.[] | select(.body | test(":globe_with_meridians: Localization task|Localization ticket \\[" + $project + "-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
               | grep -oE "${LOC_JIRA_PROJECT_KEY}-[0-9]+" | head -1 || true)
             if [ -n "$key" ]; then
               source="PR comment"
@@ -367,6 +370,105 @@ jobs:
             exit 1
           fi
 
+      - name: Link source Jira tasks from PR
+        if: >-
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.parent_ticket.outputs.parent_key != ''
+        env:
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+        run: |
+          PR_TITLE=$(jq -r '.pull_request.title' "$GITHUB_EVENT_PATH")
+          PR_BODY=$(jq -r '.pull_request.body // ""' "$GITHUB_EVENT_PATH")
+          PR_BRANCH=$(jq -r '.pull_request.head.ref' "$GITHUB_EVENT_PATH")
+          SOURCE_KEY_PATTERN="${LOC_JIRA_SOURCE_LINK_PROJECT_KEY}-[0-9]+"
+
+          SOURCE_KEYS=$(
+            {
+              printf '%s\n' "$PR_TITLE" "$PR_BODY" "$PR_BRANCH"
+            } | grep -oE "$SOURCE_KEY_PATTERN" | sort -u
+          )
+
+          if [ -z "$SOURCE_KEYS" ]; then
+            echo "No ${LOC_JIRA_SOURCE_LINK_PROJECT_KEY} tasks found in PR title, description, or branch"
+            exit 0
+          fi
+
+          echo "Found source tasks to link:"
+          printf '%s\n' "$SOURCE_KEYS"
+
+          source_block_exists() {
+            local loc_key="$1"
+            local source_key="$2"
+            curl -s \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${loc_key}?fields=issuelinks" \
+              | jq -e --arg loc "$loc_key" --arg source "$source_key" \
+                '.fields.issuelinks[]? |
+                  select(
+                    .type.name == "Blocks" and
+                    .inwardIssue.key == $loc and
+                    .outwardIssue.key == $source
+                  )' >/dev/null
+          }
+
+          source_issue_exists() {
+            local source_key="$1"
+            local http_code
+            http_code=$(curl -s -o /dev/null -w "%{http_code}" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${source_key}")
+            [ "$http_code" = "200" ]
+          }
+
+          create_source_block_link() {
+            local loc_key="$1"
+            local source_key="$2"
+            local payload response
+
+            payload=$(jq -n \
+              --arg loc "$loc_key" \
+              --arg source "$source_key" \
+              '{
+                type: { name: "Blocks" },
+                inwardIssue: { key: $loc },
+                outwardIssue: { key: $source }
+              }')
+
+            response=$(curl -s -o source-link-response.json -w "%{http_code}" \
+              -X POST \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issueLink")
+
+            if [ "$response" -eq 201 ]; then
+              echo "Created block: ${loc_key} blocks ${source_key}"
+            else
+              echo "Failed to link ${loc_key} blocks ${source_key} (HTTP ${response})" >&2
+              cat source-link-response.json >&2
+              exit 1
+            fi
+          }
+
+          while IFS= read -r source_key; do
+            [ -z "$source_key" ] && continue
+
+            if ! source_issue_exists "$source_key"; then
+              echo "Skipping ${source_key}: issue not found or not accessible" >&2
+              continue
+            fi
+
+            if source_block_exists "$PARENT_KEY" "$source_key"; then
+              echo "Skipped existing block: ${PARENT_KEY} blocks ${source_key}"
+              continue
+            fi
+
+            create_source_block_link "$PARENT_KEY" "$source_key"
+          done <<< "$SOURCE_KEYS"
+
       - name: Upload touched files to Crowdin
         id: crowdin_upload
         if: >-
@@ -441,25 +543,36 @@ jobs:
         run: |
           PR_NUMBER="${{ github.event.pull_request.number }}"
           JIRA_URL="${LOC_JIRA_BASE_URL}/browse/${PARENT_KEY}"
-          COMMENT="Localization ticket [${PARENT_KEY}](${JIRA_URL}) created. Estimated delivery date: ${PARENT_DUE_DATE}."
+          COMMENT_FILE=$(mktemp)
+          printf '%s\n' \
+            '> ### :globe_with_meridians: Localization task' \
+            '>' \
+            "> Localization ticket [${PARENT_KEY}](${JIRA_URL}) created" \
+            "> Estimated delivery date: \`${PARENT_DUE_DATE}\`" \
+            > "$COMMENT_FILE"
 
           EXISTING_COMMENT=$(gh api \
             "repos/${{ github.repository }}/issues/${PR_NUMBER}/comments" \
             --paginate \
             | jq -r --arg project "$LOC_JIRA_PROJECT_KEY" \
-              '.[] | select(.body | test("Localization ticket \\[" + $project + "-[0-9]+\\]")) | .id' \
-            | head -1)
+              '.[] | select(.body | test(":globe_with_meridians: Localization task|Localization ticket \\[" + $project + "-[0-9]+\\]")) | .id' \
+              | head -1)
 
           if [ -n "$EXISTING_COMMENT" ]; then
-            gh api -X PATCH \
-              "repos/${{ github.repository }}/issues/comments/${EXISTING_COMMENT}" \
-              -f body="$COMMENT"
-            echo "Updated PR comment: ${COMMENT}"
+            jq -n --rawfile body "$COMMENT_FILE" '{body: $body}' | \
+              gh api -X PATCH \
+                "repos/${{ github.repository }}/issues/comments/${EXISTING_COMMENT}" \
+                --input -
+            echo "Updated PR comment"
+            cat "$COMMENT_FILE"
+            rm -f "$COMMENT_FILE"
             exit 0
           fi
 
-          gh pr comment "$PR_NUMBER" --body "$COMMENT"
-          echo "Posted PR comment: ${COMMENT}"
+          gh pr comment "$PR_NUMBER" --body-file "$COMMENT_FILE"
+          echo "Posted PR comment:"
+          cat "$COMMENT_FILE"
+          rm -f "$COMMENT_FILE"
 
       - name: Create localization subtasks
         if: >-
