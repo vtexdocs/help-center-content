@@ -44,8 +44,7 @@ Level 1 is the top-level navigation entry in the sidebar. It represents a broad,
 | Max words | 3 words |
 | Max characters | 20 characters |
 | Language | Noun phrase, no verbs |
-| Localization | Must be translated and localized for ES and PT (see trilingual sync doc) |
-| Stability | Labels shouldn't be changed once published, even if the underlying product is renamed |
+| Stability | Labels may change when article grouping changes, but avoid unnecessary renames and update localized labels together |
 
 ### L1 quantity target
 
@@ -84,33 +83,34 @@ Displayed as a collapsible sub-label under its parent Level 1 section, which exp
 
 A specific feature area or task cluster within the parent section.
 
-> Examples within **Catalog**: `Products & SKUs`, `Categories`, `Brands`, `Collections`
+> Examples within **Catalog**: `Products & SKUs`, `Categories`, `Brands`, `Collections`.
 
 ### How L2 is organized
 
-- Ordered by onboarding sequence where logical: overview/getting-started groups appear first, advanced/settings groups appear last
-- Alphabetical ordering is acceptable only for reference-heavy groups where users already know what they are looking for (e.g., payment connector A–Z index)
-- Groups that contain an overview article should surface that article first
+- Ordered by onboarding sequence where logical: overview/getting-started groups appear first, advanced/settings groups appear last.
+- Groups that contain an overview article should surface that article first.
 
 ### L2 label rules
+
 | Rule | Specification |
-|---|---|
+| :--- | :--- |
 | Max words | 4 words |
 | Max characters | 30 characters |
 | Language | Noun phrase preferred; adjective + noun also acceptable |
-| Examples of good labels | Products & SKUs, Checkout Settings, Payment Overview, B2B Organizations |
-| Examples of bad labels | `visión-de-conjunto-de-checkout` (too long), `configuración-de-configuraciones` (redundant) |
-| Localization | Must be translated for ES and PT |
+| Stability | Labels may change when article grouping changes, but avoid unnecessary renames. |
+
+> Examples: `Products & SKUs` (Catalog), `Checkout Settings` (Checkout), `Payment Overview` (Payments), `B2B Organizations` (B2B).
 
 ### L2 article count rules
+
 | Count | Rule |
-|---|---|
-| < 5 articles | Merge this group with a related group, or promote articles to Level 1 (flat, no L2 group) |
-| 5–20 articles | Ideal range for a Level 2 group |
-| > 20 articles | Split into 2 groups, or review whether some articles belong in a different section |
-| > 30 articles | Always split |
+| :--- | :--- |
+| Less than 5 articles | Consider merging this group with a related group, or promote articles to Level 1 (flat, no L2 group). |
+| With 5–20 articles | Ideal range for a Level 2 group |
+| More than 20 articles | Split into 2 groups, or review whether some articles belong in a different section |
 
 ### L2 quantity per Level 1 section
+
 | Range | Guidance |
 |---|---|
 | 0 groups | Acceptable for sections with < 15 articles total (use L1 → L3 directly) |
