@@ -116,10 +116,10 @@ def upload_storage_bytes(payload: bytes, file_name: str) -> int:
     return int(response["data"]["id"])
 
 
-def verify_project(project_id: str) -> None:
-    """Raise if the project ID, API host, or token is invalid."""
+def fetch_project_data(project_id: str) -> dict:
+    """Return Crowdin project metadata used for editor links."""
     try:
-        crowdin_request("GET", f"/projects/{project_id}")
+        response = crowdin_request("GET", f"/projects/{project_id}")
     except RuntimeError as error:
         if "HTTP 404" in str(error):
             raise RuntimeError(
@@ -127,6 +127,27 @@ def verify_project(project_id: str) -> None:
                 f"{crowdin_api_base()}. {crowdin_config_help(project_id)}"
             ) from error
         raise
+    return response["data"]
+
+
+def language_editor_code(project_data: dict, language_id: str) -> str:
+    source = project_data.get("sourceLanguage") or {}
+    if source.get("id") == language_id:
+        return str(source["editorCode"])
+    for language in project_data.get("targetLanguages") or []:
+        if language.get("id") == language_id:
+            return str(language["editorCode"])
+    return language_id
+
+
+def editor_url(
+    project_identifier: str,
+    file_id: int,
+    source_editor_code: str,
+    target_editor_code: str,
+) -> str:
+    language_pair = f"{source_editor_code}-{target_editor_code}"
+    return f"{crowdin_web_base()}/editor/{project_identifier}/{file_id}/{language_pair}"
 
 
 def find_file(project_id: str, file_name: str) -> int | None:
@@ -184,11 +205,6 @@ def get_file_word_count(project_id: str, file_id: int) -> int:
             return int(items[0]["data"]["words"]["total"])
         time.sleep(2 * (attempt + 1))
     return 0
-
-
-def editor_url(project_id: str, file_id: int, language_id: str) -> str:
-    params = urllib.parse.urlencode({"fileId": file_id, "lang": language_id})
-    return f"{crowdin_web_base()}/u/projects/{project_id}/editor?{params}"
 
 
 def crowdin_basename(relative_path: str) -> str:
@@ -333,13 +349,6 @@ def write_github_output(name: str, value: str) -> None:
         handle.write(f"{name}<<{delimiter}\n{value}\n{delimiter}\n")
 
 
-def write_skip_outputs() -> None:
-    write_github_output("total_words", "0")
-    write_github_output("en_editor_links", "")
-    write_github_output("es_editor_links", "")
-    write_github_output("files_json", "[]")
-
-
 def merge_word_count_description(current: str, count: str) -> str:
     row = f"|Word count|{count}|"
     if re.search(r"^\|Word count\|", current, flags=re.MULTILINE):
@@ -370,20 +379,17 @@ def merge_crowdin_description(current: str, links: str) -> str:
     return section
 
 
-def upload_files() -> int:
+def require_crowdin_project_id() -> str:
     project_id = env("LOC_CROWDIN_PROJECT_ID")
     if not project_id:
-        print("LOC_CROWDIN_PROJECT_ID is not set; skipping Crowdin upload", file=sys.stderr)
-        result = {
-            "skipped": True,
-            "total_words": 0,
-            "en_editor_links": "",
-            "es_editor_links": "",
-            "files": [],
-        }
-        print(json.dumps(result))
-        write_skip_outputs()
-        return 0
+        raise RuntimeError("LOC_CROWDIN_PROJECT_ID is required")
+    if not env("LOC_CROWDIN_API_TOKEN"):
+        raise RuntimeError("LOC_CROWDIN_API_TOKEN is required")
+    return project_id
+
+
+def upload_files() -> int:
+    project_id = require_crowdin_project_id()
 
     base_sha = env("BASE_SHA")
     head_sha = env("HEAD_SHA")
@@ -399,18 +405,13 @@ def upload_files() -> int:
 
     files = changed_files()
     if not files:
-        result = {
-            "skipped": False,
-            "total_words": 0,
-            "en_editor_links": "",
-            "es_editor_links": "",
-            "files": [],
-        }
-        print(json.dumps(result))
-        write_skip_outputs()
-        return 0
+        raise RuntimeError("No eligible markdown files to upload to Crowdin")
 
-    verify_project(project_id)
+    project_data = fetch_project_data(project_id)
+    project_identifier = str(project_data["identifier"])
+    source_editor_code = str(project_data["sourceLanguage"]["editorCode"])
+    en_target_code = language_editor_code(project_data, en_language)
+    es_target_code = language_editor_code(project_data, es_language)
     uploaded_files = []
     total_words = 0
     en_links: list[str] = []
@@ -431,8 +432,8 @@ def upload_files() -> int:
         words = get_file_word_count(project_id, file_id)
         total_words += words
 
-        en_url = editor_url(project_id, file_id, en_language)
-        es_url = editor_url(project_id, file_id, es_language)
+        en_url = editor_url(project_identifier, file_id, source_editor_code, en_target_code)
+        es_url = editor_url(project_identifier, file_id, source_editor_code, es_target_code)
         en_links.append(f"[{crowdin_name}|{en_url}]")
         es_links.append(f"[{crowdin_name}|{es_url}]")
 
@@ -458,10 +459,15 @@ def upload_files() -> int:
             file=sys.stderr,
         )
 
+    if not uploaded_files:
+        raise RuntimeError("No files were uploaded to Crowdin")
+
     en_editor_links = "\n".join(en_links)
     es_editor_links = "\n".join(es_links)
+    if not en_editor_links or not es_editor_links:
+        raise RuntimeError("Crowdin editor links were not generated")
+
     result = {
-        "skipped": False,
         "total_words": total_words,
         "en_editor_links": en_editor_links,
         "es_editor_links": es_editor_links,

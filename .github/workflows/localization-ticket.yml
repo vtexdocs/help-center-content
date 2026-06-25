@@ -1,84 +1,23 @@
-# Localization Ticket Automation
+# Creates/updates a LOC Jira parent task (+ 8 subtasks) when a localization label
+# is added to a PR with new pt/localization markdown content.
 #
-# Creates a Jira ticket for the Localization team when a localization needed label is added
-# to an eligible PR. The ticket includes PR details and the PR description for
-# context. Parent task priority and due date are set from the label:
-#   - localization needed (high)   -> High,   Friday of the following week
-#   - localization needed (medium) -> Medium, one week after High
-#   - localization needed (low)    -> Low,    one week after Medium
+# Trigger: localization needed (high|medium|low) on PRs to main under docs/pt/** or
+# localization/**. Skips PRs with the "localization" label or l10n* branches.
+# Re-add the label after new commits if it was applied before content changed.
 #
-# Requirements (all must be met for the workflow to run):
+# Label → priority/due: high = High / Friday next week; medium/low add 1–2 weeks.
+# Dedupe: PR comment → hc-github-pr-* Jira label → hc-github-pr-ref marker → [HC] fallback.
+# Re-runs update the existing parent (description, priority, due dates, subtasks).
 #
-#   Changed files
-#     - PR includes changes under docs/pt/**/*.md, docs/pt/**/*.mdx, or
-#       localization/**
-#     - Changes include at least one addition (deletion-only PRs are skipped)
+# Crowdin: uploads PR-changed files via API (LOC-*_filename.md), sets word count on
+# the parent, EN/ES editor links on language subtasks. Partial upload when <50% of
+# lines added in ≤3 blocks ({name}.partial.md).
 #
-#   Trigger
-#     - One of these labels is added to the PR (re-add after new commits if the
-#       label was applied before pt/localization files changed):
-#         localization needed (high) | (medium) | (low)
-#     - PR targets the main branch
-#
-#   Exclusions
-#     - PRs including the "localization" label are skipped
-#     - PRs with a source branch starting with "l10n" are skipped (e.g. l10n_, l10n/, l10n-)
-#
-# Dedupe
-#   - Reuses an existing parent task when found via (in order):
-#       1. PR comment "Localization ticket [XXX-xxxxx]"
-#       2. Jira label hc-github-pr-{owner}-{repo}-{number}
-#       3. Jira text search for hc-github-pr-ref: {repo}#{number} (oldest wins)
-#       4. Jira fallback: [HC] summary + PR link text "#{number}" (oldest wins)
-#     (Jira does not reliably index full GitHub URLs in descriptions.)
-#   - New tickets receive the hc-github-pr-* label for reliable future dedupe
-#   - Re-adding or changing the localization label on a PR with an existing task
-#     updates the parent description, priority, due date, and subtask due dates
-#   - Missing subtasks are still attached; oldest matching ticket wins
-#   - Subtasks are matched by summary under the parent; oldest match wins
-#   - Posts a PR comment linking the parent task (updates delivery date if comment exists)
-#
-# After creating the parent task under the configured Education epic, the workflow
-# attaches the standard eight-step localization subtask chain in this order
-# (creation is sequential; rank is set afterward so Jira displays them the same way):
-#   1. Prepare file to be localized (blocks all subsequent tasks),
-#      due last Friday before parent due date (when that date is on or before
-#      creation day, use Monday of the following week instead).
-#   2. English translation (blocks subsequent English tasks),
-#      due last Tuesday before parent due
-#   3. English revision (blocks subsequent English tasks),
-#      due last Thursday before parent due
-#   4. English implementation, due the same day as parent due date.
-#   5. Spanish translation (blocks subsequent Spanish tasks),
-#      due last Tuesday before parent due.
-#   6. Spanish revision (blocks subsequent Spanish tasks),
-#      due last Thursday before parent due.
-#   7. Spanish implementation, due the same day as parent due date.
-#   8. Create PR (is blocked by all previous subtasks),
-#      due the same day as parent due date.
-#
-# Required GitHub Secrets (Settings > Secrets and variables > Actions):
-#
-#   LOC_JIRA_BASE_URL    - Jira instance URL
-#   LOC_JIRA_USER_EMAIL  - Atlassian account email (personal account is fine)
-#   LOC_JIRA_API_TOKEN   - API token for that account (https://id.atlassian.com)
-#   LOC_JIRA_PROJECT_KEY - Jira project key
-#   LOC_JIRA_EPIC_KEY    - Parent epic key for Help Center tasks
-#
-# Optional Crowdin + Jira custom fields (when set, touched files are uploaded
-# directly to the Crowdin project via API (no Git sync).
-# When fewer than half of a file's lines were added in no more than three
-# consecutive blocks, only those added lines are uploaded as {name}.partial.md.
-# All Crowdin files are flat names prefixed with the Jira task key.
-# Word count is written to the parent task (LOC_JIRA_WORD_COUNT_FIELD) and EN/ES
-# editor links are added to all English/Spanish subtask descriptions.
-#
-#   LOC_CROWDIN_API_TOKEN              - Crowdin personal access token (crowdin.com)
-#   LOC_CROWDIN_PROJECT_ID             - Crowdin project numeric ID
-#   LOC_CROWDIN_ORGANIZATION           - Crowdin Enterprise org subdomain (optional)
-#
+# Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
+# LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID
+# Optional: LOC_CROWDIN_ORGANIZATION (Crowdin Enterprise only)
 # Crowdin token scopes: Projects (read), Source files & strings (read/write),
-# Translation status (read) for word counts.
+# Translation status (read)
 
 name: Create Localization Ticket
 
@@ -121,10 +60,11 @@ jobs:
         run: |
           BASE_SHA="${{ github.event.pull_request.base.sha }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          # Three-dot diff matches the GitHub PR "Files changed" tab (branch-only changes).
+          DIFF_RANGE="${BASE_SHA}...${HEAD_SHA}"
 
           INSERTIONS=$(git diff --numstat \
-            "$BASE_SHA" \
-            "$HEAD_SHA" \
+            "$DIFF_RANGE" \
             -- docs/pt/ localization/ \
             | awk '{sum += $1} END {print sum+0}')
 
@@ -134,10 +74,10 @@ jobs:
             echo "has_additions=false" >> $GITHUB_OUTPUT
           fi
 
-          CHANGED_FILES=$(git diff --name-only --diff-filter=ACMRD \
-            "$BASE_SHA" \
-            "$HEAD_SHA" \
+          CHANGED_FILES=$(git diff --numstat \
+            "$DIFF_RANGE" \
             -- docs/pt/ localization/ \
+            | awk '$1 > 0 {print $3}' \
             | grep -E '\.(md|mdx)$' \
             | sort || true)
 
@@ -445,9 +385,7 @@ jobs:
       - name: Update parent task word count
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
-          steps.parent_ticket.outputs.parent_key != '' &&
-          steps.crowdin_upload.outputs.total_words != '' &&
-          steps.crowdin_upload.outputs.total_words != '0'
+          steps.parent_ticket.outputs.parent_key != ''
         env:
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
           LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
@@ -524,7 +462,9 @@ jobs:
           echo "Posted PR comment: ${COMMENT}"
 
       - name: Create localization subtasks
-        if: steps.content_diff.outputs.has_additions == 'true'
+        if: >-
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.parent_ticket.outputs.parent_key != ''
         env:
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
           LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
@@ -750,10 +690,12 @@ jobs:
           update_subtask_crowdin_links() {
             local key="$1"
             local links="$2"
+            local summary="$3"
             local current_desc merged_desc payload response
 
             if [ -z "$links" ]; then
-              return 0
+              echo "Missing Crowdin editor links for ${summary} subtask ${key}" >&2
+              exit 1
             fi
 
             current_desc=$(curl -s \
@@ -910,14 +852,16 @@ jobs:
           for i in "${!SUBTASK_SUMMARIES[@]}"; do
             case "${SUBTASK_SUMMARIES[$i]}" in
               English*)
-                if [ -n "${CROWDIN_EN_EDITOR_LINKS:-}" ]; then
-                  update_subtask_crowdin_links "${ORDERED_KEYS[$i]}" "$CROWDIN_EN_EDITOR_LINKS"
-                fi
+                update_subtask_crowdin_links \
+                  "${ORDERED_KEYS[$i]}" \
+                  "$CROWDIN_EN_EDITOR_LINKS" \
+                  "${SUBTASK_SUMMARIES[$i]}"
                 ;;
               Spanish*)
-                if [ -n "${CROWDIN_ES_EDITOR_LINKS:-}" ]; then
-                  update_subtask_crowdin_links "${ORDERED_KEYS[$i]}" "$CROWDIN_ES_EDITOR_LINKS"
-                fi
+                update_subtask_crowdin_links \
+                  "${ORDERED_KEYS[$i]}" \
+                  "$CROWDIN_ES_EDITOR_LINKS" \
+                  "${SUBTASK_SUMMARIES[$i]}"
                 ;;
             esac
           done
