@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
 > ⚠️ O [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Pronto para envio](/pt/docs/tutorials/pronto-para-envio)</li><li>[Painel VTEX Shipping Network](/pt/docs/tutorials/painel-vtex-shipping-network)</li><li>Entregas Correios</li></ul>

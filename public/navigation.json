@@ -25,6 +25,67 @@
           "children": [
             {
               "name": {
+                "en": "June",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "2026-june",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Localization improvements in Pick and Pack",
+                    "es": "Optimizaciones de localización en Pick and Pack",
+                    "pt": "Melhorias de localização no Pick and Pack"
+                  },
+                  "slug": {
+                    "en": "2026-06-24-localization-improvements-in-pick-and-pack",
+                    "es": "2026-06-24-mejoras-de-localizacion-en-pick-and-pack",
+                    "pt": "2026-06-24-melhorias-de-localizacao-no-pick-and-pack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode: New name for the Mode-off feature",
+                    "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
+                    "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
+                  },
+                  "slug": {
+                    "en": "2026-06-22-contingency-mode-new-name-for-the-mode-off-feature",
+                    "es": "2026-06-22-contingency-mode-nuevo-nombre-de-la-funcionalidad-mode-off",
+                    "pt": "2026-06-22-contigency-mode-novo-nome-da-funcionalidade-mode-off"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New events available in Audit",
+                    "es": "Nuevos eventos disponibles en Audit",
+                    "pt": "Novos eventos disponíveis no Audit"
+                  },
+                  "slug": {
+                    "en": "2026-06-10-new-events-available-in-audit",
+                    "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
+                    "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "May",
                 "es": "Mayo",
                 "pt": "Maio"
@@ -131,9 +192,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Headless CMS: Stores will be upgraded to the new VTEX CMS",
-                    "es": "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS",
-                    "pt": "Headless CMS: lojas serão atualizadas para o novo CMS da VTEX"
+                    "en": "Headless CMS (Legacy): Stores will be upgraded to the new VTEX CMS",
+                    "es": "Headless CMS (Legacy): las tiendas serán migradas al nuevo VTEX CMS",
+                    "pt": "Headless CMS (Legacy): lojas serão atualizadas para o novo CMS da VTEX"
                   },
                   "slug": {
                     "en": "2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms",
@@ -2140,9 +2201,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS: new authorization requirement",
-                    "es": "Headless CMS: nueva solicitud de autorización",
-                    "pt": "Headless CMS: nova solicitação de autorização"
+                    "en": "Headless CMS (Legacy): new authorization requirement",
+                    "es": "Headless CMS (Legacy): nueva solicitud de autorización",
+                    "pt": "Headless CMS (Legacy): nova solicitação de autorização"
                   },
                   "slug": {
                     "en": "2024-02-02-headless-cms-new-authorization-requirement",
@@ -2308,9 +2369,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS events available in Audit",
-                    "es": "Eventos de Headless CMS disponibles en Audit",
-                    "pt": "Eventos do Headless CMS disponíveis no Audit"
+                    "en": "Headless CMS (Legacy) events available in Audit",
+                    "es": "Eventos de Headless CMS (Legacy) disponibles en Audit",
+                    "pt": "Eventos do Headless CMS (Legacy) disponíveis no Audit"
                   },
                   "slug": {
                     "en": "2023-12-08-headless-cms-events-available-in-audit",
@@ -2384,9 +2445,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS: Simplify content creation and management with Projects",
-                    "es": "Headless CMS: simplifica la creación y gestión de contenidos con Proyectos",
-                    "pt": "Headless CMS: simplifique a criação e o gerenciamento de conteúdo com Projetos"
+                    "en": "Headless CMS (Legacy): Simplify content creation and management with Projects",
+                    "es": "Headless CMS (Legacy): simplifica la creación y gestión de contenidos con Proyectos",
+                    "pt": "Headless CMS (Legacy): simplifique a criação e o gerenciamento de conteúdo com Projetos"
                   },
                   "slug": {
                     "en": "2023-11-01-headless-cms-simplify-content-creation-and-management-with-projects",
@@ -2415,9 +2476,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Headless CMS: Deeper insights into page publication status",
-                    "es": "Headless CMS: información sobre el status de publicación de la página",
-                    "pt": "Headless CMS: mais informações sobre o status de publicação de páginas"
+                    "en": "Headless CMS (Legacy): Deeper insights into page publication status",
+                    "es": "Headless CMS (Legacy): información sobre el status de publicación de la página",
+                    "pt": "Headless CMS (Legacy): mais informações sobre o status de publicação de páginas"
                   },
                   "slug": {
                     "en": "2023-10-18-headless-cms-deeper-insights-into-page-publication-status",
@@ -2612,9 +2673,9 @@
                 },
                 {
                   "name": {
-                    "en": "Headless CMS: Stay informed on your publication progress",
-                    "es": "Headless CMS: mantente informado sobre el progreso de tus publicaciones",
-                    "pt": "Headless CMS: mantenha-se informado sobre o progresso das suas publicações"
+                    "en": "Headless CMS (Legacy): Stay informed on your publication progress",
+                    "es": "Headless CMS (Legacy): mantente informado sobre el progreso de tus publicaciones",
+                    "pt": "Headless CMS (Legacy): mantenha-se informado sobre o progresso das suas publicações"
                   },
                   "slug": {
                     "en": "2023-08-21-headless-cms-stay-informed-on-your-publication-progress",
@@ -8898,14 +8959,14 @@
             },
             {
               "name": {
-                "en": "Why VTEX search engine ignores some terms",
-                "es": "Por que el buscador de VTEX ignora algunos términos buscados",
-                "pt": "Por que o buscador da VTEX ignora alguns termos buscados"
+                "en": "Why VTEX Search (Legacy) engine ignores some terms",
+                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
+                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
               },
               "slug": {
-                "en": "why-vtex-search-engine-ignores-some-terms",
-                "es": "por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados",
-                "pt": "por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados"
+                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
+                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
+                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
               },
               "origin": "",
               "type": "markdown",
@@ -11204,9 +11265,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Legacy CMS Portal",
-                    "es": "3. CMS - Portal Legado",
-                    "pt": "3. CMS - Portal Legado"
+                    "en": "3. CMS Portal (Legacy)",
+                    "es": "3. CMS Portal (Legado)",
+                    "pt": "3. CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "legacy-cms-portal",
@@ -11265,14 +11326,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Understanding your account",
-                    "es": "1. Entendiendo su cuenta",
-                    "pt": "1. Entendendo a sua conta"
+                    "en": "1. Introduction to Account Management",
+                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "understanding-your-account",
-                    "es": "entendiendo-su-cuenta",
-                    "pt": "entendendo-a-sua-conta"
+                    "en": "placeholder-introduction-to-account-management",
+                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11280,14 +11341,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Editing account data",
-                    "es": "2. Editar datos de la cuenta",
-                    "pt": "2. Editar dados da conta"
+                    "en": "2. Users and Roles",
+                    "es": "2. Usuarios y Roles",
+                    "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "editing-account-data",
-                    "es": "editar-datos-de-la-cuenta",
-                    "pt": "editar-dados-da-conta"
+                    "en": "placeholder-users-and-roles",
+                    "es": "placeholder-usuarios-y-roles",
+                    "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11295,14 +11356,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. What are permissions and roles",
-                    "es": "3. ¿Qué son permisos y perfiles de acceso?",
-                    "pt": "3. O que são permissões e perfis de acesso"
+                    "en": "3. Authentication and Security",
+                    "es": "3. Autenticación y Seguridad",
+                    "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "what-are-permissions-and-access-profiles",
-                    "es": "que-son-permisos-y-perfiles-de-acceso",
-                    "pt": "o-que-sao-permissoes-e-perfis-de-acesso"
+                    "en": "placeholder-authentication-and-security",
+                    "es": "placeholder-autenticacion-y-seguridad",
+                    "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11310,104 +11371,14 @@
                 },
                 {
                   "name": {
-                    "en": "4. Creating and editing roles",
-                    "es": "4. Crear y editar perfiles de acceso",
-                    "pt": "4. Criar e editar perfis de acesso"
+                    "en": "4. API Keys for Integrations",
+                    "es": "4. Claves de API para Integraciones",
+                    "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "creating-and-editing-access-profiles",
-                    "es": "crear-y-editar-perfiles-de-acceso",
-                    "pt": "criar-e-editar-perfis-de-acesso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Creating and editing users",
-                    "es": "5. Crear y editar usuario",
-                    "pt": "5. Criar e editar usuário"
-                  },
-                  "slug": {
-                    "en": "creating-and-editing-users",
-                    "es": "crear-y-editar-usuario",
-                    "pt": "criar-e-editar-usuario"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. What is the Sponsor user",
-                    "es": "6. Qué es el usuario titular",
-                    "pt": "6. O que é o usuário Titular"
-                  },
-                  "slug": {
-                    "en": "what-is-the-master-user",
-                    "es": "que-es-el-usuario-master",
-                    "pt": "o-que-e-o-usuario-master"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "7. How the account relates to the website's pages",
-                    "es": "7. Cómo se relaciona la cuenta con las páginas del sitio web",
-                    "pt": "7. Como a conta se relaciona às páginas do site"
-                  },
-                  "slug": {
-                    "en": "como-a-conta-se-relaciona-as-paginas-do-site",
-                    "es": "como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web",
-                    "pt": "como-a-conta-se-relaciona-as-paginas-do-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
-                  },
-                  "slug": {
-                    "en": "enabling-2-factor-authentication-login",
-                    "es": "habilitar-inicio-de-sesion-por-autenticacion-de-2-factores",
-                    "pt": "habilitar-login-por-autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "9. Configuring login with Facebook",
-                    "es": "9. Configurar inicio de sesión con Facebook",
-                    "pt": "9. Configurar login com Facebook"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-facebook",
-                    "es": "configurar-inicio-de-sesion-con-facebook",
-                    "pt": "configurar-login-com-facebook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "10. Configuring login with Google",
-                    "es": "10. Configurar inicio de sesión con Google",
-                    "pt": "10. Configurar login com Google"
-                  },
-                  "slug": {
-                    "en": "configuring-login-with-google",
-                    "es": "configurar-inicio-de-sesion-con-google",
-                    "pt": "configurar-login-com-google"
+                    "en": "placeholder-api-keys-for-integrations",
+                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17186,9 +17157,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "8. Enabling two-factor authentication login",
-                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "8. Habilitar login por autenticação de dois fatores"
+                    "en": "Enabling two-factor authentication login",
+                    "es": "Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -17353,6 +17324,21 @@
                 },
                 {
                   "name": {
+                    "en": "Login for B2B stores",
+                    "es": "Login para tiendas B2B",
+                    "pt": "Login em lojas B2B"
+                  },
+                  "slug": {
+                    "en": "login-for-b2b-stores",
+                    "es": "login-para-tiendas-b2b",
+                    "pt": "login-em-lojas-b2b"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Organizational units",
                     "es": "Unidades organizativas",
                     "pt": "Unidades organizacionais"
@@ -17474,6 +17460,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring authentication methods by organizational unit",
+                    "es": "Configurar métodos de autenticación por unidad organizativa",
+                    "pt": "Configurar métodos de autenticação por unidade organizacional"
+                  },
+                  "slug": {
+                    "en": "configuring-authentication-methods-by-organizational-unit",
+                    "es": "configurar-metodos-de-autenticacion-por-unidad-organizativa",
+                    "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contract settings",
                     "es": "Configuración del contrato",
                     "pt": "Configurações do contrato"
@@ -17482,6 +17483,21 @@
                     "en": "contract-settings",
                     "es": "configuraciones-del-contrato",
                     "pt": "configuracoes-do-contrato"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Enable login for the organization via an external identity provider (IdP)",
+                    "es": "Activar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
+                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo"
+                  },
+                  "slug": {
+                    "en": "enable-login-for-the-organization-via-an-external-identity-provider-idp",
+                    "es": "activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
+                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20100,14 +20116,14 @@
                 },
                 {
                   "name": {
-                    "en": "How VTEX search works",
-                    "es": "Cómo funciona la búsqueda de VTEX",
-                    "pt": "Como funciona a busca da VTEX"
+                    "en": "How VTEX Search (Legacy) works",
+                    "es": "Cómo funciona la VTEX Search (Legado)",
+                    "pt": "Como funciona a VTEX Search (Legado)"
                   },
                   "slug": {
-                    "en": "how-does-vtex-search-work",
-                    "es": "como-funciona-la-busqueda-de-vtex",
-                    "pt": "como-funciona-a-busca-da-vtex"
+                    "en": "how-does-vtex-search-legacy-work",
+                    "es": "como-funciona-vtex-search-legado",
+                    "pt": "como-funciona-vtex-search-legado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20691,6 +20707,37 @@
             },
             {
               "name": {
+                "en": "Buyer portal checkout",
+                "es": "Buyer portal checkout",
+                "pt": "Buyer portal checkout"
+              },
+              "slug": {
+                "en": "buyer-portal-checkout",
+                "es": "buyer-portal-checkout",
+                "pt": "buyer-portal-checkout"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Buyer Portal Checkout",
+                    "es": "Buyer Portal Checkout",
+                    "pt": "Buyer Portal Checkout"
+                  },
+                  "slug": {
+                    "en": "buyer-portal-checkout-en",
+                    "es": "buyer-portal-checkout-es",
+                    "pt": "buyer-portal-checkout-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Using reCAPTCHA at Checkout",
                 "es": "reCAPTCHA en el checkout",
                 "pt": "reCAPTCHA no Checkout"
@@ -20765,6 +20812,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Collaboration workflows",
+                    "es": "Flujos de trabajo de colaboración",
+                    "pt": "Fluxos de trabalho de colaboração"
+                  },
+                  "slug": {
+                    "en": "collaboration-workflows",
+                    "es": "flujos-de-trabajo-de-colaboracion",
+                    "pt": "fluxos-de-trabalho-de-colaboracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Managing versions and branches",
@@ -27941,21 +28003,6 @@
                 },
                 {
                   "name": {
-                    "en": "Mode-Off: FAQ",
-                    "es": "Mode-Off: FAQ",
-                    "pt": "Mode-Off: FAQ"
-                  },
-                  "slug": {
-                    "en": "mode-off-faq",
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "​​Payments in VTEX marketplaces",
                     "es": "Pagos en los marketplaces VTEX",
                     "pt": "Pagamentos em marketplaces VTEX"
@@ -28256,6 +28303,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with actX",
+                    "es": "Configurar pago con actX",
+                    "pt": "Configurar pagamento com actX"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actx",
+                    "es": "configurar-pago-con-actx",
+                    "pt": "configurar-pagamento-com-actx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with actX-v2",
+                    "es": "Configurar pago con actX-v2",
+                    "pt": "Configurar pagamento com actX-v2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actxv2",
+                    "es": "configurar-pago-con-actxv2",
+                    "pt": "configurar-pagamento-com-actxv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with aCuotaz",
                     "es": "Configurar pago con aCuotaz",
                     "pt": "Configurar pagamento com aCuotaz"
@@ -28294,6 +28371,36 @@
                     "en": "setting-up-payments-with-aditum",
                     "es": "configurar-pago-con-aditum",
                     "pt": "configurar-pagamento-com-aditum"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with AdyenV2",
+                    "es": "Configurar pago con AdyenV2",
+                    "pt": "Configurar pagamento com AdyenV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-adyenv2",
+                    "es": "configurar-pago-con-adyenv2",
+                    "pt": "configurar-pagamento-com-adyenv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Affirm",
+                    "es": "Configurar pago con Affirm",
+                    "pt": "Configurar pagamento com Affirm"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-affirm",
+                    "es": "configurar-pago-con-affirm",
+                    "pt": "configurar-pagamento-com-affirm"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28384,6 +28491,21 @@
                     "en": "setting-up-payments-with-bamboo-payments",
                     "es": "configurar-pago-con-bamboo-payments",
                     "pt": "configurar-pagamento-com-bamboo-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Bancard",
+                    "es": "Configurar pago con Bancard",
+                    "pt": "Configurar pagamento com Bancard"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bancard",
+                    "es": "configurar-pago-con-bancard",
+                    "pt": "configurar-pagamento-com-bancard"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28549,6 +28671,36 @@
                     "en": "setting-up-payments-with-braintree",
                     "es": "configurar-pago-con-braintree",
                     "pt": "configurar-pagamento-com-braintree"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Braintree-Wallet",
+                    "es": "Configurar pago con Braintree-Wallet",
+                    "pt": "Configurar pagamento com Braintree-Wallet"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braintree-wallet",
+                    "es": "configurar-pago-con-braintree-wallet",
+                    "pt": "configurar-pagamento-com-braintree-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with BraspagV2",
+                    "es": "Configurar pago con BraspagV2",
+                    "pt": "Configurar pagamento com BraspagV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braspagv2",
+                    "es": "configurar-pago-con-braspagv2",
+                    "pt": "configurar-pagamento-com-braspagv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29126,6 +29278,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Getnet Argentina",
+                    "es": "Configurar pago con Getnet Argentina",
+                    "pt": "Configurar pagamento com Getnet Argentina"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-getnet-argentina",
+                    "es": "configurar-pago-con-getnet-argentina",
+                    "pt": "configurar-pagamento-com-getnet-argentina"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Getnet Chile",
                     "es": "Configurar pago con Getnet Chile",
                     "pt": "Configurar pagamento com Getnet Chile"
@@ -29276,6 +29443,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with KlarnaPayments",
+                    "pt": "Configurar pagamento com KlarnaPayments",
+                    "es": "Setting up payments with KlarnaPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-klarnapayments",
+                    "pt": "configurar-pagamento-com-klarnapayments",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Koin-Payments",
                     "es": "Configurar pago con Koin-Payments",
                     "pt": "Configurar pagamento com Koin-Payments"
@@ -29284,6 +29466,21 @@
                     "en": "setting-up-payments-with-koin-payments",
                     "es": "configurar-pago-con-koin-payments",
                     "pt": "configurar-pagamento-com-koin-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Koin-PaymentsV2",
+                    "es": "Configurar pago con Koin-PaymentsV2",
+                    "pt": "Configurar pagamento com Koin-PaymentsV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-koin-paymentsv2",
+                    "es": "configurar-pago-con-koin-paymentsv2",
+                    "pt": "configurar-pagamento-com-koin-paymentsv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29471,6 +29668,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with MSC-Payment",
+                    "es": "Configurar pago con MSC-Payment",
+                    "pt": "Configurar pagamento com MSC-Payment"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-msc-payment",
+                    "es": "configurar-pago-con-msc-payment",
+                    "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Netopia Marketplace",
                     "es": "Configurar pago con Netopia Marketplace",
                     "pt": "Configurar pagamento com Netopia Marketplace"
@@ -29569,6 +29781,21 @@
                     "en": "setting-up-payments-with-onebuy",
                     "es": "configurar-pagos-con-onebuy",
                     "pt": "configurar-pagamentos-com-onebuy"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with OpenpayV2",
+                    "es": "Configurar pago con OpenpayV2",
+                    "pt": "Configurar pagamento com OpenpayV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-openpayv2",
+                    "es": "configurar-pago-con-openpayv2",
+                    "pt": "configurar-pagamento-com-openpayv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29801,6 +30028,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PaymentezV2",
+                    "es": "Configurar pago con PaymentezV2",
+                    "pt": "Configurar pagamento com PaymentezV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-paymentezv2",
+                    "es": "configurar-pago-con-paymentezv2",
+                    "pt": "configurar-pagamento-com-paymentezv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PayPalCheckout",
                     "es": "Configurar pago con PayPalCheckout",
                     "pt": "Configurar pagamento com PayPalCheckout"
@@ -29899,6 +30141,21 @@
                     "en": "setting-up-payments-with-picpay",
                     "es": "configurar-pago-con-picpay",
                     "pt": "configurar-pagamento-com-picpay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Pideky Escala",
+                    "es": "Configurar pago con Pideky Escala",
+                    "pt": "Configurar pagamento com Pideky Escala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pideky-escala",
+                    "es": "configurar-pago-con-pideky-escala",
+                    "pt": "configurar-pagamento-com-pideky-escala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30244,6 +30501,21 @@
                     "en": "setting-up-payments-with-tilopay",
                     "es": "configurar-pago-con-tilopay",
                     "pt": "configurar-pagamento-com-tilopay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with TilopayOnSite",
+                    "es": "Configurar pago con TilopayOnSite",
+                    "pt": "Configurar pagamento com TilopayOnSite"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-tilopayonsite",
+                    "es": "configurar-pago-con-tilopayonsite",
+                    "pt": "configurar-pagamento-com-tilopayonsite"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31146,6 +31418,21 @@
                     "en": "checking-for-errors-or-problems-in-a-transaction",
                     "es": "comprobar-errores-o-problemas-en-una-transaccion",
                     "pt": "verificar-erros-ou-problemas-em-uma-transacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode",
+                    "es": "Contingency Mode",
+                    "pt": "Contingency Mode"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -34863,107 +35150,471 @@
           "children": [
             {
               "name": {
-                "en": "Headless CMS",
-                "es": "Headless CMS",
-                "pt": "Headless CMS"
+                "en": "CMS for Store Framework",
+                "es": "CMS for Store Framework",
+                "pt": "CMS for Store Framework"
               },
               "slug": {
-                "en": "headless-cms-subcategory",
-                "es": "headless-cms-subcategoria",
-                "pt": "headless-cms-subcategoria"
+                "en": "cms-for-store-framework-subcategory",
+                "es": "cms-for-store-framework-subcategoria",
+                "pt": "cms-for-store-framework-subcategoria"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Configuring SEO via Headless CMS",
-                    "es": "Configurar SEO a través de Headless CMS",
-                    "pt": "Configurando SEO via Headless CMS"
+                    "en": "Pages",
+                    "es": "Páginas",
+                    "pt": "Páginas"
                   },
                   "slug": {
-                    "en": "configuring-seo-via-headless-cms",
-                    "es": "configurar-seo-a-traves-de-headless-cms",
-                    "pt": "configurando-seo-via-headless-cms"
+                    "en": "pages-subcategory",
+                    "es": "paginas-subcategoria",
+                    "pt": "páginas-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Creating landing pages",
+                        "es": "Crear páginas de destino",
+                        "pt": "Criando landing pages"
+                      },
+                      "slug": {
+                        "en": "creating-landing-pages",
+                        "es": "crear-paginas-de-destino",
+                        "pt": "criando-landing-pages"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing URL redirects",
+                        "es": "Gestión de redirecciones de URL",
+                        "pt": "Gerenciando redirecionamentos de URL"
+                      },
+                      "slug": {
+                        "en": "managing-url-redirects",
+                        "es": "gestion-de-redirecciones-de-url",
+                        "pt": "gerenciando-redirecionamentos-de-url"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing URL redirects per binding",
+                        "es": "Gestionar redirecciones según el binding",
+                        "pt": "Gerenciando redirecionamentos de URL por binding"
+                      },
+                      "slug": {
+                        "en": "managing-redirects-per-binding",
+                        "es": "administrando-redireccionamientos-de-url-por-binding",
+                        "pt": "gerenciando-redirecionamentos-de-url-por-binding"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Pages - Overview",
+                        "es": "Páginas - Información general",
+                        "pt": "Páginas - Visão geral"
+                      },
+                      "slug": {
+                        "en": "pages-overview",
+                        "es": "paginas-vision-general",
+                        "pt": "paginas-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Headless CMS (Legacy) - Overview",
-                    "es": "Headless CMS (Legado) - Información general",
-                    "pt": "Headless CMS (Legado) - Visão geral"
+                    "en": "Site Editor",
+                    "es": "Site Editor",
+                    "pt": "Site Editor"
                   },
                   "slug": {
-                    "en": "headless-cms-overview",
-                    "es": "headless-cms-vision-general",
-                    "pt": "headless-cms-visao-geral"
+                    "en": "site-editor-subcategory",
+                    "es": "site-editor-subcategoria",
+                    "pt": "site-editor-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Improving the SEO of Product Listing Pages",
+                        "es": "Mejorar el SEO de las Páginas de lista de productos",
+                        "pt": "Melhorando o SEO das Páginas de lista de produtos"
+                      },
+                      "slug": {
+                        "en": "improving-the-seo-of-product-listing-pages",
+                        "es": "mejorar-el-seo-de-las-paginas-de-lista-de-productos",
+                        "pt": "melhorando-o-seo-das-paginas-de-lista-de-produtos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Linking URLs to banners using the Site Editor",
+                        "es": "Vinculando las URL en banners utilizando Site Editor",
+                        "pt": "Vinculando URLs em banners usando o Site Editor"
+                      },
+                      "slug": {
+                        "en": "linking-urls-to-banners-using-the-site-editor",
+                        "es": "vinculando-las-url-en-banners-utilizando-site-editor",
+                        "pt": "vinculando-urls-em-banners-usando-o-site-editor"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing content per binding",
+                        "es": "Gestionar el contenido según el binding",
+                        "pt": "Gerenciando conteúdo por binding"
+                      },
+                      "slug": {
+                        "en": "managing-content-per-binding",
+                        "es": "gestionar-el-contenido-segun-el-binding",
+                        "pt": "gerenciando-conteudo-por-binding"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing content versions",
+                        "es": "Gestión de versiones de contenido",
+                        "pt": "Gerenciando versões de conteúdo"
+                      },
+                      "slug": {
+                        "en": "managing-content-versions",
+                        "es": "gestion-de-versiones-de-contenido",
+                        "pt": "gerenciando-versoes-de-conteudo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing page and template content",
+                        "es": "Gestionar contenido de páginas y templates",
+                        "pt": "Gerenciando conteúdo de página e template"
+                      },
+                      "slug": {
+                        "en": "managing-page-and-template-content",
+                        "es": "gestionar-contenido-de-paginas-y-templates",
+                        "pt": "gerenciando-conteudo-de-pagina-e-template"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Reusing images with Image Widget",
+                        "es": "Reutilización de imágenes con Image Widget",
+                        "pt": "Reutilizando imagens com o Image Widget"
+                      },
+                      "slug": {
+                        "en": "image-widget",
+                        "es": "image-widget",
+                        "pt": "image-widget"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Scheduling content updates",
+                        "es": "Programar actualizaciones de contenido",
+                        "pt": "Agendando atualizações de conteúdo"
+                      },
+                      "slug": {
+                        "en": "scheduling-content-updates",
+                        "es": "programar-actualizaciones-de-contenido",
+                        "pt": "agendando-atualizacoes-de-conteudo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Site Editor - Overview",
+                        "es": "Site Editor - Información general",
+                        "pt": "Site Editor - Visão geral"
+                      },
+                      "slug": {
+                        "en": "site-editor-overview",
+                        "es": "site-editor-vision-general",
+                        "pt": "site-editor-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Managing Pages in the Headless CMS",
-                    "es": "Gestión de Páginas en el Headless CMS",
-                    "pt": "Gerenciando Páginas no Headless CMS"
+                    "en": "Store Settings - Storefront",
+                    "es": "Configuración de la Tienda - Storefront",
+                    "pt": "Configurações da Loja - Storefront"
                   },
                   "slug": {
-                    "en": "managing-pages",
-                    "es": "gestion-de-paginas",
-                    "pt": "gerenciando-paginas"
+                    "en": "store-settings---storefront-subcategory",
+                    "es": "configuracion-de-la-tienda---storefront-subcategoria",
+                    "pt": "configurações-da-loja---storefront-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Changing default system texts displayed in the store",
+                        "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
+                        "pt": "Alterar textos padrão do sistema exibidos na loja"
+                      },
+                      "slug": {
+                        "en": "changing-default-system-texts-displayed-in-the-store",
+                        "es": "cambiar-los-textos-predeterminados-del-sistema",
+                        "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring PWA in your Store Framework store",
+                        "es": "Configurar PWA en tu tienda Store Framework",
+                        "pt": "Configurando PWA em sua loja Store Framework"
+                      },
+                      "slug": {
+                        "en": "configuring-pwa-in-your-store-framework-store",
+                        "es": "configurar-pwa-en-tu-tienda-store-framework",
+                        "pt": "configurando-pwa-em-sua-loja-store-framework"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring SEO in CMS Portal (Legacy) stores",
+                        "es": "Configurar SEO en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "configuring-seo-in-legacy-cms-portal-stores",
+                        "es": "configurar-seo-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring SEO in your Store Framework store",
+                        "es": "Configurar SEO en tu tienda Store Framework",
+                        "pt": "Configurando SEO em sua loja Store Framework"
+                      },
+                      "slug": {
+                        "en": "configuring-seo-in-your-store",
+                        "es": "configurar-seo-en-la-tienda",
+                        "pt": "configurando-seo-em-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Enabling PWA push notifications in your store",
+                        "es": "Habilitar las notificaciones PWA de la tienda",
+                        "pt": "Habilitando notificações PWA da loja"
+                      },
+                      "slug": {
+                        "en": "enabling-pwa-push-notifications-in-your-store",
+                        "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
+                        "pt": "habilitando-notificacoes-pwa-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Filling in system settings",
+                        "es": "Cómo llenar las configuraciones del sistema",
+                        "pt": "Como preencher as configurações do sistema"
+                      },
+                      "slug": {
+                        "en": "filling-in-system-settings",
+                        "es": "configuraciones-sistema",
+                        "pt": "preenchendo-as-configuracoes-do-sistema"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to install a Service Worker",
+                        "es": "Cómo instalar un Service Worker",
+                        "pt": "Como instalar um Service Worker"
+                      },
+                      "slug": {
+                        "en": "how-to-install-a-service-worker",
+                        "es": "como-instalar-un-service-worker",
+                        "pt": "como-instalar-um-service-worker"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Set the store display texts",
+                        "es": "Definir los textos de visualización de la tienda",
+                        "pt": "Definir os textos de exibição da loja"
+                      },
+                      "slug": {
+                        "en": "set-the-store-display-language",
+                        "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
+                        "pt": "definir-o-idioma-de-exibicao-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up the standard size for the zoom image",
+                        "es": "Configurar el tamaño estándar de la imagen de zoom",
+                        "pt": "Configurar o tamanho padrão da imagem de zoom"
+                      },
+                      "slug": {
+                        "en": "setting-up-the-standard-size-for-the-zoom-image",
+                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
+                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Store - Overview",
+                        "es": "Tienda - Información general",
+                        "pt": "Loja - Visão geral"
+                      },
+                      "slug": {
+                        "en": "cms-store-overview",
+                        "es": "cms-tienda-vision-general",
+                        "pt": "cms-loja-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Storefront Settings - Overview",
+                        "es": "Configuración de Storefront - Información general",
+                        "pt": "Configurações de Storefront - Visão geral"
+                      },
+                      "slug": {
+                        "en": "storefront-settings-overview",
+                        "es": "vision-general-configuracion-de-storefront",
+                        "pt": "visao-geral-configuracoes-de-storefront"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
+                        "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
+                        "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
+                      },
+                      "slug": {
+                        "en": "what-are-the-internal-utms",
+                        "es": "que-son-las-utms-internas",
+                        "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Managing Projects",
-                    "es": "Gestionar Proyectos",
-                    "pt": "Gerenciando Projetos"
+                    "en": "Styles",
+                    "es": "Estilos",
+                    "pt": "Estilos"
                   },
                   "slug": {
-                    "en": "managing-projects",
-                    "es": "gestionar-proyectos",
-                    "pt": "gerenciando-projetos"
+                    "en": "styles-subcategory",
+                    "es": "estilos-subcategoria",
+                    "pt": "estilos-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing Singleton content types",
-                    "es": "Cómo gestionar content types Singleton",
-                    "pt": "Gerenciando content types do tipo Singleton"
-                  },
-                  "slug": {
-                    "en": "managing-singleton-content-types",
-                    "es": "como-gestionar-content-types-singleton",
-                    "pt": "gerenciando-content-types-do-tipo-singleton"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Media - Overview",
-                    "es": "Multimedia - Información general",
-                    "pt": "Mídia - Visão geral"
-                  },
-                  "slug": {
-                    "en": "media-overview",
-                    "es": "multimedia-vision-general",
-                    "pt": "midia-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Customizing your store’s typography",
+                        "es": "Personalizar la tipografía de tu tienda",
+                        "pt": "Personalizando a tipografia da sua loja"
+                      },
+                      "slug": {
+                        "en": "customizing-your-stores-typography",
+                        "es": "personalizar-la-tipografia-de-tu-tienda",
+                        "pt": "personalizando-a-tipografia-da-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Styles - Overview",
+                        "es": "Estilos - Información general",
+                        "pt": "Estilos - Visão geral"
+                      },
+                      "slug": {
+                        "en": "styles-overview",
+                        "es": "estilos-vision-general",
+                        "pt": "estilos-visao-geral"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 }
               ]
             },
@@ -34983,7 +35634,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "A/B Testing for stores on Legacy CMS Portal",
+                    "en": "A/B Testing for stores on CMS Portal (Legacy)",
                     "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
                     "pt": "Teste A/B para lojas no CMS Portal (Legado)"
                   },
@@ -35960,218 +36611,6 @@
             },
             {
               "name": {
-                "en": "Pages",
-                "es": "Páginas",
-                "pt": "Páginas"
-              },
-              "slug": {
-                "en": "pages-subcategory",
-                "es": "paginas-subcategoria",
-                "pt": "páginas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating landing pages",
-                    "es": "Crear páginas de destino",
-                    "pt": "Criando landing pages"
-                  },
-                  "slug": {
-                    "en": "creating-landing-pages",
-                    "es": "crear-paginas-de-destino",
-                    "pt": "criando-landing-pages"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing URL redirects",
-                    "es": "Gestión de redirecciones de URL",
-                    "pt": "Gerenciando redirecionamentos de URL"
-                  },
-                  "slug": {
-                    "en": "managing-url-redirects",
-                    "es": "gestion-de-redirecciones-de-url",
-                    "pt": "gerenciando-redirecionamentos-de-url"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing URL redirects per binding",
-                    "es": "Gestionar redirecciones según el binding",
-                    "pt": "Gerenciando redirecionamentos de URL por binding"
-                  },
-                  "slug": {
-                    "en": "managing-redirects-per-binding",
-                    "es": "administrando-redireccionamientos-de-url-por-binding",
-                    "pt": "gerenciando-redirecionamentos-de-url-por-binding"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Pages - Overview",
-                    "es": "Páginas - Información general",
-                    "pt": "Páginas - Visão geral"
-                  },
-                  "slug": {
-                    "en": "pages-overview",
-                    "es": "paginas-vision-general",
-                    "pt": "paginas-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Site Editor",
-                "es": "Site Editor",
-                "pt": "Site Editor"
-              },
-              "slug": {
-                "en": "site-editor-subcategory",
-                "es": "site-editor-subcategoria",
-                "pt": "site-editor-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Improving the SEO of Product Listing Pages",
-                    "es": "Mejorar el SEO de las Páginas de lista de productos",
-                    "pt": "Melhorando o SEO das Páginas de lista de produtos"
-                  },
-                  "slug": {
-                    "en": "improving-the-seo-of-product-listing-pages",
-                    "es": "mejorar-el-seo-de-las-paginas-de-lista-de-productos",
-                    "pt": "melhorando-o-seo-das-paginas-de-lista-de-produtos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Linking URLs to banners using the Site Editor",
-                    "es": "Vinculando las URL en banners utilizando Site Editor",
-                    "pt": "Vinculando URLs em banners usando o Site Editor"
-                  },
-                  "slug": {
-                    "en": "linking-urls-to-banners-using-the-site-editor",
-                    "es": "vinculando-las-url-en-banners-utilizando-site-editor",
-                    "pt": "vinculando-urls-em-banners-usando-o-site-editor"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing content per binding",
-                    "es": "Gestionar el contenido según el binding",
-                    "pt": "Gerenciando conteúdo por binding"
-                  },
-                  "slug": {
-                    "en": "managing-content-per-binding",
-                    "es": "gestionar-el-contenido-segun-el-binding",
-                    "pt": "gerenciando-conteudo-por-binding"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing content versions",
-                    "es": "Gestión de versiones de contenido",
-                    "pt": "Gerenciando versões de conteúdo"
-                  },
-                  "slug": {
-                    "en": "managing-content-versions",
-                    "es": "gestion-de-versiones-de-contenido",
-                    "pt": "gerenciando-versoes-de-conteudo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing page and template content",
-                    "es": "Gestionar contenido de páginas y templates",
-                    "pt": "Gerenciando conteúdo de página e template"
-                  },
-                  "slug": {
-                    "en": "managing-page-and-template-content",
-                    "es": "gestionar-contenido-de-paginas-y-templates",
-                    "pt": "gerenciando-conteudo-de-pagina-e-template"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Reusing images with Image Widget",
-                    "es": "Reutilización de imágenes con Image Widget",
-                    "pt": "Reutilizando imagens com o Image Widget"
-                  },
-                  "slug": {
-                    "en": "image-widget",
-                    "es": "image-widget",
-                    "pt": "image-widget"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Scheduling content updates",
-                    "es": "Programar actualizaciones de contenido",
-                    "pt": "Agendando atualizações de conteúdo"
-                  },
-                  "slug": {
-                    "en": "scheduling-content-updates",
-                    "es": "programar-actualizaciones-de-contenido",
-                    "pt": "agendando-atualizacoes-de-conteudo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Site Editor - Overview",
-                    "es": "Site Editor - Información general",
-                    "pt": "Site Editor - Visão geral"
-                  },
-                  "slug": {
-                    "en": "site-editor-overview",
-                    "es": "site-editor-vision-general",
-                    "pt": "site-editor-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Agentic CX",
                 "es": "Agentic CX",
                 "pt": "Agentic CX"
@@ -36186,8 +36625,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
                   },
                   "slug": {
@@ -36201,8 +36640,8 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
                     "pt": "Introdução ao CX"
                   },
                   "slug": {
@@ -36218,28 +36657,28 @@
             },
             {
               "name": {
-                "en": "Store Settings - Storefront",
-                "es": "Configuración de la Tienda - Storefront",
-                "pt": "Configurações da Loja - Storefront"
+                "en": "Headless CMS",
+                "es": "Headless CMS",
+                "pt": "Headless CMS"
               },
               "slug": {
-                "en": "store-settings---storefront-subcategory",
-                "es": "configuracion-de-la-tienda---storefront-subcategoria",
-                "pt": "configurações-da-loja---storefront-subcategoria"
+                "en": "headless-cms",
+                "es": "headless-cms",
+                "pt": "headless-cms"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Changing default system texts displayed in the store",
-                    "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
-                    "pt": "Alterar textos padrão do sistema exibidos na loja"
+                    "en": "Configuring SEO via Headless CMS (Legacy)",
+                    "es": "Configurar SEO a través de Headless CMS (Legacy)",
+                    "pt": "Configurando SEO via Headless CMS (Legacy)"
                   },
                   "slug": {
-                    "en": "changing-default-system-texts-displayed-in-the-store",
-                    "es": "cambiar-los-textos-predeterminados-del-sistema",
-                    "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
+                    "en": "configuring-seo-via-headless-cms",
+                    "es": "configurar-seo-a-traves-de-headless-cms",
+                    "pt": "configurando-seo-via-headless-cms"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36247,14 +36686,14 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring PWA in your Store Framework store",
-                    "es": "Configurar PWA en tu tienda Store Framework",
-                    "pt": "Configurando PWA em sua loja Store Framework"
+                    "en": "Headless CMS (Legacy) - Overview",
+                    "es": "Headless CMS (Legacy) (Legado) - Información general",
+                    "pt": "Headless CMS (Legacy) (Legado) - Visão geral"
                   },
                   "slug": {
-                    "en": "configuring-pwa-in-your-store-framework-store",
-                    "es": "configurar-pwa-en-tu-tienda-store-framework",
-                    "pt": "configurando-pwa-em-sua-loja-store-framework"
+                    "en": "headless-cms-overview",
+                    "es": "headless-cms-vision-general",
+                    "pt": "headless-cms-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36262,14 +36701,14 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring SEO in Legacy CMS Portal stores",
-                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
-                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
+                    "en": "Managing Pages in the Headless CMS (Legacy)",
+                    "es": "Gestión de Páginas en el Headless CMS (Legacy)",
+                    "pt": "Gerenciando Páginas no Headless CMS (Legacy)"
                   },
                   "slug": {
-                    "en": "configuring-seo-in-legacy-cms-portal-stores",
-                    "es": "configurar-seo-en-tiendas-cms-portal-legado",
-                    "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
+                    "en": "managing-pages",
+                    "es": "gestion-de-paginas",
+                    "pt": "gerenciando-paginas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36277,14 +36716,14 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring SEO in your Store Framework store",
-                    "es": "Configurar SEO en la tienda Store Framework",
-                    "pt": "Configurando SEO em sua loja Store Framework"
+                    "en": "Managing Projects",
+                    "es": "Gestionar Proyectos",
+                    "pt": "Gerenciando Projetos"
                   },
                   "slug": {
-                    "en": "configuring-seo-in-your-store",
-                    "es": "configurar-seo-en-la-tienda",
-                    "pt": "configurando-seo-em-sua-loja"
+                    "en": "managing-projects",
+                    "es": "gestionar-proyectos",
+                    "pt": "gerenciando-projetos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36292,14 +36731,14 @@
                 },
                 {
                   "name": {
-                    "en": "Enabling PWA push notifications in your store",
-                    "es": "Habilitar las notificaciones PWA de la tienda",
-                    "pt": "Habilitando notificações PWA da loja"
+                    "en": "Managing Singleton content types",
+                    "es": "Cómo gestionar content types Singleton",
+                    "pt": "Gerenciando content types do tipo Singleton"
                   },
                   "slug": {
-                    "en": "enabling-pwa-push-notifications-in-your-store",
-                    "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
-                    "pt": "habilitando-notificacoes-pwa-da-loja"
+                    "en": "managing-singleton-content-types",
+                    "es": "como-gestionar-content-types-singleton",
+                    "pt": "gerenciando-content-types-do-tipo-singleton"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36307,150 +36746,14 @@
                 },
                 {
                   "name": {
-                    "en": "Filling in system settings",
-                    "es": "Cómo llenar las configuraciones del sistema",
-                    "pt": "Como preencher as configurações do sistema"
+                    "en": "Media - Overview",
+                    "es": "Multimedia - Información general",
+                    "pt": "Mídia - Visão geral"
                   },
                   "slug": {
-                    "en": "filling-in-system-settings",
-                    "es": "configuraciones-sistema",
-                    "pt": "preenchendo-as-configuracoes-do-sistema"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to install a Service Worker",
-                    "es": "Cómo instalar un Service Worker",
-                    "pt": "Como instalar um Service Worker"
-                  },
-                  "slug": {
-                    "en": "how-to-install-a-service-worker",
-                    "es": "como-instalar-un-service-worker",
-                    "pt": "como-instalar-um-service-worker"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Set the store display texts",
-                    "es": "Definir los textos de visualización de la tienda",
-                    "pt": "Definir os textos de exibição da loja"
-                  },
-                  "slug": {
-                    "en": "set-the-store-display-language",
-                    "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
-                    "pt": "definir-o-idioma-de-exibicao-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up the standard size for the zoom image",
-                    "es": "Configurar el tamaño estándar de la imagen de zoom",
-                    "pt": "Configurar o tamanho padrão da imagem de zoom"
-                  },
-                  "slug": {
-                    "en": "setting-up-the-standard-size-for-the-zoom-image",
-                    "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                    "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Store - Overview",
-                    "es": "Tienda - Información general",
-                    "pt": "Loja - Visão geral"
-                  },
-                  "slug": {
-                    "en": "cms-store-overview",
-                    "es": "cms-tienda-vision-general",
-                    "pt": "cms-loja-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Storefront Settings - Overview",
-                    "es": "Configuración de Storefront - Información general",
-                    "pt": "Configurações de Storefront - Visão geral"
-                  },
-                  "slug": {
-                    "en": "storefront-settings-overview",
-                    "es": "vision-general-configuracion-de-storefront",
-                    "pt": "visao-geral-configuracoes-de-storefront"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
-                    "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
-                    "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
-                  },
-                  "slug": {
-                    "en": "what-are-the-internal-utms",
-                    "es": "que-son-las-utms-internas",
-                    "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Styles",
-                "es": "Estilos",
-                "pt": "Estilos"
-              },
-              "slug": {
-                "en": "styles-subcategory",
-                "es": "estilos-subcategoria",
-                "pt": "estilos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Customizing your store’s typography",
-                    "es": "Personalizar la tipografía de tu tienda",
-                    "pt": "Personalizando a tipografia da sua loja"
-                  },
-                  "slug": {
-                    "en": "customizing-your-stores-typography",
-                    "es": "personalizar-la-tipografia-de-tu-tienda",
-                    "pt": "personalizando-a-tipografia-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Styles - Overview",
-                    "es": "Estilos - Información general",
-                    "pt": "Estilos - Visão geral"
-                  },
-                  "slug": {
-                    "en": "styles-overview",
-                    "es": "estilos-vision-general",
-                    "pt": "estilos-visao-geral"
+                    "en": "media-overview",
+                    "es": "multimedia-vision-general",
+                    "pt": "midia-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36894,6 +37197,21 @@
                 "en": "enabling-local-stock-sale-in-vtex-sales-app",
                 "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
                 "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Extensibility in VTEX Sales App",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "extensibility-in-vtex-sales-app",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
@@ -37428,14 +37746,14 @@
                 },
                 {
                   "name": {
-                    "en": "Live Desk: Human service dashboard",
-                    "es": "Live Desk: Dashboard",
-                    "pt": "Live Desk: Dashboard"
+                    "en": "Manage Live Desk",
+                    "es": "Configurar el Live Desk",
+                    "pt": "Configurar o Live Desk"
                   },
                   "slug": {
-                    "en": "vtex-cx-platform-live-desk-dashboard",
-                    "es": "dashboard-de-live-desk",
-                    "pt": "dashboard-do-live-desk"
+                    "en": "manage-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37479,37 +37797,6 @@
                   },
                   "slug": {
                     "pt": "visao-geral-do-live-desk-agentic-cx",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configurações VTEX CX Platform",
-                "es": "Configurações VTEX CX Platform",
-                "pt": "Configurações VTEX CX Platform"
-              },
-              "slug": {
-                "en": "configuracoes-vtex-cx-platform",
-                "es": "configuracoes-vtex-cx-platform",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Gerenciamento de membros",
-                    "en": "Gerenciamento de membros",
-                    "es": "Gerenciamento de membros"
-                  },
-                  "slug": {
-                    "pt": "gerenciamento-de-membros-vtex-cx-platform",
                     "en": "",
                     "es": ""
                   },
@@ -38483,14 +38770,14 @@
                 },
                 {
                   "name": {
-                    "en": "Manage Live Desk",
-                    "es": "Configurar el Live Desk",
-                    "pt": "Configurar o Live Desk"
+                    "en": "Manage VTEX CX Platform Members",
+                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "manage-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
+                    "en": "manage-vtex-cx-platform-members",
+                    "es": "administrar-miembros-de-la-plataforma-vtex-cx",
+                    "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38502,7 +38789,38 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics",
+                "es": "analytics",
+                "pt": "analytics"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Analytics: Criar dashboard personalizado",
+                    "en": "Analytics: Criar dashboard personalizado",
+                    "es": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "pt": "analytics-criar-dashboard-personalizado",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Analytics: Métricas de atendimento"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",

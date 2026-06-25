@@ -48,25 +48,26 @@ Nesta seção você encontra as seguintes informações:
 
 O modelo de dados de busca é composto por três tipos de tabela, cada uma com um papel específico:
 
-- **Tabelas fato:** armazenam eventos que aconteceram. Cada linha é um registro de uma ação — uma busca realizada, um clique em um produto ou uma impressão exibida. São as tabelas com maior volume de dados e o ponto de partida para a maioria das análises. Exemplo: na tabela `request`, cada linha registra uma busca feita por um comprador, com o termo pesquisado, os filtros aplicados e o timestamp do evento.
+- **Tabelas fato:** armazenam eventos que aconteceram. Cada linha é um registro de uma ação, uma busca realizada, um clique em um produto ou uma impressão exibida. São as tabelas com maior volume de dados e o ponto de partida para a maioria das análises. Exemplo: na tabela `request`, cada linha registra uma busca feita por um comprador, com o termo pesquisado, os filtros aplicados e o timestamp do evento.
 - **Tabelas ponte:** estabelecem relacionamentos entre duas entidades. Não possuem dados de negócio próprios, apenas chaves que conectam registros de outras tabelas. Exemplo: a tabela `impression_click` contém apenas `impression_id` e `click_id`, permitindo responder "quais impressões geraram cliques?" sem duplicar dados de nenhuma das duas tabelas originais.
 - **Tabelas dimensão:** armazenam atributos descritivos e configurações que contextualizam os eventos. Este tipo de tabela muda com menos frequência e possui menor volume de dados. Exemplo: a tabela `request_setting` indica qual cluster do [Elasticsearch](https://www.elastic.co/elasticsearch) processou a busca e quais flags estavam ativas, como `hide_unavailable_items` ou `merchandising_rules_enabled`, permitindo analisar como diferentes configurações impactam os resultados.
 
 O diagrama abaixo mostra como as tabelas se organizam por tipo e se conectam entre si:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TB
     subgraph FATO["Tabelas fato (eventos)"]
-        tbl_request["request\n(busca realizada)"]
-        tbl_response["response\n(resultado retornado)"]
-        tbl_click["click\n(clique no resultado)"]
-        tbl_impression["impression\n(exibição de resultados)"]
+        tbl_request["request<br/>(busca realizada)"]
+        tbl_response["response<br/>(resultado retornado)"]
+        tbl_click["click<br/>(clique no resultado)"]
+        tbl_impression["impression<br/>(exibição de resultados)"]
     end
 
     subgraph PONTE["Tabelas ponte (relacionamentos)"]
-        tbl_response_product["response_product\n(produtos no resultado)"]
-        tbl_impression_click["impression_click\n(impressão → clique)"]
-        tbl_impression_order_group["impression_order_group\n(impressão → pedido)"]
+        tbl_response_product["response_product<br/>(produtos no resultado)"]
+        tbl_impression_click["impression_click<br/>(impressão → clique)"]
+        tbl_impression_order_group["impression_order_group<br/>(impressão → pedido)"]
 
         subgraph FILTROS["Filtros e regras da requisição"]
             tbl_text_filter["request_text_filter"]
@@ -86,7 +87,7 @@ flowchart TB
     end
 
     subgraph DIMENSAO["Tabela dimensão (configurações)"]
-        tbl_request_setting["request_setting\n(configurações do motor de busca)"]
+        tbl_request_setting["request_setting<br/>(configurações do motor de busca)"]
     end
 
     tbl_request -->|search_id| tbl_response
@@ -106,26 +107,28 @@ Veja abaixo três fluxos distintos de utilização dos dados
 - Fluxo 1: representa a jornada de uma requisição de busca e os detalhes que a compõem. Exemplo: um comprador busca "tênis de corrida" com filtros de marca e preço.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nComprador busca: tênis corrida"]
+    REQ["request<br/>Comprador busca:<br/>tênis corrida"]
 
-    REQ -->|"search_id"| SETTING["request_setting\nCluster ES: is-intelligent-search-v8-05\nFlags: hide_unavailable_items = true"]
-    REQ -->|"search_id"| RESP["response\nLatência: 150ms, Match: 42 produtos"]
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = Nike"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 a 500"]
+    REQ -->|"search_id"| SETTING["request_setting<br/>Cluster ES:<br/>is-intelligent-search-v8-05<br/>Flags: hide_unavailable<br/>items = true"]
+    REQ -->|"search_id"| RESP["response<br/>Latência: 150ms<br/>Match: 42 produtos"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = Nike"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 a 500"]
 
-    RESP -->|"search_id"| RP["response_product\n#1 Tênis Air Max - score: 95\n#2 Tênis Pegasus - score: 87\n#3 Tênis ZoomX - score: 82"]
+    RESP -->|"search_id"| RP["response_product<br/>#1 Tênis Air Max - score: 95<br/>#2 Tênis Pegasus - score: 87<br/>#3 Tênis ZoomX - score: 82"]
 ```
 
 - Fluxo 2: representa a jornada completa do comprador, da recuperação de resultados → clicar → comprar. Exemplo: o comprador vê os resultados, clica no produto #2 e finaliza a compra.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    IMP["impression\nResultados exibidos\nao comprador"]
-    IC["impression_click\nVincula impressão\nao clique"]
-    CLK["click\nComprador clicou\nno produto #2, posição: 2"]
-    IOG["impression_order_group\nVincula impressão\nao pedido"]
-    ORD["Modelo de dados\nde Pedidos\n- order_group"]
+    IMP["impression<br/>Resultados exibidos<br/>ao comprador"]
+    IC["impression_click<br/>Vincula impressão<br/>ao clique"]
+    CLK["click<br/>Comprador clicou<br/>no produto #2<br/>posição: 2"]
+    IOG["impression_order_group<br/>Vincula impressão<br/>ao pedido"]
+    ORD["Modelo de dados<br/>de Pedidos<br/>order_group"]
 
     IMP -->|"impression_id"| IC
     IC -->|"click_id"| CLK
@@ -136,17 +139,18 @@ flowchart LR
 - Fluxo 3: cada requisição de busca pode ter múltiplos detalhes associados, todos vinculados por `search_id`. Uma mesma busca pode ter, por exemplo, dois filtros de texto, um filtro numérico e três vendedores ativos simultaneamente.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nsearch_id: X"]
+    REQ["request<br/>search_id: X"]
 
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = 'Nike'\ncategory = 'Calçados'"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 a 500"]
-    REQ -->|"search_id"| FQ["request_field_query\nsku:123"]
-    REQ -->|"search_id"| RR["request_relevance_rule\ntype: click, weight: 5"]
-    REQ -->|"search_id"| WLS["request_white_label_seller\nseller_01, seller_02"]
-    REQ -->|"search_id"| MR["request_merchandising_rule\nrule: promo-verao-2025"]
-    REQ -->|"search_id"| HS["request_hybrid_search\nmodel: openai:text-embedding-3-small\nratio: 0.5"]
-    REQ -->|"search_id"| DPS["request_dp_shipping\nshipping: pickup-in-point"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = 'Nike'<br/>category = 'Calçados'"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 a 500"]
+    REQ -->|"search_id"| FQ["request_field_query<br/>sku:123"]
+    REQ -->|"search_id"| RR["request_relevance_rule<br/>type: click<br/>weight: 5"]
+    REQ -->|"search_id"| WLS["request_white_label_seller<br/>seller_01, seller_02"]
+    REQ -->|"search_id"| MR["request_merchandising_rule<br/>rule: promo-verao-2025"]
+    REQ -->|"search_id"| HS["request_hybrid_search<br/>model: openai:text-embedding<br/>-3-small<br/>ratio: 0.5"]
+    REQ -->|"search_id"| DPS["request_dp_shipping<br/>shipping: pickup-in-point"]
 ```
 
 ## Características dos dados

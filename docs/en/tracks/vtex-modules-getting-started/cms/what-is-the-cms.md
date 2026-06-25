@@ -1,4 +1,4 @@
----
+﻿---
 title: 'CMS - Overview'
 id: 6OCY6S9tqBXPD5mgpbBInC
 status: PUBLISHED
@@ -21,10 +21,10 @@ A content management system (CMS) allows continuous and practical management of 
 
 On VTEX, the CMS is used to manage the store website pages, providing an autonomous way to create, organize, edit, and define the structure of all the folders, files, and components that make up your storefront.
 
-The CMS provides a set of tools that vary depending on the technology used in the store: **FastStore - VTEX Headless CMS**, **Store Framework - Site Editor**, or **Legacy Portal - Layout**.
+The CMS provides a set of tools that vary depending on the technology used in the store: **FastStore - VTEX Headless CMS (Legacy)**, **Store Framework - Site Editor**, or **Legacy Portal - Layout**.
 
 The following articles contain more details about the CMS in each technology:
 
 - [FastStore CMS](/en/docs/tutorials/managing-pages)
 - [Store Framework CMS](/en/docs/tracks/cms-vtex-io)
-- [Legacy CMS Portal](/en/docs/tutorials/what-is-cms-layout)
+- [CMS Portal (Legacy)](/en/docs/tutorials/what-is-cms-layout)

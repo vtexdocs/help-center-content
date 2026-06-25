@@ -1,5 +1,5 @@
----
-title: 'Eventos de Headless CMS disponibles en Audit'
+﻿---
+title: 'Eventos de Headless CMS (Legacy) disponibles en Audit'
 id: 2WQz4dwteRahTD71hIHNNc
 status: PUBLISHED
 createdAt: 2023-12-08T14:36:53.841Z
@@ -12,14 +12,14 @@ slugEN: 2023-12-08-headless-cms-events-available-in-audit
 locale: es
 legacySlug: eventos-de-headless-cms-disponibles-en-audit
 announcementImageID: 'undefined'
-announcementSynopsisES: 'Agregamos los eventos de Headless CMS a los logs de Audit.'
+announcementSynopsisES: 'Agregamos los eventos de Headless CMS (Legacy) a los logs de Audit.'
 ---
 
-[Audit](/es/docs/tutorials/audit), el módulo que registra los eventos que ocurren en tu tienda para auditorías futuras, ahora procesa eventos de [Headless CMS](/es/docs/tutorials/gestion-de-paginas): la solución VTEX para gestionar contenido web y que ofrece autonomía para crear, editar y publicar contenido a través del Admin VTEX.
+[Audit](/es/docs/tutorials/audit), el módulo que registra los eventos que ocurren en tu tienda para auditorías futuras, ahora procesa eventos de [Headless CMS (Legacy)](/es/docs/tutorials/gestion-de-paginas): la solución VTEX para gestionar contenido web y que ofrece autonomía para crear, editar y publicar contenido a través del Admin VTEX.
 
 ## ¿Qué cambió?
 
-Agregamos los eventos de Headless CMS que figuran en la siguiente tabla a los logs de Audit:
+Agregamos los eventos de Headless CMS (Legacy) que figuran en la siguiente tabla a los logs de Audit:
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
@@ -32,7 +32,7 @@ Agregamos los eventos de Headless CMS que figuran en la siguiente tabla a los lo
 | done.invoke.deleteContent | Eliminación de contenido. | ID del evento. |
 | done.invoke.deleteContentVariant | Eliminación de una versión del contenido. | ID del evento. |
 
-En la columna **Acción**, todos los eventos de Headless CMS también muestran la siguiente información:
+En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también muestran la siguiente información:
 
 * **CONTENT_ID:** código identificador único de contenido.
 * **VARIANT_ID:** código identificador único de la versión del contenido.

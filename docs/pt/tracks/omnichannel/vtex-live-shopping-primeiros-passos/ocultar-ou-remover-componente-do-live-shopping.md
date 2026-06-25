@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Ocultar ou remover componente do Live Shopping'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED
@@ -21,7 +21,7 @@ Verifique as instruções específicas para a sua solução frontend:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [FastStore](#faststore)
 
 > ❗ Para evitar que os espectadores vejam uma tela preta no final da transmissão, é possível exibir uma imagem de encerramento, conforme explicado a seguir:<ol><li>Antes de finalizar a transmissão, exiba a imagem de encerramento no Bundle ou em um estúdio externo.</li><li>Oculte o componente **Live Shopping** ou remova o código da loja (conforme descrito nas próximas seções).</li><li>Aguarde cerca de 10 minutos após exibir a imagem para que o cache seja atualizado.</li><li>Finalize o evento.
@@ -46,15 +46,15 @@ Para lojas que usam o [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado), 
 3. Exclua o script do **Live Shopping** do arquivo HTML em que foi [adicionado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#cms-portal-legado).
 4. Clique em `Salvar template` no canto superior direito do template.
 
-## Headless CMS
+## Headless CMS (Legacy)
 
-Para lojas que usam [Headless CMS](/pt/docs/tutorials/headless-cms-visao-geral), é necessário remover o script do **Live Shopping** do arquivo HTML em que foi [adicionado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
+Para lojas que usam [Headless CMS (Legacy)](/pt/docs/tutorials/headless-cms-visao-geral), é necessário remover o script do **Live Shopping** do arquivo HTML em que foi [adicionado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
 
 ## FastStore
 
 Para deletar o componente Live Shopping de um projeto que usa [FastStore](https://developers.vtex.com/docs/guides/faststore), siga os passos abaixo: 
 
-1. No Admin VTEX, acesse **Storefront > Headless CMS**, ou digite **Headless CMS** na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Storefront > Headless CMS (Legacy)**, ou digite **Headless CMS (Legacy)** na barra de busca no topo da página.
 2. Selecione a página em que deseja adicionar o **Live Shopping Player**.
 3. Na aba `Seções`, acesse a seção **Live Shopping Player** e clique em <i class="fas fa-ellipsis-v" aria-hidden="true"></i> **Mais > Excluir**.
 4. Clique em `Salvar`.
