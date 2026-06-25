@@ -239,10 +239,14 @@ def crowdin_basename(relative_path: str) -> str:
     return Path(relative_path.replace("\\", "/")).name
 
 
-def prefixed_crowdin_name(task_key: str, file_name: str, *, partial: bool = False) -> str:
-    if partial:
-        return f"{task_key}_PARTIAL_{file_name}"
-    return f"{task_key}_{file_name}"
+def build_crowdin_file_name(
+    task_key: str,
+    source_file_name: str,
+    mode: Literal["full", "partial"],
+) -> str:
+    if mode == "partial":
+        return f"{task_key}_PARTIAL_{source_file_name}"
+    return f"{task_key}_{source_file_name}"
 
 
 PT_SOURCE_PATH_PREFIXES = ("docs/pt/", "localization/")
@@ -447,7 +451,7 @@ def highlight_changed_lines(full_text: str, changed_line_numbers: set[int]) -> s
 @dataclass
 class UploadPlan:
     mode: Literal["full", "partial"]
-    crowdin_name: str
+    source_file_name: str
     content: bytes
     added_line_count: int
     total_line_count: int
@@ -470,7 +474,7 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
         changed_line_numbers = {line_no for line_no, _ in additions}
         return UploadPlan(
             mode="partial",
-            crowdin_name=file_name,
+            source_file_name=file_name,
             content=partial_text.encode("utf-8"),
             added_line_count=added_count,
             total_line_count=total_lines,
@@ -484,7 +488,7 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
 
     return UploadPlan(
         mode="full",
-        crowdin_name=file_name,
+        source_file_name=file_name,
         content=file_path.read_bytes(),
         added_line_count=added_count,
         total_line_count=total_lines,
@@ -608,10 +612,10 @@ def upload_group_files(
             continue
 
         plan = plan_upload(relative_path, base_sha, head_sha)
-        crowdin_name = prefixed_crowdin_name(
+        crowdin_name = build_crowdin_file_name(
             task_key,
-            plan.crowdin_name,
-            partial=(plan.mode == "partial"),
+            plan.source_file_name,
+            plan.mode,
         )
         storage_id = upload_storage_bytes(plan.content, crowdin_name)
         file_id = create_or_update_file(
@@ -619,7 +623,7 @@ def upload_group_files(
             storage_id,
             crowdin_name,
             "md",
-            file_context=plan.file_context,
+            file_context=plan.file_context if plan.mode == "partial" else None,
         )
         words = get_file_word_count(project_id, file_id)
         total_words += words
