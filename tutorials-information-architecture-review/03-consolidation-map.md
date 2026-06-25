@@ -1,6 +1,6 @@
 # Consolidation Map — 36 Sections → 15 Sections
 
-This document maps every existing top-level section (and their sub-categories) to the proposed new IA structure. It is the primary reference for the restructuring phase.
+This document maps every existing top-level section (and their sub-categories) to the proposed new Information Architecture (IA) structure. It is the primary reference for the restructuring phase.
 
 **Reading this document:**
 - `KEEP` = folder is retained in place (may be renamed)
