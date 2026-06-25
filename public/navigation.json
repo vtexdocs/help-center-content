@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Improvements to the in-store pickup flow",
+                    "es": "Mejoras en el flujo de recogida en tienda",
+                    "pt": "Melhorias no fluxo de retirada em loja"
+                  },
+                  "slug": {
+                    "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
+                    "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
+                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Localization improvements in Pick and Pack",
                     "es": "Optimizaciones de localización en Pick and Pack",
                     "pt": "Melhorias de localização no Pick and Pack"
