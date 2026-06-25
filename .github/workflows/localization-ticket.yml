@@ -581,12 +581,39 @@ jobs:
           PARENT_DUE_DATE: ${{ steps.parent_ticket.outputs.parent_due_date }}
         run: |
           PR_NUMBER="${{ github.event.pull_request.number }}"
+          PR_TITLE=$(jq -r '.pull_request.title' "$GITHUB_EVENT_PATH")
+          PR_BODY=$(jq -r '.pull_request.body // ""' "$GITHUB_EVENT_PATH")
+          PR_BRANCH=$(jq -r '.pull_request.head.ref' "$GITHUB_EVENT_PATH")
           JIRA_URL="${LOC_JIRA_BASE_URL}/browse/${PARENT_KEY}"
+          SOURCE_KEY_PATTERN="${LOC_JIRA_SOURCE_LINK_PROJECT_KEY}-[0-9]+"
+
+          SOURCE_KEYS=$(
+            {
+              printf '%s\n' "$PR_TITLE" "$PR_BODY" "$PR_BRANCH"
+            } | grep -oE "$SOURCE_KEY_PATTERN" | sort -u
+          )
+
+          if [ -n "$SOURCE_KEYS" ]; then
+            EDU_LINKS=""
+            while IFS= read -r source_key; do
+              [ -z "$source_key" ] && continue
+              source_url="${LOC_JIRA_BASE_URL}/browse/${source_key}"
+              if [ -n "$EDU_LINKS" ]; then
+                EDU_LINKS="${EDU_LINKS}, [${source_key}](${source_url})"
+              else
+                EDU_LINKS="[${source_key}](${source_url})"
+              fi
+            done <<< "$SOURCE_KEYS"
+            TICKET_LINE="Localization ticket [${PARENT_KEY}](${JIRA_URL}) created. It blocks ${EDU_LINKS}."
+          else
+            TICKET_LINE="Localization ticket [${PARENT_KEY}](${JIRA_URL}) created."
+          fi
+
           COMMENT_FILE=$(mktemp)
           printf '%s\n' \
             '> ### :globe_with_meridians: Localization task' \
             '>' \
-            "> Localization ticket [${PARENT_KEY}](${JIRA_URL}) created." \
+            "> ${TICKET_LINE}" \
             "> Estimated delivery date: \`${PARENT_DUE_DATE}\`" \
             > "$COMMENT_FILE"
 
