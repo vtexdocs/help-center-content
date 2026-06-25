@@ -128,22 +128,22 @@ A tutorial should be a self-contained content with a specific task or concept.
 
 | Rule | Specification |
 | :--- | :--- |
-| Format | Verb-first noun phrase (imperative): "Configure X", "Set up Y", "Manage Z" |
 | Sidebar max words | 6 words |
-| Sidebar max characters | 45 characters (truncated with ellipsis beyond this) |
-| Full page title | May be longer than the sidebar label but must start with a verb |
-| Language | Plain language using terms from the VTEX Admin interface |
-| Avoid | "Overview of X", "Introduction to X" as titles (use the content inside the article, not as a standalone article unless it is a section hub page) |
+| Sidebar max characters | 45 characters |
+
+> ℹ️ These values are meant as good practices, not strict rules.
 
 ### How L3 articles are ordered within a group
+
 | Content type | Ordering rule |
-|---|---|
+| :--- | :--- |
 | Setup/configuration flow | Order by user journey: basic → advanced; first-time setup steps → optional configuration |
 | Reference articles (lists, connectors, etc.) | Alphabetical |
 | Troubleshooting articles | Most common issue first |
 | Mixed content within a group | Overview first, then task articles by frequency of use, then advanced/edge case articles last |
 
 ### L3 article template (mandatory structure)
+
 Every tutorial article must follow this structure:
 
 1. **Goal summary** (1–2 sentences at the top): what the user will accomplish
