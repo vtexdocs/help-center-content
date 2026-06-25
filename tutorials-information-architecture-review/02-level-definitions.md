@@ -136,15 +136,6 @@ A tutorial should be a self-contained content with a specific task or concept.
 
 Overview first, then task articles by frequency of use, then advanced/edge case articles last.
 
-### L3 length guidelines
-
-| Type | Target length |
-|---|---|
-| Short how-to (single task) | 400–800 words |
-| Standard tutorial | 800–1,500 words |
-| Complex multi-step guide | 1,500–2,500 words |
-| Over 2,500 words | Review: should this be split into multiple articles? |
-
 ---
 
 ## Depth Decision Tree
