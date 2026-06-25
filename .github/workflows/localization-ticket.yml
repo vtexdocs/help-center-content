@@ -76,6 +76,9 @@
 #   LOC_CROWDIN_API_TOKEN              - Crowdin personal access token (crowdin.com)
 #   LOC_CROWDIN_PROJECT_ID             - Crowdin project numeric ID
 #   LOC_CROWDIN_ORGANIZATION           - Crowdin Enterprise org subdomain (optional)
+#
+# Crowdin token scopes: Projects (read), Source files & strings (read/write),
+# Translation status (read) for word counts.
 
 name: Create Localization Ticket
 
