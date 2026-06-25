@@ -105,9 +105,10 @@ A specific feature area or task cluster within the parent section.
 
 | Count | Rule |
 | :--- | :--- |
-| Less than 5 articles | Consider merging this group with a related group, or promote articles to Level 1 (flat, no L2 group). |
-| With 5–20 articles | Ideal range for a Level 2 group |
-| More than 20 articles | Split into 2 groups, or review whether some articles belong in a different section |
+| 1–3 articles | Avoid creating a Level 2 group unless the grouping is essential; merge with a related group or keep articles directly under Level 1. |
+| 4–12 articles | Ideal range for a Level 2 group in the current Tutorials structure. |
+| 13–20 articles | Acceptable for broad or high-traffic categories, but review ordering and scanability. |
+| More than 20 articles | Review whether the group should be split, renamed, or redistributed across clearer categories. |
 
 ### L2 quantity per Level 1 section
 
