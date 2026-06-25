@@ -359,8 +359,21 @@ def group_consecutive_blocks(additions: list[tuple[int, str]]) -> list[list[str]
     return blocks
 
 
-def should_upload_partial(added_count: int, block_count: int) -> bool:
-    if added_count == 0:
+def is_new_file(diff_text: str) -> bool:
+    return "new file mode" in diff_text
+
+
+def should_upload_partial(
+    added_count: int,
+    block_count: int,
+    total_lines: int,
+    *,
+    new_file: bool,
+) -> bool:
+    if added_count == 0 or new_file:
+        return False
+    # Entire file is new content (e.g. new file or full rewrite) → upload full file.
+    if total_lines > 0 and added_count >= total_lines:
         return False
     return block_count <= 5
 
@@ -467,8 +480,14 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
     additions = parse_added_lines(diff_text)
     blocks = group_consecutive_blocks(additions)
     added_count = len(additions)
+    new_file = is_new_file(diff_text)
 
-    if should_upload_partial(added_count, len(blocks)):
+    if should_upload_partial(
+        added_count,
+        len(blocks),
+        total_lines,
+        new_file=new_file,
+    ):
         partial_text = format_partial_content(blocks)
         full_text = file_path.read_text(encoding="utf-8")
         changed_line_numbers = {line_no for line_no, _ in additions}

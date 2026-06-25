@@ -19,8 +19,8 @@
 #
 # Crowdin: uploads PR-changed files via API (LOC-*_{filename}.md or
 # LOC-*_PARTIAL_{filename}.md), sets word count on the parent, editor links on
-# language subtasks. Partial upload when changes span ≤5 blocks; full source file
-# is attached as Crowdin file context with START/END OF UPDATED SECTION markers.
+# language subtasks. Partial upload for existing files with changes in ≤5 blocks
+# (not new files); full source file is attached as Crowdin file context with START/END OF UPDATED SECTION markers.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
 # LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID,
