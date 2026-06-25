@@ -44791,7 +44791,7 @@
             {
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
-                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente",
+                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
                 "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
               },
               "slug": {
