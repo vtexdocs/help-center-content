@@ -3,7 +3,7 @@ title: 'Mejoras en el flujo de recogida en tienda'
 createdAt: 2026-05-27T11:30:00.000Z
 updatedAt: 2026-06-03T11:00:00.000Z
 productTeam: Pick and Pack
-slugEN: 2026-05-27-improvements-to-the-in-store-pickup-flow
+slugEN: 2026-06-03-improvements-to-the-in-store-pickup-flow
 locale: es
 announcementSynopsisPT: 'Mejora la experiencia de compra online con recogida en tienda con confirmación rápida de recogida y facturación automática en el módulo Last Mile.'
 tags:
