@@ -27,8 +27,8 @@ As métricas a seguir descrevem o volume, a eficiência e o resultado direto das
 | **Cliques**                        | Número de cliques no anúncio.                                                                                                                                    | -                            |
 | **Visualizações**                  | Número de visualizações efetivas do anúncio (impressões que atenderam aos critérios de *viewability*).                                                           | -                            |
 | **CTR** (Click-through rate)       | Taxa de cliques. Mede o engajamento do anúncio em relação ao volume de exibições.                                                                                | (Cliques / Impressões) × 100 |
-| **Custo**                          | Investimento total em anúncios no período. Rótulo exibido para o público de anunciantes; o publisher vê o mesmo valor como **Receita com anúncios**.             | -                            |
-| **Receita com anúncios**           | Valor total recebido pelo publisher com a veiculação de anúncios no período. Rótulo exibido para o público de publishers; refere-se ao mesmo valor que o **Custo** visto pelo anunciante. | -                            |
+| **Custo**                          | Investimento total em anúncios no período. Rótulo exibido para o público de anunciantes. O publisher vê o mesmo valor como **Receita com anúncios**.             | -                            |
+| **Receita com anúncios**           | Valor total recebido pelo publisher com a veiculação de anúncios no período. Rótulo exibido para o público de publishers. Refere-se ao mesmo valor que o **Custo** visto pelo anunciante. | -                            |
 | **CPM** (Custo por mil impressões) | Custo médio por 1.000 impressões.                                                                                                                                | (Custo / Impressões) × 1.000 |
 
 
@@ -98,7 +98,7 @@ O VTEX Ads usa o modelo **Last Touch**, que credita a conversão à interação 
 | Usuário apenas clica e compra dentro da janela                     | Clique       |
 
 
-> ℹ️ A interação (clique ou visualização) deve ocorrer antes da efetivação do pedido para que a conversão seja válida. Cada conversão é atribuída a um único anúncio e a uma única interação; não há divisão proporcional de crédito.
+> ℹ️ A interação (clique ou visualização) deve ocorrer antes da efetivação do pedido para que a conversão seja válida. Cada conversão é atribuída a um único anúncio e a uma única interação, sem divisão proporcional de crédito.
 
 ### Conversão direta e vendas Halo
 
