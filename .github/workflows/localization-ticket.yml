@@ -64,8 +64,25 @@
 #   LOC_JIRA_API_TOKEN   - API token for that account (https://id.atlassian.com)
 #   LOC_JIRA_PROJECT_KEY - Jira project key
 #   LOC_JIRA_EPIC_KEY    - Parent epic key for Help Center tasks
+#
+# Optional Crowdin + Jira custom fields (when set, touched files are uploaded
+# directly to the Crowdin project via API (no Git sync, no per-PR branches).
+# When fewer than half of a file's lines were added in no more than three
+# consecutive blocks, only those added lines are uploaded as {name}.partial.md.
+# All Crowdin files are flat names prefixed with the Jira task key.
+# Word count is written to the parent task (LOC_JIRA_WORD_COUNT_FIELD) and EN/ES
+# editor links are added to all English/Spanish subtask descriptions.
+#
+#   LOC_CROWDIN_API_TOKEN              - Crowdin personal access token (crowdin.com)
+#   LOC_CROWDIN_PROJECT_ID             - Crowdin project numeric ID
 
 name: Create Localization Ticket
+
+# LOC / Crowdin configuration (edit here if needed).
+env:
+  LOC_JIRA_WORD_COUNT_FIELD: customfield_10253
+  CROWDIN_EN_LANGUAGE: en
+  CROWDIN_ES_LANGUAGE: es-mx
 
 on:
   pull_request:
@@ -116,6 +133,7 @@ jobs:
           CHANGED_FILES=$(git diff --name-only --diff-filter=ACMRD \
             "$BASE_SHA" \
             "$HEAD_SHA" \
+            -- docs/pt/ localization/ \
             | grep -E '\.(md|mdx)$' \
             | sort || true)
 
@@ -405,6 +423,493 @@ jobs:
             exit 1
           fi
 
+      - name: Upload touched files to Crowdin
+        id: crowdin_upload
+        if: >-
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.parent_ticket.outputs.parent_key != ''
+        env:
+          LOC_CROWDIN_API_TOKEN: ${{ secrets.LOC_CROWDIN_API_TOKEN }}
+          LOC_CROWDIN_PROJECT_ID: ${{ secrets.LOC_CROWDIN_PROJECT_ID }}
+          CHANGED_FILES: ${{ steps.content_diff.outputs.changed_files }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          JIRA_TASK_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+        run: |
+          python3 <<'PYTHON'
+import json
+import os
+import re
+import subprocess
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Literal
+
+CROWDIN_API_BASE = "https://api.crowdin.com/api/v2"
+CROWDIN_WEB_BASE = "https://crowdin.com"
+
+
+def env(name: str, default: str = "") -> str:
+    return os.environ.get(name, default).strip()
+
+
+def crowdin_request(
+    method: str,
+    path: str,
+    *,
+    data: dict | bytes | None = None,
+    content_type: str = "application/json",
+    extra_headers: dict | None = None,
+) -> dict:
+    token = env("LOC_CROWDIN_API_TOKEN")
+    if not token:
+        raise RuntimeError("LOC_CROWDIN_API_TOKEN is not set")
+
+    url = f"{CROWDIN_API_BASE}{path}"
+    headers = {"Authorization": f"Bearer {token}"}
+    if extra_headers:
+        headers.update(extra_headers)
+    body = None
+    if isinstance(data, dict):
+        body = json.dumps(data).encode("utf-8")
+        headers["Content-Type"] = content_type
+    elif isinstance(data, bytes):
+        body = data
+        headers["Content-Type"] = content_type
+
+    request = urllib.request.Request(url, data=body, method=method, headers=headers)
+    try:
+        with urllib.request.urlopen(request) as response:
+            raw = response.read().decode("utf-8")
+            if not raw:
+                return {}
+            return json.loads(raw)
+    except urllib.error.HTTPError as error:
+        detail = error.read().decode("utf-8", errors="replace")
+        raise RuntimeError(
+            f"Crowdin API {method} {path} failed (HTTP {error.code}): {detail}"
+        ) from error
+
+
+def upload_storage_bytes(payload: bytes, file_name: str) -> int:
+    encoded_name = urllib.parse.quote(file_name, safe="")
+    response = crowdin_request(
+        "POST",
+        "/storages",
+        data=payload,
+        content_type="application/octet-stream",
+        extra_headers={"Crowdin-API-FileName": encoded_name},
+    )
+    return int(response["data"]["id"])
+
+
+def default_branch_id(project_id: str) -> int | None:
+    query = urllib.parse.urlencode({"limit": 500})
+    response = crowdin_request("GET", f"/projects/{project_id}/branches?{query}")
+    branches = response.get("data", [])
+    if not branches:
+        return None
+
+    for preferred in ("main", "master"):
+        for item in branches:
+            if item["data"]["name"] == preferred:
+                return int(item["data"]["id"])
+    return int(branches[0]["data"]["id"])
+
+
+def find_file(project_id: str, file_name: str, branch_id: int | None) -> int | None:
+    params: dict[str, str | int] = {"filter": file_name, "limit": 500}
+    if branch_id is not None:
+        params["branchId"] = branch_id
+    query = urllib.parse.urlencode(params)
+    response = crowdin_request("GET", f"/projects/{project_id}/files?{query}")
+    for item in response.get("data", []):
+        if item["data"]["name"] == file_name:
+            return int(item["data"]["id"])
+    return None
+
+
+def create_or_update_file(
+    project_id: str,
+    branch_id: int | None,
+    storage_id: int,
+    file_name: str,
+    file_type: str,
+) -> int:
+    existing_id = find_file(project_id, file_name, branch_id)
+    if existing_id is None:
+        payload: dict[str, object] = {
+            "storageId": storage_id,
+            "name": file_name,
+            "type": file_type,
+        }
+        if branch_id is not None:
+            payload["branchId"] = branch_id
+        created = crowdin_request(
+            "POST",
+            f"/projects/{project_id}/files",
+            data=payload,
+        )
+        return int(created["data"]["id"])
+
+    crowdin_request(
+        "PUT",
+        f"/projects/{project_id}/files/{existing_id}",
+        data={"storageId": storage_id},
+    )
+    return existing_id
+
+
+def get_file_word_count(project_id: str, file_id: int) -> int:
+    for attempt in range(6):
+        response = crowdin_request(
+            "GET",
+            f"/projects/{project_id}/files/{file_id}/languages/progress",
+        )
+        items = response.get("data", [])
+        if items:
+            return int(items[0]["data"]["words"]["total"])
+        time.sleep(2 * (attempt + 1))
+    return 0
+
+
+def editor_url(project_id: str, file_id: int, language_id: str) -> str:
+    params = urllib.parse.urlencode({"fileId": file_id, "lang": language_id})
+    return f"{CROWDIN_WEB_BASE}/u/projects/{project_id}/editor?{params}"
+
+
+def crowdin_basename(relative_path: str) -> str:
+    return Path(relative_path.replace("\\", "/")).name
+
+
+def partial_crowdin_name(file_name: str) -> str:
+    path = Path(file_name)
+    return f"{path.stem}.partial{path.suffix}"
+
+
+def prefixed_crowdin_name(task_key: str, file_name: str) -> str:
+    return f"{task_key}_{file_name}"
+
+
+def is_eligible_path(relative_path: str) -> bool:
+    path = relative_path.replace("\\", "/")
+    return path.startswith(("docs/pt/", "localization/"))
+
+
+def changed_files() -> list[str]:
+    raw = env("CHANGED_FILES")
+    if not raw:
+        return []
+    return [
+        line.strip()
+        for line in raw.splitlines()
+        if line.strip().endswith((".md", ".mdx")) and is_eligible_path(line.strip())
+    ]
+
+
+def git_diff(base_sha: str, head_sha: str, relative_path: str) -> str:
+    result = subprocess.run(
+        ["git", "diff", "-U0", f"{base_sha}...{head_sha}", "--", relative_path],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if result.returncode not in (0, 1):
+        raise RuntimeError(
+            f"git diff failed for {relative_path}: "
+            f"{result.stderr.strip() or result.stdout.strip()}"
+        )
+    return result.stdout
+
+
+def parse_added_lines(diff_text: str) -> list[tuple[int, str]]:
+    additions: list[tuple[int, str]] = []
+    new_line = 0
+
+    for line in diff_text.splitlines():
+        if line.startswith("@@"):
+            match = re.search(r"\+(\d+)(?:,(\d+))?", line)
+            if match:
+                new_line = int(match.group(1))
+            continue
+        if line.startswith("+++") or line.startswith("---"):
+            continue
+        if line.startswith("+"):
+            additions.append((new_line, line[1:]))
+            new_line += 1
+        elif line.startswith("-"):
+            continue
+        elif line.startswith(" "):
+            new_line += 1
+
+    return additions
+
+
+def group_consecutive_blocks(additions: list[tuple[int, str]]) -> list[list[str]]:
+    if not additions:
+        return []
+
+    blocks: list[list[str]] = [[additions[0][1]]]
+    for (prev_no, _), (line_no, text) in zip(additions, additions[1:]):
+        if line_no == prev_no + 1:
+            blocks[-1].append(text)
+        else:
+            blocks.append([text])
+    return blocks
+
+
+def should_upload_partial(added_count: int, total_lines: int, block_count: int) -> bool:
+    if added_count == 0 or total_lines == 0:
+        return False
+    if block_count > 3:
+        return False
+    return added_count < (total_lines / 2)
+
+
+def format_partial_content(blocks: list[list[str]]) -> str:
+    return "\n\n".join("\n".join(block) for block in blocks)
+
+
+@dataclass
+class UploadPlan:
+    mode: Literal["full", "partial"]
+    crowdin_name: str
+    content: bytes
+    added_line_count: int
+    total_line_count: int
+    block_count: int
+
+
+def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
+    file_path = Path(relative_path)
+    file_name = crowdin_basename(relative_path)
+    total_lines = len(file_path.read_text(encoding="utf-8").splitlines())
+    diff_text = git_diff(base_sha, head_sha, relative_path)
+    additions = parse_added_lines(diff_text)
+    blocks = group_consecutive_blocks(additions)
+    added_count = len(additions)
+
+    if should_upload_partial(added_count, total_lines, len(blocks)):
+        partial_name = partial_crowdin_name(file_name)
+        partial_text = format_partial_content(blocks)
+        return UploadPlan(
+            mode="partial",
+            crowdin_name=partial_name,
+            content=partial_text.encode("utf-8"),
+            added_line_count=added_count,
+            total_line_count=total_lines,
+            block_count=len(blocks),
+        )
+
+    return UploadPlan(
+        mode="full",
+        crowdin_name=file_name,
+        content=file_path.read_bytes(),
+        added_line_count=added_count,
+        total_line_count=total_lines,
+        block_count=len(blocks),
+    )
+
+
+def write_github_output(name: str, value: str) -> None:
+    output_path = env("GITHUB_OUTPUT")
+    if not output_path:
+        return
+    delimiter = f"EOF_{name}"
+    with open(output_path, "a", encoding="utf-8") as handle:
+        handle.write(f"{name}<<{delimiter}\n{value}\n{delimiter}\n")
+
+
+def write_skip_outputs() -> None:
+    write_github_output("total_words", "0")
+    write_github_output("en_editor_links", "")
+    write_github_output("es_editor_links", "")
+    write_github_output("files_json", "[]")
+
+
+def main() -> int:
+    project_id = env("LOC_CROWDIN_PROJECT_ID")
+    if not project_id:
+        print("LOC_CROWDIN_PROJECT_ID is not set; skipping Crowdin upload", file=sys.stderr)
+        result = {
+            "skipped": True,
+            "total_words": 0,
+            "en_editor_links": "",
+            "es_editor_links": "",
+            "files": [],
+        }
+        print(json.dumps(result))
+        write_skip_outputs()
+        return 0
+
+    base_sha = env("BASE_SHA")
+    head_sha = env("HEAD_SHA")
+    if not base_sha or not head_sha:
+        raise RuntimeError("BASE_SHA and HEAD_SHA are required")
+
+    task_key = env("JIRA_TASK_KEY")
+    if not task_key:
+        raise RuntimeError("JIRA_TASK_KEY is required")
+
+    en_language = env("CROWDIN_EN_LANGUAGE")
+    es_language = env("CROWDIN_ES_LANGUAGE")
+
+    files = changed_files()
+    if not files:
+        result = {
+            "skipped": False,
+            "total_words": 0,
+            "en_editor_links": "",
+            "es_editor_links": "",
+            "files": [],
+        }
+        print(json.dumps(result))
+        write_skip_outputs()
+        return 0
+
+    branch_id = default_branch_id(project_id)
+    uploaded_files = []
+    total_words = 0
+    en_links: list[str] = []
+    es_links: list[str] = []
+
+    for relative_path in files:
+        file_path = Path(relative_path)
+        if not file_path.is_file():
+            print(f"Skipping missing file: {relative_path}", file=sys.stderr)
+            continue
+
+        plan = plan_upload(relative_path, base_sha, head_sha)
+        crowdin_name = prefixed_crowdin_name(task_key, plan.crowdin_name)
+        storage_id = upload_storage_bytes(plan.content, crowdin_name)
+        file_id = create_or_update_file(
+            project_id, branch_id, storage_id, crowdin_name, "md"
+        )
+        words = get_file_word_count(project_id, file_id)
+        total_words += words
+
+        en_url = editor_url(project_id, file_id, en_language)
+        es_url = editor_url(project_id, file_id, es_language)
+        en_links.append(f"[{crowdin_name}|{en_url}]")
+        es_links.append(f"[{crowdin_name}|{es_url}]")
+
+        uploaded_files.append(
+            {
+                "source_path": relative_path,
+                "path": crowdin_name,
+                "upload_mode": plan.mode,
+                "file_id": file_id,
+                "words": words,
+                "added_lines": plan.added_line_count,
+                "total_lines": plan.total_line_count,
+                "addition_blocks": plan.block_count,
+                "en_editor_url": en_url,
+                "es_editor_url": es_url,
+            }
+        )
+        print(
+            f"Uploaded {crowdin_name} ({plan.mode}): "
+            f"{words} words "
+            f"({plan.added_line_count}/{plan.total_line_count} added lines, "
+            f"{plan.block_count} block(s))",
+            file=sys.stderr,
+        )
+
+    en_editor_links = "\n".join(en_links)
+    es_editor_links = "\n".join(es_links)
+    result = {
+        "skipped": False,
+        "total_words": total_words,
+        "en_editor_links": en_editor_links,
+        "es_editor_links": es_editor_links,
+        "files": uploaded_files,
+    }
+    print(json.dumps(result))
+    write_github_output("total_words", str(total_words))
+    write_github_output("en_editor_links", en_editor_links)
+    write_github_output("es_editor_links", es_editor_links)
+    write_github_output("files_json", json.dumps(uploaded_files))
+    return 0
+
+
+try:
+    raise SystemExit(main())
+except Exception as error:
+    print(f"Crowdin upload failed: {error}", file=sys.stderr)
+    raise SystemExit(1) from error
+PYTHON
+
+      - name: Update parent task word count
+        if: >-
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.parent_ticket.outputs.parent_key != '' &&
+          steps.crowdin_upload.outputs.total_words != '' &&
+          steps.crowdin_upload.outputs.total_words != '0'
+        env:
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+          CROWDIN_TOTAL_WORDS: ${{ steps.crowdin_upload.outputs.total_words }}
+        run: |
+          merge_word_count_description() {
+            CURRENT="$1" COUNT="$2" python3 - <<'PY'
+import os
+import re
+
+current = os.environ.get("CURRENT", "")
+count = os.environ.get("COUNT", "")
+row = f"|Word count|{count}|"
+if re.search(r"^\|Word count\|", current, flags=re.MULTILINE):
+    current = re.sub(r"^\|Word count\|.*\|$", row, current, flags=re.MULTILINE)
+elif "||Field||Value||" in current:
+    current = current.replace(
+        "||Field||Value||\n",
+        f"||Field||Value||\n{row}\n",
+        1,
+    )
+else:
+    current = current.rstrip() + f"\n\nh3. Crowdin\n||Field||Value||\n{row}\n"
+print(current)
+PY
+          }
+
+          current_desc=$(curl -s \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${PARENT_KEY}?fields=description" \
+            | jq -r '.fields.description // ""')
+          merged_desc=$(merge_word_count_description "$current_desc" "$CROWDIN_TOTAL_WORDS")
+
+          custom_fields=$(jq -n \
+            --arg field "$LOC_JIRA_WORD_COUNT_FIELD" \
+            --argjson count "$CROWDIN_TOTAL_WORDS" \
+            '{($field): $count}')
+
+          payload=$(jq -n \
+            --arg description "$merged_desc" \
+            --argjson custom_fields "$custom_fields" \
+            '{fields: ({description: $description} + $custom_fields)}')
+
+          response=$(curl -s -o update-word-count-response.json -w "%{http_code}" \
+            -X PUT \
+            -H "Content-Type: application/json" \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            -d "$payload" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${PARENT_KEY}")
+
+          if [ "$response" -eq 204 ] || [ "$response" -eq 200 ]; then
+            echo "Updated word count for ${PARENT_KEY}: ${CROWDIN_TOTAL_WORDS}"
+          else
+            echo "Failed to update word count for ${PARENT_KEY} (HTTP ${response})" >&2
+            cat update-word-count-response.json >&2
+            exit 1
+          fi
+
       - name: Comment on PR with Jira link
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
@@ -447,6 +952,8 @@ jobs:
           LOC_JIRA_PROJECT_KEY: ${{ secrets.LOC_JIRA_PROJECT_KEY }}
           PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
           PARENT_DUE_DATE: ${{ steps.parent_ticket.outputs.parent_due_date }}
+          CROWDIN_EN_EDITOR_LINKS: ${{ steps.crowdin_upload.outputs.en_editor_links }}
+          CROWDIN_ES_EDITOR_LINKS: ${{ steps.crowdin_upload.outputs.es_editor_links }}
         run: |
           if [ -z "$PARENT_DUE_DATE" ]; then
             echo "Parent due date is missing; cannot set subtask due dates." >&2
@@ -656,6 +1163,58 @@ jobs:
             fi
           }
 
+          merge_crowdin_description() {
+            CURRENT="$1" LINKS="$2" python3 - <<'PY'
+import os
+import re
+
+current = os.environ.get("CURRENT", "")
+links = os.environ.get("LINKS", "")
+section = f"h3. Crowdin editor\n\n{links}"
+if re.search(r"^h3\. Crowdin editor\b", current, flags=re.MULTILINE):
+    print(re.sub(r"^h3\. Crowdin editor[\s\S]*$", section, current.rstrip(), count=1, flags=re.MULTILINE))
+elif current.strip():
+    print(f"{current.rstrip()}\n\n{section}")
+else:
+    print(section)
+PY
+          }
+
+          update_subtask_crowdin_links() {
+            local key="$1"
+            local links="$2"
+            local current_desc merged_desc payload response
+
+            if [ -z "$links" ]; then
+              return 0
+            fi
+
+            current_desc=$(curl -s \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${key}?fields=description" \
+              | jq -r '.fields.description // ""')
+            merged_desc=$(merge_crowdin_description "$current_desc" "$links")
+
+            payload=$(jq -n \
+              --arg description "$merged_desc" \
+              '{fields: {description: $description}}')
+
+            response=$(curl -s -o update-crowdin-response.json -w "%{http_code}" \
+              -X PUT \
+              -H "Content-Type: application/json" \
+              -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+              -d "$payload" \
+              "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${key}")
+
+            if [ "$response" -eq 204 ] || [ "$response" -eq 200 ]; then
+              echo "Updated Crowdin links for ${key}"
+            else
+              echo "Failed to update Crowdin links for ${key} (HTTP ${response})" >&2
+              cat update-crowdin-response.json >&2
+              exit 1
+            fi
+          }
+
           rank_subtask_after() {
             local key="$1"
             local after_key="$2"
@@ -779,4 +1338,19 @@ jobs:
             create_block_link \
               "${ORDERED_KEYS[$blocker_index]}" \
               "${ORDERED_KEYS[$blocked_index]}"
+          done
+
+          for i in "${!SUBTASK_SUMMARIES[@]}"; do
+            case "${SUBTASK_SUMMARIES[$i]}" in
+              English*)
+                if [ -n "${CROWDIN_EN_EDITOR_LINKS:-}" ]; then
+                  update_subtask_crowdin_links "${ORDERED_KEYS[$i]}" "$CROWDIN_EN_EDITOR_LINKS"
+                fi
+                ;;
+              Spanish*)
+                if [ -n "${CROWDIN_ES_EDITOR_LINKS:-}" ]; then
+                  update_subtask_crowdin_links "${ORDERED_KEYS[$i]}" "$CROWDIN_ES_EDITOR_LINKS"
+                fi
+                ;;
+            esac
           done
