@@ -82,9 +82,27 @@ def upload_storage_bytes(payload: bytes, file_name: str) -> int:
     return int(response["data"]["id"])
 
 
+def verify_project(project_id: str) -> None:
+    """Raise if the project ID or token is invalid."""
+    crowdin_request("GET", f"/projects/{project_id}")
+
+
 def default_branch_id(project_id: str) -> int | None:
+    """Return the default branch ID when branching is enabled, else None."""
     query = urllib.parse.urlencode({"limit": 500})
-    response = crowdin_request("GET", f"/projects/{project_id}/branches?{query}")
+    try:
+        response = crowdin_request("GET", f"/projects/{project_id}/branches?{query}")
+    except RuntimeError as error:
+        # Branching is optional; Crowdin returns 404 when it is not enabled.
+        if "HTTP 404" not in str(error):
+            raise
+        verify_project(project_id)
+        print(
+            "Crowdin branching is not enabled for this project; uploading without branchId",
+            file=sys.stderr,
+        )
+        return None
+
     branches = response.get("data", [])
     if not branches:
         return None
