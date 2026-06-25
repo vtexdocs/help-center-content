@@ -6,7 +6,7 @@ This document specifies the best practices for each level of the VTEX Help Cente
 
 ## Hierarchy Overview
 
-```
+```text
 Tutorials (root)
   └── Level 1: Topic (section)
         └── Level 2: Category (group)
@@ -25,7 +25,7 @@ Level 1 is the top-level navigation entry in the sidebar. It represents a broad,
 
 - Displayed as a top-level collapsible label
 - Short, no verbs, uses platform terminology that merchants already know
-- Clicking expands the section to reveal Level 2 categories
+- Clicking expands the section to reveal Level 2 categories or direct Level 3 articles
 
 ### What L1 covers
 
@@ -44,7 +44,7 @@ Level 1 is the top-level navigation entry in the sidebar. It represents a broad,
 | Max words | 3 words |
 | Max characters | 20 characters |
 | Language | Noun phrase, no verbs |
-| Stability | Labels may change when article grouping changes, but avoid unnecessary renames and update localized labels together |
+| Stability | Labels should remain stable once published; rename only when the section scope changes significantly |
 
 ### L1 quantity target
 
@@ -77,7 +77,7 @@ Level 2 is a collapsible group within a Level 1 section that clusters related ar
 
 Displayed as a collapsible sub-label under its parent Level 1 section, which expands on click to reveal Level 3 articles.
 
-> ℹ️ Level 2 is optional, because when the section has few articles and is small enough, the articles can be displayed directly under Level 1 without the need of a group. However, don't mix Level 2 with Level 3 under the same section.
+> ℹ️ Level 2 is optional, because when the section has few articles and is small enough, the articles can be displayed directly under Level 1 without the need of a group. Avoid mixing direct Level 3 articles with Level 2 categories under the same Level 1 section.
 
 ### What L2 covers
 
@@ -100,7 +100,7 @@ Ordered by onboarding sequence where logical: overview/getting-started groups ap
 
 > Examples: `Products & SKUs` (Catalog), `Checkout Settings` (Checkout), `Payment Overview` (Payments), `B2B Organizations` (B2B).
 
-### L2 quantity per section
+### L2 article count per group
 
 | Count | Rule |
 | :--- | :--- |
@@ -113,7 +113,7 @@ Ordered by onboarding sequence where logical: overview/getting-started groups ap
 
 ## Level 3 — Article (tutorial)
 
-Level 3 is the individual tutorial article, and doesn't contain sub-levels.
+Level 3 is the individual tutorial article and doesn't contain sub-levels.
 
 ### L3 appearance in sidebar
 
@@ -121,7 +121,7 @@ Displayed as an indented item under its Level 2 category (or directly under Leve
 
 ### What L3 covers
 
-A tutorial should be a self-contained content with a specific task or concept.
+A tutorial should be a self-contained article focused on a specific task or concept.
 
 ### L3 title rules
 
@@ -142,7 +142,7 @@ Overview first, then task articles by frequency of use, then advanced/edge case 
 
 Use this tree to decide the correct level for any piece of content:
 
-```
+```text
 Is this a broad user goal domain (e.g., Payments, Catalog)?
 ├── YES → Level 1 (Topic/Section)
 │         Does this section have more than 15 articles?
@@ -150,9 +150,9 @@ Is this a broad user goal domain (e.g., Payments, Catalog)?
 │         └── NO  → Use Level 1 → Level 3 directly (skip Level 2)
 └── NO  → Is this a cluster of related articles within a section (e.g., "Products & SKUs")?
           ├── YES → Level 2 (Category/Group)
-          │         Does this group have 5–20 articles?
-          │         ├── YES → Valid Level 2 group
-          │         └── NO  → Merge (< 5) or split (> 20)
+          │         Does this group have 4–12 articles?
+          │         ├── YES → Ideal Level 2 group
+          │         └── NO  → Review if too small (1–3) or too large (> 20)
           └── NO  → Level 3 (Article)
 ```
 
@@ -163,7 +163,7 @@ Is this a broad user goal domain (e.g., Payments, Catalog)?
 - ❌ 4-level nesting: fix by flattening by removing one level.
 - ❌ Duplicated parallel sections/categories: fix by defining clear scope and merging them into a single section/category.
 - ❌ Orphaned articles: fix by assigning it to the most appropriate group.
-- ❌ Unstable labels: try to maintain the label of the section/category as stable as possible.
+- ❌ Unnecessary label changes: keep labels as stable as possible, especially for Level 1 sections.
 
 ---
 
