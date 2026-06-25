@@ -136,17 +136,8 @@ A tutorial should be a self-contained content with a specific task or concept.
 
 Overview first, then task articles by frequency of use, then advanced/edge case articles last.
 
-### L3 article template (mandatory structure)
-
-Every tutorial article must follow this structure:
-
-1. **Goal summary** (1–2 sentences at the top): what the user will accomplish
-2. **Prerequisites** (if any): what the user needs before starting
-3. **Numbered steps**: the actual procedure
-4. **Screenshots**: at least one per major UI step
-5. **Related articles**: 3–5 links at the bottom (mandatory)
-
 ### L3 length guidelines
+
 | Type | Target length |
 |---|---|
 | Short how-to (single task) | 400–800 words |
