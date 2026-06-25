@@ -11280,12 +11280,12 @@
                 {
                   "name": {
                     "en": "1. Introduction to Account Management",
-                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "es": "1. Introducción a Gestión de la cuenta",
                     "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "placeholder-introduction-to-account-management",
-                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "en": "introduction-to-account-management",
+                    "es": "introduccion-a-la-gestion-de-cuentas",
                     "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
@@ -11294,13 +11294,13 @@
                 },
                 {
                   "name": {
-                    "en": "2. Users and Roles",
-                    "es": "2. Usuarios y Roles",
+                    "en": "2. Users and roles",
+                    "es": "2. Usuarios y roles",
                     "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "placeholder-users-and-roles",
-                    "es": "placeholder-usuarios-y-roles",
+                    "en": "users-and-roles",
+                    "es": "usuarios-y-roles",
                     "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
@@ -11309,13 +11309,13 @@
                 },
                 {
                   "name": {
-                    "en": "3. Authentication and Security",
-                    "es": "3. Autenticación y Seguridad",
+                    "en": "3. Authentication and security",
+                    "es": "3. Autenticación y seguridad",
                     "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "placeholder-authentication-and-security",
-                    "es": "placeholder-autenticacion-y-seguridad",
+                    "en": "authentication-and-security",
+                    "es": "autenticacion-y-seguridad",
                     "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
@@ -11324,13 +11324,13 @@
                 },
                 {
                   "name": {
-                    "en": "4. API Keys for Integrations",
-                    "es": "4. Claves de API para Integraciones",
+                    "en": "4. API keys for integrations",
+                    "es": "4. Claves de API para integraciones",
                     "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "placeholder-api-keys-for-integrations",
-                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "en": "api-keys-for-integrations",
+                    "es": "claves-de-api-para-integraciones",
                     "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
