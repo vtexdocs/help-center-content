@@ -65,6 +65,10 @@ __GET__
 
 This API will return products that have been registered as __similar products__ in a particular product.
 
+Veniam quis consequatur est impedit aut. Sint ipsa ipsum repellendus quia. Sit tenetur consequatur voluptatem ipsum incidunt ut. Voluptates suscipit voluptatem sed consequatur ab est ex quos. Assumenda voluptatem autem consequatur voluptate cum laborum labore. Corrupti eligendi omnis laborum nisi ut perferendis dolores tempora.
+
+Officiis ad provident est neque. Perspiciatis repudiandae consequatur neque eos. Voluptatem suscipit cum provident beatae. Consequatur nihil nihil placeat.
+
 ### Suggestions: 
 
 __GET__ 
