@@ -15,6 +15,8 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "We've released our Cross-Selling and Up-selling APIs to all our customers and partners."
 ---
 
+Atque veniam provident repellendus eius quis maxime. Earum quibusdam voluptatem deleniti aut et. Atque nam quis est atque velit unde aut. Et alias quaerat perspiciatis et aliquam ut voluptatem. Minus veritatis ratione dicta pariatur et natus maxime. Vero magni quisquam dolores labore omnis labore.
+
 We've released our Cross-Selling and Up-selling APIs to all our customers and partners. Using these sales techniques, you will be able to display in your showcase several offers with some simple API calls.
 
 ## The new APIs
