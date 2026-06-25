@@ -101,7 +101,7 @@ A specific feature area or task cluster within the parent section.
 
 > Examples: `Products & SKUs` (Catalog), `Checkout Settings` (Checkout), `Payment Overview` (Payments), `B2B Organizations` (B2B).
 
-### L2 article count rules
+### L2 quantity per section
 
 | Count | Rule |
 | :--- | :--- |
@@ -109,15 +109,6 @@ A specific feature area or task cluster within the parent section.
 | 4–12 articles | Ideal range for a Level 2 group in the current Tutorials structure. |
 | 13–20 articles | Acceptable for broad or high-traffic categories, but review ordering and scanability. |
 | More than 20 articles | Review whether the group should be split, renamed, or redistributed across clearer categories. |
-
-### L2 quantity per Level 1 section
-
-| Range | Guidance |
-|---|---|
-| 0 groups | Acceptable for sections with < 15 articles total (use L1 → L3 directly) |
-| 3–5 groups | Ideal for most sections |
-| 6–8 groups | Acceptable for large sections (Payments, Storefront, Catalog) |
-| > 8 groups | Review whether the Level 1 section is too broad and should be split |
 
 ---
 
