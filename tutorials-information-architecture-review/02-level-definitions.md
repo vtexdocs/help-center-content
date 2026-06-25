@@ -75,9 +75,8 @@ Every Level 1 section must have an overview/hub article as its first and pinned 
 Level 2 is a collapsible group within a Level 1 section that clusters related articles by feature, task, or sub-domain.
 
 ### Appearance in sidebar
-- Displayed as a collapsible sub-label under its parent Level 1 section
-- Collapsed by default; expands on click to reveal Level 3 articles
-- Optionally linked to a hub page (group overview article)
+
+Displayed as a collapsible sub-label under its parent Level 1 section, which expands on click to reveal Level 3 articles.
 
 ### What it covers
 - A specific feature area or task cluster within the parent section
