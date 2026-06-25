@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso [formulário](https://vtex.com/pt-br/contato/) apontando no campo Comentários o nome do produto desejado.
+> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com o nosso [suporte](https://support.vtex.com/hc/pt-br/).
 
 **Configurações** é uma página do Admin VTEX que permite selecionar as configurações desejadas para o funcionamento do VTEX Pick and Pack na sua loja. As configurações estão distribuídas nas seguintes abas:
 
@@ -34,18 +34,18 @@ Nesta aba, você encontrará configurações relacionadas aos pedidos processado
 
 * **Baixar pedidos do OMS:** permite exportar pedidos do [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).
 
-### Remoção automática de pedidos faturados
+### Remoção ática de pedidos faturados
 
 Na aba **Pedidos**, você pode definir como o VTEX Pick and Pack deve tratar pedidos que mudam para **Faturado** no Order Management System (OMS) depois de serem baixados para o aplicativo.
 
-Para remover automaticamente pedidos faturados do VTEX Pick and Pack, siga os passos abaixo:
+Para remover aticamente pedidos faturados do VTEX Pick and Pack, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba **Pedidos**, clique em `Geral`. 
 3. Na seção **Se um pedido mudar para Faturado no OMS**, ative a opção **Remover do Pick and Pack**.  
 5. Clique em `Salvar`.
 
-Com essa opção ativada, o VTEX Pick and Pack remove automaticamente do aplicativo os pedidos que atendem a todas as seguintes condições:
+Com essa opção ativada, o VTEX Pick and Pack remove aticamente do aplicativo os pedidos que atendem a todas as seguintes condições:
 
 - O pedido já foi baixado para o VTEX Pick and Pack.  
 - O pedido ainda não foi processado.  
