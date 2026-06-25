@@ -166,11 +166,19 @@ def create_or_update_file(
 
 
 def get_file_word_count(project_id: str, file_id: int) -> int:
+    path = f"/projects/{project_id}/files/{file_id}/languages/progress"
     for attempt in range(6):
-        response = crowdin_request(
-            "GET",
-            f"/projects/{project_id}/files/{file_id}/languages/progress",
-        )
+        try:
+            response = crowdin_request("GET", path)
+        except RuntimeError as error:
+            if "HTTP 403" in str(error):
+                print(
+                    "Crowdin word count unavailable: enable Translation status "
+                    "(read) on the API token; using 0",
+                    file=sys.stderr,
+                )
+                return 0
+            raise
         items = response.get("data", [])
         if items:
             return int(items[0]["data"]["words"]["total"])
