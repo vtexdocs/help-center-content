@@ -311,7 +311,7 @@ jobs:
               -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
               "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${key}?fields=labels" \
               | jq -c --arg label "$PR_LABEL" \
-                '[.fields.labels[]? | if type == "string" then . else .name end] | if index($label) then . else . + [$label] end | map({name: .})')
+                '[.fields.labels[]? | if type == "string" then . else .name end] | if index($label) then . else . + [$label] end')
 
             payload=$(jq -n \
               --arg summary "[HC] ${PR_TITLE}" \
