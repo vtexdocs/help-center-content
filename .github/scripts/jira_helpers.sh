@@ -1,4 +1,4 @@
-# Shared Jira helpers for localization-ticket workflow.
+# Shared Jira helpers for localization- icket workflow.
 # Source after setting LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
 # LOC_JIRA_PROJECT_KEY, PR_NUMBER, GITHUB_REPOSITORY, PR_REF, PR_LABEL, and GH_TOKEN.
 

@@ -1,4 +1,4 @@
-# Creates/updates a LOC Jira parent task (+ 8 subtasks) when a localization label
+# Creates/updates a Jira task (+ subtasks) when a localization label
 # is added to a PR with new markdown content.
 #
 # Trigger: localization needed (high|medium|low) on PRs to main under docs/pt/**,
@@ -6,28 +6,25 @@
 # branches. Re-add the label after new commits if it was applied before content changed.
 #
 # Content routing (mutually exclusive):
-#   docs/pt or localization/ → PT Crowdin project (Portuguese source; EN + es-mx links)
-#   docs/en only → EN Crowdin project; pt-br + es-mx subtasks and editor links
+#   docs/pt or localization/ → PT Crowdin project
+#   docs/en only → EN Crowdin project
 #   (docs/pt or localization/) + docs/en together → docs/en ignored; PT path above
 #
 # Label → priority/due: high = High / Friday next week; medium/low add 1–2 weeks.
 # Dedupe: PR comment → hc-github-pr-* Jira label → hc-github-pr-ref marker → [HC] fallback.
 # Re-runs update the existing parent unless the Prepare file subtask is due (production
 # lock): then a Jira comment is posted and automation skips further Jira/Crowdin updates.
-# Links source tasks (e.g. EDU-12345) found in the PR title, description, or branch to
-# the LOC parent with a Blocks link (LOC blocks EDU, same as LOC-26003 / EDU-18487).
+# Links source tasks found in the PR title, description, or branch to
+# the LOC parent with a `blocks` link.
 #
-# Crowdin: uploads PR-changed files via API (LOC-*_{filename}.md or
-# LOC-*_PARTIAL_{filename}.md), sets word count on the parent, editor links on
-# language subtasks. Partial upload for existing files with changes in ≤5 blocks
-# (not new files); full source file is attached as Crowdin file context with START/END OF UPDATED SECTION markers.
+# Crowdin: uploads PR-changed files via API, sets word count on the parent,
+# editor links on # language subtasks. Partial upload for existing files with
+# changes in ≤5 blocks (not new files); full source file is attached as Crowdin
+# file context with START/END OF UPDATED SECTION markers.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
-# LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID,
-# LOC_CROWDIN_PROJECT_ID_EN (docs/en source files)
-# Optional: LOC_CROWDIN_ORGANIZATION (Crowdin Enterprise only)
-# Crowdin token scopes: Projects (read), Source files & strings (read/write),
-# Translation status (read)
+# LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN,
+# LOC_CROWDIN_PROJECT_ID, LOC_CROWDIN_PROJECT_ID_EN (docs/en source files)
 
 name: Create Localization Ticket
 
@@ -36,7 +33,7 @@ env:
   LOC_JIRA_WORD_COUNT_FIELD: customfield_10253
   LOC_JIRA_SOURCE_LINK_PROJECT_KEY: EDU
   CROWDIN_EN_LANGUAGE: en
-  CROWDIN_ES_LANGUAGE: es-mx  # Spanish (Mexico) — not generic "es"
+  CROWDIN_ES_LANGUAGE: es-mx
   CROWDIN_PT_LANGUAGE: pt-br
 
 on:
