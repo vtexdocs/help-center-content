@@ -3,6 +3,7 @@
 This document maps every existing top-level section (and their sub-categories) to the proposed new Information Architecture (IA) structure. It is the primary reference for the restructuring phase.
 
 **Reading this document:**
+
 - `KEEP` = folder is retained in place (may be renamed)
 - `MOVE INTO` = folder's content migrates to a different section
 - `NEW` = a new top-level folder must be created
@@ -15,7 +16,7 @@ This document maps every existing top-level section (and their sub-categories) t
 ## Summary Table: All 36 Current Sections
 
 | # | Current Folder | Current Name | Articles | Action | Target New Section |
-|---|---|---|---|---|---|
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | `about-the-admin` | About the Admin | 3 | MOVE INTO | Getting Started |
 | 2 | `account-management` | Account Management | 28 | KEEP (rename) | Account Management |
 | 3 | `apps` | Apps | 14 | MOVE INTO | Apps & Integrations |
@@ -58,23 +59,24 @@ This document maps every existing top-level section (and their sub-categories) t
 ## Proposed New Sections: Detailed Mapping
 
 ### 1. Getting Started
+
 **New folder (EN):** `getting-started`
 **Article count:** ~8 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles to include |
-|---|---|---|
+| :--- | :--- | :--- |
 | `about-the-admin` | (root) | `accessing-the-beta-environment.md`, `compatibility-with-browsers-in-the-admin-module.md`, `marketplace-overview.md` |
 | `store-settings` | (root) | `store-settings-overview.md`, `best-practices-for-the-success-of-your-vtex-store.md`, `multilevel-omnichannel-inventory.md` |
 | `operational` | `vtex-admin/` | `vtex-admin-start-here.md`, `visualization-of-vtex-admin-rendering-errors.md` |
 | `other` | (root) | `vtex-academy-overview.md` |
 
-**Proposed Level 2 groups within Getting Started:**
-- None required (< 15 articles total; use flat L1 → L3 structure)
+**Proposed Level 2 groups within Getting Started:** None required (< 15 articles total; use flat L1 → L3 structure)
 
 ---
 
 ### 2. Account Management
+
 **New folder (EN):** `account-management` *(keep existing folder, expand scope)*
 **Article count:** ~81 articles
 **Source sections:**
@@ -100,6 +102,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `operational` | `financial/` | 3 | Merge into Billing or new group |
 
 **Proposed Level 2 groups within Account Management (ordered):**
+
 1. **Overview** ← account-settings-overview.md (hub page)
 2. **Accounts** ← `account-management/accounts/` (11 articles)
 3. **Users & Access** ← `account-management/users/` + `account-management/access-control/` (13 articles)
@@ -116,6 +119,7 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 3. Catalog
+
 **New folder (EN):** `catalog` *(keep existing folder)*
 **Article count:** ~75 articles
 **Source sections:**
@@ -126,6 +130,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `suggestions` | (root) | 2 |
 
 **Proposed Level 2 groups within Catalog (current sub-folders are already good L2 groups; order them by user journey):**
+
 1. **Overview** ← `catalog-overview/` (2 articles) — hub page
 2. **Products & SKUs** ← `products-and-skus/` (23 articles)
 3. **Categories** ← `categories/` (11 articles)
@@ -143,6 +148,7 @@ This document maps every existing top-level section (and their sub-categories) t
 > Note: Several L2 groups have fewer than 5 articles (Brands, Collections, Import & Export, XML Integration, List Types, Reports). These should be merged to reduce the total from 13 groups to ~7–8.
 
 **Recommended consolidated groups:**
+
 1. **Overview** ← catalog-overview + search + suggestions (8 articles)
 2. **Products & SKUs** ← products-and-skus (23 articles)
 3. **Categories & Brands** ← categories + brands (14 articles)
@@ -154,12 +160,13 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 4. Pricing & Promotions
+
 **New folder (EN):** `pricing-and-promotions` *(new folder; replaces `promotions-and-taxes`)*
 **Article count:** ~69 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `promotions-and-taxes` | `promotions/` | 38 |
 | `promotions-and-taxes` | `campaign-audiences/` | 4 |
 | `promotions-and-taxes` | `coupons/` | 3 |
@@ -172,6 +179,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `trade-policies` | `trade-policies-settings/` | 2 |
 
 **Proposed Level 2 groups within Pricing & Promotions (ordered):**
+
 1. **Overview** ← `promotions-and-taxes` root (1) + `prices` root (2) — hub page
 2. **Prices** ← `prices/price-list/` (9) + `prices/price-settings/` (2) = 11 articles
 3. **Promotions** ← `promotions-and-taxes/promotions/` (38 articles) — large; consider splitting into "Creating Promotions" and "Managing Promotions"
@@ -182,18 +190,20 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 5. Storefront
+
 **New folder (EN):** `storefront` *(keep existing folder)*
 **Article count:** ~107 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `storefront` | all existing sub-folders | 100 |
 | `cms` | `branching-and-versioning/` | 2 |
 | `cms` | `configuring-locales/` | 4 |
 | `cms` | `content-management-overview/` | 1 |
 
 **Proposed Level 2 groups within Storefront (current structure mostly works; consolidate cms into it):**
+
 1. **Overview** ← `storefront-overview.md` + `cms/content-management-overview/` = hub
 2. **Layout (Legacy CMS)** ← `storefront/layout/` (65 articles — large; keep as is, L2 group)
 3. **Headless CMS** ← `storefront/headless-cms/` (6 articles) + `cms/branching-and-versioning/` (2) + `cms/configuring-locales/` (4) = 12 articles
@@ -205,6 +215,7 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 6. Intelligent Search
+
 **New folder (EN):** `intelligent-search` *(keep existing folder)*
 **Article count:** 26 articles
 **Rationale for keeping as standalone:** 26 articles is sufficient for an independent section; merging with Storefront would make Storefront unwieldy.
@@ -212,6 +223,7 @@ This document maps every existing top-level section (and their sub-categories) t
 > **Cross-portal note:** The VTEX Developer Portal uses **"Search"** (not "Intelligent Search") as its section label, and the dev portal troubleshooting Area filter is also **"Search"**. If both portals share the same AI indexer, users may get results labeled "Intelligent Search" from the Help Center and "Search" from the Developer Portal for the same product. A decision on the canonical name across both portals is required — see `08-cross-portal-alignment.md` for the governing rule and rationale.
 
 **Proposed Level 2 groups (current sub-folders are good as-is):**
+
 1. **Overview** ← `intelligent-search-overview/` (4 articles) — hub
 2. **Search Behavior** ← `intelligent-search-behavior/` (6 articles)
 3. **Relevance** ← `relevance/` (6 articles)
@@ -222,12 +234,13 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 7. Checkout & Subscriptions
+
 **New folder (EN):** `checkout` *(keep existing folder, add subscriptions as new L2 group)*
 **Article count:** ~40 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `checkout` | `checkout-overview/` | 6 |
 | `checkout` | `checkout-settings/` | 21 |
 | `checkout` | `buyer-portal-checkout/` | 1 |
@@ -235,6 +248,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `subscriptions` | (root) | 11 |
 
 **Proposed Level 2 groups:**
+
 1. **Overview** ← `checkout-overview/` (6 articles) — hub
 2. **Checkout Settings** ← `checkout-settings/` (21 articles)
 3. **Buyer Portal Checkout** ← `checkout/buyer-portal-checkout/` (1 article) — merge into Overview if stays at 1 article
@@ -243,10 +257,12 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 8. Orders
+
 **New folder (EN):** `orders` *(keep existing folder)*
 **Article count:** 56 articles
 
 **Proposed Level 2 groups (current sub-folders are good as-is):**
+
 1. **Overview** ← `orders-overview/` (10 articles) — hub
 2. **All Orders** ← `all-orders/` (28 articles)
 3. **Order Settings** ← `orders-management-settings/` (13 articles)
@@ -256,10 +272,12 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 9. Payments
+
 **New folder (EN):** `payments` *(keep existing folder)*
 **Article count:** 277 articles — largest section; justified as standalone.
 
 **Proposed Level 2 groups (current sub-folders are good as-is):**
+
 1. **Overview** ← `payments-overview/` (29 articles) — hub
 2. **Payment Settings** ← `payment-settings/` (229 articles — very large)
 3. **Transactions** ← `transactions/` (16 articles)
@@ -271,10 +289,12 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 10. Shipping
+
 **New folder (EN):** `shipping` *(keep existing folder)*
 **Article count:** 65 articles
 
 **Proposed Level 2 groups (current sub-folders work well):**
+
 1. **Overview** ← `logistics-overview/` (2 articles) — hub
 2. **Shipping Strategy** ← `shipping-strategy/` (24 articles)
 3. **Inventory** ← `inventory/` (3 articles) + `inventory-and-shipping-settings/` (7 articles) = 10 articles
@@ -287,12 +307,13 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 11. Sellers & B2B
+
 **New folder (EN):** `sellers-and-b2b` *(new folder combining `sellers` + `b2b`)*
 **Article count:** ~69 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `sellers` | `sellers-overview/` | 8 |
 | `sellers` | `seller-portal/` | 13 |
 | `sellers` | `management/` | 3 |
@@ -304,6 +325,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `b2b` | `organization-account/` | 8 |
 
 **Proposed Level 2 groups within Sellers & B2B:**
+
 1. **Sellers Overview** ← `sellers/sellers-overview/` (8 articles) — hub
 2. **Seller Portal** ← `sellers/seller-portal/` (13 articles)
 3. **Seller Management** ← `sellers/management/` (3) + `sellers/categories-and-brands/` (2) + `sellers/sku-binding/` (2) + root (1) = 8 articles
@@ -314,12 +336,13 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 12. Apps & Integrations
+
 **New folder (EN):** `apps-and-integrations` *(new folder combining `apps`, `integrations`, `projects-and-integrations`)*
 **Article count:** ~114 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `apps` | `apps-overview/` | 2 |
 | `apps` | `customer-credit/` | 2 |
 | `apps` | `live-shopping/` | 3 |
@@ -336,6 +359,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `other` | `uncategorized/` | 2 (marketplace connections) |
 
 **Proposed Level 2 groups within Apps & Integrations:**
+
 1. **Overview** ← `integrations/integrations-overview/` (8) + `apps/apps-overview/` (2) = 10 articles — hub
 2. **Apps** ← `apps/customer-credit/`, `apps/live-shopping/`, `apps/my-account/`, `apps/` root = 12 articles
 3. **Integration Settings** ← `integrations/integration-settings/` (40 articles)
@@ -347,17 +371,19 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 13. Omnichannel
+
 **New folder (EN):** `omnichannel` *(keep existing folder, add vtex-sales-app as new L2 group)*
 **Article count:** ~15 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `omnichannel` | `omnichannel-overview/` | 3 |
 | `omnichannel` | `omnichannel-settings/` | 2 |
 | `vtex-sales-app` | (root) | 10 |
 
 **Proposed Level 2 groups:**
+
 1. **Overview** ← `omnichannel-overview/` (3 articles) — hub; may be promoted to section hub page with no L2 group
 2. **Omnichannel Settings** ← `omnichannel-settings/` (2 articles) — consider merging into Overview (< 5 articles)
 3. **VTEX Sales App** ← `vtex-sales-app/` all (10 articles)
@@ -367,12 +393,13 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 14. Customer Experience
+
 **New folder (EN):** `customer-experience` *(new folder combining `vtex-cx-platform`, `conversational-commerce`, `message-center`, `master-data`)*
 **Article count:** ~163 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `vtex-cx-platform` | `vtex-cx-platform-overview/` | 9 |
 | `vtex-cx-platform` | `agent-builder/` | 4 |
 | `vtex-cx-platform` | `agent-builder/automation-flow/` | 19 |
@@ -392,6 +419,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | `master-data` | (root) | 1 |
 
 **Proposed Level 2 groups within Customer Experience:**
+
 1. **Overview** ← `vtex-cx-platform/vtex-cx-platform-overview/` (9 articles) — hub
 2. **VTEX CX Platform** ← `vtex-cx-platform/agent-builder/` + `automation-flow/` flattened (23 articles) + `studio/` (16) + `live-desk/` (6) + `vtex-cx-platform-settings/` (2) = 47 articles (large; may need to remain as its own sub-sections)
 3. **CX Integrations** ← `vtex-cx-platform/integrations/` (34 articles)
@@ -404,18 +432,20 @@ This document maps every existing top-level section (and their sub-categories) t
 ---
 
 ### 15. Infrastructure & Data
+
 **New folder (EN):** `infrastructure-and-data` *(new folder combining `infrastructure`, `dashboards`, `indeva-by-vtex`)*
 **Article count:** ~105 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
-|---|---|---|
+| :--- | :--- | :--- |
 | `infrastructure` | `cdn-service/` | 8 |
 | `infrastructure` | `sla-and-status/` | 3 |
 | `dashboards` | (root) | 4 |
 | `indeva-by-vtex` | all sub-folders | 90 |
 
 **Proposed Level 2 groups within Infrastructure & Data:**
+
 1. **Overview** ← hub page (new article needed)
 2. **CDN & DNS** ← `infrastructure/cdn-service/` (8 articles)
 3. **SLA & Status** ← `infrastructure/sla-and-status/` (3 articles) + `dashboards/` all (4 articles) = 7 articles
