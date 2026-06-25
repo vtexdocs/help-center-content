@@ -10,7 +10,7 @@ This document specifies the best practices for each level of the VTEX Help Cente
 Tutorials (root)
   └── Level 1: Topic (section)
         └── Level 2: Category (group)
-              └── Level 3: Article (leaf node)
+              └── Level 3: Article (tutorial)
 ```
 
 **Rule:** No article should be nested more than 3 levels deep, and no folder nesting beyond Level 2.
@@ -112,23 +112,22 @@ A specific feature area or task cluster within the parent section.
 
 ---
 
-## Level 3 — Article (Tutorial Page)
+## Level 3 — Article (tutorial)
 
-Level 3 is the individual tutorial article. It is always a leaf node — it never contains sub-levels.
+Level 3 is the individual tutorial article, and doesn't contain sub-levels.
 
 ### L3 appearance in sidebar
-- Displayed as an indented item under its Level 2 category (or directly under Level 1 if no Level 2 groups are used)
-- Active article is visually highlighted
-- Sidebar label is derived from the article's title, truncated with ellipsis if it exceeds the character limit
+
+Displayed as an indented item under its Level 2 category (or directly under Level 1 if no Level 2 groups are used).
 
 ### What L3 covers
-- One specific task or concept, never a mix of unrelated topics
-- A user can complete the task described without needing to read other articles in sequence (self-contained)
-- Exception: a series of articles forming a step-by-step setup flow is acceptable, but each article must be useful on its own
+
+A tutorial should be a self-contained content with a specific task or concept.
 
 ### L3 title rules
+
 | Rule | Specification |
-|---|---|
+| :--- | :--- |
 | Format | Verb-first noun phrase (imperative): "Configure X", "Set up Y", "Manage Z" |
 | Sidebar max words | 6 words |
 | Sidebar max characters | 45 characters (truncated with ellipsis beyond this) |
