@@ -370,15 +370,40 @@ def format_partial_content(blocks: list[list[str]]) -> str:
     return "\n\n".join("\n".join(block) for block in blocks)
 
 
-def format_partial_file_context(relative_path: str, full_text: str) -> str:
+def format_partial_file_context(
+    relative_path: str,
+    full_text: str,
+    changed_line_numbers: set[int],
+) -> str:
+    highlighted = highlight_changed_lines(full_text, changed_line_numbers)
+    marker_note = (
+        "Lines marked with **[UPDATED]** below are the changed portions "
+        "to translate in this task.\n\n"
+        if changed_line_numbers
+        else ""
+    )
     return (
         "# Full file reference\n\n"
         f"Source path: `{relative_path}`\n\n"
         "The strings in this file are **partial changes only**. "
         "Use the full document below for context when translating.\n\n"
+        f"{marker_note}"
         "---\n\n"
-        f"{full_text}"
+        f"{highlighted}"
     )
+
+
+def highlight_changed_lines(full_text: str, changed_line_numbers: set[int]) -> str:
+    if not changed_line_numbers:
+        return full_text
+
+    highlighted: list[str] = []
+    for line_no, line in enumerate(full_text.splitlines(), start=1):
+        if line_no in changed_line_numbers:
+            highlighted.append(f"**[UPDATED]** {line}")
+        else:
+            highlighted.append(line)
+    return "\n".join(highlighted)
 
 
 @dataclass
@@ -405,6 +430,7 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
         partial_name = partial_crowdin_name(file_name)
         partial_text = format_partial_content(blocks)
         full_text = file_path.read_text(encoding="utf-8")
+        changed_line_numbers = {line_no for line_no, _ in additions}
         return UploadPlan(
             mode="partial",
             crowdin_name=partial_name,
@@ -412,7 +438,11 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
             added_line_count=added_count,
             total_line_count=total_lines,
             block_count=len(blocks),
-            file_context=format_partial_file_context(relative_path, full_text),
+            file_context=format_partial_file_context(
+                relative_path,
+                full_text,
+                changed_line_numbers,
+            ),
         )
 
     return UploadPlan(
