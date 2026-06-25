@@ -27,9 +27,25 @@ from typing import Literal
 CROWDIN_API_BASE_DEFAULT = "https://api.crowdin.com/api/v2"
 CROWDIN_WEB_BASE_DEFAULT = "https://crowdin.com"
 
+# Crowdin language IDs (Spanish is always es-mx, not generic es).
+LANGUAGE_ENV_DEFAULTS: dict[str, str] = {
+    "CROWDIN_EN_LANGUAGE": "en",
+    "CROWDIN_ES_LANGUAGE": "es-mx",
+    "CROWDIN_PT_LANGUAGE": "pt-BR",
+}
+
 
 def env(name: str, default: str = "") -> str:
     return os.environ.get(name, default).strip()
+
+
+def crowdin_language_id(language_env: str, group_name: str) -> str:
+    language_id = env(language_env, LANGUAGE_ENV_DEFAULTS.get(language_env, ""))
+    if not language_id:
+        raise RuntimeError(
+            f"{language_env} is required for {group_name} Crowdin uploads"
+        )
+    return language_id
 
 
 def crowdin_api_base() -> str:
@@ -164,26 +180,38 @@ def create_or_update_file(
     storage_id: int,
     file_name: str,
     file_type: str,
+    *,
+    file_context: str | None = None,
 ) -> int:
     existing_id = find_file(project_id, file_name)
     if existing_id is None:
+        payload: dict = {
+            "storageId": storage_id,
+            "name": file_name,
+            "type": file_type,
+        }
+        if file_context:
+            payload["context"] = file_context
         created = crowdin_request(
             "POST",
             f"/projects/{project_id}/files",
-            data={
-                "storageId": storage_id,
-                "name": file_name,
-                "type": file_type,
-            },
+            data=payload,
         )
-        return int(created["data"]["id"])
-
-    crowdin_request(
-        "PUT",
-        f"/projects/{project_id}/files/{existing_id}",
-        data={"storageId": storage_id},
-    )
-    return existing_id
+        file_id = int(created["data"]["id"])
+    else:
+        crowdin_request(
+            "PUT",
+            f"/projects/{project_id}/files/{existing_id}",
+            data={"storageId": storage_id},
+        )
+        file_id = existing_id
+        if file_context:
+            crowdin_request(
+                "PATCH",
+                f"/projects/{project_id}/files/{file_id}",
+                data=[{"op": "replace", "path": "/context", "value": file_context}],
+            )
+    return file_id
 
 
 def get_file_word_count(project_id: str, file_id: int) -> int:
@@ -220,9 +248,13 @@ def prefixed_crowdin_name(task_key: str, file_name: str) -> str:
     return f"{task_key}_{file_name}"
 
 
+PT_SOURCE_PATH_PREFIXES = ("docs/pt/", "localization/")
+EN_SOURCE_PATH_PREFIXES = ("docs/en/",)
+
+
 def is_eligible_path(relative_path: str) -> bool:
     path = relative_path.replace("\\", "/")
-    return path.startswith(("docs/pt/", "localization/"))
+    return path.startswith(PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES)
 
 
 def changed_files() -> list[str]:
@@ -234,6 +266,45 @@ def changed_files() -> list[str]:
         for line in raw.splitlines()
         if line.strip().endswith((".md", ".mdx")) and is_eligible_path(line.strip())
     ]
+
+
+def files_for_prefixes(all_files: list[str], prefixes: tuple[str, ...]) -> list[str]:
+    return [
+        path
+        for path in all_files
+        if path.replace("\\", "/").startswith(prefixes)
+    ]
+
+
+@dataclass(frozen=True)
+class CrowdinUploadGroup:
+    name: str
+    path_prefixes: tuple[str, ...]
+    project_id_env: str
+    target_languages: tuple[tuple[str, str], ...]
+    # link_bucket names map to workflow outputs (en_editor_links / es_editor_links).
+    # Spanish links always use CROWDIN_ES_LANGUAGE (es-mx).
+
+
+PT_CROWDIN_GROUP = CrowdinUploadGroup(
+    name="pt",
+    path_prefixes=PT_SOURCE_PATH_PREFIXES,
+    project_id_env="LOC_CROWDIN_PROJECT_ID",
+    target_languages=(
+        ("CROWDIN_EN_LANGUAGE", "en"),
+        ("CROWDIN_ES_LANGUAGE", "es"),
+    ),
+)
+
+EN_CROWDIN_GROUP = CrowdinUploadGroup(
+    name="en",
+    path_prefixes=EN_SOURCE_PATH_PREFIXES,
+    project_id_env="LOC_CROWDIN_EN_PROJECT_ID",
+    target_languages=(
+        ("CROWDIN_PT_LANGUAGE", "en"),
+        ("CROWDIN_ES_LANGUAGE", "es"),
+    ),
+)
 
 
 def git_diff(base_sha: str, head_sha: str, relative_path: str) -> str:
@@ -299,6 +370,17 @@ def format_partial_content(blocks: list[list[str]]) -> str:
     return "\n\n".join("\n".join(block) for block in blocks)
 
 
+def format_partial_file_context(relative_path: str, full_text: str) -> str:
+    return (
+        "# Full file reference\n\n"
+        f"Source path: `{relative_path}`\n\n"
+        "The strings in this file are **partial changes only**. "
+        "Use the full document below for context when translating.\n\n"
+        "---\n\n"
+        f"{full_text}"
+    )
+
+
 @dataclass
 class UploadPlan:
     mode: Literal["full", "partial"]
@@ -307,6 +389,7 @@ class UploadPlan:
     added_line_count: int
     total_line_count: int
     block_count: int
+    file_context: str | None = None
 
 
 def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
@@ -321,6 +404,7 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
     if should_upload_partial(added_count, total_lines, len(blocks)):
         partial_name = partial_crowdin_name(file_name)
         partial_text = format_partial_content(blocks)
+        full_text = file_path.read_text(encoding="utf-8")
         return UploadPlan(
             mode="partial",
             crowdin_name=partial_name,
@@ -328,6 +412,7 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
             added_line_count=added_count,
             total_line_count=total_lines,
             block_count=len(blocks),
+            file_context=format_partial_file_context(relative_path, full_text),
         )
 
     return UploadPlan(
@@ -364,6 +449,40 @@ def merge_word_count_description(current: str, count: str) -> str:
     return f"h3. Crowdin\n||Field||Value||\n{row}\n"
 
 
+def resolve_upload_context(
+    all_files: list[str],
+) -> tuple[CrowdinUploadGroup, list[str]]:
+    content_source = env("CONTENT_SOURCE")
+    pt_files = files_for_prefixes(all_files, PT_CROWDIN_GROUP.path_prefixes)
+    en_files = files_for_prefixes(all_files, EN_CROWDIN_GROUP.path_prefixes)
+
+    if content_source == "pt" or (not content_source and pt_files):
+        if en_files:
+            print(
+                "PR touches PT source (docs/pt or localization/) and docs/en; "
+                "ignoring docs/en files",
+                file=sys.stderr,
+            )
+        active_files = pt_files or [
+            path
+            for path in all_files
+            if path.replace("\\", "/").startswith(PT_CROWDIN_GROUP.path_prefixes)
+        ]
+        return PT_CROWDIN_GROUP, active_files
+
+    if content_source == "en" or en_files:
+        return EN_CROWDIN_GROUP, en_files or [
+            path
+            for path in all_files
+            if path.replace("\\", "/").startswith(EN_CROWDIN_GROUP.path_prefixes)
+        ]
+
+    raise RuntimeError(
+        "Could not determine Crowdin upload mode (expected CONTENT_SOURCE=pt|en "
+        "or changed files under docs/pt, localization/, or docs/en)"
+    )
+
+
 def merge_crowdin_description(current: str, links: str) -> str:
     section = f"h3. Crowdin editor\n\n{links}"
     if re.search(r"^h3\. Crowdin editor\b", current, flags=re.MULTILINE):
@@ -379,43 +498,41 @@ def merge_crowdin_description(current: str, links: str) -> str:
     return section
 
 
-def require_crowdin_project_id() -> str:
-    project_id = env("LOC_CROWDIN_PROJECT_ID")
+def require_project_id(project_id_env: str, group_name: str) -> str:
+    project_id = env(project_id_env)
     if not project_id:
-        raise RuntimeError("LOC_CROWDIN_PROJECT_ID is required")
+        raise RuntimeError(
+            f"{project_id_env} is required for {group_name} source files"
+        )
     if not env("LOC_CROWDIN_API_TOKEN"):
         raise RuntimeError("LOC_CROWDIN_API_TOKEN is required")
     return project_id
 
 
-def upload_files() -> int:
-    project_id = require_crowdin_project_id()
-
-    base_sha = env("BASE_SHA")
-    head_sha = env("HEAD_SHA")
-    if not base_sha or not head_sha:
-        raise RuntimeError("BASE_SHA and HEAD_SHA are required")
-
-    task_key = env("JIRA_TASK_KEY")
-    if not task_key:
-        raise RuntimeError("JIRA_TASK_KEY is required")
-
-    en_language = env("CROWDIN_EN_LANGUAGE")
-    es_language = env("CROWDIN_ES_LANGUAGE")
-
-    files = changed_files()
+def upload_group_files(
+    group: CrowdinUploadGroup,
+    files: list[str],
+    *,
+    base_sha: str,
+    head_sha: str,
+    task_key: str,
+) -> tuple[int, dict[str, list[str]], list[dict]]:
     if not files:
-        raise RuntimeError("No eligible markdown files to upload to Crowdin")
+        return 0, {"en": [], "es": []}, []
 
+    project_id = require_project_id(group.project_id_env, group.name)
     project_data = fetch_project_data(project_id)
     project_identifier = str(project_data["identifier"])
     source_editor_code = str(project_data["sourceLanguage"]["editorCode"])
-    en_target_code = language_editor_code(project_data, en_language)
-    es_target_code = language_editor_code(project_data, es_language)
-    uploaded_files = []
+
+    target_codes: dict[str, str] = {}
+    for language_env, link_bucket in group.target_languages:
+        language_id = crowdin_language_id(language_env, group.name)
+        target_codes[link_bucket] = language_editor_code(project_data, language_id)
+
+    uploaded_files: list[dict] = []
     total_words = 0
-    en_links: list[str] = []
-    es_links: list[str] = []
+    link_buckets: dict[str, list[str]] = {"en": [], "es": []}
 
     for relative_path in files:
         file_path = Path(relative_path)
@@ -427,53 +544,93 @@ def upload_files() -> int:
         crowdin_name = prefixed_crowdin_name(task_key, plan.crowdin_name)
         storage_id = upload_storage_bytes(plan.content, crowdin_name)
         file_id = create_or_update_file(
-            project_id, storage_id, crowdin_name, "md"
+            project_id,
+            storage_id,
+            crowdin_name,
+            "md",
+            file_context=plan.file_context,
         )
         words = get_file_word_count(project_id, file_id)
         total_words += words
 
-        en_url = editor_url(project_identifier, file_id, source_editor_code, en_target_code)
-        es_url = editor_url(project_identifier, file_id, source_editor_code, es_target_code)
-        en_links.append(f"[{crowdin_name}|{en_url}]")
-        es_links.append(f"[{crowdin_name}|{es_url}]")
+        file_record = {
+            "source_path": relative_path,
+            "path": crowdin_name,
+            "upload_mode": plan.mode,
+            "file_id": file_id,
+            "words": words,
+            "added_lines": plan.added_line_count,
+            "total_lines": plan.total_line_count,
+            "addition_blocks": plan.block_count,
+            "crowdin_project_id": project_id,
+            "crowdin_group": group.name,
+        }
 
-        uploaded_files.append(
-            {
-                "source_path": relative_path,
-                "path": crowdin_name,
-                "upload_mode": plan.mode,
-                "file_id": file_id,
-                "words": words,
-                "added_lines": plan.added_line_count,
-                "total_lines": plan.total_line_count,
-                "addition_blocks": plan.block_count,
-                "en_editor_url": en_url,
-                "es_editor_url": es_url,
-            }
-        )
+        for link_bucket, target_editor_code in target_codes.items():
+            editor_link = editor_url(
+                project_identifier,
+                file_id,
+                source_editor_code,
+                target_editor_code,
+            )
+            link_buckets[link_bucket].append(f"[{crowdin_name}|{editor_link}]")
+            file_record[f"{link_bucket}_editor_url"] = editor_link
+
+        uploaded_files.append(file_record)
         print(
-            f"Uploaded {crowdin_name} ({plan.mode}): "
+            f"[{group.name}] Uploaded {crowdin_name} ({plan.mode}): "
             f"{words} words "
             f"({plan.added_line_count}/{plan.total_line_count} added lines, "
             f"{plan.block_count} block(s))",
             file=sys.stderr,
         )
 
+    return total_words, link_buckets, uploaded_files
+
+
+def upload_files() -> int:
+    base_sha = env("BASE_SHA")
+    head_sha = env("HEAD_SHA")
+    if not base_sha or not head_sha:
+        raise RuntimeError("BASE_SHA and HEAD_SHA are required")
+
+    task_key = env("JIRA_TASK_KEY")
+    if not task_key:
+        raise RuntimeError("JIRA_TASK_KEY is required")
+
+    all_files = changed_files()
+    if not all_files:
+        raise RuntimeError("No eligible markdown files to upload to Crowdin")
+
+    group, active_files = resolve_upload_context(all_files)
+    if not active_files:
+        raise RuntimeError(f"No {group.name} source files to upload to Crowdin")
+
+    total_words, link_buckets, uploaded_files = upload_group_files(
+        group,
+        active_files,
+        base_sha=base_sha,
+        head_sha=head_sha,
+        task_key=task_key,
+    )
+
     if not uploaded_files:
         raise RuntimeError("No files were uploaded to Crowdin")
 
-    en_editor_links = "\n".join(en_links)
-    es_editor_links = "\n".join(es_links)
+    en_editor_links = "\n".join(link_buckets["en"])
+    es_editor_links = "\n".join(link_buckets["es"])
     if not en_editor_links or not es_editor_links:
         raise RuntimeError("Crowdin editor links were not generated")
 
     result = {
+        "content_source": group.name,
         "total_words": total_words,
         "en_editor_links": en_editor_links,
         "es_editor_links": es_editor_links,
         "files": uploaded_files,
     }
     print(json.dumps(result))
+    write_github_output("content_source", group.name)
     write_github_output("total_words", str(total_words))
     write_github_output("en_editor_links", en_editor_links)
     write_github_output("es_editor_links", es_editor_links)

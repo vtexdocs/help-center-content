@@ -1,22 +1,30 @@
 # Creates/updates a LOC Jira parent task (+ 8 subtasks) when a localization label
-# is added to a PR with new pt/localization markdown content.
+# is added to a PR with new markdown content.
 #
-# Trigger: localization needed (high|medium|low) on PRs to main under docs/pt/** or
-# localization/**. Skips PRs with the "localization" label or l10n* branches.
-# Re-add the label after new commits if it was applied before content changed.
+# Trigger: localization needed (high|medium|low) on PRs to main under docs/pt/**,
+# docs/en/**, or localization/**. Skips PRs with the "localization" label or l10n*
+# branches. Re-add the label after new commits if it was applied before content changed.
+#
+# Content routing (mutually exclusive):
+#   docs/pt or localization/ → PT Crowdin project (Portuguese source; EN + es-mx links)
+#   docs/en only → EN Crowdin project (PT + es-mx links)
+#   (docs/pt or localization/) + docs/en together → docs/en ignored; PT path above
 #
 # Label → priority/due: high = High / Friday next week; medium/low add 1–2 weeks.
 # Dedupe: PR comment → hc-github-pr-* Jira label → hc-github-pr-ref marker → [HC] fallback.
-# Re-runs update the existing parent (description, priority, due dates, subtasks).
+# Re-runs update the existing parent unless the Prepare file subtask is due (production
+# lock): then a Jira comment is posted and automation skips further Jira/Crowdin updates.
 # Links source tasks (e.g. EDU-12345) found in the PR title, description, or branch to
 # the LOC parent with a Blocks link (LOC blocks EDU, same as LOC-26003 / EDU-18487).
 #
 # Crowdin: uploads PR-changed files via API (LOC-*_filename.md), sets word count on
-# the parent, EN/ES editor links on language subtasks. Partial upload when <50% of
-# lines added in ≤3 blocks ({name}.partial.md).
+# the parent, editor links on language subtasks. Partial upload when <50% of lines
+# added in ≤3 blocks ({name}.partial.md); full source file is attached as Crowdin
+# file context for partial uploads.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
 # LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN, LOC_CROWDIN_PROJECT_ID
+# EN-only PRs also require: LOC_CROWDIN_EN_PROJECT_ID
 # Optional: LOC_CROWDIN_ORGANIZATION (Crowdin Enterprise only)
 # Crowdin token scopes: Projects (read), Source files & strings (read/write),
 # Translation status (read)
@@ -28,7 +36,8 @@ env:
   LOC_JIRA_WORD_COUNT_FIELD: customfield_10253
   LOC_JIRA_SOURCE_LINK_PROJECT_KEY: EDU
   CROWDIN_EN_LANGUAGE: en
-  CROWDIN_ES_LANGUAGE: es-mx
+  CROWDIN_ES_LANGUAGE: es-mx  # Spanish (Mexico) — not generic "es"
+  CROWDIN_PT_LANGUAGE: pt-BR
 
 on:
   pull_request:
@@ -37,6 +46,8 @@ on:
     paths:
       - 'docs/pt/**/*.md'
       - 'docs/pt/**/*.mdx'
+      - 'docs/en/**/*.md'
+      - 'docs/en/**/*.mdx'
       - 'localization/**'
 
 jobs:
@@ -66,23 +77,51 @@ jobs:
           # Three-dot diff matches the GitHub PR "Files changed" tab (branch-only changes).
           DIFF_RANGE="${BASE_SHA}...${HEAD_SHA}"
 
-          INSERTIONS=$(git diff --numstat \
+          # localization/ is Portuguese source — counted and processed with docs/pt/.
+          INSERTIONS_PT=$(git diff --numstat \
             "$DIFF_RANGE" \
             -- docs/pt/ localization/ \
             | awk '{sum += $1} END {print sum+0}')
 
-          if [ "$INSERTIONS" -gt 0 ]; then
+          INSERTIONS_EN=$(git diff --numstat \
+            "$DIFF_RANGE" \
+            -- docs/en/ \
+            | awk '{sum += $1} END {print sum+0}')
+
+          HAS_PT=false
+          HAS_EN=false
+          if [ "$INSERTIONS_PT" -gt 0 ]; then HAS_PT=true; fi
+          if [ "$INSERTIONS_EN" -gt 0 ]; then HAS_EN=true; fi
+
+          if [ "$HAS_PT" = true ] || [ "$HAS_EN" = true ]; then
             echo "has_additions=true" >> $GITHUB_OUTPUT
           else
             echo "has_additions=false" >> $GITHUB_OUTPUT
           fi
 
-          CHANGED_FILES=$(git diff --numstat \
-            "$DIFF_RANGE" \
-            -- docs/pt/ localization/ \
-            | awk '$1 > 0 {print $3}' \
-            | grep -E '\.(md|mdx)$' \
-            | sort || true)
+          if [ "$HAS_PT" = true ]; then
+            echo "content_source=pt" >> $GITHUB_OUTPUT
+            CHANGED_FILES=$(git diff --numstat \
+              "$DIFF_RANGE" \
+              -- docs/pt/ localization/ \
+              | awk '$1 > 0 {print $3}' \
+              | grep -E '\.(md|mdx)$' \
+              | sort || true)
+            if [ "$HAS_EN" = true ]; then
+              echo "PR touches PT source (docs/pt or localization/) and docs/en; ignoring docs/en files"
+            fi
+          elif [ "$HAS_EN" = true ]; then
+            echo "content_source=en" >> $GITHUB_OUTPUT
+            CHANGED_FILES=$(git diff --numstat \
+              "$DIFF_RANGE" \
+              -- docs/en/ \
+              | awk '$1 > 0 {print $3}' \
+              | grep -E '\.(md|mdx)$' \
+              | sort || true)
+          else
+            echo "content_source=" >> $GITHUB_OUTPUT
+            CHANGED_FILES=""
+          fi
 
           {
             echo "changed_files<<EOF"
@@ -90,9 +129,91 @@ jobs:
             echo "EOF"
           } >> $GITHUB_OUTPUT
 
+      - name: Check production lock for existing tasks
+        id: production_lock
+        if: steps.content_diff.outputs.has_additions == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          LOC_JIRA_PROJECT_KEY: ${{ secrets.LOC_JIRA_PROJECT_KEY }}
+        run: |
+          PR_NUMBER=$(jq -r '.pull_request.number' "$GITHUB_EVENT_PATH")
+          GITHUB_REPOSITORY=$(jq -r '.repository.full_name' "$GITHUB_EVENT_PATH")
+          PR_REF="${GITHUB_REPOSITORY}#${PR_NUMBER}"
+          PR_LABEL="hc-github-pr-$(echo "${GITHUB_REPOSITORY}" | tr '/' '-')-${PR_NUMBER}"
+          PREPARE_SUMMARY="Prepare file to be localized"
+          TODAY=$(date -u +%Y-%m-%d)
+
+          # shellcheck source=.github/scripts/jira_helpers.sh
+          source .github/scripts/jira_helpers.sh
+
+          EXISTING_KEY=$(resolve_existing_parent_key || true)
+          if [ -z "$EXISTING_KEY" ]; then
+            echo "No existing parent task; production lock does not apply"
+            echo "updates_blocked=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          PREPARE_SEARCH=$(jira_post_search \
+            "parent = ${EXISTING_KEY} AND summary ~ \"${PREPARE_SUMMARY}\" ORDER BY created ASC" \
+            "summary,duedate,created" \
+            100 || true)
+          PREPARE_DUE=$(echo "$PREPARE_SEARCH" | jq -r --arg summary "$PREPARE_SUMMARY" \
+            '[.issues[]? | select(.fields.summary == $summary)] |
+             sort_by(.fields.created // .key) | .[0].fields.duedate // empty')
+
+          if [ -z "$PREPARE_DUE" ]; then
+            echo "Prepare file subtask due date not found for ${EXISTING_KEY}; allowing updates"
+            echo "updates_blocked=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [[ "$TODAY" < "$PREPARE_DUE" ]]; then
+            echo "Before Prepare file due date (${PREPARE_DUE}); allowing updates"
+            echo "updates_blocked=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          ASSIGNEE=$(curl -s \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${EXISTING_KEY}?fields=assignee" \
+            | jq -r '.fields.assignee.displayName // "Assignee"')
+
+          COMMENT_PAYLOAD=$(jq -n \
+            --arg assignee "$ASSIGNEE" \
+            '{
+              body: (
+                $assignee + ", THE TASK WAS UPDATED IN GITHUB!\n" +
+                "But since it is already in production, it was not automatically updated here. " +
+                "Please check if any changes are needed."
+              )
+            }')
+
+          COMMENT_RESPONSE=$(curl -s -o production-lock-comment-response.json -w "%{http_code}" \
+            -X POST \
+            -H "Content-Type: application/json" \
+            -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
+            -d "$COMMENT_PAYLOAD" \
+            "${LOC_JIRA_BASE_URL}/rest/api/2/issue/${EXISTING_KEY}/comment")
+
+          if [ "$COMMENT_RESPONSE" -ne 201 ]; then
+            echo "Failed to post production lock comment on ${EXISTING_KEY} (HTTP ${COMMENT_RESPONSE})" >&2
+            cat production-lock-comment-response.json >&2
+            exit 1
+          fi
+
+          echo "Production lock active for ${EXISTING_KEY} (Prepare file due: ${PREPARE_DUE}, today: ${TODAY})"
+          echo "Posted production lock comment on ${EXISTING_KEY}"
+          echo "updates_blocked=true" >> "$GITHUB_OUTPUT"
+          echo "blocked_parent_key=${EXISTING_KEY}" >> "$GITHUB_OUTPUT"
+
       - name: Resolve or create Jira ticket
         id: parent_ticket
-        if: steps.content_diff.outputs.has_additions == 'true'
+        if: >-
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
@@ -112,96 +233,8 @@ jobs:
           PR_LABEL="hc-github-pr-$(echo "${GITHUB_REPOSITORY}" | tr '/' '-')-${PR_NUMBER}"
           LABEL=$(jq -r '.label.name' "$GITHUB_EVENT_PATH")
 
-          jira_post_search() {
-            local jql="$1"
-            local fields_csv="$2"
-            local max_results="${3:-50}"
-            local payload response http_code body api_url
-
-            payload=$(jq -n \
-              --arg jql "$jql" \
-              --arg fields "$fields_csv" \
-              --argjson max "$max_results" \
-              '{
-                jql: $jql,
-                maxResults: $max,
-                fields: ($fields | split(",") | map(gsub("^\\s+|\\s+$"; "")))
-              }')
-
-            for api_url in \
-              "${LOC_JIRA_BASE_URL}/rest/api/3/search/jql" \
-              "${LOC_JIRA_BASE_URL}/rest/api/2/search"; do
-              response=$(curl -s -w "\n%{http_code}" \
-                -X POST \
-                -H "Content-Type: application/json" \
-                -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-                -d "$payload" \
-                "$api_url")
-              http_code=$(echo "$response" | tail -1)
-              body=$(echo "$response" | sed '$d')
-
-              if [ "$http_code" = "200" ] || [ "$http_code" = "201" ]; then
-                if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
-                  echo "Jira search error: $(echo "$body" | jq -r '.errorMessages[]')" >&2
-                  return 1
-                fi
-                echo "$body"
-                return 0
-              fi
-
-              if [ "$http_code" != "404" ] && [ "$http_code" != "405" ]; then
-                echo "Jira search failed at ${api_url} (HTTP ${http_code}): ${body}" >&2
-                return 1
-              fi
-            done
-
-            echo "Jira search failed: no compatible search endpoint" >&2
-            return 1
-          }
-
-          jira_search_first_key() {
-            local jql="$1"
-            local result
-            result=$(jira_post_search "$jql" "key,created" 1) || return 1
-            echo "$result" | jq -r '.issues[0].key // empty'
-          }
-
-          resolve_existing_parent_key() {
-            local key source
-
-            key=$(gh api \
-              "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
-              --paginate \
-              | jq -r --arg project "$LOC_JIRA_PROJECT_KEY" \
-                '[.[] | select(.body | test(":globe_with_meridians: Localization task|Localization ticket \\[" + $project + "-[0-9]+\\]"))] | sort_by(.created_at) | .[0].body // empty' \
-              | grep -oE "${LOC_JIRA_PROJECT_KEY}-[0-9]+" | head -1 || true)
-            if [ -n "$key" ]; then
-              source="PR comment"
-            else
-              key=$(jira_search_first_key \
-                "project = ${LOC_JIRA_PROJECT_KEY} AND labels = \"${PR_LABEL}\" ORDER BY created ASC" || true)
-              if [ -n "$key" ]; then
-                source="hc-github-pr label"
-              else
-                key=$(jira_search_first_key \
-                  "project = ${LOC_JIRA_PROJECT_KEY} AND text ~ \"hc-github-pr-ref: ${PR_REF}\" ORDER BY created ASC" || true)
-                if [ -n "$key" ]; then
-                  source="hc-github-pr-ref marker"
-                else
-                  key=$(jira_search_first_key \
-                    "project = ${LOC_JIRA_PROJECT_KEY} AND summary ~ \"\\\\[HC\\\\]\" AND text ~ \"#${PR_NUMBER}\" ORDER BY created ASC" || true)
-                  if [ -n "$key" ]; then
-                    source="[HC] summary and PR link text"
-                  fi
-                fi
-              fi
-            fi
-
-            if [ -n "$key" ]; then
-              echo "Found existing ticket via ${source}: ${key}" >&2
-              echo "$key"
-            fi
-          }
+          # shellcheck source=.github/scripts/jira_helpers.sh
+          source .github/scripts/jira_helpers.sh
 
           case "$LABEL" in
             "localization needed (high)")
@@ -373,6 +406,7 @@ jobs:
       - name: Link source Jira tasks from PR
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
           steps.parent_ticket.outputs.parent_key != ''
         env:
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
@@ -473,11 +507,14 @@ jobs:
         id: crowdin_upload
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
           steps.parent_ticket.outputs.parent_key != ''
         env:
           LOC_CROWDIN_API_TOKEN: ${{ secrets.LOC_CROWDIN_API_TOKEN }}
           LOC_CROWDIN_PROJECT_ID: ${{ secrets.LOC_CROWDIN_PROJECT_ID }}
+          LOC_CROWDIN_EN_PROJECT_ID: ${{ secrets.LOC_CROWDIN_EN_PROJECT_ID }}
           LOC_CROWDIN_ORGANIZATION: ${{ secrets.LOC_CROWDIN_ORGANIZATION }}
+          CONTENT_SOURCE: ${{ steps.content_diff.outputs.content_source }}
           CHANGED_FILES: ${{ steps.content_diff.outputs.changed_files }}
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
@@ -487,6 +524,7 @@ jobs:
       - name: Update parent task word count
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
           steps.parent_ticket.outputs.parent_key != ''
         env:
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
@@ -533,6 +571,7 @@ jobs:
       - name: Comment on PR with Jira link
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
           steps.parent_ticket.outputs.parent_key != ''
         env:
           GH_TOKEN: ${{ github.token }}
@@ -547,7 +586,7 @@ jobs:
           printf '%s\n' \
             '> ### :globe_with_meridians: Localization task' \
             '>' \
-            "> Localization ticket [${PARENT_KEY}](${JIRA_URL}) created" \
+            "> Localization ticket [${PARENT_KEY}](${JIRA_URL}) created." \
             "> Estimated delivery date: \`${PARENT_DUE_DATE}\`" \
             > "$COMMENT_FILE"
 
@@ -577,6 +616,7 @@ jobs:
       - name: Create localization subtasks
         if: >-
           steps.content_diff.outputs.has_additions == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
           steps.parent_ticket.outputs.parent_key != ''
         env:
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
@@ -592,6 +632,9 @@ jobs:
             echo "Parent due date is missing; cannot set subtask due dates." >&2
             exit 1
           fi
+
+          # shellcheck source=.github/scripts/jira_helpers.sh
+          source .github/scripts/jira_helpers.sh
 
           TODAY=$(date -u +%Y-%m-%d)
           DOW=$(date -u +%u)
@@ -679,53 +722,6 @@ jobs:
               exit 1
             }
             echo "$search_result"
-          }
-
-          jira_post_search() {
-            local jql="$1"
-            local fields_csv="$2"
-            local max_results="${3:-50}"
-            local payload response http_code body api_url
-
-            payload=$(jq -n \
-              --arg jql "$jql" \
-              --arg fields "$fields_csv" \
-              --argjson max "$max_results" \
-              '{
-                jql: $jql,
-                maxResults: $max,
-                fields: ($fields | split(",") | map(gsub("^\\s+|\\s+$"; "")))
-              }')
-
-            for api_url in \
-              "${LOC_JIRA_BASE_URL}/rest/api/3/search/jql" \
-              "${LOC_JIRA_BASE_URL}/rest/api/2/search"; do
-              response=$(curl -s -w "\n%{http_code}" \
-                -X POST \
-                -H "Content-Type: application/json" \
-                -u "${LOC_JIRA_USER_EMAIL}:${LOC_JIRA_API_TOKEN}" \
-                -d "$payload" \
-                "$api_url")
-              http_code=$(echo "$response" | tail -1)
-              body=$(echo "$response" | sed '$d')
-
-              if [ "$http_code" = "200" ] || [ "$http_code" = "201" ]; then
-                if [ "$(echo "$body" | jq -r '.errorMessages // [] | length')" -gt 0 ]; then
-                  echo "Jira search error: $(echo "$body" | jq -r '.errorMessages[]')" >&2
-                  return 1
-                fi
-                echo "$body"
-                return 0
-              fi
-
-              if [ "$http_code" != "404" ] && [ "$http_code" != "405" ]; then
-                echo "Jira search failed at ${api_url} (HTTP ${http_code}): ${body}" >&2
-                return 1
-              fi
-            done
-
-            echo "Jira search failed: no compatible search endpoint" >&2
-            return 1
           }
 
           find_existing_subtask_key() {
