@@ -1,57 +1,26 @@
-# Cross-Portal IA Alignment — Help Center ↔ Developer Portal
+# Cross-Portal Alignment — Decisions in the Proposal
 
-When section names and product labels differ between portals, users lose orientation when following cross-links. This document defines the naming constraints and Getting Started disambiguation that the HC restructuring proposal must respect.
-
-> Cross-portal link conventions, troubleshooting Area filter alignment, shared front-matter fields, and implementation priority are deferred to the implementation phase.
+The HC restructuring proposal was made with the Developer Portal structure in mind. This document records where the Dev Portal's existing structure directly influenced a naming or scoping decision in the proposal.
 
 ---
 
-## 1. Gray Areas
+## Section naming decisions
 
-These topic areas have content in both portals and will require cross-links during implementation:
+**"Intelligent Search" — kept as canonical name**
+The proposal keeps `intelligent-search` as the HC section name. The Dev Portal currently uses "Search" for the same product area — that is a Dev Portal misalignment, not a reason to rename the HC section. The correct canonical name is "Intelligent Search" (as used in the VTEX Admin UI), and the Dev Portal should align to it.
 
-| Topic area | HC covers | Dev Portal covers |
-|---|---|---|
-| Checkout | Admin configuration, conditions, buyer portal setup | Checkout API, Checkout Extensibility, hooks |
-| Payments | Payment condition setup, connector activation | Payment Provider Protocol, payment integration guides |
-| Intelligent Search | Admin search configuration, synonyms, redirects, relevance | Search API, delivery promise for headless |
-| B2B | Organization management, B2B Suite admin tasks | B2B Buyer Portal API, user provisioning, storefront roles |
-| VTEX Sales App | Admin setup, daily operations | Sales App extensions, customization SDK |
-| Storefront / CMS | Site Editor, Headless CMS content management, Layout | VTEX IO apps, FastStore, storefront development |
-| Shipping / Logistics | Carrier configuration, shipping strategies, inventory | Fulfillment API, delivery promise API |
+**"Shipping" — kept over "Logistics"**
+The proposal keeps the existing `shipping` section name rather than renaming it to "Logistics." The Dev Portal uses "Logistics" for its API-facing content (Fulfillment API, delivery promise). The divergence is intentional: "Shipping" is the merchant-facing term in the Admin UI; "Logistics" is the developer/API-facing term. Both are correct for their audience.
+
+**"Pricing & Promotions" — ampersand form chosen deliberately**
+The proposal introduces `pricing-and-promotions` as a new section using the display name "Pricing & Promotions" (with ampersand). The Dev Portal's troubleshooting filter currently uses "Pricing and Promotions" (with "and"). The HC proposal adopts the ampersand form, which the Dev Portal should align to.
 
 ---
 
-## 2. Canonical Section Names
+## Scope boundary decisions
 
-The proposed HC section names have been checked against the Dev Portal's existing labels.
+**New sections are scoped to Admin UI content only**
+The proposal's new sections — `apps-and-integrations`, `infrastructure-and-data`, `customer-experience` — are deliberately scoped to Admin-side configuration and operation. The Dev Portal covers the developer/API layer for the same product areas (Integration Guides, VTEX Platform Overview, VTEX Shield). The HC sections do not encroach on that layer; the boundary is the Admin UI.
 
-### Aligned names
-
-| Concept | Canonical name | Notes |
-|---|---|---|
-| VTEX search product | **Intelligent Search** | Dev Portal currently uses "Search" — should align (deferred to implementation) |
-| Pricing product | **Pricing & Promotions** | Dev Portal troubleshooting filter uses "Pricing and Promotions"; align on ampersand form |
-| Checkout, Payments, B2B, VTEX Sales App, Catalog, Orders | Same in both portals | No action needed |
-
-### Intentional divergences (documented, no change needed)
-
-| Concept | Help Center | Developer Portal | Rationale |
-|---|---|---|---|
-| Logistics/shipping | **Shipping** | **Logistics** | Merchant-facing vs. API-facing term; both correct for their audience |
-| Storefront development | **Storefront** | **vtex-io / faststore / CMS / legacy-cms** | HC is Admin-side only; Dev Portal splits by framework |
-| Platform integrations | **Apps & Integrations** | **Integration-Guides** | Different framing for different audiences |
-| Infrastructure | **Infrastructure & Data** | **VTEX-Platform-Overview / VTEX Shield** | Different scope: admin-level vs. platform security architecture |
-
----
-
-## 3. "Getting Started" Disambiguation
-
-The HC restructuring creates a new Getting Started section. Both portals have one, with completely different scopes:
-
-| Portal | Scope |
-|---|---|
-| Help Center | Accessing the VTEX Admin, browser requirements, store settings basics |
-| Developer Portal | API integration overview by product area (fulfillment, payments, orders, search) |
-
-These should not merge — they are different entry points for different users. The HC Getting Started should include a callout pointing developers to the [VTEX Developer Portal](https://developers.vtex.com).
+**Getting Started is merchant-only by design**
+The proposal creates a new `getting-started` section. The Dev Portal also has a Getting Started area, but with a completely different scope (API integration onboarding for developers). Creating a HC Getting Started section does not create duplication because the audiences and entry points are genuinely different. The HC Getting Started should include a callout pointing developers to the Dev Portal.
