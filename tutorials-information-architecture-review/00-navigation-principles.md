@@ -102,12 +102,12 @@ This document summarizes the evidence-based principles that underpin the VTEX He
 
 **Evidence:** The leading 2026 guidance on RAG chunking recommends document-aware splitting (using `##` Markdown headings as primary split boundaries), chunk sizes of 400–800 tokens per section, and metadata attachment (source URL, heading path, last-updated date) to every chunk. Chunks below 200 tokens lack enough context to be retrieved accurately; chunks above 800 tokens dilute the embedding vector across too many topics.
 
-**Applied to VTEX:** Every tutorial article's H2 sections must be:
-- **Descriptive** (not "Step 1" or "Overview")
-- **Self-contained** (understandable without reading adjacent sections)
-- **300–700 words each** (within the 400–800 token target)
+**Applied to VTEX:** At the IA level, two decisions directly affect retrieval quality:
 
-Front-matter fields (`title`, `excerpt`, `slugEN`, `productTeam`, `updatedAt`) feed the indexer's metadata layer and must be complete on every article.
+- **Section naming:** The BM25 component matches keywords exactly. Section names and article terminology must use the canonical Admin UI label — synonym sprawl across a section degrades keyword recall. See `06-section-naming-rationale.md` for the canonical terminology requirements.
+- **Section scope:** Vector embeddings average over all content in a retrieved chunk. Sections that are too broad in scope produce diffuse embeddings and poor retrieval precision. Each proposed section is scoped to a coherent merchant workflow for this reason.
+
+Article-level authoring requirements for AI retrieval (heading structure, chunk size, front-matter completeness) are out of scope for this proposal.
 
 > **References:**
 > - Firecrawl — [Best Chunking Strategies for RAG (and LLMs) in 2026](https://www.firecrawl.dev/blog/best-chunking-strategies-rag)

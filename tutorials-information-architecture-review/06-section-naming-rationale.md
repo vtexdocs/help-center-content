@@ -42,3 +42,18 @@ Distinct product areas, but same primary audience: operators managing non-standa
 The Dev Portal uses "Search" for the same product area. "Intelligent Search" is the canonical name as used in the VTEX Admin UI; the Dev Portal should align to the HC label, not the reverse.
 
 > **Note on Shipping:** The Dev Portal uses "Logistics" for its API-facing content. The divergence is intentional — "Shipping" is the merchant-facing term in the Admin UI. Both are correct for their audience.
+
+---
+
+## Canonical terminology requirement
+
+The BM25 (keyword) component of hybrid search relies on exact term matching. Every article within the proposed sections must use the canonical name — the label used in the VTEX Admin UI — consistently. Synonym sprawl across articles in the same section directly degrades keyword retrieval.
+
+| Canonical name (use this) | Synonyms to stop using |
+| --- | --- |
+| VTEX Admin | Admin Panel, Back-office, BO, Dashboard |
+| Order Management | OMS, Order Management System |
+| Intelligent Search | IS, VTEX Search, Search module |
+| Master Data | MD, CRM module |
+| Trade Policy | Sales policy, Commercial policy |
+| SKU | Product variant, Item variant |

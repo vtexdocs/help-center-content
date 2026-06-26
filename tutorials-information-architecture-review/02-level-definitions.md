@@ -164,7 +164,4 @@ Is this a broad user goal domain (e.g., Payments, Catalog)?
 - ❌ Duplicated parallel sections/categories: fix by defining clear scope and merging them into a single section/category.
 - ❌ Orphaned articles: fix by assigning it to the most appropriate group.
 - ❌ Unnecessary label changes: keep labels as stable as possible, especially for Level 1 sections.
-
----
-
-For article structure rules that affect AI retrieval, see [`08-ai-retrieval-requirements.md`](08-ai-retrieval-requirements.md).
+- ❌ Sections too broad in scope: when a section covers too many unrelated topics, embedding vectors average over them and AI retrieval precision drops. Each section's scope should be narrow enough that its articles share a coherent topic cluster.
