@@ -5,7 +5,8 @@ This document covers:
 1. Ordering issues in existing metadata (duplicate order numbers)
 2. Overview-not-first ordering problems
 3. `metadata.json` templates for new folders created by the restructuring
-4. Metadata needed for new top-level sections
+4. `metadata.json` field reference
+5. AI retrieval metadata recommendations (description field, front-matter completeness, slug stability, cross-portal alignment, heading path metadata)
 
 ---
 
