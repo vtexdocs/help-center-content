@@ -19,19 +19,19 @@ This document maps every existing top-level section (and their sub-categories) t
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | `about-the-admin` | About the Admin | 3 | MOVE INTO | Getting Started |
 | 2 | `account-management` | Account Management | 28 | KEEP (rename) | Account Management |
-| 3 | `apps` | Apps | 14 | MOVE INTO | Apps and Integrations |
+| 3 | `apps` | Apps | 14 | MOVE INTO | Apps & Integrations |
 | 4 | `authentication` | Authentication | 8 | MOVE INTO | Account Management |
-| 5 | `b2b` | B2B | 39 | KEEP (rename) | Sellers and B2B |
+| 5 | `b2b` | B2B | 39 | KEEP (rename) | Sellers & B2B |
 | 6 | `beta` | Beta | 36 | REDISTRIBUTE | Various sections |
 | 7 | `billing` | Billing | 18 | MOVE INTO | Account Management |
 | 8 | `catalog` | Catalog | 73 | KEEP | Catalog |
-| 9 | `checkout` | Checkout | 29 | KEEP (rename) | Checkout and Subscriptions |
+| 9 | `checkout` | Checkout | 29 | KEEP (rename) | Checkout & Subscriptions |
 | 10 | `cms` | CMS | 7 | MOVE INTO | Storefront |
 | 11 | `conversational-commerce` | Conversational Commerce | 37 | MOVE INTO | Customer Experience |
-| 12 | `dashboards` | Dashboards | 4 | MOVE INTO | Infrastructure and Data |
-| 13 | `indeva-by-vtex` | Indeva by VTEX | 90 | MOVE INTO | Infrastructure and Data |
-| 14 | `infrastructure` | Infrastructure | 11 | KEEP (rename) | Infrastructure and Data |
-| 15 | `integrations` | Integrations | 85 | MOVE INTO | Apps and Integrations |
+| 12 | `dashboards` | Dashboards | 4 | MOVE INTO | Infrastructure & Data |
+| 13 | `indeva-by-vtex` | Indeva by VTEX | 90 | MOVE INTO | Infrastructure & Data |
+| 14 | `infrastructure` | Infrastructure | 11 | KEEP (rename) | Infrastructure & Data |
+| 15 | `integrations` | Integrations | 85 | MOVE INTO | Apps & Integrations |
 | 16 | `intelligent-search` | Intelligent Search | 26 | KEEP | Intelligent Search |
 | 17 | `master-data` | Master Data | 29 | MOVE INTO | Customer Experience |
 | 18 | `message-center` | Message center | 7 | MOVE INTO | Customer Experience |
@@ -41,14 +41,14 @@ This document maps every existing top-level section (and their sub-categories) t
 | 22 | `other` | Other | 4 | REDISTRIBUTE | Various sections |
 | 23 | `payments` | Payments | 277 | KEEP | Payments |
 | 24 | `prices` | Prices | 14 | MOVE INTO | Pricing and Promotions |
-| 25 | `projects-and-integrations` | Projects and Integrations | 15 | MOVE INTO | Apps and Integrations |
+| 25 | `projects-and-integrations` | Projects and Integrations | 15 | MOVE INTO | Apps & Integrations |
 | 26 | `promotions-and-taxes` | Promotions and taxes | 48 | KEEP (rename) | Pricing and Promotions |
 | 27 | `security` | Security | 24 | MOVE INTO | Account Management |
-| 28 | `sellers` | Sellers | 30 | KEEP (rename) | Sellers and B2B |
+| 28 | `sellers` | Sellers | 30 | KEEP (rename) | Sellers & B2B |
 | 29 | `shipping` | Shipping | 65 | KEEP | Shipping |
 | 30 | `store-settings` | Store Settings | 3 | MOVE INTO | Getting Started |
 | 31 | `storefront` | Storefront | 100 | KEEP | Storefront |
-| 32 | `subscriptions` | Subscriptions | 11 | MOVE INTO | Checkout and Subscriptions |
+| 32 | `subscriptions` | Subscriptions | 11 | MOVE INTO | Checkout & Subscriptions |
 | 33 | `suggestions` | Suggestions | 2 | MOVE INTO | Catalog |
 | 34 | `trade-policies` | Trade policies | 7 | MOVE INTO | Pricing and Promotions |
 | 35 | `vtex-cx-platform` | VTEX CX Platform | 90 | MOVE INTO | Customer Experience |
@@ -61,15 +61,17 @@ This document maps every existing top-level section (and their sub-categories) t
 ### 1. Getting Started
 
 **New folder (EN):** `getting-started`
-**Article count:** ~8 articles
+**Article count:** ~10 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles to include |
 | :--- | :--- | :--- |
 | `about-the-admin` | (root) | `accessing-the-beta-environment.md`, `compatibility-with-browsers-in-the-admin-module.md`, `marketplace-overview.md` |
-| `store-settings` | (root) | `store-settings-overview.md`, `best-practices-for-the-success-of-your-vtex-store.md`, `multilevel-omnichannel-inventory.md` |
+| `store-settings` | (root) | `store-settings-overview.md` *(hub article)*, `best-practices-for-the-success-of-your-vtex-store.md`, `multilevel-omnichannel-inventory.md` |
 | `operational` | `vtex-admin/` | `vtex-admin-start-here.md`, `visualization-of-vtex-admin-rendering-errors.md` |
-| `other` | (root) | `vtex-academy-overview.md` |
+| `other` | (root) | `vtex-academy-overview.md`, `partner-program-intranet-and-vtex-store-manual.md` |
+
+**Hub article:** `store-settings-overview.md` is the designated first and pinned article for this section, serving as the L1 overview entry per the mandatory hub requirement.
 
 **Proposed Level 2 groups within Getting Started:** None required (< 15 articles total; use flat L1 → L3 structure)
 
@@ -150,7 +152,7 @@ This document maps every existing top-level section (and their sub-categories) t
 **Recommended consolidated groups:**
 
 1. **Overview** ← catalog-overview + search + suggestions (8 articles)
-2. **Products and SKUs** ← products-and-skus (23 articles)
+2. **Products and SKUs** ← products-and-skus (23 articles) — exceeds 20-article threshold; consider splitting into "Product Setup" (creation, attributes, pricing) and "SKU Management" (variants, binding, commercial conditions) if editorial bandwidth allows
 3. **Categories and Brands** ← categories + brands (14 articles)
 4. **Attributes and Lists** ← custom-product-attributes + list-types (9 articles)
 5. **Collections and Kits** ← collection + kit + bundle (12 articles)
@@ -192,7 +194,7 @@ This document maps every existing top-level section (and their sub-categories) t
 ### 5. Storefront
 
 **New folder (EN):** `storefront` *(keep existing folder)*
-**Article count:** ~107 articles
+**Article count:** ~116 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
@@ -201,16 +203,21 @@ This document maps every existing top-level section (and their sub-categories) t
 | `cms` | `branching-and-versioning/` | 2 |
 | `cms` | `configuring-locales/` | 4 |
 | `cms` | `content-management-overview/` | 1 |
+| `beta` | `product-recommendations-beta/` | 3 |
+| `beta` | `releases-beta/` | 6 |
 
-**Proposed Level 2 groups within Storefront (current structure mostly works; consolidate cms into it):**
+**Proposed Level 2 groups within Storefront:**
 
-1. **Overview** ← `storefront-overview.md` + `cms/content-management-overview/` = hub
-2. **Layout (Legacy CMS)** ← `storefront/layout/` (65 articles — large; keep as is, L2 group)
-3. **Headless CMS** ← `storefront/headless-cms/` (6 articles) + `cms/branching-and-versioning/` (2) + `cms/configuring-locales/` (4) = 12 articles
-4. **CMS for Store Framework** ← `storefront/cms-for-store-framework/` (27 articles) — see 4-level fixes doc for flattening plan
-5. **Agentic CX** ← `storefront/agentic-cx/` (2 articles) — may merge with Overview (< 5 articles)
+> The 4-level nesting violations inside `cms-for-store-framework` are resolved by applying Option A from `04-4level-fixes.md`: the intermediate `cms-for-store-framework` folder is eliminated as a navigation level and its four sub-folders are promoted directly as L2 groups under `storefront`. The two small groups from the original proposal (Agentic CX: 2 articles; Product Recommendations: 3 articles) are below the 4-article minimum and are merged into Overview.
 
-> The 4-level nesting within `cms-for-store-framework` must be resolved before this section is finalized. See `04-4level-fixes.md`.
+1. **Overview** ← `storefront-overview.md` + `cms/content-management-overview/` + `storefront/agentic-cx/` (2) + `beta/product-recommendations-beta/` (3) = ~7 articles — hub
+2. **Layout (Legacy CMS)** ← `storefront/layout/` (65 articles — large; no split planned in current IA scope; flag for a follow-up content audit)
+3. **Headless CMS** ← `storefront/headless-cms/` (6) + `cms/branching-and-versioning/` (2) + `cms/configuring-locales/` (4) + `beta/releases-beta/` (6) = 18 articles
+4. **CMS Pages** ← `storefront/cms-for-store-framework/pages/` (4 articles) — resolves 4-level violation; see `04-4level-fixes.md`
+5. **Site Editor** ← `storefront/cms-for-store-framework/site-editor/` (8 articles) — resolves 4-level violation
+6. **Storefront Settings** ← `storefront/cms-for-store-framework/store-settings---storefront/` (12) + `storefront/cms-for-store-framework/styles/` (2) = 14 articles — resolves 4-level violation
+
+> Layout (Legacy CMS) at 65 articles exceeds the 20-article L2 group review threshold. Its internal organization is not changed in the current restructuring; a dedicated content audit is recommended as a follow-up to reorganize it into sub-themes (e.g., Templates, Pages, Widgets).
 
 ---
 
@@ -229,13 +236,14 @@ This document maps every existing top-level section (and their sub-categories) t
 3. **Relevance** ← `relevance/` (6 articles)
 4. **Synonyms** ← `synonyms/` (5 articles)
 5. **Redirects** ← `redirects/` (2 articles) + `banners/` (2 articles) = 4 articles (merge)
-6. **Configuration** ← `search-configuration.md` (1 article, root) + `banners/` if not merged above
+6. **Configuration** ← `search-configuration.md` (1 article, root) + `banners/` if not merged above — 1 article is below the 4-article minimum; merge into **Overview** unless a second configuration article is added
 
 ---
 
-### 7. Checkout and Subscriptions
+### 7. Checkout & Subscriptions
 
 **New folder (EN):** `checkout` *(keep existing folder, add subscriptions as new L2 group — folder intentionally not renamed to `checkout-and-subscriptions` to avoid breaking existing URLs)*
+**L1 label note:** "Checkout & Subscriptions" is 24 characters, exceeding the 20-character guideline. The label is kept because dropping "Subscriptions" would make that content invisible to users scanning the sidebar. Treat as an accepted exception per `06-section-naming-rationale.md`.
 **Article count:** ~40 articles
 **Source sections:**
 
@@ -264,10 +272,11 @@ This document maps every existing top-level section (and their sub-categories) t
 **Proposed Level 2 groups (current sub-folders are good as-is):**
 
 1. **Overview** ← `orders-overview/` (10 articles) — hub
-2. **All Orders** ← `all-orders/` (28 articles)
+2. **All Orders** ← `all-orders/` (28 articles) — exceeds 20-article threshold; consider splitting into "Order List" and "Order Details" if future content growth warrants it; acceptable for now given thematic coherence
 3. **Order Settings** ← `orders-management-settings/` (13 articles)
 4. **Telesales and Customer Service** ← `telesales-and-customer-service/` (4 articles)
-   - Note: Root article `understanding-b2b-orders.md` should be moved to the Sellers and B2B section or promoted to an L2 group overview
+
+> Root article `understanding-b2b-orders.md` is an orphaned direct L1 article that must not be left at root alongside L2 groups (mixes levels). Move it to **Sellers & B2B** (Sellers Overview group) where B2B order context belongs.
 
 ---
 
@@ -278,12 +287,12 @@ This document maps every existing top-level section (and their sub-categories) t
 
 **Proposed Level 2 groups (current sub-folders are good as-is):**
 
-1. **Overview** ← `payments-overview/` (29 articles) — hub
+1. **Overview** ← `payments-overview/` (29 articles) — hub; 29 articles exceeds the 20-article threshold; review whether some articles belong in Payment Settings
 2. **Payment Settings** ← `payment-settings/` (229 articles — very large)
 3. **Transactions** ← `transactions/` (16 articles)
-4. **Bank Conciliation** ← `bank-conciliation/` (2 articles)
-5. Root article `gift-card.md` → merge into Payment Settings or Transactions
+4. **Bank Conciliation** ← `bank-conciliation/` (2 articles) — below 4-article minimum; merge into **Transactions** (both cover post-payment operations)
 
+> Root article `gift-card.md` is an orphaned direct L1 article. Assign it to the **Overview** group to avoid mixing levels.
 > The `payment-settings` sub-folder with 229 articles warrants further internal splitting (e.g., by payment method type: card payments, local methods, connectors A-Z). This is out of scope for the current IA restructuring and should be addressed as a follow-up.
 
 ---
@@ -295,18 +304,19 @@ This document maps every existing top-level section (and their sub-categories) t
 
 **Proposed Level 2 groups (current sub-folders work well):**
 
-1. **Overview** ← `logistics-overview/` (2 articles) — hub
-2. **Shipping Strategy** ← `shipping-strategy/` (24 articles)
-3. **Inventory** ← `inventory/` (3 articles) + `inventory-and-shipping-settings/` (7 articles) = 10 articles
+1. **Overview** ← `logistics-overview/` (2 articles) — hub; 2 articles is below the 4-article minimum but the hub group is a structural requirement; merge overview articles into a single hub article if possible
+2. **Shipping Strategy** ← `shipping-strategy/` (24 articles) — exceeds 20-article threshold; consider splitting into "Carrier Configuration" and "Delivery Rules" if growth continues; acceptable for now given thematic coherence
+3. **Inventory** ← `inventory/` (3 articles) + `inventory-and-shipping-settings/` (7 articles) + `operational-capacity/` (1 article) = 11 articles
 4. **Shipping Rates** ← `shipping-rates/` (3 articles) + `shipping-simulator/` (2 articles) = 5 articles
 5. **Pickup Points** ← `pickup-points/` (2 articles) + `registering-geolocation.md` + `registering-holidays.md` = 4 articles — may merge with Shipping Strategy
 6. **VTEX Pick & Pack** ← `vtex-pick-and-pack/` (8 articles)
 7. **VTEX Shipping Network** ← `vtex-shipping-network/` (5 articles)
-8. **Operational Capacity** ← `operational-capacity/` (1 article) — merge into Inventory (< 5 articles)
+
+> Operational Capacity (1 article) is merged into Inventory above to resolve the below-minimum group size.
 
 ---
 
-### 11. Sellers and B2B
+### 11. Sellers & B2B
 
 **New folder (EN):** `sellers-and-b2b` *(new folder combining `sellers` + `b2b`)*
 **Article count:** ~69 articles
@@ -324,9 +334,11 @@ This document maps every existing top-level section (and their sub-categories) t
 | `b2b` | `b2b-suite/` | 24 |
 | `b2b` | `organization-account/` | 8 |
 
-**Proposed Level 2 groups within Sellers and B2B:**
+**Proposed Level 2 groups within Sellers & B2B:**
 
-1. **Sellers Overview** ← `sellers/sellers-overview/` (8 articles) — hub
+> **Hub article:** The first article in the **Sellers Overview** group must be designated as the L1 hub/overview article (e.g., `sellers-overview.md`). This satisfies the mandatory hub requirement for every L1 section.
+
+1. **Sellers Overview** ← `sellers/sellers-overview/` (8 articles) — first article is the L1 hub
 2. **Seller Portal** ← `sellers/seller-portal/` (13 articles)
 3. **Seller Management** ← `sellers/management/` (3) + `sellers/categories-and-brands/` (2) + `sellers/sku-binding/` (2) + root (1) = 8 articles
 4. **B2B Overview** ← `b2b/organization-account/` (8 articles) — hub for B2B section
@@ -335,7 +347,7 @@ This document maps every existing top-level section (and their sub-categories) t
 
 ---
 
-### 12. Apps and Integrations
+### 12. Apps & Integrations
 
 **New folder (EN):** `apps-and-integrations` *(new folder combining `apps`, `integrations`, `projects-and-integrations`)*
 **Article count:** ~114 articles
@@ -358,11 +370,11 @@ This document maps every existing top-level section (and their sub-categories) t
 | `projects-and-integrations` | (root) | 15 (Google Analytics, Search Console, etc.) |
 | `other` | `uncategorized/` | 2 (marketplace connections) |
 
-**Proposed Level 2 groups within Apps and Integrations:**
+**Proposed Level 2 groups within Apps & Integrations:**
 
 1. **Overview** ← `integrations/integrations-overview/` (8) + `apps/apps-overview/` (2) = 10 articles — hub
 2. **Apps** ← `apps/customer-credit/`, `apps/live-shopping/`, `apps/my-account/`, `apps/` root = 12 articles
-3. **Integration Settings** ← `integrations/integration-settings/` (40 articles)
+3. **Integration Settings** ← `integrations/integration-settings/` (40 articles) — exceeds 20-article threshold; consider splitting into "ERP Integrations" and "Marketplace Integrations" as a follow-up; the current grouping is acceptable pending a content audit of the 40 articles
 4. **Orders Integration** ← `integrations/orders/` (10 articles)
 5. **Inventory Integration** ← `integrations/inventory/` (7 articles)
 6. **Products Integration** ← `integrations/products/` (3) + `integrations/price/` (2) + `integrations/offer-management/` (2) = 7 articles
@@ -421,19 +433,20 @@ This document maps every existing top-level section (and their sub-categories) t
 **Proposed Level 2 groups within Customer Experience:**
 
 1. **Overview** ← `vtex-cx-platform/vtex-cx-platform-overview/` (9 articles) — hub
-2. **VTEX CX Platform** ← `vtex-cx-platform/agent-builder/` + `automation-flow/` flattened (23 articles) + `studio/` (16) + `live-desk/` (6) + `vtex-cx-platform-settings/` (2) = 47 articles (large; may need to remain as its own sub-sections)
-3. **CX Integrations** ← `vtex-cx-platform/integrations/` (34 articles)
-4. **Conversational Commerce** ← `conversational-commerce/vtex-assisted-sales-suiteshare/` (37 articles)
+2. **VTEX CX Platform** ← `vtex-cx-platform/agent-builder/` + `automation-flow/` flattened per `04-4level-fixes.md` (23 articles total) + `studio/` (16) + `live-desk/` (6) + `vtex-cx-platform-settings/` (2) = 47 articles — exceeds 20-article threshold; keep existing sub-folder structure as internal L3 organization within this group; flag for a follow-up split into separate L2 groups ("Agent Builder", "Studio", "Live Desk") if the section is separated into its own L1
+3. **CX Integrations** ← `vtex-cx-platform/integrations/` (34 articles) — exceeds 20-article threshold; consider splitting by integration type (e.g., "CRM Integrations", "Telephony Integrations") as a follow-up
+4. **Conversational Commerce** ← `conversational-commerce/vtex-assisted-sales-suiteshare/` (37 articles) — exceeds 20-article threshold; consider splitting by workflow (e.g., "Suiteshare Setup", "Assisted Sales") as a follow-up
 5. **Message Center** ← `message-center/` all (7 articles)
-6. **Master Data** ← `master-data/` all (29 articles)
+6. **Master Data** ← `master-data/` all (29 articles) — exceeds 20-article threshold; consider splitting into "Master Data Basics" + "Master Data v1" as a follow-up
 
 > Note: Customer Experience at 163 articles is very large. If it exceeds comfortable sidebar management, consider keeping `vtex-cx-platform` as its own top-level section (bringing the total from 15 → 16 sections). The final decision should be based on user research about whether merchants think of CX Platform and Conversational Commerce as one area.
 
 ---
 
-### 15. Infrastructure and Data
+### 15. Infrastructure & Data
 
 **New folder (EN):** `infrastructure-and-data` *(new folder combining `infrastructure`, `dashboards`, `indeva-by-vtex`)*
+**L1 label note:** "Infrastructure & Data" is 21 characters, marginally exceeding the 20-character guideline. The "& Data" suffix is necessary to signal that data pipeline content (Indeva) lives here, not only platform health. Treat as an accepted exception per `06-section-naming-rationale.md`.
 **Article count:** ~105 articles
 **Source sections:**
 
@@ -444,14 +457,14 @@ This document maps every existing top-level section (and their sub-categories) t
 | `dashboards` | (root) | 4 |
 | `indeva-by-vtex` | all sub-folders | 90 |
 
-**Proposed Level 2 groups within Infrastructure and Data:**
+**Proposed Level 2 groups within Infrastructure & Data:**
 
 1. **Overview** ← hub page (new article needed)
 2. **CDN and DNS** ← `infrastructure/cdn-service/` (8 articles)
 3. **SLA and Status** ← `infrastructure/sla-and-status/` (3 articles) + `dashboards/` all (4 articles) = 7 articles
 4. **Indeva by VTEX** ← all `indeva-by-vtex/` content (90 articles — keep its internal sub-folder structure as L3 groups)
 
-> With 90 articles, Indeva by VTEX alone could justify its own top-level section if product team priority dictates it. The current mapping keeps it within Infrastructure and Data to stay within the 15-section target.
+> With 90 articles, Indeva by VTEX alone could justify its own top-level section if product team priority dictates it. The current mapping keeps it within Infrastructure & Data to stay within the 15-section target.
 
 ---
 
@@ -463,14 +476,14 @@ This document maps every existing top-level section (and their sub-categories) t
 |---|---|---|
 | `beta/authentication-beta/` | `configuring-sign-in-with-apple-id-beta.md` | Account Management → Authentication |
 | `beta/catalog-beta/` | `creating-or-editing-categories-attributes-and-variations-beta.md` | Catalog → Products and SKUs |
-| `beta/dashboards-beta/` | `store-overview-beta.md` | Infrastructure and Data → SLA and Status |
-| `beta/data-insights-agent-beta/` | `data-insights-agent.md` | Infrastructure and Data |
+| `beta/dashboards-beta/` | `store-overview-beta.md` | Infrastructure & Data → SLA and Status |
+| `beta/data-insights-agent-beta/` | `data-insights-agent.md` | Infrastructure & Data |
 | `beta/intelligent-search-beta/` | `intelligent-search-semantic-search-beta.md`, `vtex-intelligent-search-multilanguage-settings-beta.md` | Intelligent Search → Search Behavior |
 | `beta/product-recommendations-beta/` | 3 articles | Storefront |
 | `beta/promotions-beta/` | 2 articles | Pricing and Promotions → Promotions |
 | `beta/releases-beta/` | 6 articles | Storefront (CMS/Versioning area) |
 | `beta/shipping-beta/` | 3 articles | Shipping |
-| `beta/vtex-data-pipeline-beta/` | 13 articles | Infrastructure and Data |
+| `beta/vtex-data-pipeline-beta/` | 13 articles | Infrastructure & Data |
 | `beta/vtex-sales-app-beta/` | 3 articles | Omnichannel → VTEX Sales App |
 
 **Tagging:** Each migrated beta article must receive a `[Beta]` label or tag visible on the article page, so users know the feature is not yet generally available. This tagging should be implemented via a front-matter field, not by prefixing article titles.
@@ -485,17 +498,17 @@ This document maps every existing top-level section (and their sub-categories) t
 | Account Management | `account-management` | account-management, authentication, billing, security, operational/support+financial | ~81 |
 | Catalog | `catalog` | catalog, suggestions | ~75 |
 | Pricing and Promotions | `pricing-and-promotions` | promotions-and-taxes, prices, trade-policies | ~69 |
-| Storefront | `storefront` | storefront, cms | ~107 |
+| Storefront | \storefront\ | storefront, cms, beta/product-recommendations, beta/releases | ~116 |
 | Intelligent Search | `intelligent-search` | intelligent-search | 26 |
-| Checkout and Subscriptions | `checkout` | checkout, subscriptions | ~40 |
+| Checkout & Subscriptions | `checkout` | checkout, subscriptions | ~40 |
 | Orders | `orders` | orders | 56 |
 | Payments | `payments` | payments | 277 |
 | Shipping | `shipping` | shipping | 65 |
-| Sellers and B2B | `sellers-and-b2b` | sellers, b2b | ~69 |
-| Apps and Integrations | `apps-and-integrations` | apps, integrations, projects-and-integrations, other/uncategorized | ~114 |
+| Sellers & B2B | `sellers-and-b2b` | sellers, b2b | ~69 |
+| Apps & Integrations | `apps-and-integrations` | apps, integrations, projects-and-integrations, other/uncategorized | ~114 |
 | Omnichannel | `omnichannel` | omnichannel, vtex-sales-app | ~15 |
 | Customer Experience | `customer-experience` | vtex-cx-platform, conversational-commerce, message-center, master-data | ~163 |
-| Infrastructure and Data | `infrastructure-and-data` | infrastructure, dashboards, indeva-by-vtex | ~105 |
+| Infrastructure & Data | `infrastructure-and-data` | infrastructure, dashboards, indeva-by-vtex | ~105 |
 | **TOTAL** | | | **~1,272** |
 
 > ~46 articles from `beta`, `other`, and micro-sections are redistributed into the sections above; the totals include these redistributed articles. PT count (~1,311) is lower than EN/ES (~1,318) due to 7 untranslated articles.
