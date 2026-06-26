@@ -3,7 +3,7 @@ title: 'VTEX Pick and Pack: Configuración'
 id: 16cs3e7hWk7c4cSZqe10O9
 status: PUBLISHED
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2024-01-09T18:30:22.578Z
+updatedAt: 2026-06-26T00:00:00.000Z
 publishedAt: 2024-01-09T18:30:22.578Z
 firstPublishedAt: 2024-01-09T16:30:00.192Z
 contentType: tutorial
