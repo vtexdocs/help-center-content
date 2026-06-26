@@ -220,7 +220,7 @@ This document maps every existing top-level section (and their sub-categories) t
 **Article count:** 26 articles
 **Rationale for keeping as standalone:** 26 articles is sufficient for an independent section; merging with Storefront would make Storefront unwieldy.
 
-> **Naming note:** The VTEX Developer Portal uses "Search" (not "Intelligent Search") as its section label. "Intelligent Search" is the correct canonical name (as used in the VTEX Admin UI); the Dev Portal should align to it. See `08-cross-portal-alignment.md` for the full naming rationale.
+> **Naming note:** The VTEX Developer Portal uses "Search" (not "Intelligent Search") as its section label. "Intelligent Search" is the correct canonical name (as used in the VTEX Admin UI); the Dev Portal should align to it. See `08-section-naming-rationale.md` for the full naming rationale.
 
 **Proposed Level 2 groups (current sub-folders are good as-is):**
 
