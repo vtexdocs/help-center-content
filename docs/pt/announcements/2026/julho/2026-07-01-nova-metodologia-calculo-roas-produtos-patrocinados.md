@@ -16,7 +16,7 @@ A partir de 1º de julho de 2026, o cálculo do **ROAS** exibido para campanhas 
 
 ## O que mudou?
 
-Antes desta atualização, o ROAS de campanhas de produtos patrocinados considerava apenas conversões geradas por clique, em uma janela de 7 dias. Agora, o cálculo passa a incluir também as conversões atribuídas a usuários que visualizaram o anúncio sem clicar. A janela de conversões por clique permanece em 7 dias, e as conversões por visualização usam uma janela própria de um dia.
+Antes desta atualização, o ROAS de campanhas de produtos patrocinados considerava apenas conversões geradas por clique. Agora, o cálculo passa a incluir também as conversões atribuídas a usuários que visualizaram o anúncio sem clicar. A janela de conversões por clique é de 14 dias, e as conversões por visualização usam uma janela própria de um dia.
 
 A fórmula do ROAS consolidado permanece: receita atribuída (clique e visualização) dividida pelo custo total. A mudança ocorre apenas no numerador para produtos patrocinados, que passa a incluir a receita por visualização.
 
@@ -43,3 +43,4 @@ Nenhuma ação é necessária para que as mudanças entrem em vigor. Recomendamo
 
 - Considerem o ROAS consolidado como referência principal a partir de 1º de julho de 2026.
 - Utilizem as colunas **ROAS click** e **ROAS view** (disponíveis para usuários com permissão de administrador) ao analisar a origem dos resultados e ao comparar campanhas com períodos anteriores à mudança.
+
