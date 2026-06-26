@@ -1,6 +1,7 @@
 # Metadata Audit — `metadata.json` Findings and Specifications
 
 This document covers:
+
 1. Ordering issues in existing metadata (duplicate order numbers)
 2. Overview-not-first ordering problems
 3. `metadata.json` templates for new folders created by the restructuring
@@ -14,14 +15,17 @@ Two sections have duplicate `order` values among their L2 groups. Duplicate orde
 
 ### `catalog` — duplicate order 9
 
-| Folder | Current order | Fix |
-|---|---|---|
-| `kit/` | 9 | Keep at order 9 |
-| `import-and-export/` | 9 | Change to order 7 |
+
+| Folder               | Current order | Fix               |
+| -------------------- | ------------- | ----------------- |
+| `kit/`               | 9             | Keep at order 9   |
+| `import-and-export/` | 9             | Change to order 7 |
+
 
 > Order 10 cannot be used because `list-types/` is already at order 10. Order 7 is currently unoccupied in the catalog sequence.
 
 Update `docs/en/tutorials/catalog/import-and-export/metadata.json`:
+
 ```json
 {
   "id": "import-and-export",
@@ -30,18 +34,22 @@ Update `docs/en/tutorials/catalog/import-and-export/metadata.json`:
   "order": 7
 }
 ```
+
 Apply same fix to ES (`catálogo/importacion-y-exportacion/`) and PT (`catálogo/importação-e-exportação/`) equivalents.
 
 ### `storefront` — duplicate order 2
 
-| Folder | Current order | Fix |
-|---|---|---|
-| `headless-cms/` | 2 | Change to order 1 |
-| `cms-for-store-framework/` | 2 | Change to order 5 |
+
+| Folder                     | Current order | Fix               |
+| -------------------------- | ------------- | ----------------- |
+| `headless-cms/`            | 2             | Change to order 1 |
+| `cms-for-store-framework/` | 2             | Change to order 5 |
+
 
 > Order 3 cannot be used for `cms-for-store-framework` because `layout/` is already at order 3. Order 5 is currently unoccupied in the storefront sequence. The actual display name of `headless-cms/` in the repository is "Headless CMS (Legacy)", not "Headless CMS".
 
 Update `docs/en/tutorials/storefront/headless-cms/metadata.json`:
+
 ```json
 {
   "id": "headless-cms",
@@ -50,7 +58,9 @@ Update `docs/en/tutorials/storefront/headless-cms/metadata.json`:
   "order": 1
 }
 ```
+
 Update `docs/en/tutorials/storefront/cms-for-store-framework/metadata.json`:
+
 ```json
 {
   "id": "cms-for-store-framework",
@@ -59,6 +69,7 @@ Update `docs/en/tutorials/storefront/cms-for-store-framework/metadata.json`:
   "order": 5
 }
 ```
+
 Apply same fix to ES and PT equivalents.
 
 ---
@@ -67,30 +78,34 @@ Apply same fix to ES and PT equivalents.
 
 By convention, an overview/hub group should always be the first item (lowest order number) within its section. The following sections have their overview group out of sequence:
 
-| Section | Overview group | Current order | Recommended order | Other affected groups |
-|---|---|---|---|---|
-| `intelligent-search` | `intelligent-search-overview` | 4 | 1 | `banners` currently at 1 → move to order 3; adjust all others |
-| `orders` | `orders-overview` | 4 | 1 | `all-orders` currently at 1 → move to order 2 |
-| `sellers` | `sellers-overview` | 5 | 1 | Shift all others down |
-| `payments` | `payments-overview` | 4 | 1 | `bank-conciliation` at 1 → move to last |
-| `promotions-and-taxes` | (none — no overview group) | n/a | Create overview group | — |
-| `billing` | (none — no overview group) | n/a | Create overview group | — |
-| `trade-policies` | `trade-policies'-overview` | 2 | 1 | `trade-policies-settings` at 1 → move to 2 |
-| `catalog` | `catalog-overview` | 4 | 1 | `brands` at 1, `bundle` at 2 → shift |
-| `vtex-cx-platform` | `vtex-cx-platform-overview` | 9 | 1 | All others shift |
-| `integrations` | `integrations-overview` | 2 | 1 | `integration-settings` at 1 → move to order 2 |
-| `shipping` | `logistics-overview` | 6 | 1 | Shift all others |
+
+| Section                | Overview group                | Current order | Recommended order     | Other affected groups                                         |
+| ---------------------- | ----------------------------- | ------------- | --------------------- | ------------------------------------------------------------- |
+| `intelligent-search`   | `intelligent-search-overview` | 4             | 1                     | `banners` currently at 1 → move to order 3; adjust all others |
+| `orders`               | `orders-overview`             | 4             | 1                     | `all-orders` currently at 1 → move to order 2                 |
+| `sellers`              | `sellers-overview`            | 5             | 1                     | Shift all others down                                         |
+| `payments`             | `payments-overview`           | 4             | 1                     | `bank-conciliation` at 1 → move to last                       |
+| `promotions-and-taxes` | (none — no overview group)    | n/a           | Create overview group | —                                                             |
+| `billing`              | (none — no overview group)    | n/a           | Create overview group | —                                                             |
+| `trade-policies`       | `trade-policies'-overview`    | 2             | 1                     | `trade-policies-settings` at 1 → move to 2                    |
+| `catalog`              | `catalog-overview`            | 4             | 1                     | `brands` at 1, `bundle` at 2 → shift                          |
+| `vtex-cx-platform`     | `vtex-cx-platform-overview`   | 9             | 1                     | All others shift                                              |
+| `integrations`         | `integrations-overview`       | 2             | 1                     | `integration-settings` at 1 → move to order 2                 |
+| `shipping`             | `logistics-overview`          | 6             | 1                     | Shift all others                                              |
+
 
 > These ordering fixes are low-impact changes (only metadata.json `order` field values change). They should be applied in the same pass as the main restructuring.
 
 **Recommended order for the `orders` section as a concrete example:**
 
-| Group | Recommended order |
-|---|---|
-| `orders-overview` | 1 |
-| `all-orders` | 2 |
-| `orders-management-settings` | 3 |
-| `telesales-and-customer-service` | 4 |
+
+| Group                            | Recommended order |
+| -------------------------------- | ----------------- |
+| `orders-overview`                | 1                 |
+| `all-orders`                     | 2                 |
+| `orders-management-settings`     | 3                 |
+| `telesales-and-customer-service` | 4                 |
+
 
 ---
 
@@ -100,7 +115,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 ### New top-level sections (L1)
 
-**`docs/en/tutorials/getting-started/metadata.json`**
+`**docs/en/tutorials/getting-started/metadata.json`**
+
 ```json
 {
   "id": "getting-started",
@@ -110,7 +126,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/pricing-and-promotions/metadata.json`**
+`**docs/en/tutorials/pricing-and-promotions/metadata.json**`
+
 ```json
 {
   "id": "pricing-and-promotions",
@@ -120,7 +137,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/sellers-and-b2b/metadata.json`**
+`**docs/en/tutorials/sellers-and-b2b/metadata.json**`
+
 ```json
 {
   "id": "sellers-and-b2b",
@@ -130,7 +148,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/apps-and-integrations/metadata.json`**
+`**docs/en/tutorials/apps-and-integrations/metadata.json**`
+
 ```json
 {
   "id": "apps-and-integrations",
@@ -140,7 +159,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/customer-experience/metadata.json`**
+`**docs/en/tutorials/customer-experience/metadata.json**`
+
 ```json
 {
   "id": "customer-experience",
@@ -150,7 +170,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/infrastructure-and-data/metadata.json`**
+`**docs/en/tutorials/infrastructure-and-data/metadata.json**`
+
 ```json
 {
   "id": "infrastructure-and-data",
@@ -162,7 +183,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 ### New L2 groups (Account Management expansion)
 
-**`docs/en/tutorials/account-management/authentication/metadata.json`**
+`**docs/en/tutorials/account-management/authentication/metadata.json**`
+
 ```json
 {
   "id": "authentication",
@@ -172,7 +194,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/account-management/billing/metadata.json`**
+`**docs/en/tutorials/account-management/billing/metadata.json**`
+
 ```json
 {
   "id": "billing",
@@ -182,7 +205,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/account-management/security/metadata.json`**
+`**docs/en/tutorials/account-management/security/metadata.json**`
+
 ```json
 {
   "id": "security",
@@ -192,7 +216,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/account-management/support/metadata.json`**
+`**docs/en/tutorials/account-management/support/metadata.json**`
+
 ```json
 {
   "id": "support",
@@ -204,7 +229,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 ### New L2 groups (Storefront — after 4-level fix)
 
-**`docs/en/tutorials/storefront/cms-pages/metadata.json`**
+`**docs/en/tutorials/storefront/cms-pages/metadata.json**`
+
 ```json
 {
   "id": "cms-pages",
@@ -214,7 +240,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/storefront/site-editor/metadata.json`**
+`**docs/en/tutorials/storefront/site-editor/metadata.json**`
+
 ```json
 {
   "id": "site-editor",
@@ -224,7 +251,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 }
 ```
 
-**`docs/en/tutorials/storefront/storefront-settings/metadata.json`**
+`**docs/en/tutorials/storefront/storefront-settings/metadata.json**`
+
 ```json
 {
   "id": "storefront-settings",
@@ -236,7 +264,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 ### New L2 group (Indeva — after 4-level fix)
 
-**`docs/en/tutorials/indeva-by-vtex/sales-update-pdv-erp/metadata.json`**
+`**docs/en/tutorials/indeva-by-vtex/sales-update-pdv-erp/metadata.json**`
+
 ```json
 {
   "id": "sales-update-pdv-erp",
@@ -248,7 +277,8 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 ### New L2 group (Infrastructure & Data — for beta migration)
 
-**`docs/en/tutorials/infrastructure-and-data/vtex-data-pipeline/metadata.json`**
+`**docs/en/tutorials/infrastructure-and-data/vtex-data-pipeline/metadata.json**`
+
 ```json
 {
   "id": "vtex-data-pipeline",
@@ -264,12 +294,14 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 All `metadata.json` files in this repository use the following fields:
 
-| Field | Type | Description | Rules |
-|---|---|---|---|
-| `id` | string | Unique identifier; matches the folder name (EN slug) | Lowercase, hyphens, no spaces. Must be unique within its parent. |
-| `name` | string | Display name shown in the sidebar | Max 3 words for L1; max 4 words for L2. Localized (EN/ES/PT have different names but same `id`). |
-| `slug` | string | URL-friendly identifier used by the CMS | L1 sections: `{id}-category`; L2 groups: `{id}-subcategory`. Must be globally unique. |
-| `order` | number | Sort position within parent container | Positive integer, no duplicates within a parent. Overview groups must be order 1. |
+
+| Field   | Type   | Description                                          | Rules                                                                                            |
+| ------- | ------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| `id`    | string | Unique identifier; matches the folder name (EN slug) | Lowercase, hyphens, no spaces. Must be unique within its parent.                                 |
+| `name`  | string | Display name shown in the sidebar                    | Max 3 words for L1; max 4 words for L2. Localized (EN/ES/PT have different names but same `id`). |
+| `slug`  | string | URL-friendly identifier used by the CMS              | L1 sections: `{id}-category`; L2 groups: `{id}-subcategory`. Must be globally unique.            |
+| `order` | number | Sort position within parent container                | Positive integer, no duplicates within a parent. Overview groups must be order 1.                |
+
 
 **No two folders at the same level within the same parent may share the same `order` value.** If a new folder is inserted between two existing folders, all subsequent `order` values in that parent must be incremented.
 
@@ -284,7 +316,6 @@ The VTEX Help Center indexer uses hybrid search (BM25 keyword + vector similarit
 The current `metadata.json` schema has no `description` field. This creates two problems:
 
 1. **AI disambiguation failure:** When a user asks "where do I find my invoices?", the AI cannot distinguish between `account-management` (which contains billing/invoices) and `payments` (which contains payment transaction records) based on the section name alone. A description gives the AI a semantic scope signal.
-
 2. **Category hub pages are harder to generate:** Without a description in metadata, the category hub article must carry all orientation load. A metadata description provides a short scope summary that can be used in search results, hover tooltips, and AI context windows.
 
 **Recommended addition to `metadata.json` schema:**
@@ -300,30 +331,35 @@ The current `metadata.json` schema has no `description` field. This creates two 
 ```
 
 **Description rules:**
-| Level | Max length | Content |
-|---|---|---|
-| L1 (section) | 150 characters | What topics this section covers; who it is for |
+
+
+| Level         | Max length     | Content                                                    |
+| ------------- | -------------- | ---------------------------------------------------------- |
+| L1 (section)  | 150 characters | What topics this section covers; who it is for             |
 | L2 (category) | 100 characters | Specific feature area or task cluster this group addresses |
+
 
 **Proposed descriptions for all 15 new L1 sections:**
 
-| Section | Proposed `description` |
-|---|---|
-| Getting Started | First steps for setting up a VTEX store: Admin access, browser requirements, store settings, and platform overview. |
-| Account Management | Manage VTEX accounts, users, access control, API keys, authentication, billing, security, and VTEX support. |
-| Catalog | Set up and manage products, SKUs, categories, brands, collections, attributes, and imports. |
-| Pricing & Promotions | Configure prices, promotions, coupons, campaign audiences, taxes, and trade policies. |
-| Storefront | Build and manage your storefront using Headless CMS, Store Framework, Site Editor, and layout settings. |
-| Intelligent Search | Configure search behavior, relevance, synonyms, redirects, and banners for VTEX Intelligent Search. |
-| Checkout & Subscriptions | Configure checkout settings, buyer portal, and manage recurring order subscriptions. |
-| Orders | View, manage, and configure orders, order settings, and telesales and customer service tools. |
-| Payments | Set up payment methods, conditions, connectors, transactions, and bank conciliation. |
-| Shipping | Configure shipping strategy, carriers, inventory, pickup points, shipping rates, and VTEX logistics products. |
-| Sellers & B2B | Manage marketplace sellers, the Seller Portal, and B2B features including organizations and the B2B Suite. |
-| Apps & Integrations | Install and configure apps, ERP integrations, marketplace integrations, and analytics and marketing tools. |
-| Omnichannel | Connect physical and digital sales channels using VTEX Sales App and omnichannel settings. |
-| Customer Experience | Manage VTEX CX Platform, Agent Builder, Conversational Commerce, Message Center, and Master Data. |
-| Infrastructure & Data | Monitor CDN, DNS, SLA, platform status, VTEX Data Pipeline, and Indeva by VTEX. |
+
+| Section                  | Proposed `description`                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Getting Started          | First steps for setting up a VTEX store: Admin access, browser requirements, store settings, and platform overview. |
+| Account Management       | Manage VTEX accounts, users, access control, API keys, authentication, billing, security, and VTEX support.         |
+| Catalog                  | Set up and manage products, SKUs, categories, brands, collections, attributes, and imports.                         |
+| Pricing & Promotions     | Configure prices, promotions, coupons, campaign audiences, taxes, and trade policies.                               |
+| Storefront               | Build and manage your storefront using Headless CMS, Store Framework, Site Editor, and layout settings.             |
+| Intelligent Search       | Configure search behavior, relevance, synonyms, redirects, and banners for VTEX Intelligent Search.                 |
+| Checkout & Subscriptions | Configure checkout settings, buyer portal, and manage recurring order subscriptions.                                |
+| Orders                   | View, manage, and configure orders, order settings, and telesales and customer service tools.                       |
+| Payments                 | Set up payment methods, conditions, connectors, transactions, and bank conciliation.                                |
+| Shipping                 | Configure shipping strategy, carriers, inventory, pickup points, shipping rates, and VTEX logistics products.       |
+| Sellers & B2B            | Manage marketplace sellers, the Seller Portal, and B2B features including organizations and the B2B Suite.          |
+| Apps & Integrations      | Install and configure apps, ERP integrations, marketplace integrations, and analytics and marketing tools.          |
+| Omnichannel              | Connect physical and digital sales channels using VTEX Sales App and omnichannel settings.                          |
+| Customer Experience      | Manage VTEX CX Platform, Agent Builder, Conversational Commerce, Message Center, and Master Data.                   |
+| Infrastructure & Data    | Monitor CDN, DNS, SLA, platform status, VTEX Data Pipeline, and Indeva by VTEX.                                     |
+
 
 ### 5b. Front-matter completeness — fields required for AI retrieval
 
@@ -331,15 +367,17 @@ Article front-matter fields are the primary per-article metadata layer for the A
 
 **Audit checklist — required fields on every tutorial article:**
 
-| Field | Purpose in AI retrieval | Validation rule |
-|---|---|---|
-| `title` | Primary retrieval signal; used as chunk title in AI citations | Must be present; verb-first; matches the H1 heading exactly |
-| `slugEN` | Cross-language canonical link; prevents EN/ES/PT from competing in retrieval | Must be present on all 3 language variants; ES and PT variants must reference the same `slugEN` |
-| `productTeam` | Enables product-scoped filtering in semantic search | Must be a valid team name from the allowed list |
-| `updatedAt` | Freshness ranking signal | Must be updated whenever article content changes; stale `updatedAt` causes outdated articles to rank above updated ones |
-| `locale` | Prevents cross-language retrieval contamination | Must be `en`, `es`, or `pt` exactly |
-| `contentType` | Enables type-scoped filtering (tutorial vs knownIssue vs announcement) | Tutorial articles must have `contentType: tutorial` |
-| `subcategory` | Maps article to its L2 group in the navigation index | Must match the L2 folder's `metadata.json` slug |
+
+| Field         | Purpose in AI retrieval                                                      | Validation rule                                                                                                         |
+| ------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| `title`       | Primary retrieval signal; used as chunk title in AI citations                | Must be present; verb-first; matches the H1 heading exactly                                                             |
+| `slugEN`      | Cross-language canonical link; prevents EN/ES/PT from competing in retrieval | Must be present on all 3 language variants; ES and PT variants must reference the same `slugEN`                         |
+| `productTeam` | Enables product-scoped filtering in semantic search                          | Must be a valid team name from the allowed list                                                                         |
+| `updatedAt`   | Freshness ranking signal                                                     | Must be updated whenever article content changes; stale `updatedAt` causes outdated articles to rank above updated ones |
+| `locale`      | Prevents cross-language retrieval contamination                              | Must be `en`, `es`, or `pt` exactly                                                                                     |
+| `contentType` | Enables type-scoped filtering (tutorial vs knownIssue vs announcement)       | Tutorial articles must have `contentType: tutorial`                                                                     |
+| `subcategory` | Maps article to its L2 group in the navigation index                         | Must match the L2 folder's `metadata.json` slug                                                                         |
+
 
 **Fields that degrade retrieval when missing:**
 
@@ -350,10 +388,12 @@ Missing `productTeam` prevents product-area filtering. If a merchant searches "h
 ### 5c. Slug stability during restructuring
 
 When articles are moved from one section to another (as planned in `03-consolidation-map.md`), their URL slug changes. This breaks:
+
 - Inbound links from other articles, external sites, and AI-generated citations
 - The AI index's document identity — the indexer treats a renamed slug as a new document and loses any relevance history
 
 **Rules for the restructuring phase:**
+
 1. **Do not change `slugEN`** when moving an article — the slug is the article's canonical identity, not its location
 2. If a slug must change (e.g., it contains the old section name), implement a **301 redirect** from the old slug to the new slug before the restructuring PR is merged
 3. Document all slug changes in a migration table (to be added to `07-trilingual-sync.md` as a follow-up)
@@ -371,6 +411,7 @@ The Help Center front-matter currently has no equivalent field. Since both porta
 **Recommendation:** Add `excerpt` to the Help Center article front-matter template, matching the dev portal's field name exactly. Using the same field name ensures the shared indexer applies the same summary-chunk weighting logic to both portals.
 
 **Updated front-matter template for tutorial articles** (adds `excerpt`):
+
 ```yaml
 ---
 title: 'Configure payment methods in VTEX'
@@ -389,7 +430,8 @@ excerpt: 'Learn how to add payment conditions, set up installment rules, and act
 ---
 ```
 
-**`excerpt` rules:**
+`**excerpt` rules:**
+
 - Max 160 characters (fits in search result snippets without truncation)
 - Must start with a verb: "Learn how to…", "Configure…", "Understand…"
 - Must state what the user will accomplish — not what the article contains
@@ -400,6 +442,7 @@ excerpt: 'Learn how to add payment conditions, set up installment rules, and act
 ### 5d. Heading path metadata for AI citations
 
 Modern RAG systems attach a `heading_path` to every retrieved chunk (e.g., `"Payments > Payment Settings > Configure payment conditions"`). This path:
+
 - Appears in AI citations so users can locate the source
 - Is used for parent-context injection (the parent H1 + H2 is prepended to child H3 chunks)
 
