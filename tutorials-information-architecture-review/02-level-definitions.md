@@ -167,4 +167,4 @@ Is this a broad user goal domain (e.g., Payments, Catalog)?
 
 ---
 
-For article structure rules that affect AI retrieval, see [`09-ai-retrieval-requirements.md`](09-ai-retrieval-requirements.md).
+For article structure rules that affect AI retrieval, see [`08-ai-retrieval-requirements.md`](08-ai-retrieval-requirements.md).

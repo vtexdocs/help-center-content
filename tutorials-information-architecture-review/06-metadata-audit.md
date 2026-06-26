@@ -367,7 +367,7 @@ When articles are moved from one section to another (as planned in `03-consolida
 
 1. **Do not change `slugEN`** when moving an article — the slug is the article's canonical identity, not its location
 2. If a slug must change (e.g., it contains the old section name), implement a **301 redirect** from the old slug to the new slug before the restructuring PR is merged
-3. Document all slug changes in a migration table (to be added to `07-trilingual-sync.md` as a follow-up)
+3. Document all slug changes in a migration table as a follow-up during implementation
 
 ### 5c-2. Cross-portal field alignment: `excerpt` vs `description`
 

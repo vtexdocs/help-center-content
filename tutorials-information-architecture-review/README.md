@@ -12,7 +12,6 @@ This folder contains the complete Information Architecture (IA) review for all t
 | [`03-consolidation-map.md`](03-consolidation-map.md) | Mapping of all 36 current sections to 15 proposed sections |
 | [`04-4level-fixes.md`](04-4level-fixes.md) | Identification and fix plan for 4-level nesting violations |
 | [`05-micro-sections-redistribution.md`](05-micro-sections-redistribution.md) | Redistribution plan for micro-sections and org-chart sections |
-| [`06-metadata-audit.md`](06-metadata-audit.md) | Audit of missing and incorrect `metadata.json` files |
-| [`07-trilingual-sync.md`](07-trilingual-sync.md) | EN/ES/PT folder name mapping for all current and proposed sections |
-| [`08-cross-portal-alignment.md`](08-cross-portal-alignment.md) | IA alignment rules between the Help Center and the Developer Portal |
-| [`09-ai-retrieval-requirements.md`](09-ai-retrieval-requirements.md) | Article structure requirements for AI retrieval |
+| [`06-metadata-audit.md`](06-metadata-audit.md) | Audit of `metadata.json` findings, fixes, and specifications |
+| [`07-section-naming-rationale.md`](07-section-naming-rationale.md) | Rationale for non-obvious section naming choices in the proposal |
+| [`08-ai-retrieval-requirements.md`](08-ai-retrieval-requirements.md) | Article structure requirements for AI retrieval |
