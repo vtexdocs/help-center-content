@@ -13,32 +13,7 @@ This document covers:
 
 Two sections have duplicate `order` values among their L2 groups. Duplicate orders cause non-deterministic sidebar rendering (the CMS may show either item first).
 
-### `catalog` — duplicate order 9
-
-
-| Folder               | Current order | Fix               |
-| -------------------- | ------------- | ----------------- |
-| `kit/`               | 9             | Keep at order 9   |
-| `import-and-export/` | 9             | Change to order 7 |
-
-
-> Order 10 cannot be used because `list-types/` is already at order 10. Order 7 is currently unoccupied in the catalog sequence.
-
-Update `docs/en/tutorials/catalog/import-and-export/metadata.json`:
-
-```json
-{
-  "id": "import-and-export",
-  "name": "Import and export",
-  "slug": "import-and-export-subcategory",
-  "order": 7
-}
-```
-
-Apply same fix to ES (`catálogo/importacion-y-exportacion/`) and PT (`catálogo/importação-e-exportação/`) equivalents.
-
 ### `storefront` — duplicate order 2
-
 
 | Folder                     | Current order | Fix               |
 | -------------------------- | ------------- | ----------------- |
