@@ -19,8 +19,6 @@ The proposal introduces `pricing-and-promotions` as a new section. The display n
 
 ## Scope boundary decisions
 
-**New sections are scoped to Admin UI content only**
-The proposal's new sections — `apps-and-integrations`, `infrastructure-and-data`, `customer-experience` — are deliberately scoped to Admin-side configuration and operation. The Dev Portal covers the developer/API layer for the same product areas (Integration Guides, VTEX Platform Overview, VTEX Shield). The HC sections do not encroach on that layer; the boundary is the Admin UI.
+All new HC sections are scoped to Admin UI content only. The Dev Portal covers the API/developer layer for the same product areas; the HC sections do not overlap with it.
 
-**Getting Started is merchant-only by design**
-The proposal creates a new `getting-started` section. The Dev Portal also has a Getting Started area, but with a completely different scope (API integration onboarding for developers). Creating a HC Getting Started section does not create duplication because the audiences and entry points are genuinely different. The HC Getting Started should include a callout pointing developers to the Dev Portal.
+The new `getting-started` section does not duplicate the Dev Portal's Getting Started — the Dev Portal's is developer onboarding (API integration by product area); the HC's is merchant onboarding (Admin access, store settings basics). The HC Getting Started should include a callout pointing developers to the Dev Portal.
