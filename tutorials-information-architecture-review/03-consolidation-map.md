@@ -1,4 +1,4 @@
-# Consolidation Map — 36 Sections → 15 Sections
+# Consolidation Map — 36 Sections → 16 Sections
 
 This document maps every existing top-level section (and their sub-categories) to the proposed new Information Architecture (IA) structure. It is the primary reference for the restructuring phase.
 
@@ -21,7 +21,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | 2 | `account-management` | Account Management | 28 | KEEP (rename) | Account Management |
 | 3 | `apps` | Apps | 14 | MOVE INTO | Apps & Integrations |
 | 4 | `authentication` | Authentication | 8 | MOVE INTO | Account Management |
-| 5 | `b2b` | B2B | 39 | KEEP (rename) | Sellers & B2B |
+| 5 | \b2b\ | B2B | 39 | KEEP | B2B |
 | 6 | `beta` | Beta | 36 | REDISTRIBUTE | Various sections |
 | 7 | `billing` | Billing | 18 | MOVE INTO | Account Management |
 | 8 | `catalog` | Catalog | 73 | KEEP | Catalog |
@@ -44,7 +44,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | 25 | `projects-and-integrations` | Projects and Integrations | 15 | MOVE INTO | Apps & Integrations |
 | 26 | `promotions-and-taxes` | Promotions and taxes | 48 | KEEP (rename) | Pricing and Promotions |
 | 27 | `security` | Security | 24 | MOVE INTO | Account Management |
-| 28 | `sellers` | Sellers | 30 | KEEP (rename) | Sellers & B2B |
+| 28 | \sellers\ | Sellers | 30 | KEEP | Sellers |
 | 29 | `shipping` | Shipping | 65 | KEEP | Shipping |
 | 30 | `store-settings` | Store Settings | 3 | MOVE INTO | Getting Started |
 | 31 | `storefront` | Storefront | 100 | KEEP | Storefront |
@@ -284,7 +284,7 @@ This document maps every existing top-level section (and their sub-categories) t
 4. **Telesales and Customer Service** ← `telesales-and-customer-service/` (4 articles)
 5. **Subscriptions** ← `subscriptions/` all (11 articles)
 
-> Root article `understanding-b2b-orders.md` is an orphaned direct L1 article that must not be left at root alongside L2 groups (mixes levels). Move it to **Sellers & B2B** (Sellers Overview group) where B2B order context belongs.
+> Root article `understanding-b2b-orders.md` is an orphaned direct L1 article that must not be left at root alongside L2 groups (mixes levels). Move it to **B2B** (Overview group) where B2B order context belongs.
 
 ---
 
@@ -324,10 +324,10 @@ This document maps every existing top-level section (and their sub-categories) t
 
 ---
 
-### 11. Sellers & B2B
+### 11. Sellers
 
-**New folder (EN):** `sellers-and-b2b` *(new folder combining `sellers` + `b2b`)*
-**Article count:** ~69 articles
+**New folder (EN):** `sellers` *(keep existing folder)*
+**Article count:** ~30 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
@@ -338,24 +338,34 @@ This document maps every existing top-level section (and their sub-categories) t
 | `sellers` | `categories-and-brands/` | 2 |
 | `sellers` | `sku-binding/` | 2 |
 | `sellers` | (root) | 1 |
-| `b2b` | `b2b-buyer-portal/` | 7 |
-| `b2b` | `b2b-suite/` | 24 |
-| `b2b` | `organization-account/` | 8 |
 
-**Proposed Level 2 groups within Sellers & B2B:**
+**Proposed Level 2 groups within Sellers:**
 
-> **Hub article:** The first article in the **Sellers Overview** group must be designated as the L1 hub/overview article (e.g., `sellers-overview.md`). This satisfies the mandatory hub requirement for every L1 section.
+> **Hub article:** The first article in the **Sellers Overview** group (e.g., `sellers-overview.md`) serves as the L1 hub, satisfying the mandatory hub requirement.
 
 1. **Sellers Overview** ← `sellers/sellers-overview/` (8 articles) — first article is the L1 hub
 2. **Seller Portal** ← `sellers/seller-portal/` (13 articles)
 3. **Seller Management** ← `sellers/management/` (3) + `sellers/categories-and-brands/` (2) + `sellers/sku-binding/` (2) + root (1) = 8 articles
-4. **B2B Overview** ← `b2b/organization-account/` (8 articles) — hub for B2B section
-5. **B2B Buyer Portal** ← `b2b/b2b-buyer-portal/` (7 articles)
-6. **B2B Suite** ← `b2b/b2b-suite/` (24 articles) — see 4-level fixes for organization-details flattening
 
 ---
 
-### 12. Apps & Integrations
+### 12. B2B
+
+**New folder (EN):** `b2b` *(keep existing folder)*
+**Rationale for standalone section:** B2B is a strategically important product area for VTEX. At 39 articles, it is large enough to stand alone. Keeping it as its own L1 section gives B2B content the sidebar visibility it requires and avoids diluting the Sellers section scope. Total section count is 16, within the maximum of 16 per `02-level-definitions.md`.
+**Article count:** 39 articles
+
+**Proposed Level 2 groups within B2B:**
+
+> **Hub article:** The first article in the **Overview** group (within `b2b/organization-account/`) serves as the L1 hub, satisfying the mandatory hub requirement.
+
+1. **Overview** ← `b2b/organization-account/` (8 articles) — hub
+2. **B2B Buyer Portal** ← `b2b/b2b-buyer-portal/` (7 articles)
+3. **B2B Suite** ← `b2b/b2b-suite/` (24 articles) — exceeds 20-article threshold; flattening the `organization-details/` 4-level violation per `04-4level-fixes.md` resolves the depth issue but does not reduce the article count; consider splitting into "B2B Suite Overview" and "B2B Organization Management" as a follow-up
+
+---
+
+### 13. Apps & Integrations
 
 **New folder (EN):** `apps-and-integrations` *(new folder combining `apps`, `integrations`, `projects-and-integrations`)*
 **Article count:** ~114 articles
@@ -390,7 +400,7 @@ This document maps every existing top-level section (and their sub-categories) t
 
 ---
 
-### 13. Omnichannel
+### 14. Omnichannel
 
 **New folder (EN):** `omnichannel` *(keep existing folder, add vtex-sales-app as new L2 group)*
 **Article count:** ~15 articles
@@ -412,7 +422,7 @@ This document maps every existing top-level section (and their sub-categories) t
 
 ---
 
-### 14. Customer Experience
+### 15. Customer Experience
 
 **New folder (EN):** `customer-experience` *(new folder combining `vtex-cx-platform`, `conversational-commerce`, `message-center`, `master-data`)*
 **Article count:** ~163 articles
@@ -447,11 +457,11 @@ This document maps every existing top-level section (and their sub-categories) t
 5. **Message Center** ← `message-center/` all (7 articles)
 6. **Master Data** ← `master-data/` all (29 articles) — exceeds 20-article threshold; consider splitting into "Master Data Basics" + "Master Data v1" as a follow-up
 
-> Note: Customer Experience at 163 articles is very large. If it exceeds comfortable sidebar management, consider keeping `vtex-cx-platform` as its own top-level section (bringing the total from 15 → 16 sections). The final decision should be based on user research about whether merchants think of CX Platform and Conversational Commerce as one area.
+> Note: Customer Experience at 163 articles is very large. If it exceeds comfortable sidebar management, consider keeping `vtex-cx-platform` as its own top-level section — but note this would bring the total to 17 sections, exceeding the 16-section maximum. That decision would require formally raising the maximum cap and should be based on user research about whether merchants think of CX Platform and Conversational Commerce as one area.
 
 ---
 
-### 15. Infrastructure & Data
+### 16. Infrastructure & Data
 
 **New folder (EN):** `infrastructure-and-data` *(new folder combining `infrastructure`, `dashboards`, `indeva-by-vtex`)*
 **L1 label note:** "Infrastructure & Data" is 21 characters, marginally exceeding the 20-character guideline. The "& Data" suffix is necessary to signal that data pipeline content (Indeva) lives here, not only platform health. Treat as an accepted exception per `06-section-naming-rationale.md`.
@@ -472,7 +482,7 @@ This document maps every existing top-level section (and their sub-categories) t
 3. **SLA and Status** ← `infrastructure/sla-and-status/` (3 articles) + `dashboards/` all (4 articles) = 7 articles
 4. **Indeva by VTEX** ← all `indeva-by-vtex/` content (90 articles — keep its internal sub-folder structure as L3 groups)
 
-> With 90 articles, Indeva by VTEX alone could justify its own top-level section if product team priority dictates it. The current mapping keeps it within Infrastructure & Data to stay within the 15-section target.
+> With 90 articles, Indeva by VTEX alone could justify its own top-level section if product team priority dictates it — but that would bring the total to 17 sections, exceeding the 16-section maximum. The current mapping keeps it within Infrastructure & Data to stay within the 16-section target.
 
 ---
 
@@ -512,7 +522,8 @@ This document maps every existing top-level section (and their sub-categories) t
 | Orders & Subscriptions | \orders\ | orders, subscriptions | ~67 |
 | Payments | `payments` | payments | 277 |
 | Shipping | `shipping` | shipping | 65 |
-| Sellers & B2B | `sellers-and-b2b` | sellers, b2b | ~69 |
+| Sellers | \sellers\ | sellers | ~30 |
+| B2B | \b2b\ | b2b | 39 |
 | Apps & Integrations | `apps-and-integrations` | apps, integrations, projects-and-integrations, other/uncategorized | ~114 |
 | Omnichannel | `omnichannel` | omnichannel, vtex-sales-app | ~15 |
 | Customer Experience | `customer-experience` | vtex-cx-platform, conversational-commerce, message-center, master-data | ~163 |
