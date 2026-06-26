@@ -14,11 +14,3 @@ The proposal keeps the existing `shipping` section name rather than renaming it 
 
 **"Pricing and Promotions" — plain "and" over ampersand**
 The proposal introduces `pricing-and-promotions` as a new section. The display name uses "and" rather than "&": plain text avoids special character encoding issues (HTML `&amp;`, JSON escaping) and is safer in metadata and sidebar rendering. The Dev Portal's troubleshooting filter already uses "Pricing and Promotions," so no change is needed on that side.
-
----
-
-## Scope boundary decisions
-
-All new HC sections are scoped to Admin UI content only. The Dev Portal covers the API/developer layer for the same product areas; the HC sections do not overlap with it.
-
-The new `getting-started` section does not duplicate the Dev Portal's Getting Started — the Dev Portal's is developer onboarding (API integration by product area); the HC's is merchant onboarding (Admin access, store settings basics). The HC Getting Started should include a callout pointing developers to the Dev Portal.
