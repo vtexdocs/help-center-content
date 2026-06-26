@@ -36,7 +36,7 @@ Aprende más sobre [sistemas antifraude](https://help.vtex.com/es/docs/tutorials
 
 Para acceder a la documentación, ingrese su [nombre de cuenta](https://help.vtex.com/es/docs/tutorials/que-es-account-name) VTEX a continuación, haz clic en el botón e inicia sesión en el Admin.
 
-<iframe src="https://vtexhelp.myvtex.com/insertaccountname?slug=proteccion-contra-los-ataques-a-las-transacciones" title="Ingrese su nombre de cuenta y haga click en el botón." frameBorder="0" width="400" height="50"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=5t6HaGHiHFVrCIvePJKkV6" title="Ingrese su nombre de cuenta y haga click en el botón." frameBorder="0" width="400" height="50"></iframe>
 
 ## reCAPTCHA v3 en el checkout
 
@@ -52,7 +52,7 @@ Aprende a configurar esta validación en el checkout de tu tienda en [reCAPTCHA 
 
 Para acceder a la documentación, ingrese su [nombre de cuenta](/es/docs/tutorials/que-es-account-name) VTEX a continuación, haz clic en el botón e inicia sesión en el Admin.
 
-<iframe src="https://vtexhelp.myvtex.com/insertaccountname?slug=configuracion-de-orderform" title="Ingrese su nombre de cuenta y haga click en el botón." frameBorder="0" width="400" height="50"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=4zkfF1asM3ayvIigsySevw" title="Ingrese su nombre de cuenta y haga click en el botón." frameBorder="0" width="400" height="50"></iframe>
 
 ## Desactivar el inicio de sesión con contraseña
 
