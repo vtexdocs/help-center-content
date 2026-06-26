@@ -11,7 +11,7 @@ This document covers:
 
 ## 1. Duplicate Order Numbers
 
-Two sections have duplicate `order` values among their L2 groups. Duplicate orders cause non-deterministic sidebar rendering (the CMS may show either item first).
+One section has a duplicate `order` value among its L2 groups. Duplicate orders cause non-deterministic sidebar rendering (the CMS may show either item first).
 
 ### `storefront` — duplicate order 2
 
@@ -19,7 +19,6 @@ Two sections have duplicate `order` values among their L2 groups. Duplicate orde
 | -------------------------- | ------------- | ----------------- |
 | `headless-cms/`            | 2             | Change to order 1 |
 | `cms-for-store-framework/` | 2             | Change to order 5 |
-
 
 > Order 3 cannot be used for `cms-for-store-framework` because `layout/` is already at order 3. Order 5 is currently unoccupied in the storefront sequence. The actual display name of `headless-cms/` in the repository is "Headless CMS (Legacy)", not "Headless CMS".
 
