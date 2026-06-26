@@ -23,7 +23,7 @@ Three folders (across all 3 language trees) lack a `metadata.json` file. Without
 
 ### Specification for missing files
 
-These metadata.json files must be created. After the IA restructuring, the articles in these folders will move to new sections (see `03-consolidation-map.md`). The metadata below reflects the **current** structure; it should be updated again after restructuring is complete.
+These metadata.json files must be created. After the Information Architecture (IA) restructuring, the articles in these folders will move to new sections (see `03-consolidation-map.md`). The metadata below reflects the **current** structure; it should be updated again after restructuring is complete.
 
 **`docs/en/tutorials/checkout/buyer-portal-checkout/metadata.json`**
 ```json

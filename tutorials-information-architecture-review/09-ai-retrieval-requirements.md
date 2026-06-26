@@ -1,6 +1,6 @@
 # AI Retrieval Requirements — VTEX Tutorials
 
-VTEX Help Center tutorials are indexed for hybrid search (BM25 keyword + vector similarity). This means the IA and article structure must be optimized for two audiences simultaneously: **human sidebar navigation** and **AI chunk retrieval**. The rules in this document are in addition to — not instead of — the human-navigation rules in [`02-level-definitions.md`](02-level-definitions.md).
+VTEX Help Center tutorials are indexed for hybrid search (BM25 keyword + vector similarity). This means the Information Architecture (IA) and article structure must be optimized for two audiences simultaneously: **human sidebar navigation** and **AI chunk retrieval**. The rules in this document are in addition to — not instead of — the human-navigation rules in [`02-level-definitions.md`](02-level-definitions.md).
 
 ## Why this matters
 

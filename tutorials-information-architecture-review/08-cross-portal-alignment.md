@@ -1,4 +1,4 @@
-# Cross-Portal IA Alignment — Help Center ↔ Developer Portal
+# Cross-Portal Information Architecture Alignment — Help Center ↔ Developer Portal
 
 VTEX operates two documentation portals that serve different primary audiences but cover overlapping product areas:
 
@@ -7,7 +7,7 @@ VTEX operates two documentation portals that serve different primary audiences b
 
 Both portals are indexed by the same shared AI search pipeline (BM25 + vector similarity). Without deliberate alignment, users receive results from both portals in the same result set, with inconsistent section labels and terminology, and no clear signal about which portal a result belongs to.
 
-This document governs the relationship between the two portals at the IA level.
+This document governs the relationship between the two portals at the Information Architecture (IA) level.
 
 ---
 
