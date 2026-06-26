@@ -52,7 +52,6 @@ Apply same fix to ES and PT equivalents.
 
 By convention, an overview/hub group should always be the first item (lowest order number) within its section. The following sections have their overview group out of sequence:
 
-
 | Section                | Overview group                | Current order | Recommended order     | Other affected groups                                         |
 | ---------------------- | ----------------------------- | ------------- | --------------------- | ------------------------------------------------------------- |
 | `intelligent-search`   | `intelligent-search-overview` | 4             | 1                     | `banners` currently at 1 → move to order 3; adjust all others |
@@ -67,11 +66,9 @@ By convention, an overview/hub group should always be the first item (lowest ord
 | `integrations`         | `integrations-overview`       | 2             | 1                     | `integration-settings` at 1 → move to order 2                 |
 | `shipping`             | `logistics-overview`          | 6             | 1                     | Shift all others                                              |
 
-
 > These ordering fixes are low-impact changes (only metadata.json `order` field values change). They should be applied in the same pass as the main restructuring.
 
 **Recommended order for the `orders` section as a concrete example:**
-
 
 | Group                            | Recommended order |
 | -------------------------------- | ----------------- |
@@ -79,7 +76,6 @@ By convention, an overview/hub group should always be the first item (lowest ord
 | `all-orders`                     | 2                 |
 | `orders-management-settings`     | 3                 |
 | `telesales-and-customer-service` | 4                 |
-
 
 ---
 
