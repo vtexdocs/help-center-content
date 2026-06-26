@@ -102,7 +102,7 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 ```json
 {
   "id": "pricing-and-promotions",
-  "name": "Pricing & Promotions",
+  "name": "Pricing and Promotions",
   "slug": "pricing-and-promotions-category",
   "order": 4
 }
@@ -318,7 +318,7 @@ The current `metadata.json` schema has no `description` field. This creates two 
 | Getting Started          | First steps for setting up a VTEX store: Admin access, browser requirements, store settings, and platform overview. |
 | Account Management       | Manage VTEX accounts, users, access control, API keys, authentication, billing, security, and VTEX support.         |
 | Catalog                  | Set up and manage products, SKUs, categories, brands, collections, attributes, and imports.                         |
-| Pricing & Promotions     | Configure prices, promotions, coupons, campaign audiences, taxes, and trade policies.                               |
+| Pricing and Promotions   | Configure prices, promotions, coupons, campaign audiences, taxes, and trade policies.                               |
 | Storefront               | Build and manage your storefront using Headless CMS, Store Framework, Site Editor, and layout settings.             |
 | Intelligent Search       | Configure search behavior, relevance, synonyms, redirects, and banners for VTEX Intelligent Search.                 |
 | Checkout & Subscriptions | Configure checkout settings, buyer portal, and manage recurring order subscriptions.                                |

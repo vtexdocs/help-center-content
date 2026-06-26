@@ -12,8 +12,8 @@ The proposal keeps `intelligent-search` as the HC section name. The Dev Portal c
 **"Shipping" — kept over "Logistics"**
 The proposal keeps the existing `shipping` section name rather than renaming it to "Logistics." The Dev Portal uses "Logistics" for its API-facing content (Fulfillment API, delivery promise). The divergence is intentional: "Shipping" is the merchant-facing term in the Admin UI; "Logistics" is the developer/API-facing term. Both are correct for their audience.
 
-**"Pricing & Promotions" — ampersand form chosen deliberately**
-The proposal introduces `pricing-and-promotions` as a new section using the display name "Pricing & Promotions" (with ampersand). The Dev Portal's troubleshooting filter currently uses "Pricing and Promotions" (with "and"). The HC proposal adopts the ampersand form, which the Dev Portal should align to.
+**"Pricing and Promotions" — plain "and" over ampersand**
+The proposal introduces `pricing-and-promotions` as a new section. The display name uses "and" rather than "&": plain text avoids special character encoding issues (HTML `&amp;`, JSON escaping) and is safer in metadata and sidebar rendering. The Dev Portal's troubleshooting filter already uses "Pricing and Promotions," so no change is needed on that side.
 
 ---
 
