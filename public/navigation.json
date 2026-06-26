@@ -39,6 +39,51 @@
               "children": [
                 {
                   "name": {
+                    "en": "Improvements to the in-store pickup flow",
+                    "es": "Mejoras en el flujo de recogida en tienda",
+                    "pt": "Melhorias no fluxo de retirada em loja"
+                  },
+                  "slug": {
+                    "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
+                    "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
+                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Localization improvements in Pick and Pack",
+                    "es": "Optimizaciones de localización en Pick and Pack",
+                    "pt": "Melhorias de localização no Pick and Pack"
+                  },
+                  "slug": {
+                    "en": "2026-06-24-localization-improvements-in-pick-and-pack",
+                    "es": "2026-06-24-mejoras-de-localizacion-en-pick-and-pack",
+                    "pt": "2026-06-24-melhorias-de-localizacao-no-pick-and-pack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode: New name for the Mode-off feature",
+                    "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
+                    "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
+                  },
+                  "slug": {
+                    "en": "2026-06-22-contingency-mode-new-name-for-the-mode-off-feature",
+                    "es": "2026-06-22-contingency-mode-nuevo-nombre-de-la-funcionalidad-mode-off",
+                    "pt": "2026-06-22-contigency-mode-novo-nome-da-funcionalidade-mode-off"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New events available in Audit",
                     "es": "Nuevos eventos disponibles en Audit",
                     "pt": "Novos eventos disponíveis no Audit"
@@ -11235,12 +11280,12 @@
                 {
                   "name": {
                     "en": "1. Introduction to Account Management",
-                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "es": "1. Introducción a Gestión de la cuenta",
                     "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "placeholder-introduction-to-account-management",
-                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "en": "introduction-to-account-management",
+                    "es": "introduccion-a-la-gestion-de-cuentas",
                     "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
@@ -11249,13 +11294,13 @@
                 },
                 {
                   "name": {
-                    "en": "2. Users and Roles",
-                    "es": "2. Usuarios y Roles",
+                    "en": "2. Users and roles",
+                    "es": "2. Usuarios y roles",
                     "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "placeholder-users-and-roles",
-                    "es": "placeholder-usuarios-y-roles",
+                    "en": "users-and-roles",
+                    "es": "usuarios-y-roles",
                     "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
@@ -11264,13 +11309,13 @@
                 },
                 {
                   "name": {
-                    "en": "3. Authentication and Security",
-                    "es": "3. Autenticación y Seguridad",
+                    "en": "3. Authentication and security",
+                    "es": "3. Autenticación y seguridad",
                     "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "placeholder-authentication-and-security",
-                    "es": "placeholder-autenticacion-y-seguridad",
+                    "en": "authentication-and-security",
+                    "es": "autenticacion-y-seguridad",
                     "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
@@ -11279,13 +11324,13 @@
                 },
                 {
                   "name": {
-                    "en": "4. API Keys for Integrations",
-                    "es": "4. Claves de API para Integraciones",
+                    "en": "4. API keys for integrations",
+                    "es": "4. Claves de API para integraciones",
                     "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "placeholder-api-keys-for-integrations",
-                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "en": "api-keys-for-integrations",
+                    "es": "claves-de-api-para-integraciones",
                     "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
@@ -17368,6 +17413,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring authentication methods by organizational unit",
+                    "es": "Configurar métodos de autenticación por unidad organizativa",
+                    "pt": "Configurar métodos de autenticação por unidade organizacional"
+                  },
+                  "slug": {
+                    "en": "configuring-authentication-methods-by-organizational-unit",
+                    "es": "configurar-metodos-de-autenticacion-por-unidad-organizativa",
+                    "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contract settings",
                     "es": "Configuración del contrato",
                     "pt": "Configurações do contrato"
@@ -17376,6 +17436,21 @@
                     "en": "contract-settings",
                     "es": "configuraciones-del-contrato",
                     "pt": "configuracoes-do-contrato"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Enable login for the organization via an external identity provider (IdP)",
+                    "es": "Activar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
+                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo"
+                  },
+                  "slug": {
+                    "en": "enable-login-for-the-organization-via-an-external-identity-provider-idp",
+                    "es": "activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
+                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19285,6 +19360,82 @@
             },
             {
               "name": {
+                "en": "Import and export",
+                "es": "Importación y exportación",
+                "pt": "Importação e exportação"
+              },
+              "slug": {
+                "en": "import-and-export-subcategory",
+                "es": "importacion-y-exportacion-subcategoria",
+                "pt": "importacao-e-exportacao-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Importing and exporting product and SKU images using a spreadsheet",
+                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
+                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting product specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
+                    "pt": "Importar e exportar especificações de produtos via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting products and SKUs using a spreadsheet",
+                    "es": "Importar y exportar productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar produtos e SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
+                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting SKU specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
+                    "pt": "Importar e exportar especificações de SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Custom product attributes",
                 "es": "Campos personalizados",
                 "pt": "Campos personalizados"
@@ -19382,82 +19533,6 @@
                     "en": "what-is-an-attachment",
                     "es": "que-es-un-anexo",
                     "pt": "o-que-e-um-anexo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Import and export",
-                "es": "Importación y exportación",
-                "pt": "Importação e exportação"
-              },
-              "slug": {
-                "en": "import-and-export-subcategory",
-                "es": "importacion-y-exportacion-subcategoria",
-                "pt": "importacao-e-exportacao-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Importing and exporting product and SKU images using a spreadsheet",
-                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
-                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
-                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product specifications using a spreadsheet",
-                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
-                    "pt": "Importar e exportar especificações de produtos via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
-                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
-                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting products and SKUs using a spreadsheet",
-                    "es": "Importar y exportar productos y SKUs mediante plantilla",
-                    "pt": "Importar e exportar produtos e SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
-                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting SKU specifications using a spreadsheet",
-                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
-                    "pt": "Importar e exportar especificações de SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
-                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27881,21 +27956,6 @@
                 },
                 {
                   "name": {
-                    "en": "Mode-Off: FAQ",
-                    "es": "Mode-Off: FAQ",
-                    "pt": "Mode-Off: FAQ"
-                  },
-                  "slug": {
-                    "en": "mode-off-faq",
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "​​Payments in VTEX marketplaces",
                     "es": "Pagos en los marketplaces VTEX",
                     "pt": "Pagamentos em marketplaces VTEX"
@@ -31311,6 +31371,21 @@
                     "en": "checking-for-errors-or-problems-in-a-transaction",
                     "es": "comprobar-errores-o-problemas-en-una-transaccion",
                     "pt": "verificar-erros-ou-problemas-em-uma-transacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode",
+                    "es": "Contingency Mode",
+                    "pt": "Contingency Mode"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36503,8 +36578,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
                   },
                   "slug": {
@@ -36518,8 +36593,8 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
                     "pt": "Introdução ao CX"
                   },
                   "slug": {
@@ -37082,6 +37157,21 @@
             },
             {
               "name": {
+                "en": "Extensibility in VTEX Sales App",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "extensibility-in-vtex-sales-app",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37135,21 +37225,6 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "VTEX Sales App Extensibility",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "vtex-sales-app-extensibility",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
@@ -38667,6 +38742,37 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics",
+                "es": "analytics",
+                "pt": "analytics"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Analytics: Criar dashboard personalizado",
+                    "en": "Analytics: Criar dashboard personalizado",
+                    "es": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "pt": "analytics-criar-dashboard-personalizado",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
                 "pt": "Analytics: Métricas de atendimento"
               },
               "slug": {
@@ -39116,13 +39222,13 @@
             {
               "name": {
                 "en": "Issue with Node Version Compatibility",
-                "es": "Problema de compatibilidad con la versión de Node",
-                "pt": "Problema com a compatibilidade de versão do Node"
+                "es": "Problema de compatibilidad de versiones de Node.",
+                "pt": "Problema de compatibilidade de versão do Node.js"
               },
               "slug": {
                 "en": "issue-with-node-version-compatibility",
-                "es": "problema-de-compatibilidad-con-la-version-de-node",
-                "pt": "problema-com-a-compatibilidade-de-versao-do-node"
+                "es": "problema-de-compatibilidad-de-versiones-de-node",
+                "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
               },
               "origin": "",
               "type": "markdown",
@@ -40715,6 +40821,21 @@
                 "en": "catalog-integration-xml-fiscal-code-field-not-rendering",
                 "es": "el-campo-de-codigo-fiscal-xml-de-la-integracion-de-catalogos-no-se-muestra",
                 "pt": "o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Catalog Kit Insertion Allows Circular Reference",
+                "es": "La inserción del kit de catálogo permite una referencia circular.",
+                "pt": "A inserção do kit de catálogo permite referência circular."
+              },
+              "slug": {
+                "en": "catalog-kit-insertion-allows-circular-reference",
+                "es": "la-insercion-del-kit-de-catalogo-permite-una-referencia-circular",
+                "pt": "a-insercao-do-kit-de-catalogo-permite-referencia-circular"
               },
               "origin": "",
               "type": "markdown",
@@ -42883,13 +43004,13 @@
             {
               "name": {
                 "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
-                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
-                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+                "es": "El botón de publicación no responde de forma intermitente en la creación/actualización de productos en el Portal del vendedor.",
+                "pt": "O botão \"Publicar\" apresenta falhas intermitentes na criação/atualização de produtos no Seller Portal."
               },
               "slug": {
                 "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
-                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
-                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+                "es": "el-boton-de-publicacion-no-responde-de-forma-intermitente-en-la-creacionactualizacion-de-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-apresenta-falhas-intermitentes-na-criacaoatualizacao-de-produtos-no-seller-portal"
               },
               "origin": "",
               "type": "markdown",
@@ -43205,6 +43326,21 @@
                 "en": "sku-insert-file-api-is-not-responding-with-the-text-property",
                 "es": "la-api-de-insercion-de-archivos-de-sku-no-responde-con-la-propiedad-texto",
                 "pt": "a-api-sku-insert-file-nao-esta-respondendo-com-a-propriedade-text"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SKU Insert FIle API may generate duplicate images if it fails",
+                "es": "La API de inserción de archivos SKU puede generar imágenes duplicadas si falla.",
+                "pt": "A API de Inserção de Arquivos SKU pode gerar imagens duplicadas se falhar."
+              },
+              "slug": {
+                "en": "sku-insert-file-api-may-generate-duplicate-images-if-it-fails",
+                "es": "la-api-de-insercion-de-archivos-sku-puede-generar-imagenes-duplicadas-si-falla",
+                "pt": "a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar"
               },
               "origin": "",
               "type": "markdown",
@@ -44670,7 +44806,7 @@
             {
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
-                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente",
+                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
                 "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
               },
               "slug": {
@@ -50508,12 +50644,12 @@
             {
               "name": {
                 "en": "Netshoes - Main Image not respected",
-                "es": "Imagen principal no respetada",
+                "es": "Netshoes - Imagen principal no respetada",
                 "pt": "Netshoes - Imagem principal não respeitada"
               },
               "slug": {
                 "en": "netshoes-main-image-not-respected",
-                "es": "imagen-principal-no-respetada",
+                "es": "netshoes-imagen-principal-no-respetada",
                 "pt": "netshoes-imagem-principal-nao-respeitada"
               },
               "origin": "",
@@ -50643,13 +50779,13 @@
             {
               "name": {
                 "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Shopee Sincronización de catálogo bloqueada por exceso de atributos de variación",
-                "pt": "Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação"
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
               },
               "slug": {
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
-                "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
               },
               "origin": "",
               "type": "markdown",
@@ -59506,21 +59642,6 @@
             },
             {
               "name": {
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -62792,13 +62913,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
-                "pt": "As transações ficam presas em “Cancelando” e os pagamentos permanecem em “Autorizado”."
+                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
+                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
-                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado"
+                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -68645,6 +68766,68 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
                 "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace in",
+            "es": "Marketplace in",
+            "pt": "Marketplace in"
+          },
+          "slug": {
+            "en": "marketplace-in",
+            "es": "marketplace-in",
+            "pt": "marketplace-in"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Shopee Order code: 001 / Invalid Email",
+                "es": "Shopee Código de pedido: 001 / Correo electrónico no válido",
+                "pt": "Shopee Código do pedido: 001 / E-mail inválido"
+              },
+              "slug": {
+                "en": "shopee-order-code-001-invalid-email",
+                "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+                "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace out",
+            "es": "Marketplace out",
+            "pt": "Marketplace out"
+          },
+          "slug": {
+            "en": "marketplace-out",
+            "es": "marketplace-out",
+            "pt": "marketplace-out"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Magazine Luiza - Main Image not respected",
+                "es": "Magazine Luiza - Imagen principal no respetada",
+                "pt": "Magazine Luiza - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "magazine-luiza-main-image-not-respected",
+                "es": "magazine-luiza-imagen-principal-no-respetada",
+                "pt": "magazine-luiza-imagem-principal-nao-respeitada"
               },
               "origin": "",
               "type": "markdown",
