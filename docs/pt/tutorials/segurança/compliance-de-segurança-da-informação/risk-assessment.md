@@ -161,7 +161,7 @@ Como operadora de dados, a VTEX trata dados pessoais de compradores somente quan
 * Senhas de sessões (criptografadas)
 * Tokens gerados
 
-A lista de dados acima está descrita no [Data Processing Addendum (DPA)](/pt/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd#data-processing-addendum-dpa).
+A lista de dados acima está descrita no [Data Processing Addendum (DPA)](https://help.vtex.com/docs/tracks/data-protection-roles#data-processing-addendum-dpa).
 
 #### Como a VTEX cumpre a LGPD (Lei Geral de Proteção de Dados) e o GDPR (_General Data Protection Regulation_)?
 
