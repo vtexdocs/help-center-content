@@ -39207,13 +39207,13 @@
             {
               "name": {
                 "en": "Issue with Node Version Compatibility",
-                "es": "Problema de compatibilidad con la versión de Node",
-                "pt": "Problema com a compatibilidade de versão do Node"
+                "es": "Problema de compatibilidad de versiones de Node.",
+                "pt": "Problema de compatibilidade de versão do Node.js"
               },
               "slug": {
                 "en": "issue-with-node-version-compatibility",
-                "es": "problema-de-compatibilidad-con-la-version-de-node",
-                "pt": "problema-com-a-compatibilidade-de-versao-do-node"
+                "es": "problema-de-compatibilidad-de-versiones-de-node",
+                "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
               },
               "origin": "",
               "type": "markdown",
@@ -44791,7 +44791,7 @@
             {
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
-                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente",
+                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
                 "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
               },
               "slug": {
