@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Improvements to the in-store pickup flow",
+                    "es": "Mejoras en el flujo de recogida en tienda",
+                    "pt": "Melhorias no fluxo de retirada em loja"
+                  },
+                  "slug": {
+                    "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
+                    "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
+                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Localization improvements in Pick and Pack",
                     "es": "Optimizaciones de localización en Pick and Pack",
                     "pt": "Melhorias de localização no Pick and Pack"
@@ -11265,12 +11280,12 @@
                 {
                   "name": {
                     "en": "1. Introduction to Account Management",
-                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "es": "1. Introducción a Gestión de la cuenta",
                     "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "placeholder-introduction-to-account-management",
-                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "en": "introduction-to-account-management",
+                    "es": "introduccion-a-la-gestion-de-cuentas",
                     "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
@@ -11279,13 +11294,13 @@
                 },
                 {
                   "name": {
-                    "en": "2. Users and Roles",
-                    "es": "2. Usuarios y Roles",
+                    "en": "2. Users and roles",
+                    "es": "2. Usuarios y roles",
                     "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "placeholder-users-and-roles",
-                    "es": "placeholder-usuarios-y-roles",
+                    "en": "users-and-roles",
+                    "es": "usuarios-y-roles",
                     "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
@@ -11294,13 +11309,13 @@
                 },
                 {
                   "name": {
-                    "en": "3. Authentication and Security",
-                    "es": "3. Autenticación y Seguridad",
+                    "en": "3. Authentication and security",
+                    "es": "3. Autenticación y seguridad",
                     "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "placeholder-authentication-and-security",
-                    "es": "placeholder-autenticacion-y-seguridad",
+                    "en": "authentication-and-security",
+                    "es": "autenticacion-y-seguridad",
                     "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
@@ -11309,13 +11324,13 @@
                 },
                 {
                   "name": {
-                    "en": "4. API Keys for Integrations",
-                    "es": "4. Claves de API para Integraciones",
+                    "en": "4. API keys for integrations",
+                    "es": "4. Claves de API para integraciones",
                     "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "placeholder-api-keys-for-integrations",
-                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "en": "api-keys-for-integrations",
+                    "es": "claves-de-api-para-integraciones",
                     "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
@@ -19345,6 +19360,82 @@
             },
             {
               "name": {
+                "en": "Import and export",
+                "es": "Importación y exportación",
+                "pt": "Importação e exportação"
+              },
+              "slug": {
+                "en": "import-and-export-subcategory",
+                "es": "importacion-y-exportacion-subcategoria",
+                "pt": "importacao-e-exportacao-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Importing and exporting product and SKU images using a spreadsheet",
+                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
+                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting product specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
+                    "pt": "Importar e exportar especificações de produtos via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting products and SKUs using a spreadsheet",
+                    "es": "Importar y exportar productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar produtos e SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
+                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting SKU specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
+                    "pt": "Importar e exportar especificações de SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Custom product attributes",
                 "es": "Campos personalizados",
                 "pt": "Campos personalizados"
@@ -19442,82 +19533,6 @@
                     "en": "what-is-an-attachment",
                     "es": "que-es-un-anexo",
                     "pt": "o-que-e-um-anexo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Import and export",
-                "es": "Importación y exportación",
-                "pt": "Importação e exportação"
-              },
-              "slug": {
-                "en": "import-and-export-subcategory",
-                "es": "importacion-y-exportacion-subcategoria",
-                "pt": "importacao-e-exportacao-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Importing and exporting product and SKU images using a spreadsheet",
-                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
-                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
-                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product specifications using a spreadsheet",
-                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
-                    "pt": "Importar e exportar especificações de produtos via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
-                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
-                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting products and SKUs using a spreadsheet",
-                    "es": "Importar y exportar productos y SKUs mediante plantilla",
-                    "pt": "Importar e exportar produtos e SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
-                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting SKU specifications using a spreadsheet",
-                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
-                    "pt": "Importar e exportar especificações de SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
-                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
