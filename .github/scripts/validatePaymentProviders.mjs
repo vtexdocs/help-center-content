@@ -5,12 +5,12 @@
  *
  * Run locally before committing changes to the data file:
  *
- *   node docs-utils/validatePaymentProviders.mjs
+ *   node .github/scripts/validatePaymentProviders.mjs
  *
  * CI runs this automatically on every PR that touches the data file
  * (.github/workflows/validate-payment-providers.yml).
  *
- * See docs-utils/payment-providers-data.md for the data format and editing
+ * See .github/scripts/payment-providers-data.md for the data format and editing
  * instructions.
  */
 import { readFileSync } from 'node:fs'
@@ -18,7 +18,7 @@ import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const dataPath = join(__dirname, '..', 'public', 'payment-providers.json')
+const dataPath = join(__dirname, '..', '..', 'public', 'payment-providers.json')
 
 const errors = []
 

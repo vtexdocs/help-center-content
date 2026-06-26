@@ -15,4 +15,4 @@ jobs:
         with:
           node-version: 22
       - name: Validate payment-providers.json
-        run: node docs-utils/validatePaymentProviders.mjs
+        run: node .github/scripts/validatePaymentProviders.mjs

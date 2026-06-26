@@ -43,7 +43,7 @@ Each provider is one entry:
 Before committing:
 
 ```bash
-node docs-utils/validatePaymentProviders.mjs
+node .github/scripts/validatePaymentProviders.mjs
 ```
 
 CI runs the same check on every PR that touches the data file and blocks merging if it finds invalid country codes, duplicate providers/countries, or links outside help.vtex.com.
