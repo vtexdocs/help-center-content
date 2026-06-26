@@ -1,5 +1,5 @@
 ---
-title: 'How to create landing pages with customized URLs'
+title: 'How to create landing pages with custom URLs'
 id: q0p2UU6sBaYcEMsq24YSi
 status: PUBLISHED
 createdAt: 2018-10-02T21:22:13.046Z
@@ -15,37 +15,63 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX Search (Legacy) and VTEX Intelligent Search. This article refers to the VTEX Search (Legacy). To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ This tutorial is only valid for CMS Portal (Legacy) stores and for the legacy search. If your store uses VTEX Intelligent Search, see the [Intelligent Search track](https://help.vtex.com/docs/tutorials/intelligent-search-overview).
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial valid only for Legacy CMS Stores.
-</div>
+The search engine used by CMS Portal (Legacy) stores is customizable and allows you to apply filters by department, category, brand, collection, specification, and SKU, among others.
 
-The VTEX search engine is extremely customizable, and it's possible to adjust the most complex needs to its controls. 
+Because these filters are applied in the URL, more complex searches may generate unfriendly and less relevant addresses for search engine crawlers, such as Google.
 
-It is possible to apply filters by department, category, brand, collection, SKU specification, etc.
+To address this situation, CMS folders have the `Search Context (Default)` field, which defines which search filters will be applied to the page linked to the folder. With this configuration, the CMS loads the expected results without exposing filters in the URL, creating a more user-friendly route.
 
-As the application of these filters takes place by definition on the URL, when a complex search is required, this URL often becomes unfriendly, having less relevance for search engine crawlers, like the one from Google.
+> ℹ️ If a folder has a value set in `Search Context (Default)`, it'll override any search parameter entered directly in the URL. This means that filters and sorting, including the `O` parameter, won't be applied to the page.
 
-This article has been developed to present a new feature that is extremely important for the use of complex searches on landing pages: the __Search Context__.
+In this guide, you will learn how to use **Search Context** to associate a search with a CMS folder and display its results on a friendly URL.
 
-When the intended search uses many filters (category, brand and product specification, for example), we always recommend building a Landing Page.
+## Before you begin
 
-### Example
+Make sure that the [template](/docs/tutorials/what-are-templates) of the page contains the `<vtex.cmc:searchResult/>` control. The Search Context only works if the template contains this control. Learn more at [How to use the Search Result control](/docs/tutorials/how-to-use-the-search-result-control).
 
-Intended search: `/busca?fq=C:111&fq=B:222&fq=spec_fct_1:333`
+1. In the Admin, go to **Storefront > Layout**.
+2. Click **CMS > HTML Templates**.
+3. Create a new template or ensure that an existing template contains the `<vtex.cmc:searchResult/>` control. For more details on how to create a template, see [Creating and editing a page template](/docs/tutorials/how-to-create-a-page-template).
 
-This search will return all products belonging to category **111**, which are also of brand **222** and where the id field **1** is **333**. The result displayed to the customer will be correct; however, the way crawlers will look at this URL will not be the best one for your store.
+> ℹ️ The `<vtex.cmc:searchResult/>` control only works on pages with search context, such as pages where the displayed results were obtained from a user search.
 
-That is when the Landing Page and the Search Context come into play.
+## Instructions
 
-On your store CMS (`{AccountName}.myvtex.com/admin/a/`), all folders have a field named **Search Context (Default)**, whose function is to upload the intended search with no need for writing it on the URL.
+To create a landing page with a custom URL, follow the steps below:
 
-Using the same previous example, if we create a folder named **my-landing-page** and we set up its **Search Context** with the value `fq=C:111&fq=B:222&fq=spec_fct_1:333`, this folder will render exactly the same products as the previous example, but on a more friendly URL.
+1. In the VTEX Admin, go to **Storefront > Layout** to open the **Layout** section.
+2. In the **Layout** section, go to **CMS > Sites and channels**.
+3. Click the desired website.
+4. Click the root folder (`/`).
+5. Decide if you will configure the Search Context in:
+   - [An existing page on your website](#configure-search-context-on-existing-page)
+   - [A new page to be created](#configure-search-context-on-a-new-page)
 
-### Setup
+> ⚠️ The legacy search renders a landing page when the searched term exactly matches the name of a folder configured in the CMS. For this folder to be searchable, a [layout](/docs/tutorials/what-are-layouts) must be associated with it, as does the parent folder. In structures with more than one directory level, such as `/folder1/landing-page`, this behavior may not work as expected, and the search may return a 404 page.
 
-**Important**:
+### Configuring Search Context on an existing page
 
-- For the Search Context to operate, it's necessary to use the `searchResult` control.
-- The search applied in this filed will replace any search applied on the URL, i.e., if this field is set up in one folder, including search parameters directly on its URL, it will not work, including the sorting (parameter **O**).
+After clicking the root folder (`/`), follow the instructions below:
+
+6. Click the folder you want to use for the landing page.
+7. On the right side of the screen, click `edit`.
+8. In the `Search Context (Default)` field, enter the search parameters you want to apply to the page. For example, to display products from category `111`, brand `222` and with specification `333`, use the following value: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
+9. Click `Save Folder`.
+10. Access the URL of the configured folder and check if the page displays the expected products. The landing page will be available at the URL `https://www.{accountName}.com/{landing-page}`, where `{accountName}` is your store name and `{landing-page}` is the name of the folder in the CMS with the configured Search Context.
+
+### Configure Search Context on a new page
+
+After clicking the root folder (`/`), follow the instructions below:
+
+6. On the right side of the screen, click `new folder`.
+7. Complete the fields based on the guidelines below:
+   - **Folder Name:** URL path.
+   - **Marketing Context (Default):** Defines whether the page can be accessed by [UTM](/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) parameters. This field is optional.
+   - **Search Context (Default):** Adds search parameters. For example, to display products from category `111`, brand `222` and with specification `333`, use the following value: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
+   - **Protocol:** Defines the communication protocol between a web server and a web browser. Recommended: `HTTPS`.
+   - **Cache Type:** Defines the browser cache storage behavior. Recommended: `Local and Remote`.
+   - **Authentication Required?:** Defines whether the page can be accessed only after user authentication. If this option is enabled, only authenticated users can access the page.
+8. Click `Save Folder` to save the new page.
+9. Access the URL of the configured folder and check if the page displays the expected products. The landing page will be available at the URL `https://www.{accountName}.com/{landing-page}`, where `{accountName}` is your store name and `{landing-page}` is the name of the folder created in the CMS with the configured Search Context.
