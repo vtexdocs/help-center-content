@@ -1,6 +1,6 @@
-# Benchmark Portals — IA Patterns for VTEX Help Center Tutorials
+# Benchmark Portals — Information Architecture Patterns for VTEX Help Center Tutorials
 
-This document expands on the five benchmark portals identified in the Information Architecture (IA) plan, detailing the specific patterns VTEX should adopt from each.
+This document presents six benchmark portals for the Information Architecture (IA) plan, detailing the specific patterns VTEX should adopt from each.
 
 ---
 
@@ -11,7 +11,7 @@ This document expands on the five benchmark portals identified in the Informatio
 ### IA patterns to adopt
 
 | Pattern | How Stripe does it | How to apply to VTEX |
-|---|---|---|
+| :--- | :--- | :--- |
 | Product-first top level | Top-level nav groups by product domain: Payments, Revenue, Money management, Prebuilt components | VTEX top-level sections should map to merchant workflows, not internal teams (e.g., Orders, Payments, Catalog — not Operational, Other) |
 | Sidebar scoped per section | When a user enters a section (e.g., Billing), the sidebar shows only that section's articles — not the full 2,000-article tree | VTEX sidebar should not expose all 36 sections at once; collapse inactive sections |
 | Task-first homepage entry points | Home page has direct action links: "Accept payments online", "Sell subscriptions", "Set up development environment" | VTEX tutorials homepage should lead with user goals, not category labels |
