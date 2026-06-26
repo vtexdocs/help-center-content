@@ -5,7 +5,7 @@ VTEX operates two documentation portals that serve different primary audiences b
 - **Help Center** ([help.vtex.com](https://help.vtex.com)) — merchant and store operator audience; task-based tutorials about doing things in the VTEX Admin UI.
 - **Developer Portal** ([developers.vtex.com](https://developers.vtex.com)) — developer and integrator audience; technical guides about building with VTEX APIs, apps, and extensibility frameworks.
 
-Both portals are indexed by the same shared AI search pipeline (BM25 + vector similarity). Without deliberate alignment, users receive results from both portals in the same result set with inconsistent section labels and no clear signal about which portal a result belongs to.
+The portals are separate sites with separate search, but users frequently move between them — a merchant follows a cross-link to understand the API behind a feature they're configuring, or a developer needs to know what the Admin-side setup looks like. When section names and product labels differ between portals, users lose orientation at the moment of handoff.
 
 This document defines the scope boundary, canonical naming constraints, and Getting Started disambiguation that the HC restructuring proposal must respect.
 
