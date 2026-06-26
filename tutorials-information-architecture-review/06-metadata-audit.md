@@ -1,127 +1,14 @@
 # Metadata Audit — `metadata.json` Findings and Specifications
 
 This document covers:
-1. Folders missing `metadata.json` entirely (must be created)
-2. Ordering issues in existing metadata (duplicate order numbers)
-3. Overview-not-first ordering problems
-4. `metadata.json` templates for new folders created by the restructuring
-5. Metadata needed for new top-level sections
+1. Ordering issues in existing metadata (duplicate order numbers)
+2. Overview-not-first ordering problems
+3. `metadata.json` templates for new folders created by the restructuring
+4. Metadata needed for new top-level sections
 
 ---
 
-## 1. Folders Missing `metadata.json`
-
-Three folders (across all 3 language trees) lack a `metadata.json` file. Without this file the folder is not registered in the CMS navigation and its articles do not appear in the sidebar.
-
-| Folder (EN) | Folder (ES) | Folder (PT) | Parent section | Articles inside |
-|---|---|---|---|---|
-| `checkout/buyer-portal-checkout/` | `checkout/buyer-portal-checkout/` | `checkout/buyer-portal-checkout/` | checkout | 1 |
-| `shipping/operational-capacity/` | `envío/capacidad-operativa/` | `envio/capacidade-operacional/` | shipping | 1 |
-| `beta/authentication-beta/` | `beta/autenticación-beta/` | `beta/autenticação-beta/` | beta | 1 |
-
-> Note: `other/uncategorized/` was flagged in the plan as potentially missing metadata.json, but a `metadata.json` file does exist in all 3 language trees for this folder. No action needed for `uncategorized`.
-
-### Specification for missing files
-
-These metadata.json files must be created. After the Information Architecture (IA) restructuring, the articles in these folders will move to new sections (see `03-consolidation-map.md`). The metadata below reflects the **current** structure; it should be updated again after restructuring is complete.
-
-**`docs/en/tutorials/checkout/buyer-portal-checkout/metadata.json`**
-```json
-{
-  "id": "buyer-portal-checkout",
-  "name": "Buyer Portal Checkout",
-  "slug": "buyer-portal-checkout-subcategory",
-  "order": 3
-}
-```
-
-**`docs/es/tutorials/checkout/buyer-portal-checkout/metadata.json`**
-```json
-{
-  "id": "buyer-portal-checkout",
-  "name": "Buyer Portal Checkout",
-  "slug": "buyer-portal-checkout-subcategory",
-  "order": 3
-}
-```
-
-**`docs/pt/tutorials/checkout/buyer-portal-checkout/metadata.json`**
-```json
-{
-  "id": "buyer-portal-checkout",
-  "name": "Buyer Portal Checkout",
-  "slug": "buyer-portal-checkout-subcategory",
-  "order": 3
-}
-```
-
----
-
-**`docs/en/tutorials/shipping/operational-capacity/metadata.json`**
-```json
-{
-  "id": "operational-capacity",
-  "name": "Operational Capacity",
-  "slug": "operational-capacity-subcategory",
-  "order": 11
-}
-```
-
-**`docs/es/tutorials/envío/capacidad-operativa/metadata.json`**
-```json
-{
-  "id": "operational-capacity",
-  "name": "Capacidad operativa",
-  "slug": "operational-capacity-subcategory",
-  "order": 11
-}
-```
-
-**`docs/pt/tutorials/envio/capacidade-operacional/metadata.json`**
-```json
-{
-  "id": "operational-capacity",
-  "name": "Capacidade operacional",
-  "slug": "operational-capacity-subcategory",
-  "order": 11
-}
-```
-
----
-
-**`docs/en/tutorials/beta/authentication-beta/metadata.json`**
-```json
-{
-  "id": "authentication-beta",
-  "name": "Authentication (Beta)",
-  "slug": "authentication-beta-subcategory",
-  "order": 1
-}
-```
-
-**`docs/es/tutorials/beta/autenticación-beta/metadata.json`**
-```json
-{
-  "id": "authentication-beta",
-  "name": "Autenticación (Beta)",
-  "slug": "authentication-beta-subcategory",
-  "order": 1
-}
-```
-
-**`docs/pt/tutorials/beta/autenticação-beta/metadata.json`**
-```json
-{
-  "id": "authentication-beta",
-  "name": "Autenticação (Beta)",
-  "slug": "authentication-beta-subcategory",
-  "order": 1
-}
-```
-
----
-
-## 2. Duplicate Order Numbers
+## 1. Duplicate Order Numbers
 
 Two sections have duplicate `order` values among their L2 groups. Duplicate orders cause non-deterministic sidebar rendering (the CMS may show either item first).
 
@@ -130,15 +17,17 @@ Two sections have duplicate `order` values among their L2 groups. Duplicate orde
 | Folder | Current order | Fix |
 |---|---|---|
 | `kit/` | 9 | Keep at order 9 |
-| `import-and-export/` | 9 | Change to order 10 |
+| `import-and-export/` | 9 | Change to order 7 |
+
+> Order 10 cannot be used because `list-types/` is already at order 10. Order 7 is currently unoccupied in the catalog sequence.
 
 Update `docs/en/tutorials/catalog/import-and-export/metadata.json`:
 ```json
 {
   "id": "import-and-export",
-  "name": "Import & Export",
+  "name": "Import and export",
   "slug": "import-and-export-subcategory",
-  "order": 10
+  "order": 7
 }
 ```
 Apply same fix to ES (`catálogo/importacion-y-exportacion/`) and PT (`catálogo/importação-e-exportação/`) equivalents.
@@ -147,14 +36,16 @@ Apply same fix to ES (`catálogo/importacion-y-exportacion/`) and PT (`catálogo
 
 | Folder | Current order | Fix |
 |---|---|---|
-| `headless-cms/` | 2 | Change to order 1 (headless-cms is newer; should appear higher) |
-| `cms-for-store-framework/` | 2 | Change to order 3 |
+| `headless-cms/` | 2 | Change to order 1 |
+| `cms-for-store-framework/` | 2 | Change to order 5 |
+
+> Order 3 cannot be used for `cms-for-store-framework` because `layout/` is already at order 3. Order 5 is currently unoccupied in the storefront sequence. The actual display name of `headless-cms/` in the repository is "Headless CMS (Legacy)", not "Headless CMS".
 
 Update `docs/en/tutorials/storefront/headless-cms/metadata.json`:
 ```json
 {
   "id": "headless-cms",
-  "name": "Headless CMS",
+  "name": "Headless CMS (Legacy)",
   "slug": "headless-cms-subcategory",
   "order": 1
 }
@@ -165,14 +56,14 @@ Update `docs/en/tutorials/storefront/cms-for-store-framework/metadata.json`:
   "id": "cms-for-store-framework",
   "name": "CMS for Store Framework",
   "slug": "cms-for-store-framework-subcategory",
-  "order": 3
+  "order": 5
 }
 ```
 Apply same fix to ES and PT equivalents.
 
 ---
 
-## 3. Overview-Ordering Issues
+## 2. Overview-Ordering Issues
 
 By convention, an overview/hub group should always be the first item (lowest order number) within its section. The following sections have their overview group out of sequence:
 
@@ -203,7 +94,7 @@ By convention, an overview/hub group should always be the first item (lowest ord
 
 ---
 
-## 4. Metadata.json Templates for New Folders
+## 3. Metadata.json Templates for New Folders
 
 The restructuring creates new top-level sections and new L2 groups. Each requires a `metadata.json`. Below are the specifications for all new files.
 
@@ -369,7 +260,7 @@ The restructuring creates new top-level sections and new L2 groups. Each require
 
 ---
 
-## 5. `metadata.json` Field Reference
+## 4. `metadata.json` Field Reference
 
 All `metadata.json` files in this repository use the following fields:
 
@@ -384,11 +275,11 @@ All `metadata.json` files in this repository use the following fields:
 
 ---
 
-## 6. AI Retrieval Metadata Recommendations
+## 5. AI Retrieval Metadata Recommendations
 
 The VTEX Help Center indexer uses hybrid search (BM25 keyword + vector similarity). The `metadata.json` files feed the navigation layer, but AI retrieval quality also depends on fields at two other levels: the **article front-matter** and the **folder metadata**. This section identifies gaps and recommends additions.
 
-### 6a. Add `description` field to L1 and L2 `metadata.json`
+### 5a. Add `description` field to L1 and L2 `metadata.json`
 
 The current `metadata.json` schema has no `description` field. This creates two problems:
 
@@ -434,7 +325,7 @@ The current `metadata.json` schema has no `description` field. This creates two 
 | Customer Experience | Manage VTEX CX Platform, Agent Builder, Conversational Commerce, Message Center, and Master Data. |
 | Infrastructure & Data | Monitor CDN, DNS, SLA, platform status, VTEX Data Pipeline, and Indeva by VTEX. |
 
-### 6b. Front-matter completeness — fields required for AI retrieval
+### 5b. Front-matter completeness — fields required for AI retrieval
 
 Article front-matter fields are the primary per-article metadata layer for the AI indexer. The following fields must be present and correctly filled on every tutorial article.
 
@@ -456,7 +347,7 @@ Missing `slugEN` is the highest-impact gap: the indexer uses `slugEN` to dedupli
 
 Missing `productTeam` prevents product-area filtering. If a merchant searches "how to configure payment settings" while scoped to the Payments product area, articles without `productTeam: Financial` will not be returned.
 
-### 6c. Slug stability during restructuring
+### 5c. Slug stability during restructuring
 
 When articles are moved from one section to another (as planned in `03-consolidation-map.md`), their URL slug changes. This breaks:
 - Inbound links from other articles, external sites, and AI-generated citations
@@ -467,7 +358,7 @@ When articles are moved from one section to another (as planned in `03-consolida
 2. If a slug must change (e.g., it contains the old section name), implement a **301 redirect** from the old slug to the new slug before the restructuring PR is merged
 3. Document all slug changes in a migration table (to be added to `07-trilingual-sync.md` as a follow-up)
 
-### 6c-2. Cross-portal field alignment: `excerpt` vs `description`
+### 5c-2. Cross-portal field alignment: `excerpt` vs `description`
 
 The VTEX Developer Portal (`dev-portal-content`) uses an `excerpt` field in article front-matter as a one-sentence summary of the article's purpose. Example from `creating-a-regular-order-with-the-checkout-api.mdx`:
 
@@ -506,7 +397,7 @@ excerpt: 'Learn how to add payment conditions, set up installment rules, and act
 
 ---
 
-### 6d. Heading path metadata for AI citations
+### 5d. Heading path metadata for AI citations
 
 Modern RAG systems attach a `heading_path` to every retrieved chunk (e.g., `"Payments > Payment Settings > Configure payment conditions"`). This path:
 - Appears in AI citations so users can locate the source
