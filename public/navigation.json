@@ -39,6 +39,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Improvements to the in-store pickup flow",
+                    "es": "Mejoras en el flujo de recogida en tienda",
+                    "pt": "Melhorias no fluxo de retirada em loja"
+                  },
+                  "slug": {
+                    "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
+                    "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
+                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Localization improvements in Pick and Pack",
+                    "es": "Optimizaciones de localización en Pick and Pack",
+                    "pt": "Melhorias de localização no Pick and Pack"
+                  },
+                  "slug": {
+                    "en": "2026-06-24-localization-improvements-in-pick-and-pack",
+                    "es": "2026-06-24-mejoras-de-localizacion-en-pick-and-pack",
+                    "pt": "2026-06-24-melhorias-de-localizacao-no-pick-and-pack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contingency Mode: New name for the Mode-off feature",
                     "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
                     "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
@@ -11250,12 +11280,12 @@
                 {
                   "name": {
                     "en": "1. Introduction to Account Management",
-                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "es": "1. Introducción a Gestión de la cuenta",
                     "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "placeholder-introduction-to-account-management",
-                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "en": "introduction-to-account-management",
+                    "es": "introduccion-a-la-gestion-de-cuentas",
                     "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
@@ -11264,13 +11294,13 @@
                 },
                 {
                   "name": {
-                    "en": "2. Users and Roles",
-                    "es": "2. Usuarios y Roles",
+                    "en": "2. Users and roles",
+                    "es": "2. Usuarios y roles",
                     "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "placeholder-users-and-roles",
-                    "es": "placeholder-usuarios-y-roles",
+                    "en": "users-and-roles",
+                    "es": "usuarios-y-roles",
                     "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
@@ -11279,13 +11309,13 @@
                 },
                 {
                   "name": {
-                    "en": "3. Authentication and Security",
-                    "es": "3. Autenticación y Seguridad",
+                    "en": "3. Authentication and security",
+                    "es": "3. Autenticación y seguridad",
                     "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "placeholder-authentication-and-security",
-                    "es": "placeholder-autenticacion-y-seguridad",
+                    "en": "authentication-and-security",
+                    "es": "autenticacion-y-seguridad",
                     "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
@@ -11294,13 +11324,13 @@
                 },
                 {
                   "name": {
-                    "en": "4. API Keys for Integrations",
-                    "es": "4. Claves de API para Integraciones",
+                    "en": "4. API keys for integrations",
+                    "es": "4. Claves de API para integraciones",
                     "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "placeholder-api-keys-for-integrations",
-                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "en": "api-keys-for-integrations",
+                    "es": "claves-de-api-para-integraciones",
                     "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
@@ -40798,6 +40828,21 @@
             },
             {
               "name": {
+                "en": "Catalog Kit Insertion Allows Circular Reference",
+                "es": "La inserción del kit de catálogo permite una referencia circular.",
+                "pt": "A inserção do kit de catálogo permite referência circular."
+              },
+              "slug": {
+                "en": "catalog-kit-insertion-allows-circular-reference",
+                "es": "la-insercion-del-kit-de-catalogo-permite-una-referencia-circular",
+                "pt": "a-insercao-do-kit-de-catalogo-permite-referencia-circular"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog Myvtex Iframe HTML Select Breaking for Chrome 108",
                 "es": "Catálogo Myvtex Iframe HTML: selección de «Breaking» para Chrome 108",
                 "pt": "Catálogo Myvtex Iframe HTML Select Breaking para o Chrome 108"
@@ -42959,13 +43004,13 @@
             {
               "name": {
                 "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
-                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
-                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+                "es": "El botón de publicación no responde de forma intermitente en la creación/actualización de productos en el Portal del vendedor.",
+                "pt": "O botão \"Publicar\" apresenta falhas intermitentes na criação/atualização de produtos no Seller Portal."
               },
               "slug": {
                 "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
-                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
-                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+                "es": "el-boton-de-publicacion-no-responde-de-forma-intermitente-en-la-creacionactualizacion-de-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-apresenta-falhas-intermitentes-na-criacaoatualizacao-de-produtos-no-seller-portal"
               },
               "origin": "",
               "type": "markdown",
@@ -43281,6 +43326,21 @@
                 "en": "sku-insert-file-api-is-not-responding-with-the-text-property",
                 "es": "la-api-de-insercion-de-archivos-de-sku-no-responde-con-la-propiedad-texto",
                 "pt": "a-api-sku-insert-file-nao-esta-respondendo-com-a-propriedade-text"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SKU Insert FIle API may generate duplicate images if it fails",
+                "es": "La API de inserción de archivos SKU puede generar imágenes duplicadas si falla.",
+                "pt": "A API de Inserção de Arquivos SKU pode gerar imagens duplicadas se falhar."
+              },
+              "slug": {
+                "en": "sku-insert-file-api-may-generate-duplicate-images-if-it-fails",
+                "es": "la-api-de-insercion-de-archivos-sku-puede-generar-imagenes-duplicadas-si-falla",
+                "pt": "a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar"
               },
               "origin": "",
               "type": "markdown",
@@ -44746,7 +44806,7 @@
             {
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
-                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente",
+                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
                 "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
               },
               "slug": {
@@ -50584,12 +50644,12 @@
             {
               "name": {
                 "en": "Netshoes - Main Image not respected",
-                "es": "Imagen principal no respetada",
+                "es": "Netshoes - Imagen principal no respetada",
                 "pt": "Netshoes - Imagem principal não respeitada"
               },
               "slug": {
                 "en": "netshoes-main-image-not-respected",
-                "es": "imagen-principal-no-respetada",
+                "es": "netshoes-imagen-principal-no-respetada",
                 "pt": "netshoes-imagem-principal-nao-respeitada"
               },
               "origin": "",
@@ -50719,13 +50779,13 @@
             {
               "name": {
                 "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Shopee Sincronización de catálogo bloqueada por exceso de atributos de variación",
-                "pt": "Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação"
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
               },
               "slug": {
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
-                "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
               },
               "origin": "",
               "type": "markdown",
@@ -68706,6 +68766,68 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
                 "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace in",
+            "es": "Marketplace in",
+            "pt": "Marketplace in"
+          },
+          "slug": {
+            "en": "marketplace-in",
+            "es": "marketplace-in",
+            "pt": "marketplace-in"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Shopee Order code: 001 / Invalid Email",
+                "es": "Shopee Código de pedido: 001 / Correo electrónico no válido",
+                "pt": "Shopee Código do pedido: 001 / E-mail inválido"
+              },
+              "slug": {
+                "en": "shopee-order-code-001-invalid-email",
+                "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+                "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace out",
+            "es": "Marketplace out",
+            "pt": "Marketplace out"
+          },
+          "slug": {
+            "en": "marketplace-out",
+            "es": "marketplace-out",
+            "pt": "marketplace-out"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Magazine Luiza - Main Image not respected",
+                "es": "Magazine Luiza - Imagen principal no respetada",
+                "pt": "Magazine Luiza - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "magazine-luiza-main-image-not-respected",
+                "es": "magazine-luiza-imagen-principal-no-respetada",
+                "pt": "magazine-luiza-imagem-principal-nao-respeitada"
               },
               "origin": "",
               "type": "markdown",
