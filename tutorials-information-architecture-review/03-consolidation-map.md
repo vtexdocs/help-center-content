@@ -25,7 +25,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | 6 | `beta` | Beta | 36 | REDISTRIBUTE | Various sections |
 | 7 | `billing` | Billing | 18 | MOVE INTO | Account Management |
 | 8 | `catalog` | Catalog | 73 | KEEP | Catalog |
-| 9 | `checkout` | Checkout | 29 | KEEP (rename) | Checkout & Subscriptions |
+| 9 | \checkout\ | Checkout | 29 | KEEP | Checkout |
 | 10 | `cms` | CMS | 7 | MOVE INTO | Storefront |
 | 11 | `conversational-commerce` | Conversational Commerce | 37 | MOVE INTO | Customer Experience |
 | 12 | `dashboards` | Dashboards | 4 | MOVE INTO | Infrastructure & Data |
@@ -37,7 +37,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | 18 | `message-center` | Message center | 7 | MOVE INTO | Customer Experience |
 | 19 | `omnichannel` | Omnichannel | 5 | KEEP (rename) | Omnichannel |
 | 20 | `operational` | Operational | 13 | REDISTRIBUTE | Getting Started + Account Management |
-| 21 | `orders` | Orders | 56 | KEEP | Orders |
+| 21 | \orders\ | Orders | 56 | KEEP (rename) | Orders & Subscriptions |
 | 22 | `other` | Other | 4 | REDISTRIBUTE | Various sections |
 | 23 | `payments` | Payments | 277 | KEEP | Payments |
 | 24 | `prices` | Prices | 14 | MOVE INTO | Pricing and Promotions |
@@ -48,7 +48,7 @@ This document maps every existing top-level section (and their sub-categories) t
 | 29 | `shipping` | Shipping | 65 | KEEP | Shipping |
 | 30 | `store-settings` | Store Settings | 3 | MOVE INTO | Getting Started |
 | 31 | `storefront` | Storefront | 100 | KEEP | Storefront |
-| 32 | `subscriptions` | Subscriptions | 11 | MOVE INTO | Checkout & Subscriptions |
+| 32 | \subscriptions\ | Subscriptions | 11 | MOVE INTO | Orders & Subscriptions |
 | 33 | `suggestions` | Suggestions | 2 | MOVE INTO | Catalog |
 | 34 | `trade-policies` | Trade policies | 7 | MOVE INTO | Pricing and Promotions |
 | 35 | `vtex-cx-platform` | VTEX CX Platform | 90 | MOVE INTO | Customer Experience |
@@ -240,11 +240,10 @@ This document maps every existing top-level section (and their sub-categories) t
 
 ---
 
-### 7. Checkout & Subscriptions
+### 7. Checkout
 
-**New folder (EN):** `checkout` *(keep existing folder, add subscriptions as new L2 group — folder intentionally not renamed to `checkout-and-subscriptions` to avoid breaking existing URLs)*
-**L1 label note:** "Checkout & Subscriptions" is 24 characters, exceeding the 20-character guideline. The label is kept because dropping "Subscriptions" would make that content invisible to users scanning the sidebar. Treat as an accepted exception per `06-section-naming-rationale.md`.
-**Article count:** ~40 articles
+**New folder (EN):** `checkout` *(keep existing folder)*
+**Article count:** ~29 articles
 **Source sections:**
 
 | Source folder | Sub-folder | Articles |
@@ -253,28 +252,37 @@ This document maps every existing top-level section (and their sub-categories) t
 | `checkout` | `checkout-settings/` | 21 |
 | `checkout` | `buyer-portal-checkout/` | 1 |
 | `checkout` | (root) | 1 |
-| `subscriptions` | (root) | 11 |
 
 **Proposed Level 2 groups:**
 
 1. **Overview** ← `checkout-overview/` (6 articles) — hub
 2. **Checkout Settings** ← `checkout-settings/` (21 articles)
 3. **Buyer Portal Checkout** ← `checkout/buyer-portal-checkout/` (1 article) — merge into Overview if stays at 1 article
-4. **Subscriptions** ← `subscriptions/` all (11 articles)
 
 ---
 
-### 8. Orders
+### 8. Orders & Subscriptions
 
-**New folder (EN):** `orders` *(keep existing folder)*
-**Article count:** 56 articles
+**New folder (EN):** `orders` *(keep existing folder, add subscriptions as new L2 group)*
+**L1 label note:** "Orders & Subscriptions" is 22 characters, marginally exceeding the 20-character guideline. The label is kept because dropping "Subscriptions" would hide that content from users scanning the sidebar. Treat as an accepted exception consistent with the rationale in `06-section-naming-rationale.md`.
+**Article count:** ~67 articles
+**Source sections:**
 
-**Proposed Level 2 groups (current sub-folders are good as-is):**
+| Source folder | Sub-folder | Articles |
+| :--- | :--- | :--- |
+| `orders` | `orders-overview/` | 10 |
+| `orders` | `all-orders/` | 28 |
+| `orders` | `orders-management-settings/` | 13 |
+| `orders` | `telesales-and-customer-service/` | 4 |
+| `subscriptions` | (root) | 11 |
+
+**Proposed Level 2 groups:**
 
 1. **Overview** ← `orders-overview/` (10 articles) — hub
 2. **All Orders** ← `all-orders/` (28 articles) — exceeds 20-article threshold; consider splitting into "Order List" and "Order Details" if future content growth warrants it; acceptable for now given thematic coherence
 3. **Order Settings** ← `orders-management-settings/` (13 articles)
 4. **Telesales and Customer Service** ← `telesales-and-customer-service/` (4 articles)
+5. **Subscriptions** ← `subscriptions/` all (11 articles)
 
 > Root article `understanding-b2b-orders.md` is an orphaned direct L1 article that must not be left at root alongside L2 groups (mixes levels). Move it to **Sellers & B2B** (Sellers Overview group) where B2B order context belongs.
 
@@ -500,8 +508,8 @@ This document maps every existing top-level section (and their sub-categories) t
 | Pricing and Promotions | `pricing-and-promotions` | promotions-and-taxes, prices, trade-policies | ~69 |
 | Storefront | \storefront\ | storefront, cms, beta/product-recommendations, beta/releases | ~116 |
 | Intelligent Search | `intelligent-search` | intelligent-search | 26 |
-| Checkout & Subscriptions | `checkout` | checkout, subscriptions | ~40 |
-| Orders | `orders` | orders | 56 |
+| Checkout | \checkout\ | checkout | ~29 |
+| Orders & Subscriptions | \orders\ | orders, subscriptions | ~67 |
 | Payments | `payments` | payments | 277 |
 | Shipping | `shipping` | shipping | 65 |
 | Sellers & B2B | `sellers-and-b2b` | sellers, b2b | ~69 |
