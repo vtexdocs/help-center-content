@@ -66,13 +66,13 @@ A janela de atribuição define o período máximo em que uma compra pode ser at
 
 | Formato                                    | Janela de clique | Janela de visualização |
 | ------------------------------------------ | ---------------- | ---------------------- |
-| Produtos patrocinados (Sponsored Products) | 14 dias          | 1 dia (24 horas)       |
+| Produtos patrocinados (Sponsored Products) | 7 dias           | 1 dia (24 horas)       |
 | Banner                                     | 14 dias          | 14 dias                |
 | Banner em vídeo                            | 14 dias          | 14 dias                |
 | Marcas patrocinadas (Sponsored Brands)     | 14 dias          | 14 dias                |
 
 
-Por exemplo, se um usuário clicar em um anúncio de produto patrocinado hoje, uma compra do produto anunciado realizada nos próximos 14 dias pode ser creditada a esse anúncio. Se o usuário apenas visualizar o anúncio, a compra precisa ocorrer em até 1 dia (24 horas) para ser creditada à visualização.
+Por exemplo, se um usuário clicar em um anúncio de produto patrocinado hoje, uma compra do produto anunciado realizada nos próximos 7 dias pode ser creditada a esse anúncio. Se o usuário apenas visualizar o anúncio, a compra precisa ocorrer em até 1 dia (24 horas) para ser creditada à visualização.
 
 ### Atribuição consolidada
 
