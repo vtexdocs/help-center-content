@@ -35296,7 +35296,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create landing pages with customized URLs",
+                    "en": "How to create landing pages with custom URLs",
                     "es": "Cómo crear landing pages con URLs personalizadas",
                     "pt": "Como criar landing pages com URLs customizadas"
                   },
@@ -38814,13 +38814,13 @@
             {
               "name": {
                 "en": "Issue with Node Version Compatibility",
-                "es": "Problema de compatibilidad con la versión de Node",
-                "pt": "Problema com a compatibilidade de versão do Node"
+                "es": "Problema de compatibilidad de versiones de Node.",
+                "pt": "Problema de compatibilidade de versão do Node.js"
               },
               "slug": {
                 "en": "issue-with-node-version-compatibility",
-                "es": "problema-de-compatibilidad-con-la-version-de-node",
-                "pt": "problema-com-a-compatibilidade-de-versao-do-node"
+                "es": "problema-de-compatibilidad-de-versiones-de-node",
+                "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
               },
               "origin": "",
               "type": "markdown",
