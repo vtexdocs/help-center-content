@@ -3,7 +3,7 @@ title: 'VTEX Pick and Pack: Configurações'
 id: 16cs3e7hWk7c4cSZqe10O9
 status: PUBLISHED
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2025-11-13T00:00:00.000Z
+updatedAt: 2026-06-26T00:00:00.000Z
 publishedAt: 2024-01-09T18:30:22.578Z
 firstPublishedAt: 2024-01-09T16:30:00.192Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso [formulário](https://vtex.com/pt-br/contato/) apontando no campo Comentários o nome do produto desejado.
+> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com o nosso [suporte](https://support.vtex.com/hc/pt-br/).
 
 **Configurações** é uma página do Admin VTEX que permite selecionar as configurações desejadas para o funcionamento do VTEX Pick and Pack na sua loja. As configurações estão distribuídas nas seguintes abas:
 
@@ -33,6 +33,25 @@ Nesta aba, você encontrará configurações relacionadas aos pedidos processado
 ![vtex-pick-and-pack-configuracoes_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_1.png)
 
 * **Baixar pedidos do OMS:** permite exportar pedidos do [módulo de Pedidos da VTEX](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).
+
+### Remoção ática de pedidos faturados
+
+Na aba **Pedidos**, você pode definir como o VTEX Pick and Pack deve tratar pedidos que mudam para **Faturado** no Order Management System (OMS) depois de serem baixados para o aplicativo.
+
+Para remover aticamente pedidos faturados do VTEX Pick and Pack, siga os passos abaixo:
+
+1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
+2. Na aba **Pedidos**, clique em `Geral`. 
+3. Na seção **Se um pedido mudar para Faturado no OMS**, ative a opção **Remover do Pick and Pack**.  
+5. Clique em `Salvar`.
+
+Com essa opção ativada, o VTEX Pick and Pack remove aticamente do aplicativo os pedidos que atendem a todas as seguintes condições:
+
+- O pedido já foi baixado para o VTEX Pick and Pack.  
+- O pedido ainda não foi processado.  
+- O pedido mudou para **Faturado** no OMS antes da etapa de manuseio.
+
+Os filtros descritos a seguir são aplicados somente a novos pedidos feitos após a exportação. Se nenhum filtro for definido, todos os pedidos serão baixados.
 
 > ℹ️ Os filtros abaixo são aplicados somente a novos pedidos que sejam feitos após a exportação e, se nenhum filtro for definido, todos os pedidos serão baixados.
 
@@ -78,7 +97,7 @@ Aqui é definida as informações que serão exibidas na lista de separação, i
 * **Separar itens por pedidos:** opção que permite gerar uma etiqueta por pedido.  
 * **Mostrar informações do cliente:** opção que exibe as informações do cliente na etiqueta.  
 * **Mostrar código de barras / qr dos pacotes:** opção que exibe o código de barras ou QR code na etiqueta.  
-* **Código de barras / QR:** caso a opção **Mostrar código de barras / qr dos pacotes** estiver ativada, permite selecionar se o código de barras com o número do pedido, ou o número da ordem de serviço, ou ambos aparecerá na etiqueta.
+* **Código de barras / QR:** caso a opção **Mostrar código de barras / qr dos pacotes** esteja ativada, permite selecionar se o código de barras com o número do pedido, o número da ordem de serviço, ou ambos aparecerão na etiqueta.
 
 Clique em `Salvar` para registrar as alterações feitas na aba.
 
@@ -98,10 +117,10 @@ Clique em `Salvar` para registrar as alterações feitas na aba.
 * **Motivos de recusa:** motivos de [recusa de itens](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens) que serão selecionados pelo separador no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Os motivos de recusa cadastrados não são traduzidos caso o separador escolha outro idioma no aplicativo móvel do Pick and Pack.
 * **Permitir alterações no preço dos itens:** opção que permite o separador alterar o preço dos itens durante a separação.
 * **Motivos de alteração de preços**:  motivos de alteração de preço que serão selecionados pelo separador no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Os motivos de alteração de preços cadastrados não são traduzidos caso o separador escolha outro idioma no aplicativo móvel do Pick and Pack.  
-* **Número máximo de alterações de preço nos itens do pedido**: limites de alteração de preço de itens em um pedido. 100% é o valor máximo que pode ser adicionado ao preço original quando modificado e \-100% o valor mínimo, sendo calculado em cima do valor original do item.  
+* **Número máximo de alterações de preço nos itens do pedido**: limites de alteração de preço de itens em um pedido. 100% é o valor máximo que pode ser adicionado ao preço original quando modificado e \-100% o valor mínimo, sendo calculados em cima do valor original do item.  
 * **Permitir alterações na quantidade dos itens**: opção que permite o separador [alterar a quantidade dos itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#alterar-a-quantidade-de-um-produto).
-* **Número máximo de alterações na quantidade dos itens do pedido:** limites de alteração de quantidade de itens em um pedido. 100% é o valor máximo que pode ser adicionado à quantidade original quando modificada e \-100% o valor mínimo, sendo calculado em cima da quantidade original do item.  
-* **Limitar alterações no valor total do pedido:** limites de alteração do valor total do pedido feitas pelo separador. 100% é o valor máximo que pode ser adicionado ao valor final do pedido quando modificado e \-100% o valor mínimo, sendo calculado em cima do valor original do pedido.  
+* **Número máximo de alterações na quantidade dos itens do pedido:** limites de alteração de quantidade de itens em um pedido. 100% é o valor máximo que pode ser adicionado à quantidade original quando modificada e \-100% o valor mínimo, sendo calculados em cima da quantidade original do item.  
+* **Limitar alterações no valor total do pedido:** limites de alteração do valor total do pedido feitas pelo separador. 100% é o valor máximo que pode ser adicionado ao valor final do pedido quando modificado e \-100% o valor mínimo, sendo calculados em cima do valor original do pedido.  
 * **Número máximo de alterações no pedido:** quantidade máxima de alterações (substituições, recusa e itens novos) que podem ser feitas em um pedido.
 
 Clique em `Salvar` para registrar as alterações feitas na aba.
@@ -207,12 +226,12 @@ Nesta seção, você vai definir quais informações dos itens serão exibidas n
 
 * **Dados do cartão dos itens no aplicativo de separação de pedidos:** informações dos produtos que serão exibidas no cartão dos itens no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).  
 * **Ativar transferência de itens:** opção que permite entregar um item a partir de uma localização diferente da instalação especificada originalmente.  
-* **Ativar localização do item:** opção que atribui um código único a cada SKU para localizar os itens mais facilmente na loja ou no estoque. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-)  
-* **Códigos:** código de localização do item. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-)  
-* **Exemplo:** campo que permite visualizar como o código de localização será gerado. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-)  
-* **Separador:** símbolo que irá separar cada seção de informação do código de localização. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-)  
-* **Alocar marcas de produtos a:** seleção que define qual espaço (BIN, zona, seção ou corredor) que marcas irão ocupar. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-)  
-* **Alocar categorias de produtos a:** seleção que define qual espaço (BIN, zona, seção ou corredor) que categorias irá ocupar. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-)  
+* **Ativar localização do item:** opção que atribui um código único a cada SKU para localizar os itens mais facilmente na loja ou no estoque. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api)  
+* **Códigos:** código de localização do item. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api)  
+* **Exemplo:** campo que permite visualizar como o código de localização será gerado. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api)  
+* **Separador:** símbolo que irá separar cada seção de informação do código de localização. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api)  
+* **Alocar marcas de produtos a:** seleção que define qual espaço (BIN, zona, seção ou corredor) que marcas irão ocupar. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api)  
+* **Alocar categorias de produtos a:** seleção que define qual espaço (BIN, zona, seção ou corredor) que categorias irá ocupar. Para mais informações desta configuração, cheque a [Pick and Pack Order changes API.](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-api)  
 * **Ativar códigos de barras dinâmicos:** opção que, se ativada <i class="fas fa-toggle-on"></i>, permite gerar EANs baseados em:
 
   | Preço | Peso |
