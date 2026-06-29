@@ -26,6 +26,6 @@ To configure Directa, follow the steps below:
 5. If you wish to modify the identification name to be displayed for the Directa provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. Click `Save`.
 
-To process private label (self card brand) with the Directa provider, go to [Configuring store card payments (proprietary brand)](https://help.vtex.com/docs/tutorials/setting-up-private-label-payments).
+To process private label (self card brand) with the Directa provider, go to [Configuring store card payments (proprietary brand)](/en/docs/tutorials/setting-up-private-label-payments).
 
 After following the indicated steps, Directa may take up to 10 minutes to appear at your store's  checkout as a payment option.

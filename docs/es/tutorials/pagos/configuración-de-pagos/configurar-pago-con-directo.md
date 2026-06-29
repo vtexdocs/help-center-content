@@ -35,7 +35,7 @@ Para configurar Directo, siga los pasos a continuación:
 3. Haga clic en __Directo__.
 4. Active la condición en el campo __Status__.
 5. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-6. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. Si desea, puede [configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Directo puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
