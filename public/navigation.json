@@ -44476,12 +44476,12 @@
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
                 "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
-                "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
+                "pt": "Carrinhos criados a partir da substituição de pedidos não recebem promoções corretamente."
               },
               "slug": {
                 "en": "carts-created-from-order-replacement-do-not-receive-promotions-correctly",
                 "es": "los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente",
-                "pt": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente"
+                "pt": "carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -50312,21 +50312,6 @@
             },
             {
               "name": {
-                "en": "Netshoes - Main Image not respected",
-                "es": "Netshoes - Imagen principal no respetada",
-                "pt": "Netshoes - Imagem principal não respeitada"
-              },
-              "slug": {
-                "en": "netshoes-main-image-not-respected",
-                "es": "netshoes-imagen-principal-no-respetada",
-                "pt": "netshoes-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order approved in the marketplace but not integrated into VTEX",
                 "es": "Orden aprobada en el marketplace pero no integrada en VTEX",
                 "pt": "Pedido aprovado no marketplace mas não integrado à VTEX"
@@ -50440,21 +50425,6 @@
                 "en": "shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions",
                 "es": "shopee-no-se-puede-actualizar-el-precio-porque-el-producto-tiene-promociones-exclusivas-de-shopee",
                 "pt": "shopee-nao-e-possivel-atualizar-o-preco-porque-o-produto-tem-promocoes-exclusivas-do-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
-                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
-              },
-              "slug": {
-                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
-                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
               },
               "origin": "",
               "type": "markdown",
@@ -52671,6 +52641,21 @@
             },
             {
               "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Highlights doesn't work into a product list",
                 "es": "Los productos destacados no funcionan en una lista de productos",
                 "pt": "Os destaques de produtos não funcionam em uma lista de produtos"
@@ -53302,13 +53287,13 @@
             {
               "name": {
                 "en": "Unsupported fields by the Intelligent Search API returning empty",
-                "es": "Campos no admitidos por la API de búsqueda inteligente que se devuelven vacíos",
-                "pt": "Campos não suportados pela Intelligent Search API retornando vazios"
+                "es": "Los campos no compatibles con la API de búsqueda inteligente devuelven un valor vacío.",
+                "pt": "Campos não suportados pela API de Busca Inteligente retornando vazios"
               },
               "slug": {
                 "en": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
-                "es": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-                "pt": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios"
+                "es": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+                "pt": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios"
               },
               "origin": "",
               "type": "markdown",
@@ -68497,6 +68482,51 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes - Main Image not respected",
+                "es": "Netshoes - Imagen principal no respetada",
+                "pt": "Netshoes - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "netshoes-main-image-not-respected",
+                "es": "netshoes-imagen-principal-no-respetada",
+                "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
+              },
+              "slug": {
+                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Mapper does not support dynamic categories — attributes that unlock additional required subcategories",
+                "es": "Shopee Mapper no admite categorías dinámicas: atributos que desbloquean subcategorías adicionales requeridas.",
+                "pt": "O Shopee Mapper não suporta categorias dinâmicas — atributos que desbloqueiam subcategorias adicionais obrigatórias."
+              },
+              "slug": {
+                "en": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
+                "es": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
+                "pt": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias"
               },
               "origin": "",
               "type": "markdown",
