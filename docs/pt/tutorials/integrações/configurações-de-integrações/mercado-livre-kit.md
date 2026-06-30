@@ -72,8 +72,8 @@ Também é posível alterar somente o preço final do kit direto pelo sistema de
 
 Após cadastrar os kits no catálogo VTEX seguindo o tutorial [Cadastrar kit](https://help.vtex.com/pt/docs/tutorials/cadastrar-kit) e vinculá-los à Política comercial da integração com o Mercado Livre, o seller deve seguir os passos abaixo para ativar a sincronização:
 
-1. No Admin VTEX vá em **Marketplace > Conexões > Mercado Livre > Preferências** ou sigite **Preferências** na barra de busca.
-2. Na seção **Kits no Mercado Livre,** ative o toogle <label class="toggle-switch">.
+1. No Admin VTEX, vá a **Marketplace > Conexões > Mercado Livre > Preferências** ou acesse **Preferências** na barra de busca.
+2. Na seção **Kits no Mercado Livre,** ative o toggle <label class="toggle-switch">.
 3. Clique no botão `Ativar sincronização`.
 4. Acompanhe a sincronização dos kits em **Marketplace > Conexões > Produtos**.
 
