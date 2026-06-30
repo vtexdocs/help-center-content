@@ -23868,6 +23868,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Kit",
+                    "es": "Mercado Libre Kit",
+                    "pt": "Mercado Livre Kit"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-kit",
+                    "es": "mercado-libre-kit",
+                    "pt": "mercado-livre-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Promotions Center",
                     "es": "Central de promociones Mercado Libre",
                     "pt": "Central de Promoções Mercado Livre"
@@ -24011,37 +24026,6 @@
                     "en": "warehouse-assignment-on-mercado-libre",
                     "es": "asignacion-de-almacen-en-mercado-libre",
                     "pt": "alocacao-de-estoque-no-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configuración de las Integraciones",
-                "es": "Configuración de las Integraciones",
-                "pt": "Configurações de integrações"
-              },
-              "slug": {
-                "en": "configuracion-de-las-integraciones",
-                "es": "configuracion-de-las-integraciones-subcategoria",
-                "pt": "configurações-de-integrações-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Mercado Libre Kit",
-                    "pt": "Mercado Livre Kit",
-                    "en": "Mercado Libre Kit"
-                  },
-                  "slug": {
-                    "es": "mercado-libre-kit",
-                    "pt": "mercado-livre-kit",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
