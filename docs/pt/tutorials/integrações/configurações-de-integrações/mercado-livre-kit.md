@@ -60,13 +60,13 @@ flowchart LR
 
 ## Inventário e Preço
 
-As regras de inventário e precificação de um kit no Mercado Livre será as mesmas utilizadas nos kits cadastrados no catálogo VTEX.
+As regras de inventário e de precificação de um kit no Mercado Livre serão as mesmas utilizadas para os kits cadastrados no catálogo da VTEX.
 
-O inventário do kit é o inventaário de seus componentes, não sendo possível inserir um invetário apenas no kit. Para gerenciar esta informação acesse **Catálogo > Inventário > Gerenciamento de inventário.**
+O inventário do kit é o inventário de seus componentes, não sendo possível inserir um inventário apenas no kit. Para gerenciar esta informação, acesse **Catálogo > Inventário > Gerenciamento de inventário.**
 
-O preço do kit é atualizado automáticamente ap;oes alterar o valor unitário de um dos componentes. O preço final será a soma do valor dos componentes.
+O preço do kit é atualizado automaticamente após alterar o valor unitário de um dos componentes. O preço final será a soma dos valores dos componentes.
 
-Também é posível alterar somente o preço final do kit direto pelo sistema de preços sem atualizar os componentes. Dessa forma, o valor do componente será usado apenas para ratear o valor de venda entre os componentes, determinando o preço de cada componente naquele pedido específico.
+Também é possível alterar somente o preço final do kit direto pelo sistema de preços sem atualizar os componentes. Dessa forma, o valor do componente será usado apenas para ratear o valor de venda entre os componentes, determinando o preço de cada componente naquele pedido específico.
 
 ## Ativando a sincronização1. Ativar a sincronização de Kits
 
