@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11",
+  "updatedAt": "2026-06-30",
   "providers": [
     {
       "name": "55Pay",
@@ -533,6 +533,36 @@
       "countries": ["US"]
     },
     {
+      "name": "Directa",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-directa",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-directa",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-directa"
+      },
+      "countries": ["US"]
+    },
+    {
+      "name": "Directo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-directo",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-directo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-directo"
+      },
+      "countries": ["AR"]
+    },
+    {
+      "name": "Divibank",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-divibank",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-divibank",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-divibank"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Dock",
       "payoutSplit": false,
       "docs": {
@@ -741,6 +771,26 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-getnet-chile--3IYv6fZRXr2zCHhlyCjuLy"
       },
       "countries": ["CL"]
+    },
+    {
+      "name": "GlobalPay-Redeban",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpay-redeban",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpay-redeban",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpay-redeban"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "GlobalPayments",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-globalpayments",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-globalpayments",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-globalpayments"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "GOcuotas",
