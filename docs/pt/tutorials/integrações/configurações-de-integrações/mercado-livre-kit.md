@@ -15,14 +15,14 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A funcionalidade de Kits permite que sellers VTEX sincronizem seus kits cadastrados no catálogo VTEX diretamente com o Mercado Livre, garantindo a publicação destes no marketplace. Com essa sincronização o seller pode acompanhar o processamento pelo Admin VTEX.
+A funcionalidade de Kits permite que sellers VTEX sincronizem seus kits cadastrados no catálogo VTEX diretamente com o Mercado Livre, garantindo a publicação desses kits no marketplace. Com essa sincronização, o seller pode acompanhar o processamento pelo Admin VTEX.
 
 Para sincronizar os kits do catálogo VTEX com a conta no Mercado Livre, o seller deve atender aos seguintes requisitos:
 
-- A integração com o Mercado Livre configurada.
-- Kits préviamente cadastrados no Catálogo VTEX.
-- Kits para sincronização devem estar vinculados à Política comercial utilizada na integração com o Mercado Livre.
-- Cada kit pode conter no máximo 6 componentes e cada componente do kit pode ter no máximo 10 unidades.
+- A integração com o Mercado Livre está configurada.
+- Kits previamente cadastrados no Catálogo VTEX.
+- Kits para sincronização devem estar vinculados à política comercial utilizada na integração com o Mercado Livre.
+- Cada kit pode conter, no máximo, 6 componentes, e cada componente do kit pode ter, no máximo, 10 unidades.
 
 O processo de sincronização de kits segue o fluxo abaixo:
 
