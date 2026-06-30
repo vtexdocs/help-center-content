@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Pre-go-live'
 id: 7sM5IMx02zaHvAFTm0OxiJ
 status: PUBLISHED
@@ -33,7 +33,7 @@ After you receive the internal pointing confirmation, you must do the [common DN
 
 ## Requesting special pointing
 
-If your store access is limited by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you will need to request a special internal pointing.
+If your store access is limited by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal), you will need to request a special internal pointing.
 
 An example is [B2B stores](/en/docs/tutorials/b2b-overview), which [restrict access](/en/docs/tutorials/setting-up-b2b-on-vtex) to pre-approved companies.
 

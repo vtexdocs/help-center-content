@@ -3,7 +3,7 @@ title: 'Agregar o editar SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-30T22:21:13.931Z
+updatedAt: 2026-06-23T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -53,7 +53,7 @@ Además, después de registrar el SKU puedes agregarlo a un [kit](/es/docs/tutor
 
 En las siguientes secciones se describen los campos del formulario, incluyendo detalles sobre cómo rellenarlos.
 
-> ⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
+> ⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
 
 ## Nombre y status
 
@@ -183,7 +183,7 @@ Esta sección incluye campos relacionados con las estrategias de venta de la tie
 
 * **Condición comercial:** define las promociones o [condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) que deben aplicarse al SKU. Si no deseas indicar una condición comercial, selecciona la opción `Predeterminado`. Para saber más, consulta el artículo [Registrar condición comercial](/es/docs/tutorials/registrar-condicion-comercial).
 * **Fecha de preventa:** asigna una fecha de preventa al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta. Para configurarla, debes tomar en cuenta la fecha de release del ítem y el [cálculo de envío](/es/docs/tutorials/como-funciona-el-calculo-del-envio) a los clientes.
-* **Generar crédito en tarjeta de regalo:** cuando esta opción está activada, indica que la venta del SKU al cliente debe generar un crédito en forma [tarjeta de regalo](/es/docs/tutorials/gift-card).
+* **Generar crédito en tarjeta de regalo:** cuando esta opción está activada, indica que el SKU es un artículo de una lista de regalos.
 * **Valor de fidelidad:** crédito que el cliente recibe al completar la compra de 1 unidad de determinado SKU. Por ejemplo, si rellenas este campo con un valor de 1.00 USD, los clientes que compren este SKU obtendrán un crédito de 1.00 USD en la tienda para compras futuras.
 
 ## Personalizaciones

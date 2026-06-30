@@ -1,5 +1,5 @@
----
-title: 'Eventos do Headless CMS disponíveis no Audit'
+﻿---
+title: 'Eventos do Headless CMS (Legacy) disponíveis no Audit'
 id: 2WQz4dwteRahTD71hIHNNc
 status: PUBLISHED
 createdAt: 2023-12-08T14:36:53.841Z
@@ -12,14 +12,14 @@ slugEN: 2023-12-08-headless-cms-events-available-in-audit
 locale: pt
 legacySlug: eventos-do-headless-cms-disponiveis-no-audit
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Adicionamos eventos do Headless CMS aos registros do Audit.'
+announcementSynopsisPT: 'Adicionamos eventos do Headless CMS (Legacy) aos registros do Audit.'
 ---
 
-O [Audit](/pt/docs/tutorials/audit), módulo que registra eventos que acontecem na sua loja para auditoria futura, agora processa eventos do [Headless CMS](/pt/docs/tutorials/gerenciando-paginas) – a solução da VTEX que permite gerenciar conteúdo na web com autonomia para criar, editar e publicar conteúdo por meio do VTEX Admin.
+O [Audit](/pt/docs/tutorials/audit), módulo que registra eventos que acontecem na sua loja para auditoria futura, agora processa eventos do [Headless CMS (Legacy)](/pt/docs/tutorials/gerenciando-paginas) – a solução da VTEX que permite gerenciar conteúdo na web com autonomia para criar, editar e publicar conteúdo por meio do VTEX Admin.
 
 ## O que mudou?
 
-Adicionamos os eventos do Headless CMS listados a seguir aos registros do Audit:
+Adicionamos os eventos do Headless CMS (Legacy) listados a seguir aos registros do Audit:
 
 | Ação | Descrição | Detalhes do evento |
 |---|---|---|
@@ -32,7 +32,7 @@ Adicionamos os eventos do Headless CMS listados a seguir aos registros do Audit:
 | done.invoke.deleteContent | Exclusão de conteúdo. | ID do evento. |
 | done.invoke.deleteContentVariant | Exclusão de uma versão do conteúdo. | ID do evento. |
 
-Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seguintes informações:
+Na coluna **Ação**, todos os eventos do Headless CMS (Legacy) também apresentam as seguintes informações:
 
 * **CONTENT_ID:** código identificador único do conteúdo.
 * **VARIANT_ID:** código identificador único da versão do conteúdo.

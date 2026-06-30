@@ -3,7 +3,7 @@ title: 'Configurar presupuesto para promociones'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z
-updatedAt: 2025-10-13T13:56:04.974Z
+updatedAt: 2026-05-28T13:56:04.974Z
 publishedAt: 2025-10-13T13:56:04.974Z
 firstPublishedAt: 2025-09-10T11:43:30.901Z
 contentType: tutorial
@@ -64,6 +64,21 @@ Si el presupuesto de una promoción se agota y la promoción queda pausada, pued
 5. Actualiza el campo Presupuesto de la promoción con el nuevo límite.
 6. Haz clic en `Aplicar`.
 7. Haz clic en `Salvar`.
+
+## Cómo configurar notificaciones de presupuesto 
+Puedes configurar notificaciones para monitorear el consumo del presupuesto de una promoción y recibir avisos antes de que se alcance el límite.
+
+Para configurar las notificaciones sigue los pasos a continuación:
+
+1. En el **Admin VTEX**, accede a **Promociones > Promociones**.  
+2. Selecciona la promoción deseada.  
+3. En la **sección de presupuestos**, haz clic en el ícono de suma <i class="fas fa-plus" aria-hidden="true"></i> o en el ícono del lápiz <i class="fas fa-pencil-alt" aria-hidden="true"></i>.  
+4. Activa la opción de notificaciones.  
+5. Define los porcentajes de consumo de presupuesto que las activarán, por ejemplo 75%, 80%, 85%, 90%, 95% o 100%.  
+6. En el campo de email, agrega las direcciones que recibirán las notificaciones.  
+7. Haz clic Guardar.
+
+Se envían notificaciones por email cuando el consumo del presupuesto alcanza los porcentajes definidos.
 
 ## Remover el presupuesto de una promoción
 Para desvincular un presupuesto de una promoción sigue estos pasos:

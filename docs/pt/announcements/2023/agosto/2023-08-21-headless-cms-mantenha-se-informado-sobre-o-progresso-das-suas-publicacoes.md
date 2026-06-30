@@ -1,5 +1,5 @@
----
-title: 'Headless CMS: mantenha-se informado sobre o progresso das suas publicações'
+﻿---
+title: 'Headless CMS (Legacy): mantenha-se informado sobre o progresso das suas publicações'
 id: 3ajb4FgE6nmqjblpSEg3SP
 status: PUBLISHED
 createdAt: 2023-08-21T12:33:36.149Z
@@ -12,12 +12,12 @@ slugEN: 2023-08-21-headless-cms-stay-informed-on-your-publication-progress
 locale: pt
 legacySlug: headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Mantenha-se informado sobre as etapas de publicação do Headless CMS e identifique rapidamente erros de publicação.'
+announcementSynopsisPT: 'Mantenha-se informado sobre as etapas de publicação do Headless CMS (Legacy) e identifique rapidamente erros de publicação.'
 ---
 
-O Headless CMS agora conta com uma funcionalidade de notificação que mantém você informado durante cada etapa do processo de publicação. As novas notificações fornecem atualizações sobre cada estágio de uma publicação no VTEX Headless CMS, mantendo os usuários informados sobre os estágios de compilação (build) da publicação em Lançamentos, VTEX Headless CMS e FastStore. 
+O Headless CMS (Legacy) agora conta com uma funcionalidade de notificação que mantém você informado durante cada etapa do processo de publicação. As novas notificações fornecem atualizações sobre cada estágio de uma publicação no VTEX Headless CMS (Legacy), mantendo os usuários informados sobre os estágios de compilação (build) da publicação em Lançamentos, VTEX Headless CMS (Legacy) e FastStore. 
 
-![Headless CMS - Notificações](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/agosto/2023-08-21-headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes_1.gif)
+![Headless CMS (Legacy) - Notificações](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/agosto/2023-08-21-headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes_1.gif)
 
 Essa funcionalidade também permite identificar e relatar erros durante o deploy, indicando o estágio exato do erro. Além de oferecer a opção de refazer os deploys, se necessário.
 
@@ -35,10 +35,10 @@ Com esta funcionalidade, agora você pode acompanhar o status de cada estágio d
 
 Caso ocorra um erro durante a implementação, a notificação indicará o estágio em que se deu o erro. Você pode clicar em `Tentar novamente` para refazer o deploy.
 
-![Headless CMS - Novo deploy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/agosto/2023-08-21-headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes_2.gif)
+![Headless CMS (Legacy) - Novo deploy](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/agosto/2023-08-21-headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes_2.gif)
 
 ## Por que fizemos essa mudança?
 A funcionalidade de notificação permite que você tenha maior autonomia para entender e resolver os problemas relacionados às publicações da loja, possibilitando identificá-los e relatá-los com precisão, além de repetir o processo de publicação.
 
 ## O que precisa ser feito?
-Nenhuma ação é necessária, já que essa funcionalidade já foi implementada no Headless CMS.
+Nenhuma ação é necessária, já que essa funcionalidade já foi implementada no Headless CMS (Legacy).

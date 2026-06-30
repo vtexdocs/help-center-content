@@ -1,9 +1,9 @@
 ---
-title: 'Legacy CMS Portal'
+title: 'CMS Portal (Legacy)'
 id: 1oN446gRGcR2s70RvBCAmj
 status: PUBLISHED
 createdAt: 2022-01-10T20:17:10.358Z
-updatedAt: 2024-08-06T16:52:09.507Z
+updatedAt: 2026-04-29T18:54:39.664Z
 publishedAt: 2024-08-06T16:52:09.507Z
 firstPublishedAt: 2022-01-10T20:41:44.261Z
 contentType: trackArticle
@@ -15,130 +15,78 @@ trackSlugEN: cms
 order: 3
 ---
 
+The CMS Portal (Legacy) was the first Content Management System (CMS) on VTEX and is no longer available for new accounts. If you're using the CMS Portal (Legacy), you can continue accessing and managing your store content using this guide.
+
+For new features and modern resources, consider migrating to one of our latest CMS solutions: **[CMS](https://developers.vtex.com/docs/guides/cms-for-faststore-storefronts)**, the recommended CMS solution for stores developed with [FastStore](https://developers.vtex.com/docs/guides/faststore), or **[Site Editor](https://help.vtex.com/docs/tutorials/site-editor-overview)**, the CMS solution for stores developed with [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
+
+In this guide, you'll learn how to use the CMS Portal (Legacy) to manage your store content, including creating and organizing layouts, configuring pages and folder structures, and getting familiar with VTEX native controls available for templates.
+
 ## Layout
 
-The [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you to create your storefront with HTML and CSS. It is organized into folders and files with specific purposes:
+The [Layout](https://help.vtex.com/docs/tutorials/layout-subcategory) section allows you to build your storefront with HTML and CSS.
 
-![CMS - Layout EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_1.png)
+![CMS - Layout PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-portal-legado_1.png)
 
-- **HTML Templates:** build the HTML code and reference JavaScript and CSS files to be used in the website pages.
+This section is organized into folders and files with the following functions:
 
-- **Shelves Templates:** manage Shelves templates, i.e., components responsible for rendering a group of products in the storefront.
+- **HTML Templates:** Build the HTML code and reference JavaScript and CSS files to be used in the website pages.
 
-- **Custom Elements:** create the necessary conditions to implement reusable components, such as Footers, in other parts of the store.
+- **Shelves Templates:** Manage [shelves](/en/docs/tutorials/what-are-shelves) [templates](https://help.vtex.com/docs/tutorials/what-are-templates) — the components that render a group of products on the storefront.
 
-- **URL Builder:** redirect existing URLs to others of interest. This will avoid indexing errors and help maintain SEO rankings.
+- **Custom Elements:** Create the necessary conditions to implement reusable components, such as footers, in other areas of the store.
 
-- **Files Manager:** upload image files for your store website. Store JavaScript, CSS, and image files of the website. If you want to use any of these files in your store, you must reference them within the **HTML Templates** section.
+- **URL Builder:** Redirect existing URLs to others of interest. This will avoid indexing errors and help maintain SEO rankings.
 
-- **Product Cluster (Collections):** create product groups. You can use them to build Campaign or Product Collection landing pages that load specific product clusters.
+- **Files Manager:** Upload image files for your store website. Store JavaScript, CSS, and image files of the website. If you want to use any of these files in your store, you must reference them within the **HTML Templates** section.
 
-- **Sites and Channels:** configure [your store binding](/en/docs/tutorials/what-is-binding) and other License Manager settings. To learn more, please refer to the [CMS folder structure](/en/docs/tutorials/cms-folder-structure) article.
+- **Product Cluster (Collections):** Create product groups. You can use them to build Campaign or Product Collection landing pages that load specific product clusters.
 
-## Settings
+- **Sites and Channels:** Configure [your store's binding](/pt/docs/tutorials/o-que-e-binding) and other License Manager settings. To learn more, see the [CMS folder structure](/https://help.vtex.com/docs/tutorials/cms-folder-structure) article.
 
-The [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM) section allows you to configure settings related to your store website, such as its metadata, SEO tags, file types, and more. 
+## CMS Portal (Legacy) folder structure
 
-![CMS - Settings EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_2.png)
+On VTEX, every new account comes with preinstalled folders in the CMS. Some of these folders are **required**.
 
-The **Settings** section is structured as follows.
+To ensure proper navigation and indexing, every store must have the following folders in the CMS:
 
-- **General:** General settings related to the store metadata and shopping options, such as the home page title and the maximum quantity of SKUs in the cart.
-- **SEO:** Options for customizing SEO keywords and meta tags.
-- **Store texts:** Database of reusable text variables that are rendered in the storefront.
-- **File types:** Settings related to asset files, such as image dimensions and size. 
-- **Geographical areas:** Database of the geographical regions where the store products are available.
-
-## Legacy CMS folder structure
-
-At VTEX, every new account has folders preinstalled on its CMS. Some of them are __required__. 
-
-If your store does not have these folders - __with the exact names__ we indicate in this article - you will have browsing and indexing problems.
-
-The other folders are merely __recommended__, since they are useful to most stores. Its absence does not affect the accounts.
-
-### Required folders 
-
-These are the folders that every store needs to have in the CMS to ensure the correct operation of browsing and indexing:
-
-- Busca (Search)
-- Categoria (Category)
-- Departamento (Department)
+- Search
+- Category
+- Departament
 - Login
-- Produto (Product)
+- Product
 
-See below these basic folders in the CMS:
+![2 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-portal-legado_3.png)
 
-![pastasObrigatorias](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_3.png)
+> ⚠️ **Don't change** the names of the required folders. If these folders aren't named exactly as specified above, you'll encounter navigation and indexing issues. Because these folders refer to dynamic pages, their names don't appear in the customer's navigation or in the final URL paths, so they **don't affect the site's internationalization**. On the other hand, the names of **[layouts](https://help.vtex.com/docs/tutorials/what-are-layouts) within these folders** can be freely edited without affecting store functionality.
 
-These folders come by default in the environment of all VTEX stores.
+The other folders aren't required. These are only suggestions, as they’re important and useful for most stores. Therefore, we recommend that you don’t delete them. They are as follows:
 
-> ❗ The names of the required folders must **not** be edited.
+- `/account`: Customer account
+- `/account/orders`: Customer orders
+- `/system/emptrysearch`: Folder the user is directed to if the search returns no results.
+- `/system/{codigoHTTP}`: Folder that renders error pages according to HTTP status codes, like 404 (page not found), 401 (unauthorized), and 500 (server error).
+- `/brands`: Folder containing brand page layouts, which can be customized with an exclusive layout. If no specific layout is available for brands, these pages will be rendered using the same layout as the search folder. To understand how brand pages work, see the article [How VTEX search works](https://help.vtex.com/docs/tutorials/how-does-vtex-search-legacy-work).
 
-Since folders refer to dynamic pages, their names don't appear on the customer's navigation. In other words, the fact that editing the names is banned does not affect the final text of your URLs, nor the internationalization of your site.
+Since these folders aren't required, you can rename them as you see fit. In these cases, what matters is the [control](https://developers.vtex.com/docs/guides/list-of-controls-for-templates) or the [placeholder](https://help.vtex.com/docs/tutorials/managing-placeholders) reading their contents.
 
-Layout names can be edited without any problem.
+## VTEX native controls
 
-### Important folders
+In the CMS Portal (Legacy), [controls](https://help.vtex.com/docs/tutorials/what-are-controls) are markers that you include in **HTML templates** to display dynamic store data. For example, they can display the product name and price, a search box, or a breadcrumb, without requiring you to reimplement this logic on every page.
 
-Some CMS folders are not required but are useful. Hence, we recommend that you do not delete them.
+VTEX provides **native controls**. When you publish the template, the platform recognizes each control and renders the corresponding content or functionality in the storefront.
 
-These are:
-- `/account`: customer's account.
-- `/account/orders`: customer's orders.
+For example, by using the `<vtex.cmc:productName/>` control on a product page, the system will display the product name on the page.
 
-For these two folders, what matters is the control or placeholder that reads their content. Their names can be freely edited.
+To use a control, include the tag in the desired location within the template's HTML. What the control generates appears exactly in this position in the published layout.
 
-> ⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
+> ℹ️ In the [list of controls for templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates), you can find all native controls and their respective uses.
 
-### Useful folders
+## Learn more
 
-There are folders that, although not as important as the previous ones, are often useful for most stores. They are the following:
+- **[Creating and editing a page template](https://help.vtex.com/docs/tutorials/how-to-create-a-page-template):** Learn how to create a page template. A page template is a model created to define an HTML structure for presenting page content.
 
-- `/sistema/buscavazia`: folder to which the user is directed if the search finds no results.
-- `/sistema/{codigoHTTP}`: folder that renders error pages according to HTTP status codes, such as `404` (page not found), `401` (unauthorized), and `500` (server error).
-- `/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [on VTEX search](/en/docs/tutorials/how-does-vtex-search-work).
+- **[Associating a template with a layout](https://help.vtex.com/docs/tutorials/associating-a-template-with-a-layout):** Associate a template with a layout using the Sites and Channels folder.
 
-## VTEX's native controls
-Controls are snippets of codes that you can use in your website's templates to perform specific actions.
+- **[What is the purpose of the Customized Control?](https://help.vtex.com/docs/tutorials/what-is-the-purpose-of-the-customized-control):** Besides VTEX native controls, you can create your own controls.
 
-At VTEX, you will find a number of native controls to render various functionalities.
-
-For example, if you use the `<vtex.cmc:productName/>` control on a product page, the system will provide the product name to be displayed on the screen.
-
-To add a control, just paste it into the code. The result will be rendered at the position of the code where it is added.
-
-### List of Native VTEX Controls
-
-You can check out all available native controls and their respective uses in our [List of controls for templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
-
-## References
-- [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
-- [Layout folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
-- [What are templates?](/en/docs/tutorials/what-are-templates)
-- [What is a website?](/en/docs/tutorials/what-is-a-web-site)
-- [What are controls?](/en/docs/tutorials/what-are-controls)
-- [What are layouts?](/en/docs/tutorials/what-are-layouts)
-- [What are shelves?](/en/docs/tutorials/what-are-shelves)
-- [What is binding?](/en/docs/tutorials/what-is-binding)
-
-## Guides
-- [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
-
-- [Associating a template with a layout](/en/docs/tutorials/associating-a-template-with-a-layout): Associate a template with a layout using the Sites and Channels folder.
-
-- [Managing placeholders](/en/docs/tutorials/managing-placeholders): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
-
-- [Using VTEX's native controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
-
-- [What is the purpose of the Customized Control?](/en/docs/tutorials/what-is-the-purpose-of-the-customized-control): In addition to VTEX's native controls, you can create your own controls.
-
-## Controls
-- [List of controls for templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
-- [Search control – fulltextSearchBox](/en/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
-- [Collection highlight control](/en/docs/tutorials/collection-highlight-control)
-- [Breadcrumb control](/en/docs/tutorials/breadcrumb-control)
-- [Shelf template controls](/en/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
-- 
+- **[Storefront Settings - Storefront](https://help.vtex.com/docs/tutorials/store-settings---storefront-subcategory):** Set general definitions for your storefront, like metadata, SEO tags, file types, image dimensions, and regional settings to determine where your products will be available.
