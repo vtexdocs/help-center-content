@@ -23868,6 +23868,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Kit",
+                    "es": "Mercado Libre Kit",
+                    "pt": "Mercado Livre Kit"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-kit",
+                    "es": "mercado-libre-kit",
+                    "pt": "mercado-livre-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Promotions Center",
                     "es": "Central de promociones Mercado Libre",
                     "pt": "Central de Promoções Mercado Livre"
@@ -49505,12 +49520,12 @@
               "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
-                "pt": "Amazon Processo de cancelamento de pedidos"
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
-                "pt": "amazon-processo-de-cancelamento-de-pedidos"
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -50884,13 +50899,13 @@
             {
               "name": {
                 "en": "Shopee Freight value mismatch on seller logistics orders",
-                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
-                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
+                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
               },
               "slug": {
                 "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
-                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -62958,13 +62973,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
-                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
+                "es": "Las transacciones permanecen en estado de autorización pendiente a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas no status \"Autorização Pendente\", apesar da aprovação do conector."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
+                "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -63055,6 +63070,21 @@
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
                 "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization despite connector approval",
+                "pt": "Transações presas em \"Autorização Pendente\" apesar da aprovação do conector.",
+                "es": "Transactions stuck in Pending Authorization despite connector approval"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
