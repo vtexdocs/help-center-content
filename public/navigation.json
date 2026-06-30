@@ -28916,6 +28916,51 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Directa",
+                    "es": "Configurar pago con Directa",
+                    "pt": "Configurar pagamento com Directa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directa",
+                    "es": "configurar-pago-con-directa",
+                    "pt": "configurar-pagamento-com-directa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Directo",
+                    "es": "Configurar pago con Directo",
+                    "pt": "Configurar pagamento com Directo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directo",
+                    "es": "configurar-pago-con-directo",
+                    "pt": "configurar-pagamento-com-directo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Divibank",
+                    "es": "Configurar pago con Divibank",
+                    "pt": "Configurar pagamento com Divibank"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-divibank",
+                    "es": "configurar-pago-con-divibank",
+                    "pt": "configurar-pagamento-com-divibank"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Dock",
                     "es": "Configurar pago con Dock",
                     "pt": "Configurar pagamento com a Dock"
@@ -29254,6 +29299,36 @@
                     "en": "setting-up-payments-with-getnet-chile",
                     "es": "configurar-pago-con-getnet-chile",
                     "pt": "configurar-pagamento-com-getnet-chile"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPay-Redeban",
+                    "es": "Configurar pago con GlobalPay-Redeban",
+                    "pt": "Configurar pagamento com GlobalPay-Redeban"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpay-redeban",
+                    "es": "configurar-pago-con-globalpay-redeban",
+                    "pt": "configurar-pagamento-com-globalpay-redeban"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPayments",
+                    "es": "Configurar pago con GlobalPayments",
+                    "pt": "Configurar pagamento com GlobalPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpayments",
+                    "es": "configurar-pago-con-globalpayments",
+                    "pt": "configurar-pagamento-com-globalpayments"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -53618,13 +53693,13 @@
             {
               "name": {
                 "en": "Unsupported fields by the Intelligent Search API returning empty",
-                "es": "Campos no admitidos por la API de búsqueda inteligente que se devuelven vacíos",
-                "pt": "Campos não suportados pela Intelligent Search API retornando vazios"
+                "es": "Los campos no compatibles con la API de búsqueda inteligente devuelven un valor vacío.",
+                "pt": "Campos não suportados pela API de Busca Inteligente retornando vazios"
               },
               "slug": {
                 "en": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
-                "es": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-                "pt": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios"
+                "es": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+                "pt": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios"
               },
               "origin": "",
               "type": "markdown",
