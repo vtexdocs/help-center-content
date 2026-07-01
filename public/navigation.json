@@ -56,6 +56,37 @@
             },
             {
               "name": {
+                "en": "Julho",
+                "es": "Julho",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "julho",
+                "es": "julho",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Delivery Promise disponível em Open Beta",
+                    "en": "Delivery Promise disponível em Open Beta",
+                    "es": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "pt": "2026-07-01-delivery-promise-em-open-beta",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "June",
                 "es": "Junio",
                 "pt": "Junho"
