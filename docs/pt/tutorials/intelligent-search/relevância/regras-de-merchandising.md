@@ -53,6 +53,21 @@ Considere as recomendações a seguir para utilizar regras de merchandising na s
 
 > ⚠️ Se o resultado de busca não estiver adequado, não recomendamos criar regras de merchandising para corrigi-lo, pois isso pode ser um indício de algum outro problema de configuração. Nesse caso, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
+### Interação entre regras de merchandising criadas no editor manual e no editor visual
+
+Ao utilizar regras de merchandising criadas no [editor visual](https://help.vtex.com/pt/docs/tutorials/criar-regra-de-merchandising-editor-visual) em conjunto com regras de merchandising criadas no [editor manual](https://help.vtex.com/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual), os efeitos podem se sobrepor.
+
+Se uma outra regra de merchandising criada em qualquer um dos editores já estiver promovendo ou reordenando produtos dentro do mesmo contexto (por exemplo, para o mesmo termo de busca, categoria ou filtro), as ações realizadas no editor visual, como *pinar* ou *mover* um produto, podem não refletir corretamente na pré-visualização ou no resultado final da busca.
+
+Nesse caso, o produto afetado por múltiplas regras pode não aparecer na posição esperada.
+
+Para evitar comportamentos inesperados, recomendamos:
+
+* Verificar se já existem regras de merchandising (visuais ou manuais) aplicadas ao mesmo contexto antes de criar uma nova.  
+* Concentrar ajustes de ordenação e promoção em um único tipo de regra, sempre que possível.
+
+Além disso, as ações de pinar ou arrastar produtos para outra posição em uma regra de merchandising criada no editor visual equivalem ao efeito de promover produtos em uma regra de merchandising criada no editor manual. Por isso, recomenda-se não usar ambos os métodos simultaneamente para o mesmo contexto de busca.
+
 ## Saiba mais
 
 * [Lista de Regras de merchandising](/pt/docs/tutorials/lista-de-regras-de-merchandising)

@@ -70,8 +70,8 @@ In addition to the standard fields for all articles, check the specific fields f
 
 #### Track fields
 
-- **trackId**: Track article identification.
 - **trackSlugEN**: Track slug identification.
+- **order**: Defines the article's position in the track sidebar navigation. Must be a positive integer. Articles are displayed in ascending order.
 
 #### Troubleshooting fields
 

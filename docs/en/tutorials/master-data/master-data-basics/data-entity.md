@@ -23,6 +23,8 @@ For example, imagine a system that controls a library. This system controls book
 
 With these concepts in mind, you can set up several data control scenarios in Master Data. By default, the following data entities are considered: customer, address, stores, etc. You can create as many data entities as you want to develop a customized environment tailored to your store's needs.
 
+> ℹ️ Data entities created by your operation are considered custom entities and are subject to a monthly charge. Learn more in [Custom data entities](/docs/tutorials/master-data).
+
 > ⚠️ This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more: <ul> <li>[Master Data version features](/en/docs/tutorials/master-data#available-versions)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
 ## Data types

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Adicionar componente do Live Shopping'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED
@@ -19,7 +19,7 @@ Depois que seu evento estiver [configurado no Bundle](/pt/docs/tracks/usar-studi
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [FastStore](#faststore)
 
 > ⚠️ Após configurar o componente **Live Shopping**, as alterações podem levar de cinco a dez minutos para serem refletidas no storefront devido ao cache.
@@ -49,9 +49,9 @@ Para lojas que usam [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado), si
 6. Clique em **CMS > Templates HTML**.
 7. Cole o código no arquivo HTML desejado.
 
-## Headless CMS
+## Headless CMS (Legacy)
 
-Para lojas que usam [Headless CMS](/pt/docs/tutorials/headless-cms-visao-geral), siga as etapas abaixo para adicionar o componente **Live Shopping**: 
+Para lojas que usam [Headless CMS (Legacy)](/pt/docs/tutorials/headless-cms-visao-geral), siga as etapas abaixo para adicionar o componente **Live Shopping**: 
 
 1. Na página **Informações do evento** do [evento criado](/pt/docs/tracks/criar-evento), clique no ícone de seta.
 2. Acesse a sessão de **Configuração do CMS**.
@@ -73,7 +73,7 @@ Para adicionar o componente **Live Shopping** ao seu projeto, siga os passos aba
 1. No Admin VTEX, acesse **Apps > Live Shopping > Eventos**, ou digite **Eventos** na barra de busca no topo da página.
 2. Na coluna **Ação**, clique na seta para acessar a [página do evento](/pt/docs/tutorials/live-shopping-eventos). 
 3. Na seção **Detalhes**, copie o `ID`, um código único composto por letras e números. Você pode usar o botão `Copiar para área de transferência`. 
-4. Acesse **Storefront > Headless CMS**, ou digite **Headless CMS** na barra de busca no topo da página.
+4. Acesse **Storefront > Headless CMS (Legacy)**, ou digite **Headless CMS (Legacy)** na barra de busca no topo da página.
 5. Selecione a página em que deseja adicionar o **Live Shopping Player**.
 6. Na aba `Seções`, adicione o reprodutor de mídia clicando em `+` **Adicionar seção** no local desejado. 
 7. Na janela **Adicionar seção**, clique em **Live Shopping Player**.

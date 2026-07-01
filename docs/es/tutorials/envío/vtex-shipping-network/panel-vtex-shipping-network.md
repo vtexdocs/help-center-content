@@ -15,6 +15,8 @@ locale: es
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+> ⚠️ Esta funcionalidad no está disponible para nuevos clientes.
+
 > ⚠️ Atención: Esta funcionalidad se encuentra en fase beta abierta
 
 VTEX Shipping Network utiliza los datos de rastreo de los pedidos directamente de las transportadoras, manteniéndolo a usted y a su cliente actualizados sobre el status de cada entrega. Los **paneles de VTEX Shipping Network** gestionan los datos obtenidos de VTEX Shipping Network, para que usted pueda extraer información inteligente para la gestión de su logística. 

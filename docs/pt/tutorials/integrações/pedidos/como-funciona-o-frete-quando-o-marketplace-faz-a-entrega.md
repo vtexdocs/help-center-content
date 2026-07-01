@@ -3,7 +3,7 @@ title: 'Como funciona o frete quando a entrega é feita pelo marketplace (FOB)'
 id: EY1l6tYW3IUquwwwcQqwQ
 status: PUBLISHED
 createdAt: 2017-08-28T23:17:57.225Z
-updatedAt: 2024-02-05T15:48:24.006Z
+updatedAt: 2026-06-12T16:00:24.006Z
 publishedAt: 2024-02-05T15:48:24.006Z
 firstPublishedAt: 2017-08-29T20:09:40.790Z
 contentType: tutorial
@@ -15,43 +15,82 @@ locale: pt
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
-Pedidos realizados via marketplaces que têm frete tipo FOB (Free on board, Mercado Full Envios, B2W Entrega), em que a definição de tipo de entrega, sua cobrança e emissão da etiqueta são todas realizadas pelo marketplace, não determinam uma transportadora ao integrar na VTEX.
+Alguns marketplaces operam com frete do tipo **FOB** (*Free on Board*), no qual a entrega é de responsabilidade do próprio marketplace. Isso significa que ele define o tipo de entrega, calcula e cobra o frete do comprador e emite a etiqueta de envio, cabendo à loja apenas separar o produto e despachá-lo.
 
-Esse fluxo evita validações desnecessárias do pedido, simplifica a configuração da integração e evita a falta de integração por bloqueio nestes detalhes. No entanto, pode trazer algumas dúvidas e até mesmo necessidade de adequação da integração com o ERP para os pedidos do marketplace.
+Neste artigo, você entende como os pedidos com frete do tipo FOB se comportam ao serem integrados à VTEX e quais cuidados tomar na integração com o seu ERP. Esse fluxo simplifica a configuração da integração e evita que o pedido seja bloqueado por divergências nesses detalhes.
 
-## Estoque
+Entenda a seguir como funcionam o estoque, a exibição do pedido, a API e a etiqueta no cenário de frete tipo FOB.
 
-A regra pela escolha do estoque que irá servir o SKU será feita sempre da seguinte maneira:
+## Seleção de estoque
 
-1. Menor quantidade disponível do SKU.
-    > _Para evitar que inventários com pequenas quantidades de itens fiquem represados._
+Nos pedidos com frete realizado pelo marketplace, a VTEX define de qual estoque o SKU será separado. Essa escolha segue sempre os critérios abaixo, em ordem de prioridade:
+
+1. Menor quantidade disponível do SKU, para evitar que inventários com poucas unidades fiquem represados.
 2. Menor tempo de rota entre estoque e doca.
 3. Menor preço de rota entre estoque e doca.
 
-Caso exista mais de um estoque disponível seguindo estes critérios e prioridades, a escolha final será aleatória.
+Se mais de um estoque atender a todos os critérios, a escolha final será aleatória.
 
-Caso o pedido tenha várias unidades de um SKU, é necessário que algum dos estoques tenha a quantidade total, ou então o pedido será barrado pela VTEX, que acusará falta de estoque.
+Caso o pedido tenha várias unidades do mesmo SKU, é necessário que um único estoque tenha a quantidade total. Do contrário, o pedido será barrado pela VTEX, que acusará falta de estoque.
 
-## Pedidos
+## Exibição do pedido no OMS
 
-Como a entrega será feita pelo marketplace, o OMS não trará o valor do frete, já que isso ficou acordado entre o marketplace e o comprador do produto, não trazendo ônus à loja. A informação de prazo que aparece no pedido não é a que o marketplace informou à VTEX, mas sim uma simulação de frete feita no momento de integrar o pedido.
+Os pedidos em que o marketplace é responsável pelo frete apresentam particularidades em como são exibidos no OMS (Order Management System). Confira abaixo os principais pontos de atenção:
 
-No lugar das identificações de transportadora e tipo de entrega é apresentada a informação `vtex:fob_1111`, sendo que `1111` será correspondente ao ID da doca.
 
-## API
+- **Valor do frete:** como a entrega é feita pelo marketplace, o OMS não exibe o valor do frete, pois esse custo foi acordado entre o marketplace e o comprador, sem ônus para a loja.
 
-Assim como na interface do OMS, a API traz a informação `vtex:fob_1111` para os campos __selectedSla__, __deliveryCompany__ e __courierName__. O tempo para __shippingEstimate__ será `0bd`.
+- **Prazo de entrega:** o prazo exibido no pedido não corresponde ao informado pelo marketplace à VTEX, mas sim a uma simulação de frete feita no momento da integração do pedido.
 
-É importante que o ERP esteja adequado à recepção dos dados neste formato.
+- **Transportadora:** no lugar das identificações de transportadora e tipo de entrega, é apresentada a informação `vtex:fob_1111`, em que `1111` corresponde ao ID da doca.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/pedidos/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega_1.png)
+## Consultar os dados do pedido via API
+
+Além da interface do OMS, é possível consultar os dados do pedido diretamente pelo endpoint **Get order** (https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-). Nesse cenário, o retorno também reflete as particularidades do frete tipo FOB.
+
+Assim como no OMS, a informação `vtex:fob_1111` é retornada nos campos `selectedSla`, `deliveryCompany` e `courierName`, e o campo `shippingEstimate` recebe o valor `0bd` (zero dias úteis). Por isso, é importante que o ERP esteja preparado para receber os dados nesse formato.
+
+Veja abaixo um exemplo do objeto `logisticsInfo` retornado pela API em um pedido com frete FOB:
+
+```json
+"logisticsInfo": [
+  {
+    "itemIndex": 0,
+    "selectedSla": "vtex:fob_1",
+    "lockTTL": "7d",
+    "price": 0,
+    "listPrice": 0,
+    "sellingPrice": 0,
+    "deliveryWindow": null,
+    "deliveryCompany": "vtex:fob_1",
+    "shippingEstimate": "0bd",
+    "shippingEstimateDate": null,
+    "slas": null,
+    "shipsTo": null,
+    "deliveryIds": [
+      {
+        "courierId": null,
+        "courierName": "vtex:fob_1",
+        "dockId": "1",
+        "quantity": 1,
+        "warehouseId": "1_1"
+      }
+    ]
+  }
+],
+```
 
 ## Etiqueta
 
-O pedido é enviado em um contrato com os Correios do próprio marketplace. Neste cenário, eles emitem a etiqueta para que a loja faça impressão e use a em seus pacotes, sem a necessidade de outros processos com os Correios, bastando apenas o despacho.
+A etiqueta de envio para este tipo de frete é gerada pelo próprio marketplace. Veja a seguir como ela é disponibilizada e onde acessá-la.
 
-É possível acessar a etiqueta diretamente pelo OMS, abaixo dos itens do pedido. Basta clicar no link e uma nova janela será aberta já com o PDF da etiqueta.
+O envio utiliza o contrato que o marketplace mantém com a transportadora, no caso do exemplo os Correios. É o marketplace quem emite a etiqueta, cabendo à loja apenas imprimir para usá-la no pedido e despachá-lo sem necessidade de outros processos junto à transportadora.
 
-![Etiqueta de entrega pelos Correios (BR) - Marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/pedidos/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega_2.png)
+É possível acessar a etiqueta diretamente pelo OMS. Para isso, siga os passos abaixo:
 
-Caso queria aproveitar a etiqueta dentro do ERP, ela também está disponível em [Marketplace Protocol API](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/order-integration/orders), saiba mais em [New Order Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-collect-orders#scenario-12-order-with-tracking-hints).
+1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca.
+2. Clique no pedido desejado.
+3. Abaixo dos itens do pedido, clique no link **Correios**.
+4. Uma nova janela será aberta com o PDF da etiqueta para impressão.
+
+Para acessar a etiqueta pelo ERP, saiba como em [New Order Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-collect-orders#scenario-12-order-with-tracking-hints).
