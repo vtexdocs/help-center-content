@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Hiding or removing the Live Shopping component'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED
@@ -20,8 +20,8 @@ After [ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3
 Check the instructions that correspond to your frontend solution:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
-* [Legacy CMS Portal](#legacy-cms-portal)
-* [Headless CMS](#headless-cms)
+* [CMS Portal (Legacy)](#legacy-cms-portal)
+* [Headless CMS (Legacy)](#headless-cms)
 * [FastStore](#faststore)
 
 > ❗ If you don't want your audience to view a black screen at the end of the transmission, you can display an end-of-transmission image, as explained below:<ol><li>Before ending the transmission, display the ending image in Bundle or an external studio.</li><li>Hide the **Live Shopping** component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.
@@ -37,24 +37,24 @@ For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF
 
 > ℹ️ After saving the **Live Shopping** component configuration in **Site Editor**, it may take five to ten minutes for the changes to be reflected on the storefront. While the page is being updated, it's good practice to have an image placeholder at the end of the event.
 
-## Legacy CMS Portal
+## CMS Portal (Legacy)
 
-For stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to remove the **Live Shopping** script by following the steps below: 
+For stores using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal), you need to remove the **Live Shopping** script by following the steps below: 
 
 1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 2. Click **CMS > HTML Templates**.
 3. Delete the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#legacy-cms-portal).
 4. Click `Save template` on the top right of the template.
 
-## Headless CMS
+## Headless CMS (Legacy)
 
-For stores using [Headless CMS](/en/docs/tutorials/headless-cms-overview), you need to remove the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
+For stores using [Headless CMS (Legacy)](/en/docs/tutorials/headless-cms-overview), you need to remove the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
 
 ## FastStore
 
 To delete the **Live Shopping** component from a [FastStore](https://developers.vtex.com/docs/guides/faststore) project, follow the steps below:
 
-1. In the VTEX Admin, go to **Storefront > Headless CMS**, or type **Headless CMS** in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Storefront > Headless CMS (Legacy)**, or type **Headless CMS (Legacy)** in the search bar at the top of the page.
 2. Select the page where you added the **Live Shopping Player**.
 3. In the `Sections` tab, go to the **Live Shopping Player** section and click <i class="fas fa-ellipsis-v" aria-hidden="true"></i> **More > Delete**.
 4. Click `Save`.

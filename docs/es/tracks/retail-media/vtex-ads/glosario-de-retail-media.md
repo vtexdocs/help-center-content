@@ -50,4 +50,4 @@ El glosario a continuación reúne los principales términos y conceptos relacio
 | **Cuota de búsqueda (Share of Search)** | Participación de una marca en las búsquedas realizadas en un sitio web. Fórmula: `(Búsquedas de una marca / Total de búsquedas en la categoría) × 100`. |
 | **Participación de mercado (Market share)** | Porcentaje que representa una empresa o producto dentro del total de ventas de un sector o categoría durante un periodo específico. |
 | **Cookies de terceros** | Cookies creadas por dominios distintos del sitio web accedido, utilizadas para seguimiento y anuncios personalizados. |
-
+| **Atribución por visualización (View attribution)** | Modelo de atribución que vincula una conversión a un anuncio cuando el usuario visualizó el anuncio antes de la compra, incluso sin hacer clic. Complementa la atribución por clic, que requiere un clic en el anuncio. |

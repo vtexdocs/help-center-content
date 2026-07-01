@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Insertar componente de Live Shopping'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED
@@ -19,7 +19,7 @@ Una vez que tu evento esté [configurado en Bundle](/es/docs/tracks/usar-studio-
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [FastStore](#faststore)
 
 > ⚠️ Después de configurar el componente de **Live Shopping**, los cambios pueden tardar entre cinco y diez minutos en reflejarse en el storefront debido a la caché.
@@ -49,9 +49,9 @@ En tiendas que utilizan [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado)
 6. Haz clic en **CMS > HTML Templates**.
 7. Pega el código en el archivo HTML deseado.
 
-## Headless CMS
+## Headless CMS (Legacy)
 
-En tiendas que utilizan [Headless CMS](/es/docs/tutorials/headless-cms-vision-general), sigue los pasos a continuación para agregar el componente de **Live Shopping**: 
+En tiendas que utilizan [Headless CMS (Legacy)](/es/docs/tutorials/headless-cms-vision-general), sigue los pasos a continuación para agregar el componente de **Live Shopping**: 
 
 1. En la página **Información del evento** del [evento creado](/es/docs/tracks/crear-evento), haz clic en el ícono de flecha.
 2. Accede a la sección **Configuración CMS**.
@@ -73,7 +73,7 @@ Para insertar el componente de **Live Shopping** en tu proyecto sigue los pasos 
 1. En el Admin VTEX, accede a **Apps > Live Shopping > Eventos**, o ingresa **Eventos** en la barra de búsqueda en la parte superior de la página.
 2. En la columna **Acciones**, haz clic en la flecha para ir a la [página del evento](/es/docs/tutorials/live-shopping-eventos).
 3. En la sección **Detalles**, copia el valor `ID`, un código único compuesto por números y letras. Puedes utilizar el botón `Copiar al portapapeles`.
-4. Accede a **Storefront > Headless CMS**, o ingresa **Headless CMS** en la barra de búsqueda en la parte superior de la página.
+4. Accede a **Storefront > Headless CMS (Legacy)**, o ingresa **Headless CMS (Legacy)** en la barra de búsqueda en la parte superior de la página.
 5. Selecciona la página en la que quieres insertar el componente **Live Shopping Player**.
 6. En la pestaña `Secciones`, agrega el reproductor haciendo clic en `+` **Agregar sección** en el lugar deseado.
 7. En la ventana **Agregar sección**, haz clic en **Live Shopping Player**.

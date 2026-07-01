@@ -1,4 +1,4 @@
----
+﻿---
 title: 'VTEX Status page'
 id: gPhqDn9IQ3c67wbJEX3JJ
 status: PUBLISHED
@@ -81,7 +81,7 @@ Below, we detail the components displayed on the page.
 
 Problems navigating the storefront.
 
-* **Portal/CMS:** Instabilities observed in stores developed with [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) storefront technology.
+* **Portal/CMS:** Instabilities observed in stores developed with [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) storefront technology.
 * **Store Framework:** Instabilities observed in stores developed using [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) storefront technology.
 * **FastStore:** Instabilities observed in stores developed using [FastStore](https://www.faststore.dev/) storefront technology.
 * **Sales App:** Instabilities observed in [Sales App](/en/docs/tracks/what-is-vtex-sales-app), a VTEX solution for assisted sales in physical stores.
