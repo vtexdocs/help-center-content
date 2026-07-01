@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Introducing the new VTEX Sales App Extensibility",
+                    "es": "Conoce el nuevo VTEX Sales App Extensibility",
+                    "pt": "Conheça o novo VTEX Sales App Extensibility"
+                  },
+                  "slug": {
+                    "en": "2026-07-01-introducing-vtex-sales-app-extensibility",
+                    "es": "2026-07-01-conoce-el-nuevo-vtex-sales-app-extensibility",
+                    "pt": "2026-07-01-conheca-o-novo-vtex-sales-app-extensibility"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
