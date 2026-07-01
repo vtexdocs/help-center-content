@@ -1,12 +1,13 @@
 ---
-title: 'Métricas e atribuição do VTEX Ads'
+
+## title: 'Métricas e atribuição do VTEX Ads'
+
 createdAt: '2026-07-01T10:00:00.000Z'
 updatedAt: '2026-07-01T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
 locale: pt
----
 
 O [VTEX Ads](/pt/docs/tracks/retail-media) oferece um conjunto de métricas para ajudar anunciantes, publishers e agências de marketing a medir o desempenho das campanhas e o retorno sobre o investimento em publicidade. As métricas estão disponíveis em todos os dashboards do VTEX Ads como **cards de métricas** no topo de cada tela e como **colunas** nas tabelas correspondentes.
 
@@ -21,15 +22,15 @@ As métricas a seguir descrevem o volume, a eficiência e o resultado direto das
 ### Métricas base
 
 
-| Métrica                            | O que mede                                                                                                                                                       | Fórmula                      |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| **Impressões**                     | Número de vezes que o anúncio foi exibido na tela do usuário, independentemente de *viewability*.                                                                | -                            |
-| **Cliques**                        | Número de cliques no anúncio.                                                                                                                                    | -                            |
-| **Visualizações**                  | Número de visualizações efetivas do anúncio (impressões que atenderam aos critérios de *viewability*).                                                           | -                            |
-| **CTR** (Click-through rate)       | Taxa de cliques. Mede o engajamento do anúncio em relação ao volume de exibições.                                                                                | (Cliques / Impressões) × 100 |
-| **Custo**                          | Investimento total em anúncios no período. Rótulo exibido para o público de anunciantes. O publisher vê o mesmo valor como **Receita com anúncios**.             | -                            |
+| Métrica                            | O que mede                                                                                                                                                                                | Fórmula                      |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| **Impressões**                     | Número de vezes que o anúncio foi exibido na tela do usuário, independentemente de *viewability*.                                                                                         | -                            |
+| **Cliques**                        | Número de cliques no anúncio.                                                                                                                                                             | -                            |
+| **Visualizações**                  | Número de visualizações efetivas do anúncio (impressões que atenderam aos critérios de *viewability*).                                                                                    | -                            |
+| **CTR** (Click-through rate)       | Taxa de cliques. Mede o engajamento do anúncio em relação ao volume de exibições.                                                                                                         | (Cliques / Impressões) × 100 |
+| **Custo**                          | Investimento total em anúncios no período. Rótulo exibido para o público de anunciantes. O publisher vê o mesmo valor como **Receita com anúncios**.                                      | -                            |
 | **Receita com anúncios**           | Valor total recebido pelo publisher com a veiculação de anúncios no período. Rótulo exibido para o público de publishers. Refere-se ao mesmo valor que o **Custo** visto pelo anunciante. | -                            |
-| **CPM** (Custo por mil impressões) | Custo médio por 1.000 impressões.                                                                                                                                | (Custo / Impressões) × 1.000 |
+| **CPM** (Custo por mil impressões) | Custo médio por 1.000 impressões.                                                                                                                                                         | (Custo / Impressões) × 1.000 |
 
 
 ### Conversões e receita
@@ -72,7 +73,7 @@ A janela de atribuição define o período máximo em que uma compra pode ser at
 | Marcas patrocinadas (Sponsored Brands)     | 14 dias          | 14 dias                |
 
 
-Por exemplo, se um usuário clicar em um anúncio de produto patrocinado hoje, uma compra do produto anunciado realizada nos próximos 7 dias pode ser creditada a esse anúncio. Se o usuário apenas visualizar o anúncio, a compra precisa ocorrer em até 1 dia (24 horas) para ser creditada à visualização.
+Por exemplo, se um usuário clicar em um anúncio de produto patrocinado hoje, uma compra do produto anunciado realizada nos próximos sete dias pode ser creditada a esse anúncio. Se o usuário apenas visualizar o anúncio, a compra precisa ocorrer em até um dia (24 horas) para ser creditada à visualização.
 
 ### Atribuição consolidada
 
@@ -83,7 +84,7 @@ O VTEX Ads usa um modelo de **atribuição consolidada**, que considera tanto o 
 
 Todos os formatos são atribuídos por clique e por visualização. Para produtos patrocinados, a atribuição por visualização usa janela de um dia. Para banner, banner em vídeo e marcas patrocinadas, a janela de visualização é de 14 dias.
 
-> ℹ️ A atribuição por visualização depende do **evento de _view_**, um sinal técnico enviado pelo publisher à plataforma que registra que o usuário visualizou o anúncio. Publishers que não enviam o evento de _view_ não geram conversões atribuídas por visualização.
+> ℹ️ A atribuição por visualização depende do **evento de *view***, um sinal técnico enviado pelo publisher à plataforma que registra que o usuário visualizou o anúncio. Publishers que não enviam o evento de *view* não geram conversões atribuídas por visualização.
 
 ### Prioridade de atribuição (Last Touch)
 
@@ -105,12 +106,9 @@ O VTEX Ads usa o modelo **Last Touch**, que credita a conversão à interação 
 A interação do usuário pode gerar dois tipos de venda:
 
 - **Conversão direta:** venda do próprio produto anunciado, atribuída ao anúncio por clique ou por visualização.
-- **Venda Halo:** venda de **outro produto do mesmo seller** para um usuário que interagiu com o anúncio (clique ou visualização), mas não converteu no produto anunciado. Uma venda é classificada como Halo quando todas estas condições ocorrem simultaneamente:
-    - O item vendido pertence ao mesmo seller do anúncio.
-    - Não houve conversão direta atribuída a esse anúncio.
-    - O usuário teve pelo menos uma interação com o anúncio dentro da janela de atribuição.
+- **Venda Halo:** venda de **outro produto não anunciado**, comprado no mesmo pedido influenciado pelo anúncio. É a receita assistida gerada por itens que não eram o produto anunciado, mas foram adquiridos junto por influência do anúncio.
 
-A prioridade Clique > Visualização (Last Touch) também se aplica à classificação Halo: havendo clique e visualização, o clique é considerado a interação elegível.
+Por exemplo, um anúncio de tênis leva o cliente a comprar o tênis (conversão direta) e, no mesmo pedido, uma meia (venda Halo).
 
 ### Mapeamento de produtos
 
@@ -135,15 +133,15 @@ Por **origem da atribuição** (clique, visualização ou ambos):
 Por **tipo de venda** (produto anunciado ou produtos influenciados):
 
 - **Receita direta:** receita das conversões diretas do produto anunciado. Usada em contraposição à receita Halo.
-- **Receita Halo:** receita gerada por vendas Halo, ou seja, de outros produtos do mesmo seller.
+- **Receita Halo:** receita gerada por vendas Halo, ou seja, de outros produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio.
 
 
-| Métrica             | O que mede                                                                                                                         | Fórmula                                 |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| **ROAS**            | Retorno sobre o investimento a partir das conversões atribuídas (clique e visualização combinados).                                | Receita atribuída / Custo               |
-| **ROAS por clique** | Retorno gerado por usuários que clicaram no anúncio. Disponível como métrica complementar para comparação por canal de atribuição. | Receita atribuída a cliques / Custo     |
-| **ROAS Halo**       | Retorno de vendas influenciadas pelo anúncio, sem conversão direta nos produtos da campanha.                                       | Receita Halo / Custo                    |
-| **ROAS total**      | Retorno consolidado, considerando vendas diretas e influenciadas pelo anúncio.                                                     | (Receita direta + Receita Halo) / Custo |
+| Métrica             | O que mede                                                                                                                                                    | Fórmula                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| **ROAS**            | Retorno sobre o investimento a partir das conversões atribuídas (clique e visualização combinados).                                                           | Receita atribuída / Custo               |
+| **ROAS por clique** | Retorno gerado por usuários que clicaram no anúncio. Disponível como métrica complementar para comparação por canal de atribuição.                            | Receita atribuída a cliques / Custo     |
+| **ROAS Halo**       | ROAS de receita assistida: receita de outros produtos do pedido que não eram o anunciado, mas foram influenciados pelo anúncio, dividida pelo investimento.   | Receita Halo / Custo                    |
+| **ROAS total**      | ROAS total: soma a receita direta (produto anunciado) e a receita Halo (outros produtos do mesmo pedido). Mede o impacto total da campanha no pedido inteiro. | (Receita direta + Receita Halo) / Custo |
 
 
 > ℹ️ A receita atribuída por visualização é incluída no cálculo do **ROAS** consolidado, mas não é exibida como métrica isolada nos dashboards ou nas tabelas.
@@ -154,22 +152,20 @@ Comparar o ROAS consolidado com o **ROAS por clique** ajuda a identificar quais 
 
 ## Métricas de vendas influenciadas (Halo)
 
-As métricas Halo medem o impacto indireto do anúncio em vendas de outros produtos do mesmo seller.
+As métricas Halo medem o impacto indireto do anúncio em vendas de outros produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio.
 
 
-| Métrica          | O que mede                                                                                                                                   | Fórmula |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| **Pedidos Halo** | Número de pedidos influenciados pelo anúncio sem conversão direta nos produtos da campanha, mas com compra de outro produto do mesmo seller. | -       |
-| **Receita Halo** | Receita gerada por vendas Halo.                                                                                                              | -       |
-| **Itens Halo**   | Quantidade de itens vendidos em pedidos Halo.                                                                                                | -       |
+| Métrica          | O que mede                                                                              | Fórmula |
+| ---------------- | --------------------------------------------------------------------------------------- | ------- |
+| **Pedidos Halo** | Número de pedidos com pelo menos um item Halo.                                          | -       |
+| **Receita Halo** | Receita de produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio. | -       |
+| **Itens Halo**   | Quantidade de itens Halo vendidos.                                                      | -       |
 
 
 ## Disponibilidade e acesso aos dados
 
 - As métricas base e de conversão estão disponíveis historicamente, sem restrição de data.
-- A atribuição consolidada para produtos patrocinados e a taxa de conversão consolidada como métrica padrão entram em vigor em **1º de julho de 2026**.
 - O **ROAS por clique** não exibe dados anteriores a 25 de março de 2026.
-- **ROAS Halo** e **ROAS total** ficam ocultos no card do dashboard até a disponibilização da filtragem por seller, permanecendo acessíveis via seletor na tabela.
 - A customização de cards e colunas é persistida entre sessões. Publisher e anunciante têm configurações independentes.
 - Quando não há dados para uma métrica, o campo exibe zero.
 
