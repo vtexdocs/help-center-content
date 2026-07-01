@@ -68987,6 +68987,21 @@
           "children": [
             {
               "name": {
+                "en": "Dafiti Installment interest incorrectly increases item sellingPrice in Dafiti orders",
+                "es": "Dafiti El interés de las cuotas aumenta incorrectamente el precio de venta del artículo en los pedidos de Dafiti.",
+                "pt": "Dafiti O cálculo de juros parcelados aumenta incorretamente o preço de venda dos itens em pedidos da Dafiti."
+              },
+              "slug": {
+                "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
+                "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
+                "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza - Main Image not respected",
                 "es": "Magazine Luiza - Imagen principal no respetada",
                 "pt": "Magazine Luiza - Imagem principal não respeitada"
