@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 VTEX ofrece la posibilidad de varios [proveedores de pago](/es/docs/tutorials/afiliaciones-de-gateway) para su negocio en muchos países.
 
-Para identificar las opciones disponibles, ingrese el nombre del país, el proveedor de pago o la disponibilidad de Split de Cobros (Sí/No) en el campo **Search** de la a continuación. También puede optar por mostrar 10, 25, 50 o 100 resultados por página seleccionando el campo **Show Entries**.
+Para identificar las opciones disponibles, utilice el campo de búsqueda o los filtros de país y Split de Cobros a continuación. Haga clic en el nombre de un proveedor para acceder al tutorial de configuración correspondiente.
 
-<iframe src="https://vtexhelp.myvtex.com/tables/payments/es" loading="lazy" title="Lista de Proveedores de Pago por País" width="140%" height="800" style="border:none;"></iframe>
+<PaymentProvidersTable />
 
