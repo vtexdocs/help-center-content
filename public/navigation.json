@@ -38921,6 +38921,37 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Retail media",
+            "es": "Retail media",
+            "pt": "Retail media"
+          },
+          "slug": {
+            "en": "retail-media",
+            "es": "retail-media",
+            "pt": "retail-media"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "VTEX Ads metrics and attribution",
+                "es": "Métricas y atribución de VTEX Ads",
+                "pt": "VTEX Ads metrics and attribution"
+              },
+              "slug": {
+                "en": "vtex-ads-metrics-and-attribution",
+                "es": "metricas-y-atribucion-de-vtex-ads",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
         }
       ]
     },
