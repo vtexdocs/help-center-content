@@ -1,14 +1,12 @@
 ---
-
-## title: 'Métricas e atribuição do VTEX Ads'
-
+title: 'Métricas e atribuição do VTEX Ads'
 createdAt: '2026-07-01T10:00:00.000Z'
 updatedAt: '2026-07-01T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
 locale: pt
-
+---
 O [VTEX Ads](/pt/docs/tracks/retail-media) oferece um conjunto de métricas para ajudar anunciantes, publishers e agências de marketing a medir o desempenho das campanhas e o retorno sobre o investimento em publicidade. As métricas estão disponíveis em todos os dashboards do VTEX Ads como **cards de métricas** no topo de cada tela e como **colunas** nas tabelas correspondentes.
 
 Este artigo descreve as métricas disponíveis e o modelo de atribuição que determina como a plataforma credita conversões aos anúncios.
