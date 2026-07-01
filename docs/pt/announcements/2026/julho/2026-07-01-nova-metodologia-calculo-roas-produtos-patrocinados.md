@@ -12,7 +12,7 @@ tags:
   - VTEX Ads
 ---
 
-A partir de 1º de julho de 2026, o cálculo do **ROAS** exibido para campanhas de **produtos patrocinados** no **VTEX Ads** passa a considerar conversões por clique e por visualização, alinhando-se à metodologia já aplicada aos demais formatos de anúncio. Na mesma data, os dashboards passam a exibir a **taxa de conversão** consolidada, com a quebra por clique disponível como métrica complementar.
+A partir de 1º de julho de 2026, o cálculo do **ROAS** exibido para campanhas de **produtos patrocinados** no **VTEX Ads** passa a considerar conversões por clique e por visualização, alinhando-se à metodologia já aplicada aos demais formatos de anúncio. Na mesma data, os dashboards passam a exibir a **taxa de conversão** consolidada, e com a quebra por clique disponível como métrica complementar.
 
 ## O que mudou?
 
