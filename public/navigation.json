@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "July",
+                "es": "Julio",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "2026-july",
+                "es": "2026-julio",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "New ROAS calculation methodology for Sponsored Products",
+                    "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
+                    "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
+                  },
+                  "slug": {
+                    "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
+                    "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
+                    "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "June",
                 "es": "Junio",
                 "pt": "Junho"
@@ -43716,6 +43747,21 @@
                 "en": "switching-seller-types-do-not-trigger-an-indexing",
                 "es": "el-cambio-de-tipo-de-vendedor-no-provoca-una-indexacion",
                 "pt": "a-troca-de-tipos-de-vendedor-nao-aciona-uma-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Tax UI not showing trade policy exclusion data",
+                "es": "Tax UI no muestra datos de exclusión de política comercial",
+                "pt": "A interface de impostos não está exibindo os dados de exclusão da política comercial."
+              },
+              "slug": {
+                "en": "tax-ui-not-showing-trade-policy-exclusion-data",
+                "es": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
+                "pt": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial"
               },
               "origin": "",
               "type": "markdown",
