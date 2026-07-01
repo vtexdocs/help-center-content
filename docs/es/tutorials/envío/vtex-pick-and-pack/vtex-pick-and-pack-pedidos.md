@@ -3,7 +3,7 @@ title: 'VTEX Pick and Pack: Pedidos'
 id: 3rGbJlyedHdbWjvZ52p95b
 status: PUBLISHED
 createdAt: 2023-12-14T17:26:02.135Z
-updatedAt: 2024-01-05T17:31:16.218Z
+updatedAt: 2026-06-26T00:00:00.000Z
 publishedAt: 2024-01-05T17:31:16.218Z
 firstPublishedAt: 2023-12-19T15:00:12.093Z
 contentType: tutorial
