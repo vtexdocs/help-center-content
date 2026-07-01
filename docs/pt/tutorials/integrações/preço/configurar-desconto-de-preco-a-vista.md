@@ -55,7 +55,7 @@ Depois de definir o meio de pagamento no Checkout, configure a loja para exibir 
 
 #### Store Framework
 
-Em lojas desenvolvidas com Store Framework, essa funcionalidade está disponível nativamente por meio do componente `vtex.product-price`, no bloco `product-stop-price`.
+Em lojas desenvolvidas com Store Framework, essa funcionalidade está disponível nativamente por meio do componente `vtex.product-price`, no bloco `product-spot-price`.
 
 Para mais informações, consulte a documentação do componente [Product Price](https://developers.vtex.com/docs/apps/vtex.product-price).
 
