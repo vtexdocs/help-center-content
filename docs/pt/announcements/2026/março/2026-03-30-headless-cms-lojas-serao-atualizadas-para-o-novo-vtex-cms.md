@@ -9,7 +9,7 @@ slugEN: 2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms
 locale: pt
 announcementSynopsisPT: 'A partir de 30 de março de 2026, a VTEX começará a atualizar automaticamente as lojas que usam o Headless CMS (Legacy) (Legado) para o novo VTEX CMS.'
 tags:
-  - Improvement
+  - Melhoria
   - Storefront
 ---
 
