@@ -23868,6 +23868,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Kit",
+                    "es": "Mercado Libre Kit",
+                    "pt": "Mercado Livre Kit"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-kit",
+                    "es": "mercado-libre-kit",
+                    "pt": "mercado-livre-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Promotions Center",
                     "es": "Central de promociones Mercado Libre",
                     "pt": "Central de Promoções Mercado Livre"
@@ -28916,6 +28931,51 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Directa",
+                    "es": "Configurar pago con Directa",
+                    "pt": "Configurar pagamento com Directa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directa",
+                    "es": "configurar-pago-con-directa",
+                    "pt": "configurar-pagamento-com-directa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Directo",
+                    "es": "Configurar pago con Directo",
+                    "pt": "Configurar pagamento com Directo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directo",
+                    "es": "configurar-pago-con-directo",
+                    "pt": "configurar-pagamento-com-directo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Divibank",
+                    "es": "Configurar pago con Divibank",
+                    "pt": "Configurar pagamento com Divibank"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-divibank",
+                    "es": "configurar-pago-con-divibank",
+                    "pt": "configurar-pagamento-com-divibank"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Dock",
                     "es": "Configurar pago con Dock",
                     "pt": "Configurar pagamento com a Dock"
@@ -29254,6 +29314,36 @@
                     "en": "setting-up-payments-with-getnet-chile",
                     "es": "configurar-pago-con-getnet-chile",
                     "pt": "configurar-pagamento-com-getnet-chile"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPay-Redeban",
+                    "es": "Configurar pago con GlobalPay-Redeban",
+                    "pt": "Configurar pagamento com GlobalPay-Redeban"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpay-redeban",
+                    "es": "configurar-pago-con-globalpay-redeban",
+                    "pt": "configurar-pagamento-com-globalpay-redeban"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPayments",
+                    "es": "Configurar pago con GlobalPayments",
+                    "pt": "Configurar pagamento com GlobalPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpayments",
+                    "es": "configurar-pago-con-globalpayments",
+                    "pt": "configurar-pagamento-com-globalpayments"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -44807,12 +44897,12 @@
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
                 "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
-                "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
+                "pt": "Carrinhos criados a partir da substituição de pedidos não recebem promoções corretamente."
               },
               "slug": {
                 "en": "carts-created-from-order-replacement-do-not-receive-promotions-correctly",
                 "es": "los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente",
-                "pt": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente"
+                "pt": "carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -49430,12 +49520,12 @@
               "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
-                "pt": "Amazon Processo de cancelamento de pedidos"
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
-                "pt": "amazon-processo-de-cancelamento-de-pedidos"
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -50643,21 +50733,6 @@
             },
             {
               "name": {
-                "en": "Netshoes - Main Image not respected",
-                "es": "Netshoes - Imagen principal no respetada",
-                "pt": "Netshoes - Imagem principal não respeitada"
-              },
-              "slug": {
-                "en": "netshoes-main-image-not-respected",
-                "es": "netshoes-imagen-principal-no-respetada",
-                "pt": "netshoes-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order approved in the marketplace but not integrated into VTEX",
                 "es": "Orden aprobada en el marketplace pero no integrada en VTEX",
                 "pt": "Pedido aprovado no marketplace mas não integrado à VTEX"
@@ -50778,21 +50853,6 @@
             },
             {
               "name": {
-                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
-                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
-              },
-              "slug": {
-                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
-                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Shopee Error “The model_id is wrong or not related to this item”",
                 "es": "Shopee Error \"El model_id es incorrecto o no está relacionado con este artículo\"",
                 "pt": "Shopee Erro \"O model_id está errado ou não está relacionado a este item\""
@@ -50839,13 +50899,13 @@
             {
               "name": {
                 "en": "Shopee Freight value mismatch on seller logistics orders",
-                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
-                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
+                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
               },
               "slug": {
                 "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
-                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -53002,6 +53062,21 @@
             },
             {
               "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Highlights doesn't work into a product list",
                 "es": "Los productos destacados no funcionan en una lista de productos",
                 "pt": "Os destaques de produtos não funcionam em uma lista de produtos"
@@ -53633,13 +53708,13 @@
             {
               "name": {
                 "en": "Unsupported fields by the Intelligent Search API returning empty",
-                "es": "Campos no admitidos por la API de búsqueda inteligente que se devuelven vacíos",
-                "pt": "Campos não suportados pela Intelligent Search API retornando vazios"
+                "es": "Los campos no compatibles con la API de búsqueda inteligente devuelven un valor vacío.",
+                "pt": "Campos não suportados pela API de Busca Inteligente retornando vazios"
               },
               "slug": {
                 "en": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
-                "es": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-                "pt": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios"
+                "es": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+                "pt": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios"
               },
               "origin": "",
               "type": "markdown",
@@ -62898,13 +62973,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
-                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
+                "es": "Las transacciones permanecen en estado de autorización pendiente a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas no status \"Autorização Pendente\", apesar da aprovação do conector."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
+                "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62995,6 +63070,21 @@
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
                 "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization despite connector approval",
+                "pt": "Transações presas em \"Autorização Pendente\" apesar da aprovação do conector.",
+                "es": "Transactions stuck in Pending Authorization despite connector approval"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -68828,6 +68918,51 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes - Main Image not respected",
+                "es": "Netshoes - Imagen principal no respetada",
+                "pt": "Netshoes - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "netshoes-main-image-not-respected",
+                "es": "netshoes-imagen-principal-no-respetada",
+                "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
+              },
+              "slug": {
+                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Mapper does not support dynamic categories — attributes that unlock additional required subcategories",
+                "es": "Shopee Mapper no admite categorías dinámicas: atributos que desbloquean subcategorías adicionales requeridas.",
+                "pt": "O Shopee Mapper não suporta categorias dinâmicas — atributos que desbloqueiam subcategorias adicionais obrigatórias."
+              },
+              "slug": {
+                "en": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
+                "es": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
+                "pt": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias"
               },
               "origin": "",
               "type": "markdown",
