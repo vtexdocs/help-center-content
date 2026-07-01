@@ -13,11 +13,11 @@ tags:
   - VTEX Sales App
 ---
 
-O [VTEX Sales App Extensibility](https://help.vtex.com/pt/docs/tutorials/extensibilidade-no-vtex-sales-app) está disponível em open beta para todas as lojas VTEX. A funcionalidade permite que lojistas e parceiros personalizem a jornada padrão de vendas por meio de extensões em pontos predefinidos da interface, sem a necessidade de criar soluções do zero.
+O [VTEX Sales App Extensibility](https://help.vtex.com/pt/docs/tutorials/extensibilidade-no-vtex-sales-app) permite ao lojista personalizar a jornada padrão de vendas por meio de extensões em pontos predefinidos da interface, sem a necessidade de criar soluções do zero. A funcionalidade está disponível em open beta para todas as lojas VTEX.
 
 ## O que mudou?
 
-O **VTEX Sales App Extensibility** permite ao Sales App integrar-se com APIs externas e interagir com dados de outras aplicações com segurança e estabilidade. Com ela, é possível renderizar componentes e adicionar recursos em oito pontos de extensão predefinidos, disponíveis nos seguintes contextos da jornada de venda:
+O **VTEX Sales App Extensibility** permite ao Sales App integrar-se com APIs externas e interagir com dados de outras aplicações com segurança e estabilidade. Com a solução, é possível renderizar componentes e adicionar recursos em oito pontos de extensão predefinidos, disponíveis nos seguintes contextos da jornada de venda:
 
 * Carrinho de compras (`cart.cart-item.after`, `cart.cart-list.after`) e checkout (`cart.order-summary.after`):
 
@@ -43,6 +43,6 @@ Alguns exemplos de casos de uso do **VTEX Sales App Extensibility** são a integ
 
 ## O que precisa ser feito?
 
-A implementação do **VTEX Sales App Extensibility** é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir a documentação técnica para implementar as extensões: [Sales App Extensions implementation](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
+A implementação do **VTEX Sales App Extensibility** é responsabilidade dos lojistas e parceiros, e para isso, recomendamos seguir a documentação técnica para implementar as extensões: [Sales App Extensions implementation](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
 > ℹ️ Utilize o [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill) como auxiliar nas etapas de definição e implementação do projeto.
