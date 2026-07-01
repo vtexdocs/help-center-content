@@ -50,3 +50,4 @@ O glossário a seguir reúne os principais termos e conceitos relacionados ao Re
 | **Share de Busca (Share of Search)** | Participação de uma marca nas buscas feitas em um site. Fórmula: `(Buscas pela marca / Total de buscas na categoria) × 100`. |
 | **Share de Venda (Market Share)** | Participação de uma empresa ou produto nas vendas totais de um setor ou categoria em um período específico. |
 | **Third-party cookies** | Cookies criados por domínios diferentes do site acessado. Utilizados para rastreamento e anúncios personalizados. |
+| **Atribuição por visualização (View attribution)** | Modelo de atribuição que credita uma conversão a um anúncio quando o usuário visualizou o anúncio antes da compra, mesmo sem clicar. Complementa a atribuição por clique, que exige um clique no anúncio. |

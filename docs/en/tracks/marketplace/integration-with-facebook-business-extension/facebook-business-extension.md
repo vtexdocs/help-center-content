@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Facebook Business Extension'
 id: 434Z1iWnaa0zbOMDyr6oi
 status: PUBLISHED
@@ -37,7 +37,7 @@ Learn more about the required configuration for each in our [Facebook Business E
 
 Facebook Pixel allows you to measure your business advertising effectiveness by tracking the user actions on your website. You can use Facebook Pixel capabilities natively by integrating the [Facebook Business Extension app](https://apps.vtex.com/vtex-facebook-fbe/p) and Conversions API.
 
-The integration to use Facebook Pixel is currently available for VTEX IO and Legacy CMS Portal stores. If your store uses the Legacy CMS system, you need to configure Pixel manually in the system. Learn more in the [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend) article.
+The integration to use Facebook Pixel is currently available for VTEX IO and CMS Portal (Legacy) stores. If your store uses the Legacy CMS system, you need to configure Pixel manually in the system. Learn more in the [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend) article.
 
 If your store uses the old Facebook Pixel app from the App Store, you should check if the app has been uninstalled correctly, otherwise Facebook events may be duplicated.
 

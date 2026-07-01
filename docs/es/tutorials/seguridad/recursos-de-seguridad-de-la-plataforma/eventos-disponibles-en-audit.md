@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
@@ -34,7 +34,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [Gestión de sellers](#gestion-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -64,6 +64,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Order Cancellation | Cancelación de un pedido. | ID del pedido. |
 | Start Handling  | Acción que le indica a VTEX que la tienda comenzó a preparar determinado pedido. Esto desencadena la continuidad del flujo de dicho pedido.  | ID del pedido.  |
 | Notify Payment | Envío de notificación de pago de un pedido determinado. | ID del pedido. |
+| GetUnmaskedPersonalInformation | Lectura de información personal expuesta de determinado pedido. | ID del pedido. |
+| UpdatePersonalInformation | Actualizar la información personal de determinado pedido. | ID del pedido. |
 
 ## Autorización del pedido
 
@@ -177,11 +179,20 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
-| LIST_GIFT_CARD | Consultación de la lista de tarjetas de regalo. | list-gift-card |
-| EXPORT_GIFT_CARD | Exportación de tarjetas de regalo. | export-gift-card |
-| EDIT_GIFT_CARD | Edición del valor de la tarjeta de regalo. | add-gift-card-value |
-| CREATE_GIFT_CARD | Creación de tarjeta de regalo. | create-multiple-gift-cards |
-| LIST_CARDS_FROM_API | Búsqueda de tarjetas de regalo nativas. | list-gift-card-api |
+| LIST_GIFT_CARD | Consultar la lista de tarjetas de regalo. | list-gift-card |
+| EXPORT_GIFT_CARD | Exportar tarjetas de regalo. | export-gift-card |
+| EDIT_GIFT_CARD | Editar el valor de la tarjeta de regalo. | add-gift-card-value |
+| CREATE_GIFT_CARD | Crear tarjeta de regalo. | create-multiple-gift-cards |
+| LIST_CARDS_FROM_API | Buscar tarjetas de regalo nativas. | list-gift-card-api |
+| LIST_GIFT_CARD_TRANSACTIONS | Ver las transacciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| VIEW_GIFT_CARD_CONDITIONS | Ver las condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_CONDITIONS | Crear condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| EDIT_GIFT_CARD_CONDITIONS | Editar las condiciones de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| EDIT_GIFT_CARD_CONFIGURATION | Editar la configuración de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_CANCELLATION | Registrar la cancelación de las tarjetas de regalo. | ID de la tarjeta de regalo. |
+| CREATE_GIFT_CARD_SETTLEMENT | Registrar la liquidación de las tarjeta de regalo. | ID de la tarjeta de regalo. |
+| INSERT_GIFT_CARD_CREDITS | Insertar créditos en tarjeta de regalo. | ID de la tarjeta de regalo. |
+| GET_UNMASKED_PII | Visualización de información de identificación personal (PII) sin enmascarar. | ID de la tarjeta de regalo. |
 
 ## Checkout
 
@@ -221,6 +232,11 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Resource Access Denied | Acceso al recurso denegado. | Clave del recurso e ID del usuario al que se le denegó. |
 | Create New AppToken | Creación de clave de aplicación. | Clave de aplicación creada. |
 | Create Sponsor Invite | Crear invitación para usuario titular. | ID del usuario que recibirá la invitación. |
+| Create Storefront Custom Resource | Creación de recurso personalizado de frente de tienda. | Recurso personalizado de frente de tienda creado. |
+| Delete Storefront Custom Resource | Eliminación de recurso personalizado de frente de tienda. | Recurso personalizado de frente de tienda eliminado. |
+| Create Storefront Custom Role | Creación de role personalizado de frente de tienda. | Role personalizado de frente de tienda creado. |
+| Delete Storefront Custom Role | Eliminación de role personalizado de frente de tienda. | Role personalizado de frente de tienda eliminado. |
+| Update Storefront Custom Role | Actualización de role personalizado de frente de tienda. | Role personalizado de frente de tienda actualizado. |
 
 ## VTEX ID
 
@@ -228,8 +244,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 |---|---|---|
 | PasswordCreated | El usuario registra una contraseña por primera vez en la tienda o en el Admin VTEX. | ID de usuario. |
 | PasswordUpdated | El usuario cambia su contraseña de la tienda o del Admin VTEX. | ID de usuario. |
-| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario. |
-| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario. |
+| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario, login de usuario, dirección IP, audience, si el usuario es administrador, proveedor de identidad, si se utilizó MFA, host, encabezado X-Forwarded-For, agente de usuario y referer. |
+| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario, login de usuario, audience, si el usuario es administrador, host, encabezado X-Forwarded-For, agente de usuario y referer. |
 | IdentityProviderChanged | Cambios en la configuración del proveedor de identidad. Por ejemplo, cuando se crea una integración OAuth personalizada, o se modifica la información de una configuración OAuth existente. | Proveedor de identidad. |
 
 ## Master Data
@@ -245,7 +261,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | UpdateSchema | Creación o edición de schema en Master Data v2. | Nombre del schema. |
 | DeleteSchema | Eliminación de schema en Master Data v2. | Nombre del schema. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
@@ -260,7 +276,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | Create new media | Creación de archivo multimedia. | ID del evento. |
 | Delete media | Eliminación de archivo multimedia. | ID del evento. |
 
-En la columna **Acción**, todos los eventos de Headless CMS también muestran la siguiente información:
+En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también muestran la siguiente información:
 
 * **CONTENT_ID:** código identificador único de contenido.
 * **VARIANT_ID:** código identificador único de la versión del contenido.

@@ -49,10 +49,10 @@ Para solicitar a ativação da funcionalidade de recomendações de produtos na 
 
 Para lojas implementadas com Store Framework, utilize o componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf), que permite exibir prateleiras de produtos recomendados em diferentes páginas da loja.
 
-### FastStore
+### Headless ou FastStore
 
-Para lojas implementadas com FastStore, consulte a documentação [Implementing product recommendations in FastStore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore) para integrar as APIs de recomendações de produtos na sua loja.
+Para lojas headless ou FastStore, consulte a documentação [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores).
 
-### Headless
+### Mobile
 
-Para implementações headless, utilize as APIs de recomendações de produtos da VTEX para consumir as estratégias de recomendação e exibir os produtos em sua aplicação customizada. Consulte a documentação [Integrating product recommendations in headless stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores) para mais informações sobre como integrar as APIs.
+Para aplicações mobile, consulte a documentação [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores).

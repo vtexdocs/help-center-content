@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Configuring the event'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED
@@ -148,7 +148,7 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 
 To embed the live-streaming app in your storefront with your preferences, you can use the HTML tag found under the **Script for template** field. You must choose one of the following options:
 
-* **CMS template:** For stores using Legacy CMS Portal.
+* **CMS template:** For stores using CMS Portal (Legacy).
 * **External template:** For external stores.
 
 ### Preview

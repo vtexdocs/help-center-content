@@ -1,4 +1,4 @@
----
+﻿---
 title: "Configuring promotions with highlights / flags"
 id: tutorials_2295
 status: PUBLISHED
@@ -25,7 +25,7 @@ In this guide, you will find the following sections:
 - [Restrictions](#restrictions)
 - [Configuring a promotion](#configuring-a-promotion)
 - [Promotion highlight in Store Framework](#promotion-highlight-in-store-framework)
-- [Promotion highlight in Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
+- [Promotion highlight in CMS Portal (Legacy)](#promotion-highlight-in-legacy-cms-portal)
   - [Page template](#page-template)
   - [Shelves template](#Shelves-template)
 
@@ -63,15 +63,15 @@ Follow the instructions below to configure promotions in your store.
 6. Follow the instructions corresponding to the frontend technology used by your store:
 
 - [Store Framework](#promotion-highlight-in-store-framework)
-- [Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
+- [CMS Portal (Legacy)](#promotion-highlight-in-legacy-cms-portal)
 
 ## Promotion highlight in Store Framework
 
 For stores developed using Store Framework, after configuring the promotion highlight, follow the instructions in the documentation for the [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights) component.
 
-## Promotion highlight in Legacy CMS Portal
+## Promotion highlight in CMS Portal (Legacy)
 
-For Legacy CMS Portal stores, after configuring the promotion highlight, configure the [page template](#configure-the-page-template) and [shelves template](#configure-the-shelves-template) in the CMS module. In addition, your CSS must be configured for this function.
+For CMS Portal (Legacy) stores, after configuring the promotion highlight, configure the [page template](#configure-the-page-template) and [shelves template](#configure-the-shelves-template) in the CMS module. In addition, your CSS must be configured for this function.
 
 ### Page template
 

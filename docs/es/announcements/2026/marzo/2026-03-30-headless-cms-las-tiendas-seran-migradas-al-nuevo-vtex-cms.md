@@ -1,5 +1,5 @@
----
-title: "Headless CMS: las tiendas serán migradas al nuevo VTEX CMS"
+﻿---
+title: "Headless CMS (Legacy): las tiendas serán migradas al nuevo VTEX CMS"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-04-05T11:00:52.219Z
 contentType: updates
@@ -7,13 +7,13 @@ productTeam: CMS
 author: 4oTZzwYoyhy1tDBwLuemdG
 slugEN: 2026-03-30-headless-cms-stores-will-be-upgraded-to-the-new-vtex-cms
 locale: es
-announcementSynopsisES: 'A partir del 30 de marzo de 2026 VTEX comenzará a actualizar automáticamente las tiendas que utilizan Headless CMS (Legado) al nuevo VTEX CMS.'
+announcementSynopsisES: 'A partir del 30 de marzo de 2026 VTEX comenzará a actualizar automáticamente las tiendas que utilizan Headless CMS (Legacy) (Legado) al nuevo VTEX CMS.'
 tags:
   - Optimización
   - Storefront
 ---
 
-A partir del **30 de marzo de 2026** VTEX comenzará a actualizar automáticamente las cuentas de [Headless CMS (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) a la nueva experiencia [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general). 
+A partir del **30 de marzo de 2026** VTEX comenzará a actualizar automáticamente las cuentas de [Headless CMS (Legacy) (Legado)](https://developers.vtex.com/docs/guides/faststore/headless-cms-overview) a la nueva experiencia [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general). 
 
 Esta actualización introduce un sistema de gestión de contenidos moderno y más potente, diseñado para mejorar cómo los equipos crean, colaboran y distribuyen contenido. Permite flujos de trabajo más rápidos, mejor colaboración y una escalabilidad mayor.
 
@@ -34,11 +34,11 @@ Esta actualización introduce un sistema de gestión de contenidos moderno y má
 
 ## ¿Qué cambió?
 
-Las tiendas que actualmente utilizan Headless CMS (Legado) se actualizarán progresivamente al nuevo CMS, brindando una gestión de contenidos más potente. Esto implica lo siguiente:
+Las tiendas que actualmente utilizan Headless CMS (Legacy) (Legado) se actualizarán progresivamente al nuevo CMS, brindando una gestión de contenidos más potente. Esto implica lo siguiente:
 
 * **Se preservan todos los contenidos existentes:** content types, secciones y datos se migrarán automáticamente al nuevo CMS.  
 * **Nueva experiencia de CMS activada:** obtendrás acceso a mejores herramientas de edición de contenido, control de versiones, flujos de trabajo y funcionalidades de colaboración.  
-* **Headless CMS (Legado) permanece accesible:** podrás seguir accediendo a la interfaz anterior de Headless CMS (Legado) durante el período de transición.  
+* **Headless CMS (Legacy) (Legado) permanece accesible:** podrás seguir accediendo a la interfaz anterior de Headless CMS (Legacy) (Legado) durante el período de transición.  
 * **Capacidades mejoradas:** aprovecha las funcionalidades que introduce el nuevo CMS, como generación de contenidos asistida por IA, flujos de trabajo por ramas, soporte multidioma y mejor desempeño y escalabilidad.
 
 Esta actualización está diseñada para ser fluida y no causar interrupciones en tu storefront ni en el contenido existente.
@@ -60,7 +60,7 @@ No se requiere ninguna acción para iniciar la actualización. Sin embargo, reco
 
 * **Revisa la documentación para familiarizarte con el nuevo CMS:**  
   * Guía de usuario: [CMS - Información general](https://help.vtex.com/es/docs/tutorials/cms-informacion-general)   
-  * Guía para desarrolladores: [Upgrading from Headless CMS (legacy) to CMS](https://developers.vtex.com/docs/guides/upgrading-from-headless-cms-legacy-to-cms-overview)
+  * Guía para desarrolladores: [Upgrading from Headless CMS (Legacy) (legacy) to CMS](https://developers.vtex.com/docs/guides/upgrading-from-headless-cms-legacy-to-cms-overview)
 
 * **Valida tu contenido después de la migración:**  
   * En el Admin VTEX, accede a **Storefront > Todos los contenidos,** y asegúrate de que el contenido de tu tienda se muestra correctamente.
