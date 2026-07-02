@@ -15,7 +15,7 @@ The **Analytics** module of VTEX CX Platform allows you to create custom dashboa
 To create a custom dashboard, follow the instructions below:
 
 1. In the **Analytics** module, click the menu next to the **Analytics** name.
-2. Click `+ New dashboard`.
+2. Click <i class="fas fa-plus" aria-hidden="true"></i>`New dashboard`.
 3. Enter a name for the dashboard, select your store currency, and choose a layout.
 4. Click `Save`. The new dashboard will open.
 
@@ -113,7 +113,7 @@ To configure the widget, fill in the fields below:
 1. In **First metric**, enter a name for the first metric and select the source flow.
 2. In **Second metric**, enter a name for the second metric and select the source flow.
 3. In **Third metric**, enter a name for the third metric and select the source flow.
-4. To include other metrics, click `+ Add metric` and fill in the fields.
+4. To include other metrics, click <i class="fas fa-plus" aria-hidden="true"></i>s`Add metric` and fill in the fields.
 5. Click `Save`.
 
 > ℹ️ The Funnel widget requires a minimum of three metrics to generate the visualization and accepts up to five metrics.
