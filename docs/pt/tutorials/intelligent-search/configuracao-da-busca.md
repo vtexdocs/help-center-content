@@ -51,3 +51,17 @@ As configurações de filtros apresentam ajustes relacionados aos filtros exibid
 
     Para voltar a exibir um filtro, clique no X ao lado do nome dele. Se deseja voltar a exibir todos os filtros anteriormente ocultos, clique no X do lado direito do campo.
 
+### Cobertura mínima de resultados para filtros
+
+> ℹ️ Este recurso está disponível sob demanda. Para habilitá-lo, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
+
+Catálogos grandes frequentemente contêm filtros criados a partir de especificações compartilhadas por poucos produtos, poluindo o painel de filtros com opções de baixa cobertura. Com a cobertura mínima ativada, apenas filtros com cobertura significativa são exibidos por padrão.
+
+Filtros em que nenhuma opção atinge um percentual mínimo de cobertura sobre o total de resultados da busca são ocultados automaticamente. É possível excluir filtros específicos dessa regra para que sejam sempre exibidos, independentemente da configuração.
+
+Por exemplo, se a cobertura mínima for definida como 5%, um filtro em que todas as opções se aplicam a menos de 5% dos resultados da busca atual não será exibido. Considere uma busca por "camisa" que retorna 1.000 produtos. Com cobertura mínima de 5%, os filtros são avaliados da seguinte forma:
+
+* O filtro **Cor** cobre 1.000 produtos (100%) e é exibido.
+* O filtro **Tamanho** cobre 600 produtos (60%) e é exibido.
+* O filtro **Tecido** cobre apenas 30 produtos (3%) e é ocultado automaticamente, pois nenhuma de suas opções atinge o percentual mínimo.
+
