@@ -49,7 +49,7 @@ Official agent templates:
 
 | System | MCP (Model Context Protocol) | Description | Credentials required |
 | :---: | :--- | :--- | :---: |
-| -- | -- | Logs unanswered questions or out-of-scope questions and generates data for reports in the [**Analytics**](https://help.vtex.com/pt/docs/tutorials/intelligent-search-analytics). | -- |
+| -- | -- | Logs unanswered questions or out-of-scope questions and generates data for reports in the [**Analytics**](https://help.vtex.com/pt/docs/tutorials/analytics). | -- |
 
 ## Order Cancellation
 
