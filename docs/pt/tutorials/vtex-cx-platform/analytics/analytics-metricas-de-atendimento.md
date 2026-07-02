@@ -24,7 +24,7 @@ Nessa página, você encontra os seguintes controles:
 
 Esses dados são atualizados automaticamente e você consegue visualizar a hora da última atualização ao lado do botão **Atualizar**.
 
-Para configurar as preferências do Live Desk, acesse **Configurações > Live Desk**. Saiba mais no artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+Para configurar as preferências do Live Desk, acesse **Configurações > Live Desk**. Saiba mais no artigo [Configurar o Live Desk](pt/docs/tutorials/configurar-o-live-desk).
 
 ### Monitoramento
 
@@ -78,7 +78,7 @@ Exibe a avaliação de satisfação do cliente (CSAT) coletada ao fim dos atendi
 - **Avaliação por agente:** Nota individual de cada agente, com o número de atendimentos e avaliações recebidas. Os atendentes com as maiores notas aparecerão nessa lista.
 - **Distribuição das avaliações:** Gráfico de barras com o percentual e o número de respostas em cada nível: Muito satisfeito, Satisfeito, Neutro, Insatisfeito e Muito insatisfeito.
 
-> ⚠️ Para exibir o widget de CSAT, ele precisa estar nativo em pelo menos um dos setores do projeto. Caso não esteja ativo, você precisa clicar no botão `Ativar` e ativar em um setor. Para mais informações sobre os setores, leia o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+> ⚠️ Para exibir o widget de CSAT, ele precisa estar nativo em pelo menos um dos setores do projeto. Caso não esteja ativo, você precisa clicar no botão `Ativar` e ativar em um setor. Para mais informações sobre os setores, leia o artigo [Configurar o Live Desk](pt/docs/tutorials/configurar-o-live-desk).
 
 ![Tela de monitoramento 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-3.png)
 
@@ -173,7 +173,7 @@ Essa aba fornece informações dos atendentes no período selecionado. Você tam
 
 Nessa aba, você consegue visualizar as pausas realizadas pelos agentes. Cada coluna se refere a uma pausa personalizada e mostra quanto tempo o atendente pausou no período selecionado.
 
-Para saber como adicionar, remover ou editar as pausas personalizadas, leia o artigo [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configurar-o-live-desk).
+Para saber como adicionar, remover ou editar as pausas personalizadas, leia o artigo [Configurar o Live Desk](pt/docs/tutorials/configurar-o-live-desk).
 
 ## Conversacional (Beta)
 
