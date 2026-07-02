@@ -38,7 +38,7 @@ F --> G
 
 O login em lojas B2B pode ocorrer por diferentes mecanismos de autenticação. Dependendo da configuração da loja e da organização do usuário, a autenticação pode ocorrer por nome de usuário e senha ou por um provedor de identidade externo (IdP).
 
->ℹ️ A definição dos métodos de autenticação utilizados pela organização é feita em uma configuração via API. Saiba mais em [Configuring authentication methods by organizational unit](https://help.vtex.com/pt/docs/tutorials/configuring-authentication-methods-by-organizational-unit).
+>ℹ️ A definição dos métodos de autenticação utilizados pela organização é feita em uma configuração via API. Saiba mais em [Configuring authentication methods by organizational unit](https://help.vtex.com/pt/docs/tutorials/configurar-metodos-de-autenticacao-por-unidade-organizacional).
 
 No componente de login, o comprador primeiro informa seu nome de usuário. A partir desse identificador, a plataforma VTEX determina o contrato associado ao usuário e identifica qual método de autenticação deve ser utilizado.
 
@@ -92,7 +92,7 @@ O fluxo de autenticação ocorre da seguinte forma:
 
 > ℹ️ Os provedores de identidade são configurados pelo lojista. Saiba mais em [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide).
 >
-> A organização compradora precisa também habilitar o login com o provedor de identidade externo no Buyer Portal. Saiba mais em [Enable login for the organization via an external identity provider (IdP)](https://help.vtex.com/pt/docs/tutorials/enable-login-for-the-organization-via-an-external-identity-provider-idp).
+> A organização compradora precisa também habilitar o login com o provedor de identidade externo no Buyer Portal. Saiba mais em [Enable login for the organization via an external identity provider (IdP)](https://help.vtex.com/pt/docs/tutorials/habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo).
 
 O diagrama abaixo ilustra o fluxo de autenticação quando uma organização utiliza um provedor de identidade (IdP) externo.
 
