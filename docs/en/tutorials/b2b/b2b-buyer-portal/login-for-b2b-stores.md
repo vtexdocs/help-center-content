@@ -8,7 +8,7 @@ slugEN: login-for-b2b-stores
 locale: en
 ---
 
-> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
+> ⚠️ This feature is only available for stores using [B2B Buyer Portal](https://help.vtex.com/en/docs/tutorials/b2b-buyer-portal), which is currently available for selected accounts.
 
 In B2B environments, access to the storefront is usually linked to an organization. For this reason, the authentication process may use identifiers other than email and can be integrated with corporate identity systems.
 
