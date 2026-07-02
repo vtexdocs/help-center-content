@@ -24,7 +24,7 @@ On this page, you'll find the following controls:
 
 This data is automatically updated, and you can see the time of the last update next to the **Refresh** button.
 
-To configure Live Desk preferences, go to **Settings > Live Desk**. Learn more in the article [Configure Live Desk](sen/docs/tutorials/configure-live-desk).
+To configure Live Desk preferences, go to **Settings > Live Desk**. Learn more in the article [Configure Live Desk](en/docs/tutorials/manage-live-desk).
 
 ### Monitoring
 
@@ -78,7 +78,7 @@ Displays the customer satisfaction rating (CSAT) collected at the end of support
 - **Rating by agent:** Individual score of each agent, with the number of support tickets and ratings received. Agents with the highest scores will appear on this list.
 - **Rating distribution:** Bar chart with the percentage and number of responses at each level: Very satisfied, Satisfied, Neutral, Dissatisfied, and Very dissatisfied.
 
-> ⚠️ To display the CSAT widget, it must be native in at least one of the project's departments. If it's not active, you need to click the `Activate` button and activate it in a department. For more information about departments, read the article [Configure Live Desk](en/docs/tutorials/configure-live-desk).
+> ⚠️ To display the CSAT widget, it must be native in at least one of the project's departments. If it's not active, you need to click the `Activate` button and activate it in a department. For more information about departments, read the article [Configure Live Desk](en/docs/tutorials/manage-live-desk).
 
 ![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-3.png)
 
@@ -173,7 +173,7 @@ This tab provides agent information in the selected period. You can also filter 
 
 In this tab, you can view the breaks taken by agents. Each column refers to a custom break and shows how long the agent paused in the selected period.
 
-To learn how to add, remove, or edit custom breaks, read the article [Configure Live Desk](en/docs/tutorials/configure-live-desk).
+To learn how to add, remove, or edit custom breaks, read the article [Configure Live Desk](en/docs/tutorials/manage-live-desk).
 
 ## Conversational (Beta)
 
