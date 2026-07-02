@@ -1,5 +1,5 @@
 ---
-title: 'Analytics'
+title: 'Intelligent Search - Analytics'
 id: 6qRMAHDL9hvv3oE0bh8mA1
 status: PUBLISHED
 createdAt: 2024-06-27T16:53:32.304Z
@@ -39,7 +39,7 @@ Los datos que componen el informe se actualizan cada doce horas y contienen la s
 *   **Pedidos**: número de pedidos realizados desde la búsqueda. Para calcular esta métrica, consideramos que la búsqueda genera un pedido cada vez que, después buscar un término, el cliente hace clic en algún producto que aparece en los resultados y luego compra cualquier producto (no necesariamente el producto en el que hizo clic). 
 *   **Ventas**: ingresos totales generados por los pedidos realizados a partir de la búsqueda. El cálculo sigue la misma lógica que la métrica de **Pedidos**, la diferencia es que el resultado refleja los ingresos en lugar del número de pedidos.
 
-> ℹ️ Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que [exportar el informe](/es/docs/tutorials/analytics#exportacion).
+> ℹ️ Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que [exportar el informe](/es/docs/tutorials/intelligent-search-analytics#exportacion).
 
 Cuando se elige [exportar un informe](#exportacion), también existe la posibilidad de generarlo con las __métricas de embudo__. Si se selecciona esa opción, se agregarán 4 nuevas columnas al archivo:
 

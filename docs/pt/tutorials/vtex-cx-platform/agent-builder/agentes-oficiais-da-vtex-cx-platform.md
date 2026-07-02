@@ -49,7 +49,7 @@ Modelos de agentes oficiais:
 
 | Sistema | MCP (Model Context Protocol) | Descrição | Credenciais necessárias |
 | :---: | :---: | :--- | :---: |
-| -- | -- | Registra perguntas sem resposta ou fora do escopo do projeto e gera dados para relatórios no módulo [**Analytics**](https://help.vtex.com/pt/docs/tutorials/analytics). | -- |
+| -- | -- | Registra perguntas sem resposta ou fora do escopo do projeto e gera dados para relatórios no módulo [**Analytics**](https://help.vtex.com/pt/docs/tutorials/intelligent-search-analytics). | -- |
 
 ## Order Cancellation
 
