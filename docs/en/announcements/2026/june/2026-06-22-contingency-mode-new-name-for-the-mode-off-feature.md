@@ -1,7 +1,9 @@
 ---
 title: 'Contingency Mode: New name for the Mode-off feature'
+status: PUBLISHED
 createdAt: 2026-06-10T00:00:00.000Z
 updatedAt: 2026-06-10T00:00:00.000Z
+publishedAt: 2026-06-10T00:00:00.000Z
 contentType: updates
 productTeam: Payments
 slugEN: 2026-06-22-contingency-mode-new-name-for-the-mode-off-feature

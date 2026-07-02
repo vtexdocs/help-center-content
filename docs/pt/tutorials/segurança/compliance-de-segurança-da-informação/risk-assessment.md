@@ -43,7 +43,7 @@ Clique nos itens a seguir para acessar a FAQ referente a cada assunto:
 
 Algumas informações sobre segurança são restritas a usuários logados no Admin VTEX, por isso não estão presentes no VTEX Help Center. Para acessá-las, insira abaixo seu nome de conta VTEX:
 
-<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
+<InsertAccountName id="7AmPOGXykmE9SYyYDzdAZ4" />
 
 > ⚠️ Se está tendo dificuldades para acessar o conteúdo dos FAQs, tente instalar a versão mais recente do aplicativo `vtex.admin-docs` usando a [CLI da VTEX](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) e repetir o processo.
 
@@ -161,7 +161,7 @@ Como operadora de dados, a VTEX trata dados pessoais de compradores somente quan
 * Senhas de sessões (criptografadas)
 * Tokens gerados
 
-A lista de dados acima está descrita no [Data Processing Addendum (DPA)](/pt/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd#data-processing-addendum-dpa).
+A lista de dados acima está descrita no [Data Processing Addendum (DPA)](https://help.vtex.com/docs/tracks/data-protection-roles#data-processing-addendum-dpa).
 
 #### Como a VTEX cumpre a LGPD (Lei Geral de Proteção de Dados) e o GDPR (_General Data Protection Regulation_)?
 
