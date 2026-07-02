@@ -38875,14 +38875,14 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Analytics: Criar dashboard personalizado",
-                    "en": "Analytics: Criar dashboard personalizado",
-                    "es": "Analytics: Criar dashboard personalizado"
+                    "en": "Analytics: Create custom dashboard",
+                    "es": "Analytics: Crear dashboard personalizado",
+                    "pt": "Analytics: Criar dashboard personalizado"
                   },
                   "slug": {
-                    "pt": "analytics-criar-dashboard-personalizado",
-                    "en": "",
-                    "es": ""
+                    "en": "create-analytics-dashboard",
+                    "es": "crear-dashboard-personalizado",
+                    "pt": "analytics-criar-dashboard-personalizado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38899,7 +38899,7 @@
               "slug": {
                 "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
-                "pt": "vtex-cx-platform-analytics"
+                "pt": "analytics-metricas-de-atendimento"
               },
               "origin": "",
               "type": "markdown",
