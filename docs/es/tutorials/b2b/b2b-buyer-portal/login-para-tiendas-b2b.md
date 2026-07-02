@@ -38,7 +38,7 @@ F --> G
 
 El inicio de sesión en tiendas B2B puede realizarse mediante diferentes mecanismos de autenticación. Dependiendo de la configuración de la tienda y de la organización del usuario, la autenticación puede realizarse mediante nombre de usuario y contraseña o a través de un proveedor de identidad (IdP) externo.
 
-> ℹ️ La definición de los métodos de autenticación utilizados por la organización se realiza mediante una configuración a través de API. Más información en [Setting up authentication methods per organization unit](#).
+> ℹ️ La definición de los métodos de autenticación utilizados por la organización se realiza mediante una configuración a través de API. Más información en [Configuring authentication methods by organizational unit](https://help.vtex.com/es/docs/tutorials/configurar-metodos-de-autenticacion-por-unidad-organizativa).
 
 En el componente de inicio de sesión, el comprador primero ingresa su nombre de usuario. A partir de este identificador, la plataforma VTEX determina el contrato asociado con el usuario e identifica el método de autenticación que debe utilizarse.
 
@@ -92,7 +92,7 @@ El flujo de autenticación funciona de la siguiente manera:
 
 > ℹ️ Los proveedores de identidad los configura el retailer. Más información en [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide).
 >
-> La organización compradora también debe activar el inicio de sesión con el proveedor de identidad externo en Buyer Portal. Más información en [Iniciar sesión en la organización a través de un proveedor de identidad externo](#).
+> La organización compradora también debe activar el inicio de sesión con el proveedor de identidad externo en Buyer Portal. Más información en [Enable login for the organization via an external identity provider (IdP)](https://help.vtex.com/es/docs/tutorials/activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo).
 
 El diagrama a continuación ilustra el flujo de autenticación cuando una organización utiliza un proveedor de identidad (IdP) externo.
 
