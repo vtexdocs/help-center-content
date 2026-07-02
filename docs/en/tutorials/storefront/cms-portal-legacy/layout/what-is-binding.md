@@ -1,0 +1,28 @@
+---
+title: 'What is binding?'
+id: 4NcN3NJd0IeYccgWCI8O2W
+status: PUBLISHED
+createdAt: 2018-01-29T18:16:54.508Z
+updatedAt: 2020-01-09T14:52:19.668Z
+publishedAt: 2020-01-09T14:52:19.668Z
+firstPublishedAt: 2018-01-29T20:20:44.103Z
+contentType: tutorial
+productTeam: Identity
+author: authors_24
+slugEN: what-is-binding
+legacySlug: what-is-binding
+locale: en
+subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+order: 2
+---
+
+Website binding is what bridges the CMS (Portal) with the information defined in the License Manager for a specific account name.
+
+That is, it sets that an __account name__ (configured in the License Manager module) is linked to the folder and files structure of a particular __Website__ (defined in the CMS module).
+
+![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-portal-legacy/layout/what-is-binding_1.png)
+
+This is the setting made when an account wants to have more than one store. For each of these stores (which we call [multistores](/docs/tutorials/managing-a-multistore)), you make a binding.
+
+### Related articles
+- [Linking an account name to a website (binding)](/docs/tutorials/linking-an-account-name-to-a-website-binding)

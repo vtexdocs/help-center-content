@@ -157,6 +157,6 @@ Para editar aquellos usuarios administrativos que recibirán notificaciones en c
 
 * [VTEX Shield](/es/docs/tutorials/vtex-shield)
 * [Roles](/es/docs/tutorials/roles)
-* [Usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos)
+* [Usuarios](/es/docs/tutorials/gestionar-usuarios-administradores)
 * [Claves de API](/es/docs/tutorials/claves-de-api)
 

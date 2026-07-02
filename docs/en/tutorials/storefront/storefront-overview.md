@@ -29,9 +29,9 @@ The Content Management section concentrates the tools you need to create, edit, 
 
 The section includes the following pages:
 
-- [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW): Associate your storefront design with a sales channel.  
+- [Layout](/docs/tutorials/layout-subcategory): Associate your storefront design with a sales channel.  
 - __Pages__: Create custom pages for your store.  
-- [Site Editor](/en/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3): Create, edit, publish, and schedule modifications to your storefront components and behavior.  
+- [Site Editor](/docs/tutorials/site-editor-subcategory): Create, edit, publish, and schedule modifications to your storefront components and behavior.  
 - __Banners__: Create rules to display different banners on your storefront.  
 - __Styles__: Manage storefront typography and color palettes.   
 - __Redirects__: Create redirects from one URL in your store to another.  
