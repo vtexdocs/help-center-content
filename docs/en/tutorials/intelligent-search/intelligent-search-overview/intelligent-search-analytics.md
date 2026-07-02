@@ -1,5 +1,5 @@
 ---
-title: 'Analytics'
+title: 'Intelligent Search - Analytics'
 id: 6qRMAHDL9hvv3oE0bh8mA1
 status: PUBLISHED
 createdAt: 2024-06-27T16:53:32.304Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:54:23.587Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: analytics
+slugEN: intelligent-search-analytics
 legacySlug: analytics
 locale: en
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
