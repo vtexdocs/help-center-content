@@ -52765,13 +52765,13 @@
             {
               "name": {
                 "en": "Indexing History page shows high volume of products with indexing delay",
-                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
-                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+                "es": "La página de historial de indexación muestra un alto volumen de productos con retraso en la indexación.",
+                "pt": "A página de histórico de indexação mostra um grande volume de produtos com atraso na indexação."
               },
               "slug": {
                 "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
-                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
-                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+                "es": "la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion",
+                "pt": "a-pagina-de-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
               },
               "origin": "",
               "type": "markdown",
@@ -59539,6 +59539,21 @@
             },
             {
               "name": {
+                "en": "3DS2 Parameters not being validated",
+                "es": "Los parámetros de 3DS2 no se están validando.",
+                "pt": "Parâmetros 3DS2 não estão sendo validados"
+              },
+              "slug": {
+                "en": "3ds2-parameters-not-being-validated",
+                "es": "los-parametros-de-3ds2-no-se-estan-validando",
+                "pt": "parametros-3ds2-nao-estao-sendo-validados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
                 "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
                 "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
@@ -60109,6 +60124,21 @@
             },
             {
               "name": {
+                "en": "Decidir: Partial Refunds - Wrong amount is being refunded to the customers",
+                "es": "Decidir: Reembolsos parciales: se está reembolsando una cantidad incorrecta a los clientes.",
+                "pt": "Decisão: Reembolsos Parciais - O valor reembolsado aos clientes está incorreto."
+              },
+              "slug": {
+                "en": "decidir-partial-refunds-wrong-amount-is-being-refunded-to-the-customers",
+                "es": "decidir-reembolsos-parciales-se-esta-reembolsando-una-cantidad-incorrecta-a-los-clientes",
+                "pt": "decisao-reembolsos-parciais-o-valor-reembolsado-aos-clientes-esta-incorreto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "DecidirV1 Connector's Inconsistent rounding method for CSPTGRANDTOTALAMOUNT and CSITTOTALAMOUNT Fields.",
                 "es": "Método de redondeo inconsistente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT.",
                 "pt": "Método de arredondamento inconsistente do conector DecidirV1 para os campos CSPTGRANDTOTALAMOUNT e CSITTOTALAMOUNT."
@@ -60606,12 +60636,12 @@
               "name": {
                 "en": "For debt with CieloV3 we are not respecting the status of the response",
                 "es": "Para la deuda con CieloV3 no estamos respetando el estado de la respuesta",
-                "pt": "Para a dívida com a CieloV3 não estamos respeitando o status da resposta"
+                "pt": "Para dívidas com a CieloV3, não estamos respeitando o status da resposta."
               },
               "slug": {
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
-                "pt": "para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
+                "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
               },
               "origin": "",
               "type": "markdown",
@@ -60972,6 +61002,21 @@
                 "en": "inconsistency-in-comercial-condition-selection",
                 "es": "incoherencia-en-la-seleccion-de-las-condiciones-comerciales",
                 "pt": "inconsistencia-na-selecao-de-condicoes-comerciais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Inconsistency in creating transactions when the affiliation processing the PSE payment method is switched",
+                "es": "Inconsistencia en la creación de transacciones cuando se cambia la afiliación que procesa el método de pago PSE.",
+                "pt": "Inconsistência na criação de transações quando a afiliação que processa o método de pagamento PSE é alterada."
+              },
+              "slug": {
+                "en": "inconsistency-in-creating-transactions-when-the-affiliation-processing-the-pse-payment-method-is-switched",
+                "es": "inconsistencia-en-la-creacion-de-transacciones-cuando-se-cambia-la-afiliacion-que-procesa-el-metodo-de-pago-pse",
+                "pt": "inconsistencia-na-criacao-de-transacoes-quando-a-afiliacao-que-processa-o-metodo-de-pagamento-pse-e-alterada"
               },
               "origin": "",
               "type": "markdown",
