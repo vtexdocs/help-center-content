@@ -3,6 +3,12 @@
 Upload PR-touched markdown files to Crowdin and update Jira descriptions
 with Crowdin metadata (word count, editor links).
 
+Partial uploads require equivalent EN and/or ES files on main (matched by slugEN
+in frontmatter) plus the existing ≤5-block diff rule. Full source is uploaded
+otherwise. When equivalent locale files exist on main or are added in the PR, they
+are imported as Crowdin translations so reviewers can update existing strings
+instead of translating from scratch.
+
 Commands:
   crowdin_sync.py              Upload touched files to Crowdin
   crowdin_sync.py word-count   Merge word count into a Jira description (CURRENT, COUNT)
@@ -33,6 +39,14 @@ LANGUAGE_ENV_DEFAULTS: dict[str, str] = {
     "CROWDIN_ES_LANGUAGE": "es-mx",
     "CROWDIN_PT_LANGUAGE": "pt-br",
 }
+
+LANGUAGE_ENV_TO_REPO_LOCALE: dict[str, str] = {
+    "CROWDIN_EN_LANGUAGE": "en",
+    "CROWDIN_ES_LANGUAGE": "es",
+    "CROWDIN_PT_LANGUAGE": "pt",
+}
+
+SLUG_EN_PATTERN = re.compile(r"^slugEN:\s*(.+?)\s*$", re.MULTILINE)
 
 
 def env(name: str, default: str = "") -> str:
@@ -323,6 +337,197 @@ def git_diff(base_sha: str, head_sha: str, relative_path: str) -> str:
     return result.stdout
 
 
+def git_file_exists(ref: str, relative_path: str) -> bool:
+    result = subprocess.run(
+        ["git", "cat-file", "-e", f"{ref}:{relative_path}"],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    return result.returncode == 0
+
+
+def git_read_file_at_ref(ref: str, relative_path: str) -> bytes | None:
+    result = subprocess.run(
+        ["git", "show", f"{ref}:{relative_path}"],
+        capture_output=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        return None
+    return result.stdout
+
+
+def parse_slug_en(text: str) -> str | None:
+    if not text.startswith("---"):
+        return None
+    end = text.find("\n---", 3)
+    if end == -1:
+        return None
+    match = SLUG_EN_PATTERN.search(text[3:end])
+    if not match:
+        return None
+    value = match.group(1).strip()
+    if value.startswith(('"', "'")) and value.endswith(value[0]):
+        value = value[1:-1]
+    return value or None
+
+
+def get_slug_en_for_path(path: str, head_sha: str, base_sha: str) -> str | None:
+    for ref in (head_sha, base_sha):
+        content = git_read_file_at_ref(ref, path)
+        if content is None:
+            continue
+        slug_en = parse_slug_en(content.decode("utf-8"))
+        if slug_en:
+            return slug_en
+
+    normalized = path.replace("\\", "/")
+    if normalized.startswith("docs/en/") and normalized.endswith((".md", ".mdx")):
+        return Path(normalized).stem
+    return None
+
+
+def find_en_equivalent_by_slug(ref: str, slug_en: str) -> str | None:
+    """EN files use slugEN as the filename (docs/en/**/{slugEN}.md)."""
+    result = subprocess.run(
+        ["git", "ls-tree", "-r", "--name-only", ref, "--", "docs/en/"],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        return None
+
+    matches: list[str] = []
+    for path in result.stdout.splitlines():
+        if not path.endswith((".md", ".mdx")):
+            continue
+        if Path(path).stem == slug_en:
+            matches.append(path)
+    if len(matches) == 1:
+        return matches[0]
+    return matches[0] if matches else None
+
+
+def normalize_git_grep_path(line: str, ref: str) -> str:
+    line = line.strip()
+    prefix = f"{ref}:"
+    if line.startswith(prefix):
+        return line[len(prefix):]
+    return line
+
+
+def find_locale_equivalent_by_slug(ref: str, locale: str, slug_en: str) -> str | None:
+    """PT/ES equivalents share slugEN in frontmatter but may use different filenames."""
+    pattern = rf"^slugEN:\s*\"?{re.escape(slug_en)}\"?\s*$"
+    matches: list[str] = []
+
+    for search_path in (f"docs/{locale}/", "localization/"):
+        result = subprocess.run(
+            [
+                "git",
+                "grep",
+                "-l",
+                "-E",
+                pattern,
+                ref,
+                "--",
+                search_path,
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        if result.returncode in (0, 1):
+            matches.extend(
+                normalize_git_grep_path(line, ref)
+                for line in result.stdout.splitlines()
+                if line.strip().endswith((".md", ".mdx"))
+            )
+
+    if not matches:
+        return None
+    if len(matches) == 1:
+        return matches[0]
+
+    unique_matches = sorted(set(matches))
+    print(
+        f"Multiple {locale} equivalents for slugEN {slug_en!r} at {ref}: "
+        f"{unique_matches}; using {unique_matches[0]}",
+        file=sys.stderr,
+    )
+    return unique_matches[0]
+
+
+def find_equivalent_path_at_ref(
+    slug_en: str,
+    target_locale: str,
+    ref: str,
+) -> str | None:
+    if target_locale == "en":
+        return find_en_equivalent_by_slug(ref, slug_en)
+    return find_locale_equivalent_by_slug(ref, target_locale, slug_en)
+
+
+def has_equivalent_translations_in_main(
+    source_path: str,
+    base_sha: str,
+    head_sha: str,
+    group: CrowdinUploadGroup,
+) -> bool:
+    slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
+    if not slug_en:
+        return False
+
+    for language_env, _link_bucket in group.target_languages:
+        target_locale = LANGUAGE_ENV_TO_REPO_LOCALE.get(language_env)
+        if not target_locale:
+            continue
+        equivalent_path = find_equivalent_path_at_ref(slug_en, target_locale, base_sha)
+        if equivalent_path and git_file_exists(base_sha, equivalent_path):
+            return True
+    return False
+
+
+def resolve_translation_content(
+    repo_path: str,
+    *,
+    base_sha: str,
+    head_sha: str,
+) -> tuple[bytes, str] | None:
+    """Prefer PR version when present; otherwise use main."""
+    head_content = git_read_file_at_ref(head_sha, repo_path)
+    if head_content is not None:
+        return head_content, "pr"
+    main_content = git_read_file_at_ref(base_sha, repo_path)
+    if main_content is not None:
+        return main_content, "main"
+    return None
+
+
+def import_translation_file(
+    project_id: str,
+    file_id: int,
+    language_id: str,
+    content: bytes,
+    file_name: str,
+) -> int:
+    storage_id = upload_storage_bytes(content, file_name)
+    response = crowdin_request(
+        "POST",
+        f"/projects/{project_id}/translations/imports",
+        data={
+            "storageId": storage_id,
+            "fileId": file_id,
+            "languageIds": [language_id],
+            "importEqSuggestions": False,
+            "autoApproveImported": False,
+        },
+    )
+    return int(response["data"]["identifier"])
+
+
 def parse_added_lines(diff_text: str) -> list[tuple[int, str]]:
     additions: list[tuple[int, str]] = []
     new_line = 0
@@ -369,7 +574,10 @@ def should_upload_partial(
     total_lines: int,
     *,
     new_file: bool,
+    has_existing_translations_in_main: bool,
 ) -> bool:
+    if not has_existing_translations_in_main:
+        return False
     if added_count == 0 or new_file:
         return False
     # Entire file is new content (e.g. new file or full rewrite) → upload full file.
@@ -461,6 +669,68 @@ def highlight_changed_lines(full_text: str, changed_line_numbers: set[int]) -> s
     return "\n".join(highlighted)
 
 
+@dataclass(frozen=True)
+class TranslationImportPlan:
+    language_id: str
+    link_bucket: str
+    repo_path: str
+    content: bytes
+    source_ref: str
+
+
+def collect_translation_imports(
+    source_path: str,
+    *,
+    base_sha: str,
+    head_sha: str,
+    group: CrowdinUploadGroup,
+) -> list[TranslationImportPlan]:
+    slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
+    if not slug_en:
+        print(
+            f"No slugEN found for {source_path}; skipping translation imports",
+            file=sys.stderr,
+        )
+        return []
+
+    imports: list[TranslationImportPlan] = []
+
+    for language_env, link_bucket in group.target_languages:
+        target_locale = LANGUAGE_ENV_TO_REPO_LOCALE.get(language_env)
+        if not target_locale:
+            continue
+
+        equivalent_path = None
+        for ref in (head_sha, base_sha):
+            candidate = find_equivalent_path_at_ref(slug_en, target_locale, ref)
+            if candidate and git_file_exists(ref, candidate):
+                equivalent_path = candidate
+                break
+        if not equivalent_path:
+            continue
+
+        resolved = resolve_translation_content(
+            equivalent_path,
+            base_sha=base_sha,
+            head_sha=head_sha,
+        )
+        if resolved is None:
+            continue
+
+        content, source_ref = resolved
+        imports.append(
+            TranslationImportPlan(
+                language_id=crowdin_language_id(language_env, group.name),
+                link_bucket=link_bucket,
+                repo_path=equivalent_path,
+                content=content,
+                source_ref=source_ref,
+            )
+        )
+
+    return imports
+
+
 @dataclass
 class UploadPlan:
     mode: Literal["full", "partial"]
@@ -469,10 +739,17 @@ class UploadPlan:
     added_line_count: int
     total_line_count: int
     block_count: int
+    has_existing_translations_in_main: bool
     file_context: str | None = None
+    translation_imports: list[TranslationImportPlan] | None = None
 
 
-def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
+def plan_upload(
+    relative_path: str,
+    base_sha: str,
+    head_sha: str,
+    group: CrowdinUploadGroup,
+) -> UploadPlan:
     file_path = Path(relative_path)
     file_name = crowdin_basename(relative_path)
     total_lines = len(file_path.read_text(encoding="utf-8").splitlines())
@@ -481,12 +758,25 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
     blocks = group_consecutive_blocks(additions)
     added_count = len(additions)
     new_file = is_new_file(diff_text)
+    translations_in_main = has_equivalent_translations_in_main(
+        relative_path,
+        base_sha,
+        head_sha,
+        group,
+    )
+    translation_imports = collect_translation_imports(
+        relative_path,
+        base_sha=base_sha,
+        head_sha=head_sha,
+        group=group,
+    )
 
     if should_upload_partial(
         added_count,
         len(blocks),
         total_lines,
         new_file=new_file,
+        has_existing_translations_in_main=translations_in_main,
     ):
         partial_text = format_partial_content(blocks)
         full_text = file_path.read_text(encoding="utf-8")
@@ -498,11 +788,32 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
             added_line_count=added_count,
             total_line_count=total_lines,
             block_count=len(blocks),
+            has_existing_translations_in_main=translations_in_main,
             file_context=format_partial_file_context(
                 relative_path,
                 full_text,
                 changed_line_numbers,
             ),
+            translation_imports=translation_imports,
+        )
+
+    if not translations_in_main:
+        print(
+            f"Using full upload for {relative_path}: "
+            "no equivalent EN/ES files on main (matched by slugEN)",
+            file=sys.stderr,
+        )
+    elif new_file or (total_lines > 0 and added_count >= total_lines):
+        print(
+            f"Using full upload for {relative_path}: "
+            "new file or full rewrite",
+            file=sys.stderr,
+        )
+    elif len(blocks) > 5:
+        print(
+            f"Using full upload for {relative_path}: "
+            f"{len(blocks)} change blocks (>5)",
+            file=sys.stderr,
         )
 
     return UploadPlan(
@@ -512,6 +823,8 @@ def plan_upload(relative_path: str, base_sha: str, head_sha: str) -> UploadPlan:
         added_line_count=added_count,
         total_line_count=total_lines,
         block_count=len(blocks),
+        has_existing_translations_in_main=translations_in_main,
+        translation_imports=translation_imports,
     )
 
 
@@ -630,7 +943,7 @@ def upload_group_files(
             print(f"Skipping missing file: {relative_path}", file=sys.stderr)
             continue
 
-        plan = plan_upload(relative_path, base_sha, head_sha)
+        plan = plan_upload(relative_path, base_sha, head_sha, group)
         crowdin_name = build_crowdin_file_name(
             task_key,
             plan.source_file_name,
@@ -644,6 +957,31 @@ def upload_group_files(
             "md",
             file_context=plan.file_context if plan.mode == "partial" else None,
         )
+
+        imported_translations: list[dict] = []
+        for translation in plan.translation_imports or []:
+            import_id = import_translation_file(
+                project_id,
+                file_id,
+                translation.language_id,
+                translation.content,
+                crowdin_basename(translation.repo_path),
+            )
+            imported_translations.append(
+                {
+                    "repo_path": translation.repo_path,
+                    "language_id": translation.language_id,
+                    "source_ref": translation.source_ref,
+                    "import_id": import_id,
+                }
+            )
+            print(
+                f"[{group.name}] Imported {translation.repo_path} as "
+                f"{translation.language_id} translation for {crowdin_name} "
+                f"(from {translation.source_ref})",
+                file=sys.stderr,
+            )
+
         words = get_file_word_count(project_id, file_id)
         total_words += words
 
@@ -656,6 +994,8 @@ def upload_group_files(
             "added_lines": plan.added_line_count,
             "total_lines": plan.total_line_count,
             "addition_blocks": plan.block_count,
+            "translations_in_main": plan.has_existing_translations_in_main,
+            "imported_translations": imported_translations,
             "crowdin_project_id": project_id,
             "crowdin_group": group.name,
         }

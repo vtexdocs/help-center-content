@@ -20,9 +20,11 @@
 # optional LOC_JIRA_REPORTER_EMAIL_DOMAIN fallback, e.g. @vtex.com).
 #
 # Crowdin: uploads PR-changed files via API, sets word count on the parent and
-# language subtasks, editor links on language subtasks. Partial upload for existing files with
-# changes in ≤5 blocks (not new files); full source file is attached as Crowdin
-# file context with START/END OF UPDATED SECTION markers.
+# language subtasks, editor links on language subtasks. Partial upload only when
+# equivalent EN and/or ES files already exist on main (matched by slugEN in
+# frontmatter) and the PT diff meets the ≤5-block rule; otherwise full source.
+# Existing or PR-added locale files with the same slugEN are imported as Crowdin
+# translations when available.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
 # LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN,
