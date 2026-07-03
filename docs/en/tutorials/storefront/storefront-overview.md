@@ -49,5 +49,5 @@ The following pages are soon to be updated:
 - [Merchandising Rules](/en/docs/tutorials/creating-merchandising-rules-manual-editor): manipulates results within a search.  
 - [Synonyms](/en/docs/tutorials/creating-synonyms): allows the registration of synonyms, or words with the same meaning, for a specific search term, increasing chances of a successful search. 
 - [Indexing Status](/en/docs/tutorials/indexing-history): monitors the sync situation of all Catalog products sent to Intelligent search.
-- [Analytics](/en/docs/tutorials/analytics): organizes data related to searches made in the store, allowing data exportation.
+- [Analytics](/en/docs/tutorials/intelligent-search-analytics): organizes data related to searches made in the store, allowing data exportation.
 
