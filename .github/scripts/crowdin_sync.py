@@ -4,10 +4,11 @@ Upload PR-touched markdown files to Crowdin and update Jira descriptions
 with Crowdin metadata (word count, editor links).
 
 Partial uploads require equivalent EN and/or ES files on main (matched by slugEN
-in frontmatter) plus the existing ≤5-block diff rule. Full source is uploaded
-otherwise. When equivalent locale files exist on main or are added in the PR, they
-are imported as Crowdin translations so reviewers can update existing strings
-instead of translating from scratch.
+in frontmatter) plus the existing ≤5-block diff rule. Rename-aware diffs follow
+git rename detection; numstat rename paths are normalized before processing.
+When multiple locale files share a slugEN, paths that already exist on main
+are preferred over PR-only additions. Duplicate slugEN values on main trigger
+a warning comment on the parent Jira task.
 
 Commands:
   crowdin_sync.py              Upload touched files to Crowdin
@@ -17,6 +18,7 @@ Commands:
 
 from __future__ import annotations
 
+import base64
 import json
 import os
 import re
@@ -47,6 +49,13 @@ LANGUAGE_ENV_TO_REPO_LOCALE: dict[str, str] = {
 }
 
 SLUG_EN_PATTERN = re.compile(r"^slugEN:\s*(.+?)\s*$", re.MULTILINE)
+RENAME_PATH_PATTERN = re.compile(r"\{[^ ]+ => ([^}]+)\}")
+RENAME_STATUS_PATTERN = re.compile(r"^R\d+\t(.+)\t(.+)$")
+
+_current_source_path: str | None = None
+_rename_map: dict[str, str] = {}
+_slug_en_duplicate_keys: set[tuple[str, str, tuple[str, ...]]] = set()
+_slug_en_duplicate_warnings: list[dict[str, object]] = []
 
 
 def env(name: str, default: str = "") -> str:
@@ -272,15 +281,36 @@ def is_eligible_path(relative_path: str) -> bool:
     return path.startswith(PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES)
 
 
+def normalize_changed_path(path: str) -> str:
+    """Resolve git numstat rename syntax (dir/{old => new}) to the new path."""
+    normalized = path.replace("\\", "/").strip()
+    if "{" not in normalized or "=>" not in normalized:
+        return normalized
+
+    parent, _, name = normalized.rpartition("/")
+    if RENAME_PATH_PATTERN.search(name):
+        new_name = RENAME_PATH_PATTERN.sub(r"\1", name)
+        return f"{parent}/{new_name}" if parent else new_name
+    return RENAME_PATH_PATTERN.sub(r"\1", normalized)
+
+
 def changed_files() -> list[str]:
     raw = env("CHANGED_FILES")
     if not raw:
         return []
-    return [
-        line.strip()
-        for line in raw.splitlines()
-        if line.strip().endswith((".md", ".mdx")) and is_eligible_path(line.strip())
-    ]
+    seen: set[str] = set()
+    files: list[str] = []
+    for line in raw.splitlines():
+        path = normalize_changed_path(line.strip())
+        if (
+            path
+            and path.endswith((".md", ".mdx"))
+            and is_eligible_path(path)
+            and path not in seen
+        ):
+            seen.add(path)
+            files.append(path)
+    return files
 
 
 def files_for_prefixes(all_files: list[str], prefixes: tuple[str, ...]) -> list[str]:
@@ -289,6 +319,103 @@ def files_for_prefixes(all_files: list[str], prefixes: tuple[str, ...]) -> list[
         for path in all_files
         if path.replace("\\", "/").startswith(prefixes)
     ]
+
+
+def reset_upload_state() -> None:
+    global _current_source_path, _rename_map
+    _current_source_path = None
+    _rename_map = {}
+    _slug_en_duplicate_keys.clear()
+    _slug_en_duplicate_warnings.clear()
+
+
+def jira_post_comment(issue_key: str, body: str) -> None:
+    base_url = env("LOC_JIRA_BASE_URL").rstrip("/")
+    email = env("LOC_JIRA_USER_EMAIL")
+    token = env("LOC_JIRA_API_TOKEN")
+    if not base_url or not email or not token:
+        raise RuntimeError(
+            "LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, and LOC_JIRA_API_TOKEN "
+            "are required to post Jira comments"
+        )
+
+    credentials = base64.b64encode(f"{email}:{token}".encode()).decode()
+    payload = json.dumps({"body": body}).encode("utf-8")
+    request = urllib.request.Request(
+        f"{base_url}/rest/api/2/issue/{issue_key}/comment",
+        data=payload,
+        method="POST",
+        headers={
+            "Authorization": f"Basic {credentials}",
+            "Content-Type": "application/json",
+        },
+    )
+    try:
+        with urllib.request.urlopen(request) as response:
+            if response.status != 201:
+                raise RuntimeError(
+                    f"Jira comment on {issue_key} failed (HTTP {response.status})"
+                )
+    except urllib.error.HTTPError as error:
+        detail = error.read().decode("utf-8", errors="replace")
+        raise RuntimeError(
+            f"Jira comment on {issue_key} failed (HTTP {error.code}): {detail}"
+        ) from error
+
+
+def note_duplicate_slug_en_on_main(
+    *,
+    slug_en: str,
+    locale: str,
+    main_paths: list[str],
+    chosen_path: str,
+) -> None:
+    key = (slug_en, locale, tuple(sorted(main_paths)))
+    if key in _slug_en_duplicate_keys:
+        return
+    _slug_en_duplicate_keys.add(key)
+    warning = {
+        "slug_en": slug_en,
+        "locale": locale,
+        "main_paths": sorted(main_paths),
+        "chosen_path": chosen_path,
+        "source_path": _current_source_path,
+    }
+    _slug_en_duplicate_warnings.append(warning)
+    paths_list = "\n".join(f"  - {path}" for path in warning["main_paths"])
+    print(
+        f"Duplicate slugEN {slug_en!r} on main for locale {locale}; "
+        f"using {chosen_path}. Files on main:\n{paths_list}",
+        file=sys.stderr,
+    )
+
+
+def post_duplicate_slug_en_jira_comment(task_key: str) -> None:
+    if not _slug_en_duplicate_warnings:
+        return
+
+    lines = [
+        "Duplicate slugEN on main detected during localization automation.",
+        "Multiple files on main share the same slugEN value. "
+        "Please review and resolve the duplicates.",
+        "",
+    ]
+    for index, warning in enumerate(_slug_en_duplicate_warnings, start=1):
+        lines.append(f"{index}. slugEN: {warning['slug_en']} ({warning['locale']})")
+        source_path = warning.get("source_path")
+        if source_path:
+            lines.append(f"   Source file: {source_path}")
+        lines.append("   Files on main:")
+        for path in warning["main_paths"]:
+            lines.append(f"   - {path}")
+        lines.append(f"   Automation used: {warning['chosen_path']}")
+        lines.append("")
+
+    jira_post_comment(task_key, "\n".join(lines).rstrip())
+    print(
+        f"Posted duplicate slugEN on main comment on {task_key}",
+        file=sys.stderr,
+    )
 
 
 @dataclass(frozen=True)
@@ -322,9 +449,94 @@ EN_CROWDIN_GROUP = CrowdinUploadGroup(
 )
 
 
+def build_rename_map(base_sha: str, head_sha: str) -> dict[str, str]:
+    rename_map: dict[str, str] = {}
+    for scope in ("docs/", "localization/"):
+        result = subprocess.run(
+            [
+                "git",
+                "diff",
+                "--name-status",
+                "-M",
+                f"{base_sha}...{head_sha}",
+                "--",
+                scope,
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        if result.returncode not in (0, 1):
+            continue
+        for line in result.stdout.splitlines():
+            match = RENAME_STATUS_PATTERN.match(line)
+            if match:
+                rename_map[match.group(2)] = match.group(1)
+    return rename_map
+
+
+def diff_scope_for_path(relative_path: str, rename_source: str | None) -> str:
+    """Pick a git diff path scope where rename detection still works."""
+    path = relative_path.replace("\\", "/")
+    if rename_source:
+        old = rename_source.replace("\\", "/")
+        old_parts = Path(old).parts
+        new_parts = Path(path).parts
+        common = [
+            left
+            for left, right in zip(old_parts, new_parts, strict=False)
+            if left == right
+        ]
+        if common:
+            return "/".join(common)
+        if path.startswith("docs/"):
+            return "docs/"
+        return "localization/"
+    parent = str(Path(path).parent)
+    return parent if parent != "." else path
+
+
+def extract_file_diff(full_diff: str, relative_path: str) -> str:
+    """Keep only the unified-diff chunk for relative_path (including renames)."""
+    target = relative_path.replace("\\", "/")
+    chunks: list[str] = []
+    current: list[str] = []
+    matches = False
+
+    for line in full_diff.splitlines(keepends=True):
+        if line.startswith("diff --git"):
+            if matches and current:
+                chunks.append("".join(current))
+            current = [line]
+            matches = False
+        else:
+            current.append(line)
+
+        stripped = line.rstrip("\n")
+        if stripped.startswith("+++ b/") and stripped[6:] == target:
+            matches = True
+        elif stripped.startswith("rename to ") and stripped[len("rename to ") :] == target:
+            matches = True
+
+    if matches and current:
+        chunks.append("".join(current))
+
+    return "".join(chunks)
+
+
 def git_diff(base_sha: str, head_sha: str, relative_path: str) -> str:
+    rename_source = _rename_map.get(relative_path.replace("\\", "/"))
+    scope = diff_scope_for_path(relative_path, rename_source)
     result = subprocess.run(
-        ["git", "diff", "-U0", f"{base_sha}...{head_sha}", "--", relative_path],
+        [
+            "git",
+            "diff",
+            "-U0",
+            "-M",
+            f"{base_sha}...{head_sha}",
+            "--",
+            scope,
+        ],
         capture_output=True,
         text=True,
         check=False,
@@ -334,7 +546,32 @@ def git_diff(base_sha: str, head_sha: str, relative_path: str) -> str:
             f"git diff failed for {relative_path}: "
             f"{result.stderr.strip() or result.stdout.strip()}"
         )
-    return result.stdout
+
+    extracted = extract_file_diff(result.stdout, relative_path)
+    if extracted.strip():
+        return extracted
+
+    # Fallback for edge cases (e.g. file-only edits with no rename).
+    fallback = subprocess.run(
+        [
+            "git",
+            "diff",
+            "-U0",
+            "-M",
+            f"{base_sha}...{head_sha}",
+            "--",
+            relative_path,
+        ],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if fallback.returncode not in (0, 1):
+        raise RuntimeError(
+            f"git diff failed for {relative_path}: "
+            f"{fallback.stderr.strip() or fallback.stdout.strip()}"
+        )
+    return fallback.stdout
 
 
 def git_file_exists(ref: str, relative_path: str) -> bool:
@@ -388,7 +625,53 @@ def get_slug_en_for_path(path: str, head_sha: str, base_sha: str) -> str | None:
     return None
 
 
-def find_en_equivalent_by_slug(ref: str, slug_en: str) -> str | None:
+def pick_preferred_equivalent_path(
+    matches: list[str],
+    *,
+    base_sha: str | None,
+    slug_en: str,
+    locale: str,
+) -> str | None:
+    unique = sorted(set(matches))
+    if not unique:
+        return None
+    if len(unique) == 1:
+        return unique[0]
+
+    if base_sha:
+        on_main = [path for path in unique if git_file_exists(base_sha, path)]
+        if on_main:
+            chosen = sorted(on_main)[0]
+            if len(on_main) > 1:
+                note_duplicate_slug_en_on_main(
+                    slug_en=slug_en,
+                    locale=locale,
+                    main_paths=on_main,
+                    chosen_path=chosen,
+                )
+            elif len(unique) > len(on_main):
+                print(
+                    f"Multiple {locale} equivalents for slugEN {slug_en!r}; "
+                    f"preferring existing on main: {chosen}",
+                    file=sys.stderr,
+                )
+            return chosen
+
+    chosen = unique[0]
+    print(
+        f"Multiple {locale} equivalents for slugEN {slug_en!r}; "
+        f"using {chosen}",
+        file=sys.stderr,
+    )
+    return chosen
+
+
+def find_en_equivalent_by_slug(
+    ref: str,
+    slug_en: str,
+    *,
+    base_sha: str | None = None,
+) -> str | None:
     """EN files use slugEN as the filename (docs/en/**/{slugEN}.md)."""
     result = subprocess.run(
         ["git", "ls-tree", "-r", "--name-only", ref, "--", "docs/en/"],
@@ -399,15 +682,17 @@ def find_en_equivalent_by_slug(ref: str, slug_en: str) -> str | None:
     if result.returncode != 0:
         return None
 
-    matches: list[str] = []
-    for path in result.stdout.splitlines():
-        if not path.endswith((".md", ".mdx")):
-            continue
-        if Path(path).stem == slug_en:
-            matches.append(path)
-    if len(matches) == 1:
-        return matches[0]
-    return matches[0] if matches else None
+    matches = [
+        path
+        for path in result.stdout.splitlines()
+        if path.endswith((".md", ".mdx")) and Path(path).stem == slug_en
+    ]
+    return pick_preferred_equivalent_path(
+        matches,
+        base_sha=base_sha,
+        slug_en=slug_en,
+        locale="en",
+    )
 
 
 def normalize_git_grep_path(line: str, ref: str) -> str:
@@ -418,7 +703,13 @@ def normalize_git_grep_path(line: str, ref: str) -> str:
     return line
 
 
-def find_locale_equivalent_by_slug(ref: str, locale: str, slug_en: str) -> str | None:
+def find_locale_equivalent_by_slug(
+    ref: str,
+    locale: str,
+    slug_en: str,
+    *,
+    base_sha: str | None = None,
+) -> str | None:
     """PT/ES equivalents share slugEN in frontmatter but may use different filenames."""
     pattern = rf"^slugEN:\s*\"?{re.escape(slug_en)}\"?\s*$"
     matches: list[str] = []
@@ -446,48 +737,48 @@ def find_locale_equivalent_by_slug(ref: str, locale: str, slug_en: str) -> str |
                 if line.strip().endswith((".md", ".mdx"))
             )
 
-    if not matches:
-        return None
-    if len(matches) == 1:
-        return matches[0]
-
-    unique_matches = sorted(set(matches))
-    print(
-        f"Multiple {locale} equivalents for slugEN {slug_en!r} at {ref}: "
-        f"{unique_matches}; using {unique_matches[0]}",
-        file=sys.stderr,
+    return pick_preferred_equivalent_path(
+        matches,
+        base_sha=base_sha,
+        slug_en=slug_en,
+        locale=locale,
     )
-    return unique_matches[0]
 
 
 def find_equivalent_path_at_ref(
     slug_en: str,
     target_locale: str,
     ref: str,
+    *,
+    base_sha: str | None = None,
 ) -> str | None:
+    prefer_base = base_sha if base_sha and base_sha != ref else None
     if target_locale == "en":
-        return find_en_equivalent_by_slug(ref, slug_en)
-    return find_locale_equivalent_by_slug(ref, target_locale, slug_en)
+        return find_en_equivalent_by_slug(ref, slug_en, base_sha=prefer_base)
+    return find_locale_equivalent_by_slug(
+        ref,
+        target_locale,
+        slug_en,
+        base_sha=prefer_base,
+    )
 
 
-def has_equivalent_translations_in_main(
-    source_path: str,
+def resolve_equivalent_path(
+    slug_en: str,
+    target_locale: str,
+    *,
     base_sha: str,
     head_sha: str,
-    group: CrowdinUploadGroup,
-) -> bool:
-    slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
-    if not slug_en:
-        return False
-
-    for language_env, _link_bucket in group.target_languages:
-        target_locale = LANGUAGE_ENV_TO_REPO_LOCALE.get(language_env)
-        if not target_locale:
-            continue
-        equivalent_path = find_equivalent_path_at_ref(slug_en, target_locale, base_sha)
-        if equivalent_path and git_file_exists(base_sha, equivalent_path):
-            return True
-    return False
+) -> str | None:
+    equivalent_path = find_equivalent_path_at_ref(
+        slug_en,
+        target_locale,
+        head_sha,
+        base_sha=base_sha,
+    )
+    if equivalent_path and git_file_exists(head_sha, equivalent_path):
+        return equivalent_path
+    return find_equivalent_path_at_ref(slug_en, target_locale, base_sha)
 
 
 def resolve_translation_content(
@@ -565,6 +856,10 @@ def group_consecutive_blocks(additions: list[tuple[int, str]]) -> list[list[str]
 
 
 def is_new_file(diff_text: str) -> bool:
+    if not diff_text.strip():
+        return False
+    if "rename from" in diff_text or "similarity index" in diff_text:
+        return False
     return "new file mode" in diff_text
 
 
@@ -678,21 +973,22 @@ class TranslationImportPlan:
     source_ref: str
 
 
-def collect_translation_imports(
+def plan_translation_context(
     source_path: str,
     *,
     base_sha: str,
     head_sha: str,
     group: CrowdinUploadGroup,
-) -> list[TranslationImportPlan]:
+) -> tuple[bool, list[TranslationImportPlan]]:
     slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
     if not slug_en:
         print(
             f"No slugEN found for {source_path}; skipping translation imports",
             file=sys.stderr,
         )
-        return []
+        return False, []
 
+    has_main_equivalent = False
     imports: list[TranslationImportPlan] = []
 
     for language_env, link_bucket in group.target_languages:
@@ -700,14 +996,16 @@ def collect_translation_imports(
         if not target_locale:
             continue
 
-        equivalent_path = None
-        for ref in (head_sha, base_sha):
-            candidate = find_equivalent_path_at_ref(slug_en, target_locale, ref)
-            if candidate and git_file_exists(ref, candidate):
-                equivalent_path = candidate
-                break
+        equivalent_path = resolve_equivalent_path(
+            slug_en,
+            target_locale,
+            base_sha=base_sha,
+            head_sha=head_sha,
+        )
         if not equivalent_path:
             continue
+        if git_file_exists(base_sha, equivalent_path):
+            has_main_equivalent = True
 
         resolved = resolve_translation_content(
             equivalent_path,
@@ -728,7 +1026,7 @@ def collect_translation_imports(
             )
         )
 
-    return imports
+    return has_main_equivalent, imports
 
 
 @dataclass
@@ -750,6 +1048,9 @@ def plan_upload(
     head_sha: str,
     group: CrowdinUploadGroup,
 ) -> UploadPlan:
+    global _current_source_path
+    _current_source_path = relative_path
+
     file_path = Path(relative_path)
     file_name = crowdin_basename(relative_path)
     total_lines = len(file_path.read_text(encoding="utf-8").splitlines())
@@ -758,13 +1059,7 @@ def plan_upload(
     blocks = group_consecutive_blocks(additions)
     added_count = len(additions)
     new_file = is_new_file(diff_text)
-    translations_in_main = has_equivalent_translations_in_main(
-        relative_path,
-        base_sha,
-        head_sha,
-        group,
-    )
-    translation_imports = collect_translation_imports(
+    translations_in_main, translation_imports = plan_translation_context(
         relative_path,
         base_sha=base_sha,
         head_sha=head_sha,
@@ -920,8 +1215,11 @@ def upload_group_files(
     head_sha: str,
     task_key: str,
 ) -> tuple[int, dict[str, list[str]], list[dict]]:
+    global _rename_map
     if not files:
         return 0, {"en": [], "es": []}, []
+
+    _rename_map = build_rename_map(base_sha, head_sha)
 
     project_id = require_project_id(group.project_id_env, group.name)
     project_data = fetch_project_data(project_id)
@@ -1032,6 +1330,8 @@ def upload_files() -> int:
     if not task_key:
         raise RuntimeError("JIRA_TASK_KEY is required")
 
+    reset_upload_state()
+
     all_files = changed_files()
     if not all_files:
         raise RuntimeError("No eligible markdown files to upload to Crowdin")
@@ -1055,6 +1355,8 @@ def upload_files() -> int:
     es_editor_links = "\n".join(link_buckets["es"])
     if not en_editor_links or not es_editor_links:
         raise RuntimeError("Crowdin editor links were not generated")
+
+    post_duplicate_slug_en_jira_comment(task_key)
 
     result = {
         "content_source": group.name,
