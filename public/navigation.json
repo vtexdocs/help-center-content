@@ -25034,21 +25034,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Analytics",
-                    "es": "Analytics",
-                    "pt": "Analytics"
-                  },
-                  "slug": {
-                    "en": "analytics",
-                    "es": "analytics",
-                    "pt": "analytics"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Explained Search",
                     "es": "Explicación de Búsqueda",
                     "pt": "Explicação da busca"
@@ -25072,6 +25057,21 @@
                     "en": "indexing-history",
                     "es": "historial-de-indexacion",
                     "pt": "historico-da-indexacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search - Analytics",
+                    "es": "Intelligent Search - Analytics",
+                    "pt": "Intelligent Search - Analytics"
+                  },
+                  "slug": {
+                    "en": "intelligent-search-analytics",
+                    "es": "intelligent-search-analytics",
+                    "pt": "intelligent-search-analytics"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38875,14 +38875,14 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Analytics: Criar dashboard personalizado",
-                    "en": "Analytics: Criar dashboard personalizado",
-                    "es": "Analytics: Criar dashboard personalizado"
+                    "en": "Analytics: Create custom dashboard",
+                    "es": "Analytics: Crear dashboard personalizado",
+                    "pt": "Analytics: Criar dashboard personalizado"
                   },
                   "slug": {
-                    "pt": "analytics-criar-dashboard-personalizado",
-                    "en": "",
-                    "es": ""
+                    "en": "create-analytics-dashboard",
+                    "es": "crear-dashboard-personalizado",
+                    "pt": "analytics-criar-dashboard-personalizado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38899,7 +38899,7 @@
               "slug": {
                 "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
-                "pt": "vtex-cx-platform-analytics"
+                "pt": "analytics-metricas-de-atendimento"
               },
               "origin": "",
               "type": "markdown",

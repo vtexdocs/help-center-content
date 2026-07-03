@@ -12,7 +12,7 @@ tags:
   - VTEX Ads
 ---
 
-A partir del 1 de julio de 2026, el cálculo del **ROAS** mostrado para campañas de **productos patrocinados** en **VTEX Ads** considerará conversiones por clic y por visualización, alineándose con la metodología ya aplicada a los demás formatos de anuncio. En la misma fecha, el cálculo de la **tasa de conversión** también se actualizará para usar el denominador correspondiente a cada formato.
+A partir del 1 de julio de 2026, el cálculo del **ROAS** mostrado para campañas de **productos patrocinados** en **VTEX Ads** considerará conversiones por clic y por visualización, alineándose con la metodología ya aplicada a los demás formatos de anuncio. En la misma fecha, los dashboards mostrarán la **tasa de conversión** consolidada, con el desglose por clic disponible como métrica complementaria.
 
 ## ¿Qué cambió?
 
@@ -23,15 +23,15 @@ La fórmula del ROAS consolidado se mantiene: ingresos atribuidos a clics y visu
 Otras modificaciones para anunciantes y publicadores:
 
 - El valor de ROAS que se muestra por defecto en los dashboards de campañas, anuncios, anunciantes y publicadores será el ROAS consolidado para todos los formatos.
-- Las columnas **ROAS click** y **ROAS view** estarán disponibles como métricas opcionales para usuarios con permiso de administrador (superAdmin), lo que les permitirá identificar el origen del resultado y compararlo con periodos anteriores. Estas columnas no muestran datos anteriores al 25 de marzo de 2026.
+- La columna **ROAS click** estará disponible como métrica opcional para usuarios con permiso de administrador (superAdmin), lo que les permitirá identificar el origen del resultado y compararlo con periodos anteriores. Esta columna no muestra datos anteriores al 25 de marzo de 2026.
 - Los datos anteriores al 1 de julio de 2026 mantienen el cálculo original. Los informes mostrarán la fecha de corte del cambio para evitar comparaciones no válidas entre periodos.
 - La metodología de banners, videos y **Sponsored Brands** sigue siendo la misma.
 
 > ⚠️ El ROAS reportado para productos patrocinados tenderá a ser mayor tras este cambio. Esto se debe a una medición más completa del retorno generado por los anuncios y no necesariamente a una mejora en el rendimiento de la campaña.
 
-## Ajuste en la tasa de conversión por formato
+## Ajuste en la tasa de conversión
 
-A partir del 1 de julio de 2026, la tasa de conversión también dejará de usar solo clics como denominador para todos los formatos. Cada formato utilizará el denominador adecuado: clics para productos patrocinados y visualizaciones para banners, videos y **Sponsored Brands**. Los dashboards mostrarán **Tasa de conversión (clic)** y **Tasa de conversión (visualización)** por separado, con tooltips que explican el cálculo de cada una.
+A partir del 1 de julio de 2026, los dashboards mostrarán la **tasa de conversión** consolidada por defecto para todos los formatos, usando visualizaciones como denominador para mantener la consistencia entre los tipos de anuncio. La **tasa de conversión por clic** estará disponible como métrica complementaria, con tooltips que explican el cálculo de cada una.
 
 ## ¿Por qué cambió?
 
@@ -42,5 +42,5 @@ La estandarización elimina la incoherencia metodológica entre formatos dentro 
 No es necesaria ninguna acción para que los cambios entren en vigor. Recomendamos que anunciantes y publicadores:
 
 - Consideren el ROAS consolidado como referencia principal a partir del 1 de julio de 2026;
-- Utilicen las columnas **ROAS click** y **ROAS view** (disponibles para usuarios con permiso de administrador) al analizar el origen de los resultados y al comparar campañas con periodos anteriores al cambio.
+- Utilicen la columna **ROAS click** (disponible para usuarios con permiso de administrador) al analizar el origen de los resultados y al comparar campañas con periodos anteriores al cambio.
 

@@ -53,5 +53,5 @@ Las siguientes páginas pronto se incluirán en el nuevo diseño:
 - [Explicación de la búsqueda](/es/docs/tutorials/explicacion-de-busqueda): interpreta un término de búsqueda y muestra la lista de productos como resultado de la búsqueda.  
 - [Reglas de merchandising](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual): manipula los resultados de una búsqueda.   
 - [Historial de indexación](/es/docs/tutorials/historial-de-indexacion): monitorea el status de sincronización de todos los productos del catálogo enviados al Intelligent Search.  
-- [Analytics](/es/docs/tutorials/analytics): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
+- [Analytics](/es/docs/tutorials/intelligent-search-analytics): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
 
