@@ -61,7 +61,7 @@ Para mais informações, consulte a documentação do componente [Product Price]
 
 ## CMS Portal (Legado)
 
-Em lojas CMS Portal (Legado), é necessário informar no template da página de produto qual o meio de pagamento deve ser considerado na renderização do preço à vista. Siga os passos abaixo:
+Em lojas CMS Portal (Legado), é necessário informar no template da página de produto qual o meio de pagamento que deve ser considerado na renderização do preço à vista. Siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout** ou digite **Layout** na barra de busca no topo da página.
 2. Clique na pasta **CMS** e, depois, em **HTML Templates**.
