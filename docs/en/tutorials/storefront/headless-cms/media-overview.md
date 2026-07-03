@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Media - Overview'
 id: 31fhjHTt4TBoo50AmGQ9b2
 status: PUBLISHED
@@ -22,7 +22,7 @@ Media is a feature responsible for managing your store's media files, such as im
 
 ![Media Overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/media-overview_1.png)
 
-In addition, Media is integrated with **Site Editor** and **Headless CMS**. This integration allows you to access and manage Media directly through VTEX CMS solutions.
+In addition, Media is integrated with **Site Editor** and **Headless CMS (Legacy)**. This integration allows you to access and manage Media directly through VTEX CMS solutions.
 
 In this guide, you will learn how to:
 
@@ -36,7 +36,7 @@ There are three ways to access Media:
 
 - **Site Editor** (for stores using the Store Framework): In the VTEX Admin, go to **Storefront > Site Editor**, choose a block that contains an image (e.g. Carousel), and click `Add`. A Media panel will open.
 
-- **Headless CMS**: In the VTEX Admin, go to **Storefront > Headless CMS**. Choose one of the created pages, such as a product page. From the available sections, select one to which you can add an image, e.g. , [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero), and click the Hero image component. A Media panel will open.
+- **Headless CMS (Legacy)**: In the VTEX Admin, go to **Storefront > Headless CMS (Legacy)**. Choose one of the created pages, such as a product page. From the available sections, select one to which you can add an image, e.g. , [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero), and click the Hero image component. A Media panel will open.
 
 > ⚠️ Note that the section must use the [media-gallery](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms) to leverage Media. For [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore) projects, the sections that use the *media-gallery* widget are [Navbar](https://developers.vtex.com/docs/guides/faststore/organisms-navbar) and [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero).
 
@@ -60,7 +60,7 @@ In Media, you can upload images, and the feature supports the following formats:
 
 1. On the **Media** page or panel, click `Add New` and click `Image`.
 
-> ⚠️ In the Media panel available in the Headless CMS and Site Editor, you can drag and drop images.
+> ⚠️ In the Media panel available in the Headless CMS (Legacy) and Site Editor, you can drag and drop images.
 
 2. Choose the image you want to upload and click `Open`.
 
@@ -92,14 +92,14 @@ Besides images, in Media, you can also store videos and then use them in your st
 
 With the video added, you can choose what to do with the video by clicking on the menu `⋮` in the video’s thumbnail:
 
-- **Copy URL**: Get the video’s URL address to use in your store through the Headless CMS.
+- **Copy URL**: Get the video’s URL address to use in your store through the Headless CMS (Legacy).
 - **Open Video**: See a preview of the video in a new browser tab.
 - **Delete**: Delete the video from your Gallery.
 
-### Adding a video to content in Headless CMS
-Integrating multimedia content, such as videos, into your Headless CMS can enhance the user experience of your website. Follow the steps below to add videos to your store.
+### Adding a video to content in Headless CMS (Legacy)
+Integrating multimedia content, such as videos, into your Headless CMS (Legacy) can enhance the user experience of your website. Follow the steps below to add videos to your store.
 
-1. In the VTEX Admin, go to **Storefront > Headless CMS**.
+1. In the VTEX Admin, go to **Storefront > Headless CMS (Legacy)**.
 2. Select the [Project](/en/docs/tutorials/managing-projects) where you want to add the video.
 3. Choose a page to add the video, e.g. **Home**.
 4. With the **Home** page open, in the **Sections** tab, add (`+`) a section that has the `media-gallery` Widget, e.g. Hero.

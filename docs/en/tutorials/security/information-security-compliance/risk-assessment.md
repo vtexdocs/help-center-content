@@ -43,7 +43,7 @@ Click the points below to go to the related FAQ:
 
 Some security information is restricted to VTEX Admin users, and it's not available in the VTEX Help Center. To access the restricted information, enter your VTEX account name below:
 
-<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Enter your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
+<InsertAccountName id="7AmPOGXykmE9SYyYDzdAZ4" />
 
 > ⚠️ If you are having dificulty accessing the FAQs, try installing the latest version of the app `vtex.admin-docs` using [VTEX CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) and repeating the process.
 
@@ -155,11 +155,11 @@ As a data processor, VTEX processes personal data from shoppers only when necess
 * ID number (when required by the country where the store operates)
 * Gift card history
 * Abandoned cart
-* [Conversation Tracker](/en/tutorial/conversation-tracker) chat
+* [Conversation Tracker](https://help.vtex.com/en/docs/tutorials/understanding-the-conversation-tracker) chat
 * Session passwords (encrypted)
 * Generated tokens
 
-The data list above is described in the [Data Processing Addendum (DPA)](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd#data-processing-addendum-dpa).
+The data list above is described in the [Data Processing Addendum (DPA)](https://help.vtex.com/en/docs/tracks/data-protection-roles#data-processing-addendum-dpa).
 
 #### How does VTEX ensure compliance with the General Data Protection Regulation (GDPR) or the Brazilian General Data Protection Law (LGPD)?
 

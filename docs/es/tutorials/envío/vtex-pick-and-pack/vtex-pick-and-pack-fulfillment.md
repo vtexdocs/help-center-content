@@ -50,7 +50,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 ## Ingreso a la aplicación
 
-Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicación](https://picking.pickingnpacking.com/login) como alistador. Como alistador podrás acceder a tu cuenta, iniciar sesión y encontrar pedidos. [Ir a la aplicación](https://picking.pickingnpacking.com/login).
+Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicación](https://picking.pick-and-pack.com/login) como alistador. Como alistador podrás acceder a tu cuenta, iniciar sesión y encontrar pedidos. [Ir a la aplicación](https://picking.pick-and-pack.com/login).
 
 Ingresa tu usuario debidamente registrado, contraseña y haz clic en  **iniciar sesión**.
 
