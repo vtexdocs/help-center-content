@@ -6,7 +6,7 @@ contentType: updates
 productTeam: Others
 slugEN: 2026-06-22-budget-pacing-now-available-in-vtex-ads
 locale: en
-announcementSynopsisPT: 'Budget Pacing allows VTEX Ads campaigns to automatically redistribute their budget over the course of the cycle, eliminating the need for manual daily budget adjustments.'
+announcementSynopsisEN: 'Budget Pacing allows VTEX Ads campaigns to automatically redistribute their budget over the course of the cycle, eliminating the need for manual daily budget adjustments.'
 tags:
   - New feature
   - VTEX Ads
