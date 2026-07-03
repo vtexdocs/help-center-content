@@ -57557,12 +57557,12 @@
             {
               "name": {
                 "en": "Checkout orderPlaced Boleto Bank Invoice MOIP",
-                "es": "Orden de compraColocada Boleto Factura bancaria MOIP",
+                "es": "Orden de pago Factura bancaria Boleto realizada MOIP",
                 "pt": "Pedido de checkoutFatura de Boleto Bancário"
               },
               "slug": {
                 "en": "checkout-orderplaced-boleto-bank-invoice-moip",
-                "es": "orden-de-compracolocada-boleto-factura-bancaria-moip",
+                "es": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
                 "pt": "pedido-de-checkoutfatura-de-boleto-bancario"
               },
               "origin": "",
@@ -59809,21 +59809,6 @@
             },
             {
               "name": {
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "en": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
                 "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
                 "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
@@ -62015,7 +62000,7 @@
             {
               "name": {
                 "en": "PayPalPlus does not respect the minimum installment amount",
-                "es": "PayPalPlus no respeta el importe mínimo de la cuota",
+                "es": "PayPalPlus no respeta el importe mínimo de la cuota.",
                 "pt": "O PayPalPlus não respeita o valor mínimo da parcela"
               },
               "slug": {
@@ -62682,6 +62667,21 @@
                 "en": "the-validity-of-the-promissory-doesnt-cancel-the-transaction",
                 "es": "la-validez-del-pagare-no-anula-la-transaccion",
                 "pt": "a-validade-da-promissoria-nao-cancela-a-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transações canceladas no MercadoPago não cancelam na VTEX",
+                "es": "Transacciones canceladas en MercadoPago no canceladas en VTEX",
+                "pt": "Transações canceladas no MercadoPago não canceladas na VTEX"
+              },
+              "slug": {
+                "en": "transacoes-canceladas-no-mercadopago-nao-cancelam-na-vtex",
+                "es": "transacciones-canceladas-en-mercadopago-no-canceladas-en-vtex",
+                "pt": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex"
               },
               "origin": "",
               "type": "markdown",
