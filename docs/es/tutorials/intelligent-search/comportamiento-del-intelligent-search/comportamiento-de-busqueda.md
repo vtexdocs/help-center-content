@@ -84,6 +84,8 @@ Ejemplo: se configuró que la especificación “color” se puede buscar y el p
 
 Se puede encontrar un producto realizando una búsqueda por caracteres especiales (`-` y `/`).
 
+> ℹ️ Puedes activar el tratamiento de símbolos como `®`, `@` y `&` en la búsqueda poniéndote en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support). Al activarlo, estos caracteres se neutralizan durante la indexación, lo que permite que los productos con símbolos en el nombre se encuentren incluso cuando el cliente los omite en la búsqueda. Por ejemplo, el producto `Marca® Papel Bond & Copias` puede encontrarse mediante la búsqueda `marca bond`.
+
 > ⚠️ La selección de los campos de búsqueda afecta las posibilidades de las [reglas de merchandising](/es/docs/tutorials/reglas-de-merchandising), ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo `SKUID` para búsquedas, no se podrá promover un `ProductID` o un `ProductRefID` utilizando reglas de merchandising.
 
 ### Definición y orden de los campos de filtro
