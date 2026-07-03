@@ -38891,13 +38891,13 @@
             {
               "name": {
                 "en": "Issue with Node Version Compatibility",
-                "es": "Problema de compatibilidad con la versión de Node",
-                "pt": "Problema com a compatibilidade de versão do Node"
+                "es": "Problema de compatibilidad de versiones de Node.",
+                "pt": "Problema de compatibilidade de versão do Node.js"
               },
               "slug": {
                 "en": "issue-with-node-version-compatibility",
-                "es": "problema-de-compatibilidad-con-la-version-de-node",
-                "pt": "problema-com-a-compatibilidade-de-versao-do-node"
+                "es": "problema-de-compatibilidad-de-versiones-de-node",
+                "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
               },
               "origin": "",
               "type": "markdown",
@@ -39379,6 +39379,21 @@
                 "en": "incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration",
                 "es": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
                 "pt": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Malformed button in B2B Suite Organizations Custom Fields Admin UI",
+                "es": "Botón con un formato incorrecto en la interfaz de administración de campos personalizados de las organizaciones de B2B Suite",
+                "pt": "Botão com formato incorreto na interface de administração de campos personalizados das organizações do B2B Suite"
+              },
+              "slug": {
+                "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
+                "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
+                "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
@@ -39875,6 +39890,21 @@
                 "en": "activate-service-on-import-skuvincularvalorservicoaspx-not-working",
                 "es": "la-funcion-activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona",
                 "pt": "a-funcao-ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "ActivateIfPossible Overwritten by New Catalog UI",
+                "es": "«ActivateIfPossible» ha sido sustituido por la nueva interfaz de usuario del catálogo",
+                "pt": "ActivateIfPossible substituído pela nova interface do usuário do catálogo"
+              },
+              "slug": {
+                "en": "activateifpossible-overwritten-by-new-catalog-ui",
+                "es": "activateifpossible-ha-sido-sustituido-por-la-nueva-interfaz-de-usuario-del-catalogo",
+                "pt": "activateifpossible-substituido-pela-nova-interface-do-usuario-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -40460,6 +40490,21 @@
                 "en": "catalog-integration-xml-fiscal-code-field-not-rendering",
                 "es": "el-campo-de-codigo-fiscal-xml-de-la-integracion-de-catalogos-no-se-muestra",
                 "pt": "o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Catalog Kit Insertion Allows Circular Reference",
+                "es": "La inserción del kit de catálogo permite una referencia circular.",
+                "pt": "A inserção do kit de catálogo permite referência circular."
+              },
+              "slug": {
+                "en": "catalog-kit-insertion-allows-circular-reference",
+                "es": "la-insercion-del-kit-de-catalogo-permite-una-referencia-circular",
+                "pt": "a-insercao-do-kit-de-catalogo-permite-referencia-circular"
               },
               "origin": "",
               "type": "markdown",
@@ -42628,13 +42673,13 @@
             {
               "name": {
                 "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
-                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
-                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+                "es": "El botón de publicación no responde de forma intermitente en la creación/actualización de productos en el Portal del vendedor.",
+                "pt": "O botão \"Publicar\" apresenta falhas intermitentes na criação/atualização de produtos no Seller Portal."
               },
               "slug": {
                 "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
-                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
-                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+                "es": "el-boton-de-publicacion-no-responde-de-forma-intermitente-en-la-creacionactualizacion-de-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-apresenta-falhas-intermitentes-na-criacaoatualizacao-de-produtos-no-seller-portal"
               },
               "origin": "",
               "type": "markdown",
@@ -42957,6 +43002,21 @@
             },
             {
               "name": {
+                "en": "SKU Insert FIle API may generate duplicate images if it fails",
+                "es": "La API de inserción de archivos SKU puede generar imágenes duplicadas si falla.",
+                "pt": "A API de Inserção de Arquivos SKU pode gerar imagens duplicadas se falhar."
+              },
+              "slug": {
+                "en": "sku-insert-file-api-may-generate-duplicate-images-if-it-fails",
+                "es": "la-api-de-insercion-de-archivos-sku-puede-generar-imagenes-duplicadas-si-falla",
+                "pt": "a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "SKU Move Failure: Distributed Transaction Error",
                 "es": "Fallo de traslado de SKU: Error de transacción distribuida",
                 "pt": "Falha na movimentação da SKU: Erro de transação distribuída"
@@ -43235,6 +43295,21 @@
                 "en": "switching-seller-types-do-not-trigger-an-indexing",
                 "es": "el-cambio-de-tipo-de-vendedor-no-provoca-una-indexacion",
                 "pt": "a-troca-de-tipos-de-vendedor-nao-aciona-uma-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Tax UI not showing trade policy exclusion data",
+                "es": "Tax UI no muestra datos de exclusión de política comercial",
+                "pt": "A interface de impostos não está exibindo os dados de exclusão da política comercial."
+              },
+              "slug": {
+                "en": "tax-ui-not-showing-trade-policy-exclusion-data",
+                "es": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
+                "pt": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial"
               },
               "origin": "",
               "type": "markdown",
@@ -44415,13 +44490,13 @@
             {
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
-                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente",
-                "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
+                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
+                "pt": "Carrinhos criados a partir da substituição de pedidos não recebem promoções corretamente."
               },
               "slug": {
                 "en": "carts-created-from-order-replacement-do-not-receive-promotions-correctly",
                 "es": "los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente",
-                "pt": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente"
+                "pt": "carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -48421,6 +48496,21 @@
             },
             {
               "name": {
+                "en": "updateThemeIds mutation returns 504 but content migration completes successfully in background",
+                "es": "La mutación «updateThemeIds» devuelve un error 504, pero la migración de contenido se completa con éxito en segundo plano",
+                "pt": "A mutação `updateThemeIds` retorna um erro 504, mas a migração de conteúdo é concluída com sucesso em segundo plano"
+              },
+              "slug": {
+                "en": "updatethemeids-mutation-returns-504-but-content-migration-completes-successfully-in-background",
+                "es": "la-mutacion-updatethemeids-devuelve-un-error-504-pero-la-migracion-de-contenido-se-completa-con-exito-en-segundo-plano",
+                "pt": "a-mutacao-updatethemeids-retorna-um-erro-504-mas-a-migracao-de-conteudo-e-concluida-com-sucesso-em-segundo-plano"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "User can still see and access CMS features even without the correct permission",
                 "es": "El usuario puede ver y acceder a las funciones del CMS incluso sin el permiso correcto",
                 "pt": "O usuário ainda pode ver e acessar os recursos do CMS mesmo sem a permissão correta"
@@ -49024,12 +49114,12 @@
               "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
-                "pt": "Amazon Processo de cancelamento de pedidos"
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
-                "pt": "amazon-processo-de-cancelamento-de-pedidos"
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -50237,21 +50327,6 @@
             },
             {
               "name": {
-                "en": "Netshoes - Main Image not respected",
-                "es": "Imagen principal no respetada",
-                "pt": "Netshoes - Imagem principal não respeitada"
-              },
-              "slug": {
-                "en": "netshoes-main-image-not-respected",
-                "es": "imagen-principal-no-respetada",
-                "pt": "netshoes-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order approved in the marketplace but not integrated into VTEX",
                 "es": "Orden aprobada en el marketplace pero no integrada en VTEX",
                 "pt": "Pedido aprovado no marketplace mas não integrado à VTEX"
@@ -50372,21 +50447,6 @@
             },
             {
               "name": {
-                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Shopee Sincronización de catálogo bloqueada por exceso de atributos de variación",
-                "pt": "Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação"
-              },
-              "slug": {
-                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
-                "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Shopee Error “The model_id is wrong or not related to this item”",
                 "es": "Shopee Error \"El model_id es incorrecto o no está relacionado con este artículo\"",
                 "pt": "Shopee Erro \"O model_id está errado ou não está relacionado a este item\""
@@ -50433,13 +50493,13 @@
             {
               "name": {
                 "en": "Shopee Freight value mismatch on seller logistics orders",
-                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
-                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
+                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
               },
               "slug": {
                 "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
-                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -52222,13 +52282,13 @@
             {
               "name": {
                 "en": "Indexing History page shows high volume of products with indexing delay",
-                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
-                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+                "es": "La página de historial de indexación muestra un alto volumen de productos con retraso en la indexación.",
+                "pt": "A página de histórico de indexação mostra um grande volume de produtos com atraso na indexação."
               },
               "slug": {
                 "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
-                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
-                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+                "es": "la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion",
+                "pt": "a-pagina-de-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
               },
               "origin": "",
               "type": "markdown",
@@ -52589,6 +52649,21 @@
                 "en": "prioritization-by-products-keyword-not-considering-stopwords",
                 "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
                 "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
               },
               "origin": "",
               "type": "markdown",
@@ -53227,13 +53302,13 @@
             {
               "name": {
                 "en": "Unsupported fields by the Intelligent Search API returning empty",
-                "es": "Campos no admitidos por la API de búsqueda inteligente que se devuelven vacíos",
-                "pt": "Campos não suportados pela Intelligent Search API retornando vazios"
+                "es": "Los campos no compatibles con la API de búsqueda inteligente devuelven un valor vacío.",
+                "pt": "Campos não suportados pela API de Busca Inteligente retornando vazios"
               },
               "slug": {
                 "en": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
-                "es": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-                "pt": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios"
+                "es": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+                "pt": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios"
               },
               "origin": "",
               "type": "markdown",
@@ -56999,12 +57074,12 @@
             {
               "name": {
                 "en": "Checkout orderPlaced Boleto Bank Invoice MOIP",
-                "es": "Orden de compraColocada Boleto Factura bancaria MOIP",
+                "es": "Orden de pago Factura bancaria Boleto realizada MOIP",
                 "pt": "Pedido de checkoutFatura de Boleto Bancário"
               },
               "slug": {
                 "en": "checkout-orderplaced-boleto-bank-invoice-moip",
-                "es": "orden-de-compracolocada-boleto-factura-bancaria-moip",
+                "es": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
                 "pt": "pedido-de-checkoutfatura-de-boleto-bancario"
               },
               "origin": "",
@@ -58981,6 +59056,21 @@
             },
             {
               "name": {
+                "en": "3DS2 Parameters not being validated",
+                "es": "Los parámetros de 3DS2 no se están validando.",
+                "pt": "Parâmetros 3DS2 não estão sendo validados"
+              },
+              "slug": {
+                "en": "3ds2-parameters-not-being-validated",
+                "es": "los-parametros-de-3ds2-no-se-estan-validando",
+                "pt": "parametros-3ds2-nao-estao-sendo-validados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
                 "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
                 "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
@@ -59266,6 +59356,21 @@
             },
             {
               "name": {
+                "en": "Card Security Code Null After Switching Payment Methods in Checkout",
+                "es": "El código de seguridad de la tarjeta aparece como «Nulo» tras cambiar de método de pago durante el proceso de pago",
+                "pt": "Código de segurança do cartão nulo após a alteração do método de pagamento na finalização da compra"
+              },
+              "slug": {
+                "en": "card-security-code-null-after-switching-payment-methods-in-checkout",
+                "es": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+                "pt": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "cardholderDocument is not sent to anti-fraud.",
                 "es": "El documento del titular de la tarjeta no se envía al sistema antifraude.",
                 "pt": "O documento do titular do cartão não é enviado ao sistema antifraude."
@@ -59529,6 +59634,21 @@
                 "en": "debit-payments-using-firstdata-connector-cannot-be-settled-due-to-an-error-in-the-transactionstate-field",
                 "es": "los-pagos-con-tarjeta-de-debito-que-utilizan-el-conector-de-firstdata-no-se-pueden-liquidar-debido-a-un-error-en-el-campo-transactionstate",
                 "pt": "os-pagamentos-por-debito-que-utilizam-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Decidir: Partial Refunds - Wrong amount is being refunded to the customers",
+                "es": "Decidir: Reembolsos parciales: se está reembolsando una cantidad incorrecta a los clientes.",
+                "pt": "Decisão: Reembolsos Parciais - O valor reembolsado aos clientes está incorreto."
+              },
+              "slug": {
+                "en": "decidir-partial-refunds-wrong-amount-is-being-refunded-to-the-customers",
+                "es": "decidir-reembolsos-parciales-se-esta-reembolsando-una-cantidad-incorrecta-a-los-clientes",
+                "pt": "decisao-reembolsos-parciais-o-valor-reembolsado-aos-clientes-esta-incorreto"
               },
               "origin": "",
               "type": "markdown",
@@ -60033,12 +60153,12 @@
               "name": {
                 "en": "For debt with CieloV3 we are not respecting the status of the response",
                 "es": "Para la deuda con CieloV3 no estamos respetando el estado de la respuesta",
-                "pt": "Para a dívida com a CieloV3 não estamos respeitando o status da resposta"
+                "pt": "Para dívidas com a CieloV3, não estamos respeitando o status da resposta."
               },
               "slug": {
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
-                "pt": "para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
+                "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
               },
               "origin": "",
               "type": "markdown",
@@ -60406,6 +60526,21 @@
             },
             {
               "name": {
+                "en": "Inconsistency in creating transactions when the affiliation processing the PSE payment method is switched",
+                "es": "Inconsistencia en la creación de transacciones cuando se cambia la afiliación que procesa el método de pago PSE.",
+                "pt": "Inconsistência na criação de transações quando a afiliação que processa o método de pagamento PSE é alterada."
+              },
+              "slug": {
+                "en": "inconsistency-in-creating-transactions-when-the-affiliation-processing-the-pse-payment-method-is-switched",
+                "es": "inconsistencia-en-la-creacion-de-transacciones-cuando-se-cambia-la-afiliacion-que-procesa-el-metodo-de-pago-pse",
+                "pt": "inconsistencia-na-criacao-de-transacoes-quando-a-afiliacao-que-processa-o-metodo-de-pagamento-pse-e-alterada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Inconsistency in payment method boleto bancário expiration dates",
                 "es": "Incongruencia en las fechas de vencimiento del boleto bancario",
                 "pt": "Inconsistência na forma de pagamento boleto bancário datas de expiração"
@@ -60534,21 +60669,6 @@
                 "en": "installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout",
                 "es": "los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago",
                 "pt": "as-parcelas-que-usam-credito-do-cliente-nao-sao-exibidas-como-uma-opcao-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Invalid fields: Card security code. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
               },
               "origin": "",
               "type": "markdown",
@@ -61006,6 +61126,21 @@
             },
             {
               "name": {
+                "en": "NULL payment when converting Payment Rules during the transaction creation process",
+                "es": "Pago «NULL» al convertir las reglas de pago durante el proceso de creación de la transacción",
+                "pt": "Pagamento NULL ao converter regras de pagamento durante o processo de criação da transação"
+              },
+              "slug": {
+                "en": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+                "es": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+                "pt": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Operations cannot be performed correctly due to null documentType field.",
                 "es": "Las operaciones no se pueden realizar correctamente debido a que el campo «documentType» está vacío.",
                 "pt": "As operações não podem ser executadas corretamente devido ao campo `documentType` estar vazio."
@@ -61382,7 +61517,7 @@
             {
               "name": {
                 "en": "PayPalPlus does not respect the minimum installment amount",
-                "es": "PayPalPlus no respeta el importe mínimo de la cuota",
+                "es": "PayPalPlus no respeta el importe mínimo de la cuota.",
                 "pt": "O PayPalPlus não respeita o valor mínimo da parcela"
               },
               "slug": {
@@ -62056,6 +62191,21 @@
             },
             {
               "name": {
+                "en": "Transações canceladas no MercadoPago não cancelam na VTEX",
+                "es": "Transacciones canceladas en MercadoPago no canceladas en VTEX",
+                "pt": "Transações canceladas no MercadoPago não canceladas na VTEX"
+              },
+              "slug": {
+                "en": "transacoes-canceladas-no-mercadopago-nao-cancelam-na-vtex",
+                "es": "transacciones-canceladas-en-mercadopago-no-canceladas-en-vtex",
+                "pt": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction canceled by timeout: 'Timeout no request para o Sistema de Parcelamento'",
                 "es": "Transacción cancelada por tiempo de espera: 'Timeout no request para o Sistema de Parcelamento'",
                 "pt": "Transação cancelada por tempo limite: 'Timeout sem pedido para o Sistema de Parcelamento'."
@@ -62477,13 +62627,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
-                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
+                "es": "Las transacciones permanecen en estado de autorización pendiente a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas no status \"Autorização Pendente\", apesar da aprovação do conector."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
+                "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62492,13 +62642,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
-                "pt": "As transações ficam presas em “Cancelando” e os pagamentos permanecem em “Autorizado”."
+                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
+                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
-                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado"
+                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -62574,6 +62724,21 @@
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
                 "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization despite connector approval",
+                "pt": "Transações presas em \"Autorização Pendente\" apesar da aprovação do conector.",
+                "es": "Transactions stuck in Pending Authorization despite connector approval"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -68345,6 +68510,128 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
                 "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace in",
+            "es": "Marketplace in",
+            "pt": "Marketplace in"
+          },
+          "slug": {
+            "en": "marketplace-in",
+            "es": "marketplace-in",
+            "pt": "marketplace-in"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Shopee Order code: 001 / Invalid Email",
+                "es": "Shopee Código de pedido: 001 / Correo electrónico no válido",
+                "pt": "Shopee Código do pedido: 001 / E-mail inválido"
+              },
+              "slug": {
+                "en": "shopee-order-code-001-invalid-email",
+                "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+                "pt": "shopee-codigo-do-pedido-001-email-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace out",
+            "es": "Marketplace out",
+            "pt": "Marketplace out"
+          },
+          "slug": {
+            "en": "marketplace-out",
+            "es": "marketplace-out",
+            "pt": "marketplace-out"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Dafiti Installment interest incorrectly increases item sellingPrice in Dafiti orders",
+                "es": "Dafiti El interés de las cuotas aumenta incorrectamente el precio de venta del artículo en los pedidos de Dafiti.",
+                "pt": "Dafiti O cálculo de juros parcelados aumenta incorretamente o preço de venda dos itens em pedidos da Dafiti."
+              },
+              "slug": {
+                "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
+                "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
+                "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza - Main Image not respected",
+                "es": "Magazine Luiza - Imagen principal no respetada",
+                "pt": "Magazine Luiza - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "magazine-luiza-main-image-not-respected",
+                "es": "magazine-luiza-imagen-principal-no-respetada",
+                "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes - Main Image not respected",
+                "es": "Netshoes - Imagen principal no respetada",
+                "pt": "Netshoes - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "netshoes-main-image-not-respected",
+                "es": "netshoes-imagen-principal-no-respetada",
+                "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
+              },
+              "slug": {
+                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Mapper does not support dynamic categories — attributes that unlock additional required subcategories",
+                "es": "Shopee Mapper no admite categorías dinámicas: atributos que desbloquean subcategorías adicionales requeridas.",
+                "pt": "O Shopee Mapper não suporta categorias dinâmicas — atributos que desbloqueiam subcategorias adicionais obrigatórias."
+              },
+              "slug": {
+                "en": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
+                "es": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
+                "pt": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias"
               },
               "origin": "",
               "type": "markdown",
