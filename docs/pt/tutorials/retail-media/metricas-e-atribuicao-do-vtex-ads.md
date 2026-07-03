@@ -1,7 +1,7 @@
 ---
 title: 'Métricas e atribuição do VTEX Ads'
 createdAt: '2026-07-01T10:00:00.000Z'
-updatedAt: '2026-07-01T10:00:00.000Z'
+updatedAt: '2026-07-03T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
