@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Checking the ownership of a VTEX store on Google Search Console'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
@@ -30,7 +30,7 @@ Follow the instructions in this tutorial to enable access.
 5. Choose the installation method based on your store technology:
 
 - [Store Framework](#store-framework)
-- [Legacy CMS Portal](#legacy-cms-portal)
+- [CMS Portal (Legacy)](#legacy-cms-portal)
 
 ### Store Framework
 
@@ -51,7 +51,7 @@ Follow the instructions in this tutorial to enable access.
 9. Click `Save`.
 10. Go back to [Google Search Console](https://search.google.com/search-console) and click `Validate`. The verification will give you access to the store's indexing data.
 
-### Legacy CMS Portal
+### CMS Portal (Legacy)
 
 1. In the Admin, go to **Storefront > Layout**.
 2. Go to the `CMS > HTMLS Templates` folder and click the `Home` file.

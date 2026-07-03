@@ -1,5 +1,5 @@
----
-title: 'Headless CMS: simplifique a criação e o gerenciamento de conteúdo com Projetos'
+﻿---
+title: 'Headless CMS (Legacy): simplifique a criação e o gerenciamento de conteúdo com Projetos'
 id: 6pl14hf2E6sNgR9ykCJkj8
 status: PUBLISHED
 createdAt: 2023-11-01T16:39:47.055Z
@@ -12,10 +12,10 @@ slugEN: 2023-11-01-headless-cms-simplify-content-creation-and-management-with-pr
 locale: pt
 legacySlug: headless-cms-simplifique-a-criacao-e-o-gerenciamento-de-conteudo-com
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Headless CMS - Gerencie seus projetos de forma centralizada e personalizada.'
+announcementSynopsisPT: 'Headless CMS (Legacy) - Gerencie seus projetos de forma centralizada e personalizada.'
 ---
 
-**Projetos** é a nova funcionalidade do Headless CMS que simplifica o gerenciamento de diversas experiências digitais, como aplicativos móveis, sites e email marketing em uma única tela.
+**Projetos** é a nova funcionalidade do Headless CMS (Legacy) que simplifica o gerenciamento de diversas experiências digitais, como aplicativos móveis, sites e email marketing em uma única tela.
 
 ![Projects overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/novembro/2023-11-01-headless-cms-simplifique-a-criacao-e-o-gerenciamento-de-conteudo-com_1.png)
 
@@ -36,4 +36,4 @@ Com a interface de **Projetos**, você poderá:
 - Atender de forma eficaz públicos ou objetivos específicos por meio de diferentes projetos.
 
 ## O que precisa ser feito?
-A funcionalidade já está disponível em todas as contas que tenham o Headless CMS instalado. Acesse o guia [Gerenciando projetos](/pt/docs/tutorials/gerenciando-projetos) para saber mais sobre como usá-lo.
+A funcionalidade já está disponível em todas as contas que tenham o Headless CMS (Legacy) instalado. Acesse o guia [Gerenciando projetos](/pt/docs/tutorials/gerenciando-projetos) para saber mais sobre como usá-lo.
