@@ -51,7 +51,7 @@ Saiba mais em [Set a discount using the Checkout API](https://developers.vtex.co
 
 ### 2 - Configure a exibição do preço à vista na página do produto
 
-Depois de definir o meio de pagamento no Checkout, configure a loja para exibir o valor calculado para o preço à vista na página do produto.
+Depois de definir o meio de pagamento no checkout, configure a loja para exibir o valor calculado para o preço à vista na página do produto.
 
 #### Store Framework
 
