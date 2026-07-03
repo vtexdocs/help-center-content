@@ -3,7 +3,7 @@ title: 'Configurar condiciones de pago'
 id: tutorials_455
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2025-04-23T13:29:53.447Z
+updatedAt: 2026-07-03T00:00:00.000Z
 publishedAt: 2025-04-23T13:29:53.447Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
