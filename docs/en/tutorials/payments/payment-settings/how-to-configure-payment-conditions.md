@@ -15,84 +15,123 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Payment conditions are the methods of payment displayed on the website for checkout. Through this functionality it is possible to configure options such as: installments, interest, [payment special conditions](/en/tutorial/condicoes-especiais--tutorials_456#).
+Payment conditions are the payment methods displayed on the website for completing the purchase. This feature allows you to configure options such as installments, interest, special conditions, and others.
 
-## How to set up
+## How to configure
 
-Before starting to set a payment condition, you need to register a [payment integration](/en/tutorial/afiliacoes-de-gateway/). 
+Before configuring a payment condition, you need to add a [payment integration](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations).
 
-Once you have defined your provider, for any of the payment conditions to be chosen, it will always be necessary:
+Once your provider is defined, for any payment condition you plan to choose, you'll always need to:
 
-- Fill in the __Rule Name__ field with a name of your choice for identification.
-- Activate the condition in the __Status__ field.
-- Indicate in __Process with provider__, which provider will process this payment condition.
-- Define if you want to use an [anti-fraud system](/en/tutorial/como-configurar-antifraude) in __Use anti-fraud solution__.
+- Complete the **Condition name** field with the name of your choice for identification.
+- Activate the condition in the **Status** field.
+- In **Process with provider**, indicate the provider that will process this payment condition.
+- Define whether you want to use an [anti-fraud solution](https://help.vtex.com/docs/tutorials/how-to-configure-the-anti-fraud) in **Use anti-fraud solution**.
 
-In addition, it's possible to define whether the payment will be in full or in installments, with or without interest and special conditions.
+You can also define whether the payment will be in full or in installments, with or without interest, or with [special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions).
 
-> ⚠️ Any changes in payment conditions may take up to 10 minutes to appear at your store's checkout.
+## Information about installments and interest
 
-In the steps below, we will use the credit card as an example of a payment condition.
+### Condition name
 
-### Payment in full
+Internal identifier of the payment condition (rule) in the Admin. You can create multiple rules for the same payment method (example: "Visa 10 installments no interest" and "Visa 12 installments with interest"), as long as they are differentiated by card network, installments, or [special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
 
-![pagamento-a-vista en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_1.png)
+### Total number of installments
 
-1. In the VTEX Admin, go to Store __Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Payment Conditions__ tab, click on the __+__ button.
-3. Choose the Credit Card (any flag) payment method.
-4. Fill the __Rule Name__ field with a name of your choice for identification.
-5. Activate the condition in the __Status__ field.
-6. On __Process with provider__, choose the configured provider (Important: Prior to activating the payment condition, check with the gateway or acquirer to see whether the payment method or card brand is available in their system).
-7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution:__.
-8. On __In full or in installments?__, select __In full__.
-9. Click __Save__.
+Defines how many installment options will be available:
 
-> ℹ️ In Step 5. you can choose other payment methods such as debit cards, cobranded, private, notes payable, bank invoices, PIX, among others.
+- **Interval:** `1-10` creates options from 1 to 10 installments.
+- **Single:** `1,3,6` creates only the 1, 3, and 6 installment options.
 
-### Installments without interest
+### Minimum installment
 
-![parcelamento-sem-juros en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_2.png)
+The **Minimum installment** field defines the minimum amount for each installment. If the calculated amount of an installment falls below this limit, it won't be displayed. For example, with a minimum installment of $50 and an order of $200, no more than 4 installments will be offered ($50 per installment), even if up to 10 installments have been configured.
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Payment Conditions__ tab, click on the __+__ button.
-3. Choose the Credit Card (any brand) payment method.
-4. Fill the __Rule Name__ field with a name of your choice for identification.
-5. Activate the condition in the __Status__ field.
-6. On __Process with provider__, choose the configured provider.
-7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-8. On __In full or in installments?__, select __In installments__.
-9. Set the number of sequential installments (ex.: 1-10) or individual (ex.: 1,3,6) on the __Total number of installments__ field.
-10. Set a minimum value to be applied, according to the value of each product.
-11. The __Billing__ field will only be taken into account for installments with interest, so any option is valid.
-12. Click __Save__.
+### Billing
+
+Applies only to installments with interest. Defines whether the charge is calculated at the beginning or end of each period, impacting the final installment amount. See the formulas in [How do you calculate payments in installments with compound interest?](https://help.vtex.com/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest).
+
+### Interest per installment
+
+When you click **Set installment interest rate**, a list with interest fields is displayed for each number of installments. You can define different surcharges per option (example: 1.99% for 6 installments and 2.49% for 12 installments). For more information about the differences between simple and compound interest, see [How to choose the type of interest for a payment condition](https://help.vtex.com/docs/tutorials/how-to-choose-the-type-of-interest-for-a-payment-condition).
+
+### Displaying installments at checkout
+
+The purpose of installments is to reduce the amount paid each month. If, by increasing the number of installments, the installment amount doesn't decrease compared to an option with fewer installments, the platform doesn't display that option at checkout since it doesn't offer an advantage for the customer.
+
+This behavior can occur, for example, when rounding the installment amount results in the same amount for different numbers of installments.
+
+> ℹ️ If you configured more installments than what is being displayed at checkout, check the **Minimum installment**, the order amount, and the interest rates configured for each number of installments.
+
+> ⚠️ Any changes to payment conditions may take up to 10 minutes to reflect on the store checkout.
+
+In the steps below, we'll use a credit card as the example of a payment condition.
+
+### In full
+
+![pagamento-a-vista pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-de-pagamento_1.png)
+
+1. In the VTEX Admin, go to **Store Settings > Payment > Settings**, or type **Settings** in the search bar at the top of the page.
+2. In the **Payment Conditions** tab, click the **+** button.
+3. Choose the credit card payment method (any card network).
+4. Complete the **Condition name** field with the name of your choice for identification.
+5. Activate the condition in the **Status** field.
+6. In the **Process with provider** field, choose the provider you configured. Important: Before activating the payment condition, check with the gateway or acquirer whether the card network/payment method is available in their system.
+7. If you want to use an anti-fraud solution, select the **Use anti-fraud solution** option.
+8. In the **In full or in installments?** field, select **In full**.
+9. Click **Save**.
+
+> ℹ️ In step 3, you can choose other payment methods such as debit, cobranded, and private label cards or notes payable, boleto, Pix, among others.
+
+### Installments with no interest
+
+![parcelamento-sem-juros pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-de-pagamento_2.png)
+
+1. In the VTEX Admin, go to **Store Settings > Payment > Settings**, or type **Settings** in the search bar at the top of the page.
+2. In the **Payment Conditions** tab, click the **+** button.
+3. Choose the credit card payment method (any card network).
+4. Complete the **Condition name** field with the name of your choice for identification.
+5. Activate the condition in the **Status** field.
+6. In the **Process with provider** field, choose the provider you configured.
+7. If you want to use an anti-fraud solution, select the **Use anti-fraud solution** option.
+8. In the **In full or in installments?** field, select **In installments**.
+9. Configure the number of interval installments (example: 1-10) or single installments (example: 1,3,6) in the **Total number of installments** field.
+10. Define the **Minimum installment** to set the minimum amount for each installment. If the calculated amount of an installment falls below this limit, it won't be displayed at checkout.
+11. The **Billing** field will only be taken into account for installments with interest. This means any option is valid.
+12. Click **Save**.
 
 ### Installments with interest
 
-![parcelamento-com-juros en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_3.png)
+![parcelamento-com-juros pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-de-pagamento_3.png)
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Payment Conditions__ tab, click on the __+__ button.
-3. Choose the Credit Card (any flag) payment method.
-4. Fill the __Rule Name__ field with a name of your choice for identification.
-5. Activate the condition in the __Status__ field.
-6. On __Process with provider__, choose the configured provider.
-7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-8. On __In full or in installments?__, select __In installments__.
-9. Set the number of sequential installments (ex .: 1-10) or individual (ex.:1,3,6) on the __Total number of installments__ field.
-10. Set a minimum value to be applied, according to the value of each product.
-11. Select the date of __Billing__ with beginning or end date (value used to calculate the value of the installment with interest).
-12. Click __Set installment interest date__.
-13. In __Interest(%)__, enter the amount of interest you want apply to each installment. The field accepts values with up to 2 decimals (`1,25` and `10,89` are examples of allowed values).
-14. To choose between compound interest and simple interest, select __Compound interest applied. Change__. A selection box will appear allowing you to choose between the two options. 
-15. Click __Save__.
+1. In the VTEX Admin, go to **Store Settings > Payment > Settings**, or type **Settings** in the search bar at the top of the page.
+2. In the **Payment Conditions** tab, click the **+** button.
+3. Choose the credit card payment method (any card network).
+4. Complete the **Condition name** field with the name of your choice for identification.
+5. Activate the condition in the **Status** field.
+6. In the **Process with provider** field, choose the provider you configured.
+7. If you want to use an anti-fraud solution, select the **Use anti-fraud solution** option.
+8. In the **In full or in installments?** field, select **In installments**.
+9. Configure the number of interval installments (example: 1-10) or single installments (example: 1,3,6) in the **Total number of installments** field.
+10. Define the **Minimum installment** to set the minimum amount for each installment. If the calculated amount of an installment falls below this limit, it won't be displayed at checkout.
+11. In **Billing**, select the charge date as the beginning or end of the period (value used to calculate the installment amount with interest).
+12. Click **Set installment interest rate**.
+13. In **Interest (%)**, configure the interest rate for each number of installments. You can define different surcharges per option (example: 1.99% for 6 installments and 2.49% for 12 installments). The field accepts values with up to 2 decimal places, for example, `1.25` or `10.89`.
+14. To choose between compound and simple interest, click **Compound interest applied. Change**. A dropdown menu will appear offering both options.
+15. Click **Save**.
 
-![Juros - en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_4.png)
+![Juros - pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-de-pagamento_4.png)
 
-## Remove payment condition
+## Removing a payment condition
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Payment Conditions__ tab, click on the payment term you wish to remove.
-3. Click on the trash can icon.
+1. In the VTEX Admin, go to **Store Settings > Payment > Settings**, or type **Settings** in the search bar at the top of the page.
+2. In the **Payment Conditions** tab, click the payment condition you want to remove.
+3. Click the trash can icon.
 
-![Remove payment condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_5.png)
+![Remove payment condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-de-pagamento_5.png)
+
+## Learn more
+
+- [Configuring special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions)
+- [How to choose the type of interest for a payment condition](https://help.vtex.com/docs/tutorials/how-to-choose-the-type-of-interest-for-a-payment-condition)
+- [How do you calculate payments in installments with compound interest?](https://help.vtex.com/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest)
