@@ -3,7 +3,7 @@ title: 'Importar dados no Master Data v1'
 id: tutorials_1135
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:12.437Z
-updatedAt: 2025-03-19T16:33:37.888Z
+updatedAt: 2026-05-20T20:09:00.000Z
 publishedAt: 2025-03-19T16:33:37.888Z
 firstPublishedAt: 2017-04-27T23:03:43.488Z
 contentType: tutorial
@@ -16,6 +16,8 @@ subcategoryId: 2AThnkEZAYbk4G4EIs53rL
 ---
 
 A inclusão e alteração em massa de registros no Master Data v1 pode ser feita por API ou por importação de uma planilha. Este documento tem como objetivo demonstrar o passo a passo necessário para a criação e importação da planilha com os dados novos e alterados.
+
+> ⚠️ Ao importar dados em massa para uma entidade personalizada, o volume de documentos armazenados aumenta, o que pode impactar o valor da cobrança mensal do Master Data. Saiba mais em [Entidades de dados personalizadas](/pt/docs/tutorials/master-data#entidades-de-dados-personalizadas). Armazenamento de documentos em entidades nativas do Master Data não gera cobrança adicional.
 
 ## Exportar dados do formulário
 

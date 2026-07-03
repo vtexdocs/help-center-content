@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
@@ -197,7 +197,7 @@ If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-a
 
 ## CMS
 
-If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/docs/tracks/what-is-the-cms). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) and [VTEX IO](/en/docs/tracks/cms-vtex-io).
+If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/docs/tracks/what-is-the-cms). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) and [VTEX IO](/en/docs/tracks/cms-vtex-io).
 
 > ⚠️ To perform the CMS investigation described below, you must ask your store's developer team for support.
 
@@ -214,7 +214,7 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 
     If the icon is yellow, there is an error in the binding. In this case, you must follow the steps in the article [Website with error: how to fix it?](/en/faq/website-com-erro-como-ajustar) to correct the error.
 
-### Legacy CMS Portal
+### CMS Portal (Legacy)
 
 If your store uses the [CMS Legacy Portal](/en/docs/tracks/legacy-cms-portal), we recommend that your store's developers check if the product search result [control](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
 
@@ -242,8 +242,8 @@ Follow the steps below to check the template your page is using.
 
 For stores developed with VTEX IO, you need to check the following items in [your store theme](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-6-buildingyourownstoretheme) files.
 
-* Check if the product page (`product.jsonc`) is declared with all the necessary blocks for a correct functioning — [`product-images`](https://developers.vtex.com/docs/vtex-store-components-productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/vtex-product-price#product-price), [`product-name`](https://developers.vtex.com/docs/vtex-store-components-productname) and [`buy-button`](https://developers.vtex.com/docs/vtex-store-components-buybutton) — as described on the [Product page](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-en). 
-* Check if the [Search Result](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-result) app and its `search-result-layout` block are properly declared in the template code, as indicated in the Search Result documentation.
+* Check if the product page (`product.jsonc`) is declared with all the necessary blocks for a correct functioning — [`product-images`](https://developers.vtex.com/docs/apps/vtex.store-components/productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/apps/vtex.product-price), [`product-name`](https://developers.vtex.com/docs/apps/vtex.store-components/productname) and [`buy-button`](https://developers.vtex.com/docs/apps/vtex.store-components/buybutton) — as described on the [Product page](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-en). 
+* Check if the [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result) app and its `search-result-layout` block are properly declared in the template code, as indicated in the Search Result documentation.
 
 ## Learn more
 

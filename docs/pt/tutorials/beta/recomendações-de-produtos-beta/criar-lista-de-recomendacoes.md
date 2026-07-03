@@ -34,12 +34,12 @@ Para criar uma lista de recomendações no Admin VTEX, siga os passos abaixo:
 3. No painel, clique na estratégia da sua lista de recomendações:
 
    * **Recomendado para você:** Produtos que correspondem ao comportamento e preferências do comprador.
-   * **Produtos similares:** Alternativas com propósito ou atributos similares.
    * **Vistos recentemente:** Produtos com os quais o comprador interagiu recentemente.
-   * **Mais populares:** Produtos com o maior número de visualizações de página.
    * **Comprados juntos:** Frequentemente comprados junto com o produto visualizado atualmente.
-   * **Coleção manual:** Grupo de produtos personalizado curado pelo comerciante.
+   * **Produtos similares:** Alternativas com propósito ou atributos similares.
    * **Produtos visualmente similares:** Produtos visualmente semelhantes a um produto específico.
+   * **Mais vendidos:** Produtos com a maior taxa de conversão com base no desempenho recente de vendas.
+   * **Coleção manual:** Grupo de produtos personalizado curado pelo comerciante.
 
    > ℹ️ Saiba mais sobre as estratégias disponíveis em [Recomendações de produtos](https://help.vtex.com/pt/docs/tutorials/recomendacoes-de-produtos-beta). 
 
@@ -51,7 +51,24 @@ Para criar uma lista de recomendações no Admin VTEX, siga os passos abaixo:
 
    ![criar-lista-de-recomendacoes-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/criar-lista-de-recomendacoes_2.png)
 
-5. Após preencher todas as informações, clique no botão `Criar` para salvar a lista de recomendações.
+   Se a estratégia for **Coleção manual**, preencha também:
+
+   * **Produtos:** nome da [coleção criada no Catálogo](https://help.vtex.com/pt/docs/tutorials/cadastrar-colecoes-beta), com a ID da coleção entre parênteses.
+   * **Ordenação:** opção de ordenação dos produtos recomendados:
+
+     * Mais vendidos
+     * Maior preço
+     * Menor preço
+     * Nome A–Z
+     * Nome Z–A
+     * Data de lançamento (mais recentes)
+     * Melhor desconto
+
+5. Confira a pré-visualização das recomendações para validar o resultado antes de salvar.
+
+   Se a estratégia escolhida for **Comprados juntos**, **Produtos similares** ou **Produtos visualmente similares**, é necessário selecionar um **Produto de referência** para gerar a pré-visualização.
+
+6. Clique no botão `Criar` para salvar a lista de recomendações.
 
    A mensagem de confirmação *Lista criada com sucesso* será exibida. A partir desse momento, a lista estará disponível para implementação no storefront.
 

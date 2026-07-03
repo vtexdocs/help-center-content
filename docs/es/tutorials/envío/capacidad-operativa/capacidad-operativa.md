@@ -50,8 +50,6 @@ Al acceder **Envío > Capacidad operativa** en el Admin VTEX, o ingresar **Capac
 
 ![operational_capacity_image_1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/capacidad-operativa/capacidad-operativa_1.png)
 
-> ⚠️ Los sellers que se muestran en la interfaz son los sellers de tu operación, previamente configurados por nuestro equipo. Para agregar un nuevo seller ponte en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419).
-
 El gráfico muestra los siguientes datos:
 
 * **Total de sellers:** número total de sellers de tu operación.

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Configuring Google Tag Manager'
 id: frequentlyAskedQuestions_616
 status: PUBLISHED
@@ -58,5 +58,5 @@ To check available events (triggers) and variables on the pages, which will be u
 
 If your store uses [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io), in addition to the setup, you need to install a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 
-This step is not required for stores using the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal).
+This step is not required for stores using the [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal).
 

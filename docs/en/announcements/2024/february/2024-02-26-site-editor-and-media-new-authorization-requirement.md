@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Site Editor and Media: new authorization requirement'
 id: 7tO32uRxIUK8lOp8AvWs2L
 status: PUBLISHED
@@ -23,7 +23,7 @@ As of Monday, March 18th, 2024, all [users](https://developers.vtex.com/docs/gui
 
 ## What has changed?
 
-As [previously announced for Headless CMS users](/en/announcements/2024-02-02-headless-cms-new-authorization-requirement), users and application keys must have the `CMS GraphQL API` resource associated with their role to manage content.  
+As [previously announced for Headless CMS (Legacy) users](/en/announcements/2024-02-02-headless-cms-new-authorization-requirement), users and application keys must have the `CMS GraphQL API` resource associated with their role to manage content.  
 
 Now, we are extending this requirement to Site Editor and Media, which means the `CMS GraphQL API` resource is necessary to manage content using these tools.
 

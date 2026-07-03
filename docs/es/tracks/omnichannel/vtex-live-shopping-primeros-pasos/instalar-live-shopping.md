@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Instalar Live Shopping'
 id: 5r4DSCZCdQUErgJzLGtiMD
 status: PUBLISHED
@@ -19,7 +19,7 @@ La solución **Live Shopping** es compatible con las siguientes tecnologías de 
 
 * [Store Framework (VTEX IO)](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework)
 * [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado)
-* [Headless CMS](/es/docs/tutorials/headless-cms-vision-general)
+* [Headless CMS (Legacy)](/es/docs/tutorials/headless-cms-vision-general)
 * [FastStore](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore)
 * Tiendas externas
 

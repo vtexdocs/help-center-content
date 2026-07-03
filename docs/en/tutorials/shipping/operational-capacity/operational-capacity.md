@@ -49,8 +49,6 @@ In the VTEX Admin, go to **Shipping > Operational capacity**, or type **Operatio
 
 ![operational_capacity_image_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/operational-capacity/operational-capacity_1.png)
 
-> ⚠️ The interface will display the sellers that are part of your operation, previously configured by our team. To add a new seller, contact [our Support](https://support.vtex.com/hc/en-us/requests).
-
 The chart shows the following information:
 
 * **Total sellers:** Total number of sellers in your operation.

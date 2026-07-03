@@ -55,18 +55,19 @@ El modelo de datos de búsqueda se compone de tres tipos de tabla, cada una con 
 El diagrama a continuación muestra cómo se organizan las tablas por tipo y cómo se conectan entre ellas:
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TB
     subgraph HECHOS["Tablas de hechos (eventos)"]
-        tbl_request["request\n(búsqueda realizada)"]
-        tbl_response["response\n(resultado devuelto)"]
-        tbl_click["click\n(clic en el resultado)"]
-        tbl_impression["impression\n(exhibición de resultados)"]
+        tbl_request["request<br/>(búsqueda realizada)"]
+        tbl_response["response<br/>(resultado devuelto)"]
+        tbl_click["click<br/>(clic en el resultado)"]
+        tbl_impression["impression<br/>(exhibición de resultados)"]
     end
 
     subgraph PUENTE["Tablas puente (relaciones)"]
-        tbl_response_product["response_product\n(productos en el resultado)"]
-        tbl_impression_click["impression_click\n(impresión → clic)"]
-        tbl_impression_order_group["impression_order_group\n(impresión → pedido)"]
+        tbl_response_product["response_product<br/>(productos en el resultado)"]
+        tbl_impression_click["impression_click<br/>(impresión → clic)"]
+        tbl_impression_order_group["impression_order_group<br/>(impresión → pedido)"]
 
         subgraph FILTROS["Filtros y reglas de la solicitud"]
             tbl_text_filter["request_text_filter"]
@@ -86,7 +87,7 @@ flowchart TB
     end
 
     subgraph DIMENSIONES["Tabla de dimensiones (configuraciones)"]
-        tbl_request_setting["request_setting\n(configuración del buscador)"]
+        tbl_request_setting["request_setting<br/>(configuración del buscador)"]
     end
 
     tbl_request -->|search_id| tbl_response
@@ -106,26 +107,28 @@ Consulta a continuación 3 flujos distintos de uso de los datos
 - Flujo 1: representa el recorrido de una solicitud de búsqueda y los detalles que la componen. Ejemplo: un comprador busca "zapatillas para correr" con filtros de marca y precio.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nComprador busca: tenis para correr"]
+    REQ["request<br/>Comprador busca:<br/>tenis para correr"]
 
-    REQ -->|"search_id"| SETTING["request_setting\nCluster ES: is-intelligent-search-v8-05\nFlags: hide_unavailable_items = true"]
-    REQ -->|"search_id"| RESP["response\nLatencia: 150ms, Match: 42 productos"]
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = Nike"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 a 500"]
+    REQ -->|"search_id"| SETTING["request_setting<br/>Cluster ES:<br/>is-intelligent-search-v8-05<br/>Flags: hide_unavailable<br/>items = true"]
+    REQ -->|"search_id"| RESP["response<br/>Latencia: 150ms<br/>Match: 42 productos"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = Nike"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 a 500"]
 
-    RESP -->|"search_id"| RP["response_product\n#1 Tennis Air Max - score: 95\n#2 Tennis Pegasus - score: 87\n#3 Tennis ZoomX - score: 82"]
+    RESP -->|"search_id"| RP["response_product<br/>#1 Tennis Air Max - score: 95<br/>#2 Tennis Pegasus - score: 87<br/>#3 Tennis ZoomX - score: 82"]
 ```
 
 - Flujo 2: representa el recorrido completo del comprador, desde la obtención de resultados → clic → compra. Ejemplo: el comprador observa los resultados, hace clic en el producto #2 y finaliza la compra.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart LR
-    IMP["impression\nResultados mostrados\nal comprador"]
-    IC["impression_click\nVincula impresión\nal clic"]
-    CLK["click\nEl comprador hizo clic\nen el producto #2, posición: 2"]
-    IOG["impression_order_group\nVincula impresión\nal pedido"]
-    ORD["Modelo de datos\nde Pedidos\n- order_group"]
+    IMP["impression<br/>Resultados mostrados<br/>al comprador"]
+    IC["impression_click<br/>Vincula impresión<br/>al clic"]
+    CLK["click<br/>El comprador hizo clic<br/>en el producto #2<br/>posición: 2"]
+    IOG["impression_order_group<br/>Vincula impresión<br/>al pedido"]
+    ORD["Modelo de datos<br/>de Pedidos<br/>order_group"]
 
     IMP -->|"impression_id"| IC
     IC -->|"click_id"| CLK
@@ -136,17 +139,18 @@ flowchart LR
 - Flujo 3: cada solicitud de búsqueda puede tener varios detalles asociados, todos vinculados por `search_id`. Una misma búsqueda puede tener, por ejemplo, dos filtros de texto, un filtro numérico y tres sellers activos al mismo tiempo.
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
 flowchart TD
-    REQ["request\nsearch_id: X"]
+    REQ["request<br/>search_id: X"]
 
-    REQ -->|"search_id"| TF["request_text_filter\nbrand = 'Nike'\ncategory = 'Calzado'"]
-    REQ -->|"search_id"| NF["request_number_filter\nprice: 100 a 500"]
-    REQ -->|"search_id"| FQ["request_field_query\nsku:123"]
-    REQ -->|"search_id"| RR["request_relevance_rule\ntype: click, weight: 5"]
-    REQ -->|"search_id"| WLS["request_white_label_seller\nseller_01, seller_02"]
-    REQ -->|"search_id"| MR["request_merchandising_rule\nrule: promo-verano-2025"]
-    REQ -->|"search_id"| HS["request_hybrid_search\nmodel: openai:text-embedding-3-small\nratio: 0.5"]
-    REQ -->|"search_id"| DPS["request_dp_shipping\nshipping: pickup-in-point"]
+    REQ -->|"search_id"| TF["request_text_filter<br/>brand = 'Nike'<br/>category = 'Calzado'"]
+    REQ -->|"search_id"| NF["request_number_filter<br/>price: 100 a 500"]
+    REQ -->|"search_id"| FQ["request_field_query<br/>sku:123"]
+    REQ -->|"search_id"| RR["request_relevance_rule<br/>type: click<br/>weight: 5"]
+    REQ -->|"search_id"| WLS["request_white_label_seller<br/>seller_01, seller_02"]
+    REQ -->|"search_id"| MR["request_merchandising_rule<br/>rule: promo-verano-2025"]
+    REQ -->|"search_id"| HS["request_hybrid_search<br/>model: openai:text-embedding<br/>-3-small<br/>ratio: 0.5"]
+    REQ -->|"search_id"| DPS["request_dp_shipping<br/>shipping: pickup-in-point"]
 ```
 
 ## Características de los datos de búsqueda

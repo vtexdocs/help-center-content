@@ -1,4 +1,4 @@
----
+﻿---
 title: 'What is a List?'
 id: 4b4NsVFwA8kwqS8S82w4Go
 status: PUBLISHED
@@ -16,7 +16,7 @@ subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 order: 1
 ---
 
-> ⚠️ The **List** feature is exclusive to stores that use Legacy CMS Portal.
+> ⚠️ The **List** feature is exclusive to stores that use CMS Portal (Legacy).
 
 Lists are groupings of products that you can make available in your store to your customers. They can be of various types and be associated with events such as wedding, bridal shower, anniversary or any other type of list that your consumer may want to create.
 
