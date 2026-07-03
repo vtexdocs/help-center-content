@@ -78,6 +78,7 @@ resolve_jira_reporter_from_github() {
 
   echo "Could not resolve Jira reporter for GitHub user ${github_login}; using API token user" >&2
   return 1
+
 # Drop PR template sections that should not appear in Jira descriptions.
 strip_pr_description_sections() {
   awk '
