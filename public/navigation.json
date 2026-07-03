@@ -43225,6 +43225,21 @@
             },
             {
               "name": {
+                "en": "Tax UI not showing trade policy exclusion data",
+                "es": "Tax UI no muestra datos de exclusión de política comercial",
+                "pt": "A interface de impostos não está exibindo os dados de exclusão da política comercial."
+              },
+              "slug": {
+                "en": "tax-ui-not-showing-trade-policy-exclusion-data",
+                "es": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
+                "pt": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Telesales search doesn't accept special characters aside from \"@\".",
                 "es": "La búsqueda de televentas no acepta caracteres especiales aparte de \"@\".",
                 "pt": "A pesquisa de televendas não aceita caracteres especiais além de \"@\"."
@@ -44399,12 +44414,12 @@
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
                 "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
-                "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
+                "pt": "Carrinhos criados a partir da substituição de pedidos não recebem promoções corretamente."
               },
               "slug": {
                 "en": "carts-created-from-order-replacement-do-not-receive-promotions-correctly",
                 "es": "los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente",
-                "pt": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente"
+                "pt": "carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -49022,12 +49037,12 @@
               "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
-                "pt": "Amazon Processo de cancelamento de pedidos"
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
-                "pt": "amazon-processo-de-cancelamento-de-pedidos"
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -50235,21 +50250,6 @@
             },
             {
               "name": {
-                "en": "Netshoes - Main Image not respected",
-                "es": "Netshoes - Imagen principal no respetada",
-                "pt": "Netshoes - Imagem principal não respeitada"
-              },
-              "slug": {
-                "en": "netshoes-main-image-not-respected",
-                "es": "netshoes-imagen-principal-no-respetada",
-                "pt": "netshoes-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order approved in the marketplace but not integrated into VTEX",
                 "es": "Orden aprobada en el marketplace pero no integrada en VTEX",
                 "pt": "Pedido aprovado no marketplace mas não integrado à VTEX"
@@ -50370,21 +50370,6 @@
             },
             {
               "name": {
-                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
-                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
-              },
-              "slug": {
-                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
-                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Shopee Error “The model_id is wrong or not related to this item”",
                 "es": "Shopee Error \"El model_id es incorrecto o no está relacionado con este artículo\"",
                 "pt": "Shopee Erro \"O model_id está errado ou não está relacionado a este item\""
@@ -50431,13 +50416,13 @@
             {
               "name": {
                 "en": "Shopee Freight value mismatch on seller logistics orders",
-                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
-                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
+                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
+                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
               },
               "slug": {
                 "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
-                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -52220,13 +52205,13 @@
             {
               "name": {
                 "en": "Indexing History page shows high volume of products with indexing delay",
-                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
-                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+                "es": "La página de historial de indexación muestra un alto volumen de productos con retraso en la indexación.",
+                "pt": "A página de histórico de indexação mostra um grande volume de produtos com atraso na indexação."
               },
               "slug": {
                 "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
-                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
-                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+                "es": "la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion",
+                "pt": "a-pagina-de-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
               },
               "origin": "",
               "type": "markdown",
@@ -52587,6 +52572,21 @@
                 "en": "prioritization-by-products-keyword-not-considering-stopwords",
                 "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
                 "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
               },
               "origin": "",
               "type": "markdown",
@@ -53225,13 +53225,13 @@
             {
               "name": {
                 "en": "Unsupported fields by the Intelligent Search API returning empty",
-                "es": "Campos no admitidos por la API de búsqueda inteligente que se devuelven vacíos",
-                "pt": "Campos não suportados pela Intelligent Search API retornando vazios"
+                "es": "Los campos no compatibles con la API de búsqueda inteligente devuelven un valor vacío.",
+                "pt": "Campos não suportados pela API de Busca Inteligente retornando vazios"
               },
               "slug": {
                 "en": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
-                "es": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-                "pt": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios"
+                "es": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+                "pt": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios"
               },
               "origin": "",
               "type": "markdown",
@@ -56997,12 +56997,12 @@
             {
               "name": {
                 "en": "Checkout orderPlaced Boleto Bank Invoice MOIP",
-                "es": "Orden de compraColocada Boleto Factura bancaria MOIP",
+                "es": "Orden de pago Factura bancaria Boleto realizada MOIP",
                 "pt": "Pedido de checkoutFatura de Boleto Bancário"
               },
               "slug": {
                 "en": "checkout-orderplaced-boleto-bank-invoice-moip",
-                "es": "orden-de-compracolocada-boleto-factura-bancaria-moip",
+                "es": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
                 "pt": "pedido-de-checkoutfatura-de-boleto-bancario"
               },
               "origin": "",
@@ -58979,6 +58979,21 @@
             },
             {
               "name": {
+                "en": "3DS2 Parameters not being validated",
+                "es": "Los parámetros de 3DS2 no se están validando.",
+                "pt": "Parâmetros 3DS2 não estão sendo validados"
+              },
+              "slug": {
+                "en": "3ds2-parameters-not-being-validated",
+                "es": "los-parametros-de-3ds2-no-se-estan-validando",
+                "pt": "parametros-3ds2-nao-estao-sendo-validados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
                 "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
                 "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
@@ -59549,6 +59564,21 @@
             },
             {
               "name": {
+                "en": "Decidir: Partial Refunds - Wrong amount is being refunded to the customers",
+                "es": "Decidir: Reembolsos parciales: se está reembolsando una cantidad incorrecta a los clientes.",
+                "pt": "Decisão: Reembolsos Parciais - O valor reembolsado aos clientes está incorreto."
+              },
+              "slug": {
+                "en": "decidir-partial-refunds-wrong-amount-is-being-refunded-to-the-customers",
+                "es": "decidir-reembolsos-parciales-se-esta-reembolsando-una-cantidad-incorrecta-a-los-clientes",
+                "pt": "decisao-reembolsos-parciais-o-valor-reembolsado-aos-clientes-esta-incorreto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "DecidirV1 Connector's Inconsistent rounding method for CSPTGRANDTOTALAMOUNT and CSITTOTALAMOUNT Fields.",
                 "es": "Método de redondeo inconsistente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT.",
                 "pt": "Método de arredondamento inconsistente do conector DecidirV1 para os campos CSPTGRANDTOTALAMOUNT e CSITTOTALAMOUNT."
@@ -60046,12 +60076,12 @@
               "name": {
                 "en": "For debt with CieloV3 we are not respecting the status of the response",
                 "es": "Para la deuda con CieloV3 no estamos respetando el estado de la respuesta",
-                "pt": "Para a dívida com a CieloV3 não estamos respeitando o status da resposta"
+                "pt": "Para dívidas com a CieloV3, não estamos respeitando o status da resposta."
               },
               "slug": {
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
-                "pt": "para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
+                "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
               },
               "origin": "",
               "type": "markdown",
@@ -60412,6 +60442,21 @@
                 "en": "inconsistency-in-comercial-condition-selection",
                 "es": "incoherencia-en-la-seleccion-de-las-condiciones-comerciales",
                 "pt": "inconsistencia-na-selecao-de-condicoes-comerciais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Inconsistency in creating transactions when the affiliation processing the PSE payment method is switched",
+                "es": "Inconsistencia en la creación de transacciones cuando se cambia la afiliación que procesa el método de pago PSE.",
+                "pt": "Inconsistência na criação de transações quando a afiliação que processa o método de pagamento PSE é alterada."
+              },
+              "slug": {
+                "en": "inconsistency-in-creating-transactions-when-the-affiliation-processing-the-pse-payment-method-is-switched",
+                "es": "inconsistencia-en-la-creacion-de-transacciones-cuando-se-cambia-la-afiliacion-que-procesa-el-metodo-de-pago-pse",
+                "pt": "inconsistencia-na-criacao-de-transacoes-quando-a-afiliacao-que-processa-o-metodo-de-pagamento-pse-e-alterada"
               },
               "origin": "",
               "type": "markdown",
@@ -61395,7 +61440,7 @@
             {
               "name": {
                 "en": "PayPalPlus does not respect the minimum installment amount",
-                "es": "PayPalPlus no respeta el importe mínimo de la cuota",
+                "es": "PayPalPlus no respeta el importe mínimo de la cuota.",
                 "pt": "O PayPalPlus não respeita o valor mínimo da parcela"
               },
               "slug": {
@@ -62069,6 +62114,21 @@
             },
             {
               "name": {
+                "en": "Transações canceladas no MercadoPago não cancelam na VTEX",
+                "es": "Transacciones canceladas en MercadoPago no canceladas en VTEX",
+                "pt": "Transações canceladas no MercadoPago não canceladas na VTEX"
+              },
+              "slug": {
+                "en": "transacoes-canceladas-no-mercadopago-nao-cancelam-na-vtex",
+                "es": "transacciones-canceladas-en-mercadopago-no-canceladas-en-vtex",
+                "pt": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction canceled by timeout: 'Timeout no request para o Sistema de Parcelamento'",
                 "es": "Transacción cancelada por tiempo de espera: 'Timeout no request para o Sistema de Parcelamento'",
                 "pt": "Transação cancelada por tempo limite: 'Timeout sem pedido para o Sistema de Parcelamento'."
@@ -62490,13 +62550,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
-                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
+                "es": "Las transacciones permanecen en estado de autorización pendiente a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas no status \"Autorização Pendente\", apesar da aprovação do conector."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
+                "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62587,6 +62647,21 @@
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
                 "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization despite connector approval",
+                "pt": "Transações presas em \"Autorização Pendente\" apesar da aprovação do conector.",
+                "es": "Transactions stuck in Pending Authorization despite connector approval"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -68412,6 +68487,21 @@
           "children": [
             {
               "name": {
+                "en": "Dafiti Installment interest incorrectly increases item sellingPrice in Dafiti orders",
+                "es": "Dafiti El interés de las cuotas aumenta incorrectamente el precio de venta del artículo en los pedidos de Dafiti.",
+                "pt": "Dafiti O cálculo de juros parcelados aumenta incorretamente o preço de venda dos itens em pedidos da Dafiti."
+              },
+              "slug": {
+                "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
+                "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
+                "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza - Main Image not respected",
                 "es": "Magazine Luiza - Imagen principal no respetada",
                 "pt": "Magazine Luiza - Imagem principal não respeitada"
@@ -68420,6 +68510,51 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes - Main Image not respected",
+                "es": "Netshoes - Imagen principal no respetada",
+                "pt": "Netshoes - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "netshoes-main-image-not-respected",
+                "es": "netshoes-imagen-principal-no-respetada",
+                "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
+              },
+              "slug": {
+                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Mapper does not support dynamic categories — attributes that unlock additional required subcategories",
+                "es": "Shopee Mapper no admite categorías dinámicas: atributos que desbloquean subcategorías adicionales requeridas.",
+                "pt": "O Shopee Mapper não suporta categorias dinâmicas — atributos que desbloqueiam subcategorias adicionais obrigatórias."
+              },
+              "slug": {
+                "en": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
+                "es": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
+                "pt": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias"
               },
               "origin": "",
               "type": "markdown",
