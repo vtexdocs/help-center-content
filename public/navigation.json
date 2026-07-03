@@ -34918,6 +34918,21 @@
                 },
                 {
                   "name": {
+                    "pt": "VTEX Pick and Pack: Indicadores de fulfillment",
+                    "en": "VTEX Pick and Pack: Indicadores de fulfillment",
+                    "es": "VTEX Pick and Pack: Indicadores de fulfillment"
+                  },
+                  "slug": {
+                    "pt": "vtex-pick-and-pack-fulfillment-indicators",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Pick and Pack: Insights",
                     "es": "VTEX Pick and Pack: Análisis",
                     "pt": "VTEX Pick and Pack: Insights"
