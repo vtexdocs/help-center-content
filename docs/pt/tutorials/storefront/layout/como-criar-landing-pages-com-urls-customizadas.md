@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial é válido apenas para lojas do CMS Portal (Legado) e para o VTEX Search (Legado). Se sua loja usa o VTEX Intelligent Search, consulte a trilha [Intelligent Search](pt/docs/tracks/overview-intelligent-search).
+> ⚠️ Este tutorial é válido apenas para lojas do CMS Portal (Legado) e para a busca legada. Se sua loja usa o VTEX Intelligent Search, consulte a trilha [Intelligent Search](pt/docs/tracks/visao-geral-intelligent-search).
 
 O buscador usado pelas lojas do CMS Portal (Legado) é customizável e permite aplicar filtros por departamento, categoria, marca, coleção, especificação e SKU, entre outros.
 
@@ -43,10 +43,10 @@ Para criar uma landing page com URL customizada, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout** para abrir a seção **Layout**.
 2. Na seção **Layout**, acesse **CMS > Sites and Channels**.
-3. Clique no web site desejado.
+3. Clique no website desejado.
 4. Clique na pasta raiz (`/`).
 5. Decida se você vai configurar o Contexto de Busca em:
-   - [Uma página que já existe no seu web site](#configurar-contexto-de-busca-em-pagina-existente)
+   - [Uma página que já existe no seu website](#configurar-contexto-de-busca-em-pagina-existente)
    - [Uma nova página a ser criada](#configurar-contexto-de-busca-em-nova-pagina)
 
 >⚠️ A busca legada renderiza uma landing page quando o termo buscado corresponde exatamente ao nome de uma pasta configurada no CMS. Para que essa pasta seja buscável, ela precisa ter um [layout](/pt/docs/tutorials/o-que-sao-layouts) associado, assim como a pasta pai. Em estruturas com mais de um nível de diretório, como `/pasta1/landing-page`, esse comportamento pode não funcionar como esperado, e a busca pode retornar uma página 404.
@@ -68,7 +68,7 @@ Após clicar na pasta raiz (`/`), siga as instruções a seguir:
 6. No lado direito da tela, clique em `new folder`.
 7. Preencha os campos conforme as orientações a seguir:
    * **Folder Name:** caminho da URL.
-   * **Marketing Context (Default):** define se a página pode ser acessada por [utms](https://help.vtex.com/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium). Esse campo é opcional.
+   * **Marketing Context (Default):** define se a página pode ser acessada por [UTMs](https://help.vtex.com/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium). Esse campo é opcional.
    * **Search Context (Default):** adiciona parâmetros de busca. Para exibir, por exemplo, produtos da categoria `111`, da marca `222` e com a especificação `333`, use o valor a seguir: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
    * **Protocol:** define o protocolo de comunicação entre um servidor web e um navegador web. Recomendado: `HTTPS`.
    * **Cache Type:** define o comportamento de armazenamento em cache do navegador. Recomendado: `Local and Remote`.
