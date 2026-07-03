@@ -60,7 +60,7 @@ Na seção **Gestão de setores**, você pode:
 
 Para criar um setor, siga o passo a passo a seguir:
 
-1. Clique em `<i class="fas fa-plus" aria-hidden="true"></i> Novo setor`.
+1. Clique em <i class="fas fa-plus" aria-hidden="true"></i> `Novo setor`.
 2. Preencha as informações de cada etapa do assistente de configuração, descritas nas seções a seguir.
 3. Ao concluir as quatro etapas, clique em `Criar`.
 
@@ -70,42 +70,42 @@ Para criar um setor, siga o passo a passo a seguir:
 
 Na primeira etapa, escolha entre as seguintes opções:
 
-- **Personalizar novo setor (recomendado):** Configura todos os detalhes do setor manualmente.
-- **Criar setor padrão (mais rápido):** Cria um setor com configurações predefinidas.
+- **Personalizar novo setor (recomendado):** configurar todos os detalhes do setor manualmente.
+- **Criar setor padrão (mais rápido):** criar um setor com configurações predefinidas.
 
 Se optar por **Personalizar novo setor**, siga o passo a passo a seguir:
 
 1. Em **Defina um nome para o setor e seus gerentes**, preencha os campos a seguir:
-- **Nome do setor:** Insira um nome para identificar o setor, como Financeiro ou Suporte.
-- **Adicionar gerente:** Pesquise e selecione os responsáveis pelo setor pelo nome ou email.
+   - **Nome do setor:** Insira um nome para identificar o setor, como Financeiro ou Suporte.
+   - **Adicionar gerente:** Pesquise e selecione os responsáveis pelo setor pelo nome ou email.
 2. Em **Definições da jornada de trabalho**, configure os dias e horários de funcionamento do setor:
-- Ative **Copiar a jornada de trabalho de um setor já configurado** para reutilizar as configurações de outro setor existente.
-  - Em seguida, escolha o setor que você quer copiar.
-- Selecione os dias da semana em que o setor estará ativo clicando em cada dia.
-  - Depois, escolha os intervalos de horário. Você pode escolher até dois intervalos para cada dia.
-- Ative **Feriados em Brasil** para incluir automaticamente os feriados nacionais.
-- Clique em `Ver todos os feriados` para consultar a lista completa.
-  - Para desconsiderar um feriado, desative o botão referente ao feriado.
-- Clique em `+ Adicionar datas específicas` para incluir datas em que o setor não funcionará, como recessos ou feriados corporativos.
+   - Ative **Copiar a jornada de trabalho de um setor já configurado** para reutilizar as configurações de outro setor existente.
+       
+       Em seguida, escolha o setor que você quer copiar.
+   - Selecione os dias da semana em que o setor estará ativo clicando em cada dia.
+     
+      Depois, escolha os intervalos de horário. Você pode escolher até dois intervalos para cada dia.
+   - Ative **Feriados em Brasil** para incluir automaticamente os feriados nacionais.
+     - Clique em `Ver todos os feriados` para consultar a lista completa.
+     - Para desconsiderar um feriado, desative o botão referente ao feriado.
+   - Clique em `+ Adicionar datas específicas` para incluir datas em que o setor não funcionará, como recessos ou feriados corporativos.
 3. Em **Defina um limite na quantidade de chats simultâneos por atendente**, insira o número máximo de chats que cada atendente pode receber ao mesmo tempo. Esse limite pode ser excedido quando o atendente escolhe chats manualmente ou recebe transferência de chats.
-  - Insira `0` para que os atendentes busquem chats diretamente da fila, sem distribuição automática.
+  
+   Insira `0` para que os atendentes busquem chats diretamente da fila, sem distribuição automática.
 
-> ⚠️ O limite de um atendente prevalece em relação ao limite da equipe ou do setor. Por exemplo, se a equipe tem um limite de 20 chats, mas um atendente tem um limite de 25 chats, esse atendente poderá realizar até 25 atendimentos.
+   > ⚠️ O limite de um atendente prevalece em relação ao limite da equipe ou do setor. Por exemplo, se a equipe tem um limite de 20 chats, mas um atendente tem um limite de 25 chats, esse atendente poderá realizar até 25 atendimentos.
 
-4. Em seguida, clique em `Continuar`.
+4. Clique em `Continuar`.
 
 #### Etapa 2: Configurar fila
 
 ![Etapa 2 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/live-desk-novo-setor-2.png)
 
-Na segunda etapa, configure a fila de atendimento do setor. Escolha entre as seguintes opções:
-
-- **Criar uma fila personalizada (recomendado):** Define os detalhes da fila manualmente.
-- **Criar fila padrão (mais rápido):** Cria uma fila com configurações predefinidas.
+- **Criar uma fila personalizada (recomendado):** definir os detalhes da fila manualmente.
+- **Criar fila padrão (mais rápido):** criar uma fila com configurações predefinidas.
 
 Se optar por **Criar uma fila personalizada**, siga o passo a passo a seguir:
-
-1. Preencha **Nome da fila** com um nome para a fila, como Pagamentos ou Trocas.
+1. Preencha **Nome da fila** com um nome para a fila, como _Pagamentos_ ou _Trocas_.
 2. Ative **Limitar o número de chats aguardando atendimento** para definir um teto para a fila. Quando o limite for atingido, novos chats não serão criados.
 3. Clique no menu de **Adicionar atendente** para pesquisar e selecionar os atendentes para a fila.
 4. Para adicionar mais de uma fila ao setor, clique em `+ Adicionar fila` e repita o preenchimento.
@@ -119,30 +119,56 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
 
 1. Em **Opções extras**, ative ou desative as configurações conforme a necessidade da sua operação:
 
-| Opção | Descrição |
-| --- | --- |
-| **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens preconfigurados durante o atendimento. |
-| **Usar assinatura** | Adiciona automaticamente o nome do agente em cada mensagem enviada. |
-| **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
+   | Opção | Descrição |
+   | --- | --- |
+   | **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens preconfigurados durante o atendimento. |
+   | **Usar assinatura** | Adiciona automaticamente o nome do agente em cada mensagem enviada. |
+   | **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
 
 2. Em **Mensagens automatizadas**, configure o envio automático de mensagens para os contatos:
 
-| Opção | Descrição |
-| --- | --- |
-| **Enviar mensagem automática a contatos esperando** | Envia uma mensagem automática para contatos que aguardam atendimento na fila. A mensagem aparece como se enviada pelo atendente atribuído. |
-| **Enviar mensagem automática ao iniciar o atendimento** | Envia uma mensagem automática quando o chat é atribuído a um atendente. A mensagem aparece como se enviada pelo atendente atribuído. |
+   | Opção | Descrição |
+   | --- | --- |
+   | **Enviar mensagem automática a contatos esperando** | Envia uma mensagem automática para contatos que aguardam atendimento na fila. A mensagem aparece como se enviada pelo atendente atribuído. |
+   | **Enviar mensagem automática ao iniciar o atendimento** | Envia uma mensagem automática quando o chat é atribuído a um atendente. A mensagem aparece como se enviada pelo atendente atribuído. |
 
 3. Em **Pesquisa de satisfação**, ative **Enviar automaticamente uma pesquisa de satisfação após o atendimento do Live Desk ser encerrado** para coletar feedback dos clientes ao fim de cada atendimento.
-  - Escolha entre as opções disponíveis:
-    - **Pesquisa CSAT padrão (recomendado)**
-    - **Fluxos personalizados**
+   
+   Escolha entre as opções disponíveis:
+     - **Pesquisa CSAT padrão (recomendado)**
+     - **Fluxos personalizados**
 
-> ⚠️ Para garantir resultados precisos, o fluxo selecionado precisa usar uma escala de 1 a 5.
+   > ⚠️ Para garantir resultados precisos, o fluxo selecionado precisa usar uma escala de 1 a 5.
 
 4. Em **Etiquetas**, configure as tags do setor:
-- No campo **Nome da tag**, pesquise uma tag existente ou digite um novo nome para criá-la. Clique em `Adicionar` para incluí-la no setor.
-- Ative **Exigir tag ao final do atendimento humano** para tornar obrigatório o uso de pelo menos uma tag ao encerrar um atendimento.
+   - No campo **Nome da tag**, pesquise uma tag existente ou digite um novo nome para criá-la. Clique em `Adicionar` para incluí-la no setor.
+   - Ative **Exigir tag ao final do atendimento humano** para tornar obrigatório o uso de pelo menos uma tag ao encerrar um atendimento.
+5. Ao preencher os campos, clique em `Continuar`.
 
+   | Opção | Descrição |
+   | --- | --- |
+   | **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens preconfigurados durante o atendimento. |
+   | **Usar assinatura** | Adiciona automaticamente o nome do agente em cada mensagem enviada. |
+   | **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
+
+2. Em **Mensagens automatizadas**, configure o envio automático de mensagens para os contatos:
+
+   | Opção | Descrição |
+   | --- | --- |
+   | **Enviar mensagem automática a contatos esperando** | Envia uma mensagem automática para contatos que aguardam atendimento na fila. A mensagem aparece como se enviada pelo atendente atribuído. |
+   | **Enviar mensagem automática ao iniciar o atendimento** | Envia uma mensagem automática quando o chat é atribuído a um atendente. A mensagem aparece como se enviada pelo atendente atribuído. |
+
+3. Em **Pesquisa de satisfação**, ative **Enviar automaticamente uma pesquisa de satisfação após o atendimento do Live Desk ser encerrado** para coletar feedback dos clientes ao fim de cada atendimento.
+   
+   Escolha entre as opções disponíveis:
+     - **Pesquisa CSAT padrão (recomendado)**
+     - **Fluxos personalizados**
+
+   > ⚠️ Para garantir resultados precisos, o fluxo selecionado precisa usar uma escala de 1 a 5.
+
+4. Em **Etiquetas**, configure as tags do setor:
+   - No campo **Nome da tag**, pesquise uma tag existente ou digite um novo nome para criá-la. Clique em `Adicionar` para incluí-la no setor.
+   - Ative **Exigir tag ao final do atendimento humano** para tornar obrigatório o uso de pelo menos uma tag ao encerrar um atendimento.
 5. Ao preencher os campos, clique em `Continuar`.
 
 #### Etapa 4: Configurar mensagem rápida (opcional)
