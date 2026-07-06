@@ -4,7 +4,7 @@ createdAt: 2025-09-12T16:25:21.244Z
 updatedAt: 2025-10-03T14:20:03.298Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: vtex-cx-platform-analytics
+slugEN: analytics-support-metrics
 locale: pt
 ---
 
