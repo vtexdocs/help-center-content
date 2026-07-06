@@ -48769,6 +48769,21 @@
             },
             {
               "name": {
+                "en": "oneOf Variant Switch Erases Field Data and Defaults to First Variant on Load",
+                "es": "El interruptor de variante oneOf borra los datos del campo y toma por defecto la primera variante al cargar.",
+                "pt": "A opção `oneOfVariant` apaga os dados do campo e retorna à primeira variante como padrão ao carregar o jogo."
+              },
+              "slug": {
+                "en": "oneof-variant-switch-erases-field-data-and-defaults-to-first-variant-on-load",
+                "es": "el-interruptor-de-variante-oneof-borra-los-datos-del-campo-y-toma-por-defecto-la-primera-variante-al-cargar",
+                "pt": "a-opcao-oneofvariant-apaga-os-dados-do-campo-e-retorna-a-primeira-variante-como-padrao-ao-carregar-o-jogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Ordination of images when uploading a new version not working",
                 "es": "La ordenación de las imágenes al subir una nueva versión no funciona",
                 "pt": "A ordenação de imagens ao fazer o upload de uma nova versão não está funcionando"
