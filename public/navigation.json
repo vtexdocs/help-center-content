@@ -37778,12 +37778,12 @@
               "name": {
                 "en": "Live Desk",
                 "es": "Live Desk",
-                "pt": "Live Desk"
+                "pt": "Configurações VTEX CX Platform"
               },
               "slug": {
                 "en": "live-desk-subcategory",
                 "es": "live-desk-subcategoria",
-                "pt": "live-desk-subcategoria"
+                "pt": "configurações-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
