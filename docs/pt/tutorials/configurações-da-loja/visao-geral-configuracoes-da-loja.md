@@ -77,5 +77,5 @@ Na seção Intelligent Search, você pode definir as configurações gerais da b
 - [Sinônimos](/pt/docs/tutorials/criar-sinonimos)
 - [Status da indexação](/pt/docs/tutorials/historico-da-indexacao)
 - [Regras de Relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/pt/docs/tutorials/analytics)
+- [Analytics](/pt/docs/tutorials/intelligent-search-analytics)
 - [Redirecionamentos](/pt/docs/tutorials/configurar-redirecionamentos)
