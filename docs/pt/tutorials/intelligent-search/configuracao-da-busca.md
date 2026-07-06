@@ -3,7 +3,7 @@ title: 'Configuração da busca'
 id: 1yNCDwz0k77ovSGqkTbZMv
 status: PUBLISHED
 createdAt: 2024-06-17T14:08:59.824Z
-updatedAt: 2025-04-24T15:27:15.330Z
+updatedAt: 2026-07-06T00:00:00.000Z
 publishedAt: 2025-04-24T15:27:15.330Z
 firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
