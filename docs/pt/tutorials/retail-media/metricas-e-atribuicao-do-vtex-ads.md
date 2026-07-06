@@ -159,6 +159,20 @@ As métricas Halo medem o impacto indireto do anúncio em vendas de outros produ
 | **Receita Halo** | Receita de produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio. | -       |
 | **Itens Halo**   | Quantidade de itens Halo vendidos.                                                      | -       |
 
+## Comportamento em janelas de data mistas
+
+A metodologia de atribuição dos produtos patrocinados (Sponsored Products) mudou em 1º de julho de 2026 e passou a incluir conversões por visualização, além das conversões por clique. Além disso, para todos os formatos, a taxa de conversão passou a usar as **visualizações** no denominador, em vez dos cliques usados anteriormente.
+
+Por isso, métricas como ROAS, taxa de conversão, conversões e receita atribuída são calculadas de forma diferente antes e depois dessa data.
+
+Quando o período selecionado cruza 1º de julho de 2026, o cálculo consolidado adota a nova metodologia em todo o intervalo. Nesses casos, o gráfico exibe um aviso visual na data da mudança.
+
+Para obter resultados consistentes, selecione o período de análise de acordo com a metodologia desejada:
+
+- **Desempenho histórico:** selecione períodos inteiramente anteriores a 1º de julho de 2026.
+- **Nova metodologia:** selecione períodos inteiramente a partir de 1º de julho de 2026.
+
+> ⚠️ Em janelas de análise que contêm 1º de julho de 2026, a taxa de conversão é calculada com a nova metodologia em todo o intervalo. As métricas com quebra por clique (**Conversões (clique)**, **Taxa de conversão por clique** e **ROAS por clique**) estão disponíveis apenas a partir de 1º de julho de 2026.
 
 ## Disponibilidade e acesso aos dados
 
