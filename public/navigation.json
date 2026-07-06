@@ -37778,12 +37778,12 @@
               "name": {
                 "en": "Live Desk",
                 "es": "Live Desk",
-                "pt": "Live Desk"
+                "pt": "Configurações VTEX CX Platform"
               },
               "slug": {
                 "en": "live-desk-subcategory",
                 "es": "live-desk-subcategoria",
-                "pt": "live-desk-subcategoria"
+                "pt": "configurações-vtex-cx-platform-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -43785,21 +43785,6 @@
             },
             {
               "name": {
-                "en": "Tax UI not showing trade policy exclusion data",
-                "es": "Tax UI no muestra datos de exclusión de política comercial",
-                "pt": "A interface de impostos não está exibindo os dados de exclusão da política comercial."
-              },
-              "slug": {
-                "en": "tax-ui-not-showing-trade-policy-exclusion-data",
-                "es": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
-                "pt": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Telesales search doesn't accept special characters aside from \"@\".",
                 "es": "La búsqueda de televentas no acepta caracteres especiales aparte de \"@\".",
                 "pt": "A pesquisa de televendas não aceita caracteres especiais além de \"@\"."
@@ -48829,6 +48814,21 @@
             },
             {
               "name": {
+                "en": "Removing an update from a release can create a draft with incomplete content",
+                "es": "Eliminar una actualización de una versión puede crear un borrador con contenido incompleto.",
+                "pt": "Remover uma atualização de uma versão pode criar um rascunho com conteúdo incompleto."
+              },
+              "slug": {
+                "en": "removing-an-update-from-a-release-can-create-a-draft-with-incomplete-content",
+                "es": "eliminar-una-actualizacion-de-una-version-puede-crear-un-borrador-con-contenido-incompleto",
+                "pt": "remover-uma-atualizacao-de-uma-versao-pode-criar-um-rascunho-com-conteudo-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Render component issues on site editor",
                 "es": "Problemas con los componentes de renderizado en el editor de sitios",
                 "pt": "Problemas com o componente de renderização no editor de sites"
@@ -49588,21 +49588,6 @@
                 "en": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
                 "es": "amazon-la-interfaz-de-usuario-de-listing-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-el-tipo-de-producto-vitamin",
                 "pt": "a-interface-do-usuario-da-listagem-da-amazon-nao-permite-salvar-e-enviar-e-bloqueia-a-publicacao-do-sku-para-o-tipo-de-produto-vitamina"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Amazon Order cancellation flow",
-                "es": "Amazon Proceso de cancelación de pedidos",
-                "pt": "Amazon Fluxo de cancelamento de pedidos"
-              },
-              "slug": {
-                "en": "amazon-order-cancellation-flow",
-                "es": "amazon-proceso-de-cancelacion-de-pedidos",
-                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -50968,21 +50953,6 @@
                 "en": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
                 "es": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
                 "pt": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shopee Freight value mismatch on seller logistics orders",
-                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
-                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
-              },
-              "slug": {
-                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
-                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -57558,12 +57528,12 @@
               "name": {
                 "en": "Checkout orderPlaced Boleto Bank Invoice MOIP",
                 "es": "Orden de pago Factura bancaria Boleto realizada MOIP",
-                "pt": "Pedido de checkoutFatura de Boleto Bancário"
+                "pt": "Pedido de checkoutColocado Boleto Fatura Bancária MOIP"
               },
               "slug": {
                 "en": "checkout-orderplaced-boleto-bank-invoice-moip",
                 "es": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
-                "pt": "pedido-de-checkoutfatura-de-boleto-bancario"
+                "pt": "pedido-de-checkoutcolocado-boleto-fatura-bancaria-moip"
               },
               "origin": "",
               "type": "markdown",
@@ -59570,13 +59540,13 @@
             {
               "name": {
                 "en": "Adyen 3DS2 double request generates payment authorization denial",
-                "es": "Una solicitud doble de Adyen 3DS2 provoca el rechazo de la autorización de pago",
-                "pt": "Uma solicitação dupla do Adyen 3DS2 gera uma recusa na autorização de pagamento"
+                "es": "Adyen 3DS2 genera una solicitud doble que deniega la autorización de pago.",
+                "pt": "A solicitação dupla do Adyen 3DS2 gera uma recusa de autorização de pagamento."
               },
               "slug": {
                 "en": "adyen-3ds2-double-request-generates-payment-authorization-denial",
-                "es": "una-solicitud-doble-de-adyen-3ds2-provoca-el-rechazo-de-la-autorizacion-de-pago",
-                "pt": "uma-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-na-autorizacao-de-pagamento"
+                "es": "adyen-3ds2-genera-una-solicitud-doble-que-deniega-la-autorizacion-de-pago",
+                "pt": "a-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-de-autorizacao-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -60635,12 +60605,12 @@
             {
               "name": {
                 "en": "For debt with CieloV3 we are not respecting the status of the response",
-                "es": "Para la deuda con CieloV3 no estamos respetando el estado de la respuesta",
+                "es": "Para deudas con CieloV3 no estamos respetando el estado de la respuesta.",
                 "pt": "Para dívidas com a CieloV3, não estamos respeitando o status da resposta."
               },
               "slug": {
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
-                "es": "para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
+                "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
                 "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
               },
               "origin": "",
@@ -62001,12 +61971,12 @@
               "name": {
                 "en": "PayPalPlus does not respect the minimum installment amount",
                 "es": "PayPalPlus no respeta el importe mínimo de la cuota.",
-                "pt": "O PayPalPlus não respeita o valor mínimo da parcela"
+                "pt": "O PayPal Plus não respeita o valor mínimo da parcela."
               },
               "slug": {
                 "en": "paypalplus-does-not-respect-the-minimum-installment-amount",
                 "es": "paypalplus-no-respeta-el-importe-minimo-de-la-cuota",
-                "pt": "o-paypalplus-nao-respeita-o-valor-minimo-da-parcela"
+                "pt": "o-paypal-plus-nao-respeita-o-valor-minimo-da-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -66234,6 +66204,21 @@
             },
             {
               "name": {
+                "en": "Tax UI not showing trade policy exclusion data",
+                "es": "Tax UI no muestra datos de exclusión de política comercial",
+                "pt": "A interface de impostos não está exibindo os dados de exclusão da política comercial."
+              },
+              "slug": {
+                "en": "tax-ui-not-showing-trade-policy-exclusion-data",
+                "es": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
+                "pt": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Timeout API Get Account's Approval Settings",
                 "es": "API de tiempo de espera Obtener la configuración de aprobación de la cuenta",
                 "pt": "Tempo esgotado API Obter configurações de aprovação de conta"
@@ -69002,37 +68987,6 @@
         },
         {
           "name": {
-            "en": "Marketplace in",
-            "es": "Marketplace in",
-            "pt": "Marketplace in"
-          },
-          "slug": {
-            "en": "marketplace-in",
-            "es": "marketplace-in",
-            "pt": "marketplace-in"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Shopee Order code: 001 / Invalid Email",
-                "es": "Shopee Código de pedido: 001 / Correo electrónico no válido",
-                "pt": "Shopee Código do pedido: 001 / E-mail inválido"
-              },
-              "slug": {
-                "en": "shopee-order-code-001-invalid-email",
-                "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
-                "pt": "shopee-codigo-do-pedido-001-email-invalido"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Marketplace out",
             "es": "Marketplace out",
             "pt": "Marketplace out"
@@ -69045,6 +68999,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Amazon Order cancellation flow",
+                "es": "Amazon Proceso de cancelación de pedidos",
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
+              },
+              "slug": {
+                "en": "amazon-order-cancellation-flow",
+                "es": "amazon-proceso-de-cancelacion-de-pedidos",
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Dafiti Installment interest incorrectly increases item sellingPrice in Dafiti orders",
@@ -69107,6 +69076,21 @@
             },
             {
               "name": {
+                "en": "Shopee Freight value mismatch on seller logistics orders",
+                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
+                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
+              },
+              "slug": {
+                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shopee Mapper does not support dynamic categories — attributes that unlock additional required subcategories",
                 "es": "Shopee Mapper no admite categorías dinámicas: atributos que desbloquean subcategorías adicionales requeridas.",
                 "pt": "O Shopee Mapper não suporta categorias dinâmicas — atributos que desbloqueiam subcategorias adicionais obrigatórias."
@@ -69115,6 +69099,21 @@
                 "en": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
                 "es": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
                 "pt": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Order code: 001 / Invalid Email",
+                "es": "Shopee Código de pedido: 001 / Correo electrónico no válido",
+                "pt": "Shopee Código do pedido: 001 / E-mail inválido"
+              },
+              "slug": {
+                "en": "shopee-order-code-001-invalid-email",
+                "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+                "pt": "shopee-codigo-do-pedido-001-email-invalido"
               },
               "origin": "",
               "type": "markdown",
