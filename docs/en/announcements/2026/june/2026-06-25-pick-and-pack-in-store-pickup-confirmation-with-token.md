@@ -1,12 +1,12 @@
 ---
-title: 'Improvements to the in-store pickup flow'
+title: 'Pick and Pack: In-store pickup confirmation with token'
 status: PUBLISHED
 createdAt: 2026-06-25T12:00:00.000Z
 updatedAt: 2026-06-25T12:00:00.000Z
 publishedAt: 2026-06-25T12:00:00.000Z
 contentType: updates
 productTeam: Pick and Pack
-slugEN: 2026-06-25-improvements-to-the-in-store-pickup-flow
+slugEN: 2026-06-25-pick-and-pack-in-store-pickup-confirmation-with-token
 locale: en
 announcementSynopsisPT: 'Enhance the Buy Online Pickup In-Store experience with quick pickup confirmation and automatic invoicing in Last Mile.'
 tags:

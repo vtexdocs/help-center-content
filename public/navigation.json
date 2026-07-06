@@ -70,14 +70,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Improvements to the in-store pickup flow",
-                    "es": "Mejoras en el flujo de recogida en tienda",
-                    "pt": "Melhorias no fluxo de retirada em loja"
+                    "en": "Pick and Pack: In-store pickup confirmation with token",
+                    "es": "Pick and Pack: Confirmación de recogida en tienda con token",
+                    "pt": "Pick and Pack: confirmação de retirada em loja com token"
                   },
                   "slug": {
-                    "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
-                    "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
-                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
+                    "en": "2026-06-25-pick-and-pack-in-store-pickup-confirmation-with-token",
+                    "es": "2026-06-25-pick-and-pack-confirmacion-de-recogida-en-tienda-con-token",
+                    "pt": "2026-06-25-pick-and-pack-confirmacao-de-retirada-em-loja-com-token"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -48762,6 +48762,21 @@
                 "en": "not-possible-to-upload-new-mediadocument-in-a-development-workspace-when-entity-has-more-than-10k-documents",
                 "es": "no-es-posible-subir-nuevos-archivos-multimedia-o-documentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10-000-documentos",
                 "pt": "nao-e-possivel-fazer-upload-de-novos-arquivos-de-midiadocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-possui-mais-de-10-mil-documentos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "oneOf Variant Switch Erases Field Data and Defaults to First Variant on Load",
+                "es": "El interruptor de variante oneOf borra los datos del campo y toma por defecto la primera variante al cargar.",
+                "pt": "A opção `oneOfVariant` apaga os dados do campo e retorna à primeira variante como padrão ao carregar o jogo."
+              },
+              "slug": {
+                "en": "oneof-variant-switch-erases-field-data-and-defaults-to-first-variant-on-load",
+                "es": "el-interruptor-de-variante-oneof-borra-los-datos-del-campo-y-toma-por-defecto-la-primera-variante-al-cargar",
+                "pt": "a-opcao-oneofvariant-apaga-os-dados-do-campo-e-retorna-a-primeira-variante-como-padrao-ao-carregar-o-jogo"
               },
               "origin": "",
               "type": "markdown",
