@@ -1,11 +1,11 @@
 ---
 title: 'Configurar o Live Desk'
-createdAt: 2025-09-16T15:05:01.763Z
-updatedAt: 2025-10-03T14:20:04.339Z
+createdAt: 2026-07-07T10:05:01.763Z
+updatedAt: 2026-07-07T10:20:04.339Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: manage-live-desk
-locale: pt
+slugEN: configure-live-desk
+locale: en
 ---
 
 A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover agentes, criar novas filas, remover e adicionar tags.
