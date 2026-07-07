@@ -3,7 +3,7 @@ title: 'Gerenciar lojas físicas no VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2025-11-11T18:59:24.074Z
+updatedAt: 2026-07-07T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -19,16 +19,16 @@ Depois de fazer as [configurações básicas do VTEX Sales App no Admin](/pt/doc
 
 **Loja física** é uma página das **Configurações da loja** do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo [VTEX Sales App](/pt/docs/tracks/o-que-e-o-vtex-sales-app). Nela, você pode gerenciar informações de todas as lojas físicas da conta.
 
-Esta página permite que você realize as seguintes ações: 
+Esta página permite que você realize as seguintes ações:
 
 * [Cadastrar](#cadastrar-loja-fisica)
 * [Buscar](#buscar-loja-fisica)
 * [Editar](#editar-loja-fisica)
 * [Inativar](#inativar-loja-fisica)
 
-![loja-fisica-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_1.png)
+![loja-fisica-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_1.png)
 
-A página apresenta as seguintes informações: 
+A página apresenta as seguintes informações:
 
 | Campos da coluna   | Descrição                                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +44,7 @@ A página apresenta as seguintes informações:
 Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 1. No Admin VTEX, clique em .
-2. No Admin VTEX, acesse **Configurações da loja** **> Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
+2. No Admin VTEX, acesse **Configurações da loja > Sales App > Lojas físicas**, ou digite **Lojas físicas** na barra de busca no topo da página.
 3. Clique no botão `+ Cadastrar loja`.
 4. Preencha os [campos de cadastro da loja física](#campos-de-cadastro-da-loja-fisica).
 5. Clique em `Cadastrar`.
@@ -52,7 +52,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 ### Campos de cadastro da loja física
 
-![loja-fisica2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_2.png)
+![loja-fisica2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_2.png)
 
 #### Identificação
 
@@ -74,7 +74,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 * **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que a loja física deve ser cadastrada.
 * **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
-* **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos. 
+* **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos.
 
 > ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
 
