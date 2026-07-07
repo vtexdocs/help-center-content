@@ -43,7 +43,7 @@ Para que un flujo aparezca como opción de envío en Live Desk, debe estar ident
 
 Solo los usuarios con permiso de administrador, moderador o colaborador pueden crear flujos. Al crear un flujo para disparo activo, incluye un bloque de envío de mensaje y selecciona una plantilla de mensaje aprobada para iniciar la conversación por WhatsApp.
 
-Antes de configurar el flujo, verifica que la plantilla de mensaje ya esté registrada y aprobada por WhatsApp. Para más información, consulta [WhatsApp: Cómo crear Template Messages](https://help.vtex.com/pt/docs/tutorials/whatsapp-como-criar-template-messages).
+Antes de configurar el flujo, verifica que la plantilla de mensaje ya esté registrada y aprobada por WhatsApp. Para más información, consulta [WhatsApp: Cómo crear Template Messages](https://help.vtex.com/es/docs/tutorials/whatsapp-como-crear-mensajes-de-plantilla).
 
 1. Accede a tu organización en el dashboard de [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en el ícono **Flujo de automatización**.

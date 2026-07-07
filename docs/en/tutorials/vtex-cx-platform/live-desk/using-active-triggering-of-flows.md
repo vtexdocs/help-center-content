@@ -43,7 +43,7 @@ For a flow to appear as a sending option in Live Desk, it must be identified wit
 
 Only users with admin, moderator, or contributor permissions can create flows. When creating a flow for active triggering, include a message sending block and select an approved message template to initiate the conversation through WhatsApp.
 
-Before configuring the flow, verify that the message template is already registered and approved by WhatsApp. For more information, see [WhatsApp: How to create Template Messages](https://help.vtex.com/docs/tutorials/whatsapp-how-to-create-template-messages).
+Before configuring the flow, verify that the message template is already registered and approved by WhatsApp. For more information, see [WhatsApp: How to create Template Messages](https://help.vtex.com/en/docs/tutorials/whatsapp-how-to-create-template-messages).
 
 1. Go to your organization on the [VTEX CX Platform](https://dash.weni.ai/orgs) dashboard.
 2. In the side menu, click the **Automation Flow** icon.
