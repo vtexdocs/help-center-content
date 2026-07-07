@@ -39884,12 +39884,12 @@
             },
             {
               "name": {
-                "en": "Item quantity duplicated when trying to edit quotes qith items split by promotions",
+                "en": "Item quantity duplicated when trying to edit quotes with items split by promotions",
                 "es": "Se duplica la cantidad de artículos al intentar editar cotizaciones con artículos divididos por promociones.",
                 "pt": "A quantidade de itens foi duplicada ao tentar editar orçamentos com itens divididos por promoções."
               },
               "slug": {
-                "en": "item-quantity-duplicated-when-trying-to-edit-quotes-qith-items-split-by-promotions",
+                "en": "item-quantity-duplicated-when-trying-to-edit-quotes-with-items-split-by-promotions",
                 "es": "se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones",
                 "pt": "a-quantidade-de-itens-foi-duplicada-ao-tentar-editar-orcamentos-com-itens-divididos-por-promocoes"
               },
@@ -45933,13 +45933,13 @@
             {
               "name": {
                 "en": "Error in the maximum quantity field of the same SKU in the Cart",
-                "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
-                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho"
+                "es": "Error en el campo de cantidad máxima del mismo SKU en el carrito.",
+                "pt": "Erro no campo de quantidade máxima do mesmo SKU no carrinho."
               },
               "slug": {
                 "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-                "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
-                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho"
+                "es": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
+                "pt": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho"
               },
               "origin": "",
               "type": "markdown",
