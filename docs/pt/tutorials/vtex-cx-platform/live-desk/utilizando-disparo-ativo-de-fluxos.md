@@ -3,7 +3,7 @@ title: 'Utilizando o disparo ativo de fluxos'
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2026-06-23T00:00:00.000Z
+updatedAt: 2026-07-07T00:00:00.000Z
 publishedAt: 2025-10-03T14:22:54.202Z
 firstPublishedAt: 2025-10-03T14:22:54.202Z
 contentType: tutorial
@@ -65,7 +65,7 @@ Além de habilitar o fluxo com o rótulo `chats`, é necessário ativar o dispar
 3. Clique em **Live Desk**.
 4. Clique na aba **Setores**.
 
-> ℹ️ Caso ainda não existam setores configurados no Live Desk, clique em `Criar setor` e preencha as informações solicitadas na página **Novo setor**.
+> ℹ️ Caso ainda não existam setores configurados no Live Desk, clique em `Novo setor` e preencha as informações solicitadas na página **Novo setor**.
 
 5. No setor desejado, clique no botão de ações <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 6. Clique em `Editar`.
