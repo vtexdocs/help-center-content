@@ -17,6 +17,8 @@ subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 
 > ❗  Este guia aborda uma prática **não recomendada** para a maioria das lojas e é aplicável somente a casos de extrema exceção.   Implementar um proxy reverso significa substituir todos os serviços de borda (CDN) gerenciados e otimizados pela VTEX. Isso implica que a loja será responsável pelo fornecimento efetivo do site, incluindo configurações, monitoramento e gerenciamento de aspectos como repasse de cabeçalhos, cookies e cache. A VTEX não oferece suporte ou documentação para essas configurações específicas e não se responsabiliza por problemas que possam surgir.   A VTEX não se responsabiliza por problemas nesse sistema, seja um CDN próprio, serviço de WAF ou outro recurso que fique à frente dos nossos servidores. Não teremos visibilidade da operação, e, portanto, a solução **não** se enquadra em nossos acordos de SLA. 
 
+> ❗ Esta configuração **não é compatível com o Amazon CloudFront**. A partir de janeiro de 2025, lojas que utilizam o CloudFront como CDN não conseguem usar proxy reverso à frente dos serviços da VTEX. Tentar essa configuração com o CloudFront pode causar falhas de navegação e indisponibilidade do site.
+
 Para apontar sua própria CDN para a CDN da VTEX, é necessário inserir um proxy reverso em frente aos serviços da VTEX. Neste cenário, o fluxo de tráfego passa a seguir este caminho: 
 
 1. Loja: O ponto de origem do tráfego.  

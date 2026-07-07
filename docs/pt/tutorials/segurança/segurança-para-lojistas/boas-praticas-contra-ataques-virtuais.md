@@ -29,7 +29,7 @@ A VTEX dispõe de diversas proteções contra possíveis ataques a lojas. Ainda 
 
 Sistemas antifraude são especializados em analisar compras de ecommerces com o intuito de identificar operações fraudulentas. Eles analisam dados comportamentais dos compradores e impedem que compras suspeitas sejam realizadas.
 
-Saiba mais sobre [sistemas antifraude](/pt/tutorial/what-is-anti-fraud) e como utilizá-los na VTEX.
+Saiba mais sobre [sistemas antifraude](https://help.vtex.com/pt/docs/tutorials/o-que-e-antifraude) e como utilizá-los na VTEX.
 
 > ⚠️ Para aumentar a segurança, configure seu antifraude para todos os métodos de pagamento disponíveis na sua loja.
 
@@ -37,7 +37,7 @@ Saiba mais sobre [sistemas antifraude](/pt/tutorial/what-is-anti-fraud) e como u
 
 Para acessar a documentação sobre este assunto, insira abaixo seu [nome de conta](/pt/docs/tutorials/o-que-e-account-name) VTEX, clique no botão e faça login no Admin.
 
-<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=62oQBmi7UZlYlgb0Ha1hZ3" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
+<InsertAccountName id="5t6HaGHiHFVrCIvePJKkV6" />
 
 ## reCAPTCHA v3 no Checkout
 
@@ -45,7 +45,7 @@ O reCAPTCHA é uma solução utilizada para validação de usuário real em pedi
 
 Recomendamos o uso do [reCAPTCHA v3](/pt/docs/tutorials/recaptcha-no-checkout#recaptcha-v3), que utiliza uma pontuação de qualidade em vez de uma validação via pop-up e, portanto, é mais difícil de ser burlado em tais cenários.
 
-Saiba mais sobre como configurar esta validação no Checkout da sua loja em [reCAPTCHA no Checkout](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#). Para a implementação do reCAPTCHA V3 em uma loja VTEX, consulte o guia para desenvolvedores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
+Saiba mais sobre como configurar esta validação no Checkout da sua loja em [reCAPTCHA no Checkout](https://help.vtex.com/pt/docs/tutorials/recaptcha-no-checkout). Para a implementação do reCAPTCHA V3 em uma loja VTEX, consulte o guia para desenvolvedores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
 > ℹ️ No fluxo de [cadastro de cartões](/pt/docs/tutorials/como-funciona-a-minha-conta#cartoes) dos clientes da loja na página [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta), a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.
 
@@ -53,7 +53,7 @@ Saiba mais sobre como configurar esta validação no Checkout da sua loja em [re
 
 Para acessar a documentação sobre este assunto, insira abaixo seu [nome de conta](/pt/docs/tutorials/o-que-e-account-name) VTEX, clique no botão e faça login no Admin.
 
-<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
+<InsertAccountName id="4zkfF1asM3ayvIigsySevw" />
 
 ## Desabilitar login por senha
 
