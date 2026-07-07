@@ -1,18 +1,11 @@
 ---
 title: 'Master Data'
-id: 4otjBnR27u4WUIciQsmkAw
-status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2025-09-02T23:26:45.478Z
-publishedAt: 2025-08-29T14:19:54.707Z
-firstPublishedAt: 2018-04-02T20:54:18.272Z
+updatedAt: 2026-07-07T19:39:00.000Z
 contentType: tutorial
 productTeam: Master Data
-author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: master-data
-legacySlug: what-is-master-data
 locale: en
-subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
 Master Data is a VTEX database platform solution, which is highly customizable, and it also enables you to create applications.
@@ -125,6 +118,8 @@ Some data entities are automatically created by VTEX to support native platform 
 | **Entity** | **Description** |
 |----------|--------|
 | `ad` | Customer addresses |
+| `ae` |  |
+| `al` |  |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
 | `bb` | Buzz billing |
@@ -164,6 +159,7 @@ Some data entities are automatically created by VTEX to support native platform 
 | `b2b_seller_quote` | b2b_seller_quote |
 | `b2b_users` | Storefront Permissions (owner) |
 | `badges` | Badges |
+| `bulkstatus` | Bulk status |
 | `business` | Sales Autopilot Service |
 | `BusinessOrganization` | Easy Setup (legacy B2B seeder) |
 | `BusinessPermission` | Easy Setup (legacy B2B seeder) |
@@ -174,6 +170,7 @@ Some data entities are automatically created by VTEX to support native platform 
 | `CANCEL_ORDER_FISCAL_CODE` | Order SMS Notification |
 | `charge` | Digital Currency |
 | `checkoutcustom` | Checkout UI Custom |
+| `clients` | Clients |
 | `commissionBySKU` | Affiliates Commission Service |
 | `commissioningreportentry` | Commissioning report entry |
 | `commissioninvoices` | Mktplace Financial Commissions |
@@ -199,6 +196,8 @@ Some data entities are automatically created by VTEX to support native platform 
 | `import_session_config` | Products Import |
 | `instoreSettings` | Admin InStore (POS) |
 | `interaction` | Shipment Tracker |
+| `inventory` | Inventory |
+| `itemavailability` | Item availability |
 | `leyGondolas` | Admin Ley de Góndolas ARG |
 | `logisticsorderinfo` | Logistics order info |
 | `mcf_admin_app` | Amazon MCF Admin |
@@ -212,6 +211,8 @@ Some data entities are automatically created by VTEX to support native platform 
 | `ORDER_FISCAL_CODE` | Order SMS Notification |
 | `orderInfo` | Octopia (casino) |
 | `orders` | v2 Orders entity |
+| `orders_items` | Order items |
+| `orders_logistics` | Order logistics |
 | `ordersWithExternalPromotions` | External Promotion Monitoring GraphQL |
 | `organization_requests` | B2B Organizations GraphQL |
 | `organizations` | B2B Organizations GraphQL |
@@ -235,6 +236,7 @@ Some data entities are automatically created by VTEX to support native platform 
 | `ReturnApp` | ReturnApp |
 | `returnRequest` | Return App |
 | `scheduler` | v2 scheduler |
+| `schema` | Schema |
 | `sellerInfo` | Vertex O Series |
 | `sellersdashboards` | Mktplace Financial Commissions |
 | `shipment` | Shipment Tracker |
@@ -250,8 +252,11 @@ Some data entities are automatically created by VTEX to support native platform 
 | `subscription` | v2 subscription (recurrent commerce) |
 | `subscription_cohort` | Subscription cohort |
 | `subscription_history` | Subscription history |
+| `subscription_metric` | Subscription metric |
 | `subscription_orders` | Subscription orders |
+| `subscription_preferences` | Subscription preferences |
 | `subscriptions` | Subscriptions |
+| `subscriptions_execution` | Subscriptions execution |
 | `subscriptions_group` | Subscriptions group |
 | `subscriptions_thin` | Subscriptions thin |
 | `templates` | Marketing Autopilot Service |
@@ -260,14 +265,47 @@ Some data entities are automatically created by VTEX to support native platform 
 | `trainingBanners` | Training Banners App |
 | `transaction` | Digital Currency |
 | `transportation_order` | Transportation order |
+| `undefined` |  |
 | `userAffiliation` | Affiliates |
 | `UserOrganization` | Easy Setup (legacy B2B seeder) |
 | `vendors` | Vendors |
 | `vendors_carts` | Vendors carts |
 | `views` | Sales Performance GraphQL |
+| `vtable` |  |
+| `vtex_admin_cms_graphql_builder` | Admin CMS GraphQL builder |
 | `vtex_admin_cms_graphql_content` | Admin CMS GraphQL (declares this v2 native) |
 | `vtex_admin_cms_graphql_contentVariant` | Admin CMS GraphQL (declares this v2 native) |
+| `vtex_admin_media_image` | Admin media image |
+| `vtex_affiliates_affiliates` | Affiliates |
+| `vtex_affiliates_commission_service_affiliatesorders` | Affiliates Commission Service |
+| `vtex_affiliates_commission_service_commissionbysku` | Affiliates Commission Service |
+| `vtex_affiliates_useraffiliation` | Affiliates |
+| `vtex_b2b_core_buyerorgconfiguration` | VTEX B2B Core |
+| `vtex_b2b_core_buyerorgmember` | VTEX B2B Core |
+| `vtex_badges_badges` | Badges |
+| `vtex_builder_hub_appid_to_schema` | Builder Hub |
+| `vtex_builder_hub_appversion_to_mostrecentschema` | Builder Hub |
+| `vtex_connector_payu_payustatus` | PayU Europe Connector |
+| `vtex_defense_mode_threats` | Defense Mode threats |
+| `vtex_gift_card_list_giftcardlist` | Gift Card List |
+| `vtex_innoship` | Innoship |
+| `vtex_list_graphql_userlistitems` | List GraphQL user list items |
+| `vtex_list_graphql_userlists` | List GraphQL user lists |
+| `vtex_list_graphql_users` | List GraphQL users |
+| `vtex_onboarding_seller_sellerinvitations` | Seller onboarding invitations |
 | `vtex_orders_graphql_onboardingusers` | Orders GraphQL onboarding users |
+| `vtex_pagespeed_graphql_top_pages` | PageSpeed GraphQL top pages |
+| `vtex_pagespeed_graphql_toppages` | PageSpeed GraphQL top pages |
+| `vtex_pagespeed_graphql_tracked_pages` | PageSpeed GraphQL tracked pages |
+| `vtex_pagespeed_graphql_trackedpages` | PageSpeed GraphQL tracked pages |
+| `vtex_ppp_stripe_connect_sellerorders` | Stripe Connect seller orders |
+| `vtex_products_monitoring_service_productswitherror` | Products Monitoring Service |
+| `vtex_return_app_returnrequest` | Return App |
+| `vtex_sales_performance_graphql_pins` | Sales Performance GraphQL |
+| `vtex_sales_performance_graphql_views` | Sales Performance GraphQL |
+| `vtex_spreadsheet_event_broadcaster_eventregistry` | Spreadsheet Event Broadcaster |
+| `vtex_wishlist_io_wishlistitems` | Wishlist IO |
+| `vtex_wishlist_io_wishlists` | Wishlist IO |
 | `wishlist` | Wishlist (legacy .NET) |
 | `wishlistitems` | Wishlist IO |
 | `wishlists` | Wishlist IO |
