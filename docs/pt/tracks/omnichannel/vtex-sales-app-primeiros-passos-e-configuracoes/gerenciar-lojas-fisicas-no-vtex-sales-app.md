@@ -101,4 +101,4 @@ Você pode inativar uma loja física seguindo os passos a seguir:
 
 Quando uma loja é inativada, todos os vendedores cadastrados nela perderão o acesso ao aplicativo do VTEX Sales App e não vão conseguir mais realizar o login.
 
-Para excluir definitivamente uma loja, entre em contato com nosso [suporte](https://support.vtex.com/hc/pt-br/requests).
+Para excluir definitivamente uma loja, entre em contato com nosso [suporte](https://supporticket.vtex.com/support).

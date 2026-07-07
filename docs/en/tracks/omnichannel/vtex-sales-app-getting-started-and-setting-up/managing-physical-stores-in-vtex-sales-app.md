@@ -100,4 +100,4 @@ You can inactivate a physical store by following the steps below:
 
 When a store is inactivated, all the vendors registered with it will lose access to the VTEX Sales App application and will no longer be able to log in.
 
-To permanently delete a store, please contact our [support](https://support.vtex.com/hc/en-us/requests).
+To permanently delete a store, please contact our [support](https://supporticket.vtex.com/support).

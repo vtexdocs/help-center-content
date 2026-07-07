@@ -100,4 +100,4 @@ Puedes inativar una tienda física siguiendo los pasos a continuación:
 
 Al desactivar una tienda, todos los vendedores registrados en ella perderán el acceso a la aplicación inStore y ya no podrán conectarse.
 
-Para eliminar definitivamente una tienda, póngase en contacto con nuestro [soporte](https://support.vtex.com/hc/es-419/requests).
+Para eliminar definitivamente una tienda, póngase en contacto con nuestro [soporte](https://supporticket.vtex.com/support).
