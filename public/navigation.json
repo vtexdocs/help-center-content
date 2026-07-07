@@ -38829,14 +38829,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "General project settings",
-                    "es": "Configuraciones generales de proyecto",
-                    "pt": "Configurações gerais do projeto"
+                    "en": "CX Platform Settings: Workspace",
+                    "es": "Configuraciones CX Platform: Espacio de trabajo",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
                   },
                   "slug": {
-                    "en": "general-project-settings",
-                    "es": "configuraciones-generales-de-proyecto",
-                    "pt": "configuracoes-gerais-do-projeto"
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuraciones-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
                   },
                   "origin": "",
                   "type": "markdown",
