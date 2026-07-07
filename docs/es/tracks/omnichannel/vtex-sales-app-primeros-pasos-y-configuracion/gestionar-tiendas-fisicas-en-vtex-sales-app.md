@@ -3,7 +3,7 @@ title: 'Gestionar tiendas físicas en VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2025-11-11T18:59:24.074Z
+updatedAt: 2026-07-07T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -19,14 +19,14 @@ Después de realizar las [configuraciones básicas de inStore en el Admin](/es/d
 
 **Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [VTEX Sales App](/es/docs/tracks/que-es-vtex-sales-app). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
 
-Esta página te permite realizar las siguientes acciones: 
+Esta página te permite realizar las siguientes acciones:
 
 * [Crear](#crear-tienda-física)
 * [Buscar](#buscar-tienda-física)
 * [Editar](#editar-tienda-física)
 * [Inativar](#inativar-tienda-física)
 
-![loja-fisica-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_1.png)
+![loja-fisica-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-sales-app-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_1.png)
 
 La página contiene la siguiente información:
 
@@ -51,7 +51,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_2.png)
+![loja-fisica2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-sales-app-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_2.png)
 
 #### Identificación
 
@@ -60,7 +60,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 #### Dirección
 
-* **País:** país dónde se encuentra la tienda física. Campo obligatorio
+* **País:** país dónde se encuentra la tienda física. Campo obligatorio.
 * **Código postal:** código postal de la tienda física. Campo obligatorio.
 * **Calle:** nombre de la calle donde se encuentra la tienda física. Campo obligatorio.
 * **Número:** número del local en la calle de la tienda física. Campo obligatorio.
