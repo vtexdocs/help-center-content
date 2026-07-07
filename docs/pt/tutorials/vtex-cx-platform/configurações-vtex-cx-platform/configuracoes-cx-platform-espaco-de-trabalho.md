@@ -24,7 +24,7 @@ A aba **Preferências do Projeto** permite configurar as informações gerais do
 
 Para atualizar as preferências, siga as etapas abaixo:
 
-1. No campo **Nome do projeto**, insira ou edite o nome do projeto.s
+1. No campo **Nome do projeto**, insira ou edite o nome do projeto.
 2. No campo **Descrição do projeto**, insira uma descrição. Este campo é obrigatório.
 3. No campo **Fuso horário**, selecione o fuso horário correspondente à operação da sua loja.
 4. No campo **Idioma**, selecione o idioma do projeto.
