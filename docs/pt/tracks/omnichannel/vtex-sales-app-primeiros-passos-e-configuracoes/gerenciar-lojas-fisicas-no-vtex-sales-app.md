@@ -36,7 +36,7 @@ A página apresenta as seguintes informações:
 | Telefone comercial | Número de telefone comercial da loja física.                                                                                                                                               |
 | Cidade             | Cidade onde a loja física está localizada.                                                                                                                                                 |
 | Estado             | Estado onde a loja física está localizada.                                                                                                                                                 |
-| Conta franquia     | [Conta fraquia](/pt/docs/tutorials/o-que-e-conta-franquia) onde a loja física está cadastrada.                                                       |
+| Conta franquia     | [Conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) onde a loja física está cadastrada.                                                       |
 | Política comercial | [Política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) aplicada na loja física.                                              |
 
 ## Cadastrar loja física
