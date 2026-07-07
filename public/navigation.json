@@ -38814,6 +38814,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Configure Live Desk",
+                    "es": "Configure Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "CX Platform Settings: Workspace",
                     "es": "Configuraciones CX Platform: Espacio de trabajo",
                     "pt": "Configurações CX Platform: Espaço de trabalho"
