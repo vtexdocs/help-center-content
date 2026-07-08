@@ -25186,6 +25186,21 @@
                 },
                 {
                   "name": {
+                    "en": "Intelligent Search: how search result relevance works",
+                    "es": "Intelligent Search: cómo funciona la relevancia de los resultados de búsqueda",
+                    "pt": "Intelligent Search: como funciona a relevância dos resultados de busca"
+                  },
+                  "slug": {
+                    "en": "intelligent-search-how-search-result-relevance-works",
+                    "es": "intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda",
+                    "pt": "intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Merchandising rule conditions",
                     "es": "Condiciones de las reglas de merchandising",
                     "pt": "Condições de Regras de merchandising"
