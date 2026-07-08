@@ -45,6 +45,6 @@ Alguns exemplos de casos de uso do **VTEX Sales App Extensibility** são a integ
 
 ## O que precisa ser feito?
 
-A implementação do **VTEX Sales App Extensibility** é responsabilidade dos lojistas e parceiros, e para isso, recomendamos seguir a documentação técnica para implementar as extensões: [Sales App Extensions implementation](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
+A implementação do **VTEX Sales App Extensibility** é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir a documentação técnica [Sales App Extensions implementation](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
 > ℹ️ Utilize o [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill) como auxiliar nas etapas de definição e implementação do projeto.
