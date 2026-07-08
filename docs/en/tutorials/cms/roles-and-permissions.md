@@ -52,9 +52,13 @@ The following scenarios show how roles interact in common content workflows.
 
 ### Launching a seasonal campaign
 
+When your team is putting together a seasonal campaign, a Content Producer works on the pages in a feature branch, and once the content is ready, a Content Editor reviews it and merges it into `main` to publish.
+
 ![lauching-a-seasonal-campaign-flow](https://vtexhelp.vtexassets.com/assets/docs/src/lauching-a-seasonal-campaign___4a8f3b593f6c2901c192d9a698646b2e.png)
 
 ### Adding a new storefront locale
+
+When your store needs to support a new language, a Content Administrator handles the locale setup first, and once that's in place, Producers can start authoring content for it and Editors can publish it.
 
 ![storefront-locale-role-flow](https://vtexhelp.vtexassets.com/assets/docs/src/storefront-locale-role-flow___db87989d885e827bbf1b42ae69958494.png)
 
