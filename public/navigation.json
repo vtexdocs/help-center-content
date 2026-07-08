@@ -37778,12 +37778,12 @@
               "name": {
                 "en": "Live Desk",
                 "es": "Live Desk",
-                "pt": "Configurações VTEX CX Platform"
+                "pt": "Live Desk"
               },
               "slug": {
                 "en": "live-desk-subcategory",
                 "es": "live-desk-subcategoria",
-                "pt": "configurações-vtex-cx-platform-subcategoria"
+                "pt": "live-desk-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37820,24 +37820,9 @@
                 },
                 {
                   "name": {
-                    "en": "Manage Live Desk",
-                    "es": "Configurar el Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "manage-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Using active triggering of flows",
                     "es": "Utilizando el disparo activo de flujos",
-                    "pt": "Utilizando disparo ativo de fluxos"
+                    "pt": "Utilizando o disparo ativo de fluxos"
                   },
                   "slug": {
                     "en": "using-active-triggering-of-flows",
@@ -38829,14 +38814,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "General project settings",
-                    "es": "Configuraciones generales de proyecto",
-                    "pt": "Configurações gerais do projeto"
+                    "en": "Configure Live Desk",
+                    "es": "Configure Live Desk",
+                    "pt": "Configurar o Live Desk"
                   },
                   "slug": {
-                    "en": "general-project-settings",
-                    "es": "configuraciones-generales-de-proyecto",
-                    "pt": "configuracoes-gerais-do-projeto"
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "CX Platform Settings: Workspace",
+                    "es": "Configuraciones CX Platform: Espacio de trabajo",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
+                  },
+                  "slug": {
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuraciones-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39884,12 +39884,12 @@
             },
             {
               "name": {
-                "en": "Item quantity duplicated when trying to edit quotes qith items split by promotions",
+                "en": "Item quantity duplicated when trying to edit quotes with items split by promotions",
                 "es": "Se duplica la cantidad de artículos al intentar editar cotizaciones con artículos divididos por promociones.",
                 "pt": "A quantidade de itens foi duplicada ao tentar editar orçamentos com itens divididos por promoções."
               },
               "slug": {
-                "en": "item-quantity-duplicated-when-trying-to-edit-quotes-qith-items-split-by-promotions",
+                "en": "item-quantity-duplicated-when-trying-to-edit-quotes-with-items-split-by-promotions",
                 "es": "se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones",
                 "pt": "a-quantidade-de-itens-foi-duplicada-ao-tentar-editar-orcamentos-com-itens-divididos-por-promocoes"
               },
@@ -45933,13 +45933,13 @@
             {
               "name": {
                 "en": "Error in the maximum quantity field of the same SKU in the Cart",
-                "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
-                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho"
+                "es": "Error en el campo de cantidad máxima del mismo SKU en el carrito.",
+                "pt": "Erro no campo de quantidade máxima do mesmo SKU no carrinho."
               },
               "slug": {
                 "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-                "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
-                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho"
+                "es": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
+                "pt": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho"
               },
               "origin": "",
               "type": "markdown",
@@ -53124,6 +53124,21 @@
             },
             {
               "name": {
+                "en": "Price-based filters ignore Sales Channel and Regionalization context",
+                "es": "Los filtros basados ​​en precios ignoran el contexto del canal de ventas y la regionalización.",
+                "pt": "Os filtros baseados em preço ignoram o contexto de canal de vendas e regionalização."
+              },
+              "slug": {
+                "en": "pricebased-filters-ignore-sales-channel-and-regionalization-context",
+                "es": "los-filtros-basados-en-precios-ignoran-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+                "pt": "os-filtros-baseados-em-preco-ignoram-o-contexto-de-canal-de-vendas-e-regionalizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Prices from specific price tables are not considered when sorting or filtering products",
                 "es": "Los precios de las tablas de precios específicas no se tienen en cuenta al clasificar o filtrar los productos.",
                 "pt": "Os preços de tabelas de preços específicas não são considerados na classificação ou filtragem de produtos"
@@ -53327,21 +53342,6 @@
                 "en": "refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app",
                 "es": "refactorizar-nuestro-flujo-de-restablecimiento-de-contrasena-para-llamar-a-la-nueva-mutacion-correspondiente-en-la-aplicacion-graphql",
                 "pt": "refatorar-nosso-fluxo-de-senhas-para-chamar-a-nova-mutacao-correspondente-no-aplicativo-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Regionalization or trade policies aren't considered while filtering or sorting items by price or discount",
-                "es": "Las políticas de regionalización o comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento",
-                "pt": "As políticas de regionalização ou comerciais não são levadas em conta ao filtrar ou classificar itens por preço ou desconto"
-              },
-              "slug": {
-                "en": "regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount",
-                "es": "las-politicas-de-regionalizacion-o-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
-                "pt": "as-politicas-de-regionalizacao-ou-comerciais-nao-sao-levadas-em-conta-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto"
               },
               "origin": "",
               "type": "markdown",
@@ -53657,6 +53657,36 @@
                 "en": "sort-by-name-working-different-on-stores-integrated-before-a-date",
                 "es": "la-ordenacion-por-nombre-funciona-de-forma-diferente-en-las-tiendas-integradas-antes-de-una-fecha",
                 "pt": "classificar-pelo-nome-trabalhando-de-forma-diferente-em-lojas-integradas-antes-de-uma-data"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sorting by discount ignores Sales Channel context",
+                "es": "La ordenación por descuento ignora el contexto del canal de ventas.",
+                "pt": "A ordenação por desconto ignora o contexto do canal de vendas."
+              },
+              "slug": {
+                "en": "sorting-by-discount-ignores-sales-channel-context",
+                "es": "la-ordenacion-por-descuento-ignora-el-contexto-del-canal-de-ventas",
+                "pt": "a-ordenacao-por-desconto-ignora-o-contexto-do-canal-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sorting Intelligent Search by price ignores Sales Channel and Regionalization context",
+                "es": "La ordenación de la búsqueda inteligente por precio ignora el contexto del canal de ventas y la regionalización.",
+                "pt": "A classificação da Busca Inteligente por preço ignora o canal de vendas e o contexto de regionalização."
+              },
+              "slug": {
+                "en": "sorting-intelligent-search-by-price-ignores-sales-channel-and-regionalization-context",
+                "es": "la-ordenacion-de-la-busqueda-inteligente-por-precio-ignora-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+                "pt": "a-classificacao-da-busca-inteligente-por-preco-ignora-o-canal-de-vendas-e-o-contexto-de-regionalizacao"
               },
               "origin": "",
               "type": "markdown",
@@ -69044,6 +69074,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
+                "es": "Amazon En algunos casos, un SKU puede publicarse correctamente en Amazon, pero el stock no se actualiza y permanece en cero.",
+                "pt": "Amazon Em alguns casos, um SKU pode ser publicado com sucesso na Amazon, mas o estoque não é atualizado e permanece zerado."
+              },
+              "slug": {
+                "en": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
+                "es": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
+                "pt": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Amazon Order cancellation flow",
