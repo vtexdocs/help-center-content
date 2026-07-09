@@ -1,7 +1,7 @@
 ---
 title: 'Master Data'
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-07T19:39:00.000Z
+updatedAt: 2026-07-08T18:37:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data
@@ -333,6 +333,12 @@ Tanto la medición como la facturación siguen un ciclo mensual:
 - Hasta el día 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
 
 > ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [descargar las facturas de VTEX](/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
+
+### Eliminar entidad vs. eliminar documentos
+
+Al intentar reducir el volumen contabilizado en el snapshot mensual de facturación, es importante distinguir la eliminación de la **entidad de datos** (estructura en Admin VTEX) de la eliminación de los **documentos** (registros almacenados).
+
+> ⚠️ Eliminar una entidad de datos personalizada a través de la interfaz de Master Data v1 elimina la definición de la entidad, pero no elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores.
 
 ## Aplicaciones
 
