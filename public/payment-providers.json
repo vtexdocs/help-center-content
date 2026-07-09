@@ -843,6 +843,16 @@
       "countries": ["PE", "US"]
     },
     {
+      "name": "Kaiowa",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-kaiowa",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-kaiowa",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-kaiowa"
+      },
+      "countries": ["CO"]
+    },
+    {
       "name": "KlarnaPayments",
       "payoutSplit": false,
       "docs": {
