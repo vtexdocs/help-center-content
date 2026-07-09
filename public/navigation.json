@@ -52839,6 +52839,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search Facets hides selected parent facet in multiselect drill-down",
+                "es": "La función de búsqueda inteligente oculta la faceta principal seleccionada en la exploración en profundidad de selección múltiple.",
+                "pt": "A pesquisa inteligente de facetas oculta a faceta principal selecionada na seleção múltipla com detalhamento."
+              },
+              "slug": {
+                "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
+                "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
+                "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search language settings not in sync with store configurations",
                 "es": "La configuración de idioma de la búsqueda inteligente no está sincronizada con la configuración de la tienda",
                 "pt": "As configurações de idioma da Pesquisa Inteligente não estão sincronizadas com as configurações da loja"
