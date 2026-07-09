@@ -61,8 +61,8 @@ Após adicionar o contato ao grupo, é preciso configurar cada disparador do pro
 3. Clique em **Disparadores**.
 4. Clique em um disparador configurado no seu projeto.
 5. No campo **Grupos a Excluir**, selecione o grupo _Atendimento Humano_.
-4. Clique em `Salvar alterações`.
-5. Repita o processo para **todos os disparadores** do projeto.
+6. Clique em `Salvar alterações`.
+7. Repita o processo para **todos os disparadores** do projeto.
 
 Com isso, enquanto o contato estiver no grupo de controle, ele não será acionado pelas mensagens automáticas, e o atendimento humano seguirá sem interrupções. Para mais informações sobre disparadores, consulte os artigos [Como criar um disparador](https://help.vtex.com/pt/docs/tutorials/como-criar-um-disparador) e [Tipos de Gatilho](https://help.vtex.com/pt/docs/tutorials/tipos-de-gatilho).
 
@@ -70,18 +70,40 @@ Com isso, enquanto o contato estiver no grupo de controle, ele não será aciona
 
 É importante remover o contato do grupo de controle quando a sessão de atendimento humano for concluída. Caso contrário, ele continuará sendo ignorado pelos disparadores mesmo após o fim do atendimento.
 
-Para automatizar essa remoção, utilize o disparador que aciona um fluxo sempre que um ticket do Live Desk é encerrado. Para isso, siga as etapas abaixo:
+Essa automação envolve dois elementos com funções distintas:
+
+- Um **fluxo de encerramento**, que remove o contato do grupo de controle.
+- Um **disparador**, que inicia esse fluxo sempre que um ticket do Live Desk é encerrado.
+
+Por isso, primeiro crie o fluxo de encerramento e, em seguida, o disparador que o aciona.
+
+### Criar o fluxo de encerramento
+
+O fluxo de encerramento pode ser extremamente simples, contendo apenas a carta de ação **Remover contato de um grupo**. Para criá-lo, siga as etapas abaixo:
+
+1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. No menu lateral, clique em **Fluxo de automação**.
+3. Clique em `Criar fluxo` e insira um nome para o fluxo (por exemplo, _Encerramento de atendimento_).
+4. Dentro do fluxo, clique no bloco inicial.
+5. No pop-up, em **Quando um contato chegar a esse ponto do fluxo...**, selecione a opção **Remova o contato de um grupo**.
+6. Em **Selecione os grupos para remover o contato**, selecione o grupo _Atendimento Humano_.
+7. Clique em **Confirmar**.
+8. Salve as alterações do fluxo.
+
+### Criar o disparador de encerramento
+
+Depois de criar o fluxo, configure o disparador que o inicia automaticamente quando um ticket é encerrado. Para isso, siga as etapas abaixo:
 
 1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
 3. Clique em **Disparadores**.
 4. Clique em `Criar disparador`.
 5. Clique em **Iniciar um fluxo após um ticket ser fechado.**.
-6. Em **Fluxo**, selecione um fluxo de encerramento.
+6. Em **Fluxo**, selecione o fluxo de encerramento criado anteriormente.
 7. Deixe o campo **Grupos a Excluir** vazio para aplicar o gatilho a todos os contatos.
 8. Clique em `Criar disparador`.
 
-Esse fluxo pode ser extremamente simples: basta conter a carta de ação **Remover contato de um grupo**, selecionando o grupo `Atendimento Humano`. Dessa forma, ao encerrar o ticket, o contato é retirado do grupo de controle e volta a interagir normalmente com o chatbot.
+Dessa forma, ao encerrar o ticket, o disparador inicia o fluxo de encerramento, que remove o contato do grupo de controle. Assim, o contato volta a interagir normalmente com o chatbot.
 
 ## Enviar campos customizados no ticket
 
