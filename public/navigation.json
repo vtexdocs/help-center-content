@@ -37928,12 +37928,12 @@
                   "name": {
                     "en": "Live Desk - Overview",
                     "es": "Introducción al módulo de Live Desk",
-                    "pt": "Live Desk - Overview"
+                    "pt": "Visão geral do Live Desk"
                   },
                   "slug": {
                     "en": "introduction-to-live-desk",
                     "es": "introduccion-al-modulo-de-chats",
-                    "pt": ""
+                    "pt": "visao-geral-do-live-desk-agentic-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37964,21 +37964,6 @@
                     "en": "using-groups-to-organize-human-attendance",
                     "es": "usando-grupos-para-controlar-la-atencion-humana",
                     "pt": "usando-grupos-para-controlar-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "pt": "Visão geral do Live Desk",
-                    "en": "Visão geral do Live Desk",
-                    "es": "Visão geral do Live Desk"
-                  },
-                  "slug": {
-                    "pt": "visao-geral-do-live-desk-agentic-cx",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
