@@ -1,4 +1,4 @@
----
+﻿---
 title: 'How to create a product collection'
 id: tutorials_244
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-> ⚠️ There are two ways to configure collections, through the Legacy CMS Portal or the [Collection module (Beta)](/en/docs/tutorials/creating-collections-beta). This article is about how to [configure collections through the Legacy CMS Portal](/en/docs/tutorials/adding-collections-cms).
+> ⚠️ There are two ways to configure collections, through the CMS Portal (Legacy) or the [Collection module (Beta)](/en/docs/tutorials/creating-collections-beta). This article is about how to [configure collections through the CMS Portal (Legacy)](/en/docs/tutorials/adding-collections-cms).
 
 To create a collection, follow the instructions below.
 

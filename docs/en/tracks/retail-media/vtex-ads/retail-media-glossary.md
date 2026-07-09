@@ -50,3 +50,4 @@ The following glossary brings together the main terms and concepts related to re
 | **Share of search** | A brand's share in searches made on a website. Formula: `(Brand searches/Total searches in the category) × 100`. |
 | **Market share** | The share of a company or product in the total sales of an industry or category during a specific period. |
 | **Third-party cookies** | Cookies created by domains different from the accessed website used for tracking and customized ads. |
+| **View attribution** | Attribution model that credits a conversion to an ad when the user viewed the ad before the purchase, even without clicking. Complements click attribution, which requires a click on the ad. |

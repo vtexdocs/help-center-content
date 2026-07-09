@@ -1,18 +1,11 @@
 ---
 title: 'Master Data'
-id: 4otjBnR27u4WUIciQsmkAw
-status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-05-20T19:54:00.000Z
-publishedAt: 2025-08-29T14:19:54.707Z
-firstPublishedAt: 2018-04-02T20:54:18.272Z
+updatedAt: 2026-07-08T18:37:00.000Z
 contentType: tutorial
 productTeam: Master Data
-author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: master-data
-legacySlug: o-que-e-o-master-data
 locale: pt
-subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
 O Master Data é uma solução da plataforma VTEX para banco de dados, que é altamente customizável, permitindo também a criação de aplicações.
@@ -37,7 +30,7 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
 | API                              | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview)                                                                                                                                                                                          |
 | Importação e exportação de planilhas | Sim                                                                                                                                    | Não                                                                                                                                                | - [Importar dados para o Master Data v1](/pt/docs/tutorials/importar-dados-no-master-data-v1)<br>- [Exportar dados do Master Data v1](/pt/docs/tutorials/exportando-dados)                                                                                                                                               |
 | Anexos (imagens)                 | Sim                                                                                                                                    | Não                                                                                                                                                | -                                                                                                                                                                                                                                                                                                                                                                                    |
-| Triggers                         | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Triggers](#triggers)<br>- [Criando triggers com Master Data v1](/pt/tutorial/creating-trigger-in-master-data--tutorials_1270#)<br>- [Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)                                                                                                      |
+| Triggers                         | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Triggers](#triggers)<br>- [Criando triggers com Master Data v1](/pt/docs/tutorials/criando-trigger-no-master-data)<br>- [Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)                                                                                                      |
 | JSON Schemas                     | Não                                                                                                                                    | Sim                                                                                                                                                | - [JSON Schemas](http://json-schema.org/)<br>- [Entendendo JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Começando a trabalhar com JSON schemas no Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Ciclo de vida do schema no Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
 | Propriedades aninhadas           | Não                                                                                                                                    | Sim                                                                                                                                                | - [Propriedades aninhadas](#propriedades-aninhadas)                                                                                                                                                                                                                                                                                                                                  |
 | Entidades de dados               | Referenciadas por acrônimos compostos de duas letras maiúsculas. Por exemplo, a entidade 'CL' armazena dados de clientes da loja e 'AD' de endereços. Não podem ser criadas por API. | Referenciadas por seus nomes. Por exemplo, 'Notification'. Só podem ser criadas por API.                                                           | - [Entidades de dados](#entidades-de-dados)<br>- [Entidades de dados no Master Data v1](/pt/docs/tutorials/entidade-de-dados)<br>- [Criando relações entre entidades de dados do Master Data v2](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api)                                                  |
@@ -122,132 +115,199 @@ Algumas entidades de dados são criadas automaticamente pela VTEX para suportar 
 ### Entidades nativas do Master Data v1
 
 | **Entidade** | **Descrição** |
-|------------|--------|
-| `cl`  | Customer accounts (clients)                |
-| `ad`  | Customer addresses                         |
-| `bk`  | Bucket (generic key/value)                 |
-| `gc`  | Gift cards                                 |
-| `gt`  | Gift card constraints                      |
-| `il`  | Internal logs                              |
-| `iw`  | Internal warnings                          |
-| `rd`  | Order (mirror)                             |
-| `od`  | Orders                                     |
-| `so`  | Stores                                     |
-| `iy`  | Availability item                          |
-| `au`  | Audit log                                  |
-| `sb`  | BridgeOrderSeller                          |
-| `bx`  | Buzz extract                               |
-| `bb`  | Buzz billing                               |
-| `bo`  | BridgeOrder                                |
-| `mb`  | BridgeOrderMarketplace                     |
-| `hl`  | Holidays                                   |
-| `AS`  | Availability Notifier (most likely source) |
-| `LOG` | PayU Europe PPP                            |
-| `AE`  | Avatax BR (Tax Protocol + Service)         |
-| `AL`  | Avatax BR Service                          |
-| `CS`  | Casino Gift Card                           |
-| `SP`  | Middleware Smiles Checkout                 |
+|-----------|----------|
+| `ad` | Endereços de clientes |
+| `ae` |  |
+| `al` |  |
+| `AS` | Availability Notifier |
+| `au` | Log de auditoria |
+| `bb` | Buzz billing |
+| `bk` | Bucket (chave/valor genérico) |
+| `bo` | BridgeOrder |
+| `bx` | Buzz extract |
+| `cl` | Contas de clientes |
+| `CS` | Casino Gift Card |
+| `gc` | Gift cards |
+| `gt` | Restrições de gift card |
+| `hl` | Feriados |
+| `il` | Logs internos |
+| `iw` | Avisos internos |
+| `iy` | Item de disponibilidade |
+| `mb` | BridgeOrderMarketplace |
+| `od` | Pedidos |
+| `rd` | Pedido (espelho) |
+| `sb` | BridgeOrderSeller |
+| `se` | - |
+| `sl` | - |
+| `so` | Lojas |
+| `SP` | Middleware Smiles Checkout |
 
 ### Entidades nativas do Master Data v2
 
 | **Entidade** | **Descrição** |
-|------------|--------|
-| `account`                               | Digital Currency                                               |
-| `affiliates`                            | Affiliates                                                     |
-| `affiliatesOrders`                      | Affiliates Commission Service                                  |
-| `audit`                                 | v2 Audit entity                                                |
-| `b2b_profiles`                          | Storefront Permissions                                         |
-| `b2b_quote_marketplace`                 | b2b_quote_marketplace                                          |
-| `b2b_roles`                             | Storefront Permissions                                         |
-| `b2b_seller_quote`                      | b2b_seller_quote                                               |
-| `b2b_users`                             | Storefront Permissions (owner)                                 |
-| `badges`                                | Badges                                                         |
-| `business`                              | Sales Autopilot Service                                        |
-| `BusinessOrganization`                  | Easy Setup (legacy B2B seeder)                                 |
-| `BusinessPermission`                    | Easy Setup (legacy B2B seeder)                                 |
-| `BusinessRole`                          | Easy Setup (legacy B2B seeder)                                 |
-| `buyerOrgConfiguration`                 | VTEX B2B Core                                                  |
-| `buyerOrgMember`                        | VTEX B2B Core                                                  |
-| `campaigns`                             | Opt-in Campaign Service (shared with Opt-in Campaign Listener) |
-| `CANCEL_ORDER_FISCAL_CODE`              | Order SMS Notification                                         |
-| `charge`                                | Digital Currency                                               |
-| `checkoutcustom`                        | Checkout UI Custom                                             |
-| `commissionBySKU`                       | Affiliates Commission Service                                  |
-| `commissioninvoices`                    | Mktplace Financial Commissions                                 |
-| `contact_information`                   | contact_information                                            |
-| `cost_centers`                          | B2B Organizations GraphQL                                      |
-| `creditAccount`                         | Digital Currency                                               |
-| `custom_prices`                         | Custom Prices (B2B)                                            |
-| `customFieldSettings`                   | v2 custom field settings                                       |
-| `customFieldValues`                     | v2 custom field values                                         |
-| `defaultValues`                         | defaultValues                                                  |
-| `eventinfo`                             | Worldline Global Collect                                       |
-| `eventRegistry`                         | Spreadsheet Event Broadcaster                                  |
-| `evolutionAppsUpdateEvent`              | Account Updates                                                |
-| `exemption`                             | Avalara                                                        |
-| `externalinvoices`                      | Mktplace Financial Commissions                                 |
-| `fulfillment-points`                    | Admin Operational Capacity                                     |
-| `giftCardList`                          | Gift Card List                                                 |
-| `import_session`                        | Products Import                                                |
-| `import_session_config`                 | Products Import                                                |
-| `instoreSettings`                       | Admin InStore (POS)                                            |
-| `interaction`                           | Shipment Tracker                                               |
-| `leyGondolas`                           | Admin Ley de Góndolas ARG                                      |
-| `MASTERDATA_ENTITY (resolve name)`      | WorldLine SIPS PPP                                             |
-| `mcf_admin_app`                         | Amazon MCF Admin                                               |
-| `module`                                | Sales Autopilot Service                                        |
-| `multiTransaction`                      | Smiles Payment Provider MD                                     |
-| `myWishlist`                            | Wishlist v2                                                    |
-| `myWishlists`                           | myWishlists                                                    |
-| `notify`                                | Availability Notifier                                          |
-| `onboarding`                            | Adyen Platforms                                                |
-| `onboarding_modifications`              | Orders GraphQL                                                 |
-| `ORDER_FISCAL_CODE`                     | Order SMS Notification                                         |
-| `orderInfo`                             | Octopia (casino)                                               |
-| `orders`                                | v2 Orders entity                                               |
-| `ordersWithExternalPromotions`          | External Promotion Monitoring GraphQL                          |
-| `organization_requests`                 | B2B Organizations GraphQL                                      |
-| `organizations`                         | B2B Organizations GraphQL                                      |
-| `paymentid2c2p`                         | Payment 2C2P                                                   |
-| `payuStatus`                            | PayU Europe Connector                                          |
-| `pins`                                  | Sales Performance GraphQL                                      |
-| `productInfo`                           | Octopia (casino)                                               |
-| `productReviews`                        | Reviews and Ratings                                            |
-| `productsWithError`                     | Products Monitoring Service                                    |
-| `promotionsCron`                        | Opt-in Campaign Service                                        |
-| `promotionsTrack`                       | Opt-in Campaign Service                                        |
-| `proposal`                              | Sales Autopilot Service                                        |
-| `queuemessagevo`                        | v2 queue message value object                                  |
-| `quotes`                                | B2B Quotes GraphQL                                             |
-| `rangeSafelist`                         | Opt-in Campaign Listener                                       |
-| `Reseller`                              | Easy Setup (legacy B2B seeder)                                 |
-| `ReturnApp`                             | ReturnApp                                                      |
-| `returnRequest`                         | Return App                                                     |
-| `scheduler`                             | v2 scheduler                                                   |
-| `sellerInfo`                            | Vertex O Series                                                |
-| `sellersdashboards`                     | Mktplace Financial Commissions                                 |
-| `shipment`                              | Shipment Tracker                                               |
-| `shopper`                               | v2 shopper profile                                             |
-| `smilesProductMapping`                  | Smiles Payment Provider MD                                     |
-| `smilesSellerConfiguration`             | Smiles Payment Provider MD                                     |
-| `smilesTransaction`                     | Smiles Payment Provider MD                                     |
-| `smsMessagesSchema`                     | Orange SMS Integration                                         |
-| `SNA`                                   | Seller Notification App                                        |
-| `statisticsdashboards`                  | Mktplace Financial Commissions                                 |
-| `subscription`                          | v2 subscription (recurrent commerce)                           |
-| `taxFallback{provider}`                 | Tax Fallback                                                   |
-| `templates`                             | Marketing Autopilot Service                                    |
-| `tradePolicyConfig`                     | Vertex O Series                                                |
-| `trainingBanners`                       | Training Banners App                                           |
-| `transaction`                           | Digital Currency                                               |
-| `userAffiliation`                       | Affiliates                                                     |
-| `UserOrganization`                      | Easy Setup (legacy B2B seeder)                                 |
-| `views`                                 | Sales Performance GraphQL                                      |
-| `vtex_admin_cms_graphql_content`        | Admin CMS GraphQL (declares this v2 native)                    |
-| `vtex_admin_cms_graphql_contentVariant` | Admin CMS GraphQL (declares this v2 native)                    |
-| `wishlist`                              | Wishlist (legacy .NET)                                         |
-| `wishlistitems`                         | Wishlist IO                                                    |
-| `wishlists`                             | Wishlist IO                                                    |
+|-----------|----------|
+| `account` | Moeda digital |
+| `affiliates` | Afiliados |
+| `affiliatesOrders` | Serviço de comissão de afiliados |
+| `agentchangeappstate` | Alteração de estado do app pelo agente |
+| `aggregateddayorders` | Pedidos agregados por dia |
+| `audit` | Entidade de auditoria da v2 |
+| `b2b_profiles` | Permissões de storefront |
+| `b2b_quote_marketplace` | b2b_quote_marketplace |
+| `b2b_roles` | Permissões de storefront |
+| `b2b_seller_quote` | b2b_seller_quote |
+| `b2b_users` | Permissões de storefront (owner) |
+| `badges` | Badges |
+| `bulkstatus` | Status em massa |
+| `business` | Serviço de piloto automático de vendas |
+| `BusinessOrganization` | Easy Setup (seeder B2B legado) |
+| `BusinessPermission` | Easy Setup (seeder B2B legado) |
+| `BusinessRole` | Easy Setup (seeder B2B legado) |
+| `buyerOrgConfiguration` | VTEX B2B Core |
+| `buyerOrgMember` | VTEX B2B Core |
+| `campaigns` | Serviço de campanhas de opt-in (compartilhado com o listener de campanhas de opt-in) |
+| `CANCEL_ORDER_FISCAL_CODE` | Notificação de pedidos por SMS |
+| `charge` | Moeda digital |
+| `checkoutcustom` | Checkout UI Custom |
+| `clients` | Clientes |
+| `commissionBySKU` | Serviço de comissão de afiliados |
+| `commissioningreportentry` | Entrada de relatório de comissionamento |
+| `commissioninvoices` | Comissões financeiras do marketplace |
+| `contact_information` | contact_information |
+| `cost_centers` | B2B Organizations GraphQL |
+| `creditAccount` | Moeda digital |
+| `custom_prices` | Preços personalizados (B2B) |
+| `customFieldSettings` | Configurações de campos personalizados da v2 |
+| `customFieldValues` | Valores de campos personalizados da v2 |
+| `dataentitysettings` | Configurações da entidade de dados |
+| `defaultValues` | defaultValues |
+| `eventinfo` | Worldline Global Collect |
+| `eventRegistry` | Spreadsheet Event Broadcaster |
+| `evolutionAppsUpdateEvent` | Account Updates |
+| `evolutiondeloreanupdateevent` | Evento de atualização do Delorean (Evolution) |
+| `evolutionworkspacepromotion` | Promoção de workspace (Evolution) |
+| `exemption` | Avalara |
+| `externalinvoices` | Comissões financeiras do marketplace |
+| `fbeconfiguration` | Configuração de FBE |
+| `fulfillment-points` | Admin de capacidade operacional |
+| `giftCardList` | Lista de gift cards |
+| `import_session` | Importação de produtos |
+| `import_session_config` | Importação de produtos |
+| `instoreSettings` | Admin do inStore (POS) |
+| `interaction` | Rastreador de envios |
+| `inventory` | Inventário |
+| `itemavailability` | Disponibilidade de item |
+| `leyGondolas` | Admin da Ley de Góndolas ARG |
+| `logisticsorderinfo` | Informações logísticas do pedido |
+| `mcf_admin_app` | Amazon MCF Admin |
+| `module` | Serviço de piloto automático de vendas |
+| `multiTransaction` | Smiles Payment Provider MD |
+| `myWishlist` | Lista de desejos v2 |
+| `myWishlists` | myWishlists |
+| `notify` | Availability Notifier |
+| `onboarding` | Adyen Platforms |
+| `onboarding_modifications` | Orders GraphQL |
+| `ORDER_FISCAL_CODE` | Notificação de pedidos por SMS |
+| `orderInfo` | Octopia (casino) |
+| `orders` | Entidade de pedidos da v2 |
+| `orders_items` | Itens de pedidos |
+| `orders_logistics` | Logística de pedidos |
+| `ordersWithExternalPromotions` | External Promotion Monitoring GraphQL |
+| `organization_requests` | B2B Organizations GraphQL |
+| `organizations` | B2B Organizations GraphQL |
+| `packages` | Pacotes |
+| `paymentid2c2p` | Pagamento 2C2P |
+| `payuStatus` | Conector PayU Europa |
+| `pickup_points` | Pontos de retirada |
+| `pins` | Sales Performance GraphQL |
+| `productInfo` | Octopia (casino) |
+| `productReviews` | Avaliações e classificações |
+| `productsWithError` | Serviço de monitoramento de produtos |
+| `promotionsCron` | Serviço de campanhas de opt-in |
+| `promotionsTrack` | Serviço de campanhas de opt-in |
+| `proposal` | Serviço de piloto automático de vendas |
+| `queuemessagevo` | Objeto de valor de mensagem de fila da v2 |
+| `quotes` | B2B Quotes GraphQL |
+| `rangeSafelist` | Listener de campanhas de opt-in |
+| `report_generations` | Gerações de relatórios |
+| `report_maps` | Mapas de relatórios |
+| `Reseller` | Easy Setup (seeder B2B legado) |
+| `ReturnApp` | ReturnApp |
+| `returnRequest` | Return App |
+| `scheduler` | Agendador da v2 |
+| `schema` | Esquema |
+| `sellerInfo` | Vertex O Series |
+| `sellersdashboards` | Comissões financeiras do marketplace |
+| `shipment` | Rastreador de envios |
+| `shopper` | Perfil do comprador da v2 |
+| `smilesProductMapping` | Smiles Payment Provider MD |
+| `smilesSellerConfiguration` | Smiles Payment Provider MD |
+| `smilesTransaction` | Smiles Payment Provider MD |
+| `smsMessagesSchema` | Integração de SMS Orange |
+| `SNA` | Seller Notification App |
+| `srapi` | SRAPI |
+| `statisticsdashboards` | Comissões financeiras do marketplace |
+| `stores` | Lojas |
+| `subscription` | Assinatura da v2 (recurrent commerce) |
+| `subscription_cohort` | Cohort de assinaturas |
+| `subscription_history` | Histórico de assinaturas |
+| `subscription_metric` | Métrica de assinaturas |
+| `subscription_orders` | Pedidos de assinaturas |
+| `subscription_preferences` | Preferências de assinaturas |
+| `subscriptions` | Assinaturas |
+| `subscriptions_execution` | Execução de assinaturas |
+| `subscriptions_group` | Grupo de assinaturas |
+| `subscriptions_thin` | Assinaturas (versão reduzida) |
+| `templates` | Serviço de piloto automático de marketing |
+| `tms_orders` | Pedidos do TMS |
+| `tradePolicyConfig` | Vertex O Series |
+| `trainingBanners` | Training Banners App |
+| `transaction` | Moeda digital |
+| `transportation_order` | Pedido de transporte |
+| `undefined` |  |
+| `userAffiliation` | Afiliados |
+| `UserOrganization` | Easy Setup (seeder B2B legado) |
+| `vendors` | Vendors |
+| `vendors_carts` | Carrinhos de vendors |
+| `views` | Sales Performance GraphQL |
+| `vtable` |  |
+| `vtex_admin_cms_graphql_builder` | Admin CMS GraphQL builder |
+| `vtex_admin_cms_graphql_content` | Admin CMS GraphQL (declarada como nativa da v2) |
+| `vtex_admin_cms_graphql_contentVariant` | Admin CMS GraphQL (declarada como nativa da v2) |
+| `vtex_admin_media_image` | Admin de mídia (imagem) |
+| `vtex_affiliates_affiliates` | Afiliados |
+| `vtex_affiliates_commission_service_affiliatesorders` | Serviço de comissão de afiliados |
+| `vtex_affiliates_commission_service_commissionbysku` | Serviço de comissão de afiliados |
+| `vtex_affiliates_useraffiliation` | Afiliados |
+| `vtex_b2b_core_buyerorgconfiguration` | VTEX B2B Core |
+| `vtex_b2b_core_buyerorgmember` | VTEX B2B Core |
+| `vtex_badges_badges` | Badges |
+| `vtex_builder_hub_appid_to_schema` | Builder Hub |
+| `vtex_builder_hub_appversion_to_mostrecentschema` | Builder Hub |
+| `vtex_connector_payu_payustatus` | Conector PayU Europa |
+| `vtex_defense_mode_threats` | Ameaças do Defense Mode |
+| `vtex_gift_card_list_giftcardlist` | Lista de gift cards |
+| `vtex_innoship` | Innoship |
+| `vtex_list_graphql_userlistitems` | Itens de listas de usuários (List GraphQL) |
+| `vtex_list_graphql_userlists` | Listas de usuários (List GraphQL) |
+| `vtex_list_graphql_users` | Usuários (List GraphQL) |
+| `vtex_onboarding_seller_sellerinvitations` | Convites de sellers (onboarding de sellers) |
+| `vtex_orders_graphql_onboardingusers` | Usuários de onboarding (Orders GraphQL) |
+| `vtex_pagespeed_graphql_top_pages` | Páginas principais (PageSpeed GraphQL) |
+| `vtex_pagespeed_graphql_toppages` | Páginas principais (PageSpeed GraphQL) |
+| `vtex_pagespeed_graphql_tracked_pages` | Páginas monitoradas (PageSpeed GraphQL) |
+| `vtex_pagespeed_graphql_trackedpages` | Páginas monitoradas (PageSpeed GraphQL) |
+| `vtex_ppp_stripe_connect_sellerorders` | Pedidos de sellers (Stripe Connect) |
+| `vtex_products_monitoring_service_productswitherror` | Serviço de monitoramento de produtos |
+| `vtex_return_app_returnrequest` | Return App |
+| `vtex_sales_performance_graphql_pins` | Sales Performance GraphQL |
+| `vtex_sales_performance_graphql_views` | Sales Performance GraphQL |
+| `vtex_spreadsheet_event_broadcaster_eventregistry` | Spreadsheet Event Broadcaster |
+| `vtex_wishlist_io_wishlistitems` | Wishlist IO |
+| `vtex_wishlist_io_wishlists` | Wishlist IO |
+| `wishlist` | Lista de desejos (legado .NET) |
+| `wishlistitems` | Wishlist IO |
+| `wishlists` | Wishlist IO |
 
 ## Entidades de dados personalizadas
 
@@ -272,6 +332,12 @@ A medição e a cobrança seguem um ciclo mensal:
 - Até o dia 30 de cada mês, a VTEX calcula os valores referentes ao uso do Master Data e os créditos aplicáveis para a próxima fatura.
 
 > ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
+
+### Excluir entidade x excluir documentos
+
+Ao tentar reduzir o volume contabilizado no snapshot mensal de cobrança, é importante distinguir a exclusão da **entidade de dados** (estrutura no Admin VTEX) da exclusão dos **documentos** (registros armazenados).
+
+> ⚠️ Excluir uma entidade de dados personalizada pela interface do Master Data v1 remove a definição da entidade, mas **não** exclui os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) no portal de desenvolvedores.
 
 ## Casos de uso
 

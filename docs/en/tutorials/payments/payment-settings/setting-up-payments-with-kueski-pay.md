@@ -15,10 +15,18 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Kueski Pay payment provider. With this provider, your store can make sales through Notes Payable.
+At VTEX, it is possible to integrate with the Kueski Pay payment provider. Through this provider, your store can make sales using Notes Payable.
 
-To set up your Kueski Pay, access [Registering gateway affiliations](/en/tutorial/afiliacoes-de-gateway--tutorials_444#).
+To configure Kueski Pay, follow the steps below:
 
-To set up payment through Notes Payable, access [Setting up payments with Promissory](/en/docs/tutorials/setting-up-payments-with-notes-payable).
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name **KueskiPay** in the search bar and click on the name of the provider.
+4. In **Provider Authorization**, fill in the registration fields **App key** and **App token** with the data provided by KKueski Pay.
+5. If you wish to modify the identification name to be displayed for the Kueski Pay provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
+6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
+7. Click `Save`.
+
+To set up payment through Notes Payable, access [Setting up payments with Notes Payable](https://help.vtex.com/docs/tutorials/setting-up-payments-with-notes-payable).
 
 After following the indicated steps, Kueski Pay may take up to 10 minutes to appear at your store's checkout as a payment option.

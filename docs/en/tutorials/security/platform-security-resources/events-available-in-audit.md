@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
@@ -34,7 +34,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -192,6 +192,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | CREATE_GIFT_CARD_CANCELLATION | Gift card cancellation record. | Gift card ID. |
 | CREATE_GIFT_CARD_SETTLEMENT | Gift card settlement record. | Gift card ID. |
 | INSERT_GIFT_CARD_CREDITS | Added credit to gift card. | Gift card ID. |
+| GET_UNMASKED_PII | Viewed unmasked personally identifiable information (PII). | Gift card ID. |
 ## Checkout
 
 | Action | Event description | Event details |
@@ -259,7 +260,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | UpdateSchema | Created or updated schema on Master Data v2. | Schema name. |
 | DeleteSchema | Deleted schema on Master Data v2. | Schema name. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Action | Event description | Event details |
 |---|---|---|
@@ -274,7 +275,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | Create new media | Create media file. | Event ID. |
 | Delete media | Delete media file. | Event ID. |
 
-In the **Action** column, all Headless CMS events also display the following information:
+In the **Action** column, all Headless CMS (Legacy) events also display the following information:
 
 * **CONTENT_ID:** unique identifier of the content.
 * **VARIANT_ID:** unique identifier of the content version.

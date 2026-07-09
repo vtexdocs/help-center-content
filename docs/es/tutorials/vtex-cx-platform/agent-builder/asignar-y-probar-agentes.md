@@ -3,7 +3,7 @@ title: "Asignar y probar agentes"
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2025-09-11T13:21:03.550Z
+updatedAt: 2026-06-18T00:00:00.000Z
 publishedAt: 2025-09-11T13:21:03.550Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
@@ -15,50 +15,76 @@ locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-La sección **Agentes** permite al usuario asignar agentes al equipo y probarlos.
+La sección **Mis agentes** permite asignar agentes al equipo y probar su funcionamiento. Algunos agentes oficiales requieren credenciales para operar en la plataforma. Para más información, accede a [Agentes oficiales de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/agentes-oficiales-de-vtex-cx-platform).
 
-Algunos agentes oficiales requieren credenciales. Consulta la lista completa en [Agentes oficiales de VTEX CX Platform y sus credenciales](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
+> ℹ️ Para crear agentes personalizados, utiliza la CLI de VTEX CX Platform (Weni). Para más información, consulta [Using the VTEX CX Platform (Weni) CLI](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli#getting-started-with-your-project).
 
-> ℹ️ Para crear agentes personalizados, utiliza la CLI de VTEX CX Platform. Consulta la [documentación](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) para crear tu propio agente.
+Este artículo se divide en las siguientes secciones:
 
-Este artículo se divide en dos partes:
+- [Asignar agente al equipo](#asignar-agente-al-equipo)
+- [Eliminar agente](#eliminar-agente)
+- [Probar agente](#probar-agente)
 
-- [Asignar un agente al equipo](#como-asignar-un-agente)
-- [Probar un agente](#como-probar-un-agente)
+## Asignar agente al equipo
 
-## Asignar un agente al equipo
+Para asignar un nuevo agente a tu tienda sigue los pasos a continuación:
 
-1. En el menú lateral, haz clic en **Agent Builder**.
-2. Luego, haz clic en **Agentes**.
-3. En la barra de herramientas superior, haz clic en <i class="fas fa-plus"></i>`Asignar agentes`.
-4. En la Galería de agentes, selecciona **Agentes oficiales** o **Agentes personalizados**. Puedes seleccionar entre los agentes listados o usar el campo de búsqueda para buscar un agente específico.
-5. Después de elegir el agente, haz clic en `Asignar al equipo`.
+1. Accede a tu organización en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en el ícono **Mis agentes**.
+3. Haz clic en <i class="fas fa-plus" aria-hidden="true"></i>`Asignar nuevos agentes`.
+4. En la página **Asignar nuevos agentes**, selecciona una de las opciones disponibles:
+- **Agentes oficiales:** agentes de VTEX o de integraciones externas previamente registradas en la plataforma.
+- **Agentes personalizados:** agentes creados para tu operación.
 
-> ⚠️ Si el agente requiere credenciales, llena los campos necesarios y luego haz clic en `Asignar`.
+> ℹ️ También puedes encontrar agentes utilizando el campo de búsqueda o filtrando por tipo de categoría.
 
-## Probar un agente
+5. Después de elegir un agente, haz clic en `Ver detalles`.
+6. En el modal del agente revisa la información sobre los MCPs disponibles y el ejemplo de conversación.
+7. Haz clic en `Iniciar configuración`.
+8. En **Asignar {Nombre del agente}**, en la sección **Selección de sistema**, elige una de las opciones disponibles y haz clic en `Siguiente`.
+9. En **Selección de MCP**, selecciona una de las opciones disponibles para definir el comportamiento del agente.
+10. En **Configurar MCP {Nombre del sistema}**, si está disponible, completa o selecciona los parámetros del agente. Algunos agentes no tienen parámetros configurables.
+11. En **Revisa la configuración e ingresa las credenciales**, revisa la información, llena los campos solicitados y haz clic en `Finalizar`.
 
-Para probar un agente, haz clic en `Vista previa`.
+Después de completar estos pasos, el agente se mostrará en la sección **Agentes asignados** de la página **Mis agentes**.
 
-En esta pantalla puedes:
+## Eliminar agente
 
-- Iniciar una conversación utilizando el cuadro de diálogo.
-- Enviar un mensaje de audio haciendo clic en el ícono de micrófono.
-- Enviar una imagen haciendo clic en el ícono de más <i class="fas fa-plus"></i> y luego en `Fotos`.
+Para remover un agente de tu tienda sigue los pasos a continuación:
 
-En **Flujo visual** pueden observarse los agentes que se activan a partir de las preguntas realizadas.
+1. Accede a tu organización en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en el ícono **Mis agentes**.
+3. En la sección **Agentes asignados**, haz clic sobre el agente deseado.
+4. Haz clic en `Ver opciones`.
+5. Haz clic en `Eliminar agente`.
 
-En **Logs**, se registra el historial detallado de eventos procesados por la inteligencia artificial (IA). Con esta información, puedes identificar cómo funciona la IA y diagnosticar problemas, mejorando su desempeño. Haz clic en `Filtrar logs` para buscar por palabras clave o buscar entre las siguientes categorías:
+> ℹ️ Si deseas volver a utilizar este agente realiza la nueva asignación según se describe en [Asignar agente al equipo](#asignar-agente-al-equipo).
 
-| Categoría                     | Descripción de la etapa                                                                                                     |
-| ----------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| Aplicando reglas de seguridad | Aplica protecciones y mecanismos de seguridad.                                                                              |
-| Conocimientos                 | Busca información en la base de conocimientos del agente.                                                                   |
-| Asignando tarea al agente     | Activa al agente con tareas.                                                                                                |
-| Redirigiendo al manager       | Redirige los mensajes del usuario al manager, el agente principal encargado de elaborar la respuesta final para el usuario. |
-| Enviando respuesta final      | Envía la respuesta final al usuario.                                                                                        |
-| Enviando respuesta al manager | Redirige la información al manager, el agente principal que interactúa con el usuario.                                      |
-| Pensando                      | Analiza los siguientes pasos a realizar.                                                                                    |
-| Herramienta                   | Activa la herramienta que el agente utiliza para interactuar con otros sistemas.                                            |
+## Probar agente
 
-Para limpiar la conversación, haz clic en el menú <i class="fas fa-ellipsis-v"></i> al lado de **Vista previa de los agentes** y selecciona `Limpiar conversaciones`.
+Para probar el funcionamiento de un agente asignado, haz clic en `Prueba tus agentes`, en la esquina inferior derecha de la pantalla.
+
+En la sección **Prueba tus agentes**, puedes:
+
+- Seleccionar, en el campo **Versión del Manager**, el modelo que actuará como agente orquestador durante la conversación.
+- Iniciar una conversación usando el cuadro de diálogo.
+- Enviar un mensaje de audio haciendo clic en el ícono de micrófono o en el botón <i class="fas fa-plus" aria-hidden="true"></i> y, a continuación, en `Audio`.
+- Enviar archivos haciendo clic en el botón <i class="fas fa-plus" aria-hidden="true"></i> y, a continuación, en `Enviar archivo`.
+- En la pestaña **Flujo visual**, visualizar en formato de diagrama los agentes que se están activando para producir la respuesta mostrada en el cuadro de diálogo.
+- En la pestaña **Logs**, verificar el registro detallado de los eventos procesados por el modelo de IA durante la conversación. Esta información ayuda a entender el procesamiento de la conversación, identificar posibles problemas y mejorar el desempeño del agente.
+
+Para buscar eventos específicos, haz clic en `Filtrar logs` y busca por palabras clave o por las siguientes categorías:
+
+| Categoría | Descripción de la etapa |
+| --- | :--- |
+| Aplicando reglas de seguridad | Verificación de seguridad del contenido, incluyendo protección de datos sensibles, bloqueo de contenidos prohibidos y aplicación de políticas de uso. |
+| Asignando tarea al agente | Definición del agente especializado o recurso interno que será responsable de una etapa de la conversación. |
+| Conocimientos | Consulta la base de conocimientos, como documentación, artículos del Help Center o contenidos internos, para buscar información oficial antes de la respuesta. |
+| Enviando al manager | Transferencia al manager para definir la siguiente etapa de la conversación. |
+| Enviando a soporte humano | Transferencia de la conversación a soporte humano debido a una limitación técnica, excepción o regla de negocio. |
+| Enviando al manager | Envío del resultado de una herramienta, agente o etapa del flujo al manager para procesamiento. |
+| Enviando respuesta final | Envío de la respuesta al usuario después de la conclusión de la orquestación interna. |
+| Herramienta | Uso de un recurso externo o módulo específico, como consulta de pedidos, análisis de imagen, transcripción de audio o búsqueda en otro sistema. |
+| Pensando | Etapa en la que el modelo procesa internamente la solicitud, planea la respuesta y decide si debe accionar herramientas, consultar conocimiento o transferir la conversación a otro flujo. |
+
+> ℹ️ Para eliminar el historial de las conversaciones con el agente orquestador, haz clic en el menú <i class="fas fa-ellipsis-v" aria-hidden="true"></i> al lado de **Prueba tus agentes** y, a continuación, en `Limpiar conversaciones`.

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Releases: acciones en releases (Beta)'
 id: 1zsomdifPEQkdV6RW93JyW
 status: PUBLISHED
@@ -34,7 +34,7 @@ Cada página muestra una vista de los releases y te permite realizar distintas a
 * [Publicar un release](#publicar-un-release)
 * [Eliminar un release](#eliminar-un-release)
 
-> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/docs/tracks/cms-vtex-io) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/docs/tracks/cms-vtex-io) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS (Legacy)](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Crear un release
 

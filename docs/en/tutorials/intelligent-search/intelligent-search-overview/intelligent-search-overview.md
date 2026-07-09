@@ -51,7 +51,7 @@ Access settings and features to optimize search results:
 Access reports to monitor Intelligent Search:
 
 * [Search explanation](/en/docs/tutorials/explained-search): Simulates searches and displays all the references used to determine the ranking of the results.  
-* [Analytics](/en/docs/tutorials/analytics): Organizes data related to the searches performed in the store and allows you to export this data in a CSV file.  
+* [Analytics](/en/docs/tutorials/intelligent-search-analytics): Organizes data related to the searches performed in the store and allows you to export this data in a CSV file.  
 * [Indexing history](/en/docs/tutorials/indexing-history): Monitors the synchronization status of all products in the [Catalog](/en/docs/tutorials/catalog-overview) sent to Intelligent Search.
 
 ## How search works
