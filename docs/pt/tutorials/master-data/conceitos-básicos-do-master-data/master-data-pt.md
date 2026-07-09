@@ -1,7 +1,7 @@
 ---
 title: 'Master Data'
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-07T19:39:00.000Z
+updatedAt: 2026-07-08T18:37:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data
@@ -332,6 +332,12 @@ A medição e a cobrança seguem um ciclo mensal:
 - Até o dia 30 de cada mês, a VTEX calcula os valores referentes ao uso do Master Data e os créditos aplicáveis para a próxima fatura.
 
 > ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
+
+### Excluir entidade x excluir documentos
+
+Ao tentar reduzir o volume contabilizado no snapshot mensal de cobrança, é importante distinguir a exclusão da **entidade de dados** (estrutura no Admin VTEX) da exclusão dos **documentos** (registros armazenados).
+
+> ⚠️ Excluir uma entidade de dados personalizada pela interface do Master Data v1 remove a definição da entidade, mas **não** exclui os documentos (registros) já armazenados. O volume faturado permanece inalterado até que os registros sejam removidos pela API. Para excluir documentos e reduzir a cobrança, consulte o guia [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) no portal de desenvolvedores.
 
 ## Casos de uso
 
