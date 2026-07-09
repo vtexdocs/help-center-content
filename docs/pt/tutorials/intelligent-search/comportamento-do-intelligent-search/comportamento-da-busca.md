@@ -96,12 +96,12 @@ Em todos os resultados de busca são apresentados filtros que podem ser selecion
 
 Quando o cliente aplica filtros nos resultados, o Intelligent Search combina os filtros assim:
 
-* **Mesmo tipo de filtro → OR (união):** se vários valores do mesmo filtro (por exemplo, duas cores) estão selecionados, entram no resultado os produtos que correspondem a **qualquer** um desses valores.
-* **Filtros de tipos diferentes → AND (interseção):** se o cliente combina filtros de tipos diferentes (por exemplo, cor e marca), o resultado mostra apenas produtos que atendem **todas** as condições ao mesmo tempo.
+* **Mesmo tipo de filtro → OR (união):** se vários valores do mesmo filtro (por exemplo, duas cores) estão selecionados, entram no resultado os produtos que correspondem a qualquer um desses valores.
+* **Filtros de tipos diferentes → AND (interseção):** se o cliente combina filtros de tipos diferentes (por exemplo, cor e marca), o resultado mostra apenas produtos que atendem todas as condições ao mesmo tempo.
 
 ### Filtros negativos (operador NOT)
 
-É possível **excluir** um valor de filtro usando o prefixo `not:` no segmento de valor (no caminho de filtros da URL), no padrão `/{chave do filtro}/not:{valor}/`. Por exemplo, `cor/azul/tamanho/not:42` restringe a cor azul e remove o tamanho 42 do conjunto de resultados.
+É possível excluir um valor de filtro usando o prefixo `not:` no segmento de valor (no caminho de filtros da URL), no padrão `/{chave do filtro}/not:{valor}/`. Por exemplo, `cor/azul/tamanho/not:42` restringe a cor azul e remove o tamanho 42 do conjunto de resultados.
 
 Esse comportamento permite cenários como incluir produtos de uma coleção e excluir outra. O operador NOT exclui valores específicos, enquanto as regras de OR e AND acima continuam valendo para as seleções positivas de filtro.
 
