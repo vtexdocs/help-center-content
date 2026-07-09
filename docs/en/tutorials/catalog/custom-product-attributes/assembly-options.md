@@ -35,7 +35,7 @@ There are two ways to implement Assembly Options: using the [Assembly Options ap
 
 ### Assembly Options App
 
-The [Assembly Options](https://developers.vtex.com/docs/apps/vtex.admin-assembly-options) app, available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/), provides an interface for configuring and managing custom options. In this case, the assembly option syntax and attachment are automatically generated. Please refer to the [Assembly Options App](/en/docs/tutorials/assembly-options-app) user guide to learn more about the app.
+The [Assembly Options](https://developers.vtex.com/docs/apps/vtex.admin-assembly-options) app, available for stores developed with [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), provides an interface for configuring and managing custom options. In this case, the assembly option syntax and attachment are automatically generated. Please refer to the [Assembly Options App](/en/docs/tutorials/assembly-options-app) user guide to learn more about the app.
 
 ### Custom Product Attributes
 
