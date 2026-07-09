@@ -9,11 +9,11 @@ locale: pt
 hidden: false
 ---
 
-Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/introducao-sobre-o-modulo-de-chats), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
+Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/vis%C3%A3o-geral-do-live-desk-agentic-cx), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
 
 > ⚠️ Caso os contatos não sejam adicionados a um grupo de controle, o chatbot irá conflitar e interromper o atendimento humano, enviando as mensagens padrão configuradas no seu ambiente.
 
-Neste artigo iremos nos referir ao grupo de controle como `Atendimento Humano`. Você aprenderá a:
+Neste artigo você aprenderá a:
 
 - [Criar o grupo de controle](#criar-o-grupo-de-controle)
 - [Adicionar contatos ao grupo de controle](#adicionar-contatos-ao-grupo-de-controle)
@@ -25,41 +25,42 @@ Neste artigo iremos nos referir ao grupo de controle como `Atendimento Humano`. 
 
 O grupo de controle é um grupo estático, ou seja, os contatos são adicionados e removidos manualmente ou por meio de cartas de ação nos fluxos. Para criá-lo, siga as etapas abaixo:
 
-1. Acesse sua organização no dashboard do [VTEX CX Platform](https://dash.weni.ai/orgs).
+1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
 3. Clique em `Criar Grupo`.
-4. No pop-up, insira o nome do grupo (por exemplo, `Atendimento Humano`) e clique em `Criar`.
+4. No pop-up, insira o nome do grupo (por exemplo, _Atendimento Humano_) e clique em `Criar`.
 
 O grupo passará a ser listado junto às demais categorias de contatos no menu lateral. Para mais detalhes, consulte o artigo [Grupos estáticos e grupos dinâmicos](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos).
 
 ## Adicionar contatos ao grupo de controle
 
-O contato deve entrar no grupo de controle no mesmo fluxo em que o ticket de atendimento humano é aberto. Assim, ele passa a ser controlado a partir do momento em que a conversa é direcionada a um agente.
+O contato deve entrar no grupo de controle no mesmo [fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao) em que o ticket de atendimento humano é aberto. Assim, ele passa a ser controlado quando a conversa é direcionada a um agente.
 
-No fluxo em que você utiliza a carta de ação **Abrir um ticket com um agente humano**, adicione também a carta de ação **Adicionar um contato ao grupo** e selecione o grupo `Atendimento Humano`. Para isso, siga as etapas abaixo:
+No fluxo em que você utiliza a carta de ação **Abrir um ticket com um agente humano**, adicione também a carta de ação **Adicionar um contato ao grupo** e selecione o grupo _Atendimento Humano_. Para isso, siga as etapas abaixo:
 
-1. Acesse sua organização no dashboard do [VTEX CX Platform](https://dash.weni.ai/orgs).
+1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Fluxo de automação**.
 3. Clique no nome do fluxo responsável por abrir o ticket.
-4. Dentro do fluxo, clique no bloco inicial e na opção **Quando um contato chegar a esse ponto do fluxo...**, selecione a opção **Adicione o contato a um grupo**.
-5. Em **Selecione os grupos para adicionar o contato**, selecione o grupo `Atendimento Humano`.
-6. Clique em **Confirmar**.
-7. Posicione esse novo bloco junto ao bloco **Abrir um ticket com um agente humano**, de modo que o contato entre no grupo ao iniciar o atendimento.
-8. Salve as alterações do fluxo.
+4. Dentro do fluxo, clique no bloco inicial.
+5. No pop-up, em **Quando um contato chegar a esse ponto do fluxo...**, selecione a opção **Adicione o contato a um grupo**.
+6. Em **Selecione os grupos para adicionar o contato**, selecione o grupo `Atendimento Humano`.
+7. Clique em **Confirmar**.
+8. Posicione esse novo bloco junto ao bloco **Abrir um ticket com um agente humano**, de modo que o contato entre no grupo ao iniciar o atendimento.
+9. Salve as alterações do fluxo.
 
-> ℹ️ Caso você abra tickets em fluxos diferentes, **é necessário adicionar essa carta em todos os fluxos** que direcionam contatos ao atendimento humano.
+> ⚠️ Caso você abra tickets em fluxos diferentes, é necessário adicionar essa carta em todos os fluxos que direcionam contatos ao atendimento humano.
 
 Para saber mais sobre essas cartas, consulte o artigo [Cartas de ação](https://help.vtex.com/pt/docs/tutorials/cartas-de-acao).
 
 ## Ignorar o grupo de controle nos disparadores
 
-Adicionar o contato ao grupo é apenas a base. Para que o chatbot não interrompa o atendimento, é preciso configurar cada disparador do projeto para ignorar os contatos que estão no grupo `Atendimento Humano`. Para isso, siga as etapas abaixo:
+Após adicionar o contato ao grupo, é preciso configurar cada disparador do projeto para ignorar os contatos que estão no grupo _Atendimento Humano_. Assim, o chatbot não interrompe o atendimento. Para isso, siga as etapas abaixo:
 
-1. Acesse sua organização no dashboard do [VTEX CX Platform](https://dash.weni.ai/orgs).
+1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
 3. Clique em **Disparadores**.
 4. Clique em um disparador configurado no seu projeto.
-5. No campo **Grupos a Excluir**, selecione o grupo `Atendimento Humano`.
+5. No campo **Grupos a Excluir**, selecione o grupo _Atendimento Humano_.
 4. Clique em `Salvar alterações`.
 5. Repita o processo para **todos os disparadores** do projeto.
 
@@ -71,13 +72,14 @@ Com isso, enquanto o contato estiver no grupo de controle, ele não será aciona
 
 Para automatizar essa remoção, utilize o disparador que aciona um fluxo sempre que um ticket do Live Desk é encerrado. Para isso, siga as etapas abaixo:
 
-1. Acesse sua organização no dashboard do [VTEX CX Platform](https://dash.weni.ai/orgs).
+1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Contatos**.
 3. Clique em **Disparadores**.
-4. Clique em **Criar disparador** e em **Iniciar um fluxo após um ticket ser fechado.**.
-5. Em **Fluxo**, selecione um fluxo de encerramento.
-6. Deixe o campo **Grupos a Excluir** vazio para aplicar o gatilho a todos os contatos.
-7. Clique em `Criar disparador`.
+4. Clique em `Criar disparador`.
+5. Clique em **Iniciar um fluxo após um ticket ser fechado.**.
+6. Em **Fluxo**, selecione um fluxo de encerramento.
+7. Deixe o campo **Grupos a Excluir** vazio para aplicar o gatilho a todos os contatos.
+8. Clique em `Criar disparador`.
 
 Esse fluxo pode ser extremamente simples: basta conter a carta de ação **Remover contato de um grupo**, selecionando o grupo `Atendimento Humano`. Dessa forma, ao encerrar o ticket, o contato é retirado do grupo de controle e volta a interagir normalmente com o chatbot.
 
