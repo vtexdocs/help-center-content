@@ -21,6 +21,6 @@ To configure Multipago, follow the steps below:
 5. If you wish to modify the identification name to be displayed for the Multipago provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. Click `Save`.
 
-To set up payment through Notes Payable, access [Setting up payments with Notes Payable](https://help.vtex.com/docs/tutorials/setting-up-payments-with-notes-payable).
+To set up payment through Notes Payable, access [Setting up payments with Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable).
 
 After following the indicated steps, Multipago may take up to 10 minutes to appear at your store's  checkout as a payment option.

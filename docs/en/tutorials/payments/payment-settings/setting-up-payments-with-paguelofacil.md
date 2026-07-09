@@ -28,8 +28,8 @@ To configure Paguelofacil, follow the steps below:
 8. In **Provider Fields**, complete the field **WEB_CODE** according to the provider's instructions.
 9. Click `Save`.
 
-To configure the payment methods to be processed by Paguelofacil, access [Configuring Payment Conditions](https://help.vtex.com/pt/docs/tutorials/condicoes-de-pagamento).
+To configure the payment methods to be processed by Paguelofacil, access [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, Paguelofacil may take up to 10 minutes to appear at your store's checkout as a payment option.

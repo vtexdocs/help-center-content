@@ -20,6 +20,6 @@ To configure PagoWebPE, follow the steps below:
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
 7. Click `Save`.
 
-To set up payment through Notes Payable, access [Setting up payments with Notes Payable](https://help.vtex.com/docs/tutorials/setting-up-payments-with-notes-payable).
+To set up payment through Notes Payable, access [Setting up payments with Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable).
 
 After following the indicated steps, PagoWebPE may take up to 10 minutes to appear at your store's  checkout as a payment option.
