@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
-O Motor de Busca é o centro da inteligência do VTEX Intelligent Search. Ele interpreta o termo buscado e apresenta a listagem filtrada e ordenada de produtos. Essa ferramenta possibilita uma pesquisa mais objetiva, por meio de indexação e tratamento dos dados do catálogo.
+O Motor de Busca é o centro da inteligência do [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral). Ele interpreta o termo buscado e apresenta a listagem filtrada e ordenada de produtos. Essa ferramenta possibilita uma pesquisa mais objetiva, por meio de indexação e tratamento dos dados do catálogo.
 
-Essa funcionalidade é padrão do VTEX Intelligent Search e atende a maioria dos cenários. Contudo, o Motor de Busca também apresenta alguns ajustes para que o resultado da busca seja aperfeiçoado. Neste guia, apresentamos:
+Essa funcionalidade é padrão do Intelligent Search e atende a maioria dos cenários. Contudo, o Motor de Busca também apresenta alguns ajustes para que o resultado da busca seja aperfeiçoado. Neste guia, apresentamos:
 
 * [Comportamento padrão da busca](#comportamento-padrão-da-busca)
 * [Configurações para o comportamento da busca](#configuracoes-para-o-comportamento-da-busca)
@@ -51,7 +51,7 @@ Exemplo: suponha que um cliente queira pesquisar pelo termo `bola`. Seguindo a c
 * `bora` (trocar 1 caractere)
 * `obla` (trocar 2 caracteres que ficam um do lado do outro entre eles)
 
-> ℹ️ Espaços em branco não são considerados no *fuzzy*, então `base ball` não será corrigido para `baseball`, por exemplo. Recomendamos o uso de [sinônimos](/pt/docs/tutorials/sinonimos) para esses casos.
+> ℹ️ Espaços em branco não são considerados no *fuzzy*, então `base ball` não será corrigido para `baseball`, por exemplo. Recomendamos o uso de [sinônimos](https://help.vtex.com/pt/docs/tutorials/sinonimos) para esses casos.
 
 ### Resultado mínimo
 
@@ -66,7 +66,7 @@ Em uma busca com múltiplos termos, ocorre a lógica a seguir:
 
 ### Limite de paginação
 
-O VTEX Intelligent Search limita o resultado de busca a 50 páginas. Esse limite incentiva o uso de filtros, permitindo uma navegação mais relevante e focada para o usuário.
+O Intelligent Search limita o resultado de busca a 50 páginas. Esse limite incentiva o uso de filtros, permitindo uma navegação mais relevante e focada para o usuário.
 
 ## Configurações para o comportamento da busca
 
@@ -78,15 +78,15 @@ Determina quais informações de produto são pesquisáveis. A partir da configu
 
 | Informações | Configuração |
 | - | - |
-| <ul><li>Nome do produto</li> <li>Marca</li><li>ID do produto (`ProductID`)</li><li>Código de referência do produto (`ProductRefID`)</li><li>ID do SKU (`SKUID`)</li><li>Código de referência do SKU (`SKURefID`)</li><li>EAN</li></ul> | Informações pesquisáveis por **padrão** no VTEX Intelligent Search. Para remover alguma delas, entre em contato com o nosso [Suporte](https://supporticket.vtex.com/support). |
-| <ul><li>Especificações de produto</li><li>Especificações de SKU</li><li>Departamento</li><li>Categoria</li><li>Subcategoria</li></ul> | Para incluir as especificações desejadas como campos pesquisáveis, é necessário configurar a opção **Especificações pesquisáveis** no Admin VTEX, em **Intelligent Search** > **Configurações da busca**.<br /><br /> Por exemplo: se uma camisa não tiver a cor no nome do produto ou do SKU, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.<br /><br /> Para mais detalhes sobre a definição de especificações pesquisáveis, acesse o guia [Configurações da busca](/pt/docs/tutorials/configuracao-da-busca#configuracoes-gerais). Saiba mais sobre especificações em [Especificações de produto e de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito). |
+| <ul><li>Nome do produto</li> <li>Marca</li><li>ID do produto (`ProductID`)</li><li>Código de referência do produto (`ProductRefID`)</li><li>ID do SKU (`SKUID`)</li><li>Código de referência do SKU (`SKURefID`)</li><li>EAN</li></ul> | Informações pesquisáveis por padrão no Intelligent Search. Para remover alguma delas, entre em contato com o nosso [Suporte](https://supporticket.vtex.com/support). |
+| <ul><li>Especificações de produto</li><li>Especificações de SKU</li><li>Departamento</li><li>Categoria</li><li>Subcategoria</li></ul> | Para incluir as especificações desejadas como campos pesquisáveis, é necessário configurar a opção **Especificações pesquisáveis** no Admin VTEX, em **Intelligent Search** > **Configurações da busca**.<br /><br /> Por exemplo: se uma camisa não tiver a cor no nome do produto ou do SKU, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.<br /><br /> Para mais detalhes sobre a definição de especificações pesquisáveis, acesse o guia [Configurações da busca](https://help.vtex.com/pt/docs/tutorials/configuracao-da-busca#configuracoes-gerais). Saiba mais sobre especificações em [Especificações de produto e de SKU](https://help.vtex.com/pt/docs/tracks/especificacoes-definicao-de-conceito). |
 | >Código do fabricante (`ManufactureID`) | Entre em contato com o nosso [Suporte](https://supporticket.vtex.com/support) para definir esses campos como pesquisáveis. | 
 
 _Exemplo_: foi configurado que a especificação "cor" é pesquisável e o produto está cadastrado com o nome "Tênis Nike Total 90" e com a cor "preta". Se um cliente pesquisar por "Tenis Preto", a ferramenta retornará produtos que possuem o termo "tenis" e cor "preta" no topo do resultado de busca.
 
 É possível buscar por caracteres especiais (`-` e `/`) para encontrar um produto.
 
-> ⚠️ A escolha dos campos de busca afeta as possibilidades das [Regras de merchandising](/pt/docs/tutorials/regras-de-merchandising), pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo **`SKUID` **como pesquisável, não será possível promover um **`ProductID` **ou um **`ProductRefID` **utilizando Regras de merchandising.
+> ⚠️ A escolha dos campos de busca afeta as possibilidades das [Regras de merchandising](https://help.vtex.com/pt/docs/tutorials/regras-de-merchandising), pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo **`SKUID` **como pesquisável, não será possível promover um **`ProductID` **ou um **`ProductRefID` **utilizando Regras de merchandising.
 
 ### Definição e ordenação de campos de filtro
 
@@ -111,7 +111,7 @@ A relevância é a funcionalidade que define a ordem dos produtos no resultado d
 
 _Exemplo_: um lojista configurou que o critério Promoção possui uma relevância maior que outros critérios. Dessa forma, quando o cliente pesquisa pelo termo “camiseta” na busca interna da loja, as camisetas incluídas em promoções tendem a aparecer primeiro nos resultados, dependendo dos pesos atribuídos aos outros critérios.
 
-Para mais informações sobre como personalizar a ordenação dos resultados de acordo com as necessidades da sua loja, leia o artigo [Configuração de relevância](/pt/docs/tutorials/regras-de-relevancia).
+Para mais informações sobre como personalizar a ordenação dos resultados de acordo com as necessidades da sua loja, leia o artigo [Configuração de relevância](https://help.vtex.com/pt/docs/tutorials/regras-de-relevancia).
 
 > ℹ️ Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções. Usando o comando `map=productClusterIds`, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar `productClusterNames`, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.
 
