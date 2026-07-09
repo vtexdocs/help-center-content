@@ -79,13 +79,13 @@ Por isso, primeiro crie o fluxo de encerramento e, em seguida, o disparador que 
 
 ### Criar o fluxo de encerramento
 
-O fluxo de encerramento pode ser extremamente simples, contendo apenas a carta de ação **Remover contato de um grupo**. Para criá-lo, siga as etapas abaixo:
+O fluxo de encerramento requer apenas um bloco com a carta de ação **Remover contato de um grupo**, responsável por retirar o contato do grupo de controle. Para criá-lo, siga as etapas abaixo:
 
 1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Fluxo de automação**.
 3. Clique em `Criar fluxo` e insira um nome para o fluxo (por exemplo, _Encerramento de atendimento_).
-4. Dentro do fluxo, clique no bloco inicial.
-5. No pop-up, em **Quando um contato chegar a esse ponto do fluxo...**, selecione a opção **Remova o contato de um grupo**.
+4. Dentro do fluxo, clique em **Criar bloco**.
+5. No pop-up, em **Quando um contato chegar a esse ponto do fluxo...**, selecione a opção **Remover contato de um grupo**.
 6. Em **Selecione os grupos para remover o contato**, selecione o grupo _Atendimento Humano_.
 7. Clique em **Confirmar**.
 8. Salve as alterações do fluxo.
