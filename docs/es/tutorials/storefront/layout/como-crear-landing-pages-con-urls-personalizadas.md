@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado) y para la búsqueda legada. Si tu tienda utiliza VTEX Intelligent Search, consulta la serie de artículos [Intelligent Search](es/docs/tracks/vision-general-intelligent-search).
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado) y para la búsqueda legada. Si tu tienda utiliza VTEX Intelligent Search, consulta la serie de artículos [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search).
 
 El buscador utilizado por las tiendas del CMS Portal (Legado) es personalizable y permite aplicar filtros por departamento, categoría, marca, colección, especificación y SKU, entre otros criterios.
 
@@ -29,7 +29,7 @@ En esta guía aprenderás a usar el **contexto de búsqueda** para asociar una b
 
 ## Antes de empezar
 
-Asegúrate de que la [plantilla](/es/docs/tutorials/que-son-templates) de la página contenga el control `<vtex.cmc:searchResult/>`. El contexto de búsqueda solo funciona si la plantilla contiene este control. Aprende más en [Cómo usar el control Search Result](/es/docs/tutorials/como-usar-el-control-search-result).
+Asegúrate de que el [template](/es/docs/tutorials/que-son-templates) de la página incluya el control `<vtex.cmc:searchResult/>`. El contexto de búsqueda solo funciona si la plantilla contiene este control. Aprende más en [Cómo usar el control Search Result](/es/docs/tutorials/como-usar-el-control-search-result).
 
 1. En el Admin VTEX, accede a **Storefront > Layout**.
 2. Haz clic en **CMS > HTML Templates**.

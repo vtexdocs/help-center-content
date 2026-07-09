@@ -46,7 +46,7 @@ To create a landing page with a custom URL, follow the steps below:
 3. Click the desired website.
 4. Click the root folder (`/`).
 5. Decide if you will configure the Search Context in:
-   - [An existing page on your website](#configure-search-context-on-existing-page)
+   - [An existing page on your website](#configuring-search-context-on-an-existing-page)
    - [A new page to be created](#configure-search-context-on-a-new-page)
 
 > ⚠️ The legacy search renders a landing page when the searched term exactly matches the name of a folder configured in the CMS. For this folder to be searchable, a [layout](/docs/tutorials/what-are-layouts) must be associated with it, as does the parent folder. In structures with more than one directory level, such as `/folder1/landing-page`, this behavior may not work as expected, and the search may return a 404 page.
