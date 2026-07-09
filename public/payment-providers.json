@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30",
+  "updatedAt": "2026-07-09",
   "providers": [
     {
       "name": "55Pay",
@@ -913,6 +913,16 @@
       "countries": ["MX", "US"]
     },
     {
+      "name": "KueskiV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-kueskiv2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-kueskiv2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-kueskiv2"
+      },
+      "countries": ["MX"]
+    },
+    {
       "name": "Kushki",
       "payoutSplit": false,
       "docs": {
@@ -1041,6 +1051,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-modo--dPmV3ueRkNZAuA2P05jE7"
       },
       "countries": ["AR"]
+    },
+    {
+      "name": "Multipago",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-multipago",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-multipago",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-multipago"
+      },
+      "countries": ["BO"]
     },
     {
       "name": "MSC-Payment",
@@ -1233,6 +1253,36 @@
       "countries": ["BR"]
     },
     {
+      "name": "PagoPlux",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-pagoplux",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-pagoplux",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-pagoplux"
+      },
+      "countries": ["US"]
+    },
+    {
+      "name": "PagoWebPE",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-pagowebpe",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-pagowebpe",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-pagowebpe"
+      },
+      "countries": ["PE"]
+    },
+    {
+      "name": "Paguelofacil",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-paguelofacil",
+        "en": "https://help.vtex.com/docs/tutorials/configurar-pagamento-com-paguelofacil",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pagamento-com-paguelofacil"
+      },
+      "countries": ["PA"]
+    },
+    {
       "name": "Parcelex",
       "payoutSplit": false,
       "docs": {
@@ -1291,6 +1341,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-payjoy--MNN6mbLPEwr10jA9eavl1"
       },
       "countries": ["MX"]
+    },
+    {
+      "name": "Payválida",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-payvalida",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-payvalida",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-payvalida"
+      },
+      "countries": ["CO"]
     },
     {
       "name": "PaymentezV2",
