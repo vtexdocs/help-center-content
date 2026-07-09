@@ -9,7 +9,7 @@ locale: pt
 hidden: false
 ---
 
-Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/vis%C3%A3o-geral-do-live-desk-agentic-cx), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
+Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk-agentic-cx), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
 
 > ⚠️ Caso os contatos não sejam adicionados a um grupo de controle, o chatbot irá conflitar e interromper o atendimento humano, enviando as mensagens padrão configuradas no seu ambiente.
 
