@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-> ⚠️ This feature is only available for stores developed using [VTEX IO](https://vtex.com/us-en/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store. 
+> ⚠️ This feature is only available for stores developed using [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store. 
 
 An assembly option is an [attachment](/en/docs/tutorials/what-is-an-attachment) for complex scenarios, such as product customization, in which you need to manage different product combinations, quantity, additional items, costs, and product inventory management.
 
