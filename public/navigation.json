@@ -27463,6 +27463,37 @@
             },
             {
               "name": {
+                "en": "Configurações de Pagamentos",
+                "es": "Configurações de Pagamentos",
+                "pt": "Configurações de Pagamentos"
+              },
+              "slug": {
+                "en": "configuracoes-de-pagamentos",
+                "es": "configuracoes-de-pagamentos",
+                "pt": "configurações-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Configurar pagamento com Paguelofacil",
+                    "en": "Configurar pagamento com Paguelofacil",
+                    "es": "Configurar pagamento com Paguelofacil"
+                  },
+                  "slug": {
+                    "pt": "configurar-pagamento-com-paguelofacil",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Payment Settings",
                 "es": "Configuración de Pagos",
                 "pt": "Configurações de Pagamentos"
@@ -29487,6 +29518,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Kaiowa",
+                    "es": "Configurar pago con Kaiowa",
+                    "pt": "Configurar pagamento com Kaiowa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kaiowa",
+                    "es": "configurar-pago-con-kaiowa",
+                    "pt": "configurar-pagamento-com-kaiowa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Khipu",
                     "es": "Configurar pago con Khipu",
                     "pt": "Configurar pagamento com Khipu"
@@ -29570,6 +29616,21 @@
                     "en": "setting-up-payments-with-kueski-pay",
                     "es": "configurar-pago-con-kueski-pay",
                     "pt": "configurar-pagamento-com-kueski-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with KueskiV2",
+                    "es": "Configurar pago con KueskiV2",
+                    "pt": "Configurar pagamento com KueskiV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kueskiv2",
+                    "es": "configurar-pago-con-kueskiv2",
+                    "pt": "configurar-pagamento-com-kueskiv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29750,6 +29811,21 @@
                     "en": "setting-up-payments-with-msc-payment",
                     "es": "configurar-pago-con-msc-payment",
                     "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Multipago",
+                    "es": "Configurar pago con Multipago",
+                    "pt": "Configurar pagamento com Multipago"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-multipago",
+                    "es": "configurar-pago-con-multipago",
+                    "pt": "configurar-pagamento-com-multipago"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30012,6 +30088,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Pagoplux",
+                    "es": "Configurar pago con Pagoplux",
+                    "pt": "Configurar pagamento com Pagoplux"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagoplux",
+                    "es": "configurar-pago-con-pagoplux",
+                    "pt": "configurar-pagamento-com-pagoplux"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with PagoWebPE",
+                    "es": "Configurar pago con PagoWebPE",
+                    "pt": "Configurar pagamento com PagoWebPE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagowebpe",
+                    "es": "configurar-pago-con-pagowebpe",
+                    "pt": "configurar-pagamento-com-pagowebpe"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Parcelex",
                     "es": "Configurar pago con Parcelex",
                     "pt": "Configurar pagamento com Parcelex"
@@ -30170,6 +30276,21 @@
                     "en": "setting-up-payments-with-payuv2",
                     "es": "configurar-pago-con-payuv2",
                     "pt": "configurar-pagamento-com-payuv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Payválida",
+                    "es": "Configurar pago con Payválida",
+                    "pt": "Configurar pagamento com Payválida"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-payvalida",
+                    "es": "configurar-pago-con-payvalida",
+                    "pt": "configurar-pagamento-com-payvalida"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -46189,12 +46310,12 @@
               "name": {
                 "en": "Interacting with the payment component while is still in a loading state sends the wrong payment option",
                 "es": "Si se interactúa con el componente de pago mientras aún se está cargando, se envía una opción de pago incorrecta",
-                "pt": "Interagir com o componente de pagamento enquanto ele ainda está carregando faz com que seja enviada a opção de pagamento errada"
+                "pt": "Interagir com o componente de pagamento enquanto ele ainda está em estado de carregamento envia a opção de pagamento incorreta."
               },
               "slug": {
                 "en": "interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option",
                 "es": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
-                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-carregando-faz-com-que-seja-enviada-a-opcao-de-pagamento-errada"
+                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta"
               },
               "origin": "",
               "type": "markdown",
@@ -52832,6 +52953,21 @@
                 "en": "intelligent-search-cleanup-intermitently-failing",
                 "es": "la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente",
                 "pt": "falha-intermitente-na-limpeza-da-pesquisa-inteligente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Intelligent Search Facets hides selected parent facet in multiselect drill-down",
+                "es": "La función de búsqueda inteligente oculta la faceta principal seleccionada en la exploración en profundidad de selección múltiple.",
+                "pt": "A pesquisa inteligente de facetas oculta a faceta principal selecionada na seleção múltipla com detalhamento."
+              },
+              "slug": {
+                "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
+                "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
+                "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
               },
               "origin": "",
               "type": "markdown",
@@ -59721,12 +59857,12 @@
               "name": {
                 "en": "Bin sent does not match an associated Card brand",
                 "es": "La papelera enviada no coincide con una marca de tarjeta asociada",
-                "pt": "Lixeira enviada não corresponde a uma marca de cartão associada"
+                "pt": "O endereço enviado não corresponde a nenhuma bandeira de cartão associada."
               },
               "slug": {
                 "en": "bin-sent-does-not-match-an-associated-card-brand",
                 "es": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
-                "pt": "lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada"
+                "pt": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada"
               },
               "origin": "",
               "type": "markdown",
@@ -62466,12 +62602,12 @@
               "name": {
                 "en": "The Cielo 3DS2 app is returning an \"approved\" status even in scenarios when the authentication has failed.",
                 "es": "La aplicación Cielo 3DS2 muestra el estado «aprobado» incluso en casos en los que la autenticación ha fallado.",
-                "pt": "O aplicativo Cielo 3DS2 está retornando o status “aprovado” mesmo em casos em que a autenticação falhou."
+                "pt": "O aplicativo Cielo 3DS2 está retornando o status \"aprovado\" mesmo em cenários nos quais a autenticação falhou."
               },
               "slug": {
                 "en": "the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed",
                 "es": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
-                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-casos-em-que-a-autenticacao-falhou"
+                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-nos-quais-a-autenticacao-falhou"
               },
               "origin": "",
               "type": "markdown",
