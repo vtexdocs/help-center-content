@@ -19,7 +19,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 Para obtener más información sobre la instalación de [VTEX Sales App, accede a VTEX Sales App - Configuración básica](/es/docs/tracks/vtex-sales-app-configuracion-basica).
 
-[Assembly Options](/es/tutorial/assembly-options-app), disponible en [VTEX  App Store](https://apps.vtex.com/vtex-admin-assembly-options/p), es la funcionalidad que permite a los vendedores ofrecer servicios adicionales durante el proceso de venta, como garantía extendida y seguros. Además, también permite la creación de conjuntos compuestos por distintos SKU, como cestas de Navidad o de desayuno, kits de maquillaje, entre otros. 
+[Assembly Options](/es/tutorial/assembly-options-app) es la funcionalidad que permite a los vendedores ofrecer servicios adicionales durante el proceso de venta, como garantía extendida y seguros. Además, también permite la creación de conjuntos compuestos por distintos SKU, como cestas de Navidad o de desayuno, kits de maquillaje, entre otros. 
 
 ## Instalar Assembly Options
 
