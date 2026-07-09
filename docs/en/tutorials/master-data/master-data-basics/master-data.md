@@ -1,7 +1,7 @@
 ---
 title: 'Master Data'
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-07-07T19:39:00.000Z
+updatedAt: 2026-07-08T18:37:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data
@@ -334,6 +334,12 @@ Measurement and billing follow a monthly cycle:
 
 
 > ℹ️ To view billing details, learn how to [download VTEX invoices](/en/docs/tutorials/how-to-download-the-vtex-invoices).
+
+### Delete entity vs. delete documents
+
+When trying to reduce the volume counted in the monthly billing snapshot, it is important to distinguish deleting the **data entity** (structure in VTEX Admin) from deleting **documents** (stored records).
+
+> ⚠️ Deleting a custom data entity through the Master Data v1 interface removes the entity definition, but does not delete the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the Developers Portal.
 
 ## Applications
 
