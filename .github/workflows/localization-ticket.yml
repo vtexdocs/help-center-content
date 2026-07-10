@@ -109,12 +109,12 @@ jobs:
           DIFF_RANGE="${BASE_SHA}...${HEAD_SHA}"
 
           # localization/ is Portuguese source — counted and processed with docs/pt/.
-          INSERTIONS_PT=$(git diff --numstat \
+          INSERTIONS_PT=$(git -c core.quotepath=false diff --numstat \
             "$DIFF_RANGE" \
             -- docs/pt/ localization/ \
             | awk '{sum += $1} END {print sum+0}')
 
-          INSERTIONS_EN=$(git diff --numstat \
+          INSERTIONS_EN=$(git -c core.quotepath=false diff --numstat \
             "$DIFF_RANGE" \
             -- docs/en/ \
             | awk '{sum += $1} END {print sum+0}')
@@ -132,7 +132,7 @@ jobs:
 
           if [ "$HAS_PT" = true ]; then
             echo "content_source=pt" >> $GITHUB_OUTPUT
-            CHANGED_FILES=$(git diff --numstat -M \
+            CHANGED_FILES=$(git -c core.quotepath=false diff --numstat -M \
               "$DIFF_RANGE" \
               -- docs/pt/ localization/ \
               | awk '$1 > 0 {print $3}' \
@@ -144,7 +144,7 @@ jobs:
             fi
           elif [ "$HAS_EN" = true ]; then
             echo "content_source=en" >> $GITHUB_OUTPUT
-            CHANGED_FILES=$(git diff --numstat -M \
+            CHANGED_FILES=$(git -c core.quotepath=false diff --numstat -M \
               "$DIFF_RANGE" \
               -- docs/en/ \
               | awk '$1 > 0 {print $3}' \

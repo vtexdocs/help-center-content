@@ -50,6 +50,7 @@ LANGUAGE_ENV_TO_REPO_LOCALE: dict[str, str] = {
 
 SLUG_EN_PATTERN = re.compile(r"^slugEN:\s*(.+?)\s*$", re.MULTILINE)
 RENAME_PATH_PATTERN = re.compile(r"\{[^ ]+ => ([^}]+)\}")
+GIT_QUOTEPATH_ESCAPE_PATTERN = re.compile(r"\\([0-7]{3})")
 RENAME_STATUS_PATTERN = re.compile(r"^R\d+\t(.+)\t(.+)$")
 
 _current_source_path: str | None = None
@@ -281,9 +282,17 @@ def is_eligible_path(relative_path: str) -> bool:
     return path.startswith(PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES)
 
 
+def decode_git_path(path: str) -> str:
+    """Decode git core.quotepath octal byte escapes (e.g. \\303\\242 -> â)."""
+    return GIT_QUOTEPATH_ESCAPE_PATTERN.sub(
+        lambda match: chr(int(match.group(1), 8)),
+        path,
+    )
+
+
 def normalize_changed_path(path: str) -> str:
     """Resolve git numstat rename syntax (dir/{old => new}) to the new path."""
-    normalized = path.replace("\\", "/").strip()
+    normalized = decode_git_path(path.strip()).replace("\\", "/")
     if "{" not in normalized or "=>" not in normalized:
         return normalized
 
