@@ -36837,60 +36837,14 @@
             },
             {
               "name": {
-                "en": "Agentic CX",
-                "es": "Agentic CX",
-                "pt": "Agentic CX"
+                "en": "Headless CMS (Legacy)",
+                "es": "Headless CMS (Legacy)",
+                "pt": "Headless CMS (Legacy)"
               },
               "slug": {
-                "en": "agentic-cx-subcategory",
-                "es": "agentic-cx-subcategoria",
-                "pt": "agentic-cx-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating CX automations",
-                    "es": "Crear automatizaciones de CX",
-                    "pt": "Criar automações do CX"
-                  },
-                  "slug": {
-                    "en": "create-cx-automations",
-                    "es": "creando-automaciones",
-                    "pt": "criar-automacoes-do-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Introduction to VTEX CX Platform",
-                    "es": "Introducción a VTEX CX Platform",
-                    "pt": "Introdução ao CX"
-                  },
-                  "slug": {
-                    "en": "introduction-to-cx",
-                    "es": "introduccion-a-cx",
-                    "pt": "introducao-ao-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Headless CMS",
-                "es": "Headless CMS",
-                "pt": "Headless CMS"
-              },
-              "slug": {
-                "en": "headless-cms",
-                "es": "headless-cms",
-                "pt": "headless-cms"
+                "en": "headless-cms-subcategory",
+                "es": "headless-cms-subcategoria",
+                "pt": "headless-cms-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36980,6 +36934,52 @@
                     "en": "media-overview",
                     "es": "multimedia-vision-general",
                     "pt": "midia-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Agentic CX",
+                "es": "Agentic CX",
+                "pt": "Agentic CX"
+              },
+              "slug": {
+                "en": "agentic-cx-subcategory",
+                "es": "agentic-cx-subcategoria",
+                "pt": "agentic-cx-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
+                    "pt": "Criar automações do CX"
+                  },
+                  "slug": {
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
+                    "pt": "Introdução ao CX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
