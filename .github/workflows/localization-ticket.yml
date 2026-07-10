@@ -21,11 +21,13 @@
 # optional LOC_JIRA_REPORTER_EMAIL_DOMAIN fallback, e.g. @vtex.com).
 #
 # Crowdin: uploads PR-changed files via API, sets word count on the parent and
-# language subtasks, editor links on language subtasks. Partial upload only when
-# equivalent EN and/or ES files already exist on main (matched by slugEN in
-# frontmatter) and the PT diff meets the ≤5-block rule; otherwise full source.
-# Existing or PR-added locale files with the same slugEN are imported as Crowdin
-# translations when available.
+# language subtasks, editor links on language subtasks. If the Crowdin upload
+# fails, Jira/subtask creation still runs; word count and editor links are skipped
+# and a comment is posted on the parent task. Partial upload only when equivalent
+# EN and/or ES files already exist on main (matched by slugEN in frontmatter)
+# and the PT diff meets the ≤5-block rule; otherwise full source. Existing or
+# PR-added locale files with the same slugEN are imported as Crowdin translations
+# when available.
 #
 # Secrets — required: LOC_JIRA_BASE_URL, LOC_JIRA_USER_EMAIL, LOC_JIRA_API_TOKEN,
 # LOC_JIRA_PROJECT_KEY, LOC_JIRA_EPIC_KEY, LOC_CROWDIN_API_TOKEN,
@@ -93,8 +95,8 @@ jobs:
         if: steps.eligibility.outputs.should_run == 'true'
         uses: actions/checkout@v4
         with:
-          # Merge ref so workflow scripts come from main on branches behind main.
-          ref: ${{ github.sha }}
+          # PR merge ref includes main workflow scripts even when the head branch is behind.
+          ref: refs/pull/${{ github.event.pull_request.number }}/merge
           fetch-depth: 0
 
       - name: Check for content additions
@@ -134,6 +136,7 @@ jobs:
               "$DIFF_RANGE" \
               -- docs/pt/ localization/ \
               | awk '$1 > 0 {print $3}' \
+              | sed 's/^"//;s/"$//' \
               | grep -E '\.(md|mdx)$' \
               | sort || true)
             if [ "$HAS_EN" = true ]; then
@@ -145,11 +148,19 @@ jobs:
               "$DIFF_RANGE" \
               -- docs/en/ \
               | awk '$1 > 0 {print $3}' \
+              | sed 's/^"//;s/"$//' \
               | grep -E '\.(md|mdx)$' \
               | sort || true)
           else
             echo "content_source=" >> $GITHUB_OUTPUT
             CHANGED_FILES=""
+          fi
+
+          if [ -n "$CHANGED_FILES" ]; then
+            echo "has_eligible_files=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_eligible_files=false" >> $GITHUB_OUTPUT
+            echo "No eligible md/mdx files to upload (e.g. only images or navigation.json changed)"
           fi
 
           {
@@ -528,6 +539,7 @@ jobs:
         if: >-
           steps.eligibility.outputs.should_run == 'true' &&
           steps.content_diff.outputs.has_additions == 'true' &&
+          steps.content_diff.outputs.has_eligible_files == 'true' &&
           steps.production_lock.outputs.updates_blocked != 'true' &&
           steps.parent_ticket.outputs.parent_key != ''
         env:
@@ -543,14 +555,56 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           JIRA_TASK_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
-        run: python3 .github/scripts/crowdin_sync.py
+        run: |
+          if python3 .github/scripts/crowdin_sync.py 2>crowdin-upload-error.log; then
+            echo "upload_succeeded=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "upload_succeeded=false" >> "$GITHUB_OUTPUT"
+            {
+              echo "upload_error<<EOF_UPLOAD_ERROR"
+              tail -40 crowdin-upload-error.log
+              echo "EOF_UPLOAD_ERROR"
+            } >> "$GITHUB_OUTPUT"
+            cat crowdin-upload-error.log >&2
+          fi
+
+      - name: Comment on parent task for Crowdin upload failure
+        if: >-
+          steps.eligibility.outputs.should_run == 'true' &&
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.content_diff.outputs.has_eligible_files == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
+          steps.parent_ticket.outputs.parent_key != '' &&
+          steps.crowdin_upload.outputs.upload_succeeded == 'false'
+        env:
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+          UPLOAD_ERROR: ${{ steps.crowdin_upload.outputs.upload_error }}
+        run: |
+          PR_NUMBER=$(jq -r '.pull_request.number' "$GITHUB_EVENT_PATH")
+          PR_URL=$(jq -r '.pull_request.html_url' "$GITHUB_EVENT_PATH")
+
+          # shellcheck source=.github/scripts/jira_helpers.sh
+          source .github/scripts/jira_helpers.sh
+
+          COMMENT_BODY=$(printf '%s\n\n%s\n\nPR: #%s (%s)\n\nError:\n%s' \
+            "Crowdin upload failed during localization automation." \
+            "The Jira ticket and subtasks were created or updated, but files were not uploaded to Crowdin. Word count and Crowdin editor links were not updated." \
+            "$PR_NUMBER" \
+            "$PR_URL" \
+            "${UPLOAD_ERROR:-See the GitHub Actions log for the Crowdin upload step.}")
+          jira_post_comment "$PARENT_KEY" "$COMMENT_BODY"
+          echo "Posted Crowdin upload failure comment on ${PARENT_KEY}"
 
       - name: Update parent task word count
         if: >-
           steps.eligibility.outputs.should_run == 'true' &&
           steps.content_diff.outputs.has_additions == 'true' &&
           steps.production_lock.outputs.updates_blocked != 'true' &&
-          steps.parent_ticket.outputs.parent_key != ''
+          steps.parent_ticket.outputs.parent_key != '' &&
+          steps.crowdin_upload.outputs.upload_succeeded == 'true'
         env:
           LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
           LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
@@ -682,6 +736,7 @@ jobs:
           PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
           PARENT_DUE_DATE: ${{ steps.parent_ticket.outputs.parent_due_date }}
           CONTENT_SOURCE: ${{ steps.content_diff.outputs.content_source }}
+          CROWDIN_UPLOAD_SUCCEEDED: ${{ steps.crowdin_upload.outputs.upload_succeeded }}
           CROWDIN_EN_EDITOR_LINKS: ${{ steps.crowdin_upload.outputs.en_editor_links }}
           CROWDIN_ES_EDITOR_LINKS: ${{ steps.crowdin_upload.outputs.es_editor_links }}
           CROWDIN_TOTAL_WORDS: ${{ steps.crowdin_upload.outputs.total_words }}
@@ -1073,26 +1128,32 @@ jobs:
           done
 
           for i in "${!SUBTASK_SUMMARIES[@]}"; do
-            case "${SUBTASK_SUMMARIES[$i]}" in
-              English*|Portuguese*)
-                update_subtask_crowdin_links \
-                  "${ORDERED_KEYS[$i]}" \
-                  "$CROWDIN_EN_EDITOR_LINKS" \
-                  "${SUBTASK_SUMMARIES[$i]}"
-                ;;
-              Spanish*)
-                update_subtask_crowdin_links \
-                  "${ORDERED_KEYS[$i]}" \
-                  "$CROWDIN_ES_EDITOR_LINKS" \
-                  "${SUBTASK_SUMMARIES[$i]}"
-                ;;
-            esac
-          done
-
-          echo "Updating word count on language subtasks..."
-          for i in "${!SUBTASK_SUMMARIES[@]}"; do
-            summary="${SUBTASK_SUMMARIES[$i]}"
-            if is_language_subtask "$summary"; then
-              update_subtask_word_count "${ORDERED_KEYS[$i]}" "$summary"
+            if [ "$CROWDIN_UPLOAD_SUCCEEDED" = "true" ]; then
+              case "${SUBTASK_SUMMARIES[$i]}" in
+                English*|Portuguese*)
+                  update_subtask_crowdin_links \
+                    "${ORDERED_KEYS[$i]}" \
+                    "$CROWDIN_EN_EDITOR_LINKS" \
+                    "${SUBTASK_SUMMARIES[$i]}"
+                  ;;
+                Spanish*)
+                  update_subtask_crowdin_links \
+                    "${ORDERED_KEYS[$i]}" \
+                    "$CROWDIN_ES_EDITOR_LINKS" \
+                    "${SUBTASK_SUMMARIES[$i]}"
+                  ;;
+              esac
             fi
           done
+
+          if [ "$CROWDIN_UPLOAD_SUCCEEDED" = "true" ]; then
+            echo "Updating word count on language subtasks..."
+            for i in "${!SUBTASK_SUMMARIES[@]}"; do
+              summary="${SUBTASK_SUMMARIES[$i]}"
+              if is_language_subtask "$summary"; then
+                update_subtask_word_count "${ORDERED_KEYS[$i]}" "$summary"
+              fi
+            done
+          else
+            echo "Skipping Crowdin editor links and subtask word counts (Crowdin upload failed or was skipped)"
+          fi

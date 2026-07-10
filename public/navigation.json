@@ -20825,6 +20825,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Version history",
+                    "es": "Historial de versiones",
+                    "pt": "Histórico de versões"
+                  },
+                  "slug": {
+                    "en": "cms-version-history",
+                    "es": "historial-de-versiones",
+                    "pt": "historico-de-versoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -36294,7 +36309,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create landing pages with customized URLs",
+                    "en": "How to create landing pages with custom URLs",
                     "es": "Cómo crear landing pages con URLs personalizadas",
                     "pt": "Como criar landing pages com URLs customizadas"
                   },
