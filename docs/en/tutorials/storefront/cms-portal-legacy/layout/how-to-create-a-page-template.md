@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Creating and editing a page template'
 id: frequentlyAskedQuestions_1850
 status: PUBLISHED

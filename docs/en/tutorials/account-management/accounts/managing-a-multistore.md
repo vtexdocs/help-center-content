@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Managing a multistore'
 id: 4S0lFVBPylRS5KpVgdyDhJ
 status: PUBLISHED

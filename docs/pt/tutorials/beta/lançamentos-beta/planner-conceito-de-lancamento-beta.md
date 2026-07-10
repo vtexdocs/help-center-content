@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lançamentos: conceito de lançamento (Beta)'
 id: 4pWhQTXG0aIIsi2TYxxRkZ
 status: PUBLISHED

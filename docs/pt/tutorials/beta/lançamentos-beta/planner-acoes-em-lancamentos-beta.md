@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lançamentos: ações em lançamentos (Beta)'
 id: 1zsomdifPEQkdV6RW93JyW
 status: PUBLISHED

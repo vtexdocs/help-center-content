@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to delete a collection'
 id: 6C620yHzwsGoS8iaCocAM2
 status: PUBLISHED

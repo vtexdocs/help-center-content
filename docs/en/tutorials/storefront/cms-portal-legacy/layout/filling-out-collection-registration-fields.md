@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Filling out Collection fields'
 id: 7eKL7CFRW3yGKlnDfQetbj
 status: PUBLISHED

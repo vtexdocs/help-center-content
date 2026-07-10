@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to identify a page template'
 id: 78Qm35VpIIeS0iQ0ik0Og4
 status: PUBLISHED

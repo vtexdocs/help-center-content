@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Collection highlight control'
 id: 1tGdb2ndjqy6yWsk2YwKMu
 status: PUBLISHED

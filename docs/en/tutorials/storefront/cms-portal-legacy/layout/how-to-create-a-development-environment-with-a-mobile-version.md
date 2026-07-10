@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Creating a development environment for mobile version'
 id: frequentlyAskedQuestions_587
 status: PUBLISHED

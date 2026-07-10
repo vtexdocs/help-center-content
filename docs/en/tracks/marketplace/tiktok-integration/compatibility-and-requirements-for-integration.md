@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Compatibility and requirements for integration'
 id: 4PFKJMdL0QRArCTPER91lx
 status: PUBLISHED

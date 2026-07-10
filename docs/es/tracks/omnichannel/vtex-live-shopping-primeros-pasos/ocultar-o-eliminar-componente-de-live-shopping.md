@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Ocultar o remover componente de Live Shopping'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED

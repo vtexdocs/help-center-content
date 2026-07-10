@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configurar SEO a través de Headless CMS (Legacy)'
 id: 1qaJuB28kOJRfhyaGeezGc
 status: PUBLISHED

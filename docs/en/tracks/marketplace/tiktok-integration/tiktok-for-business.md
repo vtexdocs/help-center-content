@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'TikTok for Business'
 id: 7Dwfwu1aHMp1aR1yvej5nv
 status: PUBLISHED

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "O novo VTEX CMS já está disponível na lista de espera"
 excerpt: ""
 createdAt: 2025-12-15T17:08:52.219Z

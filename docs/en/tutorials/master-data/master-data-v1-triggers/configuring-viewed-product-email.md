@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring viewed product email'
 id: tutorials_3136
 status: PUBLISHED

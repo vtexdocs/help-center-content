@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'URL Mapping (301 Redirect)'
 id: frequentlyAskedQuestions_623
 status: PUBLISHED

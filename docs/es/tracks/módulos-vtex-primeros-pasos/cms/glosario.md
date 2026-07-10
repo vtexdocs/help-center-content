@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Glosario'
 id: 78y5kSB5GaS1XHH9qBr6mS
 status: PUBLISHED

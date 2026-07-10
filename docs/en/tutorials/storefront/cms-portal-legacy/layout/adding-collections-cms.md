@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Adding collections CMS'
 id: 2YBy6P6X0NFRpkD2ZBxF6L
 status: PUBLISHED

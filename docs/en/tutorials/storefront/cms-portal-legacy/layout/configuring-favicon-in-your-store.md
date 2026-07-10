@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring Favicon in your store'
 id: tutorials_6370
 status: PUBLISHED

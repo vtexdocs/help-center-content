@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Planificación del go live'
 id: 6xYnNxDHUcY6FyChgziCoH
 status: PUBLISHED

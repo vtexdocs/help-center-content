@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Implementación del frontend'
 id: 67SCtUreXxKYWhZh8n0zvZ
 status: PUBLISHED

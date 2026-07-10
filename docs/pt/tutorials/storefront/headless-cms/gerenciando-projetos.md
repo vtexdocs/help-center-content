@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gerenciando Projetos'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED

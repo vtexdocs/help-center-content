@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'TikTok for Business: Advertise your products on TikTok'
 id: 7tmXUHUcTwS6KJxymFt5ZX
 status: PUBLISHED
