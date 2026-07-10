@@ -35889,6 +35889,21 @@
                 },
                 {
                   "name": {
+                    "pt": "Alterar banner",
+                    "en": "Alterar banner",
+                    "es": "Alterar banner"
+                  },
+                  "slug": {
+                    "pt": "como-alterar-banner",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Associating a template with a layout",
                     "es": "Asociar un template con un layout",
                     "pt": "Associando um template a um layout"
@@ -36296,12 +36311,12 @@
                   "name": {
                     "en": "How to configure a banner in your CMS Portal (Legacy) store",
                     "es": "Como configurar un banner en tu tienda CMS Portal (Legado)",
-                    "pt": "Como configurar um banner em sua loja CMS Portal (Legado)"
+                    "pt": "How to configure a banner in your CMS Portal (Legacy) store"
                   },
                   "slug": {
                     "en": "how-to-configure-a-banner-in-your-cms-portal-legacy-store",
                     "es": "como-configurar-un-banner-en-tu-tienda-cms-portal-legado",
-                    "pt": "como-configurar-um-banner-em-sua-loja-cms-portal-legado"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
