@@ -10,13 +10,13 @@ locale: pt
 
 O CMS mantém um histórico de versões para cada conteúdo, registrando quem fez cada alteração e quando. Esse histórico permite revisar como o conteúdo evoluiu ao longo do tempo, comparar estados anteriores e restaurar uma versão anterior com um único clique usando o recurso Restaurar versão anterior.
 
-Neste guia, você aprenderá como conferir a linha do tempo do histórico de versões e restaurar uma versão anterior de uma conteúdo.
+Neste guia, você aprenderá como conferir a linha do tempo do histórico de versões e restaurar uma versão anterior de um conteúdo.
 
 ![version-history-overview](https://vtexhelp.vtexassets.com/assets/docs/src/cms-versioning___1a610e124a85b4fc41630dd75556960c.gif)
 
 ## Entendendo a linha do tempo do histórico de versões
 
-O histórico de versões registra cada evento de salvamento de um conteúdo. Sempre que você salva conteúdo na branch `main` ou em outra branch, o CMS cria uma nova versão e armazena o nome do usuário que fez a alteração e a data em que ela foi salva. Para abrir o histórico de versões de uma conteúdo:
+O histórico de versões registra cada evento de salvamento de um conteúdo. Sempre que você salva conteúdo na branch `main` ou em outra branch, o CMS cria uma nova versão e armazena o nome do usuário que fez a alteração e a data em que ela foi salva. Para abrir o histórico de versões de um conteúdo:
 
 1. No Admin VTEX, acesse **Storefront > Todo o conteúdo**.  
 2. Clique no conteúdo que você deseja revisar.  
