@@ -1,5 +1,5 @@
 ---
-title: 'Agent Builder - Overview'
+title: "Agent Builder - Overview"
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-legacySlug: visao-geral-agent-builder
+legacySlug: agent-builder-overview
 locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 order: 1
@@ -62,13 +62,13 @@ To customize your agent, complete the following fields:
 
 Read the detailed description of each tone of voice below:
 
-| Agent's tone of voice | Description                                                                                                                                                                                                                     |
-| --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Friendly              | Interacts warmly and welcomingly, making the customer feel comfortable and welcome, establishing a connection with empathy and understanding.                                                                   |
-| Systematic            | With a clear and well-structured method, it follows defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and customer support. |
-| Analytical            | Ensures all information is displayed clearly and accessibly. It's logical and objective, guiding the customer through each step methodically so that no detail is missed.                       |
-| Creative              | Uses imagination to communicate, prioritizing original solutions. It can offer differentiated responses and adapt its language to make the content more relevant and engaging for the customer. |
-| Casual                | Is light, energetic, and informal. Maintains a more accessible and human tone.                                                                                                                  |
+| Agent's tone of voice | Description |
+| --- | :--- |
+| Friendly | Interacts warmly and welcomingly, making the customer feel comfortable and welcome, establishing a connection with empathy and understanding. |
+| Systematic | With a clear and well-structured method, it follows defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and customer support. |
+| Analytical | Ensures all information is displayed clearly and accessibly. It's logical and objective, guiding the customer through each step methodically so that no detail is missed. |
+| Creative | Uses imagination to communicate, prioritizing original solutions. It can offer differentiated responses and adapt its language to make the content more relevant and engaging for the customer. |
+| Casual | Is light, energetic, and informal. Maintains a more accessible and human tone. |
 
 ##### Engine
 

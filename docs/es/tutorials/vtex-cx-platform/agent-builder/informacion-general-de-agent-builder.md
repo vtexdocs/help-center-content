@@ -1,5 +1,5 @@
 ---
-title: 'Información general de Agent Builder'
+title: "Información general de Agent Builder"
 id: 6t9oYS7E2AJH9c2AYReUrs
 status: PUBLISHED
 createdAt: 2025-07-23T12:24:11.906Z
@@ -10,10 +10,9 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-legacySlug: visao-geral-agent-builder
+legacySlug: vision-de-conjunto-del-agent-builder
 locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
-order: 1
 ---
 
 **Agent Builder** es una herramienta de conversación con el cliente basada en inteligencia artificial. Con esta funcionalidad, puedes personalizar agentes para interactuar con tus clientes y responder solicitudes relacionadas con pedidos en curso, el catálogo de tu tienda o la cancelación de pedidos.
@@ -62,14 +61,13 @@ Para personalizar tu agente completa los siguientes campos:
 
 Consulta a continuación la descripción detallada de cada tono de voz:
 
-| Tono de voz del agente | Descripción                                                                                                                                                                                                                             |
-| ---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Amigable               | Interactúa de forma cálida y acogedora, haciendo que el cliente se sienta cómodo y bienvenido, estableciendo una conexión con empatía y comprensión.                                                                    |
-| Sistemático            | Con un método claro y bien estructurado, sigue pasos definidos para resolver problemas. Usa un enfoque lógico y organizado, con consistencia y precisión en la comunicación y en el soporte al cliente. |
-| Analítico              | Garantiza que toda la información se muestre de forma clara y accesible. Es lógico y objetivo, guiando al cliente por cada etapa de manera metódica, para que ningún detalle se pierda.                 |
-| Creativo               | Utiliza la imaginación para comunicarse, priorizando soluciones originales. Ofrece respuestas únicas y adapta el lenguaje para hacer el contenido más relevante e impactante para el cliente.           |
-| Informal               | Es ligero, energético e informal. Mantiene un tono más accesible y humano.                                                                                                                              |
-
+| Tono de voz del agente | Descripción |
+| --- | :--- |
+| Amigable | Interactúa de forma cálida y acogedora, haciendo que el cliente se sienta cómodo y bienvenido, estableciendo una conexión con empatía y comprensión. |
+| Sistemático | Con un método claro y bien estructurado, sigue pasos definidos para resolver problemas. Usa un enfoque lógico y organizado, con consistencia y precisión en la comunicación y en el soporte al cliente. |
+| Analítico | Garantiza que toda la información se muestre de forma clara y accesible. Es lógico y objetivo, guiando al cliente por cada etapa de manera metódica, para que ningún detalle se pierda. |
+| Creativo | Utiliza la imaginación para comunicarse, priorizando soluciones originales. Ofrece respuestas únicas y adapta el lenguaje para hacer el contenido más relevante e impactante para el cliente. |
+| Informal | Es ligero, energético e informal. Mantiene un tono más accesible y humano. |
 ##### Motor
 
 En **Fuente del motor**, puedes seleccionar el modelo de agente nativo de VTEX CX Platform o un modelo de LLM para el que tengas una clave API registrada. Si deseas usar el modelo externo, selecciona la opción **Clave API propia** y completa los siguientes campos:
