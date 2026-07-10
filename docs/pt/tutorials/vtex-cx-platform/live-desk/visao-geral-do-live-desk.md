@@ -1,10 +1,10 @@
 ---
 title: 'Visão geral do Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-07-09T00:00:00.000Z
+updatedAt: 2026-07-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: introduction-to-live-desk
+slugEN: live-desk-overview
 locale: pt
 hidden: false
 ---
@@ -49,7 +49,7 @@ Também é possível configurar mensagens rápidas específicas por setor. Essa 
 
 ### Transferir chat
 
-A função de transferir chat direciona o contato para um setor, fila ou agente específico e pode ser acessada no painel de informações do contato. O usuário pode pesquisar pelo nome de um agente, fila ou setor, ou selecionar um destinatário na lista exibida. Ao confirmar a transferência, o contato é encaminhado para o destinatário escolhido.
+A função de transferir chat direciona o contato para um setor, fila ou agente específico e pode ser acessada no painel de informações do contato. O agente pode pesquisar pelo nome de um agente, fila ou setor, ou selecionar um destinatário na lista exibida. Ao confirmar a transferência, o contato é encaminhado para o destinatário escolhido.
 
 Para saber como os atendimentos são distribuídos entre os agentes, consulte [Distribuição e roteamento dos atendimentos](https://help.vtex.com/pt/docs/tutorials/distribuicao-e-roteamento-dos-atendimentos).
 

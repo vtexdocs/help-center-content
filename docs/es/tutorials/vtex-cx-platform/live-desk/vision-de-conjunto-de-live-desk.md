@@ -1,18 +1,11 @@
 ---
-title: "Introducción al módulo de Live Desk"
-id: 6RF9ConAaTeLWQQ4dvoyb7
-status: PUBLISHED
+title: "Visión de conjunto de Live Desk"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2025-10-03T14:21:49.549Z
-publishedAt: 2025-10-03T14:21:49.549Z
-firstPublishedAt: 2025-10-03T14:21:49.549Z
+updatedAt: 2026-07-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
-slugEN: introduction-to-live-desk
-legacySlug: introduccion-al-modulo-de-chats
+slugEN: live-desk-overview
 locale: es
-subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
 El módulo de Live Desk es el sistema de atención humana oficial de la VTEX CX Platform. Fue desarrollado en base a las necesidades y problemas de nuestros clientes, es nativo en todos los proyectos de la VTEX CX Platform, y ofrece una experiencia de autoservicio.
