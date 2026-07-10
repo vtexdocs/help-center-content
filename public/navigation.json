@@ -37927,13 +37927,13 @@
                 {
                   "name": {
                     "en": "Live Desk - Overview",
-                    "es": "Introducción al módulo de Live Desk",
+                    "es": "Visión de conjunto de Live Desk",
                     "pt": "Visão geral do Live Desk"
                   },
                   "slug": {
-                    "en": "introduction-to-live-desk",
-                    "es": "introduccion-al-modulo-de-chats",
-                    "pt": "visao-geral-do-live-desk-agentic-cx"
+                    "en": "live-desk-overview",
+                    "es": "vision-de-conjunto-de-live-desk",
+                    "pt": "visao-geral-do-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
