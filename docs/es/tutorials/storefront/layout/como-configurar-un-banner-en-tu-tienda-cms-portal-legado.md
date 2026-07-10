@@ -13,6 +13,9 @@ slugEN: how-to-configure-a-banner-in-your-cms-portal-legacy-store
 legacySlug: como-modificar-banner
 locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+seeAlso:
+    - "/es/docs/tracks/cms-portal-legado"
+    - "/es/docs/tutorials/definicion-de-vitrinas"
 ---
 
 Para ejemplo, usaremos un banner de la Home en el paso a paso, pero estas instrucciones se pueden usar para cualquier página del sitio.
