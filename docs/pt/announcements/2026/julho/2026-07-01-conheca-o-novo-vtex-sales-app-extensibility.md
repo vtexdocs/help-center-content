@@ -13,7 +13,7 @@ tags:
   - VTEX Sales App
 ---
 
-O [VTEX Sales App Extensibility](https://help.vtex.com/pt/docs/tutorials/extensibilidade-no-vtex-sales-app) permite ao lojista personalizar a jornada padrão de vendas por meio de extensões em pontos predefinidos da interface, sem a necessidade de criar soluções do zero. A funcionalidade está disponível em open beta para todos que utilizam o Sales App na VTEX.
+O [VTEX Sales App Extensibility](https://help.vtex.com/pt/docs/tutorials/extensibilidade-no-vtex-sales-app) permite ao lojista personalizar a jornada padrão de vendas por meio de extensões em pontos predefinidos da interface, sem a necessidade de criar soluções do zero. A funcionalidade está disponível em open beta para todos que utilizam o [Sales App](https://help.vtex.com/pt/docs/tracks/o-que-e-o-vtex-sales-app) na VTEX.
 
 Para auxiliar no desenvolvimento e implementação das extensões, os lojistas dispõem da [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill), uma skill baseada em IA com conhecimento integrado sobre o Sales App e o monorepo da FastStore.
 
