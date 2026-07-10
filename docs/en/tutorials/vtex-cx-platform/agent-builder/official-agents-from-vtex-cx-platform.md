@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: official-agents-from-vtex-cx-platform
-legacySlug: agentes-oficiais-da-weni-by-vtex
+legacySlug: weni-by-vtexs-official-agents
 locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
