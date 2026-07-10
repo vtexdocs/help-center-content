@@ -83,7 +83,7 @@ As condições de exibição permitem segmentar quando e onde o banner será exi
 
 Para fazer uma alteração ou cadastro de uma nova imagem, siga os passos abaixo:
 
-1. No seção **Content** do formulário de banner, clique em `add file`. A janela **Insert File** será aberta, com opções localizar um arquivo existente ou enviar de um novo.
+1. Na seção **Content** do formulário de banner, clique em `add file`. A janela **Insert File** será aberta, com opções para localizar um arquivo existente ou enviar um novo.
 
     ![inserir-image-banner](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/inserir-imagem-banner.png)
     
