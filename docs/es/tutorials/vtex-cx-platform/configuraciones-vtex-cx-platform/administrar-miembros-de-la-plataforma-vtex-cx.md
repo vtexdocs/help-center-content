@@ -1,5 +1,5 @@
 ---
-title: "Administrar Miembros de la Plataforma VTEX CX"
+title: "Gestionar miembros de VTEX CX Platform"
 id: 
 status: PUBLISHED
 createdAt: 2026-06-17T00:00:00.000Z
@@ -19,45 +19,44 @@ Este artículo explica cómo agregar, eliminar y modificar permisos de miembros 
 
 ## Gestionar miembros de la organización
 
-Para agregar nuevos miembros a una organización, sigue los pasos a continuación:
+Para agregar nuevos miembros a una organización sigue los pasos a continuación:
 
-1. Accede a la página **Sus organizaciones** en el [dashboard dE VTEX CX Platform](https://dash.weni.ai/orgs).
-2. Haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> junto a la organización deseada.
-3. Haz clic en `Gestionar los miembros`.
+1. Accede a la página **Tus organizaciones** en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
+2. Haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> al lado de la organización deseada.
+3. Haz clic en `Gestionar miembros`.
 4. Ingresa el email de la persona que deseas agregar.
 5. Selecciona uno de los permisos disponibles.
-6. Haz clic en `Añadir`.
+6. Haz clic en `Agregar`.
 
-> ℹ️ El status del nuevo miembro permanece como **Pendiente** hasta que acepte la invitación. Si deseas modificar el nivel de permiso de un miembro, cambia el tipo deseado junto al nombre del miembro.
+> ℹ️ El status del nuevo miembro será **Pendiente** hasta que acepte la invitación. Para cambiar el nivel de permiso de un miembro selecciona otro permiso junto a su nombre.
 
-Para eliminar un miembro de una organización, sigue los pasos a continuación:
+Para remover un miembro de una organización sigue los pasos a continuación:
 
-1. Accede a la página **Sus organizaciones** en el [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
-2. Haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> junto a la organización deseada.
-3. Haz clic en `Gestionar los miembros`.
-4. Junto al nombre de la persona que deseas eliminar, haz clic en `Eliminar de la organización`.
+1. Accede a la página **Tus organizaciones** en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
+2. Haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> en la organización deseada.
+3. Haz clic en `Gestionar miembros`.
+4. Haz clic en `Eliminar de la organización` en la fila de la persona correspondiente.
 5. Haz clic en `Eliminar miembro`.
-
 
 ## Gestionar miembros del proyecto
 
-Para agregar miembros a un proyecto, sigue los pasos a continuación:
+Para agregar miembros a un proyecto sigue los pasos a continuación:
 
-1. Accede a la página **Suas organizações** no [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
+1. Accede a la página **Tus organizaciones** en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
 2. Haz clic en la organización deseada.
-3. En la página inicial de la organización, selecciona el proyecto al que deseas agregar un miembro y haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
-4. Haz clic en `Gestionar los miembros`.
+3. En la página inicial de la organización selecciona el proyecto al que deseas agregar un miembro y haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+4. Haz clic en `Gestionar miembros`.
 5. Ingresa el email de la persona que deseas agregar.
 6. Selecciona uno de los permisos disponibles.
-7. Clique em `Añadir`.
+7. Haz clic en `Agregar`.
 
-> ℹ️El status del nuevo miembro permanece como **Pendiente** hasta que acepte la invitación. Si deseas modificar el nivel de permiso de un miembro, cambia el tipo deseado junto al nombre del miembro.
+> ℹ️ El status del nuevo miembro será **Pendiente** hasta que acepte la invitación. Para cambiar el nivel de permiso de un miembro selecciona otro permiso junto a su nombre.
 
-Para eliminar un miembro de un proyecto, sigue los pasos a continuación:
+Para remover un miembro de un proyecto sigue los pasos a continuación:
 
-1. Accede a la página **Suas organizações** en el [dashboard do VTEX CX Platform](https://dash.weni.ai/orgs).
+1. Accede a la página **Tus organizaciones** en el [dashboard de VTEX CX Platform](https://dash.weni.ai/orgs).
 2. Haz clic en la organización deseada.
-3. En la página inicial de la organización, selecciona el proyecto del que deseas eliminar un miembro y haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
-4. Haz clic en `Gestionar los miembros`.
-5. Junto al nombre de la persona que deseas eliminar, haz clic en `Remover del proyecto`.
+3. En la página inicial de la organización selecciona el proyecto del que deseas eliminar un miembro y haz clic en el botón de tres puntos <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+4. Haz clic en `Gestionar miembros`.
+5. Junto al nombre de la persona que deseas eliminar haz clic en `Eliminar del proyecto`.
 6. Haz clic en `Remover del proyecto`.
