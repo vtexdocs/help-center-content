@@ -35,11 +35,11 @@ from typing import Literal
 CROWDIN_API_BASE_DEFAULT = "https://api.crowdin.com/api/v2"
 CROWDIN_WEB_BASE_DEFAULT = "https://crowdin.com"
 
-# Crowdin language IDs (Spanish is always es-mx, not generic es).
+# Crowdin language IDs (Spanish is always es-MX, not generic es).
 LANGUAGE_ENV_DEFAULTS: dict[str, str] = {
     "CROWDIN_EN_LANGUAGE": "en",
-    "CROWDIN_ES_LANGUAGE": "es-mx",
-    "CROWDIN_PT_LANGUAGE": "pt-br",
+    "CROWDIN_ES_LANGUAGE": "es-MX",
+    "CROWDIN_PT_LANGUAGE": "pt-BR",
 }
 
 LANGUAGE_ENV_TO_REPO_LOCALE: dict[str, str] = {
@@ -68,6 +68,22 @@ def crowdin_language_id(language_env: str, group_name: str) -> str:
         raise RuntimeError(
             f"{language_env} is required for {group_name} Crowdin uploads"
         )
+    return language_id
+
+
+def normalize_language_id(language_id: str) -> str:
+    return language_id.replace("_", "-").lower()
+
+
+def resolve_project_language_id(project_data: dict, language_id: str) -> str:
+    """Return the Crowdin project's canonical language ID for language_id."""
+    target = normalize_language_id(language_id)
+    source = project_data.get("sourceLanguage") or {}
+    if normalize_language_id(str(source.get("id", ""))) == target:
+        return str(source["id"])
+    for language in project_data.get("targetLanguages") or []:
+        if normalize_language_id(str(language.get("id", ""))) == target:
+            return str(language["id"])
     return language_id
 
 
@@ -170,11 +186,12 @@ def fetch_project_data(project_id: str) -> dict:
 
 
 def language_editor_code(project_data: dict, language_id: str) -> str:
+    target = normalize_language_id(language_id)
     source = project_data.get("sourceLanguage") or {}
-    if source.get("id") == language_id:
+    if normalize_language_id(str(source.get("id", ""))) == target:
         return str(source["editorCode"])
     for language in project_data.get("targetLanguages") or []:
-        if language.get("id") == language_id:
+        if normalize_language_id(str(language.get("id", ""))) == target:
             return str(language["editorCode"])
     return language_id
 
@@ -447,7 +464,7 @@ class CrowdinUploadGroup:
     project_id_env: str
     target_languages: tuple[tuple[str, str], ...]
     # link_bucket names map to workflow outputs (en_editor_links / es_editor_links).
-    # Spanish links always use CROWDIN_ES_LANGUAGE (es-mx).
+    # Spanish links always use CROWDIN_ES_LANGUAGE (es-MX).
 
 
 PT_CROWDIN_GROUP = CrowdinUploadGroup(
@@ -1250,7 +1267,10 @@ def upload_group_files(
 
     target_codes: dict[str, str] = {}
     for language_env, link_bucket in group.target_languages:
-        language_id = crowdin_language_id(language_env, group.name)
+        language_id = resolve_project_language_id(
+            project_data,
+            crowdin_language_id(language_env, group.name),
+        )
         target_codes[link_bucket] = language_editor_code(project_data, language_id)
 
     uploaded_files: list[dict] = []
@@ -1280,17 +1300,21 @@ def upload_group_files(
 
         imported_translations: list[dict] = []
         for translation in plan.translation_imports or []:
+            language_id = resolve_project_language_id(
+                project_data,
+                translation.language_id,
+            )
             import_id = import_translation_file(
                 project_id,
                 file_id,
-                translation.language_id,
+                language_id,
                 translation.content,
                 crowdin_basename(translation.repo_path),
             )
             imported_translations.append(
                 {
                     "repo_path": translation.repo_path,
-                    "language_id": translation.language_id,
+                    "language_id": language_id,
                     "source_ref": translation.source_ref,
                     "import_id": import_id,
                 }
