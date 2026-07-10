@@ -1,7 +1,7 @@
 ---
 title: 'Usando grupos para controlar o atendimento humano'
 createdAt: 2025-09-12T16:48:55.585Z
-updatedAt: 2026-07-08T00:00:00.000Z
+updatedAt: 2026-07-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: using-groups-to-organize-human-attendance
@@ -9,7 +9,7 @@ locale: pt
 hidden: false
 ---
 
-Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk-agentic-cx), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
+Quando um contato inicia um atendimento humano no [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk), o chatbot continua ativo em segundo plano. Se nada for feito, as mensagens automáticas configuradas nos disparadores podem ser acionadas durante a conversa e interromper o atendimento. Para evitar esse conflito, use um **grupo de controle**: um [grupo estático](https://help.vtex.com/pt/docs/tutorials/grupos-estaticos) que reúne todos os contatos que estão em atendimento humano e que deve ser ignorado pelos disparadores.
 
 > ⚠️ Caso os contatos não sejam adicionados a um grupo de controle, o chatbot irá conflitar e interromper o atendimento humano, enviando as mensagens padrão configuradas no seu ambiente.
 
@@ -86,8 +86,8 @@ O fluxo de encerramento requer apenas um bloco com a carta de ação **Remover c
 3. Clique em `Criar fluxo` e insira um nome para o fluxo (por exemplo, _Encerramento de atendimento_).
 4. Dentro do fluxo, clique em **Criar bloco**.
 5. No pop-up, em **Quando um contato chegar a esse ponto do fluxo...**, selecione a opção **Remover contato de um grupo**.
-6. Em **Selecione os grupos para remover o contato**, selecione o grupo _Atendimento Humano_.
-7. Clique em **Confirmar**.
+6. Em **Grupos que o contato será removido:**, selecione o grupo _Atendimento Humano_.
+7. Clique em **Ok**.
 8. Salve as alterações do fluxo.
 
 ### Criar o disparador de encerramento
