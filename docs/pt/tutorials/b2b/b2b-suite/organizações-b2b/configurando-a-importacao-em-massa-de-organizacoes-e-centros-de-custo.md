@@ -43,9 +43,9 @@ Veja abaixo como realizar a importação em massa de dados na plataforma VTEX:
 	<li>Após o processo de importação ser concluído, você pode clicar em  Exibir detalhes de importação para acessar o relatório de importação.</li>
 </ol>
 
-![Importação em massa - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organizações-b2b/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo_1.gif)
+![Importação em massa - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-suite/organizações-b2b/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo_1.gif)
 
-# Erros de importação
+## Erros de importação
 
 Durante o processo de importação, o sistema realizará uma verificação do arquivo para evitar erros. Em caso de ocorrência de erros, você será notificado por e-mail e receberá um alerta na tela.
 
@@ -59,8 +59,8 @@ Para obter uma visão detalhada dos problemas encontrados, siga os passos abaixo
 
 > ℹ️ Certifique-se de carregar apenas o arquivo contendo as correções dos erros previamente identificados para garantir uma importação bem-sucedida.
 
-![Bulk import - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organizações-b2b/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo_2.gif)
+![Bulk import - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-suite/organizações-b2b/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo_2.gif)
 
-# Importação via API
+## Importação via API
 
 A importação de informações também pode ser realizada por meio da [API Bulk import](https://developers.vtex.com/docs/api-reference/buyer-organizations?endpoint=overview), permitindo a realização das operações de validação e importação de arquivos, acompanhamento do progresso e resultado da importação.

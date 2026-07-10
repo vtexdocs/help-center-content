@@ -19,7 +19,7 @@ Esta etapa inicia el _go live_, ya que estos pasos deben programarse cuidadosame
 
 ## Registrar el dominio en VTEX
 
-Debes [registrar el dominio en Configuración de la cuenta](/es/tutorial/configurando-dominios-no-license-manager). Eso es lo que conecta la dirección a la tienda.
+Debes [registrar el dominio en Configuración de la cuenta](/es/docs/tutorials/configurar-dominio-de-la-tienda). Eso es lo que conecta la dirección a la tienda.
 
 > ⚠️ Después de registrar tu dominio, tienes siete días para completar el _go live_. En caso contrario, deberás acceder al registro realizado y volver a guardar.
 
@@ -33,7 +33,7 @@ Después de recibir la confirmación del apuntamiento interno, debes realizar el
 
 ## Solicitar el apuntamiento especial
 
-Si el acceso a tu tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con regla condicional y tu storefront se construyó con [CMS Portal Legacy](/es/docs/tracks/cms-portal-legado), debes solicitar un apuntamiento interno especial.
+Si el acceso a tu tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con regla condicional y tu storefront se construyó con [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado), debes solicitar un apuntamiento interno especial.
 
 Un ejemplo común son las [tiendas B2B](/es/docs/tutorials/b2b-vision-general), que [restringen el acceso](/es/docs/tutorials/configurando-b2b-na-vtex#1-incluir-regra-condicional-na-politica-comercial-do-b2b) a empresas previamente aprobadas.
 

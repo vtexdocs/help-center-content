@@ -39,7 +39,7 @@ For better understanding, we will present a scenario (divided into 3 steps), whe
 |------------------|------------------|
 | Click on `Go to delivery`. | Checkout prompts RC.JS to transfer email address and cart information to Master Data (via Profile System). |
 
-> ⚠️ So that the [abandoned cart](/en/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#) function can be used , the user must have filled in the following information: e-mail, name, surname and CPF. The lack of one of these data, makes it impossible to use the abandoned cart.
+> ⚠️ So that the [abandoned cart](/en/docs/tutorials/accessing-a-client-abandoned-cart) function can be used , the user must have filled in the following information: e-mail, name, surname and CPF. The lack of one of these data, makes it impossible to use the abandoned cart.
 
 | __User__ | __VTEX Platform__ |
 |------------------|------------------|

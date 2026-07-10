@@ -12,7 +12,7 @@ slugEN: configuring-price-divergence-rule-shopee
 locale: en
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: shopee-integration
-order: 3
+order: 5
 ---
 
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.

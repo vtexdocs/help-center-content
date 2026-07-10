@@ -13,6 +13,9 @@ locale: en
 legacySlug: discontinuation-of-legacy-payment-connectors
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Legacy payment connectors will be removed from the VTEX platform'
+tags:
+  - Deprecation
+  - Payments
 ---
 
 As another step in the process of [discontinuing legacy payment connectors](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024), the table below lists the legacy connectors that will be removed from the VTEX platform and the new connectors (integrated via Payment Provider Protocol) that are available to replace them:

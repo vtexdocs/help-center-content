@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
@@ -63,7 +63,7 @@ To check the product settings, you must follow the steps below.
 
    > ⚠️ When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely. Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.
 
-    * **Trade policies:** Check if the product is associated with a [trade policy](/en/docs/tutorials/how-trade-policies-work). If it's not, use the selection box to choose the trade policy with which you want to associate it.
+    * **Sales channels:** Check if the product is associated with a [sales channel](/en/docs/tutorials/how-trade-policies-work). If it's not, use the selection box to choose the sales channel with which you want to associate it.
     * **Market launch date:** Check if the date for the product launch on market is correct. If the date is set in the future, the product will only be displayed on the website at the mentioned date.
     * **Show on site:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed on the website.
     * **Product active:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed.
@@ -87,9 +87,9 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
     |Button | Description |
     |-|-|
-    | ![04-botao-precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_4.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
+    | ![04-botao-precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_4.png) | Allows you to access the __Price list__ to check if the desired sales channel has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
     | ![05-botao-logistica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_5.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
-    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_6.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
+    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_6.png) | Allows you to view each **Seller ** selling the SKU, the sales channel (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
 
 2. On the row displaying the product with the SKU you want to verify, click the down arrow <i class="fas fa-caret-down"></i>, next to the `Update` button.
 3. Click the **SKU** option to access the SKUs detailed list.
@@ -142,11 +142,11 @@ An active SKU without errors will appear in the index, similar to the one illust
 In the **Prices** module, it's important to verify if your product SKU contains [base prices](/en/docs/tracks/preco-base-definicao-de-conceito).
 
 1. Access **Products > Prices > Price list**.
-2. Check each SKU row and the column corresponding to the desired trade policy.
+2. Check each SKU row and the column corresponding to the desired sales channel.
     * If a price is displayed, the issue is not in the **Prices** module, so you can jump the next steps in this section.
     * But if the displayed information is _No price yet_, this means that you must [create a base price](#creating-a-base-price).
 
-In the example illustrated below, there are two SKUs without a base price. This is why there is no calculated price in the trade policy column — only the information _No price yet_ is displayed.
+In the example illustrated below, there are two SKUs without a base price. This is why there is no calculated price in the sales channel column — only the information _No price yet_ is displayed.
 
 ![12-precos-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_12.PNG)
 
@@ -193,11 +193,11 @@ By adopting any of the following inventory strategies, you can ensure product av
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the product unavailability on the product listing page could be due to a lack of stock.
 
-> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
+> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [sales channel](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
 
 ## CMS
 
-If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/docs/tracks/what-is-the-cms). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) and [VTEX IO](/en/docs/tracks/cms-vtex-io).
+If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/docs/tracks/what-is-the-cms). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) and [VTEX IO](/en/docs/tracks/cms-vtex-io).
 
 > ⚠️ To perform the CMS investigation described below, you must ask your store's developer team for support.
 
@@ -214,7 +214,7 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 
     If the icon is yellow, there is an error in the binding. In this case, you must follow the steps in the article [Website with error: how to fix it?](/en/faq/website-com-erro-como-ajustar) to correct the error.
 
-### Legacy CMS Portal
+### CMS Portal (Legacy)
 
 If your store uses the [CMS Legacy Portal](/en/docs/tracks/legacy-cms-portal), we recommend that your store's developers check if the product search result [control](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
 
@@ -242,8 +242,8 @@ Follow the steps below to check the template your page is using.
 
 For stores developed with VTEX IO, you need to check the following items in [your store theme](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-6-buildingyourownstoretheme) files.
 
-* Check if the product page (`product.jsonc`) is declared with all the necessary blocks for a correct functioning — [`product-images`](https://developers.vtex.com/docs/vtex-store-components-productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/vtex-product-price#product-price), [`product-name`](https://developers.vtex.com/docs/vtex-store-components-productname) and [`buy-button`](https://developers.vtex.com/docs/vtex-store-components-buybutton) — as described on the [Product page](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-en). 
-* Check if the [Search Result](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-result) app and its `search-result-layout` block are properly declared in the template code, as indicated in the Search Result documentation.
+* Check if the product page (`product.jsonc`) is declared with all the necessary blocks for a correct functioning — [`product-images`](https://developers.vtex.com/docs/apps/vtex.store-components/productimages?_ga=2.124137738.1894771692.1651492195-816806259.1637870241), [`product-price`](https://developers.vtex.com/docs/apps/vtex.product-price), [`product-name`](https://developers.vtex.com/docs/apps/vtex.store-components/productname) and [`buy-button`](https://developers.vtex.com/docs/apps/vtex.store-components/buybutton) — as described on the [Product page](https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-en). 
+* Check if the [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result) app and its `search-result-layout` block are properly declared in the template code, as indicated in the Search Result documentation.
 
 ## Learn more
 

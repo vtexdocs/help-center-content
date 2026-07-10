@@ -13,6 +13,9 @@ locale: es
 legacySlug: simulador-de-promociones-comprende-las-promociones-aplicadas-en-el-carrito
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Visualiza y gestiona las promociones aplicadas al carrito con el Simulador de promociones.'
+tags:
+  - Nueva funcionalidad
+  - Promociones
 ---
 
 Hemos lanzado globalmente y para todas las tiendas VTEX el **Simulador de promociones**: una nueva herramienta que permite visualizar las promociones aplicadas en el carrito de compras en tu tienda, junto con sus condiciones de activación. 

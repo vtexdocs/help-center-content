@@ -31,8 +31,6 @@ O lojista B2B deve tomar cuidados para não criar promoções que prejudiquem su
 - __Rebate do fabricante__: crédito oferecido pelo fornecedor para a loja que será transformado em desconto para o cliente final. Isso possibilita um preço mais competitivo sem abrir mão da sua margem e lucratividade.
 - __Aumento da sua margem de contribuição__: As ações promocionais devem estar sempre alinhadas com o crescimento do EBITDA da loja (lucros antes de juros, impostos, depreciação e amortização).
 
-# Promoções
-
 ## Estoque antigo
 
 Fazer promoções é uma boa maneira de girar o estoque parado. Manter um estoque antigo por muito tempo leva à perda de vendas de novos produtos.

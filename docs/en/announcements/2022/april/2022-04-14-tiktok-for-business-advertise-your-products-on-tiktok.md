@@ -1,4 +1,4 @@
----
+﻿---
 title: 'TikTok for Business: Advertise your products on TikTok'
 id: 7tmXUHUcTwS6KJxymFt5ZX
 status: PUBLISHED
@@ -42,9 +42,9 @@ Our goal is to allow you to create campaigns in TikTok Ads Manager with your VTE
 
 ##  How to start using it?
 
-The app is fully compatible with [VTEX IO](/en/docs/tracks/cms-vtex-io) stores and partially compatible with [Legacy](/en/docs/tracks/legacy-cms-portal) or [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms) stores.
+The app is fully compatible with [VTEX IO](/en/docs/tracks/cms-vtex-io) stores and partially compatible with [Legacy](/en/docs/tracks/legacy-cms-portal) or [Headless CMS (Legacy)](https://faststore.dev/tutorials/cms/0#vtex-headless-cms) stores.
 
 To install the app and integrate your VTEX store with TikTok, follow the instructions in the [TikTok integration guide](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
 
-See also the [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) guide for developers.  
+See also the [TikTok for Business](https://developers.vtex.com/docs/apps/vtexbr.tiktok-tbp) guide for developers.  
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Configuring a VTEX marketplace'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
@@ -19,20 +19,20 @@ The architecture of a VTEX store makes it possible to offer and sell products in
 
 To be a marketplace, you need to configure the following settings on the VTEX platform:
 
-1. [Define the trade policy](#defining-the-trade-policy)  
+1. [Define the sales channel](#defining-the-trade-policy)  
 2. [Integrate the seller](#integrating-the-seller)   
 3. [Map the Catalog architecture](#mapping-the-catalog-architecture)  
 4. [Configure the seller selection at checkout](#configuring-seller-selection-on-the-storefront-and-at-checkout)  
 5. [Configure the storefront](#configuring-the-storefront)  
 6. [Configure payments](#configuring-payments)  
 
-## Defining the trade policy
+## Defining the sales channel
 
-The [trade policy](/en/docs/tutorials/how-trade-policies-work) is what determines the product assortment, prices, payments, promotions, customer segmentation and shipping strategy of your VTEX store in a sales channel. You need to [create a new trade policy](/en/docs/tutorials/creating-a-trade-policy) whenever one of these settings is different for the sellers in your window display. 
+The [sales channel](/en/docs/tutorials/how-trade-policies-work) is what determines the product assortment, prices, payments, promotions, customer segmentation and shipping strategy of your VTEX store in a sales channel. You need to [create a new sales channel](/en/docs/tutorials/creating-a-trade-policy) whenever one of these settings is different for the sellers in your window display. 
 
-If you want the same settings to apply to your sales channels, you don’t need to create a new trade policy because the same trade policy can be used for different sales channels.
+If you want the same settings to apply to your sales channels, you don’t need to create a new sales channel because the same sales channel can be used for different sales channels.
 
-If you want to create more trade policies, you can [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy). There are no charges for requesting additional trade policies to integrate VTEX stores with native connectors, certified connectors or other VTEX stores.
+If you want to create more sales channels, you can [request additional sales channels](/en/docs/tutorials/requesting-an-additional-trade-policy). There are no charges for requesting additional sales channels to integrate VTEX stores with native connectors, certified connectors or other VTEX stores.
 
 ## Integrating the seller
 
@@ -83,13 +83,13 @@ A marketplace can obtain the user’s location information in the storefront and
 
 Even when VTEX Session does not have access to the consumer’s location, you still need to target an assortment of seller products in the shopping experience. In this scenario, the seller selection algorithm indicates [comprehensive sellers](/en/docs/tutorials/comprehensive-seller) that are able to deliver orders in all regions served by your marketplace.
 
-> ℹ️ The Region feature is only adapted for stores using VTEX IO, and it is not valid for the Legacy CMS Portal.
+> ℹ️ The Region feature is only adapted for stores using VTEX IO, and it is not valid for the CMS Portal (Legacy).
 
 ## Configuring the storefront
 
-You need to configure your storefront to use seller information during the shopping experience. This can be done through the Legacy CMS Portal and in stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs).
+You need to configure your storefront to use seller information during the shopping experience. This can be done through the CMS Portal (Legacy) and in stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs).
 
-For stores that still use the Legacy CMS Portal, configure the following controls in your ecommerce templates:
+For stores that still use the CMS Portal (Legacy), configure the following controls in your ecommerce templates:
 
 <table>
   <tr>

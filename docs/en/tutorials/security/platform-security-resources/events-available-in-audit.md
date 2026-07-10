@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Below, you will find a list of the potential events available in [Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA#) for each app.
+Below, you will find a list of the potential events available in [Audit](/en/docs/tutorials/audit) for each app.
 
 * [OMS](#oms)
 * [Orders](#orders)
@@ -34,7 +34,7 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
-* [Headless CMS](#headless-cms)
+* [Headless CMS (Legacy)](#headless-cms)
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
@@ -64,6 +64,8 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 | Order Cancellation | Cancellation of an order. | Order ID. |
 | Start Handling  | Action that signals to VTEX that the store has started handling a given order. This triggers the continuation of the flow of this order.  | Order ID.  |
 | Notify Payment | Payment notification for a given order. | Order ID. |
+| GetUnmaskedPersonalInformation | Reading of unmasked personal information in an order. | ID do pedido. |
+| UpdatePersonalInformation | Update of personal information in an order. | ID do pedido. |
 
 ## Order Authorization
 
@@ -182,7 +184,15 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 | EDIT_GIFT_CARD | Change in gift card value. | add-gift-card-value |
 | CREATE_GIFT_CARD | Creation of gift cards. | create-multiple-gift-cards |
 | LIST_CARDS_FROM_API | Search for native gift cards. | list-gift-card-api |
-
+| LIST_GIFT_CARD_TRANSACTIONS | Viewed gift card transactions. | Gift card ID. |
+| VIEW_GIFT_CARD_CONDITIONS | Viewed gift card conditions. | Gift card ID. |
+| CREATE_GIFT_CARD_CONDITIONS | Created gift card conditions. | Gift card ID. |
+| EDIT_GIFT_CARD_CONDITIONS | Edited gift card conditions. | Gift card ID. |
+| EDIT_GIFT_CARD_CONFIGURATION | Edited gift card setting. | Gift card ID. |
+| CREATE_GIFT_CARD_CANCELLATION | Gift card cancellation record. | Gift card ID. |
+| CREATE_GIFT_CARD_SETTLEMENT | Gift card settlement record. | Gift card ID. |
+| INSERT_GIFT_CARD_CREDITS | Added credit to gift card. | Gift card ID. |
+| GET_UNMASKED_PII | Viewed unmasked personally identifiable information (PII). | Gift card ID. |
 ## Checkout
 
 | Action | Event description | Event details |
@@ -221,6 +231,11 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 | Resource Access Denied | Resource access denied. | Resource key and user ID to which access was denied. |
 | Create New AppToken | Creation of application key. | Application key created. |
 | Create Sponsor Invite | Creation of a sponsor user invitation. | ID of invited user. |
+| Create Storefront Custom Resource | Creation of a storefront custom resource. | Storefront custom resource created. |
+| Delete Storefront Custom Resource | Deletion of a storefront custom resource. | Storefront custom resource deleted. |
+| Create Storefront Custom Role | Creation of a storefront custom role. | Storefront custom role created. |
+| Delete Storefront Custom Role | Deletion of a storefront custom role. | Storefront custom role deleted. |
+| Update Storefront Custom Role | Update of a storefront custom role. | Storefront custom role updated. |
 
 ## VTEX ID
 
@@ -228,23 +243,24 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 |---|---|---|
 | PasswordCreated | Creation of a first-time password in the store or the VTEX Admin | User ID. |
 | PasswordUpdated | Change of store or VTEX Admin password by the user. | User ID. |
-| UserLogin | User login to the VTEX Admin. | User ID. |
-| UserLogout | User logout from the VTEX Admin. | User ID. |
+| UserLogin | User login to the VTEX Admin. | User ID, user login, IP address, audience, whether the user is an admin, identity provider, whether MFA was used, host, X-Forwarded-For header, user agent, and referer. |
+| UserLogout | User logout from the VTEX Admin. | User ID, user login, audience, whether the user is an admin, host, X-Forwarded-For header, user agent, and referer. |
 | IdentityProviderChanged | Identity provider configuration change. For example: Creating a customized OAuth integration and changing information in an existing OAuth configuration. | Identity provider. |
 
 ## Master Data
 
 | Action | Event description | Event details |
 |---|---|---|
-| ReadDocument | Document read. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
-| CreateDocument | Document creation. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
-| UpdateDocument | Document update. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| ReadPersonalInformation | Personal information read. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| CreatePersonalInformation | Personal information creation. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| UpdatePersonalInformation | Personal information update. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
 | DeleteDocument | Deleted document. | Document ID. |
-| SearchDocuments | Document search. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Search query details. |
+| DeletePersonalInformation | Deleted personal information. | Document ID. |
+| SearchPersonalInformation | Personal information search. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Search query details. |
 | UpdateSchema | Created or updated schema on Master Data v2. | Schema name. |
 | DeleteSchema | Deleted schema on Master Data v2. | Schema name. |
 
-## Headless CMS
+## Headless CMS (Legacy)
 
 | Action | Event description | Event details |
 |---|---|---|
@@ -259,7 +275,7 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 | Create new media | Create media file. | Event ID. |
 | Delete media | Delete media file. | Event ID. |
 
-In the **Action** column, all Headless CMS events also display the following information:
+In the **Action** column, all Headless CMS (Legacy) events also display the following information:
 
 * **CONTENT_ID:** unique identifier of the content.
 * **VARIANT_ID:** unique identifier of the content version.

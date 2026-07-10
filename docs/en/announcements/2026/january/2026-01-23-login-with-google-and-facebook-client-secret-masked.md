@@ -13,6 +13,9 @@ locale: en
 legacySlug: 
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Client secrets for login with Google and Facebook are now masked, displaying only the last 3 characters.'
+tags:
+  - Security update
+  - Identity
 ---
 
 To enhance the security of social login integrations, the **Client secret** field in the [login with Google and Facebook](https://help.vtex.com/docs/tutorials/configuring-login-with-facebook-and-google) configuration is now masked in the VTEX Admin.

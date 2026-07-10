@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Planning the go-live'
 id: 6xYnNxDHUcY6FyChgziCoH
 status: PUBLISHED
@@ -81,7 +81,7 @@ We recommend running tests before the go-live to check the store's behavior and 
 
 On VTEX, you can create separate environments to run these tests. In this case, you need to replicate the settings of the main environment that will be tested. For example, to test how a promotion works, you must configure all the necessary settings to simulate a scenario in which it would be applied, including products, prices, logistics, checkout, payment methods, etc.
 
-To plan the testing step, contact [our support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) team, so you can [request a test environment](/en/docs/tutorials/requesting-a-new-environment).
+To plan the testing step, contact [our support](/en/docs/tutorials/how-does-vtex-support-work) team, so you can [request a test environment](/en/docs/tutorials/requesting-a-new-environment).
 
 > ⚠️ If the store is[ built using VTEX IO](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#development-environment), you can run A/B tests between workspaces, i.e., compare the performance of storefront development environments. For more details, see the[ Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing) developer guide.
 
@@ -105,7 +105,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
 
    > ⚠️ Once you have registered the domain, you have seven days to complete the go-live. If the store does not complete the necessary go-live procedures within this period, you will need to go back to the registration and save it again.
 
-2. **Request internal pointing:** Open a ticket to [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) to request internal DNS pointing. It can take up to three working days to complete this request.
+2. **Request internal pointing:** Open a ticket to [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work) to request internal DNS pointing. It can take up to three working days to complete this request.
 
     The request type forwarded must be consistent with the [technology chosen](/en/docs/tracks/frontend-implementation) for the storefront:
 
@@ -119,11 +119,11 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
   <tbody>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Store Framework or FastStore (VTEX IO)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Request [internal DNS pointing for VTEX IO](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing) by submitting a ticket to [VTEX Support](https://supporticket.vtex.com/support).<br> <br>More information in the articles:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
+      <td class="t-body pa5" style="min-width: 10rem;">Request [internal DNS pointing for VTEX IO](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing) by submitting a ticket to [VTEX Support](https://supporticket.vtex.com/support).<br> <br>More information in the articles:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from CMS Portal (Legacy) to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://developers.vtex.com/docs/guides/faststore/go-live-1-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 10rem;">Legacy CMS Portal</td>
-      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the trade policy and the configured conditional rule.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legacy)</td>
+      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [sales channel](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the sales channel and the configured conditional rule.</td>
     </tr>
   </tbody>
   </table>
@@ -131,10 +131,10 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
 Regardless of the request type, the ticket to VTEX Support must have the following information:
 
 - Title stating the intention to go live.
-- If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or Legacy CMS Portal.
+- If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or CMS Portal (Legacy).
 - URL to be pointed to.
 - Time for internal pointing to be carried out, between 9 a.m. and 5 p.m. UTC-3.
-- Indicate if the store has conditional rules for [trade policies](/en/docs/tutorials/creating-a-trade-policy).
+- Indicate if the store has conditional rules for [sales channels](/en/docs/tutorials/creating-a-trade-policy).
 - If you are migrating a live site to VTEX, indicate whether it uses Cloudfront.
 
 > ⚠️ After receiving confirmation of the internal pointing, you are required to complete the standard DNS pointing within five days. Otherwise, the internal pointing will be deleted, and you must submit a new request.

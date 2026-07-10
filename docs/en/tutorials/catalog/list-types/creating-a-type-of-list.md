@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Creating a list type'
 id: tutorials_254
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use Legacy CMS Portal.
+> ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use CMS Portal (Legacy).
 
 Creating a type of list is configuring the lists to appear on the site. For example: Lista de Casamento and Lista de Aniversário. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
 

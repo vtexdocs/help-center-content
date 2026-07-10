@@ -13,6 +13,9 @@ locale: pt
 legacySlug: vtex-sales-app-melhorias-na-experiencia-do-checkout
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Melhorias VTEX Sales App: simplificação da experiência de compra no checkout e aproveitamento de dados de clientes.'
+tags:
+  - Melhoria
+  - VTEX Sales App
 ---
 
 Realizamos uma série de melhorias no [VTEX Sales App](/pt/docs/tutorials/vtex-sales-app-faq), incluindo a simplificação das etapas do checkout, a otimização de dados dos clientes e a criação de novos fluxos de compra. As atualizações foram desenvolvidas para:

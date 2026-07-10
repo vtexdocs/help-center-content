@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+> ⚠️ This feature is not available for new customers.
+
 > ⚠️ Attention: This feature is in Open Beta stage.
 
 VTEX Shipping Network uses order tracking data directly from carriers, keeping you and your customer up to date on the status of each delivery. **VTEX Shipping Network dashboards** manage the data obtained from VTEX Shipping Network, so that you can extract intelligent information for your logistics management. 

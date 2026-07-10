@@ -58,7 +58,7 @@ Lastly, the affiliate must be registered, as it is the unique identity of the ma
 
 **Name**: Farmácias APP;
 **ID**: FPP;
-**Trade Policy**: _inform the ID of the sales policy_.
+**Sales Channel**: _inform the ID of the sales policy_.
 **E-mail for notifications**: _e-mail of the person responsible for the integration_;
 **Search Endpoint**: https://integrador.farmaciasapp.com.br/Vtex/api/notification
 

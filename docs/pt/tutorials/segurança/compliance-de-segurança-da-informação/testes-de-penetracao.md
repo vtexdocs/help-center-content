@@ -19,7 +19,7 @@ A VTEX audita regularmente seus controles de segurança da informação por meio
 
 Os testes de penetração (ou pentests) são ataques simulados a um sistema de computador, rede ou aplicativo da web para avaliar a segurança, identificar vulnerabilidades e corrigi-las. Esse tipo de teste é executado de forma ética para avaliar a segurança do sistema sem causar danos reais.
 
-Nossas [certificações](https://vtex.com/br-pt/compliance/certifications/) atestam nosso compromisso com a implementação de medidas de segurança robustas, incluindo testes de penetração e varredura de vulnerabilidades, que são realizados periodicamente. Conforme verificado por auditorias externas, as vulnerabilidades descobertas durante os testes são rastreadas e resolvidas por meio do nosso programa de gerenciamento de vulnerabilidades, de acordo com as práticas recomendadas do setor.
+Nossas [certificações](https://compliance.vtex.com/) atestam nosso compromisso com a implementação de medidas de segurança robustas, incluindo testes de penetração e varredura de vulnerabilidades, que são realizados periodicamente. Conforme verificado por auditorias externas, as vulnerabilidades descobertas durante os testes são rastreadas e resolvidas por meio do nosso programa de gerenciamento de vulnerabilidades, de acordo com as práticas recomendadas do setor.
 
 Entendemos que nossos clientes também precisam atender aos requisitos de auditoria de segurança, garantindo a conformidade de seus negócios com as normas do setor. Por isso, decidimos tornar mais fácil e acessível para todos os nossos clientes o cumprimento dos requisitos de auditoria.
 
@@ -27,4 +27,4 @@ Em vez de analisar as solicitações de testes de penetração individuais dos c
 
 Esse documento é fornecido mediante solicitação, sem custo, [abrindo um ticket para o suporte da VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 
-> ⚠️ Nosso [Master Services Agreement (MSA)](https://vtex.com/br-pt/trust/agreements) proíbe expressamente a realização de testes de penetração na plataforma VTEX sem nosso consentimento prévio por escrito. Fazer isso sem nossa autorização constituiria uma violação de contrato por parte do cliente.
+> ⚠️ Nosso [Master Services Agreement (MSA)](https://vtex.com/pt-br/trust/contratos) proíbe expressamente a realização de testes de penetração na plataforma VTEX sem nosso consentimento prévio por escrito. Fazer isso sem nossa autorização constituiria uma violação de contrato por parte do cliente.

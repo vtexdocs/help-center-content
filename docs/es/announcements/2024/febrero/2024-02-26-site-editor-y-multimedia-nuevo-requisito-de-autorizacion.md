@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Site Editor y Multimedia: nuevo requisito de autorización'
 id: 7tO32uRxIUK8lOp8AvWs2L
 status: PUBLISHED
@@ -13,13 +13,17 @@ locale: es
 legacySlug: site-editor-y-multimedia-nuevo-requisito-de-autorizacion
 announcementImageID: 'undefined'
 announcementSynopsisES: 'CMS GraphQL API es obligatorio para la gestión de contenido. Actualiza los roles según corresponda.'
+tags:
+  - Cambio disruptivo
+  - Storefront
+  - Identity
 ---
 
 A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a [Site Editor](/es/docs/tutorials/site-editor-vision-general) y [Multimedia](/es/docs/tutorials/multimedia-vision-general) tengan el [recurso](/es/docs/tutorials/recursos-del-license-manager) de License Manager `CMS GraphQL API` agregado a sus [roles](/es/docs/tutorials/roles).
 
 ## ¿Qué cambió?
 
-Como se [anunció anteriormente para los usuarios de Headless CMS](/es/announcements/2024-02-02-headless-cms-nueva-solicitud-de-autorizacion), es necesario que tanto los usuarios como las claves de aplicación tengan el recurso `CMS GraphQL API` asociado con su rol para gestionar el contenido.
+Como se [anunció anteriormente para los usuarios de Headless CMS (Legacy)](/es/announcements/2024-02-02-headless-cms-nueva-solicitud-de-autorizacion), es necesario que tanto los usuarios como las claves de aplicación tengan el recurso `CMS GraphQL API` asociado con su rol para gestionar el contenido.
 
 Ahora, estamos extendiendo este requisito al Site Editor y Multimedia, lo que significa que el recurso 'CMS GraphQL API' es necesario para gestionar el contenido utilizando estas herramientas.
 

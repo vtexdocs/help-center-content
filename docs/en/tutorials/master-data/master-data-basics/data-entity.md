@@ -3,7 +3,7 @@ title: 'Data entity'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2024-10-23T23:39:13.110Z
+updatedAt: 2026-07-08T18:37:00.000Z
 publishedAt: 2024-10-23T23:39:13.110Z
 firstPublishedAt: 2017-04-27T23:03:49.803Z
 contentType: tutorial
@@ -23,7 +23,11 @@ For example, imagine a system that controls a library. This system controls book
 
 With these concepts in mind, you can set up several data control scenarios in Master Data. By default, the following data entities are considered: customer, address, stores, etc. You can create as many data entities as you want to develop a customized environment tailored to your store's needs.
 
+> ℹ️ Data entities created by your operation are considered custom entities and are subject to a monthly charge. Learn more in [Custom data entities](/docs/tutorials/master-data).
+
 > ⚠️ This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more: <ul> <li>[Master Data version features](/en/docs/tutorials/master-data#available-versions)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+
+> ⚠️ Deleting a data entity through the Master Data v1 interface does not remove the documents (records) already stored. The billed volume remains unchanged until the records are removed via the API. To delete documents and reduce billing, see the [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) guide on the Developers Portal.
 
 ## Data types
 

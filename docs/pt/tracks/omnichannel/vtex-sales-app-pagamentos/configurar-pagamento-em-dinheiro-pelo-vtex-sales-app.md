@@ -3,7 +3,7 @@ title: 'Configurar pagamento em dinheiro pelo VTEX Sales App'
 id: 4ye3bIWldaHJxGTgAziBZo
 status: PUBLISHED
 createdAt: 2020-06-28T16:04:36.122Z
-updatedAt: 2025-11-12T15:48:30.288Z
+updatedAt: 2026-03-25T15:48:30.288Z
 publishedAt: 2023-05-31T15:48:30.288Z
 firstPublishedAt: 2020-06-28T16:19:11.591Z
 contentType: trackArticle
@@ -33,7 +33,7 @@ Agora vamos criar a condição de pagamento.
 1. Ainda na página **Configurações**, clique na aba **Condições de pagamento**.
 2. Clique no botão verde com o ícone de `+` para adicionar uma nova condição, conforme destacado abaixo.
 
-![pt-add-payment-condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-pagamentos/configurar-pagamento-em-dinheiro-pelo-instore_1.png)
+![pt-add-payment-condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-pagamentos/configurar-pagamento-em-dinheiro-pelo-instore_1.png)
 
 3. Na seção **Pagamento Customizado**, clique na opção **Dinheiro** que você criou anteriormente.
 4. Dê um nome para essa condição de pagamento, mude o status para **Ativa** e, no seletor **Processar com a afiliação**, escolha o pagamento customizado que você criou no passo anterior.

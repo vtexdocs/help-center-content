@@ -25,7 +25,7 @@ Durante a busca, o Intelligent Search recebe o termo pesquisado pelo cliente e v
 
 Assim, mesmo que o cliente não busque pela palavra cadastrada no produto, ainda pode obter resultados relevantes. Isso aumenta as chances de sucesso na busca e reduz a possibilidade de obter resultados vazios.
 
-O uso de sinônimos também complementa os [relatórios](/pt/docs/tutorials/analytics) de buscas sem resultados. A partir dessa análise, o lojista pode identificar buscas sem sucesso e tomar ações sobre quais termos precisam de sinônimos cadastrados.
+O uso de sinônimos também complementa os [relatórios](/pt/docs/tutorials/intelligent-search-analytics) de buscas sem resultados. A partir dessa análise, o lojista pode identificar buscas sem sucesso e tomar ações sobre quais termos precisam de sinônimos cadastrados.
 
 ## Tipos de sinônimos
 

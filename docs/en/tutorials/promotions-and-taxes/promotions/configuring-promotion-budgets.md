@@ -3,7 +3,7 @@ title: 'Configuring promotion budgets'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z
-updatedAt: 2025-10-13T13:56:04.974Z
+updatedAt: 2026-05-28T13:56:04.974Z
 publishedAt: 2025-10-13T13:56:04.974Z
 firstPublishedAt: 2025-09-10T11:43:30.901Z
 contentType: tutorial
@@ -63,6 +63,21 @@ If a promotion's budget reaches the limit and the promotion is paused, you can a
 5. Update the Promotion budget field with the new limit.
 6. Click **Apply**. 
 7. Click **Save**.
+
+## How to configure budget notifications 
+You can configure notifications to track a promotion’s budget consumption and receive notifications before the limit is reached.
+
+To configure notifications, follow the steps below:
+
+1. In the **VTEX Admin**, go to **Promotions > Promotions**.  
+2. Select the desired promotion.  
+3. In the **Budget section**, click the add icon <i class="fas fa-plus" aria-hidden="true"></i> or the pencil icon <i class="fas fa-pencil-alt" aria-hidden="true"></i>.  
+4. Enable the notifications option.  
+5. Define the budget consumption percentages that trigger alerts, such as 75%, 80%, 85%, 90%, 95%, or 100%.  
+6. In the email field, add the addresses that will receive the notifications.  
+7. Click `Save`.
+
+Notifications are sent by email as budget consumption reaches the defined percentages.
 
 ## Removing a budget from a promotion
 To remove the budget from a promotion, follow the steps below:

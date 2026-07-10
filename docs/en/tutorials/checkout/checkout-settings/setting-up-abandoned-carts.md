@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Setting up Cart Abandonment (Trigger)'
 id: tutorials_740
 status: PUBLISHED
@@ -19,10 +19,10 @@ Abandoned cart is VTEX's functionality that sends emails to customers to remind 
 
 The abandoned cart configuration can be performed in two different ways, according to the store's operating environment:
 
-- [Legacy CMS Portal](#configuration-for-legacy-cms-portal-stores): through various modules of the VTEX platform (CMS, Master Data and Message Center) and also on your host server.
+- [CMS Portal (Legacy)](#configuration-for-legacy-cms-portal-stores): through various modules of the VTEX platform (CMS, Master Data and Message Center) and also on your host server.
 - [VTEX IO](#configuration-for-vtex-io-stores): through the installation of the “Abandoned Cart” app, configuration of the email template in the Message Center, and the Trigger in the Master Data.
 
-## Configuration for Legacy CMS Portal stores
+## Configuration for CMS Portal (Legacy) stores
 
 This section presents the following topics for configuring the abandoned cart functionality in VTEX Legacy stores:
 

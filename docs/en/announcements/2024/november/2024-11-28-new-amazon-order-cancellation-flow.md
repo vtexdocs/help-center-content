@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-amazon-order-cancellation-flow
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Now, canceled Amazon orders are automatically canceled in the VTEX Admin.'
+tags:
+  - Improvement
+  - Marketplace
+  - Integrations
 ---
 
 We have developed a new cancellation flow for orders in the integration between VTEX and [Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP), automating the process and eliminating the need for manual cancellations.  

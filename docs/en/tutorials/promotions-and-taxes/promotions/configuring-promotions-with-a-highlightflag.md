@@ -1,9 +1,9 @@
----
+﻿---
 title: "Configuring promotions with highlights / flags"
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2025-09-29T17:45:04.455Z
+updatedAt: 2026-03-25T17:45:04.455Z
 publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
@@ -25,20 +25,17 @@ In this guide, you will find the following sections:
 - [Restrictions](#restrictions)
 - [Configuring a promotion](#configuring-a-promotion)
 - [Promotion highlight in Store Framework](#promotion-highlight-in-store-framework)
-- [Promotion highlight in Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
+- [Promotion highlight in CMS Portal (Legacy)](#promotion-highlight-in-legacy-cms-portal)
   - [Page template](#page-template)
   - [Shelves template](#Shelves-template)
 
 ## Promotions eligible for highlight
 
-The promotion highlight can be applied to different types of promotions and discounts. This highlight will be displayed on shelves and product pages, alerting customers that the item is part of a special promotion.
+Promotion highlighting allows displaying a visual indication on product shelves and product pages, informing that the item is part of an active promotion.
 
-The following types of discounts are eligible for a highlight application:
+Currently, the Featured in the product option is available for all promotion types.
 
-- [Percentage discount](/en/docs/tutorials/how-to-set-percent-discount-promotion-for-a-specific-sku): offers a percentage reduction on the product’s price.
-- **Free gift**: offers an extra product at no cost to the customer when purchasing a certain item or reaching a minimum purchase value.
-
-To learn more, see the [Promotions](/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
+However, the display of this highlight does not depend on the configured promotion type. In cases where the promotion depends on information that is not yet available at the moment when shelves or product pages are loaded, the highlight is not displayed.
 
 ## Restrictions
 
@@ -66,15 +63,15 @@ Follow the instructions below to configure promotions in your store.
 6. Follow the instructions corresponding to the frontend technology used by your store:
 
 - [Store Framework](#promotion-highlight-in-store-framework)
-- [Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
+- [CMS Portal (Legacy)](#promotion-highlight-in-legacy-cms-portal)
 
 ## Promotion highlight in Store Framework
 
 For stores developed using Store Framework, after configuring the promotion highlight, follow the instructions in the documentation for the [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights) component.
 
-## Promotion highlight in Legacy CMS Portal
+## Promotion highlight in CMS Portal (Legacy)
 
-For Legacy CMS Portal stores, after configuring the promotion highlight, configure the [page template](#configure-the-page-template) and [shelves template](#configure-the-shelves-template) in the CMS module. In addition, your CSS must be configured for this function.
+For CMS Portal (Legacy) stores, after configuring the promotion highlight, configure the [page template](#configure-the-page-template) and [shelves template](#configure-the-shelves-template) in the CMS module. In addition, your CSS must be configured for this function.
 
 ### Page template
 

@@ -13,6 +13,9 @@ locale: es
 legacySlug: exporta-hallazgos-de-security-monitor-para-agilizar-analisis-y-auditoria
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Exporta hallazgos de Security Monitor directamente desde la interfaz para facilitar el monitoreo de riesgos.'
+tags:
+  - Nueva funcionalidad
+  - VTEX Shield
 ---
 
 Ahora puedes exportar los hallazgos de [Security Monitor](/es/docs/tutorials/security-monitor) a un archivo CSV. Esta nueva funcionalidad brinda una mayor autonomía para registrar, compartir y profundizar en el análisis de los riesgos de seguridad detectados en tu cuenta.

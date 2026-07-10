@@ -24,7 +24,7 @@ The promotion summary features:
 - [Conditions](#conditions)
 - [Restrictions](#restrictions)
 - [Sellers](#sellers)
-- [Trade policy](#trade-policy)
+- [Sales channel](#trade-policy)
 - [Types of alerts](#types-of-alerts)
 
 After reviewing the promotion, click `Save` to activate it. If you wish to edit any field, click `Cancel` and change the information you want.
@@ -53,8 +53,8 @@ This section displays the [Restrictions and limitations of use](/en/docs/tutoria
 ## Sellers
 This section displays the sellers that will be included or excluded from the promotion, as configured in the section [Restrict this promotion to products from sellers](/en/docs/tutorials/regular-promotion#restrict-this-promotion-to-products-from-sellers) of the promotion.
 
-## Trade policy
-This section displays the trade policies valid for the promotion, configured in the [Trade Policy](/en/docs/tutorials/regular-promotion#trade-policy) part of the promotion form.
+## Sales channel
+This section displays the sales channels valid for the promotion, configured in the [Sales Channel](/en/docs/tutorials/regular-promotion#trade-policy) part of the promotion form.
 
 ## Types of alerts
 The promotion summary can display three different types of alerts. See the descriptions below for more information.

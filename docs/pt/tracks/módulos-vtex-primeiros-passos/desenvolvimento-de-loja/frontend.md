@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Frontend'
 id: 5DTcawNjc5MovtD7HNqURl
 status: PUBLISHED
@@ -31,8 +31,8 @@ O Store Framework é uma solução para construção de frente de loja que se al
 
 Lojas criadas com o Store Framework também contam com as features de: 
 - **[Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search)**: ferramenta de busca, que corrige erros ortográficos e possibilita regras condicionais para exibição do resultado de busca.
-- **[Multi-idiomas](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: possibilidade que o VTEX IO traz de configurar a tradução automática na loja para outros idiomas.
-- **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: o que permite uma [multi-loja VTEX](/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759) de operar em diferentes países com uma abordagem própria para cada um deles.
+- **[Multi-idiomas](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta)**: possibilidade que o VTEX IO traz de configurar a tradução automática na loja para outros idiomas.
+- **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: o que permite uma [multi-loja VTEX](/pt/docs/tutorials/gerenciando-uma-multiloja) de operar em diferentes países com uma abordagem própria para cada um deles.
 
 ## FastStore 
 
@@ -40,13 +40,13 @@ Enquanto Store Framework foca em composabilidade, a FastStore foi construída co
 
 A intenção é de se utilizar da arquitetura Jamstack para entregar frentes de loja de maneira rápida, segura e confiável. Além disso, acompanha diversas ferramentas e recursos voltados para esse propósito, incluindo pipeline de WebOps e starter packs otimizados para performance.
 
-Dessa forma, a FastStore pode realizar integrações com qualquer CMS e qualquer plataforma de desenvolvimento — mas para se beneficiar das garantias e suporte fornecidos pela VTEX, FastStore, Webops e Headless CMS é necessário.
+Dessa forma, a FastStore pode realizar integrações com qualquer CMS e qualquer plataforma de desenvolvimento — mas para se beneficiar das garantias e suporte fornecidos pela VTEX, FastStore, Webops e Headless CMS (Legacy) é necessário.
 
 Algumas funcionalidades não estão disponíveis, a exemplo de customizações de My Account e total integração com apps do IO e Intelligent Search. 
 
 ## CMS Portal (Legado)
 
-O CMS Portal é uma tecnologia legada da VTEX responsável por gerenciar, principalmente, o código fonte do site, sendo então o módulo onde está o conteúdo que aparece na loja. 
+O CMS Portal (Legado) é uma tecnologia legada da VTEX responsável por gerenciar, principalmente, o código fonte do site, sendo então o módulo onde está o conteúdo que aparece na loja. 
 
 Para o CMS Portal (Legado), um conceito importante é o de Controles, que são snippets de código que renderizam dados nativos da VTEX. Os controles ajudam o lojista a criar conteúdo e incluir ferramentas no site de forma nativa utilizando o que a VTEX já oferece. Para que essa customização ocorra, são utilizados CSS, HTML e JavaScript no desenvolvimento, permitindo que se crie layouts e templates.
 

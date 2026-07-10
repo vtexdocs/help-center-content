@@ -43,9 +43,9 @@ Here's how to import data in bulk into the VTEX platform:
 	<li>Once the import process is complete, you can click View Import Details to access the import report.</li>
 </ol>
 
-![Importação em massa - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-organizations/configuring-bulk-data-import-for-organizations-and-cost-centers_1.gif)
+![Importação em massa - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-suite/b2b-organizations/configuring-bulk-data-import-for-organizations-and-cost-centers_1.gif)
 
-# Import errors
+## Import errors
 
 During the import process, the system will check the file for errors. If errors are detected, you will be notified by email and receive a notification on your screen.
 
@@ -57,9 +57,9 @@ To get a detailed overview of the detected problems, follow the steps below:
 
 > ℹ️ Make sure you only upload the file with corrections to the previously detected errors to ensure a successful import.
 
-![Bulk import - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-organizations/configuring-bulk-data-import-for-organizations-and-cost-centers_2.gif)
+![Bulk import - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-suite/b2b-organizations/configuring-bulk-data-import-for-organizations-and-cost-centers_2.gif)
 
-# Bulk Import via API
+## Bulk Import via API
 
 You can also import information using the [Bulk Import API](https://developers.vtex.com/docs/api-reference/buyer-organizations?endpoint=overview), which allows you to validate and import files, as well as monitor the import progress and result.
 

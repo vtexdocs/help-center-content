@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Responsibilities within the VTEX ecosystem'
 id: 3vL9aWICDr3WR64DYi1fJ3
 status: PUBLISHED
@@ -140,7 +140,7 @@ If inconsistencies or errors are detected during the order payment transaction, 
 
 With native CMS solutions, merchants often rely on an implementation agency to customize the storefront's layout and customer experience.
 
-VTEX offers the following native CMS options: [Layout](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) for [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) stores, [Site Editor](/en/docs/tutorials/site-editor-overview) for stores using the [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework), and [Headless CMS](/en/docs/tutorials/headless-cms-overview) for stores using [FastStore](https://www.faststore.dev/). You can also integrate your external CMS with the VTEX APIs using a [headless](https://developers.vtex.com/docs/guides/headless-commerce) approach.
+VTEX offers the following native CMS options: [Layout](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) for [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal) stores, [Site Editor](/en/docs/tutorials/site-editor-overview) for stores using the [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework), and [Headless CMS (Legacy)](/en/docs/tutorials/headless-cms-overview) for stores using [FastStore](https://www.faststore.dev/). You can also integrate your external CMS with the VTEX APIs using a [headless](https://developers.vtex.com/docs/guides/headless-commerce) approach.
 
 Issues related to how the content is being displayed to the end user should always be addressed initially with the agency's support. Some examples of these issues are:
 
@@ -171,7 +171,7 @@ Below are the responsibilities involved in updating or sending new products and 
 | **Player** | **Responsibilities** |
 |---|---|
 | **VTEX** | Send a notification of a new product or SKU created or updated to the affiliate endpoint provided by the hub and added to the VTEX platform. |
-| **Partner connector (integration hub)** | Process the notification and send the updated product or SKU to the marketplace. <br /><br />This process encompasses many steps: checking if this SKU already exists in the marketplace and adding it if necessary, validating if the product is active and associating it with the marketplace's trade policy, running an order simulation to check the SKU's updated price and inventory, etc. |
+| **Partner connector (integration hub)** | Process the notification and send the updated product or SKU to the marketplace. <br /><br />This process encompasses many steps: checking if this SKU already exists in the marketplace and adding it if necessary, validating if the product is active and associating it with the marketplace's sales channel, running an order simulation to check the SKU's updated price and inventory, etc. |
 | **Non-native external marketplace** | Provide the necessary endpoints for the hub to send the updated SKU, log the received SKU, and reply the status to the connector.= |
 
 ### Updating or creating new orders

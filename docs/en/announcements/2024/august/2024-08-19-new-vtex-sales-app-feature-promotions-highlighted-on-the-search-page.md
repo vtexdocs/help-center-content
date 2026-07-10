@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-vtex-sales-app-feature-promotions-highlighted-on-the-search-page
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The VTEX Sales App feature highlights promotions in the search results of the Product Listing Page.'
+tags:
+  - New feature
+  - VTEX Sales App
 ---
 
 A new feature is now available for [VTEX Sales App](/en/docs/tracks/vtex-sales-app-using-the-app): promotions on the search page, which allow merchants to highlight special offers directly in the search results of the Product Listing Page (PLP).

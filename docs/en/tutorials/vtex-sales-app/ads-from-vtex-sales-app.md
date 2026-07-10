@@ -1,5 +1,5 @@
----
-title: "VTEX Sales App Offers"
+﻿---
+title: 'VTEX Sales App Offers'
 id: 3UtOFwbwD4muz3p72RBPmC
 status: PUBLISHED
 createdAt: 2023-05-25T17:16:06.902Z
@@ -22,7 +22,7 @@ To customize a store's window display, merchants can add an `Offers by store` pa
 In this document, we will provide detailed instructions on how to install, configure, and use the new offer area. Follow the steps below to set up this tool and boost your online sales.
 
 - [Install VTEX dependencies](#install-vtex-dependencies)
-- [Configure the Headless CMS app](#configure-the-headless-cms-app)
+- [Configure the Headless CMS (Legacy) app](#configure-the-headless-cms-app)
 - [Create an offer page](#create-an-offer-page)
 - [Activate the offer menu in VTEX Sales App](#activate-the-offer-menu-in-VTEX-Sales-App)
 - [Access ads in the VTEX Sales App](#access-ads–in-the-vtex-sales-app)
@@ -38,7 +38,7 @@ Before installing the dependencies, you must have VTEX IO CLI installed. With VT
     vtex install vtex.admin-cms@1.x vtex.admin-cms-graphql@0.x vtex.admin-cms-graphql-rc@1.x vtex.admin-releases@0.x vtex.cms-builder-sf-jamstack@1.x
     ```
 
-## Configuring the Headless CMS app
+## Configuring the Headless CMS (Legacy) app
 
 To create an offer page for VTEX Sales App, follow the steps below:
 

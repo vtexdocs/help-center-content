@@ -12,10 +12,13 @@ slugEN: 2024-09-18-change-to-the-availablequantity-field-in-the-search-api
 locale: es
 legacySlug: cambios-en-el-campo-availablequantity-de-la-api-de-busqueda
 announcementImageID: 'undefined'
-announcementSynopsisES: 'VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de búsqueda legada.'
+announcementSynopsisES: 'VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de VTEX Search (Legado).'
+tags:
+  - Cambio disruptivo
+  - Intelligent Search
 ---
 
-VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de búsqueda legada. Este cambio puede impactar el funcionamiento de las integraciones existentes.
+VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de VTEX Search (Legado). Este cambio puede impactar el funcionamiento de las integraciones existentes.
 
 > ℹ️ Este cambio no afectará a tiendas que usan VTEX Intelligent Search.
 
@@ -46,7 +49,7 @@ Este cambio impacta todas las rutas que devuelven este campo:
 
 ## ¿Por qué realizamos este cambio?
 
-Anteriormente, era posible ver la cantidad de un producto en stock en una tienda utilizando la API de búsqueda legada. Sin embargo, como el stock es un dato sensible y la API es pública, decidimos ocultar esta información.
+Anteriormente, era posible ver la cantidad de un producto en stock en una tienda utilizando la API de VTEX Search (Legado). Sin embargo, como el stock es un dato sensible y la API es pública, decidimos ocultar esta información.
 
 ## ¿Qué se necesita hacer?
 

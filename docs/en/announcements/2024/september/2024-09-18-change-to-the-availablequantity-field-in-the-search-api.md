@@ -12,10 +12,13 @@ slugEN: 2024-09-18-change-to-the-availablequantity-field-in-the-search-api
 locale: en
 legacySlug: change-to-the-availablequantity-field-in-the-search-api
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the legacy search.'
+announcementSynopsisEN: 'VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the VTEX Search (Legacy).'
+tags:
+  - Breaking change
+  - Intelligent Search
 ---
 
-VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the legacy search. This change may impact existing integrations.
+VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the VTEX Search (Legacy). This change may impact existing integrations.
 
 > ℹ️ Stores that use VTEX Intelligent Search are not affected.
 

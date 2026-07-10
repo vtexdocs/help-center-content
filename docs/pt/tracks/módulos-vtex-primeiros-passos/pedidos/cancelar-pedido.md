@@ -49,4 +49,4 @@ Se o cliente solicitar o cancelamento dentro do período de carência do pedido,
 
 Após o período de carência, entende-se que a loja já está agindo sobre o pedido. Nesse caso, o lojista deverá confirmar a solicitação de cancelamento.   
 
-Confira nosso artigo sobre o fluxo completo de [cancelamento solicitado pelo cliente](/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente).
+Confira nosso artigo sobre o fluxo completo de [cancelamento solicitado pelo cliente](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente).

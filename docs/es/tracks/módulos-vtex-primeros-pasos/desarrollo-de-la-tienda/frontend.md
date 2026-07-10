@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Frontend'
 id: 5DTcawNjc5MovtD7HNqURl
 status: PUBLISHED
@@ -31,7 +31,7 @@ Store Framework es una solución para construir storefronts aprovechando VTEX IO
 
 Las tiendas creadas con Store Framework también tienen las siguientes funcionalidades:
 - **[Intelligent Search](/es/docs/tracks/vision-general-intelligent-search)**: herramienta de búsqueda que corrige errores ortográficos y permite usar reglas condicionales para mostrar los resultados de búsqueda.
-- **[Multiidiomas](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: es la posibilidad que VTEX IO proporciona para configurar la traducción automática de la tienda a otros idiomas.
+- **[Multiidiomas](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta)**: es la posibilidad que VTEX IO proporciona para configurar la traducción automática de la tienda a otros idiomas.
 - **[Transfronterizo](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: permite que una [multitienda VTEX](/es/docs/tutorials/gestionar-multitienda) opere en diferentes países con un enfoque propio para cada uno de ellos.
 
 ## FastStore
@@ -40,13 +40,13 @@ Si bien Store Framework se centra en la componibilidad, FastStore se creó con e
 
 La intención es utilizar la arquitectura Jamstack para entregar storefronts de forma más rápida, segura y confiable. También comprende varias herramientas y recursos diseñados para este propósito, incluyendo pipeline de WebOps y kits de desarrollo optimizados para rendimiento.
 
-Esto permite que FastStore se integre con cualquier CMS y cualquier plataforma de desarrollo, aunque para beneficiarse de las garantías y soporte proporcionado por VTEX, es necesario tener FastStore, WebOps y Headless CMS.
+Esto permite que FastStore se integre con cualquier CMS y cualquier plataforma de desarrollo, aunque para beneficiarse de las garantías y soporte proporcionado por VTEX, es necesario tener FastStore, WebOps y Headless CMS (Legacy).
 
 Algunas funcionalidades no están disponibles, como las personalizaciones de Mi cuenta y la integración completa con las aplicaciones de VTEX IO e Intelligent Search.
 
 ## CMS Portal (Legado)
 
-CMS Portal es una tecnología heredada de VTEX que sirve para gestionar, principalmente, el código fuente del sitio web y, por lo tanto, es el módulo donde se encuentra el contenido que aparece en la tienda.
+CMS Portal (Legado) es una tecnología heredada de VTEX que sirve para gestionar, principalmente, el código fuente del sitio web y, por lo tanto, es el módulo donde se encuentra el contenido que aparece en la tienda.
 
 En CMS Portal (Legado), un concepto importante son los controles, que son snippets de código que renderizan datos nativos de VTEX. Los controles ayudan al administrador de la tienda a crear contenido e incluir herramientas en el sitio web de forma nativa utilizando lo que VTEX ya ofrece. Se utilizan CSS, HTML y JavaScript para la personalización, lo que permite crear layouts y templates.
 

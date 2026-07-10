@@ -39,7 +39,7 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 |------------------|------------------|
 | Haga clic en `Ir para la Entrega`. | Checkout solicita a RC.JS que transfiera la dirección de correo electrónico y la información del carrito a Master Data (a través del Profile System). |
 
-> ⚠️ Para que se pueda utilizar la función [carrito abandonado](/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
+> ⚠️ Para que se pueda utilizar la función [carrito abandonado](/es/docs/tutorials/acceder-al-carrito-abandonado-de-los-clientes), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
 
 | __Usuario__ | __Plataforma VTEX__ |
 |------------------|------------------|

@@ -54,7 +54,7 @@ After configuration in the VTEX environment, you also need to configure Webhook 
 8. Click on __Add events__.
 9. Click on __Add endpoint__.
 
-> ℹ️ If you wish to carry out credit card transactions on Stripe, you must open a ticket on Stripe as follows: - Request the release of the "raw card data" function, indicating that VTEX and Stripe are payment partners. - Please attach the VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). To check the latest version of AOC VTEX, access the [VTEX certifications](https://vtex.com/us-en/compliance/certifications) page and download the file available in the PCI section. The above actions will prevent errors related to the transmission of sensitive data from occurring in the integration between Stripe and VTEX.
+> ℹ️ If you wish to carry out credit card transactions on Stripe, you must open a ticket on Stripe as follows: - Request the release of the "raw card data" function, indicating that VTEX and Stripe are payment partners. - Please attach the VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). To check the latest version of AOC VTEX, access the [VTEX certifications](https://compliance.vtex.com/) page and download the file available in the PCI section. The above actions will prevent errors related to the transmission of sensitive data from occurring in the integration between Stripe and VTEX.
 
 ## Configuring a payment condition
 
