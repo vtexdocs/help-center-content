@@ -8,117 +8,124 @@ slugEN: live-desk-overview
 locale: es
 ---
 
-El módulo de Live Desk es el sistema de atención humana oficial de la VTEX CX Platform. Fue desarrollado en base a las necesidades y problemas de nuestros clientes, es nativo en todos los proyectos de la VTEX CX Platform, y ofrece una experiencia de autoservicio.
+Live Desk es el módulo oficial de soporte humano de VTEX CX Platform, nativo en todos los proyectos de la plataforma. Con él, los representantes realizan el soporte a los clientes en tiempo real y en un solo lugar: reciben los contactos distribuidos por departamento y cola, responden a través de diferentes canales y acompañan el historial de cada conversación.
 
-En las próximas secciones podrás conocer más sobre los conceptos y funciones de este módulo.
+En este artículo, conocerás los principales conceptos y funciones del módulo:
+
+- [Permisos de usuario](#permisos-de-usuario)
+- [Funcionalidades](#funcionalidades)
+- [Historial y dashboard](#historial-y-dashboard)
+- [Configuración y recursos relacionados](#configuración-y-recursos-relacionados)
 
 ## Permisos de usuario
 
-Los permisos de usuario representan las asignaciones para cada usuario en el proyecto, y en el módulo de Live Desk, indican los siguientes roles:
+Los permisos de usuario representan atribuciones referentes a cada usuario en el proyecto. En Live Desk, indican los siguientes roles:
 
-### Agente
+- **Representante:** utiliza el módulo Live Desk para realizar el soporte. Tiene permiso mínimo en el sistema y visualiza solamente el módulo Live Desk y el dashboard con sus métricas individuales. El soporte dirigido al representante se define por el departamento y la cola en la que está incluido.
+- **Gerente de soporte:** gestiona los departamentos de soporte de Live Desk. Tiene permiso para visualizar la configuración relacionada con el departamento que gestiona, visualizar los contactos que están en las colas y realizar el soporte. En el dashboard, visualiza las métricas del departamento en el que es gerente.
+- **Administrador:** posee todos los niveles de permiso, crea departamentos y delega gerentes de soporte para los departamentos. En el dashboard, tiene una vista general de toda la operación.
 
-Es el usuario que utiliza el módulo de Live Desk para realizar atenciones, tiene permisos mínimos en el sistema y solo visualiza el módulo de Live Desk y el Dashboard con sus métricas individuales. Las atenciones dirigidas al agente se definen a través del sector y la cola en los que está incluido.
-
-### Gerente de atención
-
-Es el usuario que gestiona los grupos de atención de WeniChats, tiene permisos en el sistema para ver configuraciones relacionadas con el sector que gestiona, puede ver los contactos que están en las colas y realizar atenciones. En el Dashboard, visualiza las métricas del sector en el que es gerente.
-
-### Administrador
-
-Es el usuario con todos los niveles de permisos, crea sectores y delega gerentes de atención para los sectores. En el Dashboard, tiene una vista general de toda la operación.
+Para saber cómo asignar estos roles, consulta el artículo [Gestionar miembros de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/administrar-miembros-de-la-plataforma-vtex-cx).
 
 ## Funcionalidades
 
-### Información del contacto
+### Visualizar información del contacto
 
-Al hacer clic en la foto o nombre del contacto en cualquier área de la conversación, es posible acceder a la **barra lateral** de información del contacto, donde se muestra la foto del contacto en un tamaño más grande, los datos como el canal por el cual el contacto está conversando, la hora del último contacto, la función de transferir el chat y la galería de medios del contacto.
+Al hacer clic en la foto o en el nombre del contacto en cualquier área de la conversación, accedes al panel de información del contacto, que presenta la foto ampliada, datos como el canal a través del cual el contacto está conversando, el horario del último mensaje, la función de transferir chat y la galería de medios del contacto.
 
-### Mensajes rápidas
+### Crear y enviar mensajes rápidos
 
-Mensajes rápidas es una función que permite registrar plantillas de mensajes para utilizarlas rápidamente. Al hacer clic en el botón de mensajes rápidas, el usuario accede a la **barra lateral** de la función, donde puede ver los mensajes, gestionarlos y registrar uno nuevo. Un mensaje puede utilizarse haciendo clic sobre él o escribiendo **/** seguido del atajo del mensaje.
+Los mensajes rápidos permiten registrar plantillas de mensajes para uso ágil durante el soporte. Al hacer clic en el botón de mensajes rápidos, accedes al panel de la función, donde puedes visualizar, gestionar y registrar mensajes. Al seleccionar el mensaje deseado, el texto registrado llena el campo del editor de texto.
 
-Al seleccionar el mensaje deseado, el texto registrado en el mensaje llena el campo del editor de texto.
+Puedes utilizar los mensajes rápidos de dos maneras:
 
-Es posible utilizar los mensajes rápidas de dos maneras:
+- Abre el panel haciendo clic en el botón de mensajes rápidos y, a continuación, haz clic en el mensaje deseado.
+- Al registrar el mensaje, define una palabra clave como atajo. Para utilizarla, solo tienes que escribir `/` seguido del atajo.
 
-1. La primera es como en el ejemplo anterior, donde el agente abre la barra lateral haciendo clic en el botón de mensajes rápidas y luego selecciona el mensaje deseado.
-2. La otra opción es mediante un atajo, donde el agente al registrar el mensaje determina una palabra clave como atajo. Para usarlo solo con el teclado, el agente debe escribir la tecla **/** (barra).
+Puedes navegar por los mensajes con las flechas del teclado y presionar `Enter` para usar el mensaje. Al escribir el texto del atajo, la herramienta también realiza la búsqueda específica.
 
-### Mensajes rápidas por sector
-
-También es posible configurar mensajes rápidas para cada sector, de esta forma los gerentes pueden ejecutar esta función al momento de crear el sector.
-
-1. Haz clic en Configuración > Live Desk > Elige el sector y haz clic en Abrir.
-2. Al abrir el sector, haz clic en Mensajes y luego en el botón Nueva mensaje rápida.
-3. Crea un título, un atajo y el mensaje.
+También es posible configurar mensajes rápidos específicos por departamento. Esta configuración se realiza durante la creación del departamento. Para más información, accede a [Configure Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
 ### Transferir chat
 
-La función de transferir chat se utiliza para redirigir al contacto a un sector, fila o agente específico. Esta función se puede acceder desde el área de información del contacto.
+La función de transferir chat dirige el contacto a un departamento, cola o representante específico y se puede acceder en el panel de información del contacto. La transferencia puede ser accionada por el agente de IA, cuando esta opción está activada en la configuración, o manualmente por un gerente o administrador. En la transferencia manual, es posible buscar por nombre de un representante, cola o departamento, o seleccionar un destinatario en la lista exhibida. Al confirmar la transferencia, el contacto es encaminado al destinatario elegido.
 
-El usuario puede buscar por el nombre de un agente, fila o sector, o puede seleccionar algún destinatario en la lista que se despliega. Al confirmar la transferencia, el contacto es enviado al destinatario seleccionado.
+Para saber cómo se distribuye el soporte entre los representantes, consulta [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones).
 
 ### Grabar y enviar audio
 
-A través de los botones del cuadro de texto, el usuario puede grabar un audio y enviarlo. Antes de enviarlo al contacto, el usuario puede reproducir el audio y, finalmente, enviarlo.
+A través de los botones del cuadro de texto, puedes grabar y enviar un audio. Antes del envío, puedes reproducir el audio y después enviarlo al contacto.
 
-### Arrastrar archivos
+### Adjuntar archivos
 
-Es posible arrastrar archivos al cuadro de texto, y la función de Ctrl + V está activa para copiar archivos de imágenes sin necesidad de adjuntarlos manualmente.
+Para adjuntar archivos, arrástralos hasta el cuadro de texto. También puedes usar el atajo `Ctrl + V` para pegar imágenes directamente, sin adjuntarlas manualmente.
 
-### Emojis
+### Enviar emojis
 
-Los emojis pueden hacer la comunicación más atractiva, ya que facilitan la comprensión del tono y la intención del mensaje. Live Desk tiene una página completa de emojis.
+Live Desk ofrece un panel completo de emojis, que ayudan a transmitir el tono y la intención de los mensajes durante el soporte.
 
-Salto de línea
+### Insertar salto de texto
 
-Es posible escribir **shift + enter** para hacer saltos de línea, lo que puede facilitar la organización del mensaje.
+Para auxiliar en la organización visual del mensaje, puedes insertar saltos de línea presionando `Shift + Enter`.
 
-### Historial
+### Configurar firma activa
 
-Dentro del Módulo de Live Desk, haz clic en **Historial de chats**.
+La firma activa agrega el nombre del representante que está respondiendo a cada mensaje intercambiado. Para activarla, sigue estos pasos:
 
-Para facilitar la localización de historiales, el módulo de Live Desk dispone de **2 tipos** de filtros por ahora, que son:
+1. Accede a la organización y al proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Configuración**.
+3. Haz clic en **Live Desk**.
+4. En la pestaña **Sectores**, haz clic en el menú de acciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i> del departamento deseado y en `Editar`.
+5. En la pestaña **Opciones adicionales**, activa la opción **Usar firma**.
+6. Haz clic en `Guardar cambios`.
 
-1. **Buscar contacto**: Es posible filtrar por el nombre del contacto.
-2. **Filtrar por etiqueta**: permite seleccionar etiquetas y buscar los chats que fueron clasificados con esas etiquetas.
-3. **Filtrar por fecha:** permite determinar un período o fecha específica para buscar los historiales.
-4. También está disponible el botón para **limpiar filtros**.
-5. Haz clic en **Ver** para acceder a los historiales.
+> ℹ️ Después de la activación, el nombre del representante aparecerá en el globo de mensaje seguido de dos puntos.
 
-### Visualizar historial
+### Editar campos de contacto
 
-El usuario verá la lista de chats en orden cronológico, desde los más recientes hasta los más antiguos. En esta lista se puede visualizar la foto del contacto, el nombre, el agente que realizó la atención, las etiquetas que se utilizaron para clasificar, la fecha y un botón para abrir el chat.
+La edición de campos de contacto permite que corrijas datos incorrectos o actualices información del cliente durante el soporte. Para habilitar esta función, sigue estos pasos:
 
-Al visualizar el historial del contacto, el agente puede ver el inicio de la atención, el historial con el Bot y los eventos del chat, así como las etiquetas utilizadas para clasificar el chat en sí.
+1. Accede a la organización y al proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Configuración**.
+3. Haz clic en **Live Desk**.
+4. En la pestaña **Sectores**, haz clic en el menú de acciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i> del departamento deseado y en `Editar`.
+5. En la pestaña **Opciones adicionales**, activa la opción **Permitir que los representantes editen la información personalizada del contacto**.
+6. Haz clic en `Guardar cambios`.
 
-### Firma activa
+> ℹ️ Para editar un campo, abre el panel de información haciendo clic en el nombre del contacto y, a continuación, haz clic en el campo deseado para insertar el nuevo valor.
 
-Es posible añadir una firma activa, de modo que cada mensaje intercambiado incluirá el nombre del agente que está respondiendo. Para activar esta función, accede a **Configuraciones > Live Desk**. A continuación, selecciona el sector que deseas configurar, y después de abrir el sector, en **opciones adicionales**, selecciona **firma activa**.
+### Recibir notificación vía navegador
 
-Después de añadir esta opción, el nombre del agente aparecerá en el globo de mensaje seguido de dos puntos.
+Live Desk ofrece notificaciones vía navegador como alternativa a la alerta sonora. Para recibirlas, permite las notificaciones del sitio en la configuración de tu navegador.
+
+## Historial y dashboard
+
+### Dashboard y métricas
+
+El seguimiento del soporte humano se realiza en el dashboard del módulo **Analytics**, dividido en dos pestañas:
+
+- **Monitorización:** datos en tiempo real del soporte en curso, como status, tiempos promedio, volumen por cola y tag, y CSAT.
+- **Analytics:** datos históricos del soporte finalizado en el periodo seleccionado.
+
+Puedes filtrar los datos por departamento, cola, representante, tag y periodo, además de exportarlos con el botón `Exportar datos`.
+
+Para la descripción completa de cada métrica y sección, consulta el artículo [Analytics: Métricas de atención](https://help.vtex.com/es/docs/tutorials/analytics-metricas-de-atencion). Para crear visualizaciones personalizadas, consulta el artículo [Analytics: Crear dashboard personalizado](https://help.vtex.com/es/docs/tutorials/crear-dashboard-personalizado).
+
+### Visualización del historial
+
+La lista de Live Desk queda en orden cronológico, del soporte más reciente al más antiguo. En este listado, puedes ver la foto del contacto, el nombre, el representante que realizó el soporte, los tags usados en la clasificación, la fecha y un botón para abrir el chat.
+
+Al visualizar el historial del contacto, puedes ver el inicio del soporte, el historial con el bot, los acontecimientos del chat y los tags usados para clasificarlo.
 
 ### Modo de visualización
 
-1. En el módulo de **Live Desk > Preferencias > Dashboard**.
-2. Haz clic en el nombre del agente y se abrirá una nueva ventana.
-3. Se abrirá una nueva ventana y podrás ver las actividades del agente en tiempo real.
+Al hacer clic en el nombre del representante en el dashboard, se abre el **modo de visualización del soporte del representante**. Así, es posible tener una vista general de los detalles del soporte por representante, y un gerente puede asumir un chat en cualquier momento, transfiriendo el soporte hacia sí mismo.
 
-**Notificación via navegador**
+## Configuración y recursos relacionados
 
-Como parte de nuestros clientes optan por no activar el sonido, también se lanzó la notificación a través del navegador. Para que esto funcione, es necesario permitir las notificaciones en tu navegador, para así recibir alertas.
+Para configurar y utilizar Live Desk en tu operación, consulta los artículos relacionados:
 
-**Planilla del Dashboard**
-
-Además de tener un dashboard disponible, también es posible descargarlo en formato Excel.
-
-1. En el módulo de **Live Desk > Preferencias > Dashboard**.
-
-Reproduce el mismo camino anterior para visualizar la pantalla del agente.
-
-### Edición de campos de contacto
-
-Si es necesario, el agente podrá modificar los campos de contacto del cliente, lo que facilita corregir datos erróneos o actualizar información. Para activar esta función de edición, simplemente haz clic en **Configuraciones** y luego en **Sectores**, abre el sector y activa la función de edición de **Custom Fields**.
-
-Y para realizar esta edición, basta hacer clic en el nombre del contacto. Una columna lateral derecha mostrará la información del contacto y, finalmente, haz clic en el campo de datos para escribir la información actualizada.
+- [Configure Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk): crea y gestiona departamentos, colas y representantes, y define las reglas de soporte.
+- [Distribución y enrutamiento de las atenciones](https://help.vtex.com/es/docs/tutorials/distribucion-y-enrutamiento-de-las-atenciones): entiende cómo se distribuye el soporte entre los representantes.
+- [Utilizar el disparo activo de flujos](https://help.vtex.com/es/docs/tutorials/utilizando-el-disparo-activo-de-flujos): inicia conversaciones activamente con contactos a través de Live Desk.
+- [Usando grupos para controlar la atención humana](https://help.vtex.com/es/docs/tutorials/usando-grupos-para-controlar-la-atencion-humana): evita que el chatbot interrumpa el soporte en curso.
