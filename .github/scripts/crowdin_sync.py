@@ -803,7 +803,7 @@ def import_translation_file(
     language_id: str,
     content: bytes,
     file_name: str,
-) -> int:
+) -> str:
     storage_id = upload_storage_bytes(content, file_name)
     response = crowdin_request(
         "POST",
@@ -816,7 +816,7 @@ def import_translation_file(
             "autoApproveImported": False,
         },
     )
-    return int(response["data"]["identifier"])
+    return str(response["data"]["identifier"])
 
 
 def parse_added_lines(diff_text: str) -> list[tuple[int, str]]:
