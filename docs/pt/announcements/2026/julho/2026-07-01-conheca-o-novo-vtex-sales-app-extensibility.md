@@ -19,7 +19,15 @@ Para auxiliar no desenvolvimento e implementação das extensões, os lojistas d
 
 ## O que mudou?
 
-O **VTEX Sales App Extensibility** permite ao Sales App integrar-se com APIs externas e interagir com dados de outras aplicações com segurança e estabilidade. Com a solução, é possível renderizar componentes e adicionar recursos em oito pontos de extensão predefinidos, disponíveis nos seguintes contextos da jornada de venda:
+O **VTEX Sales App Extensibility** permite renderizar componentes e adicionar recursos em oito pontos de extensão predefinidos do Sales App. Os principais objetivos da funcionalidade são:
+
+* **Segurança:** aumentar a segurança para desenvolvedores na implementação de código.
+* **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações.
+* **Compatibilidade:** integrar-se com APIs externas e interagir com dados de outras aplicações preservando a compatibilidade das extensões com customizações.
+
+Alguns exemplos de casos de uso do **VTEX Sales App Extensibility** são a integração com programas de fidelidade, venda de serviços adicionais (como garantias ou seguros), integração com soluções VTEX fora do fluxo padrão do Sales App e centralização de tarefas cotidianas dos vendedores em uma única plataforma.
+
+As imagens a seguir apresentam os pontos de extensão na jornada de vendas:
 
 * Carrinho de compras (`cart.cart-item.after`, `cart.cart-list.after`) e checkout (`cart.order-summary.after`):
 
@@ -34,14 +42,6 @@ O **VTEX Sales App Extensibility** permite ao Sales App integrar-se com APIs ext
   ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
   ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
-
-Os principais objetivos da funcionalidade são:
-
-* **Segurança:** aumentar a segurança para desenvolvedores na implementação de código.
-* **Estabilidade:** promover a estabilidade da aplicação, mesmo em cenários de falhas em customizações.
-* **Compatibilidade:** preservar a compatibilidade das extensões com customizações.
-
-Alguns exemplos de casos de uso do **VTEX Sales App Extensibility** são a integração com programas de fidelidade, venda de serviços adicionais (como garantias ou seguros), integração com soluções VTEX fora do fluxo padrão do Sales App e centralização de tarefas cotidianas dos vendedores em uma única plataforma.
 
 ## O que precisa ser feito?
 
