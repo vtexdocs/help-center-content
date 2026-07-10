@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
@@ -46068,14 +46083,14 @@
             },
             {
               "name": {
-                "en": "Error in the maximum quantity field of the same SKU in the Cart",
-                "es": "Error en el campo de cantidad máxima del mismo SKU en el carrito.",
-                "pt": "Erro no campo de quantidade máxima do mesmo SKU no carrinho."
+                "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
+                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho",
+                "en": "Error en el campo de cantidad máxima de la misma SKU en la Cesta"
               },
               "slug": {
-                "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-                "es": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
-                "pt": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho"
+                "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
+                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -47246,6 +47261,21 @@
                 "en": "pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow",
                 "es": "las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra",
                 "pt": "as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Place Order APIs don't respect the maximum quantity of the same SKU in the cart configuration",
+                "es": "Las API para realizar pedidos no respetan la cantidad máxima del mismo SKU en la configuración del carrito.",
+                "pt": "As APIs de \"Finalizar Pedido\" não respeitam a quantidade máxima do mesmo SKU na configuração do carrinho."
+              },
+              "slug": {
+                "en": "place-order-apis-dont-respect-the-maximum-quantity-of-the-same-sku-in-the-cart-configuration",
+                "es": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
+                "pt": "as-apis-de-finalizar-pedido-nao-respeitam-a-quantidade-maxima-do-mesmo-sku-na-configuracao-do-carrinho"
               },
               "origin": "",
               "type": "markdown",
@@ -54905,6 +54935,21 @@
                 "en": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
                 "es": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
                 "pt": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
