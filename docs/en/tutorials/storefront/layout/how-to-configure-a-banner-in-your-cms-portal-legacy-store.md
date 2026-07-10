@@ -13,6 +13,9 @@ slugEN: how-to-configure-a-banner-in-your-cms-portal-legacy-store
 legacySlug: how-to-alter-a-banner
 locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+seeAlso:
+    - "/docs/tracks/legacy-cms-portal"
+    - "/docs/tutorials/defining-window-displays"
 ---
 
 We will use a banner on the Home Page as an example, but these step-by-step instructions can be used on any page of the site.
