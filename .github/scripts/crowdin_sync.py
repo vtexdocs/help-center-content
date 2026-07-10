@@ -4,7 +4,7 @@ Upload PR-touched markdown files to Crowdin and update Jira descriptions
 with Crowdin metadata (word count, editor links).
 
 Partial uploads require equivalent EN and/or ES files on main (matched by slugEN
-in frontmatter) plus the existing ≤5-block diff rule. Rename-aware diffs follow
+in frontmatter) plus block/word-count tiers on the PR diff. Rename-aware diffs follow
 git rename detection; numstat rename paths are normalized before processing.
 When multiple locale files share a slugEN, paths that already exist on main
 are preferred over PR-only additions. Duplicate slugEN values on main trigger
@@ -35,11 +35,11 @@ from typing import Literal
 CROWDIN_API_BASE_DEFAULT = "https://api.crowdin.com/api/v2"
 CROWDIN_WEB_BASE_DEFAULT = "https://crowdin.com"
 
-# Crowdin language IDs (Spanish is always es-mx, not generic es).
+# Crowdin language IDs (Spanish is always es-MX, not generic es).
 LANGUAGE_ENV_DEFAULTS: dict[str, str] = {
     "CROWDIN_EN_LANGUAGE": "en",
-    "CROWDIN_ES_LANGUAGE": "es-mx",
-    "CROWDIN_PT_LANGUAGE": "pt-br",
+    "CROWDIN_ES_LANGUAGE": "es-MX",
+    "CROWDIN_PT_LANGUAGE": "pt-BR",
 }
 
 LANGUAGE_ENV_TO_REPO_LOCALE: dict[str, str] = {
@@ -68,6 +68,22 @@ def crowdin_language_id(language_env: str, group_name: str) -> str:
         raise RuntimeError(
             f"{language_env} is required for {group_name} Crowdin uploads"
         )
+    return language_id
+
+
+def normalize_language_id(language_id: str) -> str:
+    return language_id.replace("_", "-").lower()
+
+
+def resolve_project_language_id(project_data: dict, language_id: str) -> str:
+    """Return the Crowdin project's canonical language ID for language_id."""
+    target = normalize_language_id(language_id)
+    source = project_data.get("sourceLanguage") or {}
+    if normalize_language_id(str(source.get("id", ""))) == target:
+        return str(source["id"])
+    for language in project_data.get("targetLanguages") or []:
+        if normalize_language_id(str(language.get("id", ""))) == target:
+            return str(language["id"])
     return language_id
 
 
@@ -170,11 +186,12 @@ def fetch_project_data(project_id: str) -> dict:
 
 
 def language_editor_code(project_data: dict, language_id: str) -> str:
+    target = normalize_language_id(language_id)
     source = project_data.get("sourceLanguage") or {}
-    if source.get("id") == language_id:
+    if normalize_language_id(str(source.get("id", ""))) == target:
         return str(source["editorCode"])
     for language in project_data.get("targetLanguages") or []:
-        if language.get("id") == language_id:
+        if normalize_language_id(str(language.get("id", ""))) == target:
             return str(language["editorCode"])
     return language_id
 
@@ -281,9 +298,31 @@ def is_eligible_path(relative_path: str) -> bool:
     return path.startswith(PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES)
 
 
+def decode_git_path(path: str) -> str:
+    """Decode git core.quotepath octal byte escapes (e.g. relev\\303\\242ncia -> relevância)."""
+    if "\\" not in path:
+        return path
+
+    out = bytearray()
+    index = 0
+    while index < len(path):
+        if (
+            path[index] == "\\"
+            and index + 3 < len(path)
+            and path[index + 1 : index + 4].isdigit()
+            and all(ch in "01234567" for ch in path[index + 1 : index + 4])
+        ):
+            out.append(int(path[index + 1 : index + 4], 8))
+            index += 4
+            continue
+        out.extend(path[index].encode("utf-8"))
+        index += 1
+    return out.decode("utf-8")
+
+
 def normalize_changed_path(path: str) -> str:
     """Resolve git numstat rename syntax (dir/{old => new}) to the new path."""
-    normalized = path.replace("\\", "/").strip()
+    normalized = decode_git_path(path.strip()).replace("\\", "/")
     if "{" not in normalized or "=>" not in normalized:
         return normalized
 
@@ -425,7 +464,7 @@ class CrowdinUploadGroup:
     project_id_env: str
     target_languages: tuple[tuple[str, str], ...]
     # link_bucket names map to workflow outputs (en_editor_links / es_editor_links).
-    # Spanish links always use CROWDIN_ES_LANGUAGE (es-mx).
+    # Spanish links always use CROWDIN_ES_LANGUAGE (es-MX).
 
 
 PT_CROWDIN_GROUP = CrowdinUploadGroup(
@@ -863,10 +902,33 @@ def is_new_file(diff_text: str) -> bool:
     return "new file mode" in diff_text
 
 
+def count_words(text: str) -> int:
+    return len(re.findall(r"\w+", text, flags=re.UNICODE))
+
+
+def partial_upload_tier(
+    block_count: int,
+    added_words: int,
+    total_words: int,
+) -> str | None:
+    if total_words <= 0 or added_words <= 0:
+        return None
+    added_ratio = added_words / total_words
+    if block_count <= 10 and added_ratio < 0.80:
+        return "≤10 blocks and added words <80% of total"
+    if block_count <= 15 and added_ratio < 0.60 and total_words >= 2000:
+        return "≤15 blocks and added words <60% of total (≥2000 words)"
+    if block_count <= 20 and added_ratio < 0.40 and total_words >= 3000:
+        return "≤20 blocks and added words <40% of total (≥3000 words)"
+    return None
+
+
 def should_upload_partial(
     added_count: int,
     block_count: int,
     total_lines: int,
+    added_words: int,
+    total_words: int,
     *,
     new_file: bool,
     has_existing_translations_in_main: bool,
@@ -878,7 +940,7 @@ def should_upload_partial(
     # Entire file is new content (e.g. new file or full rewrite) → upload full file.
     if total_lines > 0 and added_count >= total_lines:
         return False
-    return block_count <= 5
+    return partial_upload_tier(block_count, added_words, total_words) is not None
 
 
 def format_partial_content(blocks: list[list[str]]) -> str:
@@ -1053,11 +1115,14 @@ def plan_upload(
 
     file_path = Path(relative_path)
     file_name = crowdin_basename(relative_path)
-    total_lines = len(file_path.read_text(encoding="utf-8").splitlines())
+    full_text = file_path.read_text(encoding="utf-8")
+    total_lines = len(full_text.splitlines())
+    total_words = count_words(full_text)
     diff_text = git_diff(base_sha, head_sha, relative_path)
     additions = parse_added_lines(diff_text)
     blocks = group_consecutive_blocks(additions)
     added_count = len(additions)
+    added_words = count_words("\n".join(text for _, text in additions))
     new_file = is_new_file(diff_text)
     translations_in_main, translation_imports = plan_translation_context(
         relative_path,
@@ -1070,11 +1135,12 @@ def plan_upload(
         added_count,
         len(blocks),
         total_lines,
+        added_words,
+        total_words,
         new_file=new_file,
         has_existing_translations_in_main=translations_in_main,
     ):
         partial_text = format_partial_content(blocks)
-        full_text = file_path.read_text(encoding="utf-8")
         changed_line_numbers = {line_no for line_no, _ in additions}
         return UploadPlan(
             mode="partial",
@@ -1104,10 +1170,11 @@ def plan_upload(
             "new file or full rewrite",
             file=sys.stderr,
         )
-    elif len(blocks) > 5:
+    else:
         print(
             f"Using full upload for {relative_path}: "
-            f"{len(blocks)} change blocks (>5)",
+            f"{len(blocks)} blocks, {added_words}/{total_words} added words "
+            "outside partial tiers",
             file=sys.stderr,
         )
 
@@ -1228,7 +1295,10 @@ def upload_group_files(
 
     target_codes: dict[str, str] = {}
     for language_env, link_bucket in group.target_languages:
-        language_id = crowdin_language_id(language_env, group.name)
+        language_id = resolve_project_language_id(
+            project_data,
+            crowdin_language_id(language_env, group.name),
+        )
         target_codes[link_bucket] = language_editor_code(project_data, language_id)
 
     uploaded_files: list[dict] = []
@@ -1258,17 +1328,21 @@ def upload_group_files(
 
         imported_translations: list[dict] = []
         for translation in plan.translation_imports or []:
+            language_id = resolve_project_language_id(
+                project_data,
+                translation.language_id,
+            )
             import_id = import_translation_file(
                 project_id,
                 file_id,
-                translation.language_id,
+                language_id,
                 translation.content,
                 crowdin_basename(translation.repo_path),
             )
             imported_translations.append(
                 {
                     "repo_path": translation.repo_path,
-                    "language_id": translation.language_id,
+                    "language_id": language_id,
                     "source_ref": translation.source_ref,
                     "import_id": import_id,
                 }
