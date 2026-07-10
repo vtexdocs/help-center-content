@@ -23,7 +23,8 @@
 # Crowdin: uploads PR-changed files via API, sets word count on the parent and
 # language subtasks, editor links on language subtasks. If the Crowdin upload
 # fails, Jira/subtask creation still runs; word count and editor links are skipped
-# and a comment is posted on the parent task. Partial upload only when equivalent
+# and a comment is posted on the parent task. On success, a success comment is
+# posted after subtasks and word count / editor links are updated. Partial upload only when equivalent
 # EN and/or ES files already exist on main (matched by slugEN in frontmatter)
 # and the PT diff meets partial block/word-count tiers; otherwise full source. Existing or
 # PR-added locale files with the same slugEN are imported as Crowdin translations
@@ -1157,3 +1158,23 @@ jobs:
           else
             echo "Skipping Crowdin editor links and subtask word counts (Crowdin upload failed or was skipped)"
           fi
+
+      - name: Comment on parent task for Crowdin upload success
+        if: >-
+          steps.eligibility.outputs.should_run == 'true' &&
+          steps.content_diff.outputs.has_additions == 'true' &&
+          steps.content_diff.outputs.has_eligible_files == 'true' &&
+          steps.production_lock.outputs.updates_blocked != 'true' &&
+          steps.parent_ticket.outputs.parent_key != '' &&
+          steps.crowdin_upload.outputs.upload_succeeded == 'true'
+        env:
+          LOC_JIRA_BASE_URL: ${{ secrets.LOC_JIRA_BASE_URL }}
+          LOC_JIRA_USER_EMAIL: ${{ secrets.LOC_JIRA_USER_EMAIL }}
+          LOC_JIRA_API_TOKEN: ${{ secrets.LOC_JIRA_API_TOKEN }}
+          PARENT_KEY: ${{ steps.parent_ticket.outputs.parent_key }}
+        run: |
+          # shellcheck source=.github/scripts/jira_helpers.sh
+          source .github/scripts/jira_helpers.sh
+
+          jira_post_comment "$PARENT_KEY" "$CROWDIN_UPLOAD_SUCCESS_COMMENT"
+          echo "Posted Crowdin upload success comment on ${PARENT_KEY}"
