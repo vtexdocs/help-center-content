@@ -32,7 +32,7 @@ Para saber como atribuir esses papéis, consulte o artigo [Gerenciar membros do 
 
 ### Informações do contato
 
-Ao clicar na foto ou no nome do contato em qualquer área da conversa, você acessa o painel de informações do contato, que apresenta a foto ampliada, dados como o canal pelo qual o contato está conversando, o horário do último contato, a função de transferir chat e a galeria de mídias do contato.
+Ao clicar na foto ou no nome do contato em qualquer área da conversa, você acessa o painel de informações do contato, que apresenta a foto ampliada, dados como o canal pelo qual o contato está conversando, o horário da última mensagem, a função de transferir chat e a galeria de mídias do contato.
 
 ### Mensagens rápidas
 
@@ -43,7 +43,7 @@ As mensagens rápidas permitem cadastrar modelos de mensagens para uso ágil dur
 - O agente abre o painel clicando no botão de mensagens rápidas e, em seguida, clica na mensagem desejada.
 - Ao cadastrar a mensagem, o agente define uma palavra-chave como atalho. Para utilizá-la, basta digitar `/` seguido do atalho.
 
-O agente pode navegar pelas mensagens com as setas do teclado e pressionar **Enter** para usar a mensagem. Ao digitar o texto do atalho, a ferramenta também faz a busca específica.
+O agente pode navegar pelas mensagens com as setas do teclado e pressionar `Enter` para usar a mensagem. Ao digitar o texto do atalho, a ferramenta também faz a busca específica.
 
 Também é possível configurar mensagens rápidas específicas por setor. Essa configuração é feita durante a criação do setor. Para mais informações, acesse [Configurar o Live Desk](https://help.vtex.com/pt/docs/tutorials/configure-live-desk).
 
@@ -55,11 +55,11 @@ Para saber como os atendimentos são distribuídos entre os agentes, consulte [D
 
 ### Gravar e enviar áudio
 
-Por meio dos botões da caixa de texto, o usuário pode gravar e enviar um áudio. Antes do envio, é possível reproduzir o áudio e depois enviá-lo ao contato.
+Por meio dos botões da caixa de texto, você pode gravar e enviar um áudio. Antes do envio, é possível reproduzir o áudio e depois enviá-lo ao contato.
 
 ### Anexar arquivos
 
-Para anexar arquivos, arraste-os até a caixa de texto. Também é possível usar o atalho Ctrl + V para colar imagens diretamente, sem anexá-las manualmente.
+Para anexar arquivos, arraste-os até a caixa de texto. Também é possível usar o atalho `Ctrl + V` para colar imagens diretamente, sem anexá-las manualmente.
 
 ### Emojis
 
@@ -67,16 +67,16 @@ O Live Desk oferece um painel completo de emojis, que ajudam a transmitir o tom 
 
 ### Quebra de texto
 
-Para auxiliar na organização visual da mensagem é possível pressionar **Shift + Enter**, inserindo quebras de linhas.
+Para auxiliar na organização visual da mensagem, você pode inserir quebra de linhas pressionando `Shift + Enter`.
 
 ### Assinatura ativa
 
-A assinatura ativa adiciona o nome do agente que está respondendo a cada mensagem trocada. Para ativá-la, siga as etapas abaixo:
+A assinatura ativa adiciona o nome do agente que está respondendo a cada mensagem trocada. Para ativá-la, siga estas etapas:
 
 1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Configurações**.
 3. Clique em **Live Desk**.
-4. Na aba **Setores**, localize o setor desejado, clique no menu de ações <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e em `Editar`.
+4. Na aba **Setores**, clique no menu de ações <i class="fas fa-ellipsis-v" aria-hidden="true"></i> do setor desejado e em `Editar`.
 5. Na aba **Opções extras**, ative a opção **Usar assinatura**.
 6. Clique em `Salvar alterações`.
 
@@ -84,12 +84,12 @@ A assinatura ativa adiciona o nome do agente que está respondendo a cada mensag
 
 ### Edição de campos de contato
 
-A edição de campos de contato permite que o agente corrija dados incorretos ou atualize informações do cliente durante o atendimento. Para habilitar essa função, siga as etapas abaixo:
+A edição de campos de contato permite que o agente corrija dados incorretos ou atualize informações do cliente durante o atendimento. Para habilitar essa função, siga estas etapas:
 
 1. Acesse a organização e o projeto que deseja modificar no [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. No menu lateral, clique em **Configurações**.
 3. Clique em **Live Desk**.
-4. Na aba **Setores**, localize o setor desejado, clique no menu de ações <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e em `Editar`.
+4. Na aba **Setores**, clique no menu de ações <i class="fas fa-ellipsis-v" aria-hidden="true"></i> do setor desejado e em `Editar`.
 5. Na aba **Opções extras**, ative a opção **Permitir que atendentes editem informações personalizadas do contato**.
 6. Clique em `Salvar alterações`.
 
@@ -114,7 +114,7 @@ Para a descrição completa de cada métrica e seção, consulte o artigo [Analy
 
 ### Visualizar histórico
 
-O usuário visualiza a lista do Live Desk em ordem cronológica, do mais recente ao mais antigo. Nessa listagem, é possível ver a foto do contato, o nome, o agente que fez o atendimento, as tags usadas na classificação, a data e um botão para abrir o chat.
+O usuário visualiza a lista do Live Desk em ordem cronológica, do atendimento mais recente ao mais antigo. Nessa listagem, é possível ver a foto do contato, o nome, o agente que fez o atendimento, as tags usadas na classificação, a data e um botão para abrir o chat.
 
 Ao visualizar o histórico do contato, o agente pode ver o início do atendimento, o histórico com o bot, os acontecimentos do chat e as tags usadas para classificá-lo.
 
