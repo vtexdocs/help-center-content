@@ -18,13 +18,15 @@ seeAlso:
     - "/pt/docs/tutorials/definicao-de-vitrines"
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
+>⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
 
-Neste guia, aprenda a configurar um banner no CMS Portal (Legado) de sua loja, incluindo criação, alteração e agendamento de banners.
+Neste artigo, você aprenderá a criar, editar e agendar banners no CMS Portal (Legado). Ao longo do passo a passo, você verá como acessar o layout da página, preencher os campos do banner e definir as condições de exibição.
+
+O exemplo a seguir mostra a configuração de um banner na homepage, mas o mesmo fluxo pode ser aplicado a qualquer página da loja.
 
 ## Instruções
 
-O exemplo a seguir mostra como criar um banner na homepage da sua loja. Porém, estas instruções podem ser utilizadas em qualquer página do site:
+Para criar ou alterar um banner na homepage de sua loja, siga os passos abaixo:
 
 1. No Admin VTEX, acesse o menu **Storefront > Layout**.
 2. Clique na pasta **CMS**.
