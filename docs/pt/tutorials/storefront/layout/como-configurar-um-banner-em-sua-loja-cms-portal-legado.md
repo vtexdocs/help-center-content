@@ -81,7 +81,7 @@ As condições de exibição permitem segmentar quando e onde o banner será exi
 
 ## Alterar ou cadastrar a imagem do banner
 
-Para fazer uma alteração ou cadastro de nova imagem, siga os passos abaixo:
+Para fazer uma alteração ou cadastro de uma nova imagem, siga os passos abaixo:
 
 1. No seção **Content** do formulário de banner, clique em `add file`. A janela **Insert File** será aberta, com opções localizar um arquivo existente ou enviar de um novo.
 
