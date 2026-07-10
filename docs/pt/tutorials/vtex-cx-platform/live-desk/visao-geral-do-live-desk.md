@@ -30,11 +30,11 @@ Para saber como atribuir esses papéis, consulte o artigo [Gerenciar membros do 
 
 ## Funcionalidades
 
-### Informações do contato
+### Visualizar informações do contato
 
 Ao clicar na foto ou no nome do contato em qualquer área da conversa, você acessa o painel de informações do contato, que apresenta a foto ampliada, dados como o canal pelo qual o contato está conversando, o horário da última mensagem, a função de transferir chat e a galeria de mídias do contato.
 
-### Mensagens rápidas
+### Criar e enviar mensagens rápidas
 
 As mensagens rápidas permitem cadastrar modelos de mensagens para uso ágil durante o atendimento. Ao clicar no botão de mensagens rápidas, o agente acessa o painel da função, onde pode visualizar, gerenciar e cadastrar mensagens. Ao selecionar a mensagem desejada, o texto cadastrado preenche o campo do editor de texto.
 
@@ -61,15 +61,15 @@ Por meio dos botões da caixa de texto, você pode gravar e enviar um áudio. An
 
 Para anexar arquivos, arraste-os até a caixa de texto. Também é possível usar o atalho `Ctrl + V` para colar imagens diretamente, sem anexá-las manualmente.
 
-### Emojis
+### Enviar emojis
 
 O Live Desk oferece um painel completo de emojis, que ajudam a transmitir o tom e a intenção das mensagens durante o atendimento.
 
-### Quebra de texto
+### Inserir quebra de texto
 
 Para auxiliar na organização visual da mensagem, você pode inserir quebra de linhas pressionando `Shift + Enter`.
 
-### Assinatura ativa
+### Configurar assinatura ativa
 
 A assinatura ativa adiciona o nome do agente que está respondendo a cada mensagem trocada. Para ativá-la, siga estas etapas:
 
@@ -82,7 +82,7 @@ A assinatura ativa adiciona o nome do agente que está respondendo a cada mensag
 
 > ℹ️ Após a ativação, o nome do agente aparecerá no balão de mensagem seguido de dois-pontos.
 
-### Edição de campos de contato
+### Editar campos de contato
 
 A edição de campos de contato permite que o agente corrija dados incorretos ou atualize informações do cliente durante o atendimento. Para habilitar essa função, siga estas etapas:
 
@@ -95,7 +95,7 @@ A edição de campos de contato permite que o agente corrija dados incorretos ou
 
 > ℹ️ Para editar um campo, abra o painel de informações clicando no nome do contato e, em seguida, clique no campo desejado para inserir o novo valor.
 
-### Notificação via navegador
+### Receber notificação via navegador
 
 O Live Desk oferece notificações via navegador como alternativa ao alerta sonoro. Para recebê-las, permita as notificações do site nas configurações do seu navegador.
 
@@ -112,9 +112,9 @@ O acompanhamento do atendimento humano é feito no dashboard do módulo **Analyt
 
 Para a descrição completa de cada métrica e seção, consulte o artigo [Analytics: Métricas de atendimento](https://help.vtex.com/pt/docs/tutorials/analytics-support-metrics). Para criar visualizações personalizadas, consulte o artigo [Analytics: Criar dashboard personalizado](https://help.vtex.com/pt/docs/tutorials/create-analytics-dashboard).
 
-### Visualizar histórico
+### Visualização do histórico
 
-O usuário visualiza a lista do Live Desk em ordem cronológica, do atendimento mais recente ao mais antigo. Nessa listagem, é possível ver a foto do contato, o nome, o agente que fez o atendimento, as tags usadas na classificação, a data e um botão para abrir o chat.
+A lista do Live Desk fica em ordem cronológica, do atendimento mais recente ao mais antigo. Nessa listagem, é possível ver a foto do contato, o nome, o agente que fez o atendimento, as tags usadas na classificação, a data e um botão para abrir o chat.
 
 Ao visualizar o histórico do contato, o agente pode ver o início do atendimento, o histórico com o bot, os acontecimentos do chat e as tags usadas para classificá-lo.
 
