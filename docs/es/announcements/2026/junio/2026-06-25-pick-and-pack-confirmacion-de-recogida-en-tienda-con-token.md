@@ -1,12 +1,12 @@
 ---
-title: 'Mejoras en el flujo de recogida en tienda'
+title: 'Pick and Pack: Confirmación de recogida en tienda con token'
 status: PUBLISHED
 createdAt: 2026-06-25T12:00:00.000Z
 updatedAt: 2026-06-25T12:00:00.000Z
 publishedAt: 2026-06-25T12:00:00.000Z
 contentType: updates
 productTeam: Pick and Pack
-slugEN: 2026-06-25-improvements-to-the-in-store-pickup-flow
+slugEN: 2026-06-25-pick-and-pack-in-store-pickup-confirmation-with-token
 locale: es
 announcementSynopsisPT: 'Mejora la experiencia de compra online con recogida en tienda con confirmación rápida de recogida y facturación automática en el módulo Last Mile.'
 tags:

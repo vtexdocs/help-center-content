@@ -19,11 +19,11 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 
 Na VTEX, é possível disponibilizar opções de customização de produtos utilizando [Assembly Options](/pt/docs/tutorials/assembly-options). Essa solução consiste em criar [anexos](/pt/docs/tutorials/o-que-e-um-anexo) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
 
-O [app Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) disponibiliza uma interface para configurar e gerenciar as opções de customização em lojas que utilizam [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), como alternativa à implementação de Assembly Options pelos anexos do Catálogo.
+O [app Assembly Options](https://developers.vtex.com/docs/apps/vtex.admin-assembly-options) disponibiliza uma interface para configurar e gerenciar as opções de customização em lojas que utilizam [VTEX IO](https://developers.vtex.com/docs/guides/store-framework), como alternativa à implementação de Assembly Options pelos anexos do Catálogo.
 
 ## Instalação 
 
-Você pode instalar o aplicativo gratuitamente pela [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) ou pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do [guia para desenvolvedores Assembly Options](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
+Você pode instalar o aplicativo gratuitamente pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do [guia para desenvolvedores Assembly Options](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
 > ⚠️ Quando o aplicativo Assembly Options é instalado em uma [conta de seller](/pt/docs/tutorials/o-que-e-um-seller), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa instalar o aplicativo em uma [conta de marketplace](/pt/docs/tutorials/o-que-e-um-marketplace).
 
