@@ -19,8 +19,6 @@ subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 
 Uma coleção de produtos permite agrupar itens do catálogo com base em critérios como departamento, categoria, marca, período de lançamento ou SKUs específicos, formando vitrines temáticas para campanhas, datas comemorativas ou curadorias específicas da loja. Esse agrupamento facilita a organização e a exibição de produtos relacionados, melhorando a navegação e a experiência de compra dos clientes.
 
-Coleções criadas pelo CMS Portal (Legado) são classificadas como **automáticas** (quando compostas apenas por filtros) ou **híbridas** (quando combinam filtros com SKUs adicionados manualmente). Para entender essa classificação com mais detalhes, consulte [Tipos de Coleção](/pt/docs/tutorials/tipos-de-colecao).
-
 Neste tutorial, você aprenderá a:
 
 - Criar uma coleção de produtos.
@@ -50,6 +48,13 @@ Para criar uma coleção, siga as instruções abaixo:
 	- **From/To:** define as datas de validade da coleção.
 6. Clique em `Save Product Cluster` para salvar a coleção.
 
+### Criar uma URL amigável para a coleção
+
+Por padrão, o link de acesso a uma coleção segue o formato `https://{loja}.com.br/busca?fq=H:{ID-da-coleção}`. Para usar uma URL mais amigável (por exemplo, `https://{loja}.com.br/todos-os-produtos`), marque a coleção como buscável e associe-a a uma pasta do CMS com Contexto de Busca configurado:
+
+1. Torne a coleção encontrável na busca, marcando a flag **Searchable** no cadastro da coleção. Saiba mais em [Tornar coleção de produtos encontrável pela busca](/pt/docs/tutorials/tornar-colecao-de-produtos-encontravel-pela-busca).
+2. Crie uma pasta com uma URL personalizada. Consulte as instruções no tutorial [Como criar landing pages com URLs customizadas](/pt/docs/tutorials/como-criar-landing-pages-com-urls-customizadas).
+
 ### Incluir grupos na coleção
 
 A composição dos produtos de uma coleção é definida pelos **grupos**. Você pode criar grupos a partir dos seguintes critérios, que podem ser combinados para atingir o resultado esperado:
@@ -76,14 +81,17 @@ Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exc
 Os passos a seguir são comuns a todos os tipos de grupo:
 
 1. No Admin VTEX, acesse **Storefront > Layout > CMS > Product Clusters (Collections)**.
-2. Clique na coleção desejada.
+2. Clique na coleção desejada. Se sua loja tiver mais de 20 coleções cadastradas, use o campo de pesquisa da pasta para localizar a coleção pelo nome.
+   
+	![Pesquisar_cole__o](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_9.gif)
+
 3. Clique em `new group`.
    
 	![Layout 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_2.png)
 
 4. No campo **Group Name**, dê um nome ao grupo.
 5. No campo **Group Type**, defina o tipo do grupo, isto é, se é `Inclusive` (Inclusão) ou `Exclusive` (Exclusão).
-6. Defina quais produtos farão parte do grupo. Você pode definir a composição do grupo com base nos seguintes parâmetros:
+6. Defina quais produtos farão parte do grupo. Você pode definir a composição do grupo com base nos seguintes filtros:
 
 	- [Departamento, categoria ou subcategoria](#departamento-categoria-ou-subcategoria)
 	- [Marca](#marca)
@@ -140,7 +148,7 @@ Ao associar um SKU a um grupo, seja manualmente ou em massa, o produto correspon
 
 >ℹ️ Baixe o [modelo de planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls) para inclusão em massa de SKUs.
 
-### Excluir múltiplos SKUs de um grupo
+#### Excluir múltiplos SKUs de um grupo
 
 Para evitar a exclusão manual de SKUs um a um, você pode usar o mesmo recurso de importação de planilha usado para [criar grupos com SKUs específicos](#skus-especificos).
 
@@ -150,16 +158,3 @@ Para evitar a exclusão manual de SKUs um a um, você pode usar o mesmo recurso 
 ![Exclusão de uma lista de SKUs de um grupo por meio de planilha.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_8.gif)
 
 >ℹ️ Você pode utilizar o mesmo [modelo de planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls) usado para inclusão em massa de SKUs.
-
-### Criar uma URL amigável para a coleção
-
-Por padrão, o link de acesso a uma coleção segue o formato `https://{loja}.com.br/busca?fq=H:{ID-da-coleção}`. Para usar uma URL mais amigável (por exemplo, `https://{loja}.com.br/todos-os-produtos`), marque a coleção como buscável e associe-a a uma pasta do CMS com Contexto de Busca configurado:
-
-1. Torne a coleção encontrável na busca, marcando a flag **Searchable** no cadastro da coleção. Saiba mais em [Tornar coleção de produtos encontrável pela busca](/pt/docs/tutorials/tornar-colecao-de-produtos-encontravel-pela-busca).
-2. Crie uma pasta com uma URL personalizada. Consulte as instruções no tutorial [Como criar landing pages com URLs customizadas](/pt/docs/tutorials/como-criar-landing-pages-com-urls-customizadas).
-
-### Pesquisar coleções
-
-Quando o número de coleções criadas exceder o limite de exibição de 20 itens, as coleções poderão ser encontradas pelo campo de pesquisa. A busca deve ser feita com base no nome da coleção.
-
-![Pesquisar_cole__o](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_9.gif)
