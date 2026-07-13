@@ -79,7 +79,7 @@ Para criar uma coleção de produtos que ainda não foram lançados ou que foram
 3. Se desejar incluir produtos em pré-venda na coleção, selecione **Pré-venda** em **Outras Opções**. O sistema considerará todos os produtos com a data posterior ao dia atual, conforme definido no campo **Data de lançamento no mercado** no cadastro de produto.
 4. Se desejar incluir produtos lançados recentemente, selecione a opção **Lançamento**. O sistema considerará todos os produtos com a data definida no campo **Data de lançamento no mercado** no cadastro de produto dentro do intervalo de 30 dias anteriores ao atual.
 
-Não é possível selecionar os dois campos (**Pré-venda** e **Lançamento**) na mesma coleção. Caso queira que ambas os cenários sejam contemplados, crie duas coleções e configure cada uma com a respectiva opção.
+Não é possível selecionar os dois campos (**Pré-venda** e **Lançamento**) na mesma coleção. Caso queira que ambos os cenários sejam contemplados, crie duas coleções e configure cada uma com a respectiva opção.
 
 >⚠️ Os campos **Pré-venda** e **Lançamento** só funcionam se você tiver selecionado alguma categoria, marca ou combinação de SKUs no grupo.
 
