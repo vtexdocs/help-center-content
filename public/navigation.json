@@ -19829,13 +19829,13 @@
                 {
                   "name": {
                     "en": "How to set up similar product, suggestions, accessories and generics",
-                    "pt": "Configurar acessórios, sugestões, produtos similares e mostrar junto",
-                    "es": "How to set up similar product, suggestions, accessories and generics"
+                    "es": "Configurar producto similar, sugerencias, accesorios y genéricos",
+                    "pt": "Configurar acessórios, sugestões, produtos similares e mostrar junto"
                   },
                   "slug": {
                     "en": "setting-up-a-similar-product-suggestions-accessories-and-generics",
-                    "pt": "configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto",
-                    "es": ""
+                    "es": "configurar-producto-similar-sugerencias-accesorios-y-genericos",
+                    "pt": "configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20138,37 +20138,6 @@
                     "en": "what-to-do-when-i-need-to-use-for-a-product-words-that-may-be-ignored-by",
                     "es": "que-hacer-cuando-necesito-usar-para-un-producto-palabras-que-pueden-ser",
                     "pt": "o-que-fazer-quando-preciso-usar-para-um-produto-palavras-que-podem-ser"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Productos y SKUs",
-                "es": "Productos y SKUs",
-                "pt": "Productos y SKUs"
-              },
-              "slug": {
-                "en": "productos-y-skus",
-                "es": "productos-y-skus-subcategoria",
-                "pt": "productos-y-skus"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Configurar producto similar, sugerencias, accesorios y genéricos",
-                    "en": "Configurar producto similar, sugerencias, accesorios y genéricos",
-                    "pt": "Configurar producto similar, sugerencias, accesorios y genéricos"
-                  },
-                  "slug": {
-                    "es": "configurar-producto-similar-sugerencias-accesorios-y-genericos",
-                    "en": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
