@@ -47,7 +47,7 @@ A configuração é feita em nível de SKU e pode ser realizada diretamente no [
 - **Via Admin VTEX:** manualmente ao [adicionar ou editar um SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
 - **Via API Reference:** usando a API de complemento de SKU para criar ou atualizar relações e os endpoints públicos de cross-selling para consulta no storefront.
 
->ℹ️ A exibição na vitrine ocorre por meio dos controles e templates do CMS Portal (Legado), como `productsCrossSelling` e placeholders específicos. Saiba mais sobre controle para templates em [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
+>ℹ️ A exibição na vitrine ocorre por meio dos controles e templates do CMS Portal (Legado), como `productsCrossSelling` e placeholders específicos. Saiba mais sobre controles para templates em [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ### Via Admin VTEX
 
