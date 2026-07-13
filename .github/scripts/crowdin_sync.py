@@ -4,7 +4,9 @@ Upload PR-touched markdown files to Crowdin and update Jira descriptions
 with Crowdin metadata (word count, editor links).
 
 Partial uploads require equivalent EN and/or ES files on main (matched by slugEN
-in frontmatter) plus block/word-count tiers on the PR diff. Rename-aware diffs follow
+in frontmatter) plus block/word-count tiers on the PR diff. PT sources use a
+full upload when the PR adds new EN/ES translation files for the same slugEN,
+even if the PT diff is small. Rename-aware diffs follow git rename detection;
 git rename detection; numstat rename paths are normalized before processing.
 When multiple locale files share a slugEN, paths that already exist on main
 are preferred over PR-only additions. Duplicate slugEN values on main trigger
@@ -722,12 +724,7 @@ def pick_preferred_equivalent_path(
     return chosen
 
 
-def find_en_equivalent_by_slug(
-    ref: str,
-    slug_en: str,
-    *,
-    base_sha: str | None = None,
-) -> str | None:
+def find_all_en_equivalents_by_slug(ref: str, slug_en: str) -> list[str]:
     """EN files use slugEN as the filename (docs/en/**/{slugEN}.md)."""
     result = subprocess.run(
         ["git", "ls-tree", "-r", "--name-only", ref, "--", "docs/en/"],
@@ -736,15 +733,25 @@ def find_en_equivalent_by_slug(
         check=False,
     )
     if result.returncode != 0:
-        return None
+        return []
 
-    matches = [
-        path
-        for path in result.stdout.splitlines()
-        if path.endswith((".md", ".mdx")) and Path(path).stem == slug_en
-    ]
+    return sorted(
+        {
+            path
+            for path in result.stdout.splitlines()
+            if path.endswith((".md", ".mdx")) and Path(path).stem == slug_en
+        }
+    )
+
+
+def find_en_equivalent_by_slug(
+    ref: str,
+    slug_en: str,
+    *,
+    base_sha: str | None = None,
+) -> str | None:
     return pick_preferred_equivalent_path(
-        matches,
+        find_all_en_equivalents_by_slug(ref, slug_en),
         base_sha=base_sha,
         slug_en=slug_en,
         locale="en",
@@ -759,13 +766,11 @@ def normalize_git_grep_path(line: str, ref: str) -> str:
     return line
 
 
-def find_locale_equivalent_by_slug(
+def find_all_locale_equivalents_by_slug(
     ref: str,
     locale: str,
     slug_en: str,
-    *,
-    base_sha: str | None = None,
-) -> str | None:
+) -> list[str]:
     """PT/ES equivalents share slugEN in frontmatter but may use different filenames."""
     pattern = rf"^slugEN:\s*\"?{re.escape(slug_en)}\"?\s*$"
     matches: list[str] = []
@@ -793,8 +798,18 @@ def find_locale_equivalent_by_slug(
                 if line.strip().endswith((".md", ".mdx"))
             )
 
+    return sorted(set(matches))
+
+
+def find_locale_equivalent_by_slug(
+    ref: str,
+    locale: str,
+    slug_en: str,
+    *,
+    base_sha: str | None = None,
+) -> str | None:
     return pick_preferred_equivalent_path(
-        matches,
+        find_all_locale_equivalents_by_slug(ref, locale, slug_en),
         base_sha=base_sha,
         slug_en=slug_en,
         locale=locale,
@@ -835,6 +850,36 @@ def resolve_equivalent_path(
     if equivalent_path and git_file_exists(head_sha, equivalent_path):
         return equivalent_path
     return find_equivalent_path_at_ref(slug_en, target_locale, base_sha)
+
+
+def has_new_translation_files_in_pr(
+    source_path: str,
+    *,
+    base_sha: str,
+    head_sha: str,
+    group: CrowdinUploadGroup,
+) -> bool:
+    """True when the PR introduces EN/ES files for this PT source's slugEN."""
+    if group.name != "pt":
+        return False
+
+    slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
+    if not slug_en:
+        return False
+
+    locale_matches = {
+        "en": find_all_en_equivalents_by_slug(head_sha, slug_en),
+        "es": find_all_locale_equivalents_by_slug(head_sha, "es", slug_en),
+    }
+    for locale, paths in locale_matches.items():
+        for path in paths:
+            if git_file_exists(head_sha, path) and not git_file_exists(base_sha, path):
+                print(
+                    f"New {locale} translation in PR for slugEN {slug_en!r}: {path}",
+                    file=sys.stderr,
+                )
+                return True
+    return False
 
 
 def resolve_translation_content(
@@ -949,7 +994,10 @@ def should_upload_partial(
     *,
     new_file: bool,
     has_existing_translations_in_main: bool,
+    new_translations_in_pr: bool,
 ) -> bool:
+    if new_translations_in_pr:
+        return False
     if not has_existing_translations_in_main:
         return False
     if added_count == 0 or new_file:
@@ -1147,6 +1195,12 @@ def plan_upload(
         head_sha=head_sha,
         group=group,
     )
+    new_translations_in_pr = has_new_translation_files_in_pr(
+        relative_path,
+        base_sha=base_sha,
+        head_sha=head_sha,
+        group=group,
+    )
 
     if should_upload_partial(
         added_count,
@@ -1156,6 +1210,7 @@ def plan_upload(
         total_words,
         new_file=new_file,
         has_existing_translations_in_main=translations_in_main,
+        new_translations_in_pr=new_translations_in_pr,
     ):
         partial_text = format_partial_content(blocks)
         changed_line_numbers = {line_no for line_no, _ in additions}
@@ -1175,7 +1230,13 @@ def plan_upload(
             translation_imports=translation_imports,
         )
 
-    if not translations_in_main:
+    if new_translations_in_pr:
+        print(
+            f"Using full upload for {relative_path}: "
+            "PR adds new EN/ES translation files for this slugEN",
+            file=sys.stderr,
+        )
+    elif not translations_in_main:
         print(
             f"Using full upload for {relative_path}: "
             "no equivalent EN/ES files on main (matched by slugEN)",
