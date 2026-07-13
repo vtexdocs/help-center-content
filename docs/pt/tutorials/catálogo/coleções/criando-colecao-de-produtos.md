@@ -48,7 +48,7 @@ Você pode criar grupos a partir dos seguintes filtros, que podem ser combinados
 - Departamento, Categoria ou subcategoria
 - Marca
 
-Cada grupo pode ser de um dos seguintes tipos: **Inclusão** ou **Exclusão**. Para qualquer coleção, o primeiro Grupo criado deve ser obrigatoriamente do tipo **Inclusão**.
+Cada grupo pode ser de um dos seguintes tipos: **Inclusão** ou **Exclusão**. Para qualquer coleção, o primeiro grupo criado deve ser obrigatoriamente do tipo **Inclusão**.
 
 ### Criar grupos por departamento, categoria ou subcategoria
 
