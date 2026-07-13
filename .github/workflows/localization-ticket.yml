@@ -136,7 +136,7 @@ jobs:
             CHANGED_FILES=$(git -c core.quotepath=false diff --numstat -M \
               "$DIFF_RANGE" \
               -- docs/pt/ localization/ \
-              | awk '$1 > 0 {print $3}' \
+              | awk -F'\t' '$1 > 0 {print $3}' \
               | sed 's/^"//;s/"$//' \
               | grep -E '\.(md|mdx)$' \
               | sort || true)
@@ -148,7 +148,7 @@ jobs:
             CHANGED_FILES=$(git -c core.quotepath=false diff --numstat -M \
               "$DIFF_RANGE" \
               -- docs/en/ \
-              | awk '$1 > 0 {print $3}' \
+              | awk -F'\t' '$1 > 0 {print $3}' \
               | sed 's/^"//;s/"$//' \
               | grep -E '\.(md|mdx)$' \
               | sort || true)
