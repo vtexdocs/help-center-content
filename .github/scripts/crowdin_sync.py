@@ -6,8 +6,9 @@ with Crowdin metadata (word count, editor links).
 Partial uploads require equivalent EN and/or ES files on main (matched by slugEN
 in frontmatter) plus block/word-count tiers on the PR diff. PT sources use a
 full upload when the PR adds new EN/ES translation files for the same slugEN,
-even if the PT diff is small. Rename-aware diffs follow git rename detection;
-git rename detection; numstat rename paths are normalized before processing.
+even if the PT diff is small. EN/ES-only PRs upload the matching PT source from
+main (890214) with locale imports from the PR. Rename-aware diffs follow git
+rename detection; numstat rename paths are normalized before processing.
 When multiple locale files share a slugEN, paths that already exist on main
 are preferred over PR-only additions. Duplicate slugEN values on main trigger
 a warning comment on the parent Jira task.
@@ -301,11 +302,15 @@ def build_crowdin_file_name(
 
 PT_SOURCE_PATH_PREFIXES = ("docs/pt/", "localization/")
 EN_SOURCE_PATH_PREFIXES = ("docs/en/",)
+ES_SOURCE_PATH_PREFIXES = ("docs/es/",)
+TRANSLATION_PATH_PREFIXES = EN_SOURCE_PATH_PREFIXES + ES_SOURCE_PATH_PREFIXES
 
 
 def is_eligible_path(relative_path: str) -> bool:
     path = relative_path.replace("\\", "/")
-    return path.startswith(PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES)
+    return path.startswith(
+        PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES + ES_SOURCE_PATH_PREFIXES
+    )
 
 
 def decode_git_path(path: str) -> str:
@@ -852,6 +857,60 @@ def resolve_equivalent_path(
     return find_equivalent_path_at_ref(slug_en, target_locale, base_sha)
 
 
+def is_translation_only_pr() -> bool:
+    return env("TRANSLATION_ONLY_PR").lower() in ("true", "1", "yes")
+
+
+def resolve_pt_sources_from_translation_changes(
+    translation_files: list[str],
+    *,
+    base_sha: str,
+    head_sha: str,
+) -> list[str]:
+    """Map changed EN/ES files to PT sources on main (deduped)."""
+    pt_paths: list[str] = []
+    seen: set[str] = set()
+
+    for path in sorted(translation_files):
+        normalized = path.replace("\\", "/")
+        if not normalized.startswith(TRANSLATION_PATH_PREFIXES):
+            continue
+
+        slug_en = get_slug_en_for_path(path, head_sha, base_sha)
+        if not slug_en:
+            print(
+                f"No slugEN for translation file {path}; "
+                "cannot resolve PT source on main",
+                file=sys.stderr,
+            )
+            continue
+
+        pt_path = find_locale_equivalent_by_slug(
+            base_sha,
+            "pt",
+            slug_en,
+            base_sha=base_sha,
+        )
+        if not pt_path or not git_file_exists(base_sha, pt_path):
+            print(
+                f"No PT source on main for slugEN {slug_en!r} "
+                f"(from {path})",
+                file=sys.stderr,
+            )
+            continue
+
+        if pt_path in seen:
+            continue
+        seen.add(pt_path)
+        pt_paths.append(pt_path)
+        print(
+            f"Translation-only PR: {path} -> PT source on main {pt_path}",
+            file=sys.stderr,
+        )
+
+    return pt_paths
+
+
 def has_new_translation_files_in_pr(
     source_path: str,
     *,
@@ -904,6 +963,8 @@ def import_translation_file(
     language_id: str,
     content: bytes,
     file_name: str,
+    *,
+    import_eq_suggestions: bool = False,
 ) -> str:
     storage_id = upload_storage_bytes(content, file_name)
     response = crowdin_request(
@@ -913,7 +974,7 @@ def import_translation_file(
             "storageId": storage_id,
             "fileId": file_id,
             "languageIds": [language_id],
-            "importEqSuggestions": False,
+            "importEqSuggestions": import_eq_suggestions,
             "autoApproveImported": False,
         },
     )
@@ -1296,14 +1357,18 @@ def resolve_upload_context(
     all_files: list[str],
 ) -> tuple[CrowdinUploadGroup, list[str]]:
     content_source = env("CONTENT_SOURCE")
+    base_sha = env("BASE_SHA")
+    head_sha = env("HEAD_SHA")
     pt_files = files_for_prefixes(all_files, PT_CROWDIN_GROUP.path_prefixes)
     en_files = files_for_prefixes(all_files, EN_CROWDIN_GROUP.path_prefixes)
+    es_files = files_for_prefixes(all_files, ES_SOURCE_PATH_PREFIXES)
+    translation_files = en_files + es_files
 
     if content_source == "pt" or (not content_source and pt_files):
-        if en_files:
+        if translation_files:
             print(
-                "PR touches PT source (docs/pt or localization/) and docs/en; "
-                "ignoring docs/en files",
+                "PR touches PT source (docs/pt or localization/) and "
+                "docs/en or docs/es; ignoring translation files",
                 file=sys.stderr,
             )
         active_files = pt_files or [
@@ -1312,6 +1377,21 @@ def resolve_upload_context(
             if path.replace("\\", "/").startswith(PT_CROWDIN_GROUP.path_prefixes)
         ]
         return PT_CROWDIN_GROUP, active_files
+
+    if is_translation_only_pr() or (not pt_files and translation_files):
+        if base_sha and head_sha:
+            pt_from_translations = resolve_pt_sources_from_translation_changes(
+                translation_files,
+                base_sha=base_sha,
+                head_sha=head_sha,
+            )
+            if pt_from_translations:
+                print(
+                    "Translation-only PR: uploading "
+                    f"{len(pt_from_translations)} PT source file(s) from main",
+                    file=sys.stderr,
+                )
+                return PT_CROWDIN_GROUP, pt_from_translations
 
     if content_source == "en" or en_files:
         return EN_CROWDIN_GROUP, en_files or [
@@ -1322,7 +1402,7 @@ def resolve_upload_context(
 
     raise RuntimeError(
         "Could not determine Crowdin upload mode (expected CONTENT_SOURCE=pt|en "
-        "or changed files under docs/pt, localization/, or docs/en)"
+        "or changed files under docs/pt, localization/, docs/en, or docs/es)"
     )
 
 
@@ -1429,6 +1509,22 @@ def upload_group_files(
                 f"[{group.name}] Imported {translation.repo_path} as "
                 f"{translation.language_id} translation for {crowdin_name} "
                 f"(from {translation.source_ref})",
+                file=sys.stderr,
+            )
+
+        if group.name == "pt":
+            source_language_id = str(project_data["sourceLanguage"]["id"])
+            self_import_id = import_translation_file(
+                project_id,
+                file_id,
+                source_language_id,
+                plan.content,
+                crowdin_name,
+                import_eq_suggestions=True,
+            )
+            print(
+                f"[{group.name}] Self-imported {source_language_id} source for "
+                f"{crowdin_name} (import {self_import_id})",
                 file=sys.stderr,
             )
 
