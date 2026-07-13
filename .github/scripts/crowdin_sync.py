@@ -75,6 +75,11 @@ def normalize_language_id(language_id: str) -> str:
     return language_id.replace("_", "-").lower()
 
 
+def normalize_editor_code(code: str) -> str:
+    """Crowdin editor URL segments drop separators (en-US -> enus, pt-BR -> ptbr)."""
+    return code.replace("_", "").replace("-", "").lower()
+
+
 def resolve_project_language_id(project_data: dict, language_id: str) -> str:
     """Return the Crowdin project's canonical language ID for language_id."""
     target = normalize_language_id(language_id)
@@ -187,13 +192,13 @@ def fetch_project_data(project_id: str) -> dict:
 
 def language_editor_code(project_data: dict, language_id: str) -> str:
     target = normalize_language_id(language_id)
-    source = project_data.get("sourceLanguage") or {}
-    if normalize_language_id(str(source.get("id", ""))) == target:
-        return str(source["editorCode"])
     for language in project_data.get("targetLanguages") or []:
         if normalize_language_id(str(language.get("id", ""))) == target:
-            return str(language["editorCode"])
-    return language_id
+            return normalize_editor_code(str(language["editorCode"]))
+    source = project_data.get("sourceLanguage") or {}
+    if normalize_language_id(str(source.get("id", ""))) == target:
+        return normalize_editor_code(str(source["editorCode"]))
+    return normalize_editor_code(language_id)
 
 
 def editor_url(
@@ -202,7 +207,10 @@ def editor_url(
     source_editor_code: str,
     target_editor_code: str,
 ) -> str:
-    language_pair = f"{source_editor_code}-{target_editor_code}"
+    language_pair = (
+        f"{normalize_editor_code(source_editor_code)}-"
+        f"{normalize_editor_code(target_editor_code)}"
+    )
     return f"{crowdin_web_base()}/editor/{project_identifier}/{file_id}/{language_pair}"
 
 
