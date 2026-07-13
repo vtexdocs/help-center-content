@@ -39900,6 +39900,21 @@
             },
             {
               "name": {
+                "en": "Item quantity duplicated when trying to edit quotes with items split by promotions",
+                "es": "Se duplica la cantidad de artículos al intentar editar cotizaciones con artículos divididos por promociones.",
+                "pt": "A quantidade de itens foi duplicada ao tentar editar orçamentos com itens divididos por promoções."
+              },
+              "slug": {
+                "en": "item-quantity-duplicated-when-trying-to-edit-quotes-with-items-split-by-promotions",
+                "es": "se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones",
+                "pt": "a-quantidade-de-itens-foi-duplicada-ao-tentar-editar-orcamentos-com-itens-divididos-por-promocoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Malformed button in B2B Suite Organizations Custom Fields Admin UI",
                 "es": "Botón con un formato incorrecto en la interfaz de administración de campos personalizados de las organizaciones de B2B Suite",
                 "pt": "Botão com formato incorreto na interface de administração de campos personalizados das organizações do B2B Suite"
@@ -45933,21 +45948,6 @@
             },
             {
               "name": {
-                "en": "Error in the maximum quantity field of the same SKU in the Cart",
-                "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
-                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho"
-              },
-              "slug": {
-                "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-                "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
-                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Error when changing delivery type when seller has recursion",
                 "es": "Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad",
                 "pt": "Erro ao mudar o tipo de entrega quando o vendedor tem recorrência"
@@ -46189,13 +46189,13 @@
             {
               "name": {
                 "en": "Interacting with the payment component while is still in a loading state sends the wrong payment option",
-                "es": "Si se interactúa con el componente de pago mientras aún se está cargando, se envía una opción de pago incorrecta",
-                "pt": "Interagir com o componente de pagamento enquanto ele ainda está carregando faz com que seja enviada a opção de pagamento errada"
+                "es": "Interactuar con el componente de pago mientras aún se encuentra en estado de carga envía la opción de pago incorrecta.",
+                "pt": "Interagir com o componente de pagamento enquanto ele ainda está em estado de carregamento envia a opção de pagamento incorreta."
               },
               "slug": {
                 "en": "interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option",
-                "es": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
-                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-carregando-faz-com-que-seja-enviada-a-opcao-de-pagamento-errada"
+                "es": "interactuar-con-el-componente-de-pago-mientras-aun-se-encuentra-en-estado-de-carga-envia-la-opcion-de-pago-incorrecta",
+                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta"
               },
               "origin": "",
               "type": "markdown",
@@ -47111,6 +47111,21 @@
                 "en": "pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow",
                 "es": "las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra",
                 "pt": "as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Place Order APIs don't respect the maximum quantity of the same SKU in the cart configuration",
+                "es": "Las API para realizar pedidos no respetan la cantidad máxima del mismo SKU en la configuración del carrito.",
+                "pt": "As APIs de \"Finalizar Pedido\" não respeitam a quantidade máxima do mesmo SKU na configuração do carrinho."
+              },
+              "slug": {
+                "en": "place-order-apis-dont-respect-the-maximum-quantity-of-the-same-sku-in-the-cart-configuration",
+                "es": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
+                "pt": "as-apis-de-finalizar-pedido-nao-respeitam-a-quantidade-maxima-do-mesmo-sku-na-configuracao-do-carrinho"
               },
               "origin": "",
               "type": "markdown",
@@ -48793,6 +48808,21 @@
                 "en": "not-possible-to-upload-new-mediadocument-in-a-development-workspace-when-entity-has-more-than-10k-documents",
                 "es": "no-es-posible-subir-nuevos-archivos-multimedia-o-documentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10-000-documentos",
                 "pt": "nao-e-possivel-fazer-upload-de-novos-arquivos-de-midiadocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-possui-mais-de-10-mil-documentos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "oneOf Variant Switch Erases Field Data and Defaults to First Variant on Load",
+                "es": "El interruptor de variante oneOf borra los datos del campo y toma por defecto la primera variante al cargar.",
+                "pt": "A opção `oneOfVariant` apaga os dados do campo e retorna à primeira variante como padrão ao carregar o jogo."
+              },
+              "slug": {
+                "en": "oneof-variant-switch-erases-field-data-and-defaults-to-first-variant-on-load",
+                "es": "el-interruptor-de-variante-oneof-borra-los-datos-del-campo-y-toma-por-defecto-la-primera-variante-al-cargar",
+                "pt": "a-opcao-oneofvariant-apaga-os-dados-do-campo-e-retorna-a-primeira-variante-como-padrao-ao-carregar-o-jogo"
               },
               "origin": "",
               "type": "markdown",
@@ -52825,6 +52855,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search Facets hides selected parent facet in multiselect drill-down",
+                "es": "La función de búsqueda inteligente oculta la faceta principal seleccionada en la exploración en profundidad de selección múltiple.",
+                "pt": "A pesquisa inteligente de facetas oculta a faceta principal selecionada na seleção múltipla com detalhamento."
+              },
+              "slug": {
+                "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
+                "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
+                "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search language settings not in sync with store configurations",
                 "es": "La configuración de idioma de la búsqueda inteligente no está sincronizada con la configuración de la tienda",
                 "pt": "As configurações de idioma da Pesquisa Inteligente não estão sincronizadas com as configurações da loja"
@@ -53110,6 +53155,21 @@
             },
             {
               "name": {
+                "en": "Price-based filters ignore Sales Channel and Regionalization context",
+                "es": "Los filtros basados ​​en precios ignoran el contexto del canal de ventas y la regionalización.",
+                "pt": "Os filtros baseados em preço ignoram o contexto de canal de vendas e regionalização."
+              },
+              "slug": {
+                "en": "pricebased-filters-ignore-sales-channel-and-regionalization-context",
+                "es": "los-filtros-basados-en-precios-ignoran-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+                "pt": "os-filtros-baseados-em-preco-ignoram-o-contexto-de-canal-de-vendas-e-regionalizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Prices from specific price tables are not considered when sorting or filtering products",
                 "es": "Los precios de las tablas de precios específicas no se tienen en cuenta al clasificar o filtrar los productos.",
                 "pt": "Os preços de tabelas de preços específicas não são considerados na classificação ou filtragem de produtos"
@@ -53313,21 +53373,6 @@
                 "en": "refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app",
                 "es": "refactorizar-nuestro-flujo-de-restablecimiento-de-contrasena-para-llamar-a-la-nueva-mutacion-correspondiente-en-la-aplicacion-graphql",
                 "pt": "refatorar-nosso-fluxo-de-senhas-para-chamar-a-nova-mutacao-correspondente-no-aplicativo-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Regionalization or trade policies aren't considered while filtering or sorting items by price or discount",
-                "es": "Las políticas de regionalización o comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento",
-                "pt": "As políticas de regionalização ou comerciais não são levadas em conta ao filtrar ou classificar itens por preço ou desconto"
-              },
-              "slug": {
-                "en": "regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount",
-                "es": "las-politicas-de-regionalizacion-o-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
-                "pt": "as-politicas-de-regionalizacao-ou-comerciais-nao-sao-levadas-em-conta-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto"
               },
               "origin": "",
               "type": "markdown",
@@ -53643,6 +53688,36 @@
                 "en": "sort-by-name-working-different-on-stores-integrated-before-a-date",
                 "es": "la-ordenacion-por-nombre-funciona-de-forma-diferente-en-las-tiendas-integradas-antes-de-una-fecha",
                 "pt": "classificar-pelo-nome-trabalhando-de-forma-diferente-em-lojas-integradas-antes-de-uma-data"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sorting by discount ignores Sales Channel context",
+                "es": "La ordenación por descuento ignora el contexto del canal de ventas.",
+                "pt": "A ordenação por desconto ignora o contexto do canal de vendas."
+              },
+              "slug": {
+                "en": "sorting-by-discount-ignores-sales-channel-context",
+                "es": "la-ordenacion-por-descuento-ignora-el-contexto-del-canal-de-ventas",
+                "pt": "a-ordenacao-por-desconto-ignora-o-contexto-do-canal-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sorting Intelligent Search by price ignores Sales Channel and Regionalization context",
+                "es": "La ordenación de la búsqueda inteligente por precio ignora el contexto del canal de ventas y la regionalización.",
+                "pt": "A classificação da Busca Inteligente por preço ignora o canal de vendas e o contexto de regionalização."
+              },
+              "slug": {
+                "en": "sorting-intelligent-search-by-price-ignores-sales-channel-and-regionalization-context",
+                "es": "la-ordenacion-de-la-busqueda-inteligente-por-precio-ignora-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+                "pt": "a-classificacao-da-busca-inteligente-por-preco-ignora-o-canal-de-vendas-e-o-contexto-de-regionalizacao"
               },
               "origin": "",
               "type": "markdown",
@@ -54710,6 +54785,21 @@
                 "en": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
                 "es": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
                 "pt": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -59676,13 +59766,13 @@
             {
               "name": {
                 "en": "Bin sent does not match an associated Card brand",
-                "es": "La papelera enviada no coincide con una marca de tarjeta asociada",
-                "pt": "Lixeira enviada não corresponde a uma marca de cartão associada"
+                "es": "El BIN enviado no coincide con una marca de tarjeta asociada.",
+                "pt": "O endereço enviado não corresponde a nenhuma bandeira de cartão associada."
               },
               "slug": {
                 "en": "bin-sent-does-not-match-an-associated-card-brand",
-                "es": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
-                "pt": "lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada"
+                "es": "el-bin-enviado-no-coincide-con-una-marca-de-tarjeta-asociada",
+                "pt": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada"
               },
               "origin": "",
               "type": "markdown",
@@ -62421,13 +62511,13 @@
             {
               "name": {
                 "en": "The Cielo 3DS2 app is returning an \"approved\" status even in scenarios when the authentication has failed.",
-                "es": "La aplicación Cielo 3DS2 muestra el estado «aprobado» incluso en casos en los que la autenticación ha fallado.",
-                "pt": "O aplicativo Cielo 3DS2 está retornando o status “aprovado” mesmo em casos em que a autenticação falhou."
+                "es": "La aplicación Cielo 3DS2 devuelve un estado de \"aprobado\" incluso en situaciones en las que la autenticación ha fallado.",
+                "pt": "O aplicativo Cielo 3DS2 está retornando o status \"aprovado\" mesmo em cenários nos quais a autenticação falhou."
               },
               "slug": {
                 "en": "the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed",
-                "es": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
-                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-casos-em-que-a-autenticacao-falhou"
+                "es": "la-aplicacion-cielo-3ds2-devuelve-un-estado-de-aprobado-incluso-en-situaciones-en-las-que-la-autenticacion-ha-fallado",
+                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-nos-quais-a-autenticacao-falhou"
               },
               "origin": "",
               "type": "markdown",
@@ -69030,6 +69120,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
+                "es": "Amazon En algunos casos, un SKU puede publicarse correctamente en Amazon, pero el stock no se actualiza y permanece en cero.",
+                "pt": "Amazon Em alguns casos, um SKU pode ser publicado com sucesso na Amazon, mas o estoque não é atualizado e permanece zerado."
+              },
+              "slug": {
+                "en": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
+                "es": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
+                "pt": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Amazon Order cancellation flow",
