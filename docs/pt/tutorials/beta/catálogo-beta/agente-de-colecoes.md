@@ -19,7 +19,6 @@ locale: pt
 - Qual a distinção entre Coleção e Sortimento? (informar que atualmente Sortimentos estão restritos a cenários B2B).
 
 ---> Considerar inserir aviso sobre beta: qual é a disponibilidade, limitações e comportamentos esperados do beta // template
-// 
 
 2 - Acessando o agente de Coleções
 
@@ -27,40 +26,40 @@ locale: pt
 - Existe mais de uma maneira de fazer isso?
 - Como isso aparece na interface? (apresentar imagem do Figma)
 
-3 - Reealizando ações com o agente de Coleções via linguagem natural
+3 - Realizando ações com coleções
 
-- Como criar uma coleção via linguagem natural?
-- Qual a diferença entre os critérios de criação de coleção estático e dinâmico? // Static (explicit Product ID list) and Dynamic (criteria: marcas, categorias, especificações de produto, especificações de SKU)
-- Como visualizar o resultado? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
-- Como editar uma coleção via linguagem natural?
-- Como revisar (iterar na edição) e refinar a coleção sem precisar começar do zero? // agent appends rather than replacing; supports "undo that", "swap X for Y"
-- Como validar o impacto da edição?
+- Como criar uma coleção usando linguagem natural (prompt)? // é possível realizar operações em massa?
+- Como visualizar o resultado (verificar as relações)? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
+- Como aprovar o plano de coleção?
+- Como editar (revisar, iterar na edição, refinar) a coleção sem precisar começar do zero? // isso é sempre sobre uma coleção que já foi criada ou pode ser sobre a edição de uma coleção que está sendo criada?
+- Como revisar () e refinar a coleção  // agent appends rather than replacing; supports "undo that", "swap X for Y"
+- Como checar impacto da edição? // é o mesmo que verificar as relações de uma coleção que foi criada?
 
-3.1 - Regras
+3.1 - Regras para coleções e sortimentos? // identificar o que é coleção, sortimento ou ambos
 
+- Cria e editar coleções de forma estática (explicit Product ID list) ou dinâmica (criteria: marcas, categorias, especificações de produto, especificações de SKU)
 - Inclusive and Exclusive rules
 - Complex AND/OR combinations
 - Agent appends rather than replacing; supports "undo that", "swap X for Y"
 - Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
 
-- Como realizar operações em massa?
-- Como buscar e listar Coleções e Sortimentos?
-- Como explicar as regras?
-- Como verificar as relações?
+4 - Realizando ações com sortimentos
 
-________________________________________________________
+- Como criar um sortimento usando linguagem natural (prompt)?
+- Como visualizar o resultado (verificar as relações)? // preview updates each turn
+- Como aprovar o plano de sortimento?
+- Como editar (revisar, iterar na edição, refinar) o sortimento sem precisar começar do zero? // isso é sempre sobre um sortimento que já foi criado ou pode ser sobre a edição de um sortimento que está sendo criado?
+- Como revisar e refinar a sortimento? // agent appends rather than replacing; supports "undo that", "swap X for Y"
+- Como checar impacto da edição? // é o mesmo que verificar as relações de um sortimento que foi criado?
 
-Casos de uso:  
-Como solicitar uma tarefa
-Exemplos de prompts
-Como revisar e aprovar o plano
-Boas práticas para prompts
+**Composing an Assortment** — combining and excluding Collections; inclusive/exclusive rule behavior; propagation (editing a shared Collection updates every Assortment that consumes it — this is the building-block value prop)
 
+5 - Casos de uso com exemplos de prompts
+
+5.1 Conheçar boas práticas para prompts
 ________________________________________________________
 
 **Scope the guide should cover:**
-
-4. **Composing an Assortment** — combining and excluding Collections; inclusive/exclusive rule behavior; propagation (editing a shared Collection updates every Assortment that consumes it — this is the building-block value prop)
 
 5. **Bulk operations** — import a `.csv` or `.xlsx` of Product IDs; three flows: add to existing list, remove from existing list, override the entire list (one collection per operation)
 
