@@ -21,7 +21,18 @@ Therefore, the VTEX platform offers you the possibility to create custom access 
 
 > ❗ Unrestricted use of resources increases the risk of store attacks by leaking login credentials with access to critical resources. If you have questions about the description of a specific feature, please feel free to contact us.
 
-<iframe src="https://vtexhelp.myvtex.com/tables/resources/en" title="License Manager resources" frameBorder="0" width="105%" height="850"></iframe>
+<DataTable
+  src="data-tables/license-manager-resources.json"
+  columns={[
+    { key: 'product', label: 'Product', sortable: true, filterable: true },
+    { key: 'category', label: 'Category', sortable: true, filterable: true },
+    { key: 'resource', label: 'Resource', sortable: true, filterable: true },
+    { key: 'description', label: 'Description' },
+    { key: 'key', label: 'Key', type: 'code', sortable: true, filterable: true },
+    { key: 'resourceId', label: 'Resource ID', type: 'number', sortable: true },
+    { key: 'productId', label: 'Product ID', type: 'number', sortable: true },
+  ]}
+/>
 
 > ℹ️ In the [Audit](/en/docs/tutorials/audit) application, License Manager resources are identified by the corresponding keys.
 
@@ -29,5 +40,15 @@ Therefore, the VTEX platform offers you the possibility to create custom access 
 
 In the License Manager interface, you can also find resources that are deprecated or exclusively for internal use by VTEX. These have no impact on your store. They are:
 
-<iframe src="https://vtexhelp.myvtex.com/tables/internalresources/en" title="Internal or deprecated resources" frameBorder="0" width="100%" height="700"></iframe>
+<DataTable
+  src="data-tables/license-manager-internal-resources.json"
+  columns={[
+    { key: 'product', label: 'Product', sortable: true, filterable: true },
+    { key: 'category', label: 'Category', sortable: true, filterable: true },
+    { key: 'resource', label: 'Resource', sortable: true, filterable: true },
+    { key: 'key', label: 'Key', type: 'code', sortable: true, filterable: true },
+    { key: 'resourceId', label: 'Resource ID', type: 'number', sortable: true },
+    { key: 'productId', label: 'Product ID', type: 'number', sortable: true },
+  ]}
+/>
 
