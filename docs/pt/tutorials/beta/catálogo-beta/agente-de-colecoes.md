@@ -13,19 +13,25 @@ locale: pt
 1 - Introdução
 
 - O que é o agente?
-- O que o agente faz?
+- O que o agente faz? // O agente opera como uma interface conversacional que transforma a intenção do usuário em operações de serviço da VTEX.
 - Qual problema ele resolve?
-- Como ele difere da interface de coleções legada?
+- Qual a distinção entre coleção e sortimento? // informar que atualmente sortimentos estão restritos a cenários B2B
+- Como o agente difere da interface de coleções legada?
+- Existem pré-requisitos para o agente funcionar? // talvez dizer tem que ter marcas, categorias, SKUs e produtos cadastrados
 
 2 - Avisos do beta
+
+O Agente de Coleções está atualmente em beta, e durante este período a funcionalidade tem as seguintes limitações:
 
 - Qual é a disponibilidade?
 - Quais são as imitações?
 - Quais são os comportamentos esperados do beta? // The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included. // Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
 
-1.1 Distinção entre coleção e sortimento // informar que atualmente Sortimentos estão restritos a cenários B2B
+3 - Acessando o agente de Coleções
 
-2 - Acessando o agente de Coleções
+Para interagir com o agente e executar ações em coleções e sortimentos, no Admin VTEX, vá para XX ou digite **Agent de Coleções** na barra de pesquisa. A página é composta por uma janela de conversas e por sugestões de perguntas para iniciar uma análise com o assistente.
+
+![Interface do agente](linkPlaceholder)
 
 - Como acessar o agente pelo Admin VTEX?
 - Existe mais de uma maneira de fazer isso?
@@ -40,8 +46,6 @@ locale: pt
 - Agent appends rather than replacing; supports "undo that", "swap X for Y"
 - Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
 - Before high-impact changes (e.g., editing a Collection shared across many Assortments), the agent surfaces the blast radius and requests confirmation
-
-3.1 Boas práticas para prompts // Vale a pena ter essa seção?
 
 4 - Realizando ações com coleções
 
@@ -73,54 +77,7 @@ locale: pt
 
 __________________________________________________________________
 
-Quais configurações precisam ser feitas para o agente de coleções funcionar? Ter marcas, categorias, SKUs e produtos cadastrados.
-
-Presents changes for your review before applying them.
-
-Vale dizer como se comporta em mobile devices?
-
 Maybe a key concepts section, like [Microsoft](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/overview)?
-
-Como o agente busca conteúdo no catálogo da loja?
-
-O agente opera como uma interface conversacional que transforma a intenção do usuário em operações de serviço da VTEX.
-
-## Beta limitations
-
-[Name of the Agent] is currently in the testing phase. During this period, the feature has the following limitations:
-
-## Usage
-
-To interact with the agent and start …{add the agent’s main action}, in the VTEX Admin, go to … or type [Name of the Agent] in the search bar. The page includes a conversation window and suggested questions to help you start an analysis with the assistant.
-
-Você pode usar o XXX das seguintes maneiras: tabela com as colunas "Caso de uso" e "Exemplos de comandos".
-
-### Capabilities
-
-A página é composta por uma janela de conversas e por sugestões de perguntas para iniciar uma análise com o assistente.
-
-![Interface do agente](linkPlaceholder)
-
-The [Name of the Agent] can receive … with messages to process tasks and respond with ….
-
-The [Name of the Agent] allows you to ….
-
-### Prompt examples
-
-Below are some examples of …:
-
-[List of possible tasks or initial prompts]
-
-## Limitations
-
-Examples: Tasks the Agent can't process. Features and services the Agent doesn’t have access to.
-Task examples
-
-Example 1
-
-Example 2
-
-_____
 
 Doc do Nik:
 
