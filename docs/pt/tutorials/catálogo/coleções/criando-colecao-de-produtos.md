@@ -3,7 +3,7 @@ title: 'Criar coleção de produtos'
 id: tutorials_244
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:33.797Z
-updatedAt: 2026-07-13T00:00:00.000Z
+updatedAt: 2026-07-14T00:00:00.000Z
 publishedAt: 2025-06-12T16:31:03.217Z
 firstPublishedAt: 2017-04-27T23:03:10.343Z
 contentType: tutorial
@@ -57,28 +57,7 @@ Por padrão, o link de acesso a uma coleção segue o formato `https://{loja}.co
 
 ### Incluir grupos na coleção
 
-A composição dos produtos de uma coleção é definida pelos **grupos**. Você pode criar grupos a partir dos seguintes critérios, que podem ser combinados para atingir o resultado esperado:
-
-- Departamento, categoria ou subcategoria
-- Marca
-- Período de lançamento (pré-venda ou lançamento recente)
-- SKUs específicos (manualmente ou por importação de planilha)
-
-Ao combinar mais de um critério no mesmo grupo, apenas os produtos que atendem a **todos** os critérios selecionados (interseção) farão parte do grupo. Por exemplo, se você selecionar a categoria AA e a marca BB, apenas os produtos dessa categoria **e** dessa marca estarão no grupo. Produtos da categoria AA de outras marcas ou da marca BB de outras categorias ficam de fora.
-
-Cada grupo criado é um dos seguintes tipos:
-- **Inclusão:** soma os produtos do grupo à coleção.
-- **Exclusão:** remove os produtos do grupo da coleção.
-
-O primeiro grupo criado em qualquer coleção deve ser obrigatoriamente do tipo **Inclusão**. Quando uma coleção tem múltiplos grupos, o resultado final é calculado da seguinte maneira:
-
-```txt
-Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exclusão)
-```
-
->⚠️ Preste sempre atenção ao tipo de grupo selecionado no cadastro. Produtos adicionados a um grupo do tipo exclusão **não** são incluídos na coleção: pelo contrário, são removidos dela caso também estejam em algum grupo de inclusão. Esse é um dos erros mais comuns ao configurar coleções com múltiplos grupos.
-
-Os passos a seguir são comuns a todos os tipos de grupo:
+A composição dos produtos de uma coleção é definida pelos **grupos**. Para incluir grupos em uma coleção, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout > CMS > Product Clusters (Collections)**.
 2. Clique na coleção desejada. Se sua loja tiver mais de 20 coleções cadastradas, use o campo de pesquisa da pasta para localizar a coleção pelo nome.
@@ -90,15 +69,25 @@ Os passos a seguir são comuns a todos os tipos de grupo:
 	![Layout 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_2.png)
 
 4. No campo **Group Name**, dê um nome ao grupo.
-5. No campo **Group Type**, defina o tipo do grupo, isto é, se é `Inclusive` (Inclusão) ou `Exclusive` (Exclusão).
-6. Defina quais produtos farão parte do grupo. Você pode definir a composição do grupo com base nos seguintes filtros:
+5. No campo **Group Type**, defina o tipo do grupo, isto é, se é `Inclusive` (Inclusão) ou `Exclusive` (Exclusão):
 
-	- [Departamento, categoria ou subcategoria](#departamento-categoria-ou-subcategoria)
-	- [Marca](#marca)
-	- [Período de lançamento](#periodo-de-lancamento-pre-venda-ou-lancamento)
-	- [SKUs específicos](#skus-especificos)
+	- `Inclusive` (Inclusão): soma os produtos do grupo à coleção.
+	- `Exclusive` (Exclusão): remove os produtos do grupo da coleção.
 
-7. Clique em `Save Group` para salvar a configuração do grupo.
+	O primeiro grupo criado em qualquer coleção deve ser obrigatoriamente do tipo **Inclusão**. Quando uma coleção tem múltiplos grupos, o resultado final é calculado da seguinte maneira: `Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exclusão)`
+
+	>⚠️ Preste sempre atenção ao tipo de grupo selecionado no cadastro. Produtos adicionados a um grupo do tipo `Exclusive` (Exclusão) **não** são incluídos na coleção. Pelo contrário, são removidos dela caso também pertençam a algum grupo de inclusão. Esse é um dos erros mais comuns ao configurar coleções com múltiplos grupos.
+
+7. Defina quais produtos farão parte do grupo. Você pode definir a composição do grupo com base nos seguintes critérios, que podem ser combinados para atingir o resultado esperado:
+
+	- Departamento, categoria ou subcategoria
+	- Marca
+	- Período de lançamento (pré-venda ou lançamento recente)
+	- SKUs específicos (manualmente ou por importação de planilha)
+
+	>⚠️ Ao combinar mais de um critério no mesmo grupo, apenas os produtos que atendem a **todos** os critérios selecionados (interseção) farão parte do grupo. Por exemplo, se você selecionar a categoria AA e a marca BB, apenas os produtos dessa categoria **e** dessa marca estarão no grupo. Produtos da categoria AA de outras marcas ou da marca BB de outras categorias ficam de fora.
+
+8. Clique em `Save Group` para salvar a configuração do grupo.
 
 #### Departamento, categoria ou subcategoria
 
