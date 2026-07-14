@@ -4,7 +4,7 @@ createdAt: 2026-07-14T00:00:00.000Z
 updatedAt: 2026-07-14T00:00:00.000Z
 contentType: updates
 productTeam: Payments
-slugEN: 2026-07-14-hold-mode-new-flow-in-post-purchase-payment-operations
+slugEN: 2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations
 locale: es
 announcementSynopsisEN: 'VTEX lanzó el modo Partial, que permite liquidaciones, cancelaciones y reembolsos parciales directamente con el conector de pago.'
 tags:

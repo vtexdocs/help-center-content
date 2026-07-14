@@ -1,10 +1,10 @@
 ---
-title: 'Hold mode: New flow in post-purchase payment operations'
+title: 'Partial mode: New flow in post-purchase payment operations'
 createdAt: 2026-07-14T00:00:00.000Z
 updatedAt: 2026-07-14T00:00:00.000Z
 contentType: updates
 productTeam: Payments
-slugEN: 2026-07-14-hold-mode-new-flow-in-post-purchase-payment-operations
+slugEN: 2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations
 locale: en
 announcementSynopsisEN: 'VTEX has launched Partial mode, enabling partial settlements, cancellations, and refunds directly with the payment connector.'
 tags:
@@ -12,7 +12,7 @@ tags:
   - Payments
 ---
 
-To provide more flexibility and control over post-purchase payment operations, VTEX has launched the **Hold** payment processing mode.
+To provide more flexibility and control over post-purchase payment operations, VTEX has launched the **Partial** payment processing mode.
 
 ## What has changed?
 
