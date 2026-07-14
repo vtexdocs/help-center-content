@@ -192,6 +192,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | CREATE_GIFT_CARD_CANCELLATION | Registro de cancelamento de vale-presente. | ID do vale-presente. |
 | CREATE_GIFT_CARD_SETTLEMENT | Registro de liquidação de vale-presente. | ID do vale-presente. |
 | INSERT_GIFT_CARD_CREDITS | Inserção de créditos em vale-presente. | ID do vale-presente. |
+| GET_UNMASKED_PII | Visualização de informações de identificação pessoal (PII) sem máscara. | ID do vale-presente. |
 
 ## Checkout
 

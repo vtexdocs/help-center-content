@@ -15,37 +15,63 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - VTEX Search (Legado) y VTEX Intelligent Search. Este artículo hace referencia a la VTEX Search (Legado). Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado) y para la búsqueda legada. Si tu tienda utiliza VTEX Intelligent Search, consulta la serie de artículos [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search).
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal (Legado).
-</div>
+El buscador utilizado por las tiendas del CMS Portal (Legado) es personalizable y permite aplicar filtros por departamento, categoría, marca, colección, especificación y SKU, entre otros criterios.
 
-El buscador de VTEX es muy personalizable, siendo posible adaptar a sus controles las necesidades más complejas. 
+Dado que estos filtros se aplican directamente en la URL, las búsquedas más complejas pueden generar direcciones extensas o poco amigables, lo que reduce su relevancia para los rastreadores de motores de búsqueda, como Google.
 
-Se puede aplicar filtros por departamento, categoría, marca, colección, especificación, SKU, etc. 
+Para resolver esta situación, las carpetas del CMS incluyen el campo `Search Context (Default)`, que permite definir los filtros de búsqueda que se aplicarán a la página vinculada a cada carpeta. Con esta configuración, el CMS muestra los resultados esperados sin exponer los filtros en la URL, creando una ruta más amigable.
 
-Como la aplicación de esos filtros ocurre en la URL, cuando la demanda exige una búsqueda compleja, muchas veces ocurre que esa URL acaba no siendo amigable, teniendo menos relevancia para crawlers de buscadores como Google.
+> ℹ️ Si una carpeta tiene un valor configurado en `Search Context (Default)`, este reemplazará cualquier parámetro de búsqueda ingresado directamente en la URL. Esto significa que los filtros y los criterios de ordenación, incluido el parámetro `O`, no se aplicarán a la página.
 
-Este artículo se ha desarrollado para presentar un recurso muy importante para la utilización de búsquedas complejas en landing pages: el __Contexto de Búsqueda__.
+En esta guía aprenderás a usar el **contexto de búsqueda** para asociar una búsqueda con una carpeta del CMS y mostrar sus resultados en una URL amigable.
 
-Cuando la búsqueda pretendida usa muchos filtros (p. ej.: categoría, marca y especificación de producto), siempre recomendamos construir una Landing Page.
+## Antes de empezar
 
-### Ejemplo
+Asegúrate de que el [template](/es/docs/tutorials/que-son-templates) de la página incluya el control `<vtex.cmc:searchResult/>`. El contexto de búsqueda solo funciona si la plantilla contiene este control. Aprende más en [Cómo usar el control Search Result](/es/docs/tutorials/como-usar-el-control-search-result).
 
-Búsqueda pretendida: `/busca?fq=C:111&fq=B:222&fq=spec_fct_1:333`
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en **CMS > HTML Templates**.
+3. Crea una nueva plantilla o asegúrate de que una existente contenga el control `<vtex.cmc:searchResult/>`. Para instrucciones detalladas, consulta [Crear y editar un template de página](/es/docs/tutorials/como-crear-un-template-de-pagina).
 
-Esta búsqueda devolverá todos los productos que pertenecen a la categoría **111**, que también sean de la marca **222** y tengan el campo de id **1** con valor **333**. El resultado presentado al cliente será correcto. Sin embargo, la forma como los crawlers mirarán esa URL no será interesante para su tienda.
+> ℹ️ El control `<vtex.cmc:searchResult/>` funciona únicamente en páginas con contexto de búsqueda, es decir, páginas en las que los resultados mostrados se obtuvieron a partir de una búsqueda del usuario.
 
-Es en este momento que entra la Landing Page y el Contexto de Búsqueda.
+## Instrucciones
 
-En el CMS de su tienda (`{AccountName}.myvtex.com/admin/a/`), todas las carpetas tienen un campo llamado **Search Context (Default)**, que tiene la función de cargar la búsqueda pretendida sin necesidad de escribirla en la URL.
+Para crear una landing page con URL personalizada sigue los pasos a continuación:
 
-Usando el mismo ejemplo anterior, si creamos una carpeta denominada **mi-landing-page** y configuramos su **Contexto de Busca** con el valor **fq=C:111&fq=B:222&fq=spec_fct_1:333**, esa carpeta renderizará exactamente los mismos productos del ejemplo anterior, pero en una URL más amigable.
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en **CMS > Sites and channels**.
+3. Haz clic en el sitio web deseado.
+4. Haz clic en la carpeta raíz (`/`).
+5. Decide si vas a configurar el contexto de búsqueda en:
+   - [Una página que ya existe en tu sitio web](#configurar-contexto-de-busqueda-en-pagina-existente)
+   - [Una nueva página que vas a crear](#configurar-contexto-de-busqueda-en-una-pagina-nueva)
 
-### Configuración
+> ⚠️ La búsqueda legada renderiza una landing page cuando el término buscado corresponde exactamente al nombre de una carpeta configurada en el CMS. Para que esta carpeta aparezca en los resultados de búsqueda necesita tener un [layout](/es/docs/tutorials/que-son-layouts) asociado, al igual que la carpeta principal. En estructuras con más de un nivel de directorio, como `/carpeta1/landing-page`, este comportamiento puede no funcionar como se esperaba, y la búsqueda puede devolver una página 404.
 
-**Importante**:
+### Configurar contexto de búsqueda en página existente
 
-- Para que el Contexto de Búsqueda funcione, es necesario usar el control `searchResult`.
-- La búsqueda aplicada en ese campo sustituirá cualquier búsqueda aplicada en la URL. Es decir, si una carpeta tiene este campo configurado, no funcionará la inclusión de parámetros para la búsqueda directamente en la URL de esa carpeta, incluyendo su orden (parámetro **O**).
+Después de hacer clic en la carpeta raíz (`/`) sigue las instrucciones a continuación:
+
+6. Haz clic en la carpeta que deseas utilizar para la landing page.
+7. En el lado derecho de la pantalla haz clic en `edit`.
+8. En el campo `Search Context (Default)`, ingresa los parámetros de búsqueda que deseas aplicar a la página. Para mostrar, por ejemplo, productos de la categoría `111`, de la marca `222` y con la especificación `333`, utiliza el siguiente valor: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
+9. Haz clic en `Save Folder`.
+10. Accede a la URL de la carpeta configurada y verifica si la página muestra los productos esperados. La landing page estará disponible en la URL `https://www.{accountName}.com/{landing-page}`, donde `{accountName}` es el nombre de tu tienda y `{landing-page}` es el nombre de la carpeta en el CMS con el contexto de búsqueda configurado.
+
+### Configurar contexto de búsqueda en una página nueva
+
+Después de hacer clic en la carpeta raíz (`/`) sigue las instrucciones a continuación:
+
+6. En el lado derecho de la pantalla haz clic en `new folder`.
+7. Llena los campos según se describe a continuación:
+   - **Folder Name:** ruta de la URL.
+   - **Marketing Context (Default):** define si se puede acceder a la página mediante [parámetros UTM](https://help.vtex.com/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium). Este campo es opcional.
+   - **Search Context (Default):** agrega parámetros de búsqueda. Para mostrar, por ejemplo, productos de la categoría `111`, de la marca `222` y con la especificación `333`, utiliza el siguiente valor: `fq=C:111&fq=B:222&fq=spec_fct_1:333`.
+   - **Protocol:** define el protocolo de comunicación entre un servidor web y un navegador web. Recomendado: `HTTPS`.
+   - **Cache Type:** define el comportamiento de almacenamiento en caché del navegador. Recomendado: `Local and Remote`.
+   - **Authentication Required?:** define si se podrá acceder a la página solamente después de la autenticación del usuario. Si esta opción está activada, solo los usuarios autenticados podrán acceder a la página.
+8. Haz clic en `Save Folder` para guardar la nueva página.
+9. Accede a la URL de la carpeta configurada y verifica si la página muestra los productos esperados. La landing page estará disponible en la URL `https://www.{accountName}.com/{landing-page}`, donde `{accountName}` es el nombre de tu tienda y `{landing-page}` es el nombre de la carpeta creada en el CMS con el contexto de búsqueda configurado.

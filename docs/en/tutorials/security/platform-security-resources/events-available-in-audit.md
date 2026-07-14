@@ -192,6 +192,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | CREATE_GIFT_CARD_CANCELLATION | Gift card cancellation record. | Gift card ID. |
 | CREATE_GIFT_CARD_SETTLEMENT | Gift card settlement record. | Gift card ID. |
 | INSERT_GIFT_CARD_CREDITS | Added credit to gift card. | Gift card ID. |
+| GET_UNMASKED_PII | Viewed unmasked personally identifiable information (PII). | Gift card ID. |
 ## Checkout
 
 | Action | Event description | Event details |

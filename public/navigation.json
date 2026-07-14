@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "July",
+                "es": "Julio",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "2026-july",
+                "es": "2026-julio",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New ROAS calculation methodology for Sponsored Products",
+                    "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
+                    "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
+                  },
+                  "slug": {
+                    "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
+                    "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
+                    "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "June",
                 "es": "Junio",
                 "pt": "Junho"
@@ -37,6 +83,51 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Pick and Pack: In-store pickup confirmation with token",
+                    "es": "Pick and Pack: Confirmación de recogida en tienda con token",
+                    "pt": "Pick and Pack: confirmação de retirada em loja com token"
+                  },
+                  "slug": {
+                    "en": "2026-06-25-pick-and-pack-in-store-pickup-confirmation-with-token",
+                    "es": "2026-06-25-pick-and-pack-confirmacion-de-recogida-en-tienda-con-token",
+                    "pt": "2026-06-25-pick-and-pack-confirmacao-de-retirada-em-loja-com-token"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Localization improvements in Pick and Pack",
+                    "es": "Optimizaciones de localización en Pick and Pack",
+                    "pt": "Melhorias de localização no Pick and Pack"
+                  },
+                  "slug": {
+                    "en": "2026-06-24-localization-improvements-in-pick-and-pack",
+                    "es": "2026-06-24-mejoras-de-localizacion-en-pick-and-pack",
+                    "pt": "2026-06-24-melhorias-de-localizacao-no-pick-and-pack"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode: New name for the Mode-off feature",
+                    "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
+                    "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
+                  },
+                  "slug": {
+                    "en": "2026-06-22-contingency-mode-new-name-for-the-mode-off-feature",
+                    "es": "2026-06-22-contingency-mode-nuevo-nombre-de-la-funcionalidad-mode-off",
+                    "pt": "2026-06-22-contigency-mode-novo-nome-da-funcionalidade-mode-off"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "New events available in Audit",
@@ -11235,12 +11326,12 @@
                 {
                   "name": {
                     "en": "1. Introduction to Account Management",
-                    "es": "1. Introducción a la Gestión de Cuentas",
+                    "es": "1. Introducción a Gestión de la cuenta",
                     "pt": "1. Introdução ao Gerenciamento da Conta"
                   },
                   "slug": {
-                    "en": "placeholder-introduction-to-account-management",
-                    "es": "placeholder-introduccion-a-la-gestion-de-cuentas",
+                    "en": "introduction-to-account-management",
+                    "es": "introduccion-a-la-gestion-de-cuentas",
                     "pt": "introducao-ao-gerenciamento-da-conta"
                   },
                   "origin": "",
@@ -11249,13 +11340,13 @@
                 },
                 {
                   "name": {
-                    "en": "2. Users and Roles",
-                    "es": "2. Usuarios y Roles",
+                    "en": "2. Users and roles",
+                    "es": "2. Usuarios y roles",
                     "pt": "2. Usuários e perfis de acesso"
                   },
                   "slug": {
-                    "en": "placeholder-users-and-roles",
-                    "es": "placeholder-usuarios-y-roles",
+                    "en": "users-and-roles",
+                    "es": "usuarios-y-roles",
                     "pt": "usuarios-e-perfis-de-acesso"
                   },
                   "origin": "",
@@ -11264,13 +11355,13 @@
                 },
                 {
                   "name": {
-                    "en": "3. Authentication and Security",
-                    "es": "3. Autenticación y Seguridad",
+                    "en": "3. Authentication and security",
+                    "es": "3. Autenticación y seguridad",
                     "pt": "3. Autenticação e segurança"
                   },
                   "slug": {
-                    "en": "placeholder-authentication-and-security",
-                    "es": "placeholder-autenticacion-y-seguridad",
+                    "en": "authentication-and-security",
+                    "es": "autenticacion-y-seguridad",
                     "pt": "autenticacao-e-seguranca"
                   },
                   "origin": "",
@@ -11279,13 +11370,13 @@
                 },
                 {
                   "name": {
-                    "en": "4. API Keys for Integrations",
-                    "es": "4. Claves de API para Integraciones",
+                    "en": "4. API keys for integrations",
+                    "es": "4. Claves de API para integraciones",
                     "pt": "4. Chaves de API para integrações"
                   },
                   "slug": {
-                    "en": "placeholder-api-keys-for-integrations",
-                    "es": "placeholder-claves-de-api-para-integraciones",
+                    "en": "api-keys-for-integrations",
+                    "es": "claves-de-api-para-integraciones",
                     "pt": "chaves-de-api-para-integracoes"
                   },
                   "origin": "",
@@ -17368,6 +17459,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring authentication methods by organizational unit",
+                    "es": "Configurar métodos de autenticación por unidad organizativa",
+                    "pt": "Configurar métodos de autenticação por unidade organizacional"
+                  },
+                  "slug": {
+                    "en": "configuring-authentication-methods-by-organizational-unit",
+                    "es": "configurar-metodos-de-autenticacion-por-unidad-organizativa",
+                    "pt": "configurar-metodos-de-autenticacao-por-unidade-organizacional"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contract settings",
                     "es": "Configuración del contrato",
                     "pt": "Configurações do contrato"
@@ -17376,6 +17482,21 @@
                     "en": "contract-settings",
                     "es": "configuraciones-del-contrato",
                     "pt": "configuracoes-do-contrato"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Enable login for the organization via an external identity provider (IdP)",
+                    "es": "Activar inicio de sesión en la organización mediante proveedor de identidad (IdP) externo",
+                    "pt": "Habilitar login na organização via provedor de identidade (IdP) externo"
+                  },
+                  "slug": {
+                    "en": "enable-login-for-the-organization-via-an-external-identity-provider-idp",
+                    "es": "activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo",
+                    "pt": "habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19285,6 +19406,82 @@
             },
             {
               "name": {
+                "en": "Import and export",
+                "es": "Importación y exportación",
+                "pt": "Importação e exportação"
+              },
+              "slug": {
+                "en": "import-and-export-subcategory",
+                "es": "importacion-y-exportacion-subcategoria",
+                "pt": "importacao-e-exportacao-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Importing and exporting product and SKU images using a spreadsheet",
+                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
+                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting product specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
+                    "pt": "Importar e exportar especificações de produtos via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting products and SKUs using a spreadsheet",
+                    "es": "Importar y exportar productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar produtos e SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
+                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting SKU specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
+                    "pt": "Importar e exportar especificações de SKUs via planilha"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Custom product attributes",
                 "es": "Campos personalizados",
                 "pt": "Campos personalizados"
@@ -19382,82 +19579,6 @@
                     "en": "what-is-an-attachment",
                     "es": "que-es-un-anexo",
                     "pt": "o-que-e-um-anexo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Import and export",
-                "es": "Importación y exportación",
-                "pt": "Importação e exportação"
-              },
-              "slug": {
-                "en": "import-and-export-subcategory",
-                "es": "importacion-y-exportacion-subcategoria",
-                "pt": "importacao-e-exportacao-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Importing and exporting product and SKU images using a spreadsheet",
-                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
-                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
-                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product specifications using a spreadsheet",
-                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
-                    "pt": "Importar e exportar especificações de produtos via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
-                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
-                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting products and SKUs using a spreadsheet",
-                    "es": "Importar y exportar productos y SKUs mediante plantilla",
-                    "pt": "Importar e exportar produtos e SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
-                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting SKU specifications using a spreadsheet",
-                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
-                    "pt": "Importar e exportar especificações de SKUs via planilha"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
-                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
-                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20715,6 +20836,21 @@
                     "en": "managing-versions-and-branches",
                     "es": "gestionando-versiones-y-branches",
                     "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Version history",
+                    "es": "Historial de versiones",
+                    "pt": "Histórico de versões"
+                  },
+                  "slug": {
+                    "en": "cms-version-history",
+                    "es": "historial-de-versiones",
+                    "pt": "historico-de-versoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23793,6 +23929,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Kit",
+                    "es": "Mercado Libre Kit",
+                    "pt": "Mercado Livre Kit"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-kit",
+                    "es": "mercado-libre-kit",
+                    "pt": "mercado-livre-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Promotions Center",
                     "es": "Central de promociones Mercado Libre",
                     "pt": "Central de Promoções Mercado Livre"
@@ -24913,21 +25064,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Analytics",
-                    "es": "Analytics",
-                    "pt": "Analytics"
-                  },
-                  "slug": {
-                    "en": "analytics",
-                    "es": "analytics",
-                    "pt": "analytics"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Explained Search",
                     "es": "Explicación de Búsqueda",
                     "pt": "Explicação da busca"
@@ -24951,6 +25087,21 @@
                     "en": "indexing-history",
                     "es": "historial-de-indexacion",
                     "pt": "historico-da-indexacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search - Analytics",
+                    "es": "Intelligent Search - Analytics",
+                    "pt": "Intelligent Search - Analytics"
+                  },
+                  "slug": {
+                    "en": "intelligent-search-analytics",
+                    "es": "intelligent-search-analytics",
+                    "pt": "intelligent-search-analytics"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27342,6 +27493,37 @@
             },
             {
               "name": {
+                "en": "Configurações de Pagamentos",
+                "es": "Configurações de Pagamentos",
+                "pt": "Configurações de Pagamentos"
+              },
+              "slug": {
+                "en": "configuracoes-de-pagamentos",
+                "es": "configuracoes-de-pagamentos",
+                "pt": "configurações-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Configurar pagamento com Paguelofacil",
+                    "en": "Configurar pagamento com Paguelofacil",
+                    "es": "Configurar pagamento com Paguelofacil"
+                  },
+                  "slug": {
+                    "pt": "configurar-pagamento-com-paguelofacil",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Payment Settings",
                 "es": "Configuración de Pagos",
                 "pt": "Configurações de Pagamentos"
@@ -27881,21 +28063,6 @@
                 },
                 {
                   "name": {
-                    "en": "Mode-Off: FAQ",
-                    "es": "Mode-Off: FAQ",
-                    "pt": "Mode-Off: FAQ"
-                  },
-                  "slug": {
-                    "en": "mode-off-faq",
-                    "es": "mode-off-faq",
-                    "pt": "mode-off-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "​​Payments in VTEX marketplaces",
                     "es": "Pagos en los marketplaces VTEX",
                     "pt": "Pagamentos em marketplaces VTEX"
@@ -28196,6 +28363,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with actX",
+                    "es": "Configurar pago con actX",
+                    "pt": "Configurar pagamento com actX"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actx",
+                    "es": "configurar-pago-con-actx",
+                    "pt": "configurar-pagamento-com-actx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with actX-v2",
+                    "es": "Configurar pago con actX-v2",
+                    "pt": "Configurar pagamento com actX-v2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-actxv2",
+                    "es": "configurar-pago-con-actxv2",
+                    "pt": "configurar-pagamento-com-actxv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with aCuotaz",
                     "es": "Configurar pago con aCuotaz",
                     "pt": "Configurar pagamento com aCuotaz"
@@ -28234,6 +28431,36 @@
                     "en": "setting-up-payments-with-aditum",
                     "es": "configurar-pago-con-aditum",
                     "pt": "configurar-pagamento-com-aditum"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with AdyenV2",
+                    "es": "Configurar pago con AdyenV2",
+                    "pt": "Configurar pagamento com AdyenV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-adyenv2",
+                    "es": "configurar-pago-con-adyenv2",
+                    "pt": "configurar-pagamento-com-adyenv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Affirm",
+                    "es": "Configurar pago con Affirm",
+                    "pt": "Configurar pagamento com Affirm"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-affirm",
+                    "es": "configurar-pago-con-affirm",
+                    "pt": "configurar-pagamento-com-affirm"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28324,6 +28551,21 @@
                     "en": "setting-up-payments-with-bamboo-payments",
                     "es": "configurar-pago-con-bamboo-payments",
                     "pt": "configurar-pagamento-com-bamboo-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Bancard",
+                    "es": "Configurar pago con Bancard",
+                    "pt": "Configurar pagamento com Bancard"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bancard",
+                    "es": "configurar-pago-con-bancard",
+                    "pt": "configurar-pagamento-com-bancard"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28504,6 +28746,21 @@
                     "en": "setting-up-payments-with-braintree-wallet",
                     "es": "configurar-pago-con-braintree-wallet",
                     "pt": "configurar-pagamento-com-braintree-wallet"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with BraspagV2",
+                    "es": "Configurar pago con BraspagV2",
+                    "pt": "Configurar pagamento com BraspagV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-braspagv2",
+                    "es": "configurar-pago-con-braspagv2",
+                    "pt": "configurar-pagamento-com-braspagv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28759,6 +29016,51 @@
                     "en": "setting-up-payments-with-digital-river-v2",
                     "es": "configurar-pago-con-digital-river-v2",
                     "pt": "configurar-pagamento-com-digital-river-v2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Directa",
+                    "es": "Configurar pago con Directa",
+                    "pt": "Configurar pagamento com Directa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directa",
+                    "es": "configurar-pago-con-directa",
+                    "pt": "configurar-pagamento-com-directa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Directo",
+                    "es": "Configurar pago con Directo",
+                    "pt": "Configurar pagamento com Directo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directo",
+                    "es": "configurar-pago-con-directo",
+                    "pt": "configurar-pagamento-com-directo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Divibank",
+                    "es": "Configurar pago con Divibank",
+                    "pt": "Configurar pagamento com Divibank"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-divibank",
+                    "es": "configurar-pago-con-divibank",
+                    "pt": "configurar-pagamento-com-divibank"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29081,6 +29383,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Getnet Argentina",
+                    "es": "Configurar pago con Getnet Argentina",
+                    "pt": "Configurar pagamento com Getnet Argentina"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-getnet-argentina",
+                    "es": "configurar-pago-con-getnet-argentina",
+                    "pt": "configurar-pagamento-com-getnet-argentina"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Getnet Chile",
                     "es": "Configurar pago con Getnet Chile",
                     "pt": "Configurar pagamento com Getnet Chile"
@@ -29089,6 +29406,36 @@
                     "en": "setting-up-payments-with-getnet-chile",
                     "es": "configurar-pago-con-getnet-chile",
                     "pt": "configurar-pagamento-com-getnet-chile"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPay-Redeban",
+                    "es": "Configurar pago con GlobalPay-Redeban",
+                    "pt": "Configurar pagamento com GlobalPay-Redeban"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpay-redeban",
+                    "es": "configurar-pago-con-globalpay-redeban",
+                    "pt": "configurar-pagamento-com-globalpay-redeban"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPayments",
+                    "es": "Configurar pago con GlobalPayments",
+                    "pt": "Configurar pagamento com GlobalPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpayments",
+                    "es": "configurar-pago-con-globalpayments",
+                    "pt": "configurar-pagamento-com-globalpayments"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29201,6 +29548,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Kaiowa",
+                    "es": "Configurar pago con Kaiowa",
+                    "pt": "Configurar pagamento com Kaiowa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kaiowa",
+                    "es": "configurar-pago-con-kaiowa",
+                    "pt": "configurar-pagamento-com-kaiowa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Khipu",
                     "es": "Configurar pago con Khipu",
                     "pt": "Configurar pagamento com Khipu"
@@ -29284,6 +29646,21 @@
                     "en": "setting-up-payments-with-kueski-pay",
                     "es": "configurar-pago-con-kueski-pay",
                     "pt": "configurar-pagamento-com-kueski-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with KueskiV2",
+                    "es": "Configurar pago con KueskiV2",
+                    "pt": "Configurar pagamento com KueskiV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kueskiv2",
+                    "es": "configurar-pago-con-kueskiv2",
+                    "pt": "configurar-pagamento-com-kueskiv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29464,6 +29841,21 @@
                     "en": "setting-up-payments-with-msc-payment",
                     "es": "configurar-pago-con-msc-payment",
                     "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Multipago",
+                    "es": "Configurar pago con Multipago",
+                    "pt": "Configurar pagamento com Multipago"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-multipago",
+                    "es": "configurar-pago-con-multipago",
+                    "pt": "configurar-pagamento-com-multipago"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29726,6 +30118,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Pagoplux",
+                    "es": "Configurar pago con Pagoplux",
+                    "pt": "Configurar pagamento com Pagoplux"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagoplux",
+                    "es": "configurar-pago-con-pagoplux",
+                    "pt": "configurar-pagamento-com-pagoplux"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with PagoWebPE",
+                    "es": "Configurar pago con PagoWebPE",
+                    "pt": "Configurar pagamento com PagoWebPE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagowebpe",
+                    "es": "configurar-pago-con-pagowebpe",
+                    "pt": "configurar-pagamento-com-pagowebpe"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Parcelex",
                     "es": "Configurar pago con Parcelex",
                     "pt": "Configurar pagamento com Parcelex"
@@ -29891,6 +30313,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Payválida",
+                    "es": "Configurar pago con Payválida",
+                    "pt": "Configurar pagamento com Payválida"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-payvalida",
+                    "es": "configurar-pago-con-payvalida",
+                    "pt": "configurar-pagamento-com-payvalida"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Payway",
                     "es": "Configurar pago con Payway",
                     "pt": "Configurar pagamento com Payway"
@@ -29929,6 +30366,21 @@
                     "en": "setting-up-payments-with-picpay",
                     "es": "configurar-pago-con-picpay",
                     "pt": "configurar-pagamento-com-picpay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Pideky Escala",
+                    "es": "Configurar pago con Pideky Escala",
+                    "pt": "Configurar pagamento com Pideky Escala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pideky-escala",
+                    "es": "configurar-pago-con-pideky-escala",
+                    "pt": "configurar-pagamento-com-pideky-escala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31191,6 +31643,21 @@
                     "en": "checking-for-errors-or-problems-in-a-transaction",
                     "es": "comprobar-errores-o-problemas-en-una-transaccion",
                     "pt": "verificar-erros-ou-problemas-em-uma-transacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Contingency Mode",
+                    "es": "Contingency Mode",
+                    "pt": "Contingency Mode"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35857,7 +36324,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create landing pages with customized URLs",
+                    "en": "How to create landing pages with custom URLs",
                     "es": "Cómo crear landing pages con URLs personalizadas",
                     "pt": "Como criar landing pages com URLs customizadas"
                   },
@@ -36383,8 +36850,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Create active agents",
-                    "es": "Creando agentes activos",
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
                     "pt": "Criar automações do CX"
                   },
                   "slug": {
@@ -36398,8 +36865,8 @@
                 },
                 {
                   "name": {
-                    "en": "Introduction to Agentic CX",
-                    "es": "Introducción a Agentic CX",
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
                     "pt": "Introdução ao CX"
                   },
                   "slug": {
@@ -36962,6 +37429,21 @@
             },
             {
               "name": {
+                "en": "Extensibility in VTEX Sales App",
+                "es": "Extensibilidad en VTEX Sales App",
+                "pt": "Extensibilidade no VTEX Sales App"
+              },
+              "slug": {
+                "en": "extensibility-in-vtex-sales-app",
+                "es": "extensibilidad-en-vtex-sales-app",
+                "pt": "extensibilidade-no-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37015,21 +37497,6 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "VTEX Sales App Extensibility",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "vtex-sales-app-extensibility",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
               },
               "origin": "",
               "type": "markdown",
@@ -37504,39 +37971,9 @@
                 },
                 {
                   "name": {
-                    "en": "Live Desk: Human service dashboard",
-                    "es": "Live Desk: Dashboard",
-                    "pt": "Live Desk: Dashboard"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-live-desk-dashboard",
-                    "es": "dashboard-de-live-desk",
-                    "pt": "dashboard-do-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Manage Live Desk",
-                    "es": "Configurar el Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "manage-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Using active triggering of flows",
                     "es": "Utilizando el disparo activo de flujos",
-                    "pt": "Utilizando disparo ativo de fluxos"
+                    "pt": "Utilizando o disparo ativo de fluxos"
                   },
                   "slug": {
                     "en": "using-active-triggering-of-flows",
@@ -38528,14 +38965,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "General project settings",
-                    "es": "Configuraciones generales de proyecto",
-                    "pt": "Configurações gerais do projeto"
+                    "en": "Configure Live Desk",
+                    "es": "Configure Live Desk",
+                    "pt": "Configurar o Live Desk"
                   },
                   "slug": {
-                    "en": "general-project-settings",
-                    "es": "configuraciones-generales-de-proyecto",
-                    "pt": "configuracoes-gerais-do-projeto"
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38543,8 +38980,23 @@
                 },
                 {
                   "name": {
-                    "en": "Manage VTEX CX Platform Members",
-                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "en": "CX Platform Settings: Workspace",
+                    "es": "Configuración de CX Platform: Espacio de trabajo",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
+                  },
+                  "slug": {
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing VTEX CX Platform members",
+                    "es": "Gestionar miembros de VTEX CX Platform",
                     "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
@@ -38562,12 +39014,58 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Insights: Dashboard de atendimento humano"
+                "pt": "Analytics"
+              },
+              "slug": {
+                "en": "analytics",
+                "es": "analytics",
+                "pt": "analytics"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Analytics: Create custom dashboard",
+                    "es": "Analytics: Crear dashboard personalizado",
+                    "pt": "Analytics: Criar dashboard personalizado"
+                  },
+                  "slug": {
+                    "en": "create-analytics-dashboard",
+                    "es": "crear-dashboard-personalizado",
+                    "pt": "analytics-criar-dashboard-personalizado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Analytics: Support metrics",
+                    "es": "Analytics: Métricas de atención",
+                    "pt": "Analytics: Métricas de atendimento"
+                  },
+                  "slug": {
+                    "en": "analytics-support-metrics",
+                    "es": "analytics-metricas-de-atencion",
+                    "pt": "analytics-metricas-de-atendimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Analytics",
+                "es": "Analytics",
+                "pt": "Analytics"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
-                "pt": "vtex-cx-platform-analytics"
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -38583,6 +39081,37 @@
                 "en": "code-action-first-steps",
                 "es": "primeros-pasos-code-action",
                 "pt": "primeiros-passos-code-action"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Retail media",
+            "es": "Retail media",
+            "pt": "Retail media"
+          },
+          "slug": {
+            "en": "retail-media",
+            "es": "retail-media",
+            "pt": "retail-media"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "VTEX Ads metrics and attribution",
+                "es": "Métricas y atribución de VTEX Ads",
+                "pt": "Métricas e atribuição do VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-metrics-and-attribution",
+                "es": "metricas-y-atribucion-de-vtex-ads",
+                "pt": "metricas-e-atribuicao-do-vtex-ads"
               },
               "origin": "",
               "type": "markdown",
@@ -39011,13 +39540,13 @@
             {
               "name": {
                 "en": "Issue with Node Version Compatibility",
-                "es": "Problema de compatibilidad con la versión de Node",
-                "pt": "Problema com a compatibilidade de versão do Node"
+                "es": "Problema de compatibilidad de versiones de Node.",
+                "pt": "Problema de compatibilidade de versão do Node.js"
               },
               "slug": {
                 "en": "issue-with-node-version-compatibility",
-                "es": "problema-de-compatibilidad-con-la-version-de-node",
-                "pt": "problema-com-a-compatibilidade-de-versao-do-node"
+                "es": "problema-de-compatibilidad-de-versiones-de-node",
+                "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
               },
               "origin": "",
               "type": "markdown",
@@ -39499,6 +40028,21 @@
                 "en": "incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration",
                 "es": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
                 "pt": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Item quantity duplicated when trying to edit quotes with items split by promotions",
+                "es": "Se duplica la cantidad de artículos al intentar editar cotizaciones con artículos divididos por promociones.",
+                "pt": "A quantidade de itens foi duplicada ao tentar editar orçamentos com itens divididos por promoções."
+              },
+              "slug": {
+                "en": "item-quantity-duplicated-when-trying-to-edit-quotes-with-items-split-by-promotions",
+                "es": "se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones",
+                "pt": "a-quantidade-de-itens-foi-duplicada-ao-tentar-editar-orcamentos-com-itens-divididos-por-promocoes"
               },
               "origin": "",
               "type": "markdown",
@@ -40610,6 +41154,21 @@
                 "en": "catalog-integration-xml-fiscal-code-field-not-rendering",
                 "es": "el-campo-de-codigo-fiscal-xml-de-la-integracion-de-catalogos-no-se-muestra",
                 "pt": "o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Catalog Kit Insertion Allows Circular Reference",
+                "es": "La inserción del kit de catálogo permite una referencia circular.",
+                "pt": "A inserção do kit de catálogo permite referência circular."
+              },
+              "slug": {
+                "en": "catalog-kit-insertion-allows-circular-reference",
+                "es": "la-insercion-del-kit-de-catalogo-permite-una-referencia-circular",
+                "pt": "a-insercao-do-kit-de-catalogo-permite-referencia-circular"
               },
               "origin": "",
               "type": "markdown",
@@ -42778,13 +43337,13 @@
             {
               "name": {
                 "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
-                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
-                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+                "es": "El botón de publicación no responde de forma intermitente en la creación/actualización de productos en el Portal del vendedor.",
+                "pt": "O botão \"Publicar\" apresenta falhas intermitentes na criação/atualização de produtos no Seller Portal."
               },
               "slug": {
                 "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
-                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
-                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+                "es": "el-boton-de-publicacion-no-responde-de-forma-intermitente-en-la-creacionactualizacion-de-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-apresenta-falhas-intermitentes-na-criacaoatualizacao-de-produtos-no-seller-portal"
               },
               "origin": "",
               "type": "markdown",
@@ -43100,6 +43659,21 @@
                 "en": "sku-insert-file-api-is-not-responding-with-the-text-property",
                 "es": "la-api-de-insercion-de-archivos-de-sku-no-responde-con-la-propiedad-texto",
                 "pt": "a-api-sku-insert-file-nao-esta-respondendo-com-a-propriedade-text"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SKU Insert FIle API may generate duplicate images if it fails",
+                "es": "La API de inserción de archivos SKU puede generar imágenes duplicadas si falla.",
+                "pt": "A API de Inserção de Arquivos SKU pode gerar imagens duplicadas se falhar."
+              },
+              "slug": {
+                "en": "sku-insert-file-api-may-generate-duplicate-images-if-it-fails",
+                "es": "la-api-de-insercion-de-archivos-sku-puede-generar-imagenes-duplicadas-si-falla",
+                "pt": "a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar"
               },
               "origin": "",
               "type": "markdown",
@@ -44565,13 +45139,13 @@
             {
               "name": {
                 "en": "Carts created from order replacement do not receive promotions correctly",
-                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente",
-                "pt": "Os carrinhos criados a partir da substituição de pedidos não recebem as promoções corretamente"
+                "es": "Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.",
+                "pt": "Carrinhos criados a partir da substituição de pedidos não recebem promoções corretamente."
               },
               "slug": {
                 "en": "carts-created-from-order-replacement-do-not-receive-promotions-correctly",
                 "es": "los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente",
-                "pt": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente"
+                "pt": "carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -45509,14 +46083,14 @@
             },
             {
               "name": {
-                "en": "Error in the maximum quantity field of the same SKU in the Cart",
                 "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
-                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho"
+                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho",
+                "en": "Error en el campo de cantidad máxima de la misma SKU en la Cesta"
               },
               "slug": {
-                "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
                 "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
-                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho"
+                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -45766,12 +46340,12 @@
               "name": {
                 "en": "Interacting with the payment component while is still in a loading state sends the wrong payment option",
                 "es": "Si se interactúa con el componente de pago mientras aún se está cargando, se envía una opción de pago incorrecta",
-                "pt": "Interagir com o componente de pagamento enquanto ele ainda está carregando faz com que seja enviada a opção de pagamento errada"
+                "pt": "Interagir com o componente de pagamento enquanto ele ainda está em estado de carregamento envia a opção de pagamento incorreta."
               },
               "slug": {
                 "en": "interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option",
                 "es": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
-                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-carregando-faz-com-que-seja-enviada-a-opcao-de-pagamento-errada"
+                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta"
               },
               "origin": "",
               "type": "markdown",
@@ -46687,6 +47261,21 @@
                 "en": "pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow",
                 "es": "las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra",
                 "pt": "as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Place Order APIs don't respect the maximum quantity of the same SKU in the cart configuration",
+                "es": "Las API para realizar pedidos no respetan la cantidad máxima del mismo SKU en la configuración del carrito.",
+                "pt": "As APIs de \"Finalizar Pedido\" não respeitam a quantidade máxima do mesmo SKU na configuração do carrinho."
+              },
+              "slug": {
+                "en": "place-order-apis-dont-respect-the-maximum-quantity-of-the-same-sku-in-the-cart-configuration",
+                "es": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
+                "pt": "as-apis-de-finalizar-pedido-nao-respeitam-a-quantidade-maxima-do-mesmo-sku-na-configuracao-do-carrinho"
               },
               "origin": "",
               "type": "markdown",
@@ -48376,6 +48965,21 @@
             },
             {
               "name": {
+                "en": "oneOf Variant Switch Erases Field Data and Defaults to First Variant on Load",
+                "es": "El interruptor de variante oneOf borra los datos del campo y toma por defecto la primera variante al cargar.",
+                "pt": "A opção `oneOfVariant` apaga os dados do campo e retorna à primeira variante como padrão ao carregar o jogo."
+              },
+              "slug": {
+                "en": "oneof-variant-switch-erases-field-data-and-defaults-to-first-variant-on-load",
+                "es": "el-interruptor-de-variante-oneof-borra-los-datos-del-campo-y-toma-por-defecto-la-primera-variante-al-cargar",
+                "pt": "a-opcao-oneofvariant-apaga-os-dados-do-campo-e-retorna-a-primeira-variante-como-padrao-ao-carregar-o-jogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Ordination of images when uploading a new version not working",
                 "es": "La ordenación de las imágenes al subir una nueva versión no funciona",
                 "pt": "A ordenação de imagens ao fazer o upload de uma nova versão não está funcionando"
@@ -48414,6 +49018,21 @@
                 "en": "redirects-module-allows-the-inclusion-of-redirects-without-a-predetermined-pattern",
                 "es": "el-modulo-redirects-permite-incluir-redirecciones-sin-un-patron-predeterminado",
                 "pt": "o-modulo-redirects-permite-a-inclusao-de-redirecionamentos-sem-um-padrao-predeterminado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Removing an update from a release can create a draft with incomplete content",
+                "es": "Eliminar una actualización de una versión puede crear un borrador con contenido incompleto.",
+                "pt": "Remover uma atualização de uma versão pode criar um rascunho com conteúdo incompleto."
+              },
+              "slug": {
+                "en": "removing-an-update-from-a-release-can-create-a-draft-with-incomplete-content",
+                "es": "eliminar-una-actualizacion-de-una-version-puede-crear-un-borrador-con-contenido-incompleto",
+                "pt": "remover-uma-atualizacao-de-uma-versao-pode-criar-um-rascunho-com-conteudo-incompleto"
               },
               "origin": "",
               "type": "markdown",
@@ -48564,6 +49183,21 @@
                 "en": "stucked-releasespublications-on-hcms",
                 "es": "comunicadospublicaciones-atascados-en-hcms",
                 "pt": "lancamentospublicacoes-bloqueados-no-hcms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "updateThemeIds mutation returns 504 but content migration completes successfully in background",
+                "es": "La mutación «updateThemeIds» devuelve un error 504, pero la migración de contenido se completa con éxito en segundo plano",
+                "pt": "A mutação `updateThemeIds` retorna um erro 504, mas a migração de conteúdo é concluída com sucesso em segundo plano"
+              },
+              "slug": {
+                "en": "updatethemeids-mutation-returns-504-but-content-migration-completes-successfully-in-background",
+                "es": "la-mutacion-updatethemeids-devuelve-un-error-504-pero-la-migracion-de-contenido-se-completa-con-exito-en-segundo-plano",
+                "pt": "a-mutacao-updatethemeids-retorna-um-erro-504-mas-a-migracao-de-conteudo-e-concluida-com-sucesso-em-segundo-plano"
               },
               "origin": "",
               "type": "markdown",
@@ -49165,21 +49799,6 @@
                 "en": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
                 "es": "amazon-la-interfaz-de-usuario-de-listing-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-el-tipo-de-producto-vitamin",
                 "pt": "a-interface-do-usuario-da-listagem-da-amazon-nao-permite-salvar-e-enviar-e-bloqueia-a-publicacao-do-sku-para-o-tipo-de-produto-vitamina"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Amazon Order cancellation flow",
-                "es": "Amazon Proceso de cancelación de pedidos",
-                "pt": "Amazon Processo de cancelamento de pedidos"
-              },
-              "slug": {
-                "en": "amazon-order-cancellation-flow",
-                "es": "amazon-proceso-de-cancelacion-de-pedidos",
-                "pt": "amazon-processo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -50387,21 +51006,6 @@
             },
             {
               "name": {
-                "en": "Netshoes - Main Image not respected",
-                "es": "Imagen principal no respetada",
-                "pt": "Netshoes - Imagem principal não respeitada"
-              },
-              "slug": {
-                "en": "netshoes-main-image-not-respected",
-                "es": "imagen-principal-no-respetada",
-                "pt": "netshoes-imagem-principal-nao-respeitada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order approved in the marketplace but not integrated into VTEX",
                 "es": "Orden aprobada en el marketplace pero no integrada en VTEX",
                 "pt": "Pedido aprovado no marketplace mas não integrado à VTEX"
@@ -50522,21 +51126,6 @@
             },
             {
               "name": {
-                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
-                "es": "Shopee Sincronización de catálogo bloqueada por exceso de atributos de variación",
-                "pt": "Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação"
-              },
-              "slug": {
-                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-                "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
-                "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Shopee Error “The model_id is wrong or not related to this item”",
                 "es": "Shopee Error \"El model_id es incorrecto o no está relacionado con este artículo\"",
                 "pt": "Shopee Erro \"O model_id está errado ou não está relacionado a este item\""
@@ -50575,21 +51164,6 @@
                 "en": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
                 "es": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
                 "pt": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Shopee Freight value mismatch on seller logistics orders",
-                "es": "Shopee Discrepancia en el importe de los gastos de envío en los pedidos gestionados por el vendedor",
-                "pt": "Shopee Discrepância no valor do frete em pedidos de logística do vendedor"
-              },
-              "slug": {
-                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-                "es": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
-                "pt": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -52372,13 +52946,13 @@
             {
               "name": {
                 "en": "Indexing History page shows high volume of products with indexing delay",
-                "es": "La página «Historial de indexación» muestra un gran volumen de productos con retrasos en la indexación",
-                "pt": "A página \"Histórico de indexação\" mostra um grande volume de produtos com atraso na indexação"
+                "es": "La página de historial de indexación muestra un alto volumen de productos con retraso en la indexación.",
+                "pt": "A página de histórico de indexação mostra um grande volume de produtos com atraso na indexação."
               },
               "slug": {
                 "en": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
-                "es": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
-                "pt": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
+                "es": "la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion",
+                "pt": "a-pagina-de-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao"
               },
               "origin": "",
               "type": "markdown",
@@ -52424,6 +52998,21 @@
                 "en": "intelligent-search-cleanup-intermitently-failing",
                 "es": "la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente",
                 "pt": "falha-intermitente-na-limpeza-da-pesquisa-inteligente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Intelligent Search Facets hides selected parent facet in multiselect drill-down",
+                "es": "La función de búsqueda inteligente oculta la faceta principal seleccionada en la exploración en profundidad de selección múltiple.",
+                "pt": "A pesquisa inteligente de facetas oculta a faceta principal selecionada na seleção múltipla com detalhamento."
+              },
+              "slug": {
+                "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
+                "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
+                "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
               },
               "origin": "",
               "type": "markdown",
@@ -52716,6 +53305,21 @@
             },
             {
               "name": {
+                "en": "Price-based filters ignore Sales Channel and Regionalization context",
+                "es": "Los filtros basados ​​en precios ignoran el contexto del canal de ventas y la regionalización.",
+                "pt": "Os filtros baseados em preço ignoram o contexto de canal de vendas e regionalização."
+              },
+              "slug": {
+                "en": "pricebased-filters-ignore-sales-channel-and-regionalization-context",
+                "es": "los-filtros-basados-en-precios-ignoran-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+                "pt": "os-filtros-baseados-em-preco-ignoram-o-contexto-de-canal-de-vendas-e-regionalizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Prices from specific price tables are not considered when sorting or filtering products",
                 "es": "Los precios de las tablas de precios específicas no se tienen en cuenta al clasificar o filtrar los productos.",
                 "pt": "Os preços de tabelas de preços específicas não são considerados na classificação ou filtragem de produtos"
@@ -52739,6 +53343,21 @@
                 "en": "prioritization-by-products-keyword-not-considering-stopwords",
                 "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
                 "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product and SKU import fails for large size of spreadsheet file",
+                "es": "La importación de productos y SKU falla cuando el archivo de hoja de cálculo es de gran tamaño.",
+                "pt": "A importação de produtos e SKUs falha devido ao tamanho grande da planilha."
+              },
+              "slug": {
+                "en": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+                "es": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+                "pt": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha"
               },
               "origin": "",
               "type": "markdown",
@@ -52904,21 +53523,6 @@
                 "en": "refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app",
                 "es": "refactorizar-nuestro-flujo-de-restablecimiento-de-contrasena-para-llamar-a-la-nueva-mutacion-correspondiente-en-la-aplicacion-graphql",
                 "pt": "refatorar-nosso-fluxo-de-senhas-para-chamar-a-nova-mutacao-correspondente-no-aplicativo-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Regionalization or trade policies aren't considered while filtering or sorting items by price or discount",
-                "es": "Las políticas de regionalización o comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento",
-                "pt": "As políticas de regionalização ou comerciais não são levadas em conta ao filtrar ou classificar itens por preço ou desconto"
-              },
-              "slug": {
-                "en": "regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount",
-                "es": "las-politicas-de-regionalizacion-o-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
-                "pt": "as-politicas-de-regionalizacao-ou-comerciais-nao-sao-levadas-em-conta-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto"
               },
               "origin": "",
               "type": "markdown",
@@ -53241,6 +53845,36 @@
             },
             {
               "name": {
+                "en": "Sorting by discount ignores Sales Channel context",
+                "es": "La ordenación por descuento ignora el contexto del canal de ventas.",
+                "pt": "A ordenação por desconto ignora o contexto do canal de vendas."
+              },
+              "slug": {
+                "en": "sorting-by-discount-ignores-sales-channel-context",
+                "es": "la-ordenacion-por-descuento-ignora-el-contexto-del-canal-de-ventas",
+                "pt": "a-ordenacao-por-desconto-ignora-o-contexto-do-canal-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sorting Intelligent Search by price ignores Sales Channel and Regionalization context",
+                "es": "La ordenación de la búsqueda inteligente por precio ignora el contexto del canal de ventas y la regionalización.",
+                "pt": "A classificação da Busca Inteligente por preço ignora o canal de vendas e o contexto de regionalização."
+              },
+              "slug": {
+                "en": "sorting-intelligent-search-by-price-ignores-sales-channel-and-regionalization-context",
+                "es": "la-ordenacion-de-la-busqueda-inteligente-por-precio-ignora-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+                "pt": "a-classificacao-da-busca-inteligente-por-preco-ignora-o-canal-de-vendas-e-o-contexto-de-regionalizacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Specific characters removed from the filtered search URL",
                 "es": "Caracteres específicos eliminados de la URL de búsqueda filtrada",
                 "pt": "Caracteres específicos removidos do URL de pesquisa filtrado"
@@ -53377,13 +54011,13 @@
             {
               "name": {
                 "en": "Unsupported fields by the Intelligent Search API returning empty",
-                "es": "Campos no admitidos por la API de búsqueda inteligente que se devuelven vacíos",
-                "pt": "Campos não suportados pela Intelligent Search API retornando vazios"
+                "es": "Los campos no compatibles con la API de búsqueda inteligente devuelven un valor vacío.",
+                "pt": "Campos não suportados pela API de Busca Inteligente retornando vazios"
               },
               "slug": {
                 "en": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
-                "es": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-                "pt": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios"
+                "es": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+                "pt": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios"
               },
               "origin": "",
               "type": "markdown",
@@ -54301,6 +54935,21 @@
                 "en": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
                 "es": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
                 "pt": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -57149,13 +57798,13 @@
             {
               "name": {
                 "en": "Checkout orderPlaced Boleto Bank Invoice MOIP",
-                "es": "Orden de compraColocada Boleto Factura bancaria MOIP",
-                "pt": "Pedido de checkoutFatura de Boleto Bancário"
+                "es": "Orden de pago Factura bancaria Boleto realizada MOIP",
+                "pt": "Pedido de checkoutColocado Boleto Fatura Bancária MOIP"
               },
               "slug": {
                 "en": "checkout-orderplaced-boleto-bank-invoice-moip",
-                "es": "orden-de-compracolocada-boleto-factura-bancaria-moip",
-                "pt": "pedido-de-checkoutfatura-de-boleto-bancario"
+                "es": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
+                "pt": "pedido-de-checkoutcolocado-boleto-fatura-bancaria-moip"
               },
               "origin": "",
               "type": "markdown",
@@ -59131,6 +59780,21 @@
             },
             {
               "name": {
+                "en": "3DS2 Parameters not being validated",
+                "es": "Los parámetros de 3DS2 no se están validando.",
+                "pt": "Parâmetros 3DS2 não estão sendo validados"
+              },
+              "slug": {
+                "en": "3ds2-parameters-not-being-validated",
+                "es": "los-parametros-de-3ds2-no-se-estan-validando",
+                "pt": "parametros-3ds2-nao-estao-sendo-validados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
                 "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
                 "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
@@ -59147,13 +59811,13 @@
             {
               "name": {
                 "en": "Adyen 3DS2 double request generates payment authorization denial",
-                "es": "Una solicitud doble de Adyen 3DS2 provoca el rechazo de la autorización de pago",
-                "pt": "Uma solicitação dupla do Adyen 3DS2 gera uma recusa na autorização de pagamento"
+                "es": "Adyen 3DS2 genera una solicitud doble que deniega la autorización de pago.",
+                "pt": "A solicitação dupla do Adyen 3DS2 gera uma recusa de autorização de pagamento."
               },
               "slug": {
                 "en": "adyen-3ds2-double-request-generates-payment-authorization-denial",
-                "es": "una-solicitud-doble-de-adyen-3ds2-provoca-el-rechazo-de-la-autorizacion-de-pago",
-                "pt": "uma-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-na-autorizacao-de-pagamento"
+                "es": "adyen-3ds2-genera-una-solicitud-doble-que-deniega-la-autorizacion-de-pago",
+                "pt": "a-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-de-autorizacao-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -59253,12 +59917,12 @@
               "name": {
                 "en": "Bin sent does not match an associated Card brand",
                 "es": "La papelera enviada no coincide con una marca de tarjeta asociada",
-                "pt": "Lixeira enviada não corresponde a uma marca de cartão associada"
+                "pt": "O endereço enviado não corresponde a nenhuma bandeira de cartão associada."
               },
               "slug": {
                 "en": "bin-sent-does-not-match-an-associated-card-brand",
                 "es": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
-                "pt": "lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada"
+                "pt": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada"
               },
               "origin": "",
               "type": "markdown",
@@ -59409,6 +60073,21 @@
                 "en": "card-brands-incorrectly-processed-as-visa",
                 "es": "marcas-de-tarjetas-procesadas-incorrectamente-como-visa",
                 "pt": "marcas-de-cartao-processadas-incorretamente-como-visa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Card Security Code Null After Switching Payment Methods in Checkout",
+                "es": "El código de seguridad de la tarjeta aparece como «Nulo» tras cambiar de método de pago durante el proceso de pago",
+                "pt": "Código de segurança do cartão nulo após a alteração do método de pagamento na finalização da compra"
+              },
+              "slug": {
+                "en": "card-security-code-null-after-switching-payment-methods-in-checkout",
+                "es": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+                "pt": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -59679,6 +60358,21 @@
                 "en": "debit-payments-using-firstdata-connector-cannot-be-settled-due-to-an-error-in-the-transactionstate-field",
                 "es": "los-pagos-con-tarjeta-de-debito-que-utilizan-el-conector-de-firstdata-no-se-pueden-liquidar-debido-a-un-error-en-el-campo-transactionstate",
                 "pt": "os-pagamentos-por-debito-que-utilizam-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Decidir: Partial Refunds - Wrong amount is being refunded to the customers",
+                "es": "Decidir: Reembolsos parciales: se está reembolsando una cantidad incorrecta a los clientes.",
+                "pt": "Decisão: Reembolsos Parciais - O valor reembolsado aos clientes está incorreto."
+              },
+              "slug": {
+                "en": "decidir-partial-refunds-wrong-amount-is-being-refunded-to-the-customers",
+                "es": "decidir-reembolsos-parciales-se-esta-reembolsando-una-cantidad-incorrecta-a-los-clientes",
+                "pt": "decisao-reembolsos-parciais-o-valor-reembolsado-aos-clientes-esta-incorreto"
               },
               "origin": "",
               "type": "markdown",
@@ -60182,13 +60876,13 @@
             {
               "name": {
                 "en": "For debt with CieloV3 we are not respecting the status of the response",
-                "es": "Para la deuda con CieloV3 no estamos respetando el estado de la respuesta",
-                "pt": "Para a dívida com a CieloV3 não estamos respeitando o status da resposta"
+                "es": "Para deudas con CieloV3 no estamos respetando el estado de la respuesta.",
+                "pt": "Para dívidas com a CieloV3, não estamos respeitando o status da resposta."
               },
               "slug": {
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
-                "es": "para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
-                "pt": "para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
+                "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
+                "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
               },
               "origin": "",
               "type": "markdown",
@@ -60556,6 +61250,21 @@
             },
             {
               "name": {
+                "en": "Inconsistency in creating transactions when the affiliation processing the PSE payment method is switched",
+                "es": "Inconsistencia en la creación de transacciones cuando se cambia la afiliación que procesa el método de pago PSE.",
+                "pt": "Inconsistência na criação de transações quando a afiliação que processa o método de pagamento PSE é alterada."
+              },
+              "slug": {
+                "en": "inconsistency-in-creating-transactions-when-the-affiliation-processing-the-pse-payment-method-is-switched",
+                "es": "inconsistencia-en-la-creacion-de-transacciones-cuando-se-cambia-la-afiliacion-que-procesa-el-metodo-de-pago-pse",
+                "pt": "inconsistencia-na-criacao-de-transacoes-quando-a-afiliacao-que-processa-o-metodo-de-pagamento-pse-e-alterada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Inconsistency in payment method boleto bancário expiration dates",
                 "es": "Incongruencia en las fechas de vencimiento del boleto bancario",
                 "pt": "Inconsistência na forma de pagamento boleto bancário datas de expiração"
@@ -60684,21 +61393,6 @@
                 "en": "installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout",
                 "es": "los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago",
                 "pt": "as-parcelas-que-usam-credito-do-cliente-nao-sao-exibidas-como-uma-opcao-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Invalid fields: Card security code. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "es": "Campos no válidos: Código de seguridad de la tarjeta. SecurityCodeLength: 0 SecurityCodeIsNumeric: true",
-                "pt": "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
-              },
-              "slug": {
-                "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-                "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
-                "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
               },
               "origin": "",
               "type": "markdown",
@@ -61156,6 +61850,21 @@
             },
             {
               "name": {
+                "en": "NULL payment when converting Payment Rules during the transaction creation process",
+                "es": "Pago «NULL» al convertir las reglas de pago durante el proceso de creación de la transacción",
+                "pt": "Pagamento NULL ao converter regras de pagamento durante o processo de criação da transação"
+              },
+              "slug": {
+                "en": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+                "es": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+                "pt": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Operations cannot be performed correctly due to null documentType field.",
                 "es": "Las operaciones no se pueden realizar correctamente debido a que el campo «documentType» está vacío.",
                 "pt": "As operações não podem ser executadas corretamente devido ao campo `documentType` estar vazio."
@@ -61532,13 +62241,13 @@
             {
               "name": {
                 "en": "PayPalPlus does not respect the minimum installment amount",
-                "es": "PayPalPlus no respeta el importe mínimo de la cuota",
-                "pt": "O PayPalPlus não respeita o valor mínimo da parcela"
+                "es": "PayPalPlus no respeta el importe mínimo de la cuota.",
+                "pt": "O PayPal Plus não respeita o valor mínimo da parcela."
               },
               "slug": {
                 "en": "paypalplus-does-not-respect-the-minimum-installment-amount",
                 "es": "paypalplus-no-respeta-el-importe-minimo-de-la-cuota",
-                "pt": "o-paypalplus-nao-respeita-o-valor-minimo-da-parcela"
+                "pt": "o-paypal-plus-nao-respeita-o-valor-minimo-da-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -61953,12 +62662,12 @@
               "name": {
                 "en": "The Cielo 3DS2 app is returning an \"approved\" status even in scenarios when the authentication has failed.",
                 "es": "La aplicación Cielo 3DS2 muestra el estado «aprobado» incluso en casos en los que la autenticación ha fallado.",
-                "pt": "O aplicativo Cielo 3DS2 está retornando o status “aprovado” mesmo em casos em que a autenticação falhou."
+                "pt": "O aplicativo Cielo 3DS2 está retornando o status \"aprovado\" mesmo em cenários nos quais a autenticação falhou."
               },
               "slug": {
                 "en": "the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed",
                 "es": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
-                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-casos-em-que-a-autenticacao-falhou"
+                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-nos-quais-a-autenticacao-falhou"
               },
               "origin": "",
               "type": "markdown",
@@ -62199,6 +62908,21 @@
                 "en": "the-validity-of-the-promissory-doesnt-cancel-the-transaction",
                 "es": "la-validez-del-pagare-no-anula-la-transaccion",
                 "pt": "a-validade-da-promissoria-nao-cancela-a-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transações canceladas no MercadoPago não cancelam na VTEX",
+                "es": "Transacciones canceladas en MercadoPago no canceladas en VTEX",
+                "pt": "Transações canceladas no MercadoPago não canceladas na VTEX"
+              },
+              "slug": {
+                "en": "transacoes-canceladas-no-mercadopago-nao-cancelam-na-vtex",
+                "es": "transacciones-canceladas-en-mercadopago-no-canceladas-en-vtex",
+                "pt": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex"
               },
               "origin": "",
               "type": "markdown",
@@ -62627,13 +63351,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
-                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
+                "es": "Las transacciones permanecen en estado de autorización pendiente a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas no status \"Autorização Pendente\", apesar da aprovação do conector."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
+                "es": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62642,13 +63366,13 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
-                "pt": "As transações ficam presas em “Cancelando” e os pagamentos permanecem em “Autorizado”."
+                "es": "Las transacciones se quedan en «Cancelando» y los pagos siguen en «Autorizados»",
+                "pt": "Transações presas no status “Cancelando” e pagamentos permanecem no status “Autorizado”"
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
-                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado"
+                "es": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+                "pt": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado"
               },
               "origin": "",
               "type": "markdown",
@@ -62724,6 +63448,21 @@
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
                 "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
                 "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization despite connector approval",
+                "pt": "Transações presas em \"Autorização Pendente\" apesar da aprovação do conector.",
+                "es": "Transactions stuck in Pending Authorization despite connector approval"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -65736,6 +66475,21 @@
             },
             {
               "name": {
+                "en": "Tax UI not showing trade policy exclusion data",
+                "es": "Tax UI no muestra datos de exclusión de política comercial",
+                "pt": "A interface de impostos não está exibindo os dados de exclusão da política comercial."
+              },
+              "slug": {
+                "en": "tax-ui-not-showing-trade-policy-exclusion-data",
+                "es": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
+                "pt": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Timeout API Get Account's Approval Settings",
                 "es": "API de tiempo de espera Obtener la configuración de aprobación de la cuenta",
                 "pt": "Tempo esgotado API Obter configurações de aprovação de conta"
@@ -68495,6 +69249,157 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
                 "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace out",
+            "es": "Marketplace out",
+            "pt": "Marketplace out"
+          },
+          "slug": {
+            "en": "marketplace-out",
+            "es": "marketplace-out",
+            "pt": "marketplace-out"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Amazon In some cases, a SKU may be published successfully on Amazon, but the stock is not updated and remains at zero.",
+                "es": "Amazon En algunos casos, un SKU puede publicarse correctamente en Amazon, pero el stock no se actualiza y permanece en cero.",
+                "pt": "Amazon Em alguns casos, um SKU pode ser publicado com sucesso na Amazon, mas o estoque não é atualizado e permanece zerado."
+              },
+              "slug": {
+                "en": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
+                "es": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
+                "pt": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Order cancellation flow",
+                "es": "Amazon Proceso de cancelación de pedidos",
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
+              },
+              "slug": {
+                "en": "amazon-order-cancellation-flow",
+                "es": "amazon-proceso-de-cancelacion-de-pedidos",
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Installment interest incorrectly increases item sellingPrice in Dafiti orders",
+                "es": "Dafiti El interés de las cuotas aumenta incorrectamente el precio de venta del artículo en los pedidos de Dafiti.",
+                "pt": "Dafiti O cálculo de juros parcelados aumenta incorretamente o preço de venda dos itens em pedidos da Dafiti."
+              },
+              "slug": {
+                "en": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
+                "es": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
+                "pt": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza - Main Image not respected",
+                "es": "Magazine Luiza - Imagen principal no respetada",
+                "pt": "Magazine Luiza - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "magazine-luiza-main-image-not-respected",
+                "es": "magazine-luiza-imagen-principal-no-respetada",
+                "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Netshoes - Main Image not respected",
+                "es": "Netshoes - Imagen principal no respetada",
+                "pt": "Netshoes - Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "netshoes-main-image-not-respected",
+                "es": "netshoes-imagen-principal-no-respetada",
+                "pt": "netshoes-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
+                "es": "Sincronización del catálogo bloqueada debido a un exceso de atributos de variación.",
+                "pt": "Sincronização do catálogo bloqueada devido ao excesso de atributos de variação."
+              },
+              "slug": {
+                "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+                "es": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+                "pt": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Freight value mismatch on seller logistics orders",
+                "es": "Shopee Discrepancia en el valor del flete en los pedidos de logística del vendedor",
+                "pt": "Shopee Divergência no valor do frete em pedidos de logística do vendedor"
+              },
+              "slug": {
+                "en": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+                "es": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+                "pt": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Mapper does not support dynamic categories — attributes that unlock additional required subcategories",
+                "es": "Shopee Mapper no admite categorías dinámicas: atributos que desbloquean subcategorías adicionales requeridas.",
+                "pt": "O Shopee Mapper não suporta categorias dinâmicas — atributos que desbloqueiam subcategorias adicionais obrigatórias."
+              },
+              "slug": {
+                "en": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
+                "es": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
+                "pt": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Order code: 001 / Invalid Email",
+                "es": "Shopee Código de pedido: 001 / Correo electrónico no válido",
+                "pt": "Shopee Código do pedido: 001 / E-mail inválido"
+              },
+              "slug": {
+                "en": "shopee-order-code-001-invalid-email",
+                "es": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+                "pt": "shopee-codigo-do-pedido-001-email-invalido"
               },
               "origin": "",
               "type": "markdown",

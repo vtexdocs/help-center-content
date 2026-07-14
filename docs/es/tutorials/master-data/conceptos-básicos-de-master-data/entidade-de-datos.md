@@ -3,7 +3,7 @@ title: 'Entidad de datos'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2024-10-23T23:39:13.110Z
+updatedAt: 2026-07-08T18:37:00.000Z
 publishedAt: 2024-10-23T23:39:13.110Z
 firstPublishedAt: 2017-04-27T23:03:49.803Z
 contentType: tutorial
@@ -26,6 +26,8 @@ Estos conceptos permiten configurar los más diversos escenarios de control de d
 > ℹ️ Las entidades de datos creadas por tu operación se consideran entidades personalizadas y están sujetas a una facturación mensual. Más información en [Entidades de datos personalizadas](/es/docs/tutorials/master-data).
 
 > ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](/es/docs/tutorials/master-data#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+
+> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 no elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores.
 
 ## Tipos de datos
 

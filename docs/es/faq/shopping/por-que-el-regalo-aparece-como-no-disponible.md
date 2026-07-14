@@ -3,7 +3,7 @@ title: '¿Por qué el regalo aparece como no disponible?'
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z
-updatedAt: 2019-12-31T14:24:16.980Z
+updatedAt: 2026-06-22T14:24:16.980Z
 publishedAt: 2019-12-31T14:24:16.980Z
 firstPublishedAt: 2017-11-06T13:58:18.517Z
 contentType: frequentlyAskedQuestion
@@ -15,8 +15,10 @@ legacySlug: por-que-el-regalo-aparece-como-no-disponible
 ---
 
 Para ser exhibido en la tienda, todo SKU necesita:
+
 - Tener precio.
 - Tener stock.
+- Tener imagen.
 - Estar marcado como SKU activo.
 
 Incluso si desea crear un SKU que estará disponible para sus clientes sólo como regalo, usted necesita activarlo en la página de registro de SKU en el Catálogo. Y también necesita registrar precio y stock para él.

@@ -192,6 +192,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 | CREATE_GIFT_CARD_CANCELLATION | Registrar la cancelación de las tarjetas de regalo. | ID de la tarjeta de regalo. |
 | CREATE_GIFT_CARD_SETTLEMENT | Registrar la liquidación de las tarjeta de regalo. | ID de la tarjeta de regalo. |
 | INSERT_GIFT_CARD_CREDITS | Insertar créditos en tarjeta de regalo. | ID de la tarjeta de regalo. |
+| GET_UNMASKED_PII | Visualización de información de identificación personal (PII) sin enmascarar. | ID de la tarjeta de regalo. |
 
 ## Checkout
 
