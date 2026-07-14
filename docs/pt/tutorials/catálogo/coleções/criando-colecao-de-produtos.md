@@ -27,7 +27,10 @@ Neste tutorial, você aprenderá a:
 
 ## Antes de começar
 
-Para criar e editar coleções no CMS Portal (Legado), o usuário deve ter, no [License Manager](/pt/docs/tutorials/recursos-do-license-manager), permissões de acesso aos recursos **Catalog > Collection > Read Collections**, **Catalog > Collection > Write Collections** e **Catalog > Configuration > CMS Management**.
+Para criar e editar coleções no CMS Portal (Legado), o usuário deve ter [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) Owner (Admin Super) ou criar outro perfil com acesso aos seguintes recursos:
+ - **Catalog > Collection > Read Collections**
+ - **Catalog > Collection > Write Collections**
+ - **Catalog > Configuration > CMS Management**
 
 Para criar um perfil de acesso, consulte a seção **Criar perfis de acesso** do tutorial [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso). Caso não consiga acessar essa área, peça ao administrador da loja que libere essa permissão no seu perfil no License Manager.
 
