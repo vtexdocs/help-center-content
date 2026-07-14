@@ -4,8 +4,11 @@ Upload PR-touched markdown files to Crowdin and update Jira descriptions
 with Crowdin metadata (word count, editor links).
 
 Partial uploads require equivalent EN and/or ES files on main (matched by slugEN
-in frontmatter) plus block/word-count tiers on the PR diff. Rename-aware diffs follow
-git rename detection; numstat rename paths are normalized before processing.
+in frontmatter) plus block/word-count tiers on the PR diff. PT sources use a
+full upload when the PR adds new EN/ES translation files for the same slugEN,
+even if the PT diff is small. EN/ES-only PRs upload the matching PT source from
+main (890214) with locale imports from the PR. Rename-aware diffs follow git
+rename detection; numstat rename paths are normalized before processing.
 When multiple locale files share a slugEN, paths that already exist on main
 are preferred over PR-only additions. Duplicate slugEN values on main trigger
 a warning comment on the parent Jira task.
@@ -14,6 +17,7 @@ Commands:
   crowdin_sync.py              Upload touched files to Crowdin
   crowdin_sync.py word-count   Merge word count into a Jira description (CURRENT, COUNT)
   crowdin_sync.py crowdin-links  Merge editor links into a Jira description (CURRENT, LINKS)
+  crowdin_sync.py annotate-changed-files  Add (PARTIAL|FULL) to Changed files (CURRENT, CHANGED_FILES, FILES_JSON, BASE_SHA, HEAD_SHA)
 """
 
 from __future__ import annotations
@@ -73,6 +77,11 @@ def crowdin_language_id(language_env: str, group_name: str) -> str:
 
 def normalize_language_id(language_id: str) -> str:
     return language_id.replace("_", "-").lower()
+
+
+def normalize_editor_code(code: str) -> str:
+    """Crowdin editor URL segments drop separators (en-US -> enus, pt-BR -> ptbr)."""
+    return code.replace("_", "").replace("-", "").lower()
 
 
 def resolve_project_language_id(project_data: dict, language_id: str) -> str:
@@ -187,13 +196,13 @@ def fetch_project_data(project_id: str) -> dict:
 
 def language_editor_code(project_data: dict, language_id: str) -> str:
     target = normalize_language_id(language_id)
-    source = project_data.get("sourceLanguage") or {}
-    if normalize_language_id(str(source.get("id", ""))) == target:
-        return str(source["editorCode"])
     for language in project_data.get("targetLanguages") or []:
         if normalize_language_id(str(language.get("id", ""))) == target:
-            return str(language["editorCode"])
-    return language_id
+            return normalize_editor_code(str(language["editorCode"]))
+    source = project_data.get("sourceLanguage") or {}
+    if normalize_language_id(str(source.get("id", ""))) == target:
+        return normalize_editor_code(str(source["editorCode"]))
+    return normalize_editor_code(language_id)
 
 
 def editor_url(
@@ -202,7 +211,10 @@ def editor_url(
     source_editor_code: str,
     target_editor_code: str,
 ) -> str:
-    language_pair = f"{source_editor_code}-{target_editor_code}"
+    language_pair = (
+        f"{normalize_editor_code(source_editor_code)}-"
+        f"{normalize_editor_code(target_editor_code)}"
+    )
     return f"{crowdin_web_base()}/editor/{project_identifier}/{file_id}/{language_pair}"
 
 
@@ -291,11 +303,15 @@ def build_crowdin_file_name(
 
 PT_SOURCE_PATH_PREFIXES = ("docs/pt/", "localization/")
 EN_SOURCE_PATH_PREFIXES = ("docs/en/",)
+ES_SOURCE_PATH_PREFIXES = ("docs/es/",)
+TRANSLATION_PATH_PREFIXES = EN_SOURCE_PATH_PREFIXES + ES_SOURCE_PATH_PREFIXES
 
 
 def is_eligible_path(relative_path: str) -> bool:
     path = relative_path.replace("\\", "/")
-    return path.startswith(PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES)
+    return path.startswith(
+        PT_SOURCE_PATH_PREFIXES + EN_SOURCE_PATH_PREFIXES + ES_SOURCE_PATH_PREFIXES
+    )
 
 
 def decode_git_path(path: str) -> str:
@@ -340,7 +356,16 @@ def changed_files() -> list[str]:
     seen: set[str] = set()
     files: list[str] = []
     for line in raw.splitlines():
-        path = normalize_changed_path(line.strip())
+        stripped = line.strip()
+        if "{" in stripped and "=>" not in stripped:
+            print(
+                "[crowdin_sync] Skipping truncated rename path "
+                "(ensure CHANGED_FILES uses awk -F'\\t'): "
+                f"{stripped}",
+                file=sys.stderr,
+            )
+            continue
+        path = normalize_changed_path(stripped)
         if (
             path
             and path.endswith((".md", ".mdx"))
@@ -705,12 +730,7 @@ def pick_preferred_equivalent_path(
     return chosen
 
 
-def find_en_equivalent_by_slug(
-    ref: str,
-    slug_en: str,
-    *,
-    base_sha: str | None = None,
-) -> str | None:
+def find_all_en_equivalents_by_slug(ref: str, slug_en: str) -> list[str]:
     """EN files use slugEN as the filename (docs/en/**/{slugEN}.md)."""
     result = subprocess.run(
         ["git", "ls-tree", "-r", "--name-only", ref, "--", "docs/en/"],
@@ -719,15 +739,25 @@ def find_en_equivalent_by_slug(
         check=False,
     )
     if result.returncode != 0:
-        return None
+        return []
 
-    matches = [
-        path
-        for path in result.stdout.splitlines()
-        if path.endswith((".md", ".mdx")) and Path(path).stem == slug_en
-    ]
+    return sorted(
+        {
+            path
+            for path in result.stdout.splitlines()
+            if path.endswith((".md", ".mdx")) and Path(path).stem == slug_en
+        }
+    )
+
+
+def find_en_equivalent_by_slug(
+    ref: str,
+    slug_en: str,
+    *,
+    base_sha: str | None = None,
+) -> str | None:
     return pick_preferred_equivalent_path(
-        matches,
+        find_all_en_equivalents_by_slug(ref, slug_en),
         base_sha=base_sha,
         slug_en=slug_en,
         locale="en",
@@ -742,13 +772,11 @@ def normalize_git_grep_path(line: str, ref: str) -> str:
     return line
 
 
-def find_locale_equivalent_by_slug(
+def find_all_locale_equivalents_by_slug(
     ref: str,
     locale: str,
     slug_en: str,
-    *,
-    base_sha: str | None = None,
-) -> str | None:
+) -> list[str]:
     """PT/ES equivalents share slugEN in frontmatter but may use different filenames."""
     pattern = rf"^slugEN:\s*\"?{re.escape(slug_en)}\"?\s*$"
     matches: list[str] = []
@@ -776,8 +804,18 @@ def find_locale_equivalent_by_slug(
                 if line.strip().endswith((".md", ".mdx"))
             )
 
+    return sorted(set(matches))
+
+
+def find_locale_equivalent_by_slug(
+    ref: str,
+    locale: str,
+    slug_en: str,
+    *,
+    base_sha: str | None = None,
+) -> str | None:
     return pick_preferred_equivalent_path(
-        matches,
+        find_all_locale_equivalents_by_slug(ref, locale, slug_en),
         base_sha=base_sha,
         slug_en=slug_en,
         locale=locale,
@@ -820,6 +858,90 @@ def resolve_equivalent_path(
     return find_equivalent_path_at_ref(slug_en, target_locale, base_sha)
 
 
+def is_translation_only_pr() -> bool:
+    return env("TRANSLATION_ONLY_PR").lower() in ("true", "1", "yes")
+
+
+def resolve_pt_sources_from_translation_changes(
+    translation_files: list[str],
+    *,
+    base_sha: str,
+    head_sha: str,
+) -> list[str]:
+    """Map changed EN/ES files to PT sources on main (deduped)."""
+    pt_paths: list[str] = []
+    seen: set[str] = set()
+
+    for path in sorted(translation_files):
+        normalized = path.replace("\\", "/")
+        if not normalized.startswith(TRANSLATION_PATH_PREFIXES):
+            continue
+
+        slug_en = get_slug_en_for_path(path, head_sha, base_sha)
+        if not slug_en:
+            print(
+                f"No slugEN for translation file {path}; "
+                "cannot resolve PT source on main",
+                file=sys.stderr,
+            )
+            continue
+
+        pt_path = find_locale_equivalent_by_slug(
+            base_sha,
+            "pt",
+            slug_en,
+            base_sha=base_sha,
+        )
+        if not pt_path or not git_file_exists(base_sha, pt_path):
+            print(
+                f"No PT source on main for slugEN {slug_en!r} "
+                f"(from {path})",
+                file=sys.stderr,
+            )
+            continue
+
+        if pt_path in seen:
+            continue
+        seen.add(pt_path)
+        pt_paths.append(pt_path)
+        print(
+            f"Translation-only PR: {path} -> PT source on main {pt_path}",
+            file=sys.stderr,
+        )
+
+    return pt_paths
+
+
+def has_new_translation_files_in_pr(
+    source_path: str,
+    *,
+    base_sha: str,
+    head_sha: str,
+    group: CrowdinUploadGroup,
+) -> bool:
+    """True when the PR introduces EN/ES files for this PT source's slugEN."""
+    if group.name != "pt":
+        return False
+
+    slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
+    if not slug_en:
+        return False
+
+    locale_matches = {
+        "en": find_all_en_equivalents_by_slug(head_sha, slug_en),
+        "es": find_all_locale_equivalents_by_slug(head_sha, "es", slug_en),
+    }
+    for locale, paths in locale_matches.items():
+        for path in paths:
+            if git_file_exists(head_sha, path) and not git_file_exists(base_sha, path):
+                print(
+                    f"New {locale} translation in PR for slugEN {slug_en!r}: {path}",
+                    file=sys.stderr,
+                )
+                return True
+    return False
+
+
 def resolve_translation_content(
     repo_path: str,
     *,
@@ -842,6 +964,8 @@ def import_translation_file(
     language_id: str,
     content: bytes,
     file_name: str,
+    *,
+    import_eq_suggestions: bool = False,
 ) -> str:
     storage_id = upload_storage_bytes(content, file_name)
     response = crowdin_request(
@@ -851,7 +975,7 @@ def import_translation_file(
             "storageId": storage_id,
             "fileId": file_id,
             "languageIds": [language_id],
-            "importEqSuggestions": False,
+            "importEqSuggestions": import_eq_suggestions,
             "autoApproveImported": False,
         },
     )
@@ -932,7 +1056,10 @@ def should_upload_partial(
     *,
     new_file: bool,
     has_existing_translations_in_main: bool,
+    new_translations_in_pr: bool,
 ) -> bool:
+    if new_translations_in_pr:
+        return False
     if not has_existing_translations_in_main:
         return False
     if added_count == 0 or new_file:
@@ -1130,6 +1257,12 @@ def plan_upload(
         head_sha=head_sha,
         group=group,
     )
+    new_translations_in_pr = has_new_translation_files_in_pr(
+        relative_path,
+        base_sha=base_sha,
+        head_sha=head_sha,
+        group=group,
+    )
 
     if should_upload_partial(
         added_count,
@@ -1139,6 +1272,7 @@ def plan_upload(
         total_words,
         new_file=new_file,
         has_existing_translations_in_main=translations_in_main,
+        new_translations_in_pr=new_translations_in_pr,
     ):
         partial_text = format_partial_content(blocks)
         changed_line_numbers = {line_no for line_no, _ in additions}
@@ -1158,7 +1292,13 @@ def plan_upload(
             translation_imports=translation_imports,
         )
 
-    if not translations_in_main:
+    if new_translations_in_pr:
+        print(
+            f"Using full upload for {relative_path}: "
+            "PR adds new EN/ES translation files for this slugEN",
+            file=sys.stderr,
+        )
+    elif not translations_in_main:
         print(
             f"Using full upload for {relative_path}: "
             "no equivalent EN/ES files on main (matched by slugEN)",
@@ -1199,6 +1339,73 @@ def write_github_output(name: str, value: str) -> None:
         handle.write(f"{name}<<{delimiter}\n{value}\n{delimiter}\n")
 
 
+def build_upload_modes_for_changed_files(
+    changed_paths: list[str],
+    uploaded_files: list[dict],
+    *,
+    base_sha: str,
+    head_sha: str,
+) -> dict[str, str]:
+    path_to_mode: dict[str, str] = {}
+    slug_to_mode: dict[str, str] = {}
+
+    for record in uploaded_files:
+        mode = str(record.get("upload_mode", "full")).upper()
+        source_path = str(record.get("source_path", ""))
+        if source_path:
+            path_to_mode[source_path] = mode
+            slug_en = get_slug_en_for_path(source_path, head_sha, base_sha)
+            if slug_en:
+                slug_to_mode[slug_en] = mode
+
+    modes: dict[str, str] = {}
+    for path in changed_paths:
+        if path in path_to_mode:
+            modes[path] = path_to_mode[path]
+            continue
+        slug_en = get_slug_en_for_path(path, head_sha, base_sha)
+        if slug_en and slug_en in slug_to_mode:
+            modes[path] = slug_to_mode[slug_en]
+            continue
+        modes[path] = "FULL"
+    return modes
+
+
+def format_annotated_changed_files_section(
+    changed_paths: list[str],
+    upload_modes: dict[str, str],
+) -> str:
+    if not changed_paths:
+        return "* No MD/MDX files changed"
+    lines = [
+        f"* {path} **({upload_modes.get(path, 'FULL')})**"
+        for path in changed_paths
+    ]
+    return "\n".join(lines)
+
+
+def merge_changed_files_description(current: str, changed_files_section: str) -> str:
+    block = f"h3. Changed files\n\n{changed_files_section.rstrip()}"
+    pattern = r"^h3\. Changed files\n\n[\s\S]*?(?=\nh3\. PR Description\b)"
+    if re.search(pattern, current, flags=re.MULTILINE):
+        return re.sub(
+            pattern,
+            block + "\n\n",
+            current.rstrip(),
+            count=1,
+            flags=re.MULTILINE,
+        )
+    if "h3. PR Description" in current:
+        return current.replace(
+            "h3. PR Description",
+            f"{block}\n\nh3. PR Description",
+            1,
+        )
+    if current.strip():
+        return f"{current.rstrip()}\n\n{block}\n"
+    return f"{block}\n"
+
+
 def merge_word_count_description(current: str, count: str) -> str:
     row = f"|Word count|{count}|"
     if re.search(r"^\|Word count\|", current, flags=re.MULTILINE):
@@ -1218,14 +1425,18 @@ def resolve_upload_context(
     all_files: list[str],
 ) -> tuple[CrowdinUploadGroup, list[str]]:
     content_source = env("CONTENT_SOURCE")
+    base_sha = env("BASE_SHA")
+    head_sha = env("HEAD_SHA")
     pt_files = files_for_prefixes(all_files, PT_CROWDIN_GROUP.path_prefixes)
     en_files = files_for_prefixes(all_files, EN_CROWDIN_GROUP.path_prefixes)
+    es_files = files_for_prefixes(all_files, ES_SOURCE_PATH_PREFIXES)
+    translation_files = en_files + es_files
 
     if content_source == "pt" or (not content_source and pt_files):
-        if en_files:
+        if translation_files:
             print(
-                "PR touches PT source (docs/pt or localization/) and docs/en; "
-                "ignoring docs/en files",
+                "PR touches PT source (docs/pt or localization/) and "
+                "docs/en or docs/es; ignoring translation files",
                 file=sys.stderr,
             )
         active_files = pt_files or [
@@ -1234,6 +1445,21 @@ def resolve_upload_context(
             if path.replace("\\", "/").startswith(PT_CROWDIN_GROUP.path_prefixes)
         ]
         return PT_CROWDIN_GROUP, active_files
+
+    if is_translation_only_pr() or (not pt_files and translation_files):
+        if base_sha and head_sha:
+            pt_from_translations = resolve_pt_sources_from_translation_changes(
+                translation_files,
+                base_sha=base_sha,
+                head_sha=head_sha,
+            )
+            if pt_from_translations:
+                print(
+                    "Translation-only PR: uploading "
+                    f"{len(pt_from_translations)} PT source file(s) from main",
+                    file=sys.stderr,
+                )
+                return PT_CROWDIN_GROUP, pt_from_translations
 
     if content_source == "en" or en_files:
         return EN_CROWDIN_GROUP, en_files or [
@@ -1244,7 +1470,7 @@ def resolve_upload_context(
 
     raise RuntimeError(
         "Could not determine Crowdin upload mode (expected CONTENT_SOURCE=pt|en "
-        "or changed files under docs/pt, localization/, or docs/en)"
+        "or changed files under docs/pt, localization/, docs/en, or docs/es)"
     )
 
 
@@ -1351,6 +1577,22 @@ def upload_group_files(
                 f"[{group.name}] Imported {translation.repo_path} as "
                 f"{translation.language_id} translation for {crowdin_name} "
                 f"(from {translation.source_ref})",
+                file=sys.stderr,
+            )
+
+        if group.name == "pt":
+            source_language_id = str(project_data["sourceLanguage"]["id"])
+            self_import_id = import_translation_file(
+                project_id,
+                file_id,
+                source_language_id,
+                plan.content,
+                crowdin_name,
+                import_eq_suggestions=True,
+            )
+            print(
+                f"[{group.name}] Self-imported {source_language_id} source for "
+                f"{crowdin_name} (import {self_import_id})",
                 file=sys.stderr,
             )
 
@@ -1465,12 +1707,36 @@ def main() -> int:
             os.environ.get("LINKS", ""),
         ))
         return 0
+    if command == "annotate-changed-files":
+        current = os.environ.get("CURRENT", "")
+        changed_paths = [
+            line.strip()
+            for line in os.environ.get("CHANGED_FILES", "").splitlines()
+            if line.strip()
+        ]
+        uploaded_files = json.loads(os.environ.get("FILES_JSON", "[]"))
+        base_sha = env("BASE_SHA")
+        head_sha = env("HEAD_SHA")
+        if not base_sha or not head_sha:
+            raise RuntimeError("BASE_SHA and HEAD_SHA are required")
+        upload_modes = build_upload_modes_for_changed_files(
+            changed_paths,
+            uploaded_files,
+            base_sha=base_sha,
+            head_sha=head_sha,
+        )
+        section = format_annotated_changed_files_section(
+            changed_paths,
+            upload_modes,
+        )
+        print(merge_changed_files_description(current, section))
+        return 0
     if command == "upload":
         return upload_files()
 
     print(
         f"Unknown command: {command} "
-        "(expected upload, word-count, or crowdin-links)",
+        "(expected upload, word-count, crowdin-links, or annotate-changed-files)",
         file=sys.stderr,
     )
     return 1
