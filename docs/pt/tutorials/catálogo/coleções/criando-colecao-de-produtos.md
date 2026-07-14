@@ -74,7 +74,11 @@ A composição dos produtos de uma coleção é definida pelos **grupos**. Para 
 	- `Inclusive` (Inclusão): soma os produtos do grupo à coleção.
 	- `Exclusive` (Exclusão): remove os produtos do grupo da coleção.
 
-	O primeiro grupo criado em qualquer coleção deve ser obrigatoriamente do tipo **Inclusão**. Quando uma coleção tem múltiplos grupos, o resultado final é calculado da seguinte maneira: `Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exclusão)`
+	O primeiro grupo criado em qualquer coleção deve ser obrigatoriamente do tipo **Inclusão**. Quando uma coleção tem múltiplos grupos, o resultado final é calculado da seguinte maneira:
+	
+	```txt
+	Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exclusão)
+	```
 
 	>⚠️ Preste sempre atenção ao tipo de grupo selecionado no cadastro. Produtos adicionados a um grupo do tipo `Exclusive` (Exclusão) **não** são incluídos na coleção. Pelo contrário, são removidos dela caso também pertençam a algum grupo de inclusão. Esse é um dos erros mais comuns ao configurar coleções com múltiplos grupos.
 
