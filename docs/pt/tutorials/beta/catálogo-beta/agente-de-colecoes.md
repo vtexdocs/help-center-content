@@ -10,7 +10,7 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
-1 - Introdução
+## Introdução
 
 - O que é o agente?
 - O que o agente faz? // O agente opera como uma interface conversacional que transforma a intenção do usuário em operações de serviço da VTEX.
@@ -19,7 +19,7 @@ locale: pt
 - Como o agente difere da interface de coleções legada?
 - Existem pré-requisitos para o agente funcionar? // talvez dizer tem que ter marcas, categorias, SKUs e produtos cadastrados
 
-2 - Avisos do beta
+## Avisos do beta
 
 O Agente de Coleções está atualmente em beta, e durante este período a funcionalidade tem as seguintes limitações:
 
@@ -27,9 +27,9 @@ O Agente de Coleções está atualmente em beta, e durante este período a funci
 - Quais são as imitações?
 - Quais são os comportamentos esperados do beta? // The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included. // Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
 
-3 - Acessando o agente de Coleções
+## Acessar o Agente de Coleções
 
-Para interagir com o agente e executar ações em coleções e sortimentos, no Admin VTEX, vá para XX ou digite **Agent de Coleções** na barra de pesquisa. A página é composta por uma janela de conversas e por sugestões de perguntas para iniciar uma análise com o assistente.
+Para interagir com o agente e executar ações em coleções e sortimentos, no Admin VTEX, vá para XX ou digite **Agente de Coleções** na barra de pesquisa. A página é composta por uma janela de conversas e por sugestões de perguntas para iniciar uma análise com o assistente.
 
 ![Interface do agente](linkPlaceholder)
 
@@ -37,7 +37,9 @@ Para interagir com o agente e executar ações em coleções e sortimentos, no A
 - Existe mais de uma maneira de fazer isso?
 - Como isso aparece na interface? (apresentar imagem do Figma)
 
-3 - Regras para coleções e sortimentos // identificar o que é coleção, sortimento ou ambos
+## Regras do funcionamento do Agente de Coleções
+
+O Agente de Coleções opera em coleões e sortimentos a partir das seguintes regras:
 
 - Cria e editar coleções de forma estática (explicit Product ID list) ou dinâmica (criteria: marcas, categorias, especificações de produto, especificações de SKU)
 - Inclusive and exclusive rules // o mesmo que "combining and excluding Collections"?
@@ -47,9 +49,9 @@ Para interagir com o agente e executar ações em coleções e sortimentos, no A
 - Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
 - Before high-impact changes (e.g., editing a Collection shared across many Assortments), the agent surfaces the blast radius and requests confirmation
 
-4 - Realizando ações com coleções
+## Realizar ações em coleções
 
-> ⚠️ Os exemplos de prompts sobre coleções apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
+> ⚠️ Os exemplos de instruções (prompts) sobre coleções apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
 
 - Como criar uma coleção usando linguagem natural (prompt)?
 - Como visualizar o resultado? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
@@ -61,9 +63,9 @@ Para interagir com o agente e executar ações em coleções e sortimentos, no A
 - Como checar impacto da edição? // é o mesmo que verificar as relações de uma coleção que foi criada?
 - Como buscar, filtrar e listar coleções? // search by name/ID; filter/sort by creation date, name, ID
 
-5 - Realizando ações com sortimentos
+## Realizar ações em sortimentos
 
-> ⚠️ Os exemplos de prompts sobre sortimentos apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
+> ⚠️ Os exemplos de instruções sobre sortimentos apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
 
 - Como criar um sortimento usando linguagem natural (prompt)?
 - Como visualizar o resultado? // preview updates each turn // "Preview" action after the agent drafts/updates; shows estimated item count, sample items, SKU membership check; agent summarizes the applied logic; limitation: one collection or assortment at a time
@@ -77,16 +79,11 @@ Para interagir com o agente e executar ações em coleções e sortimentos, no A
 
 __________________________________________________________________
 
-Maybe a key concepts section, like [Microsoft](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/overview)?
-
-Doc do Nik:
-
-[List of limitations]
-
 Inputs
-• "Create a collection with all products minus apple"
-• "Include all products in the collection"
-• "I want all my Catalog in the collection"
+
+- "Create a collection with all products minus apple"
+- "Include all products in the collection"
+- "I want all my Catalog in the collection"
 
 Output
 "There is currently no automatic way to include all of the catalog's products in a collection such that it stays synchronized.
