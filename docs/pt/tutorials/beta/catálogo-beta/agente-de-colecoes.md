@@ -1,7 +1,7 @@
 ---
 title: 'Agente de Coleções'
-createdAt: 2026-06-18T00:00:00.000Z
-updatedAt: 2026-06-18T00:00:00.000Z
+createdAt: 2026-07-14T00:00:00.000Z
+updatedAt: 2026-07-14T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: collections-agent
