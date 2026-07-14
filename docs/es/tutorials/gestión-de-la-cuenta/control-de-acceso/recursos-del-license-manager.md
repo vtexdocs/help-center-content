@@ -29,8 +29,8 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
     { key: 'resource', label: 'Recurso', sortable: true, filterable: true },
     { key: 'description', label: 'Descripción' },
     { key: 'key', label: 'Llave', type: 'code', sortable: true, filterable: true },
-    { key: 'resourceId', label: 'ID del Recurso', type: 'number', sortable: true },
-    { key: 'productId', label: 'ID del Producto', type: 'number', sortable: true },
+    { key: 'resourceId', label: 'ID del Recurso', type: 'text', sortable: true },
+    { key: 'productId', label: 'ID del Producto', type: 'text', sortable: true },
   ]}
 />
 
@@ -47,8 +47,8 @@ En la interfaz del License Manager, también encontrarás recursos obsoletos o q
     { key: 'category', label: 'Categoría', sortable: true, filterable: true },
     { key: 'resource', label: 'Recurso', sortable: true, filterable: true },
     { key: 'key', label: 'Llave', type: 'code', sortable: true, filterable: true },
-    { key: 'resourceId', label: 'ID del Recurso', type: 'number', sortable: true },
-    { key: 'productId', label: 'ID del Producto', type: 'number', sortable: true },
+    { key: 'resourceId', label: 'ID del Recurso', type: 'text', sortable: true },
+    { key: 'productId', label: 'ID del Producto', type: 'text', sortable: true },
   ]}
 />
 

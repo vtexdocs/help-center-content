@@ -29,8 +29,8 @@ Therefore, the VTEX platform offers you the possibility to create custom access 
     { key: 'resource', label: 'Resource', sortable: true, filterable: true },
     { key: 'description', label: 'Description' },
     { key: 'key', label: 'Key', type: 'code', sortable: true, filterable: true },
-    { key: 'resourceId', label: 'Resource ID', type: 'number', sortable: true },
-    { key: 'productId', label: 'Product ID', type: 'number', sortable: true },
+    { key: 'resourceId', label: 'Resource ID', type: 'text', sortable: true },
+    { key: 'productId', label: 'Product ID', type: 'text', sortable: true },
   ]}
 />
 
@@ -47,8 +47,8 @@ In the License Manager interface, you can also find resources that are deprecate
     { key: 'category', label: 'Category', sortable: true, filterable: true },
     { key: 'resource', label: 'Resource', sortable: true, filterable: true },
     { key: 'key', label: 'Key', type: 'code', sortable: true, filterable: true },
-    { key: 'resourceId', label: 'Resource ID', type: 'number', sortable: true },
-    { key: 'productId', label: 'Product ID', type: 'number', sortable: true },
+    { key: 'resourceId', label: 'Resource ID', type: 'text', sortable: true },
+    { key: 'productId', label: 'Product ID', type: 'text', sortable: true },
   ]}
 />
 

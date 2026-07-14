@@ -29,8 +29,8 @@ Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos c
     { key: 'resource', label: 'Recurso', sortable: true, filterable: true },
     { key: 'description', label: 'Descrição' },
     { key: 'key', label: 'Chave', type: 'code', sortable: true, filterable: true },
-    { key: 'resourceId', label: 'ID do Recurso', type: 'number', sortable: true },
-    { key: 'productId', label: 'ID do Produto', type: 'number', sortable: true },
+    { key: 'resourceId', label: 'ID do Recurso', type: 'text', sortable: true },
+    { key: 'productId', label: 'ID do Produto', type: 'text', sortable: true },
   ]}
 />
 
@@ -47,8 +47,8 @@ Na interface do License Manager, você também encontra recursos deprecados ou d
     { key: 'category', label: 'Categoria', sortable: true, filterable: true },
     { key: 'resource', label: 'Recurso', sortable: true, filterable: true },
     { key: 'key', label: 'Chave', type: 'code', sortable: true, filterable: true },
-    { key: 'resourceId', label: 'ID do Recurso', type: 'number', sortable: true },
-    { key: 'productId', label: 'ID do Produto', type: 'number', sortable: true },
+    { key: 'resourceId', label: 'ID do Recurso', type: 'text', sortable: true },
+    { key: 'productId', label: 'ID do Produto', type: 'text', sortable: true },
   ]}
 />
 

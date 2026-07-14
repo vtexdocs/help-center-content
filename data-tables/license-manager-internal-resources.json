@@ -5,215 +5,215 @@
       "category": "Product",
       "resource": "Export Job",
       "key": "ExportJob",
-      "resourceId": 2124114,
-      "productId": 55
+      "resourceId": "2124114",
+      "productId": "55"
     },
     {
       "product": "Availability Notify",
       "category": "Notification Requests",
       "resource": "Download Notification Requests",
       "key": "downloadNotificationRequests",
-      "resourceId": 2156515,
-      "productId": 136
+      "resourceId": "2156515",
+      "productId": "136"
     },
     {
       "product": "B2B",
       "category": "Import",
       "resource": "B2BBulkImport",
       "key": "B2BBulkImport",
-      "resourceId": 1954299,
-      "productId": 105
+      "resourceId": "1954299",
+      "productId": "105"
     },
     {
       "product": "B2B",
       "category": "Import",
       "resource": "BulkImportTest",
       "key": "BulkImportTest",
-      "resourceId": 1957237,
-      "productId": 105
+      "resourceId": "1957237",
+      "productId": "105"
     },
     {
       "product": "B2B",
       "category": "B2B General",
       "resource": "B2BBulkExport",
       "key": "B2BBulkExport",
-      "resourceId": 2045795,
-      "productId": 105
+      "resourceId": "2045795",
+      "productId": "105"
     },
     {
       "product": "Billing",
       "category": "Company",
       "resource": "Add Account",
       "key": "add_accountname",
-      "resourceId": 134736,
-      "productId": 43
+      "resourceId": "134736",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Company",
       "resource": "Delete Account",
       "key": "delete_accountname",
-      "resourceId": 134737,
-      "productId": 43
+      "resourceId": "134737",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Invoice",
       "resource": "Recalculate Invoice",
       "key": "generate_invoice_overdue",
-      "resourceId": 139181,
-      "productId": 43
+      "resourceId": "139181",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Dashboard",
       "resource": "Get Dashboard Charges",
       "key": "get_unscrewed_dashboard_charges",
-      "resourceId": 142913,
-      "productId": 43
+      "resourceId": "142913",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Reseller",
       "resource": "List Active Commissions",
       "key": "list_active_commissions",
-      "resourceId": 1569483,
-      "productId": 43
+      "resourceId": "1569483",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Reseller",
       "resource": "List Commissions History",
       "key": "list_commissions_history",
-      "resourceId": 1569484,
-      "productId": 43
+      "resourceId": "1569484",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Reseller",
       "resource": "Get Commission Totalizers",
       "key": "get_commissions_totalizers",
-      "resourceId": 1569485,
-      "productId": 43
+      "resourceId": "1569485",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Commands",
       "resource": "Inflation Report Command",
       "key": "inflationreport",
-      "resourceId": 1928420,
-      "productId": 43
+      "resourceId": "1928420",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Contracts",
       "resource": "Mark Contract as Reviewed",
       "key": "mark-contract-as-reviewed",
-      "resourceId": 1929752,
-      "productId": 43
+      "resourceId": "1929752",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Contracts",
       "resource": "Save contracts with changes to financial values",
       "key": "put_contract_financial_values",
-      "resourceId": 1933312,
-      "productId": 43
+      "resourceId": "1933312",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Invoice",
       "resource": "List Invoice Due Date Change Requests",
       "key": "list-invoice-due-date-change-requests",
-      "resourceId": 1951668,
-      "productId": 43
+      "resourceId": "1951668",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Invoice",
       "resource": "Put Invoice Due Date Change Requests",
       "key": "put-invoice-due-date-change-requests",
-      "resourceId": 1951669,
-      "productId": 43
+      "resourceId": "1951669",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Invoice",
       "resource": "Review Invoice Due Date Change Requests",
       "key": "review-invoice-due-date-change-requests",
-      "resourceId": 1951677,
-      "productId": 43
+      "resourceId": "1951677",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Company",
       "resource": "Create Child Account",
       "key": "create_child_account",
-      "resourceId": 2078353,
-      "productId": 43
+      "resourceId": "2078353",
+      "productId": "43"
     },
     {
       "product": "Billing",
       "category": "Invoice",
       "resource": "Update boleto overdue date",
       "key": "boleto_overdue_date",
-      "resourceId": 2102653,
-      "productId": 43
+      "resourceId": "2102653",
+      "productId": "43"
     },
     {
       "product": "CDN API",
       "category": "CDN API Internal",
       "resource": "Update WafControl Config",
       "key": "UpdateWafControlConfig",
-      "resourceId": 2142571,
-      "productId": 108
+      "resourceId": "2142571",
+      "productId": "108"
     },
     {
       "product": "CDN API",
       "category": "CDN API Internal",
       "resource": "View WafControl Config",
       "key": "ViewWafControlConfig",
-      "resourceId": 2142572,
-      "productId": 108
+      "resourceId": "2142572",
+      "productId": "108"
     },
     {
       "product": "Catalog",
       "category": "Marketing",
       "resource": "Experts",
       "key": "Especialista.aspx",
-      "resourceId": 925,
-      "productId": 2
+      "resourceId": "925",
+      "productId": "2"
     },
     {
       "product": "Catalog",
       "category": "Marketing",
       "resource": "Expert Management",
       "key": "EspecialistaForm.aspx",
-      "resourceId": 926,
-      "productId": 2
+      "resourceId": "926",
+      "productId": "2"
     },
     {
       "product": "Catalog",
       "category": "Commercial",
       "resource": "Experts opinions",
       "key": "EspecialistaOpiniao.aspx",
-      "resourceId": 927,
-      "productId": 2
+      "resourceId": "927",
+      "productId": "2"
     },
     {
       "product": "Catalog",
       "category": "Content",
       "resource": "Instant Publish",
       "key": "instant-publish",
-      "resourceId": 1044980,
-      "productId": 2
+      "resourceId": "1044980",
+      "productId": "2"
     },
     {
       "product": "CatalogV2",
       "category": "Management",
       "resource": "Product Write",
       "key": "product-write",
-      "resourceId": 1132306,
+      "resourceId": "1132306",
       "productId": ""
     },
     {
@@ -221,7 +221,7 @@
       "category": "Management",
       "resource": "Product Read",
       "key": "product-read",
-      "resourceId": 1132321,
+      "resourceId": "1132321",
       "productId": ""
     },
     {
@@ -229,7 +229,7 @@
       "category": "Management",
       "resource": "Category Write",
       "key": "category-write",
-      "resourceId": 1132322,
+      "resourceId": "1132322",
       "productId": ""
     },
     {
@@ -237,7 +237,7 @@
       "category": "Management",
       "resource": "Category Read",
       "key": "category-read",
-      "resourceId": 1132323,
+      "resourceId": "1132323",
       "productId": ""
     },
     {
@@ -245,7 +245,7 @@
       "category": "Management",
       "resource": "Brand Write",
       "key": "brand-write",
-      "resourceId": 1132324,
+      "resourceId": "1132324",
       "productId": ""
     },
     {
@@ -253,7 +253,7 @@
       "category": "Management",
       "resource": "Brand Read",
       "key": "brand-read",
-      "resourceId": 1132325,
+      "resourceId": "1132325",
       "productId": ""
     },
     {
@@ -261,7 +261,7 @@
       "category": "Management",
       "resource": "Save Image",
       "key": "image-write",
-      "resourceId": 1330546,
+      "resourceId": "1330546",
       "productId": ""
     },
     {
@@ -269,911 +269,911 @@
       "category": "CheckoutResources",
       "resource": "Order Cancellation",
       "key": "CancelaPedidos",
-      "resourceId": 1357,
-      "productId": 5
+      "resourceId": "1357",
+      "productId": "5"
     },
     {
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "Save card token to user profile",
       "key": "SaveCardTokenToUserProfile",
-      "resourceId": 721440,
-      "productId": 5
+      "resourceId": "721440",
+      "productId": "5"
     },
     {
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "RecaptchaAllowlist",
       "key": "RecaptchaAllowlist",
-      "resourceId": 1936124,
-      "productId": 5
+      "resourceId": "1936124",
+      "productId": "5"
     },
     {
       "product": "Checkout",
       "category": "CheckoutResources",
       "resource": "Lock an OrderForm",
       "key": "CanLockOrderForm",
-      "resourceId": 2154439,
-      "productId": 5
+      "resourceId": "2154439",
+      "productId": "5"
     },
     {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Save to main branch",
       "key": "SaveToMainBranch",
-      "resourceId": 2086248,
-      "productId": 115
+      "resourceId": "2086248",
+      "productId": "115"
     },
     {
       "product": "Commerce Content",
       "category": "Entry",
       "resource": "Delete entry",
       "key": "DeleteEntry",
-      "resourceId": 2086249,
-      "productId": 115
+      "resourceId": "2086249",
+      "productId": "115"
     },
     {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Remove from main branch",
       "key": "RemoveFromMainBranch",
-      "resourceId": 2086250,
-      "productId": 115
+      "resourceId": "2086250",
+      "productId": "115"
     },
     {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Merge branch",
       "key": "MergeBranch",
-      "resourceId": 2086251,
-      "productId": 115
+      "resourceId": "2086251",
+      "productId": "115"
     },
     {
       "product": "Commerce Content",
       "category": "Media Gallery",
       "resource": "Upload Image",
       "key": "UploadImage",
-      "resourceId": 2114634,
-      "productId": 115
+      "resourceId": "2114634",
+      "productId": "115"
     },
     {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Delete Branch",
       "key": "DeleteBranch",
-      "resourceId": 2153203,
-      "productId": 115
+      "resourceId": "2153203",
+      "productId": "115"
     },
     {
       "product": "Commerce Content",
       "category": "Branch",
       "resource": "Create Branch",
       "key": "CreateBranch",
-      "resourceId": 2153204,
-      "productId": 115
+      "resourceId": "2153204",
+      "productId": "115"
     },
     {
       "product": "Conditions Evaluator",
       "category": "Conditions",
       "resource": "Read conditions",
       "key": "read_conditions",
-      "resourceId": 446093,
-      "productId": 69
+      "resourceId": "446093",
+      "productId": "69"
     },
     {
       "product": "Conditions Evaluator",
       "category": "Conditions",
       "resource": "Modify conditions",
       "key": "modify_conditions",
-      "resourceId": 446094,
-      "productId": 69
+      "resourceId": "446094",
+      "productId": "69"
     },
     {
       "product": "Conversation Tracker",
       "category": "Email",
       "resource": "End Conversation",
       "key": "Finalizar_Conversa",
-      "resourceId": 1137,
-      "productId": 20
+      "resourceId": "1137",
+      "productId": "20"
     },
     {
       "product": "Conversation Tracker",
       "category": "Email",
       "resource": "Extend Conversation",
       "key": "Prorrogar_Conversa",
-      "resourceId": 1138,
-      "productId": 20
+      "resourceId": "1138",
+      "productId": "20"
     },
     {
       "product": "Conversation Tracker",
       "category": "Internal",
       "resource": "ConversationTracker-InternalApi",
       "key": "ConversationTrackerInternalApi",
-      "resourceId": 2006418,
-      "productId": 20
+      "resourceId": "2006418",
+      "productId": "20"
     },
     {
       "product": "Conversation Tracker",
       "category": "Email",
       "resource": "ConversationTracker Email Mapping",
       "key": "ConversationTracker-EmailMapping",
-      "resourceId": 2123571,
-      "productId": 20
+      "resourceId": "2123571",
+      "productId": "20"
     },
     {
       "product": "Credit Control",
       "category": "Purchase Conditions",
       "resource": "Read Cross Profile Purchase Conditions",
       "key": "read_cross_profile_purchase_conditions",
-      "resourceId": 2128450,
-      "productId": 58
+      "resourceId": "2128450",
+      "productId": "58"
     },
     {
       "product": "Customer Management",
       "category": "Contract",
       "resource": "View Contracts",
       "key": "ViewContracts",
-      "resourceId": 2106494,
-      "productId": 130
+      "resourceId": "2106494",
+      "productId": "130"
     },
     {
       "product": "Customer Management",
       "category": "Contract",
       "resource": "Edit Contracts",
       "key": "EditContracts",
-      "resourceId": 2106495,
-      "productId": 130
+      "resourceId": "2106495",
+      "productId": "130"
     },
     {
       "product": "Dandelion",
       "category": "Export Functions",
       "resource": "Export Resource",
       "key": "dandelion-export",
-      "resourceId": 1014315,
-      "productId": 85
+      "resourceId": "1014315",
+      "productId": "85"
     },
     {
       "product": "Dandelion",
       "category": "Import Functions",
       "resource": "Import Resource",
       "key": "dandelion-import",
-      "resourceId": 1014380,
-      "productId": 85
+      "resourceId": "1014380",
+      "productId": "85"
     },
     {
       "product": "Data Vault",
       "category": "Internal",
       "resource": "Tokenize",
       "key": "Tokenize",
-      "resourceId": 2128438,
-      "productId": 133
+      "resourceId": "2128438",
+      "productId": "133"
     },
     {
       "product": "Data Vault",
       "category": "Internal",
       "resource": "Detokenize",
       "key": "Detokenize",
-      "resourceId": 2128439,
-      "productId": 133
+      "resourceId": "2128439",
+      "productId": "133"
     },
     {
       "product": "Data Vault",
       "category": "Internal",
       "resource": "Fingerprint",
       "key": "Fingerprint",
-      "resourceId": 2128440,
-      "productId": 133
+      "resourceId": "2128440",
+      "productId": "133"
     },
     {
       "product": "Data Vault",
       "category": "Internal",
       "resource": "User Rights Delete",
       "key": "DataVaultUserRightsDelete",
-      "resourceId": 2128441,
-      "productId": 133
+      "resourceId": "2128441",
+      "productId": "133"
     },
     {
       "product": "Data Vault",
       "category": "Internal",
       "resource": "User Rights Retrieve",
       "key": "DataVaultUserRightsRetrieve",
-      "resourceId": 2128442,
-      "productId": 133
+      "resourceId": "2128442",
+      "productId": "133"
     },
     {
       "product": "Delivery Promises",
       "category": "ProductAvailability",
       "resource": "Notify Product Availability Change",
       "key": "NotifyProductAvailabilityChange",
-      "resourceId": 2032871,
-      "productId": 111
+      "resourceId": "2032871",
+      "productId": "111"
     },
     {
       "product": "Delivery Promises",
       "category": "ProductAvailability",
       "resource": "Delivery Promises ReprocessItem",
       "key": "DeliveryPromisesReprocessItem",
-      "resourceId": 2118039,
-      "productId": 111
+      "resourceId": "2118039",
+      "productId": "111"
     },
     {
       "product": "FastStore",
       "category": "Secrets",
       "resource": "View Secrets",
       "key": "ViewSecrets",
-      "resourceId": 2100329,
-      "productId": 129
+      "resourceId": "2100329",
+      "productId": "129"
     },
     {
       "product": "FastStore",
       "category": "Secrets",
       "resource": "Edit Secrets",
       "key": "EditSecrets",
-      "resourceId": 2100330,
-      "productId": 129
+      "resourceId": "2100330",
+      "productId": "129"
     },
     {
       "product": "Fraud Prevention",
       "category": "Transaction Attempts",
       "resource": "View transaction attempts",
       "key": "ViewTransactionAttempts",
-      "resourceId": 2134012,
-      "productId": 127
+      "resourceId": "2134012",
+      "productId": "127"
     },
     {
       "product": "Fraud Prevention",
       "category": "Transaction Attempts",
       "resource": "Edit transaction attempt action settings",
       "key": "EditTransactionAttemptActionSettings",
-      "resourceId": 2134013,
-      "productId": 127
+      "resourceId": "2134013",
+      "productId": "127"
     },
     {
       "product": "Fraud Prevention",
       "category": "Transaction Attempts",
       "resource": "Edit transaction attempt score settings",
       "key": "EditTransactionAttemptScoreSettings",
-      "resourceId": 2134014,
-      "productId": 127
+      "resourceId": "2134014",
+      "productId": "127"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get applications",
       "key": "Get_Applications",
-      "resourceId": 1066,
-      "productId": 1
+      "resourceId": "1066",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Find user by email",
       "key": "Get_User_By_Identifier",
-      "resourceId": 1070,
-      "productId": 1
+      "resourceId": "1070",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "View users with account access",
       "key": "Get_Users_By_Account",
-      "resourceId": 1071,
-      "productId": 1
+      "resourceId": "1071",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "View all admin users",
       "key": "Get_Users_By_IsAdmin",
-      "resourceId": 1072,
-      "productId": 1
+      "resourceId": "1072",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Button linking user to role",
       "key": "Create_Role_User",
-      "resourceId": 1073,
-      "productId": 1
+      "resourceId": "1073",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get resource by key",
       "key": "Get_Resource_By_Key",
-      "resourceId": 1082,
-      "productId": 1
+      "resourceId": "1082",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Link user to role",
       "key": "Associate_Login_To_Role",
-      "resourceId": 1084,
-      "productId": 1
+      "resourceId": "1084",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Unlink user from role",
       "key": "Disassociate_Login_To_Role",
-      "resourceId": 1085,
-      "productId": 1
+      "resourceId": "1085",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "View accounts a user has access to",
       "key": "Get_Licensed_Accounts_From_ProductId",
-      "resourceId": 1093,
-      "productId": 1
+      "resourceId": "1093",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Delete access profile",
       "key": "Role:Delete",
-      "resourceId": 1131,
-      "productId": 1
+      "resourceId": "1131",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get admin status",
       "key": "Get_Admin_Status",
-      "resourceId": 1180,
-      "productId": 1
+      "resourceId": "1180",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get accounts",
       "key": "Get_Accounts_Paged",
-      "resourceId": 1181,
-      "productId": 1
+      "resourceId": "1181",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Set/Unset production status from account",
       "key": "Remove_Account_From_Production",
-      "resourceId": 113305,
-      "productId": 1
+      "resourceId": "113305",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "View API Keys",
       "key": "View_ApiKeys",
-      "resourceId": 1991888,
-      "productId": 1
+      "resourceId": "1991888",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Internal access control",
       "resource": "Block Cascading User",
       "key": "BlockUser",
-      "resourceId": 2004075,
-      "productId": 1
+      "resourceId": "2004075",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "View Storefront User Permissions",
       "key": "View_Storefront_User_Permissions",
-      "resourceId": 2082433,
-      "productId": 1
+      "resourceId": "2082433",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Edit Storefront User Permissions",
       "key": "Edit_Storefront_User_Permissions",
-      "resourceId": 2082434,
-      "productId": 1
+      "resourceId": "2082434",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get paged products",
       "key": "Get_Products_Paged",
-      "resourceId": 1187,
-      "productId": 1
+      "resourceId": "1187",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Save license",
       "key": "Save_License",
-      "resourceId": 1198,
-      "productId": 1
+      "resourceId": "1198",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Link license to account",
       "key": "Save_License_In_Account",
-      "resourceId": 1058,
-      "productId": 1
+      "resourceId": "1058",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Set account domain",
       "key": "Set_Domain",
-      "resourceId": 1060,
-      "productId": 1
+      "resourceId": "1060",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Check if provisioned",
       "key": "Check_in_Provisioning",
-      "resourceId": 1062,
-      "productId": 1
+      "resourceId": "1062",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get all accounts",
       "key": "Get_All_Accounts",
-      "resourceId": 1065,
-      "productId": 1
+      "resourceId": "1065",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Find product url",
       "key": "Get_Product_Endpoint",
-      "resourceId": 1068,
-      "productId": 1
+      "resourceId": "1068",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Save resource",
       "key": "Save_Resource",
-      "resourceId": 1080,
-      "productId": 1
+      "resourceId": "1080",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Remove resource by key",
       "key": "Remove_Resource_By_Key",
-      "resourceId": 1081,
-      "productId": 1
+      "resourceId": "1081",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Account list",
       "key": "Account:List",
-      "resourceId": 1098,
-      "productId": 1
+      "resourceId": "1098",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Create account",
       "key": "Account:Add",
-      "resourceId": 1099,
-      "productId": 1
+      "resourceId": "1099",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Edit account",
       "key": "Account:Edit",
-      "resourceId": 1100,
-      "productId": 1
+      "resourceId": "1100",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Delete account",
       "key": "Account:Delete",
-      "resourceId": 1101,
-      "productId": 1
+      "resourceId": "1101",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Ui - Product list",
       "key": "Product:List",
-      "resourceId": 1102,
-      "productId": 1
+      "resourceId": "1102",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Create product",
       "key": "Product:Add",
-      "resourceId": 1103,
-      "productId": 1
+      "resourceId": "1103",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Edit product",
       "key": "Product:Edit",
-      "resourceId": 1104,
-      "productId": 1
+      "resourceId": "1104",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Delete product",
       "key": "Product:Delete",
-      "resourceId": 1105,
-      "productId": 1
+      "resourceId": "1105",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - List of licenses",
       "key": "License:List",
-      "resourceId": 1106,
-      "productId": 1
+      "resourceId": "1106",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Create license",
       "key": "License:Add",
-      "resourceId": 1107,
-      "productId": 1
+      "resourceId": "1107",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Edit license",
       "key": "License:Edit",
-      "resourceId": 1108,
-      "productId": 1
+      "resourceId": "1108",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Delete license",
       "key": "License:Delete",
-      "resourceId": 1109,
-      "productId": 1
+      "resourceId": "1109",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Link product to license",
       "key": "License:AssociateProducts",
-      "resourceId": 1110,
-      "productId": 1
+      "resourceId": "1110",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Unlink product from license",
       "key": "License:DisassociateProducts",
-      "resourceId": 1111,
-      "productId": 1
+      "resourceId": "1111",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Users list",
       "key": "User:List",
-      "resourceId": 1116,
-      "productId": 1
+      "resourceId": "1116",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Create user",
       "key": "User:Add",
-      "resourceId": 1117,
-      "productId": 1
+      "resourceId": "1117",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Edit user",
       "key": "User:Edit",
-      "resourceId": 1118,
-      "productId": 1
+      "resourceId": "1118",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Delete User",
       "key": "User:Delete",
-      "resourceId": 1119,
-      "productId": 1
+      "resourceId": "1119",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Create resource category",
       "key": "ResourceCategory:Add",
-      "resourceId": 1125,
-      "productId": 1
+      "resourceId": "1125",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Role list",
       "key": "Role:List",
-      "resourceId": 1128,
-      "productId": 1
+      "resourceId": "1128",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Create Role",
       "key": "Role:Add",
-      "resourceId": 1129,
-      "productId": 1
+      "resourceId": "1129",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Edit role",
       "key": "Role:Edit",
-      "resourceId": 1130,
-      "productId": 1
+      "resourceId": "1130",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Link user to role",
       "key": "Role:AssociateUser",
-      "resourceId": 1133,
-      "productId": 1
+      "resourceId": "1133",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Unlink user from role",
       "key": "Role:DisassociateUser",
-      "resourceId": 1134,
-      "productId": 1
+      "resourceId": "1134",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Link resource to role",
       "key": "Role:AssociateResource",
-      "resourceId": 1135,
-      "productId": 1
+      "resourceId": "1135",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "UI - Unlink resource from role",
       "key": "Role:DisassociateResource",
-      "resourceId": 1136,
-      "productId": 1
+      "resourceId": "1136",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Add resource",
       "key": "Create_Resource",
-      "resourceId": 1176,
-      "productId": 1
+      "resourceId": "1176",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Remove account",
       "key": "Delete_Account",
-      "resourceId": 1182,
-      "productId": 1
+      "resourceId": "1182",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Add product",
       "key": "Create_Product",
-      "resourceId": 1186,
-      "productId": 1
+      "resourceId": "1186",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Remove license",
       "key": "Delete_License",
-      "resourceId": 1199,
-      "productId": 1
+      "resourceId": "1199",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Get account provision status",
       "key": "Get_Products_In_Provisioning",
-      "resourceId": 1200,
-      "productId": 1
+      "resourceId": "1200",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Update application token",
       "key": "Update_Token",
-      "resourceId": 1208,
-      "productId": 1
+      "resourceId": "1208",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get product",
       "key": "Get_Product",
-      "resourceId": 1618,
-      "productId": 1
+      "resourceId": "1618",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Turn on/off account",
       "key": "Inactivate_Account",
-      "resourceId": 113304,
-      "productId": 1
+      "resourceId": "113304",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get hosts by account",
       "key": "Get_Hosts_By_Site",
-      "resourceId": 429883,
-      "productId": 1
+      "resourceId": "429883",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get stores by account",
       "key": "Get_Sites_By_Account",
-      "resourceId": 445913,
-      "productId": 1
+      "resourceId": "445913",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "List resources",
       "key": "Resource:List",
-      "resourceId": 458756,
-      "productId": 1
+      "resourceId": "458756",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Create resource",
       "key": "Resource:Add",
-      "resourceId": 458757,
-      "productId": 1
+      "resourceId": "458757",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Update resource",
       "key": "Resource:Edit",
-      "resourceId": 458758,
-      "productId": 1
+      "resourceId": "458758",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Web access control",
       "resource": "Delete resource",
       "key": "Resource:Delete",
-      "resourceId": 458759,
-      "productId": 1
+      "resourceId": "458759",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Services access control",
       "resource": "Get Licenses Paged",
       "key": "Get_Licenses_Paged",
-      "resourceId": 721135,
-      "productId": 1
+      "resourceId": "721135",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Get_Active_Accounts",
       "resource": "Get_Active_Accounts",
       "key": "Get_Active_Accounts",
-      "resourceId": 2036795,
-      "productId": 1
+      "resourceId": "2036795",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Internal",
       "resource": "Teams Management",
       "key": "ManageTeams",
-      "resourceId": 2124263,
-      "productId": 1
+      "resourceId": "2124263",
+      "productId": "1"
     },
     {
       "product": "License Manager",
       "category": "Internal",
       "resource": "Services Management",
       "key": "ManageServices",
-      "resourceId": 2124264,
-      "productId": 1
+      "resourceId": "2124264",
+      "productId": "1"
     },
     {
       "product": "Log",
       "category": "Log Admin",
       "resource": "Get App",
       "key": "GetApp",
-      "resourceId": 700271,
-      "productId": 14
+      "resourceId": "700271",
+      "productId": "14"
     },
     {
       "product": "Log",
       "category": "Log Admin",
       "resource": "Create Table ",
       "key": "CreateTable ",
-      "resourceId": 700272,
-      "productId": 14
+      "resourceId": "700272",
+      "productId": "14"
     },
     {
       "product": "Logistics",
       "category": "Logistics access",
       "resource": "Logistics shipping read only",
       "key": "ShippingViewer",
-      "resourceId": 475814,
-      "productId": 9
+      "resourceId": "475814",
+      "productId": "9"
     },
     {
       "product": "Logistics",
       "category": "Logistics access",
       "resource": "LogisticsInternal",
       "key": "LogisticsInternal",
-      "resourceId": 1994105,
-      "productId": 9
+      "resourceId": "1994105",
+      "productId": "9"
     },
     {
       "product": "OMS",
       "category": "Internal",
       "resource": "OMS-InternalApi",
       "key": "OMSInternalApi",
-      "resourceId": 2006417,
-      "productId": 19
+      "resourceId": "2006417",
+      "productId": "19"
     },
     {
       "product": "OMS",
       "category": "Internal",
       "resource": "FeedHookV3Maintenance",
       "key": "FeedHookV3Maintenance",
-      "resourceId": 2064617,
-      "productId": 19
+      "resourceId": "2064617",
+      "productId": "19"
     },
     {
       "product": "Organization Units",
       "category": "units",
       "resource": "Edit Organization Unit",
       "key": "Edit_Organization_Unit",
-      "resourceId": 2071771,
-      "productId": 110
+      "resourceId": "2071771",
+      "productId": "110"
     },
     {
       "product": "Organization Units",
       "category": "units",
       "resource": "Move Organization Unit",
       "key": "Move_Organization_Unit",
-      "resourceId": 2071772,
-      "productId": 110
+      "resourceId": "2071772",
+      "productId": "110"
     },
     {
       "product": "Organization Units",
       "category": "units",
       "resource": "View Organization Unit",
       "key": "View_Organization_Unit",
-      "resourceId": 2071774,
-      "productId": 110
+      "resourceId": "2071774",
+      "productId": "110"
     },
     {
       "product": "PCI Gateway",
       "category": "Payment-ManageStore",
       "resource": "Manage Store AntiFraud",
       "key": "ManageStoreAntiFraud ",
-      "resourceId": 1684988,
+      "resourceId": "1684988",
       "productId": ""
     },
     {
@@ -1181,375 +1181,375 @@
       "category": "Card Token Vault",
       "resource": "View Card Tokens",
       "key": "ViewCardTokens",
-      "resourceId": 2078628,
-      "productId": 114
+      "resourceId": "2078628",
+      "productId": "114"
     },
     {
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Edit Card Tokens",
       "key": "ManageCardTokens",
-      "resourceId": 2078744,
-      "productId": 114
+      "resourceId": "2078744",
+      "productId": "114"
     },
     {
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Create Card Tokens",
       "key": "CreateCardTokens",
-      "resourceId": 2078845,
-      "productId": 114
+      "resourceId": "2078845",
+      "productId": "114"
     },
     {
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Delete Card Token",
       "key": "DeleteCardToken",
-      "resourceId": 2078846,
-      "productId": 114
+      "resourceId": "2078846",
+      "productId": "114"
     },
     {
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Import Card Token",
       "key": "ImportCardToken",
-      "resourceId": 2078847,
-      "productId": 114
+      "resourceId": "2078847",
+      "productId": "114"
     },
     {
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Get Import Card Token Status ",
       "key": "GetImportCardTokenStatus",
-      "resourceId": 2078848,
-      "productId": 114
+      "resourceId": "2078848",
+      "productId": "114"
     },
     {
       "product": "Payments",
       "category": "Card Token Vault",
       "resource": "Get Import Card Tokens Report",
       "key": "GetImportCardTokensReport",
-      "resourceId": 2078849,
-      "productId": 114
+      "resourceId": "2078849",
+      "productId": "114"
     },
     {
       "product": "Payments Forget Me",
       "category": "Payments Services Management",
       "resource": "Registers Payments Service",
       "key": "payments_services_register",
-      "resourceId": 2029347,
-      "productId": 109
+      "resourceId": "2029347",
+      "productId": "109"
     },
     {
       "product": "Payments Forget Me",
       "category": "Payments Services Management",
       "resource": "Updates Payments Service",
       "key": "payments_services_update",
-      "resourceId": 2029348,
-      "productId": 109
+      "resourceId": "2029348",
+      "productId": "109"
     },
     {
       "product": "Payments Forget Me",
       "category": "Payments Services Management",
       "resource": "Find All Payments Services",
       "key": "payments_services_find_all",
-      "resourceId": 2029349,
-      "productId": 109
+      "resourceId": "2029349",
+      "productId": "109"
     },
     {
       "product": "Payments Forget Me",
       "category": "Payments Services Management",
       "resource": "Find Payments Service",
       "key": "payments_services_find",
-      "resourceId": 2029350,
-      "productId": 109
+      "resourceId": "2029350",
+      "productId": "109"
     },
     {
       "product": "Payments Forget Me",
       "category": "Payments Services Management",
       "resource": "Deletes Payments Service",
       "key": "payments_services_delete",
-      "resourceId": 2029351,
-      "productId": 109
+      "resourceId": "2029351",
+      "productId": "109"
     },
     {
       "product": "PersonalShopper App",
       "category": "Call",
       "resource": "View List Call",
       "key": "view-list-call",
-      "resourceId": 1639430,
-      "productId": 100
+      "resourceId": "1639430",
+      "productId": "100"
     },
     {
       "product": "PersonalShopper App",
       "category": "Analytics",
       "resource": "View Analytics",
       "key": "view-analytics",
-      "resourceId": 1639728,
-      "productId": 100
+      "resourceId": "1639728",
+      "productId": "100"
     },
     {
       "product": "PersonalShopper App",
       "category": "Setting",
       "resource": "View Setting",
       "key": "view-setting",
-      "resourceId": 1643056,
-      "productId": 100
+      "resourceId": "1643056",
+      "productId": "100"
     },
     {
       "product": "Pricing",
       "category": "Price List",
       "resource": "View External Seller Prices",
       "key": "read_External_Seller_Prices",
-      "resourceId": 2067783,
-      "productId": 65
+      "resourceId": "2067783",
+      "productId": "65"
     },
     {
       "product": "Pricing",
       "category": "Price List",
       "resource": "Edit External Seller prices",
       "key": "modify_External_Seller_Prices",
-      "resourceId": 2067814,
-      "productId": 65
+      "resourceId": "2067814",
+      "productId": "65"
     },
     {
       "product": "Profile System",
       "category": "Documents",
       "resource": "Get Item",
       "key": "GetItemResource",
-      "resourceId": 1479422,
-      "productId": 96
+      "resourceId": "1479422",
+      "productId": "96"
     },
     {
       "product": "Profile System",
       "category": "Documents",
       "resource": "Save and Update Item",
       "key": "PutItemResource",
-      "resourceId": 1479648,
-      "productId": 96
+      "resourceId": "1479648",
+      "productId": "96"
     },
     {
       "product": "Profile System",
       "category": "Documents",
       "resource": "Delete Item",
       "key": "DeleteItemResource",
-      "resourceId": 1479726,
-      "productId": 96
+      "resourceId": "1479726",
+      "productId": "96"
     },
     {
       "product": "Profile System",
       "category": "Documents",
       "resource": "Validate Conditions",
       "key": "ValidateConditionsResource",
-      "resourceId": 1926330,
-      "productId": 96
+      "resourceId": "1926330",
+      "productId": "96"
     },
     {
       "product": "Profile System",
       "category": "Documents",
       "resource": "Get Item V2",
       "key": "GetItemResourceV2",
-      "resourceId": 1979918,
-      "productId": 96
+      "resourceId": "1979918",
+      "productId": "96"
     },
     {
       "product": "Profile System",
       "category": "Internal",
       "resource": "ProfileSystem User Rights",
       "key": "ProfileSystemUserRights",
-      "resourceId": 2113461,
-      "productId": 96
+      "resourceId": "2113461",
+      "productId": "96"
     },
     {
       "product": "Rates and Benefits",
       "category": "Promotions",
       "resource": "Manage External Seller Promotions",
       "key": "External_Seller_Promotions",
-      "resourceId": 2067822,
-      "productId": 16
+      "resourceId": "2067822",
+      "productId": "16"
     },
     {
       "product": "Rates and Benefits",
       "category": "Promotions",
       "resource": "Manage promotions activation",
       "key": "manage_promotions_activation",
-      "resourceId": 2072569,
-      "productId": 16
+      "resourceId": "2072569",
+      "productId": "16"
     },
     {
       "product": "Releases",
       "category": "Releases",
       "resource": "Add Updates",
       "key": "edit-update",
-      "resourceId": 1257566,
-      "productId": 91
+      "resourceId": "1257566",
+      "productId": "91"
     },
     {
       "product": "Releases",
       "category": "Releases",
       "resource": "See Releases menu on the side-bar",
       "key": "sidebar_visualizar",
-      "resourceId": 2022233,
-      "productId": 91
+      "resourceId": "2022233",
+      "productId": "91"
     },
     {
       "product": "Sales App",
       "category": "Reports",
       "resource": "View Sales Performance",
       "key": "ViewSalesPerformance",
-      "resourceId": 2126563,
-      "productId": 132
+      "resourceId": "2126563",
+      "productId": "132"
     },
     {
       "product": "Search",
       "category": "Search API",
       "resource": "Product Scroll",
       "key": "product-scroll",
-      "resourceId": 2099302,
-      "productId": 76
+      "resourceId": "2099302",
+      "productId": "76"
     },
     {
       "product": "Security Monitor",
       "category": "security-center-read",
       "resource": "List/Describe reports",
       "key": "read-reports",
-      "resourceId": 1858423,
-      "productId": 103
+      "resourceId": "1858423",
+      "productId": "103"
     },
     {
       "product": "Security Monitor",
       "category": "security-center-write",
       "resource": "Create Reports",
       "key": "write-reports",
-      "resourceId": 1858424,
-      "productId": 103
+      "resourceId": "1858424",
+      "productId": "103"
     },
     {
       "product": "Security Monitor",
       "category": "security-center-write",
       "resource": "Update Sensors",
       "key": "update-sensors",
-      "resourceId": 1880649,
-      "productId": 103
+      "resourceId": "1880649",
+      "productId": "103"
     },
     {
       "product": "Security Monitor",
       "category": "security-center-read",
       "resource": "List/Describe Sensors",
       "key": "read-sensors",
-      "resourceId": 1880664,
-      "productId": 103
+      "resourceId": "1880664",
+      "productId": "103"
     },
     {
       "product": "Suggestion",
       "category": "Suggestion Resources",
       "resource": "mapper",
       "key": "mapper",
-      "resourceId": 1556055,
-      "productId": 50
+      "resourceId": "1556055",
+      "productId": "50"
     },
     {
       "product": "Time Series",
       "category": "Time Series",
       "resource": "Bulk Entry",
       "key": "BulkEntry_old",
-      "resourceId": 600174,
-      "productId": 75
+      "resourceId": "600174",
+      "productId": "75"
     },
     {
       "product": "Time Series",
       "category": "Time Series",
       "resource": "Get Application Configuration",
       "key": "GetApplicationConfiguration",
-      "resourceId": 610118,
-      "productId": 75
+      "resourceId": "610118",
+      "productId": "75"
     },
     {
       "product": "Time Series",
       "category": "Time Series",
       "resource": "Delete Application Configuration Cache",
       "key": "DeleteApplicationConfigurationCache",
-      "resourceId": 610119,
-      "productId": 75
+      "resourceId": "610119",
+      "productId": "75"
     },
     {
       "product": "Unikey",
       "category": "Unikey Resources",
       "resource": "Increment sequence",
       "key": "Increase_Sequence",
-      "resourceId": 1211,
-      "productId": 18
+      "resourceId": "1211",
+      "productId": "18"
     },
     {
       "product": "Unikey",
       "category": "Unikey Resources",
       "resource": "Create bucket",
       "key": "Create_Bucket",
-      "resourceId": 1212,
-      "productId": 18
+      "resourceId": "1212",
+      "productId": "18"
     },
     {
       "product": "Unikey",
       "category": "Unikey Resources",
       "resource": "Get new key",
       "key": "Generate_Key",
-      "resourceId": 1213,
-      "productId": 18
+      "resourceId": "1213",
+      "productId": "18"
     },
     {
       "product": "Unikey",
       "category": "Unikey Resources",
       "resource": "Get bucket configuration",
       "key": "Get_Bucket_Configuration",
-      "resourceId": 1356,
-      "productId": 18
+      "resourceId": "1356",
+      "productId": "18"
     },
     {
       "product": "Unikey",
       "category": "Unikey Resources",
       "resource": "Change bucket configuration",
       "key": "Change_Bucket_Configuration",
-      "resourceId": 1707,
-      "productId": 18
+      "resourceId": "1707",
+      "productId": "18"
     },
     {
       "product": "Unikey",
       "category": "internal",
       "resource": "Unikey-Internal",
       "key": "UnikeyInternal",
-      "resourceId": 1997753,
-      "productId": 18
+      "resourceId": "1997753",
+      "productId": "18"
     },
     {
       "product": "Units",
       "category": "units",
       "resource": "Edit Unit",
       "key": "Edit_Unit",
-      "resourceId": 2029283,
-      "productId": 110
+      "resourceId": "2029283",
+      "productId": "110"
     },
     {
       "product": "Units",
       "category": "units",
       "resource": "Move Unit",
       "key": "Move_Unit",
-      "resourceId": 2029291,
-      "productId": 110
+      "resourceId": "2029291",
+      "productId": "110"
     },
     {
       "product": "Units",
       "category": "units",
       "resource": "View Unit",
       "key": "View_Unit",
-      "resourceId": 2029293,
-      "productId": 110
+      "resourceId": "2029293",
+      "productId": "110"
     },
     {
       "product": "User Rights",
       "category": "applications",
       "resource": "Read Applications",
       "key": "applications_read",
-      "resourceId": 1634515,
+      "resourceId": "1634515",
       "productId": ""
     },
     {
@@ -1557,7 +1557,7 @@
       "category": "applications",
       "resource": "Write Applications",
       "key": "applications_write",
-      "resourceId": 1634523,
+      "resourceId": "1634523",
       "productId": ""
     },
     {
@@ -1565,63 +1565,63 @@
       "category": "user-rights-request",
       "resource": "Read user rights requests",
       "key": "user_rights_request_read",
-      "resourceId": 1634546,
-      "productId": 99
+      "resourceId": "1634546",
+      "productId": "99"
     },
     {
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Write user rights requests",
       "key": "user_rights_request_write",
-      "resourceId": 1634554,
-      "productId": 99
+      "resourceId": "1634554",
+      "productId": "99"
     },
     {
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
       "key": "removal-request-process",
-      "resourceId": 1705138,
-      "productId": 99
+      "resourceId": "1705138",
+      "productId": "99"
     },
     {
       "product": "User Rights",
       "category": "user-rights-request",
       "resource": "Process User Rights Removal Request",
       "key": "removal-request-process",
-      "resourceId": 1705138,
-      "productId": 99
+      "resourceId": "1705138",
+      "productId": "99"
     },
     {
       "product": "VTEX CX Platform",
       "category": "CX Platform Access",
       "resource": "Access CX Platform",
       "key": "AccessCxPlatform",
-      "resourceId": 2156284,
-      "productId": 135
+      "resourceId": "2156284",
+      "productId": "135"
     },
     {
       "product": "VTEX Fulfilment",
       "category": "Fulfilment Resources",
       "resource": "Place Orders",
       "key": "CriaPedidos",
-      "resourceId": 1360,
-      "productId": 15
+      "resourceId": "1360",
+      "productId": "15"
     },
     {
       "product": "VTEX Fulfilment",
       "category": "Fulfilment Resources",
       "resource": "Order Details",
       "key": "ObtemInfosDeCompra",
-      "resourceId": 1361,
-      "productId": 15
+      "resourceId": "1361",
+      "productId": "15"
     },
     {
       "product": "VTEX Home",
       "category": "Dashboards",
       "resource": "Client",
       "key": "dashboards_cliente",
-      "resourceId": 106513,
+      "resourceId": "106513",
       "productId": ""
     },
     {
@@ -1629,7 +1629,7 @@
       "category": "Dashboards",
       "resource": "Admin",
       "key": "dashboards_admin",
-      "resourceId": 106530,
+      "resourceId": "106530",
       "productId": ""
     },
     {
@@ -1637,7 +1637,7 @@
       "category": "Dashboards",
       "resource": "Analyst",
       "key": "dashboards_analista",
-      "resourceId": 106531,
+      "resourceId": "106531",
       "productId": ""
     },
     {
@@ -1645,104 +1645,104 @@
       "category": "Infrastructure",
       "resource": "File Manager Bucket Config",
       "key": "file-manager-bucket-config",
-      "resourceId": 2156623,
-      "productId": 66
+      "resourceId": "2156623",
+      "productId": "66"
     },
     {
       "product": "VTEX Payment",
       "category": "Payments Administration",
       "resource": "Card Management",
       "key": "card-management",
-      "resourceId": 604283,
-      "productId": 72
+      "resourceId": "604283",
+      "productId": "72"
     },
     {
       "product": "VTEX Payment",
       "category": "Payments Administration",
       "resource": "Banking View",
       "key": "banking-view",
-      "resourceId": 604284,
-      "productId": 72
+      "resourceId": "604284",
+      "productId": "72"
     },
     {
       "product": "VTEX Payment",
       "category": "Payments Administration",
       "resource": "Monetary Activity",
       "key": "monetary-activity",
-      "resourceId": 604285,
-      "productId": 72
+      "resourceId": "604285",
+      "productId": "72"
     },
     {
       "product": "VTEX Payment",
       "category": "Payments Administration",
       "resource": "Configuring",
       "key": "payment-configuring",
-      "resourceId": 604286,
-      "productId": 72
+      "resourceId": "604286",
+      "productId": "72"
     },
     {
       "product": "VTEX Payment",
       "category": "Payments Administration",
       "resource": "Dispute Management",
       "key": "disputes-management",
-      "resourceId": 604287,
-      "productId": 72
+      "resourceId": "604287",
+      "productId": "72"
     },
     {
       "product": "Vtex ID",
       "category": "Admin",
       "resource": "Manage VTEX ID",
       "key": "view_admin",
-      "resourceId": 143458,
-      "productId": 64
+      "resourceId": "143458",
+      "productId": "64"
     },
     {
       "product": "Vtex ID",
       "category": "Account Configuration",
       "resource": "Read Account Config",
       "key": "read_account_config",
-      "resourceId": 1497371,
-      "productId": 64
+      "resourceId": "1497371",
+      "productId": "64"
     },
     {
       "product": "Vtex ID",
       "category": "Account Configuration",
       "resource": "Write Account Config",
       "key": "write_account_config",
-      "resourceId": 1497386,
-      "productId": 64
+      "resourceId": "1497386",
+      "productId": "64"
     },
     {
       "product": "Vtex ID",
       "category": "User Management",
       "resource": "DeleteLoginPreference",
       "key": "DeleteLoginPreference",
-      "resourceId": 2009425,
-      "productId": 64
+      "resourceId": "2009425",
+      "productId": "64"
     },
     {
       "product": "Vtex ID",
       "category": "User Management",
       "resource": "Revoke user login sessions",
       "key": "RevokeLoginSessions",
-      "resourceId": 2051366,
-      "productId": 64
+      "resourceId": "2051366",
+      "productId": "64"
     },
     {
       "product": "Vtex ID",
       "category": "User Management",
       "resource": "Generate Access Code",
       "key": "Generate_Access_Code",
-      "resourceId": 2121783,
-      "productId": 64
+      "resourceId": "2121783",
+      "productId": "64"
     },
     {
       "product": "Vtex ID",
       "category": "User Management",
       "resource": "Read Users",
       "key": "ReadUsers",
-      "resourceId": 2141288,
-      "productId": 64
+      "resourceId": "2141288",
+      "productId": "64"
     }
   ]
 }
