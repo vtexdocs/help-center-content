@@ -14,7 +14,7 @@ tags:
   - Logística
 ---
 
-A VTEX está disponibilizando em Open Beta a funcionalidade [Delivery Promise](/pt/docs/tutorials/delivery-promise-beta), que permite ao comprador visualizar, durante a navegação, apenas os produtos que ele realmente pode adquirir, considerando a disponibilidade em estoque, as formas de envio válidas e as [opções de envio](pt/docs/tutorials/opcoes-de-envio-beta) válidas para o endereço de entrega informado.
+A VTEX está disponibilizando em Open Beta a funcionalidade [Delivery Promise](/pt/docs/tutorials/delivery-promise-beta), que permite ao comprador visualizar, durante a navegação, apenas os produtos que ele realmente pode adquirir, considerando a disponibilidade em estoque e as [opções de envio](pt/docs/tutorials/opcoes-de-envio-beta) válidas para o endereço de entrega informado.
 
 Ao conhecer a localização do comprador desde o início da jornada, a loja passa a exibir um sortimento mais preciso e relevante, , com informações de prazo e métodos de envio disponíveis desde as primeiras etapas da compra.
 
