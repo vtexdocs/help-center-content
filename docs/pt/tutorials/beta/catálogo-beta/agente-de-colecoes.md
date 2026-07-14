@@ -24,7 +24,7 @@ locale: pt
 O Agente de Coleções está atualmente em beta, e durante este período a funcionalidade tem as seguintes limitações:
 
 - Qual é a disponibilidade?
-- Quais são as imitações?
+- Quais são as limitações?
 - Quais são os comportamentos esperados do beta? // The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included. // Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
 
 ## Acessar o Agente de Coleções
