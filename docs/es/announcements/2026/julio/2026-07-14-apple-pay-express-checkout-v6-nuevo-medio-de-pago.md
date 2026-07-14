@@ -5,7 +5,7 @@ updatedAt: 2026-07-14T00:00:00.000Z
 contentType: updates
 productTeam: Payments
 slugEN: 2026-07-14-apple-pay-express-checkout-v6-new-payment-method
-locale: en
+locale: es
 announcementSynopsisES: 'Apple Pay Express Checkout V6 en closed beta para tiendas con Checkout V6, con autenticación en el dispositivo y compra más rápida.'
 tags:
   - Nueva funcionalidad
