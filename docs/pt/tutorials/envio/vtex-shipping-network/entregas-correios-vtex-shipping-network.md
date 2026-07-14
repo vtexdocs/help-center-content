@@ -27,11 +27,14 @@ Depois de imprimir a etiqueta dos Correios e enviar o pacote, as informações d
 
 Esse artigo apresenta as instruções para:
 
-* [Acessar as informações dos pacotes postados nos Correios](#informacoes-dos-pedidos)
-* [Conferir os detalhes de um pedido](#detalhes-de-um-pedido)
-* [Realizar a busca de pacotes](#busca)
-* [Exportar as informações dos pacotes em uma planilha CSV](#exportacao)
-* [Solicitar informações dos pacotes aos Correios](#solicitar-informacoes-do-pedido-aos-correios)
+- [Informações dos Pedidos](#informações-dos-pedidos)
+  - [Detalhes de um pedido](#detalhes-de-um-pedido)
+  - [Busca](#busca)
+  - [Exportação](#exportação)
+- [Solicitar Informações do Pedido aos Correios](#solicitar-informações-do-pedido-aos-correios)
+- [Conexão com agências dos Correios](#conexão-com-agências-dos-correios)
+- [Serviço de Logística Reversa dos Correios](#serviço-de-logística-reversa-dos-correios)
+- [Saiba mais](#saiba-mais)
 
 Além disso, ao final do artigo você vai encontrar informações sobre:
 
@@ -193,8 +196,6 @@ Caso você ainda não tenha uma operação com uma agência, acesse a [busca dos
 ## Serviço de Logística Reversa dos Correios
 
 Ao contratar o **VTEX Shipping Network Correios**, você pode utilizar o serviço [Logística Reversa dos Correios](https://www.correios.com.br/enviar/encomendas/logistica-reversa). A VTEX disponibiliza um login e uma senha para você utilizar no site dos Correios e gerar a autorização de postagem.
-
-> ℹ️ Para solicitar login e senha para utilizar o serviço de **Logística Reversa dos Correios**, entre em contato com a VTEX pelo email *vtexlog@vtex.com.br*.
 
 ## Saiba mais
 

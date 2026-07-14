@@ -17,7 +17,7 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ⚠️ Esta funcionalidade não está disponível para novos clientes.
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email *vtexlog@vtex.com.br*.
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/).
 
 Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
 
@@ -108,7 +108,7 @@ Veja na tabela abaixo os detalhes sobre o modelo de cobrança:
 
 A fatura do **VTEX Shipping Network Correios** é feita com emissão de nota fiscal e a natureza do serviço é _Licenciamento ou cessão de direito de uso de programas de computação, inclusive distribuição_.
 
-Todo mês é gerado um relatório com informações das entregas dos Correios e respectivos custos, e esse documento é enviado para o email do responsável, um contato definido no momento da implantação. Para alterá-lo, entre em contato com o nosso suporte pelo email _vtexlog@vtex.com.br_.
+Todo mês é gerado um relatório com informações das entregas dos Correios e respectivos custos, e esse documento é enviado para o email do responsável, um contato definido no momento da implantação.
 
 > ⚠️ A nota fiscal apresenta o valor total de custos com os Correios, no entanto, é possível checar o preço de cada envio no relatório mensal que o responsável recebe por email.
 
@@ -127,8 +127,6 @@ Existem diversas razões que resultam em diferença entre o preço cobrado do co
 Um motivo recorrente é quando o peso ou as dimensões (comprimento, largura e altura) de um item no Catálogo não correspondem de fato ao produto. A partir de medidas incorretas, o pacote a ser enviado pode ser maior ou menor que o estimado pelo sistema, e isso pode fazer o preço variar para mais ou para menos, já que os Correios ajustam o valor do frete de acordo com as medidas do pacote final.
 
 Portanto, certifique-se de que o peso e as dimensões dos itens no Catálogo refletem exatamente as características dos seus produtos.
-
-> ℹ️ Quando existe uma divergência no cálculo de frete no relatório de envios dos Correios, você deve entrar em contato pelo email *vtexlog@vtex.com.br* e abrir um ticket solicitando a análise dos custos e detalhes dos envios. O relatório mencionado é enviado mensalmente para o email do contato definido na etapa de contração do **VTEX Shipping Network Correios**.
 
 ## 9. Como posso emitir etiquetas de envio?
 
@@ -180,8 +178,6 @@ No Admin VTEX, a funcionalidade **Solicitar Informações** permite abrir um _Pe
 ## 15. É possível utilizar o serviço de Logística Reversa dos Correios?
 
 O seu contrato com o **VTEX Shipping Network Correios** permite utilizar o serviço de [Logística Reversa dos Correios](https://www.correios.com.br/enviar/encomendas/logistica-reversa). Para isso, a VTEX disponibiliza um login e uma senha para você utilizar no site dos Correios e gerar uma autorização de postagem.
-
-> ℹ️ Para solicitar o seu login e senha para o serviço de *Logística Reversa dos Correios*, entre em contato com a VTEX pelo email *vtexlog@vtex.com.br*.
 
 ## 16. Como descobrir a URL de rastreio de um pedido?
 
