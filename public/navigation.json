@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
@@ -46068,6 +46083,21 @@
             },
             {
               "name": {
+                "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
+                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho",
+                "en": "Error en el campo de cantidad máxima de la misma SKU en la Cesta"
+              },
+              "slug": {
+                "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
+                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Error when changing delivery type when seller has recursion",
                 "es": "Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad",
                 "pt": "Erro ao mudar o tipo de entrega quando o vendedor tem recorrência"
@@ -46309,12 +46339,12 @@
             {
               "name": {
                 "en": "Interacting with the payment component while is still in a loading state sends the wrong payment option",
-                "es": "Interactuar con el componente de pago mientras aún se encuentra en estado de carga envía la opción de pago incorrecta.",
+                "es": "Si se interactúa con el componente de pago mientras aún se está cargando, se envía una opción de pago incorrecta",
                 "pt": "Interagir com o componente de pagamento enquanto ele ainda está em estado de carregamento envia a opção de pagamento incorreta."
               },
               "slug": {
                 "en": "interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option",
-                "es": "interactuar-con-el-componente-de-pago-mientras-aun-se-encuentra-en-estado-de-carga-envia-la-opcion-de-pago-incorrecta",
+                "es": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
                 "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta"
               },
               "origin": "",
@@ -59886,12 +59916,12 @@
             {
               "name": {
                 "en": "Bin sent does not match an associated Card brand",
-                "es": "El BIN enviado no coincide con una marca de tarjeta asociada.",
+                "es": "La papelera enviada no coincide con una marca de tarjeta asociada",
                 "pt": "O endereço enviado não corresponde a nenhuma bandeira de cartão associada."
               },
               "slug": {
                 "en": "bin-sent-does-not-match-an-associated-card-brand",
-                "es": "el-bin-enviado-no-coincide-con-una-marca-de-tarjeta-asociada",
+                "es": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
                 "pt": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada"
               },
               "origin": "",
@@ -62631,12 +62661,12 @@
             {
               "name": {
                 "en": "The Cielo 3DS2 app is returning an \"approved\" status even in scenarios when the authentication has failed.",
-                "es": "La aplicación Cielo 3DS2 devuelve un estado de \"aprobado\" incluso en situaciones en las que la autenticación ha fallado.",
+                "es": "La aplicación Cielo 3DS2 muestra el estado «aprobado» incluso en casos en los que la autenticación ha fallado.",
                 "pt": "O aplicativo Cielo 3DS2 está retornando o status \"aprovado\" mesmo em cenários nos quais a autenticação falhou."
               },
               "slug": {
                 "en": "the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed",
-                "es": "la-aplicacion-cielo-3ds2-devuelve-un-estado-de-aprobado-incluso-en-situaciones-en-las-que-la-autenticacion-ha-fallado",
+                "es": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
                 "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-nos-quais-a-autenticacao-falhou"
               },
               "origin": "",
