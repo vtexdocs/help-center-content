@@ -17,43 +17,9 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ⚠️ Esta funcionalidade não está disponível para novos clientes.
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
 
 Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
-
-[1. O que é o VTEX Shipping Network Correios?](#1-o-que-e-o-vtex-shipping-network-correios)
-
-[2. Qual a diferença entre VTEX Shipping Network e VTEX Shipping Network Correios?](#2-qual-a-diferenca-entre-vtex-shipping-network-e-vtex-shipping-network-correios)
-
-[3. Quais são os benefícios do VTEX Shipping Network Correios?](#3-quais-sao-os-beneficios-do-vtex-shipping-network-correios)
-
-[4. Quais são os requisitos necessários para usar o VTEX Shipping Network Correios?](#4-quais-sao-os-requisitos-necessarios-para-usar-o-vtex-shipping-network-correios)
-
-[5. Qual o modelo de cobrança do VTEX Shipping Network Correios?](#5-qual-o-modelo-de-cobranca-do-vtex-shipping-network-correios)
-
-[6. Como é feita a cobrança pelo meu uso de frete dos Correios?](#6-como-e-feita-a-cobranca-pelo-meu-uso-de-frete-dos-correios)
-
-[7. Como contratar o VTEX Shipping Network Correios?](#7-como-contratar-o-vtex-shipping-network-correios)
-
-[8. O que fazer em caso de divergência no cálculo de frete?](#8-o-que-fazer-em-caso-de-divergencia-no-calculo-de-frete)
-
-[9. Como posso emitir etiquetas de envio?](#9-como-posso-emitir-etiquetas-de-envio)
-
-[10. Como posso enviar a Nota Fiscal de uma fatura referenciando itens?](#10-como-posso-enviar-a-nota-fiscal-de-uma-fatura-referenciando-itens)
-
-[11. É possível conciliar as minhas transportadoras atuais com o serviço dos Correios do VTEX Shipping Network Correios?](#11-e-possivel-conciliar-as-minhas-transportadoras-atuais-com-o-servico-dos-correios-do-vtex-shipping-network-correios)
-
-[12. Como acompanhar o desempenho das transportadoras integradas à loja?](#12-como-acompanhar-o-desempenho-das-transportadoras-integradas-a-loja)
-
-[13. Preciso escolher uma nova agência dos Correios ou posso manter a agência que já tenho de um contrato direto com os Correios?](#13-preciso-escolher-uma-nova-agencia-dos-correios-ou-posso-manter-a-agencia-que-ja-tenho-de-um-contrato-direto-com-os-correios)
-
-[14. Como solicitar um Pedido de Informação aos Correios pelo Admin VTEX?](#14-como-solicitar-um-pedido-de-informacao-aos-correios-pelo-admin-vtex)
-
-[15. É possível utilizar o serviço de Logística Reversa dos Correios?](#15-e-possivel-utilizar-o-servico-de-logistica-reversa-dos-correios)
-
-[16. Como descobrir a URL de rastreio de um pedido?](#16-como-descobrir-a-url-de-rastreio-de-um-pedido)
-
-[17. Quais são as restrições de envio pelos Correios?](#17-quais-sao-as-restricoes-de-envio-pelos-correios)
 
 ## 1. O que é o VTEX Shipping Network Correios?
 
@@ -108,7 +74,7 @@ Veja na tabela abaixo os detalhes sobre o modelo de cobrança:
 
 A fatura do **VTEX Shipping Network Correios** é feita com emissão de nota fiscal e a natureza do serviço é _Licenciamento ou cessão de direito de uso de programas de computação, inclusive distribuição_.
 
-Todo mês é gerado um relatório com informações das entregas dos Correios e respectivos custos, e esse documento é enviado para o email do responsável, um contato definido no momento da implantação.
+Todo mês é gerado um relatório com informações das entregas dos Correios e respectivos custos, e esse documento é enviado para o email do responsável, um contato definido no momento da implantação. Para alterá-lo, entre em contato com o nosso suporte pelo email _suporte.shipping@lojaintegrada.com.br_.
 
 > ⚠️ A nota fiscal apresenta o valor total de custos com os Correios, no entanto, é possível checar o preço de cada envio no relatório mensal que o responsável recebe por email.
 
@@ -127,6 +93,8 @@ Existem diversas razões que resultam em diferença entre o preço cobrado do co
 Um motivo recorrente é quando o peso ou as dimensões (comprimento, largura e altura) de um item no Catálogo não correspondem de fato ao produto. A partir de medidas incorretas, o pacote a ser enviado pode ser maior ou menor que o estimado pelo sistema, e isso pode fazer o preço variar para mais ou para menos, já que os Correios ajustam o valor do frete de acordo com as medidas do pacote final.
 
 Portanto, certifique-se de que o peso e as dimensões dos itens no Catálogo refletem exatamente as características dos seus produtos.
+
+> ℹ️ Quando existe uma divergência no cálculo de frete no relatório de envios dos Correios, você deve entrar em contato pelo email *suporte.shipping@lojaintegrada.com.br* e abrir um ticket solicitando a análise dos custos e detalhes dos envios. O relatório mencionado é enviado mensalmente para o email do contato definido na etapa de contração do **VTEX Shipping Network Correios**.
 
 ## 9. Como posso emitir etiquetas de envio?
 
@@ -178,6 +146,8 @@ No Admin VTEX, a funcionalidade **Solicitar Informações** permite abrir um _Pe
 ## 15. É possível utilizar o serviço de Logística Reversa dos Correios?
 
 O seu contrato com o **VTEX Shipping Network Correios** permite utilizar o serviço de [Logística Reversa dos Correios](https://www.correios.com.br/enviar/encomendas/logistica-reversa). Para isso, a VTEX disponibiliza um login e uma senha para você utilizar no site dos Correios e gerar uma autorização de postagem.
+
+> ℹ️ Para solicitar o seu login e senha para o serviço de *Logística Reversa dos Correios*, entre em contato com a VTEX pelo email *suporte.shipping@lojaintegrada.com.br*.
 
 ## 16. Como descobrir a URL de rastreio de um pedido?
 

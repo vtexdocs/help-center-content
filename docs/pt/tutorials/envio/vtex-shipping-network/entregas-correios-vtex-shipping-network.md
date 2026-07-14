@@ -197,6 +197,8 @@ Caso você ainda não tenha uma operação com uma agência, acesse a [busca dos
 
 Ao contratar o **VTEX Shipping Network Correios**, você pode utilizar o serviço [Logística Reversa dos Correios](https://www.correios.com.br/enviar/encomendas/logistica-reversa). A VTEX disponibiliza um login e uma senha para você utilizar no site dos Correios e gerar a autorização de postagem.
 
+> ℹ️ Para solicitar login e senha para utilizar o serviço de **Logística Reversa dos Correios**, entre em contato com a VTEX pelo email *suporte.shipping@lojaintegrada.com.br@vtex.com.br*.
+
 ## Saiba mais
 
 * [VTEX Shipping Network: Pronto para envio](/pt/docs/tutorials/pronto-para-envio)
