@@ -10,8 +10,24 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
-Introdução: o que o agente faz e qual problema resolve
-Aviso Beta: disponibilidade e limitações
+1. Introdução
+
+- O que é o agente?
+- O que o agente faz?
+- Qual problema ele resolve?
+- Como ele difere da interface de coleções legada?
+- Qual a distinção entre Coleção e Sortimento? (informar que atualmente Sortimentos estão restritos a cenários B2B).
+
+---> Considerar inserir aviso sobre qual é a disponibilidade e quais são as limitações do beta // modelo template
+
+2. Acessando o agente de Coleções
+
+- Como acessar o agente pelo Admin VTEX?
+- Existe mais de uma maneira de fazer isso?
+- Como isso aparece na interface? (apresentar imagem do Figma)
+
+________________________________________________________
+
 Casos de uso: criar coleção, editar regras, revisar critérios, validar impacto
 Como acessar o agente
 Como solicitar uma tarefa
@@ -19,6 +35,36 @@ Exemplos de prompts
 Como revisar e aprovar o plano
 Limitações e comportamentos esperados
 Boas práticas para prompts
+
+________________________________________________________
+
+**Scope the guide should cover:**
+
+3. **Creating and editing a Collection via natural language**
+   - Static (explicit Product ID list) and Dynamic (criteria: Brands, Categories, Product Specs, SKU Specs)
+   - Inclusive and Exclusive rules; complex AND/OR combinations
+   - The agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
+   - Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
+   - Iterative editing: refine a Collection in conversation without starting over; agent appends rather than replacing; supports "undo that", "swap X for Y"; preview updates each turn
+
+4. **Composing an Assortment** — combining and excluding Collections; inclusive/exclusive rule behavior; propagation (editing a shared Collection updates every Assortment that consumes it — this is the building-block value prop)
+
+5. **Bulk operations** — import a `.csv` or `.xlsx` of Product IDs; three flows: add to existing list, remove from existing list, override the entire list (one collection per operation)
+
+6. **Searching and listing Collections and Assortments** — search by name/ID; filter/sort by creation date, name, ID
+
+7. **Previewing the result** — "Preview" action after the agent drafts/updates; shows estimated item count, sample items, SKU membership check; agent summarizes the applied logic; limitation: one collection or assortment at a time
+
+8. **Explaining the rules** — ask "why is this product here?"; agent explains which criteria/rule matched
+
+9. **Verifying relationships** — list all Collections in an Assortment (grouped by included/excluded); list all Assortments that consume a given Collection (both directions)
+
+10. **Safety guardrails** — before high-impact changes (e.g., editing a Collection shared across many Assortments), the agent surfaces the blast radius and requests confirmation
+
+**Notes:**
+- The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included.
+- Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
+__________________________________________________________________
 
 Introdução: definição do agente. O que o agente faz e qual problema resolve.
 
