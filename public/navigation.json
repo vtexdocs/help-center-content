@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
