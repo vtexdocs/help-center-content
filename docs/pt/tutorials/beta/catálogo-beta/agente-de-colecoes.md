@@ -10,7 +10,7 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
-1. Introdução
+1 - Introdução
 
 - O que é o agente?
 - O que o agente faz?
@@ -18,34 +18,47 @@ locale: pt
 - Como ele difere da interface de coleções legada?
 - Qual a distinção entre Coleção e Sortimento? (informar que atualmente Sortimentos estão restritos a cenários B2B).
 
----> Considerar inserir aviso sobre qual é a disponibilidade e quais são as limitações do beta // modelo template
+---> Considerar inserir aviso sobre beta: qual é a disponibilidade, limitações e comportamentos esperados do beta // template
+// 
 
-2. Acessando o agente de Coleções
+2 - Acessando o agente de Coleções
 
 - Como acessar o agente pelo Admin VTEX?
 - Existe mais de uma maneira de fazer isso?
 - Como isso aparece na interface? (apresentar imagem do Figma)
 
+3 - Reealizando ações com o agente de Coleções via linguagem natural
+
+- Como criar uma coleção via linguagem natural?
+- Qual a diferença entre os critérios de criação de coleção estático e dinâmico? // Static (explicit Product ID list) and Dynamic (criteria: marcas, categorias, especificações de produto, especificações de SKU)
+- Como visualizar o resultado? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
+- Como editar uma coleção via linguagem natural?
+- Como revisar (iterar na edição) e refinar a coleção sem precisar começar do zero? // agent appends rather than replacing; supports "undo that", "swap X for Y"
+- Como validar o impacto da edição?
+
+3.1 - Regras
+
+- Inclusive and Exclusive rules
+- Complex AND/OR combinations
+- Agent appends rather than replacing; supports "undo that", "swap X for Y"
+- Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
+
+- Como realizar operações em massa?
+- Como buscar e listar Coleções e Sortimentos?
+- Como explicar as regras?
+- Como verificar as relações?
+
 ________________________________________________________
 
-Casos de uso: criar coleção, editar regras, revisar critérios, validar impacto
-Como acessar o agente
+Casos de uso:  
 Como solicitar uma tarefa
 Exemplos de prompts
 Como revisar e aprovar o plano
-Limitações e comportamentos esperados
 Boas práticas para prompts
 
 ________________________________________________________
 
 **Scope the guide should cover:**
-
-3. **Creating and editing a Collection via natural language**
-   - Static (explicit Product ID list) and Dynamic (criteria: Brands, Categories, Product Specs, SKU Specs)
-   - Inclusive and Exclusive rules; complex AND/OR combinations
-   - The agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
-   - Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
-   - Iterative editing: refine a Collection in conversation without starting over; agent appends rather than replacing; supports "undo that", "swap X for Y"; preview updates each turn
 
 4. **Composing an Assortment** — combining and excluding Collections; inclusive/exclusive rule behavior; propagation (editing a shared Collection updates every Assortment that consumes it — this is the building-block value prop)
 
