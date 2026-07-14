@@ -16,9 +16,14 @@ locale: pt
 - O que o agente faz?
 - Qual problema ele resolve?
 - Como ele difere da interface de coleções legada?
-- Qual a distinção entre Coleção e Sortimento? (informar que atualmente Sortimentos estão restritos a cenários B2B).
 
----> Considerar inserir aviso sobre beta: qual é a disponibilidade, limitações e comportamentos esperados do beta // template
+2 - Avisos do beta
+
+- Qual é a disponibilidade?
+- Quais são as imitações?
+- Quais são os comportamentos esperados do beta? // The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included. // Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
+
+1.1 Distinção entre coleção e sortimento // informar que atualmente Sortimentos estão restritos a cenários B2B
 
 2 - Acessando o agente de Coleções
 
@@ -26,59 +31,47 @@ locale: pt
 - Existe mais de uma maneira de fazer isso?
 - Como isso aparece na interface? (apresentar imagem do Figma)
 
-3 - Realizando ações com coleções
+3 - Regras para coleções e sortimentos // identificar o que é coleção, sortimento ou ambos
 
-- Como criar uma coleção usando linguagem natural (prompt)? // é possível realizar operações em massa?
-- Como visualizar o resultado (verificar as relações)? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
+- Cria e editar coleções de forma estática (explicit Product ID list) ou dinâmica (criteria: marcas, categorias, especificações de produto, especificações de SKU)
+- Inclusive and exclusive rules // o mesmo que "combining and excluding Collections"?
+- Complex AND/OR combinations
+- Regra de propagação // editing a shared collection updates every assortment that consumes it (this is the building-block value prop)
+- Agent appends rather than replacing; supports "undo that", "swap X for Y"
+- Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
+- Before high-impact changes (e.g., editing a Collection shared across many Assortments), the agent surfaces the blast radius and requests confirmation
+
+3.1 Boas práticas para prompts // Vale a pena ter essa seção?
+
+4 - Realizando ações com coleções
+
+> ⚠️ Os exemplos de prompts sobre coleções apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
+
+- Como criar uma coleção usando linguagem natural (prompt)?
+- Como visualizar o resultado? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
+- Como verificar as relações? // list all Collections in an Assortment (grouped by included/excluded); list all Assortments that consume a given Collection (both directions)
 - Como aprovar o plano de coleção?
+- Como criar coleções em massa? // import a `.csv` or `.xlsx` of Product IDs; three flows: add to existing list, remove from existing list, override the entire list (one collection per operation)
 - Como editar (revisar, iterar na edição, refinar) a coleção sem precisar começar do zero? // isso é sempre sobre uma coleção que já foi criada ou pode ser sobre a edição de uma coleção que está sendo criada?
 - Como revisar () e refinar a coleção  // agent appends rather than replacing; supports "undo that", "swap X for Y"
 - Como checar impacto da edição? // é o mesmo que verificar as relações de uma coleção que foi criada?
+- Como buscar, filtrar e listar coleções? // search by name/ID; filter/sort by creation date, name, ID
 
-3.1 - Regras para coleções e sortimentos? // identificar o que é coleção, sortimento ou ambos
+5 - Realizando ações com sortimentos
 
-- Cria e editar coleções de forma estática (explicit Product ID list) ou dinâmica (criteria: marcas, categorias, especificações de produto, especificações de SKU)
-- Inclusive and Exclusive rules
-- Complex AND/OR combinations
-- Agent appends rather than replacing; supports "undo that", "swap X for Y"
-- Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
-
-4 - Realizando ações com sortimentos
+> ⚠️ Os exemplos de prompts sobre sortimentos apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
 
 - Como criar um sortimento usando linguagem natural (prompt)?
-- Como visualizar o resultado (verificar as relações)? // preview updates each turn
+- Como visualizar o resultado? // preview updates each turn // "Preview" action after the agent drafts/updates; shows estimated item count, sample items, SKU membership check; agent summarizes the applied logic; limitation: one collection or assortment at a time
+- Como verificar as relações? // list all Collections in an Assortment (grouped by included/excluded); list all Assortments that consume a given Collection (both directions) // ("Why is this product here?" e o agent vai explicar qual critério/regra foi utilizado para tomar a decisão)
 - Como aprovar o plano de sortimento?
+- Como criar sortimento em massa? // é possível?
 - Como editar (revisar, iterar na edição, refinar) o sortimento sem precisar começar do zero? // isso é sempre sobre um sortimento que já foi criado ou pode ser sobre a edição de um sortimento que está sendo criado?
 - Como revisar e refinar a sortimento? // agent appends rather than replacing; supports "undo that", "swap X for Y"
-- Como checar impacto da edição? // é o mesmo que verificar as relações de um sortimento que foi criado?
+- Como checar o impacto da edição? // é o mesmo que verificar as relações de um sortimento que foi criado?
+- Como buscar, filtrar e listar sortimentos? // search by name/ID; filter/sort by creation date, name, ID
 
-**Composing an Assortment** — combining and excluding Collections; inclusive/exclusive rule behavior; propagation (editing a shared Collection updates every Assortment that consumes it — this is the building-block value prop)
-
-5 - Casos de uso com exemplos de prompts
-
-5.1 Conheçar boas práticas para prompts
-________________________________________________________
-
-**Scope the guide should cover:**
-
-5. **Bulk operations** — import a `.csv` or `.xlsx` of Product IDs; three flows: add to existing list, remove from existing list, override the entire list (one collection per operation)
-
-6. **Searching and listing Collections and Assortments** — search by name/ID; filter/sort by creation date, name, ID
-
-7. **Previewing the result** — "Preview" action after the agent drafts/updates; shows estimated item count, sample items, SKU membership check; agent summarizes the applied logic; limitation: one collection or assortment at a time
-
-8. **Explaining the rules** — ask "why is this product here?"; agent explains which criteria/rule matched
-
-9. **Verifying relationships** — list all Collections in an Assortment (grouped by included/excluded); list all Assortments that consume a given Collection (both directions)
-
-10. **Safety guardrails** — before high-impact changes (e.g., editing a Collection shared across many Assortments), the agent surfaces the blast radius and requests confirmation
-
-**Notes:**
-- The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included.
-- Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
 __________________________________________________________________
-
-Introdução: definição do agente. O que o agente faz e qual problema resolve.
 
 Quais configurações precisam ser feitas para o agente de coleções funcionar? Ter marcas, categorias, SKUs e produtos cadastrados.
 
@@ -127,7 +120,7 @@ Example 1
 
 Example 2
 
-----
+_____
 
 Doc do Nik:
 
