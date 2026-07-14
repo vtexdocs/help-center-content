@@ -127,12 +127,12 @@ Para adicionar manualmente SKUs específicos a um grupo, no campo **Find SKUs**,
 
 ![Inclusão manual de SKUs específicos em um grupo.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_5.gif)
 
-Para adicionar massivamente SKUs específicos a um grupo, você pode importar uma lista de SKUS usando uma planilha do Excel (`.xls`). Todos os IDs dos SKUs que você deseja incluir no grupo devem constar na primeira coluna da planilha, com o cabeçalho `SKU`.
+Para adicionar massivamente SKUs específicos a um grupo, você pode importar uma lista de SKUs usando uma planilha do Excel (`.xls`). Todos os IDs dos SKUs que você deseja incluir no grupo devem constar na primeira coluna da planilha, com o cabeçalho `SKU`.
 
 1. Clique no botão `Localizar` abaixo de **Bulk insert SKUs** para localizar a planilha no seu computador.
 2. Clique em `import skus` para importar os SKUs.
  
-![2017-03-08_170117](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_6.jpg)
+	![2017-03-08_170117](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_6.jpg)
 
 Depois de importada, a planilha é exibida da seguinte forma:
 
