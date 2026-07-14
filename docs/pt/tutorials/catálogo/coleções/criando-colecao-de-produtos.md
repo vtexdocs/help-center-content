@@ -78,9 +78,7 @@ A composição dos produtos de uma coleção é definida pelos **grupos**. Para 
 
 	O primeiro grupo criado em qualquer coleção deve ser obrigatoriamente do tipo **Inclusão**. Quando uma coleção tem múltiplos grupos, o resultado final é calculado da seguinte maneira:
 	
-	```txt
-	Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exclusão)
-	```
+   `Produtos da coleção = (soma dos grupos de inclusão) - (soma dos grupos de exclusão)`
 
 	>⚠️ Preste sempre atenção ao tipo de grupo selecionado no cadastro. Produtos adicionados a um grupo do tipo `Exclusive` (Exclusão) **não** são incluídos na coleção. Pelo contrário, são removidos dela caso também pertençam a algum grupo de inclusão. Esse é um dos erros mais comuns ao configurar coleções com múltiplos grupos.
 
@@ -91,7 +89,7 @@ A composição dos produtos de uma coleção é definida pelos **grupos**. Para 
 	- Período de lançamento (pré-venda ou lançamento recente)
 	- SKUs específicos (manualmente ou por importação de planilha)
 
-	>⚠️ Ao combinar mais de um critério no mesmo grupo, apenas os produtos que atendem a **todos** os critérios selecionados (interseção) farão parte do grupo. Por exemplo, se você selecionar a categoria AA e a marca BB, apenas os produtos dessa categoria **e** dessa marca estarão no grupo. Produtos da categoria AA de outras marcas ou da marca BB de outras categorias ficam de fora.
+	>⚠️ Ao combinar mais de um critério em um mesmo grupo, apenas os produtos que atendem a **todos os critérios** selecionados (interseção) farão parte dele. Por exemplo, se você selecionar a categoria AA e a marca BB, somente os produtos dessa categoria **e** dessa marca serão incluídos no grupo. Produtos da categoria AA de outras marcas ou da marca BB de outras categorias ficarão de fora.
 
 8. Clique em `Save Group` para salvar a configuração do grupo.
 
