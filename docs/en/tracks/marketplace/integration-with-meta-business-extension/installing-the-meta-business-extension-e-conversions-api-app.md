@@ -1,5 +1,5 @@
 ---
-title: 'Installing the Facebook Business Extension e Conversions API app'
+title: 'Installing the Meta Business Extension e Conversions API app'
 id: 7JvybNGcBXxGKbVWjadKjt
 status: PUBLISHED
 createdAt: 2021-09-30T15:49:04.967Z
@@ -8,16 +8,16 @@ publishedAt: 2025-08-27T13:30:20.125Z
 firstPublishedAt: 2021-09-30T18:49:00.175Z
 contentType: trackArticle
 productTeam: Channels
-slugEN: installing-the-facebook-business-extension-e-conversions-api-app
+slugEN: installing-the-meta-business-extension-e-conversions-api-app
 locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugEN: integration-with-facebook-business-extension
+trackSlugEN: integration-with-meta-business-extension
 order: 3
 ---
 
-The _Facebook Business Extension and Conversions API_ app is available in the VTEX App Store. To install it, please follow the steps below:
+The _Meta Business Extension and Conversions API_ app is available in the VTEX App Store. To install it, please follow the steps below:
 
-1. In the VTEX App Store, go to the app page [Facebook Business Extension e Conversions API](https://apps.vtex.com/vtex-facebook-fbe/p).
+1. In the VTEX App Store, go to the app page [Meta Business Extension e Conversions API](https://apps.vtex.com/vtex-facebook-fbe/p).
 2. Click on `GET APP`.
 3. In the _Enter your account_ field, fill in the [account name](/en/docs/tutorials/what-is-an-account-name) of your VTEX store.
 4. Click on `CONFIRM`.

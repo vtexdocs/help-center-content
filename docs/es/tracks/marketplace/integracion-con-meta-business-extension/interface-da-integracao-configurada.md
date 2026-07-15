@@ -11,15 +11,15 @@ productTeam: Channels
 slugEN: interface-da-integracao-configurada
 locale: es
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugEN: integracion-con-facebook-business-extension
+trackSlugEN: integracion-con-meta-business-extension
 order: 5
 ---
 
-Una vez completada la integración con la aplicación _Facebook Business Extension y Conversions API_, al acceder a **Admin VTEX > módulo MARKETPLACE > Facebook**, verás la centralización de comandos para configurar y gestionar los nuevos activos de Facebook.
+Una vez completada la integración con la aplicación _Extensión de Meta para empresas y Conversions API_, al acceder a **Admin VTEX > módulo MARKETPLACE > Facebook**, verás la centralización de comandos para configurar y gestionar los nuevos activos de Facebook.
 
 En esta interfaz, hay tres secciones principales: [Status](#status), [Funcionalidades](#funcionalidades) y [Catálogo](#catalogo).
 
-![Facebook business Extension](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/integracion-con-facebook-business-extension/interface-da-integracao-configurada_1.png)
+![Extensión de Meta para empresas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/integracion-con-meta-business-extension/interface-da-integracao-configurada_1.png)
 
 ## Status
 
@@ -27,7 +27,7 @@ En esta sección puedes ver el status de tu conexión con Facebook, el ID del P�
 
 ### Botón Desinstalar
 
-En cualquier momento puedes eliminar la integración de la aplicación _Facebook Business Extension y Conversions API_. Esto se realiza en dos etapas, una en el Admin VTEX y la otra en el _toolbelt_ de VTEX IO.
+En cualquier momento puedes eliminar la integración de la aplicación _Extensión de Meta para empresas y Conversions API_. Esto se realiza en dos etapas, una en el Admin VTEX y la otra en el _toolbelt_ de VTEX IO.
 
 La desinstalación en el Admin VTEX detiene la sincronización del catálogo y revoca tu acceso de usuario al sistema creado para la integración. Esto significa que la integración se desconfigurará, pero se puede rehacer en cualquier momento. Para ello, ve a **Admin VTEX > módulo MARKETPLACE > Facebook** y haz clic en el botón **Desinstalar**. En la nueva pantalla, haz clic en **Desinstalar**.
 
