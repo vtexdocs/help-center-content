@@ -11,11 +11,11 @@ productTeam: Channels
 slugEN: configuring-the-integration-with-fbe-in-the-vtex-admin
 locale: pt
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugEN: integracao-com-o-facebook-business-extension
+trackSlugEN: integracao-com-o-meta-business-extension
 order: 4
 ---
 
-Com a app _Facebook Business Extension e Conversions API_ instalada, será possível identificar um novo campo no seu Admin VTEX. No módulo **MARKETPLACE**, haverá a opção **Facebook**. Pode ser necessário atualizar a página do seu Admin VTEX para a opção ficar visível.
+Com a app _Extensão da Meta para Empresas e Conversions API_ instalada, será possível identificar um novo campo no seu Admin VTEX. No módulo **MARKETPLACE**, haverá a opção **Facebook**. Pode ser necessário atualizar a página do seu Admin VTEX para a opção ficar visível.
 
 Para dar início à configuração da integração, realize os seguintes passos:
 
@@ -23,7 +23,7 @@ Para dar início à configuração da integração, realize os seguintes passos:
 2. Por padrão, os campos sobre **região e moeda**, e **URL** da sua loja VTEX estarão preenchidos. Confira as informações e, se necessário, faça alterações.
 3. A menos que você possua uma implementação customizada do Facebook Pixel, mantenha ativada a opção _Habilitar integração de Pixel_.
 
-  > ℹ️ Independente de você ter instalado a [app Facebook Pixel](https://apps.vtex.com/vtex-facebook-pixel/p), a recomendação é que a opção **Habilitar integração de Pixel** permaneça ativada. A exceção é quando já se utiliza o Gerenciador de Tags do Google. Mais informações em [Pixel do Facebook](/pt/docs/tracks/facebook-business-extension#pixel-do-facebook).
+  > ℹ️ Independente de você ter instalado a [app Facebook Pixel](https://apps.vtex.com/vtex-facebook-pixel/p), a recomendação é que a opção **Habilitar integração de Pixel** permaneça ativada. A exceção é quando já se utiliza o Gerenciador de Tags do Google. Mais informações em [Pixel do Facebook](/pt/docs/tracks/meta-business-extension#pixel-do-facebook).
 
 4. Clique em `CONTINUAR COM O FACEBOOK`.
 5. A tela seguinte solicita sua conta no Facebook. Preencha com seus dados e clique em `Entrar`. Se você tiver a [integração com o Facebook](/pt/docs/tracks/facebook) configurada, seus dados já estarão salvos.
@@ -37,9 +37,9 @@ Para dar início à configuração da integração, realize os seguintes passos:
 10. Clique em `Avançar`.
 11. Na janela aberta, aparecerá uma confirmação de que a integração foi realizada. Clique em `Concluir`.
 
-![gif pt v1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-o-facebook-business-extension/configurar-a-integracao-com-o-fbe-no-admin-vtex_1.gif)
+![gif pt v1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-o-meta-business-extension/configurar-a-integracao-com-o-fbe-no-admin-vtex_1.gif)
 
-## Envio de dados dos produtos para o Facebook Business Extension
+## Envio de dados dos produtos para a Extensão da Meta para Empresas
 
 Com a integração realizada, o envio de produtos para o Facebook é um processo automático. Os dados enviados são:
 
