@@ -21,7 +21,18 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
 
 > ❗ El uso sin restricciones de los recursos aumenta el riesgo de ataques a las tiendas por la filtración de credenciales de acceso a los recursos críticos. Si tienes alguna duda sobre la descripción de un recurso específico, no dudes en ponerse en contacto con nosotros.
 
-<iframe src="https://vtexhelp.myvtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="105%" height="850"></iframe>
+<DataTable
+  src="data-tables/license-manager-resources.json"
+  columns={[
+    { key: 'product', label: 'Producto', sortable: true, filterable: true },
+    { key: 'category', label: 'Categoría', sortable: true, filterable: true },
+    { key: 'resource', label: 'Recurso', sortable: true, filterable: true },
+    { key: 'description', label: 'Descripción' },
+    { key: 'key', label: 'Llave', type: 'code', sortable: true, filterable: true },
+    { key: 'resourceId', label: 'ID del Recurso', type: 'text', sortable: true },
+    { key: 'productId', label: 'ID del Producto', type: 'text', sortable: true },
+  ]}
+/>
 
 > ℹ️ En la aplicación [Audit](/es/docs/tutorials/audit), los recursos de License Manager son identificados por las respectivas claves.
 
@@ -29,5 +40,15 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
 
 En la interfaz del License Manager, también encontrarás recursos obsoletos o que son de uso exclusivo interno de VTEX. Estos no tienen ningún impacto en tu tienda. Son:
 
-<iframe src="https://vtexhelp.myvtex.com/tables/internalresources/es" title="Recursos internos o obsoletos" frameBorder="0" width="100%" height="700"></iframe>
+<DataTable
+  src="data-tables/license-manager-internal-resources.json"
+  columns={[
+    { key: 'product', label: 'Producto', sortable: true, filterable: true },
+    { key: 'category', label: 'Categoría', sortable: true, filterable: true },
+    { key: 'resource', label: 'Recurso', sortable: true, filterable: true },
+    { key: 'key', label: 'Llave', type: 'code', sortable: true, filterable: true },
+    { key: 'resourceId', label: 'ID del Recurso', type: 'text', sortable: true },
+    { key: 'productId', label: 'ID del Producto', type: 'text', sortable: true },
+  ]}
+/>
 
