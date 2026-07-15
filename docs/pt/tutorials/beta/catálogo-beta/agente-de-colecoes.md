@@ -8,116 +8,167 @@ slugEN: collections-agent
 locale: pt
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
+> ℹ️ O **Agente de Coleções** está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
-## Introdução
+O **Agente de Coleções** é um agente de inteligência artificial que permite criar e gerenciar coleções e sortimentos por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta quais ações em coleções e sortimentos você pode realizar de forma conversacional.
 
-- O que é o agente?
-- O que o agente faz? // O agente opera como uma interface conversacional que transforma a intenção do usuário em operações de serviço da VTEX.
-- Qual problema ele resolve?
-- Qual a distinção entre coleção e sortimento? // informar que atualmente sortimentos estão restritos a cenários B2B
-- Como o agente difere da interface de coleções legada?
-- Existem pré-requisitos para o agente funcionar? // talvez dizer tem que ter marcas, categorias, SKUs e produtos cadastrados
+A [coleção](https://help.vtex.com/pt/docs/tutorials/tipos-de-colecao) é o agrupamento de produtos, enquanto o sortimento é a entidade que agrupa coleções em cenários B2B. Com o **Agente de Coleções**, você fornece uma instrução (prompt) em linguagem natural por meio de uma interface conversacional e o agente operacionaliza isso em uma coleção ou sortimento.
 
-## Avisos do beta
+> ⚠️ Atualmente, o sortimento é um recurso exclusivo para cenários B2B.
 
-O Agente de Coleções está atualmente em beta, e durante este período a funcionalidade tem as seguintes limitações:
+## Diferença entre o agente e a interface legada
 
-- Qual é a disponibilidade?
-- Quais são as limitações?
-- Quais são os comportamentos esperados do beta? // The guide covers Closed Beta scope: bulk import/export, Assortment creation, and Preview are included. // Assortments are currently B2B-only (used in B2B contracts). Mention this where relevant so B2C users aren't confused.
+Além de permitir realizar tudo o que era feito pela interface legada, o **Agente de Coleções** oferece outras vantagens:
 
-## Acessar o Agente de Coleções
+- Uma experiência conversacional intuitiva.
+- A possibilidade de criar e gerenciar coleções e sortimentos a partir de regras inclusivas e exclusivas.
+- A opção de gerenciar coleções usando como critério especificações de produto e especificações de SKU.
 
-Para interagir com o agente e executar ações em coleções e sortimentos, no Admin VTEX, vá para XX ou digite **Agente de Coleções** na barra de pesquisa. A página é composta por uma janela de conversas e por sugestões de perguntas para iniciar uma análise com o assistente.
+## Pré-requisitos para usar o agente
+
+Não existe um pré-requisito específico para usar o **Agente de Coleções**, mas como ele atua em coleções e sortimentos, é necessário que a loja tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
+
+## Avisos da fase beta
+
+O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes limitações:
+
+- **Escopo:** inclui para coleções e sortimentos as ações de criação, edição, importação/exportação em massa, e visualização do plano criado pelo agente antes da confirmação do usuário.
+- **Sortimento restrito:** a criação e o uso de sortimentos estão disponíveis apenas para cenários B2B.
+- **Coleção ou sortimento por vez:** o agente atua sobre uma única coleção ou sortimento em cada operação de visualização, criação ou edição.
+- **Tempo de propagação:** uma coleção não fica visível imediatamente após a criação ou edição. O agente informa que a indexação está em andamento e que a propagação dos dados leva cerca de uma hora até que a coleção fique disponível para consulta.
+- **Verificação de pertencimento após a criação:** confirmar se um produto específico faz parte de uma coleção é confiável apenas após a criação e a indexação. Verificações de pertencimento antes da criação estão fora do escopo neste momento.
+
+## Acessar o agente
+
+No Admin VTEX, acesse **Catálogo > Agente de Coleções** ou digite **Agente de Coleções** na barra de pesquisa no topo da página. A interface apresentada é composta por uma janela conversacional e uma sugestão de instrução (prompt), como a imagem a seguir:
 
 ![Interface do agente](linkPlaceholder)
 
-- Como acessar o agente pelo Admin VTEX?
-- Existe mais de uma maneira de fazer isso?
-- Como isso aparece na interface? (apresentar imagem do Figma)
+Ao clicar na sugestão `Crie uma coleção`, ou digitar outra instrução na janela de conversa, o agente inicia o atendimento e conduz a interação até a conclusão da ação desejada.
 
-## Regras do funcionamento do Agente de Coleções
+## Regras do funcionamento
 
-O Agente de Coleções opera em coleões e sortimentos a partir das seguintes regras:
+O **Agente de Coleções** opera a partir das seguintes regras:
 
-- Cria e editar coleções de forma estática (explicit Product ID list) ou dinâmica (criteria: marcas, categorias, especificações de produto, especificações de SKU)
-- Inclusive and exclusive rules // o mesmo que "combining and excluding Collections"?
-- Complex AND/OR combinations
-- Regra de propagação // editing a shared collection updates every assortment that consumes it (this is the building-block value prop)
-- Agent appends rather than replacing; supports "undo that", "swap X for Y"
-- Conversational disambiguation: when an instruction is vague or matches multiple catalog entities, the agent pauses and presents options instead of guessing
-- Before high-impact changes (e.g., editing a Collection shared across many Assortments), the agent surfaces the blast radius and requests confirmation
+- **Criação estática ou dinâmica:** cria e edita coleções de forma estática (lista explícita de IDs de produto) ou dinâmica (critérios como marcas, categorias, especificações de produto e especificações de SKU).
+- **Regras inclusivas e exclusivas:** combina e exclui coleções por meio de regras inclusivas e exclusivas. As regras exclusivas sempre prevalecem sobre as inclusivas.
+- **Combinações complexas E/OU:** suporta combinações lógicas complexas entre critérios e regras. Você não precisa montar as subcoleções manualmente — o agente apresenta a estrutura lógica final para aprovação.
+- **Propagação automática:** uma mesma coleção pode ser consumida por vários sortimentos. Ao editar uma coleção compartilhada, a alteração é propagada automaticamente para todos os sortimentos que a consomem. Esse é o principal valor do modelo de blocos reutilizáveis.
+- **Ajuste incremental:** o agente adiciona ao que já foi definido em vez de substituir, e entende modificadores relativos como "desfaça isso" ou "troque X por Y".
+- **Desambiguação conversacional:** quando uma instrução é vaga ou corresponde a mais de uma entidade do catálogo, o agente pausa e apresenta opções em vez de adivinhar.
+- **Confirmação antes de mudanças de alto impacto:** antes de alterações relevantes (por exemplo, editar uma coleção compartilhada por muitos sortimentos), o agente mostra o alcance da mudança e solicita a confirmação do usuário.
 
 ## Realizar ações em coleções
 
-> ⚠️ Os exemplos de instruções (prompts) sobre coleções apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
+> ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não a única forma do agente executar uma ação.
 
-- Como criar uma coleção usando linguagem natural (prompt)?
-- Como visualizar o resultado? // preview updates each turn // the agent models sub-collection logic automatically — the user approves the final structure, not the internal wiring
-- Como verificar as relações? // list all Collections in an Assortment (grouped by included/excluded); list all Assortments that consume a given Collection (both directions)
-- Como aprovar o plano de coleção?
-- Como criar coleções em massa? // import a `.csv` or `.xlsx` of Product IDs; three flows: add to existing list, remove from existing list, override the entire list (one collection per operation)
-- Como editar (revisar, iterar na edição, refinar) a coleção sem precisar começar do zero? // isso é sempre sobre uma coleção que já foi criada ou pode ser sobre a edição de uma coleção que está sendo criada?
-- Como revisar () e refinar a coleção  // agent appends rather than replacing; supports "undo that", "swap X for Y"
-- Como checar impacto da edição? // é o mesmo que verificar as relações de uma coleção que foi criada?
-- Como buscar, filtrar e listar coleções? // search by name/ID; filter/sort by creation date, name, ID
+Você pode realizar as seguintes ações:
+
+- Criar uma coleção
+- Visualizar o resultado da criação
+- Verificar as relações da coleção
+- Aprovar o plano de coleção
+- Editar, revisar e refinar a coleção
+- Checar o impacto da edição
+- Buscar, filtrar e listar coleções
+- Incluir todos os produtos do catálogo em uma coleção
+
+### Criar e visualizar uma coleção
+
+Descreva na janela de conversa o conjunto de produtos que deseja reunir. O **Agente de Coleções** interpreta o pedido, monta os critérios e as regras correspondentes e gera um rascunho para sua aprovação. Alguns exemplos de instruções são:
+
+- "Crie uma coleção com todos os produtos da marca X."
+- "Crie uma coleção com os produtos das categorias Eletrônicos e Informática, exceto os da marca Infotech."
+- "Crie uma coleção com todos os produtos da categoria Verão que têm a especificação Cor igual a Azul."
+
+Antes que você confirme a criação, o agente apresenta o **plano de coleção**: um resumo claro das regras configuradas, com os critérios **dinâmicos** (marcas, categorias, especificações de produto e de SKU) e as **inclusões e exclusões estáticas**. O agente também resume a lógica aplicada (composição inclusiva/exclusiva).
+
+Quando os produtos estáticos vêm de uma **planilha**, o plano faz referência ao arquivo; quando são digitados diretamente **no chat**, o plano lista os IDs. O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções.
+
+### Verificar as relações
+
+Você pode consultar as relações de uma coleção nos dois sentidos:
+
+- Listar todas as coleções relacionadas a um sortimento, agrupadas por incluídas e excluídas.
+- Listar todos os sortimentos que consomem uma determinada coleção, agrupados por incluídos e excluídos.
+
+### Aprovar o plano de coleção
+
+Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Após a criação ou edição, o agente informa que a indexação está em andamento e que a coleção ainda não está visível para consulta, pois a propagação dos dados leva cerca de 1 hora.
+
+### Criar coleções em massa
+
+Para montar coleções estáticas rapidamente, importe uma planilha (`.csv` ou `.xlsx`) com a lista de itens, usando as colunas de identificação (Product Ref. ID, Product ID, SKU ID, SKU Ref. ID). Há três fluxos possíveis, sempre uma coleção por operação:
+
+- **Adicionar** itens à lista existente.
+- **Remover** itens da lista existente.
+- **Substituir** toda a lista.
+
+Durante a importação, o agente processa a planilha inteira: linhas com IDs encontrados são importadas e registradas; linhas com IDs não encontrados são ignoradas, registradas e apresentadas para que você possa corrigi-las (por exemplo, "Linha 5: SKU 'ABC123' não encontrado"). IDs duplicados são ignorados nas linhas seguintes, e a importação nunca é interrompida por falhas em linhas individuais.
+
+### Editar, revisar e refinar a coleção
+
+Você não precisa começar do zero para ajustar uma coleção. Em uma conversa contínua, o agente mantém o estado atual do rascunho e adiciona as novas instruções ao que já foi definido, em vez de substituir tudo. Ele entende modificadores relativos como "desfaça isso" ou "troque a marca X pela marca Y", e o plano é atualizado a cada interação. Esse refinamento vale tanto para coleções já criadas quanto para a coleção que está sendo montada durante a conversa.
+
+### Checar o impacto da edição
+
+Antes de aplicar alterações de alto impacto — como editar uma coleção compartilhada por vários sortimentos —, o agente mostra quais coleções e sortimentos serão afetados e solicita sua confirmação antes de executar.
+
+### Buscar, filtrar e listar coleções
+
+Para localizar e gerenciar a coleção certa, você pode buscá-la por **nome** ou **ID** e ordenar ou filtrar a lista por atributos comuns, como data de criação, nome e ID. Ao abrir uma coleção, é possível visualizar sua definição.
+
+### Incluir todos os produtos do catálogo em uma coleção
+
+Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
+
+- **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
+- **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
+- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser obrigatória.
+
+Pontos de atenção comuns a essas opções:
+
+- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer.
+- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação.
+- Categorias e marcas **criadas após** a coleção não são incluídas automaticamente.
+- Uma categoria, marca ou especificação **removida** do catálogo após a criação da coleção retira seus produtos da coleção.
+- No caso da especificação de produto, produtos sem a especificação, com o valor em branco ou com valor diferente ficam de fora.
+
+Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "todos os produtos" hoje pode mudar conforme o catálogo evolui, e nenhum dos caminhos se atualiza sozinho para capturar o que for criado depois. Independentemente da opção escolhida, um plano com a estrutura proposta é gerado para aprovação antes de qualquer alteração ser aplicada.
 
 ## Realizar ações em sortimentos
 
 > ⚠️ Os exemplos de instruções sobre sortimentos apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
 
-- Como criar um sortimento usando linguagem natural (prompt)?
-- Como visualizar o resultado? // preview updates each turn // "Preview" action after the agent drafts/updates; shows estimated item count, sample items, SKU membership check; agent summarizes the applied logic; limitation: one collection or assortment at a time
-- Como verificar as relações? // list all Collections in an Assortment (grouped by included/excluded); list all Assortments that consume a given Collection (both directions) // ("Why is this product here?" e o agent vai explicar qual critério/regra foi utilizado para tomar a decisão)
-- Como aprovar o plano de sortimento?
-- Como criar sortimento em massa? // é possível?
-- Como editar (revisar, iterar na edição, refinar) o sortimento sem precisar começar do zero? // isso é sempre sobre um sortimento que já foi criado ou pode ser sobre a edição de um sortimento que está sendo criado?
-- Como revisar e refinar a sortimento? // agent appends rather than replacing; supports "undo that", "swap X for Y"
-- Como checar o impacto da edição? // é o mesmo que verificar as relações de um sortimento que foi criado?
-- Como buscar, filtrar e listar sortimentos? // search by name/ID; filter/sort by creation date, name, ID
+> ℹ️ Os sortimentos estão atualmente restritos a cenários **B2B** e são utilizados em contratos B2B.
 
-__________________________________________________________________
+### Criar um sortimento com linguagem natural
 
-Inputs
+Um sortimento é composto a partir de coleções, com regras inclusivas e exclusivas. Descreva na conversa o conjunto final de produtos que deseja e o agente monta o sortimento correspondente. Exemplos de instruções:
 
-- "Create a collection with all products minus apple"
-- "Include all products in the collection"
-- "I want all my Catalog in the collection"
+- "Crie um sortimento que inclua as coleções Eletrônicos e Acessórios, mas exclua a coleção Produtos Apple."
+- "Use as coleções 2 e 3, mas exclua a coleção 4."
 
-Output
-"There is currently no automatic way to include all of the catalog's products in a collection such that it stays synchronized.
-It is possible to include all products using the current dynamic rules, but each one has its limitations.
+### Visualizar o resultado
 
-By categories
-All catalog categories are selected.
-(Since every product must have a category, all products are included.)
+Antes de confirmar, o agente apresenta o plano do sortimento, com um resumo das coleções incluídas e excluídas e da lógica aplicada. O plano é atualizado a cada instrução, e o agente atua sobre um sortimento por vez.
 
-Points of attention
-• Inactive categories are included in the collection, but their products don't appear in navigation while inactive. If the category is activated later, they begin appearing.
-• If the category is deactivated after the collection has been created, its products remain in the collection but no longer appear in navigation.
-• Categories created after the collection has been created are not included automatically.
-• A category removed from the catalog after the collection has been created takes its products out of the collection.
+### Verificar as relações
 
-By brands
-All brands are selected.
-(Since every product must have a brand, all products are included.)
+Você pode consultar as relações de um sortimento nos dois sentidos: listar todas as coleções relacionadas a um sortimento (agrupadas por incluídas e excluídas) e listar todos os sortimentos que consomem uma coleção. Também é possível perguntar por que um produto está no resultado (por exemplo, "Por que este produto está aqui?"), e o agente explica qual critério ou regra levou àquela decisão.
 
-Points of attention
-• Inactive brands are included in the collection, but their products don't appear in navigation while inactive. If the brand is activated later, they begin appearing.
-• If the brand is deactivated after the collection has been created, its products remain in the collection but no longer appear in navigation.
-• Brands created afterward are not included automatically.
-• A brand removed from the catalog after the collection has been created takes its products out of the collection.
+### Aprovar o plano de sortimento
 
-By product specification
-A specification with the same value present in all products is selected. It must be active and required.
+Após revisar o plano, confirme a operação para que o agente aplique as mudanças no sortimento.
 
-Points of attention
-• A product without this specification is left out.
-• A product with it left blank is left out.
-• A product with a different value is left out.
-• A specification removed from the catalog after the collection has been created takes those products out of the collection.
+### Editar, revisar e refinar o sortimento
 
-Worth emphasizing again: inactive products are included in the collection but don't appear in navigation because they're inactive, regardless of the reason — whether they belong to an inactive category or brand, or were deactivated themselves. Don't worry, you'll be given visibility if any of these parameters is inactive, so you can decide how to proceed.
-Whichever option you choose, all share the same limitation: none is a permanent mirror of the catalog. What makes up "all products" today can change as the catalog evolves, and none of the paths updates on its own to capture what gets created afterward.
-Which one fits your catalog best? Once you choose, a plan will be generated with the proposed structure for approval before any change is applied."
+Assim como nas coleções, você pode ajustar um sortimento sem começar do zero. Em uma conversa contínua, o agente adiciona as novas instruções ao rascunho atual em vez de substituí-lo e entende comandos como "desfaça isso" ou "troque a coleção X pela coleção Y". O refinamento vale tanto para sortimentos já criados quanto para o sortimento em construção.
+
+### Checar o impacto da edição
+
+Como uma coleção pode ser consumida por vários sortimentos, editá-la pode afetar todos eles. Antes de mudanças de alto impacto, o agente mostra quais coleções e sortimentos serão afetados e pede confirmação antes de executar.
+
+### Buscar, filtrar e listar sortimentos
+
+Você pode buscar sortimentos por **nome** ou **ID** e ordenar ou filtrar a lista por atributos comuns, como data de criação, nome e ID, para localizar e gerenciar o sortimento desejado.
