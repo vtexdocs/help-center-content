@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Partial mode: New flow in post-purchase payment operations",
+                    "es": "Modo parcial: nuevo flujo de trabajo en las operaciones de pago poscompra",
+                    "pt": "Modo Parcial: novo fluxo em operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations",
+                    "es": "2026-07-14-modo-parcial-nuevo-flujo-de-trabajo-en-las-operaciones-de-pago-poscompra",
+                    "pt": "2026-07-14-modo-parcial-novo-fluxo-em-operacoes-de-pagamentos-pos-compra"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
@@ -65883,6 +65898,21 @@
                 "en": "merchants-are-not-receiving-the-fixed-price-report",
                 "es": "los-comerciantes-no-reciben-el-informe-de-precios-fijos",
                 "pt": "os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Missing Checkout usage notifications may lead to inconsistent promotion usage counters",
+                "es": "La falta de notificaciones de uso de Checkout puede provocar que los contadores de uso de las promociones sean inconsistentes.",
+                "pt": "A ausência de notificações de utilização do Checkout pode levar a contadores de utilização de promoções inconsistentes."
+              },
+              "slug": {
+                "en": "missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters",
+                "es": "la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes",
+                "pt": "a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes"
               },
               "origin": "",
               "type": "markdown",
