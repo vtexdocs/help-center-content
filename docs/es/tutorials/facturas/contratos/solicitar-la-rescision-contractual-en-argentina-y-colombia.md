@@ -2,8 +2,9 @@
 title: 'Solicitar la rescisión contractual en Argentina y Colombia'
 id: 33g6mUoYB9Mf04C06gSU0a
 status: PUBLISHED
+hidden: true
 createdAt: 2020-06-25T22:12:14.589Z
-updatedAt: 2020-11-27T19:40:05.265Z
+updatedAt: 2026-07-16T00:00:00.000Z
 publishedAt: 2020-07-09T19:17:08.011Z
 firstPublishedAt: 2020-06-25T22:16:43.939Z
 contentType: tutorial
