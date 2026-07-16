@@ -2,8 +2,9 @@
 title: 'Nomes das filiais VTEX pelo mundo'
 id: zg05n6OIOZOEmLW7dcq9z
 status: PUBLISHED
+hidden: true
 createdAt: 2020-07-29T19:44:58.051Z
-updatedAt: 2020-11-27T19:40:11.162Z
+updatedAt: 2026-07-16T00:00:00.000Z
 publishedAt: 2020-08-05T20:38:18.436Z
 firstPublishedAt: 2020-07-29T22:34:49.769Z
 contentType: tutorial
