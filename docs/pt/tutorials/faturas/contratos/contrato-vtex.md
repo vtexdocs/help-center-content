@@ -2,8 +2,9 @@
 title: 'Contrato VTEX'
 id: gjJL5j4zZuiC2qAuSuoG4
 status: PUBLISHED
+hidden: true
 createdAt: 2019-01-24T20:45:47.050Z
-updatedAt: 2024-02-20T18:14:26.057Z
+updatedAt: 2026-07-16T00:00:00.000Z
 publishedAt: 2024-02-20T18:14:26.057Z
 firstPublishedAt: 2019-01-24T22:07:46.230Z
 contentType: tutorial
