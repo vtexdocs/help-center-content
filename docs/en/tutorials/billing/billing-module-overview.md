@@ -22,7 +22,7 @@ To access this section, click on your **profile avatar**, which can be identifie
 
 > ℹ️ Only users with the access profiles of [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access) or with [Billing](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3#) resources linked to their access profile can view this section of the VTEX Admin.     
 
-![Admin v4 Faturas menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/billing-overview/billing-module-overview_1.jpg)
+![Admin v4 Faturas menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/billing-module-overview_1.jpg)
 
 See below for more details on the different sections and pages of this feature.
 
