@@ -69,8 +69,7 @@ Você pode realizar as seguintes ações:
   - Aprovar o plano de coleção
 - Criar coleção por meio de importação de planilha
 - Verificar as relações em coleções
-- Editar, revisar e refinar a coleção
-- Checar o impacto da edição
+- Editar e refinar a coleção
 - Buscar, filtrar e listar coleções
 - Incluir todos os produtos do catálogo em uma coleção
 
@@ -129,34 +128,43 @@ A imagem abaixo apresenta um exemplo operação finalizada:
 
 ### Criar coleção por meio de importação de planilha
 
-Você pode montar coleções por meio de importação de planilhas em formato `.csv` ou `.xlsx`. A planilha deve ter uma lista de itens com as seguintes colunas de identificação:
+Você pode montar uma nova coleção pela importação de dados via planilha em formato `.csv` ou `.xlsx`. A planilha deve conter uma lista de itens com as seguintes colunas de identificação:
 
-- Product ID
-- Product Reference ID
-- SKU ID
-- SKU Reference ID
+| Coluna da planilha | Descrição |
+| :--- | :--- |
+| Product ID | Código numérico identificador do produto. |
+| Product Reference ID | Código de referência do produto. |
+| SKU ID | Código numérico identificador do SKU. |
+| SKU Reference ID | Código de referência do SKU. |
 
-existem três fluxos possíveis, sempre uma coleção por operação:
+Para importar a planilha, realize os seguintes passos:
 
-Quando os produtos estáticos vêm de uma **planilha**, o plano faz referência ao arquivo; quando são digitados diretamente **no chat**, o plano lista os IDs. O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções.
+1. Clique no botão clips no chat do **Agente de Coleções** para anexar a planilha.
+2. Selecione localmente a planilha em formato `.csv` ou `.xlsx`.
+3. Clique em `Abrir`.
+
+Siga os mesmos passos da criação de coleção via linguagem natural para [revisar](#revisar-o-plano-de-colecao) e [aprovar o plano de coleção](#aprovar-o-plano-de-colecao). O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções: As instruções possíveis são:
 
 - **Adicionar** itens à lista existente.
 - **Remover** itens da lista existente.
 - **Substituir** toda a lista.
 
-Durante a importação, o agente processa a planilha inteira: linhas com IDs encontrados são importadas e registradas; linhas com IDs não encontrados são ignoradas, registradas e apresentadas para que você possa corrigi-las (por exemplo, "Linha 5: SKU 'ABC123' não encontrado"). IDs duplicados são ignorados nas linhas seguintes, e a importação nunca é interrompida por falhas em linhas individuais.
+> ⚠️ A importação nunca é interrompida por falhas em linhas individuais, o agente processa a planilha inteira, seguindo as seguintes regras:
+- Linhas com IDs encontrados são importadas e registradas.
+- Linhas com IDs não encontrados são ignoradas, registradas e apresentadas para que você possa corrigi-las (por exemplo, "Linha 5: SKU '362' não encontrado").
+- IDs duplicados são ignorados nas linhas seguintes.
 
 ### Verificar as relações em coleções
 
-O **Agente de Coleções** pode ser usado para consultar as relações de uma coleção. Você pode, por exempol, perguntar qual o motivo do produto ter sido incluído ou não em determinada coleção, e o agente então explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
+O **Agente de Coleções** pode ser usado para consultar as relações de pertencimento ou ausência de produtos em uma coleção. Você pode, por exemplo, perguntar pelo chat qual o motivo do produto ter sido incluído ou excluído de determinada coleção, e o agente explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
 
-### Editar, revisar e refinar a coleção
+### Editar e refinar a coleção
 
-Você não precisa começar do zero para ajustar uma coleção. Em uma conversa contínua, o agente mantém o estado atual do rascunho e adiciona as novas instruções ao que já foi definido, em vez de substituir tudo. Ele entende modificadores relativos como "desfaça isso" ou "troque a marca X pela marca Y", e o plano é atualizado a cada interação. Esse refinamento vale tanto para coleções já criadas quanto para a coleção que está sendo montada durante a conversa.
+Em uma conversa contínua, o **Agente de Coleções** não substitui o estado atual do rascunho, mas sim adiciona as novas instruções ao que já foi definido. Ou seja, você não precisa começar do zero para ajustar uma coleção. O agente entende modificadores relativos como "desfaça isso" ou "troque a marca X pela marca Y", e o plano de coleção é atualizado a cada interação.
 
-### Checar o impacto da edição
+O refinamento de coleções a partir de novas instruções vale tanto para revisar uma coleção sendo montada quanto para uma coleção que já foi criada.
 
-Antes de aplicar alterações de alto impacto — como editar uma coleção compartilhada por vários sortimentos —, o agente mostra quais coleções e sortimentos serão afetados e solicita sua confirmação antes de executar.
+> ❗ O **Agente de Coleções** checa o impacto da edição. Ou seja, antes de aplicar alterações de alto impacto, como editar uma coleção compartilhada por vários sortimentos, o agente mostra quais coleções e sortimentos serão afetados e solicita sua confirmação antes de executar.
 
 ### Buscar, filtrar e listar coleções
 
