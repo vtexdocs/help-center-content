@@ -126,7 +126,7 @@ A imagem abaixo apresenta um exemplo de operação finalizada:
 
 ![sucesso_operacao](linkPlaceholder)
 
-> ❗ A propagação dos dados pode levar até cerca de 1 hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
+> ❗ A propagação dos dados pode levar até cerca de uma hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
 
 ### Criar coleção por meio de importação de planilha
 
