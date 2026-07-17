@@ -8,7 +8,7 @@ slugEN: collections-agent
 locale: pt
 ---
 
-> ℹ️ O **Agente de Coleções** está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
+> ℹ️ O **Agente de Coleções** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Atualmente, a disponibilidade é somente para contas selecionadas. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
 O **Agente de Coleções** é um agente de inteligência artificial que permite criar e gerenciar coleções e sortimentos por meio de uma experiência conversacional no Admin VTEX. Este artigo explica o funcionamento do agente e apresenta quais ações em coleções e sortimentos você pode realizar de forma conversacional.
 
@@ -28,7 +28,7 @@ Além de permitir realizar tudo o que era feito pela interface legada, o **Agent
 
 O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes limitações:
 
-- **Escopo:** inclui para coleções e sortimentos as ações de criação, edição, importação/exportação em massa, e visualização do plano criado pelo agente antes da confirmação do usuário.
+- **Escopo:** inclui, para coleções e sortimentos, as ações de criação, edição, importação/exportação em massa e visualização do plano criado pelo agente antes da confirmação do usuário.
 - **Sortimento restrito:** a criação e o uso de sortimentos estão disponíveis apenas para cenários B2B.
 - **Coleção ou sortimento por vez:** o agente atua sobre uma única coleção ou sortimento em cada operação de visualização, criação ou edição.
 - **Tempo de propagação:** uma coleção não fica visível imediatamente após a criação ou edição. O agente informa que a indexação está em andamento e que a propagação dos dados leva cerca de uma hora até que a coleção fique disponível para consulta.
@@ -42,7 +42,7 @@ Não existe um pré-requisito para usar o **Agente de Coleções**, mas como ele
 
 ## Acessar o agente
 
-No Admin VTEX, acesse **Catálogo > Agente de Coleções** ou digite **Agente de Coleções** na barra de pesquisa no topo da página. A interface apresentada é composta por uma janela conversacional e uma sugestão de instrução (prompt), como a imagem a seguir:
+No Admin VTEX, acesse **Catálogo > Agente de Coleções** ou digite **Agente de Coleções** na barra de pesquisa no topo da página. A interface apresentada é composta por uma janela conversacional e uma sugestão de instrução (prompt), como mostra a imagem a seguir:
 
 ![Interface do agente](linkPlaceholder)
 
@@ -83,7 +83,7 @@ Para criar uma coleção usando linguagem natural, digite na janela de conversa 
 - "Crie uma coleção com os produtos das categorias Eletrônicos e Informática, exceto os da marca Infotech."
 - "Crie uma coleção com todos os produtos da categoria Verão que têm a especificação Cor igual a Azul."
 
-Após inserir as intruções no chat, aperte `Enter` ou clique no botão seta para cima no chat. O **Agente de Coleções** vai então interpretar a solicitação e montar a coleção com os critérios e as regras correspondentes. Ao terminar o processamento, o agente pode solicitar informações complementares.
+Após inserir as instruções no chat, aperte `Enter` ou clique no botão de seta para cima no chat. O **Agente de Coleções** vai então interpretar a solicitação e montar a coleção com os critérios e as regras correspondentes. Ao terminar o processamento, o agente pode solicitar informações complementares.
 
 **Exemplo:** o agente recebeu o comando "Monte uma coleção com todos os produtos da categoria de ID 6", e, após o processamento, fez duas solicitações:
 
@@ -110,7 +110,7 @@ O plano de coleção apresentado pelo agente é um resumo que você deve revisar
 - [Regra de criação](#regras-do-funcionamento) a ser utilizada
 - Comportamento futuro para a inclusão de produtos na coleção
 
-A imagem abaixo apresenta um exemplo deplano de coleção a ser revisado:
+A imagem abaixo apresenta um exemplo de plano de coleção a ser revisado:
 
 ![resumo da colecao](linkPlaceholder)
 
@@ -119,10 +119,10 @@ A imagem abaixo apresenta um exemplo deplano de coleção a ser revisado:
 Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e termina a conversa, informando:
 
 - Sucesso da operação
-- ID na nova coleção
+- ID da nova coleção
 - Nome da coleção
 
-A imagem abaixo apresenta um exemplo operação finalizada:
+A imagem abaixo apresenta um exemplo de operação finalizada:
 
 ![sucesso_operacao](linkPlaceholder)
 
@@ -141,24 +141,25 @@ Você pode montar uma nova coleção pela importação de dados via planilha em 
 
 Para importar a planilha, realize os seguintes passos:
 
-1. Clique no botão clips no chat do **Agente de Coleções** para anexar a planilha.
+1. Clique no botão de clipe no chat do **Agente de Coleções** para anexar a planilha.
 2. Selecione localmente a planilha em formato `.csv` ou `.xlsx`.
 3. Clique em `Abrir`.
 
-Siga os mesmos passos da criação de coleção via linguagem natural para [revisar](#revisar-o-plano-de-colecao) e [aprovar o plano de coleção](#aprovar-o-plano-de-colecao). O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções: As instruções possíveis são:
+Siga os mesmos passos da criação de coleção via linguagem natural para [revisar](#revisar-o-plano-de-colecao) e [aprovar o plano de coleção](#aprovar-o-plano-de-colecao). O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções. As instruções possíveis são:
 
 - **Adicionar** itens à lista existente.
 - **Remover** itens da lista existente.
 - **Substituir** toda a lista.
 
-> ⚠️ A importação nunca é interrompida por falhas em linhas individuais, o agente processa a planilha inteira, seguindo as seguintes regras:
-- Linhas com IDs encontrados são importadas e registradas.
-- Linhas com IDs não encontrados são ignoradas, registradas e apresentadas para que você possa corrigi-las (por exemplo, "Linha 5: SKU '362' não encontrado").
-- IDs duplicados são ignorados nas linhas seguintes.
+> ⚠️ A importação nunca é interrompida por falhas em linhas individuais: o agente processa a planilha inteira, seguindo estas regras:
+>
+> - Linhas com IDs encontrados são importadas e registradas.
+> - Linhas com IDs não encontrados são ignoradas, registradas e apresentadas para que você possa corrigi-las (por exemplo, "Linha 5: SKU '362' não encontrado").
+> - IDs duplicados são ignorados nas linhas seguintes.
 
 ### Verificar as relações em coleções
 
-O **Agente de Coleções** pode ser usado para consultar as relações de pertencimento ou ausência de produtos em uma coleção. Você pode, por exemplo, perguntar pelo chat qual o motivo do produto ter sido incluído ou excluído de determinada coleção, e o agente explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
+O **Agente de Coleções** pode ser usado para consultar as relações de pertencimento ou ausência de produtos em uma coleção. Você pode, por exemplo, perguntar pelo chat qual o motivo de o produto ter sido incluído ou excluído de determinada coleção, e o agente explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
 
 ### Editar e refinar a coleção
 
@@ -216,11 +217,11 @@ Antes de confirmar, o agente apresenta o plano do sortimento, com um resumo das 
 
 ### Verificar as relações em sortimentos
 
-O **Agente de Coleções** pode ser usado para consultar as relações de uma coleção, e é possível fazer isso de duas formas distintas:
+O **Agente de Coleções** pode ser usado para consultar as relações entre coleções e sortimentos, e é possível fazer isso de três formas distintas:
 
 - Listando todas as coleções relacionadas a um sortimento, agrupadas por incluídas e excluídas.
 - Listando todos os sortimentos que consomem uma determinada coleção, agrupados por incluídos e excluídos.
-- Perguntando o motivo da coleção estar ou não em um sortimento, e o agente explica qual critério ou regra levou àquela decisão. Exemplo de instrução: "Por que a coleção de ID 463 está no sortimento Filial Norte?".
+- Perguntando o motivo de a coleção estar ou não em um sortimento, e o agente explica qual critério ou regra levou àquela decisão. Exemplo de instrução: "Por que a coleção de ID 463 está no sortimento Filial Norte?".
 
 ### Aprovar o plano de sortimento
 
