@@ -193,6 +193,37 @@
             },
             {
               "name": {
+                "en": "Junio",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "junio",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX",
+                    "en": "Nuevo dashboard Uso de Master Data en el Admin VTEX"
+                  },
+                  "slug": {
+                    "es": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "pt": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "May",
                 "es": "Mayo",
                 "pt": "Maio"
@@ -25931,14 +25962,29 @@
             },
             {
               "name": {
-                "en": "Check Master Data usage in the VTEX Admin",
-                "es": "Consultar el uso de Master Data en el Admin VTEX",
-                "pt": "Consultar o uso do Master Data no Admin VTEX"
+                "en": "Checking Master Data usage in the VTEX Admin",
+                "es": "Checking Master Data usage in the VTEX Admin",
+                "pt": "Checking Master Data usage in the VTEX Admin"
               },
               "slug": {
                 "en": "check-master-data-usage-in-vtex-admin",
-                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
-                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
+                "es": "",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "pt": "Consultar o uso do Master Data no Admin VTEX",
+                "en": "Consultar o uso do Master Data no Admin VTEX",
+                "es": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex",
+                "en": "",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
