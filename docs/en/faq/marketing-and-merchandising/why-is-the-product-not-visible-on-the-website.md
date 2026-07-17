@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED

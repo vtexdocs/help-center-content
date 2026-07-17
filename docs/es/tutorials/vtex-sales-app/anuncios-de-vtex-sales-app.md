@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Anuncios de VTEX Sales App'
 id: 3UtOFwbwD4muz3p72RBPmC
 status: PUBLISHED

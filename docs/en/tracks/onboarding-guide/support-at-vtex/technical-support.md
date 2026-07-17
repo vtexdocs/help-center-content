@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Technical support'
 id: 3thRAdTB3gGwTB0e1fVL3T
 status: PUBLISHED

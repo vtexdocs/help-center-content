@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Releases Module (Beta)'
 id: n2tN0WX5I6MJMbrJrS0Kb
 status: PUBLISHED

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Exporting customers who signed up for the availability notification (Notify me)'
 id: 3Yr19DMQukGeIImUeCwIao
 status: PUBLISHED

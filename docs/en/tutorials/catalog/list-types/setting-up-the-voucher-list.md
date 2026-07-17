@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up the voucher list'
 id: tutorials_284
 status: PUBLISHED

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring Google Tag Manager'
 id: frequentlyAskedQuestions_616
 status: PUBLISHED

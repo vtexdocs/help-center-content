@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Configuring promotions with highlights / flags"
 id: tutorials_2295
 status: PUBLISHED

@@ -16,7 +16,7 @@ legacySlug: por-que-a-vtex-search-legado-ignora-alguns-termos-buscados
 
 > ⚠️ A VTEX oferece duas opções de busca: a VTEX Search (Legado) e o VTEX Intelligent Search. Esse artigo se refere à VTEX Search (Legado). Para saber mais sobre o VTEX Intelligent Search, acesse [O que é VTEX Intelligent Search?](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-O artigo [Como funciona a VTEX Search (Legado)?](/pt/docs/tutorials/como-funciona-a-vtex-search-legado) demonstra as principais regras que o algoritmo do buscador utiliza para exibir e priorizar os produtos a partir de um termo buscado.
+O artigo [Como funciona a VTEX Search (Legado)?](/pt/docs/tutorials/como-funciona-vtex-search-legado) demonstra as principais regras que o algoritmo do buscador utiliza para exibir e priorizar os produtos a partir de um termo buscado.
 
 Se o seu caso não se enquadra nos cenários descritos nesse artigo, provavelmente é porque o termo buscado que trouxe você até aqui está na lista de palavras bloqueadas do buscador da VTEX.
 
@@ -161,3 +161,4 @@ uma
 umas
 uns
 ```
+

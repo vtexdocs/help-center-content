@@ -37,7 +37,7 @@ Es necesario configurar el método de autenticación que se ofrecerá en cada co
 
 > ℹ️ Al menos una de las opciones de inicio de sesión de la tabla anterior debe estar activa en la tienda virtual.
 
-> ⚠️ Para acceder al Admin VTEX es necesario tener un [usuario](/es/docs/tutorials/gestionar-usuarios-administrativos) administrativo registrado. Los [roles](/es/docs/tutorials/roles) relacionados con el usuario y los permisos propios de dicho rol determinan los [recursos](/es/docs/tutorials/recursos-del-license-manager) que ese usuario puede utilizar en el Admin.
+> ⚠️ Para acceder al Admin VTEX es necesario tener un [usuario](/es/docs/tutorials/gestionar-usuarios-administradores) administrativo registrado. Los [roles](/es/docs/tutorials/roles) relacionados con el usuario y los permisos propios de dicho rol determinan los [recursos](/es/docs/tutorials/recursos-del-license-manager) que ese usuario puede utilizar en el Admin.
 
 ### Activar formas de inicio de sesión
 

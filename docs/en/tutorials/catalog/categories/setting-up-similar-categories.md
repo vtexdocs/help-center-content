@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up similar categories'
 id: tutorials_204
 status: PUBLISHED

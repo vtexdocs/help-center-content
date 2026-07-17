@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Releases: concepto de release (Beta)'
 id: 4pWhQTXG0aIIsi2TYxxRkZ
 status: PUBLISHED

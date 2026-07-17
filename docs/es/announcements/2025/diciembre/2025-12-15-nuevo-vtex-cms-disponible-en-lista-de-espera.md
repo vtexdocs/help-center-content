@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nuevo VTEX CMS disponible en lista de espera"
 createdAt: 2025-12-15T17:08:52.219Z
 updatedAt: 2026-04-05T17:08:52.219Z

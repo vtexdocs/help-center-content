@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring the event'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Frontend'
 id: 5DTcawNjc5MovtD7HNqURl
 status: PUBLISHED

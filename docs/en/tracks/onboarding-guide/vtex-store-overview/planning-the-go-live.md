@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Planning the go-live'
 id: 6xYnNxDHUcY6FyChgziCoH
 status: PUBLISHED
