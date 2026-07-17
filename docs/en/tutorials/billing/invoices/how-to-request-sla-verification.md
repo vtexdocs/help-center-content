@@ -3,7 +3,7 @@ title: 'How to request a platform SLA verification?'
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-07-17T19:39:07.940Z
 publishedAt: 2022-12-23T15:59:27.323Z
 firstPublishedAt: 2019-01-24T22:05:10.732Z
 contentType: tutorial
@@ -21,4 +21,4 @@ The four levels of service of our SLA, and the discounts granted due to breaking
 
 The charge made by VTEX is on the service already provided, that is, an invoice received in December corresponds to the services of the month of November. So, if your SLA was not complied with in January, for example, you should make the request after this charge is issued, that is, in February.
 
-To do this, open a [ticket](https://support.vtex.com/hc/en/requests), select the title "Doubts about Value, Calculation, Withholdings and Billing Information" and explain your demand to our financial team.
+To do this, open a [ticket](https://supporticket.vtex.com/support), select the title "Doubts about Value, Calculation, Withholdings and Billing Information" and explain your demand to our financial team.

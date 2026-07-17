@@ -3,7 +3,7 @@ title: '¿Cómo solicitar la verificación de SLA de operación de la plataforma
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-07-17T19:39:07.940Z
 publishedAt: 2022-12-23T15:59:27.323Z
 firstPublishedAt: 2019-01-24T22:05:10.732Z
 contentType: tutorial
@@ -21,4 +21,4 @@ Los cuatro niveles de servicio de nuestro SLA, y los descuentos concedidos por s
 
 El cobro hecho por VTEX es sobre el servicio ya prestado, o sea, una factura recibida en diciembre corresponde a los servicios del mes de noviembre. De este modo, si su SLA ha sido incumplido en el mes de enero, por ejemplo, lo correcto es que usted haga el pedido después de la emisión del cobro de esa competencia, o sea, en febrero.
 
-Para ello, abra un [ticket](https://support.vtex.com/hc/es-es/requests), seleccione el título "Dudas sobre Valor, Cálculo, Retenciones e Información de Cobro" e informe su caso a nuestro equipo financiero.
+Para ello, abra un [ticket](https://supporticket.vtex.com/support), seleccione el título "Dudas sobre Valor, Cálculo, Retenciones e Información de Cobro" e informe su caso a nuestro equipo financiero.

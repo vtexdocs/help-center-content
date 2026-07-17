@@ -3,7 +3,7 @@ title: 'Como solicitar a apuração de SLA de operação da plataforma?'
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-07-17T19:39:07.940Z
 publishedAt: 2022-12-23T15:59:27.323Z
 firstPublishedAt: 2019-01-24T22:05:10.732Z
 contentType: tutorial
@@ -21,4 +21,4 @@ Os quatro níveis de serviço do nosso SLA, e os descontos concedidos pela quebr
 
 A cobrança feita pela VTEX é sobre o serviço já prestado, ou seja, uma fatura recebida em dezembro corresponde aos serviços do mês de novembro. Desse modo, caso seu SLA tenha sido descumprido no mês de janeiro, por exemplo, o correto é que você faça o pedido após a emissão da cobrança dessa competência, ou seja, em fevereiro.
 
-Para isso, abra um [ticket](https://support.vtex.com/hc/pt-br/requests), selecione o  título “Dúvidas sobre Valor, Cálculo, Retenções e Informações de Cobrança” e informe seu caso à nossa equipe financeira.
+Para isso, abra um [ticket](https://supporticket.vtex.com/support), selecione o  título “Dúvidas sobre Valor, Cálculo, Retenções e Informações de Cobrança” e informe seu caso à nossa equipe financeira.
