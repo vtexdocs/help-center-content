@@ -34,6 +34,8 @@ O **Agente de Coleções** está em beta, e durante este período a funcionalida
 - **Tempo de propagação:** uma coleção não fica visível imediatamente após a criação ou edição. O agente informa que a indexação está em andamento e que a propagação dos dados leva cerca de uma hora até que a coleção fique disponível para consulta.
 - **Verificação de pertencimento após a criação:** confirmar se um produto específico faz parte de uma coleção é confiável apenas após a criação e a indexação. Verificações de pertencimento antes da criação estão fora do escopo neste momento.
 
+> ℹ️ As instruções apresentadas sobre coleções e sortimentos são apenas exemplos e não a única forma de interagir com o agente.
+
 ## Pré-requisitos para usar o agente
 
 Não existe um pré-requisito para usar o **Agente de Coleções**, mas como ele atua em coleções e sortimentos, é necessário que a loja tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
@@ -70,7 +72,7 @@ Você pode realizar as seguintes ações:
 - Criar coleção por meio de importação de planilha
 - Verificar as relações em coleções
 - Editar e refinar a coleção
-- Buscar, filtrar e listar coleções
+- Buscar, listar e filtrar coleções
 - Incluir todos os produtos do catálogo em uma coleção
 
 ### Criar coleção usando linguagem natural
@@ -190,9 +192,16 @@ Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "to
 
 ## Realizar ações em sortimentos
 
-> ⚠️ Os exemplos de instruções sobre sortimentos apresentados são apenas para fins ilustrativos e não a única forma de executar determinada ação com o agente.
+Você pode realizar as seguintes ações:
 
-> ℹ️ Os sortimentos estão atualmente restritos a cenários **B2B** e são utilizados em contratos B2B.
+- Criar um sortimento com linguagem natural
+- Visualizar o resultado
+- Verificar as relações em sortimentos
+- Aprovar o plano de sortimento
+- Editar e refinar o sortimento
+- Buscar, listar e filtrar sortimentos
+
+> ⚠️ Atualmente, o sortimento é um recurso exclusivo para cenários B2B.
 
 ### Criar um sortimento com linguagem natural
 
@@ -217,14 +226,16 @@ O **Agente de Coleções** pode ser usado para consultar as relações de uma co
 
 Após revisar o plano, confirme a operação para que o agente aplique as mudanças no sortimento.
 
-### Editar, revisar e refinar o sortimento
+### Editar e refinar o sortimento
 
 Assim como nas coleções, você pode ajustar um sortimento sem começar do zero. Em uma conversa contínua, o agente adiciona as novas instruções ao rascunho atual em vez de substituí-lo e entende comandos como "desfaça isso" ou "troque a coleção X pela coleção Y". O refinamento vale tanto para sortimentos já criados quanto para o sortimento em construção.
 
-### Checar o impacto da edição
+> ❗ Como uma coleção pode ser consumida por vários sortimentos, editá-la pode afetar todos eles. Antes de mudanças de alto impacto, o agente mostra quais coleções e sortimentos serão afetados e pede confirmação antes de executar.
 
-Como uma coleção pode ser consumida por vários sortimentos, editá-la pode afetar todos eles. Antes de mudanças de alto impacto, o agente mostra quais coleções e sortimentos serão afetados e pede confirmação antes de executar.
+### Buscar, listar e filtrar sortimentos
 
-### Buscar, filtrar e listar sortimentos
+Para localizar e gerenciar o sortimento desejado, você pode buscá-lo por nome ou ID, e ordenar ou filtrar a lista por atributos comuns:
 
-Você pode buscar sortimentos por **nome** ou **ID** e ordenar ou filtrar a lista por atributos comuns, como data de criação, nome e ID, para localizar e gerenciar o sortimento desejado.
+- Data de criação do sortimento
+- Nome do sortimento
+- ID do sortimento
