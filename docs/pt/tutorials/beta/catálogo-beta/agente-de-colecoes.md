@@ -65,40 +65,79 @@ O **Agente de Coleções** opera a partir das seguintes regras:
 Você pode realizar as seguintes ações:
 
 - Criar uma coleção
-- Visualizar o resultado da criação
-- Verificar as relações da coleção
+  - Revisar o plano de coleção
+  - Aprovar o plano de coleção
 - Aprovar o plano de coleção
 - Editar, revisar e refinar a coleção
 - Checar o impacto da edição
 - Buscar, filtrar e listar coleções
 - Incluir todos os produtos do catálogo em uma coleção
 
-### Criar e visualizar uma coleção
+### Criar uma coleção
 
-Descreva na janela de conversa o conjunto de produtos que deseja reunir. O **Agente de Coleções** interpreta o pedido, monta os critérios e as regras correspondentes e gera um rascunho para sua aprovação. Alguns exemplos de instruções são:
+Para criar uma coleção usando linguagem natural, digite na janela de conversa as instruções (prompt) para a criação da coleção com os produtos que deseja reunir. Alguns exemplos de instruções são:
 
-- "Crie uma coleção com todos os produtos da marca X."
+- "Crie uma coleção com todos os produtos da marca Infotech."
 - "Crie uma coleção com os produtos das categorias Eletrônicos e Informática, exceto os da marca Infotech."
 - "Crie uma coleção com todos os produtos da categoria Verão que têm a especificação Cor igual a Azul."
 
-Antes que você confirme a criação, o agente apresenta o **plano de coleção**: um resumo claro das regras configuradas, com os critérios **dinâmicos** (marcas, categorias, especificações de produto e de SKU) e as **inclusões e exclusões estáticas**. O agente também resume a lógica aplicada (composição inclusiva/exclusiva).
+Após inserir as intruções no chat, aperte `Enter` ou clique no botão seta para cima no chat. O **Agente de Coleções** vai então interpretar a solicitação e montar a coleção com os critérios e as regras correspondentes. Ao terminar o processamento, o agente pode solicitar informações complementares.
 
-Quando os produtos estáticos vêm de uma **planilha**, o plano faz referência ao arquivo; quando são digitados diretamente **no chat**, o plano lista os IDs. O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções.
+**Exemplo:** o agente recebeu o comando "Monte uma coleção com todos os produtos da categoria de ID 6", e, após o processamento, fez duas solicitações:
+
+1. Um nome para a nova coleção
+2. Uma descrição para a coleção
+
+A resposta no chat deve seguir o mesmo padrão numérico, com a identificação dos números:
+
+1. Moda outono/inverno
+2. Artigos de moda para o inverno.
+
+A imagem abaixo apresenta um exemplo da criação de uma coleção:
+
+![criacao de colecao com ID de categoria](linkPlaceholder)
+
+Feito isso, o agente vai processar a solicitação e apresentar um plano do que será feito.
+
+#### Revisar o plano de coleção
+
+O plano de coleção apresentado pelo agente é um resumo que você deve revisar antes de confirmar a operação. Neste plano, existem informações como:
+
+- Nome da coleção sendo criada
+- Descrição da coleção
+- [Regra de criação](#regras-do-funcionamento) a ser utilizada
+- Comportamento futuro para a inclusão de produtos na coleção
+
+A imagem abaixo apresenta um exemplo deplano de coleção a ser revisado:
+
+![resumo da colecao](linkPlaceholder)
+
+#### Aprovar o plano de coleção
+
+Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e termina a conversa, informando:
+
+- Sucesso da operação
+- ID na nova coleção
+- Nome da coleção
+
+A imagem abaixo apresenta um exemplo operação finalizada:
+
+![sucesso_operacao](linkPlaceholder)
+
+> ❗ A propagação dos dados pode levar até cerca de 1 hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
 
 ### Verificar as relações
 
-Você pode consultar as relações de uma coleção nos dois sentidos:
+Você pode usar o agente na consulta das relações de uma coleção de duas formas distintas:
 
-- Listar todas as coleções relacionadas a um sortimento, agrupadas por incluídas e excluídas.
+- Listando todas as coleções relacionadas a um sortimento, agrupadas por incluídas e excluídas.
 - Listar todos os sortimentos que consomem uma determinada coleção, agrupados por incluídos e excluídos.
-
-### Aprovar o plano de coleção
-
-Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Após a criação ou edição, o agente informa que a indexação está em andamento e que a coleção ainda não está visível para consulta, pois a propagação dos dados leva cerca de 1 hora.
 
 ### Criar coleções em massa
 
 Para montar coleções estáticas rapidamente, importe uma planilha (`.csv` ou `.xlsx`) com a lista de itens, usando as colunas de identificação (Product Ref. ID, Product ID, SKU ID, SKU Ref. ID). Há três fluxos possíveis, sempre uma coleção por operação:
+
+Quando os produtos estáticos vêm de uma **planilha**, o plano faz referência ao arquivo; quando são digitados diretamente **no chat**, o plano lista os IDs. O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções.
 
 - **Adicionar** itens à lista existente.
 - **Remover** itens da lista existente.
