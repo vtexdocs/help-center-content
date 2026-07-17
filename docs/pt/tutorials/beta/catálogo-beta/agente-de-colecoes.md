@@ -64,16 +64,17 @@ O **Agente de Coleções** opera a partir das seguintes regras:
 
 Você pode realizar as seguintes ações:
 
-- Criar uma coleção
+- Criar uma coleção usando linguagem natural
   - Revisar o plano de coleção
   - Aprovar o plano de coleção
-- Aprovar o plano de coleção
+- Criar coleção por meio de importação de planilha
+- Verificar as relações em coleções
 - Editar, revisar e refinar a coleção
 - Checar o impacto da edição
 - Buscar, filtrar e listar coleções
 - Incluir todos os produtos do catálogo em uma coleção
 
-### Criar uma coleção
+### Criar coleção usando linguagem natural
 
 Para criar uma coleção usando linguagem natural, digite na janela de conversa as instruções (prompt) para a criação da coleção com os produtos que deseja reunir. Alguns exemplos de instruções são:
 
@@ -126,16 +127,16 @@ A imagem abaixo apresenta um exemplo operação finalizada:
 
 > ❗ A propagação dos dados pode levar até cerca de 1 hora para se refletir no Admin VTEX, a depender do volume de dados sendo processados.
 
-### Verificar as relações
+### Criar coleção por meio de importação de planilha
 
-Você pode usar o agente na consulta das relações de uma coleção de duas formas distintas:
+Você pode montar coleções por meio de importação de planilhas em formato `.csv` ou `.xlsx`. A planilha deve ter uma lista de itens com as seguintes colunas de identificação:
 
-- Listando todas as coleções relacionadas a um sortimento, agrupadas por incluídas e excluídas.
-- Listar todos os sortimentos que consomem uma determinada coleção, agrupados por incluídos e excluídos.
+- Product ID
+- Product Reference ID
+- SKU ID
+- SKU Reference ID
 
-### Criar coleções em massa
-
-Para montar coleções estáticas rapidamente, importe uma planilha (`.csv` ou `.xlsx`) com a lista de itens, usando as colunas de identificação (Product Ref. ID, Product ID, SKU ID, SKU Ref. ID). Há três fluxos possíveis, sempre uma coleção por operação:
+existem três fluxos possíveis, sempre uma coleção por operação:
 
 Quando os produtos estáticos vêm de uma **planilha**, o plano faz referência ao arquivo; quando são digitados diretamente **no chat**, o plano lista os IDs. O plano é atualizado a cada nova instrução, e você aprova a estrutura final sem precisar montar a lógica interna de subcoleções.
 
@@ -144,6 +145,10 @@ Quando os produtos estáticos vêm de uma **planilha**, o plano faz referência 
 - **Substituir** toda a lista.
 
 Durante a importação, o agente processa a planilha inteira: linhas com IDs encontrados são importadas e registradas; linhas com IDs não encontrados são ignoradas, registradas e apresentadas para que você possa corrigi-las (por exemplo, "Linha 5: SKU 'ABC123' não encontrado"). IDs duplicados são ignorados nas linhas seguintes, e a importação nunca é interrompida por falhas em linhas individuais.
+
+### Verificar as relações em coleções
+
+O **Agente de Coleções** pode ser usado para consultar as relações de uma coleção. Você pode, por exempol, perguntar qual o motivo do produto ter sido incluído ou não em determinada coleção, e o agente então explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
 
 ### Editar, revisar e refinar a coleção
 
@@ -192,9 +197,13 @@ Um sortimento é composto a partir de coleções, com regras inclusivas e exclus
 
 Antes de confirmar, o agente apresenta o plano do sortimento, com um resumo das coleções incluídas e excluídas e da lógica aplicada. O plano é atualizado a cada instrução, e o agente atua sobre um sortimento por vez.
 
-### Verificar as relações
+### Verificar as relações em sortimentos
 
-Você pode consultar as relações de um sortimento nos dois sentidos: listar todas as coleções relacionadas a um sortimento (agrupadas por incluídas e excluídas) e listar todos os sortimentos que consomem uma coleção. Também é possível perguntar por que um produto está no resultado (por exemplo, "Por que este produto está aqui?"), e o agente explica qual critério ou regra levou àquela decisão.
+O **Agente de Coleções** pode ser usado para consultar as relações de uma coleção, e é possível fazer isso de duas formas distintas:
+
+- Listando todas as coleções relacionadas a um sortimento, agrupadas por incluídas e excluídas.
+- Listando todos os sortimentos que consomem uma determinada coleção, agrupados por incluídos e excluídos.
+- Perguntando o motivo da coleção estar ou não em um sortimento, e o agente explica qual critério ou regra levou àquela decisão. Exemplo de instrução: "Por que a coleção de ID 463 está no sortimento Filial Norte?".
 
 ### Aprovar o plano de sortimento
 
