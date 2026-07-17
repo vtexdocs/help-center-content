@@ -24,10 +24,6 @@ Além de permitir realizar tudo o que era feito pela interface legada, o **Agent
 - A possibilidade de criar e gerenciar coleções e sortimentos a partir de regras inclusivas e exclusivas.
 - A opção de gerenciar coleções usando como critério especificações de produto e especificações de SKU.
 
-## Pré-requisitos para usar o agente
-
-Não existe um pré-requisito específico para usar o **Agente de Coleções**, mas como ele atua em coleções e sortimentos, é necessário que a loja tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
-
 ## Avisos da fase beta
 
 O **Agente de Coleções** está em beta, e durante este período a funcionalidade tem as seguintes limitações:
@@ -37,6 +33,10 @@ O **Agente de Coleções** está em beta, e durante este período a funcionalida
 - **Coleção ou sortimento por vez:** o agente atua sobre uma única coleção ou sortimento em cada operação de visualização, criação ou edição.
 - **Tempo de propagação:** uma coleção não fica visível imediatamente após a criação ou edição. O agente informa que a indexação está em andamento e que a propagação dos dados leva cerca de uma hora até que a coleção fique disponível para consulta.
 - **Verificação de pertencimento após a criação:** confirmar se um produto específico faz parte de uma coleção é confiável apenas após a criação e a indexação. Verificações de pertencimento antes da criação estão fora do escopo neste momento.
+
+## Pré-requisitos para usar o agente
+
+Não existe um pré-requisito para usar o **Agente de Coleções**, mas como ele atua em coleções e sortimentos, é necessário que a loja tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
 
 ## Acessar o agente
 
