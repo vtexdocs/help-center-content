@@ -15,79 +15,81 @@ locale: es
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
+**Pedidos** es la página que muestra la información de los pedidos creados y gestionados por [VTEX Pick and Pack](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack). Está disponible en el Admin VTEX a través de **Envío > Pick and Pack > Pedidos** y permite realizar las siguientes acciones:
 
-**Pedidos** es una página del Admin VTEX que muestra información sobre los pedidos realizados y gestionados por [VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack).
+- [Consultar pedidos](#consultar-pedidos)
+- [Buscar pedidos](#buscar-pedidos)
+- [Filtrar pedidos](#filtrar-pedidos)
 
-Esta página te permite realizar las siguientes acciones:
+![pick-and-pack-pedidos-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_1.png)
 
-* [Consultar pedidos](#consultar-pedido) 
-* [Buscar pedidos](#buscar-pedido) 
-* [Filtrar pedidos](#filtrar-pedidos) 
-* [Exportar pedidos](#exportar-pedidos)
+La página muestra la siguiente información en una tabla:
 
-![pick-and-pack-pedidos-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_1.png)
+| Campo de la tabla    | Descripción                                                                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Status               | Etapa del proceso de fulfillment del pedido.                                                                                 |
+| ID del pedido        | Número de identificación del pedido. También indica la fecha de creación del pedido.                         |
+| Facturas             | Estado de facturación del pedido. Valores posibles: **Facturado** y **No facturado**.        |
+| Ítems                | Número de ítems que componen el pedido.                                                                                      |
+| Envío                | Tipo de envío del pedido. Valores posibles: **Entrega al cliente** y **Recogida en tienda**. |
+| Pago                 | Medio de pago utilizado para realizar el pedido.                                                                             |
+| Instalaciones        | Indica la tienda o el centro de distribución responsable del alistamiento y preparación del pedido.                          |
+| Tags                 | Tags relacionadas con la venta del pedido, como UTM o cupones.                                                               |
+| Fecha de vencimiento | Plazo de entrega o recogida del pedido.                                                                                      |
 
-La página presenta la siguiente información en forma de tabla: 
+## Consultar pedidos
 
-| Campo de la tabla | Descripción                                                                                            |
-| ----------------- | ------------------------------------------------------------------------------------------------------ |
-| ID del pedido     | Número de identificación del pedido. También indica la fecha en que fue creado.                        |
-| Facturas          | Status de facturación del pedido, con los siguientes valores posibles: **Facturado** y **No facturado**.       |
-| Items             | Número de ítems que componen el pedido.                                                                |
-| Envío             | Tipo de envío del pedido, con los siguientes valores posibles **Entrega al cliente** y **Recogida en tienda**. |
-| Pago              | Medio de pago utilizado para realizar el pedido.                                                       |
-| Tags              | Tags relacionadas con el pedido, como UTM o uso de cupones.                                            |
-| Fecha de entrega  | Fecha de entrega o recogida del pedido.                                                                |
-| Status            | Etapa del proceso de fulfillment del pedido.                                                           |
+Puedes acceder a información más detallada sobre cada pedido haciendo clic en el pedido correspondiente en la tabla.
 
-## Consultar pedido
+![pick-and-pack-pedidos-2-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_2.png)
 
-Puedes optimizar la consulta de pedidos desde las siguientes secciones: 
+Al seleccionar el pedido deseado, tendrás acceso a la siguiente información:
 
-* **Todos:** todos los pedidos realizados.
-* **Pendientes:** pedidos pendientes, ítems listos para alistar y en preparación.
-* **A enviar:** pedidos listos para envío.
-* **Entregados:** pedidos que han sido entregados al cliente, ya sea por recogida en tienda o por la transportadora.
-* **Cancelados:** pedidos cancelados.
-* **Rechazados:** pedidos rechazados.
+- **Resumen del pedido**: muestra el ID, la secuencia, el status actual, el tiempo de alistamiento y la fecha estimada de entrega.
+- **Ítems**: lista de ítems que componen el pedido. Además, puedes hacer clic en **Hoja de trabajo** para acceder a información más detallada sobre el mismo.
+  **Observaciones**: muestra las observaciones registradas en el pedido.
+- **Flujo del pedido**: indica visualmente la etapa actual del proceso de fulfillment dentro de VTEX Pick and Pack, que tiene un flujo operativo propio, independiente del flujo del pedido en el Order Management System (OMS).
+- **Paquete(s)**: muestra la información relacionada con los paquetes generados para envío, cuando corresponde. En la esquina superior de la ventana del paquete, haz clic en (<i class="fas fa-ellipsis-v" aria-hidden="true"></i>) para abrir el menú de acciones:
 
-También puedes acceder a información más detallada sobre cada pedido haciendo clic en el pedido en la tabla.
+  - **Imprimir**: genera la etiqueta del paquete para el proceso de envío.
+  - **Definir ubicación**: permite asociar una ubicación física al paquete para el control logístico. Al seleccionar esta opción, se muestra la pantalla de ubicación del paquete, en la que puedes:
+    - Ver la **Instalación** responsable del paquete.
+    - Ingresar o escanear el **código de ubicación (BIN)** en el campo disponible.
+    - Hacer clic en `Escanear` para capturar el código con un lector.
+    - Hacer clic en `Guardar` para registrar la ubicación del paquete.
 
-![pick-and-pack-pedidos-2-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_2.png)
+## Buscar pedidos
 
-Al seleccionar el pedido deseado, se mostrará la siguiente información:
-
-* **Ítems:** lista de ítems que componen el pedido. Puedes buscar un ítem ingresando el ID del SKU o el nombre del ítem en la barra de búsqueda. También puedes hacer clic en el ítem para acceder a información más detallada.
-* **Observaciones del pedido:** observaciones que el retailer agregó al pedido.
-* **Información de envío:** información sobre el envío del pedido, incluido el status del envío.
-* **Información de pago:** información sobre el pago del pedido.
-* **Información adicional:** información adicional del pedido.
-* **Logs:** línea de tiempo con el historial de actualizaciones del pedido.
-
-## Buscar pedido
-
-Puedes buscar un pedido utilizando la barra de búsqueda. Ingresa el ID del pedido en la barra de búsqueda, como en este ejemplo: `SLR-1341470502250-01`. 
+Puedes buscar un pedido utilizando la barra de búsqueda. Ingresa el ID del pedido en la barra de búsqueda, por ejemplo `SLR-1341470502250-01`.
 
 ## Filtrar pedidos
 
-Puedes refinar la búsqueda y visualización de pedidos seleccionando la opción **Filtrar**. Filtra los pedidos utilizando las siguientes opciones:
+Puedes refinar la búsqueda y la vista de pedidos. Filtra los pedidos utilizando las siguientes opciones:
 
-* **Fecha de creación:** selecciona la fecha de creación del pedido.
-* **Fecha de entrega:** selecciona la fecha en que se entregó el pedido.
-* **Categorías:** selecciona la categoría de los ítems del pedido.
-* **Medios de pago:** selecciona el medio de pago utilizado en el pedido.
-* **Estrategia de envío:** selecciona la estrategia de envío utilizada en el pedido.
-* **Método de envío:** selecciona el método de envío utilizado en el pedido.
+- **Fecha de creación:** selecciona la fecha de creación del pedido.
+- **Fecha de entrega:** selecciona la fecha de entrega.
+- **Status del pedido:** selecciona uno o más status operativos del pedido.
+- **Categorías:** selecciona la categoría en la que están los ítems del pedido.
+- **Medios de pago:** selecciona el medio de pago utilizado en el pedido.
+- **Estrategia de envío:** selecciona la estrategia de envío utilizada en el pedido.
+- **Tipo de envío:** selecciona el tipo de envío utilizado en el pedido.
+- **Instalaciones**: selecciona una o más unidades responsables del procesamiento del pedido.
 
-Haz clic en `Limpiar filtros` para remover los filtros seleccionados.
+## Configurar remoción automática de pedidos facturados
 
-## Exportar pedidos
+En la sección **Configuración** de Pick and Pack, puedes definir el comportamiento de los pedidos que cambian a Facturado en el OMS después de descargarse en la aplicación.
 
-Puedes exportar pedidos siguiendo los pasos a continuación:
+Si activas esta opción, se removerán automáticamente de la aplicación los pedidos que:
 
-1. Haz clic en `Exportar`.
-2. Selecciona los datos que deseas exportar: `Informe de paquetes` o `Informe de pedidos`.
-    - En el caso de `Informe de paquetes`, debes seleccionar el periodo que deseas exportar, el tipo y el método de envío.
-    ![pick-and-pack-pedidos-3-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_3.png)
-3.  Haz clic en `Exportar`.
+- Ya fueron descargados en Pick and Pack.
+- Aún no se procesaron.
+- Cambien a **Facturado** en el OMS antes de la etapa de preparación.
+
+Para configurar esta regla sigue los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración**, o ingresa **Configuración** en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña **Pedidos**, haz clic en `General`.
+3. En la sección **Si un pedido cambia a Facturado en el OMS**, activa la opción **Remover de Pick and Pack**.
+4. Haz clic en `Guardar`.
+
+![pick-and-pack-pedidos-3-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_3.png)
