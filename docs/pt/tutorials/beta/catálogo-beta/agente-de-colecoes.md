@@ -38,7 +38,7 @@ O **Agente de Coleções** está em beta, e durante este período a funcionalida
 
 ## Pré-requisitos para usar o agente
 
-Não existe um pré-requisito para usar o **Agente de Coleções**, mas como ele atua em coleções e sortimentos, é necessário que a loja tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
+Como o **Agente de Coleções** atua sobre coleções e sortimentos, é necessário que a loja já tenha cadastrado [marcas](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-marca), [categorias](https://help.vtex.com/pt/docs/tutorials/cadastrar-uma-categoria), [produtos](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku), já que é sobre esses itens que as regras de criação são aplicadas.
 
 ## Acessar o agente
 
@@ -72,7 +72,7 @@ Você pode realizar as seguintes ações:
 - Criar coleção por meio de importação de planilha
 - Verificar as relações em coleções
 - Editar e refinar a coleção
-- Buscar, listar e filtrar coleções
+- Buscar, filtrar e listar coleções
 - Incluir todos os produtos do catálogo em uma coleção
 
 ### Criar coleção usando linguagem natural
@@ -99,7 +99,7 @@ A imagem abaixo apresenta um exemplo da criação de uma coleção:
 
 ![criacao de colecao com ID de categoria](linkPlaceholder)
 
-Feito isso, o agente vai processar a solicitação e apresentar um plano do que será feito.
+Feito isso, o agente apresenta um plano do que será feito.
 
 #### Revisar o plano de coleção
 
@@ -116,7 +116,7 @@ A imagem abaixo apresenta um exemplo de plano de coleção a ser revisado:
 
 #### Aprovar o plano de coleção
 
-Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e termina a conversa, informando:
+Depois de revisar o plano, confirme a operação para que o agente aplique as mudanças. Feito isso, o agente finaliza o processamento e informa:
 
 - Sucesso da operação
 - ID da nova coleção
@@ -159,13 +159,13 @@ Siga os mesmos passos da criação de coleção via linguagem natural para [revi
 
 ### Verificar as relações em coleções
 
-O **Agente de Coleções** pode ser usado para consultar as relações de pertencimento ou ausência de produtos em uma coleção. Você pode, por exemplo, perguntar pelo chat qual o motivo de o produto ter sido incluído ou excluído de determinada coleção, e o agente explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
+O **Agente de Coleções** pode ser usado para consultar as relações de pertencimento ou ausência de produtos em uma coleção. Você pode, por exemplo, perguntar pelo chat por que um produto foi incluído em uma coleção ou excluído dela, e o agente explicará o critério ou regra que levou àquela decisão. Exemplo de instrução: "Por que o produto de ID 74 está na coleção Moda Praia?".
 
 ### Editar e refinar a coleção
 
 Em uma conversa contínua, o **Agente de Coleções** não substitui o estado atual do rascunho, mas sim adiciona as novas instruções ao que já foi definido. Ou seja, você não precisa começar do zero para ajustar uma coleção. O agente entende modificadores relativos como "desfaça isso" ou "troque a marca X pela marca Y", e o plano de coleção é atualizado a cada interação.
 
-O refinamento de coleções a partir de novas instruções vale tanto para revisar uma coleção sendo montada quanto para uma coleção que já foi criada.
+O refinamento de coleções a partir de novas instruções vale tanto para uma coleção sendo montada quanto para uma coleção que já foi criada.
 
 > ❗ O **Agente de Coleções** checa o impacto da edição. Ou seja, antes de aplicar alterações de alto impacto, como editar uma coleção compartilhada por vários sortimentos, o agente mostra quais coleções e sortimentos serão afetados e solicita sua confirmação antes de executar.
 
