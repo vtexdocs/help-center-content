@@ -60,6 +60,24 @@ O **Agente de Coleções** opera a partir das seguintes regras:
 - **Desambiguação conversacional:** quando uma instrução é vaga ou corresponde a mais de uma entidade do catálogo, o agente pausa e apresenta opções em vez de adivinhar.
 - **Confirmação antes de mudanças de alto impacto:** antes de alterações relevantes (por exemplo, editar uma coleção compartilhada por muitos sortimentos), o agente mostra o alcance da mudança e solicita a confirmação do usuário.
 
+## Inclusão de produtos do catálogo em uma coleção
+
+Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
+
+- **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
+- **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
+- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser obrigatória.
+
+Pontos de atenção comuns a essas opções:
+
+- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer.
+- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação.
+- Categorias e marcas **criadas após** a coleção não são incluídas automaticamente.
+- Uma categoria, marca ou especificação **removida** do catálogo após a criação da coleção retira seus produtos da coleção.
+- No caso da especificação de produto, produtos sem a especificação, com o valor em branco ou com valor diferente ficam de fora.
+
+Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "todos os produtos" hoje pode mudar conforme o catálogo evolui, e nenhum dos caminhos se atualiza sozinho para capturar o que for criado depois. Independentemente da opção escolhida, um plano com a estrutura proposta é gerado para aprovação antes de qualquer alteração ser aplicada.
+
 ## Realizar ações em coleções
 
 > ⚠️ Os exemplos de instruções apresentados a seguir são apenas para fins ilustrativos e não a única forma do agente executar uma ação.
@@ -73,7 +91,6 @@ Você pode realizar as seguintes ações:
 - Verificar as relações em coleções
 - Editar e refinar a coleção
 - Buscar, filtrar e listar coleções
-- Incluir todos os produtos do catálogo em uma coleção
 
 ### Criar coleção usando linguagem natural
 
@@ -172,24 +189,6 @@ O refinamento de coleções a partir de novas instruções vale tanto para uma c
 ### Buscar, filtrar e listar coleções
 
 Para localizar e gerenciar a coleção certa, você pode buscá-la por **nome** ou **ID** e ordenar ou filtrar a lista por atributos comuns, como data de criação, nome e ID. Ao abrir uma coleção, é possível visualizar sua definição.
-
-### Incluir todos os produtos do catálogo em uma coleção
-
-Não existe, atualmente, uma forma automática de incluir todos os produtos do catálogo em uma coleção de modo que ela se mantenha sincronizada. É possível incluir todos os produtos usando as regras dinâmicas existentes, mas cada uma tem suas limitações:
-
-- **Por categorias:** ao selecionar todas as categorias do catálogo, como todo produto precisa ter uma categoria, todos os produtos são incluídos.
-- **Por marcas:** ao selecionar todas as marcas, como todo produto precisa ter uma marca, todos os produtos são incluídos.
-- **Por especificação de produto:** ao selecionar uma especificação com o mesmo valor presente em todos os produtos. A especificação precisa estar ativa e ser obrigatória.
-
-Pontos de atenção comuns a essas opções:
-
-- Categorias, marcas ou especificações **inativas** entram na coleção, mas seus produtos não aparecem na navegação enquanto estiverem inativos. Se forem ativadas depois, os produtos passam a aparecer.
-- Se uma categoria, marca ou especificação for **desativada** após a criação da coleção, seus produtos permanecem na coleção, mas deixam de aparecer na navegação.
-- Categorias e marcas **criadas após** a coleção não são incluídas automaticamente.
-- Uma categoria, marca ou especificação **removida** do catálogo após a criação da coleção retira seus produtos da coleção.
-- No caso da especificação de produto, produtos sem a especificação, com o valor em branco ou com valor diferente ficam de fora.
-
-Nenhuma dessas opções é um espelho permanente do catálogo: o que compõe "todos os produtos" hoje pode mudar conforme o catálogo evolui, e nenhum dos caminhos se atualiza sozinho para capturar o que for criado depois. Independentemente da opção escolhida, um plano com a estrutura proposta é gerado para aprovação antes de qualquer alteração ser aplicada.
 
 ## Realizar ações em sortimentos
 
