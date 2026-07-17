@@ -17,15 +17,7 @@ tags:
 
 Redesenhamos a página de configurações de pedido e checkout no Admin da VTEX. As configurações agora estão disponíveis em uma nova experiência independente, com uma interface mais moderna e carregamento mais rápido, mantendo as mesmas opções de configuração que você já utiliza.
 
-## O que mudou?
-
-A página de configurações de pedidos foi migrada para uma nova aplicação dedicada no Admin da VTEX. Na prática:
-
-- Você acessa as mesmas configurações de pedido e checkout no mesmo local: **Configurações da loja > Pedidos > Configurações**.
-- As opções disponíveis permanecem as mesmas, incluindo condições do carrinho, workflow de pedidos, substituição de pedidos, modo de pré-visualização e tipo de máscara de conversação.
-- A nova experiência funciona como uma aplicação independente, o que melhora o carregamento e a estabilidade.
-
-> O acesso à página continua exigindo os recursos do [License Manager](https://help.vtex.com/en/announcements/2025-10-21-new-license-manager-resources-order-configurations): `Save Order Configuration` e `Save OrderForm Configuration`.
+O acesso à página continua exigindo os recursos do [License Manager](https://help.vtex.com/en/announcements/2025-10-21-new-license-manager-resources-order-configurations): `Save Order Configuration` e `Save OrderForm Configuration`.
 
 ## Por que fizemos essa mudança?
 
@@ -37,8 +29,6 @@ Os principais benefícios dessa mudança são:
 
 ## O que precisa ser feito?
 
-A partir de 31 de julho, a versão beta da página de configurações estará disponível para algumas lojas VTEX selecionadas. Essa experiência será habilitada aos poucos durante as próximas semanas, e suas configurações existentes são preservadas.
+A partir de 31 de julho, a versão beta da página de configurações estará disponível para algumas lojas VTEX selecionadas. Essa experiência será habilitada gradualmente nas semanas seguintes, e suas configurações existentes são preservadas. Durante o período de validação, se você desejar voltar à versão anterior da página de configurações, pode clicar no botão `Reverter para a versão anterior`.
 
-Se você desejar voltar à versão anterior da página de configurações, clique no botão `Reverter para a versão anterior`.
-
-> ⚠️ A partir de 1 de setembro, a nova interface de configurações de pedido será o padrão para todas as lojas VTEX.
+A partir de 1 de setembro, a nova interface de configurações de pedido será o padrão para todas as lojas VTEX.
