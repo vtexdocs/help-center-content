@@ -3,7 +3,7 @@ title: '¿Cómo solicitar la verificación de SLA de operación de la plataforma
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z
-updatedAt: 2022-12-23T15:59:27.323Z
+updatedAt: 2026-07-17T19:09:59.877Z
 publishedAt: 2022-12-23T15:59:27.323Z
 firstPublishedAt: 2019-01-24T22:05:10.732Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Los cuatro niveles de servicio de nuestro SLA, y los descuentos concedidos por su quiebra, están citados en su contrato. En caso de no haber recibido uno, el motivo puede haber sido la aceptación automática de nuestro [término de adhesión](/es/faq/por-que-no-recibi-el-contrato-firmado-de-vtex). Sin embargo, siempre que desee, usted puede consultar su SLA [aquí](https://vtex.com/es-mx/trust/agreements).
+Los cuatro niveles de servicio de nuestro SLA, y los descuentos concedidos por su quiebra, están citados en su contrato. En caso de no haber recibido uno, el motivo puede haber sido la aceptación automática de nuestro [término de adhesión](/es/docs/tutorials/vision-general-facturacion). Sin embargo, siempre que desee, usted puede consultar su SLA [aquí](https://vtex.com/es-mx/trust/agreements).
 
 ## Antes de solicitar la verificación de su SLA, tenga en cuenta:
 

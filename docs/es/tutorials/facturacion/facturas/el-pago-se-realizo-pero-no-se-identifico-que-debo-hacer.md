@@ -3,7 +3,7 @@ title: 'El pago se realizó, pero no se identificó. ¿Qué debo hacer?'
 id: 63Fz8Ma5alR43ij4ZXVOQC
 status: PUBLISHED
 createdAt: 2020-09-10T21:33:40.958Z
-updatedAt: 2021-02-22T16:31:06.428Z
+updatedAt: 2026-07-17T19:09:59.877Z
 publishedAt: 2021-02-22T16:31:06.428Z
 firstPublishedAt: 2020-09-10T21:43:10.777Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-En este artículo usted encontrará explicaciones sobre los posibles motivos de la falta de confirmación del pago de su factura de acuerdo con la [sucursal VTEX](/es/docs/tutorials/nombres-de-las-sucursales-vtex-en-el-mundo) de facturación del cliente.
+En este artículo usted encontrará explicaciones sobre los posibles motivos de la falta de confirmación del pago de su factura de acuerdo con la [sucursal VTEX](/es/docs/tutorials/vision-general-facturacion) de facturación del cliente.
 
 El pago se debe identificar en hasta 48 h útiles. En caso de que su pago no sea identificado en ese plazo, usted deberá abrir un [ticket](https://support.vtex.com/hc/pt-br/requests) con los comprobantes necesarios y seleccionar la opción **Envío de comprobante de pago y/o de retenciones**.
 

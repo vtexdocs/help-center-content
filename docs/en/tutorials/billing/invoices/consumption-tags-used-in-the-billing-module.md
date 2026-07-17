@@ -3,7 +3,7 @@ title: 'Consumption tags used in the billing module'
 id: 4v33NVnAEe6HTgbF6sOBF2
 status: PUBLISHED
 createdAt: 2024-10-04T20:18:55.246Z
-updatedAt: 2024-10-31T18:40:41.214Z
+updatedAt: 2026-07-17T19:09:59.877Z
 publishedAt: 2024-10-31T18:40:41.214Z
 firstPublishedAt: 2024-10-04T21:40:07.736Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-VTEX considers the total amount of orders approved in the [payment transaction flow](/en/docs/tutorials/transaction-flow-in-payments) as the [store revenue](/en/docs/tutorials/what-does-vtex-consider-as-revenue-in-the-billing-calculation) and calculates the invoice accordingly. However, different rates may apply to orders of the same value because the billing module operates based on tags.
+VTEX considers the total amount of orders approved in the [payment transaction flow](/en/docs/tutorials/transaction-flow-in-payments) as the [store revenue](/en/docs/tutorials/billing-module-overview) and calculates the invoice accordingly. However, different rates may apply to orders of the same value because the billing module operates based on tags.
 
 Consumption tags are categories that define the characteristics of an order and indicate the business rules applied to the sale. The order is analyzed based on specific criteria and is assigned tags that determine the take rate to be charged.
 
@@ -27,7 +27,7 @@ This article presents the existing tags in the billing module. By providing this
 
 For an order to be tagged, it must meet the following conditions:
 
-* Have all [order details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) ([incomplete](/en/docs/tutorials/understanding-incomplete-orders) orders do not receive tags).
+* Have all [order details](/en/docs/tracks/orders) ([incomplete](/en/docs/tutorials/understanding-incomplete-orders) orders do not receive tags).
 * Have payment information, including the authorization date of the financial transaction.
 
 > ℹ️ Orders placed through [Multilevel Omnichannel Inventory (MOI)](/en/docs/tutorials/multilevel-omnichannel-inventory), known as chain orders, do not include payment information. Therefore, they cannot be tagged or charged.
@@ -52,9 +52,9 @@ The following sections provide details about each of these groups.
 
 Below are the tags related to the channel through which the order is placed:
 
-* **IsInStore:** For orders placed through [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+* **IsInStore:** For orders placed through [VTEX Sales App](/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up).
 * **IsInfiniteShelf:** For orders placed through **VTEX Sales App** [endless aisle](/en/docs/tracks/endless-aisle) feature; used when the [inventory](/en/docs/tutorials/managing-stock-items) item is not stored locally.
-* **IsSalesAppDeliveredByMainAccount:** For orders placed through [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc); used when the item sold belongs to the [main account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types) and the sale is made within the main account environment.
+* **IsSalesAppDeliveredByMainAccount:** For orders placed through [VTEX Sales App](/en/docs/tracks/vtex-sales-app-getting-started-and-setting-up); used when the item sold belongs to the [main account](/en/docs/tracks/accounts-and-architecture#vtex-account-types) and the sale is made within the main account environment.
 * **IsSocialSelling:** For orders placed through [Social Selling](/en/docs/tutorials/how-to-use-the-shareable-cart-app).
 
   > ℹ️ The `IsSocialSelling` tag is only valid for [Social Selling](/en/docs/tutorials/how-to-use-the-shareable-cart-app) orders placed through **VTEX Sales App**.
@@ -83,18 +83,18 @@ See below the tags available for orders in the seller environment, depending on 
 * **IsCertifiedMarketplace:** The order was placed in a [certified marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-certified-marketplaces), [partner marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-partner-marketplaces), or [VTEX marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#ser-um-marketplace-vtex) (store acting as a marketplace). Once the order is assigned this tag, it receives either the `IsInternalCertifiedMarketplace` or `IsExternalCertifiedMarketplace` tag.
     * **IsExternalCertifiedMarketplace:** The order was placed in a [certified marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-certified-marketplaces) (Amazon, Mercado Libre, etc.) or a [partner marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-partner-marketplaces) (Shopee, Facebook, etc.).
     * **IsInternalCertifiedMarketplace:** The order was placed in a [VTEX marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#operating-as-a-vtex-marketplace), so the store acted as a marketplace for a seller. This tag may include another tagging level.
-        * **IsInternalCertifiedMarketplaceAndIsParentAccount:** The order was placed in a VTEX marketplace where the marketplace is the main account, and the seller is a [subaccount](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment) (i.e., an additional environment).
+        * **IsInternalCertifiedMarketplaceAndIsParentAccount:** The order was placed in a VTEX marketplace where the marketplace is the main account, and the seller is a [subaccount](/en/docs/tracks/accounts-and-architecture#additional-environment) (i.e., an additional environment).
 
 ### Seller
 
 See below the consumption tags available in the marketplace environment, depending on the seller that sold the order:
 
-* **IsSeller:** The order was placed in a marketplace where the item sold belongs to the [seller](/en/tutorial/o-que-e-um-seller). Every `IsSeller` order will necessarily be tagged as either `IsExternalSeller` or `IsCertifiedSeller`, and this initial tag is only for system purposes.
+* **IsSeller:** The order was placed in a marketplace where the item sold belongs to the [seller](/en/docs/tutorials/what-is-a-seller). Every `IsSeller` order will necessarily be tagged as either `IsExternalSeller` or `IsCertifiedSeller`, and this initial tag is only for system purposes.
 * **IsExternalSeller:** The order was placed in a [VTEX marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#operating-as-a-vtex-marketplace) (store acting as a marketplace), and the seller of the item is an [external seller](https://developers.vtex.com/docs/guides/external-seller-integration-guide).
 * **IsCertifiedSeller:** The order was placed in a [certified marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-certified-marketplaces), [partner marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-partner-marketplaces), or VTEX marketplace (store acting as a marketplace) in which the seller who owns the item sold is a [VTEX seller](/en/docs/tutorials/marketplace-strategies-at-vtex#operating-as-a-vtex-seller). Every `IsCertifiedSeller` order will also have the `IsInternalCertifiedSeller` tag.
     * **IsInternalCertifiedSeller:** This tag is used for system purposes only. Every `IsInternalCertifiedSeller` order will also receive the `IsInternalCertifiedSellerAndIsChildAccount` or `IsSellerPortal` tag.
         * **IsInternalCertifiedSellerAndIsChildAccount:** The order was placed in a VTEX marketplace where the marketplace is the main account, and the seller of the sold item is its [franchise account](/en/docs/tutorials/white-label-seller#relationship-between-white-label-sellers-and-franchise-accounts).
-        * **IsSellerPortal:** The order was placed in a VTEX marketplace where the marketplace is the main account, and the seller of the item is its [Seller Portal account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
+        * **IsSellerPortal:** The order was placed in a VTEX marketplace where the marketplace is the main account, and the seller of the item is its [Seller Portal account](/en/docs/tracks/accounts-and-architecture#vtex-account-types).
 
 ## Tags by customer type
 

@@ -3,7 +3,7 @@ title: 'How to request a platform SLA verification?'
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z
-updatedAt: 2022-12-23T15:59:27.323Z
+updatedAt: 2026-07-17T19:09:59.877Z
 publishedAt: 2022-12-23T15:59:27.323Z
 firstPublishedAt: 2019-01-24T22:05:10.732Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-The four levels of service of our SLA, and the discounts granted due to breaking it, are mentioned in your contract. If you have not received one, the reason may be the automatic acceptance of our [adhesion term](/en/faq/why-didnt-i-receive-the-signed-contract-from-vtex). However, whenever you want, you can check your SLA [here](https://vtex.com/en-us/trust/agreements).
+The four levels of service of our SLA, and the discounts granted due to breaking it, are mentioned in your contract. If you have not received one, the reason may be the automatic acceptance of our [adhesion term](/en/docs/tutorials/billing-module-overview). However, whenever you want, you can check your SLA [here](https://vtex.com/en-us/trust/agreements).
 
 ## Before requesting SLA verification, keep in mind:
 
