@@ -62,7 +62,7 @@ Para configurar cross-selling e upselling manualmente no Admin VTEX, siga as ins
 7. Selecione os SKUs desejados. Você pode usar a barra de busca para pesquisar SKUs.
 8. Clique em `Aplicar`.
 
-Saiba mais sobre as configurações de SKUs em [Adicionar ou editar SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku).
+Saiba mais sobre as configurações de SKUs em [Adicionar ou editar SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku). Para saber mais sobre a importação via planilha, veja [Importar e exportar produtos e SKUs via planilha](https://help.vtex.com/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha).
 
 ### Via API Reference
 
