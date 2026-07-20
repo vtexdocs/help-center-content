@@ -1,14 +1,14 @@
 ---
 title: 'Novo dashboard de uso do Master Data no Admin VTEX'
-createdAt: 2026-06-23T00:00:00.000Z
-updatedAt: 2026-06-23T00:00:00.000Z
+createdAt: 2026-07-20T00:00:00.000Z
+updatedAt: 2026-07-20T00:00:00.000Z
 contentType: updates
 productTeam: Master Data
-slugEN: 2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex
+slugEN: 2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin
 locale: pt
 announcementSynopsisPT: 'O Admin VTEX passa a oferecer o dashboard Master Data usage para consultar o volume de documentos em entidades personalizadas, com detalhamento por entidade e atualização semanal dos dados.'
 tags:
-  - Novo
+  - Nova funcionalidade
   - Master Data
 ---
 
