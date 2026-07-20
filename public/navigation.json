@@ -65921,6 +65921,21 @@
             },
             {
               "name": {
+                "en": "Missing Checkout usage notifications may lead to inconsistent promotion usage counters",
+                "es": "La falta de notificaciones de uso de Checkout puede provocar que los contadores de uso de las promociones sean inconsistentes.",
+                "pt": "A ausência de notificações de utilização do Checkout pode levar a contadores de utilização de promoções inconsistentes."
+              },
+              "slug": {
+                "en": "missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters",
+                "es": "la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes",
+                "pt": "a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "More for Less promotions incorrectly applying to overlapping quantities",
                 "es": "Las promociones Más por Menos se aplican incorrectamente a cantidades solapadas",
                 "pt": "As promoções \"Mais por menos\" estão sendo aplicadas incorretamente a quantidades sobrepostas"
