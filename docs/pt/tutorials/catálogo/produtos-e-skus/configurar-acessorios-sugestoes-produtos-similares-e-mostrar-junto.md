@@ -27,7 +27,7 @@ Consiste em oferecer um produto complementar ao que o usuário está adquirindo.
 
 ## O que é upselling?
 
-Significa oferecer ao cliente uma versão superior do item adquirido. No caso do celular, seria apresentar outro aparelho com mais funcionalidades ou a opção de substituir um fone de ouvido por outro com Bluetooth.
+Significa oferecer ao cliente uma versão superior do item adquirido. No caso do celular, seria apresentar outro aparelho com mais funcionalidades, ou a opção de substituir um fone de ouvido por outro com Bluetooth.
 
 ## Cross-selling e upselling na plataforma VTEX
 
