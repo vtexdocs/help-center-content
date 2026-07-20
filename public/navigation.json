@@ -39,6 +39,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Partial mode: New flow in post-purchase payment operations",
+                    "es": "Modo parcial: nuevo flujo de trabajo en las operaciones de pago poscompra",
+                    "pt": "Modo Parcial: novo fluxo em operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations",
+                    "es": "2026-07-14-modo-parcial-nuevo-flujo-de-trabajo-en-las-operaciones-de-pago-poscompra",
+                    "pt": "2026-07-14-modo-parcial-novo-fluxo-em-operacoes-de-pagamentos-pos-compra"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
@@ -47,6 +77,37 @@
                     "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
                     "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
                     "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Julho",
+                "es": "Julho",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "julho",
+                "es": "julho",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Delivery Promise disponível em Open Beta",
+                    "en": "Delivery Promise disponível em Open Beta",
+                    "es": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "pt": "2026-07-01-delivery-promise-em-open-beta",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13905,28 +13966,59 @@
             },
             {
               "name": {
-                "en": "Integration with Facebook Business Extension",
-                "es": "Integración con Facebook Business Extension",
-                "pt": "Integração com o Facebook Business Extension"
+                "en": "Integración con Extensión de Meta para empresas",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
               },
               "slug": {
-                "en": "integration-with-facebook-business-extension",
-                "es": "integracion-con-facebook-business-extension",
-                "pt": "integracao-com-o-facebook-business-extension"
+                "en": "integracion-con-extension-de-meta-para-empresas",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "1. Facebook Business Extension",
-                    "es": "1. Facebook Business Extension",
-                    "pt": "1. Facebook Business Extension"
+                    "en": "1. Interface of the configured integration",
+                    "es": "1. Interfaz de la integración configurada",
+                    "pt": "1. Interface da integração configurada"
                   },
                   "slug": {
-                    "en": "facebook-business-extension",
-                    "es": "facebook-business-extension",
-                    "pt": "facebook-business-extension"
+                    "en": "interface-da-integracao-configurada",
+                    "es": "interface-da-integracao-configurada",
+                    "pt": "interface-da-integracao-configurada"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integration with Meta Business Extension",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
+              },
+              "slug": {
+                "en": "integration-with-meta-business-extension",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Meta Business Extension",
+                    "es": "1. Extensión de Meta para empresas",
+                    "pt": "1. Extensão da Meta para Empresas"
+                  },
+                  "slug": {
+                    "en": "meta-business-extension",
+                    "es": "meta-business-extension",
+                    "pt": "meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13934,14 +14026,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension - Overview",
-                    "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
+                    "en": "2. Integration with Meta Business Extension - Overview",
+                    "es": "2. Integración con Extensión de Meta para empresas - Información general",
+                    "pt": "2. Integração com a Extensão da Meta para Empresas - Visão geral"
                   },
                   "slug": {
-                    "en": "integration-with-facebook-business-extension-overview",
-                    "es": "vision-general-de-la-integracion-con-facebook-business-extension",
-                    "pt": "visao-geral-da-integracao-com-o-facebook-business-extension"
+                    "en": "integration-with-meta-business-extension-overview",
+                    "es": "vision-general-de-la-integracion-con-meta-business-extension",
+                    "pt": "visao-geral-da-integracao-com-o-meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13949,14 +14041,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. Installing the Facebook Business Extension e Conversions API app",
-                    "es": "3. Instalar la aplicación Facebook Business Extension e Conversions API",
-                    "pt": "3. Instalar a app Facebook Business Extension e Conversions API"
+                    "en": "3. Installing the Meta Business Extension e Conversions API app",
+                    "es": "3. Instalar la aplicación Extensión de Meta para empresas e Conversions API",
+                    "pt": "3. Instalar a app Extensão da Meta para Empresas e Conversions API"
                   },
                   "slug": {
-                    "en": "installing-the-facebook-business-extension-e-conversions-api-app",
-                    "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
-                    "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
+                    "en": "installing-the-meta-business-extension-e-conversions-api-app",
+                    "es": "instalar-la-aplicacion-meta-business-extension-e-conversions-api",
+                    "pt": "instalar-a-app-meta-business-extension-e-conversions-api"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13972,21 +14064,6 @@
                     "en": "configuring-the-integration-with-fbe-in-the-vtex-admin",
                     "es": "configurar-la-integracion-con-fbe-en-el-admin-vtex",
                     "pt": "configurar-a-integracao-com-o-fbe-no-admin-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Interface of the configured integration",
-                    "es": "5. Interfaz de la integración configurada",
-                    "pt": "5. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18707,36 +18784,6 @@
                 },
                 {
                   "name": {
-                    "en": "Names of VTEX branches worldwide",
-                    "es": "Nombres de las sucursales VTEX en el mundo",
-                    "pt": "Nomes das filiais VTEX pelo mundo"
-                  },
-                  "slug": {
-                    "en": "names-of-vtex-branches-worldwide",
-                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
-                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a contract termination in Argentina and Colombia",
-                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
-                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
-                  },
-                  "slug": {
-                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
-                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
-                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Requesting a new environment",
                     "es": "Contratar nuevo entorno",
                     "pt": "Contratar novo ambiente"
@@ -18760,21 +18807,6 @@
                     "en": "how-to-request-your-contract-termination-in-brazil",
                     "es": "como-solicitar-su-rescision-contractual-en-brasil",
                     "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Agreement",
-                    "es": "Contrato VTEX",
-                    "pt": "Contrato VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-agreement",
-                    "es": "contrato-vtex",
-                    "pt": "contrato-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18806,21 +18838,6 @@
                     "en": "how-and-when-do-i-receive-my-invoice",
                     "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
                     "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How do I request a duplicate of my \"boleto\"?",
-                    "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
-                    "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
-                  },
-                  "slug": {
-                    "en": "how-do-i-request-a-duplicate-of-my-boleto",
-                    "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
-                    "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18866,36 +18883,6 @@
                     "en": "payment-was-made-but-not-found-what-should-i-do",
                     "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
                     "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What does VTEX consider as revenues for invoice calculation?",
-                    "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
-                    "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
-                  },
-                  "slug": {
-                    "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
-                    "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
-                    "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the period considered for calculating my billing?",
-                    "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
-                    "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-period-considered-for-calculating-my-billing",
-                    "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
-                    "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20918,6 +20905,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Configuring stores",
+                "es": "Configurar tiendas",
+                "pt": "Configurar lojas"
+              },
+              "slug": {
+                "en": "cms-configuring-stores",
+                "es": "cms-configurar-tiendas",
+                "pt": "cms-configurar-lojas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -26175,21 +26177,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Best practices when creating your Partner environment",
-                    "es": "Mejores prácticas para crear su ambiente Partner",
-                    "pt": "Melhores práticas para criar seu ambiente Partner"
-                  },
-                  "slug": {
-                    "en": "best-practices-when-creating-your-partner-environment",
-                    "es": "mejores-practicas-para-crear-su-ambiente-partner",
-                    "pt": "melhores-praticas-na-hora-de-criar-seu-ambiente-partner"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "How do I change my CNPJ?",
                     "es": "¿Cómo cambiar mi CNPJ?",
                     "pt": "Como fazer a alteração do meu CNPJ?"
@@ -26198,21 +26185,6 @@
                     "en": "how-do-i-change-my-cnpj-new",
                     "es": "como-cambiar-mi-cnpj-nuevo",
                     "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How long does the platform take to identify my payment?",
-                    "es": "¿Cuánto tiempo tarda la plataforma para identificar mi pago?",
-                    "pt": "Quanto tempo a plataforma demora para identificar meu pagamento?"
-                  },
-                  "slug": {
-                    "en": "how-long-does-the-platform-take-to-identify-my-payment",
-                    "es": "cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago",
-                    "pt": "quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37414,21 +37386,6 @@
             },
             {
               "name": {
-                "en": "Extensibility in VTEX Sales App",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "extensibility-in-vtex-sales-app",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37482,6 +37439,21 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "VTEX Sales App Extensibility",
+                "pt": "VTEX Sales App Extensibility"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility-en",
+                "es": "vtex-sales-app-extensibility-es",
+                "pt": "vtex-sales-app-extensibility-pt"
               },
               "origin": "",
               "type": "markdown",
@@ -65868,6 +65840,21 @@
                 "en": "merchants-are-not-receiving-the-fixed-price-report",
                 "es": "los-comerciantes-no-reciben-el-informe-de-precios-fijos",
                 "pt": "os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Missing Checkout usage notifications may lead to inconsistent promotion usage counters",
+                "es": "La falta de notificaciones de uso de Checkout puede provocar que los contadores de uso de las promociones sean inconsistentes.",
+                "pt": "A ausência de notificações de utilização do Checkout pode levar a contadores de utilização de promoções inconsistentes."
+              },
+              "slug": {
+                "en": "missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters",
+                "es": "la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes",
+                "pt": "a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes"
               },
               "origin": "",
               "type": "markdown",
