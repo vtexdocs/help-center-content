@@ -28,11 +28,10 @@ O artigo apresenta a configuração de um banner na homepage, mas o mesmo fluxo 
 
 Para criar ou alterar um banner na homepage de sua loja, siga os passos abaixo:
 
-1. No Admin VTEX, acesse o menu **Storefront > Layout**.
-2. Clique na pasta **CMS**.
-3. Clique na pasta **Sites and Channels**.
-4. Clique no nome do site desejado.
-5. Clique na pasta **/**.
+1. No Admin VTEX, acesse **Storefront > Layout**.
+2. Clique na pasta **CMS > Sites and Channels**.
+3. Clique no nome do site desejado.
+4. Clique na pasta **/**.
 
     ![instrução CMS -pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_1.png)
 
@@ -49,14 +48,16 @@ Para criar ou alterar um banner na homepage de sua loja, siga os passos abaixo:
 10. No formulário que será aberto, preencha os campos com as configurações do banner. Saiba mais sobre cada campo na seção [Campos do formulário de banner](#campos-do-formulario-de-banner).
 11. Clique em `Update Content List` para atualizar o conteúdo do banner. O formulário será fechado e a janela aberta no passo 9 aparecerá.
 12. Clique em `Save Content` para salvar as informações.
-13. Você verá um pop-up com a mensagem `Settings saved successfully`. Clique em `OK` para fechar o pop-up.
+13. Você verá um pop-up com a mensagem **Settings saved successfully**. Clique em `OK` para fechar o pop-up.
 14. Clique em `Save Settings`
 
-    >⚠️ Se você sair da página sem clicar no botão `Save Settings` indicado no último passo, perderá todas as configurações feitas no cadastro do banner.
+    >⚠️ Se você sair da página sem clicar no botão `Save Settings`, conforme indicado no último passo, perderá todas as configurações feitas no cadastro do banner.
 
 ## Campos do formulário de banner
 
-O formulário de banner é dividido em duas seções: [**Campos de conteúdo**](#campos-de-conteúdo-content) e [**Condições de exibição**](#condições-de-exibição-display-condition).
+O formulário de banner é dividido em duas seções:
+- [**Campos de conteúdo**](#campos-de-conteudo-content)
+- [**Condições de exibição**](#condicoes-de-exibicao-display-condition).
 
 ### Campos de conteúdo (Content)
 
@@ -71,7 +72,7 @@ O formulário de banner é dividido em duas seções: [**Campos de conteúdo**](
 
 ### Condições de exibição (Display Condition)
 
-As condições de exibição permitem segmentar quando e onde o banner será exibido:
+As condições de exibição permitem segmentar quando e onde o banner será exibido, conforme apresentado na tabela a seguir:
 
 | Campo | Descrição |
 | --- | --- |
@@ -104,14 +105,14 @@ b. Selecione a imagem do seu computador.
 
 3. Após localizar ou selecionar o arquivo, clique em `Adicionar` para vinculá-lo ao banner.
 4. Clique em `Update Content List` para atualizar o conteúdo do banner. O formulário será fechado e a janela aberta no passo 9 aparecerá.
-5. Clique em `Save Content` para salvar as informações.
-6. Você verá um pop-up com a mensagem `Settings saved successfully`. Clique em `OK` para fechar o pop-up.
+5. Clique em `Save Content` para salvar as informações. Você verá um pop-up com a mensagem `Settings saved successfully`.
+6. Clique em `OK` para fechar o pop-up.
 7. Clique em `Save Settings`
 
-    >⚠️ Se você sair da página sem clicar no botão `Save Settings` indicado no último passo, perderá todas as configurações feitas no cadastro do banner.
+    >⚠️ Se você sair da página sem clicar no botão `Save Settings`, conforme indicado no último passo, perderá todas as configurações feitas no cadastro do banner.
 
 ## Agendar um banner
 
-Para agendar um banner, você precisa configurar os campos **From** e **To** com as datas de início e término, e **marcar obrigatoriamente** a opção `Active Content`. Sem marcar `Active Content`, o banner não será exibido, mesmo que as datas estejam configuradas.
+Para agendar um banner, você precisa configurar os campos **From** e **To** com as datas de início e término de exibição e, obrigatoriamente marcar a opção `Active Content`. Caso a opção `Active Content` não seja marcada, o banner não será exibido, mesmo que as datas estejam configuradas.
 
 >⚠️ O CMS Portal (Legado) utiliza **UTC-0 (GMT)** nos campos **From** e **To**. Por exemplo, se você deseja que o banner seja exibido a partir das 10h no horário de Brasília (UTC-3), configure o campo **From** para as 13h (10h + 3h = 13h, em UTC-0).
