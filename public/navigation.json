@@ -86,6 +86,37 @@
             },
             {
               "name": {
+                "en": "Julho",
+                "es": "Julho",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "julho",
+                "es": "julho",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Delivery Promise disponível em Open Beta",
+                    "en": "Delivery Promise disponível em Open Beta",
+                    "es": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "pt": "2026-07-01-delivery-promise-em-open-beta",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "June",
                 "es": "Junio",
                 "pt": "Junho"
@@ -18753,36 +18784,6 @@
                 },
                 {
                   "name": {
-                    "en": "Names of VTEX branches worldwide",
-                    "es": "Nombres de las sucursales VTEX en el mundo",
-                    "pt": "Nomes das filiais VTEX pelo mundo"
-                  },
-                  "slug": {
-                    "en": "names-of-vtex-branches-worldwide",
-                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
-                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a contract termination in Argentina and Colombia",
-                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
-                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
-                  },
-                  "slug": {
-                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
-                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
-                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Requesting a new environment",
                     "es": "Contratar nuevo entorno",
                     "pt": "Contratar novo ambiente"
@@ -18806,21 +18807,6 @@
                     "en": "how-to-request-your-contract-termination-in-brazil",
                     "es": "como-solicitar-su-rescision-contractual-en-brasil",
                     "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Agreement",
-                    "es": "Contrato VTEX",
-                    "pt": "Contrato VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-agreement",
-                    "es": "contrato-vtex",
-                    "pt": "contrato-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18852,21 +18838,6 @@
                     "en": "how-and-when-do-i-receive-my-invoice",
                     "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
                     "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How do I request a duplicate of my \"boleto\"?",
-                    "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
-                    "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
-                  },
-                  "slug": {
-                    "en": "how-do-i-request-a-duplicate-of-my-boleto",
-                    "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
-                    "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18912,36 +18883,6 @@
                     "en": "payment-was-made-but-not-found-what-should-i-do",
                     "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
                     "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What does VTEX consider as revenues for invoice calculation?",
-                    "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
-                    "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
-                  },
-                  "slug": {
-                    "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
-                    "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
-                    "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the period considered for calculating my billing?",
-                    "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
-                    "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-period-considered-for-calculating-my-billing",
-                    "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
-                    "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20964,6 +20905,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Configuring stores",
+                "es": "Configurar tiendas",
+                "pt": "Configurar lojas"
+              },
+              "slug": {
+                "en": "cms-configuring-stores",
+                "es": "cms-configurar-tiendas",
+                "pt": "cms-configurar-lojas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -26221,21 +26177,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Best practices when creating your Partner environment",
-                    "es": "Mejores prácticas para crear su ambiente Partner",
-                    "pt": "Melhores práticas para criar seu ambiente Partner"
-                  },
-                  "slug": {
-                    "en": "best-practices-when-creating-your-partner-environment",
-                    "es": "mejores-practicas-para-crear-su-ambiente-partner",
-                    "pt": "melhores-praticas-na-hora-de-criar-seu-ambiente-partner"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "How do I change my CNPJ?",
                     "es": "¿Cómo cambiar mi CNPJ?",
                     "pt": "Como fazer a alteração do meu CNPJ?"
@@ -26244,21 +26185,6 @@
                     "en": "how-do-i-change-my-cnpj-new",
                     "es": "como-cambiar-mi-cnpj-nuevo",
                     "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How long does the platform take to identify my payment?",
-                    "es": "¿Cuánto tiempo tarda la plataforma para identificar mi pago?",
-                    "pt": "Quanto tempo a plataforma demora para identificar meu pagamento?"
-                  },
-                  "slug": {
-                    "en": "how-long-does-the-platform-take-to-identify-my-payment",
-                    "es": "cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago",
-                    "pt": "quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento"
                   },
                   "origin": "",
                   "type": "markdown",
