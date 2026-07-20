@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-06-23T00:00:00.000Z
+updatedAt: 2026-07-20T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -32,17 +32,17 @@ There are currently two available versions, and you can choose the one that best
 Check the table below to learn more about how the features of each version differ.
 
 | Functionality | v1 | v2 | Learn more |
-|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Graphical interface                     | Yes                                                                                                                                                                                                                             | No                                                                                                                                            | -                                                                                                                                                                                                                                                                                                                                                                                                   |
-| API                                     | Yes                                                                                                                                                                                                                             | Yes                                                                                                                                           | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview)                                                                                                                                                                                                         |
-| Spreadsheet import and export           | Yes                                                                                                                                                                                                                             | No                                                                                                                                            | - [Importing data to Master Data v1](/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/docs/tutorials/exporting-data)                                                                                                                                                                                                                                  |
-| Attachments (images) | Yes                                                                                                                                                                                                                             | No                                                                                                                                            | -                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Triggers                                | Yes                                                                                                                                                                                                                             | Yes                                                                                                                                           | - [Triggers](#triggers)<br>- [Creating triggers with Master Data v1](/docs/tutorials/creating-trigger-in-master-data)<br>- [Creating triggers with Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)                                                                                                                                                   |
-| JSON Schemas                            | No                                                                                                                                                                                                                              | Yes                                                                                                                                           | - [JSON Schemas](http://json-schema.org/)<br>- [Understanding JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Getting started with JSON schemas in Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Schema lifecycle in Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
-| Nested properties                       | No                                                                                                                                                                                                                              | Yes                                                                                                                                           | - [Nested properties](#nested-properties)                                                                                                                                                                                                                                                                                                                                                           |
-| Data entities                           | Referenced by acronyms composed of two uppercase letters. For example, the entity 'CL' stores customer data, and 'AD' stores their address data. They can't be created via API. | Referenced by name. For example, 'Notification'. They can only be created via API.            | - [Data entities](#data-entities)<br>- [Data entities in Master Data v1](/docs/tutorials/data-entity)<br>- [Creating relationships between Master Data v2 data entities](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api)                                                                                                                            |
-| Fields                                  | They must be completed in the specific format configured in the data entity.                                                                                                                                    | In principle, there are no restrictions on fields or formats. Format validation happens through JSON schemas. | - [Field types in Master Data v1](/docs/tutorials/data-entity#data-types)<br>- [JSON schemas](#v2-schemas)                                                                                                                                                                                                                                                                                          |
-| Indexes                                 | Yes                                                                                                                                                                                                                             | Yes                                                                                                                                           | - [Configure indices in Master Data v1](/docs/tutorials/indexes-in-master-data)<br>- [Configure indices with the Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices)                                                                                                                                              |
+| :--- | :--- | :--- | :--- |
+| Graphical interface | ✅ Yes | ❌ No | - |
+| API | ✅ Yes | ✅ Yes | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
+| Spreadsheet import and export | ✅ Yes | ❌ No | - [Importing data to Master Data v1](/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/docs/tutorials/exporting-data) |
+| Attachments (images) | ✅ Yes | ❌ No | - |
+| Triggers | ✅ Yes | ✅ Yes | - [Triggers](#triggers)<br>- [Creating triggers with Master Data v1](/docs/tutorials/creating-trigger-in-master-data)<br>- [Creating triggers with Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2) |
+| JSON Schemas | ❌ No | ✅ Yes | - [JSON Schemas](http://json-schema.org/)<br>- [Understanding JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Getting started with JSON schemas in Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Schema lifecycle in Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
+| Nested properties | ❌ No | ✅ Yes | - [Nested properties](#nested-properties) |
+| Data entities | Referenced by acronyms composed of two uppercase letters. For example, the entity 'CL' stores customer data, and 'AD' stores their address data. They can't be created via API. | Referenced by name. For example, 'Notification'. They can only be created via API. | - [Data entities](#data-entities)<br>- [Data entities in Master Data v1](/docs/tutorials/data-entity)<br>- [Creating relationships between Master Data v2 data entities](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api) |
+| Fields | They must be completed in the specific format configured in the data entity. | In principle, there are no restrictions on fields or formats. Format validation happens through JSON schemas. | - [Field types in Master Data v1](/docs/tutorials/data-entity#data-types)<br>- [JSON schemas](#v2-schemas) |
+| Indexes | ✅ Yes | ✅ Yes | - [Configure indices in Master Data v1](/docs/tutorials/indexes-in-master-data)<br>- [Configure indices with the Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices) |
 
 > ❗ Note that the data entities of the two versions are independent, even if some may be analogous. This means that data created in a v1 entity can't be queried or edited using v2 resources and vice versa.
 
@@ -61,7 +61,7 @@ Data entities are like tables where documents and fields are recorded.
 
 Master Data v1 data entities are referenced by acronyms composed of two uppercase letters. In v2, you can use the data entity name instead. For example, in v1 the `CL` entity stores customer data, while `AD` stores their address data. Equivalent entities in v2 can be referenced with names such as `Client` and `Address`.
 
-In a data entity, information is structured into [documents](#documentos) and [fields](#campos).
+In a data entity, information is structured into [documents](#documents) and [fields](#fields).
 
 ### Documents
 
@@ -124,7 +124,7 @@ Some data entities are automatically created by VTEX to support native platform 
 ### Master Data v1 native entities
 
 | **Entity** | **Description** |
-|----------|--------|
+| :--- | :--- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -152,7 +152,7 @@ Some data entities are automatically created by VTEX to support native platform 
 ### Master Data v2 native entities
 
 | **Entity** | **Description** |
-|----------|--------|
+| :--- | :--- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |
@@ -286,7 +286,7 @@ You can create custom entities as follows:
 
 The use of native entities is free of charge. The use of custom entities is billed monthly, with tiers based on the total number of documents stored. For billing purposes, each file up to 100KB is counted as one document.
 
-To learn about the amounts applicable to your operation, see your commercial agreement or contact [VTEX support](https://support.vtex.com/).
+To learn about the amounts applicable to your operation, see your commercial agreement or contact [VTEX support](https://help.vtex.com/en/support).
 
 For each payment made during the term of the agreement, a billing credit equivalent to 2% of the net amount paid for VTEX Commerce Platform and CX Commerce Platform products is granted. The credits accumulate throughout the agreement and remain available for use until its termination.
 
