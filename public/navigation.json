@@ -161,6 +161,21 @@
                 },
                 {
                   "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "New Master Data usage dashboard in the VTEX Admin",
+                    "pt": "New Master Data usage dashboard in the VTEX Admin"
+                  },
+                  "slug": {
+                    "en": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contingency Mode: New name for the Mode-off feature",
                     "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
                     "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
