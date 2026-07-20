@@ -1,10 +1,10 @@
 ---
 title: 'Consultar el uso de Master Data en el Admin VTEX'
 createdAt: '2026-06-23T10:00:00.000Z'
-updatedAt: '2026-06-23T10:00:00.000Z'
+updatedAt: '2026-07-20T10:00:00.000Z'
 contentType: tutorial
 productTeam: Master Data
-slugES: check-master-data-usage-in-vtex-admin
+slugES: checking-master-data-usage-in-the-vtex-admin
 locale: es
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
@@ -31,9 +31,9 @@ En la parte superior de la página, las tarjetas de resumen presentan una vista 
 
 En la sección **Entidades** se muestran detalles por entidad. La tabla lista solo entidades personalizadas y tiene dos columnas:
 
-| Columna                  | Descripción                                                       |
-| ------------------------ | ----------------------------------------------------------------- |
-| **Nombre**               | Nombre de la entidad de datos.                    |
+| Columna | Descripción |
+| :--- | :--- |
+| **Nombre** | Nombre de la entidad de datos. |
 | **Número de documentos** | Cantidad de documentos almacenados en la entidad. |
 
 Las entidades se muestran en orden descendente por volumen de documentos (mayor cantidad al principio). Usa la paginación en la esquina superior derecha de la tabla para navegar entre las páginas cuando haya muchas entidades.
