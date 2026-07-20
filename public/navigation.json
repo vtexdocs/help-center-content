@@ -161,6 +161,21 @@
                 },
                 {
                   "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "New Master Data usage dashboard in the VTEX Admin",
+                    "pt": "New Master Data usage dashboard in the VTEX Admin"
+                  },
+                  "slug": {
+                    "en": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contingency Mode: New name for the Mode-off feature",
                     "es": "Contingency Mode: nuevo nombre de la funcionalidad Mode-off",
                     "pt": "Contingency Mode: novo nome da funcionalidade Mode-off"
@@ -184,6 +199,37 @@
                     "en": "2026-06-10-new-events-available-in-audit",
                     "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
                     "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Junio",
+                "es": "Junio",
+                "pt": "Junho"
+              },
+              "slug": {
+                "en": "junio",
+                "es": "2026-junio",
+                "pt": "2026-junho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX",
+                    "en": "Nuevo dashboard Uso de Master Data en el Admin VTEX"
+                  },
+                  "slug": {
+                    "es": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "pt": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25869,6 +25915,36 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Checking Master Data usage in the VTEX Admin",
+                "es": "Checking Master Data usage in the VTEX Admin",
+                "pt": "Checking Master Data usage in the VTEX Admin"
+              },
+              "slug": {
+                "en": "check-master-data-usage-in-vtex-admin",
+                "es": "",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "pt": "Consultar o uso do Master Data no Admin VTEX",
+                "en": "Consultar o uso do Master Data no Admin VTEX",
+                "es": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex",
+                "en": "",
+                "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
