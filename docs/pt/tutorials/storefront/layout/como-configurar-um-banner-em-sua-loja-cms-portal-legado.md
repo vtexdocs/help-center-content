@@ -35,9 +35,7 @@ Para criar ou alterar um banner na homepage de sua loja, siga os passos abaixo:
 
     ![instrução CMS -pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_1.png)
 
-6. Clique no arquivo **Home**.
-7. Clique na aba **Settings**.
-8. Clique no ícone de lápis para editar.
+6. Clique em **Home > Settings**, em seguida, clique no ícone de lápis para editar.
 
     ![cms-home-settings PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_2.png)
 
