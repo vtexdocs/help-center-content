@@ -10,7 +10,7 @@ locale: pt
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-**VTEX Sales App Extensibility** é a funcionalidade que permite personalizar a jornada padrão de vendas no VTEX Sales App por meio da inclusão de recursos alinhados ao modelo de negócio da loja. Com ela, a loja pode integrar experiências personalizadas em pontos específicos da interface sem precisar criar uma solução do zero.
+**VTEX Sales App Extensibility** é a funcionalidade que permite personalizar a jornada padrão de vendas no Sales App por meio da inclusão de recursos alinhados ao modelo de negócio da loja. Com ela, a loja pode integrar experiências personalizadas em pontos específicos da interface sem precisar criar uma solução do zero.
 
 Este artigo apresenta uma visão geral da funcionalidade, casos de uso das extensões e orientações para a implementação.
 
