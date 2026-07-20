@@ -25888,13 +25888,13 @@
             {
               "name": {
                 "en": "Checking Master Data usage in the VTEX Admin",
-                "pt": "Consultar o uso do Master Data no Admin VTEX",
-                "es": "Checking Master Data usage in the VTEX Admin"
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
               },
               "slug": {
                 "en": "checking-master-data-usage-in-the-vtex-admin",
-                "pt": "consultar-o-uso-do-master-data-no-admin-vtex",
-                "es": ""
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
               },
               "origin": "",
               "type": "markdown",
