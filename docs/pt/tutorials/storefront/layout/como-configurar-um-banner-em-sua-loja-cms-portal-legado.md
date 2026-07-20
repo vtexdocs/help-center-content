@@ -93,12 +93,15 @@ Para fazer uma alteração ou cadastro de uma nova imagem, siga os passos abaixo
     **Usar um arquivo existente**
 
     a. Em **Find by name**, digite o nome do arquivo para encontrá-lo.
+    
     b. Se souber o identificador do arquivo, você pode preencher o campo `File Id` para encontrá-lo.
+    
     c. Clique em `Find` para executar a busca.
 
     **Enviar uma nova imagem**
 
     a. Em **Insert a new file**, clique em `Browse for file`.
+    
     b. Selecione a imagem do seu computador.
 
 3. Após localizar ou selecionar o arquivo, clique em `Adicionar` para vinculá-lo ao banner.
