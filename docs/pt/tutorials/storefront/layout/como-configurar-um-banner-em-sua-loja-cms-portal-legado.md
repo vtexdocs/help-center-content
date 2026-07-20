@@ -22,7 +22,7 @@ seeAlso:
 
 Neste artigo, você aprenderá a criar, editar e agendar banners no CMS Portal (Legado). Ao longo do passo a passo, você verá como acessar o layout da página, preencher os campos do banner e definir as condições de exibição.
 
-O exemplo a seguir mostra a configuração de um banner na homepage, mas o mesmo fluxo pode ser aplicado a qualquer página da loja.
+O artigo apresenta a configuração de um banner na homepage, mas o mesmo fluxo pode ser aplicado a qualquer página da loja.
 
 ## Instruções
 
