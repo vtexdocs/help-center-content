@@ -19,7 +19,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Na VTEX, você pode destacar produtos relacionados na vitrine por meio de estratégias de cross-selling e upselling. Essas relações permitem sugerir itens complementares, alternativas de compra ou produtos de maior valor e são exibidas na loja com os controles e templates do CMS Portal (Legado).
 
-Neste tutorial, você aprenderá o que são as relações de cross-selling e upselling, quais tipos de recomendação podem ser configurados e como cadastrá-las em lojas que utilizam o CMS Portal (Legado), tanto no Admin VTEX quanto via API.
+Neste tutorial, você aprenderá sobre as relações de cross-selling e upselling, quais tipos de recomendação podem ser configurados e como realizar o cadastro em lojas que utilizam o CMS Portal (Legado), tanto pelo Admin VTEX quanto via API.
 
 ## O que é cross-selling?
 
