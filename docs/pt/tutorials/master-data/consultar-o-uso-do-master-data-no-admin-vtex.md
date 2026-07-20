@@ -1,10 +1,10 @@
 ---
 title: 'Consultar o uso do Master Data no Admin VTEX'
-createdAt: '2026-06-23T10:00:00.000Z'
-updatedAt: '2026-06-23T10:00:00.000Z'
+createdAt: '2026-07-20T10:00:00.000Z'
+updatedAt: '2026-07-20T10:00:00.000Z'
 contentType: tutorial
 productTeam: Master Data
-slugEN: check-master-data-usage-in-vtex-admin
+slugEN: checking-master-data-usage-in-the-vtex-admin
 locale: pt
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
