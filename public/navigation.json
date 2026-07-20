@@ -40,12 +40,12 @@
                 {
                   "name": {
                     "en": "New Master Data usage dashboard in the VTEX Admin",
-                    "es": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
                     "pt": "New Master Data usage dashboard in the VTEX Admin"
                   },
                   "slug": {
                     "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
-                    "es": "",
+                    "es": "2026-07-20-nuevo-dashboard-uso-de-master-data-en-el-admin-vtex",
                     "pt": ""
                   },
                   "origin": "",
@@ -208,13 +208,13 @@
             },
             {
               "name": {
-                "en": "Junio",
-                "es": "Junio",
+                "en": "Junho",
+                "es": "Junho",
                 "pt": "Junho"
               },
               "slug": {
-                "en": "junio",
-                "es": "2026-junio",
+                "en": "junho",
+                "es": "junho",
                 "pt": "2026-junho"
               },
               "origin": "",
@@ -222,14 +222,14 @@
               "children": [
                 {
                   "name": {
-                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
                     "pt": "Novo dashboard de uso do Master Data no Admin VTEX",
-                    "en": "Nuevo dashboard Uso de Master Data en el Admin VTEX"
+                    "en": "Novo dashboard de uso do Master Data no Admin VTEX",
+                    "es": "Novo dashboard de uso do Master Data no Admin VTEX"
                   },
                   "slug": {
-                    "es": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
                     "pt": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
-                    "en": ""
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
