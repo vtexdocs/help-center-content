@@ -46,7 +46,7 @@ Para criar ou alterar um banner na homepage de sua loja, siga os passos abaixo:
 
     ![cms_home_settings_lapis pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_3.png)
     
-10. No formulário que será aberto, preencha os campos com as configurações do banner. Saiba mais sobre cada campo na seção [Campos do formulário de banner](#campos-do-formulário-de-banner).
+10. No formulário que será aberto, preencha os campos com as configurações do banner. Saiba mais sobre cada campo na seção [Campos do formulário de banner](#campos-do-formulario-de-banner).
 11. Clique em `Update Content List` para atualizar o conteúdo do banner. O formulário será fechado e a janela aberta no passo 9 aparecerá.
 12. Clique em `Save Content` para salvar as informações.
 13. Você verá um pop-up com a mensagem `Settings saved successfully`. Clique em `OK` para fechar o pop-up.
