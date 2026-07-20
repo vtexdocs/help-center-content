@@ -8,7 +8,7 @@ slugEN: 2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin
 locale: en
 announcementSynopsisEN: 'The VTEX Admin now offers the Master Data usage dashboard to query the volume of documents in custom entities, with a breakdown by entity and weekly data updates.'
 tags:
-  - New
+  - New feature
   - Master Data
 ---
 
