@@ -1,7 +1,7 @@
 ---
 title: 'Checking Master Data usage in the VTEX Admin'
 createdAt: '2026-06-23T10:00:00.000Z'
-updatedAt: '2026-06-23T10:00:00.000Z'
+updatedAt: '2026-07-20T10:00:00.000Z'
 contentType: tutorial
 productTeam: Master Data
 slugEN: checking-master-data-usage-in-the-vtex-admin
