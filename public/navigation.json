@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "New Master Data usage dashboard in the VTEX Admin",
+                    "pt": "New Master Data usage dashboard in the VTEX Admin"
+                  },
+                  "slug": {
+                    "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Apple Pay Express Checkout V6: New payment method",
                     "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
                     "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
@@ -154,21 +169,6 @@
                     "en": "2026-06-24-localization-improvements-in-pick-and-pack",
                     "es": "2026-06-24-mejoras-de-localizacion-en-pick-and-pack",
                     "pt": "2026-06-24-melhorias-de-localizacao-no-pick-and-pack"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "New Master Data usage dashboard in the VTEX Admin",
-                    "es": "New Master Data usage dashboard in the VTEX Admin",
-                    "pt": "New Master Data usage dashboard in the VTEX Admin"
-                  },
-                  "slug": {
-                    "en": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
-                    "es": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -63481,6 +63481,21 @@
                 "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
                 "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
                 "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
               },
               "origin": "",
               "type": "markdown",
