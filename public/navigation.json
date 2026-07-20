@@ -20889,6 +20889,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Configuring stores",
+                "es": "Configurar tiendas",
+                "pt": "Configurar lojas"
+              },
+              "slug": {
+                "en": "cms-configuring-stores",
+                "es": "cms-configurar-tiendas",
+                "pt": "cms-configurar-lojas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
