@@ -41,12 +41,12 @@
                   "name": {
                     "en": "New Master Data usage dashboard in the VTEX Admin",
                     "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
-                    "pt": "New Master Data usage dashboard in the VTEX Admin"
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
                   },
                   "slug": {
                     "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
                     "es": "2026-07-20-nuevo-dashboard-uso-de-master-data-en-el-admin-vtex",
-                    "pt": ""
+                    "pt": "2026-07-20-novo-dashboard-de-uso-do-master-data-no-admin-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -199,37 +199,6 @@
                     "en": "2026-06-10-new-events-available-in-audit",
                     "es": "2026-06-10-nuevos-eventos-disponibles-en-audit",
                     "pt": "2026-06-10-novos-eventos-disponiveis-no-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Junho",
-                "es": "Junho",
-                "pt": "Junho"
-              },
-              "slug": {
-                "en": "junho",
-                "es": "junho",
-                "pt": "2026-junho"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX",
-                    "en": "Novo dashboard de uso do Master Data no Admin VTEX",
-                    "es": "Novo dashboard de uso do Master Data no Admin VTEX"
-                  },
-                  "slug": {
-                    "pt": "2026-06-23-novo-dashboard-de-uso-do-master-data-no-admin-vtex",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
