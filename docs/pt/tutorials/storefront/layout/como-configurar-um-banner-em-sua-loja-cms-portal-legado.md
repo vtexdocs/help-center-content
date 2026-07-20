@@ -3,7 +3,7 @@ title: 'Como configurar um banner em sua loja CMS Portal (Legado)'
 id: frequentlyAskedQuestions_1848
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.558Z
-updatedAt: 2026-07-10T10:52:00.000Z
+updatedAt: 2026-07-20T10:52:00.000Z
 publishedAt: 2023-03-29T17:40:06.023Z
 firstPublishedAt: 2019-01-24T22:15:27.116Z
 contentType: tutorial
@@ -35,19 +35,19 @@ Para criar ou alterar um banner na homepage de sua loja, siga os passos abaixo:
 
     ![instrução CMS -pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_1.png)
 
-6. Clique em **Home > Settings**, em seguida, clique no ícone de lápis para editar.
+5. Clique em **Home > Settings**, em seguida, clique no ícone de lápis para editar.
 
     ![cms-home-settings PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_2.png)
 
-9. Na janela que será aberta, clique no ícone de lápis para editar.
+6. Na janela que será aberta, clique no ícone de lápis para editar.
 
     ![cms_home_settings_lapis pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_3.png)
     
-10. No formulário que será aberto, preencha os campos com as configurações do banner. Saiba mais sobre cada campo na seção [Campos do formulário de banner](#campos-do-formulario-de-banner).
-11. Clique em `Update Content List` para atualizar o conteúdo do banner. O formulário será fechado e a janela aberta no passo 9 aparecerá.
-12. Clique em `Save Content` para salvar as informações.
-13. Você verá um pop-up com a mensagem **Settings saved successfully**. Clique em `OK` para fechar o pop-up.
-14. Clique em `Save Settings`
+7. No formulário que será aberto, preencha os campos com as configurações do banner. Saiba mais sobre cada campo na seção [Campos do formulário de banner](#campos-do-formulario-de-banner).
+8. Clique em `Update Content List` para atualizar o conteúdo do banner. O formulário será fechado e a janela aberta no passo 6 aparecerá.
+9. Clique em `Save Content` para salvar as informações. Você verá um pop-up com a mensagem `Settings saved successfully`.
+10. Clique em `OK` para fechar o pop-up.
+11. Clique em `Save Settings`
 
     >⚠️ Se você sair da página sem clicar no botão `Save Settings`, conforme indicado no último passo, perderá todas as configurações feitas no cadastro do banner.
 
@@ -102,7 +102,7 @@ a. Em **Insert a new file**, clique em `Browse for file`.
 b. Selecione a imagem do seu computador.
 
 3. Após localizar ou selecionar o arquivo, clique em `Adicionar` para vinculá-lo ao banner.
-4. Clique em `Update Content List` para atualizar o conteúdo do banner. O formulário será fechado e a janela aberta no passo 9 aparecerá.
+4. Clique em `Update Content List` para atualizar o conteúdo do banner.
 5. Clique em `Save Content` para salvar as informações. Você verá um pop-up com a mensagem `Settings saved successfully`.
 6. Clique em `OK` para fechar o pop-up.
 7. Clique em `Save Settings`
@@ -111,6 +111,6 @@ b. Selecione a imagem do seu computador.
 
 ## Agendar um banner
 
-Para agendar um banner, você precisa configurar os campos **From** e **To** com as datas de início e término de exibição e, obrigatoriamente marcar a opção `Active Content`. Caso a opção `Active Content` não seja marcada, o banner não será exibido, mesmo que as datas estejam configuradas.
+Para agendar um banner, você precisa configurar os campos **From** e **To** com as datas de início e término de exibição e, obrigatoriamente, marcar a opção `Active Content`. Caso a opção `Active Content` não esteja marcada, o banner não será exibido, mesmo que as datas estejam configuradas.
 
 >⚠️ O CMS Portal (Legado) utiliza **UTC-0 (GMT)** nos campos **From** e **To**. Por exemplo, se você deseja que o banner seja exibido a partir das 10h no horário de Brasília (UTC-3), configure o campo **From** para as 13h (10h + 3h = 13h, em UTC-0).
