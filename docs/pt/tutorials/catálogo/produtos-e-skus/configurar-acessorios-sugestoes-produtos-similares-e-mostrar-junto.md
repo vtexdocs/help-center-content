@@ -66,6 +66,6 @@ Saiba mais sobre as configurações de SKUs em [Adicionar ou editar SKU](https:/
 
 ### Via API Reference
 
-Também é possível configurar relações de cross-selling e upselling via API. Essas relações são configuradas em nível de SKU e utilizam a mesma base de dados das recomendações cadastradas no Admin VTEX.
+A configuração de cross-selling e upselling de SKUs via API utiliza a mesma base de dados das recomendações cadastradas no Admin VTEX. 
 
-Para criação e atualização das relações, use a API de complemento de SKU (`/api/catalog/pvt/skucomplement`), que faz parte do conjunto de endpoints das APIs de Catálogo. Para mais detalhes, consulte [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
+Para a criação ou atualização desses complementos, use o endpoint [Create SKU complement](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skucomplement) da **Catalog API**.
