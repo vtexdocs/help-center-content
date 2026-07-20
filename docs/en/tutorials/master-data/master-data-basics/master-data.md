@@ -335,7 +335,7 @@ Measurement and billing follow a monthly cycle:
 
 > ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
 
-> To view billing details, learn how to [download VTEX invoices](/docs/tutorials/how-to-download-the-vtex-invoices).
+> ℹ️ To view billing details, learn how to [download VTEX invoices](/docs/tutorials/how-to-download-the-vtex-invoices).
 
 ### Delete entity vs. delete documents
 
