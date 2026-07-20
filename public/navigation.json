@@ -46068,21 +46068,6 @@
             },
             {
               "name": {
-                "en": "Error in the maximum quantity field of the same SKU in the Cart",
-                "es": "Error en el campo de cantidad máxima del mismo SKU en el carrito.",
-                "pt": "Erro no campo de quantidade máxima do mesmo SKU no carrinho."
-              },
-              "slug": {
-                "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-                "es": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
-                "pt": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Error when changing delivery type when seller has recursion",
                 "es": "Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad",
                 "pt": "Erro ao mudar o tipo de entrega quando o vendedor tem recorrência"
@@ -46324,12 +46309,12 @@
             {
               "name": {
                 "en": "Interacting with the payment component while is still in a loading state sends the wrong payment option",
-                "es": "Si se interactúa con el componente de pago mientras aún se está cargando, se envía una opción de pago incorrecta",
+                "es": "Interactuar con el componente de pago mientras aún se encuentra en estado de carga envía la opción de pago incorrecta.",
                 "pt": "Interagir com o componente de pagamento enquanto ele ainda está em estado de carregamento envia a opção de pagamento incorreta."
               },
               "slug": {
                 "en": "interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option",
-                "es": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
+                "es": "interactuar-con-el-componente-de-pago-mientras-aun-se-encuentra-en-estado-de-carga-envia-la-opcion-de-pago-incorrecta",
                 "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta"
               },
               "origin": "",
@@ -47246,6 +47231,21 @@
                 "en": "pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow",
                 "es": "las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra",
                 "pt": "as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Place Order APIs don't respect the maximum quantity of the same SKU in the cart configuration",
+                "es": "Las API para realizar pedidos no respetan la cantidad máxima del mismo SKU en la configuración del carrito.",
+                "pt": "As APIs de \"Finalizar Pedido\" não respeitam a quantidade máxima do mesmo SKU na configuração do carrinho."
+              },
+              "slug": {
+                "en": "place-order-apis-dont-respect-the-maximum-quantity-of-the-same-sku-in-the-cart-configuration",
+                "es": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
+                "pt": "as-apis-de-finalizar-pedido-nao-respeitam-a-quantidade-maxima-do-mesmo-sku-na-configuracao-do-carrinho"
               },
               "origin": "",
               "type": "markdown",
@@ -54909,6 +54909,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -59871,12 +59886,12 @@
             {
               "name": {
                 "en": "Bin sent does not match an associated Card brand",
-                "es": "La papelera enviada no coincide con una marca de tarjeta asociada",
+                "es": "El BIN enviado no coincide con una marca de tarjeta asociada.",
                 "pt": "O endereço enviado não corresponde a nenhuma bandeira de cartão associada."
               },
               "slug": {
                 "en": "bin-sent-does-not-match-an-associated-card-brand",
-                "es": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
+                "es": "el-bin-enviado-no-coincide-con-una-marca-de-tarjeta-asociada",
                 "pt": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada"
               },
               "origin": "",
@@ -62616,12 +62631,12 @@
             {
               "name": {
                 "en": "The Cielo 3DS2 app is returning an \"approved\" status even in scenarios when the authentication has failed.",
-                "es": "La aplicación Cielo 3DS2 muestra el estado «aprobado» incluso en casos en los que la autenticación ha fallado.",
+                "es": "La aplicación Cielo 3DS2 devuelve un estado de \"aprobado\" incluso en situaciones en las que la autenticación ha fallado.",
                 "pt": "O aplicativo Cielo 3DS2 está retornando o status \"aprovado\" mesmo em cenários nos quais a autenticação falhou."
               },
               "slug": {
                 "en": "the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed",
-                "es": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
+                "es": "la-aplicacion-cielo-3ds2-devuelve-un-estado-de-aprobado-incluso-en-situaciones-en-las-que-la-autenticacion-ha-fallado",
                 "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-nos-quais-a-autenticacao-falhou"
               },
               "origin": "",
@@ -63418,6 +63433,21 @@
                 "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
                 "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
                 "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
               },
               "origin": "",
               "type": "markdown",
@@ -65853,6 +65883,21 @@
                 "en": "merchants-are-not-receiving-the-fixed-price-report",
                 "es": "los-comerciantes-no-reciben-el-informe-de-precios-fijos",
                 "pt": "os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Missing Checkout usage notifications may lead to inconsistent promotion usage counters",
+                "es": "La falta de notificaciones de uso de Checkout puede provocar que los contadores de uso de las promociones sean inconsistentes.",
+                "pt": "A ausência de notificações de utilização do Checkout pode levar a contadores de utilização de promoções inconsistentes."
+              },
+              "slug": {
+                "en": "missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters",
+                "es": "la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes",
+                "pt": "a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes"
               },
               "origin": "",
               "type": "markdown",
