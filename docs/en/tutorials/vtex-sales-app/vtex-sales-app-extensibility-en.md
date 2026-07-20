@@ -1,7 +1,7 @@
 ---
-title: 'Extensibility in VTEX Sales App'
+title: 'VTEX Sales App Extensibility'
 createdAt: 2026-05-18T19:46:33.357Z
-updatedAt: 2026-05-18T19:46:33.357Z
+updatedAt: 2026-07-20T19:46:33.357Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: extensibility-in-vtex-sales-app
@@ -10,11 +10,11 @@ locale: en
 
 > ℹ️ This feature is in beta, which means we're working on improving it. If you have any questions, contact our [Support team](https://help.vtex.com/en/support).
 
-**Extensibility** is a feature that allows you to customize the default sales journey in VTEX Sales App by adding capabilities aligned with the store's business model. Stores can use it to integrate custom experiences at specific points of the interface without building a solution from scratch.
+**VTEX Sales App Extensibility** is a feature that allows you to customize the default sales journey in Sales App by adding capabilities aligned with the store's business model. Stores can use it to integrate custom experiences at specific points of the interface without building a solution from scratch.
 
 This article provides an overview of the feature, extension use cases, and implementation guidance.
 
-> ❗ Merchants and partners are responsible for implementing Sales App Extensibility. To do so, we recommend following our [developer documentation](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
+> ❗ Merchants and partners are responsible for implementing **VTEX Sales App Extensibility**. To do so, we recommend following our [developer documentation](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
 ## How extensibility works
 
@@ -61,7 +61,7 @@ As a native solution, Extensibility avoids unexpected behavior and keeps store o
 
 ## Extension use cases
 
-The following table shows how merchants benefit from Extensibility:
+The following table shows how merchants benefit from **VTEX Sales App Extensibility**:
 
 | Context | Description |
 | :--- | :--- |
