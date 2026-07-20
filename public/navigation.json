@@ -13966,28 +13966,59 @@
             },
             {
               "name": {
-                "en": "Integration with Facebook Business Extension",
-                "es": "Integración con Facebook Business Extension",
-                "pt": "Integração com o Facebook Business Extension"
+                "en": "Integración con Extensión de Meta para empresas",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
               },
               "slug": {
-                "en": "integration-with-facebook-business-extension",
-                "es": "integracion-con-facebook-business-extension",
-                "pt": "integracao-com-o-facebook-business-extension"
+                "en": "integracion-con-extension-de-meta-para-empresas",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "1. Facebook Business Extension",
-                    "es": "1. Facebook Business Extension",
-                    "pt": "1. Facebook Business Extension"
+                    "en": "1. Interface of the configured integration",
+                    "es": "1. Interfaz de la integración configurada",
+                    "pt": "1. Interface da integração configurada"
                   },
                   "slug": {
-                    "en": "facebook-business-extension",
-                    "es": "facebook-business-extension",
-                    "pt": "facebook-business-extension"
+                    "en": "interface-da-integracao-configurada",
+                    "es": "interface-da-integracao-configurada",
+                    "pt": "interface-da-integracao-configurada"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integration with Meta Business Extension",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
+              },
+              "slug": {
+                "en": "integration-with-meta-business-extension",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Meta Business Extension",
+                    "es": "1. Extensión de Meta para empresas",
+                    "pt": "1. Extensão da Meta para Empresas"
+                  },
+                  "slug": {
+                    "en": "meta-business-extension",
+                    "es": "meta-business-extension",
+                    "pt": "meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13995,14 +14026,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension - Overview",
-                    "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
+                    "en": "2. Integration with Meta Business Extension - Overview",
+                    "es": "2. Integración con Extensión de Meta para empresas - Información general",
+                    "pt": "2. Integração com a Extensão da Meta para Empresas - Visão geral"
                   },
                   "slug": {
-                    "en": "integration-with-facebook-business-extension-overview",
-                    "es": "vision-general-de-la-integracion-con-facebook-business-extension",
-                    "pt": "visao-geral-da-integracao-com-o-facebook-business-extension"
+                    "en": "integration-with-meta-business-extension-overview",
+                    "es": "vision-general-de-la-integracion-con-meta-business-extension",
+                    "pt": "visao-geral-da-integracao-com-o-meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14010,14 +14041,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. Installing the Facebook Business Extension e Conversions API app",
-                    "es": "3. Instalar la aplicación Facebook Business Extension e Conversions API",
-                    "pt": "3. Instalar a app Facebook Business Extension e Conversions API"
+                    "en": "3. Installing the Meta Business Extension e Conversions API app",
+                    "es": "3. Instalar la aplicación Extensión de Meta para empresas e Conversions API",
+                    "pt": "3. Instalar a app Extensão da Meta para Empresas e Conversions API"
                   },
                   "slug": {
-                    "en": "installing-the-facebook-business-extension-e-conversions-api-app",
-                    "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
-                    "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
+                    "en": "installing-the-meta-business-extension-e-conversions-api-app",
+                    "es": "instalar-la-aplicacion-meta-business-extension-e-conversions-api",
+                    "pt": "instalar-a-app-meta-business-extension-e-conversions-api"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14033,21 +14064,6 @@
                     "en": "configuring-the-integration-with-fbe-in-the-vtex-admin",
                     "es": "configurar-la-integracion-con-fbe-en-el-admin-vtex",
                     "pt": "configurar-a-integracao-com-o-fbe-no-admin-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Interface of the configured integration",
-                    "es": "5. Interfaz de la integración configurada",
-                    "pt": "5. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
                   },
                   "origin": "",
                   "type": "markdown",

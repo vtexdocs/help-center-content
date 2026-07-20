@@ -11,15 +11,15 @@ productTeam: Channels
 slugEN: configuring-the-integration-with-fbe-in-the-vtex-admin
 locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugEN: integration-with-facebook-business-extension
+trackSlugEN: integration-with-meta-business-extension
 order: 4
 ---
 
-With the _Facebook Business Extension and Conversions API_ app installed, you will see a new field in your VTEX Admin. In the **MARKETPLACE** module, there will be the **Facebook** option. It might be necessary to refresh your VTEX Admin page for the option to be visible.
+With the _Meta Business Extension and Conversions API_ app installed, you will see a new field in your VTEX Admin. In the **Marketplace and Integrations** module, there will be the **Facebook** option. It might be necessary to refresh your VTEX Admin page for the option to be visible.
 
 To start configuring the integration, please follow the steps below:
 
-1. In your VTEX Admin, in the _MARKETPLACE_ module, click on `Facebook`.
+1. In your VTEX Admin, in the _Marketplace and Integrations_ module, click on `Facebook`.
 2. By default, the fields related to **region and currency** and the **URL** of your VTEX store will be filled in. Check the information and, if necessary, make changes.
 3. Unless you have a custom Facebook Pixel implementation, keep the option_ Enable Pixel configuration_ enabled.
 
@@ -39,7 +39,7 @@ To start configuring the integration, please follow the steps below:
 
 ![gif en v1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/integration-with-facebook-business-extension/configuring-the-integration-with-fbe-in-the-vtex-admin_1.gif)
 
-## Sending product information to Facebook Business Extension
+## Sending product information to Meta Business Extension
 
 Once the integration is configured, sending products to Facebook will be an automatic process. The following information will be sent:
 
