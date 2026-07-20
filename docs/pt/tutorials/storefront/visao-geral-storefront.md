@@ -54,4 +54,4 @@ As seguintes páginas estarão em breve na experiência repaginada:
 - [Sinônimos](/pt/docs/tutorials/criar-sinonimos): permite o cadastro de sinônimos – palavras de mesmo sentido – para um termo de busca específico, aumentando a chance de uma busca com sucesso.  
 - [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao): monitora a situação de sincronização de todos os produtos do Catálogo enviados para o Intelligent Search.  
 
-- [Analytics](/pt/docs/tutorials/analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados.  
+- [Analytics](/pt/docs/tutorials/intelligent-search-analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados.  

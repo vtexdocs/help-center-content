@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
 > ⚠️ O [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Pronto para envio](/pt/docs/tutorials/pronto-para-envio)</li><li>[Painel VTEX Shipping Network](/pt/docs/tutorials/painel-vtex-shipping-network)</li><li>Entregas Correios</li></ul>
@@ -25,11 +27,14 @@ Depois de imprimir a etiqueta dos Correios e enviar o pacote, as informações d
 
 Esse artigo apresenta as instruções para:
 
-* [Acessar as informações dos pacotes postados nos Correios](#informacoes-dos-pedidos)
-* [Conferir os detalhes de um pedido](#detalhes-de-um-pedido)
-* [Realizar a busca de pacotes](#busca)
-* [Exportar as informações dos pacotes em uma planilha CSV](#exportacao)
-* [Solicitar informações dos pacotes aos Correios](#solicitar-informacoes-do-pedido-aos-correios)
+- [Informações dos Pedidos](#informações-dos-pedidos)
+  - [Detalhes de um pedido](#detalhes-de-um-pedido)
+  - [Busca](#busca)
+  - [Exportação](#exportação)
+- [Solicitar Informações do Pedido aos Correios](#solicitar-informações-do-pedido-aos-correios)
+- [Conexão com agências dos Correios](#conexão-com-agências-dos-correios)
+- [Serviço de Logística Reversa dos Correios](#serviço-de-logística-reversa-dos-correios)
+- [Saiba mais](#saiba-mais)
 
 Além disso, ao final do artigo você vai encontrar informações sobre:
 
@@ -192,7 +197,7 @@ Caso você ainda não tenha uma operação com uma agência, acesse a [busca dos
 
 Ao contratar o **VTEX Shipping Network Correios**, você pode utilizar o serviço [Logística Reversa dos Correios](https://www.correios.com.br/enviar/encomendas/logistica-reversa). A VTEX disponibiliza um login e uma senha para você utilizar no site dos Correios e gerar a autorização de postagem.
 
-> ℹ️ Para solicitar login e senha para utilizar o serviço de **Logística Reversa dos Correios**, entre em contato com a VTEX pelo email *vtexlog@vtex.com.br*.
+> ℹ️ Para solicitar login e senha para utilizar o serviço de **Logística Reversa dos Correios**, entre em contato com a VTEX pelo email *suporte.shipping@lojaintegrada.com.br*.
 
 ## Saiba mais
 

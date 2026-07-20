@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
 > ⚠️ O [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Painel VTEX Shipping Network](/pt/docs/tutorials/painel-vtex-shipping-network)</li><li>[Entregas Correios](/pt/docs/tutorials/entregas-correios-vtex-shipping-network)</li><li>Pronto para envio</li></ul>
@@ -84,7 +86,7 @@ As transportadoras são notificadas quando é feito o download das etiquetas.
 
 ![etiquetas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/pronto-para-envio_1.png)
 
-> ❗ Em caso de erros ou dúvidas, entre em contato diretamente com o suporte do **VTEX Shipping Network** através do email vtexlog@vtex.com.br.
+> ❗ Em caso de erros ou dúvidas, entre em contato diretamente com o suporte do **VTEX Shipping Network** através do email *suporte.shipping@lojaintegrada.com.br*.
 
 ### Alterar o tipo do tamanho das etiquetas
 

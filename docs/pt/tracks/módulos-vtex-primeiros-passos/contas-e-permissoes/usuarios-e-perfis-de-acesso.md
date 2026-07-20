@@ -24,7 +24,7 @@ Um **usuário administrativo** é qualquer pessoa cadastrada com acesso ao Admin
 
 **Onde gerenciar:** _Configurações da conta > Usuários_
 
-> ℹ️ Saiba mais em [Gerenciar usuários administrativos](/pt/docs/tutorials/gerenciar-usuarios-administrativos).
+> ℹ️ Saiba mais em [Gerenciar usuários administrativos](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos).
 
 ## Perfis de acesso
 
@@ -34,14 +34,14 @@ O License Manager verifica se o usuário possui os recursos necessários para re
 
 **Onde gerenciar:** _Configurações da conta > Perfis de acesso_
 
-> ℹ️ Saiba mais em [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
+> ℹ️ Saiba mais em [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso).
 
 ### Tipos de perfis
 
 | Tipo | Descrição | Exemplos | Documentação |
 |------|-----------|----------|--------------|
-| **Predefinidos** | Perfis prontos oferecidos pela VTEX que cobrem os casos de uso mais comuns. | Owner (Admin Super), Call Center Operator, Finance, Logistics | [Perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso-predefinidos) |
-| **Personalizados** | Perfis customizados criados selecionando apenas os recursos necessários para cada grupo de usuários. | Perfil para equipe de Catálogo, perfil para operadores de marketplace | [Criar perfil de acesso](/pt/docs/tutorials/criar-perfil-de-acesso) |
+| **Predefinidos** | Perfis prontos oferecidos pela VTEX que cobrem os casos de uso mais comuns. | Owner (Admin Super), Call Center Operator, Finance, Logistics | [Perfis de acesso predefinidos](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos) |
+| **Personalizados** | Perfis customizados criados selecionando apenas os recursos necessários para cada grupo de usuários. | Perfil para equipe de Catálogo, perfil para operadores de marketplace | [Criar perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso) |
 
 ## Usuário Titular
 
@@ -53,7 +53,7 @@ Toda conta VTEX tem um **usuário Titular** único, que é o principal responsá
 
 > ⚠️ Usuário Titular ≠ perfil Owner (Admin Super). O Titular é único por conta, enquanto Owner é um perfil que pode ser atribuído a múltiplos usuários.
 
-> ℹ️ Saiba mais em [O que é o usuário Titular](/pt/docs/tutorials/o-que-e-o-usuario-titular).
+> ℹ️ Saiba mais em [O que é o usuário Titular](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-usuario-titular).
 
 ## Princípio do menor privilégio
 
@@ -68,15 +68,15 @@ Sempre aplique o **menor privilégio necessário**: cada usuário deve ter apena
 - Exija 2FA para todos os usuários administrativos
 - Considere usar login corporativo (SSO)
 
-> ℹ️ Saiba mais em [Boas práticas de gestão de acessos para lojas](/pt/docs/tutorials/boas-praticas-de-gestao-de-acessos-para-lojas).
+> ℹ️ Saiba mais em [Boas práticas de gestão de acessos para lojas](https://help.vtex.com/pt/docs/tutorials/boas-praticas-de-gestao-de-acessos-para-lojas).
 
 ## Saiba mais
 
-- [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) - Guia completo sobre controle de acesso
-- [Boas práticas de gestão de acessos para lojas](/pt/docs/tutorials/boas-praticas-de-gestao-de-acessos-para-lojas)
-- [Gerenciar usuários administrativos](/pt/docs/tutorials/gerenciar-usuarios-administrativos)
-- [Criar perfil de acesso](/pt/docs/tutorials/criar-perfil-de-acesso)
-- [Perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso-predefinidos)
-- [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)
-- [O que é o usuário Titular](/pt/docs/tutorials/o-que-e-o-usuario-titular)
-- [Transferência de propriedade da loja](/pt/docs/tutorials/transferencia-de-propriedade-da-loja)
+- [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) - Guia completo sobre controle de acesso
+- [Boas práticas de gestão de acessos para lojas](https://help.vtex.com/pt/docs/tutorials/boas-praticas-de-gestao-de-acessos-para-lojas)
+- [Gerenciar usuários administrativos](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos)
+- [Criar perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso)
+- [Perfis de acesso predefinidos](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos)
+- [Recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager)
+- [O que é o usuário Titular](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-usuario-titular)
+- [Transferência de propriedade da loja](https://help.vtex.com/pt/docs/tutorials/transferencia-de-propriedade-da-loja)
