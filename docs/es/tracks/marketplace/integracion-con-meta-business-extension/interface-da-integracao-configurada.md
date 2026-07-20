@@ -15,7 +15,7 @@ trackSlugEN: integracion-con-meta-business-extension
 order: 5
 ---
 
-Una vez completada la integración con la aplicación _Extensión de Meta para empresas y Conversions API_, al acceder a **Admin VTEX > módulo MARKETPLACE > Facebook**, verás la centralización de comandos para configurar y gestionar los nuevos activos de Facebook.
+Una vez completada la integración con la aplicación _Extensión de Meta para empresas y Conversions API_, al acceder a **Admin VTEX > módulo Marketplace e Integraciones > Facebook**, verás la centralización de comandos para configurar y gestionar los nuevos activos de Facebook.
 
 En esta interfaz, hay tres secciones principales: [Status](#status), [Funcionalidades](#funcionalidades) y [Catálogo](#catalogo).
 
@@ -29,7 +29,7 @@ En esta sección puedes ver el status de tu conexión con Facebook, el ID del P�
 
 En cualquier momento puedes eliminar la integración de la aplicación _Extensión de Meta para empresas y Conversions API_. Esto se realiza en dos etapas, una en el Admin VTEX y la otra en el _toolbelt_ de VTEX IO.
 
-La desinstalación en el Admin VTEX detiene la sincronización del catálogo y revoca tu acceso de usuario al sistema creado para la integración. Esto significa que la integración se desconfigurará, pero se puede rehacer en cualquier momento. Para ello, ve a **Admin VTEX > módulo MARKETPLACE > Facebook** y haz clic en el botón **Desinstalar**. En la nueva pantalla, haz clic en **Desinstalar**.
+La desinstalación en el Admin VTEX detiene la sincronización del catálogo y revoca tu acceso de usuario al sistema creado para la integración. Esto significa que la integración se desconfigurará, pero se puede rehacer en cualquier momento. Para ello, ve a **Admin VTEX > módulo Marketplace e Integraciones > Facebook** y haz clic en el botón **Desinstalar**. En la nueva pantalla, haz clic en **Desinstalar**.
 
 ## Funcionalidades
 
@@ -39,5 +39,5 @@ En esta sección, puedes habilitar las funcionalidades de Facebook que no han si
 
 En esta sección hay dos botones que realizan las siguientes funciones:
 
-- **Detalles de la integración:** redirige al usuario a la página de integración de los productos enviados a FBE. Esta página también se puede encontrar en _Admin VTEX > módulo MARKETPLACE > Integraciones > Productos_.
+- **Detalles de la integración:** redirige al usuario a la página de integración de los productos enviados a FBE. Esta página también se puede encontrar en _Admin VTEX > módulo Marketplace e Integraciones > Integraciones > Productos_.
 - **Configuración de la integración:** redirige al usuario a una pantalla con campos rellenados relativos a la integración. En esta pantalla, puedes modificar la información utilizada en la integración con FBE.

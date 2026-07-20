@@ -15,11 +15,11 @@ trackSlugEN: integracao-com-o-meta-business-extension
 order: 4
 ---
 
-Com a app _Extensão da Meta para Empresas e Conversions API_ instalada, será possível identificar um novo campo no seu Admin VTEX. No módulo **MARKETPLACE**, haverá a opção **Facebook**. Pode ser necessário atualizar a página do seu Admin VTEX para a opção ficar visível.
+Com a app _Extensão da Meta para Empresas e Conversions API_ instalada, será possível identificar um novo campo no seu Admin VTEX. No módulo **Marketplace e Integrações**, haverá a opção **Facebook**. Pode ser necessário atualizar a página do seu Admin VTEX para a opção ficar visível.
 
 Para dar início à configuração da integração, realize os seguintes passos:
 
-1. No seu Admin VTEX, no módulo _MARKETPLACE_, clique em `Facebook`.
+1. No seu Admin VTEX, no módulo _Marketplace e Integrações_, clique em `Facebook`.
 2. Por padrão, os campos sobre **região e moeda**, e **URL** da sua loja VTEX estarão preenchidos. Confira as informações e, se necessário, faça alterações.
 3. A menos que você possua uma implementação customizada do Facebook Pixel, mantenha ativada a opção _Habilitar integração de Pixel_.
 
