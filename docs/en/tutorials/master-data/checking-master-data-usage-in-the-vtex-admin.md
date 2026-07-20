@@ -31,9 +31,9 @@ At the top of the page, the summary cards provide an usage overview:
 
 In the **Entities** section, you'll find the breakdown by entity. The table lists only custom entities and displays two columns:
 
-| Column                  | Description                                               |
-| ----------------------- | --------------------------------------------------------- |
-| **Name**                | Data entity name.                         |
+| Column | Description |
+| :--- | :--- |
+| **Name** | Data entity name. |
 | **Number of documents** | Number of documents stored in the entity. |
 
 Entities are displayed in descending order of document volume, with the highest counts at the top of the list. Use the pagination in the upper-right corner of the table to navigate between pages when there are many entities.
