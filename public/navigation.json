@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
+                    "es": "2026-07-20-nuevo-dashboard-uso-de-master-data-en-el-admin-vtex",
+                    "pt": "2026-07-20-novo-dashboard-de-uso-do-master-data-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Apple Pay Express Checkout V6: New payment method",
                     "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
                     "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
@@ -25869,6 +25884,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Checking Master Data usage in the VTEX Admin",
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "en": "checking-master-data-usage-in-the-vtex-admin",
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
