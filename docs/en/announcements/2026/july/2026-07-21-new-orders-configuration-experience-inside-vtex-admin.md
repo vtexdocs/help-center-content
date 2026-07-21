@@ -8,7 +8,7 @@ contentType: updates
 productTeam: Orders
 slugEN: 2026-07-21-new-orders-configuration-experience-inside-vtex-admin
 locale: en
-announcementSynopsisEN: 'The checkout and orders configuration page is now an independent and faster experience iside VTEX Admin.'
+announcementSynopsisEN: 'The checkout and orders configuration page is now an independent and faster experience inside VTEX Admin.'
 tags:
   - Improvement
   - Orders
