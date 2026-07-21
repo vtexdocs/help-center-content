@@ -115,6 +115,21 @@
               "children": [
                 {
                   "name": {
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "pt": "Delivery Promise disponível em Open Beta",
                     "en": "Delivery Promise disponível em Open Beta",
                     "es": "Delivery Promise disponível em Open Beta"
