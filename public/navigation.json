@@ -18665,12 +18665,12 @@
               "name": {
                 "en": "Contracts",
                 "es": "Contratos",
-                "pt": "Contratos"
+                "pt": "Contracts"
               },
               "slug": {
                 "en": "contracts-subcategory",
                 "es": "contratos-subcategoria",
-                "pt": "contratos-subcategoria"
+                "pt": "contracts"
               },
               "origin": "",
               "type": "category",
@@ -26105,12 +26105,12 @@
           "name": {
             "en": "Operational",
             "es": "Operativo",
-            "pt": "Operacional"
+            "pt": "Faturas"
           },
           "slug": {
             "en": "operational-category",
             "es": "operativo-categoria",
-            "pt": "operacional-categoria"
+            "pt": "faturas-categoria"
           },
           "origin": "",
           "type": "category",
@@ -26119,12 +26119,12 @@
               "name": {
                 "en": "Financial",
                 "es": "Financiero",
-                "pt": "Financeiro"
+                "pt": "Financial"
               },
               "slug": {
                 "en": "financial-subcategory",
                 "es": "financiero-subcategoria",
-                "pt": "financeiro-subcategoria"
+                "pt": "financial"
               },
               "origin": "",
               "type": "category",
@@ -63359,6 +63359,21 @@
                 "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
                 "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
                 "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
               },
               "origin": "",
               "type": "markdown",
