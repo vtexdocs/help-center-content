@@ -1,6 +1,6 @@
 ---
 title: 'Nova experiência de configuração de pedidos no Admin da VTEX'
-slug: '2026-07-21-new-orders-configuration-experience'
+slug: '2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex'
 hidden: false
 createdAt: 2026-07-21T13:00:00.000Z
 updatedAt: 2026-07-21T13:00:00.000Z
