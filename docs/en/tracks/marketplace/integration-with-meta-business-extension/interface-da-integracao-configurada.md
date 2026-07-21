@@ -11,15 +11,15 @@ productTeam: Channels
 slugEN: interface-da-integracao-configurada
 locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugEN: integration-with-facebook-business-extension
+trackSlugEN: integration-with-meta-business-extension
 order: 5
 ---
 
-Once the integration with the _Meta Business Extension and Conversions API_ app is complete, in **VTEX Admin > Marketplace > Facebook** you will have access to the commands to configure and manage new Facebook assets.
+Once the integration with the _Meta Business Extension and Conversions API_ app is complete, in **VTEX Admin > Marketplace and Integrations > Facebook** you will have access to the commands to configure and manage new Facebook assets.
 
 In this interface, there are three main sections: [Status](#status), [Features](#features), and [Catalog](#catalog).
 
-![Meta Business Extension](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/integration-with-facebook-business-extension/interface-da-integracao-configurada_1.png)
+![Meta Business Extension](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/integration-with-meta-business-extension/interface-da-integracao-configurada_1.png)
 
 ## Status
 

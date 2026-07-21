@@ -1,24 +1,24 @@
 ---
-title: 'Extensibilidade no VTEX Sales App'
+title: 'VTEX Sales App Extensibility'
 createdAt: 2026-05-18T19:46:33.357Z
-updatedAt: 2026-06-16T19:46:33.357Z
+updatedAt: 2026-07-20T19:46:33.357Z
 contentType: tutorial
 productTeam: Shopping
-slugEN: extensibility-in-vtex-sales-app
+slugEN: vtex-sales-app-extensibility-en
 locale: pt
 ---
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
-A **Extensibilidade** é a funcionalidade que permite personalizar a jornada padrão de vendas no VTEX Sales App por meio da inclusão de recursos alinhados ao modelo de negócio da loja. Com ela, a loja pode integrar experiências personalizadas em pontos específicos da interface sem precisar criar uma solução do zero.
+**VTEX Sales App Extensibility** é a funcionalidade que permite personalizar a jornada padrão de vendas no Sales App por meio da inclusão de recursos alinhados ao modelo de negócio da loja. Com ela, a loja pode integrar experiências personalizadas em pontos específicos da interface sem precisar criar uma solução do zero.
 
 Este artigo apresenta uma visão geral da funcionalidade, casos de uso das extensões e orientações para a implementação.
 
-> ❗ A implementação da Extensibilidade do Sales App é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
+> ❗ A implementação do **VTEX Sales App Extensibility** é responsabilidade dos lojistas e parceiros. Para isso, recomendamos seguir nossa [documentação para desenvolvedores](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation).
 
 ## Funcionamento da Extensibilidade
 
-A Extensibilidade é uma solução nativa para as lojas integrarem-se a APIs externas e interagirem com dados de outras aplicações, com segurança e estabilidade. A funcionalidade usa pontos de extensão predefinidos, nos quais você pode renderizar componentes e adicionar recursos sem alterar o fluxo principal do Sales App.
+A extensibilidade é uma solução nativa para as lojas integrarem-se a APIs externas e interagirem com dados de outras aplicações, com segurança e estabilidade. A funcionalidade usa pontos de extensão predefinidos, nos quais você pode renderizar componentes e adicionar recursos sem alterar o fluxo principal do Sales App.
 
 Existem oito pontos de extensão no Sales App:
 
@@ -61,7 +61,7 @@ Sendo uma solução nativa, a Extensibilidade evita comportamentos inesperados e
 
 ## Casos de uso de extensões
 
-A tabela a seguir apresenta exemplos nos quais o lojista se beneficia da Extensibilidade:
+A tabela a seguir apresenta exemplos nos quais o lojista se beneficia do **VTEX Sales App Extensibility**:
 
 | Contexto | Descrição |
 | :--- | :--- |
@@ -97,6 +97,6 @@ O terceiro passo é validar a viabilidade técnica do projeto. Para isso, o dese
 
 ## Implementar o projeto
 
-Por fim, o desenvolvedor implementa as extensões, conforme descrito na [documentação técnica de Extensibilidade](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation). Recomendamos validar a implementação com testes locais antes de disponibilizar as extensões para os clientes da loja.
+Por fim, o desenvolvedor implementa as extensões, conforme descrito na [documentação técnica de extensibilidade](https://developers.vtex.com/docs/guides/sales-app-extensions-implementation). Recomendamos validar a implementação com testes locais antes de disponibilizar as extensões para os clientes da loja.
 
 > ℹ️ A **Extensions Skill** pode auxiliar na etapa de implementação do projeto. Saiba mais em [VTEX Sales App Extensions Skill](https://developers.vtex.com/docs/guides/vtex-sales-app-extensions-skill).
