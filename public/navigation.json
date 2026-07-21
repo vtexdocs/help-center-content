@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New orders configuration experience inside VTEX Admin",
+                    "es": "Nueva experiencia de configuración de pedidos dentro del Admin VTEX",
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-21-new-orders-configuration-experience-inside-vtex-admin",
+                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-dentro-del-admin-vtex",
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Master Data usage dashboard in the VTEX Admin",
                     "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
                     "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
@@ -113,21 +128,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
-                    "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
-                    "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
-                  },
-                  "slug": {
-                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "pt": "Delivery Promise disponível em Open Beta",
