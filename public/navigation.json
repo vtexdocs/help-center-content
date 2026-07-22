@@ -39,6 +39,51 @@
               "children": [
                 {
                   "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
+                    "es": "2026-07-20-nuevo-dashboard-uso-de-master-data-en-el-admin-vtex",
+                    "pt": "2026-07-20-novo-dashboard-de-uso-do-master-data-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Partial mode: New flow in post-purchase payment operations",
+                    "es": "Modo parcial: nuevo flujo de trabajo en las operaciones de pago poscompra",
+                    "pt": "Modo Parcial: novo fluxo em operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations",
+                    "es": "2026-07-14-modo-parcial-nuevo-flujo-de-trabajo-en-las-operaciones-de-pago-poscompra",
+                    "pt": "2026-07-14-modo-parcial-novo-fluxo-em-operacoes-de-pagamentos-pos-compra"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
@@ -47,6 +92,52 @@
                     "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
                     "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
                     "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Julho",
+                "es": "Julho",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "julho",
+                "es": "julho",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "pt": "Delivery Promise disponível em Open Beta",
+                    "en": "Delivery Promise disponível em Open Beta",
+                    "es": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "pt": "2026-07-01-delivery-promise-em-open-beta",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13905,28 +13996,59 @@
             },
             {
               "name": {
-                "en": "Integration with Facebook Business Extension",
-                "es": "Integración con Facebook Business Extension",
-                "pt": "Integração com o Facebook Business Extension"
+                "en": "Integración con Extensión de Meta para empresas",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
               },
               "slug": {
-                "en": "integration-with-facebook-business-extension",
-                "es": "integracion-con-facebook-business-extension",
-                "pt": "integracao-com-o-facebook-business-extension"
+                "en": "integracion-con-extension-de-meta-para-empresas",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "1. Facebook Business Extension",
-                    "es": "1. Facebook Business Extension",
-                    "pt": "1. Facebook Business Extension"
+                    "en": "1. Interface of the configured integration",
+                    "es": "1. Interfaz de la integración configurada",
+                    "pt": "1. Interface da integração configurada"
                   },
                   "slug": {
-                    "en": "facebook-business-extension",
-                    "es": "facebook-business-extension",
-                    "pt": "facebook-business-extension"
+                    "en": "interface-da-integracao-configurada",
+                    "es": "interface-da-integracao-configurada",
+                    "pt": "interface-da-integracao-configurada"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integration with Meta Business Extension",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
+              },
+              "slug": {
+                "en": "integration-with-meta-business-extension",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Meta Business Extension",
+                    "es": "1. Extensión de Meta para empresas",
+                    "pt": "1. Extensão da Meta para Empresas"
+                  },
+                  "slug": {
+                    "en": "meta-business-extension",
+                    "es": "meta-business-extension",
+                    "pt": "meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13934,14 +14056,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension - Overview",
-                    "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
+                    "en": "2. Integration with Meta Business Extension - Overview",
+                    "es": "2. Integración con Extensión de Meta para empresas - Información general",
+                    "pt": "2. Integração com a Extensão da Meta para Empresas - Visão geral"
                   },
                   "slug": {
-                    "en": "integration-with-facebook-business-extension-overview",
-                    "es": "vision-general-de-la-integracion-con-facebook-business-extension",
-                    "pt": "visao-geral-da-integracao-com-o-facebook-business-extension"
+                    "en": "integration-with-meta-business-extension-overview",
+                    "es": "vision-general-de-la-integracion-con-meta-business-extension",
+                    "pt": "visao-geral-da-integracao-com-o-meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13949,14 +14071,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. Installing the Facebook Business Extension e Conversions API app",
-                    "es": "3. Instalar la aplicación Facebook Business Extension e Conversions API",
-                    "pt": "3. Instalar a app Facebook Business Extension e Conversions API"
+                    "en": "3. Installing the Meta Business Extension e Conversions API app",
+                    "es": "3. Instalar la aplicación Extensión de Meta para empresas e Conversions API",
+                    "pt": "3. Instalar a app Extensão da Meta para Empresas e Conversions API"
                   },
                   "slug": {
-                    "en": "installing-the-facebook-business-extension-e-conversions-api-app",
-                    "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
-                    "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
+                    "en": "installing-the-meta-business-extension-e-conversions-api-app",
+                    "es": "instalar-la-aplicacion-meta-business-extension-e-conversions-api",
+                    "pt": "instalar-a-app-meta-business-extension-e-conversions-api"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13972,21 +14094,6 @@
                     "en": "configuring-the-integration-with-fbe-in-the-vtex-admin",
                     "es": "configurar-la-integracion-con-fbe-en-el-admin-vtex",
                     "pt": "configurar-a-integracao-com-o-fbe-no-admin-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Interface of the configured integration",
-                    "es": "5. Interfaz de la integración configurada",
-                    "pt": "5. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16258,21 +16365,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Creating a financial role",
-                    "es": "Crear un rol financiero",
-                    "pt": "Criar um perfil de acesso financeiro"
-                  },
-                  "slug": {
-                    "en": "creating-a-financial-access-profile",
-                    "es": "crear-un-rol-financiero",
-                    "pt": "criar-um-perfil-de-acesso-financeiro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating roles",
@@ -18647,111 +18739,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Accounts Payable - Brazil",
-                    "es": "Cuentas a Pagar - Brasil",
-                    "pt": "Contas a Pagar - Brasil"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-brazil",
-                    "es": "cuentas-a-pagar-brasil",
-                    "pt": "contas-a-pagar-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Accounts Payable - International",
-                    "es": "Cuentas por pagar - Internacional",
-                    "pt": "Contas a pagar - Internacional"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-international",
-                    "es": "cuentas-por-pagar-internacional",
-                    "pt": "contas-a-pagar-internacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Consumption tags used in the billing module",
-                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
-                    "pt": "Marcações de pedidos pelo módulo de cobranças"
-                  },
-                  "slug": {
-                    "en": "consumption-tags-used-in-the-billing-module",
-                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
-                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to request a platform SLA verification?",
-                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
-                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
-                  },
-                  "slug": {
-                    "en": "how-to-request-sla-verification",
-                    "es": "como-solicitar-la-verificacion-de-sla",
-                    "pt": "como-solicitar-a-apuracao-de-sla"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Names of VTEX branches worldwide",
-                    "es": "Nombres de las sucursales VTEX en el mundo",
-                    "pt": "Nomes das filiais VTEX pelo mundo"
-                  },
-                  "slug": {
-                    "en": "names-of-vtex-branches-worldwide",
-                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
-                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a contract termination in Argentina and Colombia",
-                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
-                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
-                  },
-                  "slug": {
-                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
-                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
-                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a new environment",
-                    "es": "Contratar nuevo entorno",
-                    "pt": "Contratar novo ambiente"
-                  },
-                  "slug": {
-                    "en": "requesting-a-new-environment",
-                    "es": "contratar-nuevo-entorno",
-                    "pt": "contratar-novo-ambiente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Requesting contract termination in Brazil",
                     "es": "Solicitar rescisión contractual en Brasil",
                     "pt": "Solicitar rescisão contratual no Brasil"
@@ -18760,21 +18747,6 @@
                     "en": "how-to-request-your-contract-termination-in-brazil",
                     "es": "como-solicitar-su-rescision-contractual-en-brasil",
                     "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Agreement",
-                    "es": "Contrato VTEX",
-                    "pt": "Contrato VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-agreement",
-                    "es": "contrato-vtex",
-                    "pt": "contrato-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18798,6 +18770,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Consumption tags used in the billing module",
+                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
+                    "pt": "Marcações de pedidos pelo módulo de cobranças"
+                  },
+                  "slug": {
+                    "en": "consumption-tags-used-in-the-billing-module",
+                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
+                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18813,21 +18800,6 @@
                 },
                 {
                   "name": {
-                    "en": "How do I request a duplicate of my \"boleto\"?",
-                    "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
-                    "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
-                  },
-                  "slug": {
-                    "en": "how-do-i-request-a-duplicate-of-my-boleto",
-                    "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
-                    "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "How to download the VTEX invoices",
                     "es": "Cómo descargar las facturas de VTEX",
                     "pt": "Como fazer download das faturas da VTEX"
@@ -18836,6 +18808,21 @@
                     "en": "how-to-download-the-vtex-invoices",
                     "es": "como-descargar-las-facturas-de-vtex",
                     "pt": "como-fazer-download-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to request a platform SLA verification?",
+                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
+                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
+                  },
+                  "slug": {
+                    "en": "how-to-request-sla-verification",
+                    "es": "como-solicitar-la-verificacion-de-sla",
+                    "pt": "como-solicitar-a-apuracao-de-sla"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18870,17 +18857,33 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Registration information",
+                "es": "Datos de registro",
+                "pt": "Dados cadastrais"
+              },
+              "slug": {
+                "en": "registration-information",
+                "es": "datos-de-registro",
+                "pt": "dados-cadastrais"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "en": "What does VTEX consider as revenues for invoice calculation?",
-                    "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
-                    "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
+                    "en": "Changing my store’s registration details",
+                    "es": "Modificar los datos de registro de mi tienda",
+                    "pt": "Alterar os dados cadastrais da minha loja"
                   },
                   "slug": {
-                    "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
-                    "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
-                    "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
+                    "en": "changing-the-stores-registration-details",
+                    "es": "modificar-los-datos-de-registro-de-la-tienda",
+                    "pt": "alterar-os-dados-cadastrais-da-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18888,14 +18891,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the period considered for calculating my billing?",
-                    "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
-                    "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
+                    "en": "How do I change my CNPJ?",
+                    "es": "¿Cómo cambiar mi CNPJ?",
+                    "pt": "Como fazer a alteração do meu CNPJ?"
                   },
                   "slug": {
-                    "en": "what-is-the-period-considered-for-calculating-my-billing",
-                    "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
-                    "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
+                    "en": "how-do-i-change-my-cnpj-new",
+                    "es": "como-cambiar-mi-cnpj-nuevo",
+                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18912,22 +18915,7 @@
               "slug": {
                 "en": "billing-module-overview",
                 "es": "vision-general-facturacion",
-                "pt": "visao-geral-faturas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Changing my store’s registration details",
-                "es": "Modificar los datos de registro de mi tienda",
-                "pt": "Alterar os dados cadastrais da minha loja"
-              },
-              "slug": {
-                "en": "changing-the-stores-registration-details",
-                "es": "modificar-los-datos-de-registro-de-la-tienda",
-                "pt": "alterar-os-dados-cadastrais-da-loja"
+                "pt": "visao-geral-informacoes-de-faturamento"
               },
               "origin": "",
               "type": "markdown",
@@ -20825,6 +20813,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Version history",
+                    "es": "Historial de versiones",
+                    "pt": "Histórico de versões"
+                  },
+                  "slug": {
+                    "en": "cms-version-history",
+                    "es": "historial-de-versiones",
+                    "pt": "historico-de-versoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -20906,6 +20909,7 @@
             },
             {
               "name": {
+<<<<<<< HEAD
                 "en": "Roles and permissions",
                 "es": "Roles and permissions",
                 "pt": "Roles and permissions"
@@ -20914,6 +20918,16 @@
                 "en": "roles-and-permissions",
                 "es": "",
                 "pt": ""
+=======
+                "en": "Configuring stores",
+                "es": "Configurar tiendas",
+                "pt": "Configurar lojas"
+              },
+              "slug": {
+                "en": "cms-configuring-stores",
+                "es": "cms-configurar-tiendas",
+                "pt": "cms-configurar-lojas"
+>>>>>>> a02dec3696c8bbf3c14e9b2ad9f2e6946a165733
               },
               "origin": "",
               "type": "markdown",
@@ -25870,6 +25884,21 @@
             },
             {
               "name": {
+                "en": "Checking Master Data usage in the VTEX Admin",
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "en": "checking-master-data-usage-in-the-vtex-admin",
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "How to structure Master Data entities to store B2B sales data",
                 "es": "Cómo estructurar entidades del Master Data para guardar datos de ventas B2B",
                 "pt": "Como estruturar entidades do Master Data para armazenar dados de venda B2B"
@@ -26175,14 +26204,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Best practices when creating your Partner environment",
-                    "es": "Mejores prácticas para crear su ambiente Partner",
-                    "pt": "Melhores práticas para criar seu ambiente Partner"
+                    "en": "Creating a financial role",
+                    "es": "Crear un rol financiero",
+                    "pt": "Criar um perfil de acesso financeiro"
                   },
                   "slug": {
-                    "en": "best-practices-when-creating-your-partner-environment",
-                    "es": "mejores-practicas-para-crear-su-ambiente-partner",
-                    "pt": "melhores-praticas-na-hora-de-criar-seu-ambiente-partner"
+                    "en": "creating-a-financial-access-profile",
+                    "es": "crear-un-rol-financiero",
+                    "pt": "criar-um-perfil-de-acesso-financeiro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26190,29 +26219,14 @@
                 },
                 {
                   "name": {
-                    "en": "How do I change my CNPJ?",
-                    "es": "¿Cómo cambiar mi CNPJ?",
-                    "pt": "Como fazer a alteração do meu CNPJ?"
+                    "en": "Requesting a new environment",
+                    "es": "Contratar nuevo entorno",
+                    "pt": "Contratar novo ambiente"
                   },
                   "slug": {
-                    "en": "how-do-i-change-my-cnpj-new",
-                    "es": "como-cambiar-mi-cnpj-nuevo",
-                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How long does the platform take to identify my payment?",
-                    "es": "¿Cuánto tiempo tarda la plataforma para identificar mi pago?",
-                    "pt": "Quanto tempo a plataforma demora para identificar meu pagamento?"
-                  },
-                  "slug": {
-                    "en": "how-long-does-the-platform-take-to-identify-my-payment",
-                    "es": "cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago",
-                    "pt": "quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento"
+                    "en": "requesting-a-new-environment",
+                    "es": "contratar-nuevo-entorno",
+                    "pt": "contratar-novo-ambiente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27469,6 +27483,37 @@
                     "en": "bank-reconciliations",
                     "es": "conciliaciones-bancarias",
                     "pt": "conciliacoes-bancarias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Configurações de Pagamentos",
+                "es": "Configurações de Pagamentos",
+                "pt": "Configurações de Pagamentos"
+              },
+              "slug": {
+                "en": "configuracoes-de-pagamentos",
+                "es": "configuracoes-de-pagamentos",
+                "pt": "configurações-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Configurar pagamento com Paguelofacil",
+                    "en": "Configurar pagamento com Paguelofacil",
+                    "es": "Configurar pagamento com Paguelofacil"
+                  },
+                  "slug": {
+                    "pt": "configurar-pagamento-com-paguelofacil",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29502,6 +29547,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Kaiowa",
+                    "es": "Configurar pago con Kaiowa",
+                    "pt": "Configurar pagamento com Kaiowa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kaiowa",
+                    "es": "configurar-pago-con-kaiowa",
+                    "pt": "configurar-pagamento-com-kaiowa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Khipu",
                     "es": "Configurar pago con Khipu",
                     "pt": "Configurar pagamento com Khipu"
@@ -29585,6 +29645,21 @@
                     "en": "setting-up-payments-with-kueski-pay",
                     "es": "configurar-pago-con-kueski-pay",
                     "pt": "configurar-pagamento-com-kueski-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with KueskiV2",
+                    "es": "Configurar pago con KueskiV2",
+                    "pt": "Configurar pagamento com KueskiV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kueskiv2",
+                    "es": "configurar-pago-con-kueskiv2",
+                    "pt": "configurar-pagamento-com-kueskiv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29765,6 +29840,21 @@
                     "en": "setting-up-payments-with-msc-payment",
                     "es": "configurar-pago-con-msc-payment",
                     "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Multipago",
+                    "es": "Configurar pago con Multipago",
+                    "pt": "Configurar pagamento com Multipago"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-multipago",
+                    "es": "configurar-pago-con-multipago",
+                    "pt": "configurar-pagamento-com-multipago"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30027,6 +30117,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Pagoplux",
+                    "es": "Configurar pago con Pagoplux",
+                    "pt": "Configurar pagamento com Pagoplux"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagoplux",
+                    "es": "configurar-pago-con-pagoplux",
+                    "pt": "configurar-pagamento-com-pagoplux"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with PagoWebPE",
+                    "es": "Configurar pago con PagoWebPE",
+                    "pt": "Configurar pagamento com PagoWebPE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagowebpe",
+                    "es": "configurar-pago-con-pagowebpe",
+                    "pt": "configurar-pagamento-com-pagowebpe"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Parcelex",
                     "es": "Configurar pago con Parcelex",
                     "pt": "Configurar pagamento com Parcelex"
@@ -30185,6 +30305,21 @@
                     "en": "setting-up-payments-with-payuv2",
                     "es": "configurar-pago-con-payuv2",
                     "pt": "configurar-pagamento-com-payuv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Payválida",
+                    "es": "Configurar pago con Payválida",
+                    "pt": "Configurar pagamento com Payválida"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-payvalida",
+                    "es": "configurar-pago-con-payvalida",
+                    "pt": "configurar-pagamento-com-payvalida"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36188,7 +36323,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create landing pages with customized URLs",
+                    "en": "How to create landing pages with custom URLs",
                     "es": "Cómo crear landing pages con URLs personalizadas",
                     "pt": "Como criar landing pages com URLs customizadas"
                   },
@@ -37293,21 +37428,6 @@
             },
             {
               "name": {
-                "en": "Extensibility in VTEX Sales App",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "extensibility-in-vtex-sales-app",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37361,6 +37481,21 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "VTEX Sales App Extensibility",
+                "pt": "VTEX Sales App Extensibility"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility-en",
+                "es": "vtex-sales-app-extensibility-es",
+                "pt": "vtex-sales-app-extensibility-pt"
               },
               "origin": "",
               "type": "markdown",
@@ -38845,12 +38980,12 @@
                 {
                   "name": {
                     "en": "CX Platform Settings: Workspace",
-                    "es": "Configuraciones CX Platform: Espacio de trabajo",
+                    "es": "Configuración de CX Platform: Espacio de trabajo",
                     "pt": "Configurações CX Platform: Espaço de trabalho"
                   },
                   "slug": {
                     "en": "cx-platform-settings-workspace",
-                    "es": "configuraciones-cx-platform-espacio-de-trabajo",
+                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
                     "pt": "configuracoes-cx-platform-espaco-de-trabalho"
                   },
                   "origin": "",
@@ -38859,8 +38994,8 @@
                 },
                 {
                   "name": {
-                    "en": "Manage VTEX CX Platform Members",
-                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "en": "Managing VTEX CX Platform members",
+                    "es": "Gestionar miembros de VTEX CX Platform",
                     "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
@@ -38976,6 +39111,52 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Suppliers",
+            "es": "Proveedores",
+            "pt": "Fornecedores"
+          },
+          "slug": {
+            "en": "suppliers",
+            "es": "proveedores",
+            "pt": "fornecedores"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Accounts Payable - Brazil",
+                "es": "Cuentas a Pagar - Brasil",
+                "pt": "Contas a Pagar - Brasil"
+              },
+              "slug": {
+                "en": "accounts-payable-brazil",
+                "es": "cuentas-a-pagar-brasil",
+                "pt": "contas-a-pagar-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Accounts Payable - International",
+                "es": "Cuentas por pagar - Internacional",
+                "pt": "Contas a pagar - Internacional"
+              },
+              "slug": {
+                "en": "accounts-payable-international",
+                "es": "cuentas-por-pagar-internacional",
+                "pt": "contas-a-pagar-internacional"
               },
               "origin": "",
               "type": "markdown",
@@ -45947,21 +46128,6 @@
             },
             {
               "name": {
-                "en": "Error in the maximum quantity field of the same SKU in the Cart",
-                "es": "Error en el campo de cantidad máxima del mismo SKU en el carrito.",
-                "pt": "Erro no campo de quantidade máxima do mesmo SKU no carrinho."
-              },
-              "slug": {
-                "en": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-                "es": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
-                "pt": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Error when changing delivery type when seller has recursion",
                 "es": "Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad",
                 "pt": "Erro ao mudar o tipo de entrega quando o vendedor tem recorrência"
@@ -46203,13 +46369,13 @@
             {
               "name": {
                 "en": "Interacting with the payment component while is still in a loading state sends the wrong payment option",
-                "es": "Si se interactúa con el componente de pago mientras aún se está cargando, se envía una opción de pago incorrecta",
-                "pt": "Interagir com o componente de pagamento enquanto ele ainda está carregando faz com que seja enviada a opção de pagamento errada"
+                "es": "Interactuar con el componente de pago mientras aún se encuentra en estado de carga envía la opción de pago incorrecta.",
+                "pt": "Interagir com o componente de pagamento enquanto ele ainda está em estado de carregamento envia a opção de pagamento incorreta."
               },
               "slug": {
                 "en": "interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option",
-                "es": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
-                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-carregando-faz-com-que-seja-enviada-a-opcao-de-pagamento-errada"
+                "es": "interactuar-con-el-componente-de-pago-mientras-aun-se-encuentra-en-estado-de-carga-envia-la-opcion-de-pago-incorrecta",
+                "pt": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta"
               },
               "origin": "",
               "type": "markdown",
@@ -47125,6 +47291,21 @@
                 "en": "pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow",
                 "es": "las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra",
                 "pt": "as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Place Order APIs don't respect the maximum quantity of the same SKU in the cart configuration",
+                "es": "Las API para realizar pedidos no respetan la cantidad máxima del mismo SKU en la configuración del carrito.",
+                "pt": "As APIs de \"Finalizar Pedido\" não respeitam a quantidade máxima do mesmo SKU na configuração do carrinho."
+              },
+              "slug": {
+                "en": "place-order-apis-dont-respect-the-maximum-quantity-of-the-same-sku-in-the-cart-configuration",
+                "es": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
+                "pt": "as-apis-de-finalizar-pedido-nao-respeitam-a-quantidade-maxima-do-mesmo-sku-na-configuracao-do-carrinho"
               },
               "origin": "",
               "type": "markdown",
@@ -52854,6 +53035,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search Facets hides selected parent facet in multiselect drill-down",
+                "es": "La función de búsqueda inteligente oculta la faceta principal seleccionada en la exploración en profundidad de selección múltiple.",
+                "pt": "A pesquisa inteligente de facetas oculta a faceta principal selecionada na seleção múltipla com detalhamento."
+              },
+              "slug": {
+                "en": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
+                "es": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
+                "pt": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search language settings not in sync with store configurations",
                 "es": "La configuración de idioma de la búsqueda inteligente no está sincronizada con la configuración de la tienda",
                 "pt": "As configurações de idioma da Pesquisa Inteligente não estão sincronizadas com as configurações da loja"
@@ -54769,6 +54965,21 @@
                 "en": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
                 "es": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
                 "pt": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -59735,13 +59946,13 @@
             {
               "name": {
                 "en": "Bin sent does not match an associated Card brand",
-                "es": "La papelera enviada no coincide con una marca de tarjeta asociada",
-                "pt": "Lixeira enviada não corresponde a uma marca de cartão associada"
+                "es": "El BIN enviado no coincide con una marca de tarjeta asociada.",
+                "pt": "O endereço enviado não corresponde a nenhuma bandeira de cartão associada."
               },
               "slug": {
                 "en": "bin-sent-does-not-match-an-associated-card-brand",
-                "es": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
-                "pt": "lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada"
+                "es": "el-bin-enviado-no-coincide-con-una-marca-de-tarjeta-asociada",
+                "pt": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada"
               },
               "origin": "",
               "type": "markdown",
@@ -62480,13 +62691,13 @@
             {
               "name": {
                 "en": "The Cielo 3DS2 app is returning an \"approved\" status even in scenarios when the authentication has failed.",
-                "es": "La aplicación Cielo 3DS2 muestra el estado «aprobado» incluso en casos en los que la autenticación ha fallado.",
-                "pt": "O aplicativo Cielo 3DS2 está retornando o status “aprovado” mesmo em casos em que a autenticação falhou."
+                "es": "La aplicación Cielo 3DS2 devuelve un estado de \"aprobado\" incluso en situaciones en las que la autenticación ha fallado.",
+                "pt": "O aplicativo Cielo 3DS2 está retornando o status \"aprovado\" mesmo em cenários nos quais a autenticação falhou."
               },
               "slug": {
                 "en": "the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed",
-                "es": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
-                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-casos-em-que-a-autenticacao-falhou"
+                "es": "la-aplicacion-cielo-3ds2-devuelve-un-estado-de-aprobado-incluso-en-situaciones-en-las-que-la-autenticacion-ha-fallado",
+                "pt": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-nos-quais-a-autenticacao-falhou"
               },
               "origin": "",
               "type": "markdown",
@@ -63282,6 +63493,21 @@
                 "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
                 "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
                 "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
               },
               "origin": "",
               "type": "markdown",
@@ -65717,6 +65943,21 @@
                 "en": "merchants-are-not-receiving-the-fixed-price-report",
                 "es": "los-comerciantes-no-reciben-el-informe-de-precios-fijos",
                 "pt": "os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Missing Checkout usage notifications may lead to inconsistent promotion usage counters",
+                "es": "La falta de notificaciones de uso de Checkout puede provocar que los contadores de uso de las promociones sean inconsistentes.",
+                "pt": "A ausência de notificações de utilização do Checkout pode levar a contadores de utilização de promoções inconsistentes."
+              },
+              "slug": {
+                "en": "missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters",
+                "es": "la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes",
+                "pt": "a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes"
               },
               "origin": "",
               "type": "markdown",
