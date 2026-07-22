@@ -128,7 +128,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     </tr>
     <tr>
       <td>*Starter* (template inicial)</td>
-        <td>O [Store Theme](https://github.com/vtex-apps/store-theme) é o template inicial no qual o time pode usar de base para iniciar o projeto da loja ou iniciar do zero.</td>
+        <td>O [Store Theme](https://github.com/vtex-apps/store-theme) é o template inicial que o time pode usar como base para iniciar o projeto da loja ou iniciar do zero.</td>
         <td>O [Starter FastStore](https://starter.vtex.app/) já é disponibilizado ao finalizar o [Onboarding da FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Isso permite que o time comece o projeto com um template base focado em performance.</td>
     </tr>
     <tr>
