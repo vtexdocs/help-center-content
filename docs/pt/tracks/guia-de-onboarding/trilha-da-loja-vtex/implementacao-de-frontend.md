@@ -248,7 +248,7 @@ São apresentados a seguir os requisitos para cada tema:
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Product Details Page (PDP)
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
-- Minicart configuration
+- Configuração do minicart
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Checkout
   - Integrar com o [VTEX Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout)
