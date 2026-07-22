@@ -25,13 +25,15 @@ A exibição de promoções aparece em diferentes áreas dentro de Pedidos:
 - **Modal Todos os itens**, a lista completa de itens acessada na barra lateral de detalhes do pedido.
 - **Fluxo de criação de nota fiscal**, em que cada item exibe um detalhamento de promoções.
 
+A exibição reconhece os seguintes tipos de promoção: Regular, Desconto progressivo, Compre junto, Mais por menos, Compre e ganhe e Campanha.
+
 Você verá os seguintes elementos:
 
-- **Selo de promoções:** um selo verde ao lado da linha do produto indicando que uma ou mais promoções foram aplicadas. Quando há várias promoções, o selo exibe a quantidade. Itens de brinde (de promoções do tipo Compre e ganhe) exibem um selo **Brinde**.
-- **Popover de promoções:** ao passar o cursor sobre o selo, abre-se um detalhamento com duas seções: *Promoções aplicadas ao item* (descontos no nível do item) e *Promoções aplicadas ao carrinho* (descontos de frete e outros descontos no nível do carrinho). Cada linha mostra o tipo de promoção, o nome e o valor do desconto, além de um **Desconto total** quando há mais de uma promoção aplicada.
+- **Selo de promoções:** um selo verde ao lado da linha do produto indicando que uma ou mais promoções foram aplicadas. Quando há várias promoções, o selo exibe a quantidade. Itens de brinde (de promoções do tipo Compre e ganhe) exibem um selo Brinde.
+- **Popover de promoções:** ao passar o cursor sobre o selo, abre-se um detalhamento com duas seções. Cada linha mostra o tipo de promoção, o nome e o valor do desconto, além de um Desconto total quando há mais de uma promoção aplicada. As duas seções são as seguintes:
+  - **Promoções aplicadas ao item**: descontos no nível do item.
+  - **Promoções aplicadas ao carrinho**: descontos de frete e outros descontos no nível do carrinho.
 - **Preço riscado:** o preço de tabela original aparece riscado ao lado do preço efetivo (com desconto).
-
-A exibição reconhece os seguintes tipos de promoção: Regular, Desconto progressivo, Compre junto, Mais por menos, Compre e ganhe e Campanha.
 
 > ℹ️ O Admin de Pedidos exibe o resultado das promoções que já foram aplicadas durante o checkout. Ele não cria nem gerencia promoções. Para configurar promoções, use o módulo [Promoções](https://help.vtex.com/pt/docs/tutorials/how-promotions-work--tutorials_2298).
 
@@ -45,4 +47,4 @@ As principais vantagens da visibilidade completa de como os descontos afetam um 
 
 ## O que precisa ser feito?
 
-Esse recurso está disponível em beta aberto. Para testá-lo, abra um chamado com o [Suporte VTEX](https://help.vtex.com/pt/docs/tutorials/opening-tickets-to-vtex-support) solicitando acesso.
+Esse recurso já está disponível em beta aberto. Para testá-lo, abra um chamado com o [Suporte VTEX](https://help.vtex.com/pt/docs/tutorials/opening-tickets-to-vtex-support) solicitando acesso.
