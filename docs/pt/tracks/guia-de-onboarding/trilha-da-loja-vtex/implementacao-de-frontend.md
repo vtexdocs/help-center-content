@@ -213,7 +213,7 @@ Antes de lançar a loja em produção e do [go-live](/pt/docs/tracks/planejament
 
 ### Desenvolvendo com a FastStore
 
-O time de desenvolvimento deve iniciar um novo projeto com a FastStore através do processo de [Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Ao final desse processo, o time estará com uma loja básica e funcional baseada no [Starter da FastStore](https://starter.vtex.app/). Feito isso, os requisitos básicos da página já estarão implementados, são eles:
+O time de desenvolvimento deve iniciar um novo projeto com a FastStore através do processo de [Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Ao final desse processo, o time estará com uma loja básica e funcional baseada no [Starter da FastStore](https://starter.vtex.app/). Feito isso, os requisitos básicos da página já estarão implementados. São eles:
 
 - Home
 - *Product Listing Page* (PLP)
