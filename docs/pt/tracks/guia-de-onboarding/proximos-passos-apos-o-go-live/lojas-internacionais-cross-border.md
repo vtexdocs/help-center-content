@@ -12,7 +12,7 @@ slugEN: cross-border-stores
 locale: pt
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-passos-apos-o-go-live
-order: 5
+order: 3
 seeAlso:
     - "/pt/docs/tutorials/escolher-entre-arquitetura-multiloja-ou-ambiente-adicional"
 ---

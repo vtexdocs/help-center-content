@@ -12,7 +12,7 @@ slugEN: other-vtex-module-settings
 locale: pt
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-passos-apos-o-go-live
-order: 3
+order: 4
 ---
 
 Na **Trilha geral da loja VTEX**, os artigos [Módulos VTEX I](/pt/docs/tracks/modulos-da-vtex-i) e [Módulos VTEX II](/pt/docs/tracks/modulos-da-vtex-ii) abordam as principais configurações de cada assunto. O artigo atual apresenta outras configurações de módulos que não são obrigatórias para o [go-live](/pt/docs/tracks/planejamento-do-go-live).

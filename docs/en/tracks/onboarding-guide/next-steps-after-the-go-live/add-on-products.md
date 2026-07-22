@@ -12,7 +12,7 @@ slugEN: add-on-products
 locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live
-order: 4
+order: 5
 ---
 
 Add-on products are solutions offered by VTEX to meet the specific business needs. They can be purchased separately through a subscription agreement.

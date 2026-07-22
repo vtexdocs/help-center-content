@@ -12,7 +12,7 @@ slugEN: cross-border-stores
 locale: es
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-pasos-tras-el-go-live
-order: 5
+order: 3
 ---
 
 Una tienda transfronteriza es un tipo de [multitienda](/es/docs/tutorials/gestionar-multitienda). En VTEX, esto significa una cuenta con varios [bindings](/es/docs/tutorials/que-es-binding) y distintos canales de venta para cada una de sus tiendas locales.
