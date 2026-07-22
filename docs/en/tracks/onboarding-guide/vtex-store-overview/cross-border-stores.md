@@ -7,12 +7,12 @@ updatedAt: 2022-05-25T19:17:08.283Z
 publishedAt: 2022-05-25T19:17:08.283Z
 firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
-productTeam: VTEX IO
+productTeam: Others
 slugEN: cross-border-stores
 locale: en
-trackId: 2YcpgIljVaLVQYMzxQbc3z
-trackSlugEN: cms
-order: 4
+trackId: eSDNk26pdvemF3XKM0nK9
+trackSlugEN: vtex-store-overview
+order: 9
 ---
 
 A cross-border store is a type of [multistore](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), which at VTEX means an account with multiple [bindings](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) and different sales channels for each one of its local stores.

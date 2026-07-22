@@ -7,12 +7,12 @@ updatedAt: 2022-05-25T19:17:08.283Z
 publishedAt: 2022-05-25T19:17:08.283Z
 firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
-productTeam: VTEX IO
+productTeam: Others
 slugEN: cross-border-stores
 locale: es
-trackId: 2YcpgIljVaLVQYMzxQbc3z
-trackSlugEN: cms
-order: 4
+trackId: eSDNk26pdvemF3XKM0nK9
+trackSlugEN: serie-de-la-tienda-vtex
+order: 9
 ---
 
 Una tienda transfronteriza es un tipo de [multitienda](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759). En VTEX, esto significa una cuenta con varios [bindings](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) y distintos canales de venta para cada una de sus tiendas locales.

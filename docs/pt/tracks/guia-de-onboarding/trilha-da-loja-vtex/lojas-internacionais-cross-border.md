@@ -7,12 +7,12 @@ updatedAt: 2022-05-25T19:17:08.283Z
 publishedAt: 2022-05-25T19:17:08.283Z
 firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
-productTeam: VTEX IO
+productTeam: Others
 slugEN: cross-border-stores
 locale: pt
-trackId: 2YcpgIljVaLVQYMzxQbc3z
-trackSlugEN: cms
-order: 4
+trackId: eSDNk26pdvemF3XKM0nK9
+trackSlugEN: trilha-da-loja-vtex
+order: 9
 ---
 
 Uma loja internacional (*cross-border*) é um tipo de [multiloja](/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), o que na VTEX significa uma conta com múltiplos [bindings](/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) (ou vínculos, em português) e diferentes canais de venda para cada uma das suas lojas locais.

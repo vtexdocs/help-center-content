@@ -104,7 +104,7 @@ A tabela a seguir apresenta algumas das principais funcionalidades do Store Fram
 | [Testes A/B nativos](https://developers.vtex.com/docs/guides/ab-tests) | Permite testar e validar qual a versão da loja com as maiores taxas de conversão. |
 | Integração com [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) | Funcionalidade de preenchimento automático na barra de pesquisa, juntamente com sugestões de pesquisa e produtos com base em suas preferências. |
 | [Progressive Web App (PWA)](/pt/docs/tutorials/habilitando-notificacoes-pwa-da-loja) | Permite experiências nativas semelhantes a aplicativos em qualquer dispositivo com tecnologia pronta para PWA. |
-| [Cross-border](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs?&utm_source) | Permite que uma loja [multiloja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) VTEX opere em diferentes países com uma abordagem própria para cada um deles. |
+| [Cross-border](/pt/docs/tracks/lojas-internacionais-cross-border) | Permite que uma loja [multiloja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) VTEX opere em diferentes países com uma abordagem própria para cada um deles. |
 | Integração com Checkout, [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta) e Login | Integração com outras etapas da jornada de compra do cliente. |
 
 ## Escolhendo a tecnologia de frontend
