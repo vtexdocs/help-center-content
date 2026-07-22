@@ -3,7 +3,7 @@ title: 'Faturas - Visão geral'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2025-09-04T20:02:13.442Z
+updatedAt: 2026-07-17T19:09:59.877Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -20,9 +20,9 @@ order: 1
 
 Para acessar essa página, clique no seu **avatar**, que pode ser identificado pela inicial do seu email, e clique no botão **Faturas**. Selecione a aba que você deseja visitar, como **Contratos, Títulos, Dados de registro e Contatos de faturamento**.
 
-> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3#) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
+> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/docs/tutorials/recursos-do-license-manager#) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
 
-![Admin v4 Faturas menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/visao-geral-faturas_1.jpg)
+![Admin v4 Faturas menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/informacoes-de-faturamento/visao-geral-informacoes-de-faturamento.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso.
 

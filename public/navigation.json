@@ -16367,21 +16367,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating a financial role",
-                    "es": "Crear un rol financiero",
-                    "pt": "Criar um perfil de acesso financeiro"
-                  },
-                  "slug": {
-                    "en": "creating-a-financial-access-profile",
-                    "es": "crear-un-rol-financiero",
-                    "pt": "criar-um-perfil-de-acesso-financeiro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Creating roles",
                     "es": "Crear nuevo rol",
                     "pt": "Criar perfil de acesso"
@@ -18754,81 +18739,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Accounts Payable - Brazil",
-                    "es": "Cuentas a Pagar - Brasil",
-                    "pt": "Contas a Pagar - Brasil"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-brazil",
-                    "es": "cuentas-a-pagar-brasil",
-                    "pt": "contas-a-pagar-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Accounts Payable - International",
-                    "es": "Cuentas por pagar - Internacional",
-                    "pt": "Contas a pagar - Internacional"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-international",
-                    "es": "cuentas-por-pagar-internacional",
-                    "pt": "contas-a-pagar-internacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Consumption tags used in the billing module",
-                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
-                    "pt": "Marcações de pedidos pelo módulo de cobranças"
-                  },
-                  "slug": {
-                    "en": "consumption-tags-used-in-the-billing-module",
-                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
-                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to request a platform SLA verification?",
-                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
-                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
-                  },
-                  "slug": {
-                    "en": "how-to-request-sla-verification",
-                    "es": "como-solicitar-la-verificacion-de-sla",
-                    "pt": "como-solicitar-a-apuracao-de-sla"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a new environment",
-                    "es": "Contratar nuevo entorno",
-                    "pt": "Contratar novo ambiente"
-                  },
-                  "slug": {
-                    "en": "requesting-a-new-environment",
-                    "es": "contratar-nuevo-entorno",
-                    "pt": "contratar-novo-ambiente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Requesting contract termination in Brazil",
                     "es": "Solicitar rescisión contractual en Brasil",
                     "pt": "Solicitar rescisão contratual no Brasil"
@@ -18860,6 +18770,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Consumption tags used in the billing module",
+                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
+                    "pt": "Marcações de pedidos pelo módulo de cobranças"
+                  },
+                  "slug": {
+                    "en": "consumption-tags-used-in-the-billing-module",
+                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
+                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18883,6 +18808,21 @@
                     "en": "how-to-download-the-vtex-invoices",
                     "es": "como-descargar-las-facturas-de-vtex",
                     "pt": "como-fazer-download-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to request a platform SLA verification?",
+                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
+                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
+                  },
+                  "slug": {
+                    "en": "how-to-request-sla-verification",
+                    "es": "como-solicitar-la-verificacion-de-sla",
+                    "pt": "como-solicitar-a-apuracao-de-sla"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18922,6 +18862,52 @@
             },
             {
               "name": {
+                "en": "Registration information",
+                "es": "Datos de registro",
+                "pt": "Dados cadastrais"
+              },
+              "slug": {
+                "en": "registration-information",
+                "es": "datos-de-registro",
+                "pt": "dados-cadastrais"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Changing my store’s registration details",
+                    "es": "Modificar los datos de registro de mi tienda",
+                    "pt": "Alterar os dados cadastrais da minha loja"
+                  },
+                  "slug": {
+                    "en": "changing-the-stores-registration-details",
+                    "es": "modificar-los-datos-de-registro-de-la-tienda",
+                    "pt": "alterar-os-dados-cadastrais-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How do I change my CNPJ?",
+                    "es": "¿Cómo cambiar mi CNPJ?",
+                    "pt": "Como fazer a alteração do meu CNPJ?"
+                  },
+                  "slug": {
+                    "en": "how-do-i-change-my-cnpj-new",
+                    "es": "como-cambiar-mi-cnpj-nuevo",
+                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Billing - Overview",
                 "es": "Facturación - Información general",
                 "pt": "Faturas - Visão geral"
@@ -18929,22 +18915,7 @@
               "slug": {
                 "en": "billing-module-overview",
                 "es": "vision-general-facturacion",
-                "pt": "visao-geral-faturas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Changing my store’s registration details",
-                "es": "Modificar los datos de registro de mi tienda",
-                "pt": "Alterar os dados cadastrais da minha loja"
-              },
-              "slug": {
-                "en": "changing-the-stores-registration-details",
-                "es": "modificar-los-datos-de-registro-de-la-tienda",
-                "pt": "alterar-os-dados-cadastrais-da-loja"
+                "pt": "visao-geral-informacoes-de-faturamento"
               },
               "origin": "",
               "type": "markdown",
@@ -26222,14 +26193,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "How do I change my CNPJ?",
-                    "es": "¿Cómo cambiar mi CNPJ?",
-                    "pt": "Como fazer a alteração do meu CNPJ?"
+                    "en": "Creating a financial role",
+                    "es": "Crear un rol financiero",
+                    "pt": "Criar um perfil de acesso financeiro"
                   },
                   "slug": {
-                    "en": "how-do-i-change-my-cnpj-new",
-                    "es": "como-cambiar-mi-cnpj-nuevo",
-                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
+                    "en": "creating-a-financial-access-profile",
+                    "es": "crear-un-rol-financiero",
+                    "pt": "criar-um-perfil-de-acesso-financeiro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Requesting a new environment",
+                    "es": "Contratar nuevo entorno",
+                    "pt": "Contratar novo ambiente"
+                  },
+                  "slug": {
+                    "en": "requesting-a-new-environment",
+                    "es": "contratar-nuevo-entorno",
+                    "pt": "contratar-novo-ambiente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39114,6 +39100,52 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Suppliers",
+            "es": "Proveedores",
+            "pt": "Fornecedores"
+          },
+          "slug": {
+            "en": "suppliers",
+            "es": "proveedores",
+            "pt": "fornecedores"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Accounts Payable - Brazil",
+                "es": "Cuentas a Pagar - Brasil",
+                "pt": "Contas a Pagar - Brasil"
+              },
+              "slug": {
+                "en": "accounts-payable-brazil",
+                "es": "cuentas-a-pagar-brasil",
+                "pt": "contas-a-pagar-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Accounts Payable - International",
+                "es": "Cuentas por pagar - Internacional",
+                "pt": "Contas a pagar - Internacional"
+              },
+              "slug": {
+                "en": "accounts-payable-international",
+                "es": "cuentas-por-pagar-internacional",
+                "pt": "contas-a-pagar-internacional"
               },
               "origin": "",
               "type": "markdown",
