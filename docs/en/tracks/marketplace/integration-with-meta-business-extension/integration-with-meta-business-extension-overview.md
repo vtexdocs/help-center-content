@@ -1,5 +1,5 @@
 ---
-title: 'Integration with Facebook Business Extension - Overview'
+title: 'Integration with Meta Business Extension - Overview'
 id: 2OdxzECQkND8gP3ohtTRDD
 status: PUBLISHED
 createdAt: 2021-09-30T14:44:39.701Z
@@ -8,10 +8,10 @@ publishedAt: 2021-10-05T21:31:56.949Z
 firstPublishedAt: 2021-09-30T18:47:14.819Z
 contentType: trackArticle
 productTeam: Channels
-slugEN: integration-with-facebook-business-extension-overview
+slugEN: integration-with-meta-business-extension-overview
 locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugEN: integration-with-facebook-business-extension
+trackSlugEN: integration-with-meta-business-extension
 order: 2
 ---
 
@@ -19,5 +19,5 @@ Before performing the integration, you must create a [Facebook account](https://
 
 The next steps to integrate your VTEX store with FBE are:
 
-- [Installing the Facebook Business Extension and Conversions API app](/en/docs/tracks/installing-the-facebook-business-extension-e-conversions-api-app)
+- [Installing the Meta Business Extension and Conversions API app](/en/docs/tracks/installing-the-meta-business-extension-e-conversions-api-app)
 - [Configuring the integration with FBE in the VTEX Admin](/en/docs/tracks/configuring-the-integration-with-fbe-in-the-vtex-admin)
