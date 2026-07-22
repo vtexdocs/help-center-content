@@ -10,9 +10,9 @@ contentType: trackArticle
 productTeam: Others
 slugEN: cross-border-stores
 locale: pt
-trackId: eSDNk26pdvemF3XKM0nK9
-trackSlugEN: trilha-da-loja-vtex
-order: 9
+trackId: 3J7WFZyvTcoiwkcIVFVhIS
+trackSlugEN: proximos-passos-apos-o-go-live
+order: 5
 seeAlso:
     - "/pt/docs/tutorials/escolher-entre-arquitetura-multiloja-ou-ambiente-adicional"
 ---
@@ -55,5 +55,6 @@ Saiba mais em [Como funciona uma Política Comercial](/pt/docs/tutorials/como-fu
 
 ## Lojas multi-idioma
 
-Como uma loja internacional pode ter múltiplos bindings e alcançar compradores no mundo todo, é importante oferecer a internacionalização do conteúdo do site e do catálogo para que os consumidores tenham uma experiência de compra personalizada. Para internacionalizar o conteúdo da sua loja, entre em contato com a sua equipe de desenvolvedores e consulte a documentação sobre [Internacionalização](https://developers.vtex.com/docs/guides/vtex-io-multi-language-stores) e [Tradução de conteúdo do catálogo](https://developers.vtex.com/docs/guides/catalog-internationalization).
+Como uma loja internacional pode ter múltiplos bindings e alcançar compradores no mundo todo, é importante oferecer a internacionalização do conteúdo do site e do catálogo para que os consumidores tenham uma experiência de compra personalizada.
 
+Para internacionalizar o conteúdo da sua loja, entre em contato com a sua equipe de desenvolvedores e consulte a documentação sobre [Internacionalização](https://developers.vtex.com/docs/guides/vtex-io-multi-language-stores) e [Tradução de conteúdo do catálogo](https://developers.vtex.com/docs/guides/catalog-internationalization).

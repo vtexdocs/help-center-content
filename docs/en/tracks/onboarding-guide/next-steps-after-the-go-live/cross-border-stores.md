@@ -10,9 +10,9 @@ contentType: trackArticle
 productTeam: Others
 slugEN: cross-border-stores
 locale: en
-trackId: eSDNk26pdvemF3XKM0nK9
-trackSlugEN: vtex-store-overview
-order: 9
+trackId: 3J7WFZyvTcoiwkcIVFVhIS
+trackSlugEN: next-steps-after-the-go-live
+order: 5
 ---
 
 A cross-border store is a type of [multistore](/en/docs/tutorials/managing-a-multistore), which at VTEX means an account with multiple [bindings](/en/docs/tutorials/what-is-binding) and different sales channels for each one of its local stores.

@@ -3,7 +3,7 @@ title: 'Otros ajustes de los módulos de VTEX'
 id: V1fs7IkfYMfn91ZVHTLu4
 status: PUBLISHED
 createdAt: 2024-02-20T20:25:49.450Z
-updatedAt: 2024-07-30T16:23:50.641Z
+updatedAt: 2026-07-22T00:00:00.000Z
 publishedAt: 2024-07-30T16:23:50.641Z
 firstPublishedAt: 2024-02-22T14:09:20.283Z
 contentType: trackArticle
