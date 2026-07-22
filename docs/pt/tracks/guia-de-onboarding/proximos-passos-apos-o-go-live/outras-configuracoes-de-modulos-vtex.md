@@ -44,19 +44,24 @@ Mais informações em [Configurar promoção para marketplace](/pt/docs/tutorial
 
 ## Logística
 
-Feitas as configurações obrigatórias de [Logística](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), as contas VTEX que possuem a arquitetura [multiloja ou multidomínio](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) têm a possibilidade de iniciar uma estratégia de vendas para outros países, tornando-se uma [loja internacional (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border).
+Feitas as configurações obrigatórias de [Logística](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), as contas VTEX que possuem a arquitetura [multiloja ou multidomínio](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) tem a possibilidade de iniciar uma estratégia de vendas para outros países, tornando-se uma [loja internacional (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border). Dentre as principais vantagens desse tipo de operação, podemos destacar:
 
-Operações cross-border devem ser planejadas levando em consideração os seguintes aspectos:
+- **Melhoria da capacidade logística total:** o acúmulo de experiência adquirido em processos logísticos complexos (importação e exportação) permite que toda a cadeia logística (nacional e internacional) possa ser gerenciada de forma mais eficiente.
+- **Expansão do negócio:** novos públicos são atingidos, aumentando o potencial de vendas das lojas.
+- **Vantagens fiscais:** incentivos fiscais internacionais, como isenção de impostos, podem ser oferecidos, diminuindo o custo total de venda do produto.
+- **Internacionalização da marca:** consolidação da imagem da empresa em diversos mercados, contribuindo para o aumento da confiança do consumidor e consequente aumento de vendas a nível nacional e internacional.
+
+Operações cross-border devem ser planejadas levando em consideração os seguintes aspectos: 
 
 - **Tipo de exportação:** pode ser de dois tipos:
-    - **Direta:** a empresa é a única responsável pelas atividades de distribuição e entrega dos produtos aos clientes.
-    - **Indireta:** os produtos são adquiridos por terceiros (parceiros de negócios ou intermediários localizados no país de destino), que assumem a total responsabilidade pelo gerenciamento da operação.
+    - **Direta:** a empresa é a única responsável pelas atividades de distribuição e entrega dos produtos ao clientes.
+    - **Indireta:** os produtos são adquiridos por terceiros (parceiros de negócios ou intermediários localizados no país de destino), assumindo a total responsabilidade pelo gerenciamento da operação.
 - **Aceitação de produtos:** verificar estratégias de venda e preferências do público no mercado onde deseja atuar.
-- **Precificação inteligente:** definir estratégia de preço com base nos custos locais (transporte, taxas, impostos).
+- **Precificação inteligente:** definir estratégia de preço baseado nos custos locais (transporte, taxas, impostos).
 - **Parcerias:** estabelecer parcerias com transportadoras e fornecedores locais.
 - **Diferenciais competitivos:** definir como o negócio poderá oferecer benefícios aos clientes do novo mercado em relação aos atuais concorrentes.
 
-Para conceitos da plataforma e como iniciar uma operação cross-border, consulte [Lojas internacionais (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border) ou contate o [Suporte VTEX](/pt/docs/tracks/suporte-na-vtex).
+Para mais informações sobre como iniciar uma operação cross-border, é necessário contatar o responsável CX da conta VTEX ou o [Suporte VTEX](/pt/docs/tracks/suporte-na-vtex).
 
 ## Pedidos
 
