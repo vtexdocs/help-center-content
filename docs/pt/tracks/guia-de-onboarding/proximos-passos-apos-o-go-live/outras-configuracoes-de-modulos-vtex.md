@@ -19,7 +19,7 @@ Na **Trilha geral da loja VTEX**, os artigos [Módulos VTEX I](/pt/docs/tracks/m
 
 ## Promoções
 
-Feitas as configurações obrigatórias de [Promoções](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#promocoes), também é importante conhecer mais sobre [cluster de clientes](#cluster-de-clientes), [concorrência de promoções](#concorrencia-de-promocoes) e [promoções para marketplace](#promocoes-para-marketplace), conforme apresentado a seguir.
+Feitas as configurações obrigatórias de [Promoções](/pt/docs/tracks/modulos-da-vtex-i#promocoes), também é importante conhecer mais sobre [cluster de clientes](#cluster-de-clientes), [concorrência de promoções](#concorrencia-de-promocoes) e [promoções para marketplace](#promocoes-para-marketplace), conforme apresentado a seguir.
 
 ### Cluster de clientes
 
@@ -44,7 +44,7 @@ Mais informações em [Configurar promoção para marketplace](/pt/docs/tutorial
 
 ## Logística
 
-Feitas as configurações obrigatórias de [Logística](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), as contas VTEX que possuem a arquitetura [multiloja ou multidomínio](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) tem a possibilidade de iniciar uma estratégia de vendas para outros países, tornando-se uma [loja internacional (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border). Dentre as principais vantagens desse tipo de operação, podemos destacar:
+Feitas as configurações obrigatórias de [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica), as contas VTEX que possuem a arquitetura [multiloja ou multidomínio](/pt/docs/tracks/contas-e-arquitetura) tem a possibilidade de iniciar uma estratégia de vendas para outros países, tornando-se uma [loja internacional (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border). Dentre as principais vantagens desse tipo de operação, podemos destacar:
 
 - **Melhoria da capacidade logística total:** o acúmulo de experiência adquirido em processos logísticos complexos (importação e exportação) permite que toda a cadeia logística (nacional e internacional) possa ser gerenciada de forma mais eficiente.
 - **Expansão do negócio:** novos públicos são atingidos, aumentando o potencial de vendas das lojas.
@@ -65,7 +65,7 @@ Para mais informações sobre como iniciar uma operação cross-border, é neces
 
 ## Pedidos
 
-Feitas as configurações obrigatórias de [Pedidos](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), a loja pode expandir suas vendas disponibilizando [assinaturas](#assinaturas) de pedidos recorrentes e otimizar o gerenciamento de pedidos no Admin VTEX usando o [VTEX DO](#vtex-do).
+Feitas as configurações obrigatórias de [Pedidos](/pt/docs/tracks/modulos-da-vtex-ii#pedidos), a loja pode expandir suas vendas disponibilizando [assinaturas](#assinaturas) de pedidos recorrentes e otimizar o gerenciamento de pedidos no Admin VTEX usando o [VTEX DO](#vtex-do).
 
 ### Assinaturas
 
@@ -100,4 +100,3 @@ Os aplicativos essenciais do B2B Suite impulsionam as operações de negócios B
 - **B2B Clientes:** gerencia as informações e as relações com os clientes B2B.
 
 Para mais informações sobre os aplicativos, acesse [Conjunto de aplicativos do B2B Suite](/pt/docs/tutorials/b2b-suite-visao-geral#conjunto-de-aplicativos-do-b2b-suite).
-

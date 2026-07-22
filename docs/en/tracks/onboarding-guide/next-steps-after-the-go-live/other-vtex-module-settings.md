@@ -19,7 +19,7 @@ In the **VTEX Store Overview Track**, the [VTEX modules I](/en/docs/tracks/vtex-
 
 ## Promotions
 
-Once you have configured the required [Promotions](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#promocoes) settings, you should also learn more about [customer clusters](#customer-clusters), [promotion competition](#promotion-competition), and [marketplace promotions](#marketplace-promotions), as shown below.
+Once you have configured the required [Promotions](/en/docs/tracks/vtex-modules-i#promotions) settings, you should also learn more about [customer clusters](#customer-clusters), [promotion competition](#promotion-competition), and [marketplace promotions](#marketplace-promotions), as shown below.
 
 ### Customer clusters
 
@@ -44,7 +44,7 @@ Learn more in the [Configuring promotions for marketplaces](/en/docs/tutorials/c
 
 ## Logistics
 
-After completing the required [logistics](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistc) settings, VTEX accounts with [multistore or multidomain](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) architecture can launch a sales strategy to other countries and become [cross-border stores](/en/docs/tracks/cross-border-stores). The main advantages of this type of operation include:
+After completing the required [logistics](/en/docs/tracks/vtex-modules-i#logistics) settings, VTEX accounts with [multistore or multidomain](/en/docs/tracks/accounts-and-architecture) architecture can launch a sales strategy to other countries and become [cross-border stores](/en/docs/tracks/cross-border-stores). The main advantages of this type of operation include:
 
 - **Improved total logistics capacity:** The accumulated experience gained in complex logistics processes (import and export) means that the entire logistics chain (national and international) can be managed more efficiently.
 - **Business expansion:** Reaching new customers and increasing the stores' sales potential.
@@ -69,7 +69,7 @@ For more information on how to start a cross-border operation, contact your CX m
 
  ## Orders
 
-After configuring the required [Order](/en/tracks/vtex-store-overview-eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#orders) settings, you can boost your store sales by offering recurring order subscriptions and optimizing order management in the VTEX Admin using VTEX DO.
+After configuring the required [Order](/en/docs/tracks/vtex-modules-ii#orders) settings, you can boost your store sales by offering recurring order subscriptions and optimizing order management in the VTEX Admin using VTEX DO.
 
 ### Subscriptions
 
