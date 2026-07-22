@@ -13,7 +13,7 @@ tags:
   - Promoções
 ---
 
-Estamos lançando uma nova exibição de promoções em Pedidos que mostra quais promoções foram aplicadas a cada item de um pedido, além dos benefícios de carrinho que esses itens acionaram. Com essa mudança, operadores de loja passam a ter um detalhamento dos descontos diretamente na tela de detalhes do pedido, sem precisar sair do pedido ou consultar as promoções em outro lugar. Esse recurso está disponível globalmente em beta aberto e precisa ser habilitado mediante solicitação.
+Estamos lançando uma nova exibição de promoções em **Pedidos** que mostra quais promoções foram aplicadas a cada item de um pedido, além dos benefícios de carrinho que esses itens acionaram. Com essa mudança, operadores de loja passam a ter um detalhamento dos descontos diretamente na tela de detalhes do pedido, sem precisar sair do pedido ou consultar as promoções em outro lugar. Esse recurso está disponível globalmente em beta aberto e precisa ser habilitado mediante solicitação.
 
 ## O que mudou?
 
