@@ -21,7 +21,7 @@ Uma loja internacional (*cross-border*) é um tipo de [multiloja](/pt/docs/tutor
 
 As lojas internacionais podem alcançar compradores no mundo inteiro ao oferecer experiências de compra localizadas para os clientes de cada região.
 
-Se você deseja proporcionar essa experiência de compra localizada aos seus clientes, abra um ticket para o [Suporte VTEX] (https://support.vtex.com/) demonstrando seu interesse em tornar-se uma loja internacional.
+Se você deseja proporcionar essa experiência de compra localizada aos seus clientes, abra um ticket para o [Suporte VTEX](https://support.vtex.com/) demonstrando seu interesse em tornar-se uma loja internacional.
 
 Uma loja internacional ajuda você a:
 
