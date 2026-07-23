@@ -10,7 +10,7 @@ seeAlso:
   - "/pt/docs/tutorials/visao-geral-informacoes-de-faturamento"
 ---
 
-No módulo **Faturas** do Admin VTEX, você pode visualizar todas as suas faturas e consultar o detalhamento de cada uma. Para acessar esse módulo, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito. Em seguida, clique em **Informações de faturamento > Faturas**.
+No módulo **Faturas** do Admin VTEX, você pode visualizar todas as suas faturas e consultar o detalhamento de cada uma. Para acessar esse módulo, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito do Admin VTEX. Em seguida, clique em **Informações de faturamento > Faturas**.
 
 >ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar esta seção do Admin VTEX. Para saber como configurar esses acessos, veja o artigo [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou solicite ao proprietário da loja que ajuste as permissões.
 
