@@ -1,15 +1,15 @@
 ---
-title: 'How to download the VTEX invoices'
+title: 'Downloading VTEX invoices'
 id: tutorials_653
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:30.802Z
-updatedAt: 2021-03-22T20:48:29.214Z
+updatedAt: 2026-07-23T17:30:02.989Z
 publishedAt: 2021-03-22T20:48:29.214Z
 firstPublishedAt: 2017-04-27T23:03:40.557Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: how-to-download-the-vtex-invoices
+slugEN: downloading-vtex-invoices
 legacySlug: how-to-download-vtex-payment-slips-and-tax-invoices
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
