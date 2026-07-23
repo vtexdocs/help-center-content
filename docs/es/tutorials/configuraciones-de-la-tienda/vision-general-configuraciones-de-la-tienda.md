@@ -77,6 +77,6 @@ La sección Intelligent Search es donde realizas la configuración general de la
 - [Sinónimos](/es/docs/tutorials/crear-sinonimos)
 - [Status de Indexación](/es/docs/tutorials/historial-de-indexacion)
 - [Reglas de Relevance](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/es/docs/tutorials/analytics)
+- [Analytics](/es/docs/tutorials/intelligent-search-analytics)
 - [Redireccionamientos](/es/docs/tutorials/configurar-redirecciones)
 

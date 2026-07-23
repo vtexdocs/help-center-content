@@ -25,6 +25,143 @@
           "children": [
             {
               "name": {
+                "en": "July",
+                "es": "Julio",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "2026-july",
+                "es": "2026-julio",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Discover the new VTEX Sales App Extensibility",
+                    "es": "Conoce el nuevo VTEX Sales App Extensibility",
+                    "pt": "Conheça o novo VTEX Sales App Extensibility"
+                  },
+                  "slug": {
+                    "en": "2026-07-23-discover-the-new-vtex-sales-app-extensibility",
+                    "es": "2026-07-23-conoce-el-nuevo-vtex-sales-app-extensibility",
+                    "pt": "2026-07-23-conheca-o-novo-vtex-sales-app-extensibility"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
+                    "es": "2026-07-20-nuevo-dashboard-uso-de-master-data-en-el-admin-vtex",
+                    "pt": "2026-07-20-novo-dashboard-de-uso-do-master-data-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Apple Pay Express Checkout V6: New payment method",
+                    "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
+                    "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
+                    "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Partial mode: New flow in post-purchase payment operations",
+                    "es": "Modo parcial: nuevo flujo de trabajo en las operaciones de pago poscompra",
+                    "pt": "Modo Parcial: novo fluxo em operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations",
+                    "es": "2026-07-14-modo-parcial-nuevo-flujo-de-trabajo-en-las-operaciones-de-pago-poscompra",
+                    "pt": "2026-07-14-modo-parcial-novo-fluxo-em-operacoes-de-pagamentos-pos-compra"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New ROAS calculation methodology for Sponsored Products",
+                    "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
+                    "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
+                  },
+                  "slug": {
+                    "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
+                    "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
+                    "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Julho",
+                "es": "Julho",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "julho",
+                "es": "julho",
+                "pt": "2026-julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "pt": "Delivery Promise disponível em Open Beta",
+                    "en": "Delivery Promise disponível em Open Beta",
+                    "es": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "pt": "2026-07-01-delivery-promise-em-open-beta",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "June",
                 "es": "Junio",
                 "pt": "Junho"
@@ -39,14 +176,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Improvements to the in-store pickup flow",
-                    "es": "Mejoras en el flujo de recogida en tienda",
-                    "pt": "Melhorias no fluxo de retirada em loja"
+                    "en": "Pick and Pack: In-store pickup confirmation with token",
+                    "es": "Pick and Pack: Confirmación de recogida en tienda con token",
+                    "pt": "Pick and Pack: confirmação de retirada em loja com token"
                   },
                   "slug": {
-                    "en": "2026-06-25-improvements-to-the-in-store-pickup-flow",
-                    "es": "2026-06-25-mejoras-en-el-flujo-de-retiro-en-tienda",
-                    "pt": "2026-06-25-melhorias-no-fluxo-de-retirada-em-loja"
+                    "en": "2026-06-25-pick-and-pack-in-store-pickup-confirmation-with-token",
+                    "es": "2026-06-25-pick-and-pack-confirmacion-de-recogida-en-tienda-con-token",
+                    "pt": "2026-06-25-pick-and-pack-confirmacao-de-retirada-em-loja-com-token"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13874,28 +14011,59 @@
             },
             {
               "name": {
-                "en": "Integration with Facebook Business Extension",
-                "es": "Integración con Facebook Business Extension",
-                "pt": "Integração com o Facebook Business Extension"
+                "en": "Integración con Extensión de Meta para empresas",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
               },
               "slug": {
-                "en": "integration-with-facebook-business-extension",
-                "es": "integracion-con-facebook-business-extension",
-                "pt": "integracao-com-o-facebook-business-extension"
+                "en": "integracion-con-extension-de-meta-para-empresas",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "1. Facebook Business Extension",
-                    "es": "1. Facebook Business Extension",
-                    "pt": "1. Facebook Business Extension"
+                    "en": "1. Interface of the configured integration",
+                    "es": "1. Interfaz de la integración configurada",
+                    "pt": "1. Interface da integração configurada"
                   },
                   "slug": {
-                    "en": "facebook-business-extension",
-                    "es": "facebook-business-extension",
-                    "pt": "facebook-business-extension"
+                    "en": "interface-da-integracao-configurada",
+                    "es": "interface-da-integracao-configurada",
+                    "pt": "interface-da-integracao-configurada"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integration with Meta Business Extension",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
+              },
+              "slug": {
+                "en": "integration-with-meta-business-extension",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Meta Business Extension",
+                    "es": "1. Extensión de Meta para empresas",
+                    "pt": "1. Extensão da Meta para Empresas"
+                  },
+                  "slug": {
+                    "en": "meta-business-extension",
+                    "es": "meta-business-extension",
+                    "pt": "meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13903,14 +14071,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension - Overview",
-                    "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
+                    "en": "2. Integration with Meta Business Extension - Overview",
+                    "es": "2. Integración con Extensión de Meta para empresas - Información general",
+                    "pt": "2. Integração com a Extensão da Meta para Empresas - Visão geral"
                   },
                   "slug": {
-                    "en": "integration-with-facebook-business-extension-overview",
-                    "es": "vision-general-de-la-integracion-con-facebook-business-extension",
-                    "pt": "visao-geral-da-integracao-com-o-facebook-business-extension"
+                    "en": "integration-with-meta-business-extension-overview",
+                    "es": "vision-general-de-la-integracion-con-meta-business-extension",
+                    "pt": "visao-geral-da-integracao-com-o-meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13918,14 +14086,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. Installing the Facebook Business Extension e Conversions API app",
-                    "es": "3. Instalar la aplicación Facebook Business Extension e Conversions API",
-                    "pt": "3. Instalar a app Facebook Business Extension e Conversions API"
+                    "en": "3. Installing the Meta Business Extension e Conversions API app",
+                    "es": "3. Instalar la aplicación Extensión de Meta para empresas e Conversions API",
+                    "pt": "3. Instalar a app Extensão da Meta para Empresas e Conversions API"
                   },
                   "slug": {
-                    "en": "installing-the-facebook-business-extension-e-conversions-api-app",
-                    "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
-                    "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
+                    "en": "installing-the-meta-business-extension-e-conversions-api-app",
+                    "es": "instalar-la-aplicacion-meta-business-extension-e-conversions-api",
+                    "pt": "instalar-a-app-meta-business-extension-e-conversions-api"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13941,21 +14109,6 @@
                     "en": "configuring-the-integration-with-fbe-in-the-vtex-admin",
                     "es": "configurar-la-integracion-con-fbe-en-el-admin-vtex",
                     "pt": "configurar-a-integracao-com-o-fbe-no-admin-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Interface of the configured integration",
-                    "es": "5. Interfaz de la integración configurada",
-                    "pt": "5. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16227,21 +16380,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Creating a financial role",
-                    "es": "Crear un rol financiero",
-                    "pt": "Criar um perfil de acesso financeiro"
-                  },
-                  "slug": {
-                    "en": "creating-a-financial-access-profile",
-                    "es": "crear-un-rol-financiero",
-                    "pt": "criar-um-perfil-de-acesso-financeiro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating roles",
@@ -18589,13 +18727,13 @@
         {
           "name": {
             "en": "Billing",
-            "es": "Facturas",
-            "pt": "Faturas"
+            "es": "Facturación",
+            "pt": "Informações de faturamento"
           },
           "slug": {
             "en": "billing-category",
-            "es": "facturas-categoria",
-            "pt": "faturas-categoria"
+            "es": "facturacion-categoria",
+            "pt": "informacoes-de-faturamento-categoria"
           },
           "origin": "",
           "type": "category",
@@ -18616,34 +18754,35 @@
               "children": [
                 {
                   "name": {
-                    "en": "Accounts Payable - Brazil",
-                    "es": "Cuentas a Pagar - Brasil",
-                    "pt": "Contas a Pagar - Brasil"
+                    "en": "Requesting contract termination in Brazil",
+                    "es": "Solicitar rescisión contractual en Brasil",
+                    "pt": "Solicitar rescisão contratual no Brasil"
                   },
                   "slug": {
-                    "en": "accounts-payable-brazil",
-                    "es": "cuentas-a-pagar-brasil",
-                    "pt": "contas-a-pagar-brasil"
+                    "en": "how-to-request-your-contract-termination-in-brazil",
+                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
+                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Accounts Payable - International",
-                    "es": "Cuentas por pagar - Internacional",
-                    "pt": "Contas a pagar - Internacional"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-international",
-                    "es": "cuentas-por-pagar-internacional",
-                    "pt": "contas-a-pagar-internacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Invoices",
+                "es": "Facturas",
+                "pt": "Faturas"
+              },
+              "slug": {
+                "en": "invoices-subcategory",
+                "es": "facturas-subcategoria",
+                "pt": "faturas-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
                     "en": "Consumption tags used in the billing module",
@@ -18661,112 +18800,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to request a platform SLA verification?",
-                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
-                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
-                  },
-                  "slug": {
-                    "en": "how-to-request-sla-verification",
-                    "es": "como-solicitar-la-verificacion-de-sla",
-                    "pt": "como-solicitar-a-apuracao-de-sla"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Names of VTEX branches worldwide",
-                    "es": "Nombres de las sucursales VTEX en el mundo",
-                    "pt": "Nomes das filiais VTEX pelo mundo"
-                  },
-                  "slug": {
-                    "en": "names-of-vtex-branches-worldwide",
-                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
-                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a contract termination in Argentina and Colombia",
-                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
-                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
-                  },
-                  "slug": {
-                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
-                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
-                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a new environment",
-                    "es": "Contratar nuevo entorno",
-                    "pt": "Contratar novo ambiente"
-                  },
-                  "slug": {
-                    "en": "requesting-a-new-environment",
-                    "es": "contratar-nuevo-entorno",
-                    "pt": "contratar-novo-ambiente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
-                  },
-                  "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Agreement",
-                    "es": "Contrato VTEX",
-                    "pt": "Contrato VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-agreement",
-                    "es": "contrato-vtex",
-                    "pt": "contrato-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Invoices",
-                "es": "Títulos",
-                "pt": "Títulos"
-              },
-              "slug": {
-                "en": "invoices-subcategory",
-                "es": "titulos-subcategoria",
-                "pt": "títulos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18782,21 +18815,6 @@
                 },
                 {
                   "name": {
-                    "en": "How do I request a duplicate of my \"boleto\"?",
-                    "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
-                    "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
-                  },
-                  "slug": {
-                    "en": "how-do-i-request-a-duplicate-of-my-boleto",
-                    "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
-                    "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "How to download the VTEX invoices",
                     "es": "Cómo descargar las facturas de VTEX",
                     "pt": "Como fazer download das faturas da VTEX"
@@ -18805,6 +18823,21 @@
                     "en": "how-to-download-the-vtex-invoices",
                     "es": "como-descargar-las-facturas-de-vtex",
                     "pt": "como-fazer-download-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to request a platform SLA verification?",
+                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
+                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
+                  },
+                  "slug": {
+                    "en": "how-to-request-sla-verification",
+                    "es": "como-solicitar-la-verificacion-de-sla",
+                    "pt": "como-solicitar-a-apuracao-de-sla"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18839,17 +18872,33 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Registration information",
+                "es": "Datos de registro",
+                "pt": "Dados cadastrais"
+              },
+              "slug": {
+                "en": "registration-information",
+                "es": "datos-de-registro",
+                "pt": "dados-cadastrais"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "en": "What does VTEX consider as revenues for invoice calculation?",
-                    "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
-                    "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
+                    "en": "Changing my store’s registration details",
+                    "es": "Modificar los datos de registro de mi tienda",
+                    "pt": "Alterar os dados cadastrais da minha loja"
                   },
                   "slug": {
-                    "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
-                    "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
-                    "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
+                    "en": "changing-the-stores-registration-details",
+                    "es": "modificar-los-datos-de-registro-de-la-tienda",
+                    "pt": "alterar-os-dados-cadastrais-da-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18857,14 +18906,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the period considered for calculating my billing?",
-                    "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
-                    "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
+                    "en": "How do I change my CNPJ?",
+                    "es": "¿Cómo cambiar mi CNPJ?",
+                    "pt": "Como fazer a alteração do meu CNPJ?"
                   },
                   "slug": {
-                    "en": "what-is-the-period-considered-for-calculating-my-billing",
-                    "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
-                    "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
+                    "en": "how-do-i-change-my-cnpj-new",
+                    "es": "como-cambiar-mi-cnpj-nuevo",
+                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18881,22 +18930,7 @@
               "slug": {
                 "en": "billing-module-overview",
                 "es": "vision-general-facturacion",
-                "pt": "visao-geral-faturas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Changing my store’s registration details",
-                "es": "Modificar los datos de registro de mi tienda",
-                "pt": "Alterar os dados cadastrais da minha loja"
-              },
-              "slug": {
-                "en": "changing-the-stores-registration-details",
-                "es": "modificar-los-datos-de-registro-de-la-tienda",
-                "pt": "alterar-os-dados-cadastrais-da-loja"
+                "pt": "visao-geral-informacoes-de-faturamento"
               },
               "origin": "",
               "type": "markdown",
@@ -20794,6 +20828,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Version history",
+                    "es": "Historial de versiones",
+                    "pt": "Histórico de versões"
+                  },
+                  "slug": {
+                    "en": "cms-version-history",
+                    "es": "historial-de-versiones",
+                    "pt": "historico-de-versoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -20872,6 +20921,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Configuring stores",
+                "es": "Configurar tiendas",
+                "pt": "Configurar lojas"
+              },
+              "slug": {
+                "en": "cms-configuring-stores",
+                "es": "cms-configurar-tiendas",
+                "pt": "cms-configurar-lojas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -23868,6 +23932,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Kit",
+                    "es": "Mercado Libre Kit",
+                    "pt": "Mercado Livre Kit"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-kit",
+                    "es": "mercado-libre-kit",
+                    "pt": "mercado-livre-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Promotions Center",
                     "es": "Central de promociones Mercado Libre",
                     "pt": "Central de Promoções Mercado Livre"
@@ -24988,21 +25067,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Analytics",
-                    "es": "Analytics",
-                    "pt": "Analytics"
-                  },
-                  "slug": {
-                    "en": "analytics",
-                    "es": "analytics",
-                    "pt": "analytics"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Explained Search",
                     "es": "Explicación de Búsqueda",
                     "pt": "Explicação da busca"
@@ -25026,6 +25090,21 @@
                     "en": "indexing-history",
                     "es": "historial-de-indexacion",
                     "pt": "historico-da-indexacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Intelligent Search - Analytics",
+                    "es": "Intelligent Search - Analytics",
+                    "pt": "Intelligent Search - Analytics"
+                  },
+                  "slug": {
+                    "en": "intelligent-search-analytics",
+                    "es": "intelligent-search-analytics",
+                    "pt": "intelligent-search-analytics"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25809,6 +25888,21 @@
             },
             {
               "name": {
+                "en": "Checking Master Data usage in the VTEX Admin",
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "en": "checking-master-data-usage-in-the-vtex-admin",
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "How to structure Master Data entities to store B2B sales data",
                 "es": "Cómo estructurar entidades del Master Data para guardar datos de ventas B2B",
                 "pt": "Como estruturar entidades do Master Data para armazenar dados de venda B2B"
@@ -26114,14 +26208,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Best practices when creating your Partner environment",
-                    "es": "Mejores prácticas para crear su ambiente Partner",
-                    "pt": "Melhores práticas para criar seu ambiente Partner"
+                    "en": "Creating a financial role",
+                    "es": "Crear un rol financiero",
+                    "pt": "Criar um perfil de acesso financeiro"
                   },
                   "slug": {
-                    "en": "best-practices-when-creating-your-partner-environment",
-                    "es": "mejores-practicas-para-crear-su-ambiente-partner",
-                    "pt": "melhores-praticas-na-hora-de-criar-seu-ambiente-partner"
+                    "en": "creating-a-financial-access-profile",
+                    "es": "crear-un-rol-financiero",
+                    "pt": "criar-um-perfil-de-acesso-financeiro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26129,29 +26223,14 @@
                 },
                 {
                   "name": {
-                    "en": "How do I change my CNPJ?",
-                    "es": "¿Cómo cambiar mi CNPJ?",
-                    "pt": "Como fazer a alteração do meu CNPJ?"
+                    "en": "Requesting a new environment",
+                    "es": "Contratar nuevo entorno",
+                    "pt": "Contratar novo ambiente"
                   },
                   "slug": {
-                    "en": "how-do-i-change-my-cnpj-new",
-                    "es": "como-cambiar-mi-cnpj-nuevo",
-                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How long does the platform take to identify my payment?",
-                    "es": "¿Cuánto tiempo tarda la plataforma para identificar mi pago?",
-                    "pt": "Quanto tempo a plataforma demora para identificar meu pagamento?"
-                  },
-                  "slug": {
-                    "en": "how-long-does-the-platform-take-to-identify-my-payment",
-                    "es": "cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago",
-                    "pt": "quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento"
+                    "en": "requesting-a-new-environment",
+                    "es": "contratar-nuevo-entorno",
+                    "pt": "contratar-novo-ambiente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27408,6 +27487,37 @@
                     "en": "bank-reconciliations",
                     "es": "conciliaciones-bancarias",
                     "pt": "conciliacoes-bancarias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Configurações de Pagamentos",
+                "es": "Configurações de Pagamentos",
+                "pt": "Configurações de Pagamentos"
+              },
+              "slug": {
+                "en": "configuracoes-de-pagamentos",
+                "es": "configuracoes-de-pagamentos",
+                "pt": "configurações-de-pagamentos-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Configurar pagamento com Paguelofacil",
+                    "en": "Configurar pagamento com Paguelofacil",
+                    "es": "Configurar pagamento com Paguelofacil"
+                  },
+                  "slug": {
+                    "pt": "configurar-pagamento-com-paguelofacil",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28916,6 +29026,51 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Directa",
+                    "es": "Configurar pago con Directa",
+                    "pt": "Configurar pagamento com Directa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directa",
+                    "es": "configurar-pago-con-directa",
+                    "pt": "configurar-pagamento-com-directa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Directo",
+                    "es": "Configurar pago con Directo",
+                    "pt": "Configurar pagamento com Directo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-directo",
+                    "es": "configurar-pago-con-directo",
+                    "pt": "configurar-pagamento-com-directo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Divibank",
+                    "es": "Configurar pago con Divibank",
+                    "pt": "Configurar pagamento com Divibank"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-divibank",
+                    "es": "configurar-pago-con-divibank",
+                    "pt": "configurar-pagamento-com-divibank"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Dock",
                     "es": "Configurar pago con Dock",
                     "pt": "Configurar pagamento com a Dock"
@@ -29261,6 +29416,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with GlobalPay-Redeban",
+                    "es": "Configurar pago con GlobalPay-Redeban",
+                    "pt": "Configurar pagamento com GlobalPay-Redeban"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpay-redeban",
+                    "es": "configurar-pago-con-globalpay-redeban",
+                    "pt": "configurar-pagamento-com-globalpay-redeban"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with GlobalPayments",
+                    "es": "Configurar pago con GlobalPayments",
+                    "pt": "Configurar pagamento com GlobalPayments"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-globalpayments",
+                    "es": "configurar-pago-con-globalpayments",
+                    "pt": "configurar-pagamento-com-globalpayments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with GOcuotas",
                     "es": "Configurar pago con GOcuotas",
                     "pt": "Configurar pagamento com GOcuotas"
@@ -29366,6 +29551,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Kaiowa",
+                    "es": "Configurar pago con Kaiowa",
+                    "pt": "Configurar pagamento com Kaiowa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kaiowa",
+                    "es": "configurar-pago-con-kaiowa",
+                    "pt": "configurar-pagamento-com-kaiowa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Khipu",
                     "es": "Configurar pago con Khipu",
                     "pt": "Configurar pagamento com Khipu"
@@ -29449,6 +29649,21 @@
                     "en": "setting-up-payments-with-kueski-pay",
                     "es": "configurar-pago-con-kueski-pay",
                     "pt": "configurar-pagamento-com-kueski-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with KueskiV2",
+                    "es": "Configurar pago con KueskiV2",
+                    "pt": "Configurar pagamento com KueskiV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-kueskiv2",
+                    "es": "configurar-pago-con-kueskiv2",
+                    "pt": "configurar-pagamento-com-kueskiv2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29629,6 +29844,21 @@
                     "en": "setting-up-payments-with-msc-payment",
                     "es": "configurar-pago-con-msc-payment",
                     "pt": "configurar-pagamento-com-msc-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Multipago",
+                    "es": "Configurar pago con Multipago",
+                    "pt": "Configurar pagamento com Multipago"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-multipago",
+                    "es": "configurar-pago-con-multipago",
+                    "pt": "configurar-pagamento-com-multipago"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29891,6 +30121,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Pagoplux",
+                    "es": "Configurar pago con Pagoplux",
+                    "pt": "Configurar pagamento com Pagoplux"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagoplux",
+                    "es": "configurar-pago-con-pagoplux",
+                    "pt": "configurar-pagamento-com-pagoplux"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with PagoWebPE",
+                    "es": "Configurar pago con PagoWebPE",
+                    "pt": "Configurar pagamento com PagoWebPE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-pagowebpe",
+                    "es": "configurar-pago-con-pagowebpe",
+                    "pt": "configurar-pagamento-com-pagowebpe"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Parcelex",
                     "es": "Configurar pago con Parcelex",
                     "pt": "Configurar pagamento com Parcelex"
@@ -30049,6 +30309,21 @@
                     "en": "setting-up-payments-with-payuv2",
                     "es": "configurar-pago-con-payuv2",
                     "pt": "configurar-pagamento-com-payuv2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Payválida",
+                    "es": "Configurar pago con Payválida",
+                    "pt": "Configurar pagamento com Payválida"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-payvalida",
+                    "es": "configurar-pago-con-payvalida",
+                    "pt": "configurar-pagamento-com-payvalida"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36052,7 +36327,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to create landing pages with customized URLs",
+                    "en": "How to create landing pages with custom URLs",
                     "es": "Cómo crear landing pages con URLs personalizadas",
                     "pt": "Como criar landing pages com URLs customizadas"
                   },
@@ -37157,21 +37432,6 @@
             },
             {
               "name": {
-                "en": "Extensibility in VTEX Sales App",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "extensibility-in-vtex-sales-app",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37225,6 +37485,21 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "VTEX Sales App Extensibility",
+                "pt": "VTEX Sales App Extensibility"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility-en",
+                "es": "vtex-sales-app-extensibility-es",
+                "pt": "vtex-sales-app-extensibility-pt"
               },
               "origin": "",
               "type": "markdown",
@@ -37699,24 +37974,9 @@
                 },
                 {
                   "name": {
-                    "en": "Manage Live Desk",
-                    "es": "Configurar el Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "manage-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Using active triggering of flows",
                     "es": "Utilizando el disparo activo de flujos",
-                    "pt": "Utilizando disparo ativo de fluxos"
+                    "pt": "Utilizando o disparo ativo de fluxos"
                   },
                   "slug": {
                     "en": "using-active-triggering-of-flows",
@@ -38708,14 +38968,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "General project settings",
-                    "es": "Configuraciones generales de proyecto",
-                    "pt": "Configurações gerais do projeto"
+                    "en": "Configure Live Desk",
+                    "es": "Configure Live Desk",
+                    "pt": "Configurar o Live Desk"
                   },
                   "slug": {
-                    "en": "general-project-settings",
-                    "es": "configuraciones-generales-de-proyecto",
-                    "pt": "configuracoes-gerais-do-projeto"
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38723,8 +38983,23 @@
                 },
                 {
                   "name": {
-                    "en": "Manage VTEX CX Platform Members",
-                    "es": "Administrar Miembros de la Plataforma VTEX CX",
+                    "en": "CX Platform Settings: Workspace",
+                    "es": "Configuración de CX Platform: Espacio de trabajo",
+                    "pt": "Configurações CX Platform: Espaço de trabalho"
+                  },
+                  "slug": {
+                    "en": "cx-platform-settings-workspace",
+                    "es": "configuracion-de-cx-platform-espacio-de-trabajo",
+                    "pt": "configuracoes-cx-platform-espaco-de-trabalho"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing VTEX CX Platform members",
+                    "es": "Gestionar miembros de VTEX CX Platform",
                     "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
@@ -38754,14 +39029,29 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Analytics: Criar dashboard personalizado",
-                    "en": "Analytics: Criar dashboard personalizado",
-                    "es": "Analytics: Criar dashboard personalizado"
+                    "en": "Analytics: Create custom dashboard",
+                    "es": "Analytics: Crear dashboard personalizado",
+                    "pt": "Analytics: Criar dashboard personalizado"
                   },
                   "slug": {
-                    "pt": "analytics-criar-dashboard-personalizado",
-                    "en": "",
-                    "es": ""
+                    "en": "create-analytics-dashboard",
+                    "es": "crear-dashboard-personalizado",
+                    "pt": "analytics-criar-dashboard-personalizado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Analytics: Support metrics",
+                    "es": "Analytics: Métricas de atención",
+                    "pt": "Analytics: Métricas de atendimento"
+                  },
+                  "slug": {
+                    "en": "analytics-support-metrics",
+                    "es": "analytics-metricas-de-atencion",
+                    "pt": "analytics-metricas-de-atendimento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38773,12 +39063,12 @@
               "name": {
                 "en": "Analytics",
                 "es": "Analytics",
-                "pt": "Analytics: Métricas de atendimento"
+                "pt": "Analytics"
               },
               "slug": {
                 "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
-                "pt": "vtex-cx-platform-analytics"
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -38794,6 +39084,83 @@
                 "en": "code-action-first-steps",
                 "es": "primeros-pasos-code-action",
                 "pt": "primeiros-passos-code-action"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Retail media",
+            "es": "Retail media",
+            "pt": "Retail media"
+          },
+          "slug": {
+            "en": "retail-media",
+            "es": "retail-media",
+            "pt": "retail-media"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "VTEX Ads metrics and attribution",
+                "es": "Métricas y atribución de VTEX Ads",
+                "pt": "Métricas e atribuição do VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-metrics-and-attribution",
+                "es": "metricas-y-atribucion-de-vtex-ads",
+                "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Suppliers",
+            "es": "Proveedores",
+            "pt": "Fornecedores"
+          },
+          "slug": {
+            "en": "suppliers",
+            "es": "proveedores",
+            "pt": "fornecedores"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Accounts Payable - Brazil",
+                "es": "Cuentas a Pagar - Brasil",
+                "pt": "Contas a Pagar - Brasil"
+              },
+              "slug": {
+                "en": "accounts-payable-brazil",
+                "es": "cuentas-a-pagar-brasil",
+                "pt": "contas-a-pagar-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Accounts Payable - International",
+                "es": "Cuentas por pagar - Internacional",
+                "pt": "Contas a pagar - Internacional"
+              },
+              "slug": {
+                "en": "accounts-payable-international",
+                "es": "cuentas-por-pagar-internacional",
+                "pt": "contas-a-pagar-internacional"
               },
               "origin": "",
               "type": "markdown",
@@ -39740,6 +40107,21 @@
                 "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
                 "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
                 "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Quotes Organization and Cost Center Filter doesn't work for users with Access All Quotes and Carts Permission",
+                "es": "Mi filtro de organización y centro de costos de cotizaciones no funciona para los usuarios con permiso de acceso a todas las cotizaciones y carritos.",
+                "pt": "A organização \"Minhas Cotações\" e o filtro de centro de custos não funcionam para usuários com permissão de acesso a todas as cotações e carrinhos."
+              },
+              "slug": {
+                "en": "my-quotes-organization-and-cost-center-filter-doesnt-work-for-users-with-access-all-quotes-and-carts-permission",
+                "es": "mi-filtro-de-organizacion-y-centro-de-costos-de-cotizaciones-no-funciona-para-los-usuarios-con-permiso-de-acceso-a-todas-las-cotizaciones-y-carritos",
+                "pt": "a-organizacao-minhas-cotacoes-e-o-filtro-de-centro-de-custos-nao-funcionam-para-usuarios-com-permissao-de-acesso-a-todas-as-cotacoes-e-carrinhos"
               },
               "origin": "",
               "type": "markdown",
@@ -54535,13 +54917,13 @@
             {
               "name": {
                 "en": "Timeout in Analytics Query Can Prevent Inventory Log from Loading",
-                "es": "El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario",
-                "pt": "O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário"
+                "es": "Un tiempo de espera agotado en una consulta de análisis puede impedir que se cargue el registro de inventario.",
+                "pt": "Um tempo limite excedido na consulta de análise pode impedir o carregamento do log de inventário."
               },
               "slug": {
                 "en": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
-                "es": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
-                "pt": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario"
+                "es": "un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario",
+                "pt": "um-tempo-limite-excedido-na-consulta-de-analise-pode-impedir-o-carregamento-do-log-de-inventario"
               },
               "origin": "",
               "type": "markdown",
@@ -63137,6 +63519,21 @@
             },
             {
               "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS",
                 "es": "Las transacciones con el conector TNSPay se rechazan por error: la tarjeta no está REGISTRADA en 3DS",
                 "pt": "Transações com o conector TNSPay estão sendo recusadas devido a um erro: Cartão não REGISTRADO no 3DS"
@@ -68977,6 +69374,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
+                "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
+                "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
+              },
+              "slug": {
+                "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
+                "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
+                "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
               },
               "origin": "",
               "type": "markdown",

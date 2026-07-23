@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2026-05-20T19:54:00.000Z
+updatedAt: 2026-07-20T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 
 O Master Data é uma solução da plataforma VTEX para banco de dados, que é altamente customizável, permitindo também a criação de aplicações.
 
-Por padrão, o Master Data é usado para armazenar e organizar dados de clientes da sua loja. Ele conta com um poderoso motor de busca, permitindo que você armazene, busque, expanda e personalize dados. 
+Por padrão, o Master Data é usado para armazenar e organizar dados de clientes da sua loja. Ele conta com um poderoso motor de busca, permitindo que você armazene, busque, expanda e personalize dados.
 
 Neste artigo você saberá mais detalhes sobre cada versão disponível do Master Data, conceitos importantes e como utilizar.
 
@@ -31,18 +31,18 @@ Atualmente existem duas versões disponíveis e você pode escolher aquela que m
 
 Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão versões se diferem.
 
-| **Funcionalidade**              | **v1**                                                                                                                                 | **v2**                                                                                                                                              | **Saiba mais**                                                                                                                                                                                                                                                                                                                                                                      |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Interface gráfica                | Sim                                                                                                                                    | Não                                                                                                                                                | -                                                                                                                                                                                                                                                                                                                                                                                    |
-| API                              | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview)                                                                                                                                                                                          |
-| Importação e exportação de planilhas | Sim                                                                                                                                    | Não                                                                                                                                                | - [Importar dados para o Master Data v1](/pt/docs/tutorials/importar-dados-no-master-data-v1)<br>- [Exportar dados do Master Data v1](/pt/docs/tutorials/exportando-dados)                                                                                                                                               |
-| Anexos (imagens)                 | Sim                                                                                                                                    | Não                                                                                                                                                | -                                                                                                                                                                                                                                                                                                                                                                                    |
-| Triggers                         | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Triggers](#triggers)<br>- [Criando triggers com Master Data v1](/pt/docs/tutorials/criando-trigger-no-master-data)<br>- [Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)                                                                                                      |
-| JSON Schemas                     | Não                                                                                                                                    | Sim                                                                                                                                                | - [JSON Schemas](http://json-schema.org/)<br>- [Entendendo JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Começando a trabalhar com JSON schemas no Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Ciclo de vida do schema no Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
-| Propriedades aninhadas           | Não                                                                                                                                    | Sim                                                                                                                                                | - [Propriedades aninhadas](#propriedades-aninhadas)                                                                                                                                                                                                                                                                                                                                  |
-| Entidades de dados               | Referenciadas por acrônimos compostos de duas letras maiúsculas. Por exemplo, a entidade 'CL' armazena dados de clientes da loja e 'AD' de endereços. Não podem ser criadas por API. | Referenciadas por seus nomes. Por exemplo, 'Notification'. Só podem ser criadas por API.                                                           | - [Entidades de dados](#entidades-de-dados)<br>- [Entidades de dados no Master Data v1](/pt/docs/tutorials/entidade-de-dados)<br>- [Criando relações entre entidades de dados do Master Data v2](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api)                                                  |
-| Campos                           | Devem ser preenchidos no formato específico configurado na entidade de dados.                                                          | A princípio, não há restrição de campos e formatos. A validação do formato acontece por meio de JSON schemas.                                      | - [Tipos de campos no Master Data v1](/pt/docs/tutorials/entidade-de-dados#entendendo-os-tipos)<br>- [JSON schemas](#v2-schemas)                                                                                                                                                                                                               |
-| Índices                          | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Configurar índices no Master Data v1](/pt/docs/tutorials/indices-no-master-data)<br>- [Configurar índices com a API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices)                                                                                  |
+| **Funcionalidade** | **v1** | **v2** | **Saiba mais** |
+| :--- | :--- | :--- | :--- |
+| Interface gráfica | ✅ Sim | ❌ Não | - |
+| API | ✅ Sim | ✅ Sim | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
+| Importação e exportação de planilhas | ✅ Sim | ❌ Não | - [Importar dados para o Master Data v1](/pt/docs/tutorials/importar-dados-no-master-data-v1)<br>- [Exportar dados do Master Data v1](/pt/docs/tutorials/exportando-dados) |
+| Anexos (imagens) | ✅ Sim | ❌ Não | - |
+| Triggers | ✅ Sim | ✅ Sim | - [Triggers](#triggers)<br>- [Criando triggers com Master Data v1](/pt/docs/tutorials/criando-trigger-no-master-data)<br>- [Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2) |
+| JSON Schemas | ❌ Não | ✅ Sim | - [JSON Schemas](http://json-schema.org/)<br>- [Entendendo JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Começando a trabalhar com JSON schemas no Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Ciclo de vida do schema no Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
+| Propriedades aninhadas | ❌ Não | ✅ Sim | - [Propriedades aninhadas](#propriedades-aninhadas) |
+| Entidades de dados | Referenciadas por acrônimos compostos de duas letras maiúsculas. Por exemplo, a entidade 'CL' armazena dados de clientes da loja e 'AD' de endereços. Não podem ser criadas por API. | Referenciadas por seus nomes. Por exemplo, 'Notification'. Só podem ser criadas por API. | - [Entidades de dados](#entidades-de-dados)<br>- [Entidades de dados no Master Data v1](/pt/docs/tutorials/entidade-de-dados)<br>- [Criando relações entre entidades de dados do Master Data v2](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api) |
+| Campos | Devem ser preenchidos no formato específico configurado na entidade de dados. | A princípio, não há restrição de campos e formatos. A validação do formato acontece por meio de JSON schemas. | - [Tipos de campos no Master Data v1](/pt/docs/tutorials/entidade-de-dados#entendendo-os-tipos)<br>- [JSON schemas](#v2-schemas) |
+| Índices | ✅ Sim | ✅ Sim | - [Configurar índices no Master Data v1](/pt/docs/tutorials/indices-no-master-data)<br>- [Configurar índices com a API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices) |
 
 > ❗ Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
 
@@ -97,6 +97,7 @@ Por exemplo, é possível consultar um documento com informações de um cliente
 ## Triggers
 
 Um trigger do Master Data é um mecanismo que executa uma ação após a criação ou atualização de um documento, dado que satisfeitas as condições estabelecidas na configuração. Estas ações podem ser de três tipos:
+
 - Enviar requisição HTTP.
 - Enviar email.
 - Salvar documento em outra entidade de dados.
@@ -121,8 +122,8 @@ Algumas entidades de dados são criadas automaticamente pela VTEX para suportar 
 
 ### Entidades nativas do Master Data v1
 
-| **Entidad** | **Descripción** |
-|-----------|----------|
+| **Entidade** | **Descrição** |
+| :--- | :--- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -149,8 +150,8 @@ Algumas entidades de dados são criadas automaticamente pela VTEX para suportar 
 
 ### Entidades nativas do Master Data v2
 
-| **Entidad** | **Descripción** |
-|-----------|----------|
+| **Entidade** | **Descrição** |
+| :--- | :--- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |
@@ -284,7 +285,7 @@ Entidades personalizadas podem ser criadas:
 
 O uso de entidades nativas é gratuito. O uso de entidades personalizadas é cobrado mensalmente, em faixas que variam conforme o volume total de documentos armazenados. Para fins de cobrança, cada arquivo de até 100KB é contabilizado como um documento.
 
-Para conhecer os valores aplicáveis à sua operação, consulte seu contrato comercial ou entre em contato com o [suporte VTEX](https://support.vtex.com/).
+Para conhecer os valores aplicáveis à sua operação, consulte seu contrato comercial ou entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support).
 
 A cada pagamento realizado durante a vigência do contrato, é concedido um crédito de faturamento equivalente a 2% do valor líquido pago pelos produtos VTEX Commerce Platform e CX Commerce Platform. Os créditos acumulam ao longo do contrato e ficam disponíveis para uso até o seu encerramento.
 
@@ -292,6 +293,8 @@ A medição e a cobrança seguem um ciclo mensal:
 
 - Ao final de cada mês, é gerado um snapshot do volume de documentos armazenados em entidades não nativas.
 - Até o dia 30 de cada mês, a VTEX calcula os valores referentes ao uso do Master Data e os créditos aplicáveis para a próxima fatura.
+
+> ℹ️ Para monitorar o volume de documentos em entidades personalizadas ao longo do mês, consulte o dashboard **Master Data usage** no Admin VTEX. Este dashboard é atualizado semanalmente e destinado apenas ao acompanhamento do uso. Para saber como acessá-lo, veja [Consultar o uso do Master Data no Admin VTEX](/pt/docs/tutorials/consultar-o-uso-do-master-data-no-admin-vtex).
 
 > ℹ️ Para consultar o detalhamento de cobranças, veja como [fazer o download das faturas da VTEX](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
 
@@ -310,4 +313,3 @@ Saiba como configurar [testes A/B com Master Data v2](https://developers.vtex.co
 O Master Data também pode ser utilizado para criar integrações de carrinho abandonado. Ou seja, a realização de ações automáticas sempre que um cliente adicionar produtos no carrinho da sua loja e terminar sua sessão sem finalizar a compra.
 
 Para saber mais veja este guia sobre [configuração de carrinho abandonado](/pt/docs/tutorials/configurar-carrinho-abandonado)
-

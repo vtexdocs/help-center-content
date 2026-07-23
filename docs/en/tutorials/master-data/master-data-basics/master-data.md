@@ -3,7 +3,7 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2025-09-02T23:26:45.478Z
+updatedAt: 2026-07-20T00:00:00.000Z
 publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
@@ -15,106 +15,107 @@ locale: en
 subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
-Master Data is a VTEX database platform solution, which is highly customizable, and it also enables you to create applications.
+Master Data is a highly customizable VTEX platform solution for databases, which also allows you to create applications.
 
-By default, Master Data is used to store and organize Customer data from your store. It features a powerful search engine, allowing you to store, search, expand, and customize data.
+By default, Master Data is used to store and organize your store's customer data. It features a powerful search engine that allows you to store, search, expand, and customize data.
 
-In this article you will learn more about each available version of the Master Data, important concepts, and how to use it.
+In this article, you'll find details about each available version of Master Data, key concepts, and how to use them.
 
-> ℹ️ Note that depending on the functionality and version you wish to use, it is necessary to contact your development team.
+> ℹ️ Note that depending on the feature and version you want to use, you'll need to contact your operation's development team.
 
-## Versions available
+## Available versions
 
-Currently there are two versions available and you can choose the one that best suits your operational needs. The main difference between the two is that v2 does not have a graphical interface and can be used only through [Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2), although it has other relevant functionalities, such as the use of [JSON schemas](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
+There are currently two available versions, and you can choose the one that best fits your operation's needs. The main difference between the two is that v2 doesn't have a graphical interface and can only be used through the [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2), even though it has other relevant features, such as the use of [JSON schemas](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
 
-> ℹ️ VTEX automatically saves customer data from your store in Master Data v1.
+> ℹ️ VTEX automatically saves your store's customer data in Master Data v1.
 
-Check the table below to learn more about the different functionalities of each version.
+Check the table below to learn more about how the features of each version differ.
 
-| Functionality                         | v1                                                                                                                                      | v2                                                                                                          | Learn more                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Graphical interface                   | Yes                                                                                                                                    | No                                                                                                           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| API                                   | Yes                                                                                                                                    | Yes                                                                                                          | - [Master Data v1 API](https://developers.vtex.com/docs/api-reference/masterdata-api) <br> - [Master Data v2 API](https://developers.vtex.com/vtex-rest-api/reference/master-data-api-v2-overview)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Importing and exporting spreadsheets  | Yes                                                                                                                                    | No                                                                                                           | - [Import data into Master Data v1](/en/docs/tutorials/importing-data-into-master-data-v1) <br> - [Export data from Master Data v1](/en/docs/tutorials/exporting-data)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Attachments (imagens)                 | Yes                                                                                                                                    | No                                                                                                           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Triggers                              | Yes                                                                                                                                    | Yes                                                                                                          | - [Triggers](#triggers) <br> - [Creating triggers with Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data) <br> - [Creating triggers with Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)                                                                                                                                                                                                                                                                                                                                 |
-| JSON Schemas                          | No                                                                                                                                     | Yes                                                                                                          | - [JSON schemas](http://json-schema.org/) <br> - [Understanding JSON schemas](https://json-schema.org/understanding-json-schema) <br> - [Starting to work with JSON schemas in Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/starting-to-work-on-master-data-with-json-schema) <br> - [Schema life cycle in Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/master-data-schema-lifecycle)                                                                                                                                                                                                                 |
-| Nested properties                     | No                                                                                                                                     | Yes                                                                                                          | - [Nested properties](#nested-properties)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Data entities                         | Referenced by acronyms composed of two capital letters. For example, the 'CL' entity stores client data from the store and 'AD' stores addresses. Cannot be created via API. | Referenced by their names. For example, 'Notification'. Can only be created via API.                         | - [Data entities](#data-entities) <br> - [Data entities in Master Data v1](/en/docs/tutorials/data-entity) <br> - [Creating relationships between Master Data v2 data entities](https://developers.vtex.com/vtex-rest-api/docs/creating-relationships-between-data-entities-using-api)                                                                                                                                                                                                                                                                                             |
-| Fields                                | Must be filled in in the specific format configured in the data entity.                                                                | At first, there is no restriction on fields's formats. Format is validated through JSON schemas.             | - [Field types in Master Data v1](/en/docs/tutorials/data-entity#understanding-the-types) <br> - [JSON schemas](#v2-schemas)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Indexes                               | Yes                                                                                                                                    | Yes                                                                                                          | - [How to set up indexes in Master Data v1](/en/docs/tutorials/indexes-in-master-data) <br> - [How to set up indexes with Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices)                                                                                                                                                                                                                                                                                                                                                            |
+| Functionality | v1 | v2 | Learn more |
+| :--- | :--- | :--- | :--- |
+| Graphical interface | ✅ Yes | ❌ No | - |
+| API | ✅ Yes | ✅ Yes | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
+| Spreadsheet import and export | ✅ Yes | ❌ No | - [Importing data to Master Data v1](/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/docs/tutorials/exporting-data) |
+| Attachments (images) | ✅ Yes | ❌ No | - |
+| Triggers | ✅ Yes | ✅ Yes | - [Triggers](#triggers)<br>- [Creating triggers with Master Data v1](/docs/tutorials/creating-trigger-in-master-data)<br>- [Creating triggers with Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2) |
+| JSON Schemas | ❌ No | ✅ Yes | - [JSON Schemas](http://json-schema.org/)<br>- [Understanding JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Getting started with JSON schemas in Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Schema lifecycle in Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
+| Nested properties | ❌ No | ✅ Yes | - [Nested properties](#nested-properties) |
+| Data entities | Referenced by acronyms composed of two uppercase letters. For example, the entity 'CL' stores customer data, and 'AD' stores their address data. They can't be created via API. | Referenced by name. For example, 'Notification'. They can only be created via API. | - [Data entities](#data-entities)<br>- [Data entities in Master Data v1](/docs/tutorials/data-entity)<br>- [Creating relationships between Master Data v2 data entities](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api) |
+| Fields | They must be completed in the specific format configured in the data entity. | In principle, there are no restrictions on fields or formats. Format validation happens through JSON schemas. | - [Field types in Master Data v1](/docs/tutorials/data-entity#data-types)<br>- [JSON schemas](#v2-schemas) |
+| Indexes | ✅ Yes | ✅ Yes | - [Configure indices in Master Data v1](/docs/tutorials/indexes-in-master-data)<br>- [Configure indices with the Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices) |
 
-> ❗ Note that the data entities of the two versions are independent, even if some may be analogous. This means that a data created in a v1 entity cannot be queried or edited using v2 resources and vice versa.
+> ❗ Note that the data entities of the two versions are independent, even if some may be analogous. This means that data created in a v1 entity can't be queried or edited using v2 resources and vice versa.
 
 ## Basic components
 
-Both versions of Master Data use some basic components, which may be equivalent to concepts found in other database solutions, with other names such as record or table. Below you can find more details about:
+Both versions of Master Data use some basic components equivalent to concepts found in other database solutions, under different names such as records or tables. Below, you'll find more details about:
 
 - [Data entities](#data-entities)
 - [Documents](#documents)
-- [Fields](fields)
+- [Fields](#fields)
 - [Indexes](#indexes)
 
 ### Data entities
 
-Data entities are in the form of tables where documents and fields are recorded.
+Data entities are like tables where documents and fields are recorded.
 
-Master Data v1 data entities are referenced by acronyms composed of two capital letters. In v2, you can use the name of the data entity. For example, in v1, the 'CL' entity stores Client data from the store and 'AD' stores client addresses. Equivalent entities in v2 can be referenced with names such as 'Client' and 'Address'.
+Master Data v1 data entities are referenced by acronyms composed of two uppercase letters. In v2, you can use the data entity name instead. For example, in v1 the `CL` entity stores customer data, while `AD` stores their address data. Equivalent entities in v2 can be referenced with names such as `Client` and `Address`.
 
-In a data entity date, the information is structured in [documents](#documents) and [fields](#fields).
+In a data entity, information is structured into [documents](#documents) and [fields](#fields).
 
 ### Documents
 
-Documents are records in a data entity. If data entities are in the form of tables, each document represents a row in a table.
+Documents are records within a data entity. If data entities are like tables, each document is a row in a table.
 
-For example, within an entity that stores client data from the store, such as 'CL' or 'Client', each document contains information from a client.
+For example, within a data entity that stores the store's customer data, such as `CL` or `Client`, each document contains information about a customer.
 
-Each document has an ID automatically generated by the platform at the time of its creation, a unique code that identifies that record.
+Each document has an ID automatically generated by the platform when it's created, a unique code that identifies that record.
 
 ### Fields
 
-The attributes that make up Master Data documents are called fields. When comparing data entities with tables, we can think of the fields as the columns of a table.
+The attributes that compose Master Data documents are called fields. When comparing data entities to tables, you can think of fields as the columns of a table.
 
-For example, in an entity that stores client data from the store, such as 'CL' or 'Client', we may fill in fields such as **name**, **email**, **date of birth**, and **document**.
+For example, in an entity that stores the store's customer data, such as `CL` or `Client`, you can complete fields like **name**, **email**, **date of birth**, and **document**.
 
-In Master Data v1, the fields must be filled in in the specific format configured in the data entity. Learn more about [the field types in Master Data v1](/en/docs/tutorials/data-entity#entendendo-os-tipos).
+In Master Data v1, fields must be completed in the specific format configured for the data entity. Learn more about [field types in Master Data v1](/docs/tutorials/data-entity).
 
-However, in v2, there is no restriction on fields and formats. Format validation is made through [JSON schemas](#v2-schemas).
+In v2, however, there's no restriction on fields or formats at first. Format validation happens through [JSON schemas](#v2-schemas).
 
 #### Nested properties
 
-Master Data v2 allows you to structure the data with nested properties, a structure often found in the [JSON](https://www.json.org/json-en.html) format. This concept consists of the possibility of creating composite fields from other fields, to better structure the data. For example, a client profile might have the field 'Document', which in turn consists of the 'Type' and 'Number' properties. You can also create nested [triggers](#triggers).
+Master Data v2 allows you to structure data with nested properties, a format often used in [JSON](https://www.json.org/json-en.html). This concept allows you to create fields composed of other fields for better data structuring. For example, a customer profile can have a `Document` field, which in turn is composed of the `Type` and `Number` properties. You can also create nested [triggers](#triggers).
 
-### Indices
+### Indexes
 
-Indices are used to specify a document to be accessed, indicated by an indexed field instead of its ID.
+Indexes are used to specify a document to be accessed, identified by an indexed field instead of its ID.
 
-As mentioned above, each document has an ID automatically generated by the platform at the time of its creation. If you want to query a document but do not know its ID, you can use indices.
+As mentioned above, each document has an ID automatically generated by the platform when it's created. If you want to query a document but don't know its ID, you can use indexes.
 
-For example, you can query a document with a client's information by specifying the value of the 'email' field for the client.
+For example, you can query a document containing a customer's information by specifying the value of the `email` field associated with that customer.
 
-> ℹ️ Learn more about [setting up indexes in Master Data v1](/en/docs/tutorials/indexes-in-master-data) or [setting up indexes with Master Data v2 API](https://developers.vtex.com/vtex-rest-api/reference/putindices).
+> ℹ️ Learn more about how to [configure indexes in Master Data v1](/docs/tutorials/indexes-in-master-data) or [configure indexes with the Master Data v2 API](https://developers.vtex.com/vtex-rest-api/reference/putindices).
 
 ## Triggers
 
-A Master Data trigger is a mechanism that performs an action after creating or updating a document, if the conditions set in the configuration are met. These actions can be of three types:
-- Send HTTP request.
-- Send an email.
-- Save document in another data entity.
+A Master Data trigger is a mechanism that executes an action after a document is created or updated, provided the conditions set in the configuration are met. These actions can be of three types:
 
-Learn more about how [to configure triggers in Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data) or how [to configure triggers with Master Data v2 API](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
+- Submit HTTP request.
+- Send email.
+- Save a document in another data entity.
+
+Learn more about how to [configure triggers in Master Data v1](/docs/tutorials/creating-trigger-in-master-data) or how to [configure triggers with the Master Data v2 API](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2).
 
 ## v2 schemas
 
-With Master Data v2, you can define data formats with JSON schemas. This format indicates how the Master Data should validate and index documents.
+With Master Data v2, you can define data formats using JSON schemas. This format indicates how Master Data should validate and index documents.
 
 > ℹ️ Learn more about [JSON schemas](https://json-schema.org/).
 
-You can save a document to any data entity if the content is a valid JSON. A data entity may or may not have multiple JSON schemas associated with it.
+You can save a document in any data entity as long as the content is valid JSON. A data entity may or may not have multiple JSON schemas associated with it.
 
 ![Master Data schemas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-basics/master-data_1.jpg)
 
-> ℹ️ A document can be compatible with multiple JSON Schemas, but also with none.
+> ℹ️ A document can be compatible with multiple JSON schemas, or with none at all.
 
 ## Master Data native entities
 
@@ -123,7 +124,7 @@ Some data entities are automatically created by VTEX to support native platform 
 ### Master Data v1 native entities
 
 | **Entity** | **Description** |
-|----------|--------|
+| :--- | :--- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -146,12 +147,12 @@ Some data entities are automatically created by VTEX to support native platform 
 | `se` | - |
 | `sl` | - |
 | `so` | Stores |
-| `SP` | Middleware Smiles Checkout |
+| `SP` | Smiles Checkout Middleware |
 
 ### Master Data v2 native entities
 
 | **Entity** | **Description** |
-|----------|--------|
+| :--- | :--- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |
@@ -197,7 +198,7 @@ Some data entities are automatically created by VTEX to support native platform 
 | `giftCardList` | Gift Card List |
 | `import_session` | Products Import |
 | `import_session_config` | Products Import |
-| `instoreSettings` | Admin InStore (POS) |
+| `instoreSettings` | Admin inStore (POS) |
 | `interaction` | Shipment Tracker |
 | `leyGondolas` | Admin Ley de Góndolas ARG |
 | `logisticsorderinfo` | Logistics order info |
@@ -258,7 +259,7 @@ Some data entities are automatically created by VTEX to support native platform 
 | `tms_orders` | TMS orders |
 | `tradePolicyConfig` | Vertex O Series |
 | `trainingBanners` | Training Banners App |
-| `transaction` | Digital Currency |
+| `transactions` | Digital Currency |
 | `transportation_order` | Transportation order |
 | `userAffiliation` | Affiliates |
 | `UserOrganization` | Easy Setup (legacy B2B seeder) |
@@ -274,42 +275,42 @@ Some data entities are automatically created by VTEX to support native platform 
 
 ## Custom data entities
 
-In addition to the [native entities](#master-data-native-entities) automatically created by VTEX, such as `CL` (clients), `AD` (addresses), and other standard entities of the commerce platform, your operation can create custom data entities to store business-specific information.
+In addition to the [native entities](#master-data-native-entities) automatically created by VTEX, such as `CL` (customers), `AD` (addresses), and other default entities of the commerce platform, your operation can create custom data entities to store business-specific information.
 
-Custom entities can be created:
+You can create custom entities as follows:
 
-- In v1, through the VTEX Admin. Learn how to [create a data entity](/en/docs/tutorials/data-entity).
+- In v1, through the VTEX Admin. Learn how to [create a data entity](/docs/tutorials/data-entity).
 - In v2, exclusively through the [Master Data v2 API](https://developers.vtex.com/docs/api-reference/master-data-api-v2).
 
 ### Billing
 
-The use of native entities is free of charge. The use of custom entities is billed monthly, with tiers based on the total number of documents stored. For billing purposes, each file of up to 100KB is counted as one document.
+The use of native entities is free of charge. The use of custom entities is billed monthly, with tiers based on the total number of documents stored. For billing purposes, each file up to 100KB is counted as one document.
 
-To learn about the amount applicable to your operation, see your commercial agreement or contact [VTEX support](https://support.vtex.com/).
+To learn about the amounts applicable to your operation, see your commercial agreement or contact [VTEX support](https://help.vtex.com/en/support).
 
-For each payment made during the term of the agreement, a billing credit corresponding to 2% of the net amount paid for VTEX Commerce Platform and CX Commerce Platform products will be granted. The credits accumulate throughout the term of the agreement and remain available for use until its termination.
+For each payment made during the term of the agreement, a billing credit equivalent to 2% of the net amount paid for VTEX Commerce Platform and CX Commerce Platform products is granted. The credits accumulate throughout the agreement and remain available for use until its termination.
 
 Measurement and billing follow a monthly cycle:
 
-- At the end of each month, a snapshot of the document volume stored in non-native entities is generated.
+- At the end of each month, a snapshot of the number of documents stored in custom entities is generated.
 - By the 30th of each month, VTEX calculates the amounts related to Master Data usage and the applicable credits for the next invoice.
 
+> ℹ️ To track the number of documents in custom entities throughout the month, check the **Master Data usage** dashboard in the VTEX Admin. This dashboard is updated weekly and is intended only for usage tracking. To learn how to access it, see [Checking Master Data usage in the VTEX Admin](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin).
 
-> ℹ️ To view billing details, learn how to [download VTEX invoices](/en/docs/tutorials/how-to-download-the-vtex-invoices).
+> ℹ️ To view billing details, learn how to [download VTEX invoices](/docs/tutorials/how-to-download-the-vtex-invoices).
 
-## Applications
+## Use cases
 
-Both versions of Master Data are extremely flexible, allowing you to meet a variety of your store's needs. You may check below some examples of applying Master Data functionalities.
+Both versions of Master Data are natively suitable for managing your store's customer data. As mentioned above, they're extremely flexible, allowing you to meet a variety of your store's needs. See below some examples of how Master Data features can be applied beyond basic customer data management.
 
-### A/B Testing
+### A/B tests
 
-With v2 triggers, you can establish multiple actions for the same trigger by setting the load percentage that each action should receive. Therefore, it is possible to comparatively test the impact of different automations on your store.
+With v2 triggers, you can configure multiple actions for the same trigger and define the percentage of load each action should receive. This allows you to comparatively test the impact of different automations in your store.
 
-Learn how to configure [A/B testing with Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-an-ab-test-with-master-data-v2-trigger).
+Learn how to configure [A/B tests with Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-an-ab-test-with-master-data-v2-trigger).
 
 ### Abandoned cart
 
-Master Data can also be used to create abandoned cart integrations, i.e. performing automatic actions whenever clients add products to their store cart and log out without checking out.
+Master Data can also be used to create abandoned cart integrations. In other words, automatic actions triggered whenever a customer adds products to the cart and ends their session without completing the purchase.
 
-To learn more, please see this guide on [abandoned cart configuration](/en/docs/tutorials/setting-up-abandoned-carts)
-
+To learn more, see this guide on [configuring abandoned cart](/docs/tutorials/setting-up-abandoned-carts)

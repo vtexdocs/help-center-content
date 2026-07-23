@@ -32,7 +32,7 @@ Acesse configurações e funcionalidades para otimizar os resultados de busca:
 Acesse relatórios para monitorar o Intelligent Search:
 
 * [Explicação da busca](/pt/docs/tutorials/explicacao-da-busca): simula buscas e exibe todas as referências que foram utilizadas para determinar a ordenação dos resultados.  
-* [Analytics](/pt/docs/tutorials/analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.  
+* [Analytics](/pt/docs/tutorials/intelligent-search-analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.  
 * [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao): monitora a situação de sincronização de todos os produtos do [Catálogo](/pt/subcategory/catalogo-visao-geral--6jaCCq5pVL7VxL0WNWV0cF) enviados para o Intelligent Search.
 
 ## Funcionamento da busca
