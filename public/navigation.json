@@ -18801,12 +18801,12 @@
                 {
                   "name": {
                     "en": "Generating a financial report",
-                    "es": "Generating a financial report",
+                    "es": "Generar un informe financiero",
                     "pt": "Generating a financial report"
                   },
                   "slug": {
                     "en": "generating-a-financial-report",
-                    "es": "",
+                    "es": "generar-un-informe-financiero",
                     "pt": ""
                   },
                   "origin": "",
