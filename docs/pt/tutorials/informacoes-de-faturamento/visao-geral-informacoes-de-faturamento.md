@@ -16,38 +16,36 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 order: 1
 ---
 
-**Informações de faturamento** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
+**Informações de faturamento** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. 
 
-Para acessá-la, clique no seu avatar — identificado pela inicial do seu e-mail, no canto superior direito — e clique em **Informações de faturamento**. Em seguida, selecione a página que deseja acessar:
+> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar esta seção do Admin VTEX. Para saber como configurar esses acessos, veja o artigo [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou solicite ao proprietário da loja que ajuste as permissões.
+
+Para acessar essa página, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito e, em seguida, em **Informações de faturamento**. Depois, selecione a página que deseja acessar:
 
 - [Contratos](#contratos)
 - [Faturas](#faturas)
 - [Dados cadastrais](#dados-cadastrais)
 - [Contatos de faturamento](contatos-de-faturamento)
 
-> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
-
 ![visao-geral-informacoes-de-faturamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/informacoes-de-faturamento/visao-geral-informacoes-de-faturamento-1.jpg)
-
-Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso.
 
 ## Contratos
 
-Na página **Contratos**, você encontra os contratos relacionados à sua loja. Algumas lojas podem ter mais de um contrato por terem adquirido diferentes produtos ou serviços VTEX.
+Na página **Contratos**, você encontra os contratos relacionados à sua loja. Algumas lojas podem ter mais de um contrato por terem adquirido diferentes produtos ou serviços da VTEX.
 
 ## Faturas
 
-Na página **Faturas**, você encontra um extrato com todos os títulos de pagamento da sua loja, organizados por mês. Cada título traz informações sobre o valor, a data de vencimento e o tipo de contrato que está sendo cobrado.
+Na página **Faturas**, você encontra um extrato com todos os títulos de pagamento da sua loja, organizados por mês. Cada título traz informações sobre o valor, a data de vencimento e o tipo de contrato cobrado.
 
 >ℹ️ A VTEX adota o modelo pós-pago, no qual a cobrança ocorre no mês seguinte ao da utilização do serviço. 
 
-Para consultar o detalhamento de cada fatura, consulte o artigo Como verificar o detalhamento das minhas faturas.
+Para consultar o detalhamento de cada fatura, leia o artigo [Verificar o detalhamento das faturas](/pt/docs/tutorials/verificar-o-detalhamento-das-faturas).
 
 ## Dados cadastrais
 
 A página **Dados cadastrais** reúne as informações que você inseriu ao cadastrar a sua loja. Estão disponíveis para edição apenas o seu nome e o seu endereço.
 
-Para alterar outras informações, leia o artigo [Verificar o detalhamento das faturas](/pt/docs/tutorials/verificar-o-detalhamento-das-faturas).
+Para alterar outras informações, leia o artigo [Alterar os dados cadastrais da loja](/pt/docs/tutorials/alterar-os-dados-cadastrais-da-loja).
 
 ## Contatos de faturamento
 
