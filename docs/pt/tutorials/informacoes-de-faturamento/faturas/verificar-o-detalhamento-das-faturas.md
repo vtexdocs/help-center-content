@@ -20,6 +20,6 @@ As faturas são exibidas por mês e identificadas por cores, que indicam a situa
 
 ### Instruções
 
-Para visualizar o detalhamento do que foi cobrado em uma fatura, localize-a na lista e clique em **Detalhes**. A fatura será expandida, mostrando cada conceito que compõe o valor cobrado. Saiba como baixar uma fatura em [Baixar faturas da VTEX](/pt/docs/tutorials/baixar-faturas-da-vtex).
+Para visualizar o detalhamento do que foi cobrado em uma fatura, localize-a na lista e clique em **Detalhes**. A fatura será expandida, exibindo detalhadamente cada item que compõe o valor cobrado. Para saber como baixar uma fatura, consulte [Baixar faturas da VTEX](/pt/docs/tutorials/baixar-faturas-da-vtex).
 
-Para verificar quais pedidos estão incluídos no faturamento, consulte o relatório financeiro, que consolida todos os pedidos do período considerados para a cobrança. Saiba como gerar esse relatório em [Baixar um relatório financeiro](/pt/docs/tutorials/baixar-um-relatorio-financeiro).
+Para verificar quais pedidos estão incluídos no faturamento, consulte o relatório financeiro, que consolida todos os pedidos do período considerados para a cobrança. Para saber como gerar esse relatório, consulte [Gerar um relatório financeiro](/pt/docs/tutorials/gerar-um-relatorio-financeiro).
