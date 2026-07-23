@@ -6,4 +6,6 @@ contentType: tutorial
 productTeam: Billing
 slugEN: checking-the-invoice-details
 locale: es
+seeAlso:
+  - "/es/docs/tutorials/vision-general-facturacion"
 ---
