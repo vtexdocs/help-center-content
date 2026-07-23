@@ -121,8 +121,8 @@ Para buscar a partir de la URL de tu tienda, agrega parámetros de búsqueda (qu
 
 Los posibles tipos de valores para el campo tipo del ID son `product.id`, `sku.id`, `sku.ean`, `sku.reference` o `id` (ProductID, ProductRefID, SKUID, SKURefID y EAN). Cabe resaltar que todos los IDs deben ser del mismo tipo.
 
-* **Búsqueda por ID de SKU:** `?q=sku.id:<id>` o `?q=sku:<id>`
-* **Búsqueda por EAN:** `?q=sku.ean:<id>`
-* **Búsqueda por ID de referencia:** `?q=sku.reference:<id>`
-* **Búsqueda por slug:** `?q=product.link:<link>`
-* **Búsqueda por ID de producto:** `?q=product:<id>` o `?q=product.id:<id>`
+- **Búsqueda por ID de SKU:** `?q=sku.id:<id>` o `?q=sku:<id>`
+- **Búsqueda por EAN:** `?q=sku.ean:<id>`
+- **Búsqueda por ID de referencia:** `?q=sku.reference:<id>`
+- **Búsqueda por slug:** `?q=product.link:<link>`
+- **Búsqueda por ID de producto:** `?q=product:<id>` o `?q=product.id:<id>`

@@ -121,8 +121,8 @@ To search from your store URL, add search parameters (_query_) at the end of the
 
 The possible value types for the ID type field are `product.id`, `sku.id`, `sku.ean`, `sku.reference`, or `id` (ProductID, ProductRefID, SKUID, SKURefID, and EAN). All searched IDs should be of the same type.
 
-* **Search by SKU ID:**  `?q=sku.id:<id>` or `?q=sku:<id>`
-* **Search by EAN:**  `?q=sku.ean:<id>`
-* **Search by reference ID:**  `?q=sku.reference:<id>`
-* **Search by slug:**  `?q=product.link:<link>`
-* **Search by product ID:**  `?q=product:<id>` or `?q=product.id:<id>`
+- **Search by SKU ID:**  `?q=sku.id:<id>` or `?q=sku:<id>`
+- **Search by EAN:**  `?q=sku.ean:<id>`
+- **Search by reference ID:**  `?q=sku.reference:<id>`
+- **Search by slug:**  `?q=product.link:<link>`
+- **Search by product ID:**  `?q=product:<id>` or `?q=product.id:<id>`
