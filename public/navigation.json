@@ -18800,6 +18800,21 @@
                 },
                 {
                   "name": {
+                    "en": "Downloading VTEX invoices",
+                    "es": "Downloading VTEX invoices",
+                    "pt": "Downloading VTEX invoices"
+                  },
+                  "slug": {
+                    "en": "downloading-vtex-invoices",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18808,21 +18823,6 @@
                     "en": "how-and-when-do-i-receive-my-invoice",
                     "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
                     "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to download the VTEX invoices",
-                    "es": "Cómo descargar las facturas de VTEX",
-                    "pt": "Como fazer download das faturas da VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-download-the-vtex-invoices",
-                    "es": "como-descargar-las-facturas-de-vtex",
-                    "pt": "como-fazer-download-faturas-da-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23443,6 +23443,53 @@
                     "en": "vtex-status-page",
                     "es": "pagina-vtex-status",
                     "pt": "pagina-de-status-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Facturación",
+            "es": "Facturación",
+            "pt": "Informações de faturamento"
+          },
+          "slug": {
+            "en": "facturacion",
+            "es": "facturacion-categoria",
+            "pt": "informacoes-de-faturamento-categoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Facturas",
+                "es": "Facturas",
+                "pt": "Faturas"
+              },
+              "slug": {
+                "en": "facturas",
+                "es": "facturas-subcategoria",
+                "pt": "faturas-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Cómo descargar las facturas de VTEX",
+                    "pt": "Baixar notas fiscais e boletos da VTEX",
+                    "en": "Cómo descargar las facturas de VTEX"
+                  },
+                  "slug": {
+                    "es": "como-descargar-las-facturas-de-vtex",
+                    "pt": "baixar-notas-fiscais-e-boletos-da-vtex",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
