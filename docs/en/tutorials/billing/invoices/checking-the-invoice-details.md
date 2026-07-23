@@ -6,4 +6,6 @@ contentType: tutorial
 productTeam: Billing
 slugEN: checking-the-invoice-details
 locale: en
+seeAlso:
+  - "/docs/tutorials/billing-module-overview"
 ---
