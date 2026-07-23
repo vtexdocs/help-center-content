@@ -4,7 +4,7 @@ createdAt: 2026-07-23T15:12:38.888Z
 updatedAt: 2026-07-23T15:12:38.888Z
 contentType: tutorial
 productTeam: Billing
-slugEN: generate-a-financial-report
+slugEN: generating-a-financial-report
 locale: pt
 seeAlso:
   - "/pt/docs/tutorials/visao-geral-informacoes-de-faturamento"
