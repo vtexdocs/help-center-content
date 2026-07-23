@@ -36,7 +36,7 @@ Para baixar uma nota fiscal, siga estes passos:
 
 ### Baixar um boleto
 
->⚠️ As instruções desta seção se aplicam apenas a clientes faturados no Brasil.
+>⚠️ As instruções desta seção se aplicam apenas a clientes com faturamento no Brasil.
 
 Clientes com faturamento no Brasil podem emitir uma nova via do boleto seguindo estas etapas:
 
