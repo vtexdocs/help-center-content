@@ -19,9 +19,9 @@ The Search Engine is the core of VTEX Intelligent Search's intelligence. It inte
 
 This feature is included by default in VTEX Intelligent Search and covers the vast majority of scenarios. However, you can also adjust the Search Engine to improve search results. This guide covers the following:
 
-* [Standard search behavior](#standard-search-behavior)
-* [Search behavior configuration](#search-behavior-configuration)
-* [Alternative ways to search](#alternative-ways-to-search)
+- [Standard search behavior](#standard-search-behavior)
+- [Search behavior configuration](#search-behavior-configuration)
+- [Alternative ways to search](#alternative-ways-to-search)
 
 ## Standard search behavior
 
@@ -31,25 +31,25 @@ The following are characteristics of Intelligent Search's standard behavior.
 
 Users can make spelling mistakes when searching. The tool interprets these misspellings and shows similar products.
 
-The search engine automatically corrects each search result based on items added to the catalog. For each search term, a specific number of wrong characters is allowed. The number of accepted misspellings is called _fuzzy_.
+The search engine automatically corrects each search result based on items added to the catalog. For each search term, a specific number of wrong characters is allowed. The number of accepted misspellings is called *fuzzy*.
 
-The _fuzzy_ value varies depending on the length of the search term. By default, if the term is 3 to 5 characters long, the _fuzzy_ applied will be 1, which means that 1 misspelled character is allowed. For terms of 6 characters or more, the _fuzzy_ applied will be 2.
+The *fuzzy* value varies depending on the length of the search term. By default, if the term is 3 to 5 characters long, the *fuzzy* applied will be 1, which means that 1 misspelled character is allowed. For terms of 6 characters or more, the *fuzzy* applied will be 2.
 
-The types of misspellings accepted when _fuzzy_ = 1 include:
+The types of misspellings accepted when *fuzzy* = 1 include:
 
-* Add 1 more character.
-* Remove 1 character.
-* Change 1 character.
-* Swap 2 characters that are next to each other.
+- Add 1 more character.
+- Remove 1 character.
+- Change 1 character.
+- Swap 2 characters that are next to each other.
 
-Example: Suppose a customer wants to search for the term `ball`. Using the default configuration (_fuzzy_ = 1 for terms of 3 to 5 characters), the search engine will return results for `ball` in any search that contains accepted errors, such as:
+Example: Suppose a customer wants to search for the term `ball`. Using the default configuration (*fuzzy* = 1 for terms of 3 to 5 characters), the search engine will return results for `ball` in any search that contains accepted errors, such as:
 
-* `bawll` (add 1 more character)
-* `bal` (remove 1 character)
-* `balk` (change 1 character)
-* `abll` (swap 2 characters next to each other)
+- `bawll` (add 1 more character)
+- `bal` (remove 1 character)
+- `balk` (change 1 character)
+- `abll` (swap 2 characters next to each other)
 
-> ℹ️ Blank spaces aren't accounted for in _fuzzy_ matching, so `base ball` won't be corrected to `baseball`. We recommend using [synonyms](/en/docs/tutorials/synonyms) for such cases.
+> ℹ️ Blank spaces aren't accounted for in *fuzzy* matching, so `base ball` won't be corrected to `baseball`. We recommend using [synonyms](/en/docs/tutorials/synonyms) for such cases.
 
 ### Minimum result
 
@@ -74,11 +74,11 @@ There's a set of settings that change the listing and sorting of products displa
 
 This setting determines which product information is searchable. Based on this configuration, every search in the search bar checks the content of these fields to generate search results. Check the following table to understand which information is searchable by default and the other configuration options:
 
-| Information                                                                                                                                                                                                | Configuration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>Product name</li><li>Brand</li><li>Product ID (`ProductID`)</li><li>Product reference code (`ProductRefID`)</li><li>SKU ID (`SKUID`)</li><li>SKU reference code (`SKURefID`)</li><li>EAN</li></ul> | Information that is searchable by default in VTEX Intelligent Search. To remove any of this information, please contact our [Support](https://supporticket.vtex.com/support).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| <ul><li>Product specifications</li><li>SKU specifications</li><li>Department</li><li>Category</li><li>Subcategory</li></ul>                                                                                | To include the desired specifications as searchable fields, you must configure the **Searchable specifications** option in the VTEX Admin, under **Intelligent Search > Search Settings**.<br /><br /> For example, if a shirt doesn't have color information in the product name or SKU, by default, Intelligent Search won't identify this attribute in a search for "blue shirt", displaying shirts of different colors as results. However, if the color specification is configured as searchable, the search will likely return blue shirts at the top of the search results.<br /><br /> For more details about defining searchable specifications, see the [Search configuration](/en/docs/tutorials/search-configuration#general-settings) guide. Learn more about specifications in [Product and SKU specifications](/en/docs/tracks/specifications-concept-definition). |
-| Manufacturer code (`ManufactureID`)                                                                                                                                                     | Contact our [Support](https://supporticket.vtex.com/support) to set these fields as searchable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Information | Configuration |
+| - | - |
+| <ul><li>Product name</li><li>Brand</li><li>Product ID (`ProductID`)</li><li>Product reference code (`ProductRefID`)</li><li>SKU ID (`SKUID`)</li><li>SKU reference code (`SKURefID`)</li><li>EAN</li></ul> | Information that is searchable by default in VTEX Intelligent Search. To remove any of this information, please contact our [Support](https://supporticket.vtex.com/support). |
+| <ul><li>Product specifications</li><li>SKU specifications</li><li>Department</li><li>Category</li><li>Subcategory</li></ul> | To include the desired specifications as searchable fields, you must configure the **Searchable specifications** option in the VTEX Admin, under **Intelligent Search > Search Settings**.<br /><br /> For example, if a shirt doesn't have color information in the product name or SKU, by default, Intelligent Search won't identify this attribute in a search for "blue shirt", displaying shirts of different colors as results. However, if the color specification is configured as searchable, the search will likely return blue shirts at the top of the search results.<br /><br /> For more details about defining searchable specifications, see the [Search configuration](/en/docs/tutorials/search-configuration#general-settings) guide. Learn more about specifications in [Product and SKU specifications](/en/docs/tracks/specifications-concept-definition). |
+| Manufacturer code (`ManufactureID`) | Contact our [Support](https://supporticket.vtex.com/support) to set these fields as searchable. |
 
 Example: The "color" specification is set as searchable and the product was added with the name "Nike Total 90 Sneakers" and the color "black". If a customer searches for "Black Sneakers", the tool will return products that have the term "sneakers" and the color "black" at the top of search results.
 
@@ -116,8 +116,8 @@ Example: If the product ID is `123456789` and you search for `123`, it will be l
 
 To search from your store URL, add search parameters (_query_) at the end of the store URL, respecting one of the following structures:
 
-* Example for searching an item: `[account address]/[id type]:[id_1]?q=[id type]&map=ft`
-* Example for searching a list: `[account address]/[id type]:[id_1];[id_2];[id_3]?q=[id type]:[id_1];[id_2];[id_3]&map=ft`
+- Example for searching an item: `[account address]/[id type]:[id_1]?q=[id type]&map=ft`
+- Example for searching a list: `[account address]/[id type]:[id_1];[id_2];[id_3]?q=[id type]:[id_1];[id_2];[id_3]&map=ft`
 
 The possible value types for the ID type field are `product.id`, `sku.id`, `sku.ean`, `sku.reference`, or `id` (ProductID, ProductRefID, SKUID, SKURefID, and EAN). All searched IDs should be of the same type.
 
