@@ -39,9 +39,9 @@ Na página **Contratos**, você encontra os contratos relacionados à sua loja. 
 
 Na página **Faturas**, você encontra um extrato com todos os títulos de pagamento da sua loja, organizados por mês. Cada título traz informações sobre o valor, a data de vencimento e o tipo de contrato que está sendo cobrado.
 
->ℹ️ A VTEX é um serviço pós-pago: a cobrança é gerada no mês seguinte ao da utilização do serviço.
+>ℹ️ A VTEX adota o modelo pós-pago, no qual a cobrança ocorre no mês seguinte ao da utilização do serviço. 
 
-Para consultar o detalhamento de cada fatura, consulte o artigo Como verificar o detalhamento das minhas faturas?.
+Para consultar o detalhamento de cada fatura, consulte o artigo Como verificar o detalhamento das minhas faturas.
 
 ## Dados cadastrais
 
