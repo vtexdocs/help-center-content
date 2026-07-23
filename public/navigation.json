@@ -18055,6 +18055,37 @@
             },
             {
               "name": {
+                "en": "Catálogo Beta",
+                "es": "Catálogo Beta",
+                "pt": "Catálogo Beta"
+              },
+              "slug": {
+                "en": "catalogo-beta",
+                "es": "catalogo-beta",
+                "pt": "catálogo-beta-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Agente de Coleções",
+                    "en": "Agente de Coleções",
+                    "es": "Agente de Coleções"
+                  },
+                  "slug": {
+                    "pt": "agente-de-colecoes",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Dashboards Beta",
                 "es": "Dashboards Beta",
                 "pt": "Dashboards Beta"
