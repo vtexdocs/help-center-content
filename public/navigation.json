@@ -18786,13 +18786,13 @@
                 {
                   "name": {
                     "en": "Checking the invoice details",
-                    "es": "Checking the invoice details",
-                    "pt": "Checking the invoice details"
+                    "es": "Verificando los detalles de las facturas",
+                    "pt": "Verificar o detalhamento das faturas"
                   },
                   "slug": {
                     "en": "checking-the-invoice-details",
-                    "es": "",
-                    "pt": ""
+                    "es": "verificando-los-detalles-de-las-facturas",
+                    "pt": "verificar-o-detalhamento-das-faturas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23458,53 +23458,6 @@
                     "en": "vtex-status-page",
                     "es": "pagina-vtex-status",
                     "pt": "pagina-de-status-da-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Informações de faturamento",
-            "es": "Informações de faturamento",
-            "pt": "Informações de faturamento"
-          },
-          "slug": {
-            "en": "informacoes-de-faturamento",
-            "es": "informacoes-de-faturamento",
-            "pt": "informacoes-de-faturamento-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Faturas",
-                "es": "Faturas",
-                "pt": "Faturas"
-              },
-              "slug": {
-                "en": "faturas",
-                "es": "faturas",
-                "pt": "faturas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Verificar o detalhamento das faturas",
-                    "en": "Verificar o detalhamento das faturas",
-                    "es": "Verificar o detalhamento das faturas"
-                  },
-                  "slug": {
-                    "pt": "verificar-o-detalhamento-das-faturas",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
