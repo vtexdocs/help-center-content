@@ -12,13 +12,15 @@ seeAlso:
 
 No módulo **Faturas** do Admin VTEX, você pode visualizar todas as suas faturas e consultar o detalhamento de cada uma. Para acessar esse módulo, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito. Em seguida, clique em **Informações de faturamento > Faturas**.
 
->ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar esta seção do Admin VTEX. Para saber como configurar esses acessos, veja o artigo [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou solicite ao proprietário da loja que ajuste as permissões.
-
 As faturas são exibidas por mês e identificadas por cores, que indicam a situação de cada uma:
 
 - Verde: faturas já pagas.
 - Roxo: faturas em aberto, ainda dentro do prazo de vencimento.
 - Vermelho: faturas vencidas, em atraso.
+
+## Antes de começar
+
+Para acessar esta seção do Admin VTEX, é necessário ter um perfil de acesso financeiro. Para saber como configurar esse perfil, consulte o artigo [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou peça ao proprietário da loja que ajuste suas permissões.
 
 ### Instruções
 
