@@ -18800,6 +18800,21 @@
                 },
                 {
                   "name": {
+                    "en": "Generating a financial report",
+                    "es": "Generating a financial report",
+                    "pt": "Generating a financial report"
+                  },
+                  "slug": {
+                    "en": "generating-a-financial-report",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
