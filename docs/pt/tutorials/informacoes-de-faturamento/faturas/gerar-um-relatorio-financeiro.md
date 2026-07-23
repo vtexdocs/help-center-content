@@ -12,7 +12,9 @@ seeAlso:
 
 O relatório financeiro apresenta todos os pedidos aprovados no período da fatura, ou seja, a base de pedidos considerada naquele faturamento. Você pode gerar o relatório no módulo **Informações de faturamento > Faturas** do Admin VTEX.
 
->ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/docs/tutorials/perfis-de-acesso-predefinidos#billing) vinculados ao perfil podem acessar esta seção do Admin VTEX. Para saber como configurar esses acessos, veja o artigo [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou solicite ao proprietário da loja que ajuste as permissões.
+## Antes de começar
+
+Para acessar esta seção do Admin VTEX, é necessário ter um perfil de acesso financeiro. Para saber como configurar esse perfil, consulte o artigo [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou peça ao proprietário da loja que ajuste suas permissões.
 
 ## Instruções
 
