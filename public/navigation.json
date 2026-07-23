@@ -18801,13 +18801,13 @@
                 {
                   "name": {
                     "en": "Downloading VTEX invoices",
-                    "es": "Downloading VTEX invoices",
-                    "pt": "Downloading VTEX invoices"
+                    "pt": "Baixar faturas da VTEX",
+                    "es": "Downloading VTEX invoices"
                   },
                   "slug": {
                     "en": "downloading-vtex-invoices",
-                    "es": "",
-                    "pt": ""
+                    "pt": "baixar-faturas-da-vtex",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23456,12 +23456,12 @@
           "name": {
             "en": "Facturación",
             "es": "Facturación",
-            "pt": "Informações de faturamento"
+            "pt": "Facturación"
           },
           "slug": {
             "en": "facturacion",
             "es": "facturacion-categoria",
-            "pt": "informacoes-de-faturamento-categoria"
+            "pt": "facturacion"
           },
           "origin": "",
           "type": "category",
@@ -23470,12 +23470,12 @@
               "name": {
                 "en": "Facturas",
                 "es": "Facturas",
-                "pt": "Faturas"
+                "pt": "Facturas"
               },
               "slug": {
                 "en": "facturas",
                 "es": "facturas-subcategoria",
-                "pt": "faturas-subcategoria"
+                "pt": "facturas"
               },
               "origin": "",
               "type": "category",
@@ -23483,13 +23483,13 @@
                 {
                   "name": {
                     "es": "Cómo descargar las facturas de VTEX",
-                    "pt": "Baixar notas fiscais e boletos da VTEX",
-                    "en": "Cómo descargar las facturas de VTEX"
+                    "en": "Cómo descargar las facturas de VTEX",
+                    "pt": "Cómo descargar las facturas de VTEX"
                   },
                   "slug": {
                     "es": "como-descargar-las-facturas-de-vtex",
-                    "pt": "baixar-notas-fiscais-e-boletos-da-vtex",
-                    "en": ""
+                    "en": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
