@@ -1,5 +1,5 @@
 ---
-title: 'Verificando los detalles de la facturas'
+title: 'Verificando los detalles de las facturas'
 createdAt: 2026-07-23T15:12:38.888Z
 updatedAt: 2026-07-23T15:12:38.888Z
 contentType: tutorial
