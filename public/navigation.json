@@ -18802,12 +18802,12 @@
                   "name": {
                     "en": "Generating a financial report",
                     "es": "Generar un informe financiero",
-                    "pt": "Generating a financial report"
+                    "pt": "Gerar um relatório financeiro"
                   },
                   "slug": {
                     "en": "generating-a-financial-report",
                     "es": "generar-un-informe-financiero",
-                    "pt": ""
+                    "pt": "gerar-um-relatorio-financeiro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23458,53 +23458,6 @@
                     "en": "vtex-status-page",
                     "es": "pagina-vtex-status",
                     "pt": "pagina-de-status-da-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Informações de faturamento",
-            "es": "Informações de faturamento",
-            "pt": "Informações de faturamento"
-          },
-          "slug": {
-            "en": "informacoes-de-faturamento",
-            "es": "informacoes-de-faturamento",
-            "pt": "informacoes-de-faturamento-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Faturas",
-                "es": "Faturas",
-                "pt": "Faturas"
-              },
-              "slug": {
-                "en": "faturas",
-                "es": "faturas",
-                "pt": "faturas-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Gerar um relatório financeiro",
-                    "en": "Gerar um relatório financeiro",
-                    "es": "Gerar um relatório financeiro"
-                  },
-                  "slug": {
-                    "pt": "gerar-um-relatorio-financeiro",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
