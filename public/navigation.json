@@ -23439,6 +23439,53 @@
         },
         {
           "name": {
+            "en": "Informações de faturamento",
+            "es": "Informações de faturamento",
+            "pt": "Informações de faturamento"
+          },
+          "slug": {
+            "en": "informacoes-de-faturamento",
+            "es": "informacoes-de-faturamento",
+            "pt": "informacoes-de-faturamento-categoria"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Faturas",
+                "es": "Faturas",
+                "pt": "Faturas"
+              },
+              "slug": {
+                "en": "faturas",
+                "es": "faturas",
+                "pt": "faturas-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Verificar o detalhamento das faturas",
+                    "en": "Verificar o detalhamento das faturas",
+                    "es": "Verificar o detalhamento das faturas"
+                  },
+                  "slug": {
+                    "pt": "verificar-o-detalhamento-das-faturas",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Integrations",
             "es": "Integraciones",
             "pt": "Integrações"
