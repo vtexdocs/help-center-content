@@ -35952,21 +35952,6 @@
                 },
                 {
                   "name": {
-                    "en": "Changing a banner",
-                    "es": "Modificar banner",
-                    "pt": "Alterar banner"
-                  },
-                  "slug": {
-                    "en": "how-to-alter-a-banner",
-                    "es": "como-modificar-banner",
-                    "pt": "como-alterar-banner"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Changing a page's body class",
                     "es": "Cambiar la clase del body de una página",
                     "pt": "Mudar classe do body de uma página"
@@ -36305,6 +36290,21 @@
                     "en": "how-the-relationship-between-websites-and-business-policies-works",
                     "es": "como-funciona-la-relacion-entre-sitios-web-y-politicas-comerciales",
                     "pt": "como-funciona-a-relacao-entre-websites-e-politicas-comerciais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to configure a banner in your CMS Portal (Legacy) store",
+                    "es": "Como configurar un banner en tu tienda CMS Portal (Legado)",
+                    "pt": "Como configurar um banner em sua loja CMS Portal (Legado)"
+                  },
+                  "slug": {
+                    "en": "how-to-configure-a-banner-in-your-cms-portal-legacy-store",
+                    "es": "como-configurar-un-banner-en-tu-tienda-cms-portal-legado",
+                    "pt": "como-configurar-um-banner-em-sua-loja-cms-portal-legado"
                   },
                   "origin": "",
                   "type": "markdown",
