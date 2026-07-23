@@ -38,7 +38,7 @@ Para baixar uma nota fiscal, siga estes passos:
 
 >⚠️ As instruções desta seção se aplicam apenas a clientes com faturamento no Brasil.
 
-Clientes com faturamento no Brasil podem emitir uma nova via do boleto seguindo estas etapas:
+Clientes com faturamento no Brasil podem emitir uma nova via do boleto seguindo estes passos:
 
 1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito.
 2. Clique em **Informações de faturamento > Faturas**.
