@@ -19,9 +19,9 @@ The Search Engine is the core of VTEX Intelligent Search's intelligence. It inte
 
 This feature is included by default in VTEX Intelligent Search and covers the vast majority of scenarios. However, you can also adjust the Search Engine to improve search results. This guide covers the following:
 
-- [Standard search behavior](#standard-search-behavior)
-- [Search behavior configuration](#search-behavior-configuration)
-- [Alternative ways to search](#alternative-ways-to-search)
+* [Standard search behavior](#standard-search-behavior)
+* [Search behavior configuration](#search-behavior-configuration)
+* [Alternative ways to search](#alternative-ways-to-search)
 
 ## Standard search behavior
 
@@ -37,17 +37,17 @@ The *fuzzy* value varies depending on the length of the search term. By default,
 
 The types of misspellings accepted when *fuzzy* = 1 include:
 
-- Add 1 more character.
-- Remove 1 character.
-- Change 1 character.
-- Swap 2 characters that are next to each other.
+* Add 1 more character.
+* Remove 1 character.
+* Change 1 character.
+* Swap 2 characters that are next to each other.
 
 Example: Suppose a customer wants to search for the term `ball`. Using the default configuration (*fuzzy* = 1 for terms of 3 to 5 characters), the search engine will return results for `ball` in any search that contains accepted errors, such as:
 
-- `bawll` (add 1 more character)
-- `bal` (remove 1 character)
-- `balk` (change 1 character)
-- `abll` (swap 2 characters next to each other)
+* `bawll` (add 1 more character)
+* `bal` (remove 1 character)
+* `balk` (change 1 character)
+* `abll` (swap 2 characters next to each other)
 
 > ℹ️ Blank spaces aren't accounted for in *fuzzy* matching, so `base ball` won't be corrected to `baseball`. We recommend using [synonyms](/en/docs/tutorials/synonyms) for such cases.
 

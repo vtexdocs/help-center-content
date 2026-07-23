@@ -19,9 +19,9 @@ El buscador es el centro de la inteligencia de VTEX Intelligent Search. Interpre
 
 Esta funcionalidad es estándar de VTEX Intelligent Search y atiende la mayoría de los escenarios. Sin embargo, el buscador también presenta algunos ajustes para perfeccionar el resultado de la búsqueda. En esta guía describimos:
 
-- [Comportamiento predeterminado de la búsqueda](#comportamiento-predeterminado-de-la-busqueda)
-- [Configuración del comportamiento de la búsqueda](#configuracion-del-comportamiento-de-la-busqueda)
-- [Formas de búsqueda alternativas](#formas-de-busqueda-alternativas)
+* [Comportamiento predeterminado de la búsqueda](#comportamiento-predeterminado-de-la-busqueda)
+* [Configuración del comportamiento de la búsqueda](#configuracion-del-comportamiento-de-la-busqueda)
+* [Formas de búsqueda alternativas](#formas-de-busqueda-alternativas)
 
 ## Comportamiento predeterminado de la búsqueda
 
@@ -37,17 +37,17 @@ El valor de fuzzy varía dependiendo del tamaño del término buscado. De forma 
 
 Los errores previstos para los que se considera fuzzy = 1 son:
 
-- Insertar 1 carácter extra.
-- Remover 1 carácter.
-- Cambiar 1 carácter.
-- Intercambiar 2 caracteres que estén uno al lado del otro.
+* Insertar 1 carácter extra.
+* Remover 1 carácter.
+* Cambiar 1 carácter.
+* Intercambiar 2 caracteres que estén uno al lado del otro.
 
 Ejemplo: un cliente desea buscar el término `bola`. Siguiendo la configuración predeterminada (fuzzy = 1 para términos de 3 a 5 caracteres), el buscador muestra los resultados de `bola` para cualquier búsqueda que contenga los errores aceptados según se muestra a continuación:
 
-- `bolla` (insertar 1 carácter de más)
-- `boa` (remover 1 carácter)
-- `bora` (cambiar 1 carácter)
-- `obla` (intercambiar 2 caracteres que están uno junto al otro)
+* `bolla` (insertar 1 carácter de más)
+* `boa` (remover 1 carácter)
+* `bora` (cambiar 1 carácter)
+* `obla` (intercambiar 2 caracteres que están uno junto al otro)
 
 > ℹ️ El fuzzy no considera los espacios en blanco. Esto quiere decir que, por ejemplo, `micro ondas` no se corregiría a `microondas`. Recomendamos el uso de [sinónimos](https://help.vtex.com/es/docs/tutorials/sinonimos) en estos casos.
 
@@ -116,13 +116,13 @@ Por ejemplo, si el ID del producto es `123456789` y la búsqueda es `123`, ese p
 
 Para buscar a partir de la URL de tu tienda, agrega parámetros de búsqueda (query) al final de la URL de la tienda, respetando una de las siguientes estructuras:
 
-- Ejemplo para búsqueda de un ítem: `[dirección de la cuenta]/[tipo de id]:[id_1]?q=[tipo de id]&map=ft`
-- Ejemplo para búsqueda de lista de ítems: `[dirección de la cuenta]/[tipo de id]:[id_1];[id_2];[id_3]?q=[tipo de id]:[id_1];[id_2];[id_3]&map=ft`
+* Ejemplo para búsqueda de un ítem: `[dirección de la cuenta]/[tipo de id]:[id_1]?q=[tipo de id]&map=ft`
+* Ejemplo para búsqueda de lista de ítems: `[dirección de la cuenta]/[tipo de id]:[id_1];[id_2];[id_3]?q=[tipo de id]:[id_1];[id_2];[id_3]&map=ft`
 
 Los posibles tipos de valores para el campo tipo del ID son `product.id`, `sku.id`, `sku.ean`, `sku.reference` o `id` (ProductID, ProductRefID, SKUID, SKURefID y EAN). Cabe resaltar que todos los IDs deben ser del mismo tipo.
 
-- **Búsqueda por ID de SKU:** `?q=sku.id:<id>` o `?q=sku:<id>`
-- **Búsqueda por EAN:** `?q=sku.ean:<id>`
-- **Búsqueda por ID de referencia:** `?q=sku.reference:<id>`
-- **Búsqueda por slug:** `?q=product.link:<link>`
-- **Búsqueda por ID de producto:** `?q=product:<id>` o `?q=product.id:<id>`
+* **Búsqueda por ID de SKU:** `?q=sku.id:<id>` o `?q=sku:<id>`
+* **Búsqueda por EAN:** `?q=sku.ean:<id>`
+* **Búsqueda por ID de referencia:** `?q=sku.reference:<id>`
+* **Búsqueda por slug:** `?q=product.link:<link>`
+* **Búsqueda por ID de producto:** `?q=product:<id>` o `?q=product.id:<id>`
