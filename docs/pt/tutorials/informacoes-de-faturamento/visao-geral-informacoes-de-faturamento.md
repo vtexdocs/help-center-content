@@ -47,7 +47,7 @@ Para consultar o detalhamento de cada fatura, consulte o artigo Como verificar o
 
 A página **Dados cadastrais** reúne as informações que você inseriu ao cadastrar a sua loja. Estão disponíveis para edição apenas o seu nome e o seu endereço.
 
-Para alterar outras informações, leia o artigo [Como verificar o detalhamento das faturas](/pt/docs/tutorials/como-verificar-o-detalhamento-das-faturas).
+Para alterar outras informações, leia o artigo [Verificar o detalhamento das faturas](/pt/docs/tutorials/verificar-o-detalhamento-das-faturas).
 
 ## Contatos de faturamento
 
