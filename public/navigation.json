@@ -18785,6 +18785,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Checking the invoice details",
+                    "es": "Checking the invoice details",
+                    "pt": "Checking the invoice details"
+                  },
+                  "slug": {
+                    "en": "checking-the-invoice-details",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Consumption tags used in the billing module",
                     "es": "Tags de pedidos utilizadas por el módulo de facturación",
                     "pt": "Marcações de pedidos pelo módulo de cobranças"
