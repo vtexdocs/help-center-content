@@ -18,7 +18,7 @@ order: 1
 
 **Informações de faturamento** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
 
-Para acessá-la, clique no seu avatar — identificado pela inicial do seu email, no canto superior direito — e clique em **Informações de faturamento**. Em seguida, selecione a página que deseja acessar:
+Para acessá-la, clique no seu avatar — identificado pela inicial do seu e-mail, no canto superior direito — e clique em **Informações de faturamento**. Em seguida, selecione a página que deseja acessar:
 
 - [Contratos](#contratos)
 - [Faturas](#faturas)
