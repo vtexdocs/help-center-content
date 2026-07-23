@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Discover the new VTEX Sales App Extensibility",
+                    "es": "Conoce el nuevo VTEX Sales App Extensibility",
+                    "pt": "Conheça o novo VTEX Sales App Extensibility"
+                  },
+                  "slug": {
+                    "en": "2026-07-23-discover-the-new-vtex-sales-app-extensibility",
+                    "es": "2026-07-23-conoce-el-nuevo-vtex-sales-app-extensibility",
+                    "pt": "2026-07-23-conheca-o-novo-vtex-sales-app-extensibility"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Master Data usage dashboard in the VTEX Admin",
                     "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
                     "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
