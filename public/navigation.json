@@ -18712,13 +18712,13 @@
         {
           "name": {
             "en": "Billing",
-            "es": "Facturas",
-            "pt": "Faturas"
+            "es": "Facturación",
+            "pt": "Informações de faturamento"
           },
           "slug": {
             "en": "billing-category",
-            "es": "facturas-categoria",
-            "pt": "faturas-categoria"
+            "es": "facturacion-categoria",
+            "pt": "informacoes-de-faturamento-categoria"
           },
           "origin": "",
           "type": "category",
@@ -18757,13 +18757,13 @@
             {
               "name": {
                 "en": "Invoices",
-                "es": "Títulos",
-                "pt": "Títulos"
+                "es": "Facturas",
+                "pt": "Faturas"
               },
               "slug": {
                 "en": "invoices-subcategory",
-                "es": "titulos-subcategoria",
-                "pt": "títulos-subcategoria"
+                "es": "facturas-subcategoria",
+                "pt": "faturas-subcategoria"
               },
               "origin": "",
               "type": "category",
