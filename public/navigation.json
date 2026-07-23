@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Delivery Promise available in open beta",
+                    "es": "Delivery Promise disponible en beta abierta",
+                    "pt": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "en": "2026-07-01-delivery-promise-in-open-beta",
+                    "es": "2026-07-01-delivery-promise-in-open-beta",
+                    "pt": "2026-07-01-delivery-promise-em-open-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New ROAS calculation methodology for Sponsored Products",
                     "es": "Nueva metodología de cálculo de ROAS para productos patrocinados",
                     "pt": "Nova metodologia de cálculo do ROAS para produtos patrocinados"
@@ -47,37 +62,6 @@
                     "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
                     "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
                     "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Julho",
-                "es": "Julho",
-                "pt": "Julho"
-              },
-              "slug": {
-                "en": "julho",
-                "es": "julho",
-                "pt": "2026-julho"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Delivery Promise disponível em Open Beta",
-                    "en": "Delivery Promise disponível em Open Beta",
-                    "es": "Delivery Promise disponível em Open Beta"
-                  },
-                  "slug": {
-                    "pt": "2026-07-01-delivery-promise-em-open-beta",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39930,6 +39914,21 @@
             },
             {
               "name": {
+                "en": "My Quotes Organization and Cost Center Filter doesn't work for users with Access All Quotes and Carts Permission",
+                "es": "Mi filtro de organización y centro de costos de cotizaciones no funciona para los usuarios con permiso de acceso a todas las cotizaciones y carritos.",
+                "pt": "A organização \"Minhas Cotações\" e o filtro de centro de custos não funcionam para usuários com permissão de acesso a todas as cotações e carrinhos."
+              },
+              "slug": {
+                "en": "my-quotes-organization-and-cost-center-filter-doesnt-work-for-users-with-access-all-quotes-and-carts-permission",
+                "es": "mi-filtro-de-organizacion-y-centro-de-costos-de-cotizaciones-no-funciona-para-los-usuarios-con-permiso-de-acceso-a-todas-las-cotizaciones-y-carritos",
+                "pt": "a-organizacao-minhas-cotacoes-e-o-filtro-de-centro-de-custos-nao-funcionam-para-usuarios-com-permissao-de-acesso-a-todas-as-cotacoes-e-carrinhos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Non-responsive B2B components cause layout and usability issues on mobile",
                 "es": "Los componentes B2B que no responden causan problemas de diseño y usabilidad en dispositivos móviles.",
                 "pt": "Componentes B2B não responsivos causam problemas de layout e usabilidade em dispositivos móveis"
@@ -54718,13 +54717,13 @@
             {
               "name": {
                 "en": "Timeout in Analytics Query Can Prevent Inventory Log from Loading",
-                "es": "El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario",
-                "pt": "O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário"
+                "es": "Un tiempo de espera agotado en una consulta de análisis puede impedir que se cargue el registro de inventario.",
+                "pt": "Um tempo limite excedido na consulta de análise pode impedir o carregamento do log de inventário."
               },
               "slug": {
                 "en": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
-                "es": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
-                "pt": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario"
+                "es": "un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario",
+                "pt": "um-tempo-limite-excedido-na-consulta-de-analise-pode-impedir-o-carregamento-do-log-de-inventario"
               },
               "origin": "",
               "type": "markdown",
@@ -63320,6 +63319,21 @@
             },
             {
               "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS",
                 "es": "Las transacciones con el conector TNSPay se rechazan por error: la tarjeta no está REGISTRADA en 3DS",
                 "pt": "Transações com o conector TNSPay estão sendo recusadas devido a um erro: Cartão não REGISTRADO no 3DS"
@@ -69160,6 +69174,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
+                "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
+                "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
+              },
+              "slug": {
+                "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
+                "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
+                "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
               },
               "origin": "",
               "type": "markdown",
