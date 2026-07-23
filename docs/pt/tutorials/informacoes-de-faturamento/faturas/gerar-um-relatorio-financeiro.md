@@ -16,7 +16,7 @@ O relatório financeiro apresenta todos os pedidos aprovados no período da fatu
 
 ## Instruções
 
-Para baixar um relatório financeiro, siga esses passos:
+Para baixar um relatório financeiro, siga estes passos:
 
 1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito.
 2. Clique em **Informações de faturamento > Faturas**.
