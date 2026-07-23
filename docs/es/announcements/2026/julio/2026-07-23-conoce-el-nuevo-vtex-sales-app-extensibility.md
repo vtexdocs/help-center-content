@@ -31,17 +31,17 @@ Las siguientes imágenes presentan los puntos de extensión en la jornada de ven
 
 - Carrito de compras (`cart.cart-item.after`, `cart.cart-list.after`) y checkout (`cart.order-summary.after`):
 
-  ![extensibilidad_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_1_cart_checkout_PT.png)
+  ![extensibilidade_vtex_sales_app_1_cart_checkout_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_ES.png)
 
 - Página de detalles del producto (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
-  ![extensibilidad_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_4_pdp_PT.png)
+  ![extensibilidade_vtex_sales_app_4_pdp_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_ES.png)
 
 - Menú (`menu.item`) y modal lateral (`menu.drawer-content`):
 
-  ![extensibilidad_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_2_menu_PT.png)
+  ![extensibilidade_vtex_sales_app_2_menu_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_ES.png)
 
-  ![extensibilidad_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidad_vtex_sales_app_3_drawer_PT.png)
+  ![extensibilidade_vtex_sales_app_3_drawer_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_ES.png)
 
 ## ¿Qué se necesita hacer?
 
