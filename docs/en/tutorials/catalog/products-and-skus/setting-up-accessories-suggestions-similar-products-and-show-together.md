@@ -3,13 +3,13 @@ title: 'How to set up similar product, suggestions, accessories and generics'
 id: tutorials_280
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:17.727Z
-updatedAt: 2025-11-14T18:49:41.924Z
+updatedAt: 2026-07-13T00:00:00.000Z
 publishedAt: 2024-10-30T18:49:41.924Z
 firstPublishedAt: 2017-04-27T23:03:13.377Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slugEN: setting-up-a-similar-product-suggestions-accessories-and-generics
+slugEN: setting-up-accessories-suggestions-similar-products-and-show-together
 legacySlug: setting-up-a-similar-product-suggestions-accessories-and-generics
 locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68

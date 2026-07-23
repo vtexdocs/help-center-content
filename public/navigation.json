@@ -19818,12 +19818,12 @@
                   "name": {
                     "en": "How to set up similar product, suggestions, accessories and generics",
                     "es": "Configurar producto similar, sugerencias, accesorios y genéricos",
-                    "pt": "Configurar produto similar, sugestões, acessórios e genéricos"
+                    "pt": "Configurar acessórios, sugestões, produtos similares e mostrar junto"
                   },
                   "slug": {
-                    "en": "setting-up-a-similar-product-suggestions-accessories-and-generics",
-                    "es": "configurar-producto-similar-sugerencias-accesorios-y-genericos",
-                    "pt": "configurando-produto-similar-sugestoes-acessorios-e-genericos"
+                    "en": "setting-up-accessories-suggestions-similar-products-and-show-together",
+                    "es": "configurar-accesorios-sugerencias-productos-similares-y-mostrar-juntos",
+                    "pt": "configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto"
                   },
                   "origin": "",
                   "type": "markdown",
