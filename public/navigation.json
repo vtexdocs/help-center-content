@@ -24099,6 +24099,37 @@
             },
             {
               "name": {
+                "en": "Configurações de integrações",
+                "es": "Configurações de integrações",
+                "pt": "Configurações de integrações"
+              },
+              "slug": {
+                "en": "configuracoes-de-integracoes",
+                "es": "configuracoes-de-integracoes",
+                "pt": "configurações-de-integrações-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Publicação de produtos Amazon",
+                    "en": "Publicação de produtos Amazon",
+                    "es": "Publicação de produtos Amazon"
+                  },
+                  "slug": {
+                    "pt": "publicacao-de-produtos-amazon",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Integrations - Overview",
                 "es": "Visión de conjunto de Integraciones",
                 "pt": "Integrações - Visão geral"
@@ -39596,6 +39627,21 @@
                 "en": "issue-with-node-version-compatibility",
                 "es": "problema-de-compatibilidad-de-versiones-de-node",
                 "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requests failing with timeout during app cold start",
+                "es": "Las solicitudes fallan por tiempo de espera durante el inicio en frío de la aplicación.",
+                "pt": "As solicitações falham com erro de tempo limite durante a inicialização a frio do aplicativo."
+              },
+              "slug": {
+                "en": "requests-failing-with-timeout-during-app-cold-start",
+                "es": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
+                "pt": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo"
               },
               "origin": "",
               "type": "markdown",
