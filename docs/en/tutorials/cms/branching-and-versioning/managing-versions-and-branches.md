@@ -143,3 +143,14 @@ Discards your changes in a branch and restores the entry to its last published v
 Removes the entry from the `main` branch while keeping versions in other branches. This unpublishes the content from the storefront.
 
 ![delete-from-main](https://vtexhelp.vtexassets.com/assets/docs/src/delete-from-main-en___83952b2721135642c85745b7c176f365.png)
+
+You can remove an entry from `main` in two ways:
+
+* **Delete now:** Removes the entry from `main` immediately, unpublishing it from the storefront right away.
+* **Delete on merge:** Schedules the entry's main version to be deleted automatically when a chosen branch is merged into `main`, instead of removing it by hand. This keeps the outgoing entry live until the exact moment the new content takes its place.
+
+![delete-from-main-overview](https://vtexhelp.vtexassets.com/assets/docs/src/delete-from-main___e2abd167abc3ea7b587bfec95dd7c56e.gif)
+
+This is especially useful for content swaps, such as seasonal campaigns. For example, if a `Christmas` entry is currently published in `main` and a `New Year's` entry is being prepared in another branch, you can schedule the deletion of the `Christmas` entry's main version so it's automatically removed as soon as the branch containing the `New Year's` entry is merged into `main`. This way, taking down the outdated entry no longer requires a separate manual step.
+
+> ℹ️ For more information about merging branches, see [Publishing and scheduling changes](#publishing-and-scheduling-changes).
