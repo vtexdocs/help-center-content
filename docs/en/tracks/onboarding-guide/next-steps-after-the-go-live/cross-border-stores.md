@@ -7,19 +7,19 @@ updatedAt: 2022-05-25T19:17:08.283Z
 publishedAt: 2022-05-25T19:17:08.283Z
 firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
-productTeam: VTEX IO
+productTeam: Others
 slugEN: cross-border-stores
 locale: en
-trackId: 2YcpgIljVaLVQYMzxQbc3z
-trackSlugEN: cms
-order: 4
+trackId: 3J7WFZyvTcoiwkcIVFVhIS
+trackSlugEN: next-steps-after-the-go-live
+order: 3
 ---
 
-A cross-border store is a type of [multistore](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), which at VTEX means an account with multiple [bindings](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) and different sales channels for each one of its local stores.
+A cross-border store is a type of [multistore](/en/docs/tutorials/managing-a-multistore), which at VTEX means an account with multiple [bindings](/en/docs/tutorials/what-is-binding) and different sales channels for each one of its local stores.
 
 Cross-border stores can reach shoppers worldwide by offering localized shopping experiences for your store's customers. 
 
-If you want to reach customers worldwide and provide a localized shopping experience, please [open a ticket](https://help-tickets.vtex.com/smartlink/sso/login/zendesk?_ga=2.193357418.672484859.1653422096-1001456323.1619912759) expressing your interest in becoming a cross-border store.
+If you want to reach customers worldwide and provide a localized shopping experience, please [open a ticket](https://support.vtex.com/) expressing your interest in becoming a cross-border store.
 
 A cross-border store helps you:
 
@@ -45,11 +45,11 @@ A sales channel defines the content to be displayed on a website.
 Sales channels contain settings regarding catalog, prices, promotions, logistics, customer segmentation, and payments for different sales strategies.
 
 ### Multi-language stores
-Since a cross-border store can have multiple bindings and reach shoppers worldwide, it is important to provide website and catalog content internationalization for a personalized shopping experience. To internationalize your store content, please contact your developer team and refer to the [Internationalization](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores) and [Translating Catalog content](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) documentation.
+Since a cross-border store can have multiple bindings and reach shoppers worldwide, it is important to provide website and catalog content internationalization for a personalized shopping experience. To internationalize your store content, please contact your developer team and refer to the [Internationalization](https://developers.vtex.com/docs/guides/vtex-io-multi-language-stores) and [Translating Catalog content](https://developers.vtex.com/docs/guides/catalog-internationalization) documentation.
 
 ## Related articles
 
-- [How to create a multistore / multidomain?](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
+- [Managing a multistore](/en/docs/tutorials/managing-a-multistore)
 
 - [What is binding?](/en/docs/tutorials/what-is-binding)
 

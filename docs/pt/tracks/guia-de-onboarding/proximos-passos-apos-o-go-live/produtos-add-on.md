@@ -12,7 +12,7 @@ slugEN: add-on-products
 locale: pt
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: proximos-passos-apos-o-go-live
-order: 4
+order: 5
 ---
 
 Produtos Add-on são soluções oferecidas pela VTEX para atender demandas específicas de um negócio e que podem ser adquiridas separadamente por meio de um contrato de assinatura.
@@ -29,8 +29,6 @@ Produtos Add-on são soluções oferecidas pela VTEX para atender demandas espec
 Solução que permite a criação de transmissões online para a realização de demonstrações ao vivo das características dos produtos na loja. Interações diretas e instantâneas com os clientes permitem melhorar o engajamento do público com a marca e contribuem para aumentar a performance de venda.
 
 ![live-shopping-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_2.JPG)
-
-Para agendar uma demonstração do aplicativo com um especialista, é preciso acessar a página sobre [VTEX Live Shopping](https://vtex.com/br-pt/live-shopping/#contact).
 
 ## VTEX Personal Shopper
 
@@ -62,8 +60,6 @@ Com o [VTEX Sales App](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas), os
 
 ![sales-app-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_5.png)
 
-Para assistir uma demonstração do aplicativo ou agendar o atendimento personalizado com um especialista, é preciso acessar a página sobre [VTEX Sales App](https://assets.vtex.com/sales-app/).
-
 ## VTEX Shipping Network
 
 Explore opções de envio de produtos para todas as regiões do Brasil com o [VTEX Shipping Network](/pt/docs/tutorials/pronto-para-envio) e **VTEX Shipping Network Correios**.
@@ -72,7 +68,7 @@ O **VTEX Shipping Network** proporciona a possibilidade de conectar transportado
 
 ![shipping-network-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_6.png)
 
-Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
+Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network](/pt/docs/tutorials/pronto-para-envio).
 
 > ⚠️ As soluções **VTEX Shipping Network** e **VTEX Shipping Network Correios** são exclusivas para operações no Brasil.
 
@@ -89,11 +85,11 @@ A contratação dessa solução pode ser realizada de maneira simples e em pouco
 - Etiquetas de envio disponíveis para serem impressas direto no Admin VTEX (módulo [Pronto para Envio](/pt/docs/tutorials/pronto-para-envio)) ou via [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration), para integração com sistemas externos (ex. ERP, WMS)
 - Canal de comunicação direta com os Correios dentro do Admin por meio do [Pedido de informações](/pt/docs/tutorials/entregas-correios-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios)
 
-Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/#).
+Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq).
 
 ## VTEX Shield
 
-O [VTEX Shield](/pt/docs/tutorials/vtex-shield) oferece camadas adicionais e personalizáveis de proteção para lojas que priorizam a resiliência da plataforma, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://vtex.com/br-pt/security/security-practices/) existentes na VTEX.
+O [VTEX Shield](/pt/docs/tutorials/vtex-shield) oferece camadas adicionais e personalizáveis de proteção para lojas que priorizam a resiliência da plataforma, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://compliance.vtex.com/) existentes na VTEX.
 
 Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
 

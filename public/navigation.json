@@ -10100,9 +10100,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Other VTEX module settings",
-                    "es": "3. Otros ajustes de los módulos de VTEX",
-                    "pt": "3. Outras configurações de módulos VTEX"
+                    "en": "3. Cross-border stores",
+                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "pt": "3. Lojas internacionais (cross-border)"
+                  },
+                  "slug": {
+                    "en": "cross-border-stores",
+                    "es": "tiendas-transfronterizas-cross-border",
+                    "pt": "lojas-internacionais-cross-border"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Other VTEX module settings",
+                    "es": "4. Otros ajustes de los módulos de VTEX",
+                    "pt": "4. Outras configurações de módulos VTEX"
                   },
                   "slug": {
                     "en": "other-vtex-module-settings",
@@ -10115,9 +10130,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Add-on products",
-                    "es": "4. Products Add-on",
-                    "pt": "4. Produtos Add-on"
+                    "en": "5. Add-on products",
+                    "es": "5. Products Add-on",
+                    "pt": "5. Produtos Add-on"
                   },
                   "slug": {
                     "en": "add-on-products",
@@ -11370,24 +11385,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Cross-border stores",
-                    "es": "4. Tiendas transfronterizas (cross-border)",
-                    "pt": "4. Lojas internacionais (cross-border)"
-                  },
-                  "slug": {
-                    "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
-                    "pt": "lojas-internacionais-cross-border"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Glossary",
-                    "es": "5. Glosario",
-                    "pt": "5. Glossário"
+                    "en": "4. Glossary",
+                    "es": "4. Glosario",
+                    "pt": "4. Glossário"
                   },
                   "slug": {
                     "en": "glossary",
