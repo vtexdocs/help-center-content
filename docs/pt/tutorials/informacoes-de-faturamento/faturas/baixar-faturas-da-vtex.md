@@ -31,8 +31,8 @@ Para baixar uma nota fiscal, siga estes passos:
 
 1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
-3. Localize a fatura desejada e clique em **Abrir nota fiscal**.
-4. A nota fiscal abrirá em uma nova aba. Para salvar o arquivo em PDF, use as opções de baixar ou de imprimir disponíveis no navegador.
+3. Localize a fatura desejada e clique em **Abrir nota fiscal**. Feito isso, a nota fiscal abrirá em uma nova aba. 
+4. (Opcional) Para salvar o arquivo em formato PDF, use as opções de baixar ou de imprimir disponíveis no navegador.
 
 ### Baixar um boleto
 
