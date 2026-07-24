@@ -32,7 +32,7 @@ With Delivery Promise, the shopping experience now takes the buyer's location in
 In the open beta phase, interested merchants can test the feature by contacting [our Support team](https://help.vtex.com/support). To use it, you need to:
 
 - Use [Intelligent Search](https://help.vtex.com/docs/tutorials/intelligent-search-overview).
-- Use [Shipping Options](https://help.vtex.com/docs/tutorials/delivery-options-beta) for navigation filters.
+- Use [Delivery Options](https://help.vtex.com/docs/tutorials/delivery-options-beta) for navigation filters.
 - Make sure external sellers implement the [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 - Know the buyer's location from the very beginning of the buying journey through automatic capture via a browser plugin, inference from the device's IP address, or the address provided by the buyer.
 
