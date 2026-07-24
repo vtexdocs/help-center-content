@@ -45,4 +45,4 @@ Se, passado o prazo de conciliação, o pagamento ainda não tiver sido identifi
 2. Selecione a opção **Envio de comprovante de pagamento**.
 3. Anexe os comprovantes e, quando aplicável, os certificados de retenção.
 
-> ⚠️ Se o acesso ao Admin estiver bloqueado, você pode desbloqueá-lo temporariamente enquanto regulariza o pagamento. Saiba mais em [Desbloquear temporariamente o Admin](/pt/docs/tutorials/como-desbloquear-temporariamente-o-admin).
+> ⚠️ Se o acesso ao Admin VTEX estiver bloqueado, você pode desbloqueá-lo temporariamente enquanto regulariza o pagamento. Saiba mais em [Desbloquear temporariamente o Admin](/pt/docs/tutorials/como-desbloquear-temporariamente-o-admin).
