@@ -46177,21 +46177,6 @@
             },
             {
               "name": {
-                "es": "Error en el campo de cantidad máxima de la misma SKU en la Cesta",
-                "pt": "Erro no campo de quantidade máxima da mesma SKU no carrinho",
-                "en": "Error en el campo de cantidad máxima de la misma SKU en la Cesta"
-              },
-              "slug": {
-                "es": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
-                "pt": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Error when changing delivery type when seller has recursion",
                 "es": "Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad",
                 "pt": "Erro ao mudar o tipo de entrega quando o vendedor tem recorrência"
