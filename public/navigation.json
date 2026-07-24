@@ -68673,14 +68673,14 @@
             },
             {
               "name": {
-                "en": "Rewriter is not receiving URL updates",
-                "es": "El reescribidor no recibe actualizaciones de URL",
-                "pt": "O reescritor não está recebendo atualizações de URL"
+                "en": "Rewriter not receiving route updates from the catalog",
+                "es": "El reescritor no recibe actualizaciones de ruta del catálogo.",
+                "pt": "O reescritor não está recebendo atualizações de rota do catálogo."
               },
               "slug": {
-                "en": "rewriter-is-not-receiving-url-updates",
-                "es": "el-reescribidor-no-recibe-actualizaciones-de-url",
-                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-url"
+                "en": "rewriter-not-receiving-route-updates-from-the-catalog",
+                "es": "el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo",
+                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
