@@ -29,9 +29,9 @@ Para configurar un widget de tarjeta sigue las instrucciones a continuación:
 
 1. Haz clic en el botón de configuración de la tarjeta que deseas configurar. Se abrirá la **Galería de widgets** en el lateral.
 2. Selecciona el tipo de widget que deseas configurar:
-- [Ejecuciones](#ejecuciones).
-- [Resultado del flujo](#resultado-del-flujo).
-- [Cruce de datos](#cruce-de-datos).
+  - [Ejecuciones](#ejecuciones).
+  - [Resultado del flujo](#resultado-del-flujo).
+  - [Cruce de datos](#cruce-de-datos).
 3. Completa los campos de configuración del widget seleccionado.
 4. Haz clic en `Guardar`.
 
@@ -80,10 +80,10 @@ Para configurar el widget completa los siguientes campos:
    - **Resultado de flujo:** Utiliza el resultado de un paso específico del flujo como valor.
      - Si seleccionas **Resultado del flujo**, debes elegir un resultado del flujo y el tipo de dato que deseas (suma, promedio, mínimo o máximo).
 4. En **Operación**, elige cómo se combinarán los dos valores:
-- **Multiplicar:** multiplica el primer valor por el segundo.
-- **Diferencia:** calcula la diferencia entre los dos valores.
-- **Suma:** suma los dos valores.
-- **Porcentaje:** calcula el porcentaje del primer valor con relación al segundo.
+  - **Multiplicar:** multiplica el primer valor por el segundo.
+  - **Diferencia:** calcula la diferencia entre los dos valores.
+  - **Suma:** suma los dos valores.
+  - **Porcentaje:** calcula el porcentaje del primer valor con relación al segundo.
 5. Para monitorear datos con símbolo de moneda, activa la casilla **Moneda**.
 6. Haz clic en `Guardar`.
 
@@ -95,10 +95,10 @@ Para configurar un widget de columna sigue las instrucciones a continuación:
 
 1. Haz clic en el botón de configuración de la columna que deseas configurar. Se abrirá la **Galería de widgets** en el lateral.
 2. Selecciona el tipo de widget que deseas configurar:
-- [Embudo](#embudo).
-- [Recurrencia](#recurrencia).
-- [VTEX](#vtex).
-- [Conversión de plantillas](#conversion-de-plantillas).
+  - [Embudo](#embudo).
+  - [Recurrencia](#recurrencia).
+  - [VTEX](#vtex).
+  - [Conversión de plantillas](#conversion-de-plantillas).
 3. Completa los campos de configuración del widget seleccionado.
 4. Haz clic en `Guardar`.
 
