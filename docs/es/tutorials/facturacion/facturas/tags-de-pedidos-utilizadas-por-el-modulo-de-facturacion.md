@@ -3,7 +3,7 @@ title: 'Tags de pedidos utilizadas por el módulo de facturación'
 id: 4v33NVnAEe6HTgbF6sOBF2
 status: PUBLISHED
 createdAt: 2024-10-04T20:18:55.246Z
-updatedAt: 2024-10-31T18:40:41.214Z
+updatedAt: 2026-07-17T19:09:59.877Z
 publishedAt: 2024-10-31T18:40:41.214Z
 firstPublishedAt: 2024-10-04T21:40:07.736Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-VTEX cuenta como [ingresos de la tienda](/es/docs/tutorials/que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion) el valor total de los pedidos aprobados en el [flujo de transacciones de pago](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) y lo utiliza para calcular la factura. Sin embargo, puede que se apliquen diferentes cargos a pedidos con el mismo valor, ya que el módulo de facturación se basa en tags.
+VTEX cuenta como [ingresos de la tienda](/es/docs/tutorials/vision-general-facturacion) el valor total de los pedidos aprobados en el [flujo de transacciones de pago](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) y lo utiliza para calcular la factura. Sin embargo, puede que se apliquen diferentes cargos a pedidos con el mismo valor, ya que el módulo de facturación se basa en tags.
 
 Las tags son categorías que definen las características del pedido e indican las reglas de negocio aplicadas a la venta. El pedido se analiza en función de determinados criterios y se le asignan tags que definen el _take rate_ que se cobrará.
 
@@ -27,7 +27,7 @@ Este artículo describe las tags del módulo de facturación. El objetivo de est
 
 Para que se le puedan asignar tags, un pedido debe cumplir las siguientes condiciones:
 
-* Tener toda la [información que compone un pedido](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) (no se les asignan tags a pedidos [incompletos](/es/docs/tutorials/como-encontrar-un-pedido)).
+* Tener toda la [información que compone un pedido](/es/docs/tracks/pedidos) (no se les asignan tags a pedidos [incompletos](/es/docs/tutorials/como-encontrar-un-pedido)).
 * Tener la información de pago con los datos de autorización de la transacción financiera.
 
 > ℹ️ Los pedidos generados por [Multinivel Omnichannel Inventory (MOI)](/es/docs/tutorials/multilevel-omnichannel-inventory), también conocidos como pedidos *chain*, no incluyen la información de pago y, por lo tanto, no se les asignan tags ni pueden ser cobrados.
@@ -52,9 +52,9 @@ Las próximas secciones describen cada uno de estos grupos.
 
 A continuación se listan las tags de los canales de venta que generan el pedido:
 
-* **IsInStore:** solución [VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+* **IsInStore:** solución [VTEX Sales App](/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion).
 * **IsInfiniteShelf:** funcionalidad [Pasillo infinito](/es/docs/tracks/pasillo-infinito) de **VTEX Sales App**. Esta tag se aplica cuando el ítem del [stock](/es/docs/tutorials/gestionar-items-en-inventario) que fue vendido no estaba almacenado localmente.
-* **IsSalesAppDeliveredByMainAccount:** solución [VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc). Esta tag se aplica cuando el ítem vendido pertenecía a la [cuenta principal](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex) y la venta se realizó en el entorno de la cuenta principal.
+* **IsSalesAppDeliveredByMainAccount:** solución [VTEX Sales App](/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion). Esta tag se aplica cuando el ítem vendido pertenecía a la [cuenta principal](/es/docs/tracks/cuentas-y-arquitectura#tipos-de-cuenta-vtex) y la venta se realizó en el entorno de la cuenta principal.
 * **IsSocialSelling:** aplicación [Carrito compartido (Social Selling)](/es/docs/tutorials/como-usar-la-app-carrito-compartido).
 
   > ℹ️ La tag `IsSocialSelling` solo es válida para los pedidos de [Carrito compartido (Social Selling)](/es/docs/tutorials/como-usar-la-app-carrito-compartido) iniciados por **VTEX Sales App**.
@@ -69,7 +69,7 @@ A continuación se listan las tags de los canales de venta que generan el pedido
 
 La siguiente imagen muestra como se asignan las tags de origen de pedido en el caso de marketplaces y sellers:
 
-![marcacao_pedidos_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/contratos/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
+![marcacao_pedidos_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/facturas/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
 
 > ⚠️ A través de acuerdos comerciales, VTEX otorga un tipo de certificación a determinados canales de venta. Cuando el pedido se generó en un canal de venta que no tiene este nivel de certificación, no hay tag de pedido por origen y el pedido se marca como `IsB2C`. Es decir, sólo los canales de venta certificados están marcados por origen.
 
@@ -83,23 +83,23 @@ A continuación se listan las tags para pedidos en el entorno del seller asociad
 * **IsCertifiedMarketplace:** pedido generado en un [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado), [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner) o [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex) (tienda actuando como marketplace). Después de que se le asigna esta tag al pedido, el próximo paso obligatorio es asignarle `IsInternalCertifiedMarketplace` o `IsExternalCertifiedMarketplace`.
     * **IsExternalCertifiedMarketplace:** pedido generado en un [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado) (Amazon, Mercado Libre, entre otros) o [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner) (Shopee, Facebook, entre otros).
     * **IsInternalCertifiedMarketplace:** pedido generado en un [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex), es decir, en una tienda actuando como marketplace para un seller. Esta tag puede incluir otro nivel opcional de tags.
-        * **IsInternalCertifiedMarketplaceAndIsParentAccount:** pedido generado en un marketplace VTEX donde el marketplace es la cuenta principal y el seller es una [subcuenta](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#entorno-adicional), es decir, es un entorno adicional.
+        * **IsInternalCertifiedMarketplaceAndIsParentAccount:** pedido generado en un marketplace VTEX donde el marketplace es la cuenta principal y el seller es una [subcuenta](/es/docs/tracks/cuentas-y-arquitectura#entorno-adicional), es decir, es un entorno adicional.
 
 ### Seller
 
 A continuación se listan las tags de pedidos en el entorno del marketplace asociadas al seller propietario del ítem vendido:
 
-* **IsSeller:** pedido generado en un marketplace cuando el ítem vendido pertenece al [seller](/es/tutorial/o-que-e-um-seller). Todo pedido `IsSeller` es por obligación `IsExternalSeller` o `IsCertifiedSeller`. Esta primera tag es para el sistema.
+* **IsSeller:** pedido generado en un marketplace cuando el ítem vendido pertenece al [seller](/es/docs/tutorials/que-es-un-seller). Todo pedido `IsSeller` es por obligación `IsExternalSeller` o `IsCertifiedSeller`. Esta primera tag es para el sistema.
 * **IsExternalSeller:** pedido generado en un [marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#como-marketplace-vtex) (tienda actuando como marketplace) donde el seller propietario del ítem vendido es un [seller externo](https://developers.vtex.com/docs/guides/external-seller-integration-guide).
 * **IsCertifiedSeller:** pedido generado en [marketplace certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-certificado), [marketplace partner](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-marketplace-partner) o marketplace VTEX (tienda actuando como marketplace) donde el seller propietario del ítem vendido es un [seller VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#ser-um-seller-vtex). Todo pedido `IsCertifiedSeller` es por obligación `IsInternalCertifiedSeller`.
     * **IsInternalCertifiedSeller:** esta tag es para el sistema, ya que a todo pedido `IsInternalCertifiedSeller` debe obligatoriamente asignársele la tag `IsInternalCertifiedSellerAndIsChildAccount` o `IsSellerPortal`.
         * **IsInternalCertifiedSellerAndIsChildAccount:** pedido generado en un marketplace VTEX donde el marketplace es una cuenta principal y el seller propietario del ítem vendido es una [cuenta franquicia](/es/docs/tutorials/seller-white-label#relacion-entre-seller-white-label-y-cuenta-franquicia).
-        * **IsSellerPortal:** pedido generado en un marketplace VTEX donde el marketplace es una cuenta principal y el seller propietario del ítem vendido es una [cuenta Seller Portal](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
+        * **IsSellerPortal:** pedido generado en un marketplace VTEX donde el marketplace es una cuenta principal y el seller propietario del ítem vendido es una [cuenta Seller Portal](/es/docs/tracks/cuentas-y-arquitectura#tipos-de-cuenta-vtex).
 
 ## Tags de tipo de cliente
 
 A continuación se listan las tags de tipo de cliente del pedido:
 
-* **IsB2B:** el cliente es una persona jurídica y el pedido se generó en un [escenario B2B](/es/docs/tutorials/configurando-b2b-na-vtex) (_Business to Business_).
+* **IsB2B:** el cliente es una persona jurídica y el pedido se generó en un [escenario B2B](/es/docs/tutorials/configurando-b2b-na-vtex-es) (_Business to Business_).
 * **IsB2C:** el cliente es una persona física y el pedido se generó en un escenario B2C (_Business to Customer_).
 

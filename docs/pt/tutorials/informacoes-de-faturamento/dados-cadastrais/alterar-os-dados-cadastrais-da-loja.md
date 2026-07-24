@@ -3,7 +3,7 @@ title: 'Alterar os dados cadastrais da minha loja'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: PUBLISHED
 createdAt: 2018-03-12T15:29:14.300Z
-updatedAt: 2025-05-21T15:51:21.764Z
+updatedAt: 2026-07-17T19:39:07.940Z
 publishedAt: 2025-05-21T15:51:21.764Z
 firstPublishedAt: 2018-03-12T15:31:33.680Z
 contentType: tutorial
@@ -23,5 +23,5 @@ Você pode realizar várias atualizações nos dados cadastrais da sua loja, com
 - Alteração de CPF para CNPJ
 - Alteração de CNPJ
 
-Para isso, é necessário que você abra um [ticket](https://support.vtex.com/hc/pt-br/requests/new) comunicando sua decisão ao Financeiro e selecione a opção correspondente à que você deseja alterar. Por exemplo, ["Alteração de CNPJ - Transferência de Responsabilidade Contratual"](/pt/docs/tutorials/como-fazer-a-alteracao-do-meu-cnpj-novo).
+Para isso, é necessário que você abra um [ticket](https://supporticket.vtex.com/support) comunicando sua decisão ao Financeiro e selecione a opção correspondente à que você deseja alterar. Por exemplo, ["Alteração de CNPJ - Transferência de Responsabilidade Contratual"](/pt/docs/tutorials/como-fazer-a-alteracao-do-meu-cnpj-novo).
 

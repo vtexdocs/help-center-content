@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Discover the new VTEX Sales App Extensibility",
+                    "es": "Conoce el nuevo VTEX Sales App Extensibility",
+                    "pt": "Conheça o novo VTEX Sales App Extensibility"
+                  },
+                  "slug": {
+                    "en": "2026-07-23-discover-the-new-vtex-sales-app-extensibility",
+                    "es": "2026-07-23-conoce-el-nuevo-vtex-sales-app-extensibility",
+                    "pt": "2026-07-23-conheca-o-novo-vtex-sales-app-extensibility"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Master Data usage dashboard in the VTEX Admin",
                     "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
                     "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
@@ -113,6 +128,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
+                    "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "pt": "Delivery Promise disponível em Open Beta",
@@ -16352,21 +16382,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating a financial role",
-                    "es": "Crear un rol financiero",
-                    "pt": "Criar um perfil de acesso financeiro"
-                  },
-                  "slug": {
-                    "en": "creating-a-financial-access-profile",
-                    "es": "crear-un-rol-financiero",
-                    "pt": "criar-um-perfil-de-acesso-financeiro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Creating roles",
                     "es": "Crear nuevo rol",
                     "pt": "Criar perfil de acesso"
@@ -18712,13 +18727,13 @@
         {
           "name": {
             "en": "Billing",
-            "es": "Facturas",
-            "pt": "Faturas"
+            "es": "Facturación",
+            "pt": "Informações de faturamento"
           },
           "slug": {
             "en": "billing-category",
-            "es": "facturas-categoria",
-            "pt": "faturas-categoria"
+            "es": "facturacion-categoria",
+            "pt": "informacoes-de-faturamento-categoria"
           },
           "origin": "",
           "type": "category",
@@ -18739,81 +18754,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Accounts Payable - Brazil",
-                    "es": "Cuentas a Pagar - Brasil",
-                    "pt": "Contas a Pagar - Brasil"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-brazil",
-                    "es": "cuentas-a-pagar-brasil",
-                    "pt": "contas-a-pagar-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Accounts Payable - International",
-                    "es": "Cuentas por pagar - Internacional",
-                    "pt": "Contas a pagar - Internacional"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-international",
-                    "es": "cuentas-por-pagar-internacional",
-                    "pt": "contas-a-pagar-internacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Consumption tags used in the billing module",
-                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
-                    "pt": "Marcações de pedidos pelo módulo de cobranças"
-                  },
-                  "slug": {
-                    "en": "consumption-tags-used-in-the-billing-module",
-                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
-                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to request a platform SLA verification?",
-                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
-                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
-                  },
-                  "slug": {
-                    "en": "how-to-request-sla-verification",
-                    "es": "como-solicitar-la-verificacion-de-sla",
-                    "pt": "como-solicitar-a-apuracao-de-sla"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a new environment",
-                    "es": "Contratar nuevo entorno",
-                    "pt": "Contratar novo ambiente"
-                  },
-                  "slug": {
-                    "en": "requesting-a-new-environment",
-                    "es": "contratar-nuevo-entorno",
-                    "pt": "contratar-novo-ambiente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Requesting contract termination in Brazil",
                     "es": "Solicitar rescisión contractual en Brasil",
                     "pt": "Solicitar rescisão contratual no Brasil"
@@ -18832,17 +18772,32 @@
             {
               "name": {
                 "en": "Invoices",
-                "es": "Títulos",
-                "pt": "Títulos"
+                "es": "Facturas",
+                "pt": "Faturas"
               },
               "slug": {
                 "en": "invoices-subcategory",
-                "es": "titulos-subcategoria",
-                "pt": "títulos-subcategoria"
+                "es": "facturas-subcategoria",
+                "pt": "faturas-subcategoria"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Consumption tags used in the billing module",
+                    "es": "Tags de pedidos utilizadas por el módulo de facturación",
+                    "pt": "Marcações de pedidos pelo módulo de cobranças"
+                  },
+                  "slug": {
+                    "en": "consumption-tags-used-in-the-billing-module",
+                    "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
+                    "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "How and when do I receive my invoice?",
@@ -18868,6 +18823,21 @@
                     "en": "how-to-download-the-vtex-invoices",
                     "es": "como-descargar-las-facturas-de-vtex",
                     "pt": "como-fazer-download-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to request a platform SLA verification?",
+                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
+                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
+                  },
+                  "slug": {
+                    "en": "how-to-request-sla-verification",
+                    "es": "como-solicitar-la-verificacion-de-sla",
+                    "pt": "como-solicitar-a-apuracao-de-sla"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18907,6 +18877,52 @@
             },
             {
               "name": {
+                "en": "Registration information",
+                "es": "Datos de registro",
+                "pt": "Dados cadastrais"
+              },
+              "slug": {
+                "en": "registration-information",
+                "es": "datos-de-registro",
+                "pt": "dados-cadastrais"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Changing my store’s registration details",
+                    "es": "Modificar los datos de registro de mi tienda",
+                    "pt": "Alterar os dados cadastrais da minha loja"
+                  },
+                  "slug": {
+                    "en": "changing-the-stores-registration-details",
+                    "es": "modificar-los-datos-de-registro-de-la-tienda",
+                    "pt": "alterar-os-dados-cadastrais-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How do I change my CNPJ?",
+                    "es": "¿Cómo cambiar mi CNPJ?",
+                    "pt": "Como fazer a alteração do meu CNPJ?"
+                  },
+                  "slug": {
+                    "en": "how-do-i-change-my-cnpj-new",
+                    "es": "como-cambiar-mi-cnpj-nuevo",
+                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Billing - Overview",
                 "es": "Facturación - Información general",
                 "pt": "Faturas - Visão geral"
@@ -18914,22 +18930,7 @@
               "slug": {
                 "en": "billing-module-overview",
                 "es": "vision-general-facturacion",
-                "pt": "visao-geral-faturas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Changing my store’s registration details",
-                "es": "Modificar los datos de registro de mi tienda",
-                "pt": "Alterar os dados cadastrais da minha loja"
-              },
-              "slug": {
-                "en": "changing-the-stores-registration-details",
-                "es": "modificar-los-datos-de-registro-de-la-tienda",
-                "pt": "alterar-os-dados-cadastrais-da-loja"
+                "pt": "visao-geral-informacoes-de-faturamento"
               },
               "origin": "",
               "type": "markdown",
@@ -26207,14 +26208,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "How do I change my CNPJ?",
-                    "es": "¿Cómo cambiar mi CNPJ?",
-                    "pt": "Como fazer a alteração do meu CNPJ?"
+                    "en": "Creating a financial role",
+                    "es": "Crear un rol financiero",
+                    "pt": "Criar um perfil de acesso financeiro"
                   },
                   "slug": {
-                    "en": "how-do-i-change-my-cnpj-new",
-                    "es": "como-cambiar-mi-cnpj-nuevo",
-                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
+                    "en": "creating-a-financial-access-profile",
+                    "es": "crear-un-rol-financiero",
+                    "pt": "criar-um-perfil-de-acesso-financeiro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Requesting a new environment",
+                    "es": "Contratar nuevo entorno",
+                    "pt": "Contratar novo ambiente"
+                  },
+                  "slug": {
+                    "en": "requesting-a-new-environment",
+                    "es": "contratar-nuevo-entorno",
+                    "pt": "contratar-novo-ambiente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39105,6 +39121,52 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "Suppliers",
+            "es": "Proveedores",
+            "pt": "Fornecedores"
+          },
+          "slug": {
+            "en": "suppliers",
+            "es": "proveedores",
+            "pt": "fornecedores"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Accounts Payable - Brazil",
+                "es": "Cuentas a Pagar - Brasil",
+                "pt": "Contas a Pagar - Brasil"
+              },
+              "slug": {
+                "en": "accounts-payable-brazil",
+                "es": "cuentas-a-pagar-brasil",
+                "pt": "contas-a-pagar-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Accounts Payable - International",
+                "es": "Cuentas por pagar - Internacional",
+                "pt": "Contas a pagar - Internacional"
+              },
+              "slug": {
+                "en": "accounts-payable-international",
+                "es": "cuentas-por-pagar-internacional",
+                "pt": "contas-a-pagar-internacional"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -40045,6 +40107,21 @@
                 "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
                 "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
                 "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Quotes Organization and Cost Center Filter doesn't work for users with Access All Quotes and Carts Permission",
+                "es": "Mi filtro de organización y centro de costos de cotizaciones no funciona para los usuarios con permiso de acceso a todas las cotizaciones y carritos.",
+                "pt": "A organização \"Minhas Cotações\" e o filtro de centro de custos não funcionam para usuários com permissão de acesso a todas as cotações e carrinhos."
+              },
+              "slug": {
+                "en": "my-quotes-organization-and-cost-center-filter-doesnt-work-for-users-with-access-all-quotes-and-carts-permission",
+                "es": "mi-filtro-de-organizacion-y-centro-de-costos-de-cotizaciones-no-funciona-para-los-usuarios-con-permiso-de-acceso-a-todas-las-cotizaciones-y-carritos",
+                "pt": "a-organizacao-minhas-cotacoes-e-o-filtro-de-centro-de-custos-nao-funcionam-para-usuarios-com-permissao-de-acesso-a-todas-as-cotacoes-e-carrinhos"
               },
               "origin": "",
               "type": "markdown",
@@ -54840,13 +54917,13 @@
             {
               "name": {
                 "en": "Timeout in Analytics Query Can Prevent Inventory Log from Loading",
-                "es": "El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario",
-                "pt": "O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário"
+                "es": "Un tiempo de espera agotado en una consulta de análisis puede impedir que se cargue el registro de inventario.",
+                "pt": "Um tempo limite excedido na consulta de análise pode impedir o carregamento do log de inventário."
               },
               "slug": {
                 "en": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
-                "es": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
-                "pt": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario"
+                "es": "un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario",
+                "pt": "um-tempo-limite-excedido-na-consulta-de-analise-pode-impedir-o-carregamento-do-log-de-inventario"
               },
               "origin": "",
               "type": "markdown",
@@ -69297,6 +69374,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
+                "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
+                "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
+              },
+              "slug": {
+                "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
+                "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
+                "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
               },
               "origin": "",
               "type": "markdown",

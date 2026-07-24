@@ -3,7 +3,7 @@ title: 'Modificar los datos de registro de mi tienda'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: PUBLISHED
 createdAt: 2018-03-12T15:29:14.300Z
-updatedAt: 2025-05-21T15:51:21.764Z
+updatedAt: 2026-07-17T19:39:07.940Z
 publishedAt: 2025-05-21T15:51:21.764Z
 firstPublishedAt: 2018-03-12T15:31:33.680Z
 contentType: tutorial
@@ -21,4 +21,4 @@ Puedes realizar varias actualizaciones en los datos de registro de la tienda, ta
 - Modificación de CPF a CNPJ
 - Modificación de CNPJ
 
-Para ello, es necesario que abra un [ticket](https://support.vtex.com/hc/es-419/requests/new) comunicando su decisión al equipo Financiera y seleccione la opción correspondiente a la que desea modificar. Por ejemplo, ["Cambio de CNPJ - Transferencia de Responsabilidad contractual"](/es/tutorial/como-fazer-a-alteracao-do-meu-cnpj-novo).
+Para ello, es necesario que abra un [ticket](https://supporticket.vtex.com/support) comunicando su decisión al equipo Financiera y seleccione la opción correspondiente a la que desea modificar. Por ejemplo, ["Cambio de CNPJ - Transferencia de Responsabilidad contractual"](/es/docs/tutorials/como-cambiar-mi-cnpj-nuevo).
