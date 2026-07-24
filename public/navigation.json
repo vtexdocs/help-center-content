@@ -39061,13 +39061,13 @@
             },
             {
               "name": {
-                "en": "Analytics",
                 "es": "Analytics",
+                "en": "Analytics",
                 "pt": "Analytics"
               },
               "slug": {
-                "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
+                "en": "",
                 "pt": ""
               },
               "origin": "",
