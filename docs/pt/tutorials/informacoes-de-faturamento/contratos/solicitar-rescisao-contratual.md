@@ -29,8 +29,8 @@ Siga os passos abaixo:
 6. Clique em `CONTINUAR`.
 7. No campo **Descreva detalhadamente o que aconteceu**, informe:
 
-   - A conta ou razão social para a qual deseja solicitar a rescisão.
-   - Se deseja rescindir o contrato por completo ou desativar apenas algumas contas e, neste caso, quais contas.
+   - Se deseja rescindir o contrato por completo ou desativar apenas algumas contas.
+   - A conta ou razão social afetada — ou, se for desativação parcial, quais contas deseja desativar.
    - A data em que deseja inativar as contas.
 
 8. Clique em `ENVIAR`.
@@ -41,12 +41,12 @@ Após o envio do ticket, o processo será iniciado internamente. Aguarde o retor
 
 ## Documentos para clientes do Brasil
 
-> ℹ️ Esta seção se aplica apenas a clientes com faturamento no Brasil.
+>⚠️ As instruções desta seção se aplicam apenas a clientes com faturamento no Brasil.
 
 Se a sua loja opera no Brasil, inclua no ticket os seguintes documentos:
 
 - Cartão CNPJ
 - Contrato social
-- Nome, RG, CPF e e-mail do atual representante legal, que assinará o documento de distrato
+- Nome, RG, CPF e e-mail do atual representante legal, que assinará o documento de distrato.
 
 Concluída a análise, o distrato para assinatura eletrônica será enviado por e-mail via DocuSign.
