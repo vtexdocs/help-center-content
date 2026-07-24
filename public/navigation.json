@@ -43580,6 +43580,21 @@
             },
             {
               "name": {
+                "en": "Seller Portal Image Upload (vtex.catalog-images) returns 404 for certain filename patterns",
+                "es": "La carga de imágenes del portal del vendedor (vtex.catalog-images) devuelve un error 404 para ciertos patrones de nombres de archivo.",
+                "pt": "O recurso de upload de imagens no Seller Portal (vtex.catalog-images) retorna o erro 404 para determinados padrões de nome de arquivo."
+              },
+              "slug": {
+                "en": "seller-portal-image-upload-vtexcatalogimages-returns-404-for-certain-filename-patterns",
+                "es": "la-carga-de-imagenes-del-portal-del-vendedor-vtexcatalogimages-devuelve-un-error-404-para-ciertos-patrones-de-nombres-de-archivo",
+                "pt": "o-recurso-de-upload-de-imagens-no-seller-portal-vtexcatalogimages-retorna-o-erro-404-para-determinados-padroes-de-nome-de-arquivo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller Portal Product Doesn't Load When Without Images",
                 "es": "El producto no se carga en el portal del vendedor cuando no hay imágenes",
                 "pt": "O produto no Portal do Vendedor não carrega quando não há imagens"
