@@ -29,11 +29,9 @@ To configure a card widget, follow the instructions below:
 
 1. Click the configuration button of the card you want to configure. The **Widget gallery** will open on the side.
 2. Select the type of widget you want to configure:
-
 - [Runs](#runs).
 - [Flow result](#flow-result).
 - [Data crossing](#data-crossing).
-
 3. Complete the configuration fields for the selected widget.
 4. Click `Save`.
 
@@ -82,12 +80,10 @@ To configure this widget, complete the fields below:
    - **Flow result:** Uses the result of a specific flow step as a value.
      - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
 4. In **Operation**, choose how to combine the two values:
-
 - **Multiply:** Multiplies the first value by the second.
 - **Difference:** Calculates the difference between the two values.
 - **Sum:** Adds the two values.
 - **Percentage:** Calculates the percentage of the first value relative to the second.
-
 5. To monitor data with a currency symbol, check the **Currency** box.
 6. Click `Save`.
 
@@ -99,12 +95,10 @@ To configure a column widget, follow the instructions below:
 
 1. Click the Configure button on the column you want to configure. The **Widget gallery** will open on the side.
 2. Select the type of widget you want to configure:
-
 - [Funnel](#funnel).
 - [Recurrence](#recurrence).
 - [VTEX](#vtex).
 - [Template conversion](#template-conversion).
-
 3. Complete the configuration fields for the selected widget.
 4. Click `Save`.
 

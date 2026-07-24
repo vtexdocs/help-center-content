@@ -106,7 +106,7 @@ Esta pestaña contiene las siguientes secciones:
 Muestra un resumen consolidado de los chats de soporte finalizados en el periodo seleccionado:
 
 | Métrica | Descripción |
-| - | - |
+| --- | --- |
 | **Finalizados** | Total de chats de soporte finalizados en el periodo. |
 | **Tiempo de espera promedio** | Tiempo promedio que los contactos esperaron en la cola antes de ser atendidos. |
 | **Tiempo promedio hasta la primera respuesta** | Tiempo promedio desde que el contacto entra en el chat de soporte hasta que recibe el primer mensaje del representante. |
@@ -146,7 +146,7 @@ Tabla que lista los chats de soporte individuales finalizados en el periodo. Pue
 Esta pestaña contiene información sobre los chats de soporte finalizados. Incluye datos de representante, departamento, cola, tiempo de espera, tiempo hasta la primera respuesta, duración, contacto y protocolo. Puedes filtrar los resultados por **Representante**, **Contacto** y **Protocolo**.
 
 | Columna | Descripción |
-| - | - |
+| --- | --- |
 | Representante | Nombre del representante. |
 | Departamento | Departamento del representante (como **Logística**, **Finanzas**, entre otros). |
 | Cola | Cola del chat de soporte (como **Seguimiento**, **Pagos**, entre otros). |
@@ -161,7 +161,7 @@ Esta pestaña contiene información sobre los chats de soporte finalizados. Incl
 Esta pestaña ofrece información de los representantes en el periodo seleccionado. También puedes filtrar por representante en el campo **Representante**.
 
 | Columna | Descripción |
-| - | - |
+| --- | --- |
 | Representante | Nombre del representante. |
 | Total de chats de soporte | Número de chats de soporte de este representante en el periodo seleccionado. |
 | Tiempo promedio hasta la primera respuesta | Intervalo promedio entre el momento en que el contacto entra al chat de soporte y el primer mensaje del representante. |
@@ -194,7 +194,7 @@ El dashboard contiene las siguientes secciones:
 La sección **Conversaciones** muestra un resumen del volumen y la distribución de las conversaciones en el periodo seleccionado.
 
 | Métrica | Descripción |
-| - | - |
+| --- | --- |
 | **Total de conversaciones** | Número total de conversaciones iniciadas en el periodo. |
 | **Atendido por IA** | Porcentaje y número total de conversaciones finalizadas completamente por el agente de IA sin transferirlas a soporte humano. |
 | **No atendido por IA** | Porcentaje y número total de conversaciones en las que el agente de IA no logró finalizar el chat de soporte. |
@@ -205,7 +205,7 @@ La sección **Conversaciones** muestra un resumen del volumen y la distribución
 La sección **Contactos** muestra métricas sobre los contactos que iniciaron conversaciones en el periodo.
 
 | Métrica | Descripción |
-| - | - |
+| --- | --- |
 | **Contactos únicos** | Número de contactos distintos que iniciaron al menos una conversación en el periodo. |
 | **Contactos recurrentes** | Número de contactos que iniciaron más de una conversación. También muestra el porcentaje en relación con el total de contactos únicos. |
 | **Promedio de conversaciones por contacto** | Promedio de conversaciones iniciadas por contacto en el periodo. |
@@ -260,7 +260,7 @@ El gráfico contiene la siguiente información:
 La tabla de **Clics en los botones** muestra la información de los botones en los que hicieron clic los contactos.
 
 | Dato | Descripción |
-| - | - |
+| --- | --- |
 | **Texto del botón** | Texto del botón en el que hizo clic el cliente. |
 | **Tipo** | Tipo de botón, como link o respuesta rápida. |
 | **Total** | Total de clics en el botón. |
@@ -269,7 +269,7 @@ La tabla de **Clics en los botones** muestra la información de los botones en l
 Para ver todos los datos, haz clic en `Todos los datos` al lado del nombre de la plantilla. Esta sección muestra una tabla con el volumen de mensajes enviados, agrupados por categoría de plantilla de WhatsApp Business.
 
 | Categoría | Descripción |
-| - | - |
+| --- | --- |
 | **Marketing** | Mensajes promocionales, como ofertas, lanzamientos y comunicaciones de campaña. |
 | **Servicio** | Mensajes de chat de soporte al cliente iniciados en respuesta a una conversación abierta por el contacto. |
 | **Utilidad** | Mensajes transaccionales, como confirmaciones de pedido, actualizaciones de envío y notificaciones de cuenta. |

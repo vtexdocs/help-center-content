@@ -106,7 +106,7 @@ This tab has the following sections:
 Shows a consolidated summary of the support chats completed in the selected period:
 
 | Metric | Description |
-| - | - |
+| --- | --- |
 | **Completed** | Total number of support chats closed during the period. |
 | **Average wait time** | Average time contacts waited in the queue before the support chat started. |
 | **Average time to 1st response** | Average time between the contact entering the support chat and receiving the first message from the representative. |
@@ -146,7 +146,7 @@ Table listing the individual support chats completed in the period. You can swit
 This tab contains information about completed support chats, including data on representative, department, queue, wait time, time to first response, duration, contact, and protocol. You can filter results by **representative**, **contact**, and **protocol**.
 
 | Column | Description |
-| - | - |
+| --- | --- |
 | Representative | Representative name. |
 | Department | Representative department (such as **Logistics**, **Finance**, among others). |
 | Queue | Support chat queue (such as **Tracking**, **Payments**, among others). |
@@ -161,7 +161,7 @@ This tab contains information about completed support chats, including data on r
 This tab provides information about representatives in the selected period. You can also filter by representative in the **Representative** field.
 
 | Column | Description |
-| - | - |
+| --- | --- |
 | Representative | Representative name. |
 | Total support chats | Number of support chats handled by this representative in the selected period. |
 | Average time to 1st response | Average time between the contact entering the support chat and receiving the first message from the representative. |
@@ -194,7 +194,7 @@ This dashboard contains the following sections:
 The **Conversations** section shows a summary of the volume and distribution of conversations during the selected period.
 
 | Metric | Description |
-| - | - |
+| --- | --- |
 | **Total conversations** | Total number of conversations started during the period. |
 | **Handled by AI** | Percentage and total number of conversations entirely closed by the AI agent, without transfer to human support. |
 | **Not handled by AI** | Percentage and total number of conversations in which the AI agent couldn't complete the support chat. |
@@ -205,7 +205,7 @@ The **Conversations** section shows a summary of the volume and distribution of 
 The **Contacts** section displays metrics about the contacts who started conversations during the period.
 
 | Metric | Description |
-| - | - |
+| --- | --- |
 | **Unique contacts** | Number of distinct contacts who started at least one conversation during the period. |
 | **Returning contacts** | Number of contacts who started more than one conversation. Also shows the percentage relative to the total number of unique contacts. |
 | **Average conversations per contact** | Average number of conversations started per contact during the period. |
@@ -260,7 +260,7 @@ The chart contains the following information:
 The **Button clicks** table displays information about the buttons clicked by contacts.
 
 | Column | Description |
-| - | - |
+| --- | --- |
 | **Button text** | Text displayed on the button clicked by the customer. |
 | **Type** | Button type, such as link or quick reply. |
 | **Total** | Total button clicks. |
@@ -269,7 +269,7 @@ The **Button clicks** table displays information about the buttons clicked by co
 To view all the data, click `All data` next to the template name. This section displays a table with the volume of messages sent, grouped by WhatsApp Business template category.
 
 | Category | Description |
-| - | - |
+| --- | --- |
 | **Marketing** | Promotional messages, such as offers, launches, and campaign communications. |
 | **Service** | Customer support chat messages initiated in response to a conversation opened by the contact. |
 | **Utility** | Transactional messages, such as order confirmations, shipping updates, and account notifications. |
