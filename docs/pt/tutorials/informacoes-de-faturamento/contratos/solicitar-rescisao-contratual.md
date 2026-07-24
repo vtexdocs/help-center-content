@@ -44,8 +44,8 @@ Após o envio do ticket, o processo será iniciado internamente. Aguarde o retor
 
 Se a sua loja opera no Brasil, inclua no ticket os seguintes documentos:
 
-- Cartão CNPJ
-- Contrato social
+- Cartão CNPJ da loja.
+- Contrato social.
 - Dados do representante legal que assinará o documento de distrato: RG, CPF e e-mail.
 
 Concluída a análise, o distrato para assinatura eletrônica será enviado por e-mail via DocuSign.
