@@ -18785,6 +18785,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Checking the invoice details",
+                    "es": "Verificando los detalles de las facturas",
+                    "pt": "Verificar o detalhamento das faturas"
+                  },
+                  "slug": {
+                    "en": "checking-the-invoice-details",
+                    "es": "verificando-los-detalles-de-las-facturas",
+                    "pt": "verificar-o-detalhamento-das-faturas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Consumption tags used in the billing module",
                     "es": "Tags de pedidos utilizadas por el módulo de facturación",
                     "pt": "Marcações de pedidos pelo módulo de cobranças"
