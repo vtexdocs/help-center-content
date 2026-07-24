@@ -4,22 +4,48 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
 
 ## Table of Contents
 
-- [In this repository](#in-this-repository)
-- [Managing Help Center documentation](#managing-help-center-documentation)
-  - [Filling in front matter information](#filling-in-front-matter-information)
-  - [Applying filters to an announcement](#applying-filters-to-an-announcement)
-  - [Applying categorization and filters to a troubleshooting article](#applying-categorization-and-filters-to-a-troubleshooting-article)
-  - [Publishing a new article](#publishing-a-new-article)
-    - [Adding images](#adding-images)
-    - [Adding a download file to the article](#adding-a-download-file-to-the-article)
-  - [Updating a published article](#updating-a-published-article)
-  - [Creating a redirect](#creating-a-redirect)
-  - [Settings for specific content](#settings-for-specific-content)
-- [GitHub Actions](#github-actions)
-  - [Navigation Generation](#navigation-generation)
-  - [Broken Page Finder](#broken-page-finder)
-  - [Changelog Generation](#changelog-generation)
-  - [Index Documents](#index-documents)
+- [help-center-content](#help-center-content)
+  - [Table of Contents](#table-of-contents)
+  - [In this repository](#in-this-repository)
+  - [Managing Help Center documentation](#managing-help-center-documentation)
+    - [Filling in front matter information](#filling-in-front-matter-information)
+      - [Announcements fields](#announcements-fields)
+      - [Track fields](#track-fields)
+      - [Troubleshooting fields](#troubleshooting-fields)
+    - [Applying filters to an announcement](#applying-filters-to-an-announcement)
+      - [Announcements Type filters](#announcements-type-filters)
+      - [Announcements Area filters](#announcements-area-filters)
+        - [Example of announcements filters in the front matter](#example-of-announcements-filters-in-the-front-matter)
+    - [Applying categorization and filters to a troubleshooting article](#applying-categorization-and-filters-to-a-troubleshooting-article)
+      - [Troubleshooting primary categories](#troubleshooting-primary-categories)
+      - [Troubleshooting Type filters](#troubleshooting-type-filters)
+      - [Troubleshooting Area filters](#troubleshooting-area-filters)
+        - [Example of troubleshooting categorization in the front matter](#example-of-troubleshooting-categorization-in-the-front-matter)
+      - [Troubleshooting filter governance](#troubleshooting-filter-governance)
+      - [Troubleshooting taxonomy governance for scale](#troubleshooting-taxonomy-governance-for-scale)
+    - [Publishing a new article](#publishing-a-new-article)
+      - [Adding images](#adding-images)
+        - [Maximum image size](#maximum-image-size)
+      - [Adding a download file to the article](#adding-a-download-file-to-the-article)
+    - [Updating a published article](#updating-a-published-article)
+    - [Localization workflow](#localization-workflow)
+      - [Placeholder for EN and ES files](#placeholder-for-en-and-es-files)
+      - [Triggering the localization task](#triggering-the-localization-task)
+      - [Linking the EDU task](#linking-the-edu-task)
+      - [When the automation runs](#when-the-automation-runs)
+        - [Exclusions](#exclusions)
+      - [Mixed content](#mixed-content)
+      - [Re-running after PR updates](#re-running-after-pr-updates)
+      - [Production lock (auto-update cutoff)](#production-lock-auto-update-cutoff)
+      - [Quick checklist](#quick-checklist)
+    - [Creating a redirect](#creating-a-redirect)
+    - [Settings for specific content](#settings-for-specific-content)
+      - [Track articles: Title information](#track-articles-title-information)
+  - [GitHub Actions](#github-actions)
+    - [Navigation Generation](#navigation-generation)
+    - [Broken Page Finder](#broken-page-finder)
+    - [Changelog Generation](#changelog-generation)
+    - [Index Documents](#index-documents)
 
 ## In this repository
 
@@ -328,11 +354,12 @@ Follow the steps below to create a new article in the Help Center:
    >
 3. [Add images](#adding-images) to the article, if necessary.
 4. Fill in the [front matter](#filling-in-front-matter-information) of the article.
-5. Submit your PR for review on GitHub.
-6. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
-7. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
-8. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-images) to insert them into the EN and ES versions.
-9. Approve the PR and apply the merge to publish the article.
+5. Create placeholder files for the EN and ES versions in their respective locale folders. Each placeholder should contain only the front matter (no body content) — this signals to the Localization team which files need to be translated and where to upload the translations.
+6. Submit your PR for review on GitHub.
+7. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
+8. After review, add the appropriate `localization needed` label to trigger the localization workflow. See [Localization workflow](#localization-workflow) for details.
+9. Once the translations are complete, check the contents of the files updated by the localization team in the EN and ES folders. If the article in the PT version contains images, repeat this [procedure](#adding-images) to insert them into the EN and ES versions.
+10. Approve the PR and apply the merge to publish the article.
 
 > ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository is synched to the `helpcenter` repository, so new articles are automatically updated in the Help Center portal's navigation sidebar.
 
@@ -401,11 +428,100 @@ To update the content of an article that is already published on the Help Center
 
 1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
 2. Access and update the **PT version** of the desired file in the repository.
-3. Access and update the files in the EN and ES versions with the same information (in Portuguese) inserted in the PT file.
+3. In the corresponding EN and ES files, update the `updatedAt` field to match the date set in the PT version. This acts as a placeholder that signals to the Localization team which files need to be translated. See [an example of this pattern](https://github.com/vtexdocs/help-center-content/pull/865/changes).
 4. Submit your PR for review.
-5. Register the PR link in the `Document Link` field of the JIRA task and request the translation of the content (EN and ES versions), moving the card status to `Translating`.
+5. Add the appropriate `localization needed` label to trigger the localization workflow. See [Localization workflow](#localization-workflow) for details.
 6. After the translation is complete, check the content translated by the localization team in the EN and ES version files.
 7. Approve the PR and apply the merge to publish the article.
+
+### Localization workflow
+
+#### Placeholder for EN and ES files
+
+For both new articles and updates to existing ones, you must add a placeholder for the EN and ES files before opening a PR. This tells the Localization team exactly which files need to be translated and where to upload the translations.
+
+- **New articles**: create the EN and ES files with only the front matter (no body content).
+- **Updates to existing articles**: update the `updatedAt` field in the EN and ES files to match the date set in the PT version. See [an example of this pattern](https://github.com/vtexdocs/help-center-content/pull/865/changes).
+
+#### Triggering the localization task
+
+A GitHub Actions workflow automatically opens a Localization JIRA task when a PR is labeled `localization needed`.
+When a PR is ready for localization, add **one** of these labels:
+
+| Label | Priority | Estimated delivery |
+| :--- | :--- | :--- |
+| `localization needed (high)` | High | **Friday** of the following week (~1 week) |
+| `localization needed (medium)` | Medium | High deadline **+ 1 week** |
+| `localization needed (low)` | Low | High deadline **+ 2 weeks** |
+
+After the workflow runs, a comment appears on the PR confirming ticket creation. If you added the EDU task in the PR, the comment will also confirm it has been linked:
+
+> **Localization task**
+> Localization ticket **LOC-xxxxx** created. It blocks **EDU-xxxxx**.
+> Estimated delivery date: **YYYY-MM-DD**
+
+If you have an issue with the deadline, talk to the Localization team.
+
+#### Linking the EDU task
+
+To link the source EDU task, include **`EDU-xxxxx`** in any of:
+
+- PR **title**
+- PR **description**
+- PR **branch name**
+
+The automation creates a **blocks** link (LOC blocks EDU) and mentions the EDU key in the PR comment.
+
+> ℹ️ If no `EDU` key is found, the LOC task is still created, but nothing is linked.
+
+#### When the automation runs
+
+These three conditions must be true:
+
+- PR targets **`main`**
+- PR adds **new lines** to markdown files in:
+  - `docs/pt/**` (Portuguese source)
+  - `docs/en/**` (English source)
+  - `localization/**` (treated as Portuguese source)
+- You add one of the **`localization needed (...)`** labels above
+
+##### Exclusions
+
+The automation will not run when **any** of these are true:
+
+- Changes are only outside the scope above (e.g. `docs/es/`, `docs/pt/metadata.json`)
+- Changes are **deletions only** (no new lines added)
+- Label was added **before** content changed — remove and re-add the label after new commits
+
+#### Mixed content
+
+If a PR changes both `docs/pt` and `docs/en`, only **Portuguese** content is sent to localization; `docs/en` changes are ignored.
+
+#### Re-running after PR updates
+
+If you push more content after applying the label:
+
+1. Remove the `localization needed (...)` label
+2. Add it again
+
+The **same LOC task** is updated (not duplicated), as long as production lock does not apply (below).
+
+#### Production lock (auto-update cutoff)
+
+If a LOC task **already exists** for the PR and the **Prepare file to be localized** subtask is **due today or overdue** (it is usually due the Friday before the parent task deadline), the automation **stops updating** JIRA and Crowdin.
+
+- A comment is posted on the LOC task in JIRA telling the assignee the PR changed but the task was not auto-updated
+- You must coordinate changes manually with the localization team
+
+Before that date, re-labeling the PR will refresh the LOC task, including its description, subtasks, due dates, and translatable files.
+
+#### Quick checklist
+
+1. PR to `main` with new content in `docs/pt/`, `docs/en/`, or `localization/`, preferably in only one of them.
+2. Include `EDU-xxxxx` in title, description, or branch (if applicable)
+3. Add `localization needed (high|medium|low)` label based on urgency
+4. Check if the expected PR comment is added to the PR a few minutes later. It should confirm ticket creation, EDU task (if any) link, and delivery date
+5. If you change content later, remove and re-add the label (unless production lock applies).
 
 ### Creating a redirect
 
