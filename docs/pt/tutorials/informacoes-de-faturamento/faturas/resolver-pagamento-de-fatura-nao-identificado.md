@@ -21,7 +21,7 @@ Se o pagamento da sua fatura não foi identificado, confira os possíveis motivo
 
 ## Motivos da não identificação
 
-Os principais motivos que podem impedir a identificação do pagamento são:
+Os principais motivos que impedem a identificação do pagamento são:
 
 - **Valor pago menor que o valor da fatura:** o pagamento foi realizado em um valor inferior ao total da fatura.
 - **Pagamento feito por razão social ou documento fiscal diferente do cadastrado:** quando o pagamento parte de uma razão social ou documento fiscal diferente do que consta na nota fiscal, não é possível identificar quem realizou o pagamento.
