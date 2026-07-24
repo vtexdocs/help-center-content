@@ -15,11 +15,10 @@ locale: pt
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Para encerrar o contrato e deixar de utilizar a plataforma VTEX, [abra um ticket com o suporte financeiro](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial).
+Para encerrar o contrato e deixar de utilizar a plataforma VTEX, é necessário [abrir um ticket com o suporte financeiro](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-financeiro-e-comercial). Para isso, siga os passos abaixo:
 
 > ⚠️ Recomendamos que você faça o backup completo dos seus dados na plataforma VTEX antes da desativação do ambiente.
 
-Siga os passos abaixo:
 
 1. Acesse a página do [suporte da VTEX](https://supporticket.vtex.com/support) e clique em `Financeiro`.
 2. No campo **Assunto da solicitação**, selecione a opção **Rescisão de contrato**.
