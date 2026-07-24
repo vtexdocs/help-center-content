@@ -1,7 +1,7 @@
 ---
 title: 'Visão geral do Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-07-10T00:00:00.000Z
+updatedAt: 2026-07-24T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -22,9 +22,11 @@ Neste artigo, você conhecerá os principais conceitos e funções do módulo:
 
 As permissões de usuário representam atribuições referentes a cada usuário no projeto. No Live Desk, elas indicam os seguintes papéis:
 
-- **Atendente:** utiliza o módulo Live Desk para realizar atendimentos. Tem permissão mínima no sistema e visualiza somente o módulo Live Desk e o dashboard com suas métricas individuais. Os atendimentos direcionados ao atendente são definidos pelo setor e pela fila em que ele está incluído.
-- **Gerente de atendimento:** gerencia os setores de atendimento do Live Desk. Tem permissão para visualizar configurações relacionadas ao setor que gerencia, visualizar os contatos que estão nas filas e realizar atendimentos. No dashboard, visualiza as métricas do setor em que é gerente.
-- **Administrador:** possui todos os níveis de permissão, cria setores e delega gerentes de atendimento para os setores. No dashboard, tem uma visão geral de toda a operação.
+- **Moderador:** administra o projeto e pode gerenciar membros, permissões e configurações. Também pode alterar conteúdos, fluxos e demais recursos disponíveis no projeto.
+- **Contribuidor:** cria e edita conteúdos do projeto, como fluxos, instruções e templates de mensagem, mas não gerencia membros, permissões ou configurações administrativas.
+- **Visualizador:** acessa informações do projeto em modo de leitura, incluindo fluxos, contatos e mensagens, sem permissão para editar conteúdos ou configurações.
+- **Marketing:** acessa os módulos Campaigns e Studio para configurar, gerenciar e acompanhar disparos de campanhas com templates de mensagem.
+- **Human support:** acessa o módulo de atendimento humano para realizar atendimentos no Live Desk, conforme os setores e filas aos quais estiver associado.
 
 Para saber como atribuir esses papéis, consulte o artigo [Gerenciar membros do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/gerenciar-membros-do-vtex-cx-platform).
 

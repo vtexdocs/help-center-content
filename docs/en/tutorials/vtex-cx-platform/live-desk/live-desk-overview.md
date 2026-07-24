@@ -1,7 +1,7 @@
 ---
 title: "Live Desk - Overview"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-07-10T00:00:00.000Z
+updatedAt: 2026-07-24T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -22,9 +22,11 @@ In this article, you will learn about the main concepts and features of the modu
 
 User permissions represent assignments for each user in the project. In Live Desk, they indicate the following roles:
 
-- **Representative:** uses the Live Desk module to handle support. Has minimum system permission and can only view the Live Desk module and the dashboard with their individual metrics. The support directed to the representative is defined by the department and queue they're included in.
-- **Support manager:** manages the Live Desk support departments. Has permission to view configurations related to the department they manage, view contacts in the queues, and handle support. In the dashboard, they view the metrics for the department they manage.
-- **Admin:** has all permission levels, creates departments, and delegates support managers for the departments. In the dashboard, they have an overview of the entire operation.
+- **Moderator:** administers the project and can manage members, permissions, and settings. They can also change content, flows, and other resources available in the project.
+- **Contributor:** creates and edits project content, such as flows, instructions, and message templates, but can't manage members, permissions, or administrative settings.
+- **Viewer:** accesses project information in read-only mode, including flows, contacts, and messages, without permission to edit content or settings.
+- **Marketing:** accesses the Campaigns and Studio modules to configure, manage, and monitor campaign sends using message templates.
+- **Human support:** accesses the human support module to handle support in Live Desk, according to the departments and queues they're assigned to.
 
 To learn how to assign these roles, see the article [Managing VTEX CX Platform members](https://help.vtex.com/docs/tutorials/manage-vtex-cx-platform-members).
 

@@ -1,7 +1,7 @@
 ---
 title: "Visión de conjunto de Live Desk"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-07-10T00:00:00.000Z
+updatedAt: 2026-07-24T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -21,9 +21,11 @@ En este artículo, conocerás los principales conceptos y funciones del módulo:
 
 Los permisos de usuario representan atribuciones referentes a cada usuario en el proyecto. En Live Desk, indican los siguientes roles:
 
-- **Representante:** utiliza el módulo Live Desk para realizar el soporte. Tiene permiso mínimo en el sistema y visualiza solamente el módulo Live Desk y el dashboard con sus métricas individuales. El soporte dirigido al representante se define por el departamento y la cola en la que está incluido.
-- **Gerente de soporte:** gestiona los departamentos de soporte de Live Desk. Tiene permiso para visualizar la configuración relacionada con el departamento que gestiona, visualizar los contactos que están en las colas y realizar el soporte. En el dashboard, visualiza las métricas del departamento en el que es gerente.
-- **Administrador:** posee todos los niveles de permiso, crea departamentos y delega gerentes de soporte para los departamentos. En el dashboard, tiene una vista general de toda la operación.
+- **Moderador:** administra el proyecto y puede gestionar miembros, permisos y configuraciones. También puede modificar contenidos, flujos y otros recursos disponibles en el proyecto.
+- **Contribuidor:** crea y edita contenidos del proyecto, como flujos, instrucciones y templates de mensaje, pero no gestiona miembros, permisos ni configuraciones administrativas.
+- **Visualizador:** accede a la información del proyecto en modo de lectura, incluidos flujos, contactos y mensajes, sin permiso para editar contenidos o configuraciones.
+- **Marketing:** accede a los módulos Campaigns y Studio para configurar, gestionar y acompañar envíos de campañas con templates de mensaje.
+- **Soporte humano:** accede al módulo de soporte humano para realizar atenciones en Live Desk, de acuerdo con los departamentos y colas a los que esté asociado.
 
 Para saber cómo asignar estos roles, consulta el artículo [Gestionar miembros de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/administrar-miembros-de-la-plataforma-vtex-cx).
 
