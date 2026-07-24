@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con nuestro [Soporte](https://support.vtex.com).
 
 __Configuración__ es una página del Admin VTEX donde puedes realizar los ajustes de VTEX Pick and Pack para tu tienda. Los ajustes se distribuyen en las siguientes secciones:
 
@@ -33,6 +33,23 @@ En esta sección puedes configurar los ajustes relacionados con los pedidos proc
 ![vtex-pick-and-pack-configuracion_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_1.png)
 
 * **Descargar pedidos del OMS:** permite exportar pedidos desde el OMS.
+
+### Remoción automática de pedidos facturados
+
+En la pestaña **Pedidos** puedes definir cómo VTEX Pick and Pack debe tratar los pedidos que cambian a **Facturado** en el Order Management System (OMS) después de descargarse a la aplicación.
+
+Para remover automáticamente los pedidos facturados de VTEX Pick and Pack sigue los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración**, o ingresa **Configuración** en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña **Pedidos**, haz clic en `General`.
+3. En la sección **Si un pedido cambia a Facturado en el OMS**, activa la opción **Remover de Pick and Pack**.
+4. Haz clic en `Guardar`.
+
+Si activas esta opción, VTEX Pick and Pack remueve automáticamente de la aplicación los pedidos que cumplen todas las siguientes condiciones:
+
+- El pedido ya se descargó en VTEX Pick and Pack.
+- El pedido aún no se ha procesado.
+- El pedido cambió a **Facturado** en el OMS antes de la etapa de preparación.
 
 >ℹ️ Los filtros siguientes se aplican solo a los pedidos nuevos que se creen después de la exportación. Si no defines ningún filtro, se descargarán todos los pedidos.
 
@@ -78,7 +95,7 @@ Puedes definir la información que se mostrará en la lista de alistamiento, que
 - **Separar ítems por pedidos**: opción que permite generar una etiqueta por pedido.
 - **Mostrar información del cliente**: opción que incluye la información del cliente en la etiqueta.
 - **Mostrar código de barras/QR de paquetes**: opción que exhibe el código de barras o código QR en la etiqueta.
-- **Código de barras/QR**: si la opción **Mostrar código de barras/QR de paquetes** está activada, permite seleccionar si el código de barras con el número de pedido, el número de la hoja de trabajo o ambos figurará en la etiqueta.
+- **Código de barras/QR:** si la opción **Mostrar código de barras/QR del paquete** está activa, permite seleccionar si el código de barras con el número del pedido, el número de la hoja de trabajo o ambos aparecerán en la etiqueta.
 
 Haz clic en `Guardar` para registrar los cambios realizados.
 
@@ -98,10 +115,10 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 - **Motivos de rechazo**: motivos de [rechazo de ítems](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens) que el alistador puede seleccionar en la [aplicación móvil de Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Los motivos de rechazo registrados no se traducen si el alistador elige otro idioma en la aplicación móvil de Pick and Pack.
 - **Permitir cambios de precio de ítems**: opción que permite al alistador cambiar el precio de los ítems durante el alistamiento.
 - **Motivos de cambio de precio**: motivos de cambio de precio que el alistador puede seleccionar en la [aplicación móvil de Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Los motivos de cambio de precio registrados no se traducen si el alistador elige otro idioma en la aplicación móvil de Pick and Pack.
-- **Límite de cambios de precio en ítems de pedidos**: número máximo de veces que puede modificarse el precio de los ítems en un pedido. 100% es el valor máximo que se puede agregar al precio original al modificarlo, y −100% es el mínimo, ambos calculados sobre el valor original del ítem.
+- **Límite de cambios de precio en ítems de pedidos**: máximo de cambios de precio de ítems en un pedido. 100% es el valor máximo que se puede agregar al precio original al modificarlo y \-100% el mínimo, ambos calculados sobre el valor original del ítem.
 - **Permitir cambios en la cantidad de ítems**: opción que permite al alistador [cambiar la cantidad de los ítems durante el alistamiento](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#alterar-a-quantidade-de-um-produto).
-- **Límite de cambios en la cantidad de ítems en pedidos**: número máximo de veces que puede modificarse la cantidad de ítems en un pedido. 100% es el valor máximo que se puede agregar a la cantidad original al modificarla, y −100% es el mínimo, ambos calculados sobre la cantidad original del ítem.
-- **Limitar cambios totales en el pedido**: opción que define cuánto puede variar el valor total del pedido cuando el alistador realiza modificaciones. 100% es el valor máximo que se puede agregar al valor final del pedido al modificarlo, y −100% es el mínimo, ambos calculados sobre el valor original del pedido.
+- **Límite de cambios en la cantidad de ítems en pedidos:** máximo de cambios en la cantidad de ítems de un pedido. 100% es el valor máximo que se puede agregar a la cantidad original al modificarla y \-100% el mínimo, ambos calculados sobre la cantidad original del ítem.
+- **Limitar cambios totales en el pedido:** máximo de cambios del valor total del pedido realizados por el alistador. 100% es el valor máximo que se puede agregar al valor final del pedido al modificarlo y \-100% el mínimo, ambos calculados sobre el valor original del pedido.
 - **Límite de cambios a un pedido**: cantidad máxima de cambios (reemplazos, rechazos y nuevos ítems) que se pueden hacer en un pedido.
 
 Haz clic en `Guardar para registrar los cambios realizados.
@@ -207,12 +224,12 @@ En esta sección se define la información de los ítems que se mostrará en la 
 
 - **Información del ítem que se mostrará en la aplicación de alistamiento**: información de los productos que aparecen en la ficha de los ítems en la [aplicación móvil de Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 - **Activar transferencia de ítems**: opción que permite entregar un ítem desde una ubicación diferente a la instalación especificada originalmente.
-- **Activar ubicación del ítem**: opción que asigna un código único a cada SKU para ubicar más fácilmente los ítems en la tienda o almacén. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Códigos**: código de ubicación del ítem. Para más información sobre esta configuración, consulta la [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Ejemplo**: campo que muestra una vista previa del código de la ubicación. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Separador**: símbolo que separa cada sección de información del código de ubicación. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Asignar marcas de productos a**: selección que define el espacio (contenedor, zona, sección o pasillo) donde se ubicarán las marcas. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Asignar categorías de productos a**: selección que define el espacio (contenedor, zona, sección o pasillo) donde se ubicarán las categorías. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Activar ubicación del ítem:** opción que asigna un código único a cada SKU para ubicar más fácilmente los ítems en la tienda o almacén. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Códigos:** código de ubicación del ítem. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Ejemplo:** campo que muestra una vista previa del código de ubicación. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Separador:** símbolo que separa cada sección de información del código de ubicación. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Asignar marcas de productos a:** selección que define el espacio (BIN, zona, sección o pasillo) donde se ubicarán las marcas. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Asignar categorías de productos a:** selección que define el espacio (BIN, zona, sección o pasillo) donde se ubicarán las categorías. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
 - **Activar códigos de barras dinámicos**: cuando se activa esta opción <i class="fas fa-toggle-on"></i>, se generan EANs basados en:
 
   | **Precio**       | **Peso**                                                                 |
