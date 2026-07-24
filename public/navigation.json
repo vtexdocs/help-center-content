@@ -105,7 +105,7 @@
                   },
                   "slug": {
                     "en": "2026-07-01-delivery-promise-in-open-beta",
-                    "es": "2026-07-01-delivery-promise-in-open-beta",
+                    "es": "2026-07-01-delivery-promise-disponible-en-beta-abierta",
                     "pt": "2026-07-01-delivery-promise-em-open-beta"
                   },
                   "origin": "",
@@ -18860,14 +18860,14 @@
                 },
                 {
                   "name": {
-                    "en": "Payment was made but not found. What should I do?",
-                    "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
-                    "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
+                    "en": "Resolving an unidentified invoice payment",
+                    "es": "Resolver pago de factura no identificado",
+                    "pt": "Resolver pagamento de fatura não identificado"
                   },
                   "slug": {
-                    "en": "payment-was-made-but-not-found-what-should-i-do",
-                    "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
-                    "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
+                    "en": "resolving-an-unidentified-invoice-payment",
+                    "es": "resolver-pago-de-factura-no-identificado",
+                    "pt": "resolver-pagamento-de-fatura-nao-identificado"
                   },
                   "origin": "",
                   "type": "markdown",
