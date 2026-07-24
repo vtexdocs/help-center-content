@@ -84,6 +84,8 @@ For example: The "color" specification is set as searchable and the product was 
 
 You can include special characters ( `-` and `/`) when searching for a product.
 
+> ℹ️ You can enable symbol support in search, such as `®`, `@`, and `&`, by contacting [VTEX Support](https://supporticket.vtex.com/support). When this feature is enabled, these characters are ignored during indexing, allowing products with symbols in their names to be found even when customers leave those symbols out of their search queries. For example, the product `Brand® Multipurpose & Copier Bond Paper` can be found when customers search for `brand bond paper`.
+
 > ⚠️ Choosing the search fields affects the [merchandising rule](/en/docs/tutorials/merchandising-rules) options, as only searchable fields can be used to set up the rules. For example, if you set only the **`SKUID`** field as searchable, you cannot promote a**` ProductID`** or a **`ProductRefID`** using merchandising rules. 
 
 ### Defining and sorting filter fields

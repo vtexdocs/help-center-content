@@ -1,78 +1,119 @@
 ---
 title: "Utilizando el disparo activo de flujos"
-id: 2G7HPM4mD3vuxPHUgtexb7
-status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2025-10-03T14:22:54.202Z
-publishedAt: 2025-10-03T14:22:54.202Z
-firstPublishedAt: 2025-10-03T14:22:54.202Z
+updatedAt: 2026-07-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: using-active-triggering-of-flows
-legacySlug: utilizando-el-disparo-activo-de-flujos
 locale: es
-subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
+hidden: false
 ---
 
-El envío activo de flujos permite que un agente envíe un flujo a uno o más
-contactos y grupos de contactos, posibilitando además iniciar una conversación
-con los contactos deseados a través de los modelos de mensajes de WhatsApp.
+Cuando un contacto inicia un soporte humano en el [Live Desk](https://help.vtex.com/pt/docs/tutorials/vision-de-conjunto-de-live-desk), el chatbot continúa activo en segundo plano. Si no se hace nada, los mensajes automáticos configurados en los activadores pueden activarse durante la conversación e interrumpir el servicio. Para evitar este conflicto, usa un **grupo de control**: un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos) que reúne a todos los contactos que están en soporte humano y que debe ser ignorado por los activadores.
 
-En este artículo trataremos sobre:
+> ⚠️ Si los contactos no se agregan a un grupo de control, el chatbot generará conflictos e interrumpirá el soporte humano, enviando los mensajes predeterminados configurados en tu entorno.
 
-- Habilitar un flujo existente para su envío en los chats.
-- Crear un flujo que envíe un modelo de mensaje.
-- Activar la función de envío de flujos en la configuración de chats.
-- Enviar un flujo desde los chats.
+En este artículo aprenderás a:
 
-## Habilitar un flujo existente para su envío en Live Desk
+- [Crear el grupo de control](#crear-el-grupo-de-control)
+- [Agregar contactos al grupo de control](#agregar-contactos-al-grupo-de-control)
+- [Ignorar el grupo de control en los activadores](#ignorar-el-grupo-de-control-en-los-activadores)
+- [Remover contactos del grupo de control](#remover-contactos-del-grupo-de-control)
+- [Enviar campos personalizados en el ticket](#enviar-campos-personalizados-en-el-ticket)
 
-Cualquier flujo existente puede ser enviado a través de los chats. Para hacerlo, simplemente accede a **Flujos.**
+## Crear el grupo de control
 
-Luego selecciona el flujo deseado y haz clic en el botón **"Etiqueta".**
+El grupo de control es un grupo estático, es decir, los contactos se agregan y remueven manualmente o mediante cartas de acción en los flujos. Para crearlo, sigue los pasos a continuación:
 
-Para que el flujo esté disponible en los chats, debe tener una etiqueta con el nombre **"chats"**. Si no está disponible, crea una nueva etiqueta con el nombre **"chats"** como se muestra en el ejemplo.
+1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Contactos**.
+3. Haz clic en `Crear Grupo`.
+4. En la ventana emergente, ingresa el nombre del grupo (por ejemplo, _Soporte Humano_) y haz clic en `Crear`.
 
-Al hacer clic en **"crear"**, tu flujo automáticamente tendrá la etiqueta creada y estará disponible para ser usado en los chats.
+El grupo pasará a estar listado junto a las demás categorías de contactos en el menú lateral. Para más detalles, consulta el artículo [Grupos estáticos y grupos dinámicos](https://help.vtex.com/es/docs/tutorials/grupos-estaticos).
 
-## Crear un flujo que envíe un modelo de mensaje
+## Agregar contactos al grupo de control
 
-La creación de flujos está reservada para usuarios con roles de gestión, es
-decir, solo los usuarios con permisos de administrador, moderador y colaborador
-pueden crear flujos.
+El contacto debe entrar al grupo de control en el mismo [flujo de automatización](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos) en el que se abre el ticket de soporte humano. Así, pasa a ser controlado cuando la conversación se dirige a un agente.
 
-Para enviar modelos de mensajes, es necesario que estos ya hayan sido
-registrados y aprobados por WhatsApp. Consulta este artículo si tienes dudas al
-respecto.
+En el flujo donde utilizas la carta de acción **Abrir un ticket con un agente humano**, agrega también la carta de acción **Añadir el contacto a un grupo** y selecciona el grupo _Soporte Humano_. Para esto, sigue los pasos a continuación:
 
-Accede a tu proyecto y luego al módulo de Flujos, haz clic en el botón **"Crear
-flujo"**:
+1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Flujo de automatización**.
+3. Haz clic en el nombre del flujo responsable de abrir el ticket.
+4. Dentro del flujo, haz clic en el bloque inicial.
+5. En la ventana emergente, en **Cuando un contacto llega a este punto en su flujo...**, selecciona la opción **Añadir el contacto a un grupo**.
+6. En **Seleccione los grupos a los que se agregará el contacto**, selecciona el grupo `Soporte Humano`.
+7. Haz clic en **Confirme**.
+8. Posiciona este nuevo bloque junto al bloque **Abrir un ticket con un agente humano**, de modo que el contacto entre al grupo al iniciar el servicio.
+9. Guarda los cambios del flujo.
 
-Luego, ingresa los **datos** sobre tu flujo:
+> ⚠️ Si abres tickets en flujos diferentes, es necesario agregar esta carta en todos los flujos que dirigen contactos al soporte humano.
 
-Añade las tarjetas según las acciones que desees en tu flujo. Para que el flujo sea de envío de modelos de mensajes, selecciona la tarjeta del tipo "Enviar mensaje" y haz clic en **"WhatsApp"**.
+Para saber más sobre estas cartas, consulta el artículo [Cartas de acción](https://help.vtex.com/es/docs/tutorials/cartas-de-accion).
 
-Tus modelos registrados deberían aparecer. Selecciona el deseado e ingresa la variable en caso de haberla. Luego, haz clic en **"Confirme"** y finaliza tu flujo.
+## Ignorar el grupo de control en los activadores
 
-## Activando la función de envío de flujos en Configuración de Live Desk
+Después de agregar el contacto al grupo, es necesario configurar cada activador del proyecto para ignorar los contactos que están en el grupo _Soporte Humano_. Así, el chatbot no interrumpe el servicio. Para esto, sigue los pasos a continuación:
 
-Para que la función de envío de flujos esté disponible para los agentes,
-primero debes habilitarla en la configuración, en el sector deseado.
+1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Contactos**.
+3. Haz clic en **Activadores**.
+4. Haz clic en un activador configurado en tu proyecto.
+5. En el campo **Grupos para Excluir**, selecciona el grupo _Soporte Humano_.
+6. Haz clic en `Guardar cambios`.
+7. Repite el proceso para **todos los activadores** del proyecto.
 
-Accede a **Configuraciones > Live Desk.**
+Con esto, mientras el contacto esté en el grupo de control, no será activado por los mensajes automáticos, y el soporte humano continuará sin interrupciones. Para más información sobre activadores, consulta los artículos [Cómo crear un activador](https://help.vtex.com/es/docs/tutorials/como-crear-un-activador) y [Tipos de activadores](https://help.vtex.com/es/docs/tutorials/tipos-de-activadores).
 
-En la primera pantalla del sector, podrás ver el botón para activar el envío de flujos, el cual estará desactivado. Actívalo y haz clic en **"Guardar".**
+## Remover contactos del grupo de control
 
-Enviando un flujo en Live Desk
+Es importante remover el contacto del grupo de control cuando la sesión de soporte humano finalice. De lo contrario, continuará siendo ignorado por los activadores incluso después del fin del servicio.
 
-## Accede a Live Desk
+Esta automatización involucra dos elementos con funciones distintas:
 
-En la pantalla de chats, haz clic en el botón debajo de preferencias, como se
-muestra en el ejemplo.
+- Un **flujo de cierre**, que remueve el contacto del grupo de control.
+- Un **activador**, que inicia ese flujo siempre que se cierra un ticket del Live Desk.
 
-Selecciona los contactos deseados y haz clic en **"Continuar"**.
+Por esto, primero crea el flujo de cierre y, luego, el activador que lo activa.
 
-Selecciona el flujo deseado y luego haz clic en el botón **"enviar"**.
+### Crear el flujo de cierre
 
-¡Listo! Los contactos que recibieron los flujos aparecerán en una lista de espera. Una vez que el contacto responda, podrás iniciar el chat normalmente con él.
+El flujo de cierre requiere solo un bloque con la carta de acción **Eliminar el contacto de un grupo**, responsable de retirar el contacto del grupo de control. Para crearlo, sigue los pasos a continuación:
+
+1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Flujo de automatización**.
+3. Haz clic en `Crear flujos` e ingresa un nombre para el flujo (por ejemplo, _Cierre de servicio_).
+4. Dentro del flujo, haz clic en **Crear bloque**.
+5. En la ventana emergente, en **Cuando un contacto llega a este punto en su flujo...**, selecciona la opción **Eliminar el contacto de un grupo**.
+6. En **Grupos de los cuales se eliminará el contacto:**, selecciona el grupo _Soporte Humano_.
+7. Haz clic en **Ok**.
+8. Guarda los cambios del flujo.
+
+### Crear el activador de cierre
+
+Después de crear el flujo, configura el activador que lo inicia automáticamente cuando se cierra un ticket. Para esto, sigue los pasos a continuación:
+
+1. Accede a la organización y el proyecto que deseas modificar en [VTEX CX Platform](https://dash.weni.ai/orgs).
+2. En el menú lateral, haz clic en **Contactos**.
+3. Haz clic en **Activadores**.
+4. Haz clic en `Crear activador`.
+5. Haz clic en **Inicie un flujo después de cerrar un ticket.**.
+6. En **Flujo**, selecciona el flujo de cierre creado anteriormente.
+7. Deja el campo **Grupos para Excluir** vacío para aplicar el activador a todos los contactos.
+8. Haz clic en `Crear activador`.
+
+De esta forma, al cerrar el ticket, el activador inicia el flujo de cierre, que remueve el contacto del grupo de control. Así, el contacto vuelve a interactuar normalmente con el chatbot.
+
+## Enviar campos personalizados en el ticket
+
+Al abrir el ticket con la carta de acción **Abrir un ticket con un agente humano**, puedes enviar campos personalizados para el servicio. Estos campos deben definirse en el cuerpo de esa carta, en formato JSON, con cada campo como atributo de `custom_fields`, representado por su clave y valor.
+
+El ejemplo a continuación configura el campo `origin`, cuyo valor es definido por un resultado de flujo (`origem`). Como el valor es de tipo texto, se informa entre comillas:
+
+```json
+{
+  "custom_fields": {
+    "origin": "@results.origem"
+  }
+}
