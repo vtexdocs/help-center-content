@@ -25,16 +25,16 @@ Para acessar esta seção do Admin VTEX, é necessário ter um perfil de acesso 
 
 ## Instruções
 
-### Baixar uma nota fiscal
+### Gerar uma nota fiscal
 
-Para baixar uma nota fiscal, siga estes passos:
+Para gerar uma nota fiscal, siga estes passos:
 
 1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
 3. Localize a fatura desejada e clique em **Abrir nota fiscal**. Feito isso, a nota fiscal abrirá em uma nova aba. 
-4. Para salvar o arquivo em formato PDF, use as opções de baixar ou de imprimir disponíveis no navegador.
+4. (Opcional) Para salvar o arquivo em formato PDF, use as opções de baixar ou de imprimir disponíveis no navegador.
 
-### Baixar um boleto
+### Gerar um boleto
 
 >⚠️ As instruções desta seção se aplicam apenas a clientes com faturamento no Brasil.
 
@@ -43,4 +43,4 @@ Clientes com faturamento no Brasil podem emitir uma nova via do boleto seguindo 
 1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
 3. Localize o boleto desejado e clique em **Efetuar pagamento**. Feito isso, o boleto abrirá em uma nova aba com código de barras e QR Code para pagamento via Pix.
-4. Para salvar ou imprimir o arquivo, clique em `Clique aqui para imprimir`.
+4. (Opcional) Para salvar ou imprimir o arquivo, clique em `Clique aqui para imprimir`.
