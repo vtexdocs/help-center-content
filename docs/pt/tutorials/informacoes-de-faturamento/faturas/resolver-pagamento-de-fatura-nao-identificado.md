@@ -39,7 +39,7 @@ Antes de abrir um ticket para o suporte financeiro, certifique-se de que o prazo
 
 ## Abrir ticket para o suporte financeiro
 
-Se, passado o prazo de conciliação, o pagamento ainda não tiver sido identificado, siga estes os passos:
+Se, passado o prazo de conciliação, o pagamento ainda não tiver sido identificado, siga estes passos:
 
 1. Acesse o [suporte financeiro](https://supporticket.vtex.com/support).
 2. Selecione a opção **Envio de comprovante de pagamento**.
