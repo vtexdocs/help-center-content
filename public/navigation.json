@@ -18754,14 +18754,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
+                    "en": "Requesting contract termination",
+                    "es": "Solicitar rescisión contractual",
+                    "pt": "Solicitar rescisão contratual"
                   },
                   "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
+                    "en": "requesting-contract-termination",
                     "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
+                    "pt": "solicitar-rescisao-contratual"
                   },
                   "origin": "",
                   "type": "markdown",
