@@ -7,19 +7,19 @@ updatedAt: 2022-05-25T19:17:08.283Z
 publishedAt: 2022-05-25T19:17:08.283Z
 firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
-productTeam: VTEX IO
+productTeam: Others
 slugEN: cross-border-stores
 locale: es
-trackId: 2YcpgIljVaLVQYMzxQbc3z
-trackSlugEN: cms
-order: 4
+trackId: 3J7WFZyvTcoiwkcIVFVhIS
+trackSlugEN: proximos-pasos-tras-el-go-live
+order: 3
 ---
 
-Una tienda transfronteriza es un tipo de [multitienda](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759). En VTEX, esto significa una cuenta con varios [bindings](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) y distintos canales de venta para cada una de sus tiendas locales.
+Una tienda transfronteriza es un tipo de [multitienda](/es/docs/tutorials/gestionar-multitienda). En VTEX, esto significa una cuenta con varios [bindings](/es/docs/tutorials/que-es-binding) y distintos canales de venta para cada una de sus tiendas locales.
 
 Las tiendas transfronterizas pueden llegar a los compradores de todo el mundo porque ofrecen experiencias de compra localizadas para los clientes de tu tienda. 
 
-Si quieres llegar a los clientes de todo el mundo y brindarles una experiencia de compra localizada, [abre un ticket](https://help-tickets.vtex.com/smartlink/sso/login/zendesk?_ga=2.193357418.672484859.1653422096-1001456323.1619912759) para expresar tu interés en convertirte en una tienda transfronteriza.
+Si quieres llegar a los clientes de todo el mundo y brindarles una experiencia de compra localizada, [abre un ticket](https://support.vtex.com/) para expresar tu interés en convertirte en una tienda transfronteriza.
 
 Una tienda transfronteriza te ayuda a:
 
@@ -45,11 +45,11 @@ Una política comercial define el contenido que se mostrará en un sitio web.
 Las políticas comerciales incluyen las configuraciones de los catálogos, los precios, las promociones, la logística, la segmentación de los clientes y los pagos para distintas estrategias de venta.
 
 ### Tiendas multidioma
-Como una tienda transfronteriza puede tener varios bindings y llegar a compradores de todo el mundo, es importante que el contenido del sitio web y del catálogo estén internacionalizados para brindar una experiencia de compra personalizada. Para internacionalizar el contenido de tu tienda, ponte en contacto con tu equipo de desarrolladores y accede a la documentación sobre [Internacionalización](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores) y [Traducción del contenido del catálogo](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization).
+Como una tienda transfronteriza puede tener varios bindings y llegar a compradores de todo el mundo, es importante que el contenido del sitio web y del catálogo estén internacionalizados para brindar una experiencia de compra personalizada. Para internacionalizar el contenido de tu tienda, ponte en contacto con tu equipo de desarrolladores y accede a la documentación sobre [Internacionalización](https://developers.vtex.com/docs/guides/vtex-io-multi-language-stores) y [Traducción del contenido del catálogo](https://developers.vtex.com/docs/guides/catalog-internationalization).
 
 ## Artículos relacionados
 
-- [Crear multitienda / multidominio](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
+- [Gestionar multitienda](/es/docs/tutorials/gestionar-multitienda)
 
 - [¿Qué es binding?](/es/docs/tutorials/que-es-binding)
 
