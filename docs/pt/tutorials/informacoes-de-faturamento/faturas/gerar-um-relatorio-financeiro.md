@@ -20,7 +20,7 @@ Para acessar esta seção do Admin VTEX, é necessário ter um perfil de acesso 
 
 Para baixar um relatório financeiro, siga estes passos:
 
-1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito.
+1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
 3. Localize a fatura desejada e clique em **Relatório financeiro**. O relatório será enviado para seu e-mail.
 
