@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 Se o pagamento da sua fatura não foi identificado, confira os possíveis motivos, os prazos de compensação e o que fazer nesses casos.
 
-Após o pagamento, a conciliação ocorre em até 48 horas úteis. Antes de [abrir um ticket para o suporte financeiro](#abrir-ticket-para-o-suporte-financeiro) da VTEX, confira os [motivos da não identificação](#motivos-da-não-identificação) e entenda os [prazos de compensação](#prazos-de-compensação).
+> ℹ️ Após o pagamento, a conciliação ocorre em até 48 horas de dias úteis. Antes de [abrir um ticket para o suporte financeiro](#abrir-ticket-para-o-suporte-financeiro) da VTEX, confira os [motivos da não identificação](#motivos-da-nao-identificacao) e entenda os [prazos de compensação](#prazos-de-compensacao).
 
 ## Motivos da não identificação
 
