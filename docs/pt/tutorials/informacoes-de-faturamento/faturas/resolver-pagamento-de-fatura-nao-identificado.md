@@ -35,7 +35,7 @@ Antes de abrir um ticket para o suporte financeiro, certifique-se de que o prazo
 - **Pagamento com cheque:** o prazo começa a contar a partir da data em que o cheque deve ser depositado ou compensado, não da data em que ele foi emitido ou entregue.
 - **Pagamento com boleto:** o prazo começa a contar a partir do momento em que o boleto é pago.
 
-    > ⚠️ Para clientes com faturamento no Brasil que pagam boletos com Pix, o prazo de compensação também é de cerca de 48 horas.
+    > ⚠️ Para clientes com faturamento no Brasil que pagam boletos com Pix, o prazo de compensação é de até 48 horas.
 
 ## Abrir ticket para o suporte financeiro
 
