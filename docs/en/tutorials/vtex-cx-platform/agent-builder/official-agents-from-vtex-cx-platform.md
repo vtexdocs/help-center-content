@@ -55,7 +55,7 @@ Official agent templates:
 
 | System | MCP (Model Context Protocol) | Description | Required credentials |
 | :---: | :--- | :--- | :--- |
-| VTEX | order_cancellation_vtex | Allows customers to cancel orders directly via chat. | `VTEX Base URL`: Your VTEX account URL. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. <br> `Weni API Token`: [Weni](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto#token-de-acesso-da-organizacao) token |
+| VTEX | order_cancellation_vtex | Allows customers to cancel orders directly via chat. | `VTEX Base URL`: Your VTEX account URL. <br> `VTEX App Key`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) key. <br> `VTEX App Token`: Your [VTEX API](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) token. <br> ` API Token`: Weni token |
 
 ## Order Status
 
