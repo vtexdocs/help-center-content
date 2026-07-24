@@ -130,6 +130,21 @@
               "children": [
                 {
                   "name": {
+                    "pt": "Pedidos: nova visualização de promoção por item (beta aberto)",
+                    "en": "Pedidos: nova visualização de promoção por item (beta aberto)",
+                    "es": "Pedidos: nova visualização de promoção por item (beta aberto)"
+                  },
+                  "slug": {
+                    "pt": "2026-07-31-pedidos-nova-visualizacao-de-promocao-por-item-beta-aberto",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
                     "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
                     "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
