@@ -38,7 +38,7 @@ Ao configurar uma loja internacional na plataforma VTEX, é importante entender 
 
 Uma multiloja, também chamada de subconta ou multidomínio, é uma segunda loja administrada dentro do mesmo painel do Admin VTEX. Essa funcionalidade costuma ser utilizada quando a loja possui diversas marcas com logística e meios de pagamento similares, ou quando a operação requer ambientes específicos (por exemplo, suporte para vendas B2B).
 
-Saiba mais em [Gerenciando uma multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja).
+> ℹ️ Saiba mais em [Gerenciando uma multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja).
 
 ### Binding
 
