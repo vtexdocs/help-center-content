@@ -20936,6 +20936,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Roles and permissions",
+                "es": "Roles and permissions",
+                "pt": "Roles and permissions"
+              },
+              "slug": {
+                "en": "roles-and-permissions",
+                "es": "",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
