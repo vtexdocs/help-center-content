@@ -8,132 +8,132 @@ slugEN: create-analytics-dashboard
 locale: en
 ---
 
-The **Analytics** module of VTEX CX Platform allows you to create custom dashboards with widgets that display specific metrics for your operation. You can use these dashboards to monitor support funnels, flow results, and VTEX sales data, among other data.
+The **Analytics** module of the VTEX CX Platform allows you to create custom dashboards with widgets that display specific metrics for your operation. You can use these dashboards to monitor support funnels, flow results, and VTEX sales data, among other data.
 
 ## Creating a dashboard
 
 To create a custom dashboard, follow the instructions below:
 
-1. In the **Analytics** module, click the menu next to the **Analytics** name.
+1. In the **Analytics** module, click the arrow next to **Live Desk**.
 2. Click <i class="fas fa-plus" aria-hidden="true"></i>`New dashboard`.
-3. Enter a name for the dashboard, select your store currency, and choose a layout.
+3. Enter the dashboard name, select the store currency, and choose a layout.
 4. Click `Save`. The new dashboard will open.
 
-> ⚠️ The chosen layout affects the widgets and the data they display. Square-format widgets offer three models: Runs, Flow results, and Data crossover. Column-format widgets offer four models: Funnel, Recurrence, VTEX, and Template conversion.
+> ⚠️ The chosen layout affects the widgets and the data they display. Card widgets are available in three models: Runs, Flow results, and Data crossing. Column-format widgets offer four models: Funnel, Recurrence, VTEX, and Template conversion.
 
-## Adding and configuring square widgets
+## Adding and configuring card widgets
 
-After creating the dashboard, add the widgets you want to display. Each empty space on the dashboard corresponds to a widget to be configured.
+After creating the dashboard, add the widgets you want to display. Each empty space on the dashboard represents a slot for a widget you can configure.
 
-To configure a square widget, follow the instructions below:
+To configure a card widget, follow the instructions below:
 
-1. Click the square card button you want to configure. The **Widget gallery** will open on the side.
+1. Click the configuration button of the card you want to configure. The **Widget gallery** will open on the side.
 2. Select the type of widget you want to configure:
   - [Runs](#runs).
-  - [Flow results](#flow-results).
-  - [Data crossover](#data-crossover).
-3. Fill in the configuration fields for the selected widget.
+  - [Flow result](#flow-result).
+  - [Data crossing](#data-crossing).
+3. Complete the configuration fields for the selected widget.
 4. Click `Save`.
 
-To reset a widget's settings, click `Reset widget` in the widget configuration panel.
+To reset a widget's settings, click `Reset widget` in the widget configuration window.
 
 ### Runs
 
 The **Runs** widget displays the list of runs for a flow.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
-1. In **Give the card a name**, enter a name to identify the widget on the dashboard.
+1. In **Enter a name for the card**, enter a name to identify the widget on the dashboard.
 2. Select the flow whose runs you want to monitor.
-3. Choose an emoji for the widget. This step is optional. The emoji appears next to the metric and can help visually identify the widget.
+3. Choose an emoji for the widget. This step is optional. The emoji displays next to the metric and can help visually identify the widget.
 4. Click `Save`.
 
-### Flow results
+### Flow result
 
-The **Flow results** widget returns the result of a flow and allows you to perform basic operations with the data.
+The **Flow result** widget returns the result of a flow and allows you to perform basic operations with the data.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
-1. In **Give the card a name**, enter a name to identify the widget on the dashboard.
+1. In **Enter a name for the card**, enter a name to identify the widget on the dashboard.
 2. Select the flow you want to monitor.
 3. In **Flow result**, search for or select the result you want to display.
-4. In the **Operation** table, select the operations that will be applied to the result:
+4. In **Operation**, select the operations that will apply to the result:
    - Total or Average.
    - Highest value or Lowest value.
-5. To monitor data with a currency symbol, enable the **Currency** checkbox.
-6. Choose an emoji for the widget. This step is optional. The emoji appears next to the metric and can help visually identify the widget.
+5. To monitor data with a currency symbol, check the **Currency** box.
+6. Choose an emoji for the widget. This step is optional. The emoji displays next to the metric and can help visually identify the widget.
 7. Click `Save`.
 
-### Data crossover
+### Data crossing
 
-The **Data crossover** widget combines two values to generate a custom metric.
+The **Data crossing** widget combines two values to generate a custom metric.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
-1. In **Give the card a name**, enter a name to identify the widget on the dashboard.
+1. In **Enter a name for the card**, enter a name to identify the widget on the dashboard.
 2. In **First value**, select the first flow and the result type:
-   - **Flow runs:** Uses the number of runs as a value.
+   - **Runs:** Uses the number of runs as a value.
    - **Flow result:** Uses the result of a specific flow step as a value.
-     - If you select **Flow result**, you need to choose a flow result and which type of data you want (sum, average, minimum, or maximum).
+     - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
 3. In **Second value**, select the second flow and the result type:
-   - **Flow runs:** Uses the number of runs as a value.
+   - **Runs:** Uses the number of runs as a value.
    - **Flow result:** Uses the result of a specific flow step as a value.
-     - If you select **Flow result**, you need to choose a flow result and which type of data you want (sum, average, minimum, or maximum).
-4. In **Operation**, choose how the two values will be combined:
+     - If you select **Flow result**, you need to choose a flow result and the type of data you want (sum, average, minimum, or maximum).
+4. In **Operation**, choose how to combine the two values:
   - **Multiply:** Multiplies the first value by the second.
   - **Difference:** Calculates the difference between the two values.
   - **Sum:** Adds the two values.
-  - **Percentage:** Calculates the percentage of the first value in relation to the second.
-5. To monitor data with a currency symbol, enable the **Currency** checkbox.
+  - **Percentage:** Calculates the percentage of the first value relative to the second.
+5. To monitor data with a currency symbol, check the **Currency** box.
 6. Click `Save`.
 
 ## Adding and configuring column widgets
 
-After creating the dashboard, add the widgets you want to display. Each empty space on the dashboard corresponds to a widget to be configured.
+After creating the dashboard, add the widgets you want to display. Each empty space on the dashboard represents a slot for a widget you can configure.
 
 To configure a column widget, follow the instructions below:
 
-1. Click the column button you want to configure. The **Widget gallery** will open on the side.
+1. Click the Configure button on the column you want to configure. The **Widget gallery** will open on the side.
 2. Select the type of widget you want to configure:
   - [Funnel](#funnel).
   - [Recurrence](#recurrence).
   - [VTEX](#vtex).
   - [Template conversion](#template-conversion).
-3. Fill in the configuration fields for the selected widget.
+3. Complete the configuration fields for the selected widget.
 4. Click `Save`.
 
-To reset a widget's settings, click `Reset widget` in the widget configuration panel.
+To reset a widget's settings, click `Reset widget` in the widget configuration window.
 
 ### Funnel
 
-The **Funnel** widget displays data in a funnel chart, showing how the volume of support tickets decreases at each step of a flow.
+The **Funnel** widget displays data in a funnel chart, showing how the volume of support chats decreases at each step of a flow.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
 1. In **First metric**, enter a name for the first metric and select the source flow.
 2. In **Second metric**, enter a name for the second metric and select the source flow.
 3. In **Third metric**, enter a name for the third metric and select the source flow.
-4. To include other metrics, click <i class="fas fa-plus" aria-hidden="true"></i>s`Add metric` and fill in the fields.
+4. To add other metrics, click `+ Add metric` and complete the fields.
 5. Click `Save`.
 
-> ℹ️ The Funnel widget requires a minimum of three metrics to generate the visualization and accepts up to five metrics.
+> ℹ️ The Funnel widget requires a minimum of three metrics to generate the view and accepts up to five metrics.
 
 ### Recurrence
 
 The **Recurrence** widget displays recurring results in charts, such as ratings from a satisfaction survey or CSAT.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
 1. In **Metric name**, enter a name to identify the widget on the dashboard.
 2. In **Select source flow**, select the desired flow.
-3. In **Flow result**, search for or select the recurring result you want to visualize.
+3. In **Flow result**, search for or select the recurring result you want to view.
 4. Click `Save`.
 
 ### VTEX
 
 The **VTEX** widget displays sales data from your VTEX store.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
 1. In **Widget name**, enter a name to identify the widget on the dashboard.
 2. In **UTM**, enter the VTEX UTM corresponding to your store and app.
@@ -143,10 +143,10 @@ To configure the widget, fill in the fields below:
 
 The **Template conversion** widget tracks the conversion rate between template messages sent and completed sales.
 
-To configure the widget, fill in the fields below:
+To configure this widget, complete the fields below:
 
 1. In **Widget name**, enter a name to identify the widget on the dashboard.
-2. In **Set metadata**, select the WhatsApp number associated with sending the templates.
-3. Then, select the templates whose conversion you want to track.
+2. In **Set metadata**, select the WhatsApp number associated with the template messages.
+3. Select the templates you want to track conversions for.
 4. In **Set VTEX data**, enter the VTEX UTM corresponding to your store and app.
 5. Click `Save`.
