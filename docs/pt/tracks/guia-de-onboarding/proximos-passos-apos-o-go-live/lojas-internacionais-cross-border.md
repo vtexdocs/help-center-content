@@ -17,7 +17,7 @@ seeAlso:
     - "/pt/docs/tutorials/escolher-entre-arquitetura-multiloja-ou-ambiente-adicional"
 ---
 
-Uma loja internacional (*cross-border*) é um tipo de [multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja), o que na VTEX significa uma conta com múltiplos [bindings](/pt/docs/tutorials/o-que-e-binding) (ou vínculos, em português) e diferentes canais de venda para cada uma das suas lojas locais.
+Uma loja internacional, também chamada de cross-border, é um tipo de [multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja). Na VTEX, isso significa uma conta com múltiplos [bindings](/pt/docs/tutorials/o-que-e-binding) (ou vínculos, em português) e diferentes canais de venda para cada uma das suas lojas locais.
 
 As lojas internacionais podem alcançar compradores no mundo inteiro ao oferecer experiências de compra localizadas para os clientes de cada região.
 
