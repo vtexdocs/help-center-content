@@ -40,7 +40,7 @@ Para baixar uma nota fiscal, siga estes passos:
 
 Clientes com faturamento no Brasil podem emitir uma nova via do boleto seguindo estes passos:
 
-1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito.
+1. No Admin VTEX, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela.
 2. Clique em **Informações de faturamento > Faturas**.
-3. Localize o boleto desejado e clique em **Efetuar pagamento**.
-4. O boleto abrirá em uma nova aba, com código de barras e QR Code para pagamento via Pix. Para salvar ou imprimir o arquivo, clique em `Clique aqui para imprimir`.
+3. Localize o boleto desejado e clique em **Efetuar pagamento**. Feito isso, o boleto abrirá em uma nova aba com código de barras e QR Code para pagamento via Pix.
+4. (Opcional) Para salvar ou imprimir o arquivo, clique em `Clique aqui para imprimir`.
