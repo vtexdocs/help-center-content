@@ -1,7 +1,7 @@
 ---
 title: 'Métricas e atribuição do VTEX Ads'
 createdAt: '2026-07-01T10:00:00.000Z'
-updatedAt: '2026-07-01T10:00:00.000Z'
+updatedAt: '2026-07-14T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
@@ -30,6 +30,11 @@ As métricas a seguir descrevem o volume, a eficiência e o resultado direto das
 | **Receita com anúncios**           | Valor total recebido pelo publisher com a veiculação de anúncios no período. Rótulo exibido para o público de publishers. Refere-se ao mesmo valor que o **Custo** visto pelo anunciante. | -                            |
 | **CPM** (Custo por mil impressões) | Custo médio por 1.000 impressões.                                                                                                                                                         | (Custo / Impressões) × 1.000 |
 
+> ℹ️ Em campanhas de formatos cobrados por **CPM** (banner, banner em vídeo e marcas patrocinadas), o total reportado de **Visualizações** pode superar o de **Impressões** ao atingir o **teto diário de orçamento**. Esse comportamento é esperado e não indica erro nos relatórios.
+>
+> A definição de **Visualizações** na tabela acima continua válida: são impressões que atenderam aos critérios de *viewability*. Em condições normais, representam um subconjunto das impressões.
+>
+> Sob cobrança por CPM, a contagem de **Impressões** é validada em relação ao orçamento, pois impacta diretamente o gasto da campanha, e é interrompida ao atingir o teto diário. A contagem de **Visualizações** não passa pela mesma validação e pode continuar sendo registrada mesmo após essa interrupção. Quanto mais próxima a campanha estiver do teto, maior tende a ser a diferença entre as métricas. Esse comportamento não se aplica a **produtos patrocinados**, que usam outro modelo de cobrança.
 
 ### Conversões e receita
 

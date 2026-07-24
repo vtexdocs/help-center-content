@@ -22,7 +22,7 @@ Este artigo contém informações sobre a página **Gerenciamento de inventário
 * [As informações do inventário estão divididas](#informacoes-do-inventario).
 * [Os filtros de busca estão dispostos para facilitar a procura de SKUs específicos](#filtros-de-busca).
 
-> ℹ️ Para acessar o inventário utilizando SKUs, docas ou estoques via API, utilize a [ Inventory API ](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+> ℹ️ Para acessar o inventário utilizando SKUs, docas ou estoques via API, utilize a [Inventory API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 Outras ações possíveis na página **Gerenciamento de inventário** são:
 
@@ -39,7 +39,8 @@ No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**
     * **Produtos:** o nome do produto.
     * **Estoque**: em qual estoque da loja o SKU está.
     * **ID do SKU:** código identificador do SKU.
-    * **Última atualização**: número de unidades do SKU mais recente registrado na plataforma VTEX.> ℹ️ Ao clicar em qualquer valor da coluna **Última atualização**, a janela [Registro de atualizações](/pt/docs/tutorials/historico-de-movimentacoes-do-inventario) ficará disponível com a tabela das alterações. Cada linha corresponde a um registro de atualização, e as colunas contêm o usuário que realizou a alteração, a data da atualização e a quantidade de itens antes e depois da atualização. Só é possível consultar até as últimas 50 movimentações de um SKU.
+    * **Última atualização**: número de unidades do SKU mais recente registrado na plataforma VTEX.
+      > ℹ️ Ao clicar em qualquer valor da coluna **Última atualização**, a janela [Registro de atualizações](/pt/docs/tutorials/historico-de-movimentacoes-do-inventario) ficará disponível com a tabela das alterações. Cada linha corresponde a um registro de atualização, e as colunas contêm o usuário que realizou a alteração, a data da atualização e a quantidade de itens antes e depois da atualização. Só é possível consultar até as últimas 50 movimentações de um SKU.
     * **Reservados:** unidades de itens do SKU reservados. Os pedidos dessas reservas ainda não estão com o pagamento aprovado. 
     Ao clicar nos valores dessa coluna para conferir detalhes sobre os dados das reservas do SKU,  você será redirecionado para o gerenciamento de pedidos. Para saber mais sobre como consultar uma reserva, veja [Como acompanhar o status da reserva](/pt/docs/tutorials/como-a-reserva-funciona#como-acompanhar-o-status-da-reserva)
     * **Enviados:** unidades despachadas do SKU. Os itens desta coluna são de pedidos com status `Pagamento aprovado`, `Preparando entrega` ou `Faturado`. Ao clicar nos itens da coluna para conferir detalhes de SKUs enviados, você será redirecionado para o gerenciamento de pedidos.
