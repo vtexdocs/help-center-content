@@ -36,7 +36,7 @@ Para encerrar o contrato e deixar de utilizar a plataforma VTEX, é necessário 
 
 Após o envio do ticket, o processo será iniciado internamente. Aguarde o retorno do time financeiro.
 
-> ⚠️ Dependendo do que estiver definido no seu contrato, a rescisão pode estar sujeita a multa e ao cumprimento de um aviso prévio. Esses termos também determinam a data da sua última cobrança.
+> ⚠️ Dependendo do que estiver definido no seu contrato, a rescisão pode estar sujeita à multa e ao cumprimento de um aviso prévio. Esses termos também determinam a data da sua última cobrança.
 
 ## Documentos para clientes do Brasil
 
