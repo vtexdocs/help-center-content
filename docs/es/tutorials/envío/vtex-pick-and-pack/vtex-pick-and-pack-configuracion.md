@@ -1,20 +1,13 @@
 ---
 title: 'VTEX Pick and Pack: Configuración'
-id: 16cs3e7hWk7c4cSZqe10O9
-status: PUBLISHED
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-06-26T00:00:00.000Z
-publishedAt: 2024-01-09T18:30:22.578Z
-firstPublishedAt: 2024-01-09T16:30:00.192Z
+updatedAt: 2026-07-24T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-settings
-legacySlug: vtex-pick-and-pack-configuracion
 locale: es
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
-
 > ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con nuestro [Soporte](https://support.vtex.com).
 
 __Configuración__ es una página del Admin VTEX donde puedes realizar los ajustes de VTEX Pick and Pack para tu tienda. Los ajustes se distribuyen en las siguientes secciones:
@@ -51,7 +44,7 @@ Si activas esta opción, VTEX Pick and Pack remueve automáticamente de la aplic
 - El pedido aún no se ha procesado.
 - El pedido cambió a **Facturado** en el OMS antes de la etapa de preparación.
 
->ℹ️ Los filtros siguientes se aplican solo a los pedidos nuevos que se creen después de la exportación. Si no defines ningún filtro, se descargarán todos los pedidos.
+> ℹ️ Los filtros siguientes se aplican solo a los pedidos nuevos que se creen después de la exportación. Si no defines ningún filtro, se descargarán todos los pedidos.
 
 ### Filtros
 
@@ -163,13 +156,13 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 
 La página está organizada de la siguiente manera:
 
-| Columna       | Descripción                                                                 |
-| ------------- | --------------------------------------------------------------------------- |
-| **Nombre**    | Nombre del empaque.                                                         |
-| **Descripción** | Descripción con detalles del empaque.                                     |
-| **Código**    | Código único del empaque.                                                   |
-| **Tamaño (cm)** | Tamaño en centímetros del empaque.                                        |
-| **Tipo**      | Tipo de empaque, que puede ser `Caja`, `Bolsa`, `Empaques`, `Cinta` y `Papel`.       |
+| Columna                | Descripción                                                                            |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| **Nombre**       | Nombre del empaque.                                                                     |
+| **Descripción** | Descripción con detalles del empaque.                                                  |
+| **Código**      | Código único del empaque.                                                             |
+| **Tamaño (cm)** | Tamaño en centímetros del empaque.                                                    |
+| **Tipo**         | Tipo de empaque, que puede ser`Caja`, `Bolsa`, `Empaques`, `Cinta` y `Papel`. |
 
 **Para crear un nuevo tipo de empaque**, sigue los pasos a continuación:
 
@@ -231,11 +224,9 @@ En esta sección se define la información de los ítems que se mostrará en la 
 - **Asignar marcas de productos a:** selección que define el espacio (BIN, zona, sección o pasillo) donde se ubicarán las marcas. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
 - **Asignar categorías de productos a:** selección que define el espacio (BIN, zona, sección o pasillo) donde se ubicarán las categorías. Para más información sobre esta configuración, consulta [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
 - **Activar códigos de barras dinámicos**: cuando se activa esta opción <i class="fas fa-toggle-on"></i>, se generan EANs basados en:
-
-  | **Precio**       | **Peso**                                                                 |
-  | ------------- | --------------------------------------------------------------------------- |
-  | Formato: `Dígito-Ítem-Precio-Verificador` <br>Los dígitos del precio se convierten de la siguiente manera: el precio $12.90 equivale a los dígitos `01290`. <br>Ejemplo: `20-01234-01290-1` | Formato: `Dígito-Ítem-Peso-Verificador` <br>Los dígitos del peso se convierten de la siguiente manera: el peso de 200 gramos equivale a los dígitos `00200`. <br>Ejemplo: `20-01234-00200-1` | 
-
+  | **Precio**                                                                                                                                                                             | **Peso**                                                                                                                                                                                |
+  | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | Formato:`Dígito-Ítem-Precio-Verificador` Los dígitos del precio se convierten de la siguiente manera: el precio $12.90 equivale a los dígitos `01290`. Ejemplo: `20-01234-01290-1` | Formato:`Dígito-Ítem-Peso-Verificador` Los dígitos del peso se convierten de la siguiente manera: el peso de 200 gramos equivale a los dígitos `00200`. Ejemplo: `20-01234-00200-1` |
 - **Tipos de código de barras dinámicos**: selección que define si el código de barras dinámico se basará en el precio, peso o cantidad del ítem. Después de seleccionar el tipo de código, llena los campos con los valores numéricos del código.
 
 ### Categorías
@@ -285,24 +276,24 @@ Para importar información de las categorías seleccionadas que se mostrarán en
 
 En esta sección puedes realizar una actualización en masa e indexar el catálogo que estará disponible en la [aplicación móvil de Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 
->ℹ️ En la configuración inicial de Pick and Pack, se debe realizar primero la **actualización masiva del catálogo** y, a continuación, su **indexación**.
+> ℹ️ En la configuración inicial de Pick and Pack, se debe realizar primero la **actualización masiva del catálogo** y, a continuación, su **indexación**.
 
 ![vtex-pick-and-pack-configuracion_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_16.png)
 
 La página está organizada de la siguiente manera:
 
-| Columna        | Descripción                                                                                                      |
-| -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Ítem**       | Nombre del producto.                                                                                              |
-| **ID**         | ID del producto.                                                                                                  |
-| **SKU**        | ID del SKU.                                                                                                       |
-| **EAN**        | Número de EAN.                                                                                                     |
-| **Categorías** | Categorías a las que pertenece el producto.                                                                        |
-| **Dimensiones**| Dimensiones en centímetros del producto.                                                                           |
-| **Peso**       | Peso del producto.                                                                                                 |
-| **Pesable**    | Indicación sobre si el producto varía de peso, como las frutas, o tiene peso fijo.                                 |
-| **Temperatura**| Temperatura de conservación del producto. Esta información solo se muestra en el Admin VTEX.                       |
-| **Activo**     | Indicación sobre si el producto está activo en el catálogo de la aplicación móvil o no.                            |
+| Columna               | Descripción                                                                                   |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| **Ítem**       | Nombre del producto.                                                                           |
+| **ID**          | ID del producto.                                                                               |
+| **SKU**         | ID del SKU.                                                                                    |
+| **EAN**         | Número de EAN.                                                                                |
+| **Categorías** | Categorías a las que pertenece el producto.                                                   |
+| **Dimensiones** | Dimensiones en centímetros del producto.                                                      |
+| **Peso**        | Peso del producto.                                                                             |
+| **Pesable**     | Indicación sobre si el producto varía de peso, como las frutas, o tiene peso fijo.           |
+| **Temperatura** | Temperatura de conservación del producto. Esta información solo se muestra en el Admin VTEX. |
+| **Activo**      | Indicación sobre si el producto está activo en el catálogo de la aplicación móvil o no.   |
 
 Para realizar una edición en masa de los ítems, sigue los pasos a continuación:
 
@@ -323,7 +314,7 @@ Para editar la información de un ítem, sigue los pasos a continuación:
 3. Haz clic en el ítem que deseas editar.
 4. Edita la información del ítem:
 
-    ![vtex-pick-and-pack-configuracion_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_14.png)
+   ![vtex-pick-and-pack-configuracion_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_14.png)
 
    - **Códigos EAN**
    - **Códigos SKU**

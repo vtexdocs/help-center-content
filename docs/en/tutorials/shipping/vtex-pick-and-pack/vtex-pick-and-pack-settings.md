@@ -1,20 +1,13 @@
 ---
 title: 'VTEX Pick and Pack: Settings'
-id: 16cs3e7hWk7c4cSZqe10O9
-status: PUBLISHED
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-06-26T00:00:00.000Z
-publishedAt: 2024-01-09T18:30:22.578Z
-firstPublishedAt: 2024-01-09T16:30:00.192Z
+updatedAt: 2026-07-24T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-settings
-legacySlug: vtex-pick-and-pack-settings
 locale: en
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
-
 > ℹ️ This feature is in closed beta and only available to selected clients. If you're interested in implementing it in the future, contact our [Support team](https://support.vtex.com/hc/en-us).
 
 **Settings** is a VTEX Admin page that allows you to select the VTEX Pick and Pack settings for your store. The settings are distributed in the following tabs:
@@ -67,7 +60,7 @@ With this option enabled, VTEX Pick and Pack automatically removes from the app 
 - The order hasn't been processed yet.
 - The order changed to **Invoiced** in the OMS before the handling step.
 
->ℹ️ The filters below only apply to new orders placed after the export. If no filters are set, all orders will be downloaded.
+> ℹ️ The filters below only apply to new orders placed after the export. If no filters are set, all orders will be downloaded.
 
 ### Filters
 
@@ -181,13 +174,13 @@ Click `Save` to save the changes in the section.
 
 This page is organized as follows:
 
-| Column       | Description                                      |
-| ------------ | ------------------------------------------------ |
-| **Name**     | Name of the packaging.                           |
-| **Description** | Description with details about the packaging. |
-| **Code**     | Unique packaging code.                           |
-| **Size (in)**| Packaging size in inches.                        |
-| **Type**     | Type of packaging: `Box`, `Bag`, `Envelopes`, `Tape`, or `Paper`. |
+| Column                | Description                                                                |
+| --------------------- | -------------------------------------------------------------------------- |
+| **Name**        | Name of the packaging.                                                     |
+| **Description** | Description with details about the packaging.                              |
+| **Code**        | Unique packaging code.                                                     |
+| **Size (in)**   | Packaging size in inches.                                                  |
+| **Type**        | Type of packaging:`Box`, `Bag`, `Envelopes`, `Tape`, or `Paper`. |
 
 To create a new packaging type, follow the steps below:
 
@@ -249,11 +242,9 @@ In this section, you can define the item details that will be shown in the mobil
 - **Assign product brands to**: Defines the space (BIN, zone, section, or aisle) where brands will be located. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
 - **Assign product categories to**: Defines the space (BIN, zone, section, or aisle) where categories will be located. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
 - **Enable dynamic barcodes**: When enabled `<i class="fas fa-toggle-on"></i>`, allows generating EANs based on:
-
-  | **Price**|**Weight**|
-  | --- | --- |
-  | Format: `Digit-Item-Price-CheckDigit` <br>If the price is $12.90, the digits are converted as `01290`. <br>Example: `20-01234-01290-1` | Format: `Digit-Item-Weight-CheckDigit` <br>If the weight is 200 g, the digits are converted ass `00200`. <br>Example: `20-01234-00200-1` |
-
+  | **Price**                                                                                                                     | **Weight**                                                                                                                      |
+  | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+  | Format:`Digit-Item-Price-CheckDigit` If the price is $12.90, the digits are converted as `01290`. Example: `20-01234-01290-1` | Format:`Digit-Item-Weight-CheckDigit` If the weight is 200 g, the digits are converted ass `00200`. Example: `20-01234-00200-1` |
 - **Dynamic barcode types**: Defines whether the dynamic barcodes will be based on price, weight, or item quantity. After selecting the barcode type, complete the fields with the numeric values of the code.
 
 ### Categories
@@ -271,7 +262,7 @@ To define the available categories for a facility, follow the steps below:
 2. In the list, click the categories you want to include in the facilities. You can search using the category name up to three levels in the tree.
 3. Click <i class="fas fa-grip-vertical"></i> and drag a category to sort the list as desired.
 4. Click `Save`.
-  
+
 To remove a selected category, click <i class="fas fa-trash"></i>.
 
 To export the information of the categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet), follow these steps:
@@ -303,22 +294,22 @@ To import information for the selected categories that will be displayed in the 
 
 In this section, you can **bulk update** and **index the catalog** that will be available in the Pick and Pack mobile app.
 
->ℹ️ During the initial Pick and Pack setup, you need to **bulk update** the catalog and **index** it.
+> ℹ️ During the initial Pick and Pack setup, you need to **bulk update** the catalog and **index** it.
 
 The page is organized as follows:
 
-| Column        | Description|
-| ------------- | --------- |
-| **Item**      | Product name. |
-| **ID**        | Product ID.|
-| **SKU**       | SKU ID.|
-| **EAN**       | EAN number.|
-| **Categories**| Categories the product belongs to.|
-| **Dimensions**| Product dimensions.|
-| **Weight**    | Product weight.|
-| **Weighable** | Indicates if the product varies in weight, like fruit, or has a fixed weight.|
+| Column                | Description                                                                        |
+| --------------------- | ---------------------------------------------------------------------------------- |
+| **Item**        | Product name.                                                                      |
+| **ID**          | Product ID.                                                                        |
+| **SKU**         | SKU ID.                                                                            |
+| **EAN**         | EAN number.                                                                        |
+| **Categories**  | Categories the product belongs to.                                                 |
+| **Dimensions**  | Product dimensions.                                                                |
+| **Weight**      | Product weight.                                                                    |
+| **Weighable**   | Indicates if the product varies in weight, like fruit, or has a fixed weight.      |
 | **Temperature** | Product storage temperature. This information is only displayed in the VTEX Admin. |
-| **Active**    | Indicates whether the product is active in the mobile app catalog.          |
+| **Active**      | Indicates whether the product is active in the mobile app catalog.                 |
 
 To edit items in bulk, follow the steps below:
 
@@ -339,12 +330,11 @@ To edit an item, follow the steps below:
 3. Click the item you want to edit.
 4. Edit the item information:
 
-    ![vtex-pick-and-pack-settings_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_14.png)
+   ![vtex-pick-and-pack-settings_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_14.png)
 
    - **EAN codes**
    - **SKU codes**
    - **Temperature**
-
 5. Click `Save`.
 
 To index the updates to the items, follow the steps below:
@@ -489,7 +479,6 @@ To create a new webhook, follow the steps below:
      - `ORDER_STATUS`: The order status changes.
      - `WORKSHEET_STATUS`: The worksheet status changes.
      - `RETURN_STATUS`: The return status changes.
-  
    - **URL**: Webhook URL.
    - **Headers**: Webhook headers.
    - **Params**: Webhook parameters.
