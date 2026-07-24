@@ -32,8 +32,8 @@ Os principais motivos que impedem a identificação do pagamento são:
 
 Antes de abrir um ticket para o suporte financeiro, certifique-se de que o prazo de compensação do meio de pagamento utilizado já tenha sido cumprido. Pagamentos por cheque ou boleto podem levar cerca de 48 horas para serem creditados. O início dessa contagem varia conforme o meio de pagamento:
 
-- **Pagamento por cheque:** o prazo começa a contar a partir da data em que o cheque deve ser depositado ou compensado — não da data em que ele foi emitido ou entregue.
-- **Pagamento por boleto:** o prazo começa a contar a partir do momento em que o boleto é pago.
+- **Pagamento com cheque:** o prazo começa a contar a partir da data em que o cheque deve ser depositado ou compensado, não da data em que ele foi emitido ou entregue.
+- **Pagamento com boleto:** o prazo começa a contar a partir do momento em que o boleto é pago.
 
     > ⚠️ Para clientes com faturamento no Brasil que pagam boletos com Pix, o prazo de compensação também é de cerca de 48 horas.
 
