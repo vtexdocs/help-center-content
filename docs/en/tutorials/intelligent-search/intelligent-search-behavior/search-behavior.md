@@ -3,7 +3,7 @@ title: 'Search behavior'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2025-06-24T19:21:01.124Z
+updatedAt: 2026-04-23T12:00:00.000Z
 publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
