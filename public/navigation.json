@@ -39061,13 +39061,13 @@
             },
             {
               "name": {
-                "en": "Analytics",
                 "es": "Analytics",
+                "en": "Analytics",
                 "pt": "Analytics"
               },
               "slug": {
-                "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
+                "en": "",
                 "pt": ""
               },
               "origin": "",
@@ -39596,6 +39596,21 @@
                 "en": "issue-with-node-version-compatibility",
                 "es": "problema-de-compatibilidad-de-versiones-de-node",
                 "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requests failing with timeout during app cold start",
+                "es": "Las solicitudes fallan por tiempo de espera durante el inicio en frío de la aplicación.",
+                "pt": "As solicitações falham com erro de tempo limite durante a inicialização a frio do aplicativo."
+              },
+              "slug": {
+                "en": "requests-failing-with-timeout-during-app-cold-start",
+                "es": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
+                "pt": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo"
               },
               "origin": "",
               "type": "markdown",
