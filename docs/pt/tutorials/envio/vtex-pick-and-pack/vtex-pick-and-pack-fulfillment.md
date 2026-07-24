@@ -3,7 +3,7 @@ title: 'VTEX Pick and Pack: Fulfillment'
 id: 1zGUEItEEVsal6cuBEBNcA
 status: PUBLISHED
 createdAt: 2023-04-10T15:43:59.687Z
-updatedAt: 2025-08-05T15:59:40.479Z
+updatedAt: 2026-06-29T00:00:00.000Z
 publishedAt: 2025-08-05T15:59:40.479Z
 firstPublishedAt: 2023-04-10T17:57:34.714Z
 contentType: tutorial
