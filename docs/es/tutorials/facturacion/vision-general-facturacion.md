@@ -3,7 +3,7 @@ title: 'Facturación - Información general'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-07-23T19:09:59.877Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -22,7 +22,7 @@ Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede 
 
 > ℹ️ Solo los usuarios con perfil de acceso [Finance](/es/docs/tutorials/roles-de-usuario-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-de-usuario-predefinidos#finance-full-access) o con recursos de [Billing](/es/docs/tutorials/recursos-del-license-manager#) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
 
-![Admin v4 Faturas menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/vision-general-facturacion_1.jpg)
+![vision-general-facturacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/vision-general-facturacion-1.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad.
 
