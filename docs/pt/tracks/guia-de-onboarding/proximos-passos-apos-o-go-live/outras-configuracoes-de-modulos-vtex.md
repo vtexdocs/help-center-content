@@ -44,7 +44,7 @@ Mais informações em [Configurar promoção para marketplace](/pt/docs/tutorial
 
 ## Logística
 
-Feitas as configurações obrigatórias de [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica), as contas VTEX que possuem a arquitetura [multiloja ou multidomínio](/pt/docs/tracks/contas-e-arquitetura) tem a possibilidade de iniciar uma estratégia de vendas para outros países, tornando-se uma [loja internacional (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border). Dentre as principais vantagens desse tipo de operação, podemos destacar:
+Feitas as configurações obrigatórias de [Logística](/pt/docs/tracks/modulos-da-vtex-i#logistica), as contas VTEX que possuem a arquitetura [multiloja ou multidomínio](/pt/docs/tracks/contas-e-arquitetura) têm a possibilidade de iniciar uma estratégia de vendas para outros países, tornando-se uma [loja internacional (cross-border)](/pt/docs/tracks/lojas-internacionais-cross-border). Dentre as principais vantagens desse tipo de operação, podemos destacar:
 
 - **Melhoria da capacidade logística total:** o acúmulo de experiência adquirido em processos logísticos complexos (importação e exportação) permite que toda a cadeia logística (nacional e internacional) possa ser gerenciada de forma mais eficiente.
 - **Expansão do negócio:** novos públicos são atingidos, aumentando o potencial de vendas das lojas.

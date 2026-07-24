@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Implementação de frontend'
 id: 67SCtUreXxKYWhZh8n0zvZ
 status: PUBLISHED
@@ -128,7 +128,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     </tr>
     <tr>
       <td>*Starter* (template inicial)</td>
-        <td>O [Store Theme](https://github.com/vtex-apps/store-theme) é o template inicial no qual o time pode usar de base para iniciar o projeto da loja ou iniciar do zero.</td>
+        <td>O [Store Theme](https://github.com/vtex-apps/store-theme) é o template inicial que o time pode usar como base para iniciar o projeto da loja ou iniciar do zero.</td>
         <td>O [Starter FastStore](https://starter.vtex.app/) já é disponibilizado ao finalizar o [Onboarding da FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Isso permite que o time comece o projeto com um template base focado em performance.</td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@ Antes de lançar a loja em produção e do [go-live](/pt/docs/tracks/planejament
 
 ### Desenvolvendo com a FastStore
 
-O time de desenvolvimento deve iniciar um novo projeto com a FastStore através do processo de [Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Ao final desse processo, o time estará com uma loja básica e funcional baseada no [Starter da FastStore](https://starter.vtex.app/). Feito isso, os requisitos básicos da página já estarão implementados, são eles:
+O time de desenvolvimento deve iniciar um novo projeto com a FastStore através do processo de [Onboarding](https://developers.vtex.com/docs/guides/faststore/getting-started-2-starting-the-project). Ao final desse processo, o time estará com uma loja básica e funcional baseada no [Starter da FastStore](https://starter.vtex.app/). Feito isso, os requisitos básicos da página já estarão implementados. São eles:
 
 - Home
 - *Product Listing Page* (PLP)
@@ -248,7 +248,7 @@ São apresentados a seguir os requisitos para cada tema:
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Product Details Page (PDP)
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
-- Minicart configuration
+- Configuração do minicart
   - Editar os componentes e estilos já apresentados no [Starter](https://starter.vtex.app/)
 - Checkout
   - Integrar com o [VTEX Checkout](https://developers.vtex.com/docs/guides/faststore/go-live-3-integrating-the-vtex-checkout)
