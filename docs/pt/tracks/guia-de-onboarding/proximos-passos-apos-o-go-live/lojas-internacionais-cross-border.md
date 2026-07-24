@@ -44,7 +44,7 @@ Uma multiloja, também chamada de subconta ou multidomínio, é uma segunda loja
 
 O binding é o processo de vincular um site a uma das lojas disponíveis na sua conta. A criação de um binding é um dos passos para configurar um site personalizado para um país específico ou outro público-alvo.
 
-Saiba mais em [O que é binding?](/pt/docs/tutorials/o-que-e-binding).
+> ℹ️ Saiba mais em [O que é binding?](/pt/docs/tutorials/o-que-e-binding).
 
 ### Política comercial
 
