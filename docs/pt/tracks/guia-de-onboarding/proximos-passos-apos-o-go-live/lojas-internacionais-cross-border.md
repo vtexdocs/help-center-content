@@ -51,7 +51,7 @@ O binding é o processo de vincular um site a uma das lojas disponíveis na sua 
 Uma política comercial define os conteúdos que serão exibidos no site.
 As políticas comerciais contêm configurações relativas a catálogo, preços, promoções, logística, segmentação de clientes e pagamentos para diversas estratégias de venda.
 
-Saiba mais em [Como funciona uma Política Comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial).
+> ℹ️ Saiba mais em [Como funciona uma Política Comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial).
 
 ## Lojas multi-idioma
 
