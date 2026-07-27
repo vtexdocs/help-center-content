@@ -17,9 +17,7 @@ subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 
 >⚠️ Este tutorial é válido apenas para clientes com faturamento no Brasil.
 
-Para alterar o CNPJ da sua loja, abra um [ticket](https://supporticket.vtex.com/support) para o suporte financeiro. Essa alteração inclui a transferência de direitos, obrigações e responsabilidades contratuais.
-
-Ao abrir o ticket, inclua as seguintes informações:
+Para alterar o CNPJ da sua loja, abra um [ticket](https://supporticket.vtex.com/support) para o suporte financeiro. Essa alteração inclui a transferência de direitos, obrigações e responsabilidades contratuais. Na abertura do ticket, inclua as seguintes informações:
 
 - Cartão CNPJ do contratante e do transferente.
 - Contrato social do contratante e do transferente.
