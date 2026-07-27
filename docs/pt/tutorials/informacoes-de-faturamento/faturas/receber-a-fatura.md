@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-A VTEX adota cobrança pós paga, o que significa que você é cobrado após o período de utilização da plataforma. Por isso, a fatura é emitida no fim de cada mês.
+A VTEX adota cobrança pós-paga, o que significa que você é cobrado após o período de utilização da plataforma. Por isso, a fatura é emitida no fim de cada mês.
 
 Quando a fatura é emitida, ela é enviada por e-mail aos contatos cadastrados na sua conta.
 
