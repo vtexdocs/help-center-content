@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo cambiar mi CNPJ?'
+title: 'Cambiar el CNPJ de la tienda'
 id: 22MTpJQGocA48sMQyUwMGq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.539Z
