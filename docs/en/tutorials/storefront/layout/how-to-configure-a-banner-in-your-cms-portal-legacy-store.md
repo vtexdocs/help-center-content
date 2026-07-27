@@ -1,18 +1,21 @@
 ---
-title: 'Changing a banner'
+title: 'How to configure a banner in your CMS Portal (Legacy) store'
 id: frequentlyAskedQuestions_1848
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.558Z
-updatedAt: 2023-03-29T17:40:06.023Z
+updatedAt: 2026-07-10T10:52:00.000Z
 publishedAt: 2023-03-29T17:40:06.023Z
 firstPublishedAt: 2019-01-24T22:15:27.116Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: how-to-alter-a-banner
+slugEN: how-to-configure-a-banner-in-your-cms-portal-legacy-store
 legacySlug: how-to-alter-a-banner
 locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+seeAlso:
+    - "/docs/tracks/legacy-cms-portal"
+    - "/docs/tutorials/defining-window-displays"
 ---
 
 We will use a banner on the Home Page as an example, but these step-by-step instructions can be used on any page of the site.
