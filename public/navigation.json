@@ -18860,14 +18860,14 @@
                 },
                 {
                   "name": {
-                    "en": "Unblocking the Admin temporarily",
-                    "es": "Desbloquear temporalmente el Admin",
-                    "pt": "Desbloquear temporariamente o Admin"
+                    "en": "Unblocking the VTEX Admin temporarily",
+                    "es": "Desbloquear temporalmente el Admin VTEX",
+                    "pt": "Desbloquear temporariamente o Admin VTEX"
                   },
                   "slug": {
-                    "en": "unblocking-the-admin-temporarily",
-                    "es": "desbloquear-temporalmente-el-admin",
-                    "pt": "desbloquear-temporariamente-o-admin"
+                    "en": "unblocking-the-vtex-admin-temporarily",
+                    "es": "desbloquear-temporalmente-el-admin-vtex",
+                    "pt": "desbloquear-temporariamente-o-admin-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
