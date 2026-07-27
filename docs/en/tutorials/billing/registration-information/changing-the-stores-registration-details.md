@@ -1,9 +1,9 @@
 ---
-title: 'Changing my store’s registration details'
+title: 'Changing the store's registration details'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: PUBLISHED
 createdAt: 2018-03-12T15:29:14.300Z
-updatedAt: 2026-07-17T19:39:07.940Z
+updatedAt: 2026-07-27T13:58:29.441Z
 publishedAt: 2025-05-21T15:51:21.764Z
 firstPublishedAt: 2018-03-12T15:31:33.680Z
 contentType: tutorial
