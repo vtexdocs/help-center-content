@@ -43,5 +43,5 @@ Para obter bons resultados com as suas imagens e solucionar possíveis problemas
 
 - [Cadastrar Producto](/pt/docs/tracks/cadastrar-produto)
 - [Cadastrar SKU](/pt/docs/tracks/cadastrar-sku)
-- [Importar imagens por planilha](/pt/docs/tutorials/importando-imagens-por-planilha)
+- [Importar imagens por planilha](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha)
 
