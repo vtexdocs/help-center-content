@@ -17,14 +17,16 @@ subcategoryId: 5U2vQjKfQcYeYw62mygMii
 
 Saiba quais dados cadastrais da sua loja você pode alterar no Admin VTEX e quando é necessário abrir um ticket para solicitar a alteração do documento fiscal.
 
-## Alterações que você pode fazer no Admin VTEX
+## Alterações via Admin VTEX
 
-Você pode atualizar diretamente no Admin VTEX os seguintes dados cadastrais da sua loja:
+Você pode atualizar os dados cadastrais da loja no Admin VTEX, acessando o módulo **Informações de faturamento**. Para isso, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito da tela, clique em **Informações de faturamento** e selecione a página que deseja acessar. 
+
+Você pode alterar os seguintes dados:
 
 - **Nome e endereço da loja:** edite essas informações na página **Informações de faturamento > Dados cadastrais**.
 - **Contatos:** adicione ou edite os contatos da sua loja na página **Informações de faturamento > Contatos de faturamento**.
 
-Para acessar o módulo **Informações de faturamento**, clique no seu avatar — identificado pela inicial do seu e-mail — no canto superior direito do Admin VTEX. Em seguida, clique em **Informações de faturamento** e selecione a página que deseja acessar. Saiba mais em [Informações de faturamento - Visão geral](/pt/docs/tutorials/visao-geral-informacoes-de-faturamento).
+Saiba mais em [Informações de faturamento - Visão geral](/pt/docs/tutorials/visao-geral-informacoes-de-faturamento).
 
 ## Alteração do documento fiscal
 
