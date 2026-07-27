@@ -18907,12 +18907,12 @@
                 {
                   "name": {
                     "en": "Changing the store’s CNPJ",
-                    "es": "¿Cómo cambiar mi CNPJ?",
+                    "es": "Cambiar el CNPJ de la tienda",
                     "pt": "Alterar o CNPJ da loja"
                   },
                   "slug": {
                     "en": "changing-the-stores-cnpj",
-                    "es": "como-cambiar-mi-cnpj-nuevo",
+                    "es": "cambiar-el-cnpj-de-la-tienda",
                     "pt": "alterar-o-cnpj-da-loja"
                   },
                   "origin": "",
