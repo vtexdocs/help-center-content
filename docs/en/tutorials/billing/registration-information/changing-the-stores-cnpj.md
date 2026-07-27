@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 
-In order to request the change of CNPJ and transfer the rights, obligations and contractual liability of your store, you must open a [ticket](https://support.vtex.com/hc/en-us/requests) communicating your decision to the financial team.
+In order to request the change of CNPJ and transfer the rights, obligations and contractual liability of your store, you must open a [ticket](https://supporticket.vtex.com/support) communicating your decision to the financial team.
 
 ## Make sure your ticket contains the following information:
 
