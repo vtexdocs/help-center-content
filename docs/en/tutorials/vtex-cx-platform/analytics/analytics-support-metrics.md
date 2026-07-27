@@ -16,7 +16,7 @@ The **Analytics** page offers data and metrics about human support in your opera
 
 On this page, you'll find the following controls:
 
-![Update, filter, and data export buttons](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/live-desk-controle-de-dados-e-filtros.png)
+![Update, filter, and data export buttons](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/live-desk-data-management-and-filters.png)
 
 - `Refresh`: Manually reloads the dashboard data.
 - `Filters`: Opens filter options by department, queue, representative, tags, and period.
@@ -32,7 +32,7 @@ The **Monitoring** tab displays real-time information about ongoing support chat
 
 It includes the following sections:
 
-![Monitoring screen 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-1.png)
+![Monitoring screen 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-1.png)
 
 #### 1. Status of support chats
 
@@ -56,7 +56,7 @@ Each metric also displays the maximum value recorded in the period.
 
 Line chart showing the distribution of support chats started throughout the hours of the day. You can use this chart to identify peak demand times and plan representative shift scheduling.
 
-![Monitoring screen 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-2.png)
+![Monitoring screen 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-2.png)
 
 #### 4. Volume per queue
 
@@ -80,7 +80,7 @@ Displays the customer satisfaction score (CSAT) based on the surveys collected a
 
 > ⚠️ To display the CSAT widget, it needs to be enabled natively in at least one of the project's departments. If it's not active, you need to click the `Enable` button and enable it in a department. For more information about departments, see the [Configure Live Desk](docs/tutorials/configure-live-desk) article.
 
-![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-3.png)
+![Monitoring screen 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-cx-platform/analytics/monitoring-screen-3.png)
 
 #### 7. Detailed monitoring
 
