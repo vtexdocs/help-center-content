@@ -39393,37 +39393,6 @@
         },
         {
           "name": {
-            "en": "App Platform",
-            "es": "App Platform",
-            "pt": "App Platform"
-          },
-          "slug": {
-            "en": "app-platform",
-            "es": "app-platform",
-            "pt": "app-platform"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Cold Start requests failing with timeout and courier retries not working as expected",
-                "es": "Las solicitudes de arranque en frío fallan con el tiempo de espera y los reintentos de mensajería no funcionan como se esperaba.",
-                "pt": "As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado"
-              },
-              "slug": {
-                "en": "cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected",
-                "es": "las-solicitudes-de-arranque-en-frio-fallan-con-el-tiempo-de-espera-y-los-reintentos-de-mensajeria-no-funcionan-como-se-esperaba",
-                "pt": "as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Apps",
             "es": "Apps",
             "pt": "Apps"
@@ -55003,21 +54972,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
-              },
-              "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -59684,6 +59638,21 @@
                 "en": "wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace",
                 "es": "valor-incorrecto-en-la-definicion-de-pricedefinition-en-la-cadena-de-pedidos-de-un-mercado-multinivel",
                 "pt": "valor-incorreto-para-a-definicao-de-preco-na-ordem-da-cadeia-de-um-marketplace-multinivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
