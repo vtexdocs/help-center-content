@@ -64,7 +64,7 @@ Para gerenciar em massa os redirecionamentos da sua loja, você pode usar uma pl
 | `from`     | URL antiga não mais útil para usuários e mecanismos de busca. |
 | `to`       | Nova URL para a qual os usuários e mecanismos de busca serão redirecionados. |
 | `type`     | Se o redirecionamento será permanente ou temporário, ou seja, se ele terá uma data de término. |
-| `binding`  | *Binding* no qual o redirecionamento deve ser aplicado. Atenção: a coluna deve ser preenchida com o [ID do binding]((https://developers.vtex.com/vtex-developer-docs/docs/checking-your-stores-binding-id) desejado. |
+| `binding`  | *Binding* no qual o redirecionamento deve ser aplicado. Atenção: a coluna deve ser preenchida com o [ID do binding](https://developers.vtex.com/vtex-developer-docs/docs/checking-your-stores-binding-id) desejado. |
 | `endDate`  | Data de término do redirecionamento seguindo o formato UTC. Observe que as células desta coluna só devem ser preenchidas quando o tipo de redirecionamento for temporário. |
 
 3. Salve sua planilha quando estiver satisfeito com as alterações realizadas.
