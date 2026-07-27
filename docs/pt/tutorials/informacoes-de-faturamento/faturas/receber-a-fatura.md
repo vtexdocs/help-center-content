@@ -19,7 +19,7 @@ A VTEX adota cobrança pós-paga, o que significa que você é cobrado após o p
 
 Quando a fatura é emitida, ela é enviada por e-mail aos contatos cadastrados na sua conta.
 
-> ℹ️ Para alterar os contatos que recebem a fatura e demais comunicações financeiras, consulte o artigo [Alterar os dados cadastrais da loja](/pt/docs/tutorials/alterar-os-dados-cadastrias-da-loja).
+> ℹ️ Para alterar os contatos que recebem a fatura e demais comunicações financeiras, consulte o artigo [Alterar os dados cadastrais da loja](/pt/docs/tutorials/alterar-os-dados-cadastrais-da-loja).
 
 Se você não recebeu a fatura por e-mail, pode baixá-la no Admin. Saiba mais em [Baixar faturas da VTEX](/pt/docs/tutorials/baixar-faturas-da-vtex).
 
