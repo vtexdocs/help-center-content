@@ -1,5 +1,5 @@
 ---
-title: 'Desbloquear temporariamente o Admin'
+title: 'Desbloquear temporariamente o Admin VTEX'
 id: 7jCPvsUmUy4e8TKd4F2LFP
 status: PUBLISHED
 createdAt: 2025-05-07T13:15:44.418Z
@@ -9,17 +9,17 @@ firstPublishedAt: 2025-05-07T13:32:57.245Z
 contentType: tutorial
 productTeam: Billing
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: unblocking-the-admin-temporarily
+slugEN: unblocking-the-vtex-admin-temporarily
 legacySlug: como-desbloquear-temporariamente-o-admin
 locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-O Admin da sua loja é bloqueado quando há atraso no pagamento das faturas. Enquanto os débitos são regularizados, você pode solicitar um desbloqueio temporário por 48 horas úteis.
+O Admin VTEX da loja é bloqueado quando há atraso no pagamento das faturas. Enquanto os débitos são regularizados, você pode solicitar um desbloqueio temporário por 48 horas úteis.
 
 ## Antes de começar
 
-Para fazer essa solicitação, certifique-se de que você tem uma das seguintes permissões:
+Certifique-se de que você tem uma das seguintes permissões:
 
 - Perfil de acesso [Owner (Admin Super)](/pt/docs/tutorials/perfis-de-acesso-predefinidos#owner-admin-super).
 - Perfil de acesso [financeiro](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance). Saiba como configurar esse perfil em [Criar um perfil de acesso financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro) ou peça ao proprietário da loja que ajuste suas permissões.

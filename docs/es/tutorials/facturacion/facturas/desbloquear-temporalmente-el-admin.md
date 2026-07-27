@@ -1,5 +1,5 @@
 ---
-title: 'Desbloquear temporalmente el Admin'
+title: 'Desbloquear temporalmente el Admin VTEX'
 id: 7jCPvsUmUy4e8TKd4F2LFP
 status: PUBLISHED
 createdAt: 2025-05-07T13:15:44.418Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2025-05-07T13:32:57.245Z
 contentType: tutorial
 productTeam: Billing
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: unblocking-the-admin-temporarily
+slugEN: unblocking-the-vtex-admin-temporarily
 legacySlug: desbloqueio-temporal-del-admin
 locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
