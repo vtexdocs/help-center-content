@@ -9,7 +9,7 @@ firstPublishedAt: 2025-05-07T13:32:57.245Z
 contentType: tutorial
 productTeam: Billing
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: unlocking-the-admin-temporarily
+slugEN: unblocking-the-admin-temporarily
 legacySlug: como-desbloquear-temporariamente-o-admin
 locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
