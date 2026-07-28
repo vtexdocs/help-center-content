@@ -16246,21 +16246,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "The order was split into packages with separate deliveries",
-                "es": "El pedido se dividió en paquetes con envíos separados",
-                "pt": "O pedido foi dividido em pacotes com entregas distintas"
-              },
-              "slug": {
-                "en": "the-order-was-split-into-packages-with-separate-deliveries",
-                "es": "el-pedido-se-dividio-en-paquetes-con-envios-separados",
-                "pt": "o-pedido-foi-dividido-em-pacotes-com-entregas-distintas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         }
