@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "New orders configuration experience inside VTEX Admin",
+                    "es": "Nueva experiencia de configuración de pedidos dentro del Admin VTEX",
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-21-new-orders-configuration-experience-inside-vtex-admin",
+                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-dentro-del-admin-vtex",
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Master Data usage dashboard in the VTEX Admin",
                     "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
                     "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
@@ -122,37 +137,6 @@
                     "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
                     "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
                     "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Julho",
-                "es": "Julho",
-                "pt": "Julho"
-              },
-              "slug": {
-                "en": "julho",
-                "es": "julho",
-                "pt": "2026-julho"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX",
-                    "en": "Nova experiência de configuração de pedidos no Admin da VTEX",
-                    "es": "Nova experiência de configuração de pedidos no Admin da VTEX"
-                  },
-                  "slug": {
-                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -69359,6 +69343,21 @@
                 "en": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
                 "es": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
                 "pt": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Inactive or out-of-commercial-policy SKUs remain published (Match/new listing) on Amazon after the connector sends them",
+                "es": "Amazon Los SKU inactivos o que no cumplen con la política comercial permanecen publicados (Coincidencia/nuevo listado) en Amazon después de que el conector los envía.",
+                "pt": "Amazon Os SKUs inativos ou fora da política comercial permanecem publicados (Correspondência/novo anúncio) na Amazon após o conector enviá-los."
+              },
+              "slug": {
+                "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
+                "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
+                "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
               },
               "origin": "",
               "type": "markdown",
