@@ -3,7 +3,7 @@ title: 'Cross-border stores'
 id: 5qgXy9Erm7FDP3UB5Ox8Bs
 status: PUBLISHED
 createdAt: 2022-05-25T18:58:42.375Z
-updatedAt: 2022-05-25T19:17:08.283Z
+updatedAt: 2026-07-22T20:06:00.000Z
 publishedAt: 2022-05-25T19:17:08.283Z
 firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
@@ -13,6 +13,8 @@ locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live
 order: 3
+seeAlso:
+    - "/docs/tutorials/choosing-between-a-multistore-architecture-or-an-additional-environment"
 ---
 
 A cross-border store is a type of [multistore](/en/docs/tutorials/managing-a-multistore), which at VTEX means an account with multiple [bindings](/en/docs/tutorials/what-is-binding) and different sales channels for each one of its local stores.
