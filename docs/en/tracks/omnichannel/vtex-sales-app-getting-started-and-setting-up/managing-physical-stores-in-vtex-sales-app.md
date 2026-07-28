@@ -3,7 +3,7 @@ title: 'Managing physical stores in VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2025-11-11T18:59:24.074Z
+updatedAt: 2026-07-07T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -26,9 +26,9 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-physical-store)
 * [Inactivate](#inactivating-a-physical-store)
 
-![loja-fisica-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/adding-new-stores-to-instore_1.png)
+![loja-fisica-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-sales-app-getting-started-and-setting-up/adding-new-stores-to-instore_1.png)
 
-The page displays the following information: 
+The page displays the following information:
 
 | Column Fields   | Description                                                                                                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -47,33 +47,33 @@ You can add a physical store by following the steps below:
 2. Click the `+ Add Store` button.
 3. Fill in the [Physical store fields](#physical-store-fields).
 4. Click `Add`.
-5. Click `Save` to add the physical store.   
+5. Click `Save` to add the physical store.
 
 ### Physical store fields
 
-![loja-fisica2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/adding-new-stores-to-instore_2.png)
+![loja-fisica2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-sales-app-getting-started-and-setting-up/adding-new-stores-to-instore_2.png)
 
 #### Identification
 
-* **Store name:** physical store name. Mandatory field.
-* **Business phone:** physical store business phone number.
+* **Store name:** Physical store name. Mandatory field.
+* **Business phone:** Physical store business phone number.
 
 #### Address
 
-* **Country:** the country where the physical store is located. Mandatory field.
-* **Postal code:** postal code where the physical store is located. Mandatory field.
-* **Street:** the name of the street where the physical store is located. Mandatory field.
-* **Number:** the number of the physical store's street location. Mandatory field.
-* **Additional information:** additional information for the physical store address, such as suite number
-* **Neighborhood:** the neighborhood where the physical store is located. Mandatory field.
-* **City:** the city where the physical store is located. Mandatory field.
-* **State:** The state where the physical store is located. Mandatory field.
+* **Country:** Country where the physical store is located. Mandatory field.
+* **Postal code:** Postal code where the physical store is located. Mandatory field.
+* **Street:** Name of the street where the physical store is located. Mandatory field.
+* **Number:** Number of the physical store's street location. Mandatory field.
+* **Additional information:** Additional information for the physical store address, such as suite number.
+* **Neighborhood:** Neighborhood where the physical store is located. Mandatory field.
+* **City:** City where the physical store is located. Mandatory field.
+* **State:** State where the physical store is located. Mandatory field.
 
 #### Technical information
 
-* **Franchise account:** the [franchise account](/en/docs/tutorials/what-is-a-franchise-account) in which the physical store must be added.
-* **Sales channel:** the [sales channel](/en/docs/tutorials/how-trade-policies-work) that will be applied in the physical store. Mandatory field.
-* **Pickup point:** the [pickup point](/en/docs/tutorials/pickup-points) associated to this physical store, where customers pick up their orders. 
+* **Franchise account:** [Franchise account](/en/docs/tutorials/what-is-a-franchise-account) in which the physical store must be added.
+* **Sales channel:** [Sales channel](/en/docs/tutorials/how-trade-policies-work) that will be applied in the physical store. Mandatory field.
+* **Pickup point:** [Pickup point](/en/docs/tutorials/pickup-points) associated to this physical store, where customers pick up their orders.
 
 > ℹ️ Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.
 
@@ -98,6 +98,6 @@ You can inactivate a physical store by following the steps below:
 2. Click <i class="fa-solid fa-box-archive"></i> `Inactivate`.
 3. Click `Inactivate` again.
 
-When a store is inactivated, all the vendors registered with it will lose access to the VTEX Sales App application and will no longer be able to log in. 
+When a store is inactivated, all the vendors registered with it will lose access to the VTEX Sales App application and will no longer be able to log in.
 
-To permanently delete a store, please contact our [support](https://support.vtex.com/hc/en-us/requests).
+To permanently delete a store, please contact our [support](https://supporticket.vtex.com/support).

@@ -1,11 +1,11 @@
 ---
 title: 'Configurar o Live Desk'
-createdAt: 2025-09-16T15:05:01.763Z
-updatedAt: 2025-10-03T14:20:04.339Z
+createdAt: 2026-07-07T10:05:01.763Z
+updatedAt: 2026-07-07T10:20:04.339Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: manage-live-desk
-locale: pt
+slugEN: configure-live-desk
+locale: en
 ---
 
 A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover agentes, criar novas filas, remover e adicionar tags.
@@ -66,7 +66,7 @@ Para criar um setor, siga o passo a passo a seguir:
 
 #### Etapa 1: Configurar setor e jornada de trabalho
 
-![Etapa 1 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/configurar-o-live-desk_1.png)
+![Etapa 1 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_1.png)
 
 Na primeira etapa, escolha entre as seguintes opções:
 
@@ -99,7 +99,7 @@ Se optar por **Personalizar novo setor**, siga o passo a passo a seguir:
 
 #### Etapa 2: Configurar fila
 
-![Etapa 2 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/configurar-o-live-desk_2.png)
+![Etapa 2 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_2.png)
 
 - **Criar uma fila personalizada (recomendado):** definir os detalhes da fila manualmente.
 - **Criar fila padrão (mais rápido):** criar uma fila com configurações predefinidas.
@@ -113,7 +113,7 @@ Se optar por **Criar uma fila personalizada**, siga o passo a passo a seguir:
 
 #### Etapa 3: Configurar opções e mensagens
 
-![Etapa 3 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/configurar-o-live-desk_3.png)
+![Etapa 3 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_3.png)
 
 Na terceira etapa, configure as opções de atendimento, mensagens automáticas e etiquetas do setor. Siga o passo a passo a seguir:
 
@@ -173,7 +173,7 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
 
 #### Etapa 4: Configurar mensagem rápida (opcional)
 
-![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configuracoes-vtex-cx-platform/configurar-o-live-desk_4.png)
+![Etapa 4 do assistente de criação de setor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/configurações-vtex-cx-platform/configurar-o-live-desk_4.png)
 
 Na quarta e última etapa, configure mensagens rápidas para o setor. As mensagens rápidas são atalhos que permitem aos atendentes enviar respostas padronizadas com mais agilidade durante o atendimento.
 

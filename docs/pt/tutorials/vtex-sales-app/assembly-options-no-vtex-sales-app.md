@@ -19,7 +19,7 @@ O [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) é um apli
 
 Para mais informações sobre a instalação do VTEX Sales App, acesse [VTEX Sales App - Configurações Básicas](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas).
 
-O [Assembly Options](/pt/tutorial/assembly-options-app), disponível na VTEX  [App Store](https://apps.vtex.com/vtex-admin-assembly-options/p), é a funcionalidade que permite aos vendedores oferecer serviços adicionais durante o processo de venda, como garantia estendida e seguro. Além disso, proporciona a montagem de conjuntos compostos por diversos SKUs, como cestas de natal ou café da manhã, kits de maquiagem, entre outros.
+O [Assembly Options](/pt/docs/tutorials/app-assembly-options) é a funcionalidade que permite aos vendedores oferecer serviços adicionais durante o processo de venda, como garantia estendida e seguro. Além disso, proporciona a montagem de conjuntos compostos por diversos SKUs, como cestas de natal ou café da manhã, kits de maquiagem, entre outros.
 
 ## Instalando o Assembly Options
 
