@@ -3,7 +3,7 @@ title: 'How to create a product collection'
 id: tutorials_244
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:33.797Z
-updatedAt: 2025-06-12T16:31:03.217Z
+updatedAt: 2026-07-13T00:00:00.000Z
 publishedAt: 2025-06-12T16:31:03.217Z
 firstPublishedAt: 2017-04-27T23:03:10.343Z
 contentType: tutorial
