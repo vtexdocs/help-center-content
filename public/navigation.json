@@ -16262,21 +16262,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "The order was split into packages with separate deliveries",
-                "es": "El pedido se dividió en paquetes con envíos separados",
-                "pt": "O pedido foi dividido em pacotes com entregas distintas"
-              },
-              "slug": {
-                "en": "the-order-was-split-into-packages-with-separate-deliveries",
-                "es": "el-pedido-se-dividio-en-paquetes-con-envios-separados",
-                "pt": "o-pedido-foi-dividido-em-pacotes-com-entregas-distintas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         }
@@ -69359,6 +69344,21 @@
                 "en": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
                 "es": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
                 "pt": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Inactive or out-of-commercial-policy SKUs remain published (Match/new listing) on Amazon after the connector sends them",
+                "es": "Amazon Los SKU inactivos o que no cumplen con la política comercial permanecen publicados (Coincidencia/nuevo listado) en Amazon después de que el conector los envía.",
+                "pt": "Amazon Os SKUs inativos ou fora da política comercial permanecem publicados (Correspondência/novo anúncio) na Amazon após o conector enviá-los."
+              },
+              "slug": {
+                "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
+                "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
+                "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
               },
               "origin": "",
               "type": "markdown",
