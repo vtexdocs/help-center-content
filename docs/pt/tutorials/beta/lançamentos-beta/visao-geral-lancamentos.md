@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Lançamentos - Visão geral'
 id: btCkKGrWmxVGn1IEtZMnz
 status: PUBLISHED

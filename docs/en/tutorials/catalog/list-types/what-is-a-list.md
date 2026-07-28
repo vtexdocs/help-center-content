@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'What is a List?'
 id: 4b4NsVFwA8kwqS8S82w4Go
 status: PUBLISHED

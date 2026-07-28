@@ -138,8 +138,13 @@ Descarta tus cambios en una rama y restaura la entrada a su última versión pub
 
 ![undo-changes](https://vtexhelp.vtexassets.com/assets/docs/src/undo-changes-es___8567a42c089993e19677f64acb3f5158.png)
 
-### Eliminar del `main`
+Puedes eliminar una entrada de `main` de dos maneras:
 
-Elimina la entrada de la rama `main` manteniendo las versiones en otras ramas. Esto cancela la publicación del contenido en la tienda.
+* **Eliminar ahora:** Elimina la entrada de `main` inmediatamente, lo que la despublica del storefront en ese mismo momento.
+* **Eliminar al hacer merge:** Programa la eliminación automática de la versión de la entrada en `main` cuando se haga merge de una rama seleccionada en `main`, en lugar de eliminarla manualmente. Esto mantiene publicada la entrada que se va a reemplazar hasta el momento exacto en que el contenido nuevo ocupe su lugar.
 
-![delete-from-main](https://vtexhelp.vtexassets.com/assets/docs/src/delete-from-main-es___f0d4e193a301dc42ed793a8465ad9f24.png)
+![delete-from-main-overview](https://vtexhelp.vtexassets.com/assets/docs/src/delete-from-main___e2abd167abc3ea7b587bfec95dd7c56e.gif)
+
+Esto es especialmente útil para reemplazos de contenido, como las campañas de temporada. Por ejemplo, si una entrada `Christmas` está publicada actualmente en `main` y se está preparando una entrada `New Year's` en otra rama, puedes programar la eliminación de la versión de la entrada `Christmas` que está en `main` para que se elimine automáticamente en cuanto se haga merge de la rama que contiene la entrada `New Year's` en `main`. De este modo, eliminar la entrada desactualizada ya no requiere un paso manual adicional.
+
+> ℹ️ Para obtener más información sobre cómo hacer merge de ramas, consulta [Publicar y programar cambios](#publishing-and-scheduling-changes).

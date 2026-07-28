@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Eventos de Headless CMS (Legacy) disponibles en Audit'
 id: 2WQz4dwteRahTD71hIHNNc
 status: PUBLISHED

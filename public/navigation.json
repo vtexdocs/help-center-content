@@ -39,6 +39,51 @@
               "children": [
                 {
                   "name": {
+                    "en": "Discover the new VTEX Sales App Extensibility",
+                    "es": "Conoce el nuevo VTEX Sales App Extensibility",
+                    "pt": "Conheça o novo VTEX Sales App Extensibility"
+                  },
+                  "slug": {
+                    "en": "2026-07-23-discover-the-new-vtex-sales-app-extensibility",
+                    "es": "2026-07-23-conoce-el-nuevo-vtex-sales-app-extensibility",
+                    "pt": "2026-07-23-conheca-o-novo-vtex-sales-app-extensibility"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New orders configuration experience inside VTEX Admin",
+                    "es": "Nueva experiencia de configuración de pedidos dentro del Admin VTEX",
+                    "pt": "Nova experiência de configuração de pedidos no Admin da VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-21-new-orders-configuration-experience-inside-vtex-admin",
+                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-dentro-del-admin-vtex",
+                    "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Master Data usage dashboard in the VTEX Admin",
+                    "es": "Nuevo dashboard Uso de Master Data en el Admin VTEX",
+                    "pt": "Novo dashboard de uso do Master Data no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2026-07-20-new-master-data-usage-dashboard-in-the-vtex-admin",
+                    "es": "2026-07-20-nuevo-dashboard-uso-de-master-data-en-el-admin-vtex",
+                    "pt": "2026-07-20-novo-dashboard-de-uso-do-master-data-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Apple Pay Express Checkout V6: New payment method",
                     "es": "Apple Pay Express Checkout V6: nuevo medio de pago",
                     "pt": "Apple Pay Express Checkout V6: novo meio de pagamento"
@@ -47,6 +92,36 @@
                     "en": "2026-07-14-apple-pay-express-checkout-v6-new-payment-method",
                     "es": "2026-07-14-apple-pay-express-checkout-v6-nuevo-medio-de-pago",
                     "pt": "2026-07-14-apple-pay-express-checkout-v6-novo-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Partial mode: New flow in post-purchase payment operations",
+                    "es": "Modo parcial: nuevo flujo de trabajo en las operaciones de pago poscompra",
+                    "pt": "Modo Parcial: novo fluxo em operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "2026-07-14-partial-mode-new-flow-in-post-purchase-payment-operations",
+                    "es": "2026-07-14-modo-parcial-nuevo-flujo-de-trabajo-en-las-operaciones-de-pago-poscompra",
+                    "pt": "2026-07-14-modo-parcial-novo-fluxo-em-operacoes-de-pagamentos-pos-compra"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Delivery Promise available in open beta",
+                    "es": "Delivery Promise disponible en beta abierta",
+                    "pt": "Delivery Promise disponível em Open Beta"
+                  },
+                  "slug": {
+                    "en": "2026-07-01-delivery-promise-in-open-beta",
+                    "es": "2026-07-01-delivery-promise-disponible-en-beta-abierta",
+                    "pt": "2026-07-01-delivery-promise-em-open-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -10009,9 +10084,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Other VTEX module settings",
-                    "es": "3. Otros ajustes de los módulos de VTEX",
-                    "pt": "3. Outras configurações de módulos VTEX"
+                    "en": "3. Cross-border stores",
+                    "es": "3. Tiendas transfronterizas (cross-border)",
+                    "pt": "3. Lojas internacionais (cross-border)"
+                  },
+                  "slug": {
+                    "en": "cross-border-stores",
+                    "es": "tiendas-transfronterizas-cross-border",
+                    "pt": "lojas-internacionais-cross-border"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Other VTEX module settings",
+                    "es": "4. Otros ajustes de los módulos de VTEX",
+                    "pt": "4. Outras configurações de módulos VTEX"
                   },
                   "slug": {
                     "en": "other-vtex-module-settings",
@@ -10024,9 +10114,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Add-on products",
-                    "es": "4. Products Add-on",
-                    "pt": "4. Produtos Add-on"
+                    "en": "5. Add-on products",
+                    "es": "5. Products Add-on",
+                    "pt": "5. Produtos Add-on"
                   },
                   "slug": {
                     "en": "add-on-products",
@@ -11279,24 +11369,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Cross-border stores",
-                    "es": "4. Tiendas transfronterizas (cross-border)",
-                    "pt": "4. Lojas internacionais (cross-border)"
-                  },
-                  "slug": {
-                    "en": "cross-border-stores",
-                    "es": "tiendas-transfronterizas-cross-border",
-                    "pt": "lojas-internacionais-cross-border"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Glossary",
-                    "es": "5. Glosario",
-                    "pt": "5. Glossário"
+                    "en": "4. Glossary",
+                    "es": "4. Glosario",
+                    "pt": "4. Glossário"
                   },
                   "slug": {
                     "en": "glossary",
@@ -13920,28 +13995,59 @@
             },
             {
               "name": {
-                "en": "Integration with Facebook Business Extension",
-                "es": "Integración con Facebook Business Extension",
-                "pt": "Integração com o Facebook Business Extension"
+                "en": "Integración con Extensión de Meta para empresas",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
               },
               "slug": {
-                "en": "integration-with-facebook-business-extension",
-                "es": "integracion-con-facebook-business-extension",
-                "pt": "integracao-com-o-facebook-business-extension"
+                "en": "integracion-con-extension-de-meta-para-empresas",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "1. Facebook Business Extension",
-                    "es": "1. Facebook Business Extension",
-                    "pt": "1. Facebook Business Extension"
+                    "en": "1. Interface of the configured integration",
+                    "es": "1. Interfaz de la integración configurada",
+                    "pt": "1. Interface da integração configurada"
                   },
                   "slug": {
-                    "en": "facebook-business-extension",
-                    "es": "facebook-business-extension",
-                    "pt": "facebook-business-extension"
+                    "en": "interface-da-integracao-configurada",
+                    "es": "interface-da-integracao-configurada",
+                    "pt": "interface-da-integracao-configurada"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integration with Meta Business Extension",
+                "es": "Integración con Extensión de Meta para empresas",
+                "pt": "Integração com a Extensão da Meta para Empresas"
+              },
+              "slug": {
+                "en": "integration-with-meta-business-extension",
+                "es": "integracion-con-meta-business-extension",
+                "pt": "integracao-com-o-meta-business-extension"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Meta Business Extension",
+                    "es": "1. Extensión de Meta para empresas",
+                    "pt": "1. Extensão da Meta para Empresas"
+                  },
+                  "slug": {
+                    "en": "meta-business-extension",
+                    "es": "meta-business-extension",
+                    "pt": "meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13949,14 +14055,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension - Overview",
-                    "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
+                    "en": "2. Integration with Meta Business Extension - Overview",
+                    "es": "2. Integración con Extensión de Meta para empresas - Información general",
+                    "pt": "2. Integração com a Extensão da Meta para Empresas - Visão geral"
                   },
                   "slug": {
-                    "en": "integration-with-facebook-business-extension-overview",
-                    "es": "vision-general-de-la-integracion-con-facebook-business-extension",
-                    "pt": "visao-geral-da-integracao-com-o-facebook-business-extension"
+                    "en": "integration-with-meta-business-extension-overview",
+                    "es": "vision-general-de-la-integracion-con-meta-business-extension",
+                    "pt": "visao-geral-da-integracao-com-o-meta-business-extension"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13964,14 +14070,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. Installing the Facebook Business Extension e Conversions API app",
-                    "es": "3. Instalar la aplicación Facebook Business Extension e Conversions API",
-                    "pt": "3. Instalar a app Facebook Business Extension e Conversions API"
+                    "en": "3. Installing the Meta Business Extension e Conversions API app",
+                    "es": "3. Instalar la aplicación Extensión de Meta para empresas e Conversions API",
+                    "pt": "3. Instalar a app Extensão da Meta para Empresas e Conversions API"
                   },
                   "slug": {
-                    "en": "installing-the-facebook-business-extension-e-conversions-api-app",
-                    "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
-                    "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
+                    "en": "installing-the-meta-business-extension-e-conversions-api-app",
+                    "es": "instalar-la-aplicacion-meta-business-extension-e-conversions-api",
+                    "pt": "instalar-a-app-meta-business-extension-e-conversions-api"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -13987,21 +14093,6 @@
                     "en": "configuring-the-integration-with-fbe-in-the-vtex-admin",
                     "es": "configurar-la-integracion-con-fbe-en-el-admin-vtex",
                     "pt": "configurar-a-integracao-com-o-fbe-no-admin-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Interface of the configured integration",
-                    "es": "5. Interfaz de la integración configurada",
-                    "pt": "5. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16155,21 +16246,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "The order was split into packages with separate deliveries",
-                "es": "El pedido se dividió en paquetes con envíos separados",
-                "pt": "O pedido foi dividido em pacotes com entregas distintas"
-              },
-              "slug": {
-                "en": "the-order-was-split-into-packages-with-separate-deliveries",
-                "es": "el-pedido-se-dividio-en-paquetes-con-envios-separados",
-                "pt": "o-pedido-foi-dividido-em-pacotes-com-entregas-distintas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         }
@@ -16273,21 +16349,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Creating a financial role",
-                    "es": "Crear un rol financiero",
-                    "pt": "Criar um perfil de acesso financeiro"
-                  },
-                  "slug": {
-                    "en": "creating-a-financial-access-profile",
-                    "es": "crear-un-rol-financiero",
-                    "pt": "criar-um-perfil-de-acesso-financeiro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating roles",
@@ -18635,13 +18696,13 @@
         {
           "name": {
             "en": "Billing",
-            "es": "Facturas",
-            "pt": "Faturas"
+            "es": "Facturación",
+            "pt": "Informações de faturamento"
           },
           "slug": {
             "en": "billing-category",
-            "es": "facturas-categoria",
-            "pt": "faturas-categoria"
+            "es": "facturacion-categoria",
+            "pt": "informacoes-de-faturamento-categoria"
           },
           "origin": "",
           "type": "category",
@@ -18662,34 +18723,35 @@
               "children": [
                 {
                   "name": {
-                    "en": "Accounts Payable - Brazil",
-                    "es": "Cuentas a Pagar - Brasil",
-                    "pt": "Contas a Pagar - Brasil"
+                    "en": "Requesting contract termination in Brazil",
+                    "es": "Solicitar rescisión contractual en Brasil",
+                    "pt": "Solicitar rescisão contratual no Brasil"
                   },
                   "slug": {
-                    "en": "accounts-payable-brazil",
-                    "es": "cuentas-a-pagar-brasil",
-                    "pt": "contas-a-pagar-brasil"
+                    "en": "how-to-request-your-contract-termination-in-brazil",
+                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
+                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
                   },
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Accounts Payable - International",
-                    "es": "Cuentas por pagar - Internacional",
-                    "pt": "Contas a pagar - Internacional"
-                  },
-                  "slug": {
-                    "en": "accounts-payable-international",
-                    "es": "cuentas-por-pagar-internacional",
-                    "pt": "contas-a-pagar-internacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Invoices",
+                "es": "Facturas",
+                "pt": "Faturas"
+              },
+              "slug": {
+                "en": "invoices-subcategory",
+                "es": "facturas-subcategoria",
+                "pt": "faturas-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
                     "en": "Consumption tags used in the billing module",
@@ -18707,112 +18769,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to request a platform SLA verification?",
-                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
-                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
-                  },
-                  "slug": {
-                    "en": "how-to-request-sla-verification",
-                    "es": "como-solicitar-la-verificacion-de-sla",
-                    "pt": "como-solicitar-a-apuracao-de-sla"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Names of VTEX branches worldwide",
-                    "es": "Nombres de las sucursales VTEX en el mundo",
-                    "pt": "Nomes das filiais VTEX pelo mundo"
-                  },
-                  "slug": {
-                    "en": "names-of-vtex-branches-worldwide",
-                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
-                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a contract termination in Argentina and Colombia",
-                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
-                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
-                  },
-                  "slug": {
-                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
-                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
-                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting a new environment",
-                    "es": "Contratar nuevo entorno",
-                    "pt": "Contratar novo ambiente"
-                  },
-                  "slug": {
-                    "en": "requesting-a-new-environment",
-                    "es": "contratar-nuevo-entorno",
-                    "pt": "contratar-novo-ambiente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
-                  },
-                  "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Agreement",
-                    "es": "Contrato VTEX",
-                    "pt": "Contrato VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-agreement",
-                    "es": "contrato-vtex",
-                    "pt": "contrato-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Invoices",
-                "es": "Títulos",
-                "pt": "Títulos"
-              },
-              "slug": {
-                "en": "invoices-subcategory",
-                "es": "titulos-subcategoria",
-                "pt": "títulos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18828,21 +18784,6 @@
                 },
                 {
                   "name": {
-                    "en": "How do I request a duplicate of my \"boleto\"?",
-                    "es": "¿Cómo solicitar una copia de mi boleto de cobro?",
-                    "pt": "Como solicitar a segunda via do meu boleto de cobrança ?"
-                  },
-                  "slug": {
-                    "en": "how-do-i-request-a-duplicate-of-my-boleto",
-                    "es": "como-solicitar-una-copia-de-mi-boleto-de-cobro",
-                    "pt": "como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "How to download the VTEX invoices",
                     "es": "Cómo descargar las facturas de VTEX",
                     "pt": "Como fazer download das faturas da VTEX"
@@ -18851,6 +18792,21 @@
                     "en": "how-to-download-the-vtex-invoices",
                     "es": "como-descargar-las-facturas-de-vtex",
                     "pt": "como-fazer-download-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to request a platform SLA verification?",
+                    "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
+                    "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
+                  },
+                  "slug": {
+                    "en": "how-to-request-sla-verification",
+                    "es": "como-solicitar-la-verificacion-de-sla",
+                    "pt": "como-solicitar-a-apuracao-de-sla"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18885,17 +18841,33 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Registration information",
+                "es": "Datos de registro",
+                "pt": "Dados cadastrais"
+              },
+              "slug": {
+                "en": "registration-information",
+                "es": "datos-de-registro",
+                "pt": "dados-cadastrais"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "en": "What does VTEX consider as revenues for invoice calculation?",
-                    "es": "¿Qué considera VTEX como ingresos en el cálculo de la factura?",
-                    "pt": "O que a VTEX considera como receita no cálculo da fatura ?"
+                    "en": "Changing my store’s registration details",
+                    "es": "Modificar los datos de registro de mi tienda",
+                    "pt": "Alterar os dados cadastrais da minha loja"
                   },
                   "slug": {
-                    "en": "what-does-vtex-consider-as-revenue-in-the-billing-calculation",
-                    "es": "que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion",
-                    "pt": "o-que-a-vtex-considera-como-receita-para-apuracao"
+                    "en": "changing-the-stores-registration-details",
+                    "es": "modificar-los-datos-de-registro-de-la-tienda",
+                    "pt": "alterar-os-dados-cadastrais-da-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18903,14 +18875,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is the period considered for calculating my billing?",
-                    "es": "¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?",
-                    "pt": "Qual é o período considerado para a apuração da cobrança da minha loja?"
+                    "en": "How do I change my CNPJ?",
+                    "es": "¿Cómo cambiar mi CNPJ?",
+                    "pt": "Como fazer a alteração do meu CNPJ?"
                   },
                   "slug": {
-                    "en": "what-is-the-period-considered-for-calculating-my-billing",
-                    "es": "cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda",
-                    "pt": "qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja"
+                    "en": "how-do-i-change-my-cnpj-new",
+                    "es": "como-cambiar-mi-cnpj-nuevo",
+                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18927,22 +18899,7 @@
               "slug": {
                 "en": "billing-module-overview",
                 "es": "vision-general-facturacion",
-                "pt": "visao-geral-faturas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Changing my store’s registration details",
-                "es": "Modificar los datos de registro de mi tienda",
-                "pt": "Alterar os dados cadastrais da minha loja"
-              },
-              "slug": {
-                "en": "changing-the-stores-registration-details",
-                "es": "modificar-los-datos-de-registro-de-la-tienda",
-                "pt": "alterar-os-dados-cadastrais-da-loja"
+                "pt": "visao-geral-informacoes-de-faturamento"
               },
               "origin": "",
               "type": "markdown",
@@ -20933,6 +20890,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Configuring stores",
+                "es": "Configurar tiendas",
+                "pt": "Configurar lojas"
+              },
+              "slug": {
+                "en": "cms-configuring-stores",
+                "es": "cms-configurar-tiendas",
+                "pt": "cms-configurar-lojas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -25885,6 +25857,21 @@
             },
             {
               "name": {
+                "en": "Checking Master Data usage in the VTEX Admin",
+                "es": "Consultar el uso de Master Data en el Admin VTEX",
+                "pt": "Consultar o uso do Master Data no Admin VTEX"
+              },
+              "slug": {
+                "en": "checking-master-data-usage-in-the-vtex-admin",
+                "es": "consultar-el-uso-de-master-data-en-el-admin-vtex",
+                "pt": "consultar-o-uso-do-master-data-no-admin-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "How to structure Master Data entities to store B2B sales data",
                 "es": "Cómo estructurar entidades del Master Data para guardar datos de ventas B2B",
                 "pt": "Como estruturar entidades do Master Data para armazenar dados de venda B2B"
@@ -26190,14 +26177,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Best practices when creating your Partner environment",
-                    "es": "Mejores prácticas para crear su ambiente Partner",
-                    "pt": "Melhores práticas para criar seu ambiente Partner"
+                    "en": "Creating a financial role",
+                    "es": "Crear un rol financiero",
+                    "pt": "Criar um perfil de acesso financeiro"
                   },
                   "slug": {
-                    "en": "best-practices-when-creating-your-partner-environment",
-                    "es": "mejores-practicas-para-crear-su-ambiente-partner",
-                    "pt": "melhores-praticas-na-hora-de-criar-seu-ambiente-partner"
+                    "en": "creating-a-financial-access-profile",
+                    "es": "crear-un-rol-financiero",
+                    "pt": "criar-um-perfil-de-acesso-financeiro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26205,29 +26192,14 @@
                 },
                 {
                   "name": {
-                    "en": "How do I change my CNPJ?",
-                    "es": "¿Cómo cambiar mi CNPJ?",
-                    "pt": "Como fazer a alteração do meu CNPJ?"
+                    "en": "Requesting a new environment",
+                    "es": "Contratar nuevo entorno",
+                    "pt": "Contratar novo ambiente"
                   },
                   "slug": {
-                    "en": "how-do-i-change-my-cnpj-new",
-                    "es": "como-cambiar-mi-cnpj-nuevo",
-                    "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How long does the platform take to identify my payment?",
-                    "es": "¿Cuánto tiempo tarda la plataforma para identificar mi pago?",
-                    "pt": "Quanto tempo a plataforma demora para identificar meu pagamento?"
-                  },
-                  "slug": {
-                    "en": "how-long-does-the-platform-take-to-identify-my-payment",
-                    "es": "cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago",
-                    "pt": "quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento"
+                    "en": "requesting-a-new-environment",
+                    "es": "contratar-nuevo-entorno",
+                    "pt": "contratar-novo-ambiente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35376,13 +35348,13 @@
             {
               "name": {
                 "en": "CMS for Store Framework",
-                "es": "CMS for Store Framework",
-                "pt": "CMS for Store Framework"
+                "es": "CMS para Store Framework",
+                "pt": "CMS para Store Framework"
               },
               "slug": {
                 "en": "cms-for-store-framework-subcategory",
-                "es": "cms-for-store-framework-subcategoria",
-                "pt": "cms-for-store-framework-subcategoria"
+                "es": "cms-para-store-framework-subcategoria",
+                "pt": "cms-para-store-framework-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35845,1051 +35817,1021 @@
             },
             {
               "name": {
-                "en": "Layout",
-                "es": "Layout",
-                "pt": "Layout"
+                "en": "CMS Portal (Legacy)",
+                "es": "CMS Portal (Legado)",
+                "pt": "CMS Portal (Legado)"
               },
               "slug": {
-                "en": "layout-subcategory",
-                "es": "layout-subcategoria",
-                "pt": "layout-subcategoria"
+                "en": "cms-portal-legacy-subcategory",
+                "es": "cms-portal-legado-subcategoria",
+                "pt": "cms-portal-legado-subcategoria"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "A/B Testing for stores on CMS Portal (Legacy)",
-                    "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
-                    "pt": "Teste A/B para lojas no CMS Portal (Legado)"
-                  },
-                  "slug": {
-                    "en": "ab-testing-how-where-when-and-why",
-                    "es": "prueba-ab-como-donde-cuando-y-por-que",
-                    "pt": "teste-ab-como-onde-quando-e-porque"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Activating the product zoom in the page template",
-                    "es": "Activar el zoom del producto en el template de página",
-                    "pt": "Ativar o zoom do produto no template de página"
-                  },
-                  "slug": {
-                    "en": "activating-the-product-zoom-in-the-page-template",
-                    "es": "activar-el-zoom-del-producto-en-el-template-de-pagina",
-                    "pt": "ativar-o-zoom-do-produto-no-template-de-pagina"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding collections CMS",
-                    "es": "Registrar una colección CMS",
-                    "pt": "Cadastro de Coleções CMS"
-                  },
-                  "slug": {
-                    "en": "adding-collections-cms",
-                    "es": "registrar-una-coleccion-cms",
-                    "pt": "cadastro-de-colecoes-cms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Associating a template with a layout",
-                    "es": "Asociar un template con un layout",
-                    "pt": "Associando um template a um layout"
-                  },
-                  "slug": {
-                    "en": "associating-a-template-with-a-layout",
-                    "es": "asociar-un-template-con-un-layout",
-                    "pt": "associando-um-template-a-um-layout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Breadcrumb control",
-                    "es": "Control de breadcrumb",
-                    "pt": "Controle de breadcrumb"
-                  },
-                  "slug": {
-                    "en": "breadcrumb-control",
-                    "es": "control-de-breadcrumb",
-                    "pt": "controle-de-breadcrumb"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Buy button control (BuyButton)",
-                    "es": "Control del botón de compra (BuyButton)",
-                    "pt": "Controle do botão de compra (BuyButton)"
-                  },
-                  "slug": {
-                    "en": "buy-button-control",
-                    "es": "control-del-boton-de-compra",
-                    "pt": "controle-do-botao-de-compra"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Change a placeholder title",
-                    "es": "Cambiar título de un placeholder",
-                    "pt": "Alterar título de um placeholder"
-                  },
-                  "slug": {
-                    "en": "change-a-placeholder-title",
-                    "es": "cambiar-titulo-de-un-placeholder",
-                    "pt": "alterar-titulo-de-um-placeholder"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Changing a banner",
-                    "es": "Modificar banner",
-                    "pt": "Alterar banner"
-                  },
-                  "slug": {
-                    "en": "how-to-alter-a-banner",
-                    "es": "como-modificar-banner",
-                    "pt": "como-alterar-banner"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Changing a page's body class",
-                    "es": "Cambiar la clase del body de una página",
-                    "pt": "Mudar classe do body de uma página"
-                  },
-                  "slug": {
-                    "en": "changing-a-pages-body-class",
-                    "es": "cambiar-la-clase-del-body-de-una-pagina",
-                    "pt": "mudar-classe-do-body-de-uma-pagina"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Changing the pages of the site to HTTPS protocol",
-                    "es": "Cambiar las páginas del sitio al protocolo HTTPS",
-                    "pt": "Alterar as páginas do site para o protocolo HTTPS"
-                  },
-                  "slug": {
-                    "en": "how-do-i-use-the-https-protocol-on-my-stores-pages",
-                    "es": "como-usar-el-protocolo-https-en-la-tienda",
-                    "pt": "como-ter-o-protocolo-https-nas-paginas-da-minha-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "CMS folder structure",
-                    "es": "Estructura de carpetas del CMS",
-                    "pt": "Estrutura de pastas do CMS"
-                  },
-                  "slug": {
-                    "en": "cms-folder-structure",
-                    "es": "estructura-de-carpetas-del-cms",
-                    "pt": "estrutura-de-pastas-do-cms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Collection highlight control",
-                    "es": "Control de destaque de colección",
-                    "pt": "Controle de destaque de coleção"
-                  },
-                  "slug": {
-                    "en": "collection-highlight-control",
-                    "es": "control-de-destaque-de-coleccion",
-                    "pt": "controle-de-destaque-de-colecao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring an XML domain",
-                    "es": "Configurar dominio del XML",
-                    "pt": "Configurar domínio do XML"
-                  },
-                  "slug": {
-                    "en": "configuring-an-xml-domain",
-                    "es": "configurar-dominio-del-xml",
-                    "pt": "configurar-dominio-do-xml"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring Favicon in your store",
-                    "es": "Configurar el favicono de tu tienda",
-                    "pt": "Configurar o favicon em sua loja"
-                  },
-                  "slug": {
-                    "en": "configuring-favicon-in-your-store",
-                    "es": "configurar-el-favicono-de-tu-tienda",
-                    "pt": "configurar-o-favicon-em-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Controls for displaying the brand name",
-                    "es": "Controles para mostrar el nombre de la marca",
-                    "pt": "Controles para exibir o nome da marca"
-                  },
-                  "slug": {
-                    "en": "controls-for-displaying-the-brand-name",
-                    "es": "controles-para-mostrar-el-nombre-de-la-marca",
-                    "pt": "controles-para-exibir-o-nome-da-marca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Copying a layout from one web site to another",
-                    "es": "Copiar el layout de un web site a otro",
-                    "pt": "Copiar layout de um web site para outro"
-                  },
-                  "slug": {
-                    "en": "copying-a-layout-from-one-web-site-to-another",
-                    "es": "copiar-el-layout-de-un-web-site-a-otro",
-                    "pt": "copiar-layout-de-um-web-site-para-outro"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a custom page in Legacy CMS stores",
-                    "es": "Cómo crear una página personalizada en tiendas CMS Legado",
-                    "pt": "Como criar uma página customizada em lojas CMS Legado"
-                  },
-                  "slug": {
-                    "en": "creating-a-custom-page-in-legacy-cms-stores",
-                    "es": "como-crear-una-pagina-personalizada-en-tiendas-cms-legado",
-                    "pt": "como-criar-uma-pagina-customizada-em-lojas-cms-legado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a development environment for mobile version",
-                    "es": "Crear ambiente de desarrollo de versión mobile",
-                    "pt": "Criar um ambiente de desenvolvimento de versão mobile"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-development-environment-with-a-mobile-version",
-                    "es": "como-crear-ambiente-de-desarrollo-de-version-mobile",
-                    "pt": "como-criar-ambiente-de-desenvolvimento-de-versao-mobile"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a shelf template",
-                    "es": "Crear un template de estante",
-                    "pt": "Criar um template de prateleira"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-shelf-template",
-                    "es": "como-crear-un-template-de-estante",
-                    "pt": "como-criar-um-template-de-prateleira"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a website",
-                    "es": "Crear un website",
-                    "pt": "Criando um website"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-web-site",
-                    "es": "como-crear-un-web-site",
-                    "pt": "como-criar-um-web-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating and editing a page template",
-                    "es": "Crear o editar un template de página",
-                    "pt": "Criar e editar um template de página"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-page-template",
-                    "es": "como-crear-un-template-de-pagina",
-                    "pt": "como-criar-um-template-de-pagina"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Customizing the Call center toolbar",
-                    "es": "Personalizar la toolbar de Televentas",
-                    "pt": "Customizar a toolbar de Televendas"
-                  },
-                  "slug": {
-                    "en": "customizar-a-toolbar-de-televendas",
-                    "es": "customizar-a-toolbar-de-televendas",
-                    "pt": "customizar-a-toolbar-de-televendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Defining Window Displays",
-                    "es": "Definición de Vitrinas",
-                    "pt": "Definição de Vitrines"
-                  },
-                  "slug": {
-                    "en": "defining-window-displays",
-                    "es": "definicion-de-vitrinas",
-                    "pt": "definicao-de-vitrines"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Deleting a folder from CMS",
-                    "es": "Borrar carpeta del CMS",
-                    "pt": "Apagar uma pasta do CMS"
-                  },
-                  "slug": {
-                    "en": "deleting-a-folder-from-cms",
-                    "es": "borrar-carpeta-del-cms",
-                    "pt": "apagar-uma-pasta-do-cms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Develop the front-end for the list feature in your store",
-                    "es": "Desarrollar el front-end para la feature de listas en su tienda",
-                    "pt": "Desenvolver o front-end para a feature de listas na sua loja"
-                  },
-                  "slug": {
-                    "en": "develop-the-front-end-for-the-list-feature-in-your-store",
-                    "es": "desarrollar-el-front-end-para-la-feature-de-listas-en-su-tienda",
-                    "pt": "desenvolver-o-front-end-para-a-feature-de-listas-na-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Filling out Collection fields",
-                    "es": "Rellenar campos de registro de Colección",
-                    "pt": "Preencher campos de cadastro de Coleção"
-                  },
-                  "slug": {
-                    "en": "filling-out-collection-registration-fields",
-                    "es": "rellenar-campos-de-registro-de-coleccion",
-                    "pt": "preencher-campos-de-cadastro-de-colecao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How do I know what page of the system is being rendered on the site?",
-                    "es": "¿Cómo saber qué página del sistema se está representando en el sitio?",
-                    "pt": "Como saber qual página do sistema está sendo renderizada no site?"
-                  },
-                  "slug": {
-                    "en": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site",
-                    "es": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site",
-                    "pt": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How does the Score field work?",
-                    "es": "¿Cómo funciona el campo Puntuación?",
-                    "pt": "Como funciona o campo Score?"
-                  },
-                  "slug": {
-                    "en": "how-does-the-score-field-work",
-                    "es": "como-funciona-el-campo-puntuacion",
-                    "pt": "como-funciona-o-campo-score"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How inventory availability works on the product page",
-                    "es": "Cómo funciona la disponibilidad de inventario en la página de producto",
-                    "pt": "Como funciona a disponibilidade de estoque na página de produto"
-                  },
-                  "slug": {
-                    "en": "how-inventory-availability-works-on-the-product-page",
-                    "es": "como-funciona-la-disponibilidad-de-inventario-en-la-pagina-de-producto",
-                    "pt": "como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How Search Navigator control works",
-                    "es": "Cómo funciona el control Search Navigator",
-                    "pt": "Como funciona o controle Search Navigator"
-                  },
-                  "slug": {
-                    "en": "search-navigator-control",
-                    "es": "control-search-navigator",
-                    "pt": "controle-search-navigator"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the relationship between websites and sales policies works",
-                    "es": "Cómo funciona la relación entre websites y políticas comerciales",
-                    "pt": "Como funciona a relação entre websites e políticas comerciais"
-                  },
-                  "slug": {
-                    "en": "how-the-relationship-between-websites-and-business-policies-works",
-                    "es": "como-funciona-la-relacion-entre-sitios-web-y-politicas-comerciales",
-                    "pt": "como-funciona-a-relacao-entre-websites-e-politicas-comerciais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create landing pages with custom URLs",
-                    "es": "Cómo crear landing pages con URLs personalizadas",
-                    "pt": "Como criar landing pages com URLs customizadas"
-                  },
-                  "slug": {
-                    "en": "how-to-create-landing-pages-with-customized-urls",
-                    "es": "como-crear-landing-pages-con-urls-personalizadas",
-                    "pt": "como-criar-landing-pages-com-urls-customizadas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to customize a page using placeholders",
-                    "es": "Personalizar una página usando placeholder",
-                    "pt": "Personalizar uma página usando placeholder"
-                  },
-                  "slug": {
-                    "en": "how-to-customize-a-page-using-placeholders",
-                    "es": "como-personalizar-una-pagina-usando-placeholder",
-                    "pt": "como-personalizar-uma-pagina-usando-placeholder"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to delete a collection",
-                    "es": "Cómo eliminar una colección",
-                    "pt": "Como deletar coleção"
-                  },
-                  "slug": {
-                    "en": "how-to-delete-a-collection",
-                    "es": "como-eliminar-una-coleccion",
-                    "pt": "como-deletar-colecao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to delete a website",
-                    "es": "Cómo borrar un website",
-                    "pt": "Como deletar um website"
-                  },
-                  "slug": {
-                    "en": "how-to-delete-a-website",
-                    "es": "como-borrar-un-website",
-                    "pt": "como-deletar-um-website"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to identify a page template",
-                    "es": "Identificar el template de una página",
-                    "pt": "Identificar o template de uma página"
-                  },
-                  "slug": {
-                    "en": "how-to-identify-a-page-template",
-                    "es": "como-identificar-el-template-de-una-pagina",
-                    "pt": "como-identificar-o-template-de-uma-pagina"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to know which JavaScript file is being applied to a page?",
-                    "es": "¿Cómo identificar cual archivo JavaScript está aplicado en una página?",
-                    "pt": "Como identificar qual arquivo JavaScript está sendo aplicado em uma página?"
-                  },
-                  "slug": {
-                    "en": "how-to-know-which-javascript-file-is-being-applied-to-a-page",
-                    "es": "como-identificar-cual-archivo-javascript-esta-aplicado-en-una-pagina",
-                    "pt": "como-identificar-qual-arquivo-javascript-esta-sendo-aplicado-em-uma-pagina"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to test for layout problems",
-                    "es": "Realizar una prueba para verificar problemas de layout",
-                    "pt": "Realizar um teste para verificar problemas de layout"
-                  },
-                  "slug": {
-                    "en": "how-to-test-for-layout-problems",
-                    "es": "como-realizar-um-teste-para-verificar-problemas-de-layout",
-                    "pt": "como-realizar-um-teste-para-verificar-problemas-de-layout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to turn my store's website into a PWA",
-                    "es": "Cómo transformar el sitio de mi tienda en un PWA",
-                    "pt": "Como transformar o site da minha loja em um PWA"
-                  },
-                  "slug": {
-                    "en": "how-to-turn-my-store-website-into-a-pwa",
-                    "es": "como-transformar-el-sitio-de-mi-tienda-en-un-pwa",
-                    "pt": "como-transformar-o-site-da-minha-loja-em-um-pwa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use Subtemplates",
-                    "es": "Cómo utilizar Subtemplates",
-                    "pt": "Como utilizar Subtemplates"
-                  },
-                  "slug": {
-                    "en": "subtemplates",
-                    "es": "subtemplates",
-                    "pt": "subtemplates"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use the meta tags control",
-                    "es": "Cómo utilizar el control de meta tags",
-                    "pt": "Como usar o controle de meta tags"
-                  },
-                  "slug": {
-                    "en": "how-to-use-the-meta-tags-control",
-                    "es": "como-utilizar-el-control-de-meta-tags",
-                    "pt": "como-usar-o-controle-de-meta-tags"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use the Search Result control",
-                    "es": "Como usar el control Search Result",
-                    "pt": "Como usar o controle Search Result"
-                  },
-                  "slug": {
-                    "en": "how-to-use-the-search-result-control",
-                    "es": "como-usar-el-control-search-result",
-                    "pt": "como-usar-o-controle-search-result"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use the unavailable product class from the SKU selection control",
-                    "es": "Cómo utilizar la clase de producto no disponible del control de selección de SKU",
-                    "pt": "Como usar a classe de produto indisponível do controle de seleção de SKUs"
-                  },
-                  "slug": {
-                    "en": "how-to-use-the-unavailable-product-class",
-                    "es": "como-utilizar-la-clase-de-producto-no-disponible",
-                    "pt": "como-usar-a-classe-de-produto-indisponivel"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to work with different layouts for the same page",
-                    "es": "Cómo trabajar con diferentes layouts para una misma página",
-                    "pt": "Como trabalhar com diferentes layouts para uma mesma página"
-                  },
-                  "slug": {
-                    "en": "how-to-work-with-different-layouts-for-the-same-page",
-                    "es": "como-trabajar-con-diferentes-layouts-para-una-misma-pagina",
-                    "pt": "como-trabalhar-com-diferentes-layouts-para-uma-mesma-pagina"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Identifying layout errors caused by JavaScript files",
-                    "es": "Identificar errores de layout causados por archivos JavaScript",
-                    "pt": "Identificar erros de layout ocasionados por arquivos JavaScript"
-                  },
-                  "slug": {
-                    "en": "how-to-identify-layout-errors-caused-by-javascript-files",
-                    "es": "como-identificar-errores-de-layout-causados-por-archivos-javascript",
-                    "pt": "como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Image compression",
-                    "es": "Compresión de imágenes",
-                    "pt": "Compactação de imagens"
-                  },
-                  "slug": {
-                    "en": "image-compression",
-                    "es": "compresion-de-imagenes",
-                    "pt": "compactacao-de-imagens"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Including a collection of products in the shop window",
-                    "es": "Incluir una colección de productos en la vitrina de la tienda",
-                    "pt": "Incluir uma coleção de produtos na vitrine da loja"
-                  },
-                  "slug": {
-                    "en": "how-to-include-a-collection-of-products-in-the-shop-window",
-                    "es": "como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda",
-                    "pt": "como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Layout Overview",
-                    "es": "Visión de conjunto de Layout",
-                    "pt": "Layout - Visão geral"
-                  },
-                  "slug": {
-                    "en": "what-is-cms-layout",
-                    "es": "que-es-el-cms-layout",
-                    "pt": "o-que-e-o-cms-layout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Linking a store to a folder structure in CMS (binding)",
-                    "es": "Vincular una tienda a una estructura de carpetas en CMS (binding)",
-                    "pt": "Vincular uma loja a uma estrutura de pastas do CMS (binding)"
-                  },
-                  "slug": {
-                    "en": "linking-an-account-name-to-a-website-binding",
-                    "es": "vincular-un-account-name-a-un-website-binding",
-                    "pt": "vincular-um-account-name-a-um-website-binding"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Making product colletions searchable",
-                    "es": "Hacer que la colección de productos pueda buscarse",
-                    "pt": "Tornar coleção de produtos encontrável pela busca"
-                  },
-                  "slug": {
-                    "en": "making-product-collections-searchable",
-                    "es": "hacer-que-la-coleccion-de-productos-pueda-buscarse",
-                    "pt": "tornar-colecao-de-produtos-encontravel-pela-busca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing placeholders",
-                    "es": "Gestión de  placeholders",
-                    "pt": "Gerenciando placeholders"
-                  },
-                  "slug": {
-                    "en": "managing-placeholders",
-                    "es": "gestion-de-placeholders",
-                    "pt": "gerenciandoplaceholders"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Ordering images on the shop window display and on the product page",
-                    "es": "Ordenar imágenes en la vitrina y en la página de producto",
-                    "pt": "Ordenar imagens na vitrine e na página de produto"
-                  },
-                  "slug": {
-                    "en": "ordering-images-on-the-shop-window-display-and-on-the-product-page",
-                    "es": "ordenando-imagens-na-vitrine-e-na-pagina-de-produto",
-                    "pt": "ordenando-imagens-na-vitrine-e-na-pagina-de-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Responsive vs. Mobile Version",
-                    "es": "Responsivo × Versión Mobile",
-                    "pt": "Responsivo × Versão Mobile"
-                  },
-                  "slug": {
-                    "en": "responsive-vs-mobile-version",
-                    "es": "responsivo-x-version-mobile",
-                    "pt": "responsivo-x-versao-mobile"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up marketplace for multistores",
-                    "es": "Configurar marketplace para tiendas múltiples",
-                    "pt": "Configurar marketplace para multiloja"
-                  },
-                  "slug": {
-                    "en": "how-to-set-up-the-marketplace-for-multistores",
-                    "es": "como-configuro-bridge-para-tiendas-multiples",
-                    "pt": "como-configurar-bridge-para-multiloja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "URL Mapping (301 Redirect)",
-                    "es": "Mapeo de URL (redirección 301)",
-                    "pt": "Mapeamento de URLs (Redirecionamento 301)"
-                  },
-                  "slug": {
-                    "en": "url-mapping-301-redirect",
-                    "es": "mapeo-de-url-redireccion-301",
-                    "pt": "mapeamento-de-urls-redirecionamento-301"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "View the contents of the store's CSS files",
-                    "es": "Ver el contenido de los archivos CSS de la tienda",
-                    "pt": "Ver o conteúdo dos arquivos CSS da loja"
-                  },
-                  "slug": {
-                    "en": "view-the-contents-of-the-stores-css-files",
-                    "es": "ver-el-contenido-de-los-archivos-css-de-la-tienda",
-                    "pt": "ver-o-conteudo-dos-arquivos-css-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Welcome message control",
-                    "es": "Control de mensaje de bienvenida",
-                    "pt": "Controle de mensagem de boas vindas"
-                  },
-                  "slug": {
-                    "en": "welcome-message-control",
-                    "es": "control-de-mensaje-de-bienvenida",
-                    "pt": "controle-de-mensagem-de-boas-vindas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are controls?",
-                    "es": "¿Qué son controles?",
-                    "pt": "O que são controles?"
-                  },
-                  "slug": {
-                    "en": "what-are-controls",
-                    "es": "que-son-controles",
-                    "pt": "o-que-sao-controles"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are layouts?",
-                    "es": "Qué son layouts?",
-                    "pt": "O que são layouts?"
-                  },
-                  "slug": {
-                    "en": "what-are-layouts",
-                    "es": "que-son-layouts",
-                    "pt": "o-que-sao-layouts"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are placeholders?",
-                    "es": "Qué son placeholders?",
-                    "pt": "O que são placeholders?"
-                  },
-                  "slug": {
-                    "en": "what-are-placeholders",
-                    "es": "que-son-placeholders",
-                    "pt": "o-que-sao-placeholders"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are shelves?",
-                    "es": "¿Qué son estantes?",
-                    "pt": "O que são prateleiras?"
-                  },
-                  "slug": {
-                    "en": "what-are-shelves",
-                    "es": "que-son-estantes",
-                    "pt": "o-que-sao-prateleiras"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What are templates?",
-                    "es": "¿Qué son templates?",
-                    "pt": "O que são templates?"
-                  },
-                  "slug": {
-                    "en": "what-are-templates",
-                    "es": "que-son-templates",
-                    "pt": "o-que-sao-templates"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a web site?",
-                    "es": "¿Qué es un web site?",
-                    "pt": "O que é um web site?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-web-site",
-                    "es": "que-es-un-web-site",
-                    "pt": "o-que-e-um-web-site"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is binding?",
-                    "es": "Qué es binding?",
-                    "pt": "O que é binding?"
-                  },
-                  "slug": {
-                    "en": "what-is-binding",
-                    "es": "que-es-binding",
-                    "pt": "o-que-e-binding"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the purpose of the Customized Control?",
-                    "es": "¿Para qué sirve el Control Personalizado?",
-                    "pt": "Para que serve o Controle Customizado?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-purpose-of-the-customized-control",
-                    "es": "para-que-serve-o-controle-customizado",
-                    "pt": "para-que-serve-o-controle-customizado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
+                    "en": "Layout",
+                    "es": "Layout",
+                    "pt": "Layout"
+                  },
+                  "slug": {
+                    "en": "layout-subcategory",
+                    "es": "layout-subcategoria",
+                    "pt": "layout-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "A/B Testing for stores on CMS Portal (Legacy)",
+                        "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
+                        "pt": "Teste A/B para lojas no CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "ab-testing-how-where-when-and-why",
+                        "es": "prueba-ab-como-donde-cuando-y-por-que",
+                        "pt": "teste-ab-como-onde-quando-e-porque"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Activating the product zoom in the page template",
+                        "es": "Activar el zoom del producto en el template de página",
+                        "pt": "Ativar o zoom do produto no template de página"
+                      },
+                      "slug": {
+                        "en": "activating-the-product-zoom-in-the-page-template",
+                        "es": "activar-el-zoom-del-producto-en-el-template-de-pagina",
+                        "pt": "ativar-o-zoom-do-produto-no-template-de-pagina"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Adding collections CMS",
+                        "es": "Registrar una colección CMS",
+                        "pt": "Cadastro de Coleções CMS"
+                      },
+                      "slug": {
+                        "en": "adding-collections-cms",
+                        "es": "registrar-una-coleccion-cms",
+                        "pt": "cadastro-de-colecoes-cms"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Associating a template with a layout",
+                        "es": "Asociar un template con un layout",
+                        "pt": "Associando um template a um layout"
+                      },
+                      "slug": {
+                        "en": "associating-a-template-with-a-layout",
+                        "es": "asociar-un-template-con-un-layout",
+                        "pt": "associando-um-template-a-um-layout"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Breadcrumb control",
+                        "es": "Control de breadcrumb",
+                        "pt": "Controle de breadcrumb"
+                      },
+                      "slug": {
+                        "en": "breadcrumb-control",
+                        "es": "control-de-breadcrumb",
+                        "pt": "controle-de-breadcrumb"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Buy button control (BuyButton)",
+                        "es": "Control del botón de compra (BuyButton)",
+                        "pt": "Controle do botão de compra (BuyButton)"
+                      },
+                      "slug": {
+                        "en": "buy-button-control",
+                        "es": "control-del-boton-de-compra",
+                        "pt": "controle-do-botao-de-compra"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Change a placeholder title",
+                        "es": "Cambiar título de un placeholder",
+                        "pt": "Alterar título de um placeholder"
+                      },
+                      "slug": {
+                        "en": "change-a-placeholder-title",
+                        "es": "cambiar-titulo-de-un-placeholder",
+                        "pt": "alterar-titulo-de-um-placeholder"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Changing a banner",
+                        "es": "Modificar banner",
+                        "pt": "Alterar banner"
+                      },
+                      "slug": {
+                        "en": "how-to-alter-a-banner",
+                        "es": "como-modificar-banner",
+                        "pt": "como-alterar-banner"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Changing a page's body class",
+                        "es": "Cambiar la clase del body de una página",
+                        "pt": "Mudar classe do body de uma página"
+                      },
+                      "slug": {
+                        "en": "changing-a-pages-body-class",
+                        "es": "cambiar-la-clase-del-body-de-una-pagina",
+                        "pt": "mudar-classe-do-body-de-uma-pagina"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Changing the pages of the site to HTTPS protocol",
+                        "es": "Cambiar las páginas del sitio al protocolo HTTPS",
+                        "pt": "Alterar as páginas do site para o protocolo HTTPS"
+                      },
+                      "slug": {
+                        "en": "how-do-i-use-the-https-protocol-on-my-stores-pages",
+                        "es": "como-usar-el-protocolo-https-en-la-tienda",
+                        "pt": "como-ter-o-protocolo-https-nas-paginas-da-minha-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "CMS folder structure",
+                        "es": "Estructura de carpetas del CMS",
+                        "pt": "Estrutura de pastas do CMS"
+                      },
+                      "slug": {
+                        "en": "cms-folder-structure",
+                        "es": "estructura-de-carpetas-del-cms",
+                        "pt": "estrutura-de-pastas-do-cms"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Collection highlight control",
+                        "es": "Control de destaque de colección",
+                        "pt": "Controle de destaque de coleção"
+                      },
+                      "slug": {
+                        "en": "collection-highlight-control",
+                        "es": "control-de-destaque-de-coleccion",
+                        "pt": "controle-de-destaque-de-colecao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring an XML domain",
+                        "es": "Configurar dominio del XML",
+                        "pt": "Configurar domínio do XML"
+                      },
+                      "slug": {
+                        "en": "configuring-an-xml-domain",
+                        "es": "configurar-dominio-del-xml",
+                        "pt": "configurar-dominio-do-xml"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring Favicon in your store",
+                        "es": "Configurar el favicono de tu tienda",
+                        "pt": "Configurar o favicon em sua loja"
+                      },
+                      "slug": {
+                        "en": "configuring-favicon-in-your-store",
+                        "es": "configurar-el-favicono-de-tu-tienda",
+                        "pt": "configurar-o-favicon-em-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Controls for displaying the brand name",
+                        "es": "Controles para mostrar el nombre de la marca",
+                        "pt": "Controles para exibir o nome da marca"
+                      },
+                      "slug": {
+                        "en": "controls-for-displaying-the-brand-name",
+                        "es": "controles-para-mostrar-el-nombre-de-la-marca",
+                        "pt": "controles-para-exibir-o-nome-da-marca"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Copying a layout from one web site to another",
+                        "es": "Copiar el layout de un web site a otro",
+                        "pt": "Copiar layout de um web site para outro"
+                      },
+                      "slug": {
+                        "en": "copying-a-layout-from-one-web-site-to-another",
+                        "es": "copiar-el-layout-de-un-web-site-a-otro",
+                        "pt": "copiar-layout-de-um-web-site-para-outro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a custom page in Legacy CMS stores",
+                        "es": "Cómo crear una página personalizada en tiendas CMS Legado",
+                        "pt": "Como criar uma página customizada em lojas CMS Legado"
+                      },
+                      "slug": {
+                        "en": "creating-a-custom-page-in-legacy-cms-stores",
+                        "es": "como-crear-una-pagina-personalizada-en-tiendas-cms-legado",
+                        "pt": "como-criar-uma-pagina-customizada-em-lojas-cms-legado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a development environment for mobile version",
+                        "es": "Crear ambiente de desarrollo de versión mobile",
+                        "pt": "Criar um ambiente de desenvolvimento de versão mobile"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-development-environment-with-a-mobile-version",
+                        "es": "como-crear-ambiente-de-desarrollo-de-version-mobile",
+                        "pt": "como-criar-ambiente-de-desenvolvimento-de-versao-mobile"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a shelf template",
+                        "es": "Crear un template de estante",
+                        "pt": "Criar um template de prateleira"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-shelf-template",
+                        "es": "como-crear-un-template-de-estante",
+                        "pt": "como-criar-um-template-de-prateleira"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a website",
+                        "es": "Crear un website",
+                        "pt": "Criando um website"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-web-site",
+                        "es": "como-crear-un-web-site",
+                        "pt": "como-criar-um-web-site"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating and editing a page template",
+                        "es": "Crear o editar un template de página",
+                        "pt": "Criar e editar um template de página"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-page-template",
+                        "es": "como-crear-un-template-de-pagina",
+                        "pt": "como-criar-um-template-de-pagina"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Customizing the Call center toolbar",
+                        "es": "Personalizar la toolbar de Televentas",
+                        "pt": "Customizar a toolbar de Televendas"
+                      },
+                      "slug": {
+                        "en": "customizar-a-toolbar-de-televendas",
+                        "es": "customizar-a-toolbar-de-televendas",
+                        "pt": "customizar-a-toolbar-de-televendas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Defining Window Displays",
+                        "es": "Definición de Vitrinas",
+                        "pt": "Definição de Vitrines"
+                      },
+                      "slug": {
+                        "en": "defining-window-displays",
+                        "es": "definicion-de-vitrinas",
+                        "pt": "definicao-de-vitrines"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Deleting a folder from CMS",
+                        "es": "Borrar carpeta del CMS",
+                        "pt": "Apagar uma pasta do CMS"
+                      },
+                      "slug": {
+                        "en": "deleting-a-folder-from-cms",
+                        "es": "borrar-carpeta-del-cms",
+                        "pt": "apagar-uma-pasta-do-cms"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Develop the front-end for the list feature in your store",
+                        "es": "Desarrollar el front-end para la feature de listas en su tienda",
+                        "pt": "Desenvolver o front-end para a feature de listas na sua loja"
+                      },
+                      "slug": {
+                        "en": "develop-the-front-end-for-the-list-feature-in-your-store",
+                        "es": "desarrollar-el-front-end-para-la-feature-de-listas-en-su-tienda",
+                        "pt": "desenvolver-o-front-end-para-a-feature-de-listas-na-sua-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Filling out Collection fields",
+                        "es": "Rellenar campos de registro de Colección",
+                        "pt": "Preencher campos de cadastro de Coleção"
+                      },
+                      "slug": {
+                        "en": "filling-out-collection-registration-fields",
+                        "es": "rellenar-campos-de-registro-de-coleccion",
+                        "pt": "preencher-campos-de-cadastro-de-colecao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How do I know what page of the system is being rendered on the site?",
+                        "es": "¿Cómo saber qué página del sistema se está representando en el sitio?",
+                        "pt": "Como saber qual página do sistema está sendo renderizada no site?"
+                      },
+                      "slug": {
+                        "en": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site",
+                        "es": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site",
+                        "pt": "como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How does the Score field work?",
+                        "es": "¿Cómo funciona el campo Puntuación?",
+                        "pt": "Como funciona o campo Score?"
+                      },
+                      "slug": {
+                        "en": "how-does-the-score-field-work",
+                        "es": "como-funciona-el-campo-puntuacion",
+                        "pt": "como-funciona-o-campo-score"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How inventory availability works on the product page",
+                        "es": "Cómo funciona la disponibilidad de inventario en la página de producto",
+                        "pt": "Como funciona a disponibilidade de estoque na página de produto"
+                      },
+                      "slug": {
+                        "en": "how-inventory-availability-works-on-the-product-page",
+                        "es": "como-funciona-la-disponibilidad-de-inventario-en-la-pagina-de-producto",
+                        "pt": "como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How Search Navigator control works",
+                        "es": "Cómo funciona el control Search Navigator",
+                        "pt": "Como funciona o controle Search Navigator"
+                      },
+                      "slug": {
+                        "en": "search-navigator-control",
+                        "es": "control-search-navigator",
+                        "pt": "controle-search-navigator"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How the relationship between websites and sales policies works",
+                        "es": "Cómo funciona la relación entre websites y políticas comerciales",
+                        "pt": "Como funciona a relação entre websites e políticas comerciais"
+                      },
+                      "slug": {
+                        "en": "how-the-relationship-between-websites-and-business-policies-works",
+                        "es": "como-funciona-la-relacion-entre-sitios-web-y-politicas-comerciales",
+                        "pt": "como-funciona-a-relacao-entre-websites-e-politicas-comerciais"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to create landing pages with custom URLs",
+                        "es": "Cómo crear landing pages con URLs personalizadas",
+                        "pt": "Como criar landing pages com URLs customizadas"
+                      },
+                      "slug": {
+                        "en": "how-to-create-landing-pages-with-customized-urls",
+                        "es": "como-crear-landing-pages-con-urls-personalizadas",
+                        "pt": "como-criar-landing-pages-com-urls-customizadas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to customize a page using placeholders",
+                        "es": "Personalizar una página usando placeholder",
+                        "pt": "Personalizar uma página usando placeholder"
+                      },
+                      "slug": {
+                        "en": "how-to-customize-a-page-using-placeholders",
+                        "es": "como-personalizar-una-pagina-usando-placeholder",
+                        "pt": "como-personalizar-uma-pagina-usando-placeholder"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to delete a collection",
+                        "es": "Cómo eliminar una colección",
+                        "pt": "Como deletar coleção"
+                      },
+                      "slug": {
+                        "en": "how-to-delete-a-collection",
+                        "es": "como-eliminar-una-coleccion",
+                        "pt": "como-deletar-colecao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to delete a website",
+                        "es": "Cómo borrar un website",
+                        "pt": "Como deletar um website"
+                      },
+                      "slug": {
+                        "en": "how-to-delete-a-website",
+                        "es": "como-borrar-un-website",
+                        "pt": "como-deletar-um-website"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to identify a page template",
+                        "es": "Identificar el template de una página",
+                        "pt": "Identificar o template de uma página"
+                      },
+                      "slug": {
+                        "en": "how-to-identify-a-page-template",
+                        "es": "como-identificar-el-template-de-una-pagina",
+                        "pt": "como-identificar-o-template-de-uma-pagina"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to know which JavaScript file is being applied to a page?",
+                        "es": "¿Cómo identificar cual archivo JavaScript está aplicado en una página?",
+                        "pt": "Como identificar qual arquivo JavaScript está sendo aplicado em uma página?"
+                      },
+                      "slug": {
+                        "en": "how-to-know-which-javascript-file-is-being-applied-to-a-page",
+                        "es": "como-identificar-cual-archivo-javascript-esta-aplicado-en-una-pagina",
+                        "pt": "como-identificar-qual-arquivo-javascript-esta-sendo-aplicado-em-uma-pagina"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to test for layout problems",
+                        "es": "Realizar una prueba para verificar problemas de layout",
+                        "pt": "Realizar um teste para verificar problemas de layout"
+                      },
+                      "slug": {
+                        "en": "how-to-test-for-layout-problems",
+                        "es": "como-realizar-um-teste-para-verificar-problemas-de-layout",
+                        "pt": "como-realizar-um-teste-para-verificar-problemas-de-layout"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to turn my store's website into a PWA",
+                        "es": "Cómo transformar el sitio de mi tienda en un PWA",
+                        "pt": "Como transformar o site da minha loja em um PWA"
+                      },
+                      "slug": {
+                        "en": "how-to-turn-my-store-website-into-a-pwa",
+                        "es": "como-transformar-el-sitio-de-mi-tienda-en-un-pwa",
+                        "pt": "como-transformar-o-site-da-minha-loja-em-um-pwa"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to use Subtemplates",
+                        "es": "Cómo utilizar Subtemplates",
+                        "pt": "Como utilizar Subtemplates"
+                      },
+                      "slug": {
+                        "en": "subtemplates",
+                        "es": "subtemplates",
+                        "pt": "subtemplates"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to use the meta tags control",
+                        "es": "Cómo utilizar el control de meta tags",
+                        "pt": "Como usar o controle de meta tags"
+                      },
+                      "slug": {
+                        "en": "how-to-use-the-meta-tags-control",
+                        "es": "como-utilizar-el-control-de-meta-tags",
+                        "pt": "como-usar-o-controle-de-meta-tags"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to use the Search Result control",
+                        "es": "Como usar el control Search Result",
+                        "pt": "Como usar o controle Search Result"
+                      },
+                      "slug": {
+                        "en": "how-to-use-the-search-result-control",
+                        "es": "como-usar-el-control-search-result",
+                        "pt": "como-usar-o-controle-search-result"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to use the unavailable product class from the SKU selection control",
+                        "es": "Cómo utilizar la clase de producto no disponible del control de selección de SKU",
+                        "pt": "Como usar a classe de produto indisponível do controle de seleção de SKUs"
+                      },
+                      "slug": {
+                        "en": "how-to-use-the-unavailable-product-class",
+                        "es": "como-utilizar-la-clase-de-producto-no-disponible",
+                        "pt": "como-usar-a-classe-de-produto-indisponivel"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to work with different layouts for the same page",
+                        "es": "Cómo trabajar con diferentes layouts para una misma página",
+                        "pt": "Como trabalhar com diferentes layouts para uma mesma página"
+                      },
+                      "slug": {
+                        "en": "how-to-work-with-different-layouts-for-the-same-page",
+                        "es": "como-trabajar-con-diferentes-layouts-para-una-misma-pagina",
+                        "pt": "como-trabalhar-com-diferentes-layouts-para-uma-mesma-pagina"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Identifying layout errors caused by JavaScript files",
+                        "es": "Identificar errores de layout causados por archivos JavaScript",
+                        "pt": "Identificar erros de layout ocasionados por arquivos JavaScript"
+                      },
+                      "slug": {
+                        "en": "how-to-identify-layout-errors-caused-by-javascript-files",
+                        "es": "como-identificar-errores-de-layout-causados-por-archivos-javascript",
+                        "pt": "como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Image compression",
+                        "es": "Compresión de imágenes",
+                        "pt": "Compactação de imagens"
+                      },
+                      "slug": {
+                        "en": "image-compression",
+                        "es": "compresion-de-imagenes",
+                        "pt": "compactacao-de-imagens"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Including a collection of products in the shop window",
+                        "es": "Incluir una colección de productos en la vitrina de la tienda",
+                        "pt": "Incluir uma coleção de produtos na vitrine da loja"
+                      },
+                      "slug": {
+                        "en": "how-to-include-a-collection-of-products-in-the-shop-window",
+                        "es": "como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda",
+                        "pt": "como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Layout Overview",
+                        "es": "Visión de conjunto de Layout",
+                        "pt": "Layout - Visão geral"
+                      },
+                      "slug": {
+                        "en": "what-is-cms-layout",
+                        "es": "que-es-el-cms-layout",
+                        "pt": "o-que-e-o-cms-layout"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Linking a store to a folder structure in CMS (binding)",
+                        "es": "Vincular una tienda a una estructura de carpetas en CMS (binding)",
+                        "pt": "Vincular uma loja a uma estrutura de pastas do CMS (binding)"
+                      },
+                      "slug": {
+                        "en": "linking-an-account-name-to-a-website-binding",
+                        "es": "vincular-un-account-name-a-un-website-binding",
+                        "pt": "vincular-um-account-name-a-um-website-binding"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Making product colletions searchable",
+                        "es": "Hacer que la colección de productos pueda buscarse",
+                        "pt": "Tornar coleção de produtos encontrável pela busca"
+                      },
+                      "slug": {
+                        "en": "making-product-collections-searchable",
+                        "es": "hacer-que-la-coleccion-de-productos-pueda-buscarse",
+                        "pt": "tornar-colecao-de-produtos-encontravel-pela-busca"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Managing placeholders",
+                        "es": "Gestión de  placeholders",
+                        "pt": "Gerenciando placeholders"
+                      },
+                      "slug": {
+                        "en": "managing-placeholders",
+                        "es": "gestion-de-placeholders",
+                        "pt": "gerenciandoplaceholders"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Ordering images on the shop window display and on the product page",
+                        "es": "Ordenar imágenes en la vitrina y en la página de producto",
+                        "pt": "Ordenar imagens na vitrine e na página de produto"
+                      },
+                      "slug": {
+                        "en": "ordering-images-on-the-shop-window-display-and-on-the-product-page",
+                        "es": "ordenando-imagens-na-vitrine-e-na-pagina-de-produto",
+                        "pt": "ordenando-imagens-na-vitrine-e-na-pagina-de-produto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Responsive vs. Mobile Version",
+                        "es": "Responsivo × Versión Mobile",
+                        "pt": "Responsivo × Versão Mobile"
+                      },
+                      "slug": {
+                        "en": "responsive-vs-mobile-version",
+                        "es": "responsivo-x-version-mobile",
+                        "pt": "responsivo-x-versao-mobile"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up marketplace for multistores",
+                        "es": "Configurar marketplace para tiendas múltiples",
+                        "pt": "Configurar marketplace para multiloja"
+                      },
+                      "slug": {
+                        "en": "how-to-set-up-the-marketplace-for-multistores",
+                        "es": "como-configuro-bridge-para-tiendas-multiples",
+                        "pt": "como-configurar-bridge-para-multiloja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "URL Mapping (301 Redirect)",
+                        "es": "Mapeo de URL (redirección 301)",
+                        "pt": "Mapeamento de URLs (Redirecionamento 301)"
+                      },
+                      "slug": {
+                        "en": "url-mapping-301-redirect",
+                        "es": "mapeo-de-url-redireccion-301",
+                        "pt": "mapeamento-de-urls-redirecionamento-301"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "View the contents of the store's CSS files",
+                        "es": "Ver el contenido de los archivos CSS de la tienda",
+                        "pt": "Ver o conteúdo dos arquivos CSS da loja"
+                      },
+                      "slug": {
+                        "en": "view-the-contents-of-the-stores-css-files",
+                        "es": "ver-el-contenido-de-los-archivos-css-de-la-tienda",
+                        "pt": "ver-o-conteudo-dos-arquivos-css-da-loja"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Welcome message control",
+                        "es": "Control de mensaje de bienvenida",
+                        "pt": "Controle de mensagem de boas vindas"
+                      },
+                      "slug": {
+                        "en": "welcome-message-control",
+                        "es": "control-de-mensaje-de-bienvenida",
+                        "pt": "controle-de-mensagem-de-boas-vindas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are controls?",
+                        "es": "¿Qué son controles?",
+                        "pt": "O que são controles?"
+                      },
+                      "slug": {
+                        "en": "what-are-controls",
+                        "es": "que-son-controles",
+                        "pt": "o-que-sao-controles"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are layouts?",
+                        "es": "Qué son layouts?",
+                        "pt": "O que são layouts?"
+                      },
+                      "slug": {
+                        "en": "what-are-layouts",
+                        "es": "que-son-layouts",
+                        "pt": "o-que-sao-layouts"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are placeholders?",
+                        "es": "Qué son placeholders?",
+                        "pt": "O que são placeholders?"
+                      },
+                      "slug": {
+                        "en": "what-are-placeholders",
+                        "es": "que-son-placeholders",
+                        "pt": "o-que-sao-placeholders"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are shelves?",
+                        "es": "¿Qué son estantes?",
+                        "pt": "O que são prateleiras?"
+                      },
+                      "slug": {
+                        "en": "what-are-shelves",
+                        "es": "que-son-estantes",
+                        "pt": "o-que-sao-prateleiras"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What are templates?",
+                        "es": "¿Qué son templates?",
+                        "pt": "O que são templates?"
+                      },
+                      "slug": {
+                        "en": "what-are-templates",
+                        "es": "que-son-templates",
+                        "pt": "o-que-sao-templates"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What is a web site?",
+                        "es": "¿Qué es un web site?",
+                        "pt": "O que é um web site?"
+                      },
+                      "slug": {
+                        "en": "what-is-a-web-site",
+                        "es": "que-es-un-web-site",
+                        "pt": "o-que-e-um-web-site"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What is binding?",
+                        "es": "Qué es binding?",
+                        "pt": "O que é binding?"
+                      },
+                      "slug": {
+                        "en": "what-is-binding",
+                        "es": "que-es-binding",
+                        "pt": "o-que-e-binding"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "What is the purpose of the Customized Control?",
+                        "es": "¿Para qué sirve el Control Personalizado?",
+                        "pt": "Para que serve o Controle Customizado?"
+                      },
+                      "slug": {
+                        "en": "what-is-the-purpose-of-the-customized-control",
+                        "es": "para-que-serve-o-controle-customizado",
+                        "pt": "para-que-serve-o-controle-customizado"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 }
               ]
             },
             {
               "name": {
-                "en": "Agentic CX",
-                "es": "Agentic CX",
-                "pt": "Agentic CX"
+                "en": "Headless CMS (Legacy)",
+                "es": "Headless CMS (Legacy)",
+                "pt": "Headless CMS (Legacy)"
               },
               "slug": {
-                "en": "agentic-cx-subcategory",
-                "es": "agentic-cx-subcategoria",
-                "pt": "agentic-cx-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating CX automations",
-                    "es": "Crear automatizaciones de CX",
-                    "pt": "Criar automações do CX"
-                  },
-                  "slug": {
-                    "en": "create-cx-automations",
-                    "es": "creando-automaciones",
-                    "pt": "criar-automacoes-do-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Introduction to VTEX CX Platform",
-                    "es": "Introducción a VTEX CX Platform",
-                    "pt": "Introdução ao CX"
-                  },
-                  "slug": {
-                    "en": "introduction-to-cx",
-                    "es": "introduccion-a-cx",
-                    "pt": "introducao-ao-cx"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Headless CMS",
-                "es": "Headless CMS",
-                "pt": "Headless CMS"
-              },
-              "slug": {
-                "en": "headless-cms",
-                "es": "headless-cms",
-                "pt": "headless-cms"
+                "en": "headless-cms-subcategory",
+                "es": "headless-cms-subcategoria",
+                "pt": "headless-cms-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36979,6 +36921,52 @@
                     "en": "media-overview",
                     "es": "multimedia-vision-general",
                     "pt": "midia-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Agentic CX",
+                "es": "Agentic CX",
+                "pt": "Agentic CX"
+              },
+              "slug": {
+                "en": "agentic-cx-subcategory",
+                "es": "agentic-cx-subcategoria",
+                "pt": "agentic-cx-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Creating CX automations",
+                    "es": "Crear automatizaciones de CX",
+                    "pt": "Criar automações do CX"
+                  },
+                  "slug": {
+                    "en": "create-cx-automations",
+                    "es": "creando-automaciones",
+                    "pt": "criar-automacoes-do-cx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Introduction to VTEX CX Platform",
+                    "es": "Introducción a VTEX CX Platform",
+                    "pt": "Introdução ao CX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-cx",
+                    "es": "introduccion-a-cx",
+                    "pt": "introducao-ao-cx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37429,21 +37417,6 @@
             },
             {
               "name": {
-                "en": "Extensibility in VTEX Sales App",
-                "es": "Extensibilidad en VTEX Sales App",
-                "pt": "Extensibilidade no VTEX Sales App"
-              },
-              "slug": {
-                "en": "extensibility-in-vtex-sales-app",
-                "es": "extensibilidad-en-vtex-sales-app",
-                "pt": "extensibilidade-no-vtex-sales-app"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Issuing sales receipts in Sales App via thermal printer",
                 "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
                 "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
@@ -37497,6 +37470,21 @@
                 "en": "sales-app-card-entry-without-payment-terminal",
                 "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
                 "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Extensibility",
+                "es": "VTEX Sales App Extensibility",
+                "pt": "VTEX Sales App Extensibility"
+              },
+              "slug": {
+                "en": "vtex-sales-app-extensibility-en",
+                "es": "vtex-sales-app-extensibility-es",
+                "pt": "vtex-sales-app-extensibility-pt"
               },
               "origin": "",
               "type": "markdown",
@@ -37957,13 +37945,13 @@
                 {
                   "name": {
                     "en": "Live Desk - Overview",
-                    "es": "Introducción al módulo de Live Desk",
-                    "pt": "Live Desk - Overview"
+                    "es": "Visión de conjunto de Live Desk",
+                    "pt": "Visão geral do Live Desk"
                   },
                   "slug": {
-                    "en": "introduction-to-live-desk",
-                    "es": "introduccion-al-modulo-de-chats",
-                    "pt": ""
+                    "en": "live-desk-overview",
+                    "es": "vision-de-conjunto-de-live-desk",
+                    "pt": "visao-geral-do-live-desk"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37994,21 +37982,6 @@
                     "en": "using-groups-to-organize-human-attendance",
                     "es": "usando-grupos-para-controlar-la-atencion-humana",
                     "pt": "usando-grupos-para-controlar-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "pt": "Visão geral do Live Desk",
-                    "en": "Visão geral do Live Desk",
-                    "es": "Visão geral do Live Desk"
-                  },
-                  "slug": {
-                    "pt": "visao-geral-do-live-desk-agentic-cx",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39058,13 +39031,13 @@
             },
             {
               "name": {
-                "en": "Analytics",
                 "es": "Analytics",
+                "en": "Analytics",
                 "pt": "Analytics"
               },
               "slug": {
-                "en": "vtex-cx-platform-analytics",
                 "es": "vtex-cx-platform-analytics",
+                "en": "",
                 "pt": ""
               },
               "origin": "",
@@ -39112,6 +39085,52 @@
                 "en": "vtex-ads-metrics-and-attribution",
                 "es": "metricas-y-atribucion-de-vtex-ads",
                 "pt": "metricas-e-atribuicao-do-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Suppliers",
+            "es": "Proveedores",
+            "pt": "Fornecedores"
+          },
+          "slug": {
+            "en": "suppliers",
+            "es": "proveedores",
+            "pt": "fornecedores"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Accounts Payable - Brazil",
+                "es": "Cuentas a Pagar - Brasil",
+                "pt": "Contas a Pagar - Brasil"
+              },
+              "slug": {
+                "en": "accounts-payable-brazil",
+                "es": "cuentas-a-pagar-brasil",
+                "pt": "contas-a-pagar-brasil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Accounts Payable - International",
+                "es": "Cuentas por pagar - Internacional",
+                "pt": "Contas a pagar - Internacional"
+              },
+              "slug": {
+                "en": "accounts-payable-international",
+                "es": "cuentas-por-pagar-internacional",
+                "pt": "contas-a-pagar-internacional"
               },
               "origin": "",
               "type": "markdown",
