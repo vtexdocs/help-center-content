@@ -69425,6 +69425,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
+                "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
+                "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
+              },
+              "slug": {
+                "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
+                "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
+                "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Netshoes - Main Image not respected",
                 "es": "Netshoes - Imagen principal no respetada",
                 "pt": "Netshoes - Imagem principal não respeitada"
