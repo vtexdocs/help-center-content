@@ -15,7 +15,7 @@ trackSlugEN: facebook-integration
 order: 1
 ---
 
-> ℹ️ There is an integration with the [Facebook Business Extension and Conversions API](/en/docs/tracks/integration-with-facebook-business-extension) that should be your default selection when integrating with Facebook. This is valid even if the [Facebook Integration](/en/docs/tracks/facebook-integration) has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
+> ℹ️ There is an integration with the [Meta Business Extension and Conversions API](/en/docs/tracks/integration-with-meta-business-extension) that should be your default selection when integrating with Facebook. This is valid even if the [Facebook Integration](/en/docs/tracks/facebook-integration) has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
 
 [Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 

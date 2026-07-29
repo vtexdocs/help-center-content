@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy): simplifique a criação e o gerenciamento de conteúdo com Projetos'
 id: 6pl14hf2E6sNgR9ykCJkj8
 status: PUBLISHED

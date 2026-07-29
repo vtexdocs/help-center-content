@@ -1,20 +1,13 @@
 ---
 title: "Utilizando el disparo activo de flujos"
-id: 2G7HPM4mD3vuxPHUgtexb7
-status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
-updatedAt: 2026-07-07T00:00:00.000Z
-publishedAt: 2025-10-03T14:22:54.202Z
-firstPublishedAt: 2025-10-03T14:22:54.202Z
+updatedAt: 2026-07-10T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: using-active-triggering-of-flows
-legacySlug: utilizando-el-disparo-activo-de-flujos
 locale: es
-subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
+hidden: false
 ---
-
 El disparo activo de flujos permite que los agentes inicien conversaciones en Live Desk enviando flujos a contactos o grupos de contactos. Esta función es útil para comunicaciones activas, como avisos, confirmaciones o seguimientos, y puede utilizar plantillas de mensajes aprobadas por WhatsApp cuando la conversación comienza por este canal.
 
 En este artículo aprenderás cómo:
@@ -35,9 +28,7 @@ Para que un flujo aparezca como opción de envío en Live Desk, debe estar ident
 5. En **Nombre**, ingresa `chats`.
 6. Haz clic en `Crear`.
 
-
 > ℹ️ Si la etiqueta `chats` ya existe, selecciona el flujo deseado, haz clic en la pestaña **Etiquetar** y marca la casilla `chats`.
-
 
 ## Crear un flujo con envío de plantilla de mensaje
 
@@ -55,7 +46,6 @@ Antes de configurar el flujo, verifica que la plantilla de mensaje ya esté regi
 8. Haz clic en `Confirme`.
 9. Continúa creando la cantidad de bloques según las características del flujo que deseas disponibilizar en la tienda.
 
-
 ## Activar el disparo de flujos en Live Desk
 
 Además de habilitar el flujo con la etiqueta `chats`, es necesario activar el disparo de flujos en el sector de Live Desk. Esta configuración define qué sectores tendrán la función disponible para los agentes:
@@ -71,7 +61,6 @@ Además de habilitar el flujo con la etiqueta `chats`, es necesario activar el d
 6. Haz clic en `Editar`.
 7. En **Opciones adicionales**, activa la opción **Envío de plantillas de mensajes**.
 8. Haz clic en `Guardar cambios`.
-
 
 ## Disparar un flujo
 

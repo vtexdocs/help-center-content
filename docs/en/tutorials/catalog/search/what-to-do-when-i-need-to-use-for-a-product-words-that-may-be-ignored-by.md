@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'What to do when I need to use words that may be ignored by the search engine for a product?'
 id: 4XmhcZLXA4WCQo2OuKkqy0
 status: PUBLISHED

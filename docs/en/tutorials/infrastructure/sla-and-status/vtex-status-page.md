@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'VTEX Status page'
 id: gPhqDn9IQ3c67wbJEX3JJ
 status: PUBLISHED
