@@ -25,4 +25,4 @@ Reconstruímos a lista de pedidos para oferecer uma experiência mais moderna e 
 
 Para ter acesso a essa melhoria, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support) e solicite a ativação deste recurso para a sua conta.
 
-Se você desejar voltar à versão anterior, pode clicar no botão <i class="fas fa-ellipsis-v" aria-hidden="true"></i> dentro de **Pedidos** depois clicar em `Usar experiência antiga`.
+Se desejar voltar à versão anterior, você pode clicar no botão <i class="fas fa-ellipsis-v" aria-hidden="true"></i> dentro de **Pedidos** depois clicar em `Usar experiência antiga`.
