@@ -1,21 +1,21 @@
 ---
-title: 'How do I change my CNPJ?'
+title: 'Changing the store’s CNPJ'
 id: 22MTpJQGocA48sMQyUwMGq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.539Z
-updatedAt: 2025-05-21T15:49:04.389Z
+updatedAt: 2026-07-27T14:49:32.738Z
 publishedAt: 2025-05-21T15:49:04.389Z
 firstPublishedAt: 2019-01-24T21:55:37.869Z
 contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
-slugEN: how-do-i-change-my-cnpj-new
+slugEN: changing-the-stores-cnpj
 legacySlug: how-do-i-change-my-cnpj
 locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 
-In order to request the change of CNPJ and transfer the rights, obligations and contractual liability of your store, you must open a [ticket](https://support.vtex.com/hc/en-us/requests) communicating your decision to the financial team.
+In order to request the change of CNPJ and transfer the rights, obligations and contractual liability of your store, you must open a [ticket](https://supporticket.vtex.com/support) communicating your decision to the financial team.
 
 ## Make sure your ticket contains the following information:
 

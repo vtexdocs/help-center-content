@@ -1,15 +1,15 @@
 ---
-title: '¿Cómo cambiar mi CNPJ?'
+title: 'Cambiar el CNPJ de la tienda'
 id: 22MTpJQGocA48sMQyUwMGq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.539Z
-updatedAt: 2025-05-21T15:49:04.389Z
+updatedAt: 2026-07-27T14:49:32.738Z
 publishedAt: 2025-05-21T15:49:04.389Z
 firstPublishedAt: 2019-01-24T21:55:37.869Z
 contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
-slugEN: how-do-i-change-my-cnpj-new
+slugEN: changing-the-stores-cnpj
 legacySlug: como-cambiar-mi-cnpj
 locale: es
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
