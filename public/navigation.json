@@ -479,6 +479,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Agosto",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "agosto",
+                "es": "agosto",
+                "pt": "agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto",
+                    "en": "Pedidos: nova lista de pedidos disponível em beta aberto",
+                    "es": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "pt": "2026-08-07-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
