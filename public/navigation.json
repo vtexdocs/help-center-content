@@ -25188,6 +25188,21 @@
                 },
                 {
                   "name": {
+                    "en": "Intelligent Search: how search result relevance works",
+                    "es": "Intelligent Search: cómo funciona la relevancia de los resultados de búsqueda",
+                    "pt": "Intelligent Search: como funciona a relevância dos resultados de busca"
+                  },
+                  "slug": {
+                    "en": "intelligent-search-how-search-result-relevance-works",
+                    "es": "intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda",
+                    "pt": "intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Merchandising rule conditions",
                     "es": "Condiciones de las reglas de merchandising",
                     "pt": "Condições de Regras de merchandising"
@@ -54957,21 +54972,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
-              },
-              "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -69418,6 +69418,21 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
+                "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
+                "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
+              },
+              "slug": {
+                "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
+                "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
+                "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
               },
               "origin": "",
               "type": "markdown",
