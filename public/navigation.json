@@ -18814,21 +18814,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to temporarily unblock the Admin",
-                    "es": "Desbloqueio temporal del Admin",
-                    "pt": "Como desbloquear temporariamente o Admin"
-                  },
-                  "slug": {
-                    "en": "how-to-temporarily-unblock-the-admin",
-                    "es": "desbloqueio-temporal-del-admin",
-                    "pt": "como-desbloquear-temporariamente-o-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Payment was made but not found. What should I do?",
                     "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
                     "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
@@ -18837,6 +18822,21 @@
                     "en": "payment-was-made-but-not-found-what-should-i-do",
                     "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
                     "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Unblocking the VTEX Admin temporarily",
+                    "es": "Desbloquear temporalmente el Admin VTEX",
+                    "pt": "Desbloquear temporariamente o Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "unblocking-the-vtex-admin-temporarily",
+                    "es": "desbloquear-temporalmente-el-admin-vtex",
+                    "pt": "desbloquear-temporariamente-o-admin-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
