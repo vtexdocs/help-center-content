@@ -39046,21 +39046,6 @@
             },
             {
               "name": {
-                "es": "Analytics",
-                "en": "Analytics",
-                "pt": "Analytics"
-              },
-              "slug": {
-                "es": "vtex-cx-platform-analytics",
-                "en": "",
-                "pt": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Code action first steps",
                 "es": "Primeros pasos - Code Action",
                 "pt": "Primeiros passos - Code Action"
