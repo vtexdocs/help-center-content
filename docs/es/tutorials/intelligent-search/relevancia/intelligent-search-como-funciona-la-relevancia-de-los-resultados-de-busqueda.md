@@ -20,10 +20,10 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
 
 | Grupo | Lógica | Descripción | Prioridad |
 | :---- | :---- | :---- | :---- |
-| Grupo 1 | [AND sin fuzzy](#operadores-y-fuzzy) | Busca productos que contengan **todas** las palabras buscadas exactamente como se escribieron, sin tolerancia a variaciones o errores de escritura. | Mayor prioridad |
-| Grupo 2 | [AND con fuzzy](#operadores-y-fuzzy) | Busca productos con **todas** las palabras, pero acepta pequeñas variaciones (por ejemplo, errores de escritura, diferencias de acentuación). |  |
-| Grupo 3 | [OR sin fuzzy](#operadores-y-fuzzy) | Acepta productos que contengan **cualquiera** de las palabras buscadas, pero exige coincidencia exacta. |  |
-| Grupo 4 | [OR con fuzzy](#operadores-y-fuzzy) | Último recurso: acepta productos con **cualquiera** de las palabras, con tolerancia a variaciones. | Menor prioridad |
+| Grupo 1 | [AND sin fuzzy](#operadores-y-fuzzy) | Busca productos que contengan todas las palabras buscadas exactamente como se escribieron, sin tolerancia a variaciones o errores de escritura. | Mayor prioridad |
+| Grupo 2 | [AND con fuzzy](#operadores-y-fuzzy) | Busca productos con todas las palabras, pero acepta pequeñas variaciones (por ejemplo, errores de escritura, diferencias de acentuación). |  |
+| Grupo 3 | [OR sin fuzzy](#operadores-y-fuzzy) | Acepta productos que contengan cualquiera de las palabras buscadas, pero exige coincidencia exacta. |  |
+| Grupo 4 | [OR con fuzzy](#operadores-y-fuzzy) | Último recurso: acepta productos con cualquiera de las palabras, con tolerancia a variaciones. | Menor prioridad |
 
 ### Operadores y fuzzy
 
