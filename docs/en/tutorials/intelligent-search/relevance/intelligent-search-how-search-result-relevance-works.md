@@ -7,7 +7,7 @@ productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
 locale: en
 ---
-Relevance is the core mechanism of [Intelligent Search](https://help.vtex.com/docs/tutorials/intelligent-search-overview). It defines which products display in search results and in what order. The goal is to ensure that the products most relevant to each query are displayed first, considering a series of automatic and configurable factors.
+Relevance is the core mechanism of [Intelligent Search](https://help.vtex.com/en/docs/tutorials/intelligent-search-overview). It defines which products display in search results and in what order. The goal is to ensure that the products most relevant to each query are displayed first, considering a series of automatic and configurable factors.
 
 The process happens in two main steps:
 
@@ -20,10 +20,10 @@ Intelligent Search tries to find products that match the search in sequential gr
 
 | Group | Logic | Description | Priority |
 | :---- | :---- | :---- | :---- |
-| Group 1 | [AND without fuzzy](#operators-and-fuzzy-matching) | Searches products that contain **all** the query words exactly as typed, with no tolerance for variations or typos. | Highest priority |
-| Group 2 | [AND with fuzzy](#operators-and-fuzzy-matching) | Searches products with **all** the words but accepts small variations (example: typos, diacritical mark differences). |  |
-| Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching) | Accepts products that contain **any** of the searched words, but requires an exact match. |  |
-| Group 4 | [OR with fuzzy](#operators-and-fuzzy-matching) | Last resort: accepts products with **any** of the words, with tolerance for variations. | Lowest priority |
+| Group 1 | [AND without fuzzy](#operators-and-fuzzy-matching) | Searches products that contain all the query words exactly as typed, with no tolerance for variations or typos. | Highest priority |
+| Group 2 | [AND with fuzzy](#operators-and-fuzzy-matching) | Searches products with all the words but accepts small variations (example: typos, diacritical mark differences). |  |
+| Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching) | Accepts products that contain any of the searched words, but requires an exact match. |  |
+| Group 4 | [OR with fuzzy](#operators-and-fuzzy-matching) | Last resort: accepts products with any of the words, with tolerance for variations. | Lowest priority |
 
 ### Operators and fuzzy matching
 
@@ -31,9 +31,9 @@ Intelligent Search tries to find products that match the search in sequential gr
 
 * **Fuzzy:** Defines the tolerance for typos. Intelligent Search tries to correct what the user typed based on the items in the catalog. By default, terms with three to five characters accept one error, and terms with six or more characters accept two errors.
 
-  The errors considered with fuzzy = 1 are: inserting an extra character, removing a character, changing a character, or swapping two adjacent characters. Blank spaces aren't considered in fuzzy matching. For these cases, we recommend using [synonyms](https://help.vtex.com/docs/tutorials/synonyms).
+  The errors considered with fuzzy = 1 are: inserting an extra character, removing a character, changing a character, or swapping two adjacent characters. Blank spaces aren't considered in fuzzy matching. For these cases, we recommend using [synonyms](https://help.vtex.com/en/docs/tutorials/synonyms).
 
-> ℹ️ Intelligent Search automatically chooses the operator and the fuzzy level. The merchant doesn't control this behavior. The system starts with the most restrictive group (AND without fuzzy) and moves on to more permissive groups only if the previous one doesn't return results. For more details, see [Search behavior](https://help.vtex.com/docs/tutorials/search-behavior#autocorrect).
+> ℹ️ Intelligent Search automatically chooses the operator and the fuzzy level. The merchant doesn't control this behavior. The system starts with the most restrictive group (AND without fuzzy) and moves on to more permissive groups only if the previous one doesn't return results. For more details, see [Search behavior](https://help.vtex.com/en/docs/tutorials/search-behavior#autocorrect).
 
 ### Decision flow
 
@@ -96,7 +96,7 @@ The product name keyword match and the brand match are cumulative: a product tha
 
 ### Merchandising rules
 
-[Merchandising rules](https://help.vtex.com/docs/tutorials/merchandising-rules) are manual configurations set by the merchant to adjust search results. They have the highest priority in the algorithm and allow three actions:
+[Merchandising rules](https://help.vtex.com/en/docs/tutorials/merchandising-rules) are manual configurations set by the merchant to adjust search results. They have the highest priority in the algorithm and allow three actions:
 
 - **Promote:** Pushes a product to the top results.
 - **Add:** Includes a product in the results even if it doesn't match the search.
@@ -104,7 +104,7 @@ The product name keyword match and the brand match are cumulative: a product tha
 
 ### Synonyms
 
-Intelligent Search allows you to configure [synonyms](https://help.vtex.com/docs/tutorials/synonyms) to expand search coverage. For example, mapping "pain reliever" to "acetaminophen".
+Intelligent Search allows you to configure [synonyms](https://help.vtex.com/en/docs/tutorials/synonyms) to expand search coverage. For example, mapping "pain reliever" to "acetaminophen".
 
 #### Low-relevance synonyms
 
@@ -123,7 +123,7 @@ A product returned by a synonym but that has a keyword match will be more releva
 
 ## Tie-breaking criteria
 
-When two or more products have a similar relevance score, Intelligent Search uses the criteria from the [relevance rules](https://help.vtex.com/docs/tutorials/relevance-rules) configured by the merchant to break the tie. The available criteria are:
+When two or more products have a similar relevance score, Intelligent Search uses the criteria from the [relevance rules](https://help.vtex.com/en/docs/tutorials/relevance-rules) configured by the merchant to break the tie. The available criteria are:
 
 | Criterion | Description |
 | :---- | :---- |
