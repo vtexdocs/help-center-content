@@ -50,3 +50,17 @@ La configuración de facetas presenta ajustes relacionados con las [facetas](/es
 * **Ocultar facetas:** selección que permite que determinadas facetas no se muestren en la tienda. Para ocultar una faceta, haz clic en el menú desplegable, y a continuación en el nombre de la faceta. 
 
     Para volver a mostrar una faceta, haz clic en la X situada junto a su nombre. Si deseas volver a mostrar todas las facetas anteriormente ocultas, haz clic en la X situada a la derecha del campo.
+
+### Cobertura mínima para mostrar filtros
+
+> ℹ️ Este recurso está disponible a pedido. Para habilitarlo ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support).
+
+Los catálogos grandes suelen incluir filtros basados en especificaciones presentes en pocos productos, lo que llena el panel de filtros con opciones de poca cobertura. Con la cobertura mínima activada, solo se muestran de forma predeterminada los filtros con una cobertura significativa.
+
+Los filtros cuyas opciones no alcancen el porcentaje mínimo de cobertura sobre el total de resultados de búsqueda se ocultan automáticamente. Puedes excluir filtros específicos de esta regla para que siempre se muestren, independientemente de la configuración.
+
+Por ejemplo, si se define una cobertura mínima del 5%, un filtro no se mostrará cuando ninguna de sus opciones alcance ese porcentaje de los resultados. Considera una búsqueda por "camisa" que devuelve 1000 productos. Si la cobertura mínima se establece en 5%, los filtros se evalúan de la siguiente manera:
+
+- El filtro **Color** cubre 1000 productos (100%) y se muestra.
+- El filtro **Talla** cubre 600 productos (60%) y se muestra.
+- El filtro **Tela** cubre solo 30 productos (3%) y se oculta automáticamente, ya que ninguna de sus opciones alcanza el porcentaje mínimo.

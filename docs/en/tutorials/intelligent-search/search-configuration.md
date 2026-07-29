@@ -50,3 +50,17 @@ The facet settings have settings related to the[ filters](/en/docs/tutorials/fil
 * **Hide facets:** Option that allows you to hide certain facets in the store. To hide a facet, click the dropdown menu and select the facet you want to hide.
 
     To redisplay a facet, click the X next to its name. If you want to show all the previously hidden facets again, click the X on the right side of the field.
+
+### Minimum result coverage for facets
+
+> ℹ️ This feature is available on demand. To enable it, contact [VTEX Support](https://supporticket.vtex.com/support).
+
+Large catalogs often contain facets created from specifications shared by only a few products, cluttering the facet panel with low-coverage options. With minimum coverage enabled, only facets with significant coverage are displayed by default.
+
+The system automatically hides facets in which no option reaches a minimum coverage percentage of the total search results. You can exclude specific facets from this rule so they're always displayed, regardless of the configuration.
+
+For example, if the minimum coverage is set to 5%, a facet in which all options apply to less than 5% of the current search results won't be displayed. Consider a search for "shirt" that returns 1,000 products. With a minimum coverage of 5%, the facets are evaluated as follows:
+
+- The **Color** facet covers 1,000 products (100%) and is displayed.
+- The **Size** facet covers 600 products (60%) and is displayed.
+- The **Fabric** facet covers only 30 products (3%) and is automatically hidden because its options don't reach the minimum percentage.
