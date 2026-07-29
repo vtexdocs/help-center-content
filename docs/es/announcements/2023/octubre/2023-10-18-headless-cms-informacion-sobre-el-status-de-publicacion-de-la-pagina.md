@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy): información sobre el status de publicación de la página'
 id: 9G9ILO21L5sGtEVIHFhLr
 status: PUBLISHED

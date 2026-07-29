@@ -20,7 +20,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ## Cómo funciona el buscador
 El buscador de VTEX posee un algoritmo inteligente que, a partir del término buscado, identifica cuál es el mejor resultado para presentarle al usuario, o sea, se le presenta siempre el resultado que generará más conversión de venta.
 
-> ℹ️ Ver más detalles de [como funciona la búsqueda](/es/docs/tutorials/como-funciona-la-vtex-search-legado) en VTEX.
+> ℹ️ Ver más detalles en [como funciona la VTEX Search (Legado)](/es/docs/tutorials/como-funciona-vtex-search-legado).
 
 ## Que utilidad tiene una palabra sustituta
 Si el sistema de búsqueda no identifica Landing Page, Marca o Departamento de acuerdo al término buscado, aplica una búsqueda por Palabra Sustituta (palabra clave). 

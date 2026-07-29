@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Setting up the Notify me option'
 id: 2VqVifQuf6Co2KG048Yu6e
 status: PUBLISHED
