@@ -21,10 +21,10 @@ O Intelligent Search tenta localizar produtos que correspondam à busca em grupo
 
 | Grupo | Lógica | Descrição | Prioridade |
 | :---- | :---- | :---- | :---- |
-| Grupo 1 | [AND sem fuzzy](#operadores-e-fuzzy) | Busca produtos que contenham **todas** as palavras pesquisadas exatamente como digitadas, sem tolerância a variações ou erros de digitação. | Maior prioridade |
-| Grupo 2 | [AND com fuzzy](#operadores-e-fuzzy) | Busca produtos com **todas** as palavras, mas aceita pequenas variações (ex: erros de digitação, diferença de acentuação). | |
-| Grupo 3 | [OR sem fuzzy](#operadores-e-fuzzy) | Aceita produtos que contenham **qualquer uma** das palavras pesquisadas, mas exige correspondência exata. | |
-| Grupo 4 | [OR com fuzzy](#operadores-e-fuzzy) | Último recurso: aceita produtos com **qualquer uma** das palavras, com tolerância a variações. | Menor prioridade |
+| 1 | [AND sem fuzzy](#operadores-e-fuzzy) | Busca produtos que contenham todas as palavras pesquisadas exatamente como digitadas, sem tolerância a variações ou erros de digitação. | Maior prioridade |
+| 2 | [AND com fuzzy](#operadores-e-fuzzy) | Busca produtos com todas as palavras, mas aceita pequenas variações (ex: erros de digitação, diferença de acentuação). | |
+| 3 | [OR sem fuzzy](#operadores-e-fuzzy) | Aceita produtos que contenham qualquer uma das palavras pesquisadas, mas exige correspondência exata. | |
+| 4 | [OR com fuzzy](#operadores-e-fuzzy) | Último recurso: aceita produtos com qualquer uma das palavras, com tolerância a variações. | Menor prioridade |
 
 ### Operadores e fuzzy
 
@@ -149,7 +149,7 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 | Analgésico Dorflex 36 comprimidos (Dorflex) | Empate* | Só match de marca "Dorflex": um match de keyword. |
 | Dorflex 36 comprimidos (Sanofi) | Empate* | Só match de keyword do nome "Dorflex": um match de keyword. Desempate pelos critérios de relevância configurados. |
 
-\* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
+* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
 
 ### Busca: "minoxidil"
 
@@ -160,4 +160,4 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 | Minoxidil 50mg/ml Biosintética 50ml Spray (Biosintética) | Empate* | Só match de keyword do nome "Minoxidil": um match de keyword. Desempate pelos critérios de relevância configurados. |
 | Pant Minoxidil 50mg/ml 50ml 3 Frascos (Ache) | Baixa | Keyword do nome é "Pant" e a marca é "Ache": nenhum match de keyword ou marca. |
 
-\* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
+* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
