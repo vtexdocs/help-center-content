@@ -149,7 +149,7 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 | Analgésico Dorflex 36 comprimidos (Dorflex) | Empate* | Só match de marca "Dorflex": um match de keyword. |
 | Dorflex 36 comprimidos (Sanofi) | Empate* | Só match de keyword do nome "Dorflex": um match de keyword. Desempate pelos critérios de relevância configurados. |
 
-* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
+\* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
 
 ### Busca: "minoxidil"
 
@@ -160,4 +160,4 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 | Minoxidil 50mg/ml Biosintética 50ml Spray (Biosintética) | Empate* | Só match de keyword do nome "Minoxidil": um match de keyword. Desempate pelos critérios de relevância configurados. |
 | Pant Minoxidil 50mg/ml 50ml 3 Frascos (Ache) | Baixa | Keyword do nome é "Pant" e a marca é "Ache": nenhum match de keyword ou marca. |
 
-* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
+\* Empate na pontuação de relevância. Ambos têm exatamente um match de keyword. A ordem final entre eles é determinada pelos critérios de relevância configurados (ex: mais vendidos, desconto, data de lançamento).
