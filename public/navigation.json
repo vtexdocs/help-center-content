@@ -18769,21 +18769,6 @@
                 },
                 {
                   "name": {
-                    "en": "How and when do I receive my invoice?",
-                    "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
-                    "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
-                  },
-                  "slug": {
-                    "en": "how-and-when-do-i-receive-my-invoice",
-                    "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
-                    "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "How to download the VTEX invoices",
                     "es": "Cómo descargar las facturas de VTEX",
                     "pt": "Como fazer download das faturas da VTEX"
@@ -18837,6 +18822,21 @@
                     "en": "payment-was-made-but-not-found-what-should-i-do",
                     "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
                     "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Receiving the invoice",
+                    "es": "Recibir la factura",
+                    "pt": "Receber a fatura"
+                  },
+                  "slug": {
+                    "en": "receiving-the-invoice",
+                    "es": "recibir-la-factura",
+                    "pt": "receber-a-fatura"
                   },
                   "origin": "",
                   "type": "markdown",
