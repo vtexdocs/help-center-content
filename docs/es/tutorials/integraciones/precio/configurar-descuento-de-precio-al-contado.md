@@ -13,8 +13,6 @@ slugEN: configuring-a-discount-for-orders-prepaid-in-full
 legacySlug: configurar-descuento-de-precio-al-contado
 locale: es
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
-seeAlso:
-  - "/es/docs/tutorials/configurar-descuento-de-precio-al-contado-para-google-shopping"
 ---
 
 Una de las estrategias para atraer clientes más usadas en ecommerce es aplicar un descuento en el **precio al contado** de medios de pago específicos. Este precio promocional normalmente se muestra al cliente solo en la etapa de pago del checkout después de seleccionar el medio de pago.
