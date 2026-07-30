@@ -189,8 +189,8 @@ Também é possível adicionar permissões a um projeto específico, e não nece
 
 As permissões de projeto são as seguintes:
 
-- **Moderador:** tem acesso de completo de administrador de um projeto. Pode realizar qualquer alteração ou configuração do projeto.
-- **Contribuidor:** pode editar conteúdo (por exemplo, fluxos, instruções, templates de messagens).
+- **Moderador:** tem acesso completo de administrador de um projeto. Pode realizar qualquer alteração ou configuração do projeto.
+- **Contribuidor:** pode editar conteúdo (por exemplo, fluxos, instruções, templates de mensagens).
 - **Visualizador:** apenas faz a leitura de informações, como fluxos, contatos, mensagens, mas sem poder editá-las.
 - **Marketing:** tem acesso aos módulos **Campanhas** e **Contatos** para configurar e gerenciar disparos de campanhas com templates.
 - **Human support:** permissão exclusiva do atendente humano. Apenas tem acesso ao módulo **Live Desk**.
