@@ -39374,37 +39374,6 @@
         },
         {
           "name": {
-            "en": "App Platform",
-            "es": "App Platform",
-            "pt": "App Platform"
-          },
-          "slug": {
-            "en": "app-platform",
-            "es": "app-platform",
-            "pt": "app-platform"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Cold Start requests failing with timeout and courier retries not working as expected",
-                "es": "Las solicitudes de arranque en frío fallan con el tiempo de espera y los reintentos de mensajería no funcionan como se esperaba.",
-                "pt": "As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado"
-              },
-              "slug": {
-                "en": "cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected",
-                "es": "las-solicitudes-de-arranque-en-frio-fallan-con-el-tiempo-de-espera-y-los-reintentos-de-mensajeria-no-funcionan-como-se-esperaba",
-                "pt": "as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Apps",
             "es": "Apps",
             "pt": "Apps"
@@ -39562,6 +39531,21 @@
                 "en": "issue-with-node-version-compatibility",
                 "es": "problema-de-compatibilidad-de-versiones-de-node",
                 "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requests failing with timeout during app cold start",
+                "es": "Las solicitudes fallan por tiempo de espera durante el inicio en frío de la aplicación.",
+                "pt": "As solicitações falham com erro de tempo limite durante a inicialização a frio do aplicativo."
+              },
+              "slug": {
+                "en": "requests-failing-with-timeout-during-app-cold-start",
+                "es": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
+                "pt": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo"
               },
               "origin": "",
               "type": "markdown",
@@ -40073,6 +40057,21 @@
                 "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
                 "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
                 "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Quotes Organization and Cost Center Filter doesn't work for users with Access All Quotes and Carts Permission",
+                "es": "Mi filtro de organización y centro de costos de cotizaciones no funciona para los usuarios con permiso de acceso a todas las cotizaciones y carritos.",
+                "pt": "A organização \"Minhas Cotações\" e o filtro de centro de custos não funcionam para usuários com permissão de acesso a todas as cotações e carrinhos."
+              },
+              "slug": {
+                "en": "my-quotes-organization-and-cost-center-filter-doesnt-work-for-users-with-access-all-quotes-and-carts-permission",
+                "es": "mi-filtro-de-organizacion-y-centro-de-costos-de-cotizaciones-no-funciona-para-los-usuarios-con-permiso-de-acceso-a-todas-las-cotizaciones-y-carritos",
+                "pt": "a-organizacao-minhas-cotacoes-e-o-filtro-de-centro-de-custos-nao-funcionam-para-usuarios-com-permissao-de-acesso-a-todas-as-cotacoes-e-carrinhos"
               },
               "origin": "",
               "type": "markdown",
@@ -43539,6 +43538,21 @@
                 "en": "seller-commission-updates-does-not-index-binded-skus",
                 "es": "las-actualizaciones-de-las-comisiones-de-los-vendedores-no-se-aplican-a-los-sku-vinculados",
                 "pt": "as-atualizacoes-da-comissao-do-vendedor-nao-afetam-os-skus-vinculados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Seller Portal Image Upload (vtex.catalog-images) returns 404 for certain filename patterns",
+                "es": "La carga de imágenes del portal del vendedor (vtex.catalog-images) devuelve un error 404 para ciertos patrones de nombres de archivo.",
+                "pt": "O recurso de upload de imagens no Seller Portal (vtex.catalog-images) retorna o erro 404 para determinados padrões de nome de arquivo."
+              },
+              "slug": {
+                "en": "seller-portal-image-upload-vtexcatalogimages-returns-404-for-certain-filename-patterns",
+                "es": "la-carga-de-imagenes-del-portal-del-vendedor-vtexcatalogimages-devuelve-un-error-404-para-ciertos-patrones-de-nombres-de-archivo",
+                "pt": "o-recurso-de-upload-de-imagens-no-seller-portal-vtexcatalogimages-retorna-o-erro-404-para-determinados-padroes-de-nome-de-arquivo"
               },
               "origin": "",
               "type": "markdown",
@@ -54868,13 +54882,13 @@
             {
               "name": {
                 "en": "Timeout in Analytics Query Can Prevent Inventory Log from Loading",
-                "es": "El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario",
-                "pt": "O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário"
+                "es": "Un tiempo de espera agotado en una consulta de análisis puede impedir que se cargue el registro de inventario.",
+                "pt": "Um tempo limite excedido na consulta de análise pode impedir o carregamento do log de inventário."
               },
               "slug": {
                 "en": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
-                "es": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
-                "pt": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario"
+                "es": "un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario",
+                "pt": "um-tempo-limite-excedido-na-consulta-de-analise-pode-impedir-o-carregamento-do-log-de-inventario"
               },
               "origin": "",
               "type": "markdown",
@@ -54935,21 +54949,6 @@
                 "en": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
                 "es": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
                 "pt": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
-              },
-              "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -59624,6 +59623,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -63463,6 +63477,21 @@
                 "en": "transactions-stuck-in-pending-authorization-despite-connector-approval",
                 "pt": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
                 "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions with 2 credit card payments stuck when multiple settlement attempts occur in Total capture mode",
+                "es": "Las transacciones con 2 pagos con tarjeta de crédito se bloquean cuando se producen varios intentos de liquidación en el modo de captura total.",
+                "pt": "Transações com 2 pagamentos com cartão de crédito ficam travadas quando ocorrem várias tentativas de liquidação no modo de captura total."
+              },
+              "slug": {
+                "en": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+                "es": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+                "pt": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total"
               },
               "origin": "",
               "type": "markdown",
@@ -68579,14 +68608,14 @@
             },
             {
               "name": {
-                "en": "Rewriter is not receiving URL updates",
-                "es": "El reescribidor no recibe actualizaciones de URL",
-                "pt": "O reescritor não está recebendo atualizações de URL"
+                "en": "Rewriter not receiving route updates from the catalog",
+                "es": "El reescritor no recibe actualizaciones de ruta del catálogo.",
+                "pt": "O reescritor não está recebendo atualizações de rota do catálogo."
               },
               "slug": {
-                "en": "rewriter-is-not-receiving-url-updates",
-                "es": "el-reescribidor-no-recibe-actualizaciones-de-url",
-                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-url"
+                "en": "rewriter-not-receiving-route-updates-from-the-catalog",
+                "es": "el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo",
+                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -69310,6 +69339,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
+                "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
+                "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
+              },
+              "slug": {
+                "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
+                "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
+                "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
               },
               "origin": "",
               "type": "markdown",
