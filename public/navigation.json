@@ -37974,21 +37974,6 @@
                 },
                 {
                   "name": {
-                    "en": "Using active triggering of flows",
-                    "es": "Utilizando el disparo activo de flujos",
-                    "pt": "Utilizando o disparo ativo de fluxos"
-                  },
-                  "slug": {
-                    "en": "using-active-triggering-of-flows",
-                    "es": "utilizando-el-disparo-activo-de-flujos",
-                    "pt": "utilizando-disparo-ativo-de-fluxos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Using groups to organize human attendance",
                     "es": "Usando grupos para controlar la atención humana",
                     "pt": "Usando grupos para controlar o atendimento humano"
@@ -37997,6 +37982,21 @@
                     "en": "using-groups-to-organize-human-attendance",
                     "es": "usando-grupos-para-controlar-la-atencion-humana",
                     "pt": "usando-grupos-para-controlar-o-atendimento-humano"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Using outbound flow triggering",
+                    "es": "Disparo activo de flujos",
+                    "pt": "Utilizando o disparo ativo de fluxos"
+                  },
+                  "slug": {
+                    "en": "using-active-triggering-of-flows",
+                    "es": "utilizando-el-disparo-activo-de-flujos",
+                    "pt": "utilizando-disparo-ativo-de-fluxos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -65368,6 +65368,21 @@
             },
             {
               "name": {
+                "en": "\"Overwrite All Fixed Prices\" import option does not function to delete all prices",
+                "es": "La opción de importación \"Sobrescribir todos los precios fijos\" no funciona para eliminar todos los precios.",
+                "pt": "A opção de importação \"Substituir todos os preços fixos\" não funciona para excluir todos os preços."
+              },
+              "slug": {
+                "en": "overwrite-all-fixed-prices-import-option-does-not-function-to-delete-all-prices",
+                "es": "la-opcion-de-importacion-sobrescribir-todos-los-precios-fijos-no-funciona-para-eliminar-todos-los-precios",
+                "pt": "a-opcao-de-importacao-substituir-todos-os-precos-fixos-nao-funciona-para-excluir-todos-os-precos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Applying a Coupon Removes Initial UTM Campaign Promotion from Cart",
                 "es": "La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro",
                 "pt": "A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho"
@@ -68613,28 +68628,13 @@
             {
               "name": {
                 "en": "Rewriter not receiving route updates from the catalog",
-                "es": "El reescritor no recibe actualizaciones de ruta del catálogo.",
-                "pt": "O reescritor não está recebendo atualizações de rota do catálogo."
+                "es": "El Rewriter no recibe actualizaciones de ruta del catálogo.",
+                "pt": "O Rewriter não está recebendo atualizações de rota do catálogo."
               },
               "slug": {
                 "en": "rewriter-not-receiving-route-updates-from-the-catalog",
-                "es": "el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo",
-                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Rewriter not receiving routes updated from the catalog",
-                "es": "El reescritor no recibe las rutas actualizadas desde el catálogo",
-                "pt": "O reescritor não está recebendo rotas atualizadas do catálogo"
-              },
-              "slug": {
-                "en": "rewriter-not-receiving-routes-updated-from-the-catalog",
-                "es": "el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo",
-                "pt": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo"
+                "es": "el-rewriter-no-recibe-actualizaciones-de-ruta-del-catalogo",
+                "pt": "o-rewriter-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
