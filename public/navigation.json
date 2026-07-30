@@ -38968,8 +38968,8 @@
                 },
                 {
                   "name": {
-                    "en": "CX Platform Settings: Workspace",
-                    "es": "Configuración de CX Platform: Espacio de trabajo",
+                    "en": "CX Platform settings: Workspace",
+                    "es": "Configuración de CX Platform: Workspace",
                     "pt": "Configurações CX Platform: Espaço de trabalho"
                   },
                   "slug": {
@@ -65368,6 +65368,21 @@
             },
             {
               "name": {
+                "en": "\"Overwrite All Fixed Prices\" import option does not function to delete all prices",
+                "es": "La opción de importación \"Sobrescribir todos los precios fijos\" no funciona para eliminar todos los precios.",
+                "pt": "A opção de importação \"Substituir todos os preços fixos\" não funciona para excluir todos os preços."
+              },
+              "slug": {
+                "en": "overwrite-all-fixed-prices-import-option-does-not-function-to-delete-all-prices",
+                "es": "la-opcion-de-importacion-sobrescribir-todos-los-precios-fijos-no-funciona-para-eliminar-todos-los-precios",
+                "pt": "a-opcao-de-importacao-substituir-todos-os-precos-fixos-nao-funciona-para-excluir-todos-os-precos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Applying a Coupon Removes Initial UTM Campaign Promotion from Cart",
                 "es": "La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro",
                 "pt": "A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho"
@@ -68613,28 +68628,13 @@
             {
               "name": {
                 "en": "Rewriter not receiving route updates from the catalog",
-                "es": "El reescritor no recibe actualizaciones de ruta del catálogo.",
-                "pt": "O reescritor não está recebendo atualizações de rota do catálogo."
+                "es": "El Rewriter no recibe actualizaciones de ruta del catálogo.",
+                "pt": "O Rewriter não está recebendo atualizações de rota do catálogo."
               },
               "slug": {
                 "en": "rewriter-not-receiving-route-updates-from-the-catalog",
-                "es": "el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo",
-                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Rewriter not receiving routes updated from the catalog",
-                "es": "El reescritor no recibe las rutas actualizadas desde el catálogo",
-                "pt": "O reescritor não está recebendo rotas atualizadas do catálogo"
-              },
-              "slug": {
-                "en": "rewriter-not-receiving-routes-updated-from-the-catalog",
-                "es": "el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo",
-                "pt": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo"
+                "es": "el-rewriter-no-recibe-actualizaciones-de-ruta-del-catalogo",
+                "pt": "o-rewriter-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
