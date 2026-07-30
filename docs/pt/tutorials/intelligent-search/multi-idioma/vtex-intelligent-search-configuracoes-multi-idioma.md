@@ -44,7 +44,7 @@ Os campos disponíveis para tradução são diferentes entre as duas abordagens:
 
 Leia os guias para desenvolvedores [Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) e [Tradução do conteúdo do catálogo com o Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para mais informações.
 
-O VTEX Intelligent Search Multi-idioma obtém todos os [bindings](https://developers.vtex.com/docs/guides/store-architecture) e respectivos idiomas (exemplos: `pt-br`, `en-uk`) configurados na loja. Cada binding possui a sua própria URL.
+O VTEX Intelligent Search Multi-idioma obtém todos os idiomas (exemplos: `pt-br`, `en-uk`) configurados na loja. Cada idioma possui a sua própria URL.
 
 Ao navegar na loja, quando o cliente escolhe um idioma, ele é redirecionado para a URL do local desejado. A partir disso, todas as funcionalidades do Intelligent Search passam a funcionar no idioma escolhido, de acordo com as configurações estabelecidas pelo lojista.
 

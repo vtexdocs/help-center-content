@@ -44,7 +44,7 @@ The fields available for translation differ between the two approaches:
 
 Read the developer guides on [Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) and [Translating Catalog content with Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) for more details.
 
-VTEX Intelligent Search: Multilanguage obtains all [bindings](https://developers.vtex.com/docs/guides/store-architecture) and respective languages (examples: `pt-br`, `en-GB`) configured for the store. Each binding has its own URL.
+VTEX Intelligent Search: Multilanguage obtains all locales (examples: `pt-br`, `en-GB`) configured for the store. Each locale has its own URL.
 
 If a customer chooses a language when browsing the store, it will redirect them to the URL of the desired location. After that, all Intelligent Search features will be displayed in the chosen language, according to the retailer's settings.
 
