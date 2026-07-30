@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Responsibilities within the VTEX ecosystem'
 id: 3vL9aWICDr3WR64DYi1fJ3
 status: PUBLISHED

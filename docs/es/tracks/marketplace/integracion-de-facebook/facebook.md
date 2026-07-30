@@ -15,7 +15,7 @@ trackSlugEN: integracion-de-facebook
 order: 1
 ---
 
-> ℹ️ Hay una integración con la aplicación [Facebook Business Extension y Conversions API](/es/docs/tracks/facebook-business-extension) que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la [Integración de Facebook](/es/docs/tracks/facebook), ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
+> ℹ️ Hay una integración con la aplicación [Extensión de Meta para empresas y Conversions API](/es/docs/tracks/meta-business-extension) que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la [Integración de Facebook](/es/docs/tracks/facebook), ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
 
 [Facebook](https://about.fb.com/ltam/) es la red social con el mayor número de usuarios en el mundo. Creada en 2004, es la plataforma a través de la cual más de tres mil millones de personas se conectan y comparten información todos los días.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Instalar Live Shopping'
 id: 5r4DSCZCdQUErgJzLGtiMD
 status: PUBLISHED

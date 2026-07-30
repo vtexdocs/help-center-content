@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Managing Singleton content types'
 id: VBibMN1BqV2OFmavUFCdo
 status: PUBLISHED

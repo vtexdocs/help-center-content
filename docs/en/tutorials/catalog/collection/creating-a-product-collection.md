@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to create a product collection'
 id: tutorials_244
 status: PUBLISHED

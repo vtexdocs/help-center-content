@@ -3,7 +3,7 @@ title: 'Payment was made but not found. What should I do?'
 id: 63Fz8Ma5alR43ij4ZXVOQC
 status: PUBLISHED
 createdAt: 2020-09-10T21:33:40.958Z
-updatedAt: 2021-02-22T16:31:06.428Z
+updatedAt: 2026-07-17T19:39:07.940Z
 publishedAt: 2021-02-22T16:31:06.428Z
 firstPublishedAt: 2020-09-10T21:43:10.777Z
 contentType: tutorial
@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 In this article, you will find possible reasons why your payment has not been confirmed according to which [VTEX branch](/en/docs/tutorials/names-of-vtex-branches-worldwide) the customer is invoiced by. 
 
-The payment must be identified within 48 working hours, and in case it has not been found, you must open a [ticket](https://support.vtex.com/hc/pt-br/requests) with the necessary receipts and select the option **Submit payment receipt**.  
+The payment must be identified within 48 working hours, and in case it has not been found, you must open a [ticket](https://supporticket.vtex.com/support) with the necessary receipts and select the option **Submit payment receipt**.  
 
 Possible reasons for non confirmation of payment:
 
