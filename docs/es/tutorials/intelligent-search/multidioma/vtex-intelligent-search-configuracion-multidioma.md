@@ -44,7 +44,7 @@ Los campos disponibles para traducción son diferentes entre los dos enfoques:
 
 Lea las guías para desarrolladores [Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) y [Traducción del contenido del catálogo con Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para obtener más información.
 
-A través de [Multi-Tenant API](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores), VTEX Intelligent Search Multidioma obtiene todos los lugares y respectivos idiomas (ej.: pt-br, en-GB) registrados en la tienda. Cada lugar posee una URL propia.
+VTEX Intelligent Search Multidioma obtiene todos los [bindings](https://developers.vtex.com/docs/guides/store-architecture) y respectivos idiomas (ej.: pt-br, en-GB) configurados en la tienda. Cada binding posee su propia URL.
 
 Al navegar en la tienda, cuando el cliente elige un idioma, es redirigido a la URL del lugar  deseado. Después de eso, todas las funcionalidades de Intelligent Search empiezan a funcionar en el idioma elegido, según la configuración establecida por el administrador de la tienda.
 
