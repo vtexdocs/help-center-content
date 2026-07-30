@@ -17,7 +17,7 @@ legacySlug: por-que-un-termino-buscado-no-retorna-productos-existentes
 > ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La VTEX Search (Legado) y VTEX Intelligent Search. Este artículo se refiere a la VTEX Search (Legado). Para saber más sobre el VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 
-El artículo [Cómo funciona la búsqueda de VTEX?](/es/docs/tutorials/como-funciona-la-vtex-search-legado/) demuestra las principales reglas que el algoritmo del buscador utiliza para exhibir y priorizar los productos a partir de un término buscado.
+El artículo [Cómo funciona la VTEX Search (Legado)?](/es/docs/tutorials/como-funciona-vtex-search-legado) demuestra las principales reglas que el algoritmo del buscador utiliza para exhibir y priorizar los productos a partir de un término buscado.
 
 Si su caso no se encaja en los escenarios descritos en ese artículo, probablemente es porque el término buscado que le trajo a usted hasta aquí está en la lista de palabras bloqueadas del buscador de VTEX.
 

@@ -29,6 +29,8 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
       - [Adding a download file to the article](#adding-a-download-file-to-the-article)
     - [Updating a published article](#updating-a-published-article)
     - [Localization workflow](#localization-workflow)
+      - [Placeholder for EN and ES files](#placeholder-for-en-and-es-files)
+      - [Triggering the localization task](#triggering-the-localization-task)
       - [Linking the EDU task](#linking-the-edu-task)
       - [When the automation runs](#when-the-automation-runs)
         - [Exclusions](#exclusions)
@@ -352,11 +354,12 @@ Follow the steps below to create a new article in the Help Center:
    >
 3. [Add images](#adding-images) to the article, if necessary.
 4. Fill in the [front matter](#filling-in-front-matter-information) of the article.
-5. Submit your PR for review on GitHub.
-6. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
-7. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
-8. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-images) to insert them into the EN and ES versions.
-9. Approve the PR and apply the merge to publish the article.
+5. Create placeholder files for the EN and ES versions in their respective locale folders. Each placeholder should contain only the front matter (no body content) — this signals to the Localization team which files need to be translated and where to upload the translations.
+6. Submit your PR for review on GitHub.
+7. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
+8. After review, add the appropriate `localization needed` label to trigger the localization workflow. See [Localization workflow](#localization-workflow) for details.
+9. Once the translations are complete, check the contents of the files updated by the localization team in the EN and ES folders. If the article in the PT version contains images, repeat this [procedure](#adding-images) to insert them into the EN and ES versions.
+10. Approve the PR and apply the merge to publish the article.
 
 > ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository is synched to the `helpcenter` repository, so new articles are automatically updated in the Help Center portal's navigation sidebar.
 
@@ -425,13 +428,22 @@ To update the content of an article that is already published on the Help Center
 
 1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
 2. Access and update the **PT version** of the desired file in the repository.
-3. Access and update the files in the EN and ES versions with the same information (in Portuguese) inserted in the PT file.
+3. In the corresponding EN and ES files, update the `updatedAt` field to match the date set in the PT version. This acts as a placeholder that signals to the Localization team which files need to be translated. See [an example of this pattern](https://github.com/vtexdocs/help-center-content/pull/865/changes).
 4. Submit your PR for review.
-5. Register the PR link in the `Document Link` field of the JIRA task and request the translation of the content (EN and ES versions), moving the card status to `Translating`.
+5. Add the appropriate `localization needed` label to trigger the localization workflow. See [Localization workflow](#localization-workflow) for details.
 6. After the translation is complete, check the content translated by the localization team in the EN and ES version files.
 7. Approve the PR and apply the merge to publish the article.
 
 ### Localization workflow
+
+#### Placeholder for EN and ES files
+
+For both new articles and updates to existing ones, you must add a placeholder for the EN and ES files before opening a PR. This tells the Localization team exactly which files need to be translated and where to upload the translations.
+
+- **New articles**: create the EN and ES files with only the front matter (no body content).
+- **Updates to existing articles**: update the `updatedAt` field in the EN and ES files to match the date set in the PT version. See [an example of this pattern](https://github.com/vtexdocs/help-center-content/pull/865/changes).
+
+#### Triggering the localization task
 
 A GitHub Actions workflow automatically opens a Localization JIRA task when a PR is labeled `localization needed`.
 When a PR is ready for localization, add **one** of these labels:

@@ -12,7 +12,7 @@ slugEN: add-on-products
 locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live
-order: 4
+order: 5
 ---
 
 Add-on products are solutions offered by VTEX to meet the specific business needs. They can be purchased separately through a subscription agreement.
@@ -30,15 +30,11 @@ VTEX Live Shopping allows creating online broadcasts for live demos of store pro
 
 ![live-shopping-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_2.JPG)
 
-To schedule an app demo with an expert, go to the [VTEX Live Shopping](https://vtex.com/us-en/live-shopping/#contact) page.
-
 ## VTEX Personal Shopper
 
 VTEX Personal Shopper allows offering a direct, personalized service between the customer and the sales associate, bringing the physical store shopping experience to the digital environment. The sales associate can show products, make recommendations, and answer customers' questions through this app. They can also add items to the shopping cart during a video call.
 
 ![personal-shopper-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_3.JPG)
-
-To schedule an app demo with an expert, go to the [VTEX Personal Shopper](https://vtex.com/us-en/vtex-personal-shopper/#contact) page.
 
 ## VTEX Pick and Pack
 
@@ -67,8 +63,6 @@ With [VTEX Sales App](/en/docs/tracks/vtex-sales-app-basic-settings), sales asso
 
  ![sales-app-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_5.JPG)
 
-To watch an app demo or schedule a custom service with an expert, go to the[ VTEX Sales App](https://assets.vtex.com/sales-app/) page.
-
 ## VTEX Shipping Network
 
 > ⚠️ VTEX Shipping Network and VTEX Shipping Network Correios solutions are exclusive to Brazil.
@@ -79,7 +73,7 @@ Explore options for shipping products to all regions of Brazil with [VTEX Shippi
 
 ![shipping-network-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_6.png)
 
-Learn more on the [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) page.
+Learn more on the [VTEX Shipping Network](/en/docs/tutorials/ready-to-dispatch) page.
 
 ## VTEX Shipping Network Correios
 
@@ -94,14 +88,13 @@ Requesting this solution is simple and can be done in a few minutes. To do so, a
 - Shipping labels available to be printed via the VTEX Admin ([Ready to Dispatch](/en/docs/tutorials/ready-to-dispatch) module) or via [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) for integration with external systems (e.g., ERP, WMS).
 - Direct communication channel with Correios in the Admin through the [Information request](/en/docs/tutorials/deliveries-progress-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios).
 
-Learn more on the [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) page.
+Learn more on the [VTEX Shipping Network Correios](/en/docs/tutorials/vtex-shipping-network-correios-faq) page.
 
 ## VTEX Shield
 
-[VTEX Shield](/en/docs/tutorials/vtex-shield) offers additional, customizable protection layers for stores that prioritize platform resilience and the security standards guaranteed by VTEX's existing security [certifications and practices](https://vtex.com/br-pt/security/security-practices/).
+[VTEX Shield](/en/docs/tutorials/vtex-shield) offers additional, customizable protection layers for stores that prioritize platform resilience and the security standards guaranteed by VTEX's existing security [certifications and practices](https://compliance.vtex.com/).
 
 When requesting VTEX Shield, you can choose from the following features:
 
 * [Security Monitor](/en/docs/tutorials/vtex-shield#security-monitor)
 * [Web Application Firewall (WAF)](/en/docs/tutorials/vtex-shield#web-application-firewall-waf)
-
