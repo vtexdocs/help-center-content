@@ -1,23 +1,16 @@
 ---
-title: 'Visão geral VTEX CX Platform'
-id: 7qzaFp6xA3APSiaLNvj6C4
-status: PUBLISHED
+title: 'Visão geral do VTEX CX Platform'
 createdAt: 2026-03-31T15:33:34.931Z
-updatedAt: 2026-03-31T14:21:49.664Z
-publishedAt: 2026-03-31T14:21:49.664Z
-firstPublishedAt: 2026-10-31T14:21:49.664Z
+updatedAt: 2026-07-30T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: vtex-cx-platform-overview
-legacySlug: visao-geral-weni-by-vtex
 locale: pt
-subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-O VTEX CX Platform é uma ferramenta de criação de chatbots inteligentes. Com ele, você pode criar toda interação que os agentes de inteligência artifical (IA) terão com seus usuários.
+O VTEX CX Platform é uma ferramenta de criação de chatbots inteligentes. Com ele, você pode criar todas as interações que os agentes de inteligência artificial (IA) terão com seus usuários.
 
-Criamos este tutorial para ajudar você a navegar pela plataforma. Este artigo está dividido nas seguintes seções:
+Este tutorial ajuda você a navegar pela plataforma e está dividido nas seguintes seções:
 
 - [Cadastro e login](#cadastro-e-login)
 - [Perfil](#perfil)
@@ -25,177 +18,192 @@ Criamos este tutorial para ajudar você a navegar pela plataforma. Este artigo e
 - [Criação de projeto](#criação-de-projeto)
 - [Alteração do idioma da plataforma](#alteração-do-idioma-da-plataforma)
 - [Autenticação de dois fatores](#autenticação-de-dois-fatores)
+- [Solicitação de autenticação na organização](#solicitação-de-autenticação-na-organização)
 
 ## Cadastro e login
 
-Ao acessar a plataforma, você verá uma tela semelhante a esta
+Ao acessar a plataforma, você pode fazer login em uma conta existente ou criar um cadastro gratuito.
 
-Nela teremos um botão para login (1), e um campo para cadastro grátis (2).
+Para fazer login em uma conta existente, siga os passos abaixo:
 
-1) Caso você já tenha uma conta cadastrada basta adicionar seu email (x), sua senha (x) e clicar no botão "entrar". Se você tiver esquecido sua senha, basta clicar em "esqueceu a senha?" e um email será enviado para que você possa redefinir sua senha.
+1. Insira seu email e sua senha.
+2. Clique em `Entrar`.
 
-2) Se você nunca se cadastrou no VTEX CX Platform, clique no botão Cadastre-se grátis ou escolha o provedor do seu email, você será redirecionado para a seguinte página:
+> ℹ️ Caso tenha esquecido sua senha, clique em `Esqueceu a senha?` para receber um email de redefinição.
 
-- Preencha com seu email
-- Crie uma senha
+Para criar um cadastro gratuito, siga os passos abaixo:
 
-Se realizou o passo anterior ou recebeu um convite para uma Organização, mas não possui cadastro na Plataforma, a seguinte tela se abrirá e deverá preencher conforme os campos.
+1. Clique em `Cadastre-se grátis` ou selecione o provedor do seu email.
+2. Insira seu email.
+3. Crie uma senha.
 
-Após preencher os campos clique em avançar.
+Se você concluiu o cadastro ou recebeu um convite para uma organização, mas ainda não tem cadastro na plataforma, preencha os campos exibidos na tela e clique em `Avançar`.
 
-### Preenchendo os dados de organização e projeto
+### Preencher os dados de organização e projeto
 
-> ℹ️ Se a sua Organização já existe e você está sendo convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na Plataforma. Não é necessário utilizar os nomes reais da empresa.
+> ℹ️ Se a sua organização já existe e você foi convidado para ela, preencha os campos com nomes fictícios apenas para se registrar na plataforma. Não é necessário usar os nomes reais da empresa.
 
-Após preencher os campos clique em avançar.
+Após preencher os campos, clique em `Avançar`.
 
-Escolha entre criar **um agente personalizado** ou **usar um template.** Para começar sua experiência criando um agente personalizado basta preencher os campos:
+Em seguida, escolha entre criar um agente personalizado ou usar um template.
 
-1. Nome do agente;
-2. Objetivo;
-3. Conteúdo (Opcional). Esse conteúdo também poderá ser implementado em outra fase.
+Para criar um agente personalizado, preencha os campos abaixo:
 
-> ℹ️ **Defina claramente o objetivo principal do seu agente ao interagir com os clientes.** Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orientará as conversas de forma direta e assertiva.
+1. **Nome do agente**
+2. **Objetivo**
+3. **Conteúdo** (Opcional). Este conteúdo também pode ser adicionado em outra fase.
 
-> ℹ️ **Adicionando uma base de conteúdo,** você capacita seu agente inteligente a responder eficazmente aos usuários. Importe informações essenciais facilmente arrastando e soltando arquivos, com o texto sendo automaticamente integrado. Além disso, você pode adicionar conteúdos diretamente de sites ou copiar e colar o que desejar na base.
+> ℹ️ Defina claramente o objetivo principal do seu agente ao interagir com os clientes. Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orienta as conversas de forma direta e assertiva.
 
-Os **templates são fluxos prontos** com finalidades específicas, eles são divididos em três categorias: suporte, integrações e vendas. Ao clicar em alguns dos cards referentes à categoria de template você irá visualizar um pop-up que detalha seu uso de forma geral.
+> ℹ️ Ao adicionar uma base de conteúdo, você capacita seu agente inteligente a responder aos usuários com mais eficácia. Importe informações essenciais arrastando e soltando arquivos, com o texto integrado automaticamente. Você também pode adicionar conteúdos de sites ou copiar e colar o que desejar na base.
 
-> ℹ️ Se optar por escolher um dos templates, clique na aba e escolha um dentre os que temos à disposição.
+Os templates são fluxos prontos com finalidades específicas, divididos em três categorias: suporte, integrações e vendas. Ao clicar em um dos cards de uma categoria, você visualiza um pop-up que detalha o uso do template.
 
-Clique em concluir para seguir adiante.
+> ℹ️ Se optar por um template, clique na aba correspondente e escolha um dos templates disponíveis.
+
+Clique em `Concluir` para seguir adiante.
 
 ## Perfil
 
-A seção Perfil permite que você gerencie sua conta e visualize todas as suas inteligências.
+A seção **Perfil** permite gerenciar sua conta e visualizar todas as suas inteligências.
 
 ### Editar perfil
 
-Para acessar a página de Perfil, vá para a página inicial e clique no ícone do lado superior direito da tela.
+Para editar seu perfil, siga os passos abaixo:
 
-Clicando no ícone à esquerda clique em Seu perfil, nessa sessão pode editar seu nome, sobrenome e o contato da sua conta, além de poder, trocar a senha, caso necessário. Poderá também colocar uma imagem para o seu perfil. Digite as alterações e clique em salvar alterações que as informações serão atualizadas.
+1. Na página inicial, clique no ícone da sua conta.
+2. Clique em `Seu perfil`.
+3. Edite as informações desejadas, como nome, sobrenome, contato e imagem de perfil. Se necessário, você também pode trocar a senha.
+4. Clique em `Salvar alterações`.
 
 ### Trocar senha
 
 Para trocar a senha da sua conta no VTEX CX Platform, siga os passos abaixo:
 
-1. Acesse a página de Perfil
-2. Clique em Nova senha
-3. Digite sua nova senha, depois confirme.
+1. Acesse a página **Perfil**.
+2. Clique em `Nova senha`.
+3. Digite a nova senha e confirme.
+4. Clique em `Salvar alterações`.
 
 ### Resetar senha
 
 Para resetar sua senha, siga os passos abaixo:
 
-1. Acesse página inicial > Esqueci a senha.
+1. Na página inicial, clique em `Esqueci a senha`.
 2. Digite seu email.
-3. Você receberá um email com um link. Clique nesse link e preencha sua nova senha.
-4. Clique em `Confirmar`.
+3. Acesse o email recebido e clique no link de redefinição.
+4. Digite sua nova senha.
+5. Clique em `Confirmar`.
 
 ## Sistema de permissões
 
-Dentro do VTEX CX Platform você é capaz de gerenciar diferentes permissões para cada usuário, divididas em dois grupos:
+No VTEX CX Platform, você pode gerenciar diferentes permissões para cada usuário, divididas em dois grupos:
 
 - [Permissões da organização](#permissões-da-organização)
 - [Permissões do projeto](#permissões-do-projeto)
 
 ### Permissões da organização
 
-Essas permissões podem ser adicionadas na etapa de criação da ORG ou a qualquer momento pelo ícone localizado no canto superior direito dentro da ORG. **As permissões da ORG se aplicarão a todos os projetos dentro dela.**
+Essas permissões podem ser adicionadas na etapa de criação da organização ou a qualquer momento pelo ícone de configurações da organização. **As permissões da organização se aplicam a todos os projetos dentro dela.**
 
-Atualmente, existem 3 tipos de permissões:
+Atualmente, existem três tipos de permissões:
 
-- **Administrador:** Possui acesso completo à plataforma e tem permissão para adicionar novos membros.
-- **Financeiro:** Possui acesso somente à área de faturamento.
-- **Contribuidor:** Permissão para criar novos projetos e editar conteúdo.
+- **Administrador:** possui acesso completo à plataforma e pode adicionar novos membros.
+- **Financeiro:** possui acesso somente à área de faturamento.
+- **Contribuidor:** pode criar novos projetos e editar conteúdo.
 
 ### Permissões do projeto
 
-Também é possível adicionar permissão somente a um projeto específico e não necessariamente a ORG inteira. Para acessar as opções, basta clicar na opção "**gerenciar membros**" localizada na parte superior direita do projeto específico:
+Também é possível adicionar permissões a um projeto específico, e não necessariamente à organização inteira. Para acessar as opções, clique em `Gerenciar membros` no projeto desejado.
 
-Uma nova tela se abrirá, mostrando todos os colaboradores do projeto. Aqui você pode adicionar, remover e alterar permissões individualmente de todos os membros do projeto.
+Uma nova tela é exibida com todos os colaboradores do projeto. Nela, você pode adicionar, remover e alterar as permissões de cada membro do projeto individualmente.
 
-No total temos 4 permissões, divididas em 2 grupos:
+No total, são quatro permissões, divididas em dois grupos:
 
-#### Permissões Gerais do Projeto
+#### Permissões gerais do projeto
 
-- **Moderador:** Gerencia membros do projeto e administra o projeto.
-- **Contribuidor:** Consegue editar o projeto
-- **Visualizador:** Consegue apenas visualizar o projeto
+- **Moderador:** gerencia os membros e administra o projeto.
+- **Contribuidor:** edita o projeto.
+- **Visualizador:** apenas visualiza o projeto.
 
 #### Permissões do Live Desk
 
-- **Live Desk:** Realiza atendimentos no Live Desk
+- **Live Desk:** realiza atendimentos no Live Desk.
 
 ## Criação de projeto
 
-Na etapa de cadastro e login, você já criou sua primeira organização e projeto. Para criar uma nova organização, basta clicar em `Adicionar Organização`.
+Na etapa de cadastro e login, você criou sua primeira organização e seu primeiro projeto. Para criar uma nova organização, clique em `Adicionar organização`.
 
-Nessa etapa, você deve inserir as seguintes informações:
+Nessa etapa, insira as seguintes informações:
 
-1. Nome da Organização: Esse será o nome que aparecerá na tela inicial.
-2. Descrição: Uma breve descrição da sua equipe e atividades.
-3. Nome do projeto: O nome que você atribuirá ao seu projeto para diferenciá-lo e organizá-lo.
+1. **Nome da organização:** nome que aparece na tela inicial.
+2. **Descrição:** breve descrição da sua equipe e das suas atividades.
+3. **Nome do projeto:** nome que diferencia e organiza o seu projeto.
 
-Após preencher os campos acima, clique em `Avançar` e siga para próxima etapa para criação do seu projeto. Você pode escolher entre criar um agente personalizado ou usar um template.
+Após preencher os campos, clique em `Avançar` para criar o seu projeto. Você pode escolher entre criar um agente personalizado ou usar um template.
 
-Para começar criando um agente, preencha os campos abaixo:
+Para criar um agente personalizado, preencha os campos abaixo:
 
-1. Nome do agente.
-2. Objetivo.
-3. Conteúdo (Opcional).
+1. **Nome do agente**
+2. **Objetivo**
+3. **Conteúdo** (Opcional)
 
-Defina claramente o objetivo principal do seu agente ao interagir com os clientes. Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orientará as conversas de forma direta e assertiva.
+> ℹ️ Defina claramente o objetivo principal do seu agente ao interagir com os clientes. Por exemplo: "Auxiliar os clientes a encontrar produtos adequados às suas necessidades" ou "Fornecer suporte técnico". Isso orienta as conversas de forma direta e assertiva.
 
-Adicionando uma base de conteúdo, você capacita seu agente inteligente a responder eficazmente aos usuários. Importe informações essenciais facilmente arrastando e soltando arquivos, com o texto sendo automaticamente integrado. Além disso, você pode adicionar conteúdos diretamente de sites ou copiar e colar o que desejar na base.
+> ℹ️ Ao adicionar uma base de conteúdo, você capacita seu agente inteligente a responder aos usuários com mais eficácia. Importe informações essenciais arrastando e soltando arquivos, com o texto integrado automaticamente. Você também pode adicionar conteúdos de sites ou copiar e colar o que desejar na base.
 
-Os templates são fluxos prontoscom finalidades específicas, eles são divididos em três categorias: suporte, integrações e vendas. Ao clicar em alguns dos cards referentes à categoria de template você irá visualizar um pop-up que detalha seu uso de forma geral.
+Os templates são fluxos prontos com finalidades específicas, divididos em três categorias: suporte, integrações e vendas. Ao clicar em um dos cards de uma categoria, você visualiza um pop-up que detalha o uso do template.
 
-Escolha entre criar um agente personalizada ou criar um template para concluir a última etapa do seu projeto. A Dóris irá aparecer na sua tela, sinalizando que seu projeto foi criado com sucesso.
+Após criar um agente personalizado ou escolher um template, a última etapa do projeto é concluída. A Dóris aparece na tela sinalizando que o seu projeto foi criado com sucesso.
 
-Após seguir os passos para criação de organização e projeto você pode começar incluir sua equipe configurando as permissões.
+Depois de criar a organização e o projeto, inclua a sua equipe configurando as permissões. As pessoas adicionadas à organização terão acesso a todos os projetos criados dentro dela. Para saber mais, consulte a seção [Sistema de permissões](#sistema-de-permissões).
 
-As pessoas adicionadas a Org terão acesso a todos os projetos criados dentro dela.
+Para adicionar membros à sua organização, siga os passos abaixo:
 
-Para saber mais sobre o sistema de permissões, veja a seção de [Permissões](#sistema-de-permissões).
+1. Clique no menu suspenso e depois em `Gerenciar membros`.
+2. Insira o email da pessoa que deseja convidar.
+3. Escolha a permissão.
+4. Clique em `Adicionar`.
 
-Adicione membros a sua organização clicando no menu dropdown e depois em Gerenciar membros.
-
-Insira o e-mail da pessoa que deseja convidar, escolha a Permissão(2) e clique em Adicionar (3).
-
-Os membros que forem adicionados receberão um e-mail de convite para entrar na organização.
+Os membros adicionados recebem um email de convite para entrar na organização.
 
 ## Alteração do idioma da plataforma
 
 Para alterar o idioma, siga os passos abaixo:
 
-1. Clique no botão de com seu nome de usuário do lado superior direito na tela.
-2. Escolha entre as opções de idioma: EN (inglês), PT-BR (português brasileiro) e ES (espanhol).
+1. Clique no seu nome de usuário.
+2. Escolha uma das opções de idioma: **EN** (inglês), **PT-BR** (português brasileiro) ou **ES** (espanhol).
 
-> ℹ️ Talvez seja necessário reiniciar o navegador ou sair e entrar novamente no sistema.
+> ℹ️ Pode ser necessário reiniciar o navegador ou sair e entrar novamente na plataforma.
 
 ## Autenticação de dois fatores
 
 Para habilitar a autenticação de dois fatores na sua conta, siga os passos abaixo:
 
-1. Clique no seu nome de usuário, no canto superior direito.
-2. Em seguida, clique em `Perfil`.
-3. Selecione a seção de **Privacidade e segurança**.
+1. Clique no seu nome de usuário.
+2. Clique em `Perfil`.
+3. Selecione a seção **Privacidade e segurança**.
 4. Ative o botão `Habilitar autenticação`.
 5. Clique em `Salvar alterações`.
 
-Após salvar a autenticação, você será deslogado da plataforma automaticamente.
+Após salvar, você é deslogado da plataforma automaticamente.
 
-Ao tentar realizar o login novamente, será solicitado que você siga os seguintes passos:
+Ao fazer login novamente, siga os passos abaixo:
 
-- Abrir o aplicativo e escaneie o código QR code mostrado na tela.
-- Digitar o código de uso único fornecido pelo aplicativo.
-- Salvar para concluir a configuração da autenticação.
+1. Abra o aplicativo autenticador e escaneie o QR code exibido na tela.
+2. Digite o código de uso único fornecido pelo aplicativo.
+3. Clique em `Salvar` para concluir a configuração.
 
-O login precisará do código de verificação mostrado no aplicativo da Microsoft Authenticator.
+> ℹ️ A partir de então, o login exigirá o código de verificação exibido no seu aplicativo autenticador (por exemplo, o Microsoft Authenticator).
 
-## Solicitar autenticação em sua organização
+## Solicitação de autenticação na organização
 
-Para que os projetos e dados da sua organização tenham uma camada a mais de segurança, você pode habilitar para que somente usuários que possuem a Autenticação de Dois Fatores habilitada entrem na org. Para isso, clique no ícone localizado no canto direito no card da organização e selecione a opção ""configurações"".
+Para adicionar uma camada extra de segurança aos projetos e dados da sua organização, você pode permitir que apenas usuários com a autenticação de dois fatores habilitada entrem na organização.
 
-Dentro de configurações, clique na aba **Segurança**, habilite a autenticação e salve.
+Para solicitar a autenticação de dois fatores na organização, siga os passos abaixo:
+
+1. Clique no ícone de configurações no card da organização.
+2. Selecione a opção `Configurações`.
+3. Clique na aba **Segurança**.
+4. Habilite a autenticação.
+5. Clique em `Salvar`.
