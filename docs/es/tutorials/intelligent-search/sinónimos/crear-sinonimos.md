@@ -33,13 +33,13 @@ Siga el proceso paso a paso para configurar sinónimos individualmente en VTEX A
 3. Rellene los campos referentes al sinónimo:
    - __Tipo:__ define el tipo de sinónimo. Consulte [Tipos de sinónimos](/es/docs/tutorials/sinonimos#tipos-de-sinonimos) para obtener más información.
    - __Términos:__ palabras o expresiones que se definirán como sinónimos. Debe pulsar `Enter` después de cada término para insertar otro término.
-   - **Idiomas:** idiomas en los que se aplicará el sinónimo. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta).
+   - **Idiomas:** idiomas en los que se aplicará el sinónimo. Campo solo disponible para tiendas que utilizan [configuración multidioma](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma).
    - __Status:__ define si el sinónimo estará activo o inactivo.
 4. Para terminar, haga clic en `Publicar`.
 
 La alteración puede tardar hasta dos horas en aplicarse.
 
-> ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta#sinonimos) para saber más.
+> ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma#sinonimos) para saber más.
 
 ## Importar CSV
 
@@ -87,9 +87,9 @@ Resultado en el Admin VTEX:
 
 ![sinonimos-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sinónimos/crear-sinonimos_1.png)
 
-#### Tiendas multidioma (Beta)
+#### Tiendas multidioma
 
-Tiendas que utilizan configuración multidioma (beta) deben seguir la siguiente plantilla para importar Sinónimos para idiomas específicos.
+Tiendas que utilizan configuración multidioma deben seguir la siguiente plantilla para importar Sinónimos para idiomas específicos.
 
 - __Unidireccional__: `{términos separados por una coma};{término equivalente};{status};{locales separados por coma}`.
 

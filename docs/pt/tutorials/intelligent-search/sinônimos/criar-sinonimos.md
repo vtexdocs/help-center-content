@@ -33,13 +33,13 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 4. Preencha os campos referentes ao sinônimo:
    - __Tipo:__ define o tipo de sinônimo. Confira [Tipos de sinônimos](/pt/docs/tutorials/sinonimos#tipos-de-sinonimos) para mais informações.
    - __Termos:__ palavras ou expressões a serem definidas como sinônimos. É necessário teclar `Enter` após cada termo para inserir um outro termo.
-   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
+   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma).
    - __Status:__ define se o sinônimo estará ativo ou inativo.
 5. Para finalizar, clique em `Salvar`.
 
 A alteração pode demorar até duas horas para ser aplicada.
 
-> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta#sinonimos) para saber mais.
+> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma#sinonimos) para saber mais.
 
 ## Importar CSV
 
@@ -89,9 +89,9 @@ Resultado no Admin VTEX:
 
 ![sinonimos-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/sinônimos/criar-sinonimos_1.png)
 
-#### Lojas Multi-idioma (Beta)
+#### Lojas Multi-idioma
 
-Lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
+Lojas que utilizam [Configurações Multi-idioma](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
 
 - __Unidirecional__: `{termos separados por vírgula};{termo equivalente};{status};{locales separados por vírgula}`
 

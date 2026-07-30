@@ -1,5 +1,5 @@
 ---
-title: 'VTEX Intelligent Search: Multilanguage settings (Beta)'
+title: 'VTEX Intelligent Search: Multilanguage settings'
 id: 2WahlTESLXIJ9XBdQMdTYO
 status: PUBLISHED
 createdAt: 2021-03-09T22:44:16.513Z
@@ -9,13 +9,11 @@ firstPublishedAt: 2021-03-10T21:13:35.816Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: vtex-intelligent-search-multilanguage-settings-beta
+slugEN: vtex-intelligent-search-multilanguage-settings
 legacySlug: vtex-intelligent-search-multilanguage-settings-beta
 locale: en
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
-
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
 [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) is an intelligent search application for ecommerce that is available for stores created with [VTEX IO](https://developers.vtex.com/docs/guides/store-framework). To install and configure VTEX Intelligent Search in your store, read our [Search article](https://developers.vtex.com/docs/guides/search-overview). The tool displays search and product suggestions that may interest the user, corrects spelling errors, and understands related words that are not included in the product information.
 
@@ -39,7 +37,7 @@ VTEX Intelligent Search: Multilanguage allows you to customize the search experi
 ### Merchandising rules
 After installing the VTEX Intelligent Search: Multilanguage, the page for creating or editing Merchandising Rules — available on VTEX Admin through __Storefront__ > __Intelligent Search__ > __Merchandising rules__ —  will contain the additional __Locales__ field, which allows you to choose the locales to which the Merchandising Rules will apply, as shown in the image below.
 
-![img regrasmerch intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_1.png)
+![img regrasmerch intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/multilanguage/vtex-intelligent-search-multilanguage-settings_1.png)
 
 To learn more about this field, read our article on [how to configure Merchandising rules in VTEX Intelligent Search](/en/docs/tutorials/creating-merchandising-rules-manual-editor).
 
@@ -51,7 +49,7 @@ You can configure Synonyms for a multi-language store in the Admin by filling ou
 #### Creating Synonyms via form
 After installing the VTEX Intelligent Search: Multilanguage, the page for creating or editing Synonyms (available through — available on VTEX Admin through __Storefront__ > __Intelligent Search__ > __Synonyms__ —  will contain the additional __Locales__ field, which allows you to choose the locales to which the Synonyms will apply, as illustrated in the image below. Click on the languages you want to select.
 
-![img sinonimos intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_2.png)
+![img sinonimos intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/multilanguage/vtex-intelligent-search-multilanguage-settings_2.png)
 
 To learn more about this field, read our article on [how to configure Synonyms in VTEX Intelligent Search](/en/docs/tutorials/creating-synonyms).
 
@@ -73,7 +71,7 @@ To learn more about importing Synonyms spreadsheets, read our article on [how to
 
 After installing the VTEX Intelligent Search: Multilanguage, the page for creating or editing Redirects — available on VTEX Admin through __Storefront__ > __Intelligent Search__ > __Redirects__ —  will contain the additional __Locales__ field, which allows you to choose which locales the Redirects will apply to, as illustrated in the image below. Click on the languages you want to select.
 
-![img redirecionamentos intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_3.png)
+![img redirecionamentos intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/multilanguage/vtex-intelligent-search-multilanguage-settings_3.png)
 
 To learn more about this field, read our article on [how to configure Redirects in VTEX Intelligent Search](/en/docs/tutorials/configuring-redirects).
 
@@ -81,6 +79,6 @@ To learn more about this field, read our article on [how to configure Redirects 
 
 After installing the VTEX Intelligent Search: Multilanguage, the page for creating or editing Banners — available on VTEX Admin through __Storefront__ > __Banners__ —  will contain the additional __Locales__ field, which allows you to choose which locales the Banners will apply to, as illustrated in the image below. Click on the languages you want to select.
 
-![img banner intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_4.png)
+![img banner intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/multilanguage/vtex-intelligent-search-multilanguage-settings_4.png)
 
 To learn more about this field, read our article on [how to configure Banners in VTEX Intelligent Search](/en/docs/tutorials/configuring-banners).

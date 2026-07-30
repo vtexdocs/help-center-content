@@ -33,13 +33,13 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 4. Fill in the fields that correspond to the synonym:
    - __Type:__ defines the type of synonym. Check [Types of synonyms](/en/docs/tutorials/synonyms#types-of-synonyms) for more information.
    - __Terms:__ words or expressions to be defined as synonyms. You must press `Enter` after each term to insert another term.
-   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
+   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings).
    - __Status:__ defines whether the synonym will be active or inactive.
 5. To finish, click on `Save`.
 
 Changes can take up to two hours to take effect.
 
-> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta#synonyms)to learn more.
+> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings#synonyms)to learn more.
 
 ## Importing CSV spreadsheet
 
@@ -89,9 +89,9 @@ Result in the VTEX Admin:
 
 ![sinonimos-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/synonyms/creating-synonyms_1.png)
 
-#### Multilanguage stores (Beta)
+#### Multilanguage stores
 
-Stores using  [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta) must follow the template below to import synonyms for specific locales.
+Stores using  [Multilanguage settings](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings) must follow the template below to import synonyms for specific locales.
 
 - __Unidirectional__: `{terms separated by comma};{equivalent term};{status};{locales separated by comma}`
 
