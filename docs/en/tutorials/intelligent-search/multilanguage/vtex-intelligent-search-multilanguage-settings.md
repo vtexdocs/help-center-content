@@ -23,14 +23,14 @@ VTEX Intelligent Search: Multilanguage expands [Intelligent Search’s](/en/docs
 
 After installing VTEX Intelligent Search: Multilanguage, your Catalog's information must be translated so it can be displayed in each locale configured for the store. There are two approaches for managing catalog translations:
 
-- **[Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide)** (recommended): the latest solution, using dedicated REST endpoints.
+- **[Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide)** (recommended): the latest solution, using dedicated REST endpoints.
 - **[Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization)** (legacy): a GraphQL-based approach using the `catalog-graphql` app.
 
-> ⚠️ These two approaches are mutually exclusive. Once Catalog Multi-Language is activated for your account, you can no longer manage catalog translations through Messages (GraphQL).
+> ⚠️ These two approaches are mutually exclusive. Once Catalog multi-language is activated for your account, you can no longer manage catalog translations through Messages (GraphQL).
 
 The fields available for translation differ between the two approaches:
 
-| Entity | Catalog Multi-Language fields | Messages (legacy) fields |
+| Entity | Catalog multi-language fields | Messages (legacy) fields |
 | --- | --- | --- |
 | Products | Name, Title, Description, MetaTagDescription, DescriptionShort, Keywords, LinkId | Name, keywords, page title, description, short description, meta tag description, URL slug (cross-border stores only) |
 | Categories | Name, Title, Description, Keywords, LinkId | Name, keywords, page title, meta tag description, URL slug (cross-border stores only) |
@@ -42,7 +42,7 @@ The fields available for translation differ between the two approaches:
 | Collections | Name, Description, LinkId | Not supported |
 | Services | Name, Text | Not supported |
 
-Read the developer guides on [Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) and [Translating Catalog content with Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) for more details.
+Read the developer guides on [Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) and [Translating Catalog content with Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) for more details.
 
 VTEX Intelligent Search: Multilanguage obtains all locations and respective languages (examples: `pt-br`, `en-GB`) configured for the store. Each location has its own URL.
 

@@ -23,14 +23,14 @@ VTEX Intelligent Search Multidioma expande las funcionalidades de [Intelligent S
 
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la información del Catálogo de su tienda necesita ser traducida para poder mostrarse en cada idioma configurado en la tienda. Existen dos formas de gestionar las traducciones del Catálogo:
 
-- **[Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide)** (recomendado): la solución más reciente, que utiliza endpoints REST dedicados.
+- **[Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide)** (recomendado): la solución más reciente, que utiliza endpoints REST dedicados.
 - **[Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization)** (legado): un enfoque basado en GraphQL que utiliza la aplicación `catalog-graphql`.
 
-> ⚠️ Estos dos enfoques son mutuamente excluyentes. Una vez que Catalog Multi-Language se active en su cuenta, ya no podrá gestionar las traducciones del Catálogo mediante Messages (GraphQL).
+> ⚠️ Estos dos enfoques son mutuamente excluyentes. Una vez que Catalog multi-language se active en su cuenta, ya no podrá gestionar las traducciones del Catálogo mediante Messages (GraphQL).
 
 Los campos disponibles para traducción son diferentes entre los dos enfoques:
 
-| Entidad | Campos en Catalog Multi-Language | Campos en Messages (legado) |
+| Entidad | Campos en Catalog multi-language | Campos en Messages (legado) |
 | --- | --- | --- |
 | Productos | Name, Title, Description, MetaTagDescription, DescriptionShort, Keywords, LinkId | Nombre, palabras clave, título de la página, descripción, descripción corta, meta tag description, URL slug (solo tiendas cross-border) |
 | Categorías | Name, Title, Description, Keywords, LinkId | Nombre, palabras clave, título de la página, meta tag description, URL slug (solo tiendas cross-border) |
@@ -42,7 +42,7 @@ Los campos disponibles para traducción son diferentes entre los dos enfoques:
 | Colecciones | Name, Description, LinkId | No es compatible |
 | Servicios | Name, Text | No es compatible |
 
-Lea las guías para desarrolladores [Catalog Multi-Language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) y [Traducción del contenido del catálogo con Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para obtener más información.
+Lea las guías para desarrolladores [Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) y [Traducción del contenido del catálogo con Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para obtener más información.
 
 VTEX Intelligent Search Multidioma obtiene todos los lugares y respectivos idiomas (ej.: pt-br, en-GB) configurados en la tienda. Cada lugar posee su propia URL.
 
