@@ -1,12 +1,12 @@
 ---
 title: 'New order configuration experience in the VTEX Admin'
-slug: '2026-07-21-new-orders-configuration-experience'
+slug: '2026-07-21-new-order-configuration-experience-in-the-vtex-admin'
 hidden: false
 createdAt: 2026-07-21T13:00:00.000Z
-updatedAt: 2026-07-21T13:00:00.000Z
+updatedAt: 2026-07-30T13:00:00.000Z
 contentType: updates
 productTeam: Orders
-slugEN: 2026-07-21-new-orders-configuration-experience-inside-vtex-admin
+slugEN: 2026-07-21-new-order-configuration-experience-in-the-vtex-admin
 locale: en
 announcementSynopsisEN: 'The order and checkout configurations page is now an independent, faster experience in the VTEX admin.'
 tags:
