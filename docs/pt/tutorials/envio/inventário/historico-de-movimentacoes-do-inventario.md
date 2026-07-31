@@ -32,8 +32,6 @@ Para visualizar as movimentações de um SKU:
   * A quantidade de itens antes da atualização.
   * A quantidade de itens após a atualização.
 
-> ⚠️ Só é possível consultar as últimas 50 movimentações no registro de atualizações de um determinado SKU.
-
 > ℹ️ O registro de atualizações exibe as movimentações dos últimos 90 dias (3 meses), respeitando o limite de 50 movimentações por SKU. Movimentações anteriores a esse período não ficam disponíveis para consulta.
 
 A quantidade total de itens na página [Gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) é atualizada em tempo real, mas pode haver um atraso de até 1 hora para a informação aparecer no registro de atualizações.
