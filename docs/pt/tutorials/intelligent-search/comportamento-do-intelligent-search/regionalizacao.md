@@ -32,7 +32,7 @@ Para começar a utilizar a Regionalização, você precisa seguir as etapas abai
   - [Seller White Label](#seller-white-label)
   - [Seller Abrangente](#seller-abrangente)
 - [2. Solicitação para ativar a Regionalização](#2-solicitação-para-ativar-a-regionalização)
-  - [3. Configuração no VTEX IO](#3-configuração-no-vtex-io)
+- [3. Configuração no VTEX IO](#3-configuração-no-vtex-io)
 
 > ⚠️ Apesar de lojas regionalizadas mostrarem apenas produtos disponíveis em uma determinada região na página de listagem de produtos, os filtros não levam em consideração a regionalização. Por conta dessa limitação, é possível que os clientes da loja selecionem valores de filtros que resultam em produtos indisponíveis em sua região.
 
