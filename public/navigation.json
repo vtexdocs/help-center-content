@@ -3858,37 +3858,6 @@
             },
             {
               "name": {
-                "en": "March",
-                "es": "Marzo",
-                "pt": "Março"
-              },
-              "slug": {
-                "en": "2022-march",
-                "es": "2022-marzo",
-                "pt": "2022-marco"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Sales Performance dashboard updates",
-                    "es": "Novedades en el dashboard Desempeño de ventas",
-                    "pt": "Novidades no dashboard Performance de Vendas"
-                  },
-                  "slug": {
-                    "en": "2022-03-08-sales-performance-dashboard-updates",
-                    "es": "2022-03-08-novedades-en-el-dashboard-desempeno-de-ventas",
-                    "pt": "2022-03-08-novidades-no-dashboard-performance-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "February",
                 "es": "Febrero",
                 "pt": "Fevereiro"
@@ -3950,34 +3919,33 @@
             },
             {
               "name": {
-                "en": "January",
-                "es": "Enero",
-                "pt": "Janeiro"
+                "en": "​​Rate VTEX's service in your Admin",
+                "es": "Evalúa el servicio VTEX en tu Admin",
+                "pt": "Avalie o atendimento da VTEX pelo seu Admin"
               },
               "slug": {
-                "en": "2022-january",
-                "es": "2022-enero",
-                "pt": "2022-janeiro"
+                "en": "2022-01-13-rate-vtexs-service-in-your-admin",
+                "es": "2022-01-13-evalua-el-servicio-vtex-en-tu-admin",
+                "pt": "2022-01-13-avalie-o-atendimento-da-vtex-pelo-seu-admin"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "​​Rate VTEX's service in your Admin",
-                    "es": "Evalúa el servicio VTEX en tu Admin",
-                    "pt": "Avalie o atendimento da VTEX pelo seu Admin"
-                  },
-                  "slug": {
-                    "en": "2022-01-13-rate-vtexs-service-in-your-admin",
-                    "es": "2022-01-13-evalua-el-servicio-vtex-en-tu-admin",
-                    "pt": "2022-01-13-avalie-o-atendimento-da-vtex-pelo-seu-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales Performance dashboard updates",
+                "es": "Novedades en el dashboard Desempeño de ventas",
+                "pt": "Novidades no dashboard Performance de Vendas"
+              },
+              "slug": {
+                "en": "2022-03-08-sales-performance-dashboard-updates",
+                "es": "2022-03-08-novedades-en-el-dashboard-desempeno-de-ventas",
+                "pt": "2022-03-08-novidades-no-dashboard-performance-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -4382,37 +4350,6 @@
                     "en": "2021-08-03-reusing-images-in-site-editor",
                     "es": "2021-08-03-reutilizar-imagenes-en-site-editor",
                     "pt": "2021-08-03-reutilize-imagens-no-site-editor"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "July",
-                "es": "Julio",
-                "pt": "Julho"
-              },
-              "slug": {
-                "en": "2021-july",
-                "es": "2021-julio",
-                "pt": "2021-julho"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "My authentication section in My account",
-                    "es": "Pestaña My Authentication de My Account",
-                    "pt": "Aba My Authentication do My Account"
-                  },
-                  "slug": {
-                    "en": "2021-07-26-my-authentication-section-in-my-account",
-                    "es": "2021-07-26-pestana-my-authentication-de-my-account",
-                    "pt": "2021-07-26-aba-my-authentication-do-my-account"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -5010,6 +4947,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "My authentication section in My account",
+                "es": "Pestaña My Authentication de My Account",
+                "pt": "Aba My Authentication do My Account"
+              },
+              "slug": {
+                "en": "2021-07-26-my-authentication-section-in-my-account",
+                "es": "2021-07-26-pestana-my-authentication-de-my-account",
+                "pt": "2021-07-26-aba-my-authentication-do-my-account"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -5742,37 +5694,6 @@
             },
             {
               "name": {
-                "en": "Mayo",
-                "es": "Mayo",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "mayo",
-                "es": "2020-mayo",
-                "pt": "2020-maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\".",
-                    "pt": "Estoque & entrega: entenda o que mudou na aba \"Painéis\"",
-                    "en": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\"."
-                  },
-                  "slug": {
-                    "es": "2020-05-05-inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles",
-                    "pt": "2020-05-05-estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "April",
                 "es": "Abril",
                 "pt": "Abril"
@@ -5909,68 +5830,6 @@
             },
             {
               "name": {
-                "en": "March",
-                "es": "Marzo",
-                "pt": "Março"
-              },
-              "slug": {
-                "en": "2020-march",
-                "es": "2020-marzo",
-                "pt": "2020-marco"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Customize your payment conditions with the new Card Level functionality",
-                    "es": "Personalice sus condiciones de pago con la nueva funcionalidad Card Level",
-                    "pt": "Personalize suas condições de pagamento com a nova funcionalidade Card Level"
-                  },
-                  "slug": {
-                    "en": "2020-03-09-customize-your-payment-conditions-with-the-new-card-level-functionality",
-                    "es": "2020-03-09-personalice-sus-condiciones-de-pago-con-la-nueva-funcionalidad-card-level",
-                    "pt": "2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "February",
-                "es": "Febrero",
-                "pt": "Fevereiro"
-              },
-              "slug": {
-                "en": "2020-february",
-                "es": "2020-febrero",
-                "pt": "2020-fevereiro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Promotions segmentation by country",
-                    "es": "Segmentación de promociones por país",
-                    "pt": "Segmentação de promoções por país"
-                  },
-                  "slug": {
-                    "en": "2020-02-20-promotions-segmentation-by-country",
-                    "es": "2020-02-20-segmentacao-de-promocoes-por-pais",
-                    "pt": "2020-02-20-segmentacao-de-promocoes-por-pais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "January",
                 "es": "Enero",
                 "pt": "Janeiro"
@@ -6014,6 +5873,51 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Customize your payment conditions with the new Card Level functionality",
+                "es": "Personalice sus condiciones de pago con la nueva funcionalidad Card Level",
+                "pt": "Personalize suas condições de pagamento com a nova funcionalidade Card Level"
+              },
+              "slug": {
+                "en": "2020-03-09-customize-your-payment-conditions-with-the-new-card-level-functionality",
+                "es": "2020-03-09-personalice-sus-condiciones-de-pago-con-la-nueva-funcionalidad-card-level",
+                "pt": "2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\".",
+                "pt": "Estoque & entrega: entenda o que mudou na aba \"Painéis\"",
+                "en": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\"."
+              },
+              "slug": {
+                "es": "2020-05-05-inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles",
+                "pt": "2020-05-05-estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotions segmentation by country",
+                "es": "Segmentación de promociones por país",
+                "pt": "Segmentação de promoções por país"
+              },
+              "slug": {
+                "en": "2020-02-20-promotions-segmentation-by-country",
+                "es": "2020-02-20-segmentacao-de-promocoes-por-pais",
+                "pt": "2020-02-20-segmentacao-de-promocoes-por-pais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -6031,99 +5935,6 @@
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "December",
-                "es": "Diciembre",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "2019-december",
-                "es": "2019-diciembre",
-                "pt": "2019-dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Use the Nominal Tax and avoid customers abandoning their shopping cart",
-                    "es": "Utilice la Tasa Nominal y evite que sus clientes abandonen el carrito de compras",
-                    "pt": "Utilize a Taxa Nominal e evite que seus clientes abandonem o carrinho de compras"
-                  },
-                  "slug": {
-                    "en": "2019-12-12-use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart",
-                    "es": "2019-12-12-utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de",
-                    "pt": "2019-12-12-utilize-a-taxa-nominal-e-evite-que-seus-clientes-abandonem-o-carrinho-de"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "November",
-                "es": "November",
-                "pt": "Novembro"
-              },
-              "slug": {
-                "en": "2019-november",
-                "es": "november",
-                "pt": "2019-novembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "B2W integration: automate picking request with B2W Coleta",
-                    "pt": "Integração B2W: automatize a solicitação de picking com a B2W Coleta",
-                    "es": "B2W integration: automate picking request with B2W Coleta"
-                  },
-                  "slug": {
-                    "en": "2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta",
-                    "pt": "2019-11-01-integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "October",
-                "es": "Octubre",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "2019-october",
-                "es": "2019-octubre",
-                "pt": "2019-outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Build customer loyalty with the new subscription promotion option",
-                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
-                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
-                  },
-                  "slug": {
-                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
-                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
-                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "September",
@@ -6689,34 +6500,63 @@
             },
             {
               "name": {
-                "en": "January",
-                "es": "Enero",
-                "pt": "Janeiro"
+                "en": "B2W integration: automate picking request with B2W Coleta",
+                "pt": "Integração B2W: automatize a solicitação de picking com a B2W Coleta",
+                "es": "B2W integration: automate picking request with B2W Coleta"
               },
               "slug": {
-                "en": "2019-january",
-                "es": "2019-enero",
-                "pt": "2019-janeiro"
+                "en": "2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta",
+                "pt": "2019-11-01-integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta",
+                "es": ""
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Now you can choose the interest type used on installments",
-                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
-                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
-                  },
-                  "slug": {
-                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
-                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
-                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Build customer loyalty with the new subscription promotion option",
+                "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
+                "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
+              },
+              "slug": {
+                "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
+                "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
+                "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Now you can choose the interest type used on installments",
+                "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
+                "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
+              },
+              "slug": {
+                "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
+                "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
+                "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Use the Nominal Tax and avoid customers abandoning their shopping cart",
+                "es": "Utilice la Tasa Nominal y evite que sus clientes abandonen el carrito de compras",
+                "pt": "Utilize a Taxa Nominal e evite que seus clientes abandonem o carrinho de compras"
+              },
+              "slug": {
+                "en": "2019-12-12-use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart",
+                "es": "2019-12-12-utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de",
+                "pt": "2019-12-12-utilize-a-taxa-nominal-e-evite-que-seus-clientes-abandonem-o-carrinho-de"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -7993,37 +7833,6 @@
       },
       "slugPrefix": "faq",
       "categories": [
-        {
-          "name": {
-            "en": "Billing",
-            "es": "Billing",
-            "pt": "Billing"
-          },
-          "slug": {
-            "en": "billing",
-            "es": "billing",
-            "pt": "billing"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "I received an invoice and I'm not a VTEX client. Why?",
-                "es": "Recibí una factura y no soy cliente VTEX. ¿Por qué?",
-                "pt": "Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?"
-              },
-              "slug": {
-                "en": "i-received-an-invoice-and-im-not-a-vtex-client",
-                "es": "recibi-una-factura-y-no-soy-cliente-vtex",
-                "pt": "recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex-por-que"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
         {
           "name": {
             "en": "Channels",
@@ -9577,37 +9386,6 @@
         },
         {
           "name": {
-            "en": "Reliability",
-            "es": "Reliability",
-            "pt": "Reliability"
-          },
-          "slug": {
-            "en": "reliability",
-            "es": "reliability",
-            "pt": "reliability"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Why is an error returned on access to the store after changing the DNS?",
-                "es": "¿Por qué recibo un error al acceder a la tienda después de configurar el DNS?",
-                "pt": "Por que aparece um erro no acesso à loja ​após virar o DNS​?"
-              },
-              "slug": {
-                "en": "why-is-an-error-returned-on-access-to-the-store-after-changing-the-dns",
-                "es": "por-que-recibo-un-error-al-acceder-la-tienda-despues-de-configurar-el-dns",
-                "pt": "por-que-da-erro-ao-acessar-a-loja-apos-virar-o-dns"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Shopping",
             "es": "Shopping",
             "pt": "Shopping"
@@ -9876,6 +9654,36 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "I received an invoice and I'm not a VTEX client. Why?",
+            "es": "Recibí una factura y no soy cliente VTEX. ¿Por qué?",
+            "pt": "Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?"
+          },
+          "slug": {
+            "en": "i-received-an-invoice-and-im-not-a-vtex-client",
+            "es": "recibi-una-factura-y-no-soy-cliente-vtex",
+            "pt": "recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex-por-que"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
+        },
+        {
+          "name": {
+            "en": "Why is an error returned on access to the store after changing the DNS?",
+            "es": "¿Por qué recibo un error al acceder a la tienda después de configurar el DNS?",
+            "pt": "Por que aparece um erro no acesso à loja ​após virar o DNS​?"
+          },
+          "slug": {
+            "en": "why-is-an-error-returned-on-access-to-the-store-after-changing-the-dns",
+            "es": "por-que-recibo-un-error-al-acceder-la-tienda-despues-de-configurar-el-dns",
+            "pt": "por-que-da-erro-ao-acessar-a-loja-apos-virar-o-dns"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
         }
       ]
     },
@@ -13647,6 +13455,21 @@
             },
             {
               "name": {
+                "es": "1. Instalación y configuración",
+                "en": "1. Instalación y configuración",
+                "pt": "1. Instalación y configuración"
+              },
+              "slug": {
+                "es": "instalacion-y-configuracion",
+                "en": "",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza integration",
                 "es": "Integración de Magazine Luiza",
                 "pt": "Integração com o Magazine Luiza"
@@ -13995,34 +13818,18 @@
             },
             {
               "name": {
-                "en": "Integración con Extensión de Meta para empresas",
-                "es": "Integración con Extensión de Meta para empresas",
-                "pt": "Integração com a Extensão da Meta para Empresas"
+                "en": "1. Interface of the configured integration",
+                "es": "1. Interfaz de la integración configurada",
+                "pt": "1. Interface da integração configurada"
               },
               "slug": {
-                "en": "integracion-con-extension-de-meta-para-empresas",
-                "es": "integracion-con-meta-business-extension",
-                "pt": "integracao-com-o-meta-business-extension"
+                "en": "interface-da-integracao-configurada",
+                "es": "interface-da-integracao-configurada",
+                "pt": "interface-da-integracao-configurada"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Interface of the configured integration",
-                    "es": "1. Interfaz de la integración configurada",
-                    "pt": "1. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -15237,37 +15044,6 @@
             },
             {
               "name": {
-                "en": "Integración de Lengow",
-                "es": "Integración de Lengow",
-                "pt": "Integración de Lengow"
-              },
-              "slug": {
-                "en": "integracion-de-lengow",
-                "es": "integracion-de-lengow",
-                "pt": "integracion-de-lengow"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "1. Instalación y configuración",
-                    "en": "1. Instalación y configuración",
-                    "pt": "1. Instalación y configuración"
-                  },
-                  "slug": {
-                    "es": "instalacion-y-configuracion",
-                    "en": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Facebook integration",
                 "es": "Integración de Facebook",
                 "pt": "Integração com o Facebook"
@@ -15643,68 +15419,6 @@
       },
       "slugPrefix": "troubleshooting",
       "categories": [
-        {
-          "name": {
-            "en": "B2B",
-            "es": "B2B",
-            "pt": "B2B"
-          },
-          "slug": {
-            "en": "b2b",
-            "es": "b2b",
-            "pt": "b2b"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "I can't fix the schema error in B2B apps",
-                "es": "Cómo corregir el error de esquema en aplicaciones B2B",
-                "pt": "Não consigo corrigir o erro de schema em aplicativos B2B"
-              },
-              "slug": {
-                "en": "i-cant-fix-the-schema-error-in-b2b-apps",
-                "es": "como-corregir-el-error-de-esquema-en-aplicaciones-b2b",
-                "pt": "nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Checkout and financial",
-            "es": "Checkout y financiero",
-            "pt": "Checkout e financeiro"
-          },
-          "slug": {
-            "en": "checkout-and-financial",
-            "es": "checkout-y-financiero",
-            "pt": "checkout-e-financeiro"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "My store order was not created",
-                "es": "No se ha creado el pedido de mi tienda",
-                "pt": "O pedido da minha loja não foi criado"
-              },
-              "slug": {
-                "en": "my-store-order-was-not-created",
-                "es": "no-se-ha-creado-el-pedido-de-mi-tienda",
-                "pt": "o-pedido-da-minha-loja-nao-foi-criado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
         {
           "name": {
             "en": "Data access and security",
@@ -16248,6 +15962,36 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "I can't fix the schema error in B2B apps",
+            "es": "Cómo corregir el error de esquema en aplicaciones B2B",
+            "pt": "Não consigo corrigir o erro de schema em aplicativos B2B"
+          },
+          "slug": {
+            "en": "i-cant-fix-the-schema-error-in-b2b-apps",
+            "es": "como-corregir-el-error-de-esquema-en-aplicaciones-b2b",
+            "pt": "nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
+        },
+        {
+          "name": {
+            "en": "My store order was not created",
+            "es": "No se ha creado el pedido de mi tienda",
+            "pt": "O pedido da minha loja não foi criado"
+          },
+          "slug": {
+            "en": "my-store-order-was-not-created",
+            "es": "no-se-ha-creado-el-pedido-de-mi-tienda",
+            "pt": "o-pedido-da-minha-loja-nao-foi-criado"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
         }
       ]
     },
@@ -16323,17 +16067,17 @@
         },
         {
           "name": {
-            "en": "Account management",
-            "es": "Gestión de la cuenta",
-            "pt": "Gerenciamento da conta"
+            "en": "Account settings - Overview",
+            "es": "Configuraciones de la cuenta - Información general",
+            "pt": "Configurações da conta - Visão geral"
           },
           "slug": {
-            "en": "account-management-category",
-            "es": "gestion-de-la-cuenta-categoria",
-            "pt": "gerenciamento-da-conta-categoria"
+            "en": "account-settings-overview",
+            "es": "vision-general-configuraciones-de-la-cuenta",
+            "pt": "visao-geral-configuracoes-da-conta"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -16788,21 +16532,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Account settings - Overview",
-                "es": "Configuraciones de la cuenta - Información general",
-                "pt": "Configurações da conta - Visão geral"
-              },
-              "slug": {
-                "en": "account-settings-overview",
-                "es": "vision-general-configuraciones-de-la-cuenta",
-                "pt": "visao-geral-configuracoes-da-conta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -17098,17 +16827,17 @@
         },
         {
           "name": {
-            "en": "Authentication",
-            "es": "Autenticación",
-            "pt": "Autenticação"
+            "en": "Creating an OAuth2 authentication",
+            "es": "Crear autenticación OAuth2",
+            "pt": "Criar autenticação OAuth2"
           },
           "slug": {
-            "en": "authentication-category",
-            "es": "autenticacion-categoria",
-            "pt": "autenticação-categoria"
+            "en": "creating-an-oauth2-authentication",
+            "es": "crear-autenticacion-oauth2",
+            "pt": "criar-autenticacao-oauth2"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -17246,21 +16975,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Creating an OAuth2 authentication",
-                "es": "Crear autenticación OAuth2",
-                "pt": "Criar autenticação OAuth2"
-              },
-              "slug": {
-                "en": "creating-an-oauth2-authentication",
-                "es": "crear-autenticacion-oauth2",
-                "pt": "criar-autenticacao-oauth2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -18008,96 +17722,18 @@
           "children": [
             {
               "name": {
-                "en": "Catalog Beta",
-                "es": "Catálogo Beta",
-                "pt": "Catálogo Beta"
+                "en": "Store Overview (Beta)",
+                "es": "Vista General de la Tienda (Beta)",
+                "pt": "Visão geral da loja (Beta)"
               },
               "slug": {
-                "en": "catalog-beta-subcategory",
-                "es": "catalogo-beta-subcategoria",
-                "pt": "catálogo-beta-subcategoria"
+                "en": "store-overview-beta",
+                "es": "vista-general-de-la-tienda-beta",
+                "pt": "visao-geral-da-loja-beta"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Creating or editing categories, attributes, and variations (Beta)",
-                    "es": "Crear o editar categorías, atributos y variaciones (Beta)",
-                    "pt": "Criar ou editar categorias, atributos e variações (Beta)"
-                  },
-                  "slug": {
-                    "en": "creating-or-editing-categories-attributes-and-variations-beta",
-                    "es": "crear-o-editar-categorias-atributos-y-variaciones-beta",
-                    "pt": "criar-ou-editar-categorias-atributos-e-variacoes-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Dashboards Beta",
-                "es": "Dashboards Beta",
-                "pt": "Dashboards Beta"
-              },
-              "slug": {
-                "en": "dashboards-beta-subcategory",
-                "es": "dashboards-beta-subcategoria",
-                "pt": "dashboards-beta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Store Overview (Beta)",
-                    "es": "Vista General de la Tienda (Beta)",
-                    "pt": "Visão geral da loja (Beta)"
-                  },
-                  "slug": {
-                    "en": "store-overview-beta",
-                    "es": "vista-general-de-la-tienda-beta",
-                    "pt": "visao-geral-da-loja-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Data Insights Agent Beta",
-                "es": "Data Insights Agent Beta",
-                "pt": "Data Insights Agent Beta"
-              },
-              "slug": {
-                "en": "data-insights-agent-beta-subcategory",
-                "es": "data-insights-agent-beta-subcategoria",
-                "pt": "data-insights-agent-beta-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Data Insights Agent",
-                    "es": "Data Insights Agent",
-                    "pt": "Data Insights Agent"
-                  },
-                  "slug": {
-                    "en": "data-insights-agent",
-                    "es": "data-insights-agent",
-                    "pt": "data-insights-agent"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -18690,54 +18326,53 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Creating or editing categories, attributes, and variations (Beta)",
+                "es": "Crear o editar categorías, atributos y variaciones (Beta)",
+                "pt": "Criar ou editar categorias, atributos e variações (Beta)"
+              },
+              "slug": {
+                "en": "creating-or-editing-categories-attributes-and-variations-beta",
+                "es": "crear-o-editar-categorias-atributos-y-variaciones-beta",
+                "pt": "criar-ou-editar-categorias-atributos-e-variacoes-beta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Data Insights Agent",
+                "es": "Data Insights Agent",
+                "pt": "Data Insights Agent"
+              },
+              "slug": {
+                "en": "data-insights-agent",
+                "es": "data-insights-agent",
+                "pt": "data-insights-agent"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
         {
           "name": {
-            "en": "Billing",
-            "es": "Facturación",
-            "pt": "Informações de faturamento"
+            "en": "Billing - Overview",
+            "es": "Facturación - Información general",
+            "pt": "Faturas - Visão geral"
           },
           "slug": {
-            "en": "billing-category",
-            "es": "facturacion-categoria",
-            "pt": "informacoes-de-faturamento-categoria"
+            "en": "billing-module-overview",
+            "es": "vision-general-facturacion",
+            "pt": "visao-geral-informacoes-de-faturamento"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
-            {
-              "name": {
-                "en": "Contracts",
-                "es": "Contratos",
-                "pt": "Contratos"
-              },
-              "slug": {
-                "en": "contracts-subcategory",
-                "es": "contratos-subcategoria",
-                "pt": "contratos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
-                  },
-                  "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Invoices",
@@ -18892,14 +18527,14 @@
             },
             {
               "name": {
-                "en": "Billing - Overview",
-                "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "en": "Requesting contract termination in Brazil",
+                "es": "Solicitar rescisión contractual en Brasil",
+                "pt": "Solicitar rescisão contratual no Brasil"
               },
               "slug": {
-                "en": "billing-module-overview",
-                "es": "vision-general-facturacion",
-                "pt": "visao-geral-informacoes-de-faturamento"
+                "en": "how-to-request-your-contract-termination-in-brazil",
+                "es": "como-solicitar-su-rescision-contractual-en-brasil",
+                "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
               },
               "origin": "",
               "type": "markdown",
@@ -18909,17 +18544,17 @@
         },
         {
           "name": {
-            "en": "Catalog",
-            "es": "Catálogo",
-            "pt": "Catálogo"
+            "en": "Registering a commercial condition",
+            "es": "Registrar condición comercial",
+            "pt": "Cadastrar condição comercial"
           },
           "slug": {
-            "en": "catalog-category",
-            "es": "catalogo-categoria",
-            "pt": "catálogo-categoria"
+            "en": "registering-a-commercial-condition",
+            "es": "registrar-condicion-comercial",
+            "pt": "como-cadastrar-condicao-comercial"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -20192,37 +19827,22 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Registering a commercial condition",
-                "es": "Registrar condición comercial",
-                "pt": "Cadastrar condição comercial"
-              },
-              "slug": {
-                "en": "registering-a-commercial-condition",
-                "es": "registrar-condicion-comercial",
-                "pt": "como-cadastrar-condicao-comercial"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
         {
           "name": {
-            "en": "Checkout",
-            "es": "Checkout",
-            "pt": "Checkout"
+            "en": "Using reCAPTCHA at Checkout",
+            "es": "reCAPTCHA en el checkout",
+            "pt": "reCAPTCHA no Checkout"
           },
           "slug": {
-            "en": "checkout-category",
-            "es": "checkout-categoria",
-            "pt": "checkout-categoria"
+            "en": "using-recaptcha-at-checkout",
+            "es": "recaptcha-en-el-checkout",
+            "pt": "recaptcha-no-checkout"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -20663,45 +20283,14 @@
             },
             {
               "name": {
-                "en": "Buyer portal checkout",
-                "es": "Buyer portal checkout",
-                "pt": "Buyer portal checkout"
+                "en": "Buyer Portal Checkout",
+                "es": "Buyer Portal Checkout",
+                "pt": "Buyer Portal Checkout"
               },
               "slug": {
-                "en": "buyer-portal-checkout",
-                "es": "buyer-portal-checkout",
-                "pt": "buyer-portal-checkout"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Buyer Portal Checkout",
-                    "es": "Buyer Portal Checkout",
-                    "pt": "Buyer Portal Checkout"
-                  },
-                  "slug": {
-                    "en": "buyer-portal-checkout-en",
-                    "es": "buyer-portal-checkout-es",
-                    "pt": "buyer-portal-checkout-pt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Using reCAPTCHA at Checkout",
-                "es": "reCAPTCHA en el checkout",
-                "pt": "reCAPTCHA no Checkout"
-              },
-              "slug": {
-                "en": "using-recaptcha-at-checkout",
-                "es": "recaptcha-en-el-checkout",
-                "pt": "recaptcha-no-checkout"
+                "en": "buyer-portal-checkout-en",
+                "es": "buyer-portal-checkout-es",
+                "pt": "buyer-portal-checkout-pt"
               },
               "origin": "",
               "type": "markdown",
@@ -20711,49 +20300,18 @@
         },
         {
           "name": {
-            "en": "CMS",
-            "es": "CMS",
-            "pt": "CMS"
+            "en": "Configuring stores",
+            "es": "Configurar tiendas",
+            "pt": "Configurar lojas"
           },
           "slug": {
-            "en": "cms-subcategory",
-            "es": "cms-subcategoria-es",
-            "pt": "cms-subcategoria-pt"
+            "en": "cms-configuring-stores",
+            "es": "cms-configurar-tiendas",
+            "pt": "cms-configurar-lojas"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
-            {
-              "name": {
-                "en": "Get started",
-                "es": "Primeros pasos",
-                "pt": "Primeiros passos"
-              },
-              "slug": {
-                "en": "get-started-category",
-                "es": "primeros-pasos-categoria",
-                "pt": "primeiros-passos-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Content Management overview",
-                    "es": "Información general de la gestión de contenidos",
-                    "pt": "Visão geral do CMS"
-                  },
-                  "slug": {
-                    "en": "cms-overview",
-                    "es": "cms-informacion-general",
-                    "pt": "cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Branching and versioning",
@@ -20893,14 +20451,14 @@
             },
             {
               "name": {
-                "en": "Configuring stores",
-                "es": "Configurar tiendas",
-                "pt": "Configurar lojas"
+                "en": "Content Management overview",
+                "es": "Información general de la gestión de contenidos",
+                "pt": "Visão geral do CMS"
               },
               "slug": {
-                "en": "cms-configuring-stores",
-                "es": "cms-configurar-tiendas",
-                "pt": "cms-configurar-lojas"
+                "en": "cms-overview",
+                "es": "cms-informacion-general",
+                "pt": "cms-visao-geral"
               },
               "origin": "",
               "type": "markdown",
@@ -21941,37 +21499,6 @@
                     "en": "set-goal-values-by-period-indeva",
                     "es": "definir-valores-de-las-metas-por-periodo-indeva",
                     "pt": "definir-valores-das-metas-por-periodo-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Feedback del vendedor",
-                "es": "Feedback del vendedor",
-                "pt": "Feedback del vendedor"
-              },
-              "slug": {
-                "en": "feedback-del-vendedor",
-                "es": "feedback-del-vendedor-subcategoria",
-                "pt": "feedback-del-vendedor"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Visualizar comentarios en la app de Indeva",
-                    "en": "Visualizar comentarios en la app de Indeva",
-                    "pt": "Visualizar comentarios en la app de Indeva"
-                  },
-                  "slug": {
-                    "es": "visualizar-comentarios-en-la-app-de-indeva",
-                    "en": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23100,6 +22627,21 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": {
+                "es": "Visualizar comentarios en la app de Indeva",
+                "en": "Visualizar comentarios en la app de Indeva",
+                "pt": "Visualizar comentarios en la app de Indeva"
+              },
+              "slug": {
+                "es": "visualizar-comentarios-en-la-app-de-indeva",
+                "en": "",
+                "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -24841,17 +24383,17 @@
         },
         {
           "name": {
-            "en": "Intelligent Search",
-            "es": "Intelligent Search",
-            "pt": "Intelligent Search"
+            "en": "Search configuration",
+            "es": "Configuración de la búsqueda",
+            "pt": "Configuração da busca"
           },
           "slug": {
-            "en": "intelligent-search-category",
-            "es": "intelligent-search-categoria",
-            "pt": "intelligent-search-categoria"
+            "en": "search-configuration",
+            "es": "configuracion-de-la-busqueda",
+            "pt": "configuracao-da-busca"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -25338,21 +24880,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Search configuration",
-                "es": "Configuración de la búsqueda",
-                "pt": "Configuração da busca"
-              },
-              "slug": {
-                "en": "search-configuration",
-                "es": "configuracion-de-la-busqueda",
-                "pt": "configuracao-da-busca"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -25904,17 +25431,17 @@
         },
         {
           "name": {
-            "en": "Message center",
-            "es": "Centro de mensajes",
-            "pt": "Central de mensagens"
+            "en": "Customizing the VTEX SMTP",
+            "es": "Personalizar el SMTP de VTEX",
+            "pt": "Personalizar o SMTP da VTEX"
           },
           "slug": {
-            "en": "message-center-category",
-            "es": "centro-de-mensajes-categoria",
-            "pt": "central-de-mensagens-categoria"
+            "en": "customizing-the-vtex-smtp",
+            "es": "personalizando-el-smtp-de-vtex",
+            "pt": "personalizando-o-smtp-da-vtex"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -26021,21 +25548,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Customizing the VTEX SMTP",
-                "es": "Personalizar el SMTP de VTEX",
-                "pt": "Personalizar o SMTP da VTEX"
-              },
-              "slug": {
-                "en": "customizing-the-vtex-smtp",
-                "es": "personalizando-el-smtp-de-vtex",
-                "pt": "personalizando-o-smtp-da-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -26408,17 +25920,17 @@
         },
         {
           "name": {
-            "en": "Orders",
-            "es": "Pedidos",
-            "pt": "Pedidos"
+            "en": "Understanding B2B Orders",
+            "es": "Entendiendo Pedidos B2B",
+            "pt": "Entendendo Pedidos B2B"
           },
           "slug": {
-            "en": "orders-category",
-            "es": "pedidos-categoria",
-            "pt": "pedidos-categoria"
+            "en": "understanding-b2b-orders",
+            "es": "entendiendo-pedidos-b2b",
+            "pt": "entendendo-pedidos-b2b"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -27308,21 +26820,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Understanding B2B Orders",
-                "es": "Entendiendo Pedidos B2B",
-                "pt": "Entendendo Pedidos B2B"
-              },
-              "slug": {
-                "en": "understanding-b2b-orders",
-                "es": "entendiendo-pedidos-b2b",
-                "pt": "entendendo-pedidos-b2b"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -27420,17 +26917,17 @@
         },
         {
           "name": {
-            "en": "Payments",
-            "es": "Pagos",
-            "pt": "Pagamentos"
+            "en": "Setting up Gift cards",
+            "es": "Configurar Tarjeta de regalo",
+            "pt": "Configurar Vale-presente"
           },
           "slug": {
-            "en": "payments-category",
-            "es": "pagos-categoria",
-            "pt": "pagamentos-categoria"
+            "en": "gift-card",
+            "es": "gift-card",
+            "pt": "gift-card"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -27471,37 +26968,6 @@
                     "en": "bank-reconciliations",
                     "es": "conciliaciones-bancarias",
                     "pt": "conciliacoes-bancarias"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configurações de Pagamentos",
-                "es": "Configurações de Pagamentos",
-                "pt": "Configurações de Pagamentos"
-              },
-              "slug": {
-                "en": "configuracoes-de-pagamentos",
-                "es": "configuracoes-de-pagamentos",
-                "pt": "configurações-de-pagamentos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Configurar pagamento com Paguelofacil",
-                    "en": "Configurar pagamento com Paguelofacil",
-                    "es": "Configurar pagamento com Paguelofacil"
-                  },
-                  "slug": {
-                    "pt": "configurar-pagamento-com-paguelofacil",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31939,14 +31405,14 @@
             },
             {
               "name": {
-                "en": "Setting up Gift cards",
-                "es": "Configurar Tarjeta de regalo",
-                "pt": "Configurar Vale-presente"
+                "pt": "Configurar pagamento com Paguelofacil",
+                "en": "Configurar pagamento com Paguelofacil",
+                "es": "Configurar pagamento com Paguelofacil"
               },
               "slug": {
-                "en": "gift-card",
-                "es": "gift-card",
-                "pt": "gift-card"
+                "pt": "configurar-pagamento-com-paguelofacil",
+                "en": "",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -32455,17 +31921,17 @@
         },
         {
           "name": {
-            "en": "Promotions & taxes",
-            "es": "Tasas y promociones",
-            "pt": "Promoções e taxas"
+            "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
+            "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
+            "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
           },
           "slug": {
-            "en": "promotions-and-taxes-category",
-            "es": "tasas-y-promociones-categoria",
-            "pt": "promoções-e-taxas-categoria"
+            "en": "overview-pricing-module",
+            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+            "pt": "overview-2"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -33235,21 +32701,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
-                "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
-              },
-              "slug": {
-                "en": "overview-pricing-module",
-                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                "pt": "overview-2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -33695,17 +33146,17 @@
         },
         {
           "name": {
-            "en": "Sellers",
-            "es": "Sellers",
-            "pt": "Sellers"
+            "en": "Cataloging received SKUs",
+            "es": "Catalogación de SKUs recibidos",
+            "pt": "Catalogação de SKUs recebidos"
           },
           "slug": {
-            "en": "sellers-category",
-            "es": "sellers-categoria",
-            "pt": "sellers-categoria"
+            "en": "manual-sku-cataloging",
+            "es": "catalogacion-manual-de-skus",
+            "pt": "sugerindo-e-aprovando-skus"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -34221,21 +33672,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Cataloging received SKUs",
-                "es": "Catalogación de SKUs recibidos",
-                "pt": "Catalogação de SKUs recebidos"
-              },
-              "slug": {
-                "en": "manual-sku-cataloging",
-                "es": "catalogacion-manual-de-skus",
-                "pt": "sugerindo-e-aprovando-skus"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -35334,29 +34770,13 @@
                 "pt": "Capacidade operacional"
               },
               "slug": {
-                "en": "operational-capacity-category",
-                "es": "capacidad-operativa-category",
-                "pt": "capacidade-operacional-category"
+                "en": "operational-capacity",
+                "es": "capacidad-operativa",
+                "pt": "capacidade-operacional"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Operational capacity",
-                    "es": "Capacidad operativa",
-                    "pt": "Capacidade operacional"
-                  },
-                  "slug": {
-                    "en": "operational-capacity",
-                    "es": "capacidad-operativa",
-                    "pt": "capacidade-operacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -35453,17 +34873,17 @@
         },
         {
           "name": {
-            "en": "Storefront",
-            "es": "Storefront",
-            "pt": "Storefront"
+            "en": "Storefront - Overview",
+            "es": "Storefront - Información general",
+            "pt": "Storefront - Visão geral"
           },
           "slug": {
-            "en": "storefront-category",
-            "es": "storefront-categoria",
-            "pt": "storefront-categoria"
+            "en": "storefront-overview",
+            "es": "vision-general-storefront",
+            "pt": "visao-geral-storefront"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -37093,21 +36513,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview",
-                "es": "vision-general-storefront",
-                "pt": "visao-geral-storefront"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -37659,17 +37064,17 @@
         },
         {
           "name": {
-            "en": "VTEX CX Platform",
-            "es": "VTEX CX Platform",
-            "pt": "VTEX CX Platform"
+            "en": "Code action first steps",
+            "es": "Primeros pasos - Code Action",
+            "pt": "Primeiros passos - Code Action"
           },
           "slug": {
-            "en": "vtex-cx-platform-category",
-            "es": "vtex-cx-platform-categoria",
-            "pt": "vtex-cx-platform-categoria"
+            "en": "code-action-first-steps",
+            "es": "primeros-pasos-code-action",
+            "pt": "primeiros-passos-code-action"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -39148,52 +38553,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Code action first steps",
-                "es": "Primeros pasos - Code Action",
-                "pt": "Primeiros passos - Code Action"
-              },
-              "slug": {
-                "en": "code-action-first-steps",
-                "es": "primeros-pasos-code-action",
-                "pt": "primeiros-passos-code-action"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Retail media",
-            "es": "Retail media",
-            "pt": "Retail media"
-          },
-          "slug": {
-            "en": "retail-media",
-            "es": "retail-media",
-            "pt": "retail-media"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "VTEX Ads metrics and attribution",
-                "es": "Métricas y atribución de VTEX Ads",
-                "pt": "Métricas e atribuição do VTEX Ads"
-              },
-              "slug": {
-                "en": "vtex-ads-metrics-and-attribution",
-                "es": "metricas-y-atribucion-de-vtex-ads",
-                "pt": "metricas-e-atribuicao-do-vtex-ads"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -39242,6 +38601,21 @@
               "children": []
             }
           ]
+        },
+        {
+          "name": {
+            "en": "VTEX Ads metrics and attribution",
+            "es": "Métricas y atribución de VTEX Ads",
+            "pt": "Métricas e atribuição do VTEX Ads"
+          },
+          "slug": {
+            "en": "vtex-ads-metrics-and-attribution",
+            "es": "metricas-y-atribucion-de-vtex-ads",
+            "pt": "metricas-e-atribuicao-do-vtex-ads"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
         }
       ]
     },
@@ -59767,37 +59141,6 @@
         },
         {
           "name": {
-            "en": "Other",
-            "es": "Otro",
-            "pt": "Outro"
-          },
-          "slug": {
-            "en": "other",
-            "es": "otro",
-            "pt": "outro"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Error when validating Mexican corporate document at checkout",
-                "es": "Error al validar documento corporativo de México en el checkout",
-                "pt": "Erro na validação de documento corporativo do México no Checkout"
-              },
-              "slug": {
-                "en": "error-when-validating-mexican-corporate-document-at-checkout",
-                "es": "error-al-validar-documento-corporativo-de-mexico-en-el-checkout",
-                "pt": "erro-na-validacao-de-documento-corporativo-do-mexico-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Others",
             "es": "Otros",
             "pt": "Outros"
@@ -66720,37 +66063,6 @@
         },
         {
           "name": {
-            "en": "Reliability",
-            "es": "Reliability",
-            "pt": "Reliability"
-          },
-          "slug": {
-            "en": "reliability",
-            "es": "reliability",
-            "pt": "reliability"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Webservice import (WSDL) in HTTPS brings references in HTTP",
-                "es": "Importación del webservice (WSDL) en HTTPS trae referencias en HTTP",
-                "pt": "Importação do webservice (WSDL) em HTTPS traz referências em HTTP"
-              },
-              "slug": {
-                "en": "importacao-do-webservice-wsdl-em-https-traz-referencias-em-http",
-                "es": "importacao-do-webservice-wsdl-em-https-traz-referencias-em-http",
-                "pt": "importacao-do-webservice-wsdl-em-https-traz-referencias-em-http"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Shopping",
             "es": "Shopping",
             "pt": "Shopping"
@@ -69394,65 +68706,33 @@
         },
         {
           "name": {
-            "en": "VTEX Log",
-            "es": "VTEX Log",
-            "pt": "VTEX Log"
+            "en": "Error when validating Mexican corporate document at checkout",
+            "es": "Error al validar documento corporativo de México en el checkout",
+            "pt": "Erro na validação de documento corporativo do México no Checkout"
           },
           "slug": {
-            "en": "vtex-log",
-            "es": "vtex-log",
-            "pt": "vtex-log"
+            "en": "error-when-validating-mexican-corporate-document-at-checkout",
+            "es": "error-al-validar-documento-corporativo-de-mexico-en-el-checkout",
+            "pt": "erro-na-validacao-de-documento-corporativo-do-mexico-no-checkout"
           },
           "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "If the Correios tables are not concatenated in the Ready to dispatch filter the label generation does not work properly",
-                "es": "Si las tablas de Correios no están concatenadas en el filtro de Listo para enviar la generación de etiquetas no funciona correctamente",
-                "pt": "Se as tabelas dos Correios não estiverem concatenadas no filtro Ready to dispatch, a geração de etiquetas não funciona corretamente"
-              },
-              "slug": {
-                "en": "if-the-correios-tables-are-not-concatenated-in-the-ready-to-dispatch-filter-the-label-generation-does-not-work-properly",
-                "es": "si-las-tablas-de-correios-no-estan-concatenadas-en-el-filtro-de-listo-para-enviar-la-generacion-de-etiquetas-no-funciona-correctamente",
-                "pt": "se-as-tabelas-dos-correios-nao-estiverem-concatenadas-no-filtro-ready-to-dispatch-a-geracao-de-etiquetas-nao-funciona-corretamente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
+          "type": "markdown",
+          "children": []
         },
         {
           "name": {
-            "en": "VTEX Shipping Network (VTEX Log)",
-            "es": "VTEX Shipping Network (VTEX Log)",
-            "pt": "VTEX Shipping Network (VTEX Log)"
+            "en": "If the Correios tables are not concatenated in the Ready to dispatch filter the label generation does not work properly",
+            "es": "Si las tablas de Correios no están concatenadas en el filtro de Listo para enviar la generación de etiquetas no funciona correctamente",
+            "pt": "Se as tabelas dos Correios não estiverem concatenadas no filtro Ready to dispatch, a geração de etiquetas não funciona corretamente"
           },
           "slug": {
-            "en": "vtex-shipping-network-vtex-log",
-            "es": "vtex-shipping-network-vtex-log",
-            "pt": "vtex-shipping-network-vtex-log"
+            "en": "if-the-correios-tables-are-not-concatenated-in-the-ready-to-dispatch-filter-the-label-generation-does-not-work-properly",
+            "es": "si-las-tablas-de-correios-no-estan-concatenadas-en-el-filtro-de-listo-para-enviar-la-generacion-de-etiquetas-no-funciona-correctamente",
+            "pt": "se-as-tabelas-dos-correios-nao-estiverem-concatenadas-no-filtro-ready-to-dispatch-a-geracao-de-etiquetas-nao-funciona-corretamente"
           },
           "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Order not notified carrier leaves label barcode incomplete",
-                "es": "El transportista no ha sido informado del pedido y ha dejado el código de barras de la etiqueta incompleto",
-                "pt": "Encomenda não notificada: a transportadora deixa o código de barras da etiqueta incompleto"
-              },
-              "slug": {
-                "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
-                "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
-                "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
+          "type": "markdown",
+          "children": []
         },
         {
           "name": {
@@ -69652,34 +68932,48 @@
         },
         {
           "name": {
-            "en": "Personal shopper",
-            "es": "Personal shopper",
-            "pt": "Personal shopper"
+            "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
+            "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+            "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
           },
           "slug": {
-            "en": "personal-shopper",
-            "es": "personal-shopper",
-            "pt": "personal-shopper"
+            "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
+            "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+            "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
           },
           "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
-                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
-                "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
-              },
-              "slug": {
-                "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
-                "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
+          "type": "markdown",
+          "children": []
+        },
+        {
+          "name": {
+            "en": "Order not notified carrier leaves label barcode incomplete",
+            "es": "El transportista no ha sido informado del pedido y ha dejado el código de barras de la etiqueta incompleto",
+            "pt": "Encomenda não notificada: a transportadora deixa o código de barras da etiqueta incompleto"
+          },
+          "slug": {
+            "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
+            "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
+            "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
+        },
+        {
+          "name": {
+            "en": "Webservice import (WSDL) in HTTPS brings references in HTTP",
+            "es": "Importación del webservice (WSDL) en HTTPS trae referencias en HTTP",
+            "pt": "Importação do webservice (WSDL) em HTTPS traz referências em HTTP"
+          },
+          "slug": {
+            "en": "importacao-do-webservice-wsdl-em-https-traz-referencias-em-http",
+            "es": "importacao-do-webservice-wsdl-em-https-traz-referencias-em-http",
+            "pt": "importacao-do-webservice-wsdl-em-https-traz-referencias-em-http"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": []
         }
       ]
     }
