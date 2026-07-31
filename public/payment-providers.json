@@ -1461,7 +1461,7 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pagamento-com-plexo"
       },
       "countries": ["US", "UY"]
-    }
+    },
     {
       "name": "PicPay",
       "payoutSplit": false,
