@@ -27,10 +27,10 @@ Para ver los movimientos de un SKU:
 2. Selecciona el SKU deseado. Para aprender a utilizar los filtros y realizar una búsqueda, consulta el artículo [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario).
 3. En la columna **Última actualización**, haz clic en el número en azul;
 4. Se abrirá la ventana **Registro de actualizaciones** con todos los cambios. Cada fila corresponde a una actualización, y las columnas contienen:
-  * El usuario que realizó el cambio.      
-  * La fecha y hora de la última actualización.
-  * La cantidad de ítems antes de la actualización.
-  * La cantidad de ítems después de la actualización.
+     * El usuario que realizó el cambio.      
+     * La fecha y hora de la última actualización.
+     * La cantidad de ítems antes de la actualización.
+     * La cantidad de ítems después de la actualización.
 
 > ℹ️ El registro de actualizaciones muestra el movimiento de los últimos 90 días (3 meses), con un límite de 50 movimientos por SKU. Los movimientos anteriores a este período de tiempo no están disponibles.
 

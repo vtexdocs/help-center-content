@@ -27,7 +27,6 @@ To view the update history of a SKU, follow the steps below:
 2. Select the SKU of which you want to see the history. To learn how to use the filters and search, check out the article [Inventory management](/en/docs/tutorials/managing-stock-items).
 3. In the **Last update** column, click the blue number.
 4. The **Update Logs** window will open with all the changes. Each row corresponds to an update, and the columns contain:
-
    * The user who made the change.
    * Last updated date and time.
    * The quantity of items before the update.
