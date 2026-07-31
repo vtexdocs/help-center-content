@@ -32,7 +32,7 @@ To view the update history of a SKU, follow the steps below:
   * The quantity of items before the update.
   * The quantity of itemsafter the update.
 
-> ⚠️ You can only see the last 50 updates in the update log of a given SKU.
+> ℹ️ The update log displays activity from the last 90 days (3 months), with a limit of 50 activities per SKU. Activity before this time frame is not available.
 
 The total quantity of items on the [Inventory Management](/en/docs/tutorials/managing-stock-items) page is updated in real-time, but it may take up to 1 hour to reflect in the inventory history.
 
