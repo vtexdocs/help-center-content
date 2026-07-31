@@ -29325,21 +29325,6 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up payments with Flexo",
-                    "es": "Configurar pago con Flexo",
-                    "pt": "Configurar pagamento com Flexo"
-                  },
-                  "slug": {
-                    "en": "setting-up-payments-with-flexo",
-                    "es": "configurar-pago-con-flexo",
-                    "pt": "configurar-pagamento-com-flexo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up payments with Flow",
                     "es": "Configurar pago con Flow",
                     "pt": "Configurar pagamento com Flow"
@@ -30413,6 +30398,21 @@
                     "en": "setting-up-payments-with-platadifiere",
                     "es": "configurar-pago-con-platadifiere",
                     "pt": "configurar-pagamento-com-platadifiere"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Plexo",
+                    "es": "Configurar pago con Plexo",
+                    "pt": "Configurar pagamento com Plexo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-plexo",
+                    "es": "configurar-pago-con-plexo",
+                    "pt": "configurar-pagamento-com-plexo"
                   },
                   "origin": "",
                   "type": "markdown",
