@@ -29325,6 +29325,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Flexo",
+                    "es": "Configurar pago con Flexo",
+                    "pt": "Configurar pagamento com Flexo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-flexo",
+                    "es": "configurar-pago-con-flexo",
+                    "pt": "configurar-pagamento-com-flexo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Flow",
                     "es": "Configurar pago con Flow",
                     "pt": "Configurar pagamento com Flow"
@@ -30390,6 +30405,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PlataDifiere",
+                    "es": "Configurar pago con PlataDifiere",
+                    "pt": "Configurar pagamento com PlataDifiere"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-platadifiere",
+                    "es": "configurar-pago-con-platadifiere",
+                    "pt": "configurar-pagamento-com-platadifiere"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PoleCMS",
                     "es": "Configurar pago con PoleCMS",
                     "pt": "Configurar pagamento com PoleCMS"
@@ -30570,6 +30600,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Serfinsa",
+                    "es": "Configurar pago con Serfinsa",
+                    "pt": "Configurar pagamento com Serfinsa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-serfinsa",
+                    "es": "configurar-pago-con-serfinsa",
+                    "pt": "configurar-pagamento-com-serfinsa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Servicredito",
+                    "es": "Configurar pago con Servicredito",
+                    "pt": "Configurar pagamento com Servicredito"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-servicredito",
+                    "es": "configurar-pago-con-servicredito",
+                    "pt": "configurar-pagamento-com-servicredito"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Shipay",
                     "es": "Configurar pago con Shipay",
                     "pt": "Configurar pagamento com Shipay"
@@ -30683,6 +30743,21 @@
                     "en": "setting-up-payments-with-sumaspay",
                     "es": "configurar-pago-con-sumaspay",
                     "pt": "configurar-pagamento-com-sumaspay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Talo",
+                    "es": "Configurar pago con Talo",
+                    "pt": "Configurar pagamento com Talo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-talo",
+                    "es": "configurar-pago-con-talo",
+                    "pt": "configurar-pagamento-com-talo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30870,6 +30945,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with VisaNetGuatemala",
+                    "es": "Configurar pago con VisaNetGuatemala",
+                    "pt": "Configurar pagamento com VisaNetGuatemala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visanetguatemala",
+                    "es": "configurar-pago-con-visanetguatemala",
+                    "pt": "configurar-pagamento-com-visanetguatemala"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Wabi",
                     "es": "Configurar pago con Wabi",
                     "pt": "Configurar pagamento com Wabi"
@@ -30893,6 +30983,21 @@
                     "en": "setting-up-payments-with-wepay4u",
                     "es": "configurar-pago-con-wepay4u",
                     "pt": "configurar-pagamento-com-wepay4u"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wibond",
+                    "es": "Configurar pago con Wibond",
+                    "pt": "Configurar pagamento com Wibond"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wibond",
+                    "es": "configurar-pago-con-wibond",
+                    "pt": "configurar-pagamento-com-wibond"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -66171,6 +66276,21 @@
                 "en": "pricing-modification-via-compatibility-post-prices-route-is-losing-data",
                 "es": "la-modificacion-de-precios-a-traves-de-la-ruta-de-precios-de-las-publicaciones-de-compatibilidad-provoca-la-perdida-de-datos",
                 "pt": "a-modificacao-de-precos-por-meio-da-rota-de-precos-de-postagem-de-compatibilidade-esta-causando-perda-de-dados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pricing search error (\"Error - undefined\") on sub-accounts due to missing CMS configuration folders",
+                "es": "Error de búsqueda de precios (\"Error - indefinido\") en subcuentas debido a la falta de carpetas de configuración de CMS.",
+                "pt": "Erro na pesquisa de preços (\"Erro - indefinido\") em subcontas devido à ausência de pastas de configuração do CMS."
+              },
+              "slug": {
+                "en": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+                "es": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+                "pt": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms"
               },
               "origin": "",
               "type": "markdown",
