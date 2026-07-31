@@ -41704,6 +41704,21 @@
             },
             {
               "name": {
+                "en": "Creating a mandatory, active, sku specification is not inactivating category skus",
+                "es": "La creación de una especificación de SKU obligatoria y activa no desactiva las SKU de categoría.",
+                "pt": "Criar uma especificação de SKU obrigatória e ativa não desativa as SKUs da categoria."
+              },
+              "slug": {
+                "en": "creating-a-mandatory-active-sku-specification-is-not-inactivating-category-skus",
+                "es": "la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria",
+                "pt": "criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Creating a regionalized sales channel with an already used binding does not update the item's stockbalance",
                 "es": "La creación de un canal de ventas regionalizado con una encuadernación ya utilizada no actualiza el saldo de existencias del artículo.",
                 "pt": "A criação de um canal de vendas regionalizado com uma ligação já usada não atualiza o saldo de estoque do item"
@@ -68545,6 +68560,21 @@
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-se-muestra-el-sku-de-forma-individual",
                 "pt": "o-productimpression-nao-exibe-todos-os-produtos-quando-o-sku-e-exibido-individualmente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "productImpression event is sent with only one product when the shelf uses slider-layout with infinite: true",
+                "es": "El evento productImpression se envía con un solo producto cuando el estante utiliza slider-layout con infinite: true.",
+                "pt": "O evento productImpression é enviado com apenas um produto quando a prateleira usa layout deslizante com infinite: true."
+              },
+              "slug": {
+                "en": "productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true",
+                "es": "el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true",
+                "pt": "o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true"
               },
               "origin": "",
               "type": "markdown",
