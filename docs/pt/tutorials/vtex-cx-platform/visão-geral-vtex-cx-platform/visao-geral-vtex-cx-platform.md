@@ -13,6 +13,7 @@ slugEN: vtex-cx-platform-overview
 legacySlug: visao-geral-weni-by-vtex
 locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
+categoryCover: true
 ---
 
 O VTEX CX Platform é uma ferramenta de criação de chatbots inteligentes. Com ele, você pode criar toda interação que os agentes de inteligência artifical (IA) terão com seus usuários.
