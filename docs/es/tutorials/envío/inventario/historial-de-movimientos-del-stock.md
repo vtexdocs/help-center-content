@@ -32,6 +32,6 @@ Para ver los movimientos de un SKU:
   * La cantidad de ítems antes de la actualización.
   * La cantidad de ítems después de la actualización.
 
-> ⚠️ Solo puedes consultar las últimas 50 actualizaciones en el registro de actualizaciones de un determinado SKU.
+> ℹ️ El registro de actualizaciones muestra el movimiento de los últimos 90 días (3 meses), con un límite de 50 movimientos por SKU. Los movimientos anteriores a este período de tiempo no están disponibles.
 
 La cantidad total de ítems en la página [Gestión de stock](/es/docs/tutorials/gestionar-items-en-inventario) se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el historial de movimientos.
