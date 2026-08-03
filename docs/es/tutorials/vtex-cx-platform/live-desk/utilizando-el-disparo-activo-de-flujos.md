@@ -39,7 +39,7 @@ Antes de configurar el flujo, verifica si la plantilla de mensaje ya está regis
 
 1. Accede a tu organización en el dashboard de [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en el ícono **Flujo de automatización**.
-3. Haz clic en `Crear flujo`.
+3. Haz clic en `Crear flujos`.
 4. Completa los campos de nombre, tipo de flujo y, si es necesario, palabras clave de los disparadores globales.
 5. Haz clic en `Crear`.
 6. Para insertar un bloque, haz clic en el botón `Crear bloque`.
@@ -54,9 +54,9 @@ Además de activar el flujo con la etiqueta `chats`, debes activar el disparo de
 1. Accede a tu organización en el dashboard de [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en **Configuración**.
 3. Haz clic en **Live Desk**.
-4. Haz clic en la pestaña **Departamentos**.
+4. Haz clic en la pestaña **Sectores**.
 
-> ℹ️ Si aún no hay departamentos configurados en Live Desk, haz clic en `Nuevo departamento` y completa la información solicitada en la página **Nuevo departamento**.
+> ℹ️ Si aún no hay sectores configurados en Live Desk, haz clic en `Nuevo sector` y completa la información solicitada en la página **Nuevo departamento**.
 
 5. En el departamento deseado, haz clic en el botón de acciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 6. Haz clic en `Editar`.
@@ -69,7 +69,7 @@ Una vez que el flujo está activado y el departamento permite disparos activos, 
 
 1. Accede a tu organización en el dashboard de [VTEX CX Platform](https://dash.weni.ai/orgs).
 2. En el menú lateral, haz clic en **Live Desk**.
-3. Haz clic en `Opciones`.
+3. Haz clic en `Ver opciones`.
 4. Haz clic en `Flujos`.
 5. Marca las casillas de selección de los contactos a los que deseas disparar el flujo.
 6. Haz clic en `Continuar`.
