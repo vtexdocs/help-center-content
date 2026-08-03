@@ -54,13 +54,13 @@
                 },
                 {
                   "name": {
-                    "en": "New orders configuration experience inside VTEX Admin",
-                    "es": "Nueva experiencia de configuración de pedidos dentro del Admin VTEX",
+                    "en": "New order configuration experience in the VTEX Admin",
+                    "es": "Nueva experiencia de configuración de pedidos en el Admin VTEX",
                     "pt": "Nova experiência de configuração de pedidos no Admin da VTEX"
                   },
                   "slug": {
-                    "en": "2026-07-21-new-orders-configuration-experience-inside-vtex-admin",
-                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-dentro-del-admin-vtex",
+                    "en": "2026-07-21-new-order-configuration-experience-in-the-vtex-admin",
+                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-en-el-admin-vtex",
                     "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex"
                   },
                   "origin": "",
@@ -30390,6 +30390,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PlataDifiere",
+                    "es": "Configurar pago con PlataDifiere",
+                    "pt": "Configurar pagamento com PlataDifiere"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-platadifiere",
+                    "es": "configurar-pago-con-platadifiere",
+                    "pt": "configurar-pagamento-com-platadifiere"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Plexo",
+                    "es": "Configurar pago con Plexo",
+                    "pt": "Configurar pagamento com Plexo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-plexo",
+                    "es": "configurar-pago-con-plexo",
+                    "pt": "configurar-pagamento-com-plexo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PoleCMS",
                     "es": "Configurar pago con PoleCMS",
                     "pt": "Configurar pagamento com PoleCMS"
@@ -30570,6 +30600,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Serfinsa",
+                    "es": "Configurar pago con Serfinsa",
+                    "pt": "Configurar pagamento com Serfinsa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-serfinsa",
+                    "es": "configurar-pago-con-serfinsa",
+                    "pt": "configurar-pagamento-com-serfinsa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Servicredito",
+                    "es": "Configurar pago con Servicredito",
+                    "pt": "Configurar pagamento com Servicredito"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-servicredito",
+                    "es": "configurar-pago-con-servicredito",
+                    "pt": "configurar-pagamento-com-servicredito"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Shipay",
                     "es": "Configurar pago con Shipay",
                     "pt": "Configurar pagamento com Shipay"
@@ -30683,6 +30743,21 @@
                     "en": "setting-up-payments-with-sumaspay",
                     "es": "configurar-pago-con-sumaspay",
                     "pt": "configurar-pagamento-com-sumaspay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Talo",
+                    "es": "Configurar pago con Talo",
+                    "pt": "Configurar pagamento com Talo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-talo",
+                    "es": "configurar-pago-con-talo",
+                    "pt": "configurar-pagamento-com-talo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30870,6 +30945,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with VisaNetGuatemala",
+                    "es": "Configurar pago con VisaNetGuatemala",
+                    "pt": "Configurar pagamento com VisaNetGuatemala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visanetguatemala",
+                    "es": "configurar-pago-con-visanetguatemala",
+                    "pt": "configurar-pagamento-com-visanetguatemala"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Wabi",
                     "es": "Configurar pago con Wabi",
                     "pt": "Configurar pagamento com Wabi"
@@ -30893,6 +30983,21 @@
                     "en": "setting-up-payments-with-wepay4u",
                     "es": "configurar-pago-con-wepay4u",
                     "pt": "configurar-pagamento-com-wepay4u"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wibond",
+                    "es": "Configurar pago con Wibond",
+                    "pt": "Configurar pagamento com Wibond"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wibond",
+                    "es": "configurar-pago-con-wibond",
+                    "pt": "configurar-pagamento-com-wibond"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32350,47 +32455,32 @@
         },
         {
           "name": {
-            "en": "Promotions & taxes",
-            "es": "Tasas y promociones",
-            "pt": "Promoções e taxas"
+            "en": "Promotions & Taxes - Overview",
+            "es": "Tasas y Promociones - Información general",
+            "pt": "Promoções e Taxas - Visão geral"
           },
           "slug": {
-            "en": "promotions-and-taxes-category",
-            "es": "tasas-y-promociones-categoria",
-            "pt": "promoções-e-taxas-categoria"
+            "en": "overview-pricing-module",
+            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+            "pt": "overview-2"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia de las Campañas",
-                "pt": "Audiência de campanhas"
+                "en": "Campaign audiences",
+                "es": "​​Audiencias de campañas",
+                "pt": "Audiências de campanhas"
               },
               "slug": {
-                "en": "campaign-audiences-subcategory",
-                "es": "audiencia-de-las-campanas-subcategoria",
-                "pt": "audiência-de-campanhas-subcategoria"
+                "en": "campaign-audiences",
+                "es": "audiencias-de-campanas",
+                "pt": "audiencias-de-campanhas"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Campaign audiences",
-                    "es": "​​Audiencias de campañas",
-                    "pt": "Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences",
-                    "es": "audiencias-de-campanas",
-                    "pt": "audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Campaign audiences list",
@@ -32440,17 +32530,17 @@
             },
             {
               "name": {
-                "en": "Coupons",
-                "es": "Cupones",
-                "pt": "Cupons"
+                "en": "Promotional coupons: types and groups",
+                "es": "Cupones promocionales: tipos y grupos",
+                "pt": "Cupons promocionais: tipos e grupos"
               },
               "slug": {
-                "en": "coupons-subcategory",
-                "es": "cupones-subcategoria",
-                "pt": "cupons-subcategoria"
+                "en": "coupons-beta",
+                "es": "cupones-beta",
+                "pt": "cupons-beta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32481,37 +32571,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotional coupons: types and groups",
-                    "es": "Cupones promocionales: tipos y grupos",
-                    "pt": "Cupons promocionais: tipos e grupos"
-                  },
-                  "slug": {
-                    "en": "coupons-beta",
-                    "es": "cupones-beta",
-                    "pt": "cupons-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Promotions",
-                "es": "Promociones",
-                "pt": "Promoções"
+                "en": "Promotions - Overview",
+                "es": "Promociones - Información general",
+                "pt": "Promoções - Visão geral"
               },
               "slug": {
-                "en": "promotions-subcategory",
-                "es": "promociones-subcategoria",
-                "pt": "promoções-subcategoria"
+                "en": "promotions-overview",
+                "es": "vision-general-promociones",
+                "pt": "visao-geral-promocoes"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32547,7 +32622,7 @@
                   "name": {
                     "en": "Configuring promotion budgets",
                     "es": "Configurar presupuesto para promociones",
-                    "pt": "Configurando orçamentos para promoções"
+                    "pt": "Configurar orçamentos para promoções"
                   },
                   "slug": {
                     "en": "configuring-promotion-budgets",
@@ -32965,21 +33040,6 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions - Overview",
-                    "es": "Promociones - Información general",
-                    "pt": "Promoções - Visão geral"
-                  },
-                  "slug": {
-                    "en": "promotions-overview",
-                    "es": "vision-general-promociones",
-                    "pt": "visao-geral-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Promotions Simulator",
                     "es": "Simulador de Promociones",
                     "pt": "Simulador de Promoções"
@@ -33101,21 +33161,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to create surcharges/taxes",
-                    "es": "Crear tasa/impuesto",
-                    "pt": "Criar taxa/imposto"
-                  },
-                  "slug": {
-                    "en": "creating-surchargestaxes",
-                    "es": "creando-la-tasaimpuesto",
-                    "pt": "como-criar-taxaimposto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Send the item price, with tax shown separately, to the Gateway or the ERP",
                     "es": "Enviar al Gateway o al ERP el precio del item ya con el impuesto separado",
                     "pt": "Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado"
@@ -33128,23 +33173,23 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Taxes - Overview",
+                    "es": "Tasa - Información general",
+                    "pt": "Taxa - Visão geral"
+                  },
+                  "slug": {
+                    "en": "creating-surchargestaxes",
+                    "es": "creando-la-tasaimpuesto",
+                    "pt": "como-criar-taxaimposto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
-                "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
-              },
-              "slug": {
-                "en": "overview-pricing-module",
-                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                "pt": "overview-2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },

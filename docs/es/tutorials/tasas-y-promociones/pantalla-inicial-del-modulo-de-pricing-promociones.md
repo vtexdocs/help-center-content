@@ -1,5 +1,5 @@
 ---
-title: 'Audiencia de Campañas, promociones, impuestos y cupones - Información general'
+title: 'Tasas y Promociones - Información general'
 id: tutorials_326
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:08.926Z
@@ -16,7 +16,7 @@ subcategoryId: 18wHIuEV5wc6xUjeWKq9Xc
 order: 1
 ---
 
-La configuración de las promociones y las tarifas que funcionan en su tienda online se realizan en el módulo Tasas y Promociones. En él también es posible crear cupones para ser asociados a las promociones. De acuerdo con la configuración, cada promoción puede ser programada, activada o inactivada. Una vez creadas, pueden ser encontradas por medio de búsqueda o filtro y ser archivadas.
+La configuración de las promociones y las tarifas que funcionan en su tienda online se realizan en el módulo **Tasas y Promociones**. En él también es posible crear cupones para ser asociados a las promociones. De acuerdo con la configuración, cada promoción puede ser programada, activada o inactivada. Una vez creadas, pueden ser encontradas por medio de búsqueda o filtro y ser archivadas.
 
 Hay tres departamentos dentro del módulo que son responsables de la configuración de cada una de estas funcionalidades. Son ellos:
 
