@@ -37974,6 +37974,21 @@
                 },
                 {
                   "name": {
+                    "en": "Using active triggering of flows",
+                    "es": "Disparo activo de flujos",
+                    "pt": "Utilizando o disparo ativo de fluxos"
+                  },
+                  "slug": {
+                    "en": "using-active-triggering-of-flows",
+                    "es": "utilizando-el-disparo-activo-de-flujos",
+                    "pt": "utilizando-disparo-ativo-de-fluxos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Using groups to organize human attendance",
                     "es": "Usando grupos para controlar la atención humana",
                     "pt": "Usando grupos para controlar o atendimento humano"
@@ -37982,21 +37997,6 @@
                     "en": "using-groups-to-organize-human-attendance",
                     "es": "usando-grupos-para-controlar-la-atencion-humana",
                     "pt": "usando-grupos-para-controlar-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Using outbound flow triggering",
-                    "es": "Disparo activo de flujos",
-                    "pt": "Utilizando o disparo ativo de fluxos"
-                  },
-                  "slug": {
-                    "en": "using-active-triggering-of-flows",
-                    "es": "utilizando-el-disparo-activo-de-flujos",
-                    "pt": "utilizando-disparo-ativo-de-fluxos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -41697,6 +41697,21 @@
                 "en": "create-product-api-doesnt-send-nulls-as-release-date-values",
                 "es": "la-api-de-creacion-de-productos-no-envia-valores-nulos-como-fecha-de-lanzamiento",
                 "pt": "a-api-de-criacao-de-produtos-nao-envia-nulos-como-valores-de-data-de-lancamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Creating a mandatory, active, sku specification is not inactivating category skus",
+                "es": "La creación de una especificación de SKU obligatoria y activa no desactiva las SKU de categoría.",
+                "pt": "Criar uma especificação de SKU obrigatória e ativa não desativa as SKUs da categoria."
+              },
+              "slug": {
+                "en": "creating-a-mandatory-active-sku-specification-is-not-inactivating-category-skus",
+                "es": "la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria",
+                "pt": "criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria"
               },
               "origin": "",
               "type": "markdown",
@@ -66163,6 +66178,21 @@
             },
             {
               "name": {
+                "en": "Pricing search error (\"Error - undefined\") on sub-accounts due to missing CMS configuration folders",
+                "es": "Error de búsqueda de precios (\"Error - indefinido\") en subcuentas debido a la falta de carpetas de configuración de CMS.",
+                "pt": "Erro na pesquisa de preços (\"Erro - indefinido\") em subcontas devido à ausência de pastas de configuração do CMS."
+              },
+              "slug": {
+                "en": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+                "es": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+                "pt": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product taxPercentage value saved by search-resolver is incorrect due to rounding",
                 "es": "El valor del TaxPercentage del producto guardado por el search-resolver es incorrecto debido al redondeo",
                 "pt": "Imposto sobre o produtoValor percentual economizado pelo resolvedor de busca é incorreto devido ao arredondamento"
@@ -68545,6 +68575,21 @@
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-se-muestra-el-sku-de-forma-individual",
                 "pt": "o-productimpression-nao-exibe-todos-os-produtos-quando-o-sku-e-exibido-individualmente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "productImpression event is sent with only one product when the shelf uses slider-layout with infinite: true",
+                "es": "El evento productImpression se envía con un solo producto cuando el estante utiliza slider-layout con infinite: true.",
+                "pt": "O evento productImpression é enviado com apenas um produto quando a prateleira usa layout deslizante com infinite: true."
+              },
+              "slug": {
+                "en": "productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true",
+                "es": "el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true",
+                "pt": "o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true"
               },
               "origin": "",
               "type": "markdown",
