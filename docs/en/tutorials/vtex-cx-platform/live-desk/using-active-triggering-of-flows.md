@@ -1,5 +1,5 @@
 ---
-title: "Using outbound flow triggering"
+title: "Using active triggering of flows"
 id: 2G7HPM4mD3vuxPHUgtexb7
 status: PUBLISHED
 createdAt: 2025-09-12T16:44:52.727Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6Jkw23mYV23p4V33O1Hjdh
 ---
 
-Outbound flow triggering allows agents to start conversations with contacts or contact groups from Live Desk. This feature is useful for active communications, such as notifications, confirmations, or follow-ups, and can use message templates approved by WhatsApp when the conversation starts through that channel.
+Active flow triggering allows agents to start conversations with contacts or contact groups from Live Desk. This feature is useful for active communications, such as notifications, confirmations, or follow-ups, and can use message templates approved by WhatsApp when the conversation starts through that channel.
 
 This article covers how to:
 
@@ -60,13 +60,13 @@ In addition to enabling the flow with the `chats` label, you need to enable flow
 1. Access your organization in the [VTEX CX Platform](https://dash.weni.ai/orgs) dashboard.
 2. In the side menu, click **Settings**.
 3. Click **Live Desk**.
-4. Click the **Departments** tab.
+4. Click the **Sectors** tab.
 
-> ℹ️ If no departments have been configured in Live Desk yet, click `Create department` and enter the requested information on the **New department** page.
+> ℹ️ If there are no departments configured in Live Desk yet, click `New sector` and fill in the requested information on the **New sector** page.
 
 5. In the desired department, click the actions button <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 6. Click `Edit`.
-7. In **Additional options**, enable the **Trigger message templates** option.
+7. In **Additional options**, enable the **Triggering message templates** option.
 8. Click `Save`.
 
 ## Triggering a flow
