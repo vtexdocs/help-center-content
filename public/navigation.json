@@ -69515,6 +69515,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
+                "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
+                "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
+              },
+              "slug": {
+                "en": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
+                "es": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
+                "pt": "mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Netshoes - Main Image not respected",
                 "es": "Netshoes - Imagen principal no respetada",
                 "pt": "Netshoes - Imagem principal não respeitada"
