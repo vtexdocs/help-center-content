@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-08-04",
   "providers": [
     {
       "name": "55Pay",
@@ -1901,6 +1901,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "VindiPagamentos",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-vindipagamentos",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-vindipagamentos",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-vindipagamentos"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Virtualpos",
       "payoutSplit": false,
       "docs": {
@@ -1959,6 +1969,66 @@
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wibond"
       },
       "countries": ["AR"]
+    },
+    {
+      "name": "Wompi",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompi",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "Wompi-Nequi",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompi-nequi",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi-nequi",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi-nequi"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "Wompi-PSE",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompi-pse",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi-pse",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi-pse"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "WompiBancolTrans",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompibancoltrans",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompibancoltrans",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompibancoltrans"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "WompiCoV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompicov2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompicov2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompicov2"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "Worldpay-Payments-Via-WPG",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-worldpay-payments-via-wpg",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-worldpay-payments-via-wpg",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-worldpay-payments-via-wpg"
+      },
+      "countries": ["GB"]
     },
     {
       "name": "WorldpayVTEX",
