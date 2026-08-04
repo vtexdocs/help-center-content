@@ -32455,47 +32455,32 @@
         },
         {
           "name": {
-            "en": "Promotions & taxes",
-            "es": "Tasas y promociones",
-            "pt": "Promoções e taxas"
+            "en": "Promotions & Taxes - Overview",
+            "es": "Tasas y Promociones - Información general",
+            "pt": "Promoções e Taxas - Visão geral"
           },
           "slug": {
-            "en": "promotions-and-taxes-category",
-            "es": "tasas-y-promociones-categoria",
-            "pt": "promoções-e-taxas-categoria"
+            "en": "overview-pricing-module",
+            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+            "pt": "overview-2"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia de las Campañas",
-                "pt": "Audiência de campanhas"
+                "en": "Campaign audiences",
+                "es": "​​Audiencias de campañas",
+                "pt": "Audiências de campanhas"
               },
               "slug": {
-                "en": "campaign-audiences-subcategory",
-                "es": "audiencia-de-las-campanas-subcategoria",
-                "pt": "audiência-de-campanhas-subcategoria"
+                "en": "campaign-audiences",
+                "es": "audiencias-de-campanas",
+                "pt": "audiencias-de-campanhas"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Campaign audiences",
-                    "es": "​​Audiencias de campañas",
-                    "pt": "Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences",
-                    "es": "audiencias-de-campanas",
-                    "pt": "audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Campaign audiences list",
@@ -32545,17 +32530,17 @@
             },
             {
               "name": {
-                "en": "Coupons",
-                "es": "Cupones",
-                "pt": "Cupons"
+                "en": "Promotional coupons: types and groups",
+                "es": "Cupones promocionales: tipos y grupos",
+                "pt": "Cupons promocionais: tipos e grupos"
               },
               "slug": {
-                "en": "coupons-subcategory",
-                "es": "cupones-subcategoria",
-                "pt": "cupons-subcategoria"
+                "en": "coupons-beta",
+                "es": "cupones-beta",
+                "pt": "cupons-beta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32586,37 +32571,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotional coupons: types and groups",
-                    "es": "Cupones promocionales: tipos y grupos",
-                    "pt": "Cupons promocionais: tipos e grupos"
-                  },
-                  "slug": {
-                    "en": "coupons-beta",
-                    "es": "cupones-beta",
-                    "pt": "cupons-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Promotions",
-                "es": "Promociones",
-                "pt": "Promoções"
+                "en": "Promotions - Overview",
+                "es": "Promociones - Información general",
+                "pt": "Promoções - Visão geral"
               },
               "slug": {
-                "en": "promotions-subcategory",
-                "es": "promociones-subcategoria",
-                "pt": "promoções-subcategoria"
+                "en": "promotions-overview",
+                "es": "vision-general-promociones",
+                "pt": "visao-geral-promocoes"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32652,7 +32622,7 @@
                   "name": {
                     "en": "Configuring promotion budgets",
                     "es": "Configurar presupuesto para promociones",
-                    "pt": "Configurando orçamentos para promoções"
+                    "pt": "Configurar orçamentos para promoções"
                   },
                   "slug": {
                     "en": "configuring-promotion-budgets",
@@ -33070,21 +33040,6 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions - Overview",
-                    "es": "Promociones - Información general",
-                    "pt": "Promoções - Visão geral"
-                  },
-                  "slug": {
-                    "en": "promotions-overview",
-                    "es": "vision-general-promociones",
-                    "pt": "visao-geral-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Promotions Simulator",
                     "es": "Simulador de Promociones",
                     "pt": "Simulador de Promoções"
@@ -33206,21 +33161,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to create surcharges/taxes",
-                    "es": "Crear tasa/impuesto",
-                    "pt": "Criar taxa/imposto"
-                  },
-                  "slug": {
-                    "en": "creating-surchargestaxes",
-                    "es": "creando-la-tasaimpuesto",
-                    "pt": "como-criar-taxaimposto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Send the item price, with tax shown separately, to the Gateway or the ERP",
                     "es": "Enviar al Gateway o al ERP el precio del item ya con el impuesto separado",
                     "pt": "Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado"
@@ -33233,23 +33173,23 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Taxes - Overview",
+                    "es": "Tasa - Información general",
+                    "pt": "Taxa - Visão geral"
+                  },
+                  "slug": {
+                    "en": "creating-surchargestaxes",
+                    "es": "creando-la-tasaimpuesto",
+                    "pt": "como-criar-taxaimposto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
-                "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
-              },
-              "slug": {
-                "en": "overview-pricing-module",
-                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                "pt": "overview-2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -38080,7 +38020,7 @@
                 {
                   "name": {
                     "en": "Using active triggering of flows",
-                    "es": "Utilizando el disparo activo de flujos",
+                    "es": "Disparo activo de flujos",
                     "pt": "Utilizando o disparo ativo de fluxos"
                   },
                   "slug": {
@@ -39058,8 +38998,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configure Live Desk",
-                    "es": "Configure Live Desk",
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
                     "pt": "Configurar o Live Desk"
                   },
                   "slug": {
