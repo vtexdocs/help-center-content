@@ -30915,6 +30915,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with VindiPagamentos",
+                    "es": "Configurar pago con VindiPagamentos",
+                    "pt": "Configurar pagamento com VindiPagamentos"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-vindipagamentos",
+                    "es": "configurar-pago-con-vindipagamentos",
+                    "pt": "configurar-pagamento-com-vindipagamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Virtualpos",
                     "es": "Configurar pago con Virtualpos",
                     "pt": "Configurar pagamento com Virtualpos"
@@ -31005,6 +31020,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Wompi",
+                    "es": "Configurar pago con Wompi",
+                    "pt": "Configurar pagamento com Wompi"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompi",
+                    "es": "configurar-pago-con-wompi",
+                    "pt": "configurar-pagamento-com-wompi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Wompi-Nequi",
                     "es": "Configurar pago con Wompi-Nequi",
                     "pt": "Configurar pagamento com Wompi-Nequi"
@@ -31013,6 +31043,51 @@
                     "en": "setting-up-payments-with-wompi-nequi",
                     "es": "configurar-pago-con-wompi-nequi",
                     "pt": "configurar-pagamento-com-wompi-nequi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wompi-PSE",
+                    "es": "Configurar pago con Wompi-PSE",
+                    "pt": "Configurar pagamento com Wompi-PSE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompi-pse",
+                    "es": "configurar-pago-con-wompi-pse",
+                    "pt": "configurar-pagamento-com-wompi-pse"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with WompiBancolTrans",
+                    "es": "Configurar pago con WompiBancolTrans",
+                    "pt": "Configurar pagamento com WompiBancolTrans"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompibancoltrans",
+                    "es": "configurar-pago-con-wompibancoltrans",
+                    "pt": "configurar-pagamento-com-wompibancoltrans"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with WompiCoV2",
+                    "es": "Configurar pago con WompiCoV2",
+                    "pt": "Configurar pagamento com WompiCoV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompicov2",
+                    "es": "configurar-pago-con-wompicov2",
+                    "pt": "configurar-pagamento-com-wompicov2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31043,6 +31118,21 @@
                     "en": "setting-up-payments-with-worldline-global-online-pay",
                     "es": "configurar-pago-con-worldline-global-online-pay",
                     "pt": "configurar-pagamento-com-worldline-global-online-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Worldpay-Payments-Via-WPG",
+                    "es": "Configurar pago con Worldpay-Payments-Via-WPG",
+                    "pt": "Configurar pagamento com Worldpay-Payments-Via-WPG"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-worldpay-payments-via-wpg",
+                    "es": "configurar-pago-con-worldpay-payments-via-wpg",
+                    "pt": "configurar-pagamento-com-worldpay-payments-via-wpg"
                   },
                   "origin": "",
                   "type": "markdown",
