@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "2026-august",
+                "es": "2026-agosto",
+                "pt": "2026-agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Request Capture to Activity Flow migration: what changes in navigation metrics",
+                    "es": "Migración de Request Capture a Activity Flow: qué cambia en las métricas de navegación",
+                    "pt": "Migração de Request Capture para Activity Flow: o que muda nas métricas de navegação"
+                  },
+                  "slug": {
+                    "en": "2026-08-05-request-capture-to-activity-flow-migration-navigation-metrics",
+                    "es": "2026-08-05-migracion-de-request-capture-a-activity-flow-que-cambia-en-las-metricas-de-navegacion",
+                    "pt": "2026-08-05-migracao-de-request-capture-para-activity-flow-o-que-muda-nas-metricas-de-navegacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "July",
                 "es": "Julio",
                 "pt": "Julho"
