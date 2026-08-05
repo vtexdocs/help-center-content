@@ -15,16 +15,16 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A **Publicação de produtos** é o ponto único do Admin VTEX para disponibilizar os produtos do seu catálogo na Amazon. A partir dela, é possível tanto vincular SKUs a anúncios que já existem no marketplace quanto criar anúncios novos.
+A **Publicação de produtos** é o ponto único do Admin VTEX para disponibilizar os produtos do seu catálogo na Amazon. A partir dela, é possível tanto vincular SKUs a anúncios que já existem na Amazon quanto criar anúncios novos.
 
 Ao finalizar a [integração com a Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon), é necessário disponibilizar os produtos da loja para serem anunciados no marketplace. Todo SKU enviado para a Amazon passa, primeiro, por um processo de vínculo: a Amazon tenta unificar o anúncio com outros já existentes do mesmo produto através do [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) ou GTIN cadastrado na VTEX (equivalente ao [ASIN](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) na Amazon). O resultado desse processo determina em qual das duas abas o SKU aparece.
 
 > ℹ️ Todos os produtos precisam ter [Estoque](/pt/docs/tutorials/estoque) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace. Também é necessário configurar o [campo EAN](/pt/docs/tutorials/adicionar-ou-editar-produto) dos produtos que você deseja enviar para a Amazon. Para mais detalhes, consulte o tutorial [Envio de produtos à Amazon](/pt/docs/tracks/envio-de-produtos-para-amazon).
 
 
-A página **Publicação de produtos** organiza os SKUs em duas abas, de acordo com o resultado da busca da Amazon no catálogo do marketplace. Assim, o seller identifica quais produtos devem ser vinculados com um anúncio existente e quais devem ser cadastrados e enviar um anúncio novo. No Admin VTEX, clique em **Marketplace > Amazon > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
+A página **Publicação de produtos** organiza os SKUs em duas abas, de acordo com o resultado da busca da Amazon no catálogo do marketplace. Assim, o seller identifica quais produtos devem ser vinculados com um anúncio existente e quais devem ser cadastrados como um novo anúnico. No Admin VTEX, clique em **Marketplace > Amazon > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
 
-Veje abaixo o fluxo de publicação na Amazon:
+Veja abaixo o fluxo de publicação na Amazon:
 
 ```mermaid
 flowchart LR
@@ -174,13 +174,16 @@ Cada SKU apresenta um status. Veja a seguir quais são e o que cada um represent
 
 ### Cadastrando um SKU
 
- Parra cadastar um novo SKU siga os passos a baixo:
+Para cadastrar um novo SKU, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Marketplace > Amazon > Publicação de produtos** ou digite **Publicação de produtos** na barra de busca.
 2. Selecione a aba **Prontos para criar e enviar**.
 3. Selecione o SKU que deseja cadastrar.
-4. Preencha os campos **Título**, **Descrição**, **Palavras-chave** e **Categoria**.
-5. Clique no botão `Salvar e enviar` para validar o cadastro e enviar à Amazon, ou clique no botão `Finalizar depois` para armazenar os dados já cadastrados e finalizar posteriormente.
+4. Preencha os campos **Título**, **Descrição** e **Palavras-chave**. Se desejar, use as [sugestões por IA](#sugestoes-por-ia) disponíveis em cada campo.
+5. Confira a **Categoria** aplicada automaticamente e complete o [preenchimento dos atributos](#preenchimento-de-atributos).
+6. Clique no botão `Salvar e enviar` para validar o cadastro e enviar à Amazon, ou clique no botão `Finalizar depois` para armazenar os dados já cadastrados e finalizar posteriormente.
+
+O botão `Salvar e enviar` permanece desabilitado até que todos os atributos necessários estejam preenchidos.
 
 ![Cadastro de SKU na Publicação de produtos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_5.png)
 
@@ -194,13 +197,21 @@ Na tela de cadastro, o seller pode usar o botão `Sugerir` nos campos **Título*
 
 - O título enviado para a Amazon deve iniciar com o nome da marca. É possível visualizar e editar o título no campo correspondente.
 - No mínimo 3 palavras-chave devem ser cadastradas no SKU.
-- As sugestões de categoria são feitas com base no título e na descrição. Recomendamos selecionar uma das sugestões da Amazon, mas você pode selecionar uma categoria diferente a partir da árvore de categorias. Quando a categoria for sugerida por IA, o indicador **Sugerido por IA** é exibido abaixo do campo.
+- As sugestões de categoria são feitas com base no título e na descrição. Recomendamos selecionar uma das sugestões da Amazon, mas você pode selecionar uma categoria diferente a partir da árvore de categorias.
 
 Ao clicar em `Sugerir` no campo **Descrição**, um card **Sugestão de descrição** é exibido com o texto gerado. O seller pode aplicar a sugestão, regenerá-la ou fechá-la.
 
 ![Sugestão de descrição por IA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_6.png)
 
 > ℹ️ Verifique as informações geradas antes de aplicar.
+
+### Preenchendo atributos
+
+Ao abrir o formulário de cadastro, a IA sugere e aplicada automaticamente uma categoria para o produto. No canto inferior da tela um aviso aparecerá  para confirmar que a categoria foi sugerida po IA. Se a sugestão não fizer sentido, o seller pode desfazê-la clicando no botão `Desfazer`.
+
+Com a categoria aplicada, os atributos correspondentes são carregados automaticamente no formulário. O seller precisa preencher todos os campos obrigatórios. O botão `Carregar mais atributos` só é habilitado quando os campos exibidos estiverem completos, e o botão `Salvar e enviar` fica disponível somente após o preenchimento de todos os atributos obrigatórios.
+
+![Carregar mais atributos desabilitado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_10.png)
 
 ### Template de cadastro de produtos
 
