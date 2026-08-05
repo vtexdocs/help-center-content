@@ -25326,37 +25326,6 @@
             },
             {
               "name": {
-                "en": "Multilanguage",
-                "es": "Multidioma",
-                "pt": "Multi idioma"
-              },
-              "slug": {
-                "en": "multilanguage",
-                "es": "multidioma",
-                "pt": "multi-idioma"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "VTEX Intelligent Search: Multilanguage settings",
-                    "es": "VTEX Intelligent Search: configuración Multidioma",
-                    "pt": "VTEX Intelligent Search: configurações Multi-idioma"
-                  },
-                  "slug": {
-                    "en": "vtex-intelligent-search-multilanguage-settings",
-                    "es": "vtex-intelligent-search-configuracion-multidioma",
-                    "pt": "vtex-intelligent-search-configuracoes-multi-idioma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Search configuration",
                 "es": "Configuración de la búsqueda",
                 "pt": "Configuração da busca"
@@ -25365,6 +25334,21 @@
                 "en": "search-configuration",
                 "es": "configuracion-de-la-busqueda",
                 "pt": "configuracao-da-busca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Intelligent Search: Multilanguage settings",
+                "es": "VTEX Intelligent Search: configuración Multidioma",
+                "pt": "VTEX Intelligent Search: configurações Multi-idioma"
+              },
+              "slug": {
+                "en": "vtex-intelligent-search-multilanguage-settings",
+                "es": "vtex-intelligent-search-configuracion-multidioma",
+                "pt": "vtex-intelligent-search-configuracoes-multi-idioma"
               },
               "origin": "",
               "type": "markdown",
