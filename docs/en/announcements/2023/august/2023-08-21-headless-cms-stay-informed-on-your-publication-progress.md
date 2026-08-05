@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy): Stay informed on your publication progress'
 id: 3ajb4FgE6nmqjblpSEg3SP
 status: PUBLISHED

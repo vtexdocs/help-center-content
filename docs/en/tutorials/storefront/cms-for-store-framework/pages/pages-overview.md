@@ -37,5 +37,5 @@ In the VTEX Admin, go to **Storefront > Pages** and check out the main tools ava
 
 Check out the following tutorials to start managing your storefront content:
 
-- [Creating landing pages per binding](/en/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Creating landing pages per binding](/docs/tutorials/creating-landing-pages)
 - [Managing URL redirects per binding](/en/docs/tutorials/managing-redirects-per-binding)
