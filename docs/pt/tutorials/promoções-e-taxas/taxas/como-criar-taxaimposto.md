@@ -1,5 +1,5 @@
 ---
-title: 'Criar taxa/imposto'
+title: 'Taxa - Visão geral'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z

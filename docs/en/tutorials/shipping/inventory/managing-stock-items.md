@@ -53,6 +53,8 @@ In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, or type
 
 The total quantity of items on the **Inventory Management** page is updated in real-time, but it may take up to 1 hour to reflect in the [inventory history](/en/docs/tutorials/inventory-update-history).
 
+> ℹ️ The [update log](/en/docs/tutorials/inventory-update-history) displays activity from the last 90 days (3 months), with a limit of 50 activities per SKU. Activity before this time frame is not available.
+
 ### Search filters
 
 In the **Inventory Management** page, to perform a search, simply type the name or SKU ID and click <i class="fa-solid fa-magnifying-glass"></i> the magnifying glass icon. To use filters, see the available oenions:

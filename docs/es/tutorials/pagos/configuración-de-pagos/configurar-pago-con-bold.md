@@ -1,18 +1,12 @@
 ---
 title: 'Configurar pago con Bold'
-id:
-status: PUBLISHED
-createdAt: 2026-01-26T00:00:00.000Z
-updatedAt: 2026-01-26T00:00:00.000Z
-publishedAt: 2026-01-26T00:00:00.000Z
-firstPublishedAt: 2026-01-26T00:00:00.000Z
+createdAt: 2026-07-26T00:00:00.000Z
+updatedAt: 2026-07-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-bold
-legacySlug: configurar-pago-con-bold
 locale: es
-subcategoryId: 3tDGibM2tqMyqIyukqmmMw
+hidden: false
 ---
 
 En VTEX es posible la integración con el proveedor de pagos Bold. Con este proveedor, su tienda puede realizar ventas a través de Paga en línea con Bold.
@@ -25,17 +19,23 @@ Para configurar Bold, siga los pasos a continuación:
 4. En **Autorización del proveedor**, rellene los campos de registro **Clave de aplicación** y **Token de aplicación** con los datos proporcionados por su cuenta Bold.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor Bold en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
 6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.
-7. En **Campos del Proveedor**, seleccione o complete los campos **account_name** según las instrucciones del proveedor.
-8. Haga clic en `Guardar`.
+7. En **Liquidación automática**, seleccione una de las siguientes opciones:
+- **Utiliza comportamiento recomendado por el procesador de pagos**: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).
+- **Liquidación automática inmediatamente después de la autorización del pago**: la captura es automática y se produce inmediatamente después de la autorización, incluso si la transacción tiene un análisis antifraude.
+- **Liquidación automática inmediatamente después del análisis antifraude**: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").
+- **Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.
+
+8. En **Campos del Proveedor**, seleccione o complete los campos **account_name** según las instrucciones del proveedor.
+9. Haga clic en `Guardar`.
 
 ## Configurar condición de pago
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
-3. Haga clic en __Paga en línea con Bold__.
-4. Active la condición en el campo __Status__.
-5. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-6. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
+2. En la pestana **Condiciones de pago**, haga clic en el botón `+`.
+3. Haga clic en **Paga en línea con Bold**.
+4. Active la condición en el campo **Status**.
+5. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
+6. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/docs/tutorials/condiciones-especiales).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Bold puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
