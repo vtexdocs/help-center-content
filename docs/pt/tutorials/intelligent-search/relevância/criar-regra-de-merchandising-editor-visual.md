@@ -29,7 +29,7 @@ Para configurar uma [regra de merchandising](/pt/docs/tutorials/regras-de-mercha
 6. Clique em `Próximo`.
 7. Defina ao menos um termo de busca ou um filtro para a aplicação da regra de merchandising:
     * Para definir um termo de busca, digite o termo na barra de busca (item **II** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])).
-    * Para criar um filtro para aplicação da regra de merchandising (item **III** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])), siga o passo a passo descrito na seção [Adicionar filtros e condições](/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes).
+    * Para criar um filtro para aplicação da regra de merchandising (item **III** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])), siga o passo a passo descrito na seção [Adicionar filtros e condições](https://help.vtex.com/pt/docs/tutorials/criar-regra-de-merchandising-editor-visual#adicionar-filtros-e-condicoes).
 8. Se desejar, realize as ações opcionais citadas a seguir para customizar os resultados de busca:
     * Definir quantidade de itens por linha nos resultados de busca.
     * Definir quantidade de itens por página nos resultados de busca.

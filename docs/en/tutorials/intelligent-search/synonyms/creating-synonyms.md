@@ -15,7 +15,7 @@ locale: en
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-> ℹ️ We recommend using [Synonyms](/en/docs/tutorials/synonyms) instead of [Substitute Words](/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
+> ℹ️ We recommend using [Synonyms](/en/docs/tutorials/synonyms) instead of [Substitute Words](https://help.vtex.com/en/docs/tutorials/how-to-optimize-searches-with-substitute-words) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
 
 There are two ways to set up synonyms in VTEX Admin: [individually](#creating-synonyms-individually) or by [importing a spreadsheet in CSV format](#importing-csv-spreadsheet). If you need to register synonyms in bulk, we recommend using the spreadsheet. See the instructions for each configuration form in the following sections.
 

@@ -31,7 +31,7 @@ To configure a VTEX Intelligent Search [merchandising rule](/en/docs/tutorials/m
 7.	Define at least one search term or filter for applying the merchandising rule:
 
 	* To define a search term, type the term in the search bar (item **II** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section).
-	* To create a filter for applying the merchandising rule (item **III** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section), follow the steps described in the[ Adding filters and conditions](/en/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes) section.
+	* To create a filter for applying the merchandising rule (item **III** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section), follow the steps described in the[ Adding filters and conditions](https://help.vtex.com/en/docs/tutorials/creating-merchandising-rules-visual-editor#adding-filters-and-conditions) section.
 8.	You can also perform the following additional actions to customize the search results.
 
 	* Define the number of items per row in the search results.
