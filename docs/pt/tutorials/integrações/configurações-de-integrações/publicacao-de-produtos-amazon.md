@@ -55,7 +55,6 @@ flowchart LR
 
 Cada SKU aparece em apenas uma das abas, a definição de onde ele estará depende do resultado da busca pelo produto no catálogo da Amazon. Após a publicação confirmada, o SKU passa a ter status **Enviado** dentro da própria aba em que estava.
 
-
 ## Produtos prontos para vincular
 
 Nessa aba, o seller revisa e confirma ou recusa as sugestões de vínculo entre os SKUs da VTEX e os anúncios já existentes na Amazon. O contador ao lado do nome da aba mostra a quantidade de SKUs aguardando revisão.
@@ -106,7 +105,7 @@ Para confirmar a sugestão de vínculo exibida siga os passos a seguir:
 3. Clique em `Confirmar e publicar`, no canto superior direito.
 4. No modal de confirmação, clique em `Enviar` para confirmar ou em `Cancelar` para voltar sem enviar.
 
-Após a confirmação, o SKU passa para o status **Enviado**.
+Após a confirmação, o SKU passa para o status **Enviado**. Como o processamento na Amazon é assíncrono, o retorno de sucesso ou falha pode ocorrer depois. Acompanhe o resultado no status do SKU e em [**Status dos anúncios**](/pt/docs/tutorials/status-dos-anuncios).
 
 ### Recusando uma sugestão
 
@@ -187,7 +186,9 @@ O botão `Salvar e enviar` permanece desabilitado até que todos os atributos ne
 
 ![Cadastro de SKU na Publicação de produtos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_5.png)
 
-Ao finalizar o cadastro e enviar o SKU, ele entra em uma fila de processamento. O status muda para **Enviado**, aguardando aprovação ou rejeição da Amazon. Quando aceito, o SKU tem seu status alterado para **Publicado**; se rejeitado, o status é alterado para **Devolvido com erro** para correção do seller.
+Ao finalizar o cadastro e enviar o SKU, ele entra em uma fila de processamento. O status muda para **Enviado**, aguardando a Amazon concluir o processamento. Quando aceito, o SKU tem seu status alterado para **Publicado**; se rejeitado, o status é alterado para **Devolvido com erro** para correção do seller.
+
+> ℹ️ O envio dos produtos para a Amazon é assíncrono. O retorno de sucesso ou falha é apresentado apenas quando a Amazon finaliza o processamento de vínculo ou criação de anúncio. O resultado será apresentado no campo **Status** do SKU e também em [**Status dos anúncios**](/pt/docs/tutorials/status-dos-anuncios).
 
 Ao salvar e enviar, as informações da categoria Amazon e dos atributos são replicadas para os SKUs deste produto que ainda não foram enviados. Se preferir, você pode desativar essa replicação pelo atalho `Desativar replicação`, exibido no banner informativo no topo da página de cadastro.
 
