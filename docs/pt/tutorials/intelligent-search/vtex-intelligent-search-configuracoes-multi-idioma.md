@@ -26,7 +26,7 @@ Com o VTEX Intelligent Search Multi-idioma instalado, as informações do Catál
 - **[Intelligent Search API v1](https://developers.vtex.com/docs/api-reference/intelligent-search-api-v1)**: as traduções são obtidas nativamente pela API do [Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide), então não é necessário usar o Messages.
 - **Versões anteriores**: o conteúdo do catálogo ainda precisa ser traduzido pelo **[Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization)**, uma abordagem baseada em GraphQL que utiliza o aplicativo `catalog-graphql`.
 
-> ⚠️ Essas duas abordagens são mutuamente exclusivas. Depois que o Catalog multi-language for ativado na sua conta, não será mais possível gerenciar as traduções do Catálogo pelo Messages (GraphQL).
+> ⚠️ Essas duas abordagens não podem ser usadas ao mesmo tempo. Depois que o Catalog multi-language for ativado na sua conta, não será mais possível gerenciar as traduções do Catálogo pelo Messages (GraphQL).
 
 Os campos disponíveis para tradução são diferentes entre as duas abordagens:
 
