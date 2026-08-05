@@ -21,10 +21,10 @@ VTEX Intelligent Search: Multilanguage expands [Intelligent Search’s](/en/docs
 
 > ℹ️  If you want to expand your ecommerce to another language, contact [our Support](https://support.vtex.com/hc/pt-br/requests) and the VTEX team will perform the necessary configurations.
 
-After installing VTEX Intelligent Search: Multilanguage, your Catalog's information must be translated so it can be displayed in each locale configured for the store. There are two approaches for managing catalog translations:
+After installing VTEX Intelligent Search: Multilanguage, your Catalog's information must be translated so it can be displayed in each locale configured for the store. Whether you still need Messages for this depends on the Intelligent Search API version used by your store:
 
-- **[Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide)** (recommended): the latest solution, using dedicated REST endpoints.
-- **[Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization)** (legacy): a GraphQL-based approach using the `catalog-graphql` app.
+- **Intelligent Search API v1**: translations are pulled natively from the [Catalog multi-language](https://developers.vtex.com/docs/guides/catalog-multi-language-integration-guide) API, so Messages is not required.
+- **Earlier versions**: catalog content still needs to be translated through **[Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization)**, a GraphQL-based approach using the `catalog-graphql` app.
 
 > ⚠️ These two approaches are mutually exclusive. Once Catalog multi-language is activated for your account, you can no longer manage catalog translations through Messages (GraphQL).
 
