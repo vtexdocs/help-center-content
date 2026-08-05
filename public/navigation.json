@@ -25328,12 +25328,12 @@
               "name": {
                 "en": "Multilanguage",
                 "es": "Multidioma",
-                "pt": "Multi-idioma"
+                "pt": "Multi idioma"
               },
               "slug": {
-                "en": "multilanguage-subcategory",
-                "es": "multidioma-subcategoria",
-                "pt": "multi-idioma-subcategoria"
+                "en": "multilanguage",
+                "es": "multidioma",
+                "pt": "multi-idioma"
               },
               "origin": "",
               "type": "category",
@@ -60159,6 +60159,21 @@
             },
             {
               "name": {
+                "en": "Cash (1x) transactions may be recorded under a payment rule that does not offer the 1x installment option",
+                "es": "Las transacciones en efectivo (1x) pueden registrarse bajo una regla de pago que no ofrece la opción de pago a plazos 1x.",
+                "pt": "Transações em dinheiro (1x) podem ser registradas sob uma regra de pagamento que não oferece a opção de parcelamento em 1x."
+              },
+              "slug": {
+                "en": "cash-1x-transactions-may-be-recorded-under-a-payment-rule-that-does-not-offer-the-1x-installment-option",
+                "es": "las-transacciones-en-efectivo-1x-pueden-registrarse-bajo-una-regla-de-pago-que-no-ofrece-la-opcion-de-pago-a-plazos-1x",
+                "pt": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog access profile gives access to the Gift Card module",
                 "es": "El perfil de acceso al catálogo da acceso al módulo de la tarjeta regalo",
                 "pt": "Perfil de acesso ao catálogo dá acesso ao módulo Gift Card"
@@ -60932,21 +60947,6 @@
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
                 "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option",
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela"
-              },
-              "slug": {
-                "en": "for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option",
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -62072,6 +62072,21 @@
                 "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
                 "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
                 "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
+                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela",
+                "en": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
+              },
+              "slug": {
+                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
+                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -66194,6 +66209,21 @@
             },
             {
               "name": {
+                "en": "Pricing search error (\"Error - undefined\") on sub-accounts due to missing CMS configuration folders",
+                "es": "Error de búsqueda de precios (\"Error - indefinido\") en subcuentas debido a la falta de carpetas de configuración de CMS.",
+                "pt": "Erro na pesquisa de preços (\"Erro - indefinido\") em subcontas devido à ausência de pastas de configuração do CMS."
+              },
+              "slug": {
+                "en": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+                "es": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+                "pt": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product taxPercentage value saved by search-resolver is incorrect due to rounding",
                 "es": "El valor del TaxPercentage del producto guardado por el search-resolver es incorrecto debido al redondeo",
                 "pt": "Imposto sobre o produtoValor percentual economizado pelo resolvedor de busca é incorreto devido ao arredondamento"
@@ -69464,6 +69494,21 @@
                 "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
                 "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
                 "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
+                "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
+                "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
+              },
+              "slug": {
+                "en": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
+                "es": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
+                "pt": "mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla"
               },
               "origin": "",
               "type": "markdown",
