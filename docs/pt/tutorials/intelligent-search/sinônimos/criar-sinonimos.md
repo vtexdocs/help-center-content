@@ -43,7 +43,7 @@ A alteração pode demorar até duas horas para ser aplicada.
 
 ### Detecção de sinônimos conflitantes
 
-Ao preencher o campo **Termos** na etapa anterior, o VTEX Intelligent Search verifica se os termos informados já são cobertos por outra regra de sinônimo existente na loja. Essa verificação considera toda a base de sinônimos cadastrada, o que ajuda a evitar duplicidade e conflitos de relevância, especialmente em lojas com uma grande quantidade de sinônimos configurados.
+Ao preencher o campo **Termos** na etapa anterior, o Intelligent Search verifica se os termos informados já são cobertos por outra regra de sinônimo existente na loja. Essa verificação ajuda a evitar duplicidade e conflitos de relevância, especialmente em lojas com uma grande quantidade de sinônimos configurados.
 
 Se um termo já estiver coberto por outro sinônimo, um aviso é exibido no formulário informando quantos sinônimos compartilham os mesmos termos. Clique em `Ver regras conflitantes` para abrir, em outra aba, a página de **Sinônimos conflitantes**, que lista as regras sobrepostas com as seguintes informações:
 
