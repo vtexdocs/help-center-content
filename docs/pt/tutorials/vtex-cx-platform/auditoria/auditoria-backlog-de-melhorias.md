@@ -34,12 +34,12 @@ Para executar uma análise, siga os passos abaixo:
 Os resultados aparecerão em uma lista com três colunas:
 
 - **Melhoria:** Indica o tópico que pode ser melhorado ou o problema identificado.
-- **Tipo:** Identifica o tipo de problema. Leia os tipos e a descrição de cada um a seguir: 
+- **Tipo:** Identifica o tipo de problema. Leia os tipos e a descrição de cada um a seguir:
 
 | Tipos de problema | Descrição |
 | --- | --- |
 | **Comportamento** | O agente saiu do tom de voz esperado da marca, fez perguntas em excesso antes de ajudar ou não seguiu as instruções configuradas. |
-| **Conhecimento** | O agente precisou de uma informação para responder o cliente, mas não encontrou na base de conhecimento. |
+| **Conhecimento** | O agente precisou de uma informação para responder ao cliente, mas não a encontrou na base de conhecimento. |
 | **Problema técnico** | Falha técnica, como de integração externa. |
 | **Análise personalizada** | Problema encontrado a partir de um monitor que você configurou. |
 
@@ -60,11 +60,11 @@ Clique em qualquer melhoria para abrir o painel de detalhe. O painel traz as inf
 
 Ao final de cada item, você pode selecionar uma das duas ações a seguir:
 
-- **`Marcar como resolvido`:** quando um item é resolvido, ele sai da lista de pendências. Recomendamos marcar ele como resolvido apenas após aplicar a correção. Itens resolvidos não voltam a aparecer na lista nem em novas análises.
+- **`Marcar como resolvido`:** quando um item é resolvido, ele sai da lista de pendências. Recomendamos marcá-lo como resolvido apenas após aplicar a correção. Itens resolvidos não voltam a aparecer na lista nem em novas análises.
 
 > ⚠️ Marcar como resolvido não altera o agente automaticamente. Você deve implementar a melhoria nas instruções ou na base de conhecimento.
 
-- **`Ignorar melhoria`:** quando um item é ignorado, ele sai da lista imediatamente. Recomendamos usar quando não é relevante ou não será tratado. Itens ignorados não voltam a aparecer na lista nem em novas análises.
+- **`Ignorar melhoria`:** quando um item é ignorado, ele sai da lista imediatamente. Recomendamos ignorá-lo quando não for relevante ou não for tratado. Itens ignorados não voltam a aparecer na lista nem em novas análises.
 
 ## Criar análise personalizada
 
@@ -87,7 +87,7 @@ A partir de então, esse critério passa a ser avaliado nas próximas análises,
 Para visualizar as análises que você já criou, siga os passos a seguir:
 
 1. Na aba **Backlog de melhorias**, clique em `Análise personalizada`.
-2. A lista de análises personalizadas vai aparecer, com a quantidade de conversas afetadas por cada uma
+2. A lista de análises personalizadas vai aparecer, com a quantidade de conversas afetadas por cada uma.
 3. Para ver as conversas afetadas, clique na análise desejada.
 
 Para excluir uma análise personalizada, siga os passos a seguir:
