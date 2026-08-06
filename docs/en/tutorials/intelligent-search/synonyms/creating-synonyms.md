@@ -3,7 +3,7 @@ title: 'Creating synonyms'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-10-15T13:46:16.968Z
+updatedAt: 2026-08-05T00:00:00.000Z
 publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
