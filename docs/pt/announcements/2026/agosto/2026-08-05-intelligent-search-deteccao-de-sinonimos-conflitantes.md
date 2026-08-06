@@ -15,6 +15,8 @@ tags:
 
 A VTEX lançou uma camada de detecção de conflitos no fluxo de criação e edição de [sinônimos](https://help.vtex.com/pt/docs/tutorials/sinonimos) do Intelligent Search, indicando quando um termo já estiver coberto por uma regra existente.
 
+![sinonimos-conflitantes-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/agosto/2026-08-05-intelligent-search-deteccao-de-sinonimos-conflitantes_1.png)
+
 ## O que mudou?
 
 - Ao criar ou editar um sinônimo, o Intelligent Search passa a validar os termos informados em relação a toda a base de sinônimos já cadastrada na loja.
