@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "2026-august",
+                "es": "2026-agosto",
+                "pt": "2026-agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Intelligent Search: filters, keywords, and special character improvements",
+                    "es": "Intelligent Search: mejoras en filtros, keywords y caracteres especiales",
+                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
+                  },
+                  "slug": {
+                    "en": "2026-08-15-intelligent-search-filters-keywords-and-special-characters-improvements",
+                    "es": "2026-08-15-intelligent-search-mejoras-en-filtros-keywords-y-caracteres-especiales",
+                    "pt": "2026-08-15-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "July",
                 "es": "Julio",
                 "pt": "Julho"
@@ -137,37 +168,6 @@
                     "en": "2026-07-01-new-roas-calculation-methodology-for-sponsored-products",
                     "es": "2026-07-01-nueva-metodologia-calculo-roas-productos-patrocinados",
                     "pt": "2026-07-01-nova-metodologia-calculo-roas-produtos-patrocinados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Agosto",
-                "es": "Agosto",
-                "pt": "Agosto"
-              },
-              "slug": {
-                "en": "agosto",
-                "es": "agosto",
-                "pt": "2026-agosto"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais",
-                    "en": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais",
-                    "es": "Intelligent Search: melhorias em filtros, keywords e caracteres especiais"
-                  },
-                  "slug": {
-                    "pt": "2026-08-15-intelligent-search-melhorias-em-filtros-keywords-e-caracteres-especiais",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
