@@ -13,9 +13,7 @@ tags:
   - Intelligent Search
 ---
 
-A VTEX lançou uma camada de detecção de conflitos no fluxo de criação e edição de [sinônimos](https://help.vtex.com/pt/docs/tutorials/sinonimos) do Intelligent Search, alertando o lojista sempre que um termo já estiver coberto por uma regra existente.
-
-A novidade atende a uma demanda recorrente de lojas com bases extensas de sinônimos, algumas com mais de 10.000 regras cadastradas. Nessas lojas, era comum recriar regras já existentes sem perceber. Isso acabava poluindo a listagem com entradas duplicadas e dificultando a gestão da configuração ao longo do tempo.
+A VTEX lançou uma camada de detecção de conflitos no fluxo de criação e edição de [sinônimos](https://help.vtex.com/pt/docs/tutorials/sinonimos) do Intelligent Search, indicando quando um termo já estiver coberto por uma regra existente.
 
 ## O que mudou?
 
@@ -23,6 +21,10 @@ A novidade atende a uma demanda recorrente de lojas com bases extensas de sinôn
 - Se um termo já for coberto por outra regra, um aviso sinaliza a sobreposição e direciona para a página de **Sinônimos conflitantes**, onde é possível revisar, editar ou excluir cada sinônimo conflitante individualmente.
 - Ao clicar em `Salvar`, uma janela de confirmação identifica o conflito e solicita que o lojista confirme o cadastro ou a edição antes de prosseguir.
 
+## Por que fizemos essa mudança?
+
+Em lojas com bases extensas de sinônimos, era comum recriar sinônimos que já existiam sem perceber, duplicando entradas na listagem e dificultando a gestão de sinônimos ao longo do tempo.
+
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. A detecção de conflitos está disponível para todas as lojas que utilizam o Intelligent Search. Para saber mais, consulte o artigo [Criar sinônimos](https://help.vtex.com/pt/docs/tutorials/criar-sinonimos#deteccao-de-sinonimos-conflitantes).
+Nenhuma ação é necessária. A detecção de conflitos de sinônimos está disponível para todas as lojas que utilizam o Intelligent Search. Para saber mais, consulte o artigo [Criar sinônimos](https://help.vtex.com/pt/docs/tutorials/criar-sinonimos#deteccao-de-sinonimos-conflitantes).
