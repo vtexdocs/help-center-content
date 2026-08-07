@@ -18860,9 +18860,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Changing my store’s registration details",
-                    "es": "Modificar los datos de registro de mi tienda",
-                    "pt": "Alterar os dados cadastrais da minha loja"
+                    "en": "Changing the store’s registration details",
+                    "es": "Modificar los datos de registro de la tienda",
+                    "pt": "Alterar os dados cadastrais da loja"
                   },
                   "slug": {
                     "en": "changing-the-stores-registration-details",
