@@ -39183,6 +39183,37 @@
             },
             {
               "name": {
+                "pt": "Auditoria: Visão geral",
+                "en": "Auditoria: Visão geral",
+                "es": "Auditoria: Visão geral"
+              },
+              "slug": {
+                "pt": "auditoria-visao-geral",
+                "en": "",
+                "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Auditoria: Conversas",
+                    "en": "Auditoria: Conversas",
+                    "es": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "pt": "auditoria-conversas",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Code action first steps",
                 "es": "Primeros pasos - Code Action",
                 "pt": "Primeiros passos - Code Action"
