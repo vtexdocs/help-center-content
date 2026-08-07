@@ -497,13 +497,13 @@
                 {
                   "name": {
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto",
-                    "en": "Pedidos: nova lista de pedidos disponível em beta aberto",
-                    "es": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta"
                   },
                   "slug": {
                     "pt": "2026-08-07-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto",
-                    "en": "",
-                    "es": ""
+                    "en": "2026-08-07-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-07-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto"
                   },
                   "origin": "",
                   "type": "markdown",
