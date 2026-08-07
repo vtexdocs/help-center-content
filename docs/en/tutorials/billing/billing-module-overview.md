@@ -3,7 +3,7 @@ title: 'Billing - Overview'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-07-23T19:09:59.877Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -22,7 +22,7 @@ To access this section, click on your **profile avatar**, which can be identifie
 
 > ℹ️ Only users with the access profiles of [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access) or with [Billing](/en/docs/tutorials/predefined-roles#billing) resources linked to their access profile can view this section of the VTEX Admin.     
 
-![Admin v4 Faturas menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/billing-module-overview_1.jpg)
+![billing-module-overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/billing-module-overview-1.jpg)
 
 See below for more details on the different sections and pages of this feature.
 
