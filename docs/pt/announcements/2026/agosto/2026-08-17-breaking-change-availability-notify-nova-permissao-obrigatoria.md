@@ -27,11 +27,6 @@ As seguintes operações administrativas do Availability Notify passarão a exig
 | `processUnsentRequests` | `/_v/availability-notify/process-unsent` | Process Unsent |
 | `deleteRequest` | Mutação GraphQL | - |
 
-| Comportamento | Antes | Depois |
-| :- | :- | :- |
-| Autorização para as operações acima | Qualquer usuário administrativo ou integração (chave de API), mesmo sem perfil de acesso ou recurso, é autorizado. | O usuário ou a integração também precisa ter o recurso **Download Notification Requests** concedido em um de seus perfis de acesso. |
-| Tentativa de acesso sem o recurso | Permitidas | Rejeitadas com erro de permissão no Admin ou HTTP 403 Forbidden. |
-
 Essa mudança não afeta o fluxo de inscrição do **Avise-me** na página de produto. Apenas as operações administrativas e de back-office são impactadas.
 
 > ℹ️ Usuários com o perfil **Owner (Admin Super)** já possuem esse recurso e não precisam tomar nenhuma ação.
