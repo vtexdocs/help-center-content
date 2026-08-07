@@ -15,74 +15,32 @@ locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-En este artículo encontrará información sobre cómo acceder a sus facturas, o boletos, como se conocen en Brasil. La forma de acceder a sus facturas y demás información de su cuenta es la misma para todos los países.
+En el Admin VTEX, puedes acceder a distintos documentos relacionados con la facturación.
 
-Para acceder a estas, debe asociar un [perfil de acceso financiero](/es/docs/tutorials/crear-un-rol-financiero) a todos los usuarios autorizados para visualizar esta información.
+Este artículo explica cómo ubicar y descargar esos documentos, en caso de que no los hayas recibido por email.
 
-Con el perfil de acceso financiero habilitado, para realizar acciones relacionadas con las facturas, acceda a la opción *Configuraciones de la Cuenta > Facturas > Títulos* en el Admin. En la siguiente pantalla, aparecerán los valores de los títulos disponibles, listados por mes y color.
+## Antes de comenzar
 
-### Significado de los colores en las facturas
+Para acceder a esta sección del Admin VTEX es necesario tener un rol financiero. Para saber cómo configurar ese rol, consulta el artículo [Crear un rol financiero](/es/docs/tutorials/crear-un-rol-financiero) o pídele al propietario de la tienda que ajuste tus permisos.
 
-- **Verde**: facturas que ya se pagaron.
-- **Púrpura**: facturas que deben pagarse, con fecha de vencimiento cercana. 
-- **Rojo**: facturas que están atrasadas.
+## Instrucciones
 
-Dividiremos el tutorial en dos secciones: *alrededor del mundo* y *Brasil*.
+### Generar una factura
 
-- En la sección *alrededor del mundo*, destinada a los clientes facturados en **VTEX Argentina**, **VTEX Chile**, **VTEX Colombia**, **VTEX México**, **VTEX Estados Unidos** y **VTEX Reino Unido**, tendrá información sobre cómo obtener su factura.
-- En la sección *Brasil*, destinada a los clientes facturados en **VTEX Brasil**, usted sabrá cómo descargar el boleto y las notas fiscales.
+Para generar una factura sigue los pasos a continuación:
 
-## Alrededor del mundo
+1. En el Admin VTEX haz clic en el avatar con la inicial de tu email, ubicado en la esquina superior derecha de la pantalla.
+2. Haz clic en **Facturación > Facturas**.
+3. Busca la factura deseada y haz clic en **Abrir factura**. La factura se abrirá en una nueva pestaña.
+4. (Opcional) Guarda el archivo en formato PDF mediante las opciones de descarga o impresión del navegador.
 
-### Descargar las facturas
+### Descargar boletos
 
-Para descargar su factura, realice los siguientes pasos:
+>⚠️ Las instrucciones de esta sección se aplican solo a clientes con facturación en Brasil.
 
-1. Acceda al **Admin**.
-2. Seleccione el módulo **Factura**.
-3. Haga clic en **Títulos**.
-4. Luego, seleccione una factura que desee visualizar.
-5. Haga clic en **Abrir Factura**.
+Los clientes con facturación en Brasil pueden emitir una nueva copia del boleto siguiendo estos pasos:
 
-Una vez hecho esto, su factura estará disponible en otra pestaña.
-
-![baixar faturas es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/facturas/como-descargar-las-facturas-de-vtex_1.gif)
-
-## Brasil 
-
-### Descargar el boleto 
-
-Trate de pagar su boleto antes de la fecha de vencimiento. Una vez vencido el plazo, será necesario generar un nuevo boleto y, por consiguiente, una nueva multa e intereses sobre el mismo.
-
-Para descargar su boleto, realice los siguientes pasos: 
-
-1. Acceda al **Admin**.
-2. Seleccione el módulo **Facturas**.
-3. Haga clic en **Títulos**.
-4. Luego, seleccione la factura que desea visualizar.
-5. En la esquina derecha de la factura, haga clic en **Generar Nueva Factura**.
-6. Haga clic en **Efectuar Pago**.
-7. Se generará un boleto, la multa y los intereses se incluirán automáticamente. 
-
-> ℹ️ En Brasil, una factura púrpura puede indicar que está atrasada pero se ha generado un nuevo boleto para una fecha cercana. En este caso, la factura permanecerá atrasada hasta que se realice el pago. Si no se paga el nuevo boleto, la factura se pondrá en rojo.
-
-![baixar boletos es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/facturas/como-descargar-las-facturas-de-vtex_2.gif)
-
-### Descargar la Nota Fiscal
-
-Para obtener la Nota Fiscal de la factura, realice los siguientes pasos:
-
-1. Acceda al **Admin**.
-2. Seleccione el módulo **Facturas**.
-3.  clic en **Títulos**.
-4. Luego, seleccione la factura que desea visualizar.
-5. Haga clic en el botón **Abrir Factura**, localizado en la esquina derecha de la factura.
-
-De esta forma, la Nota Fiscal se abrirá en otra pestaña de su navegador. Haga clic en **Imprimir NFS-e** en la parte superior de la Nota Fiscal.
-
-1. En Destino, seleccione la opción **Guardar en PDF**.
-2. Para finalizar, haga clic en **Guardar**.
-
-![baixar notafiscal es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/facturas/como-descargar-las-facturas-de-vtex_3.gif)
-
-Si tiene dudas sobre el valor de la factura, lea el artículo [comprenda el valor de los ingresos aprobados](/es/docs/tutorials/comprenda-el-valor-de-los-ingresos-aprobados) para entender el valor que se cobró.
+1. En el Admin VTEX haz clic en el avatar con la inicial de tu email, ubicado en la esquina superior derecha de la pantalla.
+2. Haz clic en **Facturación > Facturas**.
+3. Ubica el boleto que deseas y haz clic en **Efetuar pagamento**. El boleto se abrirá en una nueva pestaña con código de barras y código QR para pago vía Pix.
+4. (Opcional) Para guardar o imprimir el archivo, haz clic en `Clique aqui para imprimir`.
