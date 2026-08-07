@@ -15,53 +15,34 @@ locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-En este artículo usted encontrará explicaciones sobre los posibles motivos de la falta de confirmación del pago de su factura de acuerdo con la [sucursal VTEX](/es/docs/tutorials/vision-general-facturacion) de facturación del cliente.
+Si el pago de tu factura aún no se ha identificado revisa los posibles motivos, los plazos de procesamiento del pago y qué hacer en cada caso.
 
-El pago se debe identificar en hasta 48 h útiles. En caso de que su pago no sea identificado en ese plazo, usted deberá abrir un [ticket](https://supporticket.vtex.com/support) con los comprobantes necesarios y seleccionar la opción **Envío de comprobante de pago y/o de retenciones**.
+> ℹ️ Después de realizar el pago, la conciliación puede tardar hasta 48 horas hábiles. Antes de [abrir un ticket con el soporte financiero](#abrir-ticket-con-el-soporte-financiero) de VTEX, consulta los [motivos de la no identificación](#motivos-de-la-no-identificacion) y los [plazos de procesamiento del pago](#plazos-de-procesamiento-del-pago).
 
-Posibles motivos de la falta de confirmación del pago:
+## Motivos de la no identificación
 
-### Sucursales VTEX de facturación: Argentina, Estados Unidos y Reino Unido
+Los principales motivos que impiden la identificación del pago son:
 
-- El envío de los certificados de retención está pendiente.
-- El pago efectuado es diferente al valor de la factura.
-- No se identificó el pago en el banco.
+- **Valor pagado menor al valor de la factura:** el pago se realizó por un valor inferior al total de la factura.
+- **Pago realizado con una razón social o documento fiscal diferente al registrado:** cuando el pago proviene de una razón social o documento fiscal diferente al que figura en la factura, no es posible identificar quién realizó el pago.
+- **Certificados de retención o impuestos no enviados:** en los países donde se aplican retenciones o impuestos, la falta de los certificados correspondientes puede impedir que se identifique correctamente el pago de la factura.
+- **Divergencia en el valor de las retenciones:** se envió el certificado de retención o el comprobante del impuesto, pero el valor no coincide con el identificado en la factura.
 
-Es necesario enviar el comprobante bancario de pago junto con los certificados de retenciones.
+## Plazos de procesamiento del pago
 
-### Sucursal VTEX de facturación: Brasil
+Antes de abrir un ticket con el equipo de soporte financiero, asegúrate de que ya haya transcurrido el plazo de procesamiento del medio de pago utilizado. Los pagos con cheque o boleto pueden tardar hasta 48 horas hábiles en procesarse. El inicio de este recuento varía según el medio de pago:
 
-- El valor pagado es menor al cobrado en la factura.
-- El pago se realizó con un CNPJ diferente al que se registró en la Nota Fiscal.
-- El pago se realizó por un medio diferente al que está registrado.
+- **Pago con cheque:** el plazo comienza a contar desde la fecha prevista para el depósito o el procesamiento del cheque, no desde la fecha en que se emitió o entregó.
+- **Pago con boleto:** el plazo comienza a contar a partir del momento en que se paga el boleto.
 
-Es fundamental el envío del comprobante bancario de pago. 
+    > ⚠️ Para clientes con facturación en Brasil que pagan boletos vía Pix, el procesamiento del pago puede tardar hasta 48 horas hábiles.
 
-### Sucursales VTEX de facturación: Chile y México
+## Abrir ticket con el soporte financiero
 
-- No se identificó el pago en el banco.
-- El valor en el banco es diferente al de la factura.
+Si una vez transcurrido el plazo de procesamiento el pago aún no se ha identificado, sigue estos pasos:
 
-En ambos casos es necesario enviar el comprobante bancario de pago. 
+1. Accede al [soporte financiero](https://supporticket.vtex.com/support).
+2. Selecciona la opción **Envío de comprobante de pago**.
+3. Adjunta los comprobantes y, cuando corresponda, los certificados de retención.
 
-### Sucursal VTEX de facturación: Colombia
-
-- El envío de los certificados de retención está pendiente.
-- No se identificó el pago en el banco.
-- Las retenciones son diferentes a las indicadas en la factura.  
-
-El envío del comprobante bancario de pago y el detalle de las retenciones aplicadas en la factura son indispensables. 
-
-## Solución para casos excepcionales
-
-En caso de que su acceso al Admin esté bloqueado, excepcionalmente, usted deberá enviar los comprobantes necesarios al correo electrónico de la sucursal VTEX en la que usted es facturado. 
-
-| País | E-mail |
-| ---------- | ---------- | 
-| Argentina | arg-receivables@vtex.com | 
-| Brasil | receivablesbr@vtexhelp.zendesk.com | 
-| Chile | chi-receivables@vtex.com |
-| Colombia | col-receivables@vtex.com |
-| Estados Unidos | us-receivables@vtex.com |
-| México | mex-receivables@vtex.com |
-| Reino Unido | europe-receivables@vtex.com |
+> ⚠️ Si el acceso al Admin VTEX está bloqueado, puedes desbloquearlo temporalmente mientras regularizas el pago. Más información en [Desbloqueo temporal del Admin](/es/docs/tutorials/desbloqueio-temporal-del-admin).
