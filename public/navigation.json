@@ -116,13 +116,13 @@
                 {
                   "name": {
                     "pt": "Pedidos: nova visualização de promoção por item (beta aberto)",
-                    "en": "Pedidos: nova visualização de promoção por item (beta aberto)",
-                    "es": "Pedidos: nova visualização de promoção por item (beta aberto)"
+                    "en": "Orders: New item-level promotion view (open beta)",
+                    "es": "Pedidos: nueva vista de promoción por ítem (beta abierta)"
                   },
                   "slug": {
                     "pt": "2026-07-31-pedidos-nova-visualizacao-de-promocao-por-item-beta-aberto",
-                    "en": "",
-                    "es": ""
+                    "en": "2026-07-31-orders-new-item-level-promotions-display-open-beta",
+                    "es": "2026-07-31-pedidos-nueva-vista-de-promocion-por-item-beta-abierta"
                   },
                   "origin": "",
                   "type": "markdown",
