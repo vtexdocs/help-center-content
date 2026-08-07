@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "2026-august",
+                "es": "2026-agosto",
+                "pt": "2026-agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Breaking change: New mandatory permission for the Availability Notify app",
+                    "es": "Breaking change: Nuevo permiso obligatorio para el app Availability Notify",
+                    "pt": "Breaking change: Nova permissão obrigatória para o app Availability Notify"
+                  },
+                  "slug": {
+                    "en": "2026-08-17-breaking-change-availability-notify-new-mandatory-permission",
+                    "es": "2026-08-17-breaking-change-availability-notify-new-mandatory-permission",
+                    "pt": "2026-08-17-breaking-change-availability-notify-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "July",
                 "es": "Julio",
                 "pt": "Julho"
@@ -45906,6 +45937,21 @@
             },
             {
               "name": {
+                "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
+                "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
+                "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
+              },
+              "slug": {
+                "en": "checkoutorderformownership-is-lostdoesnt-exist-in-some-purchase-flows",
+                "es": "la-propiedad-del-formulario-de-pedido-de-pago-se-pierde-o-no-existe-en-algunos-flujos-de-compra",
+                "pt": "a-propriedade-do-formulario-de-pedido-no-checkout-e-perdidanao-existe-em-alguns-fluxos-de-compra"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "City and state are not sent to PayPalPlus when there is only pickup address available",
                 "es": "La ciudad y el estado no se envían a PayPalPlus cuando solo hay una dirección de recogida disponible",
                 "pt": "A cidade e o estado não são enviados ao PayPalPlus quando há apenas um endereço de retirada disponível"
@@ -58522,12 +58568,12 @@
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
                 "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
-                "pt": "Minha Conta - O campo Nome do Receptor não reconhece a entrada."
+                "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
                 "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
-                "pt": "minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada"
+                "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
               "type": "markdown",
@@ -60278,6 +60324,21 @@
             },
             {
               "name": {
+                "en": "Cash (1x) transactions may be recorded under a payment rule that does not offer the 1x installment option",
+                "es": "Las transacciones en efectivo (1x) pueden registrarse bajo una regla de pago que no ofrece la opción de pago a plazos 1x.",
+                "pt": "Transações em dinheiro (1x) podem ser registradas sob uma regra de pagamento que não oferece a opção de parcelamento em 1x."
+              },
+              "slug": {
+                "en": "cash-1x-transactions-may-be-recorded-under-a-payment-rule-that-does-not-offer-the-1x-installment-option",
+                "es": "las-transacciones-en-efectivo-1x-pueden-registrarse-bajo-una-regla-de-pago-que-no-ofrece-la-opcion-de-pago-a-plazos-1x",
+                "pt": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog access profile gives access to the Gift Card module",
                 "es": "El perfil de acceso al catálogo da acceso al módulo de la tarjeta regalo",
                 "pt": "Perfil de acesso ao catálogo dá acesso ao módulo Gift Card"
@@ -61051,21 +61112,6 @@
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
                 "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option",
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela"
-              },
-              "slug": {
-                "en": "for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option",
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -62191,6 +62237,21 @@
                 "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
                 "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
                 "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
+                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela",
+                "en": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
+              },
+              "slug": {
+                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
+                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -69018,13 +69079,13 @@
             {
               "name": {
                 "en": "Some custom pages are not returning in Custom Routes API causing missing entries in the sitemap",
-                "es": "Algunas páginas personalizadas no aparecen en la API de rutas personalizadas, por lo que faltan entradas en el mapa del sitio.",
-                "pt": "Algumas páginas personalizadas não estão retornando na API de rotas personalizadas, causando a falta de entradas no mapa do site."
+                "es": "Algunas páginas personalizadas no se devuelven en la API de Rutas Personalizadas, lo que provoca que falten entradas en el mapa del sitio.",
+                "pt": "Algumas páginas personalizadas não estão sendo retornadas na API de Rotas Personalizadas, o que causa a ausência de entradas no mapa do site."
               },
               "slug": {
                 "en": "some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap",
-                "es": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
-                "pt": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site"
+                "es": "algunas-paginas-personalizadas-no-se-devuelven-en-la-api-de-rutas-personalizadas-lo-que-provoca-que-falten-entradas-en-el-mapa-del-sitio",
+                "pt": "algumas-paginas-personalizadas-nao-estao-sendo-retornadas-na-api-de-rotas-personalizadas-o-que-causa-a-ausencia-de-entradas-no-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
