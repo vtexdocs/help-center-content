@@ -1,15 +1,15 @@
 ---
-title: 'El pago se realizó, pero no se identificó. ¿Qué debo hacer?'
+title: 'Resolver pago de factura no identificado'
 id: 63Fz8Ma5alR43ij4ZXVOQC
 status: PUBLISHED
 createdAt: 2020-09-10T21:33:40.958Z
-updatedAt: 2026-07-17T19:39:07.940Z
+updatedAt: 2026-07-24T14:25:48.060Z
 publishedAt: 2021-02-22T16:31:06.428Z
 firstPublishedAt: 2020-09-10T21:43:10.777Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: payment-was-made-but-not-found-what-should-i-do
+slugEN: resolving-an-unidentified-invoice-payment
 legacySlug: el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer
 locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
