@@ -18769,6 +18769,21 @@
                 },
                 {
                   "name": {
+                    "en": "Downloading VTEX invoices",
+                    "es": "Descargar facturas de VTEX",
+                    "pt": "Baixar faturas da VTEX"
+                  },
+                  "slug": {
+                    "en": "downloading-vtex-invoices",
+                    "es": "descargar-facturas-de-vtex",
+                    "pt": "baixar-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18777,21 +18792,6 @@
                     "en": "how-and-when-do-i-receive-my-invoice",
                     "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
                     "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to download the VTEX invoices",
-                    "es": "Cómo descargar las facturas de VTEX",
-                    "pt": "Como fazer download das faturas da VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-download-the-vtex-invoices",
-                    "es": "como-descargar-las-facturas-de-vtex",
-                    "pt": "como-fazer-download-faturas-da-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
