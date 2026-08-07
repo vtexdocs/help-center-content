@@ -15,78 +15,32 @@ locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-In this article, you will find information on how to access your invoices or "boletos" (popular Brazilian off-line payment method), as they are widely known in Brazil. The way to access your invoices and more information about your account is the same, irrespective of the country where you are.
+In the VTEX Admin, you can access different billing-related documents, such as invoices and, for clients billed in Brazil, boletos (a common Brazilian payment method).
 
-To access them you need to link a [financial role](/en/docs/tutorials/creating-a-financial-access-profile) with all users who are authorized to have access to this information.
+This article explains how to locate and download these documents in the VTEX Admin, in case you haven't received them by email.
 
-With an authorized financial role set, access the option *Account Setting > Billing > Invoices* to take invoices-related actions. On the next screen the available invoices will appear listed by month and color.
+## Before you begin
 
-### The meaning of each invoice color 
+To access this section of the VTEX Admin, you need to have a financial role. To learn how to configure this role, see [Creating a financial role](/en/docs/tutorials/creating-a-financial-role) or ask the store owner to adjust your permissions.
 
-- **Green**: paid invoices.
-- **Purple**: invoices close to their due date.
-- **Red**: overdue invoices.
+## Instructions
 
-We will divide the tutorial sections into *Worldwide* and *Brazil*: 
+### Generating an invoice
 
-- In the *Worldwide* section which focuses on VTEX clients from **Argentina**, **Chile**, **Colombia**, **Mexico**, **the United States** and the **United Kingdom**, you will find information on how to obtain your invoice.
-- In the *Brazil* section, focused on VTEX clients from **Brazil**, you will find out how to download the "boleto" and "notas fiscais".
+To generate an invoice, follow these steps:
 
-## Worldwide
+1. In the VTEX Admin, click your avatar, identified by your email initial, in the top right corner of the screen.
+2. Click **Billing > Invoices**.
+3. Find the desired invoice and click **Open invoice**. The invoice will open in a new tab.
+4. (Optional) To save the file as a PDF, use the download or print options available in your browser.
 
-### Download invoices
+### Generating a boleto (Brazil only)
 
-To download your invoice, follow the steps below: 
+>⚠️ The instructions in this section apply only to customers billed in Brazil.
 
-1. Access the **Admin**.
-2. Select the **Billing** module.
-3. Click on **Invoices**.
-4. Select the desired invoice.
-5. Click on **Open invoice**.
+Customers billed in Brazil can issue a new copy of a boleto by following these steps:
 
-The invoice will then be appear in another tab.
-
-![baixar faturas en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_1.gif)
-
-## Brazil 
-
-### Download "boleto" 
-
-We recommend not overstepping due date, since a new "boleto" with penalties and taxes will need to be issued once the current one expires. 
-
-To download your "boleto", follow the steps below: 
-
-1. Access the **Admin**.
-2. Select the **Billing** module.
-3. Click on **Invoices**.
-4. Select the desired invoice.
-5. In the right corner of the invoice, click on **New Bank Slip**.
-6. Click on **Pay this Invoice**.
-7. A new "boleto" will be generated; and penalties and taxes will be included automatically when required. 
-
-> ℹ️ In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.
-
-![baixar boletos en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_2.gif)
-
-### Download "Nota Fiscal"
-
-To obtain a "Nota Fiscal", follow the steps below: 
-
-1. Access the **Admin**.
-2. Select the **Billing** module.
-3. Click on **Invoices**.
-4. Select the desired invoice;
-5. Click on **Open Invoice**, in the invoice's right corner.
-
-The Nota Fiscal will be opened in another tab on your browser. Click on **Print NFS-e** above the Nota Fiscal heading. 
-
-1. In the Save as option, select **Save as PDF**.
-2. To conclude, click on **Save**.
-
-![baixar notafiscal en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_3.gif)
-
-If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](/en/docs/tutorials/understanding-the-value-of-approved-revenues).
-
-
-
-
+1. In VTEX Admin, click your avatar — identified by the initial letter of your email — in the top right corner of the screen.
+2. Click **Billing > Invoices**.
+3. To pay the invoice, click **Efetuar pagamento**. Once you do this, the bank invoice will open in a new tab with a barcode and QR code for payment via Pix.
+4. (Optional) To save or print the file, click `Click here to print`.
