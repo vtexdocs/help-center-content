@@ -1,5 +1,5 @@
 ---
-title: 'Configurando orçamentos para promoções'
+title: 'Configurar orçamentos para promoções'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z

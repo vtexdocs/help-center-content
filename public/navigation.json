@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: New item-level promotion view (open beta)",
+                    "es": "Pedidos: nueva vista de promoción por ítem (beta abierta)",
+                    "pt": "Pedidos: nova visualização de promoção por item (beta aberto)"
+                  },
+                  "slug": {
+                    "en": "2026-07-31-orders-new-item-level-promotions-display-open-beta",
+                    "es": "2026-07-31-pedidos-nueva-vista-de-promocion-por-item-beta-abierta",
+                    "pt": "2026-07-31-pedidos-nova-visualizacao-de-promocao-por-item-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Discover the new VTEX Sales App Extensibility",
                     "es": "Conoce el nuevo VTEX Sales App Extensibility",
                     "pt": "Conheça o novo VTEX Sales App Extensibility"
@@ -54,13 +69,13 @@
                 },
                 {
                   "name": {
-                    "en": "New orders configuration experience inside VTEX Admin",
-                    "es": "Nueva experiencia de configuración de pedidos dentro del Admin VTEX",
+                    "en": "New order configuration experience in the VTEX Admin",
+                    "es": "Nueva experiencia de configuración de pedidos en el Admin VTEX",
                     "pt": "Nova experiência de configuração de pedidos no Admin da VTEX"
                   },
                   "slug": {
-                    "en": "2026-07-21-new-orders-configuration-experience-inside-vtex-admin",
-                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-dentro-del-admin-vtex",
+                    "en": "2026-07-21-new-order-configuration-experience-in-the-vtex-admin",
+                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-en-el-admin-vtex",
                     "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex"
                   },
                   "origin": "",
@@ -30421,6 +30436,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PlataDifiere",
+                    "es": "Configurar pago con PlataDifiere",
+                    "pt": "Configurar pagamento com PlataDifiere"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-platadifiere",
+                    "es": "configurar-pago-con-platadifiere",
+                    "pt": "configurar-pagamento-com-platadifiere"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Plexo",
+                    "es": "Configurar pago con Plexo",
+                    "pt": "Configurar pagamento com Plexo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-plexo",
+                    "es": "configurar-pago-con-plexo",
+                    "pt": "configurar-pagamento-com-plexo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PoleCMS",
                     "es": "Configurar pago con PoleCMS",
                     "pt": "Configurar pagamento com PoleCMS"
@@ -30601,6 +30646,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Serfinsa",
+                    "es": "Configurar pago con Serfinsa",
+                    "pt": "Configurar pagamento com Serfinsa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-serfinsa",
+                    "es": "configurar-pago-con-serfinsa",
+                    "pt": "configurar-pagamento-com-serfinsa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Servicredito",
+                    "es": "Configurar pago con Servicredito",
+                    "pt": "Configurar pagamento com Servicredito"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-servicredito",
+                    "es": "configurar-pago-con-servicredito",
+                    "pt": "configurar-pagamento-com-servicredito"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Shipay",
                     "es": "Configurar pago con Shipay",
                     "pt": "Configurar pagamento com Shipay"
@@ -30714,6 +30789,21 @@
                     "en": "setting-up-payments-with-sumaspay",
                     "es": "configurar-pago-con-sumaspay",
                     "pt": "configurar-pagamento-com-sumaspay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Talo",
+                    "es": "Configurar pago con Talo",
+                    "pt": "Configurar pagamento com Talo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-talo",
+                    "es": "configurar-pago-con-talo",
+                    "pt": "configurar-pagamento-com-talo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30871,6 +30961,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with VindiPagamentos",
+                    "es": "Configurar pago con VindiPagamentos",
+                    "pt": "Configurar pagamento com VindiPagamentos"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-vindipagamentos",
+                    "es": "configurar-pago-con-vindipagamentos",
+                    "pt": "configurar-pagamento-com-vindipagamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Virtualpos",
                     "es": "Configurar pago con Virtualpos",
                     "pt": "Configurar pagamento com Virtualpos"
@@ -30894,6 +30999,21 @@
                     "en": "setting-up-payments-with-visa-conecta",
                     "es": "configurar-pago-con-visa-conecta",
                     "pt": "configurar-pagamento-com-visa-conecta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with VisaNetGuatemala",
+                    "es": "Configurar pago con VisaNetGuatemala",
+                    "pt": "Configurar pagamento com VisaNetGuatemala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visanetguatemala",
+                    "es": "configurar-pago-con-visanetguatemala",
+                    "pt": "configurar-pagamento-com-visanetguatemala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30931,6 +31051,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Wibond",
+                    "es": "Configurar pago con Wibond",
+                    "pt": "Configurar pagamento com Wibond"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wibond",
+                    "es": "configurar-pago-con-wibond",
+                    "pt": "configurar-pagamento-com-wibond"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wompi",
+                    "es": "Configurar pago con Wompi",
+                    "pt": "Configurar pagamento com Wompi"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompi",
+                    "es": "configurar-pago-con-wompi",
+                    "pt": "configurar-pagamento-com-wompi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Wompi-Nequi",
                     "es": "Configurar pago con Wompi-Nequi",
                     "pt": "Configurar pagamento com Wompi-Nequi"
@@ -30939,6 +31089,51 @@
                     "en": "setting-up-payments-with-wompi-nequi",
                     "es": "configurar-pago-con-wompi-nequi",
                     "pt": "configurar-pagamento-com-wompi-nequi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wompi-PSE",
+                    "es": "Configurar pago con Wompi-PSE",
+                    "pt": "Configurar pagamento com Wompi-PSE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompi-pse",
+                    "es": "configurar-pago-con-wompi-pse",
+                    "pt": "configurar-pagamento-com-wompi-pse"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with WompiBancolTrans",
+                    "es": "Configurar pago con WompiBancolTrans",
+                    "pt": "Configurar pagamento com WompiBancolTrans"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompibancoltrans",
+                    "es": "configurar-pago-con-wompibancoltrans",
+                    "pt": "configurar-pagamento-com-wompibancoltrans"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with WompiCoV2",
+                    "es": "Configurar pago con WompiCoV2",
+                    "pt": "Configurar pagamento com WompiCoV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompicov2",
+                    "es": "configurar-pago-con-wompicov2",
+                    "pt": "configurar-pagamento-com-wompicov2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30969,6 +31164,21 @@
                     "en": "setting-up-payments-with-worldline-global-online-pay",
                     "es": "configurar-pago-con-worldline-global-online-pay",
                     "pt": "configurar-pagamento-com-worldline-global-online-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Worldpay-Payments-Via-WPG",
+                    "es": "Configurar pago con Worldpay-Payments-Via-WPG",
+                    "pt": "Configurar pagamento com Worldpay-Payments-Via-WPG"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-worldpay-payments-via-wpg",
+                    "es": "configurar-pago-con-worldpay-payments-via-wpg",
+                    "pt": "configurar-pagamento-com-worldpay-payments-via-wpg"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32381,47 +32591,32 @@
         },
         {
           "name": {
-            "en": "Promotions & taxes",
-            "es": "Tasas y promociones",
-            "pt": "Promoções e taxas"
+            "en": "Promotions & Taxes - Overview",
+            "es": "Tasas y Promociones - Información general",
+            "pt": "Promoções e Taxas - Visão geral"
           },
           "slug": {
-            "en": "promotions-and-taxes-category",
-            "es": "tasas-y-promociones-categoria",
-            "pt": "promoções-e-taxas-categoria"
+            "en": "overview-pricing-module",
+            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+            "pt": "overview-2"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia de las Campañas",
-                "pt": "Audiência de campanhas"
+                "en": "Campaign audiences",
+                "es": "​​Audiencias de campañas",
+                "pt": "Audiências de campanhas"
               },
               "slug": {
-                "en": "campaign-audiences-subcategory",
-                "es": "audiencia-de-las-campanas-subcategoria",
-                "pt": "audiência-de-campanhas-subcategoria"
+                "en": "campaign-audiences",
+                "es": "audiencias-de-campanas",
+                "pt": "audiencias-de-campanhas"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Campaign audiences",
-                    "es": "​​Audiencias de campañas",
-                    "pt": "Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences",
-                    "es": "audiencias-de-campanas",
-                    "pt": "audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Campaign audiences list",
@@ -32471,17 +32666,17 @@
             },
             {
               "name": {
-                "en": "Coupons",
-                "es": "Cupones",
-                "pt": "Cupons"
+                "en": "Promotional coupons: types and groups",
+                "es": "Cupones promocionales: tipos y grupos",
+                "pt": "Cupons promocionais: tipos e grupos"
               },
               "slug": {
-                "en": "coupons-subcategory",
-                "es": "cupones-subcategoria",
-                "pt": "cupons-subcategoria"
+                "en": "coupons-beta",
+                "es": "cupones-beta",
+                "pt": "cupons-beta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32512,37 +32707,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotional coupons: types and groups",
-                    "es": "Cupones promocionales: tipos y grupos",
-                    "pt": "Cupons promocionais: tipos e grupos"
-                  },
-                  "slug": {
-                    "en": "coupons-beta",
-                    "es": "cupones-beta",
-                    "pt": "cupons-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Promotions",
-                "es": "Promociones",
-                "pt": "Promoções"
+                "en": "Promotions - Overview",
+                "es": "Promociones - Información general",
+                "pt": "Promoções - Visão geral"
               },
               "slug": {
-                "en": "promotions-subcategory",
-                "es": "promociones-subcategoria",
-                "pt": "promoções-subcategoria"
+                "en": "promotions-overview",
+                "es": "vision-general-promociones",
+                "pt": "visao-geral-promocoes"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32578,7 +32758,7 @@
                   "name": {
                     "en": "Configuring promotion budgets",
                     "es": "Configurar presupuesto para promociones",
-                    "pt": "Configurando orçamentos para promoções"
+                    "pt": "Configurar orçamentos para promoções"
                   },
                   "slug": {
                     "en": "configuring-promotion-budgets",
@@ -32996,21 +33176,6 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions - Overview",
-                    "es": "Promociones - Información general",
-                    "pt": "Promoções - Visão geral"
-                  },
-                  "slug": {
-                    "en": "promotions-overview",
-                    "es": "vision-general-promociones",
-                    "pt": "visao-geral-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Promotions Simulator",
                     "es": "Simulador de Promociones",
                     "pt": "Simulador de Promoções"
@@ -33132,21 +33297,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to create surcharges/taxes",
-                    "es": "Crear tasa/impuesto",
-                    "pt": "Criar taxa/imposto"
-                  },
-                  "slug": {
-                    "en": "creating-surchargestaxes",
-                    "es": "creando-la-tasaimpuesto",
-                    "pt": "como-criar-taxaimposto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Send the item price, with tax shown separately, to the Gateway or the ERP",
                     "es": "Enviar al Gateway o al ERP el precio del item ya con el impuesto separado",
                     "pt": "Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado"
@@ -33159,23 +33309,23 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Taxes - Overview",
+                    "es": "Tasa - Información general",
+                    "pt": "Taxa - Visão geral"
+                  },
+                  "slug": {
+                    "en": "creating-surchargestaxes",
+                    "es": "creando-la-tasaimpuesto",
+                    "pt": "como-criar-taxaimposto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
-                "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
-              },
-              "slug": {
-                "en": "overview-pricing-module",
-                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                "pt": "overview-2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -38006,7 +38156,7 @@
                 {
                   "name": {
                     "en": "Using active triggering of flows",
-                    "es": "Utilizando el disparo activo de flujos",
+                    "es": "Disparo activo de flujos",
                     "pt": "Utilizando o disparo ativo de fluxos"
                   },
                   "slug": {
@@ -38984,8 +39134,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configure Live Desk",
-                    "es": "Configure Live Desk",
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
                     "pt": "Configurar o Live Desk"
                   },
                   "slug": {
@@ -39074,21 +39224,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "es": "Analytics",
-                "en": "Analytics",
-                "pt": "Analytics"
-              },
-              "slug": {
-                "es": "vtex-cx-platform-analytics",
-                "en": "",
-                "pt": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             },
             {
               "name": {
@@ -58447,12 +58582,20 @@
             {
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
+<<<<<<< HEAD
                 "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
+=======
+                "es": "El campo \"Nombre del destinatario\" de mi cuenta no reconoce la entrada.",
+>>>>>>> main
                 "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
+<<<<<<< HEAD
                 "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
+=======
+                "es": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
+>>>>>>> main
                 "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
@@ -62079,6 +62222,21 @@
             },
             {
               "name": {
+                "en": "Outdated card brand regex causes brand misidentification at checkout",
+                "es": "La expresión regular de marca de tarjeta obsoleta provoca una identificación errónea de la marca en el momento del pago.",
+                "pt": "Expressões regulares desatualizadas para marcas de cartões causam identificação incorreta da marca no caixa."
+              },
+              "slug": {
+                "en": "outdated-card-brand-regex-causes-brand-misidentification-at-checkout",
+                "es": "la-expresion-regular-de-marca-de-tarjeta-obsoleta-provoca-una-identificacion-erronea-de-la-marca-en-el-momento-del-pago",
+                "pt": "expressoes-regulares-desatualizadas-para-marcas-de-cartoes-causam-identificacao-incorreta-da-marca-no-caixa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Outdated Elo regex is causing us to misidentify some BINs",
                 "es": "Una regex de Elo obsoleta nos hace identificar erróneamente algunos BINs",
                 "pt": "O regex Elo desatualizado está nos levando a identificar incorretamente alguns BINs"
@@ -62109,6 +62267,7 @@
             },
             {
               "name": {
+<<<<<<< HEAD
                 "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
                 "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
                 "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
@@ -62139,6 +62298,8 @@
             },
             {
               "name": {
+=======
+>>>>>>> main
                 "en": "Payment Conditions set to process transactions in installments other than 1x are processing transactions as prepaid in full",
                 "es": "Condiciones de pago establecidas para procesar transacciones a plazos distintas de 1x están procesando transacciones como prepagadas en su totalidad",
                 "pt": "As condições de pagamento definidas para processar transações em parcelas diferentes de 1x estão processando transações como pré-pagas integralmente"
@@ -63602,6 +63763,21 @@
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "las-transacciones-con-el-conector-tnspay-se-rechazan-por-error-la-tarjeta-no-esta-registrada-en-3ds",
                 "pt": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
+                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs",
+                "en": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN"
+              },
+              "slug": {
+                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
+                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",

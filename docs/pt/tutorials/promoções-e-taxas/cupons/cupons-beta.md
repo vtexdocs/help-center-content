@@ -13,6 +13,7 @@ slugEN: coupons-beta
 legacySlug: cupons-beta
 locale: pt
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+categoryCover: true
 ---
 
 Um cupom consiste em um código promocional, composto de uma sequência de letras e números. Você pode disponibilizar cupons para aplicar promoções sobre o valor do carrinho. Assim, ao informar o código de um cupom válido no momento da compra, os seus clientes podem obter descontos sobre o valor do pedido.
