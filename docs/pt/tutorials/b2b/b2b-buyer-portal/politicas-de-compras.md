@@ -1,5 +1,5 @@
 ---
-title: 'Buying Policies'
+title: 'Políticas de compras'
 createdAt: '2026-02-27T10:00:00.000Z'
 updatedAt: '2026-02-09T10:00:00.000Z'
 contentType: tutorial
@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
-**Buying Policies** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos.
+**Políticas de Compras** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos.
 
 A solução contribui para uma maior governança da organização e promove maior conformidade com as políticas de compra vigentes, e seus mecanismos permitem a combinação de diversos tipos de regras:
 
@@ -21,7 +21,7 @@ A solução contribui para uma maior governança da organização e promove maio
 
 ## Funcionamento geral
 
-Os passos para a configuração de uma buying policy são:
+Os passos para a configuração de uma política de compra são:
 
 1. O usuário configura o critério de avaliação de pedidos.
 2. Este critério é associado a uma ação, que pode ser:
@@ -30,12 +30,12 @@ Os passos para a configuração de uma buying policy são:
     * Exigir aprovação manual
 3. Para a aprovação manual, o usuário configura de um a cinco níveis de aprovação hierárquica, nos quais cada nível pode negar o pedido, mas sua aprovação depende da avaliação de todos.
 
-## Storefront Roles
+## Perfis de acesso de storefront
 
-Para configurar as buying policies da organização, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar manualmente pedidos, é necessário o recurso `ApproveOrders`.
+Para configurar as políticas de compras da organização, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar manualmente pedidos, é necessário o recurso `ApproveOrders`.
 
-## Configurar buying policies
+## Configurar políticas de compras
 
-Os usuários podem adicionar, editar ou remover buying policies pela interface da Organizational Unit. Para mais informações, confira o artigo [Adicionar ou editar Buying Policies](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-buying-policies).
+Os usuários podem adicionar, editar ou remover políticas de compras pela interface da Unidade Organizacional. Para mais informações, confira o artigo [Adicionar ou editar Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras).
 
 > ℹ️ Para gerenciar regras de autorização de pedidos via API, acesse a [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api), e o guia para desenvolvedores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).

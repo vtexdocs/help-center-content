@@ -57,9 +57,9 @@ A funcionalidade Endereços de cobrança permite que os compradores selecionem e
 
 A [Entrega agendada](/docs/pt/tutorials/configurar-entrega-agendada-fastcheckout) permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
-### Buying Policies
+### Políticas de Compras
 
-O sistema de [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) suporta regras dinâmicas que os compradores podem configurar para inserir suas regras de compliance dentro do processo de compra. [Gestores de organizações compradoras](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#gestao-organizacional) podem definir regras customizadas para que pedidos sejam encaminhados para aprovação antes de serem confirmados, ou mesmo sejam impedidos de serem completados no ato da compra.
+O sistema de [Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) suporta regras dinâmicas que os compradores podem configurar para inserir suas regras de compliance dentro do processo de compra. [Gestores de organizações compradoras](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt#gestao-organizacional) podem definir regras customizadas para que pedidos sejam encaminhados para aprovação antes de serem confirmados, ou mesmo sejam impedidos de serem completados no ato da compra.
 
 ### Assembly Options
 

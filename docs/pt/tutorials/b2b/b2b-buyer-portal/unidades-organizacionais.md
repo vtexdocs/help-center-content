@@ -85,7 +85,7 @@ Essa segmentação permite alinhar a operação da loja às políticas internas 
 
 Saiba mais na documentação a seguir:
 
-* [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)
+* [Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras)
 * [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)
 * [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-contabeis)
 
