@@ -494,6 +494,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "august",
+                "es": "agosto",
+                "pt": "agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "en": "2026-08-07-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-07-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-07-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -58551,12 +58582,20 @@
             {
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
+<<<<<<< HEAD
+                "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
+=======
                 "es": "El campo \"Nombre del destinatario\" de mi cuenta no reconoce la entrada.",
+>>>>>>> main
                 "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
+<<<<<<< HEAD
+                "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
+=======
                 "es": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
+>>>>>>> main
                 "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
@@ -62228,6 +62267,39 @@
             },
             {
               "name": {
+<<<<<<< HEAD
+                "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
+                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
+                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
+              },
+              "slug": {
+                "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
+                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
+                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
+                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela",
+                "en": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
+              },
+              "slug": {
+                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
+                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+=======
+>>>>>>> main
                 "en": "Payment Conditions set to process transactions in installments other than 1x are processing transactions as prepaid in full",
                 "es": "Condiciones de pago establecidas para procesar transacciones a plazos distintas de 1x están procesando transacciones como prepagadas en su totalidad",
                 "pt": "As condições de pagamento definidas para processar transações em parcelas diferentes de 1x estão processando transações como pré-pagas integralmente"
