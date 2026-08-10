@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Verificar propriedade no Google Search Console para loja VTEX'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED

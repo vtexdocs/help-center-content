@@ -1,6 +1,6 @@
 {
   "id": "invoices",
-  "name": "Títulos",
-  "slug": "titulos-subcategoria",
+  "name": "Facturas",
+  "slug": "facturas-subcategoria",
   "order": 5
 }
