@@ -1,5 +1,5 @@
 ---
-title: 'Crear tasa/impuesto'
+title: 'Tasa - Información general'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 ---
 
-El impuesto es lo contrario de la promoción, es decir, un porcentaje adicional introducido en el precio del producto, para aumentar el valor. El impuesto puede ajustarse teniendo en cuenta los distintos tipos de condiciones, tales como rango de códigos postales, el departamento y la marca de los productos, el clúster del cliente etc. La cuota única se inserta en el carrito, en la zona denominada de impuestos.
+El impuesto/tasa es lo contrario de la promoción, es decir, un porcentaje adicional introducido en el precio del producto, para aumentar el valor. El impuesto puede ajustarse teniendo en cuenta los distintos tipos de condiciones, tales como rango de códigos postales, el departamento y la marca de los productos, el clúster del cliente etc. La cuota única se inserta en el carrito, en la zona denominada de impuestos.
 
 El impuesto se aplica conforme al registro que hará el vendedor. A continuación, el carrito de su tienda tiene un producto de otro vendedor, el impuesto que se aplicará en este producto será el que registra el vendedor en la administración del producto. No se considerará el impuesto registrado en el módulo de precios de mercado, si tenemos un impuesto asociado con este producto.
 
