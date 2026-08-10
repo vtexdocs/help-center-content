@@ -1,12 +1,12 @@
 ---
 title: 'Pedidos: nueva lista de pedidos disponible en beta abierta'
-slug: '2026-08-07-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto'
+slug: '2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto'
 hidden: false
-createdAt: 2026-08-07T00:00:00.000Z
-updatedAt: 2026-08-07T00:00:00.000Z
+createdAt: 2026-08-10T00:00:00.000Z
+updatedAt: 2026-08-10T00:00:00.000Z
 contentType: updates
 productTeam: Orders
-slugEN: '2026-08-07-orders-new-orders-list-available-in-open-beta'
+slugEN: '2026-08-10-orders-new-orders-list-available-in-open-beta'
 locale: es
 announcementSynopsisES: 'El Admin VTEX ahora cuenta con una nueva versión de lista de pedidos disponible en beta abierta mediante solicitud.'
 tags:
