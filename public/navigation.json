@@ -18142,21 +18142,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Intelligent Search: Multilanguage settings (Beta)",
-                    "es": "VTEX Intelligent Search: configuración Multidioma (Beta)",
-                    "pt": "VTEX Intelligent Search: configurações Multi-idioma (Beta)"
-                  },
-                  "slug": {
-                    "en": "vtex-intelligent-search-multilanguage-settings-beta",
-                    "es": "vtex-intelligent-search-configuracion-multidioma-beta",
-                    "pt": "vtex-intelligent-search-configuracoes-multi-idioma-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -25364,6 +25349,21 @@
                 "en": "search-configuration",
                 "es": "configuracion-de-la-busqueda",
                 "pt": "configuracao-da-busca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Intelligent Search: Multilanguage settings",
+                "es": "VTEX Intelligent Search: configuración Multidioma",
+                "pt": "VTEX Intelligent Search: configurações Multi-idioma"
+              },
+              "slug": {
+                "en": "vtex-intelligent-search-multilanguage-settings",
+                "es": "vtex-intelligent-search-configuracion-multidioma",
+                "pt": "vtex-intelligent-search-configuracoes-multi-idioma"
               },
               "origin": "",
               "type": "markdown",
@@ -62649,13 +62649,13 @@
             {
               "name": {
                 "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
-                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
-                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas/condiciones de pago activas.",
+                "pt": "Os métodos de pagamento removidos ainda são exibidos no Checkout quando a conta não possui regras/condições de pagamento ativas."
               },
               "slug": {
                 "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
-                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
-                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglascondiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-sao-exibidos-no-checkout-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
               },
               "origin": "",
               "type": "markdown",
@@ -69583,6 +69583,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon SKU matching status reverts to \"Pending review\" after manual confirmation",
+                "es": "Amazon El estado de coincidencia de SKU vuelve a \"Pendiente de revisión\" después de la confirmación manual.",
+                "pt": "Amazon O status de correspondência do SKU volta para \"Aguardando revisão\" após confirmação manual."
+              },
+              "slug": {
+                "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
+                "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
+                "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
               },
               "origin": "",
               "type": "markdown",
