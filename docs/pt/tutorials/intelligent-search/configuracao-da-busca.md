@@ -33,6 +33,8 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
     Por exemplo, se uma camisa não tiver a cor no nome do produto, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.
 
+> ℹ️ Além do nome do produto e da marca, é possível configurar especificações para também gerar keyword, o que aumenta a relevância de produtos cujo valor de especificação corresponde à busca, mesmo quando o termo não está no nome do produto. Esse recurso está disponível sob demanda: para habilitá-lo, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support). Saiba mais em [Como funciona a relevância dos resultados de busca](https://help.vtex.com/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca#keyword-a-partir-de-especificações).
+
 ## Configurações de filtros
 
 As configurações de filtros apresentam ajustes relacionados aos filtros exibidos para os clientes da sua loja durante a busca:
