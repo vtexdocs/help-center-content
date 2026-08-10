@@ -18,7 +18,7 @@ order: 1
 
 **Billing** is the page where you manage all financial aspects of your VTEX account.
 
-> ℹ️ Only users with the roles of [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access), or with [Billing](/en/docs/tutorials/predefined-roles#billing) resources linked to their role can view this section of the VTEX Admin. To learn how to configure this role, see the article [Creating a financial role](/en/docs/tutorials/creating-a-financial-role) or ask the store owner to adjust the permissions.
+> ℹ️ Only users with the roles of [Finance](/en/docs/tutorials/predefined-roles#finance), [Finance Full Access](/en/docs/tutorials/predefined-roles#finance-full-access), or with [Billing](/en/docs/tutorials/predefined-roles#billing) resources linked to their role can view this section of the VTEX Admin. To learn how to configure this role, see the article [Creating a financial role](/en/docs/tutorials/creating-a-financial-access-profile) or ask the store owner to adjust the permissions.
 
 To access this module in the VTEX Admin, click your avatar, identified by your email initial, in the top right corner of the screen. Then, click **Billing** and select the page you want to access:
 
