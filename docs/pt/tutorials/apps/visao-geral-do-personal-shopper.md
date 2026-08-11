@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Personal Shopper - Visão geral'
 id: 12dC0UMD0C6x6kw43LF8MH
 status: PUBLISHED

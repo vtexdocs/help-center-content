@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy): new authorization requirement'
 id: 7G056zzZmGFBztkRqhpUgj
 status: PUBLISHED

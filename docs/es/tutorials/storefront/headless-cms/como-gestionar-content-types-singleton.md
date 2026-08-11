@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Cómo gestionar content types Singleton'
 id: VBibMN1BqV2OFmavUFCdo
 status: PUBLISHED

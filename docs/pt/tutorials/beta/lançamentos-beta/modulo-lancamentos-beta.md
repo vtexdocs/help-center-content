@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Módulo Lançamentos (Beta)'
 id: n2tN0WX5I6MJMbrJrS0Kb
 status: PUBLISHED
