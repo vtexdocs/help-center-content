@@ -39,7 +39,7 @@ On the **Invoices** page, you'll find a statement with all the payment invoices 
 
 >ℹ️ If you can't find an invoice or disagree with the amounts, remember that VTEX is a postpaid service, which means you use it first, and the charge is generated the following month.
 
-To check the details of each invoice, read the article [Check invoice details](/en/docs/tutorials/checking-the-invoice-details).
+To check the details of each invoice, read the article [Check invoice details](/en/docs/tutorials/checking-invoice-details).
 
 ## Registration Information
 
