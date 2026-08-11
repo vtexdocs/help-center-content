@@ -17402,12 +17402,12 @@
                   "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
-                    "pt": "Buying Policies"
+                    "pt": "Políticas de compras"
                   },
                   "slug": {
                     "en": "buying-policies-overview",
                     "es": "politicas-de-compras",
-                    "pt": "buying-policies"
+                    "pt": "politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17462,7 +17462,7 @@
                   "name": {
                     "en": "Scopes overview",
                     "es": "Visión general de Scopes",
-                    "pt": "Visão geral de Scopes"
+                    "pt": "Visão geral de Escopos"
                   },
                   "slug": {
                     "en": "scopes-overview",
@@ -17523,12 +17523,12 @@
                   "name": {
                     "en": "Adding or editing buying policies",
                     "es": "Agregar o editar políticas de compras",
-                    "pt": "Adicionar ou editar Buying Policies"
+                    "pt": "Adicionar ou editar Políticas de compras"
                   },
                   "slug": {
                     "en": "adding-or-editing-buying-policies",
                     "es": "agregar-o-editar-politicas-de-compras",
-                    "pt": "adicionar-ou-editar-buying-policies"
+                    "pt": "adicionar-ou-editar-politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18754,14 +18754,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
+                    "en": "Requesting contract termination",
+                    "es": "Solicitar rescisión contractual",
+                    "pt": "Solicitar rescisão contratual"
                   },
                   "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
+                    "en": "requesting-contract-termination",
+                    "es": "solicitar-rescision-contractual",
+                    "pt": "solicitar-rescisao-contratual"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18783,6 +18783,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Checking invoice details",
+                    "es": "Verificar detalles de las facturas",
+                    "pt": "Verificar o detalhamento das faturas"
+                  },
+                  "slug": {
+                    "en": "checking-invoice-details",
+                    "es": "verificando-los-detalles-de-las-facturas",
+                    "pt": "verificar-o-detalhamento-das-faturas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Consumption tags used in the billing module",
@@ -18808,6 +18823,21 @@
                     "en": "downloading-vtex-invoices",
                     "es": "descargar-facturas-de-vtex",
                     "pt": "baixar-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Generating a financial report",
+                    "es": "Generar un informe financiero",
+                    "pt": "Gerar um relatório financeiro"
+                  },
+                  "slug": {
+                    "en": "generating-a-financial-report",
+                    "es": "generar-un-informe-financiero",
+                    "pt": "gerar-um-relatorio-financeiro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18923,9 +18953,9 @@
             },
             {
               "name": {
-                "en": "Billing - Overview",
+                "en": "Billing information - Overview",
                 "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "pt": "Informações de faturamento - Visão geral"
               },
               "slug": {
                 "en": "billing-module-overview",
@@ -38983,66 +39013,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboard",
-                    "es": "Panel de control",
-                    "pt": "Dashboard"
-                  },
-                  "slug": {
-                    "en": "dashboard",
-                    "es": "panel-de-control",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps - register and login",
-                    "es": "Primeros pasos - registro y login",
-                    "pt": "First steps - register and login"
-                  },
-                  "slug": {
-                    "en": "first-steps-register-and-login",
-                    "es": "primeros-pasos-registro-y-login",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Getting started - create project",
-                    "es": "Primeros pasos - crear projeto",
-                    "pt": "Getting started - create project"
-                  },
-                  "slug": {
-                    "en": "create-project",
-                    "es": "crear-projeto",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Invalid authentication code",
-                    "es": "Código de autenticación inválido",
-                    "pt": "Código de autenticação inválido"
-                  },
-                  "slug": {
-                    "en": "invalid-authentication-code",
-                    "es": "codigo-de-autenticacion-invalido",
-                    "pt": "codigo-de-autenticacao-invalido"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
@@ -39058,59 +39028,45 @@
                 },
                 {
                   "name": {
-                    "en": "Profile",
-                    "es": "Perfil",
-                    "pt": "Profile"
-                  },
-                  "slug": {
-                    "en": "profile",
-                    "es": "perfil",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Two-factor authentication",
-                    "es": "Autenticación de 2 factores",
-                    "pt": "Two-factor authentication"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform - Overview",
-                    "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Visão geral VTEX CX Platform"
+                    "en": "VTEX CX Platform: Overview",
+                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-overview",
-                    "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "visao-geral-vtex-cx-platform"
+                    "es": "vtex-cx-platform-vision-de-conjunto",
+                    "pt": "vtex-cx-platform-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Visión de conjunto de VTEX CX Platform",
+                "es": "Visión de conjunto de VTEX CX Platform",
+                "pt": "Visão geral VTEX CX Platform"
+              },
+              "slug": {
+                "en": "vision-de-conjunto-de-vtex-cx-platform",
+                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "en": "VTEX CX Platform permission system",
-                    "es": "Sistema de permisos VTEX CX Platform",
-                    "pt": "VTEX CX Platform permission system"
+                    "es": "Código de autenticación inválido",
+                    "pt": "Código de autenticação inválido",
+                    "en": "Código de autenticación inválido"
                   },
                   "slug": {
-                    "en": "vtex-cx-platform-permission-system",
-                    "es": "vtex-cx-platform-sistema-de-permisos",
-                    "pt": ""
+                    "es": "codigo-de-autenticacion-invalido",
+                    "pt": "codigo-de-autenticacao-invalido",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -63205,13 +63161,13 @@
             {
               "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
-                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
-                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+                "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
+                "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
               },
               "slug": {
                 "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
-                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
-                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+                "es": "error-de-transaccion-causado-por-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
