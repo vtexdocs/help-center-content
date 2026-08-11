@@ -59,7 +59,7 @@ Em lojas desenvolvidas com Store Framework, essa funcionalidade está disponíve
 
 Para mais informações, consulte a documentação do componente [Product Price](https://developers.vtex.com/docs/apps/vtex.product-price).
 
-## CMS Portal (Legado)
+#### CMS Portal (Legado)
 
 Em lojas CMS Portal (Legado), é necessário informar no template da página de produto qual o meio de pagamento que deve ser considerado na renderização do preço à vista. Siga os passos abaixo:
 
