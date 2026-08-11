@@ -38200,6 +38200,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk - Overview",
                     "es": "Visión de conjunto de Live Desk",
                     "pt": "Visão geral do Live Desk"
@@ -39120,21 +39135,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring Live Desk",
-                    "es": "Configurar Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "configure-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "CX Platform Settings: Workspace",
                     "es": "Configuración de CX Platform: Espacio de trabajo",
                     "pt": "Configurações CX Platform: Espaço de trabalho"
@@ -39204,6 +39204,37 @@
                     "en": "analytics-support-metrics",
                     "es": "analytics-metricas-de-atencion",
                     "pt": "analytics-metricas-de-atendimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "pt": "Auditoria: Visão geral",
+                "en": "Auditoria: Visão geral",
+                "es": "Auditoria: Visão geral"
+              },
+              "slug": {
+                "pt": "auditoria-visao-geral",
+                "en": "",
+                "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Auditoria: Conversas",
+                    "en": "Auditoria: Conversas",
+                    "es": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "pt": "auditoria-conversas",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
