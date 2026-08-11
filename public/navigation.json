@@ -39028,14 +39028,14 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX CX Platform overview",
-                    "pt": "Visão geral do VTEX CX Platform",
-                    "es": "VTEX CX Platform overview"
+                    "en": "VTEX CX Platform: Overview",
+                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-overview",
-                    "pt": "vtex-cx-platform-visao-geral",
-                    "es": ""
+                    "es": "vtex-cx-platform-vision-de-conjunto",
+                    "pt": "vtex-cx-platform-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
