@@ -3,13 +3,13 @@ title: 'Configurar descuento de precio al contado'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2024-11-01T13:37:19.588Z
+updatedAt: 2026-08-11T00:00:00.000Z
 publishedAt: 2024-11-01T13:37:19.588Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: configuring-a-discount-for-orders-prepaid-in-full
+slugEN: configuring-a-pay-in-full-discount
 legacySlug: configurar-descuento-de-precio-al-contado
 locale: es
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
