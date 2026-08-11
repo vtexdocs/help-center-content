@@ -27,7 +27,7 @@ A página apresenta as seguintes informações em uma tabela:
 
 ## Requisitos
 
-Para gerenciar usuários administrativos, você precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que contenha os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) a seguir:
+Para gerenciar usuários administrativos, você precisa ter um [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) que contenha os [recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager) a seguir:
 
 | Nome do recurso | Chave do recurso (resource_key) | Descrição |
 | :---- | :---- | :---- |
