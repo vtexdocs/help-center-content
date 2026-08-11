@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Upgrade your store to Google Analytics 4'
 id: 01mmrSck8nvXAKsypecT9V
 status: PUBLISHED
