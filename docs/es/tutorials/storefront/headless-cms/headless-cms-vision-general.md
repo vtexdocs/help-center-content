@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Headless CMS (Legacy) (Legado) - Información general'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED

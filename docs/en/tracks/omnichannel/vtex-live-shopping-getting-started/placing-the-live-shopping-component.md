@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Placing the Live Shopping component'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED
