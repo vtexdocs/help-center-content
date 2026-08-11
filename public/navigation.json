@@ -38170,6 +38170,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk - Overview",
                     "es": "Visión de conjunto de Live Desk",
                     "pt": "Visão geral do Live Desk"
@@ -39088,21 +39103,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Configuring Live Desk",
-                    "es": "Configurar Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "configure-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "CX Platform Settings: Workspace",
