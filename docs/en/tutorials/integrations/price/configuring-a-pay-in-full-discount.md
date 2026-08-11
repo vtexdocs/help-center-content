@@ -13,6 +13,8 @@ slugEN: configuring-a-pay-in-full-discount
 legacySlug: configuring-a-discount-for-orders-prepaid-in-full
 locale: en
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
+seeAlso:
+   - "/en/docs/tutorials/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping"
 ---
 
 A very common ecommerce strategy for attracting customers is to apply a discount to specific payment methods when orders are **paid in full**. This promotional price is usually displayed to users only after they select the payment method at checkout.
