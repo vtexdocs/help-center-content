@@ -12,9 +12,11 @@ locale: pt
 
 > ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
-A exportação de dados permite baixar em planilhas as informações de organizações compradoras, centros de custo, endereços e usuários cadastrados na sua loja. Com isso, é possível auditar essas configurações em massa, sem precisar revisar cada organização individualmente no Admin VTEX. A exportação é útil, por exemplo, para conferir se os dados foram cadastrados corretamente depois de uma [importação em massa](/pt/docs/tutorials/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo).
+A exportação de dados permite baixar em planilhas as informações de organizações compradoras, centros de custo, endereços e usuários cadastrados na sua loja. Com isso, você pode auditar essas configurações em massa, sem precisar revisar cada organização individualmente no Admin VTEX. A exportação é útil, por exemplo, para conferir se você cadastrou os dados corretamente depois de uma [importação em massa](/pt/docs/tutorials/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo).
 
-> ⚠️ Para usar a exportação, é necessário ter o aplicativo [B2B Organizations](https://developers.vtex.com/docs/apps/vtex.b2b-organizations) atualizado para a versão mais recente.
+## Antes de começar
+
+Para usar a exportação, você precisa ter o aplicativo [B2B Organizations](https://developers.vtex.com/docs/apps/vtex.b2b-organizations) atualizado para a versão mais recente.
 
 > ⚠️ Somente usuários com permissão de acesso ao menu **Organizações** podem exportar dados. Saiba mais em [Gerenciamento de permissões no B2B Suite](/pt/docs/tutorials/gerenciamento-de-permissoes-no-b2b-suite).
 
@@ -30,11 +32,18 @@ Ao iniciar uma exportação, você escolhe quais dos quatro tipos de dados desej
 
 - **Endereços:** os endereços de entrega associados aos centros de custo.
 
-Os dados são exportados em formato XLSX. Cada tipo de dado selecionado é processado separadamente e tem sua própria ação `Baixar arquivo` na janela de exportação.
+O sistema exporta os dados em formato XLSX. O sistema processa cada tipo de dado selecionado separadamente, disponibilizando a ação `Baixar arquivo` na janela de exportação.
 
 Não há limite de registros por exportação. O tempo de geração dos arquivos depende do volume de dados exportados.
 
-## Exportar dados
+## Instruções
+
+Abaixo, você confere uma visão geral das etapas para exportar os dados:
+
+Exportando dados
+Acompanhando e baixando a exportação
+
+### Exportando dados
 
 Para exportar dados de organizações, centros de custo, endereços e usuários, siga os passos abaixo:
 
@@ -44,16 +53,16 @@ Para exportar dados de organizações, centros de custo, endereços e usuários,
 4. Marque as caixas de seleção dos tipos de dados que deseja exportar: `Organizations`, `Cost centers`, `Users` e `Addresses`. Para exportar todos os tipos de dados, marque `Select all`.
 5. Clique em `Start export`.
 
-## Acompanhar e baixar a exportação
+### Acompanhando e baixando a exportação
 
 Depois de iniciar a exportação, a janela exibe uma tabela com uma linha para cada tipo de dado selecionado, mostrando o progresso da geração, o status e a ação disponível.
 
 Cada linha da tabela pode apresentar um dos seguintes status:
 
-- **Generating...**: o arquivo está sendo gerado.
+- **Generating...**: o sistema está gerando o arquivo.
 - **Ready**: o arquivo está pronto e a ação `Baixar arquivo` fica disponível na mesma linha.
 
-Quando a exportação é concluída, o Admin VTEX exibe a mensagem **Exportação concluída. Download iniciado**. Para salvar o arquivo de um tipo de dado, clique em `Baixar arquivo` na linha correspondente.
+Quando o sistema conclui a exportação, o Admin VTEX exibe a mensagem **Exportação concluída. Download iniciado**. Para salvar o arquivo de um tipo de dado, clique em `Baixar arquivo` na linha correspondente.
 
 ## Limitações
 
@@ -61,6 +70,8 @@ Quando a exportação é concluída, o Admin VTEX exibe a mensagem **Exportaçã
 - A exportação permite apenas baixar os dados. Para criar novos registros em massa, use a [importação em massa de dados sobre organizações e centros de custo](/pt/docs/tutorials/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo).
 
 ## Saiba mais
+
+Neste tutorial, você aprendeu a exportar dados de organizações, centros de custo, usuários e endereços no B2B Suite. Para continuar configurando sua loja, consulte os seguintes artigos:
 
 - [Gerenciamento de organizações B2B](/pt/docs/tutorials/gerenciamento-de-organizacoes-b2b)
 - [Configurando a importação em massa de dados sobre organizações e centros de custos](/pt/docs/tutorials/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo)
