@@ -18785,6 +18785,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Addressing an unidentified invoice payment",
+                    "es": "Resolver pago de factura no identificado",
+                    "pt": "Resolver pagamento de fatura não identificado"
+                  },
+                  "slug": {
+                    "en": "resolving-an-unidentified-invoice-payment",
+                    "es": "resolver-pago-de-factura-no-identificado",
+                    "pt": "resolver-pagamento-de-fatura-nao-identificado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Consumption tags used in the billing module",
                     "es": "Tags de pedidos utilizadas por el módulo de facturación",
                     "pt": "Marcações de pedidos pelo módulo de cobranças"
@@ -18853,21 +18868,6 @@
                     "en": "how-to-temporarily-unblock-the-admin",
                     "es": "desbloqueio-temporal-del-admin",
                     "pt": "como-desbloquear-temporariamente-o-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Resolving an unidentified invoice payment",
-                    "es": "Resolver pago de factura no identificado",
-                    "pt": "Resolver pagamento de fatura não identificado"
-                  },
-                  "slug": {
-                    "en": "resolving-an-unidentified-invoice-payment",
-                    "es": "resolver-pago-de-factura-no-identificado",
-                    "pt": "resolver-pagamento-de-fatura-nao-identificado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39408,37 +39408,6 @@
         },
         {
           "name": {
-            "en": "App Platform",
-            "es": "App Platform",
-            "pt": "App Platform"
-          },
-          "slug": {
-            "en": "app-platform",
-            "es": "app-platform",
-            "pt": "app-platform"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Cold Start requests failing with timeout and courier retries not working as expected",
-                "es": "Las solicitudes de arranque en frío fallan con el tiempo de espera y los reintentos de mensajería no funcionan como se esperaba.",
-                "pt": "As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado"
-              },
-              "slug": {
-                "en": "cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected",
-                "es": "las-solicitudes-de-arranque-en-frio-fallan-con-el-tiempo-de-espera-y-los-reintentos-de-mensajeria-no-funcionan-como-se-esperaba",
-                "pt": "as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Apps",
             "es": "Apps",
             "pt": "Apps"
@@ -39596,6 +39565,21 @@
                 "en": "issue-with-node-version-compatibility",
                 "es": "problema-de-compatibilidad-de-versiones-de-node",
                 "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requests failing with timeout during app cold start",
+                "es": "Las solicitudes fallan por tiempo de espera durante el inicio en frío de la aplicación.",
+                "pt": "As solicitações falham com erro de tempo limite durante a inicialização a frio do aplicativo."
+              },
+              "slug": {
+                "en": "requests-failing-with-timeout-during-app-cold-start",
+                "es": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
+                "pt": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo"
               },
               "origin": "",
               "type": "markdown",
@@ -41743,6 +41727,21 @@
                 "en": "create-product-api-doesnt-send-nulls-as-release-date-values",
                 "es": "la-api-de-creacion-de-productos-no-envia-valores-nulos-como-fecha-de-lanzamiento",
                 "pt": "a-api-de-criacao-de-produtos-nao-envia-nulos-como-valores-de-data-de-lancamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Creating a mandatory, active, sku specification is not inactivating category skus",
+                "es": "La creación de una especificación de SKU obligatoria y activa no desactiva las SKU de categoría.",
+                "pt": "Criar uma especificação de SKU obrigatória e ativa não desativa as SKUs da categoria."
+              },
+              "slug": {
+                "en": "creating-a-mandatory-active-sku-specification-is-not-inactivating-category-skus",
+                "es": "la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria",
+                "pt": "criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria"
               },
               "origin": "",
               "type": "markdown",
@@ -45795,6 +45794,21 @@
                 "en": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
                 "es": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
                 "pt": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
+                "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
+                "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
+              },
+              "slug": {
+                "en": "checkoutorderformownership-is-lostdoesnt-exist-in-some-purchase-flows",
+                "es": "la-propiedad-del-formulario-de-pedido-de-pago-se-pierde-o-no-existe-en-algunos-flujos-de-compra",
+                "pt": "a-propriedade-do-formulario-de-pedido-no-checkout-e-perdidanao-existe-em-alguns-fluxos-de-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -55003,21 +55017,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
-              },
-              "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -58433,12 +58432,12 @@
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
                 "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
-                "pt": "Minha Conta - O campo Nome do Receptor não reconhece a entrada."
+                "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
                 "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
-                "pt": "minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada"
+                "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
               "type": "markdown",
@@ -59688,6 +59687,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -60167,6 +60181,21 @@
                 "en": "cardholderdocument-is-not-sent-to-antifraud",
                 "es": "el-documento-del-titular-de-la-tarjeta-no-se-envia-al-sistema-antifraude",
                 "pt": "o-documento-do-titular-do-cartao-nao-e-enviado-ao-sistema-antifraude"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cash (1x) transactions may be recorded under a payment rule that does not offer the 1x installment option",
+                "es": "Las transacciones en efectivo (1x) pueden registrarse bajo una regla de pago que no ofrece la opción de pago a plazos 1x.",
+                "pt": "Transações em dinheiro (1x) podem ser registradas sob uma regra de pagamento que não oferece a opção de parcelamento em 1x."
+              },
+              "slug": {
+                "en": "cash-1x-transactions-may-be-recorded-under-a-payment-rule-that-does-not-offer-the-1x-installment-option",
+                "es": "las-transacciones-en-efectivo-1x-pueden-registrarse-bajo-una-regla-de-pago-que-no-ofrece-la-opcion-de-pago-a-plazos-1x",
+                "pt": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x"
               },
               "origin": "",
               "type": "markdown",
@@ -60947,21 +60976,6 @@
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
                 "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option",
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela"
-              },
-              "slug": {
-                "en": "for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option",
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -62087,6 +62101,21 @@
                 "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
                 "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
                 "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
+                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela",
+                "en": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
+              },
+              "slug": {
+                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
+                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -65414,6 +65443,21 @@
             },
             {
               "name": {
+                "en": "\"Overwrite All Fixed Prices\" import option does not function to delete all prices",
+                "es": "La opción de importación \"Sobrescribir todos los precios fijos\" no funciona para eliminar todos los precios.",
+                "pt": "A opção de importação \"Substituir todos os preços fixos\" não funciona para excluir todos os preços."
+              },
+              "slug": {
+                "en": "overwrite-all-fixed-prices-import-option-does-not-function-to-delete-all-prices",
+                "es": "la-opcion-de-importacion-sobrescribir-todos-los-precios-fijos-no-funciona-para-eliminar-todos-los-precios",
+                "pt": "a-opcao-de-importacao-substituir-todos-os-precos-fixos-nao-funciona-para-excluir-todos-os-precos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Applying a Coupon Removes Initial UTM Campaign Promotion from Cart",
                 "es": "La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro",
                 "pt": "A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho"
@@ -66187,6 +66231,21 @@
                 "en": "pricing-modification-via-compatibility-post-prices-route-is-losing-data",
                 "es": "la-modificacion-de-precios-a-traves-de-la-ruta-de-precios-de-las-publicaciones-de-compatibilidad-provoca-la-perdida-de-datos",
                 "pt": "a-modificacao-de-precos-por-meio-da-rota-de-precos-de-postagem-de-compatibilidade-esta-causando-perda-de-dados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pricing search error (\"Error - undefined\") on sub-accounts due to missing CMS configuration folders",
+                "es": "Error de búsqueda de precios (\"Error - indefinido\") en subcuentas debido a la falta de carpetas de configuración de CMS.",
+                "pt": "Erro na pesquisa de preços (\"Erro - indefinido\") em subcontas devido à ausência de pastas de configuração do CMS."
+              },
+              "slug": {
+                "en": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+                "es": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+                "pt": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms"
               },
               "origin": "",
               "type": "markdown",
@@ -68583,6 +68642,21 @@
             },
             {
               "name": {
+                "en": "productImpression event is sent with only one product when the shelf uses slider-layout with infinite: true",
+                "es": "El evento productImpression se envía con un solo producto cuando el estante utiliza slider-layout con infinite: true.",
+                "pt": "O evento productImpression é enviado com apenas um produto quando a prateleira usa layout deslizante com infinite: true."
+              },
+              "slug": {
+                "en": "productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true",
+                "es": "el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true",
+                "pt": "o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Property blockClass from infoCard not working",
                 "es": "La propiedad `blockClass` de `infoCard` no funciona",
                 "pt": "A propriedade `blockClass` do `infoCard` não está funcionando"
@@ -68658,29 +68732,14 @@
             },
             {
               "name": {
-                "en": "Rewriter is not receiving URL updates",
-                "es": "El reescribidor no recibe actualizaciones de URL",
-                "pt": "O reescritor não está recebendo atualizações de URL"
+                "en": "Rewriter not receiving route updates from the catalog",
+                "es": "El Rewriter no recibe actualizaciones de ruta del catálogo.",
+                "pt": "O Rewriter não está recebendo atualizações de rota do catálogo."
               },
               "slug": {
-                "en": "rewriter-is-not-receiving-url-updates",
-                "es": "el-reescribidor-no-recibe-actualizaciones-de-url",
-                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-url"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Rewriter not receiving routes updated from the catalog",
-                "es": "El reescritor no recibe las rutas actualizadas desde el catálogo",
-                "pt": "O reescritor não está recebendo rotas atualizadas do catálogo"
-              },
-              "slug": {
-                "en": "rewriter-not-receiving-routes-updated-from-the-catalog",
-                "es": "el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo",
-                "pt": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo"
+                "en": "rewriter-not-receiving-route-updates-from-the-catalog",
+                "es": "el-rewriter-no-recibe-actualizaciones-de-ruta-del-catalogo",
+                "pt": "o-rewriter-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -68884,13 +68943,13 @@
             {
               "name": {
                 "en": "Some custom pages are not returning in Custom Routes API causing missing entries in the sitemap",
-                "es": "Algunas páginas personalizadas no aparecen en la API de rutas personalizadas, por lo que faltan entradas en el mapa del sitio.",
-                "pt": "Algumas páginas personalizadas não estão retornando na API de rotas personalizadas, causando a falta de entradas no mapa do site."
+                "es": "Algunas páginas personalizadas no se devuelven en la API de Rutas Personalizadas, lo que provoca que falten entradas en el mapa del sitio.",
+                "pt": "Algumas páginas personalizadas não estão sendo retornadas na API de Rotas Personalizadas, o que causa a ausência de entradas no mapa do site."
               },
               "slug": {
                 "en": "some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap",
-                "es": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
-                "pt": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site"
+                "es": "algunas-paginas-personalizadas-no-se-devuelven-en-la-api-de-rutas-personalizadas-lo-que-provoca-que-falten-entradas-en-el-mapa-del-sitio",
+                "pt": "algumas-paginas-personalizadas-nao-estao-sendo-retornadas-na-api-de-rotas-personalizadas-o-que-causa-a-ausencia-de-entradas-no-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
@@ -69381,6 +69440,21 @@
             },
             {
               "name": {
+                "en": "Amazon Inactive or out-of-commercial-policy SKUs remain published (Match/new listing) on Amazon after the connector sends them",
+                "es": "Amazon Los SKU inactivos o que no cumplen con la política comercial permanecen publicados (Coincidencia/nuevo listado) en Amazon después de que el conector los envía.",
+                "pt": "Amazon Os SKUs inativos ou fora da política comercial permanecem publicados (Correspondência/novo anúncio) na Amazon após o conector enviá-los."
+              },
+              "slug": {
+                "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
+                "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
+                "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
                 "pt": "Amazon Fluxo de cancelamento de pedidos"
@@ -69434,6 +69508,36 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
+                "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
+                "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
+              },
+              "slug": {
+                "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
+                "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
+                "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
+                "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
+                "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
+              },
+              "slug": {
+                "en": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
+                "es": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
+                "pt": "mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla"
               },
               "origin": "",
               "type": "markdown",

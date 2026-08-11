@@ -1,5 +1,5 @@
 ---
-title: 'Resolving an unidentified invoice payment'
+title: 'Addressing an unidentified invoice payment'
 id: 63Fz8Ma5alR43ij4ZXVOQC
 status: PUBLISHED
 createdAt: 2020-09-10T21:33:40.958Z
@@ -15,53 +15,34 @@ locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-In this article, you will find possible reasons why your payment has not been confirmed according to which [VTEX branch](/en/docs/tutorials/names-of-vtex-branches-worldwide) the customer is invoiced by. 
+If your invoice payment hasn't been identified, check the possible reasons, the reconciliation targets, and what to do in these cases.
 
-The payment must be identified within 48 working hours, and in case it has not been found, you must open a [ticket](https://supporticket.vtex.com/support) with the necessary receipts and select the option **Submit payment receipt**.  
+> ℹ️ After payment, reconciliation is completed within 48 business hours. Before [opening a ticket with VTEX financial support](#open-a-ticket-with-financial-support), check the [reasons for non-identification](#reasons-for-non-identification) and understand the [reconciliation targets](#reconciliation-targets).
 
-Possible reasons for non confirmation of payment:
+## Reasons for non-identification
 
-### VTEX Billing Branches: Argentina, United States and United Kingdom
+Possible reasons for non-confirmation of payment:
 
-- Withholding certificates pending submission.
-- The amount paid was different from the invoice value.
-- Payment not found by the bank.
+- **Amount paid lower than the invoice value:** The payment amount was below the invoice total.
+- **Payment made under a corporate name or tax document different from the one on the invoice:** When a payment comes from a corporate name or tax document that differs from the one on the invoice, you can't identify who made the payment.
+- **Retention certificates or taxes not sent:** In countries with applicable retentions and taxes, missing the corresponding certificates can prevent invoice reconciliation.
+- **Discrepancy in the retention amount:** The retention certificate or tax receipt was sent, but the amount doesn't match the one identified on the invoice.
 
-You must submit the bank receipt along with the withholding certificates.  
+## Reconciliation targets
 
-### VTEX Billing Branch: Brazil
+Before opening a ticket with financial support, make sure the reconciliation target for the payment method used has already been met. Payments by check or boleto (Brazilian payment method) can take up to 48 business hours to be credited. The start of this count varies depending on the payment method:
 
-- The paid amount is lower than the one charged on the invoice.
-- Payment made by a CNPJ that is different from the one registered on the invoice.
-- Payment made using a method other than the added one.  
+- **Payment by check:** The target starts counting from the date the check is due to be deposited or compensated, not from the date it was issued or delivered.
+- **Payment by boleto:** The target starts counting from the moment the boleto is paid.
 
-It is essential to submit the bank receipt.
+    > ⚠️ For clients billed in Brazil who pay bank invoices via Pix, the settlement target is up to 48 business hours.
 
-### VTEX Billing Branch: Chile and Mexico
+## Open a ticket with financial support
 
-- No payment was found by the bank.
-- The amount at the bank is different from the one on the invoice.
+If the payment still hasn't been identified after the reconciliation target has passed, follow these steps:
 
-For both cases, it will be necessary to submit the bank receipt.
+1. Go to [financial support](https://supporticket.vtex.com/support).
+2. Select the **Submission of payment receipt** option.
+3. Attach the receipts and, when applicable, the withholding certificates.
 
-### VTEX Billing Branch: Colombia
-
-- "Certificados de retención" pending submission.
-- No payment was found by the bank.
-- Different withholdings from those indicated on the invoice.
-
-It is essential to submit the bank receipt and the details of the withholdings applied to the invoice.
-
-## Solving exceptional cases
-
-If your admin access is blocked, you should, exceptionally, submit the necessary receipts to the VTEX branch email, from which you are invoiced. 
-
-| Country | E-mail |
-| ---------- | ---------- | 
-| Argentina | arg-receivables@vtex.com | 
-| Brazil | receivablesbr@vtexhelp.zendesk.com | 
-| Chile | chi-receivables@vtex.com |
-| Colombia | col-receivables@vtex.com |
-| United States | us-receivables@vtex.com |
-| Mexico | mex-receivables@vtex.com |
-| United Kingdom | europe-receivables@vtex.com |
+> ⚠️ If access to the VTEX Admin is blocked, you can temporarily unblock it while you settle the payment. Learn more in [How to temporarily unblock the Admin](/en/docs/tutorials/how-to-temporarily-unblock-the-admin).
