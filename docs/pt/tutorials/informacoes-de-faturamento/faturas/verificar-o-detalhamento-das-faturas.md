@@ -1,10 +1,10 @@
 ---
 title: 'Verificar o detalhamento das faturas'
 createdAt: 2026-07-23T15:12:38.888Z
-updatedAt: 2026-07-23T15:12:38.888Z
+updatedAt: 2026-08-11T00:00:00.000Z
 contentType: tutorial
 productTeam: Billing
-slugEN: checking-the-invoice-details
+slugEN: checking-invoice-details
 locale: pt
 seeAlso:
   - "/pt/docs/tutorials/visao-geral-informacoes-de-faturamento"
