@@ -516,9 +516,9 @@
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
                   },
                   "slug": {
-                    "en": "2026-08-07-orders-new-orders-list-available-in-open-beta",
-                    "es": "2026-08-07-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
-                    "pt": "2026-08-07-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
+                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18790,7 +18790,7 @@
                     "pt": "Resolver pagamento de fatura não identificado"
                   },
                   "slug": {
-                    "en": "resolving-an-unidentified-invoice-payment",
+                    "en": "addressing-an-unidentified-invoice-payment",
                     "es": "resolver-pago-de-factura-no-identificado",
                     "pt": "resolver-pagamento-de-fatura-nao-identificado"
                   },
@@ -62252,36 +62252,6 @@
                 "en": "outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page",
                 "es": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
                 "pt": "zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
-              },
-              "slug": {
-                "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela",
-                "en": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
-              },
-              "slug": {
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
-                "en": ""
               },
               "origin": "",
               "type": "markdown",
