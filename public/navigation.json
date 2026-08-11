@@ -38983,66 +38983,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboard",
-                    "es": "Panel de control",
-                    "pt": "Dashboard"
-                  },
-                  "slug": {
-                    "en": "dashboard",
-                    "es": "panel-de-control",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps - register and login",
-                    "es": "Primeros pasos - registro y login",
-                    "pt": "First steps - register and login"
-                  },
-                  "slug": {
-                    "en": "first-steps-register-and-login",
-                    "es": "primeros-pasos-registro-y-login",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Getting started - create project",
-                    "es": "Primeros pasos - crear projeto",
-                    "pt": "Getting started - create project"
-                  },
-                  "slug": {
-                    "en": "create-project",
-                    "es": "crear-projeto",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Invalid authentication code",
-                    "es": "Código de autenticación inválido",
-                    "pt": "Código de autenticação inválido"
-                  },
-                  "slug": {
-                    "en": "invalid-authentication-code",
-                    "es": "codigo-de-autenticacion-invalido",
-                    "pt": "codigo-de-autenticacao-invalido"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
@@ -39058,59 +38998,45 @@
                 },
                 {
                   "name": {
-                    "en": "Profile",
-                    "es": "Perfil",
-                    "pt": "Profile"
-                  },
-                  "slug": {
-                    "en": "profile",
-                    "es": "perfil",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Two-factor authentication",
-                    "es": "Autenticación de 2 factores",
-                    "pt": "Two-factor authentication"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform - Overview",
-                    "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Visão geral VTEX CX Platform"
+                    "en": "VTEX CX Platform: Overview",
+                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-overview",
-                    "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "visao-geral-vtex-cx-platform"
+                    "es": "vtex-cx-platform-vision-de-conjunto",
+                    "pt": "vtex-cx-platform-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Visión de conjunto de VTEX CX Platform",
+                "es": "Visión de conjunto de VTEX CX Platform",
+                "pt": "Visão geral VTEX CX Platform"
+              },
+              "slug": {
+                "en": "vision-de-conjunto-de-vtex-cx-platform",
+                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "en": "VTEX CX Platform permission system",
-                    "es": "Sistema de permisos VTEX CX Platform",
-                    "pt": "VTEX CX Platform permission system"
+                    "es": "Código de autenticación inválido",
+                    "pt": "Código de autenticação inválido",
+                    "en": "Código de autenticación inválido"
                   },
                   "slug": {
-                    "en": "vtex-cx-platform-permission-system",
-                    "es": "vtex-cx-platform-sistema-de-permisos",
-                    "pt": ""
+                    "es": "codigo-de-autenticacion-invalido",
+                    "pt": "codigo-de-autenticacao-invalido",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
