@@ -39060,37 +39060,6 @@
             },
             {
               "name": {
-                "en": "Visión de conjunto de VTEX CX Platform",
-                "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visión de conjunto de VTEX CX Platform"
-              },
-              "slug": {
-                "en": "vision-de-conjunto-de-vtex-cx-platform",
-                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "vision-de-conjunto-de-vtex-cx-platform"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Código de autenticación inválido",
-                    "en": "Código de autenticación inválido",
-                    "pt": "Código de autenticación inválido"
-                  },
-                  "slug": {
-                    "es": "codigo-de-autenticacion-invalido",
-                    "en": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "VTEX CX Platform Settings",
                 "es": "Configuraciones VTEX CX Platform",
                 "pt": "Configurações VTEX CX Platform"
