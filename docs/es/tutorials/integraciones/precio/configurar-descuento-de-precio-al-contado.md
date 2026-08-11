@@ -59,7 +59,7 @@ En tiendas desarrolladas con Store Framework, esta funcionalidad está disponibl
 
 Para más información, consulta la documentación del componente [Product Price](https://developers.vtex.com/docs/apps/vtex.product-price).
 
-## Portal CMS (Legado)
+#### Portal CMS (Legado)
 
 En las tiendas CMS Portal (Legado) es necesario indicar en la plantilla de la página de producto el medio de pago que debe considerarse al momento de mostrar el precio al contado. Sigue los pasos a continuación:
 
