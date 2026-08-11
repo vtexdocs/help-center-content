@@ -18953,9 +18953,9 @@
             },
             {
               "name": {
-                "en": "Billing - Overview",
+                "en": "Billing information - Overview",
                 "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "pt": "Informações de faturamento - Visão geral"
               },
               "slug": {
                 "en": "billing-module-overview",
