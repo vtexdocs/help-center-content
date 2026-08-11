@@ -27,7 +27,7 @@ Para acessar essa página, clique no seu avatar — identificado pela inicial do
 - [Dados cadastrais](#dados-cadastrais)
 - [Contatos de faturamento](contatos-de-faturamento)
 
-![visao-geral-informacoes-de-faturamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/informacoes-de-faturamento/visao-geral-informacoes-de-faturamento-1.jpg)
+![visao-geral-informacoes-de-faturamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/informacoes-de-faturamento/visao-geral-informacoes-de-faturamento-1.png)
 
 ## Contratos
 

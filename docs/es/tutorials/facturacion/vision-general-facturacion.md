@@ -27,7 +27,7 @@ Para acceder a esta página haz clic en el avatar con la inicial de tu email, ub
 - [Datos de registro](#datos-de-registro)
 - [Contactos de facturación](#contactos-de-facturacion)
 
-![vision-general-facturacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/vision-general-facturacion-1.jpg)
+![vision-general-facturacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/vision-general-facturacion-1.png)
 
 ## Contratos
 
