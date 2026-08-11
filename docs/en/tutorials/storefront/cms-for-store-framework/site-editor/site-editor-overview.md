@@ -24,7 +24,7 @@ Site Editor is a graphical interface for managing your storefront content. It al
 
 In your VTEX Admin, access **Storefront > Site Editor** and you’ll see the main tools available in the graphical interface.
 
-![Site Editor - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/site-editor/site-editor-overview_1.png)
+![Site Editor - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-for-store-framework/site-editor/site-editor-overview_1.png)
 
 | **Tool**    | **Description** |
 | ----------  | ----------    |
@@ -43,7 +43,7 @@ Check out the following tutorials to start managing your storefront content:
 - [Improving SEO of Product Listing Pages](/en/docs/tutorials/improving-the-seo-of-product-listing-pages)
 - [Reusing images with Image Widget](/en/docs/tutorials/image-widget)
 - [Linking URLs to banners using Site Editor](/en/docs/tutorials/linking-urls-to-banners-using-the-site-editor)
-- [Creating landing pages via binding](/en/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Creating landing pages via binding](/docs/tutorials/creating-landing-pages)
 - [Managing content via binding](/en/docs/tutorials/managing-content-per-binding)
 - [Managing URL redirects via binding](/en/docs/tutorials/managing-redirects-per-binding)
 

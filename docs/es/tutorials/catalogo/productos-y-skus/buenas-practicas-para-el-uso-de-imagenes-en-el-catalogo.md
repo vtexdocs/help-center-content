@@ -43,5 +43,5 @@ Para obtener buenos resultados con sus imágenes y solucionar posibles problemas
 
 - [Registrar Producto](/es/docs/tracks/registrar-producto)
 - [Registrar SKU](/es/docs/tracks/registrar-sku)
-- [Importar imágenes por plantilla](/es/docs/tutorials/importando-imagenes-por-plantilla)
+- [Importar imágenes por plantilla](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla)
 
