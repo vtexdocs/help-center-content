@@ -3,7 +3,7 @@ title: 'Baixar faturas da VTEX'
 id: tutorials_653
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:30.802Z
-updatedAt: 2026-07-23T17:30:02.989Z
+updatedAt: 2026-08-11T00:00:00.000Z
 publishedAt: 2021-03-22T20:48:29.214Z
 firstPublishedAt: 2017-04-27T23:03:40.557Z
 contentType: tutorial

@@ -58582,20 +58582,12 @@
             {
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
-<<<<<<< HEAD
                 "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
-=======
-                "es": "El campo \"Nombre del destinatario\" de mi cuenta no reconoce la entrada.",
->>>>>>> main
                 "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
-<<<<<<< HEAD
                 "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
-=======
-                "es": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
->>>>>>> main
                 "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
@@ -62267,7 +62259,6 @@
             },
             {
               "name": {
-<<<<<<< HEAD
                 "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
                 "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
                 "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
@@ -62298,8 +62289,6 @@
             },
             {
               "name": {
-=======
->>>>>>> main
                 "en": "Payment Conditions set to process transactions in installments other than 1x are processing transactions as prepaid in full",
                 "es": "Condiciones de pago establecidas para procesar transacciones a plazos distintas de 1x están procesando transacciones como prepagadas en su totalidad",
                 "pt": "As condições de pagamento definidas para processar transações em parcelas diferentes de 1x estão processando transações como pré-pagas integralmente"
