@@ -18724,14 +18724,14 @@
             },
             {
               "name": {
-                "en": "Ai workspace BETA",
-                "es": "Ai workspace BETA",
-                "pt": "Ai workspace BETA"
+                "en": "AI Workspace Beta",
+                "es": "AI Workspace Beta",
+                "pt": "AI Workspace Beta"
               },
               "slug": {
                 "en": "ai-workspace-beta",
                 "es": "ai-workspace-beta",
-                "pt": "ai-workspace-beta"
+                "pt": "ai-workspace-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
