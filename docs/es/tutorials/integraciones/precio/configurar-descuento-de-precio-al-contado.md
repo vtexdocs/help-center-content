@@ -3,46 +3,73 @@ title: 'Configurar descuento de precio al contado'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2024-11-01T13:37:19.588Z
+updatedAt: 2026-08-11T00:00:00.000Z
 publishedAt: 2024-11-01T13:37:19.588Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: configuring-a-discount-for-orders-prepaid-in-full
+slugEN: configuring-a-pay-in-full-discount
 legacySlug: configurar-descuento-de-precio-al-contado
 locale: es
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
+seeAlso:
+   - "/es/docs/tutorials/configurar-descuento-de-precio-al-contado-para-google-shopping"
 ---
 
-Una de las estrategias de atracción de clientes más utilizadas en el comercio electrónico es aplicar a medios de pago específicos un descuento en el __precio al contado__. Este precio promocional generalmente es visible para el usuario solo en la etapa de pago del checkout, después de la selección de la forma de pago. 
+Una de las estrategias para atraer clientes más usadas en ecommerce es aplicar un descuento en el **precio al contado** de medios de pago específicos. Este precio promocional normalmente se muestra al cliente solo en la etapa de pago del checkout después de seleccionar el medio de pago.
 
-La mayor ventaja de esta estrategia es que el precio al contado se calcula automáticamente, evitando inconsistencias en los canales de venta - como Google Shopping - que comparan el precio enviado por la integración con el precio que se muestra en la página de producto
+La principal ventaja de esta estrategia es que el precio al contado se calcula automáticamente, evitando inconsistencias en canales de venta (como Google Shopping) que comparan el precio enviado por la integración con el precio mostrado en la página de producto.
 
-Para utilizar esta estrategia en la plataforma VTEX, además de indicar el descuento de precio al contado, se debe seleccionar el medio de pago en el que se aplicará el descuento. Por lo tanto, es necesario:
+Este tutorial explica cómo configurar un descuento de precio al contado en VTEX, desde la definición del descuento y del medio de pago hasta la configuración del frontend de la tienda para mostrar el valor correctamente en la página del producto.
 
-1. Utilizar Checkout API para determinar el descuento de precio al contado y vincularlo a un medio de pago (vea el tutorial [Set a discount using the Checkout API](https://developers.vtex.com/vtex-rest-api/docs/set-a-discount-using-the-checkout-api)).
-2. Configurar el layout tanto para tiendas en CMS como en IO para que el descuento sea visible en el medio de pago seleccionado en la página de producto. (vea a continuación).  
+## Antes de comenzar
 
-## CMS
+Antes de configurar la visualización del precio al contado, crea o valida la promoción del descuento en el Admin VTEX. En la promoción defines:
+- El medio de pago que recibirá el descuento.
+- El porcentaje o valor del beneficio.
+- Los canales de venta.
+- El alcance de los productos elegibles, como SKUs, colecciones u otros criterios de la promoción.
 
-Después de determinar el descuento en Checkout, se debe vincular el SKU al medio de pago para que el descuento de precio al contado sea visible en la página de producto. Realice los siguientes pasos. 
+Consulta más información en [Crear promociones](https://help.vtex.com/es/docs/tutorials/crear-promociones).
 
-1. En el Admin VTEX, accede a *Storefront > Layout*, o escribe *Layout* en la barra de búsqueda en la parte superior de la página.
-2. Haga clic en la carpeta __CMS__ y, luego, en la carpeta __HTML Templates__.
-3. Haga clic en el template de su página de producto en la lista de templates.
-4. En la propiedad `skuPrice`, añada la variable `paymentSystemId` con el ID del medio de pago deseado. 
+## Instrucciones
 
-![Screenshot 2020-12-18 Crear precio al contado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/precio/configurar-descuento-de-precio-al-contado_1.png)
+### 1 - Define el medio de pago utilizado en el cálculo del precio al contado
 
-6. Luego, haga clic en __Save Template__ en el campo superior, para guardar la alteración.
+Utiliza el endpoint de configuración del `orderForm` para llenar la propiedad `paymentSystemToCheckFirstInstallment` con el ID del medio de pago deseado.
 
-Después de realizar esa configuración, el descuento de precio al contado estará activo. 
+Puedes obtener el ID en el Admin VTEX, en **Configuración de la tienda > Pagos > Configuración > Condiciones de pago**.
 
-## VTEX IO Store Framework
-Para las tiendas desarrolladas con VTEX IO, esa funcionalidad está disponible de forma nativa mediante el componente `vtex.product-price` en el bloque `product-spot-price`. Para configurarla, acceda a nuestra [documentación de producto](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-price#configuration). 
+![id-pagamentos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/preço/id-pagamentos.png)
 
-## Artículos relacionados
+Después de actualizar la configuración, [simula un carrito](https://developers.vtex.com/docs/guides/simulate-a-shopping-cart) para verificar si el descuento se aplicó a la opción de pago al contado en `paymentData.installmentOptions`.
 
-[Configurar descuento de precio al contado para Google Shopping](/es/tutorial/configurar-descuento-de-precio-al-contado-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+Consulta más información en [Set a discount using the Checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api).
 
+>ℹ️ Checkout API no crea reglas de descuento permanentes. Esas reglas deben definirse mediante promociones. Consulta más información en [Antes de comenzar](#antes-de-comenzar). Tampoco muestra el precio al contado en la página del producto. Eso se hace en el [siguiente paso](#2-configura-la-visualizacion-del-precio-al-contado-en-la-pagina-del-producto). Su función es solo indicar el medio de pago que debe considerarse y validar el resultado mediante simulaciones.
+
+### 2 - Configura la visualización del precio al contado en la página del producto
+
+Después de definir el medio de pago en el checkout, configura la tienda para mostrar el valor calculado del precio al contado en la página del producto.
+
+#### Store Framework
+
+En tiendas desarrolladas con Store Framework, esta funcionalidad está disponible de forma nativa a través del componente `vtex.product-price` en el bloque `product-spot-price`.
+
+Para más información, consulta la documentación del componente [Product Price](https://developers.vtex.com/docs/apps/vtex.product-price).
+
+## Portal CMS (Legado)
+
+En las tiendas CMS Portal (Legado) es necesario indicar en la plantilla de la página de producto el medio de pago que debe considerarse al momento de mostrar el precio al contado. Sigue los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Storefront > Layout**, o escribe **Layout** en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en la carpeta **CMS** y luego en **HTML Templates**.
+3. Haz clic en la plantilla de tu página de producto en la lista de plantillas.
+4. En la propiedad `skuPrice`, agrega la variable `paymentSystemId` con el ID del medio de pago deseado.
+
+   ![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/precio/configurar-descuento-de-precio-al-contado_1.png)
+
+5. Haz clic en **Save Template** en el campo superior para guardar.
+
+Con esta configuración la página del producto mostrará el valor al contado calculado para el medio de pago seleccionado.
