@@ -59,7 +59,7 @@ For stores developed with Store Framework, this feature is natively available in
 
 For more information, see the [Product Price](https://developers.vtex.com/docs/apps/vtex.product-price) component documentation.
 
-## CMS Portal (Legacy)
+#### CMS Portal (Legacy)
 
 In CMS Portal (Legacy) stores, you must specify in the product page template which payment method should be considered when rendering the cash price. To do so, follow the steps below:
 
