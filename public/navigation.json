@@ -16701,6 +16701,37 @@
             },
             {
               "name": {
+                "en": "Usuários",
+                "es": "Usuários",
+                "pt": "Usuários"
+              },
+              "slug": {
+                "en": "usuarios",
+                "es": "usuarios",
+                "pt": "usuários-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Gerenciar acesso de usuários ao AI Workspace (Beta)",
+                    "en": "Gerenciar acesso de usuários ao AI Workspace (Beta)",
+                    "es": "Gerenciar acesso de usuários ao AI Workspace (Beta)"
+                  },
+                  "slug": {
+                    "pt": "gerenciar-acesso-de-usuarios-ao-ai-workspace",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Users",
                 "es": "Usuarios",
                 "pt": "Usuários"
