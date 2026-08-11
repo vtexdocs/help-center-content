@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "2026-august",
+                "es": "2026-agosto",
+                "pt": "2026-agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Organizations data export in B2B Suite",
+                    "es": "Exportación de datos de organizaciones en B2B Suite",
+                    "pt": "Exportação de dados de organizações no B2B Suite"
+                  },
+                  "slug": {
+                    "en": "2026-08-31-organizations-data-export-in-b2b-suite",
+                    "es": "2026-08-31-exportacion-de-datos-de-organizaciones-en-b2b-suite",
+                    "pt": "2026-08-31-exportacao-de-dados-de-organizacoes-no-b2b-suite"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "July",
                 "es": "Julio",
                 "pt": "Julho"
@@ -488,37 +534,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "August",
-                "es": "Agosto",
-                "pt": "Agosto"
-              },
-              "slug": {
-                "en": "august",
-                "es": "agosto",
-                "pt": "agosto"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Orders: New orders listing available in open beta",
-                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
-                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
-                  },
-                  "slug": {
-                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
-                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
-                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17679,6 +17694,21 @@
                         "en": "configuring-bulk-data-import-for-organizations-and-cost-centers",
                         "es": "configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centros-custo",
                         "pt": "configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Exporting organizations, cost centers, addresses, and users data (B2B Suite)",
+                        "es": "Exportar datos de organizaciones, centros de costo, direcciones y usuarios (B2B Suite)",
+                        "pt": "Exportando dados de organizações (B2B Suite)"
+                      },
+                      "slug": {
+                        "en": "exporting-organizations-data",
+                        "es": "exportar-datos-de-organizaciones",
+                        "pt": "exportando-dados-de-organizacoes"
                       },
                       "origin": "",
                       "type": "markdown",
