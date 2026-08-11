@@ -24,4 +24,4 @@ To download a financial report, follow these steps:
 2. Click **Billing > Invoices**.
 3. Find the invoice you want and click **Financial report**. The report will be sent to your email.
 
-> ⚠️ The financial report is always limited to the account in which it was generated. If the operation has more than one account with orders in the period, go to the Admin for each account and generate a report for that account. To identify which accounts had orders in the period, check the invoice details. Learn more in [Checking invoice details](/en/docs/tutorials/checking-the-invoice-details).
+> ⚠️ The financial report is always limited to the account in which it was generated. If the operation has more than one account with orders in the period, go to the Admin for each account and generate a report for that account. To identify which accounts had orders in the period, check the invoice details. Learn more in [Checking invoice details](/en/docs/tutorials/checking-invoice-details).
