@@ -39060,37 +39060,6 @@
             },
             {
               "name": {
-                "en": "Visión de conjunto de VTEX CX Platform",
-                "es": "Visión de conjunto de VTEX CX Platform",
-                "pt": "Visão geral VTEX CX Platform"
-              },
-              "slug": {
-                "en": "vision-de-conjunto-de-vtex-cx-platform",
-                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
-                "pt": "visão-geral-vtex-cx-platform-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Código de autenticación inválido",
-                    "pt": "Código de autenticação inválido",
-                    "en": "Código de autenticación inválido"
-                  },
-                  "slug": {
-                    "es": "codigo-de-autenticacion-invalido",
-                    "pt": "codigo-de-autenticacao-invalido",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "VTEX CX Platform Settings",
                 "es": "Configuraciones VTEX CX Platform",
                 "pt": "Configurações VTEX CX Platform"
@@ -39125,7 +39094,7 @@
                     "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "manage-vtex-cx-platform-members",
+                    "en": "managing-vtex-cx-platform-members",
                     "es": "administrar-miembros-de-la-plataforma-vtex-cx",
                     "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
