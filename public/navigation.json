@@ -18729,8 +18729,8 @@
                 "pt": "AI Workspace Beta"
               },
               "slug": {
-                "en": "ai-workspace-beta",
-                "es": "ai-workspace-beta",
+                "en": "ai-workspace-beta-subcategory",
+                "es": "ai-workspace-beta-subcategoria",
                 "pt": "ai-workspace-beta-subcategoria"
               },
               "origin": "",
@@ -18738,14 +18738,14 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Gerenciar acesso de usuários ao AI Workspace (Beta)",
-                    "en": "Gerenciar acesso de usuários ao AI Workspace (Beta)",
-                    "es": "Gerenciar acesso de usuários ao AI Workspace (Beta)"
+                    "en": "Managing user access to AI Workspace (Beta)",
+                    "es": "Gestionar el acceso de usuarios a AI Workspace (Beta)",
+                    "pt": "Gerenciar acesso de usuários ao AI Workspace (Beta)"
                   },
                   "slug": {
-                    "pt": "gerenciar-acesso-de-usuarios-ao-ai-workspace",
-                    "en": "",
-                    "es": ""
+                    "en": "managing-user-access-to-ai-workspace",
+                    "es": "gestionar-acceso-de-usuarios-a-ai-workspace",
+                    "pt": "gerenciar-acesso-de-usuarios-ao-ai-workspace"
                   },
                   "origin": "",
                   "type": "markdown",
