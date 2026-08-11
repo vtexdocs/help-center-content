@@ -14,9 +14,9 @@ La página **Analytics** ofrece datos y métricas sobre los chats de soporte hum
 
 **Live Desk** es el dashboard de chats de soporte humano de Analytics. Está dividido en dos pestañas: **Monitoreo** y **Análisis**.
 
-y se muestran los siguientes controles:
+Se muestran los siguientes controles:
 
-![Botones de actualización, filtros y exportación de datos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/live-desk-controle-de-dados-e-filtros.png)
+![Botones de actualización, filtros y exportación de datos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/analytics/live-desk-controle-de-datos-y-filtros.png)
 
 - `Actualizar`: recarga los datos del dashboard manualmente.
 - `Filtros`: abre las opciones de filtro por departamento, cola, representante, tags y periodo.
@@ -32,7 +32,7 @@ La pestaña **Monitoreo** muestra información en tiempo real sobre los chats de
 
 Contiene las siguientes secciones:
 
-![Tela de monitoramento 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-1.png)
+![Tela de monitoramento 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/analytics/tela-de-monitoreo-1.png)
 
 #### 1. Status de los chats de soporte
 
@@ -56,7 +56,7 @@ Cada métrica también muestra el valor máximo registrado en el periodo.
 
 Gráfico de líneas que muestra la distribución de chats de soporte iniciados a lo largo de las horas del día. Permite identificar los horarios de mayor demanda y planificar la asignación de representantes.
 
-![Tela de monitoramento 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-2.png)
+![Tela de monitoramento 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/analytics/tela-de-monitoreo-2.png)
 
 #### 4. Volumen por cola
 
@@ -80,7 +80,7 @@ Muestra la evaluación de satisfacción del cliente (CSAT) recopilada al final d
 
 > ⚠️ Para mostrar el widget de CSAT, debe estar activo de forma nativa en al menos uno de los departamentos del proyecto. Si no está activo, debes hacer clic en el botón `Activar` y activarlo en un departamento. Para más información sobre los departamentos, consulta el artículo [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
-![Tela de monitoramento 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/tela-de-monitoramento-3.png)
+![Tela de monitoramento 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-cx-platform/analytics/tela-de-monitoreo-3.png)
 
 #### 7. Monitoreo detallado
 
