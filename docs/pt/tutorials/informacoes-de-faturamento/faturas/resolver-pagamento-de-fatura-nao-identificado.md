@@ -3,13 +3,13 @@ title: 'Resolver pagamento de fatura não identificado'
 id: 63Fz8Ma5alR43ij4ZXVOQC
 status: PUBLISHED
 createdAt: 2020-09-10T21:33:40.958Z
-updatedAt: 2026-07-24T14:25:48.060Z
+updatedAt: 2026-08-11T00:00:00.000Z
 publishedAt: 2021-02-22T16:31:06.428Z
 firstPublishedAt: 2020-09-10T21:43:10.777Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: resolving-an-unidentified-invoice-payment
+slugEN: addressing-an-unidentified-invoice-payment
 legacySlug: o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer
 locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
