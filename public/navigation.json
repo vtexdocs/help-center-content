@@ -63161,13 +63161,13 @@
             {
               "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
-                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
-                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+                "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
+                "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
               },
               "slug": {
                 "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
-                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
-                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+                "es": "error-de-transaccion-causado-por-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
