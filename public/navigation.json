@@ -24778,37 +24778,6 @@
             },
             {
               "name": {
-                "en": "Preço",
-                "es": "Preço",
-                "pt": "Preço"
-              },
-              "slug": {
-                "en": "preco",
-                "es": "preco",
-                "pt": "preço-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Configurar desconto de preço à vista",
-                    "en": "Configurar desconto de preço à vista",
-                    "es": "Configurar desconto de preço à vista"
-                  },
-                  "slug": {
-                    "pt": "configurar-desconto-de-preco-a-vista",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Price",
                 "es": "Precio",
                 "pt": "Preço"
@@ -24825,12 +24794,12 @@
                   "name": {
                     "en": "Configuring a pay-in-full discount",
                     "es": "Configurar descuento de precio al contado",
-                    "pt": "Configuring a pay-in-full discount"
+                    "pt": "Configurar desconto de preço à vista"
                   },
                   "slug": {
                     "en": "configuring-a-pay-in-full-discount",
                     "es": "configurar-descuento-de-precio-al-contado",
-                    "pt": ""
+                    "pt": "configurar-desconto-de-preco-a-vista"
                   },
                   "origin": "",
                   "type": "markdown",
