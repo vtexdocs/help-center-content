@@ -59,7 +59,7 @@ Exibe uma lista de valores previamente cadastrados para seleção.
 
 - O comprador deve selecionar uma das opções disponíveis.
 - Permite padronização de dados.
-- É o único tipo que pode receber **valor padrão por Unidade Organizacional**.
+- É o único tipo que pode receber **valor padrão por unidade organizacional**.
 
 
 ## Configurações de cada campo
@@ -74,7 +74,7 @@ Ao criar um campo, o administrador define:
 
 ## Valores padrão no checkout
 
-Para reduzir preenchimento manual e evitar inconsistências, é possível configurar valores padrão por **Unidade Organizacional.**
+Para reduzir preenchimento manual e evitar inconsistências, é possível configurar valores padrão por **unidade organizacional.**
 
 É possível definir como padrão:
 

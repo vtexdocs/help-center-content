@@ -19,7 +19,7 @@ Nessa área empresas podem configurar elementos que controlam como seus usuário
 - Endereços e métodos de pagamento
 - Campos contábeis
 - Budgets
-- Políticas de Compras
+- Políticas de compras
 
 Essas configurações ajudam empresas a estabelecer governança e regras internas para compras realizadas em lojas utilizando [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt).
 
@@ -68,7 +68,7 @@ As opções incluem:
 
 - **Users** — gerenciamento dos [usuários da organização](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora).
 - **Perfis de acesso** — definição de permissões e funções.
-- **Unidades Organizacionais** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
+- **Unidades organizacionais** — criação e gerenciamento de [unidades organizacionais](https://help.vtex.com/pt/docs/tutorials/unidades-organizacionais).
 
 ### Finance and Compliance
 
@@ -77,7 +77,7 @@ A seção **Finance and Compliance** reúne ferramentas de controle financeiro e
 Nela é possível gerenciar:
 
 - **Budgets** — Definição de [orçamentos](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets).
-- **Políticas de Compras** — [Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) são regras que controlam aprovação, negação ou revisão de pedidos.
+- **Políticas de compras** — [Políticas de compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) são regras que controlam aprovação, negação ou revisão de pedidos.
 
 ### Adicionar entidades
 
@@ -103,5 +103,5 @@ Confira nos artigos abaixo mais detalhes sobre as diversas tarefas que podem ser
 
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [Adicionar ou editar budgets](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-budgets)
-- [Adicionar ou editar Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras)
+- [Adicionar ou editar Políticas de compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras)
 - [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis)

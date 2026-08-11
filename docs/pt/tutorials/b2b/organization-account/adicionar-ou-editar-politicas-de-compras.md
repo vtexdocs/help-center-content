@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar ou editar Políticas de Compras'
+title: 'Adicionar ou editar Políticas de compras'
 createdAt: '2026-02-27T10:00:00.000Z'
 updatedAt: '2026-02-06T10:00:00.000Z'
 contentType: tutorial
@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
-[Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) é a funcionalidade que permite aos usuários da organização compradora configurar regras para autorizar ou negar pedidos automaticamente. Os mecanismos dinâmicos desta solução contribuem para uma maior governança da organização e promovem a conformidade com as políticas de compra vigentes.
+[Políticas de compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) é a funcionalidade que permite aos usuários da organização compradora configurar regras para autorizar ou negar pedidos automaticamente. Os mecanismos dinâmicos desta solução contribuem para uma maior governança da organização e promovem a conformidade com as políticas de compra vigentes.
 
 Este artigo orienta os usuários no gerenciamento de políticas de compras e está dividido nas seguintes seções:
 
@@ -25,7 +25,7 @@ Este artigo orienta os usuários no gerenciamento de políticas de compras e est
 
 1. Na [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao), na seção **Finance and Compliance**, clique em `Buying Policies`.
 
-    ![buying_policies_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/conta-da-organizacao/buying_policies_image_initial_org_account_page_PT.png)
+    ![buying_policies_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. Na tela **Buying Policies**, clique no ícone `+` no topo da tela para adicionar uma nova política de compra.
 3. No modal **Add new buying policy**, preencha os campos, que são todos obrigatórios:
@@ -41,7 +41,7 @@ Este artigo orienta os usuários no gerenciamento de políticas de compras e est
     * Em **Action**, selecione qual ação será aplicada a pedidos que atenderam aos critérios:
         * **Deny order:** o pedido será negado.
         * **Bypass all buying policies:** o pedido será automaticamente aprovado, independentemente dos critérios definidos.
-        * **Sequential workflow:** o pedido será aprovado ou negado manualmente por um usuário autorizado. Para esta opção, é necessário informar o nome de uma Unidade Organizacional para que o usuário dessa unidade revise o pedido.
+        * **Sequential workflow:** o pedido será aprovado ou negado manualmente por um usuário autorizado. Para esta opção, é necessário informar o nome de uma unidade organizacional para que o usuário dessa unidade revise o pedido.
 
         > ⚠️ É possível definir uma hierarquia de até cinco unidades organizacionais, sendo o quinto nível o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a aprovação final depende da autorização de todos os níveis.
 
@@ -53,7 +53,7 @@ Feito isso, você verá a mensagem de confirmação _"Buying policy created succ
 
 Para visualizar os detalhes de uma política, na tela **Buying Policies**, clique no nome da política de compra ou, na linha correspondente à opção desejada, clique no ícone de menu > `Open` (abrir). Você verá uma imagem como a seguinte:
 
-![buying_policies_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/conta-da-organizacao/buying_policies_image_1_PT.png)
+![buying_policies_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_1_PT.png)
 
 ## Editar política de compra
 

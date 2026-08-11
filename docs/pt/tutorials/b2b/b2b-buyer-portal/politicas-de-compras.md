@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam [B2B Buyer Portal](https://help.vtex.com/pt/docs/tutorials/b2b-buyer-portal-pt), atualmente disponível para contas selecionadas.
 
-**Políticas de Compras** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos.
+**Políticas de compras** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos.
 
 A solução contribui para uma maior governança da organização e promove maior conformidade com as políticas de compra vigentes, e seus mecanismos permitem a combinação de diversos tipos de regras:
 
@@ -36,6 +36,6 @@ Para configurar as políticas de compras da organização, o perfil de [Storefro
 
 ## Configurar políticas de compras
 
-Os usuários podem adicionar, editar ou remover políticas de compras pela interface da Unidade Organizacional. Para mais informações, confira o artigo [Adicionar ou editar Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras).
+Os usuários podem adicionar, editar ou remover políticas de compras pela interface da unidade organizacional. Para mais informações, confira o artigo [Adicionar ou editar Políticas de compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras).
 
 > ℹ️ Para gerenciar regras de autorização de pedidos via API, acesse a [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api), e o guia para desenvolvedores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).

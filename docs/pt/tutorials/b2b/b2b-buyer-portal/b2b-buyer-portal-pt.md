@@ -21,7 +21,7 @@ Este artigo resume as principais funcionalidades do **B2B Buyer Portal** e direc
   - [Membros e perfis](#membros-e-perfis)
 - [Finanças e compliance](#financas-e-compliance)
   - [Budgets](#budgets)
-  - [Políticas de Compras](#politicas-de-compras)
+  - [Políticas de compras](#politicas-de-compras)
   - [Campos contábeis](#campos-contabeis)
 - [Endereços e gestão de pagamentos](#enderecos-e-gestao-de-pagamentos)
 - [Conta da organização](#conta-da-organizacao)
@@ -84,9 +84,9 @@ Durante o checkout, o sistema verifica automaticamente as alocações aplicávei
 
 > ℹ️ Saiba mais sobre configurações em [Adicionar ou editar budgets](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-budgets).
 
-### Políticas de Compras
+### Políticas de compras
 
-As [Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) são regras de autorização que determinam se os pedidos são automaticamente aprovados, negados ou enviados para revisão manual. As organizações podem configurar:
+As [Políticas de compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) são regras de autorização que determinam se os pedidos são automaticamente aprovados, negados ou enviados para revisão manual. As organizações podem configurar:
 
 - **Limites de gastos:** pedidos acima, abaixo ou iguais a determinados valores podem acionar diferentes requisitos de aprovação.
 - **Fluxos de aprovação:** até cinco níveis hierárquicos de aprovação, onde a aprovação final requer a autorização de todos os níveis.
@@ -94,7 +94,7 @@ As [Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-
 
 Essa camada de governança garante que a atividade de compras esteja em conformidade com as políticas internas antes que os pedidos sejam realizados.
 
-> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar Políticas de Compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras).
+> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar Políticas de compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras).
 
 ### Campos contábeis
 
