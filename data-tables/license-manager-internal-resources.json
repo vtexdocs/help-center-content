@@ -9,14 +9,6 @@
       "productId": "55"
     },
     {
-      "product": "Availability Notify",
-      "category": "Notification Requests",
-      "resource": "Download Notification Requests",
-      "key": "downloadNotificationRequests",
-      "resourceId": "2156515",
-      "productId": "136"
-    },
-    {
       "product": "B2B",
       "category": "Import",
       "resource": "B2BBulkImport",

@@ -3,7 +3,7 @@ title: 'Facturación - Información general'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2026-07-17T19:09:59.877Z
+updatedAt: 2026-08-11T00:00:00.000Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
@@ -16,25 +16,35 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 order: 1
 ---
 
-**Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](/es/docs/tutorials/roles). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 
+**Facturación** es la página donde gestionas todos los aspectos financieros de tu cuenta VTEX.
 
-Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede identificar por la primera letra de tu dirección de email, y luego haz clic en **Facturación**. Selecciona la pestaña que deseas visitar, como **Contratos, Facturas, Datos de registro y Contactos de facturación**.
+> ℹ️ Solo los usuarios con rol [Finance](/es/docs/tutorials/roles-de-usuario-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-de-usuario-predefinidos#finance-full-access) o con recursos de [Billing](/es/docs/tutorials/roles-de-usuario-predefinidos#billing) vinculados al rol tendrán acceso a esta sección del VTEX Admin. Para saber cómo configurar esos accesos, consulta el artículo [Crear un rol financiero](/es/docs/tutorials/crear-un-rol-financiero) o solicita al propietario de la tienda que ajuste los permisos.
 
-> ℹ️ Solo los usuarios con perfil de acceso [Finance](/es/docs/tutorials/roles-de-usuario-predefinidos#finance), [Finance Full Access](/es/docs/tutorials/roles-de-usuario-predefinidos#finance-full-access) o con recursos de [Billing](/es/docs/tutorials/recursos-del-license-manager#) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
+Para acceder a esta página haz clic en el avatar con la inicial de tu email, ubicado en la esquina superior derecha de la pantalla. Luego, haz clic en **Facturación** y selecciona la página a la que deseas acceder:
 
-![Admin v4 Faturas menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/vision-general-facturacion_1.jpg)
+- [Contratos](#contratos)
+- [Facturas](#facturas)
+- [Datos de registro](#datos-de-registro)
+- [Contactos de facturación](#contactos-de-facturacion)
 
-A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad.
+![vision-general-facturacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturacion/vision-general-facturacion-1.png)
 
 ## Contratos
-En la página de __Contratos__, encontrarás los contratos relacionados con tu tienda. Algunas tiendas pueden tener más de un contrato porque han comprado varios productos VTEX y aplicaciones de pago, o porque tienen más de una cuenta con diferentes ambientes.
+
+En la página **Contratos** encontrarás los contratos relacionados con tu tienda. Algunas tiendas pueden tener más de un contrato por haber adquirido diferentes productos o servicios de VTEX.
 
 ## Facturas
-En la página de __Facturas__, puedes encontrar un estado de cuenta con todas las facturas de pago de tu tienda, listadas por mes y color. En estos estados de cuenta hay información sobre el valor, la fecha de vencimiento y el tipo de contrato relacionado con las facturas. Si no encuentras una factura o si no estás de acuerdo con los valores, recuerda que VTEX es un servicio pospago, lo que significa que primero lo utilizas y luego se genera el cargo el mes siguiente.
+
+En la página **Facturas** puedes consultar un estado de cuenta con todos los documentos de cobro de tu tienda, organizados por mes. Cada uno incluye información sobre los valores, la fecha de vencimiento y el tipo de contrato facturado.
+
+>ℹ️ VTEX adopta el modelo pospago, en el cual el cobro se realiza al mes siguiente de la utilización del servicio.
+
+Para consultar el detalle de cada factura consulta el artículo [Verificar el detalle de las facturas](/es/docs/tutorials/verificando-los-detalles-de-las-facturas).
 
 ## Datos de registro
-Esta página incluye los datos que has introducido al registrar tu tienda. Aquí también puedes editar la información general de tu tienda, su dirección y el nombre de la cuenta del revendedor.
+
+La página **Datos de registro** reúne la información que ingresaste al registrar tu tienda. Solo puedes editar tu nombre y tu dirección. Para modificar otra información consulta el artículo [Modificar los datos de registro de mi tienda](/es/docs/tutorials/modificar-los-datos-de-registro-de-la-tienda).
 
 ## Contactos de facturación
-Los datos proporcionados en la página de __Contactos de facturación__ se refieren al usuario que adquirió el ambiente VTEX. Puedes editar sus datos y añadir nuevos contactos.
 
+La página **Contactos de facturación** reúne los datos del usuario propietario del entorno VTEX. Estos son los contactos que recibirán las facturas al momento de su emisión, así como todas las comunicaciones financieras de tu cuenta. Puedes editar estos datos y agregar nuevos contactos.

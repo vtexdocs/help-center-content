@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: New item-level promotion view (open beta)",
+                    "es": "Pedidos: nueva vista de promoción por ítem (beta abierta)",
+                    "pt": "Pedidos: nova visualização de promoção por item (beta aberto)"
+                  },
+                  "slug": {
+                    "en": "2026-07-31-orders-new-item-level-promotions-display-open-beta",
+                    "es": "2026-07-31-pedidos-nueva-vista-de-promocion-por-item-beta-abierta",
+                    "pt": "2026-07-31-pedidos-nova-visualizacao-de-promocao-por-item-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Discover the new VTEX Sales App Extensibility",
                     "es": "Conoce el nuevo VTEX Sales App Extensibility",
                     "pt": "Conheça o novo VTEX Sales App Extensibility"
@@ -54,13 +69,13 @@
                 },
                 {
                   "name": {
-                    "en": "New orders configuration experience inside VTEX Admin",
-                    "es": "Nueva experiencia de configuración de pedidos dentro del Admin VTEX",
+                    "en": "New order configuration experience in the VTEX Admin",
+                    "es": "Nueva experiencia de configuración de pedidos en el Admin VTEX",
                     "pt": "Nova experiência de configuração de pedidos no Admin da VTEX"
                   },
                   "slug": {
-                    "en": "2026-07-21-new-orders-configuration-experience-inside-vtex-admin",
-                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-dentro-del-admin-vtex",
+                    "en": "2026-07-21-new-order-configuration-experience-in-the-vtex-admin",
+                    "es": "2026-07-21-nueva-experiencia-de-configuracion-de-pedidos-en-el-admin-vtex",
                     "pt": "2026-07-21-nova-experiencia-de-configuracao-de-pedidos-no-admin-da-vtex"
                   },
                   "origin": "",
@@ -473,6 +488,37 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "august",
+                "es": "agosto",
+                "pt": "agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17356,12 +17402,12 @@
                   "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
-                    "pt": "Buying Policies"
+                    "pt": "Políticas de compras"
                   },
                   "slug": {
                     "en": "buying-policies-overview",
                     "es": "politicas-de-compras",
-                    "pt": "buying-policies"
+                    "pt": "politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17416,7 +17462,7 @@
                   "name": {
                     "en": "Scopes overview",
                     "es": "Visión general de Scopes",
-                    "pt": "Visão geral de Scopes"
+                    "pt": "Visão geral de Escopos"
                   },
                   "slug": {
                     "en": "scopes-overview",
@@ -17477,12 +17523,12 @@
                   "name": {
                     "en": "Adding or editing buying policies",
                     "es": "Agregar o editar políticas de compras",
-                    "pt": "Adicionar ou editar Buying Policies"
+                    "pt": "Adicionar ou editar Políticas de compras"
                   },
                   "slug": {
                     "en": "adding-or-editing-buying-policies",
                     "es": "agregar-o-editar-politicas-de-compras",
-                    "pt": "adicionar-ou-editar-buying-policies"
+                    "pt": "adicionar-ou-editar-politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18127,21 +18173,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Intelligent Search: Multilanguage settings (Beta)",
-                    "es": "VTEX Intelligent Search: configuración Multidioma (Beta)",
-                    "pt": "VTEX Intelligent Search: configurações Multi-idioma (Beta)"
-                  },
-                  "slug": {
-                    "en": "vtex-intelligent-search-multilanguage-settings-beta",
-                    "es": "vtex-intelligent-search-configuracion-multidioma-beta",
-                    "pt": "vtex-intelligent-search-configuracoes-multi-idioma-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -18723,14 +18754,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
+                    "en": "Requesting contract termination",
+                    "es": "Solicitar rescisión contractual",
+                    "pt": "Solicitar rescisão contratual"
                   },
                   "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
+                    "en": "requesting-contract-termination",
+                    "es": "solicitar-rescision-contractual",
+                    "pt": "solicitar-rescisao-contratual"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18754,6 +18785,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Addressing an unidentified invoice payment",
+                    "es": "Resolver pago de factura no identificado",
+                    "pt": "Resolver pagamento de fatura não identificado"
+                  },
+                  "slug": {
+                    "en": "addressing-an-unidentified-invoice-payment",
+                    "es": "resolver-pago-de-factura-no-identificado",
+                    "pt": "resolver-pagamento-de-fatura-nao-identificado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Checking invoice details",
+                    "es": "Verificar detalles de las facturas",
+                    "pt": "Verificar o detalhamento das faturas"
+                  },
+                  "slug": {
+                    "en": "checking-invoice-details",
+                    "es": "verificando-los-detalles-de-las-facturas",
+                    "pt": "verificar-o-detalhamento-das-faturas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Consumption tags used in the billing module",
                     "es": "Tags de pedidos utilizadas por el módulo de facturación",
                     "pt": "Marcações de pedidos pelo módulo de cobranças"
@@ -18769,6 +18830,36 @@
                 },
                 {
                   "name": {
+                    "en": "Downloading VTEX invoices",
+                    "es": "Descargar facturas de VTEX",
+                    "pt": "Baixar faturas da VTEX"
+                  },
+                  "slug": {
+                    "en": "downloading-vtex-invoices",
+                    "es": "descargar-facturas-de-vtex",
+                    "pt": "baixar-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Generating a financial report",
+                    "es": "Generar un informe financiero",
+                    "pt": "Gerar um relatório financeiro"
+                  },
+                  "slug": {
+                    "en": "generating-a-financial-report",
+                    "es": "generar-un-informe-financiero",
+                    "pt": "gerar-um-relatorio-financeiro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18777,21 +18868,6 @@
                     "en": "how-and-when-do-i-receive-my-invoice",
                     "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
                     "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to download the VTEX invoices",
-                    "es": "Cómo descargar las facturas de VTEX",
-                    "pt": "Como fazer download das faturas da VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-download-the-vtex-invoices",
-                    "es": "como-descargar-las-facturas-de-vtex",
-                    "pt": "como-fazer-download-faturas-da-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18822,21 +18898,6 @@
                     "en": "how-to-temporarily-unblock-the-admin",
                     "es": "desbloqueio-temporal-del-admin",
                     "pt": "como-desbloquear-temporariamente-o-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Payment was made but not found. What should I do?",
-                    "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
-                    "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
-                  },
-                  "slug": {
-                    "en": "payment-was-made-but-not-found-what-should-i-do",
-                    "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
-                    "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18892,9 +18953,9 @@
             },
             {
               "name": {
-                "en": "Billing - Overview",
+                "en": "Billing information - Overview",
                 "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "pt": "Informações de faturamento - Visão geral"
               },
               "slug": {
                 "en": "billing-module-overview",
@@ -24731,12 +24792,12 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring a discount for orders paid in full",
+                    "en": "Configuring a pay-in-full discount",
                     "es": "Configurar descuento de precio al contado",
                     "pt": "Configurar desconto de preço à vista"
                   },
                   "slug": {
-                    "en": "configuring-a-discount-for-orders-prepaid-in-full",
+                    "en": "configuring-a-pay-in-full-discount",
                     "es": "configurar-descuento-de-precio-al-contado",
                     "pt": "configurar-desconto-de-preco-a-vista"
                   },
@@ -25349,6 +25410,21 @@
                 "en": "search-configuration",
                 "es": "configuracion-de-la-busqueda",
                 "pt": "configuracao-da-busca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Intelligent Search: Multilanguage settings",
+                "es": "VTEX Intelligent Search: configuración Multidioma",
+                "pt": "VTEX Intelligent Search: configurações Multi-idioma"
+              },
+              "slug": {
+                "en": "vtex-intelligent-search-multilanguage-settings",
+                "es": "vtex-intelligent-search-configuracion-multidioma",
+                "pt": "vtex-intelligent-search-configuracoes-multi-idioma"
               },
               "origin": "",
               "type": "markdown",
@@ -30390,6 +30466,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PlataDifiere",
+                    "es": "Configurar pago con PlataDifiere",
+                    "pt": "Configurar pagamento com PlataDifiere"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-platadifiere",
+                    "es": "configurar-pago-con-platadifiere",
+                    "pt": "configurar-pagamento-com-platadifiere"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Plexo",
+                    "es": "Configurar pago con Plexo",
+                    "pt": "Configurar pagamento com Plexo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-plexo",
+                    "es": "configurar-pago-con-plexo",
+                    "pt": "configurar-pagamento-com-plexo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PoleCMS",
                     "es": "Configurar pago con PoleCMS",
                     "pt": "Configurar pagamento com PoleCMS"
@@ -30570,6 +30676,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Serfinsa",
+                    "es": "Configurar pago con Serfinsa",
+                    "pt": "Configurar pagamento com Serfinsa"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-serfinsa",
+                    "es": "configurar-pago-con-serfinsa",
+                    "pt": "configurar-pagamento-com-serfinsa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Servicredito",
+                    "es": "Configurar pago con Servicredito",
+                    "pt": "Configurar pagamento com Servicredito"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-servicredito",
+                    "es": "configurar-pago-con-servicredito",
+                    "pt": "configurar-pagamento-com-servicredito"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Shipay",
                     "es": "Configurar pago con Shipay",
                     "pt": "Configurar pagamento com Shipay"
@@ -30683,6 +30819,21 @@
                     "en": "setting-up-payments-with-sumaspay",
                     "es": "configurar-pago-con-sumaspay",
                     "pt": "configurar-pagamento-com-sumaspay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Talo",
+                    "es": "Configurar pago con Talo",
+                    "pt": "Configurar pagamento com Talo"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-talo",
+                    "es": "configurar-pago-con-talo",
+                    "pt": "configurar-pagamento-com-talo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30840,6 +30991,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with VindiPagamentos",
+                    "es": "Configurar pago con VindiPagamentos",
+                    "pt": "Configurar pagamento com VindiPagamentos"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-vindipagamentos",
+                    "es": "configurar-pago-con-vindipagamentos",
+                    "pt": "configurar-pagamento-com-vindipagamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Virtualpos",
                     "es": "Configurar pago con Virtualpos",
                     "pt": "Configurar pagamento com Virtualpos"
@@ -30863,6 +31029,21 @@
                     "en": "setting-up-payments-with-visa-conecta",
                     "es": "configurar-pago-con-visa-conecta",
                     "pt": "configurar-pagamento-com-visa-conecta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with VisaNetGuatemala",
+                    "es": "Configurar pago con VisaNetGuatemala",
+                    "pt": "Configurar pagamento com VisaNetGuatemala"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visanetguatemala",
+                    "es": "configurar-pago-con-visanetguatemala",
+                    "pt": "configurar-pagamento-com-visanetguatemala"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30900,6 +31081,36 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Wibond",
+                    "es": "Configurar pago con Wibond",
+                    "pt": "Configurar pagamento com Wibond"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wibond",
+                    "es": "configurar-pago-con-wibond",
+                    "pt": "configurar-pagamento-com-wibond"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wompi",
+                    "es": "Configurar pago con Wompi",
+                    "pt": "Configurar pagamento com Wompi"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompi",
+                    "es": "configurar-pago-con-wompi",
+                    "pt": "configurar-pagamento-com-wompi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Wompi-Nequi",
                     "es": "Configurar pago con Wompi-Nequi",
                     "pt": "Configurar pagamento com Wompi-Nequi"
@@ -30908,6 +31119,51 @@
                     "en": "setting-up-payments-with-wompi-nequi",
                     "es": "configurar-pago-con-wompi-nequi",
                     "pt": "configurar-pagamento-com-wompi-nequi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Wompi-PSE",
+                    "es": "Configurar pago con Wompi-PSE",
+                    "pt": "Configurar pagamento com Wompi-PSE"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompi-pse",
+                    "es": "configurar-pago-con-wompi-pse",
+                    "pt": "configurar-pagamento-com-wompi-pse"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with WompiBancolTrans",
+                    "es": "Configurar pago con WompiBancolTrans",
+                    "pt": "Configurar pagamento com WompiBancolTrans"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompibancoltrans",
+                    "es": "configurar-pago-con-wompibancoltrans",
+                    "pt": "configurar-pagamento-com-wompibancoltrans"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with WompiCoV2",
+                    "es": "Configurar pago con WompiCoV2",
+                    "pt": "Configurar pagamento com WompiCoV2"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-wompicov2",
+                    "es": "configurar-pago-con-wompicov2",
+                    "pt": "configurar-pagamento-com-wompicov2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30938,6 +31194,21 @@
                     "en": "setting-up-payments-with-worldline-global-online-pay",
                     "es": "configurar-pago-con-worldline-global-online-pay",
                     "pt": "configurar-pagamento-com-worldline-global-online-pay"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Worldpay-Payments-Via-WPG",
+                    "es": "Configurar pago con Worldpay-Payments-Via-WPG",
+                    "pt": "Configurar pagamento com Worldpay-Payments-Via-WPG"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-worldpay-payments-via-wpg",
+                    "es": "configurar-pago-con-worldpay-payments-via-wpg",
+                    "pt": "configurar-pagamento-com-worldpay-payments-via-wpg"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32350,47 +32621,32 @@
         },
         {
           "name": {
-            "en": "Promotions & taxes",
-            "es": "Tasas y promociones",
-            "pt": "Promoções e taxas"
+            "en": "Promotions & Taxes - Overview",
+            "es": "Tasas y Promociones - Información general",
+            "pt": "Promoções e Taxas - Visão geral"
           },
           "slug": {
-            "en": "promotions-and-taxes-category",
-            "es": "tasas-y-promociones-categoria",
-            "pt": "promoções-e-taxas-categoria"
+            "en": "overview-pricing-module",
+            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+            "pt": "overview-2"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia de las Campañas",
-                "pt": "Audiência de campanhas"
+                "en": "Campaign audiences",
+                "es": "​​Audiencias de campañas",
+                "pt": "Audiências de campanhas"
               },
               "slug": {
-                "en": "campaign-audiences-subcategory",
-                "es": "audiencia-de-las-campanas-subcategoria",
-                "pt": "audiência-de-campanhas-subcategoria"
+                "en": "campaign-audiences",
+                "es": "audiencias-de-campanas",
+                "pt": "audiencias-de-campanhas"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Campaign audiences",
-                    "es": "​​Audiencias de campañas",
-                    "pt": "Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences",
-                    "es": "audiencias-de-campanas",
-                    "pt": "audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Campaign audiences list",
@@ -32440,17 +32696,17 @@
             },
             {
               "name": {
-                "en": "Coupons",
-                "es": "Cupones",
-                "pt": "Cupons"
+                "en": "Promotional coupons: types and groups",
+                "es": "Cupones promocionales: tipos y grupos",
+                "pt": "Cupons promocionais: tipos e grupos"
               },
               "slug": {
-                "en": "coupons-subcategory",
-                "es": "cupones-subcategoria",
-                "pt": "cupons-subcategoria"
+                "en": "coupons-beta",
+                "es": "cupones-beta",
+                "pt": "cupons-beta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32481,37 +32737,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotional coupons: types and groups",
-                    "es": "Cupones promocionales: tipos y grupos",
-                    "pt": "Cupons promocionais: tipos e grupos"
-                  },
-                  "slug": {
-                    "en": "coupons-beta",
-                    "es": "cupones-beta",
-                    "pt": "cupons-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Promotions",
-                "es": "Promociones",
-                "pt": "Promoções"
+                "en": "Promotions - Overview",
+                "es": "Promociones - Información general",
+                "pt": "Promoções - Visão geral"
               },
               "slug": {
-                "en": "promotions-subcategory",
-                "es": "promociones-subcategoria",
-                "pt": "promoções-subcategoria"
+                "en": "promotions-overview",
+                "es": "vision-general-promociones",
+                "pt": "visao-geral-promocoes"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32547,7 +32788,7 @@
                   "name": {
                     "en": "Configuring promotion budgets",
                     "es": "Configurar presupuesto para promociones",
-                    "pt": "Configurando orçamentos para promoções"
+                    "pt": "Configurar orçamentos para promoções"
                   },
                   "slug": {
                     "en": "configuring-promotion-budgets",
@@ -32965,21 +33206,6 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions - Overview",
-                    "es": "Promociones - Información general",
-                    "pt": "Promoções - Visão geral"
-                  },
-                  "slug": {
-                    "en": "promotions-overview",
-                    "es": "vision-general-promociones",
-                    "pt": "visao-geral-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Promotions Simulator",
                     "es": "Simulador de Promociones",
                     "pt": "Simulador de Promoções"
@@ -33101,21 +33327,6 @@
                 },
                 {
                   "name": {
-                    "en": "How to create surcharges/taxes",
-                    "es": "Crear tasa/impuesto",
-                    "pt": "Criar taxa/imposto"
-                  },
-                  "slug": {
-                    "en": "creating-surchargestaxes",
-                    "es": "creando-la-tasaimpuesto",
-                    "pt": "como-criar-taxaimposto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Send the item price, with tax shown separately, to the Gateway or the ERP",
                     "es": "Enviar al Gateway o al ERP el precio del item ya con el impuesto separado",
                     "pt": "Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado"
@@ -33128,23 +33339,23 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Taxes - Overview",
+                    "es": "Tasa - Información general",
+                    "pt": "Taxa - Visão geral"
+                  },
+                  "slug": {
+                    "en": "creating-surchargestaxes",
+                    "es": "creando-la-tasaimpuesto",
+                    "pt": "como-criar-taxaimposto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
-                "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
-              },
-              "slug": {
-                "en": "overview-pricing-module",
-                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                "pt": "overview-2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -37959,6 +38170,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk - Overview",
                     "es": "Visión de conjunto de Live Desk",
                     "pt": "Visão geral do Live Desk"
@@ -37975,7 +38201,7 @@
                 {
                   "name": {
                     "en": "Using active triggering of flows",
-                    "es": "Utilizando el disparo activo de flujos",
+                    "es": "Disparo activo de flujos",
                     "pt": "Utilizando o disparo ativo de fluxos"
                   },
                   "slug": {
@@ -38802,66 +39028,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboard",
-                    "es": "Panel de control",
-                    "pt": "Dashboard"
-                  },
-                  "slug": {
-                    "en": "dashboard",
-                    "es": "panel-de-control",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps - register and login",
-                    "es": "Primeros pasos - registro y login",
-                    "pt": "First steps - register and login"
-                  },
-                  "slug": {
-                    "en": "first-steps-register-and-login",
-                    "es": "primeros-pasos-registro-y-login",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Getting started - create project",
-                    "es": "Primeros pasos - crear projeto",
-                    "pt": "Getting started - create project"
-                  },
-                  "slug": {
-                    "en": "create-project",
-                    "es": "crear-projeto",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Invalid authentication code",
-                    "es": "Código de autenticación inválido",
-                    "pt": "Código de autenticação inválido"
-                  },
-                  "slug": {
-                    "en": "invalid-authentication-code",
-                    "es": "codigo-de-autenticacion-invalido",
-                    "pt": "codigo-de-autenticacao-invalido"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
@@ -38877,59 +39043,14 @@
                 },
                 {
                   "name": {
-                    "en": "Profile",
-                    "es": "Perfil",
-                    "pt": "Profile"
-                  },
-                  "slug": {
-                    "en": "profile",
-                    "es": "perfil",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Two-factor authentication",
-                    "es": "Autenticación de 2 factores",
-                    "pt": "Two-factor authentication"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform - Overview",
-                    "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Visão geral VTEX CX Platform"
+                    "en": "VTEX CX Platform: Overview",
+                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-overview",
-                    "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "visao-geral-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform permission system",
-                    "es": "Sistema de permisos VTEX CX Platform",
-                    "pt": "VTEX CX Platform permission system"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-permission-system",
-                    "es": "vtex-cx-platform-sistema-de-permisos",
-                    "pt": ""
+                    "es": "vtex-cx-platform-vision-de-conjunto",
+                    "pt": "vtex-cx-platform-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38953,21 +39074,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configure Live Desk",
-                    "es": "Configure Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "configure-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "CX Platform settings: Workspace",
                     "es": "Configuración de CX Platform: Workspace",
                     "pt": "Configurações CX Platform: Espaço de trabalho"
@@ -38988,7 +39094,7 @@
                     "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "manage-vtex-cx-platform-members",
+                    "en": "managing-vtex-cx-platform-members",
                     "es": "administrar-miembros-de-la-plataforma-vtex-cx",
                     "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
@@ -39037,6 +39143,37 @@
                     "en": "analytics-support-metrics",
                     "es": "analytics-metricas-de-atencion",
                     "pt": "analytics-metricas-de-atendimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "pt": "Auditoria: Visão geral",
+                "en": "Auditoria: Visão geral",
+                "es": "Auditoria: Visão geral"
+              },
+              "slug": {
+                "pt": "auditoria-visao-geral",
+                "en": "",
+                "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Auditoria: Conversas",
+                    "en": "Auditoria: Conversas",
+                    "es": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "pt": "auditoria-conversas",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -41697,6 +41834,21 @@
                 "en": "create-product-api-doesnt-send-nulls-as-release-date-values",
                 "es": "la-api-de-creacion-de-productos-no-envia-valores-nulos-como-fecha-de-lanzamiento",
                 "pt": "a-api-de-criacao-de-produtos-nao-envia-nulos-como-valores-de-data-de-lancamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Creating a mandatory, active, sku specification is not inactivating category skus",
+                "es": "La creación de una especificación de SKU obligatoria y activa no desactiva las SKU de categoría.",
+                "pt": "Criar uma especificação de SKU obrigatória e ativa não desativa as SKUs da categoria."
+              },
+              "slug": {
+                "en": "creating-a-mandatory-active-sku-specification-is-not-inactivating-category-skus",
+                "es": "la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria",
+                "pt": "criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria"
               },
               "origin": "",
               "type": "markdown",
@@ -45749,6 +45901,21 @@
                 "en": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
                 "es": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
                 "pt": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
+                "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
+                "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
+              },
+              "slug": {
+                "en": "checkoutorderformownership-is-lostdoesnt-exist-in-some-purchase-flows",
+                "es": "la-propiedad-del-formulario-de-pedido-de-pago-se-pierde-o-no-existe-en-algunos-flujos-de-compra",
+                "pt": "a-propriedade-do-formulario-de-pedido-no-checkout-e-perdidanao-existe-em-alguns-fluxos-de-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -58371,13 +58538,13 @@
             {
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
-                "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
-                "pt": "Minha Conta - O campo Nome do Receptor não reconhece a entrada."
+                "es": "El campo \"Nombre del destinatario\" de mi cuenta no reconoce la entrada.",
+                "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
-                "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
-                "pt": "minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada"
+                "es": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
+                "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
               "type": "markdown",
@@ -60128,6 +60295,21 @@
             },
             {
               "name": {
+                "en": "Cash (1x) transactions may be recorded under a payment rule that does not offer the 1x installment option",
+                "es": "Las transacciones en efectivo (1x) pueden registrarse bajo una regla de pago que no ofrece la opción de pago a plazos 1x.",
+                "pt": "Transações em dinheiro (1x) podem ser registradas sob uma regra de pagamento que não oferece a opção de parcelamento em 1x."
+              },
+              "slug": {
+                "en": "cash-1x-transactions-may-be-recorded-under-a-payment-rule-that-does-not-offer-the-1x-installment-option",
+                "es": "las-transacciones-en-efectivo-1x-pueden-registrarse-bajo-una-regla-de-pago-que-no-ofrece-la-opcion-de-pago-a-plazos-1x",
+                "pt": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog access profile gives access to the Gift Card module",
                 "es": "El perfil de acceso al catálogo da acceso al módulo de la tarjeta regalo",
                 "pt": "Perfil de acesso ao catálogo dá acesso ao módulo Gift Card"
@@ -60901,21 +61083,6 @@
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
                 "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option",
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela"
-              },
-              "slug": {
-                "en": "for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option",
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -62003,6 +62170,21 @@
             },
             {
               "name": {
+                "en": "Outdated card brand regex causes brand misidentification at checkout",
+                "es": "La expresión regular de marca de tarjeta obsoleta provoca una identificación errónea de la marca en el momento del pago.",
+                "pt": "Expressões regulares desatualizadas para marcas de cartões causam identificação incorreta da marca no caixa."
+              },
+              "slug": {
+                "en": "outdated-card-brand-regex-causes-brand-misidentification-at-checkout",
+                "es": "la-expresion-regular-de-marca-de-tarjeta-obsoleta-provoca-una-identificacion-erronea-de-la-marca-en-el-momento-del-pago",
+                "pt": "expressoes-regulares-desatualizadas-para-marcas-de-cartoes-causam-identificacao-incorreta-da-marca-no-caixa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Outdated Elo regex is causing us to misidentify some BINs",
                 "es": "Una regex de Elo obsoleta nos hace identificar erróneamente algunos BINs",
                 "pt": "O regex Elo desatualizado está nos levando a identificar incorretamente alguns BINs"
@@ -62026,21 +62208,6 @@
                 "en": "outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page",
                 "es": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
                 "pt": "zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
-              },
-              "slug": {
-                "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
               },
               "origin": "",
               "type": "markdown",
@@ -62469,13 +62636,13 @@
             {
               "name": {
                 "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
-                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
-                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas/condiciones de pago activas.",
+                "pt": "Os métodos de pagamento removidos ainda são exibidos no Checkout quando a conta não possui regras/condições de pagamento ativas."
               },
               "slug": {
                 "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
-                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
-                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglascondiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-sao-exibidos-no-checkout-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
               },
               "origin": "",
               "type": "markdown",
@@ -62994,13 +63161,13 @@
             {
               "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
-                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
-                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+                "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
+                "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
               },
               "slug": {
                 "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
-                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
-                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+                "es": "error-de-transaccion-causado-por-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -63511,6 +63678,21 @@
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "las-transacciones-con-el-conector-tnspay-se-rechazan-por-error-la-tarjeta-no-esta-registrada-en-3ds",
                 "pt": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
+                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs",
+                "en": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN"
+              },
+              "slug": {
+                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
+                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -66163,6 +66345,21 @@
             },
             {
               "name": {
+                "en": "Pricing search error (\"Error - undefined\") on sub-accounts due to missing CMS configuration folders",
+                "es": "Error de búsqueda de precios (\"Error - indefinido\") en subcuentas debido a la falta de carpetas de configuración de CMS.",
+                "pt": "Erro na pesquisa de preços (\"Erro - indefinido\") em subcontas devido à ausência de pastas de configuração do CMS."
+              },
+              "slug": {
+                "en": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+                "es": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+                "pt": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product taxPercentage value saved by search-resolver is incorrect due to rounding",
                 "es": "El valor del TaxPercentage del producto guardado por el search-resolver es incorrecto debido al redondeo",
                 "pt": "Imposto sobre o produtoValor percentual economizado pelo resolvedor de busca é incorreto devido ao arredondamento"
@@ -68552,6 +68749,21 @@
             },
             {
               "name": {
+                "en": "productImpression event is sent with only one product when the shelf uses slider-layout with infinite: true",
+                "es": "El evento productImpression se envía con un solo producto cuando el estante utiliza slider-layout con infinite: true.",
+                "pt": "O evento productImpression é enviado com apenas um produto quando a prateleira usa layout deslizante com infinite: true."
+              },
+              "slug": {
+                "en": "productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true",
+                "es": "el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true",
+                "pt": "o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Property blockClass from infoCard not working",
                 "es": "La propiedad `blockClass` de `infoCard` no funciona",
                 "pt": "A propriedade `blockClass` do `infoCard` não está funcionando"
@@ -68838,13 +69050,13 @@
             {
               "name": {
                 "en": "Some custom pages are not returning in Custom Routes API causing missing entries in the sitemap",
-                "es": "Algunas páginas personalizadas no aparecen en la API de rutas personalizadas, por lo que faltan entradas en el mapa del sitio.",
-                "pt": "Algumas páginas personalizadas não estão retornando na API de rotas personalizadas, causando a falta de entradas no mapa do site."
+                "es": "Algunas páginas personalizadas no se devuelven en la API de Rutas Personalizadas, lo que provoca que falten entradas en el mapa del sitio.",
+                "pt": "Algumas páginas personalizadas não estão sendo retornadas na API de Rotas Personalizadas, o que causa a ausência de entradas no mapa do site."
               },
               "slug": {
                 "en": "some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap",
-                "es": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
-                "pt": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site"
+                "es": "algunas-paginas-personalizadas-no-se-devuelven-en-la-api-de-rutas-personalizadas-lo-que-provoca-que-falten-entradas-en-el-mapa-del-sitio",
+                "pt": "algumas-paginas-personalizadas-nao-estao-sendo-retornadas-na-api-de-rotas-personalizadas-o-que-causa-a-ausencia-de-entradas-no-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
@@ -69365,6 +69577,21 @@
             },
             {
               "name": {
+                "en": "Amazon SKU matching status reverts to \"Pending review\" after manual confirmation",
+                "es": "Amazon El estado de coincidencia de SKU vuelve a \"Pendiente de revisión\" después de la confirmación manual.",
+                "pt": "Amazon O status de correspondência do SKU volta para \"Aguardando revisão\" após confirmação manual."
+              },
+              "slug": {
+                "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
+                "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
+                "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
                 "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
                 "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
@@ -69418,6 +69645,21 @@
                 "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
                 "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
                 "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
+                "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
+                "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
+              },
+              "slug": {
+                "en": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
+                "es": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
+                "pt": "mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla"
               },
               "origin": "",
               "type": "markdown",
