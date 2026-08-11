@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring a VTEX marketplace'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED

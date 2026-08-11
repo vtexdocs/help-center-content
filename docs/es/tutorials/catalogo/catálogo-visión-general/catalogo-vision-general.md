@@ -66,7 +66,7 @@ Para registrar una especificación, accede a los tutoriales [Registrar especific
 
 ## Importación y exportación
 
-Esta funcionalidad permite al usuario del Admin importar [imágenes](/es/docs/tutorials/importando-imagenes-por-plantilla), [productos](/es/docs/tutorials/como-exportar-planilla-de-productos), [SKU](/es/docs/tutorials/exportar-y-importar-especificaciones-de-producto-y-sku), marcas y [plantillas de stock](/es/docs/tutorials/importando-y-exportando-plantilla-de-stock) en tu tienda a través de plantillas, lo que facilita el llenado en masa. 
+Esta funcionalidad permite al usuario del Admin importar [imágenes](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla), [productos](/es/docs/tutorials/como-exportar-planilla-de-productos), [SKU](/es/docs/tutorials/exportar-y-importar-especificaciones-de-producto-y-sku), marcas y [plantillas de stock](/es/docs/tutorials/importando-y-exportando-plantilla-de-stock) en tu tienda a través de plantillas, lo que facilita el llenado en masa. 
 
 Para entender cómo utilizar esta funcionalidad, lee el artículo [Rellenar campos de la planilla de importación de productos y SKUs](/es/docs/tutorials/rellenar-campos-de-la-planilla-de-importacion).
 

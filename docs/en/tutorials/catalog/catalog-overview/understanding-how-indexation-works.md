@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How indexing works'
 id: tutorials_256
 status: PUBLISHED
