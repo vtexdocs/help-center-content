@@ -1,5 +1,5 @@
 ---
-title: 'VTEX CX Platform overview'
+title: 'VTEX CX Platform: Overview'
 createdAt: 2026-03-31T15:33:34.931Z
 updatedAt: 2026-08-11T00:00:00.000Z
 contentType: tutorial
