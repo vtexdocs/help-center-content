@@ -494,6 +494,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "august",
+                "es": "agosto",
+                "pt": "agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -17371,12 +17402,12 @@
                   "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
-                    "pt": "Buying Policies"
+                    "pt": "Políticas de compras"
                   },
                   "slug": {
                     "en": "buying-policies-overview",
                     "es": "politicas-de-compras",
-                    "pt": "buying-policies"
+                    "pt": "politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17431,7 +17462,7 @@
                   "name": {
                     "en": "Scopes overview",
                     "es": "Visión general de Scopes",
-                    "pt": "Visão geral de Scopes"
+                    "pt": "Visão geral de Escopos"
                   },
                   "slug": {
                     "en": "scopes-overview",
@@ -17492,12 +17523,12 @@
                   "name": {
                     "en": "Adding or editing buying policies",
                     "es": "Agregar o editar políticas de compras",
-                    "pt": "Adicionar ou editar Buying Policies"
+                    "pt": "Adicionar ou editar Políticas de compras"
                   },
                   "slug": {
                     "en": "adding-or-editing-buying-policies",
                     "es": "agregar-o-editar-politicas-de-compras",
-                    "pt": "adicionar-ou-editar-buying-policies"
+                    "pt": "adicionar-ou-editar-politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18142,21 +18173,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Intelligent Search: Multilanguage settings (Beta)",
-                    "es": "VTEX Intelligent Search: configuración Multidioma (Beta)",
-                    "pt": "VTEX Intelligent Search: configurações Multi-idioma (Beta)"
-                  },
-                  "slug": {
-                    "en": "vtex-intelligent-search-multilanguage-settings-beta",
-                    "es": "vtex-intelligent-search-configuracion-multidioma-beta",
-                    "pt": "vtex-intelligent-search-configuracoes-multi-idioma-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -18769,6 +18785,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Checking invoice details",
+                    "es": "Verificar detalles de las facturas",
+                    "pt": "Verificar o detalhamento das faturas"
+                  },
+                  "slug": {
+                    "en": "checking-invoice-details",
+                    "es": "verificando-los-detalles-de-las-facturas",
+                    "pt": "verificar-o-detalhamento-das-faturas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Consumption tags used in the billing module",
                     "es": "Tags de pedidos utilizadas por el módulo de facturación",
                     "pt": "Marcações de pedidos pelo módulo de cobranças"
@@ -18777,6 +18808,21 @@
                     "en": "consumption-tags-used-in-the-billing-module",
                     "es": "tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion",
                     "pt": "marcacoes-de-pedidos-pelo-modulo-de-cobrancas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Generating a financial report",
+                    "es": "Generar un informe financiero",
+                    "pt": "Gerar um relatório financeiro"
+                  },
+                  "slug": {
+                    "en": "generating-a-financial-report",
+                    "es": "generar-un-informe-financiero",
+                    "pt": "gerar-um-relatorio-financeiro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18907,9 +18953,9 @@
             },
             {
               "name": {
-                "en": "Billing - Overview",
+                "en": "Billing information - Overview",
                 "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "pt": "Informações de faturamento - Visão geral"
               },
               "slug": {
                 "en": "billing-module-overview",
@@ -25364,6 +25410,21 @@
                 "en": "search-configuration",
                 "es": "configuracion-de-la-busqueda",
                 "pt": "configuracao-da-busca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Intelligent Search: Multilanguage settings",
+                "es": "VTEX Intelligent Search: configuración Multidioma",
+                "pt": "VTEX Intelligent Search: configurações Multi-idioma"
+              },
+              "slug": {
+                "en": "vtex-intelligent-search-multilanguage-settings",
+                "es": "vtex-intelligent-search-configuracion-multidioma",
+                "pt": "vtex-intelligent-search-configuracoes-multi-idioma"
               },
               "origin": "",
               "type": "markdown",
@@ -38952,66 +39013,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboard",
-                    "es": "Panel de control",
-                    "pt": "Dashboard"
-                  },
-                  "slug": {
-                    "en": "dashboard",
-                    "es": "panel-de-control",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps - register and login",
-                    "es": "Primeros pasos - registro y login",
-                    "pt": "First steps - register and login"
-                  },
-                  "slug": {
-                    "en": "first-steps-register-and-login",
-                    "es": "primeros-pasos-registro-y-login",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Getting started - create project",
-                    "es": "Primeros pasos - crear projeto",
-                    "pt": "Getting started - create project"
-                  },
-                  "slug": {
-                    "en": "create-project",
-                    "es": "crear-projeto",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Invalid authentication code",
-                    "es": "Código de autenticación inválido",
-                    "pt": "Código de autenticação inválido"
-                  },
-                  "slug": {
-                    "en": "invalid-authentication-code",
-                    "es": "codigo-de-autenticacion-invalido",
-                    "pt": "codigo-de-autenticacao-invalido"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
@@ -39027,59 +39028,45 @@
                 },
                 {
                   "name": {
-                    "en": "Profile",
-                    "es": "Perfil",
-                    "pt": "Profile"
-                  },
-                  "slug": {
-                    "en": "profile",
-                    "es": "perfil",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Two-factor authentication",
-                    "es": "Autenticación de 2 factores",
-                    "pt": "Two-factor authentication"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform - Overview",
-                    "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Visão geral VTEX CX Platform"
+                    "en": "VTEX CX Platform: Overview",
+                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-overview",
-                    "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "visao-geral-vtex-cx-platform"
+                    "es": "vtex-cx-platform-vision-de-conjunto",
+                    "pt": "vtex-cx-platform-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Visión de conjunto de VTEX CX Platform",
+                "es": "Visión de conjunto de VTEX CX Platform",
+                "pt": "Visão geral VTEX CX Platform"
+              },
+              "slug": {
+                "en": "vision-de-conjunto-de-vtex-cx-platform",
+                "es": "vision-de-conjunto-de-vtex-cx-platform-subcategoria",
+                "pt": "visão-geral-vtex-cx-platform-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "en": "VTEX CX Platform permission system",
-                    "es": "Sistema de permisos VTEX CX Platform",
-                    "pt": "VTEX CX Platform permission system"
+                    "es": "Código de autenticación inválido",
+                    "pt": "Código de autenticação inválido",
+                    "en": "Código de autenticación inválido"
                   },
                   "slug": {
-                    "en": "vtex-cx-platform-permission-system",
-                    "es": "vtex-cx-platform-sistema-de-permisos",
-                    "pt": ""
+                    "es": "codigo-de-autenticacion-invalido",
+                    "pt": "codigo-de-autenticacao-invalido",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -69583,6 +69570,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon SKU matching status reverts to \"Pending review\" after manual confirmation",
+                "es": "Amazon El estado de coincidencia de SKU vuelve a \"Pendiente de revisión\" después de la confirmación manual.",
+                "pt": "Amazon O status de correspondência do SKU volta para \"Aguardando revisão\" após confirmação manual."
+              },
+              "slug": {
+                "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
+                "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
+                "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
               },
               "origin": "",
               "type": "markdown",
