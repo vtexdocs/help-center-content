@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-10T21:43:10.777Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: resolving-an-unidentified-invoice-payment
+slugEN: addressing-an-unidentified-invoice-payment
 legacySlug: payment-was-made-but-not-found-what-should-i-do
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
