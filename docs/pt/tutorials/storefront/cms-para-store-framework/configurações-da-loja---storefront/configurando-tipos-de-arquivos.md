@@ -52,7 +52,7 @@ Se o valor estiver em **0KB** ou for baixo demais, o Admin pode rejeitar o uploa
 - A mesma imagem sobe sem erro em outra conta ou ambiente.
 - O arquivo está dentro das [boas práticas gerais de imagens do Catálogo](/pt/docs/tutorials/boas-praticas-para-o-uso-de-imagens-no-catalogo).
 
-Para corrigir uploads bloqueados, siga esses passos:
+Para corrigir uploads bloqueados, siga estes passos:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Configurações > Tipos de arquivos**.
 2. Clique em `Editar` no tipo de imagem de produto afetado (por exemplo, `Produto - Principal` ou `Produto - Giga`).
