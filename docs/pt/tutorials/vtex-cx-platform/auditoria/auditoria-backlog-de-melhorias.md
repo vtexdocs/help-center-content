@@ -14,20 +14,18 @@ Em vez de revisar manualmente todas as conversas, você executa uma análise e r
 
 > ℹ️ A análise usa uma amostra representativa das conversas, e não todas as conversas.
 
-## Executar uma análise
-
-> ❗ Você só poderá executar **uma** análise por dia.
-
-> ❗ Executar uma nova análise substitui os itens que não foram resolvidos ou ignorados da análise anterior. Por isso, recomendamos tratar as melhorias apontadas da análise anterior antes de executar uma nova.
+A análise avalia os dados da sua operação e identifica oportunidades de melhoria, que são exibidas no Backlog de melhorias. A execução é manual, o que permite que você escolha o melhor momento para atualizar os resultados.
 
 Para executar uma análise, siga os passos abaixo:
 
 1. Acesse o VTEX CX Platform.
 2. Entre em **Auditoria**.
-3. Selecione a aba **Backlog de melhorias**.
-4. Clique em `Executar análise`. A análise começará a rodar em segundo plano.
+3. Clique na aba **Backlog de melhorias**.
+4. Clique no botão `Executar análise`.
 
-> ℹ️  A análise pode levar algumas horas para ser concluída. Enquanto a análise estiver processando os dados, você já consegue visualizar algumas melhorias apontadas.
+Após clicar no botão, a análise é executada em segundo plano e pode levar algumas horas para ser concluída. Durante o processamento, é possível acompanhar as primeiras melhorias identificadas diretamente na aba Backlog de melhorias.
+
+>❗ Só é possível executar uma análise por dia. Ao executar uma nova análise, os itens não resolvidos ou ignorados da análise anterior são substituídos. Portanto, recomendamos tratar as melhorias apontadas antes de iniciar uma nova execução.
 
 ## Visualizar resultado da análise
 
