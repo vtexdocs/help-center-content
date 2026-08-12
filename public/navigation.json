@@ -15872,6 +15872,21 @@
             },
             {
               "name": {
+                "en": "Master Data billing did not decrease after deleting a data entity",
+                "es": "La facturación de Master Data no disminuyó después de eliminar una entidad de datos",
+                "pt": "A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados"
+              },
+              "slug": {
+                "en": "master-data-billing-did-not-decrease-after-deleting-a-data-entity",
+                "es": "la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos",
+                "pt": "a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My store’s Site Editor is not working",
                 "es": "Problemas con Site Editor en mi tienda",
                 "pt": "O Site Editor da minha loja não está funcionando"
