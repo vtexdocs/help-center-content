@@ -33466,33 +33466,18 @@
             },
             {
               "name": {
-                "en": "Platform security resources",
-                "es": "Recursos de seguridad de la plataforma",
-                "pt": "Recursos de segurança da plataforma"
+                "en": "Audit",
+                "es": "Audit",
+                "pt": "Auditoria"
               },
               "slug": {
-                "en": "platform-security-resources-subcategory",
-                "es": "recursos-de-seguridad-de-la-plataforma-subcategoria",
-                "pt": "recursos-de-segurança-da-plataforma-subcategoria"
+                "en": "audit",
+                "es": "audit",
+                "pt": "auditoria"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Audit",
-                    "es": "Audit",
-                    "pt": "Audit"
-                  },
-                  "slug": {
-                    "en": "audit",
-                    "es": "audit",
-                    "pt": "audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Events available in Audit",
@@ -39152,17 +39137,17 @@
             },
             {
               "name": {
-                "pt": "Auditoria: Visão geral",
-                "en": "Auditoria: Visão geral",
-                "es": "Auditoria: Visão geral"
+                "en": "Auditoria",
+                "es": "Auditoria",
+                "pt": "Auditoria"
               },
               "slug": {
-                "pt": "auditoria-visao-geral",
-                "en": "",
-                "es": ""
+                "en": "auditoria",
+                "es": "auditoria",
+                "pt": "auditoria"
               },
               "origin": "",
-              "type": "markdown",
+              "type": "category",
               "children": [
                 {
                   "name": {
