@@ -39166,12 +39166,12 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Auditoria: Conversas",
-                    "en": "Auditoria: Conversas",
-                    "es": "Auditoria: Conversas"
+                    "pt": "Auditoria: Backlog de melhorias",
+                    "en": "Auditoria: Backlog de melhorias",
+                    "es": "Auditoria: Backlog de melhorias"
                   },
                   "slug": {
-                    "pt": "auditoria-conversas",
+                    "pt": "auditoria-backlog-de-melhorias",
                     "en": "",
                     "es": ""
                   },
@@ -39181,12 +39181,12 @@
                 },
                 {
                   "name": {
-                    "pt": "Auditoria: Backlog de melhorias",
-                    "en": "Auditoria: Backlog de melhorias",
-                    "es": "Auditoria: Backlog de melhorias"
+                    "pt": "Auditoria: Conversas",
+                    "en": "Auditoria: Conversas",
+                    "es": "Auditoria: Conversas"
                   },
                   "slug": {
-                    "pt": "auditoria-backlog-de-melhorias",
+                    "pt": "auditoria-conversas",
                     "en": "",
                     "es": ""
                   },
