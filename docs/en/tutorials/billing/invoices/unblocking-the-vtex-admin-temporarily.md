@@ -1,5 +1,5 @@
 ---
-title: 'Unblocking the VTEX Admin temporarily'
+title: 'Temporarily unblocking the VTEX Admin'
 id: 7jCPvsUmUy4e8TKd4F2LFP
 status: PUBLISHED
 createdAt: 2025-05-07T13:15:44.418Z
@@ -14,19 +14,24 @@ legacySlug: how-to-temporarily-unblock-the-admin
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
+The store's VTEX Admin is blocked when invoice payments are overdue. You can temporarily unblock it for 48 business hours while you catch up on pending payments.
 
-The VTEX Admin is blocked when there’s a delay in paying invoices. While you settle your debts, you can temporarily unblock it for 48 business hours.
+## Before you begin
 
-## Required permissions
-To perform this procedure, you must have one of the following permissions:
+Make sure you have one of the following permissions:
 
-- Super Admin
-- [Billing role](/en/docs/tutorials/creating-a-financial-access-profile)
+- [Owner (Admin Super) role](/en/docs/tutorials/predefined-roles).
+- [Billing](/en/docs/tutorials/predefined-roles) role. Learn how to configure this role in [Creating a financial role](/en/docs/tutorials/creating-a-financial-access-profile) or ask the store owner to adjust your permissions.
 
-## Unblock request
-1. In the top bar of the VTEX Admin, click your profile avatar, indicated by the initial letter of your email address. Go to **Billing > Invoices**, or type **Invoices** in the search bar at the top of the page. 
-2. Click **See how to temporarily unblock.**
-3. Click **Unblock for 48 hours.**
+## Instructions
 
-> ℹ️ The unblock is temporary and valid for 48 business hours. Use this time to settle your invoices and avoid further blocks.
+To request temporary unblocking, follow these steps:
 
+1. In the VTEX Admin, click your avatar, identified by your email initial, in the top right corner of the screen.
+2. Go to **Billing > Invoices**, or type **Invoices** in the search bar at the top of the page.
+3. Click **See how to temporarily unblock.**
+4. Click **Unblock for 48 hours.**
+
+  > ⚠️ Use the unblocking period to settle your invoices and avoid new blocks.
+
+If the payment has already been processed but hasn't been identified yet, see the article [Resolving an unidentified invoice payment](/en/docs/tutorials/addressing-an-unidentified-invoice-payment).
