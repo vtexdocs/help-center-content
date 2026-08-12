@@ -14,6 +14,7 @@ legacySlug: modificar-los-datos-de-registro-de-la-tienda
 locale: es
 subcategoryId: 5U2vQjKfQcYeYw62mygMii
 ---
+
 Descubre los datos de registro de tu tienda que puedes modificar en el Admin VTEX y cuándo es necesario abrir un ticket para cambiar el documento fiscal.
 
 ## Modificaciones vía Admin VTEX

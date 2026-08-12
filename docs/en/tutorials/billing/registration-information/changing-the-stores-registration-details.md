@@ -14,6 +14,7 @@ legacySlug: changing-the-stores-registration-details
 locale: en
 subcategoryId: 5U2vQjKfQcYeYw62mygMii
 ---
+
 Discover the store information you can change in the VTEX Admin and when you need to open a ticket to request a change to your tax document.
 
 ## Changes via the VTEX Admin
