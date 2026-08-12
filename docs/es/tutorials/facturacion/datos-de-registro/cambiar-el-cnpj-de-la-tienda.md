@@ -14,6 +14,7 @@ legacySlug: como-cambiar-mi-cnpj
 locale: es
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
+
 >⚠️ Este tutorial es válido únicamente para clientes que facturan en Brasil.
 
 Para cambiar el CNPJ (nro. de registro de persona jurídica) de tu tienda, abre un [ticket](https://supporticket.vtex.com/support) con el soporte financiero. Esta modificación incluye la transferencia de derechos, obligaciones y responsabilidades contractuales.

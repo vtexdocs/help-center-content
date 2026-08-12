@@ -14,6 +14,7 @@ legacySlug: how-do-i-change-my-cnpj
 locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
+
 >⚠️ This tutorial is only valid for customers billed in Brazil.
 
 To change your store's CNPJ, open a [ticket](https://supporticket.vtex.com/support) with the Financial Support team. This change includes the transfer of contractual rights, obligations, and responsibilities.
