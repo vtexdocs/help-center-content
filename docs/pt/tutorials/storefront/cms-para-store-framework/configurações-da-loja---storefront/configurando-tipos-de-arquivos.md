@@ -20,7 +20,7 @@ No Admin VTEX, você pode definir as dimensões padrão e o tamanho máximo (em 
 
 ### Configurar tipos de arquivos
 
-Para configurar os tipos dos arquivos de sua loja, siga esses passos:
+Para configurar os tipos dos arquivos de sua loja, siga estes passos:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Configurações**.
 2. Clique na aba **Tipos de arquivos**.
