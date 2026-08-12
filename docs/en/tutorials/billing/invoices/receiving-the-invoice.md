@@ -1,5 +1,5 @@
 ---
-title: 'Receiving the invoice'
+title: 'Receiving invoices'
 id: 4kRivWUH68iQ6AwI2QU6gm
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.627Z
@@ -14,15 +14,12 @@ legacySlug: how-and-when-do-i-receive-my-invoice
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
+VTEX uses postpaid billing, which means you're charged after the platform usage period. That's why the invoice is issued at the end of each month.
 
-> ⚠️ This procedure only applies to customers billed in **Brazil.**
+When the invoice is issued, it's sent by email to the contacts registered on your account.
 
-The billing is triggered until the 5th business day of the month. Invoice and *boleto* (Brazilian offline payment method) are available on the __Billing__ module in the Admin of your store.
+> ℹ️ To change the contacts who receive the invoice and other financial communications, see the article [Changing the store's registration data](/en/docs/tutorials/changing-the-stores-registration-details).
 
-When a charge is made, we send an email to the registered contacts advising that the invoice and the *boleto* are already available for payment or consultation.
+If you didn't receive the invoice by email, you can download it from the Admin. Learn more in [Downloading VTEX invoices](/en/docs/tutorials/downloading-vtex-invoices).
 
-If you have not received the notice by the 5th business day of the month, [check your administrative panel](/en/docs/tutorials/how-to-download-the-vtex-invoices). If you identify any divergence, [contact our](https://supporticket.vtex.com/support) financial team.
-
-If you are unable to download your *"boleto"*, you may not have a financial profile configured in your store account. In this case, ask the account's Super Admin to add it.
-
-If you are not receiving the emails that inform that the *"boleto"* is available for download on the platform, the email address may not be registered as a financial contact. In this case, open a [ticket](https://supporticket.vtex.com/support) to request the inclusion of the email address in the account's financial contacts. 
+> ⚠️ For stores billed in Brazil, the boleto is also sent by email to the contacts registered on the account.
