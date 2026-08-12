@@ -15872,6 +15872,21 @@
             },
             {
               "name": {
+                "en": "Master Data billing did not decrease after deleting a data entity",
+                "es": "La facturación de Master Data no disminuyó después de eliminar una entidad de datos",
+                "pt": "A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados"
+              },
+              "slug": {
+                "en": "master-data-billing-did-not-decrease-after-deleting-a-data-entity",
+                "es": "la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos",
+                "pt": "a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My store’s Site Editor is not working",
                 "es": "Problemas con Site Editor en mi tienda",
                 "pt": "O Site Editor da minha loja não está funcionando"
@@ -54589,13 +54604,13 @@
             {
               "name": {
                 "en": "Excluded warehouses continue to return stock availability in the simulation and availability API",
-                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de existencias en la simulación y la API de disponibilidad",
-                "pt": "Os depósitos excluídos continuam a retornar a disponibilidade de estoque na simulação e na API de disponibilidade"
+                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de stock en la simulación y la API de disponibilidad.",
+                "pt": "Os armazéns excluídos continuam a apresentar disponibilidade de estoque na simulação e na API de disponibilidade."
               },
               "slug": {
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
-                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-existencias-en-la-simulacion-y-la-api-de-disponibilidad",
-                "pt": "os-depositos-excluidos-continuam-a-retornar-a-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
+                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
+                "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
               },
               "origin": "",
               "type": "markdown",
@@ -54798,14 +54813,14 @@
             },
             {
               "name": {
-                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
-                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
+                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
               },
               "slug": {
-                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
+                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -54904,12 +54919,12 @@
             {
               "name": {
                 "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un MaxVolume incorrecto en la hoja de cálculo no muestra el error del mensaje en la simulación",
+                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
                 "pt": "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
               },
               "slug": {
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
+                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
                 "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
               },
               "origin": "",
@@ -55039,13 +55054,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
-                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
+                "es": "La exportación de stock no funciona para una base de SKU muy grande (StatusCode: 429).",
+                "pt": "A exportação de estoque não funciona para uma base de SKUs muito grande (StatusCode: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
+                "es": "la-exportacion-de-stock-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-skus-muito-grande-statuscode-429"
               },
               "origin": "",
               "type": "markdown",
