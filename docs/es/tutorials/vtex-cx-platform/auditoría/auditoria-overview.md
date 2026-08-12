@@ -1,10 +1,10 @@
 ---
-title: 'Auditoría'
+title: 'Auditoría Overview'
 createdAt: 2026-08-12T00:00:00.000Z
 updatedAt: 2026-08-12T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: audit
+slugEN: audit-overview
 locale: es
 ---
 
