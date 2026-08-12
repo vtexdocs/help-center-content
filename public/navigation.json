@@ -39137,6 +39137,37 @@
             },
             {
               "name": {
+                "en": "Audit",
+                "es": "Auditoría",
+                "pt": "Auditoria"
+              },
+              "slug": {
+                "en": "audit",
+                "es": "auditoria",
+                "pt": "auditoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Audit: Improvements Backlog",
+                    "es": "Auditoría: Backlog de mejoras",
+                    "pt": "Auditoria: Backlog de melhorias"
+                  },
+                  "slug": {
+                    "en": "audit-improvements-backlog",
+                    "es": "auditoria-backlog-de-mejoras",
+                    "pt": "auditoria-backlog-de-melhorias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Auditoria",
                 "es": "Auditoria",
                 "pt": "Auditoria"
@@ -39149,21 +39180,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "pt": "Auditoria: Backlog de melhorias",
-                    "en": "Auditoria: Backlog de melhorias",
-                    "es": "Auditoria: Backlog de melhorias"
-                  },
-                  "slug": {
-                    "pt": "auditoria-backlog-de-melhorias",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "pt": "Auditoria: Conversas",
