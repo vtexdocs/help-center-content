@@ -39167,17 +39167,48 @@
             },
             {
               "name": {
-                "pt": "Auditoria: Visão geral",
-                "en": "Auditoria: Visão geral",
-                "es": "Auditoria: Visão geral"
+                "en": "Audit Overview",
+                "es": "Auditoría Overview",
+                "pt": "Auditoria Overview"
               },
               "slug": {
-                "pt": "auditoria-visao-geral",
-                "en": "",
-                "es": ""
+                "en": "audit-overview",
+                "es": "auditoria-overview",
+                "pt": "auditoria-overview"
               },
               "origin": "",
               "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Audit: Improvements Backlog",
+                    "es": "Auditoría: Backlog de mejoras",
+                    "pt": "Auditoria: Backlog de melhorias"
+                  },
+                  "slug": {
+                    "en": "audit-improvements-backlog",
+                    "es": "auditoria-backlog-de-mejoras",
+                    "pt": "auditoria-backlog-de-melhorias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Auditoria",
+                "es": "Auditoria",
+                "pt": "Auditoria"
+              },
+              "slug": {
+                "en": "auditoria",
+                "es": "auditoria",
+                "pt": "auditoria"
+              },
+              "origin": "",
+              "type": "category",
               "children": [
                 {
                   "name": {
