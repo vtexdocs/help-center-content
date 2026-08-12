@@ -38865,6 +38865,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Audit: Conversations",
+                    "es": "Auditoría: Conversaciones",
+                    "pt": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "en": "audit-conversations",
+                    "es": "auditoria-conversaciones",
+                    "pt": "auditoria-conversas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Audit: Improvements Backlog",
                     "es": "Auditoría: Backlog de mejoras",
                     "pt": "Auditoria: Backlog de melhorias"
@@ -38873,37 +38888,6 @@
                     "en": "audit-improvements-backlog",
                     "es": "auditoria-backlog-de-mejoras",
                     "pt": "auditoria-backlog-de-melhorias"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Auditoria",
-                "es": "Auditoria",
-                "pt": "Auditoria"
-              },
-              "slug": {
-                "en": "auditoria",
-                "es": "auditoria",
-                "pt": "auditoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Auditoria: Conversas",
-                    "en": "Auditoria: Conversas",
-                    "es": "Auditoria: Conversas"
-                  },
-                  "slug": {
-                    "pt": "auditoria-conversas",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
