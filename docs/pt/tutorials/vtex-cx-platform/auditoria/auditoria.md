@@ -1,10 +1,10 @@
 ---
-title: 'Auditoria: Visão geral'
+title: 'Auditoria'
 createdAt: 2026-08-05T00:00:00.000Z
 updatedAt: 2026-08-05T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: audit-overview
+slugEN: audit
 categoryCover: true
 locale: pt
 ---
