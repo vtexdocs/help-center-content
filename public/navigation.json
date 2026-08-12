@@ -39650,13 +39650,13 @@
             {
               "name": {
                 "en": "Infinite login loop when opening private GraphiQL link from terminal",
-                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
-                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde la terminal.",
+                "pt": "Loop infinito de login ao abrir um link GraphiQL privado a partir do terminal."
               },
               "slug": {
                 "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
-                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
-                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-la-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-graphiql-privado-a-partir-do-terminal"
               },
               "origin": "",
               "type": "markdown",
