@@ -14,11 +14,12 @@ legacySlug: como-cambiar-mi-cnpj
 locale: es
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
+>⚠️ Este tutorial es válido únicamente para clientes que facturan en Brasil.
 
-Para solicitar la modificación de CNPJ y transferir los derechos, obligaciones y responsabilidades contractuales de su tienda, es necesario que usted abra un [ticket](https://support.vtex.com/hc/es-419/requests) comunicando su decisión al Financiero.
+Para cambiar el CNPJ (nro. de registro de persona jurídica) de tu tienda, abre un [ticket](https://supporticket.vtex.com/support) con el soporte financiero. Esta modificación incluye la transferencia de derechos, obligaciones y responsabilidades contractuales.
 
-## Asegúrese de que su llamada contenga la siguiente información:
+Al abrir el ticket incluye la siguiente información:
 
-- Tarjeta CNPJ del contratista y transferente.
-- Contrato Social del contratista y transferente.
-- Datos completos __del antigo y del actual__ representantes legales, que firmarán el documento de transferencia (Nombre / RG / CPF / E-mail).
+- Tarjeta CNPJ del contratante y del transferente.
+- Contrato social del contratante y del transferente.
+- Datos completos del representante legal anterior y del actual, que firmarán el documento de transferencia: nombre, RG, CPF e email.
