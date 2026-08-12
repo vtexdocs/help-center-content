@@ -54558,13 +54558,13 @@
             {
               "name": {
                 "en": "Excluded warehouses continue to return stock availability in the simulation and availability API",
-                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de existencias en la simulación y la API de disponibilidad",
-                "pt": "Os depósitos excluídos continuam a retornar a disponibilidade de estoque na simulação e na API de disponibilidade"
+                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de stock en la simulación y la API de disponibilidad.",
+                "pt": "Os armazéns excluídos continuam a apresentar disponibilidade de estoque na simulação e na API de disponibilidade."
               },
               "slug": {
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
-                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-existencias-en-la-simulacion-y-la-api-de-disponibilidad",
-                "pt": "os-depositos-excluidos-continuam-a-retornar-a-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
+                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
+                "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
               },
               "origin": "",
               "type": "markdown",
@@ -54767,14 +54767,14 @@
             },
             {
               "name": {
-                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
-                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
+                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
               },
               "slug": {
-                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
+                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
