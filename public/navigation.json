@@ -33466,18 +33466,33 @@
             },
             {
               "name": {
-                "en": "Audit",
-                "es": "Auditoría",
-                "pt": "Auditoria"
+                "en": "Platform security resources",
+                "es": "Recursos de seguridad de la plataforma",
+                "pt": "Recursos de segurança da plataforma"
               },
               "slug": {
-                "en": "audit",
-                "es": "auditoria",
-                "pt": "auditoria"
+                "en": "platform-security-resources-subcategory",
+                "es": "recursos-de-seguridad-de-la-plataforma-subcategoria",
+                "pt": "recursos-de-segurança-da-plataforma-subcategoria"
               },
               "origin": "",
-              "type": "markdown",
+              "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Audit",
+                    "es": "Audit",
+                    "pt": "Audit"
+                  },
+                  "slug": {
+                    "en": "audit",
+                    "es": "audit",
+                    "pt": "audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Events available in Audit",
@@ -39137,17 +39152,17 @@
             },
             {
               "name": {
-                "en": "Audit",
-                "es": "Auditoría",
-                "pt": "Auditoria"
+                "en": "Audit Overview",
+                "es": "Auditoría Overview",
+                "pt": "Auditoria Overview"
               },
               "slug": {
-                "en": "audit-category",
-                "es": "auditoria",
-                "pt": "auditoria"
+                "en": "audit-overview",
+                "es": "auditoria-overview",
+                "pt": "auditoria-overview"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
