@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Orders: New item-level promotion view (open beta)",
+                    "es": "Pedidos: nueva vista de promoción por ítem (beta abierta)",
+                    "pt": "Pedidos: nova visualização de promoção por item (beta aberto)"
+                  },
+                  "slug": {
+                    "en": "2026-07-31-orders-new-item-level-promotions-display-open-beta",
+                    "es": "2026-07-31-pedidos-nueva-vista-de-promocion-por-item-beta-abierta",
+                    "pt": "2026-07-31-pedidos-nova-visualizacao-de-promocao-por-item-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Discover the new VTEX Sales App Extensibility",
                     "es": "Conoce el nuevo VTEX Sales App Extensibility",
                     "pt": "Conheça o novo VTEX Sales App Extensibility"
@@ -473,6 +488,37 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "august",
+                "es": "agosto",
+                "pt": "agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -15826,21 +15872,6 @@
             },
             {
               "name": {
-                "en": "Master Data billing did not decrease after deleting a data entity",
-                "es": "La facturación de Master Data no disminuyó después de eliminar una entidad de datos",
-                "pt": "A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados"
-              },
-              "slug": {
-                "en": "master-data-billing-did-not-decrease-after-deleting-a-data-entity",
-                "es": "la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos",
-                "pt": "a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "My store’s Site Editor is not working",
                 "es": "Problemas con Site Editor en mi tienda",
                 "pt": "O Site Editor da minha loja não está funcionando"
@@ -17371,12 +17402,12 @@
                   "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
-                    "pt": "Buying Policies"
+                    "pt": "Políticas de compras"
                   },
                   "slug": {
                     "en": "buying-policies-overview",
                     "es": "politicas-de-compras",
-                    "pt": "buying-policies"
+                    "pt": "politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17431,7 +17462,7 @@
                   "name": {
                     "en": "Scopes overview",
                     "es": "Visión general de Scopes",
-                    "pt": "Visão geral de Scopes"
+                    "pt": "Visão geral de Escopos"
                   },
                   "slug": {
                     "en": "scopes-overview",
@@ -17492,12 +17523,12 @@
                   "name": {
                     "en": "Adding or editing buying policies",
                     "es": "Agregar o editar políticas de compras",
-                    "pt": "Adicionar ou editar Buying Policies"
+                    "pt": "Adicionar ou editar Políticas de compras"
                   },
                   "slug": {
                     "en": "adding-or-editing-buying-policies",
                     "es": "agregar-o-editar-politicas-de-compras",
-                    "pt": "adicionar-ou-editar-buying-policies"
+                    "pt": "adicionar-ou-editar-politicas-de-compras"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18142,21 +18173,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Intelligent Search: Multilanguage settings (Beta)",
-                    "es": "VTEX Intelligent Search: configuración Multidioma (Beta)",
-                    "pt": "VTEX Intelligent Search: configurações Multi-idioma (Beta)"
-                  },
-                  "slug": {
-                    "en": "vtex-intelligent-search-multilanguage-settings-beta",
-                    "es": "vtex-intelligent-search-configuracion-multidioma-beta",
-                    "pt": "vtex-intelligent-search-configuracoes-multi-idioma-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -18738,14 +18754,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Requesting contract termination in Brazil",
-                    "es": "Solicitar rescisión contractual en Brasil",
-                    "pt": "Solicitar rescisão contratual no Brasil"
+                    "en": "Requesting contract termination",
+                    "es": "Solicitar rescisión contractual",
+                    "pt": "Solicitar rescisão contratual"
                   },
                   "slug": {
-                    "en": "how-to-request-your-contract-termination-in-brazil",
-                    "es": "como-solicitar-su-rescision-contractual-en-brasil",
-                    "pt": "como-solicitar-sua-rescisao-contratual-no-brasil"
+                    "en": "requesting-contract-termination",
+                    "es": "solicitar-rescision-contractual",
+                    "pt": "solicitar-rescisao-contratual"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18769,6 +18785,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Addressing an unidentified invoice payment",
+                    "es": "Resolver pago de factura no identificado",
+                    "pt": "Resolver pagamento de fatura não identificado"
+                  },
+                  "slug": {
+                    "en": "addressing-an-unidentified-invoice-payment",
+                    "es": "resolver-pago-de-factura-no-identificado",
+                    "pt": "resolver-pagamento-de-fatura-nao-identificado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Checking invoice details",
+                    "es": "Verificar detalles de las facturas",
+                    "pt": "Verificar o detalhamento das faturas"
+                  },
+                  "slug": {
+                    "en": "checking-invoice-details",
+                    "es": "verificando-los-detalles-de-las-facturas",
+                    "pt": "verificar-o-detalhamento-das-faturas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Consumption tags used in the billing module",
                     "es": "Tags de pedidos utilizadas por el módulo de facturación",
                     "pt": "Marcações de pedidos pelo módulo de cobranças"
@@ -18784,6 +18830,36 @@
                 },
                 {
                   "name": {
+                    "en": "Downloading VTEX invoices",
+                    "es": "Descargar facturas de VTEX",
+                    "pt": "Baixar faturas da VTEX"
+                  },
+                  "slug": {
+                    "en": "downloading-vtex-invoices",
+                    "es": "descargar-facturas-de-vtex",
+                    "pt": "baixar-faturas-da-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Generating a financial report",
+                    "es": "Generar un informe financiero",
+                    "pt": "Gerar um relatório financeiro"
+                  },
+                  "slug": {
+                    "en": "generating-a-financial-report",
+                    "es": "generar-un-informe-financiero",
+                    "pt": "gerar-um-relatorio-financeiro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How and when do I receive my invoice?",
                     "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
                     "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
@@ -18792,21 +18868,6 @@
                     "en": "how-and-when-do-i-receive-my-invoice",
                     "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
                     "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to download the VTEX invoices",
-                    "es": "Cómo descargar las facturas de VTEX",
-                    "pt": "Como fazer download das faturas da VTEX"
-                  },
-                  "slug": {
-                    "en": "how-to-download-the-vtex-invoices",
-                    "es": "como-descargar-las-facturas-de-vtex",
-                    "pt": "como-fazer-download-faturas-da-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18837,21 +18898,6 @@
                     "en": "how-to-temporarily-unblock-the-admin",
                     "es": "desbloqueio-temporal-del-admin",
                     "pt": "como-desbloquear-temporariamente-o-admin"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Payment was made but not found. What should I do?",
-                    "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
-                    "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
-                  },
-                  "slug": {
-                    "en": "payment-was-made-but-not-found-what-should-i-do",
-                    "es": "el-pago-se-realizo-pero-no-se-identifico-que-debo-hacer",
-                    "pt": "o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18907,9 +18953,9 @@
             },
             {
               "name": {
-                "en": "Billing - Overview",
+                "en": "Billing information - Overview",
                 "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "pt": "Informações de faturamento - Visão geral"
               },
               "slug": {
                 "en": "billing-module-overview",
@@ -24746,12 +24792,12 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring a discount for orders paid in full",
+                    "en": "Configuring a pay-in-full discount",
                     "es": "Configurar descuento de precio al contado",
                     "pt": "Configurar desconto de preço à vista"
                   },
                   "slug": {
-                    "en": "configuring-a-discount-for-orders-prepaid-in-full",
+                    "en": "configuring-a-pay-in-full-discount",
                     "es": "configurar-descuento-de-precio-al-contado",
                     "pt": "configurar-desconto-de-preco-a-vista"
                   },
@@ -25364,6 +25410,21 @@
                 "en": "search-configuration",
                 "es": "configuracion-de-la-busqueda",
                 "pt": "configuracao-da-busca"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Intelligent Search: Multilanguage settings",
+                "es": "VTEX Intelligent Search: configuración Multidioma",
+                "pt": "VTEX Intelligent Search: configurações Multi-idioma"
+              },
+              "slug": {
+                "en": "vtex-intelligent-search-multilanguage-settings",
+                "es": "vtex-intelligent-search-configuracion-multidioma",
+                "pt": "vtex-intelligent-search-configuracoes-multi-idioma"
               },
               "origin": "",
               "type": "markdown",
@@ -38109,6 +38170,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring Live Desk",
+                    "es": "Configurar Live Desk",
+                    "pt": "Configurar o Live Desk"
+                  },
+                  "slug": {
+                    "en": "configure-live-desk",
+                    "es": "configurar-el-live-desk",
+                    "pt": "configurar-o-live-desk"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Live Desk - Overview",
                     "es": "Visión de conjunto de Live Desk",
                     "pt": "Visão geral do Live Desk"
@@ -38952,66 +39028,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboard",
-                    "es": "Panel de control",
-                    "pt": "Dashboard"
-                  },
-                  "slug": {
-                    "en": "dashboard",
-                    "es": "panel-de-control",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "First steps - register and login",
-                    "es": "Primeros pasos - registro y login",
-                    "pt": "First steps - register and login"
-                  },
-                  "slug": {
-                    "en": "first-steps-register-and-login",
-                    "es": "primeros-pasos-registro-y-login",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Getting started - create project",
-                    "es": "Primeros pasos - crear projeto",
-                    "pt": "Getting started - create project"
-                  },
-                  "slug": {
-                    "en": "create-project",
-                    "es": "crear-projeto",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Invalid authentication code",
-                    "es": "Código de autenticación inválido",
-                    "pt": "Código de autenticação inválido"
-                  },
-                  "slug": {
-                    "en": "invalid-authentication-code",
-                    "es": "codigo-de-autenticacion-invalido",
-                    "pt": "codigo-de-autenticacao-invalido"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Platform glossary",
                     "es": "Glosário de la plataforma",
                     "pt": "Glossário da plataforma"
@@ -39027,59 +39043,14 @@
                 },
                 {
                   "name": {
-                    "en": "Profile",
-                    "es": "Perfil",
-                    "pt": "Profile"
-                  },
-                  "slug": {
-                    "en": "profile",
-                    "es": "perfil",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Two-factor authentication",
-                    "es": "Autenticación de 2 factores",
-                    "pt": "Two-factor authentication"
-                  },
-                  "slug": {
-                    "en": "2-factor-authentication",
-                    "es": "autenticacion-de-2-factores",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform - Overview",
-                    "es": "Cambiando el idioma de la plataforma",
-                    "pt": "Visão geral VTEX CX Platform"
+                    "en": "VTEX CX Platform: Overview",
+                    "es": "VTEX CX Platform: Visión de conjunto",
+                    "pt": "Visão geral do VTEX CX Platform"
                   },
                   "slug": {
                     "en": "vtex-cx-platform-overview",
-                    "es": "cambiando-el-idioma-de-la-plataforma",
-                    "pt": "visao-geral-vtex-cx-platform"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX CX Platform permission system",
-                    "es": "Sistema de permisos VTEX CX Platform",
-                    "pt": "VTEX CX Platform permission system"
-                  },
-                  "slug": {
-                    "en": "vtex-cx-platform-permission-system",
-                    "es": "vtex-cx-platform-sistema-de-permisos",
-                    "pt": ""
+                    "es": "vtex-cx-platform-vision-de-conjunto",
+                    "pt": "vtex-cx-platform-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39103,23 +39074,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Configuring Live Desk",
-                    "es": "Configurar Live Desk",
-                    "pt": "Configurar o Live Desk"
-                  },
-                  "slug": {
-                    "en": "configure-live-desk",
-                    "es": "configurar-el-live-desk",
-                    "pt": "configurar-o-live-desk"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "CX Platform Settings: Workspace",
-                    "es": "Configuración de CX Platform: Espacio de trabajo",
+                    "en": "CX Platform settings: Workspace",
+                    "es": "Configuración de CX Platform: Workspace",
                     "pt": "Configurações CX Platform: Espaço de trabalho"
                   },
                   "slug": {
@@ -39138,7 +39094,7 @@
                     "pt": "Gerenciar membros do VTEX CX Platform"
                   },
                   "slug": {
-                    "en": "manage-vtex-cx-platform-members",
+                    "en": "managing-vtex-cx-platform-members",
                     "es": "administrar-miembros-de-la-plataforma-vtex-cx",
                     "pt": "gerenciar-membros-do-vtex-cx-platform"
                   },
@@ -39187,6 +39143,68 @@
                     "en": "analytics-support-metrics",
                     "es": "analytics-metricas-de-atencion",
                     "pt": "analytics-metricas-de-atendimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Audit Overview",
+                "es": "Auditoría Overview",
+                "pt": "Auditoria Overview"
+              },
+              "slug": {
+                "en": "audit-overview",
+                "es": "auditoria-overview",
+                "pt": "auditoria-overview"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Audit: Improvements Backlog",
+                    "es": "Auditoría: Backlog de mejoras",
+                    "pt": "Auditoria: Backlog de melhorias"
+                  },
+                  "slug": {
+                    "en": "audit-improvements-backlog",
+                    "es": "auditoria-backlog-de-mejoras",
+                    "pt": "auditoria-backlog-de-melhorias"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Auditoria",
+                "es": "Auditoria",
+                "pt": "Auditoria"
+              },
+              "slug": {
+                "en": "auditoria",
+                "es": "auditoria",
+                "pt": "auditoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Auditoria: Conversas",
+                    "en": "Auditoria: Conversas",
+                    "es": "Auditoria: Conversas"
+                  },
+                  "slug": {
+                    "pt": "auditoria-conversas",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39663,13 +39681,13 @@
             {
               "name": {
                 "en": "Infinite login loop when opening private GraphiQL link from terminal",
-                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
-                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde la terminal.",
+                "pt": "Loop infinito de login ao abrir um link GraphiQL privado a partir do terminal."
               },
               "slug": {
                 "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
-                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
-                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-la-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-graphiql-privado-a-partir-do-terminal"
               },
               "origin": "",
               "type": "markdown",
@@ -58551,12 +58569,12 @@
             {
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
-                "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
+                "es": "El campo \"Nombre del destinatario\" de mi cuenta no reconoce la entrada.",
                 "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
-                "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
+                "es": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
                 "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
@@ -62183,6 +62201,21 @@
             },
             {
               "name": {
+                "en": "Outdated card brand regex causes brand misidentification at checkout",
+                "es": "La expresión regular de marca de tarjeta obsoleta provoca una identificación errónea de la marca en el momento del pago.",
+                "pt": "Expressões regulares desatualizadas para marcas de cartões causam identificação incorreta da marca no caixa."
+              },
+              "slug": {
+                "en": "outdated-card-brand-regex-causes-brand-misidentification-at-checkout",
+                "es": "la-expresion-regular-de-marca-de-tarjeta-obsoleta-provoca-una-identificacion-erronea-de-la-marca-en-el-momento-del-pago",
+                "pt": "expressoes-regulares-desatualizadas-para-marcas-de-cartoes-causam-identificacao-incorreta-da-marca-no-caixa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Outdated Elo regex is causing us to misidentify some BINs",
                 "es": "Una regex de Elo obsoleta nos hace identificar erróneamente algunos BINs",
                 "pt": "O regex Elo desatualizado está nos levando a identificar incorretamente alguns BINs"
@@ -62206,36 +62239,6 @@
                 "en": "outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page",
                 "es": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
                 "pt": "zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
-              },
-              "slug": {
-                "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela",
-                "en": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
-              },
-              "slug": {
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
-                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -62664,13 +62667,13 @@
             {
               "name": {
                 "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
-                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
-                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas/condiciones de pago activas.",
+                "pt": "Os métodos de pagamento removidos ainda são exibidos no Checkout quando a conta não possui regras/condições de pagamento ativas."
               },
               "slug": {
                 "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
-                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
-                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglascondiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-sao-exibidos-no-checkout-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
               },
               "origin": "",
               "type": "markdown",
@@ -63189,13 +63192,13 @@
             {
               "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
-                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
-                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+                "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
+                "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
               },
               "slug": {
                 "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
-                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
-                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+                "es": "error-de-transaccion-causado-por-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -63706,6 +63709,21 @@
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "las-transacciones-con-el-conector-tnspay-se-rechazan-por-error-la-tarjeta-no-esta-registrada-en-3ds",
                 "pt": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
+                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs",
+                "en": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN"
+              },
+              "slug": {
+                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
+                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -69583,6 +69601,21 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon SKU matching status reverts to \"Pending review\" after manual confirmation",
+                "es": "Amazon El estado de coincidencia de SKU vuelve a \"Pendiente de revisión\" después de la confirmación manual.",
+                "pt": "Amazon O status de correspondência do SKU volta para \"Aguardando revisão\" após confirmação manual."
+              },
+              "slug": {
+                "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
+                "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
+                "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
               },
               "origin": "",
               "type": "markdown",
