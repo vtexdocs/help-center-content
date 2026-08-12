@@ -14,6 +14,7 @@ legacySlug: desbloqueio-temporal-del-admin
 locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
+
 El bloqueo del Admin VTEX ocurre cuando hay un retraso en el pago de facturas. Mientras regularizas tus pagos pendientes puedes solicitar un desbloqueo temporal válido por 48 horas laborables.
 
 ## Antes de empezar

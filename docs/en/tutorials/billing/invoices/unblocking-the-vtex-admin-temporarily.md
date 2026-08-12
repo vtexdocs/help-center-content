@@ -14,6 +14,7 @@ legacySlug: how-to-temporarily-unblock-the-admin
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
+
 The store's VTEX Admin is blocked when invoice payments are overdue. You can temporarily unblock it for 48 business hours while you catch up on pending payments.
 
 ## Before you begin
