@@ -10,7 +10,7 @@ locale: pt
 
 No Admin VTEX, você pode definir as dimensões padrão e o tamanho máximo (em KB) dos arquivos usados na sua loja, principalmente imagens de produto do Catálogo. Essas configurações influenciam a validação de upload de imagens no Admin e, em lojas **CMS Portal (Legado)**, também comportamentos de storefront como zoom e miniaturas.
 
-> ℹ️ A validação de **Tamanho Máximo em KB** no upload de imagens de produto/SKU no Catálogo vale para lojas **CMS Portal (Legado)** e **Store Framework**. Já a configuração dos efeitos de exibição no storefront, como zoom e miniaturas, estão disponíveis via Admin somente para lojas **CMS Portal (Legado)**. Saiba mais em [Configurando zoom e miniaturas em lojas CMS Portal (Legado)](#LINK).
+> ℹ️ A validação de **Tamanho Máximo em KB** no upload de imagens de produto/SKU no Catálogo vale para lojas **CMS Portal (Legado)** e **Store Framework**. Já a configuração dos efeitos de exibição no storefront, como zoom e miniaturas, está disponível via Admin somente para lojas **CMS Portal (Legado)**. Saiba mais em [Configurando zoom e miniaturas em lojas CMS Portal (Legado)](#LINK).
 
 ![Lista de tipos de arquivos no Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-para-store-framework/configurações-da-loja---storefront/configurando-tipos-de-arquivos_1.png)
 
@@ -20,7 +20,7 @@ No Admin VTEX, você pode definir as dimensões padrão e o tamanho máximo (em 
 
 ### Configurar tipos de arquivos
 
-Para configurar os tipos dos arquivos de sua loja, siga esses passos:
+Para configurar os tipos dos arquivos de sua loja, siga estes passos:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Configurações**.
 2. Clique na aba **Tipos de arquivos**.
@@ -52,7 +52,7 @@ Se o valor estiver em **0KB** ou for baixo demais, o Admin pode rejeitar o uploa
 - A mesma imagem sobe sem erro em outra conta ou ambiente.
 - O arquivo está dentro das [boas práticas gerais de imagens do Catálogo](/pt/docs/tutorials/boas-praticas-para-o-uso-de-imagens-no-catalogo).
 
-Para corrigir uploads bloqueados, siga esses passos:
+Para corrigir uploads bloqueados, siga estes passos:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Configurações > Tipos de arquivos**.
 2. Clique em `Editar` no tipo de imagem de produto afetado (por exemplo, `Produto - Principal` ou `Produto - Giga`).
