@@ -14,6 +14,7 @@ legacySlug: how-and-when-do-i-receive-my-invoice
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
+
 VTEX uses postpaid billing, which means you're charged after the platform usage period. That's why the invoice is issued at the end of each month.
 
 When the invoice is issued, it's sent by email to the contacts registered on your account.
