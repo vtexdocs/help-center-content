@@ -54873,12 +54873,12 @@
             {
               "name": {
                 "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un MaxVolume incorrecto en la hoja de cálculo no muestra el error del mensaje en la simulación",
+                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
                 "pt": "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
               },
               "slug": {
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
+                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
                 "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
               },
               "origin": "",
@@ -55008,13 +55008,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
-                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
+                "es": "La exportación de stock no funciona para una base de SKU muy grande (StatusCode: 429).",
+                "pt": "A exportação de estoque não funciona para uma base de SKUs muito grande (StatusCode: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
+                "es": "la-exportacion-de-stock-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-skus-muito-grande-statuscode-429"
               },
               "origin": "",
               "type": "markdown",
