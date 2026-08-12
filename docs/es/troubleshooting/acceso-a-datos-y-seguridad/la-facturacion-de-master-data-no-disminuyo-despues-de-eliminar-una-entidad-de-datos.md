@@ -14,7 +14,7 @@ symptomFilters:
   - Interrupción del flujo
 ---
 
-Después de eliminar una [entidad de datos](/es/docs/tutorials/entidade-de-dados) mediante la interfaz de Master Data v1, esperas que el volumen facturado mensualmente disminuya, pero esto no ocurre.
+Después de eliminar una [entidad de datos](/es/docs/tutorials/entidade-de-datos) mediante la interfaz de Master Data v1, esperas que el volumen facturado mensualmente disminuya, pero esto no ocurre.
 
 Este problema ocurre porque la eliminación de una entidad de datos mediante la interfaz no elimina los documentos (registros) ya almacenados en ella. Esos documentos siguen siendo contabilizados en la facturación mensual hasta que se eliminan mediante la API.
 
