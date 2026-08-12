@@ -4,7 +4,7 @@ createdAt: 2026-06-17T00:00:00.000Z
 updatedAt: 2026-06-17T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-slugEN: manage-vtex-cx-platform-members
+slugEN: managing-vtex-cx-platform-members
 locale: en
 ---
 
