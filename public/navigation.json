@@ -35814,217 +35814,6 @@
                 },
                 {
                   "name": {
-                    "en": "Store Settings - Storefront",
-                    "es": "Configuración de la Tienda - Storefront",
-                    "pt": "Configurações da Loja - Storefront"
-                  },
-                  "slug": {
-                    "en": "store-settings---storefront-subcategory",
-                    "es": "configuracion-de-la-tienda---storefront-subcategoria",
-                    "pt": "configurações-da-loja---storefront-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Changing default system texts displayed in the store",
-                        "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
-                        "pt": "Alterar textos padrão do sistema exibidos na loja"
-                      },
-                      "slug": {
-                        "en": "changing-default-system-texts-displayed-in-the-store",
-                        "es": "cambiar-los-textos-predeterminados-del-sistema",
-                        "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring file types",
-                        "es": "Configurar tipos de archivo",
-                        "pt": "Configurando tipos de arquivos"
-                      },
-                      "slug": {
-                        "en": "configuring-file-types",
-                        "es": "configurar-tipos-de-archivo",
-                        "pt": "configurando-tipos-de-arquivos"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring PWA in your Store Framework store",
-                        "es": "Configurar PWA en tu tienda Store Framework",
-                        "pt": "Configurando PWA em sua loja Store Framework"
-                      },
-                      "slug": {
-                        "en": "configuring-pwa-in-your-store-framework-store",
-                        "es": "configurar-pwa-en-tu-tienda-store-framework",
-                        "pt": "configurando-pwa-em-sua-loja-store-framework"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring SEO in CMS Portal (Legacy) stores",
-                        "es": "Configurar SEO en tiendas CMS Portal (Legado)",
-                        "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
-                      },
-                      "slug": {
-                        "en": "configuring-seo-in-legacy-cms-portal-stores",
-                        "es": "configurar-seo-en-tiendas-cms-portal-legado",
-                        "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Configuring SEO in your Store Framework store",
-                        "es": "Configurar SEO en tu tienda Store Framework",
-                        "pt": "Configurando SEO em sua loja Store Framework"
-                      },
-                      "slug": {
-                        "en": "configuring-seo-in-your-store",
-                        "es": "configurar-seo-en-la-tienda",
-                        "pt": "configurando-seo-em-sua-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Enabling PWA push notifications in your store",
-                        "es": "Habilitar las notificaciones PWA de la tienda",
-                        "pt": "Habilitando notificações PWA da loja"
-                      },
-                      "slug": {
-                        "en": "enabling-pwa-push-notifications-in-your-store",
-                        "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
-                        "pt": "habilitando-notificacoes-pwa-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Filling in system settings",
-                        "es": "Cómo llenar las configuraciones del sistema",
-                        "pt": "Como preencher as configurações do sistema"
-                      },
-                      "slug": {
-                        "en": "filling-in-system-settings",
-                        "es": "configuraciones-sistema",
-                        "pt": "preenchendo-as-configuracoes-do-sistema"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to install a Service Worker",
-                        "es": "Cómo instalar un Service Worker",
-                        "pt": "Como instalar um Service Worker"
-                      },
-                      "slug": {
-                        "en": "how-to-install-a-service-worker",
-                        "es": "como-instalar-un-service-worker",
-                        "pt": "como-instalar-um-service-worker"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Set the store display texts",
-                        "es": "Definir los textos de visualización de la tienda",
-                        "pt": "Definir os textos de exibição da loja"
-                      },
-                      "slug": {
-                        "en": "set-the-store-display-language",
-                        "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
-                        "pt": "definir-o-idioma-de-exibicao-da-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
-                      },
-                      "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Store - Overview",
-                        "es": "Tienda - Información general",
-                        "pt": "Loja - Visão geral"
-                      },
-                      "slug": {
-                        "en": "cms-store-overview",
-                        "es": "cms-tienda-vision-general",
-                        "pt": "cms-loja-visao-geral"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Storefront Settings - Overview",
-                        "es": "Configuración de Storefront - Información general",
-                        "pt": "Configurações de Storefront - Visão geral"
-                      },
-                      "slug": {
-                        "en": "storefront-settings-overview",
-                        "es": "vision-general-configuracion-de-storefront",
-                        "pt": "visao-geral-configuracoes-de-storefront"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
-                        "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
-                        "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
-                      },
-                      "slug": {
-                        "en": "what-are-the-internal-utms",
-                        "es": "que-son-las-utms-internas",
-                        "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": {
                     "en": "Styles",
                     "es": "Estilos",
                     "pt": "Estilos"
@@ -37223,6 +37012,217 @@
                     "en": "introduction-to-cx",
                     "es": "introduccion-a-cx",
                     "pt": "introducao-ao-cx"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Store Settings - Storefront",
+                "es": "Configuración de la Tienda - Storefront",
+                "pt": "Configurações da Loja - Storefront"
+              },
+              "slug": {
+                "en": "store-settings---storefront-subcategory",
+                "es": "configuracion-de-la-tienda---storefront-subcategoria",
+                "pt": "configurações-da-loja---storefront-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Changing default system texts displayed in the store",
+                    "es": "Cambiar los textos predeterminados del sistema que aparecen en la tienda",
+                    "pt": "Alterar textos padrão do sistema exibidos na loja"
+                  },
+                  "slug": {
+                    "en": "changing-default-system-texts-displayed-in-the-store",
+                    "es": "cambiar-los-textos-predeterminados-del-sistema",
+                    "pt": "alterar-textos-padrao-do-sistema-exibidos-na-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring file types",
+                    "es": "Configurar tipos de archivo",
+                    "pt": "Configurando tipos de arquivos"
+                  },
+                  "slug": {
+                    "en": "configuring-file-types",
+                    "es": "configurar-tipos-de-archivo",
+                    "pt": "configurando-tipos-de-arquivos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring PWA in your Store Framework store",
+                    "es": "Configurar PWA en tu tienda Store Framework",
+                    "pt": "Configurando PWA em sua loja Store Framework"
+                  },
+                  "slug": {
+                    "en": "configuring-pwa-in-your-store-framework-store",
+                    "es": "configurar-pwa-en-tu-tienda-store-framework",
+                    "pt": "configurando-pwa-em-sua-loja-store-framework"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring SEO in CMS Portal (Legacy) stores",
+                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
+                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
+                  },
+                  "slug": {
+                    "en": "configuring-seo-in-legacy-cms-portal-stores",
+                    "es": "configurar-seo-en-tiendas-cms-portal-legado",
+                    "pt": "configurando-seo-em-sua-loja-cms-portal-legado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring SEO in your Store Framework store",
+                    "es": "Configurar SEO en tu tienda Store Framework",
+                    "pt": "Configurando SEO em sua loja Store Framework"
+                  },
+                  "slug": {
+                    "en": "configuring-seo-in-your-store",
+                    "es": "configurar-seo-en-la-tienda",
+                    "pt": "configurando-seo-em-sua-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Enabling PWA push notifications in your store",
+                    "es": "Habilitar las notificaciones PWA de la tienda",
+                    "pt": "Habilitando notificações PWA da loja"
+                  },
+                  "slug": {
+                    "en": "enabling-pwa-push-notifications-in-your-store",
+                    "es": "habilitar-las-notificaciones-pwa-de-la-tienda",
+                    "pt": "habilitando-notificacoes-pwa-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Filling in system settings",
+                    "es": "Cómo llenar las configuraciones del sistema",
+                    "pt": "Como preencher as configurações do sistema"
+                  },
+                  "slug": {
+                    "en": "filling-in-system-settings",
+                    "es": "configuraciones-sistema",
+                    "pt": "preenchendo-as-configuracoes-do-sistema"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to install a Service Worker",
+                    "es": "Cómo instalar un Service Worker",
+                    "pt": "Como instalar um Service Worker"
+                  },
+                  "slug": {
+                    "en": "how-to-install-a-service-worker",
+                    "es": "como-instalar-un-service-worker",
+                    "pt": "como-instalar-um-service-worker"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Set the store display texts",
+                    "es": "Definir los textos de visualización de la tienda",
+                    "pt": "Definir os textos de exibição da loja"
+                  },
+                  "slug": {
+                    "en": "set-the-store-display-language",
+                    "es": "definir-el-idioma-de-visualizacion-de-la-tienda",
+                    "pt": "definir-o-idioma-de-exibicao-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up the standard size for the zoom image",
+                    "es": "Configurar el tamaño estándar de la imagen de zoom",
+                    "pt": "Configurar o tamanho padrão da imagem de zoom"
+                  },
+                  "slug": {
+                    "en": "setting-up-the-standard-size-for-the-zoom-image",
+                    "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
+                    "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Store - Overview",
+                    "es": "Tienda - Información general",
+                    "pt": "Loja - Visão geral"
+                  },
+                  "slug": {
+                    "en": "cms-store-overview",
+                    "es": "cms-tienda-vision-general",
+                    "pt": "cms-loja-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Storefront Settings - Overview",
+                    "es": "Configuración de Storefront - Información general",
+                    "pt": "Configurações de Storefront - Visão geral"
+                  },
+                  "slug": {
+                    "en": "storefront-settings-overview",
+                    "es": "vision-general-configuracion-de-storefront",
+                    "pt": "visao-geral-configuracoes-de-storefront"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What are the internal UTMs utmi_cp, utmi_pc and utmi_p",
+                    "es": "Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p",
+                    "pt": "O que são as UTMs internas utmi_cp, utmi_pc e utmi_p"
+                  },
+                  "slug": {
+                    "en": "what-are-the-internal-utms",
+                    "es": "que-son-las-utms-internas",
+                    "pt": "o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p"
                   },
                   "origin": "",
                   "type": "markdown",
