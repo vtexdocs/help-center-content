@@ -33467,12 +33467,12 @@
             {
               "name": {
                 "en": "Audit",
-                "es": "Audit",
+                "es": "Auditoría",
                 "pt": "Auditoria"
               },
               "slug": {
                 "en": "audit",
-                "es": "audit",
+                "es": "auditoria",
                 "pt": "auditoria"
               },
               "origin": "",
@@ -39142,7 +39142,7 @@
                 "pt": "Auditoria"
               },
               "slug": {
-                "en": "audit",
+                "en": "audit-category",
                 "es": "auditoria",
                 "pt": "auditoria"
               },
