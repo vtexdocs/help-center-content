@@ -190,7 +190,7 @@ Ao salvar e enviar, as informações da categoria Amazon e dos atributos são re
 Na tela de cadastro, o seller pode usar o botão `Sugerir` nos campos **Título**, **Descrição** e **Palavras-chave** para gerar sugestões com assistência de Inteligência Artificial.
 
 - O título enviado para a Amazon deve iniciar com o nome da marca. É possível visualizar e editar o título no campo correspondente.
-- No mínimo 3 palavras-chave devem ser cadastradas no SKU.
+- No mínimo três palavras-chave devem ser cadastradas no SKU.
 - As sugestões de categoria são feitas com base no título e na descrição. Recomendamos selecionar uma das sugestões da Amazon, mas você pode selecionar uma categoria diferente a partir da árvore de categorias.
 
 Ao clicar em `Sugerir` no campo **Descrição**, um card **Sugestão de descrição** é exibido com o texto gerado. O seller pode aplicar a sugestão, regenerá-la ou fechá-la.
