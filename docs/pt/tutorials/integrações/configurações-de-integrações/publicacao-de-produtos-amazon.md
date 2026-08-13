@@ -1,18 +1,11 @@
 ---
 title: 'Publicação de produtos Amazon'
-id: UPFBgVuLkzhh38sTZE3raW
-status: PUBLISHED
 createdAt: 2026-07-24T18:40:00.000Z
 updatedAt: 2026-07-24T18:40:00.000Z
-publishedAt: 2026-07-24T18:40:00.000Z
-firstPublishedAt: 2026-07-24T18:40:00.000Z
 contentType: tutorial
 productTeam: Channels
-author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: amazon-product-publishing
-legacySlug: publicacao-de-produtos-amazon
 locale: pt
-subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
 A **Publicação de produtos** é o ponto único do Admin VTEX para disponibilizar os produtos do seu catálogo na Amazon. A partir dela, é possível tanto vincular SKUs a anúncios que já existem na Amazon quanto criar anúncios novos.
