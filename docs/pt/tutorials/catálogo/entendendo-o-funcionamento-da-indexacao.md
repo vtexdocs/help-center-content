@@ -31,7 +31,7 @@ Toda vez que há alguma alteração como as listadas abaixo em um produto, a rei
 
 Uma vez que o produto esteja marcado para reindexar, ele fica com o status _indexação pendente_ na listagem de produtos do Admin VTEX. O indexador coloca esses produtos em uma fila, com um tempo de espera de 2 minutos, para que sejam processados. Após os 2 minutos, o produto fica disponível para o consumo da indexação. Nesse processo, todos os módulos da VTEX são consultados, atualizando preço e disponibilidade para cada política comercial. O tempo médio até a finalização desse processo é de 4 minutos.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/catálogo-visão-geral/entendendo-o-funcionamento-da-indexacao_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/entendendo-o-funcionamento-da-indexacao_1.png)
 
 ## Relatório de Indexação
 

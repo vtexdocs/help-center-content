@@ -16853,9 +16853,9 @@
           "children": [
             {
               "name": {
-                "en": "Apps",
-                "es": "Apps",
-                "pt": "Apps"
+                "en": "Apps management",
+                "es": "Gestión de apps",
+                "pt": "Gerenciamento de apps"
               },
               "slug": {
                 "en": "apps-overview",
