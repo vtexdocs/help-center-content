@@ -34948,21 +34948,6 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Pick and Pack: Fulfillment",
-                    "es": "VTEX Pick and Pack: Fulfillment",
-                    "pt": "VTEX Pick and Pack: Fulfillment"
-                  },
-                  "slug": {
-                    "en": "vtex-pick-and-pack-fulfillment",
-                    "es": "vtex-pick-and-pack-fulfillment",
-                    "pt": "vtex-pick-and-pack-fulfillment"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "VTEX Pick and Pack: Insights",
                     "es": "VTEX Pick and Pack: Análisis",
                     "pt": "VTEX Pick and Pack: Insights"
