@@ -20788,29 +20788,14 @@
             },
             {
               "name": {
-                "pt": "Perfis de acesso e permissões",
-                "en": "Perfis de acesso e permissões",
-                "es": "Perfis de acesso e permissões"
-              },
-              "slug": {
-                "pt": "perfis-de-acesso-e-permissoes",
-                "en": "",
-                "es": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Roles and permissions",
                 "es": "Roles y permisos",
-                "pt": "Roles and permissions"
+                "pt": "Perfis de acesso e permissões"
               },
               "slug": {
                 "en": "roles-and-permissions",
                 "es": "roles-y-permisos",
-                "pt": ""
+                "pt": "perfis-de-acesso-e-permissoes"
               },
               "origin": "",
               "type": "markdown",
