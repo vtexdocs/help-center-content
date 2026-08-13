@@ -4,7 +4,7 @@ createdAt: "2026-07-08T10:00:00.219Z"
 updatedAt: "2026-07-21T10:00:00.219Z"
 contentType: tutorial
 productTeam: CMS
-slugEN: perfis-de-acesso-e-permissoes
+slugEN: roles-and-permissions
 locale: pt
 ---
 
