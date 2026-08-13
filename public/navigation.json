@@ -511,6 +511,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Creative approval available for Network campaigns in VTEX Ads",
+                    "es": "Aprobación de creativos disponible para campañas Network en VTEX Ads",
+                    "pt": "Aprovação de criativos disponível para campanhas Network no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-08-12-creative-approval-available-for-network-campaigns-in-vtex-ads",
+                    "es": "2026-08-12-aprobacion-de-creativos-disponible-para-campanas-network-en-vtex-ads",
+                    "pt": "2026-08-12-aprovacao-de-criativos-disponivel-para-campanhas-network-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: New orders listing available in open beta",
                     "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
@@ -38942,6 +38957,36 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "How to review and approve campaigns and creatives in VTEX Ads",
+                "es": "Cómo revisar y aprobar campañas y creativos en VTEX Ads",
+                "pt": "Como revisar e aprovar campanhas e criativos no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-review-and-approve-campaigns-and-creatives",
+                "es": "como-revisar-y-aprobar-campanas-y-creativos-en-vtex-ads",
+                "pt": "como-revisar-e-aprovar-campanhas-e-criativos-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Ads campaign and creative approval",
+                "es": "Aprobación de campañas y creativos en VTEX Ads",
+                "pt": "Aprovação de campanhas e criativos no VTEX Ads"
+              },
+              "slug": {
+                "en": "vtex-ads-campaign-and-creative-approval",
+                "es": "aprobacion-de-campanas-y-creativos-en-vtex-ads",
+                "pt": "aprovacao-de-campanhas-e-criativos-no-vtex-ads"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "VTEX Ads metrics and attribution",
