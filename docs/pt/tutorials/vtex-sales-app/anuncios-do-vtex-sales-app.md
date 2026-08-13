@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-A nova área de anúncios no VTEX Sales App conta com dois tipos principais de anúncios: produtos específicos ou resultados de busca. Essa flexibilidade permite que os merchants adaptem suas estratégias de marketing de acordo com suas necessidades e objetivos específicos, promovendo produtos individuais ou grupos de produtos relacionados.
+A área de Anúncios no VTEX Sales App conta com dois tipos principais de anúncios: produtos específicos ou resultados de busca. Essa flexibilidade permite que os merchants adaptem suas estratégias de marketing de acordo com suas necessidades e objetivos específicos, promovendo produtos individuais ou grupos de produtos relacionados.
 
 Para customizar a vitrine de uma loja, os lojistas podem adicionar uma página de `Anúncio por loja` especificando o ID da loja no [Master Data](https://developers.vtex.com/docs/guides/master-data-introduction) ao qual o anúncio será vinculado, permitindo criar anúncios personalizados para cada loja.
 

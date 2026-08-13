@@ -295,6 +295,8 @@ Tanto la medición como la facturación siguen un ciclo mensual:
 - Al final de cada mes, se genera un snapshot del volumen de documentos almacenados en entidades no nativas.
 - Hasta el día 30 de cada mes, VTEX calcula los valores correspondientes al uso de Master Data y los créditos aplicables para la próxima factura.
 
+> ⚠️ Eliminar una entidad de datos a través de la interfaz de Master Data v1 no elimina los documentos (registros) ya almacenados. El volumen facturado permanece sin cambios hasta que los registros se eliminen mediante la API. Para eliminar documentos y reducir la facturación, consulta la guía [Deleting documents in Master Data v1](https://developers.vtex.com/docs/guides/deleting-documents-in-master-data-v1) en el portal de desarrolladores.
+
 > ℹ️ Para hacer seguimiento del volumen de documentos en entidades personalizadas a lo largo del mes, consulta el dashboard **Uso de Master Data** en el Admin VTEX. Este dashboard se actualiza semanalmente y está destinado únicamente al seguimiento del uso. Las instrucciones de acceso están disponibles en Consultar el uso de Master Data en el Admin VTEX.
 
 > ℹ️ Para saber más sobre detalles de las facturas, consulta cómo [Descargar las facturas de VTEX](https://help.vtex.com/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
