@@ -6,7 +6,7 @@ createdAt: 2026-08-17T00:00:00.000Z
 updatedAt: 2026-08-17T00:00:00.000Z
 contentType: updates
 productTeam: Apps
-slugEN: 2026-08-17-breaking-change-availability-notify-new-mandatory-permission
+slugEN: 2026-08-17-breaking-change-availability-notify-new-required-permission
 locale: en
 announcementSynopsisEN: 'As of September 21, 2026, the Download Notification Requests permission will be required to download, process, or delete notification requests from the Availability Notify app'
 tags:
