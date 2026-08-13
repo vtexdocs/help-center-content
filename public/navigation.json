@@ -69606,6 +69606,21 @@
             },
             {
               "name": {
+                "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
+                "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
+                "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
+              },
+              "slug": {
+                "en": "amazon-nfe-for-amazon-dba-easy-ship-orders-rejected-when-a-promotional-discount-is-applied-by-the-buyer",
+                "es": "amazon-los-pedidos-nfe-para-amazon-dba-easy-ship-son-rechazados-cuando-el-comprador-aplica-un-descuento-promocional",
+                "pt": "amazon-nfe-para-pedidos-amazon-dba-easy-ship-rejeitados-quando-um-desconto-promocional-e-aplicado-pelo-comprador"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
                 "pt": "Amazon Fluxo de cancelamento de pedidos"
