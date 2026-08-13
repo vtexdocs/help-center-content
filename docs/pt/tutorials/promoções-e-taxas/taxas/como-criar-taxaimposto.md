@@ -1,5 +1,5 @@
 ---
-title: 'Criar taxa/imposto'
+title: 'Taxa'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
@@ -13,6 +13,7 @@ slugEN: creating-surchargestaxes
 legacySlug: como-criar-taxaimposto
 locale: pt
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm
+categoryCover: true
 ---
 
 Taxa é o contrário de promoção, ou seja, é um adicional percentual inserido no preço do produto, visando aumentar o valor. A taxa pode ser configurada considerando diversos tipos de condições, como faixa de CEP, departamento e marca dos produtos, cluster de cliente etc. A taxa é inserida somente no carrinho, na área denominada **Imposto**.

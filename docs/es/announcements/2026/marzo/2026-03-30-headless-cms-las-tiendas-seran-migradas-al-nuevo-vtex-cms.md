@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Headless CMS (Legacy): las tiendas serán migradas al nuevo VTEX CMS"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-04-05T11:00:52.219Z

@@ -1,5 +1,5 @@
 ---
-title: 'Checkout VTEX - Información general'
+title: 'Checkout'
 id: 7wcprkM7yZUflOqbzAN5SI
 status: PUBLISHED
 createdAt: 2022-07-06T12:13:18.284Z
@@ -35,7 +35,7 @@ A continuación, se describe la experiencia de compra de un cliente, además de 
 
 Siempre que el cliente realiza un cambio en el carrito (agrega o elimina ítems), o cuando se actualiza la pantalla del checkout, se ejecuta la siguiente cadena de procesos internos en el módulo Checkout.
 
-![Checkout overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/visión-de-conjunto-de-checkout/checkout-vtex-vista-general_1.png)
+![Checkout overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/checkout-vtex-vista-general_1.png)
 
 > ℹ️ Si un [Seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#), puede entregar uno o más ítems de los que eligió el cliente, se realizarán simulaciones (tal como se muestra a la derecha de la imagen) para determinar qué sellers serán los responsables de entregar los ítems. Obtén más información en [Selección de sellers white label](/es/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Campaign Audiences, promotions, taxes and coupons - Overview'
+title: 'Promotions & Taxes'
 id: tutorials_326
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:08.926Z
@@ -13,10 +13,9 @@ slugEN: overview-pricing-module
 legacySlug: overview-pricing-module
 locale: en
 subcategoryId: 18wHIuEV5wc6xUjeWKq9Xc
-order: 1
 ---
 
-The Promotions & Taxes module is the place where the configuration of promotions and fees applied to your online store is carried out. Here, you can also create coupons to be associated to promotions. According to the configuration, a promotion can be scheduled, enabled or disabled and, after its creation, it can also be found through search or filter tools, and filed.
+The **Promotions & Taxes** module is the place where the configuration of promotions and fees applied to your online store is carried out. Here, you can also create coupons to be associated to promotions. According to the configuration, a promotion can be scheduled, enabled or disabled and, after its creation, it can also be found through search or filter tools, and filed.
 
 There are four departments within this module responsible for configuring each of these features. And they are:
 

@@ -12,6 +12,7 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
       - [Announcements fields](#announcements-fields)
       - [Track fields](#track-fields)
       - [Troubleshooting fields](#troubleshooting-fields)
+      - [Category cover field (tracks and tutorials only)](#category-cover-field-tracks-and-tutorials-only)
     - [Applying filters to an announcement](#applying-filters-to-an-announcement)
       - [Announcements Type filters](#announcements-type-filters)
       - [Announcements Area filters](#announcements-area-filters)
@@ -103,6 +104,25 @@ In addition to the standard fields for all articles, check the specific fields f
 
 - **domainFilters**: Troubleshooting Area filters. These values identify the product or area in which the user is most likely to associate the issue (for example, `Checkout`, `Logistics`, `Master Data`).
 - **symptomFilters**: Troubleshooting Type filters. These values identify the problem type the user is experiencing (for example, `Loading issue`, `Misconfiguration`, `Flow interruption`).
+
+#### Category cover field (tracks and tutorials only)
+
+- **categoryCover**: Marks a folder's own overview article as that category's landing page (`true` or omitted).
+
+This field only has an effect for folders that have subfolders. When one of the direct `.md` files in such a folder is marked `categoryCover: true`, that article becomes the entry point for the whole category: clicking the category in the navigation opens that article directly, instead of just expanding the list of subcategories.
+
+Rules for using `categoryCover`:
+
+- **It only applies to the `tracks` and `tutorials` sections.** It has no effect in `announcements`, `faq`, or `troubleshooting`.
+- **Only one file per folder can be marked as cover.** If more than one file in the same folder has `categoryCover: true`, the navigation generator ignores the flag for that folder and falls back to a regular category, logging a warning.
+- **Set it on the PT file only.** Marking `categoryCover: true` on an EN or ES file still works, but the navigation generator logs a warning asking for it to be moved to the PT version.
+- **The folder needs subfolders for the cover to apply.** If the folder has no subfolders, `categoryCover` has no effect and the article is listed normally.
+
+Example frontmatter for a cover article:
+
+```yaml
+categoryCover: true
+```
 
 ### Applying filters to an announcement
 

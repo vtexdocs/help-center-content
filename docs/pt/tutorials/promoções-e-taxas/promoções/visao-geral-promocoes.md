@@ -1,5 +1,5 @@
 ---
-title: 'Promoções - Visão geral'
+title: 'Promoções'
 id: 3PeHVYcooLIDmA33IAnjhm
 status: PUBLISHED
 createdAt: 2023-03-29T19:29:50.947Z
@@ -14,6 +14,7 @@ legacySlug: visao-geral-promocoes
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 order: 1
+categoryCover: true
 ---
 
 Uma promoção é um desconto concedido ao cliente, associado a um ou mais produtos do carrinho, ou ainda ao frete ou a um brinde. Na VTEX, o lojista pode criar uma série de regras que, de acordo com o contexto da compra, determinarão se e como o desconto será aplicado. 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Exporting customers who signed up for the availability notification (Notify me)'
 id: 3Yr19DMQukGeIImUeCwIao
 status: PUBLISHED
@@ -15,20 +15,19 @@ locale: en
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
-> ⚠️ This article applies only to the **Notify me** feature in stores that use [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), it is necessary to follow the instructions on the [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify) guide.
+> ⚠️ This article applies only to the **Notify me** feature in stores that use [CMS Portal (Legacy)](/en/docs/tracks/legacy-cms-portal). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), it is necessary to follow the instructions on the [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify) guide.
 
 To export the data of customers who registered on the availability notification option ([Notify me](/en/docs/tutorials/setting-up-the-notify-me-option)), follow the steps below:
 
-1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
-2. Click on __Reports__.
-3. Click on the __Inventory Shortage__ tab.
-4. Click __Export__.
-5. If you wish, select filters to refine your query by clicking __Filter results or do a search__.
+1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
+2. Click on **Reports**.
+3. Click on the **Inventory Shortage** tab.
+4. Click **Export**.
+5. If you wish, select filters to refine your query by clicking **Filter results or do a search**.
 
     We recommend exporting a maximum of 10,000 records at a time. If the number is higher than this, the process may take longer.
-5. Check that your email is correct in the __Notification e-mail__ field. The report will be sent to the email you entered in this field.
-5. Click `Export list with names`.
-6. After your request has been processed, you can opt to __Click here to download your file__, if you wish.
+6. Check that your email is correct in the **Notification e-mail** field. The report will be sent to the email you entered in this field.
+7. Click `Export list with names`.
+8. After your request has been processed, you can opt to **Click here to download your file**, if you wish.
 
     You will also receive the report with the requested information by email.
-

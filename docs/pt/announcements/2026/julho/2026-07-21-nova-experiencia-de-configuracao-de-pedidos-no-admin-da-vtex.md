@@ -6,7 +6,7 @@ createdAt: 2026-07-21T13:00:00.000Z
 updatedAt: 2026-07-21T13:00:00.000Z
 contentType: updates
 productTeam: Orders
-slugEN: 2026-07-21-new-orders-configuration-experience-inside-vtex-admin
+slugEN: 2026-07-21-new-order-configuration-experience-in-the-vtex-admin
 locale: pt
 announcementSynopsisPT: 'A página de configurações de pedido e checkout agora é uma experiência independente e mais rápida no Admin da VTEX.'
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Anuncios de VTEX Sales App'
 id: 3UtOFwbwD4muz3p72RBPmC
 status: PUBLISHED
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-La nueva funcionalidad de anuncios de VTEX Sales App tiene dos tipos principales de anuncios: productos específicos y resultados de búsqueda. Esta flexibilidad permite que los administradores de la tienda adapten las estrategias de marketing a sus necesidades y objetivos específicos y puedan promover productos individuales o grupos de productos relacionados.
+La funcionalidad de Anuncios de VTEX Sales App tiene dos tipos principales de anuncios: productos específicos y resultados de búsqueda. Esta flexibilidad permite que los administradores de la tienda adapten las estrategias de marketing a sus necesidades y objetivos específicos y puedan promover productos individuales o grupos de productos relacionados.
 
 Para personalizar la vitrina de una tienda, los retailers pueden agregar una página de `Anuncio por tienda` especificando el ID de la tienda a la que se asociará el anuncio en [Master Data](https://developers.vtex.com/docs/guides/master-data-introduction), lo que permite crear vitrinas personalizadas para cada tienda.
 
