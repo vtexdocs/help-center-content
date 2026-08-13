@@ -1,11 +1,12 @@
 ---
-title: "Visão geral do CMS"
+title: "CMS"
 createdAt: "2026-03-27T17:08:52.219Z"
 updatedAt: "2026-03-30T17:08:52.219Z"
 contentType: tutorial
 productTeam: CMS
 slugEN: cms-overview
 locale: pt
+categoryCover: true
 ---
 
 <div style="background-color:#EBF5FB; border-left: 2px solid #3498DB; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
