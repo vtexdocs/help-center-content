@@ -199,7 +199,7 @@ Ao clicar em `Sugerir` no campo **Descrição**, um card **Sugestão de descriç
 
 > ℹ️ Verifique as informações geradas antes de aplicar.
 
-### Preenchendo atributos
+### Preencher atributos
 
 Ao abrir o formulário de cadastro, a IA sugere e aplica automaticamente uma categoria para o produto. No canto inferior da tela, um aviso aparecerá  para confirmar que a categoria foi sugerida por IA. Se a sugestão não fizer sentido, o seller pode desfazê-la clicando no botão `Desfazer`.
 
