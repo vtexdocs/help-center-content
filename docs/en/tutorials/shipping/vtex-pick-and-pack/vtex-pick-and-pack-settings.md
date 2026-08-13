@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Settings'
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-07-24T00:00:00.000Z
+updatedAt: 2026-08-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-settings
@@ -453,6 +453,12 @@ To edit or delete a user, follow the steps below:
 3. Click the picker you want to edit or delete.
 4. Edit the information you want to change.
 5. Click `Update` to save the changes or `Delete` to delete the user.
+
+### Access VTEX Pick and Pack in the VTEX Admin
+
+Pickers created in this tab can only access the mobile app. Users who need to monitor the operation in the **VTEX Admin** require [roles](/en/docs/tutorials/roles) and [License Manager resources](/en/docs/tutorials/license-manager-resources), and are not managed in this tab.
+
+We recommend creating a role dedicated to the fulfillment operation and assigning it to the users responsible for it. For these users to view the [Insights](/en/docs/tutorials/vtex-pick-and-pack-insights) page, the role must include the **Insights Metrics** resource from the **Insights** product.
 
 ## Integration
 

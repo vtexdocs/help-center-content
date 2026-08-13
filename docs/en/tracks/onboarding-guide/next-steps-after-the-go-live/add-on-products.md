@@ -3,7 +3,7 @@ title: 'Add-on products'
 id: 1t2QBZvrOBSLgvHaAV9fYm
 status: PUBLISHED
 createdAt: 2024-02-20T20:29:42.983Z
-updatedAt: 2025-05-13T20:19:47.676Z
+updatedAt: 2026-08-13T00:00:00.000Z
 publishedAt: 2025-05-13T20:19:47.676Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
@@ -42,7 +42,7 @@ VTEX Pick and Pack is a solution for managing and ensuring complete visibility t
 
 **VTEX Pick and Pack** consists of: 
 
-- [Pick and Pack app](/en/docs/tutorials/vtex-pick-and-pack-fulfillment): Manages orders in the store or warehouse, allowing you to customize the order picking method, select packaging types per product, and remove or add products according to the store's inventory.
+- [Pick and Pack app](/en/docs/tutorials/vtex-pick-and-pack): Manages orders in the store or warehouse, allowing you to customize the order picking method, select packaging types per product, and remove or add products according to the store's inventory.
 
 - [Last Mile app](/en/docs/tutorials/vtex-pick-and-pack-last-mile): Coordinates the shipping of packages from warehouses or stores to the customer's address by creating efficient delivery routes, selecting available drivers, and tracking the exact location of the order.
 
