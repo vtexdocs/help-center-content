@@ -39,7 +39,7 @@ Para melhorar a granularidade de acesso e aplicar boas práticas de segurança, 
 
 Antes de **21 de setembro de 2026**, toda conta que faz uso das operações **Download Requests**, **Process Unsent** ou **Delete Request** deve conceder o recurso **Download Notification Requests** aos usuários e chaves de API relevantes:
 
-1. No Admin VTEX, acesse **Configurações da conta \> Usuários \> Perfis de acesso**.
+1. No Admin VTEX, acesse **Configurações da conta > Usuários > Perfis de acesso**.
 2. [Crie um perfil de acesso personalizado](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso#criar-perfil-de-acesso-personalizado) ou [edite um perfil existente](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso) e adicione o recurso **Download Notification Requests** (produto **Availability Notify**).
 3. Atribua esse perfil a cada [usuário administrativo](https://help.vtex.com/pt/docs/tutorials/gerenciar-usuarios-administrativos#editar-um-usuario) que precisa baixar ou processar pedidos de notificação.
 4. Atribua esse perfil a cada [chave de API](https://help.vtex.com/pt/docs/tutorials/chaves-geradas#editar-chave-gerada) usada por integrações que chamam essas rotas.

@@ -1,6 +1,6 @@
 ---
 title: 'Breaking change: New required permission for the Availability Notify app'
-slug: '2026-08-17-breaking-change-availability-notify-new-mandatory-permission'
+slug: '2026-08-17-breaking-change-availability-notify-new-required-permission'
 hidden: false
 createdAt: 2026-08-17T00:00:00.000Z
 updatedAt: 2026-08-17T00:00:00.000Z
@@ -15,7 +15,7 @@ tags:
   - Identity
 ---
 
-As of **September 21, 2026**, administrative operations for the [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify) app will require the [License Manager resource](https://help.vtex.com/docs/tutorials/license-manager-resources) **Download Notification Requests**. Users and [API keys](https://help.vtex.com/docs/tutorials/api-keys) without this resource will receive permission or authorization errors.
+As of **September 21, 2026**, administrative operations for the [Availability Notify](https://developers.vtex.com/docs/apps/vtex.availability-notify) app will require the [License Manager resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources) **Download Notification Requests**. Users and [API keys](https://help.vtex.com/en/docs/tutorials/api-keys) without this resource will receive permission or authorization errors.
 
 ## What has changed?
 
@@ -39,10 +39,10 @@ To provide more granular access control and follow security best practices, we w
 
 Before **September 21, 2026**, every account that uses the **Download Requests**, **Process Unsent**, or **Delete Request** operations must grant the **Download Notification Requests** feature to the relevant users and API keys:
 
-1. In the VTEX Admin, go to **Account Settings \> Users \> Roles**.
-2. [Create a custom role](https://help.vtex.com/docs/tutorials/creating-roles) or [edit an existing role](https://help.vtex.com/docs/tutorials/roles) and add the **Download Notification Requests** resource (**Availability Notify** product).
-3. Assign this profile to every [admin user](https://help.vtex.com/docs/tutorials/managing-admin-users) who needs to download or process notification requests.
-4. Assign this role to each [API key](https://help.vtex.com/docs/tutorials/generated-keys) used by integrations that call these routes.
+1. In the VTEX Admin, go to **Account Settings > Users > Roles**.
+2. [Create a custom role](https://help.vtex.com/en/docs/tutorials/creating-roles) or [edit an existing role](https://help.vtex.com/en/docs/tutorials/roles) and add the **Download Notification Requests** resource (**Availability Notify** product).
+3. Assign this profile to every [admin user](https://help.vtex.com/en/docs/tutorials/managing-admin-users) who needs to download or process notification requests.
+4. Assign this role to each [API key](https://help.vtex.com/en/docs/tutorials/generated-keys) used by integrations that call these routes.
 
 As of **September 21, 2026**, users and API keys without the feature will be blocked. Users who attempt to perform any of these operations will receive an alert in the Admin indicating that they don't have the required permission. Integrations that call these routes will receive an HTTP 403 Forbidden response.
 
