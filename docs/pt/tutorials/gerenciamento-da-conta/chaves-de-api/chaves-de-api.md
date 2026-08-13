@@ -13,6 +13,7 @@ slugEN: api-keys
 legacySlug: chaves-de-api-beta
 locale: pt
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
+categoryCover: true
 ---
 
 Para cada integração via API utilizada para conectar sua conta VTEX com sistemas externos, será necessária a criação de uma **chave de API**, também conhecida em inglês como *API key*. Para cada chave, existe um **token de API** (ou *API token*), que funciona como uma senha para uso daquela credencial.

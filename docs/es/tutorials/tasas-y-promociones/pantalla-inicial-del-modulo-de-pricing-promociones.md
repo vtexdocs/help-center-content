@@ -1,5 +1,5 @@
 ---
-title: 'Tasas y Promociones - Información general'
+title: 'Tasas y Promociones'
 id: tutorials_326
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:08.926Z

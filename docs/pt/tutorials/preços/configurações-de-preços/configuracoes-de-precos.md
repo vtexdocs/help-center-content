@@ -13,6 +13,7 @@ slugEN: prices-settings
 legacySlug: configuracao-de-precos
 locale: pt
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie
+categoryCover: true
 ---
 
 A página **Configuração de loja > Produto > Configuração de preços** no Admin VTEX permite alterar configurações gerais de precificação forma prática e rápida.

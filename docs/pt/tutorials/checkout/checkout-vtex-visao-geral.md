@@ -1,5 +1,5 @@
 ---
-title: 'Checkout VTEX - Visão geral'
+title: 'Checkout'
 id: 7wcprkM7yZUflOqbzAN5SI
 status: PUBLISHED
 createdAt: 2022-07-06T12:13:18.284Z
@@ -13,7 +13,7 @@ slugEN: checkout-vtex-overview
 legacySlug: checkout-vtex-visao-geral
 locale: pt
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
-order: 1
+categoryCover: true
 ---
 
 O Checkout é a etapa final no processo de compras online e também considerada como uma das mais importantes para a taxa de conversão de vendas em uma loja. Na VTEX, o módulo Checkout é responsável por:
@@ -36,7 +36,7 @@ Os passos abaixo demonstram a experiência de compra de um cliente e o papel do 
 
 Sempre que o cliente realiza uma modificação no carrinho (adição ou remoção de itens), ou que a tela do Checkout é atualizada, a seguinte cadeia de processos internos no Checkout é executada.
 
-![Checkout overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/visão-geral-do-checkout/checkout-vtex-visao-geral_1.png)
+![Checkout overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/checkout-vtex-visao-geral_1.png)
 
 > ℹ️ Caso um ou mais itens escolhidos pelo cliente sejam elegíveis para entrega por um [Seller white label](/pt/docs/tutorials/seller-white-label#o-que-e-um-seller-white-label), serão realizadas simulações (conforme exibido no lado direito da figura), de modo a determinar quais sellers serão responsáveis pela entrega dos itens. Saiba mais em [Seleção de sellers white label](/pt/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 

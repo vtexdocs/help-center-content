@@ -31,7 +31,7 @@ Every time product listing data is altered as shown below, the database is reind
 
 Once a product is marked for reindexing, the text _pending indexing_ is included in the product listing in admin. The indexer places these products in a queue for processing, with a 2-minute waiting time. After the 2 minutes, the product is available for indexing. In this process, all the VTEX modules are consulted, with prices and availability updated for every sales policy. This process takes an average of 4 minutes.
 
-![indexaçao.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/catalog-overview/understanding-how-indexation-works_1.png)
+![indexaçao.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/understanding-how-indexation-works_1.png)
 
 ## Indexing Report
 
