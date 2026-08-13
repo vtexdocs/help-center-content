@@ -14,9 +14,9 @@ Roles and permissions in the CMS control what each team member can create, edit,
 
 CMS uses a git-like branching model. Understanding this model clarifies why the Editor and Producer roles exist as separate permission levels.
 
-* Branches are the authoring space. Any authenticated user, including producers, can create and edit content here.
-* The `Main` branch represents production-published content. Changes to `Main` are immediately live on the storefront. Only editors and administrators can commit to or merge into `Main`.
-* The merge step is the approval gate. When a producer finishes work on a branch, an editor or administrator reviews and merges it, promoting the changes to the storefront. This model allows teams to separate content authoring from content publishing, giving control over what goes live and when.
+* Branches are the authoring space. Any authenticated user, including Producers, can create and edit content here.
+* The `main` branch represents production-published content. Changes to `main` are immediately live on the storefront. Only Editors and Administrators can commit to or merge into `main`.
+* The merge step is the approval gate. When a Producer finishes work on a branch, an Editor or Administrator reviews and merges it, promoting the changes to the storefront. This model allows teams to separate content authoring from content publishing, giving control over what goes live and when.
 
 ## Roles
 
@@ -24,7 +24,7 @@ The CMS includes three predefined roles:
 
 * **Content Producer**: Creates and edits content in branches. Can't publish to the live storefront (Main branch).
 * **Content Editor**: Manages the full content lifecycle: creation, editing, and publishing. Manages branch operations.
-* **Content Administrator**: Full access, including all content editor capabilities plus store and locale configuration.
+* **Content Administrator**: Full access, including all Content Editor capabilities plus store and locale configuration.
 
 ### Adding roles
 
@@ -42,9 +42,9 @@ The following table shows the branch management actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
 | :---- | ----- | :---: | :---: |
-| Save to the `Main` branch - Publish changes to the storefront. | ❌ | ✅| ✅ |
-| Remove from the `Main` branch - Unpublish from the storefront. | ❌ | ✅ | ✅ |
-| Merge branch - Promote a feature branch to Main, immediately or on a scheduled date. | ❌ | ✅ | ✅ |
+| Save to the `main` branch - Publish changes to the storefront. | ❌ | ✅| ✅ |
+| Remove from the `main` branch - Unpublish from the storefront. | ❌ | ✅ | ✅ |
+| Merge branch - Promote a feature branch to `main`, immediately or on a scheduled date. | ❌ | ✅ | ✅ |
 | Delete branch - Delete all versions with changes in the branch. | ❌ | ✅ | ✅ |
 | Create branch - Create a new branch to develop and review content before publishing. | ✅ | ✅ | ✅ |
 
@@ -72,12 +72,12 @@ The following scenarios show how roles interact in common content workflows.
 
 ### Launching a seasonal campaign
 
-When your team is putting together a seasonal campaign, a content producer works on the pages in a feature branch, and once the content is ready, a content editor reviews it and merges it into `Main` to publish.
+When your team is putting together a seasonal campaign, a Content Producer works on the pages in a feature branch, and once the content is ready, a Content Editor reviews it and merges it into `main` to publish.
 
 ![lauching-a-seasonal-campaign-flow](https://vtexhelp.vtexassets.com/assets/docs/src/lauching-a-seasonal-campaign___4a8f3b593f6c2901c192d9a698646b2e.png)
 
 ### Adding a new storefront locale
 
-When your store needs to support a new language, a content administrator handles the locale setup first. Once that's in place, producers can start authoring content for it, and editors can publish it.
+When your store needs to support a new language, a Content Administrator handles the locale setup first. Once that's in place, Producers can start authoring content for it, and Editors can publish it.
 
 ![storefront-locale-role-flow](https://vtexhelp.vtexassets.com/assets/docs/src/storefront-locale-role-flow___db87989d885e827bbf1b42ae69958494.png)
