@@ -44,8 +44,8 @@
                     "pt": "Breaking change: Nova permissão obrigatória para o app Availability Notify"
                   },
                   "slug": {
-                    "en": "2026-08-17-breaking-change-availability-notify-new-mandatory-permission",
-                    "es": "2026-08-17-breaking-change-availability-notify-new-mandatory-permission",
+                    "en": "2026-08-17-breaking-change-availability-notify-new-required-permission",
+                    "es": "2026-08-17-breaking-change-availability-notify-nuevo-permiso-obligatorio",
                     "pt": "2026-08-17-breaking-change-availability-notify-nova-permissao-obrigatoria"
                   },
                   "origin": "",
