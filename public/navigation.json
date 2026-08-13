@@ -16323,67 +16323,6 @@
       "categories": [
         {
           "name": {
-            "en": "About the Admin",
-            "es": "Acerca de Admin",
-            "pt": "Sobre o Admin"
-          },
-          "slug": {
-            "en": "about-the-admin-category",
-            "es": "acerca-de-admin-categoria",
-            "pt": "sobre-o-admin-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Accessing the beta environment through the myvtex.com domain",
-                "es": "Accede al entorno beta a través del dominio myvtex.com",
-                "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
-              },
-              "slug": {
-                "en": "accessing-the-beta-environment",
-                "es": "acceder-al-ambiente-beta",
-                "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Compatibility with browsers in VTEX Admin",
-                "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
-                "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
-              },
-              "slug": {
-                "en": "compatibility-with-browsers-in-the-admin-module",
-                "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
-                "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Marketplace - Overview",
-                "es": "Marketplace - Información general",
-                "pt": "Marketplace - Visão geral"
-              },
-              "slug": {
-                "en": "marketplace-overview",
-                "es": "vision-general-marketplace",
-                "pt": "visao-geral-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Account settings",
             "es": "Configuraciones de la cuenta",
             "pt": "Configurações da conta"
@@ -16701,17 +16640,17 @@
             },
             {
               "name": {
-                "en": "Users",
-                "es": "Usuarios",
-                "pt": "Usuários"
+                "en": "User settings",
+                "es": "Configuraciones de Usuário",
+                "pt": "Configurações de Usuário"
               },
               "slug": {
-                "en": "users-subcategory",
-                "es": "usuarios-subcategoria",
-                "pt": "usuários-subcategoria"
+                "en": "user-settings-overview",
+                "es": "vision-general-configuraciones-de-usuario",
+                "pt": "visao-geral-configuracoes-de-usuario"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -16813,21 +16752,6 @@
                     "en": "transferring-store-ownership",
                     "es": "transferir-la-propiedad-de-la-tienda",
                     "pt": "transferencia-de-propriedade-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "User settings - Overview",
-                    "es": "Configuraciones de Usuário - Información general",
-                    "pt": "Configurações de Usuário - Visão geral"
-                  },
-                  "slug": {
-                    "en": "user-settings-overview",
-                    "es": "vision-general-configuraciones-de-usuario",
-                    "pt": "visao-geral-configuracoes-de-usuario"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19891,6 +19815,21 @@
                 },
                 {
                   "name": {
+                    "en": "How indexing works",
+                    "es": "Cómo funciona la indexación",
+                    "pt": "Como funciona a indexação"
+                  },
+                  "slug": {
+                    "en": "understanding-how-indexation-works",
+                    "es": "entendiendo-el-funcionamento-de-la-indexacion",
+                    "pt": "entendendo-o-funcionamento-da-indexacao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How to use the Index Report",
                     "es": "Utilizar el Informe de Indexación",
                     "pt": "Utilizar o Relatório de Indexação"
@@ -20075,21 +20014,6 @@
             },
             {
               "name": {
-                "en": "How indexing works",
-                "es": "Cómo funciona la indexación",
-                "pt": "Como funciona a indexação"
-              },
-              "slug": {
-                "en": "understanding-how-indexation-works",
-                "es": "entendiendo-el-funcionamento-de-la-indexacion",
-                "pt": "entendendo-o-funcionamento-da-indexacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Registering a commercial condition",
                 "es": "Registrar condición comercial",
                 "pt": "Cadastrar condição comercial"
@@ -20107,7 +20031,7 @@
         },
         {
           "name": {
-            "en": "Checkout VTEX - Overview",
+            "en": "Checkout",
             "es": "Checkout",
             "pt": "Checkout"
           },
@@ -20596,44 +20520,13 @@
             "pt": "CMS"
           },
           "slug": {
-            "en": "cms-subcategory",
-            "es": "cms-subcategoria-es",
-            "pt": "cms-subcategoria-pt"
+            "en": "cms-overview",
+            "es": "cms-informacion-general",
+            "pt": "cms-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
-            {
-              "name": {
-                "en": "Get started",
-                "es": "Primeros pasos",
-                "pt": "Primeiros passos"
-              },
-              "slug": {
-                "en": "get-started-category",
-                "es": "primeros-pasos-categoria",
-                "pt": "primeiros-passos-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Content Management overview",
-                    "es": "Información general de la gestión de contenidos",
-                    "pt": "Visão geral do CMS"
-                  },
-                  "slug": {
-                    "en": "cms-overview",
-                    "es": "cms-informacion-general",
-                    "pt": "cms-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Branching and versioning",
@@ -21397,28 +21290,13 @@
             "pt": "Dashboards"
           },
           "slug": {
-            "en": "dashboards-category",
-            "es": "dashboards-categoria",
-            "pt": "dashboards-categoria"
+            "en": "dashboards-overview",
+            "es": "vista-general-dashboards",
+            "pt": "visao-geral-dashboards"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
-            {
-              "name": {
-                "en": "Dashboards - Overview",
-                "es": "Vista General Dashboards",
-                "pt": "Dashboards - Visão geral"
-              },
-              "slug": {
-                "en": "dashboards-overview",
-                "es": "vista-general-dashboards",
-                "pt": "visao-geral-dashboards"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
             {
               "name": {
                 "en": "Sales Performance",
@@ -27252,49 +27130,63 @@
           "children": [
             {
               "name": {
-                "en": "Uncategorized",
-                "es": "No categorizado",
-                "pt": "Não categorizado"
+                "en": "Accessing the beta environment through the myvtex.com domain",
+                "es": "Accede al entorno beta a través del dominio myvtex.com",
+                "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
               },
               "slug": {
-                "en": "uncategorized-subcategory",
-                "es": "no-categorizado-subcategoria",
-                "pt": "não-categorizado-subcategoria"
+                "en": "accessing-the-beta-environment",
+                "es": "acceder-al-ambiente-beta",
+                "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Partner Program - Intranet and VTEX Store Manual",
-                    "es": "Programa Partner - Manual de Intranet y VTEX Store",
-                    "pt": "Programa Partner - Manual da Intranet e VTEX Store"
-                  },
-                  "slug": {
-                    "en": "partner-program-intranet-and-vtex-store-manual",
-                    "es": "programa-partner-manual-de-intranet-y-vtex-store",
-                    "pt": "programa-partner-manual-da-intranet-e-vtex-store"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Network",
-                    "es": "VTEX Network",
-                    "pt": "VTEX Network"
-                  },
-                  "slug": {
-                    "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
-                    "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
-                    "pt": "vtex-network"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Compatibility with browsers in VTEX Admin",
+                "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
+                "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
+              },
+              "slug": {
+                "en": "compatibility-with-browsers-in-the-admin-module",
+                "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
+                "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Marketplace - Overview",
+                "es": "Marketplace - Información general",
+                "pt": "Marketplace - Visão geral"
+              },
+              "slug": {
+                "en": "marketplace-overview",
+                "es": "vision-general-marketplace",
+                "pt": "visao-geral-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Partner Program - Intranet and VTEX Store Manual",
+                "es": "Programa Partner - Manual de Intranet y VTEX Store",
+                "pt": "Programa Partner - Manual da Intranet e VTEX Store"
+              },
+              "slug": {
+                "en": "partner-program-intranet-and-vtex-store-manual",
+                "es": "programa-partner-manual-de-intranet-y-vtex-store",
+                "pt": "programa-partner-manual-da-intranet-e-vtex-store"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -27321,6 +27213,21 @@
                 "en": "vtex-academy-overview",
                 "es": "vtex-academy-vision-geral",
                 "pt": "vtex-academy-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Network",
+                "es": "VTEX Network",
+                "pt": "VTEX Network"
+              },
+              "slug": {
+                "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
+                "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
+                "pt": "vtex-network"
               },
               "origin": "",
               "type": "markdown",
