@@ -10,57 +10,57 @@ locale: en
 
 Roles and permissions in the CMS control what each team member can create, edit, and publish. By assigning the appropriate role to each user, you ensure that content authoring and publishing remain organized and that only authorized users can make changes to the live storefront.
 
-## The branch-based publishing workflow
+## Branch-based publishing workflow
 
 CMS uses a git-like branching model. Understanding this model clarifies why the Editor and Producer roles exist as separate permission levels.
 
-* Branches are the authoring space. Any authenticated user, including Producers, can create and edit content here.  
-* The `main` branch represents production-published content. Changes to `main` are immediately live on the storefront. Only Editors and Administrators can commit to or merge into `main`.  
+* Branches are the authoring space. Any authenticated user, including Producers, can create and edit content here.
+* The `main` branch represents production-published content. Changes to `main` are immediately live on the storefront. Only Editors and Administrators can commit to or merge into `main`.
 * The merge step is the approval gate. When a Producer finishes work on a branch, an Editor or Administrator reviews and merges it, promoting the changes to the storefront. This model allows teams to separate content authoring from content publishing, giving control over what goes live and when.
 
 ## Roles
 
 The CMS includes three predefined roles:
 
-* **Content Producer**: Creates and edits content within branches. Cannot publish to the live storefront (main branch).  
-* **Content Editor**: Manages the full content lifecycle: create, edit, and publish. Manages Branch operations.  
-* **Content Administrator**: Full access, including all Content Editor capabilities plus Store and locale configuration.
+* **Content Producer**: Creates and edits content in branches. Can't publish to the live storefront (Main branch).
+* **Content Editor**: Manages the full content lifecycle: creation, editing, and publishing. Manages branch operations.
+* **Content Administrator**: Full access, including all Content Editor capabilities plus store and locale configuration.
 
 ### Adding roles
 
-Roles are assigned through VTEX Admin. No setup is required. The three roles are predefined and available as soon as the app is installed. To make them available in your account, follow these steps:
+Roles are assigned through the VTEX Admin. No setup is required. The three roles are predefined and available as soon as the app is installed. To make them available in your account, follow these steps:
 
-1. In the VTEX Admin, go to **Account Settings > User Roles**.  
-2. Click `New Role`.  
-3. In the **Choose role** field, select one of the three roles: **Content Administrator**, **Content** **Producer,** or **Content** **Editor**.  
-4. In the **Role name** field, type a name for this role  
+1. In the VTEX Admin, go to **Account Settings > User Roles**.
+2. Click `New Role`.
+3. In the **Choose role** field, select one of the three roles: **Content Administrator**, **Content** **Producer**, or **Content Editor**.
+4. In the **Role name** field, enter a name for this role.
 5. Click `Save`.
 
 ## Branches
 
-The following table shows which branch management actions each role can perform.
+The following table shows the branch management actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
 | :---- | ----- | :---: | :---: |
-| Save to `main` branch - Publish changes to the storefront. | ❌ | ✅ | ✅ |
-| Remove from `main` branch - Unpublish from the storefront. | ❌ | ✅ | ✅ |
-| Merge branch - Promote a feature branch to main, immediately or on a scheduled date. | ❌ | ✅ | ✅ |
-| Delete branch - Delete all versions with changes within the branch. | ❌ | ✅ | ✅ |
+| Save to the `main` branch - Publish changes to the storefront. | ❌ | ✅| ✅ |
+| Remove from the `main` branch - Unpublish from the storefront. | ❌ | ✅ | ✅ |
+| Merge branch - Promote a feature branch to `main`, immediately or on a scheduled date. | ❌ | ✅ | ✅ |
+| Delete branch - Delete all versions with changes in the branch. | ❌ | ✅ | ✅ |
 | Create branch - Create a new branch to develop and review content before publishing. | ✅ | ✅ | ✅ |
 
 ## Entries
 
-The following table shows which entry-level actions each role can perform.
+The following table shows the entry-level actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
 | :---- | ----- | :---: | :---: |
 | View content - Browse entries across all branches. | ✅ | ✅ | ✅ |
 | Create and edit entries - Author and modify content entries on feature branches. | ✅ | ✅ | ✅ |
-| Delete entries - Permanently delete an entry and all its versions. This action is irreversible. | ❌ | ❌ | ✅ |
+| Delete entries - Permanently delete an entry and all its versions. This action is permanent. | ❌ | ❌ | ✅ |
 
 ## Stores
 
-The following table shows which store configuration actions each role can perform.
+The following table shows the store configuration actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
 | :---- | :---- | :---: | :---: |
@@ -78,6 +78,6 @@ When your team is putting together a seasonal campaign, a Content Producer works
 
 ### Adding a new storefront locale
 
-When your store needs to support a new language, a Content Administrator handles the locale setup first, and once that's in place, Producers can start authoring content for it and Editors can publish it.
+When your store needs to support a new language, a Content Administrator handles the locale setup first. Once that's in place, Producers can start authoring content for it, and Editors can publish it.
 
 ![storefront-locale-role-flow](https://vtexhelp.vtexassets.com/assets/docs/src/storefront-locale-role-flow___db87989d885e827bbf1b42ae69958494.png)
