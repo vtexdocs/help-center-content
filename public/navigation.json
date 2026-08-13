@@ -44302,6 +44302,21 @@
             },
             {
               "name": {
+                "en": "Timeout returned when deleting some collections through API",
+                "es": "Se produjo un error de tiempo de espera al eliminar algunas colecciones a través de la API.",
+                "pt": "Ocorreu um erro de tempo limite ao excluir algumas coleções por meio da API."
+              },
+              "slug": {
+                "en": "timeout-returned-when-deleting-some-collections-through-api",
+                "es": "se-produjo-un-error-de-tiempo-de-espera-al-eliminar-algunas-colecciones-a-traves-de-la-api",
+                "pt": "ocorreu-um-erro-de-tempo-limite-ao-excluir-algumas-colecoes-por-meio-da-api"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Timeout when editing specifications",
                 "es": "Tiempo de espera al editar especificaciones",
                 "pt": "Tempo limite ao editar especificações"
