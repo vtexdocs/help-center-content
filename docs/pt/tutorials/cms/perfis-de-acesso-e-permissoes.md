@@ -15,14 +15,14 @@ No CMS, os perfis de acesso e as permissões controlam o que cada membro da equi
 O CMS usa um modelo de branches semelhante ao do Git. Entender esse modelo ajuda a compreender por que os perfis de acesso de Editor e Producer têm níveis de permissão diferentes.
 
 * As branches são o espaço de criação de conteúdo. Qualquer usuário autenticado, incluindo Producers, pode criar e editar conteúdo aqui.
-* A branch `Main` representa o conteúdo publicado em produção. As alterações na `Main` são aplicadas imediatamente no storefront. Somente Editors e Administrators podem fazer commit ou merge na `Main`.
+* A branch `main` representa o conteúdo publicado em produção. As alterações na `main` são aplicadas imediatamente no storefront. Somente Editors e Administrators podem fazer commit ou merge na `main`.
 * A etapa de merge é onde a aprovação acontece. Quando um Producer termina de trabalhar em uma branch, um Editor ou Administrator revisa e faz o merge, subindo as alterações para o storefront. Esse modelo permite que as equipes separem a criação de conteúdo da publicação, dando controle sobre o que é publicado e quando.
 
 ## Perfis de acesso
 
 O CMS inclui três perfis de acesso predefinidos:
 
-* **Content Producer**: cria e edita o conteúdo dentro das branches. Não pode publicar no storefront em produção (branch main).
+* **Content Producer**: cria e edita o conteúdo dentro das branches. Não pode publicar no storefront em produção (branch `main`).
 * **Content Editor**: gerencia o ciclo de vida completo do conteúdo: criação, edição e publicação. Gerencia as operações da branch.
 * **Content Administrator**: acesso completo, incluindo todas as funcionalidades do Content Editor, além da configuração da loja e da localidade.
 
@@ -42,8 +42,8 @@ A tabela a seguir mostra quais ações de gerenciamento de branches cada perfil 
 
 | Ação | Content Producer | Content Editor | Content Administrator |
 | :---- | ----- | :---: | :---: |
-| Salvar na branch `Main` - Publica as alterações no storefront. | ❌ | ✅ | ✅ |
-| Remover da branch `Main` - Despublica do storefront. | ❌ | ✅ | ✅ |
+| Salvar na branch `main` - Publica as alterações no storefront. | ❌ | ✅ | ✅ |
+| Remover da branch `main` - Despublica do storefront. | ❌ | ✅ | ✅ |
 | Fazer merge da branch - Promove uma feature branch para a branch main imediatamente ou em uma data agendada. | ❌ | ✅ | ✅ |
 | Excluir branch - Exclui todas as versões com alterações dentro da branch. | ❌ | ✅ | ✅ |
 | Criar branch - Cria uma nova branch para desenvolver e avaliar o conteúdo antes da publicação. | ✅ | ✅ | ✅ |

@@ -15,7 +15,7 @@ Los roles y permisos en el CMS determinan lo que cada integrante del equipo pued
 El CMS utiliza un modelo de ramificación similar al de Git. Entender este modelo aclara por qué los roles de Content Editor y Content Producer existen como niveles de permisos independientes.
 
 * Las ramas son el espacio de creación de contenido. Cualquier usuario autenticado, incluidos quienes tienen rol de Producer, puede crear y editar contenido aquí.
-* La rama `Main` representa el contenido publicado en producción. Las modificaciones en la rama `Main` se aplican de inmediato en el storefront de producción. Solo Editors y Administrators pueden hacer commit o merge en `Main`.
+* La rama `main` representa el contenido publicado en producción. Las modificaciones en la rama `main` se aplican de inmediato en el storefront de producción. Solo Editors y Administrators pueden hacer commit o merge en `main`.
 * El paso de merge funciona como instancia de aprobación. Cuando un Producer termina de trabajar en una rama, un Editor o Administrator revisa y hace merge, implementando los cambios en el storefront. Este modelo permite a los equipos separar la creación de contenido de su publicación, dando control sobre lo que se publica y cuándo.
 
 ## Roles
@@ -42,11 +42,11 @@ La siguiente tabla muestra las acciones de gestión de ramas que puede realizar 
 
 | Acción | Content Producer | Content Editor | Content Administrator |
 | :---- | ----- | :---: | :---: |
-| Guardar en la rama `Main` \| Publica las modificaciones en el storefront. | ❌ | ✅ | ✅ |
-| Remover de la rama `Main` \| Despublica del storefront. | ❌ | ✅ | ✅ |
-| Hacer merge de la rama \| Promueve una rama de funcionalidad a la rama Main de inmediato o en una fecha programada. | ❌ | ✅ | ✅ |
-| Eliminar rama \| Elimina todas las versiones con modificaciones dentro de la rama. | ❌ | ✅ | ✅ |
-| Crear rama \| Crea una rama nueva para desarrollar y revisar contenido antes de publicarlo. | ✅ | ✅ | ✅ |
+| Guardar en la rama `main` | Publica las modificaciones en el storefront. | ❌ | ✅ | ✅ |
+| Remover de la rama `main` | Despublica del storefront. | ❌ | ✅ | ✅ |
+| Hacer merge de la rama | Promueve una rama de funcionalidad a la rama Main de inmediato o en una fecha programada. | ❌ | ✅ | ✅ |
+| Eliminar rama | Elimina todas las versiones con modificaciones dentro de la rama. | ❌ | ✅ | ✅ |
+| Crear rama | Crea una rama nueva para desarrollar y revisar contenido antes de publicarlo. | ✅ | ✅ | ✅ |
 
 ## Entradas
 
@@ -54,9 +54,9 @@ La siguiente tabla muestra las acciones de nivel inicial que puede realizar cada
 
 | Acción | Content Producer | Content Editor | Content Administrator |
 | :---- | ----- | :---: | :---: |
-| Ver contenido \| Explora entradas en todas las ramas. | ✅ | ✅ | ✅ |
-| Crear y editar entradas \| Crea y modifica entradas de contenido en ramas de funcionalidad. | ✅ | ✅ | ✅ |
-| Eliminar entradas \| Elimina de forma permanente una entrada y todas sus versiones. Esta acción es no se puede deshacer. | ❌ | ❌ | ✅ |
+| Ver contenido | Explora entradas en todas las ramas. | ✅ | ✅ | ✅ |
+| Crear y editar entradas | Crea y modifica entradas de contenido en ramas de funcionalidad. | ✅ | ✅ | ✅ |
+| Eliminar entradas | Elimina de forma permanente una entrada y todas sus versiones. Esta acción es no se puede deshacer. | ❌ | ❌ | ✅ |
 
 ## Stores
 
@@ -64,7 +64,7 @@ La siguiente tabla muestra qué acciones de configuración de la tienda puede re
 
 | Acción | Content Producer | Content Editor | Content Administrator |
 | :---- | :---- | :---: | :---: |
-| Crear y configurar tiendas \| Configura tiendas y gestiona los ajustes relacionados, incluidas las configuraciones del storefront, los idiomas y la configuración regional. | ❌ | ❌ | ✅ |
+| Crear y configurar tiendas | Configura tiendas y gestiona los ajustes relacionados, incluidas las configuraciones del storefront, los idiomas y la configuración regional. | ❌ | ❌ | ✅ |
 
 ## Casos de uso
 
