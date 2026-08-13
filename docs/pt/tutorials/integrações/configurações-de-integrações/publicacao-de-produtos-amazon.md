@@ -8,7 +8,7 @@ slugEN: amazon-product-publishing
 locale: pt
 ---
 
-A **Publicação de produtos** é o ponto único do Admin VTEX para disponibilizar os produtos do seu catálogo na Amazon. A partir dela, é possível tanto vincular SKUs a anúncios que já existem na Amazon quanto criar anúncios novos.
+A **Publicação de produtos** é o ponto único do Admin VTEX para disponibilizar os produtos do seu catálogo na Amazon. A partir dessa página, é possível tanto vincular SKUs a anúncios que já existem na Amazon quanto criar anúncios novos.
 
 Ao finalizar a [integração com a Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon), é necessário disponibilizar os produtos da loja para serem anunciados no marketplace. Todo SKU enviado para a Amazon passa, primeiro, por um processo de vínculo: a Amazon tenta unificar o anúncio com outros já existentes do mesmo produto através do [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) ou GTIN cadastrado na VTEX (equivalente ao [ASIN](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) na Amazon). O resultado desse processo determina em qual das duas abas o SKU aparece.
 
