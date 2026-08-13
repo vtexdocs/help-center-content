@@ -13,7 +13,7 @@ El dashboard **Uso de Master Data** en el Admin VTEX te ayuda a hacer seguimient
 
 Este dashboard te permite consultar el total de documentos, verificar cuándo se actualizaron los datos por última vez y analizar el volumen por entidad antes de tomar decisiones sobre almacenamiento o limpieza de datos.
 
-> ℹ️ El uso de entidades personalizadas sigue reglas de facturación mensual. Para entender cómo mide VTEX el volumen de documentos para facturación, consulta la sección [Facturación](https://help.vtex.com/es/docs/tutorials/master-data-es#facturacion) del artículo Master Data.
+> ℹ️ El uso de entidades personalizadas sigue reglas de facturación mensual. Para entender cómo mide VTEX el volumen de documentos para facturación, consulta la sección [Facturación](https://help.vtex.com/es/docs/tutorials/master-data-es#facturacion) del artículo Master Data. Si la facturación no ha disminuido como se esperaba después de eliminar una entidad, consulta [esta guía](/es/docs/tutorials/la-facturacion-de-master-data-no-disminuyo-despues-de-eliminar-una-entidad-de-datos).
 
 ## Acceder al dashboard
 
