@@ -23,6 +23,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 * [Inventory & Shipping](#inventory-shipping)
 * [Catalog (Admin)](#catalog-admin)
 * [Catalog (API)](#catalog-api)
+* [Catalog (Control Plane)](#catalog-control-plane)
 * [Prices](#prices)
 * [Promotions](#promotions)
 * [Subscriptions](#subscriptions)
@@ -125,6 +126,112 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 | SKU Seller Binding Inactivation | SKU binding inactivation. | SKU ID in seller and seller ID. |
 | GiftCard Create | Creation of a native gift card. | Gift card ID and action author ID. |
 | GiftCard List All Paged | Query for listing gift cards. | Action author ID and gift card IDs. |
+
+## Catalog (Control Plane)
+
+| Action | Event description | Event details |
+|---|---|---|
+| Product Activation | Product activation. | Product ID. |
+| Product Deactivation | Product deactivation. | Product ID. |
+| Admin Product Import | Product import via Admin. | Import file name. |
+| Admin Image Import | Image import via Admin. | Import file name. |
+| Admin SkuSpecification Import | SKU specification import via Admin. | Import file name. |
+| Admin ProductSpecification Import | Product specification import via Admin. | Import file name. |
+| Create Brand | Brand creation. | Brand ID. |
+| Update Brand | Brand update. | Brand ID. |
+| Create Category | Category creation. | Category ID. |
+| Update Category | Category update. | Category ID. |
+| Create Attachment | Attachment creation. | Attachment ID. |
+| Update Attachment | Attachment update. | Attachment ID. |
+| Delete Attachment | Attachment deletion. | Attachment ID. |
+| Create Field | Catalog field creation. | Field ID. |
+| Update Field | Catalog field update. | Field ID. |
+| Create Field Group | Field group creation. | Field group ID. |
+| Update Field Group | Field group update. | Field group ID. |
+| Create Field Value | Field value creation. | Field value ID. |
+| Update Field Value | Field value update. | Field value ID. |
+| Delete Non Structured Field | Non-structured field deletion. | Field ID. |
+| Create Product | Product creation. | Product ID. |
+| Update Product | Product update. | Product ID. |
+| Create Sales Policy | Sales policy creation. | Sales policy ID. |
+| Delete Sales Policy | Sales policy deletion. | Sales policy ID. |
+| Create Similar Category | Similar category creation. | Similar category ID. |
+| Delete Similar Category | Similar category deletion. | Similar category ID. |
+| Create Product Specification | Product specification creation. | Product specification ID. |
+| Upsert Product Specification | Product specification creation or update. | Product specification ID. |
+| Delete Product Specification | Product specification deletion. | Product specification ID. |
+| Delete All Product Specifications | Deletion of all product specifications. | Product ID. |
+| Create Sku Kit | SKU kit creation. | SKU kit ID. |
+| Delete Sku Kit | SKU kit deletion. | SKU kit ID. |
+| Create Sku Service | SKU service creation. | SKU service ID. |
+| Update Sku Service | SKU service update. | SKU service ID. |
+| Delete Sku Service | SKU service deletion. | SKU service ID. |
+| Create Sku Service Type | SKU service type creation. | SKU service type ID. |
+| Update Sku Service Type | SKU service type update. | SKU service type ID. |
+| Delete Sku Service Type | SKU service type deletion. | SKU service type ID. |
+| Create Sku Service Value | SKU service value creation. | SKU service value ID. |
+| Update Sku Service Value | SKU service value update. | SKU service value ID. |
+| Delete Sku Service Value | SKU service value deletion. | SKU service value ID. |
+| Create Sku Service Type Attachment | SKU service type attachment creation. | SKU service type attachment ID. |
+| Delete Sku Service Type Attachment | SKU service type attachment deletion. | SKU service type attachment ID. |
+| Create Sku Attachment | SKU attachment creation. | SKU attachment ID. |
+| Delete Sku Attachment | SKU attachment deletion. | SKU attachment ID. |
+| Create Sku Complement | SKU complement creation. | SKU complement ID. |
+| Delete Sku Complement | SKU complement deletion. | SKU complement ID. |
+| Create Supplier | Supplier creation. | Supplier ID. |
+| Update Supplier | Supplier update. | Supplier ID. |
+| Delete Supplier | Supplier deletion. | Supplier ID. |
+| Update Report Status | Report status update. | Report ID. |
+| Create Sku | SKU creation. | SKU ID. |
+| Update Sku | SKU update. | SKU ID. |
+| Create Sub Collection | Sub collection creation. | Sub collection ID. |
+| Update Sub Collection | Sub collection update. | Sub collection ID. |
+| Delete Sub Collection | Sub collection deletion. | Sub collection ID. |
+| Create Brand Sub Collection | Brand sub collection creation. | Brand sub collection ID. |
+| Delete Brand Sub Collection | Brand sub collection deletion. | Brand sub collection ID. |
+| Create Category Sub Collection | Category sub collection creation. | Category sub collection ID. |
+| Delete Category Sub Collection | Category sub collection deletion. | Category sub collection ID. |
+| Create Field Value Sub Collection | Field value sub collection creation. | Field value sub collection ID. |
+| Delete Field Value Sub Collection | Field value sub collection deletion. | Field value sub collection ID. |
+| Create Sku Sub Collection | SKU sub collection creation. | SKU sub collection ID. |
+| Delete Sku Sub Collection | SKU sub collection deletion. | SKU sub collection ID. |
+| Create Collection | Collection creation. | Collection ID. |
+| Update Collection | Collection update. | Collection ID. |
+| Delete Collection | Collection deletion. | Collection ID. |
+| Bulk Sku Collection | Bulk SKU collection update. | Collection ID and SKU IDs. |
+| Import Insert Sku In Collection | Import to insert SKUs in a collection. | Collection ID and import file name. |
+| Import Delete Sku In Collection | Import to delete SKUs from a collection. | Collection ID and import file name. |
+| Create Sku Ean | SKU EAN creation. | SKU ID and EAN. |
+| Delete Sku Ean | SKU EAN deletion. | SKU ID and EAN. |
+| Create Sku Specification | SKU specification creation. | SKU specification ID. |
+| Upsert Sku Specification Value | SKU specification value creation or update. | SKU specification value ID. |
+| Update Sku Specification | SKU specification update. | SKU specification ID. |
+| Delete Sku Specification | SKU specification deletion. | SKU specification ID. |
+| Delete All Sku Specifications | Deletion of all SKU specifications. | SKU ID. |
+| Create Sku Attribute | SKU attribute creation. | SKU attribute ID. |
+| Update Sku Attribute | SKU attribute update. | SKU attribute ID. |
+| Delete Sku Attribute | SKU attribute deletion. | SKU attribute ID. |
+| Delete All Sku Attributes | Deletion of all SKU attributes. | SKU ID. |
+| Create Sku File | SKU file creation. | SKU file ID. |
+| Update Sku File | SKU file update. | SKU file ID. |
+| Delete Sku File | SKU file deletion. | SKU file ID. |
+| Delete All Sku Files | Deletion of all SKU files. | SKU ID. |
+| Associate Sku File | SKU file association. | SKU ID and SKU file ID. |
+| Disassociate Sku File | SKU file disassociation. | SKU ID and SKU file ID. |
+| Reorder Sku Files | SKU file reordering. | SKU ID. |
+| Copy Sku Files | SKU file copy. | Source and destination SKU IDs. |
+| Create Product Form | Product form creation. | Product form ID. |
+| Update Product Form | Product form update. | Product form ID. |
+| Move Skus To Product | SKU move to another product. | SKU IDs and destination product ID. |
+| Enqueue Translation | Translation enqueue. | Translation ID. |
+| Enqueue Product Translation | Product translation enqueue. | Product ID. |
+| Create Assortment | Assortment creation. | Assortment ID. |
+| Update Assortment | Assortment update. | Assortment ID. |
+| Delete Assortment | Assortment deletion. | Assortment ID. |
+| Add Included Collection Assortment | Included collection added to assortment. | Assortment ID and collection ID. |
+| Remove Included Collection Assortment | Included collection removed from assortment. | Assortment ID and collection ID. |
+| Add Excluded Collection Assortment | Excluded collection added to assortment. | Assortment ID and collection ID. |
+| Remove Excluded Collection Assortment | Excluded collection removed from assortment. | Assortment ID and collection ID. |
 
 ## Prices
 

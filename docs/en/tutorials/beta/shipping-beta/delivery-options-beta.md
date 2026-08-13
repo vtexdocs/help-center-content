@@ -48,10 +48,7 @@ To create a delivery option, follow the steps below:
    ### Basic information
 
    - **Delivery method:** Select the type of delivery method (**Delivery**, **Scheduled delivery**, **Pickup**, **Scheduled pickup**).
-
    - **Option name:** Enter the name of the option the customer will see when purchasing.
-
-   - **Use option as a filter on the store product listing page**: Enable this to allow customers to filter products by this delivery option using [Intelligent Search filters](https://help.vtex.com/en/docs/tutorials/filters).
 
    > ⚠️ Delivery method filters will only be displayed on the product listing page to the customer if this option is enabled. If disabled, the filters won't be displayed.
 
