@@ -201,7 +201,7 @@ Ao clicar em `Sugerir` no campo **Descrição**, um card **Sugestão de descriç
 
 ### Preenchendo atributos
 
-Ao abrir o formulário de cadastro, a IA sugere e aplicada automaticamente uma categoria para o produto. No canto inferior da tela um aviso aparecerá  para confirmar que a categoria foi sugerida po IA. Se a sugestão não fizer sentido, o seller pode desfazê-la clicando no botão `Desfazer`.
+Ao abrir o formulário de cadastro, a IA sugere e aplica automaticamente uma categoria para o produto. No canto inferior da tela, um aviso aparecerá  para confirmar que a categoria foi sugerida por IA. Se a sugestão não fizer sentido, o seller pode desfazê-la clicando no botão `Desfazer`.
 
 Com a categoria aplicada, os atributos correspondentes são carregados automaticamente no formulário. O seller precisa preencher todos os campos obrigatórios. O botão `Carregar mais atributos` só é habilitado quando os campos exibidos estiverem completos, e o botão `Salvar e enviar` fica disponível somente após o preenchimento de todos os atributos obrigatórios.
 
