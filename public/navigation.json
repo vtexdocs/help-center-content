@@ -15872,7 +15872,7 @@
             },
             {
               "name": {
-                "en": "Master Data billing did not decrease after deleting a data entity",
+                "en": "Master Data billing hasn't decreased after deleting a data entity",
                 "es": "La facturación de Master Data no disminuyó después de eliminar una entidad de datos",
                 "pt": "A cobrança do Master Data não diminuiu depois que excluí uma entidade de dados"
               },
