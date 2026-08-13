@@ -1,5 +1,5 @@
 ---
-title: 'Informações de faturamento - Visão geral'
+title: 'Informações de faturamento'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
@@ -13,7 +13,7 @@ slugEN: billing-module-overview
 legacySlug: visao-geral-do-modulo-faturas
 locale: pt
 subcategoryId: 31ICVopiWZfSTdr9jZMShb
-order: 1
+categoryCover: true
 ---
 
 **Informações de faturamento** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. 

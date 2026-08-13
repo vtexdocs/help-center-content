@@ -1,5 +1,5 @@
 ---
-title: 'Configuraciones de la cuenta - Información general'
+title: 'Configuraciones de la cuenta'
 id: 6USYxLuzNt4uAkvjdPF7I8
 status: PUBLISHED
 createdAt: 2023-03-28T18:45:41.656Z
@@ -13,7 +13,6 @@ slugEN: account-settings-overview
 legacySlug: vision-general-configuraciones-de-la-cuenta
 locale: es
 subcategoryId: 1Y8OlvUk7MDhJzmD6Hk6S6
-order: 1
 ---
 
 Cada contratante de VTEX recibe una cuenta que le da acceso al Admin, donde puede gestionar aspectos importantes de su ecommerce.

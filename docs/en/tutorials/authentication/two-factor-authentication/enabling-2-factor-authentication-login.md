@@ -1,5 +1,5 @@
 ---
-title: 'Enabling two-factor authentication login'
+title: 'Two-factor authentication'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
