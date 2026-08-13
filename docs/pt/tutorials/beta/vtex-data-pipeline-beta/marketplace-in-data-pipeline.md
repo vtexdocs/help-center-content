@@ -109,7 +109,7 @@ flowchart LR
 
 Neste diagrama, o pedido do vendedor se desdobra em itens, `sku_binding` traduz o SKU do seller para o SKU do marketplace, permitindo cruzar com o Catálogo.
 
-## Características dos Dados
+## Características dos dados
 
 |**Características** | **Descrição**|
 |:---:|:---:|

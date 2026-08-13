@@ -86,6 +86,7 @@ flowchart LR
 Neste diagrama, `pricing_historical` mostra a sequência de alterações até o preço atual e a correlação com Pedidos ajuda a medir o efeito da mudança de preço nas vendas.
 
 ## Características dos dados
+
 | **Característica** | **Descrição** |
 |:------:|:--------:|
 | Origem do dado | Módulo de preços. |

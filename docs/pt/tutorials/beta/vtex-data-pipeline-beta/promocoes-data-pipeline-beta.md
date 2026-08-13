@@ -67,7 +67,7 @@ flowchart TD
 
 Neste diagrama, `promotions_latest` concentra a configuração vigente da campanha, status, vigência e identificador usados nas análises atuais.
 
-- Fluxo 2: evoluir a promoção no histórico e medir impacto em pedidos.
+- Fluxo 2: analisar a evolução da promoção no histórico e medir impacto em pedidos.
 
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%

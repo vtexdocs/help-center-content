@@ -68,7 +68,7 @@ flowchart TB
 
 Veja abaixo dois fluxos distintos de utilização dos dados:
 
-- Fluxo 1: jornada do comprador na sessão, da home ao pedido.
+- Fluxo 1: jornada do comprador na sessão, da página inicial ao pedido.
 
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%

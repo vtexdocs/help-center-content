@@ -33,7 +33,7 @@ O modelo de Disponibilidade de carrinho tem duas granularidades:
 - **Nível de item (SKU):** `cart_availability_silver_by_sku` registra a disponibilidade de cada SKU adicionado ao carrinho (`item_availability`, vendedor, preço, canais de entrega).
 - **Nível de carrinho:** `cart_availability_silver` agrega o resultado do carrinho inteiro (`cart_availability`, `delivery_channel`). O carrinho só é `available` se todos os itens também estiverem disponíveis.
 
-As duas tabelas se conectam por `order_form_id` (e podem ser correlacionadas à navegação via `af_session_id`).
+As duas tabelas se conectam por `order_form_id` e podem ser correlacionadas à navegação via `af_session_id`.
 
 O diagrama abaixo mostra como as tabelas se conectam:
 
