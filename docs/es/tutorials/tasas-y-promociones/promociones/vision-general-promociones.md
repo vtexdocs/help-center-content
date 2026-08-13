@@ -1,5 +1,5 @@
 ---
-title: 'Promociones - Información general'
+title: 'Promociones'
 id: 3PeHVYcooLIDmA33IAnjhm
 status: PUBLISHED
 createdAt: 2023-03-29T19:29:50.947Z

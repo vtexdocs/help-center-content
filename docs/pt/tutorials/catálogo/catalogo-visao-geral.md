@@ -1,5 +1,5 @@
 ---
-title: 'Catálogo - Visão geral'
+title: 'Catálogo'
 id: 77M8ItLhDXs6aBdQTqToVe
 status: PUBLISHED
 createdAt: 2022-03-04T15:23:02.967Z
@@ -13,7 +13,7 @@ slugEN: catalog-overview
 legacySlug: catalogo-visao-geral
 locale: pt
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
-order: 1
+categoryCover: true
 ---
 
 ![Overview do catálogo (capa)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/catálogo-visão-geral/catalogo-visao-geral_1.jpg)

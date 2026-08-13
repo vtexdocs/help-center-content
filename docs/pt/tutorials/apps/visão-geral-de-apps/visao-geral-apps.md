@@ -1,5 +1,5 @@
 ---
-title: 'Apps - Visão geral'
+title: 'Apps'
 id: 4xfsHXyAQTjbZNuiKl6Y0e
 status: PUBLISHED
 createdAt: 2023-03-29T15:53:55.835Z
@@ -13,7 +13,7 @@ slugEN: apps-overview
 legacySlug: visao-geral-apps
 locale: pt
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi
-order: 1
+categoryCover: true
 ---
 
 Um aplicativo VTEX amplia as funcionalidades da plataforma VTEX, ajudando os comerciantes na criação de experiências abrangentes para diferentes camadas de comércio digital, como, por exemplo:

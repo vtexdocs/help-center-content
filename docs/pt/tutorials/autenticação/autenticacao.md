@@ -13,6 +13,7 @@ slugEN: authentication
 legacySlug: pagina-de-autenticacao
 locale: pt
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
+categoryCover: true
 ---
 
 A autenticação é o procedimento para validar a identidade de usuários. Na VTEX, esse processo ocorre em três situações diferentes:

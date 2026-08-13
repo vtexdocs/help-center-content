@@ -1,5 +1,5 @@
 ---
-title: 'Catalog - Overview'
+title: 'Catalog'
 id: 77M8ItLhDXs6aBdQTqToVe
 status: PUBLISHED
 createdAt: 2022-03-04T15:23:02.967Z
@@ -13,7 +13,6 @@ slugEN: catalog-overview
 legacySlug: catalog-overview
 locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
-order: 1
 ---
 
 ![Catalog overview (header)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/catalog-overview/catalog-overview_1.jpg)

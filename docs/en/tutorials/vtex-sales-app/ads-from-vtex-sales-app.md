@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-The new offer area in VTEX Sales App features two main types of offers: specific products or search results. This flexibility allows merchants to adapt their marketing strategies based on their specific needs and goals, promoting individual products or groups of related products.
+The Offers area in VTEX Sales App features two main types of offers: specific products or search results. This flexibility allows merchants to adapt their marketing strategies based on their specific needs and goals, promoting individual products or groups of related products.
 
 To customize a store's window display, merchants can add an `Offers by store` page by specifying the store ID in the [Master Data](https://developers.vtex.com/docs/guides/master-data-introduction) to which the offer will be linked, allowing them to create personalized offers for each store.
 
