@@ -16384,17 +16384,17 @@
         },
         {
           "name": {
-            "en": "Account management",
-            "es": "Gestión de la cuenta",
-            "pt": "Gerenciamento da conta"
+            "en": "Account settings",
+            "es": "Configuraciones de la cuenta",
+            "pt": "Configurações da conta"
           },
           "slug": {
-            "en": "account-management-category",
-            "es": "gestion-de-la-cuenta-categoria",
-            "pt": "gerenciamento-da-conta-categoria"
+            "en": "account-settings-overview",
+            "es": "vision-general-configuraciones-de-la-cuenta",
+            "pt": "visao-geral-configuracoes-da-conta"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -16610,33 +16610,18 @@
             },
             {
               "name": {
-                "en": "API Keys",
+                "en": "API keys",
                 "es": "Claves de API",
                 "pt": "Chaves de API"
               },
               "slug": {
-                "en": "api-keys-subcategory",
-                "es": "claves-de-api-subcategoria",
-                "pt": "chaves-de-api-subcategoria"
+                "en": "api-keys",
+                "es": "claves-de-api",
+                "pt": "chaves-de-api"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "API keys",
-                    "es": "Claves de API",
-                    "pt": "Chaves de API"
-                  },
-                  "slug": {
-                    "en": "api-keys",
-                    "es": "claves-de-api",
-                    "pt": "chaves-de-api"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Configuring alerts to renew API tokens",
@@ -16849,21 +16834,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Account settings - Overview",
-                "es": "Configuraciones de la cuenta - Información general",
-                "pt": "Configurações da conta - Visão geral"
-              },
-              "slug": {
-                "en": "account-settings-overview",
-                "es": "vision-general-configuraciones-de-la-cuenta",
-                "pt": "visao-geral-configuracoes-da-conta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -16883,33 +16853,18 @@
           "children": [
             {
               "name": {
-                "en": "Apps - Overview",
-                "es": "Visión de conjunto de Apps",
-                "pt": "Apps - Visão geral"
+                "en": "Apps",
+                "es": "Apps",
+                "pt": "Apps"
               },
               "slug": {
-                "en": "apps-overview-subcategory",
-                "es": "vision-de-conjunto-de-apps-subcategoria",
-                "pt": "visão-geral-de-apps-subcategoria"
+                "en": "apps-overview",
+                "es": "vision-general-apps",
+                "pt": "visao-geral-apps"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Apps - Overview",
-                    "es": "Vision General Apps",
-                    "pt": "Apps - Visão geral"
-                  },
-                  "slug": {
-                    "en": "apps-overview",
-                    "es": "vision-general-apps",
-                    "pt": "visao-geral-apps"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Canceling payment for the service of an app installed in my store",
@@ -16934,12 +16889,12 @@
                 "pt": "Customer Credit"
               },
               "slug": {
-                "en": "customer-credit-subcategory",
-                "es": "customer-credit-subcategoria",
-                "pt": "customer-credit-subcategoria"
+                "en": "customer-credit-overview",
+                "es": "customer-credit-vision-general",
+                "pt": "customer-credit-visao-geral"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -16955,21 +16910,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Customer Credit - Overview",
-                    "es": "Customer Credit - Información general",
-                    "pt": "Customer Credit - Visão geral"
-                  },
-                  "slug": {
-                    "en": "customer-credit-overview",
-                    "es": "customer-credit-vision-general",
-                    "pt": "customer-credit-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -16980,28 +16920,13 @@
                 "pt": "Live Shopping"
               },
               "slug": {
-                "en": "live-shopping-subcategory",
-                "es": "live-shopping-subcategoria",
-                "pt": "live-shopping-subcategoria"
+                "en": "live-shopping",
+                "es": "live-shopping",
+                "pt": "live-shopping"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Live Shopping",
-                    "es": "Live Shopping",
-                    "pt": "Live Shopping"
-                  },
-                  "slug": {
-                    "en": "live-shopping",
-                    "es": "live-shopping",
-                    "pt": "live-shopping"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Live Shopping: Configuring a landing page for live shopping events",
@@ -17037,32 +16962,17 @@
             {
               "name": {
                 "en": "My Account",
-                "es": "My Account",
-                "pt": "My Account"
+                "es": "Mi Cuenta",
+                "pt": "Minha Conta"
               },
               "slug": {
-                "en": "my-account-subcategory",
-                "es": "my-account-subcategoria",
-                "pt": "my-account-subcategoria"
+                "en": "how-my-account-works",
+                "es": "como-funciona-mi-cuenta",
+                "pt": "como-funciona-a-minha-conta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "How My Account works",
-                    "es": "Cómo funciona Mi Cuenta",
-                    "pt": "Como funciona a Minha Conta"
-                  },
-                  "slug": {
-                    "en": "how-my-account-works",
-                    "es": "como-funciona-mi-cuenta",
-                    "pt": "como-funciona-a-minha-conta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Setting up My Account",
@@ -17127,9 +17037,9 @@
             },
             {
               "name": {
-                "en": "Personal Shopper - Overview",
-                "es": "Personal Shopper - Información general",
-                "pt": "Personal Shopper - Visão geral"
+                "en": "Personal Shopper",
+                "es": "Personal Shopper",
+                "pt": "Personal Shopper"
               },
               "slug": {
                 "en": "personal-shopper-overview",
@@ -17164,26 +17074,26 @@
             "pt": "Autenticação"
           },
           "slug": {
-            "en": "authentication-category",
-            "es": "autenticacion-categoria",
-            "pt": "autenticação-categoria"
+            "en": "authentication",
+            "es": "autenticacion",
+            "pt": "autenticacao"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
-                "en": "Authentication basics",
-                "es": "Conceptos básicos de autenticación",
-                "pt": "Conceitos básicos de autenticação"
+                "en": "Customer login and authentication",
+                "es": "Inicio de sesión y autenticación del cliente",
+                "pt": "Login e autenticação do cliente"
               },
               "slug": {
-                "en": "authentication-basics-subcategory",
-                "es": "conceptos-basicos-de-autenticacion-subcategoria",
-                "pt": "conceitos-básicos-de-autenticação-subcategoria"
+                "en": "how-can-my-customer-login-to-my-store",
+                "es": "como-puede-mi-cliente-iniciar-sesion-en-mi-tienda",
+                "pt": "como-meu-cliente-pode-fazer-login-na-minha-loja"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -17217,21 +17127,6 @@
                 },
                 {
                   "name": {
-                    "en": "Authentication",
-                    "es": "Autenticación",
-                    "pt": "Autenticação"
-                  },
-                  "slug": {
-                    "en": "authentication",
-                    "es": "autenticacion",
-                    "pt": "autenticacao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Configuring login with Facebook and Google",
                     "es": "Configurar inicio de sesión con Facebook y Google",
                     "pt": "Configurar login com Facebook e Google"
@@ -17240,21 +17135,6 @@
                     "en": "configuring-login-with-facebook-and-google",
                     "es": "configurar-inicio-de-sesion-con-facebook-y-google",
                     "pt": "configurar-login-com-facebook-e-google"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How can my customer login to my store?",
-                    "es": "¿Cómo puede mi cliente iniciar sesión en mi tienda?",
-                    "pt": "Como meu cliente pode fazer login na minha loja?"
-                  },
-                  "slug": {
-                    "en": "how-can-my-customer-login-to-my-store",
-                    "es": "como-puede-mi-cliente-iniciar-sesion-en-mi-tienda",
-                    "pt": "como-meu-cliente-pode-fazer-login-na-minha-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17269,28 +17149,13 @@
                 "pt": "Autenticação de dois fatores"
               },
               "slug": {
-                "en": "two-factor-authentication-subcategory",
-                "es": "autenticacion-de-dos-factores-subcategoria",
-                "pt": "autenticação-de-dois-fatores-subcategoria"
+                "en": "enabling-2-factor-authentication-login",
+                "es": "habilitar-inicio-de-sesion-por-autenticacion-de-2-factores",
+                "pt": "habilitar-login-por-autenticacao-de-2-fatores"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Enabling two-factor authentication login",
-                    "es": "Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "Habilitar login por autenticação de dois fatores"
-                  },
-                  "slug": {
-                    "en": "enabling-2-factor-authentication-login",
-                    "es": "habilitar-inicio-de-sesion-por-autenticacion-de-2-factores",
-                    "pt": "habilitar-login-por-autenticacao-de-2-fatores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Resetting your two-factor authentication app configuration",
@@ -18741,17 +18606,17 @@
         },
         {
           "name": {
-            "en": "Billing",
+            "en": "Billing information",
             "es": "Facturación",
             "pt": "Informações de faturamento"
           },
           "slug": {
-            "en": "billing-category",
-            "es": "facturacion-categoria",
-            "pt": "informacoes-de-faturamento-categoria"
+            "en": "billing-module-overview",
+            "es": "vision-general-facturacion",
+            "pt": "visao-geral-informacoes-de-faturamento"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -18965,21 +18830,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Billing information - Overview",
-                "es": "Facturación - Información general",
-                "pt": "Informações de faturamento - Visão geral"
-              },
-              "slug": {
-                "en": "billing-module-overview",
-                "es": "vision-general-facturacion",
-                "pt": "visao-geral-informacoes-de-faturamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -18990,12 +18840,12 @@
             "pt": "Catálogo"
           },
           "slug": {
-            "en": "catalog-category",
-            "es": "catalogo-categoria",
-            "pt": "catálogo-categoria"
+            "en": "catalog-overview",
+            "es": "catalogo-vision-general",
+            "pt": "catalogo-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -19142,52 +18992,6 @@
                     "en": "what-is-a-bundle",
                     "es": "que-es-un-kit",
                     "pt": "o-que-e-um-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Catalog - Overview",
-                "es": "Catálogo - Información general",
-                "pt": "Catálogo - Visão geral"
-              },
-              "slug": {
-                "en": "catalog-overview-subcategory",
-                "es": "catalogo-vision-general-subcategoria",
-                "pt": "catálogo-visão-geral-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Catalog - Overview",
-                    "es": "Catálogo - Información general",
-                    "pt": "Catálogo - Visão geral"
-                  },
-                  "slug": {
-                    "en": "catalog-overview",
-                    "es": "catalogo-vision-general",
-                    "pt": "catalogo-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How indexing works",
-                    "es": "Cómo funciona la indexación",
-                    "pt": "Como funciona a indexação"
-                  },
-                  "slug": {
-                    "en": "understanding-how-indexation-works",
-                    "es": "entendiendo-el-funcionamento-de-la-indexacion",
-                    "pt": "entendendo-o-funcionamento-da-indexacao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20271,6 +20075,21 @@
             },
             {
               "name": {
+                "en": "How indexing works",
+                "es": "Cómo funciona la indexación",
+                "pt": "Como funciona a indexação"
+              },
+              "slug": {
+                "en": "understanding-how-indexation-works",
+                "es": "entendiendo-el-funcionamento-de-la-indexacion",
+                "pt": "entendendo-o-funcionamento-da-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Registering a commercial condition",
                 "es": "Registrar condición comercial",
                 "pt": "Cadastrar condição comercial"
@@ -20288,17 +20107,17 @@
         },
         {
           "name": {
-            "en": "Checkout",
+            "en": "Checkout VTEX - Overview",
             "es": "Checkout",
             "pt": "Checkout"
           },
           "slug": {
-            "en": "checkout-category",
-            "es": "checkout-categoria",
-            "pt": "checkout-categoria"
+            "en": "checkout-vtex-overview",
+            "es": "checkout-vtex-vista-general",
+            "pt": "checkout-vtex-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -20314,21 +20133,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Checkout VTEX - Overview",
-                    "es": "Checkout VTEX - Información general",
-                    "pt": "Checkout VTEX - Visão geral"
-                  },
-                  "slug": {
-                    "en": "checkout-vtex-overview",
-                    "es": "checkout-vtex-vista-general",
-                    "pt": "checkout-vtex-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating a contingency pickup point to guarantee it as an option at checkout",
@@ -32317,33 +32121,18 @@
             },
             {
               "name": {
-                "en": "Price Settings",
+                "en": "Prices Settings",
                 "es": "Configuración de precios",
                 "pt": "Configurações de preços"
               },
               "slug": {
-                "en": "price-settings-subcategory",
-                "es": "configuracion-de-precios-subcategoria",
-                "pt": "configurações-de-preços-subcategoria"
+                "en": "prices-settings",
+                "es": "configuracion-de-precios",
+                "pt": "configuracoes-de-precos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Prices Settings",
-                    "es": "Configuración de precios",
-                    "pt": "Configurações de preços"
-                  },
-                  "slug": {
-                    "en": "prices-settings",
-                    "es": "configuracion-de-precios",
-                    "pt": "configuracoes-de-precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Table of base prices",
@@ -32636,9 +32425,9 @@
         },
         {
           "name": {
-            "en": "Promotions & Taxes - Overview",
-            "es": "Tasas y Promociones - Información general",
-            "pt": "Promoções e Taxas - Visão geral"
+            "en": "Promotions & Taxes",
+            "es": "Tasas y Promociones",
+            "pt": "Promoções e Taxas"
           },
           "slug": {
             "en": "overview-pricing-module",
@@ -32666,7 +32455,7 @@
                   "name": {
                     "en": "Campaign audiences list",
                     "es": "Lista de audiencias de campañas",
-                    "pt": "Lista de Audiências de campanhas"
+                    "pt": "Lista de audiências de campanhas"
                   },
                   "slug": {
                     "en": "campaign-audiences-list",
@@ -32681,7 +32470,7 @@
                   "name": {
                     "en": "Creating a campaign audience",
                     "es": "Crear audiencias de campaña",
-                    "pt": "Criar Audiência de campanha"
+                    "pt": "Criar audiência de campanha"
                   },
                   "slug": {
                     "en": "creating-a-campaign-audience",
@@ -32757,9 +32546,9 @@
             },
             {
               "name": {
-                "en": "Promotions - Overview",
-                "es": "Promociones - Información general",
-                "pt": "Promoções - Visão geral"
+                "en": "Promotions",
+                "es": "Promociones",
+                "pt": "Promoções"
               },
               "slug": {
                 "en": "promotions-overview",
@@ -33314,16 +33103,16 @@
             {
               "name": {
                 "en": "Taxes",
-                "es": "Impuestos",
-                "pt": "Taxas"
+                "es": "Tasa",
+                "pt": "Taxa"
               },
               "slug": {
-                "en": "taxes-subcategory",
-                "es": "impuestos-subcategoria",
-                "pt": "taxas-subcategoria"
+                "en": "creating-surchargestaxes",
+                "es": "creando-la-tasaimpuesto",
+                "pt": "como-criar-taxaimposto"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -33350,21 +33139,6 @@
                     "en": "send-item-price-with-tax-shown-separately",
                     "es": "como-destacar-el-impuesto-en-vtex",
                     "pt": "enviar-preco-com-imposto-separado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Taxes - Overview",
-                    "es": "Tasa - Información general",
-                    "pt": "Taxa - Visão geral"
-                  },
-                  "slug": {
-                    "en": "creating-surchargestaxes",
-                    "es": "creando-la-tasaimpuesto",
-                    "pt": "como-criar-taxaimposto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35041,21 +34815,6 @@
                 },
                 {
                   "name": {
-                    "en": "Logistics in the Grocery Segment (supermarkets)",
-                    "es": "Logística en el segmento de grocery (supermercados)",
-                    "pt": "Logística no segmento de Grocery (supermercados)"
-                  },
-                  "slug": {
-                    "en": "logistics-in-the-grocery-segment-supermarkets",
-                    "es": "logistica-en-el-segmento-de-grocery-supermercados",
-                    "pt": "logistica-no-segmento-de-grocery-supermercados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Managing Loading Docks",
                     "es": "Gestionar el muelle",
                     "pt": "Gerenciar Doca"
@@ -35579,12 +35338,12 @@
             "pt": "Storefront"
           },
           "slug": {
-            "en": "storefront-category",
-            "es": "storefront-categoria",
-            "pt": "storefront-categoria"
+            "en": "storefront-overview",
+            "es": "vision-general-storefront",
+            "pt": "visao-geral-storefront"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -35607,12 +35366,12 @@
                     "pt": "Páginas"
                   },
                   "slug": {
-                    "en": "pages-subcategory",
-                    "es": "paginas-subcategoria",
-                    "pt": "páginas-subcategoria"
+                    "en": "pages-overview",
+                    "es": "paginas-vision-general",
+                    "pt": "paginas-visao-geral"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -35658,21 +35417,6 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Pages - Overview",
-                        "es": "Páginas - Información general",
-                        "pt": "Páginas - Visão geral"
-                      },
-                      "slug": {
-                        "en": "pages-overview",
-                        "es": "paginas-vision-general",
-                        "pt": "paginas-visao-geral"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
                     }
                   ]
                 },
@@ -35683,12 +35427,12 @@
                     "pt": "Site Editor"
                   },
                   "slug": {
-                    "en": "site-editor-subcategory",
-                    "es": "site-editor-subcategoria",
-                    "pt": "site-editor-subcategoria"
+                    "en": "site-editor-overview",
+                    "es": "site-editor-vision-general",
+                    "pt": "site-editor-visao-geral"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -35790,21 +35534,6 @@
                         "en": "scheduling-content-updates",
                         "es": "programar-actualizaciones-de-contenido",
                         "pt": "agendando-atualizacoes-de-conteudo"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Site Editor - Overview",
-                        "es": "Site Editor - Información general",
-                        "pt": "Site Editor - Visão geral"
-                      },
-                      "slug": {
-                        "en": "site-editor-overview",
-                        "es": "site-editor-vision-general",
-                        "pt": "site-editor-visao-geral"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -36015,12 +35744,12 @@
                     "pt": "Estilos"
                   },
                   "slug": {
-                    "en": "styles-subcategory",
-                    "es": "estilos-subcategoria",
-                    "pt": "estilos-subcategoria"
+                    "en": "styles-overview",
+                    "es": "estilos-vision-general",
+                    "pt": "estilos-visao-geral"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -36032,21 +35761,6 @@
                         "en": "customizing-your-stores-typography",
                         "es": "personalizar-la-tipografia-de-tu-tienda",
                         "pt": "personalizando-a-tipografia-da-sua-loja"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Styles - Overview",
-                        "es": "Estilos - Información general",
-                        "pt": "Estilos - Visão geral"
-                      },
-                      "slug": {
-                        "en": "styles-overview",
-                        "es": "estilos-vision-general",
-                        "pt": "estilos-visao-geral"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -37066,16 +36780,16 @@
             {
               "name": {
                 "en": "Headless CMS (Legacy)",
-                "es": "Headless CMS (Legacy)",
-                "pt": "Headless CMS (Legacy)"
+                "es": "Headless CMS (Legado)",
+                "pt": "Headless CMS (Legado)"
               },
               "slug": {
-                "en": "headless-cms-subcategory",
-                "es": "headless-cms-subcategoria",
-                "pt": "headless-cms-subcategoria"
+                "en": "headless-cms-overview",
+                "es": "headless-cms-vision-general",
+                "pt": "headless-cms-visao-geral"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -37087,21 +36801,6 @@
                     "en": "configuring-seo-via-headless-cms",
                     "es": "configurar-seo-a-traves-de-headless-cms",
                     "pt": "configurando-seo-via-headless-cms"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Headless CMS (Legacy) - Overview",
-                    "es": "Headless CMS (Legacy) (Legado) - Información general",
-                    "pt": "Headless CMS (Legacy) (Legado) - Visão geral"
-                  },
-                  "slug": {
-                    "en": "headless-cms-overview",
-                    "es": "headless-cms-vision-general",
-                    "pt": "headless-cms-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37214,21 +36913,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview",
-                "es": "vision-general-storefront",
-                "pt": "visao-geral-storefront"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -69616,6 +69300,21 @@
                 "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
                 "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
                 "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
+                "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
+                "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
+              },
+              "slug": {
+                "en": "amazon-nfe-for-amazon-dba-easy-ship-orders-rejected-when-a-promotional-discount-is-applied-by-the-buyer",
+                "es": "amazon-los-pedidos-nfe-para-amazon-dba-easy-ship-son-rechazados-cuando-el-comprador-aplica-un-descuento-promocional",
+                "pt": "amazon-nfe-para-pedidos-amazon-dba-easy-ship-rejeitados-quando-um-desconto-promocional-e-aplicado-pelo-comprador"
               },
               "origin": "",
               "type": "markdown",
