@@ -334,8 +334,8 @@ Os campos da tabela são descritos abaixo:
 | order_group | string | Identificador do grupo de pedidos. Vincula a impressão a uma transação de pedido específica (que também pode ser encontrada no Modelo de Dados de Pedidos), permitindo análise abrangente da jornada do cliente desde a impressão da busca até a compra. |
 | order_placement_time | timestamp | Timestamp em que a visualização da página de pedido foi finalizado. Reflete o horário de ingestão no servidor, não o relógio do dispositivo do comprador. |
 | impression_time | timestamp | Timestamp em que o evento de impressão foi ingerido pelo pipeline (`event_time` na tabela `impression`). Reflete o horário de ingestão no servidor. |
-| impression_element_source | string | Identifica a origem do evento de impressão no frontend. Coluna duplicada da tabela `impression` para reduzir joins pesados. |
-| session_id | string | Identificador de sessão do Activity Flow da impressão atribuída, copiado da tabela `impression`. Permite joins com a sessão no Activity Flow sem retornar à tabela `impression`. |
+| impression_element_source | string | Identifica a origem do evento de impressão no frontend. Coluna duplicada da tabela `impression` para reduzir a necessidade de correlacionar tabelas pesadas. |
+| session_id | string | Identificador de sessão do Activity Flow da impressão atribuída, copiado da tabela `impression`. Permite correlacionar com a sessão no Activity Flow sem retornar à tabela `impression`. |
 | record_created_at | timestamp | Timestamp de quando este registro foi criado no lakehouse. |
 | record_updated_at | timestamp | Timestamp de quando este registro foi atualizado pela última vez no lakehouse. |
 | batch_id | timestamp | Identificador utilizado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. Também serve como chave de partição. |

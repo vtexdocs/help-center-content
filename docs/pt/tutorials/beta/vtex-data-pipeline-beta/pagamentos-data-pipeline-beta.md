@@ -68,31 +68,31 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: jornada de uma transação com um pagamento, da criação à autorização.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    T["transaction_transitions<br/>transaction_id: TX-1<br/>Authorizing → Authorized"]
-    P["payments_transitions<br/>payment_id: PAY-1<br/>Authorizing → Approved"]
-    A["authorizations_consolidated<br/>authorized: true<br/>connector: gateway-x"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        T["transaction_transitions<br/>transaction_id: TX-1<br/>Authorizing → Authorized"]
+        P["payments_transitions<br/>payment_id: PAY-1<br/>Authorizing → Approved"]
+        A["authorizations_consolidated<br/>authorized: true<br/>connector: gateway-x"]
 
-    T -->|"transaction_id"| P
-    T -->|"transaction_id"| A
-```
+        T -->|"transaction_id"| P
+        T -->|"transaction_id"| A
+    ```
 
-Neste diagrama, a transação `transaction_transitions` conecta o pagamento e a autorização pelo `transaction_id`, permitindo acompanhar a mudança de status até a aprovação.
+    Neste diagrama, a transação `transaction_transitions` conecta o pagamento e a autorização pelo `transaction_id`, permitindo acompanhar a mudança de status até a aprovação.
 
 - Fluxo 2: análise consolidada de valor, método de pagamento e antifraude, correlacionada com pedidos.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    TC["transaction_consolidation<br/>status_transaction: Finished<br/>payment_system_name: credit-card<br/>antifraud_analysis_result: accept"]
-    ORD["Modelo de dados<br/>de Pedidos<br/>orderid / value"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        TC["transaction_consolidation<br/>status_transaction: Finished<br/>payment_system_name: credit-card<br/>antifraud_analysis_result: accept"]
+        ORD["Modelo de dados<br/>de Pedidos<br/>orderid / value"]
 
-    TC -->|"reference_key / conta"| ORD
-```
+        TC -->|"reference_key / conta"| ORD
+    ```
 
-Neste diagrama, `transaction_consolidation` oferece a visão agregada da transação (método, antifraude e valores) e pode ser correlacionada com Pedidos para analisar conversão e receita.
+    Neste diagrama, `transaction_consolidation` oferece a visão agregada da transação (método, antifraude e valores) e pode ser correlacionada com Pedidos para analisar conversão e receita.
 
 ## Características dos dados
 

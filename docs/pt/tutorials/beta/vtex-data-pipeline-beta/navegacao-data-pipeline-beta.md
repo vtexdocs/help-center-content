@@ -35,7 +35,7 @@ O modelo de dados de Navegação descreve a jornada do comprador na sessão:
 
 - **Tabela fato (eventos):** `page_views` registra cada visualização de página; `web_vitals` registra métricas de performance da mesma jornada.
 - **Tabelas de sessão:** `session_order` e `session_user_agent` agregam contexto da sessão (conversão e dispositivo), ligadas por `session_id`.
-- **Tabela dimensão de URL:** `url` classifica o tipo de página, UTMs e IDs de produto/categoria para joins com Catálogo e Pedidos.
+- **Tabela dimensão de URL:** `url` classifica o tipo de página, UTMs e IDs de produto/categoria para correlacionar com Catálogo e Pedidos.
 
 O diagrama abaixo mostra como as tabelas se conectam:
 
@@ -70,35 +70,35 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: jornada do comprador na sessão, da página inicial ao pedido.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    PV1["page_views<br/>homeView"]
-    PV2["page_views<br/>productView"]
-    PV3["page_views<br/>cart → payment"]
-    SO["session_order<br/>order_group: OG-77"]
-    ORD["Pedidos<br/>order_group"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        PV1["page_views<br/>homeView"]
+        PV2["page_views<br/>productView"]
+        PV3["page_views<br/>cart → payment"]
+        SO["session_order<br/>order_group: OG-77"]
+        ORD["Pedidos<br/>order_group"]
 
-    PV1 --> PV2 --> PV3
-    PV3 -->|"session_id"| SO
-    SO -->|"order_group"| ORD
-```
+        PV1 --> PV2 --> PV3
+        PV3 -->|"session_id"| SO
+        SO -->|"order_group"| ORD
+    ```
 
-Neste diagrama, a sequência de `page_views` representa o caminho do comprador na sessão e o `session_order` conecta essa jornada ao pedido via `order_group`.
+    Neste diagrama, a sequência de `page_views` representa o caminho do comprador na sessão e o `session_order` conecta essa jornada ao pedido via `order_group`.
 
 - Fluxo 2: enriquecer visualizações com tipo de página, campanha e performance.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    PV["page_views<br/>session_id: S-1<br/>url: /tenis/p"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        PV["page_views<br/>session_id: S-1<br/>url: /tenis/p"]
 
-    PV -->|"url"| U["url<br/>request_type: productView<br/>utm_source: google<br/>product_id: 100"]
-    PV -->|"session_id"| UA["session_user_agent<br/>device_type: mobile"]
-    PV -->|"session_id"| W["web_vitals<br/>LCP: 2.1s<br/>CLS: 0.05"]
-```
+        PV -->|"url"| U["url<br/>request_type: productView<br/>utm_source: google<br/>product_id: 100"]
+        PV -->|"session_id"| UA["session_user_agent<br/>device_type: mobile"]
+        PV -->|"session_id"| W["web_vitals<br/>LCP: 2.1s<br/>CLS: 0.05"]
+    ```
 
-Neste diagrama, cada visualização ganha contexto de página e campanha (`url`), dispositivo (`session_user_agent`) e performance (`web_vitals`), todos ligados pela sessão ou pela URL.
+    Neste diagrama, cada visualização ganha contexto de página e campanha (`url`), dispositivo (`session_user_agent`) e performance (`web_vitals`), todos ligados pela sessão ou pela URL.
 
 ## Características dos dados
 

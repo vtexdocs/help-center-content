@@ -59,33 +59,33 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: itens do carrinho e como a indisponibilidade de um SKU define o status do carrinho.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    S1["by_sku<br/>sku_id: 1001<br/>item_availability: available"]
-    S2["by_sku<br/>sku_id: 1002<br/>item_availability: withoutStock"]
-    C["cart_availability_silver<br/>order_form_id: OF-55<br/>cart_availability: withoutStock"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        S1["by_sku<br/>sku_id: 1001<br/>item_availability: available"]
+        S2["by_sku<br/>sku_id: 1002<br/>item_availability: withoutStock"]
+        C["cart_availability_silver<br/>order_form_id: OF-55<br/>cart_availability: withoutStock"]
 
-    S1 -->|"order_form_id"| C
-    S2 -->|"order_form_id"| C
-```
+        S1 -->|"order_form_id"| C
+        S2 -->|"order_form_id"| C
+    ```
 
-Neste diagrama, a disponibilidade do carrinho herda o status dos itens, se um SKU está `withoutStock`, o carrinho inteiro passa a refletir essa indisponibilidade.
+    Neste diagrama, a disponibilidade do carrinho herda o status dos itens, se um SKU está `withoutStock`, o carrinho inteiro passa a refletir essa indisponibilidade.
 
 - Fluxo 2: correlacionar carrinhos indisponíveis com sessão de navegação e estoque.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    C["cart_availability_silver<br/>cart_availability: cannotBeDelivered"]
-    N["Navegação<br/>session_id / page_views"]
-    I["Inventário<br/>item_id / warehouse_id"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        C["cart_availability_silver<br/>cart_availability: cannotBeDelivered"]
+        N["Navegação<br/>session_id / page_views"]
+        I["Inventário<br/>item_id / warehouse_id"]
 
-    C -->|"af_session_id"| N
-    C -->|"sku via by_sku"| I
-```
+        C -->|"af_session_id"| N
+        C -->|"sku via by_sku"| I
+    ```
 
-Neste diagrama, o carrinho indisponível se conecta à sessão de navegação `af_session_id` e ao inventário dos SKUs, para investigar jornada e causa da falha de disponibilidade.
+    Neste diagrama, o carrinho indisponível se conecta à sessão de navegação `af_session_id` e ao inventário dos SKUs, para investigar jornada e causa da falha de disponibilidade.
 
 ## Características dos dados
 
@@ -140,7 +140,7 @@ Os campos da tabela são descritos abaixo:
 | sales_channel | integer | Atributo usado pelo comerciante para definir as condições de oferta de um produto. Também conhecido como política comercial. |
 | added_price | double | O valor total dos itens adicionados àquele carrinho. É a soma do valor de todos os itens, se múltiplos itens foram adicionados. |
 | cart_availability | varchar(50) | O carrinho é considerado disponível apenas se todos os itens nele também estiverem disponíveis. Esta disponibilidade é verificada quando um item é adicionado ao carrinho, desde que o comprador já tenha inserido um código postal. Se o código postal ainda não foi inserido, a disponibilidade é determinada no momento em que o comprador o fornece. <br>Se pelo menos um item não estiver disponível, o carrinho em si é marcado como indisponível. Nesse caso, a disponibilidade do carrinho corresponderá ao status de disponibilidade do item indisponível, exceto quando existirem múltiplas razões de indisponibilidade diferentes, então o status do carrinho será multipleUnavailableReasons.</br> <br> Exemplos: <ul> <li>Se dois itens disponíveis forem adicionados, o status do carrinho é available.</li> <li>Se um item disponível e um item withoutStock forem adicionados, o status do carrinho é withoutStock.</li> <li>Se um item withoutStock e um item cannotBeDelivered forem adicionados, o status do carrinho é multipleUnavailableReasons. </li></br></ul> <br> Valores possíveis: <ul><li>available: todos os itens estão disponíveis.</li><li>withoutStock: nenhum vendedor tem estoque para este item.</li><li>cannotBeDelivered: alguns vendedores têm estoque para o item, mas nenhuma rota de entrega está disponível para o código postal.</li><li>withoutPriceFulfillment: o vendedor alocado tem um preço mal configurado para o item.  </li><li>maxNumberOfSellersReached: o número de vendedores no carrinho excede o máximo permitido.</li><li>unavailableItemFulfillment: o vendedor que cumpre o item não retornou uma resposta válida.</li><li>multipleUnavailableReasons: mais de uma razão de indisponibilidade diferente se aplica ao mesmo tempo.</li> </br></ul> |
-| delivery_channel | varchar(33) | Os canais de entrega disponíveis para o carrinho são determinados considerando as opções de entrega de todos os itens nele. <br><br> Por exemplo, <br>Se o Item 1 estiver disponível apenas para pickup-in-point, e o Item 2 estiver disponível tanto para pickup-in-point quanto para delivery, então o canal de entrega do carrinho é definido como delivery.</br> <br>Opções possíveis: <ul><li>both-delivery-and-pickup-in-point: todos os itens podem ser entregues ou retirados em um ponto de retirada.</li><li>delivery: a entrega é a única opção disponível para o carrinho.</li> <li>not-delivered: nenhum canal de entrega está disponível, o que significa que o carrinho está indisponível.</li> <li>pickup-in-point: pickup-in-point é a única opção disponível para o carrinho.</li> <li>mixed-channel-only: alguns itens só podem ser entregues, enquanto outros só podem ser retirados em um ponto de retirada.</li><ul></br> |
+| delivery_channel | varchar(33) | Os canais de entrega disponíveis para o carrinho são determinados considerando as opções de entrega de todos os itens nele. <br><br> Por exemplo, se o Item 1 estiver disponível apenas para pickup-in-point, e o Item 2 estiver disponível tanto para pickup-in-point quanto para delivery, então o canal de entrega do carrinho é definido como delivery.</br> <br>Opções possíveis: <ul><li>both-delivery-and-pickup-in-point: todos os itens podem ser entregues ou retirados em um ponto de retirada.</li><li>delivery: a entrega é a única opção disponível para o carrinho.</li> <li>not-delivered: nenhum canal de entrega está disponível, o que significa que o carrinho está indisponível.</li> <li>pickup-in-point: pickup-in-point é a única opção disponível para o carrinho.</li> <li>mixed-channel-only: alguns itens só podem ser entregues, enquanto outros só podem ser retirados em um ponto de retirada.</li><ul></br> |
 | has_item_unavailability | boolean | Campo obsoleto. |
 | has_item_addition | boolean | Campo obsoleto. |
 | is_single_item_simulation | boolean | Booleano que identifica se o carrinho tem apenas um item ou não. |

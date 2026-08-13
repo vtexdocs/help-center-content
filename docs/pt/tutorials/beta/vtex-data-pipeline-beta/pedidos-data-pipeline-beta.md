@@ -45,7 +45,7 @@ Nesta seção você encontra as seguintes informações:
 O modelo de dados de Pedidos é composto por dois tipos de tabela:
 
 - **Tabelas principais:** armazenam o pedido completo. `orders_latest` guarda o estado mais recente de cada pedido; `orders_historical` registra todas as atualizações ao longo do tempo. Ambas incluem campos `SUPER` com itens, envio, pagamentos e outros detalhes aninhados.
-- **Tabelas auxiliares:** expandem os campos `SUPER` em linhas tipadas (relação 1-para-N), facilitando joins e filtros. Exemplos: `orders_items`, `orders_shipping` e `orders_payments`. A chave de ligação é `orderid`.
+- **Tabelas auxiliares:** expandem os campos `SUPER` em linhas tipadas (relação 1-para-N), facilitando correlacionar e filtrar. Exemplos: `orders_items`, `orders_shipping` e `orders_payments`. A chave de ligação é `orderid`.
 
 O diagrama abaixo mostra como as tabelas se organizam e se conectam:
 
@@ -80,34 +80,34 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: consulta o estado atual de um pedido e detalha seus componentes nas tabelas auxiliares. Por exemplo, um pedido com dois itens, frete e pagamento no cartão.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    LAT["orders_latest<br/>orderid: ORD-123<br/>status: invoiced"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        LAT["orders_latest<br/>orderid: ORD-123<br/>status: invoiced"]
 
-    LAT -->|"orderid"| IT["orders_items<br/>SKU A qtd 1<br/>SKU B qtd 2"]
-    LAT -->|"orderid"| SH["orders_shipping<br/>cidade: São Paulo<br/>frete: R$ 15"]
-    LAT -->|"orderid"| PAY["orders_payments<br/>cartão de crédito"]
-    LAT -->|"orderid"| TOT["orders_totals<br/>total: R$ 250"]
-```
+        LAT -->|"orderid"| IT["orders_items<br/>SKU A qtd 1<br/>SKU B qtd 2"]
+        LAT -->|"orderid"| SH["orders_shipping<br/>cidade: São Paulo<br/>frete: R$ 15"]
+        LAT -->|"orderid"| PAY["orders_payments<br/>cartão de crédito"]
+        LAT -->|"orderid"| TOT["orders_totals<br/>total: R$ 250"]
+    ```
 
-Neste diagrama, `orders_latest` é o ponto de partida, a partir do `orderid`, você obtém itens, frete, pagamento e totais nas tabelas auxiliares, sem precisar extrair campos `SUPER`.
+    Neste diagrama, `orders_latest` é o ponto de partida, a partir do `orderid`, você obtém itens, frete, pagamento e totais nas tabelas auxiliares, sem precisar extrair campos `SUPER`.
 
 - Fluxo 2: usa o histórico para acompanhar mudanças de status ao longo do tempo e correlaciona com itens ou benefícios aplicados.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    H1["orders_historical<br/>status: payment-pending"]
-    H2["orders_historical<br/>status: payment-approved"]
-    H3["orders_historical<br/>status: invoiced"]
-    BEN["orders_rateandbenefitsidentifiers<br/>promo: frete-grátis"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        H1["orders_historical<br/>status: payment-pending"]
+        H2["orders_historical<br/>status: payment-approved"]
+        H3["orders_historical<br/>status: invoiced"]
+        BEN["orders_rateandbenefitsidentifiers<br/>promo: frete-grátis"]
 
-    H1 --> H2 --> H3
-    H3 -->|"orderid"| BEN
-```
+        H1 --> H2 --> H3
+        H3 -->|"orderid"| BEN
+    ```
 
-Neste diagrama, cada linha de `orders_historical` representa uma atualização do pedido. Ao unir o estado final com `orders_rateandbenefitsidentifiers`, você identifica quais promoções estavam ativas quando o pedido foi faturado.
+    Neste diagrama, cada linha de `orders_historical` representa uma atualização do pedido. Ao unir o estado final com `orders_rateandbenefitsidentifiers`, você identifica quais promoções estavam ativas quando o pedido foi faturado.
 
 ## Características dos dados  
 

@@ -80,34 +80,34 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: perfil do vendedor e sua oferta atual.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    S["sellers_latest<br/>seller_id: seller_01<br/>is_active: true"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        S["sellers_latest<br/>seller_id: seller_01<br/>is_active: true"]
 
-    S -->|"seller_id"| I["sellers_inventory<br/>item_id: 123<br/>quantity: 40"]
-    S -->|"seller_id"| P["sellers_pricing<br/>item_id: 123<br/>base_price: 199"]
-    S -->|"seller_id"| PR["sellers_promotions<br/>promo: verão-2025"]
-```
+        S -->|"seller_id"| I["sellers_inventory<br/>item_id: 123<br/>quantity: 40"]
+        S -->|"seller_id"| P["sellers_pricing<br/>item_id: 123<br/>base_price: 199"]
+        S -->|"seller_id"| PR["sellers_promotions<br/>promo: verão-2025"]
+    ```
 
-Neste diagrama, `sellers_latest` identifica o vendedor e, pelo `seller_id`, você consulta estoque, preço e promoções da oferta atual desse seller.
+    Neste diagrama, `sellers_latest` identifica o vendedor e, pelo `seller_id`, você consulta estoque, preço e promoções da oferta atual desse seller.
 
 - Fluxo 2: pedido do vendedor → itens → binding com o catálogo do marketplace.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    O["sellers_orders<br/>order_id: MKT-9"]
-    IT["sellers_orders_items<br/>sellersku: EXT-55"]
-    B["sku_binding<br/>seller_sku_id: EXT-55<br/>sku_id: 123"]
-    CAT["Modelo de dados<br/>de Catálogo<br/>sku / product"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        O["sellers_orders<br/>order_id: MKT-9"]
+        IT["sellers_orders_items<br/>sellersku: EXT-55"]
+        B["sku_binding<br/>seller_sku_id: EXT-55<br/>sku_id: 123"]
+        CAT["Modelo de dados<br/>de Catálogo<br/>sku / product"]
 
-    O -->|"order_id"| IT
-    IT -->|"seller_sku_id"| B
-    B -->|"sku_id"| CAT
-```
+        O -->|"order_id"| IT
+        IT -->|"seller_sku_id"| B
+        B -->|"sku_id"| CAT
+    ```
 
-Neste diagrama, o pedido do vendedor se desdobra em itens, `sku_binding` traduz o SKU do seller para o SKU do marketplace, permitindo cruzar com o Catálogo.
+    Neste diagrama, o pedido do vendedor se desdobra em itens, `sku_binding` traduz o SKU do seller para o SKU do marketplace, permitindo cruzar com o Catálogo.
 
 ## Características dos dados
 

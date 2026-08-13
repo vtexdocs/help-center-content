@@ -28,7 +28,7 @@ Nesta seção você encontra as seguintes informações:
 
 ## Tipos de tabelas e relacionamentos
 
-O modelo de Promoções acompanha o ciclo de vida das campanhas com o padrão *latest* vs *historical*:
+O modelo de Promoções acompanha o ciclo de vida das campanhas com dois tipos de tabela:
 
 - **Tabela de estado atual:** `promotions_latest` guarda a configuração vigente da promoção (`is_active`, datas, regras e condições).
 - **Tabela histórica:** `promotions_historical` registra as versões e alterações da promoção ao longo do tempo.
@@ -59,29 +59,29 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: promoção ativa e sua configuração atual.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    L["promotions_latest<br/>id: promo-verao<br/>is_active: true<br/>begin → end: jan–mar"]
-```
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        L["promotions_latest<br/>id: promo-verao<br/>is_active: true<br/>begin → end: jan–mar"]
+    ```
 
-Neste diagrama, `promotions_latest` concentra a configuração vigente da campanha, status, vigência e identificador usados nas análises atuais.
+    Neste diagrama, `promotions_latest` concentra a configuração vigente da campanha, status, vigência e identificador usados nas análises atuais.
 
 - Fluxo 2: analisar a evolução da promoção no histórico e medir impacto em pedidos.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    H1["promotions_historical<br/>desconto: 10%"]
-    H2["promotions_historical<br/>desconto: 15%"]
-    L["promotions_latest<br/>desconto: 15%<br/>is_active: true"]
-    O["Pedidos<br/>rateandbenefitsidentifiers"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        H1["promotions_historical<br/>desconto: 10%"]
+        H2["promotions_historical<br/>desconto: 15%"]
+        L["promotions_latest<br/>desconto: 15%<br/>is_active: true"]
+        O["Pedidos<br/>rateandbenefitsidentifiers"]
 
-    H1 --> H2 --> L
-    L -->|"id_calculator_configuration"| O
-```
+        H1 --> H2 --> L
+        L -->|"id_calculator_configuration"| O
+    ```
 
-Neste diagrama, o histórico registra as mudanças da promoção até a versão atual e a correlação com Pedidos mostra em quais compras a campanha foi aplicada.
+    Neste diagrama, o histórico registra as mudanças da promoção até a versão atual e a correlação com Pedidos mostra em quais compras a campanha foi aplicada.
 
 ## Características dos dados de promoções
 

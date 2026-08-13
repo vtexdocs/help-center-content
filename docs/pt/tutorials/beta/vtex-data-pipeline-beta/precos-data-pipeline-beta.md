@@ -28,7 +28,7 @@ Neste artigo você encontra as seguintes informações:
 
 ## Tipos de tabelas e relacionamentos
 
-O modelo de Preços usa o padrão *latest* vs *historical* por SKU:
+O modelo de Preços é composto por dois tipos de tabela por SKU:
 
 - **Tabela de estado atual:** `pricing_latest` guarda o preço vigente de cada SKU (`listPrice`, `costPrice`, `basePrice`, `markup`).
 - **Tabela histórica:** `pricing_historical` registra cada alteração de preço ao longo do tempo, incluindo `author_id` e a data da mudança.
@@ -58,32 +58,32 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 - Fluxo 1: consultar o preço atual de um SKU.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart TD
-    L["pricing_latest<br/>sku_id: 1001<br/>basePrice: 199<br/>markup: 0.4"]
-    S["Catálogo sku<br/>sku_id: 1001<br/>Tênis Air Max"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart TD
+        L["pricing_latest<br/>sku_id: 1001<br/>basePrice: 199<br/>markup: 0.4"]
+        S["Catálogo sku<br/>sku_id: 1001<br/>Tênis Air Max"]
 
-    L -->|"sku_id"| S
-```
+        L -->|"sku_id"| S
+    ```
 
-Neste diagrama, `pricing_latest` traz o preço vigente do SKU e o `sku_id` permite enriquecer a análise com os dados do produto no Catálogo.
+    Neste diagrama, `pricing_latest` traz o preço vigente do SKU e o `sku_id` permite enriquecer a análise com os dados do produto no Catálogo.
 
 - Fluxo 2: analisar evolução de preço e impacto em vendas.
 
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
-flowchart LR
-    H1["pricing_historical<br/>basePrice: 229"]
-    H2["pricing_historical<br/>basePrice: 199"]
-    L["pricing_latest<br/>basePrice: 199"]
-    O["Pedidos<br/>orders_items"]
+    ```mermaid
+    %%{init: {'flowchart': {'htmlLabels': true, 'useMaxWidth': false, 'wrappingWidth': 220, 'padding': 14}}}%%
+    flowchart LR
+        H1["pricing_historical<br/>basePrice: 229"]
+        H2["pricing_historical<br/>basePrice: 199"]
+        L["pricing_latest<br/>basePrice: 199"]
+        O["Pedidos<br/>orders_items"]
 
-    H1 --> H2 --> L
-    L -->|"sku_id"| O
-```
+        H1 --> H2 --> L
+        L -->|"sku_id"| O
+    ```
 
-Neste diagrama, `pricing_historical` mostra a sequência de alterações até o preço atual e a correlação com Pedidos ajuda a medir o efeito da mudança de preço nas vendas.
+    Neste diagrama, `pricing_historical` mostra a sequência de alterações até o preço atual e a correlação com Pedidos ajuda a medir o efeito da mudança de preço nas vendas.
 
 ## Características dos dados
 
