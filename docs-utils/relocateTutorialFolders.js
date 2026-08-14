@@ -380,6 +380,12 @@ const applyRewrites = (folderAbs, oldDirRel, newDirRel) => {
 
 const main = () => {
   const sourceFolder = path.resolve(REPO_ROOT, sourceArg);
+  if (fs.existsSync(sourceFolder) && fs.statSync(sourceFolder).isFile() && sourceFolder.endsWith('.md')) {
+    console.error(
+      `Source is a markdown file. To move one article and its images, use:\n  node docs-utils/relocateTutorialFiles.js ${toRepoRel(sourceFolder)} ...`
+    );
+    process.exit(1);
+  }
   if (!fs.existsSync(sourceFolder) || !fs.statSync(sourceFolder).isDirectory()) {
     console.error(`Not a directory: ${sourceFolder}`);
     process.exit(1);
