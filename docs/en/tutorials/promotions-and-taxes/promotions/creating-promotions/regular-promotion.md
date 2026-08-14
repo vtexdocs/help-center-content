@@ -1,5 +1,5 @@
 ---
-title: 'Regular Promotion'
+title: 'Creating a regular promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z

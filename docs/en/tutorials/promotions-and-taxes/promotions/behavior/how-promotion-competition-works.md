@@ -1,5 +1,5 @@
 ---
-title: 'How promotion competition works'
+title: 'Promotion competition'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
@@ -95,7 +95,7 @@ They're applied to the amount already discounted by the promotion that won among
 
 The application sequence is:  
 
-![promoção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
+![promoção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/behavior/how-promotion-competition-works_1.png)
 
 > ⚠️ Orders originating from [Marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces) or Fulfillment don't support combined promotions, as the use of promotions on VTEX or external marketplaces is restricted to specific types.
 

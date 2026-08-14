@@ -1,5 +1,5 @@
 ---
-title: 'How the gift multiplier works in promotions'
+title: 'Gift multiplier'
 id: 1gydgkmjEWcoo2CskUwuYK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.467Z
