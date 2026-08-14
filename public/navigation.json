@@ -19740,6 +19740,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring accessories, suggestions, similar products, and show together",
+                    "es": "Configurar accesorios, sugerencias, productos similares y mostrar juntos",
+                    "pt": "Configurar acessórios, sugestões, produtos similares e mostrar junto"
+                  },
+                  "slug": {
+                    "en": "setting-up-accessories-suggestions-similar-products-and-show-together",
+                    "es": "configurar-accesorios-sugerencias-productos-similares-y-mostrar-juntos",
+                    "pt": "configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a product for presale",
                     "es": "Registrar un producto para la preventa",
                     "pt": "Cadastrar um produto para pré-venda"
@@ -19808,21 +19823,6 @@
                     "en": "how-to-define-the-url-for-a-product-page",
                     "es": "como-definir-la-url-de-un-producto",
                     "pt": "como-definir-a-url-de-um-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to set up similar product, suggestions, accessories and generics",
-                    "es": "Configurar producto similar, sugerencias, accesorios y genéricos",
-                    "pt": "Configurar acessórios, sugestões, produtos similares e mostrar junto"
-                  },
-                  "slug": {
-                    "en": "setting-up-accessories-suggestions-similar-products-and-show-together",
-                    "es": "configurar-accesorios-sugerencias-productos-similares-y-mostrar-juntos",
-                    "pt": "configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39316,37 +39316,6 @@
         },
         {
           "name": {
-            "en": "App Platform",
-            "es": "App Platform",
-            "pt": "App Platform"
-          },
-          "slug": {
-            "en": "app-platform",
-            "es": "app-platform",
-            "pt": "app-platform"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Cold Start requests failing with timeout and courier retries not working as expected",
-                "es": "Las solicitudes de arranque en frío fallan con el tiempo de espera y los reintentos de mensajería no funcionan como se esperaba.",
-                "pt": "As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado"
-              },
-              "slug": {
-                "en": "cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected",
-                "es": "las-solicitudes-de-arranque-en-frio-fallan-con-el-tiempo-de-espera-y-los-reintentos-de-mensajeria-no-funcionan-como-se-esperaba",
-                "pt": "as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Apps",
             "es": "Apps",
             "pt": "Apps"
@@ -39482,13 +39451,13 @@
             {
               "name": {
                 "en": "Infinite login loop when opening private GraphiQL link from terminal",
-                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
-                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde la terminal.",
+                "pt": "Loop infinito de login ao abrir um link GraphiQL privado a partir do terminal."
               },
               "slug": {
                 "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
-                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
-                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-la-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-graphiql-privado-a-partir-do-terminal"
               },
               "origin": "",
               "type": "markdown",
@@ -39504,6 +39473,21 @@
                 "en": "issue-with-node-version-compatibility",
                 "es": "problema-de-compatibilidad-de-versiones-de-node",
                 "pt": "problema-de-compatibilidade-de-versao-do-nodejs"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Requests failing with timeout during app cold start",
+                "es": "Las solicitudes fallan por tiempo de espera durante el inicio en frío de la aplicación.",
+                "pt": "As solicitações falham com erro de tempo limite durante a inicialização a frio do aplicativo."
+              },
+              "slug": {
+                "en": "requests-failing-with-timeout-during-app-cold-start",
+                "es": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
+                "pt": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo"
               },
               "origin": "",
               "type": "markdown",
@@ -40015,6 +39999,21 @@
                 "en": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
                 "es": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
                 "pt": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Quotes Organization and Cost Center Filter doesn't work for users with Access All Quotes and Carts Permission",
+                "es": "Mi filtro de organización y centro de costos de cotizaciones no funciona para los usuarios con permiso de acceso a todas las cotizaciones y carritos.",
+                "pt": "A organização \"Minhas Cotações\" e o filtro de centro de custos não funcionam para usuários com permissão de acesso a todas as cotações e carrinhos."
+              },
+              "slug": {
+                "en": "my-quotes-organization-and-cost-center-filter-doesnt-work-for-users-with-access-all-quotes-and-carts-permission",
+                "es": "mi-filtro-de-organizacion-y-centro-de-costos-de-cotizaciones-no-funciona-para-los-usuarios-con-permiso-de-acceso-a-todas-las-cotizaciones-y-carritos",
+                "pt": "a-organizacao-minhas-cotacoes-e-o-filtro-de-centro-de-custos-nao-funcionam-para-usuarios-com-permissao-de-acesso-a-todas-as-cotacoes-e-carrinhos"
               },
               "origin": "",
               "type": "markdown",
@@ -41636,6 +41635,21 @@
                 "en": "create-product-api-doesnt-send-nulls-as-release-date-values",
                 "es": "la-api-de-creacion-de-productos-no-envia-valores-nulos-como-fecha-de-lanzamiento",
                 "pt": "a-api-de-criacao-de-produtos-nao-envia-nulos-como-valores-de-data-de-lancamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Creating a mandatory, active, sku specification is not inactivating category skus",
+                "es": "La creación de una especificación de SKU obligatoria y activa no desactiva las SKU de categoría.",
+                "pt": "Criar uma especificação de SKU obrigatória e ativa não desativa as SKUs da categoria."
+              },
+              "slug": {
+                "en": "creating-a-mandatory-active-sku-specification-is-not-inactivating-category-skus",
+                "es": "la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria",
+                "pt": "criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria"
               },
               "origin": "",
               "type": "markdown",
@@ -43488,6 +43502,21 @@
             },
             {
               "name": {
+                "en": "Seller Portal Image Upload (vtex.catalog-images) returns 404 for certain filename patterns",
+                "es": "La carga de imágenes del portal del vendedor (vtex.catalog-images) devuelve un error 404 para ciertos patrones de nombres de archivo.",
+                "pt": "O recurso de upload de imagens no Seller Portal (vtex.catalog-images) retorna o erro 404 para determinados padrões de nome de arquivo."
+              },
+              "slug": {
+                "en": "seller-portal-image-upload-vtexcatalogimages-returns-404-for-certain-filename-patterns",
+                "es": "la-carga-de-imagenes-del-portal-del-vendedor-vtexcatalogimages-devuelve-un-error-404-para-ciertos-patrones-de-nombres-de-archivo",
+                "pt": "o-recurso-de-upload-de-imagens-no-seller-portal-vtexcatalogimages-retorna-o-erro-404-para-determinados-padroes-de-nome-de-arquivo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller Portal Product Doesn't Load When Without Images",
                 "es": "El producto no se carga en el portal del vendedor cuando no hay imágenes",
                 "pt": "O produto no Portal do Vendedor não carrega quando não há imagens"
@@ -44021,6 +44050,21 @@
                 "en": "time-out-on-category-keywords-change-with-many-products",
                 "es": "timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos",
                 "pt": "timeout-ao-mudar-as-palavraschave-da-categoria-com-muitos-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Timeout returned when deleting some collections through API",
+                "es": "Se produjo un error de tiempo de espera al eliminar algunas colecciones a través de la API.",
+                "pt": "Ocorreu um erro de tempo limite ao excluir algumas coleções por meio da API."
+              },
+              "slug": {
+                "en": "timeout-returned-when-deleting-some-collections-through-api",
+                "es": "se-produjo-un-error-de-tiempo-de-espera-al-eliminar-algunas-colecciones-a-traves-de-la-api",
+                "pt": "ocorreu-um-erro-de-tempo-limite-ao-excluir-algumas-colecoes-por-meio-da-api"
               },
               "origin": "",
               "type": "markdown",
@@ -45673,6 +45717,21 @@
                 "en": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
                 "es": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
                 "pt": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
+                "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
+                "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
+              },
+              "slug": {
+                "en": "checkoutorderformownership-is-lostdoesnt-exist-in-some-purchase-flows",
+                "es": "la-propiedad-del-formulario-de-pedido-de-pago-se-pierde-o-no-existe-en-algunos-flujos-de-compra",
+                "pt": "a-propriedade-do-formulario-de-pedido-no-checkout-e-perdidanao-existe-em-alguns-fluxos-de-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -51099,7 +51158,7 @@
             {
               "name": {
                 "en": "Shopee Error when updating commercial policy in the integration card setup",
-                "es": "Shopee Error al actualizar la política comercial en la configuración de la tarjeta de integración",
+                "es": "Shopee Error al actualizar la política comercial en la configuración de la tarjeta de integración.",
                 "pt": "Shopee Erro ao atualizar a política comercial na configuração do cartão de integração"
               },
               "slug": {
@@ -54315,13 +54374,13 @@
             {
               "name": {
                 "en": "Excluded warehouses continue to return stock availability in the simulation and availability API",
-                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de existencias en la simulación y la API de disponibilidad",
-                "pt": "Os depósitos excluídos continuam a retornar a disponibilidade de estoque na simulação e na API de disponibilidade"
+                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de stock en la simulación y la API de disponibilidad.",
+                "pt": "Os armazéns excluídos continuam a apresentar disponibilidade de estoque na simulação e na API de disponibilidade."
               },
               "slug": {
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
-                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-existencias-en-la-simulacion-y-la-api-de-disponibilidad",
-                "pt": "os-depositos-excluidos-continuam-a-retornar-a-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
+                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
+                "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
               },
               "origin": "",
               "type": "markdown",
@@ -54524,14 +54583,14 @@
             },
             {
               "name": {
-                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
-                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
+                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
               },
               "slug": {
-                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
+                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -54630,12 +54689,12 @@
             {
               "name": {
                 "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un MaxVolume incorrecto en la hoja de cálculo no muestra el error del mensaje en la simulación",
+                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
                 "pt": "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
               },
               "slug": {
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
+                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
                 "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
               },
               "origin": "",
@@ -54765,13 +54824,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
-                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
+                "es": "La exportación de stock no funciona para una base de SKU muy grande (StatusCode: 429).",
+                "pt": "A exportação de estoque não funciona para uma base de SKUs muito grande (StatusCode: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
+                "es": "la-exportacion-de-stock-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-skus-muito-grande-statuscode-429"
               },
               "origin": "",
               "type": "markdown",
@@ -54810,13 +54869,13 @@
             {
               "name": {
                 "en": "Timeout in Analytics Query Can Prevent Inventory Log from Loading",
-                "es": "El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario",
-                "pt": "O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário"
+                "es": "Un tiempo de espera agotado en una consulta de análisis puede impedir que se cargue el registro de inventario.",
+                "pt": "Um tempo limite excedido na consulta de análise pode impedir o carregamento do log de inventário."
               },
               "slug": {
                 "en": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
-                "es": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
-                "pt": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario"
+                "es": "un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario",
+                "pt": "um-tempo-limite-excedido-na-consulta-de-analise-pode-impedir-o-carregamento-do-log-de-inventario"
               },
               "origin": "",
               "type": "markdown",
@@ -54877,21 +54936,6 @@
                 "en": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
                 "es": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
                 "pt": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
-                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
-                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
-              },
-              "slug": {
-                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
               },
               "origin": "",
               "type": "markdown",
@@ -58310,13 +58354,13 @@
             {
               "name": {
                 "en": "My Account - Receiver Name field doesn't recognize input.",
-                "es": "Mi cuenta - El campo Nombre del receptor no reconoce la entrada.",
-                "pt": "Minha Conta - O campo Nome do Receptor não reconhece a entrada."
+                "es": "El campo \"Nombre del destinatario\" de mi cuenta no reconoce la entrada.",
+                "pt": "O campo \"Nome do destinatário\" em \"Minha conta\" não reconhece a entrada de dados."
               },
               "slug": {
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
-                "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
-                "pt": "minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada"
+                "es": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
+                "pt": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados"
               },
               "origin": "",
               "type": "markdown",
@@ -59566,6 +59610,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Wrong warehouse assigned to item added via ChangeOrderV2 (FFM/SOS ShippingEnricher ignores Logistics’ DeliveryIds)",
+                "es": "Se asignó un almacén incorrecto al artículo agregado mediante ChangeOrderV2 (FFM/SOS ShippingEnricher ignora los DeliveryIds de Logística).",
+                "pt": "Armazém incorreto atribuído ao item adicionado via ChangeOrderV2 (FFM/SOS ShippingEnricher ignora os DeliveryIds da Logística)"
+              },
+              "slug": {
+                "en": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+                "es": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+                "pt": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -60045,6 +60104,21 @@
                 "en": "cardholderdocument-is-not-sent-to-antifraud",
                 "es": "el-documento-del-titular-de-la-tarjeta-no-se-envia-al-sistema-antifraude",
                 "pt": "o-documento-do-titular-do-cartao-nao-e-enviado-ao-sistema-antifraude"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Cash (1x) transactions may be recorded under a payment rule that does not offer the 1x installment option",
+                "es": "Las transacciones en efectivo (1x) pueden registrarse bajo una regla de pago que no ofrece la opción de pago a plazos 1x.",
+                "pt": "Transações em dinheiro (1x) podem ser registradas sob uma regra de pagamento que não oferece a opção de parcelamento em 1x."
+              },
+              "slug": {
+                "en": "cash-1x-transactions-may-be-recorded-under-a-payment-rule-that-does-not-offer-the-1x-installment-option",
+                "es": "las-transacciones-en-efectivo-1x-pueden-registrarse-bajo-una-regla-de-pago-que-no-ofrece-la-opcion-de-pago-a-plazos-1x",
+                "pt": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x"
               },
               "origin": "",
               "type": "markdown",
@@ -60825,21 +60899,6 @@
                 "en": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
                 "es": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
                 "pt": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option",
-                "es": "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo",
-                "pt": "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela"
-              },
-              "slug": {
-                "en": "for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option",
-                "es": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-                "pt": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela"
               },
               "origin": "",
               "type": "markdown",
@@ -61927,6 +61986,21 @@
             },
             {
               "name": {
+                "en": "Outdated card brand regex causes brand misidentification at checkout",
+                "es": "La expresión regular de marca de tarjeta obsoleta provoca una identificación errónea de la marca en el momento del pago.",
+                "pt": "Expressões regulares desatualizadas para marcas de cartões causam identificação incorreta da marca no caixa."
+              },
+              "slug": {
+                "en": "outdated-card-brand-regex-causes-brand-misidentification-at-checkout",
+                "es": "la-expresion-regular-de-marca-de-tarjeta-obsoleta-provoca-una-identificacion-erronea-de-la-marca-en-el-momento-del-pago",
+                "pt": "expressoes-regulares-desatualizadas-para-marcas-de-cartoes-causam-identificacao-incorreta-da-marca-no-caixa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Outdated Elo regex is causing us to misidentify some BINs",
                 "es": "Una regex de Elo obsoleta nos hace identificar erróneamente algunos BINs",
                 "pt": "O regex Elo desatualizado está nos levando a identificar incorretamente alguns BINs"
@@ -61950,21 +62024,6 @@
                 "en": "outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page",
                 "es": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
                 "pt": "zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
-              },
-              "slug": {
-                "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
               },
               "origin": "",
               "type": "markdown",
@@ -62393,13 +62452,13 @@
             {
               "name": {
                 "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
-                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
-                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas/condiciones de pago activas.",
+                "pt": "Os métodos de pagamento removidos ainda são exibidos no Checkout quando a conta não possui regras/condições de pagamento ativas."
               },
               "slug": {
                 "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
-                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
-                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglascondiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-sao-exibidos-no-checkout-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
               },
               "origin": "",
               "type": "markdown",
@@ -62918,13 +62977,13 @@
             {
               "name": {
                 "en": "Transaction error caused by BIN validation mismatch in payment rules",
-                "es": "Error en la transacción debido a una discrepancia en la validación del BIN en las reglas de pago",
-                "pt": "Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento"
+                "es": "Error de transacción causado por una discrepancia en la validación del BIN en las reglas de pago.",
+                "pt": "Erro de transação causado por incompatibilidade na validação do BIN nas regras de pagamento."
               },
               "slug": {
                 "en": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
-                "es": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
-                "pt": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
+                "es": "error-de-transaccion-causado-por-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+                "pt": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -63435,6 +63494,21 @@
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "las-transacciones-con-el-conector-tnspay-se-rechazan-por-error-la-tarjeta-no-esta-registrada-en-3ds",
                 "pt": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
+                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs",
+                "en": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN"
+              },
+              "slug": {
+                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
+                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -65292,6 +65366,21 @@
             },
             {
               "name": {
+                "en": "\"Overwrite All Fixed Prices\" import option does not function to delete all prices",
+                "es": "La opción de importación \"Sobrescribir todos los precios fijos\" no funciona para eliminar todos los precios.",
+                "pt": "A opção de importação \"Substituir todos os preços fixos\" não funciona para excluir todos os preços."
+              },
+              "slug": {
+                "en": "overwrite-all-fixed-prices-import-option-does-not-function-to-delete-all-prices",
+                "es": "la-opcion-de-importacion-sobrescribir-todos-los-precios-fijos-no-funciona-para-eliminar-todos-los-precios",
+                "pt": "a-opcao-de-importacao-substituir-todos-os-precos-fixos-nao-funciona-para-excluir-todos-os-precos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Applying a Coupon Removes Initial UTM Campaign Promotion from Cart",
                 "es": "La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro",
                 "pt": "A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho"
@@ -66065,6 +66154,21 @@
                 "en": "pricing-modification-via-compatibility-post-prices-route-is-losing-data",
                 "es": "la-modificacion-de-precios-a-traves-de-la-ruta-de-precios-de-las-publicaciones-de-compatibilidad-provoca-la-perdida-de-datos",
                 "pt": "a-modificacao-de-precos-por-meio-da-rota-de-precos-de-postagem-de-compatibilidade-esta-causando-perda-de-dados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pricing search error (\"Error - undefined\") on sub-accounts due to missing CMS configuration folders",
+                "es": "Error de búsqueda de precios (\"Error - indefinido\") en subcuentas debido a la falta de carpetas de configuración de CMS.",
+                "pt": "Erro na pesquisa de preços (\"Erro - indefinido\") em subcontas devido à ausência de pastas de configuração do CMS."
+              },
+              "slug": {
+                "en": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+                "es": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+                "pt": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms"
               },
               "origin": "",
               "type": "markdown",
@@ -68461,6 +68565,21 @@
             },
             {
               "name": {
+                "en": "productImpression event is sent with only one product when the shelf uses slider-layout with infinite: true",
+                "es": "El evento productImpression se envía con un solo producto cuando el estante utiliza slider-layout con infinite: true.",
+                "pt": "O evento productImpression é enviado com apenas um produto quando a prateleira usa layout deslizante com infinite: true."
+              },
+              "slug": {
+                "en": "productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true",
+                "es": "el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true",
+                "pt": "o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Property blockClass from infoCard not working",
                 "es": "La propiedad `blockClass` de `infoCard` no funciona",
                 "pt": "A propriedade `blockClass` do `infoCard` não está funcionando"
@@ -68536,29 +68655,14 @@
             },
             {
               "name": {
-                "en": "Rewriter is not receiving URL updates",
-                "es": "El reescribidor no recibe actualizaciones de URL",
-                "pt": "O reescritor não está recebendo atualizações de URL"
+                "en": "Rewriter not receiving route updates from the catalog",
+                "es": "El Rewriter no recibe actualizaciones de ruta del catálogo.",
+                "pt": "O Rewriter não está recebendo atualizações de rota do catálogo."
               },
               "slug": {
-                "en": "rewriter-is-not-receiving-url-updates",
-                "es": "el-reescribidor-no-recibe-actualizaciones-de-url",
-                "pt": "o-reescritor-nao-esta-recebendo-atualizacoes-de-url"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Rewriter not receiving routes updated from the catalog",
-                "es": "El reescritor no recibe las rutas actualizadas desde el catálogo",
-                "pt": "O reescritor não está recebendo rotas atualizadas do catálogo"
-              },
-              "slug": {
-                "en": "rewriter-not-receiving-routes-updated-from-the-catalog",
-                "es": "el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo",
-                "pt": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo"
+                "en": "rewriter-not-receiving-route-updates-from-the-catalog",
+                "es": "el-rewriter-no-recibe-actualizaciones-de-ruta-del-catalogo",
+                "pt": "o-rewriter-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo"
               },
               "origin": "",
               "type": "markdown",
@@ -68762,13 +68866,13 @@
             {
               "name": {
                 "en": "Some custom pages are not returning in Custom Routes API causing missing entries in the sitemap",
-                "es": "Algunas páginas personalizadas no aparecen en la API de rutas personalizadas, por lo que faltan entradas en el mapa del sitio.",
-                "pt": "Algumas páginas personalizadas não estão retornando na API de rotas personalizadas, causando a falta de entradas no mapa do site."
+                "es": "Algunas páginas personalizadas no se devuelven en la API de Rutas Personalizadas, lo que provoca que falten entradas en el mapa del sitio.",
+                "pt": "Algumas páginas personalizadas não estão sendo retornadas na API de Rotas Personalizadas, o que causa a ausência de entradas no mapa do site."
               },
               "slug": {
                 "en": "some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap",
-                "es": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
-                "pt": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site"
+                "es": "algunas-paginas-personalizadas-no-se-devuelven-en-la-api-de-rutas-personalizadas-lo-que-provoca-que-falten-entradas-en-el-mapa-del-sitio",
+                "pt": "algumas-paginas-personalizadas-nao-estao-sendo-retornadas-na-api-de-rotas-personalizadas-o-que-causa-a-ausencia-de-entradas-no-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
@@ -69259,6 +69363,36 @@
             },
             {
               "name": {
+                "en": "Amazon Inactive or out-of-commercial-policy SKUs remain published (Match/new listing) on Amazon after the connector sends them",
+                "es": "Amazon Los SKU inactivos o que no cumplen con la política comercial permanecen publicados (Coincidencia/nuevo listado) en Amazon después de que el conector los envía.",
+                "pt": "Amazon Os SKUs inativos ou fora da política comercial permanecem publicados (Correspondência/novo anúncio) na Amazon após o conector enviá-los."
+              },
+              "slug": {
+                "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
+                "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
+                "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
+                "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
+                "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
+              },
+              "slug": {
+                "en": "amazon-nfe-for-amazon-dba-easy-ship-orders-rejected-when-a-promotional-discount-is-applied-by-the-buyer",
+                "es": "amazon-los-pedidos-nfe-para-amazon-dba-easy-ship-son-rechazados-cuando-el-comprador-aplica-un-descuento-promocional",
+                "pt": "amazon-nfe-para-pedidos-amazon-dba-easy-ship-rejeitados-quando-um-desconto-promocional-e-aplicado-pelo-comprador"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Order cancellation flow",
                 "es": "Amazon Proceso de cancelación de pedidos",
                 "pt": "Amazon Fluxo de cancelamento de pedidos"
@@ -69267,6 +69401,36 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-proceso-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon SKU matching status reverts to \"Pending review\" after manual confirmation",
+                "es": "Amazon El estado de coincidencia de SKU vuelve a \"Pendiente de revisión\" después de la confirmación manual.",
+                "pt": "Amazon O status de correspondência do SKU volta para \"Aguardando revisão\" após confirmação manual."
+              },
+              "slug": {
+                "en": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
+                "es": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
+                "pt": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Category mapping via XLS not reprocessed for accounts with large volume of suggestions",
+                "es": "La asignación de categorías mediante XLS no se reprocesa para cuentas con un gran volumen de sugerencias.",
+                "pt": "O mapeamento de categorias via XLS não é reprocessado para contas com grande volume de sugestões."
+              },
+              "slug": {
+                "en": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
+                "es": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
+                "pt": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes"
               },
               "origin": "",
               "type": "markdown",
@@ -69297,6 +69461,36 @@
                 "en": "magazine-luiza-main-image-not-respected",
                 "es": "magazine-luiza-imagen-principal-no-respetada",
                 "pt": "magazine-luiza-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Ads Incorrectly Re-created as Cross-docking for Full SKUs with Zero Stock",
+                "es": "Mercado Livre Anuncios recreados incorrectamente como cross-docking para SKU completos con stock cero.",
+                "pt": "Mercado Livre Anúncios recriados incorretamente como cross-docking para SKUs completos com estoque zero"
+              },
+              "slug": {
+                "en": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
+                "es": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
+                "pt": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_UNAVAILABLE_SLA)",
+                "es": "Mercado Livre El pedido no se puede reprocesar cuando se cancela el envío (ERR_UNAVAILABLE_SLA)",
+                "pt": "Mercado Livre O pedido não pode ser reprocessado quando o envio é cancelado (ERR_UNAVAILABLE_SLA)"
+              },
+              "slug": {
+                "en": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
+                "es": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
+                "pt": "mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla"
               },
               "origin": "",
               "type": "markdown",
