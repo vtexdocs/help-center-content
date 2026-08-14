@@ -26,7 +26,23 @@ Out:
 
 Apply to **all three locales** unless the user restricts the scope.
 
+## Script
+
+Prefer the script over doing the steps by hand:
+
+```bash
+# dry-run (default)
+node docs-utils/reorderTutorialCategories.js "VTEX Admin" Dashboards Orders Catalog Promotions Storefront Shipping Marketplace Apps "Store Settings"
+
+# write the new order values
+node docs-utils/reorderTutorialCategories.js --file order.txt --apply
+```
+
+`--locale en|es|pt` restricts the write to those locales. Labels can be ids, localized names, or the aliases below.
+
 ## Workflow
+
+Use the script above. Manual steps below are the spec it implements.
 
 ### 1. Load top-level categories
 
