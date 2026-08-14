@@ -21651,6 +21651,159 @@
             },
             {
               "name": {
+                "en": "CMS",
+                "es": "CMS",
+                "pt": "CMS"
+              },
+              "slug": {
+                "en": "cms-overview",
+                "es": "cms-informacion-general",
+                "pt": "cms-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": [
+                {
+                  "name": {
+                    "en": "Versions and branches",
+                    "es": "Versiones y ramas",
+                    "pt": "Versões e branches"
+                  },
+                  "slug": {
+                    "en": "managing-versions-and-branches",
+                    "es": "gestionando-versiones-y-branches",
+                    "pt": "gerenciando-versoes-e-branches"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Collaboration workflows",
+                        "es": "Flujos de trabajo de colaboración",
+                        "pt": "Fluxos de trabalho de colaboração"
+                      },
+                      "slug": {
+                        "en": "collaboration-workflows",
+                        "es": "flujos-de-trabajo-de-colaboracion",
+                        "pt": "fluxos-de-trabalho-de-colaboracao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Version history",
+                        "es": "Historial de versiones",
+                        "pt": "Histórico de versões"
+                      },
+                      "slug": {
+                        "en": "cms-version-history",
+                        "es": "historial-de-versiones",
+                        "pt": "historico-de-versoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Localizing content",
+                    "es": "Localización de contenido",
+                    "pt": "Localização de conteúdo"
+                  },
+                  "slug": {
+                    "en": "localizing-content",
+                    "es": "localizacion-de-contenido",
+                    "pt": "localizacao-de-conteudo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configuring locales",
+                        "es": "Configurar configuraciones regionales",
+                        "pt": "Configurar localidades"
+                      },
+                      "slug": {
+                        "en": "configuring-locales",
+                        "es": "configurar-configuraciones-regionales",
+                        "pt": "configurar-localidades"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Supported languages and regions",
+                        "es": "Idiomas y regiones admitidos",
+                        "pt": "Regiões e idiomas suportados"
+                      },
+                      "slug": {
+                        "en": "supported-languages-and-regions",
+                        "es": "idiomas-y-regiones-admitidos",
+                        "pt": "idiomas-e-regioes-compativeis"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Understanding locale fallback rules",
+                        "es": "Estrategias de configuración regional de resguardo",
+                        "pt": "Estratégias de fallback de localidade"
+                      },
+                      "slug": {
+                        "en": "understanding-locale-fallback-rules",
+                        "es": "estrategias-de-configuracion-regional-de-resguardo",
+                        "pt": "entendendo-as-regras-de-fallback-de-localidade"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Configuring stores",
+                    "es": "Configurar tiendas",
+                    "pt": "Configurar lojas"
+                  },
+                  "slug": {
+                    "en": "cms-configuring-stores",
+                    "es": "cms-configurar-tiendas",
+                    "pt": "cms-configurar-lojas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Roles and permissions",
+                    "es": "Roles y permisos",
+                    "pt": "Perfis de acesso e permissões"
+                  },
+                  "slug": {
+                    "en": "roles-and-permissions",
+                    "es": "roles-y-permisos",
+                    "pt": "perfis-de-acesso-e-permissoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Agentic CX",
                 "es": "Agentic CX",
                 "pt": "Agentic CX"
@@ -21694,159 +21847,6 @@
                   "children": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "CMS",
-            "es": "CMS",
-            "pt": "CMS"
-          },
-          "slug": {
-            "en": "cms-overview",
-            "es": "cms-informacion-general",
-            "pt": "cms-visao-geral"
-          },
-          "origin": "",
-          "type": "markdown",
-          "children": [
-            {
-              "name": {
-                "en": "Versions and branches",
-                "es": "Versiones y ramas",
-                "pt": "Versões e branches"
-              },
-              "slug": {
-                "en": "managing-versions-and-branches",
-                "es": "gestionando-versiones-y-branches",
-                "pt": "gerenciando-versoes-e-branches"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Collaboration workflows",
-                    "es": "Flujos de trabajo de colaboración",
-                    "pt": "Fluxos de trabalho de colaboração"
-                  },
-                  "slug": {
-                    "en": "collaboration-workflows",
-                    "es": "flujos-de-trabajo-de-colaboracion",
-                    "pt": "fluxos-de-trabalho-de-colaboracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Version history",
-                    "es": "Historial de versiones",
-                    "pt": "Histórico de versões"
-                  },
-                  "slug": {
-                    "en": "cms-version-history",
-                    "es": "historial-de-versiones",
-                    "pt": "historico-de-versoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Localizing content",
-                "es": "Localización de contenido",
-                "pt": "Localização de conteúdo"
-              },
-              "slug": {
-                "en": "localizing-content",
-                "es": "localizacion-de-contenido",
-                "pt": "localizacao-de-conteudo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring locales",
-                    "es": "Configurar configuraciones regionales",
-                    "pt": "Configurar localidades"
-                  },
-                  "slug": {
-                    "en": "configuring-locales",
-                    "es": "configurar-configuraciones-regionales",
-                    "pt": "configurar-localidades"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Supported languages and regions",
-                    "es": "Idiomas y regiones admitidos",
-                    "pt": "Regiões e idiomas suportados"
-                  },
-                  "slug": {
-                    "en": "supported-languages-and-regions",
-                    "es": "idiomas-y-regiones-admitidos",
-                    "pt": "idiomas-e-regioes-compativeis"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Understanding locale fallback rules",
-                    "es": "Estrategias de configuración regional de resguardo",
-                    "pt": "Estratégias de fallback de localidade"
-                  },
-                  "slug": {
-                    "en": "understanding-locale-fallback-rules",
-                    "es": "estrategias-de-configuracion-regional-de-resguardo",
-                    "pt": "entendendo-as-regras-de-fallback-de-localidade"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configuring stores",
-                "es": "Configurar tiendas",
-                "pt": "Configurar lojas"
-              },
-              "slug": {
-                "en": "cms-configuring-stores",
-                "es": "cms-configurar-tiendas",
-                "pt": "cms-configurar-lojas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Roles and permissions",
-                "es": "Roles y permisos",
-                "pt": "Perfis de acesso e permissões"
-              },
-              "slug": {
-                "en": "roles-and-permissions",
-                "es": "roles-y-permisos",
-                "pt": "perfis-de-acesso-e-permissoes"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
