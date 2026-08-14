@@ -32016,17 +32016,17 @@
         },
         {
           "name": {
-            "en": "Promotions & Taxes",
-            "es": "Tasas y Promociones",
-            "pt": "Promoções e Taxas"
+            "en": "Promotions & taxes",
+            "es": "Tasas y promociones",
+            "pt": "Promoções e taxas"
           },
           "slug": {
-            "en": "overview-pricing-module",
-            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-            "pt": "overview-2"
+            "en": "promotions-and-taxes-category",
+            "es": "tasas-y-promociones-categoria",
+            "pt": "promoções-e-taxas-categoria"
           },
           "origin": "",
-          "type": "markdown",
+          "type": "category",
           "children": [
             {
               "name": {
@@ -32091,9 +32091,9 @@
             },
             {
               "name": {
-                "en": "Promotional coupons: types and groups",
-                "es": "Cupones promocionales: tipos y grupos",
-                "pt": "Cupons promocionais: tipos e grupos"
+                "en": "Promotional coupons",
+                "es": "Cupones promocionales",
+                "pt": "Cupons promocionais"
               },
               "slug": {
                 "en": "coupons-beta",
@@ -32142,178 +32142,13 @@
                 "pt": "Promoções"
               },
               "slug": {
-                "en": "promotions-overview",
-                "es": "vision-general-promociones",
-                "pt": "visao-geral-promocoes"
+                "en": "promotions-subcategory",
+                "es": "promociones-subcategoria",
+                "pt": "promoções-subcategoria"
               },
               "origin": "",
-              "type": "markdown",
+              "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Campaign tracking with UTM parameters",
-                    "es": "Monitoreo de campañas con parámetros UTM",
-                    "pt": "Rastreamento de campanhas com parâmetros UTM"
-                  },
-                  "slug": {
-                    "en": "what-are-utm-source-utm-campaign-and-utm-medium",
-                    "es": "que-son-utm-source-utm-campaign-y-utm-medium",
-                    "pt": "o-que-sao-utm-source-utm-campaign-e-utm-medium"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring a promotion for an SKU",
-                    "es": "Configurar promoción para un SKU",
-                    "pt": "Configurar promoção para um SKU"
-                  },
-                  "slug": {
-                    "en": "how-to-configure-a-promotion-for-an-sku",
-                    "es": "como-configurar-promocion-para-un-sku",
-                    "pt": "compre-ganhe-e-desconto-para-sku-especifico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring promotion budgets",
-                    "es": "Configurar presupuesto para promociones",
-                    "pt": "Configurar orçamentos para promoções"
-                  },
-                  "slug": {
-                    "en": "configuring-promotion-budgets",
-                    "es": "configurar-presupuesto-para-promociones",
-                    "pt": "configurando-orcamentos-para-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring promotions for marketplaces",
-                    "es": "Configurar promoción para marketplace",
-                    "pt": "Configurar promoção para marketplace"
-                  },
-                  "slug": {
-                    "en": "configuring-promotions-for-marketplaces",
-                    "es": "configurar-promocion-para-marketplace",
-                    "pt": "configurar-promocao-para-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring promotions with highlights / flags",
-                    "es": "Configurar promoción con destaque / flag",
-                    "pt": "Configurar promoção com destaque / flag"
-                  },
-                  "slug": {
-                    "en": "configuring-promotions-with-a-highlightflag",
-                    "es": "configurando-promocion-con-destaque-flag",
-                    "pt": "configurando-promocao-com-destaque-flag"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring shipping promotions",
-                    "es": "Registrar promociones de envío",
-                    "pt": "Configurar promoções de frete"
-                  },
-                  "slug": {
-                    "en": "configuring-shipping-promotions",
-                    "es": "registrar-promociones-de-flete",
-                    "pt": "configurar-promocoes-de-frete"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Buy Together promotion",
-                    "es": "Crear promoción Comprar Juntos",
-                    "pt": "Criar promoção Compre Junto"
-                  },
-                  "slug": {
-                    "en": "buy-together",
-                    "es": "comprar-juntos-registro-de-promocion",
-                    "pt": "compre-junto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a More for Less promotion",
-                    "es": "Crear promoción Más por Menos",
-                    "pt": "Criar promoção Leve Mais por Menos"
-                  },
-                  "slug": {
-                    "en": "creating-a-more-for-less-promotion",
-                    "es": "mas-por-menos",
-                    "pt": "leve-mais-por-menos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a promotion for a customer cluster",
-                    "es": "Crear promoción para un clúster de clientes",
-                    "pt": "Criar promoção para um cluster de clientes"
-                  },
-                  "slug": {
-                    "en": "creating-promotion-for-a-customer-cluster",
-                    "es": "creando-promociones-cluster-clientes",
-                    "pt": "criando-promocao-para-um-cluster-de-clientes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a promotion with limitation of use",
-                    "es": "Crear promoción con limitación de uso",
-                    "pt": "Criar promoção com limitação de uso"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-promotion-with-limitation-of-use",
-                    "es": "como-crear-promocion-con-limitacion-de-uso",
-                    "pt": "como-criar-promocao-com-limitacao-de-uso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a subscription promotion",
-                    "es": "Crear una promoción por suscripción",
-                    "pt": "Criar uma promoção por assinatura"
-                  },
-                  "slug": {
-                    "en": "creating-a-subscription-promotion",
-                    "es": "como-crear-una-promocion-por-suscripcion",
-                    "pt": "como-criar-uma-promocao-por-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating promotions",
@@ -32321,219 +32156,554 @@
                     "pt": "Criar promoções"
                   },
                   "slug": {
-                    "en": "creating-promotions",
-                    "es": "crear-promociones",
-                    "pt": "criar-promocoes"
+                    "en": "creating-promotions-subcategory",
+                    "es": "crear-promociones-subcategoria",
+                    "pt": "criar-promoções-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Create a benefit using price table",
+                        "es": "Crear promociones por tabla de precio",
+                        "pt": "Criar tabela de preços promocionais"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-benefit-using-price-table",
+                        "es": "creando-promociones-por-tabla-de-precio",
+                        "pt": "criar-tabela-de-precos-promocionais"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Buy One Get One (BoGo) promotion",
+                        "es": "Crear una promoción Compre y gane",
+                        "pt": "Criar uma promoção Compre e ganhe"
+                      },
+                      "slug": {
+                        "en": "buy-one-get-one",
+                        "es": "como-funciona-la-promocion-compre-y-gane",
+                        "pt": "compre-e-ganhe"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Buy One Get One promotion (gift) for a specific SKU",
+                        "es": "Crear una promoción Comprar y Obtener (regalo) para un SKU específico",
+                        "pt": "Criar uma promoção Compre e ganhe (brinde) para um SKU específico"
+                      },
+                      "slug": {
+                        "en": "how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku",
+                        "es": "configurar-una-promocion-compre-y-gane-regalo-para-un-sku-especifico",
+                        "pt": "configurar-promocao-compre-e-ganhe-para-um-sku-especifico"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Buy Together promotion",
+                        "es": "Crear promoción Comprar Juntos",
+                        "pt": "Criar promoção Compre Junto"
+                      },
+                      "slug": {
+                        "en": "buy-together",
+                        "es": "comprar-juntos-registro-de-promocion",
+                        "pt": "compre-junto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a More for Less promotion",
+                        "es": "Crear promoción Más por Menos",
+                        "pt": "Criar promoção Leve Mais por Menos"
+                      },
+                      "slug": {
+                        "en": "creating-a-more-for-less-promotion",
+                        "es": "mas-por-menos",
+                        "pt": "leve-mais-por-menos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Progressive Discount promotion",
+                        "es": "Crear una promoción de descuento progresivo",
+                        "pt": "Criar uma promoção de desconto progressivo"
+                      },
+                      "slug": {
+                        "en": "progressive-discount",
+                        "es": "descuento-progresivo",
+                        "pt": "desconto-progressivo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a promotion for a customer cluster",
+                        "es": "Crear promoción para un clúster de clientes",
+                        "pt": "Criar promoção para um cluster de clientes"
+                      },
+                      "slug": {
+                        "en": "creating-promotion-for-a-customer-cluster",
+                        "es": "creando-promociones-cluster-clientes",
+                        "pt": "criando-promocao-para-um-cluster-de-clientes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a promotion with limitation of use",
+                        "es": "Crear promoción con limitación de uso",
+                        "pt": "Criar promoção com limitação de uso"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-promotion-with-limitation-of-use",
+                        "es": "como-crear-promocion-con-limitacion-de-uso",
+                        "pt": "como-criar-promocao-com-limitacao-de-uso"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a regular promotion",
+                        "es": "Crear una promoción regular",
+                        "pt": "Criar uma promoção regular"
+                      },
+                      "slug": {
+                        "en": "regular-promotion",
+                        "es": "registro-promocion-regular",
+                        "pt": "promocao-regular-pt"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a subscription promotion",
+                        "es": "Crear una promoción por suscripción",
+                        "pt": "Criar uma promoção por assinatura"
+                      },
+                      "slug": {
+                        "en": "creating-a-subscription-promotion",
+                        "es": "como-crear-una-promocion-por-suscripcion",
+                        "pt": "como-criar-uma-promocao-por-assinatura"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating promotions",
+                        "es": "Crear promociones",
+                        "pt": "Criar promoções"
+                      },
+                      "slug": {
+                        "en": "creating-promotions",
+                        "es": "crear-promociones",
+                        "pt": "criar-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting a percent discount promotion for a specific SKU",
+                        "es": "Configurar una promoción de descuento porcentual para un SKU específico",
+                        "pt": "Configurar uma promoção de desconto percentual para um SKU específico"
+                      },
+                      "slug": {
+                        "en": "how-to-set-percent-discount-promotion-for-a-specific-sku",
+                        "es": "configurar-promocion-de-descuento-porcentual-para-un-sku-especifico",
+                        "pt": "configurar-promocao-de-desconto-percentual-para-um-sku-especifico"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Does the shipping calculation take into account the free gift?",
-                    "es": "¿El cálculo del flete tiene en cuenta el regalo?",
-                    "pt": "O cálculo do frete leva em consideração o brinde?"
+                    "en": "Rules and conditions",
+                    "es": "Reglas y condiciones",
+                    "pt": "Regras e condições"
                   },
                   "slug": {
-                    "en": "does-the-shipping-calculation-take-into-account-the-free-gift",
-                    "es": "el-calculo-del-flete-tiene-en-cuenta-el-regalo",
-                    "pt": "o-calculo-do-frete-leva-em-consideracao-o-brinde"
+                    "en": "rules-and-conditions-subcategory",
+                    "es": "reglas-y-condiciones-subcategoria",
+                    "pt": "regras-e-condições-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configuring a promotion for an SKU",
+                        "es": "Configurar promoción para un SKU",
+                        "pt": "Configurar promoção para um SKU"
+                      },
+                      "slug": {
+                        "en": "how-to-configure-a-promotion-for-an-sku",
+                        "es": "como-configurar-promocion-para-un-sku",
+                        "pt": "compre-ganhe-e-desconto-para-sku-especifico"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring promotions for marketplaces",
+                        "es": "Configurar promoción para marketplace",
+                        "pt": "Configurar promoção para marketplace"
+                      },
+                      "slug": {
+                        "en": "configuring-promotions-for-marketplaces",
+                        "es": "configurar-promocion-para-marketplace",
+                        "pt": "configurar-promocao-para-marketplace"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring promotions with highlights/flags",
+                        "es": "Configurar promoción con destaque/flag",
+                        "pt": "Configurar promoção com destaque/flag"
+                      },
+                      "slug": {
+                        "en": "configuring-promotions-with-a-highlightflag",
+                        "es": "configurando-promocion-con-destaque-flag",
+                        "pt": "configurando-promocao-com-destaque-flag"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring shipping promotions",
+                        "es": "Registrar promociones de envío",
+                        "pt": "Configurar promoções de frete"
+                      },
+                      "slug": {
+                        "en": "configuring-shipping-promotions",
+                        "es": "registrar-promociones-de-flete",
+                        "pt": "configurar-promocoes-de-frete"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Regular promotion with nominal discount based on formula",
+                        "es": "Promoción regular con descuento nominal basado en la fórmula",
+                        "pt": "Promoção regular com desconto nominal baseado em fórmula"
+                      },
+                      "slug": {
+                        "en": "regular-promotion-with-nominal-discount-based-on-formula",
+                        "es": "promocion-regular-con-descuento-nominal-basado-en-la-formula",
+                        "pt": "promocao-regular-com-desconto-nominal-baseado-em-formula"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Regular promotion with reward value",
+                        "es": "Promoción regular con valor de fidelidad",
+                        "pt": "Promoção regular com valor fidelidade"
+                      },
+                      "slug": {
+                        "en": "regular-promotion-with-reward-value",
+                        "es": "promocion-regular-con-valor-de-fidelidad",
+                        "pt": "promocao-regular-com-valor-fidelidade"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "How does promotion proration work?",
-                    "es": "¿Cómo funciona el prorrateo de una promoción?",
-                    "pt": "Como funciona o rateio de promoção?"
+                    "en": "Behavior",
+                    "es": "Comportamiento",
+                    "pt": "Comportamento"
                   },
                   "slug": {
-                    "en": "how-does-promotion-proration-work",
-                    "es": "como-funciona-el-prorrateo-de-una-promocion",
-                    "pt": "como-funciona-o-rateio-de-promocao"
+                    "en": "behavior-subcategory",
+                    "es": "comportamiento-subcategoria",
+                    "pt": "comportamento-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Calculate shipping with a promotion",
+                        "es": "Calcular el envío con una promoción",
+                        "pt": "Calcular o envio com uma promoção"
+                      },
+                      "slug": {
+                        "en": "how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart",
+                        "es": "como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito",
+                        "pt": "como-e-calculado-o-custo-de-envio-quando-ha-um-item-com-promocao-de-frete"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Does the shipping calculation take into account the free gift?",
+                        "es": "¿El cálculo del flete tiene en cuenta el regalo?",
+                        "pt": "O cálculo do frete leva em consideração o brinde?"
+                      },
+                      "slug": {
+                        "en": "does-the-shipping-calculation-take-into-account-the-free-gift",
+                        "es": "el-calculo-del-flete-tiene-en-cuenta-el-regalo",
+                        "pt": "o-calculo-do-frete-leva-em-consideracao-o-brinde"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Gift multiplier",
+                        "es": "Multiplicador de regalos",
+                        "pt": "Multiplicador de brindes"
+                      },
+                      "slug": {
+                        "en": "what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion",
+                        "es": "que-significa-activar-el-multiplicador-de-regalo-en-una-promocion",
+                        "pt": "o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotion competition",
+                        "es": "Competencia de promociones",
+                        "pt": "Concorrência de promoções"
+                      },
+                      "slug": {
+                        "en": "how-promotion-competition-works",
+                        "es": "como-funciona-la-competencia-de-promociones",
+                        "pt": "como-funciona-a-concorrencia-de-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotion proration",
+                        "es": "Prorrateo de promociones",
+                        "pt": "Rateio de promoções"
+                      },
+                      "slug": {
+                        "en": "how-does-promotion-proration-work",
+                        "es": "como-funciona-el-prorrateo-de-una-promocion",
+                        "pt": "como-funciona-o-rateio-de-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "How is shipping cost calculated when there's an item with shipping benefit on the cart?",
-                    "es": "¿Cómo se calcula el costo de envío cuando hay un ítem con promoción de envío en el carrito?",
-                    "pt": "Como é calculado o custo de envio quando há um item com promoção de frete no carrinho?"
+                    "en": "Managing promotions",
+                    "es": "Gestión de promociones",
+                    "pt": "Gestão de promoções"
                   },
                   "slug": {
-                    "en": "how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart",
-                    "es": "como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito",
-                    "pt": "como-e-calculado-o-custo-de-envio-quando-ha-um-item-com-promocao-de-frete"
+                    "en": "managing-promotions-subcategory",
+                    "es": "gestion-de-promociones-subcategoria",
+                    "pt": "gestão-de-promoções-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "How to identify promotions attributed to an SKU?",
+                        "es": "Cómo identificar promociones asignadas a un SKU?",
+                        "pt": "Como identificar promoções atribuídas a um SKU?"
+                      },
+                      "slug": {
+                        "en": "how-to-identify-promotions-attributed-to-an-sku",
+                        "es": "como-identificar-promociones-asignadas-un-sku",
+                        "pt": "como-identificar-promocoes-atribuidas-a-um-sku"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Identifying promotions applied to the cart",
+                        "es": "Identificar las promociones aplicadas en el carrito",
+                        "pt": "Como identificar promoções aplicadas no carrinho?"
+                      },
+                      "slug": {
+                        "en": "how-to-identify-promotions-applied-to-the-cart",
+                        "es": "como-identificar-las-promociones-aplicadas-en-el-carrito",
+                        "pt": "como-identificar-as-promocoes-no-carrinho"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotion templates management",
+                        "es": "Gestión de plantillas de promociones",
+                        "pt": "Gerenciamento de templates de promoção"
+                      },
+                      "slug": {
+                        "en": "promotion-template-management",
+                        "es": "gestion-de-plantillas-de-promociones",
+                        "pt": "gerenciamento-de-templates-de-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotions Simulator",
+                        "es": "Simulador de Promociones",
+                        "pt": "Simulador de Promoções"
+                      },
+                      "slug": {
+                        "en": "promotions-simulator-beta",
+                        "es": "simulador-de-promociones-beta",
+                        "pt": "simulador-de-promocoes-beta"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "How many coupons, taxes and promotions may I have in my store?",
-                    "es": "¿Cuantos cupones, tasas y promociones puedo tener en mi tienda?",
-                    "pt": "Quantos cupons, taxas e promoções posso ter na minha loja?"
+                    "en": "Advanced settings",
+                    "es": "Configuración avanzada",
+                    "pt": "Configurações avançadas"
+                  },
+                  "slug": {
+                    "en": "advanced-settings-subcategory",
+                    "es": "configuracion-avanzada-subcategoria",
+                    "pt": "configuração-avançada-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Campaign tracking with UTM parameters",
+                        "es": "Monitoreo de campañas con parámetros UTM",
+                        "pt": "Rastreamento de campanhas com parâmetros UTM"
+                      },
+                      "slug": {
+                        "en": "what-are-utm-source-utm-campaign-and-utm-medium",
+                        "es": "que-son-utm-source-utm-campaign-y-utm-medium",
+                        "pt": "o-que-sao-utm-source-utm-campaign-e-utm-medium"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring promotion budgets",
+                        "es": "Configurar presupuesto para promociones",
+                        "pt": "Configurar orçamentos para promoções"
+                      },
+                      "slug": {
+                        "en": "configuring-promotion-budgets",
+                        "es": "configurar-presupuesto-para-promociones",
+                        "pt": "configurando-orcamentos-para-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to use rebates",
+                        "es": "Cómo utilizar rebates",
+                        "pt": "Como utilizar rebate ou VPC"
+                      },
+                      "slug": {
+                        "en": "how-to-use-rebates",
+                        "es": "como-utilizar-rebates",
+                        "pt": "como-utilizar-rebate-ou-vpc"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Sales associate code field at Checkout",
+                        "es": "Campo código de vendedor en el Checkout",
+                        "pt": "Campo código de vendedor no Checkout"
+                      },
+                      "slug": {
+                        "en": "sales-associate-code-field-at-checkout",
+                        "es": "campo-codigo-de-vendedor-en-el-checkout",
+                        "pt": "campo-codigo-de-vendedor-no-checkout"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Coupon, fee, and promotion limits",
+                    "es": "Límites de cupones, tasas y promociones",
+                    "pt": "Limites de cupons, taxas e promoções"
                   },
                   "slug": {
                     "en": "what-is-the-maximum-limit-of-promotions",
                     "es": "cual-es-el-limite-maximo-de-promociones",
                     "pt": "qual-o-limite-maximo-de-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How promotion competition works",
-                    "es": "Cómo funciona la competencia de promociones",
-                    "pt": "Como funciona a concorrência de promoções"
-                  },
-                  "slug": {
-                    "en": "how-promotion-competition-works",
-                    "es": "como-funciona-la-competencia-de-promociones",
-                    "pt": "como-funciona-a-concorrencia-de-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the Buy One Get One (BoGo) promotion works",
-                    "es": "Cómo funciona la promoción Compre y gane",
-                    "pt": "Como funciona a promoção Compre e ganhe"
-                  },
-                  "slug": {
-                    "en": "buy-one-get-one",
-                    "es": "como-funciona-la-promocion-compre-y-gane",
-                    "pt": "compre-e-ganhe"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the gift multiplier works in promotions",
-                    "es": "Multiplicador de regalos en promociones",
-                    "pt": "Como funciona o multiplicador de brindes em promoções"
-                  },
-                  "slug": {
-                    "en": "what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion",
-                    "es": "que-significa-activar-el-multiplicador-de-regalo-en-una-promocion",
-                    "pt": "o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the progressive discount promotion  works",
-                    "es": "Cómo funciona la promoción Descuento progresivo",
-                    "pt": "Como funciona o desconto progressivo"
-                  },
-                  "slug": {
-                    "en": "progressive-discount",
-                    "es": "descuento-progresivo",
-                    "pt": "desconto-progressivo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a benefit using price table",
-                    "es": "Creando Promociones por Tabla de Precio",
-                    "pt": "Criar tabela de preços promocionais"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-benefit-using-price-table",
-                    "es": "creando-promociones-por-tabla-de-precio",
-                    "pt": "criar-tabela-de-precos-promocionais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to identify promotions attributed to an SKU?",
-                    "es": "Cómo identificar promociones asignadas a un SKU?",
-                    "pt": "Como identificar promoções atribuídas a um SKU?"
-                  },
-                  "slug": {
-                    "en": "how-to-identify-promotions-attributed-to-an-sku",
-                    "es": "como-identificar-promociones-asignadas-un-sku",
-                    "pt": "como-identificar-promocoes-atribuidas-a-um-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to set a Buy One Get One promotion (gift) for a specific SKU",
-                    "es": "Configurar una promoción Comprar y Obtener (regalo) para un SKU específico",
-                    "pt": "Configurar promoção Compre e ganhe para um SKU específico"
-                  },
-                  "slug": {
-                    "en": "how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku",
-                    "es": "configurar-una-promocion-compre-y-gane-regalo-para-un-sku-especifico",
-                    "pt": "configurar-promocao-compre-e-ganhe-para-um-sku-especifico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to set percent discount promotion for a specific SKU",
-                    "es": "Configurar promoción de descuento porcentual para un SKU específico",
-                    "pt": "Configurar promoção de desconto percentual para um SKU específico"
-                  },
-                  "slug": {
-                    "en": "how-to-set-percent-discount-promotion-for-a-specific-sku",
-                    "es": "configurar-promocion-de-descuento-porcentual-para-un-sku-especifico",
-                    "pt": "configurar-promocao-de-desconto-percentual-para-um-sku-especifico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use rebates",
-                    "es": "Cómo utilizar rebates",
-                    "pt": "Como utilizar rebate ou VPC"
-                  },
-                  "slug": {
-                    "en": "how-to-use-rebates",
-                    "es": "como-utilizar-rebates",
-                    "pt": "como-utilizar-rebate-ou-vpc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Identifying promotions applied to the cart",
-                    "es": "Identificar las promociones aplicadas en el carrito",
-                    "pt": "Como identificar promoções aplicadas no carrinho?"
-                  },
-                  "slug": {
-                    "en": "how-to-identify-promotions-applied-to-the-cart",
-                    "es": "como-identificar-las-promociones-aplicadas-en-el-carrito",
-                    "pt": "como-identificar-as-promocoes-no-carrinho"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32556,14 +32726,14 @@
                 },
                 {
                   "name": {
-                    "en": "Promotion List",
-                    "es": "Lista de Promociones",
-                    "pt": "Lista de Promoções"
+                    "en": "Promotion strategies for B2B operations",
+                    "es": "Estrategias de promoción para operaciones B2B",
+                    "pt": "Estratégias de promoção para operações B2B"
                   },
                   "slug": {
-                    "en": "promotion-list-beta",
-                    "es": "lista-de-promociones-beta",
-                    "pt": "lista-de-promocoes-beta"
+                    "en": "the-most-common-promotions-in-b2b",
+                    "es": "promociones-mas-comunes-para-b2b",
+                    "pt": "as-promocoes-mais-comuns-em-b2b"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32586,14 +32756,14 @@
                 },
                 {
                   "name": {
-                    "en": "Promotion templates management",
-                    "es": "Gestión de plantillas de promociones",
-                    "pt": "Gerenciamento de templates de promoção"
+                    "en": "Promotions",
+                    "es": "Promociones",
+                    "pt": "Promoções"
                   },
                   "slug": {
-                    "en": "promotion-template-management",
-                    "es": "gestion-de-plantillas-de-promociones",
-                    "pt": "gerenciamento-de-templates-de-promocao"
+                    "en": "promotion-list-beta",
+                    "es": "lista-de-promociones-beta",
+                    "pt": "lista-de-promocoes-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32601,89 +32771,14 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions Simulator",
-                    "es": "Simulador de Promociones",
-                    "pt": "Simulador de Promoções"
+                    "en": "Promotions",
+                    "es": "Promociones",
+                    "pt": "Promoções"
                   },
                   "slug": {
-                    "en": "promotions-simulator-beta",
-                    "es": "simulador-de-promociones-beta",
-                    "pt": "simulador-de-promocoes-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regular Promotion",
-                    "es": "Promoción Regular",
-                    "pt": "Promoção Regular"
-                  },
-                  "slug": {
-                    "en": "regular-promotion",
-                    "es": "registro-promocion-regular",
-                    "pt": "promocao-regular-pt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regular promotion with nominal discount based on formula",
-                    "es": "Promoción regular con descuento nominal basado en la fórmula",
-                    "pt": "Promoção regular com desconto nominal baseado em fórmula"
-                  },
-                  "slug": {
-                    "en": "regular-promotion-with-nominal-discount-based-on-formula",
-                    "es": "promocion-regular-con-descuento-nominal-basado-en-la-formula",
-                    "pt": "promocao-regular-com-desconto-nominal-baseado-em-formula"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regular promotion with reward value",
-                    "es": "Promoción regular con valor de fidelidad",
-                    "pt": "Promoção regular com valor fidelidade"
-                  },
-                  "slug": {
-                    "en": "regular-promotion-with-reward-value",
-                    "es": "promocion-regular-con-valor-de-fidelidad",
-                    "pt": "promocao-regular-com-valor-fidelidade"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales associate code field at Checkout",
-                    "es": "Campo código de vendedor en el Checkout",
-                    "pt": "Campo código de vendedor no Checkout"
-                  },
-                  "slug": {
-                    "en": "sales-associate-code-field-at-checkout",
-                    "es": "campo-codigo-de-vendedor-en-el-checkout",
-                    "pt": "campo-codigo-de-vendedor-no-checkout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "The most common promotions in B2B",
-                    "es": "Promociones más comunes para B2B",
-                    "pt": "As promoções mais comuns em B2B"
-                  },
-                  "slug": {
-                    "en": "the-most-common-promotions-in-b2b",
-                    "es": "promociones-mas-comunes-para-b2b",
-                    "pt": "as-promocoes-mais-comuns-em-b2b"
+                    "en": "promotions-overview",
+                    "es": "vision-general-promociones",
+                    "pt": "visao-geral-promocoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32695,7 +32790,7 @@
               "name": {
                 "en": "Taxes",
                 "es": "Tasa",
-                "pt": "Taxa"
+                "pt": "Taxas"
               },
               "slug": {
                 "en": "creating-surchargestaxes",
@@ -32736,6 +32831,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Promotions & Taxes",
+                "es": "Tasas y Promociones",
+                "pt": "Promoções e Taxas"
+              },
+              "slug": {
+                "en": "overview-pricing-module",
+                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+                "pt": "overview-2"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
