@@ -18850,6 +18850,249 @@
             },
             {
               "name": {
+                "en": "Prices",
+                "es": "Precios",
+                "pt": "Preços"
+              },
+              "slug": {
+                "en": "prices-category",
+                "es": "precios-categoria",
+                "pt": "preços-categoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Price list",
+                    "es": "Lista de precios",
+                    "pt": "Lista de preços"
+                  },
+                  "slug": {
+                    "en": "price-list-subcategory",
+                    "es": "lista-de-precios-subcategoria",
+                    "pt": "lista-de-preços-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Changing a SKU's price",
+                        "es": "Alterar precio de SKU",
+                        "pt": "Alterar preço de SKU"
+                      },
+                      "slug": {
+                        "en": "sku-price-change",
+                        "es": "alteracion-de-precio-de-sku",
+                        "pt": "alteracao-de-preco-de-sku"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring price tables for specific users",
+                        "es": "Configuración de tablas de precios para usuarios específicos",
+                        "pt": "Configurar tabelas de preços para usuários específicos"
+                      },
+                      "slug": {
+                        "en": "setting-up-price-tables-for-specific-users",
+                        "es": "configuracion-de-tablas-de-precios-para-usuarios-especificos",
+                        "pt": "configurar-price-tables-especificas"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating an XML with promotional price using a price table",
+                        "es": "Crear XML con precio promocional por tabla de precios",
+                        "pt": "Criar XML com preço promocional por tabela de preços"
+                      },
+                      "slug": {
+                        "en": "creating-an-xml-with-promotional-price-using-a-price-table",
+                        "es": "crear-xml-con-precio-promocional-por-tabla-de-precios",
+                        "pt": "criando-um-xml-com-preco-promocional-por-tabela-de-preco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating Price Tables",
+                        "es": "Creación de tablas de precios",
+                        "pt": "Criar tabelas de preços"
+                      },
+                      "slug": {
+                        "en": "creating-price-tables",
+                        "es": "creacion-de-tablas-de-precios",
+                        "pt": "criar-tabelas-de-precos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Editing price tables",
+                        "es": "Editar tabla de precios",
+                        "pt": "Edição da tabela de preços"
+                      },
+                      "slug": {
+                        "en": "editing-price-tables",
+                        "es": "editar-tablas-de-precios",
+                        "pt": "edicao-da-tabela-de-precos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Filling out an import spreadsheet's fixed price fields",
+                        "es": "Rellenar campos de la plantilla de importación de precios fijos",
+                        "pt": "Preencher campos da planilha de importação de preços fixos"
+                      },
+                      "slug": {
+                        "en": "filling-out-an-import-spreadsheets-fixed-price-fields",
+                        "es": "rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos",
+                        "pt": "preencher-campos-da-planilha-de-importacao-de-precos-fixos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to include metadata when exporting a prices spreadsheet",
+                        "es": "Cómo incluir metadatos al exportar plantilla de precios",
+                        "pt": "Como Incluir Metadados ao exportar planilha de preços"
+                      },
+                      "slug": {
+                        "en": "how-to-include-metadata-when-exporting-a-prices-spreadsheet",
+                        "es": "como-incluir-metadatos-al-exportar-plantilla-de-precios",
+                        "pt": "como-incluir-metadados-ao-exportar-planilha-de-precos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Registering a product's base price",
+                        "es": "Registrar el precio base de un producto",
+                        "pt": "Cadastrar o preço base de um produto"
+                      },
+                      "slug": {
+                        "en": "registering-a-products-base-price",
+                        "es": "registrar-el-precio-base-de-un-producto",
+                        "pt": "cadastrar-o-preco-base-de-um-produto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Scheduling prices",
+                        "es": "Programación de precios",
+                        "pt": "Agendar preço"
+                      },
+                      "slug": {
+                        "en": "scheduling-prices",
+                        "es": "programar-precio",
+                        "pt": "agendar-preco"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Updating prices in marketplaces",
+                        "es": "Actualizar precios en el marketplace",
+                        "pt": "Atualizar preço para marketplace"
+                      },
+                      "slug": {
+                        "en": "updating-prices-in-marketplaces",
+                        "es": "actualizar-precios-en-el-marketplace",
+                        "pt": "atualizando-preco-para-marketplace"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Prices Settings",
+                    "es": "Configuración de precios",
+                    "pt": "Configurações de preços"
+                  },
+                  "slug": {
+                    "en": "prices-settings",
+                    "es": "configuracion-de-precios",
+                    "pt": "configuracoes-de-precos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Table of base prices",
+                        "es": "Tabla de precios base",
+                        "pt": "Tabela de preços-base"
+                      },
+                      "slug": {
+                        "en": "table-of-base-prices",
+                        "es": "tabla-de-precios-base",
+                        "pt": "tabela-de-precos-base"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Configuring a pricing rule for a sales policy",
+                    "es": "Configurar regla de precio para política comercial",
+                    "pt": "Configurar regra de preço para política comercial"
+                  },
+                  "slug": {
+                    "en": "configuring-a-pricing-rule-for-a-sales-policy",
+                    "es": "configurar-regla-de-precio-para-politica-comercial",
+                    "pt": "configurar-regra-de-preco-para-politica-comercial"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Rounding Rules",
+                    "es": "Redondeo de Precios",
+                    "pt": "Arredondamento de Preços"
+                  },
+                  "slug": {
+                    "en": "rounding-rules",
+                    "es": "redondeo-de-precios",
+                    "pt": "arredondamento-de-precos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Registering a commercial condition",
                 "es": "Registrar condición comercial",
                 "pt": "Cadastrar condição comercial"
@@ -21380,17 +21623,17 @@
         },
         {
           "name": {
-            "en": "Shipping",
-            "es": "Envío",
+            "en": "Shipping - Overview",
+            "es": "Envio - Información general",
             "pt": "Envio"
           },
           "slug": {
-            "en": "shipping-category",
-            "es": "envio-categoria",
-            "pt": "envio-categoria"
+            "en": "shipping-overview",
+            "es": "vision-general-envio",
+            "pt": "visao-geral-envio"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -21621,52 +21864,6 @@
             },
             {
               "name": {
-                "en": "Fulfillment & Logistics on VTEX",
-                "es": "Fulfillment y logística en VTEX",
-                "pt": "Fulfillment e logística na VTEX"
-              },
-              "slug": {
-                "en": "fulfillment-logistics-vtex",
-                "es": "fulfillment-logistica-vtex",
-                "pt": "fulfillment-logistica-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Logistics glossary",
-                    "es": "Glosario de logística",
-                    "pt": "Glossário de logística"
-                  },
-                  "slug": {
-                    "en": "logistics-glossary",
-                    "es": "glosario-de-logistica",
-                    "pt": "glossario-de-logistica"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Shipping - Overview",
-                    "es": "Envio - Información general",
-                    "pt": "Envio - Visão geral"
-                  },
-                  "slug": {
-                    "en": "shipping-overview",
-                    "es": "vision-general-envio",
-                    "pt": "visao-geral-envio"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Pickup points",
                 "es": "Puntos de recogida",
                 "pt": "Pontos de retirada"
@@ -21698,7 +21895,7 @@
             },
             {
               "name": {
-                "en": "Shipping rates",
+                "en": "Shipping Rates",
                 "es": "Tarifas de envío",
                 "pt": "Tarifas de envio"
               },
@@ -21790,7 +21987,7 @@
             },
             {
               "name": {
-                "en": "Shipping strategy",
+                "en": "Shipping Strategy",
                 "es": "Estrategia de envío",
                 "pt": "Estratégia de envio"
               },
@@ -22360,6 +22557,36 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Fulfillment & Logistics on VTEX",
+                "es": "Fulfillment y logística en VTEX",
+                "pt": "Fulfillment e logística na VTEX"
+              },
+              "slug": {
+                "en": "fulfillment-logistics-vtex",
+                "es": "fulfillment-logistica-vtex",
+                "pt": "fulfillment-logistica-vtex"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Logistics glossary",
+                "es": "Glosario de logística",
+                "pt": "Glossário de logística"
+              },
+              "slug": {
+                "en": "logistics-glossary",
+                "es": "glosario-de-logistica",
+                "pt": "glossario-de-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -34640,249 +34867,6 @@
                 "en": "gift-card",
                 "es": "gift-card",
                 "pt": "gift-card"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Prices",
-            "es": "Precios",
-            "pt": "Preços"
-          },
-          "slug": {
-            "en": "prices-category",
-            "es": "precios-categoria",
-            "pt": "preços-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Price list",
-                "es": "Lista de precios",
-                "pt": "Lista de preços"
-              },
-              "slug": {
-                "en": "price-list-subcategory",
-                "es": "lista-de-precios-subcategoria",
-                "pt": "lista-de-preços-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Changing a SKU's price",
-                    "es": "Alterar precio de SKU",
-                    "pt": "Alterar preço de SKU"
-                  },
-                  "slug": {
-                    "en": "sku-price-change",
-                    "es": "alteracion-de-precio-de-sku",
-                    "pt": "alteracao-de-preco-de-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring price tables for specific users",
-                    "es": "Configuración de tablas de precios para usuarios específicos",
-                    "pt": "Configurar tabelas de preços para usuários específicos"
-                  },
-                  "slug": {
-                    "en": "setting-up-price-tables-for-specific-users",
-                    "es": "configuracion-de-tablas-de-precios-para-usuarios-especificos",
-                    "pt": "configurar-price-tables-especificas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating an XML with promotional price using a price table",
-                    "es": "Crear XML con precio promocional por tabla de precios",
-                    "pt": "Criar XML com preço promocional por tabela de preços"
-                  },
-                  "slug": {
-                    "en": "creating-an-xml-with-promotional-price-using-a-price-table",
-                    "es": "crear-xml-con-precio-promocional-por-tabla-de-precios",
-                    "pt": "criando-um-xml-com-preco-promocional-por-tabela-de-preco"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating Price Tables",
-                    "es": "Creación de tablas de precios",
-                    "pt": "Criar tabelas de preços"
-                  },
-                  "slug": {
-                    "en": "creating-price-tables",
-                    "es": "creacion-de-tablas-de-precios",
-                    "pt": "criar-tabelas-de-precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Editing price tables",
-                    "es": "Editar tabla de precios",
-                    "pt": "Edição da tabela de preços"
-                  },
-                  "slug": {
-                    "en": "editing-price-tables",
-                    "es": "editar-tablas-de-precios",
-                    "pt": "edicao-da-tabela-de-precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Filling out an import spreadsheet's fixed price fields",
-                    "es": "Rellenar campos de la plantilla de importación de precios fijos",
-                    "pt": "Preencher campos da planilha de importação de preços fixos"
-                  },
-                  "slug": {
-                    "en": "filling-out-an-import-spreadsheets-fixed-price-fields",
-                    "es": "rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos",
-                    "pt": "preencher-campos-da-planilha-de-importacao-de-precos-fixos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to include metadata when exporting a prices spreadsheet",
-                    "es": "Cómo incluir metadatos al exportar plantilla de precios",
-                    "pt": "Como Incluir Metadados ao exportar planilha de preços"
-                  },
-                  "slug": {
-                    "en": "how-to-include-metadata-when-exporting-a-prices-spreadsheet",
-                    "es": "como-incluir-metadatos-al-exportar-plantilla-de-precios",
-                    "pt": "como-incluir-metadados-ao-exportar-planilha-de-precos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Registering a product's base price",
-                    "es": "Registrar el precio base de un producto",
-                    "pt": "Cadastrar o preço base de um produto"
-                  },
-                  "slug": {
-                    "en": "registering-a-products-base-price",
-                    "es": "registrar-el-precio-base-de-un-producto",
-                    "pt": "cadastrar-o-preco-base-de-um-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Scheduling prices",
-                    "es": "Programación de precios",
-                    "pt": "Agendar preço"
-                  },
-                  "slug": {
-                    "en": "scheduling-prices",
-                    "es": "programar-precio",
-                    "pt": "agendar-preco"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Updating prices in marketplaces",
-                    "es": "Actualizar precios en el marketplace",
-                    "pt": "Atualizar preço para marketplace"
-                  },
-                  "slug": {
-                    "en": "updating-prices-in-marketplaces",
-                    "es": "actualizar-precios-en-el-marketplace",
-                    "pt": "atualizando-preco-para-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Prices Settings",
-                "es": "Configuración de precios",
-                "pt": "Configurações de preços"
-              },
-              "slug": {
-                "en": "prices-settings",
-                "es": "configuracion-de-precios",
-                "pt": "configuracoes-de-precos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": [
-                {
-                  "name": {
-                    "en": "Table of base prices",
-                    "es": "Tabla de precios base",
-                    "pt": "Tabela de preços-base"
-                  },
-                  "slug": {
-                    "en": "table-of-base-prices",
-                    "es": "tabla-de-precios-base",
-                    "pt": "tabela-de-precos-base"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configuring a pricing rule for a sales policy",
-                "es": "Configurar regla de precio para política comercial",
-                "pt": "Configurar regra de preço para política comercial"
-              },
-              "slug": {
-                "en": "configuring-a-pricing-rule-for-a-sales-policy",
-                "es": "configurar-regla-de-precio-para-politica-comercial",
-                "pt": "configurar-regra-de-preco-para-politica-comercial"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Rounding Rules",
-                "es": "Redondeo de Precios",
-                "pt": "Arredondamento de Preços"
-              },
-              "slug": {
-                "en": "rounding-rules",
-                "es": "redondeo-de-precios",
-                "pt": "arredondamento-de-precos"
               },
               "origin": "",
               "type": "markdown",
