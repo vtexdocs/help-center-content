@@ -16969,33 +16969,18 @@
             },
             {
               "name": {
-                "en": "Accounts",
-                "es": "Cuentas",
-                "pt": "Contas"
+                "en": "Account management",
+                "es": "Gestión de la cuenta",
+                "pt": "Gerenciamento da conta"
               },
               "slug": {
-                "en": "accounts-subcategory",
-                "es": "cuentas-subcategoria",
-                "pt": "contas-subcategoria"
+                "en": "account-management",
+                "es": "gestion-de-la-cuenta",
+                "pt": "gerenciamento-da-conta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Account management",
-                    "es": "Gestión de la cuenta",
-                    "pt": "Gerenciamento da conta"
-                  },
-                  "slug": {
-                    "en": "account-management",
-                    "es": "gestion-de-la-cuenta",
-                    "pt": "gerenciamento-da-conta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Changing the logo on the bank slip",
@@ -19334,12 +19319,12 @@
                 "pt": "Marcas"
               },
               "slug": {
-                "en": "brands-subcategory",
-                "es": "marcas-subcategoria",
-                "pt": "marcas-subcategoria"
+                "en": "what-is-a-brand",
+                "es": "que-es-una-marca",
+                "pt": "o-que-e-uma-marca"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19370,37 +19355,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a Brand?",
-                    "es": "¿Qué es una Marca?",
-                    "pt": "O que é uma Marca?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-brand",
-                    "es": "que-es-una-marca",
-                    "pt": "o-que-e-uma-marca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Bundle",
-                "es": "Kit",
-                "pt": "Kit"
+                "en": "Bundles",
+                "es": "Kits",
+                "pt": "Kits"
               },
               "slug": {
-                "en": "bundle-subcategory",
-                "es": "kit-subcategoria",
-                "pt": "kit-subcategoria"
+                "en": "what-is-a-bundle",
+                "es": "que-es-un-kit",
+                "pt": "o-que-e-um-kit"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19461,21 +19431,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a bundle?",
-                    "es": "Qué es un kit?",
-                    "pt": "O que é um kit?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-bundle",
-                    "es": "que-es-un-kit",
-                    "pt": "o-que-e-um-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -19486,12 +19441,12 @@
                 "pt": "Categorias"
               },
               "slug": {
-                "en": "categories-subcategory",
-                "es": "categorias-subcategoria",
-                "pt": "categorias-subcategoria"
+                "en": "what-is-a-category",
+                "es": "que-es-una-categoria",
+                "pt": "o-que-e-uma-categoria"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19615,21 +19570,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is a Category?",
-                    "es": "¿Qué es una Categoría?",
-                    "pt": "O que é uma Categoria?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-category",
-                    "es": "que-es-una-categoria",
-                    "pt": "o-que-e-uma-categoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is a Department?",
                     "es": "¿Qué es un Departamento?",
                     "pt": "O que é um Departamento?"
@@ -19662,33 +19602,18 @@
             },
             {
               "name": {
-                "en": "Collection",
-                "es": "Colecciones",
+                "en": "Collections",
+                "es": "Colecciónes",
                 "pt": "Coleções"
               },
               "slug": {
-                "en": "collection-subcategory",
-                "es": "colecciones-subcategoria",
-                "pt": "coleções-subcategoria"
+                "en": "collection-types",
+                "es": "tipos-de-coleccion",
+                "pt": "tipos-de-colecao"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Collection Types",
-                    "es": "Tipos de Colección",
-                    "pt": "Tipos de Coleção"
-                  },
-                  "slug": {
-                    "en": "collection-types",
-                    "es": "tipos-de-coleccion",
-                    "pt": "tipos-de-colecao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating Collections (Beta)",
@@ -19905,17 +19830,17 @@
             },
             {
               "name": {
-                "en": "List types",
-                "es": "Tipos de lista",
-                "pt": "Tipos de lista"
+                "en": "Lists",
+                "es": "Listas",
+                "pt": "Listas"
               },
               "slug": {
-                "en": "list-types-subcategory",
-                "es": "tipos-de-lista-subcategoria",
-                "pt": "tipos-de-lista-subcategoria"
+                "en": "what-is-a-list",
+                "es": "que-es-una-lista",
+                "pt": "o-que-e-uma-lista"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19946,21 +19871,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a List?",
-                    "es": "Qué es una Lista?",
-                    "pt": "O que é uma Lista?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-list",
-                    "es": "que-es-una-lista",
-                    "pt": "o-que-e-uma-lista"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -19971,12 +19881,12 @@
                 "pt": "Produtos e SKUs"
               },
               "slug": {
-                "en": "products-and-skus-subcategory",
-                "es": "productos-y-skus-subcategoria",
-                "pt": "produtos-e-skus-subcategoria"
+                "en": "products-and-skus",
+                "es": "productos-y-skus",
+                "pt": "produtos-e-skus"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -20235,21 +20145,6 @@
                 },
                 {
                   "name": {
-                    "en": "Products and SKUs",
-                    "es": "Productos y SKUs",
-                    "pt": "Produtos e SKUs"
-                  },
-                  "slug": {
-                    "en": "products-and-skus",
-                    "es": "productos-y-skus",
-                    "pt": "produtos-e-skus"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up product comparison",
                     "es": "Configurar la comparación de productos",
                     "pt": "Configurar a comparação de produtos"
@@ -20418,17 +20313,17 @@
             },
             {
               "name": {
-                "en": "Search",
-                "es": "Búsqueda",
-                "pt": "Busca"
+                "en": "VTEX Search (Legacy)",
+                "es": "VTEX Search (Legado)",
+                "pt": "VTEX Search (Legado)"
               },
               "slug": {
-                "en": "search-subcategory",
-                "es": "busqueda-subcategoria",
-                "pt": "busca-subcategoria"
+                "en": "how-does-vtex-search-legacy-work",
+                "es": "como-funciona-vtex-search-legado",
+                "pt": "como-funciona-vtex-search-legado"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -20440,21 +20335,6 @@
                     "en": "forcing-searches-with-blocked-terms-to-return-results",
                     "es": "forzar-busquedas-con-terminos-bloqueados-a-devolver-resultados",
                     "pt": "forcar-buscas-com-termos-bloqueados-a-retornarem-resultados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How VTEX Search (Legacy) works",
-                    "es": "Cómo funciona la VTEX Search (Legado)",
-                    "pt": "Como funciona a VTEX Search (Legado)"
-                  },
-                  "slug": {
-                    "en": "how-does-vtex-search-legacy-work",
-                    "es": "como-funciona-vtex-search-legado",
-                    "pt": "como-funciona-vtex-search-legado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20499,28 +20379,13 @@
                 "pt": "Integração XML"
               },
               "slug": {
-                "en": "xml-integration-subcategory",
-                "es": "integraciones-xml-subcategoria",
-                "pt": "integração-xml-subcategoria"
+                "en": "configuring-xml",
+                "es": "como-configurar-xml",
+                "pt": "configurando-xml"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Configuring XML",
-                    "es": "Cómo configurar XML",
-                    "pt": "Configurar XML"
-                  },
-                  "slug": {
-                    "en": "configuring-xml",
-                    "es": "como-configurar-xml",
-                    "pt": "configurando-xml"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Configuring XML for Google Shopping",
@@ -21085,17 +20950,17 @@
           "children": [
             {
               "name": {
-                "en": "Branching and versioning",
-                "es": "Ramificación y versionado",
-                "pt": "Branching and versionamento"
+                "en": "Versions and branches",
+                "es": "Versiones y ramas",
+                "pt": "Versões e branches"
               },
               "slug": {
-                "en": "branching-and-versioning-subcategory",
-                "es": "ramificacion-y-versionado-subcategoria",
-                "pt": "branching-and-versionamento-subcategoria"
+                "en": "managing-versions-and-branches",
+                "es": "gestionando-versiones-y-branches",
+                "pt": "gerenciando-versoes-e-branches"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -21107,21 +20972,6 @@
                     "en": "collaboration-workflows",
                     "es": "flujos-de-trabajo-de-colaboracion",
                     "pt": "fluxos-de-trabalho-de-colaboracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing versions and branches",
-                    "es": "Gestionar versiones y ramas",
-                    "pt": "Gerenciando versões e branches"
-                  },
-                  "slug": {
-                    "en": "managing-versions-and-branches",
-                    "es": "gestionando-versiones-y-branches",
-                    "pt": "gerenciando-versoes-e-branches"
                   },
                   "origin": "",
                   "type": "markdown",
