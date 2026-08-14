@@ -13,6 +13,7 @@ slugEN: creating-promotions
 legacySlug: criar-promocoes
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+categoryCover: true
 ---
 
 
