@@ -1,5 +1,5 @@
 ---
-title: 'Estilos - Visão geral'
+title: 'Estilos'
 id: v0Db5ohEKSFIkTzSwCjVi
 status: PUBLISHED
 createdAt: 2022-01-04T21:56:41.366Z
@@ -13,7 +13,7 @@ slugEN: styles-overview
 legacySlug: estilos-visao-geral
 locale: pt
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
-order: 1
+categoryCover: true
 ---
 
 A página **Estilos** permite que você defina a tipografia e a paleta de cores do site da sua loja.
