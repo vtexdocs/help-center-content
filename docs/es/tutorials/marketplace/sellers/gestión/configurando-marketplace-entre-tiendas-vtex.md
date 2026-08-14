@@ -36,7 +36,7 @@ Después de las configuraciones, es necesario realizar la indexación de todos l
 1. Con el [usuario titular](/es/docs/tracks/que-es-el-usuario-master), acceda al link `{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Haga clic en el botón __Reindexar Base__.
 
-![ReindexarBase](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/gestión/configurando-marketplace-entre-tiendas-vtex_1.png)
+![ReindexarBase](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/marketplace/sellers/gestión/configurando-marketplace-entre-tiendas-vtex_1.png)
 
 Tenga en cuenta que, en la URL, debe cambiar el término `{nombredelatienda}` por el nombre de su tienda.
 
