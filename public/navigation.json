@@ -20128,9 +20128,9 @@
           "children": [
             {
               "name": {
-                "en": "CMS",
-                "es": "CMS",
-                "pt": "CMS"
+                "en": "CMS for FastStore and Headless Stores",
+                "es": "CMS para FastStore y Headless Stores",
+                "pt": "CMS para FastStore e Headless Stores"
               },
               "slug": {
                 "en": "cms-overview",
