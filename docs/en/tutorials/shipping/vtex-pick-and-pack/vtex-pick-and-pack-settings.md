@@ -235,12 +235,12 @@ In this section, you can define the item details that will be shown in the mobil
 
 - **Item card information in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 - **Enable item transfer**: Allows fulfilling an item from a location different from the facility that was originally specified.
-- **Enable item location**: Assigns a unique code to each SKU to make it easier to locate items in the store or warehouse. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Codes**: Item location code. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Example**: Field that allows you to preview how the location code will be generated. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Separator**: Symbol that will separate each section of information in the location code. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Assign product brands to**: Defines the space (BIN, zone, section, or aisle) where brands will be located. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Assign product categories to**: Defines the space (BIN, zone, section, or aisle) where categories will be located. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Enable item location**: Assigns a unique code to each SKU to make it easier to locate items in the store or warehouse.
+- **Codes**: Item location code.
+- **Example**: Field that allows you to preview how the location code will be generated.
+- **Separator**: Symbol that will separate each section of information in the location code.
+- **Assign product brands to**: Defines the space (BIN, zone, section, or aisle) where brands will be located.
+- **Assign product categories to**: Defines the space (BIN, zone, section, or aisle) where categories will be located.
 - **Enable dynamic barcodes**: When enabled `<i class="fas fa-toggle-on"></i>`, allows generating EANs based on:
   | **Price**                                                                                                                     | **Weight**                                                                                                                      |
   | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
