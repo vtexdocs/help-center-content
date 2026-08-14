@@ -511,6 +511,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New Impression Share metrics in VTEX Ads",
+                    "es": "Nuevas métricas de Impression Share en VTEX Ads",
+                    "pt": "Novas métricas de Impression Share no VTEX Ads"
+                  },
+                  "slug": {
+                    "en": "2026-08-24-new-impression-share-metrics-in-vtex-ads",
+                    "es": "2026-08-24-nuevas-metricas-de-impression-share-en-vtex-ads",
+                    "pt": "2026-08-24-novas-metricas-de-impression-share-no-vtex-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: New orders listing available in open beta",
                     "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
@@ -67140,12 +67155,12 @@
             {
               "name": {
                 "en": "Custom headers are not applied to all pages",
-                "es": "Las cabeceras personalizadas no se aplican a todas las páginas",
-                "pt": "Os cabeçalhos personalizados não são aplicados a todas as páginas"
+                "es": "Los encabezados personalizados no se aplican a todas las páginas.",
+                "pt": "Os cabeçalhos personalizados não são aplicados a todas as páginas."
               },
               "slug": {
                 "en": "custom-headers-are-not-applied-to-all-pages",
-                "es": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
+                "es": "los-encabezados-personalizados-no-se-aplican-a-todas-las-paginas",
                 "pt": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas"
               },
               "origin": "",
