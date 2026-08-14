@@ -69,7 +69,7 @@ Veja a seguir quais marcações existem relacionadas ao canal no qual o pedido �
 
 A imagem abaixo apresenta como é feita a marcação do pedido com relação à origem do pedido para o marketplace e para o seller:
 
-![marcacao_pedidos_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/informacoes-de-faturamento/faturas/marcacoes-de-pedidos-pelo-modulo-de-cobrancas_1.png)
+![marcacao_pedidos_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/admin-vtex/informacoes-de-faturamento/faturas/marcacoes-de-pedidos-pelo-modulo-de-cobrancas_1.png)
 
 > ⚠️ Mediante acordos comerciais, a VTEX concede um tipo de certificação a determinados canais de venda. Quando o pedido foi gerado em um canal de venda que não possui esse nível de certificação, não há uma marcação por origem e o pedido é marcado como `IsB2C`. Ou seja, somente canais de venda certificados possuem marcação por origem.
 
