@@ -32016,17 +32016,17 @@
         },
         {
           "name": {
-            "en": "Promotions & taxes",
+            "en": "Promotions & Taxes",
             "es": "Tasas y promociones",
             "pt": "Promoções e taxas"
           },
           "slug": {
-            "en": "promotions-and-taxes-category",
-            "es": "tasas-y-promociones-categoria",
-            "pt": "promoções-e-taxas-categoria"
+            "en": "promotions-overview",
+            "es": "vision-general-promociones",
+            "pt": "visao-geral-promocoes"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -32091,9 +32091,9 @@
             },
             {
               "name": {
-                "en": "Promotional coupons",
-                "es": "Cupones promocionales",
-                "pt": "Cupons promocionais"
+                "en": "Coupons",
+                "es": "Cupones",
+                "pt": "Cupons"
               },
               "slug": {
                 "en": "coupons-beta",
@@ -32142,12 +32142,12 @@
                 "pt": "Promoções"
               },
               "slug": {
-                "en": "promotions-subcategory",
-                "es": "promociones-subcategoria",
-                "pt": "promoções-subcategoria"
+                "en": "promotion-list-beta",
+                "es": "lista-de-promociones-beta",
+                "pt": "lista-de-promocoes-beta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -32753,36 +32753,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions",
-                    "es": "Promociones",
-                    "pt": "Promoções"
-                  },
-                  "slug": {
-                    "en": "promotion-list-beta",
-                    "es": "lista-de-promociones-beta",
-                    "pt": "lista-de-promocoes-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions",
-                    "es": "Promociones",
-                    "pt": "Promoções"
-                  },
-                  "slug": {
-                    "en": "promotions-overview",
-                    "es": "vision-general-promociones",
-                    "pt": "visao-geral-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -32831,21 +32801,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Promotions & Taxes",
-                "es": "Tasas y Promociones",
-                "pt": "Promoções e Taxas"
-              },
-              "slug": {
-                "en": "overview-pricing-module",
-                "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                "pt": "overview-2"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
