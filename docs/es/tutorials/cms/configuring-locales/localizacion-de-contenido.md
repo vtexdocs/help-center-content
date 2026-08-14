@@ -1,12 +1,11 @@
 ---
-title: "Localización de contenido - Descripción general"
+title: "Localización de contenido"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-04-02T11:00:52.219Z
 contentType: tutorial
 productTeam: CMS
 slugEN: localizing-content
 locale: es
-order: 1
 ---
 
 Cuando tu tienda tiene [varias configuraciones regionales configuradas](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales#como-se-conectan-las-configuraciones-regionales-con-los-bindings), el CMS te permite crear y gestionar versiones localizadas de tu contenido. De esta forma, puedes adaptar contenido como títulos de páginas y descripciones para diferentes idiomas o regiones.
