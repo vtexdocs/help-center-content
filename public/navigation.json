@@ -511,6 +511,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Updates to VTEX's privacy and security program",
+                    "es": "Actualizaciones en el programa de privacidad y seguridad de VTEX",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-updates-to-vtexs-privacy-and-security-program",
+                    "es": "2026-08-28-actualizaciones-en-el-programa-de-privacidad-y-seguridad-de-vtex",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: New orders listing available in open beta",
                     "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
