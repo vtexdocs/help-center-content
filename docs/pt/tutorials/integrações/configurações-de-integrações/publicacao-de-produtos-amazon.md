@@ -14,8 +14,9 @@ Ao finalizar a [integração com a Amazon](/pt/docs/tracks/configurar-a-integrac
 
 > ℹ️ Todos os produtos precisam ter [Estoque](/pt/docs/tutorials/estoque) e [Preço](/pt/docs/tracks/modulo-de-precos-visao-geral) configurados antes de serem enviados ao marketplace. Também é necessário configurar o [campo EAN](/pt/docs/tutorials/adicionar-ou-editar-produto) dos produtos que você deseja enviar para a Amazon. Para mais detalhes, consulte o tutorial [Envio de produtos à Amazon](/pt/docs/tracks/envio-de-produtos-para-amazon).
 
+A página **Publicação de produtos** organiza os SKUs em duas abas, de acordo com o resultado da busca da Amazon no catálogo do marketplace. Assim, o seller identifica quais produtos devem ser vinculados com um anúncio existente e quais devem ser cadastrados como um novo anúnico.
 
-A página **Publicação de produtos** organiza os SKUs em duas abas, de acordo com o resultado da busca da Amazon no catálogo do marketplace. Assim, o seller identifica quais produtos devem ser vinculados com um anúncio existente e quais devem ser cadastrados como um novo anúnico. No Admin VTEX, clique em **Marketplace > Amazon > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
+Para acessá-la, no Admin VTEX, clique em **Marketplace > Amazon > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca no topo da página.
 
 Veja abaixo o fluxo de publicação na Amazon:
 
@@ -46,7 +47,7 @@ flowchart LR
     classDef seller fill:#727273,stroke:#727273,color:#FFFFFF,stroke-width:2px
 ```
 
-Cada SKU aparece em apenas uma das abas, a definição de onde ele estará depende do resultado da busca pelo produto no catálogo da Amazon. Após a publicação confirmada, o SKU passa a ter status **Enviado** dentro da própria aba em que estava.
+Cada SKU aparece em apenas uma das abas. A definição de onde ele estará depende do resultado da busca pelo produto no catálogo da Amazon. Após a publicação confirmada, o SKU passa a ter status **Enviado** na aba em que estava.
 
 ## Produtos prontos para vincular
 
@@ -83,13 +84,13 @@ Ao clicar em uma linha da tabela, o seller é direcionado à página **Detalhes 
 - **Produto para vincular:** card com imagem, nome, ASIN e os atributos identificador e marca do anúncio sugerido. O botão `Ver produto` abre o anúncio correspondente no site da Amazon.
 - **Outras sugestões de vínculos:** painel lateral com outras sugestões de ASIN para o mesmo SKU, quando existirem.
 
-Quando a Amazon não retorna nenhuma outra opção de anúncio para vincular ao SKU, o painel Outras sugestões de vínculos exibe a seguinte mensagem: **Nenhuma outra sugestão disponível. A Amazon não retornou outras opções para este SKU.**
+Quando a Amazon não retorna nenhuma outra opção de anúncio para vincular ao SKU, o painel **Outras sugestões de vínculos** exibe a seguinte mensagem: *Nenhuma outra sugestão disponível. A Amazon não retornou outras opções para este SKU.*
 
 ![Detalhes da sugestão com revisão pendente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_2.png)
 
 ![Detalhes da sugestão enviada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/publicacao-de-produtos-amazon_3.png)
 
-### Confirmando um vínculo
+### Confirmar um vínculo
 
 Para confirmar a sugestão de vínculo exibida siga os passos a seguir:
 
@@ -100,7 +101,7 @@ Para confirmar a sugestão de vínculo exibida siga os passos a seguir:
 
 Após a confirmação, o SKU passa para o status **Enviado**. Como o processamento na Amazon é assíncrono, o retorno de sucesso ou falha pode ocorrer depois. Acompanhe o resultado no status do SKU e em [**Status dos anúncios**](/pt/docs/tutorials/status-dos-anuncios).
 
-### Recusando uma sugestão
+### Recusar uma sugestão
 
 Caso a sugestão de vínculo não esteja correta, o seller pode recusá-la pelo botão `Recusar sugestão`, no canto superior direito. Ao clicar, duas opções são exibidas:
 
@@ -111,7 +112,7 @@ Caso a sugestão de vínculo não esteja correta, o seller pode recusá-la pelo 
 
 ### Ações em massa
 
-Na aba **Prontos para vincular**, também é possível confirmar várias sugestões de uma só vez. Para isso siga os passos abaixo:
+Na aba **Prontos para vincular**, também é possível confirmar várias sugestões de uma só vez. Para isso, siga os passos abaixo:
 
 1. Marque a caixa de seleção ao lado de cada SKU desejado, ou use a caixa de seleção no cabeçalho da tabela para marcar todos os itens da página.
 2. Uma barra fixa é exibida na parte inferior da tela, mostrando quantos itens foram selecionados e o atalho para selecionar todos os SKUs da aba.
@@ -138,7 +139,7 @@ O link `Saiba mais`, à direita do aviso, direciona para mais informações sobr
 
 #### Imagens insuficientes
 
-A Amazon exige ao menos 4 imagens para criar ou vincular um anúncio. Quando o anúncio sugerido não tem imagens suficientes, a página **Detalhes da sugestão** exibe um aviso e o botão `Confirmar e publicar` permanece desabilitado até que as imagens sejam adicionadas no [catálogo VTEX](/pt/docs/tutorials/adicionar-ou-editar-produto).
+A Amazon exige ao menos quatro imagens para criar ou vincular um anúncio. Quando o anúncio sugerido não tem imagens suficientes, a página **Detalhes da sugestão** exibe um aviso e o botão `Confirmar e publicar` permanece desabilitado até que as imagens sejam adicionadas no [catálogo VTEX](/pt/docs/tutorials/adicionar-ou-editar-produto).
 
 ## Produtos prontos para criar e enviar
 
@@ -160,7 +161,7 @@ Cada SKU apresenta um status. Veja a seguir quais são e o que cada um represent
 - **Enviado:** o SKU foi preenchido corretamente e enviado à Amazon.
 - **Publicado:** o SKU foi enviado pelo seller e aceito pela Amazon. Estes já estão disponíveis no marketplace.
 
-### Cadastrando um SKU
+### Cadastrar um SKU
 
 Para cadastrar um novo SKU, siga os passos abaixo:
 
@@ -242,6 +243,8 @@ Quando alguma edição é feita no template, será apresentado no rodapé da pá
 > ℹ️ Todas as alterações realizadas no template serão refletidas nos SKUs da categoria que ainda não foram enviados.
 
 ##### Deletar template
+
+Para excluir um template, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Marketplace > Amazon > Publicação de produtos**, ou digite **Publicação de produtos** na barra de busca.
 2. Selecione a aba **Prontos para criar e enviar**.
