@@ -1,12 +1,11 @@
 ---
-title: "Localizing content - Overview"
+title: "Localizing content"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-04-02T11:00:52.219Z
 contentType: tutorial
 productTeam: CMS
 slugEN: localizing-content
 locale: en
-order: 1
 ---
 
 When your store has [multiple locales configured](https://help.vtex.com/docs/tutorials/configuring-locales#understanding-how-locales-are-connected-to-bindings), the CMS allows you to create and manage localized versions of your content. This enables you to adapt content such as page titles and descriptions for different languages or regions.

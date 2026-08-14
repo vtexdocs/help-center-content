@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es una Categoría?'
+title: 'Categorías'
 id: 6HV4Q3E2FauUoOQoiCCgCg
 status: PUBLISHED
 createdAt: 2018-01-25T21:32:32.038Z
@@ -13,7 +13,6 @@ slugEN: what-is-a-category
 legacySlug: que-es-una-categoria
 locale: es
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
-order: 2
 ---
 
 La Categoría es el segundo nivel de categorización de su tienda, justo debajo del nivel Departamento. Categorías son formas de clasificación u organización para presentar los productos de su tienda. 
