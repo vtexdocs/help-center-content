@@ -1,5 +1,5 @@
 ---
-title: 'Cómo funciona la VTEX Search (Legado)'
+title: 'VTEX Search (Legado)'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z

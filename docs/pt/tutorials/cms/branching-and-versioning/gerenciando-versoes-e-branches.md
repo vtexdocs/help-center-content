@@ -1,11 +1,12 @@
 ---
-title: "Gerenciando versões e branches"
+title: "Versões e branches"
 createdAt: 2026-03-27T17:08:52.219Z
 updatedAt: 2026-03-31T17:08:52.219Z
 contentType: tutorial
 productTeam: CMS
 slugEN: managing-versions-and-branches
 locale: pt
+categoryCover: true
 ---
 
 Ao trabalhar com conteúdo no CMS, as alterações ocorrem com frequência, seja ao atualizar uma página de produto, preparar uma campanha ou testar novos layouts. Versões e branches ajudam você a gerenciar essas alterações com segurança enquanto colabora com sua equipe.  

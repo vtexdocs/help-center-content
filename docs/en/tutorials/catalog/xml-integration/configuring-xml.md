@@ -1,5 +1,5 @@
 ---
-title: 'Configuring XML'
+title: 'XML integration'
 id: tutorials_242
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:41.700Z
