@@ -27,7 +27,7 @@ To access this module in the VTEX Admin, click your avatar, identified by your e
 - [Registration data](#registration-information)
 - [Billing contacts](#billing-contacts)
 
-![billing-module-overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/billing-module-overview-1.png)
+![billing-module-overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-admin/billing/billing-module-overview-1.png)
 
 ## Contracts
 
