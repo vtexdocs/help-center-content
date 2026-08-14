@@ -7,6 +7,8 @@ description: Relocates Help Center tutorial folders across en, es, and pt and up
 
 Move Help Center tutorial folders (and co-located assets) to a new path, keep **en / es / pt** in sync, then fix image URLs.
 
+To move **one** markdown file and its images, use `relocate-tutorial-files` instead.
+
 **slugEN funciona como o ID que conecta as docs en es e pt.** Do not match locales by translating folder names.
 
 ## Defaults
