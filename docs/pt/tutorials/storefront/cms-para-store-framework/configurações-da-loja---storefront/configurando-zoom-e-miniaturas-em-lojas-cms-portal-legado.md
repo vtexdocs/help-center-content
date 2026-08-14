@@ -19,8 +19,8 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 Em sua loja CMS Portal (Legado), você pode configurar os seguintes efeitos de exibição no storefront diretamente no Admin VTEX:
 
-- [Zoom](#configurar-zoom)
-- [Miniaturas](#configurar-miniaturas)
+- [Zoom](#configurar-zoom): amplia a imagem do produto quando o cliente passa o mouse sobre ela, permitindo ver detalhes em maior tamanho.
+- [Miniaturas](#configurar-miniaturas): versões reduzidas e comprimidas das imagens, exibidas em vitrines e listagens para acelerar o carregamento da página.
 
 ## Antes de começar
 
