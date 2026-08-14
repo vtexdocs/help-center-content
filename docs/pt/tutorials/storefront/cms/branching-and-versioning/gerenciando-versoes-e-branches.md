@@ -15,7 +15,7 @@ Ao trabalhar com conteúdo no CMS, as alterações ocorrem com frequência, seja
 * As **[branches](#branches)** permitem agrupar várias versões de página para colaborar e evoluir o conteúdo antes de publicar no storefront.  
 
 <video controls width="100%">
-  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/cms-branches-update/docs/pt/tutorials/cms/branching-and-versioning/Branches-pt.mp4" type="video/mp4" />
+  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/main/docs/pt/tutorials/storefront/cms/branching-and-versioning/Branches-pt.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

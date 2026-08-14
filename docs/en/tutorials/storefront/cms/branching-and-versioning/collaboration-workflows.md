@@ -18,7 +18,7 @@ When multiple team members are editing the same version, the system displays use
 
 Additionally, in the **Versions** menu, you can see which users are actively editing a specific version. Their avatars appear next to the version name in the side panel, helping teams stay aware of ongoing changes and avoid conflicts.
 
-![multi-user-awareness-detail](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/cms/branching-and-versioning/collaboration-workflow-2.gif)
+![multi-user-awareness-detail](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms/branching-and-versioning/collaboration-workflow-2.gif)
 
 ## Multi-user editing within a branch
 

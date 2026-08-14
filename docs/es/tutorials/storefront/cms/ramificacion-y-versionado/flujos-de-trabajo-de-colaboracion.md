@@ -18,7 +18,7 @@ Cuando varios miembros del equipo están editando la misma versión, el sistema 
 
 Además, en el menú **Versiones** puedes ver a los usuarios que están editando activamente una versión específica. Sus avatares se muestran junto al nombre de la versión en el panel lateral, lo que ayuda a los equipos a mantenerse al tanto de las modificaciones en curso y a evitar conflictos.
 
-![multi-user-awareness-detail](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/cms/branching-and-versioning/collaboration-workflow-2.gif)
+![multi-user-awareness-detail](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms/branching-and-versioning/collaboration-workflow-2.gif)
 
 ## Edición multiusuario dentro de una rama
 

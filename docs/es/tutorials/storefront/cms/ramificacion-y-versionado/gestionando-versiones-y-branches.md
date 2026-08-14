@@ -14,7 +14,7 @@ Al trabajar con contenido en el CMS, los cambios ocurren con frecuencia, ya sea 
 * **[Ramas](#ramas)** te permiten agrupar múltiples versiones de páginas para colaborar y evolucionar tu contenido antes de publicarlo en la tienda.
 
 <video controls width="100%">
-  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/cms-branches-update/docs/es/tutorials/cms/ramificacion-y-versionado/Branches_es.mp4" type="video/mp4" />
+  <source src="https://raw.githubusercontent.com/vtexdocs/help-center-content/main/docs/es/tutorials/storefront/cms/ramificacion-y-versionado/Branches_es.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
