@@ -35,4 +35,4 @@ Essas atualizações reforçam o compromisso contínuo da VTEX com a proteção 
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. Para dúvidas sobre essas atualizações ou para discutir qualquer assunto relacionado à proteção de dados, entre em contato com a equipe de Data Protection da VTEX pelo email dpo@vtex.com. Você também pode visitar o [Trust Center](https://compliance.vtex.com) para saber mais sobre o programa de privacidade, as certificações e a documentação de compliance da VTEX.
+Nenhuma ação é necessária. Para dúvidas sobre essas atualizações ou para discutir qualquer assunto relacionado à proteção de dados, entre em contato com a equipe de Legal & Privacy da VTEX pelo email dpo@vtex.com. Você também pode visitar o [Trust Center](https://compliance.vtex.com) para saber mais sobre o programa de privacidade, as certificações e a documentação de compliance da VTEX.
