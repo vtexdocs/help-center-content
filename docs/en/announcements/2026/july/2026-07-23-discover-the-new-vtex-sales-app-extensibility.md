@@ -31,17 +31,17 @@ The images below show the extension points in the sales journey:
 
 - Shopping cart (`cart.cart-item.after`, `cart.cart-list.after`) and checkout (`cart.order-summary.after`):
 
-  ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
+  ![extensibilidade_vtex_sales_app_1_cart_checkout_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_1_cart_checkout_PT.png)
 
 - Product details page (`pdp.sidebar.before`, `pdp.sidebar.after`, `pdp.content.after`):
 
-  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
+  ![extensibilidade_vtex_sales_app_4_pdp_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_4_pdp_PT.png)
 
 - Menu (`menu.item`) and side modal (`menu.drawer-content`):
 
-  ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
+  ![extensibilidade_vtex_sales_app_2_menu_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_2_menu_PT.png)
 
-  ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
+  ![extensibilidade_vtex_sales_app_3_drawer_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vtex-sales-app/extensibilidade_vtex_sales_app_3_drawer_PT.png)
 
 ## What needs to be done?
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-![Shared products product details EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-product-details_1.jpg)
+![Shared products product details EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/marketplace/sellers/seller-portal/seller-portal-product-details_1.jpg)
 
 On the product details page of the [Shared Products](/en/docs/tutorials/seller-portal-shared-products) module, you can view all information about a specific product, including: 
 
