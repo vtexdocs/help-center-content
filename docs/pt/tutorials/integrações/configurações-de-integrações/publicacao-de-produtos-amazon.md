@@ -126,17 +126,13 @@ Em alguns casos, a Amazon aplica restrições à publicação de um anúncio. Es
 
 #### Restrição que exige autorização
 
-O seller pode publicar o anúncio, mas somente após solicitar aprovação à Amazon. Nesse caso, o aviso exibido é:
-
-> ⚠️ Este produto tem uma restrição de publicação. Solicite autorização no Amazon Seller Central para continuar.
+O seller pode publicar o anúncio, mas somente após solicitar aprovação à Amazon. Nesse caso, o aviso exibido é: *Este produto tem uma restrição de publicação. Solicite autorização no Amazon Seller Central para continuar.*
 
 O botão `Solicitar autorização`, à direita do aviso, leva o seller à Amazon Seller Central para solicitar a liberação. Enquanto a autorização não é concedida, o botão `Confirmar e publicar` permanece desabilitado.
 
 #### ASIN não elegível
 
-O seller não é elegível para listar aquele ASIN. Essa inelegibilidade pode ocorrer por categoria, marca ou histórico de performance na Amazon, e não há ação disponível para contornar a restrição diretamente pela VTEX. Nesse caso, o aviso exibido é:
-
-> Este anúncio não pode ser publicado. A Amazon marcou este ASIN como não elegível para publicação devido a restrições de categoria, marca ou performance.
+O seller não é elegível para listar aquele ASIN. Essa inelegibilidade pode ocorrer por categoria, marca ou histórico de performance na Amazon, e não há ação disponível para contornar a restrição diretamente pela VTEX. Nesse caso, o aviso exibido é: *Este anúncio não pode ser publicado. A Amazon marcou este ASIN como não elegível para publicação devido a restrições de categoria, marca ou performance.*
 
 O link `Saiba mais`, à direita do aviso, direciona para mais informações sobre elegibilidade de anúncios na Amazon e o botão `Confirmar e publicar` permanece desabilitado nesse cenário.
 
