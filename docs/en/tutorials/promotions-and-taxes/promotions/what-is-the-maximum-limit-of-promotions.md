@@ -1,5 +1,5 @@
 ---
-title: 'How many coupons, taxes and promotions may I have in my store?'
+title: 'Coupon, fee, and promotion limits'
 id: frequentlyAskedQuestions_352
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.883Z

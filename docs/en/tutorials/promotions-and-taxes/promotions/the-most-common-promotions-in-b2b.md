@@ -1,5 +1,5 @@
 ---
-title: 'The most common promotions in B2B'
+title: 'Promotion strategies for B2B operations'
 id: XoM951AzUIvfaH71UdANf
 status: PUBLISHED
 createdAt: 2020-05-29T15:34:34.231Z
