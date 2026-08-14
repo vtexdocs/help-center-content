@@ -44,7 +44,7 @@ Antes de realizar o ajuste nos **Tipos de arquivos**, confirme se o zoom está h
 
 ## Configurar miniaturas
 
-As miniaturas (ou *thumbs*) permitem o carregamento rápido da página e facilitam o reconhecimento dos produtos, pois vários podem ser apresentados na tela ao mesmo tempo.
+As miniaturas (ou *thumbs*) permitem o carregamento rápido da página e facilitam o reconhecimento dos produtos, pois várias podem ser exibidas na tela ao mesmo tempo.
 
 Para isso, as imagens são redimensionadas e comprimidas de acordo com a configuração do CMS. Se o tamanho do arquivo (em KB) for muito baixo, a compressão pode comprometer a qualidade da miniatura.
 
