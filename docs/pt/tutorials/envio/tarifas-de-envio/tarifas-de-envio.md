@@ -13,6 +13,7 @@ slugEN: shipping-rates
 legacySlug: tarifas-de-envio
 locale: pt
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
+categoryCover: true
 ---
 
 As tarifas de envio são os custos de frete que sua loja oferece aos clientes, e estão relacionadas às [Políticas de envio](/pt/docs/tutorials/politica-de-envio) da sua loja. Dessa forma, os preços acordados entre sua loja e os responsáveis pelas entregas (como transportadoras, pontos de retirada, prestadores de serviços) devem ser configurados como **Tarifas de envio.**  

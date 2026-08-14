@@ -13,6 +13,7 @@ slugEN: fulfillment-logistics-vtex
 legacySlug: logistica
 locale: pt
 subcategoryId: 63f22GypJIBLnMGh1QZUi0
+categoryCover: true
 ---
 
 A logística ou fulfillment é o processo de planejamento, transporte e armazenagem das mercadorias da loja, e envio de pedidos aos clientes. Assim, ela está diretamente ligada à experiência do cliente e à estratégia de negócio da loja. Por isso, as [configurações logísticas](/pt/docs/tutorials/fulfillment-logistica-vtex#configuracao-do-processo-logistico) da sua loja são fundamentais. 

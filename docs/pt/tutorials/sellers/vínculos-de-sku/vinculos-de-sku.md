@@ -13,6 +13,7 @@ slugEN: sku-bindings
 legacySlug: vinculos-de-sku
 locale: pt
 subcategoryId: FTLNAWyLmuaIiAq4CQKS6
+categoryCover: true
 ---
 
 Como parte do [comércio colaborativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) promovido pela VTEX, a arquitetura de uma loja VTEX possibilita a ela tanto atuar como [seller](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex) quanto como [marketplace](/pt/docs/tutorials/configurar-marketplace-vtex). 
