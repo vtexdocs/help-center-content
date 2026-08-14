@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 ---
 
-> ℹ️ Tutorial válido apenas para lojas CMS Portal (Legado). Para lojas desenvolvidas com Store Framework, veja a documentação do componente [Product Images](https://developers.vtex.com/docs/apps/vtex.store-components/productimages).
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado). Para lojas desenvolvidas com [Store Framework](https://help.vtex.com/pt/docs/tracks/implementacao-de-frontend#store-framework), veja a documentação do componente [Product Images](https://developers.vtex.com/docs/apps/vtex.store-components/productimages).
 
 Em sua loja CMS Portal (Legado), você pode configurar os seguintes efeitos de exibição no storefront diretamente no Admin VTEX:
 
