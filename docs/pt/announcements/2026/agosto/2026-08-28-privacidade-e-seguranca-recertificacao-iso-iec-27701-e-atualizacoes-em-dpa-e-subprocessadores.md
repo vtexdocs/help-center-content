@@ -17,7 +17,7 @@ A VTEX atualizou seu programa de privacidade e segurança com a recertificação
 
 ### Recertificação ISO/IEC 27701:2019
 
-A VTEX concluiu a recertificação da ISO/IEC 27701, norma internacional para Sistemas de Gestão de Informações de Privacidade (PIMS). Essa certificação reflete o compromisso da VTEX com a implementação de controles de privacidade robustos e com a gestão de dados pessoais de acordo com as melhores práticas globais, incluindo os requisitos da GDPR e da LGPD.
+A VTEX concluiu a recertificação da [ISO/IEC 27701](https://www.iso.org/standard/27701), norma internacional para Sistemas de Gestão de Informações de Privacidade (PIMS). Essa certificação reflete o compromisso da VTEX com a implementação de controles de privacidade robustos e com a gestão de dados pessoais de acordo com as melhores práticas globais, incluindo os requisitos da GDPR e da LGPD.
 
 O certificado atualizado está disponível no [VTEX Trust Center](https://compliance.vtex.com/?itemUid=dc79cbc7-c99d-4eb9-891e-f5dc44b943d7&source=title).
 
