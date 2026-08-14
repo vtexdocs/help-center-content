@@ -1,5 +1,5 @@
 ---
-title: 'Create a benefit using price table'
+title: 'Creating a benefit using price table'
 id: pIwaCYDwWqpbao6GahcjT
 status: PUBLISHED
 createdAt: 2019-06-17T20:59:23.665Z
