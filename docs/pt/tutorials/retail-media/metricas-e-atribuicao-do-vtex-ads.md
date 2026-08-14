@@ -1,12 +1,13 @@
 ---
 title: 'Métricas e atribuição do VTEX Ads'
 createdAt: '2026-07-01T10:00:00.000Z'
-updatedAt: '2026-07-14T10:00:00.000Z'
+updatedAt: '2026-08-13T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: vtex-ads-metrics-and-attribution
 locale: pt
 ---
+
 O [VTEX Ads](/pt/docs/tracks/retail-media) oferece um conjunto de métricas para ajudar anunciantes, publishers e agências de marketing a medir o desempenho das campanhas e o retorno sobre o investimento em publicidade. As métricas estão disponíveis em todos os dashboards do VTEX Ads como **cards de métricas** no topo de cada tela e como **colunas** nas tabelas correspondentes.
 
 Este artigo descreve as métricas disponíveis e o modelo de atribuição que determina como a plataforma credita conversões aos anúncios.
@@ -164,6 +165,38 @@ As métricas Halo medem o impacto indireto do anúncio em vendas de outros produ
 | **Receita Halo** | Receita de produtos não anunciados comprados no mesmo pedido influenciado pelo anúncio. | -       |
 | **Itens Halo**   | Quantidade de itens Halo vendidos.                                                      | -       |
 
+## Métricas de Impression Share
+
+O conjunto de **Impression Share** mostra quanto do volume total de oportunidades de leilão elegíveis o anúncio efetivamente capturou, e quanto foi perdido por lance ou por orçamento insuficiente. As três métricas compartilham o mesmo denominador e, juntas, somam aproximadamente 100% do total de oportunidades.
+
+O denominador comum, chamado **Total de oportunidades**, corresponde à soma dos leilões elegíveis com orçamento disponível e dos leilões perdidos por falta de orçamento. Esse valor é uma estimativa, projetada a partir do histórico de distribuição de impressões e do tempo em que a campanha ficou inativa por orçamento insuficiente, e não corresponde a uma contagem exata de leilões.
+
+
+| Métrica                        | O que mede                                                                                                                 | Fórmula                                                          |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Parcela de impressões (IS)** | De todo o volume de oportunidades elegíveis, quanto o anúncio efetivamente recebeu de impressões.                         | (Leilões vencidos / Total de oportunidades) × 100                |
+| **IS perdido (por lance)**     | De todo o volume de oportunidades elegíveis, quanto foi perdido por lance ou qualidade do anúncio abaixo da concorrência. | (Leilões perdidos por lance / Total de oportunidades) × 100     |
+| **IS perdido (por orçamento)** | De todo o volume de oportunidades elegíveis, quanto foi perdido por falta de orçamento disponível para competir.          | (Leilões perdidos por orçamento / Total de oportunidades) × 100 |
+
+
+A soma da **Parcela de impressões (IS)**, do **IS perdido (por lance)** e do **IS perdido (por orçamento)** corresponde a aproximadamente 100% do Total de oportunidades, permitindo identificar se a limitação de uma campanha vem de lance, de orçamento ou de ambos.
+
+> ℹ️ Quando não há leilões elegíveis no período ou os dados ainda não foram coletados, as três métricas exibem "-".
+>
+> Um valor de 0% em **IS perdido (por lance)** ou em **IS perdido (por orçamento)** indica que não houve perda daquele tipo no período.
+>
+> Um valor de 0% em **Parcela de impressões (IS)** indica que o anúncio não recebeu nenhuma impressão no período.
+
+As três métricas estão disponíveis como card opcional e como coluna opcional nas seguintes abas:
+
+- **Visão anunciante:** abas **publishers**, **campanhas** e **anúncios**.
+- **Visão publisher:** abas **anunciantes**, **campanhas** e **anúncios**.
+
+Também estão disponíveis nos seguintes relatórios:
+
+- **Relatório de anúncios (anunciante e publisher):** nova coluna.
+- **Relatório gerencial (publisher):** novo card na aba **Custo de oportunidade** e na seção **Campanhas** da aba **Anunciantes**.
+
 ## Comportamento em janelas de data mistas
 
 A metodologia de atribuição dos produtos patrocinados (Sponsored Products) mudou em 1º de julho de 2026 e passou a incluir conversões por visualização, além das conversões por clique. Além disso, para todos os formatos, a taxa de conversão passou a usar as **visualizações** no denominador, em vez dos cliques usados anteriormente.
@@ -184,5 +217,6 @@ Para obter resultados consistentes, selecione o período de análise de acordo c
 - As métricas base e de conversão estão disponíveis historicamente, sem restrição de data.
 - O **ROAS por clique** não exibe dados anteriores a 25 de março de 2026.
 - A customização de cards e colunas é persistida entre sessões. Publisher e anunciante têm configurações independentes.
+- Os cards e colunas opcionais do conjunto de **Impression Share** seguem a mesma persistência de customização entre sessões.
 - Quando não há dados para uma métrica, o campo exibe zero.
 
