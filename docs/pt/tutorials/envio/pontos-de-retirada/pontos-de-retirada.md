@@ -13,6 +13,7 @@ slugEN: pickup-points
 legacySlug: como-funciona-o-ponto-de-retirada
 locale: pt
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
+categoryCover: true
 ---
 
 Pontos de retirada são locais onde clientes retiram seus pedidos. Uma loja disponibiliza os pontos de retirada para que seus clientes tenham a opção de escolher receber seu pedido no seu endereço (entrega) ou retirá-lo em um local determinado (retirada).

@@ -13,6 +13,7 @@ slugEN: account-management
 legacySlug: pagina-de-detalhes-da-conta
 locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
+categoryCover: true
 ---
 
 A página de **Conta** permite que você visualize e gerencie detalhes da sua conta VTEX. Para acessá-la, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e clique em **Configurações da conta** > **Conta.**

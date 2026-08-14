@@ -13,6 +13,7 @@ slugEN: seller-management
 legacySlug: gerenciamento-de-sellers-beta
 locale: pt
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
+categoryCover: true
 ---
 
 __Gerenciamento de Sellers__ é a página onde operadores de marketplace [adicionam sellers](/pt/docs/tutorials/adicionar-seller), registram suas informações e administram seus status. A página inclui métricas de andamento da operação de marketplace. Também é possível aplicar filtros nos resultados da lista de sellers e agrupar sellers por meio da opção Grupos que permite filtrar resultados mais facilmente.  

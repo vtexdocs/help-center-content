@@ -16323,6 +16323,562 @@
       "categories": [
         {
           "name": {
+            "en": "VTEX Assisted Sales (SuiteShare)",
+            "es": "VTEX Assisted Sales (SuiteShare)",
+            "pt": "VTEX Assisted Sales (SuiteShare)"
+          },
+          "slug": {
+            "en": "vtex-suiteshare",
+            "es": "vtex-suiteshare",
+            "pt": "vtex-suiteshare"
+          },
+          "origin": "",
+          "type": "markdown",
+          "children": [
+            {
+              "name": {
+                "en": "Active Campaign",
+                "es": "Active Campaign",
+                "pt": "Active Campaign"
+              },
+              "slug": {
+                "en": "active-campaign-suiteshare",
+                "es": "active-campaign-suiteshare",
+                "pt": "active-campaign-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Analyze",
+                "es": "Analizar",
+                "pt": "Analisar"
+              },
+              "slug": {
+                "en": "analyze-suiteshare",
+                "es": "analizar-suiteshare",
+                "pt": "analisar-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Anapro",
+                "es": "Anapro",
+                "pt": "Anapro"
+              },
+              "slug": {
+                "en": "anapro-suiteshare",
+                "es": "anapro-suiteshare",
+                "pt": "anapro-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Bitrix24",
+                "es": "Bitrix24",
+                "pt": "Bitrix24"
+              },
+              "slug": {
+                "en": "bitrix24",
+                "es": "bitrix24",
+                "pt": "bitrix24"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Call to Action",
+                "es": "Call to Action",
+                "pt": "Call to Action"
+              },
+              "slug": {
+                "en": "call-to-action-suiteshare",
+                "es": "call-to-action-suiteshare",
+                "pt": "call-to-action-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Capture Form",
+                "es": "Formulario de captura",
+                "pt": "Formulário de Captura"
+              },
+              "slug": {
+                "en": "capture-form-suiteshare",
+                "es": "formulario-de-captura-suiteshare",
+                "pt": "formulario-de-captura-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Chat",
+                "es": "Chat",
+                "pt": "Chat"
+              },
+              "slug": {
+                "en": "chat",
+                "es": "chat",
+                "pt": "chat"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CRM Zen - Suiteshare",
+                "es": "CRM Zen - Suiteshare",
+                "pt": "CRM Zen - Suiteshare"
+              },
+              "slug": {
+                "en": "crm-zen-suiteshare",
+                "es": "crm-zen-suiteshare",
+                "pt": "crm-zen-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Customize",
+                "es": "Personalice",
+                "pt": "Personalizar"
+              },
+              "slug": {
+                "en": "customize-suiteshare",
+                "es": "personalice-suiteshare",
+                "pt": "personalizar-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Editing my data - Suiteshare",
+                "es": "Editando mis datos - Suiteshare",
+                "pt": "Editando meus dados - Suiteshare"
+              },
+              "slug": {
+                "en": "editing-my-data-suiteshare",
+                "es": "editando-mis-datos-suiteshare",
+                "pt": "editando-meus-dados-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Exact sales",
+                "es": "Exact sales",
+                "pt": "Exact sales"
+              },
+              "slug": {
+                "en": "exact-sales-suiteshare",
+                "es": "exact-sales-suiteshare",
+                "pt": "exact-sales-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Facebook - Liberação de domínio",
+                "es": "Facebook - Liberación del dominio",
+                "pt": "Facebook - Liberação de domínio"
+              },
+              "slug": {
+                "en": "facebook-liberacao-de-dominio-suiteshare",
+                "es": "facebook-liberacao-de-dominio-suiteshare",
+                "pt": "facebook-liberacao-de-dominio-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Geolocalizado",
+                "es": "Geolocalizado",
+                "pt": "Geolocalizado"
+              },
+              "slug": {
+                "en": "geolocalizado-suiteshare",
+                "es": "geolocalizado-suiteshare",
+                "pt": "geolocalizado-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "HubSpot",
+                "es": "HubSpot",
+                "pt": "HubSpot"
+              },
+              "slug": {
+                "en": "hubspot-suiteshare",
+                "es": "hubspot-suiteshare",
+                "pt": "hubspot-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "I forgot my password - Suiteshare",
+                "es": "Olvide mi contraseña - Suiteshare",
+                "pt": "Esqueci minha senha - Suiteshare"
+              },
+              "slug": {
+                "en": "i-forgot-my-password-suiteshare",
+                "es": "olvide-mi-contrasena-suiteshare",
+                "pt": "esqueci-minha-senha-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Installing the widget with GTM",
+                "es": "Instalando el widget con GTM",
+                "pt": "Instalando o widget com o GTM"
+              },
+              "slug": {
+                "en": "installing-the-widget-with-gtm-suiteshare",
+                "es": "instalando-el-widget-con-gtm-suiteshare",
+                "pt": "instalando-o-widget-com-o-gtm-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Links",
+                "es": "Links",
+                "pt": "Links"
+              },
+              "slug": {
+                "en": "links-suiteshare",
+                "es": "links-suiteshare",
+                "pt": "links-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magento",
+                "es": "Magento",
+                "pt": "Magento"
+              },
+              "slug": {
+                "en": "magento-suiteshare",
+                "es": "magento-suiteshare",
+                "pt": "magento-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Meta Tags",
+                "es": "Meta Tags",
+                "pt": "Meta Tags"
+              },
+              "slug": {
+                "en": "meta-tags-suiteshare",
+                "es": "meta-tags-suiteshare",
+                "pt": "meta-tags-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Moskit",
+                "es": "Moskit",
+                "pt": "Moskit"
+              },
+              "slug": {
+                "en": "moskit-suiteshare",
+                "es": "moskit-suiteshare",
+                "pt": "moskit-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Opening hours - Suiteshare",
+                "es": "Horario de atención - Suiteshare",
+                "pt": "Horário de atendimento - Suiteshare"
+              },
+              "slug": {
+                "en": "opening-hours-suiteshare",
+                "es": "horario-de-atencion-suiteshare",
+                "pt": "horario-de-atendimento-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pipedrive",
+                "es": "Pipedrive",
+                "pt": "Pipedrive"
+              },
+              "slug": {
+                "en": "pipedrive-suiteshare",
+                "es": "pipedrive-suiteshare",
+                "pt": "pipedrive-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Piperun",
+                "es": "Piperun",
+                "pt": "Piperun"
+              },
+              "slug": {
+                "en": "piperun-suiteshare",
+                "es": "piperun-suiteshare",
+                "pt": "piperun-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "QR Code",
+                "es": "QR Code",
+                "pt": "QR Code"
+              },
+              "slug": {
+                "en": "qr-code-suiteshare",
+                "es": "qr-code-suiteshare",
+                "pt": "qr-code-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "RdStation",
+                "es": "RdStation",
+                "pt": "RdStation"
+              },
+              "slug": {
+                "en": "rdstation-suiteshare",
+                "es": "rdstation-suiteshare",
+                "pt": "rdstation-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "RdStation CRM",
+                "es": "RdStation CRM",
+                "pt": "RdStation CRM"
+              },
+              "slug": {
+                "en": "rdstation-crm-suiteshare",
+                "es": "rdstation-crm-suiteshare",
+                "pt": "rdstation-crm-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Remarketing",
+                "es": "Remarketing",
+                "pt": "Remarketing"
+              },
+              "slug": {
+                "en": "remarketing",
+                "es": "remarketing",
+                "pt": "remarketing"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales funnel",
+                "es": "Funil de ventas",
+                "pt": "Funil de vendas"
+              },
+              "slug": {
+                "en": "sales-funnel-suiteshare",
+                "es": "funil-de-ventas-suiteshare",
+                "pt": "funil-de-vendas-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Seletivo",
+                "es": "Seletivo",
+                "pt": "Seletivo"
+              },
+              "slug": {
+                "en": "seletivo",
+                "es": "seletivo",
+                "pt": "seletivo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sequencial",
+                "es": "Sequencial",
+                "pt": "Sequencial"
+              },
+              "slug": {
+                "en": "sequencial-suiteshare",
+                "es": "sequencial-suiteshare",
+                "pt": "sequencial-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SharpSpring",
+                "es": "SharpSpring",
+                "pt": "SharpSpring"
+              },
+              "slug": {
+                "en": "sharpspring-suiteshare",
+                "es": "sharpspring-suiteshare",
+                "pt": "sharpspring-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopify - Suiteshare",
+                "es": "Shopify - Suiteshare",
+                "pt": "Shopify - Suiteshare"
+              },
+              "slug": {
+                "en": "shopify-suiteshare",
+                "es": "shopify-suiteshare",
+                "pt": "shopify-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Widget",
+                "es": "Widget",
+                "pt": "Widget"
+              },
+              "slug": {
+                "en": "widget",
+                "es": "widget",
+                "pt": "widget"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wix",
+                "es": "Wix",
+                "pt": "Wix"
+              },
+              "slug": {
+                "en": "wix-suiteshare",
+                "es": "wix-suiteshare",
+                "pt": "wix-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Wordpress",
+                "es": "Wordpress",
+                "pt": "Wordpress"
+              },
+              "slug": {
+                "en": "wordpress-suiteshare",
+                "es": "wordpress-suiteshare",
+                "pt": "wordpress-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Zapier",
+                "es": "Zapier",
+                "pt": "Zapier"
+              },
+              "slug": {
+                "en": "zapier-suiteshare",
+                "es": "zapier-suiteshare",
+                "pt": "zapier-suiteshare"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Account settings",
             "es": "Configuraciones de la cuenta",
             "pt": "Configurações da conta"
@@ -16413,33 +16969,18 @@
             },
             {
               "name": {
-                "en": "Accounts",
-                "es": "Cuentas",
-                "pt": "Contas"
+                "en": "Account management",
+                "es": "Gestión de la cuenta",
+                "pt": "Gerenciamento da conta"
               },
               "slug": {
-                "en": "accounts-subcategory",
-                "es": "cuentas-subcategoria",
-                "pt": "contas-subcategoria"
+                "en": "account-management",
+                "es": "gestion-de-la-cuenta",
+                "pt": "gerenciamento-da-conta"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Account management",
-                    "es": "Gestión de la cuenta",
-                    "pt": "Gerenciamento da conta"
-                  },
-                  "slug": {
-                    "en": "account-management",
-                    "es": "gestion-de-la-cuenta",
-                    "pt": "gerenciamento-da-conta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Changing the logo on the bank slip",
@@ -18778,12 +19319,12 @@
                 "pt": "Marcas"
               },
               "slug": {
-                "en": "brands-subcategory",
-                "es": "marcas-subcategoria",
-                "pt": "marcas-subcategoria"
+                "en": "what-is-a-brand",
+                "es": "que-es-una-marca",
+                "pt": "o-que-e-uma-marca"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -18814,37 +19355,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a Brand?",
-                    "es": "¿Qué es una Marca?",
-                    "pt": "O que é uma Marca?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-brand",
-                    "es": "que-es-una-marca",
-                    "pt": "o-que-e-uma-marca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Bundle",
-                "es": "Kit",
-                "pt": "Kit"
+                "en": "Bundles",
+                "es": "Kits",
+                "pt": "Kits"
               },
               "slug": {
-                "en": "bundle-subcategory",
-                "es": "kit-subcategoria",
-                "pt": "kit-subcategoria"
+                "en": "what-is-a-bundle",
+                "es": "que-es-un-kit",
+                "pt": "o-que-e-um-kit"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -18905,21 +19431,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a bundle?",
-                    "es": "Qué es un kit?",
-                    "pt": "O que é um kit?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-bundle",
-                    "es": "que-es-un-kit",
-                    "pt": "o-que-e-um-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -18930,12 +19441,12 @@
                 "pt": "Categorias"
               },
               "slug": {
-                "en": "categories-subcategory",
-                "es": "categorias-subcategoria",
-                "pt": "categorias-subcategoria"
+                "en": "what-is-a-category",
+                "es": "que-es-una-categoria",
+                "pt": "o-que-e-uma-categoria"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19059,21 +19570,6 @@
                 },
                 {
                   "name": {
-                    "en": "What is a Category?",
-                    "es": "¿Qué es una Categoría?",
-                    "pt": "O que é uma Categoria?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-category",
-                    "es": "que-es-una-categoria",
-                    "pt": "o-que-e-uma-categoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "What is a Department?",
                     "es": "¿Qué es un Departamento?",
                     "pt": "O que é um Departamento?"
@@ -19106,33 +19602,18 @@
             },
             {
               "name": {
-                "en": "Collection",
-                "es": "Colecciones",
+                "en": "Collections",
+                "es": "Colecciónes",
                 "pt": "Coleções"
               },
               "slug": {
-                "en": "collection-subcategory",
-                "es": "colecciones-subcategoria",
-                "pt": "coleções-subcategoria"
+                "en": "collection-types",
+                "es": "tipos-de-coleccion",
+                "pt": "tipos-de-colecao"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Collection Types",
-                    "es": "Tipos de Colección",
-                    "pt": "Tipos de Coleção"
-                  },
-                  "slug": {
-                    "en": "collection-types",
-                    "es": "tipos-de-coleccion",
-                    "pt": "tipos-de-colecao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating Collections (Beta)",
@@ -19349,17 +19830,17 @@
             },
             {
               "name": {
-                "en": "List types",
-                "es": "Tipos de lista",
-                "pt": "Tipos de lista"
+                "en": "Lists",
+                "es": "Listas",
+                "pt": "Listas"
               },
               "slug": {
-                "en": "list-types-subcategory",
-                "es": "tipos-de-lista-subcategoria",
-                "pt": "tipos-de-lista-subcategoria"
+                "en": "what-is-a-list",
+                "es": "que-es-una-lista",
+                "pt": "o-que-e-uma-lista"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19390,21 +19871,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a List?",
-                    "es": "Qué es una Lista?",
-                    "pt": "O que é uma Lista?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-list",
-                    "es": "que-es-una-lista",
-                    "pt": "o-que-e-uma-lista"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -19415,12 +19881,12 @@
                 "pt": "Produtos e SKUs"
               },
               "slug": {
-                "en": "products-and-skus-subcategory",
-                "es": "productos-y-skus-subcategoria",
-                "pt": "produtos-e-skus-subcategoria"
+                "en": "products-and-skus",
+                "es": "productos-y-skus",
+                "pt": "produtos-e-skus"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19679,21 +20145,6 @@
                 },
                 {
                   "name": {
-                    "en": "Products and SKUs",
-                    "es": "Productos y SKUs",
-                    "pt": "Produtos e SKUs"
-                  },
-                  "slug": {
-                    "en": "products-and-skus",
-                    "es": "productos-y-skus",
-                    "pt": "produtos-e-skus"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up product comparison",
                     "es": "Configurar la comparación de productos",
                     "pt": "Configurar a comparação de produtos"
@@ -19862,17 +20313,17 @@
             },
             {
               "name": {
-                "en": "Search",
-                "es": "Búsqueda",
-                "pt": "Busca"
+                "en": "VTEX Search (Legacy)",
+                "es": "VTEX Search (Legado)",
+                "pt": "VTEX Search (Legado)"
               },
               "slug": {
-                "en": "search-subcategory",
-                "es": "busqueda-subcategoria",
-                "pt": "busca-subcategoria"
+                "en": "how-does-vtex-search-legacy-work",
+                "es": "como-funciona-vtex-search-legado",
+                "pt": "como-funciona-vtex-search-legado"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -19884,21 +20335,6 @@
                     "en": "forcing-searches-with-blocked-terms-to-return-results",
                     "es": "forzar-busquedas-con-terminos-bloqueados-a-devolver-resultados",
                     "pt": "forcar-buscas-com-termos-bloqueados-a-retornarem-resultados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How VTEX Search (Legacy) works",
-                    "es": "Cómo funciona la VTEX Search (Legado)",
-                    "pt": "Como funciona a VTEX Search (Legado)"
-                  },
-                  "slug": {
-                    "en": "how-does-vtex-search-legacy-work",
-                    "es": "como-funciona-vtex-search-legado",
-                    "pt": "como-funciona-vtex-search-legado"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19943,28 +20379,13 @@
                 "pt": "Integração XML"
               },
               "slug": {
-                "en": "xml-integration-subcategory",
-                "es": "integraciones-xml-subcategoria",
-                "pt": "integração-xml-subcategoria"
+                "en": "configuring-xml",
+                "es": "como-configurar-xml",
+                "pt": "configurando-xml"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Configuring XML",
-                    "es": "Cómo configurar XML",
-                    "pt": "Configurar XML"
-                  },
-                  "slug": {
-                    "en": "configuring-xml",
-                    "es": "como-configurar-xml",
-                    "pt": "configurando-xml"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Configuring XML for Google Shopping",
@@ -20529,17 +20950,17 @@
           "children": [
             {
               "name": {
-                "en": "Branching and versioning",
-                "es": "Ramificación y versionado",
-                "pt": "Branching and versionamento"
+                "en": "Versions and branches",
+                "es": "Versiones y ramas",
+                "pt": "Versões e branches"
               },
               "slug": {
-                "en": "branching-and-versioning-subcategory",
-                "es": "ramificacion-y-versionado-subcategoria",
-                "pt": "branching-and-versionamento-subcategoria"
+                "en": "managing-versions-and-branches",
+                "es": "gestionando-versiones-y-branches",
+                "pt": "gerenciando-versoes-e-branches"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -20551,21 +20972,6 @@
                     "en": "collaboration-workflows",
                     "es": "flujos-de-trabajo-de-colaboracion",
                     "pt": "fluxos-de-trabalho-de-colaboracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing versions and branches",
-                    "es": "Gestionar versiones y ramas",
-                    "pt": "Gerenciando versões e branches"
-                  },
-                  "slug": {
-                    "en": "managing-versions-and-branches",
-                    "es": "gestionando-versiones-y-branches",
-                    "pt": "gerenciando-versoes-e-branches"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20595,12 +21001,12 @@
                 "pt": "Localização de conteúdo"
               },
               "slug": {
-                "en": "localizing-content-subcategory",
-                "es": "localizacion-de-contenido-subcategoria",
-                "pt": "localizacao-de-conteudo-subcategoria"
+                "en": "localizing-content",
+                "es": "localizacion-de-contenido",
+                "pt": "localizacao-de-conteudo"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -20612,21 +21018,6 @@
                     "en": "configuring-locales",
                     "es": "configurar-configuraciones-regionales",
                     "pt": "configurar-localidades"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Localizing content - Overview",
-                    "es": "Localización de contenido - Descripción general",
-                    "pt": "Localização de conteúdo - Visão geral"
-                  },
-                  "slug": {
-                    "en": "localizing-content",
-                    "es": "localizacion-de-contenido",
-                    "pt": "localizacao-de-conteudo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20698,593 +21089,6 @@
         },
         {
           "name": {
-            "en": "Conversational Commerce",
-            "es": "Conversational Commerce",
-            "pt": "Conversational Commerce"
-          },
-          "slug": {
-            "en": "conversational-commerce-category",
-            "es": "conversational-commerce-categoria",
-            "pt": "conversational-commerce-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "VTEX Assisted Sales (SuiteShare)",
-                "es": "VTEX Assisted Sales (SuiteShare)",
-                "pt": "VTEX Assisted Sales (SuiteShare)"
-              },
-              "slug": {
-                "en": "vtex-assisted-sales-suiteshare-subcategory",
-                "es": "vtex-assisted-sales-suiteshare-subcategoria",
-                "pt": "vtex-assisted-sales-suiteshare-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Active Campaign",
-                    "es": "Active Campaign",
-                    "pt": "Active Campaign"
-                  },
-                  "slug": {
-                    "en": "active-campaign-suiteshare",
-                    "es": "active-campaign-suiteshare",
-                    "pt": "active-campaign-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Analyze",
-                    "es": "Analizar",
-                    "pt": "Analisar"
-                  },
-                  "slug": {
-                    "en": "analyze-suiteshare",
-                    "es": "analizar-suiteshare",
-                    "pt": "analisar-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Anapro",
-                    "es": "Anapro",
-                    "pt": "Anapro"
-                  },
-                  "slug": {
-                    "en": "anapro-suiteshare",
-                    "es": "anapro-suiteshare",
-                    "pt": "anapro-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Bitrix24",
-                    "es": "Bitrix24",
-                    "pt": "Bitrix24"
-                  },
-                  "slug": {
-                    "en": "bitrix24",
-                    "es": "bitrix24",
-                    "pt": "bitrix24"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Call to Action",
-                    "es": "Call to Action",
-                    "pt": "Call to Action"
-                  },
-                  "slug": {
-                    "en": "call-to-action-suiteshare",
-                    "es": "call-to-action-suiteshare",
-                    "pt": "call-to-action-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Capture Form",
-                    "es": "Formulario de captura",
-                    "pt": "Formulário de Captura"
-                  },
-                  "slug": {
-                    "en": "capture-form-suiteshare",
-                    "es": "formulario-de-captura-suiteshare",
-                    "pt": "formulario-de-captura-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Chat",
-                    "es": "Chat",
-                    "pt": "Chat"
-                  },
-                  "slug": {
-                    "en": "chat",
-                    "es": "chat",
-                    "pt": "chat"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "CRM Zen - Suiteshare",
-                    "es": "CRM Zen - Suiteshare",
-                    "pt": "CRM Zen - Suiteshare"
-                  },
-                  "slug": {
-                    "en": "crm-zen-suiteshare",
-                    "es": "crm-zen-suiteshare",
-                    "pt": "crm-zen-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Customize",
-                    "es": "Personalice",
-                    "pt": "Personalizar"
-                  },
-                  "slug": {
-                    "en": "customize-suiteshare",
-                    "es": "personalice-suiteshare",
-                    "pt": "personalizar-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Editing my data - Suiteshare",
-                    "es": "Editando mis datos - Suiteshare",
-                    "pt": "Editando meus dados - Suiteshare"
-                  },
-                  "slug": {
-                    "en": "editing-my-data-suiteshare",
-                    "es": "editando-mis-datos-suiteshare",
-                    "pt": "editando-meus-dados-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Exact sales",
-                    "es": "Exact sales",
-                    "pt": "Exact sales"
-                  },
-                  "slug": {
-                    "en": "exact-sales-suiteshare",
-                    "es": "exact-sales-suiteshare",
-                    "pt": "exact-sales-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Facebook - Liberação de domínio",
-                    "es": "Facebook - Liberación del dominio",
-                    "pt": "Facebook - Liberação de domínio"
-                  },
-                  "slug": {
-                    "en": "facebook-liberacao-de-dominio-suiteshare",
-                    "es": "facebook-liberacao-de-dominio-suiteshare",
-                    "pt": "facebook-liberacao-de-dominio-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Geolocalizado",
-                    "es": "Geolocalizado",
-                    "pt": "Geolocalizado"
-                  },
-                  "slug": {
-                    "en": "geolocalizado-suiteshare",
-                    "es": "geolocalizado-suiteshare",
-                    "pt": "geolocalizado-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "HubSpot",
-                    "es": "HubSpot",
-                    "pt": "HubSpot"
-                  },
-                  "slug": {
-                    "en": "hubspot-suiteshare",
-                    "es": "hubspot-suiteshare",
-                    "pt": "hubspot-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "I forgot my password - Suiteshare",
-                    "es": "Olvide mi contraseña - Suiteshare",
-                    "pt": "Esqueci minha senha - Suiteshare"
-                  },
-                  "slug": {
-                    "en": "i-forgot-my-password-suiteshare",
-                    "es": "olvide-mi-contrasena-suiteshare",
-                    "pt": "esqueci-minha-senha-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Installing the widget with GTM",
-                    "es": "Instalando el widget con GTM",
-                    "pt": "Instalando o widget com o GTM"
-                  },
-                  "slug": {
-                    "en": "installing-the-widget-with-gtm-suiteshare",
-                    "es": "instalando-el-widget-con-gtm-suiteshare",
-                    "pt": "instalando-o-widget-com-o-gtm-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Links",
-                    "es": "Links",
-                    "pt": "Links"
-                  },
-                  "slug": {
-                    "en": "links-suiteshare",
-                    "es": "links-suiteshare",
-                    "pt": "links-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Magento",
-                    "es": "Magento",
-                    "pt": "Magento"
-                  },
-                  "slug": {
-                    "en": "magento-suiteshare",
-                    "es": "magento-suiteshare",
-                    "pt": "magento-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Meta Tags",
-                    "es": "Meta Tags",
-                    "pt": "Meta Tags"
-                  },
-                  "slug": {
-                    "en": "meta-tags-suiteshare",
-                    "es": "meta-tags-suiteshare",
-                    "pt": "meta-tags-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Moskit",
-                    "es": "Moskit",
-                    "pt": "Moskit"
-                  },
-                  "slug": {
-                    "en": "moskit-suiteshare",
-                    "es": "moskit-suiteshare",
-                    "pt": "moskit-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Opening hours - Suiteshare",
-                    "es": "Horario de atención - Suiteshare",
-                    "pt": "Horário de atendimento - Suiteshare"
-                  },
-                  "slug": {
-                    "en": "opening-hours-suiteshare",
-                    "es": "horario-de-atencion-suiteshare",
-                    "pt": "horario-de-atendimento-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Pipedrive",
-                    "es": "Pipedrive",
-                    "pt": "Pipedrive"
-                  },
-                  "slug": {
-                    "en": "pipedrive-suiteshare",
-                    "es": "pipedrive-suiteshare",
-                    "pt": "pipedrive-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Piperun",
-                    "es": "Piperun",
-                    "pt": "Piperun"
-                  },
-                  "slug": {
-                    "en": "piperun-suiteshare",
-                    "es": "piperun-suiteshare",
-                    "pt": "piperun-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "QR Code",
-                    "es": "QR Code",
-                    "pt": "QR Code"
-                  },
-                  "slug": {
-                    "en": "qr-code-suiteshare",
-                    "es": "qr-code-suiteshare",
-                    "pt": "qr-code-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "RdStation",
-                    "es": "RdStation",
-                    "pt": "RdStation"
-                  },
-                  "slug": {
-                    "en": "rdstation-suiteshare",
-                    "es": "rdstation-suiteshare",
-                    "pt": "rdstation-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "RdStation CRM",
-                    "es": "RdStation CRM",
-                    "pt": "RdStation CRM"
-                  },
-                  "slug": {
-                    "en": "rdstation-crm-suiteshare",
-                    "es": "rdstation-crm-suiteshare",
-                    "pt": "rdstation-crm-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Remarketing",
-                    "es": "Remarketing",
-                    "pt": "Remarketing"
-                  },
-                  "slug": {
-                    "en": "remarketing",
-                    "es": "remarketing",
-                    "pt": "remarketing"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales funnel",
-                    "es": "Funil de ventas",
-                    "pt": "Funil de vendas"
-                  },
-                  "slug": {
-                    "en": "sales-funnel-suiteshare",
-                    "es": "funil-de-ventas-suiteshare",
-                    "pt": "funil-de-vendas-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Seletivo",
-                    "es": "Seletivo",
-                    "pt": "Seletivo"
-                  },
-                  "slug": {
-                    "en": "seletivo",
-                    "es": "seletivo",
-                    "pt": "seletivo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sequencial",
-                    "es": "Sequencial",
-                    "pt": "Sequencial"
-                  },
-                  "slug": {
-                    "en": "sequencial-suiteshare",
-                    "es": "sequencial-suiteshare",
-                    "pt": "sequencial-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "SharpSpring",
-                    "es": "SharpSpring",
-                    "pt": "SharpSpring"
-                  },
-                  "slug": {
-                    "en": "sharpspring-suiteshare",
-                    "es": "sharpspring-suiteshare",
-                    "pt": "sharpspring-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Shopify - Suiteshare",
-                    "es": "Shopify - Suiteshare",
-                    "pt": "Shopify - Suiteshare"
-                  },
-                  "slug": {
-                    "en": "shopify-suiteshare",
-                    "es": "shopify-suiteshare",
-                    "pt": "shopify-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Assisted Sales (SuiteShare)",
-                    "es": "VTEX Assisted Sales (SuiteShare)",
-                    "pt": "VTEX Assisted Sales (SuiteShare)"
-                  },
-                  "slug": {
-                    "en": "vtex-suiteshare",
-                    "es": "vtex-suiteshare",
-                    "pt": "vtex-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Widget",
-                    "es": "Widget",
-                    "pt": "Widget"
-                  },
-                  "slug": {
-                    "en": "widget",
-                    "es": "widget",
-                    "pt": "widget"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Wix",
-                    "es": "Wix",
-                    "pt": "Wix"
-                  },
-                  "slug": {
-                    "en": "wix-suiteshare",
-                    "es": "wix-suiteshare",
-                    "pt": "wix-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Wordpress",
-                    "es": "Wordpress",
-                    "pt": "Wordpress"
-                  },
-                  "slug": {
-                    "en": "wordpress-suiteshare",
-                    "es": "wordpress-suiteshare",
-                    "pt": "wordpress-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Zapier",
-                    "es": "Zapier",
-                    "pt": "Zapier"
-                  },
-                  "slug": {
-                    "en": "zapier-suiteshare",
-                    "es": "zapier-suiteshare",
-                    "pt": "zapier-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Dashboards",
             "es": "Dashboards",
             "pt": "Dashboards"
@@ -21351,12 +21155,12 @@
             "pt": "Indeva by VTEX"
           },
           "slug": {
-            "en": "indeva-by-vtex-category",
-            "es": "indeva-by-vtex-categoria",
-            "pt": "indeva-by-vtex-categoria"
+            "en": "learn-to-use-platform-indeva",
+            "es": "aprender-a-usar-la-plataforma-indeva",
+            "pt": "aprender-a-usar-a-plataforma-indeva"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -22884,21 +22688,6 @@
                 "en": "access-financial-area-in-platform-indeva",
                 "es": "acceder-al-area-financiera-en-la-plataforma-indeva",
                 "pt": "acessar-area-financeira-na-plataforma-indeva"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Learn how to use the Indeva platform",
-                "es": "Aprender a usar la plataforma Indeva",
-                "pt": "Aprender a usar a plataforma Indeva"
-              },
-              "slug": {
-                "en": "learn-to-use-platform-indeva",
-                "es": "aprender-a-usar-la-plataforma-indeva",
-                "pt": "aprender-a-usar-a-plataforma-indeva"
               },
               "origin": "",
               "type": "markdown",
@@ -24619,12 +24408,12 @@
             "pt": "Intelligent Search"
           },
           "slug": {
-            "en": "intelligent-search-category",
-            "es": "intelligent-search-categoria",
-            "pt": "intelligent-search-categoria"
+            "en": "intelligent-search-overview",
+            "es": "intelligent-search-vision-general",
+            "pt": "intelligent-search-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -24633,28 +24422,13 @@
                 "pt": "Banners"
               },
               "slug": {
-                "en": "banners-subcategory",
-                "es": "banners-subcategoria",
-                "pt": "banners-subcategoria"
+                "en": "banners",
+                "es": "banners",
+                "pt": "banners"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Banners",
-                    "es": "Banners",
-                    "pt": "Banners"
-                  },
-                  "slug": {
-                    "en": "banners",
-                    "es": "banners",
-                    "pt": "banners"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Configuring Banners",
@@ -24851,37 +24625,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Intelligent Search - Overview",
-                    "es": "Intelligent Search - Información general",
-                    "pt": "Intelligent Search - Visão geral"
-                  },
-                  "slug": {
-                    "en": "intelligent-search-overview",
-                    "es": "intelligent-search-vision-general",
-                    "pt": "intelligent-search-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
                 "en": "Redirects",
-                "es": "Redireccionamientos",
+                "es": "Redirecciones",
                 "pt": "Redirecionamentos"
               },
               "slug": {
-                "en": "redirects-subcategory",
-                "es": "redireccionamientos-subcategoria",
-                "pt": "redirecionamentos-subcategoria"
+                "en": "redirects",
+                "es": "redirecciones",
+                "pt": "redirecionamentos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -24897,21 +24656,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Redirects",
-                    "es": "Redirecciones",
-                    "pt": "Redirecionamentos"
-                  },
-                  "slug": {
-                    "en": "redirects",
-                    "es": "redirecciones",
-                    "pt": "redirecionamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -24922,12 +24666,12 @@
                 "pt": "Relevância"
               },
               "slug": {
-                "en": "relevance-subcategory",
-                "es": "relevancia-subcategoria",
-                "pt": "relevância-subcategoria"
+                "en": "intelligent-search-how-search-result-relevance-works",
+                "es": "intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda",
+                "pt": "intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -24954,21 +24698,6 @@
                     "en": "creating-merchandising-rules-visual-editor",
                     "es": "crear-regla-de-merchandising-editor-visual",
                     "pt": "criar-regra-de-merchandising-editor-visual"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Intelligent Search: how search result relevance works",
-                    "es": "Intelligent Search: cómo funciona la relevancia de los resultados de búsqueda",
-                    "pt": "Intelligent Search: como funciona a relevância dos resultados de busca"
-                  },
-                  "slug": {
-                    "en": "intelligent-search-how-search-result-relevance-works",
-                    "es": "intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda",
-                    "pt": "intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25043,12 +24772,12 @@
                 "pt": "Sinônimos"
               },
               "slug": {
-                "en": "synonyms-subcategory",
-                "es": "sinonimos-subcategoria",
-                "pt": "sinônimos-subcategoria"
+                "en": "synonyms",
+                "es": "sinonimos",
+                "pt": "sinonimos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -25090,21 +24819,6 @@
                     "en": "synonym-list",
                     "es": "lista-de-sinonimos",
                     "pt": "lista-de-sinonimos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Synonyms",
-                    "es": "Sinónimos",
-                    "pt": "Sinônimos"
-                  },
-                  "slug": {
-                    "en": "synonyms",
-                    "es": "sinonimos",
-                    "pt": "sinonimos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26196,31 +25910,31 @@
         },
         {
           "name": {
-            "en": "Orders",
-            "es": "Pedidos",
-            "pt": "Pedidos"
+            "en": "Orders - Overview",
+            "es": "Pedidos - Información general",
+            "pt": "Pedidos - Visão geral"
           },
           "slug": {
-            "en": "orders-category",
-            "es": "pedidos-categoria",
-            "pt": "pedidos-categoria"
+            "en": "orders-overview",
+            "es": "pedidos-vision-general",
+            "pt": "gerenciamento-de-pedidos-visao-geral"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
-                "en": "All orders",
+                "en": "All Orders",
                 "es": "Todos los pedidos",
                 "pt": "Todos os pedidos"
               },
               "slug": {
-                "en": "all-orders-subcategory",
-                "es": "todos-los-pedidos-subcategoria",
-                "pt": "todos-os-pedidos-subcategoria"
+                "en": "all-orders",
+                "es": "todos-los-pedidos",
+                "pt": "todos-os-pedidos"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -26871,21 +26585,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "All Orders",
-                    "es": "Todos los pedidos",
-                    "pt": "Todos os pedidos"
-                  },
-                  "slug": {
-                    "en": "all-orders",
-                    "es": "todos-los-pedidos",
-                    "pt": "todos-os-pedidos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Changing the total cost of the order",
                     "es": "Cambiar el valor total del pedido",
                     "pt": "Alterar valor total do pedido"
@@ -26991,21 +26690,6 @@
                 },
                 {
                   "name": {
-                    "en": "Orders - Overview",
-                    "es": "Pedidos - Información general",
-                    "pt": "Pedidos - Visão geral"
-                  },
-                  "slug": {
-                    "en": "orders-overview",
-                    "es": "pedidos-vision-general",
-                    "pt": "gerenciamento-de-pedidos-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "VTEX DO",
                     "es": "VTEX DO",
                     "pt": "VTEX DO"
@@ -27028,12 +26712,12 @@
                 "pt": "Televendas e atendimento ao cliente"
               },
               "slug": {
-                "en": "telesales-and-customer-service-subcategory",
-                "es": "televentas-y-servicio-al-cliente-subcategoria",
-                "pt": "televendas-e-atendimento-ao-cliente-subcategoria"
+                "en": "telesales-features",
+                "es": "funcionalidades-de-televentas",
+                "pt": "funcionalidades-de-televendas"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -27060,21 +26744,6 @@
                     "en": "how-to-activate-the-shareable-cart-app",
                     "es": "como-activar-la-app-carrito-compartido",
                     "pt": "como-ativar-o-app-carrinho-compartilhavel"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Telesales features",
-                    "es": "Funcionalidades de televentas",
-                    "pt": "Funcionalidades de televendas"
-                  },
-                  "slug": {
-                    "en": "telesales-features",
-                    "es": "funcionalidades-de-televentas",
-                    "pt": "funcionalidades-de-televendas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32348,13 +32017,13 @@
         {
           "name": {
             "en": "Promotions & Taxes",
-            "es": "Tasas y Promociones",
-            "pt": "Promoções e Taxas"
+            "es": "Tasas y promociones",
+            "pt": "Promoções e taxas"
           },
           "slug": {
-            "en": "overview-pricing-module",
-            "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-            "pt": "overview-2"
+            "en": "promotions-overview",
+            "es": "vision-general-promociones",
+            "pt": "visao-geral-promocoes"
           },
           "origin": "",
           "type": "markdown",
@@ -32422,9 +32091,9 @@
             },
             {
               "name": {
-                "en": "Promotional coupons: types and groups",
-                "es": "Cupones promocionales: tipos y grupos",
-                "pt": "Cupons promocionais: tipos e grupos"
+                "en": "Coupons",
+                "es": "Cupones",
+                "pt": "Cupons"
               },
               "slug": {
                 "en": "coupons-beta",
@@ -32473,178 +32142,13 @@
                 "pt": "Promoções"
               },
               "slug": {
-                "en": "promotions-overview",
-                "es": "vision-general-promociones",
-                "pt": "visao-geral-promocoes"
+                "en": "promotion-list-beta",
+                "es": "lista-de-promociones-beta",
+                "pt": "lista-de-promocoes-beta"
               },
               "origin": "",
               "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "Campaign tracking with UTM parameters",
-                    "es": "Monitoreo de campañas con parámetros UTM",
-                    "pt": "Rastreamento de campanhas com parâmetros UTM"
-                  },
-                  "slug": {
-                    "en": "what-are-utm-source-utm-campaign-and-utm-medium",
-                    "es": "que-son-utm-source-utm-campaign-y-utm-medium",
-                    "pt": "o-que-sao-utm-source-utm-campaign-e-utm-medium"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring a promotion for an SKU",
-                    "es": "Configurar promoción para un SKU",
-                    "pt": "Configurar promoção para um SKU"
-                  },
-                  "slug": {
-                    "en": "how-to-configure-a-promotion-for-an-sku",
-                    "es": "como-configurar-promocion-para-un-sku",
-                    "pt": "compre-ganhe-e-desconto-para-sku-especifico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring promotion budgets",
-                    "es": "Configurar presupuesto para promociones",
-                    "pt": "Configurar orçamentos para promoções"
-                  },
-                  "slug": {
-                    "en": "configuring-promotion-budgets",
-                    "es": "configurar-presupuesto-para-promociones",
-                    "pt": "configurando-orcamentos-para-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring promotions for marketplaces",
-                    "es": "Configurar promoción para marketplace",
-                    "pt": "Configurar promoção para marketplace"
-                  },
-                  "slug": {
-                    "en": "configuring-promotions-for-marketplaces",
-                    "es": "configurar-promocion-para-marketplace",
-                    "pt": "configurar-promocao-para-marketplace"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring promotions with highlights / flags",
-                    "es": "Configurar promoción con destaque / flag",
-                    "pt": "Configurar promoção com destaque / flag"
-                  },
-                  "slug": {
-                    "en": "configuring-promotions-with-a-highlightflag",
-                    "es": "configurando-promocion-con-destaque-flag",
-                    "pt": "configurando-promocao-com-destaque-flag"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring shipping promotions",
-                    "es": "Registrar promociones de envío",
-                    "pt": "Configurar promoções de frete"
-                  },
-                  "slug": {
-                    "en": "configuring-shipping-promotions",
-                    "es": "registrar-promociones-de-flete",
-                    "pt": "configurar-promocoes-de-frete"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a Buy Together promotion",
-                    "es": "Crear promoción Comprar Juntos",
-                    "pt": "Criar promoção Compre Junto"
-                  },
-                  "slug": {
-                    "en": "buy-together",
-                    "es": "comprar-juntos-registro-de-promocion",
-                    "pt": "compre-junto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a More for Less promotion",
-                    "es": "Crear promoción Más por Menos",
-                    "pt": "Criar promoção Leve Mais por Menos"
-                  },
-                  "slug": {
-                    "en": "creating-a-more-for-less-promotion",
-                    "es": "mas-por-menos",
-                    "pt": "leve-mais-por-menos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a promotion for a customer cluster",
-                    "es": "Crear promoción para un clúster de clientes",
-                    "pt": "Criar promoção para um cluster de clientes"
-                  },
-                  "slug": {
-                    "en": "creating-promotion-for-a-customer-cluster",
-                    "es": "creando-promociones-cluster-clientes",
-                    "pt": "criando-promocao-para-um-cluster-de-clientes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a promotion with limitation of use",
-                    "es": "Crear promoción con limitación de uso",
-                    "pt": "Criar promoção com limitação de uso"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-promotion-with-limitation-of-use",
-                    "es": "como-crear-promocion-con-limitacion-de-uso",
-                    "pt": "como-criar-promocao-com-limitacao-de-uso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a subscription promotion",
-                    "es": "Crear una promoción por suscripción",
-                    "pt": "Criar uma promoção por assinatura"
-                  },
-                  "slug": {
-                    "en": "creating-a-subscription-promotion",
-                    "es": "como-crear-una-promocion-por-suscripcion",
-                    "pt": "como-criar-uma-promocao-por-assinatura"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating promotions",
@@ -32652,219 +32156,554 @@
                     "pt": "Criar promoções"
                   },
                   "slug": {
-                    "en": "creating-promotions",
-                    "es": "crear-promociones",
-                    "pt": "criar-promocoes"
+                    "en": "creating-promotions-subcategory",
+                    "es": "crear-promociones-subcategoria",
+                    "pt": "criar-promoções-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Create a benefit using price table",
+                        "es": "Crear promociones por tabla de precio",
+                        "pt": "Criar tabela de preços promocionais"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-benefit-using-price-table",
+                        "es": "creando-promociones-por-tabla-de-precio",
+                        "pt": "criar-tabela-de-precos-promocionais"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Buy One Get One (BoGo) promotion",
+                        "es": "Crear una promoción Compre y gane",
+                        "pt": "Criar uma promoção Compre e ganhe"
+                      },
+                      "slug": {
+                        "en": "buy-one-get-one",
+                        "es": "como-funciona-la-promocion-compre-y-gane",
+                        "pt": "compre-e-ganhe"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Buy One Get One promotion (gift) for a specific SKU",
+                        "es": "Crear una promoción Comprar y Obtener (regalo) para un SKU específico",
+                        "pt": "Criar uma promoção Compre e ganhe (brinde) para um SKU específico"
+                      },
+                      "slug": {
+                        "en": "how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku",
+                        "es": "configurar-una-promocion-compre-y-gane-regalo-para-un-sku-especifico",
+                        "pt": "configurar-promocao-compre-e-ganhe-para-um-sku-especifico"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Buy Together promotion",
+                        "es": "Crear promoción Comprar Juntos",
+                        "pt": "Criar promoção Compre Junto"
+                      },
+                      "slug": {
+                        "en": "buy-together",
+                        "es": "comprar-juntos-registro-de-promocion",
+                        "pt": "compre-junto"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a More for Less promotion",
+                        "es": "Crear promoción Más por Menos",
+                        "pt": "Criar promoção Leve Mais por Menos"
+                      },
+                      "slug": {
+                        "en": "creating-a-more-for-less-promotion",
+                        "es": "mas-por-menos",
+                        "pt": "leve-mais-por-menos"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a Progressive Discount promotion",
+                        "es": "Crear una promoción de descuento progresivo",
+                        "pt": "Criar uma promoção de desconto progressivo"
+                      },
+                      "slug": {
+                        "en": "progressive-discount",
+                        "es": "descuento-progresivo",
+                        "pt": "desconto-progressivo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a promotion for a customer cluster",
+                        "es": "Crear promoción para un clúster de clientes",
+                        "pt": "Criar promoção para um cluster de clientes"
+                      },
+                      "slug": {
+                        "en": "creating-promotion-for-a-customer-cluster",
+                        "es": "creando-promociones-cluster-clientes",
+                        "pt": "criando-promocao-para-um-cluster-de-clientes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a promotion with limitation of use",
+                        "es": "Crear promoción con limitación de uso",
+                        "pt": "Criar promoção com limitação de uso"
+                      },
+                      "slug": {
+                        "en": "how-to-create-a-promotion-with-limitation-of-use",
+                        "es": "como-crear-promocion-con-limitacion-de-uso",
+                        "pt": "como-criar-promocao-com-limitacao-de-uso"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a regular promotion",
+                        "es": "Crear una promoción regular",
+                        "pt": "Criar uma promoção regular"
+                      },
+                      "slug": {
+                        "en": "regular-promotion",
+                        "es": "registro-promocion-regular",
+                        "pt": "promocao-regular-pt"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating a subscription promotion",
+                        "es": "Crear una promoción por suscripción",
+                        "pt": "Criar uma promoção por assinatura"
+                      },
+                      "slug": {
+                        "en": "creating-a-subscription-promotion",
+                        "es": "como-crear-una-promocion-por-suscripcion",
+                        "pt": "como-criar-uma-promocao-por-assinatura"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Creating promotions",
+                        "es": "Crear promociones",
+                        "pt": "Criar promoções"
+                      },
+                      "slug": {
+                        "en": "creating-promotions",
+                        "es": "crear-promociones",
+                        "pt": "criar-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting a percent discount promotion for a specific SKU",
+                        "es": "Configurar una promoción de descuento porcentual para un SKU específico",
+                        "pt": "Configurar uma promoção de desconto percentual para um SKU específico"
+                      },
+                      "slug": {
+                        "en": "how-to-set-percent-discount-promotion-for-a-specific-sku",
+                        "es": "configurar-promocion-de-descuento-porcentual-para-un-sku-especifico",
+                        "pt": "configurar-promocao-de-desconto-percentual-para-um-sku-especifico"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "Does the shipping calculation take into account the free gift?",
-                    "es": "¿El cálculo del flete tiene en cuenta el regalo?",
-                    "pt": "O cálculo do frete leva em consideração o brinde?"
+                    "en": "Rules and conditions",
+                    "es": "Reglas y condiciones",
+                    "pt": "Regras e condições"
                   },
                   "slug": {
-                    "en": "does-the-shipping-calculation-take-into-account-the-free-gift",
-                    "es": "el-calculo-del-flete-tiene-en-cuenta-el-regalo",
-                    "pt": "o-calculo-do-frete-leva-em-consideracao-o-brinde"
+                    "en": "rules-and-conditions-subcategory",
+                    "es": "reglas-y-condiciones-subcategoria",
+                    "pt": "regras-e-condições-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configuring a promotion for an SKU",
+                        "es": "Configurar promoción para un SKU",
+                        "pt": "Configurar promoção para um SKU"
+                      },
+                      "slug": {
+                        "en": "how-to-configure-a-promotion-for-an-sku",
+                        "es": "como-configurar-promocion-para-un-sku",
+                        "pt": "compre-ganhe-e-desconto-para-sku-especifico"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring promotions for marketplaces",
+                        "es": "Configurar promoción para marketplace",
+                        "pt": "Configurar promoção para marketplace"
+                      },
+                      "slug": {
+                        "en": "configuring-promotions-for-marketplaces",
+                        "es": "configurar-promocion-para-marketplace",
+                        "pt": "configurar-promocao-para-marketplace"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring promotions with highlights/flags",
+                        "es": "Configurar promoción con destaque/flag",
+                        "pt": "Configurar promoção com destaque/flag"
+                      },
+                      "slug": {
+                        "en": "configuring-promotions-with-a-highlightflag",
+                        "es": "configurando-promocion-con-destaque-flag",
+                        "pt": "configurando-promocao-com-destaque-flag"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring shipping promotions",
+                        "es": "Registrar promociones de envío",
+                        "pt": "Configurar promoções de frete"
+                      },
+                      "slug": {
+                        "en": "configuring-shipping-promotions",
+                        "es": "registrar-promociones-de-flete",
+                        "pt": "configurar-promocoes-de-frete"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Regular promotion with nominal discount based on formula",
+                        "es": "Promoción regular con descuento nominal basado en la fórmula",
+                        "pt": "Promoção regular com desconto nominal baseado em fórmula"
+                      },
+                      "slug": {
+                        "en": "regular-promotion-with-nominal-discount-based-on-formula",
+                        "es": "promocion-regular-con-descuento-nominal-basado-en-la-formula",
+                        "pt": "promocao-regular-com-desconto-nominal-baseado-em-formula"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Regular promotion with reward value",
+                        "es": "Promoción regular con valor de fidelidad",
+                        "pt": "Promoção regular com valor fidelidade"
+                      },
+                      "slug": {
+                        "en": "regular-promotion-with-reward-value",
+                        "es": "promocion-regular-con-valor-de-fidelidad",
+                        "pt": "promocao-regular-com-valor-fidelidade"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "How does promotion proration work?",
-                    "es": "¿Cómo funciona el prorrateo de una promoción?",
-                    "pt": "Como funciona o rateio de promoção?"
+                    "en": "Behavior",
+                    "es": "Comportamiento",
+                    "pt": "Comportamento"
                   },
                   "slug": {
-                    "en": "how-does-promotion-proration-work",
-                    "es": "como-funciona-el-prorrateo-de-una-promocion",
-                    "pt": "como-funciona-o-rateio-de-promocao"
+                    "en": "behavior-subcategory",
+                    "es": "comportamiento-subcategoria",
+                    "pt": "comportamento-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Calculate shipping with a promotion",
+                        "es": "Calcular el envío con una promoción",
+                        "pt": "Calcular o envio com uma promoção"
+                      },
+                      "slug": {
+                        "en": "how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart",
+                        "es": "como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito",
+                        "pt": "como-e-calculado-o-custo-de-envio-quando-ha-um-item-com-promocao-de-frete"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Does the shipping calculation take into account the free gift?",
+                        "es": "¿El cálculo del flete tiene en cuenta el regalo?",
+                        "pt": "O cálculo do frete leva em consideração o brinde?"
+                      },
+                      "slug": {
+                        "en": "does-the-shipping-calculation-take-into-account-the-free-gift",
+                        "es": "el-calculo-del-flete-tiene-en-cuenta-el-regalo",
+                        "pt": "o-calculo-do-frete-leva-em-consideracao-o-brinde"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Gift multiplier",
+                        "es": "Multiplicador de regalos",
+                        "pt": "Multiplicador de brindes"
+                      },
+                      "slug": {
+                        "en": "what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion",
+                        "es": "que-significa-activar-el-multiplicador-de-regalo-en-una-promocion",
+                        "pt": "o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotion competition",
+                        "es": "Competencia de promociones",
+                        "pt": "Concorrência de promoções"
+                      },
+                      "slug": {
+                        "en": "how-promotion-competition-works",
+                        "es": "como-funciona-la-competencia-de-promociones",
+                        "pt": "como-funciona-a-concorrencia-de-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotion proration",
+                        "es": "Prorrateo de promociones",
+                        "pt": "Rateio de promoções"
+                      },
+                      "slug": {
+                        "en": "how-does-promotion-proration-work",
+                        "es": "como-funciona-el-prorrateo-de-una-promocion",
+                        "pt": "como-funciona-o-rateio-de-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "How is shipping cost calculated when there's an item with shipping benefit on the cart?",
-                    "es": "¿Cómo se calcula el costo de envío cuando hay un ítem con promoción de envío en el carrito?",
-                    "pt": "Como é calculado o custo de envio quando há um item com promoção de frete no carrinho?"
+                    "en": "Managing promotions",
+                    "es": "Gestión de promociones",
+                    "pt": "Gestão de promoções"
                   },
                   "slug": {
-                    "en": "how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart",
-                    "es": "como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito",
-                    "pt": "como-e-calculado-o-custo-de-envio-quando-ha-um-item-com-promocao-de-frete"
+                    "en": "managing-promotions-subcategory",
+                    "es": "gestion-de-promociones-subcategoria",
+                    "pt": "gestão-de-promoções-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
-                  "children": []
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "How to identify promotions attributed to an SKU?",
+                        "es": "Cómo identificar promociones asignadas a un SKU?",
+                        "pt": "Como identificar promoções atribuídas a um SKU?"
+                      },
+                      "slug": {
+                        "en": "how-to-identify-promotions-attributed-to-an-sku",
+                        "es": "como-identificar-promociones-asignadas-un-sku",
+                        "pt": "como-identificar-promocoes-atribuidas-a-um-sku"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Identifying promotions applied to the cart",
+                        "es": "Identificar las promociones aplicadas en el carrito",
+                        "pt": "Como identificar promoções aplicadas no carrinho?"
+                      },
+                      "slug": {
+                        "en": "how-to-identify-promotions-applied-to-the-cart",
+                        "es": "como-identificar-las-promociones-aplicadas-en-el-carrito",
+                        "pt": "como-identificar-as-promocoes-no-carrinho"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotion templates management",
+                        "es": "Gestión de plantillas de promociones",
+                        "pt": "Gerenciamento de templates de promoção"
+                      },
+                      "slug": {
+                        "en": "promotion-template-management",
+                        "es": "gestion-de-plantillas-de-promociones",
+                        "pt": "gerenciamento-de-templates-de-promocao"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Promotions Simulator",
+                        "es": "Simulador de Promociones",
+                        "pt": "Simulador de Promoções"
+                      },
+                      "slug": {
+                        "en": "promotions-simulator-beta",
+                        "es": "simulador-de-promociones-beta",
+                        "pt": "simulador-de-promocoes-beta"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "name": {
-                    "en": "How many coupons, taxes and promotions may I have in my store?",
-                    "es": "¿Cuantos cupones, tasas y promociones puedo tener en mi tienda?",
-                    "pt": "Quantos cupons, taxas e promoções posso ter na minha loja?"
+                    "en": "Advanced settings",
+                    "es": "Configuración avanzada",
+                    "pt": "Configurações avançadas"
+                  },
+                  "slug": {
+                    "en": "advanced-settings-subcategory",
+                    "es": "configuracion-avanzada-subcategoria",
+                    "pt": "configuração-avançada-subcategoria"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Campaign tracking with UTM parameters",
+                        "es": "Monitoreo de campañas con parámetros UTM",
+                        "pt": "Rastreamento de campanhas com parâmetros UTM"
+                      },
+                      "slug": {
+                        "en": "what-are-utm-source-utm-campaign-and-utm-medium",
+                        "es": "que-son-utm-source-utm-campaign-y-utm-medium",
+                        "pt": "o-que-sao-utm-source-utm-campaign-e-utm-medium"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Configuring promotion budgets",
+                        "es": "Configurar presupuesto para promociones",
+                        "pt": "Configurar orçamentos para promoções"
+                      },
+                      "slug": {
+                        "en": "configuring-promotion-budgets",
+                        "es": "configurar-presupuesto-para-promociones",
+                        "pt": "configurando-orcamentos-para-promocoes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to use rebates",
+                        "es": "Cómo utilizar rebates",
+                        "pt": "Como utilizar rebate ou VPC"
+                      },
+                      "slug": {
+                        "en": "how-to-use-rebates",
+                        "es": "como-utilizar-rebates",
+                        "pt": "como-utilizar-rebate-ou-vpc"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Sales associate code field at Checkout",
+                        "es": "Campo código de vendedor en el Checkout",
+                        "pt": "Campo código de vendedor no Checkout"
+                      },
+                      "slug": {
+                        "en": "sales-associate-code-field-at-checkout",
+                        "es": "campo-codigo-de-vendedor-en-el-checkout",
+                        "pt": "campo-codigo-de-vendedor-no-checkout"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": {
+                    "en": "Coupon, fee, and promotion limits",
+                    "es": "Límites de cupones, tasas y promociones",
+                    "pt": "Limites de cupons, taxas e promoções"
                   },
                   "slug": {
                     "en": "what-is-the-maximum-limit-of-promotions",
                     "es": "cual-es-el-limite-maximo-de-promociones",
                     "pt": "qual-o-limite-maximo-de-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How promotion competition works",
-                    "es": "Cómo funciona la competencia de promociones",
-                    "pt": "Como funciona a concorrência de promoções"
-                  },
-                  "slug": {
-                    "en": "how-promotion-competition-works",
-                    "es": "como-funciona-la-competencia-de-promociones",
-                    "pt": "como-funciona-a-concorrencia-de-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the Buy One Get One (BoGo) promotion works",
-                    "es": "Cómo funciona la promoción Compre y gane",
-                    "pt": "Como funciona a promoção Compre e ganhe"
-                  },
-                  "slug": {
-                    "en": "buy-one-get-one",
-                    "es": "como-funciona-la-promocion-compre-y-gane",
-                    "pt": "compre-e-ganhe"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the gift multiplier works in promotions",
-                    "es": "Multiplicador de regalos en promociones",
-                    "pt": "Como funciona o multiplicador de brindes em promoções"
-                  },
-                  "slug": {
-                    "en": "what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion",
-                    "es": "que-significa-activar-el-multiplicador-de-regalo-en-una-promocion",
-                    "pt": "o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How the progressive discount promotion  works",
-                    "es": "Cómo funciona la promoción Descuento progresivo",
-                    "pt": "Como funciona o desconto progressivo"
-                  },
-                  "slug": {
-                    "en": "progressive-discount",
-                    "es": "descuento-progresivo",
-                    "pt": "desconto-progressivo"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to create a benefit using price table",
-                    "es": "Creando Promociones por Tabla de Precio",
-                    "pt": "Criar tabela de preços promocionais"
-                  },
-                  "slug": {
-                    "en": "how-to-create-a-benefit-using-price-table",
-                    "es": "creando-promociones-por-tabla-de-precio",
-                    "pt": "criar-tabela-de-precos-promocionais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to identify promotions attributed to an SKU?",
-                    "es": "Cómo identificar promociones asignadas a un SKU?",
-                    "pt": "Como identificar promoções atribuídas a um SKU?"
-                  },
-                  "slug": {
-                    "en": "how-to-identify-promotions-attributed-to-an-sku",
-                    "es": "como-identificar-promociones-asignadas-un-sku",
-                    "pt": "como-identificar-promocoes-atribuidas-a-um-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to set a Buy One Get One promotion (gift) for a specific SKU",
-                    "es": "Configurar una promoción Comprar y Obtener (regalo) para un SKU específico",
-                    "pt": "Configurar promoção Compre e ganhe para um SKU específico"
-                  },
-                  "slug": {
-                    "en": "how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku",
-                    "es": "configurar-una-promocion-compre-y-gane-regalo-para-un-sku-especifico",
-                    "pt": "configurar-promocao-compre-e-ganhe-para-um-sku-especifico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to set percent discount promotion for a specific SKU",
-                    "es": "Configurar promoción de descuento porcentual para un SKU específico",
-                    "pt": "Configurar promoção de desconto percentual para um SKU específico"
-                  },
-                  "slug": {
-                    "en": "how-to-set-percent-discount-promotion-for-a-specific-sku",
-                    "es": "configurar-promocion-de-descuento-porcentual-para-un-sku-especifico",
-                    "pt": "configurar-promocao-de-desconto-percentual-para-um-sku-especifico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to use rebates",
-                    "es": "Cómo utilizar rebates",
-                    "pt": "Como utilizar rebate ou VPC"
-                  },
-                  "slug": {
-                    "en": "how-to-use-rebates",
-                    "es": "como-utilizar-rebates",
-                    "pt": "como-utilizar-rebate-ou-vpc"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Identifying promotions applied to the cart",
-                    "es": "Identificar las promociones aplicadas en el carrito",
-                    "pt": "Como identificar promoções aplicadas no carrinho?"
-                  },
-                  "slug": {
-                    "en": "how-to-identify-promotions-applied-to-the-cart",
-                    "es": "como-identificar-las-promociones-aplicadas-en-el-carrito",
-                    "pt": "como-identificar-as-promocoes-no-carrinho"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32887,14 +32726,14 @@
                 },
                 {
                   "name": {
-                    "en": "Promotion List",
-                    "es": "Lista de Promociones",
-                    "pt": "Lista de Promoções"
+                    "en": "Promotion strategies for B2B operations",
+                    "es": "Estrategias de promoción para operaciones B2B",
+                    "pt": "Estratégias de promoção para operações B2B"
                   },
                   "slug": {
-                    "en": "promotion-list-beta",
-                    "es": "lista-de-promociones-beta",
-                    "pt": "lista-de-promocoes-beta"
+                    "en": "the-most-common-promotions-in-b2b",
+                    "es": "promociones-mas-comunes-para-b2b",
+                    "pt": "as-promocoes-mais-comuns-em-b2b"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32914,111 +32753,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotion templates management",
-                    "es": "Gestión de plantillas de promociones",
-                    "pt": "Gerenciamento de templates de promoção"
-                  },
-                  "slug": {
-                    "en": "promotion-template-management",
-                    "es": "gestion-de-plantillas-de-promociones",
-                    "pt": "gerenciamento-de-templates-de-promocao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions Simulator",
-                    "es": "Simulador de Promociones",
-                    "pt": "Simulador de Promoções"
-                  },
-                  "slug": {
-                    "en": "promotions-simulator-beta",
-                    "es": "simulador-de-promociones-beta",
-                    "pt": "simulador-de-promocoes-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regular Promotion",
-                    "es": "Promoción Regular",
-                    "pt": "Promoção Regular"
-                  },
-                  "slug": {
-                    "en": "regular-promotion",
-                    "es": "registro-promocion-regular",
-                    "pt": "promocao-regular-pt"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regular promotion with nominal discount based on formula",
-                    "es": "Promoción regular con descuento nominal basado en la fórmula",
-                    "pt": "Promoção regular com desconto nominal baseado em fórmula"
-                  },
-                  "slug": {
-                    "en": "regular-promotion-with-nominal-discount-based-on-formula",
-                    "es": "promocion-regular-con-descuento-nominal-basado-en-la-formula",
-                    "pt": "promocao-regular-com-desconto-nominal-baseado-em-formula"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Regular promotion with reward value",
-                    "es": "Promoción regular con valor de fidelidad",
-                    "pt": "Promoção regular com valor fidelidade"
-                  },
-                  "slug": {
-                    "en": "regular-promotion-with-reward-value",
-                    "es": "promocion-regular-con-valor-de-fidelidad",
-                    "pt": "promocao-regular-com-valor-fidelidade"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales associate code field at Checkout",
-                    "es": "Campo código de vendedor en el Checkout",
-                    "pt": "Campo código de vendedor no Checkout"
-                  },
-                  "slug": {
-                    "en": "sales-associate-code-field-at-checkout",
-                    "es": "campo-codigo-de-vendedor-en-el-checkout",
-                    "pt": "campo-codigo-de-vendedor-no-checkout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "The most common promotions in B2B",
-                    "es": "Promociones más comunes para B2B",
-                    "pt": "As promoções mais comuns em B2B"
-                  },
-                  "slug": {
-                    "en": "the-most-common-promotions-in-b2b",
-                    "es": "promociones-mas-comunes-para-b2b",
-                    "pt": "as-promocoes-mais-comuns-em-b2b"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -33026,7 +32760,7 @@
               "name": {
                 "en": "Taxes",
                 "es": "Tasa",
-                "pt": "Taxa"
+                "pt": "Taxas"
               },
               "slug": {
                 "en": "creating-surchargestaxes",
@@ -33086,17 +32820,17 @@
           "children": [
             {
               "name": {
-                "en": "Information security compliance",
-                "es": "Cumplimiento de seguridad de la información",
-                "pt": "Compliance de segurança da informação"
+                "en": "VTEX information security and privacy certificates",
+                "es": "Certificados de seguridad de la información y privacidad de VTEX",
+                "pt": "Certificados de segurança da informação e privacidade da VTEX"
               },
               "slug": {
-                "en": "information-security-compliance-subcategory",
-                "es": "cumplimiento-de-seguridad-de-la-informacion-subcategoria",
-                "pt": "compliance-de-segurança-da-informação-subcategoria"
+                "en": "vtex-information-security-and-privacy-certificates",
+                "es": "certificados-de-seguridad-de-la-informacion-y-privacidad-de-vtex",
+                "pt": "certificados-de-seguranca-da-informacao-e-privacidade-da-vtex"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -33153,21 +32887,6 @@
                     "en": "security-incident-response-plan",
                     "es": "plan-de-respuesta-a-incidentes-de-seguridad",
                     "pt": "plano-de-resposta-a-incidentes-de-seguranca"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX information security and privacy certificates",
-                    "es": "Certificados de seguridad de la información y privacidad de VTEX",
-                    "pt": "Certificados de segurança da informação e privacidade da VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-information-security-and-privacy-certificates",
-                    "es": "certificados-de-seguridad-de-la-informacion-y-privacidad-de-vtex",
-                    "pt": "certificados-de-seguranca-da-informacao-e-privacidade-da-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33409,12 +33128,12 @@
                 "pt": "VTEX Shield"
               },
               "slug": {
-                "en": "vtex-shield-subcategory",
-                "es": "vtex-shield-subcategoria",
-                "pt": "vtex-shield-subcategoria"
+                "en": "vtex-shield",
+                "es": "vtex-shield",
+                "pt": "vtex-shield"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -33471,21 +33190,6 @@
                     "en": "security-monitor",
                     "es": "security-monitor",
                     "pt": "security-monitor"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Shield",
-                    "es": "VTEX Shield",
-                    "pt": "VTEX Shield"
-                  },
-                  "slug": {
-                    "en": "vtex-shield",
-                    "es": "vtex-shield",
-                    "pt": "vtex-shield"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33572,17 +33276,17 @@
             },
             {
               "name": {
-                "en": "Management",
-                "es": "Gestión",
-                "pt": "Gerenciamento"
+                "en": "Seller Management",
+                "es": "Gestión de Sellers",
+                "pt": "Gerenciamento de Sellers"
               },
               "slug": {
-                "en": "management-subcategory",
-                "es": "gestion-subcategoria",
-                "pt": "gerenciamento-subcategoria"
+                "en": "seller-management",
+                "es": "gestion-de-sellers",
+                "pt": "gerenciamento-de-sellers"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -33609,21 +33313,6 @@
                     "en": "configuring-the-marketplace-between-vtex-stores",
                     "es": "configurando-marketplace-entre-tiendas-vtex",
                     "pt": "configurando-marketplace-entre-lojas-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Seller Management",
-                    "es": "Gestión de Sellers",
-                    "pt": "Gerenciamento de Sellers"
-                  },
-                  "slug": {
-                    "en": "seller-management",
-                    "es": "gestion-de-sellers",
-                    "pt": "gerenciamento-de-sellers"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33859,17 +33548,17 @@
             },
             {
               "name": {
-                "en": "Sellers - Overview",
-                "es": "Visión de conjunto de Sellers",
-                "pt": "Sellers - Visão geral"
+                "en": "Sellers",
+                "es": "Sellers",
+                "pt": "Sellers"
               },
               "slug": {
-                "en": "sellers-overview-subcategory",
-                "es": "vision-de-conjunto-de-sellers-subcategoria",
-                "pt": "visão-geral-de-sellers-subcategoria"
+                "en": "what-is-a-seller",
+                "es": "que-es-un-seller",
+                "pt": "o-que-e-um-seller"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -33975,53 +33664,23 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a seller?",
-                    "es": "¿Qué es un seller?",
-                    "pt": "O que é um seller?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-seller",
-                    "es": "que-es-un-seller",
-                    "pt": "o-que-e-um-seller"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "SKU binding",
+                "en": "SKU Bindings",
                 "es": "Vínculos de SKU",
                 "pt": "Vínculos de SKU"
               },
               "slug": {
-                "en": "sku-binding-subcategory",
-                "es": "vinculos-de-sku-subcategoria",
-                "pt": "vínculos-de-sku-subcategoria"
+                "en": "sku-bindings",
+                "es": "vinculos-de-sku",
+                "pt": "vinculos-de-sku"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "SKU Bindings",
-                    "es": "Vínculos de SKU",
-                    "pt": "Vínculos de SKU"
-                  },
-                  "slug": {
-                    "en": "sku-bindings",
-                    "es": "vinculos-de-sku",
-                    "pt": "vinculos-de-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "What is the difference between unbinding and removing a seller SKU?",
@@ -34299,36 +33958,21 @@
             },
             {
               "name": {
-                "en": "Logistics - Overview",
-                "es": "Logística - Información general",
-                "pt": "Logística - Visão geral"
+                "en": "Fulfillment & Logistics on VTEX",
+                "es": "Fulfillment y logística en VTEX",
+                "pt": "Fulfillment e logística na VTEX"
               },
               "slug": {
-                "en": "logistics-overview-subcategory",
-                "es": "vision-general-de-la-logistica-subcategoria",
-                "pt": "visão-geral-da-logística-subcategoria"
+                "en": "fulfillment-logistics-vtex",
+                "es": "fulfillment-logistica-vtex",
+                "pt": "fulfillment-logistica-vtex"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
-                    "en": "Fulfillment & Logistics on VTEX",
-                    "es": "Fulfillment y logística en VTEX",
-                    "pt": "Fulfillment e logística na VTEX"
-                  },
-                  "slug": {
-                    "en": "fulfillment-logistics-vtex",
-                    "es": "fulfillment-logistica-vtex",
-                    "pt": "fulfillment-logistica-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Logistics Glossary",
+                    "en": "Logistics glossary",
                     "es": "Glosario de logística",
                     "pt": "Glossário de logística"
                   },
@@ -34365,12 +34009,12 @@
                 "pt": "Pontos de retirada"
               },
               "slug": {
-                "en": "pickup-points-subcategory",
-                "es": "puntos-de-recogida-subcategoria",
-                "pt": "pontos-de-retirada-subcategoria"
+                "en": "pickup-points",
+                "es": "puntos-de-recogida",
+                "pt": "pontos-de-retirada"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34386,21 +34030,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Pickup points",
-                    "es": "Puntos de recogida",
-                    "pt": "Pontos de retirada"
-                  },
-                  "slug": {
-                    "en": "pickup-points",
-                    "es": "puntos-de-recogida",
-                    "pt": "pontos-de-retirada"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -34411,12 +34040,12 @@
                 "pt": "Tarifas de envio"
               },
               "slug": {
-                "en": "shipping-rates-subcategory",
-                "es": "tarifas-de-envio-subcategoria",
-                "pt": "tarifas-de-envio-subcategoria"
+                "en": "shipping-rates",
+                "es": "tarifas-de-envio",
+                "pt": "tarifas-de-envio"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34450,21 +34079,6 @@
                 },
                 {
                   "name": {
-                    "en": "Shipping rates",
-                    "es": "Tarifas de envío",
-                    "pt": "Tarifas de envio"
-                  },
-                  "slug": {
-                    "en": "shipping-rates",
-                    "es": "tarifas-de-envio",
-                    "pt": "tarifas-de-envio"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Total shipping cost",
                     "es": "Costo final del envío",
                     "pt": "Custo final do envio"
@@ -34482,17 +34096,17 @@
             },
             {
               "name": {
-                "en": "Shipping simulator",
+                "en": "Shipping Simulator",
                 "es": "Simulador de envío",
                 "pt": "Simulador de envio"
               },
               "slug": {
-                "en": "shipping-simulator-subcategory",
-                "es": "simulador-de-envio-subcategoria",
-                "pt": "simulador-de-envio-subcategoria"
+                "en": "shipping-simulation",
+                "es": "simulador-de-envio",
+                "pt": "simulador-de-envio"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34508,37 +34122,22 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Shipping Simulator",
-                    "es": "Simulador de envío",
-                    "pt": "Simulador de envio"
-                  },
-                  "slug": {
-                    "en": "shipping-simulation",
-                    "es": "simulador-de-envio",
-                    "pt": "simulador-de-envio"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Shipping Strategy",
-                "es": "Estratégia de envío",
+                "en": "Shipping strategy",
+                "es": "Estrategia de envío",
                 "pt": "Estratégia de envio"
               },
               "slug": {
-                "en": "shipping-strategy-subcategory",
-                "es": "estrategia-de-envio-subcategoria",
-                "pt": "estratégia-de-envio-subcategoria"
+                "en": "shipping-strategy",
+                "es": "estrategia-de-envio",
+                "pt": "estrategia-de-envio"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
                 {
                   "name": {
@@ -34812,21 +34411,6 @@
                 },
                 {
                   "name": {
-                    "en": "Shipping strategy",
-                    "es": "Estrategia de envío",
-                    "pt": "Estratégia de envio"
-                  },
-                  "slug": {
-                    "en": "shipping-strategy",
-                    "es": "estrategia-de-envio",
-                    "pt": "estrategia-de-envio"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Warehouse",
                     "es": "Almacén",
                     "pt": "Estoque"
@@ -34894,28 +34478,13 @@
                 "pt": "VTEX Pick and Pack"
               },
               "slug": {
-                "en": "vtex-pick-and-pack-subcategory",
-                "es": "vtex-pick-and-pack-subcategoria",
-                "pt": "vtex-pick-and-pack-subcategoria"
+                "en": "vtex-pick-and-pack",
+                "es": "vtex-pick-and-pack",
+                "pt": "vtex-pick-and-pack"
               },
               "origin": "",
-              "type": "category",
+              "type": "markdown",
               "children": [
-                {
-                  "name": {
-                    "en": "VTEX Pick and Pack",
-                    "es": "VTEX Pick and Pack",
-                    "pt": "VTEX Pick and Pack"
-                  },
-                  "slug": {
-                    "en": "vtex-pick-and-pack",
-                    "es": "vtex-pick-and-pack",
-                    "pt": "vtex-pick-and-pack"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "VTEX Pick and Pack Mobile",
@@ -35121,29 +34690,13 @@
                 "pt": "Capacidade operacional"
               },
               "slug": {
-                "en": "operational-capacity-category",
-                "es": "capacidad-operativa-category",
-                "pt": "capacidade-operacional-category"
+                "en": "operational-capacity",
+                "es": "capacidad-operativa",
+                "pt": "capacidade-operacional"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Operational capacity",
-                    "es": "Capacidad operativa",
-                    "pt": "Capacidade operacional"
-                  },
-                  "slug": {
-                    "en": "operational-capacity",
-                    "es": "capacidad-operativa",
-                    "pt": "capacidade-operacional"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
             },
             {
               "name": {
@@ -35184,12 +34737,12 @@
             "pt": "Configurações da Loja"
           },
           "slug": {
-            "en": "store-settings-category",
-            "es": "configuraciones-de-la-tienda-categoria",
-            "pt": "configurações-da-loja-categoria"
+            "en": "store-settings-overview",
+            "es": "vision-general-configuraciones-de-la-tienda",
+            "pt": "visao-geral-configuracoes-da-loja"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -35216,21 +34769,6 @@
                 "en": "multilevel-omnichannel-inventory",
                 "es": "multilevel-omnichannel-inventory",
                 "pt": "multilevel-omnichannel-inventory"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Store Settings - Overview",
-                "es": "Configuraciones de la Tienda - Información general",
-                "pt": "Configurações da Loja - Visão geral"
-              },
-              "slug": {
-                "en": "store-settings-overview",
-                "es": "vision-general-configuraciones-de-la-tienda",
-                "pt": "visao-geral-configuracoes-da-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -36830,12 +36368,12 @@
             "pt": "Assinaturas"
           },
           "slug": {
-            "en": "subscriptions-category",
-            "es": "suscripciones-categoria",
-            "pt": "assinaturas-categoria"
+            "en": "how-subscriptions-work",
+            "es": "como-funciona-suscripciones",
+            "pt": "como-funciona-a-assinatura"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -36847,21 +36385,6 @@
                 "en": "creating-a-subscription-plan",
                 "es": "como-crear-un-plan-de-suscripcion",
                 "pt": "como-criar-um-plano-de-assinatura"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "How subscriptions work",
-                "es": "Cómo funciona Suscripciones",
-                "pt": "Como funciona a assinatura"
-              },
-              "slug": {
-                "en": "how-subscriptions-work",
-                "es": "como-funciona-suscripciones",
-                "pt": "como-funciona-a-assinatura"
               },
               "origin": "",
               "type": "markdown",
@@ -37052,17 +36575,17 @@
         },
         {
           "name": {
-            "en": "Trade policies",
-            "es": "Políticas comerciales",
-            "pt": "Políticas comerciais"
+            "en": "Sales channels",
+            "es": "Políticas Comerciales",
+            "pt": "Políticas Comerciais"
           },
           "slug": {
-            "en": "trade-policies-category",
-            "es": "politicas-comerciales-categoria",
-            "pt": "políticas-comerciais-categoria"
+            "en": "how-trade-policies-work",
+            "es": "como-funciona-una-politica-comercial",
+            "pt": "como-funciona-uma-politica-comercial"
           },
           "origin": "",
-          "type": "category",
+          "type": "markdown",
           "children": [
             {
               "name": {
@@ -37126,7 +36649,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating a sales channel (sales channel)",
+                    "en": "Creating a sales channel",
                     "es": "Crear una política comercial",
                     "pt": "Criar uma política comercial"
                   },
@@ -37149,21 +36672,6 @@
                     "en": "displaying-the-store-in-another-language",
                     "es": "exhibir-la-tienda-en-otro-idioma",
                     "pt": "exibir-a-loja-em-outro-idioma"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How sales channels work",
-                    "es": "Como funciona una Política Comercial",
-                    "pt": "Como funciona uma Política Comercial"
-                  },
-                  "slug": {
-                    "en": "how-trade-policies-work",
-                    "es": "como-funciona-una-politica-comercial",
-                    "pt": "como-funciona-uma-politica-comercial"
                   },
                   "origin": "",
                   "type": "markdown",

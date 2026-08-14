@@ -1,5 +1,5 @@
 ---
-title: 'O que é um seller?'
+title: 'Sellers'
 id: 5FkLvhZ3Few4CWWIuYOK2w
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.821Z
@@ -13,7 +13,7 @@ slugEN: what-is-a-seller
 legacySlug: o-que-e-um-seller
 locale: pt
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
-order: 1
+categoryCover: true
 ---
 
 Definimos como __seller__ uma loja que detém a propriedade dos produtos e responsável por entregar um pedido. Um seller é responsável por todo o processo operacional e de [fulfillment](/pt/docs/tutorials/fulfillment-logistica-vtex), ou seja, é a loja que deve cumprir com a obrigação de realizar a entrega do produto ao comprador.
