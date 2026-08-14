@@ -511,6 +511,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Updates to VTEX's privacy and security program",
+                    "es": "Actualizaciones en el programa de privacidad y seguridad de VTEX",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-updates-to-vtexs-privacy-and-security-program",
+                    "es": "2026-08-28-actualizaciones-en-el-programa-de-privacidad-y-seguridad-de-vtex",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: New orders listing available in open beta",
                     "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
@@ -39681,13 +39696,13 @@
             {
               "name": {
                 "en": "Infinite login loop when opening private GraphiQL link from terminal",
-                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde el terminal",
-                "pt": "Loop infinito de login ao abrir um link privado do GraphiQL no terminal"
+                "es": "Bucle infinito de inicio de sesión al abrir un enlace privado de GraphiQL desde la terminal.",
+                "pt": "Loop infinito de login ao abrir um link GraphiQL privado a partir do terminal."
               },
               "slug": {
                 "en": "infinite-login-loop-when-opening-private-graphiql-link-from-terminal",
-                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
-                "pt": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal"
+                "es": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-la-terminal",
+                "pt": "loop-infinito-de-login-ao-abrir-um-link-graphiql-privado-a-partir-do-terminal"
               },
               "origin": "",
               "type": "markdown",
@@ -44280,6 +44295,21 @@
                 "en": "time-out-on-category-keywords-change-with-many-products",
                 "es": "timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos",
                 "pt": "timeout-ao-mudar-as-palavraschave-da-categoria-com-muitos-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Timeout returned when deleting some collections through API",
+                "es": "Se produjo un error de tiempo de espera al eliminar algunas colecciones a través de la API.",
+                "pt": "Ocorreu um erro de tempo limite ao excluir algumas coleções por meio da API."
+              },
+              "slug": {
+                "en": "timeout-returned-when-deleting-some-collections-through-api",
+                "es": "se-produjo-un-error-de-tiempo-de-espera-al-eliminar-algunas-colecciones-a-traves-de-la-api",
+                "pt": "ocorreu-um-erro-de-tempo-limite-ao-excluir-algumas-colecoes-por-meio-da-api"
               },
               "origin": "",
               "type": "markdown",
@@ -51373,7 +51403,7 @@
             {
               "name": {
                 "en": "Shopee Error when updating commercial policy in the integration card setup",
-                "es": "Shopee Error al actualizar la política comercial en la configuración de la tarjeta de integración",
+                "es": "Shopee Error al actualizar la política comercial en la configuración de la tarjeta de integración.",
                 "pt": "Shopee Erro ao atualizar a política comercial na configuração do cartão de integração"
               },
               "slug": {
@@ -54589,13 +54619,13 @@
             {
               "name": {
                 "en": "Excluded warehouses continue to return stock availability in the simulation and availability API",
-                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de existencias en la simulación y la API de disponibilidad",
-                "pt": "Os depósitos excluídos continuam a retornar a disponibilidade de estoque na simulação e na API de disponibilidade"
+                "es": "Los almacenes excluidos siguen devolviendo la disponibilidad de stock en la simulación y la API de disponibilidad.",
+                "pt": "Os armazéns excluídos continuam a apresentar disponibilidade de estoque na simulação e na API de disponibilidade."
               },
               "slug": {
                 "en": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
-                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-existencias-en-la-simulacion-y-la-api-de-disponibilidad",
-                "pt": "os-depositos-excluidos-continuam-a-retornar-a-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
+                "es": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
+                "pt": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade"
               },
               "origin": "",
               "type": "markdown",
@@ -54798,14 +54828,14 @@
             },
             {
               "name": {
-                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
-                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
-                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+                "en": "Pick-up points do not work in the shipping simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de envíos en los países que no utilizan nuestra API de códigos postales.",
+                "pt": "Os pontos de coleta não funcionam no simulador de envios em países que não utilizam nossa API de código postal."
               },
               "slug": {
-                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
-                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
-                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
+                "en": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -54904,12 +54934,12 @@
             {
               "name": {
                 "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
-                "es": "La política de envío con un MaxVolume incorrecto en la hoja de cálculo no muestra el error del mensaje en la simulación",
+                "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
                 "pt": "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
               },
               "slug": {
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-                "es": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
+                "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
                 "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
               },
               "origin": "",
@@ -55039,13 +55069,13 @@
             {
               "name": {
                 "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona con una base de referencias muy amplia (código de estado: 429)",
-                "pt": "A exportação de estoque não funciona com uma base de SKUs muito grande (Código de status: 429)"
+                "es": "La exportación de stock no funciona para una base de SKU muy grande (StatusCode: 429).",
+                "pt": "A exportação de estoque não funciona para uma base de SKUs muito grande (StatusCode: 429)"
               },
               "slug": {
                 "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429"
+                "es": "la-exportacion-de-stock-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
+                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-skus-muito-grande-statuscode-429"
               },
               "origin": "",
               "type": "markdown",
@@ -68061,12 +68091,12 @@
             {
               "name": {
                 "en": "Custom headers are not applied to all pages",
-                "es": "Las cabeceras personalizadas no se aplican a todas las páginas",
-                "pt": "Os cabeçalhos personalizados não são aplicados a todas as páginas"
+                "es": "Los encabezados personalizados no se aplican a todas las páginas.",
+                "pt": "Os cabeçalhos personalizados não são aplicados a todas as páginas."
               },
               "slug": {
                 "en": "custom-headers-are-not-applied-to-all-pages",
-                "es": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
+                "es": "los-encabezados-personalizados-no-se-aplican-a-todas-las-paginas",
                 "pt": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas"
               },
               "origin": "",
@@ -69586,6 +69616,21 @@
                 "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
                 "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
                 "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon NF-e for Amazon DBA (Easy Ship) orders rejected when a promotional discount is applied by the buyer",
+                "es": "Amazon Los pedidos NF-e para Amazon DBA (Easy Ship) son rechazados cuando el comprador aplica un descuento promocional.",
+                "pt": "Amazon NF-e para pedidos Amazon DBA (Easy Ship) rejeitados quando um desconto promocional é aplicado pelo comprador"
+              },
+              "slug": {
+                "en": "amazon-nfe-for-amazon-dba-easy-ship-orders-rejected-when-a-promotional-discount-is-applied-by-the-buyer",
+                "es": "amazon-los-pedidos-nfe-para-amazon-dba-easy-ship-son-rechazados-cuando-el-comprador-aplica-un-descuento-promocional",
+                "pt": "amazon-nfe-para-pedidos-amazon-dba-easy-ship-rejeitados-quando-um-desconto-promocional-e-aplicado-pelo-comprador"
               },
               "origin": "",
               "type": "markdown",
