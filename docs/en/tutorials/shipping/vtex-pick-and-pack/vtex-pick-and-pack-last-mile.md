@@ -286,7 +286,7 @@ To become an admin user in the **Last Mile** module, you must have certain Licen
 |     Insights    | Insights metrics                                                                                                                                                                                                                                                   |
 | License Manager | Get account by identifier<br>Get applications<br>Find user by email<br>View users with account access<br>View all admin users<br>Get resource by key<br>Get role<br>Get paged roles<br>Get paged users<br>Get admin status<br>Get accounts<br>Get accounts by host |
 |    Field Type   | Field's data type. For Read & Write permission, it can be:<br>Number<br>Text<br>Image<br>Date<br>Barcode<br>Check<br>Email<br>For Read Only permission, it can be Number, Text and Email.                                                                          |
-> ⚠️ If you are an admin user in [VTEX Fulfillment](link), you will automatically be an admin user in Last Mile.
+> ⚠️ If you are an admin user in [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment), you will automatically be an admin user in Last Mile.
 
 In **Users**, you can perform the following actions:
 
@@ -307,7 +307,7 @@ On the top of the page, there is a search box with the magnifier icon  <i class=
 
 #### Filter list
 
-You can filter the list to display admin users only or all of the **VTEX Pick and Pack** users, which includes _pickers_ and _customer service_ created in [VTEX Fulfillment](link).
+You can filter the list to display admin users only or all of the **VTEX Pick and Pack** users, which includes _pickers_ and _customer service_ created in [VTEX Fulfillment](/en/docs/tutorials/vtex-pick-and-pack-fulfillment).
 
 To filter the list, click the icon with bars <i class="fas fa-bars"></i> and choose between `All` and `Admin`. 
 

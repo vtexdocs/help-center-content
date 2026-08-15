@@ -15,7 +15,7 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](/es/docs/tutorials/vtex-shield). Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ Esta funcionalidad es parte del producto [VTEX Shield](/es/docs/tutorials/vtex-shield). Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
 
 Web Application Firewall (WAF) es una capa de seguridad diseñada para proteger aplicaciones web mediante monitoreo y filtrado del tráfico de internet.
 
@@ -59,13 +59,18 @@ VTEX Shield disponibiliza un dashboard para monitoreo en tiempo real de las mét
 
 El dashboard muestra la siguiente información y recursos:
 
-* [Filtro de periodo](#filtro-de-periodo)
-* [Métricas generales](#metricas-generales)
-* [Acciones](#acciones)
-* [Reglas](#reglas)
-* [Tipos de ataque](#tipos-de-ataque)
-* [Países de origen](#paises-de-origen)
-* [Dispositivos](#dispositivos)
+- [Reglas de seguridad](#reglas-de-seguridad)
+- [Solicitar activación de WAF](#solicitar-activación-de-waf)
+- [Métricas WAF](#métricas-waf)
+  - [Requisitos](#requisitos)
+  - [Filtrar por periodo](#filtrar-por-periodo)
+  - [Métricas generales](#métricas-generales)
+  - [Acciones](#acciones)
+  - [Reglas](#reglas)
+  - [Tipos de ataque](#tipos-de-ataque)
+  - [Países de origen](#países-de-origen)
+  - [Dispositivos](#dispositivos)
+- [Más información](#más-información)
 
 ### Requisitos
 

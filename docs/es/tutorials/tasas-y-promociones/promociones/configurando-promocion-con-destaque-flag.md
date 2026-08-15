@@ -21,13 +21,13 @@ El destaque de una promoción es un aviso visual que puede insertarse en las est
 
 En esta guía puedes consultar las siguientes secciones:
 
-- [Promociones que se pueden destacar](promociones-que-se-pueden-destacar)
+- [Promociones que se pueden destacar](#promociones-que-se-pueden-destacar)
 - [Restricciones](#restricciones)
-- [Configurar la promoción](configurar-la-promocion)
+- [Configurar la promoción](#configurar-la-promocion)
 - [Promociones destacadas en Store Framework](#promociones-destacadas-en-store-framework)
-- [Destacar promociones en CMS Portal (Legado)](#destacar-promociones-en-cms-portal-Legado)
-     - [Plantilla de página](#plantilla-de-pagina) 
-     - [Plantilla de estantería de productos](#plantilla-de-estanteria-de-productos)
+- [Destacar promociones en CMS Portal (Legado)](#destacar-promociones-en-cms-portal-legado)
+  - [Plantilla de página](#plantilla-de-pagina)
+  - [Plantilla de estantería de productos](#plantilla-de-estanteria-de-productos)
 
 ## Promociones que se pueden destacar
 
@@ -55,15 +55,15 @@ Estas promociones no se aplican a todos los clientes y requieren que se proporci
 
 Sigue las instrucciones a continuación para configurar promociones destacadas en tu tienda.
 
-1.  En el Admin VTEX, accede a **Promociones > Promociones** o ingresa **Promociones** en la barra de búsqueda en la parte superior de la página.
-2.  Busca la promoción que deseas configurar.
-3.  En la opción **Promoción destacada**, selecciona **Sí**.
-4.  Configura la promoción con las especificaciones deseadas.
-5.  Haz clic en el botón `Guardar`.
+1. En el Admin VTEX, accede a **Promociones > Promociones** o ingresa **Promociones** en la barra de búsqueda en la parte superior de la página.
+2. Busca la promoción que deseas configurar.
+3. En la opción **Promoción destacada**, selecciona **Sí**.
+4. Configura la promoción con las especificaciones deseadas.
+5. Haz clic en el botón `Guardar`.
 6. Sigue las instrucciones correspondientes a la tecnología frontend utilizada por tu tienda:
 
-- [Store Framework](#promociones-destacadas-en-store-framework)
-- [CMS Portal (Legado)](#promociones-destacadas-en-cms-portal-legado)
+    - [Store Framework](#promociones-destacadas-en-store-framework)
+    - [CMS Portal (Legado)](#destacar-promociones-en-cms-portal-legado)
 
 ## Promociones destacadas en Store Framework
 
@@ -99,14 +99,14 @@ Esta configuración consiste en editar la plantilla de la página utilizada para
 
 ### Plantilla de estantería de productos
 
-1.  En el Admin VTEX, accede a **Storefront > Layout**, o ingresa **Layout** en la barra de búsqueda de la parte superior de la página.
-2.  Haz clic en **CMS > Shelves Templates**.
+1. En el Admin VTEX, accede a **Storefront > Layout**, o ingresa **Layout** en la barra de búsqueda de la parte superior de la página.
+2. Haz clic en **CMS > Shelves Templates**.
 
     ![shelves-templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/configurando-promocion-con-destaque-flag_5.png)
 
-3.  Haz clic en la plantilla deseada.
-4.  Ingresa el código `$product.DiscountHightLight`.
-5.  Haz clic en **Save Template**.
+3. Haz clic en la plantilla deseada.
+4. Ingresa el código `$product.DiscountHightLight`.
+5. Haz clic en **Save Template**.
 
 Una vez que hayas realizado los ajustes en el Admin VTEX y agregado las tags correspondientes en las plantillas, se generará automáticamente en el HTML una clase CSS con el nombre de cada promoción que cumpla los requisitos. Por ejemplo, si la promoción se llama "BlackFriday", se creará una clase llamada `.BlackFriday` en el HTML del producto o estantería.
 

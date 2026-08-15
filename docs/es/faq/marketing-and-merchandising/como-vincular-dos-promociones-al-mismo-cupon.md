@@ -14,7 +14,7 @@ locale: es
 legacySlug: como-sincronizar-dos-promociones-al-mismo-cupon
 ---
 
-Si es necesario, es posible crear un [cupón](tutorial/crear-cupon-de-descuento) de descuento con el valor igual al total de una compra. Así, el cliente puede realizar un nuevo pedido sin pagar nada más por ello.
+Si es necesario, es posible crear un [cupón](/es/docs/tutorials/crear-cupon-beta) de descuento con el valor igual al total de una compra. Así, el cliente puede realizar un nuevo pedido sin pagar nada más por ello.
 
 El más común es que ese valor sea relativo a dos cantidades: el precio nominal del producto y el envío.
 
@@ -31,7 +31,7 @@ En este caso,
 4. Acceda a __¿Cuáles son las condiciones para que la promoción sea válida?__.
 5. Introduzca el código del cupón en __utm_source__.
 
-  ![Sincronizar promoções no mesmo cupom - 1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/como-vincular-dos-promociones-al-mismo-cupon_1.png)
+    ![Sincronizar promoções no mesmo cupom - 1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/como-vincular-dos-promociones-al-mismo-cupon_1.png)
 
 6. Haga clic en 'Crear cupón a partir de las UTMs arriba'.
 7. Haga clic en 'Guardar'.

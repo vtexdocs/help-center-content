@@ -43,7 +43,7 @@ La mejor práctica es posibilitar que el cliente opte por productos similares ya
 
 Hay diversas posibilidades de manejarlo en la tienda virtual, las más practicadas son a través de “ítems attachment”, donde posibilitamos explicitar en el carrito de compras la aceptación del similar, o hasta mismo antes del carrito, cuando haga clic en comprar el producto, abrir las posibilidades de cuáles productos el cliente aceptaría en similitud al elegido. Es posible catastrar ese listado de productos en escaparates convencionales del catastro del sku, como “similares”, “sugerencias” o “accesorios” y asociada a los ítems attachments.
 
-[Vea más informaciones sobre attachments.](lab.vtex.com/docs/vtex.js/lib/latest/checkout/index.html#addItemAttachment)
+[Vea más informaciones sobre attachments.](http://lab.vtex.com/docs/vtex.js/lib/latest/checkout/index.html#addItemAttachment)
 
 Caso el cliente revoque la aceptación de similitud, basta [realizar un change en el pedido](http://lab.vtex.com/docs/oms/api/latest/orders/index.html#registrar-mudanas) y crear un vale compras, que a su vez puede ser automatizado a través del [sistema de gift-cards](http://lab.vtex.com/docs/gcs/api/latest/giftcard/index.html#listar-gift-cards).
 

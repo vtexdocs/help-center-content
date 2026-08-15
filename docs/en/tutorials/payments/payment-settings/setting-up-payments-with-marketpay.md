@@ -26,7 +26,7 @@ To configure MarketPay, follow the steps below:
 3. Type the name **MarketPay** in the search bar and click on the name of the provider.
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account MarketPay.
 5. If you wish to modify the identification name to be displayed for the MarketPay provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
-6. If you want to use [payment split](If you want to use payment split in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).) in your store, select the option Enable payout split and send payment recipients and indicate the Accountable for payment processing charges and Accountable for chargebacks (marketplace, sellers or marketplaces and sellers).
+6. If you want to use [split payment](/en/docs/tutorials/split-payment) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).
 7. In **Provider Fields**, select or complete the fields N/A according to the provider's  instructions.
 8. Click `Save`.
 

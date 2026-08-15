@@ -17,7 +17,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 A página **Chaves de API** permite configurar um alerta para recomendar a renovação de tokens de API para chaves geradas internamente.
 
-[Renovar tokens](/pt/docs/tutorials/renovar-token-de-api]) periodicamente é importante para garantir a segurança, limitar a exposição a riscos e controlar o acesso a recursos, minimizando o impacto de chaves comprometidas.
+[Renovar tokens](/pt/docs/tutorials/renovar-token-de-api) periodicamente é importante para garantir a segurança, limitar a exposição a riscos e controlar o acesso a recursos, minimizando o impacto de chaves comprometidas.
 
 ![token-renewal-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
 

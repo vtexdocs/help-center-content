@@ -77,8 +77,8 @@ Se produjo un error. Por favor, inténtalo de nuevo.
 
 Para solucionarlo, consulta las instrucciones a continuación:
 
-1. [Comprueba si el rol de usuario tiene los permisos necesarios](#Comprobar-si-el-rol-de-usuario-tiene-los-permisos-necesarios).
-2. [Comprueba si la política comercial está configurada en el catálogo](comprobar-si-la-politica-comercial-esta-configurada-en-el-catalogo)
+1. [Comprueba si el rol de usuario tiene los permisos necesarios](#comprueba-si-el-rol-de-usuario-tiene-los-permisos-necesarios).
+2. [Comprueba si la política comercial está configurada en el catálogo](#comprobar-si-la-politica-comercial-esta-configurada-en-el-catalogo)
 3. [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio)
 
 ### Comprueba si el rol de usuario tiene los permisos necesarios

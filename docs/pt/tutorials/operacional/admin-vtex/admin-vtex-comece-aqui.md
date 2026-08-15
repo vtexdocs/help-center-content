@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2eGwEr4DyPidougQJwktc5
 ---
 
-O Admin permite que os comerciantes gerenciem toda sua experiência de comércio digital em um só lugar, de uma maneira simples e inteligente.  É onde acompanham pedidos, cadastram produtos, configuram fulfillment e todos os outros aspectos de uma operação de comércio unificado. 
+O Admin permite que os comerciantes gerenciem toda sua experiência de comércio digital em um só lugar, de uma maneira simples e inteligente.  É onde acompanham pedidos, cadastram produtos, configuram fulfillment e todos os outros aspectos de uma operação de comércio unificado.
 
 ## Página inicial
 
@@ -25,8 +25,9 @@ A página inicial oferece uma visão geral de alto nível da sua loja, como uma 
 
 Assim que você fizer login no Admin, verá métricas e gráficos úteis para monitorar o desempenho da sua loja, como a receita gerada e o número de pedidos, o funil de vendas e a taxa de conversão, além dos 10 produtos que geram maior receita.
 
-## Menu de navegação 
-Nossos menus de navegação lateral e barra superior agrupam categorias similares para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente. 
+## Menu de navegação
+
+Nossos menus de navegação lateral e barra superior agrupam categorias similares para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente.
 
 ![menu de navegação admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_2.png)
 
@@ -35,22 +36,22 @@ Na topbar, você pode usar a barra de busca global para pesquisar páginas do Ad
 - ID do pedido
 - Nome do cliente
 - Email do cliente
-- Documento do cliente 
+- Documento do cliente
 
 Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para saber mais sobre sua função e as páginas incluídas em cada seção:
 
-- [Dashboards](/pt/docs/tutorials/visao-geral-dashboards)  
+- [Dashboards](/pt/docs/tutorials/visao-geral-dashboards)
 - [Pedidos](/pt/docs/tutorials/gerenciamento-de-pedidos-visao-geral)
-- [Produtos](/pt/tutorial/visao-geral-catalogo--FFrumKPYFpvIWKRXfhQYp)  
+- [Produtos](/pt/docs/tutorials/catalogo-visao-geral)
 - [Promoções](/pt/docs/tutorials/visao-geral-promocoes)
 - [Storefront](/pt/docs/tutorials/visao-geral-storefront)
 - [Envio](/pt/docs/tutorials/visao-geral-envio)
-- [Marketplace](pt/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb)
+- [Marketplace](/pt/tutorial/visao-geral-marketplace)
 - [Apps](/pt/docs/tutorials/visao-geral-apps)
 - [Configurações da Loja](/pt/docs/tutorials/visao-geral-configuracoes-da-loja)
 - [Configurações da conta](/pt/docs/tutorials/visao-geral-configuracoes-da-conta)
-- [Configurações de usuário](/pt/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#)
-- [Faturas](/pt/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete)
+- [Configurações de usuário](/pt/docs/tutorials/visao-geral-configuracoes-de-usuario)
+- [Faturas](/pt/docs/tutorials/visao-geral-informacoes-de-faturamento)
 
 > ℹ️ Também é possível utilizar a barra de busca na parte superior do Admin VTEX para encontrar páginas específicas no menu lateral.
 
@@ -72,14 +73,17 @@ Neste momento um formulário do Google será exibido para que você possa enviar
 ![Botão feedback - PT -](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_4.gif)
 
 #### Formulário do feedback
+
 O objetivo principal das perguntas no formulário de feedback é coletar informações detalhadas sobre as experiências e percepções em relação ao produto no Admin VTEX.
 Com essas informações, podemos direcionar nossos esforços de desenvolvimento e suporte para melhor atender às necessidades dos usuários.
 
 ##### Descrição dos campos do formulário
+
 - **Email:** insira seu endereço de email.
 - **URL da página do Admin:** informe a URL da página do Admin relacionada ao feedback.
 
-Tipo de feedback (selecione um ou mais campos): 
+Tipo de feedback (selecione um ou mais campos):
+
 - **Experiência geral:** descreve a experiência geral com o produto.
 - **Funcionalidades:** fornece comentários sobre as características do produto.
 - **Interface e usabilidade:** analisa a interface e usabilidade.
@@ -97,32 +101,32 @@ Tipo de feedback (selecione um ou mais campos):
 
 ![configurações de avatar admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_5.gif)
 
-Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#), [Configurações da conta](/pt/docs/tutorials/visao-geral-configuracoes-da-conta), e [Faturas](/pt/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete), alterar o idioma do seu Admin e encerrar a sessão. 
+Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34#), [Configurações da conta](/pt/docs/tutorials/visao-geral-configuracoes-da-conta), e [Faturas](/pt/tutorial/billing-module-overview--6UxfCl4fw4GmyQwoUuIcQs?&utm_source=autocomplete), alterar o idioma do seu Admin e encerrar a sessão.
 
 Separamos as configurações do seu perfil das configurações que afetam a sua loja em si. Dessa forma, você tem mais controle e visibilidade sobre as ações que afetam o seu negócio e as que afetam o perfil de um usuário, como seus [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 O Admin VTEX traz uma experiência localizada, incluindo as seguintes opções de idioma:
 
-- Português  
-- Inglês  
-- Espanhol  
-- Italiano  
-- Romeno  
-- Japonês  
-- Holandês  
-- Francês  
-- Coreano  
-- Búlgaro 
+- Português
+- Inglês
+- Espanhol
+- Italiano
+- Romeno
+- Japonês
+- Holandês
+- Francês
+- Coreano
+- Búlgaro
 
 ### Configurações da Loja
 
 Reunimos todas as configurações de todas as seções do seu Admin VTEX em um menu específico: [Configurações da Loja](/pt/docs/tutorials/visao-geral-configuracoes-da-loja). Por meio dessa melhoria, você pode acessar facilmente todas as configurações que afetam cada serviço da sua operação.
 
-## Desempenho e compatibilidade 
+## Desempenho e compatibilidade
+
 Recomendamos acessar o Admin VTEX utilizando as versões mais recentes dos sistemas operacionais Windows e Mac para um desempenho ideal. O Admin VTEX suporta todos os navegadores mais utilizados, como listado abaixo:
 
 - Google Chrome
 - Firefox
 - Microsoft Edge
 - Safari
-

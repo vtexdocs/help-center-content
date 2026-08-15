@@ -21,8 +21,8 @@ Se você planeja veicular anúncios otimizados para eventos de conversão que oc
 
 1. Você pode encontrar o seu Número de identificação do Gerenciador de Negócios, acessando `https://business.facebook.com/settings/info` conforme imagem abaixo:
 ![facebook liberação de domínio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/facebook-liberacao-de-dominio-suiteshare_1.png)
-2. Assim que obter o seu número de identificação, [CLIQUE AQUI](\"https://suit.sh/liberacao-de-dominio\") para realizar a solicitação de liberação. Dentro de um prazo de 48 horas você será notificado por email, informando sobre a finalização do processo de liberação.
+2. Assim que obter o seu número de identificação, [CLIQUE AQUI](https://suit.sh/liberacao-de-dominio) para realizar a solicitação de liberação. Dentro de um prazo de 48 horas você será notificado por email, informando sobre a finalização do processo de liberação.
 
 Saiba mais:
 
-- [https://pt-br.facebook.com/business/help/331612538028890?id=428636648170202](\"https://pt-br.facebook.com/business/help/331612538028890?id=428636648170202\")
+- [https://pt-br.facebook.com/business/help/331612538028890?id=428636648170202](https://pt-br.facebook.com/business/help/331612538028890?id=428636648170202)

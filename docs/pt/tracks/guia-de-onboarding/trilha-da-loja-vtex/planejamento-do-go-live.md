@@ -49,7 +49,7 @@ Para organizar as equipes envolvidas e realizar o go-live na data desejada, é i
 
 ![golive 2 PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/planejamento-do-go-live_2.png)
 
-Recomendamos planejar reuniões periódicas com as [equipes de implementação](warm-up-heading-parceiros-de-implementacao) para manter um alinhamento frequente e, se necessário, criar uma _war room_ para resolver assuntos pendentes na semana que antecede o go-live.
+Recomendamos planejar reuniões periódicas com as [equipes de implementação](https://help.vtex.com/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao) para manter um alinhamento frequente e, se necessário, criar uma _war room_ para resolver assuntos pendentes na semana que antecede o go-live.
 
 ### Planejar soft launch
 
@@ -143,13 +143,13 @@ Independente do tipo de solicitação a ser encaminhada, o ticket para o Suporte
 
 No momento do go-live, após a confirmação do apontamento interno realizado na etapa anterior, será preciso realizar o apontamento de DNS e notificar a VTEX:
 
-1. [Realizar apontamento de DNS](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dnshttps://help.vtex.com/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns): na zona de DNS do domínio, criar uma entrada do tipo CNAME no subdomínio desejado para o destino ``{domínio}.cdn.vtex.com``. O ``{domínio}`` deve ser o mesmo cadastrado na VTEX.
+1. [Realizar apontamento de DNS](https://help.vtex.com/pt/docs/tracks/go-live#realizar-apontamento-de-dns): na zona de DNS do domínio, criar uma entrada do tipo CNAME no subdomínio desejado para o destino ``{domínio}.cdn.vtex.com``. O ``{domínio}`` deve ser o mesmo cadastrado na VTEX.
 
    > ⚠️ A propagação do apontamento de DNS pode levar entre 24 a 48 horas para ser concluída, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração.
 
 2. [Notificar apontamento](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#notificar-apontamento): para que a loja fique disponível ao público em geral, é preciso notificar a plataforma VTEX que o apontamento foi realizado. Para isso, é necessário salvar novamente as **Configurações da conta** no Admin VTEX.
 
-   > ℹ️ Se a loja tiver sido construída com [FastStore](link-implement-frontend-faststore), também será necessário seguir os passos descritos no artigo [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
+   > ℹ️ Se a loja tiver sido construída com [FastStore](https://help.vtex.com/pt/docs/tracks/implementacao-de-frontend#faststore), também será necessário seguir os passos descritos no artigo [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
 
 Uma vez que as etapas acima forem concluídas, a loja estará disponível no domínio cadastrado para que clientes a acessem e realizem compras.
 

@@ -34,7 +34,7 @@ Para vender seus produtos na AMARO, o seller deve cumprir os seguintes pré-requ
 - Ter capacidade produtiva interna ou por meio de contratação de terceiros identificados.  
 - Atender aos requisitos do Código de Conduta da AMARO.  
 
-Cumprindo os requisitos citados, o seller deverá entrar em contato com o time de Marcas Parcerias AMARO cadastrando-se no [formulário](https://nocodb.amaro.pro/dashboard/?utm_source=vtex&utm_medium=logo&utm_campaign=hunting#/nc/form/a54bc346-95a0-4497-aceb-5137df1b09c8), ou através do email [sellers@amaro.com](sellers@amaro.com). Com isso, os departamentos de Marcas Parceiras e Compliance avaliarão a solicitação.  
+Cumprindo os requisitos citados, o seller deverá entrar em contato com o time de Marcas Parcerias AMARO cadastrando-se no [formulário](https://nocodb.amaro.pro/dashboard/?utm_source=vtex&utm_medium=logo&utm_campaign=hunting#/nc/form/a54bc346-95a0-4497-aceb-5137df1b09c8), ou através do email [sellers@amaro.com](mailto:sellers@amaro.com). Com isso, os departamentos de Marcas Parceiras e Compliance avaliarão a solicitação.  
 
 Uma vez aprovada a parceria, o time AMARO disponibilizará a URL do Seller Center AMARO.  
 

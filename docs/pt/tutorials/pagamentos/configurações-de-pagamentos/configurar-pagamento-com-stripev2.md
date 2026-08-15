@@ -29,7 +29,7 @@ O provedor StripeV2 pode processar transações de pagamentos em lojas VTEX de d
 
 > ℹ️ O **VTEX with Stripe Payment Element Experience** utiliza o [Stripe Payment Elements Checkout](https://docs.stripe.com/payments/elements), proporcionando acesso aos meios de pagamento atuais e futuros suportados pela Stripe. Nessa opção, a configuração dos meios de pagamento deve ser realizada diretamente no [Stripe Dashboard](https://dashboard.stripe.com/settings/payment_methods).
 
-> ℹ️ Para informações sobre a lista completa de meios de pagamento operados por cada um dos modos de operação da StripeV2, entre em contato com os times de suporte da [Vinneren](stripe-support@vinneren.com.mx) ou [Stripe](https://support.stripe.com/contact/login).
+> ℹ️ Para informações sobre a lista completa de meios de pagamento operados por cada um dos modos de operação da StripeV2, entre em contato com os times de suporte da [Vinneren](mailto:stripe-support@vinneren.com.mx) ou [Stripe](https://support.stripe.com/contact/login).
 
 Após determinar com qual dos modos deseja operar em sua loja, siga as instruções de um dos procedimentos abaixo:
 
@@ -59,7 +59,7 @@ Para instalar os apps da Stripe em sua loja, siga os passos abaixo:
 1. Instale o [VTEX Native Checkout (Stripe App)](https://marketplace.stripe.com/apps/vtex-native-checkout). Durante a configuração, certifique-se de inserir o nome da sua conta VTEX usando apenas letras minúsculas. Por exemplo, se o nome da sua conta for "MyStore", insira-o como "mystore".
 2. Acesse o [Stripe Dashboard](https://dashboard.stripe.com/login?redirect=%2Fapikeys), copie e salve as chaves públicas e secretas. É importante que você copie e salve as chaves do modo (test or live) em que você instalou o VTEX Native Checkout App na Stripe.
 
-> ⚠️ Antes de iniciar a instalação do app Payment Provider Framework, verifique com a equipe de suporte da [Vinneren](stripe-support@vinneren.com.mx) ou [Stripe](https://support.stripe.com/contact/login) os números das versões mais atuais do aplicativo.
+> ⚠️ Antes de iniciar a instalação do app Payment Provider Framework, verifique com a equipe de suporte da [Vinneren](mailto:stripe-support@vinneren.com.mx) ou [Stripe](https://support.stripe.com/contact/login) os números das versões mais atuais do aplicativo.
 
 3. No [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), execute os comandos abaixo para instalar os apps da Stripe:
 
@@ -126,7 +126,7 @@ Para instalar os apps da Stripe em sua loja, siga os passos abaixo:
 1. Instale o [VTEX Elements Checkout (Stripe App)](https://marketplace.stripe.com/apps/vtex-with-stripe-payment-element) para obter as chaves Stripe necessárias.
 2. Assim que a instalação for concluída, as chaves pública (pk) e restrita (rk) serão exibidas. Copie e salve-os, pois serão usados posteriormente.
 
-> ⚠️ Antes de iniciar a instalação do app Payment Provider Framework, verifique com a equipe de suporte da [Vinneren](stripe-support@vinneren.com.mx) ou [Stripe](https://support.stripe.com/contact/login) os números das versões mais atuais do aplicativo.
+> ⚠️ Antes de iniciar a instalação do app Payment Provider Framework, verifique com a equipe de suporte da [Vinneren](mailto:stripe-support@vinneren.com.mx) ou [Stripe](https://support.stripe.com/contact/login) os números das versões mais atuais do aplicativo.
 
 3. No [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), execute os comandos abaixo para instalar os apps da Stripe:
 

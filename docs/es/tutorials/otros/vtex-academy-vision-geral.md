@@ -21,7 +21,7 @@ Con contenidos relevantes, impartidos por especialistas en comercio digital y en
 
 Para acceder a **VTEX Academy**, es necesario registrarse [en este enlace](https://academy.vtex.com/registration/freemium) o, en caso de necesitar acceso como Socio Implementador, basta con solicitarlo a tu Account Manager.
 
-> ℹ️ En caso de que encuentres alguna dificultad para acceder a la plataforma, ponte en contacto con el [soporte técnico](academy@vtex.com) de VTEX Academy.
+> ℹ️ En caso de que encuentres alguna dificultad para acceder a la plataforma, ponte en contacto con el [soporte técnico](mailto:academy@vtex.com) de VTEX Academy.
 
 ## Visión general
 
@@ -52,7 +52,7 @@ Sigue los pasos a continuación para acceder al contenido de las credenciales:
 2. Haz clic en la imagen de la credencial que desees.
 3. En la parte superior derecha de la pantalla, haz clic en la videoclase que deseas.
 
-Para obtener más información sobre el proceso de inscripción, los valores y otros detalles, accede a [VTEX Academy](academy.vtex.com).
+Para obtener más información sobre el proceso de inscripción, los valores y otros detalles, accede a [VTEX Academy](https://academy.vtex.com).
 
 ## Acciones y configuración
 

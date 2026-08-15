@@ -55,7 +55,7 @@ La funcionalidad direcciones de facturación permite que los compradores selecci
 
 ### Entrega programada
 
-La [entrega programada](/docs/es/tutorials/configurar-entrega-programada-fastcheckout) permite a las tiendas VTEX ofrecer a los clientes la posibilidad de elegir el mejor día y hora para recibir sus compras. Esta configuración se realiza directamente en las políticas de envío y define los periodos disponibles para las entregas.
+La [entrega programada](https://help.vtex.com/es/docs/tutorials/configurar-entrega-programada-buyer-portal-checkout) permite a las tiendas VTEX ofrecer a los clientes la posibilidad de elegir el mejor día y hora para recibir sus compras. Esta configuración se realiza directamente en las políticas de envío y define los periodos disponibles para las entregas.
 
 ### Políticas de compra
 

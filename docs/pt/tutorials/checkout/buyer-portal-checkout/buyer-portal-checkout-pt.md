@@ -55,7 +55,7 @@ A funcionalidade Endereços de cobrança permite que os compradores selecionem e
 
 ### Entrega agendada
 
-A [Entrega agendada](/docs/pt/tutorials/configurar-entrega-agendada-fastcheckout) permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
+A [Entrega agendada](https://help.vtex.com/pt/docs/tutorials/configurar-entrega-agendada-buyer-portal-checkout) permite às lojas VTEX oferecer aos clientes a possibilidade de escolher o melhor dia e horário para receber suas compras. Essa configuração é realizada diretamente nas políticas de envio e definem os períodos disponíveis para entregas.
 
 ### Buying Policies
 

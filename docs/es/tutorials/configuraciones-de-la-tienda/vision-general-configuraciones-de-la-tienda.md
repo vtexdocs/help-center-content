@@ -25,7 +25,7 @@ Para acceder a esta funcionalidad, haz clic en **Configuración de la tienda** e
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de este menú. 
 
 ## Pago
-La página de Configuración de pagos es donde puedes configurar las condiciones de pago, los pagos personalizados, las afiliaciones de gateway y las notificaciones. Obtén más información sobre las acciones que puedes realizar en esta [página](enlace), que pronto se incluirá en el diseño del Admin v4.
+La página de Configuración de pagos es donde puedes configurar las condiciones de pago, los pagos personalizados, las afiliaciones de gateway y las notificaciones. Obtén más información sobre las acciones que puedes realizar en esta [página](https://help.vtex.com/es/docs/tracks/configurar-un-conector-de-pagos), que pronto se incluirá en el diseño del Admin v4.
 
 ## Pedidos
 En la sección Configuración de pedidos puedes configurar los ajustes generales de pedidos, afiliados, autorización de pedidos y medios de pago de las suscripciones. Incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
@@ -79,4 +79,3 @@ La sección Intelligent Search es donde realizas la configuración general de la
 - [Reglas de Relevance](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
 - [Analytics](/es/docs/tutorials/intelligent-search-analytics)
 - [Redireccionamientos](/es/docs/tutorials/configurar-redirecciones)
-

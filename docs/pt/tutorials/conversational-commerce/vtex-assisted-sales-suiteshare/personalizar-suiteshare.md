@@ -45,7 +45,7 @@ Essas alterações estarão disponivéis nos [**formulários de captura**](/pt/
 
 ![Personalizar 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/personalizar-suiteshare_6.png)
 
-E no [**seletivo**](\"http://help.suiteshare.com/support/solutions/articles/67000214752-seletivo\"). 
+E no [**seletivo**](http://help.suiteshare.com/support/solutions/articles/67000214752-seletivo). 
 
 ![Personalizar 7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/personalizar-suiteshare_7.png)
 
