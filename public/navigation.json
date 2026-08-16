@@ -9085,9 +9085,9 @@
             "pt": "Outros"
           },
           "slug": {
-            "en": "others",
-            "es": "otros",
-            "pt": "outros"
+            "en": "faq-others-category",
+            "es": "faq-otros-categoria",
+            "pt": "faq-outros-categoria"
           },
           "origin": "",
           "type": "category",
@@ -38152,9 +38152,9 @@
             "pt": "Outros"
           },
           "slug": {
-            "en": "other-category",
-            "es": "otros-categoria",
-            "pt": "outros-categoria"
+            "en": "tutorials-other-category",
+            "es": "tutoriales-otros-categoria",
+            "pt": "tutoriais-outros-categoria"
           },
           "origin": "",
           "type": "category",
