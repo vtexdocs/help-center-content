@@ -21871,7 +21871,7 @@
                 "pt": "Inventário"
               },
               "slug": {
-                "en": "inventory-subcategory",
+                "en": "shipping-inventory-subcategory",
                 "es": "inventario-subcategoria",
                 "pt": "inventário-subcategoria"
               },
@@ -25317,37 +25317,6 @@
             },
             {
               "name": {
-                "en": "Configurações de Pagamentos",
-                "es": "Configurações de Pagamentos",
-                "pt": "Configurações de Pagamentos"
-              },
-              "slug": {
-                "en": "configuracoes-de-pagamentos",
-                "es": "configuracoes-de-pagamentos",
-                "pt": "configurações-de-pagamentos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Configurar pagamento com Paguelofacil",
-                    "en": "Configurar pagamento com Paguelofacil",
-                    "es": "Configurar pagamento com Paguelofacil"
-                  },
-                  "slug": {
-                    "pt": "configurar-pagamento-com-paguelofacil",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Payment Settings",
                 "es": "Configuración de Pagos",
                 "pt": "Configurações de Pagamentos"
@@ -27965,6 +27934,21 @@
                     "en": "setting-up-payments-with-pagowebpe",
                     "es": "configurar-pago-con-pagowebpe",
                     "pt": "configurar-pagamento-com-pagowebpe"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Paguelofacil",
+                    "es": "Configurar pago con Paguelofacil",
+                    "pt": "Configurar pagamento com Paguelofacil"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-paguelofacil",
+                    "es": "configurar-pago-con-paguelofacil",
+                    "pt": "configurar-pagamento-com-paguelofacil"
                   },
                   "origin": "",
                   "type": "markdown",
