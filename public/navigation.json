@@ -5783,33 +5783,17 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Mayo",
-                "es": "Mayo",
-                "pt": "Maio"
-              },
-              "slug": {
-                "en": "mayo",
-                "es": "2020-mayo",
-                "pt": "2020-maio"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
+                },
                 {
                   "name": {
+                    "en": "Inventory & shipping: see what has changed in the \"Dashboard\" tab",
                     "es": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\".",
-                    "pt": "Estoque & entrega: entenda o que mudou na aba \"Painéis\"",
-                    "en": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\"."
+                    "pt": "Estoque & entrega: entenda o que mudou na aba \"Painéis\""
                   },
                   "slug": {
+                    "en": "2020-05-05-inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab",
                     "es": "2020-05-05-inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles",
-                    "pt": "2020-05-05-estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis",
-                    "en": ""
+                    "pt": "2020-05-05-estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -9101,9 +9085,9 @@
             "pt": "Outros"
           },
           "slug": {
-            "en": "others",
-            "es": "otros",
-            "pt": "outros"
+            "en": "faq-others-category",
+            "es": "faq-otros-categoria",
+            "pt": "faq-outros-categoria"
           },
           "origin": "",
           "type": "category",
@@ -14041,37 +14025,6 @@
             },
             {
               "name": {
-                "en": "Integración con Extensión de Meta para empresas",
-                "es": "Integración con Extensión de Meta para empresas",
-                "pt": "Integração com a Extensão da Meta para Empresas"
-              },
-              "slug": {
-                "en": "integracion-con-extension-de-meta-para-empresas",
-                "es": "integracion-con-meta-business-extension",
-                "pt": "integracao-com-o-meta-business-extension"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Interface of the configured integration",
-                    "es": "1. Interfaz de la integración configurada",
-                    "pt": "1. Interface da integração configurada"
-                  },
-                  "slug": {
-                    "en": "interface-da-integracao-configurada",
-                    "es": "interface-da-integracao-configurada",
-                    "pt": "interface-da-integracao-configurada"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Integration with Meta Business Extension",
                 "es": "Integración con Extensión de Meta para empresas",
                 "pt": "Integração com a Extensão da Meta para Empresas"
@@ -14139,6 +14092,21 @@
                     "en": "configuring-the-integration-with-fbe-in-the-vtex-admin",
                     "es": "configurar-la-integracion-con-fbe-en-el-admin-vtex",
                     "pt": "configurar-a-integracao-com-o-fbe-no-admin-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Interface of the configured integration",
+                    "es": "5. Interfaz de la integración configurada",
+                    "pt": "5. Interface da integração configurada"
+                  },
+                  "slug": {
+                    "en": "interface-da-integracao-configurada",
+                    "es": "interface-da-integracao-configurada",
+                    "pt": "interface-da-integracao-configurada"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -15206,9 +15174,24 @@
                 },
                 {
                   "name": {
-                    "en": "2. Create product feed",
-                    "es": "2. Crear feed de productos",
-                    "pt": "2. Criar feed de produtos"
+                    "en": "2. Installation and setup",
+                    "es": "2. Instalación y configuración",
+                    "pt": "2. Installation and setup"
+                  },
+                  "slug": {
+                    "en": "installation-and-setup",
+                    "es": "instalacion-y-configuracion",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Create product feed",
+                    "es": "3. Crear feed de productos",
+                    "pt": "3. Criar feed de produtos"
                   },
                   "slug": {
                     "en": "create-product-feed",
@@ -15221,9 +15204,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Sales channel mapping",
-                    "es": "3. Mapeo de canales de venta",
-                    "pt": "3. Mapeamento de canais de venda"
+                    "en": "4. Sales channel mapping",
+                    "es": "4. Mapeo de canales de venta",
+                    "pt": "4. Mapeamento de canais de venda"
                   },
                   "slug": {
                     "en": "sales-channel-mapping",
@@ -15236,9 +15219,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Specifications mapping",
-                    "es": "4. Mapeo de especificaciones",
-                    "pt": "4. Mapeamento de especificações"
+                    "en": "5. Specifications mapping",
+                    "es": "5. Mapeo de especificaciones",
+                    "pt": "5. Mapeamento de especificações"
                   },
                   "slug": {
                     "en": "specifications-mapping",
@@ -15251,9 +15234,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Update and import product feed",
-                    "es": "5. Actualizar y importar feed de productos",
-                    "pt": "5. Atualizar e importar feed de produtos"
+                    "en": "6. Update and import product feed",
+                    "es": "6. Actualizar y importar feed de productos",
+                    "pt": "6. Atualizar e importar feed de produtos"
                   },
                   "slug": {
                     "en": "update-and-import-product-feed",
@@ -15266,45 +15249,14 @@
                 },
                 {
                   "name": {
-                    "en": "6. Import orders from Lengow",
-                    "es": "6. Importar pedidos de Lengow",
-                    "pt": "6. Importar pedidos da Lengow"
+                    "en": "7. Import orders from Lengow",
+                    "es": "7. Importar pedidos de Lengow",
+                    "pt": "7. Importar pedidos da Lengow"
                   },
                   "slug": {
                     "en": "import-orders-from-lengow",
                     "es": "importar-pedidos-de-lengow",
                     "pt": "importar-pedidos-da-lengow"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Integración de Lengow",
-                "es": "Integración de Lengow",
-                "pt": "Integración de Lengow"
-              },
-              "slug": {
-                "en": "integracion-de-lengow",
-                "es": "integracion-de-lengow",
-                "pt": "integracion-de-lengow"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "1. Instalación y configuración",
-                    "en": "1. Instalación y configuración",
-                    "pt": "1. Instalación y configuración"
-                  },
-                  "slug": {
-                    "es": "instalacion-y-configuracion",
-                    "en": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21871,7 +21823,7 @@
                 "pt": "Inventário"
               },
               "slug": {
-                "en": "inventory-subcategory",
+                "en": "shipping-inventory-subcategory",
                 "es": "inventario-subcategoria",
                 "pt": "inventário-subcategoria"
               },
@@ -25317,37 +25269,6 @@
             },
             {
               "name": {
-                "en": "Configurações de Pagamentos",
-                "es": "Configurações de Pagamentos",
-                "pt": "Configurações de Pagamentos"
-              },
-              "slug": {
-                "en": "configuracoes-de-pagamentos",
-                "es": "configuracoes-de-pagamentos",
-                "pt": "configurações-de-pagamentos-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Configurar pagamento com Paguelofacil",
-                    "en": "Configurar pagamento com Paguelofacil",
-                    "es": "Configurar pagamento com Paguelofacil"
-                  },
-                  "slug": {
-                    "pt": "configurar-pagamento-com-paguelofacil",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Payment Settings",
                 "es": "Configuración de Pagos",
                 "pt": "Configurações de Pagamentos"
@@ -27965,6 +27886,21 @@
                     "en": "setting-up-payments-with-pagowebpe",
                     "es": "configurar-pago-con-pagowebpe",
                     "pt": "configurar-pagamento-com-pagowebpe"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Paguelofacil",
+                    "es": "Configurar pago con Paguelofacil",
+                    "pt": "Configurar pagamento com Paguelofacil"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-paguelofacil",
+                    "es": "configurar-pago-con-paguelofacil",
+                    "pt": "configurar-pagamento-com-paguelofacil"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36441,37 +36377,6 @@
             },
             {
               "name": {
-                "en": "Feedback del vendedor",
-                "es": "Feedback del vendedor",
-                "pt": "Feedback del vendedor"
-              },
-              "slug": {
-                "en": "feedback-del-vendedor",
-                "es": "feedback-del-vendedor-subcategoria",
-                "pt": "feedback-del-vendedor"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Visualizar comentarios en la app de Indeva",
-                    "en": "Visualizar comentarios en la app de Indeva",
-                    "pt": "Visualizar comentarios en la app de Indeva"
-                  },
-                  "slug": {
-                    "es": "visualizar-comentarios-en-la-app-de-indeva",
-                    "en": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Indeva forms",
                 "es": "Formularios de Indeva",
                 "pt": "Formulários Indeva"
@@ -37033,13 +36938,13 @@
                 {
                   "name": {
                     "en": "View feedback in the Indeva app",
-                    "pt": "Visualizar feedback no app Indeva",
-                    "es": "View feedback in the Indeva app"
+                    "es": "Visualizar comentarios en la app de Indeva",
+                    "pt": "Visualizar feedback no app Indeva"
                   },
                   "slug": {
                     "en": "view-feedback-in-the-indeva-app",
-                    "pt": "visualizar-feedback-no-app-indeva",
-                    "es": ""
+                    "es": "visualizar-comentarios-en-la-app-de-indeva",
+                    "pt": "visualizar-feedback-no-app-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38247,9 +38152,9 @@
             "pt": "Outros"
           },
           "slug": {
-            "en": "other-category",
-            "es": "otros-categoria",
-            "pt": "outros-categoria"
+            "en": "tutorials-other-category",
+            "es": "tutoriales-otros-categoria",
+            "pt": "tutoriais-outros-categoria"
           },
           "origin": "",
           "type": "category",
@@ -58952,7 +58857,7 @@
           },
           "slug": {
             "en": "others",
-            "es": "otro",
+            "es": "otros",
             "pt": "outros"
           },
           "origin": "",
