@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "August",
+                "es": "Agosto",
+                "pt": "Agosto"
+              },
+              "slug": {
+                "en": "2026-august",
+                "es": "2026-agosto",
+                "pt": "2026-agosto"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Orders: New orders listing available in open beta",
+                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
+                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
+                  },
+                  "slug": {
+                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
+                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
+                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "July",
                 "es": "Julio",
                 "pt": "Julho"
@@ -488,37 +519,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "August",
-                "es": "Agosto",
-                "pt": "Agosto"
-              },
-              "slug": {
-                "en": "august",
-                "es": "agosto",
-                "pt": "agosto"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Orders: New orders listing available in open beta",
-                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
-                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
-                  },
-                  "slug": {
-                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
-                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
-                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -42683,13 +42683,13 @@
             {
               "name": {
                 "en": "RoundingMode changes do not work for percentual discounts",
-                "es": "Los cambios de RoundingMode no funcionan para los descuentos porcentuales",
-                "pt": "As alterações no RoundingMode não funcionam para descontos percentuais"
+                "es": "Los cambios en RoundingMode no funcionan para los descuentos porcentuales.",
+                "pt": "As alterações no modo de arredondamento não funcionam para descontos percentuais."
               },
               "slug": {
                 "en": "roundingmode-changes-do-not-work-for-percentual-discounts",
-                "es": "los-cambios-de-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
-                "pt": "as-alteracoes-no-roundingmode-nao-funcionam-para-descontos-percentuais"
+                "es": "los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
+                "pt": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais"
               },
               "origin": "",
               "type": "markdown",
@@ -42848,12 +42848,12 @@
             {
               "name": {
                 "en": "Sitemap from subaccounts including products from other subaccounts and mainaccount",
-                "es": "Mapa del sitio de las subcuentas que incluye productos de otras subcuentas y de la cuenta principal",
-                "pt": "Mapa do site das subcontas, incluindo produtos de outras subcontas e da conta principal"
+                "es": "Mapa del sitio desde subcuentas que incluye productos de otras subcuentas y de la cuenta principal.",
+                "pt": "Mapa do site das subcontas, incluindo produtos de outras subcontas e da conta principal."
               },
               "slug": {
                 "en": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
-                "es": "mapa-del-sitio-de-las-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
+                "es": "mapa-del-sitio-desde-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
                 "pt": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal"
               },
               "origin": "",
@@ -47087,6 +47087,21 @@
                 "en": "shipping-preview-does-not-use-sla-name-for-display-in-ui",
                 "es": "la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario",
                 "pt": "a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping preview loops when an item has multiple delivery options and the freight price changes between simulations",
+                "es": "La vista previa del envío se repite cuando un artículo tiene varias opciones de entrega y el precio del flete cambia entre simulaciones.",
+                "pt": "A pré-visualização do frete entra em loop quando um item possui várias opções de entrega e o preço do frete muda entre as simulações."
+              },
+              "slug": {
+                "en": "shipping-preview-loops-when-an-item-has-multiple-delivery-options-and-the-freight-price-changes-between-simulations",
+                "es": "la-vista-previa-del-envio-se-repite-cuando-un-articulo-tiene-varias-opciones-de-entrega-y-el-precio-del-flete-cambia-entre-simulaciones",
+                "pt": "a-previsualizacao-do-frete-entra-em-loop-quando-um-item-possui-varias-opcoes-de-entrega-e-o-preco-do-frete-muda-entre-as-simulacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -63434,6 +63449,21 @@
             },
             {
               "name": {
+                "en": "Catalog database cannot handle Cyrillic characters on Sitemap",
+                "es": "La base de datos del catálogo no admite caracteres cirílicos en el mapa del sitio.",
+                "pt": "O banco de dados do catálogo não consegue lidar com caracteres cirílicos no mapa do site."
+              },
+              "slug": {
+                "en": "catalog-database-cannot-handle-cyrillic-characters-on-sitemap",
+                "es": "la-base-de-datos-del-catalogo-no-admite-caracteres-cirilicos-en-el-mapa-del-sitio",
+                "pt": "o-banco-de-dados-do-catalogo-nao-consegue-lidar-com-caracteres-cirilicos-no-mapa-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Category and Brand substitute words not being indexed",
                 "es": "Las palabras sustitutivas de «categoría» y «marca» no se indexan",
                 "pt": "Palavras-chave relacionadas a categorias e marcas não estão sendo indexadas"
@@ -63937,6 +63967,36 @@
                 "en": "shipping-promotion-does-not-generate-highlights-flags",
                 "es": "la-promocion-de-envios-no-genera-puntos-destacados-banderas",
                 "pt": "a-promocao-de-embarque-nao-gera-destaques-bandeiras"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap generation does not consider products from Account and SubAccount",
+                "es": "La generación del mapa del sitio no tiene en cuenta los productos de Cuenta y Subcuenta.",
+                "pt": "A geração do sitemap não considera produtos da Conta e da Subconta."
+              },
+              "slug": {
+                "en": "sitemap-generation-does-not-consider-products-from-account-and-subaccount",
+                "es": "la-generacion-del-mapa-del-sitio-no-tiene-en-cuenta-los-productos-de-cuenta-y-subcuenta",
+                "pt": "a-geracao-do-sitemap-nao-considera-produtos-da-conta-e-da-subconta"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap returns NULL for all entries",
+                "es": "El mapa del sitio devuelve NULL para todas las entradas.",
+                "pt": "O Sitemap retorna NULL para todas as entradas."
+              },
+              "slug": {
+                "en": "sitemap-returns-null-for-all-entries",
+                "es": "el-mapa-del-sitio-devuelve-null-para-todas-las-entradas",
+                "pt": "o-sitemap-retorna-null-para-todas-as-entradas"
               },
               "origin": "",
               "type": "markdown",
