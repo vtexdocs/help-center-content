@@ -1,5 +1,5 @@
 ---
-title: 'Páginas - Información general'
+title: 'Páginas'
 id: 5iBUUJbK5NqG6OxlDrGNzc
 status: PUBLISHED
 createdAt: 2021-12-15T20:09:14.461Z
