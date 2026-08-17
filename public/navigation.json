@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Breaking change: New required permission for the Availability Notify app",
+                    "es": "Breaking change: Nuevo permiso obligatorio para la aplicación Availability Notify",
+                    "pt": "Breaking change: Nova permissão obrigatória para o app Availability Notify"
+                  },
+                  "slug": {
+                    "en": "2026-08-17-breaking-change-availability-notify-new-required-permission",
+                    "es": "2026-08-17-breaking-change-availability-notify-nuevo-permiso-obligatorio",
+                    "pt": "2026-08-17-breaking-change-availability-notify-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders: New orders listing available in open beta",
                     "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
                     "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
@@ -42587,21 +42602,6 @@
             },
             {
               "name": {
-                "en": "RoundingMode changes do not work for percentual discounts",
-                "es": "Los cambios en RoundingMode no funcionan para los descuentos porcentuales.",
-                "pt": "As alterações no modo de arredondamento não funcionam para descontos percentuais."
-              },
-              "slug": {
-                "en": "roundingmode-changes-do-not-work-for-percentual-discounts",
-                "es": "los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
-                "pt": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Sales channel info divergent between UI and API",
                 "es": "La información sobre los canales de venta difiere entre la interfaz de usuario y la API",
                 "pt": "Informações sobre o canal de vendas divergem entre a interface do usuário e a API"
@@ -42745,21 +42745,6 @@
                 "en": "similar-products-ui-brokes-with-too-many-products",
                 "es": "la-interfaz-de-usuario-de-los-productos-similares-deja-de-funcionar-cuando-hay-demasiados-productos",
                 "pt": "a-interface-do-usuario-de-produtos-semelhantes-fica-desorganizada-quando-ha-muitos-produtos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Sitemap from subaccounts including products from other subaccounts and mainaccount",
-                "es": "Mapa del sitio desde subcuentas que incluye productos de otras subcuentas y de la cuenta principal.",
-                "pt": "Mapa do site das subcontas, incluindo produtos de outras subcontas e da conta principal."
-              },
-              "slug": {
-                "en": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
-                "es": "mapa-del-sitio-desde-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
-                "pt": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal"
               },
               "origin": "",
               "type": "markdown",
@@ -53880,12 +53865,12 @@
               "name": {
                 "en": "Shipping Policy with incorrect MaxVolume on spreadsheet does not show Message error on Simulation",
                 "es": "La política de envío con un volumen máximo incorrecto en la hoja de cálculo no muestra el mensaje de error en la simulación.",
-                "pt": "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
+                "pt": "A política de envio com MaxVolume incorreto na planilha não exibe a mensagem de erro na simulação."
               },
               "slug": {
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
                 "es": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
-                "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
+                "pt": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62691,21 +62676,6 @@
             },
             {
               "name": {
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs",
-                "en": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN"
-              },
-              "slug": {
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Unable to access My Credits \"An error occurred in your account\"",
                 "es": "No se puede acceder a Mis créditos \"Se ha producido un error en su cuenta\"",
                 "pt": "Não é possível acessar My Credits \"Ocorreu um erro em sua conta\""
@@ -63872,6 +63842,21 @@
                 "en": "shipping-promotion-does-not-generate-highlights-flags",
                 "es": "la-promocion-de-envios-no-genera-puntos-destacados-banderas",
                 "pt": "a-promocao-de-embarque-nao-gera-destaques-bandeiras"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap from subaccounts including products from other subaccounts and mainaccount",
+                "es": "Mapa del sitio desde subcuentas que incluye productos de otras subcuentas y de la cuenta principal.",
+                "pt": "Mapa do site das subcontas, incluindo produtos de outras subcontas e da conta principal."
+              },
+              "slug": {
+                "en": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
+                "es": "mapa-del-sitio-desde-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
+                "pt": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal"
               },
               "origin": "",
               "type": "markdown",
@@ -65659,6 +65644,21 @@
                 "en": "roundingmode-ceilingfloor-not-working-properly-among-items-with-unitmultiplier-other-than-1",
                 "es": "el-modo-de-redondeo-ceilingfloor-no-funciona-correctamente-con-elementos-que-tienen-un-multiplicador-de-unidad-distinto-de-1",
                 "pt": "o-modo-de-arredondamento-ceilingfloor-nao-funciona-corretamente-em-itens-com-um-multiplicador-de-unidade-diferente-de-1"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "RoundingMode changes do not work for percentual discounts",
+                "es": "Los cambios en RoundingMode no funcionan para los descuentos porcentuales.",
+                "pt": "As alterações no modo de arredondamento não funcionam para descontos percentuais."
+              },
+              "slug": {
+                "en": "roundingmode-changes-do-not-work-for-percentual-discounts",
+                "es": "los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
+                "pt": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais"
               },
               "origin": "",
               "type": "markdown",
@@ -68560,6 +68560,37 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
                 "pt": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Marketplace in",
+            "es": "Marketplace in",
+            "pt": "Marketplace in"
+          },
+          "slug": {
+            "en": "marketplace-in",
+            "es": "marketplace-in",
+            "pt": "marketplace-in"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Markeplace-IN Suggestions API cursor pagination (_next) only covers Pending suggestions and may look like it stopped early",
+                "es": "Markeplace-IN La paginación del cursor de la API de sugerencias (_next) solo cubre las sugerencias pendientes y puede parecer que se detuvo antes de tiempo.",
+                "pt": "Markeplace-IN A paginação do cursor da API de sugestões (_next) abrange apenas sugestões pendentes e pode parecer que parou antes do tempo."
+              },
+              "slug": {
+                "en": "markeplacein-suggestions-api-cursor-pagination-next-only-covers-pending-suggestions-and-may-look-like-it-stopped-early",
+                "es": "markeplacein-la-paginacion-del-cursor-de-la-api-de-sugerencias-next-solo-cubre-las-sugerencias-pendientes-y-puede-parecer-que-se-detuvo-antes-de-tiempo",
+                "pt": "markeplacein-a-paginacao-do-cursor-da-api-de-sugestoes-next-abrange-apenas-sugestoes-pendentes-e-pode-parecer-que-parou-antes-do-tempo"
               },
               "origin": "",
               "type": "markdown",
