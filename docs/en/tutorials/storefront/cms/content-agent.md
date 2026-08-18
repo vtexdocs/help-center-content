@@ -12,6 +12,8 @@ The Content agent edits your storefront content from a conversation. Instead of 
 
 The agent works inside the same [branch-based model](https://help.vtex.com/docs/tutorials/managing-versions-and-branches) used by the rest of the CMS. Every edit it makes is saved to a branch as a new version, previewed in the storefront context, and only reaches Buyers when the branch is merged into `main`. This means the agent can't publish anything to the live storefront on its own.
 
+![content-overview](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-1___a0cf9a9be4e354bc37e99d25f60502d8.png)
+
 > ⚠️ The Content agent is available for FastStore stores from v3 and above, and Headless Stores. If your store uses FastStore v1 or v2, see [Headless CMS (Legacy)](https://help.vtex.com/docs/tutorials/headless-cms-overview).
 
 ## Accessing the Content agent
@@ -25,7 +27,7 @@ The prompt at the bottom of the page is available on both tabs. To talk to the C
 
 ## Content analytics
 
-![content-agent-analytics-tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms/content-agent_1.png)
+![content-agent-analytics-tab](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-2___4c46ad153cd658fb20e431bfff81106b.png)
 
 At the top of the **Store** tab, a set of indicators summarizes the current state of your content:
 
@@ -41,7 +43,7 @@ Below the indicators, the storefront preview shows the content as Buyers see it.
 
 ## Branches tab
 
-![content-agent-branches-tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms/content-agent_2.png)
+![content-agent-branches-tab](https://vtexhelp.vtexassets.com/assets/docs/src/content-agent-3___6e098ac70dfa6464b38e2b3a2c4a75a2.png)
 
 The **Branches** tab lists every branch in the account with the following information:
 
@@ -60,8 +62,6 @@ Use the search field to find a branch by name and the **Author** filter to see o
 ## Editing content with the agent
 
 When you send a prompt, the Content agent opens a working session with the conversation on the left and the storefront preview, called canvas, on the right.
-
-![content-agent-chat-and-canvas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms/content-agent_3.png)
 
 The agent applies each change to the branch you are working on and updates the canvas so you can review the result immediately. You can keep refining the same content in follow-up messages within the conversation.
 
