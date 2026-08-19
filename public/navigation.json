@@ -20231,6 +20231,21 @@
                 },
                 {
                   "name": {
+                    "en": "Content agent",
+                    "es": "Content agent",
+                    "pt": "Content agent"
+                  },
+                  "slug": {
+                    "en": "content-agent",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Roles and permissions",
                     "es": "Roles y permisos",
                     "pt": "Perfis de acesso e permissões"
@@ -53811,6 +53826,21 @@
                 "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
                 "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
                 "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search item field does not return anything in logistics simulation",
+                "es": "El campo de búsqueda de elementos no devuelve ningún resultado en la simulación logística.",
+                "pt": "O campo de pesquisa não retorna nenhum resultado na simulação logística."
+              },
+              "slug": {
+                "en": "search-item-field-does-not-return-anything-in-logistics-simulation",
+                "es": "el-campo-de-busqueda-de-elementos-no-devuelve-ningun-resultado-en-la-simulacion-logistica",
+                "pt": "o-campo-de-pesquisa-nao-retorna-nenhum-resultado-na-simulacao-logistica"
               },
               "origin": "",
               "type": "markdown",
