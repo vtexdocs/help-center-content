@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Meta Business Extension'
 id: 434Z1iWnaa0zbOMDyr6oi
 status: PUBLISHED

@@ -1,5 +1,5 @@
 ---
-title: 'Shipping strategy'
+title: 'Shipping Strategy'
 id: 58vLBDbjYVQzJ6rRc5QNz3
 status: PUBLISHED
 createdAt: 2021-07-15T17:04:23.563Z

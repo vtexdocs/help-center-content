@@ -1,5 +1,5 @@
 ---
-title: 'Store Settings - Overview'
+title: 'Store Settings'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z

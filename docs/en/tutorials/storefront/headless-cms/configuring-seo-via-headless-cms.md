@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Configuring SEO via Headless CMS (Legacy)'
 id: 1qaJuB28kOJRfhyaGeezGc
 status: PUBLISHED
@@ -19,7 +19,7 @@ SEO (Search Engine Optimization) is one of the most important strategies to bett
 
 In stores developed with [FastStore](https://developers.vtex.com/docs/guides/faststore), you can manage SEO settings through the [Headless CMS (Legacy)](/en/docs/tutorials/headless-cms-overview).
 
-> ℹ️ For stores developed with Store Framework, see [Configuring SEO in your Store Framework store](/en/tutorial/configurando-seo-em-sua-loja--1skskesjusvghyqm8oknvr).
+> ℹ️ For stores developed with Store Framework, see [Configuring SEO in your Store Framework store](/docs/tutorials/configuring-seo-in-your-store).
 
 ## Instructions
 
