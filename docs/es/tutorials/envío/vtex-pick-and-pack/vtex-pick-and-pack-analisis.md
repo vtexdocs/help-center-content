@@ -1,18 +1,12 @@
 ---
 title: 'VTEX Pick and Pack: Análisis'
-id: 5C4wXYmbbHTnMAUO0o11rn
-status: PUBLISHED
 createdAt: 2024-01-05T17:27:08.558Z
-updatedAt: 2024-01-05T20:28:40.388Z
-publishedAt: 2024-01-05T20:28:40.388Z
-firstPublishedAt: 2024-01-05T20:24:02.931Z
+updatedAt: 2024-08-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-insights
-legacySlug: vtex-pick-and-pack-analisis
 locale: es
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
 > ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
