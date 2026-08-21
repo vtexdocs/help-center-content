@@ -16878,21 +16878,6 @@
                     },
                     {
                       "name": {
-                        "en": "How to temporarily unblock the Admin",
-                        "es": "Desbloqueio temporal del Admin",
-                        "pt": "Como desbloquear temporariamente o Admin"
-                      },
-                      "slug": {
-                        "en": "how-to-temporarily-unblock-the-admin",
-                        "es": "desbloqueio-temporal-del-admin",
-                        "pt": "como-desbloquear-temporariamente-o-admin"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "Receiving invoices",
                         "es": "Recibir la factura",
                         "pt": "Receber a fatura"
@@ -16901,6 +16886,21 @@
                         "en": "receiving-invoices",
                         "es": "recibir-la-factura",
                         "pt": "receber-a-fatura"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Temporarily unblocking the VTEX Admin",
+                        "es": "Desbloquear temporalmente el Admin VTEX",
+                        "pt": "Desbloquear temporariamente o Admin VTEX"
+                      },
+                      "slug": {
+                        "en": "temporarily-unblocking-the-vtex-admin",
+                        "es": "desbloquear-temporalmente-el-admin-vtex",
+                        "pt": "desbloquear-temporariamente-o-admin-vtex"
                       },
                       "origin": "",
                       "type": "markdown",
