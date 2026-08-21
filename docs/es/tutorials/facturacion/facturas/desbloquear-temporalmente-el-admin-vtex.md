@@ -9,7 +9,7 @@ firstPublishedAt: 2025-05-07T13:32:57.245Z
 contentType: tutorial
 productTeam: Billing
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: unblocking-the-vtex-admin-temporarily
+slugEN: temporarily-unblocking-the-vtex-admin
 legacySlug: desbloqueio-temporal-del-admin
 locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
