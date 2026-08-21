@@ -53,6 +53,12 @@ Exemplo: suponha que um cliente queira pesquisar pelo termo `bola`. Seguindo a c
 
 > ℹ️ Espaços em branco não são considerados no *fuzzy*, então `base ball` não será corrigido para `baseball`, por exemplo. Recomendamos o uso de [sinônimos](https://help.vtex.com/pt/docs/tutorials/sinonimos) para esses casos.
 
+### Stemming (raiz das palavras)
+
+O Intelligent Search usa um analisador de idioma para normalizar os termos pesquisados, unificando variações de singular e plural de uma mesma palavra na mesma raiz. Por exemplo, em lojas em inglês, uma busca por `sneaker` também retorna produtos que contêm `sneakers`.
+
+> ℹ️ A VTEX corrigiu inconsistências de stemming no analisador de idioma inglês para termos como `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves` e `supplies`, cujas formas no plural não eram mapeadas corretamente para a raiz no singular. Essa correção não é aplicada automaticamente a todas as contas: para solicitá-la em uma loja em inglês, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
+
 ### Resultado mínimo
 
 A quantidade mínima de resultados exibidos a partir de qualquer busca realizada é 1. Em qualquer busca, se o número mínimo de resultados não for atingido, a [autocorreção](#autocorrecao) é aplicada.
