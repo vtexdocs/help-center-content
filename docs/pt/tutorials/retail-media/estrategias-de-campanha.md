@@ -1,7 +1,7 @@
 ---
 title: 'Estratégias de campanha'
 createdAt: '2026-05-05T10:00:00.000Z'
-updatedAt: '2026-05-05T10:00:00.000Z'
+updatedAt: '2026-08-21T10:00:00.000Z'
 contentType: tutorial
 productTeam: Others
 slugEN: campaign-strategies
@@ -14,7 +14,7 @@ Este artigo descreve cada estratégia disponível, quando utilizá-la e como con
 
 ## Visão geral das estratégias
 
-As estratégias **Alcance**, **Crescimento** e **Rentabilidade** trabalham com faixas predefinidas de [ACOS](/pt/docs/tracks/glossario-de-retail-media) (o percentual do investimento em anúncios sobre a receita gerada por eles). A quarta estratégia, **Target ROAS**, permite definir uma meta personalizada de retorno sobre o investimento em mídia e otimiza cada anúncio individualmente para convergir até ela.
+As estratégias **Alcance**, **Crescimento** e **Rentabilidade** trabalham com faixas predefinidas de [ACOS](/pt/docs/tutorials/metricas-e-atribuicao-do-vtex-ads) (o percentual do investimento em anúncios sobre a receita gerada por eles). A quarta estratégia, **Target ROAS**, permite definir uma meta personalizada de retorno sobre o investimento em mídia e otimiza cada anúncio individualmente para convergir até ela.
 
 | Estratégia | Meta de eficiência | Mais indicada para |
 | :---- | :---- | :---- |
@@ -25,7 +25,7 @@ As estratégias **Alcance**, **Crescimento** e **Rentabilidade** trabalham com f
 
 Em Alcance, Crescimento e Rentabilidade, a plataforma ajusta os lances automaticamente para manter o ACOS dentro da faixa sugerida pela estratégia. Em Target ROAS, a plataforma converge para o valor específico que você definir.
 
-> ℹ️ ACOS (`investimento / receita`, quanto menor, melhor) e ROAS (`receita / investimento`, quanto maior, melhor) descrevem a mesma relação por ângulos opostos. Um ACOS de 20% equivale a um ROAS de 5×. Consulte o [Glossário de retail media](/pt/docs/tracks/glossario-de-retail-media) para ver as definições.
+> ℹ️ ACOS (`custo / receita`, quanto menor, melhor) e ROAS (`receita / custo`, quanto maior, melhor) descrevem a mesma relação por ângulos opostos. Um ACOS de 20% equivale a um ROAS de 5×. Para ver as fórmulas que o VTEX Ads usa para calcular as duas métricas, consulte [Métricas e atribuição do VTEX Ads](/pt/docs/tutorials/metricas-e-atribuicao-do-vtex-ads). Para a terminologia geral de retail media, consulte o [Glossário de Retail Media](/pt/docs/tracks/glossario-de-retail-media).
 
 ## Alcance
 
@@ -56,7 +56,7 @@ Rentabilidade é mais indicada para:
 - Produtos mais vendidos, com forte conversão orgânica, em que o investimento adicional em mídia deve gerar um alto retorno direto.
 - Campanhas em que a prioridade é ROI em vez de alcance.
 
-> ⚠️ Metas de ACOS mais restritas reduzem a competitividade dos lances. Com Rentabilidade, os anúncios podem perder leilões com mais frequência, resultando em uma menor participação em impressões em comparação a estratégias menos restritivas.
+> ⚠️ Metas de ACOS mais restritas reduzem a competitividade dos lances. Com Rentabilidade, os anúncios podem perder leilões com mais frequência, resultando em uma menor participação em impressões em comparação a estratégias menos restritivas. Para medir esse efeito nas suas campanhas, consulte [Métricas e atribuição do VTEX Ads](/pt/docs/tutorials/metricas-e-atribuicao-do-vtex-ads).
 
 ## Target ROAS
 
@@ -89,7 +89,9 @@ O otimizador também inclui as seguintes salvaguardas:
 - **Janela adaptativa de análise:** O ROAS é calculado sobre 3, 7 ou 14 dias, dependendo do volume de impressões de cada par nos últimos 7 dias, para que pares com pouco volume não reajam exageradamente a ruído.
 - **Throttle:** Quando o ROAS real de um par fica abaixo de 50% da meta por 3 ou mais ciclos consecutivos, uma penalidade adicional reduz progressivamente sua prioridade. A penalidade é revertida automaticamente assim que o par volta a ficar acima do limite.
 
-> ℹ️ Pares com baixo desempenho são reduzidos, não pausados. A campanha continua rodando, mas a entrega total pode desacelerar se muitos pares estiverem sob throttle ao mesmo tempo. O Target ROAS otimiza a eficiência dos lances, não o pacing de orçamento. Os orçamentos diário e total são consumidos pela entrega normal.
+> ℹ️ Pares com baixo desempenho são reduzidos, não pausados. A campanha continua rodando, mas a entrega total pode desacelerar se muitos pares estiverem sob throttle ao mesmo tempo.
+>
+> O Target ROAS atua nos lances e na prioridade de entrega. Ele não altera a configuração de orçamento da campanha nem o valor de orçamento disponível para gastar.
 
 ### Formatos de campanha suportados
 
