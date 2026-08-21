@@ -1,5 +1,5 @@
 ---
-title: 'What is a Category?'
+title: 'Categories'
 id: 6HV4Q3E2FauUoOQoiCCgCg
 status: PUBLISHED
 createdAt: 2018-01-25T21:32:32.038Z
@@ -13,7 +13,6 @@ slugEN: what-is-a-category
 legacySlug: what-is-a-category
 locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
-order: 2
 ---
 
 The Category is the second level of categorization of your store, just under the Department level. Categories are forms of classification or organization used to present the products of your store.

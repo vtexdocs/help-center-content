@@ -1,5 +1,5 @@
 ---
-title: 'Lista de Audiências de campanhas'
+title: 'Lista de audiências de campanhas'
 id: 2aW3JH34Zsm4keR5wtXZbT
 status: PUBLISHED
 createdAt: 2022-07-21T20:21:27.266Z
