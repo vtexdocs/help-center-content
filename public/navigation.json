@@ -22573,21 +22573,6 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Pick and Pack: Fulfillment",
-                    "es": "VTEX Pick and Pack: Fulfillment",
-                    "pt": "VTEX Pick and Pack: Fulfillment"
-                  },
-                  "slug": {
-                    "en": "vtex-pick-and-pack-fulfillment",
-                    "es": "vtex-pick-and-pack-fulfillment",
-                    "pt": "vtex-pick-and-pack-fulfillment"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "VTEX Pick and Pack: Insights",
                     "es": "VTEX Pick and Pack: Análisis",
                     "pt": "VTEX Pick and Pack: Insights"
@@ -46737,6 +46722,21 @@
                 "en": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
                 "es": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
                 "pt": "a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Quickorder App concurrency issues when adding items",
+                "es": "Problemas de concurrencia en la aplicación Quickorder al agregar artículos",
+                "pt": "Problemas de concorrência no aplicativo Quickorder ao adicionar itens."
+              },
+              "slug": {
+                "en": "quickorder-app-concurrency-issues-when-adding-items",
+                "es": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
+                "pt": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens"
               },
               "origin": "",
               "type": "markdown",

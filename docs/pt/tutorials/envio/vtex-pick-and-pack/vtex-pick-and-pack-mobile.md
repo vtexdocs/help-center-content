@@ -1,23 +1,17 @@
 ---
 title: 'VTEX Pick and Pack Mobile'
-id: 3i1K01CQlDBFYYp42WFOet
-status: PUBLISHED
 createdAt: 2024-04-04T20:42:46.548Z
-updatedAt: 2025-10-01T19:33:57.065Z
-publishedAt: 2025-10-01T19:33:57.065Z
-firstPublishedAt: 2024-04-06T01:59:46.300Z
+updatedAt: 2026-08-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-mobile
-legacySlug: vtex-pick-and-pack-mobile
 locale: pt
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
 > ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/pt-br/contato/).
 
-O aplicativo móvel do [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
+O aplicativo móvel do [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
 ![pickpack-mobile-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
