@@ -13,6 +13,7 @@ slugEN: products-and-skus
 legacySlug: produtos-e-skus-beta
 locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
+categoryCover: true
 ---
 
 A página **Produtos e SKUs** possibilita visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, incluindo informações sobre SKUs, data da última atualização e status. Para acessá-la, entre no menu **Catálogo > Produtos e SKUs**.

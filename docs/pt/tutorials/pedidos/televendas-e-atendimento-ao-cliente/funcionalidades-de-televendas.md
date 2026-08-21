@@ -1,5 +1,5 @@
 ---
-title: 'Funcionalidades de televendas'
+title: 'Televendas e atendimento ao cliente'
 id: UqhiccIRIK2KD0OqkzJaS
 status: PUBLISHED
 createdAt: 2021-05-13T18:26:51.189Z
@@ -13,6 +13,7 @@ slugEN: telesales-features
 legacySlug: funcionalidades-de-televendas
 locale: pt
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
+categoryCover: true
 ---
 
 Os recursos de televendas permitem que a equipe de atendimento da sua loja tenha autonomia para apoiar os clientes na compra, no acompanhamento e na alteração de pedidos e assinaturas.

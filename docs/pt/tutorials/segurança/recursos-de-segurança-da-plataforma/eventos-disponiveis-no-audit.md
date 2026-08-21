@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
@@ -23,6 +23,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 * [Estoque e entrega](#estoque-e-entrega)
 * [Catálogo (Admin)](#catalogo-admin)
 * [Catálogo (API)](#catalogo-api)
+* [Catálogo (Control Plane)](#catalogo-control-plane)
 * [Preços](#precos)
 * [Promoções](#promocoes)
 * [Assinaturas](#assinaturas)
@@ -125,6 +126,112 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | SKU Seller Binding Inactivation | Inativação de vínculo de SKU. | ID do SKU no seller e ID do seller. |
 | GiftCard Create | Criação de um vale-presente nativo. | ID do vale-presente e ID do autor da ação. |
 | GiftCard List All Paged |  Consulta da listagem de vale-presentes. | ID do autor da ação e os IDs dos vale-presentes. |
+
+## Catálogo (Control Plane)
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| Product Activation | Ativação de produto. | ID do produto. |
+| Product Deactivation | Desativação de produto. | ID do produto. |
+| Admin Product Import | Importação de produto via Admin. | Nome do arquivo de importação. |
+| Admin Image Import | Importação de imagem via Admin. | Nome do arquivo de importação. |
+| Admin SkuSpecification Import | Importação de especificação de SKU via Admin. | Nome do arquivo de importação. |
+| Admin ProductSpecification Import | Importação de especificação de produto via Admin. | Nome do arquivo de importação. |
+| Create Brand | Criação de marca. | ID da marca. |
+| Update Brand | Atualização de marca. | ID da marca. |
+| Create Category | Criação de categoria. | ID da categoria. |
+| Update Category | Atualização de categoria. | ID da categoria. |
+| Create Attachment | Criação de anexo. | ID do anexo. |
+| Update Attachment | Atualização de anexo. | ID do anexo. |
+| Delete Attachment | Exclusão de anexo. | ID do anexo. |
+| Create Field | Criação de campo de catálogo. | ID do campo. |
+| Update Field | Atualização de campo de catálogo. | ID do campo. |
+| Create Field Group | Criação de grupo de campos. | ID do grupo de campos. |
+| Update Field Group | Atualização de grupo de campos. | ID do grupo de campos. |
+| Create Field Value | Criação de valor de campo. | ID do valor do campo. |
+| Update Field Value | Atualização de valor de campo. | ID do valor do campo. |
+| Delete Non Structured Field | Exclusão de campo não estruturado. | ID do campo. |
+| Create Product | Criação de produto. | ID do produto. |
+| Update Product | Atualização de produto. | ID do produto. |
+| Create Sales Policy | Criação de política comercial. | ID da política comercial. |
+| Delete Sales Policy | Exclusão de política comercial. | ID da política comercial. |
+| Create Similar Category | Criação de categoria similar. | ID da categoria similar. |
+| Delete Similar Category | Exclusão de categoria similar. | ID da categoria similar. |
+| Create Product Specification | Criação de especificação de produto. | ID da especificação do produto. |
+| Upsert Product Specification | Criação ou atualização de especificação de produto. | ID da especificação do produto. |
+| Delete Product Specification | Exclusão de especificação de produto. | ID da especificação do produto. |
+| Delete All Product Specifications | Exclusão de todas as especificações de produto. | ID do produto. |
+| Create Sku Kit | Criação de kit de SKU. | ID do kit de SKU. |
+| Delete Sku Kit | Exclusão de kit de SKU. | ID do kit de SKU. |
+| Create Sku Service | Criação de serviço de SKU. | ID do serviço de SKU. |
+| Update Sku Service | Atualização de serviço de SKU. | ID do serviço de SKU. |
+| Delete Sku Service | Exclusão de serviço de SKU. | ID do serviço de SKU. |
+| Create Sku Service Type | Criação de tipo de serviço de SKU. | ID do tipo de serviço de SKU. |
+| Update Sku Service Type | Atualização de tipo de serviço de SKU. | ID do tipo de serviço de SKU. |
+| Delete Sku Service Type | Exclusão de tipo de serviço de SKU. | ID do tipo de serviço de SKU. |
+| Create Sku Service Value | Criação de valor de serviço de SKU. | ID do valor de serviço de SKU. |
+| Update Sku Service Value | Atualização de valor de serviço de SKU. | ID do valor de serviço de SKU. |
+| Delete Sku Service Value | Exclusão de valor de serviço de SKU. | ID do valor de serviço de SKU. |
+| Create Sku Service Type Attachment | Criação de anexo de tipo de serviço de SKU. | ID do anexo de tipo de serviço de SKU. |
+| Delete Sku Service Type Attachment | Exclusão de anexo de tipo de serviço de SKU. | ID do anexo de tipo de serviço de SKU. |
+| Create Sku Attachment | Criação de anexo de SKU. | ID do anexo de SKU. |
+| Delete Sku Attachment | Exclusão de anexo de SKU. | ID do anexo de SKU. |
+| Create Sku Complement | Criação de complemento de SKU. | ID do complemento de SKU. |
+| Delete Sku Complement | Exclusão de complemento de SKU. | ID do complemento de SKU. |
+| Create Supplier | Criação de fornecedor. | ID do fornecedor. |
+| Update Supplier | Atualização de fornecedor. | ID do fornecedor. |
+| Delete Supplier | Exclusão de fornecedor. | ID do fornecedor. |
+| Update Report Status | Atualização de status de relatório. | ID do relatório. |
+| Create Sku | Criação de SKU. | ID do SKU. |
+| Update Sku | Atualização de SKU. | ID do SKU. |
+| Create Sub Collection | Criação de subcoleção. | ID da subcoleção. |
+| Update Sub Collection | Atualização de subcoleção. | ID da subcoleção. |
+| Delete Sub Collection | Exclusão de subcoleção. | ID da subcoleção. |
+| Create Brand Sub Collection | Criação de subcoleção de marca. | ID da subcoleção de marca. |
+| Delete Brand Sub Collection | Exclusão de subcoleção de marca. | ID da subcoleção de marca. |
+| Create Category Sub Collection | Criação de subcoleção de categoria. | ID da subcoleção de categoria. |
+| Delete Category Sub Collection | Exclusão de subcoleção de categoria. | ID da subcoleção de categoria. |
+| Create Field Value Sub Collection | Criação de subcoleção de valor de campo. | ID da subcoleção de valor de campo. |
+| Delete Field Value Sub Collection | Exclusão de subcoleção de valor de campo. | ID da subcoleção de valor de campo. |
+| Create Sku Sub Collection | Criação de subcoleção de SKU. | ID da subcoleção de SKU. |
+| Delete Sku Sub Collection | Exclusão de subcoleção de SKU. | ID da subcoleção de SKU. |
+| Create Collection | Criação de coleção. | ID da coleção. |
+| Update Collection | Atualização de coleção. | ID da coleção. |
+| Delete Collection | Exclusão de coleção. | ID da coleção. |
+| Bulk Sku Collection | Atualização em massa de coleção de SKUs. | ID da coleção e IDs dos SKUs. |
+| Import Insert Sku In Collection | Importação para inserir SKUs em uma coleção. | ID da coleção e nome do arquivo de importação. |
+| Import Delete Sku In Collection | Importação para excluir SKUs de uma coleção. | ID da coleção e nome do arquivo de importação. |
+| Create Sku Ean | Criação de EAN de SKU. | ID do SKU e EAN. |
+| Delete Sku Ean | Exclusão de EAN de SKU. | ID do SKU e EAN. |
+| Create Sku Specification | Criação de especificação de SKU. | ID da especificação do SKU. |
+| Upsert Sku Specification Value | Criação ou atualização de valor de especificação de SKU. | ID do valor da especificação do SKU. |
+| Update Sku Specification | Atualização de especificação de SKU. | ID da especificação do SKU. |
+| Delete Sku Specification | Exclusão de especificação de SKU. | ID da especificação do SKU. |
+| Delete All Sku Specifications | Exclusão de todas as especificações de SKU. | ID do SKU. |
+| Create Sku Attribute | Criação de atributo de SKU. | ID do atributo de SKU. |
+| Update Sku Attribute | Atualização de atributo de SKU. | ID do atributo de SKU. |
+| Delete Sku Attribute | Exclusão de atributo de SKU. | ID do atributo de SKU. |
+| Delete All Sku Attributes | Exclusão de todos os atributos de SKU. | ID do SKU. |
+| Create Sku File | Criação de arquivo de SKU. | ID do arquivo de SKU. |
+| Update Sku File | Atualização de arquivo de SKU. | ID do arquivo de SKU. |
+| Delete Sku File | Exclusão de arquivo de SKU. | ID do arquivo de SKU. |
+| Delete All Sku Files | Exclusão de todos os arquivos de SKU. | ID do SKU. |
+| Associate Sku File | Associação de arquivo de SKU. | ID do SKU e ID do arquivo de SKU. |
+| Disassociate Sku File | Desassociação de arquivo de SKU. | ID do SKU e ID do arquivo de SKU. |
+| Reorder Sku Files | Reordenação de arquivos de SKU. | ID do SKU. |
+| Copy Sku Files | Cópia de arquivos de SKU. | IDs dos SKUs de origem e destino. |
+| Create Product Form | Criação de formulário de produto. | ID do formulário de produto. |
+| Update Product Form | Atualização de formulário de produto. | ID do formulário de produto. |
+| Move Skus To Product | Movimentação de SKUs para outro produto. | IDs dos SKUs e ID do produto de destino. |
+| Enqueue Translation | Enfileiramento de tradução. | ID da tradução. |
+| Enqueue Product Translation | Enfileiramento de tradução de produto. | ID do produto. |
+| Create Assortment | Criação de sortimento. | ID do sortimento. |
+| Update Assortment | Atualização de sortimento. | ID do sortimento. |
+| Delete Assortment | Exclusão de sortimento. | ID do sortimento. |
+| Add Included Collection Assortment | Coleção incluída adicionada ao sortimento. | ID do sortimento e ID da coleção. |
+| Remove Included Collection Assortment | Coleção incluída removida do sortimento. | ID do sortimento e ID da coleção. |
+| Add Excluded Collection Assortment | Coleção excluída adicionada ao sortimento. | ID do sortimento e ID da coleção. |
+| Remove Excluded Collection Assortment | Coleção excluída removida do sortimento. | ID do sortimento e ID da coleção. |
 
 ## Preços
 
