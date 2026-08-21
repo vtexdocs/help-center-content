@@ -53803,6 +53803,21 @@
             },
             {
               "name": {
+                "en": "Search item field does not return anything in logistics simulation",
+                "es": "El campo de búsqueda de elementos no devuelve ningún resultado en la simulación logística.",
+                "pt": "O campo de pesquisa não retorna nenhum resultado na simulação logística."
+              },
+              "slug": {
+                "en": "search-item-field-does-not-return-anything-in-logistics-simulation",
+                "es": "el-campo-de-busqueda-de-elementos-no-devuelve-ningun-resultado-en-la-simulacion-logistica",
+                "pt": "o-campo-de-pesquisa-nao-retorna-nenhum-resultado-na-simulacao-logistica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping policy not prioritized due 'Reason: Dismissed as a matter of priority' even with better cost",
                 "es": "Política de envío no priorizada por 'Motivo: Descartado con carácter prioritario' incluso con mejor coste",
                 "pt": "Política de embarque não priorizada devido ao 'Motivo': Dispensada como prioridade' mesmo com melhor custo"
