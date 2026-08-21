@@ -15,10 +15,12 @@ locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 
-In order to request the change of CNPJ and transfer the rights, obligations and contractual liability of your store, you must open a [ticket](https://supporticket.vtex.com/support) communicating your decision to the financial team.
+>⚠️ This tutorial is only valid for customers billed in Brazil.
 
-## Make sure your ticket contains the following information:
+To change your store's CNPJ, open a [ticket](https://supporticket.vtex.com/support) with the Financial Support team. This change includes the transfer of contractual rights, obligations, and responsibilities.
+
+When opening the ticket, include the following information:
 
 - CNPJ card of both the current and the new contractor.
-- Social Contract of both the current and the new contractor.
-- Full data of the __current and new__ legal representatives, who will sign the transfer document (Name / RG / CPF / Email).
+- Articles of organization of both the current and the new contractor.
+- Full details of the former and current legal representative who will sign the transfer document: name, RG, CPF, and email.
