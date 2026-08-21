@@ -16939,14 +16939,14 @@
                     },
                     {
                       "name": {
-                        "en": "How do I change my CNPJ?",
-                        "es": "¿Cómo cambiar mi CNPJ?",
-                        "pt": "Como fazer a alteração do meu CNPJ?"
+                        "en": "Changing the store’s CNPJ",
+                        "es": "Cambiar el CNPJ de la tienda",
+                        "pt": "Alterar o CNPJ da loja"
                       },
                       "slug": {
-                        "en": "how-do-i-change-my-cnpj-new",
-                        "es": "como-cambiar-mi-cnpj-nuevo",
-                        "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
+                        "en": "changing-the-stores-cnpj",
+                        "es": "cambiar-el-cnpj-de-la-tienda",
+                        "pt": "alterar-o-cnpj-da-loja"
                       },
                       "origin": "",
                       "type": "markdown",
