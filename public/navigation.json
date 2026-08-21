@@ -18606,6 +18606,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring accessories, suggestions, similar products, and show together",
+                    "es": "Configurar accesorios, sugerencias, productos similares y mostrar juntos",
+                    "pt": "Configurar acessórios, sugestões, produtos similares e mostrar junto"
+                  },
+                  "slug": {
+                    "en": "setting-up-accessories-suggestions-similar-products-and-show-together",
+                    "es": "configurar-accesorios-sugerencias-productos-similares-y-mostrar-juntos",
+                    "pt": "configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating a product for presale",
                     "es": "Registrar un producto para la preventa",
                     "pt": "Cadastrar um produto para pré-venda"
@@ -18674,21 +18689,6 @@
                     "en": "how-to-define-the-url-for-a-product-page",
                     "es": "como-definir-la-url-de-un-producto",
                     "pt": "como-definir-a-url-de-um-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to set up similar product, suggestions, accessories and generics",
-                    "es": "Configurar producto similar, sugerencias, accesorios y genéricos",
-                    "pt": "Configurar produto similar, sugestões, acessórios e genéricos"
-                  },
-                  "slug": {
-                    "en": "setting-up-a-similar-product-suggestions-accessories-and-generics",
-                    "es": "configurar-producto-similar-sugerencias-accesorios-y-genericos",
-                    "pt": "configurando-produto-similar-sugestoes-acessorios-e-genericos"
                   },
                   "origin": "",
                   "type": "markdown",
