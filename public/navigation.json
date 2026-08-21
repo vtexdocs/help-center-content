@@ -16863,21 +16863,6 @@
                     },
                     {
                       "name": {
-                        "en": "How and when do I receive my invoice?",
-                        "es": "¿Cómo y cuándo recibo mi factura y mi boleto bancario?",
-                        "pt": "Como e quando recebo minha nota fiscal e meu boleto?"
-                      },
-                      "slug": {
-                        "en": "how-and-when-do-i-receive-my-invoice",
-                        "es": "como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario",
-                        "pt": "como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "How to request a platform SLA verification?",
                         "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
                         "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
@@ -16905,6 +16890,21 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Receiving invoices",
+                        "es": "Recibir la factura",
+                        "pt": "Receber a fatura"
+                      },
+                      "slug": {
+                        "en": "receiving-invoices",
+                        "es": "recibir-la-factura",
+                        "pt": "receber-a-fatura"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
                     }
                   ]
                 },
@@ -16924,13 +16924,13 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Changing my store’s registration details",
-                        "es": "Modificar los datos de registro de mi tienda",
-                        "pt": "Alterar os dados cadastrais da minha loja"
+                        "en": "Changing the store information",
+                        "es": "Modificar datos de registro de la tienda",
+                        "pt": "Alterar os dados cadastrais da loja"
                       },
                       "slug": {
-                        "en": "changing-the-stores-registration-details",
-                        "es": "modificar-los-datos-de-registro-de-la-tienda",
+                        "en": "changing-the-store-information",
+                        "es": "modificar-datos-de-registro-de-la-tienda",
                         "pt": "alterar-os-dados-cadastrais-da-loja"
                       },
                       "origin": "",
@@ -16939,14 +16939,14 @@
                     },
                     {
                       "name": {
-                        "en": "How do I change my CNPJ?",
-                        "es": "¿Cómo cambiar mi CNPJ?",
-                        "pt": "Como fazer a alteração do meu CNPJ?"
+                        "en": "Changing the store’s CNPJ",
+                        "es": "Cambiar el CNPJ de la tienda",
+                        "pt": "Alterar o CNPJ da loja"
                       },
                       "slug": {
-                        "en": "how-do-i-change-my-cnpj-new",
-                        "es": "como-cambiar-mi-cnpj-nuevo",
-                        "pt": "como-fazer-a-alteracao-do-meu-cnpj-novo"
+                        "en": "changing-the-stores-cnpj",
+                        "es": "cambiar-el-cnpj-de-la-tienda",
+                        "pt": "alterar-o-cnpj-da-loja"
                       },
                       "origin": "",
                       "type": "markdown",
