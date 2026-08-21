@@ -16290,69 +16290,6 @@
       "categories": [
         {
           "name": {
-            "en": "Admin VTEX",
-            "es": "Admin VTEX",
-            "pt": "Admin VTEX"
-          },
-          "slug": {
-            "en": "admin-vtex",
-            "es": "admin-vtex-subcategoria",
-            "pt": "admin-vtex-subcategoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Facturación",
-                "es": "Facturación",
-                "pt": "Informações de faturamento"
-              },
-              "slug": {
-                "en": "facturacion",
-                "es": "facturacion-categoria",
-                "pt": "informacoes-de-faturamento-categoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Facturas",
-                    "es": "Facturas",
-                    "pt": "Faturas"
-                  },
-                  "slug": {
-                    "en": "facturas",
-                    "es": "facturas-subcategoria",
-                    "pt": "faturas-subcategoria"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "es": "Recibir la factura",
-                        "pt": "Receber a fatura",
-                        "en": "Recibir la factura"
-                      },
-                      "slug": {
-                        "es": "recibir-la-factura",
-                        "pt": "receber-a-fatura",
-                        "en": ""
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "VTEX Admin",
             "es": "Admin VTEX",
             "pt": "Admin VTEX"
@@ -16957,13 +16894,13 @@
                     {
                       "name": {
                         "en": "Receiving invoices",
-                        "es": "Receiving invoices",
-                        "pt": "Receiving invoices"
+                        "es": "Recibir la factura",
+                        "pt": "Receber a fatura"
                       },
                       "slug": {
                         "en": "receiving-invoices",
-                        "es": "",
-                        "pt": ""
+                        "es": "recibir-la-factura",
+                        "pt": "receber-a-fatura"
                       },
                       "origin": "",
                       "type": "markdown",
