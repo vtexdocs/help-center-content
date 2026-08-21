@@ -38912,13 +38912,13 @@
             {
               "name": {
                 "en": "B2B Organizations does not limit the number of collections set for an organization, which may lead to segment-based filters not working",
-                "pt": "O B2B Organizations não limita o número de coleções definidas para uma organização, o que pode fazer com que os filtros baseados em segmentos não funcionem",
-                "es": "B2B Organizations does not limit the number of collections set for an organization, which may lead to segment-based filters not working"
+                "es": "B2B Organizations no limita el número de colecciones que se pueden configurar para una organización, lo que puede provocar que los filtros basados en segmentos no funcionen",
+                "pt": "O B2B Organizations não limita o número de coleções definidas para uma organização, o que pode fazer com que os filtros baseados em segmentos não funcionem"
               },
               "slug": {
                 "en": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-segmentbased-filters-not-working",
-                "pt": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-os-filtros-baseados-em-segmentos-nao-funcionem",
-                "es": ""
+                "es": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-provocar-que-los-filtros-basados-en-segmentos-no-funcionen",
+                "pt": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-os-filtros-baseados-em-segmentos-nao-funcionem"
               },
               "origin": "",
               "type": "markdown",
@@ -39798,13 +39798,13 @@
             {
               "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
-                "pt": "As APIs “Quem viu também viu”, “Quem viu também comprou” e “Quem comprou também comprou” nem sempre funcionam como esperado",
-                "es": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected"
+                "es": "Las funciones «Los que vieron esto también vieron», «Los que vieron esto también compraron» y «Los que compraron esto también compraron» no siempre funcionan como se espera",
+                "pt": "As APIs “Quem viu também viu”, “Quem viu também comprou” e “Quem comprou também comprou” nem sempre funcionam como esperado"
               },
               "slug": {
                 "en": "apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-not-always-working-as-expected",
-                "pt": "as-apis-quem-viu-tambem-viu-quem-viu-tambem-comprou-e-quem-comprou-tambem-comprou-nem-sempre-funcionam-como-esperado",
-                "es": ""
+                "es": "las-funciones-los-que-vieron-esto-tambien-vieron-los-que-vieron-esto-tambien-compraron-y-los-que-compraron-esto-tambien-compraron-no-siempre-funcionan-como-se-espera",
+                "pt": "as-apis-quem-viu-tambem-viu-quem-viu-tambem-comprou-e-quem-comprou-tambem-comprou-nem-sempre-funcionam-como-esperado"
               },
               "origin": "",
               "type": "markdown",
@@ -42528,13 +42528,13 @@
             {
               "name": {
                 "en": "Received Skus: Association approvals don't add the seller's available sales channel on the product when the sku is sold by more than 1 seller",
-                "pt": "SKUs recebidos: as aprovações da associação não incluem o canal de vendas disponível do vendedor no produto quando o SKU é vendido por mais de um vendedor",
-                "es": "Received Skus: Association approvals don't add the seller's available sales channel on the product when the sku is sold by more than 1 seller"
+                "es": "SKU recibidas: las autorizaciones de la asociación no añaden el canal de venta disponible del vendedor al producto cuando el SKU lo comercializan más de un vendedor",
+                "pt": "SKUs recebidos: as aprovações da associação não incluem o canal de vendas disponível do vendedor no produto quando o SKU é vendido por mais de um vendedor"
               },
               "slug": {
                 "en": "received-skus-association-approvals-dont-add-the-sellers-available-sales-channel-on-the-product-when-the-sku-is-sold-by-more-than-1-seller",
-                "pt": "skus-recebidos-as-aprovacoes-da-associacao-nao-incluem-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um-vendedor",
-                "es": ""
+                "es": "sku-recibidas-las-autorizaciones-de-la-asociacion-no-anaden-el-canal-de-venta-disponible-del-vendedor-al-producto-cuando-el-sku-lo-comercializan-mas-de-un-vendedor",
+                "pt": "skus-recebidos-as-aprovacoes-da-associacao-nao-incluem-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -46445,13 +46445,13 @@
             {
               "name": {
                 "en": "Place Order from Exisiting Cart ignores tax service response validation when isMarketplaceResponsibleForTaxes flag is true on taxConfiguration",
-                "es": "Place Order from Exisiting Cart ignores tax service response validation when isMarketplaceResponsibleForTaxes flag is true on taxConfiguration",
-                "pt": "Place Order from Exisiting Cart ignores tax service response validation when isMarketplaceResponsibleForTaxes flag is true on taxConfiguration"
+                "es": "Place Order from Exisiting Cart ignora la validación de la respuesta del servicio de impuestos cuando la bandera isMarketplaceResponsibleForTaxes es verdadera en taxConfiguration",
+                "pt": "Fazer pedido de um carrinho existente ignora a validação da resposta do serviço de impostos quando o sinalizador isMarketplaceResponsibleForTaxes é verdadeiro em taxConfiguration"
               },
               "slug": {
                 "en": "place-order-from-exisiting-cart-ignores-tax-service-response-validation-when-ismarketplaceresponsiblefortaxes-flag-is-true-on-taxconfiguration",
-                "es": "",
-                "pt": ""
+                "es": "place-order-from-exisiting-cart-ignora-la-validacion-de-la-respuesta-del-servicio-de-impuestos-cuando-la-bandera-ismarketplaceresponsiblefortaxes-es-verdadera-en-taxconfiguration",
+                "pt": "fazer-pedido-de-um-carrinho-existente-ignora-a-validacao-da-resposta-do-servico-de-impostos-quando-o-sinalizador-ismarketplaceresponsiblefortaxes-e-verdadeiro-em-taxconfiguration"
               },
               "origin": "",
               "type": "markdown",
@@ -49298,13 +49298,13 @@
             {
               "name": {
                 "en": "Erro \"Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category\" persistente",
-                "es": "Erro \"Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category\" persistente",
-                "pt": "Erro \"Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category\" persistente"
+                "es": "Error persistente: «No se ha encontrado la categoría XXX en la asignación de nodos de navegación para la especificación del departamento de SKU; elija una categoría global más específica»",
+                "pt": "Erro persistente: \"Categoria XXX não encontrada no mapeamento de nós de navegação para a especificação de departamento do SKU; escolha uma categoria global mais específica\""
               },
               "slug": {
                 "en": "erro-category-xxx-not-found-in-browse-node-mapping-for-skus-department-specification-choose-a-more-specific-global-category-persistente",
-                "es": "",
-                "pt": ""
+                "es": "error-persistente-no-se-ha-encontrado-la-categoria-xxx-en-la-asignacion-de-nodos-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-especifica",
+                "pt": "erro-persistente-categoria-xxx-nao-encontrada-no-mapeamento-de-nos-de-navegacao-para-a-especificacao-de-departamento-do-sku-escolha-uma-categoria-global-mais-especifica"
               },
               "origin": "",
               "type": "markdown",
@@ -50123,13 +50123,13 @@
             {
               "name": {
                 "en": "Mercado Livre Promotions UI shows “Sorry, an error occured” due to Mercado Livre request limits (Promotions module)",
-                "es": "Mercado Livre Promotions UI shows “Sorry, an error occured” due to Mercado Livre request limits (Promotions module)",
-                "pt": "Mercado Livre Promotions UI shows “Sorry, an error occured” due to Mercado Livre request limits (Promotions module)"
+                "es": "Mercado Livre La interfaz de usuario de Promociones muestra el mensaje «Lo sentimos, se ha producido un error» debido a los límites de solicitudes de Mercado Livre (módulo de Promociones)",
+                "pt": "Mercado Livre A interface do usuário do módulo Promoções exibe a mensagem “Desculpe, ocorreu um erro” devido aos limites de solicitações do Mercado Livre (módulo Promoções)"
               },
               "slug": {
                 "en": "mercado-livre-promotions-ui-shows-sorry-an-error-occured-due-to-mercado-livre-request-limits-promotions-module",
-                "es": "",
-                "pt": ""
+                "es": "mercado-livre-la-interfaz-de-usuario-de-promociones-muestra-el-mensaje-lo-sentimos-se-ha-producido-un-error-debido-a-los-limites-de-solicitudes-de-mercado-livre-modulo-de-promociones",
+                "pt": "mercado-livre-a-interface-do-usuario-do-modulo-promocoes-exibe-a-mensagem-desculpe-ocorreu-um-erro-devido-aos-limites-de-solicitacoes-do-mercado-livre-modulo-promocoes"
               },
               "origin": "",
               "type": "markdown",
@@ -54180,13 +54180,13 @@
             {
               "name": {
                 "en": "'I don't know my ZIP code' link in the wedding list creation page is redirecting to the wedding list creation page",
-                "pt": "Link 'Não sei meu CEP' na criação de listas de casamento redireciona para a própria página de criação de listas de casamento",
-                "es": "'I don't know my ZIP code' link in the wedding list creation page is redirecting to the wedding list creation page"
+                "es": "El enlace 'No sé mi código postal' en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas",
+                "pt": "Link 'Não sei meu CEP' na criação de listas de casamento redireciona para a própria página de criação de listas de casamento"
               },
               "slug": {
                 "en": "i-dont-know-my-zip-code-link-in-the-wedding-list-creation-page-is-redirecting-to-the-wedding-list-creation-page",
-                "pt": "link-nao-sei-meu-cep-na-criacao-de-listas-de-casamento-redireciona-para-a-propria-pagina-de-criacao-de-listas-de-casamento",
-                "es": ""
+                "es": "el-enlace-no-se-mi-codigo-postal-en-la-pagina-de-creacion-de-listas-de-bodas-redirecciona-el-usuario-a-la-propia-pagina-de-creacion-de-listas-de-bo",
+                "pt": "link-nao-sei-meu-cep-na-criacao-de-listas-de-casamento-redireciona-para-a-propria-pagina-de-criacao-de-listas-de-casamento"
               },
               "origin": "",
               "type": "markdown",
@@ -56266,13 +56266,13 @@
             {
               "name": {
                 "en": "Seller inactivation in new Seller Register UI does not trigger product reindexing (Marketplace sync gap)",
-                "pt": "A desativação do vendedor na nova interface do Registro de Vendedores não aciona a reindexação dos produtos (desfasamento na sincronização do Marketplace)",
-                "es": "Seller inactivation in new Seller Register UI does not trigger product reindexing (Marketplace sync gap)"
+                "es": "La desactivación de un vendedor en la nueva interfaz de usuario del Registro de vendedores no provoca la reindexación de los productos (desfase en la sincronización del Marketplace)",
+                "pt": "A desativação do vendedor na nova interface do Registro de Vendedores não aciona a reindexação dos produtos (desfasamento na sincronização do Marketplace)"
               },
               "slug": {
                 "en": "seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap",
-                "pt": "a-desativacao-do-vendedor-na-nova-interface-do-registro-de-vendedores-nao-aciona-a-reindexacao-dos-produtos-desfasamento-na-sincronizacao-do-marketplace",
-                "es": ""
+                "es": "la-desactivacion-de-un-vendedor-en-la-nueva-interfaz-de-usuario-del-registro-de-vendedores-no-provoca-la-reindexacion-de-los-productos-desfase-en-la-sincronizacion-del-marketplace",
+                "pt": "a-desativacao-do-vendedor-na-nova-interface-do-registro-de-vendedores-nao-aciona-a-reindexacao-dos-produtos-desfasamento-na-sincronizacao-do-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -57260,12 +57260,12 @@
               "name": {
                 "en": "Fields in the orderForm Configuration are updated to null when there is any change in Order Management Settings",
                 "es": "Los campos de la configuración del formulario de pedido se ponen a nulo cuando se produce algún cambio en la configuración de la gestión de pedidos",
-                "pt": "Fields in the orderForm Configuration are updated to null when there is any change in Order Management Settings"
+                "pt": "Os campos na configuração do formulário de pedido são atualizados para nulo sempre que houver alguma alteração nas configurações de gerenciamento de pedidos"
               },
               "slug": {
                 "en": "fields-in-the-orderform-configuration-are-updated-to-null-when-there-is-any-change-in-order-management-settings",
                 "es": "los-campos-de-la-configuracion-del-formulario-de-pedido-se-ponen-a-nulo-cuando-se-produce-algun-cambio-en-la-configuracion-de-la-gestion-de-pedidos",
-                "pt": ""
+                "pt": "os-campos-na-configuracao-do-formulario-de-pedido-sao-atualizados-para-nulo-sempre-que-houver-alguma-alteracao-nas-configuracoes-de-gerenciamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -57679,13 +57679,13 @@
             {
               "name": {
                 "en": "On My Account the address edition with Red Information of Required Field appears even after filled until save data",
-                "pt": "Na seção \"Minha conta\", a mensagem \"Campo obrigatório\" aparece mesmo depois de preenchidos os dados, até o momento de salvar",
-                "es": "On My Account the address edition with Red Information of Required Field appears even after filled until save data"
+                "es": "En «Mi cuenta», la ventana de edición de la dirección sigue mostrando el mensaje «Campo obligatorio» incluso después de haberla rellenado, hasta que se guardan los datos.",
+                "pt": "Na seção \"Minha conta\", a mensagem \"Campo obrigatório\" aparece mesmo depois de preenchidos os dados, até o momento de salvar"
               },
               "slug": {
                 "en": "on-my-account-the-address-edition-with-red-information-of-required-field-appears-even-after-filled-until-save-data",
-                "pt": "na-secao-minha-conta-a-mensagem-campo-obrigatorio-aparece-mesmo-depois-de-preenchidos-os-dados-ate-o-momento-de-salvar",
-                "es": ""
+                "es": "en-mi-cuenta-la-ventana-de-edicion-de-la-direccion-sigue-mostrando-el-mensaje-campo-obligatorio-incluso-despues-de-haberla-rellenado-hasta-que-se-guardan-los-datos",
+                "pt": "na-secao-minha-conta-a-mensagem-campo-obrigatorio-aparece-mesmo-depois-de-preenchidos-os-dados-ate-o-momento-de-salvar"
               },
               "origin": "",
               "type": "markdown",
@@ -57949,13 +57949,13 @@
             {
               "name": {
                 "en": "Orders stuck in “request-cancel” on marketplace when seller invoices at the same time (cancel vs invoice race condition)",
-                "es": "Orders stuck in “request-cancel” on marketplace when seller invoices at the same time (cancel vs invoice race condition)",
-                "pt": "Orders stuck in “request-cancel” on marketplace when seller invoices at the same time (cancel vs invoice race condition)"
+                "es": "Los pedidos se quedan bloqueados en el estado «solicitud de cancelación» en el marketplace cuando el vendedor emite la factura al mismo tiempo (condición de carrera entre la cancelación y la factura)",
+                "pt": "Pedidos ficam presos no status “solicitação de cancelamento” no marketplace quando o vendedor emite a fatura ao mesmo tempo (condição de corrida entre cancelamento e faturamento)"
               },
               "slug": {
                 "en": "orders-stuck-in-requestcancel-on-marketplace-when-seller-invoices-at-the-same-time-cancel-vs-invoice-race-condition",
-                "es": "",
-                "pt": ""
+                "es": "los-pedidos-se-quedan-bloqueados-en-el-estado-solicitud-de-cancelacion-en-el-marketplace-cuando-el-vendedor-emite-la-factura-al-mismo-tiempo-condicion-de-carrera-entre-la-cancelacion-y-la-factura",
+                "pt": "pedidos-ficam-presos-no-status-solicitacao-de-cancelamento-no-marketplace-quando-o-vendedor-emite-a-fatura-ao-mesmo-tempo-condicao-de-corrida-entre-cancelamento-e-faturamento"
               },
               "origin": "",
               "type": "markdown",
@@ -58729,13 +58729,13 @@
             {
               "name": {
                 "en": "Users with more than one order registered on BK entity with different emails can not see the orders on My Account page",
-                "pt": "Os usuários com mais de um pedido registrado na entidade BK com endereços de e-mail diferentes não conseguem visualizar os pedidos na página “Minha conta”",
-                "es": "Users with more than one order registered on BK entity with different emails can not see the orders on My Account page"
+                "es": "Los usuarios que tengan más de un pedido registrado en la entidad BK con direcciones de correo electrónico diferentes no pueden ver los pedidos en la página «Mi cuenta».",
+                "pt": "Os usuários com mais de um pedido registrado na entidade BK com endereços de e-mail diferentes não conseguem visualizar os pedidos na página “Minha conta”"
               },
               "slug": {
                 "en": "users-with-more-than-one-order-registered-on-bk-entity-with-different-emails-can-not-see-the-orders-on-my-account-page",
-                "pt": "os-usuarios-com-mais-de-um-pedido-registrado-na-entidade-bk-com-enderecos-de-email-diferentes-nao-conseguem-visualizar-os-pedidos-na-pagina-minha-conta",
-                "es": ""
+                "es": "los-usuarios-que-tengan-mas-de-un-pedido-registrado-en-la-entidad-bk-con-direcciones-de-correo-electronico-diferentes-no-pueden-ver-los-pedidos-en-la-pagina-mi-cuenta",
+                "pt": "os-usuarios-com-mais-de-um-pedido-registrado-na-entidade-bk-com-enderecos-de-email-diferentes-nao-conseguem-visualizar-os-pedidos-na-pagina-minha-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -59212,13 +59212,13 @@
             {
               "name": {
                 "en": "Callbacks after approval may trigger PaymentAuthorizationWorker to retry payment which may also deny it.",
-                "es": "Callbacks after approval may trigger PaymentAuthorizationWorker to retry payment which may also deny it.",
-                "pt": "Callbacks after approval may trigger PaymentAuthorizationWorker to retry payment which may also deny it."
+                "es": "Las devoluciones de llamada tras la aprobación pueden hacer que PaymentAuthorizationWorker vuelva a intentar el pago, lo que también podría dar lugar a su denegación.",
+                "pt": "As chamadas de retorno após a aprovação podem fazer com que o PaymentAuthorizationWorker tente novamente o pagamento, o que também pode resultar na recusa do mesmo."
               },
               "slug": {
                 "en": "callbacks-after-approval-may-trigger-paymentauthorizationworker-to-retry-payment-which-may-also-deny-it",
-                "es": "",
-                "pt": ""
+                "es": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-hacer-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-podria-dar-lugar-a-su-denegacion",
+                "pt": "as-chamadas-de-retorno-apos-a-aprovacao-podem-fazer-com-que-o-paymentauthorizationworker-tente-novamente-o-pagamento-o-que-tambem-pode-resultar-na-recusa-do-mesmo"
               },
               "origin": "",
               "type": "markdown",
@@ -60817,13 +60817,13 @@
             {
               "name": {
                 "en": "Missing 1x installment option on Checkout with multiple payment conditions and default configuration set to a different option",
-                "pt": "Falta a opção de pagamento em 1 parcela no checkout quando há várias condições de pagamento e a configuração padrão está definida para uma opção diferente",
-                "es": "Missing 1x installment option on Checkout with multiple payment conditions and default configuration set to a different option"
+                "es": "Falta la opción de pago en una sola cuota en la página de pago cuando hay varias condiciones de pago y la configuración predeterminada está establecida en una opción diferente",
+                "pt": "Falta a opção de pagamento em 1 parcela no checkout quando há várias condições de pagamento e a configuração padrão está definida para uma opção diferente"
               },
               "slug": {
                 "en": "missing-1x-installment-option-on-checkout-with-multiple-payment-conditions-and-default-configuration-set-to-a-different-option",
-                "pt": "falta-a-opcao-de-pagamento-em-1-parcela-no-checkout-quando-ha-varias-condicoes-de-pagamento-e-a-configuracao-padrao-esta-definida-para-uma-opcao-diferente",
-                "es": ""
+                "es": "falta-la-opcion-de-pago-en-una-sola-cuota-en-la-pagina-de-pago-cuando-hay-varias-condiciones-de-pago-y-la-configuracion-predeterminada-esta-establecida-en-una-opcion-diferente",
+                "pt": "falta-a-opcao-de-pagamento-em-1-parcela-no-checkout-quando-ha-varias-condicoes-de-pagamento-e-a-configuracao-padrao-esta-definida-para-uma-opcao-diferente"
               },
               "origin": "",
               "type": "markdown",
@@ -63325,13 +63325,13 @@
             {
               "name": {
                 "en": "Buy Together Promotion with lots of SKUs may let the eligible products not to load on the front (timeout)",
-                "pt": "A promoção “Compre junto”, com muitos SKUs, pode fazer com que os produtos elegíveis não sejam carregados na página inicial (tempo de espera esgotado)",
-                "es": "Buy Together Promotion with lots of SKUs may let the eligible products not to load on the front (timeout)"
+                "es": "La promoción «Compra conjunta» con muchas referencias puede hacer que los productos que cumplen los requisitos no se carguen en la página principal (tiempo de espera agotado)",
+                "pt": "A promoção “Compre junto”, com muitos SKUs, pode fazer com que os produtos elegíveis não sejam carregados na página inicial (tempo de espera esgotado)"
               },
               "slug": {
                 "en": "buy-together-promotion-with-lots-of-skus-may-let-the-eligible-products-not-to-load-on-the-front-timeout",
-                "pt": "a-promocao-compre-junto-com-muitos-skus-pode-fazer-com-que-os-produtos-elegiveis-nao-sejam-carregados-na-pagina-inicial-tempo-de-espera-esgotado",
-                "es": ""
+                "es": "la-promocion-compra-conjunta-con-muchas-referencias-puede-hacer-que-los-productos-que-cumplen-los-requisitos-no-se-carguen-en-la-pagina-principal-tiempo-de-espera-agotado",
+                "pt": "a-promocao-compre-junto-com-muitos-skus-pode-fazer-com-que-os-produtos-elegiveis-nao-sejam-carregados-na-pagina-inicial-tempo-de-espera-esgotado"
               },
               "origin": "",
               "type": "markdown",
@@ -65577,13 +65577,13 @@
             {
               "name": {
                 "en": "Promotional price table in large shopping carts can impact performance or lead to timeout errors",
-                "pt": "A tabela de preços promocionais em carrinhos de compras de grande porte pode afetar o desempenho ou causar erros de tempo limite",
-                "es": "Promotional price table in large shopping carts can impact performance or lead to timeout errors"
+                "es": "Las tablas de precios promocionales en carritos de la compra de gran tamaño pueden afectar al rendimiento o provocar errores por tiempo de espera agotado",
+                "pt": "A tabela de preços promocionais em carrinhos de compras de grande porte pode afetar o desempenho ou causar erros de tempo limite"
               },
               "slug": {
                 "en": "promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors",
-                "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-de-grande-porte-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite",
-                "es": ""
+                "es": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
+                "pt": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-de-grande-porte-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite"
               },
               "origin": "",
               "type": "markdown",
@@ -68645,13 +68645,13 @@
             {
               "name": {
                 "en": "Amazon Inactive or out-of-commercial-policy SKUs remain published (Match/new listing) on Amazon after the connector sends them",
-                "pt": "Amazon Os SKUs inativos ou fora da política comercial permanecem publicados (Correspondência/novo anúncio) na Amazon após o conector enviá-los.",
-                "es": "Amazon Inactive or out-of-commercial-policy SKUs remain published (Match/new listing) on Amazon after the connector sends them"
+                "es": "Amazon Los SKU inactivos o que no cumplen con la política comercial permanecen publicados (Coincidencia/nuevo listado) en Amazon después de que el conector los envía.",
+                "pt": "Amazon Os SKUs inativos ou fora da política comercial permanecem publicados (Correspondência/novo anúncio) na Amazon após o conector enviá-los."
               },
               "slug": {
                 "en": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
-                "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos",
-                "es": ""
+                "es": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
+                "pt": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos"
               },
               "origin": "",
               "type": "markdown",
