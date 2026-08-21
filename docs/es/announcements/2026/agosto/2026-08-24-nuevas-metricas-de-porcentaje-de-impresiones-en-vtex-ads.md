@@ -1,5 +1,5 @@
 ---
-title: 'Nuevas métricas de Impression Share en VTEX Ads'
+title: 'Nuevas métricas de porcentaje de impresiones en VTEX Ads'
 createdAt: 2026-08-24T00:00:00.000Z
 updatedAt: 2026-08-24T00:00:00.000Z
 contentType: updates
