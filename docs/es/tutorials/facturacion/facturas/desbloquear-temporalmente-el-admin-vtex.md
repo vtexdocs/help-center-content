@@ -15,17 +15,24 @@ locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-El bloqueo del Admin ocurre cuando hay un retraso en el pago de facturas. Mientras regularizas tus saldos pendientes, puedes solicitar un desbloqueo temporal válido por 48 horas laborables.
+El bloqueo del Admin VTEX ocurre cuando hay un retraso en el pago de facturas. Mientras regularizas tus pagos pendientes puedes solicitar un desbloqueo temporal válido por 48 horas laborables.
 
-## Permisos necesarios
-Para realizar este procedimiento debes tener uno de los siguientes roles de usuario:
+## Antes de empezar
 
-- Owner (Admin Super)
-- [Rol financiero](/es/docs/tutorials/crear-un-rol-financiero)
+Asegúrate de tener uno de los siguientes permisos:
 
-## Solicitud de desbloqueo
-1. En la esquina superior derecha del Admin VTEX haz clic en el perfil de tu avatar, indicado por la letra inicial de tu dirección de email y accede a **Facturación > Facturas, o ingresa Facturas en la barra de búsqueda.**
-2. Haz clic en **Instrucciones para desbloqueo temporal.**
-3. Haz clic en **Desbloquear durante 48 horas.**
+- Rol [Owner (Admin Super)](https://help.vtex.com/es/docs/tutorials/roles-de-usuario-predefinidos#owner-admin-super).
+- Rol [Finance](https://help.vtex.com/es/docs/tutorials/roles-de-usuario-predefinidos#finance). Aprende a configurar este rol en [rol financiero](https://help.vtex.com/es/docs/tutorials/crear-un-rol-financiero) o pide al propietario de la tienda que ajuste tus permisos.
 
-> ℹ️ El desbloqueo es temporal y tiene una vigencia de 48 horas laborables. Aprovecha este periodo para regularizar tus facturas y evitar futuros bloqueos.
+## Instrucciones
+
+Para solicitar el desbloqueo temporal sigue estos pasos:
+
+1. Para acceder a este módulo haz clic en el avatar con la inicial de tu email, ubicado en la esquina superior derecha de la pantalla.
+2. Haz clic en **Facturación > Facturas**.
+3. Haz clic en **Comprueba cómo desbloquear temporalmente**
+4. Haz clic en **Desbloquear durante 48 horas.**
+
+  > ⚠️ Aprovecha este periodo para regularizar tus facturas y evitar futuros bloqueos.
+
+Si el pago ya se realizó pero aún no fue procesado, consulta el artículo [Resolver pago de factura no identificado](/es/docs/tutorials/resolver-pago-de-factura-no-identificado).
