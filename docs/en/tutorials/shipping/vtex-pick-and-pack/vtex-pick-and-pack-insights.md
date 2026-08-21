@@ -1,18 +1,12 @@
 ---
 title: 'VTEX Pick and Pack: Insights'
-id: 5C4wXYmbbHTnMAUO0o11rn
-status: PUBLISHED
 createdAt: 2024-01-05T17:27:08.558Z
-updatedAt: 2024-01-05T20:28:40.388Z
-publishedAt: 2024-01-05T20:28:40.388Z
-firstPublishedAt: 2024-01-05T20:24:02.931Z
+updatedAt: 2024-08-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-insights
-legacySlug: vtex-pick-and-pack-insights
 locale: en
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
 > ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
