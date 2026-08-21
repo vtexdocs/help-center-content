@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 VTEX utiliza un modelo de cobro pospago, lo que significa que el cobro se realiza después del periodo de uso de la plataforma. Por eso, la factura se emite al final de cada mes y se envía por email a los contactos registrados en la cuenta.
 
-> ℹ️ Para cambiar los contactos que reciben la factura y demás comunicaciones financieras, consulta el artículo [Modificar los datos de registro de mi tienda](https://help.vtex.com/es/docs/tutorials/modificar-los-datos-de-registro-de-la-tienda).
+> ℹ️ Para cambiar los contactos que reciben la factura y demás comunicaciones financieras, consulta el artículo [Modificar los datos de registro de mi tienda](https://help.vtex.com/es/docs/tutorials/modificar-datos-de-registro-de-la-tienda).
 
 Si no recibiste la factura por email puedes descargarla en el Admin. Más información en [Cómo descargar las facturas de VTEX](https://help.vtex.com/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
 
