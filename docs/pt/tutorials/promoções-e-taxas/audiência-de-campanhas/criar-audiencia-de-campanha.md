@@ -1,5 +1,5 @@
 ---
-title: 'Criar Audiência de campanha'
+title: 'Criar audiência de campanha'
 id: 6cnuDZJzIkIeocewAQQK4K
 status: PUBLISHED
 createdAt: 2018-12-02T18:34:21.663Z

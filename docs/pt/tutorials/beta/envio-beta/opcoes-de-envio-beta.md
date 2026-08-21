@@ -49,7 +49,6 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 
    - **Método de envio:** selecione o tipo de método de envio (**Entrega**, **Entrega agendada**, **Retirada**, **Retirada agendada**).
    - **Nome da opção:** digite o nome da opção que será visualizada pelo cliente durante a compra.
-   - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/docs/tutorials/filtros).
 
    > ⚠️ Os filtros de métodos de envio somente serão exibidos na listagem de produtos ao cliente se esta opção estiver ativada. Caso desativada, os filtros não serão exibidos.
 
