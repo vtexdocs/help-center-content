@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gerenciando Páginas no Headless CMS (Legacy)'
 id: 3DO6rBhZ1p3zndnFu5BgRt
 status: PUBLISHED

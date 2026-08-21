@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gestionar Proyectos'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED

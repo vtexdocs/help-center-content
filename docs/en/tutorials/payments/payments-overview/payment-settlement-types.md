@@ -21,7 +21,7 @@ When a customer places an order in a VTEX store, the system generates an order n
 
 - Total
 - Hold
-- Parcial
+- Partial
 
 Each one impacts how the VTEX payment gateway transfers the amount to the payment provider.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Hiding or removing the Live Shopping component'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED

@@ -13,6 +13,7 @@ slugEN: shipping-simulation
 legacySlug: simulacao-de-frete
 locale: pt
 subcategoryId: 1O8AEORWOcgIiMosGoousQ
+categoryCover: true
 ---
 
 O **Simulador de envio** está disponível no Admin VTEX para simular e analisar as opções de entrega disponíveis. A simulação verifica as condições de entrega dando ao lojista a capacidade de verificar disponibilidade de itens, formas de entrega, custos e prazos. 

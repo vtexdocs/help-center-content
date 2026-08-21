@@ -1,25 +1,19 @@
 ---
 title: 'VTEX Pick and Pack: Settings'
-id: 16cs3e7hWk7c4cSZqe10O9
-status: PUBLISHED
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2024-01-09T18:30:22.578Z
-publishedAt: 2024-01-09T18:30:22.578Z
-firstPublishedAt: 2024-01-09T16:30:00.192Z
+updatedAt: 2026-07-24T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-settings
-legacySlug: vtex-pick-and-pack-settings
 locale: en
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
-
-> ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're interested in implementing it in the future, contact our [Support team](https://support.vtex.com/hc/en-us).
 
 **Settings** is a VTEX Admin page that allows you to select the VTEX Pick and Pack settings for your store. The settings are distributed in the following tabs:
 
 - [Orders](#orders)
+  - [Automatic removal of invoiced orders](#automatic-removal-of-invoiced-orders)
   - [Filters](#filters)
 - [Worksheets](#worksheets)
   - [General](#general)
@@ -49,7 +43,24 @@ In this section, you can configure settings for orders processed by VTEX Pick an
 
 - **Download orders from OMS**: Allows exporting orders from the VTEX Orders module.
 
->ℹ️ The filters below only apply to new orders placed after the export. If no filters are set, all orders will be downloaded.
+### Automatic removal of invoiced orders
+
+On the **Orders** tab, you can define how VTEX Pick and Pack should handle orders that change to **Invoiced** in the Order Management System (OMS) after being downloaded to the app.
+
+To automatically remove invoiced orders from VTEX Pick and Pack, follow the steps below:
+
+1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type **Settings** in the search bar at the top of the page.
+2. On the **Orders** tab, click `General`.
+3. In the **If an order becomes Invoiced in the OMS** section, enable the **Remove from Pick and Pack** option.
+4. Click `Save`.
+
+With this option enabled, VTEX Pick and Pack automatically removes from the app any orders that meet all of the following conditions:
+
+- The order has already been downloaded to VTEX Pick and Pack.
+- The order hasn't been processed yet.
+- The order changed to **Invoiced** in the OMS before the handling step.
+
+> ℹ️ The filters below only apply to new orders placed after the export. If no filters are set, all orders will be downloaded.
 
 ### Filters
 
@@ -93,7 +104,7 @@ You can define the information that will be displayed on the picking list, print
 - **Separate items by orders**: Allows generating one label per order.
 - **Show customer information**: Displays customer information on the label.
 - **Show package barcode / QR**: Displays the barcode or QR code on the label.
-- **Barcode / QR**: If the **Show package barcode / QR** option is enabled, this allows choosing whether the barcode with the order number, the worksheet number, or both will appear on the label.
+- **Barcode/QR code**: If the **Show packages barcode/QR code** option is enabled, you can choose whether the barcode with the order number, the worksheet number, or both will appear on the label.
 
 Click `Save` to save the changes in the section.
 
@@ -113,10 +124,10 @@ Click `Save` to save the changes in the section.
 - **Rejection reasons**: Reasons for [rejecting items](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). The rejection reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
 - **Allow item price changes**: Allows the picker to change the price of items during picking.
 - **Price change reasons**: Price change reasons that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). The price change reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
-- **Threshold for changes to item price**: Limit for changes to item price in an order. **100%** is the maximum amount that can be added to the original price when making a change (calculated over the original item price). `-100%` is the minimum.
+- **Threshold for changes to item prices**: Limit for changes to item price in an order. **100%** is the maximum amount that can be added to the original price when making a change (calculated over the original item price). `-100%` is the minimum.
 - **Allow item quantity changes**: Allows the picker to [change the quantity of items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#alterar-a-quantidade-de-um-produto).
-- **Threshold for changes to item quantity**: Quantity change limits for items in an order. **100%** is the maximum value that can be added to the original quantity when making a change (calculated over the original item quantity). `-100%` is the minimum.
-- **Limit order total changes**: Limits the changes that a picker can make to the order total. **100%** is the maximum amount that can be added to the final order total when making a change (calculated from the original order value). `-100%` is the minimum.
+- **Threshold for changes to quantity of items**: Quantity change limits for items in an order. 100% is the maximum value that can be added to the original quantity when making a change, calculated over the original item quantity. -100% is the minimum.
+- **Limit order total changes**: Limits the changes that a picker can make to the order total. 100% is the maximum amount that can be added to the final order total when making a change, calculated from the original order value. -100% is the minimum.
 - **Threshold for total changes to an order**: Maximum number of changes (replacements, rejections, and new items) that can be made to an order.
 
 Click `Save` to save the changes in the section.
@@ -163,13 +174,13 @@ Click `Save` to save the changes in the section.
 
 This page is organized as follows:
 
-| Column       | Description                                      |
-| ------------ | ------------------------------------------------ |
-| **Name**     | Name of the packaging.                           |
-| **Description** | Description with details about the packaging. |
-| **Code**     | Unique packaging code.                           |
-| **Size (in)**| Packaging size in inches.                        |
-| **Type**     | Type of packaging: `Box`, `Bag`, `Envelopes`, `Tape`, or `Paper`. |
+| Column                | Description                                                                |
+| --------------------- | -------------------------------------------------------------------------- |
+| **Name**        | Name of the packaging.                                                     |
+| **Description** | Description with details about the packaging.                              |
+| **Code**        | Unique packaging code.                                                     |
+| **Size (in)**   | Packaging size in inches.                                                  |
+| **Type**        | Type of packaging:`Box`, `Bag`, `Envelopes`, `Tape`, or `Paper`. |
 
 To create a new packaging type, follow the steps below:
 
@@ -224,18 +235,16 @@ In this section, you can define the item details that will be shown in the mobil
 
 - **Item card information in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 - **Enable item transfer**: Allows fulfilling an item from a location different from the facility that was originally specified.
-- **Enable item location**: Assigns a unique code to each SKU to facilitate locating items in the store or warehouse. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Codes**: Item location code. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Example**: Field that lets you preview how the location code will be generated. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Separator**: Symbol that will separate each section of information in the location code. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Assign product brands to**: Defines the space (**BIN**, zone, section, or aisle) that brands will be in. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
-- **Assign product categories to**: Defines the space (**BIN**, zone, section, or aisle) that categories will be in. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Enable item location**: Assigns a unique code to each SKU to make it easier to locate items in the store or warehouse. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Codes**: Item location code. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Example**: Field that allows you to preview how the location code will be generated. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Separator**: Symbol that will separate each section of information in the location code. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Assign product brands to**: Defines the space (BIN, zone, section, or aisle) where brands will be located. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Assign product categories to**: Defines the space (BIN, zone, section, or aisle) where categories will be located. For more information about this setting, see [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
 - **Enable dynamic barcodes**: When enabled `<i class="fas fa-toggle-on"></i>`, allows generating EANs based on:
-
-  | **Price**|**Weight**|
-  | --- | --- |
-  | Format: `Digit-Item-Price-CheckDigit` <br>If the price is $12.90, the digits are converted as `01290`. <br>Example: `20-01234-01290-1` | Format: `Digit-Item-Weight-CheckDigit` <br>If the weight is 200 g, the digits are converted ass `00200`. <br>Example: `20-01234-00200-1` |
-
+  | **Price**                                                                                                                     | **Weight**                                                                                                                      |
+  | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+  | Format:`Digit-Item-Price-CheckDigit` If the price is $12.90, the digits are converted as `01290`. Example: `20-01234-01290-1` | Format:`Digit-Item-Weight-CheckDigit` If the weight is 200 g, the digits are converted ass `00200`. Example: `20-01234-00200-1` |
 - **Dynamic barcode types**: Defines whether the dynamic barcodes will be based on price, weight, or item quantity. After selecting the barcode type, complete the fields with the numeric values of the code.
 
 ### Categories
@@ -253,7 +262,7 @@ To define the available categories for a facility, follow the steps below:
 2. In the list, click the categories you want to include in the facilities. You can search using the category name up to three levels in the tree.
 3. Click <i class="fas fa-grip-vertical"></i> and drag a category to sort the list as desired.
 4. Click `Save`.
-  
+
 To remove a selected category, click <i class="fas fa-trash"></i>.
 
 To export the information of the categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet), follow these steps:
@@ -285,22 +294,22 @@ To import information for the selected categories that will be displayed in the 
 
 In this section, you can **bulk update** and **index the catalog** that will be available in the Pick and Pack mobile app.
 
->ℹ️ During the initial Pick and Pack setup, you need to **bulk update** the catalog and **index** it.
+> ℹ️ During the initial Pick and Pack setup, you need to **bulk update** the catalog and **index** it.
 
 The page is organized as follows:
 
-| Column        | Description|
-| ------------- | --------- |
-| **Item**      | Product name. |
-| **ID**        | Product ID.|
-| **SKU**       | SKU ID.|
-| **EAN**       | EAN number.|
-| **Categories**| Categories the product belongs to.|
-| **Dimensions**| Product dimensions.|
-| **Weight**    | Product weight.|
-| **Weighable** | Indicates if the product varies in weight, like fruit, or has a fixed weight.|
+| Column                | Description                                                                        |
+| --------------------- | ---------------------------------------------------------------------------------- |
+| **Item**        | Product name.                                                                      |
+| **ID**          | Product ID.                                                                        |
+| **SKU**         | SKU ID.                                                                            |
+| **EAN**         | EAN number.                                                                        |
+| **Categories**  | Categories the product belongs to.                                                 |
+| **Dimensions**  | Product dimensions.                                                                |
+| **Weight**      | Product weight.                                                                    |
+| **Weighable**   | Indicates if the product varies in weight, like fruit, or has a fixed weight.      |
 | **Temperature** | Product storage temperature. This information is only displayed in the VTEX Admin. |
-| **Active**    | Indicates whether the product is active in the mobile app catalog.          |
+| **Active**      | Indicates whether the product is active in the mobile app catalog.                 |
 
 To edit items in bulk, follow the steps below:
 
@@ -321,12 +330,11 @@ To edit an item, follow the steps below:
 3. Click the item you want to edit.
 4. Edit the item information:
 
-    ![vtex-pick-and-pack-settings_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_14.png)
+   ![vtex-pick-and-pack-settings_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_14.png)
 
    - **EAN codes**
    - **SKU codes**
    - **Temperature**
-
 5. Click `Save`.
 
 To index the updates to the items, follow the steps below:
@@ -471,7 +479,6 @@ To create a new webhook, follow the steps below:
      - `ORDER_STATUS`: The order status changes.
      - `WORKSHEET_STATUS`: The worksheet status changes.
      - `RETURN_STATUS`: The return status changes.
-  
    - **URL**: Webhook URL.
    - **Headers**: Webhook headers.
    - **Params**: Webhook parameters.
