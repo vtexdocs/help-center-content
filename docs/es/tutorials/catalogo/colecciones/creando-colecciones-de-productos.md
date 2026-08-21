@@ -14,85 +14,145 @@ legacySlug: creando-colecciones-de-productos
 locale: es
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
+>⚠️ Existen dos formas de configurar colecciones: mediante el CMS Portal (Legado) o utilizando el módulo [Colecciones (beta)](https://help.vtex.com/es/docs/tutorials/registrar-colecciones-beta). Este artículo trata sobre la configuración de colecciones en el CMS Portal (Legado).
 
-> ⚠️ Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo [Colecciones Beta](/es/docs/tutorials/registrar-colecciones-beta). Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
+Una colección de productos permite agrupar ítems del catálogo con base en criterios como departamento, categoría, marca, periodo de lanzamiento o SKUs específicos, formando vitrinas temáticas para campañas, fechas conmemorativas o curadurías específicas de la tienda. Esta agrupación facilita la organización y visualización de productos relacionados, mejorando la navegación y la experiencia de compra de los clientes.
 
-Para crear una colección, siga las siguientes instrucciones:
+En este tutorial aprenderás a:
 
-1. En VTEX Admin, vaya a **Storefront**.
-2. Haga clic en **Layout**.
-3. Haga clic en **Product Clusters (Collections)**.
-4. Haga clic en el botón `new collection`, como se muestra a continuación.
-	![Layout 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_1.png)
-5. Rellene la información requerida:
-	- **Product Cluster Id:** código identificador de la colección. Este campo no debe rellenarse ya que el sistema lo genera automáticamente al guardar.
-	- **Nombre:** nombre de la colección.
-	- **Highlight:** define si la colección se resaltará o no.
-	- **Searchable:** define si la colección se puede buscar o no en la tienda.
-	- **From __ To __:** define las fechas de caducidad de la colección.
-6. Haga clic en el botón `Save Product Cluster`.
+- Crear una colección de productos.
+- Configurar una URL descriptiva para acceder a la colección.
+- Incluir grupos de productos por departamento, categoría, marca, periodo de lanzamiento o por SKUs específicos.
 
-Hecho esto, su colección ha sido guardada. Ahora, necesitas añadir los productos que forman parte de ella añadiendo Grupos a la colección. 
+## Antes de comenzar
 
-## Incluir grupos en la colección
+Para crear y editar colecciones en el CMS Portal (Legado), el usuario debe tener el rol Owner (Admin Super) o crear otro rol con acceso a los siguientes recursos:
 
-Puede crear grupos a partir de los siguientes filtros, que pueden combinarse para lograr el objetivo esperado:
+- **Read Collections**, en la sección Collection de los recursos de Catalog.
+- **Write Collections**, en la sección Collection de los recursos de Catalog.
+- **CMS Management**, en la sección Configuration de los recursos de Catalog.
 
-- Departamento, Categoría o subcategoría
-- Marca
+Para crear un rol, consulta la sección **Crear roles** del tutorial [Roles](https://help.vtex.com/es/docs/tutorials/roles#crear-roles). Si no tienes acceso a esta área, pide al administrador de la tienda que active este permiso en tu rol en [License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager).
 
-Cada grupo puede ser de uno de los siguientes tipos: __Inclusión__ o __Exclusión__. Para cualquier colección, el primer Grupo creado debe ser necesariamente de tipo __Inclusion__.
+## Instrucciones
 
-### Crear Grupos por Departamento, Categoría o subcategoría
+### Crear una colección
 
-Para crear el Grupo, basta hacer clic en el botón _new group_ como en el ejemplo de la imagen abajo.
+Para agregar una condición sigue las instrucciones a continuación:
 
-![Layout 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_2.png)
+1. En el Admin VTEX, accede a **Storefront > Layout**.
+2. Haz clic en **CMS**.
+3. Haz clic en **Product Clusters (Collections)**.
+4. Haz clic en `new collection`.
+   ![Layout 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_1.png)
+5. Completa la información necesaria:
+   - **Product Cluster Id:** código de identificación de la colección. Este campo no debe completarse, ya que se genera automáticamente en el sistema al momento de guardar.
+   - **Name:** nombre de la colección.
+   - **Highlight?:** define si la colección se resaltará o no.
+   - **Searchable?:** define si la colección se puede buscar o no en la tienda.
+   - **From/To:** define las fechas de vigencia de la colección.
+6. Haz clic en `Save Product Cluster` para guardar la colección.
 
-Para agregar todos los productos de un determinado Departamento a un grupo, basta con seleccionar el Departamento en cuestión, como indica el ítem 1 de la figura a seguir. Lo mismo se aplica a los productos de una determinada Categoría (ítem 2) o subcategoría (ítem 3).
+### Crear una URL descriptiva para la colección
 
-![Filtro_por_categoria](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_3.jpg)
+De forma predeterminada, el link de acceso a una colección sigue el formato `https://{tienda}.com.mx/busca?fq=H:{ID-de-la-colección}`. Para usar una URL más amigable (por ejemplo, `https://{tienda}.com.mx/todos-los-productos`), marca la colección como buscable y asóciala a una carpeta del CMS con el Contexto de búsqueda configurado:
 
-### Crear Grupo por Marca
+1. Haz que la colección sea encontrable en la búsqueda marcando la flag **Searchable** en el registro de la colección. Más información en [Hacer que una colección de productos pueda buscarse](https://help.vtex.com/es/docs/tutorials/hacer-que-la-coleccion-de-productos-pueda-buscarse).
+2. Crea una carpeta con una URL personalizada. Consulta las instrucciones en el tutorial [Cómo crear landing pages con URLs personalizadas](https://help.vtex.com/es/docs/tutorials/como-crear-landing-pages-con-urls-personalizadas).
 
-Para crear un grupo con productos de una o más marcas, basta con seleccionar la marca deseada en la lista correspondiente. Las marcas se encuentran dispuestas en orden alfabética y al hacer clic en la letra correspondiente a la inicial de la marca, la lista se despliega y exhibe las marcas existentes.
+### Incluir grupos en la colección
 
-![FIltro_por_marca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_4.jpg)
+La composición de los productos de una colección está definida por los **grupos**. Para incluir grupos en una colección sigue los pasos a continuación:
 
-### Definir Grupo por productos en preventa o en periodo de lanzamiento
+1. En el Admin VTEX, accede a **Storefront > Layout > CMS > Product Clusters (Collections)**.
 
-Para crear una colección de productos que aún no fueron lanzados, selecciones &#8220;Pré-venda&#8221; en &#8220;Outras Opções&#8221;. El sistema considerará todos los productos con fecha posterior a la actual, como definido en el campo “Data de lançamento no mercado” (registro de producto). O en cambio, puede configurar la colección para considerar productos lanzados recientemente. Para ello, seleccione la opción &#8220;Lançamento&#8221;. El sistema considerará todos los productos con la fecha definida en el campo “Data de lançamento no mercado” (registro de producto) dentro del intervalo de 30 días anteriores al actual. Vea en el ejemplo abajo que es posible seleccionar uno u otro campo. En caso que quiera que ambos escenarios sean contemplados, cree dos colecciones y configure cada una con la respectiva opción.
+2. Haz clic en la colección deseada. Si tu tienda tiene más de 20 colecciones registradas, usa el campo de búsqueda de la carpeta para buscar la colección por nombre.
 
-> ⚠️ Estas opcciones son un <em>complemento</ em> a la elección de los productos. Es importante resaltar que estas flags sólo funcionarán si usted ha elegido para la colección alguna categoría, marca o combinación de SKUs. Estas flags se utilizan junto con la selección de categorías, marcas o SKUs para la colección.
+   ![Pesquisar_cole__o](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_9.gif)
 
-### Incluir SKUs específicos en un grupo
+3. Haz clic en `new group`.
 
-Al contrario de la versión anterior, en la que la inclusión de productos específicos se hacía a partir del ID del Producto, en el nuevo módulo, las inclusiones manuales se hacen usándose el SKU de un producto. En el campo correspondiente es posible digitar el ID de un SKU o de varios, separando los valores con una coma. Ej: `2000004,2000009,2000005`. Pese a la diferencia en la forma del registro, en la práctica, el efecto será el mismo, ya que al asociar un SKU a un grupo, el producto “padre” de este también será agregado a la colección. En caso que un producto tenga más de un SKU, basta con agregar uno de los SKUs al grupo, que todos los SKUs asociados se incluirán en él. El campo de inclusión de los IDs no permite la digitación de caracteres alfanuméricos, ni la utilización de la combinación de teclas `Control + C` y `Control + V`. Además, cuando el número de SKUs en el listado ultrapase los 10 ítems, un control de paginación se hará disponible. Para excluir un SKU de la lista, basta con hacer clic en el botón rojo al lado del SKU correspondiente.
+   ![Layout 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_2.png)
 
-![Inserir_sku_espec_fico](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_5.gif)
+4. En el campo **Group Name**, asigna un nombre al grupo.
 
-### Importar un listado de SKUS para el grupo
+5. En el campo **Group Type**, define el tipo de grupo, es decir, si es `Inclusive` (Inclusión) o `Exclusive` (Exclusión):
 
-Pese a que los filtros de grupos son muy prácticos para crear agrupamientos de productos en forma automática, es posible que ellos no atiendan sus necesidades en situaciones específicas. Para resolver eso, es posible importar un listado con los SKUs que formarán parte del grupo y consecuentemente, de la colección. El módulo de colecciones acepta archivos en los formatos planilla de Excel (.xls) o CSV (.csv). En el caso de archivos en formato Excel, todos los IDs de los SKUs deben estar dispuestos en la primera columna, sin encabezado, como ejemplifica la figura abajo:
+   - `Inclusive` (inclusión): agrega los productos del grupo a la colección.
+   - `Exclusive` (exclusión): remueve los productos del grupo de la colección.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_6.jpg)
+   El primer grupo creado en cualquier colección debe ser obligatoriamente del tipo **Inclusive**. Cuando una colección tiene múltiples grupos, el resultado final se calcula de la siguiente manera:
 
-Después que el sistema importa la planilla, los SKUs se presentan de la siguiente forma: ![Importar_lista_de_skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_7.gif)
+   `Productos de la colección = (suma de los grupos de inclusión) - (suma de los grupos de exclusión)`
 
-SKUs que estén inactivos no tendrán sus IDs importados, aunque estén incluidos en la planilla.
+   > ⚠️ Presta siempre atención al tipo de grupo seleccionado en el registro. Los productos agregados a un grupo del tipo `Exclusive` (exclusión) **no** se incluyen en la colección. Si también pertenecen a un grupo de inclusión, se remueven de la colección. Este es uno de los errores más frecuentes al configurar colecciones con múltiples grupos.
 
-Recuerde que, cuando se selecciona más de un tipo de grupos, sólo los productos en la intersección de esos dos conjuntos estarán en la colección. Ej.: Si selecciona la categoría AA **y** marca BB, sólo los productos que sean de esa categoría **y** de esa marca estarán en la colección. Los productos que sean de la categoría AA y de otra marca, no estarán en la colección, así como los productos de la marca BB, que sean de otras categorías, no estarán en la colección.
+6. Define qué productos formarán parte del grupo. Puedes definir la composición del grupo con base en los siguientes criterios, que pueden combinarse para lograr el resultado esperado:
 
-## Excluir múltiplos SKUs de un grupo
+   - Departamento, categoría o subcategoría
+   - Marca
+   - Periodo de lanzamiento (preventa o lanzamiento reciente)
+   - SKUs específicos (manualmente o por importación de plantilla)
 
-Para evitar que un administrador tenga que excluir manualmente diversos SKUs, uno por uno, es posible usar también el recurso de importación de SKUs de la misma forma como en el ejemplo arriba. En este caso, después que el archivo se cargue, haga clic en la opción _excluir skus_ (ítem 1 de la imagen).
+   > ⚠️ Al combinar más de un criterio en un mismo grupo, solo los productos que cumplan con **todos los criterios** seleccionados (intersección) formarán parte de él. Por ejemplo, si seleccionas la categoría AA y la marca BB, solo los productos de esa categoría **y** de esa marca se incluirán en el grupo. Los productos de la categoría AA de otras marcas o de la marca BB de otras categorías quedarán fuera.
 
-![Excluir_lista_de_skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_8.gif)
+7. Haz clic en `Save Group` para guardar la configuración del grupo.
 
-Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/catalogo/colecciones/Colecao.xls).
+#### Departamento, categoría o subcategoría
 
-## Búsqueda de coleciones
+Para agregar todos los productos de un **departamento, categoría o subcategoría** a un grupo, selecciona el departamento, categoría o subcategoría en la columna **Categories**
 
-Cuando la cantidad de colecciones creadas exceda el límite de exhibición, que es veinte ítems, las colecciones podrán ser encontradas a través del campo de búsqueda. La búsqueda debe hacerse con base en el nombre de la colección.
+![Filtro_por_categoria](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_3.jpg)
 
-![Pesquisar_cole__o](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/creando-colecciones-de-productos_9.gif)
+#### Marca
+
+Para agregar los productos de **una o más marcas** a un grupo, selecciónalas en la columna **Brands**. Las marcas están ordenadas alfabéticamente. Al hacer clic en la letra correspondiente a la inicial de la marca, la lista se expande y muestra las marcas existentes.
+
+![FIltro_por_marca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_4.jpg)
+
+#### Periodo de lanzamiento (preventa o lanzamiento)
+
+En **Other options**, selecciona una de las opciones a continuación. No es posible seleccionar las dos opciones en el mismo grupo. Si deseas contemplar ambos escenarios, crea dos grupos independientes.
+
+- **Pre-sales:** incluye productos cuya **Fecha de lanzamiento al mercado**, configurada en el registro del producto, sea posterior a la fecha actual.
+- **Launches:** incluye productos cuya **Fecha de lanzamiento al mercado** corresponda a los últimos 30 días.
+
+>⚠️ Las opciones **Pre-sales** (preventas) y **Launches** (lanzamientos) solo funcionan como complemento de una selección de categoría, marca o SKU ya realizada en el mismo grupo. Por sí solas, no devuelven productos.
+
+#### Incluir SKUs específicos en un grupo
+
+Puedes agregar SKUs específicos a un grupo manualmente, usando el campo **Find SKUs**, o en masa mediante una plantilla.
+
+Para agregar manualmente SKUs específicos a un grupo, en el campo **Find SKUs**, ingresa los IDs de uno o más SKUs, separándolos por comas (por ejemplo, `2000004,2000009,2000005`).
+
+>ℹ️ El campo de inclusión de ID no permite ingresar caracteres alfanuméricos ni usar las combinaciones de teclas `Control + C` y `Control + V`.
+
+![Inclusão manual de SKUs específicos em um grupo.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_5.gif)
+
+Para agregar SKUs específicos de forma masiva a un grupo, puedes importar una lista de SKUs utilizando una plantilla de Excel (`.xls`). Todos los IDs de los SKUs que desees incluir en el grupo deben estar en la primera columna de la plantilla, con el encabezado `SKU`.
+
+1. Haz clic en el botón `Buscar` debajo de **Bulk insert SKUs** para seleccionar la plantilla en tu computadora.
+2. Haz clic en `import skus` para importar los SKUs.
+
+   ![2017-03-08_170117](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_6.jpg)
+
+Una vez importada, la plantilla se muestra de la siguiente forma:
+
+![Importar_lista_de_skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_7.gif)
+
+Los SKUs inactivos no tendrán sus IDs importados, aunque estén incluidos en la hoja de cálculo.
+
+Al asociar un SKU a un grupo, ya sea de forma manual o en masa, el producto correspondiente también se agrega a la colección. Si este producto tiene más de un SKU, todos los demás SKUs asociados se incluyen automáticamente. Cuando la lista supera los 10 SKU, se activa un control de paginación. Para eliminar un SKU de la lista haz clic en el botón rojo que aparece a su lado.
+
+>ℹ️ Descarga el [modelo plantilla de hoja](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls) para la inclusión de SKUs en masa.
+
+#### Eliminar múltiples SKUs de un grupo
+
+Para evitar la exclusión manual de SKUs uno por uno, puedes usar el mismo recurso de importación de plantilla que se usa para [crear grupos con SKUs específicos](#skus-especificos).
+
+1. Haz clic en el botón `Buscar` debajo de **Bulk exclude SKUs** para seleccionar la plantilla en tu computadora.
+2. Haz clic en `remove skus` para excluir los SKUs.
+
+![Exclusión de una lista de SKUs de un grupo por medio de plantilla.](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/coleções/criando-colecao-de-produtos_8.gif)
+
+>ℹ️ Puedes utilizar el mismo [modelo de plantilla](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls) usada para la inclusión de SKUs en masa.
