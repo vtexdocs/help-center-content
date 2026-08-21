@@ -1,5 +1,5 @@
 ---
-title: 'Modificar los datos de registro de la tienda'
+title: 'Modificar datos de registro de la tienda'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: PUBLISHED
 createdAt: 2018-03-12T15:29:14.300Z
@@ -15,10 +15,23 @@ locale: es
 subcategoryId: 5U2vQjKfQcYeYw62mygMii
 ---
 
-Puedes realizar varias actualizaciones en los datos de registro de la tienda, tales como:
-- Corrección
-- Transferencia de responsabilidad
-- Modificación de CPF a CNPJ
-- Modificación de CNPJ
+Descubre los datos de registro de tu tienda que puedes modificar en el Admin VTEX y cuándo es necesario abrir un ticket para cambiar el documento fiscal.
 
-Para ello, es necesario que abra un [ticket](https://supporticket.vtex.com/support) comunicando su decisión al equipo Financiera y seleccione la opción correspondiente a la que desea modificar. Por ejemplo, ["Cambio de CNPJ - Transferencia de Responsabilidad contractual"](/es/docs/tutorials/como-cambiar-mi-cnpj-nuevo).
+## Modificaciones vía Admin VTEX
+
+Puedes actualizar los datos de registro de la tienda en el Admin VTEX accediendo al módulo **Facturación**, haciendo clic en el avatar con la inicial de tu email, ubicado en la esquina superior derecha de la pantalla. Después, haz clic en **Facturación** y selecciona la página que deseas visitar.
+
+Puedes modificar los siguientes datos:
+
+- **Nombre y dirección de la tienda:** edita esta información en la página **Facturación > Datos de registro**.
+- **Contactos:** agrega o edita los contactos de tu tienda en la página **Facturación > Contactos de facturación**.
+
+Más información en [Facturación - Información general](https://help.vtex.com/es/docs/tutorials/vision-general-facturacion).
+
+## Modificar el documento fiscal
+
+> ℹ️ El documento fiscal identifica legal y tributariamente a la empresa y varía según el país de operación.
+
+El documento fiscal de tu tienda no se puede modificar directamente en el Admin VTEX: hay que [abrir un ticket con el soporte financiero](https://supporticket.vtex.com/support).
+
+> ℹ️ Si tu tienda opera en Brasil, consulta el artículo [¿Cómo cambiar mi CNPJ?](https://help.vtex.com/es/docs/tutorials/como-cambiar-mi-cnpj-nuevo).
