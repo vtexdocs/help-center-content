@@ -1,18 +1,12 @@
 ---
 title: 'VTEX Pick and Pack: Worksheets'
-id: 7bUwvmTY6eOqxzhyMIIzvz
-status: PUBLISHED
 createdAt: 2024-01-03T18:38:05.781Z
-updatedAt: 2024-01-03T20:13:50.986Z
-publishedAt: 2024-01-03T20:13:50.986Z
-firstPublishedAt: 2024-01-03T19:55:03.094Z
+updatedAt: 2026-08-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-worksheets
-legacySlug: vtex-pick-and-pack-worksheets
 locale: en
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
 > ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.

@@ -1,18 +1,12 @@
 ---
 title: 'VTEX Pick and Pack: Hojas de trabajo'
-id: 7bUwvmTY6eOqxzhyMIIzvz
-status: PUBLISHED
 createdAt: 2024-01-03T18:38:05.781Z
-updatedAt: 2024-01-03T20:13:50.986Z
-publishedAt: 2024-01-03T20:13:50.986Z
-firstPublishedAt: 2024-01-03T19:55:03.094Z
+updatedAt: 2026-08-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-worksheets
-legacySlug: vtex-pick-and-pack-hojas-de-trabajo
 locale: es
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 ---
 
 > ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.

@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Ordens de serviço'
 createdAt: 2024-01-03T18:38:05.781Z
-updatedAt: 2026-07-31T00:00:00.000Z
+updatedAt: 2026-08-21T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-worksheets
