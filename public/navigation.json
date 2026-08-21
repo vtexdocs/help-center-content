@@ -16924,13 +16924,13 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Changing my store’s registration details",
-                        "es": "Modificar los datos de registro de mi tienda",
-                        "pt": "Alterar os dados cadastrais da minha loja"
+                        "en": "Changing the store information",
+                        "es": "Modificar datos de registro de la tienda",
+                        "pt": "Alterar os dados cadastrais da loja"
                       },
                       "slug": {
-                        "en": "changing-the-stores-registration-details",
-                        "es": "modificar-los-datos-de-registro-de-la-tienda",
+                        "en": "changing-the-store-information",
+                        "es": "modificar-datos-de-registro-de-la-tienda",
                         "pt": "alterar-os-dados-cadastrais-da-loja"
                       },
                       "origin": "",
