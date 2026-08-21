@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-08-04",
   "providers": [
     {
       "name": "55Pay",
@@ -1443,6 +1443,26 @@
       "countries": ["CL"]
     },
     {
+      "name": "PlataDifiere",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-platadifiere",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-platadifiere",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-platadifiere"
+      },
+      "countries": ["MX"]
+    },
+    {
+      "name": "Plexo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-plexo",
+        "en": "https://help.vtex.com/docs/tutorials/configurar-pagamento-com-plexo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pagamento-com-plexo"
+      },
+      "countries": ["US", "UY"]
+    },
+    {
       "name": "PicPay",
       "payoutSplit": false,
       "docs": {
@@ -1561,6 +1581,26 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-scalapay--4AnHnXht5bUDVNJG362DbQ"
       },
       "countries": ["IT"]
+    },
+    {
+      "name": "Serfinsa",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-serfinsa",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-serfinsa",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-serfinsa"
+      },
+      "countries": ["SV"]
+    },
+    {
+      "name": "Servicredito",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-servicredito",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-servicredito",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-servicredito"
+      },
+      "countries": ["CO"]
     },
     {
       "name": "Shipay",
@@ -1691,6 +1731,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-sumaspay--OiIQTxRkWuVoTFs5MFslm"
       },
       "countries": ["CO"]
+    },
+    {
+      "name": "Talo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-talo",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-talo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-talo"
+      },
+      "countries": ["AR"]
     },
     {
       "name": "TiendaCrypto",
@@ -1851,6 +1901,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "VindiPagamentos",
+      "payoutSplit": true,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-vindipagamentos",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-vindipagamentos",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-vindipagamentos"
+      },
+      "countries": ["BR"]
+    },
+    {
       "name": "Virtualpos",
       "payoutSplit": false,
       "docs": {
@@ -1871,6 +1931,16 @@
       "countries": ["BR"]
     },
     {
+      "name": "VisaNetGuatemala",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-visanetguatemala",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-visanetguatemala",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-visanetguatemala"
+      },
+      "countries": ["GT"]
+    },
+    {
       "name": "Wabi",
       "payoutSplit": false,
       "docs": {
@@ -1889,6 +1959,76 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-wepay4u--7xbyIPpU7PAXQNCfpVBqGC"
       },
       "countries": ["PE"]
+    },
+    {
+      "name": "Wibond",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wibond",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wibond",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wibond"
+      },
+      "countries": ["AR"]
+    },
+    {
+      "name": "Wompi",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompi",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "Wompi-Nequi",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompi-nequi",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi-nequi",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi-nequi"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "Wompi-PSE",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompi-pse",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompi-pse",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompi-pse"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "WompiBancolTrans",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompibancoltrans",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompibancoltrans",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompibancoltrans"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "WompiCoV2",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompicov2",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompicov2",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompicov2"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "Worldpay-Payments-Via-WPG",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-worldpay-payments-via-wpg",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-worldpay-payments-via-wpg",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-worldpay-payments-via-wpg"
+      },
+      "countries": ["GB"]
     },
     {
       "name": "WorldpayVTEX",

@@ -13,6 +13,7 @@ slugEN: vtex-information-security-and-privacy-certificates
 legacySlug: certificados-de-seguranca-da-informacao-e-privacidade-da-vtex
 locale: pt
 subcategoryId: vONCJSxwN5qZiElOEtKkH
+categoryCover: true
 ---
 
 A VTEX adota os mais altos padrões internacionais de segurança da informação e privacidade de dados. Para reforçar esse compromisso, mantemos certificações reconhecidas globalmente, que atestam a conformidade de nossos processos com normas e requisitos internacionais. Este artigo apresenta as certificações mantidas pela VTEX e como acessá-las.
