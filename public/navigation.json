@@ -16863,21 +16863,6 @@
                     },
                     {
                       "name": {
-                        "en": "Receiving invoices",
-                        "es": "Recibir la factura",
-                        "pt": "Receber a fatura"
-                      },
-                      "slug": {
-                        "en": "receiving-the-invoice",
-                        "es": "recibir-la-factura",
-                        "pt": "receber-a-fatura"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "How to request a platform SLA verification?",
                         "es": "¿Cómo solicitar la verificación de SLA de operación de la plataforma?",
                         "pt": "Como solicitar a apuração de SLA de operação da plataforma?"
@@ -16901,6 +16886,21 @@
                         "en": "how-to-temporarily-unblock-the-admin",
                         "es": "desbloqueio-temporal-del-admin",
                         "pt": "como-desbloquear-temporariamente-o-admin"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Receiving invoices",
+                        "es": "Recibir la factura",
+                        "pt": "Receber a fatura"
+                      },
+                      "slug": {
+                        "en": "receiving-the-invoice",
+                        "es": "recibir-la-factura",
+                        "pt": "receber-a-fatura"
                       },
                       "origin": "",
                       "type": "markdown",
