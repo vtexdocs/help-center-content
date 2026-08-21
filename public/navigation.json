@@ -8973,36 +8973,6 @@
             },
             {
               "name": {
-                "en": "Why is my store’s zoom not working?",
-                "es": "¿Por qué no funciona el zoom de mi tienda?",
-                "pt": "Por que o zoom da minha loja não funciona?"
-              },
-              "slug": {
-                "en": "why-is-my-stores-zoom-not-working",
-                "es": "por-que-no-funciona-el-zoom-de-mi-tienda",
-                "pt": "por-que-o-zoom-da-minha-loja-nao-funciona"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why is the \"thumb\" image of poor quality?",
-                "es": "¿Por qué la imagen \"thumb\" está en baja calidad?",
-                "pt": "Por que a imagem \"thumb\" está em baixa qualidade?"
-              },
-              "slug": {
-                "en": "why-is-the-thumb-image-of-poor-quality",
-                "es": "por-que-la-imagen-thumb-esta-en-baja-calidad",
-                "pt": "porque-a-imagem-thumb-esta-em-baixa-qualidade"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why is the product name duplicated?",
                 "es": "¿Por qué el producto está con nombre duplicado?",
                 "pt": "Por que o produto está com nome duplicado?"
@@ -20578,14 +20548,14 @@
                     },
                     {
                       "name": {
-                        "en": "Setting up the standard size for the zoom image",
-                        "es": "Configurar el tamaño estándar de la imagen de zoom",
-                        "pt": "Configurar o tamanho padrão da imagem de zoom"
+                        "en": "Setting up zoom and thumbnails in CMS Portal (Legacy) stores",
+                        "es": "Configurar el zoom y las miniaturas en tiendas CMS Portal (Legado)",
+                        "pt": "Configurando zoom e miniaturas em lojas CMS Portal (Legado)"
                       },
                       "slug": {
-                        "en": "setting-up-the-standard-size-for-the-zoom-image",
-                        "es": "configurar-el-tamano-estandar-de-la-imagen-de-zoom",
-                        "pt": "configurar-o-tamanho-padrao-da-imagem-de-zoom"
+                        "en": "setting-up-zoom-and-thumbnails-in-cms-portal-legacy-stores",
+                        "es": "configurar-el-zoom-y-las-miniaturas-en-tiendas-cms-portal-legado",
+                        "pt": "configurando-zoom-e-miniaturas-em-lojas-cms-portal-legado"
                       },
                       "origin": "",
                       "type": "markdown",
