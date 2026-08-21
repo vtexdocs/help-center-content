@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:59.617Z
 contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
-slugEN: receiving-the-invoice
+slugEN: receiving-invoices
 legacySlug: como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto
 locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
