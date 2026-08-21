@@ -20806,21 +20806,6 @@
                     },
                     {
                       "name": {
-                        "en": "How to configure a banner in your CMS Portal (Legacy) store",
-                        "es": "Como configurar un banner en tu tienda CMS Portal (Legado)",
-                        "pt": "Como configurar um banner em sua loja CMS Portal (Legado)"
-                      },
-                      "slug": {
-                        "en": "how-to-configure-a-banner-in-your-cms-portal-legacy-store",
-                        "es": "como-configurar-un-banner-en-tu-tienda-cms-portal-legado",
-                        "pt": "como-configurar-um-banner-em-sua-loja-cms-portal-legado"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
                         "en": "Changing a page's body class",
                         "es": "Cambiar la clase del body de una página",
                         "pt": "Mudar classe do body de uma página"
@@ -21159,6 +21144,21 @@
                         "en": "how-the-relationship-between-websites-and-business-policies-works",
                         "es": "como-funciona-la-relacion-entre-sitios-web-y-politicas-comerciales",
                         "pt": "como-funciona-a-relacao-entre-websites-e-politicas-comerciais"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "How to configure a banner in your CMS Portal (Legacy) store",
+                        "es": "Como configurar un banner en tu tienda CMS Portal (Legado)",
+                        "pt": "Como configurar um banner em sua loja CMS Portal (Legado)"
+                      },
+                      "slug": {
+                        "en": "how-to-configure-a-banner-in-your-cms-portal-legacy-store",
+                        "es": "como-configurar-un-banner-en-tu-tienda-cms-portal-legado",
+                        "pt": "como-configurar-um-banner-em-sua-loja-cms-portal-legado"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -53811,6 +53811,21 @@
                 "en": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
                 "es": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
                 "pt": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search item field does not return anything in logistics simulation",
+                "es": "El campo de búsqueda de elementos no devuelve ningún resultado en la simulación logística.",
+                "pt": "O campo de pesquisa não retorna nenhum resultado na simulação logística."
+              },
+              "slug": {
+                "en": "search-item-field-does-not-return-anything-in-logistics-simulation",
+                "es": "el-campo-de-busqueda-de-elementos-no-devuelve-ningun-resultado-en-la-simulacion-logistica",
+                "pt": "o-campo-de-pesquisa-nao-retorna-nenhum-resultado-na-simulacao-logistica"
               },
               "origin": "",
               "type": "markdown",
