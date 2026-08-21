@@ -11,7 +11,7 @@ hidden: false
 
 **Insights** é a página do Admin VTEX que apresenta dados sobre o desempenho da sua operação no VTEX Pick and Pack. No Admin VTEX, acesse **Envio > Pick and Pack > Insights**.
 
-> ⚠️ Os indicadores que dependem do status `Entregue` somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e os indicadores **Tempo do ciclo do pedido**, **Tempo de envio**, **Precisão do prazo**, **Entrega no prazo** e **OTIF** são exibidos com erro.
+> ⚠️ Os indicadores que dependem do status `Entregue` somente são calculados se a sua operação utiliza o [VTEX Pick and Pack Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile). Sem este módulo habilitado em sua loja, a VTEX não recebe a confirmação de entrega do pedido, e os indicadores **Tempo do ciclo do pedido**, **Tempo de envio**, **Precisão do prazo**, **Entrega no prazo** e **OTIF** são exibidos com erro.
 
 A página está organizada nas abas:
 
@@ -56,7 +56,7 @@ Os indicadores de desempenho avaliam o resultado dos pedidos processados na oper
 | **Taxa de separação de pedidos** | Volume de itens separados por hora na operação. | total de itens separados / horas decorridas | - |
 | **Taxa de empacotamento** | Volume de itens empacotados por hora na operação. | total de itens empacotados / horas decorridas | - |
 
-> ℹ️ O denominador do OTIF considera todos os pedidos do período, inclusive os que ainda estão em processamento, cancelados ou rejeitados. Por isso, pedidos que ainda não atingiram o status Entregue reduzem o indicador. O [Insights](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-insights) usa o status do pedido na VTEX, que pode ser atualizado para Entregue por diferentes sistemas e fluxos, como o módulo [Last Mile](https://help.vtex.com/docs/tutorials/vtex-pick-and-pack-last-mile).
+> ℹ️ O denominador do OTIF considera todos os pedidos do período, inclusive os que ainda estão em processamento, cancelados ou rejeitados. Por isso, pedidos que ainda não atingiram o status Entregue reduzem o indicador. O [Insights](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-insights) usa o status do pedido na VTEX, que pode ser atualizado para Entregue por diferentes sistemas e fluxos, como o módulo [Last Mile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-last-mile).
 
 > ℹ️ A **Taxa de backorder** considera apenas rejeições cujo motivo contém a palavra "faltante". Para que o indicador reflita a sua operação, configure o motivo de rejeição por falta de estoque utilizando esse termo.
 
