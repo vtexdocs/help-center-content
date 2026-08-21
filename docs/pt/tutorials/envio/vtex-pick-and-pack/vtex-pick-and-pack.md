@@ -1,45 +1,50 @@
 ---
 title: 'VTEX Pick and Pack'
-id: 1OOops3WrUyz7e0bnhkfXU
-status: PUBLISHED
 createdAt: 2023-04-10T15:22:56.572Z
-updatedAt: 2023-08-25T15:48:44.351Z
-publishedAt: 2023-08-25T15:48:44.351Z
-firstPublishedAt: 2023-04-10T15:42:38.221Z
+updatedAt: 2026-08-13T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: vtex-pick-and-pack
-legacySlug: vtex-pick-and-pack
 locale: pt
-subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
+hidden: false
 categoryCover: true
 ---
 
-> ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/pt-br/contato/) apontando no campo `Comentários` o nome do produto desejado.
+> ℹ️ O **VTEX Pick and Pack** não aparece disponível no Admin VTEX por padrão. Para ativar a solução na sua loja, solicite a habilitação ao time de Product Support da VTEX.
 
-**VTEX Pick and Pack** é a solução que permite aos comerciantes gerenciar a coleta, o empacotamento e a entrega de pedidos a partir de lojas físicas e estoques para endereços de clientes ou [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada). Todo o gerenciamento é feito em um só lugar, gerando maior controle e visibilidade para os comerciantes em todo o processo de fulfillment.
+**VTEX Pick and Pack** é a solução que permite aos lojistas gerenciar a separação, o empacotamento e a entrega de pedidos a partir de lojas físicas e estoques para endereços de clientes ou [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada). Todo o gerenciamento é feito em um só lugar, gerando maior controle e visibilidade para os lojistas em todo o processo de fulfillment.
 
 ## Funcionalidades
 
 Veja algumas das funcionalidades do **VTEX Pick and Pack**:
 
-* O **entregador**, responsável pela separação de itens pedido, recebe uma notificação em seu próprio dispositivo para iniciar o processo de coleta, sem ter acesso ao Admin da loja.
-* O **comerciante** pode configurar os pacotes e imprimir as etiquetas com códigos de barras, permitindo que o entregador digitalize os códigos de barras e evite problemas de coleta.
-* O **comerciante** pode habilitar a comunicação entre o entregador e o cliente para resolver cenários de substituição, recusa ou adição de itens.
-* O **comerciante** pode gerenciar a agenda do entregador durante o processo de envio, e o rastreamento do pedido ocorre em tempo real.
-* A rota do **motorista** é otimizada e compatível com o Google Maps e Waze.
-* O **motorista** pode fazer o upload de comprovantes de entrega dos pedidos, com observações, assinaturas e fotos. 
+* O separador, responsável pela separação dos itens do pedido, pode ler códigos de barras no aplicativo móvel para alterar pedidos durante a separação, sem ter acesso ao Admin da loja.
+* O lojista pode:
 
-Com o **VTEX Pick and Pack**, os comerciantes também podem obter dados e análises sobre o processo de fulfillment, adotando uma abordagem orientada a dados para melhorar o desempenho dos entregadores, otimizar as distribuições em lojas físicas e estoques e aumentar a eficiência logística em geral.
+    - Configurar pacotes e etiquetas com códigos de barras. A impressão das etiquetas dos pacotes é feita pelo separador no aplicativo móvel.
+    - Habilitar a comunicação entre o separador e o cliente para resolver cenários de substituição, recusa ou adição de itens.
+    - Acompanhar o status das entregas no Admin, a partir da integração com as transportadoras responsáveis pelo envio.
+    - Gerenciar o fluxo de retirada em loja dos pedidos.
 
-## Fulfillment, Last Mile e aplicativos móveis 
+Com o **VTEX Pick and Pack**, os lojistas também podem obter dados e análises sobre o processo de fulfillment, adotando uma abordagem orientada a dados para melhorar o desempenho dos separadores, otimizar as distribuições em lojas físicas e estoques e aumentar a eficiência logística em geral.
 
-O **VTEX Pick and Pack** é uma solução composta por:
+## Páginas do VTEX Pick and Pack
 
-* **[Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment):** aplicativo do Admin que permite a comunicação entre o entregador e o operador da loja. Os entregadores podem escanear itens usando seus dispositivos móveis e, se os operadores da loja permitirem, podem gerenciar alterações nos pedidos, como substituir, remover e adicionar itens. Os entregadores podem receber permissão para se comunicar com os clientes através de seus próprios dispositivos, sem acesso ao Admin da loja.
-* **[Last Mile](/pt/docs/tutorials/vtex-pick-and-pack-last-mile):** aplicativo do Admin para o operador da loja instruir os entregadores sobre a coleta e entrega dos pedidos no endereço dos clientes ou nos pontos de retirada. Inclui a otimização de rotas e comprovação de coleta e entrega, ou seja, o entregador pode fazer o upload de uma assinatura do cliente, uma foto ou uma observação que confirme que a entrega foi feita. 
-* **Aplicativos móveis:** aplicativos para dispositivos móveis destinados exclusivamente para entregadores, para que eles possam realizar suas atividades sem acessar o Admin da loja.
+No Admin VTEX, acesse **Envio > Pick and Pack**. A solução é composta pelas seguintes páginas, cada uma com documentação própria:
 
-> ℹ️ Os apps de **Fulfillment** e **Last Mile** para entregadores e motoristas estão disponíveis apenas para dispositivos Android.
+* **[Pedidos](/pt/docs/tutorials/vtex-pick-and-pack-pedidos):** consulta, busca e filtro dos pedidos processados pela solução.
+* **[Ordens de serviço](/pt/docs/tutorials/vtex-pick-and-pack-ordens-de-servico):** criação e acompanhamento das ordens de serviço que agrupam os pedidos para separação.
+* **[Insights](/pt/docs/tutorials/vtex-pick-and-pack-insights):** indicadores de tempo de processamento e de desempenho da operação de fulfillment.
+* **[Configurações](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes):** configurações de pedidos, ordens de serviço, itens, automação, usuários e integrações.
+* **[Last Mile](/pt/docs/tutorials/vtex-pick-and-pack-last-mile):** acompanhamento das entregas no Admin, com integração às transportadoras para retorno de status dos envios e suporte ao fluxo de retirada em loja.
 
+> ⚠️ O aplicativo móvel do **Last Mile**, destinado aos entregadores, foi descontinuado em 2024. O Last Mile permanece disponível apenas no Admin VTEX.
+
+Além das páginas do Admin, a solução conta com o **[aplicativo móvel](/pt/docs/tutorials/vtex-pick-and-pack-mobile)**, destinado exclusivamente aos separadores, para que eles possam realizar suas atividades sem acessar o Admin da loja.
+
+> ℹ️ O aplicativo móvel do **VTEX Pick and Pack** está disponível apenas para dispositivos Android.
+
+## Saiba mais
+
+* [VTEX Pick and Pack: FAQ](/pt/docs/tutorials/vtex-pick-and-pack-faq)
+* [Fluxo e status de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos)
