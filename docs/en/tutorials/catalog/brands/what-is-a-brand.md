@@ -1,5 +1,5 @@
 ---
-title: 'What is a Brand?'
+title: 'Brands'
 id: QU07yhHoaWcEYseEucOQW
 status: PUBLISHED
 createdAt: 2018-01-25T21:48:56.054Z
@@ -13,7 +13,6 @@ slugEN: what-is-a-brand
 legacySlug: what-is-a-brand
 locale: en
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
-order: 1
 ---
 
 __The Brand is one of the attributes of a product__, as well as its name and description. 

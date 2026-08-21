@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a VTEX Search (Legado)'
+title: 'VTEX Search (Legado)'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z
@@ -13,6 +13,7 @@ slugEN: how-does-vtex-search-legacy-work
 legacySlug: como-funciona-a-vtex-search-legado
 locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
+categoryCover: true
 ---
 
 Este artigo tem o objetivo de descrever o funcionamento do sistema de VTEX Search (Legado).

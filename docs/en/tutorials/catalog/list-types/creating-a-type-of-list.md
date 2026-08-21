@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Creating a list type'
 id: tutorials_254
 status: PUBLISHED

@@ -1,5 +1,5 @@
 ---
-title: 'How can my customer login to my store?'
+title: 'Customer login and authentication'
 id: 3FCNpwbpZe0U4auiI4CC0C
 status: PUBLISHED
 createdAt: 2018-10-15T21:25:25.230Z
