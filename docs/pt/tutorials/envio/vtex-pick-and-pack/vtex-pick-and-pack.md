@@ -7,6 +7,7 @@ productTeam: Post-purchase
 slugEN: vtex-pick-and-pack
 locale: pt
 hidden: false
+categoryCover: true
 ---
 
 > ℹ️ O **VTEX Pick and Pack** não aparece disponível no Admin VTEX por padrão. Para ativar a solução na sua loja, solicite a habilitação ao time de Product Support da VTEX.

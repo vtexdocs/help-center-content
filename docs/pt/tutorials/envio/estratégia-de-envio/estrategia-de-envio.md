@@ -13,6 +13,7 @@ slugEN: shipping-strategy
 legacySlug: estrategia-de-envio, qual-a-diferenca-entre-estoque-e-doca
 locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
+categoryCover: true
 ---
 
 Estratégia de envio é a relação entre estoque, doca e política de envio. A forma que   estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
