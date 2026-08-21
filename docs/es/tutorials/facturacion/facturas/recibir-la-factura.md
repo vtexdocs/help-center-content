@@ -15,14 +15,10 @@ locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-> ⚠️ Este procedimiento es apenas para clientes facturados en **Brasil**.
+VTEX utiliza un modelo de cobro pospago, lo que significa que el cobro se realiza después del periodo de uso de la plataforma. Por eso, la factura se emite al final de cada mes y se envía por email a los contactos registrados en la cuenta.
 
-La facturación se dispara hasta el quinto día hábil del mes. La factura y el boleto bancario están disponibles en el módulo __Facturas__ del Admin de su tienda.
+> ℹ️ Para cambiar los contactos que reciben la factura y demás comunicaciones financieras, consulta el artículo [Modificar los datos de registro de mi tienda](https://help.vtex.com/es/docs/tutorials/modificar-los-datos-de-registro-de-la-tienda).
 
-Cuando se realiza un cobro, enviamos un e-mail a los contactos registrados avisando de que la factura y el boleto bancario ya están disponibles para el pago o la consulta.
+Si no recibiste la factura por email puedes descargarla en el Admin. Más información en [Cómo descargar las facturas de VTEX](https://help.vtex.com/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
 
-Si no ha recibido el aviso hasta el quinto día hábil del mes, [consulte su panel administrativo](/es/docs/tutorials/como-descargar-las-facturas-de-vtex). Si identifica alguna divergencia, [entre en contacto](https://supporticket.vtex.com/support) con nuestro equipo financiero.
-
-Si no puede descargar su boleto bancario, es posible que no tenga un perfil financiero configurado en la cuenta de la tienda. En este caso, solicite al Super Admin de la cuenta que lo agregue.  
-
-Si no está recibiendo el correo electrónico que informa que el boleto bancario está disponible para descargar en la plataforma, es posible que el correo electrónico no esté registrado como contacto financiero. En este caso, abra un [ticket](https://supporticket.vtex.com/support) para solicitar la inclusión del correo electrónico en los contactos financieros de la cuenta.
+> ⚠️ Para tiendas con facturación en Brasil, el boleto de pago también se envía por email a los contactos registrados en la cuenta.
