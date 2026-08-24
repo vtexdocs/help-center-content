@@ -67,8 +67,8 @@ Para configurar automaticamente a planilha acesse __Dados > Texto para colunas,_
 
 O template da tabela de medidas para calçados possui as seguintes colunas:  
 
-| **Coluna** | **Descrição** | **Preenchimento** |
-|:---:|:---:|:---:|
+| Coluna | Descrição | Preenchimento |
+|---|---|---|
 | **Foot Length** | Medida em centímetros do tamanho do pé | Preencha cada linha com a medida em centímetros dos tamanhos que serão preenchidos nas próximas colunas. Por exemplo, 45 cm |
 | **Foot Length to** | Medida em centímetros do tamanho máximo que o pé deve ter para se acomodar no respectivo tamanho | Preencha cada linha com a medida em centímetros dos tamanhos máximos que serão preenchidos nas próximas colunas. Por exemplo, 50 cm.  |
 | **Manufacturer Size** | Número da medida padrão de tamanho da marca do produto selecionado | Preencha cada linha com a medida padrão da marca do produto |
@@ -81,8 +81,8 @@ O template da tabela de medidas para calçados possui as seguintes colunas:
 
 O template da tabela de medidas para roupas da parte superior possui as seguintes colunas:  
 
-| **Coluna** | **Descrição** | **Preenchimento** |
-|:---:|:---:|:---:|
+| Coluna | Descrição | Preenchimento |
+|---|---|---|
 | **Size** | Tamanho da roupa. | Preencha cada linha com os tamanhos da roupa. Por exemplo, GG. |
 | **Filtrable_size** | Tamanho filtrável disponível para a categoria. | Preencha cada linha com o tamanho disponível para filtro. Por exemplo, XG. |
 | **Chest_circumference_from** | Circunferência do peito (tórax) - início do intervalo de medidas. | Preencha cada linha com a medida mínima em centímetros do tamanho do tórax. Por exemplo, 80 cm. |
@@ -100,8 +100,8 @@ O template da tabela de medidas para roupas da parte superior possui as seguinte
 
 O template da tabela de medidas para roupas da parte inferior possui as seguintes colunas:
 
-| **Coluna** | **Descrição** | **Preenchimento** |
-|:---:|:---:|:---:|
+| Coluna | Descrição | Preenchimento |
+|---|---|---|
 | **Size** | Tamanho da roupa. | Preencha cada linha com os tamanhos da roupa. Por exemplo, GG. |
 | **Filtrable_size** | Tamanho filtrável disponível para a categoria. | Preencha cada linha com o tamanho disponível para filtro. Por exemplo, 44. |
 | **Waist_circumference_from** | Circunferência da cintura - início do intervalo de medida. | Preencha cada linha com a medida mínima da largura da cintura em centímetros. Por exemplo, 70 cm. |

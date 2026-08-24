@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 El boleto registrado es una forma de pago que contiene datos sensibles del cliente que está realizando la compra.
 
-Cuando un cliente rellena sus datos para cerrar un pedido, la información de __Primero nombre, __Último nombre, __CPF__ etc. se utiliza para generar el boleto registrado.
+Cuando un cliente rellena sus datos para cerrar un pedido, la información de __Primero nombre,__ Último nombre, __CPF__ etc. se utiliza para generar el boleto registrado.
 
 Esta información se guarda en el perfil del cliente y se muestra en el boleto registrado. De esta manera, la autenticación funciona como una medida de seguridad para que los defraudadores no puedan acceder a esa información.
 

@@ -125,8 +125,8 @@ The name will show in white letters against a dark background and can’t be cha
 
 The table below describes the format and limit for each type of asset on Bundle studio, depending on the [layout](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) settings:
 
-| **Asset type** | **General information** | **Landscape view - Horizontal (16:9)** | **Portrait view - Vertical (9:16)** |
-| :---: | :--- | :---: | :---: |
+| Asset type | General information | Landscape view - Horizontal (16:9) | Portrait view - Vertical (9:16) |
+| --- | --- | --- | --- |
 | Banners | You can customize the following aspects of banners:<ul><li>Color</li><li>Text</li><li>Pinned or scrolling</li></ul> | Equal | Equal |
 | Overlay | **Size limit:** 20 MB / **Extensions:** png | **File size:** 1280 x 720 pixels | **File size:** 720 x 1280 pixels |
 | Background | **Size limit:** 20 MB / **Extensions:** png, jpg, jpeg | **File size:** 1280 x 720 pixels | **File size:** 720 x 1280 pixels |

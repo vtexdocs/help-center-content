@@ -30,8 +30,8 @@ Nesta seção você encontra as seguintes informações:
 
 ## Características dos dados
 
-| **Característica** | **Descrição** |
-|:---:|:---:|
+| Característica | Descrição |
+|---|---|
 | **Origem do dado** | Os dados desse conjunto se origina do [módulo de Pagamentos da VTEX](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos). Eles são coletados e organizados de modo a refletir as transações e os pagamentos realizados na plataforma. |
 | **Disponibilidade** | Os dados de navegação podem ser acessados somente no Admin da VTEX. |
 | **Histórico** | Os dados são mantidos por dois anos, a partir de 2023 para clientes que já utilizam a plataforma VTEX. Os dados da tabela `transactions_interactions` só possuem o histórico desde 07/05/24 (dd/mm/yy).|
@@ -41,8 +41,8 @@ Nesta seção você encontra as seguintes informações:
 
 A tabela `payments_transitions` armazena informações detalhadas sobre os pagamentos, incluindo o conector e o meio de pagamento usado em cada transação. Veja a seguir os campos que compõem a tabela.  
 
-| **Nome da Coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|---|
+| Nome da Coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | batch_id | character varying(13) | ID de controle do lote de ingestão de dados. |
 | event_date_time | timestamp with time zone | Data e hora da transição, incluindo informações de fuso horário. |
 | account | character varying(128) | Nome da conta, mapeado para 'account_name' no License Manager da VTEX. |
@@ -63,8 +63,8 @@ A tabela `payments_transitions` armazena informações detalhadas sobre os pagam
 
 A tabela `transaction_transitions` armazena as transações, que estão vinculadas aos pedidos realizados. Cada transação contém um conjunto de pagamentos e muda de status, de acordo com um fluxo de trabalho pré-definido. Veja a seguir os campos que compõem a tabela.
 
-| **Nome da Coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|---|
+| Nome da Coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | batch_id | character varying(13) | ID de controle do lote de ingestão de dados. |
 | event_date_time | timestamp with time zone | Data e hora da transição, incluindo informações de fuso horário. |
 | account | character varying(128) | Mapeia para um 'account_name' no sistema de gerenciamento de licenças da VTEX. |
@@ -88,8 +88,8 @@ A tabela `transaction_transitions` armazena as transações, que estão vinculad
 
 Esta tabela rastreia atualizações de transações por meio de várias interações. Abaixo está uma descrição detalhada de cada campo:
 
-| **Nome da Coluna** | **Tipo da Coluna** | **Descrição da coluna** |
-|:----------------:|:----------------:|-----------|
+| Nome da Coluna | Tipo da Coluna | Descrição da coluna |
+|----------------|----------------|-----------|
 | key_id | character varying(35) | Identificador único da interação. Representa o ID da interação. |
 | key_transaction_id | character varying(35) | Identificador único da transação relacionada. |
 | payment_id | character varying(120) | Identificador único do pagamento. Este campo **não é obrigatório**. |
@@ -105,8 +105,8 @@ Esta tabela rastreia atualizações de transações por meio de várias interaç
 
 Esta tabela consolida detalhes sobre autorizações de pagamento, rastreando informações-chave sobre cada transação, incluindo avaliação de risco, detalhes de pagamento e controle de ingestão. Abaixo está uma descrição de cada campo:
 
-| **Nome da Coluna** | **Tipo da Coluna** | **Descrição da coluna** |
-|:----------------:|:----------------:|-----------|
+| Nome da Coluna | Tipo da Coluna | Descrição da coluna |
+|----------------|----------------|-----------|
 | account | character varying(63) | Nome da conta associada à transação. Sempre será igual ao `merchant_name`. |
 | merchant_name | character varying(63) | Nome do comerciante onde a transação ocorreu. Sempre será igual ao `account`. |
 | transaction_start_date | timestamp with time zone | Data e hora em que a autorização ocorreu, incluindo a informação de fuso horário. |
@@ -124,8 +124,8 @@ Esta tabela consolida detalhes sobre autorizações de pagamento, rastreando inf
 
 Esta tabela contém os metadados de transações de pagamento, incluindo informações detalhadas sobre valores, status, afiliados, conectores de pagamento, análise antifraude, parcelamentos e dados de origem.
 
-| **Nome da Coluna**  | **Tipo da coluna**    | **Descrição da coluna** |
-|:---------------:|:------------:|----------|
+| Nome da Coluna  | Tipo da coluna    | Descrição da coluna |
+|---------------|------------|----------|
 | id    | character varying(65535)   | ID único da transação à qual este pagamento pertence. |
 | transaction_value   | double precision   | Valor do pagamento no formato decimal. |
 | status_transaction | character varying(65535) | Último estado da transação. |

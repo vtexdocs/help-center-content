@@ -26,7 +26,7 @@ Antes, la indexación llevaba mucho tiempo, era costosa y más inestable, lo que
 
 Aplicamos dos cambios principales para lograr este resultado:
 
-| **Antes** | **Después** |
+| Antes | Después |
 |---|---|
 | **Indexación generalizada:** la actualización de cualquier dato en el registro del producto o SKU, en el precio o en el stock, requería el reprocesamiento de toda la información. | **Indexación granular:** empezamos a diferenciar los cambios realizados en los precios, en el stock y en el Catálogo para procesar solo lo que se ha modificado, en lugar de procesar la información de todos los módulos en cualquier escenario. También hemos perfeccionado los cambios que activan la indexación, evitando activaciones innecesarias. |
 | **Indexación global:** para que la versión más actualizada de un ítem estuviera disponible en la tienda y en los resultados de búsqueda, era necesario volver a procesar la información de todos los SKU del producto, de todos sus sellers y de todas las políticas comerciales relacionadas. | **Indexación por seller:** ahora procesamos solo el SKU en el seller que tuvo algún cambio en lugar de reprocesar todos los SKU en todos sus sellers. |

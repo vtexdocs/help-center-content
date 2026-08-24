@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
+> ℹ️ Para exibir a disponibilidade de SKUs de acordo com a localização do comprador, a VTEX recomenda a ativação da [Delivery Promise](/pt/docs/tutorials/delivery-promise-beta) em vez da Regionalização. Além de ser mais precisa, a Delivery Promise habilita filtros e selos por opções de envio na navegação, como entrega no mesmo dia e retirada em pontos de retirada próximos. A funcionalidade está em [fase Open Beta](/pt/announcements/2026-07-01-delivery-promise-em-open-beta). Para verificar a elegibilidade da sua loja e solicitar a ativação, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
+
 A Regionalização é uma funcionalidade do [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) que permite otimizar os resultados de busca de acordo com a disponibilidade de sellers na região do cliente. Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso artigo [Search](https://developers.vtex.com/docs/guides/search-overview).
 
 A Regionalização  utiliza um comportamento do VTEX Intelligent Search — a [Disponibilidade](/pt/docs/tutorials/disponibilidade). Ela busca os produtos disponíveis no estoque dos sellers que atendem a uma determinada região.
@@ -25,12 +27,12 @@ Com a Regionalização ativada, uma vez que um cliente informa seu código posta
 
 Para começar a utilizar a Regionalização, você precisa seguir as etapas abaixo.
 
-1. [Configuração de sellers](#1-configuracao-de-sellers)
-    - [Seller 1](#seller-1)
-    - [Seller White Label](#seller-white-label)
-    - [Seller Abrangente](#seller-abrangente)
-2. [Solicitação para ativar a Regionalização](#2-solicitacao-para-ativar-a-regionalizacao)
-3. [Configuração no VTEX IO](#3-configuracao-no-vtex-io)
+- [1. Configuração de sellers](#1-configuração-de-sellers)
+  - [Seller 1](#seller-1)
+  - [Seller White Label](#seller-white-label)
+  - [Seller Abrangente](#seller-abrangente)
+- [2. Solicitação para ativar a Regionalização](#2-solicitação-para-ativar-a-regionalização)
+- [3. Configuração no VTEX IO](#3-configuração-no-vtex-io)
 
 > ⚠️ Apesar de lojas regionalizadas mostrarem apenas produtos disponíveis em uma determinada região na página de listagem de produtos, os filtros não levam em consideração a regionalização. Por conta dessa limitação, é possível que os clientes da loja selecionem valores de filtros que resultam em produtos indisponíveis em sua região.
 

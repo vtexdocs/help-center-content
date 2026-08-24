@@ -32,7 +32,7 @@ La página te permite realizar las siguientes acciones:
 
 En la lista de productos, puedes ver la siguiente información:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 |----|----|
 | **Nombre** | Nombre que identifica el producto, definido al crearlo. Debajo del nombre, la página muestra el ID del producto, es decir, el código identificador único del producto.Junto al nombre, cada fila muestra una flecha <i class="fas fa-chevron-right"></i> para [ver la lista de SKUs](#ver-la-lista-de-skus) asociada al producto, un icono que representa la [disponibilidad del producto](#monitorear-disponibilidad-de-los-productos) y la imagen registrada para el producto.|
 | **Última actualización** | Fecha de [indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) más reciente del producto. Para ver los detalles de este proceso, consulta la sección [Ver detalles de indexación](#ver-detalles-de-indexacion). |
@@ -76,8 +76,8 @@ Puedes filtrar la lista de productos por los criterios que se listan a continuac
 
 La siguiente tabla describe el significado de las opciones del filtro `Status`:
 
-| **Tipo de status** | **Descripción** |
-| :---: | :--- |
+| Tipo de status | Descripción |
+| --- | --- |
 | Activo | El producto se considera activo cuando el retailer activa la configuración del status en el producto para demostrar que desea venderlo.Para poder venderlo, el producto debe estar activo. Sin embargo, la activación no garantiza su disponibilidad, ya que un producto disponible debe cumplir con otros factores, como precio, stock, entre otros. Consulta más información en [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
 | Inactivo | El producto se considera inactivo cuando el retailer desactiva la configuración de status para indicar que no desea venderlo en ese momento.Todo producto inactivo se clasifica como no disponible para la venta. |
 
@@ -85,8 +85,8 @@ La siguiente tabla describe el significado de las opciones del filtro `Status`:
 
 En la página **Productos y SKUs** cada producto tiene un ícono de color que indica la disponibilidad para la venta. Al pasar el mouse sobre el ícono, se muestra cierta información que se detalla a continuación:
 
-| **Color del ícono** | **Nombre** | **Significado** |
-| :---: | :---: | :--- |
+| Color del ícono | Nombre | Significado |
+| --- | --- | --- |
 | Verde | `Disponible para la venta` | El producto tiene status activo y está disponible para la venta en la tienda; además tiene por lo menos una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) asociada. |
 | Naranja | `Producto no disponible` | El producto no está disponible para la venta a pesar de tener status activo. Es decir, el retailer configuró el status para indicar que desea venderlo, pero por el momento no está disponible.La indisponibilidad del producto puede deberse a diferentes motivos, como precio, stock, logística, entre otros. Para más información, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
 | Blanco | `Inactivo en el catálogo` | El producto está deshabilitado y tiene status inactivo.Los retailers desactivan un producto cuando no desean venderlo y en estos casos el seguimiento de la disponibilidad no se aplica. |

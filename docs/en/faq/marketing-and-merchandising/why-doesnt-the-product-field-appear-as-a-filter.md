@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-doesnt-the-product-field-appear-as-a-filter
 ---
 
-In the category, you can register a product field – or product specification. In the product field, you can select two options of filters: **Link no Menu Superior **and **Link no Menu Lateral. ** These links will form the filters in the main or side menus.  However, for this to happen, the field created must have one of the following types:
+In the category, you can register a product field – or product specification. In the product field, you can select two options of filters: **Link no Menu Superior** and **Link no Menu Lateral.** These links will form the filters in the main or side menus.  However, for this to happen, the field created must have one of the following types:
 
 - **Combo**
 - **Radio**

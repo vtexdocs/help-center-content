@@ -87,7 +87,7 @@ O VTEX Ads usa um modelo de **atribuição consolidada**, que considera tanto o 
 
 Todos os formatos são atribuídos por clique e por visualização. Para produtos patrocinados, a atribuição por visualização usa janela de um dia. Para banner, banner em vídeo e marcas patrocinadas, a janela de visualização é de 14 dias.
 
-> ℹ️ A atribuição por visualização depende do **evento de *view***, um sinal técnico enviado pelo publisher à plataforma que registra que o usuário visualizou o anúncio. Publishers que não enviam o evento de *view* não geram conversões atribuídas por visualização.
+> ℹ️ A atribuição por visualização depende do **evento de *view***, um sinal técnico enviado pelo publisher à plataforma que registra que o usuário visualizou o anúncio. Publishers que não enviam o evento de* view* não geram conversões atribuídas por visualização.
 
 ### Prioridade de atribuição (Last Touch)
 

@@ -21,7 +21,7 @@ Something very important to know about data collection on the VTEX CX Platform i
 
 You can download these archived data by accessing the settings panel. At the bottom of the page, it will show the number of files and their records.
 
-You can access both the content of the **Messages **table and the **Runs **table. To view either, simply click the button highlighted in yellow.
+You can access both the content of the **Messages** table and the **Runs** table. To view either, simply click the button highlighted in yellow.
 
 The files from the Messages table will start with the prefix "message." To download the files, simply click on the highlighted icon next to the date.
 

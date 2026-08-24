@@ -1,5 +1,5 @@
 ---
-title: 'Styles - Overview'
+title: 'Styles'
 id: v0Db5ohEKSFIkTzSwCjVi
 status: PUBLISHED
 createdAt: 2022-01-04T21:56:41.366Z
@@ -13,7 +13,6 @@ slugEN: styles-overview
 legacySlug: styles-overview
 locale: en
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
-order: 1
 ---
 
 The **Styles** page allows you to define the typography and color palette of your store’s website.
@@ -26,7 +25,7 @@ To access it, log in to VTEX Admin, access **Storefront > Styles**, and check ou
   To apply and preview the changes in your store's styles, make sure to use a workspace that supports production traffic, i.e., [production workspaces](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace)). 
 </div>
 
-| **Tool** | **Description** |
+| Tool | Description |
 | -------- | --------------- |
 | Styles   | A list of colors and typography styles created for your store’s website. |
 | More options | Edit or duplicate a style template.       |

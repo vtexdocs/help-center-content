@@ -88,7 +88,7 @@ All the releases are listed in the VTEX Admin, in **Store Settings > Releases**.
 
 On the `SCHEDULED` tab, each column is described as follows:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | Name | Name identifying the release, set in the creation stage. You can edit the name anytime since the release has not already been published. |
 | Last modified | The amount of time since the last change was made to the release, such as updating, adding, or deleting content. |

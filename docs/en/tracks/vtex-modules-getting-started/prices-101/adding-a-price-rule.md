@@ -44,7 +44,7 @@ To add a **price rule**, you need to send a __POST__ to the following endpoint:
 
 - The request object has the following properties:
 
-| __Properties__ | __Types__ | __Description__ |
+| Properties | Types | Description |
 |------------------|-----------|-------------|
 | tradePolicyId | string | ID of the price table in which the rule will be applied |
 | rules | array | Price rule criteria |
@@ -62,7 +62,7 @@ To add a **price rule**, you need to send a __POST__ to the following endpoint:
 
 - The response object has the following properties:
 
-| __Properties__ | __Types__ | __Description__ |
+| Properties | Types | Description |
 |------------------|-----------|-------------|
 | tradePolicyId | string | ID of the price table in which the rule will be applied |
 | rules | array | Price rule's object array to be applied to the price table |

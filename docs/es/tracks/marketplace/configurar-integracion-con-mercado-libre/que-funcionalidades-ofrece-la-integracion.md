@@ -18,8 +18,8 @@ order: 11
 Después de finalizar la [integración](/es/docs/tutorials/como-funciona-la-integracion-del-mercado-libre) de tu tienda VTEX con Mercado Libre, no solo compartirás tus productos y gestionarás los pedidos que se realicen a través del *marketplace*, sino que también actualizarás los precios, los productos y los puntos de recogida, además del stock, todo en un solo lugar.  
 Además de la integración básica y para que puedas aprovechar al máximo la integración, a continuación, incluimos cuáles son las funcionalidades y para qué se utiliza cada una.  
 
-| **Funcionalidad** | **Descripción** |
-|:---:|:---:|
+| Funcionalidad | Descripción |
+|---|---|
 | [Migrar anuncios en Mercado Libre](/es/docs/tutorials/migrar-anuncios-en-mercado-libre) | Destinado a los sellers que migran de plataforma de ecommerce. Aquí, aprenderás cómo migrar a la plataforma de VTEX los anuncios registrados en Mercado Libre. |  
 | [Facturas en Mercado Libre](/es/docs/tutorials/facturas-de-mercado-libre) | Los sellers que ya hicieron la integración en Mercado Libre podrán consultar y descargar las facturas generadas en la plataforma del marketplace. |  
 | [Match de anuncios de Mercado Libre](/es/docs/tracks/match-de-anuncios-de-mercado-libre) | Evalúa los anuncios del vendedor para sugerir oportunidades de catálogo en Mercado Libre. |  
