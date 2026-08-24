@@ -49,7 +49,7 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 2. Clique na aba **Aplicações.**
 3. Clique em visualizar (ícone da direita) correspondente à entidade de dados desejada.
 ![visualizar button master data](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/segurança-para-lojistas/direitos-dos-titulares-de-dados-pessoais_1.png)
-4. Use o [filtro do Master Data v1](/pt/docs/tutorials/filtrando-dados-no-master-data#how-to-use-filters) para filtrar apenas os dados referentes ao usuário desejado. Use o `email` ou `ID do usuário` como campo do filtro.
+4. Use o [filtro do Master Data v1](/pt/docs/tutorials/filtrando-dados-no-master-data) para filtrar apenas os dados referentes ao usuário desejado. Use o `email` ou `ID do usuário` como campo do filtro.
 5. Clique no botão `Exportar XLS`.
 6. Selecione a opção `Selecionar todos os campos`.
 7. Caso deseje, altere o email para o qual deseja enviar o relatório.
@@ -57,7 +57,7 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 
 Repita este passo a passo para as entidades de dados de clientes (**CL**), endereços (**AD**) e quaisquer outra que tenha configurado para receber informações pessoais de seus clientes.
 
-> ℹ️ Saiba mais sobre como [filtrar dados](/pt/docs/tutorials/filtrando-dados-no-master-data#how-to-use-filters) e [exportar dados](/pt/docs/tutorials/exportando-dados). na interface do Master Data v1.
+> ℹ️ Saiba mais sobre como [filtrar dados](/pt/docs/tutorials/filtrando-dados-no-master-data) e [exportar dados](/pt/docs/tutorials/exportando-dados). na interface do Master Data v1.
 
 #### Master Data v2
 
@@ -89,9 +89,13 @@ Seus clientes podem exercer seu direito de consentimento e de retificação de d
 
 ## Consentimento
 
-O direito de consentimento dá aos seus clientes a oportunidade de manifestar seu aceite, geralmente documentado por um opt-in em um checkbox,  sobre como e para quê os dados são tratados.   
+> ℹ️ As orientações abaixo refletem práticas comuns adotadas por lojas VTEX, mas não substituem uma análise jurídica sobre a base legal aplicável à sua operação.
 
-O consentimento não é necessário em todas as situações. Se você utilizar informações mínimas para completar um pedido (nome, endereço, cartão de crédito), ou emitir uma nota fiscal (CPF, itens da compra), o consentimento explícito não é necessário. Contudo, ele é necessário para algumas opções que clientes têm na sua loja. Veja abaixo quais são estas opções e como configurar, caso seja necessário.
+O direito de consentimento dá aos seus clientes a oportunidade de manifestar seu aceite, geralmente documentado por um opt-in em um checkbox, sobre como e para quê os dados são tratados.
+
+O consentimento é uma das bases legais previstas para o tratamento de dados pessoais, mas não é a única aplicável a toda situação. Para finalidades como a execução de um pedido (nome, endereço, forma de pagamento) ou a emissão de nota fiscal (CPF, itens da compra), outras bases legais como execução de contrato ou cumprimento de obrigação legal podem ser aplicáveis, a depender da análise da sua operação.
+
+Ainda assim, o consentimento costuma ser adotado como boa prática em algumas funcionalidades da loja, descritas abaixo. Recomendamos que você avalie, com apoio jurídico, qual a base legal mais adequada para cada finalidade de tratamento de dados na sua loja.
 
 ### Inscrição em newsletter
 
@@ -105,7 +109,7 @@ Caso seja necessário, seu time de desenvolvimento pode [ajustar diretamente a o
 
 A plataforma VTEX permite [configurar automação de carrinho abandonado](/pt/docs/tutorials/configurar-carrinho-abandonado). Ou seja, configurar o envio automático de emails para clientes que acessaram a sua loja, adicionaram produtos ao carrinho e finalizaram a sessão sem comprar.
 
-Para garantir o direito de consentimento para esta finalidade específica, você deve [configurar sua automação de carrinho abandonado](/pt/docs/tutorials/configurar-carrinho-abandonado) de modo a permitir o envio de email apenas a clientes [inscritos na newsletter da loja](#inscricao-em-newsletter). Clientes inscritos na newsletter têm o campo `isNewsletterOptIn` configurado como `true` na entidade **CL** do [Master Data v1](/pt/docs/tutorials/master-data).
+Como boa prática, recomendamos [configurar sua automação de carrinho abandonado](http://help.vtex.com/pt/docs/tutorials/configurar-carrinho-abandonado) de modo a permitir o envio de e-mail apenas a clientes [inscritos na newsletter da loja](#inscricao-em-newsletter), ou seja, clientes que têm o campo `isNewsletterOptIn` configurado como `true` na entidade **CL** do [Master Data v1](http://help.vtex.com/pt/docs/tutorials/master-data). Essa configuração ajuda a alinhar essa comunicação a uma prática de consentimento, mas recomendamos avaliar com seu time jurídico qual a base legal mais adequada para esta finalidade na sua operação.
 
 ### Avise-me
 
