@@ -1,5 +1,5 @@
 ---
-title: 'What is a Subcategory?'
+title: 'Subcategories'
 id: 2cb0aRkG3i6AeiAMM24iwY
 status: PUBLISHED
 createdAt: 2018-01-25T20:50:31.252Z
@@ -24,7 +24,7 @@ Subcategories are organized by hierarchical levels, such as a family, so the Par
 
 While creating subcategories for your store, think about the structure of what you sell. If you have a furniture store, you can have the categories Sofa, Bed and Bookcase, and the following subcategories:
 
-__Sofa (Father)__
+__Sofa (Parent)__
 
 2 places (Child)
 
@@ -34,7 +34,7 @@ __Sofa (Father)__
 
 ---
 
-__Bed (Father)__
+__Bed (Parent)__
 
 Single (Child)
 
@@ -46,7 +46,7 @@ King (Child)
 
 ---
 
-__Bookcase (Father)__
+__Bookcase (Parent)__
 
 2 shelves (Child)
 

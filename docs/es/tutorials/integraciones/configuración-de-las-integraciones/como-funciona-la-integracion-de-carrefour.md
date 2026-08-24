@@ -89,7 +89,7 @@ _`Ejemplo 1:` una promoción que ofrece un 10% de descuento para una determinada
 
 _`Ejemplo 2:` En la política comercial utilizada en Carrefour, un SKU tiene un precio de $ 10 y un precio fijo de $ 15. El valor que la integración envía al marketplace es $ 15._
 
-> ⚠️ **Atención:** como la forma de pago se da en el marketplace, las reglas de pago también se determinan por él. A causa de ello, la integración no consigue enviar precios diferenciados de acuerdo con la forma de pago. <br/ > *Ejemplo: si en VTEX está configurada la incidencia de interés para pagos parcelados, el precio enviado seguirá siendo el que fue devuelto por la simulación de fulfillment.*
+> ⚠️ Como la forma de pago se da en el marketplace, las reglas de pago también se determinan por él. A causa de ello, la integración no consigue enviar precios diferenciados de acuerdo con la forma de pago. <br/ > *Ejemplo: si en VTEX está configurada la incidencia de interés para pagos parcelados, el precio enviado seguirá siendo el que fue devuelto por la simulación de fulfillment.*
 
 ## 4. Promociones
 A diferencia de una promoción que se utiliza para el sitio web de su tienda, una promoción para el marketplace sólo descuenta el valor del producto, pero sin indicar que es una promoción. Es decir, el precio enviado ya está modificado y no hay un sello de promoción.

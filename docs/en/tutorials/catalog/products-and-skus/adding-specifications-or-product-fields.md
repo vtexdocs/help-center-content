@@ -37,7 +37,7 @@ In this article, we explain how the specification inheritance works for the adde
 
 ## Product specifications inheritance
 
-Before creating any specifications, it's important to understand that they follow a "inheritance" logic, i.e. when you create a specification for a higher category level, it will appear in all the sublevels of that category. Therefore, if you want to create a product specification applicable to one category only, you must create it at that category level.
+Before creating any specifications, it's important to understand that they follow an "inheritance" logic, i.e. when you create a specification for a higher category level, it will appear in all the sublevels of that category. Therefore, if you want to create a product specification applicable to one category only, you must create it at that category level.
 
 Consider the **TV** product for example. In __Catalog > All products > Edit > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the TV's category. This group includes a field named **Inches** and a field named **Age group**, which are mandatory.
 
@@ -57,14 +57,14 @@ To create a product field, follow the steps below:
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click on **Categories**.
-3. Click the category associated with the specification group you want to create the field.
+3. Click the category associated with the specification group in which you want to create the field.
 
     Please note that when you create a specification for a higher-level category, it will appear in all the sublevels of that category.
 
-3. Click `Actions` <i class="fas fa-angle-down"></i>.
-4. Click `Field (Product)`.
-5. Click `New field`.
-6. Fill in the information related to the field you are creating:
+4. Click `Actions` <i class="fas fa-angle-down"></i>.
+5. Click `Field (Product)`.
+6. Click `New field`.
+7. Fill in the information related to the field you are creating:
     * **Name**: Name of the product specification (field).
     * **Text**: Field description.
     * **Type**: Field type, which can vary between **Text**, **Large Text**, **Number**, **Combo**, **Radio**, **CheckBox**, **Indexed Text** and **Large Indexed Text**. For more information on each option, read the [Field types](#product-field-types) section.
@@ -76,7 +76,7 @@ To create a product field, follow the steps below:
     * **Link in the Top Menu**: Defines if the link for the field values is displayed in the website's main menu.
     * **Link in the Side Menu**: Defines if the link for the field values is displayed in the website side menu.
     * **Active**: Inserts or removes this field when adding the product (**Specifications** tab).
-7. Click `Save`. 
+8. Click `Save`. 
 
 ![product-spec-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_2.gif)
 
@@ -118,7 +118,7 @@ See the table below for details on the product field types you can select in the
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Indexed Text<br> <br>Large Indexed Text**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog**[indexer](/en/docs/tutorials/understanding-how-indexation-works) and will influence the search results for the store customers. For more details, please see the article [How VTEX Search (Legacy) works?](/en/docs/tutorials/how-does-vtex-search-legacy-work).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog** [indexer](/en/docs/tutorials/understanding-how-indexation-works) and will influence the search results for the store customers. For more details, please see the article [How VTEX Search (Legacy) works?](/en/docs/tutorials/how-does-vtex-search-legacy-work).</td>
   </tr>
 </tbody>
 </table>
@@ -139,8 +139,8 @@ For the **Combo**, **Radio** and **CheckBox** field types, you must add preset v
 
     If there are values already added, you must click `New value`.
 
-7. Fill in the **Name** field with the values you wish to create for that field. Enter one value per row and press `Enter` after each value.
-8. Click `Save`.
+8. Fill in the **Name** field with the values you wish to create for that field. Enter one value per row and press `Enter` after each value.
+9. Click `Save`.
 
     The created values will be displayed in the Product **Specifications** tab.
 

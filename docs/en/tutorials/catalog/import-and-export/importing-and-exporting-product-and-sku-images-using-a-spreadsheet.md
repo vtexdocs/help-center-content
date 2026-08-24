@@ -20,7 +20,7 @@ In VTEX Admin, you can manage the import and export of image information using a
 
 To import product and SKU images using a spreadsheet, follow these steps:
 
-1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
 2. At the top of the page, click `Import`.
 3. Click `Images`.
 4. In the window that opens, click **Download template** to get the file.
@@ -38,8 +38,8 @@ To export a `.xlsx` file with the images from your catalog, follow these steps:
 
 > ℹ️ The exported information corresponds to the fields detailed in the section [Product and SKU image spreadsheet fields](#product-and-sku-image-spreadsheet-fields).
 
-1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. (Optional) If you want to export the images of certain products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step isn't required when exporting the images of all the items in your catalog.
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
+2. (Optional) If you want to export the images of certain products and SKUs, apply a [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) to the desired items. This step isn't required when exporting the images of all the items in your catalog.
 3. At the top of the page, click `Export`.
 4. Click `Images`.
 

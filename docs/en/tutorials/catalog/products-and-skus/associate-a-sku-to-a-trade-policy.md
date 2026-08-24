@@ -1,5 +1,5 @@
 ---
-title: 'Associate a SKU to a sales channel'
+title: 'Associating a SKU to a sales channel'
 id: 1qFAiybogHCStRO65sy4vb
 status: PUBLISHED
 createdAt: 2021-03-30T17:18:09.088Z

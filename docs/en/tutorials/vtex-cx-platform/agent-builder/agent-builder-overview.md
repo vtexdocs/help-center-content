@@ -167,4 +167,4 @@ After entering a text, click `Save`.
 
 You can create automation flows to interact with a group of users and determine agent responses based on user messages.
 
-For more information, access [Automation flow overview](https://help.vtex.com/docs/tutorials/automation-flow-overview).
+For more information, see [Automation flow overview](https://help.vtex.com/docs/tutorials/automation-flow-overview).

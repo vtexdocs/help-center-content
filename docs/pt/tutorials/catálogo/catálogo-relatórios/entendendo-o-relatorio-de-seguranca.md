@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona o Relatório de segurança'
+title: 'Entendendo o Relatório de Segurança'
 id: tutorials_282
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:10.101Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
-O relatório de Segurança é onde ficam registradas as alterações que afetam o cadastro de produtos. Sua função principal é fornecer ao lojista, a possibilidade de verificar o autor por determinadas alterações em um período de tempo específico.
+O Relatório de Segurança é onde ficam registradas as alterações que afetam o cadastro de produtos. Sua função principal é fornecer ao lojista, a possibilidade de verificar o autor por determinadas alterações em um período de tempo específico.
 
-## Acessar o relatório de Segurança
+## Acessar o Relatório de Segurança
 
 Siga o passo a passo para acessar o relatório:
 

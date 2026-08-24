@@ -29,7 +29,7 @@ Both products and SKUs can be either active or inactive, as shown in the table b
 
 | Product or SKU status | Description |
 | --- | --- |
-| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](/en/docs/tutorials/products-and-skus#tracking-product-availability) and [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website). |
+| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront. The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](/en/docs/tutorials/products-and-skus#tracking-product-availability) and [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website). |
 | Inactive | The product or SKU is inactive, showing the merchant doesn't want it to display in the storefront for sale at the moment. |
 
 ## Deactivating a product
@@ -51,7 +51,7 @@ To deactivate a SKU, follow the steps below:
 2. Click the down arrow next to the product name to display the linked SKUs. Use the [search bar](/en/docs/tutorials/products-and-skus#searching-for-a-product) if needed.
 3. Choose one of the following options:
     * In the SKU row, click the `Deactivate` icon <i class="fas fa-eye" aria-hidden="true"></i> and confirm by clicking `Deactivate`. 
-    * Or click the SKU row to access the edit page, turn off the <i class="fas fa-toggle-off" aria-hidden="true"></i> **Active** toggle, and click `Save.`
+    * Or click the SKU row to access the edit page, turn off the <i class="fas fa-toggle-off" aria-hidden="true"></i> **Active** toggle, and click `Save`.
 
 ## Learn more
 

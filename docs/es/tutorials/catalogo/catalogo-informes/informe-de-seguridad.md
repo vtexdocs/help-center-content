@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona el Informe de seguridad'
+title: 'Entendiendo el Informe de seguridad'
 id: tutorials_282
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:10.101Z

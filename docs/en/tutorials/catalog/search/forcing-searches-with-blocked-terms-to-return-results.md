@@ -35,7 +35,7 @@ VTEX Search (Legacy) engine returns several types of results, following the orde
 - Department.
 - Keyword.
 
-When the customer searches for the title of a product, the case is that of the keyword, which - despite being the most common - is the one with lowest priority.
+When the customer searches for the title of a product, the case is that of the keyword, which - despite being the most common - is the one with the lowest priority.
 
 Following the example above, if the user searches only for "Uno", the site will not yield any results.
 
@@ -49,4 +49,4 @@ Another alternative to force searches with blocked terms to return relevant sear
 
 Again following our example, you can create a 301 redirect from the `{AccountName}.com.br/Uno` URL to the product page.
 
-Whenever someone searches for "Uno", the URL that will be created is the previos one, and the user will be automatically taken to the product page.
+Whenever someone searches for "Uno", the URL that will be created is the previous one, and the user will be automatically taken to the product page.

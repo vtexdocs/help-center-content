@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 2FWsvQlrVYu24myUgwY4Y8
 ---
 
-The concept of rounding rules consists of “rounding”, to avoid fractions and in commercial terms to show an advantage for the customer. To register a rounding rules, follow these steps:
+The concept of rounding rules consists of “rounding”, to avoid fractions and in commercial terms to show an advantage for the customer. To register rounding rules, follow these steps:
 
 1. In the VTEX Admin, go to *Store Settings > Product > Price Rounding Rules*, or type *Price Rounding Rules* in the search bar at the top of the page.
 
-In this screen you can, for example, adjust a price of R$19.85 to R$19.90; or R$48.70 to R$48.99. These modifications depend on what you think will most attract your target public in your line of business, and this will affect all the prices in the store.
+On this screen, you can, for example, adjust a price of R$19.85 to R$19.90; or R$48.70 to R$48.99. These modifications depend on what you think will most attract your target audience in your line of business, and this will affect all the prices in the store.
 
 ## How it works
 

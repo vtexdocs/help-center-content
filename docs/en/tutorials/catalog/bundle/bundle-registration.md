@@ -24,7 +24,7 @@ The following table describes the characteristics and scenarios for using a bund
 | Type | Definition | Example |
 | --- | --- | --- |
 | [Bundle](/en/docs/tutorials/what-is-a-bundle) | <ul><li>The components form a set that can't be divided, and customers can't pick individual items from it.</li><li>The store may or may not offer individual components separately.</li></ul> | A men's fashion store offers a "Father's Day" bundle that includes a pair of shoes, a pair of socks, and a keychain. The customer isn't interested in the keychain, but likes the shoes and the socks, so they buy the bundle because items aren't sold separately.|
-| [Outfit](/en/docs/tutorials/how-to-assemble-an-outfit) | <ul><li>The components are a buy-together suggestion and customers can pick and choose whatever items they want to buy from the outfit.</li><li>The store always offers individual components separately.</li></ul> | A women's fashion store offers a "Summer" bundle that includes a bikini, a cover-up, and sandals. The customer doesn't like the sandals and only buys the bikini and the cover-up. |
+| [Outfit](/en/docs/tutorials/how-to-assemble-an-outfit) | <ul><li>The components are a buy-together suggestion and customers can pick and choose whatever items they want to buy from the outfit.</li><li>The store always offers individual components separately.</li></ul> | A women's fashion store offers a "Summer" outfit that includes a bikini, a cover-up, and sandals. The customer doesn't like the sandals and only buys the bikini and the cover-up. |
 
 ## Creating a bundle
 
@@ -51,15 +51,15 @@ If you want, you can duplicate the SKU or move it to another product. These acti
 
 ## Bundle weight
 
-The weight of the bundle will be made up by the sum of the weight of its components.
+The weight of the bundle will be made up of the sum of the weight of its components.
 
 ## Inventory
 
 The bundle’s [inventory](/en/docs/tutorials/managing-stock-items) will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the bundle, but rather in each and every independent component, in order to update the bundle’s inventory. You can access this information in your VTEX Admin in **Catalog > Inventory > Inventory Management**.
 
-Since the SKUs that make up the bundle must be sold together, the bundle overall inventory will be equal to the SKU which has less inventory items. This is as such due to the fact that when a component is out of stock, the bundle cannot be purchased.
+Since the SKUs that make up the bundle must be sold together, the bundle overall inventory will be equal to that of the component SKU with the fewest items in inventory. This is because when a component is out of stock, the bundle cannot be purchased.
 
-> **Example:** A bundle has two components. Consider Component 1 has 30 units in stock, while Component 2 has 3 units in stock. As a result, only 3 kits will be available for sale.
+> **Example:** A bundle has two components. Consider Component 1 has 30 units in stock, while Component 2 has 3 units in stock. As a result, only 3 bundles will be available for sale.
 
 Bundle components can be in different stocks, as long as they are shipped from the same dock. If they do not leave through the same dock, the entire bundle becomes unavailable. 
 
@@ -69,6 +69,6 @@ Bundle components can be in different stocks, as long as they are shipped from t
 
 The price of the bundle is updated automatically after changing the unit value of any of the components. The final price will be the sum of the components' values.
 
-You may only change the final price of the bundle by directly accessing the pricing system without updating the components. As such, the value of the component will only be used to assess the sales value between components, ascertaining the price of each individual product in that specific order.
+You may only change the final price of the bundle by directly accessing the pricing system without updating the components. As such, the value of the component will only be used to determine how the sale price is split among components in that specific order.
 
 Please note that any change in any component will generate a new final price, updating what had been previously registered. Merely changing the final price will not update the price of the components.
