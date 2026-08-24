@@ -112,7 +112,7 @@ Los dispositivos de almacenamiento de multimedia utilizados para almacenar los d
 ### Datos y privacidad
 
 #### ¿La empresa dispone de una política de privacidad y protección de datos? ¿Con qué frecuencia se revisa? ¿Esta política se ha distribuido y comunicado a toda la empresa?
-Sí, VTEX dispone de políticas de privacidad y protección de datos, que se revisan anualmente. Las políticas de privacidad interna y externa han sido distribuidas y comunicadas a toda la empresa a través de nuestro canal de anuncios internos. La política de privacidad interna se encuentra alojada en nuestra herramienta de documentos corporativos internos para que todos los empleados puedan consultarla. Accede a la [Política de Privacidad Externa](https://vtex.com/mx-es/trust/general-external-privacy-notice/) (External Privacy Notice).
+Sí, VTEX dispone de políticas de privacidad y protección de datos, que se revisan anualmente. Las políticas de privacidad interna y externa han sido distribuidas y comunicadas a toda la empresa a través de nuestro canal de anuncios internos. La política de privacidad interna se encuentra alojada en nuestra herramienta de documentos corporativos internos para que todos los empleados puedan consultarla. Accede a la [Política de Privacidad Externa](https://www.vtex.com/es-mx/trust/general-external-privacy-notice) (External Privacy Notice).
 
 #### ¿La organización cuenta con un DPO (Data Protection Officer) o delegado de protección de datos?
 

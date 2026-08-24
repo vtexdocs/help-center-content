@@ -135,7 +135,7 @@ Media storage devices used to store customer data are classified as critical and
 
 #### Does the company have a data protection and privacy policy? If yes, how often is it reviewed? Has the policy been distributed and communicated to the entire company?
 
-Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) can be found on the VTEX website.
+Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://www.vtex.com/en-us/trust/general-external-privacy-notice) can be found on the VTEX website.
 
 #### Does the organization have a data protection officer (DPO) with the authority, mission, responsibility, and resources to coordinate, develop, and implement applicable privacy requirements and manage privacy risks through a privacy program?
 
