@@ -25,8 +25,8 @@ To check the product integration status, go to the VTEX Admin **Marketplace > Co
 
 The table below shows which messages belong to which status:  
 
-| **Status** | **Message** | **Details** | **Impact on the offer** |
-|:---:|:---:|:---:|:---:|
+| Status | Message | Details | Impact on the offer |
+|---|---|---|---|
 | **Processed with error** | **SKU from `accountName` was not integrated.** **We noticed some problems** | Inactive product or SKU, Invalid price and SKU out of stock. | If the adjustments are not made, the products will not be integrated.|
 | **Processed with warning** | **SKU from `accountName` integrated. See offer. But we noticed some missing data** | EAN/UPC and manufacturer code, Size, Color, Gender and Age group. |  If applicable to the product and required data is missing, the offer may have low visibility or be rejected. |
 | **Processed with success** | **SKU from `accountName` integrated. See offer. Add following data to increase offer visibility** | [Product Highlights](https://support.google.com/merchants/answer/7052112?hl=pt-BR#zippy=%2Coutros-requisitos%2Ccomo-formatar-os-dados-do-produto:~:text=produtos%20s%C3%A3o%20veiculados.-,Opcional%3A,-envie%20o%20atributo) | If applicable and if the optional attributes indicated by Google are met, the offer can improve visibility. |
@@ -54,8 +54,8 @@ To identify the SKU price integration error with Google, see the documentation [
 
 The Size field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
-|**Field name**|**Field type**|
-|:---:|:---:|
+|Field name|Field type|
+|---|---|
 | Size | Text |
 
 This field type supports alphanumeric values such as **S, M, L, XL, 9.5, 10, 6.5, 3.5**.
@@ -64,8 +64,8 @@ This field type supports alphanumeric values such as **S, M, L, XL, 9.5, 10, 6.5
 
 The Color field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
-| **Field name** | **Field type** |
-|:---:|:---:|
+| Field name | Field type |
+|---|---|
 | Color | Text |
 
 This field type supports alphanumeric values such as **Green, Black, Yellow, Pink**.
@@ -76,8 +76,8 @@ This field type supports alphanumeric values such as **Green, Black, Yellow, Pin
 
 The Gender field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
-| **Field name** | **Field type** | **Field value** |
-|:---:|:---:|:---:|
+| Field name | Field type | Field value |
+|---|---|---|
 | Gender | Combo | Male, Female and Unissex |
 
 This field requires entering predefined values. Only the values listed under field value will be accepted by the Google integration.
@@ -86,7 +86,7 @@ This field requires entering predefined values. Only the values listed under fie
 
 The **Age group** field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
-| **Field name** | **Field type** | **Field value** |
+| Field name | Field type | Field value |
 |---|---|---|
 | Age Group | Combo |Newborn (up to 3 months old), Infant (3 to 12 months old), Toddler (from 1 to 5 years old), Kids (5 to 13 years old) and Adult (13 years old or more)|
 

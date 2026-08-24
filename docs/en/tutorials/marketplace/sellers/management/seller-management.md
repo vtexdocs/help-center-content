@@ -60,8 +60,8 @@ On the Group management page, you will find the following options:
 
     Each group has the following fields  
 
-| **Field** | **Description** |  
-|:---:|:---:|  
+| Field | Description |  
+|---|---|  
 | Group | The group name defined when the group was created or renamed. |  
 | Active sellers  | Number of active sellers in a group, the ones that are selling their products on the marketplace. |  
 | Paused sellers  | Number of inactive sellers in a group, the ones that are not selling their products on the marketplace. |  

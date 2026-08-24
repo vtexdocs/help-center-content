@@ -41,7 +41,7 @@ Visualizar uma versão anterior permite inspecionar conteúdo passado antes de d
 O formulário do conteúdo é atualizado para exibir o conteúdo como ele existia naquele momento. Você pode ler todos os campos e seções, mas não pode editar o conteúdo nessa visualização. Depois de visualizar, você pode escolher uma das seguintes ações:
 
 | Ação | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | Restaurar em main | Duplica a versão e a publica na branch `main` como uma nova versão no storefront. |
 | Restaurar em branch | Duplica a versão e a adiciona a uma branch selecionada para edição posterior, sem afetar o storefront. |
 | Fechar | Fecha a versão anterior e retorna ao estado atual sem aplicar alterações. |

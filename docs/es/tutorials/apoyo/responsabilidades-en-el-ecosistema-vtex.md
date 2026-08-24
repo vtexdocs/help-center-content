@@ -170,7 +170,7 @@ Respecto al soporte a una operación en este contexto, es importante que el reta
 
 Estas son las responsabilidades que conlleva la actualización o el envío de nuevos productos y SKU a un marketplace externo:
 
-| **Player** | **Responsabilidades** |
+| Player | Responsabilidades |
 |---|---|
 | **VTEX** | Enviar notificación de un nuevo producto o SKU creado o actualizado al endpoint del proveedor proporcionado por el hub y registrado en la plataforma VTEX. |
 | **Conector partner (hub de integración)** | Procesar la notificación y enviar el producto o SKU actualizado al marketplace. <br /><br />Este procesamiento engloba diversas fases, como comprobar si ese SKU ya existe en el marketplace y registrarlo como nuevo si es necesario, validar si el producto está activo y asociado a la política comercial del marketplace, ejecutar una simulación de pedido para comprobar el precio y stock del SKU actualizados, entre otras. |

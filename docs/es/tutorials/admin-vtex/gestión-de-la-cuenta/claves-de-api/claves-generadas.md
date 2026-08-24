@@ -24,7 +24,7 @@ La pestaña **Generadas** presenta las claves de API creadas por tu cuenta. Pued
 La página muestra la siguiente información en forma de tabla: 
 
 | Columna | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Clave/Nombre** | Clave de API, seguida del nombre definido cuando se creó la clave. Si el token se pasa del periodo de renovación recomendado (3 meses de forma predeterminada), se mostrará un ícono de alerta de renovación al lado de clave. Más información en [Configurar alerta de renovación de tokens de API](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api). |
 | **Roles** | Roles asociados a la clave de API. |
 | **Fecha de creación** | Fecha de creación de la clave de API. |

@@ -25,7 +25,7 @@ O [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor
 
 Veja a seguir instruções instruções que podem ajudar a solucionar esses problemas no Site Editor.
 
-| **Problema** | **Descrição** | **Instruções para resolução do problema** |
+| Problema | Descrição | Instruções para resolução do problema |
 | ------------ | ------------- | ----------------------------------------- |
 | [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
 | [Não consigo gerenciar o conteúdo da minha loja no Site Editor](#nao-consigo-gerenciar-o-conteudo-da-minha-loja-no-site-editor) | Não é possível editar, salvar ou excluir conteúdo no Site Editor. | - [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).<br> - [Verifique a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio). |

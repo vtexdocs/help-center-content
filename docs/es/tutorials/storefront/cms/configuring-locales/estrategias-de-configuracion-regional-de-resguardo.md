@@ -12,7 +12,7 @@ order: 2
 Al [establecer las configuraciones regionales](https://help.vtex.com/es/docs/tutorials/configurar-configuraciones-regionales), algunos tipos de contenido no necesitan localización. Por ejemplo, es posible que tengas una imagen de banner sin texto o un nombre de marca que permanece igual en todos los idiomas. Las estrategias de resguardo te ayudan a evitar duplicar este tipo de contenido innecesariamente. A continuación se muestran dos enfoques comunes:
 
 | Caso de uso | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | [Configuración regional predeterminada como resguardo para otras configuraciones regionales](#configuración-regional-predeterminada-como-resguardo-para-otras-configuraciones-regionales) | Úsalo cuando la mayor parte del contenido es compartido y las demás configuraciones regionales solo modifican diferencias específicas. |
 | [Resguardo del idioma principal con variaciones regionales](#resguardo-por-idioma-principal-con-variaciones-regionales) | Úsalo al gestionar variaciones regionales que heredan propiedades de una configuración regional de idioma principal. |
 

@@ -35,7 +35,7 @@ Para configurar o favicon em lojas CMS Portal (Legado), siga as instruções aba
 
 3. Clique em `Browse for file` para adicionar o arquivo de imagem no formato `.ico`.
 
-    > ⚠️ O nome do arquivo deve seguir o padrão ***{storeName}**-favicon.ico*. Substitua a variável**{storeName}** pelo nome da loja cadastrado no [Gerenciamento da conta](/pt/docs/tutorials/gerenciamento-da-conta).
+    > ⚠️ O nome do arquivo deve seguir o padrão `{storeName}-favicon.ico`. Substitua a variável `{storeName}` pelo nome da loja cadastrado no [Gerenciamento da conta](/pt/docs/tutorials/gerenciamento-da-conta).
 
     ![store-name-favicon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/cms-portal-legado/layout/configurar-o-favicon-em-sua-loja_4.png)
 

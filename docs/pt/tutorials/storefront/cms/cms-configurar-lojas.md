@@ -52,7 +52,7 @@ Na aba **Geral**, você pode ver e editar as informações básicas de identific
 Para editar o nome da loja, clique em `Editar`. Você pode ver os seguintes campos:
 
 | Campo | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Nome** | Nome da loja exibido no CMS. |
 | **Storefront** | Implementação de storefront conectada ao CMS, como o FastStore ou uma implementação headless personalizada. |
 | **URL** | URL do storefront conectado à loja. |
@@ -71,6 +71,6 @@ A aba Configurações de build define como o CMS interage com o storefront duran
 Nesta aba, você verá os seguintes campos:
 
 | Nome do campo | Descrição | Exemplo de valor |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | **Repositório da loja** | A URL do repositório onde o código frontend da store está hospedado. Este repositório é usado para identificar o projeto de storefront relacionado a esta loja. |  |
 | **Pré-visualização** | URL do webhook que permite a pré-visualização de páginas no CMS. | `https://{nomedaconta}.vtex.app/api/preview` |

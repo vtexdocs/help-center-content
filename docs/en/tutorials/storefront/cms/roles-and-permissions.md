@@ -41,7 +41,7 @@ Roles are assigned through the VTEX Admin. No setup is required. The three roles
 The following table shows the branch management actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
-| :---- | ----- | :---: | :---: |
+| ---- | ----- | --- | --- |
 | Save to the `main` branch - Publish changes to the storefront. | ❌ | ✅| ✅ |
 | Remove from the `main` branch - Unpublish from the storefront. | ❌ | ✅ | ✅ |
 | Merge branch - Promote a feature branch to `main`, immediately or on a scheduled date. | ❌ | ✅ | ✅ |
@@ -53,7 +53,7 @@ The following table shows the branch management actions each role can perform.
 The following table shows the entry-level actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
-| :---- | ----- | :---: | :---: |
+| ---- | ----- | --- | --- |
 | View content - Browse entries across all branches. | ✅ | ✅ | ✅ |
 | Create and edit entries - Author and modify content entries on feature branches. | ✅ | ✅ | ✅ |
 | Delete entries - Permanently delete an entry and all its versions. This action is permanent. | ❌ | ❌ | ✅ |
@@ -63,7 +63,7 @@ The following table shows the entry-level actions each role can perform.
 The following table shows the store configuration actions each role can perform.
 
 | Action | Content Producer | Content Editor | Content Administrator |
-| :---- | :---- | :---: | :---: |
+| ---- | ---- | --- | --- |
 | Create and configure stores - Set up stores and manage related settings, including storefront configurations, languages, and regional settings. | ❌ | ❌ | ✅ |
 
 ## Use cases

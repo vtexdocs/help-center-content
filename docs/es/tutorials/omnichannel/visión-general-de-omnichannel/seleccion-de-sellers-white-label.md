@@ -169,7 +169,7 @@ Un cliente agrega seis SKU al carrito y hay ocho _sellers_ que pueden entregar a
 
 Los valores de cada _seller_ se compararon en esta tabla:
 
-| **Sellers** | **Disponibilidad de SKU del total de 6 ítems**  | **Distancia entre la dirección del cliente y el punto de recogida** | **Costo para el envío en la modalidad de retiro en el punto de recogida** | **Tiempo de preparación del pedido para su retiro en el punto de recogida** |
+| Sellers | Disponibilidad de SKU del total de 6 ítems  | Distancia entre la dirección del cliente y el punto de recogida | Costo para el envío en la modalidad de retiro en el punto de recogida | Tiempo de preparación del pedido para su retiro en el punto de recogida |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 |  Seller 1 | 5 | 1 km | 10 dólares | 1 día |
 |  Seller 2 | 4 | 1 km | 0 | 1 día |
@@ -191,7 +191,7 @@ Para definir los _sellers_ con la opción más económica para el envío en la m
 
 En la siguiente tabla se muestra el resultado de la selección de hasta tres _sellers_ para la opción más económica de envío en la modalidad de retiro en el punto de recogida:
 
-|**Posición en la selección** | **Sellers** | **Disponibilidad de SKU del total de 6 ítems** | **Distancia entre la dirección del cliente y el punto de recogida** | **Costo para el envío en la modalidad de retiro en el punto de recogida** | **Tiempo de preparación del pedido para su retiro en el punto de recogida** |
+|Posición en la selección | Sellers | Disponibilidad de SKU del total de 6 ítems | Distancia entre la dirección del cliente y el punto de recogida | Costo para el envío en la modalidad de retiro en el punto de recogida | Tiempo de preparación del pedido para su retiro en el punto de recogida |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1º |  Seller 1 | 5 | 1 km | 10 dólares | 1 día |
 | 2º |  Seller 4 | 5 | 5 km | 0 | 0 |
@@ -215,7 +215,7 @@ En paralelo, la plataforma VTEX selecciona a los _sellers_ con la opción más r
 
 En la tabla a continuación, se muestra el resultado de la selección de hasta tres _sellers_ para la opción más rápida de envío en la modalidad de retiro en el punto de recogida:
 
-| **Posición en la selección** | **Sellers** | **Disponibilidad de SKU del total de 6 ítems** | **Distancia entre la dirección del cliente y el punto de recogida** | **Tiempo de preparación del pedido para su retiro en el punto de recogida** | **Costo para el envío en la modalidad de retiro en el punto de recogida** |
+| Posición en la selección | Sellers | Disponibilidad de SKU del total de 6 ítems | Distancia entre la dirección del cliente y el punto de recogida | Tiempo de preparación del pedido para su retiro en el punto de recogida | Costo para el envío en la modalidad de retiro en el punto de recogida |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1º |  Seller 1 | 5 | 1 km | 1 día | 10 dólares |
 | 2º |  Seller 4 | 5 | 5 km | 0 | 0 |

@@ -76,7 +76,7 @@ Para configurar as frequências e datas de ciclo de assinatura que deseja oferec
 
 8. Clique em `Salvar`.
 
-| **Nome da chave** | **Valores permitidos** |
+| Nome da chave | Valores permitidos |
 | --- | --- |
 | `vtex.subscription.key.frequency` | Os valores permitidos são uma combinação de um número de 1 a 9 + espaço + algum dos seguintes valores:<ul><li>`day`: pedidos diários. Exemplo: `5 day`.</li><li>`week`: pedidos semanais. Exemplo: `4 week`.</li><li>`month`: pedidos mensais. Exemplo: `3 month`.</li><li>`year`: pedidos anuais. Exemplo: `2 year`.</li></ul>Para disponibilizar múltiplas opções de frequência, separe os valores usando vírgula. Não utilize espaço após a vírgula.<ul><li>Exemplo: para oferecer uma opção de assinatura mensal e outra semanal, preencha `1 month,1 week`.</li></ul> |
 | `vtex.subscription.key.purchaseday` | **Frequência semanal**Os valores permitidos para a data do ciclo de assinaturas semanais vão de 0 a 6 e equivalem aos dias da semana:<ul><li>`0`: domingo</li><li>`1`: segunda</li><li>`2`: terça</li><li>`3`: quarta</li><li>`4`: quinta</li><li>`5`: sexta</li><li>`6`: sábado</li></ul>Para oferecer mais de um dia para o ciclo com frequência semanal, separe os valores usando vírgula.<ul><li>Exemplo: uma assinatura semanal com data do ciclo aos domingos, quartas e sextas seria `0,3,5`.</li></ul><br>**Frequência mensal**Os valores permitidos vão de `1` a `28` e equivalem aos dias do mês, sendo `1` o primeiro dia do mês, `2` o segundo, e assim sucessivamente até `28`, o vigésimo oitavo dia do mês.Se utilizar mais de um número, separe-os usando vírgula. Não utilize espaço após a vírgula.<ul><li>Exemplo: uma assinatura mensal com data do ciclo no primeiro ou último dia permitido seria `1,28`.</li></ul> |

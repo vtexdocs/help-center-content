@@ -32,7 +32,7 @@ Actualmente existen dos versiones disponibles y puedes elegir la que mejor se ad
 Consulta la tabla a continuación para saber más sobre las funcionalidades de cada versión.
 
 | Funcionalidad | v1 | v2 | Más información |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Interfaz gráfica | ✅ Sí | ❌ No | - |
 | API | ✅ Sí | ✅ Sí | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
 | Importación y exportación de hojas de cálculo | ✅ Sí | ❌ No | - [Importar datos en Master Data v1](https://help.vtex.com/es/docs/tutorials/importar-datos-en-master-data-v1)<br>- [Exportación de datos de Master Data v1](https://help.vtex.com/es/docs/tutorials/exportacion-de-datos) |
@@ -123,8 +123,8 @@ VTEX crea automáticamente algunas entidades de datos para admitir funcionalidad
 
 ### Entidades nativas de Master Data v1
 
-| **Entidad** | **Descripción** |
-| :--- | :--- |
+| Entidad | Descripción |
+| --- | --- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -151,8 +151,8 @@ VTEX crea automáticamente algunas entidades de datos para admitir funcionalidad
 
 ### Entidades nativas de Master Data v2
 
-| **Entidad** | **Descripción** |
-| :--- | :--- |
+| Entidad | Descripción |
+| --- | --- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |

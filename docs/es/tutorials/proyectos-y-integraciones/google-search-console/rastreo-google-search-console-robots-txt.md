@@ -24,7 +24,7 @@ Para acceder iremos a: Configuración de la tienda > Storefront > Configuración
 Para comprender mejor el contenido, se detalla a continuación las funciones básicas:
 
 - **Allow:** Al utilizar este termino, usted es permitiendo que los crawler de las herramientas de búsqueda naveguen e indexen la dirección indicada.
-- **Disallow :** Usted estará bloqueando el contenido indicado.
+- **Disallow:** Usted estará bloqueando el contenido indicado.
 
 Para validar el contenido será necesario:
 

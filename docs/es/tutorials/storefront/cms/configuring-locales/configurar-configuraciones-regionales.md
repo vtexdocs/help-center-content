@@ -20,7 +20,7 @@ En esta guía, aprenderás cómo configurar las configuraciones regionales para 
 * Antes de configurar las configuraciones regionales, debes comprender dos conceptos clave que determinan cómo aparece el contenido en el storefront. Conocer estos conceptos te ayuda a desarrollar una estrategia de localización efectiva y a evitar la duplicación innecesaria de contenido.
 
 | Concepto | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **[Estrategias de configuración regional de resguardo](/es/docs/tutorials/understanding-locale-fallback-rules):** | Decide qué contenido muestra el sistema cuando una configuración regional no tiene su propio contenido localizado. |
 | [**Conexión de configuración regional con bindings:**](#como-se-conectan-las-configuraciones-regionales-con-los-bindings) | Clarifica cómo el storefront elige la configuración regional correcta según la configuración del binding. |
 
@@ -29,7 +29,7 @@ En esta guía, aprenderás cómo configurar las configuraciones regionales para 
 * Asegúrate de que el siguiente [recurso](https://help.vtex.com/es/docs/tutorials/license-manager-resources) esté asociado a tu [rol de usuario](https://help.vtex.com/es/docs/tutorials/roles):
 
 | Producto | Categoría | Recurso |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Commerce Content | Stores | Create Store |
 
 ## Acceder a la página de Configuraciones regionales
@@ -41,7 +41,7 @@ Para acceder a la página de **Configuraciones regionales**, abre el Admin de VT
 La siguiente tabla muestra las opciones disponibles en la página:
 
 | Opción | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Buscar** | Filtra la lista de configuraciones regionales existentes. |
 | **Crear configuración regional** | Abre un panel lateral para agregar una nueva configuración de idioma y región a tu tienda. |
 | **Configuración regional** | Muestra el nombre y el código de la configuración regional (por ejemplo, `Inglés (US)` e `en-US`), que representa la combinación específica de idioma y región configurada para la tienda. |
@@ -61,7 +61,7 @@ Para crear una nueva configuración regional para tu tienda, sigue estos pasos:
     ![creating-a-new-locale](https://vtexhelp.vtexassets.com/assets/docs/src/creating-locale-es___6a5f2c1a20f11f252344493caef5998c.png)
 
     | Nombre del campo | Descripción | Ejemplo de valor |
-    | :---- | :---- | :---- |
+    | ---- | ---- | ---- |
     | **Nombre** | Agrega el nombre de la configuración regional. | `Inglés (US)` |
     | **Activo** | Selecciona esta casilla para hacer que la configuración regional esté disponible en tu tienda una vez creada. | - |
     | **Hacer esta la configuración regional predeterminada** | Selecciona esta opción para establecer la configuración regional como predeterminada. La configuración regional predeterminada sirve como fuente principal de contenido y como resguardo para otras configuraciones regionales. Al crear tu primera configuración regional, debes seleccionar esta opción. Puedes cambiar la configuración regional predeterminada más adelante. | - |

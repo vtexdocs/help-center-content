@@ -25,7 +25,7 @@ Para acceder a Estilos, inicia sesión en el Admin VTEX, accede a **Storefront >
   Para aplicar y obtener una vista previa de los cambios en los estilos de tu tienda, asegúrate de utilizar un espacio de trabajo que soporte el tráfico de producción, por ejemplo, [espacios de trabajo de producción](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace). 
 </div>
 
-| **Herramienta** | **Descripción** |
+| Herramienta | Descripción |
 | --------------- | --------------- |
 | Styles (Estilos) | Una lista de colores y estilos tipográficos creados para el sitio web de tu tienda.        |
 | Más opciones     | Edita o duplica una plantilla de estilo.|

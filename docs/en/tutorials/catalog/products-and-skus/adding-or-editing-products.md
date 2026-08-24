@@ -100,8 +100,8 @@ Depending on the product category, the **Category attributes** may be displayed 
 
 The table below shows examples of product specifications for products in different categories:
 
-| **Category** | **Product** | **Specification** | **Value** |
-| :---: | :---: | :---: | :---: |
+| Category | Product | Specification | Value |
+| --- | --- | --- | --- |
 | Clothes | Shirt | Fabric | Cotton |
 | Electronics | Cell phone | Battery duration | 12 hours |
 | Beverages | Wine | Country of origin | Chile |

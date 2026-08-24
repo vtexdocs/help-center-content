@@ -51,7 +51,7 @@ Usted también puede registrar un **precio de lista** asociado al precio base de
 
 - El objeto del request tiene las siguientes propiedades:
 
-| __Propiedades__ | __Tipos__ | __Descripción__ |
+| Propiedades | Tipos | Descripción |
 |------------------|-----------|-------------|
 | costPrice | integer | Precio de Costo del SKU |
 | markup| integer | Markup del SKU |
@@ -60,7 +60,7 @@ Usted también puede registrar un **precio de lista** asociado al precio base de
 
 - El objeto del response tiene las siguientes propiedades: 
 
-| __Propiedades__ | __Tipos__ | __Descripción__ |
+| Propiedades | Tipos | Descripción |
 |------------------|-----------|-------------|
 | itemId| string| Id del SKU |
 | costPrice | integer | Precio de Costo del SKU |

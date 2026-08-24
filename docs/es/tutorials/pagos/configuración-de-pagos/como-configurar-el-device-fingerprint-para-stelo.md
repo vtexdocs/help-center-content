@@ -28,36 +28,39 @@ En este artículo, explicaremos cómo asociar Device Fingerprint con la afiliaci
 Para insertar los scripts que exige Stelo al device fingerprint, es necessário usar el Google Tag Manager. Para ello, haga login en su cuenta en [http://www.google.com/tagmanager](http://www.google.com/tagmanager). Después, siga los pasos a continuación:
 
 1. En el menú inicial del Google Tag Manager, haga clic en **Nova tag**;
-2. Seleccione **Configuração da tag** y elija el tipo **HTML personalizado**.![Tela1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_1.jpg);
+2. Seleccione **Configuração da tag** y elija el tipo **HTML personalizado**.
+    ![Tela1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_1.jpg);
+3. Entonces, inserte el script a continuación:
 
-Entonces, inserte el script a continuación:
-
-```
-<iframe id="iframeCyber" src="https://carteirac1.hml.stelo.com.br/transaction/transfer?idUnico={{deviceId}}" width="0" marginwidth="0" height="0" marginheight="0" frameborder="0">
-</iframe>
-<script> 
-$(document).ready(function(){
-var src = document.getElementById("iframeCyber").src;
-regex = /=(.*)$/;
-var match = regex.exec(src);
-window.vtex.deviceFingerprint = match[1];
-}); 
-</script>
-```
+    ```html
+    <iframe id="iframeCyber" src="https://carteirac1.hml.stelo.com.br/transaction/transfer?idUnico={{deviceId}}" width="0" marginwidth="0" height="0" marginheight="0" frameborder="0">
+    </iframe>
+    <script> 
+    $(document).ready(function(){
+    var src = document.getElementById("iframeCyber").src;
+    regex = /=(.*)$/;
+    var match = regex.exec(src);
+    window.vtex.deviceFingerprint = match[1];
+    }); 
+    </script>
+    ```
 
 Después, siga los pasos a continuación:
 
-1. Haga clic en **Acionamento**, Novo acionador (símbolo de **+** en la esquina superior derecha) y en **Configuração do acionador.**![Tela2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_2.jpg);
-2. Elija el tipo **Evento personalizado** e inserte el nombre **payment**;
+1. Haga clic en **Acionamento**, Novo acionador (símbolo de **+** en la esquina superior derecha) y en **Configuração do acionador.**
+    ![Tela2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_2.jpg);
+2. Elija el tipo **Evento personalizado** e inserte el nombre **payment**.
 3. Seleccione la flag **Alguns eventos personalizados**;
-4. En las dos primeras cajas abajo, seleccione: **Event** y **é igual a**. En la tercera, escriba **payment**.![Tela3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_3.jpg)
+4. En las dos primeras cajas abajo, seleccione: **Event** y **é igual a**. En la tercera, escriba **payment**.
+    ![Tela3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_3.jpg)
 5. Guarde el accionador y la tag;
-6. En el menú lateral, haga clic en la opción **Variables** y después en **Nueva**;
-7. Haga clic en **Configuração da variável** y elija el tipo **JavaScript personalizado**;![Tela4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_4.jpg)
+6. En el menú lateral, haga clic en la opción **Variables** y después en **Nueva**.
+7. Haga clic en **Configuração da variável** y elija el tipo **JavaScript personalizado**.
+    ![Tela4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/como-configurar-el-device-fingerprint-para-stelo_4.jpg)
 
 Finalmente, inserte el script a continuación:
 
-```
+```js
 function guid() {
    function s4() {
      return Math.floor((1 + Math.random()) * 0x10000)

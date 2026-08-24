@@ -53,7 +53,7 @@ As promoções no carrinho seguem uma ordem predefinida para garantir a consist�
 A seguir, apresentamos uma tabela que detalha como essa ordenação funciona por tipo de efeito, incluindo taxas, com a descrição de cada etapa e os tipos de promoção correspondentes.
 
 | Ordem | Tipo de efeito | Descrição | Tipo |
-| ----- | :---- | ----- | ----- |
+| ----- | ---- | ----- | ----- |
 | 1 | Preço | Desconto progressivo aplicado com base na quantidade de itens adquiridos | Desconto Progressivo |
 | 2 | Preço | Desconto percentual aplicado ao valor total do pedido | Promoção regular |
 | 3 | Preço | Desconto percentual aplicado apenas aos itens correspondentes à promoção | Promoção regular |
@@ -127,14 +127,14 @@ Essa estratégia agrupa as promoções que não competem pelos mesmos produtos. 
 Pedro montou um carrinho com 1 camiseta de R$100, com frete de R$30:
 
 | Itens | Quantidade | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | 1 | R$100 |
 | Frete | 1 | R$30 |
 
 As promoções disponíveis são:
 
 | Promoção | Descontos | Acumulativa |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | A  | 10% de desconto aplicado em todos os produtos | Acumulativa para todos os produtos |
 | B  | Frete máximo de R$ 20 | Não acumulativa |
 | C  | 80% de desconto no frete | Não acumulativa |
@@ -144,7 +144,7 @@ As promoções disponíveis são:
 Após aplicar as promoções disponíveis:
 
 | Itens | Quantidade | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | 1 | R$45 |
 | Frete | 1 | R$6 |
 
@@ -158,11 +158,11 @@ O valor total do pedido ficaria em **R$51**.
       - Preço após a promoção D: R$ 100 \- R$ 50 \= R$ 50\.  
     - Aplicação da promoção acumulável (promoção A):  
       - Preço após a promoção D: R$ 50  
-      - Aplicando a promoção A (10%): R$ 50 \* (1 \- 0,10) \= R$ 50 \* 0,90 \= R$ 45\.
+      - Aplicando a promoção A (10%): R$ 50 \*(1 \- 0,10) \= R$ 50 \* 0,90 \= R$ 45\.
 
 - Frete (preço original: R$ 30\)  
     - Aplicação da promoção não acumulável (promoção C):  
-      - Desconto da promoção C (80%): R$ 30 \* (80/100) \= R$ 30 \* 0,80 \= R$ 24\.  
+      - Desconto da promoção C (80%): R$ 30 \*(80/100) \= R$ 30 \* 0,80 \= R$ 24\.  
       - Preço após a promoção C: R$ 30 \- R$ 24 \= R$ 6\.  
       - Desconto da promoção B: a promoção "Frete máximo de R$ 20" é avaliada, como o valor do frete (R$ 6\) já é inferior a R$ 20, esta promoção não oferece vantagem adicional sobre o desconto de 80% já calculado.  
       - Preço final do frete \= R$ 6\.
@@ -182,21 +182,21 @@ O valor total do pedido ficaria em **R$51**.
 Carla montou um carrinho com 1 camiseta e 1 sapato:
 
 | Itens | Quantidade | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | 1 | R$100 |
 | Sapato | 1 | R$500 |
 
 Esses produtos fazem parte de coleções:
 
 | Itens | Coleções a que pertence |
-| :---- | :---- |
+| ---- | ---- |
 | Camiseta | Coleção 1 e Coleção 2 |
 | Sapato | Coleção 1 |
 
 As promoções disponíveis são:
 
 | Promoção | Descontos | Regras | Acumulativa |
-| :---- | :---- | :---- | :---- |
+| ---- | ---- | ---- | ---- |
 | A  | 10% | Aplicado em produtos da Coleção 1 | Não acumulativa |
 | B  | 25% | Aplicado em produtos da Coleção 2 | Não acumulativa |
 | C  | 5% | Aplicado em todos os produtos | Acumulativa para todos os produtos |
@@ -208,7 +208,7 @@ As promoções A e B concorrem entre si, pois afetam o mesmo produto (camiseta).
 Neste cenário, a camiseta e o sapato (ambos da coleção 1\) terão o desconto de 10% aplicado pela promoção A, seguido do desconto de 5% aplicado pela promoção C.
 
 | Itens | Promoções aplicadas | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | Promoção A e Promoção C | R$85,50 |
 | Sapato | Promoção A e Promoção C | R$427,50 |
 
@@ -218,19 +218,19 @@ Neste cenário, o valor total do pedido ficaria em **R$513,00**.
 
 - Camiseta (preço original: R$ 100\)  
     - Aplicação da promoção não acumulável (promoção A):  
-      - Desconto da promoção A (10%): R$ 100 \* (10/100) \= R$ 100 \* 0,10 \= R$ 10\.  
+      - Desconto da promoção A (10%): R$ 100 \*(10/100) \= R$ 100 \* 0,10 \= R$ 10\.  
       - Preço após promoção A \= R$ 100 \- R$ 10 \= R$ 90\.  
     - Aplicação da promoção acumulável (promoção C):  
       - Preço após promoção A: R$ 90\.  
-      - Aplicando promoção C (5%): R$ 90 \* (1 \- 0,05) \= R$ 90 \* 0,95 \= R$ 85,50.
+      - Aplicando promoção C (5%): R$ 90 \*(1 \- 0,05) \= R$ 90 \* 0,95 \= R$ 85,50.
 
 - Sapato (preço original: R$ 500\)  
     - Aplicação da promoção não acumulável (promoção A):  
-      - Desconto da promoção A (10%): R$ 500 \* (10/100) \= R$ 500 \* 0,10 \= R$ 50\.  
+      - Desconto da promoção A (10%): R$ 500 \*(10/100) \= R$ 500 \* 0,10 \= R$ 50\.  
       - Preço após promoção A \= R$ 500 \- R$ 50 \= R$ 450\.  
     - Aplicação da promoção acumulável (promoção C):  
       - Preço após promoção A: R$ 450\.  
-      - Aplicando promoção C (5%): R$ 450 \* (1 \- 0,05) \= R$ 450 \* 0,95 \= R$ 427,50.
+      - Aplicando promoção C (5%): R$ 450 \*(1 \- 0,05) \= R$ 450 \* 0,95 \= R$ 427,50.
 
 - Total do pedido no cenário 1  
   - Preço final da camiseta: R$ 85,50  
@@ -242,7 +242,7 @@ Neste cenário, o valor total do pedido ficaria em **R$513,00**.
 Neste cenário, a camiseta (único item da Coleção 2\) terá o desconto de 25% aplicado pela promoção B, seguido do desconto de 5% aplicado pela promoção C. O sapato, por não pertencer à coleção 2, receberá apenas o desconto de 5% da promoção C.
 
 | Itens | Promoções aplicadas | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | Promoção B e Promoção C | R$71,25 |
 | Sapato | Promoção C | R$475,00 |
 
@@ -252,18 +252,18 @@ Neste cenário, o valor total do pedido ficaria em **R$546,25**.
 
 - Camiseta (preço original: R$ 100\)  
     - Aplicação da promoção não acumulável (promoção B):  
-      - Desconto da promoção B (25%): R$ 100 \* (25/100) \= R$ 100 \* 0,25 \= R$ 25\.  
+      - Desconto da promoção B (25%): R$ 100 \*(25/100) \= R$ 100 \* 0,25 \= R$ 25\.  
       - Preço após promoção B \= R$ 100 \- R$ 25 \= R$ 75\.  
     - Aplicação da promoção acumulável (promoção C):  
       - Preço após promoção B: R$ 75\.  
-      - Aplicando promoção C (5%): R$ 75 \* (1 \- 0,05) \= R$ 75 \* 0,95 \= R$ 71,25.
+      - Aplicando promoção C (5%): R$ 75 \*(1 \- 0,05) \= R$ 75 \* 0,95 \= R$ 71,25.
 
 - Sapato (preço original: R$ 500\)  
     - Aplicação da promoção não acumulável:  
       - A promoção B não é aplicável, pois o sapato não pertence à "coleção 2".  
     - Aplicação da promoção acumulável (promoção C):  
       - Preço antes da promoção C (não afetado pela promoção B): R$ 500\.  
-      - Aplicando promoção C (5%): R$ 500 \* (1 \- 0,05) \= R$ 500 \* 0,95 \= R$ 475,00.
+      - Aplicando promoção C (5%): R$ 500 \*(1 \- 0,05) \= R$ 500 \* 0,95 \= R$ 475,00.
 
 - Total do pedido no cenário 2  
   - Preço final da camiseta: R$ 71,25  
@@ -279,21 +279,21 @@ O módulo de Promoções pode ser configurado para aplicar o maior desconto em c
 A concorrência por item funcionaria assim:
 
 | Itens | Quantidade | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | 1 | R$100 |
 | Sapato | 1 | R$500 |
 
 Esses produtos fazem parte de coleções:
 
 | Itens | Coleções a que pertence |
-| :---- | :---- |
+| ---- | ---- |
 | Camiseta | Coleção 1 e Coleção 2 |
 | Sapato | Coleção 1 |
 
 As promoções disponíveis são:
 
 | Promoção | Descontos | Regras | Acumulativa |
-| :---- | :---- | :---- | :---- |
+| ---- | ---- | ---- | ---- |
 | A | 10% | Aplicado em produtos da Coleção 1 | Não acumulativa |
 | B | 25% | Aplicado em produtos da Coleção 2 | Não acumulativa |
 | C | 5% | Aplicado em todos os produtos | Acumulativa para todos os produtos |
@@ -301,7 +301,7 @@ As promoções disponíveis são:
 Aplicando a concorrência por item:
 
 | Itens | Promoção aplicada | Valores |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Camiseta | Promoção B e Promoção C | R$71,25 |
 | Sapato | Promoção A e Promoção C | R$427,50 |
 
@@ -317,7 +317,7 @@ O valor final do pedido, nesse cenário, seria **R$498,75**.
       - A promoção B é a mais vantajosa para a camiseta. Preço após promoção B \= R$ 75\.  
     - Aplicação da promoção acumulável (promoção C):  
       - Preço após promoção B: R$ 75\.  
-      - Aplicando promoção C (5%): R$ 75 \* (1 \- 0,05) \= R$ 75 \* 0,95 \= R$ 71,25.
+      - Aplicando promoção C (5%): R$ 75 \*(1 \- 0,05) \= R$ 75 \* 0,95 \= R$ 71,25.
 
 - Sapato (preço original: R$ 500\)  
 
@@ -327,7 +327,7 @@ O valor final do pedido, nesse cenário, seria **R$498,75**.
       - A promoção A é a única, e portanto, a melhor não acumulável para o sapato. Preço após promoção A \= R$ 450\.  
     - Aplicação da promoção acumulável (promoção C):  
       - Preço após promoção A: R$ 450\.  
-      - Aplicando promoção C (5%): R$ 450 \* (1 \- 0,05) \= R$ 450 \* 0,95 \= R$ 427,50.
+      - Aplicando promoção C (5%): R$ 450 \*(1 \- 0,05) \= R$ 450 \* 0,95 \= R$ 427,50.
 
 - Total do pedido na estratégia "concorrência por item"  
 

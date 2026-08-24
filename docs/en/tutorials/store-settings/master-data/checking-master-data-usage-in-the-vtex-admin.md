@@ -32,7 +32,7 @@ At the top of the page, the summary cards provide an usage overview:
 In the **Entities** section, you'll find the breakdown by entity. The table lists only custom entities and displays two columns:
 
 | Column | Description |
-| :--- | :--- |
+| --- | --- |
 | **Name** | Data entity name. |
 | **Number of documents** | Number of documents stored in the entity. |
 

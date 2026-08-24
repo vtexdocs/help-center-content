@@ -32,7 +32,7 @@ To access the page in the VTEX Admin, go to *Promotions > Promotion Alert*. You 
 The table below shows the column descriptions for the promotion list:
 
 | Column | Description | 
-| ------ |:-------------:|
+| ------ |-------------|
 | Name | Promotion alert name. |
 | Alert | Condition set to trigger the alert. |
 | Preemptive Action | Actions that will be performed when the alert is triggered. |

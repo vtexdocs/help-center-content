@@ -28,7 +28,7 @@ To build your formula, you can use [variables](#variables) such as total, shippi
 
 To build the formula for your promotion, you can use the variables described below.
 
-| **Variable** | **Description** |
+| Variable | Description |
 |---|---|
 | `total` | Sum of the selected product prices. |
 | `freight` | Shipping value. The shipping rate used in the formula will be the lowest available for a specific order, regardless of what the customer selects. |
@@ -38,8 +38,8 @@ To build the formula for your promotion, you can use the variables described bel
 
 Use the conventional signs in your formula to make mathematical operations.
 
-| **Operation** | **Sign** |
-|:---:|:---:|
+| Operation | Sign |
+|---|---|
 | Sum | `+` |
 | Subtraction | `-` |
 | Multiplication | `*` |

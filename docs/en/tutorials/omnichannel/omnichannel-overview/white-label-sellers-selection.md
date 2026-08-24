@@ -169,7 +169,7 @@ A customer adds six SKUs to the shopping cart and there are eight sellers able t
 
 The values from each seller are compared in the table below:
 
-| **Sellers** | **SKU availability of the total of 6 items**  | **Distance between the pickup point and the customer's address** | **Pickup cost** | **Pickup preparation time** |
+| Sellers | SKU availability of the total of 6 items  | Distance between the pickup point and the customer's address | Pickup cost | Pickup preparation time |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 |  Seller 1 | 5 | 1 km | 10 USD | 1 day |
 |  Seller 2 | 4 | 1 km | 0 | 1 day |
@@ -191,7 +191,7 @@ To determine the sellers with the cheapest pickup, the criteria below are consid
 
 The selection result of up to three sellers with the cheapest pickup cost is presented in the table below:
 
-| **Selection position** | **Sellers** | **SKU availability of the total of 6 items** | **Distance between the pickup point and the customer's address** | **Pickup cost** | **Pickup preparation time** |
+| Selection position | Sellers | SKU availability of the total of 6 items | Distance between the pickup point and the customer's address | Pickup cost | Pickup preparation time |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1st |  Seller 1 | 5 | 1 km | 10 USD | 1 day |
 | 2nd |  Seller 4 | 5 | 5 km | 0 | 0 |
@@ -215,7 +215,7 @@ In parallel, the VTEX platform performs the seller selection with the fastest pi
 
 The selection result of up to three sellers with the cheapest pickup is presented in the table below:
 
-| **Selection position** | **Sellers** | **SKU availability of the total of 6 items** | **Distance between the pickup point and the customer's address** | **Pickup preparation time** | **Pickup cost** |
+| Selection position | Sellers | SKU availability of the total of 6 items | Distance between the pickup point and the customer's address | Pickup preparation time | Pickup cost |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1st |  Seller 1 | 5 | 1 km | 1 day | 10 USD |
 | 2nd |  Seller 4 | 5 | 5 km | 0 | 0 |

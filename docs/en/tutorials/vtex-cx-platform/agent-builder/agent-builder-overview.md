@@ -63,7 +63,7 @@ To customize your agent, complete the following fields:
 Read the detailed description of each tone of voice below:
 
 | Agent's tone of voice | Description |
-| --- | :--- |
+| --- | --- |
 | Friendly | Interacts warmly and welcomingly, making the customer feel comfortable and welcome, establishing a connection with empathy and understanding. |
 | Systematic | With a clear and well-structured method, it follows defined steps to solve problems. Uses a logical and orderly approach, with consistency and precision in communication and customer support. |
 | Analytical | Ensures all information is displayed clearly and accessibly. It's logical and objective, guiding the customer through each step methodically so that no detail is missed. |

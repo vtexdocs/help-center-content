@@ -285,7 +285,7 @@ Below, you will find a list of the potential events available in [Audit](/en/doc
 ## Gift Card
 
 | Action | Event description	 | Event details |
-|:---:|:---:|:---:|
+|---|---|---|
 | LIST_GIFT_CARD | Visualization of the gift card list. | list-gift-card |
 | EXPORT_GIFT_CARD | Export of gift cards. | export-gift-card |
 | EDIT_GIFT_CARD | Change in gift card value. | add-gift-card-value |
@@ -398,7 +398,7 @@ In the **Action** column, all Headless CMS (Legacy) events also display the foll
 ## Site Editor
 
 | Action | Event description | Event details |
-|:---:|:---:|:---:|
+|---|---|---|
 | Schedule change | Schedules content editing. | Changed entity ID. |
 | Edit content block | Edits the content block. | Changed entity ID. |
 | Create content block | Creation of a content block. | Changed entity ID. |

@@ -32,7 +32,7 @@ There are currently two available versions, and you can choose the one that best
 Check the table below to learn more about how the features of each version differ.
 
 | Functionality | v1 | v2 | Learn more |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | Graphical interface | ✅ Yes | ❌ No | - |
 | API | ✅ Yes | ✅ Yes | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview) |
 | Spreadsheet import and export | ✅ Yes | ❌ No | - [Importing data to Master Data v1](/docs/tutorials/importing-data-into-master-data-v1)<br>- [Exporting data from Master Data v1](/docs/tutorials/exporting-data) |
@@ -123,8 +123,8 @@ Some data entities are automatically created by VTEX to support native platform 
 
 ### Master Data v1 native entities
 
-| **Entity** | **Description** |
-| :--- | :--- |
+| Entity | Description |
+| --- | --- |
 | `ad` | Customer addresses |
 | `AS` | Availability Notifier (most likely source) |
 | `au` | Audit log |
@@ -151,8 +151,8 @@ Some data entities are automatically created by VTEX to support native platform 
 
 ### Master Data v2 native entities
 
-| **Entity** | **Description** |
-| :--- | :--- |
+| Entity | Description |
+| --- | --- |
 | `account` | Digital Currency |
 | `affiliates` | Affiliates |
 | `affiliatesOrders` | Affiliates Commission Service |

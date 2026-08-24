@@ -338,7 +338,7 @@ To create a **Seller campaign,** follow the steps below:
 4. 	Complete the promotion fields described below.  
 5. 	Click the Save button.  
 
-| **Field** | **Description** |
+| Field | Description |
 |---|---|
 | Name | Enter a name for your campaign. |
 | Discount | Choose the type of discount: **Different by offer** or **Same for all offers.** |
@@ -386,7 +386,7 @@ To create a **Seller coupon,** follow the steps below:
 4. Complete the promotion fields described below.  
 5. Click the Save button.  
 
-| **Field** | **Description** |
+| Field | Description |
 |---|---|
 | Name | Enter a name for your campaign. |
 | Audience | Choose which audience can use the coupon. |

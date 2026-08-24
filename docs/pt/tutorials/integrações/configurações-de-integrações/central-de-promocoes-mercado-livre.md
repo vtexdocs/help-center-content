@@ -345,7 +345,7 @@ Para criar uma campanha do tipo **Campanha do vendedor,** siga os passos abaixo:
 4. Preencha os campos da promoção que estão descritos a seguir.  
 5. Clique no botão Salvar.  
 
-| **Campo** | **Descrição** |
+| Campo | Descrição |
 |---|---|
 | Nome | Defina um nome para a campanha. |
 | Desconto | Escolha qual tipo de desconto. As opções são, **Diferente por anúncio** ou **Igual para todos anúncios.** |
@@ -397,7 +397,7 @@ Para criar uma campanha do tipo **Cupom do vendedor,** siga os passos abaixo:
 4. Preencha os campos da promoção que estão descritos a seguir.  
 5. Clique no botão Salvar.  
 
-| **Campo** | **Descrição** |
+| Campo | Descrição |
 |---|---|
 | Nome | Defina um nome para a campanha. |
 | Audiência | Escolha qual público poderá utilizar o cupom. |

@@ -73,7 +73,7 @@ Na parte superior da página **Status dos anúncios**, há uma apresentação do
 
 Na lista de anúncios, existem colunas com as seguintes informações:  
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |
@@ -145,7 +145,7 @@ Você pode utilizar um único filtro ou combiná-los em uma mesma busca. Por pad
 
 Na aba **Problemas**, a lista de anúncios é apresentada com as seguintes informações em colunas:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |
@@ -207,7 +207,7 @@ Você pode utilizar um único filtro ou combiná-los em uma mesma busca. Por pad
 
 Na aba **Aguardando conclusão,** a lista de anúncios é apresentada com as seguintes informações em colunas:  
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |

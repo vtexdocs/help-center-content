@@ -27,7 +27,7 @@ There are three types of accounts on the VTEX platform and each one allows you t
 
 The table below presents the main use cases for each account type:
 
-| **Seller Portal** | **Standard account** | **Franchise account** |
+| Seller Portal | Standard account | Franchise account |
 | ---------- | ---------- | ---------- |
 | The [Seller Portal](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal) is recommended for external sellers that do not have a VTEX account but want to connect to a VTEX marketplace. This feature allows the VTEX marketplace to [share products](/en/docs/tutorials/seller-portal-shared-products) with its sellers, reducing friction and simplifying the operation management. Each Seller Portal environment created integrates the seller with a single VTEX marketplace. | The standard account is recommended for stores that prefer to handle all the ecommerce operations, using [unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) strategies. A standard account can act both as a VTEX seller and a VTEX marketplace, connecting to multiple marketplaces and [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex). | A [franchise account](/en/docs/tutorials/what-is-a-franchise-account) is of strategic use for sales growth operations by integrating physical stores. It offers the advantage of inheriting the catalog of a standard account. Franchise accounts are usually used by franchisees and brand representatives. |
 
@@ -37,7 +37,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Account
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Creating an account | You can [create an account in the Seller Portal](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) both in the VTEX Admin and via [API](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#actions-through-rest-apis). First, the VTEX marketplace requests the Customer Success Manager (CSM) for access to the Seller Portal. Then, the marketplace sends an [invitation](/en/docs/tutorials/marketplace-invited-sellers) to the seller. After the invite has been accepted, the marketplace [activates](/en/docs/tutorials/marketplace-invited-sellers) the seller. | A contract must be signed between VTEX and the client. After the contract has been approved internally, a new environment is created for the client on the VTEX platform. | The client contacts the [support](https://supporticket.vtex.com/support) team to [request a franchise account](/en/docs/tutorials/what-is-a-franchise-account#request-the-creation-of-a-franchise-account). To do that, it is required to have the email address of the [Sponsor user](/en/docs/tracks/what-is-the-master-user) (Admin Master). |
 | [Sponsor user](/en/docs/tracks/what-is-the-master-user) (Admin Master) | There is only one Sponsor user. The invitation to the Seller Portal is sent by default to the email address of the Sponsor user, but this email can be changed. Only the Sponsor user can [create appKeys and appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | There can be just one Sponsor user, access granted by default to the email of the person who signed the contract with VTEX. The Sponsor user can be changed and is the only one who can create appKeys and appTokens. | There can be just one Sponsor user and it is by default the same as the main account user. The Sponsor user can be changed and is the only one who can create appKeys and appTokens. |
@@ -45,7 +45,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Catalog
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Inheriting the catalog | The Seller Portal allows the VTEX marketplace to define a product assortment to be [shared](/en/docs/tutorials/seller-portal-shared-products) with the seller. The seller will then configure the product price and inventory. Sellers can manage these products on the **Shared Products** page in the Seller Portal. Sellers cannot modify the VTEX marketplace catalog and cannot sell products shared with other marketplaces. | Standard accounts do not inherit a catalog because they are responsible for creating and managing their own product assortment. All the features of the **Catalog** module are available for standard accounts. | Franchise accounts inherits the catalog of the main account and does not have the **Catalog** module available. Any changes in the catalog must be performed in the main account. |
 | Creating a product | The Seller Portal allows sellers to create their own products. To do this, they must be [invited](/en/docs/tutorials/marketplace-invited-sellers) to the Seller Portal as a standard seller, not a [white label seller](/en/docs/tutorials/white-label-seller). The products created by sellers need to be approved and [cataloged](/en/docs/tutorials/manual-sku-cataloging) by the VTEX marketplace. | Standard accounts can create products and use all the features of the **Catalog** module. | Franchise accounts cannot create products and do not have the **Catalog** module available. |
@@ -58,7 +58,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Prices
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Inheriting prices from  another account | When the VTEX marketplace [invites](/en/docs/tutorials/marketplace-invited-sellers) a seller to the Seller Portal selecting the [White Label Seller](/en/docs/tutorials/white-label-seller) option, the seller products inherit the marketplace prices. However, the seller can edit those prices. | Standard accounts do not inherit prices from another account. Prices must be added in the standard account environment. | Franchise accounts can inherit prices from the main account. |
 | VTEX marketplaces can overwrite seller prices | When the seller created via invitation is a regular seller, its price can be overwritten, but not if it is a white label seller. | Yes. | No. The VTEX marketplace can only set trade rules for franchise accounts. |
@@ -66,7 +66,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Promotions
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Sellers can create [promotions](/en/docs/tracks/how-promotions-work) | The seller creates and configures promotions directly in the Seller Portal. For more details about the creation process, refer to the document [Seller Portal: Create a promotion](/en/docs/tutorials/seller-portal-creating-a-promotion). | Can create and configure promotions, and run promotion simulations. | Can create and configure promotions, and run promotion simulations. |
 | Determining the channel for promotions | Sellers create promotions. | Yes. | Yes. |
@@ -74,7 +74,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Payments
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Reflecting all [payment](/en/docs/tracks/configuring-payment-connectors) methods in the VTEX Marketplace | Yes. | Yes. | Yes. |
 | Configuring payments so that orders with products sold by more than one seller make available only payment methods common to all sellers (lowest common multiple) | Yes. | Yes. | Yes. |
@@ -86,7 +86,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Logistics
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 | ---------- | ---------- | ---------- | ---------- |
 | Segmenting [shipping strategies](/en/docs/tutorials/shipping-strategy) for different marketplaces | No. The seller uses a single VTEX marketplace. | Yes. | No. Only available for the main account. |
 | Platform provided with native safety stock | No. | No. | No. |
@@ -97,25 +97,25 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Master Data
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 | ---------- | ---------- | ---------- | ---------- |
 | Sellers can access customer data when selling on the VTEX marketplace | Sellers do not have access to customer email or data. The information exchange takes place between the customer and the VTEX marketplace. | When the standard account sells in its own environment, it works both as a seller and a marketplace, therefore can access the customer data. A VTEX seller operating in a different VTEX marketplace does not have access to customer data. | Franchise accounts do not have access to customer email or data. |
 
 ## CMS/IO/Fast Store
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 | ---------- | ---------- | ---------- | ---------- |
 | Possibility of having storefront | No. | Yes. | No. |
 
 ## Intelligent Search
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Ranking search results in the VTEX marketplace using [Intelligent Search](/en/docs/tracks/overview-intelligent-search) so that it displays 1P (first-party) results before 3P (third party) results. | No. | No. | No. |
 
 ## Seller
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Connecting a seller to a VTEX marketplace | The seller receives an [invite](/en/docs/tutorials/marketplace-invited-sellers) sent by the VTEX marketplace. | The VTEX marketplace connects to a VTEX seller by [adding](/en/docs/tutorials/adding-a-seller) it in **Seller Management**. | A franchise account is automatically created as a seller of the main account. |
 | VTEX marketplaces can edit seller information in **Seller Management** | Yes. | Yes. | Yes. |
@@ -126,13 +126,13 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 ## Marketplace
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | Integrating with an [external marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-an-external-marketplace) | No. | Yes. | A franchise account cannot integrate with an external marketplace. However, franchise accounts can sell in external marketplaces using the [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory) feature. |
 | Integrating with multiple VTEX marketplaces | Each Seller Portal environment is connected to a single VTEX marketplace. | Yes. | Franchise accounts selling on the VTEX marketplace of the main account cannot integrate with other marketplaces. However, they can sell products on VTEX marketplaces that use the [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory) feature. |
 
 ## ERP
 
-| **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
+| Aspect | Seller Portal | Standard account | Franchise account |
 |---------- | ---------- | ---------- | ---------- |
 | [Integrating with market ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) | A Seller Portal environment can integrate with [ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) only via [APIs](https://developers.vtex.com/vtex-rest-api/reference/marketplace-api-overview). The integration allows configuring price, inventory and orders. Products must be manually created in the Seller Portal or shared with the VTEX marketplace. | Yes. | Yes. |

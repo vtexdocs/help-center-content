@@ -23,8 +23,8 @@ Before talking about the Outfit, it is important to remind you that you should k
 
 The following table describes the characteristics and scenarios for using a bundle or an outfit:
 
-| **Type** | **Definition** | **Example** |
-| :---: | :--- | :--- |
+| Type | Definition | Example |
+| --- | --- | --- |
 | [Bundle](/en/docs/tutorials/what-is-a-bundle) | <ul><li>The components form a set that can't be divided, and customers can't pick individual items from it.</li><li>The store may or may not offer individual components separately.</li></ul> | A men's fashion store offers a "Father's Day" bundle that includes a pair of shoes, a pair of socks, and a keychain. The customer isn't interested in the keychain, but likes the shoes and the socks, so they buy the bundle because items aren't sold separately. |
 | Outfit | <ul><li>The components are a buy-together suggestion and customers can pick and choose whatever items they want to buy from the outfit. Usually known as "Shop the Look".</li><li>The store always offers individual components separately.</li></ul> | A women's fashion store offers a "Summer" outfit that includes a bikini, a cover-up, and sandals. The customer doesn't like the sandals and only buys the bikini and the cover-up. |
 

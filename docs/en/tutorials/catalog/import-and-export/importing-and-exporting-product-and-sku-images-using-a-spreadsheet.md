@@ -54,7 +54,7 @@ The following table describes and includes an example of each field in the impor
 > ℹ️ To import a new image, the only required fields are **SKU ID** and **Image import URL**. Learn more in [Best practices for using images in the Catalog](/en/docs/tutorials/best-practices-for-using-images-in-the-catalog).
 
 | Field | Description | Example |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Product ID | Unique numeric code identifying the product. | 310117603 |
 | Product name | Product name shown to customers during the browsing experience. | Cotton t-shirt |
 | SKU ID* | Unique numeric code that identifies the SKU. | 310119261 |
