@@ -25,7 +25,7 @@ There are different possibilities for using pickup points, according to store's 
 
 In all cases, it is advisable to pay attention to the need (or not) for transportation between the [warehouse](/en/docs/tutorials/warehouse) and the pickup point. In this case, [set up](#setup) the pickup points with carriers that transport the packages to the pickup point. 
 
-## How Pickup Points Work
+## How Pickup Points work
 
 Currently, the platform limits the selection to the 300 pickup points closest to the customer's address, regardless of whether the pickup points are configured as active or not. Therefore, it is possible for pickup points to be disregarded even if they meet the location requirement.
 
@@ -45,7 +45,7 @@ Keep in mind that:
 
 Assure the pickup points settings are within the accepted limits and aligned with the store's sales strategy. This allows the [shipping simulation](/en/docs/tutorials/shipping-simulation) to consider the data correctly and ensures, for example, that the pickup point settings are not limiting the store's operation. 
 
-## How to Setup Pickup Points
+## How to set up Pickup Points
 
 VTEX considers the pickup point to be a shipping method, and therefore the settings on the platform follow the criteria of a shipping policy. So, in order for the pickup points to be available to the customer it is necessary to:
 
@@ -53,27 +53,26 @@ VTEX considers the pickup point to be a shipping method, and therefore the setti
     - **Using VTEX Admin:** adding each pickup point separately.
     - **Using an Admin spreadsheet:** adding several points simultaneously.
     - **Using an API:** with the [Create/Update Pickup Point](https://developers.vtex.com/vtex-rest-api/reference/pickup-points-1#createupdate) request.
-
 2. Setting up the Pickup Point [shipping strategy](/en/docs/tutorials/shipping-strategy):
     - Create at least one [loading dock](/en/docs/tutorials/managing-loading-docks) that serves the pickup point.
     - Create at least one [warehouse](/en/docs/tutorials/managing-warehouses) that supplies the pickup point.
     - Create at least [one shipping policy](/en/docs/tutorials/shipping-policy) for the pickup point, which includes adding the [shipping rate template](/en/docs/tutorials/shipping-rate-template) with the location of the pickup point.
-
 3. Linking the pickup point to the shipping policy:
     - Step 1: In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.  
     - Step 2: On the **Shipping Policies** tab, select the shipping policy created for the pickup point.
     - Step 3: In the **Actions** column, click on the <i class="fas fa-pen"></i> icon for editing.
     - Step 4: Enable the <i class="fas fa-toggle-on"></i> of the **Link pickup points** field.
-    - Step 5: Select the pickup point from the available fields. ![relacionarpontosretiradaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/pickup-points/pickup-points_1.png)> ℹ️ For stores that have more than 50 pick points, we recommend using the Pickup Point Tags field when creating a pick point. Using tags makes it easier to find the [pickup points when linking them to the shipping policy.](/en/docs/tutorials/shipping-policy#adding-a-shipping-policy) Also remember that the shipping policy that is linked to a pickup point will not be available for any other shipping method. We recommend creating a shipping policy that is exclusive to the pickup point.
-
-4. [Registering geolocation](/en/docs/tutorials/registering-geolocation): for greater accuracy of the location of the pickup points at the checkout.> ℹ️ Viewing pickup points with map and time at checkout is only available for Checkout V6.
-
+    - Step 5: Select the pickup point from the available fields. ![relacionarpontosretiradaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/pickup-points/pickup-points_1.png)
+        > ℹ️ For stores that have more than 50 pick points, we recommend using the Pickup Point Tags field when creating a pick point. Using tags makes it easier to find the [pickup points when linking them to the shipping policy.](/en/docs/tutorials/shipping-policy#adding-a-shipping-policy) Also remember that the shipping policy that is linked to a pickup point will not be available for any other shipping method. We recommend creating a shipping policy that is exclusive to the pickup point.
+4. [Registering geolocation](/en/docs/tutorials/registering-geolocation): for greater accuracy of the location of the pickup points at the checkout.
+     > ℹ️ Viewing pickup points with map and time at checkout is only available for Checkout V6.
 5. Enable the address request at checkout. This way, the customer will be required to provide their address to be used on the invoice:
     - Step 1: In the VTEX Admin, go to **Store settings > Storefront > Checkout**, or type *Checkout* in the search bar at the top of the page.  
     - Step 2: Select the configuration used in the store and click the <i class="fas fa-cog"></i> icon.
     - Step 3: Click the **Checkout** tab in the top bar.
-    - Step 4: Select the <i class="fas fa-toggle-on"></i> from the **Invoice address in pickup**.![NFpontoretiradaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/pickup-points/pickup-points_2.png)> ⚠️ The option of **Invoice address in pickup** must be enabled in all stores in Brazil, as it is a requirement that the invoice issued contains the customer's address information, even if the option to delivery of the order is at the pick-up point. The address filled in by the customer will be recorded in the `invoiceData` field of the [orderForm](https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata).
-
+    - Step 4: Select the <i class="fas fa-toggle-on"></i> from the **Invoice address in pickup**.
+    ![NFpontoretiradaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/pickup-points/pickup-points_2.png)
+    > ⚠️ The option of **Invoice address in pickup** must be enabled in all stores in Brazil, as it is a requirement that the invoice issued contains the customer's address information, even if the option to delivery of the order is at the pick-up point. The address filled in by the customer will be recorded in the `invoiceData` field of the [orderForm](https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata).
 6. Set the amount of pickup points that are displayed at checkout:
     - Step 1: In the VTEX Admin, go to **Store settings > Shipping > Settings**, or type *Shipping* in the search bar at the top of the page and select *Store settings / Shipping*.    
     - Step 2: Change the **Pickup points configuration** field: use the <i class="far fa-caret-square-up"></i> and <i class="far fa-caret-square-down"></i> buttons and select the quantity of pickup points that will become available in the search list (displayed at checkout).

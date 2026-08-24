@@ -63,7 +63,8 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 
 * **Días de la semana:**
     1. Marca las casillas de los días en que el punto de recogida estará disponible para que tus clientes recojan sus pedidos. 
-    2. Selecciona también las horas labolables del punto de recogida para cada día. > ℹ️ Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día.
+    2. Selecciona también las horas labolables del punto de recogida para cada día.
+      > ℹ️ Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día.
 * **Excepciones o feriados**: para añadir días específicos en los que el punto de recogida no funcionará, sigue los pasos a continuación:
     1. Haz clic en `Agregar excepción`.
     2. Rellena el **día** y la **hora**;
@@ -80,7 +81,8 @@ Es posible registrar los puntos de recogida mediante la importación de una plan
 1. En el Admin VTEX, accede a **Envío > Puntos de recogida**, o escribe *Puntos de recogida* en la barra de búsqueda en la parte superior de la página.  
 2. Haz clic en <i class="fas fa-upload"></i> `Cargar un XLS`.
 3. Descarga la plantilla y rellena los 
-[campos](#campos-de-la-plantilla).> ℹ️ Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.
+[campos](#campos-de-la-plantilla).
+> ℹ️ Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.
 4. Tras cargar la plantilla, haz clic en `OK`. Se habrán registrado los puntos de recogida. 
 
 ### Campos de la plantilla
