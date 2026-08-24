@@ -33,7 +33,7 @@ The path is as follows:
 In the report, products are divided into established groups according to their status:
 
 1. **Total Indexed**: Number or percentage of products correctly indexed. 
-2. **Not yet in Queue ** (Ainda não enfileirado): Number and percentage of products not yet in queue to join the indexing queue.
+2. **Not yet in Queue** (Ainda não enfileirado): Number and percentage of products not yet in queue to join the indexing queue.
 3. **Total in Queue** (Total na Fila): Number and percentage of products that are standing in the indexing queue.
 4. **In Queue Recently** (Na Fila recentemente): Number and percentage of products that have waited to be indexed for less than one hour.
 5. **In Queue between 1h and 2hrs** (Na fila entre 1 e 2 horas): Number and percentage of products that have waited to be indexed between one and two hours.

@@ -68,8 +68,8 @@ Con el propósito de promover la autonomía de nuestros clientes, hemos estructu
 
 Esperamos que este material contribuya al éxito de tu negocio y a tu satisfacción con VTEX.
 
-|  | **Guía de onboarding** |  |
-| :---: | :---: | :---: |
+|  | Guía de onboarding |  |
+| --- | --- | --- |
 | Parte I | Parte II | Parte III |
 | [Serie de la tienda VTEX](/es/docs/tracks/introduccion-a-vtex) | [Próximos pasos tras el go live](/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS) | [Soporte en VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy) |
 

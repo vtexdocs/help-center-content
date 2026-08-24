@@ -48,7 +48,7 @@ Puede descargar el modelo de plantilla actualizado desde el botón Descargar la 
 Para rellenar la plantilla:
 
 1. Consulte todas las categorías que se encuentran en la __columna A__. Estos son los valores que usted asociará con las categorías del seller en la columna C durante el paso 2.    
-2. Rellene la __columna __B con la categoría correspondiente de la __columna C__.  
+2. Rellene la __columna__ B con la categoría correspondiente de la __columna C__.  
 3. Repita el proceso hasta que la __columna C__ esté vacía.    
 4. Guarde el __archivo XLS__ de la plantilla.  
 5. En «Mapeo de categorías», haga clic en el botón __Cambiar mapeo de categorías__ para enviar la plantilla actualizada.  

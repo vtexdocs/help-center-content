@@ -25,7 +25,7 @@ A continuación, encontrarás más detalles sobre las diferentes secciones y pá
 
 ## Sellers
 
-La arquitectura de VTEX permite a las tiendas alojadas en tu plataforma anunciar productos de otras tiendas, sean o no tiendas VTEX. Cuando una tienda VTEX comienza a vender productos de _sellers_, se convierte en un _[marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#atuar-como-marketplace)_. La sección _Sellers _del Admin v4 reúne las funcionalidades necesarias para que esto ocurra.
+La arquitectura de VTEX permite a las tiendas alojadas en tu plataforma anunciar productos de otras tiendas, sean o no tiendas VTEX. Cuando una tienda VTEX comienza a vender productos de _sellers_, se convierte en un _[marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#atuar-como-marketplace)_. La sección _Sellers_ del Admin v4 reúne las funcionalidades necesarias para que esto ocurra.
 
 Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 

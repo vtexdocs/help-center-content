@@ -72,7 +72,7 @@ To create an SKU field, follow the instructions below:
 
     * **Name** *: Name of the SKU specification (field).
     * **Text** *: Field description.
-    * **Type**: Field type, which may vary between **Combo **or **Radio**. For more information on each option, read the [Field types](#sku-field-types) section.
+    * **Type**: Field type, which may vary between **Combo** or **Radio**. For more information on each option, read the [Field types](#sku-field-types) section.
     * **Group**: Name of the [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), in which the field will be included.
     * **Filter**: Defines if the specification will be used as a filter when navigating the** website.**
     * **Required**: Defines if a value is mandatory when adding an SKU. In the field is mandatory, the SKU may only be activated after filling in this specification.

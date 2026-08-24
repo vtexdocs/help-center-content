@@ -77,7 +77,7 @@ Considera el siguiente ejemplo: deseas promover productos de la marca Beautyx du
 
 * **Remover**: excluye las condiciones seleccionadas del resultado, es decir, elimina los productos que estarán en el resultado de la búsqueda.
 
-  > ℹ️ **Agregar** y **Eliminar** son compatibles con otros tipos de formas de ordenar que no se basan en la relevancia configurada. Por lo tanto, si agregas o eliminas un producto utilizando una regla de *merchandising *y si, por ejemplo, el cliente de tu tienda ordena los resultados de búsqueda por precio, los productos se ordenarán por precio, pero los productos mostrados respetarán la regla de *merchandising*.
+  > ℹ️ **Agregar** y **Eliminar** son compatibles con otros tipos de formas de ordenar que no se basan en la relevancia configurada. Por lo tanto, si agregas o eliminas un producto utilizando una regla de *merchandising* y si, por ejemplo, el cliente de tu tienda ordena los resultados de búsqueda por precio, los productos se ordenarán por precio, pero los productos mostrados respetarán la regla de *merchandising*.
 
 * **Promover**: resalta las condiciones seleccionadas en el resultado. Da más relevancia a un producto que ya aparecería en el resultado de la búsqueda.
 

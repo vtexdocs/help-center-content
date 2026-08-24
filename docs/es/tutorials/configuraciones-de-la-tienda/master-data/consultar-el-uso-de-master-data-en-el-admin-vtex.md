@@ -32,7 +32,7 @@ En la parte superior de la página, las tarjetas de resumen presentan una vista 
 En la sección **Entidades** se muestran detalles por entidad. La tabla lista solo entidades personalizadas y tiene dos columnas:
 
 | Columna | Descripción |
-| :--- | :--- |
+| --- | --- |
 | **Nombre** | Nombre de la entidad de datos. |
 | **Número de documentos** | Cantidad de documentos almacenados en la entidad. |
 

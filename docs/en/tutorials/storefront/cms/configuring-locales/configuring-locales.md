@@ -20,7 +20,7 @@ In this guide, you'll learn how to configure locales for your store.
 * Before configuring locales, you should understand two key concepts that determine how content appears in the storefront. Knowing these concepts helps you develop an effective localization strategy and avoid unnecessary content duplication.
 
 | Concept | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **[Locale fallback strategies](/en/docs/tutorials/understanding-locale-fallback-rules):** | Decide what content the system shows when a locale lacks its own localized content. |
 | [**Locale-binding connection:** ](#understanding-how-locales-are-connected-to-bindings)| Clarify how the storefront chooses the correct locale based on the binding configuration. |
 
@@ -29,7 +29,7 @@ In this guide, you'll learn how to configure locales for your store.
 * Make sure the following [resource](https://help.vtex.com/en/docs/tutorials/license-manager-resources) is associated with your [user role](https://help.vtex.com/en/docs/tutorials/roles):
 
 | Product | Category | Resource |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Commerce Content | Stores | Create Store |
 
 ## Accessing the Locales page
@@ -41,7 +41,7 @@ To access the **Locales** page, open the VTEX Admin and go to **Content > Stores
 The following table shows the options available on the page:
 
 | Option | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Search** | Filters the list of existing locales. |
 | **Create locale** | Opens a side panel to add a new language and region configuration to your store. |
 | **Locale** | Displays the locale name and code (for example, `English (US)` and `en-US`), representing the specific language and region combination configured for the store. |
@@ -61,7 +61,7 @@ To create a new locale for your store, follow these steps:
     ![creating-a-new-locale](https://vtexhelp.vtexassets.com/assets/docs/src/creating-locale-en___e21a64767d6f2ed54e2011daf226b0b6.png)
 
     | Field name | Description | Value example |
-    | :---- | :---- | :---- |
+    | ---- | ---- | ---- |
     | **Name** | Add the locale name. | `English (US)` |
     | **Active** | Select this box to make the locale available in your store once you create it. | - |
     | **Make this the default locale** | Select this option to set the locale as the default. The default locale serves as the primary source of content and as the fallback for other locales. When creating your first locale, you must select this option. You can change the default locale later. | - |

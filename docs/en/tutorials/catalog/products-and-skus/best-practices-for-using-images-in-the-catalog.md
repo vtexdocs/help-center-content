@@ -19,8 +19,8 @@ This article aims to outline some good practices regarding the use of the images
 
 The table below shows the size limits and formats accepted for each image:
 
-| **File size and format** | **Description** |
-| :--- | :--- |
+| File size and format | Description |
+| --- | --- |
 | Maximum size in pixels | 5,000 x 5,000 pixels |
 | Minimum size in pixels | 600 x 600 pixels |
 | Maximum size in MB | 4 MB |

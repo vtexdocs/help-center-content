@@ -16,7 +16,7 @@ legacySlug: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
 
 When uploading a freight spreadsheet, you may encounter the *"A column {name-of-column} from line {line-number} cannot be null"* error.
 
-This error occurs when the imported freight spreadsheet __has a tab outside the default format __.
+This error occurs when the imported freight spreadsheet __has a tab outside the default format__.
 
 Generally, the tab outside default format does not contain any important information. To solve the problem, __delete the tabs outside default format__, check if the tabs within default format have the correct information and try the upload again.
 

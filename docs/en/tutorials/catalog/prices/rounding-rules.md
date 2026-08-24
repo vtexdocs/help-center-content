@@ -30,19 +30,19 @@ For rounding prices you need to have a rule. This rule will let you select a pri
 #### Cents:
 
 - **Nine:** adds a 9 with zeros to the right of it. E.g.: R$59.56 → R$59.59
-- **Zero: **adds a 0 with zeros to the right of it. E.g.: R$20.56 → R$20.60
+- **Zero:** adds a 0 with zeros to the right of it. E.g.: R$20.56 → R$20.60
 
 #### Tenths of a cent:
 
-- **Nine: **adds a 9 with zeros to the right of it. E.g.: R$59.56 → R$59.90
-- **Nines: **adds a 9 with nines to the right of it. E.g.: R$5.07 → R$4.99
-- **Zero: **adds a 0 with zeros to the right of it. E.g.: R$263.56 → R$264.00
+- **Nine:** adds a 9 with zeros to the right of it. E.g.: R$59.56 → R$59.90
+- **Nines:** adds a 9 with nines to the right of it. E.g.: R$5.07 → R$4.99
+- **Zero:** adds a 0 with zeros to the right of it. E.g.: R$263.56 → R$264.00
 
 #### Unit:
 
-- **Nine: **adds a 9 with zeros to the right of it. E.g.: R$59.56 → R$59.00
-- **Nines: **adds a 9 with nines to the right of it. E.g.: R$5.07 → R$9.99 [sic]
-- **Zero: **adds a 0 with zeros to the right of it. E.g.: R$263.56 → R$260.00
+- **Nine:** adds a 9 with zeros to the right of it. E.g.: R$59.56 → R$59.00
+- **Nines:** adds a 9 with nines to the right of it. E.g.: R$5.07 → R$9.99 [sic]
+- **Zero:** adds a 0 with zeros to the right of it. E.g.: R$263.56 → R$260.00
 
 ## Criteria for rounding 
 
@@ -51,7 +51,7 @@ Rounding uses the _absolute difference_ between the original price and amounts c
 This being so, you must always remember that rounding will be by approximation to the amount with the required ending. Thus the user can round a price up or down, and this change will be according to the choice of a decimal place.
 
 - **Cent:** variation of up to 5 cents; 
-- **Tenth of a cent: **variation of up to 50 cents; 
+- **Tenth of a cent:** variation of up to 50 cents; 
 - **Unit:** variation of up to 5 _Reais_.
 
 At the end, the user can view prices with the configurations of the rule, and can test a price to see how it will change when the rounding rule is applied.

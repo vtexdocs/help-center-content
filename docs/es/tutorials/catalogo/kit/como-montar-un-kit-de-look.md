@@ -23,8 +23,8 @@ Antes de hablar sobre el Kit de look es importante recordarle que debe crear un 
 
 La siguiente tabla presenta las características y contextos para el uso de kit o kit de look:
 
-| **Tipo** | **Definición** | **Ejemplo** |
-| :---: | :--- | :--- |
+| Tipo | Definición | Ejemplo |
+| --- | --- | --- |
 | [Kit](/es/docs/tutorials/que-es-un-kit) | <ul><li>Los componentes forman un conjunto que no se puede dividir, de modo que el cliente no puede comprar los ítems por separado.</li><li>La tienda puede decidir si ofrece los componentes para compra individual o no.</li></ul> | Una tienda de moda masculina ofrece el kit "Día del Padre", compuesto por un par de zapatos, medias y un llavero. Al cliente no le interesa el llavero, pero le gustaron los zapatos y las medias, por lo que acepta llevarse el kit completo, ya que no es posible comprar ítems individuales. |
 | Kit de look | <ul><li>Los componentes funcionan como una sugerencia de compra conjunta, y el cliente puede elegir los ítems del kit de look que desea adquirir. Normalmente conocido como "Shop the Look".</li><li>La tienda ofrece todos los componentes para compra individual.</li></ul> | Una tienda de moda femenina ofrece la venta del kit de look "Verano", formado por un bikini, una salida de playa y unas sandalias. A la cliente no le gustaron las sandalias y compra solo el bikini y la salida de playa. |
 

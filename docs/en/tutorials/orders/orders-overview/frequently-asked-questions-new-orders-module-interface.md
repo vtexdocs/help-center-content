@@ -52,7 +52,7 @@ If you want to see the **Order diagram** as in the old interface, click `View di
 
 In the **Items to invoice** section of the new interface, you can access all invoicing-related actions through the `Invoice` button, displayed in this section and at the top of the screen. When you click `Invoice`, the following options are shown:
 
-* **Submit invoice referencing items: **This option is exclusive to the new interface. It allows you to issue the invoice for all or specific items identified by SKU, inventory, and price. The following image shows an example:
+* **Submit invoice referencing items:** This option is exclusive to the new interface. It allows you to issue the invoice for all or specific items identified by SKU, inventory, and price. The following image shows an example:
 
 ![faturar_referenciar_pedidos_final_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_5.png)
 

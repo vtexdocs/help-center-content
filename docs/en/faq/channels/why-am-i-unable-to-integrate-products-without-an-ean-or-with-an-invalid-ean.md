@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-am-i-unable-to-integrate-products-without-an-ean-or-with-an-invalid-ean
 ---
 
-Some Marketplaces, including B2W, identify the **EAN **data item, which is the product bar code, as mandatory for integration on their platform.
+Some Marketplaces, including B2W, identify the **EAN** data item, which is the product bar code, as mandatory for integration on their platform.
 
 Validation is done using the check digit, and in the event it is not valid, this prevents the integration of the product. 
 

@@ -39,4 +39,4 @@ A tradução do Admin para o Tailandês foi incentivada para melhor atender o me
 
 ## O que precisa ser feito?
 
-Para visualizar o Admin em Tailandês, basta selecionar o código **TH **no menu de seleção de idiomas no canto superior direito da tela. 
+Para visualizar o Admin em Tailandês, basta selecionar o código **TH** no menu de seleção de idiomas no canto superior direito da tela. 

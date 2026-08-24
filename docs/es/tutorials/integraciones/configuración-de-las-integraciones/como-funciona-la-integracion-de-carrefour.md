@@ -44,8 +44,8 @@ Para que los productos se muestren en Carrefour, la integración envía los sigu
 | - | Imágenes* (hay límite de 5 imágenes por SKU) |
 | - | Especificaciones |
 
-_Leyenda: _
-`*` Campos obligatorios.<br />
+_Leyenda:_
+`*` Campos obligatorios
 
 > ⚠️ Carrefour no acepta productos con variación (más de uno SKU).
 

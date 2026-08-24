@@ -22,7 +22,7 @@ As of **September 21, 2026**, administrative operations for the [Availability No
 The following Availability Notify administrative operations will now require the **Download Notification Requests** feature, in addition to an authenticated administrative session:
 
 | Operation | Route/GraphQL | Action in the Admin |
-| :- | :- | :- |
+| --- | --- | --- |
 | `listRequests` | `/_v/availability-notify/list-requests` | Download requests |
 | `processUnsentRequests` | `/_v/availability-notify/process-unsent` | Process unsent |
 | `deleteRequest` | GraphQL mutation | - |

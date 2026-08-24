@@ -52,7 +52,7 @@ Cada vez que modificas una entrada, se crea una nueva versión. Por ejemplo, si 
 Una vez que hayas realizado los cambios, tienes las siguientes acciones disponibles:
 
 | Acción | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | `Guardar en main` | Guarda tus ediciones actuales directamente en la rama `main`, actualizando la versión publicada de esa entrada y actualizando la tienda visible para los compradores. |
 | `Guardar en branch` | Guarda tus ediciones como una nueva versión solo en la rama seleccionada (por ejemplo, `black-friday`), manteniendo la rama `main` sin cambios. Úsalo para trabajar en borradores o campañas sin afectar lo que está publicado en la tienda. |
 | `Descartar` | Elimina todos los cambios no guardados en el formulario y restaura la entrada a su última versión guardada en `main` u otra rama, sin crear una nueva versión. Esta acción no se puede deshacer. |
@@ -68,7 +68,7 @@ Las versiones guardadas en la rama `main` pueden visualizarse y restaurarse para
 Una vez visualizada, puedes elegir entre las siguientes acciones:
 
 | Acción | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | `Restaurar en Main` | Duplica la versión y la publica en la rama `main` como una nueva versión en la tienda. |
 | `Restaurar en branch` | Duplica la versión y la añade a una rama de destino para edición adicional, sin afectar la tienda. |
 | `Cerrar` | Cierra la versión anterior y te devuelve a la rama `main` sin aplicar ninguna restauración. |
@@ -84,7 +84,7 @@ Las ramas facilitan la colaboración en equipo, los cambios de contenido masivos
 ![branches-overview](https://vtexhelp.vtexassets.com/assets/docs/src/branches-overview-es___c0ecb683a97155912c2a328fe8e87b25.png)
 
 | Función | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Ramas (`+`)** | Lista todas las ramas de la tienda. Usa el **`+`** para crear una nueva rama. |
 | **Búsqueda** | Encuentra entradas por nombre dentro de la rama y la tienda actuales. |
 | **Filtro por tipo de contenido** | Filtra la lista de entradas por tipo de contenido (por ejemplo, `home`, `pdp`, `landingPage`). |

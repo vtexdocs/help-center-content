@@ -35,7 +35,7 @@ Por ejemplo, imagina que tu tienda tiene productos de diferentes _sellers_. Algu
 
 Para definir a un _seller_ como de extensa cobertura, este debe tener un área de entrega significativa para la operación de tu tienda. Esto es importante porque cuando el cliente navega por la tienda sin informar previamente de su ubicación, se le mostrarán los productos del _seller_ principal (_seller_ 1) y de los _sellers_ de extensa cobertura. 
 
-Así, si los _sellers _registrados como de extensa cobertura no cumplen con las condiciones de entrega ​de al menos la mayoría de los clientes, estos no verán satisfechas sus expectativas durante la compra.
+Así, si los _sellers_ registrados como de extensa cobertura no cumplen con las condiciones de entrega ​de al menos la mayoría de los clientes, estos no verán satisfechas sus expectativas durante la compra.
 
 Recomendamos utilizar la configuración de _seller_ de extensa cobertura para los _sellers_ que realizan entregas en todo el país.
 
@@ -54,7 +54,7 @@ En los casos de más de un *seller* de extensa cobertura registrado, el *checkou
 La habilitación del _seller_ de extensa cobertura se realiza mediante API:
 
 * Al crear el _seller_, mediante la [API de creación](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/-accountName-.-environment-.com.br/api/seller-register/pvt/sellers);
-* O al actualizar un _seller _existente, a través de la [API de actualización](https://developers.vtex.com/docs/api-reference/marketplace-apis#patch-/-accountName-.-environment-.com.br/api/seller-register/pvt/sellers/-sellerId-).
+* O al actualizar un _seller_ existente, a través de la [API de actualización](https://developers.vtex.com/docs/api-reference/marketplace-apis#patch-/-accountName-.-environment-.com.br/api/seller-register/pvt/sellers/-sellerId-).
 
-En ambos casos es necesario activar la propiedad `isBetterScope`. Cuando la propiedad está activada (`true`), la plataforma interpreta que el _seller _entrega en toda la región de cobertura de la tienda, lo que permite que los ítems estén disponibles incluso sin que esté definida la ubicación.
+En ambos casos es necesario activar la propiedad `isBetterScope`. Cuando la propiedad está activada (`true`), la plataforma interpreta que el _seller_ entrega en toda la región de cobertura de la tienda, lo que permite que los ítems estén disponibles incluso sin que esté definida la ubicación.
 

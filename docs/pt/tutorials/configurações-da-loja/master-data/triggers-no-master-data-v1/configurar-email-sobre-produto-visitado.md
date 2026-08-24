@@ -129,7 +129,7 @@ Para configurar a trigger, siga as instruções abaixo:
 13. Clique na aba** Se positivo**.
 14. Preencha esta aba da seguinte forma:
     * **Ação**: selecione **Enviar um email**.
-    * **Destinatário**: como teste, digite seu e-mail e clique em `Adicionar e-mail estático`. Quando já tiver testado, exclua seu e-mail, selecione **CL: Email **e clique em `Adicionar e-mail dinâmico`.
+    * **Destinatário**: como teste, digite seu e-mail e clique em `Adicionar e-mail estático`. Quando já tiver testado, exclua seu e-mail, selecione **CL: Email** e clique em `Adicionar e-mail dinâmico`.
     * **Formato do corpo do e-mail**: selecione **HTML**.
     * **Nome do remetente**: insira o nome de sua loja da forma que você deseja que apareça no remetente do email.
     * **Responder para**: preencha com o endereço de email para o qual o cliente poderá enviar uma resposta.

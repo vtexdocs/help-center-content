@@ -25,7 +25,7 @@ Una feature útil para esto es el log de requests generado por la herramienta de
 
 Consulte la siguiente tabla para ver la documentación con las instrucciones de exportación de archivos para cada navegador:
 
-| **Navegador** | **Documentación** |
+| Navegador | Documentación |
 | ---------- | ---------- |
 | Google Chrome (recomendado) | Google: [Capture el tráfico de las sesiones web](https://support.google.com/admanager/answer/10358597?hl=es-419&sjid=2751223489427809764-SA) |
 | Mozilla Firefox, Safari o Microsoft Edge | Zendesk: [Generación de un archivo HAR para la resolución de problemas](https://support.zendesk.com/hc/es/articles/4408828867098-Generacion-de-un-archivo-HAR-para-la-resolucion-de-problemas) |

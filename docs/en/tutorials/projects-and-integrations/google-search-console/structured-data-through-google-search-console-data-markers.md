@@ -25,7 +25,7 @@ Marcador de Dados is an identification and relationship interface that enables t
 
 Through simple phases, users are able to inform Google about the pages that must be identified as structured data.
 
-Through Google Search Console **Marcador de Dados **you can structure data for the following purposes:
+Through Google Search Console **Marcador de Dados** you can structure data for the following purposes:
 
 - Applications
 - Articles
@@ -82,7 +82,7 @@ With this type of information, users are able to send to Google information abou
 
 - Name: ***mandatory**
 - _Image:_
-- Price:** *mandatory**
+- Price: **mandatory**
 - <em style="color: gray;">_Availability_:_
 - <em style="color: gray;">_Product ID_:_
 - _Average rating:_

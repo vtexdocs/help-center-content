@@ -89,7 +89,7 @@ Once the operation is complete, the window will display the following changes:
 The following table describes and includes an example of each field in the products and SKU import spreadsheet. Required fields are marked with an asterisk (*).
 
 | Field | Description | Example |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Product ID | Product identification number. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310117603 |
 | Product Name* | Product name shown to customers during navigation (up to 150 characters). For [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes, we recommend:<ul><li>✅ Use simple words</li><li>❌ Avoid using other languages</li><li>❌ Avoid complex spelling</li></ul> | Corebiz t-shirt |
 | Active product | Informs whether the [product status](/en/docs/tutorials/products-and-skus#filtrar-por-status) will be active or inactive. This field is read-only and must be left empty. | (Leave the field empty) |

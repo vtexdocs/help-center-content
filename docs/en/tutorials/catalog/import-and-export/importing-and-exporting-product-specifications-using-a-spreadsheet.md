@@ -53,7 +53,7 @@ Once the export is complete, you'll receive an email with a link to download the
 The following table describes and includes an example for each field of the product specification import spreadsheet. Required fields are marked with an asterisk (*).
 
 | Field | Description | Example |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | Product ID* | Unique numeric code identifying the product. | 310117603 |
 | Product Name | Product name shown to customers during the browsing experience. | Cotton t-shirt |
 | Product Reference Code | Unique product reference code, used internally by the store. To complete this field, use a combination of letters and/or numbers. | shirtColor |

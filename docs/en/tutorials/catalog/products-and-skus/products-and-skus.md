@@ -32,7 +32,7 @@ This page allows you to:
 
 From the product list, you can find the following information: 
 
-| **Column** | **Description** |
+| Column | Description |
 |----|----|
 | **Name** | The product name, set when adding it. Below the name, the page displays the product ID, which is the product's unique identifier code.Next to the name, each row displays an arrow <i class="fas fa-chevron-right"></i> to [view the list of SKUs](#viewing-the-sku-list) associated with the product, an icon that represents [product availability](#tracking-product-availability) and the product image. |
 | **Last Update** | Date of the most recent product [indexing](/en/docs/tutorials/understanding-how-indexation-works). For more details about this process, go to the [Viewing indexed information](#viewing-indexed-information) section. |
@@ -76,8 +76,8 @@ You can filter the product list using the options below. Select the desired filt
 
 The table below explains the filtering options for `Status`:
 
-| **Status type** | **Description** |
-| :---: | :--- |
+| Status type | Description |
+| --- | --- |
 | Active | The product becomes active when the merchant enables this setting, meaning they want to sell it.Activation alone doesn't guarantee availability — the product also needs to meet other conditions, like price and inventory. Learn more in [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website). |
 | Inactive | The product becomes inactive when the merchant disables this setting, meaning they don't want to sell it at the moment. All inactive products are unavailable for sale. |
 
@@ -87,8 +87,8 @@ The same availability icons also apply to SKUs, as explained in the next section
 
 On the **Products and SKUs** page, each product has a colored icon that indicates its availability for sale. When you hover over the icon, additional information is displayed. See more details in the table below:
 
-| **Icon color** | **Name** | **Meaning** |
-| :---: | :--- | :--- |
+| Icon color | Name | Meaning |
+| --- | --- | --- |
 | Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [sales channel](/en/docs/tutorials/how-trade-policies-work). |
 | Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) |
 | White | `Inactive in the catalog` | The product is disabled and has an inactive status.When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply. |
