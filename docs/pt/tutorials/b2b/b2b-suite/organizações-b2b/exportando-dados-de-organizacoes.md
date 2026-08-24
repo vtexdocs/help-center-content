@@ -62,7 +62,7 @@ Cada linha da tabela pode apresentar um dos seguintes status:
 - **Generating...**: o sistema está gerando o arquivo.
 - **Ready**: o arquivo está pronto e a ação `Baixar arquivo` fica disponível na mesma linha.
 
-Quando o sistema conclui a exportação, o Admin VTEX exibe a mensagem **Exportação concluída. Download iniciado**. Para salvar o arquivo de um tipo de dado, clique em `Baixar arquivo` na linha correspondente.
+Quando o sistema conclui a exportação, o Admin VTEX exibe a mensagem **Exportação concluída. Download iniciado**. Para salvar o arquivo de um tipo de dado, clique em `Baixar arquivo` na linha correspondente. O sistema também envia um e-mail com os arquivos exportados, então você não precisa manter a aba do Admin aberta para obtê-los.
 
 ## Limitações
 
