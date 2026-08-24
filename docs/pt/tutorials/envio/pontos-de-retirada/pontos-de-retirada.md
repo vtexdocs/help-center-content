@@ -64,7 +64,8 @@ A VTEX considera que o ponto de retirada é uma forma de envio e, por isso, as c
     - d. Ative o <i class="fas fa-toggle-on"></i> do campo **Relacionar pontos de retirada**.
     - e. Selecione o ponto de retirada pelos campos disponíveis.![relacionarpontosretiradaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/pontos-de-retirada/pontos-de-retirada_1.png)
         > ℹ️ Para lojas que possuem mais de 50 pontos de retirada, recomendamos utilizar o campo Tags dos pontos de retirada ao criar um ponto de retirada. Utilizar tags facilita a busca dos pontos de [retirada na hora de relacioná-los com a política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio).Lembre-se também que a política de envio que está associada a um ponto de retirada não fica disponível para outro tipo de envio. Recomendamos criar uma política de envio exclusiva do ponto de retirada.
-5. [Cadastrar a geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao): para maior precisão da localização dos pontos de retirada no checkout.> ℹ️ A visualização dos pontos de retirada com mapa e horário no checkout está disponível apenas para o Checkout V6.
+5. [Cadastrar a geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao): para maior precisão da localização dos pontos de retirada no checkout.
+  > ℹ️ A visualização dos pontos de retirada com mapa e horário no checkout está disponível apenas para o Checkout V6.
 6. Habilitar a solicitação de endereço no checkout. Dessa forma, o cliente precisa adicionar o seu endereço para ser usado na nota fiscal:
     - a. No Admin VTEX, acesse **Configurações da loja > Storefront > Checkout**, ou digite *Checkout* na barra de busca no topo da página. 
     - b. Seleciona a configuração utilizada na loja e clique no ícone <i class="fas fa-cog"></i>.

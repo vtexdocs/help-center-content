@@ -79,7 +79,7 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 
 > ❗ Cada pestaña de la plantilla no debe superar las 65 536 filas. Se pueden crear varias pestañas en la misma plantilla, respetando el límite de filas. No hay un límite en el número de pestañas dentro del archivo. Sin embargo, el archivo no puede superar los 10MB. En caso de que sea necesario, comprima el archivo en formato **.zip**. Si esto no es suficiente, divídalo en dos archivos y registre otra política de envío para cargar el segundo archivo creado.
 
-Si hay algún problema al completar los campos del archivo enviado, recibirá un *_email*_ para informarle del error. Asegúrese de revisar si la plantilla se completó correctamente antes de hacer un nuevo intento de envío.
+Si hay algún problema al completar los campos del archivo enviado, recibirá un _email_ para informarle del error. Asegúrese de revisar si la plantilla se completó correctamente antes de hacer un nuevo intento de envío.
 
 La carga y confirmación del registro de la plantilla puede tardar un poco, ya que es posible que el procesamiento del archivo no se produzca inmediatamente debido al volumen de información. 
 
