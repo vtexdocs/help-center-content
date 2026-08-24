@@ -3,7 +3,7 @@ title: 'VTEX information security and privacy certificates'
 id: 3aj7k3rfp3vMa5bnXvoo8r
 status: PUBLISHED
 createdAt: 2025-05-20T13:47:32.398Z
-updatedAt: 2025-05-20T13:52:00.133Z
+updatedAt: 2026-08-24T13:52:00.133Z
 publishedAt: 2025-05-20T13:52:00.133Z
 firstPublishedAt: 2025-05-20T13:52:00.133Z
 contentType: tutorial
@@ -23,7 +23,13 @@ ISO 27001 is an international standard that defines the requirements for an Info
 
 VTEX certification was issued in Brazil, but covers global data and transactions, as all platform data is processed in Brazil. The certificate is for the VTEX platform and is valid globally.
 
-The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/).
+The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/?itemUid=1fed9faa-4a87-427c-9a95-96b4d6bf66b7&source=click).
+
+## ISO/IEC 27701
+
+ISO/IEC 27701 is an extension of ISO/IEC 27001 focused specifically on privacy information management (PIMS - Privacy Information Management System). It establishes requirements and guidelines for the processing of personal data, reinforcing VTEX's commitment to privacy best practices aligned with regulations such as the LGPD and the GDPR.
+
+The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/?itemUid=dc79cbc7-c99d-4eb9-891e-f5dc44b943d7&source=click).
 
 ## PCI-DSS
 
@@ -31,7 +37,7 @@ PCI-DSS (Payment Card Industry Data Security Standard) is a required certificati
 
 VTEX complies with the latest version of the certification, PCI-DSS v4.0. This certification is valid for 12 months from the audit date and is renewed annually.
 
-The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/).  
+The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/?itemUid=53e1508c-665e-45a8-9ce0-03fdf9ae1efb&source=title).  
 
 > ℹ️ The PCI-DSS certificate indicates the issue date as the Assessment End Date. The Publication Date field refers to the date the PCI standard was officially published, not to the certificate's validity.
 
@@ -45,7 +51,7 @@ The report evaluates the controls applied during the previous year. For example,
 
 Certificates are usually issued at the end of the first quarter or the beginning of the second quarter following the year under review. If there's a gap between the validity of the last available SOC report and the next audit, VTEX can issue a Bridge Letter (or Gap Letter) to cover the period.
 
-You can request access to the SOC certificates via the [VTEX Trust Center](https://compliance.vtex.com/).
+You can request access to the SOC certificates via the [VTEX Trust Center](https://compliance.vtex.com/?itemUid=4172d827-b055-4117-a2dc-7b0746d7afd0&source=title).
 
 ## Data Privacy Framework (DPF)
 

@@ -3,7 +3,7 @@ title: 'Certificados de segurança da informação e privacidade da VTEX'
 id: 3aj7k3rfp3vMa5bnXvoo8r
 status: PUBLISHED
 createdAt: 2025-05-20T13:47:32.398Z
-updatedAt: 2025-05-20T13:52:00.133Z
+updatedAt: 2026-08-24T13:52:00.133Z
 publishedAt: 2025-05-20T13:52:00.133Z
 firstPublishedAt: 2025-05-20T13:52:00.133Z
 contentType: tutorial
