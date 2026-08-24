@@ -27,7 +27,7 @@ Você já pode oferecer os produtos de toda sua rede de lojas físicas em __mark
 
 A única configuração necessária é a integração da conta principal com o marketplace externo. No momento em que isso for feito, os estoques de todas as contas-franquia vinculadas à principal também serão enviados para o marketplace. Essa é uma nova característica das contas-franquia, que já está ativa para facilitar sua vida na hora integrar sua operação com marketplaces.
 
-> ⚠️ **A integração automática do estoque das contas-franquia só está disponível por enquanto para marketplaces externos**.
+> ⚠️ A integração automática do estoque das contas-franquia só está disponível por enquanto para marketplaces externos.
 
 ## O que mudou
 

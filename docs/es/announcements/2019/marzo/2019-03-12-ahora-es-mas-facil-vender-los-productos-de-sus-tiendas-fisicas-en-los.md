@@ -27,7 +27,7 @@ Usted ya puede ofrecer los productos de toda su red de tiendas físicas en __mar
 
 Ninguna acción es necesaria. La única configuración necesaria es la integración de la cuenta principal con el marketplace externo. En el momento en que esto se hace, los inventarios de todas las cuentas franquicia vinculadas a la principal también serán enviadas al marketplace. Esta es una nueva feature de las cuentas franquicia, que ya está activa para facilitar su vida a la hora de integrar su operación con marketplaces.
 
-> ⚠️ **La integración automática del inventario de las cuentas franquicia sólo está disponible por el momento cuando el marketplace no es VTEX**.
+> ⚠️ La integración automática del inventario de las cuentas franquicia sólo está disponible por el momento cuando el marketplace no es VTEX.
 
 ## Que ha cambiado
 
