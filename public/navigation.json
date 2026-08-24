@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Updates to VTEX's privacy and security program",
+                    "es": "Actualizaciones en el programa de privacidad y seguridad de VTEX",
+                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
+                  },
+                  "slug": {
+                    "en": "2026-08-28-updates-to-vtexs-privacy-and-security-program",
+                    "es": "2026-08-28-actualizaciones-en-el-programa-de-privacidad-y-seguridad-de-vtex",
+                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Breaking change: New required permission for the Availability Notify app",
                     "es": "Breaking change: Nuevo permiso obligatorio para la aplicación Availability Notify",
                     "pt": "Breaking change: Nova permissão obrigatória para o app Availability Notify"
@@ -534,52 +549,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "August",
-                "es": "Agosto",
-                "pt": "Agosto"
-              },
-              "slug": {
-                "en": "august",
-                "es": "agosto",
-                "pt": "agosto"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Updates to VTEX's privacy and security program",
-                    "es": "Actualizaciones en el programa de privacidad y seguridad de VTEX",
-                    "pt": "Privacidade e segurança: recertificação ISO/IEC 27701 e atualizações em DPA e subprocessadores"
-                  },
-                  "slug": {
-                    "en": "2026-08-28-updates-to-vtexs-privacy-and-security-program",
-                    "es": "2026-08-28-actualizaciones-en-el-programa-de-privacidad-y-seguridad-de-vtex",
-                    "pt": "2026-08-28-privacidade-e-seguranca-recertificacao-iso-iec-27701-e-atualizacoes-em-dpa-e-subprocessadores"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Orders: New orders listing available in open beta",
-                    "es": "Pedidos: nueva lista de pedidos disponible en beta abierta",
-                    "pt": "Pedidos: nova lista de pedidos disponível em beta aberto"
-                  },
-                  "slug": {
-                    "en": "2026-08-10-orders-new-orders-list-available-in-open-beta",
-                    "es": "2026-08-10-pedidos-nueva-listagen-de-pedidos-disponible-en-beta-abierto",
-                    "pt": "2026-08-10-pedidos-nova-lista-de-pedidos-disponivel-em-beta-aberto"
                   },
                   "origin": "",
                   "type": "markdown",
