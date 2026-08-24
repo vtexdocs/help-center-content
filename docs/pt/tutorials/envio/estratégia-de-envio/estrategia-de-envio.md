@@ -13,6 +13,7 @@ slugEN: shipping-strategy
 legacySlug: estrategia-de-envio, qual-a-diferenca-entre-estoque-e-doca
 locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
+categoryCover: true
 ---
 
 Estratégia de envio é a relação entre estoque, doca e política de envio. A forma que   estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
@@ -47,8 +48,8 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
 
 As configurações podem ser realizadas pelo Admin VTEX ou por API. Se você está começando a configurar sua estratégia de envio, a ordem de cadastro sugerida é a seguinte:
 
-| **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
-| :--- | :--- | :--- |
+| Assunto | Configuração via Admin VTEX | Configuração via API |
+| --- | --- | --- |
 | 1. [Política de envio](/pt/docs/tutorials/politica-de-envio) | [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Doca](/pt/docs/tutorials/doca) | [Gerenciar doca](/pt/docs/tutorials/gerenciar-doca) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Estoque](/pt/docs/tutorials/estoque) | [Gerenciar estoque](/pt/docs/tutorials/gerenciar-estoque) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |

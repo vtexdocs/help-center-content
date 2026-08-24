@@ -37,8 +37,8 @@ The payment settings described in this track can be configured at any time durin
 
 The table below shows the main agents and terms used in the Payments context:
 
-| **Term** | **Description** |
-| :---: | :--- |
+| Term | Description |
+| --- | --- |
 | **Gateway**  | System that processes order payment information during checkout. | 
 | **Acquirer** | Company that processes credit and debit card payments. |
 | **Subacquirer** | Company that handles payments and acts as an intermediary between acquirers, anti-fraud providers, and merchants.|
@@ -210,8 +210,8 @@ One of the advantages of **My Account** is that it facilitates more direct commu
 
 The following table shows some optional settings in the Orders module:
 
-| **Feature** | **Description** |
-| :---: | :--- |
+| Feature | Description |
+| --- | --- |
 | Subscriptions | [Subscriptions](/en/docs/tutorials/how-subscriptions-work) is an automatic order scheduler to simplify recurring purchases for store customers. The customer specifies the items they want to buy and how often the automatic orders should be placed.<br><br>[Setting up subscriptions](/en/docs/tutorials/how-to-configure-subscriptions) is particularly interesting for business models such as supermarkets and pet stores, where customers consume the same products on a regular basis. |
 | Telesales | The [telesales](/en/docs/tutorials/telesales-features) solution gives the customer service team more autonomy in assisting customers. By [configuring the telesales features](/en/docs/tutorials/configuring-telesales-features), store operators can perform tasks such as:<br><br>- Making purchases on behalf of a customer.<br>- Manually adjusting item prices in a shopping cart.<br>- Editing existing orders.<br>- Managing customer profile information in [My Account](#my-account-feature).|
 | Price divergence | In store [marketplace strategies](/en/docs/tutorials/marketplace-strategies-at-vtex) in the VTEX ecosystem, the price set by the seller can differ from the price offered by the marketplace. Scenarios such as promotions in the marketplace can affect the original price set by the seller for their product.<br><br>To prevent order processing errors, VTEX sellers can [configure price divergence rules](/en/docs/tutorials/configuring-price-divergence-rule) and set parameters to allow the automatic authorization of orders with a price difference between the seller's set price and the marketplace offering. By implementing automatic rules for approving or rejecting orders with price discrepancies, the store can avoid the need for manual processing of each item, increasing operational efficiency. |

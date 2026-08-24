@@ -1,5 +1,5 @@
 ---
-title: 'Site Editor - Overview'
+title: 'Site Editor'
 id: 299Dbeb9mFczUTyNQ9xPe1
 status: PUBLISHED
 createdAt: 2021-12-14T20:14:01.406Z
@@ -13,7 +13,6 @@ slugEN: site-editor-overview
 legacySlug: site-editor-overview
 locale: en
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
-order: 1
 ---
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
@@ -26,7 +25,7 @@ In your VTEX Admin, access **Storefront > Site Editor** and you’ll see the mai
 
 ![Site Editor - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/cms-for-store-framework/site-editor/site-editor-overview_1.png)
 
-| **Tool**    | **Description** |
+| Tool    | Description |
 | ----------  | ----------    |
 | Binding locale | Select the binding locale to which you want to apply content changes. For example, English (en-GB), Portuguese (pt-BR), or Spanish (es-AR). |
 | URL | Navigate between pages on your store.|

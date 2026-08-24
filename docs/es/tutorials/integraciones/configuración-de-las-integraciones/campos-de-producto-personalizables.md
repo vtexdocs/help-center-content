@@ -22,8 +22,8 @@ En esta documentación encontrarás **qué campos se pueden personalizar**, **c�
 
 Consulte la siguiente tabla sobre qué campos se pueden personalizar y la descripción del campo:
 
-| **Nombre del campo** | **Descripción** |
-|:---:|:---:|
+| Nombre del campo | Descripción |
+|---|---|
 | meli_title | Envíe el nombre registrado en este campo en lugar del nombre en el campo `título`. |
 | meli_shipping_mode | Define el [tipo de logística](/es/docs/tracks/configurar-la-logistica-para-mercado-libre) utilizada por el vendedor: [me1](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) o [me2](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
 | officialstoreid_meli | Define la tienda oficial del vendedor en Mercado Livre. |
@@ -63,8 +63,8 @@ Los valores de los campos de producto variarán según el tipo de campo. No se c
 
 Sin embargo, para los campos __Combo, Radio y Checkbox__ es necesario registrar valores predefinidos para seleccionarlos durante el registro del producto. Verifique los valores aceptados para cada campo personalizable en la siguiente tabla:  
 
-| **Nombre del campo** | **Tipo de campo** | **Descripción del tipo de campo** | **Valor de campo** |
-|:---:|:---:|:---:|:---:|
+| Nombre del campo | Tipo de campo | Descripción del tipo de campo | Valor de campo |
+|---|---|---|---|
 | meli_title | Texto grande | Rellenar contenido como texto libre, adecuado para estructuras HTML grandes. | Texto libre |
 | meli_shipping_mode | Combo | Contenido con dos o más valores predefinidos, para seleccionar una opción en una lista desplegable. | me1 e me2 |
 | officialstoreid_meli | Texto | Rellenar el contenido como texto libre, apto para textos pequeños con formato sencillo. No apto para estructuras HTML grandes. | Texto alfanumérico. Ej: 8457 |

@@ -29,7 +29,7 @@ A atualização inclui uma interface otimizada para facilitar a gestão e novas 
 Veja todas as novidades a seguir:
 
 | Alteração | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Nomenclatura** | Alteramos a nomenclatura *chaves de aplicação* para *chaves de API* na interface do Admin. |
 | **Design** | A interface de gerenciamento, criação e edição de chaves de API foi redesenhada para uma experiência mais intuitiva e eficiente. |
 | **Separação de chaves** | Chaves geradas internamente e chaves de terceiros agora são separadas em abas distintas para facilitar o gerenciamento de cada tipo de chave. |

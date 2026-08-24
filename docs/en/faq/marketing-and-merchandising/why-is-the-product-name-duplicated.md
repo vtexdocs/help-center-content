@@ -33,8 +33,8 @@ For this reason, both names are displayed.
 
 To fix it, just use exactly the same words for the product and the SKU:
 
-- If the **Product Name **is: Porta Canetas
-- and the **SKU Name **is: Porta Canetas
+- If the **Product Name** is: Porta Canetas
+- and the **SKU Name** is: Porta Canetas
 - The system will show: Porta Canetas
 
 Or use only the product name complement in the SKU name:

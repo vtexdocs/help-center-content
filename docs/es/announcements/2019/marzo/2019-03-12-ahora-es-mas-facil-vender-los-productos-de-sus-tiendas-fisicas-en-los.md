@@ -27,7 +27,7 @@ Usted ya puede ofrecer los productos de toda su red de tiendas físicas en __mar
 
 Ninguna acción es necesaria. La única configuración necesaria es la integración de la cuenta principal con el marketplace externo. En el momento en que esto se hace, los inventarios de todas las cuentas franquicia vinculadas a la principal también serán enviadas al marketplace. Esta es una nueva feature de las cuentas franquicia, que ya está activa para facilitar su vida a la hora de integrar su operación con marketplaces.
 
-> ⚠️ **La integración automática del inventario de las cuentas franquicia sólo está disponible por el momento cuando el marketplace no es VTEX**.
+> ⚠️ La integración automática del inventario de las cuentas franquicia sólo está disponible por el momento cuando el marketplace no es VTEX.
 
 ## Que ha cambiado
 
@@ -39,4 +39,4 @@ El Multilevel Omnichannel Inventory fue lanzado trayendo un nuevo aliado para op
 
 Para obtener más información acerca del Multilevel Omnichannel Inventory y los cambios en las APIs del Checkout, acceda a [este artículo del Help](/es/docs/tutorials/multilevel-omnichannel-inventory).
 
-> ❗ <body> <li>El término Marketplace Recursivo fue sustituido por **Multilevel Omnichannel Inventory.**</li> <li>Esta funcionalidad no permite [cambiar de seller.](/es/docs/tutorials/change-seller)</li> <li>Esta solución se destina a la integración con marketplaces externos, no con marketplaces que ya tienen una [integración nativa VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).</li> <li>Lee el artículo [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory) para conocer en detalle las restricciones de uso.</li> </body>
+> ❗ <ul> <li>El término Marketplace Recursivo fue sustituido por **Multilevel Omnichannel Inventory.**</li> <li>Esta funcionalidad no permite [cambiar de seller.](/es/docs/tutorials/change-seller)</li> <li>Esta solución se destina a la integración con marketplaces externos, no con marketplaces que ya tienen una [integración nativa VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).</li> <li>Lee el artículo [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory) para conocer en detalle las restricciones de uso.</li> </ul>
