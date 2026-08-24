@@ -19,7 +19,7 @@ subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 
 **Catalog** is the VTEX Admin module for configuring the features related to your ecommerce products. To make products available for customers on your website, you need to add them to this module.
 
-In this article, you will find an overview of the catalog items and its features.
+In this article, you will find an overview of the catalog items and their features.
 
 ## Categories
 
@@ -71,7 +71,7 @@ To understand how to use this feature, check out the article [Filling in the pro
 
 ## List types
 
-Lists are groups of products you can offer your customers in your store. It is possible to create various types of lists, especially related to events, such as weddings, baby showers, birthdays, or any other occasion that addresses your customer needs.
+Lists are groups of products you can offer your customers in your store. It is possible to create various types of lists, especially related to events, such as weddings, baby showers, birthdays, or any other occasion that addresses your customers' needs.
 
 In this section, you can configure the lists available on your website. Learn how to create a list in the tutorial [Creating a list type](/en/docs/tutorials/creating-a-type-of-list).
 
@@ -103,7 +103,7 @@ You can get reports about transactions and changes in your store. These are the 
 
 ## Commercial conditions
 
-Commercial conditions are used to group SKUs and, based on that, offer different payment conditions. Example: allowing your customers to pay in 12 installments with credit card, but only for electronics.
+Commercial conditions are used to group SKUs and, based on that, offer different payment conditions. Example: allowing your customers to pay in 12 installments with a credit card, but only for electronics.
 To define a commercial condition, follow the tutorial [Registering a commercial condition](/en/docs/tutorials/registering-a-commercial-condition).
 
 ## Suppliers
@@ -128,4 +128,4 @@ You can create collections using grouping criteria such as commemorative dates, 
 
 For example, you can create a page for Valentine's Day with recommended gifts for the occasion, creating a "gift" collection.
 
-To create a collection, follow the in [Creating Collections](/en/docs/tutorials/creating-collections-beta).
+To create a collection, follow the steps in [Creating Collections](/en/docs/tutorials/creating-collections-beta).

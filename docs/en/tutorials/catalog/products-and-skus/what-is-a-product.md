@@ -1,5 +1,5 @@
 ---
-title: 'What is a Product?'
+title: 'Products'
 id: 2zrB2gFCHyQokCKKE8kuAw
 status: PUBLISHED
 createdAt: 2018-01-25T21:56:12.161Z
@@ -18,6 +18,6 @@ order: 1
 
 __The Product is a more generic definition of something that is available in your store__, such as Shirt, Refrigerator, Wardrobe. Hierarchically, the Product is below a category.
 
-On VTEX platform, one of the conditions for your product to be active, that is, to appear in your store, is to have an SKU assigned to it.
+On the VTEX platform, one of the conditions for your product to be active, that is, to appear in your store, is to have an SKU assigned to it.
 
 Structurally, you first define the product information and then you create your SKUs.

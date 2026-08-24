@@ -37,7 +37,7 @@ In order to get good results with your images and solve possible import problems
 - We recommend that your images have a white background.
 - The format of the images should preferably be square, to avoid distortions.
 - For image zooming to work correctly, we recommend that the images have a size of at least 1000 pixels. If possible, you can achieve an even better zoom result with images from 1500 to 2000 pixels.
-- We do not recommend stretching the image so it does not affect its quality.
+- We do not recommend stretching the image, as this affects its quality.
 
 ## Learn more
 

@@ -17939,9 +17939,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Fill in Brand registration fields",
-                    "es": "Llenar campos de registro de Marca",
-                    "pt": "Preencher campos de cadastro de Marca"
+                    "en": "Filling in Brand registration fields",
+                    "es": "Llenando campos de registro de Marca",
+                    "pt": "Preenchendo campos de cadastro de Marca"
                   },
                   "slug": {
                     "en": "brand-registration-fields",
@@ -17954,9 +17954,9 @@
                 },
                 {
                   "name": {
-                    "en": "How to register brands",
-                    "es": "Registrar marcas",
-                    "pt": "Cadastrar marcas"
+                    "en": "Registering brands",
+                    "es": "Registrando marcas",
+                    "pt": "Cadastrando marcas"
                   },
                   "slug": {
                     "en": "registering-brands",
@@ -17985,6 +17985,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Assembling an Outfit",
+                    "es": "Montando un Kit de look",
+                    "pt": "Montando um Kit look"
+                  },
+                  "slug": {
+                    "en": "how-to-assemble-an-outfit",
+                    "es": "como-montar-un-kit-de-look",
+                    "pt": "como-montar-um-kit-look"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Bundle registration",
                     "es": "Registrar kit",
                     "pt": "Cadastrar kit"
@@ -18008,21 +18023,6 @@
                     "en": "how-to-define-the-order-of-outfit-products",
                     "es": "como-ordenar-los-productos-del-kit-de-look",
                     "pt": "como-ordenar-os-produtos-do-kit-look"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to assemble an Outfit",
-                    "es": "Montar un Kit de look",
-                    "pt": "Montar um Kit look"
-                  },
-                  "slug": {
-                    "en": "how-to-assemble-an-outfit",
-                    "es": "como-montar-un-kit-de-look",
-                    "pt": "como-montar-um-kit-look"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18121,14 +18121,14 @@
                 },
                 {
                   "name": {
-                    "en": "How to set up the price range filter",
-                    "es": "Configurar filtro de rangos de precio",
-                    "pt": "Configurar filtro de faixa de preço"
+                    "en": "Departments",
+                    "es": "Departamentos",
+                    "pt": "Departamentos"
                   },
                   "slug": {
-                    "en": "setting-up-the-price-range-filter",
-                    "es": "configurando-filtro-de-faixa-de-preco",
-                    "pt": "configurando-filtro-de-faixa-de-preco"
+                    "en": "what-is-a-department",
+                    "es": "que-es-un-departamento",
+                    "pt": "o-que-e-um-departamento"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18181,14 +18181,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is a Department?",
-                    "es": "¿Qué es un Departamento?",
-                    "pt": "O que é um Departamento?"
+                    "en": "Setting up the price range filter",
+                    "es": "Configurando filtro de rangos de precio",
+                    "pt": "Configurando filtro de faixa de preço"
                   },
                   "slug": {
-                    "en": "what-is-a-department",
-                    "es": "que-es-un-departamento",
-                    "pt": "o-que-e-um-departamento"
+                    "en": "setting-up-the-price-range-filter",
+                    "es": "configurando-filtro-de-faixa-de-preco",
+                    "pt": "configurando-filtro-de-faixa-de-preco"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18196,9 +18196,9 @@
                 },
                 {
                   "name": {
-                    "en": "What is a Subcategory?",
-                    "es": "¿Qué es una Subcategoría?",
-                    "pt": "O que é uma Subcategoria?"
+                    "en": "Subcategories",
+                    "es": "Subcategorías",
+                    "pt": "Subcategorias"
                   },
                   "slug": {
                     "en": "what-is-a-subcategory",
@@ -18379,6 +18379,21 @@
                 },
                 {
                   "name": {
+                    "en": "Attachments",
+                    "es": "Anexos",
+                    "pt": "Anexos"
+                  },
+                  "slug": {
+                    "en": "what-is-an-attachment",
+                    "es": "que-es-un-anexo",
+                    "pt": "o-que-e-um-anexo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating service for a SKU",
                     "es": "Crear servicio para un SKU",
                     "pt": "Criar serviço para um SKU"
@@ -18394,24 +18409,9 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up a personal gift message",
-                    "es": "Configurar mensaje personalizado de regalo",
-                    "pt": "Configurar cartão de presente com mensagem personalizada"
-                  },
-                  "slug": {
-                    "en": "setting-up-a-personal-gift-message",
-                    "es": "configurar-mensaje-personalizado-de-regalo",
-                    "pt": "configurando-cartao-de-presente-com-mensagem-personalizada"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a Service?",
-                    "es": "¿Qué es un Servicio?",
-                    "pt": "O que é um Serviço?"
+                    "en": "Services",
+                    "es": "Servicios",
+                    "pt": "Serviços"
                   },
                   "slug": {
                     "en": "what-is-a-service",
@@ -18424,14 +18424,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is an Attachment?",
-                    "es": "¿Qué es un Anexo?",
-                    "pt": "O que é um Anexo?"
+                    "en": "Setting up a personal gift message",
+                    "es": "Configurar mensaje personalizado de regalo",
+                    "pt": "Configurar cartão de presente com mensagem personalizada"
                   },
                   "slug": {
-                    "en": "what-is-an-attachment",
-                    "es": "que-es-un-anexo",
-                    "pt": "o-que-e-um-anexo"
+                    "en": "setting-up-a-personal-gift-message",
+                    "es": "configurar-mensaje-personalizado-de-regalo",
+                    "pt": "configurando-cartao-de-presente-com-mensagem-personalizada"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18576,9 +18576,9 @@
                 },
                 {
                   "name": {
-                    "en": "Associate a SKU to a sales channel",
-                    "es": "Asociación de SKU a una política comercial",
-                    "pt": "Associação de SKU à Política Comercial"
+                    "en": "Associating a SKU to a sales channel",
+                    "es": "Asociando un SKU a una política comercial",
+                    "pt": "Associando um SKU à Política Comercial"
                   },
                   "slug": {
                     "en": "associate-a-sku-to-a-trade-policy",
@@ -18599,6 +18599,21 @@
                     "en": "best-practices-for-using-images-in-the-catalog",
                     "es": "buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo",
                     "pt": "boas-praticas-para-o-uso-de-imagens-no-catalogo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Changing the SKU and Product relationship",
+                    "es": "Cambiando la relación entre SKU y Producto",
+                    "pt": "Alterando a relação SKU e Produto"
+                  },
+                  "slug": {
+                    "en": "how-to-change-the-sku-and-product-relationship",
+                    "es": "como-cambiar-la-relacion-entre-sku-y-producto",
+                    "pt": "como-alterar-a-relacao-sku-e-produto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18651,39 +18666,9 @@
                 },
                 {
                   "name": {
-                    "en": "Finding a SKU ID",
-                    "es": "Identificar el ID de un SKU",
-                    "pt": "Descobrir o ID de um SKU"
-                  },
-                  "slug": {
-                    "en": "finding-a-sku-id",
-                    "es": "identificar-el-id-de-un-sku",
-                    "pt": "descobrir-o-id-de-um-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to change the SKU and Product relationship",
-                    "es": "Cómo cambiar la relación entre SKU y Producto",
-                    "pt": "Como alterar a relação SKU e Produto"
-                  },
-                  "slug": {
-                    "en": "how-to-change-the-sku-and-product-relationship",
-                    "es": "como-cambiar-la-relacion-entre-sku-y-producto",
-                    "pt": "como-alterar-a-relacao-sku-e-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to define the URL for a product page?",
-                    "es": "¿Cómo definir la URL de un producto?",
-                    "pt": "Como definir a URL de um produto?"
+                    "en": "Defining the URL for a product page",
+                    "es": "Definiendo la URL de un producto",
+                    "pt": "Definindo a URL de um produto"
                   },
                   "slug": {
                     "en": "how-to-define-the-url-for-a-product-page",
@@ -18696,14 +18681,29 @@
                 },
                 {
                   "name": {
-                    "en": "How to view the catalog reindex log?",
-                    "es": "Cómo ver el registro de reindexaciones del catálogo?",
-                    "pt": "Como ver o log de reindexações do catálogo?"
+                    "en": "Differences between product and SKU",
+                    "es": "Diferencias entre producto y SKU",
+                    "pt": "Diferenças entre produto e SKU"
                   },
                   "slug": {
-                    "en": "view-reindex-log",
-                    "es": "ver-el-log-de-reindexaciones",
-                    "pt": "como-ver-o-log-de-reindexacoes-do-catalogo"
+                    "en": "what-is-the-difference-between-product-and-sku",
+                    "es": "cual-es-la-diferencia-entre-producto-y-sku",
+                    "pt": "qual-a-diferenca-entre-produto-e-sku"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Finding a SKU ID",
+                    "es": "Identificar el ID de un SKU",
+                    "pt": "Descobrir o ID de um SKU"
+                  },
+                  "slug": {
+                    "en": "finding-a-sku-id",
+                    "es": "identificar-el-id-de-un-sku",
+                    "pt": "descobrir-o-id-de-um-sku"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18756,6 +18756,21 @@
                 },
                 {
                   "name": {
+                    "en": "Products",
+                    "es": "Productos",
+                    "pt": "Produtos"
+                  },
+                  "slug": {
+                    "en": "what-is-a-product",
+                    "es": "que-es-un-produto",
+                    "pt": "o-que-e-um-produto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up product comparison",
                     "es": "Configurar la comparación de productos",
                     "pt": "Configurar a comparação de produtos"
@@ -18764,6 +18779,21 @@
                     "en": "setting-up-product-comparison",
                     "es": "configurando-a-comparacao-de-produtos",
                     "pt": "configurando-a-comparacao-de-produtos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "SKUs",
+                    "es": "SKUs",
+                    "pt": "SKUs"
+                  },
+                  "slug": {
+                    "en": "what-is-an-sku",
+                    "es": "que-es-un-sku",
+                    "pt": "o-que-e-um-sku"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18786,44 +18816,14 @@
                 },
                 {
                   "name": {
-                    "en": "What is a Product?",
-                    "es": "¿Qué es un producto?",
-                    "pt": "O que é um Produto?"
+                    "en": "Viewing the catalog reindex log",
+                    "es": "Visualizando el registro de reindexaciones del catálogo",
+                    "pt": "Visualizando o log de reindexações do catálogo"
                   },
                   "slug": {
-                    "en": "what-is-a-product",
-                    "es": "que-es-un-produto",
-                    "pt": "o-que-e-um-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is an SKU?",
-                    "es": "¿Qué es un SKU?",
-                    "pt": "O que é um SKU?"
-                  },
-                  "slug": {
-                    "en": "what-is-an-sku",
-                    "es": "que-es-un-sku",
-                    "pt": "o-que-e-um-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is the difference between product and SKU?",
-                    "es": "¿Cuál es la diferencia entre producto y SKU?",
-                    "pt": "Qual a diferença entre produto e SKU?"
-                  },
-                  "slug": {
-                    "en": "what-is-the-difference-between-product-and-sku",
-                    "es": "cual-es-la-diferencia-entre-producto-y-sku",
-                    "pt": "qual-a-diferenca-entre-produto-e-sku"
+                    "en": "view-reindex-log",
+                    "es": "ver-el-log-de-reindexaciones",
+                    "pt": "como-ver-o-log-de-reindexacoes-do-catalogo"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18877,9 +18877,9 @@
                 },
                 {
                   "name": {
-                    "en": "How indexing works",
-                    "es": "Cómo funciona la indexación",
-                    "pt": "Como funciona a indexação"
+                    "en": "Understanding how indexing works",
+                    "es": "Entendiendo cómo funciona la indexación",
+                    "pt": "Entendendo como funciona a indexação"
                   },
                   "slug": {
                     "en": "understanding-how-indexation-works",
@@ -18892,9 +18892,9 @@
                 },
                 {
                   "name": {
-                    "en": "How to use the Index Report",
-                    "es": "Utilizar el Informe de Indexación",
-                    "pt": "Utilizar o Relatório de Indexação"
+                    "en": "Understanding the Index Report",
+                    "es": "Entendiendo el Informe de Indexación",
+                    "pt": "Entendendo o Relatório de Indexação"
                   },
                   "slug": {
                     "en": "how-to-use-the-index-report",
@@ -18907,9 +18907,9 @@
                 },
                 {
                   "name": {
-                    "en": "Understand the Security report",
-                    "es": "Como funciona el Informe de seguridad",
-                    "pt": "Como funciona o Relatório de segurança"
+                    "en": "Understanding the Security report",
+                    "es": "Entendiendo el Informe de seguridad",
+                    "pt": "Entendendo o Relatório de Segurança"
                   },
                   "slug": {
                     "en": "understanding-the-security-report",
@@ -19164,9 +19164,9 @@
                     },
                     {
                       "name": {
-                        "en": "How to include metadata when exporting a prices spreadsheet",
-                        "es": "Cómo incluir metadatos al exportar plantilla de precios",
-                        "pt": "Como Incluir Metadados ao exportar planilha de preços"
+                        "en": "Including metadata when exporting a prices spreadsheet",
+                        "es": "Incluyendo metadatos al exportar plantilla de precios",
+                        "pt": "Incluindo metadados ao exportar planilha de preços"
                       },
                       "slug": {
                         "en": "how-to-include-metadata-when-exporting-a-prices-spreadsheet",
@@ -38558,21 +38558,6 @@
                 "en": "app-settings-are-not-erased-when-you-delete-the-app",
                 "es": "la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla",
                 "pt": "as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Builder-hub error when trying to publish an app",
-                "es": "Error de Builder-hub al intentar publicar una aplicación",
-                "pt": "Erro do Builder-hub ao tentar publicar um aplicativo"
-              },
-              "slug": {
-                "en": "builderhub-error-when-trying-to-publish-an-app",
-                "es": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
-                "pt": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo"
               },
               "origin": "",
               "type": "markdown",
@@ -68063,6 +68048,21 @@
                 "en": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
                 "es": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
                 "pt": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap returns \"Account not found\" on public domains for stores split between Store Framework and FastStore",
+                "es": "El mapa del sitio devuelve \"Cuenta no encontrada\" en dominios públicos para tiendas divididas entre Store Framework y FastStore.",
+                "pt": "O Sitemap retorna \"Conta não encontrada\" em domínios públicos para lojas divididas entre Store Framework e FastStore."
+              },
+              "slug": {
+                "en": "sitemap-returns-account-not-found-on-public-domains-for-stores-split-between-store-framework-and-faststore",
+                "es": "el-mapa-del-sitio-devuelve-cuenta-no-encontrada-en-dominios-publicos-para-tiendas-divididas-entre-store-framework-y-faststore",
+                "pt": "o-sitemap-retorna-conta-nao-encontrada-em-dominios-publicos-para-lojas-divididas-entre-store-framework-e-faststore"
               },
               "origin": "",
               "type": "markdown",

@@ -25,7 +25,7 @@ The steps above must be successfully completed prior to attempting to create a p
 2. Access __Create Promotion__.
 3. Choose either the __Regular__ option or the __Campaign Promotion__.
 4. Fill out the required fields.
-5. **Notice:** Make sure you select the Promotional Price Table option in the "What kind and amount of **Benefit**?
+    > Make sure you select the **Promotional Price Table** option in **"What kind and amount of Benefit?**.
 
 After completing the above you just need to enable your benefit or campaign audience and your price table will be active and applied to your store's SKUs price.
 

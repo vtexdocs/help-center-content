@@ -74,10 +74,10 @@ To create an SKU field, follow the instructions below:
     * **Text** *: Field description.
     * **Type**: Field type, which may vary between **Combo** or **Radio**. For more information on each option, read the [Field types](#sku-field-types) section.
     * **Group**: Name of the [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), in which the field will be included.
-    * **Filter**: Defines if the specification will be used as a filter when navigating the** website.**
-    * **Required**: Defines if a value is mandatory when adding an SKU. In the field is mandatory, the SKU may only be activated after filling in this specification.
+    * **Filter**: Defines if the specification will be used as a filter when navigating the website.
+    * **Required**: Defines if a value is mandatory when adding an SKU. If the field is mandatory, the SKU may only be activated after filling in this specification.
     * **Show Specification**: Defines if the field is displayed on the SKU details page, in the **Specifications** tab.
-    * **Link in the top menu**: Defines if the link to the field values is displayed in the in the main menu of the site.
+    * **Link in the top menu**: Defines if the link to the field values is displayed in the main menu of the site.
     * **Link in the side menu**: Defines if the link to the field values is displayed in the side menu of the site.
     * **Active**: Activates this field.
 8. Click `Save`.
@@ -123,13 +123,13 @@ The **Values** of the SKU fields will vary according to the selected field type:
 
     On this page you can create a **New value** or **Edit** the previously defined values.
 
-7. Fill in the **Name** field with the values you wish to create for that field.
+8. Fill in the **Name** field with the values you wish to create for that field.
 
     Insert one value per row and press `Enter` after each value, as illustrated in the image below.
 
     ![valores-campo-sku-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_3.PNG)
 
-8. Click `Save`.
+9. Click `Save`.
 
     The added values will be displayed in the [SKU registration interface](#sku-registration).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Utilizar o Relatório de Indexação'
+title: 'Entendendo o Relatório de Indexação'
 id: 4ikVpMhwByyS8sysaeOIm4
 status: PUBLISHED
 createdAt: 2017-07-04T13:10:40.431Z

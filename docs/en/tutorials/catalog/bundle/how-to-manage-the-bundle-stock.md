@@ -19,16 +19,16 @@ A bundle can be assembled in two ways. Below, see some considerations about each
 
 ## Bundle product without components
 
-That's normally a product that is already structured as a bundle (several components) in the store distribution center. VTEX only indicates this product, without the need for registration of its components. That is, both the price and the stock are displayed directly on the SKU bundle.
+This is normally a product that is already structured as a bundle (several components) in the store distribution center. VTEX only registers this product, without the need for registration of its components. That is, both the price and the stock are displayed directly on the SKU bundle.
 
 ## Bundle product with components
 
-The bundle with components is the idea of a bundle product whose SKU is a "cluster" of other SKUs. This model is normally used when the bundle consists of other products that are already in store, and are sold separately by origin. So, the store SKUs are selected, and the price and the stock needed for each SKU to compose 1 (one) of this bundle products are settled.
+The bundle with components is the idea of a bundle product whose SKU is a "cluster" of other SKUs. This model is normally used when the bundle consists of other products that are already in store, and are sold separately as individual products. So, the store SKUs are selected, and the price and the stock needed for each SKU to make up one unit of this bundle product are defined.
 
-For example, a bundle product called Colorido is composed by other 10 SKUs. Each, with its required amount of 1 (one) SKU item to compose the bundle.
+For example, a bundle product called Colorido is composed of 10 other SKUs. Each requires a quantity of 1 to compose the bundle.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-manage-the-bundle-stock_1.png)
 
-So, if there is at least 1 (one) unit of each component in stock, the kit will be considered in stock, as it depends on the stock quantities registered for each of its components.
+So, if there is at least 1 (one) unit of each component in stock, the bundle will be considered in stock, as it depends on the stock quantities registered for each of its components.
 
-The stock quantity of a kit is the maximum number of groups that can be assembled with the amount of items available.
+The stock quantity of a bundle is the maximum number of groups that can be assembled with the amount of items available.

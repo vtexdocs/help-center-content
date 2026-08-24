@@ -1,5 +1,5 @@
 ---
-title: 'Montar um Kit look'
+title: 'Montando um Kit look'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z
