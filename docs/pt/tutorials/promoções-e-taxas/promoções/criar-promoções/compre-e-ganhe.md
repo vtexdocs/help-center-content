@@ -99,7 +99,7 @@ Após definir os itens de compra, escolha o benefício que o cliente receberá:
 - **Brinde:** desconto total sobre o valor do produto definido como brinde.
     - **SKUs:** permite a seleção dos SKUs (por nome ou ID) correspondentes ao brinde oferecido. 
     - **Quantidade de brindes:** estabelece um limite para a quantidade de brindes que o comprador pode receber, mesmo que haja múltiplos itens elegíveis no carrinho. Existem duas opções:
-        - ** Um brinde:** permite receber um brinde, independentemente da quantidade de itens no carrinho.
+        - **Um brinde:** permite receber um brinde, independentemente da quantidade de itens no carrinho.
         - **Um brinde para cada item elegível no carrinho:** permite receber um brinde para cada item elegível no carrinho.
 - **Preço máximo:** define o valor máximo permitido para cada item da compra. Esse limite será aplicado aos produtos elegíveis para o benefício.
 

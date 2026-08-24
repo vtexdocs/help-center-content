@@ -63,4 +63,4 @@ If it is necessary to update the created content after saving it, just click on 
 
 Click **Update Content List** after all changes were made and clicking on **Save Settings** afterwards.
 
-__Attention! __ When creating or editing items in CMS, it is indispensable to click on **Save Settings** so that no changes are lost.
+__Attention!__ When creating or editing items in CMS, it is indispensable to click on **Save Settings** so that no changes are lost.

@@ -133,7 +133,7 @@ In the **Couriers** page, there are the following tabs:
 In this tab, you can configure the address where carriers will collect the packages for delivery, by following the steps below:
 
 1. In **Pickup address**, fill in manually the address where courier will pick packages for delivery or use the search box with the magnifier icon  <i class="fas fa-search"></i> to find the address, what will automatically fill in the address information.
-2. In **Contact information**, fill in with the _name, phone_ and _email _of the courier’s contact.
+2. In **Contact information**, fill in with the _name, phone_ and _email_ of the courier’s contact.
 3. Click `Save`.
 
 ### Last Mile

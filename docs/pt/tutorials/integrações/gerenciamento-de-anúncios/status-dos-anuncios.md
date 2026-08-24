@@ -126,7 +126,7 @@ No topo direito da página, existe uma barra de busca com o ícone lupa <i class
 Além disso, é possível filtrar o resultado da busca pelos seguintes critérios:
 
 - **Marketplace:** canal de venda para o qual o anúncio foi enviado.  
-- **Envio:** períodos pré-definidos de *hoje***,** *últimos 7 dias* e *último mês* em que o anúncio foi enviado ao marketplace.  
+- **Envio:** períodos pré-definidos de *hoje*, *últimos 7 dias* e *último mês* em que o anúncio foi enviado ao marketplace.  
 - **Estoque:** quantidade de estoque de um produto:  
 - `Mínimo:` número mínimo de itens em estoque de um produto.  
 - `Máximo:` número máximo de itens em estoque de um produto.  

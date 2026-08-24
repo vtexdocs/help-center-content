@@ -19,7 +19,7 @@ When adding a product, you can use the [specification](/en/docs/tracks/specifica
 
 At VTEX, a specification is always included in a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), associated with a [category](/en/docs/tracks/categories-concept-definition). Therefore, to create a product specification (field), you must first create at least one category and one specification group.
 
-Example: Consider a fashion store. In the **T-shirts** category, the specification group can be named **Characteristics** and include the **Fabric** field and its values, **Cotton **and **Polyester**.
+Example: Consider a fashion store. In the **T-shirts** category, the specification group can be named **Characteristics** and include the **Fabric** field and its values, **Cotton** and **Polyester**.
 
 In this article, we explain how the specification inheritance works for the added specifications, detail the process of adding product fields and show how to fill in product specifications. Check out the following sections:
 
@@ -118,7 +118,7 @@ See the table below for details on the product field types you can select in the
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Indexed Text<br> <br>Large Indexed Text**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog **[indexer](/en/docs/tutorials/understanding-how-indexation-works) and will influence the search results for the store customers. For more details, please see the article [How VTEX Search (Legacy) works?](/en/docs/tutorials/how-does-vtex-search-legacy-work).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog**[indexer](/en/docs/tutorials/understanding-how-indexation-works) and will influence the search results for the store customers. For more details, please see the article [How VTEX Search (Legacy) works?](/en/docs/tutorials/how-does-vtex-search-legacy-work).</td>
   </tr>
 </tbody>
 </table>

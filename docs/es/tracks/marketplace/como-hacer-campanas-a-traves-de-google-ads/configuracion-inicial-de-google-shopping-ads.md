@@ -71,7 +71,7 @@ Estas son:
 
 En este caso, VTEX Shopping Ads utiliza la cuenta que el usuario ya tiene en Google Ads. Debido a esto, se mantienen tanto las configuraciones de las campañas como la forma de pago.
 
-Ahora, al seleccionar esta opción, el administrador de la tienda debe iniciar sesión con un correo electrónico que tenga acceso administrativo a la cuenta de Google Ads. A continuación, debe seleccionar el Id de la cuenta que el usuario desea asociar con VTEX Shopping Ads. Finalmente, haga clic en __ "Continuar"__.
+Ahora, al seleccionar esta opción, el administrador de la tienda debe iniciar sesión con un correo electrónico que tenga acceso administrativo a la cuenta de Google Ads. A continuación, debe seleccionar el Id de la cuenta que el usuario desea asociar con VTEX Shopping Ads. Finalmente, haga clic en __"Continuar"__.
 
 ### Crear nueva
 

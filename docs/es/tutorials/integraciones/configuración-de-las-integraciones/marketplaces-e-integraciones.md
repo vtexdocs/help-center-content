@@ -19,7 +19,7 @@ La página __Marketplaces e integraciones__ facilita el encuentro y la comunicac
 
 Entre los marketplaces disponibles, existen marketplaces VTEX y marketplaces externos. Observa la diferencia entre ambos en la columna Tipo de integración.  
 
-| **Tipo de integración ** | **Descripcíon** |
+| **Tipo de integración** | **Descripcíon** |
 |---|:---:|
 | **VTEX** | Estos son los perfiles de los clientes VTEX que optaron por abrir su entorno para que otros sellers pongan sus productos a la venta. |
 | **Externo** | Se trata de marketplaces que no son clientes de VTEX pero desarrollaron la integración, siendo esta certificada o partner. |  
@@ -64,7 +64,7 @@ Para conectarse con un marketplace externo, el seller debe seguir los pasos que 
  2. Haz clic en el botón Conectar y se te redirigirá a la página de configuración de la integración, donde debes rellenar los campos que se muestran.  
  3. Haz clic en el botón Conectar.  
 
-### __Conectar con marketplace VTEX __  
+### __Conectar con marketplace VTEX__  
 
 Para conectarse con uno de los marketplaces VTEX es necesario realizar un primer contacto con VTEX con el objetivo de negociar la asociación, y esperar la respuesta del marketplace; también es obligatorio tener un [Perfil de seller](/es/docs/tutorials/marketplaces-e-integraciones#perfil-da-loja) activo.  
 Cuando envíes un mensaje, proporciona toda la información que ese marketplace necesita para conectarse con tu empresa. También sugerimos anticipar las dudas, o los puntos que se plantearán en una futura reunión, por ejemplo.  

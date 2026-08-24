@@ -28,7 +28,7 @@ Hay dos tipos de compresión de imágenes, que se describen en la siguiente tabl
 
 En VTEX, los archivos se almacenan en su formato original, pero se comprimen en tiempo real durante la navegación por la tienda.
 
-Realizamos una conversión al formato[ WebP](https://developers.google.com/speed/webp?hl=es-419) siempre que sea más ventajoso, es decir, siempre que el tamaño de la imagen resultante sea menor, independientemente de si el formato es **PNG o **JPG/JPEG.
+Realizamos una conversión al formato[ WebP](https://developers.google.com/speed/webp?hl=es-419) siempre que sea más ventajoso, es decir, siempre que el tamaño de la imagen resultante sea menor, independientemente de si el formato es **PNG o** JPG/JPEG.
 
 El uso de WebP puede disminuir el tiempo de carga de páginas entre 1 a 2 segundos, dependiendo del layout. A continuación se describe cómo funciona la optimización de imágenes en cada formato.
 

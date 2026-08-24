@@ -37,13 +37,13 @@ Vamos a analizar cómo se calcula la división del costo de envío en un carro c
 
 El cálculo del costo de envío de cada ítem será dado por la siguiente fórmula:
 
-__Costo total de envío x (peso del producto / PESO TOTAL) __
+__Costo total de envío x (peso del producto / PESO TOTAL)__
 
 Aplicando la fórmula anterior, tenemos:
 
 __200 x (20/100) = 40__
 
-* El costo total de envío * es __200__. Vemos que el * Peso del Producto A * representa __20% __ del peso total del carro (__20 / 100__).
+* El costo total de envío *es __200__. Vemos que el* Peso del Producto A * representa __20%__ del peso total del carro (__20 / 100__).
 
 Por lo tanto, el * Coste de Envío del Producto A * será __40__.
 
@@ -57,7 +57,7 @@ Aplicando la fórmula, tenemos:
 
 __200 x (25/100) = 50__
 
-* El costo total de envío * es __200__. Vemos que el __Peso del Producto A__ representa __25% __ del peso total del carro (__25 / 100__).
+* El costo total de envío * es __200__. Vemos que el __Peso del Producto A__ representa __25%__ del peso total del carro (__25 / 100__).
 
 Por lo tanto, el * Coste de Envío del Producto B * será __50__.
 

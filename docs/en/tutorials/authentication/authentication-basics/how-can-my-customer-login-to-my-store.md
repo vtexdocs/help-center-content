@@ -51,7 +51,7 @@ For the client to sign in using this method, they must follow the steps below:
 
 ### Login with email and password
 
-This type of login ** requests email and password** so that the client can authenticate.
+This type of login **requests email and password** so that the client can authenticate.
 
 - If the customer already has an email and password, they just need to click on **Enter with email and password**, fill in the email, fill in the password and click on **Enter**.
 

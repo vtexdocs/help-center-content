@@ -72,7 +72,7 @@ El campo Color es un [campo personalizado](/es/docs/tutorials/registrar-especifi
 |:---:|:---:|
 | Color | Texto |
 
-Este tipo de campo admite la introducción de valores alfanuméricos como ** Verde, Negro, Amarillo, Rosa **.
+Este tipo de campo admite la introducción de valores alfanuméricos como **Verde, Negro, Amarillo, Rosa**.
 
 > ℹ️ Cada SKU solo permite un color.  
 

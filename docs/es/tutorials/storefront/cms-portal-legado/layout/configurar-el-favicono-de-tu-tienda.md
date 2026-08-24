@@ -35,7 +35,7 @@ Para configurar el favicono en tiendas CMS Portal (Legado), sigue las instruccio
 
 3. Haz clic en `Browse for file`para agregar el archivo de imagen en formato `.ico`.
 
-    > ⚠️ El nombre del archivo debe seguir el formato ***{storeName}**-favicon.ico*. Sustituye la variable **{storeName}** por el nombre de la tienda registrado en [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
+    > ⚠️ El nombre del archivo debe seguir el formato ***{storeName}**-favicon.ico*. Sustituye la variable**{storeName}** por el nombre de la tienda registrado en [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
 
 4. Configura los [templates](/es/docs/tutorials/que-son-templates) con el elemento `<link>` dentro de `<head>` como sigue: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. Debes sustituir la variable `{storeName}` por el nombre de la tienda.
 

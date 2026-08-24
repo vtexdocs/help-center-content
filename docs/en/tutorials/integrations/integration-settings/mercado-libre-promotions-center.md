@@ -51,7 +51,7 @@ In this section, the seller will select the offers they want to include in the *
 
 1. In the **Candidates** section, select the checkbox <a class="far fa-check-square" aria-hidden="true"></a> for the offers you want to include in the campaign.  
 2. At the top of the screen, click the `Include in the promotion` button.  
-3. Complete the **Discount** and ** Meli+ discount (optional)** fields.  
+3. Complete the **Discount** and **Meli+ discount (optional)** fields.  
 4. Click the `Confirm` button.  
 
 If the promotional campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section and active discounts on Mercado Libre. If the campaign has the **Available** status, the offers will move to **Scheduled.**  

@@ -42,7 +42,7 @@ The method for creating a transactional email template is similar to the one use
 
 1. In Admin's side menu, go to Message Center and click on __Templates__.
 2. Click on the __New template__ button.
-3. Check the __Enable e-mail sending __ box.
+3. Check the __Enable e-mail sending__ box.
 4. Fill in E-mail Title, Sender and Recipient ("To") data.
 5. Enter the template code in the __HTML__ field.
 6. Test it on __preview__.

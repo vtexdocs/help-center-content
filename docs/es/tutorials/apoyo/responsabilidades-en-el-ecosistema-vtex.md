@@ -184,7 +184,7 @@ Consulta las responsabilidades que conlleva la actualización o creación de ped
 2. El **conector** se encarga de crear el pedido en VTEX.
 3. VTEX responde al conector con el status de creación del pedido, que puede ser éxito o error. En esta fase, si se produce un fallo en la creación del pedido en VTEX, o si el pedido se crea con el status **Cancelado**, es necesario ponerse en contacto con el soporte del conector.
 4. Una vez creado el pedido en VTEX, la responsabilidad de actualizar su status en el OMS depende de la fase del proceso:
-* Si el status del pedido es Preparando envío o Facturado, por ejemplo, es responsabilidad del **ERP **notificarlo a VTEX.
+* Si el status del pedido es Preparando envío o Facturado, por ejemplo, es responsabilidad del **ERP** notificarlo a VTEX.
 * Si el pedido fue cancelado en el marketplace, la responsabilidad recae en el **conector**.
 
 Para más información sobre quién es responsable de cada fase del flujo de pedidos en un escenario de marketplace externo, consulta [Flujo y status de pedidos - Flujo de sellers](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller).

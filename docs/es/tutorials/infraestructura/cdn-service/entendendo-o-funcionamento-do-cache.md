@@ -25,7 +25,7 @@ El cache está representado a través de una capa entre el browser y el servidor
 
 ![Cómo funciona el caché: comunicación con el caché (sin caducar)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/cdn-service/entendendo-o-funcionamento-do-cache_2.png)
 
-Sin embargo, como el dato actualizado está en el servidor, de tiempo en tiempo es necesario actualizar el cache. Ese tiempo varía de acuerdo al tipo de **request, **o sea, si el **request** es una página, el tiempo es uno, si es un archivo javascript o CSS, es otro y aún, si es una imagen, será otro.
+Sin embargo, como el dato actualizado está en el servidor, de tiempo en tiempo es necesario actualizar el cache. Ese tiempo varía de acuerdo al tipo de **request,** o sea, si el **request** es una página, el tiempo es uno, si es un archivo javascript o CSS, es otro y aún, si es una imagen, será otro.
 
 Un sitio posee innúmeras páginas: Home, páginas de departamento y categoría, de marca, búsqueda, producto, etc. Dependiendo del árbol de categoría y del mix de productos, el sitio puede alcanzar más de 10 mil páginas. 
 
@@ -35,7 +35,7 @@ La capa de cache guarda una versión para cada una de esas páginas (URLs), o se
 
 Si pudiéramos mirar la capa de cache como un banco de datos (o una planilla Excel), de modo general, veríamos una tabla con dos columnas: URL y contenido. 
 
-La columna “URL” representando el nombre del **request **cacheado (página o archivo) y la columna “contenido” representando el código html o binario (en caso de archivos) de aquel **request**.
+La columna “URL” representando el nombre del **request** cacheado (página o archivo) y la columna “contenido” representando el código html o binario (en caso de archivos) de aquel **request**.
 
 Así, cuando ocurre un **request**, el sistema busca en esa grande tabla, a partir de la “URL”, por el “contenido”, retornándolo al browser.
 

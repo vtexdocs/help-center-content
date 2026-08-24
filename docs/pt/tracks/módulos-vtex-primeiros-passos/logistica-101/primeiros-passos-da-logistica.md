@@ -46,7 +46,7 @@ De forma resumida, o módulo **Estoque & entrega** divide-se nas seguintes seç�
 
     ![estoque e entregaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/logistica-101/primeiros-passos-da-logistica_1.png)
 
-> ℹ️ Clientes que utilizam o [**VTEX Shipping Network](https://vtex.com/br-pt/log/)** acessam a funcionalidade pelo módulo **Estoque & Entrega**.
+> ℹ️ Clientes que utilizam o [**VTEX Shipping Network**](https://vtex.com/br-pt/log/) acessam a funcionalidade pelo módulo **Estoque & Entrega**.
 
 Confira os próximos artigos da trilha para saber a ordem em que essas seções devem ser configuradas e como a plataforma interpreta essas configurações.
 

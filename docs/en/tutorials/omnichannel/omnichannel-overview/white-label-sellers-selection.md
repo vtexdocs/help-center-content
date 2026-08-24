@@ -203,7 +203,7 @@ The selection result of up to three sellers with the cheapest pickup cost is pre
 | 8th |  Seller 7 | 1 | 10 km | 0 | 0 |
 
 - **Seller 1 is on first place:** It has five of the six SKUs in stock, and also the shortest distance between the pickup point and the customer's address. 
-- **Seller 4 is on second place: **Same as Seller 1, it has five SKUs in stock, but the distance is longer.
+- **Seller 4 is on second place:** Same as Seller 1, it has five SKUs in stock, but the distance is longer.
 - **Seller 2 is on third place:** Despite the tie with Seller 6, judging by the two main criteria, the cost is lower.
 
 In parallel, the VTEX platform performs the seller selection with the fastest pickup. The criteria below are considered in the following order of relevance:

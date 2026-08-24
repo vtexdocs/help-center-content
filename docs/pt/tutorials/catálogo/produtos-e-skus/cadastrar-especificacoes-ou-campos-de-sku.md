@@ -144,7 +144,7 @@ Para acessar ou editar valores cadastrados para um campo de SKU, siga os passos 
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em **Categorias**.
 3. Clique na categoria em que o campo de SKU está salvo.
-4. Clique no botão **Ações **<i class="fas fa-angle-down"></i>.
+4. Clique no botão **Ações**<i class="fas fa-angle-down"></i>.
 5. Clique em **Campo (SKU)**.
 6. Clique na seta para baixo <i class="fas fa-angle-down"></i>.
 7. Clique em **Valores**.

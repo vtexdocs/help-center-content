@@ -27,7 +27,7 @@ Os termos de serviço da API do Google Pay se aplicam sempre que o serviço Goog
 
 Para ativar o Google Pay, siga o passo a passo abaixo. 
 
-1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Carteiras** ou digite **Carteiras **na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Carteiras** ou digite **Carteiras** na barra de busca no topo da página.
 2. Selecione a opção **Ativar** para modificar o checkout para incluir a extensão do Google Pay.
 
 > ℹ️ As bandeiras suportadas no Google Pay são as mesmas bandeiras configuradas nas condições de pagamento.
@@ -63,7 +63,7 @@ Após acessar a transação desejada, clique em `+ Informações` para verificar
 
 Para adicionar a informação que o pedido foi realizado com um cartão advindo do Google Pay no template de email para o comprador, siga as etapas a seguir:
 
-1. No Admin VTEX, acesse **Configurações da loja > Templates de email > Templates** ou digite **Templates **na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Configurações da loja > Templates de email > Templates** ou digite **Templates** na barra de busca no topo da página.
 2. Acesse os templates de fechamento de compra e aprovação de pagamento.
 3. Após** **todas as menções** **a** `**{{#if lastDigits}} last digits {{lastDigits}}**`**, adicionar a seguinte linha:
 

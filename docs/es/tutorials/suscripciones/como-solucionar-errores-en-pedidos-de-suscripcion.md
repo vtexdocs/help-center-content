@@ -41,7 +41,7 @@ Para visualizar los ciclos con un problema y realizar nuevos intentos de pedido,
 3. En la sección **Pedidos de suscripción**, haga clic en **Ciclos con problema**.
 4. Identifique el pedido que desea corregir y verifique cuál es el problema informado en la columna **Error**. Consulte la [tabla de errores](#errores) para más información.
 5. De ser necesario, corrija el problema indicado (ejemplo: ajustar stock).
-6. Vuelva a **Suscripciones **>** Dashboards **>** Pedidos de suscripción**  > **Ciclos con problema** y haga clic en el botón <i class="fas fa-redo-alt"></i> en la columna **Procesar de nuevo**.  Si el nuevo intento funciona, el pedido se creará en **Gestión de pedidos**.
+6. Vuelva a **Suscripciones**>**Dashboards**>**Pedidos de suscripción**  > **Ciclos con problema** y haga clic en el botón <i class="fas fa-redo-alt"></i> en la columna **Procesar de nuevo**.  Si el nuevo intento funciona, el pedido se creará en **Gestión de pedidos**.
 
 ### Errores
 

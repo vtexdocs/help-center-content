@@ -94,7 +94,7 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> button in the seller row, t
 
 ### Identifiable sellers and unidentifiable sellers (white label)
 
-The _label _icon next to the seller's name indicates whether the store is visible in your marketplace. Sellers can have two types of visibility:
+The _label_ icon next to the seller's name indicates whether the store is visible in your marketplace. Sellers can have two types of visibility:
 
 - **Identifiable seller:** The seller is visible in your marketplace storefront and can be chosen by the consumer. The filled label icon means that the seller is identifiable.  
 - **Unidentifiable seller (white label):** [White label sellers](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront, and are automatically selected by the checkout system for order fulfillment. The transparent label icon means that the seller is not identifiable.  

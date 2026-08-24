@@ -45,7 +45,7 @@ O ponto de retirada criado receberá um ID e ele será necessário na etapa [Cri
 
 Com o ponto de retirada cadastrado, é preciso informar o [estoque](/pt/docs/tutorials/estoque) disponível para a sua loja física em cada seller. Você pode compartilhar um estoque existente no seu ecommerce com a operação do físico, ou criar um estoque exclusivo para o uso das vendas das lojas físicas. Para habilitar que um estoque esteja disponível para o VTEX Sales App, siga os passos a seguir:
 
-1. No Admin VTEX, acesse **Envio > Estratégias de Envio **> **Estoques**, ou digite **Estratégias de Envio** na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Envio > Estratégias de Envio**> **Estoques**, ou digite **Estratégias de Envio** na barra de busca no topo da página.
 2. Clique em `+ Criar Estoque`.
 3. Preencha os [campos do formulário](/pt/docs/tutorials/gerenciar-estoque#campos-de-cadastro), selecionando o ponto de retirada criado no passo anterior.
 4. Marque <i class="fas fa-toggle-on"></i> para `Ativo` para vincular o estoque da loja física com o VTEX Sales App.

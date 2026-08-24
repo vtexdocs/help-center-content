@@ -90,7 +90,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
   <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Columna de la plantilla **
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Columna de la plantilla**
    </th>
    <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Descripción**
    </th>

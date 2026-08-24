@@ -58,7 +58,7 @@ The Size field is a [custom field](/en/docs/tutorials/adding-specifications-or-p
 |:---:|:---:|
 | Size | Text |
 
-This field type supports alphanumeric values such as ** S, M, L, XL, 9.5, 10, 6.5, 3.5**.
+This field type supports alphanumeric values such as **S, M, L, XL, 9.5, 10, 6.5, 3.5**.
 
 **Color:** Required field only for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324487?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU color.  
 

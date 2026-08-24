@@ -360,7 +360,7 @@ Nesta seção, o seller fará a seleção dos anúncios que deseja incluir na pr
 
 1. Na seção **Candidatos** selecione a checkbox <a class="far fa-check-square" aria-hidden="true"></a> dos anúncios que deseja incluir na campanha promocional.  
 2. No topo da tela clique no botão `Incluir na promoção`.  
-3. Preencha os campos ** Desconto** e **Desconto Meli+ (opcional).** Esse passo aparecerá apenas para descontos de percentual flexível.  
+3. Preencha os campos **Desconto** e **Desconto Meli+ (opcional).** Esse passo aparecerá apenas para descontos de percentual flexível.  
 4. No pop-up de confirmação, clique no botão `Confirmar`.  
 
 Caso a campanha promocional esteja com o status **Iniciada,** os anúncios selecionados e configurados na seção **Candidatos** serão enviados para a seção **Participando,** caso a campanha esteja com o status **Disponível,** os anúncios são enviados para a seção **Programados.**    

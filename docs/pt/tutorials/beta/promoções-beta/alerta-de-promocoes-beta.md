@@ -36,7 +36,7 @@ A tabela a seguir apresenta a descrição das colunas da listagem de promoções
 | Nome | Nome do alerta de promoção. |
 | Alerta | Condição determinada para que o alerta seja emitido. |
 | Ação preventiva | Ações que serão executadas quando o alerta for disparado. |
-| Status | Status da promoção, que podem ser: ** Ativo:** quando o alerta está ativado.   **Inativo:** quando o alerta está desativado.  |
+| Status | Status da promoção, que podem ser: **Ativo:** quando o alerta está ativado.   **Inativo:** quando o alerta está desativado.  |
 
 A página Alerta de promoções permite realizar as seguintes ações:
 

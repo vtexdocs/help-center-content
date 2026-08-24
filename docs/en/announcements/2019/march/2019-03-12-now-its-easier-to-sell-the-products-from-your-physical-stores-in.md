@@ -27,7 +27,7 @@ You can now easily sell products from your entire network of physical stores in 
 
 The only necessary setting is the integration of the main account with the external marketplace. Once this is done, the inventories of all franchise accounts linked to the main one will also be sent to the marketplace. This is a new franchise account feature, which is active and ready to make your life easier whenever you need to integrate your operation with marketplaces.
 
-> ⚠️ ** For now, automatic integration of the franchise accounts inventory is only available when the marketplace is not a VTEX one**.
+> ⚠️ For now, automatic integration of the franchise accounts inventory is only available when the marketplace is not a VTEX one.
 
 ## What has changed
 

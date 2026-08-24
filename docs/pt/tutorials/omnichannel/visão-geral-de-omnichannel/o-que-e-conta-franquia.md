@@ -80,7 +80,7 @@ O comportamento padrão da plataforma é que a conta franquia utilize os meios d
 
 Uma vez que você tenha [alterado essa configuração](#configurar-meios-de-pagamento-proprios-da-conta-franquia), se desejar retornar ao comportamento padrão, é necessário seguir os passos abaixo.
 
-1. Acesse as **Configurações **do módulo de **Gerenciamento de pedidos**.
+1. Acesse as **Configurações** do módulo de **Gerenciamento de pedidos**.
 2. Acesse a aba **Afiliados**.
 3. Clique no afiliado que representa a conta principal, se houver.
 4. Desmarque a opção **Usar meu meio de pagamento**.

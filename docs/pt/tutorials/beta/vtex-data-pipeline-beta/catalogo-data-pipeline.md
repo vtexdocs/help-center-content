@@ -156,7 +156,7 @@ A tabela `specification` armazena especificações técnicas dos produtos e SKUs
 
 A tabela cluster armazena informações sobre agrupamentos de contas, representando conjuntos de lojas ou sellers.
 
-| __Nome da Coluna__       | __Tipo da coluna __ | __Descrição__ |
+| __Nome da Coluna__       | __Tipo da coluna__ | __Descrição__ |
 |:----------:|:-------------:|:-----------:|
 | sk_category         | character varying(32)      | Chave sintética criada por hash da conta e do category_id, usada como chave primária. |
 | account            | character varying(255)     | Conta associada ao cluster, representando o comerciante ou loja. |

@@ -129,7 +129,7 @@ En la parte superior derecha de la página hay una barra de búsqueda con un íc
 Además, los resultados de la búsqueda pueden filtrarse según los siguientes criterios:
 
 - **Marketplace:** canal de venta al que se envió el anuncio.
-- **Enviados:** pueden consultarse tres periodos predeterminados desde que el anuncio se envió al marketplace; *Hoy***,** *Últimos 7 días* y *El mes pasado*.
+- **Enviados:** pueden consultarse tres periodos predeterminados desde que el anuncio se envió al marketplace; *Hoy***,*** Últimos 7 días* y *El mes pasado*.
 - **Stock:** cantidad de stock de un producto, que puede ser:
     - `Mínimo:` número mínimo de ítems en stock de un producto.
     - `Máximo:` número máximo de ítems en stock de un producto.
