@@ -19,15 +19,15 @@ Esta actualización introduce un sistema de gestión de contenidos moderno y má
 
 
 | ![Todo el contenido](https://vtexhelp.vtexassets.com/assets/docs/src/cms-all-content-es___afefaddf271e86e20ddcbfbdd0de5c27.gif) |
-|:---:|
+|---|
 | **Todo el contenido:** Crea, gestiona y publica todas las páginas, layouts, plantillas y secciones globales de tu storefront desde un único dashboard. |
 
 | ![Ramas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-ramas-es___6a11da91775038483dc37e4d49455d26.gif) |
-|:---:|
+|---|
 | **Ramas:** Trabaja en cambios de contenido en entornos aislados y fusiónalo al storefront en producción solo cuando esté listo, sin interrumpir tu tienda. |
 
 | ![Tiendas](https://vtexhelp.vtexassets.com/assets/docs/src/cms-tiendas-es___280c75a48fbd2bf642b2529b43d71dfc.gif) |
-|:---:|
+|---|
 | **Tiendas:** Vincula y gestiona múltiples storefronts desde un solo lugar, configurando URLs de vista previa, integraciones de repositorio y ajustes de idioma para cada uno. |
 
 > ℹ️ Más información sobre [VTEX CMS](https://help.vtex.com/es/docs/tutorials/cms-informacion-general).

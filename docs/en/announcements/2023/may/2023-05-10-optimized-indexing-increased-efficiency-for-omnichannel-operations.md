@@ -25,7 +25,7 @@ Previously, indexing required higher time and costs and was less stable, which c
 
 We implemented two main changes to achieve this:
 
-| __Before__ | __After__ |
+| Before | After |
 |---|---|
 | __General indexing:__ Updating any product or SKU information, whether price or stock, required reprocessing all information. | __Granular indexing:__ We now differentiate changes to price, stock, and catalog and process only the modified information instead of processing the information in all modules every time. We also refined the changes that trigger indexing, which prevents unnecessary processing. |
 | __Global indexing:__ To publish the latest version of an item to the store and search results, the information of all product SKUs had to be reprocessed in all sellers and linked trade policies. | __Indexing by seller:__ Now, we only process the SKU in the seller that had a change instead of reprocessing all SKUs in all sellers. |

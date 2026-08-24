@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona o Relatório de segurança'
+title: 'Entendendo o Relatório de Segurança'
 id: tutorials_282
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:10.101Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
-O relatório de Segurança é onde ficam registradas as alterações que afetam o cadastro de produtos. Sua função principal é fornecer ao lojista, a possibilidade de verificar o autor por determinadas alterações em um período de tempo específico.
+O Relatório de Segurança é onde ficam registradas as alterações que afetam o cadastro de produtos. Sua função principal é fornecer ao lojista, a possibilidade de verificar o autor por determinadas alterações em um período de tempo específico.
 
-## Acessar o relatório de Segurança
+## Acessar o Relatório de Segurança
 
 Siga o passo a passo para acessar o relatório:
 
@@ -31,7 +31,7 @@ Siga o passo a passo para acessar o relatório:
 
 O exemplo abaixo ilustra o filtro para uma alteração (seja criação ou atualização) de preço de um SKU. Para isso, é necessário utilizar os campos __Dados__ com o Id do SKU, __Tela__ com o local da plataforma onde ocorre essa alteração e um período de tempo específico. De acordo com o relatório que se deseja, pode ser necessário usar outros campos em conjunto ou em substituição a esses.
 
-![relatoriosegurançaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/relatórios/entendendo-o-relatorio-de-seguranca_1.gif)
+![relatoriosegurançaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/catálogo-relatórios/entendendo-o-relatorio-de-seguranca_1.gif)
 
 Confira a seção a seguir para entender todos os campos disponíveis para filtrar o relatório.
 

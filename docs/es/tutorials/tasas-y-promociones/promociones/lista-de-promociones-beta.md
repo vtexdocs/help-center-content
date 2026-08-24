@@ -1,5 +1,5 @@
 ---
-title: 'Lista de Promociones'
+title: 'Promociones'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
@@ -23,7 +23,7 @@ Accede a este módulo en el Admin VTEX a través del menú <i class="fas fa-bull
 
 La página muestra la lista con las promociones registradas en tu tienda y su información básica:
 
-| **Nombre del campo** | **Descripción** |
+| Nombre del campo | Descripción |
 |---|---|
 | `Nombre` | Nombre de la promoción. |
 | `Desde` | Fecha de inicio de la promoción.  |
@@ -71,7 +71,7 @@ Puedes descargar un archivo CSV con las promociones registradas en tu tienda y s
 
 El archivo contiene la siguiente información sobre cada promoción:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 |---|---|
 | `ID` | ID de la promoción. |
 | `Nombre` | Nombre de la promoción. |

@@ -1,5 +1,5 @@
 ---
-title: 'Promotion List'
+title: 'Promotions'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
@@ -23,7 +23,7 @@ Access the page in the VTEX Admin through the <i class="fas fa-bullhorn"></i> **
 
 The page displays the list of your store's promotions and their basic information:
 
-| **Field name** | **Description** |
+| Field name | Description |
 |---|---|
 | `Name` | Promotion name. |
 | `From` | Promotion start date. |
@@ -71,7 +71,7 @@ You can download a CSV file with the promotions available in your store and thei
 
 The file contains the following information about each promotion:
 
-| **Column** | **Description** |
+| Column | Description |
 |---|---|
 | `ID` | The promotion ID. |
 | `Name` | The promotion name. |

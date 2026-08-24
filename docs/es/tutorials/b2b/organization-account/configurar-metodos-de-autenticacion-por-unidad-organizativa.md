@@ -21,7 +21,7 @@ La configuración de autenticación se divide en dos grupos principales: **Ident
 Define los identificadores que el usuario puede ingresar al iniciar sesión (nombre de usuario, email o ambos).
 
 | Identificador         | Descripción                                                                   |
-| :-------------------- | :---------------------------------------------------------------------------- |
+| -------------------- | ---------------------------------------------------------------------------- |
 | **Nombre de usuario** | El usuario ingresa su nombre de usuario para iniciar sesión.  |
 | **Email**             | El usuario ingresa su dirección de email para iniciar sesión. |
 
@@ -30,7 +30,7 @@ Define los identificadores que el usuario puede ingresar al iniciar sesión (nom
 Define cómo se autentica el usuario después de la identificación (con contraseña, proveedor de identidad externo o ambos).
 
 | Método                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Contraseña**                           | El usuario se autentica con la contraseña registrada en la plataforma VTEX.                                                                                                                                                                                                                                                                                                                                             |
 | **IdP externo (SSO)** | Se redirige al usuario a un proveedor de identidad externo configurado por el retailer para autenticarse mediante Single Sign-On. Consulta [Activar inicio de sesión en la organización a través de un proveedor de identidad (IdP) externo](https://help.vtex.com/es/docs/tutorials/activar-inicio-de-sesion-en-la-organizacion-mediante-proveedor-de-identidad-idp-externo). |
 
@@ -62,7 +62,7 @@ Para configurar los métodos de autenticación directamente desde la [pantalla i
 También puedes gestionar los métodos de autenticación por unidad organizativa vía API. Los endpoints disponibles son:
 
 | Método   | Endpoint                                                                                                                                                              | Descripción                                                                                      |
-| :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | `GET`    | [Get organization unit authentication settings](https://developers.vtex.com/docs/api-reference/vtex-id-api#get-/api/vtexid/organization-units/-unitId-/settings)      | Consulta los métodos de autenticación configurados para una unidad organizativa. |
 | `POST`   | [Set organization unit authentication settings](https://developers.vtex.com/docs/api-reference/vtex-id-api#post-/api/vtexid/organization-units/-unitId-/settings)     | Define los métodos de autenticación de una unidad organizativa.                  |
 | `PATCH`  | [Update organization unit authentication settings](https://developers.vtex.com/docs/api-reference/vtex-id-api#patch-/api/vtexid/organization-units/-unitId-/settings) | Actualiza parcialmente los métodos de autenticación de una unidad organizativa.  |

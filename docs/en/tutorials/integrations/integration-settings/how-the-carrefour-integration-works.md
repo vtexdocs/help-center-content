@@ -89,7 +89,7 @@ _`Example 1`: A promotion that offers a 10% discount for a certain category._
 
 _`Example 2`: In the sales policy used in Carrefour, an SKU is priced at $ 10 with a fixed price of $ 15. The value that the integration sends to the marketplace is $ 15._
 
-> ⚠️ **Attention:** As the payment method is given in the marketplace, payment rules are also determined by it. Because of this, the integration can not send differentiated prices according to the payment method. <br /> *Ex: If the interest rate for installment payments is configured in VTEX, the price that is sent will still be the one that was returned by the fulfillment simulation.*
+> ⚠️ As the payment method is given in the marketplace, payment rules are also determined by it. Because of this, the integration can not send differentiated prices according to the payment method. <br /> *Ex: If the interest rate for installment payments is configured in VTEX, the price that is sent will still be the one that was returned by the fulfillment simulation.*
 
 ## 4. Benefits
 Unlike a benefit used for your store's website, a marketplace benefit only discounts the value of the product, but without indicating that it is a benefit. That is, the price sent is already modified and there is no benefit tag.

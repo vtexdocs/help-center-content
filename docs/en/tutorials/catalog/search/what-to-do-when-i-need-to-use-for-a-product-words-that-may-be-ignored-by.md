@@ -17,10 +17,10 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 > ⚠️ VTEX has two search options - CMS Portal (Legacy) search and VTEX Intelligent Search. This article refers to the CMS Portal (Legacy) search. To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-If you need to use in your products words that perhaps are not important for the search engine, several good practices exist:
+If you need to use words in your products that may not be important for the search engine, several good practices exist:
 
 - Use product specification, redirecting the search term to the filter.
-- Use collection, redirecting the search term to a landing-page.
+- Use a collection, redirecting the search term to a landing page.
 - Redirect the search term to a search context that makes sense (Category, brand or the product itself).
 
 Learn how to set up redirection on the [URL Mapping (301 Redirect)](/en/docs/tutorials/url-mapping-301-redirect/) guide.
