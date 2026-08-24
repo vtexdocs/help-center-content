@@ -32,7 +32,7 @@ Saiba mais em [Configuração da busca](https://help.vtex.com/pt/docs/tutorials/
 
 ### Geração de keyword a partir de qualquer especificação de produto
 
-Além do nome do produto e da marca, agora é possível configurar especificações de produto para também gerar keyword. Quando uma especificação é definida para esse fim, os valores preenchidos nela passam a contar como keyword do produto, com o mesmo peso do keyword extraído do nome ou da marca.
+Além do nome do produto e da marca, agora é possível configurar especificações de produto para também gerar keyword (palavra-chave). Quando uma especificação é definida para esse fim, os valores preenchidos nela passam a contar como keyword do produto, com o mesmo peso do keyword extraído do nome ou da marca.
 
 Essa melhoria é especialmente útil em catálogos nos quais informações relevantes para a busca estão registradas em especificações, e não no nome do produto, por exemplo, quando o nome não descreve o tipo, a função ou outro atributo central do item.
 
