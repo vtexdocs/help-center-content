@@ -26,6 +26,6 @@ You can add shipping rates in the Admin by using:
 * The `Shipping strategy` page: you must upload the [shipping rate template](/en/docs/tutorials/shipping-rate-template) when adding a `Shipping policy` or updating an existing one. We recommend this option for adding many postal codes and their shipping costs at a time. 
 * The `Shipping rates` page: for when you want to update existing rates or add a few. It allows you to edit and add shipping rates without using the shipping rate template. To learn more, see our tutorial [Managing shipping rates](/en/docs/tutorials/managing-shipping-rates).
 
-> ⚠️ The [shipping rate template](/en/docs/tutorials/shipping-rate-template) is the only option for configuring the location polygon (geolocation), the insurance cost and **additional shipping costs**.
+> ⚠️ The [shipping rate template](/en/docs/tutorials/shipping-rate-template) is the only option for configuring the location polygon (geolocation), the insurance cost and additional shipping costs.
 
 > ℹ️ If you need to update or add multiple shipping rates, we recommend using the [shipping rate template](/en/docs/tutorials/shipping-rate-template) instead of the **Shipping rates** module. If you want to check out how shipping rates are added and displayed to the end customer, use the [Shipping simulator](/en/docs/tutorials/shipping-simulation) module.

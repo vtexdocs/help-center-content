@@ -75,4 +75,5 @@ To delete a loading dock, access the VTEX Admin and follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.    
 2. Click on the **Loading Docks** tab to view all the loading docks configured.
-3. Click on the three dots icon in the card of the loading dock you want to delete.Click `Delete`.  
+3. Click on the three dots icon in the card of the loading dock you want to delete.
+4. Click `Delete`.  

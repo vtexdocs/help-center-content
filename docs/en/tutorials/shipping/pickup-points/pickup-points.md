@@ -31,9 +31,8 @@ Currently, the platform limits the selection to the 300 pickup points closest to
 
 It is possible to [set up the limit of pickup points](#how-to-setup-pickup-points) displayed at checkout for the customer. The limit configured applies to each [shipping policy](/en/docs/tutorials/shipping-policy), as in the examples below:
 
-> Example 1: The limit configured is to display five pickup points at checkout. There are only three pickup points associated with the shipping policy; therefore, three options are displayed at checkout.
-
-> Example 2: The limit configured is to display five pickup points at checkout. There are two shipping policies, each one associated with three different pickup points; therefore, six options are displayed at checkout. Even though the limit is set to five pickup points, the rule is applied to each shipping policy.
+- **Example 1:** The limit configured is to display five pickup points at checkout. There are only three pickup points associated with the shipping policy; therefore, three options are displayed at checkout.
+- **Example 2:** The limit configured is to display five pickup points at checkout. There are two shipping policies, each one associated with three different pickup points; therefore, six options are displayed at checkout. Even though the limit is set to five pickup points, the rule is applied to each shipping policy.
 
 Keep in mind that:
 
@@ -41,7 +40,7 @@ Keep in mind that:
 * VTEX limits the location to a 50km radius between the pickup point and the customer's address.
 * In cases where transport between the [warehouse](/en/docs/tutorials/warehouse) and the pickup point is required, VTEX also takes into account the existence of this route when choosing the pickup point.
 
-> ℹ️ Through pickup points, VTEX also enables the merchant: <body> <ul> <li>Set up contingency pickup points: pickup points that can supply inventory to other points when needed, allowing the buyer the most convenient choice. To learn more, visit [Contingency Pickup Points.](/en/docs/tutorials/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout)</li> <li>Set up a white label seller as the pickup point. Learn more at [Setting up Seller White Label as a Pickup Point.](/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)</li> </ul> </body>
+> ℹ️ Through pickup points, VTEX also enables the merchant: <ul> <li>Set up contingency pickup points: pickup points that can supply inventory to other points when needed, allowing the buyer the most convenient choice. To learn more, visit [Contingency Pickup Points.](/en/docs/tutorials/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout)</li> <li>Set up a white label seller as the pickup point. Learn more at [Setting up Seller White Label as a Pickup Point.](/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)</li> </ul>
 
 Assure the pickup points settings are within the accepted limits and aligned with the store's sales strategy. This allows the [shipping simulation](/en/docs/tutorials/shipping-simulation) to consider the data correctly and ensures, for example, that the pickup point settings are not limiting the store's operation. 
 
