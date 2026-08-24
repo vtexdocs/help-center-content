@@ -399,7 +399,7 @@ En la columna **Acción**, todos los eventos de Headless CMS (Legacy) también m
 ## Site Editor
 
 | Acción | Descripción del evento | Detalle del evento |
-|:---:|:---:|:---:|
+|---|---|---|
 | Schedule change | Programa la edición de contenido. | ID de entidad modificado. |
 | Edit content block | Edita el bloque de contenido. | ID de entidad modificado. |
 | Create content block | Creación de bloco de conteúdo. | ID de entidad modificado. |

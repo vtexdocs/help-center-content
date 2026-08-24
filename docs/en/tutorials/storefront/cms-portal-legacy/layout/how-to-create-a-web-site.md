@@ -28,7 +28,7 @@ Follow the steps below to create a website or publish your first store.
 
 3. Under **Website**, fill in the fields required to create the website. 
 
-| **Field** | **Description** |
+| Field | Description |
 | --------- | --------------- |
 | **Id do WebSite** (Website ID) | Website identification code. You are not required to create one, because the system automatically generates an ID for your website.
 | **Website name** | Enter a name for the website |

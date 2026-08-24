@@ -77,7 +77,7 @@ The quarterly performance report is available in the **Performance** tab. To vie
 
 In the carrier performance table, you can monitor the performance of each carrier. The VTEX Shipping Network solution considers that the ideal on-time delivery performance should be higher than 95%.
 
-You can also view orders by their delivery status:** Invoiced**, **In transit** (orders with a tracking number assigned, which have not yet been delivered and are not delayed), **Delayed** (orders with a tracking number assigned, which have not yet been delivered and are delayed) and **Delivered**.
+You can also view orders by their delivery status:**Invoiced**, **In transit** (orders with a tracking number assigned, which have not yet been delivered and are not delayed), **Delayed** (orders with a tracking number assigned, which have not yet been delivered and are delayed) and **Delivered**.
 
 All VTEX Shipping Network carriers have a verified badge. You can see the pink badge on the performance table. Its purpose is to indicate which carriers are VTEX Shipping Network.
 

@@ -76,7 +76,7 @@ En la sección **Prueba tus agentes**, puedes:
 Para buscar eventos específicos, haz clic en `Filtrar logs` y busca por palabras clave o por las siguientes categorías:
 
 | Categoría | Descripción de la etapa |
-| --- | :--- |
+| --- | --- |
 | Aplicando reglas de seguridad | Verificación de seguridad del contenido, incluyendo protección de datos sensibles, bloqueo de contenidos prohibidos y aplicación de políticas de uso. |
 | Asignando tarea al agente | Definición del agente especializado o recurso interno que será responsable de una etapa de la conversación. |
 | Conocimientos | Consulta la base de conocimientos, como documentación, artículos del Help Center o contenidos internos, para buscar información oficial antes de la respuesta. |

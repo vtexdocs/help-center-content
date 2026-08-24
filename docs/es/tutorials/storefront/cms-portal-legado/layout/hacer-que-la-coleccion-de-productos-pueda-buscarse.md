@@ -21,7 +21,7 @@ Puede hacer con que, al buscar por el nombre de una colección en la búsqueda d
 
 Por ejemplo, digamos que tiene una colección llamada "Día del Niño", y que seleccione esta colección para su búsqueda. Si un cliente de la tienda busca el término "Día del Niño", los productos que forman parte de esa colección serán renderizados en el resultado de la búsqueda.
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
+> ⚠️ Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
 
 Para hacer que una colección pueda buscarse, siga los siguientes pasos: 
 

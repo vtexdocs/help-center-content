@@ -303,7 +303,7 @@ A gestão de usuários administrativos é realizada de forma direta através do 
 
 Toda ação na VTEX, como acessar uma página no Admin ou fazer uma chamada de API, envolve uma requisição à nossa infraestrutura. Para garantir a segurança dessas operações, existe o **License Manager**, um sistema responsável por verificar se um usuário possui as permissões adequadas para realizar uma ação na plataforma. Para facilitar o gerenciamento dessas permissões, o License Manager é baseado em recursos e perfis de acesso.
 
-Um recurso é uma entidade associada a uma ação ou informação dentro de nossa infraestrutura. Por exemplo, o recurso**_ Product management_** permite que um usuário acesse e edite o formulário de cadastro de produtos no **Catálogo**. Para detalhes sobre cada recurso disponível, veja [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
+Um recurso é uma entidade associada a uma ação ou informação dentro de nossa infraestrutura. Por exemplo, o recurso **Product management** permite que um usuário acesse e edite o formulário de cadastro de produtos no** Catálogo**. Para detalhes sobre cada recurso disponível, veja [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
 
 Um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) determina o conjunto de recursos que um grupo de usuários pode acessar na VTEX. Cada usuário administrativo pode ser associado a um ou mais perfis de acesso. Ao criar um novo perfil de acesso, você tem a opção de utilizar um dos [perfis predefinidos ](/pt/docs/tutorials/perfis-de-acesso-predefinidos)disponibilizados pela VTEX ou de [criar um perfil customizado](/pt/docs/tutorials/perfis-de-acesso-predefinidos), selecionando cada recurso necessário.
 
