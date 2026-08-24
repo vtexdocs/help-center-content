@@ -57,7 +57,7 @@ Para exportar datos de Master Data v1 a través del dashboard del Admin, sigue l
 
 Repite estos pasos para las entidades de datos de clientes (**CL**), direcciones (**AD**) y cualquier otra que hayas configurado para recibir datos personales de los clientes.
 
-> ℹ️ Aprende más sobre cómo [filtrar datos](/es/docs/tutorials/filtrar-datos-en-el-master-data#how-to-use-filters) y [exportar datos](/es/docs/tutorials/exportacion-de-datos) en la interfaz de Master Data v1.
+> ℹ️ Aprende más sobre cómo [filtrar datos](/es/docs/tutorials/filtrar-datos-en-el-master-data) y [exportar datos](/es/docs/tutorials/exportacion-de-datos) en la interfaz de Master Data v1.
 
 #### Master Data v2
 
@@ -89,9 +89,13 @@ Tus clientes pueden ejercer su derecho de consentimiento y rectificación de dat
 
 ## Consentimiento
 
+> ℹ️ Las siguientes indicaciones reflejan prácticas comunes adoptadas por las tiendas VTEX, pero no sustituyen un análisis jurídico sobre la base legal aplicable a tu operación.
+
 El derecho de consentimiento les proporciona a tus clientes la oportunidad de expresar la aceptación, usualmente documentada por una marca en una casilla, del tratamiento de sus datos y el objetivo de su uso.
 
-No siempre se requiere consentimiento. Si utilizas información mínima para finalizar un pedido (nombre, dirección, tarjeta de crédito) o emitir una factura (nro. de identificación fiscal, ítems de compra), no se necesita consentimiento explícito. Sin embargo, sí es necesario para algunas opciones disponibles a los clientes en tu tienda. A continuación, se describen estas opciones y como configurarlas, de ser necesario.
+El consentimiento es una de las bases legales previstas para el tratamiento de datos personales, pero no es la única aplicable a toda situación. Para finalidades como la ejecución de un pedido (nombre, dirección, forma de pago) o la emisión de una factura (nro. de identificación fiscal, ítems de la compra), pueden aplicarse otras bases legales, como la ejecución de un contrato o el cumplimiento de una obligación legal, según el análisis de tu operación.
+
+Aun así, el consentimiento suele adoptarse como buena práctica en algunas funcionalidades de la tienda, descritas a continuación. Recomendamos que evalúes, con apoyo jurídico, cuál es la base legal más adecuada para cada finalidad de tratamiento de datos en tu tienda.
 
 ### Inscripción en el newsletter
 
@@ -105,7 +109,7 @@ De ser necesario, tu equipo de desarrollo puede [ajustar directamente la opción
 
 La plataforma VTEX permite [configurar una automatización de carrito abandonado](/es/docs/tutorials/configurar-carrito-abandonado). En otras palabras, se puede configurar el envío automático de emails a los clientes que hayan accedido a tu tienda y hayan agregado productos al carrito y terminado la sesión sin comprar.
 
-Para garantizar el derecho de consentimiento con este fin específico, debes [configurar tu automatización de carrito abandonado](/es/docs/tutorials/configurar-carrito-abandonado) para habilitar el envío de emails solo a clientes [inscritos en el newsletter de la tienda](#inscripcion-en-el-newsletter). Los clientes que estén inscritos en el newsletter tienen el campo `isNewsletterOptIn` configurado como `true` en la entidad **CL** de [Master Data v1](/es/docs/tutorials/master-data).
+Como buena práctica, recomendamos [configurar tu automatización de carrito abandonado](http://help.vtex.com/es/docs/tutorials/configurar-carrito-abandonado) para habilitar el envío de emails solo a clientes [inscritos en el newsletter de la tienda](#inscripcion-en-el-newsletter), es decir, clientes que tienen el campo `isNewsletterOptIn` configurado como `true` en la entidad **CL** de [Master Data v1](http://help.vtex.com/es/docs/tutorials/master-data). Esta configuración ayuda a alinear esta comunicación con una práctica de consentimiento, pero recomendamos evaluar con tu equipo jurídico cuál es la base legal más adecuada para esta finalidad en tu operación.
 
 ### Avísame
 
