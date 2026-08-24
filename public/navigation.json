@@ -61236,21 +61236,6 @@
             },
             {
               "name": {
-                "en": "Outdated Mastercard Debit regex is causing us to misidentify some BINs",
-                "es": "Una expresión regular obsoleta para tarjetas de débito Mastercard nos está llevando a identificar erróneamente algunos BIN",
-                "pt": "Uma expressão regular desatualizada para cartões de débito Mastercard está fazendo com que identifiquemos erroneamente alguns BINs"
-              },
-              "slug": {
-                "en": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
-                "es": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-                "pt": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Payment Conditions set to process transactions in installments other than 1x are processing transactions as prepaid in full",
                 "es": "Condiciones de pago establecidas para procesar transacciones a plazos distintas de 1x están procesando transacciones como prepagadas en su totalidad",
                 "pt": "As condições de pagamento definidas para processar transações em parcelas diferentes de 1x estão processando transações como pré-pagas integralmente"
