@@ -13,7 +13,7 @@ The **Master Data usage** dashboard in the VTEX Admin helps you track the volume
 
 With this dashboard, you can check the total number of documents, see when the data was last updated, and analyze the volume per entity before making decisions about storage or data cleanup.
 
-> ℹ️ The use of custom entities is subject to monthly charges. To understand how VTEX measures the volume of documents for billing, see the [Billing](/en/docs/tutorials/master-data#billing) section of the Master Data article.
+> ℹ️ The use of custom entities is subject to monthly charges. To understand how VTEX measures the volume of documents for billing, see the [Billing](/en/docs/tutorials/master-data#billing) section of the Master Data article. If billing hasn't decreased as expected after deleting an entity, see [this guide](/en/docs/tutorials/a-cobranca-do-master-data-nao-diminuiu-depois-que-exclui-uma-entidade-de-dados).
 
 ## Accessing the dashboard
 
