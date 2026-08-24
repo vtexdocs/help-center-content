@@ -14,7 +14,7 @@ locale: pt
 legacySlug: nao-encontro-uma-colecao-o-que-fazer
 ---
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
+> ⚠️ Existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
 Por padrão, o CMS só exibe as __últimas 20 coleções__ atualizadas.
 

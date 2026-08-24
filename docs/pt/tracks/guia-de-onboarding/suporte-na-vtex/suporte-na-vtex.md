@@ -17,7 +17,7 @@ order: 1
 
 Quando surge a necessidade de apoio, os clientes e parceiros podem contar com a assistência VTEX, que inclui nossos portais de documentação, o VTEX Community e o nosso suporte online, conforme apresentado na tabela abaixo:
 
-| **Canal**     | **Descrição**     |
+| Canal     | Descrição     |
 | ---------- | ---------- |
 | [Help Center](/pt/) | Portal de documentação voltado para lojistas, equipes de suporte e tomadores de decisão de negócios que trabalham com o painel administrativo da plataforma, o Admin VTEX.   |
 | [Developer Portal](https://developers.vtex.com/)  | Portal de documentação voltado para desenvolvedores e usuários técnicos que trabalham com a plataforma VTEX.  |

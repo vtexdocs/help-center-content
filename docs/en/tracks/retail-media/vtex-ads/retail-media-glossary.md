@@ -18,7 +18,7 @@ order: 5
 The following glossary brings together the main terms and concepts related to retail media:  
 
 | Term | Meaning |
-| :---- | :---- |
+| ---- | ---- |
 | **Endemic advertiser** | Brand that promotes products directly related to the store's portfolio. For example, a brand advertising its electronic products on an ecommerce website that already sells them. |
 | **Non-endemic advertiser** | Brand that advertises in a retail store even without directly selling its products on that channel. For example, a car brand running campaigns in a marketplace that doesn't sell cars. |
 | **ACOS (Advertising Cost of Sales)** | Advertising costs are relative to the revenue generated. Formula: `ACOS = (Ad Spend/Revenue generated) × 100`. The lower the ACOS, the more efficient the campaign. |

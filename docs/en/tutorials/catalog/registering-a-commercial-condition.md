@@ -17,7 +17,7 @@ subcategoryId: 6312YEqn0AGYCsOOESSIQM
 
 A commercial condition is a grouping of SKUs that will serve to create different payment scenarios.
 
-The configuration of the commercial condition is made in three parts:
+The commercial condition is configured in three parts:
 
 1. Create the commercial condition.
 2. Link an SKU.

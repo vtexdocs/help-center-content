@@ -1,5 +1,5 @@
 ---
-title: 'Lista de Audiências de campanhas'
+title: 'Lista de audiências de campanhas'
 id: 2aW3JH34Zsm4keR5wtXZbT
 status: PUBLISHED
 createdAt: 2022-07-21T20:21:27.266Z
@@ -56,7 +56,7 @@ Para voltar a visualizar as Audiências de campanhas não arquivadas, clique em 
 
 Caso precise verificar ou alterar as configurações de determinada audiência de campanha, é possível encontrá-la por meio da busca. Para isso, digite na barra de busca o nome, descrição ou público-alvo cadastrado na audiência de campanha.
 
-Na aba **Não arquivados**, a busca apresenta resultados que incluem audiências de campanha **Ativas **ou **Inativas** que não foram arquivadas. Já na aba **Arquivados**, a busca exibe resultados de campanhas **Inativas** e arquivadas.
+Na aba **Não arquivados**, a busca apresenta resultados que incluem audiências de campanha **Ativas** ou **Inativas** que não foram arquivadas. Já na aba **Arquivados**, a busca exibe resultados de campanhas **Inativas** e arquivadas.
 
 ### Arquivar audiência de campanha
 

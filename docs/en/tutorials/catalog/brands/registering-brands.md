@@ -1,5 +1,5 @@
 ---
-title: 'How to register brands'
+title: 'Registering brands'
 id: tutorials_1414
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:34.394Z

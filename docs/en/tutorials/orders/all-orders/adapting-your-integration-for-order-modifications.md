@@ -64,8 +64,8 @@ After changing the order using the [Create order modifications](https://develope
 
 The table below describes each one:
 
-| **Flow type** | **How it works** |
-| :---: | :--- |
+| Flow type | How it works |
+| --- | --- |
 | **Polling**Low complexity | After the order modifications operation, a unique code, the `requestId`, is generated to identify the order modifications. You can use it to follow the details of the request through the [Get order modifications details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-) endpoint. In this endpoint, once the request has been changed, the response body property `finished` is set to `true`.In addition, [Get order modification details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-) can also be used to obtain information about failures and errors that resulted in the eventual cancellation of the order modifications operation, as will be described in the section [Requests with errors and failures](#requests-with-errors-and-failures). |
 | **Preview**Medium complexity | Before making a request to [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), the integration can make a preview that will result in a response body identical to the modification request. To do so, use the same request body in the request to the [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview) endpoint.This preview is a simulated modification and does not generate any real modifications to the order. Using [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview) is useful for obtaining the total values associated with the order modifications being made and for validating the request details with a valid request body.After receiving a successful `200 OK` response for a preview of the modifications, the integration can proceed with the request to [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) to modify the order.Then, the integration can be adapted to scenarios such as:<ul><li>**Optimistic scenario:** The validation data obtained by simulating the modifications covers most of the `200 OK` success scenarios.</li><li>**Polling implementation:** Mentioned above.</li></ul> |
 
@@ -301,7 +301,7 @@ The general recommendation is to investigate the error source and check the requ
 
 ## Learn more
 
-| **Help Center** | **Developer Portal** |
-| :--- | :--- |
+| Help Center | Developer Portal |
+| --- | --- |
 | Modifying orders in the VTEX Admin:<ul><li>[How Order modifications works](/en/docs/tutorials/how-order-modification-works)</li><li>[How to modify orders](/en/docs/tutorials/how-to-modify-orders)</li></ul> | Modifying orders via API:<ul><li>[Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)</li><li>[Get order modifications details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-)</li><li>[Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Retry order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry)</li><li>[Cancel order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel)</li></ul> |
 

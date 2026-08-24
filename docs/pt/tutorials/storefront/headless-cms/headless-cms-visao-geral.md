@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS (Legacy) (Legado) - Visão geral'
+title: 'Headless CMS (Legado)'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED
 createdAt: 2023-12-15T20:27:39.404Z
@@ -14,6 +14,7 @@ legacySlug: headless-cms-visao-geral
 locale: pt
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 order: 1
+categoryCover: true
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
