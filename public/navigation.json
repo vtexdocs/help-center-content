@@ -44869,6 +44869,21 @@
             },
             {
               "name": {
+                "en": "CheckoutOrderFormOwnership Cookie shipping information loss",
+                "es": "Pérdida de información de envío de cookies del formulario de pedido de pago",
+                "pt": "Perda de informações de envio do cookie CheckoutOrderFormOwnship"
+              },
+              "slug": {
+                "en": "checkoutorderformownership-cookie-shipping-information-loss",
+                "es": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+                "pt": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "CheckoutOrderFormOwnership is lost/doesn't exist in some purchase flows",
                 "es": "La propiedad del formulario de pedido de pago se pierde o no existe en algunos flujos de compra.",
                 "pt": "A propriedade do formulário de pedido no checkout é perdida/não existe em alguns fluxos de compra."
