@@ -30,7 +30,7 @@ Essa mudança torna os resultados de busca OR mais relevantes para o que o clien
 
 Não é necessária nenhuma ação. Essa melhoria de ordenação é aplicada automaticamente a todas as lojas que usam o VTEX Intelligent Search.
 
-## Saiba mais
+Para mais detalhes, consulte:
 
 * [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral)
 * [Relevância](https://help.vtex.com/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca#etapa-2-como-o-intelligent-search-ordena-os-resultados)
