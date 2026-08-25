@@ -1,5 +1,5 @@
 ---
-title: 'Resultados de "busca OR" agora ordenados por relevância'
+title: 'Resultados de busca OR agora ordenados por relevância'
 slug: '2026-08-25-resultados-de-busca-or-agora-ordenados-por-relevancia'
 hidden: false
 createdAt: 2026-08-25T00:00:00.000Z
@@ -8,7 +8,7 @@ contentType: updates
 productTeam: Intelligent Search
 slugEN: '2026-08-25-or-search-results-now-ranked-by-relevance'
 locale: pt
-announcementSynopsisPT: 'Resultados de "busca OR" agora são ordenados por relevância à busca completa, em vez de pela quantidade de palavras que corresponderam.'
+announcementSynopsisPT: 'Resultados de busca OR agora são ordenados por relevância à busca completa, em vez de pela quantidade de palavras que corresponderam.'
 tags:
   - Melhoria
   - Intelligent Search
