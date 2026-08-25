@@ -28,7 +28,7 @@ Essa mudança torna os resultados de busca OR mais relevantes para o que o clien
 
 ## O que precisa ser feito?
 
-Não é necessária nenhuma ação. Essa melhoria de ordenação é aplicada automaticamente a todas as lojas que usam o VTEX Intelligent Search.
+Não é necessária nenhuma ação. Essa melhoria de ordenação é aplicada automaticamente a todas as lojas que usam o Intelligent Search.
 
 Para mais detalhes, consulte:
 
