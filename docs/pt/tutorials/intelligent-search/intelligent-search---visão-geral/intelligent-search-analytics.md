@@ -19,7 +19,7 @@ subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 
 A partir dessas informações, você tem visibilidade sobre o desempenho dos resultados de busca e dos termos de pesquisa do [Autocomplete](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL?&utm_source=autocomplete) e poderá realizar ações para melhorar o desempenho, como criar um redirecionamento ou cadastrar um novo sinônimo.
 
-> ℹ️ Se a sua loja for headless ou um aplicativo mobile desenvolvido em Flutter ou React Native, as impressions e os cliques de busca precisam ser rastreados manualmente usando o Activity Flow para que esses dados sejam coletados. Para detalhes de implementação, consulte [Tracking search analytics events in headless web stores](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) e [Tracking search analytics events in mobile apps](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-mobile-apps) (em inglês).
+> ℹ️ Se a sua loja for headless ou um aplicativo mobile desenvolvido em Flutter ou React Native, as impressões e os cliques de busca precisam ser rastreados manualmente usando o Activity Flow para que esses dados sejam coletados. Para detalhes de implementação, consulte [Tracking search analytics events in headless web stores](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) e [Tracking search analytics events in mobile apps](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-mobile-apps) (em inglês).
 
 Siga os passos abaixo para acessar a página:
 
