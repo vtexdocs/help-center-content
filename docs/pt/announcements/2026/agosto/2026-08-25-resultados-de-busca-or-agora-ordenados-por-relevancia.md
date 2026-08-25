@@ -32,6 +32,5 @@ Não é necessária nenhuma ação. Essa melhoria de ordenação é aplicada aut
 
 Para mais detalhes, consulte:
 
-* [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral)
 * [Relevância](https://help.vtex.com/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca#etapa-2-como-o-intelligent-search-ordena-os-resultados)
 * [Comportamento da busca](https://help.vtex.com/pt/docs/tutorials/comportamento-da-busca#resultado-minimo)
