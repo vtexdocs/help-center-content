@@ -88,6 +88,40 @@ Para editar uma opção de envio, siga os passos abaixo.
 
 Feito isso, a opção de envio estará ativa e atualizada.
 
+## Verificar cobertura logística
+
+Ao editar uma opção de envio, é possível conferir se a configuração da loja atende aos critérios definidos na opção, identificando quais sellers, políticas de envio e rotas estão disponíveis para atendê-la. Essa verificação ajuda a diagnosticar por que uma opção de envio pode não estar sendo exibida ao cliente.
+
+Para verificar a cobertura logística de uma opção de envio, siga os passos abaixo.
+
+1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
+2. Na opção de envio que deseja verificar, clique em <i class="fas fa-ellipsis-v"></i>.
+3. Clique em <i class="fas fa-pencil-alt"></i> `Editar opção de envio`.
+4. Clique em `Verificar cobertura logística`.
+
+O modal **Verificar cobertura logística** será aberto ao lado direito da página, apresentando as seguintes informações:
+
+| Informação | Descrição |
+|---|---|
+| Sellers | Quantidade de sellers que atendem aos critérios configurados na opção de envio. |
+| Políticas de envio | Quantidade de políticas de envio que atendem aos critérios configurados na opção de envio. |
+| Cobertura por zona | Lista das zonas de envio configuradas na opção de envio, indicando quantos sellers e quantas políticas de envio atendem a cada zona. |
+| Rotas válidas para esta opção | Lista dos sellers que atendem à opção de envio, indicando a quantidade de políticas de envio e de rotas de cada um. O título da seção também informa quantos sellers estão sendo exibidos em relação ao total encontrado (por exemplo, **exibindo 2 de 2**). |
+
+Na seção **Rotas válidas para esta opção**, clique em <i class="fas fa-chevron-down"></i> ao lado do nome de um seller para expandir suas rotas. Cada rota é apresentada como a combinação entre uma política de envio e uma doca de carregamento, no formato `Política de envio + Doca`, como no exemplo abaixo:
+
+- `Total Express - MG` + `Main Dock`
+- `Total Express - MG` + `Sorocaba`
+- `Total Express - SP` + `Main Dock`
+
+Dessa forma, é possível identificar exatamente quais combinações de política de envio e doca estão habilitadas para atender a opção de envio em cada seller. Para recolher a lista de rotas de um seller, clique em <i class="fas fa-chevron-up"></i>.
+
+Para localizar uma zona de envio ou um seller específico, clique em <i class="fas fa-search"></i> na seção correspondente e digite o nome desejado.
+
+Caso alguma configuração da loja seja alterada enquanto o modal estiver aberto, clique em <i class="fas fa-sync-alt"></i> para atualizar as informações exibidas. Para fechar o modal, clique em <i class="fas fa-times"></i>.
+
+> ℹ️ Se uma zona de envio não apresentar sellers ou políticas de envio, a opção de envio não será exibida ao cliente nessa localização. Nesse caso, revise as [políticas de envio](/pt/docs/tutorials/politica-de-envio) da loja para garantir que atendam à promessa de entrega e às zonas configuradas na opção de envio.
+
 ## Desativar uma opção de envio
 
 Para desativar uma opção de envio, siga os passos abaixo.
