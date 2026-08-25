@@ -3,7 +3,7 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2026-03-02T18:20:54.585Z
+updatedAt: 2026-08-25T00:00:00.000Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -232,6 +232,10 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Remove Included Collection Assortment | Coleção incluída removida do sortimento. | ID do sortimento e ID da coleção. |
 | Add Excluded Collection Assortment | Coleção excluída adicionada ao sortimento. | ID do sortimento e ID da coleção. |
 | Remove Excluded Collection Assortment | Coleção excluída removida do sortimento. | ID do sortimento e ID da coleção. |
+| Brand Activation | Ativação de marca. | ID da marca. |
+| Brand Deactivation | Desativação de marca. | ID da marca. |
+| Category Activation | Ativação de categoria. | ID da categoria. |
+| Category Deactivation | Desativação de categoria. | ID da categoria. |
 
 ## Preços
 
