@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "\"OR Search\" results now ranked by relevance",
+                    "es": "Resultados de \"búsqueda OR\" ahora ordenados por relevancia",
+                    "pt": "Resultados de \"busca OR\" agora ordenados por relevância"
+                  },
+                  "slug": {
+                    "en": "2026-08-25-or-search-results-now-ranked-by-relevance",
+                    "es": "2026-08-25-resultados-de-busqueda-or-ahora-ordenados-por-relevancia",
+                    "pt": "2026-08-25-resultados-de-busca-or-agora-ordenados-por-relevancia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Breaking change: New required permission for the Availability Notify app",
                     "es": "Breaking change: Nuevo permiso obligatorio para la aplicación Availability Notify",
                     "pt": "Breaking change: Nova permissão obrigatória para o app Availability Notify"
@@ -44862,6 +44877,21 @@
                 "en": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
                 "es": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
                 "pt": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CheckoutOrderFormOwnership Cookie shipping information loss",
+                "es": "Pérdida de información de envío de cookies del formulario de pedido de pago",
+                "pt": "Perda de informações de envio do cookie CheckoutOrderFormOwnship"
+              },
+              "slug": {
+                "en": "checkoutorderformownership-cookie-shipping-information-loss",
+                "es": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+                "pt": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship"
               },
               "origin": "",
               "type": "markdown",
