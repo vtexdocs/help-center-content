@@ -25,7 +25,7 @@ Configuração antes da atualização:
   <tr>
     <td>
       <img
-           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-restricao-de-sellers-crie-promocoes-com-maior-controle-de-sellers-afetados_1.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/outubro/2020-10-29-restricao-de-sellers-crie-promocoes-com-maior-controle-de-sellers-afetados_1.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Configuração após a atualização:
   <tr>
     <td>
       <img
-           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-29-restricao-de-sellers-crie-promocoes-com-maior-controle-de-sellers-afetados_2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/outubro/2020-10-29-restricao-de-sellers-crie-promocoes-com-maior-controle-de-sellers-afetados_2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>

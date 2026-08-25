@@ -125,8 +125,8 @@ O nome será exibido em letras brancas sobre um fundo escuro e não poderá ser 
 
 A tabela abaixo descreve o formato e o limite de tamanho para cada tipo de recurso no estúdio Bundle, dependendo das configurações de [layout](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo):
 
-| **Tipo de recurso** | **Informações gerais** | **Visualização horizontal (16:9)** | **Visualização vertical (9:16)** |
-| :---: | :--- | :---: | :---: |
+| Tipo de recurso | Informações gerais | Visualização horizontal (16:9) | Visualização vertical (9:16) |
+| --- | --- | --- | --- |
 | Banners | Você pode personalizar os seguintes aspectos dos banners:<ul><li>Cor</li><li>Texto</li><li>Fixo ou móvel</li></ul> | Igual | Igual |
 | Overlay (Sobreposição) | **Limite de tamanho:** 20 MB / **Extensão:** png | **Tamanho do arquivo:** 1280 x 720 pixels | **Tamanho do arquivo:** 720 x 1280 pixels |
 | Background (Fundo) | **Limite de tamanho:** 20 MB / **Extensão:** png, jpg, jpeg | **Tamanho do arquivo:** 1280 x 720 pixels | **Tamanho do arquivo:** 720 x 1280 pixels |

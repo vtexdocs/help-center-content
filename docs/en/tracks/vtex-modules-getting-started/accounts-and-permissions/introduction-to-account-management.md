@@ -26,7 +26,7 @@ After logging in, you'll have access to your store's exclusive admin dashboard, 
 
 To access **Account settings**, click your profile avatar — indicated by your email initial letter — in the upper right corner of the Admin, and then click **Account settings**.
 
-![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/account-settings-overview_1.jpg)
+![Admin v4 account settings menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-admin/account-management/account-settings-overview_1.jpg)
 
 In this section, you'll find the main pages to manage your account:
 

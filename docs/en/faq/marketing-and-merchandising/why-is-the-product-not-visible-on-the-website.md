@@ -89,7 +89,7 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
     |-|-|
     | ![04-botao-precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_4.png) | Allows you to access the __Price list__ to check if the desired sales channel has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
     | ![05-botao-logistica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_5.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
-    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_6.png) | Allows you to view each **Seller ** selling the SKU, the sales channel (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
+    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_6.png) | Allows you to view each **Seller** selling the SKU, the sales channel (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
 
 2. On the row displaying the product with the SKU you want to verify, click the down arrow <i class="fas fa-caret-down"></i>, next to the `Update` button.
 3. Click the **SKU** option to access the SKUs detailed list.

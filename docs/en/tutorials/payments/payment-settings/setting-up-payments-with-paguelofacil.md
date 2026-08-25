@@ -1,7 +1,6 @@
 ---
 title: 'Setting up payments with Paguelofacil'
 createdAt: 2026-07-09T00:00:00.000Z
-createdAt: 2026-07-09T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: setting-up-payments-with-paguelofacil

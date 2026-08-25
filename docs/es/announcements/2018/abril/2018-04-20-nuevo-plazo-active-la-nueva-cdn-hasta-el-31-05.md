@@ -29,7 +29,7 @@ Usted necesita realizar sólo 3 acciones para dejar su tienda lista para el camb
 - Actualizar el CNAME
 - Llenar este formulario: [Actualización para la nueva CDN](https://docs.google.com/forms/d/e/1FAIpQLSdae71lH2ppAgjDw_bJ8E2ZMnL8psm3pEEXbEViQOSsx5eVwQ/viewform)
 
-__Cumpliendo estos pasos, su tienda no tendrá problemas.__ Para más detalles, siga el paso a paso que se describe a continuación o acceda a [este artículo](/es/tutorial/activar-nueva-cdn-de-vtex). Si no está seguro de cómo realizar estos cambios o no sabe si su tienda ya es adecuada, __enviar este comunicado a su equipo de soporte técnico de TI o agencia asociada. Es fundamental que su tienda realice estas acciones para continuar vendiendo.
+__Cumpliendo estos pasos, su tienda no tendrá problemas.__Para más detalles, siga el paso a paso que se describe a continuación o acceda a [este artículo](/es/tutorial/activar-nueva-cdn-de-vtex). Si no está seguro de cómo realizar estos cambios o no sabe si su tienda ya es adecuada,__ enviar este comunicado a su equipo de soporte técnico de TI o agencia asociada. Es fundamental que su tienda realice estas acciones para continuar vendiendo.
 
 ## Informaciones complementarias
 A pesar del plazo algunas medidas ya se han implementado para todas las tiendas:

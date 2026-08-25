@@ -49,7 +49,7 @@ Dessa forma, quando um **request** acontece, o sistema busca nessa grande tabela
 
 Como já mencionado, o tempo de duração do cache varia para cada tipo de **request**. Segue tabela com o tempo de cache para cada tipo de **request**:
 
-| **Request**                    | Formato (Identificador MIME) | Duração     |
+| Request                    | Formato (Identificador MIME) | Duração     |
 |-------------------------------|------------------------------|----------------------|
 | Página/Documento              | text/html                    | No máximo 30 minutos |
 | Imagem (jpeg, gif, png, ico)  | image/*                      | No máximo 1 hora     |

@@ -25,8 +25,8 @@ Para verificar el status de integración de un producto, en el Admin VTEX accede
 
 Consulta en la tabla a continuación los mensajes que corresponden a cada status:  
 
-| **Status** | **Mensaje** | **Detalles** | **Impacto en el anuncio** |
-|:---:|:---:|:---:|:---:|
+| Status | Mensaje | Detalles | Impacto en el anuncio |
+|---|---|---|---|
 |    **Procesado con error** |   **SKU from `accountName` was not integrated. We noticed some problems** | Inactive product or SKU, Invalid price y SKU out of stock. |  Si no se realizan los ajustes, los productos no se integrarán. |
 | **Procesado con advertencia** | **SKU from `accountName` integrated. See offer. But we noticed some missing data** | EAN/UPC and manufacturer code, Size, Color, Gender y Age group. |  Si se aplica al producto y no se rellenaron los datos faltantes, el anuncio puede tener poca visibilidad o ser rechazado. |
 | **Procesado con éxito** | **SKU from `accountName` integrated. See offer. Add following data to increase offer visibility.** | [Product Highlights](https://support.google.com/merchants/answer/7052112?hl=pt-BR#zippy=%2Coutros-requisitos%2Ccomo-formatar-os-dados-do-produto:~:text=produtos%20s%C3%A3o%20veiculados.-,Opcional%3A,-envie%20o%20atributo) | Si es aplicable y se cumplen los atributos opcionales indicados por Google, el anuncio puede mejorar su visibilidad. |
@@ -58,8 +58,8 @@ Para identificar el error de integración del precio del SKU con Google, lee el 
 
 El campo Size (talla) es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.  
 
-|**Nombre del campo**|**Tipo de campo**|
-|:---:|:---:|
+|Nombre del campo|Tipo de campo|
+|---|---|
 | Talla | Texto |
 
 Este tipo de campo admite la introducción de valores alfanuméricos como **P,M,G, GG, 41,42,37,33**.
@@ -68,11 +68,11 @@ Este tipo de campo admite la introducción de valores alfanuméricos como **P,M,
 
 El campo Color es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.
 
-|**Nombre del campo**|**Tipo de campo**|
-|:---:|:---:|
+|Nombre del campo|Tipo de campo|
+|---|---|
 | Color | Texto |
 
-Este tipo de campo admite la introducción de valores alfanuméricos como ** Verde, Negro, Amarillo, Rosa **.
+Este tipo de campo admite la introducción de valores alfanuméricos como **Verde, Negro, Amarillo, Rosa**.
 
 > ℹ️ Cada SKU solo permite un color.  
 
@@ -80,8 +80,8 @@ Este tipo de campo admite la introducción de valores alfanuméricos como ** Ver
 
 El campo Gender es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.
 
-|**Nombre del campo**|**Tipo de campo**|**Valor del campo**|
-|:---:|:---:|:---:|
+|Nombre del campo|Tipo de campo|Valor del campo|
+|---|---|---|
 | Género | Combo |Masculino, Femenino y Unisex|
 
 Este tipo de campo requiere que se rellenen valores predeterminados. Para la integración con Google, solo se aceptarán los valores indicados en valor del campo.  
@@ -90,8 +90,8 @@ Este tipo de campo requiere que se rellenen valores predeterminados. Para la int
 
 El campo Age Group es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.  
 
-|**Nombre del campo**|**Tipo de campo**|**Valor del campo**|
-|:---:|:---:|:---:|
+|Nombre del campo|Tipo de campo|Valor del campo|
+|---|---|---|
 | Grupo de edad | Combo |Recién nacido (hasta 3 meses), Bebé (de 3 a 12 meses), Niño pequeño (de 1 a 5 años), Niño (de 5 a 13 años) y Adulto (a partir de 13 años).|
 
 Este tipo de campo requiere que se rellenen valores predeterminados. Para la integración con Google, solo se aceptarán los valores indicados en valor del campo.  
