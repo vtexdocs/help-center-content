@@ -20,7 +20,9 @@ Quando uma busca não encontra um único produto com todos os termos pesquisados
 
 Buscas OR correspondem a cerca de 5% de todas as buscas, chegando a 15% em algumas lojas. Antes, os resultados de busca OR eram ordenados principalmente pela quantidade de palavras que corresponderam individualmente, o que podia colocar produtos sem relação com a busca acima dos que o cliente realmente procurava.
 
-Agora, os resultados de busca OR são ordenados ponderando a frequência com que cada palavra encontrada aparece no produto e o quão rara essa palavra é no catálogo, em vez de apenas contar quantas palavras corresponderam. Palavras mais raras e distintas, como o nome de um produto, pesam mais do que palavras comuns, como uma unidade de medida, fazendo com que os produtos mais relevantes apareçam primeiro. Por exemplo, uma busca por "analgésico dipirona 50 comprimidos" que cai para OR agora prioriza produtos com "dipirona", em vez de itens sem relação como "porta 50 comprimidos", que também corresponde a "50" e "comprimidos".
+Agora, os resultados de busca OR são ordenados ponderando a frequência com que cada palavra encontrada aparece no produto e o quão rara essa palavra é no catálogo, em vez de apenas contar quantas palavras corresponderam. Palavras mais raras e distintas, como o nome de um produto, pesam mais do que palavras comuns, como uma unidade de medida, fazendo com que os produtos mais relevantes apareçam primeiro.
+
+Por exemplo, uma busca por "analgésico dipirona 50 comprimidos" que cai para OR agora prioriza produtos com "dipirona", em vez de itens sem relação como "porta 50 comprimidos", que também corresponde a "50" e "comprimidos".
 
 ## Por que fizemos essa mudança?
 
