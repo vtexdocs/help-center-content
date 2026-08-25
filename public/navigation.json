@@ -39,9 +39,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "\"OR Search\" results now ranked by relevance",
-                    "es": "Resultados de \"búsqueda OR\" ahora ordenados por relevancia",
-                    "pt": "Resultados de \"busca OR\" agora ordenados por relevância"
+                    "en": "OR Search results now ranked by relevance",
+                    "es": "Resultados de búsqueda OR ahora ordenados por relevancia",
+                    "pt": "Resultados de busca OR agora ordenados por relevância"
                   },
                   "slug": {
                     "en": "2026-08-25-or-search-results-now-ranked-by-relevance",
