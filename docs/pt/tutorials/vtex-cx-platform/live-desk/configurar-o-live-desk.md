@@ -1,14 +1,14 @@
 ---
 title: 'Configurar o Live Desk'
 createdAt: 2026-07-07T10:05:01.763Z
-updatedAt: 2026-07-07T10:20:04.339Z
+updatedAt: 2026-08-24T18:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: configure-live-desk
 locale: en
 ---
 
-A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover agentes, criar novas filas, remover e adicionar tags.
+A página **Preferências do Live Desk** permite configurar o comportamento do atendimento humano da sua operação no VTEX CX Platform. Nela, você define as regras de transferência e finalização de chats, organiza os setores de atendimento e gerencia os atendentes da sua equipe. O gerente de atendimento poderá realizar alterações no setor que gerencia, tais como horário de funcionamento, adicionar ou remover atendentes, criar novas filas, remover e adicionar tags.
 
 > ⚠️ Para configurar o Live Desk, você precisa ser um administrador da organização ou moderador do projeto. Apenas um administrador ou moderador pode configurar o Live Desk.
 
@@ -18,9 +18,9 @@ Para acessar a página de preferências do Live Desk, acesse **Configurações >
 
 A aba **Geral** reúne as configurações que determinam como os chats são distribuídos, transferidos e finalizados na sua operação.
 
-### Definições
+### Preferências do projeto
 
-A seção **Definições** contém preferências gerais do atendimento humano da sua loja. Para ativar ou desativar uma definição, clique no botão de alternância ao lado dela.
+A seção **Preferências do projeto** contém preferências gerais do atendimento humano da sua loja. Para ativar ou desativar uma definição, clique no botão de alternância ao lado dela.
 
 | Definição | Descrição |
 | --- | --- |
@@ -28,11 +28,11 @@ A seção **Definições** contém preferências gerais do atendimento humano da
 | **Permitir interações apenas para atendentes online** | Impede que atendentes offline ou em pausa respondam a chats em andamento. |
 | **Transferir chats em massa para outra fila ou atendente** | Permite transferir vários chats de uma vez para outra fila ou para outro atendente. |
 | **Bloquear transferência de chats para atendentes offline** | Impede a transferência de chats para atendentes que estão offline. |
-| **Finalizar chats em massa** | Permite encerrar vários chats de uma vez. |
-| **Bloquear a finalização de chats que estão na fila** | Impede a finalização de chats que estão aguardando atendimento. |
+| **Encerrar chats em massa** | Permite encerrar vários chats de uma vez. |
+| **Bloquear encerramento de chats na fila** | Impede a finalização de chats que estão aguardando atendimento. |
 | **Assumir chats em massa** | Permite que o atendente assuma vários chats de uma vez. |
-| **Permite que atendentes escolham de quais filas recebem chats** | Permite que os atendentes escolham as filas que vão atender. Quando ativado, o recurso fica visível apenas para atendentes no módulo **Live Desk** dentro de **Operações**. |
-| **Exibir o contador com o número de chats esperando atendimento humano** | Mostra a quantidade de chats aguardando atendimento humano. |
+| **Permitir que atendentes escolham suas filas dentro do setor** | Permite que os atendentes escolham as filas que vão atender. Quando ativado, o recurso fica visível apenas para atendentes no módulo **Live Desk** dentro de **Operações**. |
+| **Mostrar contador com o número de chats aguardando atendimento humano** | Mostra a quantidade de chats aguardando atendimento humano. |
 | **Mostrar setor do chat na lista de conversas** | Exibe o setor de cada atendimento na lista de conversas. Quando ativada, uma tag com o setor do chat será exibida ao lado do nome do contato. |
 
 ### Pausas personalizadas
@@ -43,7 +43,7 @@ Para criar uma pausa personalizada, digite um nome para a pausa no campo de **No
 
 Para excluir uma pausa personalizada, clique em cima do nome da pausa personalizada e, em seguida, em `Excluir`.
 
-Nessa aba, você também pode ativar a opção **Exibir temporizador de status em pausas personalizadas do atendente** para mostrar há quanto tempo o atendente está em pausa.
+Nessa seção, você também pode ativar a opção **Exibir temporizador de status em pausas personalizadas do atendente** para mostrar há quanto tempo o atendente está em pausa.
 
 ## Setores
 
@@ -70,14 +70,14 @@ Para criar um setor, siga o passo a passo a seguir:
 
 Na primeira etapa, escolha entre as seguintes opções:
 
-- **Personalizar novo setor (recomendado):** configurar todos os detalhes do setor manualmente.
-- **Criar setor padrão (mais rápido):** criar um setor com configurações predefinidas.
+- **Personalizar novo setor (recomendado):** configure todos os detalhes do setor manualmente.
+- **Criar setor padrão (mais rápido):** crie um setor com configurações predefinidas.
 
 Se optar por **Personalizar novo setor**, siga o passo a passo a seguir:
 
 1. Em **Defina um nome para o setor e seus gerentes**, preencha os campos a seguir:
-   - **Nome do setor:** Insira um nome para identificar o setor, como Financeiro ou Suporte.
-   - **Adicionar gerente:** Pesquise e selecione os responsáveis pelo setor pelo nome ou email.
+   - **Nome do setor:** insira um nome para identificar o setor, como Financeiro ou Suporte.
+   - **Adicionar gerente:** pesquise e selecione os responsáveis pelo setor pelo nome ou email.
 2. Em **Definições da jornada de trabalho**, configure os dias e horários de funcionamento do setor:
    - Ative **Copiar a jornada de trabalho de um setor já configurado** para reutilizar as configurações de outro setor existente.
        
@@ -121,34 +121,8 @@ Na terceira etapa, configure as opções de atendimento, mensagens automáticas 
 
    | Opção | Descrição |
    | --- | --- |
-   | **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens preconfigurados durante o atendimento. |
-   | **Usar assinatura** | Adiciona automaticamente o nome do agente em cada mensagem enviada. |
-   | **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
-
-2. Em **Mensagens automatizadas**, configure o envio automático de mensagens para os contatos:
-
-   | Opção | Descrição |
-   | --- | --- |
-   | **Enviar mensagem automática a contatos esperando** | Envia uma mensagem automática para contatos que aguardam atendimento na fila. A mensagem aparece como se enviada pelo atendente atribuído. |
-   | **Enviar mensagem automática ao iniciar o atendimento** | Envia uma mensagem automática quando o chat é atribuído a um atendente. A mensagem aparece como se enviada pelo atendente atribuído. |
-
-3. Em **Pesquisa de satisfação**, ative **Enviar automaticamente uma pesquisa de satisfação após o atendimento do Live Desk ser encerrado** para coletar feedback dos clientes ao fim de cada atendimento.
-   
-   Escolha entre as opções disponíveis:
-     - **Pesquisa CSAT padrão (recomendado)**
-     - **Fluxos personalizados**
-
-   > ⚠️ Para garantir resultados precisos, o fluxo selecionado precisa usar uma escala de 1 a 5.
-
-4. Em **Etiquetas**, configure as tags do setor:
-   - No campo **Nome da tag**, pesquise uma tag existente ou digite um novo nome para criá-la. Clique em `Adicionar` para incluí-la no setor.
-   - Ative **Exigir tag ao final do atendimento humano** para tornar obrigatório o uso de pelo menos uma tag ao encerrar um atendimento.
-5. Ao preencher os campos, clique em `Continuar`.
-
-   | Opção | Descrição |
-   | --- | --- |
-   | **Disparo de modelos de mensagens** | Permite que atendentes enviem modelos de mensagens preconfigurados durante o atendimento. |
-   | **Usar assinatura** | Adiciona automaticamente o nome do agente em cada mensagem enviada. |
+   | **Disparar templates de mensagens** | Permite que atendentes enviem modelos de mensagens pré-configurados durante o atendimento. |
+   | **Usar assinatura** | Adiciona automaticamente o nome do atendente em cada mensagem enviada. |
    | **Permitir que atendentes editem informações personalizadas do contato** | Permite que atendentes editem campos personalizados do contato na seção **Todas as informações**. |
 
 2. Em **Mensagens automatizadas**, configure o envio automático de mensagens para os contatos:
@@ -182,7 +156,7 @@ Na quarta e última etapa, configure mensagens rápidas para o setor. As mensage
 Para adicionar uma mensagem rápida em **Configurar uma mensagem rápida**, siga o passo a passo seguinte:
 
 1. Em **Atalho**, insira a palavra ou expressão que ativará a mensagem. Por exemplo: "Oi".
-2. Em **Mensagem:** insira o texto que será enviado ao acionar o atalho. Por exemplo: "Olá, como posso ajudar você hoje?". Este campo aceita até 1.000 caracteres.
+2. Em **Mensagem**, insira o texto que será enviado ao acionar o atalho. Por exemplo: "Olá, como posso ajudar você hoje?". Este campo aceita até 1.000 caracteres.
 3. Para adicionar mais mensagens rápidas, clique em `+ Adicionar nova mensagem rápida` e repita o preenchimento.
 4. Ao final, clique em `Criar`.
 
