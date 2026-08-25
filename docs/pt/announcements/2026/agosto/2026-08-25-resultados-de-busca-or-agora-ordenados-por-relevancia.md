@@ -14,7 +14,7 @@ tags:
   - Intelligent Search
 ---
 
-Quando uma busca não encontra um único produto com todos os termos pesquisados, o Intelligent Search recorre a resultados que correspondem a qualquer uma das palavras, uma "busca OR". Melhoramos a forma como esses resultados de busca OR são ordenados.
+Quando uma busca não encontra um único produto com todos os termos pesquisados, o [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral) recorre a resultados que correspondem a qualquer uma das palavras, uma "busca OR". Melhoramos a forma como esses resultados de busca OR são ordenados.
 
 ## O que mudou?
 
@@ -29,3 +29,9 @@ Essa mudança torna os resultados de busca OR mais relevantes para o que o clien
 ## O que precisa ser feito?
 
 Não é necessária nenhuma ação. Essa melhoria de ordenação é aplicada automaticamente a todas as lojas que usam o VTEX Intelligent Search.
+
+## Saiba mais
+
+* [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral)
+* [Relevância](https://help.vtex.com/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca#etapa-2-como-o-intelligent-search-ordena-os-resultados)
+* [Comportamento da busca](https://help.vtex.com/pt/docs/tutorials/comportamento-da-busca#resultado-minimo)
