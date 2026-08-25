@@ -27,7 +27,7 @@ El certificado está disponible en [VTEX Trust Center](https://compliance.vtex.c
 
 ## ISO/IEC 27701
 
-La ISO/IEC 27701 es una extensión de la ISO/IEC 27001 orientada específicamente a la gestión de la información de privacidad (PIMS - Privacy Information Management System). Establece requisitos y directrices para el tratamiento de datos personales, reforzando el compromiso de VTEX con las mejores prácticas de privacidad alineadas con normativas como la LGPD y el GDPR.
+La [ISO/IEC 27701](https://www.iso.org/standard/27701) es una extensión de la ISO/IEC 27001 orientada específicamente a la gestión de la información de privacidad (PIMS - Privacy Information Management System). Establece requisitos y directrices para el tratamiento de datos personales, reforzando el compromiso de VTEX con las mejores prácticas de privacidad alineadas con normativas como la LGPD y el GDPR.
 
 El certificado está disponible en [VTEX Trust Center](https://compliance.vtex.com/?itemUid=dc79cbc7-c99d-4eb9-891e-f5dc44b943d7&source=click).
 
