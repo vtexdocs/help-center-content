@@ -3,7 +3,7 @@ title: 'Search behavior'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2026-04-23T12:00:00.000Z
+updatedAt: 2026-08-25T00:00:00.000Z
 publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
@@ -57,7 +57,7 @@ The minimum number of results displayed for any search is 1. If a search doesn't
 
 In a search with multiple terms, the following logic applies:
 
-1. If the minimum result isn't reached even after the initial autocorrect, the search starts to include more comprehensive results containing any of the search terms. For example, if a user searches for "nike sneakers" and the catalog doesn't have any products matching that name, the search will return products with only the term "sneakers" instead.
+1. If the minimum result isn't reached even after the initial autocorrect, the search starts to include more comprehensive results containing any of the search terms. For example, if a user searches for "nike sneakers" and the catalog doesn't have any products matching that name, the search will return products with only the term "sneakers" instead. These OR results are ranked by weighing how often each matched term appears in a product and how rare that term is across the catalog, not simply by how many individual terms matched. For more details, see [Relevance](https://help.vtex.com/en/docs/tutorials/intelligent-search-how-search-result-relevance-works#step-2-how-intelligent-search-sorts-results).
 2. If the comprehensive search doesn't return the minimum result, the process will be repeated, applying autocorrect again to each term.
 
 > ⚠️ Searches with multiple terms are more efficient when customers sort the results by relevance, as such sorting can return more results than the initial search. When sorted by relevance, items with multiple terms are prioritized. However, with other sorting criteria, such as price or bestsellers, the result ranking is based on these numerical values and doesn't necessarily prioritize items that match more search terms.

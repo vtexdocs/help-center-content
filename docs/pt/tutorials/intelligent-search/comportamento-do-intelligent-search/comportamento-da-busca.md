@@ -3,7 +3,7 @@ title: 'Comportamento da busca'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2026-04-23T12:00:00.000Z
+updatedAt: 2026-08-25T00:00:00.000Z
 publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
@@ -59,7 +59,7 @@ A quantidade mínima de resultados exibidos a partir de qualquer busca realizada
 
 Em uma busca com múltiplos termos, ocorre a lógica a seguir:
 
-1. Se o resultado mínimo não for atingido mesmo com a autocorreção inicial, a busca passa a incluir resultados mais abrangentes, que apresentam qualquer um dos termos pesquisados. Por exemplo, quando um usuário pesquisa por "tenis nike", mas o catálogo não possui nenhum produto com esse nome, a busca pode apresentar como resultado um produto com apenas o termo "tenis" no nome.
+1. Se o resultado mínimo não for atingido mesmo com a autocorreção inicial, a busca passa a incluir resultados mais abrangentes, que apresentam qualquer um dos termos pesquisados. Por exemplo, quando um usuário pesquisa por "tenis nike", mas o catálogo não possui nenhum produto com esse nome, a busca pode apresentar como resultado um produto com apenas o termo "tenis" no nome. Esses resultados de OR são ordenados ponderando a frequência com que cada termo encontrado aparece no produto e o quão raro esse termo é no catálogo, e não apenas pela quantidade de termos que corresponderam individualmente. Para mais detalhes, consulte [Relevância](https://help.vtex.com/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca#etapa-2-como-o-intelligent-search-ordena-os-resultados).
 2. Se a busca abrangente não apresentar o resultado mínimo, ela será repetida aplicando a autocorreção novamente a cada um dos termos.
 
 > ⚠️ Buscas com múltiplos termos são mais eficientes quando o cliente ordena os resultados por relevância, já que elas podem ter um número maior de resultados além do contexto que foi buscado. Na ordenação por relevância, ainda priorizam-se os itens relacionados aos múltiplos termos. Porém, ao aplicar outras ordenações, como preço ou mais vendidos, a ordem dos resultados depende desses valores numéricos e não necessariamente prioriza itens que contêm mais palavras dos termos de busca.

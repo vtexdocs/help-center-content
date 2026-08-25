@@ -1,7 +1,7 @@
 ---
 title: "Relevance"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-07-07T00:00:00.000Z
+updatedAt: 2026-08-25T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -49,6 +49,8 @@ Intelligent Search tries to find products that match the search in sequential gr
 ## Step 2: How Intelligent Search sorts results
 
 After identifying matching products, Intelligent Search applies a scoring algorithm to define the display order. The table below lists the factors in descending order of priority:
+
+> ℹ️ For OR fallback results (Groups 3 and 4), relevance weighs how often each matched word appears in a product and how rare that word is across the catalog, instead of just counting how many individual words matched. Rarer, more distinctive words (like a product name) carry more weight than common ones (like a unit of measurement), so the most relevant products surface first. For example, a search for "ibuprofen pain reliever 200 tablets" that falls back to OR ranks ibuprofen products above unrelated products that happen to also contain "200" and "tablets," such as a "200-tablet pill organizer."
 
 | #   | Factor                                   | Description                                                                                                                | Example                                                                                                                                 |
 | -- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

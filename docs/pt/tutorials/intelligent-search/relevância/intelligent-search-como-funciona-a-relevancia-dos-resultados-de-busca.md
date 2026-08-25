@@ -1,7 +1,7 @@
 ---
 title: "Relevância"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-07-07T00:00:00.000Z
+updatedAt: 2026-08-25T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -50,6 +50,8 @@ O Intelligent Search tenta localizar produtos que correspondam à busca em grupo
 ## Etapa 2: como o Intelligent Search ordena os resultados
 
 Após identificar os produtos correspondentes, o Intelligent Search aplica um algoritmo de pontuação para definir a ordem de exibição. A tabela abaixo lista os fatores em ordem decrescente de prioridade:
+
+> ℹ️ Para resultados de fallback de OR (Grupos 3 e 4), a relevância pondera a frequência com que cada palavra encontrada aparece no produto e o quão rara essa palavra é no catálogo, em vez de apenas contar quantas palavras corresponderam individualmente. Palavras mais raras e distintivas (como o nome de um produto) pesam mais do que palavras comuns (como uma unidade de medida), fazendo com que os produtos mais relevantes apareçam primeiro. Por exemplo, uma busca por "analgésico dipirona 50 comprimidos" que cai para OR prioriza produtos com "dipirona" em vez de produtos sem relação com a busca que também contenham "50" e "comprimidos", como "porta 50 comprimidos".
 
 | #   | Fator                                           | Descrição                                                                                                         | Exemplo                                                                                                                        |
 | -- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
