@@ -26,6 +26,8 @@ Intelligent Search tries to find products that match the search in sequential gr
 | Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching)  | Accepts products that contain any of the searched words, but requires an exact match.                             |                  |
 | Group 4 | [OR with fuzzy](#operators-and-fuzzy-matching)     | Last resort: accepts products with any of the words, with tolerance for variations.                               | Lowest priority  |
 
+> ℹ️ For OR fallback results (Groups 3 and 4), relevance weighs how often each matched word appears in a product and how rare that word is across the catalog, instead of just counting how many individual words matched. Rarer, more distinctive words (like a product name) carry more weight than common ones (like a unit of measurement), so the most relevant products surface first. For example, a search for "ibuprofen pain reliever 200 tablets" that falls back to OR ranks ibuprofen products above unrelated products that happen to also contain "200" and "tablets," such as a "200-tablet pill organizer."
+
 ### Operators and fuzzy matching
 
 - **AND and OR operators:** The operator defines whether the product needs to contain all the words in the search or just one of them. With AND, a search for "nike sneakers" only returns products that have both terms. With OR, it returns any product that contains "nike" or "sneakers", which can significantly broaden the results.
@@ -49,8 +51,6 @@ Intelligent Search tries to find products that match the search in sequential gr
 ## Step 2: How Intelligent Search sorts results
 
 After identifying matching products, Intelligent Search applies a scoring algorithm to define the display order. The table below lists the factors in descending order of priority:
-
-> ℹ️ For OR fallback results (Groups 3 and 4), relevance weighs how often each matched word appears in a product and how rare that word is across the catalog, instead of just counting how many individual words matched. Rarer, more distinctive words (like a product name) carry more weight than common ones (like a unit of measurement), so the most relevant products surface first. For example, a search for "ibuprofen pain reliever 200 tablets" that falls back to OR ranks ibuprofen products above unrelated products that happen to also contain "200" and "tablets," such as a "200-tablet pill organizer."
 
 | #   | Factor                                   | Description                                                                                                                | Example                                                                                                                                 |
 | -- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

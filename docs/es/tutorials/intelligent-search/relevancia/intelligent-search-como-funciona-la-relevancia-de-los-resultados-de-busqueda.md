@@ -26,6 +26,8 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
 | Grupo 3 | [OR sin fuzzy](#operadores-y-fuzzy)  | Acepta productos que contengan cualquiera de las palabras buscadas, pero exige coincidencia exacta.                                             |                 |
 | Grupo 4 | [OR con fuzzy](#operadores-y-fuzzy)  | Último recurso: acepta productos con cualquiera de las palabras, con tolerancia a variaciones.                                                  | Menor prioridad |
 
+> ℹ️ Para los resultados de fallback de OR (Grupos 3 y 4), la relevancia pondera la frecuencia con la que aparece cada palabra encontrada en el producto y qué tan rara es esa palabra en el catálogo, en lugar de solo contar cuántas palabras coincidieron individualmente. Las palabras más raras y distintivas (como el nombre de un producto) pesan más que las palabras comunes (como una unidad de medida), lo que hace que los productos más relevantes aparezcan primero. Por ejemplo, una búsqueda de "analgésico paracetamol 50 tabletas" que cae a OR prioriza productos con paracetamol frente a productos sin relación con la búsqueda que también contengan "50" y "tabletas", como un "organizador de 50 tabletas".
+
 ### Operadores y fuzzy
 
 - **Operadores AND y OR:** el operador define si el producto necesita contener todas las palabras de la búsqueda o solo una de ellas. Con AND, una búsqueda de "tenis nike" solo devuelve productos que tengan ambos términos. Con OR, devuelve cualquier producto que contenga "tenis" o "nike", lo que puede ampliar significativamente los resultados.
@@ -49,8 +51,6 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
 ## Paso 2: cómo Intelligent Search ordena los resultados
 
 Después de identificar los productos correspondientes, Intelligent Search aplica un algoritmo de puntuación para definir el orden de visualización. La siguiente tabla muestra los factores en orden de prioridad, de mayor a menor:
-
-> ℹ️ Para los resultados de fallback de OR (Grupos 3 y 4), la relevancia pondera la frecuencia con la que aparece cada palabra encontrada en el producto y qué tan rara es esa palabra en el catálogo, en lugar de solo contar cuántas palabras coincidieron individualmente. Las palabras más raras y distintivas (como el nombre de un producto) pesan más que las palabras comunes (como una unidad de medida), lo que hace que los productos más relevantes aparezcan primero. Por ejemplo, una búsqueda de "analgésico paracetamol 50 tabletas" que cae a OR prioriza productos con paracetamol frente a productos sin relación con la búsqueda que también contengan "50" y "tabletas", como un "organizador de 50 tabletas".
 
 | #   | Factor                                                         | Descripción                                                                                                                         | Ejemplo                                                                                                                                          |
 | -- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
