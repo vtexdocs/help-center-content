@@ -1,5 +1,5 @@
 ---
-title: 'Resultados de busca OR agora ordenados por relevância'
+title: 'Intelligent Search: Resultados de busca OR agora ordenados por relevância'
 slug: '2026-08-25-resultados-de-busca-or-agora-ordenados-por-relevancia'
 hidden: false
 createdAt: 2026-08-25T00:00:00.000Z
