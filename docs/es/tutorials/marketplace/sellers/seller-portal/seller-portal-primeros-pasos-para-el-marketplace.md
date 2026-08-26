@@ -81,7 +81,7 @@ Una vez que el _seller_ acepta la invitación al _marketplace_ y finaliza el reg
 
 Además de invitar y activar a los _sellers_ a través del Admin VTEX, el _marketplace_ también puede realizar estos pasos a mediante la API Rest. Esto es útil cuando el _marketplace_ quiere crear sus propias soluciones o crear la cuenta para el _seller_ en el Seller Portal. La tabla a continuación muestra la lista de APIs sobre el tema.
 
-| **Llamada** | **Descripción** |
+| Llamada | Descripción |
 | ---------- | ---------- |
 | [Invite Seller Lead](https://developers.vtex.com/vtex-rest-api/reference/createsellerlead) | Envía un email al _seller_ con un enlace único para que se conecte al _marketplace_. |
 | [List Seller Leads](https://developers.vtex.com/vtex-rest-api/reference/listsellerleads) | Enumera los _sellers_ invitados por el _marketplace_ a conectarse a él. |

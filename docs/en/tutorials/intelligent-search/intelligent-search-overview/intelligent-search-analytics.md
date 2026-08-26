@@ -54,7 +54,7 @@ The **Analytics** page allows you to combine different filters to limit the data
 
 *   **Search** or **Autocomplete**.
 *   **With results** or **With empty results**: choose between searches that returned results or searches that returned empty results.
-*   **All**, **Mobile **or **Desktop**: limit the devices on which the searches have been performed.
+*   **All**, **Mobile** or **Desktop**: limit the devices on which the searches have been performed.
 *   **Today**, **Yesterday**, **Last 7 days**, **Last 30 days**, and **Custom:** select the period you want to analyze. The **Custom** option allows you to set the start and end dates.
 
 The **Analytics** page only displays information for a maximum period of one month. To access data for a period of up to 6 months, please [export a CSV file](#exporting-reports).

@@ -21,7 +21,7 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 
 ### Paso 1 (Relleno de correo electrónico)
 
-| __Usuario__ | __Plataforma VTEX__ |
+| Usuario | Plataforma VTEX |
 |------------------|------------------|
 | Visita el sitio web de la tienda por primera vez (usuario sin registro) y navega la búsqueda del artículo deseado. | En el navegador, el módulo Portal solicita a RC.JS (request capture javascript) que transmita la información. |
 | Agregue el producto al carrito y haga clic en el botón `Finalizar compra`. | El módulo Checkout envía el siguiente mensaje a RC.JS: “Hola, tenemos una transacción por realizarse. Por favor pase esta información”. |
@@ -29,19 +29,19 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 
 ### Paso 2 (Relleno de datos personales)
 
-| __Usuario__ | __Plataforma VTEX__ |
+| Usuario | Plataforma VTEX |
 |------------------|------------------|
 | Rellene los datos personales obligatorios (nombre, apellido y CPF). | La información se envía al Profile System. En esta etapa, el correo electrónico solo lo captura Profile System, no RC.JS. |
 
 ### Paso 3 (Confirmación de envío de datos personales)
 
-| __Usuario__ | __Plataforma VTEX__ |
+| Usuario | Plataforma VTEX |
 |------------------|------------------|
 | Haga clic en `Ir para la Entrega`. | Checkout solicita a RC.JS que transfiera la dirección de correo electrónico y la información del carrito a Master Data (a través del Profile System). |
 
 > ⚠️ Para que se pueda utilizar la función [carrito abandonado](/es/docs/tutorials/acceder-al-carrito-abandonado-de-los-clientes), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
 
-| __Usuario__ | __Plataforma VTEX__ |
+| Usuario | Plataforma VTEX |
 |------------------|------------------|
 | Rellena los datos de envío y pago. | The Checkout orderForm becomes an order and is transmitted to the VTEX OMS. El orderForm de Checkout se convierte en un pedido y se transmite al VTEX OMS. La información completa del usuario (nombre, apellido, correo electrónico, carrito y toda la información adicional) se transmite a Master Data. La captura de correo electrónico puede tardar hasta 46 minutos en reflejarse correctamente en CRM. |
 

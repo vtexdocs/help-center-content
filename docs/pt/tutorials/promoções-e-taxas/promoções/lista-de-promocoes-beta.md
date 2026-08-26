@@ -24,7 +24,7 @@ Acesse este módulo no Admin VTEX pelo menu <i class="fas fa-bullhorn"></i> **Pr
 
 A página apresenta a lista com as promoções cadastradas na sua loja e suas informações básicas:
 
-| **Nome do campo** | **Descrição** |
+| Nome do campo | Descrição |
 |---|---|
 | `Nome` | Nome dado à promoção. |
 | `De` | Data de início da promoção. |
@@ -72,7 +72,7 @@ Você pode fazer download de um arquivo CSV com as promoções cadastradas na su
 
 O arquivo contém as seguintes informações sobre cada promoção:
 
-| **Coluna** | **Descrição** |
+| Coluna | Descrição |
 |---|---|
 | `ID` | ID da promoção. |
 | `Nome` | Nome da promoção. |

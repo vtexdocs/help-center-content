@@ -29,4 +29,4 @@ To access your store's logs, refer to the following step-by-step:
 
 The screen will then display an account of the changes made on the VTEX platform.
 
-> ℹ️ Notice: in the lower right corner of the page in the "changelogs" option, you can select "show more logs". This option allows you to view a larger number of logs by page. However, each document has a limit of data that it can display per screen.
+> ℹ️ In the lower right corner of the page in the "changelogs" option, you can select "show more logs". This option allows you to view a larger number of logs by page. However, each document has a limit of data that it can display per screen.

@@ -27,7 +27,7 @@ Para construir sua fórmula, você pode utilizar [variáveis](/pt/docs/tutorials
 
 Para construir a fórmula da sua promoção, você pode utilizar as variáveis descritas a seguir.
 
-| **Variável** | **Descrição** |
+| Variável | Descrição |
 |---|---|
 | `total` | Soma dos preços dos produtos selecionados. |
 | `freight` | Valor do frete. O frete utilizado na fórmula será o menor disponível para o pedido, independentemente da seleção do cliente. |
@@ -37,8 +37,8 @@ Para construir a fórmula da sua promoção, você pode utilizar as variáveis d
 
 Para realizar operações matemáticas, use os sinais convencionais em sua fórmula:
 
-| **Operação** | **Sinal** |
-|:---:|:---:|
+| Operação | Sinal |
+|---|---|
 | Soma | `+` |
 | Subtração | `-` |
 | Multiplicação | `*` |

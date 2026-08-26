@@ -20,7 +20,7 @@ El proceso ocurre en dos etapas principales:
 Intelligent Search intenta buscar productos que correspondan a la búsqueda en grupos secuenciales. Una vez que un grupo devuelve resultados, los grupos siguientes ya no se evalúan.
 
 | Grupo   | Lógica                               | Descripción                                                                                                                                     | Prioridad       |
-| :------ | :----------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| ------ | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | Grupo 1 | [AND sin fuzzy](#operadores-y-fuzzy) | Busca productos que contengan todas las palabras buscadas exactamente como se escribieron, sin tolerancia a variaciones o errores de escritura. | Mayor prioridad |
 | Grupo 2 | [AND con fuzzy](#operadores-y-fuzzy) | Busca productos con todas las palabras, pero acepta pequeñas variaciones (por ejemplo, errores de escritura, diferencias de acentuación).       |                 |
 | Grupo 3 | [OR sin fuzzy](#operadores-y-fuzzy)  | Acepta productos que contengan cualquiera de las palabras buscadas, pero exige coincidencia exacta.                                             |                 |
@@ -51,7 +51,7 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
 Después de identificar los productos correspondientes, Intelligent Search aplica un algoritmo de puntuación para definir el orden de visualización. La siguiente tabla muestra los factores en orden de prioridad, de mayor a menor:
 
 | #   | Factor                                                         | Descripción                                                                                                                         | Ejemplo                                                                                                                                          |
-| :-- | :------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| -- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Producto promovido por regla de merchandising                  | Producto priorizado explícitamente por el retailer mediante una regla de merchandising.                                             | Regla que promueve "Always Nocturna" → se muestra en la parte superior aunque otra toalla femenina se ajuste mejor a la búsqueda.                |
 | 2   | Producto agregado por regla de merchandising                   | Producto forzado a aparecer en los resultados aunque no coincida directamente con el término buscado.                               | Búsqueda de "vitamina C" → "kit inmunidad con vitamina C y zinc" aparece por regla, aunque no coincida directamente con la consulta.             |
 | 3   | Coincidencia de ID completo                                    | El consumidor buscó exactamente el ID del producto.                                                                                 | Búsqueda de "123456" → el producto con ese ID se muestra con alta prioridad.                                                                     |
@@ -76,7 +76,7 @@ Una palabra clave es el término principal que define el producto. Intelligent S
 **Ejemplos:**
 
 | Idioma    | Nombre del producto                      | Palabra clave | Regla          |
-| :-------- | :--------------------------------------- | :------------ | :------------- |
+| -------- | --------------------------------------- | ------------ | ------------- |
 | Portugués | Protetor solar facial FPS 50             | protetor      | 1ª palabra     |
 | Español   | Protector solar facial FPS 50            | protector     | 1ª palabra     |
 | Inglés    | Facial SPF 50 sunscreen                  | sunscreen     | última palabra |
@@ -127,7 +127,7 @@ Un producto incluido en los resultados mediante un sinónimo, pero que coincide 
 Cuando dos o más productos tienen una puntuación de relevancia similar, Intelligent Search utiliza los criterios de las [reglas de relevancia](https://help.vtex.com/es/docs/tutorials/reglas-de-relevancia) configurados por el retailer para desempatar. Los criterios disponibles son:
 
 | Criterio                      | Descripción                                                       |
-| :---------------------------- | :---------------------------------------------------------------- |
+| ---------------------------- | ---------------------------------------------------------------- |
 | Descuento                     | Los productos con mayor porcentaje de descuento tienen prioridad. |
 | Fecha de lanzamiento          | Se priorizan los productos más recientes.                         |
 | Más vendidos                  | Ordenados por volumen de pedidos.                                 |
@@ -144,7 +144,7 @@ El impacto de cada criterio se determina por el peso configurado por el retailer
 ### Búsqueda: “tylenol”
 
 | Producto (marca)                         | Relevancia | Justificación                                                                                                                                             |
-| :--------------------------------------- | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tylenol 500 mg, 20 tabletas (Tylenol)    | Alta       | Palabra clave del nombre “Tylenol” + marca “Tylenol”: doble coincidencia acumulativa, mayor puntuación.                                                   |
 | Analgésico Tylenol 36 tabletas (Tylenol) | Empate\*   | Solo coincidencia de marca “Tylenol”: una coincidencia de palabra clave.                                                                                  |
 | Tylenol 36 tabletas (Kenvue)             | Empate\*   | Solo coincidencia con la palabra clave del nombre “Tylenol”: una coincidencia de palabra clave. Desempate según los criterios de relevancia configurados. |
@@ -154,7 +154,7 @@ El impacto de cada criterio se determina por el peso configurado por el retailer
 ### Búsqueda: "minoxidil"
 
 | Producto (marca)                                         | Relevancia | Justificación                                                                                                                                             |
-| :------------------------------------------------------- | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Minoxidil 5 % solución 60 ml (Minoxidil)                 | Alta       | Palabra clave del nombre “Minoxidil” + marca “Minoxidil”: doble coincidencia acumulativa.                                                                 |
 | Folcress Minoxidil 5 %, solución de 60 ml (Minoxidil)    | Empate\*   | Solo coincidencia de marca “Minoxidil”: una coincidencia de palabra clave.                                                                                |
 | Minoxidil Kirkland 5 %, solución de 60 ml (Kirkland)     | Empate\*   | Solo coincidencia con la palabra clave del nombre “Minoxidil”: una coincidencia de palabra clave. Desempate por los criterios de relevancia configurados. |

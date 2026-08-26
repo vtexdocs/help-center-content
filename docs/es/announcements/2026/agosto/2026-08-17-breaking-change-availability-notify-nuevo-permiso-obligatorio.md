@@ -22,7 +22,7 @@ A partir del **21 de septiembre de 2026**, las operaciones administrativas de la
 Las siguientes operaciones administrativas de Availability Notify requerirán el recurso **Download Notification Requests**, además de una sesión administrativa autenticada:
 
 | Operación | Ruta/GraphQL | Acción en el Admin |
-| :- | :- | :- |
+| - | - | - |
 | `listRequests` | `/_v/availability-notify/list-requests` | Solicitudes de descarga |
 | `processUnsentRequests` | `/_v/availability-notify/process-unsent` | Procesar no enviados |
 | `deleteRequest` | Mutación GraphQL | - |

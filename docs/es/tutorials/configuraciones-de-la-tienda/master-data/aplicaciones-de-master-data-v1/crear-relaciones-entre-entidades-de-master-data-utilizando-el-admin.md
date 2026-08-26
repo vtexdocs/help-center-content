@@ -50,7 +50,7 @@ Ilustramos a continuación los pasos a seguir con este mismo ejemplo:
 
 10. Haz clic en el botón `Guardar` para guardar la configuración.
 11. Haz clic en el ícono de publicación <i class="fas fa-save"></i> para publicar la entidad.
-12. También puede ser necesario actualizar las aplicaciones para implementar los cambios. Para hacerlo, accede a **Configuración de la tienda** > **Storefront* > **Master Data** y haz clic en el botón `Volver a cargar aplicaciones`.
+12. También puede ser necesario actualizar las aplicaciones para implementar los cambios. Para hacerlo, accede a **Configuración de la tienda** > **Storefront* >** Master Data** y haz clic en el botón `Volver a cargar aplicaciones`.
 
 ## Crear relación entre documentos
 

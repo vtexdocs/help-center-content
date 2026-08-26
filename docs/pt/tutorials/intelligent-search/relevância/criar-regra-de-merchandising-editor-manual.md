@@ -84,6 +84,6 @@ Considere o seguinte exemplo: você quer promover produtos da marca Beautyx dura
 
 * **Despromover**: oculta as condições selecionadas no resultado. Isso permite despriorizar um produto que já seria exibido no resultado de busca.
 
-  > ℹ️ **Promover **e **Despromover **funcionam somente quando o cliente da sua loja ordena os resultados da busca por relevância. Caso ele(a) ordene os resultados por preço, por exemplo, os produtos serão ordenados estritamente pelo preço e a regra de merchandising não será utilizada.
+  > ℹ️ **Promover** e **Despromover** funcionam somente quando o cliente da sua loja ordena os resultados da busca por relevância. Caso ele(a) ordene os resultados por preço, por exemplo, os produtos serão ordenados estritamente pelo preço e a regra de merchandising não será utilizada.
 
   > ⚠️ Não configure condições que afetem os mesmos produtos nas seções **Promover** e **Despromover**, pois são efeitos contrários. Essa configuração equivocada influencia negativamente no comportamento da funcionalidade e não apresenta os resultados desejados.

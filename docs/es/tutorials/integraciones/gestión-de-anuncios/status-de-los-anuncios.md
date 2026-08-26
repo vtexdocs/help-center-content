@@ -73,7 +73,7 @@ En la parte superior de la página **Status de los anuncios** se muestran los an
 
 En la lista de anuncios se muestran columnas con la siguiente información:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 |---|---|
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |
@@ -129,7 +129,7 @@ En la parte superior derecha de la página hay una barra de búsqueda con un íc
 Además, los resultados de la búsqueda pueden filtrarse según los siguientes criterios:
 
 - **Marketplace:** canal de venta al que se envió el anuncio.
-- **Enviados:** pueden consultarse tres periodos predeterminados desde que el anuncio se envió al marketplace; *Hoy***,** *Últimos 7 días* y *El mes pasado*.
+- **Enviados:** pueden consultarse tres periodos predeterminados desde que el anuncio se envió al marketplace; *Hoy***,*** Últimos 7 días* y *El mes pasado*.
 - **Stock:** cantidad de stock de un producto, que puede ser:
     - `Mínimo:` número mínimo de ítems en stock de un producto.
     - `Máximo:` número máximo de ítems en stock de un producto.
@@ -148,7 +148,7 @@ Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtr
 
 En la pestaña **Problemas** puedes ver la lista de anuncios junto con la siguiente información presentada en columnas:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 |---|---|
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |
@@ -215,7 +215,7 @@ Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtr
 
 En la pestaña **A la espera de finalización** puedes consultar la lista de anuncios junto con la siguiente información presentada en columnas:
 
-| **Columna** | **Descripción** |
+| Columna | Descripción |
 |---|---|
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |

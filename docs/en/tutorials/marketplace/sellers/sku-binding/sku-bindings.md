@@ -29,7 +29,7 @@ The **SKU Bindings** page allows the marketplace to track and manage the binding
 
 The following table contains a description of the columns in the SKU binding list:
 
-| **Column** | **Description** |
+| Column | Description |
 | ---------- | ---------- |
 | SKU | A numerical code that identifies the [SKU](/en/docs/tracks/adding-skus) of the marketplace catalog. |
 | Seller | [Seller’s](/en/docs/tutorials/adding-a-seller) name and ID in the marketplace. |

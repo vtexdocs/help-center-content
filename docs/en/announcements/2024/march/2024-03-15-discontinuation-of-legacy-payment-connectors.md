@@ -20,8 +20,8 @@ tags:
 
 As another step in the process of [discontinuing legacy payment connectors](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024), the table below lists the legacy connectors that will be removed from the VTEX platform and the new connectors (integrated via Payment Provider Protocol) that are available to replace them:
 
-| **Legacy connector** | **New version (PPP connector)** |
-| :---: | :---: |
+| Legacy connector | New version (PPP connector) |
+| --- | --- |
 | Adyen | [AdyenV3](/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv) |
 | AuthorizeNet/AuthorizeDotNet | - |
 | BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](/en/docs/tutorials/setting-up-payments-with-maxipagov4) |

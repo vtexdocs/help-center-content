@@ -30,7 +30,7 @@ Urgent tickets are prioritized to address critical incidents. Non-urgent request
 Non-urgent requests are classified into three priority levels, as shown in the table below:
 
 | Level | Description | Example |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | High | Important features of your VTEX store are unavailable or extremely slow, with no viable workaround. |  A promotion fails to apply, or products fail to sync from a seller to a marketplace. |
 | Normal | Important features of your VTEX store are unavailable or slow, but a viable workaround exists.  | A known issue impacts your store, but a temporary solution is in place. |
 | Low | Tasks or questions about features or documentation. | Can you set up local holidays on the platform? |

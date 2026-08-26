@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-La página **Promociones** del Seller Portal permite ver y gestionar la lista completa de promociones registradas, simplificando la gestión de las promociones del seller. Puedes acceder a la página a través del menú **Promociones > Promociones **en el Admin VTEX.
+La página **Promociones** del Seller Portal permite ver y gestionar la lista completa de promociones registradas, simplificando la gestión de las promociones del seller. Puedes acceder a la página a través del menú **Promociones > Promociones** en el Admin VTEX.
 
 A partir de la lista de promociones del Seller Portal puedes llevar a cabo diversas acciones:
 

@@ -34,8 +34,8 @@ In this section you will find the following information:
 
 ## Data Characteristics 
 
-| **Characteristic** | **Description** |  
-|:---:|:---:|  
+| Characteristic | Description |  
+|---|---|  
 | **Data Source** | The data is obtained from the [catalog module](/en/docs/tutorials/catalog-overview). |  
 | **Availability** | The data can be accessed in the VTEX Admin. |  
 | **History** | The available data starts from February 2025. |  
@@ -45,8 +45,8 @@ In this section you will find the following information:
 
 The `product` table contains information about products registered in the VTEX catalog, including identifiers, categories, brands, and visibility in the store. It also stores information about images, related SKUs, and sales channels in which the product is available. It also records important dates, such as creation, update, and launches.
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | account | character varying(255) | Account who owns the given product. |
 | product_id | integer	 | Identifier created by VTEX when we create this product. It's unique for each account. |
 | product_ref_id | character varying(255)	 | Reference code used internally for organizational purposes, which is configured by the Merchant. |
@@ -79,8 +79,8 @@ The `product` table contains information about products registered in the VTEX c
 
 This table details the SKUs associated with products. It includes unique identifiers, physical dimensions, manufacturer codes, and EANs. It also stores information about images, additional services, kits, and attributes specific to each SKU. Creation and update dates are recorded for tracking.  
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | account | character varying(255)	 | Account who owns the given product. |
 | product_id | bigint | Identifier created by VTEX when we create this product. It's unique for each account. |
 | sku_id | bigint | Identifier of that SKU. |
@@ -113,8 +113,8 @@ This table details the SKUs associated with products. It includes unique identif
 
 The `brand` table contains information about the brands registered in the VTEX catalog, including identifiers, names, and activation status. It also keeps records of creation and update, as well as a unique identifier for integration with other tables.
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | account | character varying(255)	 | Account associated with the brand. It represents the account that owns the given product. |
 | brand_id | bigint | Unique identifier for the brand. This identifier is created by VTEX when the brand is created. |
 | brand_name | character varying(65535)	 | Name of the brand. This is the brand's name associated with the given product. |
@@ -128,8 +128,8 @@ The `brand` table contains information about the brands registered in the VTEX c
 
 The `category` table presents products in hierarchical categories. It stores identifiers, names, full category paths, and activation status. It allows organizing products within the catalog structure.
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | sk_category | character varying(32) | Synthetic key created by hashing of account and category_id, its used as primary key. |
 | account | character varying(255) | Account who owns the given category. |
 | category_id | bigint | Unique identifier of the category. |
@@ -145,8 +145,8 @@ The `category` table presents products in hierarchical categories. It stores ide
 
 The `specification` table stores technical specifications of products and SKUs, such as specification groups, assigned values, and whether a specification is required. It also contains identifiers to facilitate integration with products, SKUs, and specification groups, ensuring more accurate detailing of registered items.
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
+| Column name | Column type | Column description |
+|---|---|---|
 | sk_specification | character varying(32) | Synthetic key identifier created by data team for the specification item in catalog. It is composed by the hashing of account and product_id, sku_id, specification_group_id, specification_id and value_id. When value_id was null, we changed for -1. |
 | sk_product | character varying(32) | Unique identifier for the product, used to join with the product table, it's composed by account and product_id. |
 | sk_specification_group | character varying(32) | Unique identifier for the specification group. It's composed by account and specification_group_id. |
@@ -171,7 +171,7 @@ The `specification` table stores technical specifications of products and SKUs, 
 
 The `cluster` table saves information about account groupings, representing sets of stores or sellers.
 
-| **Column name**        | **Column type**  | **Column description** |
+| Column name        | Column type  | Column description |
 |--------------------|--------------|--------------------|
 | sk_category       | character varying(32)      | Synthetic key created by hashing of account and category_id, is used as primary key. |
 | account          | character varying(255)     | Account associated with the cluster, representing the merchant or store. |

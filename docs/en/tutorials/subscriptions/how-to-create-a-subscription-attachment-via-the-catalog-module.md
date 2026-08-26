@@ -76,7 +76,7 @@ To configure the subscription frequencies and cycle dates you want to offer in y
 
 8. Click `Save`.
 
-| **Key name** | **Permitted values** |
+| Key name | Permitted values |
 | --- | --- |
 | `vtex.subscription.key.frequency` | The permitted values are a combination of a number from 1 to 9 + space + any of the following:<ul><li>`day`: Daily orders. Example: `5 day`.</li><li>`week`: Weekly orders. Example: `4 week`.</li><li>`month`: Monthly orders. Example: `3 month`.</li><li>`year`: Yearly orders. Example: `2 year`.</li>To offer multiple frequency options, separate the values with a comma and do not include a space after the comma.<ul><li>Example: To offer both a monthly and a weekly subscription option, enter `1month,1week`.</li></ul> |
 | `vtex.subscription.key.purchaseday` | **Weekly frequency**The permitted values for the weekly subscription cycle date range from 0 to 6, corresponding to the days of the week:<ul><li>`0`: Sunday</li><li>`1`: Monday</li><li>`2`: Tuesday</li><li>`3`: Wednesday</li><li>`4`: Thursday</li><li>`5`: Friday</li><li>`6`: Saturday</li></ul>To offer more than one day for the cycle with a weekly frequency, separate the values with a comma.<ul><li>Example: A weekly subscription with a cycle date on Sundays, Wednesdays, and Fridays would be written as `0,3,5`.</li></ul><br>**Monthly frequency**The permitted values range from `1` to `28` and correspond to the days of the month, where `1` is the first day of the month, `2` is the second, and so on, up to `28`, which is the twenty-eighth day of the month.If you use more than one number, separate them with a comma and do not include a space after the comma.<ul><li>Example: A monthly subscription with a cycle date on the first and last days would be written as `1,28`.</li></ul> |
