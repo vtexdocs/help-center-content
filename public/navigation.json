@@ -30604,6 +30604,21 @@
                 },
                 {
                   "name": {
+                    "en": "Amazon Product Publishing",
+                    "es": "Publicacíon de Productos Amazon",
+                    "pt": "Publicação de produtos Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-product-publishing",
+                    "es": "publicacion-de-productos-amazon",
+                    "pt": "publicacao-de-produtos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuration errors in Mercado Libre accounts with multiple official stores",
                     "es": "Error de configuración en cuentas de Mercado Libre con múltiples tiendas oficiales",
                     "pt": "Erro de configuração de lojas guarda chuva"
@@ -31167,37 +31182,6 @@
                     "en": "warehouse-assignment-on-mercado-libre",
                     "es": "asignacion-de-almacen-en-mercado-libre",
                     "pt": "alocacao-de-estoque-no-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Configurações de integrações",
-                "es": "Configurações de integrações",
-                "pt": "Configurações de integrações"
-              },
-              "slug": {
-                "en": "configuracoes-de-integracoes",
-                "es": "configuracoes-de-integracoes",
-                "pt": "configurações-de-integrações-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Publicação de produtos Amazon",
-                    "en": "Publicação de produtos Amazon",
-                    "es": "Publicação de produtos Amazon"
-                  },
-                  "slug": {
-                    "pt": "publicacao-de-produtos-amazon",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
