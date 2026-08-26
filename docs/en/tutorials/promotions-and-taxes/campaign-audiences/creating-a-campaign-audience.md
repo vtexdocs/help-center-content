@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-The campaign audiences resource allows segmenting your store's promotions based on defining [target audiences](/en/docs/tutorials/campaign-audiences#target-audience) meeting specific criteria. For more information on this feature, check out [Campaign audiences](/en/docs/tutorials/campaign-audiences).
+Campaign audiences let you segment promotions by defining [target audiences](/en/docs/tutorials/campaign-audiences#target-audience) that meet specific criteria. For more information on this feature, check out [Campaign audiences](/en/docs/tutorials/campaign-audiences).
 
 Follow the steps below to create a new campaign audience:
 
@@ -26,7 +26,7 @@ Follow the steps below to create a new campaign audience:
 5. Fill in the fields described in the [Create new target audience](#creating-a-new-target-audience) section.
 6. Click `Save`.
 
-> ⚠️ After creating a campaign audience, you have to associate it with a campaign promotion to take effect. Follow the steps described in the [Creating a campaign promotion](/en/docs/tutorials/campaign-promotion) guide.
+> ⚠️ After creating a campaign audience, you have to associate it with a campaign promotion for it to take effect. Follow the steps described in the [Creating a campaign promotion](/en/docs/tutorials/campaign-promotion) guide.
 
 ## General data
 
@@ -54,7 +54,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
 1. Fill in the fields related to the target audience. Please see the sections listed below for details on each field's meaning:
     * [Define your target audience](#define-your-target-audience): Name the target audience.
     * [Items to use for this target audience](#items-to-use-for-this-target-audience): Limit the items associated with this target audience.
-    * [Conditions for your target audience to be applied](#conditions-for-your-target-audience-to-be-applied): Fill in the criteria on which customers will be included in the defined target audience.
+    * [Conditions for your target audience to be applied](#conditions-for-your-target-audience-to-be-applied): Fill in the criteria that determine which customers are included in the target audience.
 2. At the bottom of the target audience configuration section, click `Update`.
     The created audience will be listed in the **Target audience** section.
     If you want to edit it, click it and make the necessary changes.
@@ -78,29 +78,29 @@ After clicking `Create New Target Audience`, you must follow the instructions be
 
 * **At least __ products meet the criteria above:** Determines how many items corresponding to the defined criteria must be in the shopping cart for a customer to be in the target audience. All previous criteria must be **Equal to** to enable this configuration.
 
-For example: The target audience includes items whose brand is **Nike**, as illustrated below. The configuration also indicates that at least 3 items must meet the criteria. Therefore, a customer must have at least **3** items in the shopping cart to be included in the target audience.
+For example: The target audience includes items whose brand is **Nike**, as illustrated below. The configuration also indicates that at least 3 items must meet the criteria. Therefore, a customer must have at least **3** Nike items in the shopping cart to be included in the target audience.
 
 ![exemplo-marca-publico-alvo-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/campaign-audiences/creating-a-campaign-audience_2.png)
 
 ### Conditions for your target audience to be applied
 
-* **Minimum order value:** Minimum value the items in the cart must have in total. The total considers the sum of the prices of cart items that meet all the campaign audience criteria.
-* **Maximum order value:** Maximum value the items in the cart must have in total. This total considers the sum of the prices of cart items that meet all the campaign audience criteria.
+* **Minimum order value:** Minimum value that the items in the cart must have in total. The total considers the sum of the prices of cart items that meet all the campaign audience criteria.
+* **Maximum order value:** Maximum value that the items in the cart must have in total. This total considers the sum of the prices of cart items that meet all the campaign audience criteria.
 * **Item price between __ and __:** Minimum and maximum price for each item in the cart. The campaign audience will be activated if the item value is within the range of the set values.
-* **Use restriction BINs:** The campaign audience will be activated if the credit card _Bank Identification Number_ (BIN) corresponds to the filled-in characters. The BIN refers to the first 6 or 8 digits on a credit card and is used to identify the bank and the card label.
-* **Marketing Tags:**: this field prevents activating the campaign audience if the purchase is made using the [VTEX Subscriptions module](/en/docs/tutorials/how-subscriptions-work).
+* **Use restriction BINs:** The campaign audience will be activated if the credit card _Bank Identification Number_ (BIN) corresponds to the filled-in characters. The BIN refers to the first 6 or 8 digits on a credit card and is used to identify the bank and the card brand.
+* **Marketing Tags:** This field prevents activating the campaign audience if the purchase is made using the [VTEX Subscriptions module](/en/docs/tutorials/how-subscriptions-work).
 * **Customer cluster:** The customer will be part of the target audience if they are included in the selected cluster. It is important to highlight that the cluster name must be written exactly as in the Master Data. Spelling errors will prevent the configuration from working correctly.
-* **Maximum number of installments:** The campaign audience will be activated if the selected number of installments is lower or equal to the maximum number allowed.
+* **Maximum number of installments:** The campaign audience will be activated if the selected number of installments is less than or equal to the maximum number allowed.
 * **Only if it's a first buy:** The campaign audience will be activated only if this is the customer's first purchase from the store.
 * **Apply the discount even if the user is not logged in?:** This field is displayed when the **Only if it's a first buy option is checked**. If the field above is checked, the customer will be included in the target audience even if they are not logged in using an email and password. When the field is unchecked, the customer will only be included in the target audience if they sign in with an email and password previously used to access the store.
 * **Price "from" and "to" are the same** or **Price "from" and "to" are different:** Refers to the values listed in the product [list price](/en/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#list-price). You can only select one of the two options.
-* **Shipping to postal code should Include / Exclude from __ to __:** Allows including or excluding shipping code ranges for order shipment. The campaign audience will be activated if the shipping code meets the rule set for the target audience.
+* **Shipping to postal code should Include / Exclude from __ to __:** Allows including or excluding postal code ranges for order shipment. The campaign audience will be activated if the postal code meets the rule set for the target audience.
 * **Affiliates:** Allows selecting [affiliates](/en/docs/tutorials/what-is-an-affiliate) from a list. A campaign audience will be activated if the purchase is made in one of those affiliate marketplaces.
 
   > ⚠️ The **Affiliates** option only applies if the affiliate is a VTEX store.
 
 * **Sellers:** Allows you to define whether the campaign should consider sellers that are equal to or different from the selected ones, based on the sellers registered in your account.
-* **utm_source:** Allows selecting the desired [utm_source](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) or creating a new one to be linked to the campaign audience. The campaign audience will be activated if customer navigation is made using the utm_source corresponding to any entered values. It is important to note that customers can only enter one utm_source at checkout.
+* **utm_source:** Allows selecting the desired [utm_source](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) or creating a new one to be linked to the campaign audience. The campaign audience will be activated if the customer uses a utm_source that matches one of the entered values. It is important to note that customers can only enter one utm_source at checkout.
 * **utm_campaign:** Allows selecting the desired [utm_campaign](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) or creating a new one to be linked to the campaign audience. The discount will be granted if the customer navigation uses a utm_campaign corresponding to the entered value.
 * **Shipping method:** Allows selecting the [shipping option](/en/docs/tutorials/how-does-the-type-of-delivery-work) for the target audience. For example: standard or express. The campaign audience will be activated if the customer selects one of the defined shipping options when completing an order.
 * **Apply selected discount only when one of the above carriers is selected by the customer:** The campaign audience will be activated only after the customer selects the order delivery method.

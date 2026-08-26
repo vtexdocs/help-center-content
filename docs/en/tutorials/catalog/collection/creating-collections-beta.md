@@ -127,7 +127,7 @@ Products can be removed either by selecting items from the __Collections__ modul
 
 #### Via Admin
 
-To remove an item from the collection, simply click on the product's <i class="fas fa-check-circle" title="check circle"></i>.
+To remove an item from the collection, click on the product's <i class="fas fa-check-circle" title="check circle"></i>.
 
 ![EN-coleao-remover](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_7.gif)
 

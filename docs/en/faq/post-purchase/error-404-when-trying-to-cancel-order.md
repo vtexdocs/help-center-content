@@ -1,5 +1,5 @@
 ---
-title: 'Error 404 when trying to cancel order. What to do?'
+title: 'Error 404 when trying to cancel order. What should I do?'
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z
@@ -14,7 +14,7 @@ locale: en
 legacySlug: error-404-when-trying-to-cancel-order
 ---
 
-When attempting to cancel an order at the **Orders** module, sometimes the system returns error 404. We will see in this article:
+When attempting to cancel an order in the **Orders** module, sometimes the system returns error 404. We will see in this article:
 
 - How to identify the error
 - What to do when this error happens
@@ -35,8 +35,8 @@ It means that the request to the resource of an external service has returned an
 
 ### What to do when this error happens
 
-If an error message like the one mentioned is displayed in the order detail, it's because the API of the service integrated to VTEX is returning a 404 error for the order you are trying to cancel.
+If an error message like the one mentioned is displayed in the order detail, it's because the API of the service integrated with VTEX is returning a 404 error for the order you are trying to cancel.
 
 That is, the operation can not be completed because the external service does not return the expected result, therefore, the order status cannot change at VTEX.
 
-In such case, you should contact this external service.
+In such a case, you should contact this external service.

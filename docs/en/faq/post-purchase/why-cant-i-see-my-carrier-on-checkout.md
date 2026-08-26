@@ -72,10 +72,10 @@ To do this, enable the [split my shipment](/en/docs/tutorials/configuring-cargo-
 
 ## Optimization of shipping options at Checkout
 
-To improve the customer's shopping experience, the**Optimization of shipping options** functionality, also known as **Lean Shipping**, allows the most expensive and longer shipping options not to be shown to the customer on the Checkout screen. As a result, some carriers may be omitted in certain ordering scenarios.
+To improve the customer's shopping experience, the **Optimization of shipping options** functionality, also known as **Lean Shipping**, allows the most expensive and longest shipping options not to be shown to the customer on the Checkout screen. As a result, some carriers may be omitted in certain ordering scenarios.
 
 #### Solution
 
 Disable the function [Optimization of delivery options at Checkout](/en/docs/tutorials/optimization-of-shipping-options-at-checkout) in your store.
 
-> ⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
+> ⚠️ By disabling this function in the VTEX Admin, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
