@@ -111,8 +111,8 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 ## Características dos dados
 
-|**Características** | **Descrição**|
-|:---:|:---:|
+|Características | Descrição|
+|---|---|
 |Fonte dos Dados | Obtidos do módulo marketplace.|
 |Disponibilidade | Admin VTEX.|
 |Histórico | O histórico de dados começa em setembro de 2024. Os dados são mantidos por dois anos a partir de 2024.|
@@ -122,8 +122,8 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna
+|---|---|---|
 |pk | bigint | Chave primária que identifica exclusivamente cada linha.
 main_account | character varying(100) | Nome da conta principal associada ao vendedor.|
 |seller_id | character varying(100) | ID do vendedor.|
@@ -144,8 +144,8 @@ main_account | character varying(100) | Nome da conta principal associada ao ven
 
 Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna
+|---|---|---|
 |main_account | character varying(100) | Nome da conta principal associada ao vendedor.
 |seller_id | character varying(100) | ID do vendedor.|
 |seller_is_active | boolean | Indica se o vendedor está ativo (true) ou não (false).|
@@ -161,8 +161,8 @@ Os campos da tabela são descritos abaixo:
 
 Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna
+|---|---|---|
 |main_account | character varying(100) | Nome da conta principal associada ao vendedor.|
 |seller_id | character varying(100) | ID do vendedor.|
 |seller_is_active | boolean | Indica se o vendedor está ativo (true) ou não (false).|
@@ -179,8 +179,8 @@ Os campos da tabela são descritos abaixo:
 
 Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**|
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna|
+|---|---|---|
 |main_account | character varying(100) | Nome da conta principal associada ao vendedor.|
 |seller_id | character varying(100) | ID do vendedor.|
 |seller_is_active | boolean | Indica se o vendedor está ativo (true) ou não (false).|
@@ -204,8 +204,8 @@ Os campos da tabela são descritos abaixo:
 
 Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**|
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna|
+|---|---|---|
 |main_account | character varying(100) | Nome da conta principal associada ao vendedor.|
 |seller_id | character varying(100) | ID do vendedor.|
 |seller_is_active | boolean | Indica se o vendedor está ativo (true) ou não (false).|
@@ -229,8 +229,8 @@ Os campos da tabela são descritos abaixo:
 
 A tabela *sellers_orders_items* armazena detalhes dos itens em pedidos realizados por vendedores do VTEX Seller Portal. Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**|
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna|
+|---|---|---|
 |item_id | character varying(65535) | Identificador único do item dentro do pedido. Pode ser associado à tabela sellers_inventory para detalhes adicionais.|
 |product_id | character varying(65535) | Identificador do produto associado ao item.|
 |order_id | character varying(16383) | Identificador único do pedido. Pode ser associado às tabelas de pedidos para detalhes adicionais.|
@@ -271,8 +271,8 @@ A tabela *sellers_orders_items* armazena detalhes dos itens em pedidos realizado
 
 A tabela *sellers_orders_rateandbenefitsidentifiers* contém dados sobre promoções aplicadas a pedidos de vendedores. Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**|
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna|
+|---|---|---|
 |orderid | character varying(16383) | Identificador único de cada pedido.|
 |hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido.|
 |marketplace_name | character varying(16383) | Nome do marketplace associado ao pedido.|
@@ -291,8 +291,8 @@ A tabela `sku_binding` serve como referência cruzada entre os identificadores i
 
 Os campos da tabela são descritos abaixo:
 
-|**Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna**|
-|:---:|:---:|:---:|
+|Nome da Coluna | Tipo da Coluna | Descrição da Coluna|
+|---|---|---|
 |sk_sku_binding | character varying | Chave substituta para o registro de binding de SKU que identifica exclusivamente cada mapeamento de SKU de um vendedor para um SKU do marketplace.|
 |sk_sku | character varying | Chave substituta referenciando o SKU na tabela item_catalog_silver.sku.|
 |sk_product | character varying | Chave substituta referenciando o produto na tabela item_catalog_silver.product.|

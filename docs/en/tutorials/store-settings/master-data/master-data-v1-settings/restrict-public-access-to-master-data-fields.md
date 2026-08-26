@@ -54,4 +54,4 @@ Depending on the data stored, public access without authentication can pose a ri
 After following the previous instructions, it is mandatory to have a [role](/en/docs/tutorials/roles) with the necessary [permissions](/en/docs/tutorials/license-manager-resources) to access the following information:
 
 * At least one resource from the **Generic resources** category in the **Master Data** product: **READONLY_USER_CRM**, **POWER_USER_CRM**, **NOREMOVE_USER_CRM**, or **ADMIN_CRM**.
-* At least one resource from the **Dynamic storage generic resources** category in the **Dynamic Storage** product:** READONLY_USER_DS**, **NOREMOVE_USER_DS**, **POWER_USER_DS**, or **ADMIN_DS**.
+* At least one resource from the **Dynamic storage generic resources** category in the **Dynamic Storage** product: **READONLY_USER_DS**, **NOREMOVE_USER_DS**, **POWER_USER_DS**, or **ADMIN_DS**.

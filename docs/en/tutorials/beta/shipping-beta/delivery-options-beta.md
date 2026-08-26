@@ -63,7 +63,7 @@ To create a delivery option, follow the steps below:
 
    - **Delivery zones**: Click the `+ Add zones` button, then select the zones you want to cover with the delivery option. You can search for a delivery zone using the search bar. Click `Save` to close the window.
 
-   ### Shipping pricing
+   ### Delivery pricing
 
    - **Pricing**: Pricing conditions of the delivery option. The pricing models applied to each segmentation are: **Fixed amount**, a single price applied to all carts; **Markup**, a profit percentage added to the shipping amount; and **Cost pass-through**, where the store bears the cost of the delivery option. You can combine pricing options. The pricing conditions are defined based on the following segmentations:
      - **All carts**: The price will be applied to all carts created in the store.

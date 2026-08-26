@@ -86,10 +86,10 @@ Você pode adaptar essas informações ao seu cenário específico e também us�
 
 | Cenários | Informações |
 | ----------- | ----------- |
-| Pedidos |  - ID do pedido ou do `orderForm `.   - URL do pedido no ** Gerenciamento de pedidos ** ou no ** Bridge ** (em casos de pedidos de marketplaces com integrações nativas).  |
+| Pedidos |  - ID do pedido ou do `orderForm `.   - URL do pedido no **Gerenciamento de pedidos** ou no **Bridge** (em casos de pedidos de marketplaces com integrações nativas).  |
 | Checkout |  - URL do carrinho gerado pelo [Cartman](/pt/docs/tutorials/configurar-o-cartman).   - IDs dos SKUs e CEP para reprodução do carrinho.   - [HAR](/pt/docs/tutorials/gerar-arquivo-har-para-debugar-problemas-na-loja). 
 | Logística |  - ID do seller.   - URL de estoque, doca ou transportadora do seller.   - Informações para simular entrega, como IDs dos SKUs e CEP. |
-| Pagamentos |  - ID da transação.   - Link da transação, acessando no Admin VTEX * Pagamentos > Transações. * 
+| Pagamentos |  - ID da transação.   - Link da transação, acessando no Admin VTEX **Pagamentos > Transações**. 
 | VTEX IO |  - Nome e versão do aplicativo utilizado.   - Workspace utilizado.   - Arquivo ZIP com o [store-theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-3-settingyourstoretheme) em caso de tema linkado e não instalado.  |
 | Promoções |  - Nome da promoção.   - URL da promoção.   - Produto e CEP aplicáveis à promoção para testes.  |
 | Integrações (aplicável aos parceiros de integração) |  - Explicação sobre o produto e o papel dele na VTEX.   - Seu objetivo final antes do problema ocorrer.   - Em caso de chamadas para APIs da VTEX que falharam: endpoint utilizado, request body e response body.   - ID e URL do afiliado (se o problema for na integração com um marketplace externo). 

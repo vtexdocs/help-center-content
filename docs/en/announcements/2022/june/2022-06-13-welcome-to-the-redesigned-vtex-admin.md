@@ -68,7 +68,7 @@ Besides reorganizing the order of pages, we have also changed some of the labels
 #### Page names
 
 |       Before      |         Now         |
-|:-----------------:|:-------------------:|
+|-----------------|-------------------|
 | Trade Policies    | Sales Channels      |
 | Message Center    | Email Templates     |
 | Bank conciliation | Bank Reconciliation |

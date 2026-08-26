@@ -19,8 +19,8 @@ Al realizar la [integración con Mercado Libre](/es/tracks/configurar-integracao
 
 Antes de continuar, es importante familiarizarse con las definiciones específicas de la funcionalidad **Match de anuncios de Mercado Libre** descritas a continuación:  
 
-| **Término** | **Significado** |
-|:---:|:---:|
+| Término | Significado |
+|---|---|
 | **Anuncios** | Un anuncio es un [SKU](/es/docs/tracks/sku-definicion-de-concepto) de un seller enviado al marketplace con precio y stock configurados. |
 | **Catálogo Mercado Libre** | Anuncio preexistente en Mercado Libre que permite al seller vincular su producto y mejorar su visibilidad. |
 | **Oportunidades** | Una **oportunidad** es un producto del seller que se puede vincular a un producto del catálogo de Mercado Libre. El objetivo de la oportunidad es proporcionar al seller una herramienta que pueda realizar la asociación entre los productos. |

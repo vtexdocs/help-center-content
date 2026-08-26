@@ -41,7 +41,7 @@ To add a sales channel, follow these steps:
 4. Complete the sales channel fields:
 
 | Field | Description |
-| :---- | :---- |
+| ---- | ---- |
 | **Name:** | Internal identification name for the sales channel. |
 | **Collection:** | This field has been deprecated and is not available for use. |
 | **Sellers:** | Defines the sellers associated with the sales channel. If no seller is selected, all sellers from the account will be considered by default. |

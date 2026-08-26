@@ -81,7 +81,7 @@ Once the seller accepts the marketplace invitation and they register their Selle
 
 In addition to inviting and activating sellers through the VTEX Admin, the marketplace can also complete these steps via the REST APIs. This is useful when the marketplace wants to create its own solutions or create an account on the Seller Portal on behalf of the seller. The following table shows the list of applicable APIs:
 
-| **Call** | **Description** |
+| Call | Description |
 | ---------- | ---------- |
 | [Invite Seller Lead](https://developers.vtex.com/vtex-rest-api/reference/createsellerlead) | Sends an email to the seller containing a unique link to connect to the marketplace. |
 | [List Seller Leads](https://developers.vtex.com/vtex-rest-api/reference/listsellerleads) | Lists the sellers that have received an invitation from the marketplace. |

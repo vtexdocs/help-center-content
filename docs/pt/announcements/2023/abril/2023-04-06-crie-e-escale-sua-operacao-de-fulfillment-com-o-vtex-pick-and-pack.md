@@ -49,7 +49,7 @@ Nós criamos o **VTEX Pick and Pack** para reduzir custos logísticos e escalar 
 
 A tabela abaixo mostra algumas das funcionalidades da solução e suas respectivas vantagens:
 
-| **Funcionalidade** | **Utilização** | **Vantagens** |
+| Funcionalidade | Utilização | Vantagens |
 | ---------- | ---------- | ---------- |
 | VTEX Fulfillment | Um único lugar para gerenciar a separação e o empacotamento. | <ul><li>Reduzir os custos logísticos através de um processo em etapas para um fulfillment rápido, preciso e rentável dos pedidos.</li><li>Maior controle dos recursos da loja e prazos de fulfillment.</li><li>Reduzir os prazos de fulfillment e entrega.</li></ul> |
 | VTEX Fulfillment | Configuração de pacotes e etiquetas para impressão, que podem incluir códigos de barras para serem escaneados. | Reduzir situações propensas a erros e aumentar a eficiência. |

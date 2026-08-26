@@ -28,7 +28,7 @@ Un cambio de *seller* puede ocurrir en dos situaciones:
 
 Puede [configurar el periodo para cambiar de seller de 0 a 30 días](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller), por defecto, la ventana de cambio es de dos días. Al configurar la ventana a 0 días, no hay un período efectivo para el cambio de _sellers_ y la _feature_, aunque configurada, no funciona en la práctica, lo que provoca que el pedido proceda a la cancelación.
 
-Cuando el *seller* le notifica la cancelación, el *marketplace* puede configurar el número de días para actuar y decidir entre cancelar la compra o cambiar de * seller.* Tenga en cuenta que si opta por el cambio, el *marketplace* es el responsable de comunicarlo al cliente final.
+Cuando el *seller* le notifica la cancelación, el *marketplace* puede configurar el número de días para actuar y decidir entre cancelar la compra o cambiar de *seller.* Tenga en cuenta que si opta por el cambio, el *marketplace* es el responsable de comunicarlo al cliente final.
 
 ![mkt_cancela_seller_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/pedidos/change-seller_2.png)
 
@@ -48,7 +48,7 @@ El cambio de _seller_ no puede realizarse en las siguientes situaciones:
 - Pedidos que utilizan el medio de pago del *seller* y que no tienen las mismas condiciones de pago en cuotas y medios de pago en el nuevo *seller.* 
 - Pedidos realizados antes del anuncio de Change Seller.
 - Pedidos en los que el *seller* original no es de VTEX.
-- Cambio a un nuevo *seller *que no es de VTEX cuando hay servicios u [assembly options](/es/docs/tutorials/assembly-options) involucrados.
+- Cambio a un nuevo *seller** que no es de VTEX cuando hay servicios u [assembly options](/es/docs/tutorials/assembly-options) involucrados.
 - Cuando la nueva opción solicita el envío por recogida en [puntos de recogida](/es/docs/tutorials/puntos-de-recogida).
 - En caso de que el *marketplace* decida cambiar de *seller*, el cambio solo podrá realizarse en los [status](/es/docs/tutorials/flujo-y-status-de-pedidos) `Pago pendiente` y `Esperando confirmación del seller`.
 - Pedidos de sellers externos a VTEX.

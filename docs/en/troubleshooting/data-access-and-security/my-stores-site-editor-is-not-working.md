@@ -25,7 +25,7 @@ symptomFilters:
 
 Below are some instructions to help you solve these issues in Site Editor.
 
-| **Issue** | **Description** | **How to fix it** |
+| Issue | Description | How to fix it |
 | ------------ | ------------- | ----------------------------------------- |
 | [Site Editor won't open](#the-site-editor-won't-open) | The Site Editor page displays a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
 | [I can't manage my store's content in Site Editor](#i-cant-manage-my-store's-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domain-main-location). |

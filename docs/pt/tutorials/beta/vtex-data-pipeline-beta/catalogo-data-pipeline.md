@@ -110,8 +110,8 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 ## Características dos dados
 
-| **Caracterítica** | **Descrição** |
-|:---:|:---:|
+| Caracterítica | Descrição |
+|---|---|
 | **Origem dos dados** | Os dados são obtidos a partir do [módulo de catálogo](/pt/docs/tutorials/catalogo-visao-geral). |
 | **Disponibilidade** | Os dados podem ser acessados no Admin VTEX. |
 | **Histórico** | Os dados disponibilizado são a partir de fevereiro de 2025. |
@@ -121,7 +121,7 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 A tabela `product` contém informações sobre os produtos cadastrados no catálogo VTEX, incluindo identificadores, categorias, marcas e visibilidade na loja. Também armazena informações sobre imagens, SKUs relacionados e canais de venda nos quais o produto está disponível. Também registra datas importantes, como criação, atualização e lançamentos.
 
-| __Nome da Coluna__  | __Tipo da coluna__  | __Descrição__ |
+| Nome da Coluna  | Tipo da coluna  | Descrição |
 |-----------------|---------------|-----------|
 | account  | character varying(255) | Conta proprietária do produto. |
 | product_id | integer | Identificador único do produto, gerado pela VTEX. |
@@ -155,7 +155,7 @@ A tabela `product` contém informações sobre os produtos cadastrados no catál
 
 Esta tabela detalha os SKUs associados a produtos. Inclui identificadores exclusivos, dimensões físicas, códigos de fabricante e EANs. Também armazena informações sobre imagens, serviços adicionais, kits e atributos específicos de cada SKU. Datas de criação e atualização são registradas para controle. 
 
-| __Nome da Coluna__ | __Tipo da coluna__ | __Descrição__ |
+| Nome da Coluna | Tipo da coluna | Descrição |
 |----------------|--------------|-----------|
 | account | character varying(255) | Conta proprietária do SKU. |
 | product_id  | bigint | Identificador único do produto associado ao SKU. |
@@ -185,7 +185,7 @@ Esta tabela detalha os SKUs associados a produtos. Inclui identificadores exclus
 
 A tabela `brand` contém informações sobre as marcas registradas no catálogo VTEX, incluindo identificadores, nomes e status de ativação. Também mantém registros de criação e atualização, além de um identificador único para integração com outras tabelas.
 
-| __Nome da Coluna__  | __Tipo da coluna__  | __Descrição__ |
+| Nome da Coluna  | Tipo da coluna  | Descrição |
 |-----------------|---------------|-----------|
 | account | character varying(255)   | Conta proprietária da marca. |
 | brand_id | bigint  | Identificador único da marca. |
@@ -200,7 +200,7 @@ A tabela `brand` contém informações sobre as marcas registradas no catálogo 
 
 A tabela `category` apresenta os produtos em categorias hierárquicas. Armazena identificadores, nomes, caminhos completos de categoria e status de ativação. Permite a organização dos produtos dentro da estrutura do catálogo.
 
-| __Nome da Coluna__  | __Tipo da coluna__  | __Descrição__ |
+| Nome da Coluna  | Tipo da coluna  | Descrição |
 |-----------------|---------------|-----------|
 | sk_category | character varying(32) | Identificador único da categoria (chave primária). |
 | account | character varying(255)  | Conta proprietária da categoria. |
@@ -217,7 +217,7 @@ A tabela `category` apresenta os produtos em categorias hierárquicas. Armazena 
 
 A tabela `specification` armazena especificações técnicas dos produtos e SKUs, como grupos de especificação, valores atribuídos e se uma especificação é obrigatória. Também contém identificadores para facilitar a integração com produtos, SKUs e grupos de especificação, garantindo um detalhamento mais preciso dos itens cadastrados.
 
-| __Nome da Coluna__   | __Tipo da coluna__ | __Descrição__ |
+| Nome da Coluna   | Tipo da coluna | Descrição |
 |------------------|--------------|-----------|
 | sk_specification  | character varying(32)   | Identificador único da especificação. |
 | sk_product  | character varying(32)   | Identificador único do produto. |
@@ -233,8 +233,8 @@ A tabela `specification` armazena especificações técnicas dos produtos e SKUs
 
 A tabela cluster armazena informações sobre agrupamentos de contas, representando conjuntos de lojas ou sellers.
 
-| __Nome da Coluna__       | __Tipo da coluna __ | __Descrição__ |
-|:----------:|:-------------:|:-----------:|
+| Nome da Coluna       | Tipo da coluna | Descrição |
+|----------|-------------|-----------|
 | sk_category         | character varying(32)      | Chave sintética criada por hash da conta e do category_id, usada como chave primária. |
 | account            | character varying(255)     | Conta associada ao cluster, representando o comerciante ou loja. |
 | cluster_id         | bigint                      | Identificador único do cluster dentro da conta. |

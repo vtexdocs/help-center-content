@@ -21,7 +21,7 @@ For better understanding, we will present a scenario (divided into 3 steps), whe
 
 ### Step 1 (Email filling)
 
-| __User__ | __VTEX Platform__ |
+| User | VTEX Platform |
 |------------------|------------------|
 | Visits the store's website for the first time (user without registration) and search for the desired item. | In the browser, the Portal module prompts RC.JS (request capture javascript) to pass the information along. |
 | Add the product to the cart and click on the `Proceed to checkout` button. | The Checkout module sends the following message to RC.JS: “Hello, we have a transaction about to happen. Please pass this information along.” |
@@ -29,19 +29,19 @@ For better understanding, we will present a scenario (divided into 3 steps), whe
 
 ### Step 2 (Filling in personal data)
 
-| __User__ | __VTEX Platform__ |
+| User | VTEX Platform |
 |------------------|------------------|
 | Fill in the mandatory personal information (name, surname and CPF). | The information is forwarded to the Profile System. At this stage, email is only captured by Profile System, not RC.JS. |
 
 ### Step 3 (Confirmation of sending personal data)
 
-| __User__ | __VTEX Platform__ |
+| User | VTEX Platform |
 |------------------|------------------|
 | Click on `Go to delivery`. | Checkout prompts RC.JS to transfer email address and cart information to Master Data (via Profile System). |
 
 > ⚠️ So that the [abandoned cart](/en/docs/tutorials/accessing-a-client-abandoned-cart) function can be used , the user must have filled in the following information: e-mail, name, surname and CPF. The lack of one of these data, makes it impossible to use the abandoned cart.
 
-| __User__ | __VTEX Platform__ |
+| User | VTEX Platform |
 |------------------|------------------|
 | Fill in the shipping and payment information. | The Checkout orderForm becomes an order and is transmitted to the VTEX OMS. The user's complete information (first name, last name, email, cart and all additional information) is transmitted to Master Data. Email capture can take up to 46 minutes to properly reflect in CRM. |
 

@@ -21,7 +21,7 @@ This article presents the availability, SLA, and additional support resources av
 
 Our regular support hours are Monday through Friday, from 9am GMT+8 to 7pm GMT+8. Our average first response time varies according to ticket urgency, as seen in the table below.
 
-| **Ticket urgency** | **Average first response time** | **Average next response time** | **Pausable Update** | **Agent Work Time** |
+| Ticket urgency | Average first response time | Average next response time | Pausable Update | Agent Work Time |
 | ------------------ | ------------------------------- | ------------------------------ | ------------------- | ------------------- |
 | **Low**            | 8 hours                         | 18 hours                       | 45 hours            | 45 hours            |
 | **Normal**         | 8 hours hours                   | 16 hours                       | 45 hours            | 45 hours            |

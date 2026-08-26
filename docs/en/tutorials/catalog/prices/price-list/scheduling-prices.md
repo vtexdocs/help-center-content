@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
-In the Prices module, you can schedule fixed prices for the products in your store. The scheduling dates must follow the standardization [RFC3339](https://www.ietf.org/rfc/rfc3339.txt). It is possible to specify a time zone, which can be either UTC or GMT. If this is not configured, UTC time will be used.
+In the Prices module, you can schedule fixed prices for the products in your store. The scheduling dates must follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) standard. It is possible to specify a time zone, which can be either UTC or GMT. If this is not configured, UTC time will be used.
 
 This article will cover the following topics:
 
@@ -64,10 +64,9 @@ The template will be sent to your email and you can download it. After downloadi
 
 - **SKU ID:** the ID of the SKU to which you want to add the fixed price.
 - **Sales channel:** the name or ID of the sales channel to which the fixed price will be applied.
-- 
 - **List price:** suggested retail price for the SKU.
 - **Min quantity:** the minimum SKU quantity for the fixed price to be applied.
-- **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format. -
+- **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 - **Date to:** the date and time from which the fixed price will no longer be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 
 > ℹ️ The **Date From** and **Date To** fields follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: `2024-12-30T22:00:00-03:00`. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: `2024-12-30T00:00:00Z`.

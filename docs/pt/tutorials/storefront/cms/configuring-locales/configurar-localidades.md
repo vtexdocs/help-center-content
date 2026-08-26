@@ -20,7 +20,7 @@ Neste guia, confira como configurar as localidades da sua loja.
 * Antes de configurar as localidades, é importante entender dois conceitos-chave que determinam como o conteúdo aparece no storefront. Compreender esses conceitos ajuda você a desenvolver uma estratégia de localização eficaz e a evitar a duplicação desnecessária de conteúdo.
 
 | Conceito | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **[Estratégias de fallback de localidade](/pt/docs/tutorials/understanding-locale-fallback-rules):** | Define qual conteúdo o sistema exibe quando uma localidade não tem seu próprio conteúdo localizado. |
 | [**Conexão de localidade com bindings:**](#como-as-localidades-se-conectam-aos-bindings)| Explica como o storefront escolhe a localidade correta com base na configuração do binding. |
 
@@ -29,7 +29,7 @@ Neste guia, confira como configurar as localidades da sua loja.
 * Certifique-se de que o seguinte [recurso](https://help.vtex.com/pt/docs/tutorials/license-manager-resources) esteja associado ao seu [perfil de acesso](https://help.vtex.com/pt/docs/tutorials/roles):
 
 | Produto | Categoria | Recurso |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | Commerce Content | Stores | Create Store |
 
 ## Acessar a página de Localidades
@@ -41,7 +41,7 @@ Para acessar a página de **Localidades**, abra o Admin VTEX e vá para **Conte�
 A tabela a seguir mostra as opções disponíveis na página:
 
 | Opção | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Pesquisar** | Filtra a lista de localidades existentes. |
 | **Criar localidade** | Abre um painel lateral para adicionar uma nova configuração de idioma e região à sua loja. |
 | **Localidade** | Exibe o nome e o código da localidade (por exemplo, `Inglês (EUA)` e `en-US`), representando a combinação específica de idioma e região configurada para a loja. |
@@ -61,7 +61,7 @@ Para criar uma nova localidade para sua loja, siga estas etapas:
     ![creating-a-new-locale](https://vtexhelp.vtexassets.com/assets/docs/src/creating-locale-pt___fc77a9b9a66ae8441fa28e7c2a63ab93.png)
 
     | Nome do campo | Descrição | Exemplo de valor |
-    | :---- | :---- | :---- |
+    | ---- | ---- | ---- |
     | **Nome** | Adicione o nome da localidade. | `Inglês (EUA)` |
     | **Ativo** | Selecione esta caixa para tornar a localidade disponível na sua loja após criá-la. | - |
     | **Tornar esta a localidade padrão** | Selecione esta opção para definir a localidade como padrão. A localidade padrão serve como fonte principal de conteúdo e como fallback para outras localidades. Ao criar sua primeira localidade, você deve selecionar esta opção. É possível alterar a localidade padrão posteriormente. | - |

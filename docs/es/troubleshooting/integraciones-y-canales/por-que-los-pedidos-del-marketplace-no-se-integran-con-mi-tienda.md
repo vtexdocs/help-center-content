@@ -36,8 +36,8 @@ Comprueba tanto el status de la integración de pedidos como los mensajes accedi
 
 Consulta la tabla a continuación para comprender el significado del error y corregirlo:
 
-| **Tipo de error** | **Significado** | **Acción requerida** |
-|:---:|:---:|:---:|
+| Tipo de error | Significado | Acción requerida |
+|---|---|---|
 | **Información de envío incompleta** | Los datos de envío están incompletos o rellenados incorrectamente. | Corregir o rellenar los datos solicitados como se indica en [Flujo y status de pedidos.](/es/docs/tutorials/flujo-y-status-de-pedidos) |
 | <br>**Divergencia de precios** | <br>El valor total del pedido pagado en el marketplace difiere del valor esperado por la tienda VTEX, y esta diferencia de precios supera el porcentaje aceptado por la tienda VTEX o la regla de divergencia de precios no está configurada.<br>**Ejemplo**<br>El valor total pagado por el pedido en el marketplace es de 311.77 USD, el valor esperado por la tienda es de 313.61 USD. Es decir, hay una diferencia de 1.84 USD. | [Reprocesar pedido](/es/tutorial/verificando-integracao-no-bridge#pedidos) o Configurar la [Regla de divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios). |
 | **ID de SKU no válido** | Los ID de los productos registrados en la política comercial son diferentes de los ID registrados en el marketplace. | Cambiar los ID de los SKU en el marketplace para que tengan los mismos códigos que los productos en la política comercial. |

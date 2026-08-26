@@ -20,7 +20,7 @@ The process happens in two main steps:
 Intelligent Search tries to find products that match the search in sequential groups. As soon as a group returns results, the following groups aren't evaluated.
 
 | Group   | Logic                                              | Description                                                                                                       | Priority         |
-| :------ | :------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :--------------- |
+| ------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------- |
 | Group 1 | [AND without fuzzy](#operators-and-fuzzy-matching) | Searches products that contain all the query words exactly as typed, with no tolerance for variations or typos.   | Highest priority |
 | Group 2 | [AND with fuzzy](#operators-and-fuzzy-matching)    | Searches products with all the words but accepts small variations (example: typos, diacritical mark differences). |                  |
 | Group 3 | [OR without fuzzy](#operators-and-fuzzy-matching)  | Accepts products that contain any of the searched words, but requires an exact match.                             |                  |
@@ -51,7 +51,7 @@ Intelligent Search tries to find products that match the search in sequential gr
 After identifying matching products, Intelligent Search applies a scoring algorithm to define the display order. The table below lists the factors in descending order of priority:
 
 | #   | Factor                                   | Description                                                                                                                | Example                                                                                                                                 |
-| :-- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| -- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Product promoted by a merchandising rule | Product explicitly prioritized by the merchant via a merchandising rule.                                                   | A rule promoting "Stayfree Overnight" → Displays at the top even if another pad matches the search better.                              |
 | 2   | Product added by a merchandising rule    | Product forced to display in the results even without a direct match with the searched term.                               | "vitamin C" search → Displays "immunity bundle with vitamin C and zinc" due to a rule, even though it doesn't directly match the query. |
 | 3   | Full ID match                            | The buyer searched for the exact product ID.                                                                               | "123456" search → Displays the product with that ID with high priority.                                                                 |
@@ -76,7 +76,7 @@ The keyword is the main word that defines the product. Intelligent Search automa
 **Examples:**
 
 | Language   | Product name                             | Keyword    | Rule      |
-| :--------- | :--------------------------------------- | :--------- | :-------- |
+| --------- | --------------------------------------- | --------- | -------- |
 | Portuguese | Protetor solar facial FPS 50             | protetor   | 1st word  |
 | Spanish    | Protector solar facial FPS 50            | protector  | 1st word  |
 | English    | Facial SPF 50 sunscreen                  | sunscreen  | last word |
@@ -127,7 +127,7 @@ A product returned by a synonym but that has a keyword match will be more releva
 When two or more products have a similar relevance score, Intelligent Search uses the criteria from the [relevance rules](https://help.vtex.com/en/docs/tutorials/relevance-rules) configured by the merchant to break the tie. The available criteria are:
 
 | Criterion                | Description                                               |
-| :----------------------- | :-------------------------------------------------------- |
+| ----------------------- | -------------------------------------------------------- |
 | Discount                 | Products with a higher discount percentage get priority.  |
 | Release date             | Newer products are prioritized.                           |
 | Best sellers             | Sorted by order volume.                                   |
@@ -144,7 +144,7 @@ The impact of each criterion is determined by the weight configured by the merch
 ### Search: "tylenol"
 
 | Product (brand)                                | Relevance | Reason                                                                                                          |
-| :--------------------------------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------- |
+| --------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------- |
 | Reliever Tylenol 24 ct (Tylenol)               | High      | Keyword from the name "Tylenol" + brand "Tylenol": Double cumulative match, higher score.                       |
 | Tylenol PM Caplets 24 ct (Tylenol)             | Tie\*     | Only brand match "Tylenol": one keyword match.                                                                  |
 | Pain Reliever Caplets Tylenol 24 ct (ValueMed) | Tie\*     | Only keyword match from the name "Tylenol": one keyword match. Tie broken by the configured relevance criteria. |
@@ -154,7 +154,7 @@ The impact of each criterion is determined by the weight configured by the merch
 ### Search: "minoxidil"
 
 | Product (brand)                                           | Relevance | Reason                                                                                                                                    |
-| :-------------------------------------------------------- | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 5% Hair Regrowth Treatment Minoxidil (Minoxidil)          | High      | Keyword from the name "Minoxidil" + brand "Minoxidil": double cumulative match.                                                           |
 | Minoxidil Foam Extra Strength 3-Month Supply (Minoxidil)  | Tie\*     | Only brand match "Minoxidil": one keyword match.                                                                                          |
 | 5% Hair Regrowth Treatment Minoxidil (Kirkland Signature) | Tie\*     | Only keyword match from the name "Minoxidil": one keyword match. Tie broken by the configured relevance criteria.                         |

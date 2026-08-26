@@ -85,8 +85,8 @@ Veja abaixo dois fluxos distintos de utilização dos dados:
 
 ## Características dos dados de promoções
 
-| **Característica** | **Descrição** |
-|:---:|:---:|
+| Característica | Descrição |
+|---|---|
 | **Origem do dado** | São originadas do [módulo de Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) do Admin VTEX. |
 | **Disponibilidade** | Os dados de Promoções podem ser acessados através do Admin da VTEX e também por [APIs de Promotions](https://developers.vtex.com/docs/guides/promotions-overview). |
 | **Histórico** | Os dados são mantidos por dois anos, a partir de 2024 para clientes que já utilizam a plataforma VTEX. |

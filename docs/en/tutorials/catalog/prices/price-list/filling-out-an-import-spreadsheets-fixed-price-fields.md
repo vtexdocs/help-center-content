@@ -23,7 +23,7 @@ For a better understanding of what each fixed price spreadsheet field means, rea
 - **Sales channel:** the name or ID of the sales channel to which the fixed price will be applied.
 - **List price:** suggested retail price for the SKU.
 - **Min quantity:** the minimum SKU quantity for the fixed price to be applied.
-- **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format. -
+- **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 - **Date to:** the date and time from which the fixed price will no longer be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 
 The next spreadsheet fields are optional, being used only to make SKU identification easier. To view these fields in the spreadsheet, you'll need to select the **Include metadata in exported tables** export option.
