@@ -1,5 +1,5 @@
 ---
-title: 'What to do with error when accessing Orders module'
+title: 'What to do with an error when accessing the Orders module'
 id: 4X1NvGRhzWsqeC0QIGaMWu
 status: PUBLISHED
 createdAt: 2017-12-19T01:13:12.248Z
@@ -14,7 +14,7 @@ locale: en
 legacySlug: error-accessing-oms
 ---
 
-There's a common error of access to **Orders** module: when trying to enter the module directly, the user finds the following message: 
+There's a common error when accessing the **Orders** module: when trying to enter the module directly, the user finds the following message: 
 
 `Looks like something went wrong. We'll try again in xx seconds or you can try now.`
 
@@ -22,6 +22,6 @@ Usually, this error occurs when the user authentication has expired. Go to the s
 
 `https://{AccountName}.myvtex.com/admin`
 
-The system will probably request your login. In such case, authenticate and try to access Orders management once again.
+The system will probably request your login. In such a case, authenticate and try to access Orders management once again.
 
 If that doesn't solve your problem, it may be that the **Orders** module is experiencing a temporary unavailability, which may be confirmed on our [status page](http://status.vtex.com/).

@@ -33,8 +33,8 @@ Once you’ve completed the steps above, the app will create the event, which wi
 
 An event can have one of the following statuses:
 
-| **Status** | **Description** |
-| :---: | :--- |
+| Status | Description |
+| --- | --- |
 | Created | Indicates that you’ve successfully created an event. |
 | Starting | Indicates that you’ve turned on the event and it’s being processed to start live-streaming. This might take three to five minutes. |
 | Live | The event is ready for you to:<ul><li>Configure all functionalities.</li><li>View the keys to live-stream from external studios and other platforms.</li><li>Start the Go live.</li></ul> |

@@ -154,7 +154,7 @@ A seção Restrições de uso está presente em todos os tipos de promoções. V
  A tabela a seguir mostra em quais tipos de promoção cada restrição pode ser aplicada:
 
  | Tipo de promoção | Limitar uso na loja | Limitar uso por cliente | Limitar itens elegíveis |
-| :---- | :---: | :---: | :---: |
+| ---- | --- | --- | --- |
 | **Regular** | sim | sim | não |
 | **Compre Junto** | sim | sim | não |
 | **Mais por Menos** | sim | sim | sim |

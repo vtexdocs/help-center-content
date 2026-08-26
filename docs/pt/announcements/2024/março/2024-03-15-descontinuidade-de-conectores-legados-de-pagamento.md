@@ -20,8 +20,8 @@ tags:
 
 Em prosseguimento ao processo de [descontinuidade dos conectores legados de pagamento](/pt/announcements/2023-10-13-conectores-legados-de-pagamentos-serao-descontinuados-em-2024), a tabela abaixo apresenta os conectores legados a serem removidos da plataforma VTEX e os novos conectores (integrados via Payment Provider Protocol) já disponíveis para substituí-los:
 
-| **Conector legado** | **Nova versão (Conector PPP)** |
-| :---: | :---: |
+| Conector legado | Nova versão (Conector PPP) |
+| --- | --- |
 | Adyen | [AdyenV3](/pt/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) |
 | AuthorizeNet/AuthorizeDotNet | - |
 | BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](/pt/docs/tutorials/configurar-pagamento-com-maxipagov4) |

@@ -41,7 +41,7 @@ Faça o download do arquivo da [Planilha de Mapeamento da Casas Bahia Marketplac
 A planilha de mapeamento da Casas Bahia Marketplace Varejo contém as seguintes colunas:
 
 | Nome da coluna | Descrição  |
-| :-------:| :--------:|
+| -------| --------|
 | VTEX Category Id| ID da Categoria na VTEX |
 | VV Category Id | ID da Categoria na Casas Bahia Marketplace  |
 | Is Variation | Indica se especificação é variação (`true`) ou atributo (`false`) |

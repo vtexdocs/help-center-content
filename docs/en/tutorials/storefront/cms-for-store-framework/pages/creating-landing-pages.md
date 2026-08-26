@@ -29,7 +29,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 3.In the Page details section, fill in the fields below to define the page metadata:
 
-| **Field** | **Description** |
+| Field | Description |
 | ---------- | ---------- |
 | Title | Page title displayed at the top of the browser window and on search engine result pages. |
 | URL | Page URL. Automatically reflects the page title, but you can edit it according to your scenario by adding custom parameters. |

@@ -32,7 +32,7 @@ La clave de acceso de la factura es un instrumento auxiliar para la consulta de 
 
 []![ChaveDeAcesso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-el-pedido-no-factura-en-el-marketplace_1.png)
 
-__ ¡Recuerde! __ Este elemento de información se crea cuando se genera la factura fiscal y funciona en ERP. Si tiene uno, solicítelo.
+> Este elemento de información se crea cuando se genera la factura fiscal y funciona en ERP. Si tiene uno, solicítelo.
 
 Este valor puede ser ingresado manualmente por el administrador o por el [API de notificación de factura](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), en el campo **invoiceKey**.
 
