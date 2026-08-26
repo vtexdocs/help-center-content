@@ -30,11 +30,11 @@ In the case of feeds with products in the **Clothing and accessories** category,
 - `'disponibilidade'[g:availability]`
 - `'condição'[g:condition]`
 
-Attributes like `tamanho'[g:size]` and `'cor' [g:color]` should be filled out with the value of the specification created.
+Attributes like `'tamanho'[g:size]` and `'cor' [g:color]` should be filled out with the value of the specification created.
 
 This demand should be dealt with using product specifications.
 
-Creating a Group that includes the attributes described above so as to comply with the default value required for the XML of Google Shopping.
+Create a Group that includes the attributes described above so as to comply with the default value required for the XML of Google Shopping.
 
 ## How to do it
 
@@ -48,7 +48,7 @@ We will create a group with the name **Atributos Google** in the root category o
    After doing so, the selected category will also appear on the right portion of the screen. It will have an `Actions` button on its side.
 4. Click on the `Actions` button and then on __Group__.
 5. Click on the `New Group` button to add a new group.
-6. You will be redirected to a new screen, where you should fill the name and confirm the category of the new group.
+6. You will be redirected to a new screen, where you should fill in the name and confirm the category of the new group.
 7. Click on the `Save` button.
 
 ### Product field

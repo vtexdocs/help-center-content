@@ -53,7 +53,7 @@ Tras finalizar la exportación recibirás un email con un link para descargar el
 La siguiente tabla presenta la descripción y ejemplo de valor de los campos de la plantilla de importación de especificaciones de producto. Los campos obligatorios están marcados con un asterisco (*).
 
 | Campo | Descripción | Ejemplo |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | ID Producto* | Código numérico único identificador del producto. | 310117603 |
 | Nombre de producto | Nombre del producto que los clientes ven al navegar. | Camiseta de algodón |
 | Código de referencia Producto | Código de referencia único del producto, utilizado internamente por la tienda. Para llenar este campo, usa una combinación de letras y/o números. | camisaColor |

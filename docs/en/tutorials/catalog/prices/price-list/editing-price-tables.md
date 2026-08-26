@@ -25,7 +25,7 @@ To edit the price table settings, follow the instructions below:
 
 After that, you will receive a spreadsheet with the specified data in your email. Edit the SKU information in the file, such as their IDs and prices.
 
-After saving the new spreadsheet, import it again in the Admin.
+After saving the new spreadsheet, import it again into the Admin.
 
 Follow the steps below:
 

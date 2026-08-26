@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-doesnt-the-product-field-appear-as-a-filter
 ---
 
-In the category, you can register a product field – or product specification. In the product field, you can select two options of filters: **Link no Menu Superior **and **Link no Menu Lateral. ** These links will form the filters in the main or side menus.  However, for this to happen, the field created must have one of the following types:
+In the category, you can register a product field – or product specification. In the product field, you can select two filter options: **Link in Top Menu** and **Link in Side Menu.** These links will form the filters in the main or side menus.  However, for this to happen, the field created must have one of the following types:
 
 - **Combo**
 - **Radio**
@@ -22,7 +22,7 @@ In the category, you can register a product field – or product specification. 
 
 _Text types should not be created as filters, since they may contain large values, as well as HTML, making it difficult for end clients to browse._
 
-It is important to remember that these features will be available in the Menu if there are active products. The SearchNavigator controller identifies in the product the existence of the filter. If there are no products with this attribute, Menu does not render this option.
+It is important to remember that these features will be available in the Menu if there are active products. The SearchNavigator controller identifies whether the filter exists on the product. If there are no products with this attribute, the menu does not render this option.
 
 For customers who integrate products from other stores in their catalog, it is necessary to index the product after its addition to the catalog so that the indexer overrides the seller's specifications.
 

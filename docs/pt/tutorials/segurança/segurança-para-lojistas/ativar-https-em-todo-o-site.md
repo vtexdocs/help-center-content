@@ -58,7 +58,7 @@ Todas as páginas do site podem ser alteradas individualmente conforme o artigo 
 
 É possível alterar o protocolo em todas as pastas de uma única vez com o uso de nossa API, documentada [nesta coleção do Postman](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api).
 
-> ⚠️ **Atenção:** evite ter o protocolo HTTPS ativado somente em algumas páginas. Ao acessar uma página HTTPS, depois ir para uma página HTTP da mesma loja, o navegador tentará fazer a leitura dos seus recursos forçadamente em HTTPS, e isso pode gerar problemas. O adequado é ativar o HTTPS em todo o site de uma única vez. O mesmo vale para websites desktop e mobile (website filho), aonde é necessário tratar o HTTPS de ambos ao mesmo tempo.
+> ⚠️ Evite ter o protocolo HTTPS ativado somente em algumas páginas. Ao acessar uma página HTTPS, depois ir para uma página HTTP da mesma loja, o navegador tentará fazer a leitura dos seus recursos forçadamente em HTTPS, e isso pode gerar problemas. O adequado é ativar o HTTPS em todo o site de uma única vez. O mesmo vale para websites desktop e mobile (website filho), aonde é necessário tratar o HTTPS de ambos ao mesmo tempo.
 
 ## Limitações
 

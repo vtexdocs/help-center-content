@@ -21,7 +21,7 @@ O processo acontece em duas etapas principais:
 O Intelligent Search tenta localizar produtos que correspondam à busca em grupos sequenciais. Assim que um grupo retorna resultados, os grupos seguintes não são avaliados.
 
 | Grupo | Lógica                               | Descrição                                                                                                                               | Prioridade       |
-| :---- | :----------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
+| ---- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1     | [AND sem fuzzy](#operadores-e-fuzzy) | Busca produtos que contenham todas as palavras pesquisadas exatamente como digitadas, sem tolerância a variações ou erros de digitação. | Maior prioridade |
 | 2     | [AND com fuzzy](#operadores-e-fuzzy) | Busca produtos com todas as palavras, mas aceita pequenas variações (ex: erros de digitação, diferença de acentuação).                  |                  |
 | 3     | [OR sem fuzzy](#operadores-e-fuzzy)  | Aceita produtos que contenham qualquer uma das palavras pesquisadas, mas exige correspondência exata.                                   |                  |
@@ -52,7 +52,7 @@ O Intelligent Search tenta localizar produtos que correspondam à busca em grupo
 Após identificar os produtos correspondentes, o Intelligent Search aplica um algoritmo de pontuação para definir a ordem de exibição. A tabela abaixo lista os fatores em ordem decrescente de prioridade:
 
 | #   | Fator                                           | Descrição                                                                                                         | Exemplo                                                                                                                        |
-| :-- | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| -- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Produto promovido por regra de merchandising    | Produto explicitamente priorizado pelo lojista via regra de merchandising.                                        | Regra promovendo "Sempre Free noturno" → aparece no topo mesmo que outro absorvente corresponda melhor à busca.                |
 | 2   | Produto adicionado por regra de merchandising   | Produto forçado a aparecer nos resultados mesmo sem correspondência direta com o termo buscado.                   | Busca por "vitamina C" → "kit imunidade com vitamina C e zinco" aparece por regra, ainda que não bata diretamente com a query. |
 | 3   | Correspondência de ID completo                  | O consumidor pesquisou exatamente o ID do produto.                                                                | Busca por "123456" → produto com esse ID é exibido com alta prioridade.                                                        |
@@ -77,7 +77,7 @@ A keyword é a palavra principal que define o produto. O Intelligent Search a id
 **Exemplos:**
 
 | Idioma    | Nome do produto                          | Keyword   | Regra          |
-| :-------- | :--------------------------------------- | :-------- | :------------- |
+| -------- | --------------------------------------- | -------- | ------------- |
 | Português | Protetor solar facial FPS 50             | protetor  | 1ª palavra     |
 | Espanhol  | Protector solar facial FPS 50            | protector | 1ª palavra     |
 | Inglês    | Facial SPF 50 sunscreen                  | sunscreen | última palavra |
@@ -128,7 +128,7 @@ Um produto que veio de sinônimo mas tem match de keyword será mais relevante d
 Quando dois ou mais produtos têm pontuação de relevância similar, o Intelligent Search utiliza os critérios das [regras de relevância](https://help.vtex.com/pt/docs/tutorials/regras-de-relevancia) configurados pelo lojista para desempatar. Os critérios disponíveis são:
 
 | Critério                       | Descrição                                                    |
-| :----------------------------- | :----------------------------------------------------------- |
+| ----------------------------- | ----------------------------------------------------------- |
 | Desconto                       | Produtos com maior percentual de desconto ganham prioridade. |
 | Data de lançamento             | Produtos mais recentes são priorizados.                      |
 | Mais vendidos                  | Ordenação por volume de pedidos.                             |
@@ -145,7 +145,7 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 ### Busca: "dorflex"
 
 | Produto (marca)                             | Relevância | Justificativa                                                                                                     |
-| :------------------------------------------ | :--------- | :---------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------------- |
 | Dorflex 10 comprimidos (Dorflex)            | Alta       | Keyword do nome "Dorflex" + marca "Dorflex": duplo match cumulativo, maior pontuação.                             |
 | Analgésico Dorflex 36 comprimidos (Dorflex) | Empate\*   | Só match de marca "Dorflex": um match de keyword.                                                                 |
 | Dorflex 36 comprimidos (Sanofi)             | Empate\*   | Só match de keyword do nome "Dorflex": um match de keyword. Desempate pelos critérios de relevância configurados. |
@@ -155,7 +155,7 @@ O impacto de cada critério é determinado pelo peso configurado pelo lojista. S
 ### Busca: "minoxidil"
 
 | Produto (marca)                                          | Relevância | Justificativa                                                                                                       |
-| :------------------------------------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
+| ------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------ |
 | Minoxidil Turbinado 120ml (Minoxidil)                    | Alta       | Keyword do nome "Minoxidil" + marca "Minoxidil": duplo match cumulativo.                                            |
 | Pant Minoxidil 50mg/ml 50ml 3 Frascos (Minoxidil)        | Empate\*   | Só match de marca "Minoxidil": um match de keyword.                                                                 |
 | Minoxidil 50mg/ml Biosintética 50ml Spray (Biosintética) | Empate\*   | Só match de keyword do nome "Minoxidil": um match de keyword. Desempate pelos critérios de relevância configurados. |

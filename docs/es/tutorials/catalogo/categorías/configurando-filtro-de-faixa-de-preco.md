@@ -1,5 +1,5 @@
 ---
-title: 'Configurar filtro de rangos de precio'
+title: 'Configurando filtro de rangos de precio'
 id: tutorials_240
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:49.904Z

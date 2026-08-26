@@ -60,8 +60,8 @@ Na página Gerenciar grupos, você encontra às seguintes opções:
 
 E cada grupo apresenta os seguintes campos
 
-| **Campo** | **Descrição** |  
-|:-:|:---:|
+| Campo | Descrição |  
+|-|---|
 | Grupo | Nome do grupo, este definido no momento de criação ou após a renomeação. |  
 | Sellers ativos | Quantidade de sellers setados naquele grupo, que estão ativos e divulgando seus produtos no marketplace. |  
 | Sellers pausados | Quantidade de sellers setados naquele grupo, mas que não estão ativos divulgando seus produtos no marketplace. |  

@@ -14,7 +14,7 @@ locale: en
 legacySlug: what-to-do-when-the-avise-me-doesnt-show
 ---
 
-There is a situation in which, despite having [set up the “Notify me” option](/en/tutorial/set-up-the-avise-me) correctly, it does not appear. This happens **when the category display type is marked as “List of SKUs”.**
+There is a situation in which the “Notify me” option does not appear, even if you have [set it up](/en/tutorial/set-up-the-avise-me) correctly. This happens **when the category display type is marked as “List of SKUs”.**
 
 ![categoria-lista-de-skus EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/what-to-do-when-the-notify-me-option-is-not-displayed_1.png)
 

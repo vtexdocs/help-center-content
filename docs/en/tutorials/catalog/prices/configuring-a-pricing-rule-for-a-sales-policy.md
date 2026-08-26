@@ -27,9 +27,9 @@ To create a pricing rule specific to a sales policy, follow the steps below:
 2. Click on `New rule`.
 3. In the __Sales channel__ field, choose the desired sales channel.
 4. Choose whether the rule will be applied to __all products__ of this policy or __only in categories and brands chosen__.
-5. Choose if the rule will be applied to itens within a __markup range__.
+5. Choose if the rule will be applied to items within a __markup range__.
 6. Choose if the rule will be applied to a specific __period of time__.
-7. Finally, choose what will be the price variation of this rule in relation to the base price of the products. Notice that a negative value indicates a discount should be applied.
+7. Finally, choose what the price variation of this rule will be in relation to the base price of the products. Notice that a negative value indicates a discount should be applied.
 8. Click on `Save`.
 
 You now have a pricing rule configured for a sales policy.

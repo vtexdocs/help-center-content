@@ -69,11 +69,11 @@ No exemplo acima, como já existe um registro com o **Nome** igual a **Maria**, 
 
 Se houver mais de um campo no índice, a chave alternativa vai impedir que um conjunto de valores se repita nos campos selecionados.
 
-Por exemplo, imagine que a entidade **Cliente **possui três campos: **ID**, **Nome** e **Documento**. Na configuração do índice, em **Campos**, foram inseridos Nome (`firstName`) e Documento (`document`), conforme ilustrado abaixo:
+Por exemplo, imagine que a entidade **Cliente** possui três campos: **ID**, **Nome** e **Documento**. Na configuração do índice, em **Campos**, foram inseridos Nome (`firstName`) e Documento (`document`), conforme ilustrado abaixo:
 
 ![indices-3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/configurações-da-loja/master-data/configurações-do-master-data-v1/indices-no-master-data_3.png)
 
-Nesse caso, o valor do **Nome** pode se repetir ou o valor do **Documento** pode se repetir. Porém, a combinação dos dois valores não pode se repetir, ou seja, não pode existir nenhum registro que repita o mesmo par (**Nome** e **Documento **iguais).
+Nesse caso, o valor do **Nome** pode se repetir ou o valor do **Documento** pode se repetir. Porém, a combinação dos dois valores não pode se repetir, ou seja, não pode existir nenhum registro que repita o mesmo par (**Nome** e **Documento** iguais).
 
 ![indices-4-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/configurações-da-loja/master-data/configurações-do-master-data-v1/indices-no-master-data_4.png)
 

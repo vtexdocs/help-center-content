@@ -23,11 +23,11 @@ Follow the instructions below to create a category:
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click __Categories__.
-4. Click the first level of the category.
-5. Click `Actions`.
-6. Click `Include`.
-7. Fill up the fields, described below.
-8. Click `Save`.
+3. Click the first level of the category.
+4. Click `Actions`.
+5. Click `Include`.
+6. Fill in the fields, described below.
+7. Click `Save`.
 
 ## Filling in the category registration fields
 
@@ -37,13 +37,13 @@ To better understand the meaning of each category registration field, see the fu
 
   > ❗ When filling in the category **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
-- __Similar words:__ Synonyms of terms related to the name given to your department or category. "Television", for example, can have as a substitute word like "TV". This field is important to make your searches more comprehensive and must respect the 200 character limit.
+- __Similar words:__ Synonyms of terms related to the name given to your department or category. "Television", for example, can have a substitute word like "TV". This field is important to make your searches more comprehensive and must respect the 200 character limit.
 - __Category page title (title tag):__ Text that is displayed in the browser tab and corresponds to the page title of the category. This field is important for SEO search engines. It only supports plain text and cannot contain HTML tags.
 - __Category description (description meta tag):__ Brief description of the category. It's recommended that you don't exceed 150 characters so that search engines can display it correctly in the result pages. This field only supports plain text and cannot contain HTML tags.
 - __AdWords remarketing code:__ Code used for Google Adwords campaign.
 - __Lomadee campaign code:__ Code used by Buscapé campaigns.
-- __Parent category:__ If the registered category is a child one category, that is, a subcategory or a category inside a department, this field must inform the parent category to which it belongs.
-- __VTEX global category:__ It belongs to a single category tree, already defined by the system, that will be used to integrate products with Google Shopping, Buscapé and marketplaces. A good mapping makes your store products also found in partners more effectively.
+- __Parent category:__ If the registered category is a child category, that is, a subcategory or a category inside a department, this field must inform the parent category to which it belongs.
+- __VTEX global category:__ It belongs to a single category tree, already defined by the system, that will be used to integrate products with Google Shopping, Buscapé and marketplaces. A good mapping helps partners find your store's products more effectively.
 - __Menu:__ When selecting this item, the category or department will appear in the top menu and the side menu of your store.
 - __Active:__ When selecting this item, the category or department is activated or deactivated in your store.
 - __Menu with active link:__ When selecting this item, the category or department is active and clickable on the site for the client to navigate through it.

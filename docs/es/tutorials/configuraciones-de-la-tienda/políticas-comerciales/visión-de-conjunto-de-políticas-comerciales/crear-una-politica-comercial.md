@@ -41,7 +41,7 @@ Para agregar una política comercial sigue las instrucciones a continuación:
 4. Completa los campos de la política comercial:
 
 | Campo | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Nombre** | Nombre de identificación interna de la política comercial. |
 | **Colección** | Este campo quedó obsoleto y no está disponible para su uso. |
 | **Sellers** | Define los sellers asociados a la política comercial. Si no se selecciona ningún seller, todos los sellers de la cuenta se considerarán automáticamente. |

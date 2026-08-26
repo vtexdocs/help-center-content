@@ -58,8 +58,8 @@ The chart shows the following information:
 
 The **Operational capacity** page displays the following information:
 
-| **Column** | **Description** |
-|:---:|:---|
+| Column | Description |
+|---|---|
 | Seller | Identification of the [seller](/en/docs/tutorials/what-is-a-seller) to which operational capacity applies to. |
 | Segmentation | Identification of the type of segmentation used for operational capacity. There are two types of segmentation: by sellers or by [sales channel](https://help.vtex.com/en/docs/tutorials/how-trade-policies-work). To enable segmentation by sales channel, contact [our Support](https://supporticket.vtex.com/support). |
 | Capacity usage | Percentage of the seller operational capacity used that day. **Example:** If a seller with a daily capacity of 100 orders has used 80% of their capacity, they can only receive 20 more new orders that day. In this column, an alert icon is displayed when the seller reaches 100% of their capacity, so they can't receive any new orders that day. You can [edit sellers' operational capacity](#editing-the-operational-capacity-unit-of-sellers) individually or in bulk. |

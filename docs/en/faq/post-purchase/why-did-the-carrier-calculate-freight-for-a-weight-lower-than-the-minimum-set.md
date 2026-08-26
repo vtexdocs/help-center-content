@@ -14,18 +14,18 @@ locale: en
 legacySlug: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-minimum-set
 ---
 
-Freight calculation always considers two parameters: product weight and volume. The priority in calculation is always given to the minimum weight or cubed weight &#8211; the one with highest value. However, if the weight of a product is lower than the minimum registered for a carrier, volume will be considered.
+Freight calculation always considers two parameters: product weight and volume. The priority in calculation is always given to the minimum weight or cubed weight &#8211; the one with the highest value. However, if the weight of a product is lower than the minimum registered for a carrier, volume will be considered.
 
 ## Examples
 
-- The carrier previews a weight range of 30 to 100 kg, and a maximum volume of 1000 m³.
+- The carrier specifies a weight range of 30 to 100 kg, and a maximum volume of 1000 m³.
 - The product to be delivered weighs 10 kg, and has a volume of 10 m³.
 
 When calculating freight, the platform will understand that the carrier won&#8217;t consider the weight, since it is lower than the minimum registered (30 kg). It will, however, calculate freight considering that the product has a smaller volume than the maximum registered for that ZIP code range. So, freight price will be considered according to the first weight range. That also occurs because it is implied that, if one carrier is capable of carrying 100 kg, it can carry 10 kg without problems.
 
 On the other hand, if a product is heavier than the maximum weight registered for the carrier, freight won&#8217;t be available, even if the volume is smaller than the maximum volume registered.
 
-- The carrier previews a weight range of 30 to 100 kg, and a maximum volume of 1000 m³.
+- The carrier specifies a weight range of 30 to 100 kg, and a maximum volume of 1000 m³.
 - The product to be delivered weighs 101 kg, and has a volume of 100 m³.
 
 In this situation, the platform will understand that, because the weight of the product is heavier than the transport capacity (100 kg), it can&#8217;t be delivered, even though it is a package that fits into the truck.

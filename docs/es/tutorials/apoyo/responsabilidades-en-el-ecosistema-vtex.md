@@ -170,7 +170,7 @@ Respecto al soporte a una operación en este contexto, es importante que el reta
 
 Estas son las responsabilidades que conlleva la actualización o el envío de nuevos productos y SKU a un marketplace externo:
 
-| **Player** | **Responsabilidades** |
+| Player | Responsabilidades |
 |---|---|
 | **VTEX** | Enviar notificación de un nuevo producto o SKU creado o actualizado al endpoint del proveedor proporcionado por el hub y registrado en la plataforma VTEX. |
 | **Conector partner (hub de integración)** | Procesar la notificación y enviar el producto o SKU actualizado al marketplace. <br /><br />Este procesamiento engloba diversas fases, como comprobar si ese SKU ya existe en el marketplace y registrarlo como nuevo si es necesario, validar si el producto está activo y asociado a la política comercial del marketplace, ejecutar una simulación de pedido para comprobar el precio y stock del SKU actualizados, entre otras. |
@@ -184,7 +184,7 @@ Consulta las responsabilidades que conlleva la actualización o creación de ped
 2. El **conector** se encarga de crear el pedido en VTEX.
 3. VTEX responde al conector con el status de creación del pedido, que puede ser éxito o error. En esta fase, si se produce un fallo en la creación del pedido en VTEX, o si el pedido se crea con el status **Cancelado**, es necesario ponerse en contacto con el soporte del conector.
 4. Una vez creado el pedido en VTEX, la responsabilidad de actualizar su status en el OMS depende de la fase del proceso:
-* Si el status del pedido es Preparando envío o Facturado, por ejemplo, es responsabilidad del **ERP **notificarlo a VTEX.
+* Si el status del pedido es Preparando envío o Facturado, por ejemplo, es responsabilidad del **ERP** notificarlo a VTEX.
 * Si el pedido fue cancelado en el marketplace, la responsabilidad recae en el **conector**.
 
 Para más información sobre quién es responsable de cada fase del flujo de pedidos en un escenario de marketplace externo, consulta [Flujo y status de pedidos - Flujo de sellers](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller).

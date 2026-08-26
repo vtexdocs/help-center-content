@@ -357,7 +357,7 @@ This role grants access to all License Manager resources, except **Save user**.
 Resource table:
 
 | Resource name | Product | Category | Description |
-| :---- | :---- | :---- | :---- |
+| ---- | ---- | ---- | ---- |
 | Payments Notification | PCI Gateway | Payment-NotifyPayments | Payment approval notification using the Payments Gateway API. |
 
 ## Seller Manager

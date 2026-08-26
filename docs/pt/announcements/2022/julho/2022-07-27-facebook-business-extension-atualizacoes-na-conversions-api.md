@@ -27,7 +27,7 @@ A melhoria possibilita maximizar a confiabilidade dos dados coletados, a corresp
 
 Até então as lojas que utilizavam a Conversions API só podiam mensurar dados de navegação relacionados ao evento de "*Purchase*", ou seja, fechamento da compra. Agora, é possível mensurar também os eventos de:
 
-| **Evento** | **Descrição** |
+| Evento | Descrição |
 | ------------- |-------------| 
 | PageView | Quando a página do produto é visualizada. |
 | View Content | Quando o conteúdo é visualizado. |

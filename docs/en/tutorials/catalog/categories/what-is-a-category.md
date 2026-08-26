@@ -25,7 +25,7 @@ When you create categories for your store, think thoroughly about the structure 
 
 
 
-__Sofa (Parent) __
+__Sofa (Parent)__
 
 
 2 places (Child)
@@ -40,7 +40,7 @@ __Sofa (Parent) __
 ---
 
 
-__Bed (Parent) __
+__Bed (Parent)__
 
 
 Single (Child)
@@ -56,7 +56,7 @@ King (Child)
 
 ---
 
-__Bookcase (Parent) __
+__Bookcase (Parent)__
 
 
 2 shelves (Child)

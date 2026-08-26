@@ -12,7 +12,7 @@ order: 2
 Ao [configurar localidades(locales)](https://help.vtex.com/pt/docs/tutorials/configurar-localidades), alguns tipos de conteúdo não precisam de localização. Por exemplo, você pode ter uma imagem de banner sem texto ou um nome de marca que permanece o mesmo em todos os idiomas. Estratégias de fallback ajudam a evitar a duplicação desnecessária desse tipo de conteúdo. Abaixo apresentamos duas abordagens comuns:  
 
 | Caso de uso | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | [Localidade padrão como fallback para outras localidades](#localidade-padrão-como-fallback-para-outras-localidades) | Use quando a maior parte do conteúdo é compartilhada e outras localidades apenas alteram partes específicas. |
 | [Fallback do idioma principal com variações regionais](fallback-do-idioma-principal-com-variações-regionais) | Use ao gerenciar variações regionais herdadas de uma localidade base do idioma. |
 

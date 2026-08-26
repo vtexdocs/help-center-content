@@ -1,5 +1,5 @@
 ---
-title: 'Como Incluir Metadados ao exportar planilha de preços'
+title: 'Incluindo metadados ao exportar planilha de preços'
 id: 4ELD4MlJ1mNsLtktGAMHVi
 status: PUBLISHED
 createdAt: 2019-05-27T21:21:41.695Z

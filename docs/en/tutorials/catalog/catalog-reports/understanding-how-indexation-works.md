@@ -1,5 +1,5 @@
 ---
-title: 'How indexing works'
+title: 'Understanding how indexing works'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z
@@ -35,7 +35,7 @@ Once a product is marked for reindexing, the text _pending indexing_ is included
 
 ## Indexing Report
 
-The indexing report is a page in the admin panel which shows the products indexing status of your store. The path to access it is as follows:
+The indexing report is a page in the admin panel which shows the indexing status of your store's products. The path to access it is as follows:
 
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click on **Reports**.

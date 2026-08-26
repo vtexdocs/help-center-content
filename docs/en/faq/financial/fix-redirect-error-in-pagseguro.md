@@ -14,15 +14,15 @@ locale: en
 legacySlug: fix-redirect-error-in-pagseguro
 ---
 
-> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024). The article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 If you are having "redirect problems" using PagSeguro, it's likely that PagSeguro's *redirect* is configured incorrectly.
 
-To fix the problem, there are two options: Set the PagSeguro *with redirect* in the correct way or configure the PagSeguro *without redirect*.
+To fix the problem, there are two options: Set up PagSeguro with redirect correctly, or configure PagSeguro without redirect.
 
 ## Setting up PagSeguro *with redirect*
 
-### Configuring Gateway Affiliation PagSeguro
+### Configuring the PagSeguro Gateway Affiliation
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
@@ -43,14 +43,14 @@ To fix the problem, there are two options: Set the PagSeguro *with redirect* in 
 
 ## Setting up PagSeguro *without redirect*
 
-### Configuring PagSeguro Gateway Affiliation without redirect
+### Configuring the PagSeguro Gateway Affiliation without redirect
 
 1. Access the __Payments__ section.
 2. Click the __Settings__ button.
 3. Click on the __Gateway Affiliations__ tab.
 4. Click the __+__ button in the upper right corner of the screen.
-5. Click on the __PagSecure without redirect__ affiliation.
-6. Follow our [PagSeguro configuration tutorial without redirect](/en/tutorial/how-configure-the-pagseguro-without-redirect-transparent)
+5. Click on the __PagSeguro without redirect__ affiliation.
+6. Follow our [PagSeguro configuration tutorial without redirect](/en/tutorial/how-configure-the-pagseguro-without-redirect-transparent).
 
 ### Setting the Payment Condition
 
