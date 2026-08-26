@@ -8130,7 +8130,7 @@
             },
             {
               "name": {
-                "en": "Suggestions module returns error when trying to process SKU suggestion. What to do?",
+                "en": "The Suggestions module returns an error when trying to process an SKU suggestion. What should I do?",
                 "es": "Suggestion devuelve error al intentar procesar sugerencia de SKU. ¿Que hacer?",
                 "pt": "Sugestões retorna erro ao tentar processar sugestão de SKU. O que fazer?"
               },
@@ -8220,7 +8220,7 @@
             },
             {
               "name": {
-                "en": "Why do some products, SKUs or orders are not integrating with VTEX?",
+                "en": "Why are some products, SKUs, or orders not integrating with VTEX?",
                 "es": "¿Por qué algunos productos, SKUs o pedidos no integran con VTEX?",
                 "pt": "Por que alguns produtos, SKUs ou pedidos não estão integrando com a VTEX?"
               },
@@ -8310,7 +8310,7 @@
             },
             {
               "name": {
-                "en": "Why is it not possible to integrate a VTEX marketplace to other marketplaces?",
+                "en": "Why is it not possible to integrate a VTEX marketplace with other marketplaces?",
                 "es": "¿Por qué no puedo integrar un marketplace VTEX con otro marketplace?",
                 "pt": "Por que não consigo integrar um marketplace VTEX com outro marketplace?"
               },
@@ -8325,7 +8325,7 @@
             },
             {
               "name": {
-                "en": "Why isn’t my product deactivated on the marketplace",
+                "en": "Why isn’t my product deactivated on the marketplace?",
                 "es": "¿Por qué el producto no es inactivado en el marketplace?",
                 "pt": "Por que meu produto não é inativado no marketplace?"
               },
@@ -8536,7 +8536,7 @@
             },
             {
               "name": {
-                "en": "Why has a transaction been successfully settled but not finalized in the Payments?",
+                "en": "Why has a transaction been successfully settled but not finalized in Payments?",
                 "es": "¿Por qué una transacción fue liquidada con éxito pero no fue finalizada en el Pagos?",
                 "pt": "Por que uma transação foi liquidada com sucesso mas não foi finalizada em Pagamentos?"
               },
@@ -8566,7 +8566,7 @@
             },
             {
               "name": {
-                "en": "Why was not an order sent to the anti-fraud?",
+                "en": "Why was an order not sent to the anti-fraud?",
                 "es": "¿Por qué un pedido no fue enviado al antifraude?",
                 "pt": "Por que um pedido não foi enviado para o antifraude?"
               },
@@ -8612,7 +8612,7 @@
             },
             {
               "name": {
-                "en": "What to do with error when accessing Orders module",
+                "en": "What to do with an error when accessing the Orders module",
                 "es": "Que hacer cuando hay un error de acceso en el módulo Pedidos",
                 "pt": "O que fazer em caso de erro de acesso ao módulo Pedidos"
               },
@@ -8627,22 +8627,7 @@
             },
             {
               "name": {
-                "en": "Why after signing in to the administrative panel I am redirected to my store?",
-                "es": "¿Por qué al entrar en el panel administrativo soy redirigido a mi tienda?",
-                "pt": "Por que ao fazer login no painel administrativo sou redirecionado para minha loja?"
-              },
-              "slug": {
-                "en": "why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store",
-                "es": "por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda",
-                "pt": "por-que-login-no-admin-redireciona-para-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why authentication with appkey and apptoken doesn't work?",
+                "en": "Why doesn't authentication with appkey and apptoken work?",
                 "es": "¿Por qué  no funciona la autentificación con appkey y apptoken?",
                 "pt": "Por que a autenticação utilizando appKey e appToken não funciona?"
               },
@@ -8650,6 +8635,21 @@
                 "en": "why-doesnt-authentication-with-appkey-and-apptoken-work",
                 "es": "por-que-no-funciona-la-autentificacion-con-appkey-y-apptoken",
                 "pt": "por-que-a-autenticacao-utilizando-appkey-e-apptoken-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why, after signing in to the administrative panel, am I redirected to my store?",
+                "es": "¿Por qué al entrar en el panel administrativo soy redirigido a mi tienda?",
+                "pt": "Por que ao fazer login no painel administrativo sou redirecionado para minha loja?"
+              },
+              "slug": {
+                "en": "why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store",
+                "es": "por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda",
+                "pt": "por-que-login-no-admin-redireciona-para-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -8673,7 +8673,7 @@
           "children": [
             {
               "name": {
-                "en": "How to associate two promotions to the same coupon",
+                "en": "How to associate two promotions with the same coupon",
                 "es": "Cómo vincular dos promociones al mismo cupón",
                 "pt": "Como vincular duas promoções ao mesmo cupom"
               },
@@ -8681,21 +8681,6 @@
                 "en": "how-to-associate-two-promotions-to-the-same-coupon",
                 "es": "como-vincular-dos-promociones-al-mismo-cupon",
                 "pt": "como-vincular-duas-promocoes-ao-mesmo-cupom"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "I can not edit SKUs. What to do?",
-                "es": "No puedo editar SKUs. ¿Que hacer?",
-                "pt": "Não consigo editar SKUs. O que fazer?"
-              },
-              "slug": {
-                "en": "i-cannot-edit-skus",
-                "es": "no-puedo-editar-skus",
-                "pt": "nao-consigo-editar-skus"
               },
               "origin": "",
               "type": "markdown",
@@ -8718,7 +8703,22 @@
             },
             {
               "name": {
-                "en": "I received the message error \"the limit of activated calculators has been reached\". What to do?",
+                "en": "I cannot edit SKUs. What should I do?",
+                "es": "No puedo editar SKUs. ¿Que hacer?",
+                "pt": "Não consigo editar SKUs. O que fazer?"
+              },
+              "slug": {
+                "en": "i-cannot-edit-skus",
+                "es": "no-puedo-editar-skus",
+                "pt": "nao-consigo-editar-skus"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "I received the error message \"the limit of activated calculators has been reached\". What should I do?",
                 "es": "He recibido el mensaje de error \"the limit of activated calculators has been reached\". Que hacer?",
                 "pt": "Recebi a mensagem de erro \"the limit of activated calculators has been reached\". O que fazer?"
               },
@@ -8763,7 +8763,7 @@
             },
             {
               "name": {
-                "en": "I've edited a placeholder and the site hasn't been updated. What to do?",
+                "en": "I've edited a placeholder and the site hasn't been updated. What should I do?",
                 "es": "He editado un placeholder y el sitio no se actualiza. ¿Que hacer?",
                 "pt": "Editei um placeholder e o site não atualiza. O que fazer?"
               },
@@ -8793,7 +8793,7 @@
             },
             {
               "name": {
-                "en": "Search with specification parameter returns empty search. What to do?",
+                "en": "Search with a specification parameter returns an empty search. What should I do?",
                 "es": "Búsqueda con parámetro de especificación devuelve búsqueda vacía. ¿Que hacer?",
                 "pt": "Busca com parâmetro de especificação retorna busca vazia. O que fazer?"
               },
@@ -8868,6 +8868,36 @@
             },
             {
               "name": {
+                "en": "Why does the List Price not appear on my store's front end?",
+                "es": "¿Por qué el precio de lista no aparece en el front-end de mi tienda?",
+                "pt": "Por que o Preço de Lista não aparece no front-end da minha loja?"
+              },
+              "slug": {
+                "en": "why-the-price-list-does-not-appear-on-my-store-fron-end",
+                "es": "por-que-el-precio-de-lista-no-aparece-en-el-front-end-de-mi-tienda",
+                "pt": "por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why does the VTEX Search (Legacy) engine ignore some terms?",
+                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
+                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
+              },
+              "slug": {
+                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
+                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
+                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Why doesn't a search term return available products?",
                 "es": "¿Por qué un término buscado no retorna productos existentes?",
                 "pt": "Por que um termo buscado não retorna produtos existentes?"
@@ -8928,7 +8958,7 @@
             },
             {
               "name": {
-                "en": "Why I don't receive my abandoned cart emails?",
+                "en": "Why don't I receive my abandoned cart emails?",
                 "es": "¿Por qué no recibo el e-mail de Carrito Abandonado?",
                 "pt": "Por que não recebo email de carrinho abandonado?"
               },
@@ -9060,36 +9090,6 @@
               "origin": "",
               "type": "markdown",
               "children": []
-            },
-            {
-              "name": {
-                "en": "Why the List Price does not appear on my store's front end?",
-                "es": "¿Por qué el precio de lista no aparece en el front-end de mi tienda?",
-                "pt": "Por que o Preço de Lista não aparece no front-end da minha loja?"
-              },
-              "slug": {
-                "en": "why-the-price-list-does-not-appear-on-my-store-fron-end",
-                "es": "por-que-el-precio-de-lista-no-aparece-en-el-front-end-de-mi-tienda",
-                "pt": "por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why VTEX Search (Legacy) engine ignores some terms",
-                "es": "Por qué la VTEX Search (Legado) ignora algunos términos buscados",
-                "pt": "Por que a VTEX Search (Legado) ignora alguns termos buscados"
-              },
-              "slug": {
-                "en": "why-vtex-search-legacy-engine-ignores-some-terms",
-                "es": "por-que-vtex-search-legado-ignora-algunos-terminos-buscados",
-                "pt": "por-que-vtex-search-legado-ignora-alguns-termos-buscados"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         },
@@ -9124,7 +9124,7 @@
             },
             {
               "name": {
-                "en": "My site is slow. What to do?",
+                "en": "My site is slow. What should I do?",
                 "es": "Mi sitio está lento. ¿Que hacer?",
                 "pt": "Meu site está lento. O que fazer?"
               },
@@ -9184,7 +9184,7 @@
             },
             {
               "name": {
-                "en": "Why have not orders been associated with a list?",
+                "en": "Why have orders not been associated with a list?",
                 "es": "¿Por qué pedidos no se asociaron a una lista?",
                 "pt": "Por que pedidos não foram associados a uma lista?"
               },
@@ -9245,7 +9245,7 @@
             },
             {
               "name": {
-                "en": "Error 404 when trying to cancel order. What to do?",
+                "en": "Error 404 when trying to cancel order. What should I do?",
                 "es": "Error 404 al intentar cancelar pedido. ¿Que hacer?",
                 "pt": "Erro 404 ao tentar cancelar pedido. O que fazer?"
               },
@@ -9275,7 +9275,7 @@
             },
             {
               "name": {
-                "en": "How to find customers that has ordered the most?",
+                "en": "How to find customers that have ordered the most?",
                 "es": "¿Cómo veo a los clientes que más han comprado?",
                 "pt": "Como vejo os clientes que mais compraram?"
               },
@@ -9350,7 +9350,7 @@
             },
             {
               "name": {
-                "en": "The order was billed in the ERP but remains in the \"Preparing Delivery\" status. What to do?",
+                "en": "The order was billed in the ERP but remains in the \"Preparing Delivery\" status. What should I do?",
                 "es": "El pedido fue facturado en el ERP pero continúa en el status \"Preparando Entrega\". ¿Que hacer?",
                 "pt": "O pedido foi faturado no ERP mas continua no status \"Preparando Entrega\". O que fazer?"
               },
@@ -9365,7 +9365,7 @@
             },
             {
               "name": {
-                "en": "Visa Checkout orders do not appear in My Orders section",
+                "en": "Visa Checkout orders do not appear in the My Orders section",
                 "es": "Pedidos realizados con Visa Checkout no aparecen en el área de Mis Pedidos",
                 "pt": "Pedidos feitos com Visa Checkout não aparecem na área de Meus Pedidos"
               },
@@ -9395,7 +9395,7 @@
             },
             {
               "name": {
-                "en": "When trying to approve payment, Orders Managment returns \"authorize-fulfillment\" error. What to do?",
+                "en": "When trying to approve payment, Orders Management returns an \"authorize-fulfillment\" error. What should I do?",
                 "es": "Al intentar aprobar el pago, Gestión de Pedidos devuelve el error de \"authorize-fulfillment\". ¿Que hacer?",
                 "pt": "Ao tentar aprovar pagamento, Gerenciamento de Pedidos retorna erro. O que fazer?"
               },
@@ -9403,21 +9403,6 @@
                 "en": "when-trying-to-approve-payment-orders-managment-returns-authorize-fulfillment-error-what-to-do",
                 "es": "al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer",
                 "pt": "ao-tentar-aprovar-pagamento-gerenciamento-de-pedidos-retorna-erro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why an order was cancelled when its status “Ready for Handling”?",
-                "es": "¿Por qué un pedido fue cancelado en el status “Listo para preparar”?",
-                "pt": "Por que um pedido foi cancelado no status “Preparando Entrega”?"
-              },
-              "slug": {
-                "en": "why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega",
-                "es": "por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega",
-                "pt": "por-que-um-pedido-foi-cancelado-no-status-preparando-entrega"
               },
               "origin": "",
               "type": "markdown",
@@ -9575,7 +9560,7 @@
             },
             {
               "name": {
-                "en": "Why is my order with available stock failing in Orders module?",
+                "en": "Why is my order with available stock failing in the Orders module?",
                 "es": "¿Por qué mi pedido con stock disponible está dando error en el módulo Pedidos?",
                 "pt": "Por que meu pedido com estoque disponível está dando erro no módulo Pedidos?"
               },
@@ -9583,6 +9568,21 @@
                 "en": "why-is-my-order-with-available-stock-failing-in-orders-module",
                 "es": "por-que-mi-pedido-con-stock-disponible-esta-dando-error-en-el-modulo-pedidos",
                 "pt": "por-que-meu-pedido-com-estoque-disponivel-esta-dando-erro-no-modulo-pedidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why was an order cancelled when its status was “Ready for Handling”?",
+                "es": "¿Por qué un pedido fue cancelado en el status “Listo para preparar”?",
+                "pt": "Por que um pedido foi cancelado no status “Preparando Entrega”?"
+              },
+              "slug": {
+                "en": "why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega",
+                "es": "por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega",
+                "pt": "por-que-um-pedido-foi-cancelado-no-status-preparando-entrega"
               },
               "origin": "",
               "type": "markdown",
@@ -9682,7 +9682,7 @@
             },
             {
               "name": {
-                "en": "Checkout with \"store not found\" error. What to do?",
+                "en": "Checkout with \"store not found\" error. What should I do?",
                 "es": "Checkout con error \"tienda no encontrada\". ¿Que hacer?",
                 "pt": "Checkout com erro \"loja não encontrada\". O que fazer?"
               },
@@ -9697,7 +9697,7 @@
             },
             {
               "name": {
-                "en": "How to add more agents in a WhatsApp link?",
+                "en": "How to add more agents to a WhatsApp link?",
                 "es": "¿Cómo agregar más agentes en un link de WhatsApp?",
                 "pt": "Como adicionar mais atendentes em um link de WhatsApp?"
               },
@@ -9772,7 +9772,7 @@
             },
             {
               "name": {
-                "en": "How to find Linkedin Pixel?",
+                "en": "How to find LinkedIn Pixel",
                 "es": "¿Cómo encontrar Linkedin Pixel?",
                 "pt": "Como encontrar o Pixel do Linkedin?"
               },
@@ -9787,7 +9787,7 @@
             },
             {
               "name": {
-                "en": "Locate the Google ADS pixel",
+                "en": "Locate the Google Ads pixel",
                 "es": "Localiza el píxel de Google ADS",
                 "pt": "Localize o pixel do Google ADS"
               },
@@ -9832,7 +9832,7 @@
             },
             {
               "name": {
-                "en": "UTM's",
+                "en": "UTMs",
                 "es": "UTM's",
                 "pt": "UTM's"
               },
@@ -9907,7 +9907,7 @@
             },
             {
               "name": {
-                "en": "Why was the item splitted in the cart?",
+                "en": "Why was the item split in the cart?",
                 "es": "Por qué se separó el producto en el carrito?",
                 "pt": "Por que o item do carrinho foi separado?"
               },
@@ -44862,6 +44862,21 @@
                 "en": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
                 "es": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
                 "pt": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CheckoutOrderFormOwnership Cookie shipping information loss",
+                "es": "Pérdida de información de envío de cookies del formulario de pedido de pago",
+                "pt": "Perda de informações de envio do cookie CheckoutOrderFormOwnship"
+              },
+              "slug": {
+                "en": "checkoutorderformownership-cookie-shipping-information-loss",
+                "es": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+                "pt": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship"
               },
               "origin": "",
               "type": "markdown",

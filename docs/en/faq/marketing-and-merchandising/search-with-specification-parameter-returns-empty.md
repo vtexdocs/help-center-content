@@ -1,5 +1,5 @@
 ---
-title: 'Search with specification parameter returns empty search. What to do?'
+title: 'Search with a specification parameter returns an empty search. What should I do?'
 id: 5qG7kkEeOsG6OQgu8YAKko
 status: PUBLISHED
 createdAt: 2018-01-31T15:46:42.842Z

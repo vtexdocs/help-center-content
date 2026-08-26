@@ -14,15 +14,15 @@ locale: en
 legacySlug: untitled-entry-2019-02-20-at-05-47-19
 ---
 
-Lookbook Creation: it's possible that the product images will not appear in the shop window, even if they have already been inputed.
+Lookbook Creation: it's possible that the product images will not appear in the shop window, even if they have already been input.
 
 This can happen because of the Label. This identification works like a "tag" that organizes your site's page template.
 
 __Attention__: it's worth noting that the Label field is mandatory and does not support the use of special characters, accents or blanks.
 
-As much as the store sets up all products and their respective SKUs, if the Label field is empty, the Lookbook view does not work.
+Even if the store sets up all products and their respective SKUs, if the Label field is empty, the Lookbook view does not work.
 
-Bellow, learn how to set this feature up.
+Below, learn how to set this feature up.
 
 __Fill in the Label field__
 
