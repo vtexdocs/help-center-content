@@ -1,5 +1,5 @@
 ---
-title: 'Why VTEX Search (Legacy) engine ignores some terms'
+title: 'Why does the VTEX Search (Legacy) engine ignore some terms?'
 id: 2AbmsbKOogeaeuoESGaWAs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.346Z
@@ -27,9 +27,9 @@ If a user looks for the term "A pair of Nike sneakers", for the search engine, t
 
 Thus, the VTEX Search (Legacy) engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
 
-See below the complete list of blocked terms.
+See below for the complete list of blocked terms.
 
-> ⚠️ Currently, the blocked words list contains only words in portuguese.
+> ⚠️ Currently, the blocked words list contains only words in Portuguese.
 
 ```
 a

@@ -179,7 +179,7 @@ On the order details page, you can also track the progress of the [order flow](/
 
 ![order-flow-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-ii_3.png)
 
-To find a purchase record in the VTEX Admin, you can either [filter orders](/en/docs/tutorials/filtering-all-orders) on the **All Orders** page or use the global search bar, which is accessible from any page within the VTEX Admin. To search, simply select the `Orders` option in the right corner of the search bar and enter any of the following values:
+To find a purchase record in the VTEX Admin, you can either [filter orders](/en/docs/tutorials/filtering-all-orders) on the **All Orders** page or use the global search bar, which is accessible from any page within the VTEX Admin. To search, select the `Orders` option in the right corner of the search bar and enter any of the following values:
 
 - Order ID
 - Customer name

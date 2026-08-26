@@ -28,10 +28,10 @@ If a user looks for the term "A pair of Nike sneakers", for the search engine, t
 
 Thus, the VTEX Search (Legacy) engine contains a list of blocked (unimportant) words that assist in optimizing the result, as illustrated in the above example.
 
-If you need to use in your products words that perhaps are not important for the search engine, several good practices exist:
+If you need to use words in your products that may not be important to the search engine, several good practices exist:
 
-- Use product specification, redirecting the search term to the filter.
-- Use collection, redirecting the search term to a landing-page.
+- Use a product specification, redirecting the search term to the filter.
+- Use a collection, redirecting the search term to a landing-page.
 - Redirect the search term to a search context that makes sense (Category, brand or the product itself).
 
 The following article teaches you how to set up the redirection: [URL Mapping (301 Redirect)](/en/docs/tutorials/url-mapping-301-redirect/)

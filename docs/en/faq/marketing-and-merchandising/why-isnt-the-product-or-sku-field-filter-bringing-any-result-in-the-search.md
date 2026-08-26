@@ -20,7 +20,7 @@ You can use the search parameters to filter product fields or SKU fields in the 
 
 See how in the article [Search Parameters](/en/tutorial/search-parameters).
 
-But for the product or SKU field to work as a filter, the __Filter flag__ must be checked on the product field set up screen.
+But for the product or SKU field to work as a filter, the __Filter flag__ must be checked on the product field setup screen.
 
 To access this screen, follow the steps below:
 1. In the Catalog module, go to the __Products Management__ tab and click the __Category__ option.

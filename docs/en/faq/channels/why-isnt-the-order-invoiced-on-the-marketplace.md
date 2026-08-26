@@ -24,14 +24,14 @@ As in any other phase of the purchase, anything can happen during integration. H
 
 ## Enter the access key with the tax invoice
 
-To invoice orders on CNova, you have to provide the Tax Invoice Access Key at the time you enter the tax invoice on the order. Otherwise, you will not be able to ebter tracking data on VTEX for CNova. 
+To invoice orders on CNova, you have to provide the Tax Invoice Access Key at the time you enter the tax invoice on the order. Otherwise, you will not be able to enter tracking data on VTEX for CNova. 
 
-As a result, we will be able to reach the “faturado” status only on VTEX, and updating will have to be done manually directly at the backoffice of Nova.com.
+As a result, we will be able to reach the “Invoiced” status only on VTEX, and updating will have to be done manually directly at the back office of CNova.
 
-The Tax Invoice Access Key is an auxiliary instrument for querying the electronic Tax Invoice (NF-e), enabling the holder of this document to confirm that it actually exists, as well as its field name Invoice Key:
+The Tax Invoice Access Key is an auxiliary instrument for querying the electronic Tax Invoice (NF-e), enabling the holder of this document to confirm that it actually exists. The corresponding field name is Invoice Key:
 
 []![ChaveDeAcesso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-isnt-the-order-invoiced-on-the-marketplace_1.png)
 
-__Remember!__ This information item is created when the Tax Invoice is generated and works on ERP. If you have one, request it.
+__Remember!__ This information is created when the tax invoice is generated in the ERP. If you have one, request it.
 
 This value can be entered manually by the admin or by the [invoice notification API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), in the **invoiceKey** field.
