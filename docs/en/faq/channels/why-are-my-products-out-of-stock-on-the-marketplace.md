@@ -25,6 +25,6 @@ After the configurations, it is necessary to index all products in the database,
 
 Remember! You can monitor the status of the indexation and the status of the integration of the inventories. To do this, access the [indexation report](/en/tutorial/utilizar-o-relatorio-de-indexação) and the [Integrations module](/en/tutorial/bridge/).
 
-___ WARNING: If the sales channel is configured with a collection, it is necessary to verify that the item belongs to the collection. Otherwise, no item information will be updated on the partner.___
+> ⚠️ If the sales channel is configured with a collection, it is necessary to verify that the item belongs to the collection. Otherwise, no item information will be updated on the partner.
 
-___ WARNING: If the store does not use a collection in the sales channel and the configuration is defined specifically in the product, it is necessary to verify if the product is set for sale in the desired channel. Otherwise, no item information will be updated on the partner.___
+> ⚠️ If the store does not use a collection in the sales channel and the configuration is defined specifically in the product, it is necessary to verify if the product is set for sale in the desired channel. Otherwise, no item information will be updated on the partner.
