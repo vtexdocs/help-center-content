@@ -38,12 +38,12 @@ Cada ordem de serviço é apresentada em um cartão com as seguintes informaçõ
 | Informação                               | Descrição                                                                                                                 |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **ID da ordem de serviço**          | Identificador da ordem de serviço na plataforma.                                                                           |
-| **Status**                           | Etapa atual da ordem de serviço, como**Pendente**, **Pronto para empacotamento**, ou **Empacotados**.    |
+| **Status**                           | Etapa atual da ordem de serviço, como **Pendentes**, **Para empacotar** ou **Concluído**.    |
 | **Pedidos**                          | IDs dos pedidos agrupados na ordem de serviço.                                                                             |
 | **Data de início**                  | Data e hora em que a separação dos itens começou.                                                                        |
 | **Prazo**                            | Data e hora limite para concluir o manuseio da ordem de serviço.                                                           |
 | **Separador**                        | Separador responsável pela ordem de serviço.                                                                              |
-| **Instalação**                     | [Instalação](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) em que a ordem de serviço é processada. |
+| **Instalação**                     | [Instalação](/pt/docs/tutorials/gerenciar-estoque) em que a ordem de serviço é processada. |
 | **Separado** ou **Empacotado** | Progresso da etapa atual, em unidades processadas do total previsto.                                                        |
 
 ![Card da ordem de serviço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_2.png)
@@ -95,7 +95,7 @@ Para abrir o painel de detalhes, clique na ordem de serviço desejada na página
 
 | Informação                  | Descrição                                                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **Instalação**        | [Instalação](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) em que a ordem de serviço é processada. |
+| **Instalação**        | [Instalação](/pt/docs/tutorials/gerenciar-estoque) em que a ordem de serviço é processada. |
 | **Data de criação**   | Data e hora em que a ordem de serviço foi criada.                                                                          |
 | **Data de início**     | Data e hora em que a separação dos itens começou.                                                                        |
 | **Pedidos**             | Quantidade de pedidos agrupados na ordem de serviço.                                                                       |
@@ -184,6 +184,6 @@ O **Inbox** organiza as conversas com os separadores por ordem de serviço. A et
 
 Para responder a um separador, clique na conversa desejada e escreva a mensagem. Você também pode enviar arquivos, localizações e mensagens de áudio.
 
-![Menu de ações do painel de detalhes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_7.png)
+![Tela do Inbox com a lista de conversas por ordem de serviço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-ordens-de-servico_7.png)
 
 > ℹ️ O **Inbox** depende da opção **Permitir chat de suporte**, habilitada na página [Configurações](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes).
