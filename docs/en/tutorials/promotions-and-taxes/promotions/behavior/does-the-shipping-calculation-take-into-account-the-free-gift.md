@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The system charges shipping bearing in mind the free gift in the shopping cart.
+The system charges shipping taking into account the free gift in the shopping cart.
 
 To calculate the shipping, it is necessary to also take into account the volume and weight of the free gift.
 
@@ -28,6 +28,6 @@ This means that when a gift is added to the cart, the shipping cost may be adjus
 - Create a combined promotion that guarantees free shipping for the gift. This ensures that shipping remains free even when the gift is added to the cart.
 - Set the gift's dimensions (size and volume) to zero. This way, the system will disregard the gift in the shipping cost calculation, preventing additional charges.
 
-## Dealing with selecting the free gift at the front
+## Dealing with selecting the free gift on the storefront
 
-The front can "uncheck" the selection of the free gift. In this case, the free gift will be displayed below the list of the main items. When selecting the free gift, the customer will see a message from the shopping cart indicating that the shipping cost has increased. So, they can decide whether or not to keep the free gift in the shopping cart.
+The storefront can "uncheck" the selection of the free gift. In this case, the free gift will be displayed below the list of the main items. When selecting the free gift, the customer will see a message from the shopping cart indicating that the shipping cost has increased. So, they can decide whether or not to keep the free gift in the shopping cart.

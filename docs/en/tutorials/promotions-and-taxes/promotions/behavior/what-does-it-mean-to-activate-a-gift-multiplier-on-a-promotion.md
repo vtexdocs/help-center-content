@@ -32,7 +32,7 @@ When configuring a Buy One Get One or Regular promotion, you can use the gift mu
 Below, you'll find more details about how the multiplier works in both scenarios and how to configure it in VTEX Admin.
 
 ## Gift multiplier behavior
-In the Gift drawer under `Add benefit`, there's a selector that determines how the maximum number of gifts will be applied. There are two options:
+In the **Gift** drawer under `Add benefit`, there's a selector that determines how the maximum number of gifts will be applied. There are two options:
 
 ### Per cart
 The maximum number of gifts is applied only once, regardless of the number of eligible SKUs in the cart.

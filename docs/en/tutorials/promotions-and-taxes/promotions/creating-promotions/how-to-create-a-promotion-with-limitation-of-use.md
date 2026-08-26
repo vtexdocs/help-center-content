@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-If you want regular promotion to be applied only for a limited number of times, uncheck the **unlimited** option in restrictions and limitations of use. After that, a field becomes available, to register the number of times the promotion can be applied to purchases in your store. So, if you register the number 10, the promotion will only be granted to the first 10 completed orders that meet the rules of the promotion in your store.
+If you want a regular promotion to be applied only a limited number of times, uncheck the **unlimited** option in the restrictions and limitations of use section. A field then becomes available so you can enter the number of times the promotion can be applied to purchases in your store. So, if you enter the number 10, the promotion will only be granted to the first 10 completed orders that meet the rules of the promotion in your store.
 
-> ⚠️ Orders with status `Canceling` or `Canceled` do not count in the defined limit.
+> ⚠️ Orders with status `Canceling` or `Canceled` do not count toward the defined limit.
 
 ![promotion-with-restriction-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotions/how-to-create-a-promotion-with-limitation-of-use_1.png)
 
@@ -25,4 +25,4 @@ You can also set the limit per customer, rather than a general usage limit. To d
 
 ## Learn more
 
-- [Understand more about each type of promotion](/en/docs/tutorials/creating-promotions).
+- [Learn more about each type of promotion](/en/docs/tutorials/creating-promotions).

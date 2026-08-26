@@ -14,26 +14,23 @@ locale: en
 legacySlug: untitled-entry-2019-02-20-at-05-47-19
 ---
 
-Lookbook Creation: it's possible that the product images will not appear in the shop window, even if they have already been input.
+Outfit images (previously called Kit Look or Lookbook) may not appear in the shop window even after they have been uploaded.
 
-This can happen because of the Label. This identification works like a "tag" that organizes your site's page template.
+This can happen when the **Label** field is empty. The Label works like a tag that organizes images in the page template.
 
-__Attention__: it's worth noting that the Label field is mandatory and does not support the use of special characters, accents or blanks.
+> ⚠️ The Label field is mandatory and does not support special characters, accents, or spaces.
 
-Even if the store sets up all products and their respective SKUs, if the Label field is empty, the Lookbook view does not work.
+Even if you configure all products and their SKUs, the Outfit view does not work if the Label field is empty.
 
-Below, learn how to set this feature up.
+To fill in the Label field, follow the steps below.
 
-__Fill in the Label field__
+## Filling in the Label field
 
-1. Access the __Catalog__;
-2. Click __Products and SKUs__;
-3. Click the __product__ you want to set up;
-4. Go to the __Images__ tab;
-5. Enter a term to populate the __Label__;
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type **Products and SKUs** in the search bar at the top of the page.
+2. Click the **product** you want to configure.
+3. Go to the **Images** tab.
+4. In the **Label** field, enter a value.
+    ![Kit Look - Label - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/kitlook-is-not-displayed-in-the-shop-window_1.jpg)
+5. Click **Save**.
 
-  ![Kit Look - Label - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/kitlook-is-not-displayed-in-the-shop-window_1.jpg)
-
-6. Click __Save__.
-
-Done! Your Lookbook should display all images correctly after this procedure. Do not forget to save the Label code, otherwise the setting will not be updated.
+After you save, the Outfit images should display correctly in the shop window.
