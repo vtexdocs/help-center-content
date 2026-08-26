@@ -51,6 +51,12 @@ Example: Suppose a customer wants to search for the term `ball`. Using the defau
 
 > ℹ️ Blank spaces aren't accounted for in *fuzzy* matching, so `base ball` won't be corrected to `baseball`. We recommend using [synonyms](/en/docs/tutorials/synonyms) for such cases.
 
+### Stemming (word roots)
+
+Intelligent Search uses a language analyzer to normalize searched terms, unifying singular and plural variations of the same word into the same root. For example, in English stores, a search for `sneaker` also returns products that contain `sneakers`.
+
+> ℹ️ VTEX fixed stemming inconsistencies in the English language analyzer for terms like `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves`, and `supplies`, whose plural forms weren't mapped correctly to the singular root. This fix isn't automatically applied to all accounts: to request it for an English store, contact [VTEX Support](https://supporticket.vtex.com/support).
+
 ### Minimum result
 
 The minimum number of results displayed for any search is 1. If a search doesn't meet this minimum, [autocorrect](#autocorrect) is applied.
