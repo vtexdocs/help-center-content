@@ -32,6 +32,6 @@ The Tax Invoice Access Key is an auxiliary instrument for querying the electroni
 
 []![ChaveDeAcesso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-isnt-the-order-invoiced-on-the-marketplace_1.png)
 
-__Remember!__ This information is created when the tax invoice is generated in the ERP. If you have one, request it.
+> The access key is generated when the tax invoice is issued in the ERP. If your store uses an ERP, request the key from that system.
 
 This value can be entered manually by the admin or by the [invoice notification API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), in the **invoiceKey** field.
