@@ -1,5 +1,5 @@
 ---
-title: 'Lista de Promoções'
+title: 'Promoções'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
@@ -13,6 +13,7 @@ slugEN: promotion-list-beta
 legacySlug: lista-de-promocoes-beta
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+categoryCover: true
 ---
 
 A plataforma VTEX disponibiliza uma forma otimizada e prática de cadastrar diversos tipos de promoção que se adequam a diferentes cenários. Por meio de uma interface centralizada para gerenciamento de promoções, sua loja pode oferecer mais benefícios focados na atração e fidelização de clientes.

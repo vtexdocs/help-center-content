@@ -1,5 +1,5 @@
 ---
-title: 'Shipping rates'
+title: 'Shipping Rates'
 id: 1Balpg3rv0854udEPedvMM
 status: PUBLISHED
 createdAt: 2021-08-12T16:00:03.291Z

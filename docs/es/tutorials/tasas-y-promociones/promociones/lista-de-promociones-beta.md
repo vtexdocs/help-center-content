@@ -1,5 +1,5 @@
 ---
-title: 'Lista de Promociones'
+title: 'Promociones'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z

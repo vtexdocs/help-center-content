@@ -1,5 +1,5 @@
 ---
-title: 'Estilos - Información general'
+title: 'Estilos'
 id: v0Db5ohEKSFIkTzSwCjVi
 status: PUBLISHED
 createdAt: 2022-01-04T21:56:41.366Z
@@ -13,7 +13,6 @@ slugEN: styles-overview
 legacySlug: estilos-vision-general
 locale: es
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
-order: 1
 ---
 
 La página **Estilos** te permite definir la tipografía y la paleta de colores del sitio web de tu tienda.
