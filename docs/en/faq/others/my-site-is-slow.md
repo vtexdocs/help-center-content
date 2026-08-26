@@ -1,5 +1,5 @@
 ---
-title: 'My site is slow. What to do?'
+title: 'My site is slow. What should I do?'
 id: KdXFFAzwoCewqaSOmsigK
 status: PUBLISHED
 createdAt: 2018-02-06T13:14:40.270Z
@@ -22,7 +22,7 @@ If you believe your store is slow, check each of the scenarios below.
 
 - [External Files](#external-files)
 - [Synchronous requests](#synchronous-requests)
-- [Too heavy images](#too-heavy-images)
+- [Oversized images](#oversized-images)
 - [Marketing tags, scripts and extensions](#marketing-tags-scripts-and-extensions)
 - [Few cached pages](#few-cached-pages)
 
@@ -40,11 +40,11 @@ Example: If your store makes a request for the script from a media partner direc
 
 In some cases this wait is required for the right functioning of the store. But in others it isn't. Imagine, for example, a chat box service. You don't need to stop loading the page until it runs.
 
-### Too heavy images
+### Oversized images
 
-When an image is sized larger than the one actally displayed on the site, the user's browser downloads the entire image and then reduces it when showing it to the user.
+When an image is sized larger than the one actually displayed on the site, the user's browser downloads the entire image and then reduces it when showing it to the user.
 
-As a result, the page takes longer to load than it would need.
+As a result, the page takes longer to load than necessary.
 
 Images larger than necessary are a usual cause of slowness.
 
@@ -52,7 +52,7 @@ Understand this subject in depth by reading the article [Improving the performan
 
 ### Marketing tags, scripts, and extensions
 
-It's critical that you be assured all of your store's extensions are there for a valid reason.
+It's critical that you be sure that all of your store's extensions are there for a valid reason.
 
 Otherwise, it may be that a third-party service is taking unnecessary loading time.
 

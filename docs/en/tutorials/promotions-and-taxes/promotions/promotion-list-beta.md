@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The VTEX platform allows you to optimally and practically add different promotion types suited for different scenarios. Through a centralized interface for managing promotions, your store can offer more benefits focused on customer attraction and retention.
+The VTEX platform lets you add different promotion types for different scenarios. Through a centralized interface for managing promotions, your store can offer more benefits focused on customer attraction and retention.
 
 The **Promotions** module is flexible when it comes to creating promotion scenarios with specific conditions for different contexts. Besides filtering and exporting promotions, you can view the active ones and archive them.
 
-Access the page in the VTEX Admin through the <i class="fas fa-bullhorn"></i> **Promotions > Promotions**.
+Access the page in the VTEX Admin at <i class="fas fa-bullhorn"></i> **Promotions > Promotions**.
 
 The page displays the list of your store's promotions and their basic information:
 
@@ -28,7 +28,7 @@ The page displays the list of your store's promotions and their basic informatio
 | `Name` | Promotion name. |
 | `From` | Promotion start date. |
 | `To` | Promotion end date. |
-| `Status` | Promotion status, which can be:  __Active:__ when a promotion is active. __Scheduled:__ when the promotion was scheduled. __Paused:__ when the promotion is paused. __Completed:__ when the promotion ended. |
+| `Status` | Promotion status, which can be:  __Active:__ when a promotion is active. __Scheduled:__ when the promotion is scheduled. __Paused:__ when the promotion is paused. __Completed:__ when the promotion ended. |
 
 ![listadepromocoes en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_1.gif)
 
@@ -96,8 +96,8 @@ The promotion list can be filtered according to your needs by using the followin
 
 - **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion).
 - **Status:** The status of the promotion. The options are: `Active`, `Scheduled`, `Paused`, and `Completed`.
-- **Last modified:** Last update history for the last 12 months, 3 months, 30 days, 7 days, or the day before the query.
-- **Sales channel:** Sales channel under which the promotion will be applied.
+- **Last modified:** Last modified in the last 12 months, 3 months, 30 days, 7 days, or yesterday.
+- **Sales channel:** Sales channel to which the promotion will be applied.
 - **UTM:** URL parameters used to track traffic. The options are `With UTM` and `Without UTM`. 
 
 Select the desired filters and click on `Apply` to filter the promotions. To cancel the selection, click on `Clear` on the desired filters.
@@ -106,7 +106,7 @@ Select the desired filters and click on `Apply` to filter the promotions. To can
 
 By clicking on the <i class="fas fa-ellipsis-v"></i> icon in a promotion, you can perform the following actions:
 
-- <i class="far fa-check-circle"></i> __Edit:__ edit the promotion
+- <i class="far fa-check-circle"></i> __Edit:__ edit the promotion.
 - <i class="far fa-times-circle"></i> __Deactivate:__ pause the promotion.
 - <i class="far fa-clone"></i> __Duplicate:__ create a copy of the promotion.
 - <i class="fas fa-archive"></i> __Archive:__ archive the promotion. The promotion will automatically be moved to the *[Archived Promotions](#archived-promotions)* page.

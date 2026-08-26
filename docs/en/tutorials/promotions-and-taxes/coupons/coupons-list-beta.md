@@ -37,7 +37,7 @@ Below you will find a description of the page components and the actions you can
 
 ## Top bar
 
-The top bar of the **Coupons** page contains a search field as well as filters and buttons for exporting coupons, consulting coupon usage details and accessing the archived coupon list.  Learn more about each of these possibilities in the sections below.
+The top bar of the **Coupons** page contains a search field as well as filters and buttons for exporting coupons, viewing coupon usage details, and accessing the archived coupon list.  Learn more about each of these possibilities in the sections below.
 
 ### Searching for coupons
 
@@ -77,7 +77,7 @@ The generated file contains the information described below.
 | `utmSource` | Indicates the UTM source linked to the coupon, if any. |
 | `utmCampaign` | Indicates the UTM campaign linked to the coupon, if any. |
 | `maxUsage` | The maximum number of times the coupon can be used. |
-| `maxItemsPerClient` | Determines the maximum number of products to which the coupon can be applied. The defined quantity is valid for one or more purchases made by the same customer. This option mentions a value only for already existing coupons, configured with this limitation in previous versions of the __Coupons__ module. |
+| `maxItemsPerClient` | Determines the maximum number of products to which the coupon can be applied. The defined quantity is valid for one or more purchases made by the same customer. This option shows a value only for existing coupons configured with this limitation in previous versions of the __Coupons__ module. |
 | `expirationIntervalPerUse` | The minimum period of time before a coupon can be reused. |
 | `lastModified` | The date the coupon was last modified. |
 
@@ -120,15 +120,15 @@ To access the archived coupon list, follow the steps below:
 The archived coupon list presents the same information described in the [Coupon list](#coupon-list), except for the options available in the <i class="fas fa-ellipsis-v"></i> menu of each coupon row. The available options for archived coupons are:
 
 * <i class="fas fa-search"></i> **View:** Allows viewing the details of an archived coupon in a non-editable version of the [create and edit coupon form](/en/docs/tutorials/creating-a-coupon-beta).
-* <i class="fas fa-archive"></i> **Unarchive:** Allows accessing a coupon for usage and editing.
+* <i class="fas fa-archive"></i> **Unarchive:** Allows you to restore a coupon so you can use and edit it.
 
 ## Creating a coupon
 
-The `Create coupon` button in the top right corner of the page allows you to access the form for creating a coupon. For more information on this procedure, please read [Creating a cupon](/en/docs/tutorials/creating-a-coupon-beta).
+The `Create coupon` button in the top right corner of the page allows you to access the form for creating a coupon. For more information on this procedure, please read [Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta).
 
 ## Coupon list
 
-The coupon list presents all the active coupons in your store, starting with the most recent one. By clicking on a coupon from the list, you will be redirected to the [edit coupon page](/en/docs/tutorials/creating-a-coupon-beta).
+The coupon list presents all the active coupons in your store, starting with the most recent ones. By clicking on a coupon from the list, you will be redirected to the [edit coupon page](/en/docs/tutorials/creating-a-coupon-beta).
 
 See below for more details on each column of the list:
 
@@ -139,7 +139,7 @@ See below for more details on each column of the list:
 * **Last edit:** Displays the date the coupon was last modified.
 * **Button** <i class="fas fa-ellipsis-v"></i>: Displays a menu with several options, as described below:
    * <i class="fas fa-pencil"></i> **Edit:** Allows accessing the form for editing coupons to view or modify their details. Please read [Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta) for more details on the form. Option available only for active coupons.
-   * <i class="fas fa-archive"></i> **Archive:** Allows archiving the coupon, i.e., deactivate it from being used in the store. Option available only for active coupons.
+   * <i class="fas fa-archive"></i> **Archive:** Allows you to archive the coupon, i.e., deactivate it so it can no longer be used in the store. Option available only for active coupons.
    * <i class="fas fa-download"></i> **Export:** Opens a modal containing coupon batch codes. You can copy them or export them to a CSV file.  Option available only for coupon batches.
    * <i class="far fa-signal-alt-3"></i> **View usage details:** Opens a modal containing coupon usage information. For more details, please read the [View usage details](#view-usage-details) section. Option available only for active coupons.
 
@@ -157,7 +157,7 @@ The **View usage details** modal presents information on how each coupon was use
 
 ![view-usage-details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_5.png)
 
-* **General usage of the coupon codes** (coupon batches): Displays the total amount of times of the codes in a coupon batch have been used and the amount of remaining uses, if you have set a usage limit.
+* **General usage of the coupon codes** (coupon batches): Displays the total number of times the codes in a coupon batch have been used and the number of remaining uses, if you have set a usage limit.
 
    This section also displays the list of codes in the coupon batch and allows you to search for a specific code. When you click on a code, you have access to the list of orders where the code has been used and you can search by an order number. Clicking on an order number will take you to the order details page in **Orders management**.
 

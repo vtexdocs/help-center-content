@@ -1,5 +1,5 @@
 ---
-title: "Why the List Price does not appear on my store's front end?"
+title: "Why does the List Price not appear on my store's front end?"
 id: 7zB1S10crK6QXiWcDTUFtE
 status: PUBLISHED
 createdAt: 2019-03-25T20:41:57.520Z
@@ -18,7 +18,7 @@ In some circumstances, the List Price may not appear in the front-end of the sto
 
 The Price List is just one of the possible configurations when setting the price of a SKU. Generally, the first rules to be defined are the Base Price, the Cost Price and the Markup. 
 
-What happens is that after setting the price for an SKU, this setting is superimposed on the previously set price modification rules. In other words, the list price or default price is "deleted" once the retailer applies a fixed price to an SKU.
+What happens is that after setting the price for an SKU, this setting overrides the previously set price modification rules. In other words, the list price or default price is "deleted" once the retailer applies a fixed price to an SKU.
 
 To display the List Price on the store's front-end once more, the fixed price setting will need to be removed. 
 
@@ -29,13 +29,13 @@ This step-by-step will guide you to that end:
 3. Click on __Price List__
 4. Search for the product you wish to configure by __Name__, __Id__ or __SKU__
 
-Once the product is shown is the search results, just click on any of the cards indicating the price and markup of the item in question.
+Once the product is shown in the search results, just click on any of the cards indicating the price and markup of the item in question.
 
 Thereafter, a tab showing some price details will appear on the left side of the screen.
 
 Continue with the process:
 
-5. Access the __fixed prices__ session
+5. Access the __fixed prices__ section
 6. Delete the __fixed price(s)__
 7. Save the settings by clicking on __Enter__
 
