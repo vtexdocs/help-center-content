@@ -35,4 +35,4 @@ No es necesaria ninguna acción. Esta mejora de ordenación se aplica automátic
 Para más detalles, consulta:
 
 * [Relevancia](https://help.vtex.com/es/docs/tutorials/intelligent-search-como-funciona-la-relevancia-de-los-resultados-de-busqueda#etapa-2-como-intelligent-search-ordena-los-resultados)
-* [Comportamiento de la búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-la-busqueda#resultado-minimo)
+* [Comportamiento de búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-busqueda#resultado-minimo)
