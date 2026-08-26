@@ -24,9 +24,9 @@ To specify the type of delivery to which you want to apply the benefit, you must
 
 ![promoções-campo-tipo-frete en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-doesnt-my-benefit-work-for-all-types-of-delivery_1.png)
 
-Once this has been done, the specified shipping types will enter the promotion and will appear to the customer with free shipping available.
+Once this has been done, the specified shipping types will be included in the promotion and will appear to the customer with free shipping available.
 
-You can also activate the __Apply selected discount only when one of the above carriers is selected by the customer__ flag. In such case, the benefit will be applied to all shipping types selected by the customer.
+You can also activate the __Apply selected discount only when one of the above carriers is selected by the customer__ flag. In such a case, the benefit will be applied to all shipping types selected by the customer.
 
 ### Related articles
 - [Promotions, taxes and coupons - Overview](/en/docs/tutorials/overview-pricing-module)

@@ -19,7 +19,7 @@ The first step of any integration is to set up the sales policy that will be use
 
 One of the functions of sales policies is to make a differentiation of __catalog__ and/or __logistics__ between the different sales channels of your store. That is, a new sales policy is only necessary when one of these factors is different between the sales channels.
 
-A single sales policy can be shared by more than one marketplace or between the main store and the marketplace. To do this, simply use the same sales policy ID in the [settings](/en/tutorial/integrating-with-marketplace). By doing so, the same catalog and the same logistics will be used for the stores or channels that are configured with the same sales policy.
+A single sales policy can be shared by more than one marketplace or between the main store and the marketplace. To do this, use the same sales policy ID in the [settings](/en/tutorial/integrating-with-marketplace). By doing so, the same catalog and the same logistics will be used for the stores or channels that are configured with the same sales policy.
 
 ![carrefour.en2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/netshoes-integration-set-up/setting-up-a-marketplace-trade-policy_1.png)
 

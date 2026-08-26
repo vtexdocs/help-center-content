@@ -1,7 +1,7 @@
 ---
 title: "Relevancia"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-07-07T00:00:00.000Z
+updatedAt: 2026-08-25T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -25,6 +25,8 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
 | Grupo 2 | [AND con fuzzy](#operadores-y-fuzzy) | Busca productos con todas las palabras, pero acepta pequeñas variaciones (por ejemplo, errores de escritura, diferencias de acentuación).       |                 |
 | Grupo 3 | [OR sin fuzzy](#operadores-y-fuzzy)  | Acepta productos que contengan cualquiera de las palabras buscadas, pero exige coincidencia exacta.                                             |                 |
 | Grupo 4 | [OR con fuzzy](#operadores-y-fuzzy)  | Último recurso: acepta productos con cualquiera de las palabras, con tolerancia a variaciones.                                                  | Menor prioridad |
+
+> ℹ️ Para los resultados de fallback de OR (Grupos 3 y 4), la relevancia pondera la frecuencia con la que aparece cada palabra encontrada en el producto y qué tan rara es esa palabra en el catálogo, en lugar de solo contar cuántas palabras coincidieron individualmente. Las palabras más raras y distintivas (como el nombre de un producto) pesan más que las palabras comunes (como una unidad de medida), lo que hace que los productos más relevantes aparezcan primero. Por ejemplo, una búsqueda de "analgésico paracetamol 50 tabletas" que cae a OR prioriza productos con paracetamol frente a productos sin relación con la búsqueda que también contengan "50" y "tabletas", como un "organizador de 50 tabletas".
 
 ### Operadores y fuzzy
 
