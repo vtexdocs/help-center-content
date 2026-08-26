@@ -38,6 +38,12 @@ Intelligent Search intenta buscar productos que correspondan a la búsqueda en g
 
 > ℹ️ Intelligent Search elige el operador y el nivel de fuzzy automáticamente. El retailer no controla ese comportamiento. El sistema empieza por el grupo más restringido (AND sin fuzzy) y avanza hacia grupos más permisivos solo si el anterior no devuelve resultados. Para más detalles, consulta [Comportamiento de la búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-busqueda).
 
+### Stemming (raíz de las palabras)
+
+Intelligent Search también normaliza variaciones de singular y plural de una misma palabra, unificándolas en la misma raíz antes de la coincidencia. Por ejemplo, en tiendas en inglés, una búsqueda de `sneaker` también encuentra productos con `sneakers`.
+
+> ℹ️ VTEX corrigió inconsistencias de stemming en el analizador de idioma inglés para términos como `sticks`, `sharpies`, `its`, `bags`, `boards`, `books`, `bowls`, `cards`, `crackers`, `dividers`, `games`, `glue-sticks`, `k-cups`, `knives`, `nuts`, `rolls`, `shelves` y `supplies`, cuyas formas en plural no se mapeaban correctamente a la raíz en singular. Esta corrección no se aplica automáticamente a todas las cuentas: para solicitarla en una tienda en inglés, ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support). Más información en [Comportamiento de la búsqueda](https://help.vtex.com/es/docs/tutorials/comportamiento-de-busqueda#stemming-raiz-de-las-palabras).
+
 ### Flujo de decisión
 
 - Si el Grupo 1 devuelve resultados → se muestran y se detiene.
