@@ -20062,7 +20062,7 @@
                 },
                 {
                   "name": {
-                    "en": "Send the item price, with tax shown separately, to the Gateway or the ERP",
+                    "en": "Sending the item price with tax shown separately to the gateway or the ERP",
                     "es": "Enviar al Gateway o al ERP el precio del item ya con el impuesto separado",
                     "pt": "Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado"
                   },
@@ -21046,6 +21046,21 @@
                     },
                     {
                       "name": {
+                        "en": "Deleting a website",
+                        "es": "Cómo borrar un website",
+                        "pt": "Como deletar um website"
+                      },
+                      "slug": {
+                        "en": "how-to-delete-a-website",
+                        "es": "como-borrar-un-website",
+                        "pt": "como-deletar-um-website"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Develop the front-end for the list feature in your store",
                         "es": "Desarrollar el front-end para la feature de listas en su tienda",
                         "pt": "Desenvolver o front-end para a feature de listas na sua loja"
@@ -21204,21 +21219,6 @@
                         "en": "how-to-delete-a-collection",
                         "es": "como-eliminar-una-coleccion",
                         "pt": "como-deletar-colecao"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "How to delete a website",
-                        "es": "Cómo borrar un website",
-                        "pt": "Como deletar um website"
-                      },
-                      "slug": {
-                        "en": "how-to-delete-a-website",
-                        "es": "como-borrar-un-website",
-                        "pt": "como-deletar-um-website"
                       },
                       "origin": "",
                       "type": "markdown",
