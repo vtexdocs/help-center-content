@@ -31129,21 +31129,6 @@
                 },
                 {
                   "name": {
-                    "pt": "Publicação de produtos Amazon",
-                    "en": "Publicação de produtos Amazon",
-                    "es": "Publicação de produtos Amazon"
-                  },
-                  "slug": {
-                    "pt": "publicacao-de-produtos-amazon",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Refurbished products on Mercado Libre",
                     "es": "Productos reacondicionados en Mercado Libre",
                     "pt": "Refurbished products on Mercado Libre"
@@ -31182,6 +31167,37 @@
                     "en": "warehouse-assignment-on-mercado-libre",
                     "es": "asignacion-de-almacen-en-mercado-libre",
                     "pt": "alocacao-de-estoque-no-mercado-livre"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Configurações de integrações",
+                "es": "Configurações de integrações",
+                "pt": "Configurações de integrações"
+              },
+              "slug": {
+                "en": "configuracoes-de-integracoes",
+                "es": "configuracoes-de-integracoes",
+                "pt": "configurações-de-integrações-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Publicação de produtos Amazon",
+                    "en": "Publicação de produtos Amazon",
+                    "es": "Publicação de produtos Amazon"
+                  },
+                  "slug": {
+                    "pt": "publicacao-de-produtos-amazon",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -67778,6 +67794,21 @@
                 "en": "product-quantity-selector-error-for-high-resolution-screens",
                 "es": "error-en-el-selector-de-cantidad-de-productos-para-pantallas-de-alta-resolucion",
                 "pt": "erro-no-seletor-de-quantidade-de-produto-para-telas-de-alta-resolucao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product specification field is not displayed on PDP when its name matches the specification group name",
+                "es": "El campo de especificación del producto no se muestra en PDP cuando su nombre coincide con el nombre del grupo de especificación.",
+                "pt": "O campo de especificação do produto não é exibido na página de detalhes do produto (PDP) quando seu nome corresponde ao nome do grupo de especificações."
+              },
+              "slug": {
+                "en": "product-specification-field-is-not-displayed-on-pdp-when-its-name-matches-the-specification-group-name",
+                "es": "el-campo-de-especificacion-del-producto-no-se-muestra-en-pdp-cuando-su-nombre-coincide-con-el-nombre-del-grupo-de-especificacion",
+                "pt": "o-campo-de-especificacao-do-produto-nao-e-exibido-na-pagina-de-detalhes-do-produto-pdp-quando-seu-nome-corresponde-ao-nome-do-grupo-de-especificacoes"
               },
               "origin": "",
               "type": "markdown",
