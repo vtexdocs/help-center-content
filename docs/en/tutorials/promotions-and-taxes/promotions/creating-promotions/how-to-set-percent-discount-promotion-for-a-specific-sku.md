@@ -29,4 +29,4 @@ For this configuration, you must set up a More for Less promotion, and select th
 
 In this configuration, the SKU will be sold with the discount you entered.
 
-**Remember!** This promotion is not applied on the storefront; it is applied only on the product page.
+> ⚠️ This promotion is not applied on the storefront. It is applied only on the product page.
