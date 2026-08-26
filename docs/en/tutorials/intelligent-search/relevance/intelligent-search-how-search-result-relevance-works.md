@@ -1,7 +1,7 @@
 ---
 title: "Relevance"
 createdAt: 2026-07-07T00:00:00.000Z
-updatedAt: 2026-08-25T00:00:00.000Z
+updatedAt: 2026-08-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: intelligent-search-how-search-result-relevance-works
@@ -97,6 +97,14 @@ The keyword is the main word that defines the product. Intelligent Search automa
 
 The product name keyword match and the brand match are cumulative: a product that matches both at the same time gets the highest possible score. Having just one of the two already gives an advantage over products with no keyword match at all.
 
+#### Keywords from specifications
+
+In addition to the product name and brand, you can configure product specifications to also generate keywords. When a specification is set to generate keywords, the values filled in it count as product keywords, with the same weight as keywords extracted from the name or brand.
+
+This setup is especially useful in catalogs where search-relevant information is stored in specifications, not in the product name. For example, this happens when the name doesn't describe the type, function, or other central attribute of the item.
+
+> ℹ️ This feature is available on demand. To enable it, contact [VTEX Support](https://supporticket.vtex.com/support).
+
 ### Merchandising rules
 
 [Merchandising rules](https://help.vtex.com/en/docs/tutorials/merchandising-rules) are manual configurations set by the merchant to adjust search results. They have the highest priority in the algorithm and allow three actions:
@@ -163,3 +171,12 @@ The impact of each criterion is determined by the weight configured by the merch
 | Minoxidil Hair Growth Shampoo (HairCare Plus)             | Low       | Keyword from the name is "Shampoo" and the brand is "HairCare Plus": no keyword or brand match, despite the word "Minoxidil" in the name. |
 
 \* Tie in relevance score. Both have exactly one keyword match. The final order between them is determined by the configured relevance criteria (example: best sellers, discount, release date).
+
+### Search: "frost free"
+
+| Product (name) | Relevance | Rationale |
+| :---- | :---- | :---- |
+| Refrigerator Duplex 400L (specification "Defrost technology": Frost Free) | High | The "Defrost technology" specification is configured to generate keywords. The value "Frost Free" matches the search and generates the same bonus as a keyword match, even though the term doesn't appear in the product name. |
+| Refrigerator 400L (specification "Defrost technology": Cyclic) | Low | The name contains "Refrigerator", but neither the name nor the specification value matches "frost free": there's no keyword match. |
+
+In this example, the term "frost free" doesn't appear in the first product's name, but it's filled in a specification configured to generate keywords. This ensures high relevance even when the most search-relevant information is in the specification, not in the name. This behavior is especially useful for catalogs where the product name doesn't describe all its relevant attributes.
