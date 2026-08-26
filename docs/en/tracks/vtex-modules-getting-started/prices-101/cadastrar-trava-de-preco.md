@@ -39,7 +39,7 @@ To add a **price variation limiter**, you need to send a __POST__ to the followi
 
 - The request object has the following properties:
 
-| __Properties__ | __Types__ | __Description__ |
+| Properties | Types | Description |
 |------------------|-----------|-------------|
 | priceVariation | object | Price variation |
 | upperLimit | integer | Upper limit |

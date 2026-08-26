@@ -45,7 +45,7 @@ It is not necessary to activate the email sending manually, since they are sent 
 
 The table below shows the default email templates for **Subscriptions**:
 
-| **Nome do template** | **ID** | **Descrição** |
+| Nome do template | ID | Descrição |
 | --- | --- | --- |
 | Subscriptions - New | `vtexcommerce-subscriptions-create` | Nova assinatura criada com sucesso.<br><br>Existe um período de 30 minutos entre a criação da assinatura e o disparo da notificação do template `vtexcommerce-subscriptions-create`. |
 | Subscriptions - Edited | `vtexcommerce-subscriptions-update` | Assinatura atualizada com sucesso. |
